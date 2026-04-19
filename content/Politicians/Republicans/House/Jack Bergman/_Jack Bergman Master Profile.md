@@ -114,8 +114,8 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 | 2025-09-04 | h235-119.1 | No | Y | — |
 | 2025-09-03 | h230-119.1 | No | Y | — |
 | 2025-09-03 | h228-119.1 | No | Y | — |
-| 2024-07-23 | h386-118.2 | No | Y | — |
-| 2024-07-23 | h380-118.2 | Nay | Y | HR 7887 |
+| 2024-07-23 | h365-118.2 | No | Y | — |
+| 2024-07-23 | h368-118.2 | No | Y | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

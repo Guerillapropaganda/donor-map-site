@@ -122,15 +122,15 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
 | 2026-03-24 | h97-119.2 | Nay | Y | HR 6422 |
-| 2026-03-17 | h89-119.2 | Nay | Y | S 3971 |
 | 2026-03-17 | h88-119.2 | Nay | Y | HR 4294 |
+| 2026-03-17 | h89-119.2 | Nay | Y | S 3971 |
 | 2026-03-04 | h83-119.2 | Nay | Y | HRES 1100 |
 | 2026-03-04 | h82-119.2 | Nay | Y | HR 6472 |
 | 2026-02-09 | h57-119.2 | Nay | Y | HR 6644 |
 | 2026-01-14 | h26-119.2 | No | Y | — |
-| 2026-01-12 | h15-119.2 | Nay | Y | HR 6504 |
 | 2026-01-12 | h14-119.2 | Nay | Y | HR 6500 |
-| 2026-01-08 | h7-119.2 | Nay | Y | HR 6938 |
+| 2026-01-12 | h15-119.2 | Nay | Y | HR 6504 |
+| 2026-01-08 | h5-119.2 | Nay | Y | HR 6938 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

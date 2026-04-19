@@ -107,14 +107,14 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 |---|---|---|---|---|
 | 2026-01-22 | h43-119.2 | No | Y | — |
 | 2026-01-14 | h27-119.2 | No | Y | — |
-| 2025-09-10 | h255-119.1 | Aye | N | — |
 | 2025-09-10 | h254-119.1 | No | Y | — |
-| 2025-09-03 | h231-119.1 | No | Y | — |
+| 2025-09-10 | h255-119.1 | Aye | N | — |
 | 2025-09-03 | h230-119.1 | No | Y | — |
+| 2025-09-03 | h231-119.1 | No | Y | — |
 | 2024-12-17 | h511-118.2 | Nay | Y | HR 1101 |
 | 2024-09-25 | h450-118.2 | Nay | Y | HR 9747 |
-| 2024-07-23 | h373-118.2 | No | Y | — |
 | 2024-07-23 | h370-118.2 | No | Y | — |
+| 2024-07-23 | h373-118.2 | No | Y | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

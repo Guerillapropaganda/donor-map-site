@@ -129,11 +129,11 @@ fec-candidate-id: H4TX32089
 | 2025-12-10 | h320-119.1 | Nay | Y | S 1071 |
 | 2025-12-03 | h311-119.1 | Yea | N | HR 4305 |
 | 2025-11-21 | h305-119.1 | Yea | N | HCONRES 58 |
-| 2025-11-20 | h304-119.1 | Yea | N | HR 1949 |
 | 2025-11-20 | h303-119.1 | Yea | N | HR 3109 |
+| 2025-11-20 | h304-119.1 | Yea | N | HR 1949 |
 | 2025-11-19 | h302-119.1 | Nay | Y | HRES 893 |
 | 2025-07-21 | h213-119.1 | Yea | N | HR 3095 |
-| 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
+| 2025-07-17 | h199-119.1 | Yea | N | HR 3633 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

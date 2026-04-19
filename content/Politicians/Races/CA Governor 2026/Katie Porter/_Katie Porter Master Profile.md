@@ -176,9 +176,9 @@ donors: [[SEIU - Service Employees International Union|SEIU]] · [[Teamsters - I
 | 2024-04-17 | h136-118.2 | Yea | N | HR 4639 |
 | 2024-04-16 | h134-118.2 | Nay | Y | HRES 883 |
 | 2024-04-16 | h131-118.2 | Nay | Y | HR 5826 |
-| 2024-04-12 | h119-118.2 | No | Y | HR 7888 |
-| 2024-04-12 | h118-118.2 | No | Y | — |
 | 2024-04-12 | h115-118.2 | Aye | N | — |
+| 2024-04-12 | h114-118.2 | Aye | N | — |
+| 2024-04-12 | h118-118.2 | No | Y | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

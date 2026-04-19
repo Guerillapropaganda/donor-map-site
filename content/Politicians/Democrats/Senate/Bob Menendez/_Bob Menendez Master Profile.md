@@ -73,7 +73,7 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 | Substantive votes (Y/N) | 1,726 |
 | Votes with party majority | 1,601 |
 | Party-line loyalty | 92.8% |
-| Deviations from party | 117 |
+| Deviations from party | 26 |
 
 **Coverage:**
 
@@ -84,20 +84,20 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 - senate 118/1: 352 votes
 - senate 118/2: 230 votes
 
-**Most recent party-line deviations (top 10 of 117):**
+**Most recent party-line deviations (top 10 of 26):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s161-116.2 | Nay | Y | PN 1713 |
-| September  | s160-116.2 | Nay | Y | PN 1511 |
-| September  | s163-116.2 | Nay | Y | PN 1431 |
-| September  | s162-116.2 | Nay | Y | PN 1511 |
-| September  | s204-115.2 | Nay | Y | PN 1650 |
-| September  | s202-115.2 | Nay | Y | PN 2047 |
-| September  | s201-115.2 | Nay | Y | PN 2047 |
-| September  | s312-116.1 | Nay | Y | PN 585 |
-| September  | s308-116.1 | Nay | Y | PN 585 |
-| September  | s215-115.2 | Nay | Y | PN 2048 |
+| 2024-04-19 | s150-118.2 | Nay | Y | H.R. 7888 |
+| 2024-04-19 | s149-118.2 | Yea | N | — |
+| 2024-04-19 | s146-118.2 | Yea | N | — |
+| 2024-04-19 | s144-118.2 | Yea | N | — |
+| 2024-04-19 | s143-118.2 | Nay | Y | H.R. 7888 |
+| 2024-04-18 | s141-118.2 | Nay | Y | H.R. 7888 |
+| 2024-03-23 | s107-118.2 | Nay | Y | H.R. 2882 |
+| 2024-03-21 | s101-118.2 | Nay | Y | S.J.Res. 62 |
+| 2024-02-29 | s62-118.2 | Yea | N | S.J.Res. 60 |
+| 2024-02-07 | s39-118.2 | Nay | Y | H.R. 815 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

@@ -136,8 +136,8 @@ top-donors: "[[Coinbase]], [[International Longshore and Warehouse Union -- Poli
 | 2026-01-09 | h12-119.2 | Yea | N | HR 5184 |
 | 2025-12-11 | h328-119.1 | Aye | N | HR 3383 |
 | 2025-12-11 | h324-119.1 | Yea | N | HR 3638 |
-| 2025-12-04 | h314-119.1 | Yea | N | HR 1049 |
 | 2025-12-04 | h313-119.1 | Yea | N | HR 1069 |
+| 2025-12-04 | h314-119.1 | Yea | N | HR 1049 |
 | 2025-12-03 | h311-119.1 | Yea | N | HR 4305 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*

@@ -74,8 +74,8 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s521-119.1 | Nay | Y | S.Con.Res. 22 |
-| February 2 | s77-119.1 | Yea | N | — |
+| 2025-09-16 | s521-119.1 | Nay | Y | S.Con.Res. 22 |
+| 2025-02-21 | s77-119.1 | Yea | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

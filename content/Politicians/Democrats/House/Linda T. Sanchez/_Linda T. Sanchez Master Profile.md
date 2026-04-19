@@ -117,8 +117,8 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
 | 2026-03-05 | h84-119.2 | Nay | Y | HRES 1099 |
-| 2025-12-11 | h328-119.1 | Aye | N | HR 3383 |
 | 2025-12-11 | h326-119.1 | No | Y | — |
+| 2025-12-11 | h328-119.1 | Aye | N | HR 3383 |
 | 2025-07-21 | h213-119.1 | Yea | N | HR 3095 |
 | 2025-06-24 | h175-119.1 | Nay | Y | HRES 537 |
 | 2025-06-12 | h166-119.1 | Nay | Y | S 331 |

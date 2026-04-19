@@ -121,10 +121,10 @@ urls-first-triaged: "2026-04-15"
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| July 1, 20 | s355-119.1 | Yea | N | — |
-| January 30 | s15-119.2 | Yea | N | — |
-| February 2 | s77-119.1 | Yea | N | — |
-| August 1,  | s481-119.1 | Nay | Y | — |
+| 2026-01-30 | s15-119.2 | Yea | N | — |
+| 2025-08-01 | s481-119.1 | Nay | Y | — |
+| 2025-07-01 | s355-119.1 | Yea | N | — |
+| 2025-02-21 | s77-119.1 | Yea | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

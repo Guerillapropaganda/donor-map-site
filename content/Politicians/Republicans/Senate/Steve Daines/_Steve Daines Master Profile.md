@@ -124,7 +124,7 @@ top-donors: "[[AT&T - WarnerMedia]], [[DoorDash]], [[Johnson & Johnson]], [[Asso
 | Substantive votes (Y/N) | 2,673 |
 | Votes with party majority | 2,541 |
 | Party-line loyalty | 95.1% |
-| Deviations from party | 127 |
+| Deviations from party | 100 |
 
 **Coverage:**
 
@@ -137,20 +137,20 @@ top-donors: "[[AT&T - WarnerMedia]], [[DoorDash]], [[Johnson & Johnson]], [[Asso
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 127):**
+**Most recent party-line deviations (top 10 of 100):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s192-115.1 | Nay | Y | H.R. 601 |
-| September  | s191-115.1 | Nay | Y | H.R. 601 |
-| September  | s241-118.1 | Nay | Y | H.R. 3935 |
-| September  | s240-118.1 | Nay | Y | H.R. 3935 |
-| September  | s311-116.1 | Nay | Y | H.R. 4378 |
-| September  | s310-116.1 | Yea | N | — |
-| September  | s190-116.2 | Nay | Y | PN 1314 |
-| September  | s191-116.2 | Nay | Y | PN 1314 |
-| September  | s211-115.2 | Nay | Y | H.R. 6157 |
-| September  | s208-115.2 | Yea | N | — |
+| 2025-08-01 | s478-119.1 | Yea | N | — |
+| 2025-04-05 | s181-119.1 | Yea | N | — |
+| 2025-02-21 | s77-119.1 | Yea | N | — |
+| 2024-12-21 | s338-118.2 | Nay | Y | H.R. 82 |
+| 2024-12-19 | s328-118.2 | Nay | Y | H.R. 82 |
+| 2024-05-09 | s161-118.2 | Nay | Y | H.R. 3935 |
+| 2024-04-23 | s153-118.2 | Nay | Y | H.R. 815 |
+| 2024-04-23 | s152-118.2 | Nay | Y | H.R. 815 |
+| 2024-04-19 | s150-118.2 | Nay | Y | H.R. 7888 |
+| 2024-04-19 | s149-118.2 | Yea | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

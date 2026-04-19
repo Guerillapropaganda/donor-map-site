@@ -352,8 +352,8 @@ _No committee data found._
 | 2024-06-28 | h329-118.2 | Aye | N | — |
 | 2024-06-13 | h264-118.2 | Aye | N | — |
 | 2024-05-17 | h218-118.2 | Nay | Y | HRES 1213 |
-| 2024-05-15 | h210-118.2 | Nay | Y | HR 6572 |
 | 2024-05-15 | h203-118.2 | Nay | Y | HR 7581 |
+| 2024-05-15 | h210-118.2 | Nay | Y | HR 6572 |
 | 2024-05-08 | h188-118.2 | Nay | Y | HRES 1209 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*

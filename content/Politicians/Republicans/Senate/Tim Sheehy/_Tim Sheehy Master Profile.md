@@ -129,9 +129,9 @@ top-donors: "[[National Rifle Association]], [[Drummond Co.]], [[Lockheed Martin
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| January 30 | s15-119.2 | Yea | N | — |
-| February 2 | s77-119.1 | Yea | N | — |
-| April 5, 2 | s181-119.1 | Yea | N | — |
+| 2026-01-30 | s15-119.2 | Yea | N | — |
+| 2025-04-05 | s181-119.1 | Yea | N | — |
+| 2025-02-21 | s77-119.1 | Yea | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

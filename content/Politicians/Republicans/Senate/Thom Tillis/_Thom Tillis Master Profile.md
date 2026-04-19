@@ -144,7 +144,7 @@ urls-first-triaged: "2026-04-15"
 | Substantive votes (Y/N) | 2,520 |
 | Votes with party majority | 2,354 |
 | Party-line loyalty | 93.4% |
-| Deviations from party | 163 |
+| Deviations from party | 59 |
 
 **Coverage:**
 
@@ -157,20 +157,20 @@ urls-first-triaged: "2026-04-15"
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 163):**
+**Most recent party-line deviations (top 10 of 59):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s245-118.1 | Yea | N | PN 453 |
-| September  | s310-116.1 | Yea | N | — |
-| September  | s253-118.2 | Yea | N | PN 1902 |
-| September  | s251-118.2 | Yea | N | PN 1342 |
-| September  | s193-116.2 | Yea | N | PN 1693 |
-| September  | s230-118.1 | Yea | N | PN 591 |
-| September  | s229-118.1 | Yea | N | PN 591 |
-| September  | s182-116.2 | Yea | N | PN 1510 |
-| September  | s236-118.2 | Yea | N | PN 1807 |
-| September  | s235-118.2 | Yea | N | PN 1807 |
+| 2026-04-16 | s84-119.2 | Nay | Y | H.J.Res. 140 |
+| 2026-04-15 | s83-119.2 | Nay | Y | H.J.Res. 140 |
+| 2026-03-12 | s53-119.2 | Nay | Y | H.R. 6644 |
+| 2026-03-11 | s52-119.2 | Nay | Y | H.R. 6644 |
+| 2026-03-11 | s51-119.2 | Nay | Y | — |
+| 2026-03-04 | s45-119.2 | Nay | Y | H.R. 6644 |
+| 2026-01-30 | s15-119.2 | Yea | N | — |
+| 2026-01-30 | s14-119.2 | Nay | Y | — |
+| 2025-12-18 | s654-119.1 | Yea | N | S.J.Res. 82 |
+| 2025-12-10 | s641-119.1 | Yea | N | S.J.Res. 82 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

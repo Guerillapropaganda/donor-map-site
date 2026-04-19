@@ -199,9 +199,9 @@ SORT title ASC
 | 2026-01-15 | h29-119.2 | Nay | Y | — |
 | 2026-01-14 | h28-119.2 | Nay | Y | HR 7006 |
 | 2026-01-12 | h14-119.2 | Nay | Y | HR 6500 |
-| 2026-01-08 | h7-119.2 | Nay | Y | HR 6938 |
-| 2026-01-08 | h6-119.2 | Nay | Y | HR 6938 |
 | 2026-01-08 | h5-119.2 | Nay | Y | HR 6938 |
+| 2026-01-08 | h6-119.2 | Nay | Y | HR 6938 |
+| 2026-01-08 | h7-119.2 | Nay | Y | HR 6938 |
 | 2025-12-10 | h320-119.1 | Nay | Y | S 1071 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*

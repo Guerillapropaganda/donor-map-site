@@ -242,7 +242,7 @@ AIPAC's $5M+ independent spending on Schiff's behalf during 2023–2024 reflecte
 | Substantive votes (Y/N) | 1,916 |
 | Votes with party majority | 1,839 |
 | Party-line loyalty | 96.0% |
-| Deviations from party | 76 |
+| Deviations from party | 50 |
 
 **Coverage:**
 
@@ -253,20 +253,20 @@ AIPAC's $5M+ independent spending on Schiff's behalf during 2023–2024 reflecte
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 76):**
+**Most recent party-line deviations (top 10 of 50):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| October 9, | s570-119.1 | Nay | Y | S. 2296 |
-| October 27 | s589-119.1 | Yea | N | PN 466-3 |
-| October 22 | s582-119.1 | Yea | N | PN 466-3 |
-| October 21 | s577-119.1 | Yea | N | PN 466-6 |
-| October 16 | s574-119.1 | Yea | N | PN 466-6 |
-| May 21, 20 | s263-119.1 | Yea | N | S. 1582 |
-| May 19, 20 | s262-119.1 | Yea | N | S. 1582 |
-| May 13, 20 | s245-119.1 | Yea | N | PN 12-30 |
-| May 13, 20 | s246-119.1 | Yea | N | PN 12-30 |
-| March 9, 2 | s48-119.2 | Yea | N | PN 711 |
+| 2026-01-15 | s11-119.2 | Nay | Y | H.R. 6938 |
+| 2026-01-15 | s10-119.2 | Nay | Y | H.R. 6938 |
+| 2026-01-12 | s7-119.2 | Nay | Y | H.R. 6938 |
+| 2025-12-17 | s648-119.1 | Nay | Y | S. 1071 |
+| 2025-12-11 | s646-119.1 | Nay | Y | S. 1071 |
+| 2025-10-09 | s570-119.1 | Nay | Y | S. 2296 |
+| 2025-08-01 | s481-119.1 | Nay | Y | — |
+| 2025-08-01 | s480-119.1 | Nay | Y | H.R. 3944 |
+| 2025-08-01 | s479-119.1 | Nay | Y | — |
+| 2025-07-30 | s455-119.1 | Nay | Y | S.J.Res. 34 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

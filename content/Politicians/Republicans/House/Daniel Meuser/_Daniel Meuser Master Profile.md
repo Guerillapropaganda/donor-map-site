@@ -133,15 +133,15 @@ top-donors: "[[Nucor Corporation]], [[National Rifle Association]], [[General Dy
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
 | 2026-02-24 | h72-119.2 | Yea | N | S 2503 |
-| 2026-01-22 | h44-119.2 | No | Y | — |
 | 2026-01-22 | h43-119.2 | No | Y | — |
+| 2026-01-22 | h44-119.2 | No | Y | — |
 | 2026-01-14 | h27-119.2 | No | Y | — |
 | 2025-11-19 | h300-119.1 | Nay | Y | HR 4058 |
 | 2025-09-04 | h236-119.1 | No | Y | — |
 | 2025-09-03 | h232-119.1 | No | Y | — |
 | 2025-06-25 | h180-119.1 | No | Y | — |
 | 2025-06-09 | h157-119.1 | Nay | Y | HR 2035 |
-| 2024-07-23 | h383-118.2 | No | Y | — |
+| 2024-07-23 | h380-118.2 | Nay | Y | HR 7887 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

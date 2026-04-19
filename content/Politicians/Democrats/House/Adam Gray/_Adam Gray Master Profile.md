@@ -136,11 +136,11 @@ top-donors: "[[Amgen Inc]], [[Julia Brownley]], [[Nancy Pelosi]], [[Robert Garci
 | 2026-03-27 | h105-119.2 | Yea | N | HR 7084 |
 | 2026-03-25 | h101-119.2 | Yea | N | HR 5103 |
 | 2026-03-19 | h96-119.2 | Yea | N | HR 4638 |
-| 2026-03-18 | h94-119.2 | Yea | N | HR 1958 |
 | 2026-03-18 | h93-119.2 | Aye | N | HR 556 |
+| 2026-03-18 | h94-119.2 | Yea | N | HR 1958 |
 | 2026-02-24 | h76-119.2 | Yea | N | HR 4626 |
 | 2026-02-12 | h70-119.2 | Yea | N | HR 2189 |
-| 2026-02-11 | h67-119.2 | Yea | N | HR 261 |
+| 2026-02-11 | h64-119.2 | Yea | N | HR 3617 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

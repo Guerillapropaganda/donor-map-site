@@ -73,7 +73,7 @@ donors: [[Koch Network - Charles Koch]]
 | Substantive votes (Y/N) | 2,695 |
 | Votes with party majority | 2,595 |
 | Party-line loyalty | 96.3% |
-| Deviations from party | 95 |
+| Deviations from party | 66 |
 
 **Coverage:**
 
@@ -86,20 +86,20 @@ donors: [[Koch Network - Charles Koch]]
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 95):**
+**Most recent party-line deviations (top 10 of 66):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s241-118.1 | Nay | Y | H.R. 3935 |
-| September  | s310-116.1 | Yea | N | — |
-| September  | s255-118.2 | Nay | Y | H.R. 9747 |
-| September  | s303-116.1 | Nay | Y | S.Res. 331 |
-| September  | s182-116.2 | Yea | N | PN 1510 |
-| September  | s208-115.2 | Yea | N | — |
-| October 4, | s249-118.1 | Yea | N | PN 676 |
-| October 3, | s248-118.1 | Yea | N | PN 676 |
-| October 28 | s335-116.1 | Yea | N | — |
-| October 24 | s248-115.1 | Nay | Y | H.R. 2266 |
+| 2025-08-01 | s478-119.1 | Yea | N | — |
+| 2025-07-01 | s360-119.1 | Yea | N | — |
+| 2025-03-14 | s132-119.1 | Nay | Y | — |
+| 2024-12-21 | s339-118.2 | Nay | Y | H.R. 10545 |
+| 2024-12-21 | s338-118.2 | Nay | Y | H.R. 82 |
+| 2024-12-19 | s328-118.2 | Nay | Y | H.R. 82 |
+| 2024-09-25 | s255-118.2 | Nay | Y | H.R. 9747 |
+| 2024-03-23 | s114-118.2 | Nay | Y | H.R. 2882 |
+| 2024-03-22 | s103-118.2 | Nay | Y | H.R. 2882 |
+| 2024-03-08 | s84-118.2 | Nay | Y | H.R. 4366 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

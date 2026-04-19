@@ -125,10 +125,10 @@ top-donors: "[[Darrell Issa]], [[Duke Energy]], [[Jim Jordan]], [[Anthem - Eleva
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
 | 2026-03-24 | h97-119.2 | Nay | Y | HR 6422 |
-| 2026-03-04 | h82-119.2 | Nay | Y | HR 6472 |
 | 2026-03-04 | h81-119.2 | Nay | Y | S 723 |
-| 2026-01-20 | h33-119.2 | Nay | Y | HR 5764 |
+| 2026-03-04 | h82-119.2 | Nay | Y | HR 6472 |
 | 2026-01-20 | h32-119.2 | Nay | Y | HR 5763 |
+| 2026-01-20 | h33-119.2 | Nay | Y | HR 5764 |
 | 2026-01-12 | h14-119.2 | Nay | Y | HR 6500 |
 | 2025-12-15 | h335-119.1 | Nay | Y | S 284 |
 | 2025-11-19 | h300-119.1 | Nay | Y | HR 4058 |

@@ -71,7 +71,7 @@ donors: [[Petrochemical Industry Bloc]], [[Fossil Fuel Bloc]], [[Koch Network - 
 | Substantive votes (Y/N) | 2,610 |
 | Votes with party majority | 2,483 |
 | Party-line loyalty | 95.1% |
-| Deviations from party | 122 |
+| Deviations from party | 74 |
 
 **Coverage:**
 
@@ -84,20 +84,20 @@ donors: [[Petrochemical Industry Bloc]], [[Fossil Fuel Bloc]], [[Koch Network - 
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 122):**
+**Most recent party-line deviations (top 10 of 74):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s533-119.1 | Nay | Y | S. 2806 |
-| September  | s250-118.2 | Yea | N | PN 1342 |
-| September  | s251-118.2 | Yea | N | PN 1342 |
-| September  | s193-116.2 | Yea | N | PN 1693 |
-| September  | s182-116.2 | Yea | N | PN 1510 |
-| September  | s224-118.1 | Yea | N | PN 551 |
-| October 9, | s566-119.1 | Yea | N | — |
-| October 29 | s597-119.1 | Yea | N | S.J.Res. 69 |
-| October 19 | s238-115.1 | Nay | Y | — |
-| October 19 | s237-115.1 | Nay | Y | — |
+| 2025-10-29 | s597-119.1 | Yea | N | S.J.Res. 69 |
+| 2025-10-09 | s566-119.1 | Yea | N | — |
+| 2025-09-29 | s533-119.1 | Nay | Y | S. 2806 |
+| 2025-07-01 | s355-119.1 | Yea | N | — |
+| 2025-06-30 | s352-119.1 | Yea | N | — |
+| 2025-03-14 | s132-119.1 | Nay | Y | — |
+| 2025-02-21 | s77-119.1 | Yea | N | — |
+| 2024-12-20 | s337-118.2 | Yea | N | H.R. 82 |
+| 2024-12-20 | s336-118.2 | Nay | Y | — |
+| 2024-12-20 | s335-118.2 | Nay | Y | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

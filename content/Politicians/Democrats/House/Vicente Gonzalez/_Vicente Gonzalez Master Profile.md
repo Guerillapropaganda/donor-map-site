@@ -136,13 +136,13 @@ top-donors: "[[UA Political Action Committee]], [[NEA Fund for Children and Publ
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| 2026-04-16 | h121-119.2 | Yea | N | HRES 1156 |
 | 2026-04-16 | h118-119.2 | Yea | N | HR 6398 |
+| 2026-04-16 | h121-119.2 | Yea | N | HRES 1156 |
 | 2026-03-27 | h105-119.2 | Yea | N | HR 7084 |
 | 2026-03-26 | h102-119.2 | Yea | N | HRES 1128 |
 | 2026-03-19 | h96-119.2 | Yea | N | HR 4638 |
-| 2026-03-18 | h94-119.2 | Yea | N | HR 1958 |
 | 2026-03-18 | h93-119.2 | Aye | N | HR 556 |
+| 2026-03-18 | h94-119.2 | Yea | N | HR 1958 |
 | 2026-02-24 | h76-119.2 | Yea | N | HR 4626 |
 | 2026-02-12 | h70-119.2 | Yea | N | HR 2189 |
 | 2026-02-11 | h64-119.2 | Yea | N | HR 3617 |

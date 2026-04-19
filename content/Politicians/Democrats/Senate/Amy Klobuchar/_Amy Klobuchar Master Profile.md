@@ -158,7 +158,7 @@ SORT title ASC
 | Substantive votes (Y/N) | 2,515 |
 | Votes with party majority | 2,362 |
 | Party-line loyalty | 93.9% |
-| Deviations from party | 144 |
+| Deviations from party | 22 |
 
 **Coverage:**
 
@@ -171,20 +171,20 @@ SORT title ASC
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 144):**
+**Most recent party-line deviations (top 10 of 22):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s243-118.1 | Yea | N | S.J.Res. 24 |
-| September  | s312-116.1 | Nay | Y | PN 585 |
-| September  | s308-116.1 | Nay | Y | PN 585 |
-| September  | s183-116.2 | Nay | Y | PN 1508 |
-| September  | s176-116.2 | Nay | Y | PN 1538 |
-| September  | s181-116.2 | Nay | Y | PN 1508 |
-| September  | s170-116.2 | Nay | Y | PN 1383 |
-| September  | s175-116.2 | Nay | Y | PN 1531 |
-| September  | s174-116.2 | Nay | Y | PN 1538 |
-| September  | s173-116.2 | Nay | Y | PN 1531 |
+| 2025-11-10 | s614-119.1 | Nay | Y | — |
+| 2025-01-20 | s6-119.1 | Yea | N | — |
+| 2025-01-15 | s3-119.1 | Yea | N | — |
+| 2024-04-19 | s148-118.2 | Nay | Y | — |
+| 2023-10-31 | s277-118.1 | Yea | N | — |
+| 2023-10-25 | s266-118.1 | Yea | N | — |
+| 2023-09-28 | s243-118.1 | Yea | N | S.J.Res. 24 |
+| 2023-05-11 | s123-118.1 | Yea | N | S.J.Res. 24 |
+| 2023-03-29 | s80-118.1 | Yea | N | H.J.Res. 7 |
+| 2020-07-22 | s135-116.2 | Yea | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

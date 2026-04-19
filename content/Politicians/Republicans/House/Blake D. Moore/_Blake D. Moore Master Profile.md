@@ -116,15 +116,15 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| 2026-01-22 | h44-119.2 | No | Y | — |
 | 2026-01-22 | h43-119.2 | No | Y | — |
-| 2026-01-14 | h27-119.2 | No | Y | — |
+| 2026-01-22 | h44-119.2 | No | Y | — |
 | 2026-01-14 | h26-119.2 | No | Y | — |
+| 2026-01-14 | h27-119.2 | No | Y | — |
 | 2026-01-08 | h9-119.2 | Yea | N | HR 131 |
-| 2025-09-04 | h237-119.1 | Aye | N | — |
 | 2025-09-04 | h236-119.1 | No | Y | — |
-| 2025-09-03 | h231-119.1 | No | Y | — |
+| 2025-09-04 | h237-119.1 | Aye | N | — |
 | 2025-09-03 | h230-119.1 | No | Y | — |
+| 2025-09-03 | h231-119.1 | No | Y | — |
 | 2024-12-19 | h516-118.2 | Nay | Y | HR 10515 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*

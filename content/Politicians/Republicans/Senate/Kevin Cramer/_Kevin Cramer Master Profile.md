@@ -123,7 +123,7 @@ top-donors: "[[Northrop Grumman]], [[Devon Energy]], [[National Association of R
 | Substantive votes (Y/N) | 2,031 |
 | Votes with party majority | 1,961 |
 | Party-line loyalty | 96.6% |
-| Deviations from party | 67 |
+| Deviations from party | 24 |
 
 **Coverage:**
 
@@ -134,20 +134,20 @@ top-donors: "[[Northrop Grumman]], [[Devon Energy]], [[National Association of R
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 67):**
+**Most recent party-line deviations (top 10 of 24):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s254-118.2 | Yea | N | PN 1902 |
-| September  | s253-118.2 | Yea | N | PN 1902 |
-| September  | s250-118.2 | Yea | N | PN 1342 |
-| September  | s251-118.2 | Yea | N | PN 1342 |
-| September  | s191-116.2 | Nay | Y | PN 1314 |
-| September  | s521-119.1 | Nay | Y | S.Con.Res. 22 |
-| September  | s238-118.2 | Yea | N | PN 1826 |
-| September  | s237-118.2 | Yea | N | PN 1826 |
-| October 31 | s339-116.1 | Nay | Y | — |
-| October 29 | s597-119.1 | Yea | N | S.J.Res. 69 |
+| 2025-10-29 | s597-119.1 | Yea | N | S.J.Res. 69 |
+| 2025-09-16 | s521-119.1 | Nay | Y | S.Con.Res. 22 |
+| 2025-03-14 | s132-119.1 | Nay | Y | — |
+| 2024-12-18 | s326-118.2 | Yea | N | H.R. 82 |
+| 2024-04-19 | s150-118.2 | Nay | Y | H.R. 7888 |
+| 2024-04-19 | s149-118.2 | Yea | N | — |
+| 2024-04-19 | s148-118.2 | Yea | N | — |
+| 2024-04-19 | s146-118.2 | Yea | N | — |
+| 2024-04-19 | s144-118.2 | Yea | N | — |
+| 2024-04-19 | s143-118.2 | Nay | Y | H.R. 7888 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

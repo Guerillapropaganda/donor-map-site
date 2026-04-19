@@ -127,8 +127,8 @@ fec-candidate-id: H4MD03156
 | 2025-11-19 | h302-119.1 | Nay | Y | HRES 893 |
 | 2025-06-09 | h158-119.1 | Yea | N | HRES 488 |
 | 2025-03-27 | h83-119.1 | Yea | N | HR 1048 |
-| 2025-03-11 | h71-119.1 | Yea | N | HJRES 25 |
 | 2025-03-11 | h68-119.1 | Yea | N | HR 1156 |
+| 2025-03-11 | h71-119.1 | Yea | N | HJRES 25 |
 | 2025-02-06 | h33-119.1 | Yea | N | HR 27 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*

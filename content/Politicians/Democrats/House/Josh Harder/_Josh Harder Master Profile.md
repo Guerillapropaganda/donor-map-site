@@ -142,10 +142,10 @@ top-donors: "[[NEA Fund for Children and Public Education]], [[Sierra Club Indep
 | 2025-09-17 | h275-119.1 | Yea | N | HR 5143 |
 | 2025-09-16 | h270-119.1 | Yea | N | HR 4922 |
 | 2025-07-21 | h213-119.1 | Yea | N | HR 3095 |
-| 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
 | 2025-07-17 | h199-119.1 | Yea | N | HR 3633 |
-| 2025-06-26 | h184-119.1 | Yea | N | HR 275 |
+| 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
 | 2025-06-26 | h183-119.1 | Yea | N | HR 875 |
+| 2025-06-26 | h184-119.1 | Yea | N | HR 275 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

@@ -343,7 +343,7 @@ The final-years cognitive decline exposes the class infrastructure beneath the i
 | Substantive votes (Y/N) | 1,393 |
 | Votes with party majority | 1,302 |
 | Party-line loyalty | 93.5% |
-| Deviations from party | 83 |
+| Deviations from party | 23 |
 
 **Coverage:**
 
@@ -353,20 +353,20 @@ The final-years cognitive decline exposes the class infrastructure beneath the i
 - senate 116/2: 291 votes
 - senate 118/1: 243 votes
 
-**Most recent party-line deviations (top 10 of 83):**
+**Most recent party-line deviations (top 10 of 23):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s202-115.2 | Nay | Y | PN 2047 |
-| September  | s201-115.2 | Nay | Y | PN 2047 |
-| September  | s297-116.1 | Yea | N | PN 87 |
-| September  | s301-116.1 | Yea | N | PN 87 |
-| September  | s213-115.2 | Nay | Y | PN 1447 |
-| October 26 | s251-115.1 | Nay | Y | PN 374 |
-| October 25 | s250-115.1 | Nay | Y | PN 374 |
-| October 22 | s213-116.2 | Yea | N | PN 1663 |
-| October 16 | s316-116.1 | Yea | N | PN 722 |
-| October 16 | s321-116.1 | Yea | N | PN 722 |
+| 2023-07-20 | s194-118.1 | Nay | Y | — |
+| 2023-06-01 | s145-118.1 | Nay | Y | — |
+| 2020-07-01 | s129-116.2 | Yea | N | — |
+| 2020-05-13 | s89-116.2 | Nay | Y | — |
+| 2019-02-05 | s16-116.1 | Nay | Y | S. 1 |
+| 2019-01-29 | s12-116.1 | Nay | Y | S. 1 |
+| 2019-01-28 | s11-116.1 | Nay | Y | S. 1 |
+| 2018-11-15 | s243-115.2 | Nay | Y | S.J.Res. 65 |
+| 2018-11-13 | s240-115.2 | Nay | Y | S. 140 |
+| 2018-06-28 | s142-115.2 | Nay | Y | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

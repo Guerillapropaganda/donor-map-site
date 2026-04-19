@@ -108,11 +108,11 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| July 1, 20 | s360-119.1 | Yea | N | — |
-| August 1,  | s481-119.1 | Nay | Y | — |
-| August 1,  | s478-119.1 | Yea | N | — |
-| August 1,  | s477-119.1 | Yea | N | — |
-| August 1,  | s476-119.1 | Yea | N | — |
+| 2025-08-01 | s481-119.1 | Nay | Y | — |
+| 2025-08-01 | s478-119.1 | Yea | N | — |
+| 2025-08-01 | s477-119.1 | Yea | N | — |
+| 2025-08-01 | s476-119.1 | Yea | N | — |
+| 2025-07-01 | s360-119.1 | Yea | N | — |
 | 2024-12-20 | h517-118.2 | Nay | Y | HR 10545 |
 | 2024-12-04 | h481-118.2 | Nay | Y | HR 8219 |
 | 2024-11-20 | h475-118.2 | Nay | Y | HR 8368 |

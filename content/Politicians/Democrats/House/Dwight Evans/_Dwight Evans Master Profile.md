@@ -141,8 +141,8 @@ top-donors: "[[National Multifamily Housing Council]], [[United Food and Commerc
 | 2025-06-12 | h166-119.1 | Nay | Y | S 331 |
 | 2024-05-01 | h172-118.2 | Nay | Y | HR 6090 |
 | 2024-04-17 | h136-118.2 | Yea | N | HR 4639 |
-| 2024-04-12 | h118-118.2 | No | Y | — |
-| 2024-04-12 | h116-118.2 | No | Y | — |
+| 2024-04-12 | h115-118.2 | Aye | N | — |
+| 2024-04-12 | h114-118.2 | Aye | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

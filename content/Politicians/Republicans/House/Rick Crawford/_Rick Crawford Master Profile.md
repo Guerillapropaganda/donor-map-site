@@ -171,7 +171,7 @@ top-policy-area: Armed Forces and National Security
 | 2024-11-12 | h456-118.2 | Nay | Y | HR 82 |
 | 2024-09-17 | h419-118.2 | Nay | Y | S 2861 |
 | 2024-07-24 | h389-118.2 | No | Y | — |
-| 2024-07-23 | h383-118.2 | No | Y | — |
+| 2024-07-23 | h381-118.2 | No | Y | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

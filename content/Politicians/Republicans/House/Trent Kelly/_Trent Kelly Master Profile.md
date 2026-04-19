@@ -116,8 +116,8 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| 2025-09-03 | h234-119.1 | No | Y | — |
 | 2025-09-03 | h229-119.1 | Aye | N | — |
+| 2025-09-03 | h234-119.1 | No | Y | — |
 | 2025-06-23 | h174-119.1 | Nay | Y | HR 3422 |
 | 2025-03-27 | h80-119.1 | Aye | N | — |
 | 2024-12-18 | h512-118.2 | Nay | Y | S 1351 |
@@ -125,7 +125,7 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 | 2024-11-20 | h475-118.2 | Nay | Y | HR 8368 |
 | 2024-09-25 | h450-118.2 | Nay | Y | HR 9747 |
 | 2024-09-17 | h419-118.2 | Nay | Y | S 2861 |
-| 2024-07-23 | h386-118.2 | No | Y | — |
+| 2024-07-23 | h368-118.2 | No | Y | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

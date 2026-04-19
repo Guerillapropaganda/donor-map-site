@@ -170,8 +170,8 @@ donors: [[Americans for Prosperity]] [[American Farm Bureau Federation]] [[Herit
 | 2025-12-15 | h335-119.1 | Nay | Y | S 284 |
 | 2025-12-09 | h315-119.1 | Nay | Y | S 356 |
 | 2025-09-10 | h256-119.1 | Aye | N | — |
-| 2025-07-18 | h210-119.1 | Aye | N | — |
 | 2025-07-18 | h209-119.1 | Aye | N | — |
+| 2025-07-18 | h210-119.1 | Aye | N | — |
 | 2025-06-23 | h174-119.1 | Nay | Y | HR 3422 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*

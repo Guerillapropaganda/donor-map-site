@@ -130,7 +130,7 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 | 2024-11-20 | h475-118.2 | Nay | Y | HR 8368 |
 | 2024-11-20 | h474-118.2 | Nay | Y | HR 3012 |
 | 2024-11-12 | h456-118.2 | Nay | Y | HR 82 |
-| 2024-07-23 | h378-118.2 | No | Y | — |
+| 2024-07-23 | h377-118.2 | No | Y | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

@@ -132,11 +132,11 @@ top-donors: "[[Pfizer Inc.]], [[League of Conservation Voters]], [[Joe Neguse]],
 | 2026-01-22 | h42-119.2 | Yea | N | HR 7147 |
 | 2026-01-13 | h23-119.2 | Yea | N | HR 4593 |
 | 2026-01-09 | h12-119.2 | Yea | N | HR 5184 |
-| 2025-12-16 | h342-119.1 | Yea | N | HR 3632 |
 | 2025-12-16 | h340-119.1 | Yea | N | HR 4371 |
-| 2025-12-04 | h314-119.1 | Yea | N | HR 1049 |
+| 2025-12-16 | h342-119.1 | Yea | N | HR 3632 |
 | 2025-12-04 | h313-119.1 | Yea | N | HR 1069 |
-| 2025-12-03 | h312-119.1 | Yea | N | HR 1005 |
+| 2025-12-04 | h314-119.1 | Yea | N | HR 1049 |
+| 2025-12-03 | h310-119.1 | Yea | N | HR 2965 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

@@ -108,16 +108,16 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| 2024-06-27 | h317-118.2 | Aye | N | — |
-| 2024-06-27 | h315-118.2 | Aye | N | — |
-| 2024-06-27 | h311-118.2 | No | Y | — |
-| 2024-06-27 | h309-118.2 | No | Y | — |
-| 2024-06-27 | h305-118.2 | No | Y | — |
-| 2024-06-27 | h302-118.2 | No | Y | — |
-| 2024-06-27 | h301-118.2 | No | Y | — |
-| 2024-06-27 | h299-118.2 | No | Y | — |
 | 2024-06-27 | h298-118.2 | No | Y | — |
+| 2024-06-27 | h299-118.2 | No | Y | — |
+| 2024-06-27 | h301-118.2 | No | Y | — |
+| 2024-06-27 | h302-118.2 | No | Y | — |
+| 2024-06-27 | h305-118.2 | No | Y | — |
+| 2024-06-27 | h309-118.2 | No | Y | — |
+| 2024-06-27 | h315-118.2 | Aye | N | — |
+| 2024-06-27 | h317-118.2 | Aye | N | — |
 | 2024-06-27 | h297-118.2 | No | Y | — |
+| 2024-06-27 | h311-118.2 | No | Y | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

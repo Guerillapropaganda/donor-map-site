@@ -140,7 +140,7 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 | Substantive votes (Y/N) | 2,708 |
 | Votes with party majority | 2,650 |
 | Party-line loyalty | 97.9% |
-| Deviations from party | 53 |
+| Deviations from party | 43 |
 
 **Coverage:**
 
@@ -153,20 +153,20 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 53):**
+**Most recent party-line deviations (top 10 of 43):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s192-115.1 | Nay | Y | H.R. 601 |
-| September  | s191-115.1 | Nay | Y | H.R. 601 |
-| September  | s533-119.1 | Nay | Y | S. 2806 |
-| September  | s241-118.1 | Nay | Y | H.R. 3935 |
-| September  | s240-118.1 | Nay | Y | H.R. 3935 |
-| September  | s310-116.1 | Yea | N | — |
-| September  | s255-118.2 | Nay | Y | H.R. 9747 |
-| September  | s182-116.2 | Yea | N | PN 1510 |
-| October 28 | s335-116.1 | Yea | N | — |
-| October 19 | s237-115.1 | Nay | Y | — |
+| 2026-01-30 | s15-119.2 | Yea | N | — |
+| 2026-01-30 | s14-119.2 | Nay | Y | — |
+| 2025-09-29 | s533-119.1 | Nay | Y | S. 2806 |
+| 2025-07-01 | s358-119.1 | Yea | N | — |
+| 2025-07-01 | s355-119.1 | Yea | N | — |
+| 2025-03-14 | s132-119.1 | Nay | Y | — |
+| 2024-12-20 | s337-118.2 | Yea | N | H.R. 82 |
+| 2024-12-20 | s336-118.2 | Nay | Y | — |
+| 2024-12-20 | s335-118.2 | Nay | Y | — |
+| 2024-12-20 | s334-118.2 | Nay | Y | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

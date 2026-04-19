@@ -121,7 +121,7 @@ top-donors: "[[Let America Vote PAC]], [[Google - Alphabet]], [[Bank of America]
 | Substantive votes (Y/N) | 2,710 |
 | Votes with party majority | 2,560 |
 | Party-line loyalty | 94.5% |
-| Deviations from party | 141 |
+| Deviations from party | 54 |
 
 **Coverage:**
 
@@ -134,20 +134,20 @@ top-donors: "[[Let America Vote PAC]], [[Google - Alphabet]], [[Bank of America]
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 141):**
+**Most recent party-line deviations (top 10 of 54):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s161-116.2 | Nay | Y | PN 1713 |
-| September  | s160-116.2 | Nay | Y | PN 1511 |
-| September  | s164-116.2 | Nay | Y | PN 775 |
-| September  | s163-116.2 | Nay | Y | PN 1431 |
-| September  | s162-116.2 | Nay | Y | PN 1511 |
-| September  | s158-116.2 | Nay | Y | PN 1662 |
-| September  | s503-119.1 | Nay | Y | S. 2296 |
-| September  | s312-116.1 | Nay | Y | PN 585 |
-| September  | s308-116.1 | Nay | Y | PN 585 |
-| September  | s213-115.2 | Nay | Y | PN 1447 |
+| 2026-03-04 | s45-119.2 | Nay | Y | H.R. 6644 |
+| 2026-03-02 | s44-119.2 | Nay | Y | H.R. 6644 |
+| 2025-12-17 | s648-119.1 | Nay | Y | S. 1071 |
+| 2025-12-15 | s647-119.1 | Nay | Y | S. 1071 |
+| 2025-12-11 | s646-119.1 | Nay | Y | S. 1071 |
+| 2025-10-09 | s570-119.1 | Nay | Y | S. 2296 |
+| 2025-10-09 | s568-119.1 | Yea | N | — |
+| 2025-09-04 | s503-119.1 | Nay | Y | S. 2296 |
+| 2025-09-02 | s500-119.1 | Nay | Y | S. 2296 |
+| 2025-04-04 | s179-119.1 | Yea | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

@@ -97,27 +97,27 @@ urls-first-triaged: "2026-04-15"
 | Substantive votes (Y/N) | 282 |
 | Votes with party majority | 260 |
 | Party-line loyalty | 92.2% |
-| Deviations from party | 21 |
+| Deviations from party | 13 |
 
 **Coverage:**
 
 - senate 115/1: 325 votes
 - senate 115/2: 193 votes
 
-**Most recent party-line deviations (top 10 of 21):**
+**Most recent party-line deviations (top 10 of 13):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s192-115.1 | Nay | Y | H.R. 601 |
-| September  | s191-115.1 | Nay | Y | H.R. 601 |
-| October 19 | s240-115.1 | Nay | Y | — |
-| October 19 | s239-115.1 | Yea | N | — |
-| October 19 | s238-115.1 | Nay | Y | — |
-| October 19 | s237-115.1 | Nay | Y | — |
-| November 7 | s263-115.1 | Nay | Y | PN 58 |
-| November 7 | s264-115.1 | Nay | Y | PN 58 |
-| November 1 | s272-115.1 | Nay | Y | PN 558 |
-| November 1 | s271-115.1 | Nay | Y | PN 558 |
+| 2017-12-07 | s311-115.1 | Nay | Y | H.J.Res. 123 |
+| 2017-10-19 | s240-115.1 | Nay | Y | — |
+| 2017-10-19 | s239-115.1 | Yea | N | — |
+| 2017-10-19 | s238-115.1 | Nay | Y | — |
+| 2017-10-19 | s237-115.1 | Nay | Y | — |
+| 2017-09-07 | s192-115.1 | Nay | Y | H.R. 601 |
+| 2017-09-07 | s191-115.1 | Nay | Y | H.R. 601 |
+| 2017-07-28 | s179-115.1 | Nay | Y | — |
+| 2017-07-26 | s172-115.1 | Yea | N | — |
+| 2017-07-26 | s169-115.1 | Nay | Y | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

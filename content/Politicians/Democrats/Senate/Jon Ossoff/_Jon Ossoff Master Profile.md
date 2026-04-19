@@ -133,7 +133,7 @@ donors: [[Tech and Media Donors]] · Tech and Crypto · [[Entertainment and Holl
 | Substantive votes (Y/N) | 1,372 |
 | Votes with party majority | 1,328 |
 | Party-line loyalty | 96.8% |
-| Deviations from party | 43 |
+| Deviations from party | 30 |
 
 **Coverage:**
 
@@ -142,20 +142,20 @@ donors: [[Tech and Media Donors]] · Tech and Crypto · [[Entertainment and Holl
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 43):**
+**Most recent party-line deviations (top 10 of 30):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| October 23 | s585-119.1 | Yea | N | S. 3012 |
-| November 7 | s609-119.1 | Yea | N | S. 3012 |
-| November 2 | s293-118.2 | Yea | N | S.J.Res. 113 |
-| November 2 | s292-118.2 | Yea | N | S.J.Res. 111 |
-| November 1 | s620-119.1 | Yea | N | PN 445-6 |
-| November 1 | s619-119.1 | Yea | N | PN 445-6 |
-| November 1 | s614-119.1 | Nay | Y | — |
-| November 1 | s282-118.1 | Yea | N | — |
-| May 21, 20 | s263-119.1 | Yea | N | S. 1582 |
-| May 19, 20 | s262-119.1 | Yea | N | S. 1582 |
+| 2026-01-30 | s20-119.2 | Yea | N | H.R. 7148 |
+| 2025-11-10 | s614-119.1 | Nay | Y | — |
+| 2025-11-07 | s609-119.1 | Yea | N | S. 3012 |
+| 2025-10-23 | s585-119.1 | Yea | N | S. 3012 |
+| 2025-07-30 | s455-119.1 | Nay | Y | S.J.Res. 34 |
+| 2025-07-01 | s369-119.1 | Nay | Y | — |
+| 2025-07-01 | s355-119.1 | Yea | N | — |
+| 2025-06-30 | s342-119.1 | Yea | N | — |
+| 2025-06-17 | s318-119.1 | Yea | N | S. 1582 |
+| 2025-05-21 | s263-119.1 | Yea | N | S. 1582 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

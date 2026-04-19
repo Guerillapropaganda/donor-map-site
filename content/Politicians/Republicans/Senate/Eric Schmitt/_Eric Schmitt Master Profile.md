@@ -120,7 +120,7 @@ top-donors: "[[Associated General Contractors of America Political Action Commit
 | Substantive votes (Y/N) | 1,394 |
 | Votes with party majority | 1,302 |
 | Party-line loyalty | 93.4% |
-| Deviations from party | 90 |
+| Deviations from party | 50 |
 
 **Coverage:**
 
@@ -129,20 +129,20 @@ top-donors: "[[Associated General Contractors of America Political Action Commit
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 90):**
+**Most recent party-line deviations (top 10 of 50):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s214-118.1 | Nay | Y | PN 645 |
-| September  | s213-118.1 | Nay | Y | PN 645 |
-| September  | s247-118.1 | Nay | Y | H.R. 5860 |
-| September  | s244-118.1 | Nay | Y | PN 183 |
-| September  | s241-118.1 | Nay | Y | H.R. 3935 |
-| September  | s240-118.1 | Nay | Y | H.R. 3935 |
-| September  | s255-118.2 | Nay | Y | H.R. 9747 |
-| September  | s249-118.2 | Nay | Y | PN 1399 |
-| September  | s235-118.1 | Nay | Y | PN 677 |
-| September  | s234-118.1 | Nay | Y | PN 677 |
+| 2025-08-01 | s477-119.1 | Yea | N | — |
+| 2025-08-01 | s476-119.1 | Yea | N | — |
+| 2025-07-01 | s360-119.1 | Yea | N | — |
+| 2025-02-21 | s77-119.1 | Yea | N | — |
+| 2024-12-21 | s339-118.2 | Nay | Y | H.R. 10545 |
+| 2024-12-18 | s326-118.2 | Yea | N | H.R. 82 |
+| 2024-09-25 | s255-118.2 | Nay | Y | H.R. 9747 |
+| 2024-05-09 | s161-118.2 | Nay | Y | H.R. 3935 |
+| 2024-05-08 | s160-118.2 | Yea | N | H.R. 3935 |
+| 2024-04-23 | s154-118.2 | Nay | Y | H.R. 815 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

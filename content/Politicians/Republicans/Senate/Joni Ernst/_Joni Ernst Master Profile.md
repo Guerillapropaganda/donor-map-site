@@ -138,7 +138,7 @@ donors: [[Koch Network - Charles Koch]], [[Agribusiness Donor Bloc]], [[Ethanol 
 | Substantive votes (Y/N) | 2,685 |
 | Votes with party majority | 2,589 |
 | Party-line loyalty | 96.4% |
-| Deviations from party | 91 |
+| Deviations from party | 60 |
 
 **Coverage:**
 
@@ -151,20 +151,20 @@ donors: [[Koch Network - Charles Koch]], [[Agribusiness Donor Bloc]], [[Ethanol 
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 91):**
+**Most recent party-line deviations (top 10 of 60):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s192-115.1 | Nay | Y | H.R. 601 |
-| September  | s191-115.1 | Nay | Y | H.R. 601 |
-| September  | s311-116.1 | Nay | Y | H.R. 4378 |
-| September  | s310-116.1 | Yea | N | — |
-| September  | s312-116.1 | Nay | Y | PN 585 |
-| September  | s308-116.1 | Nay | Y | PN 585 |
-| September  | s249-118.2 | Nay | Y | PN 1399 |
-| September  | s248-118.2 | Nay | Y | PN 1399 |
-| September  | s211-115.2 | Nay | Y | H.R. 6157 |
-| September  | s227-118.1 | Nay | Y | H.R. 4366 |
+| 2026-01-30 | s14-119.2 | Nay | Y | — |
+| 2025-10-29 | s597-119.1 | Yea | N | S.J.Res. 69 |
+| 2025-10-09 | s564-119.1 | Nay | Y | — |
+| 2025-08-01 | s478-119.1 | Yea | N | — |
+| 2025-08-01 | s477-119.1 | Yea | N | — |
+| 2025-02-21 | s77-119.1 | Yea | N | — |
+| 2024-12-21 | s338-118.2 | Nay | Y | H.R. 82 |
+| 2024-12-19 | s328-118.2 | Nay | Y | H.R. 82 |
+| 2024-05-09 | s161-118.2 | Nay | Y | H.R. 3935 |
+| 2024-05-08 | s160-118.2 | Yea | N | H.R. 3935 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

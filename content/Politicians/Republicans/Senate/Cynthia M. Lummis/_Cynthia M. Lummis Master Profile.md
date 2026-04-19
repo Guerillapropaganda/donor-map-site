@@ -94,7 +94,7 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 | Substantive votes (Y/N) | 1,378 |
 | Votes with party majority | 1,309 |
 | Party-line loyalty | 95.0% |
-| Deviations from party | 67 |
+| Deviations from party | 52 |
 
 **Coverage:**
 
@@ -103,20 +103,20 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 67):**
+**Most recent party-line deviations (top 10 of 52):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s214-118.1 | Nay | Y | PN 645 |
-| September  | s213-118.1 | Nay | Y | PN 645 |
-| September  | s241-118.1 | Nay | Y | H.R. 3935 |
-| September  | s240-118.1 | Nay | Y | H.R. 3935 |
-| September  | s235-118.1 | Nay | Y | PN 677 |
-| September  | s228-118.1 | Nay | Y | H.R. 4366 |
-| September  | s227-118.1 | Nay | Y | H.R. 4366 |
-| October 9, | s562-119.1 | Yea | N | — |
-| November 7 | s293-118.1 | Yea | N | PN 649 |
-| November 6 | s292-118.1 | Yea | N | PN 649 |
+| 2026-01-15 | s11-119.2 | Nay | Y | H.R. 6938 |
+| 2025-10-09 | s562-119.1 | Yea | N | — |
+| 2025-08-01 | s481-119.1 | Nay | Y | — |
+| 2025-08-01 | s480-119.1 | Nay | Y | H.R. 3944 |
+| 2025-08-01 | s479-119.1 | Nay | Y | — |
+| 2025-08-01 | s478-119.1 | Yea | N | — |
+| 2025-08-01 | s477-119.1 | Yea | N | — |
+| 2025-08-01 | s476-119.1 | Yea | N | — |
+| 2025-07-01 | s360-119.1 | Yea | N | — |
+| 2025-02-21 | s77-119.1 | Yea | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

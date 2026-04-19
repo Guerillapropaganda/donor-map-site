@@ -148,7 +148,7 @@ donors: [[Koch Network - Charles Koch|Koch Network]] · [[US CHAMBER OF COMMERCE
 | Substantive votes (Y/N) | 2,658 |
 | Votes with party majority | 2,546 |
 | Party-line loyalty | 95.8% |
-| Deviations from party | 107 |
+| Deviations from party | 49 |
 
 **Coverage:**
 
@@ -161,20 +161,20 @@ donors: [[Koch Network - Charles Koch|Koch Network]] · [[US CHAMBER OF COMMERCE
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 107):**
+**Most recent party-line deviations (top 10 of 49):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s221-118.1 | Yea | N | PN 673 |
-| September  | s222-118.1 | Yea | N | PN 673 |
-| September  | s252-118.2 | Nay | Y | S.Con.Res. 41 |
-| September  | s254-118.2 | Yea | N | PN 1902 |
-| September  | s253-118.2 | Yea | N | PN 1902 |
-| September  | s305-116.1 | Yea | N | S.Res. 333 |
-| September  | s250-118.2 | Yea | N | PN 1342 |
-| September  | s251-118.2 | Yea | N | PN 1342 |
-| September  | s521-119.1 | Nay | Y | S.Con.Res. 22 |
-| October 4, | s249-118.1 | Yea | N | PN 676 |
+| 2026-01-30 | s15-119.2 | Yea | N | — |
+| 2026-01-30 | s14-119.2 | Nay | Y | — |
+| 2025-09-16 | s521-119.1 | Nay | Y | S.Con.Res. 22 |
+| 2025-07-01 | s355-119.1 | Yea | N | — |
+| 2025-03-14 | s132-119.1 | Nay | Y | — |
+| 2024-12-20 | s337-118.2 | Yea | N | H.R. 82 |
+| 2024-12-20 | s336-118.2 | Nay | Y | — |
+| 2024-12-20 | s335-118.2 | Nay | Y | — |
+| 2024-12-20 | s334-118.2 | Nay | Y | — |
+| 2024-12-18 | s326-118.2 | Yea | N | H.R. 82 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

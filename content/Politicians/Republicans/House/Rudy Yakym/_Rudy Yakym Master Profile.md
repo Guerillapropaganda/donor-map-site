@@ -120,16 +120,16 @@ top-donors: "[[Amgen Inc]], [[CVS Health - Aetna]], [[Walmart - Walton Family]],
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| 2025-09-04 | h237-119.1 | Aye | N | — |
 | 2025-09-04 | h236-119.1 | No | Y | — |
+| 2025-09-04 | h237-119.1 | Aye | N | — |
 | 2025-09-03 | h229-119.1 | Aye | N | — |
 | 2025-03-27 | h80-119.1 | Aye | N | — |
 | 2024-09-25 | h450-118.2 | Nay | Y | HR 9747 |
 | 2024-09-17 | h419-118.2 | Nay | Y | S 2861 |
-| 2024-07-23 | h377-118.2 | No | Y | — |
-| 2024-07-23 | h376-118.2 | No | Y | — |
 | 2024-07-23 | h372-118.2 | No | Y | — |
-| 2024-06-27 | h323-118.2 | Aye | N | — |
+| 2024-07-23 | h376-118.2 | No | Y | — |
+| 2024-07-23 | h377-118.2 | No | Y | — |
+| 2024-06-27 | h317-118.2 | Aye | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

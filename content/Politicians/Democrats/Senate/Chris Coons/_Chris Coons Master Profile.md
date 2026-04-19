@@ -164,7 +164,7 @@ donors: [[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] Â
 | Substantive votes (Y/N) | 2,623 |
 | Votes with party majority | 2,465 |
 | Party-line loyalty | 94.0% |
-| Deviations from party | 149 |
+| Deviations from party | 27 |
 
 **Coverage:**
 
@@ -177,20 +177,20 @@ donors: [[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] Â
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 149):**
+**Most recent party-line deviations (top 10 of 27):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s263-116.1 | Yea | N | PN 713 |
-| September  | s203-115.2 | Yea | N | PN 1525 |
-| September  | s208-115.1 | Yea | N | PN 89 |
-| September  | s297-116.1 | Yea | N | PN 87 |
-| September  | s301-116.1 | Yea | N | PN 87 |
-| September  | s284-116.1 | Yea | N | PN 127 |
-| September  | s283-116.1 | Yea | N | PN 135 |
-| September  | s285-116.1 | Yea | N | PN 127 |
-| September  | s282-116.1 | Yea | N | PN 135 |
-| September  | s273-116.1 | Yea | N | PN 561 |
+| 2026-04-15 | s81-119.2 | Nay | Y | S.J.Res. 138 |
+| 2026-04-15 | s80-119.2 | Nay | Y | S.J.Res. 32 |
+| 2026-01-30 | s20-119.2 | Yea | N | H.R. 7148 |
+| 2025-07-30 | s455-119.1 | Nay | Y | S.J.Res. 34 |
+| 2025-07-30 | s454-119.1 | Nay | Y | S.J.Res. 41 |
+| 2025-06-11 | s307-119.1 | Nay | Y | S.J.Res. 54 |
+| 2025-06-11 | s306-119.1 | Nay | Y | S.J.Res. 53 |
+| 2025-01-20 | s6-119.1 | Yea | N | â€” |
+| 2025-01-15 | s3-119.1 | Yea | N | â€” |
+| 2024-04-19 | s149-118.2 | Yea | N | â€” |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

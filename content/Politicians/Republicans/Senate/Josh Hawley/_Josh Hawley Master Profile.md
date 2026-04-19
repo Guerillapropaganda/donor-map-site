@@ -122,7 +122,7 @@ donors: "[[Patriots Prevail PAC]] · [[PATRIOTS PREVAIL PAC]] · [[Koch Network 
 | Substantive votes (Y/N) | 2,061 |
 | Votes with party majority | 1,874 |
 | Party-line loyalty | 90.9% |
-| Deviations from party | 184 |
+| Deviations from party | 130 |
 
 **Coverage:**
 
@@ -133,20 +133,20 @@ donors: "[[Patriots Prevail PAC]] · [[PATRIOTS PREVAIL PAC]] · [[Koch Network 
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 184):**
+**Most recent party-line deviations (top 10 of 130):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s214-118.1 | Nay | Y | PN 645 |
-| September  | s213-118.1 | Nay | Y | PN 645 |
-| September  | s197-116.2 | Nay | Y | H.R. 8337 |
-| September  | s244-118.1 | Nay | Y | PN 183 |
-| September  | s196-116.2 | Nay | Y | H.R. 8337 |
-| September  | s241-118.1 | Nay | Y | H.R. 3935 |
-| September  | s240-118.1 | Nay | Y | H.R. 3935 |
-| September  | s311-116.1 | Nay | Y | H.R. 4378 |
-| September  | s252-118.2 | Nay | Y | S.Con.Res. 41 |
-| September  | s255-118.2 | Nay | Y | H.R. 9747 |
+| 2026-01-08 | s5-119.2 | Yea | N | S.J.Res. 98 |
+| 2025-12-11 | s644-119.1 | Yea | N | S. 3385 |
+| 2025-10-09 | s562-119.1 | Yea | N | — |
+| 2025-09-16 | s521-119.1 | Nay | Y | S.Con.Res. 22 |
+| 2025-09-10 | s512-119.1 | Nay | Y | — |
+| 2025-08-01 | s478-119.1 | Yea | N | — |
+| 2025-07-23 | s428-119.1 | Nay | Y | H.R. 3944 |
+| 2025-07-01 | s360-119.1 | Yea | N | — |
+| 2025-07-01 | s355-119.1 | Yea | N | — |
+| 2025-06-17 | s318-119.1 | Nay | Y | S. 1582 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

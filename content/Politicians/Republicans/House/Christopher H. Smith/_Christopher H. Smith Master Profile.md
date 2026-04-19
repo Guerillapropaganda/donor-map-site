@@ -118,11 +118,11 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 | 2026-01-13 | h19-119.2 | Nay | Y | HR 2262 |
 | 2025-12-18 | h352-119.1 | No | Y | — |
 | 2025-12-16 | h338-119.1 | Nay | Y | HRES 951 |
-| 2025-12-11 | h332-119.1 | Yea | N | HR 2550 |
 | 2025-12-11 | h331-119.1 | Yea | N | HRES 432 |
+| 2025-12-11 | h332-119.1 | Yea | N | HR 2550 |
 | 2025-12-10 | h321-119.1 | Yea | N | HRES 432 |
 | 2025-09-04 | h235-119.1 | No | Y | — |
-| 2025-09-03 | h232-119.1 | No | Y | — |
+| 2025-09-03 | h229-119.1 | Aye | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

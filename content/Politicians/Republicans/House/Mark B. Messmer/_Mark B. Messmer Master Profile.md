@@ -68,9 +68,9 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| 2025-09-03 | h232-119.1 | No | Y | — |
-| 2025-09-03 | h231-119.1 | No | Y | — |
 | 2025-09-03 | h230-119.1 | No | Y | — |
+| 2025-09-03 | h231-119.1 | No | Y | — |
+| 2025-09-03 | h232-119.1 | No | Y | — |
 | 2025-07-18 | h206-119.1 | Aye | N | — |
 | 2025-06-23 | h174-119.1 | Nay | Y | HR 3422 |
 

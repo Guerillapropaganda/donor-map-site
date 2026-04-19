@@ -140,12 +140,12 @@ top-donors: "[[MAJORITY PAC]], [[Anthem - Elevance Health]], [[WinRed]], [[Save 
 | 2026-03-04 | h83-119.2 | Nay | Y | HRES 1100 |
 | 2026-02-03 | h53-119.2 | Nay | Y | HR 7148 |
 | 2026-01-22 | h45-119.2 | Nay | Y | HR 7148 |
-| 2026-01-08 | h9-119.2 | Yea | N | HR 131 |
 | 2026-01-08 | h8-119.2 | Yea | N | HR 504 |
+| 2026-01-08 | h9-119.2 | Yea | N | HR 131 |
 | 2026-01-08 | h5-119.2 | Nay | Y | HR 6938 |
-| 2025-09-10 | h256-119.1 | Aye | N | — |
-| 2025-09-10 | h254-119.1 | No | Y | — |
 | 2025-09-10 | h244-119.1 | Aye | N | — |
+| 2025-09-10 | h254-119.1 | No | Y | — |
+| 2025-09-10 | h256-119.1 | Aye | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

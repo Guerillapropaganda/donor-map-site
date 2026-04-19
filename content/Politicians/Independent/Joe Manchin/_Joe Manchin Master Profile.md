@@ -123,7 +123,7 @@ top-policy-area: Health
 | Substantive votes (Y/N) | 1,892 |
 | Votes with party majority | 1,442 |
 | Party-line loyalty | 76.2% |
-| Deviations from party | 436 |
+| Deviations from party | 104 |
 
 **Coverage:**
 
@@ -134,20 +134,20 @@ top-policy-area: Health
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 
-**Most recent party-line deviations (top 10 of 436):**
+**Most recent party-line deviations (top 10 of 104):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s263-116.1 | Yea | N | PN 713 |
-| September  | s215-118.1 | Nay | Y | PN 743 |
-| September  | s216-118.1 | Nay | Y | PN 743 |
-| September  | s203-115.2 | Yea | N | PN 1525 |
-| September  | s243-118.1 | Yea | N | S.J.Res. 24 |
-| September  | s242-118.1 | Yea | N | S.J.Res. 9 |
-| September  | s208-115.1 | Yea | N | PN 89 |
-| September  | s307-116.1 | Yea | N | S.Res. 336 |
-| September  | s297-116.1 | Yea | N | PN 87 |
-| September  | s295-116.1 | Yea | N | PN 114 |
+| 2024-12-18 | s326-118.2 | Nay | Y | H.R. 82 |
+| 2024-05-21 | s176-118.2 | Yea | N | S.J.Res. 58 |
+| 2024-04-18 | s142-118.2 | Yea | N | S. 4072 |
+| 2024-04-10 | s122-118.2 | Yea | N | H.J.Res. 98 |
+| 2024-04-10 | s121-118.2 | Yea | N | S.J.Res. 61 |
+| 2024-03-07 | s75-118.2 | Nay | Y | S. 3853 |
+| 2024-02-29 | s61-118.2 | Yea | N | S.J.Res. 38 |
+| 2024-01-18 | s10-118.2 | Yea | N | — |
+| 2024-01-10 | s5-118.2 | Yea | N | S.J.Res. 32 |
+| 2023-11-15 | s310-118.1 | Yea | N | S.J.Res. 43 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

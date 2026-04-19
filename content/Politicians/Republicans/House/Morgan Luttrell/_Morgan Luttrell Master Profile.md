@@ -134,14 +134,14 @@ top-donors: "[[SPECIAL OPERATIONS FOR AMERICA]], [[Drain the DC Swamp PAC]], [[N
 |---|---|---|---|---|
 | 2026-03-17 | h88-119.2 | Nay | Y | HR 4294 |
 | 2026-01-22 | h44-119.2 | No | Y | — |
-| 2026-01-12 | h15-119.2 | Nay | Y | HR 6504 |
 | 2026-01-12 | h14-119.2 | Nay | Y | HR 6500 |
+| 2026-01-12 | h15-119.2 | Nay | Y | HR 6504 |
 | 2025-12-11 | h325-119.1 | Aye | N | — |
-| 2025-09-04 | h237-119.1 | Aye | N | — |
 | 2025-09-04 | h236-119.1 | No | Y | — |
-| 2025-09-03 | h233-119.1 | No | Y | — |
+| 2025-09-04 | h237-119.1 | Aye | N | — |
 | 2025-09-03 | h231-119.1 | No | Y | — |
-| 2025-07-18 | h210-119.1 | Aye | N | — |
+| 2025-09-03 | h233-119.1 | No | Y | — |
+| 2025-07-18 | h206-119.1 | Aye | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

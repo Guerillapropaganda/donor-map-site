@@ -147,7 +147,7 @@ donors: [[Lockheed Martin]] [[Boeing]]
 | Substantive votes (Y/N) | 2,736 |
 | Votes with party majority | 2,600 |
 | Party-line loyalty | 95.0% |
-| Deviations from party | 127 |
+| Deviations from party | 16 |
 
 **Coverage:**
 
@@ -160,20 +160,20 @@ donors: [[Lockheed Martin]] [[Boeing]]
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 127):**
+**Most recent party-line deviations (top 10 of 16):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s203-115.2 | Yea | N | PN 1525 |
-| September  | s215-115.2 | Nay | Y | PN 2048 |
-| September  | s214-115.2 | Nay | Y | PN 2048 |
-| September  | s213-115.2 | Nay | Y | PN 1447 |
-| September  | s195-115.1 | Yea | N | — |
-| September  | s272-116.1 | Nay | Y | PN 631 |
-| September  | s269-116.1 | Nay | Y | PN 631 |
-| October 21 | s577-119.1 | Yea | N | PN 466-6 |
-| October 16 | s574-119.1 | Yea | N | PN 466-6 |
-| October 11 | s239-115.2 | Yea | N | PN 1644 |
+| 2026-04-15 | s81-119.2 | Nay | Y | S.J.Res. 138 |
+| 2025-07-30 | s455-119.1 | Nay | Y | S.J.Res. 34 |
+| 2024-04-19 | s148-118.2 | Nay | Y | — |
+| 2023-06-01 | s145-118.1 | Nay | Y | — |
+| 2023-03-08 | s49-118.1 | Nay | Y | H.J.Res. 26 |
+| 2020-07-01 | s129-116.2 | Yea | N | — |
+| 2020-03-09 | s67-116.2 | Yea | N | — |
+| 2020-01-16 | s14-116.2 | Nay | Y | H.R. 5430 |
+| 2019-02-05 | s16-116.1 | Nay | Y | S. 1 |
+| 2019-01-29 | s12-116.1 | Nay | Y | S. 1 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

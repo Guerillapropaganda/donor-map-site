@@ -161,8 +161,8 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 | 2026-01-12 | h14-119.2 | Nay | Y | HR 6500 |
 | 2025-12-10 | h320-119.1 | Nay | Y | S 1071 |
 | 2025-09-19 | h282-119.1 | Nay | Y | HRES 719 |
-| 2025-09-02 | h220-119.1 | Nay | Y | HR 747 |
 | 2025-09-02 | h219-119.1 | Nay | Y | HR 4216 |
+| 2025-09-02 | h220-119.1 | Nay | Y | HR 747 |
 | 2025-07-18 | h207-119.1 | Aye | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*

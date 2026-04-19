@@ -141,8 +141,8 @@ top-donors: "[[National Rental Home Council]], [[Lockheed Martin]], [[AT&T - War
 | 2024-11-12 | h456-118.2 | Nay | Y | HR 82 |
 | 2024-07-22 | h357-118.2 | Nay | Y | HR 1631 |
 | 2024-07-08 | h337-118.2 | Nay | Y | HR 5441 |
-| 2024-06-27 | h323-118.2 | Aye | N | — |
-| 2024-06-27 | h317-118.2 | Aye | N | — |
+| 2024-06-27 | h305-118.2 | No | Y | — |
+| 2024-06-27 | h308-118.2 | Aye | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

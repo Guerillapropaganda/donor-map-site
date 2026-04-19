@@ -153,13 +153,13 @@ donors: [[Koch Network - Charles Koch|Koch Network]]
 | 2026-03-04 | h82-119.2 | Nay | Y | HR 6472 |
 | 2025-09-04 | h236-119.1 | No | Y | — |
 | 2025-09-04 | h235-119.1 | No | Y | — |
-| 2025-09-03 | h231-119.1 | No | Y | — |
 | 2025-09-03 | h230-119.1 | No | Y | — |
+| 2025-09-03 | h231-119.1 | No | Y | — |
 | 2025-03-25 | h74-119.1 | Nay | Y | HR 1534 |
 | 2024-11-12 | h456-118.2 | Nay | Y | HR 82 |
-| 2024-07-23 | h380-118.2 | Nay | Y | HR 7887 |
+| 2024-07-23 | h365-118.2 | No | Y | — |
+| 2024-07-23 | h372-118.2 | No | Y | — |
 | 2024-07-23 | h376-118.2 | No | Y | — |
-| 2024-07-23 | h373-118.2 | No | Y | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

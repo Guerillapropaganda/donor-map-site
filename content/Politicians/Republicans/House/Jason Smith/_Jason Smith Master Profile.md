@@ -156,15 +156,15 @@ donors: [[Real Estate Roundtable]]
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
 | 2026-03-04 | h82-119.2 | Nay | Y | HR 6472 |
-| 2025-09-10 | h256-119.1 | Aye | N | — |
 | 2025-09-10 | h255-119.1 | Aye | N | — |
+| 2025-09-10 | h256-119.1 | Aye | N | — |
 | 2025-09-04 | h237-119.1 | Aye | N | — |
 | 2025-09-04 | h235-119.1 | No | Y | — |
-| 2025-09-03 | h234-119.1 | No | Y | — |
-| 2025-09-03 | h233-119.1 | No | Y | — |
-| 2025-09-03 | h232-119.1 | No | Y | — |
 | 2025-09-03 | h229-119.1 | Aye | N | — |
-| 2025-07-18 | h209-119.1 | Aye | N | — |
+| 2025-09-03 | h234-119.1 | No | Y | — |
+| 2025-09-03 | h232-119.1 | No | Y | — |
+| 2025-09-03 | h233-119.1 | No | Y | — |
+| 2025-07-18 | h206-119.1 | Aye | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

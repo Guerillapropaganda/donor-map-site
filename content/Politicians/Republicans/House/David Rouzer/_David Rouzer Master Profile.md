@@ -139,12 +139,12 @@ top-donors: "[[National Association of Manufacturers]], [[Leidos]], [[Bank of Am
 | 2025-09-03 | h228-119.1 | No | Y | — |
 | 2025-07-18 | h204-119.1 | Aye | N | — |
 | 2024-11-12 | h456-118.2 | Nay | Y | HR 82 |
-| 2024-07-23 | h384-118.2 | No | Y | — |
-| 2024-07-23 | h383-118.2 | No | Y | — |
 | 2024-07-23 | h381-118.2 | No | Y | — |
 | 2024-07-23 | h378-118.2 | No | Y | — |
+| 2024-07-23 | h383-118.2 | No | Y | — |
+| 2024-07-23 | h384-118.2 | No | Y | — |
 | 2024-07-11 | h350-118.2 | No | Y | — |
-| 2024-06-27 | h308-118.2 | Aye | N | — |
+| 2024-06-27 | h305-118.2 | No | Y | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

@@ -135,16 +135,16 @@ top-donors: "[[Votevets]], [[Mark Green]], [[Pfizer Inc.]], [[Jim Jordan]], [[AT
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| 2026-04-16 | h120-119.2 | Yea | N | HR 1689 |
 | 2026-04-16 | h119-119.2 | Yea | N | HRES 965 |
+| 2026-04-16 | h120-119.2 | Yea | N | HR 1689 |
 | 2026-04-15 | h113-119.2 | Yea | N | HRES 965 |
 | 2026-02-24 | h72-119.2 | Yea | N | S 2503 |
-| 2026-01-22 | h44-119.2 | No | Y | — |
 | 2026-01-22 | h43-119.2 | No | Y | — |
-| 2026-01-14 | h27-119.2 | No | Y | — |
+| 2026-01-22 | h44-119.2 | No | Y | — |
 | 2026-01-14 | h26-119.2 | No | Y | — |
-| 2026-01-08 | h11-119.2 | Yea | N | HR 1834 |
+| 2026-01-14 | h27-119.2 | No | Y | — |
 | 2026-01-08 | h10-119.2 | Yea | N | HRES 780 |
+| 2026-01-08 | h8-119.2 | Yea | N | HR 504 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

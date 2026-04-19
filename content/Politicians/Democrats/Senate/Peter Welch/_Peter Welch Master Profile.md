@@ -106,7 +106,7 @@ top-donors: "[[Teamsters - International Brotherhood of Teamsters]], [[National 
 | Substantive votes (Y/N) | 1,402 |
 | Votes with party majority | 1,338 |
 | Party-line loyalty | 95.4% |
-| Deviations from party | 64 |
+| Deviations from party | 41 |
 
 **Coverage:**
 
@@ -116,20 +116,20 @@ top-donors: "[[Teamsters - International Brotherhood of Teamsters]], [[National 
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 64):**
+**Most recent party-line deviations (top 10 of 41):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s509-119.1 | Yea | N | PN 346-3 |
-| September  | s508-119.1 | Yea | N | PN 346-3 |
-| September  | s503-119.1 | Nay | Y | S. 2296 |
-| September  | s500-119.1 | Nay | Y | S. 2296 |
-| October 9, | s570-119.1 | Nay | Y | S. 2296 |
-| October 9, | s568-119.1 | Yea | N | — |
-| October 9, | s564-119.1 | Yea | N | — |
-| October 9, | s562-119.1 | Yea | N | — |
-| October 26 | s270-118.1 | Yea | N | S.J.Res. 44 |
-| October 21 | s577-119.1 | Yea | N | PN 466-6 |
+| 2026-01-30 | s20-119.2 | Yea | N | H.R. 7148 |
+| 2025-12-17 | s648-119.1 | Nay | Y | S. 1071 |
+| 2025-12-15 | s647-119.1 | Nay | Y | S. 1071 |
+| 2025-12-11 | s646-119.1 | Nay | Y | S. 1071 |
+| 2025-11-10 | s614-119.1 | Nay | Y | — |
+| 2025-10-09 | s570-119.1 | Nay | Y | S. 2296 |
+| 2025-10-09 | s568-119.1 | Yea | N | — |
+| 2025-10-09 | s564-119.1 | Yea | N | — |
+| 2025-10-09 | s562-119.1 | Yea | N | — |
+| 2025-09-04 | s503-119.1 | Nay | Y | S. 2296 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

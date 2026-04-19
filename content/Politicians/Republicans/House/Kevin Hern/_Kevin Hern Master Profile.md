@@ -96,9 +96,9 @@ top-policy-area: "Taxation"
 | 2025-09-04 | h237-119.1 | Aye | N | — |
 | 2025-09-03 | h229-119.1 | Aye | N | — |
 | 2025-07-22 | h216-119.1 | Nay | Y | HR 1917 |
-| 2025-07-18 | h210-119.1 | Aye | N | — |
-| 2025-07-18 | h209-119.1 | Aye | N | — |
 | 2025-07-18 | h206-119.1 | Aye | N | — |
+| 2025-07-18 | h209-119.1 | Aye | N | — |
+| 2025-07-18 | h210-119.1 | Aye | N | — |
 | 2025-07-18 | h204-119.1 | Aye | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*

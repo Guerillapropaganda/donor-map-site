@@ -83,7 +83,7 @@ donors: [[Koch Network - Charles Koch]] · [[Cryptocurrency Industry]] · Libert
 | Substantive votes (Y/N) | 2,593 |
 | Votes with party majority | 2,116 |
 | Party-line loyalty | 81.6% |
-| Deviations from party | 472 |
+| Deviations from party | 376 |
 
 **Coverage:**
 
@@ -96,20 +96,20 @@ donors: [[Koch Network - Charles Koch]] · [[Cryptocurrency Industry]] · Libert
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 472):**
+**Most recent party-line deviations (top 10 of 376):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s189-115.1 | Nay | Y | H.R. 601 |
-| September  | s192-115.1 | Nay | Y | H.R. 601 |
-| September  | s191-115.1 | Nay | Y | H.R. 601 |
-| September  | s214-118.1 | Nay | Y | PN 645 |
-| September  | s213-118.1 | Nay | Y | PN 645 |
-| September  | s503-119.1 | Nay | Y | S. 2296 |
-| September  | s535-119.1 | Nay | Y | H.R. 5371 |
-| September  | s247-118.1 | Nay | Y | H.R. 5860 |
-| September  | s199-116.2 | Yea | N | — |
-| September  | s198-116.2 | Nay | Y | S. 178 |
+| 2026-04-15 | s79-119.2 | Yea | N | S.J.Res. 123 |
+| 2026-03-24 | s69-119.2 | Yea | N | S.J.Res. 116 |
+| 2026-03-18 | s58-119.2 | Yea | N | S.J.Res. 118 |
+| 2026-03-12 | s53-119.2 | Nay | Y | H.R. 6644 |
+| 2026-03-11 | s52-119.2 | Nay | Y | H.R. 6644 |
+| 2026-03-11 | s51-119.2 | Nay | Y | — |
+| 2026-03-10 | s50-119.2 | Nay | Y | — |
+| 2026-03-04 | s46-119.2 | Yea | N | S.J.Res. 104 |
+| 2026-03-04 | s45-119.2 | Nay | Y | H.R. 6644 |
+| 2026-01-30 | s20-119.2 | Nay | Y | H.R. 7148 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

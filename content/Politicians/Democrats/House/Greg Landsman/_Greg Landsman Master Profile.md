@@ -139,11 +139,11 @@ top-donors: "[[National Association of Realtors]], [[United Food and Commercial 
 | 2026-03-05 | h85-119.2 | Nay | Y | HCONRES 38 |
 | 2026-02-12 | h70-119.2 | Yea | N | HR 2189 |
 | 2026-01-09 | h12-119.2 | Yea | N | HR 5184 |
-| 2025-12-04 | h314-119.1 | Yea | N | HR 1049 |
 | 2025-12-04 | h313-119.1 | Yea | N | HR 1069 |
+| 2025-12-04 | h314-119.1 | Yea | N | HR 1049 |
+| 2025-12-03 | h310-119.1 | Yea | N | HR 2965 |
 | 2025-12-03 | h312-119.1 | Yea | N | HR 1005 |
 | 2025-12-03 | h311-119.1 | Yea | N | HR 4305 |
-| 2025-12-03 | h310-119.1 | Yea | N | HR 2965 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

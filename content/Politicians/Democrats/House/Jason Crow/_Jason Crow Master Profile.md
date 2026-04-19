@@ -134,10 +134,10 @@ top-donors: "[[League of Conservation Voters]], [[UA Political Action Committee]
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| 2026-01-08 | h7-119.2 | Nay | Y | HR 6938 |
 | 2026-01-08 | h5-119.2 | Nay | Y | HR 6938 |
-| 2025-12-11 | h324-119.1 | Yea | N | HR 3638 |
+| 2026-01-08 | h7-119.2 | Nay | Y | HR 6938 |
 | 2025-12-11 | h322-119.1 | Yea | N | HRES 939 |
+| 2025-12-11 | h324-119.1 | Yea | N | HR 3638 |
 | 2025-11-21 | h305-119.1 | Yea | N | HCONRES 58 |
 | 2025-11-19 | h302-119.1 | Nay | Y | HRES 893 |
 | 2025-07-21 | h213-119.1 | Yea | N | HR 3095 |

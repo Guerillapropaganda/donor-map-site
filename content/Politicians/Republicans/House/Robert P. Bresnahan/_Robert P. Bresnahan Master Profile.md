@@ -70,14 +70,14 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 |---|---|---|---|---|
 | 2026-02-24 | h72-119.2 | Yea | N | S 2503 |
 | 2026-01-22 | h44-119.2 | No | Y | — |
-| 2026-01-14 | h27-119.2 | No | Y | — |
 | 2026-01-14 | h26-119.2 | No | Y | — |
+| 2026-01-14 | h27-119.2 | No | Y | — |
 | 2026-01-13 | h19-119.2 | Nay | Y | HR 2262 |
-| 2026-01-08 | h11-119.2 | Yea | N | HR 1834 |
 | 2026-01-08 | h10-119.2 | Yea | N | HRES 780 |
+| 2026-01-08 | h11-119.2 | Yea | N | HR 1834 |
 | 2026-01-07 | h4-119.2 | Yea | N | HRES 780 |
 | 2025-12-18 | h352-119.1 | No | Y | — |
-| 2025-12-11 | h332-119.1 | Yea | N | HR 2550 |
+| 2025-12-11 | h331-119.1 | Yea | N | HRES 432 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

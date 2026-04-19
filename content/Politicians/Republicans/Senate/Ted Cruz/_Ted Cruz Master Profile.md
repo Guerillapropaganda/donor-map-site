@@ -159,7 +159,7 @@ donors: [[Robert Mercer]] · [[Koch Network - Charles Koch]] · [[Crypto Industr
 | Substantive votes (Y/N) | 2,578 |
 | Votes with party majority | 2,427 |
 | Party-line loyalty | 94.1% |
-| Deviations from party | 146 |
+| Deviations from party | 116 |
 
 **Coverage:**
 
@@ -172,20 +172,20 @@ donors: [[Robert Mercer]] · [[Koch Network - Charles Koch]] · [[Crypto Industr
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 146):**
+**Most recent party-line deviations (top 10 of 116):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s189-115.1 | Nay | Y | H.R. 601 |
-| September  | s247-118.1 | Nay | Y | H.R. 5860 |
-| September  | s199-116.2 | Yea | N | — |
-| September  | s197-116.2 | Nay | Y | H.R. 8337 |
-| September  | s244-118.1 | Nay | Y | PN 183 |
-| September  | s196-116.2 | Nay | Y | H.R. 8337 |
-| September  | s241-118.1 | Nay | Y | H.R. 3935 |
-| September  | s240-118.1 | Nay | Y | H.R. 3935 |
-| September  | s311-116.1 | Nay | Y | H.R. 4378 |
-| September  | s310-116.1 | Yea | N | — |
+| 2026-03-12 | s53-119.2 | Nay | Y | H.R. 6644 |
+| 2026-03-11 | s52-119.2 | Nay | Y | H.R. 6644 |
+| 2026-03-11 | s51-119.2 | Nay | Y | — |
+| 2026-01-30 | s20-119.2 | Nay | Y | H.R. 7148 |
+| 2025-12-15 | s647-119.1 | Nay | Y | S. 1071 |
+| 2025-12-11 | s646-119.1 | Nay | Y | S. 1071 |
+| 2025-11-10 | s614-119.1 | Nay | Y | — |
+| 2025-10-29 | s597-119.1 | Yea | N | S.J.Res. 69 |
+| 2025-08-01 | s478-119.1 | Yea | N | — |
+| 2025-08-01 | s476-119.1 | Yea | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

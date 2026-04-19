@@ -83,7 +83,7 @@ donors: [[AIPAC - American Israel Public Affairs Committee]], [[Paul Singer]], [
 | Substantive votes (Y/N) | 2,693 |
 | Votes with party majority | 2,628 |
 | Party-line loyalty | 97.6% |
-| Deviations from party | 60 |
+| Deviations from party | 47 |
 
 **Coverage:**
 
@@ -96,20 +96,20 @@ donors: [[AIPAC - American Israel Public Affairs Committee]], [[Paul Singer]], [
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 60):**
+**Most recent party-line deviations (top 10 of 47):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s190-116.2 | Nay | Y | PN 1314 |
-| September  | s191-116.2 | Nay | Y | PN 1314 |
-| September  | s248-118.2 | Nay | Y | PN 1399 |
-| September  | s521-119.1 | Nay | Y | S.Con.Res. 22 |
-| October 31 | s339-116.1 | Nay | Y | — |
-| October 24 | s248-115.1 | Nay | Y | H.R. 2266 |
-| October 24 | s247-115.1 | Nay | Y | H.R. 2266 |
-| October 23 | s246-115.1 | Nay | Y | H.R. 2266 |
-| November 2 | s303-118.2 | Nay | Y | PN 2041 |
-| May 4, 201 | s121-115.1 | Nay | Y | H.R. 244 |
+| 2026-01-30 | s15-119.2 | Yea | N | — |
+| 2025-09-16 | s521-119.1 | Nay | Y | S.Con.Res. 22 |
+| 2024-12-20 | s337-118.2 | Yea | N | H.R. 82 |
+| 2024-12-20 | s336-118.2 | Nay | Y | — |
+| 2024-12-20 | s335-118.2 | Nay | Y | — |
+| 2024-12-20 | s334-118.2 | Nay | Y | — |
+| 2024-12-18 | s326-118.2 | Yea | N | H.R. 82 |
+| 2024-04-23 | s153-118.2 | Nay | Y | H.R. 815 |
+| 2024-03-07 | s75-118.2 | Yea | N | S. 3853 |
+| 2023-07-19 | s192-118.1 | Nay | Y | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

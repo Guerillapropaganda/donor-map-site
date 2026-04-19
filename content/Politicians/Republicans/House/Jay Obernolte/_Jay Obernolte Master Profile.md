@@ -133,13 +133,13 @@ top-donors: "[[Marathon Petroleum]], [[PG&E - Pacific Gas and Electric]], [[John
 |---|---|---|---|---|
 | 2026-03-04 | h82-119.2 | Nay | Y | HR 6472 |
 | 2026-01-22 | h44-119.2 | No | Y | — |
-| 2026-01-14 | h27-119.2 | No | Y | — |
 | 2026-01-14 | h26-119.2 | No | Y | — |
-| 2026-01-08 | h9-119.2 | Yea | N | HR 131 |
+| 2026-01-14 | h27-119.2 | No | Y | — |
 | 2026-01-08 | h8-119.2 | Yea | N | HR 504 |
+| 2026-01-08 | h9-119.2 | Yea | N | HR 131 |
+| 2025-09-10 | h244-119.1 | Aye | N | — |
 | 2025-09-10 | h254-119.1 | No | Y | — |
 | 2025-09-10 | h250-119.1 | No | Y | — |
-| 2025-09-10 | h244-119.1 | Aye | N | — |
 | 2025-09-09 | h243-119.1 | No | Y | HRES 682 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*

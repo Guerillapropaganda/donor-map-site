@@ -60,7 +60,7 @@ related: "[[Koch Network - Charles Koch|Koch Network]] · [[ExxonMobil]] · [[Fo
 | Substantive votes (Y/N) | 1,280 |
 | Votes with party majority | 1,240 |
 | Party-line loyalty | 96.9% |
-| Deviations from party | 37 |
+| Deviations from party | 29 |
 
 **Coverage:**
 
@@ -69,20 +69,20 @@ related: "[[Koch Network - Charles Koch|Koch Network]] · [[ExxonMobil]] · [[Fo
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
 
-**Most recent party-line deviations (top 10 of 37):**
+**Most recent party-line deviations (top 10 of 29):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s189-115.1 | Nay | Y | H.R. 601 |
-| September  | s191-115.1 | Nay | Y | H.R. 601 |
-| September  | s311-116.1 | Nay | Y | H.R. 4378 |
-| September  | s182-116.2 | Yea | N | PN 1510 |
-| October 28 | s335-116.1 | Yea | N | — |
-| October 24 | s248-115.1 | Nay | Y | H.R. 2266 |
-| October 24 | s247-115.1 | Nay | Y | H.R. 2266 |
-| October 23 | s246-115.1 | Nay | Y | H.R. 2266 |
-| November 2 | s365-116.1 | Nay | Y | H.R. 3055 |
-| November 2 | s364-116.1 | Nay | Y | H.R. 3055 |
+| 2020-06-17 | s121-116.2 | Nay | Y | H.R. 1957 |
+| 2020-06-15 | s120-116.2 | Nay | Y | H.R. 1957 |
+| 2020-06-15 | s119-116.2 | Nay | Y | — |
+| 2020-06-10 | s116-116.2 | Nay | Y | H.R. 1957 |
+| 2020-06-08 | s114-116.2 | Nay | Y | H.R. 1957 |
+| 2020-05-13 | s90-116.2 | Nay | Y | — |
+| 2020-03-18 | s76-116.2 | Nay | Y | H.R. 6201 |
+| 2020-03-09 | s67-116.2 | Nay | Y | — |
+| 2019-12-19 | s415-116.1 | Nay | Y | H.R. 1865 |
+| 2019-12-19 | s413-116.1 | Nay | Y | H.R. 1865 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

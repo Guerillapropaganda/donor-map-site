@@ -112,7 +112,7 @@ top-donors: "[[International Association of Firefighters Interested in Registrat
 | Substantive votes (Y/N) | 1,948 |
 | Votes with party majority | 1,917 |
 | Party-line loyalty | 98.4% |
-| Deviations from party | 30 |
+| Deviations from party | 19 |
 
 **Coverage:**
 
@@ -122,20 +122,20 @@ top-donors: "[[International Association of Firefighters Interested in Registrat
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 30):**
+**Most recent party-line deviations (top 10 of 19):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| May 21, 20 | s263-119.1 | Yea | N | S. 1582 |
-| May 19, 20 | s262-119.1 | Yea | N | S. 1582 |
-| March 14,  | s127-119.1 | Nay | Y | S. 331 |
-| March 13,  | s124-119.1 | Nay | Y | S. 331 |
-| March 11,  | s115-119.1 | Nay | Y | PN 12-41 |
-| March 11,  | s114-119.1 | Nay | Y | PN 12-41 |
-| January 30 | s26-119.1 | Nay | Y | PN 11-3 |
-| January 29 | s25-119.1 | Nay | Y | PN 11-3 |
-| January 28 | s21-119.1 | Nay | Y | PN 11-6 |
-| January 27 | s19-119.1 | Yea | N | PN 11-1 |
+| 2025-05-21 | s263-119.1 | Yea | N | S. 1582 |
+| 2025-05-19 | s262-119.1 | Yea | N | S. 1582 |
+| 2025-03-14 | s127-119.1 | Nay | Y | S. 331 |
+| 2025-03-13 | s124-119.1 | Nay | Y | S. 331 |
+| 2024-09-11 | h415-118.2 | Yea | N | HR 9456 |
+| 2024-09-10 | h408-118.2 | Yea | N | HR 1516 |
+| 2024-05-15 | h204-118.2 | Yea | N | HR 7343 |
+| 2024-04-15 | h123-118.2 | Yea | N | HR 5921 |
+| 2024-04-12 | h115-118.2 | Aye | N | — |
+| 2023-12-13 | h718-118.1 | Nay | Y | HR 1147 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

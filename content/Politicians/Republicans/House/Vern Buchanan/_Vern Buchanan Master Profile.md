@@ -123,13 +123,13 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 |---|---|---|---|---|
 | 2026-02-24 | h72-119.2 | Yea | N | S 2503 |
 | 2026-01-22 | h44-119.2 | No | Y | — |
-| 2026-01-14 | h27-119.2 | No | Y | — |
 | 2026-01-14 | h26-119.2 | No | Y | — |
+| 2026-01-14 | h27-119.2 | No | Y | — |
 | 2025-12-18 | h360-119.1 | Nay | Y | HR 845 |
 | 2025-09-04 | h236-119.1 | No | Y | — |
 | 2025-09-04 | h235-119.1 | No | Y | — |
 | 2025-09-03 | h234-119.1 | No | Y | — |
-| 2025-09-03 | h233-119.1 | No | Y | — |
+| 2025-09-03 | h230-119.1 | No | Y | — |
 | 2025-09-03 | h232-119.1 | No | Y | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*

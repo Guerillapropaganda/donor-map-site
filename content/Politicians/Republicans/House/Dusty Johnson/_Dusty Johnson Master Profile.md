@@ -134,16 +134,16 @@ top-policy-area: Agriculture and Food
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| 2026-01-14 | h27-119.2 | No | Y | — |
 | 2026-01-14 | h26-119.2 | No | Y | — |
+| 2026-01-14 | h27-119.2 | No | Y | — |
 | 2025-09-04 | h236-119.1 | No | Y | — |
 | 2025-09-03 | h229-119.1 | Aye | N | — |
 | 2024-12-17 | h511-118.2 | Nay | Y | HR 1101 |
 | 2024-07-23 | h386-118.2 | No | Y | — |
-| 2024-07-11 | h350-118.2 | No | Y | — |
 | 2024-07-11 | h349-118.2 | No | Y | — |
-| 2024-06-27 | h323-118.2 | Aye | N | — |
+| 2024-07-11 | h350-118.2 | No | Y | — |
 | 2024-06-27 | h320-118.2 | No | Y | — |
+| 2024-06-27 | h305-118.2 | No | Y | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

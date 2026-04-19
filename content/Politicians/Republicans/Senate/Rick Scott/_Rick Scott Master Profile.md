@@ -165,7 +165,7 @@ donors: Healthcare Industry · [[Fanjul Family - Florida Crystals]]
 | Substantive votes (Y/N) | 2,067 |
 | Votes with party majority | 1,946 |
 | Party-line loyalty | 94.1% |
-| Deviations from party | 118 |
+| Deviations from party | 76 |
 
 **Coverage:**
 
@@ -176,20 +176,20 @@ donors: Healthcare Industry · [[Fanjul Family - Florida Crystals]]
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 118):**
+**Most recent party-line deviations (top 10 of 76):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s214-118.1 | Nay | Y | PN 645 |
-| September  | s213-118.1 | Nay | Y | PN 645 |
-| September  | s197-116.2 | Nay | Y | H.R. 8337 |
-| September  | s244-118.1 | Nay | Y | PN 183 |
-| September  | s241-118.1 | Nay | Y | H.R. 3935 |
-| September  | s240-118.1 | Nay | Y | H.R. 3935 |
-| September  | s311-116.1 | Nay | Y | H.R. 4378 |
-| September  | s249-118.2 | Nay | Y | PN 1399 |
-| September  | s190-116.2 | Nay | Y | PN 1314 |
-| September  | s191-116.2 | Nay | Y | PN 1314 |
+| 2026-03-12 | s53-119.2 | Nay | Y | H.R. 6644 |
+| 2026-03-11 | s52-119.2 | Nay | Y | H.R. 6644 |
+| 2026-03-11 | s51-119.2 | Nay | Y | — |
+| 2026-03-10 | s50-119.2 | Nay | Y | — |
+| 2026-03-04 | s45-119.2 | Nay | Y | H.R. 6644 |
+| 2026-03-02 | s44-119.2 | Nay | Y | H.R. 6644 |
+| 2026-01-30 | s20-119.2 | Nay | Y | H.R. 7148 |
+| 2026-01-29 | s13-119.2 | Nay | Y | H.R. 7148 |
+| 2026-01-15 | s11-119.2 | Nay | Y | H.R. 6938 |
+| 2026-01-15 | s10-119.2 | Nay | Y | H.R. 6938 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

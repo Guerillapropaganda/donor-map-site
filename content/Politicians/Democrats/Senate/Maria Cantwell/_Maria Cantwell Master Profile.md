@@ -147,7 +147,7 @@ donors: [[Boeing]]
 | Substantive votes (Y/N) | 2,728 |
 | Votes with party majority | 2,597 |
 | Party-line loyalty | 95.2% |
-| Deviations from party | 123 |
+| Deviations from party | 28 |
 
 **Coverage:**
 
@@ -160,20 +160,20 @@ donors: [[Boeing]]
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 123):**
+**Most recent party-line deviations (top 10 of 28):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s161-116.2 | Nay | Y | PN 1713 |
-| September  | s160-116.2 | Nay | Y | PN 1511 |
-| September  | s163-116.2 | Nay | Y | PN 1431 |
-| September  | s162-116.2 | Nay | Y | PN 1511 |
-| September  | s205-115.1 | Nay | Y | PN 249 |
-| September  | s312-116.1 | Nay | Y | PN 585 |
-| September  | s308-116.1 | Nay | Y | PN 585 |
-| September  | s183-116.2 | Nay | Y | PN 1508 |
-| September  | s176-116.2 | Nay | Y | PN 1538 |
-| September  | s181-116.2 | Nay | Y | PN 1508 |
+| 2026-01-30 | s20-119.2 | Yea | N | H.R. 7148 |
+| 2025-12-17 | s648-119.1 | Nay | Y | S. 1071 |
+| 2025-12-15 | s647-119.1 | Nay | Y | S. 1071 |
+| 2025-12-11 | s646-119.1 | Nay | Y | S. 1071 |
+| 2025-10-09 | s570-119.1 | Nay | Y | S. 2296 |
+| 2025-10-09 | s563-119.1 | Yea | N | — |
+| 2025-10-09 | s562-119.1 | Yea | N | — |
+| 2025-07-30 | s455-119.1 | Nay | Y | S.J.Res. 34 |
+| 2025-07-30 | s454-119.1 | Nay | Y | S.J.Res. 41 |
+| 2025-01-20 | s6-119.1 | Yea | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

@@ -72,7 +72,7 @@ urls-first-triaged: "2026-04-15"
 | Substantive votes (Y/N) | 1,855 |
 | Votes with party majority | 1,766 |
 | Party-line loyalty | 95.2% |
-| Deviations from party | 85 |
+| Deviations from party | 48 |
 
 **Coverage:**
 
@@ -84,20 +84,20 @@ urls-first-triaged: "2026-04-15"
 - senate 118/2: 339 votes
 - senate 119/1: 8 votes
 
-**Most recent party-line deviations (top 10 of 85):**
+**Most recent party-line deviations (top 10 of 48):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s310-116.1 | Yea | N | — |
-| September  | s249-118.2 | Nay | Y | PN 1399 |
-| September  | s235-118.1 | Nay | Y | PN 677 |
-| September  | s248-118.2 | Nay | Y | PN 1399 |
-| October 28 | s335-116.1 | Yea | N | — |
-| October 17 | s255-118.1 | Yea | N | PN 812 |
-| October 17 | s325-116.1 | Yea | N | S.J.Res. 54 |
-| May 8, 201 | s102-116.1 | Nay | Y | PN 54 |
-| May 8, 201 | s101-116.1 | Nay | Y | PN 47 |
-| May 8, 201 | s100-116.1 | Nay | Y | PN 55 |
+| 2024-12-18 | s326-118.2 | Yea | N | H.R. 82 |
+| 2024-04-23 | s154-118.2 | Nay | Y | H.R. 815 |
+| 2024-04-23 | s153-118.2 | Nay | Y | H.R. 815 |
+| 2024-04-23 | s152-118.2 | Nay | Y | H.R. 815 |
+| 2024-04-16 | s128-118.2 | Yea | N | S. 4072 |
+| 2024-03-23 | s114-118.2 | Nay | Y | H.R. 2882 |
+| 2024-03-22 | s103-118.2 | Nay | Y | H.R. 2882 |
+| 2024-03-08 | s84-118.2 | Nay | Y | H.R. 4366 |
+| 2024-03-08 | s77-118.2 | Nay | Y | H.R. 4366 |
+| 2024-03-07 | s75-118.2 | Yea | N | S. 3853 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

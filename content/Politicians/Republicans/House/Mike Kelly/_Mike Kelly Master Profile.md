@@ -131,16 +131,16 @@ top-policy-area: Taxation
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| 2026-01-22 | h44-119.2 | No | Y | — |
 | 2026-01-22 | h43-119.2 | No | Y | — |
+| 2026-01-22 | h44-119.2 | No | Y | — |
 | 2026-01-14 | h27-119.2 | No | Y | — |
 | 2025-09-10 | h254-119.1 | No | Y | — |
 | 2025-09-04 | h236-119.1 | No | Y | — |
-| 2025-09-03 | h231-119.1 | No | Y | — |
 | 2025-09-03 | h230-119.1 | No | Y | — |
+| 2025-09-03 | h231-119.1 | No | Y | — |
 | 2025-09-03 | h228-119.1 | No | Y | — |
 | 2024-11-12 | h457-118.2 | Nay | Y | HR 5342 |
-| 2024-07-24 | h398-118.2 | No | Y | — |
+| 2024-07-24 | h387-118.2 | No | Y | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

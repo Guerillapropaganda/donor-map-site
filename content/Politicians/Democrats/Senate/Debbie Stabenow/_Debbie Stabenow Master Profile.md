@@ -139,7 +139,7 @@ donors: Agribusiness Industry · Crop Insurance Lobby · [[UAW - United Auto Wor
 | Substantive votes (Y/N) | 1,944 |
 | Votes with party majority | 1,832 |
 | Party-line loyalty | 94.2% |
-| Deviations from party | 104 |
+| Deviations from party | 21 |
 
 **Coverage:**
 
@@ -150,20 +150,20 @@ donors: Agribusiness Industry · Crop Insurance Lobby · [[UAW - United Auto Wor
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 
-**Most recent party-line deviations (top 10 of 104):**
+**Most recent party-line deviations (top 10 of 21):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s204-115.2 | Nay | Y | PN 1650 |
-| September  | s312-116.1 | Nay | Y | PN 585 |
-| September  | s308-116.1 | Nay | Y | PN 585 |
-| September  | s215-115.2 | Nay | Y | PN 2048 |
-| September  | s214-115.2 | Nay | Y | PN 2048 |
-| September  | s213-115.2 | Nay | Y | PN 1447 |
-| September  | s283-116.1 | Yea | N | PN 135 |
-| September  | s282-116.1 | Yea | N | PN 135 |
-| September  | s195-115.1 | Yea | N | — |
-| September  | s272-116.1 | Nay | Y | PN 631 |
+| 2024-12-18 | s325-118.2 | Nay | Y | H.R. 5009 |
+| 2024-12-16 | s324-118.2 | Nay | Y | H.R. 5009 |
+| 2024-04-19 | s148-118.2 | Nay | Y | — |
+| 2024-03-21 | s101-118.2 | Nay | Y | S.J.Res. 62 |
+| 2024-02-29 | s62-118.2 | Yea | N | S.J.Res. 60 |
+| 2023-06-01 | s145-118.1 | Nay | Y | — |
+| 2023-05-03 | s109-118.1 | Yea | N | H.J.Res. 39 |
+| 2020-02-13 | s46-116.2 | Yea | N | — |
+| 2018-06-28 | s142-115.2 | Nay | Y | — |
+| 2018-03-21 | s59-115.2 | Yea | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

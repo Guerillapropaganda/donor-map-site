@@ -130,15 +130,15 @@ top-donors: "[[Bank of America]], [[Comcast - NBCUniversal]], [[Anthem - Elevanc
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| 2025-09-03 | h231-119.1 | No | Y | — |
 | 2025-09-03 | h229-119.1 | Aye | N | — |
+| 2025-09-03 | h231-119.1 | No | Y | — |
 | 2025-07-22 | h216-119.1 | Nay | Y | HR 1917 |
-| 2025-07-18 | h210-119.1 | Aye | N | — |
 | 2025-07-18 | h206-119.1 | Aye | N | — |
+| 2025-07-18 | h210-119.1 | Aye | N | — |
 | 2025-07-18 | h204-119.1 | Aye | N | — |
 | 2025-05-13 | h124-119.1 | Nay | Y | HR 249 |
 | 2024-07-23 | h386-118.2 | No | Y | — |
-| 2024-06-27 | h323-118.2 | Aye | N | — |
+| 2024-06-27 | h308-118.2 | Aye | N | — |
 | 2024-06-27 | h317-118.2 | Aye | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*

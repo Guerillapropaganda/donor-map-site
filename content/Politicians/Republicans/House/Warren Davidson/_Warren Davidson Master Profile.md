@@ -135,15 +135,15 @@ top-donors: "[[Coinbase]], [[National Right to Life Victory Fund]], [[Jim Jordan
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
 | 2026-04-17 | h124-119.2 | No | Y | HRES 1175 |
-| 2026-03-17 | h89-119.2 | Nay | Y | S 3971 |
 | 2026-03-17 | h88-119.2 | Nay | Y | HR 4294 |
+| 2026-03-17 | h89-119.2 | Nay | Y | S 3971 |
 | 2026-03-05 | h85-119.2 | Yea | N | HCONRES 38 |
 | 2026-03-04 | h82-119.2 | Nay | Y | HR 6472 |
-| 2026-01-20 | h33-119.2 | Nay | Y | HR 5764 |
 | 2026-01-20 | h32-119.2 | Nay | Y | HR 5763 |
+| 2026-01-20 | h33-119.2 | Nay | Y | HR 5764 |
 | 2026-01-14 | h28-119.2 | Nay | Y | HR 7006 |
-| 2026-01-12 | h15-119.2 | Nay | Y | HR 6504 |
 | 2026-01-12 | h14-119.2 | Nay | Y | HR 6500 |
+| 2026-01-12 | h15-119.2 | Nay | Y | HR 6504 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

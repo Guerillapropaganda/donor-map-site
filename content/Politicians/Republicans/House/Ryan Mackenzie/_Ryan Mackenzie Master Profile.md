@@ -131,13 +131,13 @@ top-donors: "[[National Restaurant Association]], [[Mike Haridopolos]], [[Nation
 | 2026-03-04 | h83-119.2 | Nay | Y | HRES 1100 |
 | 2026-02-24 | h72-119.2 | Yea | N | S 2503 |
 | 2026-01-14 | h27-119.2 | No | Y | — |
-| 2026-01-12 | h15-119.2 | Nay | Y | HR 6504 |
 | 2026-01-12 | h14-119.2 | Nay | Y | HR 6500 |
-| 2026-01-08 | h11-119.2 | Yea | N | HR 1834 |
+| 2026-01-12 | h15-119.2 | Nay | Y | HR 6504 |
 | 2026-01-08 | h10-119.2 | Yea | N | HRES 780 |
+| 2026-01-08 | h11-119.2 | Yea | N | HR 1834 |
 | 2026-01-07 | h4-119.2 | Yea | N | HRES 780 |
-| 2025-12-18 | h354-119.1 | No | Y | — |
 | 2025-12-18 | h352-119.1 | No | Y | — |
+| 2025-12-18 | h354-119.1 | No | Y | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

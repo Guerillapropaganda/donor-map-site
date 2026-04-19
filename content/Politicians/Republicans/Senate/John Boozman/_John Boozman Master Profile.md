@@ -130,7 +130,7 @@ donors:
 | Substantive votes (Y/N) | 2,722 |
 | Votes with party majority | 2,662 |
 | Party-line loyalty | 97.8% |
-| Deviations from party | 55 |
+| Deviations from party | 33 |
 
 **Coverage:**
 
@@ -143,20 +143,20 @@ donors:
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 55):**
+**Most recent party-line deviations (top 10 of 33):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s533-119.1 | Nay | Y | S. 2806 |
-| September  | s249-118.2 | Nay | Y | PN 1399 |
-| September  | s190-116.2 | Nay | Y | PN 1314 |
-| September  | s191-116.2 | Nay | Y | PN 1314 |
-| September  | s248-118.2 | Nay | Y | PN 1399 |
-| September  | s521-119.1 | Nay | Y | S.Con.Res. 22 |
-| October 31 | s339-116.1 | Nay | Y | — |
-| October 26 | s271-118.1 | Nay | Y | — |
-| November 7 | s293-118.1 | Yea | N | PN 649 |
-| November 6 | s292-118.1 | Yea | N | PN 649 |
+| 2026-01-30 | s15-119.2 | Yea | N | — |
+| 2026-01-30 | s14-119.2 | Nay | Y | — |
+| 2025-09-29 | s533-119.1 | Nay | Y | S. 2806 |
+| 2025-09-16 | s521-119.1 | Nay | Y | S.Con.Res. 22 |
+| 2025-03-14 | s132-119.1 | Nay | Y | — |
+| 2024-12-20 | s337-118.2 | Yea | N | H.R. 82 |
+| 2024-12-20 | s336-118.2 | Nay | Y | — |
+| 2024-12-20 | s335-118.2 | Nay | Y | — |
+| 2024-12-20 | s334-118.2 | Nay | Y | — |
+| 2024-12-18 | s326-118.2 | Yea | N | H.R. 82 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

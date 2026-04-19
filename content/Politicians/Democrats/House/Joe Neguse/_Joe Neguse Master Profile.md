@@ -127,8 +127,8 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 |---|---|---|---|---|
 | 2026-03-04 | h83-119.2 | Nay | Y | HRES 1100 |
 | 2026-01-22 | h45-119.2 | Nay | Y | HR 7148 |
-| 2026-01-08 | h7-119.2 | Nay | Y | HR 6938 |
 | 2026-01-08 | h5-119.2 | Nay | Y | HR 6938 |
+| 2026-01-08 | h7-119.2 | Nay | Y | HR 6938 |
 | 2025-12-10 | h320-119.1 | Nay | Y | S 1071 |
 | 2025-11-19 | h302-119.1 | Nay | Y | HRES 893 |
 | 2025-07-21 | h213-119.1 | Yea | N | HR 3095 |

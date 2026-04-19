@@ -133,7 +133,7 @@ top-donors: "[[Sierra Club Political Committee]], [[CHC BOLD PAC]], [[NextEra En
 | 2025-11-21 | h305-119.1 | Yea | N | HCONRES 58 |
 | 2025-09-17 | h275-119.1 | Yea | N | HR 5143 |
 | 2025-07-21 | h213-119.1 | Yea | N | HR 3095 |
-| 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
+| 2025-07-17 | h199-119.1 | Yea | N | HR 3633 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

@@ -101,7 +101,7 @@ donors: [[Defense Industry Bloc]] · Agriculture Bloc
 | Substantive votes (Y/N) | 1,346 |
 | Votes with party majority | 1,263 |
 | Party-line loyalty | 93.8% |
-| Deviations from party | 81 |
+| Deviations from party | 50 |
 
 **Coverage:**
 
@@ -110,20 +110,20 @@ donors: [[Defense Industry Bloc]] · Agriculture Bloc
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 81):**
+**Most recent party-line deviations (top 10 of 50):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s214-118.1 | Nay | Y | PN 645 |
-| September  | s213-118.1 | Nay | Y | PN 645 |
-| September  | s241-118.1 | Nay | Y | H.R. 3935 |
-| September  | s240-118.1 | Nay | Y | H.R. 3935 |
-| September  | s255-118.2 | Nay | Y | H.R. 9747 |
-| September  | s249-118.2 | Nay | Y | PN 1399 |
-| September  | s235-118.1 | Nay | Y | PN 677 |
-| September  | s234-118.1 | Nay | Y | PN 677 |
-| September  | s227-118.1 | Nay | Y | H.R. 4366 |
-| October 29 | s597-119.1 | Yea | N | S.J.Res. 69 |
+| 2026-03-12 | s53-119.2 | Nay | Y | H.R. 6644 |
+| 2026-03-10 | s50-119.2 | Nay | Y | — |
+| 2026-03-04 | s45-119.2 | Nay | Y | H.R. 6644 |
+| 2026-03-02 | s44-119.2 | Nay | Y | H.R. 6644 |
+| 2026-01-29 | s13-119.2 | Nay | Y | H.R. 7148 |
+| 2025-10-29 | s597-119.1 | Yea | N | S.J.Res. 69 |
+| 2025-08-01 | s476-119.1 | Yea | N | — |
+| 2025-07-01 | s360-119.1 | Yea | N | — |
+| 2025-02-21 | s77-119.1 | Yea | N | — |
+| 2024-12-21 | s338-118.2 | Nay | Y | H.R. 82 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

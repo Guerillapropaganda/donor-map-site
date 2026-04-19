@@ -145,7 +145,7 @@ donors: [[Koch Network - Charles Koch]], [[Leonard Leo]], [[Timothy Mellon]]
 | Substantive votes (Y/N) | 2,637 |
 | Votes with party majority | 2,510 |
 | Party-line loyalty | 95.2% |
-| Deviations from party | 122 |
+| Deviations from party | 57 |
 
 **Coverage:**
 
@@ -158,20 +158,20 @@ donors: [[Koch Network - Charles Koch]], [[Leonard Leo]], [[Timothy Mellon]]
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 122):**
+**Most recent party-line deviations (top 10 of 57):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s533-119.1 | Nay | Y | S. 2806 |
-| September  | s292-116.1 | Nay | Y | H.R. 2740 |
-| September  | s182-116.2 | Yea | N | PN 1510 |
-| September  | s521-119.1 | Nay | Y | S.Con.Res. 22 |
-| October 9, | s563-119.1 | Nay | Y | — |
-| October 4, | s249-118.1 | Yea | N | PN 676 |
-| October 31 | s339-116.1 | Nay | Y | — |
-| October 31 | s342-116.1 | Nay | Y | H.R. 2740 |
-| October 30 | s600-119.1 | Yea | N | S.J.Res. 88 |
-| October 3, | s248-118.1 | Yea | N | PN 676 |
+| 2026-01-30 | s15-119.2 | Yea | N | — |
+| 2026-01-30 | s14-119.2 | Nay | Y | — |
+| 2025-10-30 | s600-119.1 | Yea | N | S.J.Res. 88 |
+| 2025-10-29 | s598-119.1 | Yea | N | S.J.Res. 77 |
+| 2025-10-28 | s594-119.1 | Yea | N | S.J.Res. 81 |
+| 2025-10-09 | s563-119.1 | Nay | Y | — |
+| 2025-09-29 | s533-119.1 | Nay | Y | S. 2806 |
+| 2025-09-16 | s521-119.1 | Nay | Y | S.Con.Res. 22 |
+| 2025-07-17 | s407-119.1 | Yea | N | — |
+| 2025-07-16 | s393-119.1 | Yea | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

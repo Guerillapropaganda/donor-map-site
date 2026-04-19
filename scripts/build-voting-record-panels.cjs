@@ -133,7 +133,16 @@ function normalizeVote(p) {
     const positions = positionsByBio.get(bio);
     if (!positions || positions.length === 0) { nodata++; continue; }
 
-    // Compute loyalty + deviations
+    // Parse date from either ISO ("2023-07-13T...") or Senate natural format ("December 19, 2023,  04:47 PM")
+    function parseVoteDate(raw) {
+      if (!raw) return '';
+      if (/^\d{4}-\d{2}-\d{2}/.test(raw)) return raw.slice(0, 10); // ISO
+      const m = raw.match(/(\w+ \d+,\s*\d{4})/);
+      if (m) { const d = new Date(m[1]); if (!isNaN(d)) return d.toISOString().slice(0, 10); }
+      return raw.slice(0, 10);
+    }
+
+    // Compute loyalty + deviations (exclude PN = Presidential Nomination votes)
     let substantive = 0, withParty = 0;
     const deviations = [];
     for (const p of positions) {
@@ -142,18 +151,19 @@ function normalizeVote(p) {
       const maj = partyMajority.get(p.vote_id);
       if (!maj || !maj[p.party]) continue;
       if (p.norm === maj[p.party]) withParty++;
-      else deviations.push({ vote_id: p.vote_id, position: p.position, party_majority: maj[p.party], meta: voteMeta.get(p.vote_id) });
+      else {
+        const meta = voteMeta.get(p.vote_id);
+        // Skip Presidential Nomination votes — they're confirmations, not policy
+        if (meta?.bill?.type === 'PN') continue;
+        deviations.push({ vote_id: p.vote_id, position: p.position, party_majority: maj[p.party], meta, parsedDate: parseVoteDate(meta?.date) });
+      }
     }
 
     const loyalty = substantive > 0 ? ((withParty / substantive) * 100).toFixed(1) : '—';
     const devCount = deviations.length;
 
-    // Sort deviations by date desc
-    deviations.sort((a, b) => {
-      const da = a.meta?.date || '';
-      const db = b.meta?.date || '';
-      return db.localeCompare(da);
-    });
+    // Sort deviations by parsed date desc
+    deviations.sort((a, b) => (b.parsedDate || '').localeCompare(a.parsedDate || ''));
 
     // Group votes by congress/chamber for summary
     const byChamber = {};
@@ -189,8 +199,9 @@ function normalizeVote(p) {
       lines.push('| Date | Vote | Position | Party majority | Bill |');
       lines.push('|---|---|---|---|---|');
       for (const d of deviations.slice(0, 10)) {
-        const date = d.meta?.date ? d.meta.date.slice(0, 10) : '—';
-        const billRef = d.meta?.bill ? `${d.meta.bill.type} ${d.meta.bill.number}` : '—';
+        const date = d.parsedDate || '—';
+        const bill = d.meta?.bill;
+        const billRef = bill ? `${bill.type} ${bill.number}` : '—';
         lines.push(`| ${date} | ${d.vote_id} | ${d.position} | ${d.party_majority} | ${billRef} |`);
       }
     }

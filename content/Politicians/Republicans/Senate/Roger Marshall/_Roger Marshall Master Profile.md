@@ -142,7 +142,7 @@ top-policy-area: Health
 | Substantive votes (Y/N) | 1,384 |
 | Votes with party majority | 1,285 |
 | Party-line loyalty | 92.8% |
-| Deviations from party | 97 |
+| Deviations from party | 54 |
 
 **Coverage:**
 
@@ -151,20 +151,20 @@ top-policy-area: Health
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 97):**
+**Most recent party-line deviations (top 10 of 54):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s247-118.1 | Nay | Y | H.R. 5860 |
-| September  | s241-118.1 | Nay | Y | H.R. 3935 |
-| September  | s240-118.1 | Nay | Y | H.R. 3935 |
-| September  | s255-118.2 | Nay | Y | H.R. 9747 |
-| September  | s249-118.2 | Nay | Y | PN 1399 |
-| September  | s235-118.1 | Nay | Y | PN 677 |
-| September  | s234-118.1 | Nay | Y | PN 677 |
-| September  | s227-118.1 | Nay | Y | H.R. 4366 |
-| October 9, | s562-119.1 | Yea | N | — |
-| October 29 | s597-119.1 | Yea | N | S.J.Res. 69 |
+| 2025-10-29 | s597-119.1 | Yea | N | S.J.Res. 69 |
+| 2025-10-09 | s562-119.1 | Yea | N | — |
+| 2025-08-01 | s478-119.1 | Yea | N | — |
+| 2025-07-01 | s355-119.1 | Yea | N | — |
+| 2024-12-19 | s328-118.2 | Nay | Y | H.R. 82 |
+| 2024-09-25 | s255-118.2 | Nay | Y | H.R. 9747 |
+| 2024-05-08 | s160-118.2 | Yea | N | H.R. 3935 |
+| 2024-04-23 | s154-118.2 | Nay | Y | H.R. 815 |
+| 2024-04-23 | s153-118.2 | Nay | Y | H.R. 815 |
+| 2024-04-23 | s152-118.2 | Nay | Y | H.R. 815 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

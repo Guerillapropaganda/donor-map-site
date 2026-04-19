@@ -130,10 +130,10 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| November 1 | s280-118.1 | Nay | Y | — |
-| May 23, 20 | s182-118.2 | Yea | N | S. 4361 |
-| May 11, 20 | s122-118.1 | Yea | N | S.J.Res. 23 |
-| December 1 | s340-118.1 | Nay | Y | H.R. 2670 |
+| 2024-05-23 | s182-118.2 | Yea | N | S. 4361 |
+| 2023-12-12 | s340-118.1 | Nay | Y | H.R. 2670 |
+| 2023-11-01 | s280-118.1 | Nay | Y | — |
+| 2023-05-11 | s122-118.1 | Yea | N | S.J.Res. 23 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

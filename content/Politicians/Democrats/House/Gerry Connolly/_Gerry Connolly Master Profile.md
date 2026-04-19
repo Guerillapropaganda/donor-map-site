@@ -111,8 +111,8 @@ donors:
 | 2024-06-14 | h277-118.2 | Aye | N | — |
 | 2024-06-13 | h264-118.2 | Aye | N | — |
 | 2024-05-15 | h200-118.2 | Nay | Y | HR 3935 |
-| 2024-05-08 | h188-118.2 | Nay | Y | HRES 1209 |
 | 2024-05-08 | h187-118.2 | Nay | Y | HR 8289 |
+| 2024-05-08 | h188-118.2 | Nay | Y | HRES 1209 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

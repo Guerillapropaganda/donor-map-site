@@ -151,7 +151,7 @@ donors: [[Wall Street Bloc]] · Private Equity Donors · [[Pharmaceutical Indust
 | Substantive votes (Y/N) | 1,274 |
 | Votes with party majority | 1,080 |
 | Party-line loyalty | 84.8% |
-| Deviations from party | 183 |
+| Deviations from party | 31 |
 
 **Coverage:**
 
@@ -160,20 +160,20 @@ donors: [[Wall Street Bloc]] · Private Equity Donors · [[Pharmaceutical Indust
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 
-**Most recent party-line deviations (top 10 of 183):**
+**Most recent party-line deviations (top 10 of 31):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s307-116.1 | Yea | N | S.Res. 336 |
-| September  | s306-116.1 | Yea | N | S.Res. 335 |
-| September  | s297-116.1 | Yea | N | PN 87 |
-| September  | s295-116.1 | Yea | N | PN 114 |
-| September  | s301-116.1 | Yea | N | PN 87 |
-| September  | s299-116.1 | Yea | N | PN 114 |
-| September  | s185-116.2 | Yea | N | PN 1348 |
-| September  | s189-116.2 | Yea | N | PN 1694 |
-| September  | s188-116.2 | Yea | N | PN 1694 |
-| September  | s291-116.1 | Yea | N | PN 794 |
+| 2024-05-21 | s176-118.2 | Yea | N | S.J.Res. 58 |
+| 2024-05-16 | s169-118.2 | Yea | N | H.J.Res. 109 |
+| 2024-04-18 | s142-118.2 | Yea | N | S. 4072 |
+| 2024-04-10 | s121-118.2 | Yea | N | S.J.Res. 61 |
+| 2023-11-08 | s303-118.1 | Yea | N | S.J.Res. 38 |
+| 2023-10-31 | s277-118.1 | Yea | N | — |
+| 2023-10-25 | s266-118.1 | Yea | N | — |
+| 2023-07-26 | s200-118.1 | Yea | N | — |
+| 2023-07-25 | s196-118.1 | Nay | Y | — |
+| 2023-06-01 | s139-118.1 | Yea | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

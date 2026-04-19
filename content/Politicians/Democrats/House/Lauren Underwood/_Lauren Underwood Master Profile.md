@@ -144,8 +144,8 @@ top-donors: "[[Judy Chu]], [[Performance Racing Inc.]], [[314 ACTION FUND]], [[I
 | 2024-12-06 | h492-118.2 | Nay | Y | HR 5349 |
 | 2024-09-09 | h402-118.2 | Nay | Y | HR 8333 |
 | 2024-05-17 | h218-118.2 | Nay | Y | HRES 1213 |
-| 2024-05-15 | h210-118.2 | Nay | Y | HR 6572 |
 | 2024-05-15 | h203-118.2 | Nay | Y | HR 7581 |
+| 2024-05-15 | h210-118.2 | Nay | Y | HR 6572 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

@@ -139,8 +139,8 @@ top-donors: "[[Comcast - NBCUniversal]], [[Leidos]], [[American Gaming Associati
 | 2024-07-23 | h372-118.2 | No | Y | — |
 | 2024-07-23 | h367-118.2 | No | Y | — |
 | 2024-06-28 | h329-118.2 | Aye | N | — |
-| 2024-06-27 | h324-118.2 | Aye | N | — |
-| 2024-06-27 | h323-118.2 | Aye | N | — |
+| 2024-06-27 | h308-118.2 | Aye | N | — |
+| 2024-06-27 | h315-118.2 | Aye | N | — |
 | 2024-06-27 | h317-118.2 | Aye | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*

@@ -67,9 +67,9 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| October 29 | s597-119.1 | Yea | N | S.J.Res. 69 |
-| March 14,  | s132-119.1 | Nay | Y | — |
-| February 2 | s77-119.1 | Yea | N | — |
+| 2025-10-29 | s597-119.1 | Yea | N | S.J.Res. 69 |
+| 2025-03-14 | s132-119.1 | Nay | Y | — |
+| 2025-02-21 | s77-119.1 | Yea | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

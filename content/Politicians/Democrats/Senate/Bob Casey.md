@@ -136,7 +136,7 @@ Yet Casey remained unfazed. His pharma donors were reliable, his labor base felt
 | Substantive votes (Y/N) | 1,986 |
 | Votes with party majority | 1,906 |
 | Party-line loyalty | 96.0% |
-| Deviations from party | 72 |
+| Deviations from party | 24 |
 
 **Coverage:**
 
@@ -147,20 +147,20 @@ Yet Casey remained unfazed. His pharma donors were reliable, his labor base felt
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 
-**Most recent party-line deviations (top 10 of 72):**
+**Most recent party-line deviations (top 10 of 24):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s312-116.1 | Nay | Y | PN 585 |
-| September  | s308-116.1 | Nay | Y | PN 585 |
-| September  | s297-116.1 | Yea | N | PN 87 |
-| September  | s301-116.1 | Yea | N | PN 87 |
-| September  | s298-116.1 | Nay | Y | PN 408 |
-| September  | s294-116.1 | Nay | Y | PN 408 |
-| September  | s185-116.2 | Yea | N | PN 1348 |
-| September  | s184-116.2 | Yea | N | PN 1348 |
-| September  | s195-115.1 | Yea | N | — |
-| September  | s206-115.2 | Yea | N | PN 1620 |
+| 2024-05-21 | s176-118.2 | Yea | N | S.J.Res. 58 |
+| 2024-05-16 | s169-118.2 | Yea | N | H.J.Res. 109 |
+| 2024-04-19 | s148-118.2 | Nay | Y | — |
+| 2024-03-21 | s101-118.2 | Nay | Y | S.J.Res. 62 |
+| 2023-10-31 | s277-118.1 | Yea | N | — |
+| 2023-06-01 | s145-118.1 | Nay | Y | — |
+| 2023-05-03 | s109-118.1 | Yea | N | H.J.Res. 39 |
+| 2023-03-29 | s80-118.1 | Yea | N | H.J.Res. 7 |
+| 2020-07-22 | s135-116.2 | Yea | N | — |
+| 2020-05-13 | s89-116.2 | Nay | Y | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

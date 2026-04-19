@@ -131,8 +131,8 @@ top-donors: "[[Votevets]], [[Ted Lieu]], [[National Multifamily Housing Council]
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
 | 2026-01-09 | h12-119.2 | Yea | N | HR 5184 |
-| 2025-12-11 | h328-119.1 | Aye | N | HR 3383 |
 | 2025-12-11 | h326-119.1 | No | Y | — |
+| 2025-12-11 | h328-119.1 | Aye | N | HR 3383 |
 | 2025-12-11 | h324-119.1 | Yea | N | HR 3638 |
 | 2025-12-10 | h320-119.1 | Nay | Y | S 1071 |
 | 2025-11-21 | h305-119.1 | Yea | N | HCONRES 58 |

@@ -122,7 +122,7 @@ top-donors: "[[American Chemistry Council, INC]], [[Raytheon (RTX)]], [[National
 | Substantive votes (Y/N) | 2,053 |
 | Votes with party majority | 1,961 |
 | Party-line loyalty | 95.5% |
-| Deviations from party | 89 |
+| Deviations from party | 65 |
 
 **Coverage:**
 
@@ -133,20 +133,20 @@ top-donors: "[[American Chemistry Council, INC]], [[Raytheon (RTX)]], [[National
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 89):**
+**Most recent party-line deviations (top 10 of 65):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s247-118.1 | Nay | Y | H.R. 5860 |
-| September  | s197-116.2 | Nay | Y | H.R. 8337 |
-| September  | s241-118.1 | Nay | Y | H.R. 3935 |
-| September  | s240-118.1 | Nay | Y | H.R. 3935 |
-| September  | s311-116.1 | Nay | Y | H.R. 4378 |
-| September  | s310-116.1 | Yea | N | — |
-| September  | s255-118.2 | Nay | Y | H.R. 9747 |
-| September  | s249-118.2 | Nay | Y | PN 1399 |
-| September  | s190-116.2 | Nay | Y | PN 1314 |
-| September  | s191-116.2 | Nay | Y | PN 1314 |
+| 2025-10-29 | s597-119.1 | Yea | N | S.J.Res. 69 |
+| 2025-08-01 | s478-119.1 | Yea | N | — |
+| 2025-07-01 | s360-119.1 | Yea | N | — |
+| 2024-09-25 | s255-118.2 | Nay | Y | H.R. 9747 |
+| 2024-04-23 | s154-118.2 | Nay | Y | H.R. 815 |
+| 2024-04-23 | s153-118.2 | Nay | Y | H.R. 815 |
+| 2024-04-23 | s152-118.2 | Nay | Y | H.R. 815 |
+| 2024-04-19 | s150-118.2 | Nay | Y | H.R. 7888 |
+| 2024-04-18 | s141-118.2 | Nay | Y | H.R. 7888 |
+| 2024-03-23 | s114-118.2 | Nay | Y | H.R. 2882 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

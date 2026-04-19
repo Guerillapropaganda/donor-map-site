@@ -134,9 +134,9 @@ top-donors: "[[National Multifamily Housing Council]], [[United Food and Commerc
 | 2026-03-05 | h85-119.2 | Nay | Y | HCONRES 38 |
 | 2026-01-22 | h45-119.2 | Nay | Y | HR 7148 |
 | 2026-01-15 | h29-119.2 | Nay | Y | — |
-| 2026-01-08 | h7-119.2 | Nay | Y | HR 6938 |
-| 2026-01-08 | h6-119.2 | Nay | Y | HR 6938 |
 | 2026-01-08 | h5-119.2 | Nay | Y | HR 6938 |
+| 2026-01-08 | h6-119.2 | Nay | Y | HR 6938 |
+| 2026-01-08 | h7-119.2 | Nay | Y | HR 6938 |
 | 2025-12-10 | h320-119.1 | Nay | Y | S 1071 |
 | 2025-11-19 | h302-119.1 | Nay | Y | HRES 893 |
 | 2025-06-12 | h166-119.1 | Nay | Y | S 331 |

@@ -143,7 +143,7 @@ top-donors: "[[WinRed]], [[Lockheed Martin]], [[Honeywell]], [[General Dynamics]
 | 2025-02-04 | h29-119.1 | Nay | Y | HR 776 |
 | 2024-12-17 | h511-118.2 | Nay | Y | HR 1101 |
 | 2024-09-17 | h419-118.2 | Nay | Y | S 2861 |
-| 2024-06-27 | h317-118.2 | Aye | N | — |
+| 2024-06-27 | h305-118.2 | No | Y | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

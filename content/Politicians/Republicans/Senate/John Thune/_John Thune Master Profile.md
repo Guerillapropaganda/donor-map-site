@@ -122,7 +122,7 @@ top-policy-area: Health
 | Substantive votes (Y/N) | 2,745 |
 | Votes with party majority | 2,671 |
 | Party-line loyalty | 97.3% |
-| Deviations from party | 69 |
+| Deviations from party | 37 |
 
 **Coverage:**
 
@@ -135,20 +135,20 @@ top-policy-area: Health
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 69):**
+**Most recent party-line deviations (top 10 of 37):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s533-119.1 | Nay | Y | S. 2806 |
-| September  | s190-116.2 | Nay | Y | PN 1314 |
-| September  | s191-116.2 | Nay | Y | PN 1314 |
-| September  | s522-119.1 | Nay | Y | PN 55-25 |
-| September  | s513-119.1 | Nay | Y | S.Res. 377 |
-| October 24 | s247-115.1 | Nay | Y | H.R. 2266 |
-| October 23 | s585-119.1 | Nay | Y | S. 3012 |
-| October 22 | s581-119.1 | Nay | Y | H.R. 5371 |
-| October 20 | s576-119.1 | Nay | Y | H.R. 5371 |
-| October 16 | s573-119.1 | Nay | Y | H.R. 5371 |
+| 2026-03-26 | s74-119.2 | Nay | Y | H.R. 7147 |
+| 2026-03-12 | s54-119.2 | Nay | Y | H.R. 7147 |
+| 2026-02-24 | s39-119.2 | Nay | Y | H.R. 7147 |
+| 2026-02-12 | s38-119.2 | Nay | Y | H.R. 7147 |
+| 2026-01-30 | s15-119.2 | Yea | N | — |
+| 2026-01-30 | s14-119.2 | Nay | Y | — |
+| 2026-01-29 | s13-119.2 | Nay | Y | H.R. 7148 |
+| 2025-10-23 | s585-119.1 | Nay | Y | S. 3012 |
+| 2025-10-22 | s581-119.1 | Nay | Y | H.R. 5371 |
+| 2025-10-20 | s576-119.1 | Nay | Y | H.R. 5371 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

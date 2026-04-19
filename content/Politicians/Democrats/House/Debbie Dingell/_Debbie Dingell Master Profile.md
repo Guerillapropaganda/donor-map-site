@@ -131,8 +131,8 @@ top-donors: "[[NextEra Energy]], [[General Motors]], [[United Food and Commercia
 | 2024-04-17 | h136-118.2 | Yea | N | HR 4639 |
 | 2024-04-16 | h134-118.2 | Nay | Y | HRES 883 |
 | 2024-04-15 | h120-118.2 | No | Y | HR 7888 |
-| 2024-04-12 | h119-118.2 | No | Y | HR 7888 |
-| 2024-04-12 | h118-118.2 | No | Y | — |
+| 2024-04-12 | h115-118.2 | Aye | N | — |
+| 2024-04-12 | h114-118.2 | Aye | N | — |
 | 2024-04-12 | h116-118.2 | No | Y | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*

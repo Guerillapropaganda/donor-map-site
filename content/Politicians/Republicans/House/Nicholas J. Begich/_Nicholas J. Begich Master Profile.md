@@ -74,10 +74,10 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 | 2026-01-08 | h5-119.2 | Nay | Y | HR 6938 |
 | 2025-11-19 | h300-119.1 | Nay | Y | HR 4058 |
 | 2025-09-15 | h266-119.1 | Nay | Y | HR 3400 |
-| 2025-09-10 | h256-119.1 | Aye | N | — |
 | 2025-09-10 | h244-119.1 | Aye | N | — |
+| 2025-09-10 | h256-119.1 | Aye | N | — |
 | 2025-09-04 | h237-119.1 | Aye | N | — |
-| 2025-09-03 | h232-119.1 | No | Y | — |
+| 2025-09-03 | h231-119.1 | No | Y | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

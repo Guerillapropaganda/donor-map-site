@@ -121,14 +121,14 @@ top-policy-area: Government Operations and Politics
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
 | 2026-03-24 | h97-119.2 | Nay | Y | HR 6422 |
-| 2026-03-17 | h89-119.2 | Nay | Y | S 3971 |
 | 2026-03-17 | h88-119.2 | Nay | Y | HR 4294 |
+| 2026-03-17 | h89-119.2 | Nay | Y | S 3971 |
 | 2026-03-04 | h83-119.2 | Nay | Y | HRES 1100 |
 | 2026-03-04 | h82-119.2 | Nay | Y | HR 6472 |
 | 2026-02-24 | h72-119.2 | Yea | N | S 2503 |
 | 2026-01-12 | h13-119.2 | Nay | Y | HR 2683 |
-| 2026-01-08 | h7-119.2 | Nay | Y | HR 6938 |
 | 2026-01-08 | h5-119.2 | Nay | Y | HR 6938 |
+| 2026-01-08 | h7-119.2 | Nay | Y | HR 6938 |
 | 2025-12-15 | h335-119.1 | Nay | Y | S 284 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*

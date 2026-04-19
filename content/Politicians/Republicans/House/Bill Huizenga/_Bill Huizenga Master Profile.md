@@ -111,10 +111,10 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 | 2025-09-04 | h236-119.1 | No | Y | — |
 | 2025-09-04 | h235-119.1 | No | Y | — |
 | 2025-09-03 | h234-119.1 | No | Y | — |
-| 2025-09-03 | h233-119.1 | No | Y | — |
-| 2025-09-03 | h232-119.1 | No | Y | — |
-| 2025-09-03 | h231-119.1 | No | Y | — |
 | 2025-09-03 | h230-119.1 | No | Y | — |
+| 2025-09-03 | h231-119.1 | No | Y | — |
+| 2025-09-03 | h232-119.1 | No | Y | — |
+| 2025-09-03 | h233-119.1 | No | Y | — |
 | 2024-09-17 | h419-118.2 | Nay | Y | S 2861 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*

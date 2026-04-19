@@ -122,13 +122,13 @@ top-donors: "[[National Association of Realtors]], [[Johnson & Johnson]], [[Sena
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| October 29 | s597-119.1 | Yea | N | S.J.Res. 69 |
-| January 29 | s13-119.2 | Nay | Y | H.R. 7148 |
-| February 2 | s77-119.1 | Yea | N | — |
-| August 1,  | s481-119.1 | Nay | Y | — |
-| August 1,  | s478-119.1 | Yea | N | — |
-| August 1,  | s477-119.1 | Yea | N | — |
-| August 1,  | s476-119.1 | Yea | N | — |
+| 2026-01-29 | s13-119.2 | Nay | Y | H.R. 7148 |
+| 2025-10-29 | s597-119.1 | Yea | N | S.J.Res. 69 |
+| 2025-08-01 | s481-119.1 | Nay | Y | — |
+| 2025-08-01 | s478-119.1 | Yea | N | — |
+| 2025-08-01 | s477-119.1 | Yea | N | — |
+| 2025-08-01 | s476-119.1 | Yea | N | — |
+| 2025-02-21 | s77-119.1 | Yea | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

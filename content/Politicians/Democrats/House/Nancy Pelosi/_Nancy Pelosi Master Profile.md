@@ -117,8 +117,8 @@ top-policy-area: Government Operations and Politics
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
 | 2025-07-17 | h199-119.1 | Yea | N | HR 3633 |
+| 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
 | 2025-06-04 | h151-119.1 | Nay | Y | HR 2483 |
 | 2024-09-24 | h448-118.2 | Yea | N | HR 8790 |
 | 2024-09-23 | h440-118.2 | Yea | N | S 2228 |

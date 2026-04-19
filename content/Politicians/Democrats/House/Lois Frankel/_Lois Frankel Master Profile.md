@@ -136,8 +136,8 @@ top-donors: "[[American Hospital Association PAC]], [[CHC BOLD PAC]], [[SEIU COP
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
 | 2025-11-21 | h305-119.1 | Yea | N | HCONRES 58 |
-| 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
 | 2025-07-17 | h199-119.1 | Yea | N | HR 3633 |
+| 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
 | 2025-06-12 | h166-119.1 | Nay | Y | S 331 |
 | 2025-06-09 | h158-119.1 | Yea | N | HRES 488 |
 | 2025-03-11 | h71-119.1 | Yea | N | HJRES 25 |

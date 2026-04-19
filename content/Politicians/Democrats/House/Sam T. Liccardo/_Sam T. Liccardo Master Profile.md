@@ -73,8 +73,8 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 | 2025-12-10 | h320-119.1 | Nay | Y | S 1071 |
 | 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
 | 2025-06-12 | h166-119.1 | Nay | Y | S 331 |
-| 2025-03-11 | h71-119.1 | Yea | N | HJRES 25 |
 | 2025-03-11 | h68-119.1 | Yea | N | HR 1156 |
+| 2025-03-11 | h71-119.1 | Yea | N | HJRES 25 |
 | 2025-01-23 | h25-119.1 | Yea | N | HR 471 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*

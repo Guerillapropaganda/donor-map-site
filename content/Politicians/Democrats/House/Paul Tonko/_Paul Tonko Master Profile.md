@@ -134,7 +134,7 @@ top-donors: "[[SEIU COPE]], [[Care Action]], [[AT&T - WarnerMedia]], [[Nucor Cor
 | 2024-07-22 | h357-118.2 | Nay | Y | HR 1631 |
 | 2024-06-28 | h329-118.2 | Aye | N | — |
 | 2024-06-13 | h264-118.2 | Aye | N | — |
-| 2024-04-17 | h137-118.2 | Yea | N | HR 6046 |
+| 2024-04-17 | h136-118.2 | Yea | N | HR 4639 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

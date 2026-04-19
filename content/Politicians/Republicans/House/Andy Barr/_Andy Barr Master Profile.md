@@ -132,9 +132,9 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 | 2024-07-23 | h368-118.2 | No | Y | — |
 | 2024-07-23 | h367-118.2 | No | Y | — |
 | 2024-06-27 | h320-118.2 | No | Y | — |
-| 2024-06-27 | h306-118.2 | No | Y | — |
-| 2024-06-27 | h305-118.2 | No | Y | — |
 | 2024-06-27 | h302-118.2 | No | Y | — |
+| 2024-06-27 | h305-118.2 | No | Y | — |
+| 2024-06-27 | h306-118.2 | No | Y | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

@@ -159,7 +159,7 @@ SORT title ASC
 | Substantive votes (Y/N) | 2,715 |
 | Votes with party majority | 2,538 |
 | Party-line loyalty | 93.5% |
-| Deviations from party | 168 |
+| Deviations from party | 57 |
 
 **Coverage:**
 
@@ -172,20 +172,20 @@ SORT title ASC
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 168):**
+**Most recent party-line deviations (top 10 of 57):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s263-116.1 | Yea | N | PN 713 |
-| September  | s205-115.1 | Nay | Y | PN 249 |
-| September  | s297-116.1 | Yea | N | PN 87 |
-| September  | s295-116.1 | Yea | N | PN 114 |
-| September  | s301-116.1 | Yea | N | PN 87 |
-| September  | s299-116.1 | Yea | N | PN 114 |
-| September  | s185-116.2 | Yea | N | PN 1348 |
-| September  | s184-116.2 | Yea | N | PN 1348 |
-| September  | s291-116.1 | Yea | N | PN 794 |
-| September  | s290-116.1 | Yea | N | PN 795 |
+| 2026-03-10 | s50-119.2 | Nay | Y | — |
+| 2026-03-04 | s45-119.2 | Nay | Y | H.R. 6644 |
+| 2026-03-02 | s44-119.2 | Nay | Y | H.R. 6644 |
+| 2026-01-15 | s11-119.2 | Nay | Y | H.R. 6938 |
+| 2026-01-15 | s10-119.2 | Nay | Y | H.R. 6938 |
+| 2026-01-12 | s7-119.2 | Nay | Y | H.R. 6938 |
+| 2025-12-17 | s648-119.1 | Nay | Y | S. 1071 |
+| 2025-12-15 | s647-119.1 | Nay | Y | S. 1071 |
+| 2025-12-11 | s646-119.1 | Nay | Y | S. 1071 |
+| 2025-11-10 | s614-119.1 | Nay | Y | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

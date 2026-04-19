@@ -107,15 +107,15 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
 | 2026-02-24 | h72-119.2 | Yea | N | S 2503 |
-| 2026-01-22 | h44-119.2 | No | Y | — |
 | 2026-01-22 | h43-119.2 | No | Y | — |
-| 2026-01-14 | h27-119.2 | No | Y | — |
+| 2026-01-22 | h44-119.2 | No | Y | — |
 | 2026-01-14 | h26-119.2 | No | Y | — |
-| 2026-01-08 | h11-119.2 | Yea | N | HR 1834 |
+| 2026-01-14 | h27-119.2 | No | Y | — |
 | 2026-01-08 | h8-119.2 | Yea | N | HR 504 |
-| 2025-12-11 | h332-119.1 | Yea | N | HR 2550 |
+| 2026-01-08 | h11-119.2 | Yea | N | HR 1834 |
 | 2025-12-11 | h331-119.1 | Yea | N | HRES 432 |
-| 2025-11-18 | h297-119.1 | Nay | Y | HRES 888 |
+| 2025-12-11 | h332-119.1 | Yea | N | HR 2550 |
+| 2025-11-18 | h293-119.1 | Yea | N | HRES 888 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

@@ -139,8 +139,8 @@ top-donors: "[[Google - Alphabet]], [[Pete Aguilar]], [[IBEW - International Bro
 | 2024-09-09 | h402-118.2 | Nay | Y | HR 8333 |
 | 2024-06-28 | h329-118.2 | Aye | N | — |
 | 2024-06-13 | h264-118.2 | Aye | N | — |
-| 2024-04-12 | h116-118.2 | No | Y | — |
 | 2024-04-12 | h115-118.2 | Aye | N | — |
+| 2024-04-12 | h116-118.2 | No | Y | — |
 | 2023-12-13 | h721-118.1 | Yea | N | HRES 927 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*

@@ -98,15 +98,15 @@ donors: [[Koch Network - Charles Koch]], [[Club for Growth]]
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
 | 2026-03-17 | h88-119.2 | Nay | Y | HR 4294 |
-| 2026-01-12 | h15-119.2 | Nay | Y | HR 6504 |
 | 2026-01-12 | h14-119.2 | Nay | Y | HR 6500 |
+| 2026-01-12 | h15-119.2 | Nay | Y | HR 6504 |
 | 2025-11-19 | h300-119.1 | Nay | Y | HR 4058 |
-| 2025-09-10 | h256-119.1 | Aye | N | — |
-| 2025-09-10 | h255-119.1 | Aye | N | — |
 | 2025-09-10 | h244-119.1 | Aye | N | — |
+| 2025-09-10 | h255-119.1 | Aye | N | — |
+| 2025-09-10 | h256-119.1 | Aye | N | — |
 | 2025-09-04 | h237-119.1 | Aye | N | — |
 | 2025-09-03 | h229-119.1 | Aye | N | — |
-| 2025-07-18 | h210-119.1 | Aye | N | — |
+| 2025-07-18 | h206-119.1 | Aye | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

@@ -140,7 +140,7 @@ donors: [[Lockheed Martin]] [[Northrop Grumman]]
 | Substantive votes (Y/N) | 2,703 |
 | Votes with party majority | 2,620 |
 | Party-line loyalty | 96.9% |
-| Deviations from party | 78 |
+| Deviations from party | 42 |
 
 **Coverage:**
 
@@ -153,20 +153,20 @@ donors: [[Lockheed Martin]] [[Northrop Grumman]]
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 78):**
+**Most recent party-line deviations (top 10 of 42):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s533-119.1 | Nay | Y | S. 2806 |
-| September  | s252-118.2 | Nay | Y | S.Con.Res. 41 |
-| September  | s302-116.1 | Yea | N | S.J.Res. 54 |
-| September  | s182-116.2 | Yea | N | PN 1510 |
-| September  | s521-119.1 | Nay | Y | S.Con.Res. 22 |
-| October 4, | s249-118.1 | Yea | N | PN 676 |
-| October 3, | s248-118.1 | Yea | N | PN 676 |
-| October 26 | s271-118.1 | Nay | Y | — |
-| October 17 | s325-116.1 | Yea | N | S.J.Res. 54 |
-| November 2 | s295-118.2 | Nay | Y | S.J.Res. 117 |
+| 2026-03-11 | s52-119.2 | Nay | Y | H.R. 6644 |
+| 2026-03-11 | s51-119.2 | Nay | Y | — |
+| 2026-01-30 | s15-119.2 | Yea | N | — |
+| 2026-01-30 | s14-119.2 | Nay | Y | — |
+| 2025-09-29 | s533-119.1 | Nay | Y | S. 2806 |
+| 2025-09-16 | s521-119.1 | Nay | Y | S.Con.Res. 22 |
+| 2025-07-01 | s355-119.1 | Yea | N | — |
+| 2025-03-14 | s132-119.1 | Nay | Y | — |
+| 2024-12-21 | s338-118.2 | Nay | Y | H.R. 82 |
+| 2024-12-20 | s334-118.2 | Nay | Y | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

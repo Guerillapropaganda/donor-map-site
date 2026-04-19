@@ -112,7 +112,7 @@ urls-first-triaged: "2026-04-15"
 | Substantive votes (Y/N) | 1,408 |
 | Votes with party majority | 1,312 |
 | Party-line loyalty | 93.2% |
-| Deviations from party | 95 |
+| Deviations from party | 20 |
 
 **Coverage:**
 
@@ -122,20 +122,20 @@ urls-first-triaged: "2026-04-15"
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 95):**
+**Most recent party-line deviations (top 10 of 20):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s532-119.1 | Yea | N | PN 342 |
-| September  | s531-119.1 | Yea | N | PN 342 |
-| September  | s530-119.1 | Yea | N | PN 343 |
-| September  | s529-119.1 | Yea | N | PN 343 |
-| October 25 | s266-118.1 | Yea | N | — |
-| October 25 | s269-118.1 | Yea | N | — |
-| October 21 | s577-119.1 | Yea | N | PN 466-6 |
-| October 16 | s574-119.1 | Yea | N | PN 466-6 |
-| November 1 | s620-119.1 | Yea | N | PN 445-6 |
-| November 1 | s619-119.1 | Yea | N | PN 445-6 |
+| 2025-11-10 | s614-119.1 | Nay | Y | — |
+| 2025-06-30 | s352-119.1 | Nay | Y | — |
+| 2025-06-12 | s312-119.1 | Yea | N | S. 1582 |
+| 2025-06-12 | s311-119.1 | Yea | N | — |
+| 2025-06-12 | s310-119.1 | Yea | N | — |
+| 2025-06-11 | s305-119.1 | Yea | N | S. 1582 |
+| 2025-05-21 | s263-119.1 | Yea | N | S. 1582 |
+| 2025-01-20 | s7-119.1 | Yea | N | S. 5 |
+| 2025-01-20 | s6-119.1 | Yea | N | — |
+| 2025-01-17 | s5-119.1 | Yea | N | S. 5 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

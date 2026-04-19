@@ -140,12 +140,12 @@ top-donors: "[[International Association of Firefighters Interested in Registrat
 | 2026-02-03 | h53-119.2 | Yea | N | HR 7148 |
 | 2025-12-11 | h328-119.1 | Aye | N | HR 3383 |
 | 2025-12-11 | h322-119.1 | Yea | N | HRES 939 |
-| 2025-12-04 | h314-119.1 | Yea | N | HR 1049 |
 | 2025-12-04 | h313-119.1 | Yea | N | HR 1069 |
+| 2025-12-04 | h314-119.1 | Yea | N | HR 1049 |
 | 2025-12-03 | h311-119.1 | Yea | N | HR 4305 |
 | 2025-11-21 | h305-119.1 | Yea | N | HCONRES 58 |
-| 2025-11-19 | h299-119.1 | Yea | N | HR 5107 |
 | 2025-11-19 | h298-119.1 | Yea | N | HR 5214 |
+| 2025-11-19 | h299-119.1 | Yea | N | HR 5107 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

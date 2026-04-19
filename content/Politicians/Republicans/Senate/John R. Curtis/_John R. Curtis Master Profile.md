@@ -108,14 +108,14 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| July 1, 20 | s355-119.1 | Yea | N | — |
-| February 2 | s77-119.1 | Yea | N | — |
-| February 2 | s70-119.1 | Nay | Y | — |
-| August 1,  | s478-119.1 | Yea | N | — |
-| August 1,  | s477-119.1 | Yea | N | — |
-| August 1,  | s476-119.1 | Yea | N | — |
-| April 4, 2 | s179-119.1 | Yea | N | — |
-| April 4, 2 | s170-119.1 | Nay | Y | — |
+| 2025-08-01 | s478-119.1 | Yea | N | — |
+| 2025-08-01 | s477-119.1 | Yea | N | — |
+| 2025-08-01 | s476-119.1 | Yea | N | — |
+| 2025-07-01 | s355-119.1 | Yea | N | — |
+| 2025-04-04 | s179-119.1 | Yea | N | — |
+| 2025-04-04 | s170-119.1 | Nay | Y | — |
+| 2025-02-21 | s77-119.1 | Yea | N | — |
+| 2025-02-20 | s70-119.1 | Nay | Y | — |
 | 2024-12-20 | h517-118.2 | Nay | Y | HR 10545 |
 | 2024-12-19 | h516-118.2 | Nay | Y | HR 10515 |
 

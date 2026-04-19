@@ -136,8 +136,8 @@ top-donors: "[[National Rifle Association]], [[McDonalds Corporation]], [[Lockhe
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
 | 2026-04-14 | h109-119.2 | Nay | Y | HR 1011 |
-| 2026-03-17 | h89-119.2 | Nay | Y | S 3971 |
 | 2026-03-17 | h88-119.2 | Nay | Y | HR 4294 |
+| 2026-03-17 | h89-119.2 | Nay | Y | S 3971 |
 | 2026-01-08 | h7-119.2 | Nay | Y | HR 6938 |
 | 2025-12-11 | h325-119.1 | Aye | N | — |
 | 2025-11-19 | h300-119.1 | Nay | Y | HR 4058 |

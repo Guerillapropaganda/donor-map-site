@@ -134,7 +134,7 @@ top-policy-area: International Affairs
 | Substantive votes (Y/N) | 2,651 |
 | Votes with party majority | 2,515 |
 | Party-line loyalty | 94.9% |
-| Deviations from party | 133 |
+| Deviations from party | 77 |
 
 **Coverage:**
 
@@ -147,20 +147,20 @@ top-policy-area: International Affairs
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 133):**
+**Most recent party-line deviations (top 10 of 77):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s214-118.1 | Nay | Y | PN 645 |
-| September  | s216-118.1 | Yea | N | PN 743 |
-| September  | s213-118.1 | Nay | Y | PN 645 |
-| September  | s241-118.1 | Nay | Y | H.R. 3935 |
-| September  | s310-116.1 | Yea | N | — |
-| September  | s190-116.2 | Nay | Y | PN 1314 |
-| September  | s191-116.2 | Nay | Y | PN 1314 |
-| September  | s248-118.2 | Nay | Y | PN 1399 |
-| September  | s521-119.1 | Nay | Y | S.Con.Res. 22 |
-| October 28 | s335-116.1 | Yea | N | — |
+| 2026-01-30 | s15-119.2 | Yea | N | — |
+| 2026-01-30 | s14-119.2 | Nay | Y | — |
+| 2025-12-11 | s644-119.1 | Yea | N | S. 3385 |
+| 2025-09-16 | s521-119.1 | Nay | Y | S.Con.Res. 22 |
+| 2025-08-01 | s475-119.1 | Yea | N | — |
+| 2025-07-01 | s355-119.1 | Yea | N | — |
+| 2025-06-30 | s350-119.1 | Yea | N | H.R. 1 |
+| 2025-06-30 | s337-119.1 | Yea | N | H.R. 1 |
+| 2025-04-05 | s187-119.1 | Yea | N | — |
+| 2025-04-05 | s186-119.1 | Yea | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

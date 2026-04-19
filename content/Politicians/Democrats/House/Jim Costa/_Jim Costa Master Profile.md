@@ -139,13 +139,13 @@ top-policy-area: International Affairs
 | 2026-04-16 | h118-119.2 | Yea | N | HR 6398 |
 | 2026-04-16 | h116-119.2 | Yea | N | HR 6409 |
 | 2026-03-27 | h105-119.2 | Yea | N | HR 7084 |
-| 2026-02-11 | h67-119.2 | Yea | N | HR 261 |
 | 2026-02-11 | h64-119.2 | Yea | N | HR 3617 |
+| 2026-02-11 | h67-119.2 | Yea | N | HR 261 |
 | 2026-02-04 | h55-119.2 | Yea | N | HR 4090 |
 | 2026-01-09 | h12-119.2 | Yea | N | HR 5184 |
+| 2025-12-18 | h356-119.1 | Yea | N | HR 4776 |
 | 2025-12-18 | h360-119.1 | Yea | N | HR 845 |
 | 2025-12-18 | h358-119.1 | Yea | N | HR 1366 |
-| 2025-12-18 | h356-119.1 | Yea | N | HR 4776 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

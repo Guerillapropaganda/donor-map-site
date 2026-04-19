@@ -180,7 +180,7 @@ donors: [[Palantir]] [[Wall Street Finance PACs]] Hedge Fund Industry Tech Corpo
 | 2026-02-03 | h53-119.2 | Yea | N | HR 7148 |
 | 2026-01-13 | h23-119.2 | Yea | N | HR 4593 |
 | 2025-12-11 | h328-119.1 | Aye | N | HR 3383 |
-| 2025-12-11 | h324-119.1 | Yea | N | HR 3638 |
+| 2025-12-11 | h322-119.1 | Yea | N | HRES 939 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

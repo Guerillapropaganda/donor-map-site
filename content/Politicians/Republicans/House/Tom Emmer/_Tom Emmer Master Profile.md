@@ -122,9 +122,9 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 | 2025-03-27 | h80-119.1 | Aye | N | — |
 | 2024-07-23 | h372-118.2 | No | Y | — |
 | 2024-06-28 | h329-118.2 | Aye | N | — |
-| 2024-06-27 | h323-118.2 | Aye | N | — |
-| 2024-06-27 | h317-118.2 | Aye | N | — |
 | 2024-06-27 | h308-118.2 | Aye | N | — |
+| 2024-06-27 | h317-118.2 | Aye | N | — |
+| 2024-06-27 | h323-118.2 | Aye | N | — |
 | 2024-06-26 | h288-118.2 | No | Y | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*

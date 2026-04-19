@@ -82,13 +82,13 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 | 2025-12-03 | h311-119.1 | Yea | N | HR 4305 |
 | 2025-11-21 | h305-119.1 | Yea | N | HCONRES 58 |
 | 2025-09-10 | h262-119.1 | Aye | N | HR 3838 |
-| 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
 | 2025-07-17 | h199-119.1 | Yea | N | HR 3633 |
+| 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
 | 2025-06-10 | h163-119.1 | Yea | N | HR 884 |
 | 2025-06-09 | h158-119.1 | Yea | N | HRES 488 |
 | 2025-04-30 | h111-119.1 | Yea | N | HJRES 87 |
-| 2025-03-11 | h71-119.1 | Yea | N | HJRES 25 |
 | 2025-03-11 | h68-119.1 | Yea | N | HR 1156 |
+| 2025-03-11 | h71-119.1 | Yea | N | HJRES 25 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

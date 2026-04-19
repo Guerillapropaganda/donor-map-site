@@ -155,8 +155,8 @@ top-policy-area: Health
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| 2026-03-05 | h86-119.2 | Nay | Y | HR 7744 |
 | 2026-03-05 | h84-119.2 | Nay | Y | HRES 1099 |
+| 2026-03-05 | h86-119.2 | Nay | Y | HR 7744 |
 | 2026-03-04 | h83-119.2 | Nay | Y | HRES 1100 |
 | 2026-01-22 | h45-119.2 | Nay | Y | HR 7148 |
 | 2026-01-14 | h28-119.2 | Nay | Y | HR 7006 |

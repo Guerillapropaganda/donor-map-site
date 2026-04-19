@@ -107,10 +107,10 @@ donors: [[AIPAC - American Israel Public Affairs Committee]], [[Peter Thiel]], [
 | 2024-03-22 | h102-118.2 | Yea | N | HRES 1102 |
 | 2023-10-26 | h554-118.1 | Aye | N | — |
 | 2023-09-30 | h513-118.1 | Nay | Y | HR 5860 |
-| 2023-09-28 | h497-118.1 | Aye | N | — |
-| 2023-09-28 | h476-118.1 | Aye | N | — |
-| 2023-09-28 | h474-118.1 | Aye | N | — |
+| 2023-09-28 | h467-118.1 | Aye | N | — |
 | 2023-09-28 | h473-118.1 | Aye | N | — |
+| 2023-09-28 | h474-118.1 | Aye | N | — |
+| 2023-09-28 | h463-118.1 | Aye | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

@@ -134,15 +134,15 @@ top-donors: "[[Bank of America]], [[Amgen Inc]], [[NextEra Energy]], [[American 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
 | 2026-04-17 | h123-119.2 | Nay | Y | — |
-| 2026-01-22 | h44-119.2 | No | Y | — |
 | 2026-01-22 | h43-119.2 | No | Y | — |
-| 2026-01-14 | h27-119.2 | No | Y | — |
+| 2026-01-22 | h44-119.2 | No | Y | — |
 | 2026-01-14 | h26-119.2 | No | Y | — |
+| 2026-01-14 | h27-119.2 | No | Y | — |
 | 2025-05-08 | h121-119.1 | Yea | N | HR 276 |
 | 2024-11-12 | h456-118.2 | Nay | Y | HR 82 |
 | 2024-09-25 | h450-118.2 | Nay | Y | HR 9747 |
 | 2024-07-23 | h375-118.2 | No | Y | — |
-| 2024-07-11 | h349-118.2 | No | Y | — |
+| 2024-07-11 | h348-118.2 | No | Y | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

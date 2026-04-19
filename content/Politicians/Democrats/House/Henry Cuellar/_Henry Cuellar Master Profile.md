@@ -146,16 +146,16 @@ top-policy-area: Health
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| 2026-04-16 | h121-119.2 | Yea | N | HRES 1156 |
 | 2026-04-16 | h118-119.2 | Yea | N | HR 6398 |
 | 2026-04-16 | h116-119.2 | Yea | N | HR 6409 |
-| 2026-03-27 | h108-119.2 | Aye | N | HRES 1142 |
+| 2026-04-16 | h121-119.2 | Yea | N | HRES 1156 |
 | 2026-03-27 | h105-119.2 | Yea | N | HR 7084 |
+| 2026-03-27 | h108-119.2 | Aye | N | HRES 1142 |
 | 2026-03-26 | h104-119.2 | Yea | N | HR 8029 |
 | 2026-03-26 | h102-119.2 | Yea | N | HRES 1128 |
 | 2026-03-25 | h101-119.2 | Yea | N | HR 5103 |
 | 2026-03-19 | h96-119.2 | Yea | N | HR 4638 |
-| 2026-03-18 | h95-119.2 | Yea | N | HJRES 139 |
+| 2026-03-18 | h93-119.2 | Aye | N | HR 556 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

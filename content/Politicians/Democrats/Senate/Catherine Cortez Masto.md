@@ -115,7 +115,7 @@ urls-first-triaged: "2026-04-15"
 | Substantive votes (Y/N) | 2,706 |
 | Votes with party majority | 2,539 |
 | Party-line loyalty | 93.8% |
-| Deviations from party | 158 |
+| Deviations from party | 65 |
 
 **Coverage:**
 
@@ -128,20 +128,20 @@ urls-first-triaged: "2026-04-15"
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 158):**
+**Most recent party-line deviations (top 10 of 65):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s535-119.1 | Yea | N | H.R. 5371 |
-| September  | s205-115.1 | Nay | Y | PN 249 |
-| September  | s185-116.2 | Yea | N | PN 1348 |
-| September  | s184-116.2 | Yea | N | PN 1348 |
-| September  | s195-115.1 | Yea | N | — |
-| September  | s206-115.2 | Yea | N | PN 1620 |
-| September  | s205-115.2 | Yea | N | PN 1620 |
-| September  | s194-115.1 | Nay | Y | PN 457 |
-| September  | s278-116.1 | Nay | Y | PN 566 |
-| September  | s277-116.1 | Nay | Y | PN 524 |
+| 2026-04-15 | s81-119.2 | Nay | Y | S.J.Res. 138 |
+| 2026-04-15 | s80-119.2 | Nay | Y | S.J.Res. 32 |
+| 2026-01-30 | s20-119.2 | Yea | N | H.R. 7148 |
+| 2025-11-10 | s618-119.1 | Yea | N | H.R. 5371 |
+| 2025-11-10 | s617-119.1 | Yea | N | H.R. 5371 |
+| 2025-11-10 | s616-119.1 | Yea | N | — |
+| 2025-11-10 | s615-119.1 | Yea | N | — |
+| 2025-11-10 | s611-119.1 | Yea | N | H.R. 5371 |
+| 2025-11-09 | s610-119.1 | Yea | N | H.R. 5371 |
+| 2025-11-04 | s603-119.1 | Yea | N | H.R. 5371 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

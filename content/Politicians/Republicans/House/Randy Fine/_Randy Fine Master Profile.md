@@ -128,14 +128,14 @@ top-donors: "[[International Association of Firefighters Interested in Registrat
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
 | 2026-03-17 | h89-119.2 | Nay | Y | S 3971 |
+| 2026-03-04 | h81-119.2 | Nay | Y | S 723 |
 | 2026-03-04 | h83-119.2 | Nay | Y | HRES 1100 |
 | 2026-03-04 | h82-119.2 | Nay | Y | HR 6472 |
-| 2026-03-04 | h81-119.2 | Nay | Y | S 723 |
 | 2026-02-03 | h53-119.2 | Nay | Y | HR 7148 |
 | 2026-01-22 | h45-119.2 | Nay | Y | HR 7148 |
 | 2026-01-22 | h43-119.2 | No | Y | — |
-| 2026-01-08 | h7-119.2 | Nay | Y | HR 6938 |
 | 2026-01-08 | h5-119.2 | Nay | Y | HR 6938 |
+| 2026-01-08 | h7-119.2 | Nay | Y | HR 6938 |
 | 2025-12-18 | h360-119.1 | Nay | Y | HR 845 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*

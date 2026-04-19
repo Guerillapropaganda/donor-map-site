@@ -141,7 +141,7 @@ donors: [[Defense Industry]] · National Labs Complex · Energy Industry · [[Te
 | Substantive votes (Y/N) | 2,655 |
 | Votes with party majority | 2,508 |
 | Party-line loyalty | 94.5% |
-| Deviations from party | 138 |
+| Deviations from party | 40 |
 
 **Coverage:**
 
@@ -154,20 +154,20 @@ donors: [[Defense Industry]] · National Labs Complex · Energy Industry · [[Te
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 138):**
+**Most recent party-line deviations (top 10 of 40):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s163-116.2 | Nay | Y | PN 1431 |
-| September  | s205-115.1 | Nay | Y | PN 249 |
-| September  | s215-115.2 | Nay | Y | PN 2048 |
-| September  | s214-115.2 | Nay | Y | PN 2048 |
-| September  | s213-115.2 | Nay | Y | PN 1447 |
-| September  | s190-116.2 | Nay | Y | PN 1314 |
-| September  | s191-116.2 | Nay | Y | PN 1314 |
-| September  | s196-115.1 | Nay | Y | PN 363 |
-| September  | s194-115.1 | Nay | Y | PN 457 |
-| September  | s278-116.1 | Nay | Y | PN 566 |
+| 2025-07-01 | s369-119.1 | Nay | Y | — |
+| 2025-06-17 | s318-119.1 | Yea | N | S. 1582 |
+| 2025-06-12 | s312-119.1 | Yea | N | S. 1582 |
+| 2025-06-12 | s311-119.1 | Yea | N | — |
+| 2025-06-12 | s310-119.1 | Yea | N | — |
+| 2025-06-11 | s305-119.1 | Yea | N | S. 1582 |
+| 2025-05-21 | s263-119.1 | Yea | N | S. 1582 |
+| 2025-05-19 | s262-119.1 | Yea | N | S. 1582 |
+| 2025-04-03 | s166-119.1 | Yea | N | S.J.Res. 26 |
+| 2025-04-03 | s165-119.1 | Yea | N | S.J.Res. 33 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

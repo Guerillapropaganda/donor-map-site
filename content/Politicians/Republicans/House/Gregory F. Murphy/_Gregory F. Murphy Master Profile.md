@@ -112,16 +112,16 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| 2026-01-22 | h44-119.2 | No | Y | — |
 | 2026-01-22 | h43-119.2 | No | Y | — |
+| 2026-01-22 | h44-119.2 | No | Y | — |
 | 2025-09-03 | h234-119.1 | No | Y | — |
 | 2024-11-12 | h456-118.2 | Nay | Y | HR 82 |
-| 2024-07-24 | h398-118.2 | No | Y | — |
 | 2024-07-24 | h389-118.2 | No | Y | — |
-| 2024-07-23 | h385-118.2 | No | Y | — |
-| 2024-07-23 | h383-118.2 | No | Y | — |
-| 2024-07-23 | h382-118.2 | No | Y | — |
+| 2024-07-24 | h398-118.2 | No | Y | — |
 | 2024-07-23 | h381-118.2 | No | Y | — |
+| 2024-07-23 | h368-118.2 | No | Y | — |
+| 2024-07-23 | h369-118.2 | No | Y | — |
+| 2024-07-23 | h370-118.2 | No | Y | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

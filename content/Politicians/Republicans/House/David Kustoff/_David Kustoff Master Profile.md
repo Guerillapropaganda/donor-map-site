@@ -131,8 +131,8 @@ top-donors: "[[American Hospital Association PAC]], [[Associated General Contrac
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| 2025-09-10 | h255-119.1 | Aye | N | — |
 | 2025-09-10 | h254-119.1 | No | Y | — |
+| 2025-09-10 | h255-119.1 | Aye | N | — |
 | 2025-09-04 | h236-119.1 | No | Y | — |
 | 2025-09-04 | h235-119.1 | No | Y | — |
 | 2025-09-03 | h234-119.1 | No | Y | — |
@@ -140,7 +140,7 @@ top-donors: "[[American Hospital Association PAC]], [[Associated General Contrac
 | 2025-03-27 | h80-119.1 | Aye | N | — |
 | 2024-12-17 | h511-118.2 | Nay | Y | HR 1101 |
 | 2024-11-20 | h474-118.2 | Nay | Y | HR 3012 |
-| 2024-07-23 | h368-118.2 | No | Y | — |
+| 2024-07-23 | h365-118.2 | No | Y | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

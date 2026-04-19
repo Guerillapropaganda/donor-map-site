@@ -133,7 +133,7 @@ donors: [[Koch Network - Charles Koch|Koch Network]]
 | Substantive votes (Y/N) | 2,548 |
 | Votes with party majority | 2,398 |
 | Party-line loyalty | 94.1% |
-| Deviations from party | 145 |
+| Deviations from party | 100 |
 
 **Coverage:**
 
@@ -146,20 +146,20 @@ donors: [[Koch Network - Charles Koch|Koch Network]]
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 145):**
+**Most recent party-line deviations (top 10 of 100):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s192-115.1 | Nay | Y | H.R. 601 |
-| September  | s191-115.1 | Nay | Y | H.R. 601 |
-| September  | s533-119.1 | Nay | Y | S. 2806 |
-| September  | s302-116.1 | Yea | N | S.J.Res. 54 |
-| September  | s190-116.2 | Nay | Y | PN 1314 |
-| September  | s191-116.2 | Nay | Y | PN 1314 |
-| October 29 | s597-119.1 | Yea | N | S.J.Res. 69 |
-| October 26 | s271-118.1 | Nay | Y | — |
-| October 24 | s247-115.1 | Nay | Y | H.R. 2266 |
-| October 19 | s238-115.1 | Nay | Y | — |
+| 2026-01-30 | s15-119.2 | Yea | N | — |
+| 2026-01-30 | s14-119.2 | Nay | Y | — |
+| 2025-12-11 | s646-119.1 | Nay | Y | S. 1071 |
+| 2025-10-29 | s597-119.1 | Yea | N | S.J.Res. 69 |
+| 2025-09-29 | s533-119.1 | Nay | Y | S. 2806 |
+| 2025-07-01 | s367-119.1 | Yea | N | — |
+| 2025-07-01 | s355-119.1 | Yea | N | — |
+| 2025-05-19 | s262-119.1 | Nay | Y | S. 1582 |
+| 2025-03-14 | s132-119.1 | Nay | Y | — |
+| 2024-12-20 | s337-118.2 | Yea | N | H.R. 82 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

@@ -122,7 +122,7 @@ top-donors: "[[WinRed]], [[Northrop Grumman]], [[Morgan Stanley]], [[iHeartMedia
 | Substantive votes (Y/N) | 2,612 |
 | Votes with party majority | 2,459 |
 | Party-line loyalty | 94.1% |
-| Deviations from party | 148 |
+| Deviations from party | 57 |
 
 **Coverage:**
 
@@ -135,20 +135,20 @@ top-donors: "[[WinRed]], [[Northrop Grumman]], [[Morgan Stanley]], [[iHeartMedia
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 148):**
+**Most recent party-line deviations (top 10 of 57):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s221-118.1 | Yea | N | PN 673 |
-| September  | s220-118.1 | Yea | N | PN 646 |
-| September  | s222-118.1 | Yea | N | PN 673 |
-| September  | s219-118.1 | Yea | N | PN 646 |
-| September  | s218-118.1 | Yea | N | PN 644 |
-| September  | s217-118.1 | Yea | N | PN 644 |
-| September  | s533-119.1 | Nay | Y | S. 2806 |
-| September  | s245-118.1 | Yea | N | PN 453 |
-| September  | s311-116.1 | Nay | Y | H.R. 4378 |
-| September  | s252-118.2 | Nay | Y | S.Con.Res. 41 |
+| 2026-01-30 | s15-119.2 | Yea | N | — |
+| 2026-01-30 | s14-119.2 | Nay | Y | — |
+| 2025-10-09 | s564-119.1 | Nay | Y | — |
+| 2025-10-09 | s563-119.1 | Nay | Y | — |
+| 2025-09-29 | s533-119.1 | Nay | Y | S. 2806 |
+| 2025-09-16 | s521-119.1 | Nay | Y | S.Con.Res. 22 |
+| 2025-03-14 | s132-119.1 | Nay | Y | — |
+| 2024-12-21 | s338-118.2 | Nay | Y | H.R. 82 |
+| 2024-12-20 | s334-118.2 | Nay | Y | — |
+| 2024-12-19 | s328-118.2 | Nay | Y | H.R. 82 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

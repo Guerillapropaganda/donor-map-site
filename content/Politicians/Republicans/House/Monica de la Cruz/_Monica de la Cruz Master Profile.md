@@ -146,13 +146,13 @@ top-donors: "[[Chevron]], [[National Victory Action Fund]], [[General Dynamics]]
 | 2026-02-24 | h72-119.2 | Yea | N | S 2503 |
 | 2026-01-08 | h11-119.2 | Yea | N | HR 1834 |
 | 2025-09-10 | h256-119.1 | Aye | N | — |
-| 2025-09-03 | h233-119.1 | No | Y | — |
 | 2025-09-03 | h230-119.1 | No | Y | — |
-| 2025-07-18 | h209-119.1 | Aye | N | — |
+| 2025-09-03 | h233-119.1 | No | Y | — |
 | 2025-07-18 | h206-119.1 | Aye | N | — |
+| 2025-07-18 | h209-119.1 | Aye | N | — |
 | 2025-03-27 | h80-119.1 | Aye | N | — |
 | 2024-07-23 | h373-118.2 | No | Y | — |
-| 2024-06-27 | h324-118.2 | Aye | N | — |
+| 2024-06-27 | h320-118.2 | No | Y | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

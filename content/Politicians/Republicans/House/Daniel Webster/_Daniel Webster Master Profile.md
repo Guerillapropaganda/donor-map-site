@@ -141,12 +141,12 @@ top-donors: "[[Duke Energy]], [[Carlos Gimenez]], [[MAJORITY PAC]], [[NextEra En
 | 2026-01-14 | h27-119.2 | No | Y | — |
 | 2026-01-12 | h14-119.2 | Nay | Y | HR 6500 |
 | 2025-07-22 | h216-119.1 | Nay | Y | HR 1917 |
-| 2025-07-18 | h210-119.1 | Aye | N | — |
-| 2025-07-18 | h209-119.1 | Aye | N | — |
 | 2025-07-18 | h206-119.1 | Aye | N | — |
+| 2025-07-18 | h209-119.1 | Aye | N | — |
+| 2025-07-18 | h210-119.1 | Aye | N | — |
 | 2025-06-23 | h174-119.1 | Nay | Y | HR 3422 |
 | 2025-05-13 | h124-119.1 | Nay | Y | HR 249 |
-| 2024-12-18 | h515-118.2 | Nay | Y | S 759 |
+| 2024-12-18 | h512-118.2 | Nay | Y | S 1351 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

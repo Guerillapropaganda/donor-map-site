@@ -130,8 +130,8 @@ top-donors: "[[Protect Progress]], [[Planned Parenthood Votes]], [[National Asso
 | 2026-01-09 | h12-119.2 | Yea | N | HR 5184 |
 | 2025-11-19 | h302-119.1 | Nay | Y | HRES 893 |
 | 2025-09-19 | h282-119.1 | Nay | Y | HRES 719 |
-| 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
 | 2025-07-17 | h199-119.1 | Yea | N | HR 3633 |
+| 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
 | 2025-06-24 | h175-119.1 | Nay | Y | HRES 537 |
 | 2025-06-12 | h166-119.1 | Nay | Y | S 331 |
 

@@ -116,8 +116,8 @@ top-donors: "[[National Rifle Association]], [[Tyson Foods]], [[Chevron]], [[Nat
 | 2026-01-14 | h27-119.2 | No | Y | — |
 | 2025-11-19 | h300-119.1 | Nay | Y | HR 4058 |
 | 2025-09-04 | h236-119.1 | No | Y | — |
-| 2025-09-03 | h232-119.1 | No | Y | — |
 | 2025-09-03 | h231-119.1 | No | Y | — |
+| 2025-09-03 | h232-119.1 | No | Y | — |
 | 2025-06-23 | h174-119.1 | Nay | Y | HR 3422 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*

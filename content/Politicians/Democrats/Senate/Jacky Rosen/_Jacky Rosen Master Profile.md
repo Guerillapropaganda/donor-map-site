@@ -129,7 +129,7 @@ top-donors: "[[American Federation of State County & Municipal Employees P E O P
 | Substantive votes (Y/N) | 2,132 |
 | Votes with party majority | 1,985 |
 | Party-line loyalty | 93.1% |
-| Deviations from party | 143 |
+| Deviations from party | 52 |
 
 **Coverage:**
 
@@ -140,20 +140,20 @@ top-donors: "[[American Federation of State County & Municipal Employees P E O P
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 143):**
+**Most recent party-line deviations (top 10 of 52):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s185-116.2 | Yea | N | PN 1348 |
-| September  | s184-116.2 | Yea | N | PN 1348 |
-| October 31 | s277-118.1 | Yea | N | — |
-| October 25 | s266-118.1 | Yea | N | — |
-| October 25 | s269-118.1 | Yea | N | — |
-| October 25 | s268-118.1 | Yea | N | — |
-| October 22 | s213-116.2 | Yea | N | PN 1663 |
-| October 22 | s211-116.2 | Yea | N | PN 1663 |
-| November 9 | s610-119.1 | Yea | N | H.R. 5371 |
-| November 2 | s366-116.1 | Nay | Y | PN 1268 |
+| 2026-04-15 | s81-119.2 | Nay | Y | S.J.Res. 138 |
+| 2026-04-15 | s80-119.2 | Nay | Y | S.J.Res. 32 |
+| 2026-01-30 | s20-119.2 | Yea | N | H.R. 7148 |
+| 2025-11-10 | s618-119.1 | Yea | N | H.R. 5371 |
+| 2025-11-10 | s617-119.1 | Yea | N | H.R. 5371 |
+| 2025-11-10 | s616-119.1 | Yea | N | — |
+| 2025-11-10 | s615-119.1 | Yea | N | — |
+| 2025-11-10 | s611-119.1 | Yea | N | H.R. 5371 |
+| 2025-11-09 | s610-119.1 | Yea | N | H.R. 5371 |
+| 2025-07-30 | s455-119.1 | Nay | Y | S.J.Res. 34 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

@@ -125,7 +125,7 @@ reenrich-reason: "launch-50 audit: only 4 auto-blocks (threshold: 5)"
 | Substantive votes (Y/N) | 1,958 |
 | Votes with party majority | 1,820 |
 | Party-line loyalty | 93.0% |
-| Deviations from party | 137 |
+| Deviations from party | 91 |
 
 **Coverage:**
 
@@ -135,20 +135,20 @@ reenrich-reason: "launch-50 audit: only 4 auto-blocks (threshold: 5)"
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 137):**
+**Most recent party-line deviations (top 10 of 91):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| May 22, 20 | s277-119.1 | Yea | N | H.J.Res. 88 |
-| May 21, 20 | s263-119.1 | Yea | N | S. 1582 |
-| May 19, 20 | s262-119.1 | Yea | N | S. 1582 |
-| May 13, 20 | s245-119.1 | Yea | N | PN 12-30 |
-| May 13, 20 | s246-119.1 | Yea | N | PN 12-30 |
-| March 9, 2 | s48-119.2 | Yea | N | PN 711 |
-| March 6, 2 | s109-119.1 | Yea | N | PN 11-4 |
-| March 26,  | s151-119.1 | Yea | N | H.J.Res. 25 |
-| March 26,  | s150-119.1 | Yea | N | H.J.Res. 25 |
-| March 25,  | s138-119.1 | Yea | N | PN 13-8 |
+| 2025-06-30 | s352-119.1 | Nay | Y | — |
+| 2025-06-17 | s318-119.1 | Yea | N | S. 1582 |
+| 2025-06-12 | s312-119.1 | Yea | N | S. 1582 |
+| 2025-06-12 | s311-119.1 | Yea | N | — |
+| 2025-06-12 | s310-119.1 | Yea | N | — |
+| 2025-06-11 | s307-119.1 | Nay | Y | S.J.Res. 54 |
+| 2025-06-11 | s306-119.1 | Nay | Y | S.J.Res. 53 |
+| 2025-06-11 | s305-119.1 | Yea | N | S. 1582 |
+| 2025-05-22 | s277-119.1 | Yea | N | H.J.Res. 88 |
+| 2025-05-21 | s263-119.1 | Yea | N | S. 1582 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

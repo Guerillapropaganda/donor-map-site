@@ -126,15 +126,15 @@ top-donors: "[[REPUBLICAN PARTY OF FLORIDA]], [[Republican Jewish Coalition]], [
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| 2026-03-04 | h82-119.2 | Nay | Y | HR 6472 |
 | 2026-03-04 | h81-119.2 | Nay | Y | S 723 |
+| 2026-03-04 | h82-119.2 | Nay | Y | HR 6472 |
 | 2025-12-11 | h331-119.1 | Yea | N | HRES 432 |
 | 2025-09-04 | h237-119.1 | Aye | N | — |
 | 2025-09-03 | h234-119.1 | No | Y | — |
-| 2025-09-03 | h233-119.1 | No | Y | — |
-| 2025-09-03 | h232-119.1 | No | Y | — |
-| 2025-09-03 | h231-119.1 | No | Y | — |
 | 2025-09-03 | h230-119.1 | No | Y | — |
+| 2025-09-03 | h231-119.1 | No | Y | — |
+| 2025-09-03 | h232-119.1 | No | Y | — |
+| 2025-09-03 | h233-119.1 | No | Y | — |
 | 2025-09-03 | h228-119.1 | No | Y | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*

@@ -125,13 +125,13 @@ top-donors: "[[Associated General Contractors of America Political Action Commit
 | 2025-09-10 | h256-119.1 | Aye | N | — |
 | 2025-09-04 | h235-119.1 | No | Y | — |
 | 2025-09-03 | h234-119.1 | No | Y | — |
-| 2025-09-03 | h233-119.1 | No | Y | — |
-| 2025-09-03 | h232-119.1 | No | Y | — |
 | 2025-09-03 | h231-119.1 | No | Y | — |
+| 2025-09-03 | h232-119.1 | No | Y | — |
+| 2025-09-03 | h233-119.1 | No | Y | — |
 | 2025-09-03 | h228-119.1 | No | Y | — |
-| 2025-07-18 | h210-119.1 | Aye | N | — |
-| 2025-07-18 | h209-119.1 | Aye | N | — |
 | 2025-07-18 | h206-119.1 | Aye | N | — |
+| 2025-07-18 | h209-119.1 | Aye | N | — |
+| 2025-07-18 | h210-119.1 | Aye | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

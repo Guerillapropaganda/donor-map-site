@@ -152,7 +152,7 @@ donors: [[Telecom Industry]] · [[Silicon Valley Donors]] · [[Defense Contracto
 | Substantive votes (Y/N) | 2,682 |
 | Votes with party majority | 2,469 |
 | Party-line loyalty | 92.1% |
-| Deviations from party | 204 |
+| Deviations from party | 54 |
 
 **Coverage:**
 
@@ -165,20 +165,20 @@ donors: [[Telecom Industry]] · [[Silicon Valley Donors]] · [[Defense Contracto
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 204):**
+**Most recent party-line deviations (top 10 of 54):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s297-116.1 | Yea | N | PN 87 |
-| September  | s301-116.1 | Yea | N | PN 87 |
-| September  | s185-116.2 | Yea | N | PN 1348 |
-| September  | s184-116.2 | Yea | N | PN 1348 |
-| September  | s284-116.1 | Yea | N | PN 127 |
-| September  | s285-116.1 | Yea | N | PN 127 |
-| September  | s195-115.1 | Yea | N | — |
-| September  | s280-116.1 | Yea | N | PN 561 |
-| September  | s273-116.1 | Yea | N | PN 561 |
-| October 5, | s213-115.1 | Yea | N | PN 734 |
+| 2026-04-15 | s81-119.2 | Nay | Y | S.J.Res. 138 |
+| 2026-01-30 | s20-119.2 | Yea | N | H.R. 7148 |
+| 2025-07-30 | s455-119.1 | Nay | Y | S.J.Res. 34 |
+| 2025-07-30 | s454-119.1 | Nay | Y | S.J.Res. 41 |
+| 2025-07-01 | s355-119.1 | Yea | N | — |
+| 2025-06-17 | s318-119.1 | Yea | N | S. 1582 |
+| 2025-06-12 | s312-119.1 | Yea | N | S. 1582 |
+| 2025-06-12 | s311-119.1 | Yea | N | — |
+| 2025-06-12 | s310-119.1 | Yea | N | — |
+| 2025-06-11 | s305-119.1 | Yea | N | S. 1582 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

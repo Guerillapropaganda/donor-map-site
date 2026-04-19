@@ -132,7 +132,7 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC - American Isra
 | Substantive votes (Y/N) | 1,238 |
 | Votes with party majority | 1,094 |
 | Party-line loyalty | 88.4% |
-| Deviations from party | 143 |
+| Deviations from party | 63 |
 
 **Coverage:**
 
@@ -141,20 +141,20 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC - American Isra
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 143):**
+**Most recent party-line deviations (top 10 of 63):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s535-119.1 | Yea | N | H.R. 5371 |
-| September  | s532-119.1 | Yea | N | PN 342 |
-| September  | s531-119.1 | Yea | N | PN 342 |
-| September  | s530-119.1 | Yea | N | PN 343 |
-| September  | s529-119.1 | Yea | N | PN 343 |
-| September  | s528-119.1 | Yea | N | H.R. 5371 |
-| October 9, | s558-119.1 | Yea | N | H.R. 5371 |
-| October 9, | s563-119.1 | Yea | N | — |
-| October 8, | s551-119.1 | Yea | N | H.R. 5371 |
-| October 8, | s555-119.1 | Nay | Y | S.J.Res. 83 |
+| 2026-04-15 | s81-119.2 | Nay | Y | S.J.Res. 138 |
+| 2026-04-15 | s80-119.2 | Nay | Y | S.J.Res. 32 |
+| 2026-04-15 | s79-119.2 | Nay | Y | S.J.Res. 123 |
+| 2026-03-26 | s74-119.2 | Yea | N | H.R. 7147 |
+| 2026-03-25 | s71-119.2 | Yea | N | H.R. 7147 |
+| 2026-03-24 | s69-119.2 | Nay | Y | S.J.Res. 116 |
+| 2026-03-20 | s59-119.2 | Yea | N | H.R. 7147 |
+| 2026-03-18 | s58-119.2 | Nay | Y | S.J.Res. 118 |
+| 2026-03-12 | s54-119.2 | Yea | N | H.R. 7147 |
+| 2026-03-05 | s47-119.2 | Yea | N | H.R. 7147 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

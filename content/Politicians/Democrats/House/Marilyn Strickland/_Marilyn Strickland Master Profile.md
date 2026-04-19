@@ -140,8 +140,8 @@ top-donors: "[[Walmart - Walton Family]], [[International Longshore and Warehous
 | 2025-11-21 | h305-119.1 | Yea | N | HCONRES 58 |
 | 2025-11-19 | h302-119.1 | Nay | Y | HRES 893 |
 | 2025-09-19 | h282-119.1 | Nay | Y | HRES 719 |
-| 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
 | 2025-07-17 | h199-119.1 | Yea | N | HR 3633 |
+| 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
 | 2025-03-11 | h71-119.1 | Yea | N | HJRES 25 |
 | 2025-02-06 | h33-119.1 | Yea | N | HR 27 |
 

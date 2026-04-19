@@ -131,15 +131,15 @@ top-donors: "[[Nucor Corporation]], [[AIPAC - American Israel Public Affairs Com
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
 | 2026-01-22 | h44-119.2 | No | Y | — |
-| 2026-01-14 | h27-119.2 | No | Y | — |
 | 2026-01-14 | h26-119.2 | No | Y | — |
+| 2026-01-14 | h27-119.2 | No | Y | — |
 | 2026-01-08 | h9-119.2 | Yea | N | HR 131 |
 | 2025-09-17 | h276-119.1 | Yea | N | HRES 713 |
 | 2025-09-04 | h236-119.1 | No | Y | — |
 | 2025-09-04 | h235-119.1 | No | Y | — |
 | 2025-09-03 | h234-119.1 | No | Y | — |
-| 2025-09-03 | h233-119.1 | No | Y | — |
-| 2025-09-03 | h232-119.1 | No | Y | — |
+| 2025-09-03 | h223-119.1 | Yea | N | HRES 539 |
+| 2025-09-03 | h231-119.1 | No | Y | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

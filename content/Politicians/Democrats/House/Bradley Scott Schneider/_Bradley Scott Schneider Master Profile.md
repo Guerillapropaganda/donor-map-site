@@ -110,10 +110,10 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 | 2025-12-11 | h324-119.1 | Yea | N | HR 3638 |
 | 2025-11-21 | h305-119.1 | Yea | N | HCONRES 58 |
 | 2025-07-21 | h213-119.1 | Yea | N | HR 3095 |
-| 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
 | 2025-07-17 | h199-119.1 | Yea | N | HR 3633 |
-| 2025-06-26 | h184-119.1 | Yea | N | HR 275 |
+| 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
 | 2025-06-26 | h183-119.1 | Yea | N | HR 875 |
+| 2025-06-26 | h184-119.1 | Yea | N | HR 275 |
 | 2025-06-24 | h178-119.1 | Nay | Y | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*

@@ -91,7 +91,7 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 | Substantive votes (Y/N) | 2,650 |
 | Votes with party majority | 2,503 |
 | Party-line loyalty | 94.5% |
-| Deviations from party | 138 |
+| Deviations from party | 50 |
 
 **Coverage:**
 
@@ -104,20 +104,20 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 138):**
+**Most recent party-line deviations (top 10 of 50):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s203-115.2 | Yea | N | PN 1525 |
-| September  | s202-115.2 | Nay | Y | PN 2047 |
-| September  | s215-115.2 | Nay | Y | PN 2048 |
-| September  | s214-115.2 | Nay | Y | PN 2048 |
-| September  | s213-115.2 | Nay | Y | PN 1447 |
-| September  | s184-116.2 | Yea | N | PN 1348 |
-| September  | s198-115.1 | Nay | Y | H.R. 2810 |
-| September  | s178-116.2 | Yea | N | PN 1439 |
-| September  | s177-116.2 | Yea | N | PN 1507 |
-| September  | s180-116.2 | Yea | N | PN 1439 |
+| 2026-01-30 | s20-119.2 | Yea | N | H.R. 7148 |
+| 2025-11-10 | s618-119.1 | Yea | N | H.R. 5371 |
+| 2025-11-10 | s617-119.1 | Yea | N | H.R. 5371 |
+| 2025-11-10 | s616-119.1 | Yea | N | — |
+| 2025-11-10 | s615-119.1 | Yea | N | — |
+| 2025-11-10 | s611-119.1 | Yea | N | H.R. 5371 |
+| 2025-11-09 | s610-119.1 | Yea | N | H.R. 5371 |
+| 2025-10-09 | s570-119.1 | Nay | Y | S. 2296 |
+| 2025-10-09 | s564-119.1 | Yea | N | — |
+| 2025-10-09 | s563-119.1 | Yea | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

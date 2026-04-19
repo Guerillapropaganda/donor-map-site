@@ -134,7 +134,7 @@ top-policy-area: International Affairs
 | Substantive votes (Y/N) | 2,666 |
 | Votes with party majority | 2,442 |
 | Party-line loyalty | 91.6% |
-| Deviations from party | 215 |
+| Deviations from party | 45 |
 
 **Coverage:**
 
@@ -147,20 +147,20 @@ top-policy-area: International Affairs
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 215):**
+**Most recent party-line deviations (top 10 of 45):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s263-116.1 | Yea | N | PN 713 |
-| September  | s532-119.1 | Yea | N | PN 342 |
-| September  | s531-119.1 | Yea | N | PN 342 |
-| September  | s297-116.1 | Yea | N | PN 87 |
-| September  | s301-116.1 | Yea | N | PN 87 |
-| September  | s185-116.2 | Yea | N | PN 1348 |
-| September  | s184-116.2 | Yea | N | PN 1348 |
-| September  | s530-119.1 | Yea | N | PN 343 |
-| September  | s529-119.1 | Yea | N | PN 343 |
-| September  | s284-116.1 | Yea | N | PN 127 |
+| 2026-01-30 | s20-119.2 | Yea | N | H.R. 7148 |
+| 2025-11-10 | s618-119.1 | Yea | N | H.R. 5371 |
+| 2025-11-10 | s617-119.1 | Yea | N | H.R. 5371 |
+| 2025-11-10 | s616-119.1 | Yea | N | — |
+| 2025-11-10 | s615-119.1 | Yea | N | — |
+| 2025-11-10 | s611-119.1 | Yea | N | H.R. 5371 |
+| 2025-11-09 | s610-119.1 | Yea | N | H.R. 5371 |
+| 2025-10-16 | s575-119.1 | Yea | N | H.R. 4016 |
+| 2025-03-14 | s133-119.1 | Yea | N | H.R. 1968 |
+| 2025-03-14 | s128-119.1 | Yea | N | H.R. 1968 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

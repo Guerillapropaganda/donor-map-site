@@ -106,10 +106,10 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
 | 2025-09-10 | h260-119.1 | No | Y | — |
-| 2024-04-12 | h118-118.2 | No | Y | — |
-| 2024-04-12 | h116-118.2 | No | Y | — |
 | 2024-04-12 | h115-118.2 | Aye | N | — |
 | 2024-04-12 | h114-118.2 | Aye | N | — |
+| 2024-04-12 | h116-118.2 | No | Y | — |
+| 2024-04-12 | h118-118.2 | No | Y | — |
 | 2023-11-08 | h623-118.1 | No | Y | — |
 | 2023-09-28 | h496-118.1 | No | Y | — |
 | 2023-09-28 | h491-118.1 | No | Y | — |

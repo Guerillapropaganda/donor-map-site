@@ -137,9 +137,9 @@ top-donors: "[[Lockheed Martin]], [[AIPAC - American Israel Public Affairs Commi
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
 | 2025-09-04 | h237-119.1 | Aye | N | — |
-| 2025-09-03 | h231-119.1 | No | Y | — |
-| 2025-09-03 | h230-119.1 | No | Y | — |
 | 2025-09-03 | h229-119.1 | Aye | N | — |
+| 2025-09-03 | h230-119.1 | No | Y | — |
+| 2025-09-03 | h231-119.1 | No | Y | — |
 | 2025-06-23 | h174-119.1 | Nay | Y | HR 3422 |
 | 2025-03-27 | h80-119.1 | Aye | N | — |
 | 2025-03-25 | h74-119.1 | Nay | Y | HR 1534 |

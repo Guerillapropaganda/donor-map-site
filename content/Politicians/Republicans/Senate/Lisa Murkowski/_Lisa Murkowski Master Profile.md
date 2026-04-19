@@ -133,7 +133,7 @@ donors:
 | Substantive votes (Y/N) | 2,631 |
 | Votes with party majority | 2,156 |
 | Party-line loyalty | 81.9% |
-| Deviations from party | 470 |
+| Deviations from party | 202 |
 
 **Coverage:**
 
@@ -146,20 +146,20 @@ donors:
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 470):**
+**Most recent party-line deviations (top 10 of 202):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s506-119.1 | Nay | Y | PN 129-10 |
-| September  | s507-119.1 | Nay | Y | PN 129-10 |
-| September  | s221-118.1 | Yea | N | PN 673 |
-| September  | s220-118.1 | Yea | N | PN 646 |
-| September  | s222-118.1 | Yea | N | PN 673 |
-| September  | s215-118.1 | Yea | N | PN 743 |
-| September  | s219-118.1 | Yea | N | PN 646 |
-| September  | s217-118.1 | Yea | N | PN 644 |
-| September  | s216-118.1 | Yea | N | PN 743 |
-| September  | s533-119.1 | Nay | Y | S. 2806 |
+| 2026-03-25 | s72-119.2 | Yea | N | S.J.Res. 103 |
+| 2026-03-17 | s57-119.2 | Nay | Y | S. 1383 |
+| 2026-03-11 | s52-119.2 | Nay | Y | H.R. 6644 |
+| 2026-01-30 | s18-119.2 | Yea | N | — |
+| 2026-01-30 | s15-119.2 | Yea | N | — |
+| 2026-01-30 | s14-119.2 | Nay | Y | — |
+| 2026-01-14 | s9-119.2 | Nay | Y | S.J.Res. 98 |
+| 2026-01-08 | s5-119.2 | Yea | N | S.J.Res. 98 |
+| 2025-12-18 | s654-119.1 | Yea | N | S.J.Res. 82 |
+| 2025-12-11 | s644-119.1 | Yea | N | S. 3385 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

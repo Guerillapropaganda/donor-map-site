@@ -107,7 +107,7 @@ donors: [[Goldman Sachs]], [[AIPAC - American Israel Public Affairs Committee]]
 | Substantive votes (Y/N) | 2,739 |
 | Votes with party majority | 2,575 |
 | Party-line loyalty | 94.0% |
-| Deviations from party | 155 |
+| Deviations from party | 32 |
 
 **Coverage:**
 
@@ -120,20 +120,20 @@ donors: [[Goldman Sachs]], [[AIPAC - American Israel Public Affairs Committee]]
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 155):**
+**Most recent party-line deviations (top 10 of 32):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s161-116.2 | Nay | Y | PN 1713 |
-| September  | s160-116.2 | Nay | Y | PN 1511 |
-| September  | s163-116.2 | Nay | Y | PN 1431 |
-| September  | s162-116.2 | Nay | Y | PN 1511 |
-| September  | s202-115.2 | Nay | Y | PN 2047 |
-| September  | s201-115.2 | Nay | Y | PN 2047 |
-| September  | s205-115.1 | Nay | Y | PN 249 |
-| September  | s312-116.1 | Nay | Y | PN 585 |
-| September  | s308-116.1 | Nay | Y | PN 585 |
-| September  | s215-115.2 | Nay | Y | PN 2048 |
+| 2026-04-15 | s81-119.2 | Nay | Y | S.J.Res. 138 |
+| 2026-04-15 | s80-119.2 | Nay | Y | S.J.Res. 32 |
+| 2026-01-30 | s20-119.2 | Yea | N | H.R. 7148 |
+| 2025-11-10 | s614-119.1 | Nay | Y | — |
+| 2025-07-30 | s455-119.1 | Nay | Y | S.J.Res. 34 |
+| 2025-07-30 | s454-119.1 | Nay | Y | S.J.Res. 41 |
+| 2025-03-26 | s151-119.1 | Yea | N | H.J.Res. 25 |
+| 2025-03-26 | s150-119.1 | Yea | N | H.J.Res. 25 |
+| 2025-03-14 | s128-119.1 | Yea | N | H.R. 1968 |
+| 2025-03-04 | s102-119.1 | Yea | N | S.J.Res. 3 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

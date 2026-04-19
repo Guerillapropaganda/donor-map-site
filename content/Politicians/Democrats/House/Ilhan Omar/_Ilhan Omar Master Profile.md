@@ -199,8 +199,8 @@ SORT title ASC
 | 2025-12-10 | h320-119.1 | Nay | Y | S 1071 |
 | 2025-09-19 | h282-119.1 | Nay | Y | HRES 719 |
 | 2025-09-10 | h258-119.1 | Aye | N | — |
-| 2025-09-02 | h220-119.1 | Nay | Y | HR 747 |
 | 2025-09-02 | h219-119.1 | Nay | Y | HR 4216 |
+| 2025-09-02 | h220-119.1 | Nay | Y | HR 747 |
 | 2025-07-18 | h207-119.1 | Aye | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*

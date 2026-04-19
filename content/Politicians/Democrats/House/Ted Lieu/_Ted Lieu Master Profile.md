@@ -134,8 +134,8 @@ top-donors: "[[Teamsters - International Brotherhood of Teamsters]], [[National 
 | 2025-12-11 | h326-119.1 | No | Y | — |
 | 2025-11-21 | h305-119.1 | Yea | N | HCONRES 58 |
 | 2025-11-19 | h302-119.1 | Nay | Y | HRES 893 |
-| 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
 | 2025-07-17 | h199-119.1 | Yea | N | HR 3633 |
+| 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
 | 2025-06-12 | h166-119.1 | Nay | Y | S 331 |
 | 2025-03-11 | h71-119.1 | Yea | N | HJRES 25 |
 | 2025-01-23 | h25-119.1 | Yea | N | HR 471 |

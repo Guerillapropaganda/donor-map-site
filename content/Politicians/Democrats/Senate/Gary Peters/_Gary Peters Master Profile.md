@@ -153,7 +153,7 @@ donors: [[Defense Industry]] · Cybersecurity Industry · Wall Street · [[UAW -
 | Substantive votes (Y/N) | 2,720 |
 | Votes with party majority | 2,564 |
 | Party-line loyalty | 94.3% |
-| Deviations from party | 147 |
+| Deviations from party | 40 |
 
 **Coverage:**
 
@@ -166,20 +166,20 @@ donors: [[Defense Industry]] · Cybersecurity Industry · Wall Street · [[UAW -
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 147):**
+**Most recent party-line deviations (top 10 of 40):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s204-115.2 | Nay | Y | PN 1650 |
-| September  | s208-115.1 | Yea | N | PN 89 |
-| September  | s312-116.1 | Nay | Y | PN 585 |
-| September  | s308-116.1 | Nay | Y | PN 585 |
-| September  | s185-116.2 | Yea | N | PN 1348 |
-| September  | s184-116.2 | Yea | N | PN 1348 |
-| September  | s292-116.1 | Yea | N | H.R. 2740 |
-| September  | s283-116.1 | Yea | N | PN 135 |
-| September  | s282-116.1 | Yea | N | PN 135 |
-| September  | s280-116.1 | Yea | N | PN 561 |
+| 2026-04-15 | s81-119.2 | Nay | Y | S.J.Res. 138 |
+| 2026-01-30 | s20-119.2 | Yea | N | H.R. 7148 |
+| 2025-11-10 | s614-119.1 | Nay | Y | — |
+| 2025-07-30 | s455-119.1 | Nay | Y | S.J.Res. 34 |
+| 2025-07-30 | s454-119.1 | Nay | Y | S.J.Res. 41 |
+| 2025-06-30 | s352-119.1 | Nay | Y | — |
+| 2025-03-14 | s128-119.1 | Yea | N | H.R. 1968 |
+| 2025-01-20 | s7-119.1 | Yea | N | S. 5 |
+| 2025-01-20 | s6-119.1 | Yea | N | — |
+| 2025-01-17 | s5-119.1 | Yea | N | S. 5 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

@@ -128,12 +128,12 @@ top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[Defend Amer
 | 2026-02-24 | h72-119.2 | Yea | N | S 2503 |
 | 2026-01-22 | h43-119.2 | No | Y | — |
 | 2025-09-03 | h234-119.1 | No | Y | — |
-| 2025-09-03 | h233-119.1 | No | Y | — |
-| 2025-09-03 | h232-119.1 | No | Y | — |
 | 2025-09-03 | h231-119.1 | No | Y | — |
-| 2025-07-18 | h210-119.1 | Aye | N | — |
-| 2025-07-18 | h209-119.1 | Aye | N | — |
+| 2025-09-03 | h232-119.1 | No | Y | — |
+| 2025-09-03 | h233-119.1 | No | Y | — |
 | 2025-07-18 | h206-119.1 | Aye | N | — |
+| 2025-07-18 | h209-119.1 | Aye | N | — |
+| 2025-07-18 | h210-119.1 | Aye | N | — |
 | 2025-06-23 | h174-119.1 | Nay | Y | HR 3422 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*

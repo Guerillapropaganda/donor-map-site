@@ -157,15 +157,15 @@ donors: Don Gaetz Family Fortune · [[MAGA Small Dollar Base]]
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
 | 2024-09-25 | h450-118.2 | Nay | Y | HR 9747 |
-| 2024-09-24 | h447-118.2 | Nay | Y | HR 7073 |
 | 2024-09-24 | h445-118.2 | Nay | Y | HR 3208 |
-| 2024-09-18 | h431-118.2 | Nay | Y | HR 9494 |
+| 2024-09-24 | h447-118.2 | Nay | Y | HR 7073 |
 | 2024-09-18 | h425-118.2 | Nay | Y | HR 1513 |
+| 2024-09-18 | h431-118.2 | Nay | Y | HR 9494 |
 | 2024-09-17 | h419-118.2 | Nay | Y | S 2861 |
 | 2024-07-22 | h357-118.2 | Nay | Y | HR 1631 |
 | 2024-07-11 | h352-118.2 | Nay | Y | HR 8772 |
 | 2024-07-08 | h337-118.2 | Nay | Y | HR 5441 |
-| 2024-06-28 | h333-118.2 | Nay | Y | HR 8752 |
+| 2024-06-28 | h329-118.2 | Aye | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

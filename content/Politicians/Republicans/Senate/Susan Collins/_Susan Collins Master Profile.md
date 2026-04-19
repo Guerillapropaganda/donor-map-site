@@ -134,7 +134,7 @@ top-policy-area: Health
 | Substantive votes (Y/N) | 2,749 |
 | Votes with party majority | 2,193 |
 | Party-line loyalty | 79.8% |
-| Deviations from party | 551 |
+| Deviations from party | 235 |
 
 **Coverage:**
 
@@ -147,20 +147,20 @@ top-policy-area: Health
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 551):**
+**Most recent party-line deviations (top 10 of 235):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s231-118.2 | Yea | N | PN 1748 |
-| September  | s221-118.1 | Yea | N | PN 673 |
-| September  | s220-118.1 | Yea | N | PN 646 |
-| September  | s222-118.1 | Yea | N | PN 673 |
-| September  | s219-118.1 | Yea | N | PN 646 |
-| September  | s533-119.1 | Nay | Y | S. 2806 |
-| September  | s245-118.1 | Yea | N | PN 453 |
-| September  | s252-118.2 | Nay | Y | S.Con.Res. 41 |
-| September  | s254-118.2 | Yea | N | PN 1902 |
-| September  | s253-118.2 | Yea | N | PN 1902 |
+| 2026-04-16 | s84-119.2 | Nay | Y | H.J.Res. 140 |
+| 2026-04-15 | s83-119.2 | Nay | Y | H.J.Res. 140 |
+| 2026-04-15 | s82-119.2 | Nay | Y | H.J.Res. 140 |
+| 2026-03-25 | s72-119.2 | Yea | N | S.J.Res. 103 |
+| 2026-02-10 | s35-119.2 | Yea | N | S.J.Res. 95 |
+| 2026-01-30 | s18-119.2 | Yea | N | — |
+| 2026-01-30 | s15-119.2 | Yea | N | — |
+| 2026-01-30 | s14-119.2 | Nay | Y | — |
+| 2026-01-14 | s9-119.2 | Nay | Y | S.J.Res. 98 |
+| 2026-01-08 | s5-119.2 | Yea | N | S.J.Res. 98 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

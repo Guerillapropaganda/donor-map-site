@@ -119,7 +119,7 @@ top-donors: "[[Common Sense for America PAC]], [[General Dynamics]], [[Internati
 | Substantive votes (Y/N) | 1,409 |
 | Votes with party majority | 1,367 |
 | Party-line loyalty | 97.0% |
-| Deviations from party | 40 |
+| Deviations from party | 23 |
 
 **Coverage:**
 
@@ -128,20 +128,20 @@ top-donors: "[[Common Sense for America PAC]], [[General Dynamics]], [[Internati
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 40):**
+**Most recent party-line deviations (top 10 of 23):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s533-119.1 | Nay | Y | S. 2806 |
-| September  | s241-118.1 | Nay | Y | H.R. 3935 |
-| September  | s240-118.1 | Nay | Y | H.R. 3935 |
-| September  | s255-118.2 | Nay | Y | H.R. 9747 |
-| September  | s228-118.1 | Nay | Y | H.R. 4366 |
-| September  | s227-118.1 | Nay | Y | H.R. 4366 |
-| October 4, | s249-118.1 | Yea | N | PN 676 |
-| October 3, | s248-118.1 | Yea | N | PN 676 |
-| November 3 | s325-118.1 | Nay | Y | PN 500 |
-| November 2 | s303-118.2 | Nay | Y | PN 2041 |
+| 2026-01-30 | s14-119.2 | Nay | Y | — |
+| 2025-09-29 | s533-119.1 | Nay | Y | S. 2806 |
+| 2025-03-14 | s132-119.1 | Nay | Y | — |
+| 2024-12-20 | s337-118.2 | Yea | N | H.R. 82 |
+| 2024-12-20 | s336-118.2 | Nay | Y | — |
+| 2024-12-20 | s335-118.2 | Nay | Y | — |
+| 2024-12-20 | s334-118.2 | Nay | Y | — |
+| 2024-12-18 | s326-118.2 | Yea | N | H.R. 82 |
+| 2024-11-20 | s295-118.2 | Nay | Y | S.J.Res. 117 |
+| 2024-09-25 | s255-118.2 | Nay | Y | H.R. 9747 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

@@ -149,7 +149,7 @@ top-policy-area: International Affairs
 | 2024-07-11 | h350-118.2 | No | Y | — |
 | 2024-06-27 | h323-118.2 | Aye | N | — |
 | 2024-04-20 | h151-118.2 | Yea | N | HR 8035 |
-| 2024-04-17 | h136-118.2 | Nay | Y | HR 4639 |
+| 2024-04-17 | h135-118.2 | Aye | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

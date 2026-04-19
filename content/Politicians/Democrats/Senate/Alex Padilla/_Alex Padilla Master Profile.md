@@ -161,7 +161,7 @@ donors:
 | Substantive votes (Y/N) | 1,372 |
 | Votes with party majority | 1,330 |
 | Party-line loyalty | 96.9% |
-| Deviations from party | 41 |
+| Deviations from party | 34 |
 
 **Coverage:**
 
@@ -170,20 +170,20 @@ donors:
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 41):**
+**Most recent party-line deviations (top 10 of 34):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s503-119.1 | Nay | Y | S. 2296 |
-| September  | s500-119.1 | Nay | Y | S. 2296 |
-| October 9, | s570-119.1 | Nay | Y | S. 2296 |
-| November 1 | s620-119.1 | Yea | N | PN 445-6 |
-| November 1 | s619-119.1 | Yea | N | PN 445-6 |
-| May 23, 20 | s182-118.2 | Nay | Y | S. 4361 |
-| May 21, 20 | s263-119.1 | Yea | N | S. 1582 |
-| May 19, 20 | s262-119.1 | Yea | N | S. 1582 |
-| March 4, 2 | s101-119.1 | Yea | N | S.J.Res. 3 |
-| March 4, 2 | s102-119.1 | Yea | N | S.J.Res. 3 |
+| 2026-01-15 | s11-119.2 | Nay | Y | H.R. 6938 |
+| 2026-01-15 | s10-119.2 | Nay | Y | H.R. 6938 |
+| 2026-01-12 | s7-119.2 | Nay | Y | H.R. 6938 |
+| 2025-12-17 | s648-119.1 | Nay | Y | S. 1071 |
+| 2025-12-15 | s647-119.1 | Nay | Y | S. 1071 |
+| 2025-12-11 | s646-119.1 | Nay | Y | S. 1071 |
+| 2025-10-09 | s570-119.1 | Nay | Y | S. 2296 |
+| 2025-09-04 | s503-119.1 | Nay | Y | S. 2296 |
+| 2025-09-02 | s500-119.1 | Nay | Y | S. 2296 |
+| 2025-08-01 | s481-119.1 | Nay | Y | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

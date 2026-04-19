@@ -140,8 +140,8 @@ top-donors: "[[AT&T - WarnerMedia]], [[International Brotherhood of Electrical W
 | 2024-06-13 | h264-118.2 | Aye | N | — |
 | 2024-05-15 | h210-118.2 | Nay | Y | HR 6572 |
 | 2024-04-17 | h136-118.2 | Yea | N | HR 4639 |
-| 2024-04-12 | h118-118.2 | No | Y | — |
 | 2024-04-12 | h115-118.2 | Aye | N | — |
+| 2024-04-12 | h118-118.2 | No | Y | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

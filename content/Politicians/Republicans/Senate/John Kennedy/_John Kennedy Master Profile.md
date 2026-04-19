@@ -147,7 +147,7 @@ SORT title ASC
 | Substantive votes (Y/N) | 2,688 |
 | Votes with party majority | 2,497 |
 | Party-line loyalty | 92.9% |
-| Deviations from party | 186 |
+| Deviations from party | 113 |
 
 **Coverage:**
 
@@ -160,20 +160,20 @@ SORT title ASC
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 186):**
+**Most recent party-line deviations (top 10 of 113):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s191-115.1 | Nay | Y | H.R. 601 |
-| September  | s310-116.1 | Yea | N | — |
-| September  | s190-116.2 | Nay | Y | PN 1314 |
-| September  | s191-116.2 | Nay | Y | PN 1314 |
-| September  | s500-119.1 | Nay | Y | S. 2296 |
-| September  | s182-116.2 | Yea | N | PN 1510 |
-| October 9, | s563-119.1 | Nay | Y | — |
-| October 31 | s274-118.1 | Yea | N | PN 452 |
-| October 30 | s273-118.1 | Yea | N | PN 452 |
-| October 29 | s597-119.1 | Yea | N | S.J.Res. 69 |
+| 2026-01-30 | s15-119.2 | Yea | N | — |
+| 2025-10-29 | s597-119.1 | Yea | N | S.J.Res. 69 |
+| 2025-10-09 | s563-119.1 | Nay | Y | — |
+| 2025-09-02 | s500-119.1 | Nay | Y | S. 2296 |
+| 2025-08-01 | s481-119.1 | Nay | Y | — |
+| 2025-08-01 | s478-119.1 | Yea | N | — |
+| 2025-08-01 | s477-119.1 | Yea | N | — |
+| 2025-08-01 | s476-119.1 | Yea | N | — |
+| 2025-07-01 | s360-119.1 | Yea | N | — |
+| 2025-07-01 | s355-119.1 | Yea | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

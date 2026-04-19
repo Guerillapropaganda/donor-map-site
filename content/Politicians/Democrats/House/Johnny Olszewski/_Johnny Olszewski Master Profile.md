@@ -69,8 +69,8 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
 | 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
-| 2025-03-11 | h71-119.1 | Yea | N | HJRES 25 |
 | 2025-03-11 | h68-119.1 | Yea | N | HR 1156 |
+| 2025-03-11 | h71-119.1 | Yea | N | HJRES 25 |
 | 2025-02-06 | h33-119.1 | Yea | N | HR 27 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*

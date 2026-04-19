@@ -126,11 +126,11 @@ editorial-notes: "[RC 2026-04-18] Reviewed for launch-50 pass. Editorial section
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| July 1, 20 | s355-119.1 | Yea | N | — |
-| July 1, 20 | s360-119.1 | Yea | N | — |
-| February 2 | s77-119.1 | Yea | N | — |
-| August 1,  | s478-119.1 | Yea | N | — |
-| August 1,  | s477-119.1 | Yea | N | — |
+| 2025-08-01 | s478-119.1 | Yea | N | — |
+| 2025-08-01 | s477-119.1 | Yea | N | — |
+| 2025-07-01 | s360-119.1 | Yea | N | — |
+| 2025-07-01 | s355-119.1 | Yea | N | — |
+| 2025-02-21 | s77-119.1 | Yea | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
