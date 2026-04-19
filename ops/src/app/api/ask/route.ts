@@ -203,31 +203,75 @@ function loadBlurb(profilePath: string | undefined): string {
   }
 }
 
+// Read a tiny set of frontmatter fields off the profile file directly.
+// Cheaper than loading the whole YAML; just regex.
+const _fmCache = new Map<string, { nonprofit_status?: string; committee_id?: string; entity_type_fm?: string }>()
+function loadFmSignals(profilePath: string | undefined): { nonprofit_status?: string; committee_id?: string; entity_type_fm?: string } {
+  if (!profilePath) return {}
+  if (_fmCache.has(profilePath)) return _fmCache.get(profilePath)!
+  try {
+    const abs = path.join(REPO_ROOT, profilePath)
+    if (!fs.existsSync(abs)) return {}
+    const text = fs.readFileSync(abs, "utf-8")
+    const m = text.match(/^---\n([\s\S]*?)\n---/)
+    if (!m) { _fmCache.set(profilePath, {}); return {} }
+    const fm = m[1]
+    const ns = fm.match(/\bnonprofit-status:\s*["']?([^"'\n]+)["']?/)?.[1]?.trim()
+    const ci = fm.match(/\b(?:committee-id|fec-committee-id|fec-cmte-id):\s*["']?([A-Z0-9]+)["']?/)?.[1]
+    const et = fm.match(/\bentity-type:\s*["']?([^"'\n]+)["']?/)?.[1]?.trim()
+    const out = { nonprofit_status: ns, committee_id: ci, entity_type_fm: et }
+    _fmCache.set(profilePath, out)
+    return out
+  } catch {
+    return {}
+  }
+}
+
 function explainEntity(name: string): EntityContext {
   const ent = findEntity(name)
   if (!ent) return { name, gloss: "(not in vault)" }
   const kind = ent.entity_type || "entity"
   const sector = (ent.signals as any)?.sector as string | undefined
   const ein = (ent.signals as any)?.ein as string | undefined
+  const fm = loadFmSignals(ent.profile_path)
   const classTags: string[] = []
   if (ent.capital_type) classTags.push(ent.capital_type)
   if (ent.ideological_function?.length) classTags.push(...ent.ideological_function)
 
-  // Known structural types for common intermediaries
+  // Structural type: nonprofit-status frontmatter is the authoritative
+  // signal (it's per-entity truth). Fall back to name heuristics for
+  // orgs without nonprofit-status (FEC-only committees, etc.), then to
+  // the vault's folder-derived sector.
   const lower = name.toLowerCase()
   let structural = ""
-  if (lower.includes("charitable fund") || lower.includes("philanthropy fund") || lower.includes("charitable gift fund") || lower.includes("donor advised") || lower.includes("endowment program")) {
+  const ns = (fm.nonprofit_status || "").toLowerCase()
+  const hasDAFMarker = lower.includes("charitable fund") || lower.includes("philanthropy fund") ||
+    lower.includes("charitable gift fund") || lower.includes("donor advised") || lower.includes("endowment program") ||
+    (fm.entity_type_fm || "").toLowerCase().includes("donor-advised")
+
+  if (hasDAFMarker) {
     structural = " Commercial donor-advised fund (DAF) — donor identities are obscured from the public; money enters from one donor, flows out under the DAF's name."
+  } else if (ns.includes("501(c)(4)") || ns.includes("501c4")) {
+    structural = " 501(c)(4) social-welfare org — can accept unlimited donations, is not required to publicly disclose donors. Classic dark-money structure."
+  } else if (ns.includes("501(c)(3)") || ns.includes("501c3")) {
+    structural = " 501(c)(3) public charity — donors are not publicly disclosed (except via grant disclosures by grant-makers on Schedule I)."
+  } else if (ns.includes("527") || /super pac/i.test(ns)) {
+    structural = " Super PAC / 527 — accepts unlimited donations but must disclose donors to the FEC."
+  } else if (fm.committee_id) {
+    structural = " FEC-registered political committee — donors are disclosed via FEC filings."
   } else if (lower.includes("foundation") && kind === "donor") {
     structural = " Tax-exempt foundation."
   } else if (sector && /dark money/i.test(sector)) {
-    structural = " Part of the 501(c)(4) dark-money network — donor identities are not required to be disclosed."
+    structural = " 501(c)(4) dark-money network entity — donor identities are not required to be disclosed."
   } else if (sector && /super pac/i.test(sector)) {
-    structural = " Super PAC (independent-expenditure committee) — accepts unlimited donations but must disclose them."
+    structural = " Super PAC / independent-expenditure committee — accepts unlimited donations, discloses donors to FEC."
   }
 
   const tagStr = classTags.length > 0 ? ` Class tags: ${classTags.join(", ")}.` : ""
-  const gloss = `${kind}${sector ? " (" + sector + ")" : ""}${ein ? ", EIN " + ein : ""}.${structural}${tagStr}`.trim()
+  const sectorForGloss = ns
+    ? ns // prefer nonprofit-status in the gloss header when we have it
+    : sector
+  const gloss = `${kind}${sectorForGloss ? " (" + sectorForGloss + ")" : ""}${ein ? ", EIN " + ein : ""}.${structural}${tagStr}`.trim()
   const blurb = loadBlurb(ent.profile_path)
   return { name, gloss, blurb: blurb || undefined }
 }
