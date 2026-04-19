@@ -154,6 +154,96 @@ const MANUAL_VEHICLE_MAP: Record<string, string[]> = {
   "Hakeem Jeffries": ["House Majority PAC", "HMP"],
 }
 
+// ─── Officer registry (IRS 990 Part VII) ─────────────────────────────
+// Loads data/officer-registry.jsonl lazily so "who's on the board of X"
+// queries have full 990 coverage (3,060 officers across all filings),
+// not just the 24 officer→org edges that survived strict exact-match
+// normalization into the canonical edge store.
+
+interface OfficerRegistryRow {
+  officer_name: string
+  officer_name_normalized: string
+  ein: string
+  filer_name: string
+  titles?: string[]
+  years?: number[]
+  compensation_total?: number
+  vault_entity_id?: string
+  vault_org_name?: string
+}
+
+let officerRegistryCache: OfficerRegistryRow[] | null = null
+function loadOfficerRegistry(): OfficerRegistryRow[] {
+  if (officerRegistryCache) return officerRegistryCache
+  const file = path.join(REPO_ROOT, "data", "officer-registry.jsonl")
+  if (!fs.existsSync(file)) {
+    officerRegistryCache = []
+    return officerRegistryCache
+  }
+  officerRegistryCache = fs
+    .readFileSync(file, "utf-8")
+    .split("\n")
+    .filter(Boolean)
+    .map((l) => { try { return JSON.parse(l) as OfficerRegistryRow } catch { return null } })
+    .filter((x): x is OfficerRegistryRow => !!x)
+  return officerRegistryCache
+}
+
+/**
+ * Look up the 990 officer registry. Returns rows shaped like affiliation
+ * edges so the caller can treat them uniformly. Matches:
+ *   intent=affiliations_to   (who's on the board of X) → filter by
+ *     filer_name / vault_org_name equals X
+ *   intent=affiliations_from (what boards does X sit on) → filter by
+ *     officer_name matching X
+ */
+function lookupOfficerRegistry(subject: string, intent: "affiliations_from" | "affiliations_to"): Array<Record<string, unknown>> {
+  if (!subject) return []
+  const registry = loadOfficerRegistry()
+  const lc = subject.toLowerCase().trim()
+  const out: Array<Record<string, unknown>> = []
+  if (intent === "affiliations_to") {
+    // Match by org name — filer_name (as recorded on the 990) or the
+    // normalized vault_org_name the ingest attached.
+    for (const r of registry) {
+      const filer = (r.filer_name || "").toLowerCase()
+      const vaultOrg = (r.vault_org_name || "").toLowerCase()
+      if (filer === lc || vaultOrg === lc) {
+        out.push({
+          type: "affiliation",
+          from: r.officer_name,
+          to: r.vault_org_name || r.filer_name,
+          role: (r.titles && r.titles[0]) || "officer",
+          titles: r.titles,
+          years: r.years,
+          compensation: r.compensation_total || 0,
+          source: "irs-990-officer-registry",
+          ein: r.ein,
+        })
+      }
+    }
+  } else {
+    // Match by officer name — registry stores uppercase normalized name.
+    const needle = subject.toUpperCase().replace(/[.,]/g, "").replace(/\s+/g, " ").trim()
+    for (const r of registry) {
+      if (r.officer_name_normalized === needle || r.officer_name.toUpperCase() === needle) {
+        out.push({
+          type: "affiliation",
+          from: r.officer_name,
+          to: r.vault_org_name || r.filer_name,
+          role: (r.titles && r.titles[0]) || "officer",
+          titles: r.titles,
+          years: r.years,
+          compensation: r.compensation_total || 0,
+          source: "irs-990-officer-registry",
+          ein: r.ein,
+        })
+      }
+    }
+  }
+  return out
+}
+
 /**
  * Given an entity name, return the names of *vehicles they control* — PACs,
  * foundations, DAFs, and donor networks. Combines a hand-curated map
@@ -855,6 +945,13 @@ async function handleSummary(c: ClassifiedQuestion, question: string, engine: an
   const oppoTotal = oppoEdges.filter((e: any) => e.amount).reduce((a: number, e: any) => a + Number(e.amount), 0)
   const affiliations_from = await engine.query({ subject: "edges", filters: { from: name, type: "affiliation" }, limit: 20 })
   const affiliations_to = await engine.query({ subject: "edges", filters: { to: name, type: "affiliation" }, limit: 20 })
+  // Pull additional affiliations from the 990 officer registry so the
+  // summary shows board/officer relationships even when no edge was
+  // minted (only 24 survived strict name-match ingest). "Tell me about
+  // Marble Freedom Trust" will now list its officers even if none of
+  // them exist as vault-side person entities yet.
+  const regOfficers = lookupOfficerRegistry(name, "affiliations_to")
+  const regBoards = lookupOfficerRegistry(name, "affiliations_from")
 
   const topIn = [...(inflows.rows || [])]
     .filter((e: any) => e.amount)
@@ -868,19 +965,26 @@ async function handleSummary(c: ClassifiedQuestion, question: string, engine: an
     .slice(0, 5)
     .map((e: any) => ({ kind: "top-recipient", from: name, to: e.to, amount: e.amount, cycle: e.cycle, source: e.source }))
 
-  const boards = [...(affiliations_from.rows || [])].slice(0, 10).map((e: any) => ({
+  const boardsCombined = [...(affiliations_from.rows || []), ...regBoards]
+  const officersCombined = [...(affiliations_to.rows || []), ...regOfficers]
+  const boards = boardsCombined.slice(0, 10).map((e: any) => ({
     kind: "board-seat",
     from: name,
     to: e.to,
-    role: e.role,
+    role: e.role || (Array.isArray(e.titles) ? e.titles[0] : undefined),
     date_range: e.date_range,
+    years: e.years,
+    source: e.source,
   }))
-  const officers = [...(affiliations_to.rows || [])].slice(0, 10).map((e: any) => ({
+  const officers = officersCombined.slice(0, 10).map((e: any) => ({
     kind: "officer",
     from: e.from,
     to: name,
-    role: e.role,
+    role: e.role || (Array.isArray(e.titles) ? e.titles[0] : undefined),
     date_range: e.date_range,
+    years: e.years,
+    compensation: e.compensation,
+    source: e.source,
   }))
 
   const classTags: string[] = []
@@ -1392,17 +1496,65 @@ async function handleQuestion(question: string): Promise<AskResult> {
     const name = resolveTitle(c.subjectName as string)
     const side = c.intent === "affiliations_from" ? "from" : "to"
     const r = await engine.query({ subject: "edges", filters: { [side]: name.title, type: "affiliation" }, limit: 50 })
+
+    // Fall back to the officer-registry (data/officer-registry.jsonl,
+    // 3,060 rows built from IRS 990 Part VII) when edge coverage is thin.
+    // Only 24 officer→org affiliation EDGES exist today because exact
+    // name-matching with vault person profiles is very strict. The
+    // officer registry has the full raw officer data — querying it
+    // directly unlocks "who's on the board of Marble Freedom Trust"
+    // answers even when no vault-side person entity exists.
+    const registryRows = lookupOfficerRegistry(name.title, c.intent)
+    const combinedRows: any[] = [...(r.rows || []), ...registryRows]
+    const totalCount = r.total + registryRows.length
+
+    const bullets: string[] = []
+    if (c.intent === "affiliations_to") {
+      // Sort by compensation desc (named leaders first), then by role
+      const sorted = [...combinedRows].sort((a: any, b: any) => {
+        const ca = Number(a.compensation ?? a.compensation_total ?? 0)
+        const cb = Number(b.compensation ?? b.compensation_total ?? 0)
+        return cb - ca
+      }).slice(0, 15)
+      for (const e of sorted) {
+        const who = e.from || e.officer_name || "unknown"
+        const role = e.role || (Array.isArray(e.titles) ? e.titles[0] : "") || "officer"
+        const years = Array.isArray(e.years) && e.years.length
+          ? ` (${e.years[0]}–${e.years[e.years.length - 1]})`
+          : e.date_range ? ` (${e.date_range.slice(0, 4)})` : ""
+        const comp = Number(e.compensation ?? e.compensation_total ?? 0)
+        const compStr = comp > 0 ? ` · ${fmtUsd(comp)} comp` : ""
+        bullets.push(`${who} — ${role}${years}${compStr}`)
+      }
+    } else {
+      // affiliations_from: boards this person sits on
+      const sorted = [...combinedRows].slice(0, 15)
+      for (const e of sorted) {
+        const org = e.to || e.filer_name || e.vault_org_name || "unknown"
+        const role = e.role || (Array.isArray(e.titles) ? e.titles[0] : "") || "officer"
+        const years = Array.isArray(e.years) && e.years.length
+          ? ` (${e.years[0]}–${e.years[e.years.length - 1]})`
+          : ""
+        bullets.push(`${org} — ${role}${years}`)
+      }
+    }
+
     return finalize({
       question,
       intent: c.intent,
       resolved_title: name.title,
       did_you_mean: name.candidates.slice(0, 5),
-      total: r.total,
-      rows: r.rows,
+      total: totalCount,
+      rows: combinedRows.slice(0, 50),
+      answer:
+        c.intent === "affiliations_from"
+          ? `**${name.title}** sits on **${totalCount}** board${totalCount === 1 ? "" : "s"} (per IRS 990 officer filings + vault affiliation edges).`
+          : `**${totalCount}** officer${totalCount === 1 ? "" : "s"} recorded on **${name.title}**'s board (per IRS 990 officer filings + vault affiliation edges).`,
+      bullets,
       summary:
         c.intent === "affiliations_from"
-          ? `${name.title} appears as officer on ${r.total} board(s)`
-          : `${r.total} officer(s) recorded on ${name.title}'s board`,
+          ? `${r.total} vault-tracked affiliation edge${r.total === 1 ? "" : "s"} + ${registryRows.length} officer-registry hit${registryRows.length === 1 ? "" : "s"}.`
+          : `${r.total} vault-tracked officer${r.total === 1 ? "" : "s"} + ${registryRows.length} additional 990 officer${registryRows.length === 1 ? "" : "s"}.`,
     })
   }
   if (c.intent === "grants_from") {
@@ -1637,6 +1789,28 @@ export async function POST(req: NextRequest) {
   // (e.g. follow-up chips that echo an earlier question) should not
   // re-walk 75K edges. TTL is short (5 min) because the edge store is
   // mutable — a classify-ie-edges run or ingest should invalidate.
+  // Bust the cache whenever underlying data changes on disk. Without
+  // this, cached answers + in-memory store caches serve stale results
+  // for up to 5 min after an ingest / classifier / reclassification
+  // run. Check the mtime of relationships.jsonl, entities.jsonl, and
+  // officer-registry.jsonl against the last-seen mtime; if any is
+  // newer, invalidate all caches. Cheap stat() per request.
+  try {
+    let maxMtime = 0
+    for (const rel of ["data/relationships.jsonl", "data/entities.jsonl", "data/officer-registry.jsonl"]) {
+      try {
+        const stat = fs.statSync(path.join(REPO_ROOT, rel))
+        if (stat.mtimeMs > maxMtime) maxMtime = stat.mtimeMs
+      } catch {}
+    }
+    if (maxMtime > ASK_CACHE_LAST_DATA_MTIME) {
+      ASK_CACHE.clear()
+      entitiesCache = null
+      officerRegistryCache = null
+      ASK_CACHE_LAST_DATA_MTIME = maxMtime
+    }
+  } catch {}
+
   const cacheKey = question.toLowerCase().replace(/\s+/g, " ").trim()
   const cached = ASK_CACHE.get(cacheKey)
   if (cached && Date.now() - cached.at < ASK_CACHE_TTL_MS) {
@@ -1662,3 +1836,4 @@ export async function POST(req: NextRequest) {
 const ASK_CACHE_TTL_MS = 5 * 60 * 1000
 const ASK_CACHE_MAX = 500
 const ASK_CACHE = new Map<string, { at: number; result: any }>()
+let ASK_CACHE_LAST_DATA_MTIME = 0
