@@ -32,7 +32,7 @@ stock-trade-tickers:
   - ABT
   - IIN
   - ENTL
-donors: "[[ActBlue]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Teamsters - International Brotherhood of Teamsters]], [[AT&T - WarnerMedia]], [[Demand Justice]], [[National Association of Realtors]], [[Citigroup]], [[Planned Parenthood Votes]], [[CVS Health - Aetna]], [[American Federation of State County & Municipal Employees P E O P L E]], [[BAE Systems]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Planned Parenthood of Minnesota Political Action Fund]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[SEIU COPE]]"
+donors: "[[ActBlue]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Teamsters - International Brotherhood of Teamsters]], [[AT&T - WarnerMedia]], [[Demand Justice]], [[National Association of Realtors]], [[Citigroup]], [[Planned Parenthood Votes]], [[CVS Health - Aetna]], [[American Federation of State County & Municipal Employees P E O P L E]], [[BAE Systems]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Planned Parenthood of Minnesota Political Action Fund]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[SEIU COPE]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[AT&T]], [[Minnesota Democratic-Farmer-Labor Party]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: S8MN00578
 bills-sponsored: 70

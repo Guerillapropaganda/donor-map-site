@@ -16,7 +16,7 @@ urls-first-triaged: "2026-04-15"
 employee-contributions: 245
 employee-contributions-total: 44502
 employee-donor-count: 75
-politicians-funded: "[[ActBlue]], [[_Bonnie Watson Coleman Master Profile]], [[Emily's List]], [[DCCC - Democratic Congressional Campaign Committee]], [[Catherine Cortez Masto]], [[_Tammy Baldwin Master Profile]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[WinSenate]], [[_Kamala Harris Master Profile]], [[_Jon Ossoff Master Profile]], [[Working Families Party PAC]], [[Jon Ossoff]], [[Bonnie Watson Coleman]], [[Tammy Baldwin]], [[Kamala Harris]]"
+politicians-funded: "[[ActBlue]], [[_Bonnie Watson Coleman Master Profile]], [[Emily's List]], [[DCCC - Democratic Congressional Campaign Committee]], [[Catherine Cortez Masto]], [[_Tammy Baldwin Master Profile]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[WinSenate]], [[_Kamala Harris Master Profile]], [[_Jon Ossoff Master Profile]], [[Working Families Party PAC]], [[Jon Ossoff]], [[Bonnie Watson Coleman]], [[Tammy Baldwin]], [[Kamala Harris]], [[Minnesota Democratic-Farmer-Labor Party]]"
 ---
 
 

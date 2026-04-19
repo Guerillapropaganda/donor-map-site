@@ -12,7 +12,7 @@ aliases:
   - MISSISSIPPI REPUBLICAN PARTY
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
-politicians-funded: "[[Roger Wicker]], [[MISSISSIPPI REPUBLICAN PARTY]]"
+politicians-funded: "[[Roger Wicker]], [[MISSISSIPPI REPUBLICAN PARTY]], [[Mississippi Republican Party]]"
 related: "[[Roger Wicker]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

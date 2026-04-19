@@ -24,7 +24,7 @@ known-gaps:
   - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4WA05234
-top-donors: "[[National Rifle Association]], [[Tyson Foods]], [[Chevron]], [[National Association of Realtors]], [[Walmart - Walton Family]], [[Puget Sound Energy INC PAC for Good Government]], [[Comcast - NBCUniversal]], [[AIPAC - American Israel Public Affairs Committee]], [[Jim Jordan]], [[Associated General Contractors of America Political Action Committee]], [[Microsoft]], [[Honeywell]], [[National Cattlemen's Beef Association]], [[Troy Downing]], [[AT&T - WarnerMedia]], [[National Restaurant Association]], [[MAJORITY PAC]], [[General Dynamics]], [[American Hospital Association PAC]]"
+top-donors: "[[National Rifle Association]], [[Tyson Foods]], [[Chevron]], [[National Association of Realtors]], [[Walmart - Walton Family]], [[Puget Sound Energy INC PAC for Good Government]], [[Comcast - NBCUniversal]], [[AIPAC - American Israel Public Affairs Committee]], [[Jim Jordan]], [[Associated General Contractors of America Political Action Committee]], [[Microsoft]], [[Honeywell]], [[National Cattlemen's Beef Association]], [[Troy Downing]], [[AT&T - WarnerMedia]], [[National Restaurant Association]], [[MAJORITY PAC]], [[General Dynamics]], [[American Hospital Association PAC]], [[AT&T]], [[Honeywell International]], [[Majority PAC]]"
 ---
 
 

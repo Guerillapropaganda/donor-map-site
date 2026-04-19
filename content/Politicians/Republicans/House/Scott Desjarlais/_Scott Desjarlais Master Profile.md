@@ -28,7 +28,7 @@ bills-sponsored: 4
 bills-cosponsored: 146
 bills-enacted: 0
 top-policy-area: Armed Forces and National Security
-top-donors: "[[Lockheed Martin]], [[AIPAC - American Israel Public Affairs Committee]], [[National Rifle Association]], [[MAJORITY PAC]], [[Leidos]], [[Jim Jordan]], [[WinRed]], [[BAE Systems]], [[National Association of Realtors]], [[National Cattlemen's Beef Association]], [[Honeywell]], [[Raytheon (RTX)]], [[L3Harris Technologies]], [[General Dynamics]], [[Northrop Grumman]]"
+top-donors: "[[Lockheed Martin]], [[AIPAC - American Israel Public Affairs Committee]], [[National Rifle Association]], [[MAJORITY PAC]], [[Leidos]], [[Jim Jordan]], [[WinRed]], [[BAE Systems]], [[National Association of Realtors]], [[National Cattlemen's Beef Association]], [[Honeywell]], [[Raytheon (RTX)]], [[L3Harris Technologies]], [[General Dynamics]], [[Northrop Grumman]], [[Honeywell International]], [[Majority PAC]]"
 ---
 
 

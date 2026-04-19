@@ -53,7 +53,7 @@ federal-grants-total: 7315343
 employee-contributions: 149
 employee-contributions-total: 46842
 employee-donor-count: 53
-politicians-funded: "[[_Ron Johnson Master Profile]], [[NRCC - National Republican Congressional Committee]], [[ActBlue]], [[RNC - Republican National Committee]], [[WinRed]], [[Catherine Cortez Masto]], [[_Darren Soto Master Profile]], [[JUSTICE DEMOCRATS PAC]], [[_Jim Jordan Master Profile]], [[_Marco Rubio Master Profile]], [[_Elissa Slotkin Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Trump Victory]], [[_Virginia Foxx Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[_John James Master Profile]], [[Marco Rubio]], [[Ron Johnson]], [[Darren Soto]], [[Elissa Slotkin]], [[Virginia Foxx]], [[Jim Jordan]], [[John James]]"
+politicians-funded: "[[_Ron Johnson Master Profile]], [[NRCC - National Republican Congressional Committee]], [[ActBlue]], [[RNC - Republican National Committee]], [[WinRed]], [[Catherine Cortez Masto]], [[_Darren Soto Master Profile]], [[JUSTICE DEMOCRATS PAC]], [[_Jim Jordan Master Profile]], [[_Marco Rubio Master Profile]], [[_Elissa Slotkin Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Trump Victory]], [[_Virginia Foxx Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[_John James Master Profile]], [[Marco Rubio]], [[Ron Johnson]], [[Darren Soto]], [[Elissa Slotkin]], [[Virginia Foxx]], [[Jim Jordan]], [[John James]], [[Justice Democrats PAC]]"
 ---
 
 

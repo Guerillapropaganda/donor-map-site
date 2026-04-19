@@ -27,7 +27,7 @@ bills-sponsored: 38
 bills-cosponsored: 251
 bills-enacted: 1
 top-policy-area: Health
-top-donors: "[[CVS Health - Aetna]], [[US CHAMBER OF COMMERCE]], [[NextEra Energy]], [[Microsoft]], [[Morgan Stanley]], [[Ballard Partners]], [[Blackstone Group]], [[Fanjul Family - Florida Crystals]], [[National Multifamily Housing Council]], [[McDonalds Corporation]]"
+top-donors: "[[CVS Health - Aetna]], [[US CHAMBER OF COMMERCE]], [[NextEra Energy]], [[Microsoft]], [[Morgan Stanley]], [[Ballard Partners]], [[Blackstone Group]], [[Fanjul Family - Florida Crystals]], [[National Multifamily Housing Council]], [[McDonalds Corporation]], [[US Chamber of Commerce]]"
 ---
 
 

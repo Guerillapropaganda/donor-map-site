@@ -27,7 +27,7 @@ bills-sponsored: 20
 bills-cosponsored: 165
 bills-enacted: 0
 top-policy-area: Government Operations and Politics
-top-donors: "[[Google - Alphabet]], [[Ripple]], [[Amazon]], [[Uber]], [[Kaiser Permanente]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[McDonalds Corporation]], [[Wells Fargo]], [[Boeing]], [[Citadel - Kenneth Griffin]], [[PG&E]], [[Verizon]], [[a16z - Andreessen Horowitz]], [[Meta - Facebook]], [[Bank of America]], [[Blackstone Group]], [[PG&E - Pacific Gas and Electric]], [[US CHAMBER OF COMMERCE]], [[Nvidia]], [[Apple]], [[Coinbase]], [[CoreCivic]], [[Lyft]], [[Northrop Grumman]], [[ADM - Archer Daniels Midland]], [[Instacart]], [[News Corp - Fox Corporation]], [[Tesla - Elon Musk Political Operation]], [[Monsanto - Bayer]]"
+top-donors: "[[Google - Alphabet]], [[Ripple]], [[Amazon]], [[Uber]], [[Kaiser Permanente]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[McDonalds Corporation]], [[Wells Fargo]], [[Boeing]], [[Citadel - Kenneth Griffin]], [[PG&E]], [[Verizon]], [[a16z - Andreessen Horowitz]], [[Meta - Facebook]], [[Bank of America]], [[Blackstone Group]], [[PG&E - Pacific Gas and Electric]], [[US CHAMBER OF COMMERCE]], [[Nvidia]], [[Apple]], [[Coinbase]], [[CoreCivic]], [[Lyft]], [[Northrop Grumman]], [[ADM - Archer Daniels Midland]], [[Instacart]], [[News Corp - Fox Corporation]], [[Tesla - Elon Musk Political Operation]], [[Monsanto - Bayer]], [[US Chamber of Commerce]]"
 ---
 
 

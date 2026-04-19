@@ -28,7 +28,7 @@ bills-sponsored: 47
 bills-cosponsored: 353
 bills-enacted: 1
 top-policy-area: Crime and Law Enforcement
-top-donors: "[[Chevron]], [[Ralph Norman]], [[WinRed]], [[American Chemistry Council, INC]], [[AIPAC - American Israel Public Affairs Committee]], [[AT&T - WarnerMedia]], [[National Rifle Association]], [[MAJORITY PAC]], [[Valero Energy]], [[Save America PAC]], [[National Association of Realtors]], [[Andy Harris]], [[General Dynamics]], [[Elbert Guillory's America]], [[L3Harris Technologies]], [[Jim Jordan]], [[Ben Cline]], [[Really American Pac]]"
+top-donors: "[[Chevron]], [[Ralph Norman]], [[WinRed]], [[American Chemistry Council, INC]], [[AIPAC - American Israel Public Affairs Committee]], [[AT&T - WarnerMedia]], [[National Rifle Association]], [[MAJORITY PAC]], [[Valero Energy]], [[Save America PAC]], [[National Association of Realtors]], [[Andy Harris]], [[General Dynamics]], [[Elbert Guillory's America]], [[L3Harris Technologies]], [[Jim Jordan]], [[Ben Cline]], [[Really American Pac]], [[Majority PAC]], [[AT&T]]"
 ---
 
 

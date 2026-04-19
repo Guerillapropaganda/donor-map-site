@@ -3,16 +3,16 @@ title: Tim Walz
 type: politician
 content-readiness: ready
 central-thesis: "Walz's authenticity is genuine: he taught school, coached football, served in the National Guard, and built Minnesota Democratic politics through labor union relationships rather than Wall Street finance. The question is whether this authenticity ..."
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Democrat
 chamber: Governor
 state: Minnesota
 state-abbr: MN
-total-received: "$113,151"
-fec-candidate-id: "H6MN01174"
-donors: "[[Democracy Alliance]] · [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]] · [[SEIU COPE]] · [[BLUEGREEN ALLIANCE]] · [[Freedom Club Federal PAC]] · [[Bluegreen Alliance]]"
+total-received: $113,151
+fec-candidate-id: H6MN01174
+donors: "[[Democracy Alliance]] · [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]] · [[SEIU COPE]] · [[BLUEGREEN ALLIANCE]] · [[Freedom Club Federal PAC]] · [[Bluegreen Alliance]] · [[DCCC - Democratic Congressional Campaign Committee]]"
 wikidata-id: Q2434360
 last-enriched: "2026-04-18"
 needs-reenrichment: true

@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Dark Money
 entity-type: Individual Donor
-politicians-funded: "[[Jim Risch]], [[Jodey Arrington]], [[Donna Miller]], [[Stephen Miller]], [[_Jim Jordan Master Profile]], [[WinRed]], [[Trump Victory]], [[Alliance Defending Freedom]], [[FreedomWorks for America]], [[NRCC - National Republican Congressional Committee]], [[Club for Growth]], [[_Marco Rubio Master Profile]], [[_Cory Mills Master Profile]], [[MAGA Inc]], [[_Ralph Norman Master Profile]], [[_Ron Johnson Master Profile]], [[_Josh Hawley Master Profile]], [[RNC - Republican National Committee]], [[NRSC - National Republican Senatorial Committee]], [[REPUBLICAN PARTY OF FLORIDA]], [[_Tim Scott Master Profile]], [[_Ted Cruz Master Profile]], [[Ron Johnson]], [[Ralph Norman]], [[Marco Rubio]], [[Ted Cruz]], [[Jim Jordan]], [[Josh Hawley]], [[Cory Mills]], [[Tim Scott]]"
+politicians-funded: "[[Jim Risch]], [[Jodey Arrington]], [[Donna Miller]], [[Stephen Miller]], [[_Jim Jordan Master Profile]], [[WinRed]], [[Trump Victory]], [[Alliance Defending Freedom]], [[FreedomWorks for America]], [[NRCC - National Republican Congressional Committee]], [[Club for Growth]], [[_Marco Rubio Master Profile]], [[_Cory Mills Master Profile]], [[MAGA Inc]], [[_Ralph Norman Master Profile]], [[_Ron Johnson Master Profile]], [[_Josh Hawley Master Profile]], [[RNC - Republican National Committee]], [[NRSC - National Republican Senatorial Committee]], [[REPUBLICAN PARTY OF FLORIDA]], [[_Tim Scott Master Profile]], [[_Ted Cruz Master Profile]], [[Ron Johnson]], [[Ralph Norman]], [[Marco Rubio]], [[Ted Cruz]], [[Jim Jordan]], [[Josh Hawley]], [[Cory Mills]], [[Tim Scott]], [[Republican Party of Florida]]"
 issues:
   - Dark Money & Campaign Finance
 ein: "237327730"

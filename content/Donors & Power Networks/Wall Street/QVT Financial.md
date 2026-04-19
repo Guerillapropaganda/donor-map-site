@@ -48,7 +48,7 @@ founded: "2003-01-01"
 employee-contributions: 21
 employee-contributions-total: 62112
 employee-donor-count: 16
-politicians-funded: "[[MAJORITY PAC]], [[_Josh Riley Master Profile]], [[ActBlue]], [[_Ted Lieu Master Profile]], [[_Ted Cruz Master Profile]], [[WinRed]], [[_Don Bacon Master Profile]], [[_George Latimer Master Profile]], [[Ted Cruz]], [[Josh Riley]], [[Ted Lieu]], [[George Latimer]], [[Don Bacon]]"
+politicians-funded: "[[MAJORITY PAC]], [[_Josh Riley Master Profile]], [[ActBlue]], [[_Ted Lieu Master Profile]], [[_Ted Cruz Master Profile]], [[WinRed]], [[_Don Bacon Master Profile]], [[_George Latimer Master Profile]], [[Ted Cruz]], [[Josh Riley]], [[Ted Lieu]], [[George Latimer]], [[Don Bacon]], [[Majority PAC]]"
 ---
 
 

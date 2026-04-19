@@ -22,7 +22,7 @@ presidential-memoranda: 131
 proclamations: 942
 last-enriched: "2026-04-10"
 opposes: "[[DNC SERVICES CORPORATION/DEMOCRATIC NATIONAL COMMITTEE]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]] · [[NRA POLITICAL VICTORY FUND]]"
-donors: "[[REPUBLICAN NATIONAL COMMITTEE]] · [[REPUBLICAN PARTY OF FLORIDA]] · [[NRA Political Victory Fund]] · [[Republican Party of Florida]]"
+donors: "[[REPUBLICAN NATIONAL COMMITTEE]] · [[REPUBLICAN PARTY OF FLORIDA]] · [[NRA Political Victory Fund]] · [[Republican Party of Florida]] · [[RNC - Republican National Committee]]"
 wikidata-id: Q207
 wikipedia-url: https://en.wikipedia.org/wiki/George_W._Bush
 wikipedia-extract: George Walker Bush is an American politician, businessman, and former United States Air Force officer who was the 43rd president of the United States, serving from 2001 to 2009.

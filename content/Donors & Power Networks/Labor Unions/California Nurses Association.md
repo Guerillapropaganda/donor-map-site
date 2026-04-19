@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Labor Unions
 entity-type: Individual Donor
-politicians-funded: "[[Gavin Newsom]], [[Jeff Merkley]], [[Eric Swalwell]], [[Mike Lee]], [[Maxine Waters]], [[Sherrod Brown]], [[Barbara Lee]], [[National Nurses United]], [[_Jon Ossoff Master Profile]], [[ActBlue]], [[JUSTICE DEMOCRATS PAC]], [[MoveOn.org Political Action]], [[_Cori Bush Master Profile]], [[Progressive Turnout Project]], [[Cori Bush]], [[Jon Ossoff]]"
+politicians-funded: "[[Gavin Newsom]], [[Jeff Merkley]], [[Eric Swalwell]], [[Mike Lee]], [[Maxine Waters]], [[Sherrod Brown]], [[Barbara Lee]], [[National Nurses United]], [[_Jon Ossoff Master Profile]], [[ActBlue]], [[JUSTICE DEMOCRATS PAC]], [[MoveOn.org Political Action]], [[_Cori Bush Master Profile]], [[Progressive Turnout Project]], [[Cori Bush]], [[Jon Ossoff]], [[Justice Democrats PAC]]"
 issues:
   - Healthcare
   - Labor & Workers

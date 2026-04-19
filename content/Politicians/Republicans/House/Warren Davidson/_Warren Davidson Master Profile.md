@@ -28,7 +28,7 @@ bills-sponsored: 39
 bills-cosponsored: 181
 bills-enacted: 0
 top-policy-area: Finance and Financial Sector
-top-donors: "[[Coinbase]], [[National Right to Life Victory Fund]], [[Jim Jordan]], [[Morgan Stanley]], [[National Association of Realtors]], [[National Rifle Association]], [[National Rental Home Council]], [[AT&T - WarnerMedia]], [[Citigroup]], [[JPAC - Jewish Public Affairs Committee of California]], [[WinRed]], [[Duke Energy]], [[Save America PAC]], [[General Dynamics]], [[MAJORITY PAC]], [[Chevron]], [[Bank of America]], [[National Multifamily Housing Council]]"
+top-donors: "[[Coinbase]], [[National Right to Life Victory Fund]], [[Jim Jordan]], [[Morgan Stanley]], [[National Association of Realtors]], [[National Rifle Association]], [[National Rental Home Council]], [[AT&T - WarnerMedia]], [[Citigroup]], [[JPAC - Jewish Public Affairs Committee of California]], [[WinRed]], [[Duke Energy]], [[Save America PAC]], [[General Dynamics]], [[MAJORITY PAC]], [[Chevron]], [[Bank of America]], [[National Multifamily Housing Council]], [[AT&T]], [[Majority PAC]]"
 ---
 
 

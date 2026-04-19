@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Mega-Donors
 entity-type: Individual Donor
-politicians-funded: "[[Barack Obama]], [[Emily's List]], [[Reclaim America PAC]], [[_Cory Booker Master Profile]], [[ActBlue]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Marco Rubio Master Profile]], [[Mark Kelly]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Lauren Underwood Master Profile]], [[Human Rights Campaign Equality Votes]], [[_Susie Lee Master Profile]], [[Let America Vote PAC]], [[_Josh Riley Master Profile]], [[PRIORITIES USA ACTION]], [[_Jon Ossoff Master Profile]], [[WinSenate]], [[Cory Booker]], [[Lauren Underwood]], [[Josh Riley]], [[Susie Lee]], [[Jon Ossoff]], [[Marco Rubio]]"
+politicians-funded: "[[Barack Obama]], [[Emily's List]], [[Reclaim America PAC]], [[_Cory Booker Master Profile]], [[ActBlue]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Marco Rubio Master Profile]], [[Mark Kelly]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Lauren Underwood Master Profile]], [[Human Rights Campaign Equality Votes]], [[_Susie Lee Master Profile]], [[Let America Vote PAC]], [[_Josh Riley Master Profile]], [[PRIORITIES USA ACTION]], [[_Jon Ossoff Master Profile]], [[WinSenate]], [[Cory Booker]], [[Lauren Underwood]], [[Josh Riley]], [[Susie Lee]], [[Jon Ossoff]], [[Marco Rubio]], [[Priorities USA Action]]"
 sec-filings: 7626
 sec-form-types:
   - 10-Q

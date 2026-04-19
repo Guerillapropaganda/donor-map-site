@@ -24,7 +24,7 @@ epa-states: NC, NJ, NY
 employee-contributions: 62
 employee-contributions-total: 67005
 employee-donor-count: 23
-politicians-funded: "[[ActBlue]], [[RNC - Republican National Committee]], [[_Marco Rubio Master Profile]], [[MoveOn.org Political Action]], [[NRSC - National Republican Senatorial Committee]], [[MAGA Inc]], [[MAJORITY PAC]], [[REPUBLICAN PARTY OF FLORIDA]], [[Marco Rubio]]"
+politicians-funded: "[[ActBlue]], [[RNC - Republican National Committee]], [[_Marco Rubio Master Profile]], [[MoveOn.org Political Action]], [[NRSC - National Republican Senatorial Committee]], [[MAGA Inc]], [[MAJORITY PAC]], [[REPUBLICAN PARTY OF FLORIDA]], [[Marco Rubio]], [[Majority PAC]], [[Republican Party of Florida]]"
 ---
 
 

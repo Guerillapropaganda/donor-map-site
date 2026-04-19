@@ -28,7 +28,7 @@ last-enriched: "2026-04-10"
 total-received: $7,693,038
 fec-candidate-id: H2OH11151
 top-donors: "[[Wfp Ie Committee]] · [[THE DEMOCRATIC ACTION PAC]] · [[The Democratic Action PAC]]"
-donors: "[[The Democratic Action PAC]] · [[Wfp Ie Committee]] · [[THE DEMOCRATIC ACTION PAC]] · [[Mainstream Democrats Pac]] · [[Medicare for All - The Policy That Broke the Party]] · [[United Democracy Project - UDP]] · [[Jamie Raskin]] · [[DMFI - Democratic Majority for Israel]] · [[Congressional Progressive Caucus PAC]] · [[MoveOn.org Political Action]] · [[Courage to Change PAC]] · [[National Nurses United for Patient Protection]] · [[National Nurses United]] · [[Sierra Club Independent Action]] · [[Rashida Tlaib]] · [[JUSTICE DEMOCRATS PAC]] · [[SEIU COPE]] · [[Working Families Party PAC]]"
+donors: "[[The Democratic Action PAC]] · [[Wfp Ie Committee]] · [[THE DEMOCRATIC ACTION PAC]] · [[Mainstream Democrats Pac]] · [[Medicare for All - The Policy That Broke the Party]] · [[United Democracy Project - UDP]] · [[Jamie Raskin]] · [[DMFI - Democratic Majority for Israel]] · [[Congressional Progressive Caucus PAC]] · [[MoveOn.org Political Action]] · [[Courage to Change PAC]] · [[National Nurses United for Patient Protection]] · [[National Nurses United]] · [[Sierra Club Independent Action]] · [[Rashida Tlaib]] · [[JUSTICE DEMOCRATS PAC]] · [[SEIU COPE]] · [[Working Families Party PAC]] · [[Justice Democrats PAC]]"
 urls-first-triaged: "2026-04-15"
 ---
 

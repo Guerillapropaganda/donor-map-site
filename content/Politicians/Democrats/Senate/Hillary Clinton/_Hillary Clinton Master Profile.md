@@ -26,7 +26,7 @@ total-received: $7,102,485
 fec-candidate-id: S0NY00188
 bioguide-id: C001041
 last-enriched: "2026-04-11"
-donors: "[[Entertainment and Hollywood Donors]] · [[UNITED ASSOCIATION POLITICAL EDUCATION COMMITTEE (UNITED ASSOCIATION OF JOURNEYMEN AND APPRENTICES OF THE PLUMBING & PIPEFITTING INDUSTRY OF THE UNITED STATES AND CANADA)]] · [[FAIR SHARE ACTION]] · [[Media Matters]] · [[Kentuckians for Strong Leadership]] · [[Fair Share Action]]"
+donors: "[[Entertainment and Hollywood Donors]] · [[UNITED ASSOCIATION POLITICAL EDUCATION COMMITTEE (UNITED ASSOCIATION OF JOURNEYMEN AND APPRENTICES OF THE PLUMBING & PIPEFITTING INDUSTRY OF THE UNITED STATES AND CANADA)]] · [[FAIR SHARE ACTION]] · [[Media Matters]] · [[Kentuckians for Strong Leadership]] · [[Fair Share Action]] · [[UA Political Action Committee]]"
 opposes: "[[KENTUCKIANS FOR STRONG LEADERSHIP]] · [[STOP UNION POLITICAL ABUSE (SUPA)]] · [[CONSERVATIVE LEADERSHIP POLITICAL ACTION COMMITTEE]]"
 internal-notes: |-
   [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • Internal notes say pipeline data was damaged or needs repopulation. • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
@@ -35,7 +35,7 @@ internal-notes: |-
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 713
 bills-cosponsored: 2678
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 ---
 
 

@@ -82,8 +82,15 @@ function resolveTitle(title, titleIndex) {
     if (!norm) continue;
     const matches = titleIndex.get(norm);
     if (!matches) continue;
-    if (!Array.isArray(matches)) return { title: norm, rec: matches, needsSlug: false };
-    if (matches.length === 1) return { title: norm, rec: matches[0], needsSlug: false };
+    if (!Array.isArray(matches)) {
+      // Single record. If it's an alias entry, remap title to the primary.
+      const canonical = matches.aliasOf || norm;
+      return { title: canonical, rec: matches, needsSlug: false };
+    }
+    if (matches.length === 1) {
+      const canonical = matches[0].aliasOf || norm;
+      return { title: canonical, rec: matches[0], needsSlug: false };
+    }
     // Collision. Validator requires slug whenever matches.length > 1, even
     // if all matches point to the same profile (index dedup bug). Always
     // set the slug in that case.

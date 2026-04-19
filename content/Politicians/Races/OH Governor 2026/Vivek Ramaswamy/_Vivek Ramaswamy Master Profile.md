@@ -17,7 +17,7 @@ issues:
   - Tax Policy
   - Government Reform
   - Anti-ESG
-top-donors: "[[Jeffrey Yass]], [[Peter Thiel]], [[Ross Stevens]], [[PRIORITIES USA ACTION]], [[WinRed]], [[Drain the DC Swamp PAC]], [[Ruralvote.org]], [[Trump Victory]]"
+top-donors: "[[Jeffrey Yass]], [[Peter Thiel]], [[Ross Stevens]], [[PRIORITIES USA ACTION]], [[WinRed]], [[Drain the DC Swamp PAC]], [[Ruralvote.org]], [[Trump Victory]], [[Priorities USA Action]]"
 total-received: $66,197,196
 fec-candidate-id: P40011082
 source-types:

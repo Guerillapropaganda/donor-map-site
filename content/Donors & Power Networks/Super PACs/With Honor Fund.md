@@ -1,16 +1,16 @@
 ---
-title: "With Honor Fund"
+title: With Honor Fund
 type: donor
 content-readiness: raw
 editorial-status: stub
-sector: "Political Committees"
-entity-type: "PAC"
-last-updated: 2026-04-14
+sector: Political Committees
+entity-type: PAC
+last-updated: 2026-04-14T00:00:00.000Z
 source-tier: 1
 aliases:
-  - "WITH HONOR FUND, INC."
+  - WITH HONOR FUND, INC.
 known-gaps:
-  - "Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis."
+  - Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis.
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -22,6 +22,7 @@ contributions-to-committees: 5891512
 employee-contributions: 1
 employee-contributions-total: 10
 employee-donor-count: 1
+politicians-funded: "[[Jason Crow]], [[Chrissy Houlahan]], [[Jimmy Panetta]], [[Michael Waltz]], [[Brian Mast]], [[Patrick Ryan]]"
 ---
 
 

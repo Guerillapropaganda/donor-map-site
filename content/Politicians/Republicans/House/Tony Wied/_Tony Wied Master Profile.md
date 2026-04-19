@@ -28,7 +28,7 @@ bills-sponsored: 0
 bills-cosponsored: 5
 bills-enacted: 0
 top-policy-area: Taxation
-top-donors: "[[National Restaurant Association]], [[AT&T - WarnerMedia]], [[National Cattlemen's Beef Association]], [[Walmart - Walton Family]], [[Troy Downing]], [[General Dynamics]], [[David Rouzer]], [[Mike Haridopolos]], [[Chevron]], [[MAJORITY PAC]], [[National Association of Realtors]], [[Lockheed Martin]], [[AIPAC - American Israel Public Affairs Committee]], [[National Rifle Association]], [[Austin Scott]], [[Jim Jordan]], [[Honeywell]], [[Associated General Contractors of America Political Action Committee]], [[Leidos]], [[National Right to Life Victory Fund]], [[Bradley Foundation]], [[Blackstone Group]], [[SpaceX]], [[CVS Health - Aetna]], [[Charles Schwab]]"
+top-donors: "[[National Restaurant Association]], [[AT&T - WarnerMedia]], [[National Cattlemen's Beef Association]], [[Walmart - Walton Family]], [[Troy Downing]], [[General Dynamics]], [[David Rouzer]], [[Mike Haridopolos]], [[Chevron]], [[MAJORITY PAC]], [[National Association of Realtors]], [[Lockheed Martin]], [[AIPAC - American Israel Public Affairs Committee]], [[National Rifle Association]], [[Austin Scott]], [[Jim Jordan]], [[Honeywell]], [[Associated General Contractors of America Political Action Committee]], [[Leidos]], [[National Right to Life Victory Fund]], [[Bradley Foundation]], [[Blackstone Group]], [[SpaceX]], [[CVS Health - Aetna]], [[Charles Schwab]], [[AT&T]], [[Majority PAC]], [[Honeywell International]]"
 ---
 
 

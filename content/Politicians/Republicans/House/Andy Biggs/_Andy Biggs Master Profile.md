@@ -28,7 +28,7 @@ bills-sponsored: 612
 bills-cosponsored: 408
 bills-enacted: 0
 top-policy-area: Government Operations and Politics
-top-donors: "[[WinRed]], [[Really American Pac]], [[Jim Jordan]], [[National Association of Realtors]], [[Lockheed Martin]], [[iHeartMedia]], [[FAMILY RESEARCH COUNCIL ACTION POLITICAL ACTION COMMITTEE]], [[National Rifle Association]], [[AIPAC - American Israel Public Affairs Committee]]"
+top-donors: "[[WinRed]], [[Really American Pac]], [[Jim Jordan]], [[National Association of Realtors]], [[Lockheed Martin]], [[iHeartMedia]], [[FAMILY RESEARCH COUNCIL ACTION POLITICAL ACTION COMMITTEE]], [[National Rifle Association]], [[AIPAC - American Israel Public Affairs Committee]], [[Family Research Council Action Political Action Committee]]"
 ---
 
 

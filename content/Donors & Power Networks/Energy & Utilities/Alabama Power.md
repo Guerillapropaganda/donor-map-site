@@ -71,7 +71,7 @@ contributions-to-committees: 82500
 employee-contributions: 1818
 employee-contributions-total: 184971
 employee-donor-count: 310
-politicians-funded: "[[MAGA Inc]], [[_Marco Rubio Master Profile]], [[Hmp]], [[_Jimmy Panetta Master Profile]], [[RNC - Republican National Committee]], [[Katie Britt]], [[Alabama Power]], [[Shomari Figures]], [[ActBlue]], [[WinRed]], [[NRSC - National Republican Senatorial Committee]], [[_Mike Rogers Master Profile]], [[NRCC - National Republican Congressional Committee]], [[National Rifle Association]], [[Votevets]], [[Senate Conservatives Fund]], [[Mike Rogers]], [[Jimmy Panetta]], [[Marco Rubio]]"
+politicians-funded: "[[MAGA Inc]], [[_Marco Rubio Master Profile]], [[Hmp]], [[_Jimmy Panetta Master Profile]], [[RNC - Republican National Committee]], [[Katie Britt]], [[Alabama Power]], [[Shomari Figures]], [[ActBlue]], [[WinRed]], [[NRSC - National Republican Senatorial Committee]], [[_Mike Rogers Master Profile]], [[NRCC - National Republican Congressional Committee]], [[National Rifle Association]], [[Votevets]], [[Senate Conservatives Fund]], [[Mike Rogers]], [[Jimmy Panetta]], [[Marco Rubio]], [[HMP]]"
 ---
 
 

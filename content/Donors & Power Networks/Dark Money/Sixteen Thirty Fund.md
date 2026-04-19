@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Dark Money
 entity-type: Individual Donor
-politicians-funded: "[[DOGE - The Billionaires Government]], [[David Pakman]], [[America Votes]], [[ActBlue]], [[DSCC - Democratic Senatorial Campaign Committee]], [[League of Conservation Voters]], [[Future Forward USA Action]], [[New Venture Fund]], [[_Cori Bush Master Profile]], [[_Martin Heinrich Master Profile]], [[Third Way]], [[Cori Bush]], [[Martin Heinrich]], [[FF PAC]], [[Hopewell Fund]], [[North Fund]], [[Natural Resources Defense Council]], [[Bluegreen Alliance]], [[The Lincoln Project]], [[Senate Majority PAC]], [[Fair Share Action]], [[Fight Corporate Monopolies]], [[Environment America INC]], [[Living United for Change in Arizona]], [[Change Now]], [[Citizens for Responsible Energy Solutions Inc.]], [[Put Utah First Pac]], [[House Majority PAC]]"
+politicians-funded: "[[DOGE - The Billionaires Government]], [[David Pakman]], [[America Votes]], [[ActBlue]], [[DSCC - Democratic Senatorial Campaign Committee]], [[League of Conservation Voters]], [[Future Forward USA Action]], [[New Venture Fund]], [[_Cori Bush Master Profile]], [[_Martin Heinrich Master Profile]], [[Third Way]], [[Cori Bush]], [[Martin Heinrich]], [[FF PAC]], [[Hopewell Fund]], [[North Fund]], [[Natural Resources Defense Council]], [[Bluegreen Alliance]], [[The Lincoln Project]], [[Senate Majority PAC]], [[Fair Share Action]], [[Fight Corporate Monopolies]], [[Environment America INC]], [[Living United for Change in Arizona]], [[Change Now]], [[Citizens for Responsible Energy Solutions Inc.]], [[Put Utah First Pac]], [[House Majority PAC]], [[Put Utah First PAC]]"
 issues:
   - Dark Money & Campaign Finance
 court-cases: 18

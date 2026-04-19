@@ -28,7 +28,7 @@ bills-sponsored: 32
 bills-cosponsored: 219
 bills-enacted: 0
 top-policy-area: International Affairs
-top-donors: "[[MAJORITY PAC]], [[Lauren Boebert]], [[Raytheon (RTX)]], [[American Chemistry Council, INC]], [[UA Political Action Committee]], [[David Rouzer]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Association of Realtors]], [[WinRed]], [[National Rifle Association]], [[General Motors]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Associated General Contractors of America Political Action Committee]], [[Planned Parenthood Votes]], [[AIPAC - American Israel Public Affairs Committee]], [[CoreCivic - Private Prisons]]"
+top-donors: "[[MAJORITY PAC]], [[Lauren Boebert]], [[Raytheon (RTX)]], [[American Chemistry Council, INC]], [[UA Political Action Committee]], [[David Rouzer]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Association of Realtors]], [[WinRed]], [[National Rifle Association]], [[General Motors]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Associated General Contractors of America Political Action Committee]], [[Planned Parenthood Votes]], [[AIPAC - American Israel Public Affairs Committee]], [[CoreCivic - Private Prisons]], [[Majority PAC]]"
 ---
 
 

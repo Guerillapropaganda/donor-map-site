@@ -7,7 +7,12 @@ source-tier: 1
 parent: null
 sector: Dark Money
 entity-type: Individual Donor
-politicians-funded: "[[Clarence Thomas]], [[Brett Kavanaugh]], [[Neil Gorsuch]], [[Sheldon Whitehouse]], [[Amy Coney Barrett]], [[_Marco Rubio Master Profile]], [[Marco Rubio]]"
+ein: "202303252"
+aliases:
+  - The Concord Fund
+  - JCN
+merge-note: Entity rebranded to The Concord Fund circa 2023. Both names refer to the same legal entity (EIN 20-2303252). Canonical vault title is Judicial Crisis Network; The Concord Fund registered as alias so auto-pipelines and edges route through the same profile. Merge 2026-04-18 absorbed the Concord Fund stub's inflows.
+politicians-funded: "[[Clarence Thomas]], [[Brett Kavanaugh]], [[Neil Gorsuch]], [[Sheldon Whitehouse]], [[Amy Coney Barrett]], [[_Marco Rubio Master Profile]], [[Marco Rubio]], [[American Future Fund]], [[One Nation]], [[Michigan Republican Party]]"
 issues:
   - Dark Money & Campaign Finance
 lobbying-spend: 248300
@@ -333,3 +338,59 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 - ~~[EXPOSEDbyCMD: Leonard Leo's Concord Fund top funder of Republican AGs group in 2024](https://www.exposedbycmd.org/2024/04/16/leonard-leos-concord-fund-top-funder-of-republican-ags-group-in-2024/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Judicial%20Crisis%20Network%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 4 (2019–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $52.8M |
+| Total expenses | — |
+| Total assets (EOY) | $735K |
+| Grants paid out | $44.3M |
+
+**Lifetime grants out (2019–2023):** $101.2M across 82 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| One Nation | $12.6M | 3 | 2019–2022 |
+| Susan B Anthony List Inc | $12.5M | 4 | 2019–2023 |
+| Republican State Leadership | $7.1M | 4 | 2019–2023 |
+| Republican Governors Association | $6.5M | 2 | 2022–2023 |
+| Republican Attorney Generals Assoc | $5.0M | 2 | 2022–2023 |
+| Republican Attorneys General Assoc | $4.8M | 1 | 2021 |
+| Heritage Action for America | $4.4M | 3 | 2021–2023 |
+| Bluegrass Freedom Action | $3.0M | 1 | 2023 |
+| Protect Women Ohio Action | $3.0M | 1 | 2023 |
+| Catholic Vote Civic Action | $2.8M | 3 | 2021–2023 |
+| Republican Attorney Generals Asso | $2.6M | 1 | 2019 |
+| Foundation for Fair Courts LLC | $2.5M | 2 | 2022–2023 |
+| Faith Freedom Coalition | $2.2M | 3 | 2021–2023 |
+| FGA Action | $2.1M | 3 | 2021–2023 |
+| Advancing American Freedom | $2.0M | 3 | 2021–2023 |
+| Independent Womens Voice | $2.0M | 2 | 2021–2022 |
+| Americans for Limited Govt | $1.9M | 3 | 2021–2023 |
+| Club for Growth | $1.6M | 3 | 2021–2023 |
+| People United For Privacy | $1.6M | 2 | 2022–2023 |
+| Winning for Women | $1.2M | 4 | 2019–2023 |
+
+**Grants received (2020–2024):** $182.8M across 2 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| Marble Freedom Trust | $161.3M | 4 | 2021–2024 |
+| Rule of Law Trust | $21.5M | 1 | 2020 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

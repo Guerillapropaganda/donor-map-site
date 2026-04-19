@@ -28,7 +28,7 @@ federal-grants-total: 499717
 employee-contributions: 159
 employee-contributions-total: 42998
 employee-donor-count: 59
-politicians-funded: "[[NRSC - National Republican Senatorial Committee]], [[Emily's List]], [[ActBlue]], [[WinRed]], [[_Jon Ossoff Master Profile]], [[Hmp]], [[NRCC - National Republican Congressional Committee]], [[DCCC - Democratic Congressional Campaign Committee]], [[FreedomWorks for America]], [[MoveOn.org Political Action]], [[_Elissa Slotkin Master Profile]], [[Progressive Turnout Project]], [[RNC - Republican National Committee]], [[Trump Victory]], [[MAGA Inc]], [[Human Rights Campaign Equality Votes]], [[Catherine Cortez Masto]], [[_Marco Rubio Master Profile]], [[Jon Ossoff]], [[Marco Rubio]], [[Elissa Slotkin]]"
+politicians-funded: "[[NRSC - National Republican Senatorial Committee]], [[Emily's List]], [[ActBlue]], [[WinRed]], [[_Jon Ossoff Master Profile]], [[Hmp]], [[NRCC - National Republican Congressional Committee]], [[DCCC - Democratic Congressional Campaign Committee]], [[FreedomWorks for America]], [[MoveOn.org Political Action]], [[_Elissa Slotkin Master Profile]], [[Progressive Turnout Project]], [[RNC - Republican National Committee]], [[Trump Victory]], [[MAGA Inc]], [[Human Rights Campaign Equality Votes]], [[Catherine Cortez Masto]], [[_Marco Rubio Master Profile]], [[Jon Ossoff]], [[Marco Rubio]], [[Elissa Slotkin]], [[HMP]]"
 ---
 
 

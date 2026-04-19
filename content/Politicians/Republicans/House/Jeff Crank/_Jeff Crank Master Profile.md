@@ -24,7 +24,7 @@ known-gaps:
   - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H6CO05142
-top-donors: "[[Chevron]], [[AT&T - WarnerMedia]], [[Troy Downing]], [[Performance Racing Inc.]], [[BAE Systems]], [[Care Action]], [[Comcast - NBCUniversal]], [[General Dynamics]], [[Jim Jordan]], [[National Restaurant Association]], [[Americans for Prosperity]], [[Raytheon (RTX)]], [[Jake Ellzey]], [[L3Harris Technologies]], [[Anthem - Elevance Health]], [[MAJORITY PAC]], [[Marathon Petroleum]], [[Jeff Hurd]], [[Associated General Contractors of America Political Action Committee]], [[Lockheed Martin]], [[Don Bacon]], [[National Rifle Association]], [[American Hospital Association PAC]], [[Leidos]], [[Stand Together]], [[CBRE Group]], [[Anduril Industries]], [[Koch Network - Charles Koch]]"
+top-donors: "[[Chevron]], [[AT&T - WarnerMedia]], [[Troy Downing]], [[Performance Racing Inc.]], [[BAE Systems]], [[Care Action]], [[Comcast - NBCUniversal]], [[General Dynamics]], [[Jim Jordan]], [[National Restaurant Association]], [[Americans for Prosperity]], [[Raytheon (RTX)]], [[Jake Ellzey]], [[L3Harris Technologies]], [[Anthem - Elevance Health]], [[MAJORITY PAC]], [[Marathon Petroleum]], [[Jeff Hurd]], [[Associated General Contractors of America Political Action Committee]], [[Lockheed Martin]], [[Don Bacon]], [[National Rifle Association]], [[American Hospital Association PAC]], [[Leidos]], [[Stand Together]], [[CBRE Group]], [[Anduril Industries]], [[Koch Network - Charles Koch]], [[AT&T]], [[Majority PAC]]"
 ---
 
 

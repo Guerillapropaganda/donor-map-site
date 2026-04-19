@@ -29,7 +29,7 @@ contributions-to-committees: 50000
 employee-contributions: 580
 employee-contributions-total: 419323
 employee-donor-count: 114
-politicians-funded: "[[WinRed]], [[_Beth van Duyne Master Profile]], [[RNC - Republican National Committee]], [[Michigan Republican Party]], [[Donald Trump]], [[Trump Victory]], [[_Ron Johnson Master Profile]], [[Michael Lawler]], [[Mike Carey]], [[MISSISSIPPI REPUBLICAN PARTY]], [[MAGA Inc]], [[Darin Lahood]], [[_John James Master Profile]], [[_Tony Gonzales Master Profile]], [[_Ann Wagner Master Profile]], [[Raphael Warnock]], [[_Doug Burgum Master Profile]], [[_Marco Rubio Master Profile]], [[Elise Stefanik]], [[Jon Ossoff]], [[Marco Rubio]], [[Beth van Duyne]], [[Tony Gonzales]], [[Doug Burgum]], [[Ann Wagner]], [[John James]], [[Ron Johnson]]"
+politicians-funded: "[[WinRed]], [[_Beth van Duyne Master Profile]], [[RNC - Republican National Committee]], [[Michigan Republican Party]], [[Donald Trump]], [[Trump Victory]], [[_Ron Johnson Master Profile]], [[Michael Lawler]], [[Mike Carey]], [[MISSISSIPPI REPUBLICAN PARTY]], [[MAGA Inc]], [[Darin Lahood]], [[_John James Master Profile]], [[_Tony Gonzales Master Profile]], [[_Ann Wagner Master Profile]], [[Raphael Warnock]], [[_Doug Burgum Master Profile]], [[_Marco Rubio Master Profile]], [[Elise Stefanik]], [[Jon Ossoff]], [[Marco Rubio]], [[Beth van Duyne]], [[Tony Gonzales]], [[Doug Burgum]], [[Ann Wagner]], [[John James]], [[Ron Johnson]], [[Mississippi Republican Party]], [[George W. Bush]]"
 ---
 
 

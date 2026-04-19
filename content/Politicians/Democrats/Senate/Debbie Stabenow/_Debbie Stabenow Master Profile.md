@@ -32,7 +32,7 @@ known-gaps:
   - No legislative record from Congress.gov
   - No mapped relationships
 related: "[[_Gary Peters Master Profile|Gary Peters]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[Angie Craig]]"
-donors: "[[Sam Bankman-Fried]] · [[Bill Gates]] · [[California Farm Bureau Federation]] · [[UAW - United Auto Workers]] · [[SIERRA CLUB POLITICAL COMMITTEE]] · [[Right to Life of Michigan Political Action Committee]] · [[Performance Racing Inc.]] · [[Nucor Corporation]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[American Gaming Association]] · [[Ford Motor Company]] · [[Google - Alphabet]] · [[AT&T - WarnerMedia]] · [[NextEra Energy]] · [[PG&E - Pacific Gas and Electric]] · [[Lockheed Martin]]"
+donors: "[[Sam Bankman-Fried]] · [[Bill Gates]] · [[California Farm Bureau Federation]] · [[UAW - United Auto Workers]] · [[SIERRA CLUB POLITICAL COMMITTEE]] · [[Right to Life of Michigan Political Action Committee]] · [[Performance Racing Inc.]] · [[Nucor Corporation]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[American Gaming Association]] · [[Ford Motor Company]] · [[Google - Alphabet]] · [[AT&T - WarnerMedia]] · [[NextEra Energy]] · [[PG&E - Pacific Gas and Electric]] · [[Lockheed Martin]] · [[AT&T]]"
 bills-enacted: 0
 top-policy-area: Health
 ---

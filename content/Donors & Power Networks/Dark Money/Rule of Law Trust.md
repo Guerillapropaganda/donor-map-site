@@ -9,7 +9,7 @@ ein: "831047727"
 nonprofit-status: 501(c)(4)
 source-tier: 1
 internal-notes: Stub profile auto-created 2026-04-18 to close 990-edge coverage gap. Narrative (Who They Are, Class Analysis, etc.) to be written by Research Claude. Received $153M from Marble Freedom Trust in 2021. EIN verified against IRS 990 bulk recipient records.
-politicians-funded: "[[Schwab Charitable Fund]], [[The Concord Fund]], [[Fidelity Investments]], [[Donors Trust]]"
+politicians-funded: "[[Schwab Charitable Fund]], [[The Concord Fund]], [[Fidelity Investments]], [[Donors Trust]], [[Judicial Crisis Network]]"
 ---
 
 
