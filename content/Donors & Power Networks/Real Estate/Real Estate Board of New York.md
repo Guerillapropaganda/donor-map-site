@@ -1,54 +1,53 @@
 ---
-title: "Real Estate Board of New York"
+title: Real Estate Board of New York
 type: donor
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Real Estate"
-entity-type: "Individual Donor"
+sector: Real Estate
+entity-type: Individual Donor
 ofac-sdn-match: "true"
 last-enriched: "2026-04-18"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 ofac-programs:
-  - "SDNTK"
-  - "UKRAINE-EO13662] [RUSSIA-EO14024"
-  - "VENEZUELA-EO13850"
-  - "SDGT"
-  - "PAARSSR-EO13894"
-  - "RUSSIA-EO14024"
-  - "IRAN-EO13846"
-  - "GLOMAG"
-  - "DPRK2"
-  - "ILLICIT-DRUGS-EO14059"
-  - "TCO"
+  - SDNTK
+  - UKRAINE-EO13662] [RUSSIA-EO14024
+  - VENEZUELA-EO13850
+  - SDGT
+  - PAARSSR-EO13894
+  - RUSSIA-EO14024
+  - IRAN-EO13846
+  - GLOMAG
+  - DPRK2
+  - ILLICIT-DRUGS-EO14059
+  - TCO
 federal-register-mentions: 6
 regulatory-agencies:
-  - "Energy Department"
-  - "Environmental Protection Agency"
-  - "Federal Energy Regulatory Commission"
-  - "Securities and Exchange Commission"
+  - Energy Department
+  - Environmental Protection Agency
+  - Federal Energy Regulatory Commission
+  - Securities and Exchange Commission
 ein: "131201480"
-annual-revenue: "$17.2M"
-net-assets: "$26.7M"
+annual-revenue: $17.2M
+net-assets: $26.7M
 tax-year: "2023"
 related: "[[Kathy Hochul]] · [[Blackstone Group]] · [[Invitation Homes - Institutional Landlords]] · [[National Association of Realtors]] · [[New York Housing Policy]] · [[Leonard Litwin - Glenwood Management]]"
 lobbying-spend: 32210838
 lobbying-filings: 101
-nonprofit-status: "501(c)(6)"
+nonprofit-status: 501(c)(6)
 total-revenue: 17247028
 total-assets: 24867283
 cross-vault-triangulation-count: 4
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 employee-contributions: 35
 employee-contributions-total: 4881
 employee-donor-count: 7
+politicians-funded: "[[ActBlue]], [[MoveOn.org Political Action]]"
 ---
 
 
@@ -356,3 +355,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/131201480/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/131201480/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/131201480/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $1.1M |
+| Total expenses | — |
+| Total assets (EOY) | $24.9M |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

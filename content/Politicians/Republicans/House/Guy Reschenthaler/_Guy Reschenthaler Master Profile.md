@@ -1,33 +1,34 @@
 ---
-title: "Guy Reschenthaler"
+title: Guy Reschenthaler
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Pennsylvania"
-state-abbr: "PA"
+party: Republican
+chamber: House
+state: Pennsylvania
+state-abbr: PA
 district: "14"
-bioguide-id: "R000610"
+bioguide-id: R000610
 govtrack-id: 412813
 born: "1983-04-17"
-wikidata-id: "Q22096097"
-website: "https://reschenthaler.house.gov"
-phone: "202-225-2065"
+wikidata-id: Q22096097
+website: https://reschenthaler.house.gov
+phone: 202-225-2065
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H8PA18199"
+fec-candidate-id: H8PA18199
 bills-sponsored: 25
 bills-cosponsored: 382
 bills-enacted: 0
-top-policy-area: "International Affairs"
+top-policy-area: International Affairs
+top-donors: "[[Comcast - NBCUniversal]], [[Leidos]], [[American Gaming Association]], [[Valero Energy]], [[AIPAC - American Israel Public Affairs Committee]], [[General Motors]], [[Walmart - Walton Family]], [[National Association of Realtors]], [[American Chemistry Council, INC]], [[WinRed]], [[American Hospital Association PAC]], [[Anthem - Elevance Health]], [[Marathon Petroleum]], [[Occidental Petroleum]], [[Halliburton]], [[Bank of America]], [[Teamsters - International Brotherhood of Teamsters]], [[Pennsylvania Pro-Life Federation PAC]], [[Honeywell]], [[JPAC - Jewish Public Affairs Committee of California]], [[Raytheon (RTX)]], [[BAE Systems]], [[CVS Health - Aetna]], [[Lockheed Martin]], [[Alliance Coal, LLC PAC]], [[AbbVie]], [[Pfizer Inc.]], [[General Dynamics]], [[Chevron]], [[AT&T - WarnerMedia]], [[Nucor Corporation]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[National Rifle Association]], [[Associated General Contractors of America Political Action Committee]], [[Save America PAC]], [[Microsoft]], [[National Multifamily Housing Council]], [[Northrop Grumman]], [[National Association of Manufacturers]], [[Gilead Sciences]], [[National Cattlemen's Beef Association]], [[National Restaurant Association]], [[NORPAC]], [[L3Harris Technologies]], [[Tzedek PAC]], [[MAJORITY PAC]], [[Ben Cline]], [[McDonalds Corporation]], [[National Victory Action Fund]], [[Johnson & Johnson]]"
 ---
 
 

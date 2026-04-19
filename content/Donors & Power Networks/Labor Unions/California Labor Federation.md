@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Labor Unions
 entity-type: Individual Donor
-politicians-funded: "[[Nancy Pelosi]], [[Kamala Harris]], [[Gavin Newsom]]"
+politicians-funded: "[[Nancy Pelosi]], [[Kamala Harris]], [[Gavin Newsom]], [[ActBlue]], [[Bob Casey]], [[Mark Kelly]], [[Medicare for All - The Policy That Broke the Party]], [[Barbara Lee]]"
 issues:
   - Labor & Workers
 ein: 940362030
@@ -231,3 +231,37 @@ For IBEW members: the Federation is the body through which IBEW's California pol
 
 - [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
 <!-- auto:fec-individual end -->
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 5 (2018–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $3.5M |
+| Total expenses | — |
+| Total assets (EOY) | $19.5M |
+| Grants paid out | $113K |
+
+**Lifetime grants out (2018–2023):** $148K across 7 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| ALL OTHERS 5000 OR LESS | $43K | 1 | 2023 |
+| California Latino Legislative Caucus Foundation | $25K | 1 | 2023 |
+| San Diego Imperial Counties Labor Council | $25K | 1 | 2023 |
+| CALIFORNIA LEAGUE OF CONSERVATION VOTERS | $25K | 1 | 2018 |
+| UNITED FARM WORKERS | $10K | 1 | 2023 |
+| Alameda Central Labor Council | $10K | 1 | 2023 |
+| CALIFORNIA FIRE FOUNDATION | $10K | 1 | 2019 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

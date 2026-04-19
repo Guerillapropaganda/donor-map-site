@@ -92,6 +92,25 @@ urls-first-triaged: "2026-04-15"
 *Source: FEC individual contribution filings (indiv), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | $93K |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->
+
 #donor #mega-donor #israel-lobby #casino #deceased #miriam-adelson #republican #foreign-policy #jerusalem #iran
 
 ---

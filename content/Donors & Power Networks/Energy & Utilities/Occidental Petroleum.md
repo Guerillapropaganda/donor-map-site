@@ -2,7 +2,7 @@
 title: Occidental Petroleum
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Energy & Utilities
@@ -39,9 +39,9 @@ regulatory-agencies:
   - Land Management Bureau
 cross-vault-triangulation-count: 15
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-politicians-funded: "[[Kevin McCarthy]]"
+politicians-funded: "[[Kevin McCarthy]], [[John Thune]], [[Ron Estes]], [[WinSenate]], [[Save America PAC]], [[Bryan Steil]], [[AMERICAN CROSSROADS]], [[_Christian D. Menefee Master Profile]], [[Occidental Petroleum]], [[RNC - Republican National Committee]], [[Ronny Jackson]], [[Dan Newhouse]], [[Sam Graves]], [[MAGA Inc]], [[Jodey Arrington]], [[Marsha Blackburn]], [[John Cornyn]], [[Tom Cole]], [[WinRed]], [[Mike Carey]], [[August Pfluger]], [[John Hoeven]], [[Dan Crenshaw]], [[_Marco Rubio Master Profile]], [[Michelle Fischbach]], [[NRCC - National Republican Congressional Committee]], [[Ken Calvert]], [[Cathy McMorris Rodgers]], [[_Ted Cruz Master Profile]], [[ActBlue]], [[SLF PAC]], [[Guy Reschenthaler]], [[John Barrasso]], [[NRSC - National Republican Senatorial Committee]], [[Jason Smith]], [[Freedom Partners Action Fund Inc]], [[Texans for a Conservative Majority]], [[_Vicente Gonzalez Master Profile]], [[Markwayne Mullin]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Pete Aguilar]], [[Henry Cuellar]], [[Joe Manchin]], [[Brian Babin]], [[James Lankford]], [[_Tammy Baldwin Master Profile]], [[Bruce Westerman]], [[Steve Daines]], [[Steve Scalise]], [[DCCC - Democratic Congressional Campaign Committee]], [[Martin Heinrich]], [[Vicente Gonzalez]], [[FreedomWorks for America]], [[David Rouzer]], [[_Don Bacon Master Profile]], [[Thom Tillis]], [[Shelley Moore Capito]], [[Joni Ernst]], [[Katie Britt]], [[Mariannette Miller-Meeks]], [[Richard Hudson]], [[_Ron Johnson Master Profile]], [[Kevin Cramer]], [[Senate Conservatives Fund]], [[Ryan Zinke]], [[Jerry Moran]], [[Richard Neal]], [[Michael Cloud]], [[_Tim Scott Master Profile]], [[Ted Cruz]], [[Brett Guthrie]], [[Jay Obernolte]], [[Pete Ricketts]], [[Congressional Leadership Fund]], [[Pete Stauber]], [[Americans for Prosperity]], [[Mark Kelly]], [[Lance Gooden]], [[Roger Wicker]], [[_August Pfluger Master Profile]], [[Lisa Murkowski]], [[John Kennedy]], [[Deb Fischer]], [[_Robert Garcia Master Profile]], [[_Mark Green Master Profile]], [[AIPAC - American Israel Public Affairs Committee]], [[Conservative Solutions PAC]], [[Ron Johnson]], [[Tammy Baldwin]], [[Tim Scott]], [[Don Bacon]], [[Mark Green]], [[Robert Garcia]], [[Marco Rubio]], [[Christian D. Menefee]]"
 epa-facilities: 4
-epa-states: "CA, MI, NJ"
+epa-states: CA, MI, NJ
 total-raised: 301264
 total-spent: 232709
 cash-on-hand: 192644

@@ -1,34 +1,34 @@
 ---
-title: "Vince Fong"
+title: Vince Fong
 type: politician
 content-readiness: raw
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "California"
-state-abbr: "CA"
+party: Republican
+chamber: House
+state: California
+state-abbr: CA
 district: "20"
-bioguide-id: "F000480"
+bioguide-id: F000480
 govtrack-id: 456958
 born: "1979-10-24"
-wikidata-id: "Q27916201"
-website: "https://fong.house.gov"
-phone: "202-225-2915"
+wikidata-id: Q27916201
+website: https://fong.house.gov
+phone: 202-225-2915
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
-donors: "[[National Cattlemen's Beef Association]]"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
+donors: "[[National Cattlemen's Beef Association]], [[Associated General Contractors of America Political Action Committee]], [[Republican Jewish Coalition]], [[Microsoft]], [[American Hospital Association PAC]], [[Northrop Grumman]], [[AT&T - WarnerMedia]], [[National Association of Realtors]], [[Comcast - NBCUniversal]], [[American Chemistry Council, INC]], [[Amgen Inc]], [[Marathon Petroleum]], [[David Rouzer]], [[AIPAC - American Israel Public Affairs Committee]], [[MAJORITY PAC]], [[Pfizer Inc.]], [[Chevron]], [[NextEra Energy]], [[Performance Racing Inc.]], [[National Rifle Association]], [[Walmart - Walton Family]], [[Citigroup]], [[Anthem - Elevance Health]], [[National Multifamily Housing Council]], [[Lockheed Martin]], [[Gilead Sciences]], [[Cooperative of American Physicians Independent Expenditure Committee]], [[Google - Alphabet]], [[Raytheon (RTX)]], [[August Pfluger]], [[Valero Energy]], [[Honeywell]], [[L3Harris Technologies]], [[Halliburton]], [[PG&E - Pacific Gas and Electric]], [[IBEW - International Brotherhood of Electrical Workers]], [[Duke Energy]], [[Tenet Healthcare]], [[AbbVie]], [[Morgan Stanley]], [[Jason Smith]], [[TikTok - ByteDance]], [[Nvidia]], [[Blackstone Group]], [[Kaiser Permanente]], [[Johnson & Johnson]], [[US CHAMBER OF COMMERCE]], [[Fidelity Investments]], [[Never Back Down Inc]]"
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H4CA20181"
+fec-candidate-id: H4CA20181
 bills-sponsored: 4
 bills-cosponsored: 56
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
 ---
 
 

@@ -1,28 +1,29 @@
 ---
-title: "Jeff Hurd"
+title: Jeff Hurd
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Colorado"
-state-abbr: "CO"
+party: Republican
+chamber: House
+state: Colorado
+state-abbr: CO
 district: "3"
-bioguide-id: "H001100"
+bioguide-id: H001100
 govtrack-id: 456982
 born: "1979-08-15"
-wikidata-id: "Q131101500"
-website: "https://hurd.house.gov"
-phone: "202-225-4676"
+wikidata-id: Q131101500
+website: https://hurd.house.gov
+phone: 202-225-4676
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
+top-donors: "[[Cigna Group]], [[Meta - Facebook]], [[American Farm Bureau Federation]], [[Chevron]], [[Blackstone Group]], [[Lockheed Martin]], [[Amgen Inc]], [[Wells Fargo]], [[AT&T]], [[Charles Schwab]], [[Goldman Sachs]], [[Amazon]], [[Fidelity Investments]]"
 ---
 
 

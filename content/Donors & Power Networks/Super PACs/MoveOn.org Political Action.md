@@ -5,13 +5,13 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 aliases:
   - MOVEON.ORG POLITICAL ACTION
 known-gaps:
   - Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis.
-politicians-funded: "[[John Boehner]], [[Raul Grijalva]], [[Sheldon Whitehouse]], [[Rashida Tlaib]], [[Brian Schatz]]"
+politicians-funded: "[[John Boehner]], [[Raul Grijalva]], [[Sheldon Whitehouse]], [[Rashida Tlaib]], [[Brian Schatz]], [[Patrick Ryan]], [[Josh Harder]], [[Josh Riley]], [[Sydney Kamlager-Dove]], [[Nikki Budzinski]], [[Kamala Harris]], [[Derek Tran]], [[Jahana Hayes]], [[Ayanna Pressley]], [[Patty Murray]], [[Jacky Rosen]], [[Summer Lee]], [[ActBlue]], [[Mark Pocan]], [[Cori Bush]], [[Donald Trump]], [[Catherine Cortez Masto]], [[Veronica Escobar]], [[Brittany Pettersen]], [[John Fetterman]], [[Nina Turner]], [[Ron Johnson]], [[Dave Min]], [[Mike Levin]], [[Elissa Slotkin]], [[Lauren Underwood]], [[Steven Horsford]], [[Eric Sorensen]], [[Susie Lee]], [[Ted Cruz]], [[Ilhan Omar]], [[Chris Murphy]], [[Jamaal Bowman]], [[Mark Kelly]], [[Maxwell Frost]], [[Sherrod Brown]], [[Pramila Jayapal]], [[Jon Ossoff]], [[Morgan McGarvey]], [[Sean Casten]], [[Dina Titus]], [[Sharice Davids]], [[Vicente Gonzalez]], [[Andrea Salinas]], [[Tammy Baldwin]], [[Ro Khanna]], [[Seth Magaziner]], [[Hakeem Jeffries]], [[Raphael Warnock]], [[Adam Gray]], [[Ron DeSantis]], [[Greg Stanton]], [[Michael Lawler]], [[Alexandria Ocasio-Cortez]], [[Ruben Gallego]], [[Jerrold Nadler]], [[Adam Schiff]]"
 related: "[[John Boehner]] · [[Sheldon Whitehouse]] · [[Brian Schatz]] · [[Raul Grijalva]] · [[Rashida Tlaib]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

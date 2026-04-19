@@ -1,33 +1,34 @@
 ---
-title: "Pete Sessions"
+title: Pete Sessions
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Texas"
-state-abbr: "TX"
+party: Republican
+chamber: House
+state: Texas
+state-abbr: TX
 district: "17"
-bioguide-id: "S000250"
+bioguide-id: S000250
 govtrack-id: 400367
 born: "1955-03-22"
-wikidata-id: "Q437852"
-website: "https://sessions.house.gov"
-phone: "202-225-6105"
+wikidata-id: Q437852
+website: https://sessions.house.gov
+phone: 202-225-6105
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H2TX03126"
+fec-candidate-id: H2TX03126
 bills-sponsored: 17
 bills-cosponsored: 331
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[American Chemistry Council, INC]], [[General Motors]], [[National Multifamily Housing Council]], [[Nucor Corporation]], [[AIPAC - American Israel Public Affairs Committee]], [[L3Harris Technologies]], [[National Association of Realtors]], [[AT&T - WarnerMedia]], [[BAE Systems]], [[General Dynamics]], [[Walmart - Walton Family]], [[Lockheed Martin]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Johnson & Johnson]], [[Bank of America]], [[National Cattlemen's Beef Association]], [[Tyson Foods]], [[National Rifle Association]], [[JPAC - Jewish Public Affairs Committee of California]], [[Comcast - NBCUniversal]], [[National Rental Home Council]], [[Citigroup]], [[Associated General Contractors of America Political Action Committee]], [[Care Action]], [[Pfizer Inc.]], [[Charles Schwab]], [[Raytheon (RTX Corporation)]], [[Boeing]], [[Morgan Stanley]], [[US CHAMBER OF COMMERCE]], [[CBRE Group]], [[Southern Company]], [[ExxonMobil]], [[Tenet Healthcare]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[Novo Nordisk]], [[Walmart]], [[Kelcy Warren - Energy Transfer Partners]], [[Goldman Sachs]], [[JPMorgan Chase]], [[Amazon]], [[AT&T]], [[Eli Lilly]]"
 ---
 
 

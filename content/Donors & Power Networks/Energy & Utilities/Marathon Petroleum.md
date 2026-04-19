@@ -2,12 +2,12 @@
 title: Marathon Petroleum
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 2
 parent: null
 sector: Energy & Utilities
 entity-type: Corporation
-politicians-funded: "[[Cathy McMorris Rodgers]], [[Kevin McCarthy]], [[John Barrasso]]"
+politicians-funded: "[[Cathy McMorris Rodgers]], [[Kevin McCarthy]], [[John Barrasso]], [[_Jon Ossoff Master Profile]], [[Nancy Mace]], [[Save America PAC]], [[Young Kim]], [[Troy Balderson]], [[ActBlue]], [[Tim Scott]], [[Jay Obernolte]], [[Sam Graves]], [[Shelley Moore Capito]], [[Byron Donalds]], [[Glenn Thompson]], [[Monica de la Cruz]], [[Catherine Cortez Masto]], [[Patrick McHenry]], [[Kat Cammack]], [[Mike Lee]], [[Mike Kennedy]], [[John Kennedy]], [[Jodey Arrington]], [[Steve Scalise]], [[Roger Williams]], [[_Nancy Pelosi Master Profile]], [[Michael Guest]], [[Senate Conservatives Fund]], [[Marathon Petroleum]], [[Everytown for Gun Safety Victory Fund]], [[Carlos Gimenez]], [[Tom Cole]], [[Brett Guthrie]], [[Richard Hudson]], [[David Schweikert]], [[Campaign for Working Families]], [[Julie Fedorchak]], [[Progressive Turnout Project]], [[DCCC - Democratic Congressional Campaign Committee]], [[RNC - Republican National Committee]], [[Lance Gooden]], [[_Ron Johnson Master Profile]], [[Rick Larsen]], [[Rick Scott]], [[Vicente Gonzalez]], [[Guy Reschenthaler]], [[Mike Carey]], [[Mike Thompson]], [[John Joyce]], [[Ken Calvert]], [[Law Enforcement for a Safer America Pac]], [[Darin Lahood]], [[Barry Loudermilk]], [[John James]], [[Michael Cloud]], [[Daniel Meuser]], [[Jim Costa]], [[Rudy Yakym]], [[Michelle Fischbach]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Mariannette Miller-Meeks]], [[Vince Fong]], [[NRSC - National Republican Senatorial Committee]], [[James Comer]], [[Frank Lucas]], [[Morgan Luttrell]], [[Bryan Steil]], [[_Andre Carson Master Profile]], [[_Victoria Spartz Master Profile]], [[Elise Stefanik]], [[Women Speak Out Pac]], [[David Kustoff]], [[WinRed]], [[_Ted Cruz Master Profile]], [[Scott Franklin]], [[August Pfluger]], [[Pete Stauber]], [[Mark Kelly]], [[Michael Lawler]], [[Roger Marshall]], [[Steve Womack]], [[Dusty Johnson]], [[National Rifle Association]], [[Kevin Cramer]], [[Ron Estes]], [[Dan Crenshaw]], [[Deb Fischer]], [[Steve Daines]], [[Club for Growth INC PAC]], [[Bernie Moreno]], [[Tracey Mann]], [[Jon Husted]], [[The Lincoln Project]], [[Tim Walberg]], [[Dan Sullivan]], [[John Boozman]], [[NRCC - National Republican Congressional Committee]], [[Lisa Murkowski]], [[_Andy Barr Master Profile]], [[Lloyd Smucker]], [[Victoria Spartz]], [[Russ Fulcher]], [[Jason Smith]], [[Henry Cuellar]], [[Todd Young]], [[Ronny Jackson]], [[John Thune]], [[Jeff Crank]], [[_Marco Rubio Master Profile]], [[Roger Wicker]], [[Bruce Westerman]], [[MAGA Inc]], [[Adrian Smith]], [[Brian Babin]], [[Nathaniel Moran]], [[James Lankford]], [[Veronica Escobar]], [[Harold Rogers]], [[Michael Whatley]], [[Kay Granger]], [[Markwayne Mullin]], [[_Christian D. Menefee Master Profile]], [[Marie Gluesenkamp Perez]], [[Hmp]], [[Tim Sheehy]], [[_John James Master Profile]], [[John Hoeven]], [[Christian D. Menefee]], [[Nancy Pelosi]], [[Andy Barr]], [[Ted Cruz]], [[Andre Carson]], [[Ron Johnson]], [[Marco Rubio]], [[Jon Ossoff]]"
 issues:
   - Energy & Climate
   - Dark Money & Campaign Finance
@@ -94,7 +94,7 @@ total-assets: 1240962
 cross-vault-triangulation-count: 18
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 96
-epa-states: "AL, CA, IL, IN, KY, LA, MD, MI, ND, OH, OK, TN, TX, WI, WV"
+epa-states: AL, CA, IL, IN, KY, LA, MD, MI, ND, OH, OK, TN, TX, WI, WV
 total-raised: 859027
 total-spent: 908335
 cash-on-hand: 520127
@@ -554,3 +554,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2015 Filing](https://projects.propublica.org/nonprofits/organizations/464439930/2015)~~ (URL broken, archived by Ops)
 - ~~[2014 Filing](https://projects.propublica.org/nonprofits/organizations/464439930/2014)~~ (URL broken, archived by Ops)
 - ~~[2013 Filing](https://projects.propublica.org/nonprofits/organizations/464439930/2013)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 2 (2020–2022)
+
+**Most recent filing (2022):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | — |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

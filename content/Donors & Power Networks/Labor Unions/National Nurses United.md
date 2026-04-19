@@ -2,7 +2,7 @@
 title: National Nurses United
 type: donor
 content-readiness: ready
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 2
 parent: null
 sector: Labor Unions
@@ -14,7 +14,7 @@ annual-revenue: $18.1M
 net-assets: $52.0M
 tax-year: "2023"
 total-political-spend: $25,048,260
-politicians-funded: "[[Raul Grijalva]], [[Mark Takano]], [[Jim McGovern]], [[Ilhan Omar]], [[Tammy Baldwin]], [[Bernie Sanders]], [[Sarah Huckabee Sanders]]"
+politicians-funded: "[[Raul Grijalva]], [[Mark Takano]], [[Jim McGovern]], [[Ilhan Omar]], [[Tammy Baldwin]], [[Bernie Sanders]], [[Sarah Huckabee Sanders]], [[John Fetterman]], [[Rashida Tlaib]], [[Maxwell Frost]], [[Elizabeth Warren]], [[_Rashida Tlaib Master Profile]], [[Lateefah Simon]], [[Judy Chu]], [[Pramila Jayapal]], [[Dina Titus]], [[Raphael Warnock]], [[Daniel Biss]], [[Jamaal Bowman]], [[Sydney Kamlager-Dove]], [[Juliana Stratton]], [[National Nurses United]], [[Betty McCollum]], [[Dave Min]], [[Eric Swalwell]], [[Indivisible Action]], [[Alexandria Ocasio-Cortez]], [[George Whitesides]], [[Veronica Escobar]], [[Alex Padilla]], [[Nikema Williams]], [[Barbara Lee]], [[Summer Lee]], [[Jon Ossoff]], [[Sherrod Brown]], [[Working Families Party PAC]], [[Josh Harder]], [[Paul Tonko]], [[Lloyd Doggett]], [[Brad Sherman]], [[Ro Khanna]], [[Robert Garcia]], [[Nina Turner]], [[ActBlue]], [[Cori Bush]], [[Mark Pocan]], [[Jahana Hayes]], [[Debbie Dingell]], [[Ayanna Pressley]], [[Elissa Slotkin]], [[Diana Degette]], [[Jamie Raskin]], [[Steve Cohen]], [[Laura Friedman]], [[Jared Huffman]], [[Derek Tran]], [[Kevin Mullin]], [[Shri Thanedar]], [[Grace Meng]], [[Dan Goldman]], [[Dan Osborn]], [[Graham Platner]], [[WinSenate]], [[Mike Quigley]], [[Sara Jacobs]]"
 federal-register-mentions: 28
 last-enriched: "2026-04-07"
 regulatory-agencies:
@@ -283,3 +283,50 @@ National Nurses United represents class analysis embedded within labor organizin
 
 - [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
 <!-- auto:fec-individual end -->
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2018–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | $52.0M |
+| Grants paid out | $325K |
+
+**Lifetime grants out (2018–2023):** $2.8M across 42 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| RUTGERS UNIVERSITY | $1.0M | 6 | 2018–2023 |
+| AMERICAN UNIVERSITY | $422K | 2 | 2018–2019 |
+| HEALTHCARE NOW | $101K | 5 | 2018–2022 |
+| BLACK VOTERS MATTER FUND | $100K | 1 | 2021 |
+| THE NEW GEORGIA PROJECT | $100K | 1 | 2021 |
+| TAKEACTION MINNESOTA | $100K | 1 | 2019 |
+| PENSION RIGHTS CENTER | $90K | 6 | 2018–2023 |
+| CONSUMER WATCHDOG CAMPAIGN | $75K | 1 | 2018 |
+| UMWA STRIKE AID FUND | $60K | 2 | 2021–2022 |
+| PROGRESSIVE DEMOCRATS OF AMERICA | $60K | 1 | 2018 |
+| UNITE HERE EDUCATION AND SUPPORT FUND | $50K | 1 | 2020 |
+| MNA ST VINCENT STRIKE FUNDMNA ST VINCENT STRIKE FUND | $50K | 1 | 2021 |
+| PRIDE AT WORK | $50K | 2 | 2021–2023 |
+| MARCH FOR OUR LIVES ACTION FUND | $50K | 1 | 2022 |
+| SANDERS INSTITUTE | $50K | 1 | 2019 |
+| OUR REVOLUTION TEXAS | $40K | 1 | 2018 |
+| PROGRESSIVECONGRESSORG | $40K | 1 | 2018 |
+| LABOR CAMPAIGN FOR SINGLE PAYER HEALTHCARE | $30K | 3 | 2018–2023 |
+| UNITED WAY OF KENTUCKY | $25K | 1 | 2022 |
+| COALITION OF BLACK TRADE UNIONISTS | $25K | 1 | 2023 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

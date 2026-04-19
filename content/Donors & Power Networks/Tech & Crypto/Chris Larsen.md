@@ -9,7 +9,7 @@ sector: Tech & Crypto
 entity-type: Individual Donor
 issues:
   - Cryptocurrency Regulation
-politicians-funded: "[[Kamala Harris]]"
+politicians-funded: "[[Kamala Harris]], [[ActBlue]]"
 related: "[[Ripple Labs]] · [[Fairshake PAC]] · [[Future Forward]] · [[_Kamala Harris Master Profile]] · [[Brad Garlinghouse]]"
 source-types: []
 known-gaps:

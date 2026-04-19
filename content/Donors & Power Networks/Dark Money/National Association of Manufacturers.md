@@ -2,12 +2,12 @@
 title: National Association of Manufacturers
 type: donor
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Dark Money
 entity-type: Individual Donor
-politicians-funded: "[[Steve Scalise]], [[Donald Trump]], [[Jason Smith]], [[JD Vance]], [[Adam Smith]]"
+politicians-funded: "[[Steve Scalise]], [[Donald Trump]], [[Jason Smith]], [[JD Vance]], [[Adam Smith]], [[Mike Carey]], [[Mariannette Miller-Meeks]], [[Pete Aguilar]], [[David Rouzer]], [[Jim Costa]], [[Shelley Moore Capito]], [[ActBlue]], [[MAGA Inc]], [[NRSC - National Republican Senatorial Committee]], [[Darin Lahood]], [[Mike Thompson]], [[Rick Larsen]], [[Ron Estes]], [[Patrick McHenry]], [[Rudy Yakym]], [[Brett Guthrie]], [[WinRed]], [[Cathy McMorris Rodgers]], [[John Thune]], [[_Jason Smith Master Profile]], [[Emanuel Cleaver]], [[Kyrsten Sinema]], [[Bryan Steil]], [[Diana Harshbarger]], [[Adrian Smith]], [[John Barrasso]], [[Nicole Malliotakis]], [[Pete Stauber]], [[Lloyd Smucker]], [[Virginia Foxx]], [[Richard Hudson]], [[Raja Krishnamoorthi]], [[John Cornyn]], [[Rick Crawford]], [[Seth Magaziner]], [[Frank Lucas]], [[Troy Balderson]], [[Dan Crenshaw]], [[_Marco Rubio Master Profile]], [[Joseph Morelle]], [[Joni Ernst]], [[Bruce Westerman]], [[Kevin McCarthy]], [[VIEW PAC - Value in Electing Women]], [[Roger Wicker]], [[Mitt Romney]], [[Nikki Budzinski]], [[Darren Soto]], [[Marie Gluesenkamp Perez]], [[Jodey Arrington]], [[Debbie Dingell]], [[Steven Horsford]], [[Glenn Grothman]], [[Josh Gottheimer]], [[Bob Casey]], [[Marilyn Strickland]], [[_Adrian Smith Master Profile]], [[Elise Stefanik]], [[Dan Newhouse]], [[James Lankford]], [[Todd Young]], [[Guy Reschenthaler]], [[Vicente Gonzalez]], [[Jerry Moran]], [[Tim Walberg]], [[John Hoeven]], [[Dusty Johnson]], [[David Schweikert]], [[Richard Neal]], [[Ann Wagner]], [[Tom Cole]], [[David Kustoff]], [[John Hickenlooper]], [[Sam Graves]], [[Tim Scott]], [[Katie Britt]], [[Joe Manchin]], [[Lisa Murkowski]], [[Nancy Mace]], [[Marco Rubio]]"
 issues:
   - Dark Money & Campaign Finance
   - Energy & Climate
@@ -394,3 +394,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/742553304/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/742553304/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/742553304/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 7 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | $6.6M |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

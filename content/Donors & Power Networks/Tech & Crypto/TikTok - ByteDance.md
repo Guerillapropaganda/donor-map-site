@@ -1,32 +1,31 @@
 ---
-title: "TikTok - ByteDance"
+title: TikTok - ByteDance
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-09T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Tech & Crypto"
-entity-type: "Corporation"
+sector: Tech & Crypto
+entity-type: Corporation
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-07"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 related: "[[Mark Zuckerberg]] · [[Meta - Facebook]] · [[Google - Alphabet]] · [[Apple]]"
 sec-filings: 2
 sec-form-types:
-  - "253G1"
-  - "PART II AND III"
+  - 253G1
+  - PART II AND III
 cross-vault-triangulation-count: 4
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
 epa-facilities: 1
-epa-states: "CA"
+epa-states: CA
 employee-contributions: 479
 employee-contributions-total: 169947
 employee-donor-count: 150
+politicians-funded: "[[_Mark Green Master Profile]], [[_Lisa Blunt Rochester Master Profile]], [[_Pete Aguilar Master Profile]], [[Emily's List]], [[_Gabe Vasquez Master Profile]], [[Catherine Cortez Masto]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Gabe Amo Master Profile]], [[ActBlue]], [[_Nancy Pelosi Master Profile]], [[_Vince Fong Master Profile]], [[_Sydney Kamlager-Dove Master Profile]], [[_Rashida Tlaib Master Profile]], [[_Tim Scott Master Profile]], [[_Josh Riley Master Profile]], [[WinRed]], [[DSCC - Democratic Senatorial Campaign Committee]], [[NRCC - National Republican Congressional Committee]], [[_Alex Padilla Master Profile]], [[_Jon Ossoff Master Profile]], [[The Lincoln Project]], [[_Debbie Wasserman Schultz Master Profile]], [[_Debbie Dingell Master Profile]], [[_Robert Garcia Master Profile]], [[Bob Casey]], [[_Martin Heinrich Master Profile]], [[FreedomWorks for America]], [[JUSTICE DEMOCRATS PAC]], [[Tim Scott]], [[Martin Heinrich]], [[Mark Green]], [[Sydney Kamlager-Dove]], [[Debbie Dingell]], [[Debbie Wasserman Schultz]], [[Jon Ossoff]], [[Vince Fong]], [[Gabe Amo]], [[Nancy Pelosi]], [[Rashida Tlaib]], [[Pete Aguilar]], [[Robert Garcia]], [[Josh Riley]], [[Lisa Blunt Rochester]], [[Alex Padilla]], [[Gabe Vasquez]]"
 ---
 
 

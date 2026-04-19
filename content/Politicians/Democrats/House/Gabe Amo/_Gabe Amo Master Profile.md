@@ -1,32 +1,33 @@
 ---
-title: "Gabe Amo"
+title: Gabe Amo
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Rhode Island"
-state-abbr: "RI"
+party: Democrat
+chamber: House
+state: Rhode Island
+state-abbr: RI
 district: "1"
-bioguide-id: "A000380"
+bioguide-id: A000380
 govtrack-id: 456955
 born: "1987-12-11"
-wikidata-id: "Q118901875"
-website: "https://amo.house.gov"
-phone: "202-225-4911"
+wikidata-id: Q118901875
+website: https://amo.house.gov
+phone: 202-225-4911
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 4
 bills-cosponsored: 285
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[BlackRock]], [[Fidelity Investments]], [[Amazon]], [[Tesla - Elon Musk Political Operation]], [[Everytown for Gun Safety]], [[Uber]], [[CBRE Group]], [[Lyft]], [[Tyson Foods]], [[Raytheon (RTX Corporation)]], [[DNC - Democratic National Committee]], [[News Corp - Fox Corporation]], [[TikTok - ByteDance]], [[DoorDash]], [[Arabella Advisors]], [[Palantir Technologies]], [[Google - Alphabet]], [[Booz Allen Hamilton]], [[Anduril Industries]], [[a16z - Andreessen Horowitz]], [[Center for American Progress]], [[US CHAMBER OF COMMERCE]], [[BAE Systems]], [[Lockheed Martin]], [[Meta - Facebook]], [[Ballard Partners]], [[AT&T]], [[UPS]], [[Goldman Sachs]], [[JPMorgan Chase]], [[Comcast - NBCUniversal]], [[Amgen Inc]], [[Verizon]], [[Microsoft]], [[Bank of America]], [[CVS Health - Aetna]], [[Blackstone Group]], [[League of Conservation Voters]]"
 ---
 
 

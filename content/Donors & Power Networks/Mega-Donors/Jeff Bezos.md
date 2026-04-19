@@ -28,7 +28,7 @@ sec-form-types:
   - PX14A6G
   - S-8
 total-political-spend: $10,358,971
-politicians-funded: "[[Maria Cantwell]], [[Patty Murray]]"
+politicians-funded: "[[Maria Cantwell]], [[Patty Murray]], [[WinRed]], [[MAGA Inc]]"
 last-enriched: "2026-04-10"
 related: "[[Patty Murray]] · [[Maria Cantwell]] · [[Amazon]] · [[SpaceX]] · [[Mark Zuckerberg]] · [[Elon Musk]]"
 federal-register-mentions: 2

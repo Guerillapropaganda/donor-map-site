@@ -1,33 +1,34 @@
 ---
-title: "Michael Lawler"
+title: Michael Lawler
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "New York"
-state-abbr: "NY"
+party: Republican
+chamber: House
+state: New York
+state-abbr: NY
 district: "17"
-bioguide-id: "L000599"
+bioguide-id: L000599
 govtrack-id: 456924
 born: "1986-09-09"
-wikidata-id: "Q105179052"
-website: "https://lawler.house.gov"
-phone: "202-225-6506"
+wikidata-id: Q105179052
+website: https://lawler.house.gov
+phone: 202-225-6506
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H2NY17162"
+fec-candidate-id: H2NY17162
 bills-sponsored: 68
 bills-cosponsored: 1258
 bills-enacted: 1
-top-policy-area: "International Affairs"
+top-policy-area: International Affairs
+top-donors: "[[Votevets]], [[Mark Green]], [[Pfizer Inc.]], [[Jim Jordan]], [[AT&T - WarnerMedia]], [[Duke Energy]], [[Honeywell]], [[Amgen Inc]], [[MAJORITY PAC]], [[Carlos Gimenez]], [[Indivisible Action]], [[Scott Franklin]], [[Planned Parenthood Votes]], [[Byron Donalds]], [[Google - Alphabet]], [[Mike Haridopolos]], [[NORPAC]], [[Austin Scott]], [[Citigroup]], [[Brad Knott]], [[National Association of Realtors]], [[American Hospital Association PAC]], [[Coinbase]], [[Hmp]], [[Jason Smith]], [[RNC - Republican National Committee]], [[Ron Estes]], [[Congressional Leadership Fund]], [[IBEW - International Brotherhood of Electrical Workers]], [[Activate America]], [[Teamsters - International Brotherhood of Teamsters]], [[David Rouzer]], [[Republican Jewish Coalition]], [[NRCC - National Republican Congressional Committee]], [[Marathon Petroleum]], [[Morgan Stanley]], [[Rick W. Allen]], [[Bank of America]], [[AbbVie]], [[AIPAC - American Israel Public Affairs Committee]], [[DCCC - Democratic Congressional Campaign Committee]], [[August Pfluger]], [[Joe Wilson]], [[Adrian Smith]], [[National Right to Life Victory Fund]], [[Walmart - Walton Family]], [[Cliff Bentz]], [[Giffords PAC]], [[Tzedek PAC]], [[League of Conservation Voters]], [[Anthem - Elevance Health]], [[National Multifamily Housing Council]], [[America PAC - Elon Musk]], [[Andy Harris]], [[Jake Ellzey]], [[Chevron]], [[WinRed]], [[Darrell Issa]], [[Ben Cline]], [[Care Action]], [[Victoria Spartz]], [[National Restaurant Association]], [[Associated General Contractors of America Political Action Committee]], [[Lockheed Martin]], [[Comcast - NBCUniversal]], [[General Motors]], [[Drummond Co.]], [[Pete Sessions]], [[CVS Health - Aetna]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[General Dynamics]], [[NextEra Energy]], [[MoveOn.org Political Action]], [[ConocoPhillips]]"
 ---
 
 

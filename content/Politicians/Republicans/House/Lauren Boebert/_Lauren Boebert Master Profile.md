@@ -4,7 +4,7 @@ type: politician
 bioguide-id: B000825
 content-readiness: ready
 central-thesis: "Boebert is the culture war economy personified: she converts media attention into campaign donations without producing legislation or serving donor-class interests in the traditional sense. Her fundraising operates outside the committee-jurisdicti..."
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Republican
@@ -25,12 +25,12 @@ known-gaps:
   - No mapped relationships
 related: "[[_Marjorie Taylor Greene Master Profile|MTG]] · [[National Rifle Association]] · [[Club for Growth]] · [[Freedom Caucus]] · [[American Petroleum Institute]] · [[Koch Industries]] · [[House Majority PAC]]"
 top-donors: "[[Colorado United Pac]]"
-donors: "[[Colorado United Pac]]"
+donors: "[[Colorado United Pac]], [[August Pfluger]], [[Drain the DC Swamp PAC]], [[Jim Jordan]], [[MAJORITY PAC]], [[Gun Owners of America]], [[Really American Pac]], [[Jeff Hurd]], [[Club for Growth INC PAC]], [[American Conservative Union]], [[National Rifle Association]], [[Everytown for Gun Safety Victory Fund]], [[Let America Vote PAC]], [[Votevets]], [[Byron Donalds]], [[Pete Sessions]], [[REPUBLICAN PARTY OF FLORIDA]], [[Jason Smith]], [[Save America PAC]], [[David Rouzer]], [[Women Speak Out Pac]], [[The Lincoln Project]], [[Andy Harris]], [[Ron Estes]], [[Thomas Massie]], [[WinRed]], [[Freedom's Defense Fund]], [[Eric Burlison]], [[Anthem - Elevance Health Political Operation]], [[UPS]], [[Google - Alphabet]], [[Amazon]], [[Lockheed Martin]], [[Northrop Grumman]], [[Bank of America]], [[Boeing]], [[Tenet Healthcare]], [[ExxonMobil]], [[Verizon]], [[Ford Motor Company]], [[Cigna Group]], [[Honeywell International]], [[Oracle]], [[Leidos]], [[IBEW - International Brotherhood of Electrical Workers]], [[AT&T]], [[Walmart]], [[Merck]], [[SpaceX]], [[MasTec - Mas Canosa Family]], [[Raytheon (RTX Corporation)]], [[Wells Fargo]], [[CVS Health - Aetna]], [[Comcast - NBCUniversal]], [[Kelcy Warren - Energy Transfer Partners]], [[Walt Disney Company]], [[Chevron]], [[Microsoft]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 26
 bills-cosponsored: 335
 bills-enacted: 0
-top-policy-area: "Government Operations and Politics"
+top-policy-area: Government Operations and Politics
 ---
 
 

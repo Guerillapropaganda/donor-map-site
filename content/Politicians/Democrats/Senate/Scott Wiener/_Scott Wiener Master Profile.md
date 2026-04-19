@@ -1,23 +1,24 @@
 ---
-title: "Scott Wiener"
+title: Scott Wiener
 type: politician
 content-readiness: draft
 central-thesis: "Wiener is the YIMBY movement's legislative champion , a pro-housing Democrat whose landmark bills (SB 35, SB 50, SB 827) have reshaped California development policy. But his funding reveals the core tension: over $500K from real estate interests a..."
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 editorial-notes: "[Research Claude 2026-04-16] Added Class Analysis section."
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "Senate"
-state: "California"
-state-abbr: "CA"
+party: Democrat
+chamber: Senate
+state: California
+state-abbr: CA
 issues:
-  - "Housing"
-  - "Technology"
-total-received: "$2,785,989"
-fec-candidate-id: "H8CA11116"
+  - Housing
+  - Technology
+total-received: $2,785,989
+fec-candidate-id: H8CA11116
 related: "[[National Multifamily Housing Council]] · [[Real Estate Donors]]"
 urls-first-triaged: "2026-04-15"
+top-donors: "[[United Food and Commercial Workers International Union Active Ballot Club]], [[Meta - Facebook]], [[Microsoft]], [[Anthropic]], [[Uber]], [[Google - Alphabet]], [[Apple]], [[Verizon]], [[Founders Fund]], [[SpaceX]], [[AT&T]], [[Ripple]], [[Palantir Technologies]], [[Tesla - Elon Musk Political Operation]], [[Airbnb]], [[OpenAI]], [[PG&E - Pacific Gas and Electric]], [[Charles Schwab]], [[JPMorgan Chase]]"
 ---
 
 

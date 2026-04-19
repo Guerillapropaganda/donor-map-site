@@ -1,33 +1,34 @@
 ---
-title: "Ted Lieu"
+title: Ted Lieu
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "California"
-state-abbr: "CA"
+party: Democrat
+chamber: House
+state: California
+state-abbr: CA
 district: "36"
-bioguide-id: "L000582"
+bioguide-id: L000582
 govtrack-id: 412616
 born: "1969-03-29"
-wikidata-id: "Q7693450"
-website: "https://lieu.house.gov"
-phone: "202-225-3976"
+wikidata-id: Q7693450
+website: https://lieu.house.gov
+phone: 202-225-3976
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H4CA33119"
+fec-candidate-id: H4CA33119
 bills-sponsored: 57
 bills-cosponsored: 724
 bills-enacted: 1
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Teamsters - International Brotherhood of Teamsters]], [[National Multifamily Housing Council]], [[Tzedek PAC]], [[Google - Alphabet]], [[Microsoft]], [[UA Political Action Committee]], [[Anthem - Elevance Health]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[NEA Fund for Children and Public Education]], [[Everytown for Gun Safety]], [[AT&T - WarnerMedia]], [[Raytheon (RTX)]], [[Comcast - NBCUniversal]], [[American College of Radiology Association PAC]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Sierra Club Political Committee]], [[Walmart - Walton Family]], [[DCCC - Democratic Congressional Campaign Committee]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[League of Conservation Voters]], [[AIPAC - American Israel Public Affairs Committee]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Coinbase]], [[Lockheed Martin]], [[Medicare for All - The Policy That Broke the Party]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[Bank of America]], [[Gilead Sciences]], [[Honeywell]], [[CVS Health - Aetna]], [[L3Harris Technologies]], [[General Motors]], [[IBEW - International Brotherhood of Electrical Workers]], [[National Education Association]], [[Votevets]], [[American Hospital Association PAC]], [[Progressive Turnout Project]], [[Courage California Super Pac]], [[Let America Vote PAC]], [[SEIU COPE]], [[Susie Lee]], [[McDonalds Corporation]], [[National Association of Realtors]], [[Pfizer Inc.]], [[AbbVie]], [[Northrop Grumman]], [[Amgen Inc]], [[Sierra Club Independent Action]], [[DMFI - Democratic Majority for Israel]], [[Planned Parenthood Votes]], [[iHeartMedia]], [[Oracle]], [[Goldman Sachs]], [[Apple]], [[CTA - California Teachers Association]], [[Morgan Stanley]], [[Amazon]], [[AT&T]], [[Anthropic]], [[Fanjul Family - Florida Crystals]], [[Meta - Facebook]], [[SpaceX]], [[Blue Shield of California]], [[Kaiser Permanente]], [[News Corp - Fox Corporation]], [[Raytheon (RTX Corporation)]], [[Boeing]], [[QVT Financial]], [[Starbucks]], [[Center for American Progress]], [[ExxonMobil]], [[SEIU - Service Employees International Union]]"
 ---
 
 

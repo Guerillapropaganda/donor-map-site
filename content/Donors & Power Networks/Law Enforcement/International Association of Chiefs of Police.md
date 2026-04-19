@@ -191,3 +191,34 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/530227813/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/530227813/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/530227813/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 11 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | — |
+| Grants paid out | — |
+
+**Lifetime grants out (2018–2024):** $65K across 4 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| THE COMMUNITY FOUNDATION OF MIDDLE TENNESSEE INC | $25K | 1 | 2023 |
+| RESEARCH FOUNDATION OF CUNY | $20K | 1 | 2019 |
+| NATIONAL LAW ENFORCEMENT OFFICERS MEMORIAL FUND INC | $10K | 1 | 2023 |
+| NATIONAL LAW ENFORCEMENT OFFICERS MEMORIAL FUND | $10K | 1 | 2018 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

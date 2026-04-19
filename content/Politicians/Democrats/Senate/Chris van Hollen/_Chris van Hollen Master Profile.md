@@ -1,41 +1,42 @@
 ---
-title: "Chris van Hollen"
+title: Chris van Hollen
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "Senate"
-state: "Maryland"
-state-abbr: "MD"
-bioguide-id: "V000128"
+party: Democrat
+chamber: Senate
+state: Maryland
+state-abbr: MD
+bioguide-id: V000128
 govtrack-id: 400415
 born: "1959-01-10"
-wikidata-id: "Q1077819"
-website: "https://www.vanhollen.senate.gov"
-phone: "202-224-4654"
+wikidata-id: Q1077819
+website: https://www.vanhollen.senate.gov
+phone: 202-224-4654
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 stock-trades: 7
 stock-trade-tickers:
-  - "YUMC"
-  - "YUM"
-  - "VZ"
-  - "PEP"
-  - "JNJ"
-  - "GE"
-  - "T"
+  - YUMC
+  - YUM
+  - VZ
+  - PEP
+  - JNJ
+  - GE
+  - T
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "S6MD03441"
+fec-candidate-id: S6MD03441
 bills-sponsored: 51
 bills-cosponsored: 602
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Let America Vote PAC]], [[Google - Alphabet]], [[Bank of America]], [[Morgan Stanley]], [[J Street]], [[League of Conservation Voters]], [[Lockheed Martin]], [[Leidos]], [[Progressive Turnout Project]], [[AT&T - WarnerMedia]], [[Raytheon (RTX)]], [[L3Harris Technologies]], [[American Hospital Association PAC]], [[National Committee to Preserve Social Security PAC]], [[Ford Motor Company]], [[Teamsters - International Brotherhood of Teamsters]], [[iHeartMedia]], [[NEA Fund for Children and Public Education]], [[McDonalds Corporation]], [[National Restaurant Association]], [[National Association of Realtors]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Multifamily Housing Council]], [[Microsoft]], [[IBEW - International Brotherhood of Electrical Workers]], [[General Motors]], [[Honeywell]], [[Comcast - NBCUniversal]], [[Anthem - Elevance Health]], [[Pfizer Inc.]], [[Sierra Club Independent Action]], [[Sierra Club Political Committee]], [[Citigroup]], [[Nancy Pelosi]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Giffords PAC]], [[National Education Association]], [[SEIU COPE]], [[NextEra Energy]], [[General Dynamics]], [[Everytown for Gun Safety]]"
 ---
 
 

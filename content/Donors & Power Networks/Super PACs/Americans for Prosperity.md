@@ -297,3 +297,47 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/753148958/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/753148958/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/753148958/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 5 (2018–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $181.3M |
+| Total expenses | — |
+| Total assets (EOY) | $45.0M |
+| Grants paid out | $662K |
+
+**Lifetime grants out (2018–2023):** $1.4M across 17 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| Mackinac Center Action | $300K | 1 | 2023 |
+| AMERICA IS BETTER | $297K | 2 | 2022–2023 |
+| Vote No On 802 Association | $200K | 1 | 2020 |
+| Center for Worker Progress Action Inc | $100K | 1 | 2020 |
+| Excellence in Education National Inc | $100K | 1 | 2019 |
+| Greater North Dakota Chamber of Commerce | $90K | 1 | 2018 |
+| ALEC Action | $75K | 1 | 2020 |
+| JERSEY FIRST | $62K | 2 | 2022–2023 |
+| GROWING INDIANA TOGETHER INC | $50K | 1 | 2022 |
+| KANSAS LEGAL NETWORK INC | $35K | 1 | 2022 |
+| South Dakota Chamber of Commerce | $25K | 1 | 2018 |
+| American Oil &amp; Gas Alliance dba AOGA Inc | $18K | 1 | 2023 |
+| Manufacturer and Business Association | $18K | 1 | 2023 |
+| Wisconsin Manufacturers and Commerce Inc | $18K | 1 | 2023 |
+| Virginia Manufacturers Association Inc | $10K | 1 | 2020 |
+| Oregon Business &amp; Industry Association | $10K | 1 | 2023 |
+| No on Proposition 126 | $10K | 1 | 2018 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

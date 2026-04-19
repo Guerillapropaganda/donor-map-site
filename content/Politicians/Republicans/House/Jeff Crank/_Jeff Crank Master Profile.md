@@ -1,29 +1,30 @@
 ---
-title: "Jeff Crank"
+title: Jeff Crank
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Colorado"
-state-abbr: "CO"
+party: Republican
+chamber: House
+state: Colorado
+state-abbr: CO
 district: "5"
-bioguide-id: "C001137"
+bioguide-id: C001137
 govtrack-id: 456983
 born: "1967-01-28"
-wikidata-id: "Q27663361"
-website: "https://crank.house.gov"
-phone: "202-225-4422"
+wikidata-id: Q27663361
+website: https://crank.house.gov
+phone: 202-225-4422
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H6CO05142"
+fec-candidate-id: H6CO05142
+top-donors: "[[Chevron]], [[AT&T - WarnerMedia]], [[Troy Downing]], [[Performance Racing Inc.]], [[BAE Systems]], [[Care Action]], [[Comcast - NBCUniversal]], [[General Dynamics]], [[Jim Jordan]], [[National Restaurant Association]], [[Americans for Prosperity]], [[Raytheon (RTX)]], [[Jake Ellzey]], [[L3Harris Technologies]], [[Anthem - Elevance Health]], [[MAJORITY PAC]], [[Marathon Petroleum]], [[Jeff Hurd]], [[Associated General Contractors of America Political Action Committee]], [[Lockheed Martin]], [[Don Bacon]], [[National Rifle Association]], [[American Hospital Association PAC]], [[Leidos]], [[Stand Together]], [[CBRE Group]], [[Anduril Industries]], [[Koch Network - Charles Koch]]"
 ---
 
 

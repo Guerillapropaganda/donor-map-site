@@ -1,33 +1,34 @@
 ---
-title: "Sharice Davids"
+title: Sharice Davids
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Kansas"
-state-abbr: "KS"
+party: Democrat
+chamber: House
+state: Kansas
+state-abbr: KS
 district: "3"
-bioguide-id: "D000629"
+bioguide-id: D000629
 govtrack-id: 412780
 born: "1980-05-22"
-wikidata-id: "Q58322868"
-website: "https://davids.house.gov"
-phone: "202-225-2865"
+wikidata-id: Q58322868
+website: https://davids.house.gov
+phone: 202-225-2865
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H8KS03155"
+fec-candidate-id: H8KS03155
 bills-sponsored: 16
 bills-cosponsored: 420
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Walmart - Walton Family]], [[Teamsters - International Brotherhood of Teamsters]], [[National Association of Realtors]], [[SEIU COPE]], [[Raytheon (RTX)]], [[AIPAC - American Israel Public Affairs Committee]], [[Jason Crow]], [[UA Political Action Committee]], [[EQUALITY PROJECT PAC]], [[Putting People First Political Action Committee]], [[CHC BOLD PAC]], [[Honeywell]], [[National Multifamily Housing Council]], [[DMFI - Democratic Majority for Israel]], [[Veronica Escobar]], [[Hmp]], [[Anthem - Elevance Health]], [[Courage to Change PAC]], [[J Street]], [[American Federation of State County & Municipal Employees P E O P L E]], [[American Chemistry Council, INC]], [[Sierra Club Independent Action]], [[DoorDash]], [[Humana]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Mark Takano]], [[Protect the Vote]], [[ENVIRONMENT AMERICA INC]], [[NEA Fund for Children and Public Education]], [[National Cattlemen's Beef Association]], [[National Education Association]], [[Giffords PAC]], [[Ted Lieu]], [[Pete Aguilar]], [[General Motors]], [[Let America Vote PAC]], [[Everytown for Gun Safety]], [[Sara Jacobs]], [[League of Conservation Voters]], [[VOTER PROTECTION PROJECT]], [[Tyson Foods]], [[Google - Alphabet]], [[Paul Tonko]], [[Progressive Turnout Project]], [[Comcast - NBCUniversal]], [[Jamie Raskin]], [[Nancy Pelosi]], [[Leidos]], [[ADM - Archer Daniels Midland]], [[Debbie Dingell]], [[National Wildlife Federation Action Fund]], [[Care Action]], [[Adriano Espaillat]], [[Microsoft]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Bank of America]], [[Joe Neguse]], [[Diana Degette]], [[Emily's List]], [[AT&T - WarnerMedia]], [[Congressional Leadership Fund]], [[AFL-CIO]], [[Northrop Grumman]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Women Speak Out Pac]], [[CVS Health - Aetna]], [[Judy Chu]], [[Robert Garcia]], [[Julia Brownley]], [[General Dynamics]], [[Ford Motor Company]], [[IBEW - International Brotherhood of Electrical Workers]], [[MoveOn.org Political Action]], [[Sierra Club Political Committee]], [[DCCC - Democratic Congressional Campaign Committee]], [[Humane Society Legislative Fund]], [[American Hospital Association PAC]], [[McDonalds Corporation]], [[Planned Parenthood Votes]], [[Lockheed Martin]], [[Planned Parenthood Action Fund INC]]"
 ---
 
 

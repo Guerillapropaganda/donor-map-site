@@ -1,33 +1,34 @@
 ---
-title: "Marcy Kaptur"
+title: Marcy Kaptur
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Ohio"
-state-abbr: "OH"
+party: Democrat
+chamber: House
+state: Ohio
+state-abbr: OH
 district: "9"
-bioguide-id: "K000009"
+bioguide-id: K000009
 govtrack-id: 400211
 born: "1946-06-17"
-wikidata-id: "Q436537"
-website: "https://kaptur.house.gov"
-phone: "202-225-4146"
+wikidata-id: Q436537
+website: https://kaptur.house.gov
+phone: 202-225-4146
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H2OH09031"
+fec-candidate-id: H2OH09031
 bills-sponsored: 16
 bills-cosponsored: 249
 bills-enacted: 1
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[EQUALITY PROJECT PAC]], [[General Motors]], [[Chrissy Houlahan]], [[Lockheed Martin]], [[Nancy Pelosi]], [[Veronica Escobar]], [[Anthem - Elevance Health]], [[National Multifamily Housing Council]], [[General Dynamics]], [[Jason Crow]], [[American College of Radiology Association PAC]], [[BAE Systems]], [[Northrop Grumman]], [[National Association of Realtors]], [[Sara Jacobs]], [[UA Political Action Committee]], [[Diana Degette]], [[Ted Lieu]], [[Leidos]], [[Tyson Foods]], [[Planned Parenthood Votes]], [[Sierra Club Political Committee]], [[American Principles Project Pac]], [[Let America Vote PAC]], [[Raytheon (RTX)]], [[Duke Energy]], [[Progressive Turnout Project]], [[J Street]], [[Joe Neguse]], [[The Sentinel Action Fund]], [[Hmp]], [[Ford Motor Company]], [[IBEW - International Brotherhood of Electrical Workers]], [[Debbie Dingell]], [[Humane Society Legislative Fund]], [[Putting People First Political Action Committee]], [[American Hospital Association PAC]], [[Nucor Corporation]], [[NRCC - National Republican Congressional Committee]], [[Robert Garcia]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Honeywell]], [[SEIU COPE]], [[NEA Fund for Children and Public Education]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[National Committee to Preserve Social Security PAC]], [[Sierra Club Independent Action]], [[Mark Kelly]], [[Mark Takano]], [[DCCC - Democratic Congressional Campaign Committee]], [[Teamsters - International Brotherhood of Teamsters]], [[Pete Aguilar]], [[L3Harris Technologies]], [[AFL-CIO]], [[Shontel Brown]], [[iHeartMedia]], [[Marcia Fudge]], [[CHC BOLD PAC]], [[Protect the Vote]], [[League of Conservation Voters]], [[Judy Chu]], [[Morgan McGarvey]], [[Indivisible Action]], [[Jamie Raskin]], [[Planned Parenthood Action Fund INC]], [[Jim Costa]], [[Congressional Leadership Fund]], [[PG&E - Pacific Gas and Electric]], [[ADM - Archer Daniels Midland]], [[AFSCME Working Families Fund]], [[Bechtel Corporation]], [[Drain the DC Swamp PAC]], [[American Chemistry Council, INC]], [[Bill Foster]], [[Everytown for Gun Safety]], [[Paul Tonko]], [[Walmart - Walton Family]], [[Julia Brownley]], [[America PAC - Elon Musk]], [[Americans for Prosperity]], [[AT&T - WarnerMedia]], [[RESOLUTE COURAGE PAC]], [[National Cattlemen's Beef Association]], [[National Education Association]], [[Club for Growth]], [[Microsoft]]"
 ---
 
 

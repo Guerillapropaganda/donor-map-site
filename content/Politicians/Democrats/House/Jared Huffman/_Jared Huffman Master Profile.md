@@ -1,33 +1,34 @@
 ---
-title: "Jared Huffman"
+title: Jared Huffman
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "California"
-state-abbr: "CA"
+party: Democrat
+chamber: House
+state: California
+state-abbr: CA
 district: "2"
-bioguide-id: "H001068"
+bioguide-id: H001068
 govtrack-id: 412511
 born: "1964-02-18"
-wikidata-id: "Q3276717"
-website: "https://huffman.house.gov"
-phone: "202-225-5161"
+wikidata-id: Q3276717
+website: https://huffman.house.gov
+phone: 202-225-5161
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H2CA06259"
+fec-candidate-id: H2CA06259
 bills-sponsored: 34
 bills-cosponsored: 504
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Google - Alphabet]], [[American Hospital Association PAC]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Honeywell]], [[NEA Fund for Children and Public Education]], [[Walmart - Walton Family]], [[Sierra Club Political Committee]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[ENVIRONMENT AMERICA INC]], [[Medicare for All - The Policy That Broke the Party]], [[League of Conservation Voters]], [[Comcast - NBCUniversal]], [[AT&T - WarnerMedia]], [[CTA - California Teachers Association]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[J Street]], [[Courage California Super Pac]], [[National Association of Realtors]], [[Sierra Club Independent Action]], [[Teamsters - International Brotherhood of Teamsters]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[PG&E - Pacific Gas and Electric]], [[National Nurses United]], [[Planned Parenthood Votes]], [[IBEW - International Brotherhood of Electrical Workers]], [[SEIU COPE]], [[Progressive Turnout Project]]"
 ---
 
 

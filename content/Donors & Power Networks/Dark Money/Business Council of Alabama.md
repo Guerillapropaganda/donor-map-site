@@ -1,35 +1,35 @@
 ---
-title: "Business Council of Alabama"
+title: Business Council of Alabama
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-09T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Dark Money"
-entity-type: "Individual Donor"
+sector: Dark Money
+entity-type: Individual Donor
 issues:
-  - "Dark Money & Campaign Finance"
+  - Dark Money & Campaign Finance
 ein: "630922835"
-annual-revenue: "$4.8M"
-net-assets: "$7.7M"
+annual-revenue: $4.8M
+net-assets: $7.7M
 tax-year: "2023"
 court-cases: 30
 last-enriched: "2026-04-09"
 court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "Court of Appeals for the Eleventh Circuit"
-  - "District Court, M.D. Alabama"
-  - "District Court, N.D. Alabama"
-  - "District Court, N.D. Illinois"
-  - "District Court, S.D. Alabama"
-  - "District Court, S.D. Mississippi"
-  - "District Court, W.D. Washington"
-  - "United States Bankruptcy Court, S.D. Texas"
+  - Court of Appeals for the D.C. Circuit
+  - Court of Appeals for the Eleventh Circuit
+  - District Court, M.D. Alabama
+  - District Court, N.D. Alabama
+  - District Court, N.D. Illinois
+  - District Court, S.D. Alabama
+  - District Court, S.D. Mississippi
+  - District Court, W.D. Washington
+  - United States Bankruptcy Court, S.D. Texas
 related: "[[Katie Britt]]"
-nonprofit-status: "501(c)(6)"
+nonprofit-status: 501(c)(6)
 total-revenue: 7267008
 total-assets: 8134872
-total-political-spend: "$11,000"
+total-political-spend: $11,000
 cross-vault-triangulation-count: 1
 audit-a-plus-passed: "2026-04-11"
 checklist-na:
@@ -39,6 +39,7 @@ urls-first-triaged: "2026-04-15"
 employee-contributions: 4
 employee-contributions-total: 4000
 employee-donor-count: 3
+politicians-funded: "[[_Mike Rogers Master Profile]], [[WinRed]], [[Mike Rogers]]"
 ---
 
 
@@ -200,3 +201,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/630922835/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/630922835/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/630922835/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2018–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | $7.7M |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

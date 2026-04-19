@@ -3,7 +3,7 @@ title: Rick Larsen
 type: politician
 content-readiness: ready
 central-thesis: Rick Larsen is Boeing's Democratic guardian , the ranking member on Transportation who ensures the aviation giant has bipartisan protection in the House. His district hosts Boeing's largest factory. Boeing is his top donor. He chaired the Aviation...
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Democrat
@@ -28,7 +28,7 @@ issues:
   - Immigration
 top-donors:
   - Boeing
-donors: "[[IBEW - International Brotherhood of Electrical Workers]] · [[Boeing]] · [[American Crossroads]] · [[American Future Fund]] · [[NARAL]]"
+donors: "[[IBEW - International Brotherhood of Electrical Workers]] · [[Boeing]] · [[American Crossroads]] · [[American Future Fund]] · [[NARAL]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[SEIU COPE]] · [[Leidos]] · [[L3Harris Technologies]] · [[Google - Alphabet]] · [[National Association of Manufacturers]] · [[Bechtel Corporation]] · [[Performance Racing Inc.]] · [[Amgen Inc]] · [[Lockheed Martin]] · [[Marathon Petroleum]] · [[Honeywell]] · [[UA Political Action Committee]] · [[Raytheon (RTX)]] · [[NEA Fund for Children and Public Education]] · [[Puget Sound Energy INC PAC for Good Government]] · [[BAE Systems]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[ADM - Archer Daniels Midland]] · [[Comcast - NBCUniversal]] · [[Tyson Foods]] · [[Ford Motor Company]] · [[Progressive Turnout Project]] · [[General Dynamics]] · [[American Hospital Association PAC]] · [[Sierra Club Independent Action]] · [[General Motors]] · [[AT&T - WarnerMedia]] · [[AIPAC - American Israel Public Affairs Committee]] · [[PG&E - Pacific Gas and Electric]] · [[International Longshore and Warehouse Union -- Political Action Fund]] · [[NextEra Energy]] · [[League of Conservation Voters]] · [[Microsoft]] · [[National Multifamily Housing Council]] · [[DMFI - Democratic Majority for Israel]] · [[Associated General Contractors of America Political Action Committee]] · [[National Association of Realtors]] · [[Walmart - Walton Family]] · [[American Chemistry Council, INC]] · [[Northrop Grumman]] · [[Teamsters - International Brotherhood of Teamsters]] · [[iHeartMedia]] · [[Planned Parenthood Votes]] · [[DoorDash]]"
 total-received: $1,185,411
 fec-candidate-id: H0WA02080
 govtrack-id: 400232
@@ -43,8 +43,8 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 last-enriched: "2026-04-11"
 bioguide-id: L000560
 bills-enacted: 0
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "Armed Forces and National Security"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: Armed Forces and National Security
 ---
 
 

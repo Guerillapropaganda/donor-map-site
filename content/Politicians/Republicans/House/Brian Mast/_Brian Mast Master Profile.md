@@ -4,7 +4,7 @@ type: politician
 bioguide-id: M001199
 content-readiness: draft
 central-thesis: Brian Mast is AIPAC's man in the chairman's seat , the House Foreign Affairs Committee chair who has received nearly $700,000 from the pro-Israel lobby, volunteered with the Israeli military, wore an IDF uniform in Congress, compared Palestinian c...
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 editorial-notes: "[Research Claude 2026-04-16] Added Class Analysis section."
 source-tier: 1
 parent: null
@@ -29,7 +29,7 @@ corroboration-count: 2
 known-gaps:
   - No voting record data
   - No mapped relationships
-donors: "[[NORPAC]] · [[NRCC]] · [[SPECIAL OPERATIONS FOR AMERICA]] · [[WITH HONOR FUND, INC.]] · [[Fanjul Family - Florida Crystals]] · [[Special Operations for America]]"
+donors: "[[NORPAC]] · [[NRCC]] · [[SPECIAL OPERATIONS FOR AMERICA]] · [[WITH HONOR FUND, INC.]] · [[Fanjul Family - Florida Crystals]] · [[Special Operations for America]] · [[Tenet Healthcare]] · [[BAE Systems]] · [[Raytheon (RTX)]] · [[Comcast - NBCUniversal]] · [[UA Political Action Committee]] · [[Jason Smith]] · [[NextEra Energy]] · [[Walmart - Walton Family]] · [[National Association of Realtors]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Leidos]] · [[General Motors]] · [[Republican Jewish Coalition]] · [[Planned Parenthood Votes]] · [[Chevron]] · [[Save America PAC]] · [[American Chemistry Council, INC]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Lockheed Martin]] · [[Freedom's Defense Fund]] · [[ADM - Archer Daniels Midland]] · [[WinRed]] · [[David Rouzer]] · [[National Multifamily Housing Council]] · [[Las Vegas Sands]] · [[Wells Fargo]] · [[Morgan Stanley]] · [[CBRE Group]]"
 related: "[[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Marco Rubio Master Profile|Rubio]] · [[Fanjul Family - Florida Crystals]] · [[Operation Southern Spear and the Cuba Fuel Blockade]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]]"
 opensanctions-status: pep-sanctioned
 opensanctions-matches: 2
@@ -45,7 +45,7 @@ urls-first-triaged: "2026-04-15"
 bills-sponsored: 32
 bills-cosponsored: 212
 bills-enacted: 0
-top-policy-area: "International Affairs"
+top-policy-area: International Affairs
 ---
 
 

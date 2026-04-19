@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Mega-Donors
 entity-type: Individual Donor
-politicians-funded: "[[Donald Trump]], [[Greg Abbott]]"
+politicians-funded: "[[Donald Trump]], [[Greg Abbott]], [[NRCC - National Republican Congressional Committee]], [[_Pete Sessions Master Profile]], [[ActBlue]], [[RNC - Republican National Committee]], [[WinSenate]], [[_Jon Ossoff Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Trump Victory]], [[NRSC - National Republican Senatorial Committee]], [[Hmp]], [[The Lincoln Project]], [[Common Sense for America PAC]], [[_John James Master Profile]], [[_Lauren Boebert Master Profile]], [[_Carlos Gimenez Master Profile]], [[MAGA Inc]], [[Save America PAC]], [[America First Action]], [[_Anna Paulina Luna Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Ted Cruz Master Profile]], [[Congressional Leadership Fund]], [[Let America Vote PAC]], [[Mark Kelly]], [[Texans for a Conservative Majority]], [[_Mark Green Master Profile]], [[WinRed]], [[REPUBLICAN CAMPAIGN COMMITTEE OF NEW MEXICO]], [[Progressive Turnout Project]], [[_Christian D. Menefee Master Profile]], [[Truth and Courage PAC]], [[_Marco Rubio Master Profile]], [[_Tom Barrett Master Profile]], [[Ted Cruz]], [[Tom Barrett]], [[Mark Green]], [[Anna Paulina Luna]], [[Christian D. Menefee]], [[Marco Rubio]], [[Pete Sessions]], [[Jon Ossoff]], [[Lauren Boebert]], [[John James]], [[Carlos Gimenez]]"
 issues:
   - Energy & Climate
 sec-filings: 15
@@ -27,8 +27,8 @@ needs-reenrichment: true
 reenrich-reason: run fec pipeline; run pipelines
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 aliases:
-  - "Energy Transfer Partners"
-  - "Energy Transfer"
+  - Energy Transfer Partners
+  - Energy Transfer
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"

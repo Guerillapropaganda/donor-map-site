@@ -3,7 +3,7 @@ title: Matt Gaetz
 type: politician
 content-readiness: ready
 central-thesis: Gaetz is the donor class's chaos agent , his function is not to pass legislation but to make government dysfunctional enough that regulation becomes impossible. His father's $30M+ fortune from the healthcare industry means he doesn't need the dono...
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Republican
@@ -39,13 +39,13 @@ issues:
   - Government Operations and Politics
   - Health
   - Immigration
-donors: "[[Protect Freedom Political Action Committee]] · [[North Florida Neighbors]] · [[MAGA Small Dollar Base]] · [[Florida Conservative Fund]] · [[FLORIDA CONSERVATIVE FUND]] · [[Citizen Super PAC]] · [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]] · [[Florida Patriots Pac]]"
+donors: "[[Protect Freedom Political Action Committee]] · [[North Florida Neighbors]] · [[MAGA Small Dollar Base]] · [[Florida Conservative Fund]] · [[FLORIDA CONSERVATIVE FUND]] · [[Citizen Super PAC]] · [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]] · [[Florida Patriots Pac]] · [[Jim Jordan]] · [[Really American Pac]] · [[WinRed]] · [[The Lincoln Project]] · [[Mad Dog PAC]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 96
 bills-cosponsored: 1727
 bills-enacted: 0
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "Government Operations and Politics"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: Government Operations and Politics
 ---
 
 

@@ -2,12 +2,12 @@
 title: PhRMA - Pharmaceutical Research and Manufacturers of America
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 2
 parent: null
 sector: Pharma & Healthcare
 entity-type: Corporation
-politicians-funded: "[[Brett Guthrie]], [[Richard Neal]]"
+politicians-funded: "[[Brett Guthrie]], [[Richard Neal]], [[_Martin Heinrich Master Profile]], [[_Tim Scott Master Profile]], [[_Julia Brownley Master Profile]], [[_Josh Hawley Master Profile]], [[_Mike Kelly Master Profile]], [[NRCC - National Republican Congressional Committee]], [[ActBlue]], [[_Marcia Fudge Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[WinRed]], [[NRSC - National Republican Senatorial Committee]], [[_Lois Frankel Master Profile]], [[_Tammy Baldwin Master Profile]], [[_Kevin Kiley Master Profile]], [[_Pete Sessions Master Profile]], [[Emily's List]], [[_Lauren Underwood Master Profile]], [[_Chuck Edwards Master Profile]], [[_Aaron Bean Master Profile]], [[_Julia Letlow Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Diana Degette Master Profile]], [[_Ben Cline Master Profile]], [[_Chris Pappas Master Profile]], [[_Lisa Blunt Rochester Master Profile]], [[_Adam Gray Master Profile]], [[_Jake Auchincloss Master Profile]], [[_Brad Knott Master Profile]], [[_Jon Ossoff Master Profile]], [[_Chrissy Houlahan Master Profile]], [[Catherine Cortez Masto]], [[_Marco Rubio Master Profile]], [[_Gabe Vasquez Master Profile]], [[_Julie Johnson Master Profile]], [[Bob Casey]], [[Mark Kelly]], [[Chris Christie]], [[Tammy Baldwin]], [[Marco Rubio]], [[Brad Knott]], [[Julia Brownley]], [[Kevin Kiley]], [[Tim Scott]], [[Marcia Fudge]], [[Lauren Underwood]], [[Pete Sessions]], [[Julie Johnson]], [[Lois Frankel]], [[Adam Gray]], [[Chris Pappas]], [[Jake Auchincloss]], [[Aaron Bean]], [[Jon Ossoff]], [[Julia Letlow]], [[Chuck Edwards]], [[Ben Cline]], [[Mike Kelly]], [[Martin Heinrich]], [[Chrissy Houlahan]], [[Diana Degette]], [[Lisa Blunt Rochester]], [[Gabe Vasquez]], [[Josh Hawley]]"
 issues:
   - Healthcare
   - Dark Money & Campaign Finance
@@ -425,3 +425,50 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/530241211/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/530241211/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/530241211/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $1.1M |
+| Total expenses | — |
+| Total assets (EOY) | $349.0M |
+| Grants paid out | $41.4M |
+
+**Lifetime grants out (2018–2024):** $268.4M across 1,363 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| RX Abuse Leadership Initiative | $56.0M | 4 | 2018–2022 |
+| WE Work For Health | $26.8M | 3 | 2022–2024 |
+| American Action Network Inc | $21.0M | 5 | 2018–2024 |
+| ADDICTION POLICY FORUM | $14.2M | 2 | 2018–2019 |
+| Yale University | $10.0M | 5 | 2018–2024 |
+| Center Forward | $8.8M | 5 | 2018–2023 |
+| American Action Network | $7.5M | 1 | 2022 |
+| Healthcare Leadership Council | $4.2M | 6 | 2018–2024 |
+| Republican Governors Association | $2.3M | 6 | 2018–2024 |
+| Healthy Nevada PAC | $2.1M | 6 | 2018–2024 |
+| ORRIN G HATCH FOUNDATION | $2.1M | 2 | 2018–2019 |
+| Republican State Leadership Committee | $2.0M | 5 | 2019–2024 |
+| National Consumers League Inc | $1.8M | 4 | 2020–2024 |
+| AIDS Institute Inc | $1.5M | 6 | 2018–2024 |
+| PHRMA INDEPENDENT EXPENDITURE COMMITTEE | $1.5M | 2 | 2023–2024 |
+| American Lung Association | $1.5M | 6 | 2018–2024 |
+| Council for Affordable Health Coverage | $1.4M | 4 | 2020–2024 |
+| American Action Forum | $1.3M | 6 | 2018–2024 |
+| National Health Council | $1.3M | 4 | 2020–2024 |
+| Biotechnology Innovation Organization | $1.3M | 4 | 2018–2024 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

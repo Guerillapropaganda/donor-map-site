@@ -1,34 +1,34 @@
 ---
-title: "Julia Letlow"
+title: Julia Letlow
 type: politician
 content-readiness: raw
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Louisiana"
-state-abbr: "LA"
+party: Republican
+chamber: House
+state: Louisiana
+state-abbr: LA
 district: "5"
-bioguide-id: "L000595"
+bioguide-id: L000595
 govtrack-id: 456859
 born: "1981-03-16"
-wikidata-id: "Q106089241"
-website: "https://letlow.house.gov"
-phone: "202-225-8490"
+wikidata-id: Q106089241
+website: https://letlow.house.gov
+phone: 202-225-8490
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
-donors: "[[National Cattlemen's Beef Association]]"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
+donors: "[[National Cattlemen's Beef Association]], [[Leidos]], [[Wells Fargo]], [[Valero Energy]], [[Chevron]], [[Blackstone Group]], [[Apple]], [[Citadel - Kenneth Griffin]], [[FTX - Sam Bankman-Fried]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[Google - Alphabet]], [[Coinbase]], [[Amazon]], [[Fanjul Family - Florida Crystals]]"
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "S6LA00664"
+fec-candidate-id: S6LA00664
 bills-sponsored: 7
 bills-cosponsored: 162
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
 ---
 
 

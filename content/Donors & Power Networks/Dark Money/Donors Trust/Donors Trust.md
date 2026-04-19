@@ -1,21 +1,22 @@
 ---
-title: "Donors Trust"
+title: Donors Trust
 type: corporation
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 3
-sector: "Dark Money"
-entity-type: "corporation"
+sector: Dark Money
+entity-type: corporation
 known-gaps:
-  - "No FEC contribution data"
-  - "No lobbying data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No lobbying data
+  - No mapped relationships
 source-types: []
 related: "[[Stand Together]] · [[Judicial Crisis Network]]"
 urls-first-triaged: "2026-04-15"
 employee-contributions: 40
 employee-contributions-total: 6256
 employee-donor-count: 8
+politicians-funded: "[[NRSC - National Republican Senatorial Committee]], [[WinRed]], [[_Ted Cruz Master Profile]], [[RNC - Republican National Committee]], [[Ted Cruz]]"
 ---
 
 

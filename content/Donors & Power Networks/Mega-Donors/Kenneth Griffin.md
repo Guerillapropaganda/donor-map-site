@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Mega-Donors
 entity-type: Individual Donor
-politicians-funded: "[[Ron DeSantis]], [[Nikki Haley]], [[Maria Elvira Salazar]], [[Donald Trump]], [[Patrick McHenry]], [[DOGE - The Billionaires Government]]"
+politicians-funded: "[[Ron DeSantis]], [[Nikki Haley]], [[Maria Elvira Salazar]], [[Donald Trump]], [[Patrick McHenry]], [[DOGE - The Billionaires Government]], [[ActBlue]]"
 issues:
   - Wall Street & Finance
 court-cases: 168
@@ -120,6 +120,25 @@ employee-donor-count: 1
 
 *Source: FEC individual contribution filings (indiv), 1982–2026.*
 <!-- auto:fec-lifetime end -->
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 10 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | — |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->
 
 #donor #griffin #citadel #hedge-fund #wall-street #class-analysis #follow-the-money #financial-deregulation #anti-tariff #desantis #republican
 

@@ -1,34 +1,34 @@
 ---
-title: "Brad Finstad"
+title: Brad Finstad
 type: politician
 content-readiness: raw
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Minnesota"
-state-abbr: "MN"
+party: Republican
+chamber: House
+state: Minnesota
+state-abbr: MN
 district: "1"
-bioguide-id: "F000475"
+bioguide-id: F000475
 govtrack-id: 456869
 born: "1976-05-30"
-wikidata-id: "Q111159803"
-website: "https://finstad.house.gov"
-phone: "202-225-2472"
+wikidata-id: Q111159803
+website: https://finstad.house.gov
+phone: 202-225-2472
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
-donors: "[[Western Growers Association]] · [[National Cattlemen's Beef Association]]"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
+donors: "[[Western Growers Association]] · [[National Cattlemen's Beef Association]] · [[WinRed]] · [[David Rouzer]] · [[Americans for Prosperity]] · [[Walmart - Walton Family]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[Adrian Smith]] · [[Chevron]] · [[Comcast - NBCUniversal]] · [[Valero Energy]] · [[Ron Estes]] · [[Defending Main Street Superpac INC]] · [[AT&T - WarnerMedia]] · [[Leidos]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Austin Scott]] · [[Anthem - Elevance Health]] · [[Lockheed Martin]] · [[CVS Health - Aetna]] · [[General Dynamics]] · [[NRCC - National Republican Congressional Committee]] · [[Associated General Contractors of America Political Action Committee]] · [[Tyson Foods]] · [[American Hospital Association PAC]] · [[National Rifle Association]] · [[Raytheon (RTX)]] · [[MAJORITY PAC]] · [[BAE Systems]] · [[AIPAC - American Israel Public Affairs Committee]] · [[American Chemistry Council, INC]] · [[FREEDOM CLUB FEDERAL PAC]] · [[Jason Smith]] · [[American Dream Federal Action]] · [[National Association of Realtors]] · [[Honeywell]] · [[Northrop Grumman]] · [[ADM - Archer Daniels Midland]] · [[UA Political Action Committee]] · [[National Right to Life Victory Fund]] · [[Congressional Leadership Fund]] · [[Google - Alphabet]]"
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H2MN01223"
+fec-candidate-id: H2MN01223
 bills-sponsored: 31
 bills-cosponsored: 362
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
 ---
 
 

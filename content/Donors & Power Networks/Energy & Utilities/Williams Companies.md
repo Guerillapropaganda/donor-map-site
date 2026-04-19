@@ -1,89 +1,88 @@
 ---
-title: "Williams Companies"
+title: Williams Companies
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Energy & Utilities"
-entity-type: "Corporation"
+sector: Energy & Utilities
+entity-type: Corporation
 issues:
-  - "Energy & Climate"
+  - Energy & Climate
 sec-filings: 10000
 sec-form-types:
-  - "10-K/A"
+  - 10-K/A
   - "144"
   - "4"
-  - "424B2"
-  - "424B3"
-  - "424B5"
+  - 424B2
+  - 424B3
+  - 424B5
   - "425"
-  - "8-K"
-  - "8-K/A"
-  - "ARS"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "EX-10.(K)"
-  - "EX-10.1"
-  - "EX-10.3"
-  - "EX-10.6"
-  - "EX-23.1"
-  - "EX-4.(LL)"
-  - "EX-4.1"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "N-PX"
-  - "SC 13D"
-  - "SC 13D/A"
-  - "SCHEDULE 13G/A"
+  - 8-K
+  - 8-K/A
+  - ARS
+  - DEF 14A
+  - DEFA14A
+  - EX-10.(K)
+  - EX-10.1
+  - EX-10.3
+  - EX-10.6
+  - EX-23.1
+  - EX-4.(LL)
+  - EX-4.1
+  - EX-99.1
+  - EX-99.2
+  - N-PX
+  - SC 13D
+  - SC 13D/A
+  - SCHEDULE 13G/A
 ein: "237413843"
-annual-revenue: "$14.9M"
-net-assets: "$65.4M"
+annual-revenue: $14.9M
+net-assets: $65.4M
 tax-year: "2023"
-lei: "5493001M6BTAS56NAL04"
-lei-jurisdiction: "US"
+lei: 5493001M6BTAS56NAL04
+lei-jurisdiction: US
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-09"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 related: "[[InfluenceMap]] · [[Enterprise Products Partners]] · [[American Fuel and Petrochemical Manufacturers|AFPM]] · [[Joe Manchin]] · [[League of Conservation Voters]]"
 federal-register-mentions: 135
 regulatory-agencies:
-  - "Energy Department"
-  - "Federal Energy Regulatory Commission"
-  - "Federal Trade Commission"
-  - "Justice Department"
-  - "Pipeline and Hazardous Materials Safety Administration"
-  - "Securities and Exchange Commission"
-  - "Transportation Department"
+  - Energy Department
+  - Federal Energy Regulatory Commission
+  - Federal Trade Commission
+  - Justice Department
+  - Pipeline and Hazardous Materials Safety Administration
+  - Securities and Exchange Commission
+  - Transportation Department
 source-types:
   - DOJ
   - FederalRegister
   - SEC
 corroboration-count: 3
 known-gaps:
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
+  - No FEC contribution data
+  - No lobbying disclosure data
 court-cases: 768
 court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "Court of Appeals for the Ninth Circuit"
-  - "District Court, D. Arizona"
-  - "District Court, D. Colorado"
-  - "District Court, D. Kansas"
-  - "District Court, D. Minnesota"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. Louisiana"
-  - "District Court, M.D. Pennsylvania"
-  - "District Court, N.D. Ohio"
+  - Court of Appeals for the D.C. Circuit
+  - Court of Appeals for the Ninth Circuit
+  - District Court, D. Arizona
+  - District Court, D. Colorado
+  - District Court, D. Kansas
+  - District Court, D. Minnesota
+  - District Court, District of Columbia
+  - District Court, E.D. Louisiana
+  - District Court, M.D. Pennsylvania
+  - District Court, N.D. Ohio
 cross-vault-triangulation-count: 4
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 employee-contributions: 118
 employee-contributions-total: 26402
 employee-donor-count: 20
+politicians-funded: "[[WinSenate]], [[Emily's List]], [[WinRed]], [[FreedomWorks for America]], [[NRCC - National Republican Congressional Committee]], [[ActBlue]], [[_Marco Rubio Master Profile]], [[_Jon Ossoff Master Profile]], [[Marco Rubio]], [[Jon Ossoff]]"
 ---
 
 
@@ -355,3 +354,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/237413843/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/237413843/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/237413843/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 4 (2020–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $5.0M |
+| Total expenses | — |
+| Total assets (EOY) | $63.6M |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

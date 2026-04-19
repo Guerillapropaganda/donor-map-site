@@ -33,7 +33,7 @@ top-donors:
   - Meta - Facebook
 total-received: $2,401,862
 fec-candidate-id: S6MN00267
-donors: "[[Jewish Democratic Council of America]] · [[Fraternal Order of Police]] · [[Goldman Sachs]] · [[Google - Alphabet]] · [[Meta - Facebook]] · [[United Breast Cancer Support Pac]] · [[Apple]] · [[Amazon]] · [[EMILY'S LIST]] · [[PLANNED PARENTHOOD OF MINNESOTA POLITICAL ACTION FUND]] · [[AFSCME WORKING FAMILIES FUND]] · [[PROGRESSIVE TURNOUT PROJECT]] · [[Planned Parenthood of Minnesota Political Action Fund]] · [[Progressive Turnout Project]] · [[AFSCME Working Families Fund]] · [[Emily's List]]"
+donors: "[[Jewish Democratic Council of America]] · [[Fraternal Order of Police]] · [[Goldman Sachs]] · [[Google - Alphabet]] · [[Meta - Facebook]] · [[United Breast Cancer Support Pac]] · [[Apple]] · [[Amazon]] · [[EMILY'S LIST]] · [[PLANNED PARENTHOOD OF MINNESOTA POLITICAL ACTION FUND]] · [[AFSCME WORKING FAMILIES FUND]] · [[PROGRESSIVE TURNOUT PROJECT]] · [[Planned Parenthood of Minnesota Political Action Fund]] · [[Progressive Turnout Project]] · [[AFSCME Working Families Fund]] · [[Emily's List]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[Teamsters - International Brotherhood of Teamsters]] · [[J Street]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[National Restaurant Association]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Unite Here Tip Campaign Committee]] · [[Giffords PAC]] · [[Everytown for Gun Safety]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[Anthem - Elevance Health]] · [[Care Action]] · [[UA Political Action Committee]] · [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[National Association of Realtors]] · [[Chrissy Houlahan]] · [[SEIU - Service Employees International Union]] · [[NEA Fund for Children and Public Education]] · [[Let America Vote PAC]]"
 related: "[[Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides]] · [[_Chuck Grassley Master Profile|Grassley]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Google - Alphabet]] · [[Amazon]] · [[Meta - Facebook]] · [[Apple]] · [[Microsoft]] · [[Goldman Sachs]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Google]] · [[Meta]] · [[Michael Bloomberg]]"
 last-enriched: "2026-04-11"
 needs-reenrichment: true
@@ -44,8 +44,8 @@ urls-first-triaged: "2026-04-15"
 bills-sponsored: 1409
 bills-cosponsored: 5559
 bills-enacted: 2
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "Health"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: Health
 ---
 
 

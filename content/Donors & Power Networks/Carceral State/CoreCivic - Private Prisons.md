@@ -1,26 +1,24 @@
 ---
-title: "CoreCivic - Private Prisons"
+title: CoreCivic - Private Prisons
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Carceral State"
-entity-type: "Corporation"
+sector: Carceral State
+entity-type: Corporation
 issues:
-  - "Immigration"
+  - Immigration
 last-enriched: "2026-04-18"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 related: "[[Immigration Enforcement - The Detention Economy]] · [[Immigration - Donors and Backers]] · [[GEO Group - Private Prisons]] · [[Criminal Justice - Donors and Backers]] · [[GEO Group]] · [[Prison Policy Initiative]] · [[Fraternal Order of Police]] · [[CoreCivic]] · [[ViaPath Technologies - GTL]] · [[Securus Technologies - Aventiv]] · [[GEO Group - Private Prison Industrial Complex]] · [[Uber]] · [[CCPOA - California Correctional Peace Officers Association]] · [[Aramark]]"
 cross-vault-triangulation-count: 9
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ein: "474543845"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 total-revenue: 143756
 total-assets: 118562
 urls-first-triaged: "2026-04-15"
@@ -29,6 +27,7 @@ total-spent: 135060
 cash-on-hand: 35761
 individual-contributions: 167062
 contributions-to-committees: 121000
+politicians-funded: "[[John Hoeven]], [[Derek Schmidt]], [[Roger Wicker]], [[Michael Guest]], [[Cindy Hyde-Smith]], [[John Boozman]], [[John Thune]], [[Thom Tillis]], [[Harold Rogers]], [[Jerry Moran]], [[Ryan Zinke]], [[Henry Cuellar]], [[Pete Ricketts]], [[Kyrsten Sinema]], [[Katie Britt]], [[Tim Scott]], [[David Kustoff]], [[Tracey Mann]], [[Roger Marshall]], [[Diana Harshbarger]], [[Dan Sullivan]], [[Steve Daines]], [[Bill Hagerty]], [[Shelley Moore Capito]], [[Kevin McCarthy]], [[Marsha Blackburn]], [[Michael Whatley]], [[Todd Young]], [[Tom Cole]], [[Tim Burchett]], [[Mike Carey]], [[Mark Green]], [[Markwayne Mullin]]"
 ---
 
 
@@ -271,3 +270,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/474543845/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/474543845/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/474543845/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 5 (2019–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | $81K |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | — |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

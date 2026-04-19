@@ -1,33 +1,34 @@
 ---
-title: "Clay Higgins"
+title: Clay Higgins
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Louisiana"
-state-abbr: "LA"
+party: Republican
+chamber: House
+state: Louisiana
+state-abbr: LA
 district: "3"
-bioguide-id: "H001077"
+bioguide-id: H001077
 govtrack-id: 412705
 born: "1961-08-24"
-wikidata-id: "Q25849505"
-website: "https://clayhiggins.house.gov"
-phone: "202-225-2031"
+wikidata-id: Q25849505
+website: https://clayhiggins.house.gov
+phone: 202-225-2031
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H6LA03148"
+fec-candidate-id: H6LA03148
 bills-sponsored: 47
 bills-cosponsored: 353
 bills-enacted: 1
-top-policy-area: "Crime and Law Enforcement"
+top-policy-area: Crime and Law Enforcement
+top-donors: "[[Chevron]], [[Ralph Norman]], [[WinRed]], [[American Chemistry Council, INC]], [[AIPAC - American Israel Public Affairs Committee]], [[AT&T - WarnerMedia]], [[National Rifle Association]], [[MAJORITY PAC]], [[Valero Energy]], [[Save America PAC]], [[National Association of Realtors]], [[Andy Harris]], [[General Dynamics]], [[Elbert Guillory's America]], [[L3Harris Technologies]], [[Jim Jordan]], [[Ben Cline]], [[Really American Pac]]"
 ---
 
 

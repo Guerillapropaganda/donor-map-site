@@ -4,7 +4,7 @@ type: politician
 bioguide-id: G000359
 content-readiness: draft
 central-thesis: Lindsey Graham is the Senate's purest demonstration that political identity follows money. He was John McCain's ideological twin , interventionist, bipartisan, immigration-moderate , because McCain's donor network rewarded that positioning. When M...
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Republican
@@ -26,13 +26,13 @@ known-gaps:
   - No voting record data
   - No mapped relationships
 related: "[[_Donald Trump Master Profile|Trump]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Pete Hegseth Master Profile|Hegseth]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Brett Kavanaugh Master Profile|Kavanaugh]] · [[Leonard Leo]] · [[AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else]] · [[South Carolina 2026 Senate Race]] · [[Elliott Management]]"
-donors: "[[Patrick Soon-Shiong]] · [[Democracy Alliance]] · [[California Farm Bureau Federation]] · [[Boeing]] · [[CA Farm Bureau Federation]] · [[Lockheed Martin]] · [[Republican Jewish Coalition]]"
+donors: "[[Patrick Soon-Shiong]] · [[Democracy Alliance]] · [[California Farm Bureau Federation]] · [[Boeing]] · [[CA Farm Bureau Federation]] · [[Lockheed Martin]] · [[Republican Jewish Coalition]] · [[AIPAC - American Israel Public Affairs Committee]] · [[AT&T - WarnerMedia]] · [[Microsoft]] · [[American Hospital Association PAC]] · [[General Dynamics]] · [[Palantir]] · [[Amgen Inc]] · [[Nucor Corporation]] · [[National Multifamily Housing Council]] · [[Citigroup]] · [[NORPAC]] · [[Associated General Contractors of America Political Action Committee]] · [[Devon Energy]] · [[Duke Energy]] · [[Planned Parenthood Votes]] · [[ConocoPhillips]] · [[WinRed]] · [[NextEra Energy]] · [[Johnson & Johnson]] · [[Northrop Grumman]] · [[Comcast - NBCUniversal]] · [[Chevron]] · [[National Association of Realtors]] · [[Common Sense for America PAC]] · [[Tyson Foods]] · [[iHeartMedia]] · [[Morgan Stanley]] · [[NRSC - National Republican Senatorial Committee]] · [[BAE Systems]]"
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "S0SC00149"
+fec-candidate-id: S0SC00149
 bills-sponsored: 39
 bills-cosponsored: 269
 bills-enacted: 0
-top-policy-area: "International Affairs"
+top-policy-area: International Affairs
 ---
 
 

@@ -1,83 +1,82 @@
 ---
-title: "John Deere"
+title: John Deere
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Agriculture"
-entity-type: "Corporation"
+sector: Agriculture
+entity-type: Corporation
 issues:
-  - "Agriculture"
-  - "Trade"
+  - Agriculture
+  - Trade
 federal-awards-total: 13881681
 federal-contracts-count: 25
 federal-grants-count: 0
 ein: 366051024
-annual-revenue: "$17.7M"
-net-assets: "$212.6M"
+annual-revenue: $17.7M
+net-assets: $212.6M
 tax-year: "2023"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-18"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 subawards-issued: 50
 subawards-issued-amount: 7034204
 subawards-received: 50
 subawards-received-amount: 7034204
-top-federal-agency: "Department of Defense"
+top-federal-agency: Department of Defense
 top-naics-code: "333120"
 related: "[[Monsanto - Bayer]] · [[The Oversight Legacy and Agricultural Protection]] · [[The Farm Bill - The Bipartisan Subsidy Machine]] · [[American Farm Bureau Federation]] · [[Cargill]] · [[ADM - Archer Daniels Midland|ADM]] · [[Tyson Foods]] · [[Agribusiness Donor Bloc]]"
 sec-filings: 10000
 sec-form-types:
-  - "10-K"
-  - "10-Q"
-  - "8-K"
-  - "8-K/A"
-  - "EX-2.2"
-  - "EX-21"
+  - 10-K
+  - 10-Q
+  - 8-K
+  - 8-K/A
+  - EX-2.2
+  - EX-21
 federal-register-mentions: 157
 regulatory-agencies:
-  - "Antitrust Division"
-  - "Commerce Department"
-  - "Consumer Product Safety Commission"
-  - "Environmental Protection Agency"
-  - "Federal Communications Commission"
-  - "International Trade Administration"
-  - "International Trade Commission"
-  - "Justice Department"
-  - "Patent and Trademark Office"
+  - Antitrust Division
+  - Commerce Department
+  - Consumer Product Safety Commission
+  - Environmental Protection Agency
+  - Federal Communications Commission
+  - International Trade Administration
+  - International Trade Commission
+  - Justice Department
+  - Patent and Trademark Office
 cpsc-recalls: 42
-lei: "969500UMN0I81FGDFL82"
-lei-jurisdiction: "FR"
+lei: 969500UMN0I81FGDFL82
+lei-jurisdiction: FR
 cross-vault-triangulation-count: 8
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 court-cases: 16497
 court-jurisdictions:
-  - "District Court, C.D. Illinois"
-  - "District Court, D. Kansas"
-  - "District Court, D. Maine"
-  - "District Court, D. Minnesota"
-  - "District Court, D. North Dakota"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. Arkansas"
-  - "District Court, E.D. Kentucky"
-  - "District Court, E.D. Tennessee"
-  - "District Court, M.D. Alabama"
-nonprofit-status: "501(c)(3)"
+  - District Court, C.D. Illinois
+  - District Court, D. Kansas
+  - District Court, D. Maine
+  - District Court, D. Minnesota
+  - District Court, D. North Dakota
+  - District Court, District of Columbia
+  - District Court, E.D. Arkansas
+  - District Court, E.D. Kentucky
+  - District Court, E.D. Tennessee
+  - District Court, M.D. Alabama
+nonprofit-status: 501(c)(3)
 total-revenue: 132817572
 total-assets: 220477766
-wikidata-id: "Q98642757"
+wikidata-id: Q98642757
 lobbying-spend: 1894623
 lobbying-filings: 138
 epa-facilities: 9
-epa-states: "ID, IL, MN, NC, ND, OR, VT"
+epa-states: ID, IL, MN, NC, ND, OR, VT
 employee-contributions: 2371
 employee-contributions-total: 144353
 employee-donor-count: 305
+politicians-funded: "[[JUSTICE DEMOCRATS PAC]], [[MAGA Inc]], [[WinSenate]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Catherine Cortez Masto]], [[NRSC - National Republican Senatorial Committee]], [[Indivisible Action]], [[ActBlue]], [[WinRed]], [[National Rifle Association]], [[The Lincoln Project]], [[NRCC - National Republican Congressional Committee]], [[RNC - Republican National Committee]], [[Save America PAC]], [[MoveOn.org Political Action]], [[_Ted Cruz Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Marco Rubio Master Profile]], [[Let America Vote PAC]], [[_Ron Johnson Master Profile]], [[Emily's List]], [[_Tim Scott Master Profile]], [[Progressive Turnout Project]], [[_Jon Ossoff Master Profile]], [[National Victory Action Fund]], [[CHC BOLD PAC]], [[Ted Cruz]], [[Jon Ossoff]], [[Tim Scott]], [[Ron Johnson]], [[Marco Rubio]]"
 ---
 
 
@@ -705,3 +704,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/366051024/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/366051024/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/366051024/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 5 (2020–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | $220.5M |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

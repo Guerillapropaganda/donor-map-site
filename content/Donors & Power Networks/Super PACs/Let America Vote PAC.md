@@ -5,14 +5,14 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00632398
 aliases:
   - LET AMERICA VOTE PAC
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
-politicians-funded: "[[Tammy Baldwin]]"
+politicians-funded: "[[Tammy Baldwin]], [[Marjorie Taylor Greene]], [[Bernie Sanders]], [[George Whitesides]], [[Mike Levin]], [[Chris van Hollen]], [[Laura Gillen]], [[Nikema Williams]], [[Josh Riley]], [[Mark Pocan]], [[Teresa Leger Fernandez]], [[Mark Takano]], [[Kristen McDonald Rivet]], [[Emily Randall]], [[Morgan McGarvey]], [[Raphael Warnock]], [[Patrick Ryan]], [[Adam Schiff]], [[Kim Schrier]], [[Josh Gottheimer]], [[Nancy Pelosi]], [[Hakeem Jeffries]], [[Lori Trahan]], [[Marcy Kaptur]], [[Andrea Salinas]], [[Debbie Dingell]], [[Robert Garcia]], [[Summer Lee]], [[Sheldon Whitehouse]], [[Chris Pappas]], [[Jon Ossoff]], [[Veronica Escobar]], [[Jared Moskowitz]], [[Nikki Budzinski]], [[Greg Landsman]], [[Sharice Davids]], [[Pramila Jayapal]], [[Judy Chu]], [[Maggie Goodlander]], [[Dave Min]], [[Cori Bush]], [[Derek Tran]], [[Seth Magaziner]], [[Lauren Boebert]], [[Jacky Rosen]], [[Joseph Morelle]], [[Jason Crow]], [[Jimmy Gomez]], [[Maxwell Frost]], [[Peter Welch]], [[Mark Kelly]], [[Sara Jacobs]], [[Rashida Tlaib]], [[Lois Frankel]], [[Susie Lee]], [[Dina Titus]], [[Marie Gluesenkamp Perez]], [[Raul Ruiz]], [[Shomari Figures]], [[Steven Horsford]], [[Lauren Underwood]], [[Ron Johnson]], [[Lateefah Simon]], [[Pete Aguilar]], [[Lisa Blunt Rochester]], [[Jamie Raskin]], [[Laura Friedman]], [[Sydney Kamlager-Dove]], [[Ted Cruz]], [[Eric Swalwell]], [[Yassamin Ansari]], [[Joe Biden]], [[Eric Sorensen]], [[Ted Lieu]], [[Sherrod Brown]], [[Roy Cooper]], [[Kamala Harris]], [[Josh Harder]], [[Lamonica McIver]], [[Elissa Slotkin]], [[Brittany Pettersen]], [[Chrissy Houlahan]], [[Catherine Cortez Masto]], [[Joyce Beatty]], [[Dan Goldman]], [[Kelly Morrison]], [[Patty Murray]], [[Ruben Gallego]], [[Andy Kim]], [[Jamaal Bowman]], [[Raul Grijalva]], [[Ayanna Pressley]], [[Adam Gray]], [[Bernie Moreno]], [[Martin Heinrich]], [[John Fetterman]], [[Juliana Stratton]], [[Jeff Merkley]], [[Josh Hawley]], [[Sean Casten]], [[Joaquin Castro]], [[Sarah McBride]], [[Amy Klobuchar]], [[Tim Sheehy]], [[Chris Murphy]], [[Dan Osborn]], [[Ilhan Omar]], [[Tammy Duckworth]]"
 related: "[[Tammy Baldwin]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Media & Entertainment
 entity-type: Corporation
-politicians-funded: "[[Ron DeSantis]]"
+politicians-funded: "[[Ron DeSantis]], [[_Cory Booker Master Profile]], [[Trump Victory]], [[ActBlue]], [[_Julia Brownley Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Ted Cruz Master Profile]], [[MoveOn.org Political Action]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Jon Ossoff Master Profile]], [[_Nancy Pelosi Master Profile]], [[Hmp]], [[_Mike Levin Master Profile]], [[Giffords PAC]], [[Mark Kelly]], [[Emily's List]], [[RNC - Republican National Committee]], [[Planned Parenthood Votes]], [[The Lincoln Project]], [[_George Whitesides Master Profile]], [[WinRed]], [[WinSenate]], [[_Jake Auchincloss Master Profile]], [[Let America Vote PAC]], [[_Marco Rubio Master Profile]], [[_Young Kim Master Profile]], [[Bob Casey]], [[_Lauren Boebert Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[MAGA Inc]], [[Human Rights Campaign Equality Votes]], [[_Laura Friedman Master Profile]], [[_Susie Lee Master Profile]], [[Planned Parenthood Action Fund INC]], [[NRCC - National Republican Congressional Committee]], [[_Sara Jacobs Master Profile]], [[Progressive Turnout Project]], [[_Lisa Blunt Rochester Master Profile]], [[_Thomas Massie Master Profile]], [[Catherine Cortez Masto]], [[_Kamala Harris Master Profile]], [[Jake Auchincloss]], [[George Whitesides]], [[Jon Ossoff]], [[Laura Friedman]], [[Sara Jacobs]], [[Julia Brownley]], [[Cory Booker]], [[Kamala Harris]], [[Nancy Pelosi]], [[Ted Cruz]], [[Susie Lee]], [[Marco Rubio]], [[Mike Levin]], [[Thomas Massie]], [[Lisa Blunt Rochester]], [[Lauren Boebert]], [[Young Kim]]"
 lei: 549300GZKULIZ0WOW665
 lei-jurisdiction: US-DE
 sec-filings: 10000
@@ -42,7 +42,7 @@ needs-reenrichment: true
 reenrich-reason: run lda pipeline; run pipelines
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 1
-epa-states: "CA"
+epa-states: CA
 employee-contributions: 2502
 employee-contributions-total: 323668
 employee-donor-count: 456
@@ -214,3 +214,23 @@ Copyright term extension (Disney has lobbied for every major copyright extension
 
 - [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
 <!-- auto:fec-individual end -->
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | $324K |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

@@ -1,98 +1,99 @@
 ---
-title: "Walmart"
+title: Walmart
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-08T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Wall Street"
-entity-type: "Corporation"
+sector: Wall Street
+entity-type: Corporation
 ein: "710569421"
-annual-revenue: "$3.5B"
-net-assets: "$890.1M"
+annual-revenue: $3.5B
+net-assets: $890.1M
 tax-year: "2023"
 federal-register-mentions: 177
 last-enriched: "2026-04-08"
 regulatory-agencies:
-  - "Alcohol and Tobacco Tax and Trade Bureau"
-  - "Antitrust Division"
-  - "Centers for Medicare & Medicaid Services"
-  - "Drug Enforcement Administration"
-  - "Environmental Protection Agency"
-  - "Federal Trade Commission"
-  - "Food and Drug Administration"
-  - "Health and Human Services Department"
-  - "Interior Department"
-  - "International Trade Commission"
+  - Alcohol and Tobacco Tax and Trade Bureau
+  - Antitrust Division
+  - Centers for Medicare & Medicaid Services
+  - Drug Enforcement Administration
+  - Environmental Protection Agency
+  - Federal Trade Commission
+  - Food and Drug Administration
+  - Health and Human Services Department
+  - Interior Department
+  - International Trade Commission
 court-cases: 101104
 court-jurisdictions:
-  - "District Court, C.D. California"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. Arkansas"
-  - "District Court, E.D. Louisiana"
-  - "District Court, E.D. Texas"
-  - "District Court, M.D. Pennsylvania"
-  - "District Court, N.D. Georgia"
-  - "District Court, N.D. Texas"
-  - "District Court, S.D. Florida"
-  - "District Court, S.D. New York"
+  - District Court, C.D. California
+  - District Court, District of Columbia
+  - District Court, E.D. Arkansas
+  - District Court, E.D. Louisiana
+  - District Court, E.D. Texas
+  - District Court, M.D. Pennsylvania
+  - District Court, N.D. Georgia
+  - District Court, N.D. Texas
+  - District Court, S.D. Florida
+  - District Court, S.D. New York
 lobbying-spend: 17705000
 lobbying-filings: 56
 related: "[[The Agriculture-Appropriations Pipeline and Arkansas Defense]] · [[Walton Family Foundation]] · [[Koch Network - Charles Koch|Koch Network]] · [[Americans for Prosperity]] · [[Restaurant & Food Industry]]"
-nonprofit-status: "501(c)(9)"
+nonprofit-status: 501(c)(9)
 total-revenue: 3737153584
 total-assets: 902595677
 sec-filings: 10000
 sec-form-types:
   - "144"
-  - "25-NSE"
+  - 25-NSE
   - "4"
-  - "8-K"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "EX-10.(A)"
-  - "EX-10.(B)"
-  - "EX-10.(D)"
-  - "EX-10.(E)"
-  - "EX-10.(F)"
-  - "EX-10.(L)"
-  - "EX-10.(O)"
-  - "EX-10.(P)"
-  - "EX-10.(R)"
-  - "EX-10.(S)"
-  - "EX-10.(T)"
-  - "EX-10.(U)"
-  - "EX-10.1"
-  - "EX-10.11"
-  - "EX-10.17"
-  - "EX-10.18"
-  - "EX-10.19"
-  - "EX-10.2"
-  - "EX-10.27"
-  - "EX-10.29"
-  - "EX-10.3"
-  - "EX-10.31"
-  - "EX-10.32"
-  - "EX-10.6"
-  - "EX-10.7"
-  - "EX-10.75"
-  - "EX-10.8"
-  - "EX-10.9"
-  - "EX-19"
-  - "EX-2.1"
-  - "EX-4.1"
-  - "EX-99.01"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "PX14A6G"
-  - "SCHEDULE 13G/A"
+  - 8-K
+  - DEF 14A
+  - DEFA14A
+  - EX-10.(A)
+  - EX-10.(B)
+  - EX-10.(D)
+  - EX-10.(E)
+  - EX-10.(F)
+  - EX-10.(L)
+  - EX-10.(O)
+  - EX-10.(P)
+  - EX-10.(R)
+  - EX-10.(S)
+  - EX-10.(T)
+  - EX-10.(U)
+  - EX-10.1
+  - EX-10.11
+  - EX-10.17
+  - EX-10.18
+  - EX-10.19
+  - EX-10.2
+  - EX-10.27
+  - EX-10.29
+  - EX-10.3
+  - EX-10.31
+  - EX-10.32
+  - EX-10.6
+  - EX-10.7
+  - EX-10.75
+  - EX-10.8
+  - EX-10.9
+  - EX-19
+  - EX-2.1
+  - EX-4.1
+  - EX-99.01
+  - EX-99.1
+  - EX-99.2
+  - PX14A6G
+  - SCHEDULE 13G/A
 cross-vault-triangulation-count: 3
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 39
-epa-states: "AR, CA, CT, FL, GA, IA, LA, MA, MI, NJ, NM, NY, PA, PR, TX, UT"
+epa-states: AR, CA, CT, FL, GA, IA, LA, MA, MI, NJ, NM, NY, PA, PR, TX, UT
 employee-contributions: 176094
 employee-contributions-total: 5659895
 employee-donor-count: 16162
+politicians-funded: "[[MoveOn.org Political Action]], [[_Jon Ossoff Master Profile]], [[_Vicente Gonzalez Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Congressional Leadership Fund]], [[Hmp]], [[Law Enforcement for a Safer America Pac]], [[Bob Casey]], [[Madison Project Inc.]], [[NRSC - National Republican Senatorial Committee]], [[Trump Victory]], [[Progressive Turnout Project]], [[REPUBLICAN PARTY OF FLORIDA]], [[Human Rights Campaign Equality Votes]], [[_Lisa Blunt Rochester Master Profile]], [[National Rifle Association]], [[Common Sense for America PAC]], [[_Tammy Baldwin Master Profile]], [[_Victoria Spartz Master Profile]], [[_Young Kim Master Profile]], [[NRCC - National Republican Congressional Committee]], [[_Glenn Grothman Master Profile]], [[_Robert Garcia Master Profile]], [[_Jimmy Gomez Master Profile]], [[_Cory Booker Master Profile]], [[_Rashida Tlaib Master Profile]], [[_Lauren Underwood Master Profile]], [[Working Families Party PAC]], [[Walmart - Walton Family]], [[WinRed]], [[Mark Kelly]], [[Marianne Williamson]], [[_Ted Cruz Master Profile]], [[_Michael Waltz Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[_Christian D. Menefee Master Profile]], [[National Victory Action Fund]], [[Americans for Prosperity]], [[_Ron Estes Master Profile]], [[_John James Master Profile]], [[Senate Conservatives Fund]], [[_Veronica Escobar Master Profile]], [[_Cori Bush Master Profile]], [[_Matt van Epps Master Profile]], [[FreedomWorks for America]], [[JUSTICE DEMOCRATS PAC]], [[_Mario Diaz-Balart Master Profile]], [[_Jim Jordan Master Profile]], [[WinSenate]], [[RNC - Republican National Committee]], [[ActBlue]], [[_Tim Scott Master Profile]], [[AIPAC - American Israel Public Affairs Committee]], [[314 ACTION FUND]], [[_Lauren Boebert Master Profile]], [[The Lincoln Project]], [[DNC - Democratic National Committee]], [[Catherine Cortez Masto]], [[Let America Vote PAC]], [[Emily's List]], [[CHC BOLD PAC]], [[Save America PAC]], [[SPECIAL OPERATIONS FOR AMERICA]], [[_Marco Rubio Master Profile]], [[_Josh Hawley Master Profile]], [[MAGA Inc]], [[VOTER PROTECTION PROJECT]], [[_Mike Collins Master Profile]], [[The Sentinel Action Fund]], [[_Cory Mills Master Profile]], [[Nancy Mace]], [[_Ron Johnson Master Profile]], [[Giffords PAC]], [[_Pete Aguilar Master Profile]], [[_Jake Ellzey Master Profile]], [[_Deb Haaland Master Profile]], [[_Ted Budd Master Profile]], [[_Dave Min Master Profile]], [[_Angie Craig Master Profile]], [[_Julia Brownley Master Profile]], [[_Mike Levin Master Profile]], [[_Byron Donalds Master Profile]], [[_Nancy Pelosi Master Profile]], [[Demand Justice]], [[_Pete Sessions Master Profile]], [[_Anna Paulina Luna Master Profile]], [[_Josh Harder Master Profile]], [[Votevets]], [[Bernie Moreno]], [[Everytown for Gun Safety Victory Fund]], [[Really American Pac]], [[Congressional Progressive Caucus PAC]], [[_Chrissy Houlahan Master Profile]], [[_Darren Soto Master Profile]], [[_Andy Barr Master Profile]], [[United Breast Cancer Support Pac]], [[Ted Cruz]], [[Lisa Blunt Rochester]], [[Mario Diaz-Balart]], [[Jake Ellzey]], [[Marco Rubio]], [[Cory Booker]], [[Veronica Escobar]], [[Rashida Tlaib]], [[Tammy Baldwin]], [[Josh Harder]], [[Mike Levin]], [[Tim Scott]], [[Ron Estes]], [[Jon Ossoff]], [[Ron Johnson]], [[Glenn Grothman]], [[Josh Hawley]], [[Chrissy Houlahan]], [[Victoria Spartz]], [[Young Kim]], [[Nancy Pelosi]], [[Jimmy Gomez]], [[Ted Budd]], [[Pete Sessions]], [[Mike Collins]], [[Robert Garcia]], [[John James]], [[Jim Jordan]], [[Anna Paulina Luna]], [[Lauren Boebert]], [[Vicente Gonzalez]], [[Byron Donalds]], [[Michael Waltz]], [[Christian D. Menefee]], [[Julia Brownley]], [[Matt van Epps]], [[Deb Haaland]], [[Lauren Underwood]], [[Angie Craig]], [[Andy Barr]], [[Cori Bush]], [[Darren Soto]], [[Pete Aguilar]], [[Dave Min]], [[Cory Mills]]"
 ---
 
 
@@ -380,3 +381,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/710569421/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/710569421/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/710569421/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2019–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | $902.6M |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

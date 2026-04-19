@@ -1,33 +1,34 @@
 ---
-title: "Greg Landsman"
+title: Greg Landsman
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Ohio"
-state-abbr: "OH"
+party: Democrat
+chamber: House
+state: Ohio
+state-abbr: OH
 district: "1"
-bioguide-id: "L000601"
+bioguide-id: L000601
 govtrack-id: 456928
 born: "1976-12-04"
-wikidata-id: "Q115180677"
-website: "https://landsman.house.gov"
-phone: "202-225-2216"
+wikidata-id: Q115180677
+website: https://landsman.house.gov
+phone: 202-225-2216
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H2OH01194"
+fec-candidate-id: H2OH01194
 bills-sponsored: 20
 bills-cosponsored: 453
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[National Association of Realtors]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[NEA Fund for Children and Public Education]], [[National Multifamily Housing Council]], [[Sierra Club Independent Action]], [[UA Political Action Committee]], [[Americans for Prosperity]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Sierra Club Political Committee]], [[Planned Parenthood Votes]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Joe Neguse]], [[Julia Brownley]], [[IBEW - International Brotherhood of Electrical Workers]], [[DCCC - Democratic Congressional Campaign Committee]], [[Mark Takano]], [[Bill Foster]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[American Hospital Association PAC]], [[VOTER PROTECTION PROJECT]], [[L3Harris Technologies]], [[Planned Parenthood Action Fund INC]], [[Progressive Turnout Project]], [[Teamsters - International Brotherhood of Teamsters]], [[Walmart - Walton Family]], [[Let America Vote PAC]], [[American Chemistry Council, INC]], [[Ted Lieu]], [[Jamie Raskin]], [[National Education Association]], [[Pete Aguilar]], [[Human Rights Campaign Equality Votes]], [[Women Speak Out Pac]], [[League of Conservation Voters]], [[Mark Kelly]], [[American College of Radiology Association PAC]], [[Hmp]], [[DMFI - Democratic Majority for Israel]], [[Chrissy Houlahan]], [[Morgan McGarvey]], [[AFL-CIO]], [[SEIU COPE]], [[Nancy Pelosi]], [[AIPAC - American Israel Public Affairs Committee]], [[Congressional Leadership Fund]], [[Robert Garcia]], [[CHC BOLD PAC]], [[Sara Jacobs]], [[NRCC - National Republican Congressional Committee]], [[Shontel Brown]]"
 ---
 
 

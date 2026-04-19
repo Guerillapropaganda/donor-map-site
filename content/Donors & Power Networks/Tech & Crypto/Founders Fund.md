@@ -2,12 +2,12 @@
 title: Founders Fund
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Tech & Crypto
 entity-type: Individual Donor
-politicians-funded: "[[Donald Trump]], [[David Sacks]], [[JD Vance]], [[David Sacks (Donor Network)]], [[David Sacks - Donor Network]]"
+politicians-funded: "[[Donald Trump]], [[David Sacks]], [[JD Vance]], [[David Sacks (Donor Network)]], [[David Sacks - Donor Network]], [[_John James Master Profile]], [[_Josh Harder Master Profile]], [[ActBlue]], [[WinRed]], [[Common Sense for America PAC]], [[_Scott Wiener Master Profile]], [[Congressional Leadership Fund]], [[Sfa Fund, Inc]], [[DSCC - Democratic Senatorial Campaign Committee]], [[The Sentinel Action Fund]], [[Josh Harder]], [[Scott Wiener]], [[John James]]"
 issues:
   - Technology
   - Defense & Military
@@ -384,3 +384,38 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Founders%20Fund%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/863992946/2023)~~ (URL broken, archived by Ops)
 - ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/863992946/2022)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 2 (2022–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $1.2M |
+| Total expenses | — |
+| Total assets (EOY) | $421K |
+| Grants paid out | $165K |
+
+**Lifetime grants out (2022–2023):** $275K across 8 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| TOTAL REENTRY SOLUTIONS | $50K | 1 | 2023 |
+| PEADBO INC | $50K | 1 | 2023 |
+| BETTERPLAY STUDIOS | $50K | 1 | 2023 |
+| EVENSCORE INC | $33K | 1 | 2022 |
+| JUSTAIR SOLUTIONS INC | $33K | 1 | 2022 |
+| LIFE MAGNETICS INC | $33K | 1 | 2022 |
+| EPISLS INC | $15K | 1 | 2023 |
+| KEEP GROWING DETROIT | $10K | 1 | 2022 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

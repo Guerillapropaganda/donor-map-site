@@ -2,12 +2,12 @@
 title: Devon Energy
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Energy & Utilities
 entity-type: Corporation
-politicians-funded: "[[Markwayne Mullin]], [[James Lankford]], [[John Fetterman]]"
+politicians-funded: "[[Markwayne Mullin]], [[James Lankford]], [[John Fetterman]], [[Kevin Cramer]], [[National Association of Manufacturers]], [[Dan Sullivan]], [[RNC - Republican National Committee]], [[John James]], [[_Ted Cruz Master Profile]], [[Hmp]], [[Eric Schmitt]], [[Celeste Maloy]], [[John Barrasso]], [[Julie Johnson]], [[Tim Sheehy]], [[WinRed]], [[John Hoeven]], [[August Pfluger]], [[ActBlue]], [[Devon Energy]], [[Bernie Moreno]], [[NRSC - National Republican Senatorial Committee]], [[Tom Cole]], [[Frank Lucas]], [[Kyrsten Sinema]], [[DCCC - Democratic Congressional Campaign Committee]], [[NRCC - National Republican Congressional Committee]], [[Jason Smith]], [[Josh Gottheimer]], [[Jim Costa]], [[Marsha Blackburn]], [[Lindsey Graham]], [[_Jon Ossoff Master Profile]], [[Senate Conservatives Fund]], [[Bruce Westerman]], [[_August Pfluger Master Profile]], [[Henry Cuellar]], [[MAGA Inc]], [[Pete Ricketts]], [[Mike Carey]], [[Ryan Zinke]], [[Julie Fedorchak]], [[Conservative Solutions PAC]], [[Vicente Gonzalez]], [[Joe Manchin]], [[Steve Scalise]], [[Ron Johnson]], [[Trump Victory]], [[Dan Crenshaw]], [[John Cornyn]], [[_Josh Hawley Master Profile]], [[Lisa Murkowski]], [[Michael Whatley]], [[Josh Brecheen]], [[Brett Guthrie]], [[_Marco Rubio Master Profile]], [[_Cori Bush Master Profile]], [[Cathy McMorris Rodgers]], [[National Rifle Association]], [[Cori Bush]], [[Ted Cruz]], [[Josh Hawley]], [[Marco Rubio]], [[Jon Ossoff]]"
 issues:
   - Energy & Climate
 lobbying-spend: 810000
@@ -40,7 +40,7 @@ lei-jurisdiction: US-DE
 cross-vault-triangulation-count: 10
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 12
-epa-states: "CO, LA, MI, NM"
+epa-states: CO, LA, MI, NM
 total-raised: 197006
 total-spent: 124579
 cash-on-hand: 160986
@@ -343,3 +343,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[OpenSecrets: Devon Energy organizational profile](https://www.opensecrets.org/orgs/devon-energy/summary?id=D000021818)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/365040938/2023)~~ (URL broken, archived by Ops)
 - ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/365040938/2022)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 2 (2022–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | — |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

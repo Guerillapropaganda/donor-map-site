@@ -2,12 +2,12 @@
 title: CoreCivic
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Carceral State
 entity-type: Corporation
-politicians-funded: "[[Donald Trump]], [[Chad Bianco]], [[Gavin Newsom]]"
+politicians-funded: "[[Donald Trump]], [[Chad Bianco]], [[Gavin Newsom]], [[_Jon Ossoff Master Profile]], [[Bernie Moreno]], [[RNC - Republican National Committee]], [[NRSC - National Republican Senatorial Committee]], [[_Mark Green Master Profile]], [[_Brian Jack Master Profile]], [[_Ann Wagner Master Profile]], [[ActBlue]], [[CoreCivic - Private Prisons]], [[_Kevin Kiley Master Profile]], [[NRCC - National Republican Congressional Committee]], [[The Sentinel Action Fund]], [[WinRed]], [[Standing With Conservatives]], [[MoveOn.org Political Action]], [[_Ted Budd Master Profile]], [[Let America Vote PAC]], [[Trump Victory]], [[_Ron Estes Master Profile]], [[_Tony Gonzales Master Profile]], [[_Matt van Epps Master Profile]], [[_Tim Scott Master Profile]], [[MAGA Inc]], [[Matt van Epps]], [[Mark Green]], [[Ann Wagner]], [[Brian Jack]], [[Ted Budd]], [[Ron Estes]], [[Kevin Kiley]], [[Tony Gonzales]], [[Jon Ossoff]], [[Tim Scott]]"
 federal-awards-total: 1057092807
 federal-contracts-count: 25
 federal-grants-count: 0
@@ -27,8 +27,8 @@ court-jurisdictions:
   - District Court, N.D. Ohio
   - District Court, S.D. California
 ein: 823851866
-annual-revenue: "$511K"
-net-assets: "$52K"
+annual-revenue: $511K
+net-assets: $52K
 tax-year: "2024"
 federal-contracts: 228
 subawards-issued: 50
@@ -43,8 +43,8 @@ total-revenue: 709089
 total-assets: 27969
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-lei: "529900JFA3K6PTLT8B15"
-lei-jurisdiction: "US-MD"
+lei: 529900JFA3K6PTLT8B15
+lei-jurisdiction: US-MD
 cross-vault-triangulation-count: 16
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 sec-filings: 10000
@@ -67,12 +67,12 @@ sec-form-types:
   - EX-99.1
   - EX-99.2
   - SCHEDULE 13G/A
-wikidata-id: "Q1135278"
-wikipedia-url: "https://en.wikipedia.org/wiki/CoreCivic"
-wikipedia-extract: "CoreCivic, Inc. is an American private prison operator and one of the largest for-profit prison, jail and detention contractors in the United States."
+wikidata-id: Q1135278
+wikipedia-url: https://en.wikipedia.org/wiki/CoreCivic
+wikipedia-extract: CoreCivic, Inc. is an American private prison operator and one of the largest for-profit prison, jail and detention contractors in the United States.
 founded: "1983-01-01"
 epa-facilities: 1
-epa-states: "CA"
+epa-states: CA
 employee-contributions: 4859
 employee-contributions-total: 1399214
 employee-donor-count: 554
@@ -674,3 +674,50 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/823851866/2022)~~ (URL broken, archived by Ops)
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/823851866/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/823851866/2020)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2020–2025)
+
+**Most recent filing (2025):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $709K |
+| Total expenses | — |
+| Total assets (EOY) | $28K |
+| Grants paid out | $504K |
+
+**Lifetime grants out (2020–2025):** $3.1M across 41 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| UNITED WAY OF METROPOLITAN NASHVILL | $1.5M | 6 | 2020–2025 |
+| PLAY LIKE A GIRL | $80K | 5 | 2021–2025 |
+| THE NEXT DOOR | $80K | 5 | 2020–2024 |
+| YOU HAVE THE POWER | $75K | 6 | 2020–2025 |
+| DISMAS HOUSE | $65K | 6 | 2020–2025 |
+| MEN OF VALOR | $65K | 6 | 2020–2025 |
+| BIG BROTHERS BIG SISTERS OF MID TN | $60K | 6 | 2020–2025 |
+| CUL2VATE | $60K | 6 | 2020–2025 |
+| FANNIE BATTLE | $60K | 6 | 2020–2025 |
+| HUGGS TN | $60K | 6 | 2020–2025 |
+| LEAVING THE COCOON | $60K | 6 | 2020–2025 |
+| THIS IS LIVING MINISTRIES | $60K | 6 | 2020–2025 |
+| TN COALITION TO END DOMESTIC &amp; SEXU | $60K | 6 | 2020–2025 |
+| TN YOUTH COURTS | $60K | 6 | 2020–2025 |
+| NASHVILLE CHILDREN'S ALLIANCE | $60K | 6 | 2020–2025 |
+| BOOK 'EM | $50K | 5 | 2020–2025 |
+| CASA NASHVILLE | $50K | 5 | 2020–2025 |
+| TN VOICES FOR VICTIMS | $42K | 5 | 2021–2025 |
+| CROSSBRIDGE | $40K | 4 | 2022–2025 |
+| FAMILY RECONCILIATION CENTER | $40K | 4 | 2020–2025 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

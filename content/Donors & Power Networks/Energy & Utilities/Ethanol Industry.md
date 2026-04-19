@@ -269,3 +269,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2016 Filing](https://projects.propublica.org/nonprofits/organizations/300451687/2016)~~ (URL broken, archived by Ops)
 - ~~[2015 Filing](https://projects.propublica.org/nonprofits/organizations/300451687/2015)~~ (URL broken, archived by Ops)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ethanol%20Industry%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 3 (2018–2020)
+
+**Most recent filing (2020):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | $138 |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | — |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

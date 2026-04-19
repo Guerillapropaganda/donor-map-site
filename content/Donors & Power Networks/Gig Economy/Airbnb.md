@@ -1,14 +1,14 @@
 ---
-title: "Airbnb"
+title: Airbnb
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Gig Economy"
-entity-type: "Corporation"
+sector: Gig Economy
+entity-type: Corporation
 issues:
-  - "Housing"
+  - Housing
 federal-awards-total: 16865
 federal-contracts-count: 0
 federal-grants-count: 0
@@ -16,31 +16,29 @@ nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-09"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 ein: 833135259
-annual-revenue: "$18.6M"
-net-assets: "$19.4M"
+annual-revenue: $18.6M
+net-assets: $19.4M
 tax-year: "2023"
-lei: "549300HMUDNO0RY56D37"
-lei-jurisdiction: "US-DE"
+lei: 549300HMUDNO0RY56D37
+lei-jurisdiction: US-DE
 federal-register-mentions: 11
 regulatory-agencies:
-  - "Antitrust Division"
-  - "Energy Department"
-  - "Federal Energy Regulatory Commission"
-  - "Federal Trade Commission"
-  - "Homeland Security Department"
-  - "Justice Department"
-  - "Regulatory Information Service Center"
-  - "Securities and Exchange Commission"
-  - "U.S. Citizenship and Immigration Services"
+  - Antitrust Division
+  - Energy Department
+  - Federal Energy Regulatory Commission
+  - Federal Trade Commission
+  - Homeland Security Department
+  - Justice Department
+  - Regulatory Information Service Center
+  - Securities and Exchange Commission
+  - U.S. Citizenship and Immigration Services
 related: "[[Lyft]] · [[Instacart]] · [[Uber]] · [[DoorDash]] · [[Blackstone Real Estate]] · [[Flex Association]] · [[Fossil Fuel Bloc]] · [[UnitedHealth Group - Optum]] · [[PG&E]] · [[ExxonMobil]] · [[WSPA - Western States Petroleum Association]] · [[Valero Energy]] · [[Raytheon Technologies]] · [[Palantir Technologies Political Operation]] · [[Southern Company]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[NextEra Energy]] · [[Johnson & Johnson]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[Humana]] · [[Hospital Corporation of America - HCA]] · [[Civica Rx]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Blue Cross Blue Shield Association]] · [[Anthem - Elevance Health Political Operation]] · [[Marathon Petroleum]] · [[Koch Industries]] · [[Hawaiian Electric Company]] · [[Halliburton]] · [[Duke Energy]] · [[Devon Energy]] · [[ConocoPhillips]] · [[Chevron]] · [[Eli Broad Foundation]]"
 cross-vault-triangulation-count: 7
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 3
-epa-states: "CA"
+epa-states: CA
 total-raised: 917
 total-spent: 2027
 cash-on-hand: 63682
@@ -49,6 +47,7 @@ contributions-to-committees: 2000
 employee-contributions: 3722
 employee-contributions-total: 1548066
 employee-donor-count: 932
+politicians-funded: "[[_Josh Harder Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[WinRed]], [[_Angie Craig Master Profile]], [[Mark Warner]], [[Bob Casey]], [[Cathy McMorris Rodgers]], [[The Lincoln Project]], [[DNC - Democratic National Committee]], [[Brett Guthrie]], [[Debbie Dingell]], [[Progressive Turnout Project]], [[_Jason Crow Master Profile]], [[REPUBLICAN PARTY OF FLORIDA]], [[_Chris Pappas Master Profile]], [[Ron Wyden]], [[Airbnb]], [[MAGA Inc]], [[ActBlue]], [[_Lauren Underwood Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Mike Levin Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[Catherine Cortez Masto]], [[_Cori Bush Master Profile]], [[JUSTICE DEMOCRATS PAC]], [[Alex Padilla]], [[Emily's List]], [[Indivisible Action]], [[_Joe Neguse Master Profile]], [[Jerry Moran]], [[Ann Wagner]], [[_Derek Tran Master Profile]], [[Roger Wicker]], [[_Tammy Baldwin Master Profile]], [[Marsha Blackburn]], [[Human Rights Campaign Equality Votes]], [[314 ACTION FUND]], [[Activate America]], [[Lisa Blunt Rochester]], [[_Alex Padilla Master Profile]], [[NRCC - National Republican Congressional Committee]], [[Brian Schatz]], [[Marianne Williamson]], [[_Kamala Harris Master Profile]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[MoveOn.org Political Action]], [[_Elissa Slotkin Master Profile]], [[Working Families Party PAC]], [[_Jon Ossoff Master Profile]], [[_Summer Lee Master Profile]], [[Darren Soto]], [[Zoe Lofgren]], [[_Nancy Pelosi Master Profile]], [[Josh Gottheimer]], [[WinSenate]], [[Frank Pallone]], [[Young Kim]], [[Democratic Party of Virginia]], [[Mark Kelly]], [[Patrick McHenry]], [[Tim Scott]], [[Giffords PAC]], [[PRIORITIES USA ACTION]], [[_Lisa Blunt Rochester Master Profile]], [[_Thomas Massie Master Profile]], [[Nancy Mace]], [[Sherrod Brown]], [[John Thune]], [[Bryan Steil]], [[Courage to Change PAC]], [[Brittany Pettersen]], [[_Jimmy Gomez Master Profile]], [[_George Whitesides Master Profile]], [[French Hill]], [[_Scott Wiener Master Profile]], [[_Rashida Tlaib Master Profile]], [[Save America PAC]], [[Mike Flood]], [[Chris Pappas]], [[Rashida Tlaib]], [[Josh Harder]], [[Tammy Baldwin]], [[George Whitesides]], [[Cori Bush]], [[Angie Craig]], [[Summer Lee]], [[Jon Ossoff]], [[Joe Neguse]], [[Thomas Massie]], [[Derek Tran]], [[Mike Levin]], [[Scott Wiener]], [[Kamala Harris]], [[Lauren Underwood]], [[Elissa Slotkin]], [[Jason Crow]], [[Jimmy Gomez]], [[Nancy Pelosi]]"
 ---
 
 
@@ -246,3 +245,50 @@ Preemption of local short-term rental regulations, reduced hotel tax requirement
 
 - [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
 <!-- auto:fec-individual end -->
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 4 (2020–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $12.7M |
+| Total expenses | — |
+| Total assets (EOY) | $24.4M |
+| Grants paid out | $3.8M |
+
+**Lifetime grants out (2020–2024):** $44.7M across 48 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| ALIGHT | $9.5M | 2 | 2022–2023 |
+| HIAS INC | $4.9M | 3 | 2022–2024 |
+| LUTHERAN IMMIGRATION &amp; REFUGEE SERVICE INC | $4.6M | 1 | 2022 |
+| AMERICAN JEWISH JOINT DISTRIBUTION COMMITTEE INC | $3.3M | 2 | 2022–2023 |
+| CHURCH WORLD SERVICE INC | $3.0M | 3 | 2022–2024 |
+| INTERNATIONAL RESCUE COMMITTEE INC | $2.9M | 3 | 2022–2024 |
+| CATHOLIC CHARITIES USA | $1.9M | 3 | 2022–2024 |
+| ETHIOPIAN COMMUNITY DEVELOPMENT COUNCIL INC | $1.6M | 1 | 2022 |
+| US COMMITTEE FOR REFUGEES AND IMMIGRANTS | $1.5M | 1 | 2022 |
+| ROCKEFELLER PHILANTHROPY ADVISORS INC | $1.4M | 3 | 2022–2024 |
+| CORE | $1.0M | 1 | 2020 |
+| THE EPISCOPAL CHURCH | $809K | 1 | 2022 |
+| BUILD CHANGE | $712K | 3 | 2020–2023 |
+| ORAM - ORGANIZATION FOR REFUGE ASYLUM &amp; MIGRATION | $675K | 2 | 2023–2024 |
+| NOVA UKRAINE | $624K | 1 | 2022 |
+| UNITED STATES ASSOCIATION FOR UNHCR | $606K | 2 | 2023–2024 |
+| CATHOLIC RELIEF SERVICES | $536K | 2 | 2022–2023 |
+| HAITIAN BRIDGE ALLIANCE | $526K | 2 | 2023–2024 |
+| HIAS | $506K | 1 | 2020 |
+| WORLD RELIEF CORPORATION OF THE NATIONAL ASSOCIATION OF EVANGELICALS | $462K | 2 | 2022–2023 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

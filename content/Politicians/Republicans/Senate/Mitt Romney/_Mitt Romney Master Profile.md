@@ -3,7 +3,7 @@ title: Mitt Romney
 type: politician
 content-readiness: ready
 central-thesis: "Romney represents the 'self-funding as independence' illusion: a billionaire candidate whose personal fortune (derived from leveraged buyouts and private equity) is presented as proof of independence from donors. But Bain Capital's business model, ..."
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Republican
@@ -14,13 +14,13 @@ bioguide-id: R000615
 govtrack-id: 412841
 bills-sponsored: 27
 bills-cosponsored: 150
-donors: "[[Elliott Management]] · [[Rebekah Mercer]] · [[Christopher Ruddy]] · [[Americans for Responsible Leadership]] · [[Restore Our Future, Inc.]] · [[AMERICAN CROSSROADS]] · [[American Crossroads]] · [[Winning Our Future]]"
+donors: "[[Elliott Management]] · [[Rebekah Mercer]] · [[Christopher Ruddy]] · [[Americans for Responsible Leadership]] · [[Restore Our Future, Inc.]] · [[AMERICAN CROSSROADS]] · [[American Crossroads]] · [[Winning Our Future]] · [[AbbVie]] · [[National Association of Manufacturers]] · [[Chevron]] · [[WinRed]] · [[Anthem - Elevance Health]] · [[Associated General Contractors of America Political Action Committee]] · [[Walmart - Walton Family]] · [[Drain the DC Swamp PAC]] · [[CVS Health - Aetna]] · [[Amgen Inc]]"
 related: "[[Paul Ryan]] · [[Priorities USA Action]]"
 needs-reenrichment: true
 reenrich-reason: run congress pipeline; run pipelines
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 bills-enacted: 0
-top-policy-area: "International Affairs"
+top-policy-area: International Affairs
 ---
 
 

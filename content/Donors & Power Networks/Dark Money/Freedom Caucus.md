@@ -257,3 +257,23 @@ The Freedom Caucus, also known as the House Freedom Caucus, is a congressional c
 Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
 
 - ~~[The Hill: Freedom Caucus urges top funding negotiators to lock in DOGE cuts](https://thehill.com/business/budget/5331509-house-freedom-caucus-demands-budget-cuts/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 1 (2024–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $1.0M |
+| Total expenses | — |
+| Total assets (EOY) | $485K |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

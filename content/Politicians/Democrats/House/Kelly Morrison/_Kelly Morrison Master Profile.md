@@ -1,29 +1,30 @@
 ---
-title: "Kelly Morrison"
+title: Kelly Morrison
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Minnesota"
-state-abbr: "MN"
+party: Democrat
+chamber: House
+state: Minnesota
+state-abbr: MN
 district: "3"
-bioguide-id: "M001234"
+bioguide-id: M001234
 govtrack-id: 456996
 born: "1969-02-02"
-wikidata-id: "Q58416636"
-website: "https://morrison.house.gov"
-phone: "202-225-2871"
+wikidata-id: Q58416636
+website: https://morrison.house.gov
+phone: 202-225-2871
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H4MN03118"
+fec-candidate-id: H4MN03118
+top-donors: "[[IBEW - International Brotherhood of Electrical Workers]], [[AFSCME Working Families Fund]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[League of Conservation Voters]], [[Teamsters - International Brotherhood of Teamsters]], [[General Dynamics]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[American Hospital Association PAC]], [[Progressive Turnout Project]], [[314 ACTION FUND]], [[Sierra Club Independent Action]], [[NEA Fund for Children and Public Education]], [[Pete Aguilar]], [[SEIU COPE]], [[Ted Lieu]], [[American College of Radiology Association PAC]], [[UA Political Action Committee]], [[Let America Vote PAC]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Sierra Club Political Committee]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Planned Parenthood of Minnesota Political Action Fund]], [[National Association of Realtors]]"
 ---
 
 

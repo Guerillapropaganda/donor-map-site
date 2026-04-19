@@ -2,12 +2,12 @@
 title: American Iron and Steel Institute
 type: donor
 content-readiness: ready
-last-updated: 2026-04-17
+last-updated: 2026-04-17T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Defense & Intelligence
 entity-type: Individual Donor
-politicians-funded: "[[Mike Bost]], [[Ron Johnson]], [[Mike Johnson]], [[Bob Casey]], [[Donald Trump]], [[Paul Ryan]], [[Sherrod Brown]]"
+politicians-funded: "[[Mike Bost]], [[Ron Johnson]], [[Mike Johnson]], [[Bob Casey]], [[Donald Trump]], [[Paul Ryan]], [[Sherrod Brown]], [[ActBlue]]"
 total-political-spend: $542,903
 ofac-sdn-match: "true"
 last-enriched: "2026-04-09"
@@ -357,3 +357,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/131832448/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/131832448/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/131832448/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2018–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $211K |
+| Total expenses | — |
+| Total assets (EOY) | $11.7M |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

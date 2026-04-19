@@ -1,33 +1,34 @@
 ---
-title: "Darin Lahood"
+title: Darin Lahood
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Illinois"
-state-abbr: "IL"
+party: Republican
+chamber: House
+state: Illinois
+state-abbr: IL
 district: "16"
-bioguide-id: "L000585"
+bioguide-id: L000585
 govtrack-id: 412674
 born: "1968-07-05"
-wikidata-id: "Q5222780"
-website: "https://lahood.house.gov"
-phone: "202-225-6201"
+wikidata-id: Q5222780
+website: https://lahood.house.gov
+phone: 202-225-6201
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H6IL18088"
+fec-candidate-id: H6IL18088
 bills-sponsored: 37
 bills-cosponsored: 233
 bills-enacted: 0
-top-policy-area: "Taxation"
+top-policy-area: Taxation
+top-donors: "[[Bank of America]], [[Amgen Inc]], [[NextEra Energy]], [[American Hospital Association PAC]], [[Lockheed Martin]], [[Jim Jordan]], [[Citigroup]], [[Walmart - Walton Family]], [[National Association of Manufacturers]], [[Google - Alphabet]], [[National Multifamily Housing Council]], [[Humana]], [[Northrop Grumman]], [[American Gaming Association]], [[Pfizer Inc.]], [[Comcast - NBCUniversal]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Teamsters - International Brotherhood of Teamsters]], [[Gilead Sciences]], [[Honeywell]], [[L3Harris Technologies]], [[McDonalds Corporation]], [[AT&T - WarnerMedia]], [[Palantir]], [[National Restaurant Association]], [[Ford Motor Company]], [[General Dynamics]], [[Chevron]], [[National Cattlemen's Beef Association]], [[ADM - Archer Daniels Midland]], [[Marathon Petroleum]], [[Microsoft]], [[Anthem - Elevance Health]], [[Care Action]], [[National Association of Realtors]], [[CVS Health - Aetna]], [[Morgan Stanley]], [[Duke Energy]], [[Tyson Foods]], [[Johnson & Johnson]], [[American Chemistry Council, INC]], [[WinRed]], [[Jason Smith]], [[MAJORITY PAC]], [[RNC - Republican National Committee]], [[AIPAC - American Israel Public Affairs Committee]], [[PG&E - Pacific Gas and Electric]], [[American College of Radiology Association PAC]], [[Nucor Corporation]], [[Ben Cline]], [[AbbVie]], [[Vern Buchanan]], [[Raytheon (RTX)]], [[UA Political Action Committee]], [[National Rifle Association]], [[General Motors]], [[Associated General Contractors of America Political Action Committee]], [[Tenet Healthcare]]"
 ---
 
 

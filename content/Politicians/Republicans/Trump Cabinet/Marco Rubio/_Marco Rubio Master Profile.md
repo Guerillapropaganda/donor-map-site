@@ -24,37 +24,37 @@ govtrack-id: 412491
 fec-senate-id: S0FL00338
 say-vs-pay:
   passed:
-    - "Embassy to Jerusalem (2018) . Adelson deliverable"
-    - "JCPOA withdrawal (2018) . Adelson deliverable"
-    - "Abraham Accords (2020)"
-    - "Iran war launched (Feb 28, 2026) . 4th Adelson deliverable"
-    - "Cuba embargo tightening as SecState"
-    - "Venezuela fuel blockade (Operation Southern Spear)"
-    - "China tech sanctions 2025"
+    - Embassy to Jerusalem (2018) . Adelson deliverable
+    - JCPOA withdrawal (2018) . Adelson deliverable
+    - Abraham Accords (2020)
+    - Iran war launched (Feb 28, 2026) . 4th Adelson deliverable
+    - Cuba embargo tightening as SecState
+    - Venezuela fuel blockade (Operation Southern Spear)
+    - China tech sanctions 2025
   blocked:
-    - "Gang of Eight immigration reform . his own bill, walked away"
-    - "DREAM Act . voted against after co-sponsoring"
-    - "Any bipartisan legislative win across 14 years"
-    - "Trump-critic posture . flipped to loyalist for SecState nomination"
+    - Gang of Eight immigration reform . his own bill, walked away
+    - DREAM Act . voted against after co-sponsoring
+    - Any bipartisan legislative win across 14 years
+    - Trump-critic posture . flipped to loyalist for SecState nomination
   top-donors:
-    - name: "Miriam & Sheldon Adelson"
-      amount: "$10M+ (career, via super PACs)"
-    - name: "Defense contractor bundlers (Boeing, GD, Honeywell)"
-      amount: "$5M+ bundled"
-    - name: "Norman Braman"
-      amount: "$10M+ bundled"
-    - name: "Elliott Management (Paul Singer)"
-      amount: "$220K direct + RJC network"
-    - name: "Fanjul Family . Florida Crystals"
-      amount: "$62K direct + decades bundled"
-  gap-stat: "$48.3M raised , full Adelson policy sequence delivered across two administrations"
+    - name: Miriam & Sheldon Adelson
+      amount: $10M+ (career, via super PACs)
+    - name: Defense contractor bundlers (Boeing, GD, Honeywell)
+      amount: $5M+ bundled
+    - name: Norman Braman
+      amount: $10M+ bundled
+    - name: Elliott Management (Paul Singer)
+      amount: $220K direct + RJC network
+    - name: Fanjul Family . Florida Crystals
+      amount: $62K direct + decades bundled
+  gap-stat: $48.3M raised , full Adelson policy sequence delivered across two administrations
 source-types:
   - Congress
   - FEC
 corroboration-count: 2
 known-gaps: []
 related: "[[_Donald Trump Master Profile]] · [[Miriam Adelson]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Koch Network - Charles Koch]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[_Rick Scott Master Profile|Rick Scott]] · [[_Maria Elvira Salazar Master Profile|Salazar]] · [[Elliott Management]] · [[Reclaim America PAC]]"
-donors: "[[Mark Zuckerberg]] · [[Larry Ellison]] · [[GEO Group - Private Prison Industrial Complex]] · [[MasTec - Mas Canosa Family]] · [[Fanjul Family - Florida Crystals]] · [[LARA Fund - Mauricio Claver-Carone]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Bacardi - Bacardi USA]] · [[Christopher Ruddy]] · [[Miriam Adelson]]"
+donors: "[[Mark Zuckerberg]] · [[Larry Ellison]] · [[GEO Group - Private Prison Industrial Complex]] · [[MasTec - Mas Canosa Family]] · [[Fanjul Family - Florida Crystals]] · [[LARA Fund - Mauricio Claver-Carone]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Bacardi - Bacardi USA]] · [[Christopher Ruddy]] · [[Miriam Adelson]] · [[McDonalds Corporation]] · [[Business Roundtable]] · [[American Enterprise Institute]] · [[Hospital Corporation of America - HCA]] · [[Oracle]] · [[Meta - Facebook]] · [[Lyft]] · [[Walmart]] · [[Cargill]] · [[Lockheed Martin]] · [[Goldman Sachs]] · [[Centene Corporation]] · [[HBW Resources]] · [[Charles Schwab]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[AT&T]] · [[Morgan Stanley]] · [[Comcast - NBCUniversal]] · [[Johnson & Johnson]] · [[Verizon]] · [[Kaiser Permanente]] · [[Apple]] · [[UPS]] · [[RNC - Republican National Committee]] · [[Elon Musk]] · [[US CHAMBER OF COMMERCE]] · [[Citadel - Kenneth Griffin]] · [[Amazon]] · [[Elliott Management]] · [[CNA - California Nurses Association]] · [[Wells Fargo]] · [[Southern Company]] · [[ADM - Archer Daniels Midland]] · [[Fidelity Investments]] · [[Novo Nordisk]] · [[Anthem - Elevance Health Political Operation]] · [[Booz Allen Hamilton]] · [[Leidos]] · [[TPUSA - Turning Point USA]] · [[Williams Companies]] · [[Merck]] · [[Honeywell International]] · [[Boeing]] · [[Amgen Inc]] · [[Ballard Partners]] · [[General Dynamics]] · [[National Association of Manufacturers]] · [[AbbVie]] · [[Raytheon (RTX Corporation)]] · [[Citigroup]] · [[Google - Alphabet]] · [[Tenet Healthcare]] · [[General Motors]] · [[Hawaiian Electric Company]] · [[Northrop Grumman]] · [[MassMutual]] · [[Bank of America]] · [[Koch Industries]] · [[CBRE Group]] · [[Securus Technologies - Aventiv]] · [[Chevron]] · [[FTX - Sam Bankman-Fried]] · [[Lennar Corporation]] · [[UnitedHealth Group - Optum]] · [[Uber]] · [[DoorDash]] · [[CVS Health - Aetna]] · [[Heritage Foundation]] · [[LET FREEDOM RING INC]] · [[JPMorgan Chase]] · [[American Petroleum Institute]] · [[Monsanto - Bayer]] · [[Duke Energy]] · [[Invitation Homes - Institutional Landlords]] · [[Blackstone Group]] · [[Devon Energy]] · [[BlackRock]] · [[Marathon Petroleum]] · [[BAE Systems]] · [[Walt Disney Company]] · [[Microsoft]] · [[Humana]] · [[Judicial Crisis Network]] · [[Kelcy Warren - Energy Transfer Partners]] · [[Las Vegas Sands]] · [[Purdue Pharma - Sackler Family]] · [[Palantir Technologies]] · [[Alliance Defending Freedom]] · [[National Association of Realtors]] · [[Pfizer Inc.]] · [[Cigna Group]] · [[Alabama Power]] · [[Gates Foundation]] · [[DNC - Democratic National Committee]] · [[NRSC - National Republican Senatorial Committee]] · [[News Corp - Fox Corporation]] · [[Bechtel Corporation]] · [[ExxonMobil]] · [[ConocoPhillips]] · [[Defense Industry]] · [[American Farm Bureau Federation]] · [[State Policy Network]] · [[CTA - California Teachers Association]] · [[John Deere]] · [[ViaPath Technologies - GTL]] · [[Occidental Petroleum]] · [[NextEra Energy]] · [[Eli Lilly]] · [[Gilead Sciences]] · [[Nvidia]] · [[Anduril Industries]]"
 urls-first-triaged: "2026-04-15"
 ---
 

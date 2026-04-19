@@ -1,29 +1,30 @@
 ---
-title: "Michael Baumgartner"
+title: Michael Baumgartner
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Washington"
-state-abbr: "WA"
+party: Republican
+chamber: House
+state: Washington
+state-abbr: WA
 district: "5"
-bioguide-id: "B001322"
+bioguide-id: B001322
 govtrack-id: 457029
 born: "1975-12-13"
-wikidata-id: "Q6828508"
-website: "https://baumgartner.house.gov"
-phone: "202-225-2006"
+wikidata-id: Q6828508
+website: https://baumgartner.house.gov
+phone: 202-225-2006
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H4WA05234"
+fec-candidate-id: H4WA05234
+top-donors: "[[National Rifle Association]], [[Tyson Foods]], [[Chevron]], [[National Association of Realtors]], [[Walmart - Walton Family]], [[Puget Sound Energy INC PAC for Good Government]], [[Comcast - NBCUniversal]], [[AIPAC - American Israel Public Affairs Committee]], [[Jim Jordan]], [[Associated General Contractors of America Political Action Committee]], [[Microsoft]], [[Honeywell]], [[National Cattlemen's Beef Association]], [[Troy Downing]], [[AT&T - WarnerMedia]], [[National Restaurant Association]], [[MAJORITY PAC]], [[General Dynamics]], [[American Hospital Association PAC]]"
 ---
 
 

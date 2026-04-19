@@ -1,66 +1,66 @@
 ---
-title: "Eli Lilly"
+title: Eli Lilly
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Pharma & Healthcare"
-entity-type: "Corporation"
+sector: Pharma & Healthcare
+entity-type: Corporation
 issues:
-  - "Healthcare"
+  - Healthcare
 court-cases: 31551
 last-enriched: "2026-04-10"
 court-jurisdictions:
-  - "District Court, E.D. Pennsylvania"
+  - District Court, E.D. Pennsylvania
 lobbying-spend: 7030293
 lobbying-filings: 104
-lei: "549300E3ZXGJ1J5DKJ05"
-lei-jurisdiction: "CH"
+lei: 549300E3ZXGJ1J5DKJ05
+lei-jurisdiction: CH
 ein: 356202479
-annual-revenue: "$30.2M"
-net-assets: "$6.7M"
+annual-revenue: $30.2M
+net-assets: $6.7M
 tax-year: "2023"
 federal-awards-total: 229741
 federal-contracts-count: 2
 federal-grants-count: 0
-top-federal-agency: "Department of Defense"
+top-federal-agency: Department of Defense
 top-naics-code: "325412"
 related: "[[Novo Nordisk]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[Merck]] · [[The HELP Committee and Prescription Drug Pricing]] · [[Koch Industries]] · [[PhRMA]] · [[AbbVie]] · [[Pfizer]] · [[Johnson & Johnson]] · [[Congressional Leadership Fund]] · [[American Action Network]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Moderna]] · [[Gilead Sciences]] · [[Centene Corporation]] · [[Palantir Technologies]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[UnitedHealth Group - Optum]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[Humana]] · [[Hospital Corporation of America - HCA]] · [[Civica Rx]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Blue Cross Blue Shield Association]] · [[Anthem - Elevance Health Political Operation]] · [[Uber]] · [[Lyft]] · [[Instacart]] · [[Flex Association]] · [[DoorDash]] · [[Airbnb]] · [[WSPA - Western States Petroleum Association]] · [[Valero Energy]] · [[Southern Company]] · [[PG&E]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[NextEra Energy]] · [[Marathon Petroleum]] · [[Hawaiian Electric Company]] · [[Halliburton]] · [[Fossil Fuel Bloc]] · [[ExxonMobil]] · [[Duke Energy]] · [[Devon Energy]] · [[ConocoPhillips]] · [[Chevron]]"
 sec-filings: 10000
 sec-form-types:
-  - "10-K"
+  - 10-K
   - "144"
   - "4"
-  - "4/A"
-  - "424B2"
+  - 4/A
+  - 424B2
   - "425"
-  - "8-K"
-  - "8-K/A"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "DFAN14A"
-  - "EX-1"
-  - "EX-10.128"
-  - "EX-10.15"
-  - "EX-10.16"
-  - "EX-10.25"
-  - "EX-10.59"
-  - "EX-10.6"
-  - "EX-21"
-  - "EX-8.1"
-  - "EX-99.2"
-  - "EX-99.3"
-  - "EX-99.4"
-  - "NPORT-P"
-  - "PRE 14A"
-  - "PX14A6G"
-  - "SC 13G"
-  - "SC 13G/A"
-  - "SC TO-I/A"
-  - "SC TO-T"
-  - "SC14D9C"
-  - "SCHEDULE 13G/A"
+  - 8-K
+  - 8-K/A
+  - DEF 14A
+  - DEFA14A
+  - DFAN14A
+  - EX-1
+  - EX-10.128
+  - EX-10.15
+  - EX-10.16
+  - EX-10.25
+  - EX-10.59
+  - EX-10.6
+  - EX-21
+  - EX-8.1
+  - EX-99.2
+  - EX-99.3
+  - EX-99.4
+  - NPORT-P
+  - PRE 14A
+  - PX14A6G
+  - SC 13G
+  - SC 13G/A
+  - SC TO-I/A
+  - SC TO-T
+  - SC14D9C
+  - SCHEDULE 13G/A
 ftc-enforcement-actions: 1
 ftc-hsr-notices: 29
 fda-recalls: 5
@@ -70,10 +70,11 @@ nhtsa-complaints: 0
 cross-vault-triangulation-count: 16
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 2
-epa-states: "FL, IN"
+epa-states: FL, IN
 employee-contributions: 5158
 employee-contributions-total: 390631
 employee-donor-count: 498
+politicians-funded: "[[_Lauren Underwood Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Jon Ossoff Master Profile]], [[_Pete Sessions Master Profile]], [[_Andre Carson Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Tammy Baldwin Master Profile]], [[MoveOn.org Political Action]], [[_Marco Rubio Master Profile]], [[Progressive Turnout Project]], [[NRCC - National Republican Congressional Committee]], [[ActBlue]], [[RNC - Republican National Committee]], [[_Chris Pappas Master Profile]], [[Mark Kelly]], [[NRSC - National Republican Senatorial Committee]], [[WinRed]], [[_Ron Johnson Master Profile]], [[_Nancy Pelosi Master Profile]], [[_John James Master Profile]], [[_Kamala Harris Master Profile]], [[Giffords PAC]], [[Save America PAC]], [[The Lincoln Project]], [[MAJORITY PAC]], [[MAGA Inc]], [[Let America Vote PAC]], [[_Jake Auchincloss Master Profile]], [[_Victoria Spartz Master Profile]], [[_Lisa Blunt Rochester Master Profile]], [[_Scott Fitzgerald Master Profile]], [[_Jason Smith Master Profile]], [[Chris Christie]], [[_Christian D. Menefee Master Profile]], [[314 ACTION FUND]], [[Ron Johnson]], [[Andre Carson]], [[Jason Smith]], [[Scott Fitzgerald]], [[Tammy Baldwin]], [[Lauren Underwood]], [[Kamala Harris]], [[Jon Ossoff]], [[Christian D. Menefee]], [[John James]], [[Jake Auchincloss]], [[Nancy Pelosi]], [[Chris Pappas]], [[Victoria Spartz]], [[Lisa Blunt Rochester]], [[Marco Rubio]], [[Pete Sessions]]"
 ---
 
 
@@ -515,3 +516,23 @@ _Variant firm names in FDA data: Eli Lilly & Company; Eli Lilly & Co_
 Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
 
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Eli%20Lilly%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 4 (2020–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $35.5M |
+| Total expenses | — |
+| Total assets (EOY) | $13.8M |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

@@ -1,55 +1,55 @@
 ---
-title: "Starbucks"
+title: Starbucks
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Restaurant & Food"
-entity-type: "Corporation"
+sector: Restaurant & Food
+entity-type: Corporation
 issues:
-  - "Labor & Workers"
+  - Labor & Workers
 subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
-top-federal-agency: "Department of Defense"
+top-federal-agency: Department of Defense
 top-naics-code: "336611"
 sec-filings: 10000
 sec-form-types:
-  - "10-K"
+  - 10-K
   - "144"
   - "4"
-  - "424B2"
-  - "424B5"
-  - "8-K"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "DEFC14A"
-  - "DFAN14A"
-  - "EX-10.1"
-  - "EX-10.11"
-  - "EX-10.2"
-  - "EX-10.32"
-  - "EX-10.37"
-  - "EX-10.4"
-  - "EX-10.5"
-  - "EX-21"
-  - "EX-4"
-  - "EX-99.(A)(1)(H)"
-  - "EX-99.(B)"
-  - "EX-99.1"
-  - "FWP"
-  - "PX14A6G"
-  - "SCHEDULE 13G/A"
-  - "SD"
+  - 424B2
+  - 424B5
+  - 8-K
+  - DEF 14A
+  - DEFA14A
+  - DEFC14A
+  - DFAN14A
+  - EX-10.1
+  - EX-10.11
+  - EX-10.2
+  - EX-10.32
+  - EX-10.37
+  - EX-10.4
+  - EX-10.5
+  - EX-21
+  - EX-4
+  - EX-99.(A)(1)(H)
+  - EX-99.(B)
+  - EX-99.1
+  - FWP
+  - PX14A6G
+  - SCHEDULE 13G/A
+  - SD
 cpsc-recalls: 11
 last-enriched: "2026-04-11"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 related: "[[McDonalds Corporation]] · [[National Restaurant Association]] · [[Amazon]]"
 ein: "911795425"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 total-revenue: 2762084
 total-assets: 22542308
 lobbying-spend: 4663000
@@ -57,10 +57,11 @@ lobbying-filings: 45
 cross-vault-triangulation-count: 2
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 40
-epa-states: "CO, FL, GA, IL, IN, KY, MO, NH, NY, SC, TN, TX, VA, WA"
+epa-states: CO, FL, GA, IL, IN, KY, MO, NH, NY, SC, TN, TX, VA, WA
 employee-contributions: 6099
 employee-contributions-total: 464353
 employee-donor-count: 859
+politicians-funded: "[[ActBlue]], [[RNC - Republican National Committee]], [[Let America Vote PAC]], [[_Lisa Blunt Rochester Master Profile]], [[_Kamala Harris Master Profile]], [[Human Rights Campaign Equality Votes]], [[WinSenate]], [[_Anna Paulina Luna Master Profile]], [[Mark Kelly]], [[Microsoft]], [[Votevets]], [[NRSC - National Republican Senatorial Committee]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Emily's List]], [[JUSTICE DEMOCRATS PAC]], [[_Dave Min Master Profile]], [[MoveOn.org Political Action]], [[The Lincoln Project]], [[_Alex Padilla Master Profile]], [[WinRed]], [[_Melissa Bean Master Profile]], [[Democratic Party of Virginia]], [[Giffords PAC]], [[NRCC - National Republican Congressional Committee]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Ted Lieu Master Profile]], [[_Tammy Baldwin Master Profile]], [[Courage to Change PAC]], [[Progressive Turnout Project]], [[_Angie Craig Master Profile]], [[Marianne Williamson]], [[_Chris Pappas Master Profile]], [[_Emily Randall Master Profile]], [[_Jon Ossoff Master Profile]], [[MAGA Inc]], [[Indivisible Action]], [[_Nancy Pelosi Master Profile]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[Fairshake PAC]], [[Bob Casey]], [[_Tim Scott Master Profile]], [[Catherine Cortez Masto]], [[_Ted Cruz Master Profile]], [[_Thomas Massie Master Profile]], [[_Cory Booker Master Profile]], [[Dave Min]], [[Cory Booker]], [[Tammy Baldwin]], [[Nancy Pelosi]], [[Thomas Massie]], [[Angie Craig]], [[Anna Paulina Luna]], [[Kamala Harris]], [[Jon Ossoff]], [[Ted Lieu]], [[Melissa Bean]], [[Ted Cruz]], [[Emily Randall]], [[Lisa Blunt Rochester]], [[Alex Padilla]], [[Chris Pappas]], [[Tim Scott]]"
 ---
 
 
@@ -356,3 +357,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/911795425/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/911795425/2019)~~ (URL broken, archived by Ops)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Starbucks%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $1.2M |
+| Total expenses | — |
+| Total assets (EOY) | $22.5M |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

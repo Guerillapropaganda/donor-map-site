@@ -1,34 +1,34 @@
 ---
-title: "Mike Kelly"
+title: Mike Kelly
 type: politician
 content-readiness: raw
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Pennsylvania"
-state-abbr: "PA"
+party: Republican
+chamber: House
+state: Pennsylvania
+state-abbr: PA
 district: "16"
-bioguide-id: "K000376"
+bioguide-id: K000376
 govtrack-id: 412465
 born: "1948-05-10"
-wikidata-id: "Q1431761"
-website: "https://kelly.house.gov"
-phone: "202-225-5406"
+wikidata-id: Q1431761
+website: https://kelly.house.gov
+phone: 202-225-5406
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
-donors: "[[CA Farm Bureau Federation]]"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
+donors: "[[CA Farm Bureau Federation]], [[Pennsylvania Pro-Life Federation PAC]], [[Goldman Sachs]], [[Morgan Stanley]], [[AbbVie]], [[Carlyle Group]], [[Fidelity Investments]], [[Koch Industries]], [[Blackstone Group]], [[Apple]], [[Northrop Grumman]], [[CVS Health - Aetna]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[Business Roundtable]]"
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H4PA03117"
+fec-candidate-id: H4PA03117
 bills-sponsored: 37
 bills-cosponsored: 315
 bills-enacted: 1
-top-policy-area: "Taxation"
+top-policy-area: Taxation
 ---
 
 

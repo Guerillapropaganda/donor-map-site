@@ -1,32 +1,33 @@
 ---
-title: "Frederica S. Wilson"
+title: Frederica S. Wilson
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Florida"
-state-abbr: "FL"
+party: Democrat
+chamber: House
+state: Florida
+state-abbr: FL
 district: "24"
-bioguide-id: "W000808"
+bioguide-id: W000808
 govtrack-id: 412412
 born: "1942-11-05"
-wikidata-id: "Q461504"
-website: "https://wilson.house.gov"
-phone: "202-225-4506"
+wikidata-id: Q461504
+website: https://wilson.house.gov
+phone: 202-225-4506
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 20
 bills-cosponsored: 451
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Ballard Partners]], [[NextEra Energy]], [[Fanjul Family - Florida Crystals]]"
 ---
 
 

@@ -1,25 +1,25 @@
 ---
-title: "Tim Walberg"
+title: Tim Walberg
 type: politician
-bioguide-id: "W000798"
+bioguide-id: W000798
 content-readiness: ready
-central-thesis: "Tim Walberg is the anti-labor pastor who chairs the labor committee , funded by billionaires who want to dismantle public education and weaken unions. His top donors include the DeVos family ($76,700+ since 2007), Marc Rowan (Apollo Global Managem..."
-last-updated: 2026-04-13
+central-thesis: Tim Walberg is the anti-labor pastor who chairs the labor committee , funded by billionaires who want to dismantle public education and weaken unions. His top donors include the DeVos family ($76,700+ since 2007), Marc Rowan (Apollo Global Managem...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "House"
-state: "Michigan"
-state-abbr: "MI"
+party: Republican
+chamber: House
+state: Michigan
+state-abbr: MI
 district: "5"
 committees:
-  - "Education & Labor"
+  - Education & Labor
 issues:
-  - "Education"
+  - Education
 top-donors:
-  - "AIPAC"
-total-received: "$1,208,808"
-fec-candidate-id: "H4MI07103"
+  - AIPAC
+total-received: $1,208,808
+fec-candidate-id: H4MI07103
 last-enriched: "2026-04-08"
 source-types:
   - Congress
@@ -27,15 +27,15 @@ source-types:
   - FEC
 corroboration-count: 3
 known-gaps:
-  - "No voting record data"
-  - "No mapped relationships"
-donors: "[[NORPAC]]"
+  - No voting record data
+  - No mapped relationships
+donors: "[[NORPAC]], [[AT&T - WarnerMedia]], [[Amgen Inc]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Tyson Foods]], [[National Rifle Association]], [[Anthem - Elevance Health]], [[American Hospital Association PAC]], [[Gilead Sciences]], [[Walmart - Walton Family]], [[Ford Motor Company]], [[Planned Parenthood Votes]], [[Associated General Contractors of America Political Action Committee]], [[AIPAC - American Israel Public Affairs Committee]], [[McDonalds Corporation]], [[Republican Jewish Coalition]], [[American Chemistry Council, INC]], [[General Dynamics]], [[General Motors]], [[Raytheon (RTX)]], [[PG&E - Pacific Gas and Electric]], [[National Association of Realtors]], [[Lockheed Martin]], [[Marathon Petroleum]], [[WinRed]], [[Valero Energy]], [[National Association of Manufacturers]], [[National Restaurant Association]], [[Jason Smith]], [[CVS Health - Aetna]], [[Chevron]], [[DoorDash]], [[Comcast - NBCUniversal]], [[Johnson & Johnson]], [[Teamsters - International Brotherhood of Teamsters]], [[Performance Racing Inc.]], [[Google - Alphabet]], [[Pfizer Inc.]]"
 related: "[[_Bobby Scott Master Profile|Bobby Scott]] · [[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 32
 bills-cosponsored: 213
 bills-enacted: 0
-top-policy-area: "International Affairs"
+top-policy-area: International Affairs
 ---
 
 

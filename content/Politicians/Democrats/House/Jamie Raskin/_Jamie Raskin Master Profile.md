@@ -22,7 +22,7 @@ bills-sponsored: 127
 bills-cosponsored: 3681
 website: https://raskin.house.gov
 phone: 202-225-5341
-donors: "[[UNITE HERE]] · [[Demand Justice]] · [[NEA ADVOCACY FUND]] · [[Planned Parenthood Votes]] · [[NEA FUND FOR CHILDREN AND PUBLIC EDUCATION]] · [[FREETHOUGHT EQUALITY SUPER PAC]] · [[NEA Advocacy Fund]] · [[NEA Fund for Children and Public Education]] · [[Freethought Equality Super PAC]]"
+donors: "[[UNITE HERE]] · [[Demand Justice]] · [[NEA ADVOCACY FUND]] · [[Planned Parenthood Votes]] · [[NEA FUND FOR CHILDREN AND PUBLIC EDUCATION]] · [[FREETHOUGHT EQUALITY SUPER PAC]] · [[NEA Advocacy Fund]] · [[NEA Fund for Children and Public Education]] · [[Freethought Equality Super PAC]] · [[Google - Alphabet]] · [[J Street]] · [[Nellie Pou]] · [[Comcast - NBCUniversal]] · [[Sierra Club Political Committee]] · [[National Multifamily Housing Council]] · [[Everytown for Gun Safety]] · [[National Association of Realtors]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[SEIU COPE]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Lockheed Martin]] · [[Josh Harder]] · [[Anthem - Elevance Health]] · [[Microsoft]] · [[Unite Here Tip Campaign Committee]] · [[Veronica Escobar]] · [[League of Conservation Voters]] · [[Tyson Foods]] · [[Sierra Club Independent Action]] · [[Debbie Dingell]] · [[Chrissy Houlahan]] · [[Mike Levin]] · [[Dave Min]] · [[BAE Systems]] · [[George Whitesides]] · [[Let America Vote PAC]] · [[AT&T - WarnerMedia]] · [[National Education Association]] · [[iHeartMedia]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Progressive Turnout Project]] · [[AbbVie]] · [[Giffords PAC]] · [[National Nurses United]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[CVS Health - Aetna]] · [[Walmart - Walton Family]] · [[Raytheon (RTX)]] · [[Medicare for All - The Policy That Broke the Party]] · [[DNC - Democratic National Committee]] · [[AFL-CIO]] · [[Booz Allen Hamilton]] · [[Open Society Foundations]] · [[Cigna Group]] · [[Palantir Technologies]] · [[Goldman Sachs]] · [[Verizon]] · [[Northrop Grumman]] · [[Kaiser Permanente]] · [[Wells Fargo]] · [[Morgan Stanley]] · [[Elliott Management]] · [[Bank of America]] · [[Apple]] · [[ENVIRONMENT AMERICA INC]] · [[Amazon]] · [[UAW - United Auto Workers]] · [[Citigroup]] · [[Raytheon (RTX Corporation)]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[Novo Nordisk]] · [[Meta - Facebook]] · [[Nvidia]] · [[Johnson & Johnson]] · [[JPMorgan Chase]] · [[CalPERS]] · [[AT&T]] · [[Center for American Progress]] · [[Leidos]] · [[AFGE - American Federation of Government Employees]] · [[Boeing]]"
 opposes: "[[_Donald Trump Master Profile]]"
 related: "[[The Oversight Chair and the Investigation Theater]] · [[_Donald Trump Master Profile|Trump]] · [[Federalist Society]] · [[Demand Justice]]"
 last-enriched: "2026-04-15"
@@ -50,8 +50,8 @@ wikipedia-url: https://en.wikipedia.org/wiki/Jamie_Raskin
 wikipedia-extract: Jamin Ben Raskin is an American attorney, law professor, and politician serving as the U.S. representative for Maryland's 8th congressional district since 2017.
 born: "1962-12-13"
 bills-enacted: 0
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "Health"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: Health
 ---
 
 

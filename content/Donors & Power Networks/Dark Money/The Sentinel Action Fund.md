@@ -12,7 +12,7 @@ source-tier: 1
 fec-ie-support: "null"
 fec-ie-oppose: $10,655,338
 opposes: "[[Mark Kelly]]"
-politicians-funded: "[[Mark Kelly]]"
+politicians-funded: "[[Mark Kelly]], [[Monica de la Cruz]], [[Marcy Kaptur]], [[Bernie Moreno]], [[Tim Sheehy]], [[Jacky Rosen]], [[Donald Trump]], [[Sherrod Brown]], [[Kamala Harris]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"

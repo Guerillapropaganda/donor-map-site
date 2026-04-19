@@ -1,28 +1,29 @@
 ---
-title: "Tom Barrett"
+title: Tom Barrett
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Michigan"
-state-abbr: "MI"
+party: Republican
+chamber: House
+state: Michigan
+state-abbr: MI
 district: "7"
-bioguide-id: "B001321"
+bioguide-id: B001321
 govtrack-id: 456994
 born: "1981-04-30"
-wikidata-id: "Q18684588"
-website: "https://barrett.house.gov"
-phone: "202-225-4872"
+wikidata-id: Q18684588
+website: https://barrett.house.gov
+phone: 202-225-4872
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
+top-donors: "[[Chevron]], [[Bank of America]], [[Koch Network - Charles Koch]], [[Anduril Industries]], [[Kelcy Warren - Energy Transfer Partners]], [[CVS Health - Aetna]], [[Kaiser Permanente]], [[General Motors]], [[Ford Motor Company]], [[UPS]], [[Oracle]], [[Charles Schwab]], [[Blackstone Group]], [[CBRE Group]], [[GEO Group - Private Prison Industrial Complex]]"
 ---
 
 

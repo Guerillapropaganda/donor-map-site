@@ -3,7 +3,7 @@ title: Dan Osborn
 type: politician
 content-readiness: ready
 central-thesis: Osborn represents an emerging independent working-class model that is primarily funded by national Democratic infrastructure while maintaining an 'independent' brand to appeal to Nebraska moderates and right-leaning working-class voters skeptical ...
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Independent
@@ -24,7 +24,7 @@ cash-on-hand: "575663.35"
 fec-cycle: 2026
 last-enriched: "2026-04-10"
 fec-debt: "33492.00"
-donors: "[[Retire Career Politicians]] · [[Labor Unions]] · [[Heartland Resurgence]] · [[Railroaders for Public Safety]] · [[ActBlue]] · [[ESAFUND]] · [[Senate Majority PAC]]"
+donors: "[[Retire Career Politicians]] · [[Labor Unions]] · [[Heartland Resurgence]] · [[Railroaders for Public Safety]] · [[ActBlue]] · [[ESAFUND]] · [[Senate Majority PAC]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[NEA Fund for Children and Public Education]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[AFL-CIO]] · [[Unite Here Tip Campaign Committee]] · [[Indivisible Action]] · [[Sierra Club Independent Action]] · [[UA Political Action Committee]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[Progressive Turnout Project]] · [[SEIU COPE]] · [[National Committee to Preserve Social Security PAC]] · [[League of Conservation Voters]] · [[SLF PAC]] · [[DSCC - Democratic Senatorial Campaign Committee]] · [[National Nurses United]] · [[Let America Vote PAC]]"
 urls-first-triaged: "2026-04-15"
 ---
 

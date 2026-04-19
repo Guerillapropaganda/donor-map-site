@@ -1,29 +1,30 @@
 ---
-title: "Maxine Dexter"
+title: Maxine Dexter
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Oregon"
-state-abbr: "OR"
+party: Democrat
+chamber: House
+state: Oregon
+state-abbr: OR
 district: "3"
-bioguide-id: "D000635"
+bioguide-id: D000635
 govtrack-id: 457015
 born: "1972-12-05"
-wikidata-id: "Q96777172"
-website: "https://dexter.house.gov"
-phone: "202-225-4811"
+wikidata-id: Q96777172
+website: https://dexter.house.gov
+phone: 202-225-4811
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H4OR03192"
+fec-candidate-id: H4OR03192
+top-donors: "[[SEIU COPE]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Pete Aguilar]], [[NEA Fund for Children and Public Education]], [[American College of Radiology Association PAC]], [[League of Conservation Voters]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Teamsters - International Brotherhood of Teamsters]], [[Emily's List]], [[Anthem - Elevance Health]], [[UA Political Action Committee]], [[National Association of Realtors]], [[Care Action]], [[314 ACTION FUND]], [[NextEra Energy]], [[American Hospital Association PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Working Families Party PAC]], [[Everytown for Gun Safety]], [[IBEW - International Brotherhood of Electrical Workers]], [[Medicare for All - The Policy That Broke the Party]]"
 ---
 
 

@@ -22,13 +22,13 @@ known-gaps:
   - No legislative record
   - No voting record
   - No mapped relationships
-donors: "[[Western Growers Association]] · [[National Cattlemen's Beef Association]] · [[California Farm Bureau Federation]]"
+donors: "[[Western Growers Association]] · [[National Cattlemen's Beef Association]] · [[California Farm Bureau Federation]] · [[NextEra Energy]] · [[National Rifle Association]] · [[Google - Alphabet]] · [[AT&T - WarnerMedia]] · [[Amgen Inc]] · [[Honeywell]] · [[American College of Radiology Association PAC]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[Lockheed Martin]] · [[Pfizer Inc.]] · [[Johnson & Johnson]] · [[Raytheon (RTX)]] · [[American Hospital Association PAC]] · [[Morgan Stanley]] · [[Anthem - Elevance Health]] · [[Comcast - NBCUniversal]] · [[Humana]] · [[Walmart - Walton Family]] · [[Citigroup]] · [[AbbVie]] · [[National Association of Realtors]] · [[Associated General Contractors of America Political Action Committee]] · [[Bank of America]] · [[AIPAC - American Israel Public Affairs Committee]] · [[MAJORITY PAC]] · [[Valero Energy]] · [[National Multifamily Housing Council]] · [[Gilead Sciences]] · [[Tyson Foods]] · [[Jim Jordan]] · [[Adrian Smith]] · [[Marathon Petroleum]] · [[General Motors]] · [[National Restaurant Association]] · [[Duke Energy]] · [[CVS Health - Aetna]] · [[Anduril Industries]] · [[Verizon]] · [[Oracle]] · [[HBW Resources]] · [[Blackstone Group]]"
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H2TX01112"
+fec-candidate-id: H2TX01112
 bills-sponsored: 21
 bills-cosponsored: 224
 bills-enacted: 0
-top-policy-area: "International Affairs"
+top-policy-area: International Affairs
 ---
 
 

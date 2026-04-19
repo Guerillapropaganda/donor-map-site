@@ -1,32 +1,32 @@
 ---
-title: "Enterprise Products Partners"
+title: Enterprise Products Partners
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Energy & Utilities"
-entity-type: "Corporation"
+sector: Energy & Utilities
+entity-type: Corporation
 issues:
-  - "Energy & Climate"
+  - Energy & Climate
 federal-awards-total: 0
 federal-contracts-count: 0
 federal-grants-count: 2
-lei: "K4CDIF4M54DJZ6TB4Q48"
-lei-jurisdiction: "US-DE"
+lei: K4CDIF4M54DJZ6TB4Q48
+lei-jurisdiction: US-DE
 court-cases: 154
 last-enriched: "2026-04-07"
 court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "Court of Appeals for the Tenth Circuit"
-  - "District Court, E.D. New York"
-  - "District Court, E.D. Virginia"
-  - "District Court, N.D. Georgia"
-  - "District Court, N.D. Texas"
-  - "District Court, S.D. Mississippi"
-  - "District Court, S.D. New York"
-  - "District Court, S.D. Texas"
-  - "District Court, W.D. Texas"
+  - Court of Appeals for the D.C. Circuit
+  - Court of Appeals for the Tenth Circuit
+  - District Court, E.D. New York
+  - District Court, E.D. Virginia
+  - District Court, N.D. Georgia
+  - District Court, N.D. Texas
+  - District Court, S.D. Mississippi
+  - District Court, S.D. New York
+  - District Court, S.D. Texas
+  - District Court, W.D. Texas
 related: "[[InfluenceMap]] · [[Rex Tillerson]] · [[Williams Companies]] · [[American Fuel and Petrochemical Manufacturers|AFPM]] · [[Joe Manchin]] · [[League of Conservation Voters]]"
 source-types:
   - Courts
@@ -34,17 +34,18 @@ source-types:
   - USASpending
 corroboration-count: 3
 known-gaps:
-  - "No SEC corporate filings"
-  - "No FEC contribution data"
+  - No SEC corporate filings
+  - No FEC contribution data
 lobbying-spend: 2047000
 lobbying-filings: 118
 cross-vault-triangulation-count: 4
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 1
-epa-states: "CO"
+epa-states: CO
 employee-contributions: 66
 employee-contributions-total: 239960
 employee-donor-count: 36
+politicians-funded: "[[_Jason Smith Master Profile]], [[_Beth van Duyne Master Profile]], [[MAGA Inc]], [[_Tony Gonzales Master Profile]], [[MoveOn.org Political Action]], [[WinRed]], [[_Ted Cruz Master Profile]], [[Congressional Leadership Fund]], [[RNC - Republican National Committee]], [[ActBlue]], [[Trump Victory]], [[_Jake Ellzey Master Profile]], [[_August Pfluger Master Profile]], [[_Martin Heinrich Master Profile]], [[_John James Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[John James]], [[Tony Gonzales]], [[Martin Heinrich]], [[Jason Smith]], [[Ted Cruz]], [[Beth van Duyne]], [[Jake Ellzey]], [[August Pfluger]]"
 ---
 
 

@@ -2,12 +2,12 @@
 title: Valero Energy
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Energy & Utilities
 entity-type: Corporation
-politicians-funded: "[[Steve Scalise]]"
+politicians-funded: "[[Steve Scalise]], [[NRCC - National Republican Congressional Committee]], [[Lance Gooden]], [[Valero Energy]], [[Markwayne Mullin]], [[Kat Cammack]], [[_Tony Gonzales Master Profile]], [[Guy Reschenthaler]], [[MAGA Inc]], [[Chip Roy]], [[Elise Stefanik]], [[Henry Cuellar]], [[Trump Victory]], [[Sam Graves]], [[John Thune]], [[RNC - Republican National Committee]], [[Jay Obernolte]], [[Michael Cloud]], [[Mike Kennedy]], [[Byron Donalds]], [[Michelle Fischbach]], [[Bruce Westerman]], [[Brad Finstad]], [[Brett Guthrie]], [[Jodey Arrington]], [[Joe Wilson]], [[David Kustoff]], [[Troy Balderson]], [[Adrian Smith]], [[John James]], [[ActBlue]], [[James Comer]], [[_Ted Cruz Master Profile]], [[Cathy McMorris Rodgers]], [[Julie Fedorchak]], [[Richard Hudson]], [[Mike Thompson]], [[Glenn Thompson]], [[NRSC - National Republican Senatorial Committee]], [[Pete Stauber]], [[James Lankford]], [[Tim Scott]], [[Jason Smith]], [[John Joyce]], [[Marsha Blackburn]], [[Brian Babin]], [[Monica de la Cruz]], [[Morgan Luttrell]], [[Ronny Jackson]], [[Vicente Gonzalez]], [[WinRed]], [[Tom Cole]], [[Young Kim]], [[Bryan Steil]], [[Dan Crenshaw]], [[Clay Higgins]], [[Ron Estes]], [[_Julia Letlow Master Profile]], [[Russ Fulcher]], [[Jim Costa]], [[Bernie Moreno]], [[Todd Young]], [[Patrick McHenry]], [[Nathaniel Moran]], [[Steve Daines]], [[Roger Wicker]], [[Diana Harshbarger]], [[_Don Bacon Master Profile]], [[Dusty Johnson]], [[John Kennedy]], [[_Jon Ossoff Master Profile]], [[Pete Ricketts]], [[Tim Walberg]], [[Michael Whatley]], [[Lloyd Smucker]], [[Tim Sheehy]], [[Richard Neal]], [[Ted Cruz]], [[Thom Tillis]], [[The Lincoln Project]], [[Deb Fischer]], [[August Pfluger]], [[John Barrasso]], [[Vince Fong]], [[Roger Williams]], [[_Mike Thompson Master Profile]], [[John Boozman]], [[Kevin Cramer]], [[Derrick van Orden]], [[Mariannette Miller-Meeks]], [[Mike Carey]], [[Ron Johnson]], [[Shelley Moore Capito]], [[Don Bacon]], [[Jon Ossoff]], [[Julia Letlow]], [[Tony Gonzales]]"
 issues:
   - Energy & Climate
 ein: 742904514
@@ -52,7 +52,7 @@ nhtsa-complaints: 0
 cross-vault-triangulation-count: 18
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 3
-epa-states: "CO, TX"
+epa-states: CO, TX
 federal-contracts: 521
 total-raised: 1667996
 total-spent: 1489253
@@ -367,3 +367,32 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 - ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F742904514_202309_990_2024120622937805.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Valero%20Energy%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 9 (2020–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | — |
+| Grants paid out | — |
+
+**Lifetime grants out (2020–2024):** $62.4M across 2 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| SEE ATTACHMENT 1 | $44.6M | 4 | 2020–2024 |
+| SEE ATTACHEMENT 4 | $17.8M | 1 | 2021 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

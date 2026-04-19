@@ -334,3 +334,35 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/521128863/2022)~~ (URL broken, archived by Ops)
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/521128863/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/521128863/2020)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2019–2025)
+
+**Most recent filing (2025):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $75K |
+| Total expenses | — |
+| Total assets (EOY) | $6.3M |
+| Grants paid out | — |
+
+**Lifetime grants out (2019–2025):** $150K across 5 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| MAJORITY FORWARD | $50K | 1 | 2019 |
+| ONE NATION | $50K | 1 | 2020 |
+| NO LABELS | $25K | 1 | 2021 |
+| FUTURE FORUM FOUNDATION | $20K | 1 | 2019 |
+| NEW HAMPSHIRE DEMOCRATIC PARTY | $5K | 1 | 2020 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

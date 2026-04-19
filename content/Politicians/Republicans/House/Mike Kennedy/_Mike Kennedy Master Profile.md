@@ -1,29 +1,30 @@
 ---
-title: "Mike Kennedy"
+title: Mike Kennedy
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Utah"
-state-abbr: "UT"
+party: Republican
+chamber: House
+state: Utah
+state-abbr: UT
 district: "3"
-bioguide-id: "K000403"
+bioguide-id: K000403
 govtrack-id: 457025
 born: "1969-02-02"
-wikidata-id: "Q16730723"
-website: "https://mikekennedy.house.gov"
-phone: "202-225-7751"
+wikidata-id: Q16730723
+website: https://mikekennedy.house.gov
+phone: 202-225-7751
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H4UT03260"
+fec-candidate-id: H4UT03260
+top-donors: "[[Microsoft]], [[Marathon Petroleum]], [[Valero Energy]], [[National Restaurant Association]], [[Google - Alphabet]], [[L3Harris Technologies]], [[Chevron]], [[AT&T - WarnerMedia]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[National Association of Realtors]], [[Nucor Corporation]], [[National Rifle Association]], [[General Dynamics]], [[AIPAC - American Israel Public Affairs Committee]], [[Anthem - Elevance Health]], [[National Cattlemen's Beef Association]], [[Jim Jordan]], [[MAJORITY PAC]], [[Lockheed Martin]], [[Troy Downing]], [[Northrop Grumman]], [[American College of Radiology Association PAC]], [[Performance Racing Inc.]], [[Mike Haridopolos]], [[Honeywell]], [[American Hospital Association PAC]], [[Conservative Leadership PAC]]"
 ---
 
 

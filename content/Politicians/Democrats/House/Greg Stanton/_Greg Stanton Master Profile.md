@@ -1,33 +1,34 @@
 ---
-title: "Greg Stanton"
+title: Greg Stanton
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Arizona"
-state-abbr: "AZ"
+party: Democrat
+chamber: House
+state: Arizona
+state-abbr: AZ
 district: "4"
-bioguide-id: "S001211"
+bioguide-id: S001211
 govtrack-id: 412753
 born: "1970-03-08"
-wikidata-id: "Q5606289"
-website: "https://stanton.house.gov"
-phone: "202-225-9888"
+wikidata-id: Q5606289
+website: https://stanton.house.gov
+phone: 202-225-9888
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H8AZ09040"
+fec-candidate-id: H8AZ09040
 bills-sponsored: 24
 bills-cosponsored: 252
 bills-enacted: 1
-top-policy-area: "International Affairs"
+top-policy-area: International Affairs
+top-donors: "[[SEIU COPE]], [[DMFI - Democratic Majority for Israel]], [[National Association of Realtors]], [[L3Harris Technologies]], [[General Dynamics]], [[Teamsters - International Brotherhood of Teamsters]], [[Northrop Grumman]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Comcast - NBCUniversal]], [[ENVIRONMENT AMERICA INC]], [[Google - Alphabet]], [[Associated General Contractors of America Political Action Committee]], [[UA Political Action Committee]], [[Tenet Healthcare]], [[Raytheon (RTX)]], [[Honeywell]], [[Everytown for Gun Safety]], [[CVS Health - Aetna]], [[General Motors]], [[Performance Racing Inc.]], [[Sierra Club Independent Action]], [[NEA Fund for Children and Public Education]], [[Unite Here Tip Campaign Committee]], [[Planned Parenthood Action Fund INC]], [[Lauren Underwood]], [[Planned Parenthood Votes]], [[Jason Crow]], [[Anthem - Elevance Health]], [[Sara Jacobs]], [[Ford Motor Company]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[CHC BOLD PAC]], [[Joe Neguse]], [[AIPAC - American Israel Public Affairs Committee]], [[Nancy Pelosi]], [[Walmart - Walton Family]], [[American Hospital Association PAC]], [[National Education Association]], [[Jamie Raskin]], [[AT&T - WarnerMedia]], [[Human Rights Campaign Equality Votes]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Paul Tonko]], [[Robert Garcia]], [[League of Conservation Voters]], [[AFL-CIO]], [[United We Can]], [[Progressive Turnout Project]], [[Humana]], [[Sierra Club Political Committee]], [[DCCC - Democratic Congressional Campaign Committee]], [[Pete Aguilar]], [[Ted Lieu]], [[iHeartMedia]], [[IBEW - International Brotherhood of Electrical Workers]], [[MoveOn.org Political Action]], [[Hmp]]"
 ---
 
 

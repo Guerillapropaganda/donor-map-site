@@ -3,7 +3,7 @@ title: Jeanne Shaheen
 type: politician
 content-readiness: ready
 central-thesis: Shaheen is the defense industry's ideal Democratic senator , a three-committee portfolio covering every stage of the defense spending pipeline, from the foreign policy that creates demand for weapons systems to the budget authorization that approv...
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Democrat
@@ -32,10 +32,10 @@ known-gaps:
   - No mapped relationships
 last-enriched: "2026-04-09"
 related: "[[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Chris Coons Master Profile|Chris Coons]] · [[Martin Heinrich]]"
-donors: "[[Independent Leadership for New Hampshire PAC]] · [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]] · [[COUNCIL FOR AMERICAN JOB GROWTH]] · [[BAE Systems]] · [[Northrop Grumman]] · [[Defense Industry]] · [[American Crossroads]] · [[Council for American Job Growth]]"
+donors: "[[Independent Leadership for New Hampshire PAC]] · [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]] · [[COUNCIL FOR AMERICAN JOB GROWTH]] · [[BAE Systems]] · [[Northrop Grumman]] · [[Defense Industry]] · [[American Crossroads]] · [[Council for American Job Growth]] · [[Honeywell]] · [[American Gaming Association]] · [[Lockheed Martin]] · [[Raytheon (RTX)]] · [[National Association of Realtors]] · [[Planned Parenthood Votes]] · [[J Street]] · [[L3Harris Technologies]] · [[Teamsters - International Brotherhood of Teamsters]] · [[NextEra Energy]] · [[iHeartMedia]] · [[Pfizer Inc.]] · [[American Chemistry Council, INC]] · [[Johnson & Johnson]] · [[Microsoft]] · [[American Hospital Association PAC]] · [[AT&T - WarnerMedia]] · [[Performance Racing Inc.]] · [[Anthem - Elevance Health]] · [[Citigroup]] · [[Leidos]] · [[Americas Pac]] · [[General Dynamics]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[AbbVie]]"
 urls-first-triaged: "2026-04-15"
 bills-enacted: 2
-top-policy-area: "International Affairs"
+top-policy-area: International Affairs
 ---
 
 

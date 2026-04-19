@@ -5,14 +5,14 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 aliases:
   - JUSTICE DEMOCRATS PAC
 known-gaps:
   - Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis.
 related: "[[Jamaal Bowman]] · [[The FEC Complaints - PAC-to-LLC Transfer Controversy]] · [[Wesley Bell]] · [[Summer Lee]] · [[Richard Neal]] · [[George Latimer]] · [[Cori Bush]]"
-politicians-funded: "[[Cori Bush]], [[Jamaal Bowman]], [[Richard Neal]], [[George Latimer]], [[Summer Lee]], [[Wesley Bell]]"
+politicians-funded: "[[Cori Bush]], [[Jamaal Bowman]], [[Richard Neal]], [[George Latimer]], [[Summer Lee]], [[Wesley Bell]], [[Ilhan Omar]], [[Ayanna Pressley]], [[Rashida Tlaib]], [[Henry Cuellar]], [[Nina Turner]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"

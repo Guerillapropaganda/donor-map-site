@@ -2,12 +2,12 @@
 title: UAW - United Auto Workers
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 2
 parent: null
 sector: Labor Unions
 entity-type: Individual Donor
-politicians-funded: "[[Tammy Baldwin]], [[Pete Aguilar]], [[Frank Pallone]], [[Sherrod Brown]], [[Gary Peters]], [[Debbie Stabenow]], [[Mark Takano]]"
+politicians-funded: "[[Tammy Baldwin]], [[Pete Aguilar]], [[Frank Pallone]], [[Sherrod Brown]], [[Gary Peters]], [[Debbie Stabenow]], [[Mark Takano]], [[DCCC - Democratic Congressional Campaign Committee]], [[DSCC - Democratic Senatorial Campaign Committee]], [[ActBlue]], [[MoveOn.org Political Action]], [[_Nancy Pelosi Master Profile]], [[_Debbie Dingell Master Profile]], [[_Jon Ossoff Master Profile]], [[_Jamie Raskin Master Profile]], [[_Rashida Tlaib Master Profile]], [[Emily's List]], [[Debbie Dingell]], [[Rashida Tlaib]], [[Jamie Raskin]], [[Nancy Pelosi]], [[Jon Ossoff]]"
 issues:
   - Labor & Workers
 sec-filings: 15
@@ -561,3 +561,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2014 Filing](https://projects.propublica.org/nonprofits/organizations/340200249/2014)~~ (URL broken, archived by Ops)
 - ~~[2013 Filing](https://projects.propublica.org/nonprofits/organizations/340200249/2013)~~ (URL broken, archived by Ops)
 - ~~[2012 Filing](https://projects.propublica.org/nonprofits/organizations/340200249/2012)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 3 (2021–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | $39K |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | — |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

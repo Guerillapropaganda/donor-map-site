@@ -1,33 +1,34 @@
 ---
-title: "Nikema Williams"
+title: Nikema Williams
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Georgia"
-state-abbr: "GA"
+party: Democrat
+chamber: House
+state: Georgia
+state-abbr: GA
 district: "5"
-bioguide-id: "W000788"
+bioguide-id: W000788
 govtrack-id: 456811
 born: "1978-07-30"
-wikidata-id: "Q56486570"
-website: "https://nikemawilliams.house.gov"
-phone: "202-225-3801"
+wikidata-id: Q56486570
+website: https://nikemawilliams.house.gov
+phone: 202-225-3801
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H0GA05301"
+fec-candidate-id: H0GA05301
 bills-sponsored: 51
 bills-cosponsored: 713
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[DMFI - Democratic Majority for Israel]], [[J Street]], [[Microsoft]], [[Let America Vote PAC]], [[General Motors]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[AIPAC - American Israel Public Affairs Committee]], [[National Multifamily Housing Council]], [[AT&T - WarnerMedia]], [[Planned Parenthood Action Fund INC]], [[Walmart - Walton Family]], [[314 ACTION FUND]], [[General Dynamics]], [[Comcast - NBCUniversal]], [[IBEW - International Brotherhood of Electrical Workers]], [[Lockheed Martin]], [[Honeywell]], [[Human Rights Campaign Equality Votes]], [[National Nurses United]], [[AbbVie]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Demand Justice]], [[Progressive Turnout Project]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Sierra Club Independent Action]], [[Bank of America]], [[Planned Parenthood Votes]], [[National Association of Realtors]], [[Ted Lieu]], [[Citigroup]], [[League of Conservation Voters]], [[Medicare for All - The Policy That Broke the Party]], [[Google - Alphabet]], [[Anthem - Elevance Health]], [[Unite Here Tip Campaign Committee]], [[SEIU COPE]], [[Giffords PAC]], [[Sierra Club Political Committee]], [[Marcia Fudge]], [[American Chemistry Council, INC]], [[NEA Fund for Children and Public Education]], [[Johnson & Johnson]], [[American Hospital Association PAC]]"
 ---
 
 

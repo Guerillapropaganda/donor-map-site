@@ -1,33 +1,34 @@
 ---
-title: "David Rouzer"
+title: David Rouzer
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "North Carolina"
-state-abbr: "NC"
+party: Republican
+chamber: House
+state: North Carolina
+state-abbr: NC
 district: "7"
-bioguide-id: "R000603"
+bioguide-id: R000603
 govtrack-id: 412641
 born: "1972-02-16"
-wikidata-id: "Q5239255"
-website: "https://rouzer.house.gov"
-phone: "202-225-2731"
+wikidata-id: Q5239255
+website: https://rouzer.house.gov
+phone: 202-225-2731
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H2NC07096"
+fec-candidate-id: H2NC07096
 bills-sponsored: 22
 bills-cosponsored: 339
 bills-enacted: 0
-top-policy-area: "International Affairs"
+top-policy-area: International Affairs
+top-donors: "[[National Association of Manufacturers]], [[Leidos]], [[Bank of America]], [[Associated General Contractors of America Political Action Committee]], [[Microsoft]], [[American Chemistry Council, INC]], [[Nucor Corporation]], [[Duke Energy]], [[Walmart - Walton Family]], [[National Association of Realtors]], [[McDonalds Corporation]], [[Honeywell]], [[iHeartMedia]], [[Pfizer Inc.]], [[Raytheon (RTX)]], [[General Motors]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[American Hospital Association PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[National Cattlemen's Beef Association]], [[General Dynamics]], [[Chevron]], [[Tyson Foods]], [[CVS Health - Aetna]], [[National Multifamily Housing Council]], [[Occidental Petroleum]], [[National Rifle Association]], [[Lockheed Martin]], [[Comcast - NBCUniversal]], [[WinRed]], [[Tzedek PAC]], [[National Restaurant Association]], [[AT&T - WarnerMedia]], [[MAJORITY PAC]], [[Save America PAC]], [[American College of Radiology Association PAC]], [[Performance Racing Inc.]], [[UA Political Action Committee]], [[Google - Alphabet]], [[ADM - Archer Daniels Midland]], [[Teamsters - International Brotherhood of Teamsters]], [[Novo Nordisk]], [[Wells Fargo]], [[Amazon]], [[Monsanto - Bayer]], [[Blackstone Group]], [[Business Roundtable]], [[American Farm Bureau Federation]], [[HBW Resources]], [[Morgan Stanley]], [[DoorDash]]"
 ---
 
 

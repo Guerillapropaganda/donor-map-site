@@ -5,14 +5,14 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00041160
 aliases:
   - MICHIGAN REPUBLICAN PARTY
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
-politicians-funded: "[[Bill Clinton]]"
+politicians-funded: "[[Bill Clinton]], [[Donald Trump]], [[Michigan Republican Party]], [[RNC - Republican National Committee]], [[_Don Bacon Master Profile]], [[_John James Master Profile]], [[WinRed]], [[Don Bacon]], [[John James]]"
 related: "[[Bill Clinton]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

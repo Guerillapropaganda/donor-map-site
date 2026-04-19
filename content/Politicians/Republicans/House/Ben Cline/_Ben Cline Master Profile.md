@@ -1,32 +1,33 @@
 ---
-title: "Ben Cline"
+title: Ben Cline
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Virginia"
-state-abbr: "VA"
+party: Republican
+chamber: House
+state: Virginia
+state-abbr: VA
 district: "6"
-bioguide-id: "C001118"
+bioguide-id: C001118
 govtrack-id: 412832
 born: "1972-02-29"
-wikidata-id: "Q4885439"
-website: "https://cline.house.gov"
-phone: "202-225-5431"
+wikidata-id: Q4885439
+website: https://cline.house.gov
+phone: 202-225-5431
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 14
 bills-cosponsored: 333
 bills-enacted: 0
-top-policy-area: "Crime and Law Enforcement"
+top-policy-area: Crime and Law Enforcement
+top-donors: "[[Apple]], [[Goldman Sachs]], [[NRCC - National Republican Congressional Committee]], [[Verizon]], [[American Gaming Association]], [[iHeartMedia]], [[ADM - Archer Daniels Midland]], [[Leidos]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[Bechtel Corporation]], [[FTX - Sam Bankman-Fried]]"
 ---
 
 

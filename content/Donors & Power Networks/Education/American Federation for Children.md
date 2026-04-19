@@ -2,7 +2,7 @@
 title: American Federation for Children
 type: donor
 content-readiness: ready
-last-updated: 2026-04-17
+last-updated: 2026-04-17T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Education
@@ -39,7 +39,7 @@ total-revenue: 12945313
 total-assets: 6313490
 cross-vault-triangulation-count: 11
 audit-a-plus-passed: "2026-04-11"
-politicians-funded: "[[Virginia Foxx]]"
+politicians-funded: "[[Virginia Foxx]], [[_Dan Newhouse Master Profile]], [[WinRed]], [[_Scott Fitzgerald Master Profile]], [[ActBlue]], [[RNC - Republican National Committee]], [[Scott Fitzgerald]], [[Dan Newhouse]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -392,3 +392,50 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/330627955/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/330627955/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/330627955/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $11.5M |
+| Total expenses | — |
+| Total assets (EOY) | $6.3M |
+| Grants paid out | $895K |
+
+**Lifetime grants out (2018–2024):** $10.7M across 73 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| PARTNERS FOR EDUCATIONAL FREEDOM IN NORTH CAROLINA | $1.4M | 5 | 2018–2023 |
+| AMERICAN FED FOR CHILDREN ACTION FUND DBA VIRGINIA FED FOR CHILDREN PAC | $700K | 1 | 2023 |
+| MISSOURI FEDERATION FOR CHILDREN PAC | $690K | 1 | 2022 |
+| AFC ACTION FUND - WI IE COMMITTEE | $650K | 2 | 2018–2020 |
+| SCHOOL CHOICE OHIO ALLIANCE | $575K | 4 | 2019–2023 |
+| ALABAMA FEDERATION FOR CHILDREN PAC | $501K | 3 | 2019–2022 |
+| EMPOWER KENTUCKY PARENTS INC | $500K | 1 | 2024 |
+| ALABAMA OPPORTUNITY ACTION FUND | $390K | 3 | 2019–2023 |
+| LEADERS FOR A BETTER COMMUNITY INC | $355K | 3 | 2019–2022 |
+| CITIZENS FOR A BETTER NORTH CAROLINA | $345K | 1 | 2020 |
+| HOOSIERS FOR QUALITY EDUCATION | $327K | 4 | 2020–2024 |
+| MISSOURI SENATE CAMPAIGN COMMITTEE | $305K | 2 | 2018–2020 |
+| MISSOURI SENATE CONSERVATIVES FUND | $300K | 2 | 2018–2020 |
+| LET MICHIGAN KIDS LEARN | $250K | 1 | 2022 |
+| NC CITIZENS FOR A BETTER TOMORROW | $200K | 1 | 2020 |
+| HOOSIERS FOR ECONOMIC GROWTH NETWORK | $200K | 2 | 2018–2019 |
+| HOUSE REPUBLICAN CAMPAIGN COMMITTEE INC | $198K | 1 | 2020 |
+| KEEP KIDS FIRST | $190K | 2 | 2023–2024 |
+| ONE CHANCE ILLINOIS - ACTION | $175K | 2 | 2018–2019 |
+| OKLAHOMA FEDERATION FOR CHILDREN - ACTION FUND | $165K | 1 | 2018 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

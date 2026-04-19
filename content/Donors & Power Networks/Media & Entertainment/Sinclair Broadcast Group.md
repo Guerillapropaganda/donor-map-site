@@ -1,35 +1,35 @@
 ---
-title: "Sinclair Broadcast Group"
+title: Sinclair Broadcast Group
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Media & Entertainment"
-entity-type: "Corporation"
+sector: Media & Entertainment
+entity-type: Corporation
 court-cases: 605
 last-enriched: "2026-04-11"
 court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "Court of Appeals for the Eighth Circuit"
-  - "District Court, C.D. California"
-  - "District Court, D. Maryland"
-  - "District Court, D. Oregon"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. New York"
-  - "District Court, E.D. Tennessee"
-  - "District Court, N.D. California"
-  - "District Court, S.D. Florida"
+  - Court of Appeals for the D.C. Circuit
+  - Court of Appeals for the Eighth Circuit
+  - District Court, C.D. California
+  - District Court, D. Maryland
+  - District Court, D. Oregon
+  - District Court, District of Columbia
+  - District Court, E.D. New York
+  - District Court, E.D. Tennessee
+  - District Court, N.D. California
+  - District Court, S.D. Florida
 federal-awards-total: 0
 federal-contracts-count: 25
 federal-grants-count: 0
-lei: "529900879GWQV880PQ28"
-lei-jurisdiction: "US"
+lei: 529900879GWQV880PQ28
+lei-jurisdiction: US
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 related: "[[The Telecom and Media Monopoly Oversight]] · [[News Corp - Fox Corporation]] · [[iHeartMedia]] · [[Comcast - NBCUniversal]] · [[Walt Disney Company]] · [[Verizon]] · [[AT&T]]"
 ein: "911500276"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 total-revenue: 210851
 total-assets: 149613
 lobbying-spend: 4000000
@@ -38,7 +38,7 @@ federal-contracts: "626681"
 cross-vault-triangulation-count: 7
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 1
-epa-states: "CA"
+epa-states: CA
 total-raised: 11000
 total-spent: 23500
 cash-on-hand: 39746
@@ -47,6 +47,7 @@ contributions-to-committees: 23500
 employee-contributions: 605
 employee-contributions-total: 374617
 employee-donor-count: 169
+politicians-funded: "[[Mariannette Miller-Meeks]], [[Todd Young]], [[NRCC - National Republican Congressional Committee]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Sinclair Broadcast Group]], [[WinRed]], [[Kathy Castor]], [[NRSC - National Republican Senatorial Committee]], [[_Tim Scott Master Profile]], [[REPUBLICAN PARTY OF FLORIDA]], [[ActBlue]], [[Rudy Yakym]], [[RNC - Republican National Committee]], [[MAGA Inc]], [[Save America PAC]], [[Cathy McMorris Rodgers]], [[Richard Hudson]], [[Giffords PAC]], [[Catherine Cortez Masto]], [[Jacky Rosen]], [[Marsha Blackburn]], [[Deb Fischer]], [[Trump Victory]], [[_John James Master Profile]], [[_Jon Ossoff Master Profile]], [[Elbert Guillory's America]], [[Brett Guthrie]], [[Chris Coons]], [[John Thune]], [[John James]], [[Tim Scott]], [[Jon Ossoff]]"
 ---
 
 
@@ -345,3 +346,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/911500276/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/911500276/2019)~~ (URL broken, archived by Ops)
 - ~~[Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Sinclair%20Broadcast%20Group%22)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 4 (2020–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | $271K |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

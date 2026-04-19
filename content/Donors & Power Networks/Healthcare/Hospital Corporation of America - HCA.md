@@ -1,31 +1,30 @@
 ---
-title: "Hospital Corporation of America - HCA"
+title: Hospital Corporation of America - HCA
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Healthcare"
-entity-type: "Corporation"
+sector: Healthcare
+entity-type: Corporation
 issues:
-  - "Healthcare"
+  - Healthcare
 related: "[[Humana]] · [[The Medicare Fraud Governor and Senate Campaign]] · [[The Healthcare Industry Senator and ACA Repeal]] · [[UnitedHealth Group - Optum]] · [[CVS Health - Aetna]] · [[Private Equity Industry Bloc]] · [[Johnson & Johnson]] · [[Moderna]] · [[Merck]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[Palantir Technologies]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Tenet Healthcare]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]] · [[Kaiser Permanente]] · [[Civica Rx]] · [[Cigna Group]] · [[Blue Cross Blue Shield Association]] · [[Anthem - Elevance Health Political Operation]] · [[Uber]] · [[Lyft]] · [[Instacart]] · [[Flex Association]] · [[DoorDash]] · [[Airbnb]] · [[WSPA - Western States Petroleum Association]] · [[Valero Energy]] · [[Southern Company]] · [[PG&E]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[NextEra Energy]] · [[Marathon Petroleum]] · [[Koch Industries]] · [[Hawaiian Electric Company]] · [[Halliburton]] · [[Fossil Fuel Bloc]] · [[ExxonMobil]] · [[Duke Energy]] · [[Devon Energy]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-10"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 cross-vault-triangulation-count: 7
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 2
-epa-states: "TN"
+epa-states: TN
 federal-grants: 2
 federal-grants-total: 106483
 employee-contributions: 12511
 employee-contributions-total: 1133383
 employee-donor-count: 1802
+politicians-funded: "[[Indivisible Action]], [[Save America PAC]], [[Let America Vote PAC]], [[_Jon Ossoff Master Profile]], [[Progressive Turnout Project]], [[DCCC - Democratic Congressional Campaign Committee]], [[The Lincoln Project]], [[_Thomas Massie Master Profile]], [[RNC - Republican National Committee]], [[_Nancy Pelosi Master Profile]], [[MAGA Inc]], [[_Marco Rubio Master Profile]], [[Hmp]], [[MoveOn.org Political Action]], [[Catherine Cortez Masto]], [[_Rashida Tlaib Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Emily's List]], [[Mark Kelly]], [[REPUBLICAN PARTY OF FLORIDA]], [[NRSC - National Republican Senatorial Committee]], [[WinSenate]], [[ActBlue]], [[_Cori Bush Master Profile]], [[_Adriano Espaillat Master Profile]], [[NRCC - National Republican Congressional Committee]], [[Sfa Fund, Inc]], [[_Ted Cruz Master Profile]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[_Pete Aguilar Master Profile]], [[WinRed]], [[Human Rights Campaign Equality Votes]], [[_Joe Neguse Master Profile]], [[Giffords PAC]], [[_Chris Pappas Master Profile]], [[SLF PAC]], [[Standing With Conservatives]], [[_Susie Lee Master Profile]], [[AIPAC - American Israel Public Affairs Committee]], [[Elbert Guillory's America]], [[_Yassamin Ansari Master Profile]], [[National Rifle Association]], [[_Tammy Baldwin Master Profile]], [[_Matt van Epps Master Profile]], [[_Ron Johnson Master Profile]], [[American Hospital Association PAC]], [[_Mike Levin Master Profile]], [[Senate Conservatives Fund]], [[_Mark Green Master Profile]], [[_Tim Scott Master Profile]], [[Nancy Mace]], [[CHC BOLD PAC]], [[Bob Casey]], [[Democratic Party of Virginia]], [[Congressional Progressive Caucus PAC]], [[_Jim Jordan Master Profile]], [[National Victory Action Fund]], [[_Andy Barr Master Profile]], [[_Andre Carson Master Profile]], [[_Jason Crow Master Profile]], [[Demand Justice]], [[Marco Rubio]], [[Jason Crow]], [[Jon Ossoff]], [[Joe Neguse]], [[Ted Cruz]], [[Chris Pappas]], [[Yassamin Ansari]], [[Mark Green]], [[Cori Bush]], [[Rashida Tlaib]], [[Jim Jordan]], [[Ron Johnson]], [[Thomas Massie]], [[Susie Lee]], [[Tim Scott]], [[Adriano Espaillat]], [[Andre Carson]], [[Pete Aguilar]], [[Nancy Pelosi]], [[Tammy Baldwin]], [[Mike Levin]], [[Matt van Epps]], [[Andy Barr]]"
 ---
 
 

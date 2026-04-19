@@ -1,33 +1,34 @@
 ---
-title: "Vicente Gonzalez"
+title: Vicente Gonzalez
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Texas"
-state-abbr: "TX"
+party: Democrat
+chamber: House
+state: Texas
+state-abbr: TX
 district: "34"
-bioguide-id: "G000581"
+bioguide-id: G000581
 govtrack-id: 412725
 born: "1967-09-04"
-wikidata-id: "Q27924921"
-website: "https://gonzalez.house.gov"
-phone: "202-225-2531"
+wikidata-id: Q27924921
+website: https://gonzalez.house.gov
+phone: 202-225-2531
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H6TX15162"
+fec-candidate-id: H6TX15162
 bills-sponsored: 7
 bills-cosponsored: 194
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[UA Political Action Committee]], [[NEA Fund for Children and Public Education]], [[AIPAC - American Israel Public Affairs Committee]], [[Mark Kelly]], [[Pete Aguilar]], [[ConocoPhillips]], [[Morgan McGarvey]], [[AFL-CIO]], [[CVS Health - Aetna]], [[American Federation of State County & Municipal Employees P E O P L E]], [[L3Harris Technologies]], [[American Chemistry Council, INC]], [[DCCC - Democratic Congressional Campaign Committee]], [[Google - Alphabet]], [[National Association of Realtors]], [[National Multifamily Housing Council]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Jamie Raskin]], [[Hmp]], [[Honeywell]], [[Bank of America]], [[Lockheed Martin]], [[Morgan Stanley]], [[NRCC - National Republican Congressional Committee]], [[NextEra Energy]], [[Chevron]], [[Ted Lieu]], [[Nancy Pelosi]], [[AbbVie]], [[Planned Parenthood Action Fund INC]], [[Marathon Petroleum]], [[Progressive Turnout Project]], [[AT&T - WarnerMedia]], [[Working Families Party PAC]], [[Comcast - NBCUniversal]], [[CHC BOLD PAC]], [[Valero Energy]], [[SEIU COPE]], [[Walmart - Walton Family]], [[Sara Jacobs]], [[Paul Tonko]], [[Anthem - Elevance Health]], [[Pfizer Inc.]], [[Associated General Contractors of America Political Action Committee]], [[Planned Parenthood Votes]], [[Adriano Espaillat]], [[Citigroup]], [[American Hospital Association PAC]], [[Occidental Petroleum]], [[Duke Energy]], [[Julia Brownley]], [[Amgen Inc]], [[Halliburton]], [[Veronica Escobar]], [[General Motors]], [[General Dynamics]], [[Chrissy Houlahan]], [[DoorDash]], [[Congressional Leadership Fund]], [[Devon Energy]], [[National Association of Manufacturers]], [[Raytheon (RTX)]], [[PG&E - Pacific Gas and Electric]], [[Care Action]], [[IBEW - International Brotherhood of Electrical Workers]], [[MoveOn.org Political Action]], [[Giffords PAC]], [[Johnson & Johnson]], [[iHeartMedia]], [[Women Speak Out Pac]], [[Putting People First Political Action Committee]], [[Jim Costa]], [[DMFI - Democratic Majority for Israel]], [[Northrop Grumman]], [[Coinbase]], [[Joe Neguse]], [[Protect the Vote]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Courage to Change PAC]], [[Merck]], [[Centene Corporation]], [[Kaiser Permanente]], [[CBRE Group]], [[Apple]], [[a16z - Andreessen Horowitz]], [[Fanjul Family - Florida Crystals]], [[Blackstone Group]], [[BlackRock]], [[Anduril Industries]], [[Walmart]], [[ExxonMobil]], [[Apollo Global Management]], [[UPS]], [[Oracle]], [[AT&T]], [[Goldman Sachs]], [[Microsoft]], [[Meta - Facebook]]"
 ---
 
 

@@ -6,11 +6,11 @@ sector: Dark Money
 entity-type: Super PAC
 committee-id: C00707844
 fec-url: https://www.fec.gov/data/committee/C00707844/
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-ie-support: null
 fec-ie-oppose: $795,808
-politicians-funded: "[[Ken Calvert]]"
+politicians-funded: "[[Ken Calvert]], [[Kristen McDonald Rivet]], [[Scott Perry]], [[Kamala Harris]], [[Lisa Murkowski]], [[John James]], [[Tim Sheehy]], [[Jacky Rosen]], [[Bernie Moreno]], [[David Schweikert]], [[Dave Min]], [[Mark Kelly]], [[Ruben Gallego]]"
 related: "[[Ken Calvert]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

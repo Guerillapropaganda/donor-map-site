@@ -2,12 +2,12 @@
 title: JPAC - Jewish Public Affairs Committee of California
 type: donor
 content-readiness: draft
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Israel Lobby
 entity-type: Individual Donor
-politicians-funded: "[[Gavin Newsom]]"
+politicians-funded: "[[Gavin Newsom]], [[Roger Williams]], [[Patrick McHenry]], [[Jodey Arrington]], [[Michael Cloud]], [[August Pfluger]], [[Guy Reschenthaler]], [[Chip Roy]], [[Nancy Mace]], [[French Hill]], [[Warren Davidson]], [[Ronny Jackson]], [[Ann Wagner]], [[ActBlue]], [[Ralph Norman]], [[Pete Sessions]], [[Ted Cruz]], [[Barry Loudermilk]], [[Dan Crenshaw]], [[Eric Burlison]]"
 issues:
   - Israel & Foreign Policy
 ofac-sdn-match: "true"
@@ -15,8 +15,8 @@ last-enriched: "2026-04-18"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
 ofac-programs:
-  - "BELARUS"
-  - "GLOMAG"
+  - BELARUS
+  - GLOMAG
 related: "[[Ethnic Studies - Whose History Gets Taught]] · [[_Gavin Newsom Master Profile]] · [[Pro-Israel Donor Network Deep Dive]] · [[Early History and Background Ties 2003-2019]] · [[Post-October 7 Positions and Flip History]] · [[JCRC Bay Area]] · [[Haim Saban]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[Mohammed bin Salman]] · [[Israel - Government Lobbying Operation]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[California Charter Schools Association]] · [[Trump Donor Coalition]] · [[Entertainment and Hollywood Donors]] · [[Western Growers Association]] · [[California Farm Bureau Federation]] · [[Agricultural Labor Vulnerability Donors]]"
 ein: "680028695"
 nonprofit-status: 501(c)(4)
@@ -215,3 +215,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/680028695/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/680028695/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/680028695/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 7 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $130K |
+| Total expenses | — |
+| Total assets (EOY) | $359K |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

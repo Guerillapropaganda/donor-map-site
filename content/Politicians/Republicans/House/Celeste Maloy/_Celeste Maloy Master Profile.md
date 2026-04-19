@@ -1,33 +1,34 @@
 ---
-title: "Celeste Maloy"
+title: Celeste Maloy
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Utah"
-state-abbr: "UT"
+party: Republican
+chamber: House
+state: Utah
+state-abbr: UT
 district: "2"
-bioguide-id: "M001228"
+bioguide-id: M001228
 govtrack-id: 456956
 born: "1981-05-22"
-wikidata-id: "Q119578731"
-website: "https://maloy.house.gov"
-phone: "202-225-9730"
+wikidata-id: Q119578731
+website: https://maloy.house.gov
+phone: 202-225-9730
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H4UT02296"
+fec-candidate-id: H4UT02296
 bills-sponsored: 17
 bills-cosponsored: 75
 bills-enacted: 1
-top-policy-area: "Public Lands and Natural Resources"
+top-policy-area: Public Lands and Natural Resources
+top-donors: "[[National Association of Realtors]], [[Comcast - NBCUniversal]], [[Chevron]], [[Devon Energy]], [[Associated General Contractors of America Political Action Committee]], [[L3Harris Technologies]], [[Ben Cline]], [[Walmart - Walton Family]], [[Northrop Grumman]], [[Wfw Action Fund, Inc.]], [[Freedom's Defense Fund]], [[Winning for Women PAC]], [[VIEW PAC - Value in Electing Women]], [[National Rifle Association]], [[Raytheon (RTX)]], [[Jim Jordan]], [[Nucor Corporation]], [[American Chemistry Council, INC]], [[August Pfluger]], [[Performance Racing Inc.]], [[Lockheed Martin]], [[Defending Main Street Superpac INC]], [[AT&T - WarnerMedia]], [[National Cattlemen's Beef Association]], [[Halliburton]], [[MAJORITY PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[General Dynamics]], [[BAE Systems]], [[Hunter Action Fund (haf)]], [[Republican Jewish Coalition]], [[Congressional Leadership Fund]], [[David Rouzer]], [[NRCC - National Republican Congressional Committee]], [[WinRed]]"
 ---
 
 

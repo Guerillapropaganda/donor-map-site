@@ -3,7 +3,7 @@ title: Joe Biden
 type: politician
 content-readiness: ready
 central-thesis: "Biden is the structural Democrat. He genuinely believes he fights for working people , and he has done some real things (the ACA expansion, the IRA's clean energy investment, the content-readiness: ready5 minimum wage push, the union tiebreaker votes). But his politica..."
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Democrat
@@ -31,7 +31,7 @@ executive-orders: 162
 presidential-memoranda: 160
 proclamations: 747
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-donors: "[[Lawrence Summers]] · [[Sam Bankman-Fried]] · [[Democratic Small Dollar Networks]] · [[Citigroup]] · [[Ford Motor Company]] · [[Trial Lawyers Fund]] · [[LIVING UNITED FOR CHANGE IN ARIZONA]] · [[Jeffrey Katzenberg]] · [[ActBlue]] · [[Tim Geithner]] · [[DoorDash]] · [[JPMorgan Chase]] · [[General Motors]] · [[Pharmaceutical Industry]] · [[Goldman Sachs]] · [[MBNA Corporation]] · [[Entertainment and Hollywood Donors]] · [[Reed Hastings]] · [[Haim Saban]] · [[Moderna]] · [[SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)]] · [[UnitedHealth Group - Optum]] · [[Pfizer]] · [[Americas Pac]]"
+donors: "[[Lawrence Summers]] · [[Sam Bankman-Fried]] · [[Democratic Small Dollar Networks]] · [[Citigroup]] · [[Ford Motor Company]] · [[Trial Lawyers Fund]] · [[LIVING UNITED FOR CHANGE IN ARIZONA]] · [[Jeffrey Katzenberg]] · [[ActBlue]] · [[Tim Geithner]] · [[DoorDash]] · [[JPMorgan Chase]] · [[General Motors]] · [[Pharmaceutical Industry]] · [[Goldman Sachs]] · [[MBNA Corporation]] · [[Entertainment and Hollywood Donors]] · [[Reed Hastings]] · [[Haim Saban]] · [[Moderna]] · [[SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)]] · [[UnitedHealth Group - Optum]] · [[Pfizer]] · [[Americas Pac]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Courage California Super Pac]] · [[Let America Vote PAC]] · [[MAGA Inc]]"
 urls-first-triaged: "2026-04-15"
 ---
 

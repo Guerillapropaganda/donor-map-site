@@ -1,33 +1,34 @@
 ---
-title: "Josh Harder"
+title: Josh Harder
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "California"
-state-abbr: "CA"
+party: Democrat
+chamber: House
+state: California
+state-abbr: CA
 district: "9"
-bioguide-id: "H001090"
+bioguide-id: H001090
 govtrack-id: 412754
 born: "1986-08-01"
-wikidata-id: "Q58494468"
-website: "https://harder.house.gov"
-phone: "202-225-4540"
+wikidata-id: Q58494468
+website: https://harder.house.gov
+phone: 202-225-4540
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H8CA10126"
+fec-candidate-id: H8CA10126
 bills-sponsored: 37
 bills-cosponsored: 419
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[NEA Fund for Children and Public Education]], [[Sierra Club Independent Action]], [[Joe Neguse]], [[DCCC - Democratic Congressional Campaign Committee]], [[Powerpacplus]], [[Activate America]], [[MoveOn.org Political Action]], [[Teamsters - International Brotherhood of Teamsters]], [[Laura Friedman]], [[Jason Crow]], [[CHC BOLD PAC]], [[National Multifamily Housing Council]], [[J Street]], [[Everytown for Gun Safety]], [[CTA - California Teachers Association]], [[Humane Society Legislative Fund]], [[National Association of Realtors]], [[Sierra Club Political Committee]], [[Jamie Raskin]], [[Giffords PAC]], [[Pete Aguilar]], [[Sydney Kamlager-Dove]], [[Robert Garcia]], [[League of Conservation Voters]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Chrissy Houlahan]], [[Julia Brownley]], [[Hmp]], [[Paul Tonko]], [[Courage California Super Pac]], [[National Committee to Preserve Social Security PAC]], [[American Federation of State County & Municipal Employees P E O P L E]], [[National Nurses United]], [[Care Action]], [[Ted Lieu]], [[MAJORITY PAC]], [[UA Political Action Committee]], [[SEIU COPE]], [[American Hospital Association PAC]], [[Mark DeSaulnier]], [[National Education Association]], [[AIPAC - American Israel Public Affairs Committee]], [[Judy Chu]], [[Medicare for All - The Policy That Broke the Party]], [[Sara Jacobs]], [[IBEW - International Brotherhood of Electrical Workers]], [[Progressive Turnout Project]], [[Let America Vote PAC]], [[AFL-CIO]], [[Nancy Pelosi]], [[Morgan McGarvey]], [[Planned Parenthood Action Fund INC]], [[NRCC - National Republican Congressional Committee]], [[Kevin Mullin]], [[Mike Thompson]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[McDonalds Corporation]], [[Planned Parenthood Votes]], [[Courage to Change PAC]], [[American College of Radiology Association PAC]], [[Oracle]], [[Goldman Sachs]], [[Google - Alphabet]], [[Instacart]], [[a16z - Andreessen Horowitz]], [[Amgen Inc]], [[Apple]], [[Apollo Global Management]], [[Walmart]], [[Airbnb]], [[Kaiser Permanente]], [[Meta - Facebook]], [[Microsoft]], [[Founders Fund]], [[Comcast - NBCUniversal]], [[General Motors]], [[Amazon]], [[Coinbase]], [[SpaceX]], [[Wells Fargo]], [[Lyft]], [[Blackstone Group]], [[Ripple]], [[PG&E]], [[Tesla - Elon Musk Political Operation]], [[OpenAI]], [[UnitedHealth Group - Optum]], [[YouTube]], [[Morgan Stanley]], [[Uber]], [[PG&E - Pacific Gas and Electric]], [[AT&T]], [[FTX - Sam Bankman-Fried]], [[Blue Shield of California]], [[Susquehanna International Group]], [[Anduril Industries]], [[Booz Allen Hamilton]], [[Nvidia]], [[Tyson Foods]], [[Charles Schwab]], [[CalPERS]], [[Bank of America]], [[DoorDash]], [[Palantir Technologies]], [[Chevron]], [[Center for American Progress]]"
 ---
 
 

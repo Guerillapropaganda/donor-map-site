@@ -1,33 +1,34 @@
 ---
-title: "Mark DeSaulnier"
+title: Mark DeSaulnier
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "California"
-state-abbr: "CA"
+party: Democrat
+chamber: House
+state: California
+state-abbr: CA
 district: "10"
-bioguide-id: "D000623"
+bioguide-id: D000623
 govtrack-id: 412613
 born: "1952-03-31"
-wikidata-id: "Q6767311"
-website: "https://desaulnier.house.gov"
-phone: "202-225-2095"
+wikidata-id: Q6767311
+website: https://desaulnier.house.gov
+phone: 202-225-2095
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H0CA10073"
+fec-candidate-id: H0CA10073
 bills-sponsored: 39
 bills-cosponsored: 653
 bills-enacted: 1
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Medicare for All - The Policy That Broke the Party]], [[IBEW - International Brotherhood of Electrical Workers]], [[J Street]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[SEIU COPE]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Unite Here Tip Campaign Committee]], [[NEA Fund for Children and Public Education]], [[Progressive Turnout Project]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Lockheed Martin]], [[Northrop Grumman]], [[Sierra Club Independent Action]], [[UA Political Action Committee]], [[Honeywell]], [[AT&T - WarnerMedia]], [[Courage California Super Pac]], [[CTA - California Teachers Association]], [[National Association of Realtors]], [[Nancy Pelosi]], [[Comcast - NBCUniversal]], [[Teamsters - International Brotherhood of Teamsters]], [[Raytheon (RTX)]], [[American Hospital Association PAC]], [[Ford Motor Company]], [[General Motors]], [[Planned Parenthood Votes]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[AT&T]], [[Kaiser Permanente]], [[PG&E]], [[Chevron]], [[Fanjul Family - Florida Crystals]], [[Bank of America]], [[Apple]]"
 ---
 
 

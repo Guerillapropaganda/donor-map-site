@@ -26,7 +26,7 @@ issues:
   - Environmental Protection
   - Foreign Trade and International Finance
   - Government Operations and Politics
-top-donors: "[[Heritage Foundation]], [[American Farm Bureau Federation]], [[Americans for Prosperity]]"
+top-donors: "[[Heritage Foundation]], [[American Farm Bureau Federation]], [[Americans for Prosperity]], [[BAE Systems]], [[National Restaurant Association]], [[Lockheed Martin]], [[Care Action]], [[AT&T - WarnerMedia]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Walmart - Walton Family]], [[Occidental Petroleum]], [[Halliburton]], [[Jim Jordan]], [[Marathon Petroleum]], [[Bank of America]], [[JPAC - Jewish Public Affairs Committee of California]], [[Gilead Sciences]], [[Raytheon (RTX)]], [[Comcast - NBCUniversal]], [[Valero Energy]], [[National Cattlemen's Beef Association]], [[Humana]], [[Johnson & Johnson]], [[McDonalds Corporation]], [[Associated General Contractors of America Political Action Committee]], [[American Chemistry Council, INC]], [[American Hospital Association PAC]], [[Pfizer Inc.]], [[National Rifle Association]], [[Ben Cline]], [[iHeartMedia]], [[National Association of Realtors]], [[American College of Radiology Association PAC]], [[MAJORITY PAC]], [[Northrop Grumman]], [[Save America PAC]], [[National Multifamily Housing Council]], [[Jason Smith]], [[Chevron]], [[Anthem - Elevance Health]], [[AbbVie]], [[National Association of Manufacturers]], [[Amgen Inc]], [[AIPAC - American Israel Public Affairs Committee]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Morgan Stanley]], [[ConocoPhillips]], [[NextEra Energy]], [[General Motors]], [[Honeywell]], [[General Dynamics]], [[Microsoft]], [[CVS Health - Aetna]], [[Nucor Corporation]], [[Citigroup]], [[PG&E - Pacific Gas and Electric]]"
 total-received: $1,678,317
 fec-candidate-id: H6TX19099
 govtrack-id: 412726
@@ -45,8 +45,8 @@ related: "[[_Donald Trump Master Profile|Trump]] · [[Heritage Foundation]] · [
 last-enriched: "2026-04-10"
 bioguide-id: A000375
 bills-enacted: 2
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "Health"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: Health
 ---
 
 

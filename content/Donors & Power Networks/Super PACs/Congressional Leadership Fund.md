@@ -305,3 +305,37 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/852656340/2023)~~ (URL broken, archived by Ops)
 - ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/852656340/2022)~~ (URL broken, archived by Ops)
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/852656340/2021)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 5 (2021–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $9.6M |
+| Total expenses | — |
+| Total assets (EOY) | $714K |
+| Grants paid out | $8.0M |
+
+**Lifetime grants out (2021–2024):** $8.0M across 7 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| Montana Policy Action | $3.4M | 1 | 2024 |
+| Club for Growth | $1.7M | 1 | 2024 |
+| American Voice | $1.4M | 1 | 2024 |
+| Advancing American Freedom Inc | $1.4M | 1 | 2024 |
+| Senate Convention Fund | $100K | 1 | 2024 |
+| Per Aspera Policy Inc | $50K | 1 | 2024 |
+| Susan B Anthony List Inc | $40K | 1 | 2022 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

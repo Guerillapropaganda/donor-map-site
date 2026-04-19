@@ -2,12 +2,12 @@
 title: SEIU - Service Employees International Union
 type: donor
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Labor Unions
 entity-type: Individual Donor
-politicians-funded: "[[Eric Swalwell]], [[Nancy Pelosi]], [[Gavin Newsom]], [[Kamala Harris]]"
+politicians-funded: "[[Eric Swalwell]], [[Nancy Pelosi]], [[Gavin Newsom]], [[Kamala Harris]], [[_Ted Lieu Master Profile]], [[ActBlue]], [[MoveOn.org Political Action]], [[Jacky Rosen]], [[NRCC - National Republican Congressional Committee]], [[WinRed]], [[Sherrod Brown]], [[Dream United]], [[Tammy Baldwin]], [[_Rashida Tlaib Master Profile]], [[SEIU COPE]], [[Let America Vote PAC]], [[_Kamala Harris Master Profile]], [[JUSTICE DEMOCRATS PAC]], [[_Mike Levin Master Profile]], [[_Jon Ossoff Master Profile]], [[Emily's List]], [[RNC - Republican National Committee]], [[Congressional Progressive Caucus PAC]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[Bob Casey]], [[_Cori Bush Master Profile]], [[Elissa Slotkin]], [[Working Families Party PAC]], [[_Pete Aguilar Master Profile]], [[The Lincoln Project]], [[Hmp]], [[Mark Kelly]], [[_Summer Lee Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Lauren Underwood Master Profile]], [[Indivisible Action]], [[_Susie Lee Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[Catherine Cortez Masto]], [[_Nancy Pelosi Master Profile]], [[MAGA Inc]], [[Barbara Lee]], [[_Alex Padilla Master Profile]], [[_Dave Min Master Profile]], [[DNC - Democratic National Committee]], [[Amy Klobuchar]], [[_Mark Pocan Master Profile]], [[Progressive Turnout Project]], [[Ruben Gallego]], [[NRSC - National Republican Senatorial Committee]], [[Giffords PAC]], [[Rashida Tlaib]], [[Cori Bush]], [[Jon Ossoff]], [[Lauren Underwood]], [[Susie Lee]], [[Dave Min]], [[Mike Levin]], [[Pete Aguilar]], [[Ted Lieu]], [[Summer Lee]], [[Mark Pocan]], [[Alex Padilla]]"
 issues:
   - Healthcare
   - Labor & Workers
@@ -311,3 +311,37 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/361760052/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/361760052/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/361760052/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $43K |
+| Total expenses | — |
+| Total assets (EOY) | $7.6M |
+| Grants paid out | $134K |
+
+**Lifetime grants out (2018–2024):** $188K across 7 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| HALO BRANDED SOLUTIONS INC | $134K | 1 | 2024 |
+| ARISE CHICAGO | $15K | 2 | 2019–2020 |
+| CHICAGO ALLIANCE AGAINST RACIST &amp; POLITICAL REPRESSION | $10K | 1 | 2022 |
+| UNITED WORKING FAMILIES | $10K | 1 | 2023 |
+| NATIONAL ALLIANCE AGAINST RACIST AND POLITICAL REPRESSION - CHICAGO | $8K | 1 | 2019 |
+| DYNAMIC CREATIONS | $6K | 1 | 2022 |
+| CHICAGO JOBS WITH JUSTICE | $5K | 1 | 2020 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

@@ -2,12 +2,12 @@
 title: Conservative Partnership Institute
 type: donor
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Dark Money
 entity-type: Individual Donor
-politicians-funded: "[[Wes Moore]]"
+politicians-funded: "[[Wes Moore]], [[FreedomWorks for America]]"
 issues:
   - Dark Money & Campaign Finance
 federal-register-mentions: 1
@@ -208,3 +208,50 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/821470217/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/821470217/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/821470217/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2019–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $32.3M |
+| Total expenses | — |
+| Total assets (EOY) | $72.3M |
+| Grants paid out | $8.4M |
+
+**Lifetime grants out (2019–2024):** $15.3M across 27 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| Foundation for Accountability Integrity &amp; Research in Elections Fund | $6.0M | 1 | 2024 |
+| Center for Renewing America | $1.3M | 1 | 2022 |
+| Personnel Policy Organization Inc | $1.1M | 1 | 2022 |
+| Personnel Policy Operations Inc | $1.1M | 1 | 2024 |
+| State Freedom Caucus Foundation | $1.0M | 2 | 2022–2023 |
+| Personnel Policy Operations | $880K | 1 | 2023 |
+| FAIR Elections Fund | $795K | 1 | 2023 |
+| Election Integrity Network Inc | $545K | 2 | 2022–2023 |
+| Virginia Institute for Public Policy | $505K | 2 | 2022–2023 |
+| Hunter Nation Foundation Inc | $350K | 1 | 2024 |
+| Edmund Burke Foundation | $255K | 1 | 2024 |
+| State Leadership Foundation | $250K | 1 | 2024 |
+| American Accountability Foundation | $235K | 2 | 2022–2024 |
+| Green Dragon Society | $200K | 1 | 2024 |
+| FDRLST Media Foundation | $175K | 1 | 2022 |
+| American Moment Inc | $112K | 2 | 2023–2024 |
+| Conservative Partnership International Inc | $100K | 1 | 2024 |
+| American Main Street Initiative Inc | $89K | 1 | 2022 |
+| America First Legal Foundation | $65K | 2 | 2022–2024 |
+| Capitol Hill Christian Academy | $30K | 2 | 2023–2024 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

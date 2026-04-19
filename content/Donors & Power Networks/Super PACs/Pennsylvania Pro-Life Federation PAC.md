@@ -5,14 +5,14 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00172361
 aliases:
   - PENNSYLVANIA PRO-LIFE FEDERATION PAC
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
-politicians-funded: "[[Glenn Thompson]]"
+politicians-funded: "[[Glenn Thompson]], [[Chrissy Houlahan]], [[Scott Perry]], [[Dwight Evans]], [[Guy Reschenthaler]], [[Madeleine Dean]], [[John Fetterman]], [[Lloyd Smucker]], [[Donald Trump]], [[Ryan Mackenzie]], [[John Joyce]], [[Summer Lee]], [[Kamala Harris]], [[Mike Kelly]], [[Daniel Meuser]], [[Brendan Boyle]]"
 related: "[[Glenn Thompson]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

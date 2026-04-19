@@ -2,7 +2,7 @@
 title: Bradley Impact Fund
 type: donor
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Dark Money
@@ -21,7 +21,7 @@ total-assets: 200316165
 related: "[[American Enterprise Institute]] · [[Stephen Miller Master Profile]] · [[The Immigration Policy Architecture from Sessions to Mass Deportation]] · [[America First Legal and the Dark Money Architecture]] · [[Christian Nationalism and the Theological Budget]] · [[Conservative Partnership Institute]] · [[Charlie Kirk]] · [[Bradley Foundation]] · [[DonorsTrust]] · [[Council for National Policy]] · [[DeVos Family]] · [[American Federation for Children]] · [[Walton Family Foundation]] · [[National Education Association]] · [[Insurance Industry]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[American Iron and Steel Institute]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Federalist Society]] · [[Donors Capital Fund]] · [[Demand Justice]] · [[Democratic Small Dollar Networks]] · [[Ocean Conservancy]] · [[Ohio Democratic Party]] · [[New Venture Fund]] · [[National Progressive Donor Networks]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Entertainment and Hollywood Donors]] · [[Democratic Party Infrastructure]] · [[Democratic Donor Network]] · [[Democracy Alliance]] · [[Concerned Veterans for America]] · [[CREW - Citizens for Responsibility and Ethics in Washington]] · [[Business Roundtable]] · [[Arabella Advisors]] · [[Americans for Tax Reform - Grover Norquist]] · [[American Action Network]] · [[America First Policy Institute]] · [[Alliance Defending Freedom]]"
 cross-vault-triangulation-count: 10
 audit-a-plus-passed: "2026-04-11"
-politicians-funded: "[[Stephen Miller]]"
+politicians-funded: "[[Stephen Miller]], [[TPUSA - Turning Point USA]], [[American Enterprise Institute]], [[Heritage Foundation]], [[Conservative Partnership Institute]], [[Alliance Defending Freedom]], [[One Israel Fund]], [[WinRed]], [[Cato Institute]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -160,3 +160,50 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/454678325/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/454678325/2019)~~ (URL broken, archived by Ops)
 - ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/454678325/2018)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $70.3M |
+| Total expenses | — |
+| Total assets (EOY) | $200.3M |
+| Grants paid out | $47.9M |
+
+**Lifetime grants out (2018–2024):** $193.4M across 614 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| AMERICA FIRST LEGAL FOUNDATION | $27.1M | 1 | 2022 |
+| TURNING POINT USA | $26.6M | 5 | 2018–2024 |
+| SEE ATTACHED SCHEDULE | $21.8M | 1 | 2020 |
+| CHRISTIAN COMMUNITY FOUNDATION INC DBA WATERSTONE | $5.1M | 1 | 2022 |
+| MILWAUKEE SYMPHONY ORCHESTRA INC | $5.1M | 4 | 2018–2024 |
+| ALLIANCE DEFENDING FREEDOM | $5.0M | 4 | 2022–2024 |
+| FOUNDATION FOR EXCELLENCE IN HIGHER EDUCATION | $4.9M | 5 | 2018–2024 |
+| CALIFORNIA COMMUNITY FOUNDATION | $4.2M | 1 | 2023 |
+| LEADERSHIP INSTITUTE | $3.3M | 5 | 2018–2024 |
+| COUNTY CITIZENS DEFENDING FREEDOM USA FOUNDATION INC | $3.1M | 2 | 2023–2024 |
+| EVERGREEN FREEDOM FOUNDATION | $2.9M | 5 | 2018–2024 |
+| GEORGIA STATE UNIVERSITY RESEARCH FOUNDATION INC | $2.7M | 3 | 2022–2024 |
+| PAYPAL GIVING FUND | $2.5M | 1 | 2023 |
+| AMERICAN INDEPENDENT MEDIA | $2.5M | 1 | 2022 |
+| FRANKLIN NEWS FOUNDATION | $2.3M | 3 | 2022–2024 |
+| PROJECT VERITAS | $2.2M | 4 | 2018–2023 |
+| MOMS FOR AMERICA | $2.1M | 2 | 2023–2024 |
+| YOUNG AMERICA'S FOUNDATION | $1.8M | 5 | 2018–2024 |
+| LIBERTAS INSTITUTE | $1.7M | 3 | 2022–2024 |
+| BLACK PASTORS UNITED FOR EDUCATION | $1.5M | 1 | 2024 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

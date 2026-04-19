@@ -3,7 +3,7 @@ title: Rick Crawford
 type: politician
 content-readiness: ready
 central-thesis: Rick Crawford is the loyalty appointee who chairs America's intelligence oversight committee , a former EOD technician and Arkansas rice farmer who got the gavel not because of intelligence expertise but because his predecessor was too supportive ...
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Republican
@@ -44,13 +44,13 @@ fec-cycle: 2026
 last-enriched: "2026-04-11"
 bioguide-id: C001087
 top-donors: "[[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]] · [[AMERICANS FOR JOB SECURITY]] · [[REVERE AMERICA]] · [[Revere America]] · [[Americans for Job Security]]"
-donors: "[[Revere America]] · [[AMERICANS FOR JOB SECURITY]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]] · [[REVERE AMERICA]] · [[Americans for Job Security]]"
+donors: "[[Revere America]] · [[AMERICANS FOR JOB SECURITY]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]] · [[REVERE AMERICA]] · [[Americans for Job Security]] · [[PG&E - Pacific Gas and Electric]] · [[Jim Jordan]] · [[Lockheed Martin]] · [[iHeartMedia]] · [[L3Harris Technologies]] · [[Teamsters - International Brotherhood of Teamsters]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Tyson Foods]] · [[National Association of Realtors]] · [[Jason Smith]] · [[National Rifle Association]] · [[David Rouzer]] · [[Nucor Corporation]] · [[National Association of Manufacturers]] · [[Chevron]] · [[Associated General Contractors of America Political Action Committee]] · [[Walmart - Walton Family]] · [[National Cattlemen's Beef Association]] · [[AT&T - WarnerMedia]] · [[American Hospital Association PAC]] · [[Microsoft]] · [[BAE Systems]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[General Motors]] · [[General Dynamics]] · [[Comcast - NBCUniversal]] · [[Leidos]] · [[ADM - Archer Daniels Midland]] · [[Northrop Grumman]] · [[American Chemistry Council, INC]] · [[Raytheon (RTX)]] · [[Save America PAC]] · [[MAJORITY PAC]] · [[Honeywell]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 140
 bills-cosponsored: 1608
 bills-enacted: 0
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "Armed Forces and National Security"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: Armed Forces and National Security
 ---
 
 

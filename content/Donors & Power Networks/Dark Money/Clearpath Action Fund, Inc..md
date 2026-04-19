@@ -6,11 +6,11 @@ sector: Dark Money
 entity-type: Super PAC
 committee-id: C00608943
 fec-url: https://www.fec.gov/data/committee/C00608943/
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-ie-support: $437,125
 fec-ie-oppose: null
-politicians-funded: "[[John Barrasso]], [[Cathy McMorris Rodgers]], [[John Hoeven]]"
+politicians-funded: "[[John Barrasso]], [[Cathy McMorris Rodgers]], [[John Hoeven]], [[Tim Scott]], [[Dan Crenshaw]], [[Dan Newhouse]], [[Frank Lucas]], [[David Schweikert]], [[Lisa Murkowski]], [[Ken Calvert]], [[Kevin Cramer]], [[Susan Collins]], [[Mariannette Miller-Meeks]], [[Ashley Hinson]], [[John Kennedy]]"
 related: "[[John Hoeven]] · [[John Barrasso]] · [[Cathy McMorris Rodgers]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

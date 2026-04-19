@@ -41,9 +41,9 @@ court-jurisdictions:
   - District Court, N.D. Ohio
 cross-vault-triangulation-count: 0
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-politicians-funded: "[[Richard Neal]]"
+politicians-funded: "[[Richard Neal]], [[MAGA Inc]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Angie Craig Master Profile]], [[Center for American Progress]], [[NRSC - National Republican Senatorial Committee]], [[California Charter Schools Association]], [[REPUBLICAN PARTY OF FLORIDA]], [[New Venture Fund]], [[_Elissa Slotkin Master Profile]], [[Heritage Foundation]], [[Kenneth Griffin]], [[Council for National Policy]], [[Alliance Defending Freedom]], [[Ocean Conservancy]], [[_Vince Fong Master Profile]], [[_Cory Booker Master Profile]], [[_Chris Pappas Master Profile]], [[_April McClain Delaney Master Profile]], [[American Enterprise Institute]], [[_Lauren Underwood Master Profile]], [[Progressive Turnout Project]], [[Airbnb]], [[_Jon Ossoff Master Profile]], [[_Anna Paulina Luna Master Profile]], [[RNC - Republican National Committee]], [[Bradley Impact Fund]], [[Mark Kelly]], [[_Andy Barr Master Profile]], [[Giffords PAC]], [[_Mike Kelly Master Profile]], [[Conservative Partnership Institute]], [[MoveOn.org Political Action]], [[Emily's List]], [[One Israel Fund]], [[_Seth Moulton Master Profile]], [[_Ted Cruz Master Profile]], [[AIPAC - American Israel Public Affairs Committee]], [[DSCC - Democratic Senatorial Campaign Committee]], [[PRIORITIES USA ACTION]], [[International Association of Chiefs of Police]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[_Thomas Massie Master Profile]], [[TPUSA - Turning Point USA]], [[ActBlue]], [[JUSTICE DEMOCRATS PAC]], [[_Mike Haridopolos Master Profile]], [[_Jake Auchincloss Master Profile]], [[Bob Casey]], [[Human Rights Campaign Equality Votes]], [[WinSenate]], [[Democratic Party of Virginia]], [[_Chrissy Houlahan Master Profile]], [[_Beth van Duyne Master Profile]], [[_Gabe Amo Master Profile]], [[Let America Vote PAC]], [[_Marco Rubio Master Profile]], [[Trump Victory]], [[_Mike Levin Master Profile]], [[_Dave Min Master Profile]], [[NRCC - National Republican Congressional Committee]], [[_Tim Scott Master Profile]], [[The 85 Fund]], [[Congressional Leadership Fund]], [[Hmp]], [[America First Policy Institute]], [[_Tammy Baldwin Master Profile]], [[_Kamala Harris Master Profile]], [[DMFI - Democratic Majority for Israel]], [[_George Latimer Master Profile]], [[_Adam Gray Master Profile]], [[WinRed]], [[_Jim Jordan Master Profile]], [[_Josh Riley Master Profile]], [[_John James Master Profile]], [[US Chamber of Commerce]], [[_Young Kim Master Profile]], [[Apollo Global Management]], [[OpenAI]], [[Catherine Cortez Masto]], [[_Melissa Bean Master Profile]], [[The Lincoln Project]], [[_Shontel Brown Master Profile]], [[United Democracy Project - UDP]], [[_Lisa Blunt Rochester Master Profile]], [[Ab Pac]], [[Bernie Moreno]], [[_Jeff Hurd Master Profile]], [[Indivisible Action]], [[Schwab Charitable Fund]], [[Roosevelt Institute]], [[State Policy Network]], [[RAND Corporation]], [[Economic Policy Institute]], [[Bipartisan Policy Center]], [[Council on Foreign Relations]], [[Mercatus Center]], [[Brennan Center for Justice]], [[Urban Institute]], [[Cato Institute]], [[National Philanthropic Trust]], [[Hudson Institute]], [[Mike Levin]], [[Gabe Amo]], [[Jim Jordan]], [[Mike Kelly]], [[Tammy Baldwin]], [[Ted Cruz]], [[Tim Scott]], [[Marco Rubio]], [[April McClain Delaney]], [[Elissa Slotkin]], [[Dave Min]], [[Seth Moulton]], [[George Latimer]], [[Jake Auchincloss]], [[Chrissy Houlahan]], [[Jon Ossoff]], [[Melissa Bean]], [[Shontel Brown]], [[Lauren Underwood]], [[Beth van Duyne]], [[Lisa Blunt Rochester]], [[Andy Barr]], [[Thomas Massie]], [[Anna Paulina Luna]], [[Josh Riley]], [[Vince Fong]], [[Mike Haridopolos]], [[John James]], [[Angie Craig]], [[Cory Booker]], [[Chris Pappas]], [[Young Kim]], [[Jeff Hurd]], [[Kamala Harris]], [[Adam Gray]]"
 epa-facilities: 5
-epa-states: "MA, NH, RI, TX"
+epa-states: MA, NH, RI, TX
 employee-contributions: 3330
 employee-contributions-total: 2099906
 employee-donor-count: 1327
@@ -265,3 +265,50 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/110303001/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/110303001/2019)~~ (URL broken, archived by Ops)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Fidelity%20Investments%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 9 (2018–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | — |
+| Grants paid out | — |
+
+**Lifetime grants out (2018–2023):** $48.13B across 107,218 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| JOHNS HOPKINS UNIVERSITY | $1.66B | 17 | 2018–2023 |
+| NATIONAL PHILANTHROPIC TR | $1.07B | 6 | 2018–2023 |
+| SILICON VALLEY COMMUNITY FOUNDATION | $1.04B | 6 | 2018–2023 |
+| SCHWAB CHARITABLE FUND | $943.2M | 6 | 2018–2023 |
+| PRESIDENT AND FELLOWS OF HARVARD COLLEGE | $595.5M | 6 | 2018–2023 |
+| NEW VENTURE FUND | $497.9M | 6 | 2018–2023 |
+| THE CHURCH OF JESUS CHRIST OF LATTER-DAY SAINTS | $477.4M | 4 | 2020–2023 |
+| THE BOARD OF TRUSTEES OF THE LELAND STANFORD JUNIO | $274.3M | 6 | 2018–2023 |
+| MASSACHUSETTS INSTITUTE OF TECHNOLOGY | $247.9M | 6 | 2018–2023 |
+| HOPEWELL FUND | $236.2M | 6 | 2018–2023 |
+| AMERICAN ENDOWMENT FOUNDATION | $222.2M | 6 | 2018–2023 |
+| CORP OF THE PRES OF THE CHURCH OF JESUS CHRIST OF | $221.8M | 3 | 2018–2020 |
+| UNIVERSITY OF CHICAGO | $202.4M | 6 | 2018–2023 |
+| PLANNED PARENTHOOD FEDERATION OF AMERICA INC | $194.9M | 6 | 2018–2023 |
+| TRUSTEES OF DARTMOUTH COLLEGE | $183.0M | 102 | 2018–2023 |
+| DONORS TRUST INC | $157.3M | 6 | 2018–2023 |
+| MUSEUM OF SCIENCE AND INDUSTRY | $155.8M | 5 | 2019–2023 |
+| AMERICAN CIVIL LIBERTIES UNION FOUNDATION INC | $151.4M | 6 | 2018–2023 |
+| CORNELL UNIVERSITY | $150.3M | 6 | 2018–2023 |
+| TRUSTEES OF PRINCETON UNIVERSITY | $148.9M | 113 | 2018–2023 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

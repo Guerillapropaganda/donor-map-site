@@ -1,32 +1,33 @@
 ---
-title: "Peter Welch"
+title: Peter Welch
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "Senate"
-state: "Vermont"
-state-abbr: "VT"
-bioguide-id: "W000800"
+party: Democrat
+chamber: Senate
+state: Vermont
+state-abbr: VT
+bioguide-id: W000800
 govtrack-id: 412239
 born: "1947-05-02"
-wikidata-id: "Q1112656"
-website: "https://www.welch.senate.gov"
-phone: "202-224-4242"
+wikidata-id: Q1112656
+website: https://www.welch.senate.gov
+phone: 202-224-4242
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "S2VT00235"
+fec-candidate-id: S2VT00235
 bills-sponsored: 93
 bills-cosponsored: 638
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Teamsters - International Brotherhood of Teamsters]], [[National Association of Realtors]], [[Everytown for Gun Safety]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[DSCC - Democratic Senatorial Campaign Committee]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Mark DeSaulnier]], [[Care Action]], [[Nancy Pelosi]], [[Sierra Club Political Committee]], [[American Hospital Association PAC]], [[National Restaurant Association]], [[Duke Energy]], [[Sierra Club Independent Action]], [[NEA Fund for Children and Public Education]], [[Let America Vote PAC]], [[National Multifamily Housing Council]], [[IBEW - International Brotherhood of Electrical Workers]], [[Indivisible Action]], [[UA Political Action Committee]], [[League of Conservation Voters]], [[Protect the Vote]], [[Giffords PAC]], [[iHeartMedia]], [[Progressive Turnout Project]], [[American Federation of State County & Municipal Employees P E O P L E]]"
 ---
 
 

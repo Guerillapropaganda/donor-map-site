@@ -6,11 +6,11 @@ sector: Dark Money
 entity-type: Super PAC
 committee-id: C00760082
 fec-url: https://www.fec.gov/data/committee/C00760082/
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-ie-support: $308,000
 fec-ie-oppose: null
-politicians-funded: "[[John Hoeven]], [[James Lankford]]"
+politicians-funded: "[[John Hoeven]], [[James Lankford]], [[Tim Scott]], [[Jerry Moran]], [[Todd Young]], [[John Thune]], [[Mike Lee]]"
 related: "[[John Hoeven]] · [[James Lankford]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

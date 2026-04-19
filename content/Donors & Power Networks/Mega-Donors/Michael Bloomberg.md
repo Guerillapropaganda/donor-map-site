@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Mega-Donors
 entity-type: Individual Donor
-politicians-funded: "[[Donald Trump]], [[Nancy Pelosi]], [[Gavin Newsom]], [[Josh Shapiro]], [[Kamala Harris]], [[Tim Scott]], [[Tom Steyer]]"
+politicians-funded: "[[Donald Trump]], [[Nancy Pelosi]], [[Gavin Newsom]], [[Josh Shapiro]], [[Kamala Harris]], [[Tim Scott]], [[Tom Steyer]], [[ActBlue]]"
 issues:
   - Energy & Climate
 federal-register-mentions: 12

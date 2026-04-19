@@ -1,33 +1,34 @@
 ---
-title: "Rudy Yakym"
+title: Rudy Yakym
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Indiana"
-state-abbr: "IN"
+party: Republican
+chamber: House
+state: Indiana
+state-abbr: IN
 district: "2"
-bioguide-id: "Y000067"
+bioguide-id: Y000067
 govtrack-id: 456873
 born: "1984-02-24"
-wikidata-id: "Q115137719"
-website: "https://yakym.house.gov"
-phone: "202-225-3915"
+wikidata-id: Q115137719
+website: https://yakym.house.gov
+phone: 202-225-3915
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H2IN02295"
+fec-candidate-id: H2IN02295
 bills-sponsored: 19
 bills-cosponsored: 282
 bills-enacted: 0
-top-policy-area: "International Affairs"
+top-policy-area: International Affairs
+top-donors: "[[Amgen Inc]], [[CVS Health - Aetna]], [[Walmart - Walton Family]], [[AIPAC - American Israel Public Affairs Committee]], [[Raytheon (RTX)]], [[Microsoft]], [[National Association of Manufacturers]], [[Anthem - Elevance Health]], [[Comcast - NBCUniversal]], [[Lockheed Martin]], [[Chevron]], [[Byron Donalds]], [[American College of Radiology Association PAC]], [[National Multifamily Housing Council]], [[Bank of America]], [[National Association of Realtors]], [[Associated General Contractors of America Political Action Committee]], [[AT&T - WarnerMedia]], [[Sinclair Broadcast Group]], [[Gilead Sciences]], [[Johnson & Johnson]], [[Marathon Petroleum]], [[Halliburton]], [[General Motors]], [[WinRed]], [[ADM - Archer Daniels Midland]], [[DoorDash]], [[General Dynamics]], [[AbbVie]], [[National Cattlemen's Beef Association]], [[Humana]], [[Performance Racing Inc.]], [[National Rifle Association]], [[Nucor Corporation]], [[Adrian Smith]], [[Jason Smith]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[David Rouzer]], [[Pfizer Inc.]], [[Google - Alphabet]], [[Ford Motor Company]], [[National Restaurant Association]], [[Honeywell]], [[American Hospital Association PAC]], [[Morgan Stanley]], [[Duke Energy]], [[National Victory Action Fund]], [[MAJORITY PAC]], [[Citigroup]], [[Care Action]], [[Leidos]], [[American Chemistry Council, INC]]"
 ---
 
 

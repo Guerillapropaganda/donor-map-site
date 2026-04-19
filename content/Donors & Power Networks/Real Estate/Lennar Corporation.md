@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Real Estate
 entity-type: Corporation
-politicians-funded: "[[Donald Trump]], [[Gavin Newsom]], [[Ron DeSantis]]"
+politicians-funded: "[[Donald Trump]], [[Gavin Newsom]], [[Ron DeSantis]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Nancy Pelosi Master Profile]], [[NRCC - National Republican Congressional Committee]], [[_Debbie Wasserman Schultz Master Profile]], [[_Jared Moskowitz Master Profile]], [[ActBlue]], [[NRSC - National Republican Senatorial Committee]], [[RNC - Republican National Committee]], [[MoveOn.org Political Action]], [[Nancy Mace]], [[MAGA Inc]], [[_Beth van Duyne Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[WinRed]], [[Save America PAC]], [[_Ted Cruz Master Profile]], [[_Jon Ossoff Master Profile]], [[Mark Kelly]], [[_Marco Rubio Master Profile]], [[_Tim Scott Master Profile]], [[MAJORITY PAC]], [[_Carlos Gimenez Master Profile]], [[Debbie Wasserman Schultz]], [[Nancy Pelosi]], [[Ted Cruz]], [[Jared Moskowitz]], [[Carlos Gimenez]], [[Marco Rubio]], [[Jon Ossoff]], [[Tim Scott]], [[Beth van Duyne]]"
 issues:
   - Housing
   - Immigration
@@ -53,7 +53,7 @@ lobbying-filings: 8
 cross-vault-triangulation-count: 10
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 7
-epa-states: "CA, MN"
+epa-states: CA, MN
 employee-contributions: 832
 employee-contributions-total: 296652
 employee-donor-count: 195
@@ -382,3 +382,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 - ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F560946914_202312_990O_2024061722525326.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Lennar%20Corporation%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 8 (2018–2025)
+
+**Most recent filing (2025):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | $21.7M |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

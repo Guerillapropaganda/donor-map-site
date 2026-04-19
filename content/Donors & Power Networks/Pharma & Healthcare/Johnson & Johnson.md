@@ -2,7 +2,7 @@
 title: Johnson & Johnson
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Pharma & Healthcare
@@ -18,7 +18,7 @@ last-enriched: "2026-04-18"
 needs-reenrichment: true
 reenrich-reason: run lda pipeline
 ofac-programs:
-  - "GLOMAG"
+  - GLOMAG
 subawards-issued: 2
 subawards-issued-amount: 4948
 subawards-received: 2
@@ -41,9 +41,9 @@ cross-vault-triangulation-count: 17
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 fda-recalls: 110
 fda-recalls-class-i: 2
-politicians-funded: "[[Cory Booker]]"
+politicians-funded: "[[Cory Booker]], [[_Kamala Harris Master Profile]], [[REPUBLICAN PARTY OF FLORIDA]], [[_Chrissy Houlahan Master Profile]], [[Lloyd Smucker]], [[Gary Peters]], [[Steve Daines]], [[NRCC - National Republican Congressional Committee]], [[James Lankford]], [[Ashley Moody]], [[Human Rights Campaign Equality Votes]], [[Victoria Spartz]], [[Brendan Boyle]], [[Mitch McConnell]], [[Joyce Beatty]], [[Emily's List]], [[Brett Guthrie]], [[MAGA Inc]], [[The Lincoln Project]], [[Young Kim]], [[NRSC - National Republican Senatorial Committee]], [[_Angie Craig Master Profile]], [[MoveOn.org Political Action]], [[Raul Ruiz]], [[Pete Aguilar]], [[ActBlue]], [[Trump Victory]], [[314 ACTION FUND]], [[Todd Young]], [[John Joyce]], [[_Nancy Pelosi Master Profile]], [[Jay Obernolte]], [[Ron Estes]], [[Cathy McMorris Rodgers]], [[Elise Stefanik]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Josh Riley Master Profile]], [[Jimmy Gomez]], [[David Schweikert]], [[Marianne Williamson]], [[Susan Collins]], [[Dan Crenshaw]], [[ENVIRONMENT AMERICA INC]], [[_Mike Levin Master Profile]], [[Julie Fedorchak]], [[Diana Harshbarger]], [[Barbara Lee]], [[_Mike Thompson Master Profile]], [[Progressive Turnout Project]], [[Club for Growth INC PAC]], [[_Jon Ossoff Master Profile]], [[Mariannette Miller-Meeks]], [[August Pfluger]], [[Mark Kelly]], [[Jason Smith]], [[_Tammy Baldwin Master Profile]], [[Jodey Arrington]], [[Frank Pallone]], [[Nathaniel Moran]], [[RNC - Republican National Committee]], [[Johnson & Johnson]], [[_Adam Gray Master Profile]], [[Aaron Bean]], [[_Lisa Blunt Rochester Master Profile]], [[Patty Murray]], [[Josh Gottheimer]], [[Gwen Moore]], [[Thom Tillis]], [[Senate Conservatives Fund]], [[_Paul Tonko Master Profile]], [[Darrell Issa]], [[Ann Wagner]], [[_Jim Jordan Master Profile]], [[_Mike Haridopolos Master Profile]], [[National Association of Manufacturers]], [[Richard Hudson]], [[Gregory Meeks]], [[Darren Soto]], [[Claudia Tenney]], [[_Rashida Tlaib Master Profile]], [[Rudy Yakym]], [[Adrian Smith]], [[Mark Warner]], [[_Ron Johnson Master Profile]], [[Mike Thompson]], [[Deb Fischer]], [[John Cornyn]], [[_Jake Auchincloss Master Profile]], [[_Cory Booker Master Profile]], [[_Ted Cruz Master Profile]], [[Chris Coons]], [[Kevin Mullin]], [[Richard Neal]], [[_Jamie Raskin Master Profile]], [[John Barrasso]], [[_Andy Barr Master Profile]], [[Lamonica McIver]], [[_Marco Rubio Master Profile]], [[Darin Lahood]], [[Jeanne Shaheen]], [[WinSenate]], [[DCCC - Democratic Congressional Campaign Committee]], [[Diana Degette]], [[Sierra Club Political Committee]], [[Erin Houchin]], [[_Nellie Pou Master Profile]], [[_Patrick Ryan Master Profile]], [[Lisa Blunt Rochester]], [[DNC - Democratic National Committee]], [[Lori Trahan]], [[Jerry Moran]], [[Pete Sessions]], [[Nancy Mace]], [[CHC BOLD PAC]], [[David Kustoff]], [[The National Republican Trust PAC]], [[John Boozman]], [[Joe Manchin]], [[Joni Ernst]], [[Kathy Castor]], [[Steven Horsford]], [[Bob Casey]], [[Roger Marshall]], [[Shelley Moore Capito]], [[Steve Scalise]], [[Kay Granger]], [[Lindsey Graham]], [[John Thune]], [[Let America Vote PAC]], [[Michelle Fischbach]], [[Bennie Thompson]], [[Tim Scott]], [[_Christian D. Menefee Master Profile]], [[John James]], [[Kevin McCarthy]], [[Brian Jack]], [[Martin Heinrich]], [[Chris Christie]], [[_Bonnie Watson Coleman Master Profile]], [[Jacky Rosen]], [[Indivisible Action]], [[_Sara Jacobs Master Profile]], [[Bill Hagerty]], [[Ruben Gallego]], [[Kim Schrier]], [[Kat Cammack]], [[_Vince Fong Master Profile]], [[Hmp]], [[Jake Auchincloss]], [[Giffords PAC]], [[_Elissa Slotkin Master Profile]], [[Jon Husted]], [[Tim Walberg]], [[David Scott]], [[VIEW PAC - Value in Electing Women]], [[WinRed]], [[League of Conservation Voters]], [[Rick Scott]], [[Vicente Gonzalez]], [[Ron Wyden]], [[Madeleine Dean]], [[Catherine Cortez Masto]], [[Henry Cuellar]], [[Nikema Williams]], [[Marsha Blackburn]], [[John Hoeven]], [[Patrick McHenry]], [[Debbie Dingell]], [[Lisa Murkowski]], [[Guy Reschenthaler]], [[Kyrsten Sinema]], [[Bernie Moreno]], [[Ron Johnson]], [[Ted Cruz]], [[Chrissy Houlahan]], [[Jon Ossoff]], [[Marco Rubio]], [[Angie Craig]], [[Sara Jacobs]], [[Rashida Tlaib]], [[Andy Barr]], [[Josh Riley]], [[Adam Gray]], [[Bonnie Watson Coleman]], [[Paul Tonko]], [[Elissa Slotkin]], [[Kamala Harris]], [[Vince Fong]], [[Patrick Ryan]], [[Jamie Raskin]], [[Christian D. Menefee]], [[Mike Levin]], [[Jim Jordan]], [[Mike Haridopolos]], [[Nancy Pelosi]], [[Tammy Baldwin]], [[Nellie Pou]]"
 epa-facilities: 7
-epa-states: "IL, NJ"
+epa-states: IL, NJ
 federal-contracts: 9088
 total-raised: 837811
 total-spent: 787125
@@ -497,3 +497,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
 <!-- auto:influence-cross-ref end -->
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 5 (2020–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $359K |
+| Total expenses | — |
+| Total assets (EOY) | $1.2M |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

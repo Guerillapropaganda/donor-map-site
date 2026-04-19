@@ -1,36 +1,35 @@
 ---
-title: "The 85 Fund"
+title: The 85 Fund
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Dark Money"
-entity-type: "Individual Donor"
+sector: Dark Money
+entity-type: Individual Donor
 issues:
-  - "Dark Money & Campaign Finance"
+  - Dark Money & Campaign Finance
 ein: 202466871
-annual-revenue: "$143.1M"
-net-assets: "$3.9M"
+annual-revenue: $143.1M
+net-assets: $3.9M
 tax-year: "2023"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-08"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 total-revenue: 168530018
 total-assets: 2754902
-lei: "549300JZ9WCXZDH10988"
-lei-jurisdiction: "US-DE"
+lei: 549300JZ9WCXZDH10988
+lei-jurisdiction: US-DE
 related: "[[Federalist Society]] · [[Barre Seid]] · [[Leonard Leo]] · [[Marble Freedom Trust]] · [[Sentinel Action Fund]] · [[Judicial Crisis Network]] · [[DeVos Family]] · [[Heritage Foundation]] · [[American Federation for Children]] · [[Walton Family Foundation]] · [[Insurance Industry]] · [[National Education Association]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[DonorsTrust]] · [[Demand Justice]] · [[Bradley Foundation]]"
 cross-vault-triangulation-count: 8
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+politicians-funded: "[[TPUSA - Turning Point USA]], [[Heritage Foundation]], [[Mercatus Center]]"
 ---
 
 
@@ -189,3 +188,50 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/202466871/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/202466871/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/202466871/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 3 (2020–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $143.1M |
+| Total expenses | — |
+| Total assets (EOY) | $3.9M |
+| Grants paid out | $101.4M |
+
+**Lifetime grants out (2020–2023):** $239.7M across 86 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| Donors Trust | $196.5M | 3 | 2020–2023 |
+| Federalist Society | $8.7M | 3 | 2020–2023 |
+| Ethics and Public Policy Center | $3.1M | 3 | 2020–2023 |
+| Turning Point USA Inc | $2.8M | 1 | 2020 |
+| Foundation for Individual Rights in Expression Inc | $2.1M | 1 | 2022 |
+| Foundation for Government Accountability | $2.0M | 1 | 2020 |
+| Club for Growth Foundation | $1.5M | 1 | 2023 |
+| Hawthorn Foundation Inc | $1.2M | 2 | 2022–2023 |
+| New Civil Liberties | $1.0M | 1 | 2020 |
+| Passages Israel | $1.0M | 1 | 2020 |
+| Paragon Health Institute | $1.0M | 1 | 2022 |
+| American Legislative Exchange Counsel | $956K | 2 | 2022–2023 |
+| Mercatus Center | $750K | 1 | 2020 |
+| Real Clear Foundation | $750K | 1 | 2020 |
+| The Legacy Foundation | $750K | 1 | 2020 |
+| Center for Equal Opportunity | $725K | 3 | 2020–2023 |
+| Independent Womans Forum | $700K | 2 | 2022–2023 |
+| Manhattan Institute for Public Research Inc | $650K | 2 | 2022–2023 |
+| Freedom Foundation | $640K | 1 | 2022 |
+| Center for Law and Policy | $550K | 2 | 2022–2023 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

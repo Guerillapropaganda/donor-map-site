@@ -1,33 +1,34 @@
 ---
-title: "Victoria Spartz"
+title: Victoria Spartz
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Indiana"
-state-abbr: "IN"
+party: Republican
+chamber: House
+state: Indiana
+state-abbr: IN
 district: "5"
-bioguide-id: "S000929"
+bioguide-id: S000929
 govtrack-id: 456822
 born: "1978-10-06"
-wikidata-id: "Q44059867"
-website: "https://spartz.house.gov"
-phone: "202-225-2276"
+wikidata-id: Q44059867
+website: https://spartz.house.gov
+phone: 202-225-2276
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H0IN05326"
+fec-candidate-id: H0IN05326
 bills-sponsored: 13
 bills-cosponsored: 122
 bills-enacted: 0
-top-policy-area: "International Affairs"
+top-policy-area: International Affairs
+top-donors: "[[MAJORITY PAC]], [[Morgan Stanley]], [[National Victory Action Fund]], [[Johnson & Johnson]], [[August Pfluger]], [[Jim Jordan]], [[AT&T - WarnerMedia]], [[National Association of Realtors]], [[CVS Health - Aetna]], [[WinRed]], [[Ben Cline]], [[Raytheon (RTX)]], [[Comcast - NBCUniversal]], [[iHeartMedia]], [[Adrian Smith]], [[Anthem - Elevance Health]], [[Republican Jewish Coalition]], [[Americans for Prosperity]], [[VIEW PAC - Value in Electing Women]], [[Walmart - Walton Family]], [[General Dynamics]], [[Tzedek PAC]], [[Andy Harris]], [[Chevron]], [[AIPAC - American Israel Public Affairs Committee]], [[Amgen Inc]], [[Save America PAC]], [[Rick W. Allen]], [[Jake Ellzey]], [[National Rifle Association]], [[Marathon Petroleum]], [[American Hospital Association PAC]], [[National Multifamily Housing Council]], [[Honeywell]], [[Google - Alphabet]], [[Duke Energy]], [[Citigroup]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Pfizer Inc.]], [[Jason Smith]], [[General Motors]], [[Ralph Norman]], [[Planned Parenthood Votes]], [[Thomas Massie]], [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]], [[Lockheed Martin]], [[Ford Motor Company]], [[Booz Allen Hamilton]], [[Northrop Grumman]], [[Citadel - Kenneth Griffin]], [[CTA - California Teachers Association]], [[Susquehanna International Group]], [[Walmart]], [[DoorDash]], [[Oracle]], [[Boeing]], [[Charles Schwab]], [[Verizon]], [[Las Vegas Sands]], [[Eli Lilly]], [[McDonalds Corporation]]"
 ---
 
 

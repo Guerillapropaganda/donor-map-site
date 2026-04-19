@@ -2,12 +2,12 @@
 title: ConocoPhillips
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 2
 parent: null
 sector: Energy & Utilities
 entity-type: Corporation
-politicians-funded: "[[Lisa Murkowski]], [[Dan Crenshaw]], [[Dan Sullivan]], [[John Kennedy]]"
+politicians-funded: "[[Lisa Murkowski]], [[Dan Crenshaw]], [[Dan Sullivan]], [[John Kennedy]], [[DNC - Democratic National Committee]], [[Marianne Williamson]], [[John Thune]], [[Vicente Gonzalez]], [[Kay Granger]], [[James Lankford]], [[Giffords PAC]], [[Progressive Turnout Project]], [[Pete Stauber]], [[ActBlue]], [[Bill Hagerty]], [[John Hoeven]], [[DCCC - Democratic Congressional Campaign Committee]], [[August Pfluger]], [[Markwayne Mullin]], [[The Lincoln Project]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Dan Newhouse]], [[RNC - Republican National Committee]], [[314 ACTION FUND]], [[Monica de la Cruz]], [[Jim Costa]], [[Mike Carey]], [[Julie Fedorchak]], [[Ryan Zinke]], [[MAGA Inc]], [[Common Sense for America PAC]], [[_Jon Ossoff Master Profile]], [[Thom Tillis]], [[WinRed]], [[Mike Lee]], [[Frank Lucas]], [[_Ted Cruz Master Profile]], [[_Marco Rubio Master Profile]], [[Julie Johnson]], [[Steven Horsford]], [[American Conservative Union]], [[_Jim Costa Master Profile]], [[Steve Scalise]], [[Human Rights Campaign Equality Votes]], [[Marsha Blackburn]], [[Jason Smith]], [[Trump Victory]], [[Richard Hudson]], [[NRSC - National Republican Senatorial Committee]], [[Patrick McHenry]], [[Cathy McMorris Rodgers]], [[Mariannette Miller-Meeks]], [[Joe Manchin]], [[_Beth van Duyne Master Profile]], [[Cliff Bentz]], [[Pete Ricketts]], [[_August Pfluger Master Profile]], [[Sam Graves]], [[ConocoPhillips]], [[Lindsey Graham]], [[Hmp]], [[Henry Cuellar]], [[John Boozman]], [[NRCC - National Republican Congressional Committee]], [[Kat Cammack]], [[John Barrasso]], [[John James]], [[Tom Cole]], [[Tim Scott]], [[Bernie Moreno]], [[_Josh Brecheen Master Profile]], [[Steve Daines]], [[Kevin Cramer]], [[Roger Wicker]], [[_John James Master Profile]], [[_Tim Scott Master Profile]], [[Tim Sheehy]], [[Save America PAC]], [[Jodey Arrington]], [[Brett Guthrie]], [[Kevin McCarthy]], [[WinSenate]], [[REPUBLICAN CAMPAIGN COMMITTEE OF NEW MEXICO]], [[Bruce Westerman]], [[_Martin Heinrich Master Profile]], [[Adam Gray]], [[Deb Fischer]], [[_Tony Gonzales Master Profile]], [[David Schweikert]], [[Ken Calvert]], [[Michael Lawler]], [[Shelley Moore Capito]], [[John Cornyn]], [[_Doug Burgum Master Profile]], [[Byron Donalds]], [[_Vicente Gonzalez Master Profile]], [[Jon Ossoff]], [[Martin Heinrich]], [[Doug Burgum]], [[Ted Cruz]], [[Josh Brecheen]], [[Tony Gonzales]], [[Beth van Duyne]], [[Marco Rubio]]"
 issues:
   - Energy & Climate
 sec-filings: 10000
@@ -75,7 +75,7 @@ total-assets: 5548963
 cross-vault-triangulation-count: 21
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 28
-epa-states: "CA, CO, MA, MI, OK, OR, TN, TX"
+epa-states: CA, CO, MA, MI, OK, OR, TN, TX
 total-raised: 285642
 total-spent: 274875
 cash-on-hand: 21591
@@ -495,3 +495,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/202555951/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/202555951/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/202555951/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 5 (2020–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $135K |
+| Total expenses | — |
+| Total assets (EOY) | $5.5M |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

@@ -39,10 +39,10 @@ bills-sponsored: 139
 bills-cosponsored: 1487
 related: "[[_Donald Trump Master Profile]] · [[_Mike Johnson Master Profile]] · [[Crypto Industry Bloc|Crypto Industry Bloc]] · [[Citadel - Kenneth Griffin|Kenneth Griffin]] · [[Apollo Global Management]]"
 bioguide-id: M001156
-donors: "[[Club for Growth INC PAC]], [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]], [[CRYPTO INNOVATION]], [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[CLUB FOR GROWTH INC PAC]], [[Securities & Investment Industry]], [[FAIRSHAKE]], [[Kenneth Griffin]], [[Crypto Industry Bloc]]"
+donors: "[[Club for Growth INC PAC]], [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]], [[CRYPTO INNOVATION]], [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[CLUB FOR GROWTH INC PAC]], [[Securities & Investment Industry]], [[FAIRSHAKE]], [[Kenneth Griffin]], [[Crypto Industry Bloc]], [[WinRed]], [[AIPAC - American Israel Public Affairs Committee]], [[American Chemistry Council, INC]], [[Raytheon (RTX)]], [[Lockheed Martin]], [[Marathon Petroleum]], [[JPAC - Jewish Public Affairs Committee of California]], [[National Multifamily Housing Council]], [[Humana]], [[Comcast - NBCUniversal]], [[National Association of Manufacturers]], [[DoorDash]], [[Walmart - Walton Family]], [[AbbVie]], [[Performance Racing Inc.]], [[General Dynamics]], [[Bank of America]], [[MAJORITY PAC]], [[National Rifle Association]], [[McDonalds Corporation]], [[National Association of Realtors]], [[NextEra Energy]], [[Ford Motor Company]], [[ConocoPhillips]], [[General Motors]], [[National Cattlemen's Beef Association]], [[AT&T - WarnerMedia]], [[Pfizer Inc.]], [[Valero Energy]], [[Duke Energy]], [[Crypto Innovation PAC]], [[Morgan Stanley]], [[American Hospital Association PAC]], [[PG&E - Pacific Gas and Electric]], [[Honeywell]], [[Leidos]], [[Nucor Corporation]], [[Associated General Contractors of America Political Action Committee]], [[Airbnb]], [[Fairshake PAC - Crypto Super PAC]], [[Northrop Grumman]], [[National Restaurant Association]], [[Amgen Inc]], [[American Gaming Association]], [[Tyson Foods]], [[Microsoft]], [[BAE Systems]], [[Save America PAC]], [[Chevron]], [[Jason Smith]], [[Johnson & Johnson]], [[Coinbase]], [[Citigroup]], [[Halliburton]], [[Google - Alphabet]], [[L3Harris Technologies]]"
 bills-enacted: 0
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "Finance and Financial Sector"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: Finance and Financial Sector
 ---
 
 

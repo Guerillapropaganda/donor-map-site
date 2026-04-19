@@ -7,7 +7,7 @@ source-tier: 2
 parent: null
 sector: Tech & Crypto
 entity-type: Corporation
-politicians-funded: "[[JD Vance]]"
+politicians-funded: "[[JD Vance]], [[ActBlue]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-09"
@@ -21,7 +21,7 @@ known-gaps:
 related: "[[_JD Vance Master Profile]] · [[Narya Capital and the Venture Capital Pipeline]] · [[Peter Thiel]] · [[The Palantir State - Surveillance as Policy]] · [[Marc Andreessen & Horowitz]]"
 urls-first-triaged: "2026-04-15"
 epa-facilities: 1
-epa-states: "CA"
+epa-states: CA
 employee-contributions: 2
 employee-contributions-total: 800
 employee-donor-count: 1

@@ -1,37 +1,38 @@
 ---
-title: "Patrick Ryan"
+title: Patrick Ryan
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "New York"
-state-abbr: "NY"
+party: Democrat
+chamber: House
+state: New York
+state-abbr: NY
 district: "18"
-bioguide-id: "R000579"
+bioguide-id: R000579
 govtrack-id: 456871
 born: "1982-03-28"
-wikidata-id: "Q113587887"
-website: "https://patryan.house.gov"
-phone: "202-225-5614"
+wikidata-id: Q113587887
+website: https://patryan.house.gov
+phone: 202-225-5614
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 ofac-sdn-match: "true"
 last-enriched: "2026-04-12"
 ofac-programs:
-  - "IRAN-HR"
+  - IRAN-HR
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H8NY19223"
+fec-candidate-id: H8NY19223
 bills-sponsored: 17
 bills-cosponsored: 359
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[MoveOn.org Political Action]], [[National Multifamily Housing Council]], [[Joe Neguse]], [[Courage to Change PAC]], [[Nancy Pelosi]], [[National Association of Realtors]], [[Adriano Espaillat]], [[Sierra Club Independent Action]], [[Activate America]], [[Pete Aguilar]], [[DCCC - Democratic Congressional Campaign Committee]], [[UA Political Action Committee]], [[Veronica Escobar]], [[Let America Vote PAC]], [[DMFI - Democratic Majority for Israel]], [[Jamie Raskin]], [[National Education Association]], [[Chrissy Houlahan]], [[Teamsters - International Brotherhood of Teamsters]], [[Sara Jacobs]], [[Hmp]], [[Human Rights Campaign Equality Votes]], [[Votevets]], [[American Hospital Association PAC]], [[Progressive Turnout Project]], [[Diana Degette]], [[Medicare for All - The Policy That Broke the Party]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Planned Parenthood Votes]], [[Giffords PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Jason Crow]], [[Paul Tonko]], [[Jake Auchincloss]], [[AIPAC - American Israel Public Affairs Committee]], [[CHC BOLD PAC]], [[Women Speak Out Pac]], [[National Restaurant Association]], [[American Federation of State County & Municipal Employees P E O P L E]], [[NRCC - National Republican Congressional Committee]], [[SEIU COPE]], [[Indivisible Action]], [[Fairshake PAC - Crypto Super PAC]], [[League of Conservation Voters]], [[Mark DeSaulnier]], [[Julia Brownley]], [[Sierra Club Political Committee]], [[Everytown for Gun Safety]], [[Wfw Action Fund, Inc.]], [[Mark Takano]], [[Planned Parenthood Action Fund INC]], [[Americans for Prosperity]], [[Congressional Leadership Fund]], [[Josh Riley]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Morgan McGarvey]], [[Everytown for Gun Safety Victory Fund]], [[Google - Alphabet]], [[WITH HONOR FUND, INC.]], [[Blue Shield of California]], [[Palantir Technologies]], [[Oracle]], [[Tesla - Elon Musk Political Operation]], [[Microsoft]], [[Goldman Sachs]], [[Apollo Global Management]], [[Anduril Industries]], [[JPMorgan Chase]], [[Pfizer Inc.]], [[ExxonMobil]], [[Johnson & Johnson]], [[Emily's List]], [[General Dynamics]], [[Verizon]]"
 ---
 
 

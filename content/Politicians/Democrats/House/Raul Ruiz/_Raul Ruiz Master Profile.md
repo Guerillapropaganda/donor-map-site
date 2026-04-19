@@ -1,33 +1,34 @@
 ---
-title: "Raul Ruiz"
+title: Raul Ruiz
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "California"
-state-abbr: "CA"
+party: Democrat
+chamber: House
+state: California
+state-abbr: CA
 district: "25"
-bioguide-id: "R000599"
+bioguide-id: R000599
 govtrack-id: 412519
 born: "1972-08-25"
-wikidata-id: "Q3701994"
-website: "https://ruiz.house.gov"
-phone: "202-225-5330"
+wikidata-id: Q3701994
+website: https://ruiz.house.gov
+phone: 202-225-5330
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H2CA36439"
+fec-candidate-id: H2CA36439
 bills-sponsored: 48
 bills-cosponsored: 320
 bills-enacted: 1
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Teamsters - International Brotherhood of Teamsters]], [[CHC BOLD PAC]], [[Microsoft]], [[NextEra Energy]], [[Johnson & Johnson]], [[Planned Parenthood Votes]], [[American Hospital Association PAC]], [[AT&T - WarnerMedia]], [[Honeywell]], [[CVS Health - Aetna]], [[General Motors]], [[Northrop Grumman]], [[Gilead Sciences]], [[Humana]], [[McDonalds Corporation]], [[NEA Fund for Children and Public Education]], [[Performance Racing Inc.]], [[PG&E - Pacific Gas and Electric]], [[American College of Radiology Association PAC]], [[League of Conservation Voters]], [[Ford Motor Company]], [[Courage California Super Pac]], [[Pete Aguilar]], [[National Multifamily Housing Council]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Anthem - Elevance Health]], [[IBEW - International Brotherhood of Electrical Workers]], [[Raytheon (RTX)]], [[Progressive Turnout Project]], [[Walmart - Walton Family]], [[Giffords PAC]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Comcast - NBCUniversal]], [[Pfizer Inc.]], [[Amgen Inc]], [[AIPAC - American Israel Public Affairs Committee]], [[Let America Vote PAC]], [[Google - Alphabet]], [[Everytown for Gun Safety]], [[Sierra Club Independent Action]], [[PLANNED PARENTHOOD ACTION FUND OF THE PACIFIC SOUTHWEST PAC]], [[Lockheed Martin]], [[AbbVie]], [[Ted Lieu]], [[National Association of Realtors]], [[American Chemistry Council, INC]], [[American Federation of State County & Municipal Employees P E O P L E]], [[SEIU COPE]], [[Leidos]], [[J Street]], [[314 ACTION FUND]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Nancy Pelosi]], [[Care Action]], [[CTA - California Teachers Association]]"
 ---
 
 

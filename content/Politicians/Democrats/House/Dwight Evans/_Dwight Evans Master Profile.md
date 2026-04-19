@@ -1,33 +1,34 @@
 ---
-title: "Dwight Evans"
+title: Dwight Evans
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Pennsylvania"
-state-abbr: "PA"
+party: Democrat
+chamber: House
+state: Pennsylvania
+state-abbr: PA
 district: "3"
-bioguide-id: "E000296"
+bioguide-id: E000296
 govtrack-id: 412677
 born: "1954-05-16"
-wikidata-id: "Q5318148"
-website: "https://evans.house.gov"
-phone: "202-225-4001"
+wikidata-id: Q5318148
+website: https://evans.house.gov
+phone: 202-225-4001
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H6PA02171"
+fec-candidate-id: H6PA02171
 bills-sponsored: 11
 bills-cosponsored: 624
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[National Multifamily Housing Council]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[National Association of Realtors]], [[Lockheed Martin]], [[Raytheon (RTX)]], [[Google - Alphabet]], [[J Street]], [[IBEW - International Brotherhood of Electrical Workers]], [[Sierra Club Independent Action]], [[Pennsylvania Pro-Life Federation PAC]], [[Nancy Pelosi]], [[SEIU COPE]], [[Progressive Turnout Project]], [[Care Action]], [[AT&T - WarnerMedia]], [[International Brotherhood of Electrical Workers Local 98 Committee on Political Education]], [[American Hospital Association PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[NEA Fund for Children and Public Education]], [[Anthem - Elevance Health]], [[American College of Radiology Association PAC]], [[UA Political Action Committee]], [[Pfizer Inc.]], [[Walmart - Walton Family]], [[NextEra Energy]], [[Comcast - NBCUniversal]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[General Dynamics]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Planned Parenthood Votes]], [[Humana]], [[League of Conservation Voters]], [[AbbVie]], [[Morgan Stanley]], [[General Motors]], [[Everytown for Gun Safety]], [[American Gaming Association]], [[Giffords PAC]], [[iHeartMedia]], [[GEO Group - Private Prison Industrial Complex]], [[Oracle]], [[Verizon]], [[AFGE - American Federation of Government Employees]], [[Uber]], [[UFCW - United Food and Commercial Workers]], [[Apollo Global Management]], [[Fanjul Family - Florida Crystals]], [[AFSCME - American Federation of State County and Municipal Employees]]"
 ---
 
 

@@ -1,32 +1,33 @@
 ---
-title: "Gabe Vasquez"
+title: Gabe Vasquez
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "New Mexico"
-state-abbr: "NM"
+party: Democrat
+chamber: House
+state: New Mexico
+state-abbr: NM
 district: "2"
-bioguide-id: "V000136"
+bioguide-id: V000136
 govtrack-id: 456919
 born: "1984-08-03"
-wikidata-id: "Q115155647"
-website: "https://vasquez.house.gov"
-phone: "202-225-2365"
+wikidata-id: Q115155647
+website: https://vasquez.house.gov
+phone: 202-225-2365
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 28
 bills-cosponsored: 276
 bills-enacted: 0
-top-policy-area: "Armed Forces and National Security"
+top-policy-area: Armed Forces and National Security
+top-donors: "[[Kaiser Permanente]], [[Lockheed Martin]], [[Amazon]], [[Open Society Foundations]], [[America Votes]], [[Google - Alphabet]], [[Anduril Industries]], [[Leidos]], [[Morgan Stanley]], [[Oracle]], [[Tesla - Elon Musk Political Operation]], [[UPS]], [[Bank of America]], [[Cigna Group]], [[Teamsters - International Brotherhood of Teamsters]], [[Meta - Facebook]], [[Cargill]], [[UnitedHealth Group - Optum]], [[AT&T]], [[Gilead Sciences]], [[SpaceX]], [[L3Harris Technologies]], [[Tyson Foods]], [[Microsoft]], [[Apple]], [[New Venture Fund]], [[Amgen Inc]], [[Palantir Technologies]], [[a16z - Andreessen Horowitz]], [[TikTok - ByteDance]], [[CBRE Group]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[Coinbase]], [[Ballard Partners]]"
 ---
 
 

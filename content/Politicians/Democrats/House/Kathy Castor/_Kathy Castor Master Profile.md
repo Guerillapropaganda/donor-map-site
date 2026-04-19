@@ -1,33 +1,34 @@
 ---
-title: "Kathy Castor"
+title: Kathy Castor
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Florida"
-state-abbr: "FL"
+party: Democrat
+chamber: House
+state: Florida
+state-abbr: FL
 district: "14"
-bioguide-id: "C001066"
+bioguide-id: C001066
 govtrack-id: 412195
 born: "1966-08-20"
-wikidata-id: "Q458492"
-website: "https://castor.house.gov"
-phone: "202-225-3376"
+wikidata-id: Q458492
+website: https://castor.house.gov
+phone: 202-225-3376
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H6FL11126"
+fec-candidate-id: H6FL11126
 bills-sponsored: 24
 bills-cosponsored: 464
 bills-enacted: 1
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[General Motors]], [[Lockheed Martin]], [[ENVIRONMENT AMERICA INC]], [[Google - Alphabet]], [[AbbVie]], [[League of Conservation Voters]], [[AIPAC - American Israel Public Affairs Committee]], [[American Hospital Association PAC]], [[iHeartMedia]], [[Comcast - NBCUniversal]], [[Sinclair Broadcast Group]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Care Action]], [[Sierra Club Independent Action]], [[General Dynamics]], [[Honeywell]], [[Pfizer Inc.]], [[Teamsters - International Brotherhood of Teamsters]], [[Anthem - Elevance Health]], [[SEIU COPE]], [[AT&T - WarnerMedia]], [[Microsoft]], [[American College of Radiology Association PAC]], [[Sierra Club Political Committee]], [[National Association of Realtors]], [[Walmart - Walton Family]], [[NEA Fund for Children and Public Education]], [[Performance Racing Inc.]], [[IBEW - International Brotherhood of Electrical Workers]], [[CVS Health - Aetna]], [[Johnson & Johnson]], [[Planned Parenthood Votes]], [[Progressive Turnout Project]], [[Nucor Corporation]], [[National Multifamily Housing Council]], [[National Committee to Preserve Social Security PAC]], [[UA Political Action Committee]], [[Nancy Pelosi]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Ford Motor Company]], [[McDonalds Corporation]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Citigroup]]"
 ---
 
 

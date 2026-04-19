@@ -1,34 +1,34 @@
 ---
-title: "Mike Carey"
+title: Mike Carey
 type: politician
 content-readiness: raw
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Ohio"
-state-abbr: "OH"
+party: Republican
+chamber: House
+state: Ohio
+state-abbr: OH
 district: "15"
-bioguide-id: "C001126"
+bioguide-id: C001126
 govtrack-id: 456864
 born: "1971-03-13"
-wikidata-id: "Q108010312"
-website: "https://carey.house.gov"
-phone: "202-225-2015"
+wikidata-id: Q108010312
+website: https://carey.house.gov
+phone: 202-225-2015
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
-donors: "[[National Cattlemen's Beef Association]]"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
+donors: "[[National Cattlemen's Beef Association]], [[NextEra Energy]], [[National Association of Manufacturers]], [[Jim Jordan]], [[Walmart - Walton Family]], [[Alliance Coal, LLC PAC]], [[Ron Estes]], [[NRCC - National Republican Congressional Committee]], [[General Motors]], [[Freedom's Defense Fund]], [[National Association of Realtors]], [[Occidental Petroleum]], [[Associated General Contractors of America Political Action Committee]], [[Nucor Corporation]], [[Chevron]], [[ConocoPhillips]], [[CVS Health - Aetna]], [[Leidos]], [[Coinbase]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Raytheon (RTX)]], [[National Multifamily Housing Council]], [[Marathon Petroleum]], [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]], [[RNC - Republican National Committee]], [[Duke Energy]], [[AIPAC - American Israel Public Affairs Committee]], [[Club for Growth]], [[Google - Alphabet]], [[WinRed]], [[American College of Radiology Association PAC]], [[DEFEND US PAC]], [[Pfizer Inc.]], [[AT&T - WarnerMedia]], [[National Right to Life Victory Fund]], [[Citigroup]], [[Amgen Inc]], [[Honeywell]], [[Comcast - NBCUniversal]], [[American Chemistry Council, INC]], [[Devon Energy]], [[National Rifle Association]], [[Lockheed Martin]], [[Microsoft]], [[Performance Racing Inc.]], [[Morgan Stanley]], [[Jason Smith]], [[Humana]], [[Northrop Grumman]], [[AbbVie]], [[Anthem - Elevance Health]], [[Conservative Outsider Pac Inc]], [[General Dynamics]], [[National Restaurant Association]], [[Bank of America]], [[Gilead Sciences]], [[Save America PAC]], [[American Gaming Association]], [[Ford Motor Company]], [[CoreCivic - Private Prisons]], [[MAJORITY PAC]], [[Valero Energy]], [[Adrian Smith]]"
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H2OH15228"
+fec-candidate-id: H2OH15228
 bills-sponsored: 29
 bills-cosponsored: 272
 bills-enacted: 1
-top-policy-area: "Taxation"
+top-policy-area: Taxation
 ---
 
 

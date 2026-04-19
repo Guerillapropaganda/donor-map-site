@@ -3,7 +3,7 @@ title: Adam Smith
 type: politician
 content-readiness: ready
 central-thesis: Adam Smith is the Democratic face of the military-industrial complex. His district contains Boeing's Renton operations, Washington State hosts six active-duty military installations, and his top three career donors — Boeing, Northrop Grumman, and ...
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Democrat
@@ -31,9 +31,9 @@ top-donors:
   - Northrop Grumman
   - Raytheon
   - Lockheed Martin
-fec-candidate-id: "H6WA09025"
+fec-candidate-id: H6WA09025
 related: "[[Tom Cole]] · [[_Rosa DeLauro Master Profile|Rosa DeLauro]] · [[Boeing]] · [[Northrop Grumman]] · [[Raytheon (RTX)|Raytheon]] · [[Lockheed Martin]] · [[NARAL]]"
-donors: "[[American Gaming Association]] · [[Raytheon (RTX Corporation)]] · [[National Association of Manufacturers]] · [[Tech Industry]] · [[National Restaurant Association]] · [[ActBlue]] · [[Lockheed Martin]] · [[Boeing]] · [[Northrop Grumman]] · [[TOGETHER FOR PROGRESS PAC]] · [[PUGET SOUND ENERGY INC PAC FOR GOOD GOVERNMENT]] · [[The 60 Plus Association]] · [[Together for Progress PAC]] · [[Puget Sound Energy INC PAC for Good Government]] · [[Raytheon]] · [[NARAL]]"
+donors: "[[American Gaming Association]] · [[Raytheon (RTX Corporation)]] · [[National Association of Manufacturers]] · [[Tech Industry]] · [[National Restaurant Association]] · [[ActBlue]] · [[Lockheed Martin]] · [[Boeing]] · [[Northrop Grumman]] · [[TOGETHER FOR PROGRESS PAC]] · [[PUGET SOUND ENERGY INC PAC FOR GOOD GOVERNMENT]] · [[The 60 Plus Association]] · [[Together for Progress PAC]] · [[Puget Sound Energy INC PAC for Good Government]] · [[Raytheon]] · [[NARAL]] · [[Google - Alphabet]] · [[L3Harris Technologies]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[General Motors]] · [[International Longshore and Warehouse Union -- Political Action Fund]] · [[BAE Systems]] · [[Honeywell]] · [[Medicare for All - The Policy That Broke the Party]] · [[AIPAC - American Israel Public Affairs Committee]] · [[American Hospital Association PAC]] · [[Raytheon (RTX)]] · [[DMFI - Democratic Majority for Israel]] · [[UA Political Action Committee]] · [[Teamsters - International Brotherhood of Teamsters]] · [[American Chemistry Council, INC]] · [[Microsoft]] · [[J Street]] · [[Leidos]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[NEA Fund for Children and Public Education]] · [[Planned Parenthood Votes]] · [[AT&T - WarnerMedia]] · [[Bechtel Corporation]] · [[Anthem - Elevance Health]] · [[Palantir]] · [[SEIU COPE]] · [[National Association of Realtors]] · [[National Multifamily Housing Council]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[Associated General Contractors of America Political Action Committee]] · [[General Dynamics]] · [[Progressive Turnout Project]] · [[Humana]] · [[Amgen Inc]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Sierra Club Independent Action]] · [[Comcast - NBCUniversal]] · [[Walmart - Walton Family]] · [[League of Conservation Voters]] · [[Ted Lieu]]"
 last-enriched: "2026-04-18"
 needs-reenrichment: true
 reenrich-reason: run congress pipeline
@@ -50,10 +50,10 @@ total-raised: $786,535
 total-spent: $659,320
 cash-on-hand: "697967.61"
 fec-cycle: 2026
-total-received: "$1,128,650"
+total-received: $1,128,650
 bills-enacted: 1
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "Health"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: Health
 ---
 
 

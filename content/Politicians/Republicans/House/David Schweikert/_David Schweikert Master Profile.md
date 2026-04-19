@@ -1,33 +1,34 @@
 ---
-title: "David Schweikert"
+title: David Schweikert
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Arizona"
-state-abbr: "AZ"
+party: Republican
+chamber: House
+state: Arizona
+state-abbr: AZ
 district: "1"
-bioguide-id: "S001183"
+bioguide-id: S001183
 govtrack-id: 412399
 born: "1962-03-03"
-wikidata-id: "Q1176561"
-website: "https://schweikert.house.gov"
-phone: "202-225-2190"
+wikidata-id: Q1176561
+website: https://schweikert.house.gov
+phone: 202-225-2190
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H4AZ06045"
+fec-candidate-id: H4AZ06045
 bills-sponsored: 25
 bills-cosponsored: 121
 bills-enacted: 0
-top-policy-area: "Taxation"
+top-policy-area: Taxation
+top-donors: "[[MAJORITY PAC]], [[Anthem - Elevance Health]], [[WinRed]], [[Save America PAC]], [[Congressional Leadership Fund]], [[Associated General Contractors of America Political Action Committee]], [[NRCC - National Republican Congressional Committee]], [[Jason Smith]], [[Johnson & Johnson]], [[Northrop Grumman]], [[Americans for Prosperity]], [[Republican Jewish Coalition]], [[Activate America]], [[Tom McClintock]], [[Marathon Petroleum]], [[Walmart - Walton Family]], [[Ben Cline]], [[CVS Health - Aetna]], [[Pete Sessions]], [[Google - Alphabet]], [[Ron Estes]], [[Austin Scott]], [[Planned Parenthood Votes]], [[Byron Donalds]], [[Mike Haridopolos]], [[Jake Ellzey]], [[Brad Knott]], [[Comcast - NBCUniversal]], [[Microsoft]], [[Clearpath Action Fund, Inc.]], [[Pfizer Inc.]], [[National Multifamily Housing Council]], [[Glenn Grothman]], [[Hmp]], [[National Rental Home Council]], [[Humana]], [[Vern Buchanan]], [[Eric Burlison]], [[Coinbase]], [[Club for Growth INC PAC]], [[Women Speak Out Pac]], [[Gilead Sciences]], [[DCCC - Democratic Congressional Campaign Committee]], [[Darrell Issa]], [[August Pfluger]], [[Mike Collins]], [[National Association of Realtors]], [[Rick W. Allen]], [[Scott Franklin]], [[Amgen Inc]], [[Club for Growth]], [[Progressive Turnout Project]], [[National Rifle Association]], [[Adrian Smith]], [[Andy Harris]], [[Indivisible Action]], [[Honeywell]], [[American Gaming Association]], [[General Dynamics]], [[Edf Action Votes]], [[American Dream Federal Action]], [[Lockheed Martin]], [[AIPAC - American Israel Public Affairs Committee]], [[Kevin Kiley]], [[American Hospital Association PAC]], [[Cliff Bentz]], [[Nathaniel Moran]], [[Ralph Norman]], [[American Conservative Union]], [[National Association of Manufacturers]], [[David Rouzer]], [[Raytheon (RTX)]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Carlos Gimenez]], [[ConocoPhillips]], [[National Right to Life Victory Fund]], [[Jim Jordan]], [[Freedom's Defense Fund]], [[Chevron]], [[Duke Energy]], [[Campaign for Working Families]], [[314 ACTION FUND]]"
 ---
 
 

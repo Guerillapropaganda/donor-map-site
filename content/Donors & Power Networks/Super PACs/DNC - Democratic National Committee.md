@@ -1,22 +1,22 @@
 ---
-title: "DNC - Democratic National Committee"
+title: DNC - Democratic National Committee
 type: donor
 content-readiness: raw
 editorial-status: stub
-sector: "Political Committees"
-entity-type: "PAC"
-last-updated: 2026-04-14
+sector: Political Committees
+entity-type: PAC
+last-updated: 2026-04-14T00:00:00.000Z
 source-tier: 1
 aliases:
-  - "DNC SERVICES CORPORATION/DEMOCRATIC NATIONAL COMMITTEE"
+  - DNC SERVICES CORPORATION/DEMOCRATIC NATIONAL COMMITTEE
 known-gaps:
-  - "Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis."
+  - Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis.
 ofac-sdn-match: "true"
 last-enriched: "2026-04-14"
 ofac-programs:
-  - "BALKANS"
-  - "BELARUS"
-  - "GLOMAG"
+  - BALKANS
+  - BELARUS
+  - GLOMAG
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -28,6 +28,7 @@ individual-contributions: 1372456
 employee-contributions: 458
 employee-contributions-total: 147449
 employee-donor-count: 159
+politicians-funded: "[[_Adriano Espaillat Master Profile]], [[_Jimmy Gomez Master Profile]], [[_Debbie Wasserman Schultz Master Profile]], [[Democratic Party of Virginia]], [[Catherine Cortez Masto]], [[_Deb Haaland Master Profile]], [[WinRed]], [[_Summer Lee Master Profile]], [[_Jim Jordan Master Profile]], [[_Cory Booker Master Profile]], [[_Gabe Amo Master Profile]], [[Emily's List]], [[_Josh Riley Master Profile]], [[_Kamala Harris Master Profile]], [[ActBlue]], [[Kamala Harris]], [[_Kweisi Mfume Master Profile]], [[_Tammy Baldwin Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Bonnie Watson Coleman Master Profile]], [[Brendan Boyle]], [[Donald Trump]], [[Chrissy Houlahan]], [[Lisa Blunt Rochester]], [[Summer Lee]], [[Bob Casey]], [[DNC - Democratic National Committee]], [[Jamie Raskin]], [[_Marco Rubio Master Profile]], [[MAGA Inc]], [[Debbie Wasserman Schultz]], [[Tammy Baldwin]], [[Gabe Amo]], [[Cory Booker]], [[Kweisi Mfume]], [[Adriano Espaillat]], [[Bonnie Watson Coleman]], [[Deb Haaland]], [[Jimmy Gomez]], [[Marco Rubio]], [[Jim Jordan]], [[Josh Riley]]"
 ---
 
 

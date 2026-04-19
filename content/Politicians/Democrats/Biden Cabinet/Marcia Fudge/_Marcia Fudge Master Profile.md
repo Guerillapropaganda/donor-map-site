@@ -1,18 +1,19 @@
 ---
-title: "Marcia Fudge"
+title: Marcia Fudge
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "Secretary of HUD (2021-2024)"
+party: Democrat
+chamber: Secretary of HUD (2021-2024)
 known-gaps:
-  - "No mapped relationships"
-  - "No donor network analysis"
+  - No mapped relationships
+  - No donor network analysis
 source-types:
   - Congress
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H8OH11141"
+fec-candidate-id: H8OH11141
+top-donors: "[[Planned Parenthood Votes]], [[Amazon]], [[Meta - Facebook]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[American Gaming Association]], [[US CHAMBER OF COMMERCE]], [[Cigna Group]], [[Cargill]]"
 ---
 
 

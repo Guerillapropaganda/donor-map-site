@@ -24,7 +24,7 @@ known-gaps:
   - No legislative record from Congress.gov
   - No mapped relationships
 related: "[[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Securities & Investment Industry]] · [[_Nancy Pelosi Master Profile]]"
-donors: "[[Republican Jewish Coalition]], [[Sierra Club Independent Action]], [[Mainstream Democrats Pac]], [[Protect Progress]], [[TZEDEK PAC]], [[Tzedek PAC]]"
+donors: "[[Republican Jewish Coalition]], [[Sierra Club Independent Action]], [[Mainstream Democrats Pac]], [[Protect Progress]], [[TZEDEK PAC]], [[Tzedek PAC]], [[League of Conservation Voters]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Everytown for Gun Safety]], [[National Association of Realtors]], [[UA Political Action Committee]], [[EQUALITY PROJECT PAC]], [[Pete Aguilar]], [[Ted Lieu]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AT&T - WarnerMedia]], [[DMFI - Democratic Majority for Israel]], [[American Hospital Association PAC]], [[Giffords PAC]], [[NEA Fund for Children and Public Education]], [[Nancy Pelosi]], [[SEIU COPE]], [[DCCC - Democratic Congressional Campaign Committee]], [[Kevin Mullin]], [[J Street]], [[AIPAC - American Israel Public Affairs Committee]], [[Let America Vote PAC]], [[IBEW - International Brotherhood of Electrical Workers]], [[National Nurses United]], [[Jamie Raskin]], [[Unite Here Tip Campaign Committee]]"
 urls-first-triaged: "2026-04-15"
 ---
 

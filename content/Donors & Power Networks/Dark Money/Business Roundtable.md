@@ -2,34 +2,34 @@
 title: Business Roundtable
 type: donor
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Dark Money
 entity-type: Individual Donor
-politicians-funded: "[[J. Luis Correa]], [[Donald Trump]], [[Linda T. Sanchez]]"
+politicians-funded: "[[J. Luis Correa]], [[Donald Trump]], [[Linda T. Sanchez]], [[_Chris Pappas Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Elissa Slotkin Master Profile]], [[WinRed]], [[_Angie Craig Master Profile]], [[_Marco Rubio Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[_Andy Barr Master Profile]], [[RNC - Republican National Committee]], [[_Jason Smith Master Profile]], [[_Tim Scott Master Profile]], [[_Don Bacon Master Profile]], [[American Action Network]], [[_Brian Jack Master Profile]], [[_Susie Lee Master Profile]], [[_Pete Aguilar Master Profile]], [[MAJORITY PAC]], [[_David Rouzer Master Profile]], [[_Jared Moskowitz Master Profile]], [[ActBlue]], [[_Chrissy Houlahan Master Profile]], [[_Mike Kelly Master Profile]], [[CHC BOLD PAC]], [[Chris Christie]], [[NRCC - National Republican Congressional Committee]], [[Nancy Mace]], [[Bipartisan Policy Center]], [[Marco Rubio]], [[Jason Smith]], [[Tim Scott]], [[Susie Lee]], [[Chris Pappas]], [[Don Bacon]], [[Brian Jack]], [[Elissa Slotkin]], [[Andy Barr]], [[David Rouzer]], [[Jared Moskowitz]], [[Angie Craig]], [[Pete Aguilar]], [[Chrissy Houlahan]], [[Mike Kelly]]"
 issues:
   - Labor & Workers
 lobbying-spend: 4861010
 lobbying-filings: 104
 ein: 237236607
-annual-revenue: "$64.5M"
-net-assets: "$47.8M"
+annual-revenue: $64.5M
+net-assets: $47.8M
 tax-year: "2023"
 last-enriched: "2026-04-18"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
 federal-register-mentions: 172
 regulatory-agencies:
-  - "Environmental Protection Agency"
-  - "Homeland Security Department"
-  - "Interior Department"
-  - "Justice Department"
-  - "Labor Department"
-  - "Ocean Energy Management Bureau"
-  - "Safety and Environmental Enforcement Bureau"
-  - "Securities and Exchange Commission"
-  - "Veterans Employment and Training Service"
+  - Environmental Protection Agency
+  - Homeland Security Department
+  - Interior Department
+  - Justice Department
+  - Labor Department
+  - Ocean Energy Management Bureau
+  - Safety and Environmental Enforcement Bureau
+  - Securities and Exchange Commission
+  - Veterans Employment and Training Service
 related: "[[National Association of Manufacturers]] · [[The Agriculture Committee and Farm Bill Politics]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[The Agriculture Committee and Minnesota Suburbs]] · [[The Ways and Means Chair and TCJA Extension]] · [[Akin Gump Strauss Hauer & Feld]] · [[US Chamber of Commerce]] · [[JPMorgan Chase]] · [[Goldman Sachs]] · [[Koch Network - Charles Koch]] · [[Blackstone Group]] · [[_Donald Trump Master Profile|Donald Trump]] · [[DeVos Family]] · [[National Education Association]] · [[American Federation for Children]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[Defense Industry Bloc]] · [[American Iron and Steel Institute]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Federalist Society]] · [[Donors Capital Fund]] · [[Demand Justice]] · [[Legal Sector Donors]] · [[Ocean Conservancy]] · [[Ohio Democratic Party]] · [[New Venture Fund]] · [[National Progressive Donor Networks]] · [[Media Matters]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Entertainment and Hollywood Donors]] · [[Democratic Small Dollar Networks]] · [[Democratic Party Infrastructure]] · [[Democratic Donor Network]] · [[Democracy Alliance]] · [[Council for National Policy]] · [[Conservative Partnership Institute]] · [[Concerned Veterans for America]] · [[CREW - Citizens for Responsibility and Ethics in Washington]] · [[Bradley Impact Fund]] · [[Bradley Foundation]] · [[Arabella Advisors]] · [[Americans for Tax Reform - Grover Norquist]] · [[American Enterprise Institute]]"
 sec-filings: 10000
 sec-form-types:
@@ -47,9 +47,9 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 nonprofit-status: 501(c)(6)
 total-revenue: 79436895
 total-assets: 50178043
-wikidata-id: "Q5001792"
-wikipedia-url: "https://en.wikipedia.org/wiki/Business_Roundtable"
-wikipedia-extract: "The Business Roundtable (BRT) is a nonprofit lobbyist association based in Washington, D.C. whose members are chief executive officers of major U.S. companies."
+wikidata-id: Q5001792
+wikipedia-url: https://en.wikipedia.org/wiki/Business_Roundtable
+wikipedia-extract: The Business Roundtable (BRT) is a nonprofit lobbyist association based in Washington, D.C. whose members are chief executive officers of major U.S. companies.
 total-political-spend: $110,825
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -491,3 +491,50 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/237236607/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/237236607/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/237236607/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 7 (2016–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | $50.2M |
+| Grants paid out | $2.6M |
+
+**Lifetime grants out (2016–2024):** $14.6M across 78 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| FARMERS FOR FREE TRADE | $5.4M | 5 | 2018–2024 |
+| TRADE BENEFITS AMERICA COALITION INC | $1.1M | 2 | 2018–2019 |
+| TAX FOUNDATION | $1.1M | 6 | 2018–2024 |
+| AMERICAN ACTION NETWORK | $700K | 2 | 2022–2023 |
+| BUSINESS ROUNDTABLE ACTION | $574K | 4 | 2020–2024 |
+| BIPARTISAN POLICY CENTER | $425K | 2 | 2023–2024 |
+| AMERICANS FOR TAX REFORM | $350K | 4 | 2019–2024 |
+| BUILDING AMERICA'S FUTURE | $300K | 1 | 2020 |
+| CENTER FOR A NEW AMERICAN SECURITY INC | $300K | 2 | 2023–2024 |
+| BIPARTISAN POLICY CENTER ACTION | $275K | 2 | 2023–2024 |
+| NATIONAL GOV ASSOC CENTER FOR BEST PRACTICES | $230K | 3 | 2022–2024 |
+| THIRD WAY | $200K | 4 | 2020–2024 |
+| UNITED FOR INFRASTRUCTURE | $200K | 4 | 2020–2024 |
+| CENTER FORWARD | $191K | 5 | 2019–2024 |
+| AMERICAN ACTION FORUM | $190K | 2 | 2022–2024 |
+| THE FAITH AND POLITICS INSTITUTE | $152K | 6 | 2018–2024 |
+| REPUBLICAN MAIN STREET PARTNERSHIP | $150K | 5 | 2019–2024 |
+| THE RIPON SOCIETY | $122K | 3 | 2022–2024 |
+| THE CONGRESSIONAL INSTITUTE | $115K | 4 | 2020–2024 |
+| GOVERNING MAJORITY EDUCATION FUND | $115K | 3 | 2022–2024 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

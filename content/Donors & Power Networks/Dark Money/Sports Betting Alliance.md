@@ -201,3 +201,50 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/874117395/2023)~~ (URL broken, archived by Ops)
 - ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/874117395/2022)~~ (URL broken, archived by Ops)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Sports%20Betting%20Alliance%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 3 (2022–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $31.6M |
+| Total expenses | — |
+| Total assets (EOY) | $15.4M |
+| Grants paid out | $1.0M |
+
+**Lifetime grants out (2022–2024):** $1.0M across 24 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| GIVE ALABAMA A VOICE | $100K | 1 | 2024 |
+| GEORGIA'S FUTURE INC | $100K | 1 | 2024 |
+| BLACK EXCELLENCE IN BLUE NFP | $100K | 1 | 2024 |
+| MOVING NC FORWARD | $100K | 1 | 2024 |
+| AMERICA WORKS USA | $100K | 1 | 2024 |
+| COLORADO WAY FORWARD | $95K | 1 | 2024 |
+| AMERICANS FOR TAX REFORM | $50K | 1 | 2024 |
+| 21ST CENTURY FUND | $50K | 1 | 2024 |
+| OPPORTUNITY FOR NC INC | $35K | 1 | 2024 |
+| BOLDLY FORWARD COLORADO | $25K | 1 | 2024 |
+| MAKING MICHIGAN STRONGER | $25K | 1 | 2024 |
+| ACCOUNTABILITY FOR GOVERNMENT FUND | $25K | 1 | 2024 |
+| GREATER CAROLINA INC | $25K | 1 | 2024 |
+| MAJORITY RISING NC | $25K | 1 | 2024 |
+| MOVING NJ TOGETHER INC | $25K | 1 | 2024 |
+| NEW YORK STATE ASSOCIATION OF BLACK &amp; | $25K | 1 | 2024 |
+| ALL TOGETHER COLORADO | $20K | 1 | 2024 |
+| CAROLINA PARTNERSHIP FOR REFORM INC | $20K | 1 | 2024 |
+| CAROLINA LEADERSHIP COALITION INC | $20K | 1 | 2024 |
+| MICHIGAN EMPOWERMENT FUND | $15K | 1 | 2024 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

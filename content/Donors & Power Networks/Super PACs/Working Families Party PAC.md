@@ -5,16 +5,16 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00606962
 aliases:
-  - "WORKING FAMILIES PARTY PAC"
-  - "WFP NATIONAL PAC"
-  - "Working Families Party"
+  - WORKING FAMILIES PARTY PAC
+  - WFP NATIONAL PAC
+  - Working Families Party
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
-politicians-funded: "[[Cori Bush]], [[Summer Lee]], [[Raul Grijalva]], [[George Latimer]], [[Wesley Bell]]"
+politicians-funded: "[[Cori Bush]], [[Summer Lee]], [[Raul Grijalva]], [[George Latimer]], [[Wesley Bell]], [[Rashida Tlaib]], [[ActBlue]], [[Donald Trump]], [[Working Families Party PAC]], [[Wfp Ie Committee]], [[Tammy Baldwin]], [[Vicente Gonzalez]], [[Yassamin Ansari]], [[_Summer Lee Master Profile]], [[Kamala Harris]], [[Raphael Warnock]], [[Maxwell Frost]], [[Henry Cuellar]], [[Sherrod Brown]], [[Ilhan Omar]], [[Adam Gray]], [[Josh Riley]], [[Jamaal Bowman]], [[Andrea Salinas]], [[Ayanna Pressley]], [[Maxine Dexter]], [[Jahana Hayes]], [[John Fetterman]], [[Teresa Leger Fernandez]], [[Nina Turner]], [[_Rashida Tlaib Master Profile]]"
 related: "[[Wesley Bell]] · [[Summer Lee]] · [[Raul Grijalva]] · [[George Latimer]] · [[Cori Bush]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

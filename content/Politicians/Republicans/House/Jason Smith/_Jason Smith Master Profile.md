@@ -24,7 +24,7 @@ bills-sponsored: 123
 bills-cosponsored: 1080
 website: https://jasonsmith.house.gov
 phone: 202-225-4404
-donors: "[[American Gaming Association]] · [[National Association of Manufacturers]] · [[Tech Industry]] · [[National Restaurant Association]] · [[ActBlue]] · [[Real Estate Roundtable]]"
+donors: "[[American Gaming Association]] · [[National Association of Manufacturers]] · [[Tech Industry]] · [[National Restaurant Association]] · [[ActBlue]] · [[Real Estate Roundtable]] · [[WinRed]] · [[Northrop Grumman]] · [[Bank of America]] · [[AT&T - WarnerMedia]] · [[General Motors]] · [[Honeywell]] · [[AbbVie]] · [[Morgan Stanley]] · [[Anthem - Elevance Health]] · [[Johnson & Johnson]] · [[National Rifle Association]] · [[Duke Energy]] · [[General Dynamics]] · [[National Cattlemen's Beef Association]] · [[Tenet Healthcare]] · [[Associated General Contractors of America Political Action Committee]] · [[Occidental Petroleum]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[Humana]] · [[Valero Energy]] · [[Coinbase]] · [[Walmart - Walton Family]] · [[Comcast - NBCUniversal]] · [[NextEra Energy]] · [[Lockheed Martin]] · [[ConocoPhillips]] · [[iHeartMedia]] · [[Ford Motor Company]] · [[Devon Energy]] · [[Microsoft]] · [[Nucor Corporation]] · [[CVS Health - Aetna]] · [[ADM - Archer Daniels Midland]] · [[National Multifamily Housing Council]] · [[Amgen Inc]] · [[Tyson Foods]] · [[Care Action]] · [[Google - Alphabet]] · [[Raytheon (RTX)]] · [[AIPAC - American Israel Public Affairs Committee]] · [[American Hospital Association PAC]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Chevron]] · [[Citigroup]] · [[National Association of Realtors]] · [[McDonalds Corporation]] · [[Marathon Petroleum]] · [[MAJORITY PAC]] · [[Leidos]] · [[Gilead Sciences]] · [[American College of Radiology Association PAC]] · [[PG&E - Pacific Gas and Electric]] · [[American Chemistry Council, INC]] · [[Pfizer Inc.]] · [[David Rouzer]] · [[Performance Racing Inc.]] · [[Halliburton]] · [[Business Roundtable]] · [[Centene Corporation]] · [[Eli Lilly]] · [[Enterprise Products Partners]] · [[Tesla - Elon Musk Political Operation]] · [[Blackstone Group]] · [[JPMorgan Chase]] · [[Monsanto - Bayer]] · [[Apollo Global Management]] · [[Apple]] · [[MassMutual]] · [[Carlyle Group]] · [[Charles Schwab]] · [[LET FREEDOM RING INC]] · [[Citadel - Kenneth Griffin]]"
 related: "[[Real Estate Lobby Funds the Housing Crisis From Both Sides]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[Real Estate Roundtable]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Mike Crapo]]"
 bioguide-id: S001195
 issues:
@@ -40,8 +40,8 @@ issues:
   - Foreign Trade and International Finance
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 bills-enacted: 1
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "International Affairs"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: International Affairs
 ---
 
 

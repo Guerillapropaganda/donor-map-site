@@ -5,14 +5,14 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00540443
 aliases:
   - GIFFORDS PAC
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
-politicians-funded: "[[Mario Diaz-Balart]]"
+politicians-funded: "[[Mario Diaz-Balart]], [[Josh Riley]], [[Sherrod Brown]], [[Kristen McDonald Rivet]], [[Chrissy Houlahan]], [[Roy Cooper]], [[Brittany Pettersen]], [[Rosa DeLauro]], [[Dina Titus]], [[Jerrold Nadler]], [[Mike Thompson]], [[Marilyn Strickland]], [[Alex Padilla]], [[Hakeem Jeffries]], [[Jamaal Bowman]], [[Eric Sorensen]], [[George Whitesides]], [[Jon Ossoff]], [[Susie Lee]], [[Andrea Salinas]], [[Steven Horsford]], [[Kim Schrier]], [[Maxwell Frost]], [[Donald Trump]], [[Sharice Davids]], [[Jason Crow]], [[Carlos Gimenez]], [[Dan Goldman]], [[Josh Harder]], [[Mike Levin]], [[Ruben Gallego]], [[Adam Schiff]], [[Seth Magaziner]], [[Chris Pappas]], [[Amy Klobuchar]], [[Nikki Budzinski]], [[Debbie Wasserman Schultz]], [[Debbie Dingell]], [[Robert Garcia]], [[Patty Murray]], [[Raul Ruiz]], [[Patrick Ryan]], [[Tammy Duckworth]], [[John Fetterman]], [[Derek Tran]], [[Sara Jacobs]], [[Lateefah Simon]], [[Michael Lawler]], [[Lois Frankel]], [[Veronica Escobar]], [[Jacky Rosen]], [[Pete Aguilar]], [[Sydney Kamlager-Dove]], [[Julia Brownley]], [[Madeleine Dean]], [[Judy Chu]], [[Laura Gillen]], [[Jamie Raskin]], [[Cori Bush]], [[Morgan McGarvey]], [[Ron Wyden]], [[Richard Blumenthal]], [[Raphael Warnock]], [[Nikema Williams]], [[Andy Kim]], [[Jake Auchincloss]], [[Joyce Beatty]], [[Lori Trahan]], [[Peter Welch]], [[Kweisi Mfume]], [[Dave Min]], [[Vicente Gonzalez]], [[Frank Pallone]], [[Jahana Hayes]], [[Sean Casten]], [[Summer Lee]], [[Chris van Hollen]], [[Brian Schatz]], [[Lauren Underwood]], [[Teresa Leger Fernandez]], [[Catherine Cortez Masto]], [[Shontel Brown]], [[John Hickenlooper]], [[Martin Heinrich]], [[Pramila Jayapal]], [[Dwight Evans]], [[Elissa Slotkin]], [[Ayanna Pressley]], [[Lisa Blunt Rochester]], [[Jared Moskowitz]], [[Nancy Pelosi]], [[Ritchie Torres]]"
 related: "[[Mario Diaz-Balart]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

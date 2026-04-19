@@ -1,33 +1,33 @@
 ---
-title: "Ruben Gallego"
+title: Ruben Gallego
 type: politician
 content-readiness: raw
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "Senate"
-state: "Arizona"
-state-abbr: "AZ"
-bioguide-id: "G000574"
+party: Democrat
+chamber: Senate
+state: Arizona
+state-abbr: AZ
+bioguide-id: G000574
 govtrack-id: 412612
 born: "1979-11-20"
-wikidata-id: "Q16218474"
-website: "https://www.gallego.senate.gov"
-phone: "202-224-4521"
+wikidata-id: Q16218474
+website: https://www.gallego.senate.gov
+phone: 202-224-4521
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
-donors: "[[Fairshake PAC]]"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
+donors: "[[Fairshake PAC]], [[Nucor Corporation]], [[Jon Ossoff]], [[Protect Progress]], [[Center Forward Committee]], [[Humana]], [[Putting People First Political Action Committee]], [[Sierra Club Independent Action]], [[Everytown for Gun Safety]], [[L3Harris Technologies]], [[National Nurses United for Patient Protection]], [[Club for Growth]], [[Jamie Raskin]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[SEIU COPE]], [[Morgan Stanley]], [[League of Conservation Voters]], [[Giffords PAC]], [[Amgen Inc]], [[ESAFUND]], [[United We Can]], [[AFSCME Working Families Fund]], [[PG&E - Pacific Gas and Electric]], [[Votevets]], [[Ted Lieu]], [[Adriano Espaillat]], [[IBEW - International Brotherhood of Electrical Workers]], [[Sierra Club Political Committee]], [[Google - Alphabet]], [[Anthem - Elevance Health]], [[Unite Here Tip Campaign Committee]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Raytheon (RTX)]], [[Pete Aguilar]], [[Lockheed Martin]], [[NextEra Energy]], [[Honeywell]], [[DMFI - Democratic Majority for Israel]], [[CHC BOLD PAC]], [[Everytown for Gun Safety Victory Fund]], [[Planned Parenthood Votes]], [[Teamsters - International Brotherhood of Teamsters]], [[AT&T - WarnerMedia]], [[Women Speak Out Pac]], [[Johnson & Johnson]], [[Pfizer Inc.]], [[WinSenate]], [[Let America Vote PAC]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Planned Parenthood Action Fund INC]], [[Duke Energy]], [[Human Rights Campaign Equality Votes]], [[National Committee to Preserve Social Security PAC]], [[NEA Fund for Children and Public Education]], [[Nancy Pelosi]], [[Senate Conservatives Fund]], [[Edf Action Votes]], [[SEIU - Service Employees International Union]], [[Activate America]], [[Progressive Turnout Project]], [[MoveOn.org Political Action]], [[Indivisible Action]]"
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "S4AZ00139"
+fec-candidate-id: S4AZ00139
 bills-sponsored: 42
 bills-cosponsored: 304
 bills-enacted: 1
-top-policy-area: "International Affairs"
+top-policy-area: International Affairs
 ---
 
 

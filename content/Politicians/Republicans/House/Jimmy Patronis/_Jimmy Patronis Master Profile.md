@@ -1,29 +1,30 @@
 ---
-title: "Jimmy Patronis"
+title: Jimmy Patronis
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Florida"
-state-abbr: "FL"
+party: Republican
+chamber: House
+state: Florida
+state-abbr: FL
 district: "1"
-bioguide-id: "P000622"
+bioguide-id: P000622
 govtrack-id: 457034
 born: "1972-04-13"
-wikidata-id: "Q6201036"
-website: "https://patronis.house.gov"
-phone: "202-225-4136"
+wikidata-id: Q6201036
+website: https://patronis.house.gov
+phone: 202-225-4136
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H6FL01390"
+fec-candidate-id: H6FL01390
+top-donors: "[[REPUBLICAN PARTY OF FLORIDA]], [[Republican Jewish Coalition]], [[National Association of Realtors]], [[Jim Jordan]], [[Comcast - NBCUniversal]], [[Defend American Jobs]], [[Freedom's Defense Fund]], [[AIPAC - American Israel Public Affairs Committee]], [[National Cattlemen's Beef Association]], [[American Conservative Union]], [[SPECIAL OPERATIONS FOR AMERICA]], [[Care Action]], [[NextEra Energy]], [[Law Enforcement for a Safer America Pac]], [[American Hospital Association PAC]], [[National Restaurant Association]], [[UA Political Action Committee]], [[National Rifle Association]], [[Anthem - Elevance Health]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Right to Life Victory Fund]], [[America PAC - Elon Musk]], [[Americans for Prosperity]], [[AT&T - WarnerMedia]]"
 ---
 
 

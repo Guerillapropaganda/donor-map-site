@@ -1,51 +1,51 @@
 ---
-title: "Monsanto - Bayer"
+title: Monsanto - Bayer
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Agriculture"
-entity-type: "Corporation"
+sector: Agriculture
+entity-type: Corporation
 issues:
-  - "Agriculture"
+  - Agriculture
 federal-register-mentions: 1
 last-enriched: "2026-04-07"
 regulatory-agencies:
-  - "Antitrust Division"
-  - "Justice Department"
+  - Antitrust Division
+  - Justice Department
 sec-filings: 127
 sec-form-types:
-  - "10-K"
-  - "20-F"
-  - "20-F/A"
-  - "40-24B2"
-  - "424B3"
-  - "424B4"
-  - "8-K"
-  - "DEFA14A"
-  - "DEFM14A"
-  - "DRS"
-  - "DRS/A"
-  - "EX-1"
-  - "EX-4.3"
-  - "EX-99"
-  - "EX-99.(C)(13)"
-  - "EX-99.(C)(III)"
-  - "EX-99.(C)(XXVI)"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "EX-99.3"
-  - "EX-99.4"
-  - "EX-99.5"
-  - "EX-99.6"
-  - "EX-99.7"
-  - "F-1"
-  - "F-1/A"
-  - "N-CSR"
-  - "N-CSRS"
-  - "PREM14A"
-  - "SC 14D9"
+  - 10-K
+  - 20-F
+  - 20-F/A
+  - 40-24B2
+  - 424B3
+  - 424B4
+  - 8-K
+  - DEFA14A
+  - DEFM14A
+  - DRS
+  - DRS/A
+  - EX-1
+  - EX-4.3
+  - EX-99
+  - EX-99.(C)(13)
+  - EX-99.(C)(III)
+  - EX-99.(C)(XXVI)
+  - EX-99.1
+  - EX-99.2
+  - EX-99.3
+  - EX-99.4
+  - EX-99.5
+  - EX-99.6
+  - EX-99.7
+  - F-1
+  - F-1/A
+  - N-CSR
+  - N-CSRS
+  - PREM14A
+  - SC 14D9
 related: "[[John Deere]] · [[The Farm Bill - The Bipartisan Subsidy Machine]] · [[The Oversight Legacy and Agricultural Protection]] · [[ADM - Archer Daniels Midland]] · [[Cargill]] · [[American Farm Bureau Federation]] · [[Koch Industries]] · [[Tyson Foods]] · [[Agribusiness Donor Bloc]]"
 lobbying-spend: 840000
 lobbying-filings: 16
@@ -53,10 +53,11 @@ cross-vault-triangulation-count: 9
 audit-a-plus-passed: "2026-04-11"
 urls-first-triaged: "2026-04-15"
 epa-facilities: 76
-epa-states: "AL, AZ, CA, CT, FL, GA, HI, IA, IL, IN, KS, KY, MA, MI, MN, MO, MS, NC, NE, NJ, OH, OR, PA, PR, SC, TN, TX, VA, WI, WV, WY"
+epa-states: AL, AZ, CA, CT, FL, GA, HI, IA, IL, IN, KS, KY, MA, MI, MN, MO, MS, NC, NE, NJ, OH, OR, PA, PR, SC, TN, TX, VA, WI, WV, WY
 employee-contributions: 3875
 employee-contributions-total: 444029
 employee-donor-count: 705
+politicians-funded: "[[WinRed]], [[ActBlue]], [[Bob Casey]], [[RNC - Republican National Committee]], [[American Chemistry Council, INC]], [[Conservative Outsider Pac Inc]], [[The Lincoln Project]], [[Mark Kelly]], [[SPECIAL OPERATIONS FOR AMERICA]], [[DCCC - Democratic Congressional Campaign Committee]], [[MoveOn.org Political Action]], [[MAGA Inc]], [[Save America PAC]], [[National Right to Life Victory Fund]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Ted Cruz Master Profile]], [[_Nancy Pelosi Master Profile]], [[National Cattlemen's Beef Association]], [[NRSC - National Republican Senatorial Committee]], [[Giffords PAC]], [[_Marco Rubio Master Profile]], [[Catherine Cortez Masto]], [[Indivisible Action]], [[_David Rouzer Master Profile]], [[_Ann Wagner Master Profile]], [[Emily's List]], [[_Kevin Kiley Master Profile]], [[NRCC - National Republican Congressional Committee]], [[_Josh Hawley Master Profile]], [[Progressive Turnout Project]], [[_Andy Harris Master Profile]], [[Hmp]], [[_Melissa Bean Master Profile]], [[_Chris Pappas Master Profile]], [[CHC BOLD PAC]], [[Senate Conservatives Fund]], [[WinSenate]], [[_Cori Bush Master Profile]], [[Let America Vote PAC]], [[_Shontel Brown Master Profile]], [[_David Scott Master Profile]], [[AIPAC - American Israel Public Affairs Committee]], [[_Jason Smith Master Profile]], [[_Jon Ossoff Master Profile]], [[_Rashida Tlaib Master Profile]], [[Barbara Lee]], [[_Chrissy Houlahan Master Profile]], [[_Ron Johnson Master Profile]], [[_Angie Craig Master Profile]], [[David Scott]], [[Ron Johnson]], [[Jon Ossoff]], [[Josh Hawley]], [[Ann Wagner]], [[Angie Craig]], [[Nancy Pelosi]], [[David Rouzer]], [[Rashida Tlaib]], [[Andy Harris]], [[Ted Cruz]], [[Jason Smith]], [[Marco Rubio]], [[Cori Bush]], [[Melissa Bean]], [[Chris Pappas]], [[Shontel Brown]], [[Chrissy Houlahan]], [[Kevin Kiley]]"
 ---
 
 

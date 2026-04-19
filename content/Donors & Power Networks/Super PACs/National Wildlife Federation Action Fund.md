@@ -5,14 +5,14 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00476697
 aliases:
   - NATIONAL WILDLIFE FEDERATION ACTION FUND
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
-politicians-funded: "[[John Hoeven]]"
+politicians-funded: "[[John Hoeven]], [[Martin Heinrich]], [[Catherine Cortez Masto]], [[Mariannette Miller-Meeks]], [[Nikki Budzinski]], [[Maria Cantwell]], [[Andrea Salinas]], [[Mark Kelly]], [[Kim Schrier]], [[Lisa Murkowski]], [[Raul Grijalva]], [[Maria Elvira Salazar]], [[Sharice Davids]], [[Eric Sorensen]], [[Steve Daines]], [[Raphael Warnock]], [[John Boozman]], [[Kristen McDonald Rivet]], [[Marie Gluesenkamp Perez]], [[Mike Levin]]"
 related: "[[John Hoeven]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

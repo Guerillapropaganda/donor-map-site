@@ -2,12 +2,12 @@
 title: Pharmaceutical Industry
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Pharma & Healthcare
 entity-type: Individual Donor
-politicians-funded: "[[Kyrsten Sinema]], [[Barack Obama]], [[Joe Biden]], [[Pam Bondi]], [[Bernie Sanders]], [[Dick Durbin]]"
+politicians-funded: "[[Kyrsten Sinema]], [[Barack Obama]], [[Joe Biden]], [[Pam Bondi]], [[Bernie Sanders]], [[Dick Durbin]], [[DCCC - Democratic Congressional Campaign Committee]], [[ActBlue]], [[WinRed]], [[_Jon Ossoff Master Profile]], [[Jon Ossoff]]"
 issues:
   - Healthcare
   - Social Safety Net
@@ -396,3 +396,46 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 - ~~[The Hill: For Big Pharma, the revolving door keeps spinning](https://thehill.com/blogs/congress-blog/politics/452654-for-big-pharma-the-revolving-door-keeps-spinning/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Pharmaceutical%20Industry%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2018–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $4.1M |
+| Total expenses | — |
+| Total assets (EOY) | $615K |
+| Grants paid out | $565K |
+
+**Lifetime grants out (2018–2023):** $896K across 16 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| VoteVets Action Fund Inc | $500K | 1 | 2023 |
+| A PHILIP RANDOLPH INSTITUTE | $95K | 6 | 2018–2023 |
+| CMRAVE | $64K | 6 | 2018–2023 |
+| DIABETES RESEARCH INSTITUTE | $53K | 3 | 2021–2023 |
+| SMWI SCHOLARSHIP FUND | $24K | 4 | 2018–2022 |
+| NABTU CONFERENCE | $20K | 2 | 2022–2023 |
+| NABTU CONFERENCE FUND | $20K | 2 | 2018–2019 |
+| THE NATIONAL DEMOCRATIC CLUB | $20K | 2 | 2022–2023 |
+| NATIONAL DEMOCRATIC CLUB | $19K | 3 | 2018–2020 |
+| NCCMP | $18K | 2 | 2018–2021 |
+| LABOR OF LOVE | $18K | 2 | 2018–2019 |
+| TRADES WOMEN BUILD NATIONS | $15K | 1 | 2020 |
+| PA AFL-CIO | $12K | 2 | 2020–2022 |
+| LCLAA | $8K | 1 | 2019 |
+| MARYLAND STATE AND DC AFL-CIO | $7K | 1 | 2019 |
+| NABTU | $5K | 1 | 2020 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

@@ -1,12 +1,12 @@
 ---
-title: "Securus Technologies - Aventiv"
+title: Securus Technologies - Aventiv
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Carceral State"
-entity-type: "Corporation"
+sector: Carceral State
+entity-type: Corporation
 subawards-issued: 50
 subawards-issued-amount: 51876611853
 subawards-received: 50
@@ -16,18 +16,17 @@ nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-18"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 cross-vault-triangulation-count: 10
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-lei: "549300EBCNNXVCJ2FW66"
-lei-jurisdiction: "US-DE"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+lei: 549300EBCNNXVCJ2FW66
+lei-jurisdiction: US-DE
 federal-contracts: 7
 federal-awards-total: 23323
 employee-contributions: 209
 employee-contributions-total: 25685
 employee-donor-count: 38
+politicians-funded: "[[_Yassamin Ansari Master Profile]], [[NRCC - National Republican Congressional Committee]], [[WinRed]], [[_Marco Rubio Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[ActBlue]], [[Bernie Moreno]], [[_Ted Cruz Master Profile]], [[RNC - Republican National Committee]], [[Marco Rubio]], [[Ted Cruz]], [[Yassamin Ansari]]"
 ---
 
 

@@ -1,40 +1,40 @@
 ---
-title: "Arabella Advisors"
+title: Arabella Advisors
 type: donor
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Dark Money"
-entity-type: "Individual Donor"
+sector: Dark Money
+entity-type: Individual Donor
 issues:
-  - "Dark Money & Campaign Finance"
-  - "Infrastructure"
+  - Dark Money & Campaign Finance
+  - Infrastructure
 related: "[[National Progressive Donor Networks]] · [[Sheldon Whitehouse]] · [[Sixteen Thirty Fund]] · [[New Venture Fund]] · [[Demand Justice]] · [[Democracy Alliance]] · [[George Soros]] · [[DonorsTrust]] · [[Leonard Leo]] · [[Ocean Conservancy]] · [[Trial Lawyers Fund]] · [[Open Society Foundations]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Democratic Party Infrastructure]] · [[Democratic Small Dollar Networks]] · [[Small Dollar Donors - ActBlue]] · [[Ohio Federation of Teachers]] · [[Ohio Democratic Party]] · [[Democratic Donor Network]] · [[Entertainment and Hollywood Donors]] · [[CREW - Citizens for Responsibility and Ethics in Washington]] · [[The Both-Sides Dark Money Illusion]] · [[Western Growers Association]] · [[Donors Capital Fund]] · [[Judicial Crisis Network]] · [[National Association of Manufacturers]] · [[Heritage Foundation]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Federalist Society]] · [[Council for National Policy]] · [[Conservative Partnership Institute]] · [[Concerned Veterans for America]] · [[Business Roundtable]] · [[Bradley Impact Fund]] · [[Bradley Foundation]] · [[Americans for Tax Reform - Grover Norquist]] · [[American Enterprise Institute]] · [[American Action Network]] · [[America First Policy Institute]] · [[Alliance Defending Freedom]] · [[ALEC - American Legislative Exchange Council]] · [[National Cattlemen's Beef Association]] · [[Fanjul Family - Florida Crystals]] · [[California Farm Bureau Federation]] · [[CA Farm Bureau Federation]] · [[American Farm Bureau Federation]]"
 known-gaps:
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
+  - No FEC contribution data
+  - No lobbying disclosure data
 sec-filings: 32
 sec-form-types:
-  - "10-K"
-  - "424B3"
-  - "424B4"
-  - "ARS"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "DEFM14A"
-  - "DRS"
-  - "DRS/A"
-  - "MA-I"
-  - "MA-I/A"
-  - "PREM14A"
-  - "PRER14A"
-  - "S-1"
-  - "S-1/A"
-  - "S-11"
-  - "S-11/A"
-  - "S-4"
-  - "S-4/A"
+  - 10-K
+  - 424B3
+  - 424B4
+  - ARS
+  - DEF 14A
+  - DEFA14A
+  - DEFM14A
+  - DRS
+  - DRS/A
+  - MA-I
+  - MA-I/A
+  - PREM14A
+  - PRER14A
+  - S-1
+  - S-1/A
+  - S-11
+  - S-11/A
+  - S-4
+  - S-4/A
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -42,6 +42,7 @@ urls-first-triaged: "2026-04-15"
 employee-contributions: 200
 employee-contributions-total: 48379
 employee-donor-count: 64
+politicians-funded: "[[The Lincoln Project]], [[ActBlue]], [[JUSTICE DEMOCRATS PAC]], [[DNC - Democratic National Committee]], [[Emily's List]], [[_Lauren Underwood Master Profile]], [[_Gabe Amo Master Profile]], [[_Adam Gray Master Profile]], [[Lauren Underwood]], [[Gabe Amo]], [[Adam Gray]]"
 ---
 
 

@@ -1,33 +1,34 @@
 ---
-title: "John Joyce"
+title: John Joyce
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Pennsylvania"
-state-abbr: "PA"
+party: Republican
+chamber: House
+state: Pennsylvania
+state-abbr: PA
 district: "13"
-bioguide-id: "J000302"
+bioguide-id: J000302
 govtrack-id: 412812
 born: "1957-02-08"
-wikidata-id: "Q60428839"
-website: "https://johnjoyce.house.gov"
-phone: "202-225-2431"
+wikidata-id: Q60428839
+website: https://johnjoyce.house.gov
+phone: 202-225-2431
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H8PA13125"
+fec-candidate-id: H8PA13125
 bills-sponsored: 19
 bills-cosponsored: 179
 bills-enacted: 1
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Anthem - Elevance Health]], [[American Chemistry Council, INC]], [[Pfizer Inc.]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[National Multifamily Housing Council]], [[Johnson & Johnson]], [[iHeartMedia]], [[National Rifle Association]], [[AT&T - WarnerMedia]], [[PG&E - Pacific Gas and Electric]], [[American Hospital Association PAC]], [[American College of Radiology Association PAC]], [[Google - Alphabet]], [[Lockheed Martin]], [[Duke Energy]], [[Marathon Petroleum]], [[Raytheon (RTX)]], [[American Gaming Association]], [[Honeywell]], [[Ford Motor Company]], [[General Motors]], [[Gilead Sciences]], [[Valero Energy]], [[Amgen Inc]], [[Humana]], [[Performance Racing Inc.]], [[Chevron]], [[National Association of Realtors]], [[CVS Health - Aetna]], [[Jim Jordan]], [[Tzedek PAC]], [[AbbVie]], [[WinRed]], [[Pennsylvania Pro-Life Federation PAC]], [[Microsoft]], [[National Restaurant Association]], [[Comcast - NBCUniversal]], [[MAJORITY PAC]], [[General Dynamics]], [[Walmart - Walton Family]]"
 ---
 
 

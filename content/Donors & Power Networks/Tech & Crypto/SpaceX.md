@@ -1,54 +1,53 @@
 ---
-title: "SpaceX"
+title: SpaceX
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Tech & Crypto"
-entity-type: "Corporation"
+sector: Tech & Crypto
+entity-type: Corporation
 issues:
-  - "Defense & Military"
+  - Defense & Military
 ein: 873059688
-annual-revenue: "$57K"
-net-assets: "$13K"
+annual-revenue: $57K
+net-assets: $13K
 tax-year: "2023"
 federal-register-mentions: 166
 last-enriched: "2026-04-09"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 regulatory-agencies:
-  - "Air Force Department"
-  - "Coast Guard"
-  - "Defense Department"
-  - "Environmental Protection Agency"
-  - "Federal Aviation Administration"
-  - "Federal Communications Commission"
-  - "Homeland Security Department"
-  - "Pipeline and Hazardous Materials Safety Administration"
-  - "Transportation Department"
-lei: "984500AB57A3B7E9AF80"
-lei-jurisdiction: "BE"
+  - Air Force Department
+  - Coast Guard
+  - Defense Department
+  - Environmental Protection Agency
+  - Federal Aviation Administration
+  - Federal Communications Commission
+  - Homeland Security Department
+  - Pipeline and Hazardous Materials Safety Administration
+  - Transportation Department
+lei: 984500AB57A3B7E9AF80
+lei-jurisdiction: BE
 related: "[[Invariant]] · [[Jeff Bezos]] · [[Elon Musk]] · [[Tesla - Elon Musk Political Operation]] · [[Lockheed Martin]] · [[Boeing]] · [[America PAC - Elon Musk]]"
 court-cases: 717
 court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "Court of Appeals for the Ninth Circuit"
-  - "Court of Appeals for the Second Circuit"
-  - "District Court, C.D. California"
-  - "District Court, D. Massachusetts"
-  - "District Court, D. New Jersey"
-  - "District Court, District of Columbia"
-  - "District Court, N.D. California"
-  - "District Court, S.D. Florida"
-  - "District Court, S.D. Texas"
+  - Court of Appeals for the D.C. Circuit
+  - Court of Appeals for the Ninth Circuit
+  - Court of Appeals for the Second Circuit
+  - District Court, C.D. California
+  - District Court, D. Massachusetts
+  - District Court, D. New Jersey
+  - District Court, District of Columbia
+  - District Court, N.D. California
+  - District Court, S.D. Florida
+  - District Court, S.D. Texas
 cross-vault-triangulation-count: 5
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 employee-contributions: 2144
 employee-contributions-total: 5823473
 employee-donor-count: 425
+politicians-funded: "[[_Laura Friedman Master Profile]], [[_Darrell Issa Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Mark Takano Master Profile]], [[_Thomas Massie Master Profile]], [[_Jon Ossoff Master Profile]], [[_Judy Chu Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[_Mark Harris Master Profile]], [[_Mike Collins Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Debbie Wasserman Schultz Master Profile]], [[_Sydney Kamlager-Dove Master Profile]], [[_Ted Cruz Master Profile]], [[_Ted Lieu Master Profile]], [[_Mike Levin Master Profile]], [[_Kamala Harris Master Profile]], [[ActBlue]], [[_Anna Paulina Luna Master Profile]], [[_George Whitesides Master Profile]], [[CHC BOLD PAC]], [[JUSTICE DEMOCRATS PAC]], [[WinRed]], [[NRCC - National Republican Congressional Committee]], [[_Josh Harder Master Profile]], [[REPUBLICAN PARTY OF FLORIDA]], [[Mark Kelly]], [[AIPAC - American Israel Public Affairs Committee]], [[MoveOn.org Political Action]], [[_Dave Min Master Profile]], [[Save America PAC]], [[_Tony Wied Master Profile]], [[RNC - Republican National Committee]], [[_Mike Rogers Master Profile]], [[_Gabe Vasquez Master Profile]], [[_Scott Wiener Master Profile]], [[_Martin Heinrich Master Profile]], [[Congressional Leadership Fund]], [[314 ACTION FUND]], [[_Sara Jacobs Master Profile]], [[_Lauren Boebert Master Profile]], [[MAGA Inc]], [[The Lincoln Project]], [[_Eric Burlison Master Profile]], [[Dave Min]], [[Mark Takano]], [[Laura Friedman]], [[Mike Collins]], [[Ted Cruz]], [[Eric Burlison]], [[Mike Levin]], [[Josh Harder]], [[Kamala Harris]], [[Thomas Massie]], [[Ted Lieu]], [[Anna Paulina Luna]], [[Scott Wiener]], [[Gabe Vasquez]], [[Tony Wied]], [[George Whitesides]], [[Debbie Wasserman Schultz]], [[Sara Jacobs]], [[Judy Chu]], [[Lauren Boebert]], [[Martin Heinrich]], [[Mark Harris]], [[Jon Ossoff]], [[Sydney Kamlager-Dove]], [[Mike Rogers]], [[Darrell Issa]]"
 ---
 
 
@@ -206,3 +205,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[NASA: SpaceX commercial crew contract](https://www.nasa.gov/humans-in-space/commercial-space/spacex/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_05_2024_prefixes_86-88%2F873059688_202312_990EZ_2024052322427085.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22SpaceX%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 2 (2023–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | $83K |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | — |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

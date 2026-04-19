@@ -1,41 +1,39 @@
 ---
-title: "iHeartMedia"
+title: iHeartMedia
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Media & Entertainment"
-entity-type: "Corporation"
+sector: Media & Entertainment
+entity-type: Corporation
 subawards-issued: 1
 subawards-issued-amount: 30000
 subawards-received: 1
 subawards-received-amount: 30000
-top-federal-agency: "Department of Veterans Affairs"
+top-federal-agency: Department of Veterans Affairs
 top-naics-code: "541810"
 related: "[[Sinclair Broadcast Group]] · [[News Corp - Fox Corporation]] · [[Comcast - NBCUniversal]] · [[Walt Disney Company]] · [[Verizon]] · [[AT&T]] · [[Telecom Industry]]"
 court-cases: 769
 last-enriched: "2026-04-08"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 court-jurisdictions:
-  - "District Court, C.D. California"
-  - "District Court, D. Maryland"
-  - "District Court, N.D. California"
-  - "District Court, W.D. Texas"
-  - "United States Bankruptcy Court, D. Colorado"
-  - "United States Bankruptcy Court, D. Maryland"
-  - "United States Bankruptcy Court, E.D. North Carolina"
-  - "United States Bankruptcy Court, E.D. Tennessee"
-  - "United States Bankruptcy Court, E.D. Virginia"
-  - "United States Bankruptcy Court, S.D. Texas"
+  - District Court, C.D. California
+  - District Court, D. Maryland
+  - District Court, N.D. California
+  - District Court, W.D. Texas
+  - United States Bankruptcy Court, D. Colorado
+  - United States Bankruptcy Court, D. Maryland
+  - United States Bankruptcy Court, E.D. North Carolina
+  - United States Bankruptcy Court, E.D. Tennessee
+  - United States Bankruptcy Court, E.D. Virginia
+  - United States Bankruptcy Court, S.D. Texas
 federal-awards-total: 0
 federal-contracts-count: 3
 federal-grants-count: 0
 cross-vault-triangulation-count: 6
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 total-raised: 332489
 total-spent: 335435
 cash-on-hand: 59632
@@ -44,6 +42,7 @@ contributions-to-committees: 334000
 employee-contributions: 1446
 employee-contributions-total: 203645
 employee-donor-count: 204
+politicians-funded: "[[ActBlue]], [[Really American Pac]], [[Roger Wicker]], [[Rick Crawford]], [[Joe Manchin]], [[Veronica Escobar]], [[Tom Cole]], [[Eric Schmitt]], [[Gregory Meeks]], [[John Joyce]], [[Chris Coons]], [[Richard Hudson]], [[John Thune]], [[Rosa DeLauro]], [[Ted Cruz]], [[Martin Heinrich]], [[iHeartMedia]], [[_Ted Cruz Master Profile]], [[Joni Ernst]], [[_Jon Ossoff Master Profile]], [[_Ann Wagner Master Profile]], [[Alex Padilla]], [[Patty Murray]], [[Chrissy Houlahan]], [[Thomas Massie]], [[Kathy Castor]], [[Brett Guthrie]], [[Michelle Fischbach]], [[Progressive Turnout Project]], [[Susan Collins]], [[_Lamonica McIver Master Profile]], [[_Mark Alford Master Profile]], [[Steven Horsford]], [[Victoria Spartz]], [[WinRed]], [[Zoe Lofgren]], [[Human Rights Campaign Equality Votes]], [[MAGA Inc]], [[David Rouzer]], [[Mike Rounds]], [[Mark Kelly]], [[Debbie Dingell]], [[DCCC - Democratic Congressional Campaign Committee]], [[Brendan Boyle]], [[Kat Cammack]], [[Dan Sullivan]], [[Jacky Rosen]], [[Jodey Arrington]], [[Kay Granger]], [[Jeanne Shaheen]], [[Tammy Baldwin]], [[Jason Smith]], [[Josh Gottheimer]], [[_Joe Neguse Master Profile]], [[Steve Daines]], [[Lisa Murkowski]], [[Darren Soto]], [[John Boozman]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Mike Quigley]], [[Nicole Malliotakis]], [[MoveOn.org Political Action]], [[Deb Fischer]], [[_Chrissy Houlahan Master Profile]], [[Mike Flood]], [[Andy Biggs]], [[Adriano Espaillat]], [[Tammy Duckworth]], [[Gary Peters]], [[Troy Balderson]], [[Michael Guest]], [[Frank Pallone]], [[Chris van Hollen]], [[Steve Womack]], [[VIEW PAC - Value in Electing Women]], [[RNC - Republican National Committee]], [[Jamie Raskin]], [[Mariannette Miller-Meeks]], [[Lamonica McIver]], [[Marcy Kaptur]], [[Joyce Beatty]], [[Jack Reed]], [[Brian Babin]], [[Dusty Johnson]], [[Ron Wyden]], [[Scott Fitzgerald]], [[_Kamala Harris Master Profile]], [[Richard Blumenthal]], [[David Kustoff]], [[The Lincoln Project]], [[Paul Tonko]], [[August Pfluger]], [[Jerrold Nadler]], [[_John James Master Profile]], [[_Ben Cline Master Profile]], [[Nancy Mace]], [[Catherine Cortez Masto]], [[_Cory Booker Master Profile]], [[Cliff Bentz]], [[Brian Schatz]], [[_Angie Craig Master Profile]], [[Madeleine Dean]], [[Dan Crenshaw]], [[Rick Larsen]], [[Kevin Cramer]], [[Pete Aguilar]], [[Rick Scott]], [[Hakeem Jeffries]], [[Chip Roy]], [[_Veronica Escobar Master Profile]], [[Shelley Moore Capito]], [[Elise Stefanik]], [[Cathy McMorris Rodgers]], [[Richard Neal]], [[Lindsey Graham]], [[Peter Welch]], [[Greg Stanton]], [[Burgess Owens]], [[Mike Lee]], [[Markwayne Mullin]], [[Ron Estes]], [[Bryan Steil]], [[_Nancy Pelosi Master Profile]], [[Katie Britt]], [[Vicente Gonzalez]], [[Kevin McCarthy]], [[Sherrod Brown]], [[John Hoeven]], [[Russell Fry]], [[Todd Young]], [[NRSC - National Republican Senatorial Committee]], [[Ted Lieu]], [[Dwight Evans]], [[_Thomas Massie Master Profile]], [[Tim Scott]], [[_Lisa Blunt Rochester Master Profile]], [[WinSenate]], [[Cory Booker]], [[Mark Alford]], [[Jon Ossoff]], [[Ann Wagner]], [[John James]], [[Joe Neguse]], [[Ben Cline]], [[Lisa Blunt Rochester]], [[Kamala Harris]], [[Angie Craig]], [[Nancy Pelosi]]"
 ---
 
 

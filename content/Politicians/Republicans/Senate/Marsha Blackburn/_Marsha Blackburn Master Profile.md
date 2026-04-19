@@ -1,32 +1,33 @@
 ---
-title: "Marsha Blackburn"
+title: Marsha Blackburn
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "Senate"
-state: "Tennessee"
-state-abbr: "TN"
-bioguide-id: "B001243"
+party: Republican
+chamber: Senate
+state: Tennessee
+state-abbr: TN
+bioguide-id: B001243
 govtrack-id: 400032
 born: "1952-06-06"
-wikidata-id: "Q458971"
-website: "https://www.blackburn.senate.gov"
-phone: "202-224-3344"
+wikidata-id: Q458971
+website: https://www.blackburn.senate.gov
+phone: 202-224-3344
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "S8TN00337"
+fec-candidate-id: S8TN00337
 bills-sponsored: 101
 bills-cosponsored: 581
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[American Chemistry Council, INC]], [[Raytheon (RTX)]], [[National Rifle Association]], [[Gilead Sciences]], [[Occidental Petroleum]], [[National Cattlemen's Beef Association]], [[VIEW PAC - Value in Electing Women]], [[National Multifamily Housing Council]], [[AT&T - WarnerMedia]], [[Honeywell]], [[National Association of Realtors]], [[American Hospital Association PAC]], [[Amgen Inc]], [[Duke Energy]], [[Nucor Corporation]], [[National Restaurant Association]], [[Lockheed Martin]], [[Citigroup]], [[Pfizer Inc.]], [[Ford Motor Company]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Valero Energy]], [[DoorDash]], [[Anthem - Elevance Health]], [[WinRed]], [[AbbVie]], [[ConocoPhillips]], [[NORPAC]], [[Walmart - Walton Family]], [[American College of Radiology Association PAC]], [[Airbnb]], [[Devon Energy]], [[Tenet Healthcare]], [[BAE Systems]], [[NextEra Energy]], [[National Victory Action Fund]], [[Google - Alphabet]], [[Tyson Foods]], [[Hunter Action Fund (haf)]], [[CoreCivic - Private Prisons]], [[General Dynamics]], [[Common Sense for America PAC]], [[Care Action]], [[AIPAC - American Israel Public Affairs Committee]], [[Sinclair Broadcast Group]], [[Microsoft]], [[Leidos]], [[Chevron]], [[CVS Health - Aetna]], [[Morgan Stanley]], [[Comcast - NBCUniversal]], [[MAJORITY PAC]], [[Johnson & Johnson]], [[Senate Conservatives Fund]], [[General Motors]]"
 ---
 
 

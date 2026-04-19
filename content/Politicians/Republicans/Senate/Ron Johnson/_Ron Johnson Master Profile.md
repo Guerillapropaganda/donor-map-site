@@ -4,7 +4,7 @@ type: politician
 bioguide-id: J000293
 content-readiness: ready
 central-thesis: Johnson's donor-class function is to serve as the billionaire manufacturing and pass-through business class's enforcer in the Senate — a wealthy CEO who entered politics to protect the tax and regulatory structures that benefit people exactly like...
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Republican
@@ -13,7 +13,7 @@ state: Wisconsin
 state-abbr: WI
 fec-candidate-id: S0WI00197
 stock-trades: 2
-donors: "[[Patrick Soon-Shiong]] · [[American Iron and Steel Institute]] · [[American Petroleum Institute]] · [[National Restaurant Association]] · [[Western Growers Association]] · [[Really American Pac]]"
+donors: "[[Patrick Soon-Shiong]] · [[American Iron and Steel Institute]] · [[American Petroleum Institute]] · [[National Restaurant Association]] · [[Western Growers Association]] · [[Really American Pac]] · [[WinRed]] · [[Club for Growth INC PAC]] · [[Planned Parenthood Votes]] · [[AT&T - WarnerMedia]] · [[AIPAC - American Israel Public Affairs Committee]] · [[National Victory Action Fund]] · [[National Association of Realtors]] · [[Save America PAC]] · [[Ruralvote.org]] · [[Common Sense for America PAC]] · [[Associated General Contractors of America Political Action Committee]] · [[Law Enforcement for a Safer America Pac]] · [[United We Can]] · [[American Conservative Union]] · [[MoveOn.org Political Action]] · [[Campaign for Working Families]] · [[Honeywell]] · [[Women Speak Out Pac]] · [[Americans for Prosperity]] · [[SEIU COPE]] · [[Let America Vote PAC]] · [[AFL-CIO]] · [[Powerpacplus]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[American Hospital Association PAC]] · [[Senate Conservatives Fund]] · [[Comcast - NBCUniversal]] · [[NRSC - National Republican Senatorial Committee]] · [[Leidos]] · [[WinSenate]] · [[Votevets]] · [[Activate America]] · [[Everytown for Gun Safety Victory Fund]] · [[DSCC - Democratic Senatorial Campaign Committee]] · [[Devon Energy]] · [[Indivisible Action]] · [[REPUBLICAN PARTY OF FLORIDA]] · [[League of Conservation Voters]] · [[AFSCME Working Families Fund]] · [[Chevron]] · [[Opportunity Matters Fund]] · [[National Education Association]] · [[Anthem - Elevance Health]] · [[Duke Energy]] · [[National Rifle Association]] · [[Republican Jewish Coalition]] · [[National Right to Life Victory Fund]] · [[Americas Pac]] · [[Valero Energy]] · [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]] · [[Goldman Sachs]] · [[Johnson & Johnson]] · [[McDonalds Corporation]] · [[Monsanto - Bayer]] · [[Microsoft]] · [[Heritage Foundation]] · [[Eli Lilly]] · [[AT&T]] · [[Cigna Group]] · [[American Enterprise Institute]] · [[Citadel - Kenneth Griffin]] · [[Nucor Corporation]] · [[Cargill]] · [[Verizon]] · [[Lockheed Martin]] · [[Southern Company]] · [[Oracle]] · [[Instacart]] · [[Amazon]] · [[AbbVie]] · [[Occidental Petroleum]] · [[Ford Motor Company]] · [[Humana]] · [[Boeing]] · [[Tesla - Elon Musk Political Operation]] · [[UPS]] · [[Raytheon (RTX Corporation)]] · [[Northrop Grumman]] · [[Bank of America]] · [[Charles Schwab]] · [[Hospital Corporation of America - HCA]] · [[General Motors]] · [[Pfizer Inc.]] · [[Merck]] · [[Koch Network - Charles Koch]] · [[Walmart]] · [[Marathon Petroleum]] · [[Kaiser Permanente]] · [[Wells Fargo]] · [[BAE Systems]] · [[ExxonMobil]] · [[Meta - Facebook]] · [[Citigroup]] · [[Google - Alphabet]] · [[RNC - Republican National Committee]] · [[HBW Resources]] · [[Anthem - Elevance Health Political Operation]] · [[Centene Corporation]] · [[IBEW Local 440 - Riverside]] · [[Bradley Foundation]] · [[Morgan Stanley]] · [[Ripple]] · [[Hawaiian Electric Company]] · [[a16z - Andreessen Horowitz]] · [[John Deere]] · [[UnitedHealth Group - Optum]] · [[MassMutual]] · [[Apple]] · [[CVS Health - Aetna]] · [[Honeywell International]] · [[Koch Industries]] · [[ADM - Archer Daniels Midland]] · [[Amgen Inc]]"
 related: "[[Roger Marshall]] · [[Tammy Baldwin Master Profile]] · [[Koch Network - Charles Koch|Koch Network]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Donald Trump Master Profile|Trump]] · [[_John Barrasso Master Profile|Barrasso]] · [[John Kennedy Master Profile]] · [[Really American Pac]]"
 needs-reenrichment: true
 reenrich-reason: run congress pipeline; run pipelines
@@ -22,8 +22,8 @@ urls-first-triaged: "2026-04-15"
 bills-sponsored: 596
 bills-cosponsored: 1326
 bills-enacted: 0
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "Congress"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: Congress
 ---
 
 

@@ -1,33 +1,34 @@
 ---
-title: "Brad Sherman"
+title: Brad Sherman
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "California"
-state-abbr: "CA"
+party: Democrat
+chamber: House
+state: California
+state-abbr: CA
 district: "32"
-bioguide-id: "S000344"
+bioguide-id: S000344
 govtrack-id: 400371
 born: "1954-10-24"
-wikidata-id: "Q672919"
-website: "https://sherman.house.gov"
-phone: "202-225-5911"
+wikidata-id: Q672919
+website: https://sherman.house.gov
+phone: 202-225-5911
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H6CA24113"
+fec-candidate-id: H6CA24113
 bills-sponsored: 15
 bills-cosponsored: 452
 bills-enacted: 0
-top-policy-area: "International Affairs"
+top-policy-area: International Affairs
+top-donors: "[[SEIU COPE]], [[Sierra Club Independent Action]], [[Citigroup]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[IBEW - International Brotherhood of Electrical Workers]], [[Anthem - Elevance Health]], [[National Multifamily Housing Council]], [[Bank of America]], [[Northrop Grumman]], [[Raytheon (RTX)]], [[NORPAC]], [[Lockheed Martin]], [[General Motors]], [[National Rental Home Council]], [[Courage California Super Pac]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AT&T - WarnerMedia]], [[NEA Fund for Children and Public Education]], [[Honeywell]], [[UA Political Action Committee]], [[AIPAC - American Israel Public Affairs Committee]], [[CTA - California Teachers Association]], [[DMFI - Democratic Majority for Israel]], [[Comcast - NBCUniversal]], [[National Association of Realtors]], [[Morgan Stanley]], [[American Hospital Association PAC]], [[L3Harris Technologies]], [[National Nurses United]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Planned Parenthood Votes]], [[Ted Lieu]], [[Sierra Club Political Committee]], [[Medicare for All - The Policy That Broke the Party]], [[Google - Alphabet]], [[Progressive Turnout Project]]"
 ---
 
 

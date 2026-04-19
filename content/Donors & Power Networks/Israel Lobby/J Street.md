@@ -2,12 +2,12 @@
 title: J Street
 type: donor
 content-readiness: draft
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Israel Lobby
 entity-type: Individual Donor
-politicians-funded: "[[Bernie Sanders]], [[Jerry Nadler]]"
+politicians-funded: "[[Bernie Sanders]], [[Jerry Nadler]], [[Raphael Warnock]], [[Nikema Williams]], [[Lloyd Doggett]], [[Henry Cuellar]], [[_Nancy Pelosi Master Profile]], [[Raul Grijalva]], [[Teresa Leger Fernandez]], [[Sara Jacobs]], [[Amy Klobuchar]], [[Jerrold Nadler]], [[Jamie Raskin]], [[Joseph Morelle]], [[Lori Trahan]], [[Maria Cantwell]], [[Julia Brownley]], [[Nikki Budzinski]], [[Mark DeSaulnier]], [[Brian Schatz]], [[Mark Pocan]], [[Veronica Escobar]], [[Mike Levin]], [[Gregory Meeks]], [[Sydney Kamlager-Dove]], [[Zoe Lofgren]], [[Eric Swalwell]], [[Andrea Salinas]], [[Chellie Pingree]], [[Jeanne Shaheen]], [[Chrissy Houlahan]], [[Jack Reed]], [[Dwight Evans]], [[ActBlue]], [[Josh Harder]], [[Raja Krishnamoorthi]], [[Mike Quigley]], [[Chris van Hollen]], [[Sharice Davids]], [[Diana Degette]], [[Betty McCollum]], [[J Street]], [[Adam Smith]], [[Laura Friedman]], [[Marcy Kaptur]], [[Paul Tonko]], [[Andy Kim]], [[Kim Schrier]], [[Ed Markey]], [[Patty Murray]], [[Jahana Hayes]], [[Nydia Velazquez]], [[Eric Sorensen]], [[Emanuel Cleaver]], [[Robert Garcia]], [[Mike Thompson]], [[Kristen McDonald Rivet]], [[Sean Casten]], [[Joaquin Castro]], [[Andre Carson]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Adam Schiff]], [[Kamala Harris]], [[Judy Chu]], [[Jared Huffman]], [[Hakeem Jeffries]], [[Mark Kelly]], [[Lateefah Simon]], [[Seth Magaziner]], [[Kevin Mullin]], [[Debbie Dingell]], [[Jamaal Bowman]], [[Catherine Cortez Masto]], [[_Jamie Raskin Master Profile]], [[Brittany Pettersen]], [[Tammy Baldwin]], [[Rosa DeLauro]], [[Summer Lee]], [[Steve Cohen]], [[Barbara Lee]], [[Lisa Blunt Rochester]], [[Mark Takano]], [[Katie Porter]], [[Sherrod Brown]], [[John Fetterman]], [[Dan Goldman]], [[Pete Aguilar]], [[Jason Crow]], [[Gwen Moore]], [[Madeleine Dean]], [[Derek Tran]], [[Bennie Thompson]], [[_Martin Heinrich Master Profile]], [[Martin Heinrich]], [[Pramila Jayapal]], [[Suzanne Bonamici]], [[Ro Khanna]], [[Julie Johnson]], [[Tammy Duckworth]], [[Raul Ruiz]], [[Richard Neal]], [[Sarah McBride]], [[Nancy Pelosi]], [[_Chris Pappas Master Profile]], [[Sheldon Whitehouse]], [[John Garamendi]], [[Roy Cooper]], [[DCCC - Democratic Congressional Campaign Committee]], [[Jon Ossoff]], [[Jeff Merkley]], [[John Hickenlooper]], [[_Emily Randall Master Profile]], [[Daniel Biss]], [[Emily Randall]], [[Chris Pappas]]"
 issues:
   - Israel & Foreign Policy
 ein: 261507828
@@ -223,3 +223,31 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 - ~~[OpenSecrets: J Street organization profile](https://www.opensecrets.org/orgs/j-street/summary?id=D000052457)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - ~~[OpenSecrets: JStreetPAC 2024 profile](https://www.opensecrets.org/political-action-committees-pacs/jstreetpac/C00441949/summary/2024)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $3.0M |
+| Total expenses | — |
+| Total assets (EOY) | $4.1M |
+| Grants paid out | — |
+
+**Lifetime grants out (2018–2024):** $25K across 1 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| CITIZENS FOR A BETTER ILLINOIS | $25K | 1 | 2018 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

@@ -156,6 +156,34 @@ contributions-to-committees: 38000
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 5 (2019–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $3.2M |
+| Total expenses | — |
+| Total assets (EOY) | $1.5M |
+| Grants paid out | $400K |
+
+**Lifetime grants out (2019–2024):** $436K across 2 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| CHICAGO 2024 HOST COMMITTEE | $400K | 1 | 2024 |
+| CALIFORNIANS FOR JOBS AND JUSTICE | $36K | 1 | 2023 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->
+
 #donor #israel #DMFI #pro-israel #national #super-pac #democratic-primary #follow-the-money #class-analysis #aipac #progressive-opposition
 
 ---

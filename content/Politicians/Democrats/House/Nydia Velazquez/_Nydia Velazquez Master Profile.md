@@ -1,35 +1,36 @@
 ---
-title: "Nydia Velazquez"
+title: Nydia Velazquez
 type: politician
-bioguide-id: "V000081"
+bioguide-id: V000081
 content-readiness: draft
-central-thesis: "Nydia Velazquez is the Small Business Committee's institutional memory — 30+ years focused on SBA lending, minority business access, and federal contracting for small firms. Her donor profile is modest by congressional standards and dominated by r..."
+central-thesis: Nydia Velazquez is the Small Business Committee's institutional memory — 30+ years focused on SBA lending, minority business access, and federal contracting for small firms. Her donor profile is modest by congressional standards and dominated by r...
 last-updated: "2026-04-05"
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "House"
-state: "New York"
-state-abbr: "NY"
+party: Democrat
+chamber: House
+state: New York
+state-abbr: NY
 district: "7"
 committees:
-  - "Small Business"
+  - Small Business
 leadership-roles:
-  - "Ranking Member"
-total-received: "$180,257"
-fec-candidate-id: "H2NY00010"
+  - Ranking Member
+total-received: $180,257
+fec-candidate-id: H2NY00010
 source-types:
   - Congress
   - FEC
 corroboration-count: 2
 known-gaps:
-  - "No voting record data"
-  - "No mapped relationships"
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 50
 bills-cosponsored: 564
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[National Association of Realtors]], [[Planned Parenthood Votes]], [[Ted Lieu]], [[Sierra Club Independent Action]], [[League of Conservation Voters]], [[National Restaurant Association]], [[Walmart - Walton Family]], [[J Street]], [[NEA Fund for Children and Public Education]], [[SEIU COPE]], [[American Hospital Association PAC]], [[National Multifamily Housing Council]], [[American Federation of State County & Municipal Employees P E O P L E]], [[UA Political Action Committee]], [[Medicare for All - The Policy That Broke the Party]]"
 ---
 
 

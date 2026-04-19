@@ -1,28 +1,29 @@
 ---
-title: "Tim Sheehy"
+title: Tim Sheehy
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "Senate"
-state: "Montana"
-state-abbr: "MT"
-bioguide-id: "S001232"
+party: Republican
+chamber: Senate
+state: Montana
+state-abbr: MT
+bioguide-id: S001232
 govtrack-id: 456966
 born: "1985-11-18"
-wikidata-id: "Q124433916"
-website: "https://www.sheehy.senate.gov"
-phone: "202-224-2644"
+wikidata-id: Q124433916
+website: https://www.sheehy.senate.gov
+phone: 202-224-2644
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "S4MT00183"
+fec-candidate-id: S4MT00183
+top-donors: "[[National Rifle Association]], [[Drummond Co.]], [[Lockheed Martin]], [[American Chemistry Council, INC]], [[AT&T - WarnerMedia]], [[NRSC - National Republican Senatorial Committee]], [[Gilead Sciences]], [[Amgen Inc]], [[Devon Energy]], [[National Right to Life Victory Fund]], [[Republican Jewish Coalition]], [[Senate Conservatives Fund]], [[Club for Growth INC PAC]], [[NORPAC]], [[Edf Action Votes]], [[Campaign for Working Families]], [[American Hospital Association PAC]], [[Tzedek PAC]], [[L3Harris Technologies]], [[SAVE OUR COUNTRY]], [[Citigroup]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[WinRed]], [[Puget Sound Energy INC PAC for Good Government]], [[The Sentinel Action Fund]], [[National Association of Realtors]], [[National Cattlemen's Beef Association]], [[Planned Parenthood Votes]], [[Hunter Action Fund (haf)]], [[National Victory Action Fund]], [[National Multifamily Housing Council]], [[Teamsters - International Brotherhood of Teamsters]], [[ConocoPhillips]], [[Common Sense for America PAC]], [[Americans for Prosperity]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Valero Energy]], [[Alliance Coal, LLC PAC]], [[MAJORITY PAC]], [[Reclaim America PAC]], [[Votevets]], [[SLF PAC]], [[League of Conservation Voters]], [[Gun Owners of America]], [[Women Speak Out Pac]], [[WinSenate]], [[Bank of America]], [[Let America Vote PAC]], [[Freedom's Defense Fund]], [[Marathon Petroleum]], [[Halliburton]]"
 ---
 
 

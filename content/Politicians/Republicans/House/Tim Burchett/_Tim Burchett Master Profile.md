@@ -1,33 +1,34 @@
 ---
-title: "Tim Burchett"
+title: Tim Burchett
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Tennessee"
-state-abbr: "TN"
+party: Republican
+chamber: House
+state: Tennessee
+state-abbr: TN
 district: "2"
-bioguide-id: "B001309"
+bioguide-id: B001309
 govtrack-id: 412817
 born: "1964-08-25"
-wikidata-id: "Q7803244"
-website: "https://burchett.house.gov"
-phone: "202-225-5435"
+wikidata-id: Q7803244
+website: https://burchett.house.gov
+phone: 202-225-5435
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H8TN02119"
+fec-candidate-id: H8TN02119
 bills-sponsored: 32
 bills-cosponsored: 219
 bills-enacted: 0
-top-policy-area: "International Affairs"
+top-policy-area: International Affairs
+top-donors: "[[MAJORITY PAC]], [[Lauren Boebert]], [[Raytheon (RTX)]], [[American Chemistry Council, INC]], [[UA Political Action Committee]], [[David Rouzer]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Association of Realtors]], [[WinRed]], [[National Rifle Association]], [[General Motors]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Associated General Contractors of America Political Action Committee]], [[Planned Parenthood Votes]], [[AIPAC - American Israel Public Affairs Committee]], [[CoreCivic - Private Prisons]]"
 ---
 
 

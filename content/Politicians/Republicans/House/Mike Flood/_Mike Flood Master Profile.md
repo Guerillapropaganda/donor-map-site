@@ -1,33 +1,34 @@
 ---
-title: "Mike Flood"
+title: Mike Flood
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Nebraska"
-state-abbr: "NE"
+party: Republican
+chamber: House
+state: Nebraska
+state-abbr: NE
 district: "1"
-bioguide-id: "F000474"
+bioguide-id: F000474
 govtrack-id: 456868
 born: "1975-02-23"
-wikidata-id: "Q6846855"
-website: "https://flood.house.gov"
-phone: "202-225-4806"
+wikidata-id: Q6846855
+website: https://flood.house.gov
+phone: 202-225-4806
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H2NE01118"
+fec-candidate-id: H2NE01118
 bills-sponsored: 19
 bills-cosponsored: 220
 bills-enacted: 0
-top-policy-area: "Finance and Financial Sector"
+top-policy-area: Finance and Financial Sector
+top-donors: "[[Nucor Corporation]], [[AIPAC - American Israel Public Affairs Committee]], [[Associated General Contractors of America Political Action Committee]], [[National Multifamily Housing Council]], [[Bank of America]], [[Jim Jordan]], [[Byron Donalds]], [[Care Action]], [[Americans for Prosperity]], [[AMERICAN FUTURE FUND POLITICAL ACTION]], [[National Right to Life Victory Fund]], [[Tyson Foods]], [[Lockheed Martin]], [[National Association of Realtors]], [[General Dynamics]], [[American Hospital Association PAC]], [[Citigroup]], [[National Rifle Association]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[iHeartMedia]], [[ADM - Archer Daniels Midland]], [[Jason Smith]], [[Honeywell]], [[Morgan Stanley]], [[NextEra Energy]], [[Don Bacon]], [[Coinbase]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[National Cattlemen's Beef Association]], [[AT&T - WarnerMedia]], [[NRCC - National Republican Congressional Committee]], [[Walmart - Walton Family]], [[Northrop Grumman]], [[MAJORITY PAC]], [[Adrian Smith]], [[Duke Energy]], [[National Rental Home Council]], [[Defend American Jobs]], [[Google - Alphabet]], [[Halliburton]], [[Airbnb]], [[US CHAMBER OF COMMERCE]], [[Apollo Global Management]], [[Charles Schwab]], [[FTX - Sam Bankman-Fried]], [[UnitedHealth Group - Optum]], [[Goldman Sachs]], [[Blackstone Group]], [[a16z - Andreessen Horowitz]]"
 ---
 
 

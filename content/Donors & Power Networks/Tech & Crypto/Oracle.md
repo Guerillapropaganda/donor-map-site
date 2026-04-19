@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Tech & Crypto
 entity-type: Corporation
-politicians-funded: "[[Donald Trump]]"
+politicians-funded: "[[Donald Trump]], [[Reclaim America PAC]], [[_Susie Lee Master Profile]], [[_Mike Levin Master Profile]], [[Common Sense for America PAC]], [[MoveOn.org Political Action]], [[_Jon Ossoff Master Profile]], [[_Jason Crow Master Profile]], [[_Rashida Tlaib Master Profile]], [[Votevets]], [[_Gabe Vasquez Master Profile]], [[Conservative Solutions PAC]], [[JUSTICE DEMOCRATS PAC]], [[Progressive Turnout Project]], [[Human Rights Campaign Equality Votes]], [[ActBlue]], [[_Nancy Pelosi Master Profile]], [[Club for Growth INC PAC]], [[Hmp]], [[Nancy Mace]], [[_Tim Scott Master Profile]], [[Opportunity Matters Fund]], [[Medicare for All - The Policy That Broke the Party]], [[_Chris Pappas Master Profile]], [[The Lincoln Project]], [[_Kamala Harris Master Profile]], [[_Cori Bush Master Profile]], [[Working Families Party PAC]], [[_Lauren Underwood Master Profile]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[_Don Bacon Master Profile]], [[RNC - Republican National Committee]], [[AIPAC - American Israel Public Affairs Committee]], [[Let America Vote PAC]], [[_Ron Johnson Master Profile]], [[_Debbie Wasserman Schultz Master Profile]], [[PRIORITIES USA ACTION]], [[_Mark Takano Master Profile]], [[_Yassamin Ansari Master Profile]], [[WinRed]], [[_Ted Cruz Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[NRCC - National Republican Congressional Committee]], [[FreedomWorks for America]], [[_Angie Craig Master Profile]], [[Democratic Party of Virginia]], [[Giffords PAC]], [[Everytown for Gun Safety Victory Fund]], [[_Nathaniel Moran Master Profile]], [[_Dave Min Master Profile]], [[Mark Kelly]], [[_Martin Heinrich Master Profile]], [[_Lisa Blunt Rochester Master Profile]], [[Women Speak Out Pac]], [[DNC - Democratic National Committee]], [[_Chrissy Houlahan Master Profile]], [[_Josh Harder Master Profile]], [[Preserve America]], [[MAGA Inc]], [[_Emily Randall Master Profile]], [[Courage to Change PAC]], [[DSCC - Democratic Senatorial Campaign Committee]], [[CHC BOLD PAC]], [[Indivisible Action]], [[_Joe Neguse Master Profile]], [[_Doug Burgum Master Profile]], [[_Elissa Slotkin Master Profile]], [[_Joe Wilson Master Profile]], [[Senate Conservatives Fund]], [[Marianne Williamson]], [[_Andre Carson Master Profile]], [[Barbara Lee]], [[_Byron Donalds Master Profile]], [[_Josh Hawley Master Profile]], [[Really American Pac]], [[_Jimmy Panetta Master Profile]], [[_Marco Rubio Master Profile]], [[_Tammy Baldwin Master Profile]], [[_George Whitesides Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[Ab Pac]], [[Sierra Club Political Committee]], [[_Jim Jordan Master Profile]], [[Mad Dog PAC]], [[_Deb Haaland Master Profile]], [[_Dwight Evans Master Profile]], [[_Bill Foster Master Profile]], [[J Street]], [[_Vicente Gonzalez Master Profile]], [[_Lauren Boebert Master Profile]], [[314 ACTION FUND]], [[_Cory Booker Master Profile]], [[_Young Kim Master Profile]], [[_Adam Gray Master Profile]], [[Los Angeles County Democratic Central Committee]], [[_Victoria Spartz Master Profile]], [[_Claudia Tenney Master Profile]], [[WinSenate]], [[_Darrell Issa Master Profile]], [[Congressional Leadership Fund]], [[_Summer Lee Master Profile]], [[Bob Casey]], [[_Melissa Bean Master Profile]], [[_Derek Tran Master Profile]], [[_Tom Barrett Master Profile]], [[Save America PAC]], [[DOLORES HUERTA ACTION FUND]], [[Emily's List]], [[1820 PAC]], [[_Pete Aguilar Master Profile]], [[Congressional Progressive Caucus PAC]], [[_Julie Johnson Master Profile]], [[_Mike Rogers Master Profile]], [[_Anna Paulina Luna Master Profile]], [[Everytown for Gun Safety]], [[_Thomas Massie Master Profile]], [[_Patrick Ryan Master Profile]], [[Trump Victory]], [[Republican Jewish Coalition]], [[_Veronica Escobar Master Profile]], [[NORPAC]], [[Fairshake PAC]], [[_Randy Fine Master Profile]], [[_Alex Padilla Master Profile]], [[Catherine Cortez Masto]], [[Courage California Super Pac]], [[_Ted Lieu Master Profile]], [[_John James Master Profile]], [[_Brian Jack Master Profile]], [[_Ted Budd Master Profile]], [[_Josh Riley Master Profile]], [[_George Latimer Master Profile]], [[Bernie Moreno]], [[WITH HONOR FUND, INC.]], [[_Jimmy Gomez Master Profile]], [[Josh Harder]], [[Marco Rubio]], [[Chrissy Houlahan]], [[Rashida Tlaib]], [[Debbie Wasserman Schultz]], [[Ted Lieu]], [[Summer Lee]], [[Josh Riley]], [[Claudia Tenney]], [[Alex Padilla]], [[Tim Scott]], [[Darrell Issa]], [[Lisa Blunt Rochester]], [[Nathaniel Moran]], [[Tammy Baldwin]], [[Ron Johnson]], [[Jimmy Gomez]], [[Joe Neguse]], [[Angie Craig]], [[Emily Randall]], [[Deb Haaland]], [[Derek Tran]], [[Mike Rogers]], [[Chris Pappas]], [[Josh Hawley]], [[Andre Carson]], [[Melissa Bean]], [[Brian Jack]], [[Pete Aguilar]], [[Anna Paulina Luna]], [[Patrick Ryan]], [[Ted Budd]], [[Gabe Vasquez]], [[Thomas Massie]], [[George Latimer]], [[Cory Booker]], [[Jason Crow]], [[Dwight Evans]], [[Byron Donalds]], [[Jim Jordan]], [[Lauren Underwood]], [[Mike Levin]], [[Martin Heinrich]], [[Young Kim]], [[John James]], [[Elissa Slotkin]], [[Ted Cruz]], [[Adam Gray]], [[Lauren Boebert]], [[Nancy Pelosi]], [[Jon Ossoff]], [[Victoria Spartz]], [[Doug Burgum]], [[Tom Barrett]], [[Susie Lee]], [[Cori Bush]], [[Bill Foster]], [[Veronica Escobar]], [[George Whitesides]], [[Julie Johnson]], [[Dave Min]], [[Vicente Gonzalez]], [[Kamala Harris]], [[Yassamin Ansari]], [[Don Bacon]], [[Mark Takano]], [[Randy Fine]], [[Joe Wilson]], [[Jimmy Panetta]]"
 issues:
   - Technology
 ein: "455577678"
@@ -47,7 +47,7 @@ lei-jurisdiction: FR
 cross-vault-triangulation-count: 5
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 26
-epa-states: "CA, CO, MA, MO, NH, OR, PA, TN, TX, VT"
+epa-states: CA, CO, MA, MO, NH, OR, PA, TN, TX, VT
 federal-contracts: 73
 employee-contributions: 32202
 employee-contributions-total: 47816625
@@ -347,3 +347,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/455577678/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/455577678/2019)~~ (URL broken, archived by Ops)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Oracle%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 4 (2020–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | $169K |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | — |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

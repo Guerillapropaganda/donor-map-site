@@ -12,7 +12,7 @@ annual-revenue: $2.3M
 net-assets: $525K
 tax-year: "2023"
 total-political-spend: $112,605
-politicians-funded: "[[Amy Klobuchar]], [[Paul Ryan]]"
+politicians-funded: "[[Amy Klobuchar]], [[Paul Ryan]], [[ActBlue]]"
 nonprofit-status: 501(c)(4)
 last-enriched: "2026-04-08"
 total-revenue: 2588140
@@ -214,3 +214,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/821919054/2019)~~ (URL broken, archived by Ops)
 - ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Jewish%20Democratic%20Council%20of%20America)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Jewish%20Democratic%20Council%20of%20America)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 5 (2018–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $2.3M |
+| Total expenses | — |
+| Total assets (EOY) | $525K |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

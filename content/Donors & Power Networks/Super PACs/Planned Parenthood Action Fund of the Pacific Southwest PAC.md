@@ -5,14 +5,14 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00688432
 aliases:
   - PLANNED PARENTHOOD ACTION FUND OF THE PACIFIC SOUTHWEST PAC
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
-politicians-funded: "[[Mark Takano]]"
+politicians-funded: "[[Mark Takano]], [[Sara Jacobs]], [[Mike Levin]], [[Kamala Harris]], [[Juan Vargas]], [[Raul Ruiz]], [[Jon Ossoff]], [[Raphael Warnock]]"
 related: "[[Mark Takano]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

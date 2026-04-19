@@ -1,33 +1,34 @@
 ---
-title: "Jahana Hayes"
+title: Jahana Hayes
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Connecticut"
-state-abbr: "CT"
+party: Democrat
+chamber: House
+state: Connecticut
+state-abbr: CT
 district: "5"
-bioguide-id: "H001081"
+bioguide-id: H001081
 govtrack-id: 412763
 born: "1973-03-08"
-wikidata-id: "Q24951316"
-website: "https://hayes.house.gov"
-phone: "202-225-4476"
+wikidata-id: Q24951316
+website: https://hayes.house.gov
+phone: 202-225-4476
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H8CT05245"
+fec-candidate-id: H8CT05245
 bills-sponsored: 33
 bills-cosponsored: 699
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[DCCC - Democratic Congressional Campaign Committee]], [[McDonalds Corporation]], [[AT&T - WarnerMedia]], [[Mark Kelly]], [[Northrop Grumman]], [[Anthem - Elevance Health]], [[General Dynamics]], [[Planned Parenthood Action Fund INC]], [[Sydney Kamlager-Dove]], [[Pete Aguilar]], [[Humane Society Legislative Fund]], [[Teamsters - International Brotherhood of Teamsters]], [[Joe Neguse]], [[Nancy Pelosi]], [[Medicare for All - The Policy That Broke the Party]], [[NEA Fund for Children and Public Education]], [[American Hospital Association PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[IBEW - International Brotherhood of Electrical Workers]], [[DoorDash]], [[MoveOn.org Political Action]], [[CVS Health - Aetna]], [[Americans for Prosperity]], [[Ted Lieu]], [[Frederica S. Wilson]], [[Sierra Club Political Committee]], [[General Motors]], [[Progressive Turnout Project]], [[Everytown for Gun Safety]], [[J Street]], [[Sara Jacobs]], [[Judy Chu]], [[Adriano Espaillat]], [[CT Working Families Federal PAC D-b-a Take Back Congress CT]], [[Putting People First Political Action Committee]], [[American Federation of State County & Municipal Employees P E O P L E]], [[National Association of Realtors]], [[NextEra Energy]], [[Tyson Foods]], [[Emily's List]], [[National Education Association]], [[Sierra Club Independent Action]], [[Walmart - Walton Family]], [[Comcast - NBCUniversal]], [[Veronica Escobar]], [[Julia Brownley]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[AFL-CIO]], [[Planned Parenthood Votes]], [[Raytheon (RTX)]], [[League of Conservation Voters]], [[CHC BOLD PAC]], [[National Nurses United]], [[Debbie Dingell]], [[Hmp]], [[Chrissy Houlahan]], [[Lamonica McIver]], [[Jamie Raskin]], [[Congressional Leadership Fund]], [[ENVIRONMENT AMERICA INC]], [[Lockheed Martin]], [[NRCC - National Republican Congressional Committee]], [[Bill Foster]], [[Courage to Change PAC]], [[UA Political Action Committee]], [[Robert Garcia]], [[Working Families Party PAC]], [[Giffords PAC]], [[SEIU COPE]], [[Microsoft]], [[Morgan McGarvey]], [[Mark Takano]]"
 ---
 
 

@@ -1,34 +1,35 @@
 ---
-title: "Jared Moskowitz"
+title: Jared Moskowitz
 type: politician
 content-readiness: raw
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Florida"
-state-abbr: "FL"
+party: Democrat
+chamber: House
+state: Florida
+state-abbr: FL
 district: "23"
-bioguide-id: "M001217"
+bioguide-id: M001217
 govtrack-id: 456893
 born: "1980-12-18"
-wikidata-id: "Q16221073"
-website: "https://moskowitz.house.gov"
-phone: "202-225-3001"
+wikidata-id: Q16221073
+website: https://moskowitz.house.gov
+phone: 202-225-3001
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 related: "[[Fanjul Family - Florida Crystals]]"
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H2FL22171"
+fec-candidate-id: H2FL22171
 bills-sponsored: 16
 bills-cosponsored: 495
 bills-enacted: 0
-top-policy-area: "International Affairs"
+top-policy-area: International Affairs
+top-donors: "[[NextEra Energy]], [[NEA Fund for Children and Public Education]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Sierra Club Independent Action]], [[Teamsters - International Brotherhood of Teamsters]], [[Ted Lieu]], [[General Dynamics]], [[Everytown for Gun Safety]], [[Chevron]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[UA Political Action Committee]], [[Nancy Pelosi]], [[Pfizer Inc.]], [[League of Conservation Voters]], [[Jamie Raskin]], [[American Hospital Association PAC]], [[Let America Vote PAC]], [[SEIU COPE]], [[AIPAC - American Israel Public Affairs Committee]], [[AT&T - WarnerMedia]], [[CVS Health - Aetna]], [[Raytheon (RTX)]], [[Bank of America]], [[Humana]], [[National Association of Realtors]], [[DCCC - Democratic Congressional Campaign Committee]], [[Honeywell]], [[American Gaming Association]], [[Duke Energy]], [[Anthem - Elevance Health]], [[Comcast - NBCUniversal]], [[DMFI - Democratic Majority for Israel]], [[IBEW - International Brotherhood of Electrical Workers]], [[Walmart - Walton Family]], [[Adriano Espaillat]], [[Medicare for All - The Policy That Broke the Party]], [[Protect Our Future PAC]], [[General Motors]], [[Pete Aguilar]], [[Google - Alphabet]], [[Lockheed Martin]], [[Giffords PAC]], [[CBRE Group]], [[Coinbase]], [[Fanjul Family - Florida Crystals]], [[a16z - Andreessen Horowitz]], [[Ballard Partners]], [[Amazon]], [[Lennar Corporation]], [[Business Roundtable]], [[Morgan Stanley]], [[Southern Company]], [[Wells Fargo]], [[News Corp - Fox Corporation]], [[Citadel - Kenneth Griffin]], [[AT&T]]"
 ---
 
 

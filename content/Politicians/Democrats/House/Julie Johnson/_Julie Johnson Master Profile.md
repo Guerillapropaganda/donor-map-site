@@ -1,30 +1,30 @@
 ---
-title: "Julie Johnson"
+title: Julie Johnson
 type: politician
 content-readiness: raw
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Texas"
-state-abbr: "TX"
+party: Democrat
+chamber: House
+state: Texas
+state-abbr: TX
 district: "32"
-bioguide-id: "J000310"
+bioguide-id: J000310
 govtrack-id: 457024
 born: "1966-05-02"
-wikidata-id: "Q64753063"
-website: "https://juliejohnson.house.gov"
-phone: "202-225-2231"
+wikidata-id: Q64753063
+website: https://juliejohnson.house.gov
+phone: 202-225-2231
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
-donors: "[[Western Growers Association]]"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
+donors: "[[Western Growers Association]], [[DoorDash]], [[Honeywell]], [[National Association of Realtors]], [[SEIU COPE]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Devon Energy]], [[IBEW - International Brotherhood of Electrical Workers]], [[Gilead Sciences]], [[EQUALITY PROJECT PAC]], [[American Hospital Association PAC]], [[League of Conservation Voters]], [[Sierra Club Independent Action]], [[NEA Fund for Children and Public Education]], [[Lockheed Martin]], [[Chevron]], [[Comcast - NBCUniversal]], [[ConocoPhillips]], [[Human Rights Campaign Equality Votes]], [[Associated General Contractors of America Political Action Committee]], [[Robert Garcia]], [[General Dynamics]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Protect Progress]], [[Mark Takano]], [[American College of Radiology Association PAC]], [[Emily's List]], [[Citigroup]], [[J Street]], [[AIPAC - American Israel Public Affairs Committee]], [[DMFI - Democratic Majority for Israel]], [[Pfizer Inc.]], [[Google - Alphabet]], [[American Federation of State County & Municipal Employees P E O P L E]], [[AT&T - WarnerMedia]], [[Walmart - Walton Family]], [[General Motors]], [[Anthem - Elevance Health]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Amgen Inc]], [[AT&T]], [[Microsoft]], [[Kaiser Permanente]], [[Lyft]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[Centene Corporation]], [[Amazon]], [[CBRE Group]], [[Tenet Healthcare]], [[Oracle]], [[Coinbase]], [[ExxonMobil]], [[Cigna Group]]"
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H4TX32089"
+fec-candidate-id: H4TX32089
 ---
 
 

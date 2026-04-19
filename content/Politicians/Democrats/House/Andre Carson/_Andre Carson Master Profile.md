@@ -1,33 +1,34 @@
 ---
-title: "Andre Carson"
+title: Andre Carson
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Indiana"
-state-abbr: "IN"
+party: Democrat
+chamber: House
+state: Indiana
+state-abbr: IN
 district: "7"
-bioguide-id: "C001072"
+bioguide-id: C001072
 govtrack-id: 412258
 born: "1974-10-16"
-wikidata-id: "Q517649"
-website: "https://carson.house.gov"
-phone: "202-225-4011"
+wikidata-id: Q517649
+website: https://carson.house.gov
+phone: 202-225-4011
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H8IN07184"
+fec-candidate-id: H8IN07184
 bills-sponsored: 20
 bills-cosponsored: 899
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Duke Energy]], [[American Federation of State County & Municipal Employees P E O P L E]], [[General Motors]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Sierra Club Independent Action]], [[Google - Alphabet]], [[Pete Aguilar]], [[Progressive Turnout Project]], [[General Dynamics]], [[Walmart - Walton Family]], [[AbbVie]], [[Leidos]], [[National Association of Realtors]], [[Amgen Inc]], [[Medicare for All - The Policy That Broke the Party]], [[Tyson Foods]], [[IBEW - International Brotherhood of Electrical Workers]], [[NEA Fund for Children and Public Education]], [[Northrop Grumman]], [[J Street]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Anthem - Elevance Health]], [[Teamsters - International Brotherhood of Teamsters]], [[SEIU COPE]], [[Raytheon (RTX)]], [[Honeywell]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Courage to Change PAC]], [[Lockheed Martin]], [[League of Conservation Voters]], [[Nucor Corporation]], [[AT&T - WarnerMedia]], [[UA Political Action Committee]], [[Unite Here Tip Campaign Committee]], [[L3Harris Technologies]], [[Eli Lilly]], [[Oracle]], [[Ford Motor Company]], [[News Corp - Fox Corporation]], [[Meta - Facebook]], [[Marathon Petroleum]], [[Hospital Corporation of America - HCA]], [[Pfizer Inc.]], [[Anthem - Elevance Health Political Operation]], [[Kaiser Permanente]]"
 ---
 
 

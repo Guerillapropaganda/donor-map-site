@@ -1,59 +1,59 @@
 ---
-title: "United Farm Workers"
+title: United Farm Workers
 type: donor
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Labor Unions"
-entity-type: "Individual Donor"
+sector: Labor Unions
+entity-type: Individual Donor
 issues:
-  - "Labor & Workers"
-  - "Agriculture"
-  - "Immigration"
+  - Labor & Workers
+  - Agriculture
+  - Immigration
 ein: 941448579
-annual-revenue: "$7.6M"
-net-assets: "$5.7M"
+annual-revenue: $7.6M
+net-assets: $5.7M
 tax-year: "2020"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
 federal-register-mentions: 59
 last-enriched: "2026-04-10"
 regulatory-agencies:
-  - "Children and Families Administration"
-  - "Coast Guard"
-  - "Education Department"
-  - "Employee Benefits Security Administration"
-  - "Employment and Training Administration"
-  - "Energy Department"
-  - "Environmental Protection Agency"
-  - "Executive Office for Immigration Review"
-  - "Executive Office of the President"
-  - "Federal Register, Administrative Committee"
+  - Children and Families Administration
+  - Coast Guard
+  - Education Department
+  - Employee Benefits Security Administration
+  - Employment and Training Administration
+  - Energy Department
+  - Environmental Protection Agency
+  - Executive Office for Immigration Review
+  - Executive Office of the President
+  - Federal Register, Administrative Committee
 related: "[[Labor - Donors and Backers]] · [[AFL-CIO]] · [[SEIU - Service Employees International Union]] · [[Tyson Foods]] · [[Cargill]] · [[Agricultural Labor Vulnerability Donors]]"
 sec-filings: 40
 sec-form-types:
-  - "10-K"
-  - "10-K/A"
-  - "10-K405"
-  - "10-Q"
-  - "10KSB"
-  - "10KSB40"
-  - "424B3"
-  - "8-K"
-  - "DEFA14A"
-  - "DEFM14A"
-  - "EX-10.40"
-  - "EX-10.50"
-  - "EX-10.9"
-  - "POS AM"
-  - "PREM14A"
-  - "PRER14A"
-  - "S-1"
-  - "S-1/A"
-  - "S-4"
-  - "S-4/A"
-total-political-spend: "$1,000"
+  - 10-K
+  - 10-K/A
+  - 10-K405
+  - 10-Q
+  - 10KSB
+  - 10KSB40
+  - 424B3
+  - 8-K
+  - DEFA14A
+  - DEFM14A
+  - EX-10.40
+  - EX-10.50
+  - EX-10.9
+  - POS AM
+  - PREM14A
+  - PRER14A
+  - S-1
+  - S-1/A
+  - S-4
+  - S-4/A
+total-political-spend: $1,000
 cross-vault-triangulation-count: 6
 audit-a-plus-passed: "2026-04-11"
 checklist-na:
@@ -62,6 +62,7 @@ checklist-na:
 employee-contributions: 11
 employee-contributions-total: 5616
 employee-donor-count: 5
+politicians-funded: "[[ActBlue]]"
 ---
 
 
@@ -223,3 +224,23 @@ The immigration dimension: agribusiness depends on immigrant farmworker labor (A
 Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
 
 - ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_10_2022_prefixes_91-95%2F941448579_202012_990O_2022102720612081.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $8.1M |
+| Total expenses | — |
+| Total assets (EOY) | $6.3M |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

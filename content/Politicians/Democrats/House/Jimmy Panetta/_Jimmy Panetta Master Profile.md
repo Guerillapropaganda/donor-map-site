@@ -1,34 +1,34 @@
 ---
-title: "Jimmy Panetta"
+title: Jimmy Panetta
 type: politician
 content-readiness: raw
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "California"
-state-abbr: "CA"
+party: Democrat
+chamber: House
+state: California
+state-abbr: CA
 district: "19"
-bioguide-id: "P000613"
+bioguide-id: P000613
 govtrack-id: 412685
 born: "1969-10-01"
-wikidata-id: "Q27733776"
-website: "https://panetta.house.gov"
-phone: "202-225-2861"
+wikidata-id: Q27733776
+website: https://panetta.house.gov
+phone: 202-225-2861
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
-donors: "[[National Cattlemen's Beef Association]] · [[California Farm Bureau Federation]]"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
+donors: "[[National Cattlemen's Beef Association]] · [[California Farm Bureau Federation]] · [[Lockheed Martin]] · [[Google - Alphabet]] · [[BAE Systems]] · [[Walmart - Walton Family]] · [[Citigroup]] · [[General Motors]] · [[Gilead Sciences]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Votevets]] · [[Morgan Stanley]] · [[Progressive Turnout Project]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Leidos]] · [[Coinbase]] · [[Comcast - NBCUniversal]] · [[SEIU COPE]] · [[Honeywell]] · [[AbbVie]] · [[Bank of America]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[American Gaming Association]] · [[Pfizer Inc.]] · [[Anthem - Elevance Health]] · [[Ted Lieu]] · [[General Dynamics]] · [[L3Harris Technologies]] · [[American College of Radiology Association PAC]] · [[National Multifamily Housing Council]] · [[National Association of Realtors]] · [[Associated General Contractors of America Political Action Committee]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[Tyson Foods]] · [[Sierra Club Independent Action]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Northrop Grumman]] · [[Raytheon (RTX)]] · [[NEA Fund for Children and Public Education]] · [[CTA - California Teachers Association]] · [[Microsoft]] · [[Care Action]] · [[Planned Parenthood Votes]] · [[UA Political Action Committee]] · [[American Chemistry Council, INC]] · [[San Benito County Democratic Central Committee]] · [[AT&T - WarnerMedia]] · [[American Hospital Association PAC]] · [[WITH HONOR FUND, INC.]] · [[Medicare for All - The Policy That Broke the Party]] · [[National Restaurant Association]] · [[McDonalds Corporation]] · [[Mike Thompson]] · [[Courage California Super Pac]] · [[CVS Health - Aetna]] · [[NextEra Energy]] · [[DMFI - Democratic Majority for Israel]] · [[Everytown for Gun Safety]] · [[Performance Racing Inc.]] · [[UPS]] · [[Cargill]] · [[PG&E]] · [[AT&T]] · [[Fanjul Family - Florida Crystals]] · [[Apollo Global Management]] · [[Apple]] · [[Anduril Industries]] · [[PG&E - Pacific Gas and Electric]] · [[Boeing]] · [[Center for American Progress]] · [[Alabama Power]] · [[Meta - Facebook]] · [[Blackstone Group]] · [[Southern Company]] · [[FTX - Sam Bankman-Fried]] · [[Wells Fargo]] · [[Elliott Management]] · [[Oracle]]"
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H6CA20152"
+fec-candidate-id: H6CA20152
 bills-sponsored: 56
 bills-cosponsored: 683
 bills-enacted: 2
-top-policy-area: "Taxation"
+top-policy-area: Taxation
 ---
 
 

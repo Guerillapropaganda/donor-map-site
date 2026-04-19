@@ -2,7 +2,7 @@
 title: Fraternal Order of Police
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Law Enforcement
@@ -59,7 +59,7 @@ regulatory-agencies:
   - Federal Trade Commission
   - Fish and Wildlife Service
 total-political-spend: $454,168
-politicians-funded: "[[Mark Green]], [[Sheldon Whitehouse]], [[John Cornyn]], [[Donald Trump]], [[Markwayne Mullin]], [[Amy Klobuchar]], [[Sherrod Brown]], [[Josh Green]]"
+politicians-funded: "[[Mark Green]], [[Sheldon Whitehouse]], [[John Cornyn]], [[Donald Trump]], [[Markwayne Mullin]], [[Amy Klobuchar]], [[Sherrod Brown]], [[Josh Green]], [[MAGA Inc]]"
 cross-vault-triangulation-count: 4
 audit-a-plus-passed: "2026-04-11"
 checklist-na:

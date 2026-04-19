@@ -18,7 +18,7 @@ issues:
 top-donors:
   - Lockheed Martin
   - Boeing
-donors: "[[Great Lakes Conservatives Fund]] · [[Paul Singer]] · [[Koch Network - Charles Koch]] · [[Raytheon (RTX Corporation)]] · [[Christopher Ruddy]] · [[National Cattlemen's Beef Association]] · [[Boeing]] · [[Lockheed Martin]]"
+donors: "[[Great Lakes Conservatives Fund]] · [[Paul Singer]] · [[Koch Network - Charles Koch]] · [[Raytheon (RTX Corporation)]] · [[Christopher Ruddy]] · [[National Cattlemen's Beef Association]] · [[Boeing]] · [[Lockheed Martin]] · [[Anduril Industries]] · [[Alabama Power]] · [[Southern Company]] · [[Bank of America]] · [[Oracle]] · [[Amazon]] · [[Goldman Sachs]] · [[Leidos]] · [[Ford Motor Company]] · [[Business Council of Alabama]] · [[General Dynamics]] · [[L3 Technologies]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Palantir Technologies]] · [[Microsoft]] · [[Google - Alphabet]] · [[SpaceX]] · [[BAE Systems]]"
 related: "[[The Armed Services Committee and Progressive Defense Paradox]] · [[_Jack Reed Master Profile|Reed]] · [[Lockheed Martin]] · [[Boeing]] · [[_Donald Trump Master Profile|Trump]]"
 last-enriched: "2026-04-10"
 needs-reenrichment: true
@@ -31,7 +31,7 @@ website: https://mikerogers.house.gov
 phone: 202-225-3261
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
 ---
 
 

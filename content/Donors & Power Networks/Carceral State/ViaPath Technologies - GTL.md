@@ -1,17 +1,17 @@
 ---
-title: "ViaPath Technologies - GTL"
+title: ViaPath Technologies - GTL
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Carceral State"
-entity-type: "Corporation"
+sector: Carceral State
+entity-type: Corporation
 related: "[[Aramark]] · [[Securus Technologies - Aventiv]] · [[GEO Group]] · [[CoreCivic]] · [[CCPOA - California Correctional Peace Officers Association]] · [[Prison Policy Initiative]] · [[CoreCivic - Private Prisons]] · [[GEO Group - Private Prisons]]"
 known-gaps:
-  - "No SEC corporate filings"
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
+  - No SEC corporate filings
+  - No FEC contribution data
+  - No lobbying disclosure data
 lobbying-spend: 140000
 lobbying-filings: 17
 nhtsa-recalls: 0
@@ -19,10 +19,11 @@ nhtsa-complaints: 0
 last-enriched: "2026-04-11"
 urls-first-triaged: "2026-04-15"
 epa-facilities: 2
-epa-states: "AR, CA"
+epa-states: AR, CA
 employee-contributions: 145
 employee-contributions-total: 23633
 employee-donor-count: 26
+politicians-funded: "[[RNC - Republican National Committee]], [[WinRed]], [[_Marco Rubio Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[Trump Victory]], [[ActBlue]], [[Emily's List]], [[NRCC - National Republican Congressional Committee]], [[MAGA Inc]], [[Marco Rubio]]"
 ---
 
 

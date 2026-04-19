@@ -2,21 +2,21 @@
 title: Raytheon (RTX Corporation)
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 2
 parent: null
 sector: Defense & Intelligence
 entity-type: Corporation
 aliases:
-  - "Raytheon"
-  - "Raytheon Technologies"
-  - "Raytheon (RTX)"
-  - "RTX Corporation"
-  - "RTX Corp"
+  - Raytheon
+  - Raytheon Technologies
+  - Raytheon (RTX)
+  - RTX Corporation
+  - RTX Corp
 featured-date: "2026-04-10"
 spotlight-reason: Highest reach in the database , funds 22 politicians across both parties. Board members cycle through Pentagon leadership. Defense budget hit $886B.
 shareable-stat: 22 politicians funded. Board-to-Pentagon pipeline. $886B defense budget.
-politicians-funded: "[[Adam Smith]], [[Rick Scott]], [[Hakeem Jeffries]], [[John Barrasso]], [[Steve Scalise]], [[Seth Moulton]], [[Lloyd Austin]], [[Martin Heinrich]], [[Mike Johnson]], [[Mike Rogers]], [[Mark Esper]], [[Roger Wicker]], [[Rosa DeLauro]], [[Donald Trump]]"
+politicians-funded: "[[Adam Smith]], [[Rick Scott]], [[Hakeem Jeffries]], [[John Barrasso]], [[Steve Scalise]], [[Seth Moulton]], [[Lloyd Austin]], [[Martin Heinrich]], [[Mike Johnson]], [[Mike Rogers]], [[Mark Esper]], [[Roger Wicker]], [[Rosa DeLauro]], [[Donald Trump]], [[_Young Kim Master Profile]], [[Votevets]], [[_Pete Sessions Master Profile]], [[Senate Conservatives Fund]], [[NRSC - National Republican Senatorial Committee]], [[JUSTICE DEMOCRATS PAC]], [[Republican Jewish Coalition]], [[MoveOn.org Political Action]], [[Emily's List]], [[The Lincoln Project]], [[The National Republican Trust PAC]], [[RNC - Republican National Committee]], [[_Gabe Amo Master Profile]], [[WinSenate]], [[Hmp]], [[_Pete Aguilar Master Profile]], [[Catherine Cortez Masto]], [[Let America Vote PAC]], [[Courage California Super Pac]], [[_John James Master Profile]], [[_Jon Ossoff Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Morgan McGarvey Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[FAMILY RESEARCH COUNCIL ACTION POLITICAL ACTION COMMITTEE]], [[National Rifle Association]], [[_Tammy Baldwin Master Profile]], [[_Cory Booker Master Profile]], [[_Mike Rogers Master Profile]], [[Trump Victory]], [[League of Conservation Voters]], [[_Kamala Harris Master Profile]], [[_Derek Tran Master Profile]], [[Progressive Turnout Project]], [[Nancy Mace]], [[_Tim Scott Master Profile]], [[_Nancy Pelosi Master Profile]], [[_Robert Garcia Master Profile]], [[_Marco Rubio Master Profile]], [[Mark Kelly]], [[Campaign for Working Families]], [[_Elissa Slotkin Master Profile]], [[_Ted Cruz Master Profile]], [[NRCC - National Republican Congressional Committee]], [[Save America PAC]], [[Raytheon (RTX)]], [[_Lauren Boebert Master Profile]], [[ActBlue]], [[Marianne Williamson]], [[Working Families Party PAC]], [[MAGA Inc]], [[_Don Bacon Master Profile]], [[Mad Dog PAC]], [[Human Rights Campaign Equality Votes]], [[_Ron Johnson Master Profile]], [[_Thomas Massie Master Profile]], [[Giffords PAC]], [[Bernie Moreno]], [[_Jake Ellzey Master Profile]], [[314 ACTION FUND]], [[WinRed]], [[_Rashida Tlaib Master Profile]], [[AIPAC - American Israel Public Affairs Committee]], [[_Kevin Mullin Master Profile]], [[CHC BOLD PAC]], [[_Jamie Raskin Master Profile]], [[Americans for Prosperity]], [[_Lauren Underwood Master Profile]], [[_Ted Lieu Master Profile]], [[_Jason Crow Master Profile]], [[Congressional Progressive Caucus PAC]], [[REPUBLICAN PARTY OF FLORIDA]], [[_Jim Jordan Master Profile]], [[_Cori Bush Master Profile]], [[_Anna Paulina Luna Master Profile]], [[_Troy Downing Master Profile]], [[_George Whitesides Master Profile]], [[DNC - Democratic National Committee]], [[_Darrell Issa Master Profile]], [[_Laura Friedman Master Profile]], [[_Doug Burgum Master Profile]], [[FreedomWorks for America]], [[READY TO WIN]], [[Sierra Club Political Committee]], [[National Victory Action Fund]], [[Bob Casey]], [[Los Angeles County Democratic Central Committee]], [[_Chris Pappas Master Profile]], [[Madison Project Inc.]], [[Democratic Party of Virginia]], [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]], [[_Michael Waltz Master Profile]], [[Congressional Leadership Fund]], [[_Veronica Escobar Master Profile]], [[Jake Ellzey]], [[Nancy Pelosi]], [[Jason Crow]], [[Ted Cruz]], [[Young Kim]], [[Kevin Mullin]], [[Rashida Tlaib]], [[Michael Waltz]], [[Pete Sessions]], [[Cory Booker]], [[Chris Pappas]], [[Ron Johnson]], [[Robert Garcia]], [[Laura Friedman]], [[Gabe Amo]], [[George Whitesides]], [[Jon Ossoff]], [[Veronica Escobar]], [[Marco Rubio]], [[Elissa Slotkin]], [[Derek Tran]], [[Thomas Massie]], [[Tim Scott]], [[Ted Lieu]], [[Darrell Issa]], [[Jamie Raskin]], [[Kamala Harris]], [[Pete Aguilar]], [[Morgan McGarvey]], [[Anna Paulina Luna]], [[Lauren Underwood]], [[Tammy Baldwin]], [[Lauren Boebert]], [[Jim Jordan]], [[Don Bacon]], [[Troy Downing]], [[Cori Bush]], [[John James]], [[Doug Burgum]]"
 issues:
   - Defense & Military
 lei: I07WOS4YJ0N7YRFE7309
@@ -35,18 +35,18 @@ cross-vault-triangulation-count: 18
 audit-a-plus-passed: "2026-04-11"
 federal-register-mentions: 28
 regulatory-agencies:
-  - "Antitrust Division"
-  - "Commerce Department"
-  - "Defense Department"
-  - "Environmental Protection Agency"
-  - "Federal Aviation Administration"
-  - "Industry and Security Bureau"
-  - "International Trade Administration"
-  - "Justice Department"
-  - "Labor Department"
-  - "Securities and Exchange Commission"
+  - Antitrust Division
+  - Commerce Department
+  - Defense Department
+  - Environmental Protection Agency
+  - Federal Aviation Administration
+  - Industry and Security Bureau
+  - International Trade Administration
+  - Justice Department
+  - Labor Department
+  - Securities and Exchange Commission
 epa-facilities: 75
-epa-states: "AL, AR, AZ, CA, CO, CT, FL, IN, KS, KY, MA, MD, MI, MS, NH, NJ, NY, PA, RI, TX, VA"
+epa-states: AL, AR, AZ, CA, CO, CT, FL, IN, KS, KY, MA, MD, MI, MS, NH, NJ, NY, PA, RI, TX, VA
 federal-contracts: 18143
 federal-awards-total: 53187942533
 total-raised: 1682166

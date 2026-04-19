@@ -1,41 +1,42 @@
 ---
-title: "Monica de la Cruz"
+title: Monica de la Cruz
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Texas"
-state-abbr: "TX"
+party: Republican
+chamber: House
+state: Texas
+state-abbr: TX
 district: "15"
-bioguide-id: "D000594"
+bioguide-id: D000594
 govtrack-id: 456943
 born: "1974-11-11"
-wikidata-id: "Q115496109"
-website: "https://delacruz.house.gov"
-phone: "202-225-9901"
+wikidata-id: Q115496109
+website: https://delacruz.house.gov
+phone: 202-225-9901
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 ofac-sdn-match: "true"
 last-enriched: "2026-04-12"
 ofac-programs:
-  - "CUBA"
-  - "SDNT"
-  - "SDNTK"
-  - "VENEZUELA-EO13850"
-  - "SDGT] [ILLICIT-DRUGS-EO14059"
+  - CUBA
+  - SDNT
+  - SDNTK
+  - VENEZUELA-EO13850
+  - SDGT] [ILLICIT-DRUGS-EO14059
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H0TX15124"
+fec-candidate-id: H0TX15124
 bills-sponsored: 30
 bills-cosponsored: 315
 bills-enacted: 0
-top-policy-area: "International Affairs"
+top-policy-area: International Affairs
+top-donors: "[[Chevron]], [[National Victory Action Fund]], [[General Dynamics]], [[Marathon Petroleum]], [[MAJORITY PAC]], [[Walmart - Walton Family]], [[Planned Parenthood Votes]], [[Campaign for Working Families]], [[Jake Ellzey]], [[National Rifle Association]], [[National Multifamily Housing Council]], [[WinRed]], [[Adrian Smith]], [[August Pfluger]], [[Byron Donalds]], [[Bank of America]], [[ConocoPhillips]], [[The Sentinel Action Fund]], [[Mike Collins]], [[Austin Scott]], [[Elbert Guillory's America]], [[Google - Alphabet]], [[Save America PAC]], [[National Association of Realtors]], [[General Motors]], [[National Cattlemen's Beef Association]], [[AIPAC - American Israel Public Affairs Committee]], [[Congressional Leadership Fund]], [[Valero Energy]], [[Republican Jewish Coalition]], [[Fairshake PAC - Crypto Super PAC]], [[VIEW PAC - Value in Electing Women]], [[Opportunity Matters Fund]], [[Pete Sessions]], [[Hmp]], [[Wfw Action Fund, Inc.]], [[Rick W. Allen]], [[Lockheed Martin]], [[Cliff Bentz]], [[Nathaniel Moran]], [[NRCC - National Republican Congressional Committee]], [[Darrell Issa]], [[Morgan Stanley]], [[Americans for Prosperity]], [[Joe Wilson]], [[National Right to Life Victory Fund]], [[Jim Jordan]], [[Associated General Contractors of America Political Action Committee]], [[Eric Burlison]], [[American Hospital Association PAC]], [[Halliburton]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[National Restaurant Association]], [[Ron Estes]], [[Vern Buchanan]], [[AT&T - WarnerMedia]], [[Amgen Inc]], [[Citigroup]], [[Kevin Kiley]], [[David Rouzer]], [[Andy Harris]], [[Comcast - NBCUniversal]]"
 ---
 
 

@@ -4,7 +4,7 @@ type: politician
 bioguide-id: C001035
 content-readiness: ready
 central-thesis: "Susan Collins has perfected the most profitable brand in the Senate: the reluctant moderate. Her 'careful deliberation' on every major vote generates maximum fundraising pressure from both sides , and she reliably delivers for the donor class ever..."
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Republican
@@ -35,12 +35,12 @@ known-gaps:
   - No voting record data
   - No mapped relationships
 related: "[[_Mitch McConnell Master Profile]] · [[The McConnell-Leo Judicial Pipeline]] · [[Blackstone]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Schwarzman and Singer Fund Every Republican Faction]] · [[Janet Mills]]"
-donors: "[[Blackstone Group]] · [[Tech Industry]] · [[1820 PAC]] · [[American Gaming Association]] · [[NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND]] · [[Blackstone]]"
+donors: "[[Blackstone Group]] · [[Tech Industry]] · [[1820 PAC]] · [[American Gaming Association]] · [[NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND]] · [[Blackstone]] · [[Anthem - Elevance Health]] · [[Lockheed Martin]] · [[Raytheon (RTX)]] · [[National Multifamily Housing Council]] · [[Citigroup]] · [[Johnson & Johnson]] · [[Republican Jewish Coalition]] · [[WinRed]] · [[Bank of America]] · [[Pfizer Inc.]] · [[iHeartMedia]] · [[BAE Systems]] · [[SLF PAC]] · [[General Dynamics]] · [[NRSC - National Republican Senatorial Committee]] · [[L3Harris Technologies]] · [[Amgen Inc]] · [[American College of Radiology Association PAC]] · [[AbbVie]] · [[PG&E - Pacific Gas and Electric]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[American Chemistry Council, INC]] · [[Chevron]] · [[Tyson Foods]] · [[AT&T - WarnerMedia]] · [[Planned Parenthood Votes]] · [[Associated General Contractors of America Political Action Committee]] · [[Google - Alphabet]] · [[Comcast - NBCUniversal]] · [[Humana]] · [[Gilead Sciences]] · [[Northrop Grumman]] · [[Microsoft]] · [[National Restaurant Association]] · [[General Motors]] · [[Clearpath Action Fund, Inc.]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Ford Motor Company]] · [[VIEW PAC - Value in Electing Women]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[Drain the DC Swamp PAC]] · [[Walmart - Walton Family]] · [[Common Sense for America PAC]] · [[NORPAC]] · [[National Victory Action Fund]] · [[National Association of Realtors]] · [[American Hospital Association PAC]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 37
 bills-cosponsored: 475
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
 ---
 
 

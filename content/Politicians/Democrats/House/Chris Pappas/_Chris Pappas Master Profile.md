@@ -1,33 +1,34 @@
 ---
-title: "Chris Pappas"
+title: Chris Pappas
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "New Hampshire"
-state-abbr: "NH"
+party: Democrat
+chamber: House
+state: New Hampshire
+state-abbr: NH
 district: "1"
-bioguide-id: "P000614"
+bioguide-id: P000614
 govtrack-id: 412795
 born: "1980-06-04"
-wikidata-id: "Q5107684"
-website: "https://pappas.house.gov"
-phone: "202-225-5456"
+wikidata-id: Q5107684
+website: https://pappas.house.gov
+phone: 202-225-5456
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "S6NH00141"
+fec-candidate-id: S6NH00141
 bills-sponsored: 41
 bills-cosponsored: 542
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Robert Garcia]], [[League of Conservation Voters]], [[VOTER PROTECTION PROJECT]], [[Let America Vote PAC]], [[Giffords PAC]], [[DMFI - Democratic Majority for Israel]], [[American Federation of State County & Municipal Employees P E O P L E]], [[NEA Fund for Children and Public Education]], [[Pete Aguilar]], [[IBEW - International Brotherhood of Electrical Workers]], [[Nancy Pelosi]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[EQUALITY PROJECT PAC]], [[Mark Kelly]], [[Teamsters - International Brotherhood of Teamsters]], [[Amazon]], [[Pfizer Inc.]], [[Google - Alphabet]], [[Centene Corporation]], [[Northrop Grumman]], [[Susquehanna International Group]], [[Booz Allen Hamilton]], [[Microsoft]], [[Apple]], [[Airbnb]], [[BAE Systems]], [[Comcast - NBCUniversal]], [[Business Roundtable]], [[Ballard Partners]], [[JPMorgan Chase]], [[UnitedHealth Group - Optum]], [[MassMutual]], [[Hospital Corporation of America - HCA]], [[Morgan Stanley]], [[Verizon]], [[Anduril Industries]], [[AbbVie]], [[Raytheon (RTX Corporation)]], [[Meta - Facebook]], [[Oracle]], [[a16z - Andreessen Horowitz]], [[Boeing]], [[Progressive Turnout Project]], [[CVS Health - Aetna]], [[General Dynamics]], [[Nvidia]], [[Wells Fargo]], [[Bank of America]], [[Merck]], [[Chevron]], [[News Corp - Fox Corporation]], [[Goldman Sachs]], [[Center for American Progress]], [[CBRE Group]], [[Emily's List]], [[UPS]], [[Anthem - Elevance Health Political Operation]], [[Gilead Sciences]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[Blackstone Group]], [[Votevets]], [[J Street]], [[Monsanto - Bayer]], [[Anthem - Elevance Health]], [[Tenet Healthcare]], [[Lockheed Martin]], [[Honeywell International]], [[Uber]], [[Palantir Technologies]], [[Cigna Group]], [[Eli Lilly]], [[Fidelity Investments]], [[Starbucks]], [[Coinbase]]"
 ---
 
 

@@ -2,7 +2,7 @@
 title: Tech Industry
 type: donor
 content-readiness: ready
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Tech & Crypto
@@ -15,7 +15,7 @@ annual-revenue: $249K
 net-assets: $131K
 tax-year: "2023"
 total-political-spend: $336,000
-politicians-funded: "[[Gerry Connolly]], [[Jason Smith]], [[Zoe Lofgren]], [[Susan Collins]], [[Mark Warner]], [[Martin Heinrich]], [[Adam Smith]], [[Cathy McMorris Rodgers]], [[Mike Collins]], [[Hakeem Jeffries]]"
+politicians-funded: "[[Gerry Connolly]], [[Jason Smith]], [[Zoe Lofgren]], [[Susan Collins]], [[Mark Warner]], [[Martin Heinrich]], [[Adam Smith]], [[Cathy McMorris Rodgers]], [[Mike Collins]], [[Hakeem Jeffries]], [[ActBlue]], [[WinRed]]"
 federal-register-mentions: 53
 last-enriched: "2026-04-09"
 regulatory-agencies:
@@ -268,3 +268,23 @@ The industry's political priorities span both parties' agendas: Section 230 pres
 Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
 
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Tech%20Industry%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $212K |
+| Total expenses | — |
+| Total assets (EOY) | $130K |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

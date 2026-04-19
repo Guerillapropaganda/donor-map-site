@@ -2,12 +2,12 @@
 title: Demand Justice
 type: donor
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Dark Money
 entity-type: Individual Donor
-politicians-funded: "[[Jamie Raskin]]"
+politicians-funded: "[[Jamie Raskin]], [[Veronica Escobar]], [[Jimmy Gomez]], [[Sydney Kamlager-Dove]], [[Mark Pocan]], [[Tina Smith]], [[Elissa Slotkin]], [[Summer Lee]], [[Nikema Williams]], [[Maxwell Frost]], [[Nikki Budzinski]], [[Jamaal Bowman]], [[Tammy Baldwin]], [[Katie Porter]], [[Shri Thanedar]], [[Cori Bush]], [[ActBlue]], [[Brendan Boyle]], [[Joaquin Castro]], [[Sherrod Brown]], [[Lloyd Doggett]], [[Rashida Tlaib]], [[Maggie Goodlander]], [[Pramila Jayapal]], [[Robert Garcia]]"
 issues:
   - Dark Money & Campaign Finance
 ein: "863689961"
@@ -377,3 +377,33 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/863689961/2022)~~ (URL broken, archived by Ops)
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/863689961/2021)~~ (URL broken, archived by Ops)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Demand%20Justice%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 3 (2022–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $557K |
+| Total expenses | — |
+| Total assets (EOY) | $1.5M |
+| Grants paid out | — |
+
+**Lifetime grants out (2022–2024):** $91K across 3 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| NATIONAL LEGAL AID &amp; DEFENDER ASSOCIATION | $51K | 1 | 2022 |
+| NATIONAL BLACK LAW STUDENTS ASSOCIATION | $25K | 1 | 2022 |
+| RISE INC | $15K | 1 | 2023 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

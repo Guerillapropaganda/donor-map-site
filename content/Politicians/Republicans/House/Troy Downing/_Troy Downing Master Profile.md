@@ -1,29 +1,30 @@
 ---
-title: "Troy Downing"
+title: Troy Downing
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Montana"
-state-abbr: "MT"
+party: Republican
+chamber: House
+state: Montana
+state-abbr: MT
 district: "2"
-bioguide-id: "D000634"
+bioguide-id: D000634
 govtrack-id: 457000
 born: "1967-03-04"
-wikidata-id: "Q103158011"
-website: "https://downing.house.gov"
-phone: "202-225-3211"
+wikidata-id: Q103158011
+website: https://downing.house.gov
+phone: 202-225-3211
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H4MT02098"
+fec-candidate-id: H4MT02098
+top-donors: "[[Citigroup]], [[National Association of Realtors]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Darrell Issa]], [[MAJORITY PAC]], [[Honeywell]], [[National Cattlemen's Beef Association]], [[WinRed]], [[NextEra Energy]], [[Jim Jordan]], [[Northrop Grumman]], [[Morgan Stanley]], [[American Hospital Association PAC]], [[Defending Main Street Superpac INC]], [[National Rifle Association]], [[National Multifamily Housing Council]], [[CVS Health - Aetna]], [[Associated General Contractors of America Political Action Committee]], [[AIPAC - American Israel Public Affairs Committee]], [[National Restaurant Association]], [[Lockheed Martin]], [[Jake Ellzey]], [[Defend American Jobs]], [[Bank of America]], [[Chevron]], [[Charles Schwab]], [[Coinbase]], [[Blackstone Group]], [[Apple]], [[Elliott Management]], [[Apollo Global Management]], [[HBW Resources]], [[Raytheon (RTX Corporation)]]"
 ---
 
 

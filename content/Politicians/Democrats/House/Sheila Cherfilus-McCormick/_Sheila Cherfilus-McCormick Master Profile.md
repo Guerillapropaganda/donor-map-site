@@ -1,33 +1,34 @@
 ---
-title: "Sheila Cherfilus-McCormick"
+title: Sheila Cherfilus-McCormick
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Florida"
-state-abbr: "FL"
+party: Democrat
+chamber: House
+state: Florida
+state-abbr: FL
 district: "20"
-bioguide-id: "C001127"
+bioguide-id: C001127
 govtrack-id: 456865
 born: "1979-01-25"
-wikidata-id: "Q109560948"
-website: "https://cherfilus-mccormick.house.gov"
-phone: "202-225-1313"
+wikidata-id: Q109560948
+website: https://cherfilus-mccormick.house.gov
+phone: 202-225-1313
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H8FL20032"
+fec-candidate-id: H8FL20032
 bills-sponsored: 20
 bills-cosponsored: 643
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Raytheon (RTX)]], [[Amgen Inc]], [[NEA Fund for Children and Public Education]], [[Lockheed Martin]], [[AIPAC - American Israel Public Affairs Committee]], [[Care Action]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[National Association of Realtors]], [[NextEra Energy]], [[Comcast - NBCUniversal]], [[SEIU COPE]], [[Sierra Club Independent Action]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Ted Lieu]], [[Progressive Turnout Project]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Walmart - Walton Family]], [[American Hospital Association PAC]], [[Leidos]], [[AbbVie]], [[AT&T - WarnerMedia]], [[DMFI - Democratic Majority for Israel]], [[Pfizer Inc.]]"
 ---
 
 

@@ -2,12 +2,12 @@
 title: Western Growers Association
 type: donor
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Agriculture
 entity-type: Individual Donor
-politicians-funded: "[[Jerry Moran]], [[Gina McCarthy]], [[Mike Johnson]], [[Tracey Mann]], [[Julie Johnson]], [[Lisa Jackson]], [[Jeh Johnson]], [[Dusty Johnson]], [[Henry Cuellar]], [[Kevin McCarthy]], [[Brad Finstad]], [[Tom Emmer]], [[August Pfluger]], [[Nathaniel Moran]], [[Ron Johnson]], [[John Hoeven]], [[Henry C. Hank Johnson]], [[Roger Marshall]], [[Ketanji Brown Jackson]], [[Jonathan L. Jackson]], [[Ronny Jackson]]"
+politicians-funded: "[[Jerry Moran]], [[Gina McCarthy]], [[Mike Johnson]], [[Tracey Mann]], [[Julie Johnson]], [[Lisa Jackson]], [[Jeh Johnson]], [[Dusty Johnson]], [[Henry Cuellar]], [[Kevin McCarthy]], [[Brad Finstad]], [[Tom Emmer]], [[August Pfluger]], [[Nathaniel Moran]], [[Ron Johnson]], [[John Hoeven]], [[Henry C. Hank Johnson]], [[Roger Marshall]], [[Ketanji Brown Jackson]], [[Jonathan L. Jackson]], [[Ronny Jackson]], [[WinRed]]"
 issues:
   - Immigration
 ein: "751972150"
@@ -55,22 +55,22 @@ sec-form-types:
   - SB-2/A
 federal-register-mentions: 22
 regulatory-agencies:
-  - "Agricultural Marketing Service"
-  - "Agriculture Department"
-  - "Environmental Protection Agency"
-  - "Fish and Wildlife Service"
-  - "Food and Drug Administration"
-  - "Health and Human Services Department"
-  - "Homeland Security Department"
-  - "Interior Department"
-  - "Pipeline and Hazardous Materials Safety Administration"
-  - "Transportation Department"
+  - Agricultural Marketing Service
+  - Agriculture Department
+  - Environmental Protection Agency
+  - Fish and Wildlife Service
+  - Food and Drug Administration
+  - Health and Human Services Department
+  - Homeland Security Department
+  - Interior Department
+  - Pipeline and Hazardous Materials Safety Administration
+  - Transportation Department
 related: "[[Agricultural Labor Vulnerability Donors]] · [[_Gavin Newsom Master Profile]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[Immigration - Donors and Backers]] · [[Labor - Donors and Backers]] · [[California Farm Bureau Federation]] · [[Haim Saban]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[JCRC Bay Area]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[United Arab Emirates - Influence Operation]] · [[Turkey - Erdogan Lobbying Operation]] · [[National Association of Manufacturers]] · [[Entertainment and Hollywood Donors]] · [[ActBlue]] · [[Democratic Party Infrastructure]] · [[Ohio Democratic Party]] · [[Ocean Conservancy]] · [[New Venture Fund]] · [[National Progressive Donor Networks]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Finance and Tech Bundler Network]] · [[Federalist Society]] · [[Environmental Law & Policy Center]] · [[Donors Capital Fund]] · [[Democratic Small Dollar Networks]] · [[Democratic Donor Network]] · [[Democracy Alliance]] · [[Demand Justice]] · [[Council for National Policy]] · [[Conservative Partnership Institute]] · [[Concerned Veterans for America]] · [[CREW - Citizens for Responsibility and Ethics in Washington]] · [[Business Roundtable]] · [[Bradley Impact Fund]] · [[Bradley Foundation]]"
 cross-vault-triangulation-count: 10
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-wikidata-id: "Q19321870"
-wikipedia-url: "https://en.wikipedia.org/wiki/Western_Growers_Association"
-wikipedia-extract: "The Western Growers Association (WGA) is an association representing family farmers who grow fresh produce and tree nuts in California, Arizona, Colorado and New Mexico."
+wikidata-id: Q19321870
+wikipedia-url: https://en.wikipedia.org/wiki/Western_Growers_Association
+wikipedia-extract: The Western Growers Association (WGA) is an association representing family farmers who grow fresh produce and tree nuts in California, Arizona, Colorado and New Mexico.
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -502,3 +502,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/751972150/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/751972150/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/751972150/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 7 (2018–2025)
+
+**Most recent filing (2025):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $20K |
+| Total expenses | — |
+| Total assets (EOY) | $703K |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

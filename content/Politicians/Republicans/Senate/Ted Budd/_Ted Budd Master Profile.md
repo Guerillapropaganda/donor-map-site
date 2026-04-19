@@ -1,31 +1,32 @@
 ---
-title: "Ted Budd"
+title: Ted Budd
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "Senate"
-state: "North Carolina"
-state-abbr: "NC"
-bioguide-id: "B001305"
+party: Republican
+chamber: Senate
+state: North Carolina
+state-abbr: NC
+bioguide-id: B001305
 govtrack-id: 412712
 born: "1971-10-21"
-wikidata-id: "Q27733792"
-website: "https://www.budd.senate.gov"
-phone: "202-224-3154"
+wikidata-id: Q27733792
+website: https://www.budd.senate.gov
+phone: 202-224-3154
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 42
 bills-cosponsored: 416
 bills-enacted: 1
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Google - Alphabet]], [[Blackstone Group]], [[Duke Energy]], [[Goldman Sachs]], [[Lockheed Martin]], [[AT&T]], [[Wells Fargo]], [[Cigna Group]], [[Koch Industries]], [[MassMutual]], [[Chevron]], [[Coinbase]], [[Oracle]], [[CoreCivic]], [[Amazon]], [[Northrop Grumman]], [[Anduril Industries]], [[UnitedHealth Group - Optum]], [[US CHAMBER OF COMMERCE]], [[Morgan Stanley]], [[Walmart]], [[Meta - Facebook]], [[Bank of America]], [[Tyson Foods]], [[Apple]], [[ExxonMobil]], [[CVS Health - Aetna]], [[Charles Schwab]], [[UPS]], [[McDonalds Corporation]], [[Microsoft]], [[Merck]], [[Kaiser Permanente]], [[Humana]], [[Apollo Global Management]]"
 ---
 
 

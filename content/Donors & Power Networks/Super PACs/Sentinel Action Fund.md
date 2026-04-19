@@ -185,3 +185,50 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/824373804/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/824373804/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/824373804/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 7 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | $15.3M |
+| Grants paid out | $4.1M |
+
+**Lifetime grants out (2018–2024):** $26.2M across 107 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| AMERICA VOTES | $3.6M | 7 | 2018–2024 |
+| ARIZONA WINS | $2.2M | 6 | 2018–2023 |
+| CENTER FOR CIVIC ACTION | $1.3M | 7 | 2018–2024 |
+| TIDES ADVOCACY | $1.0M | 5 | 2018–2023 |
+| BETTER FUTURE FOR NEW MEXICO | $840K | 6 | 2018–2024 |
+| NEO PHILANTHROPY ACTION FUND | $700K | 5 | 2019–2024 |
+| ONE APIA NEVADA | $675K | 6 | 2018–2024 |
+| PROGRESSIVE LEADERSHIP ALLIANCE OF NEVADA ACTION FUND | $580K | 4 | 2019–2024 |
+| NILC IMMIGRANT JUSTICE FUND | $552K | 6 | 2019–2024 |
+| ADRC ACTION | $525K | 1 | 2022 |
+| MI FAMILIA VOTA | $500K | 4 | 2019–2023 |
+| SUNRISE MOVEMENT | $500K | 2 | 2021–2022 |
+| PROGRESSNOW NEW MEXICO | $460K | 6 | 2019–2024 |
+| FORWARD ACTION FUND (SOMOS VOTANTES C4) | $415K | 1 | 2024 |
+| OUR VOICE OUR VOTE ARIZONA | $410K | 5 | 2019–2023 |
+| BATTLE BORN PROGRESS | $410K | 5 | 2018–2024 |
+| CONSERVATION VOTERS NEW MEXICO | $400K | 3 | 2018–2022 |
+| SIXTEEN THIRTY FUND | $400K | 5 | 2018–2023 |
+| NEW LEFT ACCELERATOR | $390K | 5 | 2020–2024 |
+| ORGANIZERS IN THE LAND OF ENCHANTMENT | $375K | 6 | 2019–2024 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

@@ -1,33 +1,34 @@
 ---
-title: "Joaquin Castro"
+title: Joaquin Castro
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Texas"
-state-abbr: "TX"
+party: Democrat
+chamber: House
+state: Texas
+state-abbr: TX
 district: "20"
-bioguide-id: "C001091"
+bioguide-id: C001091
 govtrack-id: 412576
 born: "1974-09-16"
-wikidata-id: "Q1167934"
-website: "https://castro.house.gov"
-phone: "202-225-3236"
+wikidata-id: Q1167934
+website: https://castro.house.gov
+phone: 202-225-3236
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H2TX35011"
+fec-candidate-id: H2TX35011
 bills-sponsored: 34
 bills-cosponsored: 290
 bills-enacted: 5
-top-policy-area: "International Affairs"
+top-policy-area: International Affairs
+top-donors: "[[Sierra Club Political Committee]], [[VOTER PROTECTION PROJECT]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Multifamily Housing Council]], [[IBEW - International Brotherhood of Electrical Workers]], [[Nancy Pelosi]], [[SEIU COPE]], [[NEA Fund for Children and Public Education]], [[Teamsters - International Brotherhood of Teamsters]], [[Everytown for Gun Safety]], [[UA Political Action Committee]], [[J Street]], [[Walmart - Walton Family]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Planned Parenthood Votes]], [[National Association of Realtors]], [[AT&T - WarnerMedia]], [[League of Conservation Voters]], [[Microsoft]], [[Google - Alphabet]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Sierra Club Independent Action]], [[Demand Justice]], [[Human Rights Campaign Equality Votes]], [[Let America Vote PAC]]"
 ---
 
 

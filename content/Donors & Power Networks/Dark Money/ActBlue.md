@@ -2,12 +2,12 @@
 title: ActBlue
 type: donor
 content-readiness: draft
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Dark Money
 entity-type: Individual Donor
-politicians-funded: "[[Adrian Smith]], [[Katherine M. Clark]], [[Joe Biden]], [[Dan Osborn]], [[Jon Ossoff]], [[Christopher H. Smith]], [[Tina Smith]], [[James C. Justice]], [[Adam Smith]], [[Jason Smith]]"
+politicians-funded: "[[Adrian Smith]], [[Katherine M. Clark]], [[Joe Biden]], [[Dan Osborn]], [[Jon Ossoff]], [[Christopher H. Smith]], [[Tina Smith]], [[James C. Justice]], [[Adam Smith]], [[Jason Smith]], [[_Jon Ossoff Master Profile]], [[ActBlue]], [[Los Angeles County Democratic Central Committee]], [[JUSTICE DEMOCRATS PAC]], [[_Cory Booker Master Profile]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[_Rashida Tlaib Master Profile]], [[Indivisible Action]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Really American Pac]], [[_Kevin Mullin Master Profile]], [[_Deb Haaland Master Profile]], [[Emily's List]], [[Barbara Lee]], [[DCCC - Democratic Congressional Campaign Committee]], [[Cory Booker]], [[Kevin Mullin]], [[Deb Haaland]], [[Rashida Tlaib]]"
 issues:
   - Infrastructure
   - Dark Money & Campaign Finance
@@ -21,10 +21,10 @@ last-enriched: "2026-04-18"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
 regulatory-agencies:
-  - "Federal Election Commission"
+  - Federal Election Commission
 ein: 455097038
-annual-revenue: "$2.0M"
-net-assets: "$8.5M"
+annual-revenue: $2.0M
+net-assets: $8.5M
 tax-year: "2023"
 related: "[[Democratic Party Infrastructure]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Dan Osborn Master Profile]] · [[2024-2026 Campaign Finance and Democratic Infrastructure]] · [[The Housing Progressive and Wall Street Tension]] · [[Elizabeth Warren Master Profile]] · [[The Medicare for All Retreat - Two Audiences and One Calculation]] · [[The CFPB and the Limits of Reform Within the System]] · [[The 2020 Campaign and the Donor Class Consolidation]] · [[The Climate Hawk and Green New Deal Limits]] · [[The Labor-HHS Appropriations Chair and Nutrition Policy]] · [[Pramila Jayapal]] · [[The Progressive Caucus and the Squad's Institutional Wing]] · [[The Oversight Committee and the Anti-Corruption Brand]] · [[The Education Committee and Labor Alignment]] · [[Democratic Small Dollar Networks]] · [[WinRed]] · [[Democratic Donor Network]] · [[Future Forward USA Action]] · [[Senate Majority PAC]] · [[House Majority PAC]] · [[Small Dollar Donors - ActBlue]] · [[Ohio Democratic Party]] · [[Ohio Federation of Teachers]] · [[Bernie Sanders Master Profile]] · [[MAGA Small Dollar Base]] · [[Emilys List]] · [[Adam Smith]] · [[Jason Smith]] · [[American Gaming Association]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Haim Saban]] · [[JCRC Bay Area]] · [[Ocean Conservancy]] · [[New Venture Fund]] · [[National Progressive Donor Networks]] · [[National Association of Manufacturers]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Healthcare Sector]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[House Freedom Caucus]] · [[Federalist Society]] · [[Entertainment and Hollywood Donors]] · [[Donors Capital Fund]] · [[Democracy Alliance]] · [[Demand Justice]] · [[Council for National Policy]] · [[Conservative Partnership Institute]] · [[Concerned Veterans for America]] · [[CREW - Citizens for Responsibility and Ethics in Washington]] · [[Business Roundtable]] · [[Bradley Impact Fund]] · [[Bradley Foundation]] · [[Arabella Advisors]] · [[Americans for Tax Reform - Grover Norquist]] · [[American Enterprise Institute]] · [[American Action Network]] · [[America First Policy Institute]]"
 court-cases: 141
@@ -42,9 +42,9 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 nonprofit-status: 501(c)(4)
 total-revenue: 3117422
 total-assets: 9477177
-wikidata-id: "Q4676589"
-wikipedia-url: "https://en.wikipedia.org/wiki/ActBlue"
-wikipedia-extract: "ActBlue is an American Democratic Party political action committee (PAC) and fundraising platform founded in 2004. ActBlue is a major part of the Democratic Party's fundraising infrastructure."
+wikidata-id: Q4676589
+wikipedia-url: https://en.wikipedia.org/wiki/ActBlue
+wikipedia-extract: ActBlue is an American Democratic Party political action committee (PAC) and fundraising platform founded in 2004. ActBlue is a major part of the Democratic Party's fundraising infrastructure.
 total-political-spend: $1,765,636
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -504,3 +504,39 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/455097038/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/455097038/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/455097038/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 4 (2020–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $2.8M |
+| Total expenses | — |
+| Total assets (EOY) | $9.5M |
+| Grants paid out | — |
+
+**Lifetime grants out (2020–2024):** $707K across 9 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| NAACP | $383K | 1 | 2020 |
+| Tides AdvocacyAdvance Native Political Leadership Action Fund | $150K | 1 | 2022 |
+| AWARE LA | $73K | 1 | 2020 |
+| Black Youth Project 100 NFP | $31K | 4 | 2020 |
+| Black Voters Matter Fund Inc | $20K | 1 | 2020 |
+| Until Freedom | $18K | 1 | 2020 |
+| All Hands on Deck | $14K | 1 | 2020 |
+| Showing Up for Racial Justice Inc | $12K | 1 | 2020 |
+| Fair Fight Action Inc | $5K | 1 | 2020 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

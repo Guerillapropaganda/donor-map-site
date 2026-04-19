@@ -257,3 +257,33 @@ Make America Great Again Inc. is an American super PAC that supports Donald Trum
 Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
 
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22MAGA%20Inc%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 1 (2023–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $10.4M |
+| Total expenses | — |
+| Total assets (EOY) | $6.5M |
+| Grants paid out | $2.4M |
+
+**Lifetime grants out (2023–2023):** $2.4M across 3 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| MORE CHOICES AMERICA | $2.0M | 1 | 2023 |
+| DONOR ADVISED CHARITABLE GIVING INC | $400K | 1 | 2023 |
+| AMERICANS FOR LIMITED GOVERNMENT | $25K | 1 | 2023 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

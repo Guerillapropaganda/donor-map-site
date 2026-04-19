@@ -2,17 +2,17 @@
 title: National Cattlemen's Beef Association
 type: donor
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Agriculture
 entity-type: Individual Donor
-politicians-funded: "[[Mike Carey]], [[Harold Rogers]], [[Jimmy Panetta]], [[Glenn Thompson]], [[Leon Panetta]], [[Richard Hudson]], [[Frank Lucas]], [[Jim Costa]], [[Bennie Thompson]], [[Mike Rogers]], [[August Pfluger]], [[Nathaniel Moran]], [[Tracey Mann]], [[Vince Fong]], [[Donald Trump]], [[David G. Valadao]], [[Mike Thompson]], [[Jerry Moran]], [[Brad Finstad]], [[Bruce Westerman]], [[Julia Letlow]]"
+politicians-funded: "[[Mike Carey]], [[Harold Rogers]], [[Jimmy Panetta]], [[Glenn Thompson]], [[Leon Panetta]], [[Richard Hudson]], [[Frank Lucas]], [[Jim Costa]], [[Bennie Thompson]], [[Mike Rogers]], [[August Pfluger]], [[Nathaniel Moran]], [[Tracey Mann]], [[Vince Fong]], [[Donald Trump]], [[David G. Valadao]], [[Mike Thompson]], [[Jerry Moran]], [[Brad Finstad]], [[Bruce Westerman]], [[Julia Letlow]], [[Steve Scalise]], [[Steve Womack]], [[Dusty Johnson]], [[Cindy Hyde-Smith]], [[Michael Cloud]], [[National Cattlemen's Beef Association]], [[Ronny Jackson]], [[Morgan Luttrell]], [[French Hill]], [[Deb Fischer]], [[Marsha Blackburn]], [[Kevin Cramer]], [[Tony Wied]], [[Jodey Arrington]], [[Derrick van Orden]], [[Dan Newhouse]], [[Elise Stefanik]], [[_David Rouzer Master Profile]], [[Cathy McMorris Rodgers]], [[Pete Stauber]], [[Jason Smith]], [[Sam Graves]], [[Diana Harshbarger]], [[Todd Young]], [[Darin Lahood]], [[Aaron Bean]], [[Eric Schmitt]], [[Ron Estes]], [[Sharice Davids]], [[Scott Fitzgerald]], [[Carlos Gimenez]], [[Russ Fulcher]], [[Brett Guthrie]], [[Monica de la Cruz]], [[Lloyd Smucker]], [[Jimmy Patronis]], [[Adrian Smith]], [[Derek Schmidt]], [[David Rouzer]], [[Rick Crawford]], [[Roger Marshall]], [[Troy Balderson]], [[Patrick McHenry]], [[Bernie Moreno]], [[Troy Downing]], [[Katie Britt]], [[James Comer]], [[Mark Alford]], [[Michelle Fischbach]], [[John Hoeven]], [[Cliff Bentz]], [[Randy Fine]], [[Brandon Gill]], [[John Barrasso]], [[Rudy Yakym]], [[Scott Franklin]], [[Mike Kennedy]], [[Eric Burlison]], [[Ken Calvert]], [[Maria Elvira Salazar]], [[Kevin McCarthy]], [[Kat Cammack]], [[Mario Diaz-Balart]], [[David Scott]], [[Tim Sheehy]], [[Michael Baumgartner]], [[Pete Ricketts]], [[Scott Desjarlais]], [[Kay Granger]], [[David Kustoff]], [[Henry Cuellar]], [[Roger Wicker]], [[Pete Sessions]], [[Pat Harrigan]], [[Andrea Salinas]], [[Celeste Maloy]], [[John Cornyn]], [[Darren Soto]], [[Tim Scott]], [[Tom Cole]], [[Mike Flood]], [[Guy Reschenthaler]], [[John James]], [[Brian Babin]], [[_Jimmy Panetta Master Profile]], [[James Lankford]], [[Lisa Murkowski]], [[Catherine Cortez Masto]], [[Cory Mills]], [[Daniel Webster]], [[John Boozman]], [[Nicole Malliotakis]], [[Mike Haridopolos]], [[Richard McCormick]], [[Burgess Owens]], [[Jon Husted]], [[Shontel Brown]], [[Michael Whatley]], [[Michael Guest]], [[Shelley Moore Capito]], [[Ted Cruz]], [[Marcy Kaptur]], [[Julie Fedorchak]], [[Kyrsten Sinema]]"
 issues:
   - Agriculture
 ein: 840738973
-annual-revenue: "$54.9M"
-net-assets: "$37.3M"
+annual-revenue: $54.9M
+net-assets: $37.3M
 tax-year: "2023"
 court-cases: 85
 last-enriched: "2026-04-18"
@@ -33,16 +33,16 @@ lobbying-spend: 3106887
 lobbying-filings: 143
 federal-register-mentions: 71
 regulatory-agencies:
-  - "Agricultural Marketing Service"
-  - "Agriculture Department"
-  - "Animal and Plant Health Inspection Service"
-  - "Commodity Futures Trading Commission"
-  - "Environmental Protection Agency"
-  - "Federal Motor Carrier Safety Administration"
-  - "Federal Trade Commission"
-  - "Fish and Wildlife Service"
-  - "Food Safety and Inspection Service"
-  - "Interior Department"
+  - Agricultural Marketing Service
+  - Agriculture Department
+  - Animal and Plant Health Inspection Service
+  - Commodity Futures Trading Commission
+  - Environmental Protection Agency
+  - Federal Motor Carrier Safety Administration
+  - Federal Trade Commission
+  - Fish and Wildlife Service
+  - Food Safety and Inspection Service
+  - Interior Department
 related: "[[Fanjul Family - Florida Crystals]] · [[The Agriculture-Defense Dual Donor Axis]] · [[Agriculture - Donors and Backers]] · [[Frank Lucas Master Profile]] · [[The Oversight Chair and the Investigation Theater]] · [[The Agriculture Committee and Farm Subsidy Pipeline]] · [[Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid]] · [[American Farm Bureau Federation]] · [[_Donald Trump Master Profile|Trump]] · [[DeVos Family]] · [[American Iron and Steel Institute]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[US Chamber of Commerce]] · [[Insurance Industry]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[Walton Family Foundation]] · [[National Education Association]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Federalist Society]] · [[Donors Capital Fund]] · [[Demand Justice]] · [[Democratic Small Dollar Networks]] · [[Ocean Conservancy]] · [[Ohio Democratic Party]] · [[New Venture Fund]] · [[National Progressive Donor Networks]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Entertainment and Hollywood Donors]] · [[Democratic Party Infrastructure]] · [[Democratic Donor Network]] · [[Democracy Alliance]] · [[Council for National Policy]] · [[Conservative Partnership Institute]] · [[Concerned Veterans for America]] · [[CREW - Citizens for Responsibility and Ethics in Washington]] · [[Business Roundtable]] · [[Bradley Impact Fund]] · [[Bradley Foundation]] · [[Arabella Advisors]]"
 nonprofit-status: 501(c)(6)
 total-revenue: 56531773
@@ -75,9 +75,9 @@ sec-form-types:
   - SB-2/A
   - SC 14D9
   - SC 14D9/A
-wikidata-id: "Q6971302"
-wikipedia-url: "https://en.wikipedia.org/wiki/National_Cattlemen's_Beef_Association"
-wikipedia-extract: "National Cattlemen's Beef Association (NCBA) is an American trade association and lobbying group working for American beef producers."
+wikidata-id: Q6971302
+wikipedia-url: https://en.wikipedia.org/wiki/National_Cattlemen's_Beef_Association
+wikipedia-extract: National Cattlemen's Beef Association (NCBA) is an American trade association and lobbying group working for American beef producers.
 total-political-spend: $452,500
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -596,3 +596,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/840738973/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/840738973/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/840738973/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 7 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $6.6M |
+| Total expenses | — |
+| Total assets (EOY) | $37.3M |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

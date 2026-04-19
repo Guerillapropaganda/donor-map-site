@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Wall Street
 entity-type: Corporation
-politicians-funded: "[[Joe Biden]], [[Chuck Schumer]], [[French Hill]], [[Wes Moore]]"
+politicians-funded: "[[Joe Biden]], [[Chuck Schumer]], [[French Hill]], [[Wes Moore]], [[Ron Estes]], [[_Marco Rubio Master Profile]], [[Brendan Boyle]], [[_Lisa Blunt Rochester Master Profile]], [[Brad Sherman]], [[Richard Hudson]], [[Ritchie Torres]], [[NRCC - National Republican Congressional Committee]], [[Michelle Fischbach]], [[Jimmy Panetta]], [[John Boozman]], [[Tim Moore]], [[Ann Wagner]], [[_Tim Scott Master Profile]], [[Adrian Smith]], [[The Lincoln Project]], [[Troy Downing]], [[Debbie Wasserman Schultz]], [[Emily's List]], [[John Barrasso]], [[Bill Hagerty]], [[_Jim Jordan Master Profile]], [[Todd Young]], [[WinSenate]], [[Darin Lahood]], [[_Jason Crow Master Profile]], [[Human Rights Campaign Equality Votes]], [[Susan Collins]], [[Hakeem Jeffries]], [[Indivisible Action]], [[Thom Tillis]], [[League of Conservation Voters]], [[_Jake Auchincloss Master Profile]], [[Josh Gottheimer]], [[Steven Horsford]], [[Mario Diaz-Balart]], [[WinRed]], [[Bob Casey]], [[Sean Casten]], [[NRSC - National Republican Senatorial Committee]], [[Gwen Moore]], [[John Hoeven]], [[Warren Davidson]], [[David Scott]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Pete Aguilar]], [[_Jon Ossoff Master Profile]], [[Erin Houchin]], [[MAGA Inc]], [[ActBlue]], [[Dusty Johnson]], [[Nicole Malliotakis]], [[Patty Murray]], [[_Josh Riley Master Profile]], [[_Seth Moulton Master Profile]], [[Henry Cuellar]], [[Diana Harshbarger]], [[MoveOn.org Political Action]], [[Mitch McConnell]], [[Mike Quigley]], [[Michael Lawler]], [[Katie Britt]], [[Juan Vargas]], [[Young Kim]], [[Jerry Moran]], [[Marsha Blackburn]], [[NORPAC]], [[Emanuel Cleaver]], [[Steve Scalise]], [[_Tammy Baldwin Master Profile]], [[SEIU COPE]], [[Kevin McCarthy]], [[Tim Scott]], [[Citigroup]], [[Joseph Morelle]], [[_Joe Neguse Master Profile]], [[_Jake Ellzey Master Profile]], [[_Summer Lee Master Profile]], [[Progressive Turnout Project]], [[Mark Kelly]], [[Madeleine Dean]], [[Claudia Tenney]], [[Jon Husted]], [[Roger Williams]], [[Lloyd Smucker]], [[_Martin Heinrich Master Profile]], [[Maria Elvira Salazar]], [[Frank Lucas]], [[DCCC - Democratic Congressional Campaign Committee]], [[Tina Smith]], [[Save America PAC]], [[Aaron Bean]], [[Martin Heinrich]], [[Jack Reed]], [[Steve Daines]], [[REPUBLICAN PARTY OF FLORIDA]], [[Gregory Meeks]], [[Tom Cole]], [[Nathaniel Moran]], [[Glenn Thompson]], [[Kyrsten Sinema]], [[Gary Peters]], [[RNC - Republican National Committee]], [[Joyce Beatty]], [[Tim Sheehy]], [[_Ted Cruz Master Profile]], [[Mike Haridopolos]], [[_Josh Hawley Master Profile]], [[Lindsey Graham]], [[_Kamala Harris Master Profile]], [[Mike Flood]], [[_Ron Johnson Master Profile]], [[Barry Loudermilk]], [[Sarah McBride]], [[Vicente Gonzalez]], [[Mike Carey]], [[Trump Victory]], [[Brittany Pettersen]], [[Raja Krishnamoorthi]], [[_Rashida Tlaib Master Profile]], [[Let America Vote PAC]], [[John Thune]], [[_Chrissy Houlahan Master Profile]], [[_Donald Norcross Master Profile]], [[Joe Manchin]], [[Mike Lee]], [[Nikema Williams]], [[_Glenn Ivey Master Profile]], [[Richard Neal]], [[David Kustoff]], [[Mike Thompson]], [[Darren Soto]], [[Bryan Steil]], [[_Cory Booker Master Profile]], [[Bernie Moreno]], [[John Cornyn]], [[Jason Smith]], [[314 ACTION FUND]], [[FreedomWorks for America]], [[Catherine Cortez Masto]], [[Vince Fong]], [[Roger Wicker]], [[Steve Womack]], [[Brian Jack]], [[Chris Christie]], [[Jim Himes]], [[Mark Warner]], [[Tammy Duckworth]], [[Julie Johnson]], [[Hmp]], [[_Nancy Pelosi Master Profile]], [[Adam Gray]], [[Michigan Republican Party]], [[John Kennedy]], [[Shelley Moore Capito]], [[Brian Schatz]], [[_John James Master Profile]], [[_Sara Jacobs Master Profile]], [[James Lankford]], [[_Jamie Raskin Master Profile]], [[Daniel Meuser]], [[Mike Rounds]], [[Veronica Escobar]], [[Victoria Spartz]], [[Mariannette Miller-Meeks]], [[Lisa Murkowski]], [[Ron Wyden]], [[Scott Fitzgerald]], [[Chris van Hollen]], [[Adriano Espaillat]], [[Jeanne Shaheen]], [[Cathy McMorris Rodgers]], [[Pete Sessions]], [[Rudy Yakym]], [[Everytown for Gun Safety Victory Fund]], [[_Elissa Slotkin Master Profile]], [[Ashley Moody]], [[Chris Coons]], [[Wesley Bell]], [[Kevin Cramer]], [[Monica de la Cruz]], [[Julie Fedorchak]], [[Lisa Blunt Rochester]], [[Frank Pallone]], [[Grace Meng]], [[Jodey Arrington]], [[Jacky Rosen]], [[Eric Schmitt]], [[CHC BOLD PAC]], [[Patrick McHenry]], [[Giffords PAC]], [[Kathy Castor]], [[Eric Sorensen]], [[_Bonnie Watson Coleman Master Profile]], [[Joe Neguse]], [[Donald Norcross]], [[Elissa Slotkin]], [[Jason Crow]], [[Seth Moulton]], [[Bonnie Watson Coleman]], [[Josh Hawley]], [[Jim Jordan]], [[Marco Rubio]], [[Rashida Tlaib]], [[Ron Johnson]], [[John James]], [[Summer Lee]], [[Jamie Raskin]], [[Cory Booker]], [[Tammy Baldwin]], [[Ted Cruz]], [[Kamala Harris]], [[Nancy Pelosi]], [[Glenn Ivey]], [[Jon Ossoff]], [[Sara Jacobs]], [[Jake Auchincloss]], [[Josh Riley]], [[Chrissy Houlahan]], [[Jake Ellzey]]"
 issues:
   - Wall Street & Finance
 ein: 806098935
@@ -59,7 +59,7 @@ cross-vault-triangulation-count: 14
 audit-a-plus-passed: "2026-04-11"
 urls-first-triaged: "2026-04-15"
 epa-facilities: 3
-epa-states: "NY"
+epa-states: NY
 federal-contracts: 73
 total-raised: 794319
 total-spent: 652510
@@ -410,3 +410,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[New York Times: Citigroup lobbyists wrote derivatives provision in spending bill](https://dealbook.nytimes.com/2014/12/11/citigroup-and-other-big-banks-win-a-round-in-dodd-frank-rollback/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[Wall Street Journal: Citigroup's political spending and lobbying operation](https://www.wsj.com/articles/citigroup-lobbying)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F806098935_202312_990PF_2025010222976934.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 5 (2018–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | $2.7M |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

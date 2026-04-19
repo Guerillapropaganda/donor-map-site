@@ -1,30 +1,30 @@
 ---
-title: "Humana"
+title: Humana
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Healthcare"
-entity-type: "Corporation"
+sector: Healthcare
+entity-type: Corporation
 ein: 800487553
-annual-revenue: "$10K"
-net-assets: "$26K"
+annual-revenue: $10K
+net-assets: $26K
 tax-year: "2019"
 lobbying-spend: 11740000
 lobbying-filings: 52
 court-cases: 17873
 last-enriched: "2026-04-10"
 court-jurisdictions:
-  - "District Court, District of Columbia"
-  - "District Court, E.D. Missouri"
-  - "District Court, M.D. Pennsylvania"
-  - "District Court, M.D. Tennessee"
-  - "District Court, N.D. California"
-  - "District Court, S.D. Indiana"
-  - "District Court, S.D. Texas"
-  - "District Court, W.D. Kentucky"
-  - "United States Bankruptcy Court, W.D. Kentucky"
+  - District Court, District of Columbia
+  - District Court, E.D. Missouri
+  - District Court, M.D. Pennsylvania
+  - District Court, M.D. Tennessee
+  - District Court, N.D. California
+  - District Court, S.D. Indiana
+  - District Court, S.D. Texas
+  - District Court, W.D. Kentucky
+  - United States Bankruptcy Court, W.D. Kentucky
 related: "[[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Hospital Corporation of America - HCA]] · [[Anthem - Elevance Health Political Operation]] · [[UnitedHealth Group - Optum]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Anthem - Elevance Health]] · [[Johnson & Johnson]] · [[Moderna]] · [[Merck]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[Palantir Technologies]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]] · [[Civica Rx]] · [[Blue Cross Blue Shield Association]] · [[Uber]] · [[Lyft]] · [[Instacart]] · [[Flex Association]] · [[DoorDash]] · [[Airbnb]] · [[WSPA - Western States Petroleum Association]] · [[Valero Energy]] · [[Southern Company]] · [[PG&E]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[NextEra Energy]] · [[Marathon Petroleum]] · [[Koch Industries]] · [[Hawaiian Electric Company]] · [[Halliburton]] · [[Fossil Fuel Bloc]] · [[ExxonMobil]] · [[Duke Energy]] · [[Devon Energy]] · [[ConocoPhillips]]"
 federal-awards-total: 3193941331
 federal-contracts-count: 3
@@ -33,26 +33,26 @@ subawards-issued: 1
 subawards-issued-amount: 171272
 subawards-received: 1
 subawards-received-amount: 171272
-top-federal-agency: "Department of Veterans Affairs"
+top-federal-agency: Department of Veterans Affairs
 top-naics-code: "621498"
 federal-register-mentions: 143
 regulatory-agencies:
-  - "Antitrust Division"
-  - "Centers for Medicare & Medicaid Services"
-  - "Defense Department"
-  - "Employee Benefits Security Administration"
-  - "Executive Office for Immigration Review"
-  - "Federal Election Commission"
-  - "Federal Emergency Management Agency"
-  - "Federal Trade Commission"
-  - "Food and Drug Administration"
-  - "Health and Human Services Department"
+  - Antitrust Division
+  - Centers for Medicare & Medicaid Services
+  - Defense Department
+  - Employee Benefits Security Administration
+  - Executive Office for Immigration Review
+  - Federal Election Commission
+  - Federal Emergency Management Agency
+  - Federal Trade Commission
+  - Food and Drug Administration
+  - Health and Human Services Department
 ftc-enforcement-actions: 0
 ftc-hsr-notices: 20
 cross-vault-triangulation-count: 10
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 3
-epa-states: "KY, SC"
+epa-states: KY, SC
 federal-contracts: 126
 total-raised: 858393
 total-spent: 668847
@@ -62,6 +62,7 @@ contributions-to-committees: 544000
 employee-contributions: 110772
 employee-contributions-total: 5672597
 employee-donor-count: 7133
+politicians-funded: "[[MoveOn.org Political Action]], [[MAGA Inc]], [[Lloyd Smucker]], [[Mark Kelly]], [[Maria Elvira Salazar]], [[_John James Master Profile]], [[Pete Aguilar]], [[Democratic Party of Virginia]], [[Ruben Gallego]], [[Chrissy Houlahan]], [[Ron Estes]], [[Brett Guthrie]], [[314 ACTION FUND]], [[The Lincoln Project]], [[Chris Coons]], [[Darren Soto]], [[WinRed]], [[Marilyn Strickland]], [[Aaron Bean]], [[Catherine Cortez Masto]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Shelley Moore Capito]], [[_Mark Alford Master Profile]], [[_Ted Cruz Master Profile]], [[Progressive Turnout Project]], [[WinSenate]], [[Tammy Duckworth]], [[Todd Young]], [[Kat Cammack]], [[_Marco Rubio Master Profile]], [[Erin Houchin]], [[Patrick McHenry]], [[Jay Obernolte]], [[Giffords PAC]], [[Darin Lahood]], [[Brendan Boyle]], [[Raul Ruiz]], [[Ron Wyden]], [[Jodey Arrington]], [[Steve Scalise]], [[Markwayne Mullin]], [[Cathy McMorris Rodgers]], [[Alex Padilla]], [[_Scott Fitzgerald Master Profile]], [[CHC BOLD PAC]], [[Claudia Tenney]], [[Jacky Rosen]], [[Sharice Davids]], [[_Nancy Pelosi Master Profile]], [[John Thune]], [[NRSC - National Republican Senatorial Committee]], [[Kristen McDonald Rivet]], [[Shontel Brown]], [[Richard Hudson]], [[Let America Vote PAC]], [[Humana]], [[Frank Pallone]], [[John Barrasso]], [[Jason Smith]], [[Nancy Pelosi]], [[NRCC - National Republican Congressional Committee]], [[_Ron Johnson Master Profile]], [[Adrian Smith]], [[John Joyce]], [[Susie Lee]], [[RNC - Republican National Committee]], [[Morgan McGarvey]], [[REPUBLICAN PARTY OF FLORIDA]], [[Thom Tillis]], [[_Jon Ossoff Master Profile]], [[Emily's List]], [[Michelle Fischbach]], [[Mike Thompson]], [[Jimmy Gomez]], [[_Cory Booker Master Profile]], [[Nathaniel Moran]], [[_Tim Scott Master Profile]], [[Steve Daines]], [[Medicare for All - The Policy That Broke the Party]], [[David Schweikert]], [[Veronica Escobar]], [[National Victory Action Fund]], [[Steven Horsford]], [[Andrea Salinas]], [[_Andy Barr Master Profile]], [[Jared Moskowitz]], [[John Cornyn]], [[_Debbie Wasserman Schultz Master Profile]], [[_Chrissy Houlahan Master Profile]], [[ActBlue]], [[Hakeem Jeffries]], [[Kevin McCarthy]], [[Martin Heinrich]], [[Rudy Yakym]], [[Tim Scott]], [[Ashley Moody]], [[Mitch McConnell]], [[Richard Neal]], [[James Comer]], [[Lisa Murkowski]], [[Young Kim]], [[Richard McCormick]], [[Trump Victory]], [[Bill Hagerty]], [[Lois Frankel]], [[Dan Crenshaw]], [[Lisa Blunt Rochester]], [[_Matt van Epps Master Profile]], [[Mike Carey]], [[Debbie Wasserman Schultz]], [[Dusty Johnson]], [[_Thomas Massie Master Profile]], [[Kyrsten Sinema]], [[Jon Husted]], [[Brittany Pettersen]], [[Mark Warner]], [[Joni Ernst]], [[Greg Stanton]], [[Susan Collins]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Tammy Baldwin Master Profile]], [[David Kustoff]], [[Dwight Evans]], [[Adam Smith]], [[_Ted Budd Master Profile]], [[Elbert Guillory's America]], [[_Morgan McGarvey Master Profile]], [[_Josh Hawley Master Profile]], [[Patty Murray]], [[Save America PAC]], [[Roger Wicker]], [[Hmp]], [[Mark Alford]], [[AIPAC - American Israel Public Affairs Committee]], [[James Lankford]], [[Rick Scott]], [[Nicole Malliotakis]], [[Tammy Baldwin]], [[Ted Cruz]], [[John James]], [[Andy Barr]], [[Ron Johnson]], [[Thomas Massie]], [[Jon Ossoff]], [[Scott Fitzgerald]], [[Josh Hawley]], [[Cory Booker]], [[Marco Rubio]], [[Matt van Epps]], [[Ted Budd]]"
 ---
 
 

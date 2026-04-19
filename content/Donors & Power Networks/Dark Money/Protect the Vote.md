@@ -6,11 +6,11 @@ sector: Dark Money
 entity-type: Super PAC
 committee-id: C00756056
 fec-url: https://www.fec.gov/data/committee/C00756056/
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-ie-support: $5,000
 fec-ie-oppose: null
-politicians-funded: "[[Tammy Baldwin]]"
+politicians-funded: "[[Tammy Baldwin]], [[Mark Kelly]], [[Raphael Warnock]], [[Catherine Cortez Masto]], [[Sharice Davids]], [[Lauren Underwood]], [[Jason Crow]], [[Marcy Kaptur]], [[Sherrod Brown]], [[Chrissy Houlahan]], [[Peter Welch]], [[Elissa Slotkin]], [[Vicente Gonzalez]], [[Patty Murray]], [[Kamala Harris]]"
 related: "[[Tammy Baldwin]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

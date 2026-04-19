@@ -2,12 +2,12 @@
 title: Sixteen Thirty Fund
 type: donor
 content-readiness: ready
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Dark Money
 entity-type: Individual Donor
-politicians-funded: "[[DOGE - The Billionaires Government]], [[David Pakman]]"
+politicians-funded: "[[DOGE - The Billionaires Government]], [[David Pakman]], [[America Votes]], [[ActBlue]], [[DSCC - Democratic Senatorial Campaign Committee]], [[League of Conservation Voters]], [[Future Forward USA Action]], [[New Venture Fund]], [[_Cori Bush Master Profile]], [[_Martin Heinrich Master Profile]], [[Third Way]], [[Cori Bush]], [[Martin Heinrich]]"
 issues:
   - Dark Money & Campaign Finance
 court-cases: 18
@@ -348,3 +348,50 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/264486735/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/264486735/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/264486735/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 5 (2018–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $176.7M |
+| Total expenses | — |
+| Total assets (EOY) | $139.9M |
+| Grants paid out | $106.4M |
+
+**Lifetime grants out (2018–2023):** $735.9M across 654 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| AMERICA VOTES | $184.5M | 5 | 2018–2023 |
+| NORTH FUND | $41.9M | 4 | 2019–2023 |
+| LEAGUE OF CONSERVATION VOTERS | $21.0M | 5 | 2018–2023 |
+| FUTURE FORWARD USA ACTION | $15.2M | 1 | 2020 |
+| ADVANCING AZ | $12.7M | 4 | 2019–2023 |
+| PROMOTE THE VOTE 2022 | $10.4M | 1 | 2022 |
+| DEFENDING DEMOCRACY TOGETHER | $10.4M | 2 | 2020–2022 |
+| NEW VENTURE FUND | $10.2M | 5 | 2018–2023 |
+| CHANGE NOW INC | $9.0M | 4 | 2018–2022 |
+| FUTURE FORWARD USA PAC | $8.9M | 2 | 2019–2020 |
+| PIEDMONT RISING INC | $8.8M | 2 | 2019–2020 |
+| UNRIG OUR ECONOMY INC | $7.8M | 2 | 2022–2023 |
+| VICTORY 2020 | $7.7M | 1 | 2020 |
+| ROCKY MOUNTAIN VALUES | $7.5M | 3 | 2019–2023 |
+| ENERGY ACTION FUND | $7.2M | 2 | 2022–2023 |
+| OHIOANS UNITED FOR REPRODUCTIVE RIGHTS | $7.0M | 1 | 2023 |
+| LCV VICTORY FUND | $6.8M | 1 | 2019 |
+| COUNT MI VOTE | $6.4M | 4 | 2018–2023 |
+| NEVADANS FOR SECURE ELECTIONS | $6.3M | 1 | 2018 |
+| ENVIRONMENT AMERICA | $6.2M | 4 | 2018–2023 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

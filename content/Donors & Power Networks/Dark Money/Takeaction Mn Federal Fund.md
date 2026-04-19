@@ -6,11 +6,11 @@ sector: Dark Money
 entity-type: Super PAC
 committee-id: C00738815
 fec-url: https://www.fec.gov/data/committee/C00738815/
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-ie-support: $751,218
 fec-ie-oppose: null
-politicians-funded: "[[Ilhan Omar]]"
+politicians-funded: "[[Ilhan Omar]], [[Kamala Harris]], [[Tammy Baldwin]]"
 related: "[[Ilhan Omar]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

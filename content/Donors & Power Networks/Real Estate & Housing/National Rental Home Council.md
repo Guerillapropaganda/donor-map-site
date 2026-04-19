@@ -1,72 +1,71 @@
 ---
-title: "National Rental Home Council"
+title: National Rental Home Council
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Real Estate"
-entity-type: "Corporation"
+sector: Real Estate
+entity-type: Corporation
 issues:
-  - "Housing"
+  - Housing
 ein: "474822520"
-annual-revenue: "$3.3M"
-net-assets: "$977K"
+annual-revenue: $3.3M
+net-assets: $977K
 tax-year: "2023"
 sec-filings: 82
 sec-form-types:
-  - "10-12G/A"
-  - "10-K"
-  - "10-Q"
-  - "424B3"
-  - "424B4"
+  - 10-12G/A
+  - 10-K
+  - 10-Q
+  - 424B3
+  - 424B4
   - "425"
-  - "ARS"
-  - "DEF 14A"
-  - "DEFM14A"
-  - "DRS"
-  - "DRS/A"
-  - "EX-4.3"
-  - "EX-4.5"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "EX-99.3"
-  - "PART II AND III"
-  - "POS AM"
-  - "PRE 14A"
-  - "PREC14A"
-  - "S-1"
-  - "S-11"
-  - "S-11/A"
-  - "S-4"
-  - "S-4/A"
+  - ARS
+  - DEF 14A
+  - DEFM14A
+  - DRS
+  - DRS/A
+  - EX-4.3
+  - EX-4.5
+  - EX-99.1
+  - EX-99.2
+  - EX-99.3
+  - PART II AND III
+  - POS AM
+  - PRE 14A
+  - PREC14A
+  - S-1
+  - S-11
+  - S-11/A
+  - S-4
+  - S-4/A
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-08"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 related: "[[Invitation Homes - Institutional Landlords]] · [[National Multifamily Housing Council]] · [[Bill Pulte]] · [[Invitation Homes]] · [[American Homes 4 Rent]] · [[Blackstone Real Estate]]"
-nonprofit-status: "501(c)(6)"
+nonprofit-status: 501(c)(6)
 total-revenue: 4375683
 total-assets: 467752
 source-types:
   - SEC
 known-gaps:
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
-fara-status: "registrant"
+  - No FEC contribution data
+  - No lobbying disclosure data
+fara-status: registrant
 fara-records: 4
 fara-countries:
-  - "ERITREA"
-  - "IRAN"
+  - ERITREA
+  - IRAN
 cross-vault-triangulation-count: 3
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
 total-spent: 1000
 cash-on-hand: 3445
 contributions-to-committees: 1000
+politicians-funded: "[[Warren Davidson]], [[Barry Loudermilk]], [[Brad Sherman]], [[Tim Scott]], [[Kyrsten Sinema]], [[David Schweikert]], [[French Hill]], [[Kay Granger]], [[Pete Sessions]], [[Mike Flood]]"
 ---
 
 
@@ -269,3 +268,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/474822520/2019)~~ (URL broken, archived by Ops)
 - ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:National%20Rental%20Home%20Council)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:National%20Rental%20Home%20Council)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2018–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $265K |
+| Total expenses | — |
+| Total assets (EOY) | $977K |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

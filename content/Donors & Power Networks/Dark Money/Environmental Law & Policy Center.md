@@ -1,39 +1,37 @@
 ---
-title: "Environmental Law & Policy Center"
+title: Environmental Law & Policy Center
 type: donor
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Dark Money"
-entity-type: "Individual Donor"
+sector: Dark Money
+entity-type: Individual Donor
 ein: 363866530
-annual-revenue: "$10.9M"
-net-assets: "$38.0M"
+annual-revenue: $10.9M
+net-assets: $38.0M
 tax-year: "2023"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-09"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 total-revenue: 150007
 total-assets: 254525
 related: "[[Sheldon Whitehouse]] · [[Ocean Conservancy]] · [[Trial Lawyers Fund]] · [[National Progressive Donor Networks]] · [[Sixteen Thirty Fund]] · [[Open Society Foundations]] · [[New Venture Fund]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Democratic Small Dollar Networks]] · [[Small Dollar Donors - ActBlue]] · [[Ohio Federation of Teachers]] · [[Ohio Democratic Party]] · [[Entertainment and Hollywood Donors]] · [[Democratic Party Infrastructure]] · [[Democratic Donor Network]] · [[Democracy Alliance]] · [[Demand Justice]] · [[CREW - Citizens for Responsibility and Ethics in Washington]] · [[Arabella Advisors]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Federalist Society]] · [[Donors Capital Fund]] · [[Council for National Policy]] · [[Conservative Partnership Institute]] · [[Concerned Veterans for America]] · [[Business Roundtable]] · [[Bradley Impact Fund]] · [[Bradley Foundation]] · [[Americans for Tax Reform - Grover Norquist]] · [[American Enterprise Institute]] · [[American Action Network]] · [[America First Policy Institute]] · [[Alliance Defending Freedom]] · [[ALEC - American Legislative Exchange Council]] · [[Western Growers Association]] · [[National Cattlemen's Beef Association]]"
-fara-status: "registrant"
+fara-status: registrant
 fara-records: 3
 fara-countries:
-  - "NORWAY"
+  - NORWAY
 lobbying-spend: 3572678
 lobbying-filings: 102
 court-cases: 157
 court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "Court of Appeals for the Eighth Circuit"
-  - "Court of Appeals for the Third Circuit"
-  - "District Court, D. North Dakota"
+  - Court of Appeals for the D.C. Circuit
+  - Court of Appeals for the Eighth Circuit
+  - Court of Appeals for the Third Circuit
+  - District Court, D. North Dakota
 cross-vault-triangulation-count: 4
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -41,6 +39,7 @@ urls-first-triaged: "2026-04-15"
 employee-contributions: 152
 employee-contributions-total: 72502
 employee-donor-count: 32
+politicians-funded: "[[ActBlue]], [[_Bill Foster Master Profile]], [[_Lauren Underwood Master Profile]], [[_Tammy Baldwin Master Profile]], [[_Melissa Bean Master Profile]], [[_Kamala Harris Master Profile]], [[Bill Foster]], [[Lauren Underwood]], [[Kamala Harris]], [[Melissa Bean]], [[Tammy Baldwin]]"
 ---
 
 
@@ -261,3 +260,37 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Environmental%20Law%20%26%20Policy%20Center)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Environmental%20Law%20%26%20Policy%20Center)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Environmental%20Law%20%26%20Policy%20Center%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2018–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $9.6M |
+| Total expenses | — |
+| Total assets (EOY) | $38.0M |
+| Grants paid out | $300K |
+
+**Lifetime grants out (2018–2023):** $1.2M across 7 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| Environmental Law and Policy Center Action Fund | $1.0M | 5 | 2018–2023 |
+| Blacks in Green | $44K | 2 | 2021–2022 |
+| Community Power | $36K | 2 | 2021–2022 |
+| Soulardarity | $36K | 2 | 2021–2022 |
+| Illinois People's Action | $29K | 2 | 2021–2022 |
+| Little Village Environmental Justice Organization | $8K | 1 | 2021 |
+| Heaven's View Community Development Corp | $7K | 1 | 2021 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

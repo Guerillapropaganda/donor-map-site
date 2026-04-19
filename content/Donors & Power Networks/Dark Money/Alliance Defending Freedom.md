@@ -1,30 +1,30 @@
 ---
-title: "Alliance Defending Freedom"
+title: Alliance Defending Freedom
 type: donor
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Dark Money"
-entity-type: "Individual Donor"
+sector: Dark Money
+entity-type: Individual Donor
 issues:
-  - "Dark Money & Campaign Finance"
+  - Dark Money & Campaign Finance
 ein: "541660459"
-annual-revenue: "$101.8M"
-net-assets: "$97.6M"
+annual-revenue: $101.8M
+net-assets: $97.6M
 tax-year: "2023"
-total-political-spend: "$250"
+total-political-spend: $250
 related: "[[DeVos Family]] · [[The Culture War Economy - Who Profits From Division]] · [[Federalist Society]] · [[Heritage Foundation]] · [[Council for National Policy]] · [[Bradley Foundation]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]] · [[US Chamber of Commerce]] · [[Insurance Industry]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[American Iron and Steel Institute]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Donors Capital Fund]] · [[Demand Justice]] · [[Conservative Partnership Institute]] · [[Concerned Veterans for America]] · [[Democratic Small Dollar Networks]] · [[Ocean Conservancy]] · [[Ohio Democratic Party]] · [[New Venture Fund]] · [[National Progressive Donor Networks]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Entertainment and Hollywood Donors]] · [[Democratic Party Infrastructure]] · [[Democratic Donor Network]] · [[Democracy Alliance]] · [[CREW - Citizens for Responsibility and Ethics in Washington]] · [[Business Roundtable]] · [[Bradley Impact Fund]] · [[Arabella Advisors]] · [[Americans for Tax Reform - Grover Norquist]] · [[American Enterprise Institute]] · [[American Action Network]] · [[America First Policy Institute]]"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-11"
 total-revenue: 125427282
 total-assets: 102769051
 federal-register-mentions: 1
 regulatory-agencies:
-  - "Housing and Urban Development Department"
-wikidata-id: "Q4732297"
-wikipedia-url: "https://en.wikipedia.org/wiki/Alliance_Defending_Freedom"
-wikipedia-extract: "The Alliance Defending Freedom (ADF), formerly the Alliance Defense Fund, is an American 501(c)3 nonprofit conservative Christian legal advocacy group."
+  - Housing and Urban Development Department
+wikidata-id: Q4732297
+wikipedia-url: https://en.wikipedia.org/wiki/Alliance_Defending_Freedom
+wikipedia-extract: The Alliance Defending Freedom (ADF), formerly the Alliance Defense Fund, is an American 501(c)3 nonprofit conservative Christian legal advocacy group.
 cross-vault-triangulation-count: 9
 audit-a-plus-passed: "2026-04-11"
 checklist-na:
@@ -33,6 +33,7 @@ checklist-na:
 employee-contributions: 43
 employee-contributions-total: 27121
 employee-donor-count: 21
+politicians-funded: "[[SLF PAC]], [[WinRed]], [[Trump Victory]], [[MAGA Inc]], [[RNC - Republican National Committee]], [[_Eric Burlison Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[Women Speak Out Pac]], [[_Marco Rubio Master Profile]], [[_Claudia Tenney Master Profile]], [[Eric Burlison]], [[Marco Rubio]], [[Claudia Tenney]]"
 ---
 
 
@@ -217,3 +218,50 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/541660459/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/541660459/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/541660459/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2018–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $95.4M |
+| Total expenses | — |
+| Total assets (EOY) | $97.6M |
+| Grants paid out | $848K |
+
+**Lifetime grants out (2018–2023):** $6.7M across 94 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| ADF Foundation | $1.1M | 2 | 2020–2021 |
+| Freedom of Conscience Defense Fund | $442K | 3 | 2018–2020 |
+| Kellum Law Firm | $365K | 3 | 2018–2023 |
+| American Liberties Institute | $340K | 2 | 2018–2019 |
+| Mauck &amp; Baker LLC | $276K | 6 | 2018–2023 |
+| The Family Foundation of Virginia | $252K | 3 | 2020–2023 |
+| Child &amp; Parental Rights Campaign | $218K | 3 | 2021–2023 |
+| ADF Action | $185K | 1 | 2023 |
+| Fidelis Center for Law and Policy | $180K | 2 | 2018–2019 |
+| Charis Lex PC | $160K | 1 | 2021 |
+| Law Offices of Herbert Grey | $130K | 2 | 2018–2019 |
+| Patrick Henry College | $124K | 5 | 2019–2023 |
+| Ellis Li &amp; McKinstry PLLC | $124K | 4 | 2019–2023 |
+| Law Office of Nic Cocis | $109K | 4 | 2018–2021 |
+| Mitchell Law PLLC | $108K | 4 | 2020–2023 |
+| Ethics and Public Policy Center | $104K | 2 | 2022–2023 |
+| Wadleigh Starr &amp; Peters PLLC | $103K | 4 | 2018–2023 |
+| Religious Freedom Institute | $90K | 3 | 2021–2023 |
+| James Hochberg AAL | $87K | 3 | 2018–2020 |
+| Pennsylvania Family Institute | $82K | 2 | 2018–2019 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

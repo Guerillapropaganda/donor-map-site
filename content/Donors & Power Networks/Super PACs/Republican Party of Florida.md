@@ -12,7 +12,7 @@ aliases:
 known-gaps:
   - Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis.
 related: "[[George W. Bush]]"
-politicians-funded: "[[George W. Bush]]"
+politicians-funded: "[[George W. Bush]], [[Jimmy Patronis]], [[WinRed]], [[Anna Paulina Luna]], [[Kamala Harris]], [[Michael Waltz]], [[Trump Victory]], [[REPUBLICAN PARTY OF FLORIDA]], [[_Daniel Webster Master Profile]], [[Lauren Boebert]], [[Daniel Webster]], [[Cory Mills]], [[Randy Fine]], [[Aaron Bean]], [[Ron Johnson]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"

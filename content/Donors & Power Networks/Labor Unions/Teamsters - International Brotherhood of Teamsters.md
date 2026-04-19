@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Labor Unions
 entity-type: Individual Donor
-politicians-funded: "[[JD Vance]], [[Gavin Newsom]], [[Kamala Harris]], [[Donald Trump]]"
+politicians-funded: "[[JD Vance]], [[Gavin Newsom]], [[Kamala Harris]], [[Donald Trump]], [[Ted Lieu]], [[John Garamendi]], [[Peter Welch]], [[ActBlue]], [[Sharice Davids]], [[Mark Takano]], [[Jacky Rosen]], [[Ilhan Omar]], [[Progressive Turnout Project]], [[Maxine Waters]], [[Raul Ruiz]], [[MoveOn.org Political Action]], [[Jimmy Gomez]], [[Mike Levin]], [[Ed Markey]], [[_Jon Ossoff Master Profile]], [[Amy Klobuchar]], [[Kevin Mullin]], [[Sydney Kamlager-Dove]], [[Jared Moskowitz]], [[Josh Harder]], [[Jon Ossoff]], [[Rick Crawford]], [[Susie Lee]], [[Nikki Budzinski]], [[Joe Biden]], [[Save America PAC]], [[Greg Stanton]], [[Sarah Elfreth]], [[Hakeem Jeffries]], [[Betty McCollum]], [[Jahana Hayes]], [[Alex Padilla]], [[Jake Auchincloss]], [[Sam Graves]], [[Richard Neal]], [[Teamsters - International Brotherhood of Teamsters]], [[Jeanne Shaheen]], [[Andrea Salinas]], [[Mike Quigley]], [[Lauren Underwood]], [[Ro Khanna]], [[Eric Schmitt]], [[Kelly Morrison]], [[Frank Pallone]], [[Jimmy Panetta]], [[Adam Smith]], [[Debbie Dingell]], [[Diana Degette]], [[J Street]], [[Darin Lahood]], [[Josh Hawley]], [[Tina Smith]], [[Pete Stauber]], [[DSCC - Democratic Senatorial Campaign Committee]], [[DCCC - Democratic Congressional Campaign Committee]], [[Marilyn Strickland]], [[Suzanne Bonamici]], [[Eric Sorensen]], [[Gary Peters]], [[Morgan McGarvey]], [[Bobby Scott]], [[Lloyd Doggett]], [[Joaquin Castro]], [[Patrick Ryan]], [[Madeleine Dean]], [[Lori Trahan]], [[Gregory Meeks]], [[Kathy Castor]], [[Angie Craig]], [[Nancy Pelosi]], [[Guy Reschenthaler]], [[Greg Landsman]], [[Elizabeth Warren]], [[Jerrold Nadler]], [[Rashida Tlaib]], [[Sheldon Whitehouse]], [[John Cornyn]], [[Joseph Morelle]], [[Roy Cooper]], [[Paul Tonko]], [[Zoe Lofgren]], [[Ayanna Pressley]], [[_Rashida Tlaib Master Profile]], [[Brittany Pettersen]], [[Lisa Murkowski]], [[Sara Jacobs]], [[Seth Magaziner]], [[Grace Meng]], [[Laura Friedman]], [[Roger Marshall]], [[Catherine Cortez Masto]], [[David Scott]], [[Tammy Baldwin]], [[Shomari Figures]], [[Andre Carson]], [[Michael Lawler]], [[Donald Norcross]], [[Dina Titus]], [[Emanuel Cleaver]], [[Adam Schiff]], [[MAGA Inc]], [[Maggie Goodlander]], [[Shontel Brown]], [[Sean Casten]], [[Adam Gray]], [[Sarah McBride]], [[Julia Brownley]], [[Bernie Moreno]], [[WinSenate]], [[Marcy Kaptur]], [[Maxine Dexter]], [[Bennie Thompson]], [[Yassamin Ansari]], [[Pramila Jayapal]], [[Democratic Party of Virginia]], [[Darren Soto]], [[Kweisi Mfume]], [[Jerry Moran]], [[Chris van Hollen]], [[Eric Swalwell]], [[Ted Cruz]], [[Debbie Wasserman Schultz]], [[_Gabe Vasquez Master Profile]], [[Tammy Duckworth]], [[Sherrod Brown]], [[Rosa DeLauro]], [[Elissa Slotkin]], [[Mike Thompson]], [[Everytown for Gun Safety Victory Fund]], [[Teresa Leger Fernandez]], [[Kim Schrier]], [[Josh Gottheimer]], [[Jamie Raskin]], [[Jared Huffman]], [[Marie Gluesenkamp Perez]], [[Lois Frankel]], [[Robert Garcia]], [[Judy Chu]], [[Nicole Malliotakis]], [[Jon Husted]], [[Jefferson Shreve]], [[Emily Randall]], [[Jim Himes]], [[Mark DeSaulnier]], [[Brendan Boyle]], [[Tim Sheehy]], [[Kristen McDonald Rivet]], [[Raphael Warnock]], [[George Whitesides]], [[Barbara Lee]], [[Ruben Gallego]], [[Andy Kim]], [[Bernie Sanders]], [[Raja Krishnamoorthi]], [[John Fetterman]], [[Ron Wyden]], [[Jason Crow]], [[RNC - Republican National Committee]], [[Martin Heinrich]], [[Gwen Moore]], [[Josh Riley]], [[Lamonica McIver]], [[Ritchie Torres]], [[Rick Larsen]], [[Bob Casey]], [[Summer Lee]], [[Scott Fitzgerald]], [[NRSC - National Republican Senatorial Committee]], [[Mark Pocan]], [[Brian Schatz]], [[Jamaal Bowman]], [[Maxwell Frost]], [[NRCC - National Republican Congressional Committee]], [[Lateefah Simon]], [[David Rouzer]], [[Tim Walberg]], [[Roger Wicker]], [[Steven Horsford]], [[Steve Cohen]], [[Markwayne Mullin]], [[Mark Kelly]], [[John Hickenlooper]], [[Patty Murray]], [[Pete Aguilar]], [[Deb Fischer]], [[Chellie Pingree]], [[John Thune]], [[Jeff Merkley]], [[Jack Reed]], [[WinRed]], [[Cory Booker]], [[Chris Pappas]], [[Gabe Vasquez]]"
 issues:
   - Labor & Workers
 ein: 940963930
@@ -275,3 +275,50 @@ DHL Express Teamsters voted **96% to authorize a strike** if no contract is reac
 Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
 
 - ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F940963930_202312_990O_2024071222684155.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $500K |
+| Total expenses | — |
+| Total assets (EOY) | $14.0M |
+| Grants paid out | $538K |
+
+**Lifetime grants out (2018–2024):** $988K across 25 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| GILLIG LLC | $466K | 1 | 2024 |
+| ALL CHARITIES TEAMSTERS | $77K | 6 | 2018–2024 |
+| Alameda County Central Labor Council | $68K | 4 | 2018–2024 |
+| Teamsters Scholarship Fund | $60K | 2 | 2023–2024 |
+| TEAMSTERS JOINT COUNCIL 7 | $53K | 1 | 2020 |
+| Peggy Browning Fund | $36K | 3 | 2018–2022 |
+| DAVIS STREET FAMILY RESOURCE CENTER | $31K | 3 | 2018–2020 |
+| Teamsters Local 25 Autism Fund | $25K | 1 | 2023 |
+| San Francisco Labor Council | $24K | 3 | 2019–2024 |
+| TEAMSTERS LOCAL 853 POLITICAL ACTION COMMITTEE | $20K | 3 | 2018–2020 |
+| The Davis Street Community Center Inc | $15K | 1 | 2022 |
+| SAN FRANCISCO BLDG CNST TRADES COUNCIL | $11K | 1 | 2024 |
+| JAMES R HOFFA MEMORIAL SCHOLARSHIP FUND INC | $10K | 1 | 2022 |
+| Working Families Organization | $10K | 1 | 2023 |
+| TEAMSTERS LOCAL 431 | $10K | 1 | 2018 |
+| TEAMSTERS LOCAL 117 | $10K | 1 | 2019 |
+| JAMES R HOFFA MEMORIAL SCHOLARSHIP FUND | $10K | 1 | 2019 |
+| San Francisco Transit Riders | $8K | 1 | 2022 |
+| ALAMEDA COUNTY BLDG &amp; CNST TRADES COUNCIL | $8K | 1 | 2023 |
+| ALAMEDA COUNTY BLDG CNST TRADES COUNCIL | $7K | 1 | 2024 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

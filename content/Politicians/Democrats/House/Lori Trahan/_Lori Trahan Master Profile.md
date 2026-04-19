@@ -1,33 +1,34 @@
 ---
-title: "Lori Trahan"
+title: Lori Trahan
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Massachusetts"
-state-abbr: "MA"
+party: Democrat
+chamber: House
+state: Massachusetts
+state-abbr: MA
 district: "3"
-bioguide-id: "T000482"
+bioguide-id: T000482
 govtrack-id: 412781
 born: "1973-10-27"
-wikidata-id: "Q56486676"
-website: "https://trahan.house.gov"
-phone: "202-225-3411"
+wikidata-id: Q56486676
+website: https://trahan.house.gov
+phone: 202-225-3411
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H8MA03106"
+fec-candidate-id: H8MA03106
 bills-sponsored: 14
 bills-cosponsored: 395
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[SEIU COPE]], [[Pfizer Inc.]], [[IBEW - International Brotherhood of Electrical Workers]], [[Progressive Turnout Project]], [[AbbVie]], [[Unite Here Tip Campaign Committee]], [[League of Conservation Voters]], [[J Street]], [[Jamie Raskin]], [[CVS Health - Aetna]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[National Association of Realtors]], [[Performance Racing Inc.]], [[Let America Vote PAC]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Teamsters - International Brotherhood of Teamsters]], [[American College of Radiology Association PAC]], [[Raytheon (RTX)]], [[Anthem - Elevance Health]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Johnson & Johnson]], [[Gilead Sciences]], [[NEA Fund for Children and Public Education]], [[AIPAC - American Israel Public Affairs Committee]], [[UA Political Action Committee]], [[National Multifamily Housing Council]], [[Google - Alphabet]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Medicare for All - The Policy That Broke the Party]], [[American Chemistry Council, INC]], [[Walmart - Walton Family]], [[Amgen Inc]], [[Giffords PAC]], [[American Hospital Association PAC]], [[Lockheed Martin]], [[BAE Systems]], [[Care Action]], [[National Committee to Preserve Social Security PAC]], [[Planned Parenthood Votes]]"
 ---
 
 

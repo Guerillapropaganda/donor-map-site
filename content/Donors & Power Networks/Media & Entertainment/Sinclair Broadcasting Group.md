@@ -1,66 +1,67 @@
 ---
-title: "Sinclair Broadcasting Group"
+title: Sinclair Broadcasting Group
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Media & Entertainment"
-entity-type: "Corporation"
+sector: Media & Entertainment
+entity-type: Corporation
 ein: "465691580"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-07"
 federal-register-mentions: 4
 regulatory-agencies:
-  - "Federal Communications Commission"
-  - "Federal Trade Commission"
+  - Federal Communications Commission
+  - Federal Trade Commission
 sec-filings: 1047
 sec-form-types:
-  - "13F-HR"
-  - "8-K"
-  - "CORRESP"
-  - "EX-10.1"
-  - "EX-10.23"
-  - "EX-10.24"
-  - "EX-10.25"
-  - "EX-10.38"
-  - "EX-10.39"
-  - "EX-23.1"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "EX-99.77O RULE 10F-3"
-  - "INFORMATION TABLE"
-  - "LETTER"
-  - "N-30D"
-  - "N-PX"
-  - "N-Q"
-  - "N-Q/A"
-  - "NSAR-B"
-  - "SC 13G/A"
+  - 13F-HR
+  - 8-K
+  - CORRESP
+  - EX-10.1
+  - EX-10.23
+  - EX-10.24
+  - EX-10.25
+  - EX-10.38
+  - EX-10.39
+  - EX-23.1
+  - EX-99.1
+  - EX-99.2
+  - EX-99.77O RULE 10F-3
+  - INFORMATION TABLE
+  - LETTER
+  - N-30D
+  - N-PX
+  - N-Q
+  - N-Q/A
+  - NSAR-B
+  - SC 13G/A
 court-cases: 52
 court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "District Court, C.D. California"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. Michigan"
-  - "District Court, E.D. Tennessee"
-  - "District Court, S.D. California"
-  - "District Court, S.D. New York"
-  - "District Court, W.D. Texas"
-  - "United States Bankruptcy Court, D. Delaware"
-  - "United States Bankruptcy Court, S.D. Texas"
+  - Court of Appeals for the D.C. Circuit
+  - District Court, C.D. California
+  - District Court, District of Columbia
+  - District Court, E.D. Michigan
+  - District Court, E.D. Tennessee
+  - District Court, S.D. California
+  - District Court, S.D. New York
+  - District Court, W.D. Texas
+  - United States Bankruptcy Court, D. Delaware
+  - United States Bankruptcy Court, S.D. Texas
 source-types:
   - Courts
   - FederalRegister
   - SEC
 corroboration-count: 3
 known-gaps:
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No lobbying disclosure data
+  - No mapped relationships
 employee-contributions: 150
 employee-contributions-total: 71427
 employee-donor-count: 29
+politicians-funded: "[[National Rifle Association]], [[_Andy Harris Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[ActBlue]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Nancy Pelosi Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[Andy Harris]], [[Nancy Pelosi]]"
 ---
 
 

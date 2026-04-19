@@ -2,7 +2,7 @@
 title: Dianne Feinstein
 type: politician
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 party: Democrat
 chamber: Senate
@@ -32,10 +32,10 @@ reenrich-reason: run committee pipeline; re-run congress pipeline for bills coun
 internal-notes: "[CODE @ 2026-04-12] Pipeline: congress FAILED for Dianne Feinstein. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24318211380"
 checklist-na:
   - "bills: From the Congress.gov API via the enrichment pipeline. "
-donors: "[[One Nation United]] · [[COPS VOTER GUIDE INC.]] · [[DELIVERING FOR CALIFORNIA]] · [[ONE NATION UNITED]] · [[Cops Voter Guide Inc.]] · [[HUMANE SOCIETY LEGISLATIVE FUND]] · [[English Language Political Action Committee]] · [[Humane Society Legislative Fund]] · [[Delivering for California]]"
+donors: "[[One Nation United]] · [[COPS VOTER GUIDE INC.]] · [[DELIVERING FOR CALIFORNIA]] · [[ONE NATION UNITED]] · [[Cops Voter Guide Inc.]] · [[HUMANE SOCIETY LEGISLATIVE FUND]] · [[English Language Political Action Committee]] · [[Humane Society Legislative Fund]] · [[Delivering for California]] · [[BAE Systems]]"
 bills-enacted: 1
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "Crime and Law Enforcement"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: Crime and Law Enforcement
 ---
 
 

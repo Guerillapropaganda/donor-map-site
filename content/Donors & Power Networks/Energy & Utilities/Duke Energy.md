@@ -1,70 +1,68 @@
 ---
-title: "Duke Energy"
+title: Duke Energy
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Energy & Utilities"
-entity-type: "Corporation"
+sector: Energy & Utilities
+entity-type: Corporation
 federal-awards-total: 63431209
 federal-contracts-count: 25
 federal-grants-count: 2
-lei: "I1BZKREC126H0VB1BL91"
-lei-jurisdiction: "US-DE"
+lei: I1BZKREC126H0VB1BL91
+lei-jurisdiction: US-DE
 subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
-top-federal-agency: "Department of Defense"
+top-federal-agency: Department of Defense
 top-naics-code: "221122"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-08"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 sec-filings: 10000
 sec-form-types:
-  - "10-K"
-  - "10-K/A"
-  - "10-Q"
+  - 10-K
+  - 10-K/A
+  - 10-Q
   - "3"
   - "4"
-  - "424B5"
-  - "8-K"
-  - "ARS"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "EX-10"
-  - "EX-10.1"
-  - "EX-10.3"
-  - "EX-2.4"
-  - "EX-21"
-  - "EX-4.3"
-  - "EX-9.2"
-  - "EX-99.1"
-  - "PRE 14A"
-  - "SCHEDULE 13G/A"
-  - "XML"
+  - 424B5
+  - 8-K
+  - ARS
+  - DEF 14A
+  - DEFA14A
+  - EX-10
+  - EX-10.1
+  - EX-10.3
+  - EX-2.4
+  - EX-21
+  - EX-4.3
+  - EX-9.2
+  - EX-99.1
+  - PRE 14A
+  - SCHEDULE 13G/A
+  - XML
 ein: "581586283"
-annual-revenue: "$1.1M"
-net-assets: "$6.2M"
+annual-revenue: $1.1M
+net-assets: $6.2M
 tax-year: "2023"
 federal-register-mentions: 4102
 regulatory-agencies:
-  - "Energy Department"
-  - "Federal Energy Regulatory Commission"
-  - "Nuclear Regulatory Commission"
+  - Energy Department
+  - Federal Energy Regulatory Commission
+  - Nuclear Regulatory Commission
 related: "[[The Intellectual Property and Banking Donor Pipeline]] · [[Southern Company]] · [[NextEra Energy]] · [[Valero Energy]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]] · [[Instacart]] · [[Flex Association]] · [[Airbnb]] · [[Lyft]] · [[Uber]] · [[UnitedHealth Group - Optum]] · [[Johnson & Johnson]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[Humana]] · [[Hospital Corporation of America - HCA]] · [[Civica Rx]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Blue Cross Blue Shield Association]] · [[Anthem - Elevance Health Political Operation]] · [[DoorDash]] · [[Marathon Petroleum]] · [[Koch Industries]] · [[Hawaiian Electric Company]] · [[Halliburton]] · [[Fossil Fuel Bloc]] · [[ExxonMobil]] · [[Devon Energy]] · [[ConocoPhillips]]"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 total-revenue: 21294251
 total-assets: 1868586
 cross-vault-triangulation-count: 5
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 18
-epa-states: "FL, IL, KY, LA, NC, NM, OH, VA"
+epa-states: FL, IL, KY, LA, NC, NM, OH, VA
 federal-contracts: 205
 total-raised: 1047183
 total-spent: 1063866
@@ -74,6 +72,7 @@ contributions-to-committees: 585000
 employee-contributions: 2764
 employee-contributions-total: 918484
 employee-donor-count: 712
+politicians-funded: "[[Mark Kelly]], [[Steven Horsford]], [[French Hill]], [[Andre Carson]], [[Martin Heinrich]], [[John Hoeven]], [[Sheri Biggs]], [[Aaron Bean]], [[Tammy Duckworth]], [[NRCC - National Republican Congressional Committee]], [[Daniel Webster]], [[_Jim Jordan Master Profile]], [[Deb Fischer]], [[_Marco Rubio Master Profile]], [[Chuck Edwards]], [[Russell Fry]], [[Brett Guthrie]], [[DCCC - Democratic Congressional Campaign Committee]], [[Virginia Foxx]], [[Debbie Wasserman Schultz]], [[Markwayne Mullin]], [[Thom Tillis]], [[Bryan Steil]], [[Sherrod Brown]], [[Joe Wilson]], [[Michael Lawler]], [[Pat Harrigan]], [[Katie Britt]], [[Claudia Tenney]], [[John Thune]], [[_Jon Ossoff Master Profile]], [[Ashley Moody]], [[NRSC - National Republican Senatorial Committee]], [[_Ralph Norman Master Profile]], [[Richard Neal]], [[_Michael Waltz Master Profile]], [[Pete Aguilar]], [[_Ted Budd Master Profile]], [[Frank Pallone]], [[WinRed]], [[Emily's List]], [[Henry Cuellar]], [[David Rouzer]], [[Steve Scalise]], [[Joyce Beatty]], [[Lois Frankel]], [[Dusty Johnson]], [[Jon Husted]], [[John Boozman]], [[Kat Cammack]], [[RNC - Republican National Committee]], [[Mike Haridopolos]], [[Nancy Mace]], [[Duke Energy]], [[Michael Waltz]], [[Marsha Blackburn]], [[Jason Smith]], [[Marcy Kaptur]], [[Jefferson Shreve]], [[Adrian Smith]], [[Morgan McGarvey]], [[John Joyce]], [[Cory Mills]], [[Brad Knott]], [[DSCC - Democratic Senatorial Campaign Committee]], [[The Lincoln Project]], [[Rick Scott]], [[Mike Thompson]], [[_Byron Donalds Master Profile]], [[MAGA Inc]], [[Peter Welch]], [[Dan Sullivan]], [[Anna Paulina Luna]], [[Julie Fedorchak]], [[John Barrasso]], [[Mike Carey]], [[Roger Wicker]], [[Darin Lahood]], [[National Rifle Association]], [[Ron Wyden]], [[Tim Moore]], [[FreedomWorks for America]], [[Paul Tonko]], [[Warren Davidson]], [[John Kennedy]], [[Todd Young]], [[_Ted Cruz Master Profile]], [[Bernie Moreno]], [[Erin Houchin]], [[_Mark Harris Master Profile]], [[_Ron Johnson Master Profile]], [[Lindsey Graham]], [[Vicente Gonzalez]], [[Cathy McMorris Rodgers]], [[Mike Lee]], [[Bennie Thompson]], [[ActBlue]], [[Human Rights Campaign Equality Votes]], [[Tom Cole]], [[Eric Swalwell]], [[Patrick McHenry]], [[Bill Hagerty]], [[Dan Crenshaw]], [[Diana Degette]], [[Mario Diaz-Balart]], [[Brian Schatz]], [[Richard Hudson]], [[Jared Moskowitz]], [[Lisa Blunt Rochester]], [[Marianne Williamson]], [[Byron Donalds]], [[Joe Manchin]], [[Nikki Budzinski]], [[Ron Estes]], [[REPUBLICAN PARTY OF FLORIDA]], [[Shelley Moore Capito]], [[Troy Balderson]], [[Darren Soto]], [[_Tim Scott Master Profile]], [[Scott Franklin]], [[Patty Murray]], [[Kevin McCarthy]], [[Roger Marshall]], [[Michael Whatley]], [[Kyrsten Sinema]], [[Mariannette Miller-Meeks]], [[WinSenate]], [[Ruben Gallego]], [[Jerry Moran]], [[Jimmy Gomez]], [[Randy Fine]], [[David Kustoff]], [[Roy Cooper]], [[Ann Wagner]], [[_Martin Heinrich Master Profile]], [[Rudy Yakym]], [[Victoria Spartz]], [[Tim Scott]], [[Jay Obernolte]], [[National Right to Life Victory Fund]], [[Nancy Pelosi]], [[Senate Conservatives Fund]], [[Lisa Murkowski]], [[Mike Flood]], [[Kevin Cramer]], [[Save America PAC]], [[JUSTICE DEMOCRATS PAC]], [[James Lankford]], [[Young Kim]], [[Ron Johnson]], [[Debbie Dingell]], [[Diana Harshbarger]], [[Steve Daines]], [[Mike Rounds]], [[David Schweikert]], [[Vince Fong]], [[Nathaniel Moran]], [[Kay Granger]], [[Ralph Norman]], [[Ted Budd]], [[Jim Jordan]], [[Marco Rubio]], [[Jon Ossoff]], [[Ted Cruz]], [[Mark Harris]]"
 ---
 
 
@@ -413,3 +412,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/581586283/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/581586283/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/581586283/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 3 (2020–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $5K |
+| Total expenses | — |
+| Total assets (EOY) | $6.2M |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

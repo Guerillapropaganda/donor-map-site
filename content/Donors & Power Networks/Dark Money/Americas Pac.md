@@ -6,11 +6,11 @@ sector: Dark Money
 entity-type: Super PAC
 committee-id: C00559906
 fec-url: https://www.fec.gov/data/committee/C00559906/
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-ie-support: null
 fec-ie-oppose: $1,573,351
-politicians-funded: "[[Joe Biden]]"
+politicians-funded: "[[Joe Biden]], [[_Ted Cruz Master Profile]], [[RNC - Republican National Committee]], [[WinRed]], [[Catherine Cortez Masto]], [[_Adam Gray Master Profile]], [[_Pete Stauber Master Profile]], [[_Angie Craig Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[ActBlue]], [[_Cori Bush Master Profile]], [[Americans for Prosperity]], [[NRCC - National Republican Congressional Committee]], [[Tammy Baldwin]], [[Common Sense for America PAC]], [[Donald Trump]], [[Indivisible Action]], [[Save America PAC]], [[Raphael Warnock]], [[Mark Kelly]], [[American Chemistry Council, INC]], [[John Fetterman]], [[_John James Master Profile]], [[Jeanne Shaheen]], [[Kamala Harris]], [[MAGA Inc]], [[Ron Johnson]], [[Cori Bush]], [[Angie Craig]], [[Ted Cruz]], [[Pete Stauber]], [[John James]], [[Adam Gray]]"
 related: "[[Joe Biden]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

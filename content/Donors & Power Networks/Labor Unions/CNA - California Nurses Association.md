@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Labor Unions
 entity-type: Individual Donor
-politicians-funded: "[[Tom Steyer]], [[Kamala Harris]], [[Gavin Newsom]]"
+politicians-funded: "[[Tom Steyer]], [[Kamala Harris]], [[Gavin Newsom]], [[_Rashida Tlaib Master Profile]], [[PRIORITIES USA ACTION]], [[_Bill Foster Master Profile]], [[Giffords PAC]], [[ActBlue]], [[Progressive Turnout Project]], [[_Josh Hawley Master Profile]], [[MAGA Inc]], [[DSCC - Democratic Senatorial Campaign Committee]], [[NORPAC]], [[Mark Kelly]], [[WinRed]], [[_Elissa Slotkin Master Profile]], [[RNC - Republican National Committee]], [[_Marco Rubio Master Profile]], [[Democratic Party of Virginia]], [[The Lincoln Project]], [[Emily's List]], [[WinSenate]], [[MoveOn.org Political Action]], [[NRSC - National Republican Senatorial Committee]], [[DCCC - Democratic Congressional Campaign Committee]], [[NRCC - National Republican Congressional Committee]], [[Catherine Cortez Masto]], [[_Jon Ossoff Master Profile]], [[_Josh Riley Master Profile]], [[_Lauren Underwood Master Profile]], [[_Cori Bush Master Profile]], [[_Summer Lee Master Profile]], [[Sierra Club Political Committee]], [[Bill Foster]], [[Elissa Slotkin]], [[Josh Riley]], [[Marco Rubio]], [[Rashida Tlaib]], [[Lauren Underwood]], [[Josh Hawley]], [[Jon Ossoff]], [[Cori Bush]], [[Summer Lee]]"
 issues:
   - Healthcare
   - Labor & Workers

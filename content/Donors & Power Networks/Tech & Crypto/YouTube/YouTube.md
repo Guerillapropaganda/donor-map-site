@@ -1,22 +1,23 @@
 ---
-title: "YouTube"
+title: YouTube
 type: corporation
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 3
-sector: "Tech & Crypto"
-entity-type: "corporation"
+sector: Tech & Crypto
+entity-type: corporation
 known-gaps:
-  - "No FEC contribution data"
-  - "No lobbying data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No lobbying data
+  - No mapped relationships
 source-types: []
 urls-first-triaged: "2026-04-15"
 epa-facilities: 1
-epa-states: "CA"
+epa-states: CA
 employee-contributions: 447
 employee-contributions-total: 133279
 employee-donor-count: 97
+politicians-funded: "[[ActBlue]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Google - Alphabet]], [[_Thomas Massie Master Profile]], [[_Jon Ossoff Master Profile]], [[_Josh Harder Master Profile]], [[Bernie Moreno]], [[RNC - Republican National Committee]], [[WinRed]], [[NRSC - National Republican Senatorial Committee]], [[Mark Kelly]], [[Marianne Williamson]], [[_Kamala Harris Master Profile]], [[_Derek Tran Master Profile]], [[Jon Ossoff]], [[Thomas Massie]], [[Josh Harder]], [[Kamala Harris]], [[Derek Tran]]"
 ---
 
 

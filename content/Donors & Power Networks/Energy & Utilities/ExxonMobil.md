@@ -2,12 +2,12 @@
 title: ExxonMobil
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Energy & Utilities
 entity-type: Corporation
-politicians-funded: "[[John Cornyn]], [[John Kennedy]], [[Rex Tillerson]], [[Dan Crenshaw]], [[Donald Trump]], [[Ted Cruz]], [[Joe Manchin]], [[John Barrasso]]"
+politicians-funded: "[[John Cornyn]], [[John Kennedy]], [[Rex Tillerson]], [[Dan Crenshaw]], [[Donald Trump]], [[Ted Cruz]], [[Joe Manchin]], [[John Barrasso]], [[MAGA Inc]], [[DCCC - Democratic Congressional Campaign Committee]], [[ActBlue]], [[_Doug Burgum Master Profile]], [[_Marco Rubio Master Profile]], [[Senate Conservatives Fund]], [[_August Pfluger Master Profile]], [[FreedomWorks for America]], [[The Lincoln Project]], [[Democratic Party of Virginia]], [[NRSC - National Republican Senatorial Committee]], [[_Ted Cruz Master Profile]], [[WinRed]], [[_Jim Jordan Master Profile]], [[_Pete Sessions Master Profile]], [[_Ted Budd Master Profile]], [[NRCC - National Republican Congressional Committee]], [[Club for Growth INC PAC]], [[Women Speak Out Pac]], [[Club for Growth]], [[Bernie Moreno]], [[_Young Kim Master Profile]], [[Congressional Leadership Fund]], [[Votevets]], [[National Rifle Association]], [[WinSenate]], [[Giffords PAC]], [[RNC - Republican National Committee]], [[Emily's List]], [[MoveOn.org Political Action]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Ron Johnson Master Profile]], [[_John James Master Profile]], [[_Tammy Baldwin Master Profile]], [[_Josh Hawley Master Profile]], [[_Elissa Slotkin Master Profile]], [[_Nancy Pelosi Master Profile]], [[Congressional Progressive Caucus PAC]], [[Hmp]], [[Human Rights Campaign Equality Votes]], [[_Josh Riley Master Profile]], [[_Jon Ossoff Master Profile]], [[_Ted Lieu Master Profile]], [[Progressive Turnout Project]], [[Save America PAC]], [[_Tim Scott Master Profile]], [[Mark Kelly]], [[Let America Vote PAC]], [[American Chemistry Council, INC]], [[_Julie Johnson Master Profile]], [[_Kamala Harris Master Profile]], [[_Mike Thompson Master Profile]], [[Campaign for Working Families]], [[_Lauren Boebert Master Profile]], [[_Claudia Tenney Master Profile]], [[_Christian D. Menefee Master Profile]], [[CHC BOLD PAC]], [[Planned Parenthood Votes]], [[_Anna Paulina Luna Master Profile]], [[_Vicente Gonzalez Master Profile]], [[_Patrick Ryan Master Profile]], [[Catherine Cortez Masto]], [[_Rashida Tlaib Master Profile]], [[JUSTICE DEMOCRATS PAC]], [[_Susie Lee Master Profile]], [[Bob Casey]], [[Trump Victory]], [[August Pfluger]], [[Anna Paulina Luna]], [[Doug Burgum]], [[Tim Scott]], [[Susie Lee]], [[Mike Thompson]], [[Jon Ossoff]], [[Tammy Baldwin]], [[Lauren Boebert]], [[Pete Sessions]], [[Josh Hawley]], [[Ron Johnson]], [[Kamala Harris]], [[Nancy Pelosi]], [[Christian D. Menefee]], [[Vicente Gonzalez]], [[Claudia Tenney]], [[Patrick Ryan]], [[Ted Lieu]], [[John James]], [[Ted Budd]], [[Young Kim]], [[Elissa Slotkin]], [[Marco Rubio]], [[Josh Riley]], [[Julie Johnson]], [[Jim Jordan]], [[Rashida Tlaib]]"
 issues:
   - Energy & Climate
 court-cases: 6535
@@ -61,7 +61,7 @@ lei-jurisdiction: BE
 cross-vault-triangulation-count: 31
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 20
-epa-states: "CA, CT, LA, MI, MN, NJ, PA, RI, TN, TX, VA"
+epa-states: CA, CT, LA, MI, MN, NJ, PA, RI, TN, TX, VA
 employee-contributions: 9543
 employee-contributions-total: 1343236
 employee-donor-count: 1263
@@ -663,3 +663,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/136082357/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/136082357/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/136082357/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 5 (2020–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | $78.4M |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

@@ -1,50 +1,50 @@
 ---
-title: "AT&T"
+title: AT&T
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Media & Entertainment"
-entity-type: "Corporation"
+sector: Media & Entertainment
+entity-type: Corporation
 ein: "593397155"
-annual-revenue: "$82K"
-net-assets: "$253K"
+annual-revenue: $82K
+net-assets: $253K
 tax-year: "2023"
 cpsc-recalls: 1
 last-enriched: "2026-04-11"
-lei: "81560046090960AF7A65"
-lei-jurisdiction: "IT"
+lei: 81560046090960AF7A65
+lei-jurisdiction: IT
 subawards-issued: 50
 subawards-issued-amount: 51876611853
 subawards-received: 50
 subawards-received-amount: 51876611853
-top-federal-agency: "Department of Veterans Affairs"
+top-federal-agency: Department of Veterans Affairs
 top-naics-code: "517110"
 lobbying-spend: 21040000
 lobbying-filings: 28
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 related: "[[News Corp - Fox Corporation]] · [[Capitol Counsel]] · [[Comcast - NBCUniversal]] · [[Verizon]] · [[Walt Disney Company]] · [[iHeartMedia]] · [[Sinclair Broadcast Group]]"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 total-revenue: 91608
 total-assets: 252342
 court-cases: 109576
 court-jurisdictions:
-  - "District Court, C.D. California"
-  - "District Court, D. Montana"
-  - "District Court, D. New Jersey"
-  - "District Court, D. Rhode Island"
-  - "District Court, E.D. North Carolina"
-  - "District Court, E.D. Texas"
-  - "District Court, M.D. Florida"
-  - "District Court, N.D. Georgia"
-  - "District Court, N.D. Texas"
-  - "District Court, S.D. New York"
+  - District Court, C.D. California
+  - District Court, D. Montana
+  - District Court, D. New Jersey
+  - District Court, D. Rhode Island
+  - District Court, E.D. North Carolina
+  - District Court, E.D. Texas
+  - District Court, M.D. Florida
+  - District Court, N.D. Georgia
+  - District Court, N.D. Texas
+  - District Court, S.D. New York
 cross-vault-triangulation-count: 7
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 486
-epa-states: "AL, CA, CO, CT, DC, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, MI, MN, MO, MS, NC, NE, NJ, NM, NY, OH, PA, TN, TX, UT, VA, WI, WV"
+epa-states: AL, CA, CO, CT, DC, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, MI, MN, MO, MS, NC, NE, NJ, NM, NY, OH, PA, TN, TX, UT, VA, WI, WV
 federal-contracts: 6346
 federal-awards-total: 2286101346
 total-raised: 1423158
@@ -57,6 +57,7 @@ federal-grants-total: 15410157
 employee-contributions: 34092
 employee-contributions-total: 2994189
 employee-donor-count: 4535
+politicians-funded: "[[_Josh Harder Master Profile]], [[_John James Master Profile]], [[RNC - Republican National Committee]], [[_Martin Heinrich Master Profile]], [[CHC BOLD PAC]], [[_Nancy Pelosi Master Profile]], [[WinRed]], [[DCCC - Democratic Congressional Campaign Committee]], [[Senate Conservatives Fund]], [[_Ron Johnson Master Profile]], [[WinSenate]], [[_Lauren Underwood Master Profile]], [[_Summer Lee Master Profile]], [[Indivisible Action]], [[Trump Victory]], [[AT&T - WarnerMedia]], [[Progressive Turnout Project]], [[_Carlos Gimenez Master Profile]], [[JUSTICE DEMOCRATS PAC]], [[_Jim Jordan Master Profile]], [[MoveOn.org Political Action]], [[DNC - Democratic National Committee]], [[Save America PAC]], [[_Judy Chu Master Profile]], [[_Cory Booker Master Profile]], [[Let America Vote PAC]], [[NORPAC]], [[_Tammy Baldwin Master Profile]], [[Human Rights Campaign Equality Votes]], [[_Mike Levin Master Profile]], [[Bob Casey]], [[Catherine Cortez Masto]], [[_Lauren Boebert Master Profile]], [[_Jim Costa Master Profile]], [[_Darren Soto Master Profile]], [[Emily's List]], [[Votevets]], [[_George Whitesides Master Profile]], [[_Julia Brownley Master Profile]], [[League of Conservation Voters]], [[Hmp]], [[_Yassamin Ansari Master Profile]], [[_Angie Craig Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[The Lincoln Project]], [[_Scott Wiener Master Profile]], [[_Nellie Pou Master Profile]], [[_Jimmy Gomez Master Profile]], [[Law Enforcement for a Safer America Pac]], [[Congressional Progressive Caucus PAC]], [[NRSC - National Republican Senatorial Committee]], [[_Bonnie Watson Coleman Master Profile]], [[314 ACTION FUND]], [[American Principles Project Pac]], [[_Ann Wagner Master Profile]], [[Working Families Party PAC]], [[Mark Kelly]], [[ActBlue]], [[Texans for a Conservative Majority]], [[Giffords PAC]], [[_Ted Budd Master Profile]], [[_Morgan McGarvey Master Profile]], [[_Rick W. Allen Master Profile]], [[Barbara Lee]], [[_Debbie Wasserman Schultz Master Profile]], [[Really American Pac]], [[_Jon Ossoff Master Profile]], [[Climate Hawks Vote]], [[_Mark DeSaulnier Master Profile]], [[_Jeff Hurd Master Profile]], [[_Kamala Harris Master Profile]], [[AIPAC - American Israel Public Affairs Committee]], [[Club for Growth]], [[_Jimmy Panetta Master Profile]], [[_Bill Foster Master Profile]], [[_Alex Padilla Master Profile]], [[_Ted Lieu Master Profile]], [[NRCC - National Republican Congressional Committee]], [[_Lisa Blunt Rochester Master Profile]], [[Los Angeles County Democratic Central Committee]], [[_Veronica Escobar Master Profile]], [[_Diana Degette Master Profile]], [[_Mark Green Master Profile]], [[_Ralph Norman Master Profile]], [[_Susie Lee Master Profile]], [[_Dave Min Master Profile]], [[_Josh Hawley Master Profile]], [[_Pete Sessions Master Profile]], [[MAGA Inc]], [[_Jamie Raskin Master Profile]], [[_Andy Barr Master Profile]], [[_Elissa Slotkin Master Profile]], [[_Thomas Massie Master Profile]], [[_Glenn Grothman Master Profile]], [[Madison Project Inc.]], [[National Rifle Association]], [[_Debbie Dingell Master Profile]], [[_Gabe Amo Master Profile]], [[_Vicente Gonzalez Master Profile]], [[_Ted Cruz Master Profile]], [[_Robert Garcia Master Profile]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[_Anna Paulina Luna Master Profile]], [[_Julie Johnson Master Profile]], [[_Sydney Kamlager-Dove Master Profile]], [[_Kevin Mullin Master Profile]], [[_Marco Rubio Master Profile]], [[SLF PAC]], [[_Rashida Tlaib Master Profile]], [[_Mark Pocan Master Profile]], [[_Mario Diaz-Balart Master Profile]], [[_Lamonica McIver Master Profile]], [[_Gabe Vasquez Master Profile]], [[Fairshake PAC]], [[Activate America]], [[Medicare for All - The Policy That Broke the Party]], [[Marianne Williamson]], [[Conservative Solutions PAC]], [[_Mark Alford Master Profile]], [[_Chrissy Houlahan Master Profile]], [[Ab Pac]], [[Michigan Republican Party]], [[_Cori Bush Master Profile]], [[_Jared Moskowitz Master Profile]], [[_Laura Friedman Master Profile]], [[Mark DeSaulnier]], [[Morgan McGarvey]], [[Julie Johnson]], [[Debbie Dingell]], [[Diana Degette]], [[Mark Green]], [[Ron Johnson]], [[Jimmy Panetta]], [[Marco Rubio]], [[Ted Budd]], [[Elissa Slotkin]], [[Bill Foster]], [[Kevin Mullin]], [[Julia Brownley]], [[Nancy Pelosi]], [[Rashida Tlaib]], [[Robert Garcia]], [[Alex Padilla]], [[Jimmy Gomez]], [[Jon Ossoff]], [[Ted Lieu]], [[Mike Levin]], [[Glenn Grothman]], [[Nellie Pou]], [[Rick W. Allen]], [[Ralph Norman]], [[Cory Booker]], [[Ann Wagner]], [[Jim Costa]], [[Laura Friedman]], [[Darren Soto]], [[Angie Craig]], [[Judy Chu]], [[Lauren Underwood]], [[Tammy Baldwin]], [[Susie Lee]], [[Veronica Escobar]], [[Ted Cruz]], [[Josh Hawley]], [[Gabe Vasquez]], [[Josh Harder]], [[Sydney Kamlager-Dove]], [[Scott Wiener]], [[John James]], [[Anna Paulina Luna]], [[Lauren Boebert]], [[Andy Barr]], [[Bonnie Watson Coleman]], [[Martin Heinrich]], [[George Whitesides]], [[Debbie Wasserman Schultz]], [[Dave Min]], [[Yassamin Ansari]], [[Jeff Hurd]], [[Thomas Massie]], [[Mark Pocan]], [[Mark Alford]], [[Summer Lee]], [[Jamie Raskin]], [[Kamala Harris]], [[Gabe Amo]], [[Vicente Gonzalez]], [[Lamonica McIver]], [[Cori Bush]], [[Jim Jordan]], [[Carlos Gimenez]], [[Pete Sessions]], [[Mario Diaz-Balart]], [[Chrissy Houlahan]], [[Lisa Blunt Rochester]], [[Jared Moskowitz]]"
 ---
 
 
@@ -408,3 +409,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/593397155/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/593397155/2019)~~ (URL broken, archived by Ops)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22AT%26T%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 5 (2018–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | $82K |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | — |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

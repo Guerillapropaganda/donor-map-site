@@ -2,12 +2,12 @@
 title: Federalist Society
 type: donor
 content-readiness: draft
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Dark Money
 entity-type: Individual Donor
-politicians-funded: "[[Clarence Thomas]], [[Donald Trump]], [[Samuel Alito]]"
+politicians-funded: "[[Clarence Thomas]], [[Donald Trump]], [[Samuel Alito]], [[_Ted Cruz Master Profile]], [[_Josh Hawley Master Profile]], [[Josh Hawley]], [[Ted Cruz]]"
 issues:
   - Dark Money & Campaign Finance
 federal-register-mentions: 2

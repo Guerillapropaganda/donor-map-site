@@ -1,14 +1,14 @@
 ---
-title: "Pfizer Inc."
+title: Pfizer Inc.
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Pharma & Healthcare"
-entity-type: "Corporation"
+sector: Pharma & Healthcare
+entity-type: Corporation
 issues:
-  - "Healthcare"
+  - Healthcare
 federal-awards-total: 2041811751
 federal-contracts-count: 25
 federal-grants-count: 1
@@ -16,43 +16,43 @@ cpsc-recalls: 1
 last-enriched: "2026-04-11"
 sec-filings: 10000
 sec-form-types:
-  - "10-12G"
-  - "11-K"
-  - "11-K/A"
+  - 10-12G
+  - 11-K
+  - 11-K/A
   - "4"
-  - "424B2"
-  - "424B3"
+  - 424B2
+  - 424B3
   - "425"
-  - "8-K"
-  - "8-K/A"
-  - "ARS"
-  - "CORRESP"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "EX-10.19"
-  - "EX-23.6"
-  - "EX-99"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "EX-FILING FEES"
-  - "FWP"
-  - "INFORMATION TABLE"
-  - "N-PX"
-  - "S-8"
-  - "SC 13D"
-  - "SC 13D/A"
-  - "SC 13G/A"
-  - "SC TO-I"
-  - "SC TO-I/A"
-  - "SC TO-T"
-  - "SC TO-T/A"
-  - "SCHEDULE 13G/A"
+  - 8-K
+  - 8-K/A
+  - ARS
+  - CORRESP
+  - DEF 14A
+  - DEFA14A
+  - EX-10.19
+  - EX-23.6
+  - EX-99
+  - EX-99.1
+  - EX-99.2
+  - EX-FILING FEES
+  - FWP
+  - INFORMATION TABLE
+  - N-PX
+  - S-8
+  - SC 13D
+  - SC 13D/A
+  - SC 13G/A
+  - SC TO-I
+  - SC TO-I/A
+  - SC TO-T
+  - SC TO-T/A
+  - SCHEDULE 13G/A
 court-cases: 62892
 court-jurisdictions:
-  - "District Court, N.D. Florida"
+  - District Court, N.D. Florida
 ein: "136083839"
-annual-revenue: "$82.1M"
-net-assets: "$1.4M"
+annual-revenue: $82.1M
+net-assets: $1.4M
 tax-year: "2016"
 source-types:
   - Courts
@@ -61,18 +61,18 @@ source-types:
   - USASpending
 corroboration-count: 4
 known-gaps:
-  - "No FEC contribution data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No mapped relationships
 federal-register-mentions: 591
 regulatory-agencies:
-  - "Commerce Department"
-  - "Energy Department"
-  - "Environmental Protection Agency"
-  - "Federal Energy Regulatory Commission"
-  - "Federal Trade Commission"
-  - "Food and Drug Administration"
-  - "Foreign-Trade Zones Board"
-  - "Health and Human Services Department"
+  - Commerce Department
+  - Energy Department
+  - Environmental Protection Agency
+  - Federal Energy Regulatory Commission
+  - Federal Trade Commission
+  - Food and Drug Administration
+  - Foreign-Trade Zones Board
+  - Health and Human Services Department
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 lobbying-spend: 53270000
@@ -80,11 +80,11 @@ lobbying-filings: 66
 related: "[[The ACA Repeal That Never Came and the Pharma Donors Who Paid Either Way]] · [[PhRMA]] · [[Healthcare - Donors and Backers]]"
 fda-recalls: 103
 fda-recalls-class-i: 14
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 total-revenue: 29100015
 total-assets: 255288291
 epa-facilities: 32
-epa-states: "CA, CT, IL, IN, MA, MO, NC, NJ, NY, OH, PA"
+epa-states: CA, CT, IL, IN, MA, MO, NC, NJ, NY, OH, PA
 federal-contracts: 1340
 total-raised: 1008433
 total-spent: 908185
@@ -94,6 +94,7 @@ contributions-to-committees: 770600
 employee-contributions: 188265
 employee-contributions-total: 9343204
 employee-donor-count: 13656
+politicians-funded: "[[Tracey Mann]], [[Richard Blumenthal]], [[Lori Trahan]], [[Jerrold Nadler]], [[Mario Diaz-Balart]], [[Congressional Progressive Caucus PAC]], [[Courage California Super Pac]], [[Jacky Rosen]], [[Steve Womack]], [[Chris Christie]], [[_Tammy Baldwin Master Profile]], [[Pfizer Inc.]], [[John Joyce]], [[August Pfluger]], [[Laura Gillen]], [[NRSC - National Republican Senatorial Committee]], [[Debbie Wasserman Schultz]], [[Michael Lawler]], [[Katie Britt]], [[Shri Thanedar]], [[Barbara Lee]], [[Gary Peters]], [[_Tim Scott Master Profile]], [[Alex Padilla]], [[WinRed]], [[Robert Garcia]], [[MAGA Inc]], [[Ab Pac]], [[_Jon Ossoff Master Profile]], [[_Jake Auchincloss Master Profile]], [[Catherine Cortez Masto]], [[_Elissa Slotkin Master Profile]], [[_George Whitesides Master Profile]], [[Brett Guthrie]], [[Kat Cammack]], [[Brad Knott]], [[Andrea Salinas]], [[NRCC - National Republican Congressional Committee]], [[Steve Daines]], [[Ann Wagner]], [[Lloyd Smucker]], [[Richard Hudson]], [[Emily's List]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[Progressive Turnout Project]], [[MoveOn.org Political Action]], [[Bill Hagerty]], [[Veronica Escobar]], [[Kevin Mullin]], [[Everytown for Gun Safety]], [[Roger Wicker]], [[WinSenate]], [[Chrissy Houlahan]], [[_Chris Pappas Master Profile]], [[_Young Kim Master Profile]], [[Marilyn Strickland]], [[Nathaniel Moran]], [[Elise Stefanik]], [[Darin Lahood]], [[Eric Schmitt]], [[_Rashida Tlaib Master Profile]], [[_Jason Smith Master Profile]], [[Diana Harshbarger]], [[_Debbie Dingell Master Profile]], [[Frank Pallone]], [[Shontel Brown]], [[Dan Crenshaw]], [[Susan Collins]], [[Kevin McCarthy]], [[_Thomas Massie Master Profile]], [[Kyrsten Sinema]], [[Steve Scalise]], [[Giffords PAC]], [[Pete Aguilar]], [[Maria Elvira Salazar]], [[Tom Cole]], [[Joseph Morelle]], [[Jared Moskowitz]], [[David Rouzer]], [[Club for Growth]], [[Cathy McMorris Rodgers]], [[_Robert Garcia Master Profile]], [[_Bonnie Watson Coleman Master Profile]], [[Kathy Castor]], [[Darren Soto]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Mike Lee]], [[Martin Heinrich]], [[Debbie Dingell]], [[Wfp Ie Committee]], [[_Marco Rubio Master Profile]], [[Gregory Meeks]], [[The Lincoln Project]], [[Marsha Blackburn]], [[Save America PAC]], [[NORPAC]], [[John Thune]], [[Jimmy Panetta]], [[Jodey Arrington]], [[Josh Gottheimer]], [[314 ACTION FUND]], [[Democratic Party of Virginia]], [[_Nancy Pelosi Master Profile]], [[James Comer]], [[Ron Estes]], [[_Ted Cruz Master Profile]], [[Eric Swalwell]], [[Shelley Moore Capito]], [[ActBlue]], [[_Hilda Solis Master Profile]], [[_Victoria Spartz Master Profile]], [[Senate Conservatives Fund]], [[Let America Vote PAC]], [[Bob Casey]], [[_Lauren Underwood Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[Markwayne Mullin]], [[_Julia Brownley Master Profile]], [[_Patrick Ryan Master Profile]], [[Jeanne Shaheen]], [[Deb Fischer]], [[JUSTICE DEMOCRATS PAC]], [[_George Latimer Master Profile]], [[John James]], [[David Schweikert]], [[Hmp]], [[Ken Calvert]], [[RNC - Republican National Committee]], [[Mark Kelly]], [[Mike Carey]], [[Protect the Vote]], [[John Cornyn]], [[Raul Ruiz]], [[Guy Reschenthaler]], [[Mariannette Miller-Meeks]], [[Vicente Gonzalez]], [[Jerry Moran]], [[Protecting Our Vote Pac]], [[CHC BOLD PAC]], [[Mark Green]], [[Marianne Williamson]], [[Henry Cuellar]], [[Joe Manchin]], [[Richard Neal]], [[Jim Himes]], [[Trump Victory]], [[Brittany Pettersen]], [[Vince Fong]], [[Patrick McHenry]], [[Dwight Evans]], [[Pete Stauber]], [[Mark Warner]], [[Mike Thompson]], [[Troy Balderson]], [[Diana Degette]], [[Suzanne Bonamici]], [[Chris Coons]], [[Pete Ricketts]], [[_Cory Booker Master Profile]], [[Russell Fry]], [[Morgan McGarvey]], [[Brendan Boyle]], [[Kristen McDonald Rivet]], [[Jay Obernolte]], [[Adrian Smith]], [[Roger Marshall]], [[Nicole Malliotakis]], [[Gwen Moore]], [[Patty Murray]], [[_Brad Knott Master Profile]], [[Steven Horsford]], [[Byron Donalds]], [[_Andre Carson Master Profile]], [[Kim Schrier]], [[Tim Scott]], [[Michelle Fischbach]], [[_Nellie Pou Master Profile]], [[Courage to Change PAC]], [[Bryan Steil]], [[_Josh Hawley Master Profile]], [[Sean Casten]], [[Claudia Tenney]], [[Nancy Pelosi]], [[Human Rights Campaign Equality Votes]], [[David Kustoff]], [[_Mark Green Master Profile]], [[Ashley Moody]], [[Really American Pac]], [[Jake Auchincloss]], [[_Claudia Tenney Master Profile]], [[Michigan Republican Party]], [[Emily Randall]], [[Rudy Yakym]], [[_Jim Jordan Master Profile]], [[DNC - Democratic National Committee]], [[Thom Tillis]], [[Indivisible Action]], [[Derek Schmidt]], [[_Ron Johnson Master Profile]], [[_Darren Soto Master Profile]], [[Adam Gray]], [[John Barrasso]], [[Maxine Waters]], [[Ruben Gallego]], [[Mark Takano]], [[_Chrissy Houlahan Master Profile]], [[_Jimmy Gomez Master Profile]], [[Lisa Murkowski]], [[Ted Lieu]], [[Laura Friedman]], [[Julia Brownley]], [[Lois Frankel]], [[Bennie Thompson]], [[Lisa Blunt Rochester]], [[Kweisi Mfume]], [[Julie Johnson]], [[Ritchie Torres]], [[John Kennedy]], [[Madeleine Dean]], [[Jon Husted]], [[_Andy Barr Master Profile]], [[Chris van Hollen]], [[Kansans for Life Political Action Committee]], [[Jimmy Gomez]], [[Wesley Bell]], [[Todd Young]], [[_John James Master Profile]], [[Victoria Spartz]], [[Jason Smith]], [[_Paul Tonko Master Profile]], [[_Lisa Blunt Rochester Master Profile]], [[_Derek Schmidt Master Profile]], [[Joni Ernst]], [[National Victory Action Fund]], [[James Lankford]], [[David Scott]], [[Aaron Bean]], [[John Boozman]], [[National Rifle Association]], [[Tim Walberg]], [[Brian Jack]], [[Tammy Duckworth]], [[_Lois Frankel Master Profile]], [[Virginia Foxx]], [[Joyce Beatty]], [[Sheila Cherfilus-McCormick]], [[Connecticut Patriots Pac]], [[Grace Meng]], [[Pete Sessions]], [[Chris Pappas]], [[George Latimer]], [[Jon Ossoff]], [[Young Kim]], [[Tammy Baldwin]], [[Rashida Tlaib]], [[George Whitesides]], [[Thomas Massie]], [[Ron Johnson]], [[Cory Booker]], [[Lauren Underwood]], [[Josh Hawley]], [[Elissa Slotkin]], [[Jim Jordan]], [[Bonnie Watson Coleman]], [[Ted Cruz]], [[Patrick Ryan]], [[Andre Carson]], [[Paul Tonko]], [[Hilda Solis]], [[Marco Rubio]], [[Andy Barr]], [[Nellie Pou]]"
 ---
 
 
@@ -546,3 +547,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/136083839/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/136083839/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/136083839/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 5 (2020–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $10.5M |
+| Total expenses | — |
+| Total assets (EOY) | $255.3M |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

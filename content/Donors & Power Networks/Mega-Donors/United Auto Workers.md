@@ -1,28 +1,28 @@
 ---
-title: "United Auto Workers"
+title: United Auto Workers
 type: donor
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-08T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
+sector: Mega-Donors
+entity-type: Individual Donor
 ein: 420606689
-annual-revenue: "$1.4M"
-net-assets: "$838K"
+annual-revenue: $1.4M
+net-assets: $838K
 tax-year: "2023"
 lobbying-spend: 11136388
 lobbying-filings: 113
 sec-filings: 2911
 sec-form-types:
-  - "11-K"
-  - "6-K"
-  - "8-K"
-  - "EX-99"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "EX-99.3"
-  - "FWP"
+  - 11-K
+  - 6-K
+  - 8-K
+  - EX-99
+  - EX-99.1
+  - EX-99.2
+  - EX-99.3
+  - FWP
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
 related: "[[2026-03-26 Finance Research]] · [[Gretchen Whitmer Master Profile]] · [[UAW - United Auto Workers]]"
@@ -31,7 +31,7 @@ source-types:
   - SEC
 corroboration-count: 2
 known-gaps:
-  - "No FEC contribution data"
+  - No FEC contribution data
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -39,6 +39,7 @@ urls-first-triaged: "2026-04-15"
 employee-contributions: 80
 employee-contributions-total: 12202
 employee-donor-count: 29
+politicians-funded: "[[ActBlue]], [[_Jon Ossoff Master Profile]], [[Catherine Cortez Masto]], [[_Lauren Underwood Master Profile]], [[MoveOn.org Political Action]], [[Working Families Party PAC]], [[Jon Ossoff]], [[Lauren Underwood]]"
 ---
 
 
@@ -160,3 +161,23 @@ United Auto Workers. A redirect node. See [[UAW - United Auto Workers]] for the 
 Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
 
 - ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F420606689_202312_990O_2024061722532860.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 4 (2020–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | $838K |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

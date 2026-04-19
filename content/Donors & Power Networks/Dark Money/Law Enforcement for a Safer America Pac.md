@@ -6,7 +6,7 @@ sector: Dark Money
 entity-type: Super PAC
 committee-id: C00681825
 fec-url: https://www.fec.gov/data/committee/C00681825/
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-ie-support: null
 fec-ie-oppose: $127,500
@@ -15,7 +15,7 @@ last-enriched: "2026-04-15"
 ofac-programs:
   - IRAN-HR] [HRIT-IR
   - IRAN-HR
-politicians-funded: "[[Rashida Tlaib]]"
+politicians-funded: "[[Rashida Tlaib]], [[Randy Fine]], [[Rick Scott]], [[Ashley Moody]], [[Ron Johnson]], [[Donald Trump]], [[Ayanna Pressley]], [[Ilhan Omar]], [[John Fetterman]], [[Derrick van Orden]], [[Tim Scott]], [[Jimmy Patronis]], [[Scott Fitzgerald]], [[Kamala Harris]], [[Lee Zeldin]], [[Alexandria Ocasio-Cortez]]"
 related: "[[Rashida Tlaib]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

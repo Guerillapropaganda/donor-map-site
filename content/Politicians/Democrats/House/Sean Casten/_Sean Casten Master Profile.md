@@ -1,34 +1,34 @@
 ---
-title: "Sean Casten"
+title: Sean Casten
 type: politician
 content-readiness: raw
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Illinois"
-state-abbr: "IL"
+party: Democrat
+chamber: House
+state: Illinois
+state-abbr: IL
 district: "6"
-bioguide-id: "C001117"
+bioguide-id: C001117
 govtrack-id: 412775
 born: "1971-11-23"
-wikidata-id: "Q55386655"
-website: "https://casten.house.gov"
-phone: "202-225-4561"
+wikidata-id: Q55386655
+website: https://casten.house.gov
+phone: 202-225-4561
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
-donors: "[[DMFI - Democratic Majority for Israel]]"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
+donors: "[[DMFI - Democratic Majority for Israel]], [[Nucor Corporation]], [[National Association of Realtors]], [[Morgan Stanley]], [[League of Conservation Voters]], [[Walmart - Walton Family]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[CVS Health - Aetna]], [[DCCC - Democratic Congressional Campaign Committee]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Progressive Turnout Project]], [[Citigroup]], [[UA Political Action Committee]], [[Google - Alphabet]], [[Joe Neguse]], [[Bonnie Watson Coleman]], [[American Hospital Association PAC]], [[Honeywell]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[General Motors]], [[Congressional Leadership Fund]], [[AT&T - WarnerMedia]], [[Restoration PAC]], [[J Street]], [[SEIU COPE]], [[National Multifamily Housing Council]], [[Hmp]], [[Ted Lieu]], [[Lockheed Martin]], [[Judy Chu]], [[Comcast - NBCUniversal]], [[Elissa Slotkin]], [[Teamsters - International Brotherhood of Teamsters]], [[314 ACTION FUND]], [[Sierra Club Independent Action]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[ENVIRONMENT AMERICA INC]], [[Nancy Pelosi]], [[Anthem - Elevance Health]], [[AbbVie]], [[Sierra Club Political Committee]], [[National Education Association]], [[Planned Parenthood Votes]], [[NEA Fund for Children and Public Education]], [[Jamie Raskin]], [[Pfizer Inc.]], [[Women Speak Out Pac]], [[Putting People First Political Action Committee]], [[Bank of America]], [[Raytheon (RTX)]], [[Northrop Grumman]], [[MoveOn.org Political Action]], [[NextEra Energy]], [[Planned Parenthood Action Fund INC]], [[IBEW - International Brotherhood of Electrical Workers]], [[Giffords PAC]], [[Let America Vote PAC]]"
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H8IL06139"
+fec-candidate-id: H8IL06139
 bills-sponsored: 32
 bills-cosponsored: 491
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
 ---
 
 

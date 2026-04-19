@@ -1,33 +1,34 @@
 ---
-title: "Lauren Underwood"
+title: Lauren Underwood
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Illinois"
-state-abbr: "IL"
+party: Democrat
+chamber: House
+state: Illinois
+state-abbr: IL
 district: "14"
-bioguide-id: "U000040"
+bioguide-id: U000040
 govtrack-id: 412776
 born: "1986-10-04"
-wikidata-id: "Q48471874"
-website: "https://underwood.house.gov"
-phone: "202-225-2976"
+wikidata-id: Q48471874
+website: https://underwood.house.gov
+phone: 202-225-2976
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H8IL14174"
+fec-candidate-id: H8IL14174
 bills-sponsored: 29
 bills-cosponsored: 226
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Judy Chu]], [[Performance Racing Inc.]], [[314 ACTION FUND]], [[IBEW - International Brotherhood of Electrical Workers]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Courage to Change PAC]], [[National Association of Realtors]], [[Teamsters - International Brotherhood of Teamsters]], [[American Federation of State County & Municipal Employees P E O P L E]], [[UA Political Action Committee]], [[Sierra Club Political Committee]], [[Sierra Club Independent Action]], [[Protect the Vote]], [[Human Rights Campaign Equality Votes]], [[Pete Aguilar]], [[Ted Lieu]], [[NEA Fund for Children and Public Education]], [[CHC BOLD PAC]], [[National Education Association]], [[Emily's List]], [[American Hospital Association PAC]], [[League of Conservation Voters]], [[MoveOn.org Political Action]], [[SEIU COPE]], [[Progressive Turnout Project]], [[Women Speak Out Pac]], [[Let America Vote PAC]], [[DCCC - Democratic Congressional Campaign Committee]], [[Bonnie Watson Coleman]], [[Hmp]], [[Indivisible Action]], [[NextEra Energy]], [[Sara Jacobs]], [[AT&T - WarnerMedia]], [[McDonalds Corporation]], [[Restoration PAC]], [[Planned Parenthood Votes]], [[ADM - Archer Daniels Midland]], [[Everytown for Gun Safety]], [[Jamie Raskin]], [[Veronica Escobar]], [[American Chemistry Council, INC]], [[Humane Society Legislative Fund]], [[Giffords PAC]], [[Care Action]], [[Paul Tonko]], [[Nancy Pelosi]], [[ENVIRONMENT AMERICA INC]], [[Planned Parenthood Action Fund INC]], [[Blackstone Group]], [[Apple]], [[Tesla - Elon Musk Political Operation]], [[Leadership Now]], [[Booz Allen Hamilton]], [[Anthem - Elevance Health Political Operation]], [[Google - Alphabet]], [[Centene Corporation]], [[BAE Systems]], [[Coinbase]], [[Environmental Law & Policy Center]], [[Comcast - NBCUniversal]], [[Lyft]], [[Gates Foundation]], [[Blue Cross Blue Shield Association]], [[CBRE Group]], [[Anthem - Elevance Health]], [[Meta - Facebook]], [[Boeing]], [[Center for American Progress]], [[AbbVie]], [[CVS Health - Aetna]], [[Palantir Technologies]], [[Arabella Advisors]], [[Nvidia]], [[Blue Shield of California]], [[MassMutual]], [[CNA - California Nurses Association]], [[Oracle]], [[Goldman Sachs]], [[UPS]], [[Pfizer Inc.]], [[Eli Lilly]], [[Revere America]], [[Anduril Industries]], [[AT&T]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[UnitedHealth Group - Optum]], [[General Motors]], [[Amazon]], [[Wells Fargo]], [[NARAL Pro-Choice America]], [[Cigna Group]], [[SEIU - Service Employees International Union]], [[Merck]], [[Microsoft]], [[Bank of America]], [[US CHAMBER OF COMMERCE]], [[Kaiser Permanente]], [[JPMorgan Chase]], [[OpenAI]], [[Honeywell International]], [[News Corp - Fox Corporation]], [[NARAL]], [[Northrop Grumman]], [[Ripple]], [[Morgan Stanley]], [[Fidelity Investments]], [[Walmart]], [[Chevron]], [[Raytheon (RTX Corporation)]], [[DoorDash]], [[United Auto Workers]], [[Airbnb]], [[Lockheed Martin]], [[Verizon]], [[Charles Schwab]], [[AFL-CIO]]"
 ---
 
 

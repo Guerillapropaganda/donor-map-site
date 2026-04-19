@@ -4,7 +4,7 @@ type: politician
 bioguide-id: W000779
 content-readiness: ready
 central-thesis: "Wyden is the reform Democrat whose reforms never pass. His brand is powerful: privacy crusader, billionaire tax champion, surveillance opponent, tech-accountability advocate. He has introduced the Billionaires Income Tax at least four times (2021,..."
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Democrat
@@ -35,13 +35,13 @@ needs-reenrichment: true
 reenrich-reason: run voting pipeline; run congress pipeline
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 top-donors: "[[NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY PAC]] · [[SIERRA CLUB POLITICAL COMMITTEE]] · [[National Committee to Preserve Social Security PAC]] · [[Sierra Club Political Committee]] · [[Political Action for Lasting Security]]"
-donors: "[[Sierra Club Political Committee]] · [[National Committee to Preserve Social Security PAC]] · [[NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY PAC]] · [[SIERRA CLUB POLITICAL COMMITTEE]] · [[Political Action for Lasting Security]]"
+donors: "[[Sierra Club Political Committee]] · [[National Committee to Preserve Social Security PAC]] · [[NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY PAC]] · [[SIERRA CLUB POLITICAL COMMITTEE]] · [[Political Action for Lasting Security]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Walmart - Walton Family]] · [[BAE Systems]] · [[Progressive Turnout Project]] · [[Microsoft]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[National Restaurant Association]] · [[NextEra Energy]] · [[McDonalds Corporation]] · [[Everytown for Gun Safety]] · [[Planned Parenthood Action Fund INC]] · [[CVS Health - Aetna]] · [[Airbnb]] · [[Humana]] · [[League of Conservation Voters]] · [[American Gaming Association]] · [[American College of Radiology Association PAC]] · [[Google - Alphabet]] · [[Raytheon (RTX)]] · [[American Chemistry Council, INC]] · [[AT&T - WarnerMedia]] · [[UA Political Action Committee]] · [[NEA Fund for Children and Public Education]] · [[Duke Energy]] · [[Lockheed Martin]] · [[Puget Sound Energy INC PAC for Good Government]] · [[SEIU COPE]] · [[Associated General Contractors of America Political Action Committee]] · [[Tenet Healthcare]] · [[Ford Motor Company]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Coinbase]] · [[PG&E - Pacific Gas and Electric]] · [[Anthem - Elevance Health]] · [[American Hospital Association PAC]] · [[General Motors]] · [[Bechtel Corporation]] · [[iHeartMedia]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[National Multifamily Housing Council]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Giffords PAC]] · [[Care Action]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[General Dynamics]] · [[Citigroup]] · [[Johnson & Johnson]] · [[Honeywell]] · [[Comcast - NBCUniversal]] · [[Morgan Stanley]] · [[Amgen Inc]] · [[Leidos]] · [[National Association of Realtors]] · [[Sierra Club Independent Action]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 1984
 bills-cosponsored: 8506
 bills-enacted: 1
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "Health"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: Health
 ---
 
 

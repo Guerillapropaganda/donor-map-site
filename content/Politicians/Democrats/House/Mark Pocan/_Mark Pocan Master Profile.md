@@ -1,33 +1,34 @@
 ---
-title: "Mark Pocan"
+title: Mark Pocan
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Wisconsin"
-state-abbr: "WI"
+party: Democrat
+chamber: House
+state: Wisconsin
+state-abbr: WI
 district: "2"
-bioguide-id: "P000607"
+bioguide-id: P000607
 govtrack-id: 412585
 born: "1964-08-14"
-wikidata-id: "Q1900355"
-website: "https://pocan.house.gov"
-phone: "202-225-2906"
+wikidata-id: Q1900355
+website: https://pocan.house.gov
+phone: 202-225-2906
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H2WI02124"
+fec-candidate-id: H2WI02124
 bills-sponsored: 19
 bills-cosponsored: 582
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Sierra Club Independent Action]], [[SEIU COPE]], [[IBEW - International Brotherhood of Electrical Workers]], [[American Federation of State County & Municipal Employees P E O P L E]], [[J Street]], [[Let America Vote PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[UA Political Action Committee]], [[Demand Justice]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Unite Here Tip Campaign Committee]], [[Medicare for All - The Policy That Broke the Party]], [[MoveOn.org Political Action]], [[American Hospital Association PAC]], [[AFL-CIO]], [[NEA Fund for Children and Public Education]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[National Nurses United]], [[Care Action]], [[Everytown for Gun Safety]], [[Progressive Turnout Project]], [[National Association of Realtors]], [[Planned Parenthood Votes]], [[Sierra Club Political Committee]], [[Teamsters - International Brotherhood of Teamsters]], [[Google - Alphabet]], [[UPS]], [[AT&T]], [[SEIU - Service Employees International Union]]"
 ---
 
 

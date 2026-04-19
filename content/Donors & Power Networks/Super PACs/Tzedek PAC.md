@@ -5,14 +5,14 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00770511
 aliases:
   - TZEDEK PAC
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
-politicians-funded: "[[Dan Goldman]]"
+politicians-funded: "[[Dan Goldman]], [[John Fetterman]], [[Ted Lieu]], [[James Comer]], [[Byron Donalds]], [[Ted Cruz]], [[Cliff Bentz]], [[Deb Fischer]], [[Kim Schrier]], [[Lisa Murkowski]], [[Lisa Blunt Rochester]], [[Tim Sheehy]], [[Young Kim]], [[Victoria Spartz]], [[Claudia Tenney]], [[Richard Blumenthal]], [[Joseph Morelle]], [[Erin Houchin]], [[Aaron Bean]], [[Michael Lawler]], [[John Joyce]], [[Randy Fine]], [[Morgan Luttrell]], [[Joni Ernst]], [[Richard McCormick]], [[David Rouzer]], [[Paul Tonko]], [[Cory Mills]], [[Burgess Owens]], [[Tammy Baldwin]], [[Hakeem Jeffries]], [[Kevin Cramer]], [[Veronica Escobar]], [[Steve Daines]], [[Guy Reschenthaler]], [[Alex Padilla]], [[Roger Marshall]], [[George Latimer]], [[Jay Obernolte]], [[Thom Tillis]], [[Diana Harshbarger]], [[Cory Booker]], [[Mike Lee]], [[Cathy McMorris Rodgers]]"
 related: "[[Dan Goldman]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

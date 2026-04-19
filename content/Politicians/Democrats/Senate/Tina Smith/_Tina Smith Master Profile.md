@@ -1,44 +1,44 @@
 ---
-title: "Tina Smith"
+title: Tina Smith
 type: politician
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "Senate"
-state: "Minnesota"
-state-abbr: "MN"
-bioguide-id: "S001203"
+party: Democrat
+chamber: Senate
+state: Minnesota
+state-abbr: MN
+bioguide-id: S001203
 govtrack-id: 412742
 born: "1958-03-04"
-wikidata-id: "Q18631509"
-website: "https://www.smith.senate.gov"
-phone: "202-224-5641"
+wikidata-id: Q18631509
+website: https://www.smith.senate.gov
+phone: 202-224-5641
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 stock-trades: 23
 stock-trade-tickers:
-  - "PODD"
-  - "CGNT"
-  - "CUTR"
-  - "MSTY.PA"
-  - "TCMD"
-  - "DXCM"
-  - "ABT"
-  - "IIN"
-  - "ENTL"
-donors: "[[ActBlue]]"
+  - PODD
+  - CGNT
+  - CUTR
+  - MSTY.PA
+  - TCMD
+  - DXCM
+  - ABT
+  - IIN
+  - ENTL
+donors: "[[ActBlue]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Teamsters - International Brotherhood of Teamsters]], [[AT&T - WarnerMedia]], [[Demand Justice]], [[National Association of Realtors]], [[Citigroup]], [[Planned Parenthood Votes]], [[CVS Health - Aetna]], [[American Federation of State County & Municipal Employees P E O P L E]], [[BAE Systems]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Planned Parenthood of Minnesota Political Action Fund]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[SEIU COPE]]"
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "S8MN00578"
+fec-candidate-id: S8MN00578
 bills-sponsored: 70
 bills-cosponsored: 571
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
 ---
 
 

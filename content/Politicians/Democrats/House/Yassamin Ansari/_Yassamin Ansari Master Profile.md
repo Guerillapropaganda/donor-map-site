@@ -1,29 +1,30 @@
 ---
-title: "Yassamin Ansari"
+title: Yassamin Ansari
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Arizona"
-state-abbr: "AZ"
+party: Democrat
+chamber: House
+state: Arizona
+state-abbr: AZ
 district: "3"
-bioguide-id: "A000381"
+bioguide-id: A000381
 govtrack-id: 456972
 born: "1992-04-07"
-wikidata-id: "Q122226202"
-website: "https://ansari.house.gov"
-phone: "202-225-4065"
+wikidata-id: Q122226202
+website: https://ansari.house.gov
+phone: 202-225-4065
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H4AZ03109"
+fec-candidate-id: H4AZ03109
+top-donors: "[[SEIU COPE]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Protect Progress]], [[UA Political Action Committee]], [[National Association of Realtors]], [[Medicare for All - The Policy That Broke the Party]], [[Working Families Party PAC]], [[General Dynamics]], [[American College of Radiology Association PAC]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Emily's List]], [[Ted Lieu]], [[Teamsters - International Brotherhood of Teamsters]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Pete Aguilar]], [[Let America Vote PAC]], [[IBEW - International Brotherhood of Electrical Workers]], [[Mainstream Democrats Pac]], [[Unite Here Tip Campaign Committee]], [[DMFI - Democratic Majority for Israel]], [[Amazon]], [[Morgan Stanley]], [[Honeywell International]], [[Tenet Healthcare]], [[Goldman Sachs]], [[Hospital Corporation of America - HCA]], [[Microsoft]], [[DoorDash]], [[Center for American Progress]], [[AT&T]], [[Securus Technologies - Aventiv]], [[Apollo Global Management]], [[Oracle]], [[Gilead Sciences]], [[Google - Alphabet]], [[Carlyle Group]], [[Meta - Facebook]], [[General Motors]]"
 ---
 
 

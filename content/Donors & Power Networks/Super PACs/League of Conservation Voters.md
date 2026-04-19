@@ -2,7 +2,7 @@
 title: League of Conservation Voters
 type: donor
 content-readiness: ready
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Super PACs
@@ -78,11 +78,11 @@ known-gaps:
 cross-vault-triangulation-count: 5
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 aliases:
-  - "LEAGUE OF CONSERVATION VOTERS ACTION FUND"
-  - "LCV VICTORY FUND"
-  - "LEAGUE OF CONSERVATION VOTERS VICTORY FUND"
-  - "LCV"
-politicians-funded: "[[Jim Himes]], [[Ed Markey]], [[Jeff Merkley]], [[John Thune]], [[Brian Schatz]]"
+  - LEAGUE OF CONSERVATION VOTERS ACTION FUND
+  - LCV VICTORY FUND
+  - LEAGUE OF CONSERVATION VOTERS VICTORY FUND
+  - LCV
+politicians-funded: "[[Jim Himes]], [[Ed Markey]], [[Jeff Merkley]], [[John Thune]], [[Brian Schatz]], [[Shomari Figures]], [[Saikat Chakrabarti]], [[Jason Crow]], [[Andrea Salinas]], [[Pramila Jayapal]], [[Raphael Warnock]], [[Dan Goldman]], [[League of Conservation Voters]], [[Laura Gillen]], [[Suhas Subramanyam]], [[Sean Casten]], [[Summer Lee]], [[Chrissy Houlahan]], [[Lateefah Simon]], [[Lori Trahan]], [[Pete Aguilar]], [[Joyce Beatty]], [[Julia Brownley]], [[Donald Trump]], [[Robert Garcia]], [[Kelly Morrison]], [[Gwen Moore]], [[Maggie Goodlander]], [[Maxwell Frost]], [[Alex Padilla]], [[Tammy Baldwin]], [[Brittany Pettersen]], [[Maxine Waters]], [[Dina Titus]], [[Abdul El-Sayed]], [[Emanuel Cleaver]], [[Julie Johnson]], [[Raul Grijalva]], [[Kathy Castor]], [[Ron Wyden]], [[Chris Pappas]], [[Chellie Pingree]], [[Wesley Bell]], [[Ken Calvert]], [[Bobby Scott]], [[Nydia Velazquez]], [[John Fetterman]], [[John Hickenlooper]], [[Kevin Mullin]], [[ActBlue]], [[America Votes]], [[Betty McCollum]], [[Maxine Dexter]], [[Richard Blumenthal]], [[Susie Lee]], [[Frank Pallone]], [[Shontel Brown]], [[_Gabe Amo Master Profile]], [[Jimmy Gomez]], [[Jared Moskowitz]], [[Debbie Dingell]], [[Raul Ruiz]], [[Kristen McDonald Rivet]], [[Catherine Cortez Masto]], [[Bernie Moreno]], [[Chris van Hollen]], [[Jared Huffman]], [[Demand Justice]], [[Patty Murray]], [[Jamaal Bowman]], [[Hakeem Jeffries]], [[Dave Min]], [[Nancy Pelosi]], [[Ted Lieu]], [[Ruben Gallego]], [[Nikki Budzinski]], [[_Tammy Baldwin Master Profile]], [[Darren Soto]], [[Josh Harder]], [[Debbie Wasserman Schultz]], [[Emily's List]], [[Eric Sorensen]], [[Josh Gottheimer]], [[Sharice Davids]], [[Kim Schrier]], [[Jamie Raskin]], [[Marilyn Strickland]], [[Derrick van Orden]], [[Shri Thanedar]], [[Sarah McBride]], [[Mike Levin]], [[Donald Norcross]], [[_Nancy Pelosi Master Profile]], [[Lauren Underwood]], [[Teresa Leger Fernandez]], [[Paul Tonko]], [[Ayanna Pressley]], [[MAGA Inc]], [[Adriano Espaillat]], [[Cory Booker]], [[Elissa Slotkin]], [[Lisa Blunt Rochester]], [[Morgan McGarvey]], [[Rosa DeLauro]], [[Jon Ossoff]], [[Sydney Kamlager-Dove]], [[Veronica Escobar]], [[Judy Chu]], [[Lamonica McIver]], [[Derek Tran]], [[Tammy Duckworth]], [[Greg Landsman]], [[Sherrod Brown]], [[Joaquin Castro]], [[Lois Frankel]], [[Jahana Hayes]], [[Suzanne Bonamici]], [[Ritchie Torres]], [[George Whitesides]], [[Seth Magaziner]], [[Michael Lawler]], [[Future Forward USA Action]], [[Rick Larsen]], [[Nikema Williams]], [[Grace Meng]], [[Alexandria Ocasio-Cortez]], [[Greg Stanton]], [[Marcy Kaptur]], [[Sara Jacobs]], [[Katie Porter]], [[Marie Gluesenkamp Perez]], [[Mallory McMorrow]], [[Kamala Harris]], [[Patrick Ryan]], [[Steven Horsford]], [[Diana Degette]], [[Mark Kelly]], [[Lloyd Doggett]], [[Madeleine Dean]], [[Peter Welch]], [[George Latimer]], [[Ron DeSantis]], [[Zach Wahls]], [[Josh Riley]], [[Jerrold Nadler]], [[Adam Gray]], [[Daniel Biss]], [[Bob Casey]], [[Sheldon Whitehouse]], [[Ron Johnson]], [[Ilhan Omar]], [[Ryan Zinke]], [[Juliana Stratton]], [[Sarah Elfreth]], [[Raja Krishnamoorthi]], [[Andy Kim]], [[Mark Takano]], [[Bernie Sanders]], [[Steve Cohen]], [[Jasmine Crockett]], [[Roy Cooper]], [[Dan Osborn]], [[Andre Carson]], [[Cori Bush]], [[Mark Warner]], [[Gregory Meeks]], [[John James]], [[Tim Sheehy]], [[Dwight Evans]], [[Joseph Morelle]], [[Ryan Mackenzie]], [[Jack Reed]], [[Laura Friedman]], [[Chris Coons]], [[John Garamendi]], [[Martin Heinrich]], [[Elizabeth Warren]], [[Emily Randall]], [[Jake Auchincloss]], [[Barbara Lee]], [[Juan Vargas]], [[Jacky Rosen]], [[Adam Smith]], [[Mike Thompson]], [[Gabe Amo]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -388,3 +388,50 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/521733698/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/521733698/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/521733698/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 5 (2018–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $67.2M |
+| Total expenses | — |
+| Total assets (EOY) | $22.6M |
+| Grants paid out | $35.5M |
+
+**Lifetime grants out (2018–2023):** $186.7M across 206 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| LCV VICTORY FUND | $49.7M | 5 | 2018–2023 |
+| THE PARTNERSHIP PROJECT ACTION FUND | $7.3M | 3 | 2018–2020 |
+| CONSERVATION COLORADO | $6.6M | 5 | 2018–2023 |
+| MICHIGAN LEAGUE OF CONSERVATION VOTERS INC | $6.3M | 5 | 2018–2023 |
+| CONSERVATION VOTERS OF MICHIGAN PAC | $5.7M | 2 | 2018–2022 |
+| VIRGINIA LEAGUE OF CONSERVATION VOTERS | $4.7M | 5 | 2018–2023 |
+| CHISPA AZ PAC | $4.7M | 3 | 2018–2020 |
+| AMERICA VOTES | $4.3M | 2 | 2020–2022 |
+| NORTH CAROLINA LEAGUE OF CONSERVATION VOTERS INC | $3.6M | 5 | 2018–2023 |
+| NEVADA CONSERVATION LEAGUE | $3.5M | 5 | 2018–2023 |
+| NEW JERSEY LEAGUE OF CONSERVATION VOTERS INC | $3.4M | 5 | 2018–2023 |
+| CONSERVATION VOTERS OF PENNSYLVANIA | $3.1M | 5 | 2018–2023 |
+| CONSERVATION MINNESOTA VOTER CENTER INC | $2.6M | 5 | 2018–2023 |
+| NEW AMERICAN JOBS FUND | $2.5M | 1 | 2018 |
+| FUTURE FORWARD USA | $2.5M | 1 | 2022 |
+| CONSERVATION VOTERS OF PA VICTORY FUND | $2.3M | 3 | 2020–2023 |
+| CVNM VERDE VOTERS FUND | $2.3M | 3 | 2018–2022 |
+| CONSERVATION VOTES PAC | $2.1M | 2 | 2020–2022 |
+| MAINE CONSERVATION VOTERS | $2.0M | 5 | 2018–2023 |
+| ENVIRONMENT AMERICA INC | $2.0M | 1 | 2018 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

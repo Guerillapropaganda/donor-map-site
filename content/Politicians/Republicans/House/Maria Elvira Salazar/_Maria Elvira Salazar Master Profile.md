@@ -3,7 +3,7 @@ title: Maria Elvira Salazar
 type: politician
 content-readiness: draft
 central-thesis: Salazar is the public face of Miami's Cuba hawks in the House , the communicator who translates the Fanjul/exile donor agenda into populist, identity-driven rhetoric for the Cuban-American base. While Diaz-Balart wields Appropriations power and Ru...
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 needs-reenrichment: true
 reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified): S000168. Next pipeline run should populate Congress.gov + GovTrack auto-blocks with correct data."
 known-gaps: null
@@ -19,11 +19,11 @@ top-donors:
 ofac-sdn-match: "true"
 last-enriched: "2026-04-18"
 ofac-programs:
-  - "SDNTK"
+  - SDNTK
 total-received: $922,124
 fec-candidate-id: H8FL27185
 bioguide-id: S000168
-donors: "[[Bacardi - Bacardi USA]] · [[Kenneth Griffin]] · [[Latino Vote for America Pac]] · [[AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION]]"
+donors: "[[Bacardi - Bacardi USA]] · [[Kenneth Griffin]] · [[Latino Vote for America Pac]] · [[AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION]] · [[Humana]] · [[National Restaurant Association]] · [[AT&T - WarnerMedia]] · [[Drain the DC Swamp PAC]] · [[WinRed]] · [[Chevron]] · [[August Pfluger]] · [[Jake Ellzey]] · [[Americans for Prosperity]] · [[Brad Knott]] · [[Planned Parenthood Votes]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[NextEra Energy]] · [[Morgan Stanley]] · [[NRCC - National Republican Congressional Committee]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Vern Buchanan]] · [[Women Speak Out Pac]] · [[Pfizer Inc.]] · [[Anthem - Elevance Health]] · [[Honeywell]] · [[National Multifamily Housing Council]] · [[Cliff Bentz]] · [[David Rouzer]] · [[Andy Harris]] · [[Comcast - NBCUniversal]] · [[Ben Cline]] · [[Citigroup]] · [[Ron Estes]] · [[Jim Jordan]] · [[VIEW PAC - Value in Electing Women]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Victoria Spartz]] · [[Mike Collins]] · [[National Education Association]] · [[Michael Waltz]] · [[Republican Jewish Coalition]] · [[National Wildlife Federation Action Fund]] · [[Google - Alphabet]] · [[Rick W. Allen]] · [[Adrian Smith]] · [[Reclaim America PAC]] · [[National Cattlemen's Beef Association]] · [[American College of Radiology Association PAC]] · [[National Association of Realtors]] · [[Congressional Leadership Fund]] · [[Wfw Action Fund, Inc.]] · [[Austin Scott]] · [[McDonalds Corporation]] · [[National Victory Action Fund]] · [[American Hospital Association PAC]] · [[Darrell Issa]] · [[MAJORITY PAC]] · [[Walmart - Walton Family]] · [[Carlos Gimenez]] · [[Byron Donalds]] · [[ADM - Archer Daniels Midland]] · [[Kevin Kiley]] · [[Microsoft]] · [[Associated General Contractors of America Political Action Committee]] · [[National Right to Life Victory Fund]] · [[Pete Sessions]] · [[Daniel Webster]] · [[Bank of America]] · [[AbbVie]] · [[Apple]] · [[Charles Schwab]] · [[Fanjul Family - Florida Crystals]] · [[Novo Nordisk]] · [[Meta - Facebook]] · [[Goldman Sachs]]"
 related: "[[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[_Carlos Gimenez Master Profile|Gimenez]] · [[Fanjul Family - Florida Crystals]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[House Majority PAC]]"
 committees:
   - House Committee on Financial Services
@@ -47,8 +47,8 @@ urls-first-triaged: "2026-04-15"
 bills-sponsored: 70
 bills-cosponsored: 1277
 bills-enacted: 1
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "International Affairs"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: International Affairs
 ---
 
 

@@ -1,24 +1,24 @@
 ---
-title: "NRCC - National Republican Congressional Committee"
+title: NRCC - National Republican Congressional Committee
 type: donor
 content-readiness: raw
 editorial-status: stub
-sector: "Political Committees"
-entity-type: "PAC"
-last-updated: 2026-04-14
+sector: Political Committees
+entity-type: PAC
+last-updated: 2026-04-14T00:00:00.000Z
 source-tier: 1
 aliases:
-  - "NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE"
-  - "NRCC"
-  - "NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE EXPENDITURES"
+  - NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE
+  - NRCC
+  - NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE EXPENDITURES
 known-gaps:
-  - "Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis."
+  - Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis.
 ofac-sdn-match: "true"
 last-enriched: "2026-04-14"
 ofac-programs:
-  - "BALKANS"
-  - "BELARUS"
-  - "GLOMAG"
+  - BALKANS
+  - BELARUS
+  - GLOMAG
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -31,6 +31,7 @@ contributions-to-committees: 105000
 employee-contributions: 107
 employee-contributions-total: 13344
 employee-donor-count: 27
+politicians-funded: "[[_Ben Cline Master Profile]], [[Carlos Gimenez]], [[Laura Gillen]], [[Eric Sorensen]], [[David Schweikert]], [[Ryan Zinke]], [[Derrick van Orden]], [[Mike Carey]], [[Anna Paulina Luna]], [[Maria Elvira Salazar]], [[Seth Magaziner]], [[Josh Riley]], [[Kristen McDonald Rivet]], [[Ryan Mackenzie]], [[Aaron Bean]], [[Vicente Gonzalez]], [[_Doug Burgum Master Profile]], [[RNC - Republican National Committee]], [[Scott Perry]], [[Nicole Malliotakis]], [[Mariannette Miller-Meeks]], [[Cory Mills]], [[Marcy Kaptur]], [[WinRed]], [[Brad Finstad]], [[Bryan Steil]], [[Michael Lawler]], [[Monica de la Cruz]], [[_Chrissy Houlahan Master Profile]], [[George Whitesides]], [[Young Kim]], [[ActBlue]], [[Summer Lee]], [[Patrick Ryan]], [[NRCC - National Republican Congressional Committee]], [[Randy Fine]], [[John James]], [[Kamala Harris]], [[Ken Calvert]], [[VIEW PAC - Value in Electing Women]], [[Marie Gluesenkamp Perez]], [[Mike Flood]], [[Jahana Hayes]], [[Adam Gray]], [[Donald Trump]], [[Josh Harder]], [[Trump Victory]], [[Henry Cuellar]], [[Greg Landsman]], [[Kim Schrier]], [[Celeste Maloy]], [[Chrissy Houlahan]], [[Ben Cline]], [[Doug Burgum]]"
 ---
 
 

@@ -1,33 +1,34 @@
 ---
-title: "Byron Donalds"
+title: Byron Donalds
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Florida"
-state-abbr: "FL"
+party: Republican
+chamber: House
+state: Florida
+state-abbr: FL
 district: "19"
-bioguide-id: "D000032"
+bioguide-id: D000032
 govtrack-id: 456808
 born: "1978-10-28"
-wikidata-id: "Q59726216"
-website: "https://donalds.house.gov"
-phone: "202-225-2536"
+wikidata-id: Q59726216
+website: https://donalds.house.gov
+phone: 202-225-2536
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H2FL14186"
+fec-candidate-id: H2FL14186
 bills-sponsored: 81
 bills-cosponsored: 625
 bills-enacted: 1
-top-policy-area: "Crime and Law Enforcement"
+top-policy-area: Crime and Law Enforcement
+top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[Marathon Petroleum]], [[Tzedek PAC]], [[Chevron]], [[NextEra Energy]], [[Valero Energy]], [[Walmart - Walton Family]], [[AT&T - WarnerMedia]], [[National Association of Realtors]], [[Associated General Contractors of America Political Action Committee]], [[Amgen Inc]], [[General Motors]], [[Republican Jewish Coalition]], [[Google - Alphabet]], [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]], [[National Multifamily Housing Council]], [[MAJORITY PAC]], [[Save America PAC]], [[Pfizer Inc.]], [[Duke Energy]], [[Ben Cline]], [[Jason Smith]], [[WinRed]], [[National Rifle Association]], [[Elbert Guillory's America]], [[Jim Jordan]], [[Lockheed Martin]], [[Comcast - NBCUniversal]], [[General Dynamics]], [[Anthem - Elevance Health]], [[Microsoft]], [[ConocoPhillips]], [[Bank of America]], [[Craft Ventures]], [[Amazon]], [[CTA - California Teachers Association]], [[CVS Health - Aetna]], [[Goldman Sachs]], [[Oracle]], [[McDonalds Corporation]], [[Halliburton]], [[Citadel - Kenneth Griffin]], [[HBW Resources]], [[Northrop Grumman]], [[American Gaming Association]], [[Walmart]], [[Ballard Partners]], [[Wells Fargo]], [[Charles Schwab]], [[Blackstone Group]], [[Las Vegas Sands]]"
 ---
 
 

@@ -2,12 +2,12 @@
 title: Western States Petroleum Association
 type: donor
 content-readiness: draft
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Energy & Utilities
 entity-type: Individual Donor
-politicians-funded: "[[Gavin Newsom]]"
+politicians-funded: "[[Gavin Newsom]], [[ActBlue]]"
 lobbying-spend: 5300420
 lobbying-filings: 105
 sec-filings: 179

@@ -1,34 +1,34 @@
 ---
-title: "Jerrold Nadler"
+title: Jerrold Nadler
 type: politician
 content-readiness: raw
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "New York"
-state-abbr: "NY"
+party: Democrat
+chamber: House
+state: New York
+state-abbr: NY
 district: "12"
-bioguide-id: "N000002"
+bioguide-id: N000002
 govtrack-id: 400289
 born: "1947-06-13"
-wikidata-id: "Q505598"
-website: "https://nadler.house.gov"
-phone: "202-225-5635"
+wikidata-id: Q505598
+website: https://nadler.house.gov
+phone: 202-225-5635
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
-donors: "[[Brady Campaign]]"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
+donors: "[[Brady Campaign]], [[Microsoft]], [[Pfizer Inc.]], [[EQUALITY PROJECT PAC]], [[J Street]], [[Everytown for Gun Safety]], [[SEIU COPE]], [[Comcast - NBCUniversal]], [[Giffords PAC]], [[Planned Parenthood Votes]], [[Ted Lieu]], [[National Association of Realtors]], [[General Motors]], [[AT&T - WarnerMedia]], [[American Hospital Association PAC]], [[National Multifamily Housing Council]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Teamsters - International Brotherhood of Teamsters]], [[DCCC - Democratic Congressional Campaign Committee]], [[AIPAC - American Israel Public Affairs Committee]], [[Medicare for All - The Policy That Broke the Party]], [[NEA Fund for Children and Public Education]], [[Progressive Turnout Project]], [[Nancy Pelosi]], [[Walmart - Walton Family]], [[American Federation of State County & Municipal Employees P E O P L E]], [[iHeartMedia]], [[Sierra Club Independent Action]], [[League of Conservation Voters]], [[Google - Alphabet]], [[MoveOn.org Political Action]]"
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H2NY17071"
+fec-candidate-id: H2NY17071
 bills-sponsored: 18
 bills-cosponsored: 598
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
 ---
 
 

@@ -1,33 +1,34 @@
 ---
-title: "Sydney Kamlager-Dove"
+title: Sydney Kamlager-Dove
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "California"
-state-abbr: "CA"
+party: Democrat
+chamber: House
+state: California
+state-abbr: CA
 district: "37"
-bioguide-id: "K000400"
+bioguide-id: K000400
 govtrack-id: 456884
 born: "1972-07-20"
-wikidata-id: "Q20177418"
-website: "https://kamlager-dove.house.gov"
-phone: "202-225-7084"
+wikidata-id: Q20177418
+website: https://kamlager-dove.house.gov
+phone: 202-225-7084
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H2CA37304"
+fec-candidate-id: H2CA37304
 bills-sponsored: 34
 bills-cosponsored: 470
 bills-enacted: 1
-top-policy-area: "International Affairs"
+top-policy-area: International Affairs
+top-donors: "[[Planned Parenthood Action Fund INC]], [[Teamsters - International Brotherhood of Teamsters]], [[Medicare for All - The Policy That Broke the Party]], [[MoveOn.org Political Action]], [[J Street]], [[National Association of Realtors]], [[NEA Fund for Children and Public Education]], [[Julia Brownley]], [[Microsoft]], [[Demand Justice]], [[National Nurses United]], [[Cooperative of American Physicians Independent Expenditure Committee]], [[American Federation of State County & Municipal Employees P E O P L E]], [[DCCC - Democratic Congressional Campaign Committee]], [[Ted Lieu]], [[CTA - California Teachers Association]], [[Congressional Progressive Caucus PAC]], [[Google - Alphabet]], [[AIPAC - American Israel Public Affairs Committee]], [[Lockheed Martin]], [[IBEW - International Brotherhood of Electrical Workers]], [[Comcast - NBCUniversal]], [[Sara Jacobs]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Protect Our Future PAC]], [[Sierra Club Independent Action]], [[League of Conservation Voters]], [[UA Political Action Committee]], [[SEIU COPE]], [[American Hospital Association PAC]], [[Sierra Club Political Committee]], [[Let America Vote PAC]], [[Adriano Espaillat]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AT&T - WarnerMedia]], [[Giffords PAC]], [[Gilead Sciences]], [[Courage California Super Pac]], [[Honeywell]], [[CVS Health - Aetna]], [[DMFI - Democratic Majority for Israel]], [[Meta - Facebook]], [[UPS]], [[TikTok - ByteDance]], [[Coinbase]], [[PG&E]], [[Amazon]], [[Bank of America]], [[Apple]], [[AT&T]], [[Bechtel Corporation]], [[Morgan Stanley]], [[SpaceX]], [[FTX - Sam Bankman-Fried]]"
 ---
 
 

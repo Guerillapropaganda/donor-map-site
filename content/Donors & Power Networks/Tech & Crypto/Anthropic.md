@@ -1,56 +1,55 @@
 ---
-title: "Anthropic"
+title: Anthropic
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Tech & Crypto"
-entity-type: "Corporation"
+sector: Tech & Crypto
+entity-type: Corporation
 federal-awards-total: 18960
 federal-contracts-count: 1
 federal-grants-count: 1
 court-cases: 303
 last-enriched: "2026-04-09"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "Court of Appeals for the Ninth Circuit"
-  - "District Court, C.D. California"
-  - "District Court, E.D. Texas"
-  - "District Court, N.D. California"
-  - "District Court, S.D. New York"
-  - "District Court, W.D. Texas"
-lei: "984500B6DEB8CEBC4Z70"
-lei-jurisdiction: "US-DE"
+  - Court of Appeals for the D.C. Circuit
+  - Court of Appeals for the Ninth Circuit
+  - District Court, C.D. California
+  - District Court, E.D. Texas
+  - District Court, N.D. California
+  - District Court, S.D. New York
+  - District Court, W.D. Texas
+lei: 984500B6DEB8CEBC4Z70
+lei-jurisdiction: US-DE
 sec-filings: 1141
 sec-form-types:
-  - "424B3"
-  - "485APOS"
-  - "497AD"
-  - "D"
-  - "D/A"
-  - "EX-99.1"
-  - "EX-99.4"
-  - "NPORT-EX"
-  - "NPORT-P"
-  - "PX14A6G"
+  - 424B3
+  - 485APOS
+  - 497AD
+  - D
+  - D/A
+  - EX-99.1
+  - EX-99.4
+  - NPORT-EX
+  - NPORT-P
+  - PX14A6G
 related: "[[OpenAI]] · [[Google - Alphabet]] · [[Amazon]] · [[Microsoft]] · [[Nvidia]] · [[AI Safety and Regulatory Capture]] · [[AI Regulation and Tech Donors]]"
 ein: "920526891"
-nonprofit-status: "501(c)(3)"
-top-federal-agency: "Department of State"
+nonprofit-status: 501(c)(3)
+top-federal-agency: Department of State
 top-naics-code: "513210"
 federal-register-mentions: 2
 regulatory-agencies:
-  - "Justice Department"
+  - Justice Department
 cross-vault-triangulation-count: 7
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 employee-contributions: 240
 employee-contributions-total: 1019624
 employee-donor-count: 111
+politicians-funded: "[[ActBlue]], [[Indivisible Action]], [[WinRed]], [[_Ted Lieu Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[NRSC - National Republican Senatorial Committee]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Alex Padilla Master Profile]], [[_Scott Wiener Master Profile]], [[DNC - Democratic National Committee]], [[Barbara Lee]], [[The Lincoln Project]], [[Scott Wiener]], [[Ted Lieu]], [[Alex Padilla]]"
 ---
 
 

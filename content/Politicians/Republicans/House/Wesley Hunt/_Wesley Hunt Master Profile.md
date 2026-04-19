@@ -1,33 +1,34 @@
 ---
-title: "Wesley Hunt"
+title: Wesley Hunt
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Texas"
-state-abbr: "TX"
+party: Republican
+chamber: House
+state: Texas
+state-abbr: TX
 district: "38"
-bioguide-id: "H001095"
+bioguide-id: H001095
 govtrack-id: 456946
 born: "1981-11-13"
-wikidata-id: "Q110434665"
-website: "https://hunt.house.gov"
-phone: "202-225-5646"
+wikidata-id: Q110434665
+website: https://hunt.house.gov
+phone: 202-225-5646
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "S6TX00511"
+fec-candidate-id: S6TX00511
 bills-sponsored: 11
 bills-cosponsored: 165
 bills-enacted: 2
-top-policy-area: "Crime and Law Enforcement"
+top-policy-area: Crime and Law Enforcement
+top-donors: "[[Texans for a Conservative Majority]], [[Elbert Guillory's America]]"
 ---
 
 

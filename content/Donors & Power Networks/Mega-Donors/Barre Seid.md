@@ -71,6 +71,25 @@ urls-first-triaged: "2026-04-15"
 *Source: FEC individual contribution filings (indiv), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 7 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $235K |
+| Total expenses | — |
+| Total assets (EOY) | $279K |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->
+
 #barre-seid #mega-donor #judicial #Leonard-Leo #Marble-Freedom-Trust #tax-avoidance #judicial-capture
 
 ---

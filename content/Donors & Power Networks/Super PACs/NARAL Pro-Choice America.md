@@ -5,14 +5,14 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C70002761
 aliases:
   - NARAL Pro-Choice America
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
-politicians-funded: "[[Brendan Boyle]], [[Bennie Thompson]]"
+politicians-funded: "[[Brendan Boyle]], [[Bennie Thompson]], [[DNC - Democratic National Committee]], [[Emily's List]], [[_Lauren Underwood Master Profile]], [[ActBlue]], [[Lauren Underwood]]"
 related: "[[Brendan Boyle]] · [[Bennie Thompson]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

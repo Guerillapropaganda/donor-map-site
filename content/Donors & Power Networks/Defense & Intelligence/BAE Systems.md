@@ -2,12 +2,12 @@
 title: BAE Systems
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Defense & Intelligence
 entity-type: Corporation
-politicians-funded: "[[Jeanne Shaheen]]"
+politicians-funded: "[[Jeanne Shaheen]], [[Save America PAC]], [[Mark Warner]], [[RNC - Republican National Committee]], [[Patty Murray]], [[Jerry Moran]], [[NRCC - National Republican Congressional Committee]], [[NRSC - National Republican Senatorial Committee]], [[Votevets]], [[Jimmy Panetta]], [[Jodey Arrington]], [[_Jamie Raskin Master Profile]], [[Brian Mast]], [[Tammy Duckworth]], [[Ron Wyden]], [[Nancy Mace]], [[Donald Norcross]], [[Rosa DeLauro]], [[_Elissa Slotkin Master Profile]], [[WinRed]], [[National Rifle Association]], [[Richard Hudson]], [[John Garamendi]], [[Dan Sullivan]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Jim Himes]], [[Harold Rogers]], [[Lance Gooden]], [[Veronica Escobar]], [[MAGA Inc]], [[Adam Smith]], [[Emily's List]], [[_Beth van Duyne Master Profile]], [[Marcy Kaptur]], [[MoveOn.org Political Action]], [[Todd Young]], [[Mike Lee]], [[Ronny Jackson]], [[_Young Kim Master Profile]], [[Bill Hagerty]], [[John Cornyn]], [[Lisa Murkowski]], [[WinSenate]], [[Hakeem Jeffries]], [[DCCC - Democratic Congressional Campaign Committee]], [[Mark Alford]], [[Shelley Moore Capito]], [[Mark Kelly]], [[_Jon Ossoff Master Profile]], [[_Ted Cruz Master Profile]], [[Congressional Leadership Fund]], [[DNC - Democratic National Committee]], [[The Lincoln Project]], [[John Boozman]], [[Gary Peters]], [[Roger Wicker]], [[Senate Conservatives Fund]], [[Alex Padilla]], [[Trump Victory]], [[Susan Collins]], [[Catherine Cortez Masto]], [[Planned Parenthood Action Fund INC]], [[Dianne Feinstein]], [[Jacky Rosen]], [[_Tammy Baldwin Master Profile]], [[Steve Womack]], [[Mike Rounds]], [[John James]], [[_Don Bacon Master Profile]], [[Jeff Crank]], [[Rick Larsen]], [[Roger Williams]], [[_Jeff Crank Master Profile]], [[_Chris Pappas Master Profile]], [[AIPAC - American Israel Public Affairs Committee]], [[Progressive Turnout Project]], [[Eric Swalwell]], [[314 ACTION FUND]], [[ActBlue]], [[_Jim Jordan Master Profile]], [[Sam Graves]], [[Diana Harshbarger]], [[Scott Franklin]], [[Let America Vote PAC]], [[James Lankford]], [[_Mike Levin Master Profile]], [[Tim Scott]], [[Guy Reschenthaler]], [[_Anna Paulina Luna Master Profile]], [[Steven Horsford]], [[Elise Stefanik]], [[Brian Schatz]], [[Steve Scalise]], [[CHC BOLD PAC]], [[_Rashida Tlaib Master Profile]], [[Pete Sessions]], [[Carlos Gimenez]], [[John Thune]], [[George Whitesides]], [[_Ron Johnson Master Profile]], [[Ken Calvert]], [[Claudia Tenney]], [[_Lauren Underwood Master Profile]], [[BAE Systems]], [[Kevin Cramer]], [[Paul Tonko]], [[Jack Reed]], [[Pat Harrigan]], [[Rick Crawford]], [[Marsha Blackburn]], [[Kay Granger]], [[_Nancy Pelosi Master Profile]], [[Dusty Johnson]], [[Tom Cole]], [[Marilyn Strickland]], [[Katie Britt]], [[Chrissy Houlahan]], [[French Hill]], [[Scott Desjarlais]], [[Michael Waltz]], [[_Gabe Amo Master Profile]], [[Jamie Raskin]], [[Susie Lee]], [[John Barrasso]], [[Betty McCollum]], [[Democratic Party of Virginia]], [[Joe Wilson]], [[Brittany Pettersen]], [[_Jimmy Panetta Master Profile]], [[Derek Tran]], [[Joseph Morelle]], [[Brad Finstad]], [[_Chrissy Houlahan Master Profile]], [[Mario Diaz-Balart]], [[JUSTICE DEMOCRATS PAC]], [[Raja Krishnamoorthi]], [[Richard Blumenthal]], [[Deb Fischer]], [[August Pfluger]], [[Pete Aguilar]], [[Planned Parenthood Votes]], [[Kat Cammack]], [[Chris Coons]], [[Joni Ernst]], [[Eric Schmitt]], [[John Hoeven]], [[Aaron Bean]], [[Thom Tillis]], [[Martin Heinrich]], [[Kevin McCarthy]], [[Morgan Luttrell]], [[Markwayne Mullin]], [[Gregory Meeks]], [[_Cory Booker Master Profile]], [[Hmp]], [[Nancy Pelosi]], [[Brian Babin]], [[Grace Meng]], [[Tina Smith]], [[REPUBLICAN PARTY OF FLORIDA]], [[Ashley Moody]], [[Celeste Maloy]], [[Morgan McGarvey]], [[Dan Crenshaw]], [[Madeleine Dean]], [[Lori Trahan]], [[Tammy Baldwin]], [[Juan Vargas]], [[Mike Haridopolos]], [[Seth Magaziner]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[_Mike Rogers Master Profile]], [[_Pete Aguilar Master Profile]], [[Steve Daines]], [[Giffords PAC]], [[Lindsey Graham]], [[Patrick McHenry]], [[_Thomas Massie Master Profile]], [[Mitch McConnell]], [[Rick Scott]], [[_John James Master Profile]], [[Dan Newhouse]], [[_Marco Rubio Master Profile]], [[Bob Casey]], [[_Tim Scott Master Profile]], [[Mariannette Miller-Meeks]], [[Adam Schiff]], [[Henry Cuellar]], [[Stars and Stripes Forever PAC]], [[Beth van Duyne]], [[Lauren Underwood]], [[Chris Pappas]], [[Jon Ossoff]], [[Ted Cruz]], [[Young Kim]], [[Don Bacon]], [[Elissa Slotkin]], [[Ron Johnson]], [[Anna Paulina Luna]], [[Cory Booker]], [[Mike Levin]], [[Rashida Tlaib]], [[Marco Rubio]], [[Thomas Massie]], [[Gabe Amo]], [[Jim Jordan]], [[Mike Rogers]]"
 issues:
   - Defense & Military
 ein: "742624710"
@@ -58,7 +58,7 @@ regulatory-agencies:
 cross-vault-triangulation-count: 8
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 33
-epa-states: "AL, AR, AZ, CA, FL, MA, MD, NH, OH, OK, PA, SC, TX, VA"
+epa-states: AL, AR, AZ, CA, FL, MA, MD, NH, OH, OK, PA, SC, TX, VA
 total-raised: 785603
 total-spent: 770828
 cash-on-hand: 274209
@@ -479,3 +479,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/742624710/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/742624710/2019)~~ (URL broken, archived by Ops)
 - ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/742624710/2018)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | $33.2M |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

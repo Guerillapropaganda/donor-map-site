@@ -25,7 +25,7 @@ issues:
 total-received: $1,848,430
 fec-candidate-id: H4AR04048
 related: "[[Raul Grijalva]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch|Koch Network]]"
-donors: "[[American Petroleum Institute]] · [[National Cattlemen's Beef Association]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]] · [[CITIZENS FOR RESPONSIBLE ENERGY SOLUTIONS INC.]] · [[AMERICAN CONSERVATIVE UNION]] · [[THE DISABLED VETERANS COALITION PAC]] · [[The Disabled Veterans Coalition PAC]] · [[Citizens for Responsible Energy Solutions Inc.]] · [[American Conservative Union]]"
+donors: "[[American Petroleum Institute]] · [[National Cattlemen's Beef Association]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]] · [[CITIZENS FOR RESPONSIBLE ENERGY SOLUTIONS INC.]] · [[AMERICAN CONSERVATIVE UNION]] · [[THE DISABLED VETERANS COALITION PAC]] · [[The Disabled Veterans Coalition PAC]] · [[Citizens for Responsible Energy Solutions Inc.]] · [[American Conservative Union]] · [[Halliburton]] · [[Jason Smith]] · [[Associated General Contractors of America Political Action Committee]] · [[General Dynamics]] · [[Save America PAC]] · [[AT&T - WarnerMedia]] · [[L3Harris Technologies]] · [[PG&E - Pacific Gas and Electric]] · [[General Motors]] · [[Microsoft]] · [[Valero Energy]] · [[Hunter Action Fund (haf)]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Honeywell]] · [[McDonalds Corporation]] · [[National Rifle Association]] · [[Lockheed Martin]] · [[Comcast - NBCUniversal]] · [[Raytheon (RTX)]] · [[National Association of Realtors]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[NextEra Energy]] · [[Performance Racing Inc.]] · [[Nucor Corporation]] · [[Alliance Coal, LLC PAC]] · [[National Association of Manufacturers]] · [[Occidental Petroleum]] · [[Devon Energy]] · [[Tyson Foods]] · [[Google - Alphabet]] · [[David Rouzer]] · [[Leidos]] · [[Anthem - Elevance Health]] · [[Marathon Petroleum]] · [[Republican Jewish Coalition]] · [[ConocoPhillips]] · [[WinRed]] · [[Chevron]] · [[MAJORITY PAC]] · [[American Chemistry Council, INC]] · [[Walmart - Walton Family]] · [[Jim Jordan]] · [[August Pfluger]]"
 last-enriched: "2026-04-10"
 needs-reenrichment: true
 reenrich-reason: re-run congress pipeline
@@ -35,8 +35,8 @@ urls-first-triaged: "2026-04-15"
 bills-sponsored: 90
 bills-cosponsored: 1147
 bills-enacted: 0
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "Health"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: Health
 ---
 
 

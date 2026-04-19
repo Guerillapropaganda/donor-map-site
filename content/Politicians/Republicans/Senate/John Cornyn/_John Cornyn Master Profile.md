@@ -4,7 +4,7 @@ type: politician
 bioguide-id: C001056
 content-readiness: ready
 central-thesis: John Cornyn is the Texas corporate establishment's Senate operator — a reliable legislative mechanic for oil and gas deregulation, defense spending, financial services preferences, and judicial confirmations who functions as the institutional coun...
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Republican
@@ -38,19 +38,19 @@ total-received: $11,155,399
 fec-candidate-id: S2TX00106
 stock-trades: 2
 stock-trade-tickers:
-  - "AAPL"
+  - AAPL
 last-enriched: "2026-04-07"
 needs-reenrichment: true
 reenrich-reason: run voting pipeline; run congress pipeline
 related: "[[Tim Scott]] · [[US Chamber of Commerce]] · [[_John Thune Master Profile|John Thune]] · [[_Ted Cruz Master Profile|Ted Cruz]] · [[_Mitch McConnell Master Profile|Mitch McConnell]] · [[Koch Network - Charles Koch]] · [[ExxonMobil]] · [[Chevron]] · [[Blackstone]] · [[Goldman Sachs]] · [[Senate Leadership Fund]]"
-donors: "[[Harlan Crow]] · [[Insurance Industry]] · [[Fraternal Order of Police]] · [[Republican Jewish Coalition]] · [[AMERICANS FOR PROSPERITY ACTION, INC.(AFP ACTION)]] · [[Texans for a Conservative Majority]] · [[ExxonMobil]] · [[Koch Network - Charles Koch]] · [[US Chamber of Commerce]] · [[Goldman Sachs]] · [[Chevron]] · [[Senate Leadership Fund]] · [[Blackstone]]"
+donors: "[[Harlan Crow]] · [[Insurance Industry]] · [[Fraternal Order of Police]] · [[Republican Jewish Coalition]] · [[AMERICANS FOR PROSPERITY ACTION, INC.(AFP ACTION)]] · [[Texans for a Conservative Majority]] · [[ExxonMobil]] · [[Koch Network - Charles Koch]] · [[US Chamber of Commerce]] · [[Goldman Sachs]] · [[Chevron]] · [[Senate Leadership Fund]] · [[Blackstone]] · [[Comcast - NBCUniversal]] · [[AbbVie]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Lockheed Martin]] · [[McDonalds Corporation]] · [[Occidental Petroleum]] · [[AT&T - WarnerMedia]] · [[BAE Systems]] · [[Raytheon (RTX)]] · [[NRSC - National Republican Senatorial Committee]] · [[L3Harris Technologies]] · [[Walmart - Walton Family]] · [[Amgen Inc]] · [[General Motors]] · [[Morgan Stanley]] · [[Teamsters - International Brotherhood of Teamsters]] · [[National Association of Manufacturers]] · [[CVS Health - Aetna]] · [[Johnson & Johnson]] · [[National Restaurant Association]] · [[WinRed]] · [[Pfizer Inc.]] · [[Microsoft]] · [[American Chemistry Council, INC]] · [[Humana]] · [[Nucor Corporation]] · [[Halliburton]] · [[General Dynamics]] · [[National Multifamily Housing Council]] · [[Ford Motor Company]] · [[Citigroup]] · [[National Association of Realtors]] · [[National Cattlemen's Beef Association]] · [[Google - Alphabet]] · [[Anthem - Elevance Health]] · [[Fairshake PAC]] · [[Gilead Sciences]] · [[NextEra Energy]] · [[Devon Energy]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[Palantir]] · [[Common Sense for America PAC]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Tyson Foods]] · [[Northrop Grumman]] · [[ConocoPhillips]] · [[American Hospital Association PAC]] · [[Planned Parenthood Votes]] · [[Care Action]]"
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 1592
 bills-cosponsored: 4023
 bills-enacted: 12
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "International Affairs"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: International Affairs
 ---
 
 

@@ -2,12 +2,12 @@
 title: Democracy Alliance
 type: donor
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 2
 parent: null
 sector: Dark Money
 entity-type: Individual Donor
-politicians-funded: "[[Tammy Duckworth]], [[Tim Walz]], [[Lindsey Graham]]"
+politicians-funded: "[[Tammy Duckworth]], [[Tim Walz]], [[Lindsey Graham]], [[_Tammy Baldwin Master Profile]], [[Democratic Party of Virginia]], [[ActBlue]], [[League of Conservation Voters]], [[Working Families Party PAC]], [[_Jon Ossoff Master Profile]], [[Jon Ossoff]], [[Tammy Baldwin]]"
 issues:
   - Dark Money & Campaign Finance
 total-political-spend: $116,675
@@ -291,3 +291,35 @@ The tell is the secrecy. If the Democracy Alliance's work were genuinely aligned
 
 - [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
 <!-- auto:fec-individual end -->
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 2 (2022–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $332K |
+| Total expenses | — |
+| Total assets (EOY) | $191K |
+| Grants paid out | $100K |
+
+**Lifetime grants out (2022–2023):** $100K across 5 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| Cobalt | $25K | 1 | 2023 |
+| Color Action Fund | $25K | 1 | 2023 |
+| New Era Colorado | $25K | 1 | 2023 |
+| Planned Parenthood of the Rocky Mtn | $15K | 1 | 2023 |
+| One Colorado | $10K | 1 | 2023 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

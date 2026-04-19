@@ -1,29 +1,30 @@
 ---
-title: "Sarah McBride"
+title: Sarah McBride
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Delaware"
-state-abbr: "DE"
+party: Democrat
+chamber: House
+state: Delaware
+state-abbr: DE
 district: "0"
-bioguide-id: "M001238"
+bioguide-id: M001238
 govtrack-id: 456985
 born: "1990-08-09"
-wikidata-id: "Q17011236"
-website: "https://mcbride.house.gov"
-phone: "202-225-4165"
+wikidata-id: Q17011236
+website: https://mcbride.house.gov
+phone: 202-225-4165
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H4DE00045"
+fec-candidate-id: H4DE00045
+top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[SEIU COPE]], [[NEA Fund for Children and Public Education]], [[EQUALITY PROJECT PAC]], [[Sierra Club Independent Action]], [[Nancy Pelosi]], [[Medicare for All - The Policy That Broke the Party]], [[Congressional Progressive Caucus PAC]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Sierra Club Political Committee]], [[American Federation of State County & Municipal Employees P E O P L E]], [[League of Conservation Voters]], [[Teamsters - International Brotherhood of Teamsters]], [[IBEW - International Brotherhood of Electrical Workers]], [[Citigroup]], [[Northrop Grumman]], [[Emily's List]], [[American Chemistry Council, INC]], [[National Association of Realtors]], [[Comcast - NBCUniversal]], [[Bank of America]], [[American Hospital Association PAC]], [[Mark Takano]], [[Progressive Turnout Project]], [[Everytown for Gun Safety]], [[Ted Lieu]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Restaurant Association]], [[Lockheed Martin]], [[J Street]], [[Anthem - Elevance Health]], [[Google - Alphabet]], [[DMFI - Democratic Majority for Israel]], [[Walmart - Walton Family]], [[Robert Garcia]], [[Gilead Sciences]], [[Let America Vote PAC]], [[Protect Progress]]"
 ---
 
 

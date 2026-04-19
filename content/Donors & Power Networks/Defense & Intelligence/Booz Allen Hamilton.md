@@ -2,12 +2,12 @@
 title: Booz Allen Hamilton
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Defense & Intelligence
 entity-type: Corporation
-politicians-funded: "[[Gerry Connolly]]"
+politicians-funded: "[[Gerry Connolly]], [[_Jon Ossoff Master Profile]], [[_John James Master Profile]], [[_Ted Cruz Master Profile]], [[_Cory Booker Master Profile]], [[NRCC - National Republican Congressional Committee]], [[Emily's List]], [[The Lincoln Project]], [[REPUBLICAN PARTY OF FLORIDA]], [[WinSenate]], [[DCCC - Democratic Congressional Campaign Committee]], [[CHC BOLD PAC]], [[NRSC - National Republican Senatorial Committee]], [[_Nancy Pelosi Master Profile]], [[Chris Christie]], [[ActBlue]], [[_Gabe Amo Master Profile]], [[Democratic Party of Virginia]], [[DSCC - Democratic Senatorial Campaign Committee]], [[National Rifle Association]], [[_Elissa Slotkin Master Profile]], [[MAGA Inc]], [[MoveOn.org Political Action]], [[Giffords PAC]], [[Human Rights Campaign Equality Votes]], [[Hmp]], [[Mark Kelly]], [[314 ACTION FUND]], [[RNC - Republican National Committee]], [[_Josh Riley Master Profile]], [[_Marco Rubio Master Profile]], [[_Mario Diaz-Balart Master Profile]], [[Catherine Cortez Masto]], [[_Tammy Baldwin Master Profile]], [[Votevets]], [[_Emily Randall Master Profile]], [[_Michael Waltz Master Profile]], [[Trump Victory]], [[_Young Kim Master Profile]], [[Senate Conservatives Fund]], [[_Lauren Underwood Master Profile]], [[_Josh Harder Master Profile]], [[Marianne Williamson]], [[Bob Casey]], [[_Chris Pappas Master Profile]], [[_George Whitesides Master Profile]], [[_Mike Levin Master Profile]], [[_Derek Tran Master Profile]], [[WinRed]], [[Courage to Change PAC]], [[_Sara Jacobs Master Profile]], [[Common Sense for America PAC]], [[_Victoria Spartz Master Profile]], [[_Tim Scott Master Profile]], [[Indivisible Action]], [[_Lisa Blunt Rochester Master Profile]], [[_Jamie Raskin Master Profile]], [[NORPAC]], [[_Jim Jordan Master Profile]], [[Save America PAC]], [[Lauren Underwood]], [[Jon Ossoff]], [[Nancy Pelosi]], [[Jamie Raskin]], [[Chris Pappas]], [[Victoria Spartz]], [[Tim Scott]], [[Tammy Baldwin]], [[Marco Rubio]], [[Derek Tran]], [[Cory Booker]], [[Michael Waltz]], [[Elissa Slotkin]], [[John James]], [[Ted Cruz]], [[Gabe Amo]], [[Lisa Blunt Rochester]], [[Josh Harder]], [[Young Kim]], [[Mike Levin]], [[Josh Riley]], [[Jim Jordan]], [[Sara Jacobs]], [[Mario Diaz-Balart]], [[Emily Randall]], [[George Whitesides]]"
 issues:
   - Defense & Military
 lobbying-spend: 6460000
@@ -67,7 +67,7 @@ top-naics-code: "541330"
 cross-vault-triangulation-count: 12
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 1
-epa-states: "FL"
+epa-states: FL
 federal-contracts: 7661
 employee-contributions: 6830
 employee-contributions-total: 1062512

@@ -1,24 +1,24 @@
 ---
-title: "BlackRock"
+title: BlackRock
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Wall Street"
-entity-type: "Corporation"
+sector: Wall Street
+entity-type: Corporation
 issues:
-  - "Wall Street & Finance"
+  - Wall Street & Finance
 ein: "882750831"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-09"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 subawards-issued: 5
 subawards-issued-amount: 923723
 subawards-received: 5
 subawards-received-amount: 923723
-top-federal-agency: "Pension Benefit Guaranty Corporation"
+top-federal-agency: Pension Benefit Guaranty Corporation
 top-naics-code: "541519"
 federal-awards-total: -3608
 federal-contracts-count: 25
@@ -26,37 +26,36 @@ federal-grants-count: 6
 related: "[[Council on Foreign Relations]] · [[BGR Group]] · [[Akin Gump Strauss Hauer & Feld]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Blackstone Group]]"
 court-cases: 6120
 court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "Court of Appeals for the Third Circuit"
-  - "District Court, C.D. California"
-  - "District Court, D. Minnesota"
-  - "District Court, E.D. California"
-  - "District Court, E.D. Pennsylvania"
-  - "District Court, E.D. Texas"
-  - "District Court, E.D. Virginia"
-  - "District Court, M.D. Alabama"
-  - "District Court, N.D. California"
+  - Court of Appeals for the D.C. Circuit
+  - Court of Appeals for the Third Circuit
+  - District Court, C.D. California
+  - District Court, D. Minnesota
+  - District Court, E.D. California
+  - District Court, E.D. Pennsylvania
+  - District Court, E.D. Texas
+  - District Court, E.D. Virginia
+  - District Court, M.D. Alabama
+  - District Court, N.D. California
 federal-register-mentions: 549
 regulatory-agencies:
-  - "Comptroller of the Currency"
-  - "Employee Benefits Security Administration"
-  - "Energy Department"
-  - "Federal Energy Regulatory Commission"
-  - "Federal Trade Commission"
-  - "Labor Department"
-  - "Securities and Exchange Commission"
-  - "Treasury Department"
-  - "Veterans Employment and Training Service"
+  - Comptroller of the Currency
+  - Employee Benefits Security Administration
+  - Energy Department
+  - Federal Energy Regulatory Commission
+  - Federal Trade Commission
+  - Labor Department
+  - Securities and Exchange Commission
+  - Treasury Department
+  - Veterans Employment and Training Service
 cross-vault-triangulation-count: 6
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 3
-epa-states: "CA, DE, FL"
+epa-states: CA, DE, FL
 federal-contracts: 1
 employee-contributions: 2092
 employee-contributions-total: 1928025
 employee-donor-count: 649
+politicians-funded: "[[_Cory Booker Master Profile]], [[_Tim Scott Master Profile]], [[JUSTICE DEMOCRATS PAC]], [[_Kevin Mullin Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Angie Craig Master Profile]], [[_Jon Ossoff Master Profile]], [[Bob Casey]], [[WinRed]], [[_Chrissy Houlahan Master Profile]], [[_Vicente Gonzalez Master Profile]], [[_Martin Heinrich Master Profile]], [[Chris Christie]], [[_Gabe Amo Master Profile]], [[_Glenn Ivey Master Profile]], [[_George Whitesides Master Profile]], [[NRCC - National Republican Congressional Committee]], [[ActBlue]], [[_Tammy Baldwin Master Profile]], [[Catherine Cortez Masto]], [[_Bill Foster Master Profile]], [[_Adam Gray Master Profile]], [[_Elissa Slotkin Master Profile]], [[_Josh Riley Master Profile]], [[_Jimmy Gomez Master Profile]], [[_Kamala Harris Master Profile]], [[Mark Kelly]], [[NRSC - National Republican Senatorial Committee]], [[Barbara Lee]], [[AIPAC - American Israel Public Affairs Committee]], [[_Joe Wilson Master Profile]], [[RNC - Republican National Committee]], [[_Jim Jordan Master Profile]], [[Emily's List]], [[_Lisa Blunt Rochester Master Profile]], [[_Mike Levin Master Profile]], [[_Andy Barr Master Profile]], [[Americans for Tomorrow's Future]], [[_Marco Rubio Master Profile]], [[_Pete Aguilar Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[Let America Vote PAC]], [[MAGA Inc]], [[_Rashida Tlaib Master Profile]], [[Trump Victory]], [[_George Latimer Master Profile]], [[The Lincoln Project]], [[_Mark Alford Master Profile]], [[George Whitesides]], [[Gabe Amo]], [[Chrissy Houlahan]], [[Martin Heinrich]], [[Tammy Baldwin]], [[Pete Aguilar]], [[Tim Scott]], [[Bill Foster]], [[Cory Booker]], [[Adam Gray]], [[Josh Riley]], [[Joe Wilson]], [[George Latimer]], [[Kevin Mullin]], [[Vicente Gonzalez]], [[Rashida Tlaib]], [[Jon Ossoff]], [[Jimmy Gomez]], [[Mike Levin]], [[Mark Alford]], [[Glenn Ivey]], [[Marco Rubio]], [[Andy Barr]], [[Kamala Harris]], [[Angie Craig]], [[Elissa Slotkin]], [[Lisa Blunt Rochester]], [[Jim Jordan]]"
 ---
 
 

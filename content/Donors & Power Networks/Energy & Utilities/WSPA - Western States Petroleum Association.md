@@ -2,12 +2,12 @@
 title: WSPA - Western States Petroleum Association
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Energy & Utilities
 entity-type: Corporation
-politicians-funded: "[[Gavin Newsom]]"
+politicians-funded: "[[Gavin Newsom]], [[ActBlue]], [[_Robert Garcia Master Profile]], [[RNC - Republican National Committee]], [[WinRed]], [[Robert Garcia]]"
 subawards-issued: 50
 subawards-issued-amount: 51876611853
 subawards-received: 50
@@ -24,7 +24,7 @@ cross-vault-triangulation-count: 16
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
 epa-facilities: 1
-epa-states: "PA"
+epa-states: PA
 employee-contributions: 23
 employee-contributions-total: 3097
 employee-donor-count: 10
@@ -171,3 +171,40 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/950596680/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/950596680/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/950596680/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | $16.5M |
+| Grants paid out | — |
+
+**Lifetime grants out (2018–2024):** $1.2M across 10 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| CALIFORNIA LABOR OIL MANAGEMENT ALLIANCE | $600K | 1 | 2022 |
+| SHARED ENERGY FUTURE FOUNDATION | $255K | 2 | 2022–2023 |
+| CALIFORNIA CLEAN GAS ASSOCIATION | $100K | 1 | 2022 |
+| BELLINGHAM TECHNICAL COLLEGE | $53K | 2 | 2018–2019 |
+| PROJECT 42 | $50K | 1 | 2022 |
+| PYLES BOYS CAMP | $50K | 2 | 2019–2022 |
+| BELLINGHAM TECHNICAL COLLEGE FOUNDATION | $28K | 1 | 2022 |
+| BIZFED LOS ANGELES | $20K | 1 | 2022 |
+| WASHINGTON POLICY CENTER | $10K | 1 | 2022 |
+| AMERICAN HEART ASSOCIATION | $8K | 1 | 2022 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

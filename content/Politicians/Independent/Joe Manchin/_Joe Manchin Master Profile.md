@@ -4,7 +4,7 @@ type: politician
 bioguide-id: M001183
 content-readiness: ready
 central-thesis: "Joe Manchin is the donor class's most efficient investment in modern American politics. A single senator , one vote , killed content-readiness: ready86 billion in climate legislation (Build Back Better's clean electricity program, methane fees, EV incentives), then ext..."
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Independent
@@ -24,12 +24,12 @@ known-gaps:
   - No voting record data
   - No mapped relationships
 related: "[[Koch Network - Charles Koch]] · [[Fossil Fuel Bloc]] · [[_Kyrsten Sinema Master Profile|Kyrsten Sinema]] · [[_Chuck Schumer Master Profile]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]] · [[Williams Companies]] · [[Enterprise Products Partners]] · [[Senate Leadership Fund]]"
-donors: "[[Centene Corporation]] · [[Insurance Industry]] · [[SMP]] · [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]] · [[MAJORITY FORWARD]] · [[Fossil Fuel Bloc]] · [[ExxonMobil]]"
+donors: "[[Centene Corporation]] · [[Insurance Industry]] · [[SMP]] · [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]] · [[MAJORITY FORWARD]] · [[Fossil Fuel Bloc]] · [[ExxonMobil]] · [[Drummond Co.]] · [[General Dynamics]] · [[iHeartMedia]] · [[Bechtel Corporation]] · [[L3Harris Technologies]] · [[Ford Motor Company]] · [[PG&E - Pacific Gas and Electric]] · [[Alliance Coal, LLC PAC]] · [[Morgan Stanley]] · [[Women Speak Out Pac]] · [[NEA Fund for Children and Public Education]] · [[Comcast - NBCUniversal]] · [[Walmart - Walton Family]] · [[UA Political Action Committee]] · [[Occidental Petroleum]] · [[Gilead Sciences]] · [[Northrop Grumman]] · [[Honeywell]] · [[ConocoPhillips]] · [[McDonalds Corporation]] · [[Pfizer Inc.]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[Tenet Healthcare]] · [[Johnson & Johnson]] · [[Citigroup]] · [[American Hospital Association PAC]] · [[Duke Energy]] · [[National Restaurant Association]] · [[Anthem - Elevance Health]] · [[AbbVie]] · [[ENVIRONMENT AMERICA INC]] · [[Devon Energy]] · [[NextEra Energy]] · [[Google - Alphabet]] · [[Leidos]] · [[Lockheed Martin]] · [[National Association of Realtors]] · [[Nucor Corporation]] · [[National Association of Manufacturers]] · [[AT&T - WarnerMedia]] · [[AIPAC - American Israel Public Affairs Committee]] · [[CVS Health - Aetna]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 57
 bills-cosponsored: 260
 bills-enacted: 1
-top-policy-area: "Health"
+top-policy-area: Health
 ---
 
 

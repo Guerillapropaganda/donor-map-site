@@ -1,33 +1,34 @@
 ---
-title: "Diana Harshbarger"
+title: Diana Harshbarger
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Tennessee"
-state-abbr: "TN"
+party: Republican
+chamber: House
+state: Tennessee
+state-abbr: TN
 district: "1"
-bioguide-id: "H001086"
+bioguide-id: H001086
 govtrack-id: 456844
 born: "1960-01-01"
-wikidata-id: "Q101197341"
-website: "https://harshbarger.house.gov"
-phone: "202-225-6356"
+wikidata-id: Q101197341
+website: https://harshbarger.house.gov
+phone: 202-225-6356
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H0TN01118"
+fec-candidate-id: H0TN01118
 bills-sponsored: 25
 bills-cosponsored: 333
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Lockheed Martin]], [[Gilead Sciences]], [[American Chemistry Council, INC]], [[WinRed]], [[National Rifle Association]], [[Chevron]], [[AIPAC - American Israel Public Affairs Committee]], [[Amgen Inc]], [[Johnson & Johnson]], [[National Victory Action Fund]], [[Pfizer Inc.]], [[VIEW PAC - Value in Electing Women]], [[Care Action]], [[American Hospital Association PAC]], [[Citigroup]], [[National Cattlemen's Beef Association]], [[General Motors]], [[American College of Radiology Association PAC]], [[National Association of Manufacturers]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Ben Cline]], [[Tenet Healthcare]], [[BAE Systems]], [[Performance Racing Inc.]], [[Walmart - Walton Family]], [[Republican Jewish Coalition]], [[Honeywell]], [[AT&T - WarnerMedia]], [[Comcast - NBCUniversal]], [[CoreCivic - Private Prisons]], [[Valero Energy]], [[National Association of Realtors]], [[Save America PAC]], [[AbbVie]], [[Ford Motor Company]], [[MAJORITY PAC]], [[Microsoft]], [[Jason Smith]], [[Duke Energy]], [[National Multifamily Housing Council]], [[Tzedek PAC]], [[Jim Jordan]]"
 ---
 
 

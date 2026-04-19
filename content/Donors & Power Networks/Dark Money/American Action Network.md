@@ -2,7 +2,7 @@
 title: American Action Network
 type: donor
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Dark Money
@@ -34,7 +34,7 @@ fara-status: registrant
 fara-records: 1
 related: "[[National Association of Manufacturers]] · [[Congressional Leadership Fund]] · [[Heritage Foundation]] · [[US Chamber of Commerce]] · [[Republican Party Apparatus]] · [[PhRMA]] · [[One Nation]] · [[ALEC - American Legislative Exchange Council]] · [[Business Roundtable]] · [[American Petroleum Institute]] · [[Insurance Industry]] · [[DeVos Family]] · [[National Education Association]] · [[Walton Family Foundation]] · [[American Federation for Children]] · [[Petrochemical Industry Bloc]] · [[Western States Petroleum Association]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[Defense Contractors]] · [[Defense Contractors Bloc]] · [[Judicial Crisis Network]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Federalist Society]] · [[Donors Capital Fund]] · [[Demand Justice]] · [[Council for National Policy]] · [[Conservative Partnership Institute]] · [[Legal Sector Donors]] · [[Ocean Conservancy]] · [[Ohio Democratic Party]] · [[New Venture Fund]] · [[National Progressive Donor Networks]] · [[Media Matters]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Entertainment and Hollywood Donors]] · [[Democratic Small Dollar Networks]] · [[Democratic Party Infrastructure]] · [[Democratic Donor Network]] · [[Democracy Alliance]] · [[Concerned Veterans for America]] · [[CREW - Citizens for Responsibility and Ethics in Washington]] · [[Bradley Impact Fund]] · [[Bradley Foundation]] · [[Arabella Advisors]] · [[Americans for Tax Reform - Grover Norquist]] · [[American Enterprise Institute]] · [[America First Policy Institute]]"
 total-political-spend: $176,798,895
-politicians-funded: "[[Gary Peters]]"
+politicians-funded: "[[Gary Peters]], [[Republican Jewish Coalition]], [[Senate Leadership Fund]], [[WinRed]]"
 cross-vault-triangulation-count: 12
 audit-a-plus-passed: "2026-04-11"
 checklist-na:
@@ -348,3 +348,50 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/270730508/2019)~~ (URL broken, archived by Ops)
 - ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:American%20Action%20Network)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:American%20Action%20Network)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 3 (2021–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $46.2M |
+| Total expenses | — |
+| Total assets (EOY) | $16.3M |
+| Grants paid out | $40.6M |
+
+**Lifetime grants out (2021–2023):** $90.4M across 23 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| Congressional Leadership Fund | $60.3M | 3 | 2021–2023 |
+| American Prosperity Alliance | $5.5M | 1 | 2023 |
+| Common Sense Leadership Fund | $4.1M | 3 | 2022–2023 |
+| Fair Lines America Inc | $3.6M | 3 | 2021–2023 |
+| Main Street Advocacy | $3.3M | 2 | 2022–2023 |
+| American Economic Freedom Alliance | $2.6M | 3 | 2021–2023 |
+| Republican Jewish Coalition | $2.4M | 2 | 2021–2023 |
+| Heritage Action for America | $2.2M | 3 | 2021–2023 |
+| America First Policies Inc | $1.0M | 1 | 2021 |
+| Coalition to Protect American Worke | $925K | 1 | 2022 |
+| Winning for Women Inc | $820K | 1 | 2023 |
+| American Action Forum | $800K | 3 | 2021–2023 |
+| CLA Inc | $525K | 1 | 2021 |
+| 45 Committee Inc | $500K | 1 | 2021 |
+| America Next Inc | $500K | 1 | 2022 |
+| American Policy Coalition | $500K | 1 | 2023 |
+| Center for Campaign Innovation | $150K | 3 | 2021–2023 |
+| Governing Majority Education Fund | $150K | 1 | 2023 |
+| AR2 | $100K | 1 | 2022 |
+| YRs Run Inc | $100K | 1 | 2023 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

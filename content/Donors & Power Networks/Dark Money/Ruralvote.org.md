@@ -6,11 +6,11 @@ sector: Dark Money
 entity-type: Super PAC
 committee-id: C00754754
 fec-url: https://www.fec.gov/data/committee/C00754754/
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-ie-support: $36,907
 fec-ie-oppose: $357
-politicians-funded: "[[Doug Burgum]], [[Sherrod Brown]]"
+politicians-funded: "[[Doug Burgum]], [[Sherrod Brown]], [[Ron Johnson]], [[Ron DeSantis]], [[Chris Christie]], [[Vivek Ramaswamy]], [[Nikki Haley]], [[Kamala Harris]]"
 related: "[[Sherrod Brown]] · [[Doug Burgum]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

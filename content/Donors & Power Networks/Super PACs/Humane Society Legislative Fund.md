@@ -5,14 +5,14 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C90009358
 aliases:
   - HUMANE SOCIETY LEGISLATIVE FUND
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
-politicians-funded: "[[Dianne Feinstein]]"
+politicians-funded: "[[Dianne Feinstein]], [[Josh Gottheimer]], [[Jahana Hayes]], [[Indivisible Action]], [[ActBlue]], [[Kim Schrier]], [[_Tammy Baldwin Master Profile]], [[John Fetterman]], [[Josh Harder]], [[Dina Titus]], [[Marcy Kaptur]], [[Nikki Budzinski]], [[Bob Casey]], [[Catherine Cortez Masto]], [[MoveOn.org Political Action]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Young Kim]], [[Sharice Davids]], [[Chrissy Houlahan]], [[Lauren Underwood]], [[Mike Levin]], [[Tammy Baldwin]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"

@@ -4,7 +4,7 @@ type: politician
 bioguide-id: B001236
 content-readiness: ready
 central-thesis: "John Boozman chairs the Senate Agriculture Committee while representing the state that houses Tyson Foods' headquarters. Tyson employees have donated over content-readiness: ready20,000 to his campaigns , his third-largest career donor source. His committee staff has m..."
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Republican
@@ -19,7 +19,7 @@ issues:
 stock-trades: 43
 total-received: $335,864
 fec-candidate-id: S0AR00150
-donors: "[[Walmart - Walton Family]] · [[Tyson Foods]] · [[PLANNED PARENTHOOD ACTION FUND INC]]"
+donors: "[[Walmart - Walton Family]] · [[Tyson Foods]] · [[PLANNED PARENTHOOD ACTION FUND INC]] · [[Crypto Innovation PAC]] · [[Microsoft]] · [[Amgen Inc]] · [[Citigroup]] · [[NRSC - National Republican Senatorial Committee]] · [[Coinbase]] · [[Bank of America]] · [[General Motors]] · [[American Chemistry Council, INC]] · [[Chevron]] · [[National Multifamily Housing Council]] · [[CoreCivic - Private Prisons]] · [[Ford Motor Company]] · [[Duke Energy]] · [[BAE Systems]] · [[American Hospital Association PAC]] · [[Lockheed Martin]] · [[Raytheon (RTX)]] · [[Heartland Resurgence]] · [[American Dream Federal Action]] · [[L3Harris Technologies]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[National Victory Action Fund]] · [[Common Sense for America PAC]] · [[National Restaurant Association]] · [[Associated General Contractors of America Political Action Committee]] · [[Republican Jewish Coalition]] · [[AT&T - WarnerMedia]] · [[American Gaming Association]] · [[Comcast - NBCUniversal]] · [[iHeartMedia]] · [[Google - Alphabet]] · [[Johnson & Johnson]] · [[ConocoPhillips]] · [[Honeywell]] · [[Northrop Grumman]] · [[American College of Radiology Association PAC]] · [[Marathon Petroleum]] · [[DoorDash]] · [[Morgan Stanley]] · [[Tenet Healthcare]] · [[Leidos]] · [[National Association of Realtors]] · [[National Rifle Association]] · [[WinRed]] · [[National Cattlemen's Beef Association]] · [[Nucor Corporation]] · [[National Wildlife Federation Action Fund]] · [[AbbVie]] · [[Save America PAC]] · [[Valero Energy]] · [[General Dynamics]] · [[Anthem - Elevance Health]] · [[McDonalds Corporation]] · [[Pfizer Inc.]] · [[NextEra Energy]] · [[AIPAC - American Israel Public Affairs Committee]]"
 related: "[[Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides]] · [[_Glenn Thompson Master Profile|Glenn Thompson]] · [[_Donald Trump Master Profile|Trump]]"
 needs-reenrichment: true
 reenrich-reason: run congress pipeline; run pipelines
@@ -28,7 +28,7 @@ urls-first-triaged: "2026-04-15"
 bills-sponsored: 20
 bills-cosponsored: 351
 bills-enacted: 1
-top-policy-area: "Armed Forces and National Security"
+top-policy-area: Armed Forces and National Security
 ---
 
 

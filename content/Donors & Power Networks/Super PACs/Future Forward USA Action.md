@@ -202,3 +202,50 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/824170762/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/824170762/2020)~~ (URL broken, archived by Ops)
 - ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/824170762/2018)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $613.2M |
+| Total expenses | — |
+| Total assets (EOY) | $26.7M |
+| Grants paid out | $469.3M |
+
+**Lifetime grants out (2018–2024):** $502.0M across 111 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| FF PAC | $274.8M | 4 | 2021–2024 |
+| AMERICA VOTES | $34.2M | 1 | 2024 |
+| SIXTEEN THIRTY FUNDSPA | $29.2M | 2 | 2024 |
+| AMERICA VOTES EDUCATION FUND | $19.3M | 1 | 2024 |
+| NATIONAL PHILANTHROPIC TRUST | $16.8M | 1 | 2024 |
+| WORKING AMERICA EDUCATION FUND | $15.3M | 1 | 2024 |
+| COURIER NEWSROOM INC | $13.6M | 1 | 2024 |
+| RAPID RESIST ACTION | $9.4M | 1 | 2024 |
+| WORKMONEY INC | $5.8M | 1 | 2024 |
+| ORGANIZING EMPOWERMENT PROJECT | $5.0M | 1 | 2024 |
+| WORKING AMERICA ACTION | $5.0M | 1 | 2024 |
+| COUNTERACT FUND | $4.8M | 1 | 2024 |
+| Way to Win Action Fund | $4.4M | 3 | 2022–2024 |
+| Vote Rev Action Fund | $3.6M | 2 | 2022–2024 |
+| TURNOUT ACTION FUND | $3.4M | 1 | 2024 |
+| VOTO LATINO | $3.0M | 1 | 2024 |
+| The Act Now Project | $2.6M | 2 | 2023–2024 |
+| BLACK PROGRESSIVE ACTION COALITION | $2.5M | 1 | 2024 |
+| PLANNED PARENTHOOD ACTION FUND | $2.3M | 1 | 2024 |
+| Building Back Together | $2.3M | 1 | 2021 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

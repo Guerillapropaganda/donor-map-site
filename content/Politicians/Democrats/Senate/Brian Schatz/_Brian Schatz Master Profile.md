@@ -3,7 +3,7 @@ title: Brian Schatz
 type: politician
 content-readiness: ready
 central-thesis: Schatz is the Democratic Party's next power broker , Schumer's chosen successor , building his leadership bid by signaling reliability to the donor class while maintaining a progressive public brand. His committee portfolio gives him jurisdiction ...
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Democrat
@@ -41,10 +41,10 @@ issues:
   - Native Americans
   - Science, Technology, Communications
   - Taxation
-donors: "[[MoveOn.org Political Action]], [[Real Estate Industry]], [[Working Families for Hawaii]], [[League of Conservation Voters]], [[MOVEON.ORG POLITICAL ACTION]], [[Climate Hawks Vote]], [[INTERNATIONAL LONGSHORE AND WAREHOUSE UNION -- POLITICAL ACTION FUND]], [[CLIMATE HAWKS VOTE]], [[International Longshore and Warehouse Union -- Political Action Fund]]"
+donors: "[[MoveOn.org Political Action]], [[Real Estate Industry]], [[Working Families for Hawaii]], [[League of Conservation Voters]], [[MOVEON.ORG POLITICAL ACTION]], [[Climate Hawks Vote]], [[INTERNATIONAL LONGSHORE AND WAREHOUSE UNION -- POLITICAL ACTION FUND]], [[CLIMATE HAWKS VOTE]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Honeywell]], [[Everytown for Gun Safety]], [[NextEra Energy]], [[J Street]], [[Walmart - Walton Family]], [[SEIU COPE]], [[Raytheon (RTX)]], [[Leidos]], [[Unite Here Tip Campaign Committee]], [[Lockheed Martin]], [[NEA Fund for Children and Public Education]], [[BAE Systems]], [[AT&T - WarnerMedia]], [[National Multifamily Housing Council]], [[Airbnb]], [[National Restaurant Association]], [[Comcast - NBCUniversal]], [[Duke Energy]], [[Sierra Club Political Committee]], [[Northrop Grumman]], [[Microsoft]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[L3Harris Technologies]], [[IBEW - International Brotherhood of Electrical Workers]], [[iHeartMedia]], [[General Motors]], [[Citigroup]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Teamsters - International Brotherhood of Teamsters]], [[Sierra Club Independent Action]], [[American Hospital Association PAC]], [[PG&E - Pacific Gas and Electric]], [[Giffords PAC]], [[National Association of Realtors]], [[General Dynamics]], [[National Committee to Preserve Social Security PAC]], [[Google - Alphabet]], [[Anthem - Elevance Health]]"
 bills-enacted: 1
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "Health"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: Health
 ---
 
 

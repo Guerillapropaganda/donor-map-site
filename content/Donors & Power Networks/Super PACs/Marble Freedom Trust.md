@@ -160,3 +160,35 @@ The contradiction is explicit: the organization claims to defend constitutional 
 Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
 
 - ~~[ProPublica: Marble Freedom Trust tax filings](https://projects.propublica.org/nonprofits/organizations/854970843)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 4 (2021–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $27.9M |
+| Total expenses | — |
+| Total assets (EOY) | $992.1M |
+| Grants paid out | $189.2M |
+
+**Lifetime grants out (2021–2024):** $817.3M across 5 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| Schwab Charitable Fund | $447.6M | 4 | 2021–2024 |
+| The Concord Fund | $161.3M | 4 | 2021–2024 |
+| Rule of Law Trust | $153.0M | 1 | 2021 |
+| Donors Trust Inc | $41.1M | 1 | 2021 |
+| Knights of Columbus Charitable Fund | $14.3M | 2 | 2023–2024 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

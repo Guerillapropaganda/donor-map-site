@@ -1,18 +1,19 @@
 ---
-title: "Hilda Solis"
+title: Hilda Solis
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "Secretary of Labor (2009-2013)"
+party: Democrat
+chamber: Secretary of Labor (2009-2013)
 known-gaps:
-  - "No mapped relationships"
-  - "No donor network analysis"
+  - No mapped relationships
+  - No donor network analysis
 source-types:
   - Congress
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H6CA38139"
+fec-candidate-id: H6CA38139
+top-donors: "[[IBEW - International Brotherhood of Electrical Workers]], [[UnitedHealth Group - Optum]], [[Verizon]], [[Kaiser Permanente]], [[Pfizer Inc.]], [[CBRE Group]]"
 ---
 
 

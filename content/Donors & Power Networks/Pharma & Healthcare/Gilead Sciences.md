@@ -1,88 +1,88 @@
 ---
-title: "Gilead Sciences"
+title: Gilead Sciences
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Pharma & Healthcare"
-entity-type: "Corporation"
+sector: Pharma & Healthcare
+entity-type: Corporation
 issues:
-  - "Healthcare"
+  - Healthcare
 lobbying-spend: 19612000
 lobbying-filings: 55
 court-cases: 2108
 last-enriched: "2026-04-10"
 court-jurisdictions:
-  - "Court of Appeals for the Fourth Circuit"
-  - "Court of Appeals for the Third Circuit"
-  - "District Court, D. Delaware"
-  - "District Court, D. New Jersey"
-  - "District Court, D. Rhode Island"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. Pennsylvania"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Florida"
-  - "District Court, N.D. Illinois"
+  - Court of Appeals for the Fourth Circuit
+  - Court of Appeals for the Third Circuit
+  - District Court, D. Delaware
+  - District Court, D. New Jersey
+  - District Court, D. Rhode Island
+  - District Court, District of Columbia
+  - District Court, E.D. Pennsylvania
+  - District Court, N.D. California
+  - District Court, N.D. Florida
+  - District Court, N.D. Illinois
 ein: "201042419"
-annual-revenue: "$5.0M"
-net-assets: "$162.5M"
+annual-revenue: $5.0M
+net-assets: $162.5M
 tax-year: "2023"
-top-federal-agency: "Department of Veterans Affairs"
+top-federal-agency: Department of Veterans Affairs
 top-naics-code: "325412"
-lei: "549300WTZWR07K8MNV44"
-lei-jurisdiction: "US-DE"
+lei: 549300WTZWR07K8MNV44
+lei-jurisdiction: US-DE
 sec-filings: 10000
 sec-form-types:
-  - "10-K/A"
+  - 10-K/A
   - "144"
   - "4"
-  - "424B2"
-  - "8-K"
-  - "8-K/A"
-  - "ARS"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "EX-10.7"
-  - "EX-10.8"
-  - "EX-21.1"
-  - "EX-3.1"
-  - "EX-99.(A)(11)"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "FWP"
-  - "INFORMATION TABLE"
-  - "N-PX"
-  - "SC 13D"
-  - "SC 13D/A"
-  - "SC 13G"
-  - "SC 13G/A"
-  - "SC TO-C"
-  - "SC TO-T"
-  - "SC TO-T/A"
-  - "SC14D9C"
-  - "SCHEDULE 13D/A"
-  - "SCHEDULE 13G/A"
+  - 424B2
+  - 8-K
+  - 8-K/A
+  - ARS
+  - DEF 14A
+  - DEFA14A
+  - EX-10.7
+  - EX-10.8
+  - EX-21.1
+  - EX-3.1
+  - EX-99.(A)(11)
+  - EX-99.1
+  - EX-99.2
+  - FWP
+  - INFORMATION TABLE
+  - N-PX
+  - SC 13D
+  - SC 13D/A
+  - SC 13G
+  - SC 13G/A
+  - SC TO-C
+  - SC TO-T
+  - SC TO-T/A
+  - SC14D9C
+  - SCHEDULE 13D/A
+  - SCHEDULE 13G/A
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 related: "[[Novo Nordisk]] · [[AbbVie]] · [[Merck]] · [[Pfizer]] · [[PhRMA]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Moderna]] · [[Johnson & Johnson]] · [[Eli Lilly]] · [[Centene Corporation]] · [[Palantir Technologies]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[UnitedHealth Group - Optum]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[Humana]] · [[Hospital Corporation of America - HCA]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]] · [[Civica Rx]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Blue Cross Blue Shield Association]] · [[Anthem - Elevance Health Political Operation]] · [[Uber]] · [[Lyft]] · [[Instacart]] · [[Flex Association]] · [[DoorDash]] · [[Airbnb]] · [[WSPA - Western States Petroleum Association]] · [[Valero Energy]] · [[Southern Company]] · [[PG&E]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[NextEra Energy]] · [[Marathon Petroleum]] · [[Koch Industries]] · [[Hawaiian Electric Company]] · [[Halliburton]] · [[Fossil Fuel Bloc]] · [[ExxonMobil]] · [[Duke Energy]] · [[Devon Energy]]"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 total-revenue: 111952387
 total-assets: 161936520
 federal-register-mentions: 72
 regulatory-agencies:
-  - "Antitrust Division"
-  - "Centers for Medicare & Medicaid Services"
-  - "Commerce Department"
-  - "Food and Drug Administration"
-  - "Health and Human Services Department"
-  - "Justice Department"
-  - "National Institutes of Health"
-  - "Patent and Trademark Office"
+  - Antitrust Division
+  - Centers for Medicare & Medicaid Services
+  - Commerce Department
+  - Food and Drug Administration
+  - Health and Human Services Department
+  - Justice Department
+  - National Institutes of Health
+  - Patent and Trademark Office
 cross-vault-triangulation-count: 8
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 22
-epa-states: "CA, NC, NJ, WA"
+epa-states: CA, NC, NJ, WA
 federal-contracts: 13
 federal-awards-total: -9142692
 total-raised: 472492
@@ -93,6 +93,7 @@ contributions-to-committees: 399500
 employee-contributions: 15343
 employee-contributions-total: 2265505
 employee-donor-count: 1764
+politicians-funded: "[[Henry Cuellar]], [[ActBlue]], [[_Kamala Harris Master Profile]], [[Diana Harshbarger]], [[Gilead Sciences]], [[_Adam Gray Master Profile]], [[Markwayne Mullin]], [[DCCC - Democratic Congressional Campaign Committee]], [[Gregory Meeks]], [[Hmp]], [[Jimmy Panetta]], [[Marianne Williamson]], [[Brittany Pettersen]], [[Richard Hudson]], [[Trump Victory]], [[Marsha Blackburn]], [[Adriano Espaillat]], [[CHC BOLD PAC]], [[Bob Casey]], [[Mike Quigley]], [[Lloyd Smucker]], [[Mariannette Miller-Meeks]], [[Jodey Arrington]], [[_Chris Pappas Master Profile]], [[_Marco Rubio Master Profile]], [[_Lisa Blunt Rochester Master Profile]], [[EQUALITY PROJECT PAC]], [[Raul Ruiz]], [[Debbie Wasserman Schultz]], [[Tim Sheehy]], [[_Gabe Vasquez Master Profile]], [[Jacky Rosen]], [[Nicole Malliotakis]], [[John Hoeven]], [[Mark Kelly]], [[Darren Soto]], [[Julie Johnson]], [[Tim Walberg]], [[Claudia Tenney]], [[_Jon Ossoff Master Profile]], [[Darin Lahood]], [[Emily's List]], [[James Comer]], [[Roger Marshall]], [[Ron Estes]], [[Lisa Murkowski]], [[Adam Gray]], [[Cathy McMorris Rodgers]], [[Human Rights Campaign Equality Votes]], [[Barbara Lee]], [[_Jimmy Gomez Master Profile]], [[Steven Horsford]], [[Brett Guthrie]], [[Steve Daines]], [[Cindy Hyde-Smith]], [[Brian Jack]], [[Eric Schmitt]], [[MoveOn.org Political Action]], [[John Joyce]], [[George Whitesides]], [[Kyrsten Sinema]], [[Brad Knott]], [[Rudy Yakym]], [[_Kevin Mullin Master Profile]], [[_Christian D. Menefee Master Profile]], [[WinRed]], [[Todd Young]], [[Joni Ernst]], [[Jay Obernolte]], [[_Emily Randall Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[Kim Schrier]], [[Kevin Mullin]], [[Thom Tillis]], [[RNC - Republican National Committee]], [[Catherine Cortez Masto]], [[Joe Manchin]], [[Lateefah Simon]], [[Lois Frankel]], [[Ted Lieu]], [[NRCC - National Republican Congressional Committee]], [[Virginia Foxx]], [[_Bill Foster Master Profile]], [[_George Whitesides Master Profile]], [[Steve Scalise]], [[Brendan Boyle]], [[Madeleine Dean]], [[Pete Aguilar]], [[Josh Gottheimer]], [[David Schweikert]], [[Lori Trahan]], [[The Lincoln Project]], [[David Kustoff]], [[Chris Coons]], [[Shelley Moore Capito]], [[Katie Britt]], [[Nathaniel Moran]], [[John Thune]], [[Tom Cole]], [[Adrian Smith]], [[Mario Diaz-Balart]], [[_Josh Riley Master Profile]], [[Richard Neal]], [[314 ACTION FUND]], [[Diana Degette]], [[Mark Warner]], [[MAGA Inc]], [[Robert Garcia]], [[DSCC - Democratic Senatorial Campaign Committee]], [[August Pfluger]], [[Jon Husted]], [[Judy Chu]], [[Guy Reschenthaler]], [[Patty Murray]], [[Erin Houchin]], [[Sydney Kamlager-Dove]], [[Maria Cantwell]], [[James Lankford]], [[John Barrasso]], [[Vince Fong]], [[Joseph Morelle]], [[Progressive Turnout Project]], [[Susan Collins]], [[_Melissa Bean Master Profile]], [[Grace Meng]], [[Jason Smith]], [[Giffords PAC]], [[John Cornyn]], [[Eric Swalwell]], [[Shomari Figures]], [[Tim Scott]], [[_Bonnie Watson Coleman Master Profile]], [[Jerry Moran]], [[Nancy Mace]], [[Donald Norcross]], [[_Pete Aguilar Master Profile]], [[_Elissa Slotkin Master Profile]], [[Kevin McCarthy]], [[Mike Carey]], [[WinSenate]], [[Jake Auchincloss]], [[Lisa Blunt Rochester]], [[_Yassamin Ansari Master Profile]], [[Troy Balderson]], [[Sierra Club Political Committee]], [[Roger Wicker]], [[_Susie Lee Master Profile]], [[_Jake Auchincloss Master Profile]], [[Sarah McBride]], [[_Tim Scott Master Profile]], [[Ashley Moody]], [[Aaron Bean]], [[Mitch McConnell]], [[_Nancy Pelosi Master Profile]], [[_Tammy Baldwin Master Profile]], [[Mike Thompson]], [[Nancy Pelosi]], [[Melissa Bean]], [[Kamala Harris]], [[Bonnie Watson Coleman]], [[Tammy Baldwin]], [[Jon Ossoff]], [[Gabe Vasquez]], [[Jimmy Gomez]], [[Chris Pappas]], [[Susie Lee]], [[Yassamin Ansari]], [[Christian D. Menefee]], [[Elissa Slotkin]], [[Josh Riley]], [[Emily Randall]], [[Bill Foster]], [[Marco Rubio]]"
 ---
 
 
@@ -386,3 +387,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/201042419/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/201042419/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/201042419/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 5 (2019–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | $162.5M |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

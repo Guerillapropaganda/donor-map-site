@@ -1,33 +1,34 @@
 ---
-title: "Betty McCollum"
+title: Betty McCollum
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Minnesota"
-state-abbr: "MN"
+party: Democrat
+chamber: House
+state: Minnesota
+state-abbr: MN
 district: "4"
-bioguide-id: "M001143"
+bioguide-id: M001143
 govtrack-id: 400259
 born: "1954-07-12"
-wikidata-id: "Q434893"
-website: "https://mccollum.house.gov"
-phone: "202-225-6631"
+wikidata-id: Q434893
+website: https://mccollum.house.gov
+phone: 202-225-6631
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H0MN04049"
+fec-candidate-id: H0MN04049
 bills-sponsored: 10
 bills-cosponsored: 496
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[National Association of Realtors]], [[Google - Alphabet]], [[Planned Parenthood of Minnesota Political Action Fund]], [[L3Harris Technologies]], [[General Dynamics]], [[Raytheon (RTX)]], [[American Hospital Association PAC]], [[Teamsters - International Brotherhood of Teamsters]], [[SEIU COPE]], [[ENVIRONMENT AMERICA INC]], [[J Street]], [[Leidos]], [[League of Conservation Voters]], [[General Motors]], [[Amgen Inc]], [[National Nurses United]], [[IBEW - International Brotherhood of Electrical Workers]], [[Honeywell]], [[Ted Lieu]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[DCCC - Democratic Congressional Campaign Committee]], [[NEA Fund for Children and Public Education]], [[National Multifamily Housing Council]], [[Lockheed Martin]], [[Northrop Grumman]], [[BAE Systems]], [[Planned Parenthood Votes]], [[Sierra Club Independent Action]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Microsoft]], [[PG&E - Pacific Gas and Electric]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[Medicare for All - The Policy That Broke the Party]], [[Progressive Turnout Project]], [[American College of Radiology Association PAC]], [[NextEra Energy]], [[AFSCME Working Families Fund]]"
 ---
 
 

@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Wall Street
 entity-type: Corporation
-politicians-funded: "[[Donald Trump]], [[Jared Kushner]]"
+politicians-funded: "[[Donald Trump]], [[Jared Kushner]], [[MAGA Inc]], [[Trump Victory]], [[WinRed]]"
 issues:
   - Housing
 related: "[[Housing - Donors and Backers]] · [[_Donald Trump Master Profile|Trump]] · [[_Jared Kushner Master Profile|Kushner]] · [[Trump Donor Coalition]] · [[Trump Media & Technology Group]]"

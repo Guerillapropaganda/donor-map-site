@@ -1,33 +1,34 @@
 ---
-title: "Scott Franklin"
+title: Scott Franklin
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Florida"
-state-abbr: "FL"
+party: Republican
+chamber: House
+state: Florida
+state-abbr: FL
 district: "18"
-bioguide-id: "F000472"
+bioguide-id: F000472
 govtrack-id: 456807
 born: "1964-08-23"
-wikidata-id: "Q101198561"
-website: "https://franklin.house.gov"
-phone: "202-225-1252"
+wikidata-id: Q101198561
+website: https://franklin.house.gov
+phone: 202-225-1252
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H0FL15104"
+fec-candidate-id: H0FL15104
 bills-sponsored: 22
 bills-cosponsored: 287
 bills-enacted: 0
-top-policy-area: "International Affairs"
+top-policy-area: International Affairs
+top-donors: "[[WinRed]], [[Lockheed Martin]], [[Honeywell]], [[General Dynamics]], [[Walmart - Walton Family]], [[Raytheon (RTX)]], [[Northrop Grumman]], [[Comcast - NBCUniversal]], [[Leidos]], [[BAE Systems]], [[Chevron]], [[AT&T - WarnerMedia]], [[National Association of Realtors]], [[Marathon Petroleum]], [[NextEra Energy]], [[National Cattlemen's Beef Association]], [[National Rifle Association]], [[Nucor Corporation]], [[Associated General Contractors of America Political Action Committee]], [[MAJORITY PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[L3Harris Technologies]], [[Duke Energy]], [[Jason Smith]], [[American Chemistry Council, INC]], [[Americans for Prosperity]], [[McDonalds Corporation]], [[Cigna Group]], [[Ballard Partners]], [[Anduril Industries]], [[Amazon]], [[Morgan Stanley]], [[Fanjul Family - Florida Crystals]], [[Southern Company]]"
 ---
 
 

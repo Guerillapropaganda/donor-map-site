@@ -1,21 +1,22 @@
 ---
-title: "American Homes 4 Rent"
+title: American Homes 4 Rent
 type: corporation
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 3
-sector: "Real Estate"
-entity-type: "corporation"
+sector: Real Estate
+entity-type: corporation
 known-gaps:
-  - "No FEC contribution data"
-  - "No lobbying data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No lobbying data
+  - No mapped relationships
 source-types: []
 related: "[[National Rental Home Council]] · [[Invitation Homes - Institutional Landlords]]"
 urls-first-triaged: "2026-04-15"
 employee-contributions: 39
 employee-contributions-total: 30545
 employee-donor-count: 16
+politicians-funded: "[[National Rental Home Council]], [[ActBlue]], [[NRSC - National Republican Senatorial Committee]], [[WinRed]], [[_Tim Scott Master Profile]], [[Tim Scott]]"
 ---
 
 

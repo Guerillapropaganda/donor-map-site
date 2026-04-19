@@ -1,34 +1,34 @@
 ---
-title: "Glenn Ivey"
+title: Glenn Ivey
 type: politician
 content-readiness: raw
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Maryland"
-state-abbr: "MD"
+party: Democrat
+chamber: House
+state: Maryland
+state-abbr: MD
 district: "4"
-bioguide-id: "I000058"
+bioguide-id: I000058
 govtrack-id: 456905
 born: "1961-02-27"
-wikidata-id: "Q22004572"
-website: "https://ivey.house.gov"
-phone: "202-225-8699"
+wikidata-id: Q22004572
+website: https://ivey.house.gov
+phone: 202-225-8699
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
-donors: "[[DMFI - Democratic Majority for Israel]]"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
+donors: "[[DMFI - Democratic Majority for Israel]], [[American Federation of State County & Municipal Employees P E O P L E]], [[National Association of Realtors]], [[IBEW - International Brotherhood of Electrical Workers]], [[Lockheed Martin]], [[Wells Fargo]], [[CBRE Group]], [[UnitedHealth Group - Optum]], [[Comcast - NBCUniversal]], [[Bank of America]], [[Microsoft]], [[BlackRock]], [[AIPAC - American Israel Public Affairs Committee]], [[Citigroup]], [[Verizon]], [[McDonalds Corporation]]"
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H2MD04232"
+fec-candidate-id: H2MD04232
 bills-sponsored: 8
 bills-cosponsored: 386
 bills-enacted: 0
-top-policy-area: "Crime and Law Enforcement"
+top-policy-area: Crime and Law Enforcement
 ---
 
 

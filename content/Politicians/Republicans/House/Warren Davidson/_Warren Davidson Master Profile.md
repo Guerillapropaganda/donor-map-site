@@ -1,33 +1,34 @@
 ---
-title: "Warren Davidson"
+title: Warren Davidson
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Ohio"
-state-abbr: "OH"
+party: Republican
+chamber: House
+state: Ohio
+state-abbr: OH
 district: "8"
-bioguide-id: "D000626"
+bioguide-id: D000626
 govtrack-id: 412675
 born: "1970-03-01"
-wikidata-id: "Q24458117"
-website: "https://davidson.house.gov"
-phone: "202-225-6205"
+wikidata-id: Q24458117
+website: https://davidson.house.gov
+phone: 202-225-6205
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H6OH08315"
+fec-candidate-id: H6OH08315
 bills-sponsored: 39
 bills-cosponsored: 181
 bills-enacted: 0
-top-policy-area: "Finance and Financial Sector"
+top-policy-area: Finance and Financial Sector
+top-donors: "[[Coinbase]], [[National Right to Life Victory Fund]], [[Jim Jordan]], [[Morgan Stanley]], [[National Association of Realtors]], [[National Rifle Association]], [[National Rental Home Council]], [[AT&T - WarnerMedia]], [[Citigroup]], [[JPAC - Jewish Public Affairs Committee of California]], [[WinRed]], [[Duke Energy]], [[Save America PAC]], [[General Dynamics]], [[MAJORITY PAC]], [[Chevron]], [[Bank of America]], [[National Multifamily Housing Council]]"
 ---
 
 

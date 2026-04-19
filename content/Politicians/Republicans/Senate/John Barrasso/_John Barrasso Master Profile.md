@@ -3,7 +3,7 @@ title: John Barrasso
 type: politician
 content-readiness: ready
 central-thesis: Barrasso's donor-class function is to serve as the fossil fuel industry's highest-ranking champion in the Senate leadership. From the Environment and Public Works Committee to Energy and Natural Resources to the Majority Whip position, his career ...
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Republican
@@ -21,13 +21,13 @@ bills-cosponsored: 338
 website: https://www.barrasso.senate.gov
 phone: 202-224-6441
 stock-trades: 1
-donors: "[[Marathon Petroleum]] · [[ExxonMobil]] · [[Raytheon (RTX Corporation)]] · [[American Petroleum Institute]] · [[Clearpath Action Fund, Inc.]] · [[High Plains Pac]] · [[NATIONAL VICTORY ACTION FUND]] · [[POLITICAL ACTION COMMITTEE OF THE AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS]] · [[AMERICAN CHEMISTRY COUNCIL, INC]] · [[American Chemistry Council, INC]] · [[National Victory Action Fund]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]]"
+donors: "[[Marathon Petroleum]] · [[ExxonMobil]] · [[Raytheon (RTX Corporation)]] · [[American Petroleum Institute]] · [[Clearpath Action Fund, Inc.]] · [[High Plains Pac]] · [[NATIONAL VICTORY ACTION FUND]] · [[POLITICAL ACTION COMMITTEE OF THE AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS]] · [[AMERICAN CHEMISTRY COUNCIL, INC]] · [[American Chemistry Council, INC]] · [[National Victory Action Fund]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[Hunter Action Fund (haf)]] · [[Drummond Co.]] · [[Google - Alphabet]] · [[American Hospital Association PAC]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Tenet Healthcare]] · [[Microsoft]] · [[Citigroup]] · [[Chevron]] · [[McDonalds Corporation]] · [[Devon Energy]] · [[WinRed]] · [[Common Sense for America PAC]] · [[Raytheon (RTX)]] · [[Associated General Contractors of America Political Action Committee]] · [[PG&E - Pacific Gas and Electric]] · [[National Restaurant Association]] · [[Walmart - Walton Family]] · [[Occidental Petroleum]] · [[National Association of Manufacturers]] · [[National Rifle Association]] · [[Humana]] · [[Bank of America]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Alliance Coal, LLC PAC]] · [[NextEra Energy]] · [[Duke Energy]] · [[Johnson & Johnson]] · [[AT&T - WarnerMedia]] · [[General Motors]] · [[Anthem - Elevance Health]] · [[National Cattlemen's Beef Association]] · [[BAE Systems]] · [[ConocoPhillips]] · [[Northrop Grumman]] · [[Morgan Stanley]] · [[Performance Racing Inc.]] · [[National Multifamily Housing Council]] · [[Amgen Inc]] · [[General Dynamics]] · [[Lockheed Martin]] · [[Leidos]] · [[Pfizer Inc.]] · [[DoorDash]] · [[Gilead Sciences]] · [[Ford Motor Company]] · [[Valero Energy]] · [[American College of Radiology Association PAC]] · [[AbbVie]] · [[CVS Health - Aetna]] · [[Tyson Foods]] · [[Comcast - NBCUniversal]] · [[Honeywell]] · [[Care Action]] · [[National Association of Realtors]] · [[Halliburton]]"
 related: "[[Koch Network - Charles Koch|Koch Network]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Mike Lee Master Profile|Mike Lee]] · [[WSPA - Western States Petroleum Association|WSPA]] · [[Halliburton]] · [[Honeywell]]"
 needs-reenrichment: true
 reenrich-reason: run congress pipeline; run pipelines
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 bills-enacted: 1
-top-policy-area: "International Affairs"
+top-policy-area: International Affairs
 ---
 
 

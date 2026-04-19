@@ -2,7 +2,7 @@
 title: Moderna
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Pharma & Healthcare
@@ -67,9 +67,9 @@ sec-form-types:
   - SCHEDULE 13G/A
 cross-vault-triangulation-count: 12
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-politicians-funded: "[[Joe Biden]]"
+politicians-funded: "[[Joe Biden]], [[ActBlue]], [[_Jon Ossoff Master Profile]], [[DNC - Democratic National Committee]], [[Emily's List]], [[WinSenate]], [[DSCC - Democratic Senatorial Campaign Committee]], [[MAGA Inc]], [[WinRed]], [[Mark Kelly]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Jake Auchincloss Master Profile]], [[Catherine Cortez Masto]], [[Bob Casey]], [[The Lincoln Project]], [[Jon Ossoff]], [[Jake Auchincloss]]"
 epa-facilities: 7
-epa-states: "FL, MA"
+epa-states: FL, MA
 employee-contributions: 392
 employee-contributions-total: 114676
 employee-donor-count: 117
@@ -330,3 +330,23 @@ Patent protection for mRNA technology platform, favorable vaccine pricing (oppos
 
 - [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
 <!-- auto:fec-individual end -->
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 2 (2021–2022)
+
+**Most recent filing (2022):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $50.0M |
+| Total expenses | — |
+| Total assets (EOY) | $42.9M |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

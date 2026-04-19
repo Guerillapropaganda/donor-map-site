@@ -1,40 +1,38 @@
 ---
-title: "Gun Owners of America"
+title: Gun Owners of America
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Dark Money"
-entity-type: "Individual Donor"
+sector: Dark Money
+entity-type: Individual Donor
 issues:
-  - "Dark Money & Campaign Finance"
+  - Dark Money & Campaign Finance
 federal-register-mentions: 4
 last-enriched: "2026-04-11"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 regulatory-agencies:
-  - "Alcohol, Tobacco, Firearms, and Explosives Bureau"
-  - "Interior Department"
-  - "Justice Department"
-  - "Treasury Department"
+  - Alcohol, Tobacco, Firearms, and Explosives Bureau
+  - Interior Department
+  - Justice Department
+  - Treasury Department
 ein: 521256643
-nonprofit-status: "501(c)(4)"
+nonprofit-status: 501(c)(4)
 total-revenue: 7676175
 total-assets: 2172940
 related: "[[Guns - Donors and Backers]] · [[National Rifle Association]]"
 lobbying-spend: 11561787
 lobbying-filings: 68
 cross-vault-triangulation-count: 2
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-annual-revenue: "$9.6M"
-net-assets: "$6.9M"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+annual-revenue: $9.6M
+net-assets: $6.9M
 tax-year: "2023"
-wikidata-id: "Q1771871"
-wikipedia-url: "https://en.wikipedia.org/wiki/Gun_Owners_of_America"
-wikipedia-extract: "Gun Owners of America (GOA) is a gun rights organization in the United States. It makes efforts to differentiate itself from the larger National Rifle Association (NRA) and has publicly criticized the..."
+wikidata-id: Q1771871
+wikipedia-url: https://en.wikipedia.org/wiki/Gun_Owners_of_America
+wikipedia-extract: Gun Owners of America (GOA) is a gun rights organization in the United States. It makes efforts to differentiate itself from the larger National Rifle Association (NRA) and has publicly criticized the...
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -46,6 +44,7 @@ contributions-to-committees: 1500
 employee-contributions: 5
 employee-contributions-total: 385
 employee-donor-count: 3
+politicians-funded: "[[Eric Schmitt]], [[Lauren Boebert]], [[Michael Cloud]], [[Scott Perry]], [[Anna Paulina Luna]], [[Mike Lee]], [[Ted Cruz]], [[Tim Sheehy]], [[Cory Mills]], [[WinRed]], [[Chip Roy]]"
 ---
 
 
@@ -334,3 +333,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/521256643/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/521256643/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/521256643/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $7.2M |
+| Total expenses | — |
+| Total assets (EOY) | $2.2M |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

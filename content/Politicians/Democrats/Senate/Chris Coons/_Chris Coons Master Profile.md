@@ -3,7 +3,7 @@ title: Chris Coons
 type: politician
 content-readiness: ready
 central-thesis: Coons is Big Pharma's man in the Senate , Jacobin's phrase, but the evidence is structural. Delaware is home to DuPont, AstraZeneca, and the corporate incorporation industry that shelters more than 1.8 million business entities. Coons's committee ...
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Democrat
@@ -24,9 +24,9 @@ issues:
 top-donors: "[[AMERICAN WORKER INC, THE]] · [[First Amendment Alliance]] · [[The National Republican Trust PAC]] · [[Let Freedom Ring INC]] · [[American Worker Inc, the]]"
 stock-trades: 24
 stock-trade-tickers:
-  - "NFLX"
-  - "AAPL"
-  - "MSFT"
+  - NFLX
+  - AAPL
+  - MSFT
 total-received: $5,285,973
 fec-candidate-id: S0DE00092
 bioguide-id: C001088
@@ -50,13 +50,13 @@ committees:
 internal-notes: |-
   [MANUAL 2026-04-11] Bioguide recovered: C001088. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
   [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided.
-donors: "[[The National Republican Trust PAC]] · [[First Amendment Alliance]] · [[AMERICAN WORKER INC, THE]] · [[Let Freedom Ring INC]] · [[American Worker Inc, the]]"
+donors: "[[The National Republican Trust PAC]] · [[First Amendment Alliance]] · [[AMERICAN WORKER INC, THE]] · [[Let Freedom Ring INC]] · [[American Worker Inc, the]] · [[American Hospital Association PAC]] · [[National Association of Realtors]] · [[Chevron]] · [[Humana]] · [[L3Harris Technologies]] · [[Mark Kelly]] · [[Planned Parenthood Votes]] · [[iHeartMedia]] · [[AT&T - WarnerMedia]] · [[Anthem - Elevance Health]] · [[Nucor Corporation]] · [[General Motors]] · [[AbbVie]] · [[Amgen Inc]] · [[American Chemistry Council, INC]] · [[PG&E - Pacific Gas and Electric]] · [[Leidos]] · [[NEA Fund for Children and Public Education]] · [[Johnson & Johnson]] · [[Comcast - NBCUniversal]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Northrop Grumman]] · [[Pfizer Inc.]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Lockheed Martin]] · [[Raytheon (RTX)]] · [[Gilead Sciences]] · [[NextEra Energy]] · [[Associated General Contractors of America Political Action Committee]] · [[BAE Systems]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[General Dynamics]] · [[Walmart - Walton Family]] · [[Honeywell]] · [[National Multifamily Housing Council]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[Bank of America]] · [[League of Conservation Voters]] · [[Citigroup]] · [[Sinclair Broadcast Group]] · [[Google - Alphabet]] · [[National Restaurant Association]] · [[Coinbase]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 763
 bills-cosponsored: 4041
 bills-enacted: 1
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "International Affairs"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: International Affairs
 ---
 
 

@@ -1,33 +1,34 @@
 ---
-title: "Jay Obernolte"
+title: Jay Obernolte
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "California"
-state-abbr: "CA"
+party: Republican
+chamber: House
+state: California
+state-abbr: CA
 district: "23"
-bioguide-id: "O000019"
+bioguide-id: O000019
 govtrack-id: 456801
 born: "1970-08-18"
-wikidata-id: "Q16849797"
-website: "https://obernolte.house.gov"
-phone: "202-225-5861"
+wikidata-id: Q16849797
+website: https://obernolte.house.gov
+phone: 202-225-5861
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H0CA08135"
+fec-candidate-id: H0CA08135
 bills-sponsored: 21
 bills-cosponsored: 259
 bills-enacted: 1
-top-policy-area: "Armed Forces and National Security"
+top-policy-area: Armed Forces and National Security
+top-donors: "[[Marathon Petroleum]], [[PG&E - Pacific Gas and Electric]], [[Johnson & Johnson]], [[Walmart - Walton Family]], [[L3Harris Technologies]], [[Valero Energy]], [[Humana]], [[National Rifle Association]], [[Microsoft]], [[Comcast - NBCUniversal]], [[American Hospital Association PAC]], [[General Dynamics]], [[August Pfluger]], [[Northrop Grumman]], [[Anthem - Elevance Health]], [[Performance Racing Inc.]], [[AIPAC - American Israel Public Affairs Committee]], [[Planned Parenthood Votes]], [[Ford Motor Company]], [[Gilead Sciences]], [[MAJORITY PAC]], [[Google - Alphabet]], [[American College of Radiology Association PAC]], [[Honeywell]], [[AbbVie]], [[Bank of America]], [[American Chemistry Council, INC]], [[Lockheed Martin]], [[Associated General Contractors of America Political Action Committee]], [[AT&T - WarnerMedia]], [[Amgen Inc]], [[Save America PAC]], [[Chevron]], [[Pfizer Inc.]], [[National Association of Realtors]], [[Byron Donalds]], [[Equality California Votes]], [[National Restaurant Association]], [[National Multifamily Housing Council]], [[Occidental Petroleum]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Duke Energy]], [[Jason Smith]], [[WinRed]], [[Tzedek PAC]], [[Tenet Healthcare]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[General Motors]], [[Tyson Foods]], [[Wells Fargo]], [[Blackstone Group]], [[Apple]], [[Meta - Facebook]], [[a16z - Andreessen Horowitz]], [[Palantir Technologies]]"
 ---
 
 

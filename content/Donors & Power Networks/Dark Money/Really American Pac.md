@@ -6,11 +6,11 @@ sector: Dark Money
 entity-type: Super PAC
 committee-id: C00748582
 fec-url: https://www.fec.gov/data/committee/C00748582/
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-ie-support: null
 fec-ie-oppose: $5,000
-politicians-funded: "[[Ron Johnson]]"
+politicians-funded: "[[Ron Johnson]], [[Roger Marshall]], [[Andy Biggs]], [[John Kennedy]], [[Matt Gaetz]], [[Lauren Boebert]], [[Ted Cruz]], [[Cindy Hyde-Smith]], [[Mike Lee]], [[Donald Trump]], [[Rick Scott]], [[John Thune]], [[Thomas Massie]], [[Scott Perry]], [[Steve Daines]], [[Marjorie Taylor Greene]], [[Kevin McCarthy]], [[Chip Roy]], [[Brian Babin]], [[Josh Hawley]], [[Kay Granger]], [[Clay Higgins]], [[John Hoeven]], [[Jerry Moran]]"
 related: "[[Ron Johnson]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

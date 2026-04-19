@@ -2,12 +2,12 @@
 title: California Nurses Association
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Labor Unions
 entity-type: Individual Donor
-politicians-funded: "[[Gavin Newsom]], [[Jeff Merkley]], [[Eric Swalwell]], [[Mike Lee]], [[Maxine Waters]], [[Sherrod Brown]], [[Barbara Lee]]"
+politicians-funded: "[[Gavin Newsom]], [[Jeff Merkley]], [[Eric Swalwell]], [[Mike Lee]], [[Maxine Waters]], [[Sherrod Brown]], [[Barbara Lee]], [[National Nurses United]], [[_Jon Ossoff Master Profile]], [[ActBlue]], [[JUSTICE DEMOCRATS PAC]], [[MoveOn.org Political Action]], [[_Cori Bush Master Profile]], [[Progressive Turnout Project]], [[Cori Bush]], [[Jon Ossoff]]"
 issues:
   - Healthcare
   - Labor & Workers
@@ -290,3 +290,50 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 - ~~[Source: ProPublica Nonprofit Explorer - EIN 940362060](https://projects.propublica.org/nonprofits/organizations/940362060)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F940362060_202306_990O_2024061822539914.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2018–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | $464.3M |
+| Grants paid out | $466K |
+
+**Lifetime grants out (2018–2023):** $1.6M across 43 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| CALIFORNIA NURSES FOUNDATION | $420K | 6 | 2018–2023 |
+| CAPITAL &amp; MAIN | $160K | 4 | 2020–2023 |
+| LAANE (CAPITAL AND MAIN) | $120K | 3 | 2018–2020 |
+| CONSUMER WATCHDOG | $75K | 1 | 2018 |
+| FAHWA INC | $65K | 3 | 2020–2022 |
+| JOBS WITH JUSTICE | $61K | 3 | 2018–2023 |
+| CALIFORNIA ALLIANCE FOR RETIRED AMERICANS (CARA) | $58K | 5 | 2018–2022 |
+| SAN FRANCISCO LABOR COUNCIL | $55K | 1 | 2019 |
+| MNA ST VINCENT STRIKE FUND | $50K | 1 | 2021 |
+| CENTER FOR POPULAR DEMOCRACY | $50K | 1 | 2019 |
+| ENTERTAINMENT COMMUNITY FUND | $40K | 1 | 2023 |
+| UNITED FARM WORKERS | $35K | 1 | 2023 |
+| CALIFORNIA TAX REFORM ASSOCIATION | $30K | 1 | 2022 |
+| UE RESEARCH AND EDUCATION | $30K | 2 | 2018–2019 |
+| CALIFORNIA LEGISLATIVE BLACK CAUCUS POLICY INSTITUTE | $25K | 1 | 2023 |
+| MIGUEL CONTRERAS FOUNDATION | $25K | 1 | 2023 |
+| WOMEN IN CALIFORNIA LEADERSHIP | $25K | 1 | 2023 |
+| ACCE ACTION | $25K | 1 | 2019 |
+| CARA | $23K | 1 | 2023 |
+| CONSUMER FEDERATION OF CALIFORNIA | $20K | 2 | 2018–2023 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

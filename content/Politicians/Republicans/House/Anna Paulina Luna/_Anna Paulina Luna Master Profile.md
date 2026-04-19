@@ -1,33 +1,34 @@
 ---
-title: "Anna Paulina Luna"
+title: Anna Paulina Luna
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Florida"
-state-abbr: "FL"
+party: Republican
+chamber: House
+state: Florida
+state-abbr: FL
 district: "13"
-bioguide-id: "L000596"
+bioguide-id: L000596
 govtrack-id: 456891
 born: "1989-05-06"
-wikidata-id: "Q112805534"
-website: "https://luna.house.gov"
-phone: "202-225-5961"
+wikidata-id: Q112805534
+website: https://luna.house.gov
+phone: 202-225-5961
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H0FL13158"
+fec-candidate-id: H0FL13158
 bills-sponsored: 36
 bills-cosponsored: 300
 bills-enacted: 0
-top-policy-area: "Crime and Law Enforcement"
+top-policy-area: Crime and Law Enforcement
+top-donors: "[[Andy Harris]], [[Campaign for Working Families]], [[REPUBLICAN PARTY OF FLORIDA]], [[Club for Growth INC PAC]], [[Planned Parenthood Votes]], [[NRCC - National Republican Congressional Committee]], [[Ron Estes]], [[AT&T - WarnerMedia]], [[National Rifle Association]], [[Jim Jordan]], [[MAJORITY PAC]], [[Austin Scott]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[PRIORITIES USA ACTION]], [[Ralph Norman]], [[American Conservative Union]], [[Duke Energy]], [[Gun Owners of America]], [[WinRed]], [[Byron Donalds]], [[Eric Burlison]], [[Daniel Webster]], [[Darrell Issa]], [[Save America PAC]], [[Club for Growth]], [[Women Speak Out Pac]], [[National Right to Life Victory Fund]], [[Madison Project Inc.]], [[National Association of Realtors]], [[Mike Haridopolos]], [[Honeywell]], [[Senate Conservatives Fund]], [[AIPAC - American Israel Public Affairs Committee]], [[Lockheed Martin]], [[ExxonMobil]], [[Amazon]], [[Anthem - Elevance Health Political Operation]], [[Boeing]], [[Kelcy Warren - Energy Transfer Partners]], [[Oracle]], [[Apple]], [[SpaceX]], [[Bank of America]], [[BAE Systems]], [[Starbucks]], [[UPS]], [[Microsoft]], [[AT&T]], [[Walmart]], [[MasTec - Mas Canosa Family]], [[Morgan Stanley]], [[Raytheon (RTX Corporation)]], [[Honeywell International]], [[Fidelity Investments]], [[Northrop Grumman]], [[Wells Fargo]], [[CVS Health - Aetna]]"
 ---
 
 

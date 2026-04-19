@@ -3,7 +3,7 @@ title: Kyrsten Sinema
 type: politician
 content-readiness: ready
 central-thesis: Kyrsten Sinema is the defining illustration of donor-class capture functioning at maximum efficiency. The carried interest kill alone , her decision to block a tax provision that would have cost the private equity industry $6.5–14 billion per deca...
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Independent
@@ -44,13 +44,13 @@ last-enriched: "2026-04-11"
 internal-notes: |-
   [MANUAL 2026-04-11] Bioguide recovered: S001191. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
   [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided.
-donors: "[[Private Equity Industry Bloc]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND]] · [[Wall Street Bloc]] · [[AFGE - American Federation of Government Employees]] · [[Pharmaceutical Industry]] · [[American Future Fund]] · [[DefendArizona]]"
+donors: "[[Private Equity Industry Bloc]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND]] · [[Wall Street Bloc]] · [[AFGE - American Federation of Government Employees]] · [[Pharmaceutical Industry]] · [[American Future Fund]] · [[DefendArizona]] · [[General Motors]] · [[Morgan Stanley]] · [[AIPAC - American Israel Public Affairs Committee]] · [[CVS Health - Aetna]] · [[AT&T - WarnerMedia]] · [[Lockheed Martin]] · [[Care Action]] · [[Microsoft]] · [[Halliburton]] · [[Leidos]] · [[NextEra Energy]] · [[National Association of Manufacturers]] · [[Pfizer Inc.]] · [[National Restaurant Association]] · [[National Rental Home Council]] · [[PG&E - Pacific Gas and Electric]] · [[General Dynamics]] · [[Gilead Sciences]] · [[Indivisible Action]] · [[Devon Energy]] · [[CoreCivic - Private Prisons]] · [[McDonalds Corporation]] · [[AbbVie]] · [[Tenet Healthcare]] · [[Citigroup]] · [[Tyson Foods]] · [[Associated General Contractors of America Political Action Committee]] · [[Ford Motor Company]] · [[Walmart - Walton Family]] · [[Chevron]] · [[Raytheon (RTX)]] · [[Nucor Corporation]] · [[American Hospital Association PAC]] · [[Comcast - NBCUniversal]] · [[Humana]] · [[Google - Alphabet]] · [[National Association of Realtors]] · [[Amgen Inc]] · [[Duke Energy]] · [[Women Speak Out Pac]] · [[L3Harris Technologies]] · [[Honeywell]] · [[Bank of America]] · [[Johnson & Johnson]] · [[National Cattlemen's Beef Association]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 181
 bills-cosponsored: 2430
 bills-enacted: 1
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "Health"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: Health
 ---
 
 

@@ -1,47 +1,47 @@
 ---
-title: "Leidos"
+title: Leidos
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Defense & Intelligence"
-entity-type: "Corporation"
+sector: Defense & Intelligence
+entity-type: Corporation
 issues:
-  - "Defense & Military"
+  - Defense & Military
 sec-filings: 10000
 sec-form-types:
-  - "10-KT"
-  - "10-Q"
-  - "10-Q/A"
+  - 10-KT
+  - 10-Q
+  - 10-Q/A
   - "4"
-  - "424B3"
+  - 424B3
   - "425"
-  - "8-K"
-  - "8-K/A"
-  - "CORRESP"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "EX-10.1"
-  - "EX-10.16"
-  - "EX-10.18"
-  - "EX-10.19"
-  - "EX-10.2"
-  - "EX-10.20"
-  - "EX-10.21"
-  - "EX-10.5"
-  - "EX-2.1"
-  - "EX-21"
-  - "EX-99.1"
-  - "EX-99.11"
-  - "EX-99.2"
-  - "EX-99.3"
-  - "PRER14A"
-  - "S-4"
-  - "S-4/A"
-  - "SCHEDULE 13G/A"
+  - 8-K
+  - 8-K/A
+  - CORRESP
+  - DEF 14A
+  - DEFA14A
+  - EX-10.1
+  - EX-10.16
+  - EX-10.18
+  - EX-10.19
+  - EX-10.2
+  - EX-10.20
+  - EX-10.21
+  - EX-10.5
+  - EX-2.1
+  - EX-21
+  - EX-99.1
+  - EX-99.11
+  - EX-99.2
+  - EX-99.3
+  - PRER14A
+  - S-4
+  - S-4/A
+  - SCHEDULE 13G/A
 ein: "203922378"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-07"
 total-revenue: 186389
 total-assets: 730985
@@ -50,22 +50,22 @@ subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
-top-federal-agency: "Department of Defense"
+top-federal-agency: Department of Defense
 top-naics-code: "541512"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 federal-register-mentions: 107
 regulatory-agencies:
-  - "Antitrust Division"
-  - "Commerce Department"
-  - "Copyright Royalty Board"
-  - "Defense Department"
-  - "Energy Department"
-  - "Federal Aviation Administration"
-  - "Health and Human Services Department"
-  - "International Trade Administration"
-  - "Justice Department"
-  - "Labor Department"
+  - Antitrust Division
+  - Commerce Department
+  - Copyright Royalty Board
+  - Defense Department
+  - Energy Department
+  - Federal Aviation Administration
+  - Health and Human Services Department
+  - International Trade Administration
+  - Justice Department
+  - Labor Department
 federal-awards-total: 22942904199
 federal-contracts-count: 25
 federal-grants-count: 9
@@ -75,7 +75,7 @@ lobbying-filings: 54
 cross-vault-triangulation-count: 11
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 11
-epa-states: "CA, FL, MD, RI"
+epa-states: CA, FL, MD, RI
 federal-contracts: 33178
 total-raised: 1024528
 total-spent: 993770
@@ -87,6 +87,7 @@ federal-grants-total: -18938
 employee-contributions: 50945
 employee-contributions-total: 6986102
 employee-donor-count: 5702
+politicians-funded: "[[JUSTICE DEMOCRATS PAC]], [[_Marco Rubio Master Profile]], [[Brian Babin]], [[Tim Scott]], [[Chrissy Houlahan]], [[RNC - Republican National Committee]], [[Guy Reschenthaler]], [[Giffords PAC]], [[Rick Larsen]], [[DCCC - Democratic Congressional Campaign Committee]], [[Debbie Wasserman Schultz]], [[David Rouzer]], [[Morgan McGarvey]], [[_Martin Heinrich Master Profile]], [[Leidos]], [[Bob Casey]], [[Senate Conservatives Fund]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Steve Womack]], [[Jerry Moran]], [[Hmp]], [[The Lincoln Project]], [[Seth Magaziner]], [[Harold Rogers]], [[_Ted Cruz Master Profile]], [[Roger Wicker]], [[Dina Titus]], [[Lois Frankel]], [[MAGA Inc]], [[_Elissa Slotkin Master Profile]], [[MoveOn.org Political Action]], [[Campaign for Working Families]], [[FAMILY RESEARCH COUNCIL ACTION POLITICAL ACTION COMMITTEE]], [[_Jamie Raskin Master Profile]], [[Emily's List]], [[Progressive Turnout Project]], [[_Young Kim Master Profile]], [[Dan Crenshaw]], [[Mike Thompson]], [[NRCC - National Republican Congressional Committee]], [[Nancy Mace]], [[Sam Graves]], [[REPUBLICAN PARTY OF FLORIDA]], [[Marcy Kaptur]], [[Diana Degette]], [[WinSenate]], [[Jimmy Panetta]], [[_Ron Johnson Master Profile]], [[Kyrsten Sinema]], [[John Thune]], [[Adam Schiff]], [[Betty McCollum]], [[Scott Franklin]], [[Mike Carey]], [[Julia Brownley]], [[Steve Scalise]], [[Tom Cole]], [[Andre Carson]], [[_Bill Foster Master Profile]], [[Morgan Luttrell]], [[_Pete Aguilar Master Profile]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[Lisa Murkowski]], [[Planned Parenthood Votes]], [[Kristen McDonald Rivet]], [[Ryan Zinke]], [[Ken Calvert]], [[Brad Finstad]], [[Markwayne Mullin]], [[Adam Smith]], [[Kay Granger]], [[Donald Norcross]], [[Julia Letlow]], [[Chris van Hollen]], [[ActBlue]], [[Rosa DeLauro]], [[Steve Cohen]], [[WinRed]], [[Brian Mast]], [[Jim Himes]], [[Chris Coons]], [[Mike Quigley]], [[Ron Estes]], [[_Mike Levin Master Profile]], [[Mark Kelly]], [[Catherine Cortez Masto]], [[Bennie Thompson]], [[Brian Schatz]], [[Lance Gooden]], [[NRSC - National Republican Senatorial Committee]], [[Sarah Elfreth]], [[Save America PAC]], [[Marilyn Strickland]], [[Mark Takano]], [[Tammy Baldwin]], [[_Ann Wagner Master Profile]], [[Chip Roy]], [[Democratic Party of Virginia]], [[Grace Meng]], [[Deb Fischer]], [[DNC - Democratic National Committee]], [[Mark Alford]], [[Tammy Duckworth]], [[_John James Master Profile]], [[John Garamendi]], [[Joe Wilson]], [[Sherrod Brown]], [[Richard McCormick]], [[Madeleine Dean]], [[Jacky Rosen]], [[Let America Vote PAC]], [[Todd Young]], [[_Jon Ossoff Master Profile]], [[Law Enforcement for a Safer America Pac]], [[Sharice Davids]], [[National Rifle Association]], [[Scott Desjarlais]], [[Nikki Budzinski]], [[Marianne Williamson]], [[August Pfluger]], [[_Nancy Pelosi Master Profile]], [[Paul Tonko]], [[Martin Heinrich]], [[Susie Lee]], [[Rick Crawford]], [[Congressional Progressive Caucus PAC]], [[Richard Neal]], [[Mark Warner]], [[Sheila Cherfilus-McCormick]], [[Pat Harrigan]], [[_Jim Jordan Master Profile]], [[Mario Diaz-Balart]], [[Jack Reed]], [[Cathy McMorris Rodgers]], [[_Mike Rogers Master Profile]], [[Michael Guest]], [[Suzanne Bonamici]], [[Mike Rounds]], [[Cindy Hyde-Smith]], [[Frank Pallone]], [[Zoe Lofgren]], [[Veronica Escobar]], [[Ron Johnson]], [[Michael Waltz]], [[Dan Newhouse]], [[John Barrasso]], [[Bruce Westerman]], [[Brad Knott]], [[John Boozman]], [[Brett Guthrie]], [[Raul Ruiz]], [[_Don Bacon Master Profile]], [[Patrick McHenry]], [[Mariannette Miller-Meeks]], [[Jason Smith]], [[Shelley Moore Capito]], [[Votevets]], [[Frank Lucas]], [[Bill Hagerty]], [[John Hoeven]], [[_Tim Scott Master Profile]], [[Marsha Blackburn]], [[James Lankford]], [[_Lauren Boebert Master Profile]], [[Gregory Meeks]], [[_Claudia Tenney Master Profile]], [[Joe Manchin]], [[Elise Stefanik]], [[Derek Schmidt]], [[Joseph Morelle]], [[Pete Aguilar]], [[_Derek Tran Master Profile]], [[Gary Peters]], [[Gwen Moore]], [[_Beth van Duyne Master Profile]], [[Ann Wagner]], [[Young Kim]], [[David Kustoff]], [[Wesley Bell]], [[Suhas Subramanyam]], [[_Tammy Baldwin Master Profile]], [[Tony Wied]], [[Nicole Malliotakis]], [[Cory Mills]], [[FreedomWorks for America]], [[Steven Horsford]], [[Rudy Yakym]], [[Jeanne Shaheen]], [[Jeff Crank]], [[314 ACTION FUND]], [[Patty Murray]], [[PRIORITIES USA ACTION]], [[Mad Dog PAC]], [[Ron Wyden]], [[_Ben Cline Master Profile]], [[Richard Blumenthal]], [[Henry Cuellar]], [[Chellie Pingree]], [[_Gabe Vasquez Master Profile]], [[Mike Levin]], [[Elissa Slotkin]], [[Bill Foster]], [[Gabe Vasquez]], [[Claudia Tenney]], [[Ted Cruz]], [[Jim Jordan]], [[Jon Ossoff]], [[Marco Rubio]], [[Derek Tran]], [[Mike Rogers]], [[Don Bacon]], [[Lauren Boebert]], [[John James]], [[Nancy Pelosi]], [[Ben Cline]], [[Beth van Duyne]], [[Jamie Raskin]]"
 ---
 
 
@@ -530,3 +531,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/203922378/2019)~~ (URL broken, archived by Ops)
 - ~~[Kaleidoscope Necklaces Recalled As Choking Hazard](https://www.cpsc.gov/Recalls/92053)~~ (URL broken, archived by Ops) (1992-02-11) - Choking
 - ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Leidos)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 5 (2020–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $186K |
+| Total expenses | — |
+| Total assets (EOY) | $731K |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

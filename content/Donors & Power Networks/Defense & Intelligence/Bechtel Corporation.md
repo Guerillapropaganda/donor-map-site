@@ -1,44 +1,45 @@
 ---
-title: "Bechtel Corporation"
+title: Bechtel Corporation
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-09T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Defense & Intelligence"
-entity-type: "Corporation"
+sector: Defense & Intelligence
+entity-type: Corporation
 issues:
-  - "Infrastructure"
+  - Infrastructure
 lobbying-spend: 2980000
 lobbying-filings: 51
 court-cases: 2808
 last-enriched: "2026-04-09"
 court-jurisdictions:
-  - "Court of Appeals for the Ninth Circuit"
-  - "Court of Appeals for the Second Circuit"
-  - "District Court, C.D. California"
-  - "District Court, D. Arizona"
-  - "District Court, D. Hawaii"
-  - "District Court, D. South Carolina"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. Virginia"
-  - "District Court, N.D. Georgia"
-  - "District Court, S.D. Georgia"
+  - Court of Appeals for the Ninth Circuit
+  - Court of Appeals for the Second Circuit
+  - District Court, C.D. California
+  - District Court, D. Arizona
+  - District Court, D. Hawaii
+  - District Court, D. South Carolina
+  - District Court, District of Columbia
+  - District Court, E.D. Virginia
+  - District Court, N.D. Georgia
+  - District Court, S.D. Georgia
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 related: "[[South Carolina 2026 Senate Race]]"
-lei: "A2351DQ25OUUH2Q6RR89"
-lei-jurisdiction: "US-NV"
+lei: A2351DQ25OUUH2Q6RR89
+lei-jurisdiction: US-NV
 cross-vault-triangulation-count: 1
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 3
-epa-states: "CA, NJ, UT"
+epa-states: CA, NJ, UT
 federal-contracts: 87
 federal-awards-total: 7768520221
 cash-on-hand: 9001
 employee-contributions: 6938
 employee-contributions-total: 1566423
 employee-donor-count: 1292
+politicians-funded: "[[_Sydney Kamlager-Dove Master Profile]], [[The Lincoln Project]], [[Dan Newhouse]], [[Bechtel Corporation]], [[_Dan Newhouse Master Profile]], [[_Chrissy Houlahan Master Profile]], [[_Mike Levin Master Profile]], [[Joe Manchin]], [[_Tammy Baldwin Master Profile]], [[WinRed]], [[_Mike Thompson Master Profile]], [[ActBlue]], [[Indivisible Action]], [[Richard Neal]], [[WinSenate]], [[NRCC - National Republican Congressional Committee]], [[Rick Larsen]], [[RNC - Republican National Committee]], [[CHC BOLD PAC]], [[_Ben Cline Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Elissa Slotkin Master Profile]], [[National Rifle Association]], [[_Dave Min Master Profile]], [[_Ted Cruz Master Profile]], [[Debbie Dingell]], [[Mark Kelly]], [[_Martin Heinrich Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Nancy Pelosi Master Profile]], [[MoveOn.org Political Action]], [[_Marco Rubio Master Profile]], [[Frank Pallone]], [[Cathy McMorris Rodgers]], [[Mark Warner]], [[Martin Heinrich]], [[_Jon Ossoff Master Profile]], [[_Susie Lee Master Profile]], [[Adam Smith]], [[_Jason Crow Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[Patty Murray]], [[Trump Victory]], [[Ron Wyden]], [[Emily's List]], [[MAGA Inc]], [[JUSTICE DEMOCRATS PAC]], [[Lisa Murkowski]], [[Marcy Kaptur]], [[_Tim Scott Master Profile]], [[The Tea Party Leadership Fund]], [[Catherine Cortez Masto]], [[Sherrod Brown]], [[Bob Casey]], [[Dan Sullivan]], [[Senate Conservatives Fund]], [[Progressive Turnout Project]], [[_Rashida Tlaib Master Profile]], [[Susie Lee]], [[Tim Scott]], [[Mike Thompson]], [[Ted Cruz]], [[Jon Ossoff]], [[Jason Crow]], [[Dave Min]], [[Chrissy Houlahan]], [[Mike Levin]], [[Sydney Kamlager-Dove]], [[Tammy Baldwin]], [[Nancy Pelosi]], [[Elissa Slotkin]], [[Rashida Tlaib]], [[Ben Cline]], [[Marco Rubio]]"
 ---
 
 

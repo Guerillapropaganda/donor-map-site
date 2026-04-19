@@ -1,32 +1,33 @@
 ---
-title: "Pete Ricketts"
+title: Pete Ricketts
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "Senate"
-state: "Nebraska"
-state-abbr: "NE"
-bioguide-id: "R000618"
+party: Republican
+chamber: Senate
+state: Nebraska
+state-abbr: NE
+bioguide-id: R000618
 govtrack-id: 456952
 born: "1964-08-19"
-wikidata-id: "Q6106781"
-website: "https://www.ricketts.senate.gov"
-phone: "202-224-4224"
+wikidata-id: Q6106781
+website: https://www.ricketts.senate.gov
+phone: 202-224-4224
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "S6NE00129"
+fec-candidate-id: S6NE00129
 bills-sponsored: 30
 bills-cosponsored: 373
 bills-enacted: 0
-top-policy-area: "International Affairs"
+top-policy-area: International Affairs
+top-donors: "[[Common Sense for America PAC]], [[General Dynamics]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Google - Alphabet]], [[Morgan Stanley]], [[Walmart - Walton Family]], [[Raytheon (RTX)]], [[Chevron]], [[National Association of Realtors]], [[National Multifamily Housing Council]], [[Performance Racing Inc.]], [[Associated General Contractors of America Political Action Committee]], [[Lockheed Martin]], [[CoreCivic - Private Prisons]], [[Microsoft]], [[National Right to Life Victory Fund]], [[NextEra Energy]], [[Club for Growth INC PAC]], [[Nucor Corporation]], [[ConocoPhillips]], [[Comcast - NBCUniversal]], [[National Restaurant Association]], [[Pfizer Inc.]], [[Adrian Smith]], [[ADM - Archer Daniels Midland]], [[General Motors]], [[National Cattlemen's Beef Association]], [[National Rifle Association]], [[Devon Energy]], [[Valero Energy]], [[Occidental Petroleum]], [[NRSC - National Republican Senatorial Committee]], [[American Hospital Association PAC]], [[Don Bacon]], [[WinRed]], [[Amgen Inc]], [[Apollo Global Management]], [[American Petroleum Institute]], [[Koch Industries]], [[Charles Schwab]], [[Meta - Facebook]], [[Goldman Sachs]], [[Citadel - Kenneth Griffin]]"
 ---
 
 

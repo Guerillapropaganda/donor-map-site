@@ -50,7 +50,7 @@ total-spent: $5,232,134
 cash-on-hand: "3675005.14"
 fec-cycle: 2026
 last-enriched: "2026-04-10"
-donors: "[[Insurance Industry]] · [[Tech IP and Patent Lobbying]] · [[Pharmaceutical Industry Bloc]] · [[Koch Network - Charles Koch]] · [[NEA Advocacy Fund]]"
+donors: "[[Insurance Industry]] · [[Tech IP and Patent Lobbying]] · [[Pharmaceutical Industry Bloc]] · [[Koch Network - Charles Koch]] · [[NEA Advocacy Fund]] · [[Google - Alphabet]] · [[NextEra Energy]] · [[Duke Energy]] · [[Citigroup]] · [[American Chemistry Council, INC]] · [[AT&T - WarnerMedia]] · [[National Multifamily Housing Council]] · [[CoreCivic - Private Prisons]] · [[Anthem - Elevance Health]] · [[Johnson & Johnson]] · [[ConocoPhillips]] · [[National Association of Realtors]] · [[WinRed]] · [[American College of Radiology Association PAC]] · [[American Hospital Association PAC]] · [[Humana]] · [[Amgen Inc]] · [[Gilead Sciences]] · [[Bank of America]] · [[Drummond Co.]] · [[Lockheed Martin]] · [[Women Speak Out Pac]] · [[General Dynamics]] · [[L3Harris Technologies]] · [[Walmart - Walton Family]] · [[Activate America]] · [[McDonalds Corporation]] · [[Raytheon (RTX)]] · [[Occidental Petroleum]] · [[Nucor Corporation]] · [[Microsoft]] · [[Planned Parenthood Votes]] · [[Pfizer Inc.]] · [[BAE Systems]] · [[Chevron]] · [[Tenet Healthcare]] · [[Valero Energy]] · [[Tyson Foods]] · [[General Motors]] · [[AbbVie]] · [[NORPAC]] · [[Morgan Stanley]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Comcast - NBCUniversal]] · [[Tzedek PAC]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[Northrop Grumman]] · [[Ford Motor Company]]"
 urls-first-triaged: "2026-04-15"
 ---
 

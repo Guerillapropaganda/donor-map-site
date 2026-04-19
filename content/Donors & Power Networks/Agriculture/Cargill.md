@@ -1,24 +1,24 @@
 ---
-title: "Cargill"
+title: Cargill
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Agriculture"
-entity-type: "Corporation"
+sector: Agriculture
+entity-type: Corporation
 issues:
-  - "Agriculture"
-  - "Trade"
+  - Agriculture
+  - Trade
 ein: 416020221
-annual-revenue: "$2.5M"
-net-assets: "$255.2M"
+annual-revenue: $2.5M
+net-assets: $255.2M
 tax-year: "2023"
 subawards-issued: 1
 subawards-issued-amount: 96570
 subawards-received: 1
 subawards-received-amount: 96570
-top-federal-agency: "Department of Agriculture"
+top-federal-agency: Department of Agriculture
 top-naics-code: "311999"
 federal-awards-total: 49170610
 federal-contracts-count: 25
@@ -26,105 +26,104 @@ federal-grants-count: 10
 related: "[[The Veterans Affairs and Iowa Agriculture]] · [[The Oversight Legacy and Agricultural Protection]] · [[Agriculture - Donors and Backers]] · [[ADM - Archer Daniels Midland]] · [[Monsanto - Bayer]] · [[John Deere]] · [[The Farm Bill - The Bipartisan Subsidy Machine]] · [[Tyson Foods]] · [[American Farm Bureau Federation]] · [[National Cattlemen's Beef Association]] · [[Meatpacking Corporations]] · [[United Farm Workers]] · [[Ethanol Industry]] · [[Agribusiness Donor Bloc]]"
 last-enriched: "2026-04-18"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 sec-filings: 10000
 sec-form-types:
-  - "10-Q"
-  - "35-CERT"
-  - "424B3"
+  - 10-Q
+  - 35-CERT
+  - 424B3
   - "425"
-  - "8-K"
-  - "CORRESP"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "EX-10.1"
-  - "EX-10.10"
-  - "EX-10.14"
-  - "EX-10.16"
-  - "EX-10.19"
-  - "EX-10.2"
-  - "EX-10.21"
-  - "EX-10.33"
-  - "EX-10.34"
-  - "EX-10.4"
-  - "EX-10.40"
-  - "EX-10.5"
-  - "EX-10.6"
-  - "EX-10.7"
-  - "EX-10.8"
-  - "EX-10.9"
-  - "EX-10.II.A"
-  - "EX-10.II.D"
-  - "EX-10.II.G"
-  - "EX-10.II.H"
-  - "EX-10.II.HH"
-  - "EX-10.II.JJ"
-  - "EX-10.II.P"
-  - "EX-10.II.S"
-  - "EX-2"
-  - "EX-2.(I)"
-  - "EX-2.1"
-  - "EX-2.2"
-  - "EX-2.3"
-  - "EX-99"
-  - "EX-99.2"
-  - "EX-99.4"
-  - "EX-99.6"
-  - "EX-99.77Q1"
-  - "EX-99.8"
-  - "S-4"
-  - "S-4/A"
-  - "SC 13D"
-  - "SC 13D/A"
-  - "XML"
+  - 8-K
+  - CORRESP
+  - DEF 14A
+  - DEFA14A
+  - EX-10.1
+  - EX-10.10
+  - EX-10.14
+  - EX-10.16
+  - EX-10.19
+  - EX-10.2
+  - EX-10.21
+  - EX-10.33
+  - EX-10.34
+  - EX-10.4
+  - EX-10.40
+  - EX-10.5
+  - EX-10.6
+  - EX-10.7
+  - EX-10.8
+  - EX-10.9
+  - EX-10.II.A
+  - EX-10.II.D
+  - EX-10.II.G
+  - EX-10.II.H
+  - EX-10.II.HH
+  - EX-10.II.JJ
+  - EX-10.II.P
+  - EX-10.II.S
+  - EX-2
+  - EX-2.(I)
+  - EX-2.1
+  - EX-2.2
+  - EX-2.3
+  - EX-99
+  - EX-99.2
+  - EX-99.4
+  - EX-99.6
+  - EX-99.77Q1
+  - EX-99.8
+  - S-4
+  - S-4/A
+  - SC 13D
+  - SC 13D/A
+  - XML
 court-cases: 12597
 court-jurisdictions:
-  - "Court of Appeals for the Federal Circuit"
-  - "Court of Appeals for the Tenth Circuit"
-  - "District Court, C.D. California"
-  - "District Court, D. Nebraska"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. California"
-  - "District Court, M.D. Florida"
-  - "District Court, M.D. Louisiana"
-  - "District Court, M.D. Pennsylvania"
-  - "District Court, S.D. Iowa"
+  - Court of Appeals for the Federal Circuit
+  - Court of Appeals for the Tenth Circuit
+  - District Court, C.D. California
+  - District Court, D. Nebraska
+  - District Court, District of Columbia
+  - District Court, E.D. California
+  - District Court, M.D. Florida
+  - District Court, M.D. Louisiana
+  - District Court, M.D. Pennsylvania
+  - District Court, S.D. Iowa
 fda-recalls: 42
 fda-recalls-class-i: 10
 cross-vault-triangulation-count: 12
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-nonprofit-status: "501(c)(3)"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+nonprofit-status: 501(c)(3)
 total-revenue: 144285452
 total-assets: 307345903
-wikidata-id: "Q1036056"
-wikipedia-url: "https://en.wikipedia.org/wiki/Cargill"
-wikipedia-extract: "Cargill, Incorporated is an American multinational food corporation based in Minnetonka, Minnesota."
+wikidata-id: Q1036056
+wikipedia-url: https://en.wikipedia.org/wiki/Cargill
+wikipedia-extract: Cargill, Incorporated is an American multinational food corporation based in Minnetonka, Minnesota.
 founded: "1865-01-01"
-lei: "549300B5ALGB4HZFWU97"
-lei-jurisdiction: "NL"
+lei: 549300B5ALGB4HZFWU97
+lei-jurisdiction: NL
 federal-register-mentions: 822
 regulatory-agencies:
-  - "Agricultural Marketing Service"
-  - "Agriculture Department"
-  - "Commerce Department"
-  - "Drug Enforcement Administration"
-  - "Environmental Protection Agency"
-  - "Federal Mine Safety and Health Review Commission"
-  - "Food and Drug Administration"
-  - "Health and Human Services Department"
-  - "International Trade Administration"
-  - "International Trade Commission"
+  - Agricultural Marketing Service
+  - Agriculture Department
+  - Commerce Department
+  - Drug Enforcement Administration
+  - Environmental Protection Agency
+  - Federal Mine Safety and Health Review Commission
+  - Food and Drug Administration
+  - Health and Human Services Department
+  - International Trade Administration
+  - International Trade Commission
 lobbying-spend: 4875000
 lobbying-filings: 50
 ftc-enforcement-actions: 0
 ftc-hsr-notices: 30
 epa-facilities: 129
-epa-states: "AR, CA, CO, FL, GA, IA, IL, IN, KS, KY, LA, MA, MN, MO, MT, NC, ND, NE, OH, TX, UT, VT, WI"
+epa-states: AR, CA, CO, FL, GA, IA, IL, IN, KS, KY, LA, MA, MN, MO, MT, NC, ND, NE, OH, TX, UT, VT, WI
 employee-contributions: 1600
 employee-contributions-total: 424021
 employee-donor-count: 398
+politicians-funded: "[[ActBlue]], [[_Jim Jordan Master Profile]], [[WinRed]], [[Bob Casey]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Pete Stauber Master Profile]], [[NRCC - National Republican Congressional Committee]], [[_Ron Johnson Master Profile]], [[_Tammy Baldwin Master Profile]], [[Human Rights Campaign Equality Votes]], [[_Angie Craig Master Profile]], [[PRIORITIES USA ACTION]], [[RNC - Republican National Committee]], [[NRSC - National Republican Senatorial Committee]], [[_Tim Scott Master Profile]], [[_Ted Cruz Master Profile]], [[MAGA Inc]], [[_Lisa Blunt Rochester Master Profile]], [[Mark Kelly]], [[Emily's List]], [[Campaign for Working Families]], [[The Lincoln Project]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Marcia Fudge Master Profile]], [[Save America PAC]], [[Chris Christie]], [[CHC BOLD PAC]], [[FreedomWorks for America]], [[_Gabe Vasquez Master Profile]], [[_Thomas Massie Master Profile]], [[Trump Victory]], [[_Jimmy Panetta Master Profile]], [[_Mike Levin Master Profile]], [[_Josh Hawley Master Profile]], [[_Marco Rubio Master Profile]], [[Tim Scott]], [[Thomas Massie]], [[Marco Rubio]], [[Jimmy Panetta]], [[Ron Johnson]], [[Lisa Blunt Rochester]], [[Jim Jordan]], [[Ted Cruz]], [[Mike Levin]], [[Gabe Vasquez]], [[Angie Craig]], [[Josh Hawley]], [[Marcia Fudge]], [[Tammy Baldwin]], [[Pete Stauber]]"
 ---
 
 
@@ -838,3 +837,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/416020221/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/416020221/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/416020221/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 8 (2020–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | $307.3M |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

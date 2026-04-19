@@ -3,7 +3,7 @@ title: Brett Guthrie
 type: politician
 bioguide-id: G000558
 content-readiness: draft
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 editorial-notes: "[Research Claude 2026-04-16] Added Class Analysis section. Removed body inline field (tags::). Profile is data-rich; Class Analysis completes the editorial requirements for promotion to ready pending David review."
 source-tier: 1
 parent: null
@@ -23,12 +23,12 @@ known-gaps:
   - No legislative record from Congress.gov
   - No mapped relationships
 related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[AbbVie]]"
-donors: "[[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[AbbVie]] · [[POLITICAL ACTION COMMITTEE OF THE AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]] · [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]]"
+donors: "[[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[AbbVie]] · [[POLITICAL ACTION COMMITTEE OF THE AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]] · [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[American Hospital Association PAC]] · [[American Chemistry Council, INC]] · [[Duke Energy]] · [[Humana]] · [[Johnson & Johnson]] · [[Walmart - Walton Family]] · [[Care Action]] · [[Pfizer Inc.]] · [[General Motors]] · [[Airbnb]] · [[AT&T - WarnerMedia]] · [[National Association of Manufacturers]] · [[National Association of Realtors]] · [[Marathon Petroleum]] · [[Valero Energy]] · [[American College of Radiology Association PAC]] · [[iHeartMedia]] · [[Raytheon (RTX)]] · [[Lockheed Martin]] · [[Performance Racing Inc.]] · [[Gilead Sciences]] · [[Microsoft]] · [[National Cattlemen's Beef Association]] · [[Honeywell]] · [[Chevron]] · [[Tyson Foods]] · [[CVS Health - Aetna]] · [[Ford Motor Company]] · [[NextEra Energy]] · [[Morgan Stanley]] · [[Tenet Healthcare]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Bank of America]] · [[Nucor Corporation]] · [[National Rifle Association]] · [[DoorDash]] · [[National Multifamily Housing Council]] · [[MAJORITY PAC]] · [[Save America PAC]] · [[McDonalds Corporation]] · [[Amgen Inc]] · [[Anthem - Elevance Health]] · [[Leidos]] · [[Occidental Petroleum]] · [[ConocoPhillips]] · [[Comcast - NBCUniversal]] · [[Associated General Contractors of America Political Action Committee]] · [[Google - Alphabet]] · [[American Gaming Association]] · [[Devon Energy]] · [[Sinclair Broadcast Group]] · [[PG&E - Pacific Gas and Electric]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[National Restaurant Association]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 25
 bills-cosponsored: 185
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
 ---
 
 

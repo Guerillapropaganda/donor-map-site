@@ -1,32 +1,33 @@
 ---
-title: "Kevin Cramer"
+title: Kevin Cramer
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "Senate"
-state: "North Dakota"
-state-abbr: "ND"
-bioguide-id: "C001096"
+party: Republican
+chamber: Senate
+state: North Dakota
+state-abbr: ND
+bioguide-id: C001096
 govtrack-id: 412555
 born: "1961-01-21"
-wikidata-id: "Q3957020"
-website: "https://www.cramer.senate.gov"
-phone: "202-224-2043"
+wikidata-id: Q3957020
+website: https://www.cramer.senate.gov
+phone: 202-224-2043
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "S8ND00120"
+fec-candidate-id: S8ND00120
 bills-sponsored: 17
 bills-cosponsored: 548
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Northrop Grumman]], [[Devon Energy]], [[National Association of Realtors]], [[National Multifamily Housing Council]], [[AT&T - WarnerMedia]], [[Lockheed Martin]], [[WinRed]], [[National Cattlemen's Beef Association]], [[Halliburton]], [[Morgan Stanley]], [[American Hospital Association PAC]], [[PG&E - Pacific Gas and Electric]], [[Associated General Contractors of America Political Action Committee]], [[American Chemistry Council, INC]], [[Republican Jewish Coalition]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AbbVie]], [[Microsoft]], [[Walmart - Walton Family]], [[BAE Systems]], [[General Dynamics]], [[Marathon Petroleum]], [[Honeywell]], [[Raytheon (RTX)]], [[Bank of America]], [[L3Harris Technologies]], [[AIPAC - American Israel Public Affairs Committee]], [[Occidental Petroleum]], [[ConocoPhillips]], [[National Rifle Association]], [[Chevron]], [[Clearpath Action Fund, Inc.]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[General Motors]], [[iHeartMedia]], [[McDonalds Corporation]], [[Tzedek PAC]], [[Common Sense for America PAC]], [[Comcast - NBCUniversal]], [[Valero Energy]], [[NextEra Energy]], [[Duke Energy]], [[National Restaurant Association]], [[Citigroup]], [[Care Action]]"
 ---
 
 

@@ -25,7 +25,7 @@ website: https://www.fischer.senate.gov
 phone: 202-224-6551
 total-received: $572,417
 fec-candidate-id: S2NE00094
-donors: "[[Insurance Industry]] · [[ESAFUND]] · [[Retire Career Politicians]] · [[ENDING SPENDING ACTION FUND]] · [[COMMON SENSE FOR AMERICA PAC]] · [[End the Gridlock]] · [[Common Sense for America PAC]]"
+donors: "[[Insurance Industry]] · [[ESAFUND]] · [[Retire Career Politicians]] · [[ENDING SPENDING ACTION FUND]] · [[COMMON SENSE FOR AMERICA PAC]] · [[End the Gridlock]] · [[Common Sense for America PAC]] · [[NRSC - National Republican Senatorial Committee]] · [[DoorDash]] · [[Duke Energy]] · [[L3Harris Technologies]] · [[Drummond Co.]] · [[Google - Alphabet]] · [[National Cattlemen's Beef Association]] · [[VIEW PAC - Value in Electing Women]] · [[General Motors]] · [[Comcast - NBCUniversal]] · [[American Chemistry Council, INC]] · [[Lockheed Martin]] · [[Tzedek PAC]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Tyson Foods]] · [[Associated General Contractors of America Political Action Committee]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[National Association of Realtors]] · [[Nucor Corporation]] · [[Johnson & Johnson]] · [[Pfizer Inc.]] · [[Leidos]] · [[Honeywell]] · [[iHeartMedia]] · [[Marathon Petroleum]] · [[AT&T - WarnerMedia]] · [[Wfw Action Fund, Inc.]] · [[McDonalds Corporation]] · [[ADM - Archer Daniels Midland]] · [[AbbVie]] · [[Republican Jewish Coalition]] · [[Walmart - Walton Family]] · [[American College of Radiology Association PAC]] · [[BAE Systems]] · [[WinRed]] · [[Amgen Inc]] · [[NextEra Energy]] · [[Raytheon (RTX)]] · [[Performance Racing Inc.]] · [[Sinclair Broadcast Group]] · [[Microsoft]] · [[American Hospital Association PAC]] · [[General Dynamics]] · [[Adrian Smith]] · [[Valero Energy]] · [[ConocoPhillips]] · [[Halliburton]] · [[Ford Motor Company]] · [[National Restaurant Association]] · [[National Multifamily Housing Council]] · [[Reclaim America PAC]] · [[Chevron]] · [[National Rifle Association]] · [[Care Action]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Northrop Grumman]] · [[Occidental Petroleum]] · [[Railroaders for Public Safety]] · [[CVS Health - Aetna]] · [[Coinbase]] · [[National Right to Life Victory Fund]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]]"
 related: "[[Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides]] · [[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 last-enriched: "2026-04-10"
 needs-reenrichment: true
@@ -33,8 +33,8 @@ reenrich-reason: re-run congress pipeline
 bioguide-id: F000463
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 bills-enacted: 2
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "Health"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: Health
 ---
 
 

@@ -1,33 +1,34 @@
 ---
-title: "Daniel Meuser"
+title: Daniel Meuser
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Pennsylvania"
-state-abbr: "PA"
+party: Republican
+chamber: House
+state: Pennsylvania
+state-abbr: PA
 district: "9"
-bioguide-id: "M001204"
+bioguide-id: M001204
 govtrack-id: 412811
 born: "1964-02-10"
-wikidata-id: "Q5214012"
-website: "https://meuser.house.gov"
-phone: "202-225-6511"
+wikidata-id: Q5214012
+website: https://meuser.house.gov
+phone: 202-225-6511
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H8PA10147"
+fec-candidate-id: H8PA10147
 bills-sponsored: 29
 bills-cosponsored: 406
 bills-enacted: 0
-top-policy-area: "Finance and Financial Sector"
+top-policy-area: Finance and Financial Sector
+top-donors: "[[Nucor Corporation]], [[National Rifle Association]], [[General Dynamics]], [[American College of Radiology Association PAC]], [[Comcast - NBCUniversal]], [[Bank of America]], [[National Multifamily Housing Council]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[MAJORITY PAC]], [[Associated General Contractors of America Political Action Committee]], [[Lockheed Martin]], [[AIPAC - American Israel Public Affairs Committee]], [[Marathon Petroleum]], [[Walmart - Walton Family]], [[Google - Alphabet]], [[American Hospital Association PAC]], [[Anthem - Elevance Health]], [[National Association of Realtors]], [[AT&T - WarnerMedia]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Pennsylvania Pro-Life Federation PAC]], [[Citigroup]], [[WinRed]], [[Coinbase]], [[Morgan Stanley]], [[Microsoft]]"
 ---
 
 

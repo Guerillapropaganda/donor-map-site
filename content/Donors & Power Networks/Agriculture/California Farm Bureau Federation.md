@@ -2,52 +2,33 @@
 title: California Farm Bureau Federation
 type: donor
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Agriculture
 entity-type: Individual Donor
-politicians-funded:
-  - "John Boehner"
-  - "Gina McCarthy"
-  - "Kevin McCarthy"
-  - "Bennie Thompson"
-  - "Mike Thompson"
-  - "Glenn Thompson"
-  - "Jim Costa"
-  - "Shalanda Young"
-  - "Todd Young"
-  - "Andy Kim"
-  - "Young Kim"
-  - "Debbie Stabenow"
-  - "Jimmy Panetta"
-  - "Leon Panetta"
-  - "Nathaniel Moran"
-  - "Jerry Moran"
-  - "Sonny Perdue"
-  - "Lindsey Graham"
-  - "Jared F. Golden"
+politicians-funded: "[[NRSC - National Republican Senatorial Committee]], [[RNC - Republican National Committee]]"
 issues:
   - Immigration
 ein: 940357610
-annual-revenue: "$12.9M"
-net-assets: "$73.5M"
+annual-revenue: $12.9M
+net-assets: $73.5M
 tax-year: "2023"
 federal-register-mentions: 23
 last-enriched: "2026-04-18"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
 regulatory-agencies:
-  - "Alcohol and Tobacco Tax and Trade Bureau"
-  - "Commerce Department"
-  - "Environmental Protection Agency"
-  - "Federal Motor Carrier Safety Administration"
-  - "Fish and Wildlife Service"
-  - "Food and Drug Administration"
-  - "Health and Human Services Department"
-  - "Homeland Security Department"
-  - "Interior Department"
-  - "Labor Department"
+  - Alcohol and Tobacco Tax and Trade Bureau
+  - Commerce Department
+  - Environmental Protection Agency
+  - Federal Motor Carrier Safety Administration
+  - Fish and Wildlife Service
+  - Food and Drug Administration
+  - Health and Human Services Department
+  - Homeland Security Department
+  - Interior Department
+  - Labor Department
 court-cases: 111
 court-jurisdictions:
   - Court of Appeals for the Federal Circuit
@@ -80,8 +61,8 @@ sec-form-types:
   - N-6
 cross-vault-triangulation-count: 10
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-wikidata-id: "Q126731054"
-total-political-spend: "$892,442"
+wikidata-id: Q126731054
+total-political-spend: $892,442
 lobbying-spend: 10784974
 lobbying-filings: 122
 checklist-na:
@@ -609,3 +590,32 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/940357610/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/940357610/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/940357610/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 7 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | $75.9M |
+| Grants paid out | — |
+
+**Lifetime grants out (2018–2024):** $1.1M across 2 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| CALIFORNIA FOUNDATION FOR AGRICULTURE IN THE CLASSROOM | $554K | 6 | 2018–2023 |
+| CALIFORNIA BOUNTIFUL FOUNDATION | $500K | 1 | 2022 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

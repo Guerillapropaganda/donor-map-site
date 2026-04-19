@@ -1,80 +1,80 @@
 ---
-title: "Aramark"
+title: Aramark
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Carceral State"
-entity-type: "Corporation"
+sector: Carceral State
+entity-type: Corporation
 ein: 276727955
-annual-revenue: "$1.8M"
-net-assets: "$1.2M"
+annual-revenue: $1.8M
+net-assets: $1.2M
 tax-year: "2023"
 court-cases: 12414
 last-enriched: "2026-04-10"
 court-jurisdictions:
-  - "Court of Appeals for the Tenth Circuit"
-  - "District Court, D. New Jersey"
-  - "District Court, E.D. Wisconsin"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Florida"
-  - "District Court, N.D. Indiana"
-  - "District Court, S.D. Florida"
-  - "District Court, S.D. Indiana"
-  - "District Court, S.D. West Virginia"
-  - "District Court, W.D. North Carolina"
+  - Court of Appeals for the Tenth Circuit
+  - District Court, D. New Jersey
+  - District Court, E.D. Wisconsin
+  - District Court, N.D. California
+  - District Court, N.D. Florida
+  - District Court, N.D. Indiana
+  - District Court, S.D. Florida
+  - District Court, S.D. Indiana
+  - District Court, S.D. West Virginia
+  - District Court, W.D. North Carolina
 sec-filings: 10000
 sec-form-types:
-  - "10-K/A"
-  - "10-Q"
+  - 10-K/A
+  - 10-Q
   - "4"
-  - "8-K"
-  - "8-K/A"
-  - "CORRESP"
-  - "EFFECT"
-  - "EX-10.1"
-  - "EX-10.10"
-  - "EX-10.11"
-  - "EX-10.13"
-  - "EX-10.17"
-  - "EX-10.19"
-  - "EX-10.2"
-  - "EX-10.20"
-  - "EX-10.22"
-  - "EX-10.28"
-  - "EX-10.3"
-  - "EX-10.4"
-  - "EX-10.5"
-  - "EX-10.9"
-  - "EX-2"
-  - "EX-21"
-  - "EX-21.0"
-  - "EX-21.1"
-  - "EX-25"
-  - "EX-4.1"
-  - "EX-4.2"
-  - "EX-5"
-  - "EX-5.1"
-  - "EX-7.13"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "EX-99.3"
-  - "POS EX"
-  - "S-1/A"
-  - "SCHEDULE 13G/A"
+  - 8-K
+  - 8-K/A
+  - CORRESP
+  - EFFECT
+  - EX-10.1
+  - EX-10.10
+  - EX-10.11
+  - EX-10.13
+  - EX-10.17
+  - EX-10.19
+  - EX-10.2
+  - EX-10.20
+  - EX-10.22
+  - EX-10.28
+  - EX-10.3
+  - EX-10.4
+  - EX-10.5
+  - EX-10.9
+  - EX-2
+  - EX-21
+  - EX-21.0
+  - EX-21.1
+  - EX-25
+  - EX-4.1
+  - EX-4.2
+  - EX-5
+  - EX-5.1
+  - EX-7.13
+  - EX-99.1
+  - EX-99.2
+  - EX-99.3
+  - POS EX
+  - S-1/A
+  - SCHEDULE 13G/A
 federal-register-mentions: 111
 regulatory-agencies:
-  - "Agriculture Department"
-  - "Antitrust Division"
-  - "Employment and Training Administration"
-  - "Federal Trade Commission"
-  - "Food and Nutrition Service"
-  - "Interior Department"
-  - "Justice Department"
-  - "Labor Department"
-  - "National Labor Relations Board"
-  - "National Park Service"
+  - Agriculture Department
+  - Antitrust Division
+  - Employment and Training Administration
+  - Federal Trade Commission
+  - Food and Nutrition Service
+  - Interior Department
+  - Justice Department
+  - Labor Department
+  - National Labor Relations Board
+  - National Park Service
 federal-awards-total: 1406693
 federal-contracts-count: 25
 federal-grants-count: 0
@@ -87,22 +87,23 @@ source-types:
   - USASpending
 corroboration-count: 4
 known-gaps:
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No lobbying disclosure data
+  - No mapped relationships
 subawards-issued: 2
 subawards-issued-amount: 4556712
 subawards-received: 2
 subawards-received-amount: 4556712
-top-federal-agency: "Department of the Interior"
+top-federal-agency: Department of the Interior
 top-naics-code: "561210"
 related: "[[GEO Group]] · [[CoreCivic]] · [[CCPOA - California Correctional Peace Officers Association]] · [[Securus Technologies - Aventiv]] · [[ViaPath Technologies - GTL]] · [[CoreCivic - Private Prisons]] · [[GEO Group - Private Prisons]]"
 epa-facilities: 13
-epa-states: "CA, FL, MA, MN, NV, OR, RI"
+epa-states: CA, FL, MA, MN, NV, OR, RI
 federal-contracts: 16
 employee-contributions: 3078
 employee-contributions-total: 143169
 employee-donor-count: 379
+politicians-funded: "[[National Rifle Association]], [[DCCC - Democratic Congressional Campaign Committee]], [[RNC - Republican National Committee]], [[ActBlue]], [[MoveOn.org Political Action]], [[JUSTICE DEMOCRATS PAC]], [[_Nancy Pelosi Master Profile]], [[NRCC - National Republican Congressional Committee]], [[DSCC - Democratic Senatorial Campaign Committee]], [[CHC BOLD PAC]], [[NRSC - National Republican Senatorial Committee]], [[Progressive Turnout Project]], [[MAGA Inc]], [[_Ted Cruz Master Profile]], [[Human Rights Campaign Equality Votes]], [[_Jon Ossoff Master Profile]], [[Mark Kelly]], [[_Christian D. Menefee Master Profile]], [[National Restaurant Association]], [[The Lincoln Project]], [[WinRed]], [[Hmp]], [[Emily's List]], [[Bob Casey]], [[WinSenate]], [[_Josh Hawley Master Profile]], [[National Victory Action Fund]], [[DNC - Democratic National Committee]], [[Chris Christie]], [[Jon Ossoff]], [[Christian D. Menefee]], [[Ted Cruz]], [[Nancy Pelosi]], [[Josh Hawley]]"
 ---
 
 
@@ -425,3 +426,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 - ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F276727955_202312_990O_2024061722529605.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Aramark%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 7 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | $1.6M |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

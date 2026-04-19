@@ -1,45 +1,44 @@
 ---
-title: "Cigna Group"
+title: Cigna Group
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Healthcare"
-entity-type: "Corporation"
+sector: Healthcare
+entity-type: Corporation
 issues:
-  - "Healthcare"
+  - Healthcare
 federal-register-mentions: 1
 last-enriched: "2026-04-10"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 regulatory-agencies:
-  - "Federal Trade Commission"
-lei: "549300VIWYMSIGT1U456"
-lei-jurisdiction: "US-DE"
+  - Federal Trade Commission
+lei: 549300VIWYMSIGT1U456
+lei-jurisdiction: US-DE
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 related: "[[Johnson & Johnson]] · [[The Insurance Industry Public Option Kill]] · [[Tenet Healthcare]] · [[Blue Cross Blue Shield Association]] · [[UnitedHealth Group - Optum]] · [[Anthem - Elevance Health]] · [[Blue Shield of California]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[PhRMA]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[Palantir Technologies]] · [[Kaiser Permanente]] · [[Humana]] · [[Hospital Corporation of America - HCA]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]] · [[Civica Rx]] · [[CVS Health - Aetna]] · [[Anthem - Elevance Health Political Operation]] · [[Uber]] · [[Lyft]] · [[Instacart]] · [[Flex Association]] · [[DoorDash]] · [[Airbnb]] · [[WSPA - Western States Petroleum Association]] · [[Valero Energy]] · [[Southern Company]] · [[PG&E]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[NextEra Energy]] · [[Marathon Petroleum]] · [[Koch Industries]] · [[Hawaiian Electric Company]] · [[Halliburton]] · [[Fossil Fuel Bloc]] · [[ExxonMobil]] · [[Duke Energy]] · [[Devon Energy]] · [[ConocoPhillips]] · [[Chevron]]"
 court-cases: 1995
 court-jurisdictions:
-  - "District Court, D. Connecticut"
-  - "District Court, D. Delaware"
-  - "District Court, D. New Jersey"
-  - "District Court, D. Oregon"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. Missouri"
-  - "District Court, N.D. Illinois"
-  - "District Court, S.D. New York"
-  - "District Court, W.D. Texas"
+  - District Court, D. Connecticut
+  - District Court, D. Delaware
+  - District Court, D. New Jersey
+  - District Court, D. Oregon
+  - District Court, District of Columbia
+  - District Court, E.D. Missouri
+  - District Court, N.D. Illinois
+  - District Court, S.D. New York
+  - District Court, W.D. Texas
 cross-vault-triangulation-count: 11
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 2
-epa-states: "CT"
+epa-states: CT
 employee-contributions: 8269
 employee-contributions-total: 1009194
 employee-donor-count: 1246
+politicians-funded: "[[_Susie Lee Master Profile]], [[J Street]], [[Really American Pac]], [[Progressive Turnout Project]], [[Human Rights Campaign Equality Votes]], [[DCCC - Democratic Congressional Campaign Committee]], [[Mark Kelly]], [[Giffords PAC]], [[The Lincoln Project]], [[_Ron Johnson Master Profile]], [[_Jeff Hurd Master Profile]], [[_Angie Craig Master Profile]], [[ActBlue]], [[REPUBLICAN PARTY OF FLORIDA]], [[_Jon Ossoff Master Profile]], [[MoveOn.org Political Action]], [[_Tammy Baldwin Master Profile]], [[_Julie Johnson Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[RNC - Republican National Committee]], [[CHC BOLD PAC]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Lauren Underwood Master Profile]], [[Hmp]], [[_Chris Pappas Master Profile]], [[_George Whitesides Master Profile]], [[Let America Vote PAC]], [[_Jason Crow Master Profile]], [[_Ted Cruz Master Profile]], [[NRCC - National Republican Congressional Committee]], [[_John James Master Profile]], [[Planned Parenthood Votes]], [[_Cory Booker Master Profile]], [[Save America PAC]], [[Emily's List]], [[MAGA Inc]], [[_Marco Rubio Master Profile]], [[Catherine Cortez Masto]], [[_Nancy Pelosi Master Profile]], [[WinRed]], [[_Gabe Vasquez Master Profile]], [[_Jim Jordan Master Profile]], [[_Morgan McGarvey Master Profile]], [[_Robert Garcia Master Profile]], [[Bob Casey]], [[Trump Victory]], [[_Cori Bush Master Profile]], [[_Marcia Fudge Master Profile]], [[_Adam Gray Master Profile]], [[_Eric Burlison Master Profile]], [[_Ted Budd Master Profile]], [[_Jamie Raskin Master Profile]], [[_Lamonica McIver Master Profile]], [[WinSenate]], [[_Lauren Boebert Master Profile]], [[_Tim Scott Master Profile]], [[Congressional Leadership Fund]], [[National Rifle Association]], [[_Ann Wagner Master Profile]], [[Protecting Our Vote Pac]], [[_Scott Franklin Master Profile]], [[Winning for Women PAC]], [[Senate Conservatives Fund]], [[_Shontel Brown Master Profile]], [[_Melissa Bean Master Profile]], [[_Nellie Pou Master Profile]], [[Chris Christie]], [[_Josh Riley Master Profile]], [[Ted Cruz]], [[Tammy Baldwin]], [[Ron Johnson]], [[Jamie Raskin]], [[Josh Riley]], [[Ted Budd]], [[Jon Ossoff]], [[John James]], [[Jeff Hurd]], [[George Whitesides]], [[Adam Gray]], [[Melissa Bean]], [[Gabe Vasquez]], [[Lauren Boebert]], [[Tim Scott]], [[Cory Booker]], [[Jim Jordan]], [[Scott Franklin]], [[Nellie Pou]], [[Lauren Underwood]], [[Shontel Brown]], [[Lamonica McIver]], [[Angie Craig]], [[Robert Garcia]], [[Susie Lee]], [[Eric Burlison]], [[Cori Bush]], [[Jason Crow]], [[Nancy Pelosi]], [[Marcia Fudge]], [[Marco Rubio]], [[Chris Pappas]], [[Morgan McGarvey]], [[Ann Wagner]], [[Julie Johnson]]"
 ---
 
 

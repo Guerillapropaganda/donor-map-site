@@ -53,12 +53,12 @@ wikidata-id: Q6285623
 wikipedia-url: https://en.wikipedia.org/wiki/Joseph_Morelle
 wikipedia-extract: Joseph D. Morelle is an American politician serving as the U.S. representative for New York's 25th congressional district since 2018.
 born: "1957-04-29"
-donors: "[[Together We Thrive]], [[Labor Unions]], [[Planned Parenthood Votes]], [[TOGETHER WE THRIVE]], [[NEA ADVOCACY FUND]], [[OPPORTUNITY FOR ALL ACTION FUND]], [[Congressional Leadership Fund]], [[Opportunity for All Action Fund]], [[NEA Advocacy Fund]]"
+donors: "[[Together We Thrive]], [[Labor Unions]], [[Planned Parenthood Votes]], [[TOGETHER WE THRIVE]], [[NEA ADVOCACY FUND]], [[OPPORTUNITY FOR ALL ACTION FUND]], [[Congressional Leadership Fund]], [[Opportunity for All Action Fund]], [[NEA Advocacy Fund]], [[Progressive Turnout Project]], [[AIPAC - American Israel Public Affairs Committee]], [[DMFI - Democratic Majority for Israel]], [[Paul Tonko]], [[Ford Motor Company]], [[National Association of Realtors]], [[American Hospital Association PAC]], [[National Restaurant Association]], [[American Gaming Association]], [[American Federation of State County & Municipal Employees P E O P L E]], [[General Dynamics]], [[Microsoft]], [[Bank of America]], [[J Street]], [[National Multifamily Housing Council]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Anthem - Elevance Health]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[National Committee to Preserve Social Security PAC]], [[Adriano Espaillat]], [[SEIU COPE]], [[Pfizer Inc.]], [[NextEra Energy]], [[AbbVie]], [[Honeywell]], [[General Motors]], [[Citigroup]], [[Ted Lieu]], [[Human Rights Campaign Equality Votes]], [[Teamsters - International Brotherhood of Teamsters]], [[L3Harris Technologies]], [[Google - Alphabet]], [[Let America Vote PAC]], [[National Association of Manufacturers]], [[Northrop Grumman]], [[Comcast - NBCUniversal]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Congressional Progressive Caucus PAC]], [[Tzedek PAC]], [[Lockheed Martin]], [[Walmart - Walton Family]], [[UA Political Action Committee]], [[NEA Fund for Children and Public Education]], [[Pete Aguilar]], [[BAE Systems]], [[IBEW - International Brotherhood of Electrical Workers]], [[Jamie Raskin]], [[AT&T - WarnerMedia]], [[ENVIRONMENT AMERICA INC]], [[Mark DeSaulnier]], [[Raytheon (RTX)]], [[Planned Parenthood Action Fund INC]], [[Gilead Sciences]], [[Nancy Pelosi]], [[Leidos]], [[Joe Neguse]], [[CVS Health - Aetna]], [[League of Conservation Voters]], [[Unite Here Tip Campaign Committee]], [[DCCC - Democratic Congressional Campaign Committee]]"
 bills-sponsored: 131
 bills-cosponsored: 1815
 bills-enacted: 0
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "Health"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: Health
 ---
 
 

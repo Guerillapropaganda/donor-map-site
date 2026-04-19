@@ -2,7 +2,7 @@
 title: American Petroleum Institute
 type: donor
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Energy & Utilities
@@ -23,7 +23,7 @@ total-revenue: 268010806
 total-assets: 109879063
 related: "[[Petrochemical Industry Bloc]] · [[The Energy Committee and Alaska Oil Dependency]] · [[The EPA Demolition - Pruitt to Wheeler to Zeldin]] · [[Environment - Donors and Backers]] · [[The Oversight Chair and the Investigation Theater]] · [[John Hickenlooper]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Jim Inhofe]] · [[Lauren Boebert]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[Republican Party Apparatus]] · [[Ron Johnson]] · [[John Barrasso]] · [[Steve Scalise]] · [[Bruce Westerman]] · [[ExxonMobil]] · [[Chevron]] · [[Koch Network - Charles Koch|Koch network]] · [[Americans for Prosperity|AFP]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[Better Jobs Together]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[Western States Petroleum Association]] · [[Trump Donor Coalition]] · [[American Action Network]] · [[National Association of Manufacturers]] · [[American Gaming Association]] · [[American Iron and Steel Institute]] · [[Defense Contractors Bloc]] · [[DeVos Family]] · [[Walton Family Foundation]] · [[Insurance Industry]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Haim Saban]] · [[Kelcy Warren - Energy Transfer Partners]] · [[Henry Cuellar]] · [[Mike Johnson]] · [[Martin Heinrich]] · [[Valero Energy]] · [[ConocoPhillips]] · [[National Education Association]] · [[American Federation for Children]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[The 85 Fund]] · [[Stand Together]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Healthcare Sector]] · [[HBW Resources]] · [[House Freedom Caucus]] · [[Federalist Society]] · [[Donors Capital Fund]] · [[Council for National Policy]] · [[Conservative Partnership Institute]] · [[Concerned Veterans for America]] · [[Business Roundtable]] · [[Bradley Impact Fund]] · [[Bradley Foundation]] · [[American Enterprise Institute]] · [[America First Policy Institute]] · [[Alliance Defending Freedom]] · [[National Cattlemen's Beef Association]]"
 total-political-spend: $24,891,220
-politicians-funded: "[[Bruce Westerman]], [[Martin Heinrich]], [[John Barrasso]], [[Mike Johnson]], [[John Hickenlooper]], [[Henry Cuellar]], [[Kevin McCarthy]], [[Steve Scalise]], [[Ron Johnson]]"
+politicians-funded: "[[Bruce Westerman]], [[Martin Heinrich]], [[John Barrasso]], [[Mike Johnson]], [[John Hickenlooper]], [[Henry Cuellar]], [[Kevin McCarthy]], [[Steve Scalise]], [[Ron Johnson]], [[_Adrian Smith Master Profile]], [[_Lisa Blunt Rochester Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[WinRed]], [[ActBlue]], [[_Pete Ricketts Master Profile]], [[One Nation]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Marco Rubio Master Profile]], [[_Mike Haridopolos Master Profile]], [[Trump Victory]], [[_August Pfluger Master Profile]], [[_Jon Ossoff Master Profile]], [[_Ted Cruz Master Profile]], [[Emily's List]], [[_Tim Scott Master Profile]], [[American Enterprise Institute]], [[_Debbie Wasserman Schultz Master Profile]], [[Bernie Moreno]], [[Adrian Smith]], [[Tim Scott]], [[Debbie Wasserman Schultz]], [[Pete Ricketts]], [[Ted Cruz]], [[Jon Ossoff]], [[Marco Rubio]], [[Lisa Blunt Rochester]], [[August Pfluger]], [[Mike Haridopolos]]"
 federal-register-mentions: 2501
 regulatory-agencies:
   - Commerce Department
@@ -888,3 +888,50 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/130433430/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/130433430/2019)~~ (URL broken, archived by Ops)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Petroleum%20Institute%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | $109.9M |
+| Grants paid out | $250K |
+
+**Lifetime grants out (2018–2024):** $17.5M across 138 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| PROTECTING COLORADO'S ENVIRONMENT ECONOMY AND ENERGY INDEPENDENCE | $3.7M | 1 | 2018 |
+| CLT HOST 2020 INC | $1.5M | 1 | 2019 |
+| AMERICAN WORKERS FOR PROGRESS INC | $1.3M | 1 | 2019 |
+| ONE NATION | $1.1M | 3 | 2018–2019 |
+| OHIOANS AGAINST NUKE BAILOUTS | $975K | 1 | 2019 |
+| THE UNIVERSITY OF TEXAS AT AUSTIN | $810K | 2 | 2018–2019 |
+| TRADE WORKS FOR AMERICA | $550K | 1 | 2019 |
+| OHIOANS AGAINST CORPORATE BAILOUTS | $500K | 1 | 2019 |
+| GROUND WATER PROTECTION COUNCIL | $400K | 1 | 2019 |
+| OHIO GROWTH PARTNERSHIP - MAHONING VALLEY JOBS AND GROWTH COALITION | $386K | 1 | 2018 |
+| CITIZENS TO PROTECT PENNSYLVANIA JOBS | $382K | 3 | 2018–2019 |
+| NEW MEXICO OIL AND GAS ASSOCIATION (NMOGA) | $310K | 1 | 2019 |
+| OIL &amp; NATURAL GAS INDUSTRY LABOR-MANAGEMENT COMMITTE | $295K | 1 | 2019 |
+| REPUBLICAN GOVERNOR'S ASSOCIATION | $250K | 3 | 2018–2019 |
+| COLORADO PETROLEUM COUNCIL COMMITTEE | $237K | 1 | 2019 |
+| STRONGER | $210K | 2 | 2018–2019 |
+| CONGRESSIONAL BLACK CAUCUS FOUNDATION INC | $200K | 2 | 2018–2019 |
+| INDEPENDENT PETROLEUM ASSOCIATION OF AMERICA (IPAA) | $200K | 1 | 2019 |
+| COLORADO SCHOOL OF MINES | $180K | 2 | 2018–2019 |
+| BIPARTISAN POLICY CENTER | $150K | 3 | 2018–2020 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

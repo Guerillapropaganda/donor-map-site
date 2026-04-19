@@ -1,16 +1,16 @@
 ---
-title: "VIEW PAC - Value in Electing Women"
+title: VIEW PAC - Value in Electing Women
 type: donor
 content-readiness: raw
 editorial-status: stub
-sector: "Political Committees"
-entity-type: "PAC"
-last-updated: 2026-04-14
+sector: Political Committees
+entity-type: PAC
+last-updated: 2026-04-14T00:00:00.000Z
 source-tier: 1
 aliases:
-  - "VALUE IN ELECTING WOMEN POLITICAL ACTION COMMITTEE"
+  - VALUE IN ELECTING WOMEN POLITICAL ACTION COMMITTEE
 known-gaps:
-  - "Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis."
+  - Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis.
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -20,6 +20,7 @@ total-spent: 565331
 cash-on-hand: 65719
 individual-contributions: 52175
 contributions-to-committees: 315000
+politicians-funded: "[[Deb Fischer]], [[Marsha Blackburn]], [[Lisa Murkowski]], [[Diana Harshbarger]], [[Kat Cammack]], [[Nancy Mace]], [[Elise Stefanik]], [[Victoria Spartz]], [[Claudia Tenney]], [[Monica de la Cruz]], [[Katie Britt]], [[Maria Elvira Salazar]], [[Young Kim]], [[Michelle Fischbach]], [[Celeste Maloy]], [[Joni Ernst]], [[Cindy Hyde-Smith]], [[Shelley Moore Capito]], [[Ashley Hinson]], [[Sheri Biggs]], [[Marjorie Taylor Greene]], [[Kay Granger]], [[Erin Houchin]], [[Julie Fedorchak]], [[Nicole Malliotakis]], [[Ashley Moody]], [[Ann Wagner]], [[Virginia Foxx]], [[Susan Collins]]"
 ---
 
 

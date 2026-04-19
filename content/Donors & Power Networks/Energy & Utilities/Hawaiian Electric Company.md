@@ -1,63 +1,62 @@
 ---
-title: "Hawaiian Electric Company"
+title: Hawaiian Electric Company
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Energy & Utilities"
-entity-type: "Corporation"
+sector: Energy & Utilities
+entity-type: Corporation
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-10"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 ein: "990230697"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 total-revenue: 240019
 total-assets: 47470
-top-federal-agency: "Department of Defense"
+top-federal-agency: Department of Defense
 top-naics-code: "221122"
-lei: "549300PQE8D806LWQV52"
-lei-jurisdiction: "US-HI"
-lei-parent: "HAWAIIAN ELECTRIC INDUSTRIES, INC."
+lei: 549300PQE8D806LWQV52
+lei-jurisdiction: US-HI
+lei-parent: HAWAIIAN ELECTRIC INDUSTRIES, INC.
 related: "[[The Maui Wildfire Response and the Rebuilding Money Trail]] · [[Josh Green Master Profile]] · [[PG&E - Pacific Gas and Electric]] · [[UnitedHealth Group - Optum]] · [[Novo Nordisk]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Moderna]] · [[Merck]] · [[Johnson & Johnson]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]]"
 federal-register-mentions: 25
 regulatory-agencies:
-  - "Antitrust Division"
-  - "Army Department"
-  - "Coast Guard"
-  - "Defense Department"
-  - "Energy Department"
-  - "Environmental Protection Agency"
-  - "Federal Energy Regulatory Commission"
-  - "Fish and Wildlife Service"
-  - "Homeland Security Department"
-  - "Interior Department"
+  - Antitrust Division
+  - Army Department
+  - Coast Guard
+  - Defense Department
+  - Energy Department
+  - Environmental Protection Agency
+  - Federal Energy Regulatory Commission
+  - Fish and Wildlife Service
+  - Homeland Security Department
+  - Interior Department
 court-cases: 218
 court-jurisdictions:
-  - "Court of Appeals for the Ninth Circuit"
-  - "District Court, D. Hawaii"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Ohio"
-  - "District Court, S.D. Florida"
-  - "District Court, S.D. New York"
-  - "District Court, W.D. Washington"
-  - "United States Bankruptcy Court, D. Delaware"
-  - "United States Bankruptcy Court, D. Hawaii"
+  - Court of Appeals for the Ninth Circuit
+  - District Court, D. Hawaii
+  - District Court, N.D. California
+  - District Court, N.D. Ohio
+  - District Court, S.D. Florida
+  - District Court, S.D. New York
+  - District Court, W.D. Washington
+  - United States Bankruptcy Court, D. Delaware
+  - United States Bankruptcy Court, D. Hawaii
 federal-awards-total: 22818802
 federal-contracts-count: 15
 federal-grants-count: 1
 cross-vault-triangulation-count: 1
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 2
-epa-states: "HI"
+epa-states: HI
 federal-contracts: 59
 employee-contributions: 1567
 employee-contributions-total: 53359
 employee-donor-count: 64
+politicians-funded: "[[RNC - Republican National Committee]], [[MAGA Inc]], [[_Marco Rubio Master Profile]], [[_Tim Scott Master Profile]], [[Mark Kelly]], [[_Ted Cruz Master Profile]], [[WinRed]], [[NRCC - National Republican Congressional Committee]], [[_Jake Ellzey Master Profile]], [[ActBlue]], [[DSCC - Democratic Senatorial Campaign Committee]], [[NRSC - National Republican Senatorial Committee]], [[_Ron Johnson Master Profile]], [[_Tony Gonzales Master Profile]], [[Trump Victory]], [[Ted Cruz]], [[Tony Gonzales]], [[Marco Rubio]], [[Jake Ellzey]], [[Tim Scott]], [[Ron Johnson]]"
 ---
 
 
@@ -312,3 +311,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/990230697/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/990230697/2019)~~ (URL broken, archived by Ops)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Hawaiian%20Electric%20Company%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 4 (2020–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $240K |
+| Total expenses | — |
+| Total assets (EOY) | $47K |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

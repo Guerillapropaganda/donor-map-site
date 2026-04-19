@@ -1,21 +1,21 @@
 ---
-title: "Ripple"
+title: Ripple
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-09T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Tech & Crypto"
-entity-type: "Corporation"
+sector: Tech & Crypto
+entity-type: Corporation
 issues:
-  - "Technology"
+  - Technology
 lobbying-spend: 3170000
 lobbying-filings: 38
 subawards-issued: 30
 subawards-issued-amount: 14071246
 subawards-received: 30
 subawards-received-amount: 14071246
-top-federal-agency: "Department of Health and Human Services"
+top-federal-agency: Department of Health and Human Services
 top-naics-code: "541611"
 related: "[[Crypto PAC Regulatory Capture - Fairshake 2026]] · [[Crypto and Tech - Donors and Backers]]"
 federal-awards-total: 4528360
@@ -25,25 +25,26 @@ federal-contracts: "438"
 court-cases: 7521
 last-enriched: "2026-04-09"
 court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "Court of Appeals for the Third Circuit"
-  - "District Court, D. Guam"
-  - "District Court, D. New Jersey"
-  - "District Court, D. South Carolina"
-  - "District Court, E.D. New York"
-  - "District Court, E.D. Texas"
-  - "District Court, N.D. California"
-  - "District Court, S.D. New York"
-  - "District Court, W.D. Texas"
+  - Court of Appeals for the D.C. Circuit
+  - Court of Appeals for the Third Circuit
+  - District Court, D. Guam
+  - District Court, D. New Jersey
+  - District Court, D. South Carolina
+  - District Court, E.D. New York
+  - District Court, E.D. Texas
+  - District Court, N.D. California
+  - District Court, S.D. New York
+  - District Court, W.D. Texas
 cross-vault-triangulation-count: 2
 audit-a-plus-passed: "2026-04-11"
 aliases:
-  - "Ripple Labs"
-  - "Ripple Labs Inc"
+  - Ripple Labs
+  - Ripple Labs Inc
 urls-first-triaged: "2026-04-15"
 employee-contributions: 482
 employee-contributions-total: 16199458
 employee-donor-count: 144
+politicians-funded: "[[_Alex Padilla Master Profile]], [[WinRed]], [[_Kevin Kiley Master Profile]], [[MoveOn.org Political Action]], [[Mark Kelly]], [[_Scott Wiener Master Profile]], [[NRCC - National Republican Congressional Committee]], [[_Joe Neguse Master Profile]], [[Equality California Votes]], [[_Darren Soto Master Profile]], [[_Cory Booker Master Profile]], [[ActBlue]], [[_Jon Ossoff Master Profile]], [[Hmp]], [[_Lauren Underwood Master Profile]], [[_Tim Scott Master Profile]], [[_Angie Craig Master Profile]], [[_Dan Newhouse Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Jake Auchincloss Master Profile]], [[Bernie Moreno]], [[314 ACTION FUND]], [[_Bill Foster Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[SLF PAC]], [[_David Scott Master Profile]], [[_Adam Gray Master Profile]], [[_Josh Harder Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[_George Whitesides Master Profile]], [[_Andy Barr Master Profile]], [[_Sara Jacobs Master Profile]], [[Fairshake PAC]], [[_Ron Johnson Master Profile]], [[CHC BOLD PAC]], [[George Whitesides]], [[Kevin Kiley]], [[Sara Jacobs]], [[Tim Scott]], [[Josh Harder]], [[David Scott]], [[Joe Neguse]], [[Cory Booker]], [[Alex Padilla]], [[Jon Ossoff]], [[Andy Barr]], [[Scott Wiener]], [[Jake Auchincloss]], [[Lauren Underwood]], [[Angie Craig]], [[Adam Gray]], [[Ron Johnson]], [[Dan Newhouse]], [[Bill Foster]], [[Darren Soto]]"
 ---
 
 

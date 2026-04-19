@@ -3,7 +3,7 @@ title: John Hickenlooper
 type: politician
 content-readiness: ready
 central-thesis: Hickenlooper is the fossil fuel industry's preferred kind of Democrat , one who speaks the language of environmental concern while protecting the industry's operating space. As Colorado governor, he was the state's top recipient of oil and gas cam...
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Democrat
@@ -39,7 +39,7 @@ reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified)
 known-gaps:
   - No voting record data
   - No mapped relationships
-donors: "[[NORPAC]] · [[Brownstein Hyatt Farber Schreck]] · [[FAIR SHARE ACTION]] · [[SMP]] · [[American Petroleum Institute]] · [[Fossil Fuel Bloc]] · [[Fair Share Action]] · [[ESAFUND]]"
+donors: "[[NORPAC]] · [[Brownstein Hyatt Farber Schreck]] · [[FAIR SHARE ACTION]] · [[SMP]] · [[American Petroleum Institute]] · [[Fossil Fuel Bloc]] · [[Fair Share Action]] · [[ESAFUND]] · [[Mark Kelly]] · [[Performance Racing Inc.]] · [[League of Conservation Voters]] · [[DSCC - Democratic Senatorial Campaign Committee]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[NEA Fund for Children and Public Education]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[Planned Parenthood Votes]] · [[American Hospital Association PAC]] · [[SEIU COPE]] · [[Care Action]] · [[AT&T - WarnerMedia]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[National Multifamily Housing Council]] · [[American College of Radiology Association PAC]] · [[314 ACTION FUND]] · [[National Association of Manufacturers]] · [[Teamsters - International Brotherhood of Teamsters]] · [[J Street]] · [[American Gaming Association]] · [[Giffords PAC]] · [[National Association of Realtors]]"
 related: "[[Fossil Fuel Bloc]] · [[American Petroleum Institute]] · [[Silicon Valley Democratic Donor Network]] · [[_Michael Bennet Master Profile|Michael Bennet]] · [[Brownstein Hyatt Farber Schreck]] · [[Senate Leadership Fund]]"
 govtrack-id: 456797
 bills-sponsored: 225
@@ -64,8 +64,8 @@ internal-notes: |-
   [MANUAL 2026-04-11] Bioguide recovered: H000273. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
   [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided.
 bills-enacted: 0
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "Health"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: Health
 ---
 
 

@@ -3,7 +3,7 @@ title: Bernie Sanders
 type: politician
 content-readiness: ready
 central-thesis: "Sanders is the vault's exception , the politician who built a funding model independent of the donor class and ran it at presidential scale. Twice. The exception proves the rule: the institutional Democratic Party mobilized every available mechani..."
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Independent
@@ -55,13 +55,13 @@ editorial-reviewer: Research Claude
 editorial-result: ready-candidate
 editorial-notes: "Depth review 2026-04-10. BODY IS EXCEPTIONAL , arguably the strongest class analysis narrative in the vault. 'Exception that proves the rule' framing is the vault's canonical anti-donor case study. Four analytical patterns documented (Small-Dollar Model + Structural Limit, Two-Audience Problem / Sheepdog Function, ActBlue Dependency, Billionaire-Class vs Party-as-Institution Villain Framing). Body not touched in this pass. FIXED (Research Claude): party Democrat→Independent with caucus: Democratic (he's the longest-serving Independent in Congress, this was a factual error), added bioguide-id S000033 (enables Congress pipeline), expanded issues list from 1 to 9 entries, added committees + former-committees (HELP Ranking Member, Budget Chair 118th), expanded top-donors to include small-dollar model, structured opposes field, expanded related wikilinks to include Squad members and anti-donor coalition, cleaned known-gaps (removed factually-wrong 'No mapped relationships' , 17 wikilinks exist). REMOVED: body inline dataview 'donors: [[...]]' line per frontmatter-only rule. REMOVED: body inline dataview 'research-status:: ready' line. REMOVED: double '---' separator artifact. STAYS draft per tightened Vault Rules: known-gaps explicitly cite missing Congress.gov + GovTrack pipeline data, and stale FEC auto-block (shows 2006 cycle). Cannot promote to ready until pipeline repopulates with correct bioguide-driven enrichment. Flagged needs-reenrichment: true so next pipeline run picks him up. Once clean data lands, re-review for verified-candidate flag."
 last-enriched: "2026-04-11"
-donors: "[[Senate Majority PAC]] · [[Pharmaceutical Industry]] · [[Democratic Small Dollar Networks]] · [[J Street]] · [[Small Dollar Donors - ActBlue]] · [[National Nurses United]] · [[Mohammed bin Salman]] · [[INTERNATIONAL LONGSHORE AND WAREHOUSE UNION -- POLITICAL ACTION FUND]] · [[INTERNATIONAL ASSOCIATION OF FIREFIGHTERS INTERESTED IN REGISTRATION AND EDUCATION PAC]] · [[PUTTING PEOPLE FIRST POLITICAL ACTION COMMITTEE]] · [[NRA Political Victory Fund]] · [[International Longshore and Warehouse Union -- Political Action Fund]]"
+donors: "[[Senate Majority PAC]] · [[Pharmaceutical Industry]] · [[Democratic Small Dollar Networks]] · [[J Street]] · [[Small Dollar Donors - ActBlue]] · [[National Nurses United]] · [[Mohammed bin Salman]] · [[INTERNATIONAL LONGSHORE AND WAREHOUSE UNION -- POLITICAL ACTION FUND]] · [[INTERNATIONAL ASSOCIATION OF FIREFIGHTERS INTERESTED IN REGISTRATION AND EDUCATION PAC]] · [[PUTTING PEOPLE FIRST POLITICAL ACTION COMMITTEE]] · [[NRA Political Victory Fund]] · [[International Longshore and Warehouse Union -- Political Action Fund]] · [[Let America Vote PAC]] · [[Everytown for Gun Safety]] · [[Sierra Club Political Committee]] · [[SEIU COPE]] · [[NEA Fund for Children and Public Education]] · [[Teamsters - International Brotherhood of Teamsters]] · [[League of Conservation Voters]] · [[Courage to Change PAC]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[American Federation of State County & Municipal Employees P E O P L E]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 1164
 bills-cosponsored: 7839
 bills-enacted: 0
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "Health"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: Health
 ---
 
 

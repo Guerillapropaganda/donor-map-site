@@ -2,7 +2,7 @@
 title: Koch Network - Charles Koch
 type: donor
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 aliases:
   - Koch Network
   - Koch Brothers
@@ -14,7 +14,7 @@ source-tier: 1
 parent: null
 sector: Mega-Donors
 entity-type: Individual Donor
-politicians-funded: "[[Chris Wright]], [[Samuel Alito]], [[Lex Fridman]], [[Mike Rogers]], [[Tim Scott]], [[John Roberts]], [[Mike Pompeo]], [[Greg Abbott]], [[Gavin Newsom]], [[Josh Hawley]], [[John Cornyn]], [[Rand Paul]], [[Lee Zeldin]], [[Clarence Thomas]], [[Doug Burgum]], [[Thom Tillis]], [[Bill Cassidy]], [[Neil Gorsuch]], [[Ron DeSantis]], [[Jim Jordan]], [[Mike Crapo]], [[Dave Rubin]], [[Mitch McConnell]], [[Ted Cruz]], [[Joni Ernst]], [[Donald Trump]], [[Nikki Haley]]"
+politicians-funded: "[[Chris Wright]], [[Samuel Alito]], [[Lex Fridman]], [[Mike Rogers]], [[Tim Scott]], [[John Roberts]], [[Mike Pompeo]], [[Greg Abbott]], [[Gavin Newsom]], [[Josh Hawley]], [[John Cornyn]], [[Rand Paul]], [[Lee Zeldin]], [[Clarence Thomas]], [[Doug Burgum]], [[Thom Tillis]], [[Bill Cassidy]], [[Neil Gorsuch]], [[Ron DeSantis]], [[Jim Jordan]], [[Mike Crapo]], [[Dave Rubin]], [[Mitch McConnell]], [[Ted Cruz]], [[Joni Ernst]], [[Donald Trump]], [[Nikki Haley]], [[ActBlue]], [[Trump Victory]], [[_Tom Barrett Master Profile]], [[Courage to Change PAC]], [[Michigan Republican Party]], [[RNC - Republican National Committee]], [[WinRed]], [[_Ron Johnson Master Profile]], [[_Matt van Epps Master Profile]], [[Americans for Prosperity]], [[_Jeff Crank Master Profile]], [[Senate Conservatives Fund]], [[JUSTICE DEMOCRATS PAC]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Eric Burlison Master Profile]], [[Progressive Turnout Project]], [[MISSISSIPPI REPUBLICAN PARTY]], [[NRCC - National Republican Congressional Committee]], [[_Andy Barr Master Profile]], [[MAGA Inc]], [[Tom Barrett]], [[Ron Johnson]], [[Andy Barr]], [[Matt van Epps]], [[Eric Burlison]], [[Jeff Crank]]"
 featured-date: "2026-04-17"
 spotlight-reason: Highest ROI in the database , $2.9M to McConnell returned $1.9T in tax cuts (655,172x). Dark money network spanning think tanks, PACs, and media.
 shareable-stat: $2.9M donated. $1.9T in tax cuts. 655,172x return.

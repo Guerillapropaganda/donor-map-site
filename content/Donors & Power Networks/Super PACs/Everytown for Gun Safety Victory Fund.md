@@ -1,17 +1,17 @@
 ---
-title: "Everytown for Gun Safety Victory Fund"
+title: Everytown for Gun Safety Victory Fund
 type: donor
 content-readiness: raw
 editorial-status: stub
-sector: "Political Committees"
-entity-type: "PAC"
-last-updated: 2026-04-15
+sector: Political Committees
+entity-type: PAC
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00688655
 aliases:
-  - "EVERYTOWN FOR GUN SAFETY VICTORY FUND (EVERYTOWN VICTORY FUND)"
+  - EVERYTOWN FOR GUN SAFETY VICTORY FUND (EVERYTOWN VICTORY FUND)
 known-gaps:
-  - "Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis."
+  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -20,6 +20,7 @@ total-raised: 6860391
 total-spent: 3231835
 cash-on-hand: 7248398
 individual-contributions: 6715401
+politicians-funded: "[[Laura Gillen]], [[Dave Min]], [[Derek Tran]], [[Tammy Baldwin]], [[Kamala Harris]], [[Ken Calvert]], [[Lauren Boebert]], [[Raphael Warnock]], [[George Whitesides]], [[Josh Riley]], [[Jacky Rosen]], [[Ruben Gallego]], [[Ron Johnson]], [[Mark Kelly]], [[Marjorie Taylor Greene]], [[John Fetterman]], [[Elissa Slotkin]], [[Jon Ossoff]], [[Patrick Ryan]], [[Catherine Cortez Masto]], [[Donald Trump]]"
 ---
 
 

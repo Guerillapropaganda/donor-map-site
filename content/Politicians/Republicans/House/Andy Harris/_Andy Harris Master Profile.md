@@ -1,34 +1,34 @@
 ---
-title: "Andy Harris"
+title: Andy Harris
 type: politician
 content-readiness: raw
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Maryland"
-state-abbr: "MD"
+party: Republican
+chamber: House
+state: Maryland
+state-abbr: MD
 district: "1"
-bioguide-id: "H001052"
+bioguide-id: H001052
 govtrack-id: 412434
 born: "1957-01-25"
-wikidata-id: "Q506639"
-website: "https://harris.house.gov"
-phone: "202-225-5311"
+wikidata-id: Q506639
+website: https://harris.house.gov
+phone: 202-225-5311
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
-donors: "[[House Freedom Caucus]]"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
+donors: "[[House Freedom Caucus]], [[Sinclair Broadcasting Group]], [[Verizon]], [[Northrop Grumman]], [[FTX - Sam Bankman-Fried]], [[Bank of America]], [[Monsanto - Bayer]], [[Blackstone Group]], [[Honeywell International]]"
 related: "[[House Freedom Caucus]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 2
 bills-cosponsored: 218
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
 ---
 
 

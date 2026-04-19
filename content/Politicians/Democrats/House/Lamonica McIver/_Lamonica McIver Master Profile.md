@@ -1,33 +1,34 @@
 ---
-title: "Lamonica McIver"
+title: Lamonica McIver
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "New Jersey"
-state-abbr: "NJ"
+party: Democrat
+chamber: House
+state: New Jersey
+state-abbr: NJ
 district: "10"
-bioguide-id: "M001229"
+bioguide-id: M001229
 govtrack-id: 456962
 born: "1986-06-20"
-wikidata-id: "Q130323710"
-website: "https://mciver.house.gov"
-phone: "202-225-3436"
+wikidata-id: Q130323710
+website: https://mciver.house.gov
+phone: 202-225-3436
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H4NJ10176"
+fec-candidate-id: H4NJ10176
 bills-sponsored: 1
 bills-cosponsored: 55
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Mark Takano]], [[American Hospital Association PAC]], [[National Association of Realtors]], [[Comcast - NBCUniversal]], [[SEIU COPE]], [[AbbVie]], [[General Motors]], [[Sierra Club Independent Action]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Johnson & Johnson]], [[Medicare for All - The Policy That Broke the Party]], [[Northrop Grumman]], [[NEA Fund for Children and Public Education]], [[National Committee to Preserve Social Security PAC]], [[Congressional Progressive Caucus PAC]], [[Anthem - Elevance Health]], [[Walmart - Walton Family]], [[League of Conservation Voters]], [[Ted Lieu]], [[Chrissy Houlahan]], [[iHeartMedia]], [[Pete Aguilar]], [[Let America Vote PAC]], [[Teamsters - International Brotherhood of Teamsters]], [[Gabe Amo]], [[Nancy Pelosi]], [[Morgan McGarvey]], [[Bonnie Watson Coleman]], [[Amgen Inc]], [[Coinbase]], [[Google - Alphabet]], [[Novo Nordisk]], [[Morgan Stanley]], [[Cigna Group]], [[AT&T]]"
 ---
 
 

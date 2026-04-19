@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Labor Unions
 entity-type: Individual Donor
-politicians-funded: "[[Chad Bianco]]"
+politicians-funded: "[[Chad Bianco]], [[WinSenate]], [[ActBlue]], [[_John James Master Profile]], [[RNC - Republican National Committee]], [[Senate Conservatives Fund]], [[MoveOn.org Political Action]], [[_Shontel Brown Master Profile]], [[_Mark Takano Master Profile]], [[_Ron Johnson Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[NRSC - National Republican Senatorial Committee]], [[_Josh Hawley Master Profile]], [[The Sentinel Action Fund]], [[Progressive Turnout Project]], [[WinRed]], [[_Summer Lee Master Profile]], [[NRCC - National Republican Congressional Committee]], [[Mark Kelly]], [[_Tim Scott Master Profile]], [[Trump Victory]], [[The Lincoln Project]], [[MAGA Inc]], [[_Donna Miller Master Profile]], [[_Claudia Tenney Master Profile]], [[AIPAC - American Israel Public Affairs Committee]], [[Save America PAC]], [[Josh Hawley]], [[Tim Scott]], [[Mark Takano]], [[Claudia Tenney]], [[Ron Johnson]], [[Donna Miller]], [[Shontel Brown]], [[Summer Lee]], [[John James]]"
 related: "[[UFCW - United Food and Commercial Workers]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[IBEW California State Association]] · [[IBEW Local 477 - San Bernardino]] · [[_Chad Bianco Master Profile]] · [[Riverside Sheriffs Association]] · [[PORAC - Peace Officers Research Association of California]] · [[California Building and Construction Trades Council]]"
 last-enriched: "2026-04-09"
 needs-reenrichment: true

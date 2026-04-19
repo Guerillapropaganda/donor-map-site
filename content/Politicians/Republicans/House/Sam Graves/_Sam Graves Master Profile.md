@@ -27,12 +27,12 @@ known-gaps:
   - No mapped relationships
 related: "[[_Donald Trump Master Profile|Trump]]"
 top-donors: "[[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]] · [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]] · [[ASSOCIATED GENERAL CONTRACTORS OF AMERICA POLITICAL ACTION COMMITTEE]] · [[Associated General Contractors of America Political Action Committee]]"
-donors: "[[Associated General Contractors of America Political Action Committee]] · [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]] · [[ASSOCIATED GENERAL CONTRACTORS OF AMERICA POLITICAL ACTION COMMITTEE]] · [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]]"
+donors: "[[Associated General Contractors of America Political Action Committee]] · [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]] · [[ASSOCIATED GENERAL CONTRACTORS OF AMERICA POLITICAL ACTION COMMITTEE]] · [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]] · [[AT&T - WarnerMedia]] · [[Marathon Petroleum]] · [[Occidental Petroleum]] · [[General Dynamics]] · [[Honeywell]] · [[Valero Energy]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Nucor Corporation]] · [[Leidos]] · [[Northrop Grumman]] · [[Walmart - Walton Family]] · [[Ford Motor Company]] · [[American Hospital Association PAC]] · [[National Cattlemen's Beef Association]] · [[Chevron]] · [[National Multifamily Housing Council]] · [[L3Harris Technologies]] · [[Comcast - NBCUniversal]] · [[BAE Systems]] · [[Tyson Foods]] · [[National Rifle Association]] · [[Lockheed Martin]] · [[Performance Racing Inc.]] · [[WinRed]] · [[PG&E - Pacific Gas and Electric]] · [[National Association of Realtors]] · [[American Chemistry Council, INC]] · [[ConocoPhillips]] · [[Raytheon (RTX)]] · [[AIPAC - American Israel Public Affairs Committee]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[ADM - Archer Daniels Midland]] · [[General Motors]] · [[MAJORITY PAC]] · [[National Association of Manufacturers]] · [[Lyft]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 21
 bills-cosponsored: 127
 bills-enacted: 3
-top-policy-area: "Health"
+top-policy-area: Health
 ---
 
 

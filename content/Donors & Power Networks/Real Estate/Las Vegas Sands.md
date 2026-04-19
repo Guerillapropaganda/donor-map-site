@@ -1,75 +1,74 @@
 ---
-title: "Las Vegas Sands"
+title: Las Vegas Sands
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Real Estate"
-entity-type: "Corporation"
+sector: Real Estate
+entity-type: Corporation
 subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
 federal-contracts: "7149"
-lei: "549300DUOO1KXOHPM605"
-lei-jurisdiction: "US-NV"
+lei: 549300DUOO1KXOHPM605
+lei-jurisdiction: US-NV
 sec-filings: 10000
 sec-form-types:
-  - "10-K"
-  - "10-K/A"
-  - "10-Q"
+  - 10-K
+  - 10-K/A
+  - 10-Q
   - "144"
   - "4"
-  - "424B2"
-  - "424B4"
-  - "424B5"
-  - "8-K"
-  - "ARS"
-  - "CORRESP"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "EX-10.70"
-  - "EX-21.1"
-  - "EX-4"
-  - "EX-99"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "FWP"
-  - "S-1"
-  - "S-1/A"
-  - "S-4"
-  - "SC 13D/A"
-  - "SC 13G"
-  - "SC 13G/A"
-  - "SCHEDULE 13G/A"
+  - 424B2
+  - 424B4
+  - 424B5
+  - 8-K
+  - ARS
+  - CORRESP
+  - DEF 14A
+  - DEFA14A
+  - EX-10.70
+  - EX-21.1
+  - EX-4
+  - EX-99
+  - EX-99.1
+  - EX-99.2
+  - FWP
+  - S-1
+  - S-1/A
+  - S-4
+  - SC 13D/A
+  - SC 13G
+  - SC 13G/A
+  - SCHEDULE 13G/A
 related: "[[Catherine Cortez Masto]] · [[American Gaming Association]]"
 court-cases: 1929
 last-enriched: "2026-04-09"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 court-jurisdictions:
-  - "Court of Appeals for the Ninth Circuit"
-  - "District Court, C.D. California"
-  - "District Court, D. Minnesota"
-  - "District Court, D. Nevada"
-  - "District Court, D. Oregon"
-  - "District Court, E.D. New York"
-  - "District Court, S.D. California"
-  - "United States Bankruptcy Court, E.D. Washington"
-  - "United States Bankruptcy Court, S.D. Texas"
+  - Court of Appeals for the Ninth Circuit
+  - District Court, C.D. California
+  - District Court, D. Minnesota
+  - District Court, D. Nevada
+  - District Court, D. Oregon
+  - District Court, E.D. New York
+  - District Court, S.D. California
+  - United States Bankruptcy Court, E.D. Washington
+  - United States Bankruptcy Court, S.D. Texas
 federal-register-mentions: 14
 regulatory-agencies:
-  - "Securities and Exchange Commission"
+  - Securities and Exchange Commission
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 cross-vault-triangulation-count: 2
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 employee-contributions: 428
 employee-contributions-total: 159266491
 employee-donor-count: 88
+politicians-funded: "[[Trump Victory]], [[_Susie Lee Master Profile]], [[_Young Kim Master Profile]], [[RNC - Republican National Committee]], [[Catherine Cortez Masto]], [[ActBlue]], [[SLF PAC]], [[Mark Kelly]], [[_Tony Gonzales Master Profile]], [[Progressive Turnout Project]], [[_Don Bacon Master Profile]], [[_Darrell Issa Master Profile]], [[WinSenate]], [[_Brian Mast Master Profile]], [[WinRed]], [[_Andy Barr Master Profile]], [[Congressional Leadership Fund]], [[Nancy Mace]], [[_Marco Rubio Master Profile]], [[_Beth van Duyne Master Profile]], [[_Victoria Spartz Master Profile]], [[Future45]], [[_Pete Stauber Master Profile]], [[ESAFUND]], [[America First Action]], [[_Byron Donalds Master Profile]], [[_Josh Hawley Master Profile]], [[_Carlos Gimenez Master Profile]], [[MAGA Inc]], [[Susie Lee]], [[Andy Barr]], [[Don Bacon]], [[Beth van Duyne]], [[Pete Stauber]], [[Young Kim]], [[Brian Mast]], [[Marco Rubio]], [[Darrell Issa]], [[Carlos Gimenez]], [[Tony Gonzales]], [[Victoria Spartz]], [[Byron Donalds]], [[Josh Hawley]]"
 ---
 
 

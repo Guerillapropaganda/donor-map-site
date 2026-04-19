@@ -2,12 +2,12 @@
 title: PG&E - Pacific Gas and Electric
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Energy & Utilities
 entity-type: Corporation
-politicians-funded: "[[Gavin Newsom]]"
+politicians-funded: "[[Gavin Newsom]], [[MoveOn.org Political Action]], [[DSCC - Democratic Senatorial Campaign Committee]], [[NRSC - National Republican Senatorial Committee]], [[Rick Crawford]], [[Jay Obernolte]], [[Donald Norcross]], [[Julia Brownley]], [[Dusty Johnson]], [[Let America Vote PAC]], [[RNC - Republican National Committee]], [[Lisa Murkowski]], [[_Kevin Kiley Master Profile]], [[Henry Cuellar]], [[_Jim Jordan Master Profile]], [[Josh Gottheimer]], [[Tammy Duckworth]], [[ActBlue]], [[DCCC - Democratic Congressional Campaign Committee]], [[Bruce Westerman]], [[Ken Calvert]], [[John Joyce]], [[Dan Newhouse]], [[Steve Scalise]], [[Young Kim]], [[Joe Manchin]], [[Frank Pallone]], [[Roger Wicker]], [[Gregory Meeks]], [[Mitch McConnell]], [[Raul Ruiz]], [[Nikki Budzinski]], [[Jim Costa]], [[PG&E - Pacific Gas and Electric]], [[Kevin Cramer]], [[Paul Tonko]], [[Todd Young]], [[Chris Coons]], [[Darrell Issa]], [[John Barrasso]], [[Tom Cole]], [[Mark Kelly]], [[Martin Heinrich]], [[Debbie Dingell]], [[_Ted Cruz Master Profile]], [[Kyrsten Sinema]], [[Michael Guest]], [[PRIORITIES USA ACTION]], [[Pete Aguilar]], [[Barbara Lee]], [[Susan Collins]], [[_Alex Padilla Master Profile]], [[Richard Hudson]], [[_Joe Neguse Master Profile]], [[The Lincoln Project]], [[Hmp]], [[Russ Fulcher]], [[Ruben Gallego]], [[Shelley Moore Capito]], [[_Laura Friedman Master Profile]], [[_Jon Ossoff Master Profile]], [[Catherine Cortez Masto]], [[John Garamendi]], [[Adam Gray]], [[Ritchie Torres]], [[Diana Degette]], [[Sam Graves]], [[Kevin Mullin]], [[Rick Larsen]], [[Julie Fedorchak]], [[Michelle Fischbach]], [[Mike Thompson]], [[Emily's List]], [[Darin Lahood]], [[WinSenate]], [[Kevin McCarthy]], [[Bennie Thompson]], [[_Tammy Baldwin Master Profile]], [[WinRed]], [[Save America PAC]], [[Kay Granger]], [[Ron Wyden]], [[MAGA Inc]], [[Ron Estes]], [[Mariannette Miller-Meeks]], [[Nancy Mace]], [[Tim Walberg]], [[Eric Swalwell]], [[Jacky Rosen]], [[Bob Casey]], [[Sherrod Brown]], [[John Hoeven]], [[Darren Soto]], [[Steve Daines]], [[Patty Murray]], [[Cathy McMorris Rodgers]], [[John Kennedy]], [[Richard Neal]], [[Patrick McHenry]], [[NRCC - National Republican Congressional Committee]], [[Steven Horsford]], [[Betty McCollum]], [[Tim Scott]], [[Adrian Smith]], [[_Josh Harder Master Profile]], [[Jared Huffman]], [[_Scott Wiener Master Profile]], [[Vicente Gonzalez]], [[August Pfluger]], [[Progressive Turnout Project]], [[Dan Crenshaw]], [[Marcy Kaptur]], [[Rosa DeLauro]], [[_Vince Fong Master Profile]], [[Susie Lee]], [[Andrea Salinas]], [[Zoe Lofgren]], [[Juan Vargas]], [[Mario Diaz-Balart]], [[Jimmy Gomez]], [[Brian Schatz]], [[Jason Smith]], [[_Jimmy Panetta Master Profile]], [[Brett Guthrie]], [[James Lankford]], [[Vince Fong]], [[John Thune]], [[John James]], [[Jodey Arrington]], [[Gary Peters]], [[Glenn Thompson]], [[Debbie Stabenow]], [[CHC BOLD PAC]], [[Joe Neguse]], [[Jon Ossoff]], [[Alex Padilla]], [[Jim Jordan]], [[Josh Harder]], [[Tammy Baldwin]], [[Jimmy Panetta]], [[Kevin Kiley]], [[Laura Friedman]], [[Ted Cruz]], [[Scott Wiener]]"
 ein: "201337481"
 nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-09"
@@ -27,7 +27,7 @@ regulatory-agencies:
 cross-vault-triangulation-count: 16
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 156
-epa-states: "CA"
+epa-states: CA
 federal-contracts: 138
 federal-awards-total: 120514827
 total-raised: 440448
@@ -239,3 +239,32 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/201337481/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/201337481/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/201337481/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 4 (2019–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $163K |
+| Total expenses | — |
+| Total assets (EOY) | $141K |
+| Grants paid out | $121K |
+
+**Lifetime grants out (2019–2023):** $970K across 2 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| SEE STATEMENT 1 | $727K | 3 | 2019–2023 |
+| SEE STATEMENT | $243K | 1 | 2022 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

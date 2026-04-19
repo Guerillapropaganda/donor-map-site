@@ -1,54 +1,54 @@
 ---
-title: "Center for American Progress"
+title: Center for American Progress
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Dark Money"
-entity-type: "Individual Donor"
+sector: Dark Money
+entity-type: Individual Donor
 issues:
-  - "Dark Money & Campaign Finance"
-  - "Infrastructure"
+  - Dark Money & Campaign Finance
+  - Infrastructure
 ein: 300126510
-annual-revenue: "$46.1M"
-net-assets: "$99.3M"
+annual-revenue: $46.1M
+net-assets: $99.3M
 tax-year: "2023"
 court-cases: 582
 last-enriched: "2026-04-10"
 court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "Court of Appeals for the First Circuit"
-  - "Court of Appeals for the Second Circuit"
-  - "Court of Appeals for the Third Circuit"
-  - "District Court, D. Arizona"
-  - "District Court, D. Connecticut"
-  - "District Court, D. Massachusetts"
-  - "District Court, D. New Jersey"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. California"
+  - Court of Appeals for the D.C. Circuit
+  - Court of Appeals for the First Circuit
+  - Court of Appeals for the Second Circuit
+  - Court of Appeals for the Third Circuit
+  - District Court, D. Arizona
+  - District Court, D. Connecticut
+  - District Court, D. Massachusetts
+  - District Court, D. New Jersey
+  - District Court, District of Columbia
+  - District Court, E.D. California
 sec-filings: 775
 sec-form-types:
-  - "10-Q"
-  - "10QSB"
-  - "485BPOS"
+  - 10-Q
+  - 10QSB
+  - 485BPOS
   - "497"
-  - "497K"
-  - "6-K"
-  - "8-K"
-  - "CORRESP"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "EX-99.1"
-  - "EX-99.1 CHARTER"
-  - "EX-99.2"
-  - "EX-99.2 BYLAWS"
-  - "FWP"
-  - "MA-I"
-  - "MA-I/A"
-  - "N-CSR"
-  - "PART II"
-  - "PX14A6G"
+  - 497K
+  - 6-K
+  - 8-K
+  - CORRESP
+  - DEF 14A
+  - DEFA14A
+  - EX-99.1
+  - EX-99.1 CHARTER
+  - EX-99.2
+  - EX-99.2 BYLAWS
+  - FWP
+  - MA-I
+  - MA-I/A
+  - N-CSR
+  - PART II
+  - PX14A6G
 lobbying-spend: 3338250
 lobbying-filings: 125
 source-types:
@@ -57,12 +57,12 @@ source-types:
   - SEC
 corroboration-count: 3
 known-gaps:
-  - "No FEC contribution data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No mapped relationships
 related: "[[Democracy Alliance]] · [[Media Matters|David Brock]]"
-wikidata-id: "Q368035"
-wikipedia-url: "https://en.wikipedia.org/wiki/Center_for_American_Progress"
-wikipedia-extract: "The Center for American Progress (CAP) is a public policy research and advocacy organization which presents a liberal viewpoint on economic and social issues. CAP is headquartered in Washington, D.C."
+wikidata-id: Q368035
+wikipedia-url: https://en.wikipedia.org/wiki/Center_for_American_Progress
+wikipedia-extract: The Center for American Progress (CAP) is a public policy research and advocacy organization which presents a liberal viewpoint on economic and social issues. CAP is headquartered in Washington, D.C.
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -70,6 +70,7 @@ urls-first-triaged: "2026-04-15"
 employee-contributions: 839
 employee-contributions-total: 1065697
 employee-donor-count: 254
+politicians-funded: "[[DCCC - Democratic Congressional Campaign Committee]], [[Emily's List]], [[League of Conservation Voters]], [[_Jimmy Panetta Master Profile]], [[Bob Casey]], [[ActBlue]], [[_Dave Min Master Profile]], [[_Deb Haaland Master Profile]], [[_Judy Chu Master Profile]], [[_Lauren Underwood Master Profile]], [[Indivisible Action]], [[_Elissa Slotkin Master Profile]], [[_Yassamin Ansari Master Profile]], [[Catherine Cortez Masto]], [[_Kamala Harris Master Profile]], [[Congressional Progressive Caucus PAC]], [[_Chris Pappas Master Profile]], [[_Susie Lee Master Profile]], [[_Josh Harder Master Profile]], [[_Jon Ossoff Master Profile]], [[_Mark Takano Master Profile]], [[_Martin Heinrich Master Profile]], [[Barbara Lee]], [[_Alex Padilla Master Profile]], [[PRIORITIES USA ACTION]], [[_Gabe Amo Master Profile]], [[Mark Kelly]], [[_Cory Booker Master Profile]], [[_Tammy Baldwin Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Ted Lieu Master Profile]], [[Working Families Party PAC]], [[_Josh Riley Master Profile]], [[_Joe Neguse Master Profile]], [[_Jamie Raskin Master Profile]], [[Ab Pac]], [[Susie Lee]], [[Judy Chu]], [[Tammy Baldwin]], [[Lauren Underwood]], [[Elissa Slotkin]], [[Martin Heinrich]], [[Joe Neguse]], [[Dave Min]], [[Jon Ossoff]], [[Mark Takano]], [[Yassamin Ansari]], [[Chris Pappas]], [[Kamala Harris]], [[Jimmy Panetta]], [[Alex Padilla]], [[Cory Booker]], [[Ted Lieu]], [[Gabe Amo]], [[Jamie Raskin]], [[Deb Haaland]], [[Josh Harder]], [[Josh Riley]]"
 ---
 
 
@@ -310,3 +311,50 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[IRS Form 990: Center for American Progress (2022-2023)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Center%20for%20American%20Progress&city=&state=All+States&country=US)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[Salon: Center for American Progress and revolving door politics](https://www.salon.com/2017/12/05/how-center-for-american-progress-became-a-corporate-think-tank/)~~ (was Tier 3 - URL broken, archived by Ops) (Tier 3)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Center%20for%20American%20Progress%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $35.4M |
+| Total expenses | — |
+| Total assets (EOY) | $84.5M |
+| Grants paid out | $4.1M |
+
+**Lifetime grants out (2018–2024):** $44.0M across 54 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| CENTER FOR AMERICAN PROGRESS ACTION FUND | $29.1M | 5 | 2018–2023 |
+| Center for American Prog Action Fnd | $3.6M | 1 | 2024 |
+| CENTER ON BUDGET AND POLICY PRIORITIES | $2.5M | 4 | 2018–2022 |
+| CENTER FOR LAW AND SOCIAL POLICY | $2.5M | 4 | 2018–2022 |
+| GEORGETOWN UNIVERSITY LAW CENTER | $1.2M | 2 | 2019–2020 |
+| GEORGETOWN CENTER ON POVERTY AND INEQUALITY | $614K | 1 | 2022 |
+| GEORGETOWN UNIVERSITY LAW | $614K | 1 | 2018 |
+| CENTER FOR HEALTH ENERGY AND DEMOCRACY | $603K | 1 | 2020 |
+| THE PARTNERSHIP PROJECT INC | $600K | 2 | 2022–2023 |
+| NATIONAL EMPLOYMENT LAW PROJECT | $340K | 2 | 2018–2020 |
+| Center for Earth Energy and Democracy | $284K | 2 | 2018–2023 |
+| The Partnership Project | $250K | 1 | 2024 |
+| Center for Earth Energy and Democ | $241K | 1 | 2024 |
+| COMMUNITY LEGAL SERVICES | $220K | 2 | 2018–2020 |
+| CENTER FOR EARTH ENERGY &amp; DEMOCRACY | $150K | 1 | 2022 |
+| WEST HARLEM ENVIRONMENTAL ACTION (WE ACT) | $110K | 1 | 2022 |
+| HOPEWELL FUND | $108K | 2 | 2019–2020 |
+| SAFE AND JUST MICHIGAN | $85K | 2 | 2018–2019 |
+| ACTION CENTER ON RACE AND THE ECONOMY AMERICANS FOR FINANCIAL REFORM | $75K | 1 | 2020 |
+| COLORADO CENTER ON LAW AND POLICY | $65K | 2 | 2018–2020 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

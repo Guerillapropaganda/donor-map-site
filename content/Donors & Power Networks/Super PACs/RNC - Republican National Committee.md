@@ -1,22 +1,22 @@
 ---
-title: "RNC - Republican National Committee"
+title: RNC - Republican National Committee
 type: donor
 content-readiness: raw
 editorial-status: stub
-sector: "Political Committees"
-entity-type: "PAC"
-last-updated: 2026-04-14
+sector: Political Committees
+entity-type: PAC
+last-updated: 2026-04-14T00:00:00.000Z
 source-tier: 1
 aliases:
-  - "REPUBLICAN NATIONAL COMMITTEE"
+  - REPUBLICAN NATIONAL COMMITTEE
 known-gaps:
-  - "Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis."
+  - Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis.
 ofac-sdn-match: "true"
 last-enriched: "2026-04-14"
 ofac-programs:
-  - "BALKANS"
-  - "BELARUS"
-  - "GLOMAG"
+  - BALKANS
+  - BELARUS
+  - GLOMAG
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -29,6 +29,7 @@ contributions-to-committees: 50000
 employee-contributions: 580
 employee-contributions-total: 419323
 employee-donor-count: 114
+politicians-funded: "[[WinRed]], [[_Beth van Duyne Master Profile]], [[RNC - Republican National Committee]], [[Michigan Republican Party]], [[Donald Trump]], [[Trump Victory]], [[_Ron Johnson Master Profile]], [[Michael Lawler]], [[Mike Carey]], [[MISSISSIPPI REPUBLICAN PARTY]], [[MAGA Inc]], [[Darin Lahood]], [[_John James Master Profile]], [[_Tony Gonzales Master Profile]], [[_Ann Wagner Master Profile]], [[Raphael Warnock]], [[_Doug Burgum Master Profile]], [[_Marco Rubio Master Profile]], [[Elise Stefanik]], [[Jon Ossoff]], [[Marco Rubio]], [[Beth van Duyne]], [[Tony Gonzales]], [[Doug Burgum]], [[Ann Wagner]], [[John James]], [[Ron Johnson]]"
 ---
 
 

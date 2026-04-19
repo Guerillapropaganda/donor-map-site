@@ -1,29 +1,30 @@
 ---
-title: "Lateefah Simon"
+title: Lateefah Simon
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "California"
-state-abbr: "CA"
+party: Democrat
+chamber: House
+state: California
+state-abbr: CA
 district: "12"
-bioguide-id: "S001231"
+bioguide-id: S001231
 govtrack-id: 456974
 born: "1977-01-29"
-wikidata-id: "Q6495426"
-website: "https://simon.house.gov"
-phone: "202-225-2661"
+wikidata-id: Q6495426
+website: https://simon.house.gov
+phone: 202-225-2661
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H4CA12154"
+fec-candidate-id: H4CA12154
+top-donors: "[[SEIU COPE]], [[League of Conservation Voters]], [[IBEW - International Brotherhood of Electrical Workers]], [[National Nurses United]], [[Courage California Super Pac]], [[Ted Lieu]], [[Congressional Progressive Caucus PAC]], [[Amgen Inc]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[NEA Fund for Children and Public Education]], [[Gilead Sciences]], [[J Street]], [[AbbVie]], [[Sierra Club Political Committee]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Medicare for All - The Policy That Broke the Party]], [[Let America Vote PAC]], [[National Association of Realtors]], [[Giffords PAC]], [[American Hospital Association PAC]], [[Anthem - Elevance Health]], [[Nancy Pelosi]], [[Teamsters - International Brotherhood of Teamsters]], [[Comcast - NBCUniversal]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Sierra Club Independent Action]]"
 ---
 
 

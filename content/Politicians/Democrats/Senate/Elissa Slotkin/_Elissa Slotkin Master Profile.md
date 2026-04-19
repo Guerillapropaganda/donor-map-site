@@ -1,33 +1,33 @@
 ---
-title: "Elissa Slotkin"
+title: Elissa Slotkin
 type: politician
 content-readiness: raw
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "Senate"
-state: "Michigan"
-state-abbr: "MI"
-bioguide-id: "S001208"
+party: Democrat
+chamber: Senate
+state: Michigan
+state-abbr: MI
+bioguide-id: S001208
 govtrack-id: 412784
 born: "1976-07-10"
-wikidata-id: "Q30323721"
-website: "https://www.slotkin.senate.gov"
-phone: "202-224-4822"
+wikidata-id: Q30323721
+website: https://www.slotkin.senate.gov
+phone: 202-224-4822
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
-donors: "[[Fairshake PAC]]"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
+donors: "[[Fairshake PAC]], [[Senate Conservatives Fund]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Sierra Club Independent Action]], [[Emily's List]], [[Indivisible Action]], [[Americans for Prosperity]], [[Demand Justice]], [[Activate America]], [[Pete Aguilar]], [[Planned Parenthood Action Fund INC]], [[United We Can]], [[SEIU - Service Employees International Union]], [[Progressive Turnout Project]], [[Unite Here Tip Campaign Committee]], [[Everytown for Gun Safety]], [[MoveOn.org Political Action]], [[Center Forward Committee]], [[League of Conservation Voters]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[NEA Fund for Children and Public Education]], [[Jon Ossoff]], [[American Federation of State County & Municipal Employees P E O P L E]], [[American Hospital Association PAC]], [[Teamsters - International Brotherhood of Teamsters]], [[SEIU COPE]], [[SLF PAC]], [[Sierra Club Political Committee]], [[National Nurses United]], [[Let America Vote PAC]], [[AFL-CIO]], [[WinSenate]], [[Protect the Vote]], [[Protect Progress]], [[Everytown for Gun Safety Victory Fund]], [[National Committee to Preserve Social Security PAC]], [[National Nurses United for Patient Protection]], [[IBEW - International Brotherhood of Electrical Workers]], [[NRSC - National Republican Senatorial Committee]], [[Votevets]], [[Giffords PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Planned Parenthood Votes]], [[Amazon]], [[Blackstone Group]], [[Uber]], [[Google - Alphabet]], [[Leidos]], [[Meta - Facebook]], [[Citigroup]], [[Anduril Industries]], [[AbbVie]], [[Apple]], [[CNA - California Nurses Association]], [[AT&T]], [[Kaiser Permanente]], [[Goldman Sachs]], [[General Motors]], [[Center for American Progress]], [[Tesla - Elon Musk Political Operation]], [[Business Roundtable]], [[American Enterprise Institute]], [[UnitedHealth Group - Optum]], [[Booz Allen Hamilton]], [[FTX - Sam Bankman-Fried]], [[Fidelity Investments]], [[BAE Systems]], [[Microsoft]], [[Bank of America]], [[Oracle]], [[Raytheon (RTX Corporation)]], [[Boeing]], [[Wells Fargo]], [[Pfizer Inc.]], [[CVS Health - Aetna]], [[Johnson & Johnson]], [[Open Society Foundations]], [[Ford Motor Company]], [[News Corp - Fox Corporation]], [[Northrop Grumman]], [[Comcast - NBCUniversal]], [[Blue Shield of California]], [[Bechtel Corporation]], [[Morgan Stanley]], [[Centene Corporation]], [[Chevron]], [[Lockheed Martin]], [[Nvidia]], [[BlackRock]], [[ExxonMobil]], [[Palantir Technologies]], [[Honeywell International]], [[Airbnb]], [[Gilead Sciences]], [[Verizon]], [[TPUSA - Turning Point USA]]"
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "S4MI00470"
+fec-candidate-id: S4MI00470
 bills-sponsored: 63
 bills-cosponsored: 380
 bills-enacted: 5
-top-policy-area: "Armed Forces and National Security"
+top-policy-area: Armed Forces and National Security
 needs-reenrichment: true
 reenrich-reason: "launch-50 audit: only 4 auto-blocks (threshold: 5)"
 ---

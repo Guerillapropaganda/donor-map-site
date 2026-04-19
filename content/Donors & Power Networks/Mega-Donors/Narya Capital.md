@@ -2,12 +2,12 @@
 title: Narya Capital
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Mega-Donors
 entity-type: Individual Donor
-politicians-funded: "[[JD Vance]], [[David Sacks]], [[David Sacks - Donor Network]], [[David Sacks (Donor Network)]]"
+politicians-funded: "[[JD Vance]], [[David Sacks]], [[David Sacks - Donor Network]], [[David Sacks (Donor Network)]], [[WinRed]]"
 issues:
   - Technology
   - Defense & Military

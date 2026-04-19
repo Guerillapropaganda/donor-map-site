@@ -1,46 +1,46 @@
 ---
-title: "Blackstone Real Estate"
+title: Blackstone Real Estate
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Real Estate"
-entity-type: "Corporation"
+sector: Real Estate
+entity-type: Corporation
 issues:
-  - "Housing"
+  - Housing
 ofac-sdn-match: "true"
 last-enriched: "2026-04-09"
 ofac-programs:
-  - "SDNTK"
-  - "UKRAINE-EO13662] [RUSSIA-EO14024"
-  - "SDGT"
-  - "PAARSSR-EO13894"
-  - "RUSSIA-EO14024"
-  - "IRAN-EO13846"
-  - "GLOMAG"
-  - "DPRK2"
-  - "ILLICIT-DRUGS-EO14059"
-  - "TCO"
+  - SDNTK
+  - UKRAINE-EO13662] [RUSSIA-EO14024
+  - SDGT
+  - PAARSSR-EO13894
+  - RUSSIA-EO14024
+  - IRAN-EO13846
+  - GLOMAG
+  - DPRK2
+  - ILLICIT-DRUGS-EO14059
+  - TCO
 court-cases: 188
 court-jurisdictions:
-  - "Court of Appeals for the Ninth Circuit"
-  - "District Court, C.D. California"
-  - "District Court, D. Nevada"
-  - "District Court, D. New Jersey"
-  - "District Court, E.D. Pennsylvania"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Illinois"
-  - "District Court, S.D. Mississippi"
-  - "United States Bankruptcy Court, C.D. California"
-  - "United States Bankruptcy Court, D. Delaware"
+  - Court of Appeals for the Ninth Circuit
+  - District Court, C.D. California
+  - District Court, D. Nevada
+  - District Court, D. New Jersey
+  - District Court, E.D. Pennsylvania
+  - District Court, N.D. California
+  - District Court, N.D. Illinois
+  - District Court, S.D. Mississippi
+  - United States Bankruptcy Court, C.D. California
+  - United States Bankruptcy Court, D. Delaware
 related: "[[Real Estate Industry]] · [[Blackstone Group]] · [[Invitation Homes - Institutional Landlords]] · [[Real Estate Roundtable]] · [[Stephen Schwarzman]] · [[National Rental Home Council]] · [[National Association of Realtors]] · [[National Multifamily Housing Council]] · [[Real Estate Industry Bloc]] · [[Lennar Corporation]] · [[CBRE Group]] · [[Airbnb]]"
 ein: "333183362"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 lobbying-spend: 4450000
 lobbying-filings: 51
-lei: "549300T4DTSY6511ZQ86"
-lei-jurisdiction: "US-DE"
+lei: 549300T4DTSY6511ZQ86
+lei-jurisdiction: US-DE
 cross-vault-triangulation-count: 11
 audit-a-plus-passed: "2026-04-11"
 federal-contracts: "22468"
@@ -52,10 +52,11 @@ source-types:
   - OFAC
 corroboration-count: 5
 aliases:
-  - "Blackstone Real Estate Political Operation"
+  - Blackstone Real Estate Political Operation
 employee-contributions: 2
 employee-contributions-total: 5800
 employee-donor-count: 1
+politicians-funded: "[[_Susie Lee Master Profile]], [[Susie Lee]]"
 ---
 
 

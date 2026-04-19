@@ -1,33 +1,34 @@
 ---
-title: "Russ Fulcher"
+title: Russ Fulcher
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Idaho"
-state-abbr: "ID"
+party: Republican
+chamber: House
+state: Idaho
+state-abbr: ID
 district: "1"
-bioguide-id: "F000469"
+bioguide-id: F000469
 govtrack-id: 412773
 born: "1973-07-19"
-wikidata-id: "Q7381134"
-website: "https://fulcher.house.gov"
-phone: "202-225-6611"
+wikidata-id: Q7381134
+website: https://fulcher.house.gov
+phone: 202-225-6611
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H8ID01124"
+fec-candidate-id: H8ID01124
 bills-sponsored: 15
 bills-cosponsored: 183
 bills-enacted: 0
-top-policy-area: "Energy"
+top-policy-area: Energy
+top-donors: "[[National Association of Realtors]], [[National Multifamily Housing Council]], [[Jason Smith]], [[AT&T - WarnerMedia]], [[National Rifle Association]], [[American Hospital Association PAC]], [[Jim Jordan]], [[Comcast - NBCUniversal]], [[American College of Radiology Association PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[National Cattlemen's Beef Association]], [[PG&E - Pacific Gas and Electric]], [[Valero Energy]], [[Ben Cline]], [[Anthem - Elevance Health]], [[Marathon Petroleum]], [[Save America PAC]], [[WinRed]], [[MAJORITY PAC]], [[Chevron]], [[Amgen Inc]]"
 ---
 
 

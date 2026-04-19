@@ -2,7 +2,7 @@
 title: Insurance Industry
 type: donor
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Healthcare
@@ -17,7 +17,7 @@ ofac-programs:
   - UKRAINE-EO13662] [RUSSIA-EO14024
 federal-contracts: "10817"
 total-political-spend: $156,500
-politicians-funded: "[[John Thune]], [[Barack Obama]], [[Gary Peters]], [[Tammy Baldwin]], [[John Cornyn]], [[Thom Tillis]], [[Joe Manchin]], [[Wes Moore]], [[Mark Warner]], [[Bryan Steil]], [[Deb Fischer]]"
+politicians-funded: "[[John Thune]], [[Barack Obama]], [[Gary Peters]], [[Tammy Baldwin]], [[John Cornyn]], [[Thom Tillis]], [[Joe Manchin]], [[Wes Moore]], [[Mark Warner]], [[Bryan Steil]], [[Deb Fischer]], [[ActBlue]]"
 federal-register-mentions: 849
 regulatory-agencies:
   - Centers for Medicare & Medicaid Services
@@ -396,3 +396,50 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 - ~~[The Hill: Medicare Advantage overpayments cost seniors billions](https://thehill.com/policy/healthcare/5777186-medicare-advantage-overpayments-raise-premiums/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[FollowTheMoney: Health insurance companies give healthy donations to political campaigns](https://www.followthemoney.org/research/institute-reports/health-insurance-companies-give-healthy-donations-to-political-campaigns)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2018–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $6.4M |
+| Total expenses | — |
+| Total assets (EOY) | $4.3M |
+| Grants paid out | $3.0M |
+
+**Lifetime grants out (2018–2023):** $14.3M across 519 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| TABLE TO TABLE INC | $311K | 6 | 2018–2023 |
+| FRIENDS OF KAREN INC | $260K | 5 | 2019–2023 |
+| THE FOODBANK OF MONMOUTH &amp; OCEAN CO | $210K | 4 | 2019–2021 |
+| MOUNT KISCO CHILD CARE CENTER | $200K | 4 | 2018–2022 |
+| CENTER FOR SAFETY &amp; CHANGE | $150K | 3 | 2018–2020 |
+| CHILDREN'S HEALTH FUND | $150K | 3 | 2019–2021 |
+| RIVERKEEPER INC | $150K | 3 | 2020–2023 |
+| COVENANT HOUSE NEW YORK | $150K | 3 | 2018–2022 |
+| BLESSINGS IN A BACKPACK INC | $142K | 3 | 2018–2023 |
+| ATLANTA COMMUNITY FOOD BANK | $141K | 3 | 2020–2021 |
+| NORTH TEXAS FOOD BANK | $135K | 3 | 2020–2022 |
+| KIDS' MEALS | $124K | 2 | 2020–2021 |
+| BOYS HOPE GIRLS HOPE NEW YORK | $120K | 3 | 2018–2020 |
+| VARIOUS | $115K | 1 | 2019 |
+| THE ALONSO FOUNDATIONEDWARD CHARLES FOUNDATION | $115K | 2 | 2022–2023 |
+| COVENANT HOUSE CALIFORNIA | $114K | 4 | 2019–2023 |
+| VOGEL ALCOVE | $110K | 5 | 2018–2023 |
+| CREATE YOUR DREAMS | $105K | 3 | 2018–2021 |
+| OPERATION HEALING FORCES INC | $102K | 4 | 2018–2023 |
+| OUR FRIENDS PLACE | $100K | 5 | 2018–2023 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

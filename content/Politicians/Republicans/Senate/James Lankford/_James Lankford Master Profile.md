@@ -27,7 +27,7 @@ issues:
   - Taxation
 total-received: $1,589,488
 fec-candidate-id: S4OK00232
-donors: "[[Devon Energy]] · [[Defend Oklahoma Values]] · [[American Energy Action Fund]] · [[FOUNDATION FOR ECONOMIC PROSPERITY INC.]] · [[Oklahomans for a Conservative Future INC]] · [[Foundation for Economic Prosperity Inc.]] · [[Now Or Never PAC]]"
+donors: "[[Devon Energy]] · [[Defend Oklahoma Values]] · [[American Energy Action Fund]] · [[FOUNDATION FOR ECONOMIC PROSPERITY INC.]] · [[Oklahomans for a Conservative Future INC]] · [[Foundation for Economic Prosperity Inc.]] · [[Now Or Never PAC]] · [[McDonalds Corporation]] · [[Morgan Stanley]] · [[Johnson & Johnson]] · [[UA Political Action Committee]] · [[Raytheon (RTX)]] · [[ConocoPhillips]] · [[NextEra Energy]] · [[NORPAC]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[General Dynamics]] · [[FAMILY RESEARCH COUNCIL ACTION POLITICAL ACTION COMMITTEE]] · [[Microsoft]] · [[AbbVie]] · [[AT&T - WarnerMedia]] · [[NRSC - National Republican Senatorial Committee]] · [[Alliance Coal, LLC PAC]] · [[Valero Energy]] · [[Amgen Inc]] · [[National Association of Realtors]] · [[BAE Systems]] · [[American Hospital Association PAC]] · [[MAJORITY PAC]] · [[Comcast - NBCUniversal]] · [[Lockheed Martin]] · [[Occidental Petroleum]] · [[General Motors]] · [[Tyson Foods]] · [[WinRed]] · [[Drain the DC Swamp PAC]] · [[Google - Alphabet]] · [[Associated General Contractors of America Political Action Committee]] · [[Northrop Grumman]] · [[Ford Motor Company]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[Walmart - Walton Family]] · [[National Association of Manufacturers]] · [[L3Harris Technologies]] · [[Tenet Healthcare]] · [[Halliburton]] · [[Gilead Sciences]] · [[Common Sense for America PAC]] · [[National Cattlemen's Beef Association]] · [[Leidos]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Bank of America]] · [[Citigroup]] · [[Marathon Petroleum]] · [[Honeywell]] · [[National Multifamily Housing Council]] · [[National Rifle Association]] · [[Duke Energy]] · [[Chevron]] · [[Pfizer Inc.]] · [[National Restaurant Association]] · [[PG&E - Pacific Gas and Electric]] · [[Humana]] · [[CVS Health - Aetna]] · [[National Victory Action Fund]]"
 related: "[[_Donald Trump Master Profile|Trump]]"
 needs-reenrichment: true
 reenrich-reason: run voting pipeline; run congress pipeline; run pipelines
@@ -36,8 +36,8 @@ urls-first-triaged: "2026-04-15"
 bills-sponsored: 647
 bills-cosponsored: 2344
 bills-enacted: 2
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "International Affairs"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: International Affairs
 ---
 
 

@@ -7,11 +7,11 @@ entity-type: Super PAC
 committee-type: Hybrid PAC (with Non-Contribution Account) - Qualified
 committee-id: C00495028
 fec-url: https://www.fec.gov/data/committee/C00495028/
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-ie-support: "null"
 fec-ie-oppose: $11,742,125
-politicians-funded: "[[Ken Calvert]], [[Bryan Steil]]"
+politicians-funded: "[[Ken Calvert]], [[Bryan Steil]], [[Ryan Zinke]], [[Steven Horsford]], [[Seth Magaziner]], [[Vicente Gonzalez]], [[Sharice Davids]], [[Kristen McDonald Rivet]], [[John James]], [[Chrissy Houlahan]], [[Susie Lee]], [[WinRed]], [[Derek Tran]], [[Andrea Salinas]], [[Mariannette Miller-Meeks]], [[Eric Sorensen]], [[Shomari Figures]], [[Dina Titus]], [[Derrick van Orden]], [[Marcy Kaptur]], [[Michael Lawler]], [[Patrick Ryan]], [[Scott Perry]], [[Henry Cuellar]], [[Josh Harder]], [[Sean Casten]], [[Marie Gluesenkamp Perez]], [[The Lincoln Project]], [[David Schweikert]], [[Monica de la Cruz]], [[Donald Trump]], [[Ryan Mackenzie]], [[Greg Landsman]], [[MAGA Inc]], [[ActBlue]], [[George Whitesides]], [[Lauren Underwood]], [[Mike Levin]], [[Jahana Hayes]], [[Kim Schrier]], [[Adam Gray]], [[Nikki Budzinski]], [[Josh Riley]], [[Dave Min]], [[Laura Gillen]], [[RNC - Republican National Committee]], [[Greg Stanton]], [[Teresa Leger Fernandez]], [[Save America PAC]], [[Brittany Pettersen]]"
 related: "[[Ken Calvert]] · [[Bryan Steil]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

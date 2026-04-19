@@ -1,33 +1,34 @@
 ---
-title: "Paul Tonko"
+title: Paul Tonko
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "New York"
-state-abbr: "NY"
+party: Democrat
+chamber: House
+state: New York
+state-abbr: NY
 district: "20"
-bioguide-id: "T000469"
+bioguide-id: T000469
 govtrack-id: 412319
 born: "1949-06-18"
-wikidata-id: "Q1373548"
-website: "https://tonko.house.gov"
-phone: "202-225-5076"
+wikidata-id: Q1373548
+website: https://tonko.house.gov
+phone: 202-225-5076
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H8NY21203"
+fec-candidate-id: H8NY21203
 bills-sponsored: 30
 bills-cosponsored: 638
 bills-enacted: 1
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[SEIU COPE]], [[Care Action]], [[AT&T - WarnerMedia]], [[Nucor Corporation]], [[American Chemistry Council, INC]], [[American Hospital Association PAC]], [[Anthem - Elevance Health]], [[ENVIRONMENT AMERICA INC]], [[Ford Motor Company]], [[ADM - Archer Daniels Midland]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[PG&E - Pacific Gas and Electric]], [[Comcast - NBCUniversal]], [[Walmart - Walton Family]], [[NextEra Energy]], [[J Street]], [[National Multifamily Housing Council]], [[Lockheed Martin]], [[Teamsters - International Brotherhood of Teamsters]], [[CVS Health - Aetna]], [[General Motors]], [[314 ACTION FUND]], [[Medicare for All - The Policy That Broke the Party]], [[Raytheon (RTX)]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Microsoft]], [[National Association of Realtors]], [[National Nurses United]], [[League of Conservation Voters]], [[Sierra Club Political Committee]], [[Duke Energy]], [[McDonalds Corporation]], [[BAE Systems]], [[L3Harris Technologies]], [[IBEW - International Brotherhood of Electrical Workers]], [[National Committee to Preserve Social Security PAC]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Sierra Club Independent Action]], [[Leidos]], [[Google - Alphabet]], [[Honeywell]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[iHeartMedia]], [[Tzedek PAC]], [[Performance Racing Inc.]], [[NEA Fund for Children and Public Education]], [[Tyson Foods]], [[American College of Radiology Association PAC]], [[Progressive Turnout Project]], [[Planned Parenthood Votes]], [[PG&E]], [[Anthem - Elevance Health Political Operation]], [[Tesla - Elon Musk Political Operation]], [[Johnson & Johnson]], [[Morgan Stanley]], [[Pfizer Inc.]]"
 ---
 
 

@@ -1,33 +1,34 @@
 ---
-title: "Lloyd Doggett"
+title: Lloyd Doggett
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Texas"
-state-abbr: "TX"
+party: Democrat
+chamber: House
+state: Texas
+state-abbr: TX
 district: "37"
-bioguide-id: "D000399"
+bioguide-id: D000399
 govtrack-id: 400111
 born: "1946-10-06"
-wikidata-id: "Q363817"
-website: "https://doggett.house.gov"
-phone: "202-225-4865"
+wikidata-id: Q363817
+website: https://doggett.house.gov
+phone: 202-225-4865
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H4TX10028"
+fec-candidate-id: H4TX10028
 bills-sponsored: 24
 bills-cosponsored: 427
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[ENVIRONMENT AMERICA INC]], [[National Association of Realtors]], [[Comcast - NBCUniversal]], [[J Street]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Unite Here Tip Campaign Committee]], [[Progressive Turnout Project]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Google - Alphabet]], [[Medicare for All - The Policy That Broke the Party]], [[Teamsters - International Brotherhood of Teamsters]], [[American College of Radiology Association PAC]], [[NEA Fund for Children and Public Education]], [[IBEW - International Brotherhood of Electrical Workers]], [[National Committee to Preserve Social Security PAC]], [[General Motors]], [[National Nurses United]], [[Sierra Club Independent Action]], [[Planned Parenthood Votes]], [[American Hospital Association PAC]], [[American Federation of State County & Municipal Employees P E O P L E]], [[SEIU COPE]], [[Sierra Club Political Committee]], [[AT&T - WarnerMedia]], [[Ted Lieu]], [[League of Conservation Voters]], [[Demand Justice]], [[AFL-CIO]], [[Raytheon (RTX)]], [[UA Political Action Committee]]"
 ---
 
 

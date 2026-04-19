@@ -1,33 +1,34 @@
 ---
-title: "Chellie Pingree"
+title: Chellie Pingree
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Maine"
-state-abbr: "ME"
+party: Democrat
+chamber: House
+state: Maine
+state-abbr: ME
 district: "1"
-bioguide-id: "P000597"
+bioguide-id: P000597
 govtrack-id: 412307
 born: "1955-04-02"
-wikidata-id: "Q457243"
-website: "https://pingree.house.gov"
-phone: "202-225-6116"
+wikidata-id: Q457243
+website: https://pingree.house.gov
+phone: 202-225-6116
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H8ME01120"
+fec-candidate-id: H8ME01120
 bills-sponsored: 19
 bills-cosponsored: 616
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Raytheon (RTX)]], [[Northrop Grumman]], [[J Street]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[NEA Fund for Children and Public Education]], [[League of Conservation Voters]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Walmart - Walton Family]], [[Sierra Club Political Committee]], [[SEIU COPE]], [[General Dynamics]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[DCCC - Democratic Congressional Campaign Committee]], [[Medicare for All - The Policy That Broke the Party]], [[Planned Parenthood Votes]], [[Lockheed Martin]], [[National Association of Realtors]], [[Google - Alphabet]], [[Progressive Turnout Project]], [[Human Rights Campaign Equality Votes]], [[Teamsters - International Brotherhood of Teamsters]], [[Sierra Club Independent Action]], [[Leidos]]"
 ---
 
 

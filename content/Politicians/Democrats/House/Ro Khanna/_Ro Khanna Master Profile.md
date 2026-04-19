@@ -57,7 +57,7 @@ opposes:
   - Silicon Valley tech executives (post-wealth-tax)
   - Defense contractors (NDAA dissent)
   - Ethan Agarwal (primary challenger funded by Y Combinator CEO Garry Tan, Chamath Palihapitiya)
-donors: "[[Google - Alphabet]] · [[Protect Progress]] · [[CALIFORNIANS FOR INNOVATION]] · [[OHLONE AREA UNITED DEMOCRATIC CAMPAIGN]] · [[Ohlone Area United Democratic Campaign]] · [[Working for US Political Action Committee INC]] · [[Californians for Innovation]] · [[He's Gotta Go PAC]]"
+donors: "[[Google - Alphabet]] · [[Protect Progress]] · [[CALIFORNIANS FOR INNOVATION]] · [[OHLONE AREA UNITED DEMOCRATIC CAMPAIGN]] · [[Ohlone Area United Democratic Campaign]] · [[Working for US Political Action Committee INC]] · [[Californians for Innovation]] · [[He's Gotta Go PAC]] · [[Courage California Super Pac]] · [[Teamsters - International Brotherhood of Teamsters]] · [[NEA Fund for Children and Public Education]] · [[National Nurses United]] · [[CTA - California Teachers Association]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Planned Parenthood Votes]] · [[Medicare for All - The Policy That Broke the Party]] · [[Unite Here Tip Campaign Committee]] · [[J Street]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[MoveOn.org Political Action]] · [[Sierra Club Independent Action]] · [[IBEW - International Brotherhood of Electrical Workers]]"
 editorial-review-date: "2026-04-10"
 editorial-reviewer: Research Claude
 editorial-result: verified-candidate
@@ -74,8 +74,8 @@ wikipedia-url: https://en.wikipedia.org/wiki/Ro_Khanna
 wikipedia-extract: Rohit "Ro" Khanna is an American politician and attorney serving as the U.S. representative from California's 17th congressional district since 2017.
 born: "1976-09-13"
 bills-enacted: 0
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "Health"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: Health
 ---
 
 

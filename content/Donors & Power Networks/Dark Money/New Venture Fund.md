@@ -1,77 +1,76 @@
 ---
-title: "New Venture Fund"
+title: New Venture Fund
 type: donor
 content-readiness: draft
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Dark Money"
-entity-type: "Individual Donor"
+sector: Dark Money
+entity-type: Individual Donor
 issues:
-  - "Dark Money & Campaign Finance"
+  - Dark Money & Campaign Finance
 ein: 205806345
-annual-revenue: "$669.1M"
-net-assets: "$768.5M"
+annual-revenue: $669.1M
+net-assets: $768.5M
 tax-year: "2023"
 lobbying-spend: 976282
 lobbying-filings: 109
 court-cases: 83
 last-enriched: "2026-04-09"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "Court of Appeals for the Fifth Circuit"
-  - "Court of Appeals for the First Circuit"
-  - "Court of Appeals for the Second Circuit"
-  - "Court of Appeals for the Third Circuit"
-  - "District Court, C.D. California"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. Texas"
-  - "District Court, S.D. New York"
+  - Court of Appeals for the D.C. Circuit
+  - Court of Appeals for the Fifth Circuit
+  - Court of Appeals for the First Circuit
+  - Court of Appeals for the Second Circuit
+  - Court of Appeals for the Third Circuit
+  - District Court, C.D. California
+  - District Court, District of Columbia
+  - District Court, E.D. Texas
+  - District Court, S.D. New York
 sec-filings: 94
 sec-form-types:
-  - "10-K"
-  - "10-Q"
-  - "10KSB"
-  - "20-F"
-  - "253G1"
-  - "424B2"
-  - "424B3"
-  - "424B4"
-  - "424H"
-  - "497AD"
-  - "6-K"
-  - "ARS"
-  - "D"
-  - "D/A"
-  - "DEF 14A"
-  - "EX-99.(A)(1)(I)"
-  - "EX-99.1"
-  - "F-4"
-  - "F-4/A"
-  - "FWP"
-  - "PART II AND III"
-  - "PRE 14A"
-  - "S-1/A"
-  - "S-4"
-  - "S-4/A"
+  - 10-K
+  - 10-Q
+  - 10KSB
+  - 20-F
+  - 253G1
+  - 424B2
+  - 424B3
+  - 424B4
+  - 424H
+  - 497AD
+  - 6-K
+  - ARS
+  - D
+  - D/A
+  - DEF 14A
+  - EX-99.(A)(1)(I)
+  - EX-99.1
+  - F-4
+  - F-4/A
+  - FWP
+  - PART II AND III
+  - PRE 14A
+  - S-1/A
+  - S-4
+  - S-4/A
 related: "[[National Progressive Donor Networks]] · [[Center for American Progress]] · [[Demand Justice]] · [[Arabella Advisors]] · [[Sixteen Thirty Fund]] · [[Democracy Alliance]] · [[Media Matters]] · [[Democratic Party Infrastructure]] · [[Open Society Foundations]] · [[Trial Lawyers Fund]] · [[Ocean Conservancy]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Democratic Small Dollar Networks]] · [[Small Dollar Donors - ActBlue]] · [[Ohio Federation of Teachers]] · [[Ohio Democratic Party]] · [[Democratic Donor Network]] · [[Entertainment and Hollywood Donors]] · [[CREW - Citizens for Responsibility and Ethics in Washington]] · [[Koch vs Soros Mirror Image Dark Money Machines]] · [[Western Growers Association]] · [[California Farm Bureau Federation]] · [[CA Farm Bureau Federation]] · [[Agricultural Labor Vulnerability Donors]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Federalist Society]] · [[Donors Capital Fund]] · [[Council for National Policy]] · [[Conservative Partnership Institute]] · [[Concerned Veterans for America]] · [[Business Roundtable]] · [[Bradley Impact Fund]] · [[Bradley Foundation]] · [[Americans for Tax Reform - Grover Norquist]] · [[American Enterprise Institute]] · [[American Action Network]] · [[America First Policy Institute]] · [[Alliance Defending Freedom]] · [[ALEC - American Legislative Exchange Council]] · [[National Cattlemen's Beef Association]] · [[Fanjul Family - Florida Crystals]]"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 total-revenue: 664320202
 total-assets: 624857462
-lei: "254900MM5ZP0GCJ89Q85"
-lei-jurisdiction: "US"
+lei: 254900MM5ZP0GCJ89Q85
+lei-jurisdiction: US
 cross-vault-triangulation-count: 9
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 employee-contributions: 435
 employee-contributions-total: 176026
 employee-donor-count: 154
+politicians-funded: "[[Center for American Progress]], [[Congressional Progressive Caucus PAC]], [[_Jon Ossoff Master Profile]], [[_Dave Min Master Profile]], [[Gates Foundation]], [[Sixteen Thirty Fund]], [[League of Conservation Voters]], [[America Votes]], [[ActBlue]], [[_Lisa Blunt Rochester Master Profile]], [[The Lincoln Project]], [[_Young Kim Master Profile]], [[_Gabe Vasquez Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[WinSenate]], [[Protect the Vote]], [[_Tammy Baldwin Master Profile]], [[Mark Kelly]], [[314 ACTION FUND]], [[Bipartisan Policy Center]], [[Brennan Center for Justice]], [[Council on Foreign Relations]], [[Cato Institute]], [[Economic Policy Institute]], [[Roosevelt Institute]], [[Schwab Charitable Fund]], [[Urban Institute]], [[Young Kim]], [[Tammy Baldwin]], [[Lisa Blunt Rochester]], [[Dave Min]], [[Jon Ossoff]], [[Gabe Vasquez]]"
 ---
 
 
@@ -278,3 +277,50 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/205806345/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/205806345/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/205806345/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 9 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $628.3M |
+| Total expenses | — |
+| Total assets (EOY) | $624.9M |
+| Grants paid out | $359.6M |
+
+**Lifetime grants out (2018–2024):** $1.96B across 2,935 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| SIXTEEN THIRTY FUND | $267.3M | 6 | 2018–2024 |
+| CO IMPACT PHILANTHROPIC FUNDS INC | $266.7M | 3 | 2022–2024 |
+| AMERICA VOTES | $90.1M | 6 | 2018–2024 |
+| CLEAN SLATE INITIATIVE INC | $56.4M | 2 | 2023–2024 |
+| NORTH FUND | $32.1M | 4 | 2020–2024 |
+| CENTER FOR TECHNOLOGY AND CIVIC LIFE | $25.0M | 2 | 2019–2020 |
+| VOTER REGISTRATION PROJECT | $21.7M | 5 | 2018–2024 |
+| MASSACHUSETTS INSTITUTE OF TECHNOLOGY | $21.3M | 5 | 2018–2024 |
+| CLIMATE AND CLEAN ENERGY EQUITY FUND | $18.0M | 1 | 2024 |
+| BILL AND MELINDA GATES FOUNDATION | $15.8M | 1 | 2020 |
+| WORLD WILDLIFE FUND US | $15.8M | 3 | 2018–2023 |
+| ECONOMIC INNOVATION GROUP | $14.9M | 6 | 2018–2024 |
+| JOHN AND MARY R MARKLE FOUNDATION | $14.8M | 6 | 2018–2024 |
+| HOPEWELL FUND | $13.4M | 6 | 2018–2024 |
+| CAMBIAR EDUCATION | $12.3M | 2 | 2023–2024 |
+| RECAST ACCELERATE LLC | $11.6M | 1 | 2023 |
+| UNITED NATIONS FOUNDATION INC | $11.1M | 4 | 2020–2024 |
+| THE JUST TRUST FOR EDUCATION | $10.3M | 1 | 2023 |
+| ACCOUNTABLEUS | $9.9M | 4 | 2019–2023 |
+| NATURE AND CULTURE INTERNATIONAL | $9.9M | 6 | 2018–2024 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

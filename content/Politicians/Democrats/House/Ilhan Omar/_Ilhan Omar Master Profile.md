@@ -3,7 +3,7 @@ title: Ilhan Omar
 type: politician
 content-readiness: ready
 central-thesis: "Omar represents the structural limit of progressive foreign policy dissent within the Democratic Party: she can hold her seat in a safe progressive district but cannot advance her positions through the legislative process because the pro-Israel do..."
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Democrat
@@ -44,7 +44,7 @@ opposes:
   - AIPAC
   - United Democracy Project
   - Don Samuels
-donors: "[[National Nurses United]] · [[Wfp Ie Committee]] · [[Takeaction Mn Federal Fund]] · [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]] · [[NATIONAL NURSES UNITED FOR PATIENT PROTECTION]] · [[Minnesota Democratic-Farmer-Labor Party]] · [[National Nurses United for Patient Protection]] · [[Americans for Tomorrow's Future]]"
+donors: "[[National Nurses United]] · [[Wfp Ie Committee]] · [[Takeaction Mn Federal Fund]] · [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]] · [[NATIONAL NURSES UNITED FOR PATIENT PROTECTION]] · [[Minnesota Democratic-Farmer-Labor Party]] · [[National Nurses United for Patient Protection]] · [[Americans for Tomorrow's Future]] · [[Teamsters - International Brotherhood of Teamsters]] · [[SEIU COPE]] · [[JUSTICE DEMOCRATS PAC]] · [[NEA Fund for Children and Public Education]] · [[National Association of Realtors]] · [[Unite Here Tip Campaign Committee]] · [[Medicare for All - The Policy That Broke the Party]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Sierra Club Independent Action]] · [[Drain the DC Swamp PAC]] · [[Sierra Club Political Committee]] · [[Law Enforcement for a Safer America Pac]] · [[Pete Aguilar]] · [[Nancy Pelosi]] · [[Indivisible Action]] · [[MoveOn.org Political Action]] · [[Courage to Change PAC]] · [[Congressional Progressive Caucus PAC]] · [[Working Families Party PAC]] · [[Progressive Turnout Project]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[Summer Lee]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[AFSCME Working Families Fund]] · [[League of Conservation Voters]] · [[Planned Parenthood Action Fund INC]] · [[Honoring American Law Enforcement Pac]] · [[Planned Parenthood Votes]] · [[Let America Vote PAC]]"
 editorial-review-date: "2026-04-10"
 editorial-reviewer: Research Claude
 editorial-result: verified-candidate
@@ -65,8 +65,8 @@ born: "1982-10-04"
 bills-sponsored: 122
 bills-cosponsored: 2177
 bills-enacted: 0
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "International Affairs"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: International Affairs
 ---
 
 

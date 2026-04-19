@@ -1,51 +1,51 @@
 ---
-title: "Drummond Co."
+title: Drummond Co.
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-09T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Energy & Utilities"
-entity-type: "Corporation"
+sector: Energy & Utilities
+entity-type: Corporation
 issues:
-  - "Energy & Climate"
+  - Energy & Climate
 federal-contracts: "1305132"
 sec-filings: 1186
 sec-form-types:
-  - "CORRESP"
-  - "EX-99"
-  - "N-CSR"
-  - "N-CSRS"
-  - "N-MFP"
-  - "N-Q"
+  - CORRESP
+  - EX-99
+  - N-CSR
+  - N-CSRS
+  - N-MFP
+  - N-Q
 federal-register-mentions: 4
 last-enriched: "2026-04-09"
 regulatory-agencies:
-  - "Employment and Training Administration"
-  - "Environmental Protection Agency"
-  - "Labor Department"
+  - Employment and Training Administration
+  - Environmental Protection Agency
+  - Labor Department
 ein: "412064833"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 related: "[[Katie Britt]]"
 lobbying-spend: 740000
 lobbying-filings: 36
 court-cases: 2268
 court-jurisdictions:
-  - "Court of Appeals for the Eleventh Circuit"
-  - "District Court, E.D. Louisiana"
-  - "District Court, M.D. Alabama"
-  - "District Court, M.D. Florida"
-  - "District Court, N.D. Alabama"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Georgia"
-  - "District Court, S.D. Alabama"
-  - "District Court, S.D. Florida"
-lei: "213800LE7MRYU5XL6J42"
-lei-jurisdiction: "GB"
+  - Court of Appeals for the Eleventh Circuit
+  - District Court, E.D. Louisiana
+  - District Court, M.D. Alabama
+  - District Court, M.D. Florida
+  - District Court, N.D. Alabama
+  - District Court, N.D. California
+  - District Court, N.D. Georgia
+  - District Court, S.D. Alabama
+  - District Court, S.D. Florida
+lei: 213800LE7MRYU5XL6J42
+lei-jurisdiction: GB
 cross-vault-triangulation-count: 1
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 3
-epa-states: "AL, MT, OK"
+epa-states: AL, MT, OK
 total-raised: 148856
 total-spent: 145500
 cash-on-hand: 93923
@@ -54,6 +54,7 @@ contributions-to-committees: 145500
 employee-contributions: 289
 employee-contributions-total: 391911
 employee-donor-count: 93
+politicians-funded: "[[Drummond Co.]], [[Joe Manchin]], [[John Barrasso]], [[Tim Sheehy]], [[Deb Fischer]], [[Mario Diaz-Balart]], [[Brian Jack]], [[Shomari Figures]], [[NRCC - National Republican Congressional Committee]], [[Katie Britt]], [[WinRed]], [[MAGA Inc]], [[RNC - Republican National Committee]], [[Thom Tillis]], [[Lisa Murkowski]], [[Glenn Thompson]], [[_Michael Waltz Master Profile]], [[Steve Scalise]], [[Bernie Moreno]], [[Bill Hagerty]], [[NRSC - National Republican Senatorial Committee]], [[August Pfluger]], [[Steve Daines]], [[ActBlue]], [[Michael Lawler]], [[Save America PAC]], [[_Jim Jordan Master Profile]], [[Common Sense for America PAC]], [[Michael Waltz]], [[Jim Jordan]]"
 ---
 
 

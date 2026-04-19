@@ -299,3 +299,35 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 - ~~[Axios: The 2026 midterms spending explosion has begun](https://www.axios.com/2026/02/03/2025-campaign-fundraising)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Senate%20Leadership%20Fund%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 2 (2022–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $3.2M |
+| Total expenses | — |
+| Total assets (EOY) | $1.1M |
+| Grants paid out | $700K |
+
+**Lifetime grants out (2022–2023):** $2.4M across 5 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| AMERICAN ADVANCEMENT | $1.5M | 1 | 2022 |
+| MONTANA POLICY ACTION | $375K | 1 | 2023 |
+| ENDING SPENDING INC | $250K | 1 | 2023 |
+| AG CONSERVATIVES | $175K | 2 | 2022–2023 |
+| SERIOUS CONSERVATIVES | $100K | 1 | 2022 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

@@ -1,33 +1,34 @@
 ---
-title: "Steve Cohen"
+title: Steve Cohen
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Tennessee"
-state-abbr: "TN"
+party: Democrat
+chamber: House
+state: Tennessee
+state-abbr: TN
 district: "9"
-bioguide-id: "C001068"
+bioguide-id: C001068
 govtrack-id: 412236
 born: "1949-05-24"
-wikidata-id: "Q512330"
-website: "https://cohen.house.gov"
-phone: "202-225-3265"
+wikidata-id: Q512330
+website: https://cohen.house.gov
+phone: 202-225-3265
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H6TN09068"
+fec-candidate-id: H6TN09068
 bills-sponsored: 64
 bills-cosponsored: 770
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Walmart - Walton Family]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[National Association of Realtors]], [[Medicare for All - The Policy That Broke the Party]], [[American Hospital Association PAC]], [[Comcast - NBCUniversal]], [[Ford Motor Company]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Raytheon (RTX)]], [[Honeywell]], [[Google - Alphabet]], [[SEIU COPE]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Microsoft]], [[Leidos]], [[General Motors]], [[Everytown for Gun Safety]], [[General Dynamics]], [[DCCC - Democratic Congressional Campaign Committee]], [[DMFI - Democratic Majority for Israel]], [[NEA Fund for Children and Public Education]], [[Lockheed Martin]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Progressive Turnout Project]], [[J Street]], [[AT&T - WarnerMedia]], [[Sierra Club Independent Action]], [[Pete Aguilar]], [[National Nurses United]], [[Nucor Corporation]], [[League of Conservation Voters]], [[ADM - Archer Daniels Midland]], [[Planned Parenthood Votes]], [[Teamsters - International Brotherhood of Teamsters]], [[Tyson Foods]]"
 ---
 
 

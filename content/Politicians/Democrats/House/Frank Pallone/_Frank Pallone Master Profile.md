@@ -3,7 +3,7 @@ title: Frank Pallone
 type: politician
 content-readiness: ready
 central-thesis: "Pallone is the textbook example of the committee-jurisdiction donor pipeline: the longer he has held the gavel (or ranking member position) on Energy and Commerce, the more money has flowed from every industry his committee regulates. Pharmaceutic..."
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Democrat
@@ -31,7 +31,7 @@ top-donors:
   - PhRMA
 total-received: $1,311,209
 fec-candidate-id: H8NJ03073
-donors: "[[UAW - United Auto Workers]] · [[AFGE - American Federation of Government Employees]] · [[Family Research Council Action Political Action Committee]] · [[AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION PAC]] · [[FREEDOM'S DEFENSE FUND]] · [[Pfizer]] · [[American College of Radiology Association PAC]] · [[Focus on the Family Action]] · [[PhRMA]] · [[AIPAC - American Israel Public Affairs Committee]] · [[New Jersey Family First INC]]"
+donors: "[[UAW - United Auto Workers]] · [[AFGE - American Federation of Government Employees]] · [[Family Research Council Action Political Action Committee]] · [[AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION PAC]] · [[FREEDOM'S DEFENSE FUND]] · [[Pfizer]] · [[American College of Radiology Association PAC]] · [[Focus on the Family Action]] · [[PhRMA]] · [[AIPAC - American Israel Public Affairs Committee]] · [[New Jersey Family First INC]] · [[Performance Racing Inc.]] · [[NEA Fund for Children and Public Education]] · [[AbbVie]] · [[National Multifamily Housing Council]] · [[Planned Parenthood Action Fund INC]] · [[Nucor Corporation]] · [[Planned Parenthood Votes]] · [[Ford Motor Company]] · [[Microsoft]] · [[Duke Energy]] · [[CVS Health - Aetna]] · [[PG&E - Pacific Gas and Electric]] · [[Sierra Club Political Committee]] · [[Teamsters - International Brotherhood of Teamsters]] · [[National Association of Realtors]] · [[Pfizer Inc.]] · [[Johnson & Johnson]] · [[Google - Alphabet]] · [[League of Conservation Voters]] · [[Honeywell]] · [[Comcast - NBCUniversal]] · [[Humana]] · [[Care Action]] · [[General Motors]] · [[AT&T - WarnerMedia]] · [[UA Political Action Committee]] · [[American Gaming Association]] · [[AFL-CIO]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[Northrop Grumman]] · [[American Chemistry Council, INC]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[American Hospital Association PAC]] · [[Bechtel Corporation]] · [[NextEra Energy]] · [[Anthem - Elevance Health]] · [[SEIU COPE]] · [[Medicare for All - The Policy That Broke the Party]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[iHeartMedia]] · [[Sierra Club Independent Action]] · [[ENVIRONMENT AMERICA INC]] · [[Lockheed Martin]] · [[Leidos]] · [[National Committee to Preserve Social Security PAC]] · [[Airbnb]] · [[Tyson Foods]] · [[Walmart - Walton Family]] · [[Giffords PAC]] · [[NORPAC]] · [[Raytheon (RTX)]] · [[Citigroup]] · [[McDonalds Corporation]] · [[Progressive Turnout Project]] · [[ADM - Archer Daniels Midland]] · [[Morgan Stanley]]"
 related: ">- · [[Telecom Buys Net Neutrality's Death From Both Sides]] · [[Rosa DeLauro]] · [[Maxine Waters]]"
 last-enriched: "2026-04-15"
 needs-reenrichment: true
@@ -52,8 +52,8 @@ wikipedia-url: https://en.wikipedia.org/wiki/Frank_Pallone
 wikipedia-extract: Frank Joseph Pallone Jr. is an American lawyer and politician serving as the U.S. representative for New Jersey's 6th congressional district since 1988. He is a member of the Democratic Party.
 born: "1951-10-30"
 bills-enacted: 2
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "International Affairs"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: International Affairs
 ---
 
 

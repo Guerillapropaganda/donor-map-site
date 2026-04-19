@@ -1,33 +1,34 @@
 ---
-title: "Cliff Bentz"
+title: Cliff Bentz
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Oregon"
-state-abbr: "OR"
+party: Republican
+chamber: House
+state: Oregon
+state-abbr: OR
 district: "2"
-bioguide-id: "B000668"
+bioguide-id: B000668
 govtrack-id: 456842
 born: "1952-01-12"
-wikidata-id: "Q5132536"
-website: "https://bentz.house.gov"
-phone: "202-225-6730"
+wikidata-id: Q5132536
+website: https://bentz.house.gov
+phone: 202-225-6730
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H0OR02127"
+fec-candidate-id: H0OR02127
 bills-sponsored: 7
 bills-cosponsored: 121
 bills-enacted: 1
-top-policy-area: "Public Lands and Natural Resources"
+top-policy-area: Public Lands and Natural Resources
+top-donors: "[[Care Action]], [[Tzedek PAC]], [[Halliburton]], [[American Hospital Association PAC]], [[WinRed]], [[AT&T - WarnerMedia]], [[Associated General Contractors of America Political Action Committee]], [[Google - Alphabet]], [[Honeywell]], [[Anthem - Elevance Health]], [[Comcast - NBCUniversal]], [[National Association of Realtors]], [[Chevron]], [[Byron Donalds]], [[ConocoPhillips]], [[National Rifle Association]], [[National Cattlemen's Beef Association]], [[Ben Cline]], [[Jim Jordan]], [[Amgen Inc]], [[Jason Smith]], [[AIPAC - American Israel Public Affairs Committee]], [[Microsoft]], [[iHeartMedia]], [[Walmart - Walton Family]], [[MAJORITY PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Tyson Foods]], [[AbbVie]], [[Meta - Facebook]], [[UnitedHealth Group - Optum]], [[News Corp - Fox Corporation]], [[Morgan Stanley]]"
 ---
 
 

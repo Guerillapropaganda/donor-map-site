@@ -2,12 +2,12 @@
 title: Elon Musk
 type: donor
 content-readiness: ready
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Mega-Donors
 entity-type: Individual Donor
-politicians-funded: "[[Gavin Newsom]], [[Scott Bessent]], [[Kevin McCarthy]], [[Donald Trump]], [[Howard Lutnick]], [[David Sacks]], [[Ken Calvert]], [[Mike Collins]]"
+politicians-funded: "[[Gavin Newsom]], [[Scott Bessent]], [[Kevin McCarthy]], [[Donald Trump]], [[Howard Lutnick]], [[David Sacks]], [[Ken Calvert]], [[Mike Collins]], [[_Marco Rubio Master Profile]], [[National Victory Action Fund]], [[WinRed]], [[ActBlue]], [[Marco Rubio]]"
 issues:
   - Technology
 total-political-spend: $367,346,137

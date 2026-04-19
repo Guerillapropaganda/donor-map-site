@@ -5,14 +5,14 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00634774
 aliases:
   - COMMON SENSE FOR AMERICA PAC
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
-politicians-funded: "[[Deb Fischer]]"
+politicians-funded: "[[Deb Fischer]], [[Mike Lee]], [[Joni Ernst]], [[Pete Ricketts]], [[John Kennedy]], [[Bernie Moreno]], [[Bill Hagerty]], [[John Barrasso]], [[Ron Johnson]], [[Jon Husted]], [[John Hoeven]], [[Lisa Murkowski]], [[Roger Marshall]], [[John Thune]], [[Dan Sullivan]], [[John Boozman]], [[Rick Scott]], [[Mike Rounds]], [[Tim Scott]], [[Michael Whatley]], [[Steve Daines]], [[Marsha Blackburn]], [[Markwayne Mullin]], [[Lindsey Graham]], [[Tim Sheehy]], [[James Lankford]], [[Donald Trump]], [[Roger Wicker]], [[Cindy Hyde-Smith]], [[Kevin Cramer]], [[Josh Hawley]], [[Jerry Moran]], [[John Cornyn]], [[Shelley Moore Capito]], [[Ashley Moody]], [[Susan Collins]], [[Ted Cruz]]"
 related: "[[Deb Fischer]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

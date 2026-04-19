@@ -1,12 +1,12 @@
 ---
-title: "QVT Financial"
+title: QVT Financial
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Wall Street"
-entity-type: "Corporation"
+sector: Wall Street
+entity-type: Corporation
 related: "[[_Vivek Ramaswamy Master Profile]] · [[The Roivant Fortune and the FDA Deregulation Conflict]] · [[Investigation Queue]]"
 source-types:
   - SEC
@@ -16,40 +16,39 @@ known-gaps:
   - Pipeline false positives RESOLVED 2026-04-10 by Code Claude: DOJ sanity cap, SAM validation, NHTSA auto-adjacent filter deployed. Auto-blocks stripped.
 last-enriched: "2026-04-11"
 needs-reenrichment: true
-reenrich-reason: "demote to draft"
-lei: "549300JMMSS9C5S2HO30"
-lei-jurisdiction: "US-DE"
+reenrich-reason: demote to draft
+lei: 549300JMMSS9C5S2HO30
+lei-jurisdiction: US-DE
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 sec-filings: 2747
 sec-form-types:
-  - "424B3"
-  - "SC 13D"
-  - "SC 13D/A"
-  - "SC 13G"
-  - "SC 13G/A"
-internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
-  • The profile's own known-gaps field says it needs a fresh pipeline run.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+  - 424B3
+  - SC 13D
+  - SC 13D/A
+  - SC 13G
+  - SC 13G/A
+internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • The profile's own known-gaps field says it needs a fresh pipeline run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 federal-register-mentions: 2
 regulatory-agencies:
-  - "Nuclear Regulatory Commission"
+  - Nuclear Regulatory Commission
 court-cases: 56
 court-jurisdictions:
-  - "Court of Appeals for the Second Circuit"
-  - "District Court, D. Delaware"
-  - "District Court, D. Massachusetts"
-  - "District Court, E.D. Pennsylvania"
-  - "District Court, S.D. New York"
-  - "United States Bankruptcy Court, D. Delaware"
-  - "United States Bankruptcy Court, S.D. New York"
-  - "United States Bankruptcy Court, S.D. Texas"
-  - "United States Judicial Panel on Multidistrict Litigation"
-wikidata-id: "Q104480161"
+  - Court of Appeals for the Second Circuit
+  - District Court, D. Delaware
+  - District Court, D. Massachusetts
+  - District Court, E.D. Pennsylvania
+  - District Court, S.D. New York
+  - United States Bankruptcy Court, D. Delaware
+  - United States Bankruptcy Court, S.D. New York
+  - United States Bankruptcy Court, S.D. Texas
+  - United States Judicial Panel on Multidistrict Litigation
+wikidata-id: Q104480161
 founded: "2003-01-01"
 employee-contributions: 21
 employee-contributions-total: 62112
 employee-donor-count: 16
+politicians-funded: "[[MAJORITY PAC]], [[_Josh Riley Master Profile]], [[ActBlue]], [[_Ted Lieu Master Profile]], [[_Ted Cruz Master Profile]], [[WinRed]], [[_Don Bacon Master Profile]], [[_George Latimer Master Profile]], [[Ted Cruz]], [[Josh Riley]], [[Ted Lieu]], [[George Latimer]], [[Don Bacon]]"
 ---
 
 

@@ -5,14 +5,14 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C90011172
 aliases:
   - AFSCME WORKING FAMILIES FUND
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
-politicians-funded: "[[Amy Klobuchar]]"
+politicians-funded: "[[Amy Klobuchar]], [[Kelly Morrison]], [[Dave Min]], [[Derek Tran]], [[Sherrod Brown]], [[Catherine Cortez Masto]], [[Ruben Gallego]], [[John Fetterman]], [[Steven Horsford]], [[Henry Cuellar]], [[Kamala Harris]], [[Ilhan Omar]], [[Marcy Kaptur]], [[Ron Johnson]], [[Ryan Mackenzie]], [[Raphael Warnock]], [[Mark Kelly]], [[Betty McCollum]]"
 related: "[[Amy Klobuchar]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

@@ -5,14 +5,14 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-17
+last-updated: 2026-04-17T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00591073
 aliases:
   - EMILY'S LIST
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
-politicians-funded: "[[Amy Klobuchar]], [[Elizabeth Warren]]"
+politicians-funded: "[[Amy Klobuchar]], [[Elizabeth Warren]], [[Emily's List]], [[Dina Titus]], [[Patty Murray]], [[_Emily Randall Master Profile]], [[ActBlue]], [[_Chris Pappas Master Profile]], [[Nikki Budzinski]], [[Jacky Rosen]], [[CHC BOLD PAC]], [[Elissa Slotkin]], [[_Kamala Harris Master Profile]], [[Tammy Baldwin]], [[Donald Trump]], [[Henry Cuellar]], [[Marie Gluesenkamp Perez]], [[Kim Schrier]], [[_Elissa Slotkin Master Profile]], [[_Patrick Ryan Master Profile]], [[Lauren Underwood]], [[Catherine Cortez Masto]], [[_Tammy Baldwin Master Profile]], [[Jahana Hayes]], [[Brittany Pettersen]], [[Emily Randall]], [[Julia Brownley]], [[Susie Lee]], [[Yassamin Ansari]], [[Kristen McDonald Rivet]], [[Maxine Dexter]], [[Democratic Party of Virginia]], [[Sarah McBride]], [[Juliana Stratton]], [[_Lisa Blunt Rochester Master Profile]], [[Teresa Leger Fernandez]], [[Sharice Davids]], [[_Yassamin Ansari Master Profile]], [[Julie Johnson]], [[Laura Gillen]], [[Summer Lee]], [[Jasmine Crockett]], [[Sarah Elfreth]], [[Tammy Duckworth]], [[Maggie Goodlander]], [[Ryan Mackenzie]], [[Andrea Salinas]], [[Kamala Harris]], [[Chris Pappas]], [[Lisa Blunt Rochester]], [[Patrick Ryan]]"
 related: "[[Elizabeth Warren]] · [[Tammy Baldwin]] · [[Catherine Cortez Masto]] · [[Amy Klobuchar]] · [[Laphonza Butler]] · [[Ohio 2026 Governor Race - The Structural Landscape]] · [[Ohio 2026 - The Donor Pipeline Comparison - Acton vs Ramaswamy]] · [[Amy Acton]] · [[Winning for Women PAC]] · [[Democratic Senatorial Campaign Committee]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

@@ -2,7 +2,7 @@
 title: Brady Campaign
 type: donor
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 2
 parent: null
 sector: Dark Money
@@ -19,8 +19,8 @@ court-jurisdictions:
   - District Court, E.D. North Carolina
   - District Court, W.D. Texas
 ein: 237321017
-annual-revenue: "$4.8M"
-net-assets: "$8.1M"
+annual-revenue: $4.8M
+net-assets: $8.1M
 tax-year: "2023"
 related: "[[Sheldon Whitehouse]] · [[Bob Menendez]] · [[Jerry Nadler]] · [[Linda McMahon]] · [[Tim Moore]] · [[Riley M. Moore]] · [[Blake D. Moore]] · [[Barry Moore]] · [[Aaron Bean]] · [[Gina McCarthy]] · [[Salud O. Carbajal]] · [[Robert Menendez]] · [[Melissa Bean]] · [[Jerrold Nadler]] · [[James E. Clyburn]] · [[Gwen Moore]] · [[Wes Moore]]"
 lobbying-spend: 836000
@@ -42,13 +42,13 @@ sec-form-types:
   - N-1A/A
   - U5S
 total-political-spend: $499,761
-politicians-funded: "[[Barry Moore]], [[Wes Moore]], [[Bob Menendez]], [[Salud O. Carbajal]], [[Blake D. Moore]], [[Jerrold Nadler]], [[Aaron Bean]], [[Tim Moore]], [[Riley M. Moore]], [[Gina McCarthy]], [[Robert Menendez]], [[Melissa Bean]], [[Gwen Moore]], [[Kevin McCarthy]], [[Linda McMahon]], [[Jerry Nadler]], [[James E. Clyburn]]"
-wikidata-id: "Q4955170"
-wikipedia-url: "https://en.wikipedia.org/wiki/Brady_Campaign"
+politicians-funded: "[[Barry Moore]], [[Wes Moore]], [[Bob Menendez]], [[Salud O. Carbajal]], [[Blake D. Moore]], [[Jerrold Nadler]], [[Aaron Bean]], [[Tim Moore]], [[Riley M. Moore]], [[Gina McCarthy]], [[Robert Menendez]], [[Melissa Bean]], [[Gwen Moore]], [[Kevin McCarthy]], [[Linda McMahon]], [[Jerry Nadler]], [[James E. Clyburn]], [[ActBlue]]"
+wikidata-id: Q4955170
+wikipedia-url: https://en.wikipedia.org/wiki/Brady_Campaign
 wikipedia-extract: "Brady: United Against Gun Violence is an American nonprofit organization that advocates for gun control and against gun violence."
 federal-register-mentions: 1
 regulatory-agencies:
-  - "Federal Election Commission"
+  - Federal Election Commission
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -509,3 +509,33 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/237321017/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/237321017/2019)~~ (URL broken, archived by Ops)
 - ~~[Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Brady%20Campaign%22)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2018–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $4.8M |
+| Total expenses | — |
+| Total assets (EOY) | $8.1M |
+| Grants paid out | $98K |
+
+**Lifetime grants out (2018–2023):** $253K across 3 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| BRADY PAC | $188K | 3 | 2018–2023 |
+| OREGON ALLIANCE FOR GUN SAFETY | $50K | 1 | 2023 |
+| REMNANT CHURCH | $15K | 1 | 2021 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

@@ -26,7 +26,7 @@ top-donors:
   - Koch Network
 total-received: $3,443,146
 fec-candidate-id: H8WI01156
-donors: "[[Insurance Industry]] · [[Stand Together]] · [[National Restaurant Association]] · [[AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION]] · [[NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE]] · [[Koch Network]] · [[FAIRSHAKE]] · [[HMP]] · [[MIDWEST GROWTH PAC]] · [[Midwest Growth PAC]] · [[Koch network]]"
+donors: "[[Insurance Industry]] · [[Stand Together]] · [[National Restaurant Association]] · [[AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION]] · [[NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE]] · [[Koch Network]] · [[FAIRSHAKE]] · [[HMP]] · [[MIDWEST GROWTH PAC]] · [[Midwest Growth PAC]] · [[Koch network]] · [[Anthem - Elevance Health]] · [[Occidental Petroleum]] · [[Honeywell]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Duke Energy]] · [[Walmart - Walton Family]] · [[UA Political Action Committee]] · [[Halliburton]] · [[Microsoft]] · [[Beth van Duyne]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[National Association of Manufacturers]] · [[Americans for Prosperity]] · [[General Motors]] · [[Chevron]] · [[AT&T - WarnerMedia]] · [[Nucor Corporation]] · [[Bank of America]] · [[General Dynamics]] · [[MAJORITY PAC]] · [[National Rifle Association]] · [[Marathon Petroleum]] · [[Lockheed Martin]] · [[NRCC - National Republican Congressional Committee]] · [[Valero Energy]] · [[Amgen Inc]] · [[Associated General Contractors of America Political Action Committee]] · [[American Hospital Association PAC]] · [[DoorDash]] · [[Care Action]] · [[Fairshake PAC - Crypto Super PAC]] · [[Congressional Leadership Fund]] · [[National Multifamily Housing Council]] · [[Byron Donalds]] · [[Rick W. Allen]] · [[Google - Alphabet]] · [[Jim Jordan]] · [[David Rouzer]] · [[Coinbase]] · [[Citigroup]] · [[Pfizer Inc.]] · [[Austin Scott]] · [[National Association of Realtors]] · [[Hmp]] · [[AbbVie]] · [[Morgan Stanley]] · [[National Right to Life Victory Fund]] · [[Jason Smith]] · [[Republican Jewish Coalition]] · [[WinRed]] · [[American Chemistry Council, INC]] · [[Ben Cline]] · [[iHeartMedia]] · [[Airbnb]] · [[Comcast - NBCUniversal]] · [[Hunter Action Fund (haf)]]"
 last-enriched: "2026-04-10"
 needs-reenrichment: true
 reenrich-reason: re-run congress pipeline
@@ -37,8 +37,8 @@ urls-first-triaged: "2026-04-15"
 bills-sponsored: 90
 bills-cosponsored: 606
 bills-enacted: 2
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "Finance and Financial Sector"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: Finance and Financial Sector
 ---
 
 

@@ -1,38 +1,39 @@
 ---
-title: "Jacky Rosen"
+title: Jacky Rosen
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "Senate"
-state: "Nevada"
-state-abbr: "NV"
-bioguide-id: "R000608"
+party: Democrat
+chamber: Senate
+state: Nevada
+state-abbr: NV
+bioguide-id: R000608
 govtrack-id: 412715
 born: "1957-08-02"
-wikidata-id: "Q27825033"
-website: "https://www.rosen.senate.gov"
-phone: "202-224-6244"
+wikidata-id: Q27825033
+website: https://www.rosen.senate.gov
+phone: 202-224-6244
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 stock-trades: 4
 stock-trade-tickers:
-  - "IR"
-  - "VFC"
-  - "APC"
-  - "NVS"
+  - IR
+  - VFC
+  - APC
+  - NVS
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "S8NV00156"
+fec-candidate-id: S8NV00156
 bills-sponsored: 66
 bills-cosponsored: 379
 bills-enacted: 1
-top-policy-area: "Armed Forces and National Security"
+top-policy-area: Armed Forces and National Security
+top-donors: "[[American Federation of State County & Municipal Employees P E O P L E]], [[Teamsters - International Brotherhood of Teamsters]], [[Pfizer Inc.]], [[L3Harris Technologies]], [[General Motors]], [[SEIU - Service Employees International Union]], [[DMFI - Democratic Majority for Israel]], [[Raytheon (RTX)]], [[CHC BOLD PAC]], [[Gilead Sciences]], [[Votevets]], [[AT&T - WarnerMedia]], [[Sierra Club Independent Action]], [[MoveOn.org Political Action]], [[Judy Chu]], [[Emily's List]], [[314 ACTION FUND]], [[Humana]], [[Bank of America]], [[BAE Systems]], [[Lockheed Martin]], [[National Restaurant Association]], [[American Hospital Association PAC]], [[American Chemistry Council, INC]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[iHeartMedia]], [[General Dynamics]], [[AbbVie]], [[DSCC - Democratic Senatorial Campaign Committee]], [[NEA Fund for Children and Public Education]], [[Comcast - NBCUniversal]], [[Ford Motor Company]], [[Indivisible Action]], [[Let America Vote PAC]], [[United We Can]], [[Jon Ossoff]], [[Leidos]], [[Amgen Inc]], [[Everytown for Gun Safety Victory Fund]], [[WinSenate]], [[Nancy Pelosi]], [[Edf Action Votes]], [[Chrissy Houlahan]], [[The Sentinel Action Fund]], [[Northrop Grumman]], [[PG&E - Pacific Gas and Electric]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Anthem - Elevance Health]], [[Senate Conservatives Fund]], [[Giffords PAC]], [[American College of Radiology Association PAC]], [[Planned Parenthood Action Fund INC]], [[National Rifle Association]], [[Google - Alphabet]], [[American Gaming Association]], [[Care Action]], [[National Association of Realtors]], [[Sinclair Broadcast Group]], [[Johnson & Johnson]], [[NextEra Energy]], [[NORPAC]], [[Microsoft]], [[Tyson Foods]], [[National Committee to Preserve Social Security PAC]], [[SLF PAC]], [[Honeywell]], [[Walmart - Walton Family]], [[Activate America]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Sierra Club Political Committee]], [[National Multifamily Housing Council]], [[Unite Here Tip Campaign Committee]], [[SEIU COPE]], [[Americans for Prosperity]], [[Citigroup]], [[CVS Health - Aetna]], [[League of Conservation Voters]], [[AIPAC - American Israel Public Affairs Committee]], [[NRSC - National Republican Senatorial Committee]], [[Everytown for Gun Safety]]"
 ---
 
 

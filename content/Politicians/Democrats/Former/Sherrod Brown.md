@@ -3,10 +3,10 @@ title: Sherrod Brown
 type: politician
 content-readiness: ready
 central-thesis: Brown represents the structural ceiling of labor-backed politics in post-2020 America. Despite being the Senate's most pro-labor voting record, highest AFL-CIO rating, strongest defense of trade protections for manufacturing workers, and deepest r...
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
-fec-candidate-id: "S6OH00163"
+fec-candidate-id: S6OH00163
 govtrack-id: 400050
 bills-sponsored: 36
 bills-cosponsored: 958
@@ -14,7 +14,7 @@ party: Democrat
 chamber: Senate
 state: Ohio
 state-abbr: OH
-donors: "[[Lawrence Summers]] · [[Ken Griffin]] · [[Buckeye Values PAC]] · [[Republican Jewish Coalition]] · [[David Sacks]] · [[Good Jobs and Strong Communities PAC]] · [[UAW - United Auto Workers]] · [[WinSenate]] · [[Conservation Ohio]] · [[Ohio Democratic Party]] · [[GOOD JOBS AND STRONG COMMUNITIES PAC]] · [[AMERICAN CROSSROADS]] · [[David Sacks (Donor Network)]] · [[Ruralvote.org]] · [[Fraternal Order of Police]] · [[California Nurses Association]] · [[American Crossroads]] · [[Stars and Stripes Forever PAC]] · [[American Iron and Steel Institute]] · [[David Sacks - Donor Network]] · [[Crossroads Grassroots Policy Strategies]]"
+donors: "[[Lawrence Summers]] · [[Ken Griffin]] · [[Buckeye Values PAC]] · [[Republican Jewish Coalition]] · [[David Sacks]] · [[Good Jobs and Strong Communities PAC]] · [[UAW - United Auto Workers]] · [[WinSenate]] · [[Conservation Ohio]] · [[Ohio Democratic Party]] · [[GOOD JOBS AND STRONG COMMUNITIES PAC]] · [[AMERICAN CROSSROADS]] · [[David Sacks (Donor Network)]] · [[Ruralvote.org]] · [[Fraternal Order of Police]] · [[California Nurses Association]] · [[American Crossroads]] · [[Stars and Stripes Forever PAC]] · [[American Iron and Steel Institute]] · [[David Sacks - Donor Network]] · [[Crossroads Grassroots Policy Strategies]] · [[Giffords PAC]] · [[Microsoft]] · [[Buckeye Values Pac]] · [[Morgan Stanley]] · [[Duke Energy]] · [[SEIU - Service Employees International Union]] · [[Americans for Prosperity]] · [[Votevets]] · [[Anthem - Elevance Health]] · [[AFSCME Working Families Fund]] · [[Activate America]] · [[Tyson Foods]] · [[National Association of Realtors]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[Shontel Brown]] · [[National Nurses United for Patient Protection]] · [[L3Harris Technologies]] · [[Planned Parenthood Action Fund INC]] · [[Honeywell]] · [[Nucor Corporation]] · [[NEA Fund for Children and Public Education]] · [[National Nurses United]] · [[Lockheed Martin]] · [[National Rifle Association]] · [[Sierra Club Political Committee]] · [[American College of Radiology Association PAC]] · [[Ford Motor Company]] · [[Leidos]] · [[General Dynamics]] · [[SLF PAC]] · [[Unite Here Tip Campaign Committee]] · [[SEIU COPE]] · [[American Gaming Association]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[League of Conservation Voters]] · [[American Hospital Association PAC]] · [[Teamsters - International Brotherhood of Teamsters]] · [[UA Political Action Committee]] · [[Progressive Turnout Project]] · [[Working Families Party PAC]] · [[J Street]] · [[ADM - Archer Daniels Midland]] · [[PG&E - Pacific Gas and Electric]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[Let America Vote PAC]] · [[Human Rights Campaign Equality Votes]] · [[Chrissy Houlahan]] · [[Women Speak Out Pac]] · [[MoveOn.org Political Action]] · [[General Motors]] · [[Protect the Vote]] · [[Nancy Pelosi]] · [[Indivisible Action]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[AT&T - WarnerMedia]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Northrop Grumman]] · [[Demand Justice]] · [[The Sentinel Action Fund]] · [[Bechtel Corporation]] · [[NextEra Energy]] · [[Everytown for Gun Safety]] · [[Airbnb]] · [[iHeartMedia]] · [[Google - Alphabet]] · [[Sierra Club Independent Action]] · [[AFL-CIO]] · [[National Multifamily Housing Council]] · [[Comcast - NBCUniversal]] · [[NRSC - National Republican Senatorial Committee]] · [[Planned Parenthood Votes]] · [[DSCC - Democratic Senatorial Campaign Committee]]"
 related: ">- · [[Crypto Industry Buys Both Parties in One Cycle]] · [[Ohio 2026 Special Senate Election]] · [[Jon Husted Master Profile]] · [[Bob Casey]] · [[Crypto Industry Bloc]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Ohio Federation of Teachers]] · [[Senate Leadership Fund]]"
 editorial-review-date: "2026-04-08"
 editorial-reviewer: Research Claude
@@ -63,14 +63,14 @@ issues:
   - Finance and Financial Sector
   - Government Operations and Politics
   - Health
-total-received: "$24,471,408"
+total-received: $24,471,408
 wikidata-id: Q381880
 wikipedia-url: https://en.wikipedia.org/wiki/Sherrod_Brown
 wikipedia-extract: Sherrod Campbell Brown is an American politician who served from 2007 to 2025 as a United States senator from Ohio. A member of the Democratic Party, he was the U.S.
 born: "1952-11-09"
 bills-enacted: 0
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "Health"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: Health
 ---
 
 

@@ -5,14 +5,14 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00401786
 aliases:
   - FREEDOM'S DEFENSE FUND
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
-politicians-funded: "[[Frank Pallone]]"
+politicians-funded: "[[Frank Pallone]], [[Ronny Jackson]], [[Steve Scalise]], [[Mike Carey]], [[Kevin McCarthy]], [[Morgan Luttrell]], [[Randy Fine]], [[Jimmy Patronis]], [[Bernie Moreno]], [[August Pfluger]], [[Nancy Mace]], [[Derrick van Orden]], [[Celeste Maloy]], [[Mariannette Miller-Meeks]], [[Dan Crenshaw]], [[Michelle Fischbach]], [[Scott Perry]], [[Young Kim]], [[Michael Waltz]], [[Sheri Biggs]], [[Richard McCormick]], [[Burgess Owens]], [[Ryan Zinke]], [[Chuck Edwards]], [[Pat Harrigan]], [[Mark Green]], [[Carlos Gimenez]], [[Elise Stefanik]], [[Nicole Malliotakis]], [[Brian Mast]], [[Lauren Boebert]], [[David Schweikert]], [[Ken Calvert]], [[Claudia Tenney]], [[Tim Sheehy]]"
 related: "[[Frank Pallone]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

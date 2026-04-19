@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Wall Street
 entity-type: Individual Donor
-politicians-funded: "[[Mitt Romney]]"
+politicians-funded: "[[Mitt Romney]], [[Winning for Women PAC]], [[_Troy Downing Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Jimmy Panetta Master Profile]], [[_Virginia Foxx Master Profile]], [[Conservative Solutions PAC]], [[Freedom Partners Action Fund Inc]], [[_John James Master Profile]], [[_Mario Diaz-Balart Master Profile]], [[Mark Kelly]], [[_Marco Rubio Master Profile]], [[ActBlue]], [[Wfw Action Fund, Inc.]], [[Preserve America]], [[RNC - Republican National Committee]], [[ESAFUND]], [[_Young Kim Master Profile]], [[WinRed]], [[Congressional Leadership Fund]], [[_Cory Booker Master Profile]], [[NORPAC]], [[The Sentinel Action Fund]], [[Catherine Cortez Masto]], [[SLF PAC]], [[_Chrissy Houlahan Master Profile]], [[Future45]], [[NRCC - National Republican Congressional Committee]], [[_Erin Houchin Master Profile]], [[MAJORITY PAC]], [[NRSC - National Republican Senatorial Committee]], [[AIPAC - American Israel Public Affairs Committee]], [[WinSenate]], [[_Jon Ossoff Master Profile]], [[_Ann Wagner Master Profile]], [[_Beth van Duyne Master Profile]], [[Sfa Fund, Inc]], [[National Victory Action Fund]], [[_Jamie Raskin Master Profile]], [[_Andy Barr Master Profile]], [[Virginia Foxx]], [[Beth van Duyne]], [[Marco Rubio]], [[Jon Ossoff]], [[Young Kim]], [[Ann Wagner]], [[Mario Diaz-Balart]], [[Chrissy Houlahan]], [[Jamie Raskin]], [[John James]], [[Erin Houchin]], [[Troy Downing]], [[Cory Booker]], [[Jimmy Panetta]], [[Andy Barr]]"
 issues:
   - Energy & Climate
   - Israel & Foreign Policy

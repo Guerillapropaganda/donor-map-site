@@ -1,33 +1,34 @@
 ---
-title: "Donald Norcross"
+title: Donald Norcross
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "New Jersey"
-state-abbr: "NJ"
+party: Democrat
+chamber: House
+state: New Jersey
+state-abbr: NJ
 district: "1"
-bioguide-id: "N000188"
+bioguide-id: N000188
 govtrack-id: 412606
 born: "1958-12-13"
-wikidata-id: "Q5294942"
-website: "https://norcross.house.gov"
-phone: "202-225-6501"
+wikidata-id: Q5294942
+website: https://norcross.house.gov
+phone: 202-225-6501
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H4NJ01084"
+fec-candidate-id: H4NJ01084
 bills-sponsored: 20
 bills-cosponsored: 353
 bills-enacted: 1
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[L3Harris Technologies]], [[PG&E - Pacific Gas and Electric]], [[BAE Systems]], [[Morgan Stanley]], [[American Chemistry Council, INC]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[General Dynamics]], [[National Multifamily Housing Council]], [[NORPAC]], [[Unite Here Tip Campaign Committee]], [[Raytheon (RTX)]], [[Google - Alphabet]], [[Northrop Grumman]], [[Anthem - Elevance Health]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[General Motors]], [[IBEW - International Brotherhood of Electrical Workers]], [[Leidos]], [[UA Political Action Committee]], [[Ted Lieu]], [[AT&T - WarnerMedia]], [[NextEra Energy]], [[American Hospital Association PAC]], [[League of Conservation Voters]], [[Teamsters - International Brotherhood of Teamsters]], [[National Association of Realtors]], [[Lockheed Martin]], [[SEIU COPE]], [[Microsoft]], [[Associated General Contractors of America Political Action Committee]], [[NEA Fund for Children and Public Education]], [[Honeywell]], [[AIPAC - American Israel Public Affairs Committee]], [[Planned Parenthood Votes]], [[DMFI - Democratic Majority for Israel]], [[AFL-CIO]], [[Comcast - NBCUniversal]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Sierra Club Independent Action]], [[Gilead Sciences]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Citigroup]], [[Blackstone Group]], [[Palantir Technologies]], [[McDonalds Corporation]], [[Boeing]], [[Bank of America]], [[Anduril Industries]], [[Goldman Sachs]], [[Apollo Global Management]], [[UPS]]"
 ---
 
 

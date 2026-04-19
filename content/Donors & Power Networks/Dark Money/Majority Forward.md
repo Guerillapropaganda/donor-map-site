@@ -212,3 +212,50 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 - ~~[IRS: Majority Forward 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Majority%20Forward&city=&state=All+States&country=US)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Majority%20Forward%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 3 (2021–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $122.6M |
+| Total expenses | — |
+| Total assets (EOY) | $17.7M |
+| Grants paid out | $107.6M |
+
+**Lifetime grants out (2021–2023):** $264.4M across 32 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| SMP | $124.4M | 3 | 2021–2023 |
+| AMERICA VOTES | $73.5M | 2 | 2021–2023 |
+| DUTY AND HONOR | $27.4M | 2 | 2021–2023 |
+| PRIORITIES USA | $9.0M | 3 | 2021–2023 |
+| NORTH STAR | $7.1M | 1 | 2021 |
+| AMERICANS FOR SECURE FUTURE | $5.5M | 1 | 2021 |
+| IMPETUS FUND | $3.4M | 1 | 2021 |
+| 53 PEAKS | $3.0M | 1 | 2023 |
+| PLANNED PARENTHOOD ACTION FUND | $1.9M | 1 | 2022 |
+| AMERICANS FOR ECONOMIC GROWTH | $1.4M | 1 | 2022 |
+| THE LINCOLN PROJECT | $1.4M | 1 | 2021 |
+| VOTEVETS ACTION FUND | $1.2M | 1 | 2021 |
+| SAVE MY COUNTRY ACTION FUND | $665K | 1 | 2022 |
+| OUR FUTURE UNITED PAC | $653K | 1 | 2021 |
+| SWING LEFT | $500K | 2 | 2022–2023 |
+| CLIMATE REALITY ACTION FUND | $330K | 1 | 2021 |
+| BLACK PROGRESSIVE ACTION COALITION | $303K | 1 | 2021 |
+| EMILY'S LIST ACTION FUND | $300K | 1 | 2022 |
+| 222 EVERGREEN | $250K | 1 | 2021 |
+| AMERICAN CENTER | $250K | 1 | 2021 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

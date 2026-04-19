@@ -1,21 +1,21 @@
 ---
-title: "TPUSA - Turning Point USA"
+title: TPUSA - Turning Point USA
 type: donor
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Dark Money"
-entity-type: "Individual Donor"
+sector: Dark Money
+entity-type: Individual Donor
 issues:
-  - "Dark Money & Campaign Finance"
-  - "Infrastructure"
+  - Dark Money & Campaign Finance
+  - Infrastructure
 related: "[[The Insurrection Investment - Who Funded January 6th and What They Got]] · [[Charlie Kirk]]"
 known-gaps:
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
+  - No FEC contribution data
+  - No lobbying disclosure data
 ein: "800835023"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-09"
 total-revenue: 86911918
 total-assets: 26269868
@@ -28,6 +28,7 @@ federal-grants-total: 499717
 employee-contributions: 159
 employee-contributions-total: 42998
 employee-donor-count: 59
+politicians-funded: "[[NRSC - National Republican Senatorial Committee]], [[Emily's List]], [[ActBlue]], [[WinRed]], [[_Jon Ossoff Master Profile]], [[Hmp]], [[NRCC - National Republican Congressional Committee]], [[DCCC - Democratic Congressional Campaign Committee]], [[FreedomWorks for America]], [[MoveOn.org Political Action]], [[_Elissa Slotkin Master Profile]], [[Progressive Turnout Project]], [[RNC - Republican National Committee]], [[Trump Victory]], [[MAGA Inc]], [[Human Rights Campaign Equality Votes]], [[Catherine Cortez Masto]], [[_Marco Rubio Master Profile]], [[Jon Ossoff]], [[Marco Rubio]], [[Elissa Slotkin]]"
 ---
 
 
@@ -169,3 +170,47 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/800835023/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/800835023/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/800835023/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 9 (2018–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $80.6M |
+| Total expenses | — |
+| Total assets (EOY) | $20.2M |
+| Grants paid out | $5.0M |
+
+**Lifetime grants out (2018–2023):** $60.3M across 17 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| TURNING POINT ENDOWMENT | $53.6M | 4 | 2019–2022 |
+| AMERICA'S TURNING POINT | $5.9M | 2 | 2022–2023 |
+| PRAGER UNIVERSITY FOUNDATION | $500K | 2 | 2019–2020 |
+| AMERICAN CONSERVATIVE UNION | $84K | 4 | 2020–2023 |
+| CONSERVATIVE BAPTIST NETWORK | $50K | 1 | 2022 |
+| TEXAS DEPARTMENT OF PUBLIC SAFETY | $40K | 1 | 2023 |
+| PINAL COUNTY SHERRIF'S OFFICE | $40K | 1 | 2023 |
+| COLORADO CHRISTIAN UNIVERSITY | $25K | 1 | 2020 |
+| NATIONAL RELIGIOUS BROADCASTERS | $15K | 1 | 2023 |
+| THE DARK WIRE | $15K | 1 | 2019 |
+| AMERICAN IDEAS INSTITUTE | $10K | 1 | 2022 |
+| SHADOW WARRIORS PROJECT | $10K | 1 | 2023 |
+| INTERCOLLEGIATE STUDIES INSTITUTE | $10K | 1 | 2023 |
+| THE AMERICAN CAUSE | $10K | 1 | 2023 |
+| NATIONAL SCHOOL BOARDS LEADERSHIP COUNCIL | $10K | 1 | 2023 |
+| DAILY CALLER NEWS FOUNDATION | $8K | 1 | 2022 |
+| VINDEX MEDIA | $8K | 1 | 2023 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

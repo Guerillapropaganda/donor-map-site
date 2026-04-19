@@ -1,33 +1,34 @@
 ---
-title: "Sara Jacobs"
+title: Sara Jacobs
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "California"
-state-abbr: "CA"
+party: Democrat
+chamber: House
+state: California
+state-abbr: CA
 district: "51"
-bioguide-id: "J000305"
+bioguide-id: J000305
 govtrack-id: 456804
 born: "1989-02-01"
-wikidata-id: "Q50825637"
-website: "https://sarajacobs.house.gov"
-phone: "202-225-2040"
+wikidata-id: Q50825637
+website: https://sarajacobs.house.gov
+phone: 202-225-2040
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H8CA49074"
+fec-candidate-id: H8CA49074
 bills-sponsored: 27
 bills-cosponsored: 457
 bills-enacted: 1
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Courage California Super Pac]], [[J Street]], [[National Association of Realtors]], [[NEA Fund for Children and Public Education]], [[PLANNED PARENTHOOD ACTION FUND OF THE PACIFIC SOUTHWEST PAC]], [[CHC BOLD PAC]], [[American Federation of State County & Municipal Employees P E O P L E]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Sierra Club Political Committee]], [[Sierra Club Independent Action]], [[IBEW - International Brotherhood of Electrical Workers]], [[Medicare for All - The Policy That Broke the Party]], [[Teamsters - International Brotherhood of Teamsters]], [[Let America Vote PAC]], [[Giffords PAC]], [[Planned Parenthood Action Fund INC]], [[American Hospital Association PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[League of Conservation Voters]], [[Progressive Turnout Project]], [[CTA - California Teachers Association]], [[Honeywell]], [[Indivisible Action]], [[SEIU COPE]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[National Nurses United]], [[Ripple]], [[Walt Disney Company]], [[Lyft]], [[Johnson & Johnson]], [[Amazon]], [[Google - Alphabet]], [[Bank of America]], [[SpaceX]], [[Citigroup]], [[Booz Allen Hamilton]], [[Goldman Sachs]]"
 ---
 
 

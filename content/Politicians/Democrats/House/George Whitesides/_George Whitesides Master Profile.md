@@ -1,29 +1,30 @@
 ---
-title: "George Whitesides"
+title: George Whitesides
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "California"
-state-abbr: "CA"
+party: Democrat
+chamber: House
+state: California
+state-abbr: CA
 district: "27"
-bioguide-id: "W000830"
+bioguide-id: W000830
 govtrack-id: 456977
 born: "1974-03-03"
-wikidata-id: "Q3511804"
-website: "https://whitesides.house.gov"
-phone: "202-225-1956"
+wikidata-id: Q3511804
+website: https://whitesides.house.gov
+phone: 202-225-1956
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H4CA27111"
+fec-candidate-id: H4CA27111
+top-donors: "[[CHC BOLD PAC]], [[Let America Vote PAC]], [[Pete Aguilar]], [[Sierra Club Independent Action]], [[314 ACTION FUND]], [[Comcast - NBCUniversal]], [[Giffords PAC]], [[Google - Alphabet]], [[Julia Brownley]], [[Honeywell]], [[SEIU COPE]], [[Sydney Kamlager-Dove]], [[Courage California Super Pac]], [[UA Political Action Committee]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Sierra Club Political Committee]], [[Gilead Sciences]], [[National Nurses United]], [[Raytheon (RTX)]], [[Everytown for Gun Safety]], [[DCCC - Democratic Congressional Campaign Committee]], [[Kevin Mullin]], [[Activate America]], [[BAE Systems]], [[Everytown for Gun Safety Victory Fund]], [[National Committee to Preserve Social Security PAC]], [[General Motors]], [[Laura Friedman]], [[NRCC - National Republican Congressional Committee]], [[League of Conservation Voters]], [[Hmp]], [[Indivisible Action]], [[Northrop Grumman]], [[Chrissy Houlahan]], [[Teamsters - International Brotherhood of Teamsters]], [[L3Harris Technologies]], [[General Dynamics]], [[Anthem - Elevance Health]], [[Bill Foster]], [[Coinbase]], [[Nancy Pelosi]], [[Robert Garcia]], [[Joe Neguse]], [[Planned Parenthood Action Fund INC]], [[Mark DeSaulnier]], [[Judy Chu]], [[NEA Fund for Children and Public Education]], [[Congressional Leadership Fund]], [[DMFI - Democratic Majority for Israel]], [[NextEra Energy]], [[Human Rights Campaign Equality Votes]], [[Progressive Turnout Project]], [[Microsoft]], [[Lockheed Martin]], [[MAJORITY PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[IBEW - International Brotherhood of Electrical Workers]], [[AbbVie]], [[Ted Lieu]], [[Paul Tonko]], [[National Association of Realtors]], [[Chevron]], [[Walt Disney Company]], [[Ripple]], [[BlackRock]], [[Nvidia]], [[Airbnb]], [[Charles Schwab]], [[Kaiser Permanente]], [[Morgan Stanley]], [[Anthem - Elevance Health Political Operation]], [[Bank of America]], [[Palantir Technologies]], [[Blue Shield of California]], [[Pfizer Inc.]], [[Cigna Group]], [[Blackstone Group]], [[Raytheon (RTX Corporation)]], [[Anduril Industries]], [[Open Society Foundations]], [[CTA - California Teachers Association]], [[AT&T]], [[Oracle]], [[a16z - Andreessen Horowitz]], [[SpaceX]], [[Apple]], [[Goldman Sachs]], [[UnitedHealth Group - Optum]], [[News Corp - Fox Corporation]], [[Boeing]], [[Booz Allen Hamilton]], [[MassMutual]], [[DoorDash]]"
 ---
 
 

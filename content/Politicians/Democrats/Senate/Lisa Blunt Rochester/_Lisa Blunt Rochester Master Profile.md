@@ -1,32 +1,33 @@
 ---
-title: "Lisa Blunt Rochester"
+title: Lisa Blunt Rochester
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "Senate"
-state: "Delaware"
-state-abbr: "DE"
-bioguide-id: "B001303"
+party: Democrat
+chamber: Senate
+state: Delaware
+state-abbr: DE
+bioguide-id: B001303
 govtrack-id: 412689
 born: "1962-02-10"
-wikidata-id: "Q26899141"
-website: "https://www.bluntrochester.senate.gov"
-phone: "202-224-2441"
+wikidata-id: Q26899141
+website: https://www.bluntrochester.senate.gov
+phone: 202-224-2441
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "S4DE00060"
+fec-candidate-id: S4DE00060
 bills-sponsored: 29
 bills-cosponsored: 470
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[International Association of Firefighters Interested in Registration and Education PAC]], [[McDonalds Corporation]], [[Microsoft]], [[Pete Aguilar]], [[AT&T - WarnerMedia]], [[Care Action]], [[American Federation of State County & Municipal Employees P E O P L E]], [[National Restaurant Association]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Tzedek PAC]], [[Everytown for Gun Safety]], [[American Hospital Association PAC]], [[AbbVie]], [[Airbnb]], [[League of Conservation Voters]], [[Planned Parenthood Action Fund INC]], [[Associated General Contractors of America Political Action Committee]], [[General Motors]], [[Johnson & Johnson]], [[Paul Tonko]], [[Bank of America]], [[Lisa Blunt Rochester]], [[Ford Motor Company]], [[Honeywell]], [[EQUALITY PROJECT PAC]], [[Anthem - Elevance Health]], [[Let America Vote PAC]], [[DoorDash]], [[IBEW - International Brotherhood of Electrical Workers]], [[J Street]], [[Duke Energy]], [[Chrissy Houlahan]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Sydney Kamlager-Dove]], [[Humana]], [[NextEra Energy]], [[American Chemistry Council, INC]], [[National Association of Realtors]], [[National Multifamily Housing Council]], [[NEA Fund for Children and Public Education]], [[Comcast - NBCUniversal]], [[UA Political Action Committee]], [[SEIU COPE]], [[Pfizer Inc.]], [[Morgan Stanley]], [[Sierra Club Political Committee]], [[DNC - Democratic National Committee]], [[Ted Lieu]], [[CVS Health - Aetna]], [[Walmart - Walton Family]], [[Gilead Sciences]], [[American College of Radiology Association PAC]], [[Coinbase]], [[Citigroup]], [[Nancy Pelosi]], [[Sierra Club Independent Action]], [[Giffords PAC]], [[Walmart]], [[Google - Alphabet]], [[Oracle]], [[Fanjul Family - Florida Crystals]], [[Cargill]], [[Centene Corporation]], [[Goldman Sachs]], [[Apple]], [[News Corp - Fox Corporation]], [[New Venture Fund]], [[Lockheed Martin]], [[DCCC - Democratic Congressional Campaign Committee]], [[Verizon]], [[Boeing]], [[OpenAI]], [[Nvidia]], [[a16z - Andreessen Horowitz]], [[US CHAMBER OF COMMERCE]], [[CTA - California Teachers Association]], [[Booz Allen Hamilton]], [[American Petroleum Institute]], [[Emily's List]], [[iHeartMedia]], [[Blackstone Group]], [[Fidelity Investments]], [[American Gaming Association]], [[Apollo Global Management]], [[Starbucks]], [[Honeywell International]], [[Amazon]], [[Walt Disney Company]], [[TikTok - ByteDance]], [[BlackRock]], [[UPS]], [[Southern Company]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[Eli Lilly]], [[AT&T]]"
 ---
 
 

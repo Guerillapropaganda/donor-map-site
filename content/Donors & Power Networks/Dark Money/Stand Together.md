@@ -2,7 +2,7 @@
 title: Stand Together
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Dark Money
@@ -59,7 +59,7 @@ court-jurisdictions:
   - District Court, N.D. New York
   - District Court, S.D. California
 total-political-spend: $84,259,968
-politicians-funded: "[[Bryan Steil]]"
+politicians-funded: "[[Bryan Steil]], [[Americans for Prosperity]], [[ActBlue]], [[Trump Victory]], [[WinRed]], [[_Jeff Crank Master Profile]], [[RNC - Republican National Committee]], [[Jeff Crank]]"
 nonprofit-status: 501(c)(3)
 total-revenue: 1852719
 total-assets: 290992
@@ -413,3 +413,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/912166417/2019)~~ (URL broken, archived by Ops)
 - ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/912166417/2018)~~ (URL broken, archived by Ops)
 - ~~[2017 Filing](https://projects.propublica.org/nonprofits/organizations/912166417/2017)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 4 (2018–2022)
+
+**Most recent filing (2022):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | — |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

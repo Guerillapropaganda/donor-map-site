@@ -1,99 +1,97 @@
 ---
-title: "Halliburton"
+title: Halliburton
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Energy & Utilities"
-entity-type: "Corporation"
+sector: Energy & Utilities
+entity-type: Corporation
 ein: "262383244"
-annual-revenue: "$3.0M"
-net-assets: "$806K"
+annual-revenue: $3.0M
+net-assets: $806K
 tax-year: "2022"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-10"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
-nonprofit-status: "501(c)(3)"
+reenrich-reason: run lda pipeline
+nonprofit-status: 501(c)(3)
 total-revenue: 4436307
 total-assets: 1150303
-lei: "ENYF8GB5SMQZ25S06U51"
-lei-jurisdiction: "US-DE"
+lei: ENYF8GB5SMQZ25S06U51
+lei-jurisdiction: US-DE
 related: "[[Valero Energy]] · [[John Barrasso]] · [[ExxonMobil]] · [[ConocoPhillips]] · [[Koch Industries]] · [[Fossil Fuel Bloc]] · [[WSPA - Western States Petroleum Association]] · [[Southern Company]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[NextEra Energy]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]] · [[Instacart]] · [[Uber]] · [[Lyft]] · [[UnitedHealth Group - Optum]] · [[Eli Lilly]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Johnson & Johnson]] · [[Gilead Sciences]] · [[Centene Corporation]] · [[AbbVie]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Humana]] · [[Hospital Corporation of America - HCA]] · [[Civica Rx]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Blue Cross Blue Shield Association]] · [[Anthem - Elevance Health Political Operation]] · [[Flex Association]] · [[DoorDash]] · [[Airbnb]] · [[Marathon Petroleum]] · [[Hawaiian Electric Company]] · [[Duke Energy]] · [[Devon Energy]] · [[Chevron]] · [[Eli Broad Foundation]] · [[CTA - California Teachers Association]] · [[Raytheon (RTX Corporation)]]"
 sec-filings: 10000
 sec-form-types:
   - "144"
   - "4"
-  - "424B2"
-  - "424B3"
+  - 424B2
+  - 424B3
   - "425"
-  - "8-K"
-  - "CORRESP"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "DEFM14A"
-  - "EX-10"
-  - "EX-10.1"
-  - "EX-10.15"
-  - "EX-10.19"
-  - "EX-10.2"
-  - "EX-10.36"
-  - "EX-10.4"
-  - "EX-10.6"
-  - "EX-10.7"
-  - "EX-21"
-  - "EX-21.1"
-  - "EX-24"
-  - "EX-4.30"
-  - "EX-99.1"
-  - "EX-99.4"
-  - "EX-99.6"
-  - "FWP"
-  - "PRE 14A"
-  - "S-1/A"
-  - "S-3ASR"
-  - "S-4"
-  - "S-4/A"
-  - "SC TO-I/A"
-  - "SCHEDULE 13G/A"
+  - 8-K
+  - CORRESP
+  - DEF 14A
+  - DEFA14A
+  - DEFM14A
+  - EX-10
+  - EX-10.1
+  - EX-10.15
+  - EX-10.19
+  - EX-10.2
+  - EX-10.36
+  - EX-10.4
+  - EX-10.6
+  - EX-10.7
+  - EX-21
+  - EX-21.1
+  - EX-24
+  - EX-4.30
+  - EX-99.1
+  - EX-99.4
+  - EX-99.6
+  - FWP
+  - PRE 14A
+  - S-1/A
+  - S-3ASR
+  - S-4
+  - S-4/A
+  - SC TO-I/A
+  - SCHEDULE 13G/A
 court-cases: 12856
 court-jurisdictions:
-  - "District Court, D. Kansas"
-  - "District Court, E.D. California"
-  - "District Court, E.D. Virginia"
-  - "District Court, M.D. Pennsylvania"
-  - "District Court, S.D. Alabama"
-  - "District Court, S.D. Texas"
-  - "District Court, W.D. Louisiana"
-  - "District Court, W.D. Michigan"
-  - "District Court, W.D. Tennessee"
-  - "District Court, W.D. Texas"
+  - District Court, D. Kansas
+  - District Court, E.D. California
+  - District Court, E.D. Virginia
+  - District Court, M.D. Pennsylvania
+  - District Court, S.D. Alabama
+  - District Court, S.D. Texas
+  - District Court, W.D. Louisiana
+  - District Court, W.D. Michigan
+  - District Court, W.D. Tennessee
+  - District Court, W.D. Texas
 subawards-issued: 1
 subawards-issued-amount: 54006
 subawards-received: 1
 subawards-received-amount: 54006
 federal-register-mentions: 268
 regulatory-agencies:
-  - "Antitrust Division"
-  - "Centers for Medicare & Medicaid Services"
-  - "Export-Import Bank"
-  - "Foreign Assets Control Office"
-  - "Health Resources and Services Administration"
-  - "Health and Human Services Department"
-  - "Justice Department"
-  - "Labor Department"
-  - "Occupational Safety and Health Administration"
-  - "Pipeline and Hazardous Materials Safety Administration"
+  - Antitrust Division
+  - Centers for Medicare & Medicaid Services
+  - Export-Import Bank
+  - Foreign Assets Control Office
+  - Health Resources and Services Administration
+  - Health and Human Services Department
+  - Justice Department
+  - Labor Department
+  - Occupational Safety and Health Administration
+  - Pipeline and Hazardous Materials Safety Administration
 ftc-enforcement-actions: 0
 ftc-hsr-notices: 8
 cross-vault-triangulation-count: 9
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 12
-epa-states: "CA, KS, NH, OK, TX, WY"
+epa-states: CA, KS, NH, OK, TX, WY
 total-raised: 248553
 total-spent: 194788
 cash-on-hand: 309852
@@ -102,6 +100,7 @@ contributions-to-committees: 135000
 employee-contributions: 2511
 employee-contributions-total: 418270
 employee-donor-count: 346
+politicians-funded: "[[Bruce Westerman]], [[RNC - Republican National Committee]], [[Lisa Murkowski]], [[Steve Scalise]], [[Cathy McMorris Rodgers]], [[Dan Sullivan]], [[Halliburton]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Christian D. Menefee Master Profile]], [[Tom Cole]], [[Henry Cuellar]], [[Bill Hagerty]], [[Mike Lee]], [[Jodey Arrington]], [[Cliff Bentz]], [[314 ACTION FUND]], [[Bryan Steil]], [[Kevin Cramer]], [[WinRed]], [[ActBlue]], [[Kyrsten Sinema]], [[NRSC - National Republican Senatorial Committee]], [[Kevin McCarthy]], [[Frank Lucas]], [[August Pfluger]], [[Giffords PAC]], [[Steven Horsford]], [[Guy Reschenthaler]], [[Dusty Johnson]], [[NRCC - National Republican Congressional Committee]], [[Pete Stauber]], [[Rudy Yakym]], [[Emily's List]], [[_Jason Crow Master Profile]], [[_Ted Cruz Master Profile]], [[Michael Cloud]], [[Kay Granger]], [[Ken Calvert]], [[The Lincoln Project]], [[John Cornyn]], [[Mark Kelly]], [[Tim Scott]], [[Roger Williams]], [[Ryan Zinke]], [[John Hoeven]], [[Club for Growth]], [[Vicente Gonzalez]], [[MAGA Inc]], [[Dan Newhouse]], [[French Hill]], [[Celeste Maloy]], [[Michael Whatley]], [[Dan Crenshaw]], [[_Jon Ossoff Master Profile]], [[Save America PAC]], [[James Lankford]], [[DCCC - Democratic Congressional Campaign Committee]], [[Young Kim]], [[Monica de la Cruz]], [[John Kennedy]], [[Morgan Luttrell]], [[Jim Costa]], [[Deb Fischer]], [[_Byron Donalds Master Profile]], [[Erin Houchin]], [[Troy Balderson]], [[Vince Fong]], [[Jason Smith]], [[Trump Victory]], [[National Rifle Association]], [[Bernie Moreno]], [[John Thune]], [[Patrick McHenry]], [[Mike Flood]], [[Tim Sheehy]], [[John Barrasso]], [[Ron Estes]], [[Jon Ossoff]], [[Ted Cruz]], [[Jason Crow]], [[Byron Donalds]], [[Christian D. Menefee]]"
 ---
 
 
@@ -397,3 +396,50 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/262383244/2019)~~ (URL broken, archived by Ops)
 - ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/262383244/2018)~~ (URL broken, archived by Ops)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Halliburton%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 4 (2020–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $4.1M |
+| Total expenses | — |
+| Total assets (EOY) | $1.2M |
+| Grants paid out | $3.2M |
+
+**Lifetime grants out (2020–2024):** $9.8M across 223 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| Astros Foundation | $500K | 2 | 2022–2023 |
+| Houston Police Foundation | $377K | 4 | 2022–2024 |
+| Kids Meals | $204K | 3 | 2020–2022 |
+| Coastal Prairie Conservancy | $179K | 4 | 2022–2024 |
+| Combined Arms | $159K | 4 | 2022–2024 |
+| High Sky CHildrens Ranch | $156K | 4 | 2022–2024 |
+| Undies for Everyone | $155K | 4 | 2022–2024 |
+| The Council on Recovery | $154K | 4 | 2022–2024 |
+| Safe Kids Worldwide | $153K | 4 | 2022–2024 |
+| Trees for Houston | $152K | 4 | 2022–2024 |
+| The Montrose Center | $152K | 4 | 2022–2024 |
+| Houston Food Bank | $150K | 4 | 2020–2024 |
+| Medical Bridges | $129K | 4 | 2020–2023 |
+| Brighter Bites | $127K | 3 | 2022–2024 |
+| Buckner | $115K | 3 | 2022–2023 |
+| KIDS MEALS INC | $108K | 2 | 2023–2024 |
+| The Village Centers | $106K | 3 | 2022–2023 |
+| RONALD MCDONALD HOUSE OF HOUSTON INC | $104K | 2 | 2023–2024 |
+| GIRLS INCORPORATED OF GREATER HOUSTON | $104K | 2 | 2023–2024 |
+| RECIPE FOR SUCCESS FOUNDATION | $103K | 2 | 2023–2024 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

@@ -118,3 +118,32 @@ One Israel Fund exemplifies how U.S. tax law is weaponized to support foreign oc
 Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
 
 - ~~[IRS Form 990: One Israel Fund Tax Filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=One%20Israel%20Fund&city=&state=All+States&country=US)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $8.7M |
+| Total expenses | — |
+| Total assets (EOY) | $7.1M |
+| Grants paid out | — |
+
+**Lifetime grants out (2018–2024):** $227K across 2 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| GENESIS 123 FOUNDATION | $218K | 2 | 2018–2019 |
+| MAALE ADUMIM FOUNDATION | $9K | 1 | 2018 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

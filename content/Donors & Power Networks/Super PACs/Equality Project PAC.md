@@ -5,14 +5,14 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00785899
 aliases:
   - EQUALITY PROJECT PAC
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
-politicians-funded: "[[Ritchie Torres]], [[Mark Takano]]"
+politicians-funded: "[[Ritchie Torres]], [[Mark Takano]], [[Marcy Kaptur]], [[Jerrold Nadler]], [[Sharice Davids]], [[Zoe Lofgren]], [[Emily Randall]], [[Dan Goldman]], [[Sarah McBride]], [[Julie Johnson]], [[Robert Garcia]], [[Eric Sorensen]], [[Lisa Blunt Rochester]], [[Angie Craig]], [[Chris Pappas]]"
 related: "[[Ritchie Torres]] · [[Mark Takano]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

@@ -2,7 +2,7 @@
 title: Blue Cross Blue Shield Association
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Healthcare
@@ -15,16 +15,16 @@ last-enriched: "2026-04-18"
 needs-reenrichment: true
 reenrich-reason: run lda pipeline
 ofac-programs:
-  - "SDNTK"
-  - "IRAN"
-  - "SDGT"
-  - "SDGT] [IFSR"
-  - "BELARUS-EO14038"
-  - "GLOMAG"
-  - "IRAN-EO13846"
-  - "NPWMD] [IFSR"
-  - "IRAN-EO13902"
-  - "SDGT] [ILLICIT-DRUGS-EO14059"
+  - SDNTK
+  - IRAN
+  - SDGT
+  - SDGT] [IFSR
+  - BELARUS-EO14038
+  - GLOMAG
+  - IRAN-EO13846
+  - NPWMD] [IFSR
+  - IRAN-EO13902
+  - SDGT] [ILLICIT-DRUGS-EO14059
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 federal-register-mentions: 27
@@ -57,7 +57,7 @@ court-jurisdictions:
   - United States Bankruptcy Court, S.D. Texas
 cross-vault-triangulation-count: 19
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-politicians-funded: "[[Chris Murphy]], [[Tammy Baldwin]], [[Roy Cooper]]"
+politicians-funded: "[[Chris Murphy]], [[Tammy Baldwin]], [[Roy Cooper]], [[_Lauren Underwood Master Profile]], [[RNC - Republican National Committee]], [[One Nation]], [[ActBlue]], [[_Rashida Tlaib Master Profile]], [[WinRed]], [[Giffords PAC]], [[MAGA Inc]], [[NRCC - National Republican Congressional Committee]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Jon Ossoff Master Profile]], [[Progressive Turnout Project]], [[Jon Ossoff]], [[Lauren Underwood]], [[Rashida Tlaib]]"
 employee-contributions: 119
 employee-contributions-total: 58431
 employee-donor-count: 66
@@ -447,3 +447,50 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 - ~~[CMS: Medicare administrative cost data](https://www.cms.gov/data-research/statistics-trends-and-reports)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Blue%20Cross%20Blue%20Shield%20Association%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | $1.25B |
+| Grants paid out | $1.2M |
+
+**Lifetime grants out (2018–2024):** $3.2M across 32 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| BOYS &amp; GIRLS CLUB | $1.1M | 2 | 2023–2024 |
+| ALLIANCE TO FIGHT THE FORTY (AKA ALLIANCE TO FIGHT FOR HEALTH CARE) | $250K | 2 | 2023–2024 |
+| PARTNERSHIP FOR AMERICA'S HEALTHCARE FUTURE (PAHCF) | $200K | 1 | 2023 |
+| FEDERAL EMPLOYEE EDUCATION &amp; ASSISTANCE FUNDS | $171K | 1 | 2023 |
+| AMERICAN ACTION FORUM | $150K | 2 | 2023–2024 |
+| THE FOUNDATION OF RESEARCH ON EQUAL OPPORTUNITY (FREOPP) | $150K | 2 | 2023–2024 |
+| AMERICA'S HEALTH INSURANCE PLANS (AHIP) (COALITION AGAINST SURPRISE MEDICAL | $125K | 1 | 2023 |
+| ONE NATION INC | $100K | 1 | 2023 |
+| MAJORITY FORWARD | $100K | 1 | 2023 |
+| NATIONAL GOVERNORS ASSOCIATION FOR BEST PRACTICES | $100K | 1 | 2023 |
+| NAACP | $100K | 1 | 2024 |
+| BLUE CROSS AND BLUE SHIELD FOUNDATION ON HEALTH CARE | $100K | 1 | 2024 |
+| MARCH OF DIMES | $75K | 2 | 2023–2024 |
+| BLESSINGS IN A BACKPACK | $53K | 2 | 2023–2024 |
+| BLUE CROSS BLUE SHIELD FOUNDATION | $50K | 1 | 2023 |
+| AMERICAN ENTERPRISE INSTITUTE FOR PUBLIC POLICY RESEARCH | $50K | 1 | 2023 |
+| BC AND BS FOUNDATION ON HEALTH CARE | $50K | 1 | 2023 |
+| KEEP AMERICANS COVERED | $50K | 1 | 2024 |
+| THE ARC OF PG COUNTY | $44K | 1 | 2023 |
+| GARDENEERS | $40K | 2 | 2023–2024 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

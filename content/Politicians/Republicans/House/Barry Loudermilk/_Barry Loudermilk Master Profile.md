@@ -1,33 +1,34 @@
 ---
-title: "Barry Loudermilk"
+title: Barry Loudermilk
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Georgia"
-state-abbr: "GA"
+party: Republican
+chamber: House
+state: Georgia
+state-abbr: GA
 district: "11"
-bioguide-id: "L000583"
+bioguide-id: L000583
 govtrack-id: 412624
 born: "1963-12-22"
-wikidata-id: "Q16731643"
-website: "https://loudermilk.house.gov"
-phone: "202-225-2931"
+wikidata-id: Q16731643
+website: https://loudermilk.house.gov
+phone: 202-225-2931
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H4GA11061"
+fec-candidate-id: H4GA11061
 bills-sponsored: 14
 bills-cosponsored: 184
 bills-enacted: 0
-top-policy-area: "Finance and Financial Sector"
+top-policy-area: Finance and Financial Sector
+top-donors: "[[National Rental Home Council]], [[Lockheed Martin]], [[AT&T - WarnerMedia]], [[Associated General Contractors of America Political Action Committee]], [[American Hospital Association PAC]], [[Marathon Petroleum]], [[National Association of Realtors]], [[MAJORITY PAC]], [[National Multifamily Housing Council]], [[National Rifle Association]], [[Citigroup]], [[American Chemistry Council, INC]], [[Austin Scott]], [[Walmart - Walton Family]], [[Morgan Stanley]], [[Save America PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[Ben Cline]], [[JPAC - Jewish Public Affairs Committee of California]], [[Bank of America]]"
 ---
 
 

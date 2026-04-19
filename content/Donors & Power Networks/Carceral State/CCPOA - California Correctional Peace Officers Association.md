@@ -2,12 +2,12 @@
 title: CCPOA - California Correctional Peace Officers Association
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Carceral State
 entity-type: Corporation
-politicians-funded: "[[Chad Bianco]], [[Gavin Newsom]]"
+politicians-funded: "[[Chad Bianco]], [[Gavin Newsom]], [[ActBlue]]"
 federal-contracts: "172495"
 ein: "941490964"
 nonprofit-status: 501(c)(5)
@@ -416,3 +416,47 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/941490964/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/941490964/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/941490964/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 8 (2018–2025)
+
+**Most recent filing (2025):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | $50.7M |
+| Grants paid out | $725K |
+
+**Lifetime grants out (2018–2025):** $2.5M across 17 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| STAND UP FOR VICTIMS INC | $900K | 4 | 2021–2025 |
+| INDEPENDENT VOTER PROJECT | $500K | 1 | 2025 |
+| CVU | $454K | 2 | 2018–2019 |
+| CRIME VICTIMS UNITED (CVU) | $200K | 1 | 2020 |
+| MILE | $72K | 1 | 2019 |
+| VETS 4 HUNTN &amp; FISHN | $65K | 4 | 2020–2025 |
+| OAKLAND MILITARY INSTITUTE | $60K | 2 | 2018–2019 |
+| MAKE-A-WISH FOUNDATION | $40K | 3 | 2020–2022 |
+| PARENTS OF MURDERED CHILDREN | $40K | 4 | 2022–2025 |
+| JOHN BURTON ADVOCATES FOR YOUTH | $30K | 3 | 2020–2023 |
+| LETTERS TO SANTA | $30K | 3 | 2020–2022 |
+| MUSTARD SEED SCHOOL | $25K | 1 | 2019 |
+| PRO YOUTH &amp; FAMILIES | $20K | 2 | 2018–2020 |
+| INSTITUTE FOR DNA JUSTICE | $10K | 1 | 2020 |
+| AMERICAN RED CROSS | $10K | 1 | 2022 |
+| IMPROVE YOUR TOMORROW | $10K | 1 | 2018 |
+| CHILDHOOD CANCER FOUNDATION OF SOUTHERN CA | $10K | 1 | 2019 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

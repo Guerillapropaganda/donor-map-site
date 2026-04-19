@@ -1,31 +1,30 @@
 ---
-title: "Nvidia"
+title: Nvidia
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Tech & Crypto"
-entity-type: "Corporation"
+sector: Tech & Crypto
+entity-type: Corporation
 issues:
-  - "Technology"
-  - "Defense & Military"
-lei: "549300S4KLFTLO7GSQ80"
-lei-jurisdiction: "US-DE"
+  - Technology
+  - Defense & Military
+lei: 549300S4KLFTLO7GSQ80
+lei-jurisdiction: US-DE
 related: "[[OpenAI]] · [[Microsoft]] · [[Google - Alphabet]] · [[Meta - Facebook]] · [[Apple]] · [[Anthropic]] · [[AI Regulation and Tech Donors]]"
 cpsc-recalls: 2
 last-enriched: "2026-04-09"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 cross-vault-triangulation-count: 7
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 14
-epa-states: "CA, NC"
+epa-states: CA, NC
 employee-contributions: 11251
 employee-contributions-total: 2626398
 employee-donor-count: 1702
+politicians-funded: "[[Let America Vote PAC]], [[_Kevin Kiley Master Profile]], [[RNC - Republican National Committee]], [[Barbara Lee]], [[MoveOn.org Political Action]], [[Save America PAC]], [[_Dave Min Master Profile]], [[Progressive Turnout Project]], [[_Ted Cruz Master Profile]], [[_Mike Levin Master Profile]], [[Dream United]], [[_Rashida Tlaib Master Profile]], [[League of Conservation Voters]], [[Mark Kelly]], [[_Lisa Blunt Rochester Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Elissa Slotkin Master Profile]], [[The Lincoln Project]], [[_Summer Lee Master Profile]], [[_Nancy Pelosi Master Profile]], [[Congressional Progressive Caucus PAC]], [[National Rifle Association]], [[WinRed]], [[314 ACTION FUND]], [[Indivisible Action]], [[DNC - Democratic National Committee]], [[Really American Pac]], [[Planned Parenthood Votes]], [[Sierra Club Political Committee]], [[_Cory Booker Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[JUSTICE DEMOCRATS PAC]], [[Emily's List]], [[NRCC - National Republican Congressional Committee]], [[ActBlue]], [[_Lauren Underwood Master Profile]], [[Hmp]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Bob Casey]], [[WinSenate]], [[MAGA Inc]], [[_Josh Harder Master Profile]], [[_Jim Jordan Master Profile]], [[_Tammy Baldwin Master Profile]], [[Law Enforcement for a Safer America Pac]], [[_Cori Bush Master Profile]], [[_Alex Padilla Master Profile]], [[_George Whitesides Master Profile]], [[_Jason Crow Master Profile]], [[Votevets]], [[CHC BOLD PAC]], [[Giffords PAC]], [[Democratic Party of Virginia]], [[_Martin Heinrich Master Profile]], [[Catherine Cortez Masto]], [[_Kamala Harris Master Profile]], [[_Josh Riley Master Profile]], [[_Marco Rubio Master Profile]], [[_Jon Ossoff Master Profile]], [[_Chris Pappas Master Profile]], [[_Angie Craig Master Profile]], [[Planned Parenthood Action Fund INC]], [[_Susie Lee Master Profile]], [[_Adam Gray Master Profile]], [[_Vince Fong Master Profile]], [[_Jamie Raskin Master Profile]], [[_Derek Tran Master Profile]], [[PRIORITIES USA ACTION]], [[Together We Thrive]], [[Ab Pac]], [[Chris Christie]], [[DMFI - Democratic Majority for Israel]], [[_Julia Brownley Master Profile]], [[Cory Booker]], [[Jon Ossoff]], [[George Whitesides]], [[Rashida Tlaib]], [[Nancy Pelosi]], [[Susie Lee]], [[Martin Heinrich]], [[Ted Cruz]], [[Adam Gray]], [[Lauren Underwood]], [[Tammy Baldwin]], [[Julia Brownley]], [[Chris Pappas]], [[Mike Levin]], [[Vince Fong]], [[Jason Crow]], [[Lisa Blunt Rochester]], [[Derek Tran]], [[Summer Lee]], [[Dave Min]], [[Josh Harder]], [[Kevin Kiley]], [[Jim Jordan]], [[Cori Bush]], [[Jamie Raskin]], [[Alex Padilla]], [[Kamala Harris]], [[Elissa Slotkin]], [[Josh Riley]], [[Angie Craig]], [[Marco Rubio]]"
 ---
 
 

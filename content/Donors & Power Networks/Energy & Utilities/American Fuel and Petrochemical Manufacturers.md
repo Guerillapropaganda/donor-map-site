@@ -311,3 +311,50 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/530115970/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/530115970/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/530115970/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 4 (2019–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | $74.5M |
+| Grants paid out | $553K |
+
+**Lifetime grants out (2019–2023):** $2.6M across 65 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| AMERICAN ENERGY ALLIANCE | $850K | 4 | 2019–2023 |
+| AMERICAN COUNCIL FOR CAPITAL FORMATION | $180K | 4 | 2019–2023 |
+| US CHAMBER OF COMMERCE | $100K | 3 | 2019–2022 |
+| CONGRESSIONAL BLACK CAUCUS INSTITUTE | $80K | 3 | 2019–2023 |
+| THE CHEMICAL EDUCATIONAL FOUNDATION | $80K | 4 | 2019–2023 |
+| AMERICAN ASSOCIATION OF BLACKS IN ENERGY | $75K | 4 | 2019–2023 |
+| AMERICANS FOR TAX REFORM | $75K | 1 | 2019 |
+| NALEO EDUCATION FUND | $70K | 2 | 2019–2020 |
+| THE COUNCIL OF STATE GOVERNMENTS | $66K | 4 | 2019–2023 |
+| CONSUMER ENERGY ALLIANCE | $51K | 3 | 2019–2023 |
+| COMPETITIVE ENTERPRISE INSTITUTE | $50K | 2 | 2019–2020 |
+| NEW JERSEY BUSINESS &amp; INDUSTRY ASSOCIATION | $50K | 1 | 2023 |
+| TEXAS OIL &amp; GAS ASSOCIATION | $50K | 1 | 2019 |
+| AMERICAN LEGISLATIVE EXCHANGE COUNCIL | $49K | 4 | 2019–2023 |
+| AMERICAN HIGHWAY USERS ALLIANCE | $47K | 2 | 2019–2022 |
+| AMERICAN COMMITMENT | $45K | 3 | 2019–2022 |
+| CENTER FOR MILITARY RECRUITMENT ASSESSMENT AND VETERANS EMPLOYMENT | $40K | 4 | 2019–2023 |
+| NATIONAL BLACK CAUCUS OF STATE LEGISLATORS | $40K | 3 | 2020–2023 |
+| WOMEN'S ENERGY NETWORK | $40K | 4 | 2019–2023 |
+| STATE POLICY NETWORK | $40K | 3 | 2019–2023 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

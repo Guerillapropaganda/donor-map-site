@@ -1,30 +1,30 @@
 ---
-title: "Brad Knott"
+title: Brad Knott
 type: politician
 content-readiness: raw
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "North Carolina"
-state-abbr: "NC"
+party: Republican
+chamber: House
+state: North Carolina
+state-abbr: NC
 district: "13"
-bioguide-id: "K000405"
+bioguide-id: K000405
 govtrack-id: 457004
 born: "1986-04-17"
-wikidata-id: "Q130979816"
-website: "https://knott.house.gov"
-phone: "202-225-4531"
+wikidata-id: Q130979816
+website: https://knott.house.gov
+phone: 202-225-4531
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
-donors: "[[CA Farm Bureau Federation]]"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
+donors: "[[CA Farm Bureau Federation]], [[Jim Jordan]], [[General Dynamics]], [[Pfizer Inc.]], [[Tyson Foods]], [[Honeywell]], [[National Multifamily Housing Council]], [[Care Action]], [[Nucor Corporation]], [[Duke Energy]], [[General Motors]], [[National Association of Realtors]], [[MAJORITY PAC]], [[National Rifle Association]], [[Gilead Sciences]], [[Anthem - Elevance Health]], [[Amgen Inc]], [[Walmart - Walton Family]], [[American Chemistry Council, INC]], [[Ted Budd]], [[Southern States Police Benevolent Assoc PAC Fund]], [[Mike Haridopolos]], [[Leidos]], [[AIPAC - American Israel Public Affairs Committee]], [[AT&T - WarnerMedia]], [[Americans for Prosperity]], [[Troy Downing]], [[Chevron]], [[Comcast - NBCUniversal]], [[Google - Alphabet]], [[CVS Health - Aetna]], [[National Restaurant Association]], [[Associated General Contractors of America Political Action Committee]], [[Amazon]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[Blackstone Group]], [[Microsoft]], [[Goldman Sachs]], [[CBRE Group]], [[McDonalds Corporation]], [[Wells Fargo]], [[Anduril Industries]]"
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H4NC13116"
+fec-candidate-id: H4NC13116
 ---
 
 

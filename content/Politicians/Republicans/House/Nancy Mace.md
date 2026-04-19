@@ -5,7 +5,7 @@ chamber: House
 party: Republican
 content-readiness: ready
 central-thesis: Nancy Mace is the donor-class weather vane. Her positions do not reflect a stable ideology or principle , they shift when the donor incentive structure changes. Her post-January 6 criticism of Trump was genuine, but only lasted as long as moderate...
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 total-received: $452,863
@@ -25,9 +25,9 @@ known-gaps:
   - No mapped relationships
 related: "[[_Donald Trump Master Profile]] · [[Crypto Industry Bloc]] · [[House Majority PAC]]"
 top-donors: "[[CLUB FOR GROWTH ACTION]] · [[SOUTH CAROLINA PATRIOTS PAC]] · [[314 Action Fund]] · [[South Carolina Patriots PAC]]"
-donors: "[[South Carolina Patriots PAC]] · [[SOUTH CAROLINA PATRIOTS PAC]] · [[CLUB FOR GROWTH ACTION]] · [[314 Action Fund]]"
+donors: "[[South Carolina Patriots PAC]] · [[SOUTH CAROLINA PATRIOTS PAC]] · [[CLUB FOR GROWTH ACTION]] · [[314 Action Fund]] · [[Marathon Petroleum]] · [[National Restaurant Association]] · [[Nucor Corporation]] · [[BAE Systems]] · [[Ben Cline]] · [[Oracle]] · [[Microsoft]] · [[Congressional Leadership Fund]] · [[Citadel - Kenneth Griffin]] · [[Leidos]] · [[Republican Jewish Coalition]] · [[General Dynamics]] · [[AbbVie]] · [[Chevron]] · [[AT&T - WarnerMedia]] · [[Duke Energy]] · [[Raytheon (RTX Corporation)]] · [[VIEW PAC - Value in Electing Women]] · [[McDonalds Corporation]] · [[Jason Smith]] · [[Lennar Corporation]] · [[National Rifle Association]] · [[Jim Jordan]] · [[Honeywell]] · [[Amazon]] · [[Scott Franklin]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[Freedom's Defense Fund]] · [[Byron Donalds]] · [[CVS Health - Aetna]] · [[Google - Alphabet]] · [[David Rouzer]] · [[NextEra Energy]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[WinRed]] · [[Associated General Contractors of America Political Action Committee]] · [[Las Vegas Sands]] · [[Blackstone Group]] · [[Johnson & Johnson]] · [[General Motors]] · [[Walmart]] · [[AIPAC - American Israel Public Affairs Committee]] · [[NORPAC]] · [[PG&E - Pacific Gas and Electric]] · [[MAJORITY PAC]] · [[National Multifamily Housing Council]] · [[Wells Fargo]] · [[Morgan Stanley]] · [[Lockheed Martin]] · [[Club for Growth INC PAC]] · [[Club for Growth]] · [[UPS]] · [[US CHAMBER OF COMMERCE]] · [[American Chemistry Council, INC]] · [[iHeartMedia]] · [[American Hospital Association PAC]] · [[Planned Parenthood Votes]] · [[Walmart - Walton Family]] · [[Adrian Smith]] · [[Hospital Corporation of America - HCA]] · [[National Association of Realtors]] · [[Ford Motor Company]] · [[Gilead Sciences]] · [[National Victory Action Fund]] · [[American Principles Project Pac]] · [[Airbnb]] · [[Comcast - NBCUniversal]] · [[Women Speak Out Pac]] · [[Anthem - Elevance Health]] · [[Joe Wilson]] · [[Raytheon (RTX)]] · [[Americans for Prosperity]] · [[Drain the DC Swamp PAC]] · [[Jake Ellzey]] · [[National Association of Manufacturers]] · [[Business Roundtable]]"
 bills-enacted: 0
-top-policy-area: "Government Operations and Politics"
+top-policy-area: Government Operations and Politics
 ---
 
 

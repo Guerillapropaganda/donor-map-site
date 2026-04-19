@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Wall Street
 entity-type: Corporation
-politicians-funded: "[[Betty Yee]], [[Gavin Newsom]]"
+politicians-funded: "[[Betty Yee]], [[Gavin Newsom]], [[NRSC - National Republican Senatorial Committee]], [[_Josh Harder Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[ActBlue]], [[RNC - Republican National Committee]], [[Mark Kelly]], [[J Street]], [[_Nancy Pelosi Master Profile]], [[NRCC - National Republican Congressional Committee]], [[_Jim Jordan Master Profile]], [[MAGA Inc]], [[_Jamie Raskin Master Profile]], [[WinRed]], [[_Jon Ossoff Master Profile]], [[Let America Vote PAC]], [[_John James Master Profile]], [[Emily's List]], [[Catherine Cortez Masto]], [[Nancy Pelosi]], [[Jon Ossoff]], [[John James]], [[Jamie Raskin]], [[Josh Harder]], [[Jim Jordan]]"
 issues:
   - Wall Street & Finance
 subawards-issued: 50

@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Real Estate
 entity-type: Corporation
-politicians-funded: "[[Gavin Newsom]], [[Antonio Villaraigosa]]"
+politicians-funded: "[[Gavin Newsom]], [[Antonio Villaraigosa]], [[ActBlue]], [[_Jon Ossoff Master Profile]], [[_Dave Min Master Profile]], [[Dave Min]], [[Jon Ossoff]]"
 issues:
   - Housing
 lobbying-spend: 10419974
@@ -266,3 +266,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22California%20Apartment%20Association%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F950944360_202312_990O_2025031723222139.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 7 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $430K |
+| Total expenses | — |
+| Total assets (EOY) | — |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

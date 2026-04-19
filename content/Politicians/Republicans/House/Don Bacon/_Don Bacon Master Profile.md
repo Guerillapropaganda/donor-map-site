@@ -1,32 +1,33 @@
 ---
-title: "Don Bacon"
+title: Don Bacon
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Nebraska"
-state-abbr: "NE"
+party: Republican
+chamber: House
+state: Nebraska
+state-abbr: NE
 district: "2"
-bioguide-id: "B001298"
+bioguide-id: B001298
 govtrack-id: 412713
 born: "1963-08-16"
-wikidata-id: "Q19757583"
-website: "https://bacon.house.gov"
-phone: "202-225-4155"
+wikidata-id: Q19757583
+website: https://bacon.house.gov
+phone: 202-225-4155
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 65
 bills-cosponsored: 783
 bills-enacted: 19
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Valero Energy]], [[LET FREEDOM RING INC]], [[Northrop Grumman]], [[Anduril Industries]], [[UPS]], [[CBRE Group]], [[Chevron]], [[Citadel - Kenneth Griffin]], [[Boeing]], [[National Restaurant Association]], [[Amazon]], [[Wells Fargo]], [[Carlyle Group]], [[BAE Systems]], [[Business Roundtable]], [[Amgen Inc]], [[Google - Alphabet]], [[National Association of Realtors]], [[Honeywell International]], [[Las Vegas Sands]], [[Lockheed Martin]], [[Charles Schwab]], [[Occidental Petroleum]], [[Comcast - NBCUniversal]], [[Goldman Sachs]], [[Leidos]], [[JPMorgan Chase]], [[Blackstone Group]], [[QVT Financial]], [[Morgan Stanley]], [[Michigan Republican Party]], [[US CHAMBER OF COMMERCE]], [[Oracle]], [[Raytheon (RTX Corporation)]], [[L3Harris Technologies]], [[Palantir Technologies]]"
 ---
 
 

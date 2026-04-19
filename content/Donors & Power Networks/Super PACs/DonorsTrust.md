@@ -641,3 +641,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[Center for Media and Democracy: 2022 Analysis](https://www.exposedbycmd.org/2023/11/17/donorstrust-funneled-134-million-to-right-wing-groups-in-2022/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[Center for Media and Democracy: 2021 Analysis](https://www.exposedbycmd.org/2022/11/18/dark-money-atm-injected-right-wing-groups-with-123-million-in-2021/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F473233646_201612_990EZ_2017110314918196.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 1 (2018–2018)
+
+**Most recent filing (2018):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | $-32K |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | — |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

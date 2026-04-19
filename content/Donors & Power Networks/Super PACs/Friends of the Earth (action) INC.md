@@ -5,14 +5,14 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C70005897
 aliases:
   - FRIENDS OF THE EARTH (ACTION) INC
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
-politicians-funded: "[[Rashida Tlaib]]"
+politicians-funded: "[[Rashida Tlaib]], [[Friends of the Earth (action) INC]], [[Summer Lee]], [[Cori Bush]], [[Mike Levin]]"
 related: "[[Rashida Tlaib]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

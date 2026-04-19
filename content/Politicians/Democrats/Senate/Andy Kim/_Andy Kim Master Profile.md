@@ -1,33 +1,33 @@
 ---
-title: "Andy Kim"
+title: Andy Kim
 type: politician
 content-readiness: raw
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "Senate"
-state: "New Jersey"
-state-abbr: "NJ"
-bioguide-id: "K000394"
+party: Democrat
+chamber: Senate
+state: New Jersey
+state-abbr: NJ
+bioguide-id: K000394
 govtrack-id: 412797
 born: "1982-07-12"
-wikidata-id: "Q55639180"
-website: "https://www.kim.senate.gov"
-phone: "202-224-4744"
+wikidata-id: Q55639180
+website: https://www.kim.senate.gov
+phone: 202-224-4744
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
-donors: "[[California Farm Bureau Federation]]"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
+donors: "[[California Farm Bureau Federation]], [[Sierra Club Political Committee]], [[NEA Fund for Children and Public Education]], [[Unite Here Tip Campaign Committee]], [[Pete Aguilar]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Votevets]], [[American Hospital Association PAC]], [[J Street]], [[IBEW - International Brotherhood of Electrical Workers]], [[SEIU COPE]], [[Judy Chu]], [[Teamsters - International Brotherhood of Teamsters]], [[ENVIRONMENT AMERICA INC]], [[Let America Vote PAC]], [[Giffords PAC]], [[League of Conservation Voters]], [[National Association of Realtors]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Sierra Club Independent Action]], [[Progressive Turnout Project]], [[National Multifamily Housing Council]], [[Indivisible Action]]"
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "S4NJ00466"
+fec-candidate-id: S4NJ00466
 bills-sponsored: 25
 bills-cosponsored: 567
 bills-enacted: 1
-top-policy-area: "Health"
+top-policy-area: Health
 ---
 
 

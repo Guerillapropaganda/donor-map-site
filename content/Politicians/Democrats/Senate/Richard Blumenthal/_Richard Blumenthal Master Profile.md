@@ -3,7 +3,7 @@ title: Richard Blumenthal
 type: politician
 content-readiness: ready
 central-thesis: Richard Blumenthal is the attorney general-turned-senator who built a career on holding powerful institutions accountable , and then became the ranking member of the committee that oversees the institution responsible for veteran care. His donor p...
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Democrat
@@ -28,7 +28,7 @@ stock-trades: 50
 last-enriched: "2026-04-12"
 needs-reenrichment: true
 reenrich-reason: run congress pipeline
-donors: "[[Google - Alphabet]] · [[Connecticut Patriots Pac]] · [[Restoration PAC]] · [[LEADERSHIP NOW]] · [[NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY & MEDICARE PAC]] · [[National Committee to Preserve Social Security & Medicare PAC]] · [[Leadership Now]]"
+donors: "[[Google - Alphabet]] · [[Connecticut Patriots Pac]] · [[Restoration PAC]] · [[LEADERSHIP NOW]] · [[NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY & MEDICARE PAC]] · [[National Committee to Preserve Social Security & Medicare PAC]] · [[Leadership Now]] · [[Pfizer Inc.]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[Sierra Club Independent Action]] · [[National Multifamily Housing Council]] · [[Raytheon (RTX)]] · [[League of Conservation Voters]] · [[Microsoft]] · [[Anthem - Elevance Health]] · [[AT&T - WarnerMedia]] · [[SEIU COPE]] · [[Votevets]] · [[National Committee to Preserve Social Security PAC]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Tzedek PAC]] · [[L3Harris Technologies]] · [[Honeywell]] · [[Unite Here Tip Campaign Committee]] · [[CVS Health - Aetna]] · [[General Motors]] · [[BAE Systems]] · [[Sierra Club Political Committee]] · [[iHeartMedia]] · [[Comcast - NBCUniversal]] · [[Walmart - Walton Family]] · [[NEA Fund for Children and Public Education]] · [[American Hospital Association PAC]] · [[Giffords PAC]] · [[Everytown for Gun Safety]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Lockheed Martin]] · [[National Association of Realtors]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[Leidos]]"
 related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[_Jerry Moran Master Profile|Jerry Moran]] · [[_Ed Markey Master Profile|Ed Markey]] · [[_Donald Trump Master Profile|Trump]]"
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 issues:
@@ -43,8 +43,8 @@ issues:
   - Native Americans
   - Taxation
 bills-enacted: 1
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "Health"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: Health
 ---
 
 

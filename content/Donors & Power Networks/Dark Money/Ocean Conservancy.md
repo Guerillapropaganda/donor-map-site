@@ -1,49 +1,48 @@
 ---
-title: "Ocean Conservancy"
+title: Ocean Conservancy
 type: donor
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Dark Money"
-entity-type: "Individual Donor"
+sector: Dark Money
+entity-type: Individual Donor
 issues:
-  - "Environment"
-  - "Dark Money & Campaign Finance"
+  - Environment
+  - Dark Money & Campaign Finance
 lobbying-spend: 5725200
 lobbying-filings: 86
 federal-register-mentions: 87
 last-enriched: "2026-04-10"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 regulatory-agencies:
-  - "Agriculture Department"
-  - "Commerce Department"
-  - "Defense Department"
-  - "Environmental Protection Agency"
-  - "Interior Department"
-  - "National Oceanic and Atmospheric Administration"
-  - "Ocean Energy Management Bureau"
-  - "Regulatory Information Service Center"
-  - "Securities and Exchange Commission"
+  - Agriculture Department
+  - Commerce Department
+  - Defense Department
+  - Environmental Protection Agency
+  - Interior Department
+  - National Oceanic and Atmospheric Administration
+  - Ocean Energy Management Bureau
+  - Regulatory Information Service Center
+  - Securities and Exchange Commission
 related: "[[CREW - Citizens for Responsibility and Ethics in Washington]] · [[Sheldon Whitehouse]] · [[Climate Philanthropy - The Green Billionaires]] · [[Democratic Donor Network]] · [[Environmental Law & Policy Center]] · [[New Venture Fund]] · [[Arabella Advisors]] · [[Trial Lawyers Fund]] · [[Sixteen Thirty Fund]] · [[National Progressive Donor Networks]] · [[Open Society Foundations]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Entertainment and Hollywood Donors]] · [[Democratic Small Dollar Networks]] · [[Small Dollar Donors - ActBlue]] · [[Ohio Federation of Teachers]] · [[Ohio Democratic Party]] · [[Democratic Party Infrastructure]] · [[Democracy Alliance]] · [[Demand Justice]] · [[Western Growers Association]] · [[California Farm Bureau Federation]] · [[CA Farm Bureau Federation]] · [[Agricultural Labor Vulnerability Donors]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Federalist Society]] · [[Donors Capital Fund]] · [[Council for National Policy]] · [[Conservative Partnership Institute]] · [[Concerned Veterans for America]] · [[Business Roundtable]] · [[Bradley Impact Fund]] · [[Bradley Foundation]] · [[Americans for Tax Reform - Grover Norquist]] · [[American Enterprise Institute]] · [[American Action Network]] · [[America First Policy Institute]] · [[Alliance Defending Freedom]] · [[ALEC - American Legislative Exchange Council]] · [[National Cattlemen's Beef Association]] · [[Fanjul Family - Florida Crystals]]"
 ein: 237245152
-annual-revenue: "$48.6M"
-net-assets: "$96.1M"
+annual-revenue: $48.6M
+net-assets: $96.1M
 tax-year: "2023"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 total-revenue: 56087482
 total-assets: 95267498
 cross-vault-triangulation-count: 9
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 employee-contributions: 87
 employee-contributions-total: 23436
 employee-donor-count: 33
+politicians-funded: "[[ActBlue]], [[Catherine Cortez Masto]], [[WinSenate]], [[_Summer Lee Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[The Lincoln Project]], [[Summer Lee]]"
 ---
 
 
@@ -340,3 +339,50 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/237245152/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/237245152/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/237245152/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 7 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $46.6M |
+| Total expenses | — |
+| Total assets (EOY) | $95.3M |
+| Grants paid out | $2.3M |
+
+**Lifetime grants out (2018–2024):** $9.1M across 125 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| Inuit Circumpolar Council Alaska | $895K | 4 | 2018–2024 |
+| Arizona State University | $847K | 5 | 2018–2024 |
+| Global Resilient Cities Network | $576K | 3 | 2023–2024 |
+| Pacific Environment and Resources Center | $560K | 1 | 2022 |
+| University Of Georgia | $537K | 2 | 2020–2023 |
+| Native American Rights Fund | $458K | 5 | 2018–2023 |
+| Ocean Foundation | $358K | 5 | 2018–2022 |
+| Rockefeller Philanthropy | $350K | 1 | 2020 |
+| University of South Florida | $238K | 1 | 2023 |
+| Yakutat Tlinglt Tribe | $178K | 2 | 2023–2024 |
+| Asociacion Interamericanca Para La Defensa Del Ambiente (AIDA) | $173K | 2 | 2023–2024 |
+| Aleut Community of St Paul Island Tribal Government of St Paul | $155K | 3 | 2022–2024 |
+| FLORIDA INTERNATIONAL UNIVERSITY FOUNDATION INC | $143K | 1 | 2024 |
+| Gulf On Maine Lobster Foundation | $122K | 1 | 2021 |
+| University Of Georgia Research Foundation Inc | $122K | 2 | 2021–2022 |
+| Debris Free Global Inc dba Debris Free Oceans | $120K | 1 | 2023 |
+| Bering Sea Fishermen's Association | $120K | 2 | 2022–2023 |
+| Alaska Conservation Foundation | $115K | 2 | 2023–2024 |
+| Big Blue &amp; You | $107K | 1 | 2023 |
+| Puget Soundkeeper Alliance | $105K | 3 | 2021–2024 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

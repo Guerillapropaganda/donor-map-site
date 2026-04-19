@@ -1,33 +1,34 @@
 ---
-title: "Claudia Tenney"
+title: Claudia Tenney
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "New York"
-state-abbr: "NY"
+party: Republican
+chamber: House
+state: New York
+state-abbr: NY
 district: "24"
-bioguide-id: "T000478"
+bioguide-id: T000478
 govtrack-id: 412720
 born: "1961-02-04"
-wikidata-id: "Q5129263"
-website: "https://tenney.house.gov"
-phone: "202-225-3665"
+wikidata-id: Q5129263
+website: https://tenney.house.gov
+phone: 202-225-3665
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H4NY22051"
+fec-candidate-id: H4NY22051
 bills-sponsored: 79
 bills-cosponsored: 577
 bills-enacted: 0
-top-policy-area: "Taxation"
+top-policy-area: Taxation
+top-donors: "[[Save America PAC]], [[Jake Ellzey]], [[Microsoft]], [[Chevron]], [[Victoria Spartz]], [[Walmart - Walton Family]], [[Duke Energy]], [[American Chemistry Council, INC]], [[Comcast - NBCUniversal]], [[Coinbase]], [[Amgen Inc]], [[WinRed]], [[American Hospital Association PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Gilead Sciences]], [[National Multifamily Housing Council]], [[Honeywell]], [[AbbVie]], [[Humana]], [[Ben Cline]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[MAJORITY PAC]], [[AT&T - WarnerMedia]], [[Adrian Smith]], [[Planned Parenthood Votes]], [[AIPAC - American Israel Public Affairs Committee]], [[Morgan Stanley]], [[Citigroup]], [[Johnson & Johnson]], [[Byron Donalds]], [[National Association of Realtors]], [[David Rouzer]], [[VIEW PAC - Value in Electing Women]], [[Nucor Corporation]], [[BAE Systems]], [[Lockheed Martin]], [[Performance Racing Inc.]], [[Tzedek PAC]], [[National Rifle Association]], [[Republican Jewish Coalition]], [[General Motors]], [[Jason Smith]], [[American College of Radiology Association PAC]], [[Pfizer Inc.]], [[Anthem - Elevance Health]], [[Darrell Issa]], [[Women Speak Out Pac]], [[National Restaurant Association]], [[Cliff Bentz]], [[McDonalds Corporation]], [[Austin Scott]], [[Raytheon (RTX)]], [[General Dynamics]], [[Freedom's Defense Fund]], [[Associated General Contractors of America Political Action Committee]], [[Oracle]], [[Goldman Sachs]], [[Blackstone Group]], [[Leidos]], [[CVS Health - Aetna]], [[Bank of America]], [[Meta - Facebook]], [[IBEW Local 440 - Riverside]], [[Charles Schwab]], [[Citadel - Kenneth Griffin]], [[ExxonMobil]], [[Northrop Grumman]], [[News Corp - Fox Corporation]], [[CTA - California Teachers Association]], [[UPS]], [[Verizon]], [[MassMutual]], [[Alliance Defending Freedom]], [[Wells Fargo]]"
 ---
 
 

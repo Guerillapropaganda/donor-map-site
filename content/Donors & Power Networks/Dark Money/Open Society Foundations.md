@@ -2,12 +2,12 @@
 title: Open Society Foundations
 type: donor
 content-readiness: draft
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 2
 parent: null
 sector: Dark Money
 entity-type: Individual Donor
-politicians-funded: "[[Gavin Newsom]]"
+politicians-funded: "[[Gavin Newsom]], [[_Adam Gray Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[ActBlue]], [[JUSTICE DEMOCRATS PAC]], [[Emily's List]], [[_Jamie Raskin Master Profile]], [[Barbara Lee]], [[Catherine Cortez Masto]], [[_Dave Min Master Profile]], [[_Kamala Harris Master Profile]], [[_Angie Craig Master Profile]], [[Mark Kelly]], [[_Tammy Baldwin Master Profile]], [[Progressive Turnout Project]], [[_Adriano Espaillat Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[WinSenate]], [[_Elissa Slotkin Master Profile]], [[Bob Casey]], [[_Gabe Vasquez Master Profile]], [[_George Whitesides Master Profile]], [[Giffords PAC]], [[_Jon Ossoff Master Profile]], [[Gabe Vasquez]], [[Jamie Raskin]], [[Adriano Espaillat]], [[Tammy Baldwin]], [[Elissa Slotkin]], [[Adam Gray]], [[George Whitesides]], [[Dave Min]], [[Kamala Harris]], [[Angie Craig]], [[Jon Ossoff]]"
 issues:
   - Dark Money & Campaign Finance
 federal-contracts: "18849"
@@ -338,3 +338,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2013 Filing](https://projects.propublica.org/nonprofits/organizations/273743368/2013)~~ (URL broken, archived by Ops)
 - ~~[2012 Filing](https://projects.propublica.org/nonprofits/organizations/273743368/2012)~~ (URL broken, archived by Ops)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Open%20Society%20Foundations%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 1 (2018–2018)
+
+**Most recent filing (2018):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | — |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

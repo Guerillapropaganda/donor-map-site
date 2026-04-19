@@ -1,29 +1,30 @@
 ---
-title: "Kristen McDonald Rivet"
+title: Kristen McDonald Rivet
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Michigan"
-state-abbr: "MI"
+party: Democrat
+chamber: House
+state: Michigan
+state-abbr: MI
 district: "8"
-bioguide-id: "M001237"
+bioguide-id: M001237
 govtrack-id: 456995
 born: "1970-07-11"
-wikidata-id: "Q115227000"
-website: "https://mcdonaldrivet.house.gov"
-phone: "202-225-3611"
+wikidata-id: Q115227000
+website: https://mcdonaldrivet.house.gov
+phone: 202-225-3611
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H4MI08218"
+fec-candidate-id: H4MI08218
+top-donors: "[[IBEW - International Brotherhood of Electrical Workers]], [[McDonalds Corporation]], [[Giffords PAC]], [[Edf Action Votes]], [[AFL-CIO]], [[L3Harris Technologies]], [[Diana Degette]], [[NEA Fund for Children and Public Education]], [[America PAC - Elon Musk]], [[Let America Vote PAC]], [[Hmp]], [[General Motors]], [[NRCC - National Republican Congressional Committee]], [[National Committee to Preserve Social Security PAC]], [[National Association of Realtors]], [[Microsoft]], [[Jason Crow]], [[Leidos]], [[Humana]], [[League of Conservation Voters]], [[Nancy Pelosi]], [[CHC BOLD PAC]], [[Joe Neguse]], [[DCCC - Democratic Congressional Campaign Committee]], [[American Federation of State County & Municipal Employees P E O P L E]], [[J Street]], [[Progressive Turnout Project]], [[American Hospital Association PAC]], [[SEIU COPE]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Pete Aguilar]], [[DMFI - Democratic Majority for Israel]], [[National Restaurant Association]], [[Veronica Escobar]], [[Emily's List]], [[Google - Alphabet]], [[Julia Brownley]], [[AT&T - WarnerMedia]], [[Mark Kelly]], [[Amgen Inc]], [[Judy Chu]], [[Robert Garcia]], [[Pfizer Inc.]], [[Anthem - Elevance Health]], [[Congressional Leadership Fund]], [[UA Political Action Committee]], [[Planned Parenthood Action Fund INC]], [[Paul Tonko]], [[National Multifamily Housing Council]], [[Mike Thompson]], [[Teamsters - International Brotherhood of Teamsters]], [[General Dynamics]], [[Ford Motor Company]], [[Walmart - Walton Family]], [[Coinbase]], [[Unite Here Tip Campaign Committee]], [[Shontel Brown]], [[Honeywell]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[CVS Health - Aetna]], [[Everytown for Gun Safety]], [[Ted Lieu]], [[NextEra Energy]], [[National Wildlife Federation Action Fund]], [[Chrissy Houlahan]], [[Tyson Foods]]"
 ---
 
 

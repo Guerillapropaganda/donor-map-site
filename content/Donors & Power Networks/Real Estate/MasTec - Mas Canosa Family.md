@@ -7,7 +7,7 @@ source-tier: 2
 parent: null
 sector: Real Estate
 entity-type: Corporation
-politicians-funded: "[[Marco Rubio]], [[Carlos Gimenez]], [[Mario Diaz-Balart]]"
+politicians-funded: "[[Marco Rubio]], [[Carlos Gimenez]], [[Mario Diaz-Balart]], [[_Marco Rubio Master Profile]], [[_John James Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[DSCC - Democratic Senatorial Campaign Committee]], [[RNC - Republican National Committee]], [[WinRed]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Anna Paulina Luna Master Profile]], [[ActBlue]], [[_Lauren Boebert Master Profile]], [[_Ted Cruz Master Profile]], [[_Tim Scott Master Profile]], [[_Nancy Pelosi Master Profile]], [[National Restaurant Association]], [[The Lincoln Project]], [[MAGA Inc]], [[_Jon Ossoff Master Profile]], [[NRCC - National Republican Congressional Committee]], [[Indivisible Action]], [[_Carlos Gimenez Master Profile]], [[_Jim Jordan Master Profile]], [[Tim Scott]], [[Nancy Pelosi]], [[Ted Cruz]], [[Jim Jordan]], [[Anna Paulina Luna]], [[Jon Ossoff]], [[Lauren Boebert]], [[John James]]"
 issues:
   - Infrastructure
   - Housing
@@ -32,7 +32,7 @@ cross-vault-triangulation-count: 10
 audit-a-plus-passed: "2026-04-11"
 urls-first-triaged: "2026-04-15"
 epa-facilities: 5
-epa-states: "AZ, CA, MN, NC"
+epa-states: AZ, CA, MN, NC
 federal-contracts: 6
 federal-awards-total: -2340741
 employee-contributions: 527

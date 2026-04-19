@@ -2,12 +2,12 @@
 title: Judicial Crisis Network
 type: donor
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Dark Money
 entity-type: Individual Donor
-politicians-funded: "[[Clarence Thomas]], [[Brett Kavanaugh]], [[Neil Gorsuch]], [[Sheldon Whitehouse]], [[Amy Coney Barrett]]"
+politicians-funded: "[[Clarence Thomas]], [[Brett Kavanaugh]], [[Neil Gorsuch]], [[Sheldon Whitehouse]], [[Amy Coney Barrett]], [[_Marco Rubio Master Profile]], [[Marco Rubio]]"
 issues:
   - Dark Money & Campaign Finance
 lobbying-spend: 248300

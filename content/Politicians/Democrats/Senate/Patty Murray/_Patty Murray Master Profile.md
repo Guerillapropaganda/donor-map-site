@@ -4,7 +4,7 @@ type: politician
 bioguide-id: M001111
 content-readiness: ready
 central-thesis: "Patty Murray exemplifies the unsexy, unglamorous accumulation of structural power in the Senate: appropriations control, committee seniority, and the ability to direct billions of dollars to home-state industries. Unlike dramatic figures who draw ..."
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Democrat
@@ -29,17 +29,17 @@ top-donors:
   - Microsoft
 stock-trades: 161
 stock-trade-tickers:
-  - "WMB"
-  - "WRK"
-  - "WFC"
-  - "WBA"
-  - "WMT"
-  - "VZ"
-  - "UTX"
-  - "UPS"
-  - "UN"
-  - "USB"
-donors: "[[Jeff Bezos]] · [[Pharmaceutical Industry Bloc]] · [[Evergreen Principles PAC]] · [[Defense Industry Bloc]] · [[Microsoft]] · [[Boeing]] · [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]] · [[WOMEN VOTE!]] · [[ESAFUND]] · [[Crossroads Grassroots Policy Strategies]]"
+  - WMB
+  - WRK
+  - WFC
+  - WBA
+  - WMT
+  - VZ
+  - UTX
+  - UPS
+  - UN
+  - USB
+donors: "[[Jeff Bezos]] · [[Pharmaceutical Industry Bloc]] · [[Evergreen Principles PAC]] · [[Defense Industry Bloc]] · [[Microsoft]] · [[Boeing]] · [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]] · [[WOMEN VOTE!]] · [[ESAFUND]] · [[Crossroads Grassroots Policy Strategies]] · [[BAE Systems]] · [[Progressive Turnout Project]] · [[Emily's List]] · [[Morgan Stanley]] · [[L3Harris Technologies]] · [[AT&T - WarnerMedia]] · [[Anthem - Elevance Health]] · [[National Multifamily Housing Council]] · [[iHeartMedia]] · [[Raytheon (RTX)]] · [[MoveOn.org Political Action]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[American Hospital Association PAC]] · [[Citigroup]] · [[NEA Fund for Children and Public Education]] · [[Johnson & Johnson]] · [[Sierra Club Political Committee]] · [[J Street]] · [[League of Conservation Voters]] · [[Lockheed Martin]] · [[Honeywell]] · [[International Longshore and Warehouse Union -- Political Action Fund]] · [[Amgen Inc]] · [[Sierra Club Independent Action]] · [[Giffords PAC]] · [[Puget Sound Energy INC PAC for Good Government]] · [[AFL-CIO]] · [[American College of Radiology Association PAC]] · [[National Education Association]] · [[NextEra Energy]] · [[AbbVie]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[SEIU COPE]] · [[Google - Alphabet]] · [[Pfizer Inc.]] · [[Bechtel Corporation]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[CVS Health - Aetna]] · [[Nucor Corporation]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[National Committee to Preserve Social Security PAC]] · [[Tyson Foods]] · [[PG&E - Pacific Gas and Electric]] · [[Planned Parenthood Action Fund INC]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Gilead Sciences]] · [[DMFI - Democratic Majority for Israel]] · [[DSCC - Democratic Senatorial Campaign Committee]] · [[Let America Vote PAC]] · [[Ford Motor Company]] · [[Duke Energy]] · [[Care Action Now Inc.]] · [[Northrop Grumman]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Walmart - Walton Family]] · [[General Dynamics]] · [[Humana]] · [[Wfw Action Fund, Inc.]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Comcast - NBCUniversal]] · [[Lyft]] · [[Leidos]] · [[Protect the Vote]] · [[General Motors]] · [[Everytown for Gun Safety]] · [[National Association of Realtors]]"
 total-received: $3,798,925
 fec-candidate-id: S2WA00189
 related: "[[Boeing]] · [[Pharmaceutical Industry Bloc]] · [[Defense Industry Bloc]] · [[Microsoft]] · [[Crossroads Grassroots Policy Strategies]]"
@@ -51,8 +51,8 @@ urls-first-triaged: "2026-04-15"
 bills-sponsored: 1173
 bills-cosponsored: 6339
 bills-enacted: 2
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "Health"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: Health
 ---
 
 

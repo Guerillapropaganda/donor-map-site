@@ -4,7 +4,7 @@ type: politician
 bioguide-id: L000606
 content-readiness: draft
 central-thesis: "Latimer is the structural output of AIPAC's primary enforcement model at maximum scale: a credible local official turned into a congressional vote through $14.9M in outside spending, whose tenure confirms donor-class expectations on Israel aid and crypto deregulation while the outside money that created him continues to dwarf his own fundraising 39-to-1."
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 editorial-notes: "[Research Claude 2026-04-16] Added Class Analysis section and central-thesis. Known-gaps note about FEC candidate ID is stale. FEC auto-block is populated with real data."
 source-tier: null
 parent: null
@@ -17,7 +17,7 @@ issues:
   - Israel & Foreign Policy
   - Local Government
 related: "[[_Jamaal Bowman Master Profile]] · [[United Democracy Project - UDP]] · [[DMFI - Democratic Majority for Israel]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Fairshake PAC]]"
-donors: "[[Bernie Marcus]] · [[DMFI - Democratic Majority for Israel]] · [[Fairshake PAC]] · [[DMFI PAC]] · [[WORKING FAMILIES PARTY PAC]] · [[JUSTICE DEMOCRATS PAC]] · [[United Democracy Project - UDP]] · [[EMGAGE FEDERAL POLITICAL ACTION COMMITTEE]] · [[Justice Democrats PAC]] · [[Working Families Party PAC]] · [[Emgage Federal Political Action Committee]]"
+donors: "[[Bernie Marcus]] · [[DMFI - Democratic Majority for Israel]] · [[Fairshake PAC]] · [[DMFI PAC]] · [[WORKING FAMILIES PARTY PAC]] · [[JUSTICE DEMOCRATS PAC]] · [[United Democracy Project - UDP]] · [[EMGAGE FEDERAL POLITICAL ACTION COMMITTEE]] · [[Justice Democrats PAC]] · [[Working Families Party PAC]] · [[Emgage Federal Political Action Committee]] · [[American Hospital Association PAC]] · [[NORPAC]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[AT&T - WarnerMedia]] · [[NEA Fund for Children and Public Education]] · [[National Association of Realtors]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[AIPAC - American Israel Public Affairs Committee]] · [[League of Conservation Voters]] · [[Raytheon (RTX)]] · [[Ted Lieu]] · [[Tzedek PAC]] · [[Anthem - Elevance Health]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Pfizer Inc.]] · [[UnitedHealth Group - Optum]] · [[News Corp - Fox Corporation]] · [[Apollo Global Management]] · [[CBRE Group]] · [[Comcast - NBCUniversal]] · [[Verizon]] · [[Citadel - Kenneth Griffin]] · [[BlackRock]] · [[Oracle]] · [[Wells Fargo]] · [[Lockheed Martin]] · [[Meta - Facebook]] · [[Morgan Stanley]] · [[Merck]] · [[Fidelity Investments]] · [[Bank of America]] · [[JPMorgan Chase]] · [[Palantir Technologies]] · [[Goldman Sachs]] · [[Google - Alphabet]] · [[QVT Financial]] · [[Boeing]] · [[DoorDash]] · [[General Motors]] · [[Amazon]]"
 source-types: []
 known-gaps:
   - Stub created 2026-04-09 to preserve vault connections

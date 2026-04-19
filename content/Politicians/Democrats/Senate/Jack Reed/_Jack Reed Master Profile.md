@@ -3,7 +3,7 @@ title: Jack Reed
 type: politician
 content-readiness: ready
 central-thesis: Jack Reed is the military-industrial complex's most credentialed Democrat. West Point, Army Ranger, 82nd Airborne, Harvard Kennedy School, Harvard Law — the CV is impeccable. He parlayed it into the Senate's most important defense position, where ...
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Democrat
@@ -29,7 +29,7 @@ top-donors:
   - Boeing
 stock-trades: 1
 fec-candidate-id: S6RI00163
-donors: "[[General Dynamics]] · [[NORPAC]] · [[Planned Parenthood Votes]] · [[Lockheed Martin]] · [[Boeing]] · [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]] · [[CAMPAIGN FOR WORKING FAMILIES]] · [[ENVIRONMENT AMERICA INC]] · [[Environment America INC]] · [[Patriot Voices PAC]]"
+donors: "[[General Dynamics]] · [[NORPAC]] · [[Planned Parenthood Votes]] · [[Lockheed Martin]] · [[Boeing]] · [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]] · [[CAMPAIGN FOR WORKING FAMILIES]] · [[ENVIRONMENT AMERICA INC]] · [[Environment America INC]] · [[Patriot Voices PAC]] · [[Raytheon (RTX)]] · [[National Association of Realtors]] · [[Amgen Inc]] · [[Tyson Foods]] · [[AT&T - WarnerMedia]] · [[J Street]] · [[NEA Fund for Children and Public Education]] · [[NextEra Energy]] · [[Votevets]] · [[American Hospital Association PAC]] · [[Anthem - Elevance Health]] · [[SEIU COPE]] · [[Microsoft]] · [[Walmart - Walton Family]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Citigroup]] · [[Comcast - NBCUniversal]] · [[BAE Systems]] · [[Northrop Grumman]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Leidos]] · [[L3Harris Technologies]] · [[iHeartMedia]] · [[Honeywell]] · [[CVS Health - Aetna]] · [[Mark Kelly]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[General Motors]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[League of Conservation Voters]] · [[Teamsters - International Brotherhood of Teamsters]]"
 related: "[[General Dynamics]] · [[_Roger Wicker Master Profile|Wicker]] · [[Lockheed Martin]] · [[Boeing]]"
 last-enriched: "2026-04-11"
 needs-reenrichment: true
@@ -44,8 +44,8 @@ internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.
 total-received: $3,297,809
 urls-first-triaged: "2026-04-15"
 bills-enacted: 0
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "Health"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: Health
 ---
 
 

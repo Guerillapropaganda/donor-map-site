@@ -5,14 +5,14 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00365536
 aliases:
   - CHC BOLD PAC
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
-politicians-funded: "[[Ritchie Torres]]"
+politicians-funded: "[[Ritchie Torres]], [[Nikki Budzinski]], [[Lois Frankel]], [[Raul Ruiz]], [[Derek Tran]], [[George Whitesides]], [[Kamala Harris]], [[Susie Lee]], [[Sharice Davids]], [[Eric Sorensen]], [[Josh Harder]], [[Andrea Salinas]], [[Jimmy Gomez]], [[Jacky Rosen]], [[Teresa Leger Fernandez]], [[Emily Randall]], [[Sara Jacobs]], [[Kristen McDonald Rivet]], [[Vicente Gonzalez]], [[Henry Cuellar]], [[Adriano Espaillat]], [[Lauren Underwood]], [[Steven Horsford]], [[Greg Stanton]], [[Marie Gluesenkamp Perez]], [[Veronica Escobar]], [[Eric Swalwell]], [[Chrissy Houlahan]], [[Robert Garcia]], [[Patrick Ryan]], [[Jahana Hayes]], [[Mark Kelly]], [[Josh Riley]], [[Ruben Gallego]], [[Marcy Kaptur]], [[Jim Costa]], [[Brittany Pettersen]], [[Darren Soto]], [[Raphael Warnock]], [[John Fetterman]], [[Marilyn Strickland]], [[Mike Levin]], [[Maxwell Frost]], [[Greg Landsman]], [[Adam Gray]], [[Kim Schrier]], [[Shomari Figures]], [[Catherine Cortez Masto]]"
 related: "[[Ritchie Torres]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

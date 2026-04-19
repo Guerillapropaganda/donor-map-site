@@ -5,14 +5,14 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00662072
 aliases:
   - DRAIN THE DC SWAMP PAC
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
-politicians-funded: "[[Pete Buttigieg]], [[Marjorie Taylor Greene]]"
+politicians-funded: "[[Pete Buttigieg]], [[Marjorie Taylor Greene]], [[Nancy Pelosi]], [[Lauren Boebert]], [[Maria Elvira Salazar]], [[Morgan Luttrell]], [[Mariannette Miller-Meeks]], [[Carlos Gimenez]], [[Alexandria Ocasio-Cortez]], [[Ilhan Omar]], [[James Lankford]], [[Lisa Murkowski]], [[Vivek Ramaswamy]], [[Marcy Kaptur]], [[Rashida Tlaib]], [[Mitt Romney]], [[Susan Collins]], [[Dusty Johnson]], [[Nancy Mace]], [[French Hill]]"
 related: "[[Pete Buttigieg]] · [[Marjorie Taylor Greene]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

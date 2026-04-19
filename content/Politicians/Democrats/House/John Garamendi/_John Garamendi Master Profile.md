@@ -1,33 +1,34 @@
 ---
-title: "John Garamendi"
+title: John Garamendi
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "California"
-state-abbr: "CA"
+party: Democrat
+chamber: House
+state: California
+state-abbr: CA
 district: "8"
-bioguide-id: "G000559"
+bioguide-id: G000559
 govtrack-id: 412382
 born: "1945-01-24"
-wikidata-id: "Q1340268"
-website: "https://garamendi.house.gov"
-phone: "202-225-1880"
+wikidata-id: Q1340268
+website: https://garamendi.house.gov
+phone: 202-225-1880
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H0CA10149"
+fec-candidate-id: H0CA10149
 bills-sponsored: 40
 bills-cosponsored: 476
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Teamsters - International Brotherhood of Teamsters]], [[National Committee to Preserve Social Security PAC]], [[Walmart - Walton Family]], [[Raytheon (RTX)]], [[National Multifamily Housing Council]], [[BAE Systems]], [[Women Speak Out Pac]], [[AT&T - WarnerMedia]], [[Progressive Turnout Project]], [[NEA Fund for Children and Public Education]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[IBEW - International Brotherhood of Electrical Workers]], [[Lockheed Martin]], [[National Association of Realtors]], [[American Federation of State County & Municipal Employees P E O P L E]], [[CTA - California Teachers Association]], [[L3Harris Technologies]], [[American Hospital Association PAC]], [[Courage California Super Pac]], [[PG&E - Pacific Gas and Electric]], [[Leidos]], [[General Dynamics]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Tyson Foods]], [[Nucor Corporation]], [[ADM - Archer Daniels Midland]], [[General Motors]], [[Medicare for All - The Policy That Broke the Party]], [[Honeywell]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[J Street]], [[Sierra Club Independent Action]], [[League of Conservation Voters]], [[SEIU COPE]], [[Associated General Contractors of America Political Action Committee]]"
 ---
 
 

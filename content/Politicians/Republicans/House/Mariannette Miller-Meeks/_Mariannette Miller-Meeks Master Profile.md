@@ -1,33 +1,34 @@
 ---
-title: "Mariannette Miller-Meeks"
+title: Mariannette Miller-Meeks
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Iowa"
-state-abbr: "IA"
+party: Republican
+chamber: House
+state: Iowa
+state-abbr: IA
 district: "1"
-bioguide-id: "M001215"
+bioguide-id: M001215
 govtrack-id: 456817
 born: "1955-09-06"
-wikidata-id: "Q58495662"
-website: "https://millermeeks.house.gov"
-phone: "202-225-6576"
+wikidata-id: Q58495662
+website: https://millermeeks.house.gov
+phone: 202-225-6576
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H8IA02043"
+fec-candidate-id: H8IA02043
 bills-sponsored: 48
 bills-cosponsored: 399
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[National Association of Manufacturers]], [[NextEra Energy]], [[ADM - Archer Daniels Midland]], [[DCCC - Democratic Congressional Campaign Committee]], [[David Rouzer]], [[Austin Scott]], [[Sinclair Broadcast Group]], [[Women Speak Out Pac]], [[Drain the DC Swamp PAC]], [[Honeywell]], [[Jim Jordan]], [[Care Action]], [[National Association of Realtors]], [[Gilead Sciences]], [[National Multifamily Housing Council]], [[American Chemistry Council, INC]], [[MAJORITY PAC]], [[Google - Alphabet]], [[Johnson & Johnson]], [[Performance Racing Inc.]], [[Americans for Prosperity]], [[AbbVie]], [[National Right to Life Victory Fund]], [[Rick W. Allen]], [[Mark Alford]], [[Hmp]], [[Walmart - Walton Family]], [[Anthem - Elevance Health]], [[National Wildlife Federation Action Fund]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Jake Ellzey]], [[NRCC - National Republican Congressional Committee]], [[Republican Jewish Coalition]], [[Activate America]], [[AT&T - WarnerMedia]], [[Brad Knott]], [[Raytheon (RTX)]], [[Marathon Petroleum]], [[Mike Kelly]], [[Amgen Inc]], [[Adrian Smith]], [[AIPAC - American Israel Public Affairs Committee]], [[Associated General Contractors of America Political Action Committee]], [[National Rifle Association]], [[Northrop Grumman]], [[Comcast - NBCUniversal]], [[McDonalds Corporation]], [[ConocoPhillips]], [[Freedom's Defense Fund]], [[Chevron]], [[Pfizer Inc.]], [[Glenn Grothman]], [[Microsoft]], [[Congressional Leadership Fund]], [[CVS Health - Aetna]], [[PG&E - Pacific Gas and Electric]], [[Pete Sessions]], [[iHeartMedia]], [[Occidental Petroleum]], [[314 ACTION FUND]], [[Darrell Issa]], [[WinRed]], [[Carlos Gimenez]], [[CITIZENS FOR RESPONSIBLE ENERGY SOLUTIONS INC.]], [[Ben Cline]], [[Leidos]], [[Tyson Foods]], [[Duke Energy]], [[Nucor Corporation]], [[Mike Haridopolos]], [[Jason Smith]], [[Ford Motor Company]], [[American College of Radiology Association PAC]], [[Clearpath Action Fund, Inc.]], [[American Hospital Association PAC]], [[Defending Main Street Superpac INC]], [[Citigroup]], [[Vern Buchanan]], [[Progressive Turnout Project]], [[Lockheed Martin]], [[Byron Donalds]], [[Valero Energy]], [[Opportunity Matters Fund]], [[Victoria Spartz]], [[Planned Parenthood Votes]], [[General Dynamics]], [[BAE Systems]]"
 ---
 
 

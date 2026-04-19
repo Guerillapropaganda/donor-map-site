@@ -7,11 +7,11 @@ entity-type: Super PAC
 committee-type: Super PAC (Independent Expenditure-Only)
 committee-id: C00865444
 fec-url: https://www.fec.gov/data/committee/C00865444/
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-ie-support: $12,170,854
 fec-ie-oppose: $145,576,184
-politicians-funded: "[[Ted Cruz]], [[Bernie Moreno]], [[Sherrod Brown]]"
+politicians-funded: "[[Ted Cruz]], [[Bernie Moreno]], [[Sherrod Brown]], [[John Fetterman]], [[Mark Kelly]], [[Jacky Rosen]], [[Ron Johnson]], [[Catherine Cortez Masto]], [[Tammy Baldwin]], [[Ruben Gallego]], [[Rick Scott]], [[Elissa Slotkin]], [[Raphael Warnock]], [[Tim Sheehy]]"
 related: "[[Ted Cruz]] · [[Bernie Moreno]] · [[Sherrod Brown]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

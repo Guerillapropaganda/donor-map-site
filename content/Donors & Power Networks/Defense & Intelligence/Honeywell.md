@@ -1,42 +1,42 @@
 ---
-title: "Honeywell International"
+title: Honeywell International
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Defense & Intelligence"
-entity-type: "Corporation"
+sector: Defense & Intelligence
+entity-type: Corporation
 federal-register-mentions: 720
 last-enriched: "2026-04-09"
 regulatory-agencies:
-  - "Antitrust Division"
-  - "Commerce Department"
-  - "Environmental Protection Agency"
-  - "Federal Aviation Administration"
-  - "Industry and Security Bureau"
-  - "International Trade Administration"
-  - "Justice Department"
-  - "National Highway Traffic Safety Administration"
-  - "Nuclear Regulatory Commission"
-  - "Transportation Department"
+  - Antitrust Division
+  - Commerce Department
+  - Environmental Protection Agency
+  - Federal Aviation Administration
+  - Industry and Security Bureau
+  - International Trade Administration
+  - Justice Department
+  - National Highway Traffic Safety Administration
+  - Nuclear Regulatory Commission
+  - Transportation Department
 court-cases: 5233
 court-jurisdictions:
-  - "Court of Appeals for the Federal Circuit"
-  - "Court of Appeals for the Tenth Circuit"
-  - "District Court, D. Massachusetts"
-  - "District Court, D. New Jersey"
-  - "District Court, D. South Carolina"
-  - "District Court, E.D. Texas"
-  - "District Court, N.D. Illinois"
-  - "District Court, W.D. North Carolina"
-  - "United States Bankruptcy Court, D. Puerto Rico"
-  - "United States Court of International Trade"
+  - Court of Appeals for the Federal Circuit
+  - Court of Appeals for the Tenth Circuit
+  - District Court, D. Massachusetts
+  - District Court, D. New Jersey
+  - District Court, D. South Carolina
+  - District Court, E.D. Texas
+  - District Court, N.D. Illinois
+  - District Court, W.D. North Carolina
+  - United States Bankruptcy Court, D. Puerto Rico
+  - United States Court of International Trade
 subawards-issued: 50
 subawards-issued-amount: 7506016889
 subawards-received: 50
 subawards-received-amount: 7506016889
-top-federal-agency: "Department of Defense"
+top-federal-agency: Department of Defense
 top-naics-code: "336992"
 federal-awards-total: 3877199629
 federal-contracts-count: 25
@@ -48,15 +48,15 @@ source-types:
   - USASpending
 corroboration-count: 3
 known-gaps:
-  - "No SEC corporate filings"
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
-  - "No mapped relationships"
-lei: "5493009W7CBW32FX0K77"
-lei-jurisdiction: "CH"
-lei-parent: "HONEYWELL INTERNATIONAL INC."
+  - No SEC corporate filings
+  - No FEC contribution data
+  - No lobbying disclosure data
+  - No mapped relationships
+lei: 5493009W7CBW32FX0K77
+lei-jurisdiction: CH
+lei-parent: HONEYWELL INTERNATIONAL INC.
 epa-facilities: 121
-epa-states: "AL, AZ, CA, CO, CT, DE, FL, GA, HI, IL, IN, KS, LA, MA, MD, MI, MN, NC, NE, NJ, NY, OH, OR, PA, RI, SC, TN, TX, WA, WI"
+epa-states: AL, AZ, CA, CO, CT, DE, FL, GA, HI, IL, IN, KS, LA, MA, MD, MI, MN, NC, NE, NJ, NY, OH, OR, PA, RI, SC, TN, TX, WA, WI
 federal-contracts: 9597
 total-raised: 4575037
 total-spent: 4365683
@@ -68,6 +68,7 @@ federal-grants-total: 187500000
 employee-contributions: 531005
 employee-contributions-total: 37014257
 employee-donor-count: 20720
+politicians-funded: "[[_Glenn Grothman Master Profile]], [[Giffords PAC]], [[Mark Kelly]], [[National Rifle Association]], [[Honeywell]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[_Jon Ossoff Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[NRCC - National Republican Congressional Committee]], [[_Josh Hawley Master Profile]], [[CHC BOLD PAC]], [[_Cori Bush Master Profile]], [[_Elissa Slotkin Master Profile]], [[WinRed]], [[MoveOn.org Political Action]], [[Bob Casey]], [[_Anna Paulina Luna Master Profile]], [[ActBlue]], [[Chris Christie]], [[WinSenate]], [[Emily's List]], [[Let America Vote PAC]], [[_Don Bacon Master Profile]], [[_Lauren Boebert Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[ENVIRONMENT AMERICA INC]], [[_Chris Pappas Master Profile]], [[Courage to Change PAC]], [[Climate Hawks Vote]], [[NRSC - National Republican Senatorial Committee]], [[Votevets]], [[_Marco Rubio Master Profile]], [[_Deb Haaland Master Profile]], [[Teamsters - International Brotherhood of Teamsters]], [[Hmp]], [[RNC - Republican National Committee]], [[Progressive Turnout Project]], [[_Bonnie Watson Coleman Master Profile]], [[Save America PAC]], [[_Ron Johnson Master Profile]], [[_Lisa Blunt Rochester Master Profile]], [[_Pete Stauber Master Profile]], [[American Chemistry Council, INC]], [[MAGA Inc]], [[Democratic Party of Virginia]], [[_Martin Heinrich Master Profile]], [[The Lincoln Project]], [[_Andy Harris Master Profile]], [[The National Republican Trust PAC]], [[Sierra Club Political Committee]], [[SPECIAL OPERATIONS FOR AMERICA]], [[Human Rights Campaign Equality Votes]], [[Trump Victory]], [[_Ted Cruz Master Profile]], [[Marianne Williamson]], [[Catherine Cortez Masto]], [[_Lauren Underwood Master Profile]], [[FreedomWorks for America]], [[_Tammy Baldwin Master Profile]], [[_Yassamin Ansari Master Profile]], [[314 ACTION FUND]], [[Jon Ossoff]], [[Yassamin Ansari]], [[Glenn Grothman]], [[Ted Cruz]], [[Marco Rubio]], [[Bonnie Watson Coleman]], [[Don Bacon]], [[Lauren Boebert]], [[Martin Heinrich]], [[Pete Stauber]], [[Lauren Underwood]], [[Deb Haaland]], [[Cori Bush]], [[Anna Paulina Luna]], [[Chris Pappas]], [[Tammy Baldwin]], [[Lisa Blunt Rochester]], [[Ron Johnson]], [[Josh Hawley]], [[Elissa Slotkin]], [[Andy Harris]]"
 ---
 
 

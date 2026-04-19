@@ -18,7 +18,7 @@ leadership-roles:
 top-donors:
   - Lockheed Martin
   - AIPAC
-donors: "[[Bill Gates]] · [[Raytheon (RTX Corporation)]] · [[Lockheed Martin]] · [[Wfp Ie Committee]] · [[CT WORKING FAMILIES FEDERAL PAC D/B/A TAKE BACK CONGRESS CT]] · [[AMERICAN HOSPITAL ASSOCIATION PAC]] · [[Clean Up Congress]] · [[Mid-America Conservative Political Action Committee]] · [[American Hospital Association PAC]] · [[CT Working Families Federal PAC D/b/a Take Back Congress CT]]"
+donors: "[[Bill Gates]] · [[Raytheon (RTX Corporation)]] · [[Lockheed Martin]] · [[Wfp Ie Committee]] · [[CT WORKING FAMILIES FEDERAL PAC D/B/A TAKE BACK CONGRESS CT]] · [[AMERICAN HOSPITAL ASSOCIATION PAC]] · [[Clean Up Congress]] · [[Mid-America Conservative Political Action Committee]] · [[American Hospital Association PAC]] · [[CT Working Families Federal PAC D/b/a Take Back Congress CT]] · [[Progressive Turnout Project]] · [[General Motors]] · [[Nucor Corporation]] · [[National Association of Realtors]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[BAE Systems]] · [[Giffords PAC]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Unite Here Tip Campaign Committee]] · [[iHeartMedia]] · [[Sierra Club Independent Action]] · [[AIPAC - American Israel Public Affairs Committee]] · [[American College of Radiology Association PAC]] · [[Everytown for Gun Safety]] · [[AFL-CIO]] · [[Northrop Grumman]] · [[Leidos]] · [[National Committee to Preserve Social Security PAC]] · [[Planned Parenthood Votes]] · [[SEIU COPE]] · [[Google - Alphabet]] · [[National Multifamily Housing Council]] · [[League of Conservation Voters]] · [[CT Working Families Federal PAC D-b-a Take Back Congress CT]] · [[J Street]] · [[Comcast - NBCUniversal]] · [[Raytheon (RTX)]] · [[L3Harris Technologies]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[UA Political Action Committee]] · [[Teamsters - International Brotherhood of Teamsters]] · [[AT&T - WarnerMedia]] · [[NEA Fund for Children and Public Education]] · [[General Dynamics]] · [[Microsoft]] · [[Honeywell]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[PG&E - Pacific Gas and Electric]]"
 related: "[[Tom Cole]] · [[_Donald Trump Master Profile|Trump]] · [[Lockheed Martin]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[SEIU - Service Employees International Union|SEIU]] · [[Frank Pallone]] · [[Adam Smith]]"
 total-received: $689,298
 fec-candidate-id: H0CT03072
@@ -52,8 +52,8 @@ wikipedia-url: https://en.wikipedia.org/wiki/Rosa_DeLauro
 wikipedia-extract: Rosa Luisa DeLauro is an American politician serving as the U.S. representative for Connecticut's 3rd congressional district since 1991. She is a member of the Democratic Party.
 born: "1943-03-02"
 bills-enacted: 0
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "Health"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: Health
 ---
 
 

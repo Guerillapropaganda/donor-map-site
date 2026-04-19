@@ -2,7 +2,7 @@
 title: Walton Family Foundation
 type: donor
 content-readiness: draft
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Education
@@ -33,7 +33,7 @@ court-jurisdictions:
 nonprofit-status: 501(c)(3)
 total-revenue: 455437
 total-assets: 1873781
-politicians-funded: "[[Virginia Foxx]], [[Sarah Huckabee Sanders]]"
+politicians-funded: "[[Virginia Foxx]], [[Sarah Huckabee Sanders]], [[ActBlue]], [[Catherine Cortez Masto]], [[Republican Jewish Coalition]], [[_Ted Cruz Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[WinRed]], [[RNC - Republican National Committee]], [[_Nancy Pelosi Master Profile]], [[Nancy Pelosi]], [[Ted Cruz]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -246,3 +246,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/472066714/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/472066714/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/472066714/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 5 (2018–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | $1.9M |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

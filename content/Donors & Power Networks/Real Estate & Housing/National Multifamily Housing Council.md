@@ -1,58 +1,56 @@
 ---
-title: "National Multifamily Housing Council"
+title: National Multifamily Housing Council
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Real Estate"
-entity-type: "Corporation"
+sector: Real Estate
+entity-type: Corporation
 issues:
-  - "Housing"
+  - Housing
 ein: "521127504"
-annual-revenue: "$26.6M"
-net-assets: "$20.2M"
+annual-revenue: $26.6M
+net-assets: $20.2M
 tax-year: "2023"
 related: "[[Blackstone Real Estate]] · [[National Rental Home Council]] · [[Bill Pulte]] · [[Scott Wiener]]"
 sec-filings: 1236
 sec-form-types:
-  - "1-U"
-  - "10-K/A"
+  - 1-U
+  - 10-K/A
   - "425"
   - "497"
-  - "8-K"
-  - "8-K/A"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "EX1A-13 TST WTRS"
-  - "FWP"
-  - "PRE 14A"
+  - 8-K
+  - 8-K/A
+  - DEF 14A
+  - DEFA14A
+  - EX-99.1
+  - EX-99.2
+  - EX1A-13 TST WTRS
+  - FWP
+  - PRE 14A
 source-types:
   - SEC
 known-gaps:
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
+  - No FEC contribution data
+  - No lobbying disclosure data
 court-cases: 144
 last-enriched: "2026-04-09"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 court-jurisdictions:
-  - "Court of Appeals for the Eighth Circuit"
-  - "Court of Appeals for the Fifth Circuit"
-  - "Court of Appeals for the Ninth Circuit"
-  - "Court of Appeals for the Second Circuit"
-  - "District Court, C.D. California"
-  - "District Court, D. Colorado"
-  - "District Court, D. Nevada"
-  - "District Court, D. North Dakota"
-  - "District Court, D. Utah"
-  - "District Court, N.D. Texas"
+  - Court of Appeals for the Eighth Circuit
+  - Court of Appeals for the Fifth Circuit
+  - Court of Appeals for the Ninth Circuit
+  - Court of Appeals for the Second Circuit
+  - District Court, C.D. California
+  - District Court, D. Colorado
+  - District Court, D. Nevada
+  - District Court, D. North Dakota
+  - District Court, D. Utah
+  - District Court, N.D. Texas
 cross-vault-triangulation-count: 2
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
 total-raised: 2129173
 total-spent: 2364186
@@ -62,6 +60,7 @@ contributions-to-committees: 2355000
 employee-contributions: 1352
 employee-contributions-total: 164966
 employee-donor-count: 126
+politicians-funded: "[[Lisa Murkowski]], [[Frank Lucas]], [[Patrick Ryan]], [[Shontel Brown]], [[Carlos Gimenez]], [[Frank Pallone]], [[Ted Lieu]], [[Maxine Waters]], [[Dwight Evans]], [[Russ Fulcher]], [[Brittany Pettersen]], [[Michelle Fischbach]], [[Greg Landsman]], [[Brad Sherman]], [[Kevin Cramer]], [[John Garamendi]], [[Julia Brownley]], [[Susan Collins]], [[Pete Sessions]], [[Tracey Mann]], [[John Joyce]], [[Jake Auchincloss]], [[Juan Vargas]], [[Mike Thompson]], [[Marcy Kaptur]], [[Dusty Johnson]], [[Joseph Morelle]], [[Mario Diaz-Balart]], [[Dan Newhouse]], [[Sharice Davids]], [[Kevin McCarthy]], [[Mike Flood]], [[Joyce Beatty]], [[Vicente Gonzalez]], [[Donald Norcross]], [[ActBlue]], [[Ann Wagner]], [[Dina Titus]], [[Chrissy Houlahan]], [[Elise Stefanik]], [[Marsha Blackburn]], [[Patrick McHenry]], [[Josh Harder]], [[Mariannette Miller-Meeks]], [[Daniel Meuser]], [[Cathy McMorris Rodgers]], [[John Boozman]], [[Patty Murray]], [[National Multifamily Housing Council]], [[Darin Lahood]], [[Joaquin Castro]], [[Monica de la Cruz]], [[Young Kim]], [[Bill Hagerty]], [[Jimmy Gomez]], [[Kay Granger]], [[Darren Soto]], [[Richard Blumenthal]], [[Laura Friedman]], [[Nicole Malliotakis]], [[Katie Britt]], [[Roger Williams]], [[Catherine Cortez Masto]], [[Steve Womack]], [[Nikema Williams]], [[Thom Tillis]], [[Jamie Raskin]], [[Rudy Yakym]], [[Bennie Thompson]], [[Hakeem Jeffries]], [[Brad Knott]], [[Richard Hudson]], [[Pete Stauber]], [[Martin Heinrich]], [[Claudia Tenney]], [[Debbie Dingell]], [[Zoe Lofgren]], [[Mike Quigley]], [[Marilyn Strickland]], [[Joe Wilson]], [[Rick Scott]], [[Judy Chu]], [[Sheldon Whitehouse]], [[Pete Ricketts]], [[Mike Carey]], [[Sam Graves]], [[Paul Tonko]], [[Tom Cole]], [[Maria Elvira Salazar]], [[Shomari Figures]], [[David Scott]], [[Jerrold Nadler]], [[Steven Horsford]], [[Josh Gottheimer]], [[Brendan Boyle]], [[Debbie Wasserman Schultz]], [[Richard Neal]], [[Raul Ruiz]], [[Lance Gooden]], [[Tim Moore]], [[Julie Fedorchak]], [[Lloyd Smucker]], [[Jimmy Panetta]], [[Kat Cammack]], [[Ken Calvert]], [[Raphael Warnock]], [[Ron Estes]], [[Sean Casten]], [[Pete Aguilar]], [[Jim Himes]], [[Mike Rounds]], [[David Schweikert]], [[Todd Young]], [[Scott Fitzgerald]], [[Kim Schrier]], [[Steve Daines]], [[Barry Loudermilk]], [[Dan Crenshaw]], [[Ritchie Torres]], [[Mitch McConnell]], [[French Hill]], [[Erin Houchin]], [[Lindsey Graham]], [[Jim Costa]], [[Jodey Arrington]], [[Rosa DeLauro]], [[Jason Smith]], [[Brian Schatz]], [[Betty McCollum]], [[Bryan Steil]], [[Jerry Moran]], [[Peter Welch]], [[Emanuel Cleaver]], [[David Rouzer]], [[Diana Degette]], [[Troy Balderson]], [[John Cornyn]], [[Jon Husted]], [[Roger Wicker]], [[Byron Donalds]], [[Madeleine Dean]], [[Brett Guthrie]], [[Steve Scalise]], [[Harold Rogers]], [[Dan Sullivan]], [[Mike Lee]], [[August Pfluger]], [[Nathaniel Moran]], [[Gregory Meeks]], [[Brian Jack]], [[Nancy Mace]], [[Adrian Smith]], [[Dave Min]], [[Nydia Velazquez]], [[Guy Reschenthaler]], [[Michael Lawler]], [[Grace Meng]], [[Gwen Moore]], [[Rick Larsen]], [[Joni Ernst]], [[Cleo Fields]], [[John James]], [[Kristen McDonald Rivet]], [[John Barrasso]], [[Tim Sheehy]], [[Lori Trahan]], [[John Hoeven]], [[Mark Kelly]], [[John Thune]], [[Kathy Castor]], [[Adam Smith]], [[Chris van Hollen]], [[Vince Fong]], [[Lisa Blunt Rochester]], [[Ron Wyden]], [[Jay Obernolte]], [[Victoria Spartz]], [[Chris Coons]], [[Tim Scott]], [[Russell Fry]], [[Troy Downing]], [[John Hickenlooper]], [[Jason Crow]], [[Shelley Moore Capito]], [[Mark Takano]], [[Warren Davidson]], [[CHC BOLD PAC]], [[Morgan McGarvey]], [[David Kustoff]], [[Derek Tran]], [[_Vern Buchanan Master Profile]], [[Cindy Hyde-Smith]], [[James Lankford]], [[Deb Fischer]], [[Nancy Pelosi]], [[Mark Warner]], [[Tammy Duckworth]], [[Aaron Bean]], [[Jacky Rosen]], [[Diana Harshbarger]], [[Sherrod Brown]], [[Brian Babin]], [[Brian Mast]], [[Tammy Baldwin]], [[Andy Kim]], [[Mike Haridopolos]], [[Vern Buchanan]]"
 ---
 
 
@@ -236,3 +235,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F521127504_202306_990O_2024061722535196.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22National%20Multifamily%20Housing%20Council%22)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22National%20Multifamily%20Housing%20Council%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2018–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | $20.2M |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

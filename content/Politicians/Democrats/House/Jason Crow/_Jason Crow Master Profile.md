@@ -1,33 +1,34 @@
 ---
-title: "Jason Crow"
+title: Jason Crow
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Colorado"
-state-abbr: "CO"
+party: Democrat
+chamber: House
+state: Colorado
+state-abbr: CO
 district: "6"
-bioguide-id: "C001121"
+bioguide-id: C001121
 govtrack-id: 412762
 born: "1979-03-15"
-wikidata-id: "Q58323071"
-website: "https://crow.house.gov"
-phone: "202-225-7882"
+wikidata-id: Q58323071
+website: https://crow.house.gov
+phone: 202-225-7882
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H8CO06229"
+fec-candidate-id: H8CO06229
 bills-sponsored: 40
 bills-cosponsored: 445
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[League of Conservation Voters]], [[UA Political Action Committee]], [[Everytown for Gun Safety]], [[ENVIRONMENT AMERICA INC]], [[WITH HONOR FUND, INC.]], [[National Association of Realtors]], [[NEA Fund for Children and Public Education]], [[AIPAC - American Israel Public Affairs Committee]], [[IBEW - International Brotherhood of Electrical Workers]], [[DMFI - Democratic Majority for Israel]], [[Giffords PAC]], [[Ted Lieu]], [[SEIU COPE]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Protect the Vote]], [[Let America Vote PAC]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Sierra Club Political Committee]], [[Associated General Contractors of America Political Action Committee]], [[Planned Parenthood Votes]], [[Votevets]], [[J Street]], [[Progressive Turnout Project]], [[Teamsters - International Brotherhood of Teamsters]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Multifamily Housing Council]], [[Sierra Club Independent Action]], [[Unite Here Tip Campaign Committee]], [[Palantir Technologies]], [[Microsoft]], [[Morgan Stanley]], [[Amazon]], [[Raytheon (RTX Corporation)]], [[Hospital Corporation of America - HCA]], [[Kaiser Permanente]], [[Wells Fargo]], [[Lockheed Martin]], [[Citigroup]], [[Anthem - Elevance Health Political Operation]], [[Tesla - Elon Musk Political Operation]], [[Verizon]], [[Meta - Facebook]], [[Apple]], [[Oracle]], [[Bechtel Corporation]], [[Boeing]], [[Google - Alphabet]], [[General Dynamics]], [[Halliburton]], [[Nvidia]], [[Comcast - NBCUniversal]], [[Lyft]], [[Anduril Industries]], [[UPS]], [[Bank of America]], [[Chevron]], [[Cigna Group]], [[Merck]], [[Goldman Sachs]], [[HBW Resources]], [[Airbnb]]"
 ---
 
 

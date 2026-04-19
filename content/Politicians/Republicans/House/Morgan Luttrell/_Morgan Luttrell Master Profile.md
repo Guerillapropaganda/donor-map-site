@@ -1,33 +1,34 @@
 ---
-title: "Morgan Luttrell"
+title: Morgan Luttrell
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Texas"
-state-abbr: "TX"
+party: Republican
+chamber: House
+state: Texas
+state-abbr: TX
 district: "8"
-bioguide-id: "L000603"
+bioguide-id: L000603
 govtrack-id: 456942
 born: "1975-11-07"
-wikidata-id: "Q115137460"
-website: "https://luttrell.house.gov"
-phone: "202-225-4901"
+wikidata-id: Q115137460
+website: https://luttrell.house.gov
+phone: 202-225-4901
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H2TX08182"
+fec-candidate-id: H2TX08182
 bills-sponsored: 21
 bills-cosponsored: 148
 bills-enacted: 2
-top-policy-area: "Armed Forces and National Security"
+top-policy-area: Armed Forces and National Security
+top-donors: "[[SPECIAL OPERATIONS FOR AMERICA]], [[Drain the DC Swamp PAC]], [[National Cattlemen's Beef Association]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Lockheed Martin]], [[Congressional Leadership Fund]], [[Freedom's Defense Fund]], [[Leidos]], [[General Dynamics]], [[Honeywell]], [[Raytheon (RTX)]], [[Associated General Contractors of America Political Action Committee]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Rifle Association]], [[AT&T - WarnerMedia]], [[Valero Energy]], [[National Association of Realtors]], [[Chevron]], [[Marathon Petroleum]], [[Jim Jordan]], [[AIPAC - American Israel Public Affairs Committee]], [[Comcast - NBCUniversal]], [[Jason Smith]], [[Tzedek PAC]], [[American Chemistry Council, INC]], [[Republican Jewish Coalition]], [[BAE Systems]], [[MAJORITY PAC]], [[Halliburton]], [[WinRed]], [[American Hospital Association PAC]], [[L3Harris Technologies]], [[AMERICAN PATRIOTS PAC]], [[National Restaurant Association]], [[Northrop Grumman]]"
 ---
 
 

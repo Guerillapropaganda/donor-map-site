@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Mega-Donors
 entity-type: Individual Donor
-politicians-funded: "[[Barack Obama]]"
+politicians-funded: "[[Barack Obama]], [[Emily's List]], [[Reclaim America PAC]], [[_Cory Booker Master Profile]], [[ActBlue]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Marco Rubio Master Profile]], [[Mark Kelly]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Lauren Underwood Master Profile]], [[Human Rights Campaign Equality Votes]], [[_Susie Lee Master Profile]], [[Let America Vote PAC]], [[_Josh Riley Master Profile]], [[PRIORITIES USA ACTION]], [[_Jon Ossoff Master Profile]], [[WinSenate]], [[Cory Booker]], [[Lauren Underwood]], [[Josh Riley]], [[Susie Lee]], [[Jon Ossoff]], [[Marco Rubio]]"
 sec-filings: 7626
 sec-form-types:
   - 10-Q
@@ -366,3 +366,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/562618866/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/562618866/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/562618866/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 11 (2017–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | — |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

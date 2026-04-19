@@ -33,9 +33,9 @@ known-gaps:
   - No FEC contribution data
   - No mapped relationships
 related: "[[_Donald Trump Master Profile]] · [[_Jon Ossoff Master Profile]] · [[Fairshake PAC]] · [[AIPAC - American Israel Public Affairs Committee]] · [[David Sacks Master Profile]] · [[Howard Lutnick Master Profile]]"
-donors: "[[Tech Industry]] · [[American Gaming Association]] · [[Fairshake PAC]] · [[Winklevoss Twins]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Elon Musk]] · [[Club for Growth]]"
+donors: "[[Tech Industry]] · [[American Gaming Association]] · [[Fairshake PAC]] · [[Winklevoss Twins]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Elon Musk]] · [[Club for Growth]] · [[SpaceX]] · [[CBRE Group]] · [[Walmart]] · [[Boeing]]"
 bills-enacted: 0
-top-policy-area: "Government Operations and Politics"
+top-policy-area: Government Operations and Politics
 ---
 
 

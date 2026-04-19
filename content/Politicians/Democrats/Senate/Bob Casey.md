@@ -1,31 +1,26 @@
 ---
-title: "Bob Casey"
+title: Bob Casey
 type: politician
-bioguide-id: "C001070"
-chamber: "Senate"
-party: "Democrat"
+bioguide-id: C001070
+chamber: Senate
+party: Democrat
 content-readiness: draft
 central-thesis: "Bob Casey was the Senate's largest recipient of pharmaceutical industry donations (content-readiness: draft.8 million since 2007, $520,776 in 2024 cycle alone) while publicly positioning himself as opposing corporate healthcare profiteering. This contradiction was surv..."
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-donors: "[[American Iron and Steel Institute]]"
+donors: "[[American Iron and Steel Institute]], [[Goldman Sachs]], [[Apollo Global Management]], [[Walmart]], [[UPS]], [[Boeing]], [[Monsanto - Bayer]], [[Carlyle Group]], [[Apple]], [[Leidos]], [[Wells Fargo]], [[Microsoft]], [[Comcast - NBCUniversal]], [[AFSCME - American Federation of State County and Municipal Employees]], [[General Dynamics]], [[Lockheed Martin]], [[Gilead Sciences]], [[Northrop Grumman]], [[Airbnb]], [[Cargill]], [[UnitedHealth Group - Optum]], [[Honeywell International]], [[Center for American Progress]], [[FTX - Sam Bankman-Fried]], [[Citigroup]], [[PG&E]], [[BlackRock]], [[Bank of America]], [[AT&T]], [[Tenet Healthcare]], [[California Labor Federation]], [[CBRE Group]], [[Merck]], [[Uber]], [[Activate America]], [[MassMutual]], [[Nvidia]], [[L3 Technologies]], [[SEIU - Service Employees International Union]], [[Novo Nordisk]], [[Pfizer Inc.]], [[Google - Alphabet]], [[Blue Shield of California]], [[Fidelity Investments]], [[Charles Schwab]], [[Humane Society Legislative Fund]], [[Kaiser Permanente]], [[BLUEGREEN ALLIANCE]], [[Ford Motor Company]], [[Verizon]], [[Morgan Stanley]], [[Amazon]], [[ENVIRONMENT AMERICA INC]], [[CVS Health - Aetna]], [[JPMorgan Chase]], [[NORPAC]], [[Cigna Group]], [[National Association of Manufacturers]], [[Johnson & Johnson]], [[PG&E - Pacific Gas and Electric]], [[Oracle]], [[Walt Disney Company]], [[Blackstone Group]], [[AFGE - American Federation of Government Employees]], [[Booz Allen Hamilton]], [[Tesla - Elon Musk Political Operation]], [[Lyft]], [[IBEW - International Brotherhood of Electrical Workers]], [[Open Society Foundations]], [[National Association of Realtors]], [[Starbucks]], [[Moderna]], [[League of Conservation Voters]], [[Chevron]], [[Aramark]], [[Teamsters - International Brotherhood of Teamsters]], [[Anthem - Elevance Health Political Operation]], [[Susquehanna International Group]], [[Hospital Corporation of America - HCA]], [[TikTok - ByteDance]], [[News Corp - Fox Corporation]], [[Bechtel Corporation]], [[AbbVie]], [[DNC - Democratic National Committee]], [[Tyson Foods]], [[Meta - Facebook]], [[Raytheon (RTX Corporation)]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[UFCW - United Food and Commercial Workers]], [[ExxonMobil]], [[BAE Systems]], [[Centene Corporation]]"
 related: "[[Teamsters - International Brotherhood of Teamsters]] · [[Pharmaceutical Industry Bloc]] · [[Sherrod Brown|Sherrod Brown]]"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline; run voting pipeline; run congress pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run fec pipeline; run voting pipeline; run congress pipeline; run pipelines
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 last-enriched: "2026-04-13"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 1263
 bills-cosponsored: 4166
 bills-enacted: 2
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "Health"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: Health
 ---
 
 

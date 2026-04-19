@@ -1,33 +1,34 @@
 ---
-title: "Derrick van Orden"
+title: Derrick van Orden
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Wisconsin"
-state-abbr: "WI"
+party: Republican
+chamber: House
+state: Wisconsin
+state-abbr: WI
 district: "3"
-bioguide-id: "V000135"
+bioguide-id: V000135
 govtrack-id: 456950
 born: "1969-09-15"
-wikidata-id: "Q115155627"
-website: "https://vanorden.house.gov"
-phone: "202-225-5506"
+wikidata-id: Q115155627
+website: https://vanorden.house.gov
+phone: 202-225-5506
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H0WI03175"
+fec-candidate-id: H0WI03175
 bills-sponsored: 31
 bills-cosponsored: 321
 bills-enacted: 0
-top-policy-area: "Armed Forces and National Security"
+top-policy-area: Armed Forces and National Security
+top-donors: "[[Activate America]], [[Hunter Action Fund (haf)]], [[Jake Ellzey]], [[Glenn Grothman]], [[Austin Scott]], [[August Pfluger]], [[National Victory Action Fund]], [[Adrian Smith]], [[WinRed]], [[Votevets]], [[MAJORITY PAC]], [[Mike Collins]], [[NRCC - National Republican Congressional Committee]], [[Save America PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[Alliance Coal, LLC PAC]], [[PRIORITIES USA ACTION]], [[Madison Project Inc.]], [[National Cattlemen's Beef Association]], [[Walmart - Walton Family]], [[AT&T - WarnerMedia]], [[Lockheed Martin]], [[National Restaurant Association]], [[Chevron]], [[Darrell Issa]], [[Hmp]], [[Joe Wilson]], [[Planned Parenthood Votes]], [[SPECIAL OPERATIONS FOR AMERICA]], [[Google - Alphabet]], [[Michael Waltz]], [[Freedom's Defense Fund]], [[League of Conservation Voters]], [[Campaign for Working Families]], [[Mike Haridopolos]], [[Republican Jewish Coalition]], [[General Dynamics]], [[Law Enforcement for a Safer America Pac]], [[Progressive Turnout Project]], [[Andy Harris]], [[David Rouzer]], [[National Education Association]], [[Comcast - NBCUniversal]], [[Scott Franklin]], [[Byron Donalds]], [[National Rifle Association]], [[National Association of Realtors]], [[Rick W. Allen]], [[Don Bacon]], [[Troy Downing]], [[Congressional Leadership Fund]], [[National Right to Life Victory Fund]], [[Center Forward Committee]], [[Jason Smith]], [[John James]], [[Kevin Kiley]], [[Raytheon (RTX)]], [[Vern Buchanan]], [[Ron Johnson]], [[Jim Jordan]], [[Ben Cline]], [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]], [[Mark Green]], [[Carlos Gimenez]], [[Valero Energy]], [[Ron Estes]], [[ADM - Archer Daniels Midland]], [[Honoring American Law Enforcement Pac]], [[Pete Sessions]], [[Cliff Bentz]]"
 ---
 
 

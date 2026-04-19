@@ -2,7 +2,7 @@
 title: Consumer Energy Alliance
 type: donor
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 2
 parent: null
 sector: Energy & Utilities
@@ -14,7 +14,7 @@ last-enriched: "2026-04-18"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
 ofac-programs:
-  - "IRAN-EO13846"
+  - IRAN-EO13846
 court-cases: 44
 court-jurisdictions:
   - Court of Appeals for the D.C. Circuit
@@ -46,7 +46,7 @@ sec-form-types:
   - PX14A6G
 cross-vault-triangulation-count: 3
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-politicians-funded: "[[Michael Whatley]]"
+politicians-funded: "[[Michael Whatley]], [[WinRed]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -274,3 +274,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/261658339/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/261658339/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/261658339/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 7 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $3.0M |
+| Total expenses | — |
+| Total assets (EOY) | $1.6M |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

@@ -27,7 +27,7 @@ bills-sponsored: 21
 bills-cosponsored: 307
 website: https://gimenez.house.gov
 phone: 202-225-2778
-donors: "[[Bacardi - Bacardi USA]] · [[Fanjul Family - Florida Crystals]] · [[South Florida Residents First]] · [[MasTec - Mas Canosa Family]]"
+donors: "[[Bacardi - Bacardi USA]] · [[Fanjul Family - Florida Crystals]] · [[South Florida Residents First]] · [[MasTec - Mas Canosa Family]] · [[Byron Donalds]] · [[Lockheed Martin]] · [[NRCC - National Republican Congressional Committee]] · [[National Multifamily Housing Council]] · [[Tyson Foods]] · [[MAJORITY PAC]] · [[Comcast - NBCUniversal]] · [[Ron Estes]] · [[NextEra Energy]] · [[Marathon Petroleum]] · [[Republican Jewish Coalition]] · [[Drain the DC Swamp PAC]] · [[Ford Motor Company]] · [[General Dynamics]] · [[Walmart - Walton Family]] · [[WinRed]] · [[AT&T - WarnerMedia]] · [[Associated General Contractors of America Political Action Committee]] · [[Anthem - Elevance Health]] · [[Daniel Webster]] · [[Giffords PAC]] · [[National Cattlemen's Beef Association]] · [[SEIU COPE]] · [[David Rouzer]] · [[Northrop Grumman]] · [[Adrian Smith]] · [[General Motors]] · [[Honeywell]] · [[BAE Systems]] · [[Raytheon (RTX)]] · [[Congressional Leadership Fund]] · [[Ben Cline]] · [[Women Speak Out Pac]] · [[American Chemistry Council, INC]] · [[Save America PAC]] · [[National Restaurant Association]] · [[AIPAC - American Israel Public Affairs Committee]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[National Association of Realtors]] · [[Chevron]] · [[National Right to Life Victory Fund]] · [[Jason Smith]] · [[Freedom's Defense Fund]] · [[Jake Ellzey]] · [[Victoria Spartz]] · [[L3Harris Technologies]] · [[Vern Buchanan]] · [[Google - Alphabet]] · [[Planned Parenthood Votes]] · [[Citadel - Kenneth Griffin]] · [[Lennar Corporation]] · [[Ballard Partners]] · [[Charles Schwab]] · [[FTX - Sam Bankman-Fried]] · [[Apple]] · [[Las Vegas Sands]] · [[AT&T]] · [[CBRE Group]] · [[Kelcy Warren - Energy Transfer Partners]]"
 related: "[[Lennar Corporation]] · [[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[_Maria Elvira Salazar Master Profile|Salazar]] · [[MasTec - Mas Canosa Family]] · [[Fanjul Family - Florida Crystals]]"
 source-types:
   - FEC
@@ -54,7 +54,7 @@ needs-reenrichment: true
 reenrich-reason: run congress pipeline; run pipelines
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 bills-enacted: 1
-top-policy-area: "International Affairs"
+top-policy-area: International Affairs
 ---
 
 

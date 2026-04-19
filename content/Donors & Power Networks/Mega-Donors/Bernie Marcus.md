@@ -80,6 +80,34 @@ urls-first-triaged: "2026-04-15"
 *Source: FEC individual contribution filings (indiv), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2018–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $260 |
+| Total expenses | — |
+| Total assets (EOY) | $39K |
+| Grants paid out | — |
+
+**Lifetime grants out (2018–2023):** $499K across 2 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| NEW DAY AERO MEDICAL FOUNDATION | $466K | 2 | 2020–2021 |
+| JEWISH FEDERATION OF GREATER ATLANTA INC | $33K | 1 | 2023 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->
+
 #bernie-marcus #mega-donor #republican #udp #aipac #home-depot #deceased-2024
 
 ---

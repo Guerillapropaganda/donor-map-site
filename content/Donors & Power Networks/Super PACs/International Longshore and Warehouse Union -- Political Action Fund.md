@@ -5,14 +5,14 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00176214
 aliases:
   - INTERNATIONAL LONGSHORE AND WAREHOUSE UNION -- POLITICAL ACTION FUND
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
-politicians-funded: "[[Bernie Sanders]], [[Brian Schatz]]"
+politicians-funded: "[[Bernie Sanders]], [[Brian Schatz]], [[Marilyn Strickland]], [[Derek Tran]], [[Adam Smith]], [[Marie Gluesenkamp Perez]], [[John Garamendi]], [[Laura Friedman]], [[Pramila Jayapal]], [[Maria Cantwell]], [[Lisa Murkowski]], [[Andrea Salinas]], [[Patty Murray]], [[Robert Garcia]], [[Kim Schrier]], [[Jared Huffman]], [[Barbara Lee]], [[Ted Lieu]], [[Raphael Warnock]], [[Rick Larsen]], [[Hakeem Jeffries]], [[Emily Randall]], [[Mike Levin]], [[Judy Chu]], [[Alex Padilla]], [[Dave Min]], [[Kamala Harris]], [[Adam Schiff]]"
 related: "[[Bernie Sanders]] · [[Brian Schatz]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

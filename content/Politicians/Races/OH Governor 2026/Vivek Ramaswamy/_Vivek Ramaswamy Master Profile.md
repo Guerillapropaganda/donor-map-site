@@ -3,7 +3,7 @@ title: Vivek Ramaswamy
 type: politician
 content-readiness: draft
 central-thesis: Vivek Ramaswamy's political brand , anti-regulation, anti-DEI, anti-'woke capitalism' , is funded by and serves the same billionaire class it claims to challenge. His $2.4 billion fortune was built through Roivant Sciences, a pharmaceutical compan...
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Republican
@@ -17,7 +17,7 @@ issues:
   - Tax Policy
   - Government Reform
   - Anti-ESG
-top-donors: "[[Jeffrey Yass]], [[Peter Thiel]], [[Ross Stevens]]"
+top-donors: "[[Jeffrey Yass]], [[Peter Thiel]], [[Ross Stevens]], [[PRIORITIES USA ACTION]], [[WinRed]], [[Drain the DC Swamp PAC]], [[Ruralvote.org]], [[Trump Victory]]"
 total-received: $66,197,196
 fec-candidate-id: P40011082
 source-types:

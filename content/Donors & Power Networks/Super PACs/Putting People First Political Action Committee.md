@@ -5,14 +5,14 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00243584
 aliases:
   - PUTTING PEOPLE FIRST POLITICAL ACTION COMMITTEE
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
-politicians-funded: "[[Bernie Sanders]]"
+politicians-funded: "[[Bernie Sanders]], [[Ruben Gallego]], [[Sharice Davids]], [[Kim Schrier]], [[Marcy Kaptur]], [[Andrea Salinas]], [[Jahana Hayes]], [[Mike Levin]], [[Seth Magaziner]], [[Sean Casten]], [[Henry Cuellar]], [[Julia Brownley]], [[Teresa Leger Fernandez]], [[Vicente Gonzalez]]"
 related: "[[Bernie Sanders]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

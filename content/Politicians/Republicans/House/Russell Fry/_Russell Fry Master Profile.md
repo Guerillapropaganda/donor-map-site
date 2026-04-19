@@ -1,34 +1,34 @@
 ---
-title: "Russell Fry"
+title: Russell Fry
 type: politician
 content-readiness: raw
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "South Carolina"
-state-abbr: "SC"
+party: Republican
+chamber: House
+state: South Carolina
+state-abbr: SC
 district: "7"
-bioguide-id: "F000478"
+bioguide-id: F000478
 govtrack-id: 456938
 born: "1985-01-31"
-wikidata-id: "Q96015883"
-website: "https://fry.house.gov"
-phone: "202-225-9895"
+wikidata-id: Q96015883
+website: https://fry.house.gov
+phone: 202-225-9895
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
-donors: "[[CA Farm Bureau Federation]]"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
+donors: "[[CA Farm Bureau Federation]], [[AT&T - WarnerMedia]], [[American Chemistry Council, INC]], [[Duke Energy]], [[Anthem - Elevance Health]], [[AIPAC - American Israel Public Affairs Committee]], [[Google - Alphabet]], [[MAJORITY PAC]], [[Jason Smith]], [[Honeywell]], [[Ben Cline]], [[American Hospital Association PAC]], [[Madison Project Inc.]], [[Chevron]], [[Jim Jordan]], [[McDonalds Corporation]], [[National Restaurant Association]], [[Associated General Contractors of America Political Action Committee]], [[Pfizer Inc.]], [[Nucor Corporation]], [[National Association of Realtors]], [[Campaign for Working Families]], [[Comcast - NBCUniversal]], [[August Pfluger]], [[Microsoft]], [[WinRed]], [[Tyson Foods]], [[National Multifamily Housing Council]], [[Save America PAC]], [[Care Action]], [[National Rifle Association]], [[AbbVie]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Walmart - Walton Family]], [[iHeartMedia]]"
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H2SC07280"
+fec-candidate-id: H2SC07280
 bills-sponsored: 11
 bills-cosponsored: 229
 bills-enacted: 0
-top-policy-area: "Crime and Law Enforcement"
+top-policy-area: Crime and Law Enforcement
 ---
 
 

@@ -6,7 +6,7 @@ chamber: Senate
 party: Republican
 content-readiness: draft
 central-thesis: Katie Britt is the Republican donor class's manufactured rising star. She did not build a political movement, cultivate grassroots support, or develop an independent power base. She was built from component parts by the Alabama business lobby. She...
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
 total-received: $5,988,486
@@ -19,12 +19,12 @@ known-gaps:
   - No mapped relationships
 related: "[[Business Council of Alabama]] · [[Alabama Power]] · [[Drummond Co|Drummond Co.]] · [[Defense Contractors]]"
 top-donors: "[[Alabama Conservatives Fund]] · [[Alabama Christian Conservatives]] · [[Conservative Outsider Pac Inc]] · [[AMERICAN DREAM FEDERAL ACTION]] · [[American Dream Federal Action]]"
-donors: "[[American Dream Federal Action]] · [[AMERICAN DREAM FEDERAL ACTION]] · [[Alabama Conservatives Fund]] · [[Alabama Christian Conservatives]] · [[Conservative Outsider Pac Inc]]"
+donors: "[[American Dream Federal Action]] · [[AMERICAN DREAM FEDERAL ACTION]] · [[Alabama Conservatives Fund]] · [[Alabama Christian Conservatives]] · [[Conservative Outsider Pac Inc]] · [[General Dynamics]] · [[Pfizer Inc.]] · [[National Rifle Association]] · [[American Hospital Association PAC]] · [[Microsoft]] · [[AT&T - WarnerMedia]] · [[Duke Energy]] · [[Amgen Inc]] · [[National Association of Realtors]] · [[Alabama Power]] · [[Chevron]] · [[National Multifamily Housing Council]] · [[Morgan Stanley]] · [[NextEra Energy]] · [[Drummond Co.]] · [[Citigroup]] · [[Northrop Grumman]] · [[Comcast - NBCUniversal]] · [[Save America PAC]] · [[Palantir]] · [[Tenet Healthcare]] · [[CoreCivic - Private Prisons]] · [[Lockheed Martin]] · [[American Chemistry Council, INC]] · [[VIEW PAC - Value in Electing Women]] · [[National Cattlemen's Beef Association]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[Raytheon (RTX)]] · [[BAE Systems]] · [[WinRed]] · [[Nucor Corporation]] · [[Gilead Sciences]] · [[Republican Jewish Coalition]] · [[Occidental Petroleum]] · [[NRSC - National Republican Senatorial Committee]] · [[Reclaim America PAC]] · [[L3Harris Technologies]] · [[National Restaurant Association]] · [[AIPAC - American Israel Public Affairs Committee]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Club for Growth]] · [[Honeywell]] · [[iHeartMedia]] · [[Opportunity Matters Fund]] · [[American Gaming Association]] · [[Anthem - Elevance Health]] · [[Walmart - Walton Family]] · [[Associated General Contractors of America Political Action Committee]] · [[National Association of Manufacturers]] · [[General Motors]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 17
 bills-cosponsored: 367
 bills-enacted: 0
-top-policy-area: "International Affairs"
+top-policy-area: International Affairs
 ---
 
 

@@ -1,33 +1,34 @@
 ---
-title: "Morgan McGarvey"
+title: Morgan McGarvey
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Kentucky"
-state-abbr: "KY"
+party: Democrat
+chamber: House
+state: Kentucky
+state-abbr: KY
 district: "3"
-bioguide-id: "M001220"
+bioguide-id: M001220
 govtrack-id: 456904
 born: "1979-12-23"
-wikidata-id: "Q16732298"
-website: "https://mcgarvey.house.gov"
-phone: "202-225-5401"
+wikidata-id: Q16732298
+website: https://mcgarvey.house.gov
+phone: 202-225-5401
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H2KY03206"
+fec-candidate-id: H2KY03206
 bills-sponsored: 28
 bills-cosponsored: 354
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Nucor Corporation]], [[General Motors]], [[Leidos]], [[Amgen Inc]], [[NEA Fund for Children and Public Education]], [[General Dynamics]], [[Raytheon (RTX)]], [[Let America Vote PAC]], [[Jamie Raskin]], [[McDonalds Corporation]], [[American Hospital Association PAC]], [[Sierra Club Independent Action]], [[UA Political Action Committee]], [[AbbVie]], [[Everytown for Gun Safety]], [[National Association of Realtors]], [[SEIU COPE]], [[Teamsters - International Brotherhood of Teamsters]], [[Comcast - NBCUniversal]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Duke Energy]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[AFL-CIO]], [[Bank of America]], [[Humana]], [[AT&T - WarnerMedia]], [[Planned Parenthood Action Fund INC]], [[Ted Lieu]], [[IBEW - International Brotherhood of Electrical Workers]], [[National Committee to Preserve Social Security PAC]], [[Lockheed Martin]], [[League of Conservation Voters]], [[AIPAC - American Israel Public Affairs Committee]], [[American College of Radiology Association PAC]], [[Ford Motor Company]], [[CVS Health - Aetna]], [[Pfizer Inc.]], [[DMFI - Democratic Majority for Israel]], [[Congressional Progressive Caucus PAC]], [[Sierra Club Political Committee]], [[Anthem - Elevance Health]], [[Giffords PAC]], [[Medicare for All - The Policy That Broke the Party]], [[Google - Alphabet]], [[MoveOn.org Political Action]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Adriano Espaillat]], [[National Multifamily Housing Council]], [[Walmart - Walton Family]], [[BAE Systems]], [[Progressive Turnout Project]], [[Protect Our Future PAC]], [[Honeywell]], [[AT&T]], [[Verizon]], [[UnitedHealth Group - Optum]], [[Blackstone Group]], [[Amazon]], [[Wells Fargo]], [[UPS]], [[Citadel - Kenneth Griffin]], [[Raytheon (RTX Corporation)]], [[Lyft]], [[Cigna Group]], [[Anthem - Elevance Health Political Operation]], [[Morgan Stanley]]"
 ---
 
 

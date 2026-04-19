@@ -1,50 +1,48 @@
 ---
-title: "Organizing for Action"
+title: Organizing for Action
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Dark Money"
-entity-type: "Individual Donor"
+sector: Dark Money
+entity-type: Individual Donor
 issues:
-  - "Dark Money & Campaign Finance"
+  - Dark Money & Campaign Finance
 ein: 461827418
-annual-revenue: "$4.7M"
-net-assets: "$2.3M"
+annual-revenue: $4.7M
+net-assets: $2.3M
 tax-year: "2018"
 sec-filings: 11
 sec-form-types:
-  - "424B3"
-  - "DEF 14A"
-  - "EX-10.1"
-  - "EX-99.1"
-  - "EX-99.5"
-  - "S-4/A"
-  - "S-4EF"
+  - 424B3
+  - DEF 14A
+  - EX-10.1
+  - EX-99.1
+  - EX-99.5
+  - S-4/A
+  - S-4EF
 court-cases: 30
 last-enriched: "2026-04-10"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 court-jurisdictions:
-  - "District Court, C.D. California"
-  - "District Court, D. Maryland"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. North Carolina"
-  - "District Court, E.D. Pennsylvania"
-  - "District Court, N.D. Illinois"
-  - "District Court, S.D. New York"
-  - "District Court, W.D. Texas"
+  - District Court, C.D. California
+  - District Court, D. Maryland
+  - District Court, District of Columbia
+  - District Court, E.D. North Carolina
+  - District Court, E.D. Pennsylvania
+  - District Court, N.D. Illinois
+  - District Court, S.D. New York
+  - District Court, W.D. Texas
 related: "[[Barack Obama Master Profile]] · [[The Post-Presidency Capitalization - From Hope and Change to Martha's Vineyard]] · [[Democracy Alliance]]"
 lobbying-spend: 2850000
 lobbying-filings: 44
-nonprofit-status: "501(c)(4)"
+nonprofit-status: 501(c)(4)
 total-revenue: 4780839
 total-assets: 2265284
 cross-vault-triangulation-count: 3
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -52,6 +50,7 @@ urls-first-triaged: "2026-04-15"
 employee-contributions: 41
 employee-contributions-total: 8666
 employee-donor-count: 13
+politicians-funded: "[[ActBlue]], [[Catherine Cortez Masto]]"
 ---
 
 
@@ -238,3 +237,32 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2016 Filing](https://projects.propublica.org/nonprofits/organizations/461827418/2016)~~ (URL broken, archived by Ops)
 - ~~[2015 Filing](https://projects.propublica.org/nonprofits/organizations/461827418/2015)~~ (URL broken, archived by Ops)
 - ~~[2014 Filing](https://projects.propublica.org/nonprofits/organizations/461827418/2014)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 2 (2018–2019)
+
+**Most recent filing (2019):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $213K |
+| Total expenses | — |
+| Total assets (EOY) | — |
+| Grants paid out | $406K |
+
+**Lifetime grants out (2018–2019):** $406K across 2 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| National Redistricting Action Fund | $215K | 1 | 2019 |
+| Movement Voter Action Fund via Tides Advocacy | $191K | 1 | 2019 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

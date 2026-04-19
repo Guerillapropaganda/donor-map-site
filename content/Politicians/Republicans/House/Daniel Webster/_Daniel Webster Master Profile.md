@@ -1,35 +1,36 @@
 ---
-title: "Daniel Webster"
+title: Daniel Webster
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Florida"
-state-abbr: "FL"
+party: Republican
+chamber: House
+state: Florida
+state-abbr: FL
 district: "11"
-bioguide-id: "W000806"
+bioguide-id: W000806
 govtrack-id: 412410
 born: "1949-04-27"
-wikidata-id: "Q1163099"
-website: "https://webster.house.gov"
-phone: "202-225-1002"
+wikidata-id: Q1163099
+website: https://webster.house.gov
+phone: 202-225-1002
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H0FL08208"
+fec-candidate-id: H0FL08208
 total-spent: 4239
 contributions-to-committees: 3514
 bills-sponsored: 5
 bills-cosponsored: 223
 bills-enacted: 0
-top-policy-area: "Armed Forces and National Security"
+top-policy-area: Armed Forces and National Security
+top-donors: "[[Duke Energy]], [[Carlos Gimenez]], [[MAJORITY PAC]], [[NextEra Energy]], [[Associated General Contractors of America Political Action Committee]], [[AT&T - WarnerMedia]], [[Lockheed Martin]], [[Comcast - NBCUniversal]], [[General Dynamics]], [[Honeywell]], [[National Rifle Association]], [[Raytheon (RTX)]], [[REPUBLICAN PARTY OF FLORIDA]], [[General Motors]], [[National Association of Realtors]], [[Walmart - Walton Family]], [[WinRed]], [[Congressional Leadership Fund]], [[David Rouzer]], [[National Cattlemen's Beef Association]], [[AIPAC - American Israel Public Affairs Committee]], [[Austin Scott]], [[American Hospital Association PAC]], [[Google - Alphabet]], [[Fanjul Family - Florida Crystals]], [[Ballard Partners]], [[Bank of America]], [[Novo Nordisk]], [[Charles Schwab]], [[America First Policy Institute]]"
 ---
 
 

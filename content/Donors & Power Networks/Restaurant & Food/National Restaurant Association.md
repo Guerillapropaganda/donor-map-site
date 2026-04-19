@@ -2,7 +2,7 @@
 title: National Restaurant Association
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Restaurant & Food
@@ -47,7 +47,7 @@ lobbying-spend: 3106887
 lobbying-filings: 143
 related: "[[Starbucks]] · [[McDonalds Corporation]] · [[US Chamber of Commerce]] · [[National Association of Manufacturers]] · [[UNITE HERE]] · [[Bryan Steil]] · [[Ron Johnson]] · [[Steve Scalise]] · [[Jason Smith]] · [[Adam Smith]] · [[Mike Johnson]]"
 total-political-spend: $1,807,500
-politicians-funded: "[[Kevin McCarthy]], [[Steve Scalise]], [[Adam Smith]], [[Jason Smith]], [[Bryan Steil]], [[Ron Johnson]], [[Mike Johnson]]"
+politicians-funded: "[[Kevin McCarthy]], [[Steve Scalise]], [[Adam Smith]], [[Jason Smith]], [[Bryan Steil]], [[Ron Johnson]], [[Mike Johnson]], [[WinRed]], [[Nancy Mace]], [[Ryan Mackenzie]], [[Roger Wicker]], [[Jodey Arrington]], [[_Don Bacon Master Profile]], [[Maria Elvira Salazar]], [[Mike Thompson]], [[Joseph Morelle]], [[Brandon Gill]], [[Adrian Smith]], [[Randy Fine]], [[Lisa Murkowski]], [[Hakeem Jeffries]], [[National Restaurant Association]], [[Ron Wyden]], [[Markwayne Mullin]], [[Jim Costa]], [[Lance Gooden]], [[Tony Wied]], [[Mark Alford]], [[Aaron Bean]], [[_Young Kim Master Profile]], [[Richard Neal]], [[Mike Kennedy]], [[Erin Houchin]], [[_Darrell Issa Master Profile]], [[ActBlue]], [[Nydia Velazquez]], [[Amy Klobuchar]], [[Nicole Malliotakis]], [[John James]], [[Joni Ernst]], [[Marsha Blackburn]], [[Richard McCormick]], [[Mark Harris]], [[Kyrsten Sinema]], [[Glenn Thompson]], [[Darin Lahood]], [[Derek Schmidt]], [[Lisa Blunt Rochester]], [[Zoe Lofgren]], [[Michelle Fischbach]], [[Troy Balderson]], [[Derrick van Orden]], [[Ken Calvert]], [[John Barrasso]], [[Pete Aguilar]], [[Jacky Rosen]], [[Mike Lee]], [[Dan Newhouse]], [[_Andy Barr Master Profile]], [[Peter Welch]], [[Ron Estes]], [[Pat Harrigan]], [[Scott Fitzgerald]], [[Tom Cole]], [[Alex Padilla]], [[John Boozman]], [[John Cornyn]], [[Chip Roy]], [[Trump Victory]], [[MAGA Inc]], [[Eric Schmitt]], [[Kim Schrier]], [[Roger Marshall]], [[Chuck Edwards]], [[Russell Fry]], [[John Hoeven]], [[Pete Stauber]], [[Kristen McDonald Rivet]], [[Brian Schatz]], [[Josh Gottheimer]], [[Pete Ricketts]], [[Ted Cruz]], [[Steven Horsford]], [[Young Kim]], [[NRCC - National Republican Congressional Committee]], [[Carlos Gimenez]], [[Tracey Mann]], [[Sheri Biggs]], [[Shelley Moore Capito]], [[Patrick Ryan]], [[Richard Hudson]], [[Kat Cammack]], [[Maxine Waters]], [[Jeff Crank]], [[Roger Williams]], [[Jon Husted]], [[Glenn Grothman]], [[RNC - Republican National Committee]], [[Mike Haridopolos]], [[Chris van Hollen]], [[Todd Young]], [[Jefferson Shreve]], [[Joe Manchin]], [[Elise Stefanik]], [[_David Rouzer Master Profile]], [[Joyce Beatty]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Cathy McMorris Rodgers]], [[Jimmy Patronis]], [[John Joyce]], [[Virginia Foxx]], [[Jay Obernolte]], [[Jimmy Panetta]], [[Julie Fedorchak]], [[Tim Moore]], [[Guy Reschenthaler]], [[Henry Cuellar]], [[Rudy Yakym]], [[David Rouzer]], [[David Kustoff]], [[Claudia Tenney]], [[Katie Britt]], [[Ashley Moody]], [[Sarah McBride]], [[Rick Scott]], [[Kay Granger]], [[Monica de la Cruz]], [[_Doug Burgum Master Profile]], [[Michael Lawler]], [[Tim Walberg]], [[Marie Gluesenkamp Perez]], [[Mike Carey]], [[Susan Collins]], [[Sarah Elfreth]], [[_Pete Ricketts Master Profile]], [[Dusty Johnson]], [[_Virginia Foxx Master Profile]], [[Tim Scott]], [[Patrick McHenry]], [[Mark Kelly]], [[Brian Jack]], [[Lloyd Smucker]], [[Troy Downing]], [[Deb Fischer]], [[Michael Baumgartner]], [[Nathaniel Moran]], [[Morgan Luttrell]], [[Kevin Cramer]], [[John Thune]], [[James Lankford]], [[Eric Burlison]], [[Chris Coons]], [[John Kennedy]], [[Brad Knott]], [[Brett Guthrie]], [[Josh Brecheen]], [[Ronny Jackson]], [[Don Bacon]], [[Andy Barr]], [[Doug Burgum]], [[Darrell Issa]]"
 cross-vault-triangulation-count: 6
 audit-a-plus-passed: "2026-04-11"
 checklist-na:
@@ -352,3 +352,50 @@ Preservation of the $2.13/hour tipped minimum wage, opposition to federal minimu
 Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
 
 - ~~[EPI: Tipped minimum wage analysis](https://www.epi.org/publication/waiting-for-change-tipped-minimum-wage/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $5.3M |
+| Total expenses | — |
+| Total assets (EOY) | $200.6M |
+| Grants paid out | $2.6M |
+
+**Lifetime grants out (2018–2024):** $14.0M across 156 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| Restaurant Law Center | $1.3M | 6 | 2018–2024 |
+| Save Local Restaurants | $863K | 3 | 2022–2024 |
+| Michigan Restaurant &amp; Lodging Association | $390K | 3 | 2022–2024 |
+| Council of State Restaurant Associations | $350K | 2 | 2022–2023 |
+| Massachusetts Restaurant Association | $330K | 3 | 2022–2024 |
+| Arizona Restaurant Association | $315K | 2 | 2023–2024 |
+| CSRA - Council of State Rest Assoc | $300K | 2 | 2018–2020 |
+| Committee to Protect Tips | $300K | 1 | 2024 |
+| The National Restaurant Association Educational Foundation | $294K | 3 | 2019–2022 |
+| Multicultural Foodservice and Hospitality Association | $263K | 2 | 2018–2019 |
+| Protect Neighborhood Restaurants | $255K | 1 | 2022 |
+| Multiculutral Foodservice &amp; Hospitality Alliance | $252K | 2 | 2022–2023 |
+| International Franchise Association | $250K | 1 | 2022 |
+| No to I82 | $250K | 1 | 2022 |
+| Colorado Restaurant Association | $222K | 5 | 2018–2024 |
+| Multicultural Foodservice and Hospitality Alliance | $189K | 2 | 2020–2024 |
+| James Beard Foundation | $180K | 4 | 2018–2022 |
+| Democratic Governors Association | $175K | 4 | 2018–2023 |
+| Womens Foodservice Forum | $175K | 6 | 2018–2024 |
+| Council of State Restaurant Association | $175K | 1 | 2024 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

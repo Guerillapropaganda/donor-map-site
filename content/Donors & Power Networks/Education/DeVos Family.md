@@ -285,3 +285,23 @@ The DeVos family represents the clearest case in the vault of a donor openly ack
 
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22DeVos%20Family%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 3 (2022–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $2.5M |
+| Total expenses | — |
+| Total assets (EOY) | $3K |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

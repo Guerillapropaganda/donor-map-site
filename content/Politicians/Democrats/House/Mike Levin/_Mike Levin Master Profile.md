@@ -1,33 +1,34 @@
 ---
-title: "Mike Levin"
+title: Mike Levin
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "California"
-state-abbr: "CA"
+party: Democrat
+chamber: House
+state: California
+state-abbr: CA
 district: "49"
-bioguide-id: "L000593"
+bioguide-id: L000593
 govtrack-id: 412760
 born: "1978-10-28"
-wikidata-id: "Q55424854"
-website: "https://levin.house.gov"
-phone: "202-225-3906"
+wikidata-id: Q55424854
+website: https://levin.house.gov
+phone: 202-225-3906
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H8CA49058"
+fec-candidate-id: H8CA49058
 bills-sponsored: 30
 bills-cosponsored: 495
 bills-enacted: 2
-top-policy-area: "Armed Forces and National Security"
+top-policy-area: Armed Forces and National Security
+top-donors: "[[Pete Aguilar]], [[NEA Fund for Children and Public Education]], [[Ted Lieu]], [[Teamsters - International Brotherhood of Teamsters]], [[IBEW - International Brotherhood of Electrical Workers]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Let America Vote PAC]], [[Sierra Club Political Committee]], [[Kevin Mullin]], [[J Street]], [[Sierra Club Independent Action]], [[Activate America]], [[AIPAC - American Israel Public Affairs Committee]], [[Jim Costa]], [[SEIU COPE]], [[DMFI - Democratic Majority for Israel]], [[Mark Takano]], [[Morgan McGarvey]], [[Mark DeSaulnier]], [[Paul Tonko]], [[DCCC - Democratic Congressional Campaign Committee]], [[Jamie Raskin]], [[Congressional Progressive Caucus PAC]], [[National Association of Realtors]], [[Laura Friedman]], [[Medicare for All - The Policy That Broke the Party]], [[Giffords PAC]], [[PLANNED PARENTHOOD ACTION FUND OF THE PACIFIC SOUTHWEST PAC]], [[UA Political Action Committee]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[ENVIRONMENT AMERICA INC]], [[Joe Neguse]], [[Indivisible Action]], [[Adriano Espaillat]], [[League of Conservation Voters]], [[MoveOn.org Political Action]], [[Courage California Super Pac]], [[Mike Thompson]], [[CTA - California Teachers Association]], [[Nancy Pelosi]], [[Diana Degette]], [[American Hospital Association PAC]], [[Progressive Turnout Project]], [[Putting People First Political Action Committee]], [[Care Action]], [[Everytown for Gun Safety]], [[McDonalds Corporation]], [[Hmp]], [[Unite Here Tip Campaign Committee]], [[Chrissy Houlahan]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Judy Chu]], [[CHC BOLD PAC]], [[Women Speak Out Pac]], [[Robert Garcia]], [[Defending Main Street Superpac INC]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[Julia Brownley]], [[Congressional Leadership Fund]], [[Planned Parenthood Action Fund INC]], [[MAJORITY PAC]], [[National Committee to Preserve Social Security PAC]], [[Planned Parenthood Votes]], [[AFL-CIO]], [[Jason Crow]], [[National Wildlife Federation Action Fund]], [[Friends of the Earth (action) INC]], [[Courage to Change PAC]], [[Humane Society Legislative Fund]], [[Fidelity Investments]], [[Fanjul Family - Florida Crystals]], [[Tesla - Elon Musk Political Operation]], [[Leidos]], [[Uber]], [[Morgan Stanley]], [[Boeing]], [[General Dynamics]], [[General Motors]], [[Walmart]], [[UnitedHealth Group - Optum]], [[Amazon]], [[Kaiser Permanente]], [[Meta - Facebook]], [[SpaceX]], [[AT&T]], [[Microsoft]], [[Anthem - Elevance Health]], [[Cargill]], [[Google - Alphabet]], [[Oracle]], [[CBRE Group]], [[Nvidia]], [[Comcast - NBCUniversal]], [[Bank of America]], [[Anduril Industries]], [[Apple]], [[DoorDash]], [[Bechtel Corporation]], [[BAE Systems]], [[BlackRock]], [[a16z - Andreessen Horowitz]], [[Blue Shield of California]], [[Airbnb]], [[Anthem - Elevance Health Political Operation]], [[Walt Disney Company]], [[Amgen Inc]], [[SEIU - Service Employees International Union]], [[Johnson & Johnson]], [[Booz Allen Hamilton]], [[Chevron]], [[UPS]], [[Goldman Sachs]], [[Hospital Corporation of America - HCA]], [[Wells Fargo]], [[Lyft]], [[News Corp - Fox Corporation]], [[Coinbase]], [[Palantir Technologies]]"
 ---
 
 

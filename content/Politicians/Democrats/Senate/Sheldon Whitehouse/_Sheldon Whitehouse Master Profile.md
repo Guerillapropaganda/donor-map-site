@@ -3,7 +3,7 @@ title: Sheldon Whitehouse
 type: politician
 content-readiness: draft
 central-thesis: Whitehouse is the Senate's dark money watchdog who is himself embedded in the donor infrastructure he critiques. His 'Scheme' floor speech series (80+ documented speeches, 2016–present) is the most detailed public accounting of right-wing judicial...
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Democrat
@@ -38,16 +38,16 @@ total-received: $365,144
 fec-candidate-id: S6RI00221
 stock-trades: 687
 stock-trade-tickers:
-  - "GILD"
-  - "FB"
-  - "IBM"
-  - "T"
-  - "BIIB"
-  - "NVDA"
-  - "BMY"
-  - "C"
-  - "AAPL"
-  - "AMGN"
+  - GILD
+  - FB
+  - IBM
+  - T
+  - BIIB
+  - NVDA
+  - BMY
+  - C
+  - AAPL
+  - AMGN
 last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: re-run congress pipeline
@@ -66,7 +66,7 @@ opposes:
   - DonorsTrust
   - Judicial Crisis Network
   - Marble Freedom Trust
-donors: "[[Fraternal Order of Police]] · [[MOVEON.ORG POLITICAL ACTION]] · [[Judicial Crisis Network]] · [[Roosevelt Society Action]] · [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]] · [[MoveOn.org Political Action]] · [[People's Majority]]"
+donors: "[[Fraternal Order of Police]] · [[MOVEON.ORG POLITICAL ACTION]] · [[Judicial Crisis Network]] · [[Roosevelt Society Action]] · [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]] · [[MoveOn.org Political Action]] · [[People's Majority]] · [[NextEra Energy]] · [[AFL-CIO]] · [[SEIU COPE]] · [[National Multifamily Housing Council]] · [[Let America Vote PAC]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Everytown for Gun Safety]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[NEA Fund for Children and Public Education]] · [[Chrissy Houlahan]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[Associated General Contractors of America Political Action Committee]] · [[ENVIRONMENT AMERICA INC]] · [[American Hospital Association PAC]] · [[Sierra Club Independent Action]] · [[League of Conservation Voters]] · [[AIPAC - American Israel Public Affairs Committee]] · [[National Association of Realtors]] · [[J Street]] · [[UA Political Action Committee]] · [[American Chemistry Council, INC]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[Sierra Club Political Committee]]"
 editorial-review-date: "2026-04-10"
 editorial-reviewer: Research Claude
 editorial-result: verified-candidate
@@ -86,8 +86,8 @@ internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.
 bills-sponsored: 751
 bills-cosponsored: 4813
 bills-enacted: 0
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "Health"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: Health
 ---
 
 

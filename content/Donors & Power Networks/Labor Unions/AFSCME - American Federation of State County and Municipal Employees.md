@@ -2,12 +2,12 @@
 title: AFSCME - American Federation of State County and Municipal Employees
 type: donor
 content-readiness: ready
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Labor Unions
 entity-type: Individual Donor
-politicians-funded: "[[Pete Aguilar]], [[Ritchie Torres]], [[Mike Lee]], [[Kyrsten Sinema]], [[Barbara Lee]], [[Richard Neal]], [[Mark Takano]]"
+politicians-funded: "[[Pete Aguilar]], [[Ritchie Torres]], [[Mike Lee]], [[Kyrsten Sinema]], [[Barbara Lee]], [[Richard Neal]], [[Mark Takano]], [[_Bonnie Watson Coleman Master Profile]], [[ActBlue]], [[DCCC - Democratic Congressional Campaign Committee]], [[Catherine Cortez Masto]], [[Bob Casey]], [[_Jon Ossoff Master Profile]], [[Emily's List]], [[_Jamie Raskin Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[WinSenate]], [[Let America Vote PAC]], [[_Tammy Baldwin Master Profile]], [[DNC - Democratic National Committee]], [[_Dwight Evans Master Profile]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[Jon Ossoff]], [[Tammy Baldwin]], [[Jamie Raskin]], [[Bonnie Watson Coleman]], [[Dwight Evans]]"
 issues:
   - Labor & Workers
 ofac-sdn-match: "true"
@@ -37,9 +37,9 @@ related: ">- · [[Mike Lee]] · [[Ritchie Torres]] · [[Kyrsten Sinema]] · [[Ri
 cross-vault-triangulation-count: 12
 audit-a-plus-passed: "2026-04-11"
 aliases:
-  - "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES P E O P L E"
-  - "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES - P E O P L E, QUALIFIED"
-  - "AFSCME"
+  - AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES P E O P L E
+  - AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES - P E O P L E, QUALIFIED
+  - AFSCME
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"

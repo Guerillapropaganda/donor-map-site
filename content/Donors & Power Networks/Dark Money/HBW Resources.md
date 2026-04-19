@@ -2,7 +2,7 @@
 title: HBW Resources
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Dark Money
@@ -44,7 +44,7 @@ nhtsa-recalls: 0
 nhtsa-complaints: 0
 cross-vault-triangulation-count: 11
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-politicians-funded: "[[Michael Whatley]]"
+politicians-funded: "[[Michael Whatley]], [[ActBlue]], [[_Tony Gonzales Master Profile]], [[Trump Victory]], [[FreedomWorks for America]], [[_Ted Cruz Master Profile]], [[WinRed]], [[_Marco Rubio Master Profile]], [[MAGA Inc]], [[_Josh Hawley Master Profile]], [[_Mark Harris Master Profile]], [[Catherine Cortez Masto]], [[_Troy Downing Master Profile]], [[_Michael Waltz Master Profile]], [[_David Rouzer Master Profile]], [[_Jason Crow Master Profile]], [[RNC - Republican National Committee]], [[_Dan Newhouse Master Profile]], [[Save America PAC]], [[_Ron Johnson Master Profile]], [[_Nathaniel Moran Master Profile]], [[_Byron Donalds Master Profile]], [[Michael Waltz]], [[Marco Rubio]], [[Tony Gonzales]], [[Ted Cruz]], [[Josh Hawley]], [[Dan Newhouse]], [[Byron Donalds]], [[Ron Johnson]], [[Troy Downing]], [[Nathaniel Moran]], [[David Rouzer]], [[Jason Crow]], [[Mark Harris]]"
 urls-first-triaged: "2026-04-15"
 employee-contributions: 134
 employee-contributions-total: 127914

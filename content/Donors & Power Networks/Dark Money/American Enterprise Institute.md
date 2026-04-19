@@ -1,46 +1,46 @@
 ---
-title: "American Enterprise Institute"
+title: American Enterprise Institute
 type: donor
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Dark Money"
-entity-type: "Individual Donor"
+sector: Dark Money
+entity-type: Individual Donor
 issues:
-  - "Tax Policy"
-  - "Trade"
+  - Tax Policy
+  - Trade
 ein: "530218495"
-annual-revenue: "$53.8M"
-net-assets: "$348.4M"
+annual-revenue: $53.8M
+net-assets: $348.4M
 tax-year: "2023"
 ofac-sdn-match: "true"
 last-enriched: "2026-04-07"
 ofac-programs:
-  - "UKRAINE-EO13685"
-  - "RUSSIA-EO14024"
-  - "UKRAINE-EO13662] [RUSSIA-EO14024"
+  - UKRAINE-EO13685
+  - RUSSIA-EO14024
+  - UKRAINE-EO13662] [RUSSIA-EO14024
 sec-filings: 3868
 sec-form-types:
   - "4"
   - "425"
   - "497"
-  - "6-K"
-  - "8-K"
-  - "DEFA14A"
-  - "EX-10.5"
-  - "EX-99"
-  - "EX-99.1"
-  - "EX-99.1 CHARTER"
-  - "EX-99.2"
-  - "FWP"
-  - "PX14A6G"
-  - "PX14A6N"
-  - "SC 13D/A"
-nonprofit-status: "501(c)(3)"
+  - 6-K
+  - 8-K
+  - DEFA14A
+  - EX-10.5
+  - EX-99
+  - EX-99.1
+  - EX-99.1 CHARTER
+  - EX-99.2
+  - FWP
+  - PX14A6G
+  - PX14A6N
+  - SC 13D/A
+nonprofit-status: 501(c)(3)
 total-revenue: 104831056
 total-assets: 353111569
-total-political-spend: "$6,625"
+total-political-spend: $6,625
 related: "[[Bradley Impact Fund]] · [[Heritage Foundation]] · [[Bradley Foundation]] · [[Koch Industries]] · [[Council for National Policy]] · [[DeVos Family]] · [[American Federation for Children]] · [[Walton Family Foundation]] · [[National Education Association]] · [[Insurance Industry]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[American Iron and Steel Institute]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Federalist Society]] · [[Donors Capital Fund]] · [[Demand Justice]] · [[Conservative Partnership Institute]] · [[Democratic Small Dollar Networks]] · [[Ocean Conservancy]] · [[Ohio Democratic Party]] · [[New Venture Fund]] · [[National Progressive Donor Networks]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Entertainment and Hollywood Donors]] · [[Democratic Party Infrastructure]] · [[Democratic Donor Network]] · [[Democracy Alliance]] · [[Concerned Veterans for America]] · [[CREW - Citizens for Responsibility and Ethics in Washington]] · [[Business Roundtable]] · [[Arabella Advisors]] · [[Americans for Tax Reform - Grover Norquist]] · [[American Action Network]] · [[America First Policy Institute]] · [[Alliance Defending Freedom]]"
 cross-vault-triangulation-count: 8
 audit-a-plus-passed: "2026-04-11"
@@ -53,6 +53,7 @@ federal-grants-total: 7315343
 employee-contributions: 149
 employee-contributions-total: 46842
 employee-donor-count: 53
+politicians-funded: "[[_Ron Johnson Master Profile]], [[NRCC - National Republican Congressional Committee]], [[ActBlue]], [[RNC - Republican National Committee]], [[WinRed]], [[Catherine Cortez Masto]], [[_Darren Soto Master Profile]], [[JUSTICE DEMOCRATS PAC]], [[_Jim Jordan Master Profile]], [[_Marco Rubio Master Profile]], [[_Elissa Slotkin Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Trump Victory]], [[_Virginia Foxx Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[_John James Master Profile]], [[Marco Rubio]], [[Ron Johnson]], [[Darren Soto]], [[Elissa Slotkin]], [[Virginia Foxx]], [[Jim Jordan]], [[John James]]"
 ---
 
 
@@ -280,3 +281,37 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/530218495/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/530218495/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/530218495/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 7 (2019–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $59.2M |
+| Total expenses | — |
+| Total assets (EOY) | $353.1M |
+| Grants paid out | $160K |
+
+**Lifetime grants out (2019–2024):** $355K across 7 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| UNIVERSITY OF CHICAGO | $250K | 2 | 2021–2024 |
+| PACE INC | $25K | 1 | 2019 |
+| ROCKY MOUNTAIN MICRO FINANCE INST | $25K | 1 | 2019 |
+| STATE POLICY NETWORK | $20K | 1 | 2023 |
+| THE URBAN ALLIANCE FDN | $15K | 1 | 2021 |
+| BROWN UNIVERSITY | $10K | 1 | 2022 |
+| RENEW DEMOCRACY INITIATIVE | $10K | 1 | 2024 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

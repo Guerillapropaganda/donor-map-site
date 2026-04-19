@@ -1,33 +1,34 @@
 ---
-title: "Emanuel Cleaver"
+title: Emanuel Cleaver
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Missouri"
-state-abbr: "MO"
+party: Democrat
+chamber: House
+state: Missouri
+state-abbr: MO
 district: "5"
-bioguide-id: "C001061"
+bioguide-id: C001061
 govtrack-id: 400639
 born: "1944-10-26"
-wikidata-id: "Q1334654"
-website: "https://cleaver.house.gov"
-phone: "202-225-4535"
+wikidata-id: Q1334654
+website: https://cleaver.house.gov
+phone: 202-225-4535
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H4MO05234"
+fec-candidate-id: H4MO05234
 bills-sponsored: 31
 bills-cosponsored: 557
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Google - Alphabet]], [[Pete Aguilar]], [[IBEW - International Brotherhood of Electrical Workers]], [[AT&T - WarnerMedia]], [[National Association of Realtors]], [[Walmart - Walton Family]], [[American Hospital Association PAC]], [[League of Conservation Voters]], [[National Association of Manufacturers]], [[UA Political Action Committee]], [[Citigroup]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[J Street]], [[Medicare for All - The Policy That Broke the Party]], [[SEIU COPE]], [[Teamsters - International Brotherhood of Teamsters]], [[Comcast - NBCUniversal]], [[Ford Motor Company]], [[NEA Fund for Children and Public Education]], [[National Multifamily Housing Council]], [[Bonnie Watson Coleman]], [[Progressive Turnout Project]], [[NextEra Energy]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Planned Parenthood Votes]], [[Honeywell]], [[Sierra Club Independent Action]], [[General Motors]], [[General Dynamics]], [[AIPAC - American Israel Public Affairs Committee]], [[Morgan Stanley]], [[Ted Lieu]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Microsoft]], [[Bank of America]]"
 ---
 
 

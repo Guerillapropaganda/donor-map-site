@@ -1,32 +1,33 @@
 ---
-title: "Bonnie Watson Coleman"
+title: Bonnie Watson Coleman
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "New Jersey"
-state-abbr: "NJ"
+party: Democrat
+chamber: House
+state: New Jersey
+state-abbr: NJ
 district: "12"
-bioguide-id: "W000822"
+bioguide-id: W000822
 govtrack-id: 412644
 born: "1945-02-06"
-wikidata-id: "Q4942457"
-website: "https://watsoncoleman.house.gov"
-phone: "202-225-5801"
+wikidata-id: Q4942457
+website: https://watsoncoleman.house.gov
+phone: 202-225-5801
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 38
 bills-cosponsored: 894
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Google - Alphabet]], [[Citigroup]], [[American Federation of Teachers]], [[Gilead Sciences]], [[Honeywell International]], [[Johnson & Johnson]], [[ENVIRONMENT AMERICA INC]], [[News Corp - Fox Corporation]], [[Novo Nordisk]], [[DNC - Democratic National Committee]], [[Pfizer Inc.]], [[AT&T]], [[Apple]], [[AFSCME - American Federation of State County and Municipal Employees]], [[UPS]], [[UnitedHealth Group - Optum]], [[Bank of America]], [[Wells Fargo]], [[FTX - Sam Bankman-Fried]], [[Comcast - NBCUniversal]]"
 ---
 
 

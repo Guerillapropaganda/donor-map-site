@@ -1,40 +1,41 @@
 ---
-title: "Brian Babin"
+title: Brian Babin
 type: politician
-bioguide-id: "B001291"
+bioguide-id: B001291
 content-readiness: draft
-central-thesis: "Brian Babin is a dentist from the most petrochemical-dense congressional district in America who now chairs the committee that oversees federal climate science. His first year as chairman has been dedicated to dismantling climate research infrastr..."
+central-thesis: Brian Babin is a dentist from the most petrochemical-dense congressional district in America who now chairs the committee that oversees federal climate science. His first year as chairman has been dedicated to dismantling climate research infrastr...
 last-updated: "2026-04-05"
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "House"
-state: "Texas"
-state-abbr: "TX"
+party: Republican
+chamber: House
+state: Texas
+state-abbr: TX
 district: "36"
 committees:
-  - "Science, Space & Technology"
+  - Science, Space & Technology
 leadership-roles:
-  - "Chair"
+  - Chair
 issues:
-  - "Energy & Climate"
-  - "Environment"
-  - "Immigration"
-total-received: "$749,136"
-fec-candidate-id: "H6TX02079"
+  - Energy & Climate
+  - Environment
+  - Immigration
+total-received: $749,136
+fec-candidate-id: H6TX02079
 source-types:
   - Congress
   - FEC
 corroboration-count: 2
 known-gaps:
-  - "No voting record data"
-  - "No mapped relationships"
+  - No voting record data
+  - No mapped relationships
 related: "[[_Zoe Lofgren Master Profile|Zoe Lofgren]] · [[_Donald Trump Master Profile|Trump]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 13
 bills-cosponsored: 392
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Leidos]], [[American College of Radiology Association PAC]], [[National Rifle Association]], [[Save America PAC]], [[National Association of Realtors]], [[David Rouzer]], [[Honeywell]], [[Raytheon (RTX)]], [[General Motors]], [[AIPAC - American Israel Public Affairs Committee]], [[Northrop Grumman]], [[AT&T - WarnerMedia]], [[Comcast - NBCUniversal]], [[American Chemistry Council, INC]], [[Valero Energy]], [[Occidental Petroleum]], [[Chevron]], [[Jim Jordan]], [[Lockheed Martin]], [[iHeartMedia]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Associated General Contractors of America Political Action Committee]], [[L3Harris Technologies]], [[National Cattlemen's Beef Association]], [[Marathon Petroleum]], [[BAE Systems]], [[Really American Pac]], [[Microsoft]], [[WinRed]], [[Ralph Norman]], [[National Multifamily Housing Council]]"
 ---
 
 

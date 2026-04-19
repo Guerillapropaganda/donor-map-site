@@ -1,33 +1,34 @@
 ---
-title: "Joyce Beatty"
+title: Joyce Beatty
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Ohio"
-state-abbr: "OH"
+party: Democrat
+chamber: House
+state: Ohio
+state-abbr: OH
 district: "3"
-bioguide-id: "B001281"
+bioguide-id: B001281
 govtrack-id: 412565
 born: "1950-03-12"
-wikidata-id: "Q976417"
-website: "https://beatty.house.gov"
-phone: "202-225-4324"
+wikidata-id: Q976417
+website: https://beatty.house.gov
+phone: 202-225-4324
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H2OH03125"
+fec-candidate-id: H2OH03125
 bills-sponsored: 31
 bills-cosponsored: 363
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Microsoft]], [[Johnson & Johnson]], [[Comcast - NBCUniversal]], [[Northrop Grumman]], [[NEA Fund for Children and Public Education]], [[DMFI - Democratic Majority for Israel]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[League of Conservation Voters]], [[National Multifamily Housing Council]], [[General Dynamics]], [[Nucor Corporation]], [[Raytheon (RTX)]], [[General Motors]], [[Duke Energy]], [[Progressive Turnout Project]], [[Google - Alphabet]], [[CVS Health - Aetna]], [[McDonalds Corporation]], [[Walmart - Walton Family]], [[National Association of Realtors]], [[Amgen Inc]], [[American Federation of State County & Municipal Employees P E O P L E]], [[AbbVie]], [[Lockheed Martin]], [[Bank of America]], [[SEIU COPE]], [[Sierra Club Independent Action]], [[American Gaming Association]], [[AT&T - WarnerMedia]], [[American Chemistry Council, INC]], [[IBEW - International Brotherhood of Electrical Workers]], [[Marcia Fudge]], [[Care Action]], [[Citigroup]], [[AFL-CIO]], [[Honeywell]], [[Anthem - Elevance Health]], [[Sierra Club Political Committee]], [[iHeartMedia]], [[National Restaurant Association]], [[AIPAC - American Israel Public Affairs Committee]], [[Morgan Stanley]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Let America Vote PAC]], [[NextEra Energy]], [[American Hospital Association PAC]], [[Lamonica McIver]], [[Giffords PAC]], [[Ford Motor Company]], [[Planned Parenthood Votes]], [[Pfizer Inc.]], [[Pete Aguilar]], [[Everytown for Gun Safety]]"
 ---
 
 

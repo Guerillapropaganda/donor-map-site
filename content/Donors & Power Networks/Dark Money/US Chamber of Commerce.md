@@ -2,12 +2,12 @@
 title: US Chamber of Commerce
 type: donor
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Dark Money
 entity-type: Individual Donor
-politicians-funded: "[[Barack Obama]], [[Donald Trump]], [[Jon Ossoff]], [[Shelley Moore Capito]], [[John Cornyn]], [[Linda McMahon]], [[Mark Takano]]"
+politicians-funded: "[[Barack Obama]], [[Donald Trump]], [[Jon Ossoff]], [[Shelley Moore Capito]], [[John Cornyn]], [[Linda McMahon]], [[Mark Takano]], [[WinRed]], [[_Pete Sessions Master Profile]], [[_April McClain Delaney Master Profile]], [[MAGA Inc]], [[NRSC - National Republican Senatorial Committee]], [[ActBlue]], [[_Vern Buchanan Master Profile]], [[_Vince Fong Master Profile]], [[NRCC - National Republican Congressional Committee]], [[Trump Victory]], [[_Tim Scott Master Profile]], [[_Andy Barr Master Profile]], [[_Mike Flood Master Profile]], [[_Ted Cruz Master Profile]], [[_Lauren Underwood Master Profile]], [[_Ted Budd Master Profile]], [[_Marcia Fudge Master Profile]], [[Democratic Party of Virginia]], [[_Shontel Brown Master Profile]], [[_Marco Rubio Master Profile]], [[_Jake Ellzey Master Profile]], [[_Kevin Kiley Master Profile]], [[_Ann Wagner Master Profile]], [[_Virginia Foxx Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Tony Gonzales Master Profile]], [[_Derek Schmidt Master Profile]], [[Nancy Mace]], [[_Jimmy Gomez Master Profile]], [[RNC - Republican National Committee]], [[Protect the Vote]], [[WinSenate]], [[_Don Bacon Master Profile]], [[_Lisa Blunt Rochester Master Profile]], [[Save America PAC]], [[_Eric Burlison Master Profile]], [[_Beth van Duyne Master Profile]], [[_Jon Ossoff Master Profile]], [[SLF PAC]], [[_Gabe Amo Master Profile]], [[_Dan Newhouse Master Profile]], [[Bipartisan Policy Center]], [[Mike Flood]], [[April McClain Delaney]], [[Ann Wagner]], [[Marco Rubio]], [[Derek Schmidt]], [[Eric Burlison]], [[Vern Buchanan]], [[Virginia Foxx]], [[Pete Sessions]], [[Ted Cruz]], [[Ted Budd]], [[Lisa Blunt Rochester]], [[Andy Barr]], [[Lauren Underwood]], [[Marcia Fudge]], [[Kevin Kiley]], [[Shontel Brown]], [[Vince Fong]], [[Jimmy Gomez]], [[Beth van Duyne]], [[Don Bacon]], [[Gabe Amo]], [[Dan Newhouse]], [[Jake Ellzey]], [[Tony Gonzales]], [[Tim Scott]]"
 issues:
   - Dark Money & Campaign Finance
 court-cases: 149
@@ -571,3 +571,50 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/141883061/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/141883061/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/141883061/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 10 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $35.3M |
+| Total expenses | — |
+| Total assets (EOY) | $62.5M |
+| Grants paid out | $1.9M |
+
+**Lifetime grants out (2018–2024):** $24.0M across 277 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| Chamber of Commerce of the USA | $16.1M | 4 | 2020–2024 |
+| KHAN ACADEMY INC | $536K | 1 | 2024 |
+| George Mason Foundation | $325K | 1 | 2019 |
+| NATIONAL BLACK CHAMBER OF COMMERCE | $324K | 2 | 2020–2022 |
+| THE NATIONAL BUSINESS LEAGUE INC | $324K | 2 | 2020–2022 |
+| USBC ECONOMIC DEVELOPMENT CORPORATION | $324K | 2 | 2020–2022 |
+| PRESIDENTIAL PRECINCT | $316K | 1 | 2024 |
+| BIPARTISAN POLICY CENTER INC | $250K | 2 | 2022–2023 |
+| URBAN ALLIANCE FOUNDATION | $213K | 6 | 2018–2024 |
+| GEORGE MASON UNIVERSITY FOUNDATION | $200K | 1 | 2024 |
+| ETHICS RESOURCE CENTER INC | $184K | 1 | 2024 |
+| SO OTHERS MIGHT EAT | $140K | 6 | 2018–2024 |
+| STATE OF LA SOUTHERN UNIVERSITY AND A&amp;M COLLEGE | $120K | 2 | 2022–2023 |
+| THE HOWARD UNIVERSITY | $120K | 2 | 2022–2023 |
+| National Cryptologic Museum Foundation | $100K | 1 | 2019 |
+| BLACKSTONE VALLEY CHAMBER OF COMMERCE INC | $95K | 1 | 2018 |
+| LANCASTER CHAMBER OF COMMERCE &amp; INDUSTRY | $95K | 1 | 2018 |
+| MAINE STATE CHAMBER OF COMMERCE EDUCATION FOUNDATION | $95K | 1 | 2018 |
+| TEMPE CHAMBER OF COMMERCE FOUNDATION | $95K | 1 | 2018 |
+| WAKE FOREST CHAMBER FOUNDATION FOR COMMON PROGRESS | $95K | 1 | 2018 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

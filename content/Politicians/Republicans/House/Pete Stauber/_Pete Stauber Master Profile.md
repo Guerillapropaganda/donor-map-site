@@ -1,33 +1,34 @@
 ---
-title: "Pete Stauber"
+title: Pete Stauber
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Minnesota"
-state-abbr: "MN"
+party: Republican
+chamber: House
+state: Minnesota
+state-abbr: MN
 district: "8"
-bioguide-id: "S001212"
+bioguide-id: S001212
 govtrack-id: 412792
 born: "1966-05-10"
-wikidata-id: "Q55955746"
-website: "https://stauber.house.gov"
-phone: "202-225-6211"
+wikidata-id: Q55955746
+website: https://stauber.house.gov
+phone: 202-225-6211
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H8MN08043"
+fec-candidate-id: H8MN08043
 bills-sponsored: 24
 bills-cosponsored: 347
 bills-enacted: 0
-top-policy-area: "Crime and Law Enforcement"
+top-policy-area: Crime and Law Enforcement
+top-donors: "[[International Association of Firefighters Interested in Registration and Education PAC]], [[ConocoPhillips]], [[Microsoft]], [[AIPAC - American Israel Public Affairs Committee]], [[National Association of Realtors]], [[American Chemistry Council, INC]], [[Lockheed Martin]], [[Teamsters - International Brotherhood of Teamsters]], [[Google - Alphabet]], [[National Multifamily Housing Council]], [[FREEDOM CLUB FEDERAL PAC]], [[Associated General Contractors of America Political Action Committee]], [[National Cattlemen's Beef Association]], [[Performance Racing Inc.]], [[David Rouzer]], [[National Association of Manufacturers]], [[NextEra Energy]], [[MAJORITY PAC]], [[Chevron]], [[Valero Energy]], [[Halliburton]], [[National Rifle Association]], [[AT&T - WarnerMedia]], [[Northrop Grumman]], [[Honeywell]], [[Marathon Petroleum]], [[National Restaurant Association]], [[Pfizer Inc.]], [[Hunter Action Fund (haf)]], [[Comcast - NBCUniversal]], [[Alliance Coal, LLC PAC]], [[UA Political Action Committee]], [[WinRed]], [[Occidental Petroleum]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Nucor Corporation]], [[Byron Donalds]], [[Jason Smith]], [[Planned Parenthood Votes]], [[Republican Jewish Coalition]], [[American Hospital Association PAC]], [[Walmart - Walton Family]], [[Raytheon (RTX)]], [[General Motors]], [[Ford Motor Company]], [[Wells Fargo]], [[UPS]], [[Las Vegas Sands]], [[Honeywell International]], [[Americas Pac]], [[Charles Schwab]], [[Cargill]]"
 ---
 
 

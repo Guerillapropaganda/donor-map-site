@@ -1,41 +1,38 @@
 ---
-title: "Lisa Murkowski"
+title: Lisa Murkowski
 type: politician
 content-readiness: ready
-central-thesis: "Lisa Murkowski is Alaska's oil ambassador , a senator whose state's economy is so dependent on fossil fuel extraction that representing Alaska and representing the oil industry are structurally identical. She received $611,000+ from oil and gas ov..."
-last-updated: 2026-04-13
+central-thesis: Lisa Murkowski is Alaska's oil ambassador , a senator whose state's economy is so dependent on fossil fuel extraction that representing Alaska and representing the oil industry are structurally identical. She received $611,000+ from oil and gas ov...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Senate"
-state: "Alaska"
-state-abbr: "AK"
+party: Republican
+chamber: Senate
+state: Alaska
+state-abbr: AK
 issues:
-  - "Agriculture and Food"
-  - "Armed Forces and National Security"
-  - "Energy"
-  - "Families"
-  - "Finance and Financial Sector"
-  - "Health"
-  - "Taxation"
-total-received: "$1,637,930"
-fec-candidate-id: "S4AK00099"
-donors: "[[AFGE - American Federation of Government Employees]] · [[ConocoPhillips]]"
+  - Agriculture and Food
+  - Armed Forces and National Security
+  - Energy
+  - Families
+  - Finance and Financial Sector
+  - Health
+  - Taxation
+total-received: $1,637,930
+fec-candidate-id: S4AK00099
+donors: "[[AFGE - American Federation of Government Employees]] · [[ConocoPhillips]] · [[National Multifamily Housing Council]] · [[Halliburton]] · [[General Motors]] · [[CVS Health - Aetna]] · [[Raytheon (RTX)]] · [[National Restaurant Association]] · [[PG&E - Pacific Gas and Electric]] · [[Reclaim America PAC]] · [[BAE Systems]] · [[VIEW PAC - Value in Electing Women]] · [[NextEra Energy]] · [[ENVIRONMENT AMERICA INC]] · [[Care Action Now Inc.]] · [[Edf Action Votes]] · [[Microsoft]] · [[Leidos]] · [[Chevron]] · [[International Longshore and Warehouse Union -- Political Action Fund]] · [[Gilead Sciences]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[Ford Motor Company]] · [[National Education Association]] · [[AFL-CIO]] · [[Tzedek PAC]] · [[NRSC - National Republican Senatorial Committee]] · [[Common Sense for America PAC]] · [[American Hospital Association PAC]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[Republican Jewish Coalition]] · [[American Chemistry Council, INC]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Teamsters - International Brotherhood of Teamsters]] · [[National Association of Realtors]] · [[National Wildlife Federation Action Fund]] · [[Walmart - Walton Family]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[iHeartMedia]] · [[Drummond Co.]] · [[Amgen Inc]] · [[Lockheed Martin]] · [[WinRed]] · [[Northrop Grumman]] · [[National Victory Action Fund]] · [[AT&T - WarnerMedia]] · [[Clearpath Action Fund, Inc.]] · [[Humana]] · [[Associated General Contractors of America Political Action Committee]] · [[L3Harris Technologies]] · [[NEA Fund for Children and Public Education]] · [[Comcast - NBCUniversal]] · [[Drain the DC Swamp PAC]] · [[Marathon Petroleum]] · [[McDonalds Corporation]] · [[Morgan Stanley]] · [[General Dynamics]] · [[Google - Alphabet]] · [[UA Political Action Committee]] · [[Pfizer Inc.]] · [[DoorDash]] · [[Bechtel Corporation]] · [[Nucor Corporation]] · [[National Cattlemen's Beef Association]] · [[Anthem - Elevance Health]] · [[Devon Energy]] · [[Citigroup]] · [[Duke Energy]] · [[Honeywell]] · [[Occidental Petroleum]] · [[Johnson & Johnson]] · [[National Association of Manufacturers]]"
 related: "[[Insurance Industry Writes Its Own Regulation Through Both Parties]] · [[_Donald Trump Master Profile|Trump]] · [[_Mitch McConnell Master Profile|McConnell]]"
 last-enriched: "2026-04-10"
 needs-reenrichment: true
-reenrich-reason: "re-run fec pipeline; re-run congress pipeline"
-bioguide-id: "M001153"
-internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC-CANDIDATE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
-  • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: re-run fec pipeline; re-run congress pipeline
+bioguide-id: M001153
+internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • FEC-CANDIDATE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 1209
 bills-cosponsored: 3582
 bills-enacted: 0
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "Health"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: Health
 ---
 
 

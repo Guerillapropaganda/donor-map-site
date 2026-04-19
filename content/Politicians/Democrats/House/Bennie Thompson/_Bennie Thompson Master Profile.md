@@ -3,7 +3,7 @@ title: Bennie Thompson
 type: politician
 content-readiness: ready
 central-thesis: Bennie Thompson is the civil rights organizer who became the surveillance state's Democratic gatekeeper. His career arc , from SNCC activism to chairing the committee that oversees DHS, TSA, ICE, and CBP , is a map of how the Democratic Party abso...
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Democrat
@@ -15,15 +15,15 @@ committees:
   - Homeland Security
 leadership-roles:
   - Ranking Member
-total-received: "$608,726"
-fec-candidate-id: "H4MS02068"
+total-received: $608,726
+fec-candidate-id: H4MS02068
 bioguide-id: T000193
 govtrack-id: 400402
 bills-sponsored: 14
 bills-cosponsored: 373
 website: https://benniethompson.house.gov
 phone: 202-225-5876
-donors: "[[IBEW - International Brotherhood of Electrical Workers]] · [[Blue Shield of California]] · [[American Gaming Association]] · [[California Farm Bureau Federation]] · [[National Cattlemen's Beef Association]] · [[CA Farm Bureau Federation]] · [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]] · [[UNITE HERE TIP CAMPAIGN COMMITTEE]] · [[LABORERS' POLITICAL LEAGUE-LABORERS' INTERNATIONAL UNION OF N.A.]] · [[NARAL Pro-Choice America]] · [[Unite Here Tip Campaign Committee]] · [[Laborers' Political League-Laborers' International Union of N.a.]]"
+donors: "[[IBEW - International Brotherhood of Electrical Workers]] · [[Blue Shield of California]] · [[American Gaming Association]] · [[California Farm Bureau Federation]] · [[National Cattlemen's Beef Association]] · [[CA Farm Bureau Federation]] · [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]] · [[UNITE HERE TIP CAMPAIGN COMMITTEE]] · [[LABORERS' POLITICAL LEAGUE-LABORERS' INTERNATIONAL UNION OF N.A.]] · [[NARAL Pro-Choice America]] · [[Unite Here Tip Campaign Committee]] · [[Laborers' Political League-Laborers' International Union of N.a.]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[McDonalds Corporation]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[Raytheon (RTX)]] · [[General Dynamics]] · [[Tyson Foods]] · [[Northrop Grumman]] · [[American Chemistry Council, INC]] · [[Medicare for All - The Policy That Broke the Party]] · [[National Multifamily Housing Council]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Microsoft]] · [[SEIU COPE]] · [[Sierra Club Political Committee]] · [[AT&T - WarnerMedia]] · [[Lockheed Martin]] · [[NEA Fund for Children and Public Education]] · [[Leidos]] · [[National Association of Realtors]] · [[General Motors]] · [[Google - Alphabet]] · [[Honeywell]] · [[Sierra Club Independent Action]] · [[Walmart - Walton Family]] · [[American Hospital Association PAC]] · [[PG&E - Pacific Gas and Electric]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Duke Energy]] · [[Johnson & Johnson]] · [[Amgen Inc]] · [[J Street]] · [[Comcast - NBCUniversal]] · [[Pfizer Inc.]] · [[Planned Parenthood Votes]] · [[AbbVie]] · [[AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES - P E O P L E, QUALIFIED]]"
 last-enriched: "2026-04-18"
 needs-reenrichment: true
 reenrich-reason: run congress pipeline
@@ -31,7 +31,7 @@ related: "[[_Donald Trump Master Profile|Trump]] · [[_Nancy Pelosi Master Profi
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
 ---
 
 

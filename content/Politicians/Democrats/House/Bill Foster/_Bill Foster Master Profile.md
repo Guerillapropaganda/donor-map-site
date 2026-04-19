@@ -1,32 +1,33 @@
 ---
-title: "Bill Foster"
+title: Bill Foster
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Illinois"
-state-abbr: "IL"
+party: Democrat
+chamber: House
+state: Illinois
+state-abbr: IL
 district: "11"
-bioguide-id: "F000454"
+bioguide-id: F000454
 govtrack-id: 412257
 born: "1955-10-07"
-wikidata-id: "Q2903389"
-website: "https://foster.house.gov"
-phone: "202-225-3515"
+wikidata-id: Q2903389
+website: https://foster.house.gov
+phone: 202-225-3515
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 37
 bills-cosponsored: 251
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Google - Alphabet]], [[Environmental Law & Policy Center]], [[UFCW - United Food and Commercial Workers]], [[Leidos]], [[CNA - California Nurses Association]], [[Morgan Stanley]], [[AT&T]], [[Amazon]], [[BlackRock]], [[Lockheed Martin]], [[Wells Fargo]], [[Blackstone Group]], [[AFGE - American Federation of Government Employees]], [[UPS]], [[Palantir Technologies]], [[Meta - Facebook]], [[CBRE Group]], [[Apple]], [[Ford Motor Company]], [[Apollo Global Management]], [[Oracle]], [[Bank of America]], [[Amgen Inc]], [[Citadel - Kenneth Griffin]], [[Ripple]], [[JPMorgan Chase]], [[Gilead Sciences]]"
 ---
 
 

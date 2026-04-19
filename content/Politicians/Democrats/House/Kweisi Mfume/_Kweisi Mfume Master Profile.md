@@ -1,33 +1,34 @@
 ---
-title: "Kweisi Mfume"
+title: Kweisi Mfume
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Maryland"
-state-abbr: "MD"
+party: Democrat
+chamber: House
+state: Maryland
+state-abbr: MD
 district: "7"
-bioguide-id: "M000687"
+bioguide-id: M000687
 govtrack-id: 407672
 born: "1948-10-24"
-wikidata-id: "Q519504"
-website: "https://mfume.house.gov"
-phone: "202-225-4741"
+wikidata-id: Q519504
+website: https://mfume.house.gov
+phone: 202-225-4741
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H6MD07020"
+fec-candidate-id: H6MD07020
 bills-sponsored: 15
 bills-cosponsored: 322
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Walmart - Walton Family]], [[Lockheed Martin]], [[Sierra Club Independent Action]], [[Comcast - NBCUniversal]], [[Progressive Turnout Project]], [[AbbVie]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[UA Political Action Committee]], [[National Association of Realtors]], [[AT&T - WarnerMedia]], [[SEIU COPE]], [[American Federation of State County & Municipal Employees P E O P L E]], [[AIPAC - American Israel Public Affairs Committee]], [[Teamsters - International Brotherhood of Teamsters]], [[CVS Health - Aetna]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Sierra Club Political Committee]], [[National Education Association]], [[Medicare for All - The Policy That Broke the Party]], [[Pfizer Inc.]], [[Giffords PAC]], [[Care Action]], [[Google - Alphabet]], [[Kaiser Permanente]], [[Boeing]], [[DNC - Democratic National Committee]], [[Fanjul Family - Florida Crystals]], [[Meta - Facebook]], [[Apple]], [[Amazon]], [[McDonalds Corporation]]"
 ---
 
 

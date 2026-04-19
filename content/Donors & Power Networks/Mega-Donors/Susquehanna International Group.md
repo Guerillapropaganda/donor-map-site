@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Mega-Donors
 entity-type: Individual Donor
-politicians-funded: "[[Donald Trump]]"
+politicians-funded: "[[Donald Trump]], [[ActBlue]], [[RNC - Republican National Committee]], [[_Jon Ossoff Master Profile]], [[WinRed]], [[DSCC - Democratic Senatorial Campaign Committee]], [[AIPAC - American Israel Public Affairs Committee]], [[_Chris Pappas Master Profile]], [[_Ted Cruz Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Chrissy Houlahan Master Profile]], [[_Victoria Spartz Master Profile]], [[Mark Kelly]], [[Emily's List]], [[_Josh Harder Master Profile]], [[Bob Casey]], [[MAGA Inc]], [[_Donna Miller Master Profile]], [[Chris Pappas]], [[Ted Cruz]], [[Victoria Spartz]], [[Jon Ossoff]], [[Josh Harder]], [[Chrissy Houlahan]], [[Donna Miller]]"
 issues:
   - Technology
 total-political-spend: $500

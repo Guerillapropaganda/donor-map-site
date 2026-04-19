@@ -3,7 +3,7 @@ title: Tammy Duckworth
 type: politician
 content-readiness: ready
 central-thesis: Duckworth's military sacrifice provides moral authority that converts directly into policy authority on defense spending — the most donor-lucrative jurisdiction in Congress. Her Armed Services Committee seat and combat veteran status make her the ...
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Democrat
@@ -32,19 +32,19 @@ top-donors:
   - SEIU
 stock-trades: 15
 stock-trade-tickers:
-  - "CAT"
-  - "BBL"
-  - "GS"
-  - "SOUHY"
-  - "DWDP"
-  - "ABT"
-  - "JNJ"
-  - "CC"
-  - "INTC"
-  - "DVMT"
+  - CAT
+  - BBL
+  - GS
+  - SOUHY
+  - DWDP
+  - ABT
+  - JNJ
+  - CC
+  - INTC
+  - DVMT
 total-received: $385,884
 fec-candidate-id: S6IL00292
-donors: "[[Democracy Alliance]] · [[Boeing]] · [[General Dynamics]] · [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]] · [[Lockheed Martin]] · [[Now Or Never PAC]] · [[FreedomWorks for America]] · [[New Prosperity Foundation; the]] · [[Raytheon (RTX)]]"
+donors: "[[Democracy Alliance]] · [[Boeing]] · [[General Dynamics]] · [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]] · [[Lockheed Martin]] · [[Now Or Never PAC]] · [[FreedomWorks for America]] · [[New Prosperity Foundation; the]] · [[Raytheon (RTX)]] · [[Duke Energy]] · [[Nucor Corporation]] · [[BAE Systems]] · [[Votevets]] · [[AT&T - WarnerMedia]] · [[L3Harris Technologies]] · [[Performance Racing Inc.]] · [[Humana]] · [[PG&E - Pacific Gas and Electric]] · [[Comcast - NBCUniversal]] · [[National Association of Realtors]] · [[SEIU COPE]] · [[NextEra Energy]] · [[Microsoft]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[American College of Radiology Association PAC]] · [[AIPAC - American Israel Public Affairs Committee]] · [[AbbVie]] · [[Leidos]] · [[Progressive Turnout Project]] · [[Giffords PAC]] · [[American Hospital Association PAC]] · [[League of Conservation Voters]] · [[iHeartMedia]] · [[CVS Health - Aetna]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Anthem - Elevance Health]] · [[United Breast Cancer Support Pac]] · [[ADM - Archer Daniels Midland]] · [[Tyson Foods]] · [[Northrop Grumman]] · [[Sierra Club Political Committee]] · [[Citigroup]] · [[Everytown for Gun Safety]] · [[J Street]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[Google - Alphabet]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[NEA Fund for Children and Public Education]] · [[Sierra Club Independent Action]] · [[General Motors]] · [[Ford Motor Company]] · [[National Multifamily Housing Council]] · [[Amgen Inc]] · [[Emily's List]] · [[McDonalds Corporation]] · [[Pfizer Inc.]] · [[Let America Vote PAC]]"
 bioguide-id: D000622
 govtrack-id: 412533
 bills-sponsored: 552
@@ -57,8 +57,8 @@ reenrich-reason: run congress pipeline; run pipelines
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 last-enriched: "2026-04-12"
 bills-enacted: 0
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "Health"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: Health
 ---
 
 

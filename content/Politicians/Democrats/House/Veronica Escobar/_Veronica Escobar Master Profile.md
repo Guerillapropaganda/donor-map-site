@@ -1,33 +1,34 @@
 ---
-title: "Veronica Escobar"
+title: Veronica Escobar
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Texas"
-state-abbr: "TX"
+party: Democrat
+chamber: House
+state: Texas
+state-abbr: TX
 district: "16"
-bioguide-id: "E000299"
+bioguide-id: E000299
 govtrack-id: 412825
 born: "1969-09-15"
-wikidata-id: "Q52274267"
-website: "https://escobar.house.gov"
-phone: "202-225-4831"
+wikidata-id: Q52274267
+website: https://escobar.house.gov
+phone: 202-225-4831
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H8TX16109"
+fec-candidate-id: H8TX16109
 bills-sponsored: 16
 bills-cosponsored: 341
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Raytheon (RTX)]], [[IBEW - International Brotherhood of Electrical Workers]], [[Demand Justice]], [[Tyson Foods]], [[CVS Health - Aetna]], [[American Federation of State County & Municipal Employees P E O P L E]], [[AT&T - WarnerMedia]], [[iHeartMedia]], [[BAE Systems]], [[Medicare for All - The Policy That Broke the Party]], [[NEA Fund for Children and Public Education]], [[L3Harris Technologies]], [[J Street]], [[Walmart - Walton Family]], [[Pfizer Inc.]], [[Planned Parenthood Action Fund INC]], [[Amgen Inc]], [[Anthem - Elevance Health]], [[Ted Lieu]], [[Let America Vote PAC]], [[MoveOn.org Political Action]], [[National Nurses United]], [[National Association of Realtors]], [[Everytown for Gun Safety]], [[VOTER PROTECTION PROJECT]], [[General Motors]], [[UA Political Action Committee]], [[American Hospital Association PAC]], [[Humana]], [[Google - Alphabet]], [[General Dynamics]], [[American Chemistry Council, INC]], [[CHC BOLD PAC]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Lockheed Martin]], [[League of Conservation Voters]], [[Tenet Healthcare]], [[Comcast - NBCUniversal]], [[Microsoft]], [[Sierra Club Independent Action]], [[Giffords PAC]], [[Honeywell]], [[Leidos]], [[SEIU COPE]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Tzedek PAC]], [[Marathon Petroleum]], [[Citigroup]], [[Planned Parenthood Votes]], [[Progressive Turnout Project]], [[DCCC - Democratic Congressional Campaign Committee]], [[Northrop Grumman]], [[Walmart]], [[Anduril Industries]], [[Morgan Stanley]], [[Raytheon (RTX Corporation)]], [[AT&T]], [[Meta - Facebook]], [[Blackstone Group]], [[CBRE Group]], [[Goldman Sachs]], [[Oracle]], [[Bank of America]], [[Wells Fargo]], [[Palantir Technologies]], [[Amazon]]"
 ---
 
 

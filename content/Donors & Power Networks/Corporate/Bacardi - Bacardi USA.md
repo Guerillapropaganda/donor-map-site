@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Corporate
 entity-type: Corporation
-politicians-funded: "[[Debbie Wasserman Schultz]], [[Mario Diaz-Balart]], [[Marco Rubio]], [[Carlos Gimenez]], [[Maria Elvira Salazar]]"
+politicians-funded: "[[Debbie Wasserman Schultz]], [[Mario Diaz-Balart]], [[Marco Rubio]], [[Carlos Gimenez]], [[Maria Elvira Salazar]], [[ActBlue]], [[DSCC - Democratic Senatorial Campaign Committee]], [[WinRed]], [[MAGA Inc]], [[RNC - Republican National Committee]]"
 related: "[[The Nuestra América Convoy , How the Donor Class Attacked a Humanitarian Mission]] · [[Helms-Burton Title III and the Bacardi Trademark Wars: How Corporate Lobbying Rewrote U.S.-Cuba Policy]] · [[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[_Maria Elvira Salazar Master Profile|Salazar]] · [[_Carlos Gimenez Master Profile|Gimenez]] · [[_Debbie Wasserman Schultz Master Profile|Wasserman Schultz]] · [[Fanjul Family - Florida Crystals]] · [[LARA Fund - Mauricio Claver-Carone]] · [[Helms-Burton Title III and the Bacardi Trademark Wars]] · [[Operation Southern Spear and the Cuba Fuel Blockade]] · [[MasTec - Mas Canosa Family]]"
 source-types:
   - LDA
@@ -20,7 +20,7 @@ ftc-enforcement-actions: 0
 ftc-hsr-notices: 2
 last-enriched: "2026-04-11"
 epa-facilities: 5
-epa-states: "FL, PR"
+epa-states: FL, PR
 employee-contributions: 40
 employee-contributions-total: 12995
 employee-donor-count: 18

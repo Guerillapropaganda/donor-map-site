@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Wall Street
 entity-type: Corporation
-politicians-funded: "[[Joe Biden]]"
+politicians-funded: "[[Joe Biden]], [[RNC - Republican National Committee]]"
 issues:
   - Wall Street & Finance
 ein: 842588790

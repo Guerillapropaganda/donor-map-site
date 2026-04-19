@@ -1,34 +1,34 @@
 ---
-title: "Aaron Bean"
+title: Aaron Bean
 type: politician
 content-readiness: raw
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Florida"
-state-abbr: "FL"
+party: Republican
+chamber: House
+state: Florida
+state-abbr: FL
 district: "4"
-bioguide-id: "B001314"
+bioguide-id: B001314
 govtrack-id: 456888
 born: "1967-01-25"
-wikidata-id: "Q4661833"
-website: "https://bean.house.gov"
-phone: "202-225-0123"
+wikidata-id: Q4661833
+website: https://bean.house.gov
+phone: 202-225-0123
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
-donors: "[[Brady Campaign]]"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
+donors: "[[Brady Campaign]], [[Anthem - Elevance Health]], [[David Rouzer]], [[Duke Energy]], [[Amgen Inc]], [[Chevron]], [[Humana]], [[General Motors]], [[American Hospital Association PAC]], [[Care Action]], [[National Restaurant Association]], [[Congressional Leadership Fund]], [[NRCC - National Republican Congressional Committee]], [[Johnson & Johnson]], [[Performance Racing Inc.]], [[National Cattlemen's Beef Association]], [[Byron Donalds]], [[Microsoft]], [[Jake Ellzey]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[American Dream Federal Action]], [[MAJORITY PAC]], [[Citigroup]], [[AIPAC - American Israel Public Affairs Committee]], [[Comcast - NBCUniversal]], [[Adrian Smith]], [[Walmart - Walton Family]], [[AT&T - WarnerMedia]], [[Darrell Issa]], [[Associated General Contractors of America Political Action Committee]], [[National Association of Realtors]], [[Google - Alphabet]], [[Ron Estes]], [[Tzedek PAC]], [[NextEra Energy]], [[Honeywell]], [[Jim Jordan]], [[Mike Haridopolos]], [[Lockheed Martin]], [[McDonalds Corporation]], [[American Chemistry Council, INC]], [[BAE Systems]], [[Glenn Grothman]], [[Ben Cline]], [[REPUBLICAN PARTY OF FLORIDA]], [[Raytheon (RTX)]], [[Northrop Grumman]], [[Tenet Healthcare]], [[General Dynamics]], [[Daniel Webster]], [[National Multifamily Housing Council]], [[Bank of America]], [[Pfizer Inc.]], [[Gilead Sciences]], [[AbbVie]], [[American College of Radiology Association PAC]], [[Ballard Partners]], [[Blackstone Group]], [[Centene Corporation]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[Apollo Global Management]], [[Anthem - Elevance Health Political Operation]]"
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H2FL04211"
+fec-candidate-id: H2FL04211
 bills-sponsored: 20
 bills-cosponsored: 219
 bills-enacted: 2
-top-policy-area: "Government Operations and Politics"
+top-policy-area: Government Operations and Politics
 ---
 
 

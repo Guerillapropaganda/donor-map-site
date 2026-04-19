@@ -1,33 +1,34 @@
 ---
-title: "Marilyn Strickland"
+title: Marilyn Strickland
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Washington"
-state-abbr: "WA"
+party: Democrat
+chamber: House
+state: Washington
+state-abbr: WA
 district: "10"
-bioguide-id: "S001159"
+bioguide-id: S001159
 govtrack-id: 456854
 born: "1962-09-25"
-wikidata-id: "Q1898180"
-website: "https://strickland.house.gov"
-phone: "202-225-9740"
+wikidata-id: Q1898180
+website: https://strickland.house.gov
+phone: 202-225-9740
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H0WA10034"
+fec-candidate-id: H0WA10034
 bills-sponsored: 16
 bills-cosponsored: 363
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Walmart - Walton Family]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[American Hospital Association PAC]], [[Google - Alphabet]], [[General Dynamics]], [[DoorDash]], [[Humana]], [[Planned Parenthood Action Fund INC]], [[General Motors]], [[AIPAC - American Israel Public Affairs Committee]], [[NextEra Energy]], [[Nucor Corporation]], [[Pfizer Inc.]], [[Sierra Club Independent Action]], [[Giffords PAC]], [[National Association of Realtors]], [[NEA Fund for Children and Public Education]], [[Teamsters - International Brotherhood of Teamsters]], [[CVS Health - Aetna]], [[Morgan Stanley]], [[National Multifamily Housing Council]], [[Honeywell]], [[UA Political Action Committee]], [[American Federation of State County & Municipal Employees P E O P L E]], [[L3Harris Technologies]], [[Northrop Grumman]], [[Comcast - NBCUniversal]], [[Leidos]], [[League of Conservation Voters]], [[Ted Lieu]], [[IBEW - International Brotherhood of Electrical Workers]], [[AT&T - WarnerMedia]], [[Microsoft]], [[SEIU COPE]], [[Raytheon (RTX)]], [[AbbVie]], [[BAE Systems]], [[Marcia Fudge]], [[Amgen Inc]], [[Puget Sound Energy INC PAC for Good Government]], [[National Association of Manufacturers]], [[Lockheed Martin]], [[Associated General Contractors of America Political Action Committee]], [[Anthem - Elevance Health]], [[CHC BOLD PAC]], [[American Chemistry Council, INC]], [[Progressive Turnout Project]], [[International Association of Firefighters Interested in Registration and Education PAC]]"
 ---
 
 

@@ -5,18 +5,18 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00002766
 aliases:
   - UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
-politicians-funded: "[[Pramila Jayapal]]"
+politicians-funded: "[[Pramila Jayapal]], [[Steve Cohen]], [[Greg Landsman]], [[Judy Chu]], [[Bennie Thompson]], [[Kevin Mullin]], [[Amy Klobuchar]], [[Debbie Dingell]], [[Alex Padilla]], [[Brad Sherman]], [[Brendan Boyle]], [[Dwight Evans]], [[Jimmy Panetta]], [[Sean Casten]], [[Juan Vargas]], [[Diana Degette]], [[Donald Norcross]], [[Nikema Williams]], [[Ted Lieu]], [[Dina Titus]], [[Jeff Merkley]], [[Teresa Leger Fernandez]], [[Mark DeSaulnier]], [[Jimmy Gomez]], [[Hakeem Jeffries]], [[Sheila Cherfilus-McCormick]], [[Lori Trahan]], [[Brittany Pettersen]], [[Ed Markey]], [[David Scott]], [[Summer Lee]], [[Jared Huffman]], [[Roy Cooper]], [[Martin Heinrich]], [[Jake Auchincloss]], [[Paul Tonko]], [[Laura Gillen]], [[Derek Tran]], [[Patty Murray]], [[Lloyd Doggett]], [[Nancy Pelosi]], [[Peter Welch]], [[Seth Magaziner]], [[Wesley Bell]], [[Sara Jacobs]], [[Sharice Davids]], [[Morgan McGarvey]], [[Mark Kelly]], [[Jamie Raskin]], [[Shomari Figures]], [[Emily Randall]], [[Sarah McBride]], [[Rashida Tlaib]], [[Scott Wiener]], [[Debbie Stabenow]], [[Emanuel Cleaver]], [[Raphael Warnock]], [[Adam Gray]], [[Mike Levin]], [[Adam Smith]], [[Betty McCollum]], [[Lateefah Simon]], [[Maxine Dexter]], [[Andre Carson]], [[Raul Grijalva]], [[Susie Lee]], [[Marie Gluesenkamp Perez]], [[Patrick Ryan]], [[Jason Crow]], [[Joaquin Castro]], [[Frank Pallone]], [[Debbie Wasserman Schultz]], [[Raul Ruiz]], [[Chellie Pingree]], [[John Fetterman]], [[Yassamin Ansari]], [[Marcy Kaptur]], [[Sydney Kamlager-Dove]], [[Kim Schrier]], [[Adriano Espaillat]], [[Veronica Escobar]], [[Joseph Morelle]], [[Lois Frankel]], [[Gwen Moore]], [[Jahana Hayes]], [[Joe Manchin]], [[Dave Min]], [[Julia Brownley]], [[Elissa Slotkin]], [[Darren Soto]], [[Mark Pocan]], [[Robert Garcia]], [[Greg Stanton]], [[Dan Osborn]], [[Kweisi Mfume]], [[Julie Johnson]], [[Mike Thompson]], [[Eric Sorensen]], [[Shontel Brown]], [[Steven Horsford]], [[Lisa Blunt Rochester]], [[Sherrod Brown]], [[Jon Ossoff]], [[Eric Swalwell]], [[Andrea Salinas]], [[Tammy Baldwin]], [[Josh Riley]], [[Shri Thanedar]], [[Brian Schatz]], [[Joyce Beatty]], [[Kamala Harris]], [[Gary Peters]], [[Suzanne Bonamici]], [[Ilhan Omar]], [[Madeleine Dean]], [[Mark Takano]], [[Laura Friedman]], [[Rosa DeLauro]], [[Ro Khanna]], [[Kelly Morrison]], [[Adam Schiff]], [[Elizabeth Warren]], [[Tina Smith]], [[Ron Wyden]], [[John Garamendi]], [[Chris Murphy]], [[Jack Reed]], [[Zoe Lofgren]], [[Andy Kim]], [[Jacky Rosen]], [[Josh Harder]], [[Kristen McDonald Rivet]], [[Maria Cantwell]], [[Pete Aguilar]], [[Kathy Castor]], [[Sheldon Whitehouse]], [[Jim Costa]], [[Barbara Lee]], [[Bernie Sanders]], [[Catherine Cortez Masto]], [[Chrissy Houlahan]]"
 ofac-sdn-match: "true"
 last-enriched: "2026-04-15"
 ofac-programs:
-  - "RUSSIA-EO14024"
+  - RUSSIA-EO14024
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"

@@ -1,50 +1,49 @@
 ---
-title: "Moinian Group"
+title: Moinian Group
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Real Estate"
-entity-type: "Corporation"
+sector: Real Estate
+entity-type: Corporation
 related: "[[Kathy Hochul]]"
 lobbying-spend: 150000
 lobbying-filings: 4
-lei: "549300SIM2H13POBGQ56"
-lei-jurisdiction: "US-NY"
+lei: 549300SIM2H13POBGQ56
+lei-jurisdiction: US-NY
 sec-filings: 323
 sec-form-types:
-  - "10-K"
-  - "10-Q"
-  - "8-K"
-  - "CORRESP"
-  - "DEF 14A"
-  - "EX-10"
-  - "EX-10.1"
-  - "EX-10.2"
-  - "EX-10.3"
-  - "EX-10.3.1"
-  - "EX-10.9"
-  - "EX-99"
-  - "EX-99.(C)(3)"
-  - "EX-99.(C)(4)"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "EX-99.3"
-  - "EX-99.9"
-  - "EX1A-6 MAT CTRCT"
-  - "FWP"
-  - "PRE 14A"
-  - "XML"
+  - 10-K
+  - 10-Q
+  - 8-K
+  - CORRESP
+  - DEF 14A
+  - EX-10
+  - EX-10.1
+  - EX-10.2
+  - EX-10.3
+  - EX-10.3.1
+  - EX-10.9
+  - EX-99
+  - EX-99.(C)(3)
+  - EX-99.(C)(4)
+  - EX-99.1
+  - EX-99.2
+  - EX-99.3
+  - EX-99.9
+  - EX1A-6 MAT CTRCT
+  - FWP
+  - PRE 14A
+  - XML
 cross-vault-triangulation-count: 1
 needs-reenrichment: true
-reenrich-reason: "run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run pipelines
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 employee-contributions: 7
 employee-contributions-total: 5665
 employee-donor-count: 3
+politicians-funded: "[[WinRed]], [[ActBlue]]"
 ---
 
 

@@ -1,43 +1,43 @@
 ---
-title: "National Education Association"
+title: National Education Association
 type: donor
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Education"
-entity-type: "Individual Donor"
+sector: Education
+entity-type: Individual Donor
 issues:
-  - "Education"
-total-political-spend: "$85,137,027"
+  - Education
+total-political-spend: $85,137,027
 sec-filings: 1850
 sec-form-types:
-  - "10-K"
+  - 10-K
   - "144"
   - "4"
   - "497"
-  - "8-K"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "EX-99"
-  - "EX-99.1"
-  - "EX-99.3G"
-lei: "549300HK4YWG61O0MF87"
-lei-jurisdiction: "US-DC"
+  - 8-K
+  - DEF 14A
+  - DEFA14A
+  - EX-99
+  - EX-99.1
+  - EX-99.3G
+lei: 549300HK4YWG61O0MF87
+lei-jurisdiction: US-DC
 related: "[[Economic Policy Institute]] · [[CalSTRS - California State Teachers' Retirement System]] · [[CTA - California Teachers Association]] · [[AFL-CIO]] · [[American Federation for Children]] · [[DeVos Family]] · [[US Chamber of Commerce]] · [[Stand Together]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[The 85 Fund]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[American Iron and Steel Institute]] · [[Republican Party Apparatus]] · [[Ohio Federation of Teachers]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Federalist Society]] · [[Donors Capital Fund]] · [[Demand Justice]] · [[Council for National Policy]] · [[Conservative Partnership Institute]] · [[Concerned Veterans for America]] · [[Business Roundtable]] · [[Bradley Impact Fund]] · [[Bradley Foundation]] · [[American Enterprise Institute]] · [[American Action Network]] · [[America First Policy Institute]] · [[Alliance Defending Freedom]] · [[ALEC - American Legislative Exchange Council]] · [[National Cattlemen's Beef Association]] · [[Fanjul Family - Florida Crystals]] · [[American Farm Bureau Federation]]"
 federal-register-mentions: 57
 last-enriched: "2026-04-08"
 regulatory-agencies:
-  - "Agriculture Department"
-  - "Civil Rights Commission"
-  - "Defense Department"
-  - "Education Department"
-  - "Employee Benefits Security Administration"
-  - "Federal Motor Carrier Safety Administration"
-  - "Food and Nutrition Service"
-  - "Labor Department"
-  - "Labor-Management Standards Office"
-  - "National Labor Relations Board"
+  - Agriculture Department
+  - Civil Rights Commission
+  - Defense Department
+  - Education Department
+  - Employee Benefits Security Administration
+  - Federal Motor Carrier Safety Administration
+  - Food and Nutrition Service
+  - Labor Department
+  - Labor-Management Standards Office
+  - National Labor Relations Board
 cross-vault-triangulation-count: 9
 audit-a-plus-passed: "2026-04-11"
 checklist-na:
@@ -52,6 +52,7 @@ contributions-to-committees: 575000
 employee-contributions: 5087
 employee-contributions-total: 452140
 employee-donor-count: 507
+politicians-funded: "[[ActBlue]], [[MoveOn.org Political Action]], [[Progressive Turnout Project]], [[Susie Lee]], [[_Tammy Baldwin Master Profile]], [[NEA Fund for Children and Public Education]], [[Hakeem Jeffries]], [[League of Conservation Voters]], [[John Fetterman]], [[_Angie Craig Master Profile]], [[Mark Kelly]], [[Kamala Harris]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Patrick Ryan]], [[Catherine Cortez Masto]], [[Lisa Murkowski]], [[Sharice Davids]], [[DCCC - Democratic Congressional Campaign Committee]], [[John James]], [[Everytown for Gun Safety Victory Fund]], [[Lauren Underwood]], [[Patty Murray]], [[Greg Landsman]], [[Jahana Hayes]], [[Maria Elvira Salazar]], [[Raphael Warnock]], [[Dina Titus]], [[Greg Stanton]], [[Emily's List]], [[Derrick van Orden]], [[Ted Lieu]], [[Let America Vote PAC]], [[Teresa Leger Fernandez]], [[Josh Harder]], [[Brittany Pettersen]], [[Sean Casten]], [[Jamie Raskin]], [[_Nancy Pelosi Master Profile]], [[Pete Aguilar]], [[Debbie Dingell]], [[Seth Magaziner]], [[Sarah Elfreth]], [[_Jon Ossoff Master Profile]], [[Kweisi Mfume]], [[Andrea Salinas]], [[Adam Gray]], [[Josh Riley]], [[CHC BOLD PAC]], [[Ron Johnson]], [[Steven Horsford]], [[Kim Schrier]], [[Chris van Hollen]], [[Protect the Vote]], [[Nikki Budzinski]], [[Marcy Kaptur]], [[Tammy Baldwin]], [[Jon Ossoff]], [[Angie Craig]], [[Nancy Pelosi]]"
 ---
 
 

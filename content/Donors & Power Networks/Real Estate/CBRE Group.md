@@ -1,77 +1,76 @@
 ---
-title: "CBRE Group"
+title: CBRE Group
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Real Estate"
-entity-type: "Corporation"
+sector: Real Estate
+entity-type: Corporation
 issues:
-  - "Housing"
+  - Housing
 ein: 541871872
-annual-revenue: "$84K"
-net-assets: "$11K"
+annual-revenue: $84K
+net-assets: $11K
 tax-year: "2024"
 sec-filings: 10000
 sec-form-types:
-  - "10-K"
-  - "10-Q"
+  - 10-K
+  - 10-Q
   - "144"
   - "4"
-  - "8-K"
-  - "ARS"
-  - "CORRESP"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "EX-23.1"
-  - "EX-3.1"
-  - "EX-99..1"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "EX-99.3"
-  - "EX-99.K"
-  - "FULL"
-  - "NPORT-P"
-  - "S-8"
-  - "S-8 POS"
-  - "SC 13D"
-  - "SC 13D/A"
-  - "SC 13G"
-  - "SC 13G/A"
-  - "SCHEDULE 13G/A"
+  - 8-K
+  - ARS
+  - CORRESP
+  - DEF 14A
+  - DEFA14A
+  - EX-23.1
+  - EX-3.1
+  - EX-99..1
+  - EX-99.1
+  - EX-99.2
+  - EX-99.3
+  - EX-99.K
+  - FULL
+  - NPORT-P
+  - S-8
+  - S-8 POS
+  - SC 13D
+  - SC 13D/A
+  - SC 13G
+  - SC 13G/A
+  - SCHEDULE 13G/A
 related: "[[Real Estate Industry Bloc]] · [[National Association of Realtors]] · [[Real Estate Roundtable]] · [[Blackstone Real Estate]]"
 federal-awards-total: 22596647
 federal-contracts-count: 3
 federal-grants-count: 0
-top-federal-agency: "General Services Administration"
+top-federal-agency: General Services Administration
 top-naics-code: "236220"
 court-cases: 212
 last-enriched: "2026-04-10"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 court-jurisdictions:
-  - "District Court, D. Maryland"
-  - "District Court, D. Massachusetts"
-  - "District Court, D. New Jersey"
-  - "District Court, E.D. New York"
-  - "District Court, E.D. Pennsylvania"
-  - "District Court, E.D. Virginia"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Georgia"
-  - "District Court, S.D. Iowa"
-  - "District Court, S.D. New York"
+  - District Court, D. Maryland
+  - District Court, D. Massachusetts
+  - District Court, D. New Jersey
+  - District Court, E.D. New York
+  - District Court, E.D. Pennsylvania
+  - District Court, E.D. Virginia
+  - District Court, N.D. California
+  - District Court, N.D. Georgia
+  - District Court, S.D. Iowa
+  - District Court, S.D. New York
 cross-vault-triangulation-count: 4
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
 epa-facilities: 12
-epa-states: "AL, CA, CO, IL, MA"
+epa-states: AL, CA, CO, IL, MA
 federal-contracts: 293
 employee-contributions: 10351
 employee-contributions-total: 2391367
 employee-donor-count: 2145
+politicians-funded: "[[MAGA Inc]], [[WinRed]], [[Trump Victory]], [[_Cori Bush Master Profile]], [[_Lauren Underwood Master Profile]], [[Michigan Republican Party]], [[ActBlue]], [[NRSC - National Republican Senatorial Committee]], [[FreedomWorks for America]], [[National Association of Realtors]], [[Mark Kelly]], [[National Multifamily Housing Council]], [[MoveOn.org Political Action]], [[_Jared Moskowitz Master Profile]], [[_Cory Booker Master Profile]], [[_Jake Auchincloss Master Profile]], [[_Ted Cruz Master Profile]], [[Progressive Turnout Project]], [[_Jeff Crank Master Profile]], [[_Randy Fine Master Profile]], [[Bob Casey]], [[The Lincoln Project]], [[NRCC - National Republican Congressional Committee]], [[_Mike Levin Master Profile]], [[_Julie Johnson Master Profile]], [[_Don Bacon Master Profile]], [[_Matt van Epps Master Profile]], [[MAJORITY PAC]], [[Catherine Cortez Masto]], [[_Debbie Wasserman Schultz Master Profile]], [[Votevets]], [[_Tim Scott Master Profile]], [[_Alex Padilla Master Profile]], [[Let America Vote PAC]], [[DNC - Democratic National Committee]], [[DCCC - Democratic Congressional Campaign Committee]], [[_George Latimer Master Profile]], [[_Michael Waltz Master Profile]], [[_Darren Soto Master Profile]], [[Emily's List]], [[_Susie Lee Master Profile]], [[AIPAC - American Israel Public Affairs Committee]], [[_Young Kim Master Profile]], [[Everytown for Gun Safety Victory Fund]], [[314 ACTION FUND]], [[RNC - Republican National Committee]], [[_Mario Diaz-Balart Master Profile]], [[America First Action]], [[_Pete Aguilar Master Profile]], [[_Adam Gray Master Profile]], [[_Beth van Duyne Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Lois Frankel Master Profile]], [[_Seth Moulton Master Profile]], [[Bernie Moreno]], [[_Nancy Pelosi Master Profile]], [[Chris Christie]], [[_Jon Ossoff Master Profile]], [[WinSenate]], [[_Mark Alford Master Profile]], [[_Tony Gonzales Master Profile]], [[_Gabe Vasquez Master Profile]], [[_Brad Knott Master Profile]], [[_Veronica Escobar Master Profile]], [[_Virginia Foxx Master Profile]], [[_Vicente Gonzalez Master Profile]], [[_Doug Burgum Master Profile]], [[Giffords PAC]], [[Save America PAC]], [[_Carlos Gimenez Master Profile]], [[Hmp]], [[League of Conservation Voters]], [[National Victory Action Fund]], [[_Brian Mast Master Profile]], [[_Adrian Smith Master Profile]], [[_Bill Foster Master Profile]], [[_Pete Sessions Master Profile]], [[_Glenn Ivey Master Profile]], [[_John James Master Profile]], [[NORPAC]], [[_Joe Wilson Master Profile]], [[_Jake Ellzey Master Profile]], [[_August Pfluger Master Profile]], [[Americans for Prosperity]], [[Indivisible Action]], [[_Tammy Baldwin Master Profile]], [[_Chris Pappas Master Profile]], [[_Hilda Solis Master Profile]], [[National Rifle Association]], [[Senate Conservatives Fund]], [[_Mike Collins Master Profile]], [[_Kamala Harris Master Profile]], [[_Marco Rubio Master Profile]], [[_Gabe Amo Master Profile]], [[_Julia Brownley Master Profile]], [[United Democracy Project - UDP]], [[_Rashida Tlaib Master Profile]], [[_Tom Barrett Master Profile]], [[_Josh Riley Master Profile]], [[_Laura Friedman Master Profile]], [[_Martin Heinrich Master Profile]], [[Ted Cruz]], [[Don Bacon]], [[Alex Padilla]], [[Jared Moskowitz]], [[Mike Collins]], [[Young Kim]], [[George Latimer]], [[Tim Scott]], [[Lauren Underwood]], [[Vicente Gonzalez]], [[Debbie Wasserman Schultz]], [[Martin Heinrich]], [[Randy Fine]], [[Gabe Amo]], [[August Pfluger]], [[Pete Sessions]], [[Nancy Pelosi]], [[Lois Frankel]], [[Jake Auchincloss]], [[Cori Bush]], [[Glenn Ivey]], [[Mike Levin]], [[Cory Booker]], [[Michael Waltz]], [[Darren Soto]], [[Bill Foster]], [[Marco Rubio]], [[Jon Ossoff]], [[Veronica Escobar]], [[Chris Pappas]], [[Seth Moulton]], [[Matt van Epps]], [[Jeff Crank]], [[Tammy Baldwin]], [[Kamala Harris]], [[Pete Aguilar]], [[Julia Brownley]], [[Jake Ellzey]], [[Julie Johnson]], [[Susie Lee]], [[John James]], [[Brad Knott]], [[Virginia Foxx]], [[Doug Burgum]], [[Rashida Tlaib]], [[Adam Gray]], [[Mark Alford]], [[Adrian Smith]], [[Josh Riley]], [[Laura Friedman]], [[Tony Gonzales]], [[Tom Barrett]], [[Beth van Duyne]], [[Hilda Solis]], [[Joe Wilson]], [[Brian Mast]], [[Carlos Gimenez]], [[Mario Diaz-Balart]], [[Gabe Vasquez]]"
 ---
 
 
@@ -282,3 +281,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 - ~~[JCT: Revenue estimates for 1031 exchange reform](https://www.jct.gov/publications/?search_term=CBRE%20Group)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22CBRE%20Group%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 7 (2018–2025)
+
+**Most recent filing (2025):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | $90K |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | — |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

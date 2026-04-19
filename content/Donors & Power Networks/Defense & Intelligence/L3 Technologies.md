@@ -70,9 +70,9 @@ cross-vault-triangulation-count: 2
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ftc-enforcement-actions: 4
 ftc-hsr-notices: 1
-politicians-funded: "[[John Ratcliffe]]"
+politicians-funded: "[[John Ratcliffe]], [[Mark Kelly]], [[NRSC - National Republican Senatorial Committee]], [[ActBlue]], [[_Ted Cruz Master Profile]], [[RNC - Republican National Committee]], [[MAGA Inc]], [[Bob Casey]], [[DCCC - Democratic Congressional Campaign Committee]], [[Catherine Cortez Masto]], [[_Rashida Tlaib Master Profile]], [[Giffords PAC]], [[L3 Technologies]], [[Senate Conservatives Fund]], [[_Jon Ossoff Master Profile]], [[The Lincoln Project]], [[WinRed]], [[NRCC - National Republican Congressional Committee]], [[_Mike Rogers Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Rashida Tlaib]], [[Jon Ossoff]], [[Mike Rogers]], [[Ted Cruz]]"
 epa-facilities: 7
-epa-states: "CA, MA"
+epa-states: CA, MA
 total-raised: 577319
 total-spent: 1276942
 individual-contributions: 571319

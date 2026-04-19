@@ -1,72 +1,72 @@
 ---
-title: "Wells Fargo"
+title: Wells Fargo
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Wall Street"
-entity-type: "Corporation"
+sector: Wall Street
+entity-type: Corporation
 issues:
-  - "Wall Street & Finance"
+  - Wall Street & Finance
 federal-awards-total: 3800000
 federal-contracts-count: 1
 federal-grants-count: 0
 court-cases: 268613
 last-enriched: "2026-04-10"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 court-jurisdictions:
-  - "District Court, C.D. California"
-  - "District Court, D. Maryland"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. California"
-  - "District Court, E.D. North Carolina"
-  - "District Court, M.D. Florida"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Illinois"
-  - "District Court, S.D. New York"
-  - "District Court, W.D. Kentucky"
+  - District Court, C.D. California
+  - District Court, D. Maryland
+  - District Court, District of Columbia
+  - District Court, E.D. California
+  - District Court, E.D. North Carolina
+  - District Court, M.D. Florida
+  - District Court, N.D. California
+  - District Court, N.D. Illinois
+  - District Court, S.D. New York
+  - District Court, W.D. Kentucky
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 sec-filings: 10000
 sec-form-types:
-  - "10-D"
-  - "10-K"
+  - 10-D
+  - 10-K
   - "4"
-  - "40-APP"
-  - "424B2"
+  - 40-APP
+  - 424B2
   - "425"
   - "497"
-  - "DEF 14A"
-  - "EX-2"
-  - "EX-21"
-  - "EX-33"
-  - "EX-33.10"
-  - "EX-33.11"
-  - "EX-33.12"
-  - "EX-33.1C"
-  - "EX-33.7"
-  - "EX-33.8"
-  - "EX-33.9"
-  - "EX-35"
-  - "EX-99"
-  - "EX-99.1"
-  - "EX-99.77O RULE 10F-3"
-  - "EX-99.77Q1 OTHR EXHB"
-  - "EX-99.J OTHER OPININ"
-  - "FWP"
-  - "MA"
-  - "MA/A"
-  - "N-CEN"
-  - "N-PX"
-  - "NPORT-EX"
-  - "SCHEDULE 13G/A"
+  - DEF 14A
+  - EX-2
+  - EX-21
+  - EX-33
+  - EX-33.10
+  - EX-33.11
+  - EX-33.12
+  - EX-33.1C
+  - EX-33.7
+  - EX-33.8
+  - EX-33.9
+  - EX-35
+  - EX-99
+  - EX-99.1
+  - EX-99.77O RULE 10F-3
+  - EX-99.77Q1 OTHR EXHB
+  - EX-99.J OTHER OPININ
+  - FWP
+  - MA
+  - MA/A
+  - N-CEN
+  - N-PX
+  - NPORT-EX
+  - SCHEDULE 13G/A
 ein: "411367441"
-annual-revenue: "$256.3M"
-net-assets: "$50.5M"
+annual-revenue: $256.3M
+net-assets: $50.5M
 tax-year: "2023"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 total-revenue: 137336347
 total-assets: 12239451
 related: "[[The Intellectual Property and Banking Donor Pipeline]] · [[The Whiteboard Populism and Legislative Limits]] · [[JPMorgan Chase]] · [[Bank of America]] · [[Citigroup]] · [[Goldman Sachs]]"
@@ -74,10 +74,10 @@ subawards-issued: 2
 subawards-issued-amount: 72000
 subawards-received: 2
 subawards-received-amount: 72000
-top-federal-agency: "Pension Benefit Guaranty Corporation"
+top-federal-agency: Pension Benefit Guaranty Corporation
 top-naics-code: "523920"
-lei: "984500EB0D67AAL6D588"
-lei-jurisdiction: "GB"
+lei: 984500EB0D67AAL6D588
+lei-jurisdiction: GB
 occ-enforcement-actions: 116
 occ-active-actions: 95
 occ-charter-numbers:
@@ -89,14 +89,13 @@ occ-charter-numbers:
   - "1"
 occ-cmp-dollars: 899171205
 cross-vault-triangulation-count: 5
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 32
-epa-states: "AZ, CA, FL, IA, MI, MN"
+epa-states: AZ, CA, FL, IA, MI, MN
 employee-contributions: 46363
 employee-contributions-total: 4174400
 employee-donor-count: 5535
+politicians-funded: "[[MAGA Inc]], [[_Ralph Norman Master Profile]], [[_Angie Craig Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[Giffords PAC]], [[Barbara Lee]], [[_Tim Scott Master Profile]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[_Don Bacon Master Profile]], [[_Glenn Grothman Master Profile]], [[Elbert Guillory's America]], [[_Ron Johnson Master Profile]], [[_Julia Brownley Master Profile]], [[_Ted Cruz Master Profile]], [[REPUBLICAN PARTY OF FLORIDA]], [[Bob Casey]], [[_Derek Schmidt Master Profile]], [[WinSenate]], [[_Lauren Boebert Master Profile]], [[_John James Master Profile]], [[The Lincoln Project]], [[Congressional Progressive Caucus PAC]], [[Republican Jewish Coalition]], [[JUSTICE DEMOCRATS PAC]], [[_Lauren Underwood Master Profile]], [[AIPAC - American Israel Public Affairs Committee]], [[WinRed]], [[MoveOn.org Political Action]], [[Save America PAC]], [[_Mark Harris Master Profile]], [[Human Rights Campaign Equality Votes]], [[_Veronica Escobar Master Profile]], [[Mark Kelly]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Dave Min Master Profile]], [[_Jason Crow Master Profile]], [[Emily's List]], [[Planned Parenthood Votes]], [[_Andy Barr Master Profile]], [[Let America Vote PAC]], [[_Jamie Raskin Master Profile]], [[Democratic Party of Virginia]], [[_Debbie Wasserman Schultz Master Profile]], [[_Rashida Tlaib Master Profile]], [[Medicare for All - The Policy That Broke the Party]], [[_Cori Bush Master Profile]], [[RNC - Republican National Committee]], [[Hmp]], [[CHC BOLD PAC]], [[Progressive Turnout Project]], [[_Young Kim Master Profile]], [[_Joe Wilson Master Profile]], [[_Chuck Edwards Master Profile]], [[_Shontel Brown Master Profile]], [[_Pete Stauber Master Profile]], [[_Melissa Bean Master Profile]], [[MAJORITY PAC]], [[_Mike Levin Master Profile]], [[_Tony Gonzales Master Profile]], [[_Mario Diaz-Balart Master Profile]], [[_Josh Hawley Master Profile]], [[VIEW PAC - Value in Electing Women]], [[_Marco Rubio Master Profile]], [[ActBlue]], [[_Claudia Tenney Master Profile]], [[NRCC - National Republican Congressional Committee]], [[Catherine Cortez Masto]], [[_Chris Pappas Master Profile]], [[Ab Pac]], [[Club for Growth]], [[Really American Pac]], [[Indivisible Action]], [[_Byron Donalds Master Profile]], [[Senate Conservatives Fund]], [[Freedom's Defense Fund]], [[NRSC - National Republican Senatorial Committee]], [[Courage California Super Pac]], [[_Kevin Mullin Master Profile]], [[_Michael Waltz Master Profile]], [[_David Rouzer Master Profile]], [[National Rifle Association]], [[J Street]], [[Law Enforcement for a Safer America Pac]], [[_Mark Takano Master Profile]], [[_Anna Paulina Luna Master Profile]], [[_Jon Ossoff Master Profile]], [[Trump Victory]], [[_Jeff Hurd Master Profile]], [[314 ACTION FUND]], [[Michigan Republican Party]], [[_Alex Padilla Master Profile]], [[_Brian Mast Master Profile]], [[_Bonnie Watson Coleman Master Profile]], [[_Tammy Baldwin Master Profile]], [[_Ann Wagner Master Profile]], [[_Kamala Harris Master Profile]], [[_Julia Letlow Master Profile]], [[_Susie Lee Master Profile]], [[Nancy Mace]], [[FreedomWorks for America]], [[DNC - Democratic National Committee]], [[VIGOP]], [[_Josh Riley Master Profile]], [[_Robert Garcia Master Profile]], [[_Kevin Kiley Master Profile]], [[_Cory Booker Master Profile]], [[Mad Dog PAC]], [[_Chrissy Houlahan Master Profile]], [[FREEDOM CLUB FEDERAL PAC]], [[_Doug Burgum Master Profile]], [[_Josh Harder Master Profile]], [[Votevets]], [[_Bill Foster Master Profile]], [[_Morgan McGarvey Master Profile]], [[Planned Parenthood Action Fund INC]], [[_Pete Aguilar Master Profile]], [[_Jared Moskowitz Master Profile]], [[Everytown for Gun Safety Victory Fund]], [[_Darren Soto Master Profile]], [[_Ted Budd Master Profile]], [[_Virginia Foxx Master Profile]], [[National Victory Action Fund]], [[_Glenn Ivey Master Profile]], [[_Jay Obernolte Master Profile]], [[_Jimmy Panetta Master Profile]], [[Powerpacplus]], [[AMERICAN FUTURE FUND POLITICAL ACTION]], [[America First Action]], [[PRIORITIES USA ACTION]], [[Marianne Williamson]], [[_Adam Gray Master Profile]], [[_Elissa Slotkin Master Profile]], [[_Donna Miller Master Profile]], [[_Martin Heinrich Master Profile]], [[Chris Christie]], [[_George Latimer Master Profile]], [[Wfp Ie Committee]], [[Chevron]], [[NEA Fund for Children and Public Education]], [[SLF PAC]], [[_Jim Jordan Master Profile]], [[_Brad Knott Master Profile]], [[Jon Ossoff]], [[Julia Letlow]], [[Andy Barr]], [[Mark Takano]], [[Debbie Wasserman Schultz]], [[Darren Soto]], [[Tammy Baldwin]], [[Jay Obernolte]], [[Josh Hawley]], [[Pete Stauber]], [[Kamala Harris]], [[Jason Crow]], [[Ted Budd]], [[Virginia Foxx]], [[Michael Waltz]], [[Don Bacon]], [[Kevin Mullin]], [[Glenn Ivey]], [[Tim Scott]], [[Bill Foster]], [[David Rouzer]], [[Glenn Grothman]], [[Josh Harder]], [[Marco Rubio]], [[Kevin Kiley]], [[Josh Riley]], [[Cory Booker]], [[George Latimer]], [[Julia Brownley]], [[Angie Craig]], [[Joe Wilson]], [[Jamie Raskin]], [[Ralph Norman]], [[Ron Johnson]], [[Shontel Brown]], [[Chris Pappas]], [[Morgan McGarvey]], [[Alex Padilla]], [[Elissa Slotkin]], [[Mark Harris]], [[John James]], [[Lauren Underwood]], [[Cori Bush]], [[Susie Lee]], [[Ann Wagner]], [[Chuck Edwards]], [[Jeff Hurd]], [[Veronica Escobar]], [[Ted Cruz]], [[Jim Jordan]], [[Brian Mast]], [[Robert Garcia]], [[Melissa Bean]], [[Byron Donalds]], [[Mario Diaz-Balart]], [[Lauren Boebert]], [[Jared Moskowitz]], [[Derek Schmidt]], [[Doug Burgum]], [[Brad Knott]], [[Pete Aguilar]], [[Rashida Tlaib]], [[Mike Levin]], [[Chrissy Houlahan]], [[Martin Heinrich]], [[Jimmy Panetta]], [[Donna Miller]], [[Adam Gray]], [[Young Kim]], [[Bonnie Watson Coleman]], [[Dave Min]], [[Anna Paulina Luna]], [[Claudia Tenney]], [[Tony Gonzales]]"
 ---
 
 
@@ -420,3 +419,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/411367441/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/411367441/2019)~~ (URL broken, archived by Ops)
 - ~~[Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=Wells%20Fargo&srt=1&pg=1&pgsz=25&isAdv=false)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 4 (2020–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $213.0M |
+| Total expenses | — |
+| Total assets (EOY) | $50.5M |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

@@ -1,33 +1,34 @@
 ---
-title: "Ron Estes"
+title: Ron Estes
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Kansas"
-state-abbr: "KS"
+party: Republican
+chamber: House
+state: Kansas
+state-abbr: KS
 district: "4"
-bioguide-id: "E000298"
+bioguide-id: E000298
 govtrack-id: 412735
 born: "1956-07-19"
-wikidata-id: "Q7363747"
-website: "https://estes.house.gov"
-phone: "202-225-6216"
+wikidata-id: Q7363747
+website: https://estes.house.gov
+phone: 202-225-6216
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H8KS04112"
+fec-candidate-id: H8KS04112
 bills-sponsored: 15
 bills-cosponsored: 178
 bills-enacted: 0
-top-policy-area: "Taxation"
+top-policy-area: Taxation
+top-donors: "[[Citigroup]], [[Occidental Petroleum]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[American College of Radiology Association PAC]], [[Google - Alphabet]], [[Humana]], [[Chevron]], [[General Dynamics]], [[Comcast - NBCUniversal]], [[NextEra Energy]], [[Kansans for Life Political Action Committee]], [[Johnson & Johnson]], [[Walmart - Walton Family]], [[Care Action]], [[MAJORITY PAC]], [[WinRed]], [[National Association of Manufacturers]], [[Amgen Inc]], [[Raytheon (RTX)]], [[AT&T - WarnerMedia]], [[AIPAC - American Israel Public Affairs Committee]], [[Gilead Sciences]], [[American Chemistry Council, INC]], [[National Cattlemen's Beef Association]], [[Honeywell]], [[Bank of America]], [[National Rifle Association]], [[CVS Health - Aetna]], [[Pfizer Inc.]], [[Vern Buchanan]], [[Leidos]], [[McDonalds Corporation]], [[National Restaurant Association]], [[National Multifamily Housing Council]], [[NORPAC]], [[General Motors]], [[Valero Energy]], [[Ford Motor Company]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Marathon Petroleum]], [[Associated General Contractors of America Political Action Committee]], [[PG&E - Pacific Gas and Electric]], [[Jason Smith]], [[Lockheed Martin]], [[AbbVie]], [[Duke Energy]], [[ADM - Archer Daniels Midland]], [[Microsoft]], [[Tyson Foods]], [[American Hospital Association PAC]], [[National Association of Realtors]], [[iHeartMedia]], [[Northrop Grumman]], [[Halliburton]], [[Blackstone Group]], [[Amazon]], [[Walmart]], [[Morgan Stanley]], [[MassMutual]], [[CoreCivic]], [[Koch Industries]], [[Goldman Sachs]]"
 ---
 
 

@@ -2,12 +2,12 @@
 title: L3Harris Technologies
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Defense & Intelligence
 entity-type: Corporation
-politicians-funded: "[[Donald Trump]]"
+politicians-funded: "[[Donald Trump]], [[Steve Womack]], [[Jerry Moran]], [[Hakeem Jeffries]], [[Adam Smith]], [[Dan Sullivan]], [[_Chrissy Houlahan Master Profile]], [[Henry Cuellar]], [[Mark Alford]], [[Donald Norcross]], [[Jacky Rosen]], [[Jim Himes]], [[Adam Schiff]], [[Betty McCollum]], [[Deb Fischer]], [[Rick Larsen]], [[Greg Stanton]], [[Eric Swalwell]], [[French Hill]], [[Kristen McDonald Rivet]], [[Chris Coons]], [[John Thune]], [[_Gabe Vasquez Master Profile]], [[Tammy Duckworth]], [[Rick Crawford]], [[Roger Wicker]], [[Vicente Gonzalez]], [[Patty Murray]], [[Kay Granger]], [[Jay Obernolte]], [[Chrissy Houlahan]], [[Pete Aguilar]], [[Veronica Escobar]], [[Joe Manchin]], [[Bruce Westerman]], [[Wesley Bell]], [[Jeanne Shaheen]], [[Steven Horsford]], [[Save America PAC]], [[Gary Peters]], [[Steve Scalise]], [[Pete Sessions]], [[Markwayne Mullin]], [[Ruben Gallego]], [[L3Harris Technologies]], [[Mark Kelly]], [[Kevin McCarthy]], [[Madeleine Dean]], [[Josh Gottheimer]], [[Mike Kennedy]], [[Derek Tran]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Donald Norcross Master Profile]], [[Darin Lahood]], [[WinRed]], [[_Ted Cruz Master Profile]], [[Richard Hudson]], [[John Cornyn]], [[Debbie Wasserman Schultz]], [[Celeste Maloy]], [[Jon Husted]], [[Mike Haridopolos]], [[ActBlue]], [[The Lincoln Project]], [[Susan Collins]], [[Sam Graves]], [[DCCC - Democratic Congressional Campaign Committee]], [[Greg Landsman]], [[Todd Young]], [[Michael Waltz]], [[Trump Victory]], [[John Boozman]], [[John Garamendi]], [[RNC - Republican National Committee]], [[Mike Rounds]], [[WinSenate]], [[Sherrod Brown]], [[Suhas Subramanyam]], [[Bill Hagerty]], [[Jimmy Panetta]], [[Mike Quigley]], [[Ronny Jackson]], [[Marilyn Strickland]], [[Gregory Meeks]], [[Tim Sheehy]], [[Ashley Moody]], [[August Pfluger]], [[Burgess Owens]], [[Chris van Hollen]], [[Martin Heinrich]], [[Raja Krishnamoorthi]], [[Ken Calvert]], [[Harold Rogers]], [[Joseph Morelle]], [[Progressive Turnout Project]], [[John Kennedy]], [[Tom Cole]], [[Ritchie Torres]], [[_Rashida Tlaib Master Profile]], [[Seth Magaziner]], [[MoveOn.org Political Action]], [[Brad Sherman]], [[Mario Diaz-Balart]], [[Paul Tonko]], [[Joe Wilson]], [[Ted Lieu]], [[Lance Gooden]], [[Richard Blumenthal]], [[Susie Lee]], [[Senate Conservatives Fund]], [[Thom Tillis]], [[Alex Padilla]], [[Richard McCormick]], [[Marcy Kaptur]], [[NRCC - National Republican Congressional Committee]], [[Rosa DeLauro]], [[Mark Warner]], [[Lisa Murkowski]], [[Kevin Cramer]], [[Eric Sorensen]], [[Jack Reed]], [[Grace Meng]], [[Jake Auchincloss]], [[NRSC - National Republican Senatorial Committee]], [[Jeff Crank]], [[Scott Desjarlais]], [[Scott Franklin]], [[Mike Lee]], [[James Lankford]], [[Elise Stefanik]], [[George Whitesides]], [[_Jon Ossoff Master Profile]], [[Joni Ernst]], [[Giffords PAC]], [[Brian Schatz]], [[Brian Babin]], [[Nancy Pelosi]], [[Katie Britt]], [[Ryan Zinke]], [[Zoe Lofgren]], [[Sarah Elfreth]], [[Brendan Boyle]], [[Kyrsten Sinema]], [[Guy Reschenthaler]], [[Clay Higgins]], [[Dusty Johnson]], [[Hmp]], [[Frank Lucas]], [[L3 Technologies]], [[Lois Frankel]], [[Morgan Luttrell]], [[Vince Fong]], [[_Don Bacon Master Profile]], [[Shelley Moore Capito]], [[Kim Schrier]], [[National Rifle Association]], [[Carlos Gimenez]], [[Pat Harrigan]], [[John Hoeven]], [[Andre Carson]], [[MAGA Inc]], [[_Veronica Escobar Master Profile]], [[Ted Cruz]], [[Cory Mills]], [[Randy Fine]], [[Patrick McHenry]], [[Rashida Tlaib]], [[Gabe Vasquez]], [[Jon Ossoff]], [[Don Bacon]]"
 issues:
   - Defense & Military
 federal-awards-total: 16846100446
@@ -66,7 +66,7 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 ftc-enforcement-actions: 0
 ftc-hsr-notices: 1
 epa-facilities: 23
-epa-states: "CA, FL, IN, MD, NH, NJ, NY, VA"
+epa-states: CA, FL, IN, MD, NH, NJ, NY, VA
 federal-contracts: 8111
 total-raised: 1347800
 total-spent: 1629643

@@ -1,91 +1,92 @@
 ---
-title: "Novo Nordisk"
+title: Novo Nordisk
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Pharma & Healthcare"
-entity-type: "Corporation"
+sector: Pharma & Healthcare
+entity-type: Corporation
 issues:
-  - "Healthcare"
+  - Healthcare
 lobbying-spend: 17065000
 lobbying-filings: 70
 federal-register-mentions: 80
 last-enriched: "2026-04-10"
 regulatory-agencies:
-  - "Antitrust Division"
-  - "Commerce Department"
-  - "Employment and Training Administration"
-  - "Environmental Protection Agency"
-  - "Federal Trade Commission"
-  - "Food and Drug Administration"
-  - "Health and Human Services Department"
-  - "Justice Department"
-  - "Labor Department"
-  - "Patent and Trademark Office"
-top-federal-agency: "Department of Veterans Affairs"
+  - Antitrust Division
+  - Commerce Department
+  - Employment and Training Administration
+  - Environmental Protection Agency
+  - Federal Trade Commission
+  - Food and Drug Administration
+  - Health and Human Services Department
+  - Justice Department
+  - Labor Department
+  - Patent and Trademark Office
+top-federal-agency: Department of Veterans Affairs
 top-naics-code: "518210"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 court-cases: 9469
 court-jurisdictions:
-  - "District Court, D. New Jersey"
-  - "District Court, E.D. Pennsylvania"
+  - District Court, D. New Jersey
+  - District Court, E.D. Pennsylvania
 related: "[[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[PhRMA]] · [[AbbVie]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Moderna]] · [[Johnson & Johnson]] · [[Centene Corporation]] · [[Palantir Technologies]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[UnitedHealth Group - Optum]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[Humana]] · [[Hospital Corporation of America - HCA]] · [[Civica Rx]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Blue Cross Blue Shield Association]] · [[Anthem - Elevance Health Political Operation]] · [[Uber]] · [[Lyft]] · [[Instacart]] · [[Flex Association]] · [[DoorDash]] · [[Airbnb]] · [[WSPA - Western States Petroleum Association]] · [[Valero Energy]] · [[Southern Company]] · [[PG&E]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[NextEra Energy]] · [[Marathon Petroleum]] · [[Koch Industries]] · [[Hawaiian Electric Company]] · [[Halliburton]] · [[Fossil Fuel Bloc]] · [[ExxonMobil]] · [[Duke Energy]] · [[Devon Energy]] · [[ConocoPhillips]]"
-lei: "529900UTAHSVRYZL0380"
-lei-jurisdiction: "DK"
+lei: 529900UTAHSVRYZL0380
+lei-jurisdiction: DK
 sec-filings: 10000
 sec-form-types:
-  - "20-F"
-  - "424B3"
-  - "6-K"
-  - "6-K/A"
-  - "DEFM14A"
-  - "EX-1"
-  - "EX-10.1"
-  - "EX-10.11"
-  - "EX-10.12"
-  - "EX-10.15"
-  - "EX-10.17"
-  - "EX-10.2"
-  - "EX-10.22"
-  - "EX-10.26"
-  - "EX-10.27"
-  - "EX-10.29"
-  - "EX-10.33"
-  - "EX-10.41"
-  - "EX-10.6"
-  - "EX-10.63"
-  - "EX-11.1"
-  - "EX-15.1"
-  - "EX-2"
-  - "EX-3"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "EX-99.4"
-  - "PRE 14A"
-  - "PREM14A"
-  - "PRER14A"
-  - "SC 13D/A"
-  - "SC TO-C"
-  - "SC14D9C"
-  - "SCHEDULE 13G/A"
-opensanctions-status: "sanctioned"
+  - 20-F
+  - 424B3
+  - 6-K
+  - 6-K/A
+  - DEFM14A
+  - EX-1
+  - EX-10.1
+  - EX-10.11
+  - EX-10.12
+  - EX-10.15
+  - EX-10.17
+  - EX-10.2
+  - EX-10.22
+  - EX-10.26
+  - EX-10.27
+  - EX-10.29
+  - EX-10.33
+  - EX-10.41
+  - EX-10.6
+  - EX-10.63
+  - EX-11.1
+  - EX-15.1
+  - EX-2
+  - EX-3
+  - EX-99.1
+  - EX-99.2
+  - EX-99.4
+  - PRE 14A
+  - PREM14A
+  - PRER14A
+  - SC 13D/A
+  - SC TO-C
+  - SC14D9C
+  - SCHEDULE 13G/A
+opensanctions-status: sanctioned
 opensanctions-matches: 1
 opensanctions-datasets:
-  - "eu_esma_saris"
+  - eu_esma_saris
 federal-awards-total: 43
 federal-contracts-count: 0
 federal-grants-count: 1
 cross-vault-triangulation-count: 8
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 5
-epa-states: "CA, CO, FL, MA"
+epa-states: CA, CO, FL, MA
 federal-contracts: 1
 employee-contributions: 1366
 employee-contributions-total: 215904
 employee-donor-count: 311
+politicians-funded: "[[_Josh Hawley Master Profile]], [[Working Families Party PAC]], [[_Daniel Webster Master Profile]], [[_Maria Elvira Salazar Master Profile]], [[The Lincoln Project]], [[_Jon Ossoff Master Profile]], [[Emily's List]], [[NRSC - National Republican Senatorial Committee]], [[MAGA Inc]], [[314 ACTION FUND]], [[REPUBLICAN PARTY OF FLORIDA]], [[_Tammy Baldwin Master Profile]], [[WinRed]], [[ActBlue]], [[NRCC - National Republican Congressional Committee]], [[_Nellie Pou Master Profile]], [[Chris Christie]], [[_Derek Schmidt Master Profile]], [[Bob Casey]], [[Elbert Guillory's America]], [[RNC - Republican National Committee]], [[_Jamie Raskin Master Profile]], [[_David Rouzer Master Profile]], [[MoveOn.org Political Action]], [[Mark Kelly]], [[_Donna Miller Master Profile]], [[_Pete Sessions Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Lamonica McIver Master Profile]], [[_Emily Randall Master Profile]], [[Barbara Lee]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Cory Booker Master Profile]], [[_Doug Burgum Master Profile]], [[_Michael Waltz Master Profile]], [[_Marco Rubio Master Profile]], [[_Shontel Brown Master Profile]], [[_Tim Scott Master Profile]], [[WinSenate]], [[_Rashida Tlaib Master Profile]], [[_Mark Harris Master Profile]], [[_Bonnie Watson Coleman Master Profile]], [[JUSTICE DEMOCRATS PAC]], [[David Rouzer]], [[Shontel Brown]], [[Emily Randall]], [[Michael Waltz]], [[Cory Booker]], [[Marco Rubio]], [[Lamonica McIver]], [[Rashida Tlaib]], [[Maria Elvira Salazar]], [[Pete Sessions]], [[Josh Hawley]], [[Derek Schmidt]], [[Doug Burgum]], [[Bonnie Watson Coleman]], [[Daniel Webster]], [[Jamie Raskin]], [[Mark Harris]], [[Jon Ossoff]], [[Tammy Baldwin]], [[Tim Scott]], [[Donna Miller]], [[Nellie Pou]]"
 ---
 
 

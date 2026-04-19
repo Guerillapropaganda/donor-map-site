@@ -48,7 +48,7 @@ opposes:
   - DMFI PAC
   - Marathon Petroleum
   - Koch Network
-donors: "[[Wfp Ie Committee]], [[Law Enforcement for a Safer America Pac]], [[Honoring American Law Enforcement Pac]], [[MOVEON.ORG POLITICAL ACTION]], [[FRIENDS OF THE EARTH (ACTION) INC]], [[Friends of the Earth (action) INC]], [[MoveOn.org Political Action]]"
+donors: "[[Wfp Ie Committee]], [[Law Enforcement for a Safer America Pac]], [[Honoring American Law Enforcement Pac]], [[MOVEON.ORG POLITICAL ACTION]], [[FRIENDS OF THE EARTH (ACTION) INC]], [[Friends of the Earth (action) INC]], [[MoveOn.org Political Action]], [[NEA Fund for Children and Public Education]], [[National Nurses United]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Planned Parenthood Votes]], [[National Association of Realtors]], [[Congressional Progressive Caucus PAC]], [[Working Families Party PAC]], [[JUSTICE DEMOCRATS PAC]], [[SEIU COPE]], [[Sierra Club Political Committee]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Teamsters - International Brotherhood of Teamsters]], [[Courage to Change PAC]], [[Progressive Turnout Project]], [[Let America Vote PAC]], [[Sierra Club Independent Action]], [[Unite Here Tip Campaign Committee]], [[Medicare for All - The Policy That Broke the Party]], [[Emgage Federal Political Action Committee]], [[Drain the DC Swamp PAC]], [[Demand Justice]], [[Ford Motor Company]], [[Google - Alphabet]], [[Oracle]], [[Lyft]], [[Centene Corporation]], [[Apple]], [[Verizon]], [[Airbnb]], [[Amazon]], [[Walmart]], [[General Motors]], [[L3 Technologies]], [[Microsoft]], [[Raytheon (RTX Corporation)]], [[Northrop Grumman]], [[Nvidia]], [[Boeing]], [[Meta - Facebook]], [[AT&T]], [[McDonalds Corporation]], [[SEIU - Service Employees International Union]], [[Kaiser Permanente]], [[Johnson & Johnson]], [[Hospital Corporation of America - HCA]], [[UAW - United Auto Workers]], [[L3Harris Technologies]], [[CVS Health - Aetna]], [[Pfizer Inc.]], [[Novo Nordisk]], [[UnitedHealth Group - Optum]], [[Monsanto - Bayer]], [[CNA - California Nurses Association]], [[UPS]], [[Amgen Inc]], [[Bank of America]], [[Citigroup]], [[Anthem - Elevance Health Political Operation]], [[Lockheed Martin]], [[BlackRock]], [[Chevron]], [[BAE Systems]], [[Morgan Stanley]], [[Tesla - Elon Musk Political Operation]], [[TikTok - ByteDance]], [[Uber]], [[Palantir Technologies]], [[Blue Cross Blue Shield Association]], [[UNITE HERE]], [[AbbVie]], [[CBRE Group]], [[Bechtel Corporation]], [[Comcast - NBCUniversal]], [[Wells Fargo]], [[MassMutual]], [[JPMorgan Chase]], [[Blackstone Group]], [[ActBlue]], [[ExxonMobil]]"
 editorial-review-date: "2026-04-10"
 editorial-reviewer: Research Claude
 editorial-result: verified-candidate
@@ -67,8 +67,8 @@ wikipedia-url: https://en.wikipedia.org/wiki/Rashida_Tlaib
 wikipedia-extract: Rashida Harbi Tlaib is an American lawyer and politician serving as a U.S. representative from Michigan since 2019, representing the state's 12th congressional district since 2023.
 born: "1976-07-24"
 bills-enacted: 1
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "Health"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: Health
 ---
 
 

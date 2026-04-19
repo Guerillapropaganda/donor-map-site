@@ -2,12 +2,12 @@
 title: Kaiser Permanente
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 2
 parent: null
 sector: Healthcare
 entity-type: Corporation
-politicians-funded: "[[Nancy Pelosi]], [[Gavin Newsom]]"
+politicians-funded: "[[Nancy Pelosi]], [[Gavin Newsom]], [[Indivisible Action]], [[DCCC - Democratic Congressional Campaign Committee]], [[Mad Dog PAC]], [[_Nancy Pelosi Master Profile]], [[_Mark Takano Master Profile]], [[WinSenate]], [[NRSC - National Republican Senatorial Committee]], [[_Ted Cruz Master Profile]], [[_Summer Lee Master Profile]], [[SPECIAL OPERATIONS FOR AMERICA]], [[Club for Growth]], [[DSCC - Democratic Senatorial Campaign Committee]], [[PLANNED PARENTHOOD ACTION FUND OF THE PACIFIC SOUTHWEST PAC]], [[RNC - Republican National Committee]], [[Hmp]], [[Human Rights Campaign Equality Votes]], [[VOTER PROTECTION PROJECT]], [[_Joe Neguse Master Profile]], [[FreedomWorks for America]], [[Courage California Super Pac]], [[Marianne Williamson]], [[Let America Vote PAC]], [[_Mark DeSaulnier Master Profile]], [[Barbara Lee]], [[_Thomas Massie Master Profile]], [[_Mike Levin Master Profile]], [[_Rashida Tlaib Master Profile]], [[_Lois Frankel Master Profile]], [[PRIORITIES USA ACTION]], [[_Marco Rubio Master Profile]], [[Medicare for All - The Policy That Broke the Party]], [[_Alex Padilla Master Profile]], [[Progressive Turnout Project]], [[AIPAC - American Israel Public Affairs Committee]], [[_Martin Heinrich Master Profile]], [[_Mike Thompson Master Profile]], [[WinRed]], [[American Conservative Union]], [[The Lincoln Project]], [[Madison Project Inc.]], [[Activate America]], [[_Jon Ossoff Master Profile]], [[314 ACTION FUND]], [[Giffords PAC]], [[Mark Kelly]], [[CHC BOLD PAC]], [[Republican Jewish Coalition]], [[Campaign for Working Families]], [[ActBlue]], [[_Vicente Gonzalez Master Profile]], [[American Hospital Association PAC]], [[Senate Conservatives Fund]], [[Law Enforcement for a Safer America Pac]], [[JUSTICE DEMOCRATS PAC]], [[_Young Kim Master Profile]], [[Votevets]], [[_Tammy Baldwin Master Profile]], [[_Laura Friedman Master Profile]], [[_Josh Harder Master Profile]], [[NRCC - National Republican Congressional Committee]], [[_Josh Hawley Master Profile]], [[_Cory Booker Master Profile]], [[National Right to Life Victory Fund]], [[_Ron Johnson Master Profile]], [[Really American Pac]], [[Chris Christie]], [[_Julia Brownley Master Profile]], [[_Josh Riley Master Profile]], [[Catherine Cortez Masto]], [[DMFI - Democratic Majority for Israel]], [[Equality California Votes]], [[MoveOn.org Political Action]], [[League of Conservation Voters]], [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]], [[Emily's List]], [[_Dave Min Master Profile]], [[Save America PAC]], [[_Jamie Raskin Master Profile]], [[_Robert Garcia Master Profile]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Bob Casey]], [[Congressional Progressive Caucus PAC]], [[_Kamala Harris Master Profile]], [[_Tim Scott Master Profile]], [[_Angie Craig Master Profile]], [[DNC - Democratic National Committee]], [[_George Whitesides Master Profile]], [[_Pete Aguilar Master Profile]], [[Ruralvote.org]], [[_Kevin Mullin Master Profile]], [[_Gabe Vasquez Master Profile]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[Club for Growth INC PAC]], [[_Kweisi Mfume Master Profile]], [[J Street]], [[MAGA Inc]], [[_Vince Fong Master Profile]], [[_Ted Budd Master Profile]], [[_Judy Chu Master Profile]], [[National Rifle Association]], [[Planned Parenthood Action Fund INC]], [[_Susie Lee Master Profile]], [[Everytown for Gun Safety]], [[One Nation United]], [[_Derek Tran Master Profile]], [[_Ted Lieu Master Profile]], [[_Jim Costa Master Profile]], [[_Elissa Slotkin Master Profile]], [[Democratic Party of Virginia]], [[_Cori Bush Master Profile]], [[_John James Master Profile]], [[_David Scott Master Profile]], [[_Jimmy Gomez Master Profile]], [[_Kevin Kiley Master Profile]], [[_Julie Johnson Master Profile]], [[_Tom Barrett Master Profile]], [[_Andre Carson Master Profile]], [[Freedom's Defense Fund]], [[_Jake Auchincloss Master Profile]], [[_Adam Gray Master Profile]], [[Women Speak Out Pac]], [[_Jason Crow Master Profile]], [[National Nurses United]], [[_Lauren Underwood Master Profile]], [[Everytown for Gun Safety Victory Fund]], [[Trump Victory]], [[_Jim Jordan Master Profile]], [[Planned Parenthood Votes]], [[SLF PAC]], [[_Hilda Solis Master Profile]], [[Alex Padilla]], [[Jon Ossoff]], [[Gabe Vasquez]], [[Kamala Harris]], [[Cori Bush]], [[Laura Friedman]], [[Susie Lee]], [[Joe Neguse]], [[Mark DeSaulnier]], [[Jason Crow]], [[Tim Scott]], [[Kweisi Mfume]], [[Josh Riley]], [[Jim Jordan]], [[Marco Rubio]], [[Tammy Baldwin]], [[Mike Thompson]], [[Josh Harder]], [[Vicente Gonzalez]], [[Mark Takano]], [[Mike Levin]], [[Kevin Kiley]], [[Rashida Tlaib]], [[Elissa Slotkin]], [[Martin Heinrich]], [[George Whitesides]], [[Pete Aguilar]], [[Judy Chu]], [[Ted Cruz]], [[Cory Booker]], [[Jamie Raskin]], [[Tom Barrett]], [[Julia Brownley]], [[Dave Min]], [[Robert Garcia]], [[Julie Johnson]], [[Ron Johnson]], [[Ted Lieu]], [[Jim Costa]], [[Summer Lee]], [[David Scott]], [[Derek Tran]], [[Angie Craig]], [[Lauren Underwood]], [[Lois Frankel]], [[Young Kim]], [[Thomas Massie]], [[Vince Fong]], [[Kevin Mullin]], [[Jake Auchincloss]], [[Hilda Solis]], [[Jimmy Gomez]], [[John James]], [[Josh Hawley]], [[Adam Gray]], [[Ted Budd]], [[Andre Carson]]"
 issues:
   - Healthcare
 subawards-issued: 50
@@ -42,7 +42,7 @@ cross-vault-triangulation-count: 21
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
 epa-facilities: 113
-epa-states: "CA, CO, NY, OH, VA, WA"
+epa-states: CA, CO, NY, OH, VA, WA
 employee-contributions: 55620
 employee-contributions-total: 4764316
 employee-donor-count: 6869
@@ -315,3 +315,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/943382057/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/943382057/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/943382057/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $22.3M |
+| Total expenses | — |
+| Total assets (EOY) | $28.9M |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

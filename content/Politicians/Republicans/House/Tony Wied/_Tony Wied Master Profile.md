@@ -1,33 +1,34 @@
 ---
-title: "Tony Wied"
+title: Tony Wied
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Wisconsin"
-state-abbr: "WI"
+party: Republican
+chamber: House
+state: Wisconsin
+state-abbr: WI
 district: "8"
-bioguide-id: "W000829"
+bioguide-id: W000829
 govtrack-id: 456963
 born: "1976-05-03"
-wikidata-id: "Q131033476"
-website: "https://wied.house.gov"
-phone: "202-225-5665"
+wikidata-id: Q131033476
+website: https://wied.house.gov
+phone: 202-225-5665
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H4WI08119"
+fec-candidate-id: H4WI08119
 bills-sponsored: 0
 bills-cosponsored: 5
 bills-enacted: 0
-top-policy-area: "Taxation"
+top-policy-area: Taxation
+top-donors: "[[National Restaurant Association]], [[AT&T - WarnerMedia]], [[National Cattlemen's Beef Association]], [[Walmart - Walton Family]], [[Troy Downing]], [[General Dynamics]], [[David Rouzer]], [[Mike Haridopolos]], [[Chevron]], [[MAJORITY PAC]], [[National Association of Realtors]], [[Lockheed Martin]], [[AIPAC - American Israel Public Affairs Committee]], [[National Rifle Association]], [[Austin Scott]], [[Jim Jordan]], [[Honeywell]], [[Associated General Contractors of America Political Action Committee]], [[Leidos]], [[National Right to Life Victory Fund]], [[Bradley Foundation]], [[Blackstone Group]], [[SpaceX]], [[CVS Health - Aetna]], [[Charles Schwab]]"
 ---
 
 

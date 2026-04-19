@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Agriculture
 entity-type: Corporation
-politicians-funded: "[[Dick Durbin]]"
+politicians-funded: "[[Dick Durbin]], [[Mariannette Miller-Meeks]], [[ADM - Archer Daniels Midland]], [[_Kevin Kiley Master Profile]], [[Eric Sorensen]], [[RNC - Republican National Committee]], [[ActBlue]], [[WinRed]], [[Roger Wicker]], [[Frank Lucas]], [[Glenn Thompson]], [[John Thune]], [[Mark Kelly]], [[Eric Schmitt]], [[Paul Tonko]], [[WinSenate]], [[Trump Victory]], [[_Christian D. Menefee Master Profile]], [[_Ron Johnson Master Profile]], [[Dusty Johnson]], [[James Comer]], [[Shelley Moore Capito]], [[Darin Lahood]], [[David Scott]], [[_Brian Jack Master Profile]], [[Save America PAC]], [[Rick Larsen]], [[Tom Cole]], [[The Lincoln Project]], [[Nikki Budzinski]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Tracey Mann]], [[_Angie Craig Master Profile]], [[_John James Master Profile]], [[Tammy Baldwin]], [[_Cory Booker Master Profile]], [[Jim Costa]], [[Rudy Yakym]], [[Jason Smith]], [[Dan Newhouse]], [[Joni Ernst]], [[Richard Neal]], [[Bill Hagerty]], [[DCCC - Democratic Congressional Campaign Committee]], [[Jerry Moran]], [[Sharice Davids]], [[John Hoeven]], [[Mike Flood]], [[CHC BOLD PAC]], [[Michelle Fischbach]], [[Deb Fischer]], [[Pete Ricketts]], [[Rick Crawford]], [[Sherrod Brown]], [[Shontel Brown]], [[_Ben Cline Master Profile]], [[Tammy Duckworth]], [[Sam Graves]], [[Cathy McMorris Rodgers]], [[John Garamendi]], [[Ron Estes]], [[Mark Alford]], [[Roger Marshall]], [[_Michael Waltz Master Profile]], [[MAGA Inc]], [[Marcy Kaptur]], [[Julie Fedorchak]], [[Wesley Bell]], [[Mark Green]], [[Steve Cohen]], [[_Marco Rubio Master Profile]], [[David Rouzer]], [[Adrian Smith]], [[Ashley Hinson]], [[Lauren Underwood]], [[Maria Elvira Salazar]], [[NRCC - National Republican Congressional Committee]], [[Brad Finstad]], [[Brian Mast]], [[NRSC - National Republican Senatorial Committee]], [[Derrick van Orden]], [[Steve Scalise]], [[Frank Pallone]], [[John James]], [[Marco Rubio]], [[Angie Craig]], [[Christian D. Menefee]], [[Ben Cline]], [[Michael Waltz]], [[Brian Jack]], [[Kevin Kiley]], [[Cory Booker]], [[Ron Johnson]]"
 issues:
   - Agriculture
 lobbying-spend: 2101600
@@ -47,7 +47,7 @@ sec-form-types:
   - N-PX/A
   - SCHEDULE 13G/A
 epa-facilities: 69
-epa-states: "AL, AR, CA, CO, FL, IA, IL, IN, KS, LA, MI, MN, MO, NC, ND, NE, NJ, SC, TN, TX, WI"
+epa-states: AL, AR, CA, CO, FL, IA, IL, IN, KS, LA, MI, MN, MO, NC, ND, NE, NJ, SC, TN, TX, WI
 total-raised: 148414
 total-spent: 122810
 cash-on-hand: 83436

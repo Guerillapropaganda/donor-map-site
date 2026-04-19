@@ -1,33 +1,34 @@
 ---
-title: "Suzanne Bonamici"
+title: Suzanne Bonamici
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Oregon"
-state-abbr: "OR"
+party: Democrat
+chamber: House
+state: Oregon
+state-abbr: OR
 district: "1"
-bioguide-id: "B001278"
+bioguide-id: B001278
 govtrack-id: 412501
 born: "1954-10-14"
-wikidata-id: "Q45946"
-website: "https://bonamici.house.gov"
-phone: "202-225-0855"
+wikidata-id: Q45946
+website: https://bonamici.house.gov
+phone: 202-225-0855
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H2OR01133"
+fec-candidate-id: H2OR01133
 bills-sponsored: 71
 bills-cosponsored: 730
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Progressive Turnout Project]], [[Sierra Club Political Committee]], [[National Association of Realtors]], [[National Committee to Preserve Social Security PAC]], [[Associated General Contractors of America Political Action Committee]], [[NEA Fund for Children and Public Education]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Walmart - Walton Family]], [[McDonalds Corporation]], [[Teamsters - International Brotherhood of Teamsters]], [[ENVIRONMENT AMERICA INC]], [[SEIU COPE]], [[Amgen Inc]], [[Comcast - NBCUniversal]], [[Lockheed Martin]], [[Honeywell]], [[Google - Alphabet]], [[IBEW - International Brotherhood of Electrical Workers]], [[Northrop Grumman]], [[Planned Parenthood Votes]], [[Raytheon (RTX)]], [[Pfizer Inc.]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[League of Conservation Voters]], [[AIPAC - American Israel Public Affairs Committee]], [[Microsoft]], [[Leidos]], [[Sierra Club Independent Action]], [[Medicare for All - The Policy That Broke the Party]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[J Street]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[AT&T - WarnerMedia]], [[American Hospital Association PAC]]"
 ---
 
 

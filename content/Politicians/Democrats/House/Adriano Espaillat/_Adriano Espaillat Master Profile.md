@@ -1,33 +1,34 @@
 ---
-title: "Adriano Espaillat"
+title: Adriano Espaillat
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "New York"
-state-abbr: "NY"
+party: Democrat
+chamber: House
+state: New York
+state-abbr: NY
 district: "13"
-bioguide-id: "E000297"
+bioguide-id: E000297
 govtrack-id: 412718
 born: "1954-09-27"
-wikidata-id: "Q4685569"
-website: "https://espaillat.house.gov"
-phone: "202-225-4365"
+wikidata-id: Q4685569
+website: https://espaillat.house.gov
+phone: 202-225-4365
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H2NY13096"
+fec-candidate-id: H2NY13096
 bills-sponsored: 59
 bills-cosponsored: 555
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Comcast - NBCUniversal]], [[UA Political Action Committee]], [[Gilead Sciences]], [[SEIU COPE]], [[Pete Aguilar]], [[General Motors]], [[Planned Parenthood Votes]], [[Microsoft]], [[DMFI - Democratic Majority for Israel]], [[AIPAC - American Israel Public Affairs Committee]], [[Medicare for All - The Policy That Broke the Party]], [[American Hospital Association PAC]], [[Anthem - Elevance Health]], [[CHC BOLD PAC]], [[American Federation of State County & Municipal Employees P E O P L E]], [[National Association of Realtors]], [[Google - Alphabet]], [[League of Conservation Voters]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[iHeartMedia]], [[IBEW - International Brotherhood of Electrical Workers]], [[Unite Here Tip Campaign Committee]], [[Ted Lieu]], [[Sierra Club Independent Action]], [[CVS Health - Aetna]], [[NEA Fund for Children and Public Education]], [[Nancy Pelosi]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Honeywell]], [[Citigroup]], [[DoorDash]], [[Progressive Turnout Project]], [[Everytown for Gun Safety]], [[Anthem - Elevance Health Political Operation]], [[Open Society Foundations]], [[JPMorgan Chase]], [[DNC - Democratic National Committee]], [[Goldman Sachs]], [[Hospital Corporation of America - HCA]], [[Morgan Stanley]], [[Fanjul Family - Florida Crystals]]"
 ---
 
 

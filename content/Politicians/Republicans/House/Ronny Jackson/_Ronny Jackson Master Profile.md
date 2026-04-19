@@ -1,34 +1,34 @@
 ---
-title: "Ronny Jackson"
+title: Ronny Jackson
 type: politician
 content-readiness: raw
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Texas"
-state-abbr: "TX"
+party: Republican
+chamber: House
+state: Texas
+state-abbr: TX
 district: "13"
-bioguide-id: "J000304"
+bioguide-id: J000304
 govtrack-id: 456847
 born: "1967-05-04"
-wikidata-id: "Q47270118"
-website: "https://jackson.house.gov"
-phone: "202-225-3706"
+wikidata-id: Q47270118
+website: https://jackson.house.gov
+phone: 202-225-3706
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
-donors: "[[Western Growers Association]] · [[CA Farm Bureau Federation]]"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
+donors: "[[Western Growers Association]] · [[CA Farm Bureau Federation]] · [[Walmart - Walton Family]] · [[Occidental Petroleum]] · [[National Cattlemen's Beef Association]] · [[Freedom's Defense Fund]] · [[WinRed]] · [[BAE Systems]] · [[National Rifle Association]] · [[National Association of Realtors]] · [[Jim Jordan]] · [[American College of Radiology Association PAC]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Raytheon (RTX)]] · [[Chevron]] · [[L3Harris Technologies]] · [[Valero Energy]] · [[General Dynamics]] · [[Jason Smith]] · [[Lockheed Martin]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[Save America PAC]] · [[AT&T - WarnerMedia]] · [[Care Action]] · [[Marathon Petroleum]] · [[NORPAC]] · [[Tyson Foods]] · [[National Victory Action Fund]] · [[MAJORITY PAC]] · [[Honeywell]] · [[Comcast - NBCUniversal]] · [[David Rouzer]] · [[National Restaurant Association]]"
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H0TX13228"
+fec-candidate-id: H0TX13228
 bills-sponsored: 27
 bills-cosponsored: 352
 bills-enacted: 0
-top-policy-area: "International Affairs"
+top-policy-area: International Affairs
 ---
 
 

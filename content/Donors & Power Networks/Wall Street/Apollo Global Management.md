@@ -2,12 +2,12 @@
 title: Apollo Global Management
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Wall Street
 entity-type: Corporation
-politicians-funded: "[[Mike Lee]], [[Virginia Foxx]]"
+politicians-funded: "[[Mike Lee]], [[Virginia Foxx]], [[Mark Kelly]], [[Bob Casey]], [[_Jason Smith Master Profile]], [[ActBlue]], [[Texans for a Conservative Majority]], [[_Cory Booker Master Profile]], [[_Yassamin Ansari Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Catherine Cortez Masto]], [[_Tim Scott Master Profile]], [[_George Latimer Master Profile]], [[_Jake Auchincloss Master Profile]], [[SLF PAC]], [[_Dwight Evans Master Profile]], [[WinRed]], [[Congressional Leadership Fund]], [[_Jimmy Panetta Master Profile]], [[_Josh Harder Master Profile]], [[AIPAC - American Israel Public Affairs Committee]], [[_Pete Ricketts Master Profile]], [[_Andy Barr Master Profile]], [[_Vicente Gonzalez Master Profile]], [[_Susie Lee Master Profile]], [[NORPAC]], [[_Virginia Foxx Master Profile]], [[_Aaron Bean Master Profile]], [[Giffords PAC]], [[Club for Growth]], [[_Adrian Smith Master Profile]], [[Opportunity Matters Fund]], [[_Donald Norcross Master Profile]], [[_Ted Budd Master Profile]], [[_Patrick Ryan Master Profile]], [[_Young Kim Master Profile]], [[_Troy Downing Master Profile]], [[_Alex Padilla Master Profile]], [[_Jon Ossoff Master Profile]], [[_Lisa Blunt Rochester Master Profile]], [[_Ann Wagner Master Profile]], [[Alabama Christian Conservatives]], [[United Democracy Project - UDP]], [[WinSenate]], [[_Melissa Bean Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[FreedomWorks for America]], [[_Ted Cruz Master Profile]], [[_John James Master Profile]], [[_Pete Aguilar Master Profile]], [[NRCC - National Republican Congressional Committee]], [[Trump Victory]], [[RNC - Republican National Committee]], [[_Mike Flood Master Profile]], [[_Nancy Pelosi Master Profile]], [[_Bill Foster Master Profile]], [[Andy Barr]], [[Alex Padilla]], [[Josh Harder]], [[Pete Ricketts]], [[Jake Auchincloss]], [[Mike Flood]], [[George Latimer]], [[Melissa Bean]], [[Jimmy Panetta]], [[Tim Scott]], [[Cory Booker]], [[Patrick Ryan]], [[Jason Smith]], [[Ted Cruz]], [[Bill Foster]], [[Dwight Evans]], [[Jon Ossoff]], [[Vicente Gonzalez]], [[Troy Downing]], [[Donald Norcross]], [[Susie Lee]], [[Aaron Bean]], [[Yassamin Ansari]], [[Lisa Blunt Rochester]], [[Pete Aguilar]], [[Nancy Pelosi]], [[John James]], [[Young Kim]], [[Ann Wagner]], [[Ted Budd]], [[Adrian Smith]]"
 issues:
   - Wall Street & Finance
   - Healthcare
@@ -16,7 +16,7 @@ last-enriched: "2026-04-18"
 needs-reenrichment: true
 reenrich-reason: run lda pipeline
 ofac-programs:
-  - "IRAN-EO13846"
+  - IRAN-EO13846
 ein: "815163032"
 nonprofit-status: 501(c)(3)
 total-revenue: 1096673
@@ -280,3 +280,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/815163032/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/815163032/2019)~~ (URL broken, archived by Ops)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Apollo%20Global%20Management%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2017–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $1.1M |
+| Total expenses | — |
+| Total assets (EOY) | $83K |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

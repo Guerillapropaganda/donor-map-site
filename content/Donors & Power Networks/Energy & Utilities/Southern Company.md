@@ -1,55 +1,56 @@
 ---
-title: "Southern Company"
+title: Southern Company
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Energy & Utilities"
-entity-type: "Corporation"
-lei: "549300ZW53G2TUFW5T39"
-lei-jurisdiction: "US-GA"
-lei-parent: "THE SOUTHERN COMPANY"
+sector: Energy & Utilities
+entity-type: Corporation
+lei: 549300ZW53G2TUFW5T39
+lei-jurisdiction: US-GA
+lei-parent: THE SOUTHERN COMPANY
 court-cases: 1227
 last-enriched: "2026-04-09"
 court-jurisdictions:
-  - "Court of Appeals for the Fourth Circuit"
-  - "Court of Appeals for the Ninth Circuit"
-  - "Court of Appeals for the Second Circuit"
-  - "District Court, D. Delaware"
-  - "District Court, D. Maryland"
-  - "District Court, District of Columbia"
-  - "District Court, N.D. Alabama"
-  - "District Court, N.D. Georgia"
-  - "District Court, S.D. Florida"
-  - "District Court, S.D. Georgia"
+  - Court of Appeals for the Fourth Circuit
+  - Court of Appeals for the Ninth Circuit
+  - Court of Appeals for the Second Circuit
+  - District Court, D. Delaware
+  - District Court, D. Maryland
+  - District Court, District of Columbia
+  - District Court, N.D. Alabama
+  - District Court, N.D. Georgia
+  - District Court, S.D. Florida
+  - District Court, S.D. Georgia
 ein: "300749713"
-annual-revenue: "$1.6M"
-net-assets: "$104.5M"
+annual-revenue: $1.6M
+net-assets: $104.5M
 tax-year: "2023"
 federal-register-mentions: 1579
 regulatory-agencies:
-  - "Energy Department"
-  - "Environmental Protection Agency"
-  - "Federal Communications Commission"
-  - "Federal Energy Regulatory Commission"
-  - "Labor Department"
-  - "Veterans Employment and Training Service"
+  - Energy Department
+  - Environmental Protection Agency
+  - Federal Communications Commission
+  - Federal Energy Regulatory Commission
+  - Labor Department
+  - Veterans Employment and Training Service
 related: "[[Duke Energy]] · [[NextEra Energy]] · [[Koch Industries]] · [[US Chamber of Commerce]] · [[Valero Energy]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[Marathon Petroleum]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]] · [[Instacart]] · [[Flex Association]] · [[Airbnb]] · [[Lyft]] · [[Uber]] · [[UnitedHealth Group - Optum]] · [[Johnson & Johnson]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[Humana]] · [[Hospital Corporation of America - HCA]] · [[Civica Rx]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Blue Cross Blue Shield Association]] · [[Anthem - Elevance Health Political Operation]] · [[DoorDash]] · [[Hawaiian Electric Company]] · [[Halliburton]] · [[Fossil Fuel Bloc]] · [[ExxonMobil]] · [[Devon Energy]] · [[ConocoPhillips]] · [[Chevron]] · [[Eli Broad Foundation]]"
-top-federal-agency: "General Services Administration"
+top-federal-agency: General Services Administration
 top-naics-code: "221210"
 lobbying-spend: 26933250
 lobbying-filings: 105
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 total-revenue: 426162
 total-assets: 98362
 cross-vault-triangulation-count: 7
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 6
-epa-states: "AL, CA, GA, LA, TX"
+epa-states: AL, CA, GA, LA, TX
 employee-contributions: 1383
 employee-contributions-total: 236470
 employee-donor-count: 278
+politicians-funded: "[[_Ted Cruz Master Profile]], [[RNC - Republican National Committee]], [[_Pete Sessions Master Profile]], [[_Mike Rogers Master Profile]], [[WinRed]], [[DCCC - Democratic Congressional Campaign Committee]], [[NRSC - National Republican Senatorial Committee]], [[ActBlue]], [[_Jared Moskowitz Master Profile]], [[NRCC - National Republican Congressional Committee]], [[MAGA Inc]], [[National Rifle Association]], [[Save America PAC]], [[_Jimmy Panetta Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Ron Johnson Master Profile]], [[_Jon Ossoff Master Profile]], [[_Marco Rubio Master Profile]], [[_Scott Franklin Master Profile]], [[_Darren Soto Master Profile]], [[_Lisa Blunt Rochester Master Profile]], [[_Tammy Baldwin Master Profile]], [[Human Rights Campaign Equality Votes]], [[_John James Master Profile]], [[John James]], [[Ron Johnson]], [[Jon Ossoff]], [[Mike Rogers]], [[Marco Rubio]], [[Ted Cruz]], [[Pete Sessions]], [[Jared Moskowitz]], [[Darren Soto]], [[Jimmy Panetta]], [[Scott Franklin]], [[Tammy Baldwin]], [[Lisa Blunt Rochester]]"
 ---
 
 
@@ -306,3 +307,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/300749713/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/300749713/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/300749713/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 5 (2021–2025)
+
+**Most recent filing (2025):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $416K |
+| Total expenses | — |
+| Total assets (EOY) | $98K |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

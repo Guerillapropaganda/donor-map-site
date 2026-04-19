@@ -142,3 +142,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 - ~~[Bloomberg: Tisch family wealth and business interests](https://www.bloomberg.com/news/articles/tisch-family-loews)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[New York Times: Tisch family political contributions](https://www.nytimes.com/2024/01/tisch-donor-profile.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 4 (2020–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $3.8M |
+| Total expenses | — |
+| Total assets (EOY) | $227.7M |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

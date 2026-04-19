@@ -18,7 +18,7 @@ issues:
   - Agriculture
 total-received: $1,227,441
 fec-candidate-id: H8PA05071
-donors: "[[IBEW - International Brotherhood of Electrical Workers]] · [[Blue Shield of California]] · [[American Gaming Association]] · [[California Farm Bureau Federation]] · [[National Cattlemen's Beef Association]] · [[CA Farm Bureau Federation]] · [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]] · [[CITIZENS FOR RESPONSIBLE ENERGY SOLUTIONS INC.]] · [[PENNSYLVANIA PRO-LIFE FEDERATION PAC]] · [[Pennsylvania Pro-Life Federation PAC]] · [[Citizens for Responsible Energy Solutions Inc.]]"
+donors: "[[IBEW - International Brotherhood of Electrical Workers]] · [[Blue Shield of California]] · [[American Gaming Association]] · [[California Farm Bureau Federation]] · [[National Cattlemen's Beef Association]] · [[CA Farm Bureau Federation]] · [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]] · [[CITIZENS FOR RESPONSIBLE ENERGY SOLUTIONS INC.]] · [[PENNSYLVANIA PRO-LIFE FEDERATION PAC]] · [[Pennsylvania Pro-Life Federation PAC]] · [[Citizens for Responsible Energy Solutions Inc.]] · [[Chevron]] · [[Marathon Petroleum]] · [[Walmart - Walton Family]] · [[ADM - Archer Daniels Midland]] · [[Comcast - NBCUniversal]] · [[Associated General Contractors of America Political Action Committee]] · [[National Restaurant Association]] · [[AIPAC - American Israel Public Affairs Committee]] · [[AT&T - WarnerMedia]] · [[National Rifle Association]] · [[Valero Energy]] · [[National Association of Realtors]] · [[General Dynamics]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Amgen Inc]] · [[Bank of America]] · [[Citigroup]] · [[Drummond Co.]] · [[Jim Jordan]] · [[Morgan Stanley]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[Byron Donalds]] · [[Coinbase]] · [[Jason Smith]] · [[MAJORITY PAC]] · [[American Chemistry Council, INC]] · [[Tyson Foods]] · [[McDonalds Corporation]] · [[WinRed]] · [[Lockheed Martin]] · [[American Hospital Association PAC]] · [[Hunter Action Fund (haf)]] · [[PG&E - Pacific Gas and Electric]]"
 related: "[[John Boozman]] · [[_Donald Trump Master Profile|Trump]]"
 total-raised: $1,227,441
 total-spent: $1,152,094
@@ -32,7 +32,7 @@ urls-first-triaged: "2026-04-15"
 bills-sponsored: 32
 bills-cosponsored: 310
 bills-enacted: 1
-top-policy-area: "Health"
+top-policy-area: Health
 ---
 
 

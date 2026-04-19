@@ -1,34 +1,34 @@
 ---
-title: "Young Kim"
+title: Young Kim
 type: politician
 content-readiness: raw
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "California"
-state-abbr: "CA"
+party: Republican
+chamber: House
+state: California
+state-abbr: CA
 district: "40"
-bioguide-id: "K000397"
+bioguide-id: K000397
 govtrack-id: 456802
 born: "1962-10-18"
-wikidata-id: "Q19662859"
-website: "https://youngkim.house.gov"
-phone: "202-225-4111"
+wikidata-id: Q19662859
+website: https://youngkim.house.gov
+phone: 202-225-4111
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
-donors: "[[California Farm Bureau Federation]]"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
+donors: "[[California Farm Bureau Federation]], [[Congressional Leadership Fund]], [[Darrell Issa]], [[Marathon Petroleum]], [[National Association of Realtors]], [[Vern Buchanan]], [[Johnson & Johnson]], [[Austin Scott]], [[Republican Jewish Coalition]], [[AT&T - WarnerMedia]], [[Bank of America]], [[Honeywell]], [[National Multifamily Housing Council]], [[PG&E - Pacific Gas and Electric]], [[Google - Alphabet]], [[Chevron]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Byron Donalds]], [[Anthem - Elevance Health]], [[NextEra Energy]], [[Northrop Grumman]], [[Daniel Webster]], [[AIPAC - American Israel Public Affairs Committee]], [[Citigroup]], [[Jake Ellzey]], [[Jim Jordan]], [[Care Action]], [[Andy Harris]], [[Mike Haridopolos]], [[United We Can]], [[Ben Cline]], [[Morgan Stanley]], [[Comcast - NBCUniversal]], [[Tzedek PAC]], [[314 ACTION FUND]], [[Amgen Inc]], [[Glenn Grothman]], [[Associated General Contractors of America Political Action Committee]], [[Valero Energy]], [[Ford Motor Company]], [[VIEW PAC - Value in Electing Women]], [[National Rifle Association]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AbbVie]], [[Victoria Spartz]], [[National Victory Action Fund]], [[American Hospital Association PAC]], [[Walmart - Walton Family]], [[Planned Parenthood Votes]], [[Lockheed Martin]], [[MAJORITY PAC]], [[Michael Waltz]], [[NRCC - National Republican Congressional Committee]], [[Freedom's Defense Fund]], [[National Restaurant Association]], [[McDonalds Corporation]], [[David Rouzer]], [[Cooperative of American Physicians Independent Expenditure Committee]], [[Humana]], [[Pete Sessions]], [[Fairshake PAC - Crypto Super PAC]], [[Adrian Smith]], [[August Pfluger]], [[General Motors]], [[Jason Smith]], [[Performance Racing Inc.]], [[Americans for Prosperity]], [[Activate America]], [[Halliburton]], [[Airbnb]], [[Ron Estes]], [[Raytheon (RTX)]], [[Opportunity Matters Fund]], [[Microsoft]], [[Carlos Gimenez]], [[Humane Society Legislative Fund]], [[Brad Knott]], [[Leidos]], [[General Dynamics]], [[Rick W. Allen]], [[Duke Energy]], [[Coinbase]], [[WinRed]], [[Women Speak Out Pac]], [[Cliff Bentz]], [[National Right to Life Victory Fund]], [[Charles Schwab]], [[Boeing]], [[Goldman Sachs]], [[Raytheon (RTX Corporation)]], [[Citadel - Kenneth Griffin]], [[CBRE Group]], [[New Venture Fund]], [[UPS]], [[UnitedHealth Group - Optum]], [[Pfizer Inc.]], [[BAE Systems]], [[Elliott Management]], [[Oracle]], [[Apple]], [[Amazon]], [[Walmart]], [[Meta - Facebook]], [[Las Vegas Sands]], [[Anduril Industries]], [[Blackstone Group]], [[Kaiser Permanente]], [[Booz Allen Hamilton]], [[ExxonMobil]], [[Apollo Global Management]], [[Fidelity Investments]], [[Wells Fargo]], [[Walt Disney Company]]"
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H8CA39240"
+fec-candidate-id: H8CA39240
 bills-sponsored: 39
 bills-cosponsored: 324
 bills-enacted: 1
-top-policy-area: "International Affairs"
+top-policy-area: International Affairs
 ---
 
 

@@ -1,30 +1,30 @@
 ---
-title: "Sarah Elfreth"
+title: Sarah Elfreth
 type: politician
 content-readiness: raw
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Maryland"
-state-abbr: "MD"
+party: Democrat
+chamber: House
+state: Maryland
+state-abbr: MD
 district: "3"
-bioguide-id: "E000301"
+bioguide-id: E000301
 govtrack-id: 456992
 born: "1988-09-09"
-wikidata-id: "Q61970401"
-website: "https://elfreth.house.gov"
-phone: "202-225-4016"
+wikidata-id: Q61970401
+website: https://elfreth.house.gov
+phone: 202-225-4016
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
-donors: "[[United Democracy Project - UDP]]"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
+donors: "[[United Democracy Project - UDP]], [[NEA Fund for Children and Public Education]], [[NextEra Energy]], [[Northrop Grumman]], [[American Hospital Association PAC]], [[Anthem - Elevance Health]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Teamsters - International Brotherhood of Teamsters]], [[Lockheed Martin]], [[National Association of Realtors]], [[Leidos]], [[Honeywell]], [[Comcast - NBCUniversal]], [[Pete Aguilar]], [[UA Political Action Committee]], [[Ted Lieu]], [[SEIU COPE]], [[AIPAC - American Israel Public Affairs Committee]], [[IBEW - International Brotherhood of Electrical Workers]], [[General Dynamics]], [[DMFI - Democratic Majority for Israel]], [[National Education Association]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Raytheon (RTX)]], [[L3Harris Technologies]], [[Walmart - Walton Family]], [[League of Conservation Voters]], [[National Restaurant Association]], [[Emily's List]], [[Sierra Club Political Committee]]"
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H4MD03156"
+fec-candidate-id: H4MD03156
 ---
 
 

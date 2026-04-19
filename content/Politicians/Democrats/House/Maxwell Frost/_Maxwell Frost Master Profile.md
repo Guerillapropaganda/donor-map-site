@@ -1,33 +1,34 @@
 ---
-title: "Maxwell Frost"
+title: Maxwell Frost
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Florida"
-state-abbr: "FL"
+party: Democrat
+chamber: House
+state: Florida
+state-abbr: FL
 district: "10"
-bioguide-id: "F000476"
+bioguide-id: F000476
 govtrack-id: 456890
 born: "1997-01-17"
-wikidata-id: "Q113587724"
-website: "https://frost.house.gov"
-phone: "202-225-2176"
+wikidata-id: Q113587724
+website: https://frost.house.gov
+phone: 202-225-2176
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H2FL10259"
+fec-candidate-id: H2FL10259
 bills-sponsored: 20
 bills-cosponsored: 518
 bills-enacted: 1
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[NEA Fund for Children and Public Education]], [[National Nurses United]], [[Sierra Club Independent Action]], [[AT&T - WarnerMedia]], [[Protect Our Future PAC]], [[League of Conservation Voters]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Pete Aguilar]], [[Sierra Club Political Committee]], [[Robert Garcia]], [[IBEW - International Brotherhood of Electrical Workers]], [[Giffords PAC]], [[National Association of Realtors]], [[SEIU COPE]], [[Let America Vote PAC]], [[Walmart - Walton Family]], [[Demand Justice]], [[Jamie Raskin]], [[Working Families Party PAC]], [[Ted Lieu]], [[MoveOn.org Political Action]], [[Unite Here Tip Campaign Committee]], [[Adriano Espaillat]], [[CHC BOLD PAC]], [[Medicare for All - The Policy That Broke the Party]], [[Everytown for Gun Safety]], [[Teamsters - International Brotherhood of Teamsters]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Planned Parenthood Action Fund INC]], [[Congressional Progressive Caucus PAC]]"
 ---
 
 

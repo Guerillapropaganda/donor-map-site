@@ -1,33 +1,34 @@
 ---
-title: "Jake Auchincloss"
+title: Jake Auchincloss
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Massachusetts"
-state-abbr: "MA"
+party: Democrat
+chamber: House
+state: Massachusetts
+state-abbr: MA
 district: "4"
-bioguide-id: "A000148"
+bioguide-id: A000148
 govtrack-id: 456825
 born: "1988-01-29"
-wikidata-id: "Q101196632"
-website: "https://auchincloss.house.gov"
-phone: "202-225-5931"
+wikidata-id: Q101196632
+website: https://auchincloss.house.gov
+phone: 202-225-5931
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H0MA04192"
+fec-candidate-id: H0MA04192
 bills-sponsored: 8
 bills-cosponsored: 265
 bills-enacted: 0
-top-policy-area: "International Affairs"
+top-policy-area: International Affairs
+top-donors: "[[Votevets]], [[Ted Lieu]], [[National Multifamily Housing Council]], [[AIPAC - American Israel Public Affairs Committee]], [[American Federation of State County & Municipal Employees P E O P L E]], [[AT&T - WarnerMedia]], [[American Hospital Association PAC]], [[Teamsters - International Brotherhood of Teamsters]], [[Progressive Turnout Project]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Anthem - Elevance Health]], [[Amgen Inc]], [[UA Political Action Committee]], [[AbbVie]], [[National Association of Realtors]], [[DMFI - Democratic Majority for Israel]], [[NEA Fund for Children and Public Education]], [[Care Action]], [[NORPAC]], [[L3Harris Technologies]], [[Pfizer Inc.]], [[Comcast - NBCUniversal]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Johnson & Johnson]], [[Google - Alphabet]], [[Giffords PAC]], [[American College of Radiology Association PAC]], [[Gilead Sciences]], [[League of Conservation Voters]], [[Walt Disney Company]], [[Bank of America]], [[Meta - Facebook]], [[MassMutual]], [[Apollo Global Management]], [[Merck]], [[Coinbase]], [[Morgan Stanley]], [[Uber]], [[Citadel - Kenneth Griffin]], [[CBRE Group]], [[Palantir Technologies]], [[Apple]], [[UnitedHealth Group - Optum]], [[Amazon]], [[Blackstone Group]], [[a16z - Andreessen Horowitz]], [[Fidelity Investments]], [[Goldman Sachs]], [[Ripple]], [[Microsoft]], [[Leadership Now]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[Kaiser Permanente]], [[Blue Shield of California]], [[Eli Lilly]], [[Moderna]], [[Citigroup]]"
 ---
 
 

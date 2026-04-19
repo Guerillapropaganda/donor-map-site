@@ -2,7 +2,7 @@
 title: America First Policy Institute
 type: donor
 content-readiness: draft
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Dark Money
@@ -25,7 +25,7 @@ nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-09"
 total-revenue: 54851367
 total-assets: 25178547
-politicians-funded: "[[Linda McMahon]]"
+politicians-funded: "[[Linda McMahon]], [[_Daniel Webster Master Profile]], [[WinRed]], [[_Brian Jack Master Profile]], [[MAGA Inc]], [[Wfw Action Fund, Inc.]], [[RNC - Republican National Committee]], [[Winning for Women PAC]], [[Brian Jack]], [[Daniel Webster]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -176,3 +176,32 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/854202763/2023)~~ (URL broken, archived by Ops)
 - ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/854202763/2022)~~ (URL broken, archived by Ops)
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/854202763/2021)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 2 (2022–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $28.7M |
+| Total expenses | — |
+| Total assets (EOY) | $9.9M |
+| Grants paid out | $350K |
+
+**Lifetime grants out (2022–2023):** $350K across 2 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| FOUNDATION FOR GOVERNMENT ACCOUNTABILITY | $250K | 1 | 2023 |
+| NATIONAL FAITH ADVISORY BOARD | $100K | 1 | 2023 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

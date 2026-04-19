@@ -2,12 +2,12 @@
 title: Palantir Technologies
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Mega-Donors
 entity-type: Corporation
-politicians-funded: "[[David Sacks]], [[JD Vance]], [[Donald Trump]], [[David Sacks (Donor Network)]], [[David Sacks - Donor Network]]"
+politicians-funded: "[[David Sacks]], [[JD Vance]], [[Donald Trump]], [[David Sacks (Donor Network)]], [[David Sacks - Donor Network]], [[_Jamie Raskin Master Profile]], [[NRCC - National Republican Congressional Committee]], [[AIPAC - American Israel Public Affairs Committee]], [[Hmp]], [[_Mario Diaz-Balart Master Profile]], [[ActBlue]], [[Palantir]], [[_Rashida Tlaib Master Profile]], [[_Jay Obernolte Master Profile]], [[_Gabe Vasquez Master Profile]], [[_Marco Rubio Master Profile]], [[_Elissa Slotkin Master Profile]], [[_Donald Norcross Master Profile]], [[_Jason Crow Master Profile]], [[_Gabe Amo Master Profile]], [[_Don Bacon Master Profile]], [[Giffords PAC]], [[_Pete Aguilar Master Profile]], [[Mark Kelly]], [[Texans for a Conservative Majority]], [[_Lauren Underwood Master Profile]], [[WinRed]], [[Catherine Cortez Masto]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Josh Riley Master Profile]], [[_Derek Tran Master Profile]], [[_Alex Padilla Master Profile]], [[_Susie Lee Master Profile]], [[MAGA Inc]], [[_Josh Harder Master Profile]], [[Really American Pac]], [[_Bill Foster Master Profile]], [[_Chris Pappas Master Profile]], [[_Mike Levin Master Profile]], [[Emily's List]], [[_Patrick Ryan Master Profile]], [[Defending Main Street Superpac INC]], [[_Veronica Escobar Master Profile]], [[_Diana Degette Master Profile]], [[_Dan Newhouse Master Profile]], [[_George Latimer Master Profile]], [[_Mike Rogers Master Profile]], [[_Dave Min Master Profile]], [[_Jake Ellzey Master Profile]], [[_Adam Gray Master Profile]], [[314 ACTION FUND]], [[DCCC - Democratic Congressional Campaign Committee]], [[WinSenate]], [[_Kamala Harris Master Profile]], [[Let America Vote PAC]], [[_George Whitesides Master Profile]], [[_Nancy Pelosi Master Profile]], [[_Jake Auchincloss Master Profile]], [[_Jon Ossoff Master Profile]], [[_Brian Jack Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[FreedomWorks for America]], [[The Lincoln Project]], [[_Martin Heinrich Master Profile]], [[_Scott Wiener Master Profile]], [[_Debbie Wasserman Schultz Master Profile]], [[Jason Crow]], [[Mario Diaz-Balart]], [[Jon Ossoff]], [[Kamala Harris]], [[Donald Norcross]], [[Jamie Raskin]], [[Derek Tran]], [[Josh Riley]], [[Pete Aguilar]], [[Patrick Ryan]], [[George Whitesides]], [[Lauren Underwood]], [[Jake Auchincloss]], [[Martin Heinrich]], [[Bill Foster]], [[Jake Ellzey]], [[Gabe Amo]], [[Brian Jack]], [[George Latimer]], [[Diana Degette]], [[Mike Rogers]], [[Adam Gray]], [[Debbie Wasserman Schultz]], [[Dave Min]], [[Rashida Tlaib]], [[Scott Wiener]], [[Susie Lee]], [[Marco Rubio]], [[Alex Padilla]], [[Chris Pappas]], [[Elissa Slotkin]], [[Dan Newhouse]], [[Nancy Pelosi]], [[Veronica Escobar]], [[Gabe Vasquez]], [[Josh Harder]], [[Jay Obernolte]], [[Don Bacon]], [[Mike Levin]]"
 issues:
   - Defense & Military
   - Immigration
@@ -56,7 +56,7 @@ wikipedia-extract: Palantir Technologies Inc. is an American publicly traded com
 founded: "2003-00-00"
 cross-vault-triangulation-count: 28
 epa-facilities: 1
-epa-states: "CA"
+epa-states: CA
 federal-contracts: 314
 total-raised: 69135
 total-spent: 78215

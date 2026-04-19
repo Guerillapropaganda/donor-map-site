@@ -1,28 +1,28 @@
 ---
-title: "News Corp - Fox Corporation"
+title: News Corp - Fox Corporation
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Media & Entertainment"
-entity-type: "Corporation"
+sector: Media & Entertainment
+entity-type: Corporation
 subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
-lei: "984500CF6457BDCFAD28"
-lei-jurisdiction: "US-DE"
+lei: 984500CF6457BDCFAD28
+lei-jurisdiction: US-DE
 lobbying-spend: 7016500
 lobbying-filings: 62
 related: "[[Verizon]] · [[Fox News - Murdoch Media Empire]] · [[Megyn Kelly]] · [[Comcast - NBCUniversal]] · [[Walt Disney Company]] · [[AT&T - WarnerMedia]] · [[Trump Media & Technology Group]] · [[iHeartMedia]] · [[Sinclair Broadcast Group]] · [[Tech and Media Donors]] · [[Fox News Pipeline to Power]]"
 ein: "850803187"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-09"
 cross-vault-triangulation-count: 9
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 6
-epa-states: "CA, MN, ND, OH, TX, WI"
+epa-states: CA, MN, ND, OH, TX, WI
 federal-contracts: 37
 federal-awards-total: 1844862
 federal-grants: 27
@@ -30,6 +30,7 @@ federal-grants-total: 775649
 employee-contributions: 2703
 employee-contributions-total: 7024218
 employee-donor-count: 554
+politicians-funded: "[[_Elissa Slotkin Master Profile]], [[_Tim Scott Master Profile]], [[_Mike Levin Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[RNC - Republican National Committee]], [[_Ted Lieu Master Profile]], [[Progressive Turnout Project]], [[NRSC - National Republican Senatorial Committee]], [[_Claudia Tenney Master Profile]], [[The Lincoln Project]], [[ActBlue]], [[_Lauren Underwood Master Profile]], [[_Seth Moulton Master Profile]], [[WinRed]], [[_Debbie Dingell Master Profile]], [[_Lisa Blunt Rochester Master Profile]], [[Emily's List]], [[_Debbie Wasserman Schultz Master Profile]], [[_Alex Padilla Master Profile]], [[Mark Kelly]], [[_Gabe Amo Master Profile]], [[_Jon Ossoff Master Profile]], [[_Jared Moskowitz Master Profile]], [[_Chris Pappas Master Profile]], [[_Tammy Baldwin Master Profile]], [[_Shontel Brown Master Profile]], [[SLF PAC]], [[_Julia Brownley Master Profile]], [[_Cliff Bentz Master Profile]], [[Votevets]], [[_Marco Rubio Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Susie Lee Master Profile]], [[MAGA Inc]], [[Freedom's Defense Fund]], [[_Nancy Pelosi Master Profile]], [[_Dave Min Master Profile]], [[WinSenate]], [[_Kamala Harris Master Profile]], [[REPUBLICAN PARTY OF FLORIDA]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[Human Rights Campaign Equality Votes]], [[_Andre Carson Master Profile]], [[Hmp]], [[_George Whitesides Master Profile]], [[Trump Victory]], [[_Ted Cruz Master Profile]], [[_Kevin Kiley Master Profile]], [[NRCC - National Republican Congressional Committee]], [[_Ann Wagner Master Profile]], [[AIPAC - American Israel Public Affairs Committee]], [[_George Latimer Master Profile]], [[_Jimmy Gomez Master Profile]], [[MoveOn.org Political Action]], [[_Bonnie Watson Coleman Master Profile]], [[Indivisible Action]], [[CHC BOLD PAC]], [[Bob Casey]], [[Mad Dog PAC]], [[_Angie Craig Master Profile]], [[Catherine Cortez Masto]], [[Debbie Dingell]], [[Susie Lee]], [[George Latimer]], [[Ann Wagner]], [[Ted Cruz]], [[Lisa Blunt Rochester]], [[Andre Carson]], [[Debbie Wasserman Schultz]], [[Jimmy Gomez]], [[Kamala Harris]], [[Tammy Baldwin]], [[Gabe Amo]], [[Jon Ossoff]], [[Ted Lieu]], [[Shontel Brown]], [[Seth Moulton]], [[Bonnie Watson Coleman]], [[Chris Pappas]], [[Nancy Pelosi]], [[Elissa Slotkin]], [[Angie Craig]], [[Alex Padilla]], [[Lauren Underwood]], [[Claudia Tenney]], [[Tim Scott]], [[Cliff Bentz]], [[Julia Brownley]], [[Dave Min]], [[Marco Rubio]], [[George Whitesides]], [[Jared Moskowitz]], [[Kevin Kiley]], [[Mike Levin]]"
 ---
 
 

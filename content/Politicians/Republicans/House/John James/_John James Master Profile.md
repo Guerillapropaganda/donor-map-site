@@ -1,37 +1,38 @@
 ---
-title: "John James"
+title: John James
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Michigan"
-state-abbr: "MI"
+party: Republican
+chamber: House
+state: Michigan
+state-abbr: MI
 district: "10"
-bioguide-id: "J000307"
+bioguide-id: J000307
 govtrack-id: 456907
 born: "1981-06-08"
-wikidata-id: "Q56027187"
-website: "https://james.house.gov"
-phone: "202-225-4961"
+wikidata-id: Q56027187
+website: https://james.house.gov
+phone: 202-225-4961
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 ofac-sdn-match: "true"
 last-enriched: "2026-04-12"
 ofac-programs:
-  - "SDGT] [IFSR"
+  - SDGT] [IFSR
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H2MI10150"
+fec-candidate-id: H2MI10150
 bills-sponsored: 36
 bills-cosponsored: 177
 bills-enacted: 0
-top-policy-area: "International Affairs"
+top-policy-area: International Affairs
+top-donors: "[[Andy Harris]], [[Anthem - Elevance Health]], [[Associated General Contractors of America Political Action Committee]], [[Comcast - NBCUniversal]], [[WinRed]], [[Elbert Guillory's America]], [[Austin Scott]], [[Cliff Bentz]], [[Ron Estes]], [[Raytheon (RTX)]], [[Devon Energy]], [[SPECIAL OPERATIONS FOR AMERICA]], [[Lockheed Martin]], [[Americans for Prosperity]], [[Congressional Leadership Fund]], [[Bank of America]], [[Pete Sessions]], [[Hmp]], [[Vern Buchanan]], [[Campaign for Working Families]], [[David Rouzer]], [[American Chemistry Council, INC]], [[National Restaurant Association]], [[Valero Energy]], [[CVS Health - Aetna]], [[Jason Smith]], [[BAE Systems]], [[Performance Racing Inc.]], [[Republican Jewish Coalition]], [[Jim Jordan]], [[Edf Action Votes]], [[Chevron]], [[Marathon Petroleum]], [[National Education Association]], [[Tyson Foods]], [[Glenn Grothman]], [[Pfizer Inc.]], [[Jake Ellzey]], [[Kevin Kiley]], [[General Dynamics]], [[Rick W. Allen]], [[Opportunity Matters Fund]], [[Michael Waltz]], [[Adrian Smith]], [[AbbVie]], [[America PAC - Elon Musk]], [[MAJORITY PAC]], [[Mike Haridopolos]], [[American Hospital Association PAC]], [[Darrell Issa]], [[Byron Donalds]], [[ConocoPhillips]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[McDonalds Corporation]], [[National Multifamily Housing Council]], [[Johnson & Johnson]], [[Google - Alphabet]], [[NRCC - National Republican Congressional Committee]], [[Mark Green]], [[National Cattlemen's Beef Association]], [[General Motors]], [[Ford Motor Company]], [[Hunter Action Fund (haf)]], [[AT&T - WarnerMedia]], [[NORPAC]], [[Walmart - Walton Family]], [[AIPAC - American Israel Public Affairs Committee]], [[NextEra Energy]], [[League of Conservation Voters]], [[Brad Knott]], [[National Association of Realtors]], [[August Pfluger]], [[PG&E - Pacific Gas and Electric]], [[National Rifle Association]], [[Honeywell]], [[Mike Collins]], [[Save America PAC]], [[Ballard Partners]], [[Morgan Stanley]], [[UPS]], [[Verizon]], [[Southern Company]], [[Blackstone Group]], [[Enterprise Products Partners]], [[Humana]], [[Sinclair Broadcast Group]], [[CTA - California Teachers Association]], [[ADM - Archer Daniels Midland]], [[MassMutual]], [[Charles Schwab]], [[Apple]], [[Cigna Group]], [[NRSC - National Republican Senatorial Committee]], [[Citadel - Kenneth Griffin]], [[Amazon]], [[Anthem - Elevance Health Political Operation]], [[Anduril Industries]], [[Oracle]], [[Founders Fund]], [[Booz Allen Hamilton]], [[JPMorgan Chase]], [[iHeartMedia]], [[Meta - Facebook]], [[Wells Fargo]], [[Walmart]], [[Citigroup]], [[Elliott Management]], [[RNC - Republican National Committee]], [[AT&T]], [[Leidos]], [[Microsoft]], [[Eli Lilly]], [[CBRE Group]], [[CalPERS]], [[ExxonMobil]], [[Americas Pac]], [[American Enterprise Institute]], [[Northrop Grumman]], [[Goldman Sachs]], [[Fidelity Investments]], [[Michigan Republican Party]], [[Apollo Global Management]], [[Kaiser Permanente]], [[Raytheon (RTX Corporation)]], [[Amgen Inc]], [[AMERICAN CROSSROADS]], [[Kelcy Warren - Energy Transfer Partners]], [[IBEW Local 440 - Riverside]], [[Boeing]], [[MasTec - Mas Canosa Family]]"
 ---
 
 

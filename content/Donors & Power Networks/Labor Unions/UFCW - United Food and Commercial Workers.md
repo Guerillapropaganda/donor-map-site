@@ -2,12 +2,12 @@
 title: UFCW - United Food and Commercial Workers
 type: donor
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Labor Unions
 entity-type: Individual Donor
-politicians-funded: "[[Katie Porter]], [[Kamala Harris]], [[Gavin Newsom]], [[Elizabeth Warren]]"
+politicians-funded: "[[Katie Porter]], [[Kamala Harris]], [[Gavin Newsom]], [[Elizabeth Warren]], [[DSCC - Democratic Senatorial Campaign Committee]], [[ActBlue]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Jon Ossoff Master Profile]], [[_Dwight Evans Master Profile]], [[Mark Kelly]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[_Jimmy Gomez Master Profile]], [[Let America Vote PAC]], [[_Bill Foster Master Profile]], [[MoveOn.org Political Action]], [[The Lincoln Project]], [[Democratic Party of Virginia]], [[Bob Casey]], [[Bill Foster]], [[Dwight Evans]], [[Jimmy Gomez]], [[Jon Ossoff]]"
 issues:
   - Labor & Workers
 ofac-sdn-match: "true"
@@ -15,7 +15,7 @@ last-enriched: "2026-04-18"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
 ofac-programs:
-  - "RUSSIA-EO14024"
+  - RUSSIA-EO14024
 ein: "201130122"
 annual-revenue: $240.0M
 net-assets: $531.3M
@@ -326,3 +326,23 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: UFC
 Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
 
 - ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_12_2023_prefixes_52-56%2F530220586_202212_990O_2023121222090545.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 5 (2018–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | $40K |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | — |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

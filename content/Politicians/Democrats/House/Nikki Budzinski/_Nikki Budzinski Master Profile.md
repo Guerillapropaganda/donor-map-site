@@ -1,33 +1,34 @@
 ---
-title: "Nikki Budzinski"
+title: Nikki Budzinski
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Illinois"
-state-abbr: "IL"
+party: Democrat
+chamber: House
+state: Illinois
+state-abbr: IL
 district: "13"
-bioguide-id: "B001315"
+bioguide-id: B001315
 govtrack-id: 456901
 born: "1977-03-11"
-wikidata-id: "Q111342337"
-website: "https://budzinski.house.gov"
-phone: "202-225-2371"
+wikidata-id: Q111342337
+website: https://budzinski.house.gov
+phone: 202-225-2371
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H2IL13153"
+fec-candidate-id: H2IL13153
 bills-sponsored: 15
 bills-cosponsored: 479
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Sierra Club Political Committee]], [[CHC BOLD PAC]], [[NextEra Energy]], [[American Chemistry Council, INC]], [[ENVIRONMENT AMERICA INC]], [[J Street]], [[Teamsters - International Brotherhood of Teamsters]], [[Mark Takano]], [[Emily's List]], [[MoveOn.org Political Action]], [[DoorDash]], [[PG&E - Pacific Gas and Electric]], [[AT&T - WarnerMedia]], [[Debbie Dingell]], [[General Dynamics]], [[AFL-CIO]], [[National Wildlife Federation Action Fund]], [[National Association of Realtors]], [[Google - Alphabet]], [[DCCC - Democratic Congressional Campaign Committee]], [[Sara Jacobs]], [[League of Conservation Voters]], [[ADM - Archer Daniels Midland]], [[Planned Parenthood Action Fund INC]], [[Pete Aguilar]], [[Let America Vote PAC]], [[UA Political Action Committee]], [[Humane Society Legislative Fund]], [[Giffords PAC]], [[SEIU COPE]], [[DMFI - Democratic Majority for Israel]], [[IBEW - International Brotherhood of Electrical Workers]], [[Joe Neguse]], [[Demand Justice]], [[Fairshake PAC - Crypto Super PAC]], [[National Association of Manufacturers]], [[Sierra Club Independent Action]], [[American Hospital Association PAC]], [[Leidos]], [[CVS Health - Aetna]], [[Protect Progress]], [[Coinbase]], [[Paul Tonko]], [[Julia Brownley]], [[Robert Garcia]], [[AIPAC - American Israel Public Affairs Committee]], [[Duke Energy]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Nancy Pelosi]], [[Progressive Turnout Project]], [[Hmp]], [[McDonalds Corporation]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Center Forward Committee]], [[Comcast - NBCUniversal]], [[Jamie Raskin]], [[National Committee to Preserve Social Security PAC]], [[General Motors]], [[Protect Our Future PAC]], [[Everytown for Gun Safety]], [[Judy Chu]], [[National Education Association]], [[Ted Lieu]]"
 ---
 
 

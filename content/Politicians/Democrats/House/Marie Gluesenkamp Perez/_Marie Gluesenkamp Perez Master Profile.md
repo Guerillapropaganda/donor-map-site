@@ -1,33 +1,34 @@
 ---
-title: "Marie Gluesenkamp Perez"
+title: Marie Gluesenkamp Perez
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Washington"
-state-abbr: "WA"
+party: Democrat
+chamber: House
+state: Washington
+state-abbr: WA
 district: "3"
-bioguide-id: "G000600"
+bioguide-id: G000600
 govtrack-id: 456949
 born: "1988-06-06"
-wikidata-id: "Q113686944"
-website: "https://gluesenkampperez.house.gov"
-phone: "202-225-3536"
+wikidata-id: Q113686944
+website: https://gluesenkampperez.house.gov
+phone: 202-225-3536
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H2WA03217"
+fec-candidate-id: H2WA03217
 bills-sponsored: 31
 bills-cosponsored: 339
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Mark Takano]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[IBEW - International Brotherhood of Electrical Workers]], [[Laura Friedman]], [[Mark Kelly]], [[Sydney Kamlager-Dove]], [[DCCC - Democratic Congressional Campaign Committee]], [[Sierra Club Independent Action]], [[NEA Fund for Children and Public Education]], [[McDonalds Corporation]], [[Joe Neguse]], [[Indivisible Action]], [[Judy Chu]], [[Pete Aguilar]], [[Jake Auchincloss]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Bill Foster]], [[Performance Racing Inc.]], [[Progressive Turnout Project]], [[National Association of Realtors]], [[Adriano Espaillat]], [[Emily's List]], [[AIPAC - American Israel Public Affairs Committee]], [[Jamie Raskin]], [[Julia Brownley]], [[Hmp]], [[Nancy Pelosi]], [[Diana Degette]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Robert Garcia]], [[CHC BOLD PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Let America Vote PAC]], [[America PAC - Elon Musk]], [[National Association of Manufacturers]], [[Paul Tonko]], [[Jim Costa]], [[American Chemistry Council, INC]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Jason Crow]], [[Teamsters - International Brotherhood of Teamsters]], [[Associated General Contractors of America Political Action Committee]], [[Debbie Dingell]], [[Planned Parenthood Action Fund INC]], [[League of Conservation Voters]], [[Sara Jacobs]], [[Mark DeSaulnier]], [[Together for Progress PAC]], [[NRCC - National Republican Congressional Committee]], [[Care Action]], [[National Restaurant Association]], [[SEIU COPE]], [[American Hospital Association PAC]], [[Chrissy Houlahan]], [[National Wildlife Federation Action Fund]], [[Marathon Petroleum]], [[DMFI - Democratic Majority for Israel]], [[Ted Lieu]], [[NORPAC]], [[VOTER PROTECTION PROJECT]]"
 ---
 
 

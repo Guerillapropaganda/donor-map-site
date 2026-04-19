@@ -1,33 +1,34 @@
 ---
-title: "Diana Degette"
+title: Diana Degette
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Colorado"
-state-abbr: "CO"
+party: Democrat
+chamber: House
+state: Colorado
+state-abbr: CO
 district: "1"
-bioguide-id: "D000197"
+bioguide-id: D000197
 govtrack-id: 400101
 born: "1957-07-29"
-wikidata-id: "Q437159"
-website: "https://degette.house.gov"
-phone: "202-225-4431"
+wikidata-id: Q437159
+website: https://degette.house.gov
+phone: 202-225-4431
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H6CO01141"
+fec-candidate-id: H6CO01141
 bills-sponsored: 15
 bills-cosponsored: 302
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Care Action]], [[Google - Alphabet]], [[National Association of Realtors]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[American Hospital Association PAC]], [[Amgen Inc]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Ted Lieu]], [[Raytheon (RTX)]], [[Sierra Club Political Committee]], [[Progressive Turnout Project]], [[Leidos]], [[J Street]], [[AT&T - WarnerMedia]], [[Teamsters - International Brotherhood of Teamsters]], [[IBEW - International Brotherhood of Electrical Workers]], [[Anthem - Elevance Health]], [[Sierra Club Independent Action]], [[Comcast - NBCUniversal]], [[Lockheed Martin]], [[Everytown for Gun Safety]], [[Pete Aguilar]], [[UA Political Action Committee]], [[NextEra Energy]], [[American Chemistry Council, INC]], [[Honeywell]], [[Johnson & Johnson]], [[PG&E - Pacific Gas and Electric]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Medicare for All - The Policy That Broke the Party]], [[National Multifamily Housing Council]], [[Pfizer Inc.]], [[NEA Fund for Children and Public Education]], [[Duke Energy]], [[SEIU COPE]], [[CVS Health - Aetna]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Planned Parenthood Action Fund INC]], [[Gilead Sciences]], [[League of Conservation Voters]], [[National Nurses United]], [[Tenet Healthcare]], [[AIPAC - American Israel Public Affairs Committee]], [[National Committee to Preserve Social Security PAC]], [[General Motors]], [[AbbVie]], [[Walmart - Walton Family]], [[Planned Parenthood Votes]], [[AT&T]], [[Verizon]], [[Bank of America]], [[Microsoft]], [[Meta - Facebook]], [[Palantir Technologies]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]]"
 ---
 
 

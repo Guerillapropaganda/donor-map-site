@@ -5,14 +5,14 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00389403
 aliases:
   - PERFORMANCE RACING INC.
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
-politicians-funded: "[[Markwayne Mullin]]"
+politicians-funded: "[[Markwayne Mullin]], [[Frank Pallone]], [[Lauren Underwood]], [[Jim Costa]], [[Henry Cuellar]], [[Martin Heinrich]], [[Eric Sorensen]], [[Tammy Duckworth]], [[Shelley Moore Capito]], [[Debbie Stabenow]], [[Rick Larsen]], [[Darren Soto]], [[John Hickenlooper]], [[Mariannette Miller-Meeks]], [[Michael Whatley]], [[Raul Ruiz]], [[Patrick McHenry]], [[Troy Balderson]], [[Mark Warner]], [[Lori Trahan]], [[Dan Sullivan]], [[Greg Stanton]], [[Chrissy Houlahan]], [[Pete Stauber]], [[Aaron Bean]], [[Jeff Crank]], [[Marie Gluesenkamp Perez]], [[John James]], [[Erin Houchin]], [[Brett Guthrie]], [[Pete Aguilar]], [[Richard Hudson]], [[Pete Ricketts]], [[Jay Obernolte]], [[Diana Harshbarger]], [[Ryan Mackenzie]], [[Steve Daines]], [[John Joyce]], [[Sam Graves]], [[Bruce Westerman]], [[Kat Cammack]], [[Dina Titus]], [[Catherine Cortez Masto]], [[Kathy Castor]], [[Gary Peters]], [[Kim Schrier]], [[Claudia Tenney]], [[Lloyd Smucker]], [[Celeste Maloy]], [[Brendan Boyle]], [[Rudy Yakym]], [[Vince Fong]], [[Brian Jack]], [[Debbie Dingell]], [[Adam Gray]], [[Mark Kelly]], [[Mike Lee]], [[Mike Thompson]], [[Cathy McMorris Rodgers]], [[John Barrasso]], [[Mike Carey]], [[Young Kim]], [[Deb Fischer]], [[Bernie Moreno]], [[Dan Crenshaw]], [[Richard Neal]], [[David Rouzer]], [[Paul Tonko]], [[Steven Horsford]], [[Mike Kennedy]], [[Jeanne Shaheen]], [[Raul Grijalva]], [[Tim Walberg]], [[Ashley Hinson]], [[Jimmy Panetta]], [[Jason Smith]], [[Todd Young]], [[Tammy Baldwin]]"
 related: "[[Markwayne Mullin]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

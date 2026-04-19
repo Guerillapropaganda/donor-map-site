@@ -2,12 +2,12 @@
 title: CREW - Citizens for Responsibility and Ethics in Washington
 type: donor
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Dark Money
 entity-type: Individual Donor
-politicians-funded: "[[Donald Trump]]"
+politicians-funded: "[[Donald Trump]], [[ActBlue]], [[Emily's List]], [[_Tammy Baldwin Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Tammy Baldwin]]"
 issues:
   - Dark Money & Campaign Finance
 court-cases: 2

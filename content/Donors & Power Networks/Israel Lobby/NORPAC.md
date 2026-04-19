@@ -2,12 +2,12 @@
 title: NORPAC
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Israel Lobby
 entity-type: Individual Donor
-politicians-funded: "[[Bill Cassidy]], [[Mike Lawler]], [[Jack Reed]], [[Tom Cotton]], [[Bernie Moreno]], [[John Hickenlooper]], [[Ritchie Torres]], [[Brian Mast]], [[Gregory Meeks]], [[Tim Walberg]], [[Michael Whatley]], [[Jim Risch]]"
+politicians-funded: "[[Bill Cassidy]], [[Mike Lawler]], [[Jack Reed]], [[Tom Cotton]], [[Bernie Moreno]], [[John Hickenlooper]], [[Ritchie Torres]], [[Brian Mast]], [[Gregory Meeks]], [[Tim Walberg]], [[Michael Whatley]], [[Jim Risch]], [[Brad Sherman]], [[George Latimer]], [[Donald Norcross]], [[James Lankford]], [[Michael Lawler]], [[Darren Soto]], [[Tim Sheehy]], [[Roger Wicker]], [[Roger Marshall]], [[Marsha Blackburn]], [[ActBlue]], [[Josh Hawley]], [[Ron Estes]], [[Lindsey Graham]], [[Dusty Johnson]], [[Elise Stefanik]], [[Cory Booker]], [[Bob Casey]], [[Nancy Mace]], [[Jake Auchincloss]], [[NORPAC]], [[Ted Cruz]], [[Tim Scott]], [[John Fetterman]], [[Josh Gottheimer]], [[Hakeem Jeffries]], [[Jacky Rosen]], [[Ronny Jackson]], [[Virginia Foxx]], [[Guy Reschenthaler]], [[Grace Meng]], [[John James]], [[Maggie Goodlander]], [[Joni Ernst]], [[Mike Rounds]], [[RNC - Republican National Committee]], [[Thom Tillis]], [[NRCC - National Republican Congressional Committee]], [[Wesley Bell]], [[Mark Warner]], [[Frank Pallone]], [[Mark Green]], [[Shontel Brown]], [[Susan Collins]], [[Marie Gluesenkamp Perez]], [[NRSC - National Republican Senatorial Committee]]"
 federal-register-mentions: 42
 last-enriched: "2026-04-09"
 regulatory-agencies:

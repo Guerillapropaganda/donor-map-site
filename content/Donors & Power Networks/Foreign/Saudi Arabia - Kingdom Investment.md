@@ -1,31 +1,30 @@
 ---
-title: "Saudi Arabia - Kingdom Investment"
+title: Saudi Arabia - Kingdom Investment
 type: donor
 content-readiness: draft
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Foreign Influence"
-entity-type: "Individual Donor"
+sector: Foreign Influence
+entity-type: Individual Donor
 ofac-sdn-match: "true"
 last-enriched: "2026-04-18"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 ofac-programs:
-  - "SDGT"
+  - SDGT
 related: "[[The National Security and Foreign Policy Realist]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Mohammed bin Salman]] · [[Halliburton]] · [[United Arab Emirates - Influence Operation]] · [[Turkey - Erdogan Lobbying Operation]] · [[Haim Saban]] · [[JCRC Bay Area]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[Israel - Government Lobbying Operation]] · [[Entertainment and Hollywood Donors]] · [[Agricultural Labor Vulnerability Donors]]"
-lei: "558600VNAD657YBT9892"
-lei-jurisdiction: "SA"
+lei: 558600VNAD657YBT9892
+lei-jurisdiction: SA
 cross-vault-triangulation-count: 3
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 employee-contributions: 1
 employee-contributions-total: 6600
 employee-donor-count: 1
+politicians-funded: "[[WinRed]]"
 ---
 
 

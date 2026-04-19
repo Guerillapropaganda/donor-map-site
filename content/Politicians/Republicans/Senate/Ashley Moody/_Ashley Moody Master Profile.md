@@ -1,28 +1,29 @@
 ---
-title: "Ashley Moody"
+title: Ashley Moody
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "Senate"
-state: "Florida"
-state-abbr: "FL"
-bioguide-id: "M001244"
+party: Republican
+chamber: Senate
+state: Florida
+state-abbr: FL
+bioguide-id: M001244
 govtrack-id: 457033
 born: "1975-03-28"
-wikidata-id: "Q58333626"
-website: "https://www.moody.senate.gov"
-phone: "202-224-3041"
+wikidata-id: Q58333626
+website: https://www.moody.senate.gov
+phone: 202-224-3041
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "S6FL00640"
+fec-candidate-id: S6FL00640
+top-donors: "[[National Association of Realtors]], [[Johnson & Johnson]], [[Senate Conservatives Fund]], [[Amgen Inc]], [[Honeywell]], [[Duke Energy]], [[Nucor Corporation]], [[CVS Health - Aetna]], [[NRSC - National Republican Senatorial Committee]], [[Comcast - NBCUniversal]], [[Law Enforcement for a Safer America Pac]], [[Care Action]], [[L3Harris Technologies]], [[Microsoft]], [[Walmart - Walton Family]], [[AbbVie]], [[Associated General Contractors of America Political Action Committee]], [[Chevron]], [[Lockheed Martin]], [[American Hospital Association PAC]], [[American College of Radiology Association PAC]], [[General Dynamics]], [[Anthem - Elevance Health]], [[Humana]], [[General Motors]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Pfizer Inc.]], [[National Restaurant Association]], [[BAE Systems]], [[National Rifle Association]], [[VIEW PAC - Value in Electing Women]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Republican Jewish Coalition]], [[Northrop Grumman]], [[Citigroup]], [[Common Sense for America PAC]], [[Gilead Sciences]], [[NextEra Energy]]"
 ---
 
 

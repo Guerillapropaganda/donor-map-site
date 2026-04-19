@@ -2,7 +2,7 @@
 title: American Gaming Association
 type: donor
 content-readiness: ready
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Gig Economy
@@ -12,7 +12,7 @@ annual-revenue: $17.4M
 net-assets: $30.6M
 tax-year: "2023"
 total-political-spend: $695,569
-politicians-funded: "[[Glenn Thompson]], [[Adam Smith]], [[Susan Collins]], [[Kevin McCarthy]], [[Jason Smith]], [[Steve Scalise]], [[Mike Collins]], [[Bennie Thompson]]"
+politicians-funded: "[[Glenn Thompson]], [[Adam Smith]], [[Susan Collins]], [[Kevin McCarthy]], [[Jason Smith]], [[Steve Scalise]], [[Mike Collins]], [[Bennie Thompson]], [[Jeanne Shaheen]], [[Tim Scott]], [[ActBlue]], [[Harold Rogers]], [[NRSC - National Republican Senatorial Committee]], [[Joseph Morelle]], [[Bill Hagerty]], [[Pete Aguilar]], [[Guy Reschenthaler]], [[Cindy Hyde-Smith]], [[Darin Lahood]], [[James Lankford]], [[Cathy McMorris Rodgers]], [[Steven Horsford]], [[Ron Wyden]], [[Susie Lee]], [[_Shontel Brown Master Profile]], [[WinRed]], [[Todd Young]], [[Michelle Fischbach]], [[Darren Soto]], [[Jimmy Panetta]], [[John Joyce]], [[Brendan Boyle]], [[Mike Thompson]], [[Joyce Beatty]], [[Hakeem Jeffries]], [[Frank Pallone]], [[Madeleine Dean]], [[Debbie Stabenow]], [[Richard Neal]], [[James Comer]], [[_Lisa Blunt Rochester Master Profile]], [[John Boozman]], [[Mitch McConnell]], [[John Thune]], [[Jimmy Gomez]], [[Darrell Issa]], [[Sherrod Brown]], [[American Gaming Association]], [[Shontel Brown]], [[Gary Peters]], [[Eric Swalwell]], [[Jared Moskowitz]], [[_Byron Donalds Master Profile]], [[Grace Meng]], [[Jacky Rosen]], [[NRCC - National Republican Congressional Committee]], [[_Ben Cline Master Profile]], [[David Schweikert]], [[Maria Cantwell]], [[Lloyd Smucker]], [[Brett Guthrie]], [[Alex Padilla]], [[Mike Carey]], [[Patrick McHenry]], [[Katie Britt]], [[Debbie Dingell]], [[John Hickenlooper]], [[Dina Titus]], [[Dwight Evans]], [[_Melissa Bean Master Profile]], [[Ted Cruz]], [[Catherine Cortez Masto]], [[Adrian Smith]], [[Josh Gottheimer]], [[_Marcia Fudge Master Profile]], [[Melissa Bean]], [[Ben Cline]], [[Marcia Fudge]], [[Byron Donalds]], [[Lisa Blunt Rochester]]"
 nonprofit-status: 501(c)(6)
 last-enriched: "2026-04-11"
 total-revenue: 24597723
@@ -419,3 +419,50 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/931169142/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/931169142/2019)~~ (URL broken, archived by Ops)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Gaming%20Association%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | $37.0M |
+| Grants paid out | $449K |
+
+**Lifetime grants out (2018–2024):** $1.3M across 23 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| NO SLOTS ON MAIN STREET | $400K | 2 | 2023–2024 |
+| GLOBAL GAMING WOMEN | $150K | 6 | 2018–2024 |
+| JCM FOUNDATION | $125K | 2 | 2023–2024 |
+| ATTORNEY GENERAL ALLIANCE | $120K | 4 | 2020–2024 |
+| AMERICANS FOR TAX REFORM | $101K | 4 | 2018–2023 |
+| NATIONAL CENTER FOR RESPONSIBLE GAMING | $100K | 1 | 2018 |
+| PLUS COMMUNICATIONS LLC | $75K | 1 | 2024 |
+| US TRAVEL ASSOCIATION | $45K | 2 | 2018–2019 |
+| A SAFER VIRGINIA | $42K | 2 | 2023–2024 |
+| COUNCIL FOR CITIZENS AGAINST GOVERNMENT WASTE | $25K | 2 | 2018–2019 |
+| WORLD GOLF FOUNDATION | $20K | 2 | 2022–2024 |
+| THE TORCH RELAY FOR CHILDREN'S MIRACLE NETWORK HOSPITALS | $17K | 3 | 2020–2024 |
+| VICE PRESIDENT RESIDENCE FOUNDATION | $15K | 1 | 2019 |
+| ASSOCIATION OF STATE CRIMINAL INVESTIGATIVE AGENCIES | $13K | 1 | 2024 |
+| INTERNATIONAL CENTER FOR RESPONSIBLE GAMING | $13K | 1 | 2020 |
+| AMERICAN LEGISLATIVE EXCHANGE COUNCIL | $12K | 1 | 2018 |
+| CONGRESSIONAL AWARD FOUNDATION | $10K | 2 | 2018–2019 |
+| LAS VEGAS METRO CHAMBER | $8K | 1 | 2022 |
+| UNIVERSITY OF MARYLAND BALTIMORE FOUNDATION INC | $6K | 1 | 2024 |
+| WORLD CENTRAL KITCHEN | $5K | 1 | 2022 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

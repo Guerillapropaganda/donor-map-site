@@ -1,33 +1,34 @@
 ---
-title: "Seth Magaziner"
+title: Seth Magaziner
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Rhode Island"
-state-abbr: "RI"
+party: Democrat
+chamber: House
+state: Rhode Island
+state-abbr: RI
 district: "2"
-bioguide-id: "M001223"
+bioguide-id: M001223
 govtrack-id: 456937
 born: "1983-07-22"
-wikidata-id: "Q16222460"
-website: "https://magaziner.house.gov"
-phone: "202-225-2735"
+wikidata-id: Q16222460
+website: https://magaziner.house.gov
+phone: 202-225-2735
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H2RI02184"
+fec-candidate-id: H2RI02184
 bills-sponsored: 20
 bills-cosponsored: 547
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[UA Political Action Committee]], [[Paul Tonko]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Hmp]], [[Leidos]], [[AFL-CIO]], [[NRCC - National Republican Congressional Committee]], [[National Association of Realtors]], [[Mark Takano]], [[SEIU COPE]], [[AT&T - WarnerMedia]], [[American College of Radiology Association PAC]], [[Raytheon (RTX)]], [[Joe Neguse]], [[Walmart - Walton Family]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Nancy Pelosi]], [[Sara Jacobs]], [[ENVIRONMENT AMERICA INC]], [[Giffords PAC]], [[DMFI - Democratic Majority for Israel]], [[Jason Crow]], [[National Association of Manufacturers]], [[Ted Lieu]], [[Teamsters - International Brotherhood of Teamsters]], [[American Hospital Association PAC]], [[Unite Here Tip Campaign Committee]], [[Let America Vote PAC]], [[National Committee to Preserve Social Security PAC]], [[Progressive Turnout Project]], [[L3Harris Technologies]], [[J Street]], [[VOTER PROTECTION PROJECT]], [[CVS Health - Aetna]], [[Comcast - NBCUniversal]], [[Jamie Raskin]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Anthem - Elevance Health]], [[Pete Aguilar]], [[League of Conservation Voters]], [[DCCC - Democratic Congressional Campaign Committee]], [[Putting People First Political Action Committee]], [[General Dynamics]], [[Planned Parenthood Action Fund INC]], [[Bank of America]], [[Care Action]], [[Amgen Inc]], [[IBEW - International Brotherhood of Electrical Workers]], [[National Education Association]], [[Lockheed Martin]], [[Sierra Club Independent Action]], [[NEA Fund for Children and Public Education]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Honeywell]], [[Everytown for Gun Safety]], [[Northrop Grumman]], [[Medicare for All - The Policy That Broke the Party]], [[BAE Systems]], [[Veronica Escobar]], [[MoveOn.org Political Action]], [[Sierra Club Political Committee]], [[Congressional Leadership Fund]], [[Robert Garcia]], [[Debbie Dingell]]"
 ---
 
 

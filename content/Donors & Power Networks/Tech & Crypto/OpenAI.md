@@ -1,22 +1,22 @@
 ---
-title: "OpenAI"
+title: OpenAI
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Tech & Crypto"
-entity-type: "Corporation"
+sector: Tech & Crypto
+entity-type: Corporation
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-10"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 ein: "810861541"
-annual-revenue: "$5.4M"
-net-assets: "$22.7M"
+annual-revenue: $5.4M
+net-assets: $22.7M
 tax-year: "2023"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 total-revenue: 691271
 total-assets: 14665036
 subawards-issued: 1
@@ -24,43 +24,42 @@ subawards-issued-amount: 19500000
 subawards-received: 1
 subawards-received-amount: 19500000
 related: "[[AI Deregulation Super PAC - Leading the Future]] · [[Crypto vs. Institutional Democrats in Illinois]] · [[Microsoft]] · [[Nvidia]] · [[Anthropic]] · [[Google - Alphabet]] · [[AI Safety and Regulatory Capture]] · [[AI Regulation and Tech Donors]]"
-lei: "9845004F11A8N695DD79"
-lei-jurisdiction: "IE"
+lei: 9845004F11A8N695DD79
+lei-jurisdiction: IE
 sec-filings: 2332
 sec-form-types:
-  - "424B3"
+  - 424B3
   - "425"
-  - "485APOS"
-  - "8-K"
-  - "CORRESP"
-  - "D"
-  - "D/A"
-  - "DEFA14A"
-  - "DFAN14A"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "EX-99.4"
-  - "EX1A-13 TST WTRS"
-  - "LETTER"
-  - "NPORT-EX"
-  - "NPORT-P"
-  - "PX14A6G"
-  - "TEXT-EXTRACT"
+  - 485APOS
+  - 8-K
+  - CORRESP
+  - D
+  - D/A
+  - DEFA14A
+  - DFAN14A
+  - EX-99.1
+  - EX-99.2
+  - EX-99.4
+  - EX1A-13 TST WTRS
+  - LETTER
+  - NPORT-EX
+  - NPORT-P
+  - PX14A6G
+  - TEXT-EXTRACT
 federal-register-mentions: 4
 regulatory-agencies:
-  - "Copyright Office, Library of Congress"
-  - "Health and Human Services Department"
-  - "Justice Department"
-  - "Library of Congress"
+  - Copyright Office, Library of Congress
+  - Health and Human Services Department
+  - Justice Department
+  - Library of Congress
 cross-vault-triangulation-count: 8
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 3
-epa-states: "CA"
+epa-states: CA
 employee-contributions: 452
 employee-contributions-total: 25990449
 employee-donor-count: 182
+politicians-funded: "[[ActBlue]], [[Hmp]], [[MAGA Inc]], [[_Josh Harder Master Profile]], [[_Jon Ossoff Master Profile]], [[_Martin Heinrich Master Profile]], [[_Scott Wiener Master Profile]], [[Mark Kelly]], [[_Derek Tran Master Profile]], [[_Tammy Baldwin Master Profile]], [[WinRed]], [[_Lauren Underwood Master Profile]], [[_Susie Lee Master Profile]], [[_Angie Craig Master Profile]], [[Catherine Cortez Masto]], [[AI Deregulation Super PAC - Leading the Future]], [[_Josh Riley Master Profile]], [[_Cory Booker Master Profile]], [[WinSenate]], [[_Lisa Blunt Rochester Master Profile]], [[Angie Craig]], [[Susie Lee]], [[Lisa Blunt Rochester]], [[Martin Heinrich]], [[Josh Harder]], [[Jon Ossoff]], [[Lauren Underwood]], [[Cory Booker]], [[Tammy Baldwin]], [[Josh Riley]], [[Scott Wiener]], [[Derek Tran]]"
 ---
 
 
@@ -291,3 +290,50 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/810861541/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/810861541/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/810861541/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 7 (2017–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $4K |
+| Total expenses | — |
+| Total assets (EOY) | $14.7M |
+| Grants paid out | $7.6M |
+
+**Lifetime grants out (2017–2024):** $20.6M across 40 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| UBI Charitable | $10.0M | 1 | 2020 |
+| Meridian Prime Inc | $1.0M | 1 | 2024 |
+| Carnegie Mellon University | $950K | 1 | 2024 |
+| UC Berkeley | $950K | 1 | 2024 |
+| Operation Hope Inc | $750K | 2 | 2023–2024 |
+| Stanford University | $674K | 2 | 2019–2024 |
+| Duke University | $667K | 2 | 2022–2023 |
+| Center for AI Safety Inc | $667K | 2 | 2023–2024 |
+| Harvard University | $518K | 1 | 2024 |
+| Turnio PBC | $500K | 1 | 2024 |
+| Princeton University | $420K | 1 | 2024 |
+| New York University | $395K | 1 | 2023 |
+| University of Michigan | $382K | 3 | 2023–2024 |
+| EleutherAI | $250K | 1 | 2024 |
+| Toyota Technological Inst | $230K | 1 | 2024 |
+| Khan Academy Inc | $200K | 2 | 2023–2024 |
+| University of Virginia | $200K | 1 | 2024 |
+| University of Texas at Austin | $180K | 1 | 2024 |
+| Cornell University | $150K | 1 | 2024 |
+| University of Pennsylvania | $150K | 1 | 2024 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

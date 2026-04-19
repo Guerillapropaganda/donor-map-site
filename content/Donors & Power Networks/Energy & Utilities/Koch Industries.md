@@ -2,7 +2,7 @@
 title: Koch Industries
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Energy & Utilities
@@ -34,9 +34,9 @@ total-revenue: 212200
 total-assets: 1900682
 cross-vault-triangulation-count: 35
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-politicians-funded: "[[Kevin McCarthy]], [[Cathy McMorris Rodgers]], [[John Kennedy]], [[Dan Crenshaw]]"
+politicians-funded: "[[Kevin McCarthy]], [[Cathy McMorris Rodgers]], [[John Kennedy]], [[Dan Crenshaw]], [[RNC - Republican National Committee]], [[FreedomWorks for America]], [[_Tim Scott Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[NRCC - National Republican Congressional Committee]], [[WinRed]], [[_Ron Estes Master Profile]], [[_Pete Ricketts Master Profile]], [[ActBlue]], [[Americans for Prosperity]], [[_Ted Budd Master Profile]], [[_Marco Rubio Master Profile]], [[_Mike Kelly Master Profile]], [[_Ted Cruz Master Profile]], [[Freedom Partners Action Fund Inc]], [[Campaign for Working Families]], [[MAGA Inc]], [[_Ron Johnson Master Profile]], [[Tim Scott]], [[Ted Budd]], [[Mike Kelly]], [[Marco Rubio]], [[Pete Ricketts]], [[Ted Cruz]], [[Ron Estes]], [[Ron Johnson]]"
 epa-facilities: 4
-epa-states: "GA, KS, MN, TX"
+epa-states: GA, KS, MN, TX
 federal-contracts: 3
 employee-contributions: 253
 employee-contributions-total: 9939019
@@ -902,3 +902,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
 <!-- auto:influence-cross-ref end -->
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 5 (2020–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | $1.9M |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

@@ -17,7 +17,7 @@ lobbying-spend: 1665000
 lobbying-filings: 38
 cross-vault-triangulation-count: 0
 audit-a-plus-passed: "2026-04-11"
-politicians-funded: "[[David Sacks]]"
+politicians-funded: "[[David Sacks]], [[ActBlue]], [[Bernie Moreno]], [[Common Sense for America PAC]], [[WinRed]], [[_Byron Donalds Master Profile]], [[Byron Donalds]]"
 urls-first-triaged: "2026-04-15"
 employee-contributions: 22
 employee-contributions-total: 116134

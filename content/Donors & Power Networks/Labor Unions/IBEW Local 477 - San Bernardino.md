@@ -7,7 +7,7 @@ source-tier: 2
 parent: null
 sector: Labor Unions
 entity-type: Individual Donor
-politicians-funded: "[[Chad Bianco]]"
+politicians-funded: "[[Chad Bianco]], [[ActBlue]], [[MoveOn.org Political Action]], [[SEIU COPE]], [[Save America PAC]], [[DCCC - Democratic Congressional Campaign Committee]]"
 related: "[[UFCW - United Food and Commercial Workers]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[IBEW California State Association]] · [[IBEW Local 440 - Riverside]] · [[California Building and Construction Trades Council]] · [[_Chad Bianco Master Profile]] · [[Riverside Sheriffs Association]] · [[Teamsters - International Brotherhood of Teamsters]]"
 ein: "812607816"
 nonprofit-status: 501(c)(3)
@@ -166,3 +166,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/812607816/2023)~~ (URL broken, archived by Ops)
 - ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/812607816/2022)~~ (URL broken, archived by Ops)
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/812607816/2021)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 3 (2021–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $197K |
+| Total expenses | — |
+| Total assets (EOY) | $21K |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

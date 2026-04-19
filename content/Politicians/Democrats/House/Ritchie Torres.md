@@ -11,7 +11,7 @@ source-tier: 1
 parent: null
 total-received: $5,052,480
 fec-candidate-id: H0NY15160
-donors: "[[AFSCME - American Federation of State County and Municipal Employees]], [[Protect Progress]], [[NORPAC]], [[FAIRSHAKE]], [[AIPAC - American Israel Public Affairs Committee]], [[EQUALITY PROJECT PAC]], [[VOTER PROTECTION PROJECT]], [[CHC BOLD PAC]], [[Equality Project PAC]], [[Voter Protection Project]]"
+donors: "[[AFSCME - American Federation of State County and Municipal Employees]], [[Protect Progress]], [[NORPAC]], [[FAIRSHAKE]], [[AIPAC - American Israel Public Affairs Committee]], [[EQUALITY PROJECT PAC]], [[VOTER PROTECTION PROJECT]], [[CHC BOLD PAC]], [[Equality Project PAC]], [[Voter Protection Project]], [[Human Rights Campaign Equality Votes]], [[Citigroup]], [[SEIU COPE]], [[Morgan Stanley]], [[DMFI - Democratic Majority for Israel]], [[IBEW - International Brotherhood of Electrical Workers]], [[Anthem - Elevance Health]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[NEA Fund for Children and Public Education]], [[Honeywell]], [[Mark Takano]], [[Unite Here Tip Campaign Committee]], [[Bank of America]], [[Medicare for All - The Policy That Broke the Party]], [[UA Political Action Committee]], [[General Motors]], [[DoorDash]], [[American Hospital Association PAC]], [[Progressive Turnout Project]], [[National Multifamily Housing Council]], [[L3Harris Technologies]], [[Walmart - Walton Family]], [[PG&E - Pacific Gas and Electric]], [[Comcast - NBCUniversal]], [[Sierra Club Independent Action]], [[American Federation of State County & Municipal Employees P E O P L E]], [[AT&T - WarnerMedia]], [[National Association of Realtors]], [[Ted Lieu]], [[League of Conservation Voters]], [[Coinbase]], [[Fairshake PAC - Crypto Super PAC]], [[General Dynamics]], [[Teamsters - International Brotherhood of Teamsters]], [[Lockheed Martin]], [[Google - Alphabet]], [[Pfizer Inc.]], [[Planned Parenthood Votes]], [[Giffords PAC]], [[Northrop Grumman]], [[CVS Health - Aetna]]"
 related: "[[AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else]] · [[NORPAC]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Crypto Industry Bloc]] · [[Fairshake PAC|Fairshake]] · [[Demand Justice]]"
 needs-reenrichment: true
 reenrich-reason: run voting pipeline; run congress pipeline; run pipelines
@@ -32,8 +32,8 @@ urls-first-triaged: "2026-04-15"
 bills-sponsored: 160
 bills-cosponsored: 1234
 bills-enacted: 0
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "Health"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: Health
 ---
 
 

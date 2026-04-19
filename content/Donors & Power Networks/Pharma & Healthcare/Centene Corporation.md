@@ -2,12 +2,12 @@
 title: Centene Corporation
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Pharma & Healthcare
 entity-type: Corporation
-politicians-funded: "[[Jon Husted]], [[Joe Manchin]]"
+politicians-funded: "[[Jon Husted]], [[Joe Manchin]], [[The Lincoln Project]], [[_Aaron Bean Master Profile]], [[_Mark Takano Master Profile]], [[Progressive Turnout Project]], [[_Donna Miller Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Ron Johnson Master Profile]], [[REPUBLICAN PARTY OF FLORIDA]], [[_Shontel Brown Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[NRCC - National Republican Congressional Committee]], [[RNC - Republican National Committee]], [[_Vicente Gonzalez Master Profile]], [[ActBlue]], [[Hmp]], [[_Ann Wagner Master Profile]], [[MAGA Inc]], [[DCCC - Democratic Congressional Campaign Committee]], [[MoveOn.org Political Action]], [[_Ted Cruz Master Profile]], [[_Marco Rubio Master Profile]], [[Let America Vote PAC]], [[_Julie Johnson Master Profile]], [[_Nancy Pelosi Master Profile]], [[Marianne Williamson]], [[_Tim Scott Master Profile]], [[_Adam Gray Master Profile]], [[CHC BOLD PAC]], [[_Tammy Baldwin Master Profile]], [[_Lisa Blunt Rochester Master Profile]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[WinRed]], [[_Chris Pappas Master Profile]], [[Human Rights Campaign Equality Votes]], [[Emily's List]], [[_Lauren Underwood Master Profile]], [[Mark Kelly]], [[_Rashida Tlaib Master Profile]], [[_Cori Bush Master Profile]], [[_Cory Booker Master Profile]], [[_Jason Smith Master Profile]], [[Giffords PAC]], [[_Kamala Harris Master Profile]], [[_Josh Hawley Master Profile]], [[Democratic Party of Virginia]], [[FAMILY RESEARCH COUNCIL ACTION POLITICAL ACTION COMMITTEE]], [[_Jon Ossoff Master Profile]], [[Catherine Cortez Masto]], [[_Thomas Massie Master Profile]], [[_Josh Riley Master Profile]], [[314 ACTION FUND]], [[_Elissa Slotkin Master Profile]], [[Save America PAC]], [[_Debbie Dingell Master Profile]], [[Bob Casey]], [[Tim Scott]], [[Chris Pappas]], [[Ted Cruz]], [[Jason Smith]], [[Rashida Tlaib]], [[Lauren Underwood]], [[Marco Rubio]], [[Kamala Harris]], [[Vicente Gonzalez]], [[Ann Wagner]], [[Lisa Blunt Rochester]], [[Mark Takano]], [[Debbie Dingell]], [[Thomas Massie]], [[Nancy Pelosi]], [[Josh Riley]], [[Cory Booker]], [[Adam Gray]], [[Julie Johnson]], [[Aaron Bean]], [[Jon Ossoff]], [[Cori Bush]], [[Tammy Baldwin]], [[Ron Johnson]], [[Elissa Slotkin]], [[Donna Miller]], [[Shontel Brown]], [[Josh Hawley]]"
 issues:
   - Social Safety Net
   - Healthcare
@@ -77,7 +77,7 @@ nhtsa-complaints: 0
 cross-vault-triangulation-count: 8
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 1
-epa-states: "MO"
+epa-states: MO
 federal-contracts: 19
 employee-contributions: 8620
 employee-contributions-total: 1579148
@@ -407,3 +407,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 - ~~[OpenSecrets: Centene Corporation lobbying and PAC](https://www.opensecrets.org/orgs/centene-corp/summary?id=D000024795)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Centene%20Corporation%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 5 (2020–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | $179 |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

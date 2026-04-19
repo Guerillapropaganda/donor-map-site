@@ -1,33 +1,34 @@
 ---
-title: "Kim Schrier"
+title: Kim Schrier
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Washington"
-state-abbr: "WA"
+party: Democrat
+chamber: House
+state: Washington
+state-abbr: WA
 district: "8"
-bioguide-id: "S001216"
+bioguide-id: S001216
 govtrack-id: 412835
 born: "1968-08-23"
-wikidata-id: "Q58333616"
-website: "https://schrier.house.gov"
-phone: "202-225-7761"
+wikidata-id: Q58333616
+website: https://schrier.house.gov
+phone: 202-225-7761
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H8WA08189"
+fec-candidate-id: H8WA08189
 bills-sponsored: 25
 bills-cosponsored: 315
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[International Association of Firefighters Interested in Registration and Education PAC]], [[DCCC - Democratic Congressional Campaign Committee]], [[American Hospital Association PAC]], [[314 ACTION FUND]], [[NextEra Energy]], [[UA Political Action Committee]], [[Congressional Leadership Fund]], [[SEIU COPE]], [[Paul Tonko]], [[National Committee to Preserve Social Security PAC]], [[Julia Brownley]], [[Planned Parenthood Action Fund INC]], [[Jamie Raskin]], [[Comcast - NBCUniversal]], [[NEA Fund for Children and Public Education]], [[Google - Alphabet]], [[Puget Sound Energy INC PAC for Good Government]], [[Morgan McGarvey]], [[Humane Society Legislative Fund]], [[Let America Vote PAC]], [[Debbie Dingell]], [[American College of Radiology Association PAC]], [[Putting People First Political Action Committee]], [[Diana Degette]], [[Women Speak Out Pac]], [[Pete Aguilar]], [[J Street]], [[Tzedek PAC]], [[Sierra Club Independent Action]], [[Giffords PAC]], [[AT&T - WarnerMedia]], [[Emily's List]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[National Wildlife Federation Action Fund]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[Courage to Change PAC]], [[Indivisible Action]], [[ENVIRONMENT AMERICA INC]], [[League of Conservation Voters]], [[Gilead Sciences]], [[National Multifamily Housing Council]], [[National Restaurant Association]], [[Sierra Club Political Committee]], [[Sara Jacobs]], [[Progressive Turnout Project]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[DMFI - Democratic Majority for Israel]], [[Performance Racing Inc.]], [[Everytown for Gun Safety]], [[Judy Chu]], [[Walmart - Walton Family]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Chrissy Houlahan]], [[IBEW - International Brotherhood of Electrical Workers]], [[Veronica Escobar]], [[Joe Neguse]], [[Jason Crow]], [[Pfizer Inc.]], [[Teamsters - International Brotherhood of Teamsters]], [[AIPAC - American Israel Public Affairs Committee]], [[Hmp]], [[Planned Parenthood Votes]], [[National Association of Realtors]], [[Johnson & Johnson]], [[Raytheon (RTX)]], [[Microsoft]], [[Ted Lieu]], [[Anthem - Elevance Health]], [[CVS Health - Aetna]], [[Amgen Inc]], [[American Chemistry Council, INC]], [[General Dynamics]], [[AFL-CIO]], [[Care Action]], [[L3Harris Technologies]], [[National Education Association]], [[CHC BOLD PAC]], [[AbbVie]], [[NRCC - National Republican Congressional Committee]], [[Together for Progress PAC]]"
 ---
 
 

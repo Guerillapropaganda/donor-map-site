@@ -130,3 +130,23 @@ Source: [[DMFI - Democratic Majority for Israel]] vault entry.
 
 - [Source: ProPublica Nonprofit Explorer — EIN 236224727](https://projects.propublica.org/nonprofits/organizations/236224727) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 3 (2021–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | $68K |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

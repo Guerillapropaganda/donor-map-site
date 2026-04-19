@@ -1,46 +1,45 @@
 ---
-title: "Instacart"
+title: Instacart
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Gig Economy"
-entity-type: "Corporation"
+sector: Gig Economy
+entity-type: Corporation
 issues:
-  - "Labor & Workers"
+  - Labor & Workers
 federal-register-mentions: 3
 last-enriched: "2026-04-09"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 regulatory-agencies:
-  - "Agriculture Department"
-  - "Federal Trade Commission"
-  - "Food and Nutrition Service"
-  - "Labor Department"
-  - "Wage and Hour Division"
+  - Agriculture Department
+  - Federal Trade Commission
+  - Food and Nutrition Service
+  - Labor Department
+  - Wage and Hour Division
 related: "[[Airbnb]] · [[Labor - Donors and Backers]] · [[Uber]] · [[DoorDash]] · [[Lyft]] · [[Flex Association]] · [[Fossil Fuel Bloc]] · [[UnitedHealth Group - Optum]] · [[PG&E]] · [[ExxonMobil]] · [[WSPA - Western States Petroleum Association]] · [[Valero Energy]] · [[Raytheon Technologies]] · [[Palantir Technologies Political Operation]] · [[Southern Company]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[NextEra Energy]] · [[Johnson & Johnson]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[Humana]] · [[Hospital Corporation of America - HCA]] · [[Civica Rx]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Blue Cross Blue Shield Association]] · [[Anthem - Elevance Health Political Operation]] · [[Marathon Petroleum]] · [[Koch Industries]] · [[Hawaiian Electric Company]] · [[Halliburton]] · [[Duke Energy]] · [[Devon Energy]] · [[ConocoPhillips]] · [[Chevron]] · [[Eli Broad Foundation]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 court-cases: 815
 court-jurisdictions:
-  - "Court of Appeals for the Federal Circuit"
-  - "Court of Appeals for the Ninth Circuit"
-  - "District Court, D. Alaska"
-  - "District Court, D. Massachusetts"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. Missouri"
-  - "District Court, E.D. New York"
-  - "District Court, N.D. California"
-  - "District Court, S.D. New York"
-  - "District Court, S.D. Texas"
+  - Court of Appeals for the Federal Circuit
+  - Court of Appeals for the Ninth Circuit
+  - District Court, D. Alaska
+  - District Court, D. Massachusetts
+  - District Court, District of Columbia
+  - District Court, E.D. Missouri
+  - District Court, E.D. New York
+  - District Court, N.D. California
+  - District Court, S.D. New York
+  - District Court, S.D. Texas
 cross-vault-triangulation-count: 7
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 employee-contributions: 1068
 employee-contributions-total: 100215
 employee-donor-count: 153
+politicians-funded: "[[ActBlue]], [[_Jon Ossoff Master Profile]], [[_Alex Padilla Master Profile]], [[_Josh Harder Master Profile]], [[_Josh Riley Master Profile]], [[_Ron Johnson Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[WinRed]], [[MAGA Inc]], [[The Lincoln Project]], [[Barbara Lee]], [[RNC - Republican National Committee]], [[CHC BOLD PAC]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Virginia Foxx Master Profile]], [[_Kevin Kiley Master Profile]], [[_Ted Cruz Master Profile]], [[Ted Cruz]], [[Josh Harder]], [[Virginia Foxx]], [[Josh Riley]], [[Ron Johnson]], [[Alex Padilla]], [[Kevin Kiley]], [[Jon Ossoff]]"
 ---
 
 

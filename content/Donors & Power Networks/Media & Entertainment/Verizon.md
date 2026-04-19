@@ -1,55 +1,54 @@
 ---
-title: "Verizon"
+title: Verizon
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Media & Entertainment"
-entity-type: "Corporation"
+sector: Media & Entertainment
+entity-type: Corporation
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-09"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 ein: "133319048"
-annual-revenue: "$7.5M"
-net-assets: "$26.0M"
+annual-revenue: $7.5M
+net-assets: $26.0M
 tax-year: "2023"
 federal-register-mentions: 928
 regulatory-agencies:
-  - "Antitrust Division"
-  - "Federal Aviation Administration"
-  - "Federal Communications Commission"
-  - "Federal Trade Commission"
-  - "Health and Human Services Department"
-  - "Justice Department"
-  - "Transportation Department"
+  - Antitrust Division
+  - Federal Aviation Administration
+  - Federal Communications Commission
+  - Federal Trade Commission
+  - Health and Human Services Department
+  - Justice Department
+  - Transportation Department
 subawards-issued: 50
 subawards-issued-amount: 37495275
 subawards-received: 50
 subawards-received-amount: 37495275
-top-federal-agency: "Department of Defense"
+top-federal-agency: Department of Defense
 top-naics-code: "517110"
 federal-awards-total: 649696365
 federal-contracts-count: 25
 federal-grants-count: 0
 cpsc-recalls: 2
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 total-revenue: 5056273
 total-assets: 23768481
 related: "[[News Corp - Fox Corporation]] · [[The Telecom and Media Monopoly Oversight]] · [[Akin Gump Strauss Hauer & Feld]] · [[AT&T - WarnerMedia]] · [[Comcast - NBCUniversal]] · [[iHeartMedia]] · [[Walt Disney Company]] · [[Sinclair Broadcast Group]] · [[Telecom Industry]]"
-lei: "549300P62FU7SYVYQG84"
-lei-jurisdiction: "FR"
+lei: 549300P62FU7SYVYQG84
+lei-jurisdiction: FR
 cross-vault-triangulation-count: 8
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 266
-epa-states: "CA, IA, IL, KS, MA, MD, MI, NH, NJ, NY, PA, RI, VA, VT, WI"
+epa-states: CA, IA, IL, KS, MA, MD, MI, NH, NJ, NY, PA, RI, VA, VT, WI
 employee-contributions: 21085
 employee-contributions-total: 1947154
 employee-donor-count: 3274
+politicians-funded: "[[CHC BOLD PAC]], [[DCCC - Democratic Congressional Campaign Committee]], [[Senate Conservatives Fund]], [[_Nancy Pelosi Master Profile]], [[_Josh Riley Master Profile]], [[_Laura Friedman Master Profile]], [[_Dave Min Master Profile]], [[_Diana Degette Master Profile]], [[_Rashida Tlaib Master Profile]], [[Votevets]], [[MoveOn.org Political Action]], [[_Tammy Baldwin Master Profile]], [[RNC - Republican National Committee]], [[Working Families Party PAC]], [[ActBlue]], [[WinRed]], [[_Jon Ossoff Master Profile]], [[_Lauren Boebert Master Profile]], [[_Cory Booker Master Profile]], [[_Lois Frankel Master Profile]], [[National Rifle Association]], [[Let America Vote PAC]], [[_Glenn Ivey Master Profile]], [[Emily's List]], [[_Beth van Duyne Master Profile]], [[_Marco Rubio Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Jason Crow Master Profile]], [[_Kevin Kiley Master Profile]], [[_Jimmy Gomez Master Profile]], [[_Ted Cruz Master Profile]], [[WinSenate]], [[NRSC - National Republican Senatorial Committee]], [[Democratic Party of Virginia]], [[Indivisible Action]], [[Performance Racing Inc.]], [[_Andy Harris Master Profile]], [[_Claudia Tenney Master Profile]], [[_Chris Pappas Master Profile]], [[_Summer Lee Master Profile]], [[Courage to Change PAC]], [[Catherine Cortez Masto]], [[_Morgan McGarvey Master Profile]], [[_Chrissy Houlahan Master Profile]], [[_Robert Garcia Master Profile]], [[_Ben Cline Master Profile]], [[Teamsters - International Brotherhood of Teamsters]], [[MAGA Inc]], [[Progressive Turnout Project]], [[_Patrick Ryan Master Profile]], [[NRCC - National Republican Congressional Committee]], [[_Scott Wiener Master Profile]], [[_George Latimer Master Profile]], [[_Shontel Brown Master Profile]], [[_Lisa Blunt Rochester Master Profile]], [[Human Rights Campaign Equality Votes]], [[Save America PAC]], [[_Josh Hawley Master Profile]], [[_Angie Craig Master Profile]], [[_Elissa Slotkin Master Profile]], [[JUSTICE DEMOCRATS PAC]], [[_Virginia Foxx Master Profile]], [[The Lincoln Project]], [[REPUBLICAN PARTY OF FLORIDA]], [[Bob Casey]], [[_Tony Gonzales Master Profile]], [[_Ron Johnson Master Profile]], [[League of Conservation Voters]], [[NORPAC]], [[_Adam Gray Master Profile]], [[_David Scott Master Profile]], [[MAJORITY PAC]], [[Giffords PAC]], [[Trump Victory]], [[_Jim Jordan Master Profile]], [[Mark Kelly]], [[Hmp]], [[Chris Christie]], [[AIPAC - American Israel Public Affairs Committee]], [[314 ACTION FUND]], [[Sierra Club Political Committee]], [[_Gabe Amo Master Profile]], [[Los Angeles County Democratic Central Committee]], [[Bernie Moreno]], [[_Alex Padilla Master Profile]], [[_Nathaniel Moran Master Profile]], [[_Victoria Spartz Master Profile]], [[_John James Master Profile]], [[_Tim Scott Master Profile]], [[_Jamie Raskin Master Profile]], [[National Victory Action Fund]], [[_Dwight Evans Master Profile]], [[_Susie Lee Master Profile]], [[_Hilda Solis Master Profile]], [[_Deb Haaland Master Profile]], [[Marianne Williamson]], [[Barbara Lee]], [[_Lauren Underwood Master Profile]], [[_Mark Takano Master Profile]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[Ab Pac]], [[Beth van Duyne]], [[Robert Garcia]], [[Summer Lee]], [[Morgan McGarvey]], [[Andy Harris]], [[John James]], [[Rashida Tlaib]], [[Diana Degette]], [[Nancy Pelosi]], [[Josh Hawley]], [[Ted Cruz]], [[Marco Rubio]], [[Nathaniel Moran]], [[Ron Johnson]], [[Cory Booker]], [[Tim Scott]], [[Lois Frankel]], [[Jon Ossoff]], [[Josh Riley]], [[Jamie Raskin]], [[Virginia Foxx]], [[Shontel Brown]], [[Chris Pappas]], [[Laura Friedman]], [[Jimmy Gomez]], [[Jason Crow]], [[George Latimer]], [[Mark Takano]], [[Scott Wiener]], [[Lauren Boebert]], [[Lisa Blunt Rochester]], [[Dwight Evans]], [[Ben Cline]], [[Chrissy Houlahan]], [[Tony Gonzales]], [[Kevin Kiley]], [[Angie Craig]], [[Victoria Spartz]], [[Jim Jordan]], [[Hilda Solis]], [[Adam Gray]], [[Glenn Ivey]], [[Deb Haaland]], [[Claudia Tenney]], [[Lauren Underwood]], [[Dave Min]], [[Elissa Slotkin]], [[Tammy Baldwin]], [[Gabe Amo]], [[Patrick Ryan]], [[David Scott]], [[Susie Lee]], [[Alex Padilla]]"
 ---
 
 
@@ -357,3 +356,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/133319048/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/133319048/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/133319048/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 3 (2020–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $6.3M |
+| Total expenses | — |
+| Total assets (EOY) | $26.0M |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

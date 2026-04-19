@@ -2,12 +2,12 @@
 title: Heritage Foundation
 type: donor
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Dark Money
 entity-type: Individual Donor
-politicians-funded: "[[Jim Risch]], [[Jodey Arrington]], [[Donna Miller]], [[Stephen Miller]]"
+politicians-funded: "[[Jim Risch]], [[Jodey Arrington]], [[Donna Miller]], [[Stephen Miller]], [[_Jim Jordan Master Profile]], [[WinRed]], [[Trump Victory]], [[Alliance Defending Freedom]], [[FreedomWorks for America]], [[NRCC - National Republican Congressional Committee]], [[Club for Growth]], [[_Marco Rubio Master Profile]], [[_Cory Mills Master Profile]], [[MAGA Inc]], [[_Ralph Norman Master Profile]], [[_Ron Johnson Master Profile]], [[_Josh Hawley Master Profile]], [[RNC - Republican National Committee]], [[NRSC - National Republican Senatorial Committee]], [[REPUBLICAN PARTY OF FLORIDA]], [[_Tim Scott Master Profile]], [[_Ted Cruz Master Profile]], [[Ron Johnson]], [[Ralph Norman]], [[Marco Rubio]], [[Ted Cruz]], [[Jim Jordan]], [[Josh Hawley]], [[Cory Mills]], [[Tim Scott]]"
 issues:
   - Dark Money & Campaign Finance
 ein: "237327730"
@@ -505,3 +505,50 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/237327730/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/237327730/2019)~~ (URL broken, archived by Ops)
 - ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/237327730/2018)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 11 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | — |
+| Grants paid out | — |
+
+**Lifetime grants out (2018–2024):** $12.8M across 48 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| THE DAILY SIGNAL INSTITUTE | $3.5M | 1 | 2024 |
+| HERITAGE ACTION FOR AMERICA | $1.6M | 4 | 2020–2024 |
+| 170 FREEDOM MILWAUKEE 2024 HOST COMMITTEE INC | $1.0M | 1 | 2024 |
+| TRUMP VANCE INAUGURAL COMMITTEE INC | $1.0M | 1 | 2024 |
+| FORGE LEADERSHIP NETWORK | $500K | 3 | 2022–2024 |
+| PERSONNEL POLICY OPERATIONS INC | $500K | 1 | 2024 |
+| VOTE FOR AMERICA | $500K | 1 | 2024 |
+| CONCERNED WOMEN FOR AMERICA | $395K | 4 | 2019–2024 |
+| AMERICAN MOVEMENT FOUNDATION | $305K | 1 | 2024 |
+| OKLAHOMA COUNCIL OF PUBLIC AFFAIRS | $250K | 2 | 2023–2024 |
+| EDMUND BURKE FOUNDATION INC | $250K | 1 | 2024 |
+| ALLIANCE DEFENDING FREEDOM | $200K | 2 | 2020–2022 |
+| READY WILLING &amp; WORKING | $181K | 5 | 2020–2024 |
+| THOMAS JEFFERSON INSTITUTE | $150K | 1 | 2022 |
+| VICTIMS OF COMMUNISM MEMORIAL | $150K | 1 | 2022 |
+| CAPITOL HILL BUSINESS IMPROVEMENT DISTRICT | $109K | 3 | 2018–2020 |
+| STATE GOVERNMENT LEADERSHIP FOUNDATION | $105K | 3 | 2022–2024 |
+| INDEPENDENT WOMEN'S FORUM | $100K | 1 | 2022 |
+| STATE FINANCIAL OFFICERS FOUNDATION | $100K | 1 | 2022 |
+| DEFENSE OF FREEDOM INSTITUTE | $100K | 1 | 2022 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

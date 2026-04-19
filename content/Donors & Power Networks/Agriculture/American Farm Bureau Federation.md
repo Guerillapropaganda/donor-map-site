@@ -2,12 +2,12 @@
 title: American Farm Bureau Federation
 type: donor
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Agriculture
 entity-type: Individual Donor
-politicians-funded: "[[Donald Trump]], [[Frank Lucas]], [[Jodey Arrington]]"
+politicians-funded: "[[Donald Trump]], [[Frank Lucas]], [[Jodey Arrington]], [[The Lincoln Project]], [[WinRed]], [[_David Rouzer Master Profile]], [[_Marco Rubio Master Profile]], [[ActBlue]], [[_Jeff Hurd Master Profile]], [[RNC - Republican National Committee]], [[NRSC - National Republican Senatorial Committee]], [[_Brian Jack Master Profile]], [[Jeff Hurd]], [[David Rouzer]], [[Brian Jack]], [[Marco Rubio]]"
 issues:
   - Agriculture
   - Environment
@@ -500,3 +500,50 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/360725160/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/360725160/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/360725160/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 7 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $107K |
+| Total expenses | — |
+| Total assets (EOY) | $125.6M |
+| Grants paid out | $259K |
+
+**Lifetime grants out (2018–2024):** $2.6M across 43 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| AFBFA | $762K | 2 | 2019–2020 |
+| AMERICAN FARM BUREAU FOUNDATION FOR AGRICULTURE | $660K | 4 | 2018–2024 |
+| US FARMERS &amp; RANCHERS ALLIANCE | $300K | 2 | 2019–2020 |
+| AMERICAN FARM BUREAU FEDERATION FOR AGRICULTURE | $165K | 1 | 2022 |
+| AGRI-PULSE | $74K | 2 | 2019–2020 |
+| AGRI-PULSE COMMUNICATIONS INC | $66K | 4 | 2021–2024 |
+| NATIONAL FFA FOUNDATION | $65K | 6 | 2018–2024 |
+| FARMERS FOR FREE TRADE | $60K | 2 | 2019–2020 |
+| NATIONAL 4-H CONGRESS FOUNDATION | $40K | 4 | 2021–2024 |
+| MOUNTAIN STATES LEGAL FOUNDATION | $30K | 4 | 2020–2024 |
+| PACIFIC LEGAL FOUNDATION | $30K | 5 | 2020–2024 |
+| WESTERN RESOURCES LEGAL CENTER | $30K | 5 | 2020–2024 |
+| CENTER FOR FOOD INTEGRITY | $30K | 1 | 2022 |
+| CONGRESSIONAL SPORTS FOR CHARITY | $30K | 3 | 2019–2023 |
+| WESTERN GOVERNORS' ASSOCIATION | $25K | 3 | 2019–2021 |
+| MINORITIES IN AGRICULTURE NATURAL RESOURCES AND RELATED SCIENCES | $20K | 2 | 2022–2024 |
+| NATIONAL 4-H COUNCIL | $20K | 2 | 2018–2019 |
+| AGRICULTURE FUTURE OF AMERICA | $19K | 2 | 2023–2024 |
+| MINOR CROP FARMER ALLIANCE | $15K | 2 | 2020–2022 |
+| THE RUSSELL GROUP INC | $13K | 1 | 2023 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

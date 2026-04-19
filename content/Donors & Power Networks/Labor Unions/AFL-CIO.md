@@ -14,7 +14,7 @@ annual-revenue: $70K
 net-assets: $47K
 tax-year: "2023"
 total-political-spend: $5,644,162
-politicians-funded: "[[Adam Schiff]], [[Brendan Boyle]]"
+politicians-funded: "[[Adam Schiff]], [[Brendan Boyle]], [[Sheldon Whitehouse]], [[_Debbie Wasserman Schultz Master Profile]], [[ActBlue]], [[_Jamie Raskin Master Profile]], [[Mark Kelly]], [[Vicente Gonzalez]], [[Kristen McDonald Rivet]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Catherine Cortez Masto]], [[Seth Magaziner]], [[Dan Osborn]], [[Steven Horsford]], [[Nikki Budzinski]], [[Chris Murphy]], [[CHC BOLD PAC]], [[Rosa DeLauro]], [[AFL-CIO]], [[Morgan McGarvey]], [[Lisa Murkowski]], [[John Fetterman]], [[Bobby Scott]], [[Frank Pallone]], [[_Jon Ossoff Master Profile]], [[Mark Pocan]], [[Patty Murray]], [[Joyce Beatty]], [[Susie Lee]], [[_Jimmy Gomez Master Profile]], [[Jimmy Gomez]], [[Jahana Hayes]], [[Ron Johnson]], [[DNC - Democratic National Committee]], [[Marcy Kaptur]], [[Greg Landsman]], [[Robert Menendez]], [[Judy Chu]], [[Congressional Progressive Caucus PAC]], [[Josh Harder]], [[Donald Norcross]], [[Dina Titus]], [[Debbie Dingell]], [[Greg Stanton]], [[Sharice Davids]], [[WinRed]], [[Eric Sorensen]], [[Mad Dog PAC]], [[Brittany Pettersen]], [[Elissa Slotkin]], [[Adam Gray]], [[Teresa Leger Fernandez]], [[Raphael Warnock]], [[Kim Schrier]], [[DCCC - Democratic Congressional Campaign Committee]], [[Henry Cuellar]], [[Tammy Baldwin]], [[Summer Lee]], [[Andrea Salinas]], [[Shomari Figures]], [[Lloyd Doggett]], [[Mike Levin]], [[_Lauren Underwood Master Profile]], [[Sherrod Brown]], [[WinSenate]], [[Josh Gottheimer]], [[Jamie Raskin]], [[Jon Ossoff]], [[Debbie Wasserman Schultz]], [[Lauren Underwood]]"
 court-cases: 38202
 last-enriched: "2026-04-08"
 court-jurisdictions:
@@ -379,3 +379,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 - ~~[AFL-CIO: President Shuler on tariff announcement](https://aflcio.org/press/releases/afl-cio-president-tariff-announcement)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22AFL-CIO%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 2 (2021–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | $70K |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | — |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

@@ -1,29 +1,30 @@
 ---
-title: "Cleo Fields"
+title: Cleo Fields
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Louisiana"
-state-abbr: "LA"
+party: Democrat
+chamber: House
+state: Louisiana
+state-abbr: LA
 district: "6"
-bioguide-id: "F000110"
+bioguide-id: F000110
 govtrack-id: 404067
 born: "1962-11-22"
-wikidata-id: "Q1100451"
-website: "https://fields.house.gov"
-phone: "202-225-3901"
+wikidata-id: Q1100451
+website: https://fields.house.gov
+phone: 202-225-3901
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H4LA06211"
+fec-candidate-id: H4LA06211
+top-donors: "[[Robert Garcia]], [[Walmart - Walton Family]], [[National Association of Realtors]], [[AT&T - WarnerMedia]], [[SEIU COPE]], [[American Hospital Association PAC]], [[American Federation of State County & Municipal Employees P E O P L E]], [[National Multifamily Housing Council]], [[Ted Lieu]], [[NEA Fund for Children and Public Education]], [[IBEW - International Brotherhood of Electrical Workers]], [[UnitedHealth Group - Optum]], [[Chevron]]"
 ---
 
 

@@ -1,33 +1,34 @@
 ---
-title: "Troy Balderson"
+title: Troy Balderson
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Ohio"
-state-abbr: "OH"
+party: Republican
+chamber: House
+state: Ohio
+state-abbr: OH
 district: "12"
-bioguide-id: "B001306"
+bioguide-id: B001306
 govtrack-id: 412747
 born: "1962-01-16"
-wikidata-id: "Q16194422"
-website: "https://balderson.house.gov"
-phone: "202-225-5355"
+wikidata-id: Q16194422
+website: https://balderson.house.gov
+phone: 202-225-5355
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H8OH12180"
+fec-candidate-id: H8OH12180
 bills-sponsored: 18
 bills-cosponsored: 283
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Marathon Petroleum]], [[American Hospital Association PAC]], [[David Rouzer]], [[Chevron]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Walmart - Walton Family]], [[Nucor Corporation]], [[AIPAC - American Israel Public Affairs Committee]], [[General Motors]], [[Performance Racing Inc.]], [[Valero Energy]], [[Northrop Grumman]], [[General Dynamics]], [[National Restaurant Association]], [[Austin Scott]], [[MAJORITY PAC]], [[Save America PAC]], [[Honeywell]], [[National Association of Manufacturers]], [[Amgen Inc]], [[CVS Health - Aetna]], [[Jim Jordan]], [[National Cattlemen's Beef Association]], [[Associated General Contractors of America Political Action Committee]], [[McDonalds Corporation]], [[AT&T - WarnerMedia]], [[National Right to Life Victory Fund]], [[National Rifle Association]], [[Pfizer Inc.]], [[National Multifamily Housing Council]], [[American Chemistry Council, INC]], [[iHeartMedia]], [[Care Action]], [[AbbVie]], [[National Association of Realtors]], [[Anthem - Elevance Health]], [[Microsoft]], [[American College of Radiology Association PAC]], [[Duke Energy]], [[Ford Motor Company]], [[Comcast - NBCUniversal]], [[UA Political Action Committee]], [[WinRed]], [[Gilead Sciences]], [[Halliburton]], [[Google - Alphabet]]"
 ---
 
 

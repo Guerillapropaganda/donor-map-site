@@ -1,30 +1,30 @@
 ---
-title: "Tim Moore"
+title: Tim Moore
 type: politician
 content-readiness: raw
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "North Carolina"
-state-abbr: "NC"
+party: Republican
+chamber: House
+state: North Carolina
+state-abbr: NC
 district: "14"
-bioguide-id: "M001236"
+bioguide-id: M001236
 govtrack-id: 457005
 born: "1970-10-02"
-wikidata-id: "Q7804002"
-website: "https://timmoore.house.gov"
-phone: "202-225-5634"
+wikidata-id: Q7804002
+website: https://timmoore.house.gov
+phone: 202-225-5634
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
-donors: "[[Brady Campaign]]"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
+donors: "[[Brady Campaign]], [[Citigroup]], [[Defend American Jobs]], [[Troy Downing]], [[AIPAC - American Israel Public Affairs Committee]], [[Care Action]], [[National Multifamily Housing Council]], [[General Motors]], [[Duke Energy]], [[Bank of America]], [[Southern States Police Benevolent Assoc PAC Fund]], [[Jim Jordan]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[American Hospital Association PAC]], [[David Rouzer]], [[National Restaurant Association]], [[National Rifle Association]], [[Honeywell]], [[Nucor Corporation]], [[National Association of Realtors]], [[MAJORITY PAC]], [[Associated General Contractors of America Political Action Committee]], [[Club for Growth INC PAC]], [[Morgan Stanley]]"
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H4NC14015"
+fec-candidate-id: H4NC14015
 ---
 
 

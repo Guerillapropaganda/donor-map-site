@@ -5,15 +5,15 @@ chamber: House
 party: Democrat
 content-readiness: ready
 central-thesis: Barbara Lee's 2001 AUMF vote is the most celebrated anti-war vote in modern U.S. history. She voted alone against indefinite military authorization. Yet in 2024, when Lee ran for the Senate from California, she was systematically outspent and elim...
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
-total-received: "$375,046"
-fec-candidate-id: "H8CA09060"
+total-received: $375,046
+fec-candidate-id: H8CA09060
 last-enriched: "2026-04-18"
 needs-reenrichment: true
 reenrich-reason: run congress pipeline
-donors: "[[Tim Dunn]] · [[Rebekah Mercer]] · [[Kucinich Action PAC]] · [[CARE ACTION]] · [[SANDRE SWANSON FOR ASSEMBLY 2010]] · [[TOGETHER WE THRIVE]] · [[Courage California Super Pac]] · [[Together We Thrive]] · [[KUCINICH ACTION PAC]] · [[Sandre Swanson for Assembly 2010]] · [[Care Action]] · [[California Nurses Association]] · [[AFSCME - American Federation of State County and Municipal Employees]]"
+donors: "[[Tim Dunn]] · [[Rebekah Mercer]] · [[Kucinich Action PAC]] · [[CARE ACTION]] · [[SANDRE SWANSON FOR ASSEMBLY 2010]] · [[TOGETHER WE THRIVE]] · [[Courage California Super Pac]] · [[Together We Thrive]] · [[KUCINICH ACTION PAC]] · [[Sandre Swanson for Assembly 2010]] · [[Care Action]] · [[California Nurses Association]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[Nvidia]] · [[Wells Fargo]] · [[UPS]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Google - Alphabet]] · [[Tesla - Elon Musk Political Operation]] · [[Pfizer Inc.]] · [[Apple]] · [[Everytown for Gun Safety]] · [[Microsoft]] · [[Comcast - NBCUniversal]] · [[Blue Shield of California]] · [[Kaiser Permanente]] · [[Meta - Facebook]] · [[Johnson & Johnson]] · [[Bank of America]] · [[National Association of Realtors]] · [[Gilead Sciences]] · [[Open Society Foundations]] · [[PG&E - Pacific Gas and Electric]] · [[American Hospital Association PAC]] · [[AbbVie]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[AT&T]] · [[National Nurses United]] · [[General Motors]] · [[Sierra Club Independent Action]] · [[International Longshore and Warehouse Union -- Political Action Fund]] · [[Oracle]] · [[NEA Fund for Children and Public Education]] · [[PG&E]] · [[Center for American Progress]] · [[Northrop Grumman]] · [[Progressive Turnout Project]] · [[BlackRock]] · [[J Street]] · [[Raytheon (RTX)]] · [[Chevron]] · [[Bonnie Watson Coleman]] · [[Novo Nordisk]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Instacart]] · [[SEIU - Service Employees International Union]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Morgan Stanley]] · [[Planned Parenthood Action Fund INC]] · [[California Labor Federation]] · [[ActBlue]] · [[Uber]] · [[Anthem - Elevance Health Political Operation]] · [[CTA - California Teachers Association]] · [[Amazon]] · [[Monsanto - Bayer]] · [[Anthropic]] · [[Verizon]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[League of Conservation Voters]] · [[Planned Parenthood Votes]] · [[Lyft]] · [[Medicare for All - The Policy That Broke the Party]] · [[Anthem - Elevance Health]] · [[SEIU COPE]]"
 bioguide-id: L000551
 govtrack-id: 400237
 bills-sponsored: 186
@@ -36,8 +36,8 @@ issues:
   - Government Operations and Politics
   - Health
 bills-enacted: 1
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "Health"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: Health
 ---
 
 

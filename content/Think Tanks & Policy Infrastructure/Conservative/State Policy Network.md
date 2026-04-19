@@ -1,19 +1,19 @@
 ---
-title: "State Policy Network"
+title: State Policy Network
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
 ein: "570952531"
-annual-revenue: "$27.1M"
-net-assets: "$20.7M"
+annual-revenue: $27.1M
+net-assets: $20.7M
 tax-year: "2023"
 sec-filings: 3
 sec-form-types:
-  - "EX-99"
-  - "N-CSR"
-  - "PX14A6G"
+  - EX-99
+  - N-CSR
+  - PX14A6G
 subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
@@ -23,33 +23,32 @@ nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-10"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 source-types:
   - SEC
   - USASpending
 corroboration-count: 2
 known-gaps:
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
-nonprofit-status: "501(c)(3)"
+  - No FEC contribution data
+  - No lobbying disclosure data
+nonprofit-status: 501(c)(3)
 total-revenue: 33889522
 total-assets: 24576851
 court-cases: 23
 court-jurisdictions:
-  - "Court of Appeals for the Fifth Circuit"
-  - "Court of Appeals for the Sixth Circuit"
-  - "District Court, D. Puerto Rico"
-  - "District Court, N.D. California"
-  - "District Court, S.D. New York"
-  - "District Court, W.D. Texas"
+  - Court of Appeals for the Fifth Circuit
+  - Court of Appeals for the Sixth Circuit
+  - District Court, D. Puerto Rico
+  - District Court, N.D. California
+  - District Court, S.D. New York
+  - District Court, W.D. Texas
 cross-vault-triangulation-count: 6
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
 employee-contributions: 3
 employee-contributions-total: 1551
 employee-donor-count: 2
+politicians-funded: "[[WinRed]], [[_Marco Rubio Master Profile]], [[Marco Rubio]]"
 ---
 
 #think-tank #conservative #state-level #deregulation #koch-network #dark-money #class-analysis #follow-the-money

@@ -6,11 +6,11 @@ sector: Dark Money
 entity-type: Super PAC
 committee-id: C00523621
 fec-url: https://www.fec.gov/data/committee/C00523621/
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-ie-support: $4,631
 fec-ie-oppose: null
-politicians-funded: "[[Bobby Scott]]"
+politicians-funded: "[[Bobby Scott]], [[Kamala Harris]], [[Elissa Slotkin]], [[Ron Johnson]], [[Young Kim]], [[Donald Trump]], [[Raphael Warnock]], [[Ruben Gallego]], [[Jacky Rosen]], [[Susie Lee]], [[Greg Stanton]]"
 related: "[[Bobby Scott]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

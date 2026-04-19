@@ -2,12 +2,12 @@
 title: Uber
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Gig Economy
 entity-type: Corporation
-politicians-funded: "[[Donald Trump]], [[Gavin Newsom]]"
+politicians-funded: "[[Donald Trump]], [[Gavin Newsom]], [[The Lincoln Project]], [[_Tim Scott Master Profile]], [[Planned Parenthood Votes]], [[_Jon Ossoff Master Profile]], [[_Nancy Pelosi Master Profile]], [[Mark Kelly]], [[NRCC - National Republican Congressional Committee]], [[_Kevin Kiley Master Profile]], [[MAGA Inc]], [[Marianne Williamson]], [[Planned Parenthood Action Fund INC]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Rashida Tlaib Master Profile]], [[Congressional Leadership Fund]], [[Progressive Turnout Project]], [[MoveOn.org Political Action]], [[ActBlue]], [[WinRed]], [[_Julia Brownley Master Profile]], [[RNC - Republican National Committee]], [[NRSC - National Republican Senatorial Committee]], [[Bob Casey]], [[_Chris Pappas Master Profile]], [[_Marco Rubio Master Profile]], [[Emily's List]], [[DNC - Democratic National Committee]], [[American Conservative Union]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Indivisible Action]], [[_Dwight Evans Master Profile]], [[_Gabe Amo Master Profile]], [[Activate America]], [[_Andy Barr Master Profile]], [[JUSTICE DEMOCRATS PAC]], [[_Jake Ellzey Master Profile]], [[_Lois Frankel Master Profile]], [[_Mike Levin Master Profile]], [[Votevets]], [[Hmp]], [[Trump Victory]], [[CHC BOLD PAC]], [[_Elissa Slotkin Master Profile]], [[National Victory Action Fund]], [[_Scott Wiener Master Profile]], [[_Tammy Baldwin Master Profile]], [[Let America Vote PAC]], [[_Jim Costa Master Profile]], [[WinSenate]], [[AIPAC - American Israel Public Affairs Committee]], [[_Ted Cruz Master Profile]], [[Save America PAC]], [[_Angie Craig Master Profile]], [[_Jake Auchincloss Master Profile]], [[_Josh Hawley Master Profile]], [[_Alex Padilla Master Profile]], [[Senate Conservatives Fund]], [[Catherine Cortez Masto]], [[Barbara Lee]], [[_Adam Gray Master Profile]], [[Demand Justice]], [[_Kamala Harris Master Profile]], [[314 ACTION FUND]], [[Giffords PAC]], [[_Josh Harder Master Profile]], [[Human Rights Campaign Equality Votes]], [[PRIORITIES USA ACTION]], [[Elissa Slotkin]], [[Tammy Baldwin]], [[Mike Levin]], [[Kevin Kiley]], [[Scott Wiener]], [[Jake Auchincloss]], [[Gabe Amo]], [[Jim Costa]], [[Alex Padilla]], [[Jake Ellzey]], [[Josh Hawley]], [[Nancy Pelosi]], [[Josh Harder]], [[Marco Rubio]], [[Dwight Evans]], [[Andy Barr]], [[Adam Gray]], [[Rashida Tlaib]], [[Julia Brownley]], [[Jon Ossoff]], [[Chris Pappas]], [[Angie Craig]], [[Kamala Harris]], [[Lois Frankel]], [[Ted Cruz]], [[Tim Scott]]"
 issues:
   - Technology
 sec-filings: 10000
@@ -99,7 +99,7 @@ court-jurisdictions:
 cross-vault-triangulation-count: 14
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 3
-epa-states: "CA"
+epa-states: CA
 employee-contributions: 12769
 employee-contributions-total: 1279342
 employee-donor-count: 1603
@@ -551,3 +551,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[The Hill: Flex Association launch](https://thehill.com/business-a-lobbying/business-a-lobbying/597404-gig-companies-launch-lobbying-group-to-counter-pro/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Uber)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Uber%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 1 (2024–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | $108K |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | — |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

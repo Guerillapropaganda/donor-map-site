@@ -1,30 +1,30 @@
 ---
-title: "Darrell Issa"
+title: Darrell Issa
 type: politician
 content-readiness: raw
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "California"
-state-abbr: "CA"
+party: Republican
+chamber: House
+state: California
+state-abbr: CA
 district: "48"
-bioguide-id: "I000056"
+bioguide-id: I000056
 govtrack-id: 400196
 born: "1953-11-01"
-wikidata-id: "Q1166592"
-website: "https://issa.house.gov"
-phone: "202-225-5672"
+wikidata-id: Q1166592
+website: https://issa.house.gov
+phone: 202-225-5672
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 related: "[[Fanjul Family - Florida Crystals]]"
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H0CA48024"
+fec-candidate-id: H0CA48024
 total-raised: 131892
 total-spent: 77488
 cash-on-hand: 100010
@@ -33,7 +33,8 @@ contributions-to-committees: 51700
 bills-sponsored: 45
 bills-cosponsored: 199
 bills-enacted: 1
-top-policy-area: "International Affairs"
+top-policy-area: International Affairs
+top-donors: "[[AT&T - WarnerMedia]], [[Walmart - Walton Family]], [[Comcast - NBCUniversal]], [[Chevron]], [[Jim Jordan]], [[Lockheed Martin]], [[Microsoft]], [[AIPAC - American Israel Public Affairs Committee]], [[PG&E - Pacific Gas and Electric]], [[Johnson & Johnson]], [[Ben Cline]], [[Raytheon (RTX)]], [[MAJORITY PAC]], [[National Rifle Association]], [[National Association of Realtors]], [[Google - Alphabet]], [[WinRed]], [[American Gaming Association]], [[Planned Parenthood Votes]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Associated General Contractors of America Political Action Committee]], [[Republican Jewish Coalition]], [[Darrell Issa]], [[General Dynamics]], [[Save America PAC]], [[Oracle]], [[PG&E]], [[Raytheon (RTX Corporation)]], [[Ballard Partners]], [[Apple]], [[Las Vegas Sands]], [[CTA - California Teachers Association]], [[National Restaurant Association]], [[Meta - Facebook]], [[SpaceX]], [[Amazon]]"
 ---
 
 

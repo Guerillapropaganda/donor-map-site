@@ -1,23 +1,23 @@
 ---
-title: "NRSC - National Republican Senatorial Committee"
+title: NRSC - National Republican Senatorial Committee
 type: donor
 content-readiness: raw
 editorial-status: stub
-sector: "Political Committees"
-entity-type: "PAC"
-last-updated: 2026-04-14
+sector: Political Committees
+entity-type: PAC
+last-updated: 2026-04-14T00:00:00.000Z
 source-tier: 1
 aliases:
-  - "NRSC"
-  - "NATIONAL REPUBLICAN SENATORIAL COMMITTEE"
+  - NRSC
+  - NATIONAL REPUBLICAN SENATORIAL COMMITTEE
 known-gaps:
-  - "Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis."
+  - Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis.
 ofac-sdn-match: "true"
 last-enriched: "2026-04-14"
 ofac-programs:
-  - "BALKANS"
-  - "BELARUS"
-  - "GLOMAG"
+  - BALKANS
+  - BELARUS
+  - GLOMAG
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -30,6 +30,7 @@ contributions-to-committees: 1493000
 employee-contributions: 62
 employee-contributions-total: 13662
 employee-donor-count: 22
+politicians-funded: "[[Deb Fischer]], [[WinRed]], [[John Boozman]], [[_John James Master Profile]], [[Markwayne Mullin]], [[Tim Sheehy]], [[Roger Marshall]], [[John Cornyn]], [[Ted Cruz]], [[Ashley Moody]], [[Michael Whatley]], [[Susan Collins]], [[Mark Kelly]], [[James Lankford]], [[Catherine Cortez Masto]], [[Lisa Murkowski]], [[Cindy Hyde-Smith]], [[Shelley Moore Capito]], [[Jon Ossoff]], [[Jon Husted]], [[_Marco Rubio Master Profile]], [[Raphael Warnock]], [[AIPAC - American Israel Public Affairs Committee]], [[Eric Schmitt]], [[Steve Daines]], [[Katie Britt]], [[RNC - Republican National Committee]], [[Ron Johnson]], [[Mike Lee]], [[Bernie Moreno]], [[Pete Ricketts]], [[Ashley Hinson]], [[Bill Hagerty]], [[Lindsey Graham]], [[Dan Sullivan]], [[Elissa Slotkin]], [[John Fetterman]], [[Sherrod Brown]], [[_Brian Jack Master Profile]], [[Mike Rounds]], [[Rick Scott]], [[Jacky Rosen]], [[John James]], [[Brian Jack]], [[Marco Rubio]]"
 ---
 
 

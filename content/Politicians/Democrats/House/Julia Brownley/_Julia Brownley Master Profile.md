@@ -1,33 +1,34 @@
 ---
-title: "Julia Brownley"
+title: Julia Brownley
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "California"
-state-abbr: "CA"
+party: Democrat
+chamber: House
+state: California
+state-abbr: CA
 district: "26"
-bioguide-id: "B001285"
+bioguide-id: B001285
 govtrack-id: 412516
 born: "1952-08-28"
-wikidata-id: "Q3577073"
-website: "https://juliabrownley.house.gov"
-phone: "202-225-5811"
+wikidata-id: Q3577073
+website: https://juliabrownley.house.gov
+phone: 202-225-5811
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H2CA00120"
+fec-candidate-id: H2CA00120
 bills-sponsored: 58
 bills-cosponsored: 688
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Lockheed Martin]], [[Amgen Inc]], [[American College of Radiology Association PAC]], [[National Association of Realtors]], [[Northrop Grumman]], [[Nancy Pelosi]], [[National Multifamily Housing Council]], [[PG&E - Pacific Gas and Electric]], [[J Street]], [[League of Conservation Voters]], [[Jason Crow]], [[NEA Fund for Children and Public Education]], [[Honeywell]], [[American Hospital Association PAC]], [[Courage California Super Pac]], [[Leidos]], [[Anthem - Elevance Health]], [[AbbVie]], [[AT&T - WarnerMedia]], [[UA Political Action Committee]], [[Sierra Club Independent Action]], [[Comcast - NBCUniversal]], [[Jamie Raskin]], [[Raytheon (RTX)]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[General Dynamics]], [[AIPAC - American Israel Public Affairs Committee]], [[CTA - California Teachers Association]], [[Veronica Escobar]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Emily's List]], [[Planned Parenthood Votes]], [[Ted Lieu]], [[Teamsters - International Brotherhood of Teamsters]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Food and Water Action]], [[Unite Here Tip Campaign Committee]], [[Ford Motor Company]], [[Planned Parenthood Action Fund INC]], [[Congressional Leadership Fund]], [[Giffords PAC]], [[IBEW - International Brotherhood of Electrical Workers]], [[Tyson Foods]], [[Pfizer Inc.]], [[American Federation of State County & Municipal Employees P E O P L E]], [[SEIU COPE]], [[DCCC - Democratic Congressional Campaign Committee]], [[Google - Alphabet]], [[Putting People First Political Action Committee]], [[Indivisible Action]], [[General Motors]], [[Care Action]], [[Mark DeSaulnier]], [[Progressive Turnout Project]], [[Joe Neguse]], [[Apple]], [[Microsoft]], [[UPS]], [[Bank of America]], [[AT&T]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[Kaiser Permanente]], [[Wells Fargo]], [[Meta - Facebook]], [[Anthem - Elevance Health Political Operation]], [[Nvidia]], [[Blue Shield of California]], [[Walt Disney Company]], [[CBRE Group]], [[Uber]], [[Walmart]], [[News Corp - Fox Corporation]], [[CVS Health - Aetna]]"
 ---
 
 

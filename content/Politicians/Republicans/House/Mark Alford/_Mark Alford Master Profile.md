@@ -1,33 +1,34 @@
 ---
-title: "Mark Alford"
+title: Mark Alford
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Missouri"
-state-abbr: "MO"
+party: Republican
+chamber: House
+state: Missouri
+state-abbr: MO
 district: "4"
-bioguide-id: "A000379"
+bioguide-id: A000379
 govtrack-id: 456909
 born: "1963-10-04"
-wikidata-id: "Q115137637"
-website: "https://alford.house.gov"
-phone: "202-225-2876"
+wikidata-id: Q115137637
+website: https://alford.house.gov
+phone: 202-225-2876
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H2MO04207"
+fec-candidate-id: H2MO04207
 bills-sponsored: 25
 bills-cosponsored: 196
 bills-enacted: 1
-top-policy-area: "Agriculture and Food"
+top-policy-area: Agriculture and Food
+top-donors: "[[Walmart - Walton Family]], [[L3Harris Technologies]], [[Jason Smith]], [[Microsoft]], [[Associated General Contractors of America Political Action Committee]], [[National Association of Realtors]], [[AT&T - WarnerMedia]], [[Jim Jordan]], [[Northrop Grumman]], [[National Restaurant Association]], [[BAE Systems]], [[General Dynamics]], [[American Dream Federal Action]], [[AIPAC - American Israel Public Affairs Committee]], [[Tyson Foods]], [[Adrian Smith]], [[WinRed]], [[MAJORITY PAC]], [[Honeywell]], [[Leidos]], [[National Cattlemen's Beef Association]], [[American Hospital Association PAC]], [[National Rifle Association]], [[Nucor Corporation]], [[Ford Motor Company]], [[Pete Sessions]], [[ADM - Archer Daniels Midland]], [[Austin Scott]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Lockheed Martin]], [[Humana]], [[David Rouzer]], [[iHeartMedia]], [[BlackRock]], [[FTX - Sam Bankman-Fried]], [[CBRE Group]], [[Blackstone Group]], [[AT&T]], [[Bank of America]]"
 ---
 
 

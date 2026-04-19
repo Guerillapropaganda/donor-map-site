@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Mega-Donors
 entity-type: Individual Donor
-politicians-funded: "[[Chris Murphy]], [[Hakeem Jeffries]]"
+politicians-funded: "[[Chris Murphy]], [[Hakeem Jeffries]], [[_Mike Levin Master Profile]], [[Cori Bush]], [[Jason Crow]], [[Barbara Lee]], [[Jerrold Nadler]], [[Dan Goldman]], [[Mark Kelly]], [[Brian Schatz]], [[DSCC - Democratic Senatorial Campaign Committee]], [[ActBlue]], [[Ted Lieu]], [[Ron Wyden]], [[Lois Frankel]], [[Nancy Pelosi]], [[Ruben Gallego]], [[Mike Thompson]], [[Susie Lee]], [[Jared Moskowitz]], [[Josh Harder]], [[Greg Stanton]], [[Morgan McGarvey]], [[Peter Welch]], [[Bernie Sanders]], [[_Gabe Amo Master Profile]], [[Rosa DeLauro]], [[Jamie Raskin]], [[Gregory Meeks]], [[Jahana Hayes]], [[Joaquin Castro]], [[Grace Meng]], [[John Fetterman]], [[Lisa Blunt Rochester]], [[_Jon Ossoff Master Profile]], [[Steve Cohen]], [[Diana Degette]], [[Sharice Davids]], [[Amy Klobuchar]], [[_Tammy Baldwin Master Profile]], [[Sheldon Whitehouse]], [[Tammy Baldwin]], [[Veronica Escobar]], [[WinSenate]], [[George Whitesides]], [[Elissa Slotkin]], [[Shri Thanedar]], [[Dina Titus]], [[Debbie Dingell]], [[Kim Schrier]], [[Raul Ruiz]], [[Giffords PAC]], [[_Angie Craig Master Profile]], [[Andrea Salinas]], [[Eric Swalwell]], [[Pete Aguilar]], [[Jimmy Gomez]], [[DCCC - Democratic Congressional Campaign Committee]], [[Mike Levin]], [[Raphael Warnock]], [[Catherine Cortez Masto]], [[Everytown for Gun Safety]], [[Emily's List]], [[Mike Quigley]], [[Steven Horsford]], [[Mark Pocan]], [[Sarah McBride]], [[Alex Padilla]], [[Tammy Duckworth]], [[Mark Takano]], [[Maxwell Frost]], [[Seth Magaziner]], [[Richard Blumenthal]], [[Patrick Ryan]], [[Judy Chu]], [[Marcy Kaptur]], [[Eric Sorensen]], [[Sherrod Brown]], [[Lauren Underwood]], [[Maxine Dexter]], [[Everytown for Gun Safety Victory Fund]], [[Jimmy Panetta]], [[Robert Garcia]], [[Kristen McDonald Rivet]], [[Nikki Budzinski]], [[_Elissa Slotkin Master Profile]], [[Jim Himes]], [[Chrissy Houlahan]], [[Dwight Evans]], [[Pramila Jayapal]], [[Adam Schiff]], [[Josh Gottheimer]], [[Madeleine Dean]], [[Chris van Hollen]], [[Martin Heinrich]], [[Kamala Harris]], [[Joyce Beatty]], [[Patty Murray]], [[Adriano Espaillat]], [[Jacky Rosen]], [[Gabe Amo]], [[Jon Ossoff]], [[Angie Craig]]"
 total-political-spend: $39,062,644
 federal-register-mentions: 4
 last-enriched: "2026-04-09"
@@ -344,3 +344,50 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: Gun
 Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
 
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Everytown%20for%20Gun%20Safety%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 4 (2019–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $58.8M |
+| Total expenses | — |
+| Total assets (EOY) | $23.2M |
+| Grants paid out | $721K |
+
+**Lifetime grants out (2019–2023):** $2.7M across 53 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| THE GOOD LAND COMMITTEE INC | $250K | 1 | 2020 |
+| STRONGER AMERICA INC | $250K | 1 | 2022 |
+| ROAD TO MICHIGAN'S FUTURE | $200K | 1 | 2023 |
+| SAFE SCHOOLS SAFE COMMUNITIES OREGON | $165K | 2 | 2022–2023 |
+| THE COUNCIL OF STATE GOVERNMENTS LTD | $159K | 4 | 2019–2023 |
+| BLACK CHURCH ACTION FUND | $150K | 1 | 2020 |
+| AMERICA VOTES | $135K | 3 | 2020–2023 |
+| AMERICAN BRIDGE 21ST CENTURY FOUNDATION | $125K | 1 | 2019 |
+| NO ON LR 130 CO MFPE | $110K | 1 | 2020 |
+| STATE SOLUTIONS INC | $100K | 2 | 2022–2023 |
+| NATIONAL HISPANIC CAUCUS OF STATE LEGISLATORS | $95K | 2 | 2022–2023 |
+| NATIONAL BLACK CAUCUS OF STATE LEGISLATORS | $78K | 3 | 2019–2023 |
+| THE UNITED STATES CONFERENCE OF MAYORS | $77K | 3 | 2019–2022 |
+| ACTION UTAH | $75K | 2 | 2019–2020 |
+| AFRICAN AMERICAN MAYORS ASSOCIATION | $65K | 4 | 2019–2023 |
+| NCSL FOUNDATION FOR STATE LEGISLATURES | $60K | 2 | 2022–2023 |
+| VOICES FOR A SAFER TENNESSEE | $50K | 1 | 2023 |
+| NATIONAL CONFERENCE OF STATE LEGISLATURES | $48K | 2 | 2019–2022 |
+| CONGRESSIONAL BLACK CAUCUS POLITICAL EDUCATION AND LEADERSHIP INSTITUTE | $31K | 1 | 2023 |
+| NATIONAL GOVERNORS ASSOCIATION CENTER FOR BEST PRACTICES | $30K | 1 | 2022 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

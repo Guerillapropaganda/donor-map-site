@@ -99,9 +99,9 @@ sec-form-types:
   - SCHEDULE 13G/A
 cross-vault-triangulation-count: 16
 audit-a-plus-passed: "2026-04-11"
-politicians-funded: "[[Barack Obama]], [[Amy Klobuchar]]"
+politicians-funded: "[[Barack Obama]], [[Amy Klobuchar]], [[314 ACTION FUND]], [[_Josh Hawley Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[DNC - Democratic National Committee]], [[_Pete Aguilar Master Profile]], [[Alice B. Toklas LGBTQ Democratic Club Federal PAC]], [[_Mike Kelly Master Profile]], [[_Martin Heinrich Master Profile]], [[_Chrissy Houlahan Master Profile]], [[ActBlue]], [[Bob Casey]], [[_George Whitesides Master Profile]], [[_Lauren Underwood Master Profile]], [[Progressive Turnout Project]], [[Barbara Lee]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Planned Parenthood Action Fund INC]], [[Indivisible Action]], [[_Bonnie Watson Coleman Master Profile]], [[Chris Christie]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Alex Padilla Master Profile]], [[_Rashida Tlaib Master Profile]], [[Working Families Party PAC]], [[_Jim Jordan Master Profile]], [[Catherine Cortez Masto]], [[Votevets]], [[_Cori Bush Master Profile]], [[Emily's List]], [[_Josh Riley Master Profile]], [[Trump Victory]], [[JUSTICE DEMOCRATS PAC]], [[J Street]], [[Save America PAC]], [[ENVIRONMENT AMERICA INC]], [[_Joe Neguse Master Profile]], [[Hmp]], [[_Jason Smith Master Profile]], [[Mark Kelly]], [[Dream United]], [[The Lincoln Project]], [[_Vicente Gonzalez Master Profile]], [[Let America Vote PAC]], [[NRCC - National Republican Congressional Committee]], [[_Susie Lee Master Profile]], [[_Young Kim Master Profile]], [[Really American Pac]], [[_Jake Auchincloss Master Profile]], [[Citizens Against Aipac Corruption]], [[_Josh Harder Master Profile]], [[Ab Pac]], [[Edf Action Votes]], [[_Adam Gray Master Profile]], [[CHC BOLD PAC]], [[_Shontel Brown Master Profile]], [[Courage to Change PAC]], [[PRIORITIES USA ACTION]], [[MAGA Inc]], [[_Anna Paulina Luna Master Profile]], [[_Dave Min Master Profile]], [[Marianne Williamson]], [[_Mike Levin Master Profile]], [[AIPAC - American Israel Public Affairs Committee]], [[Congressional Progressive Caucus PAC]], [[_Elissa Slotkin Master Profile]], [[_Angie Craig Master Profile]], [[WinSenate]], [[_Kevin Kiley Master Profile]], [[_Derek Tran Master Profile]], [[_Jon Ossoff Master Profile]], [[Giffords PAC]], [[_Tammy Baldwin Master Profile]], [[United Democracy Project - UDP]], [[_Gabe Vasquez Master Profile]], [[National Right to Life Victory Fund]], [[_Julia Brownley Master Profile]], [[_Judy Chu Master Profile]], [[_Thomas Massie Master Profile]], [[_Lisa Blunt Rochester Master Profile]], [[Climate Hawks Vote]], [[_Cory Booker Master Profile]], [[WinRed]], [[_Tim Scott Master Profile]], [[_Jimmy Panetta Master Profile]], [[Senate Conservatives Fund]], [[RNC - Republican National Committee]], [[National Rifle Association]], [[_Mark Takano Master Profile]], [[MoveOn.org Political Action]], [[_Bill Foster Master Profile]], [[Protect the Vote]], [[_Maria Elvira Salazar Master Profile]], [[Human Rights Campaign Equality Votes]], [[_Summer Lee Master Profile]], [[_Ted Lieu Master Profile]], [[League of Conservation Voters]], [[FreedomWorks for America]], [[NORPAC]], [[_Jimmy Gomez Master Profile]], [[_Scott Fitzgerald Master Profile]], [[Activate America]], [[_Nancy Pelosi Master Profile]], [[Bernie Moreno]], [[_Marco Rubio Master Profile]], [[Fairshake PAC]], [[_Laura Friedman Master Profile]], [[_Ben Cline Master Profile]], [[_Jason Crow Master Profile]], [[_Ted Cruz Master Profile]], [[_Kweisi Mfume Master Profile]], [[Equality California Votes]], [[_Carlos Gimenez Master Profile]], [[_Dan Newhouse Master Profile]], [[_Ron Johnson Master Profile]], [[_Ted Budd Master Profile]], [[_Kevin Mullin Master Profile]], [[AMERICAN JOBS AND GROWTH PAC]], [[America First Action]], [[_Jamie Raskin Master Profile]], [[_Chris Pappas Master Profile]], [[_Mario Diaz-Balart Master Profile]], [[_Emily Randall Master Profile]], [[_Julia Letlow Master Profile]], [[_Deb Haaland Master Profile]], [[_Virginia Foxx Master Profile]], [[_Kamala Harris Master Profile]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[_Sydney Kamlager-Dove Master Profile]], [[_Troy Downing Master Profile]], [[Everytown for Gun Safety Victory Fund]], [[_John James Master Profile]], [[_Jay Obernolte Master Profile]], [[_Mark DeSaulnier Master Profile]], [[_Jim Costa Master Profile]], [[_Scott Wiener Master Profile]], [[_Darrell Issa Master Profile]], [[Congressional Leadership Fund]], [[_Christian D. Menefee Master Profile]], [[Mad Dog PAC]], [[National Victory Action Fund]], [[Pete Aguilar]], [[Julia Brownley]], [[Lauren Underwood]], [[Nancy Pelosi]], [[Jon Ossoff]], [[Rashida Tlaib]], [[Kamala Harris]], [[Ted Lieu]], [[Susie Lee]], [[Chris Pappas]], [[Maria Elvira Salazar]], [[Josh Harder]], [[Cori Bush]], [[Mario Diaz-Balart]], [[Elissa Slotkin]], [[Angie Craig]], [[Marco Rubio]], [[Thomas Massie]], [[Tammy Baldwin]], [[Dave Min]], [[Lisa Blunt Rochester]], [[Ted Cruz]], [[Chrissy Houlahan]], [[Ben Cline]], [[John James]], [[Jimmy Panetta]], [[Scott Wiener]], [[Vicente Gonzalez]], [[Jay Obernolte]], [[Joe Neguse]], [[Mark Takano]], [[Laura Friedman]], [[Jason Crow]], [[Adam Gray]], [[Dan Newhouse]], [[Summer Lee]], [[Anna Paulina Luna]], [[Mike Kelly]], [[Jake Auchincloss]], [[Young Kim]], [[Jim Jordan]], [[Jamie Raskin]], [[Judy Chu]], [[Martin Heinrich]], [[Josh Riley]], [[Jimmy Gomez]], [[Sydney Kamlager-Dove]], [[Deb Haaland]], [[Kevin Mullin]], [[Scott Fitzgerald]], [[Mike Levin]], [[Jason Smith]], [[Bill Foster]], [[Julia Letlow]], [[Alex Padilla]], [[Derek Tran]], [[Cory Booker]], [[Jim Costa]], [[Emily Randall]], [[Tim Scott]], [[Kevin Kiley]], [[Gabe Vasquez]], [[Troy Downing]], [[Bonnie Watson Coleman]], [[Josh Hawley]], [[Darrell Issa]], [[Kweisi Mfume]], [[Ted Budd]], [[Carlos Gimenez]], [[George Whitesides]], [[Shontel Brown]], [[Ron Johnson]], [[Christian D. Menefee]], [[Virginia Foxx]], [[Mark DeSaulnier]]"
 epa-facilities: 79
-epa-states: "CA, FL, LA, MA, NC, NV, OH, OR, TN, TX"
+epa-states: CA, FL, LA, MA, NC, NV, OH, OR, TN, TX
 federal-contracts: 15
 employee-contributions: 61764
 employee-contributions-total: 13175028
@@ -475,3 +475,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 - ~~[The Verge: Apple right-to-repair reversal and self-service repair pricing](https://www.theverge.com/apple-self-service-repair-pricing/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Apple%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 3 (2021–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $7.5M |
+| Total expenses | — |
+| Total assets (EOY) | $61.9M |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

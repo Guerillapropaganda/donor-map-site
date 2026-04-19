@@ -1,33 +1,34 @@
 ---
-title: "Burgess Owens"
+title: Burgess Owens
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Utah"
-state-abbr: "UT"
+party: Republican
+chamber: House
+state: Utah
+state-abbr: UT
 district: "4"
-bioguide-id: "O000086"
+bioguide-id: O000086
 govtrack-id: 456852
 born: "1951-08-02"
-wikidata-id: "Q4998602"
-website: "https://owens.house.gov"
-phone: "202-225-3011"
+wikidata-id: Q4998602
+website: https://owens.house.gov
+phone: 202-225-3011
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H0UT04076"
+fec-candidate-id: H0UT04076
 bills-sponsored: 17
 bills-cosponsored: 291
 bills-enacted: 0
-top-policy-area: "Education"
+top-policy-area: Education
+top-donors: "[[Women Speak Out Pac]], [[National Association of Realtors]], [[Walmart - Walton Family]], [[General Dynamics]], [[Tyson Foods]], [[Chevron]], [[Associated General Contractors of America Political Action Committee]], [[L3Harris Technologies]], [[American College of Radiology Association PAC]], [[WinRed]], [[Lockheed Martin]], [[National Rifle Association]], [[AIPAC - American Israel Public Affairs Committee]], [[Northrop Grumman]], [[AT&T - WarnerMedia]], [[Freedom's Defense Fund]], [[McDonalds Corporation]], [[MAJORITY PAC]], [[Elbert Guillory's America]], [[Tzedek PAC]], [[Jason Smith]], [[David Rouzer]], [[iHeartMedia]], [[National Cattlemen's Beef Association]], [[Jim Jordan]], [[Comcast - NBCUniversal]]"
 ---
 
 

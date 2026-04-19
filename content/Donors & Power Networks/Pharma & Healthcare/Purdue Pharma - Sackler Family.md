@@ -1,31 +1,30 @@
 ---
-title: "Purdue Pharma - Sackler Family"
+title: Purdue Pharma - Sackler Family
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Pharma & Healthcare"
-entity-type: "Corporation"
+sector: Pharma & Healthcare
+entity-type: Corporation
 issues:
-  - "Dark Money & Campaign Finance"
-  - "Healthcare"
+  - Dark Money & Campaign Finance
+  - Healthcare
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-10"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 related: "[[Pharmaceutical Industry Bloc]] · [[PhRMA]] · [[Johnson & Johnson]] · [[AbbVie]] · [[Pfizer]] · [[Eli Lilly]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Gilead Sciences]] · [[Centene Corporation]] · [[Palantir Technologies]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[UnitedHealth Group - Optum]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[Humana]] · [[Hospital Corporation of America - HCA]] · [[Civica Rx]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Blue Cross Blue Shield Association]] · [[Anthem - Elevance Health Political Operation]] · [[Koch Industries]] · [[CTA - California Teachers Association]]"
 cross-vault-triangulation-count: 9
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
 epa-facilities: 6
-epa-states: "NC, NJ, NY"
+epa-states: NC, NJ, NY
 employee-contributions: 62
 employee-contributions-total: 67005
 employee-donor-count: 23
+politicians-funded: "[[ActBlue]], [[RNC - Republican National Committee]], [[_Marco Rubio Master Profile]], [[MoveOn.org Political Action]], [[NRSC - National Republican Senatorial Committee]], [[MAGA Inc]], [[MAJORITY PAC]], [[REPUBLICAN PARTY OF FLORIDA]], [[Marco Rubio]]"
 ---
 
 

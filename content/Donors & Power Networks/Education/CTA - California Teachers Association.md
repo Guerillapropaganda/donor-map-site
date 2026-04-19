@@ -2,12 +2,12 @@
 title: CTA - California Teachers Association
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Education
 entity-type: Corporation
-politicians-funded: "[[Tony Thurmond]], [[Gavin Newsom]]"
+politicians-funded: "[[Tony Thurmond]], [[Gavin Newsom]], [[Judy Chu]], [[ActBlue]], [[Hmp]], [[CHC BOLD PAC]], [[Human Rights Campaign Equality Votes]], [[MoveOn.org Political Action]], [[_Ted Lieu Master Profile]], [[_Donna Miller Master Profile]], [[Catherine Cortez Masto]], [[_Victoria Spartz Master Profile]], [[_Darrell Issa Master Profile]], [[Mike Thompson]], [[Progressive Turnout Project]], [[WinRed]], [[_Kamala Harris Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[Zoe Lofgren]], [[_Jon Ossoff Master Profile]], [[Josh Harder]], [[_Tim Scott Master Profile]], [[_Claudia Tenney Master Profile]], [[John Garamendi]], [[_George Whitesides Master Profile]], [[_John James Master Profile]], [[_Mark Takano Master Profile]], [[DNC - Democratic National Committee]], [[Sydney Kamlager-Dove]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Jared Huffman]], [[Brad Sherman]], [[_April McClain Delaney Master Profile]], [[Julia Brownley]], [[RNC - Republican National Committee]], [[NRCC - National Republican Congressional Committee]], [[Mike Levin]], [[Jimmy Panetta]], [[Ro Khanna]], [[MAGA Inc]], [[Mark DeSaulnier]], [[Kevin Mullin]], [[NEA Fund for Children and Public Education]], [[_Byron Donalds Master Profile]], [[Let America Vote PAC]], [[Jimmy Gomez]], [[Congressional Progressive Caucus PAC]], [[Adam Schiff]], [[_Alex Padilla Master Profile]], [[Eric Swalwell]], [[Sara Jacobs]], [[_Nancy Pelosi Master Profile]], [[_Lisa Blunt Rochester Master Profile]], [[Jim Costa]], [[Pete Aguilar]], [[Barbara Lee]], [[Mark Kelly]], [[Adam Gray]], [[_Marco Rubio Master Profile]], [[Raul Ruiz]], [[Mark Takano]], [[Ted Lieu]], [[Kamala Harris]], [[Tim Scott]], [[John James]], [[Byron Donalds]], [[Jon Ossoff]], [[Victoria Spartz]], [[Nancy Pelosi]], [[Lisa Blunt Rochester]], [[George Whitesides]], [[Alex Padilla]], [[Darrell Issa]], [[April McClain Delaney]], [[Claudia Tenney]], [[Donna Miller]], [[Marco Rubio]]"
 issues:
   - Labor & Workers
   - Education
@@ -25,7 +25,7 @@ cross-vault-triangulation-count: 14
 audit-a-plus-passed: "2026-04-11"
 urls-first-triaged: "2026-04-15"
 epa-facilities: 6
-epa-states: "AL, IL, UT"
+epa-states: AL, IL, UT
 federal-contracts: 36
 federal-awards-total: 2527004
 employee-contributions: 1351
@@ -256,3 +256,23 @@ Education, charter schools, COVID closures, curriculum, early childhood, school 
 Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
 
 - ~~[LA Times: CTA and school closures](https://www.latimes.com/california/story/2021-03-05/teachers-union-california-schools-reopening)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 8 (2018–2025)
+
+**Most recent filing (2025):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | $88K |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | — |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

@@ -206,3 +206,38 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 - ~~[ProPublica: One Nation's Dark Money Network](https://projects.propublica.org/nonprofits/organizations/474943695)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22One%20Nation%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 5 (2019–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $104.6M |
+| Total expenses | — |
+| Total assets (EOY) | $5.2M |
+| Grants paid out | $5.0M |
+
+**Lifetime grants out (2019–2024):** $18.0M across 8 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| UNITE FOR COLORADO | $6.9M | 1 | 2020 |
+| CHAMBER OF COMMERCE OF THE USA | $4.0M | 1 | 2024 |
+| AMERICAN EXCEPTIONALISM INSTITUTE INC | $2.5M | 1 | 2020 |
+| GOVERNMENT INTEGRITY FUND | $1.5M | 1 | 2020 |
+| CLT HOST 2020 INC | $1.0M | 1 | 2020 |
+| COALITION FOR PROSPEROUS COMMUNITIES | $1.0M | 1 | 2024 |
+| CROSSROADS GRASSROOTS POLICY STRATEGIES | $990K | 2 | 2019–2020 |
+| SUSAN B ANTHONY LIST | $100K | 1 | 2019 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

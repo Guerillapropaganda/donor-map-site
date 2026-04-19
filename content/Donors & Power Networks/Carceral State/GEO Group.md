@@ -2,16 +2,16 @@
 title: GEO Group - Private Prison Industrial Complex
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 2
 parent: null
 sector: Carceral State
 entity-type: Corporation
 aliases:
-  - "GEO Group"
-  - "GEO Group - Private Prisons"
-  - "GEO Group Inc"
-politicians-funded: "[[Marco Rubio]], [[Chad Bianco]], [[Donald Trump]], [[Gavin Newsom]], [[Pam Bondi]]"
+  - GEO Group
+  - GEO Group - Private Prisons
+  - GEO Group Inc
+politicians-funded: "[[Marco Rubio]], [[Chad Bianco]], [[Donald Trump]], [[Gavin Newsom]], [[Pam Bondi]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Progressive Turnout Project]], [[WinRed]], [[ActBlue]], [[_Marco Rubio Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Dwight Evans Master Profile]], [[RNC - Republican National Committee]], [[MAGA Inc]], [[_Josh Riley Master Profile]], [[Women Speak Out Pac]], [[Reclaim America PAC]], [[_Tim Scott Master Profile]], [[Trump Victory]], [[_Tom Barrett Master Profile]], [[NRCC - National Republican Congressional Committee]], [[Dwight Evans]], [[Josh Riley]], [[Tim Scott]], [[Tom Barrett]]"
 federal-contracts: "959292"
 ofac-sdn-match: "true"
 last-enriched: "2026-04-11"

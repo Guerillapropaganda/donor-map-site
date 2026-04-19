@@ -5,14 +5,14 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00760124
 aliases:
   - NATIONAL VICTORY ACTION FUND
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
-politicians-funded: "[[Bill Hagerty]], [[John Barrasso]], [[Elise Stefanik]]"
+politicians-funded: "[[Bill Hagerty]], [[John Barrasso]], [[Elise Stefanik]], [[Victoria Spartz]], [[Monica de la Cruz]], [[Derrick van Orden]], [[Jerry Moran]], [[Diana Harshbarger]], [[Ron Johnson]], [[Jon Husted]], [[Eric Schmitt]], [[Mike Lee]], [[Steve Daines]], [[Richard Hudson]], [[Todd Young]], [[Tim Scott]], [[John Boozman]], [[Steve Scalise]], [[Young Kim]], [[Lisa Murkowski]], [[Marsha Blackburn]], [[John Thune]], [[Tim Sheehy]], [[John Hoeven]], [[Maria Elvira Salazar]], [[Bernie Moreno]], [[John Kennedy]], [[Donald Trump]], [[Ronny Jackson]], [[August Pfluger]], [[Nancy Mace]], [[Rudy Yakym]], [[Brian Jack]], [[Joni Ernst]], [[Ashley Hinson]], [[Guy Reschenthaler]], [[Susan Collins]], [[James Lankford]]"
 related: "[[Elise Stefanik]] · [[John Barrasso]] · [[Bill Hagerty]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

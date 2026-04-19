@@ -6,11 +6,11 @@ sector: Dark Money
 entity-type: Super PAC
 committee-id: C00530766
 fec-url: https://www.fec.gov/data/committee/C00530766/
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-ie-support: null
 fec-ie-oppose: $9,200
-politicians-funded: "[[Pete Buttigieg]]"
+politicians-funded: "[[Pete Buttigieg]], [[John Garamendi]], [[Mariannette Miller-Meeks]], [[Burgess Owens]], [[Dina Titus]], [[Raphael Warnock]], [[Steven Horsford]], [[Maria Elvira Salazar]], [[Kim Schrier]], [[Joe Manchin]], [[Ann Wagner]], [[Catherine Cortez Masto]], [[John Fetterman]], [[Susie Lee]], [[Ron Johnson]], [[Michelle Fischbach]], [[Scott Perry]], [[Thom Tillis]], [[David Schweikert]], [[Lauren Underwood]], [[Greg Landsman]], [[Carlos Gimenez]], [[Patrick Ryan]], [[Nancy Pelosi]], [[Tammy Baldwin]], [[Virginia Foxx]], [[Sean Casten]], [[Claudia Tenney]], [[Sherrod Brown]], [[Kamala Harris]], [[Lauren Boebert]], [[Ruben Gallego]], [[Anna Paulina Luna]], [[Chip Roy]], [[Mike Levin]], [[Richard Hudson]], [[Sharice Davids]], [[Josh Gottheimer]], [[Kyrsten Sinema]], [[Mark Kelly]], [[Tim Sheehy]], [[Bernie Moreno]], [[Nancy Mace]], [[Vicente Gonzalez]], [[Donald Trump]], [[Nicole Malliotakis]], [[Henry Cuellar]], [[Young Kim]]"
 related: "[[Pete Buttigieg]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

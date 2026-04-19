@@ -2,7 +2,7 @@
 title: NextEra Energy
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Energy & Utilities
@@ -69,9 +69,9 @@ top-federal-agency: Department of Defense
 top-naics-code: "221112"
 cross-vault-triangulation-count: 8
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-politicians-funded: "[[John Thune]]"
+politicians-funded: "[[John Thune]], [[Mike Carey]], [[Sheldon Whitehouse]], [[Tim Scott]], [[Debbie Dingell]], [[Nikki Budzinski]], [[Darin Lahood]], [[Mariannette Miller-Meeks]], [[Nathaniel Moran]], [[Josh Gottheimer]], [[Jared Moskowitz]], [[Dina Titus]], [[Thom Tillis]], [[Sarah Elfreth]], [[Raul Ruiz]], [[Mark Warner]], [[_Jon Ossoff Master Profile]], [[Mike Lee]], [[NextEra Energy]], [[Kim Schrier]], [[Ron Estes]], [[_Vern Buchanan Master Profile]], [[Derek Tran]], [[Brian Schatz]], [[Dusty Johnson]], [[Brendan Boyle]], [[Martin Heinrich]], [[ActBlue]], [[James Lankford]], [[Ron Wyden]], [[Byron Donalds]], [[Maria Elvira Salazar]], [[Erin Houchin]], [[Carlos Gimenez]], [[Lisa Murkowski]], [[Brian Mast]], [[Marilyn Strickland]], [[Darren Soto]], [[Henry Cuellar]], [[August Pfluger]], [[_Marco Rubio Master Profile]], [[Julie Fedorchak]], [[Tammy Duckworth]], [[Kyrsten Sinema]], [[Jack Reed]], [[Shontel Brown]], [[Vicente Gonzalez]], [[Sheila Cherfilus-McCormick]], [[Katie Britt]], [[Richard Neal]], [[Joni Ernst]], [[Young Kim]], [[Gwen Moore]], [[_Brian Jack Master Profile]], [[Jerry Moran]], [[_Frederica S. Wilson Master Profile]], [[Eric Swalwell]], [[Joseph Morelle]], [[Debbie Wasserman Schultz]], [[Paul Tonko]], [[Daniel Webster]], [[Jimmy Gomez]], [[WinRed]], [[Adrian Smith]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Mike Haridopolos]], [[Pete Stauber]], [[NRSC - National Republican Senatorial Committee]], [[Jeanne Shaheen]], [[Maria Cantwell]], [[Mike Thompson]], [[Steve Scalise]], [[RNC - Republican National Committee]], [[_Darren Soto Master Profile]], [[Donald Norcross]], [[Adam Gray]], [[Brett Guthrie]], [[Glenn Grothman]], [[Kevin McCarthy]], [[John Barrasso]], [[Jason Smith]], [[Mike Rounds]], [[Bruce Westerman]], [[NRCC - National Republican Congressional Committee]], [[_Paul Tonko Master Profile]], [[Michelle Fischbach]], [[Susie Lee]], [[Patrick McHenry]], [[Diana Degette]], [[Pete Ricketts]], [[Nancy Mace]], [[Jahana Hayes]], [[Scott Franklin]], [[Nicole Malliotakis]], [[MAGA Inc]], [[Frank Pallone]], [[Tammy Baldwin]], [[Patty Murray]], [[Raja Krishnamoorthi]], [[Jimmy Patronis]], [[_Jared Moskowitz Master Profile]], [[Marsha Blackburn]], [[Brittany Pettersen]], [[Catherine Cortez Masto]], [[Troy Downing]], [[Lloyd Smucker]], [[Mario Diaz-Balart]], [[REPUBLICAN PARTY OF FLORIDA]], [[Vince Fong]], [[_Josh Riley Master Profile]], [[Dwight Evans]], [[_Martin Heinrich Master Profile]], [[Lindsey Graham]], [[Aaron Bean]], [[Rick Larsen]], [[_Debbie Wasserman Schultz Master Profile]], [[Chris Coons]], [[Emanuel Cleaver]], [[_Tim Scott Master Profile]], [[Ruben Gallego]], [[Lois Frankel]], [[Mike Flood]], [[Emily's List]], [[Kat Cammack]], [[French Hill]], [[Steven Horsford]], [[Lisa Blunt Rochester]], [[DCCC - Democratic Congressional Campaign Committee]], [[Bernie Moreno]], [[Cory Mills]], [[Lauren Underwood]], [[Maxine Dexter]], [[Steve Daines]], [[Jacky Rosen]], [[Deb Fischer]], [[Steve Womack]], [[MAJORITY PAC]], [[Trump Victory]], [[Todd Young]], [[Let America Vote PAC]], [[_Carlos Gimenez Master Profile]], [[Joyce Beatty]], [[Hmp]], [[_Tammy Baldwin Master Profile]], [[Hakeem Jeffries]], [[Markwayne Mullin]], [[Jodey Arrington]], [[Chris Christie]], [[Joe Manchin]], [[John Cornyn]], [[John Hoeven]], [[Michael Waltz]], [[Pete Aguilar]], [[Andrea Salinas]], [[Dan Newhouse]], [[John James]], [[Sean Casten]], [[Richard Hudson]], [[Ryan Zinke]], [[Jimmy Panetta]], [[Kevin Cramer]], [[Tom Cole]], [[Sherrod Brown]], [[The Lincoln Project]], [[Shelley Moore Capito]], [[George Whitesides]], [[Randy Fine]], [[Ashley Hinson]], [[Dan Crenshaw]], [[Rick Scott]], [[Cathy McMorris Rodgers]], [[Mark Kelly]], [[Kristen McDonald Rivet]], [[Roger Marshall]], [[Roger Wicker]], [[John Boozman]], [[Michael Lawler]], [[David Kustoff]], [[Debbie Stabenow]], [[Betty McCollum]], [[Bill Hagerty]], [[Chris van Hollen]], [[Ken Calvert]], [[Ashley Moody]], [[Jon Ossoff]], [[Vern Buchanan]], [[Josh Riley]], [[Frederica S. Wilson]], [[Brian Jack]], [[Marco Rubio]]"
 epa-facilities: 9
-epa-states: "CA, FL, ND"
+epa-states: CA, FL, ND
 federal-contracts: 156
 total-raised: 1547821
 total-spent: 1537279
@@ -338,3 +338,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/650031452/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/650031452/2019)~~ (URL broken, archived by Ops)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22NextEra%20Energy%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 4 (2020–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $48K |
+| Total expenses | — |
+| Total assets (EOY) | $78.2M |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

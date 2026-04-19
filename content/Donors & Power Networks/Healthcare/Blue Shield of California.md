@@ -2,12 +2,12 @@
 title: Blue Shield of California
 type: donor
 content-readiness: ready
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Healthcare
 entity-type: Individual Donor
-politicians-funded: "[[Nancy Pelosi]], [[Tim Scott]], [[Gary Peters]], [[Glenn Thompson]], [[Bobby Scott]], [[Bennie Thompson]], [[Kamala Harris]], [[Rick Scott]], [[Pete Aguilar]], [[Gavin Newsom]]"
+politicians-funded: "[[Nancy Pelosi]], [[Tim Scott]], [[Gary Peters]], [[Glenn Thompson]], [[Bobby Scott]], [[Bennie Thompson]], [[Kamala Harris]], [[Rick Scott]], [[Pete Aguilar]], [[Gavin Newsom]], [[_Pete Aguilar Master Profile]], [[Progressive Turnout Project]], [[Emily's List]], [[_Adam Gray Master Profile]], [[Barbara Lee]], [[MoveOn.org Political Action]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Los Angeles County Democratic Central Committee]], [[ActBlue]], [[RNC - Republican National Committee]], [[_Mike Levin Master Profile]], [[_Josh Harder Master Profile]], [[_Julia Brownley Master Profile]], [[_Jon Ossoff Master Profile]], [[_Nancy Pelosi Master Profile]], [[_Tammy Baldwin Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[Bob Casey]], [[_George Whitesides Master Profile]], [[_Kamala Harris Master Profile]], [[NRCC - National Republican Congressional Committee]], [[Mad Dog PAC]], [[WinSenate]], [[_Lauren Underwood Master Profile]], [[Save America PAC]], [[Activate America]], [[Human Rights Campaign Equality Votes]], [[The Lincoln Project]], [[_Elissa Slotkin Master Profile]], [[Mark Kelly]], [[_Jake Auchincloss Master Profile]], [[WinRed]], [[_Angie Craig Master Profile]], [[Catherine Cortez Masto]], [[Let America Vote PAC]], [[_Alex Padilla Master Profile]], [[MAGA Inc]], [[_Patrick Ryan Master Profile]], [[_Ted Lieu Master Profile]], [[314 ACTION FUND]], [[Alex Padilla]], [[Patrick Ryan]], [[Jon Ossoff]], [[Adam Gray]], [[George Whitesides]], [[Tammy Baldwin]], [[Lauren Underwood]], [[Ted Lieu]], [[Julia Brownley]], [[Angie Craig]], [[Josh Harder]], [[Mike Levin]], [[Elissa Slotkin]], [[Jake Auchincloss]]"
 total-political-spend: $1,646,997
 ein: 942822302
 annual-revenue: $21.9M
@@ -335,3 +335,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[KTLA: $226M corporate donations 2020](https://ktla.com/news/california/corporate-giants-flooded-newsom-with-record-226-million-in-charity-donations-in-2020/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[FPPC: behested payment database / Form 803](https://www.fppc.ca.gov/transparency/behested-payments.html)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Blue%20Shield%20of%20California%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 7 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $20.1M |
+| Total expenses | — |
+| Total assets (EOY) | $80.7M |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

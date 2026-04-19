@@ -1,33 +1,33 @@
 ---
-title: "Todd Young"
+title: Todd Young
 type: politician
 content-readiness: raw
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "Senate"
-state: "Indiana"
-state-abbr: "IN"
-bioguide-id: "Y000064"
+party: Republican
+chamber: Senate
+state: Indiana
+state-abbr: IN
+bioguide-id: Y000064
 govtrack-id: 412428
 born: "1972-08-24"
-wikidata-id: "Q25483"
-website: "https://www.young.senate.gov"
-phone: "202-224-5623"
+wikidata-id: Q25483
+website: https://www.young.senate.gov
+phone: 202-224-5623
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
-donors: "[[California Farm Bureau Federation]]"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
+donors: "[[California Farm Bureau Federation]], [[Walmart - Walton Family]], [[American College of Radiology Association PAC]], [[Johnson & Johnson]], [[Amgen Inc]], [[Citigroup]], [[Raytheon (RTX)]], [[Sinclair Broadcast Group]], [[BAE Systems]], [[Humana]], [[Chevron]], [[CVS Health - Aetna]], [[General Motors]], [[AbbVie]], [[National Association of Realtors]], [[Lockheed Martin]], [[PG&E - Pacific Gas and Electric]], [[McDonalds Corporation]], [[American Gaming Association]], [[National Victory Action Fund]], [[Honeywell]], [[National Cattlemen's Beef Association]], [[WinRed]], [[Anthem - Elevance Health]], [[L3Harris Technologies]], [[Gilead Sciences]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Northrop Grumman]], [[National Multifamily Housing Council]], [[General Dynamics]], [[IBEW - International Brotherhood of Electrical Workers]], [[Ford Motor Company]], [[Duke Energy]], [[Morgan Stanley]], [[Leidos]], [[Valero Energy]], [[American Hospital Association PAC]], [[National Rifle Association]], [[Google - Alphabet]], [[DoorDash]], [[Bank of America]], [[National Restaurant Association]], [[Associated General Contractors of America Political Action Committee]], [[National Association of Manufacturers]], [[Marathon Petroleum]], [[NextEra Energy]], [[Comcast - NBCUniversal]], [[CoreCivic - Private Prisons]], [[AIPAC - American Israel Public Affairs Committee]], [[AT&T - WarnerMedia]], [[Republican Jewish Coalition]], [[Care Action]], [[American Energy Action Fund]], [[Pfizer Inc.]], [[Tenet Healthcare]], [[Performance Racing Inc.]], [[iHeartMedia]], [[Nucor Corporation]], [[Microsoft]], [[Care Action Now Inc.]]"
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "S6IN00191"
+fec-candidate-id: S6IN00191
 bills-sponsored: 43
 bills-cosponsored: 324
 bills-enacted: 1
-top-policy-area: "International Affairs"
+top-policy-area: International Affairs
 ---
 
 

@@ -1,33 +1,34 @@
 ---
-title: "Lois Frankel"
+title: Lois Frankel
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Florida"
-state-abbr: "FL"
+party: Democrat
+chamber: House
+state: Florida
+state-abbr: FL
 district: "22"
-bioguide-id: "F000462"
+bioguide-id: F000462
 govtrack-id: 412529
 born: "1948-05-16"
-wikidata-id: "Q3182451"
-website: "https://frankel.house.gov"
-phone: "202-225-9890"
+wikidata-id: Q3182451
+website: https://frankel.house.gov
+phone: 202-225-9890
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H2FL14053"
+fec-candidate-id: H2FL14053
 bills-sponsored: 14
 bills-cosponsored: 351
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[American Hospital Association PAC]], [[CHC BOLD PAC]], [[SEIU COPE]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Comcast - NBCUniversal]], [[Sierra Club Independent Action]], [[Nancy Pelosi]], [[Leidos]], [[Honeywell]], [[NEA Fund for Children and Public Education]], [[Everytown for Gun Safety]], [[Unite Here Tip Campaign Committee]], [[AIPAC - American Israel Public Affairs Committee]], [[Duke Energy]], [[UA Political Action Committee]], [[IBEW - International Brotherhood of Electrical Workers]], [[Raytheon (RTX)]], [[Ted Lieu]], [[Walmart - Walton Family]], [[Lockheed Martin]], [[Anthem - Elevance Health]], [[Debbie Dingell]], [[DMFI - Democratic Majority for Israel]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AT&T - WarnerMedia]], [[Gilead Sciences]], [[National Association of Realtors]], [[Let America Vote PAC]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Planned Parenthood Votes]], [[Tenet Healthcare]], [[League of Conservation Voters]], [[Progressive Turnout Project]], [[Julia Brownley]], [[Care Action]], [[Giffords PAC]], [[Pete Aguilar]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Teamsters - International Brotherhood of Teamsters]], [[NextEra Energy]], [[General Motors]], [[Humana]], [[Google - Alphabet]], [[Northrop Grumman]], [[Pfizer Inc.]], [[Medicare for All - The Policy That Broke the Party]], [[L3Harris Technologies]], [[General Dynamics]], [[Fanjul Family - Florida Crystals]], [[Verizon]], [[Blackstone Group]], [[Meta - Facebook]], [[CBRE Group]], [[CVS Health - Aetna]], [[FTX - Sam Bankman-Fried]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[Kaiser Permanente]], [[Boeing]], [[Goldman Sachs]], [[Morgan Stanley]], [[Uber]]"
 ---
 
 

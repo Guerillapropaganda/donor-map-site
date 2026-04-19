@@ -1,10 +1,10 @@
 ---
 title: Debbie Wasserman Schultz
 type: politician
-bioguide-id: "W000797"
+bioguide-id: W000797
 content-readiness: ready
 central-thesis: Wasserman Schultz is the Both-Sides Illusion made flesh. She is a Democrat funded by the same sugar PACs and Israel lobby money that funds the Republican Cuba hawks. Her presence in the sugar-defense-Israel coalition proves that the embargo , and ...
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Democrat
@@ -13,16 +13,16 @@ state: Florida
 state-abbr: FL
 district: "25"
 issues:
-  - "Agriculture and Food"
-  - "Armed Forces and National Security"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Commerce"
-  - "Crime and Law Enforcement"
-  - "Economics and Public Finance"
-  - "Emergency Management"
-  - "Energy"
-  - "Foreign Trade and International Finance"
-  - "Government Operations and Politics"
+  - Agriculture and Food
+  - Armed Forces and National Security
+  - Civil Rights and Liberties, Minority Issues
+  - Commerce
+  - Crime and Law Enforcement
+  - Economics and Public Finance
+  - Emergency Management
+  - Energy
+  - Foreign Trade and International Finance
+  - Government Operations and Politics
 top-donors:
   - Fanjul Family - Florida Crystals
   - AIPAC
@@ -31,7 +31,7 @@ fec-candidate-id: H4FL20023
 last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: run voting pipeline; run congress pipeline
-donors: "[[UNITE HERE]] · [[Bacardi - Bacardi USA]] · [[United for Common Sense]] · [[Citizens Against Aipac Corruption]] · [[Fanjul Family - Florida Crystals]] · [[Patriot Majority Pac]] · [[AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION PAC]] · [[American College of Radiology Association PAC]] · [[America's Renewal Pac, Inc.]]"
+donors: "[[UNITE HERE]] · [[Bacardi - Bacardi USA]] · [[United for Common Sense]] · [[Citizens Against Aipac Corruption]] · [[Fanjul Family - Florida Crystals]] · [[Patriot Majority Pac]] · [[AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION PAC]] · [[American College of Radiology Association PAC]] · [[America's Renewal Pac, Inc.]] · [[NEA Fund for Children and Public Education]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[Google - Alphabet]] · [[Pfizer Inc.]] · [[Leidos]] · [[Anthem - Elevance Health]] · [[National Association of Realtors]] · [[Duke Energy]] · [[Citigroup]] · [[Amgen Inc]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[General Dynamics]] · [[Gilead Sciences]] · [[Unite Here Tip Campaign Committee]] · [[Planned Parenthood Votes]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Northrop Grumman]] · [[L3Harris Technologies]] · [[Comcast - NBCUniversal]] · [[NextEra Energy]] · [[AT&T - WarnerMedia]] · [[Raytheon (RTX)]] · [[Sierra Club Independent Action]] · [[National Multifamily Housing Council]] · [[League of Conservation Voters]] · [[Giffords PAC]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[American Hospital Association PAC]] · [[DMFI - Democratic Majority for Israel]] · [[CVS Health - Aetna]] · [[Microsoft]] · [[SEIU COPE]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Lockheed Martin]] · [[UA Political Action Committee]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Humana]] · [[Honeywell]] · [[American Chemistry Council, INC]] · [[Walmart - Walton Family]] · [[Progressive Turnout Project]] · [[National Committee to Preserve Social Security PAC]] · [[General Motors]] · [[Lennar Corporation]] · [[Tenet Healthcare]] · [[Oracle]] · [[Ballard Partners]] · [[Wells Fargo]] · [[Ford Motor Company]] · [[UPS]] · [[Goldman Sachs]] · [[DNC - Democratic National Committee]] · [[CBRE Group]] · [[Morgan Stanley]] · [[News Corp - Fox Corporation]] · [[American Petroleum Institute]] · [[TikTok - ByteDance]] · [[Blackstone Group]] · [[Palantir Technologies]] · [[AT&T]] · [[SpaceX]] · [[AFL-CIO]]"
 related: ">- · [[Fanjul Family - Florida Crystals]] · [[America's Renewal Pac, Inc.]]"
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 total-raised: $1,785,365
@@ -42,7 +42,7 @@ urls-first-triaged: "2026-04-15"
 bills-sponsored: 35
 bills-cosponsored: 465
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
 ---
 
 

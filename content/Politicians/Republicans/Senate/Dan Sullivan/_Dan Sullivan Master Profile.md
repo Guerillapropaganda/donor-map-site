@@ -1,45 +1,45 @@
 ---
-title: "Dan Sullivan"
+title: Dan Sullivan
 type: politician
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "Senate"
-state: "Alaska"
-state-abbr: "AK"
-bioguide-id: "S001198"
+party: Republican
+chamber: Senate
+state: Alaska
+state-abbr: AK
+bioguide-id: S001198
 govtrack-id: 412665
 born: "1964-11-13"
-wikidata-id: "Q5218668"
-website: "https://www.sullivan.senate.gov"
-phone: "202-224-3004"
+wikidata-id: Q5218668
+website: https://www.sullivan.senate.gov
+phone: 202-224-3004
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 stock-trades: 26
 stock-trade-tickers:
-  - "RPM"
-  - "SPY"
-  - "MALOX"
-  - "IWF"
-  - "XLI"
-  - "WCMIX"
-  - "GTCSX"
-  - "TSCIX"
-  - "VPMAX"
-  - "GFAFX"
-donors: "[[ConocoPhillips]]"
+  - RPM
+  - SPY
+  - MALOX
+  - IWF
+  - XLI
+  - WCMIX
+  - GTCSX
+  - TSCIX
+  - VPMAX
+  - GFAFX
+donors: "[[ConocoPhillips]], [[Devon Energy]], [[L3Harris Technologies]], [[Halliburton]], [[BAE Systems]], [[Northrop Grumman]], [[Associated General Contractors of America Political Action Committee]], [[Amgen Inc]], [[Raytheon (RTX)]], [[General Motors]], [[Performance Racing Inc.]], [[DoorDash]], [[WinRed]], [[iHeartMedia]], [[American Hospital Association PAC]], [[Google - Alphabet]], [[Common Sense for America PAC]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Duke Energy]], [[National Rifle Association]], [[National Multifamily Housing Council]], [[CoreCivic - Private Prisons]], [[Microsoft]], [[General Dynamics]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Chevron]], [[Marathon Petroleum]], [[MAJORITY PAC]], [[National Association of Realtors]], [[Lockheed Martin]], [[Bechtel Corporation]], [[Comcast - NBCUniversal]], [[NRSC - National Republican Senatorial Committee]], [[Anthem - Elevance Health]], [[Indivisible Action]], [[AbbVie]], [[Walmart - Walton Family]], [[Planned Parenthood Votes]]"
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "S4AK00214"
+fec-candidate-id: S4AK00214
 bills-sponsored: 74
 bills-cosponsored: 335
 bills-enacted: 0
-top-policy-area: "International Affairs"
+top-policy-area: International Affairs
 ---
 
 

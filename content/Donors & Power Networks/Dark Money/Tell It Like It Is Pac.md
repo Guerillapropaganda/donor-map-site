@@ -6,7 +6,7 @@ sector: Dark Money
 entity-type: Super PAC
 committee-id: C00841593
 fec-url: https://www.fec.gov/data/committee/C00841593/
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-ie-support: $5,854,979
 fec-ie-oppose: null
@@ -14,7 +14,7 @@ ofac-sdn-match: "true"
 last-enriched: "2026-04-15"
 ofac-programs:
   - RUSSIA-EO14024
-politicians-funded: "[[Chris Christie]]"
+politicians-funded: "[[Chris Christie]], [[Donald Trump]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"

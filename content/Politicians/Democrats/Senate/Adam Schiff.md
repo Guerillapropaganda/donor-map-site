@@ -6,11 +6,11 @@ chamber: Senate
 party: Democrat
 content-readiness: ready
 central-thesis: "Adam Schiff exemplifies the Democratic Party's security establishment player: an intelligence operative who performs progressive values while serving the national security state. His 2019–2023 role as House Intelligence Committee chair gave him ac..."
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 fec-candidate-id: H0CA27085
-donors: "[[AFL-CIO]] · [[Alhambra Democratic Club]] · [[27th Congressional District Democratic Club]] · [[NARAL]]"
+donors: "[[AFL-CIO]] · [[Alhambra Democratic Club]] · [[27th Congressional District Democratic Club]] · [[NARAL]] · [[SEIU COPE]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[L3Harris Technologies]] · [[Planned Parenthood Votes]] · [[Let America Vote PAC]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[Leidos]] · [[Medicare for All - The Policy That Broke the Party]] · [[Progressive Turnout Project]] · [[American Hospital Association PAC]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Giffords PAC]] · [[J Street]] · [[Teamsters - International Brotherhood of Teamsters]] · [[National Association of Realtors]] · [[Comcast - NBCUniversal]] · [[Google - Alphabet]] · [[Lockheed Martin]] · [[Sierra Club Independent Action]] · [[General Dynamics]] · [[Sierra Club Political Committee]] · [[Northrop Grumman]] · [[UA Political Action Committee]] · [[NEA Fund for Children and Public Education]] · [[CTA - California Teachers Association]] · [[Microsoft]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[Courage California Super Pac]] · [[AT&T - WarnerMedia]] · [[Raytheon (RTX)]] · [[International Longshore and Warehouse Union -- Political Action Fund]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Everytown for Gun Safety]] · [[MoveOn.org Political Action]] · [[BAE Systems]]"
 related: "[[Barbara Lee]] · [[Laphonza Butler]] · [[_Nancy Pelosi Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Katie Porter Master Profile]] · [[Haim Saban]] · [[Jeffrey Katzenberg]] · [[Senate Majority PAC]] · [[Everytown for Gun Safety]] · [[NARAL]]"
 internal-notes: |-
   [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
@@ -33,8 +33,8 @@ urls-first-triaged: "2026-04-15"
 bills-sponsored: 494
 bills-cosponsored: 5809
 bills-enacted: 0
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "International Affairs"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: International Affairs
 ---
 
 

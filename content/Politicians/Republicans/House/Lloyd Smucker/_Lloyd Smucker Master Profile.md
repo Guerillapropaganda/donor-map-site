@@ -1,33 +1,34 @@
 ---
-title: "Lloyd Smucker"
+title: Lloyd Smucker
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Pennsylvania"
-state-abbr: "PA"
+party: Republican
+chamber: House
+state: Pennsylvania
+state-abbr: PA
 district: "11"
-bioguide-id: "S001199"
+bioguide-id: S001199
 govtrack-id: 412722
 born: "1964-01-23"
-wikidata-id: "Q6662742"
-website: "https://smucker.house.gov"
-phone: "202-225-2411"
+wikidata-id: Q6662742
+website: https://smucker.house.gov
+phone: 202-225-2411
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H6PA16320"
+fec-candidate-id: H6PA16320
 bills-sponsored: 29
 bills-cosponsored: 226
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Raytheon (RTX)]], [[Humana]], [[Johnson & Johnson]], [[Walmart - Walton Family]], [[WinRed]], [[Chevron]], [[American College of Radiology Association PAC]], [[MAJORITY PAC]], [[Gilead Sciences]], [[Pfizer Inc.]], [[Lockheed Martin]], [[Associated General Contractors of America Political Action Committee]], [[Vern Buchanan]], [[CVS Health - Aetna]], [[Amgen Inc]], [[National Association of Realtors]], [[Honeywell]], [[Jason Smith]], [[Tenet Healthcare]], [[National Association of Manufacturers]], [[McDonalds Corporation]], [[Citigroup]], [[National Multifamily Housing Council]], [[National Cattlemen's Beef Association]], [[American Hospital Association PAC]], [[AT&T - WarnerMedia]], [[Jim Jordan]], [[AIPAC - American Israel Public Affairs Committee]], [[Pennsylvania Pro-Life Federation PAC]], [[Save America PAC]], [[Ben Cline]], [[Google - Alphabet]], [[Performance Racing Inc.]], [[NextEra Energy]], [[Bank of America]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Anthem - Elevance Health]], [[Marathon Petroleum]], [[Tyson Foods]], [[AbbVie]], [[Valero Energy]], [[American Gaming Association]], [[National Rifle Association]], [[General Dynamics]], [[Comcast - NBCUniversal]], [[National Restaurant Association]], [[Microsoft]]"
 ---
 
 

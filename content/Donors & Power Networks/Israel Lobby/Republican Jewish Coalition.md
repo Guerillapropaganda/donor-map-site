@@ -2,7 +2,7 @@
 title: Republican Jewish Coalition
 type: donor
 content-readiness: ready
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 2
 parent: null
 sector: Israel Lobby
@@ -27,7 +27,7 @@ total-revenue: 13380498
 total-assets: 4294171
 related: "[[Lindsey Graham Master Profile]] · [[Mike Lawler Master Profile]] · [[Jan Koum]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Sheldon Adelson]] · [[Miriam Adelson]] · [[NORPAC]] · [[John Cornyn]] · [[Dan Goldman]] · [[Sherrod Brown]] · [[Stephen Miller]] · [[Ted Cruz]] · [[Michael Whatley]] · [[Donald Trump]] · [[Shontel Brown]] · [[Donna Miller]] · [[Angie Craig]]"
 total-political-spend: $3,644,594
-politicians-funded: "[[Mike Lawler]], [[Sherrod Brown]], [[Ted Cruz]], [[Donna Miller]], [[Shontel Brown]], [[Angie Craig]], [[Dan Goldman]], [[Lindsey Graham]], [[Michael Whatley]], [[Stephen Miller]], [[John Cornyn]], [[Donald Trump]]"
+politicians-funded: "[[Mike Lawler]], [[Sherrod Brown]], [[Ted Cruz]], [[Donna Miller]], [[Shontel Brown]], [[Angie Craig]], [[Dan Goldman]], [[Lindsey Graham]], [[Michael Whatley]], [[Stephen Miller]], [[John Cornyn]], [[Donald Trump]], [[Vince Fong]], [[Michelle Fischbach]], [[Young Kim]], [[David Schweikert]], [[Roger Wicker]], [[Susan Collins]], [[Carlos Gimenez]], [[Nancy Mace]], [[John Thune]], [[Jimmy Patronis]], [[David Kustoff]], [[Richard McCormick]], [[Tim Sheehy]], [[Kevin Cramer]], [[Harold Rogers]], [[John James]], [[Steve Scalise]], [[Randy Fine]], [[Victoria Spartz]], [[Mariannette Miller-Meeks]], [[Lisa Murkowski]], [[Mark Green]], [[John Boozman]], [[Monica de la Cruz]], [[Mike Rounds]], [[Diana Harshbarger]], [[Byron Donalds]], [[Kat Cammack]], [[Brian Mast]], [[Michael Lawler]], [[Derrick van Orden]], [[Trump Victory]], [[WinRed]], [[MAGA Inc]], [[Republican Jewish Coalition]], [[Ashley Hinson]], [[Maria Elvira Salazar]], [[Tim Walberg]], [[Nicole Malliotakis]], [[Claudia Tenney]], [[Bill Hagerty]], [[Ryan Mackenzie]], [[Tom Cole]], [[Deb Fischer]], [[Bernie Moreno]], [[Lee Zeldin]], [[Katie Britt]], [[Darrell Issa]], [[Markwayne Mullin]], [[Brian Jack]], [[Morgan Luttrell]], [[Mike Lee]], [[Rick Scott]], [[Ken Calvert]], [[Bruce Westerman]], [[Todd Young]], [[Pete Stauber]], [[Bryan Steil]], [[Elise Stefanik]], [[August Pfluger]], [[Eric Schmitt]], [[Ashley Moody]], [[Celeste Maloy]], [[Jon Husted]], [[Michael Waltz]], [[Ron Johnson]], [[Julie Fedorchak]], [[Mario Diaz-Balart]], [[Virginia Foxx]]"
 cross-vault-triangulation-count: 5
 audit-a-plus-passed: "2026-04-11"
 checklist-na:
@@ -305,3 +305,32 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/521386172/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/521386172/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/521386172/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $10.5M |
+| Total expenses | — |
+| Total assets (EOY) | $4.3M |
+| Grants paid out | $4.2M |
+
+**Lifetime grants out (2018–2024):** $7.5M across 2 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| RJC VICTORY FUND | $7.2M | 3 | 2020–2024 |
+| MAGA ACTION INC | $275K | 1 | 2023 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

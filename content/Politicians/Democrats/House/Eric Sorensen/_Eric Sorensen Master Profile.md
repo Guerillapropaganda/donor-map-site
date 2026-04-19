@@ -1,33 +1,34 @@
 ---
-title: "Eric Sorensen"
+title: Eric Sorensen
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Illinois"
-state-abbr: "IL"
+party: Democrat
+chamber: House
+state: Illinois
+state-abbr: IL
 district: "17"
-bioguide-id: "S001225"
+bioguide-id: S001225
 govtrack-id: 456902
 born: "1976-03-18"
-wikidata-id: "Q115182513"
-website: "https://sorensen.house.gov"
-phone: "202-225-5905"
+wikidata-id: Q115182513
+website: https://sorensen.house.gov
+phone: 202-225-5905
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H2IL17147"
+fec-candidate-id: H2IL17147
 bills-sponsored: 13
 bills-cosponsored: 334
 bills-enacted: 1
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Pete Aguilar]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[DMFI - Democratic Majority for Israel]], [[ADM - Archer Daniels Midland]], [[CVS Health - Aetna]], [[NRCC - National Republican Congressional Committee]], [[SEIU COPE]], [[Performance Racing Inc.]], [[CHC BOLD PAC]], [[General Dynamics]], [[Progressive Turnout Project]], [[DCCC - Democratic Congressional Campaign Committee]], [[National Association of Realtors]], [[Nancy Pelosi]], [[Microsoft]], [[UA Political Action Committee]], [[Americans for Prosperity]], [[Teamsters - International Brotherhood of Teamsters]], [[Joe Neguse]], [[NEA Fund for Children and Public Education]], [[Giffords PAC]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[AT&T - WarnerMedia]], [[314 ACTION FUND]], [[Human Rights Campaign Equality Votes]], [[Hmp]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Paul Tonko]], [[AIPAC - American Israel Public Affairs Committee]], [[National Committee to Preserve Social Security PAC]], [[J Street]], [[Morgan McGarvey]], [[League of Conservation Voters]], [[Sierra Club Political Committee]], [[Walmart - Walton Family]], [[EQUALITY PROJECT PAC]], [[Sierra Club Independent Action]], [[Jamie Raskin]], [[American Hospital Association PAC]], [[Honeywell]], [[MoveOn.org Political Action]], [[Anthem - Elevance Health]], [[Mark Pocan]], [[National Wildlife Federation Action Fund]], [[Jason Crow]], [[Judy Chu]], [[Sara Jacobs]], [[Robert Garcia]], [[Raytheon (RTX)]], [[Lockheed Martin]], [[L3Harris Technologies]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Let America Vote PAC]], [[IBEW - International Brotherhood of Electrical Workers]], [[Planned Parenthood Action Fund INC]], [[Mark Takano]], [[Coinbase]], [[Julia Brownley]], [[AFL-CIO]], [[Ted Lieu]], [[ENVIRONMENT AMERICA INC]], [[McDonalds Corporation]], [[Fairshake PAC - Crypto Super PAC]], [[Chrissy Houlahan]], [[Everytown for Gun Safety]], [[Congressional Leadership Fund]], [[American Chemistry Council, INC]], [[Northrop Grumman]], [[Citigroup]], [[Tyson Foods]]"
 ---
 
 

@@ -67,9 +67,9 @@ total-assets: 1219377637
 related: "[[The Wall Street Senator - Finance Industry Alignment]] · [[John Boehner]] · [[The Whiteboard Populism and Legislative Limits]] · [[The Judiciary Committee and Criminal Justice Reform Limits]] · [[The Delaware Corporate Senator - Biden's Legislative Lieutenant]] · [[Joe Biden Master Profile]] · [[Barack Obama Master Profile]] · [[The Bank Bailout and the Prosecution That Never Came]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[Melissa Bean's Corporate Background]] · [[The Financial Services Committee and Wall Street Oversight]] · [[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[The Foreign Affairs Committee and Wall Street-Queens Axis]] · [[Brookings Institution]] · [[The Shared Sponsor Map , Corporate Advertisers Funding Both Left and Right Political Media]] · [[Ballard Partners]] · [[Charles Schwab]] · [[Paul Ryan]] · [[Cory Booker]] · [[Goldman Sachs - Wall Street Titan]] · [[BlackRock]] · [[Blackstone Group]] · [[Wall Street Finance PACs]] · [[Morgan Stanley]] · [[Bank of America]] · [[Wells Fargo]] · [[Goldman Sachs]] · [[Citigroup]] · [[Wall Street Finance Networks]] · [[_Chuck Schumer Master Profile]] · [[_French Hill Master Profile]] · [[PhRMA]] · [[The Wall Street-Schumer Funding Axis]] · [[Wall Street Bloc]] · [[Goldman Sachs , The Government Sachs Alumni Network]] · [[Financial Services Donors]] · [[Citadel - Kenneth Griffin]] · [[CalPERS]] · [[Tim Geithner]] · [[Business Roundtable]]"
 cross-vault-triangulation-count: 33
 audit-a-plus-passed: "2026-04-11"
-politicians-funded: "[[John Boehner]], [[Cory Booker]], [[Barack Obama]], [[Joe Biden]], [[Paul Ryan]]"
+politicians-funded: "[[John Boehner]], [[Cory Booker]], [[Barack Obama]], [[Joe Biden]], [[Paul Ryan]], [[Mark Kelly]], [[JUSTICE DEMOCRATS PAC]], [[Hmp]], [[_Don Bacon Master Profile]], [[AIPAC - American Israel Public Affairs Committee]], [[MoveOn.org Political Action]], [[_Josh Riley Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[ActBlue]], [[314 ACTION FUND]], [[_Bill Foster Master Profile]], [[_Tammy Baldwin Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Working Families Party PAC]], [[NRCC - National Republican Congressional Committee]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Adriano Espaillat Master Profile]], [[NORPAC]], [[Human Rights Campaign Equality Votes]], [[WinRed]], [[RNC - Republican National Committee]], [[_Seth Moulton Master Profile]], [[Giffords PAC]], [[Emily's List]], [[_Nancy Pelosi Master Profile]], [[_Patrick Ryan Master Profile]], [[_Tim Scott Master Profile]], [[_Shontel Brown Master Profile]], [[_Chris Pappas Master Profile]], [[_Mike Thompson Master Profile]], [[_Mark Takano Master Profile]], [[PRIORITIES USA ACTION]], [[Bob Casey]], [[The Lincoln Project]], [[_Pete Sessions Master Profile]], [[Indivisible Action]], [[_Adam Gray Master Profile]], [[Progressive Turnout Project]], [[MAGA Inc]], [[_Gabe Amo Master Profile]], [[Republican Jewish Coalition]], [[_John James Master Profile]], [[WinSenate]], [[_Cory Booker Master Profile]], [[_Jon Ossoff Master Profile]], [[_Jason Smith Master Profile]], [[_Ted Cruz Master Profile]], [[_Rashida Tlaib Master Profile]], [[_Melissa Bean Master Profile]], [[Catherine Cortez Masto]], [[_Cori Bush Master Profile]], [[_Jamie Raskin Master Profile]], [[_Susie Lee Master Profile]], [[_Donna Miller Master Profile]], [[_Marco Rubio Master Profile]], [[_Pete Aguilar Master Profile]], [[_George Latimer Master Profile]], [[_Lauren Underwood Master Profile]], [[_Scott Wiener Master Profile]], [[_Alex Padilla Master Profile]], [[CHC BOLD PAC]], [[Everytown for Gun Safety Victory Fund]], [[_Andy Barr Master Profile]], [[Adam Gray]], [[Nancy Pelosi]], [[Chris Pappas]], [[Donna Miller]], [[Mark Takano]], [[Alex Padilla]], [[Jason Smith]], [[Tim Scott]], [[Pete Aguilar]], [[Adriano Espaillat]], [[Seth Moulton]], [[John James]], [[Andy Barr]], [[George Latimer]], [[Don Bacon]], [[Josh Riley]], [[Marco Rubio]], [[Lauren Underwood]], [[Patrick Ryan]], [[Shontel Brown]], [[Ted Cruz]], [[Susie Lee]], [[Tammy Baldwin]], [[Jamie Raskin]], [[Cori Bush]], [[Jon Ossoff]], [[Rashida Tlaib]], [[Scott Wiener]], [[Gabe Amo]], [[Bill Foster]], [[Mike Thompson]], [[Pete Sessions]], [[Melissa Bean]]"
 epa-facilities: 5
-epa-states: "CA"
+epa-states: CA
 employee-contributions: 6014
 employee-contributions-total: 1023588
 employee-donor-count: 1116
@@ -602,3 +602,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/237049738/2019)~~ (URL broken, archived by Ops)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22JPMorgan%20Chase%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=JPMorgan%20Chase&srt=1&pg=1&pgsz=25&isAdv=false)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 7 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $380K |
+| Total expenses | — |
+| Total assets (EOY) | $1.22B |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

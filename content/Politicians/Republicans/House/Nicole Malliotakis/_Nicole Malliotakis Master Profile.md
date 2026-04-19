@@ -1,33 +1,34 @@
 ---
-title: "Nicole Malliotakis"
+title: Nicole Malliotakis
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "New York"
-state-abbr: "NY"
+party: Republican
+chamber: House
+state: New York
+state-abbr: NY
 district: "11"
-bioguide-id: "M000317"
+bioguide-id: M000317
 govtrack-id: 456837
 born: "1980-11-11"
-wikidata-id: "Q7030112"
-website: "https://malliotakis.house.gov"
-phone: "202-225-3371"
+wikidata-id: Q7030112
+website: https://malliotakis.house.gov
+phone: 202-225-3371
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H0NY11078"
+fec-candidate-id: H0NY11078
 bills-sponsored: 43
 bills-cosponsored: 426
 bills-enacted: 0
-top-policy-area: "International Affairs"
+top-policy-area: International Affairs
+top-donors: "[[International Association of Firefighters Interested in Registration and Education PAC]], [[American College of Radiology Association PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[McDonalds Corporation]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[AT&T - WarnerMedia]], [[American Hospital Association PAC]], [[General Motors]], [[National Association of Realtors]], [[Honeywell]], [[Gilead Sciences]], [[Comcast - NBCUniversal]], [[National Multifamily Housing Council]], [[Chevron]], [[Cliff Bentz]], [[Vern Buchanan]], [[Anthem - Elevance Health]], [[Darrell Issa]], [[National Restaurant Association]], [[Citigroup]], [[UA Political Action Committee]], [[Ben Cline]], [[Associated General Contractors of America Political Action Committee]], [[NRCC - National Republican Congressional Committee]], [[Walmart - Walton Family]], [[National Association of Manufacturers]], [[Jason Smith]], [[Planned Parenthood Votes]], [[WinRed]], [[MAJORITY PAC]], [[NextEra Energy]], [[Ron Estes]], [[iHeartMedia]], [[Bank of America]], [[Republican Jewish Coalition]], [[Microsoft]], [[Pfizer Inc.]], [[AbbVie]], [[Ford Motor Company]], [[Teamsters - International Brotherhood of Teamsters]], [[Adrian Smith]], [[Jake Ellzey]], [[Morgan Stanley]], [[VIEW PAC - Value in Electing Women]], [[National Cattlemen's Beef Association]], [[Lockheed Martin]], [[Raytheon (RTX)]], [[Freedom's Defense Fund]], [[Amgen Inc]], [[Leidos]], [[David Rouzer]], [[Women Speak Out Pac]], [[Congressional Leadership Fund]], [[Humana]], [[IBEW - International Brotherhood of Electrical Workers]], [[Google - Alphabet]]"
 ---
 
 

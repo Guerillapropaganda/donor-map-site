@@ -1,33 +1,34 @@
 ---
-title: "Judy Chu"
+title: Judy Chu
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "California"
-state-abbr: "CA"
+party: Democrat
+chamber: House
+state: California
+state-abbr: CA
 district: "28"
-bioguide-id: "C001080"
+bioguide-id: C001080
 govtrack-id: 412379
 born: "1953-07-07"
-wikidata-id: "Q460035"
-website: "https://chu.house.gov"
-phone: "202-225-5464"
+wikidata-id: Q460035
+website: https://chu.house.gov
+phone: 202-225-5464
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H0CA32101"
+fec-candidate-id: H0CA32101
 bills-sponsored: 39
 bills-cosponsored: 703
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[CTA - California Teachers Association]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Medicare for All - The Policy That Broke the Party]], [[Morgan Stanley]], [[Lockheed Martin]], [[Progressive Turnout Project]], [[IBEW - International Brotherhood of Electrical Workers]], [[American Hospital Association PAC]], [[Microsoft]], [[National Nurses United]], [[Northrop Grumman]], [[AT&T - WarnerMedia]], [[National Multifamily Housing Council]], [[SEIU COPE]], [[Planned Parenthood Votes]], [[National Association of Realtors]], [[Courage California Super Pac]], [[Let America Vote PAC]], [[J Street]], [[McDonalds Corporation]], [[NEA Fund for Children and Public Education]], [[League of Conservation Voters]], [[Raytheon (RTX)]], [[Honeywell]], [[Planned Parenthood Action Fund INC]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Sierra Club Political Committee]], [[Teamsters - International Brotherhood of Teamsters]], [[AFL-CIO]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Gilead Sciences]], [[Giffords PAC]], [[General Motors]], [[Sierra Club Independent Action]], [[Care Action]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[Everytown for Gun Safety]], [[Google - Alphabet]], [[Comcast - NBCUniversal]], [[Center for American Progress]], [[Merck]], [[Kaiser Permanente]], [[Apple]], [[AT&T]], [[Meta - Facebook]], [[Boeing]], [[SpaceX]], [[Fanjul Family - Florida Crystals]], [[Goldman Sachs]]"
 ---
 
 

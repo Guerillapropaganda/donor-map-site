@@ -1,69 +1,67 @@
 ---
-title: "Alabama Power"
+title: Alabama Power
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Energy & Utilities"
-entity-type: "Corporation"
+sector: Energy & Utilities
+entity-type: Corporation
 issues:
-  - "Dark Money & Campaign Finance"
+  - Dark Money & Campaign Finance
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-07"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
-top-federal-agency: "Department of Defense"
+top-federal-agency: Department of Defense
 top-naics-code: "221122"
 ein: "881770844"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 sec-filings: 10000
 sec-form-types:
-  - "10-K"
-  - "10-Q"
-  - "8-A12B"
-  - "8-K"
-  - "ARS"
-  - "CORRESP"
-  - "EX-10.12"
-  - "EX-10.13"
-  - "EX-10.2"
-  - "EX-10.3"
-  - "EX-19.B"
-  - "EX-21.A"
-  - "EX-23.1"
-  - "EX-24"
-  - "EX-24.1"
-  - "EX-24.B"
-  - "EX-24.B.1"
-  - "EX-3"
-  - "EX-99"
-  - "EX-99.1"
-  - "EX-99.B.2"
-  - "EX-FILING FEES"
-  - "PRE 14A"
-  - "S-3"
-  - "U-1"
+  - 10-K
+  - 10-Q
+  - 8-A12B
+  - 8-K
+  - ARS
+  - CORRESP
+  - EX-10.12
+  - EX-10.13
+  - EX-10.2
+  - EX-10.3
+  - EX-19.B
+  - EX-21.A
+  - EX-23.1
+  - EX-24
+  - EX-24.1
+  - EX-24.B
+  - EX-24.B.1
+  - EX-3
+  - EX-99
+  - EX-99.1
+  - EX-99.B.2
+  - EX-FILING FEES
+  - PRE 14A
+  - S-3
+  - U-1
 federal-awards-total: 45172350
 federal-contracts-count: 25
 federal-grants-count: 0
 federal-register-mentions: 1859
 regulatory-agencies:
-  - "Energy Department"
-  - "Environmental Protection Agency"
-  - "Federal Energy Regulatory Commission"
+  - Energy Department
+  - Environmental Protection Agency
+  - Federal Energy Regulatory Commission
 related: "[[Katie Britt]]"
 cross-vault-triangulation-count: 1
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 11
-epa-states: "AL"
+epa-states: AL
 federal-contracts: 170
 total-raised: 97269
 total-spent: 83021
@@ -73,6 +71,7 @@ contributions-to-committees: 82500
 employee-contributions: 1818
 employee-contributions-total: 184971
 employee-donor-count: 310
+politicians-funded: "[[MAGA Inc]], [[_Marco Rubio Master Profile]], [[Hmp]], [[_Jimmy Panetta Master Profile]], [[RNC - Republican National Committee]], [[Katie Britt]], [[Alabama Power]], [[Shomari Figures]], [[ActBlue]], [[WinRed]], [[NRSC - National Republican Senatorial Committee]], [[_Mike Rogers Master Profile]], [[NRCC - National Republican Congressional Committee]], [[National Rifle Association]], [[Votevets]], [[Senate Conservatives Fund]], [[Mike Rogers]], [[Jimmy Panetta]], [[Marco Rubio]]"
 ---
 
 

@@ -4,7 +4,7 @@ type: politician
 bioguide-id: D000600
 content-readiness: ready
 central-thesis: Diaz-Balart is the legislative architect of the Cuba embargo's permanence. His Appropriations position — specifically the NSRP subcommittee chairmanship — gives him direct control over State Department funding, Cuba democracy programs, Radio/TV Ma...
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Republican
@@ -20,7 +20,7 @@ issues:
 top-donors:
   - Fanjul Family - Florida Crystals
   - AIPAC
-donors: "[[MasTec - Mas Canosa Family]] · [[LARA Fund - Mauricio Claver-Carone]] · [[Bacardi - Bacardi USA]] · [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]] · [[Fanjul Family - Florida Crystals]] · [[GIFFORDS PAC]] · [[Change Now]]"
+donors: "[[MasTec - Mas Canosa Family]] · [[LARA Fund - Mauricio Claver-Carone]] · [[Bacardi - Bacardi USA]] · [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]] · [[Fanjul Family - Florida Crystals]] · [[GIFFORDS PAC]] · [[Change Now]] · [[Pfizer Inc.]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Northrop Grumman]] · [[National Association of Realtors]] · [[American Hospital Association PAC]] · [[Associated General Contractors of America Political Action Committee]] · [[General Dynamics]] · [[Drummond Co.]] · [[National Multifamily Housing Council]] · [[Walmart - Walton Family]] · [[Citigroup]] · [[American Chemistry Council, INC]] · [[UA Political Action Committee]] · [[Lockheed Martin]] · [[AT&T - WarnerMedia]] · [[Vern Buchanan]] · [[L3Harris Technologies]] · [[Microsoft]] · [[NextEra Energy]] · [[National Cattlemen's Beef Association]] · [[Duke Energy]] · [[Leidos]] · [[Save America PAC]] · [[BAE Systems]] · [[Gilead Sciences]] · [[Honeywell]] · [[Raytheon (RTX)]] · [[Chevron]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Comcast - NBCUniversal]] · [[PG&E - Pacific Gas and Electric]] · [[Ben Cline]] · [[Amgen Inc]] · [[Republican Jewish Coalition]] · [[Blackstone Group]] · [[Walmart]] · [[Palantir Technologies]] · [[Ford Motor Company]] · [[Anduril Industries]] · [[Apple]] · [[Bank of America]] · [[Elliott Management]] · [[Ballard Partners]] · [[FTX - Sam Bankman-Fried]] · [[Morgan Stanley]] · [[Wells Fargo]] · [[Tesla - Elon Musk Political Operation]] · [[Booz Allen Hamilton]] · [[CBRE Group]] · [[AT&T]]"
 related: "[[Real Estate Lobby Funds the Housing Crisis From Both Sides]] · [[_Marco Rubio Master Profile|Rubio]] · [[_Maria Elvira Salazar Master Profile|Salazar]] · [[_Carlos Gimenez Master Profile|Gimenez]] · [[_Donald Trump Master Profile|Trump]] · [[Fanjul Family - Florida Crystals]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[House Majority PAC]]"
 total-received: $1,175,788
 fec-candidate-id: H2FL25018
@@ -31,7 +31,7 @@ urls-first-triaged: "2026-04-15"
 bills-sponsored: 16
 bills-cosponsored: 143
 bills-enacted: 1
-top-policy-area: "International Affairs"
+top-policy-area: International Affairs
 ---
 
 

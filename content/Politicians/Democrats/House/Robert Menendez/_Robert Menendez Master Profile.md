@@ -1,34 +1,34 @@
 ---
-title: "Robert Menendez"
+title: Robert Menendez
 type: politician
 content-readiness: raw
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "New Jersey"
-state-abbr: "NJ"
+party: Democrat
+chamber: House
+state: New Jersey
+state-abbr: NJ
 district: "8"
-bioguide-id: "M001226"
+bioguide-id: M001226
 govtrack-id: 456918
 born: "1985-07-12"
-wikidata-id: "Q115137457"
-website: "https://menendez.house.gov"
-phone: "202-225-7919"
+wikidata-id: Q115137457
+website: https://menendez.house.gov
+phone: 202-225-7919
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
-donors: "[[Brady Campaign]]"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
+donors: "[[Brady Campaign]], [[AFL-CIO]], [[Sierra Club Independent Action]]"
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H2NJ13075"
+fec-candidate-id: H2NJ13075
 bills-sponsored: 14
 bills-cosponsored: 279
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
 ---
 
 

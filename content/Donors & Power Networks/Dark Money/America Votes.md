@@ -1,58 +1,59 @@
 ---
-title: "America Votes"
+title: America Votes
 type: donor
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Dark Money"
-entity-type: "Individual Donor"
+sector: Dark Money
+entity-type: Individual Donor
 issues:
-  - "Dark Money & Campaign Finance"
-  - "Infrastructure"
+  - Dark Money & Campaign Finance
+  - Infrastructure
 sec-filings: 4
 sec-form-types:
-  - "10-K"
-  - "424B3"
-  - "DEF 14A"
-  - "EX-99"
+  - 10-K
+  - 424B3
+  - DEF 14A
+  - EX-99
 ein: "264568349"
-annual-revenue: "$115.0M"
-net-assets: "$24.3M"
+annual-revenue: $115.0M
+net-assets: $24.3M
 tax-year: "2023"
-nonprofit-status: "501(c)(4)"
+nonprofit-status: 501(c)(4)
 last-enriched: "2026-04-10"
 total-revenue: 91066512
 total-assets: 45486683
 federal-register-mentions: 1
 regulatory-agencies:
-  - "Election Assistance Commission"
+  - Election Assistance Commission
 source-types:
   - FederalRegister
   - SEC
 corroboration-count: 2
 known-gaps:
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No lobbying disclosure data
+  - No mapped relationships
 court-cases: 84
 court-jurisdictions:
-  - "District Court, D. Maine"
-  - "District Court, D. Massachusetts"
-  - "District Court, D. New Hampshire"
-  - "District Court, E.D. Michigan"
-  - "District Court, E.D. North Carolina"
-  - "District Court, M.D. Pennsylvania"
-  - "District Court, N.D. Alabama"
-  - "District Court, W.D. Wisconsin"
+  - District Court, D. Maine
+  - District Court, D. Massachusetts
+  - District Court, D. New Hampshire
+  - District Court, E.D. Michigan
+  - District Court, E.D. North Carolina
+  - District Court, M.D. Pennsylvania
+  - District Court, N.D. Alabama
+  - District Court, W.D. Wisconsin
 related: "[[Democracy Alliance]]"
-total-political-spend: "$157,372,490"
+total-political-spend: $157,372,490
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 employee-contributions: 109
 employee-contributions-total: 47117
 employee-donor-count: 43
+politicians-funded: "[[_Deb Haaland Master Profile]], [[League of Conservation Voters]], [[ActBlue]], [[DNC - Democratic National Committee]], [[Emily's List]], [[Future Forward USA Action]], [[Majority Forward]], [[_Gabe Vasquez Master Profile]], [[Deb Haaland]], [[Gabe Vasquez]]"
 ---
 
 
@@ -93,6 +94,52 @@ employee-donor-count: 43
 
 *Source: FEC individual contribution filings (indiv), 1982–2026.*
 <!-- auto:fec-lifetime end -->
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 4 (2020–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $114.9M |
+| Total expenses | — |
+| Total assets (EOY) | $24.3M |
+| Grants paid out | $91.4M |
+
+**Lifetime grants out (2020–2023):** $331.8M across 305 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| BLACK PROGRESSIVE ACTION COALITION | $57.6M | 6 | 2020–2023 |
+| FAMILY FRIENDLY ACTION PAC | $19.9M | 4 | 2021–2023 |
+| PROGRESS NOW EDUCATION | $19.0M | 1 | 2021 |
+| SOMOS VOTANTES | $16.2M | 5 | 2020–2023 |
+| BLACKPAC | $15.8M | 4 | 2020–2023 |
+| LEAGUE OF CONSERVATION VOTERS | $13.1M | 6 | 2020–2023 |
+| FOR OUR FUTURE ACTION FUND | $12.6M | 5 | 2020–2023 |
+| FAMILY FRIENDLY ACTION FUND | $10.2M | 7 | 2020–2023 |
+| UNITE HERE ACTION FUND | $9.8M | 4 | 2021–2023 |
+| FOR OUR FUTURE | $8.2M | 1 | 2021 |
+| SOMOS PAC | $8.1M | 4 | 2020–2023 |
+| LCV VICTORY FUND | $5.5M | 4 | 2021–2023 |
+| AMERICA WORKS USA | $5.3M | 3 | 2022–2023 |
+| TAKE BACK 2020 | $5.0M | 1 | 2021 |
+| CLIMATE REALITY ACTION FUND | $4.5M | 4 | 2021–2023 |
+| NEW GEORGIA PROJECT ACTION FUND | $4.5M | 6 | 2020–2023 |
+| CASE ACTION | $3.8M | 3 | 2021–2023 |
+| PIZZA TO THE POLLS | $3.5M | 1 | 2021 |
+| MAP USA | $3.5M | 1 | 2023 |
+| WIN JUSTICE | $3.4M | 2 | 2021 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->
 
 #america-votes #dark-money #progressive-coordination #democracy-alliance #infrastructure #voter-mobilization
 

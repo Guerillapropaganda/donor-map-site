@@ -5,14 +5,14 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00155952
 aliases:
   - DEMOCRATIC PARTY OF VIRGINIA
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
-politicians-funded: "[[Bobby Scott]]"
+politicians-funded: "[[Bobby Scott]], [[ActBlue]], [[Democratic Party of Virginia]]"
 related: "[[Bobby Scott]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -25,7 +25,7 @@ individual-contributions: 806699
 ofac-sdn-match: "true"
 last-enriched: "2026-04-16"
 ofac-programs:
-  - "BALKANS"
+  - BALKANS
 employee-contributions: 32
 employee-contributions-total: 3122
 employee-donor-count: 11

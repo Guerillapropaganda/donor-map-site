@@ -2,12 +2,12 @@
 title: Bradley Foundation
 type: donor
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Dark Money
 entity-type: Individual Donor
-politicians-funded: "[[Donald Trump]]"
+politicians-funded: "[[Donald Trump]], [[_Glenn Grothman Master Profile]], [[RNC - Republican National Committee]], [[_Tony Wied Master Profile]], [[_Tim Scott Master Profile]], [[_Ron Johnson Master Profile]], [[_Scott Fitzgerald Master Profile]], [[WinRed]], [[Scott Fitzgerald]], [[Tony Wied]], [[Tim Scott]], [[Glenn Grothman]], [[Ron Johnson]]"
 issues:
   - Dark Money & Campaign Finance
   - Energy & Climate
@@ -477,3 +477,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/330771070/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/330771070/2019)~~ (URL broken, archived by Ops)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Bradley%20Foundation%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2018–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | $3.5M |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

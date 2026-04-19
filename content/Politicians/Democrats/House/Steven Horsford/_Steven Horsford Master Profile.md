@@ -1,33 +1,34 @@
 ---
-title: "Steven Horsford"
+title: Steven Horsford
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Nevada"
-state-abbr: "NV"
+party: Democrat
+chamber: House
+state: Nevada
+state-abbr: NV
 district: "4"
-bioguide-id: "H001066"
+bioguide-id: H001066
 govtrack-id: 412559
 born: "1973-04-29"
-wikidata-id: "Q3514907"
-website: "https://horsford.house.gov"
-phone: "202-225-9894"
+wikidata-id: Q3514907
+website: https://horsford.house.gov
+phone: 202-225-9894
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H2NV04011"
+fec-candidate-id: H2NV04011
 bills-sponsored: 27
 bills-cosponsored: 373
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[Duke Energy]], [[NEA Fund for Children and Public Education]], [[IBEW - International Brotherhood of Electrical Workers]], [[Judy Chu]], [[Hmp]], [[Bonnie Watson Coleman]], [[CVS Health - Aetna]], [[Raytheon (RTX)]], [[Sydney Kamlager-Dove]], [[Anthem - Elevance Health]], [[Protecting Our Vote Pac]], [[Sierra Club Political Committee]], [[McDonalds Corporation]], [[Microsoft]], [[Nucor Corporation]], [[American Chemistry Council, INC]], [[AbbVie]], [[Citigroup]], [[L3Harris Technologies]], [[DoorDash]], [[Congressional Progressive Caucus PAC]], [[American Federation of State County & Municipal Employees P E O P L E]], [[AFL-CIO]], [[American Gaming Association]], [[Mike Thompson]], [[Women Speak Out Pac]], [[Comcast - NBCUniversal]], [[Amgen Inc]], [[Jimmy Panetta]], [[iHeartMedia]], [[UA Political Action Committee]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Planned Parenthood Action Fund INC]], [[Coinbase]], [[Halliburton]], [[Giffords PAC]], [[Gilead Sciences]], [[Human Rights Campaign Equality Votes]], [[General Motors]], [[Chevron]], [[AIPAC - American Israel Public Affairs Committee]], [[National Multifamily Housing Council]], [[ENVIRONMENT AMERICA INC]], [[Paul Tonko]], [[Care Action]], [[ConocoPhillips]], [[BAE Systems]], [[SEIU COPE]], [[American College of Radiology Association PAC]], [[CHC BOLD PAC]], [[AT&T - WarnerMedia]], [[National Association of Realtors]], [[Veronica Escobar]], [[Humana]], [[Google - Alphabet]], [[Bank of America]], [[Jamie Raskin]], [[American Hospital Association PAC]], [[Adriano Espaillat]], [[DCCC - Democratic Congressional Campaign Committee]], [[DMFI - Democratic Majority for Israel]], [[Let America Vote PAC]], [[MoveOn.org Political Action]], [[Morgan Stanley]], [[Sierra Club Independent Action]], [[National Restaurant Association]], [[Pete Aguilar]], [[Unite Here Tip Campaign Committee]], [[National Association of Manufacturers]], [[AFSCME Working Families Fund]], [[Lockheed Martin]], [[Pfizer Inc.]], [[Johnson & Johnson]], [[General Dynamics]], [[Progressive Turnout Project]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Jason Crow]], [[Mark Kelly]], [[NextEra Energy]], [[Everytown for Gun Safety]], [[League of Conservation Voters]], [[Joe Neguse]], [[PG&E - Pacific Gas and Electric]], [[Courage to Change PAC]], [[Honeywell]], [[Fairshake PAC - Crypto Super PAC]], [[Nancy Pelosi]], [[Planned Parenthood Votes]], [[Congressional Leadership Fund]], [[Walmart - Walton Family]], [[Diana Degette]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Lamonica McIver]], [[Performance Racing Inc.]], [[Sara Jacobs]], [[Northrop Grumman]], [[Teamsters - International Brotherhood of Teamsters]], [[National Education Association]], [[Activate America]], [[Leidos]], [[Associated General Contractors of America Political Action Committee]], [[Kweisi Mfume]], [[Center Forward Committee]], [[Julia Brownley]]"
 ---
 
 

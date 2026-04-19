@@ -23,7 +23,7 @@ top-donors:
   - Apollo Global Management
 total-received: $6,801,272
 fec-candidate-id: S0UT00165
-donors: "[[Eric Schmidt]] · [[Tim Dunn]] · [[California Nurses Association]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[Koch network]] · [[Rebekah Mercer]] · [[AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION]] · [[Apollo Global Management]] · [[Blackstone Group]] · [[Club for Growth]] · [[CLUB FOR GROWTH ACTION]] · [[Put Utah First PAC]] · [[Koch Network]] · [[LIBERTY CHAMPIONS]] · [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]] · [[Protect Freedom Political Action Committee]] · [[Liberty Champions]]"
+donors: "[[Eric Schmidt]] · [[Tim Dunn]] · [[California Nurses Association]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[Koch network]] · [[Rebekah Mercer]] · [[AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION]] · [[Apollo Global Management]] · [[Blackstone Group]] · [[Club for Growth]] · [[CLUB FOR GROWTH ACTION]] · [[Put Utah First PAC]] · [[Koch Network]] · [[LIBERTY CHAMPIONS]] · [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]] · [[Protect Freedom Political Action Committee]] · [[Liberty Champions]] · [[Common Sense for America PAC]] · [[AT&T - WarnerMedia]] · [[NextEra Energy]] · [[Ford Motor Company]] · [[Halliburton]] · [[Marathon Petroleum]] · [[BAE Systems]] · [[Comcast - NBCUniversal]] · [[Amgen Inc]] · [[National Victory Action Fund]] · [[ConocoPhillips]] · [[Pfizer Inc.]] · [[American Hospital Association PAC]] · [[Google - Alphabet]] · [[National Right to Life Victory Fund]] · [[American Conservative Union]] · [[Senate Conservatives Fund]] · [[Chevron]] · [[Really American Pac]] · [[National Restaurant Association]] · [[AbbVie]] · [[Walmart - Walton Family]] · [[National Rifle Association]] · [[WinRed]] · [[Alliance Coal, LLC PAC]] · [[Duke Energy]] · [[Save America PAC]] · [[Gun Owners of America]] · [[National Multifamily Housing Council]] · [[Citigroup]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Performance Racing Inc.]] · [[Reclaim America PAC]] · [[L3Harris Technologies]] · [[CVS Health - Aetna]] · [[Anthem - Elevance Health]] · [[Republican Jewish Coalition]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[NRSC - National Republican Senatorial Committee]] · [[Microsoft]] · [[National Association of Realtors]] · [[Club for Growth INC PAC]] · [[DoorDash]] · [[FAMILY RESEARCH COUNCIL ACTION POLITICAL ACTION COMMITTEE]] · [[Northrop Grumman]] · [[Honeywell]] · [[iHeartMedia]] · [[Americans for Prosperity]] · [[Lockheed Martin]] · [[American Energy Action Fund]] · [[Tzedek PAC]] · [[General Motors]]"
 related: "[[John Barrasso]] · [[Chip Roy Master Profile]] · [[Apollo Global Management]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile|Trump]] · [[Crypto Industry Bloc]] · [[Club for Growth]] · [[Blackstone Group]] · [[_Mitch McConnell Master Profile|Mitch McConnell]] · [[_Chuck Grassley Master Profile|Chuck Grassley]] · [[Federalist Society]]"
 needs-reenrichment: true
 reenrich-reason: run voting pipeline; run congress pipeline; run pipelines
@@ -32,7 +32,7 @@ urls-first-triaged: "2026-04-15"
 bills-sponsored: 129
 bills-cosponsored: 287
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
 ---
 
 

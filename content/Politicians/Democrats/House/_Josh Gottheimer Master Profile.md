@@ -3,7 +3,7 @@ title: Josh Gottheimer
 type: politician
 content-readiness: ready
 central-thesis: The centrist Democrat as corporate insurance policy. Gottheimer's structural role is to prevent the Democratic majority from enacting legislation that threatens donor class interests while maintaining the appearance of pragmatism and bipartisanshi...
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Democrat
@@ -48,12 +48,12 @@ wikidata-id: Q6288908
 wikipedia-url: https://en.wikipedia.org/wiki/Josh_Gottheimer
 wikipedia-extract: Joshua S. Gottheimer is an American politician, attorney, writer, and public policy adviser serving as the U.S. representative for New Jersey's 5th congressional district since 2017.
 born: "1975-03-08"
-donors: "[[No Labels Action, Inc.]], [[FAIRSHAKE]], [[Patriot Majority Pac]], [[Center Forward Committee]], [[Wall Street Finance PACs]], [[NO LABELS ACTION, INC.]], [[NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND]]"
+donors: "[[No Labels Action, Inc.]], [[FAIRSHAKE]], [[Patriot Majority Pac]], [[Center Forward Committee]], [[Wall Street Finance PACs]], [[NO LABELS ACTION, INC.]], [[NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND]], [[McDonalds Corporation]], [[Planned Parenthood Votes]], [[NextEra Energy]], [[American Hospital Association PAC]], [[Walmart - Walton Family]], [[AT&T - WarnerMedia]], [[CVS Health - Aetna]], [[American Chemistry Council, INC]], [[Humane Society Legislative Fund]], [[PG&E - Pacific Gas and Electric]], [[Citigroup]], [[Sierra Club Independent Action]], [[NEA Fund for Children and Public Education]], [[General Dynamics]], [[IBEW - International Brotherhood of Electrical Workers]], [[Sara Jacobs]], [[Let America Vote PAC]], [[L3Harris Technologies]], [[Honeywell]], [[AIPAC - American Israel Public Affairs Committee]], [[Johnson & Johnson]], [[National Association of Realtors]], [[Pfizer Inc.]], [[National Multifamily Housing Council]], [[Pete Aguilar]], [[DMFI - Democratic Majority for Israel]], [[League of Conservation Voters]], [[Protect Progress]], [[Google - Alphabet]], [[iHeartMedia]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Care Action]], [[Devon Energy]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Comcast - NBCUniversal]], [[Morgan Stanley]], [[Ted Lieu]], [[National Restaurant Association]], [[Northrop Grumman]], [[Gilead Sciences]], [[Amgen Inc]], [[National Association of Manufacturers]], [[Fairshake PAC - Crypto Super PAC]], [[Associated General Contractors of America Political Action Committee]], [[Teamsters - International Brotherhood of Teamsters]], [[Jimmy Panetta]], [[DCCC - Democratic Congressional Campaign Committee]], [[Microsoft]], [[American Federation of State County & Municipal Employees P E O P L E]], [[NORPAC]], [[General Motors]], [[Anthem - Elevance Health]], [[Lockheed Martin]], [[Airbnb]], [[Women Speak Out Pac]], [[Chevron]], [[Bank of America]], [[Coinbase]], [[Nucor Corporation]], [[DoorDash]], [[Planned Parenthood Action Fund INC]], [[AbbVie]], [[Adriano Espaillat]], [[UA Political Action Committee]], [[Ford Motor Company]], [[Everytown for Gun Safety]], [[American Gaming Association]], [[AFL-CIO]]"
 bills-sponsored: 191
 bills-cosponsored: 3134
 bills-enacted: 0
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "Health"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: Health
 ---
 
 

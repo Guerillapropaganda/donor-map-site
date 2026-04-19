@@ -1,16 +1,16 @@
 ---
-title: "a16z - Andreessen Horowitz"
+title: a16z - Andreessen Horowitz
 type: donor
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-08T00:00:00.000Z
 source-tier: null
 parent: null
-sector: "Tech & Crypto"
-entity-type: "Individual Donor"
+sector: Tech & Crypto
+entity-type: Individual Donor
 related: "[[Trump 2024 Campaign]]"
 known-gaps:
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
+  - No FEC contribution data
+  - No lobbying disclosure data
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -18,6 +18,7 @@ urls-first-triaged: "2026-04-15"
 employee-contributions: 357
 employee-contributions-total: 33410790
 employee-donor-count: 153
+politicians-funded: "[[DSCC - Democratic Senatorial Campaign Committee]], [[_Jake Auchincloss Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[_Nellie Pou Master Profile]], [[_Vicente Gonzalez Master Profile]], [[_Ron Johnson Master Profile]], [[_George Whitesides Master Profile]], [[_Kevin Kiley Master Profile]], [[Airbnb]], [[MAGA Inc]], [[_Mike Levin Master Profile]], [[_Thomas Massie Master Profile]], [[_Jared Moskowitz Master Profile]], [[_Chris Pappas Master Profile]], [[_Martin Heinrich Master Profile]], [[FreedomWorks for America]], [[_Gabe Vasquez Master Profile]], [[_Mike Flood Master Profile]], [[_Dave Min Master Profile]], [[_Josh Harder Master Profile]], [[CHC BOLD PAC]], [[WinRed]], [[_Susie Lee Master Profile]], [[ActBlue]], [[_Lisa Blunt Rochester Master Profile]], [[Mark Kelly]], [[_Derek Tran Master Profile]], [[United Democracy Project - UDP]], [[_Andy Barr Master Profile]], [[_Alex Padilla Master Profile]], [[_Gabe Amo Master Profile]], [[_Adam Gray Master Profile]], [[Congressional Progressive Caucus PAC]], [[_Brian Jack Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Josh Riley Master Profile]], [[NRCC - National Republican Congressional Committee]], [[_Jimmy Gomez Master Profile]], [[_Darren Soto Master Profile]], [[AI Deregulation Super PAC - Leading the Future]], [[_Ann Wagner Master Profile]], [[_Cory Booker Master Profile]], [[_Jon Ossoff Master Profile]], [[_Angie Craig Master Profile]], [[_Jay Obernolte Master Profile]], [[Josh Riley]], [[Dave Min]], [[Josh Harder]], [[Susie Lee]], [[Jared Moskowitz]], [[Angie Craig]], [[Thomas Massie]], [[Chris Pappas]], [[Darren Soto]], [[Alex Padilla]], [[Cory Booker]], [[Vicente Gonzalez]], [[Derek Tran]], [[Martin Heinrich]], [[Kevin Kiley]], [[Jake Auchincloss]], [[Lisa Blunt Rochester]], [[Mike Levin]], [[Andy Barr]], [[Gabe Amo]], [[George Whitesides]], [[Ron Johnson]], [[Jimmy Gomez]], [[Jon Ossoff]], [[Jay Obernolte]], [[Nellie Pou]], [[Adam Gray]], [[Brian Jack]], [[Gabe Vasquez]], [[Ann Wagner]], [[Mike Flood]]"
 ---
 
 

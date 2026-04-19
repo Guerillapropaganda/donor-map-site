@@ -2,12 +2,12 @@
 title: Tyson Foods
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Agriculture
 entity-type: Corporation
-politicians-funded: "[[John Boozman]]"
+politicians-funded: "[[John Boozman]], [[Bernie Moreno]], [[CHC BOLD PAC]], [[James Comer]], [[Veronica Escobar]], [[Tyson Foods]], [[Eric Swalwell]], [[Michael Baumgartner]], [[Progressive Turnout Project]], [[Let America Vote PAC]], [[_Matt van Epps Master Profile]], [[_Veronica Escobar Master Profile]], [[Carlos Gimenez]], [[Gary Peters]], [[David Kustoff]], [[Tim Walberg]], [[Bennie Thompson]], [[_Mike Flood Master Profile]], [[_Nancy Pelosi Master Profile]], [[Roger Wicker]], [[Jack Reed]], [[Brad Knott]], [[ActBlue]], [[_Jim Costa Master Profile]], [[Rick Crawford]], [[Michael Guest]], [[Erin Houchin]], [[Mitch McConnell]], [[Marcy Kaptur]], [[DCCC - Democratic Congressional Campaign Committee]], [[Kat Cammack]], [[National Association of Manufacturers]], [[Markwayne Mullin]], [[Sherrod Brown]], [[NRSC - National Republican Senatorial Committee]], [[August Pfluger]], [[Frank Lucas]], [[Andre Carson]], [[Harold Rogers]], [[_Alex Padilla Master Profile]], [[Adrian Smith]], [[_Cory Booker Master Profile]], [[Catherine Cortez Masto]], [[Martin Heinrich]], [[Deb Fischer]], [[Save America PAC]], [[Burgess Owens]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Mark Alford]], [[Dusty Johnson]], [[French Hill]], [[Rick Larsen]], [[Hmp]], [[Tracey Mann]], [[Steve Womack]], [[314 ACTION FUND]], [[Brett Guthrie]], [[Sam Graves]], [[John James]], [[Jim Costa]], [[MAGA Inc]], [[Brad Finstad]], [[Jamie Raskin]], [[Jimmy Panetta]], [[Mark Kelly]], [[WinRed]], [[Virginia Foxx]], [[Eric Burlison]], [[Mike Flood]], [[Darin Lahood]], [[NRCC - National Republican Congressional Committee]], [[Jahana Hayes]], [[Dan Newhouse]], [[Sharice Davids]], [[Kyrsten Sinema]], [[Roger Marshall]], [[David Rouzer]], [[_Jon Ossoff Master Profile]], [[Jason Smith]], [[James Lankford]], [[Cathy McMorris Rodgers]], [[Susan Collins]], [[Brandon Gill]], [[_Josh Riley Master Profile]], [[VOTER PROTECTION PROJECT]], [[_Josh Harder Master Profile]], [[_Pete Aguilar Master Profile]], [[Tom Cole]], [[WinSenate]], [[Richard Neal]], [[John Garamendi]], [[Bruce Westerman]], [[_Thomas Massie Master Profile]], [[Nathaniel Moran]], [[Votevets]], [[RNC - Republican National Committee]], [[Marsha Blackburn]], [[Patty Murray]], [[Mark Warner]], [[Michael Cloud]], [[Chrissy Houlahan]], [[Emily's List]], [[Lloyd Smucker]], [[Chuck Edwards]], [[_Gabe Amo Master Profile]], [[Tammy Duckworth]], [[Glenn Thompson]], [[Debbie Dingell]], [[Pete Sessions]], [[Kay Granger]], [[Julia Brownley]], [[Glenn Grothman]], [[_Gabe Vasquez Master Profile]], [[Ronny Jackson]], [[Jacky Rosen]], [[Russell Fry]], [[Kevin McCarthy]], [[Brendan Boyle]], [[Ron Estes]], [[Mariannette Miller-Meeks]], [[National Rifle Association]], [[Lindsey Graham]], [[League of Conservation Voters]], [[Richard Hudson]], [[Thom Tillis]], [[Frank Pallone]], [[Lance Gooden]], [[Shontel Brown]], [[Josh Brecheen]], [[_Summer Lee Master Profile]], [[John Barrasso]], [[Congressional Progressive Caucus PAC]], [[Shomari Figures]], [[Bob Casey]], [[Cindy Hyde-Smith]], [[_Ted Cruz Master Profile]], [[John Thune]], [[John Hoeven]], [[Pete Aguilar]], [[Paul Tonko]], [[_Jimmy Panetta Master Profile]], [[Giffords PAC]], [[Patrick McHenry]], [[David Scott]], [[John Cornyn]], [[Richard McCormick]], [[Cliff Bentz]], [[Steve Cohen]], [[_Jamie Raskin Master Profile]], [[Hakeem Jeffries]], [[Shelley Moore Capito]], [[Kristen McDonald Rivet]], [[Steve Scalise]], [[Eric Sorensen]], [[_Ted Budd Master Profile]], [[Tammy Baldwin]], [[Jay Obernolte]], [[Alex Padilla]], [[Nancy Pelosi]], [[Jon Ossoff]], [[Gabe Amo]], [[Cory Booker]], [[Josh Riley]], [[Thomas Massie]], [[Matt van Epps]], [[Gabe Vasquez]], [[Josh Harder]], [[Ted Budd]], [[Ted Cruz]], [[Summer Lee]]"
 issues:
   - Agriculture
   - Labor & Workers
@@ -23,16 +23,16 @@ total-revenue: 1
 total-assets: 321518
 federal-register-mentions: 74
 regulatory-agencies:
-  - "Agricultural Marketing Service"
-  - "Agriculture Department"
-  - "Children and Families Administration"
-  - "Consumer Financial Protection Bureau"
-  - "Employment and Training Administration"
-  - "Environmental Protection Agency"
-  - "Federal Aviation Administration"
-  - "Federal Maritime Commission"
-  - "Food and Nutrition Service"
-  - "Health and Human Services Department"
+  - Agricultural Marketing Service
+  - Agriculture Department
+  - Children and Families Administration
+  - Consumer Financial Protection Bureau
+  - Employment and Training Administration
+  - Environmental Protection Agency
+  - Federal Aviation Administration
+  - Federal Maritime Commission
+  - Food and Nutrition Service
+  - Health and Human Services Department
 related: "[[Cargill]] · [[Agriculture - Donors and Backers]] · [[The Farm Bill - The Bipartisan Subsidy Machine]] · [[American Farm Bureau Federation]] · [[_John Boozman Master Profile|Boozman]] · [[National Cattlemen's Beef Association]] · [[Monsanto - Bayer]] · [[John Deere]] · [[ADM - Archer Daniels Midland]] · [[Meatpacking Corporations]] · [[United Farm Workers]] · [[Agribusiness Donor Bloc]]"
 court-cases: 14512
 court-jurisdictions:
@@ -95,19 +95,19 @@ sec-form-types:
   - SCHEDULE 13D/A
   - SCHEDULE 13G/A
   - XML
-annual-revenue: "$1"
-net-assets: "$322K"
+annual-revenue: $1
+net-assets: $322K
 tax-year: "2019"
-wikidata-id: "Q1325987"
-wikipedia-url: "https://en.wikipedia.org/wiki/Tyson_Foods"
-wikipedia-extract: "Tyson Foods, Inc. is an American multinational corporation based in Springdale, Arkansas that operates in the food industry."
+wikidata-id: Q1325987
+wikipedia-url: https://en.wikipedia.org/wiki/Tyson_Foods
+wikipedia-extract: Tyson Foods, Inc. is an American multinational corporation based in Springdale, Arkansas that operates in the food industry.
 founded: "1935-01-01"
-lei: "WD6L6041MNRW1JE49D58"
-lei-jurisdiction: "US-DE"
+lei: WD6L6041MNRW1JE49D58
+lei-jurisdiction: US-DE
 lobbying-spend: 5030000
 lobbying-filings: 30
 epa-facilities: 40
-epa-states: "AL, AR, CT, GA, IA, ID, MD, MO, NC, NE, NJ, OK, PA, TX, VA"
+epa-states: AL, AR, CT, GA, IA, ID, MD, MO, NC, NE, NJ, OK, PA, TX, VA
 federal-contracts: 141
 total-raised: 425050
 total-spent: 434000
@@ -761,3 +761,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/476014039)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Tyson%20Foods%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=10_2020_prefixes_47-52%2F476014039_201912_990PR_2020102017391100.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 2 (2020–2021)
+
+**Most recent filing (2021):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | — |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Labor Unions
 entity-type: Individual Donor
-politicians-funded: "[[Jamie Raskin]], [[Debbie Wasserman Schultz]], [[Brendan Boyle]], [[Kamala Harris]], [[JB Pritzker]]"
+politicians-funded: "[[Jamie Raskin]], [[Debbie Wasserman Schultz]], [[Brendan Boyle]], [[Kamala Harris]], [[JB Pritzker]], [[DCCC - Democratic Congressional Campaign Committee]], [[WinSenate]], [[Unite Here Tip Campaign Committee]], [[_Nancy Pelosi Master Profile]], [[MoveOn.org Political Action]], [[ActBlue]], [[Progressive Turnout Project]], [[Hmp]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Rashida Tlaib Master Profile]], [[Donald Trump]], [[_Jamie Raskin Master Profile]], [[314 ACTION FUND]], [[Votevets]], [[Indivisible Action]], [[Emily's List]], [[_Jon Ossoff Master Profile]], [[Jon Ossoff]], [[Rashida Tlaib]], [[Nancy Pelosi]]"
 issues:
   - Labor & Workers
 total-political-spend: $51,678,221

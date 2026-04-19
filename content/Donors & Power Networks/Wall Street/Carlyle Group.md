@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Wall Street
 entity-type: Corporation
-politicians-funded: "[[Glenn Youngkin]]"
+politicians-funded: "[[Glenn Youngkin]], [[NRSC - National Republican Senatorial Committee]], [[_Melissa Bean Master Profile]], [[Bob Casey]], [[_Mike Kelly Master Profile]], [[WinRed]], [[ActBlue]], [[Let America Vote PAC]], [[Planned Parenthood Votes]], [[_Jason Smith Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Andy Barr Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Kamala Harris Master Profile]], [[_Yassamin Ansari Master Profile]], [[AIPAC - American Israel Public Affairs Committee]], [[SLF PAC]], [[_Ann Wagner Master Profile]], [[RNC - Republican National Committee]], [[_Seth Moulton Master Profile]], [[The Lincoln Project]], [[_Don Bacon Master Profile]], [[Seth Moulton]], [[Mike Kelly]], [[Don Bacon]], [[Jason Smith]], [[Kamala Harris]], [[Ann Wagner]], [[Yassamin Ansari]], [[Andy Barr]], [[Melissa Bean]]"
 issues:
   - Wall Street & Finance
   - Defense & Military
@@ -62,7 +62,7 @@ occ-cmp-dollars: 3000
 cross-vault-triangulation-count: 13
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 2
-epa-states: "IL, MD"
+epa-states: IL, MD
 employee-contributions: 188
 employee-contributions-total: 565997
 employee-donor-count: 114
@@ -447,3 +447,32 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Carlyle%20Group%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=Carlyle%20Group&srt=1&pg=1&pgsz=25&isAdv=false)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 3 (2020–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $956K |
+| Total expenses | — |
+| Total assets (EOY) | $8.9M |
+| Grants paid out | $8K |
+
+**Lifetime grants out (2020–2023):** $37K across 2 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| Redbirds Sports Property | $29K | 2 | 2020–2022 |
+| Redbird Sports Property | $8K | 1 | 2023 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

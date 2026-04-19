@@ -2,12 +2,12 @@
 title: Fanjul Family - Florida Crystals
 type: donor
 content-readiness: draft
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Agriculture
 entity-type: Individual Donor
-politicians-funded: "[[Rick Scott]], [[Marco Rubio]], [[Carlos Gimenez]], [[Mario Diaz-Balart]], [[Brian Mast]], [[Debbie Wasserman Schultz]], [[Donald Trump]]"
+politicians-funded: "[[Rick Scott]], [[Marco Rubio]], [[Carlos Gimenez]], [[Mario Diaz-Balart]], [[Brian Mast]], [[Debbie Wasserman Schultz]], [[Donald Trump]], [[DSCC - Democratic Senatorial Campaign Committee]], [[NRSC - National Republican Senatorial Committee]], [[_Mario Diaz-Balart Master Profile]], [[_Nancy Pelosi Master Profile]], [[_Debbie Wasserman Schultz Master Profile]], [[_Pete Aguilar Master Profile]], [[_Lois Frankel Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[WinRed]], [[_Jim Costa Master Profile]], [[_Michael Waltz Master Profile]], [[_Dwight Evans Master Profile]], [[_Daniel Webster Master Profile]], [[NRCC - National Republican Congressional Committee]], [[_Brian Mast Master Profile]], [[_Adriano Espaillat Master Profile]], [[_Mark DeSaulnier Master Profile]], [[_Jimmy Panetta Master Profile]], [[RNC - Republican National Committee]], [[_Kweisi Mfume Master Profile]], [[_Carlos Gimenez Master Profile]], [[_Vicente Gonzalez Master Profile]], [[ActBlue]], [[_Dave Min Master Profile]], [[_Mike Thompson Master Profile]], [[_Shontel Brown Master Profile]], [[_Susie Lee Master Profile]], [[_Judy Chu Master Profile]], [[_Jared Moskowitz Master Profile]], [[Trump Victory]], [[_Cory Mills Master Profile]], [[_Darren Soto Master Profile]], [[_Adam Gray Master Profile]], [[_Lisa Blunt Rochester Master Profile]], [[Chris Christie]], [[Mark Kelly]], [[Catherine Cortez Masto]], [[_Vern Buchanan Master Profile]], [[_Ted Lieu Master Profile]], [[_Frederica S. Wilson Master Profile]], [[_Jimmy Gomez Master Profile]], [[_Mike Levin Master Profile]], [[_Marco Rubio Master Profile]], [[_Scott Franklin Master Profile]], [[_Maria Elvira Salazar Master Profile]], [[_Randy Fine Master Profile]], [[_Julia Letlow Master Profile]], [[Hmp]], [[Mike Thompson]], [[Mike Levin]], [[Pete Aguilar]], [[Daniel Webster]], [[Lois Frankel]], [[Susie Lee]], [[Jared Moskowitz]], [[Lisa Blunt Rochester]], [[Jimmy Panetta]], [[Jim Costa]], [[Ted Lieu]], [[Maria Elvira Salazar]], [[Darren Soto]], [[Vicente Gonzalez]], [[Nancy Pelosi]], [[Kweisi Mfume]], [[Mark DeSaulnier]], [[Michael Waltz]], [[Randy Fine]], [[Adam Gray]], [[Cory Mills]], [[Vern Buchanan]], [[Frederica S. Wilson]], [[Dwight Evans]], [[Adriano Espaillat]], [[Jimmy Gomez]], [[Scott Franklin]], [[Dave Min]], [[Julia Letlow]], [[Shontel Brown]], [[Judy Chu]]"
 issues:
   - Agriculture
   - Israel & Foreign Policy

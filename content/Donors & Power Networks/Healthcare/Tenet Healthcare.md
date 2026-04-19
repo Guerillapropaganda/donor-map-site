@@ -1,86 +1,84 @@
 ---
-title: "Tenet Healthcare"
+title: Tenet Healthcare
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Healthcare"
-entity-type: "Corporation"
+sector: Healthcare
+entity-type: Corporation
 issues:
-  - "Healthcare"
-  - "Social Safety Net"
+  - Healthcare
+  - Social Safety Net
 federal-awards-total: 353830
 federal-contracts-count: 5
 federal-grants-count: 0
-lei: "0W9AIBT6U6ADJ2I8HK17"
-lei-jurisdiction: "US-NV"
+lei: 0W9AIBT6U6ADJ2I8HK17
+lei-jurisdiction: US-NV
 federal-register-mentions: 50
 last-enriched: "2026-04-11"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 regulatory-agencies:
-  - "Antitrust Division"
-  - "Employment and Training Administration"
-  - "Environmental Protection Agency"
-  - "Federal Trade Commission"
-  - "Health and Human Services Department"
-  - "Justice Department"
-  - "Labor Department"
-  - "National Labor Relations Board"
-  - "Securities and Exchange Commission"
+  - Antitrust Division
+  - Employment and Training Administration
+  - Environmental Protection Agency
+  - Federal Trade Commission
+  - Health and Human Services Department
+  - Justice Department
+  - Labor Department
+  - National Labor Relations Board
+  - Securities and Exchange Commission
 court-cases: 2123
 court-jurisdictions:
-  - "District Court, C.D. California"
-  - "District Court, D. Massachusetts"
-  - "District Court, D. Oregon"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. California"
-  - "District Court, E.D. Michigan"
-  - "District Court, E.D. Texas"
-  - "District Court, N.D. Texas"
-  - "District Court, S.D. Florida"
-  - "District Court, W.D. Texas"
+  - District Court, C.D. California
+  - District Court, D. Massachusetts
+  - District Court, D. Oregon
+  - District Court, District of Columbia
+  - District Court, E.D. California
+  - District Court, E.D. Michigan
+  - District Court, E.D. Texas
+  - District Court, N.D. Texas
+  - District Court, S.D. Florida
+  - District Court, W.D. Texas
 ein: "742873537"
-annual-revenue: "$1.9M"
-net-assets: "$4.8M"
+annual-revenue: $1.9M
+net-assets: $4.8M
 tax-year: "2023"
 sec-filings: 10000
 sec-form-types:
-  - "10-Q"
+  - 10-Q
   - "144"
   - "3"
   - "4"
-  - "424B2"
-  - "8-A12B"
-  - "8-K"
-  - "EX-99"
-  - "EX-99.(C)(II)"
-  - "EX-99.1"
-  - "EX-99.4"
-  - "FWP"
-  - "S-8 POS"
-  - "SC 13D"
-  - "SC 13D/A"
-  - "SC 13G"
-  - "SC 13G/A"
-  - "SC TO-I"
-  - "SC TO-I/A"
-  - "SCHEDULE 13G/A"
+  - 424B2
+  - 8-A12B
+  - 8-K
+  - EX-99
+  - EX-99.(C)(II)
+  - EX-99.1
+  - EX-99.4
+  - FWP
+  - S-8 POS
+  - SC 13D
+  - SC 13D/A
+  - SC 13G
+  - SC 13G/A
+  - SC TO-I
+  - SC TO-I/A
+  - SCHEDULE 13G/A
 related: "[[Cigna Group]] · [[Hospital Corporation of America - HCA]] · [[Blue Cross Blue Shield Association]] · [[PhRMA]] · [[Anthem - Elevance Health]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[Palantir Technologies]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]] · [[Humana]] · [[Civica Rx]] · [[CVS Health - Aetna]] · [[Anthem - Elevance Health Political Operation]] · [[Uber]] · [[Lyft]] · [[Instacart]] · [[Flex Association]] · [[DoorDash]] · [[Airbnb]] · [[WSPA - Western States Petroleum Association]] · [[Valero Energy]] · [[Southern Company]] · [[PG&E]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[NextEra Energy]] · [[Marathon Petroleum]] · [[Koch Industries]] · [[Hawaiian Electric Company]] · [[Halliburton]] · [[Fossil Fuel Bloc]] · [[ExxonMobil]] · [[Duke Energy]] · [[Devon Energy]] · [[ConocoPhillips]]"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 total-revenue: 23648810
 total-assets: 24419400
-top-federal-agency: "Department of Veterans Affairs"
+top-federal-agency: Department of Veterans Affairs
 top-naics-code: "811210"
 cross-vault-triangulation-count: 9
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 epa-facilities: 2
-epa-states: "MI"
+epa-states: MI
 federal-contracts: 9
 total-raised: 195598
 total-spent: 120898
@@ -90,6 +88,7 @@ contributions-to-committees: 100500
 employee-contributions: 4769
 employee-contributions-total: 658681
 employee-donor-count: 712
+politicians-funded: "[[Brian Mast]], [[John Barrasso]], [[Bill Hagerty]], [[_Ted Cruz Master Profile]], [[Tenet Healthcare]], [[Progressive Turnout Project]], [[_Julie Johnson Master Profile]], [[RNC - Republican National Committee]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Human Rights Campaign Equality Votes]], [[ActBlue]], [[_Angie Craig Master Profile]], [[MoveOn.org Political Action]], [[Bob Casey]], [[Greg Stanton]], [[_Tammy Baldwin Master Profile]], [[Mark Kelly]], [[_Jake Ellzey Master Profile]], [[_Chris Pappas Master Profile]], [[Votevets]], [[Jason Smith]], [[Ted Cruz]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Lloyd Smucker]], [[Diana Harshbarger]], [[Katie Britt]], [[Rick Scott]], [[Brett Guthrie]], [[_Nancy Pelosi Master Profile]], [[Kyrsten Sinema]], [[Chris Christie]], [[_Debbie Wasserman Schultz Master Profile]], [[John Thune]], [[MAGA Inc]], [[Richard Neal]], [[Marsha Blackburn]], [[NRCC - National Republican Congressional Committee]], [[Ron Wyden]], [[Dan Crenshaw]], [[Lois Frankel]], [[NRSC - National Republican Senatorial Committee]], [[Veronica Escobar]], [[WinRed]], [[Joe Manchin]], [[DCCC - Democratic Congressional Campaign Committee]], [[Steve Scalise]], [[_Lauren Boebert Master Profile]], [[WinSenate]], [[Kevin McCarthy]], [[Dusty Johnson]], [[James Lankford]], [[Pete Aguilar]], [[John Boozman]], [[Diana Degette]], [[Ann Wagner]], [[Thom Tillis]], [[Adam Gray]], [[_Pete Sessions Master Profile]], [[Tim Scott]], [[The Lincoln Project]], [[Shelley Moore Capito]], [[Aaron Bean]], [[Mitch McConnell]], [[REPUBLICAN PARTY OF FLORIDA]], [[Darren Soto]], [[Darin Lahood]], [[Hmp]], [[Jay Obernolte]], [[Todd Young]], [[Mark Warner]], [[David Kustoff]], [[Adrian Smith]], [[Vince Fong]], [[_Yassamin Ansari Master Profile]], [[_Marco Rubio Master Profile]], [[Debbie Wasserman Schultz]], [[Tammy Baldwin]], [[Angie Craig]], [[Yassamin Ansari]], [[Nancy Pelosi]], [[Lauren Boebert]], [[Pete Sessions]], [[Marco Rubio]], [[Julie Johnson]], [[Chris Pappas]], [[Jake Ellzey]]"
 ---
 
 
@@ -465,3 +464,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/742873537/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/742873537/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/742873537/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 3 (2020–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $1.8M |
+| Total expenses | — |
+| Total assets (EOY) | $4.8M |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

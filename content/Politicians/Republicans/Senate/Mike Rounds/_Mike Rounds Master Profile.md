@@ -1,33 +1,34 @@
 ---
-title: "Mike Rounds"
+title: Mike Rounds
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "Senate"
-state: "South Dakota"
-state-abbr: "SD"
-bioguide-id: "R000605"
+party: Republican
+chamber: Senate
+state: South Dakota
+state-abbr: SD
+bioguide-id: R000605
 govtrack-id: 412669
 born: "1954-10-24"
-wikidata-id: "Q722503"
-website: "https://www.rounds.senate.gov"
-phone: "202-224-5842"
+wikidata-id: Q722503
+website: https://www.rounds.senate.gov
+phone: 202-224-5842
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 stock-trades: 9
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "S4SD00049"
+fec-candidate-id: S4SD00049
 bills-sponsored: 54
 bills-cosponsored: 339
 bills-enacted: 9
-top-policy-area: "Armed Forces and National Security"
+top-policy-area: Armed Forces and National Security
+top-donors: "[[WinRed]], [[Northrop Grumman]], [[Morgan Stanley]], [[iHeartMedia]], [[BAE Systems]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Microsoft]], [[L3Harris Technologies]], [[AT&T - WarnerMedia]], [[Walmart - Walton Family]], [[NextEra Energy]], [[National Multifamily Housing Council]], [[American Hospital Association PAC]], [[Republican Jewish Coalition]], [[Common Sense for America PAC]], [[Amgen Inc]], [[Associated General Contractors of America Political Action Committee]], [[Bank of America]], [[Lockheed Martin]], [[Leidos]], [[General Dynamics]], [[Coinbase]], [[Google - Alphabet]], [[Citigroup]], [[NORPAC]], [[Raytheon (RTX)]], [[Comcast - NBCUniversal]], [[National Association of Realtors]], [[AIPAC - American Israel Public Affairs Committee]], [[Duke Energy]], [[National Rifle Association]], [[Chevron]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[American Chemistry Council, INC]], [[NRSC - National Republican Senatorial Committee]]"
 ---
 
 

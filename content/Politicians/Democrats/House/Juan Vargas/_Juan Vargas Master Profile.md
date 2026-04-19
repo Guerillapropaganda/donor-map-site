@@ -1,33 +1,34 @@
 ---
-title: "Juan Vargas"
+title: Juan Vargas
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "California"
-state-abbr: "CA"
+party: Democrat
+chamber: House
+state: California
+state-abbr: CA
 district: "52"
-bioguide-id: "V000130"
+bioguide-id: V000130
 govtrack-id: 412522
 born: "1961-03-07"
-wikidata-id: "Q3791701"
-website: "https://vargas.house.gov"
-phone: "202-225-8045"
+wikidata-id: Q3791701
+website: https://vargas.house.gov
+phone: 202-225-8045
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H2CA50026"
+fec-candidate-id: H2CA50026
 bills-sponsored: 8
 bills-cosponsored: 506
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[National Multifamily Housing Council]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Lockheed Martin]], [[Courage California Super Pac]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Morgan Stanley]], [[Sierra Club Political Committee]], [[AIPAC - American Israel Public Affairs Committee]], [[General Dynamics]], [[Citigroup]], [[Google - Alphabet]], [[Honeywell]], [[Northrop Grumman]], [[IBEW - International Brotherhood of Electrical Workers]], [[National Association of Realtors]], [[UA Political Action Committee]], [[SEIU COPE]], [[Planned Parenthood Votes]], [[Raytheon (RTX)]], [[PLANNED PARENTHOOD ACTION FUND OF THE PACIFIC SOUTHWEST PAC]], [[Progressive Turnout Project]], [[Walmart - Walton Family]], [[American Hospital Association PAC]], [[AT&T - WarnerMedia]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Comcast - NBCUniversal]], [[DMFI - Democratic Majority for Israel]], [[NEA Fund for Children and Public Education]], [[Bank of America]], [[Anthem - Elevance Health]], [[PG&E - Pacific Gas and Electric]], [[BAE Systems]], [[League of Conservation Voters]], [[Sierra Club Independent Action]], [[Unite Here Tip Campaign Committee]], [[Medicare for All - The Policy That Broke the Party]]"
 ---
 
 

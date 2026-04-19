@@ -314,3 +314,49 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[EXPOSEDbyCMD: Club for Growth Action 2025 - $15.8M raised, $10M from Yass](https://www.exposedbycmd.org/2026/02/18/major-right-wing-super-pacs-disclose-recent-contributions-and-endorsements/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
 - ~~[Axios: Club for Growth plots new conservative path after Trump (2023)](https://www.axios.com/2023/01/22/club-for-growth-republicans-conservatives-2024)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Club%20for%20Growth%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 5 (2020–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $5.9M |
+| Total expenses | — |
+| Total assets (EOY) | $13.6M |
+| Grants paid out | $6.0M |
+
+**Lifetime grants out (2020–2024):** $9.0M across 19 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| AMERICAN JOBS &amp; GROWTH FUND | $2.4M | 1 | 2024 |
+| FRIENDS OF RON DESANTIS | $2.0M | 1 | 2023 |
+| WIN IT BACK PAC | $2.0M | 1 | 2024 |
+| CFG ACTION - MISSOURI FEDERAL COMMITTEE | $1.3M | 1 | 2024 |
+| CLUB FOR GROWTH FOUNDATION | $399K | 1 | 2022 |
+| ARIZONA'S BEST | $250K | 1 | 2022 |
+| SAVING TEXAS | $162K | 1 | 2024 |
+| BLOCKCHAIN INNOVATION PROJECT | $99K | 1 | 2023 |
+| LINCOLN CLUB NETWORK | $90K | 1 | 2024 |
+| LIBERTY JUSTICE CENTER | $80K | 1 | 2023 |
+| AMERICAN CONSERVATIVE UNION FOUNDATION | $75K | 2 | 2021–2022 |
+| STACK PAC | $50K | 1 | 2023 |
+| THE FEDERALIST SOCIETY | $35K | 2 | 2022–2024 |
+| CNP ACTION INC | $30K | 2 | 2021–2023 |
+| CONCERNED WOMEN FOR AMERICA - LEGISLATIVE ACTION COMMITTEE | $30K | 1 | 2021 |
+| OUR KIDS OUR FUTURE | $25K | 1 | 2023 |
+| COUNCIL FOR NATIONAL POLICY | $20K | 1 | 2024 |
+| DEFEND ALASKA ELECTIONS | $15K | 1 | 2021 |
+| NATIONAL TAX LIMITATION COALITION | $10K | 1 | 2022 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

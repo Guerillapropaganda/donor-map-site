@@ -31,7 +31,7 @@ fec-candidate-id: H2AZ07070
 govtrack-id: 400162
 bills-sponsored: 8
 bills-cosponsored: 187
-donors: "[[National Nurses United]] · [[MOVEON.ORG POLITICAL ACTION]] · [[CAMPAIGN FOR COMMUNITY CHANGE]] · [[SERVICE EMPLOYEES INTERNATIONAL UNION (SEIU)]] · [[WORKING FAMILIES PARTY PAC]] · [[Campaign for Community Change]] · [[MoveOn.org Political Action]] · [[Working Families Party PAC]]"
+donors: "[[National Nurses United]] · [[MOVEON.ORG POLITICAL ACTION]] · [[CAMPAIGN FOR COMMUNITY CHANGE]] · [[SERVICE EMPLOYEES INTERNATIONAL UNION (SEIU)]] · [[WORKING FAMILIES PARTY PAC]] · [[Campaign for Community Change]] · [[MoveOn.org Political Action]] · [[Working Families Party PAC]] · [[J Street]] · [[SEIU COPE]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[National Association of Realtors]] · [[Medicare for All - The Policy That Broke the Party]] · [[League of Conservation Voters]] · [[NEA Fund for Children and Public Education]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[Progressive Turnout Project]] · [[National Wildlife Federation Action Fund]] · [[Sierra Club Independent Action]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[Sierra Club Political Committee]] · [[Planned Parenthood Votes]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Let America Vote PAC]] · [[Anthem - Elevance Health]] · [[Performance Racing Inc.]] · [[ENVIRONMENT AMERICA INC]]"
 opposes: "[[AMERICANS FOR TAX REFORM]]"
 related: "[[_Bruce Westerman Master Profile|Bruce Westerman]]"
 needs-reenrichment: true
@@ -40,7 +40,7 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 last-enriched: "2026-04-11"
 bioguide-id: G000606
 urls-first-triaged: "2026-04-15"
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 ---
 
 

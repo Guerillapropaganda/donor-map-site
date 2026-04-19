@@ -5,14 +5,14 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00508440
 aliases:
   - HUMAN RIGHTS CAMPAIGN EQUALITY VOTES
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
-politicians-funded: "[[Tammy Baldwin]]"
+politicians-funded: "[[Tammy Baldwin]], [[Ritchie Torres]], [[Brittany Pettersen]], [[Donald Trump]], [[Eric Sorensen]], [[Steven Horsford]], [[Randy Fine]], [[Lauren Underwood]], [[Joseph Morelle]], [[Nikema Williams]], [[Patrick Ryan]], [[Julie Johnson]], [[Greg Landsman]], [[John Fetterman]], [[Greg Stanton]], [[Madeleine Dean]], [[Raphael Warnock]], [[Derek Tran]], [[Sherrod Brown]], [[Dina Titus]], [[Chrissy Houlahan]], [[Kamala Harris]], [[Ruben Gallego]], [[Catherine Cortez Masto]], [[Joaquin Castro]], [[George Whitesides]], [[Chellie Pingree]], [[Dave Min]]"
 related: "[[Tammy Baldwin]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -26,8 +26,8 @@ individual-contributions: 12478
 ofac-sdn-match: "true"
 last-enriched: "2026-04-16"
 ofac-programs:
-  - "SDGT"
-  - "ICC-EO14203"
+  - SDGT
+  - ICC-EO14203
 ---
 
 

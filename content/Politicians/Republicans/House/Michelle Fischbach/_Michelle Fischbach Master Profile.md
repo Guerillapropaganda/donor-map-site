@@ -1,33 +1,34 @@
 ---
-title: "Michelle Fischbach"
+title: Michelle Fischbach
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Minnesota"
-state-abbr: "MN"
+party: Republican
+chamber: House
+state: Minnesota
+state-abbr: MN
 district: "7"
-bioguide-id: "F000470"
+bioguide-id: F000470
 govtrack-id: 456828
 born: "1965-11-03"
-wikidata-id: "Q6837025"
-website: "https://fischbach.house.gov"
-phone: "202-225-2165"
+wikidata-id: Q6837025
+website: https://fischbach.house.gov
+phone: 202-225-2165
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H0MN07091"
+fec-candidate-id: H0MN07091
 bills-sponsored: 24
 bills-cosponsored: 183
 bills-enacted: 0
-top-policy-area: "Taxation"
+top-policy-area: Taxation
+top-donors: "[[National Rifle Association]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Chevron]], [[Citigroup]], [[National Multifamily Housing Council]], [[Republican Jewish Coalition]], [[Bank of America]], [[American Hospital Association PAC]], [[Amgen Inc]], [[Jim Jordan]], [[Google - Alphabet]], [[Valero Energy]], [[iHeartMedia]], [[Kansans for Life Political Action Committee]], [[CVS Health - Aetna]], [[American Chemistry Council, INC]], [[Wfw Action Fund, Inc.]], [[Occidental Petroleum]], [[AT&T - WarnerMedia]], [[National Restaurant Association]], [[American Gaming Association]], [[Honeywell]], [[Marathon Petroleum]], [[Care Action]], [[Associated General Contractors of America Political Action Committee]], [[Humana]], [[NextEra Energy]], [[FREEDOM CLUB FEDERAL PAC]], [[VIEW PAC - Value in Electing Women]], [[AIPAC - American Israel Public Affairs Committee]], [[Women Speak Out Pac]], [[Freedom's Defense Fund]], [[National Cattlemen's Beef Association]], [[PG&E - Pacific Gas and Electric]], [[David Rouzer]], [[Jason Smith]], [[ADM - Archer Daniels Midland]], [[Austin Scott]], [[Walmart - Walton Family]], [[Pfizer Inc.]], [[Comcast - NBCUniversal]], [[Raytheon (RTX)]], [[Johnson & Johnson]], [[National Right to Life Victory Fund]], [[Lockheed Martin]], [[National Association of Realtors]], [[Microsoft]], [[WinRed]], [[MAJORITY PAC]], [[Anthem - Elevance Health]], [[Ron Estes]]"
 ---
 
 

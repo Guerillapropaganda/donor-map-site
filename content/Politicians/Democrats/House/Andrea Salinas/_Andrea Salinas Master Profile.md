@@ -1,33 +1,34 @@
 ---
-title: "Andrea Salinas"
+title: Andrea Salinas
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Oregon"
-state-abbr: "OR"
+party: Democrat
+chamber: House
+state: Oregon
+state-abbr: OR
 district: "6"
-bioguide-id: "S001226"
+bioguide-id: S001226
 govtrack-id: 456934
 born: "1969-12-06"
-wikidata-id: "Q39791512"
-website: "https://salinas.house.gov"
-phone: "202-225-5643"
+wikidata-id: Q39791512
+website: https://salinas.house.gov
+phone: 202-225-5643
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H2OR06066"
+fec-candidate-id: H2OR06066
 bills-sponsored: 22
 bills-cosponsored: 643
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
+top-donors: "[[League of Conservation Voters]], [[CVS Health - Aetna]], [[Planned Parenthood Action Fund INC]], [[Laura Friedman]], [[Pfizer Inc.]], [[SEIU COPE]], [[CHC BOLD PAC]], [[IBEW - International Brotherhood of Electrical Workers]], [[J Street]], [[DCCC - Democratic Congressional Campaign Committee]], [[McDonalds Corporation]], [[American College of Radiology Association PAC]], [[American Hospital Association PAC]], [[Teamsters - International Brotherhood of Teamsters]], [[Judy Chu]], [[Google - Alphabet]], [[Walmart - Walton Family]], [[Joe Neguse]], [[Hmp]], [[Care Action]], [[DMFI - Democratic Majority for Israel]], [[AT&T - WarnerMedia]], [[Let America Vote PAC]], [[Congressional Leadership Fund]], [[AbbVie]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[Congressional Progressive Caucus PAC]], [[Giffords PAC]], [[Raytheon (RTX)]], [[Jamie Raskin]], [[NEA Fund for Children and Public Education]], [[Putting People First Political Action Committee]], [[Lockheed Martin]], [[American Federation of State County & Municipal Employees P E O P L E]], [[National Wildlife Federation Action Fund]], [[Anthem - Elevance Health]], [[Northrop Grumman]], [[Mike Thompson]], [[Adriano Espaillat]], [[Jason Crow]], [[Honeywell]], [[National Association of Realtors]], [[Julia Brownley]], [[Sierra Club Political Committee]], [[Humana]], [[Debbie Dingell]], [[Protect Our Future PAC]], [[Sierra Club Independent Action]], [[Mark DeSaulnier]], [[Pete Aguilar]], [[Everytown for Gun Safety]], [[Robert Garcia]], [[National Committee to Preserve Social Security PAC]], [[Bill Foster]], [[Amgen Inc]], [[Sydney Kamlager-Dove]], [[Paul Tonko]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[National Cattlemen's Beef Association]], [[Chrissy Houlahan]], [[Medicare for All - The Policy That Broke the Party]], [[Ted Lieu]], [[Veronica Escobar]], [[Working Families Party PAC]], [[ENVIRONMENT AMERICA INC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[UA Political Action Committee]], [[General Motors]], [[NextEra Energy]], [[PG&E - Pacific Gas and Electric]], [[National Education Association]], [[MoveOn.org Political Action]], [[Diana Degette]], [[AFL-CIO]], [[Progressive Turnout Project]], [[Comcast - NBCUniversal]], [[Nancy Pelosi]], [[DoorDash]], [[Emily's List]], [[Morgan McGarvey]], [[AIPAC - American Israel Public Affairs Committee]]"
 ---
 
 

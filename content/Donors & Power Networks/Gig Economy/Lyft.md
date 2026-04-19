@@ -2,12 +2,12 @@
 title: Lyft
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Gig Economy
 entity-type: Corporation
-politicians-funded: "[[Gavin Newsom]]"
+politicians-funded: "[[Gavin Newsom]], [[Human Rights Campaign Equality Votes]], [[_Alex Padilla Master Profile]], [[MAGA Inc]], [[PLANNED PARENTHOOD ACTION FUND OF THE PACIFIC SOUTHWEST PAC]], [[Trump Victory]], [[CHC BOLD PAC]], [[Really American Pac]], [[RNC - Republican National Committee]], [[_Darren Soto Master Profile]], [[_Gabe Amo Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Mark Kelly]], [[MoveOn.org Political Action]], [[_Rashida Tlaib Master Profile]], [[_Josh Riley Master Profile]], [[_Mike Levin Master Profile]], [[_Josh Harder Master Profile]], [[WinRed]], [[Hakeem Jeffries]], [[_Sara Jacobs Master Profile]], [[Progressive Turnout Project]], [[WinSenate]], [[Lyft]], [[_Lauren Underwood Master Profile]], [[Indivisible Action]], [[DCCC - Democratic Congressional Campaign Committee]], [[ActBlue]], [[NRSC - National Republican Senatorial Committee]], [[_Julie Johnson Master Profile]], [[Demand Justice]], [[_Morgan McGarvey Master Profile]], [[NRCC - National Republican Congressional Committee]], [[Everytown for Gun Safety Victory Fund]], [[_Jon Ossoff Master Profile]], [[Alex Padilla]], [[_Tammy Baldwin Master Profile]], [[JUSTICE DEMOCRATS PAC]], [[Pete Aguilar]], [[_Kamala Harris Master Profile]], [[Bob Casey]], [[The Lincoln Project]], [[_Ted Cruz Master Profile]], [[314 ACTION FUND]], [[_Virginia Foxx Master Profile]], [[_Cory Booker Master Profile]], [[_Kevin Kiley Master Profile]], [[_Nancy Pelosi Master Profile]], [[_Jason Crow Master Profile]], [[_Marco Rubio Master Profile]], [[Patty Murray]], [[Sam Graves]], [[Barbara Lee]], [[_Tim Scott Master Profile]], [[Marco Rubio]], [[Rashida Tlaib]], [[Darren Soto]], [[Lauren Underwood]], [[Josh Riley]], [[Sara Jacobs]], [[Jon Ossoff]], [[Gabe Amo]], [[Josh Harder]], [[Julie Johnson]], [[Virginia Foxx]], [[Nancy Pelosi]], [[Jason Crow]], [[Kamala Harris]], [[Tammy Baldwin]], [[Morgan McGarvey]], [[Tim Scott]], [[Ted Cruz]], [[Kevin Kiley]], [[Mike Levin]], [[Cory Booker]]"
 issues:
   - Technology
 nhtsa-recalls: 0
@@ -68,7 +68,7 @@ sec-form-types:
 cross-vault-triangulation-count: 13
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 3
-epa-states: "CA"
+epa-states: CA
 federal-contracts: 17
 total-raised: 12000
 total-spent: 5000

@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Wall Street
 entity-type: Corporation
-politicians-funded: "[[Gavin Newsom]]"
+politicians-funded: "[[Gavin Newsom]], [[DSCC - Democratic Senatorial Campaign Committee]], [[ActBlue]], [[WinRed]], [[Stars and Stripes Forever PAC]], [[DCCC - Democratic Congressional Campaign Committee]]"
 issues:
   - Wall Street & Finance
   - Education
@@ -33,7 +33,7 @@ sec-form-types:
   - N-Q
   - N-Q/A
 epa-facilities: 5
-epa-states: "CA"
+epa-states: CA
 employee-contributions: 135
 employee-contributions-total: 12833
 employee-donor-count: 25

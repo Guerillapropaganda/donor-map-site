@@ -1,33 +1,34 @@
 ---
-title: "Steve Womack"
+title: Steve Womack
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Arkansas"
-state-abbr: "AR"
+party: Republican
+chamber: House
+state: Arkansas
+state-abbr: AR
 district: "3"
-bioguide-id: "W000809"
+bioguide-id: W000809
 govtrack-id: 412402
 born: "1957-02-18"
-wikidata-id: "Q1029527"
-website: "https://womack.house.gov"
-phone: "202-225-4301"
+wikidata-id: Q1029527
+website: https://womack.house.gov
+phone: 202-225-4301
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H0AR03055"
+fec-candidate-id: H0AR03055
 bills-sponsored: 10
 bills-cosponsored: 149
 bills-enacted: 1
-top-policy-area: "International Affairs"
+top-policy-area: International Affairs
+top-donors: "[[L3Harris Technologies]], [[Pfizer Inc.]], [[National Cattlemen's Beef Association]], [[Comcast - NBCUniversal]], [[National Association of Realtors]], [[Planned Parenthood Votes]], [[Leidos]], [[Lockheed Martin]], [[Nucor Corporation]], [[Morgan Stanley]], [[National Multifamily Housing Council]], [[Honeywell]], [[BAE Systems]], [[Walmart - Walton Family]], [[AIPAC - American Israel Public Affairs Committee]], [[Chevron]], [[McDonalds Corporation]], [[Associated General Contractors of America Political Action Committee]], [[Tyson Foods]], [[Bank of America]], [[Google - Alphabet]], [[Anthem - Elevance Health]], [[AT&T - WarnerMedia]], [[Marathon Petroleum]], [[WinRed]], [[MAJORITY PAC]], [[Microsoft]], [[Northrop Grumman]], [[Raytheon (RTX)]], [[iHeartMedia]], [[American Hospital Association PAC]], [[American Chemistry Council, INC]], [[August Pfluger]], [[Citigroup]], [[NextEra Energy]], [[General Motors]], [[Byron Donalds]], [[General Dynamics]], [[National Rifle Association]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]]"
 ---
 
 

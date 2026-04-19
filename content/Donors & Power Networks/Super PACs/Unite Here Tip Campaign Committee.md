@@ -5,14 +5,14 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00004861
 aliases:
   - UNITE HERE TIP CAMPAIGN COMMITTEE
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
-politicians-funded: "[[Bennie Thompson]]"
+politicians-funded: "[[Bennie Thompson]], [[Dina Titus]], [[Tammy Baldwin]], [[Lori Trahan]], [[Andy Kim]], [[Summer Lee]], [[Rosa DeLauro]], [[Laura Friedman]], [[Lloyd Doggett]], [[Lois Frankel]], [[Ilhan Omar]], [[Donald Norcross]], [[Jamaal Bowman]], [[Debbie Dingell]], [[Debbie Wasserman Schultz]], [[Mark Pocan]], [[Bobby Scott]], [[Ed Markey]], [[Pramila Jayapal]], [[Ritchie Torres]], [[Greg Stanton]], [[Mark DeSaulnier]], [[Raja Krishnamoorthi]], [[Dan Osborn]], [[Jim Himes]], [[Zoe Lofgren]], [[Darren Soto]], [[Amy Klobuchar]], [[Jamie Raskin]], [[John Fetterman]], [[Brian Schatz]], [[Seth Magaziner]], [[Gregory Meeks]], [[Hakeem Jeffries]], [[Brendan Boyle]], [[Alexandria Ocasio-Cortez]], [[Elissa Slotkin]], [[Sherrod Brown]], [[Steven Horsford]], [[Catherine Cortez Masto]], [[Julia Brownley]], [[Ruben Gallego]], [[Richard Blumenthal]], [[Josh Riley]], [[Adriano Espaillat]], [[Maria Cantwell]], [[Derek Tran]], [[Shontel Brown]], [[Cori Bush]], [[Mike Levin]], [[Robert Garcia]], [[Nikema Williams]], [[Rashida Tlaib]], [[Shri Thanedar]], [[Dave Min]], [[Maxwell Frost]], [[Ro Khanna]], [[Grace Meng]], [[Kristen McDonald Rivet]], [[Elizabeth Warren]], [[Ayanna Pressley]], [[Yassamin Ansari]], [[Raphael Warnock]], [[Mark Kelly]], [[Jacky Rosen]], [[Andre Carson]], [[Alex Padilla]], [[Joseph Morelle]], [[Jason Crow]], [[Juan Vargas]], [[Dan Goldman]]"
 related: "[[Bennie Thompson]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

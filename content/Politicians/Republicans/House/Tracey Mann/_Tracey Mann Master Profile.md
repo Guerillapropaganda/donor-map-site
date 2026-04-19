@@ -1,34 +1,34 @@
 ---
-title: "Tracey Mann"
+title: Tracey Mann
 type: politician
 content-readiness: raw
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Kansas"
-state-abbr: "KS"
+party: Republican
+chamber: House
+state: Kansas
+state-abbr: KS
 district: "1"
-bioguide-id: "M000871"
+bioguide-id: M000871
 govtrack-id: 456823
 born: "1976-12-17"
-wikidata-id: "Q48767554"
-website: "https://mann.house.gov"
-phone: "202-225-2715"
+wikidata-id: Q48767554
+website: https://mann.house.gov
+phone: 202-225-2715
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
-donors: "[[Western Growers Association]] · [[National Cattlemen's Beef Association]]"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
+donors: "[[Western Growers Association]] · [[National Cattlemen's Beef Association]] · [[Pfizer Inc.]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Chevron]] · [[Bank of America]] · [[Jason Smith]] · [[National Association of Realtors]] · [[National Multifamily Housing Council]] · [[General Dynamics]] · [[American Hospital Association PAC]] · [[Walmart - Walton Family]] · [[WinRed]] · [[Associated General Contractors of America Political Action Committee]] · [[AT&T - WarnerMedia]] · [[Tyson Foods]] · [[David Rouzer]] · [[ADM - Archer Daniels Midland]] · [[CoreCivic - Private Prisons]] · [[McDonalds Corporation]] · [[Marathon Petroleum]] · [[National Restaurant Association]] · [[National Rifle Association]] · [[General Motors]] · [[Byron Donalds]] · [[Kansans for Life Political Action Committee]] · [[Austin Scott]] · [[Jim Jordan]] · [[Honeywell]] · [[Save America PAC]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]]"
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "H0KS01123"
+fec-candidate-id: H0KS01123
 bills-sponsored: 23
 bills-cosponsored: 417
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
 ---
 
 

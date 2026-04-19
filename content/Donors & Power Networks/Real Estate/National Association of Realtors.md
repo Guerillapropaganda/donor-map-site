@@ -2,7 +2,7 @@
 title: National Association of Realtors
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Real Estate
@@ -63,7 +63,7 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 aliases:
   - NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND
   - NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE
-politicians-funded: "[[Gavin Newsom]]"
+politicians-funded: "[[Gavin Newsom]], [[Russ Fulcher]], [[Ashley Moody]], [[Greg Landsman]], [[Josh Hawley]], [[Cory Mills]], [[Sharice Davids]], [[Betty McCollum]], [[Jefferson Shreve]], [[Mark Warner]], [[Steve Cohen]], [[Gwen Moore]], [[Celeste Maloy]], [[Mario Diaz-Balart]], [[Jimmy Gomez]], [[Ralph Norman]], [[Nydia Velazquez]], [[Sean Casten]], [[Lloyd Doggett]], [[Young Kim]], [[Joseph Morelle]], [[Kevin Cramer]], [[Ryan Zinke]], [[Chris Coons]], [[Greg Stanton]], [[Rosa DeLauro]], [[Tracey Mann]], [[Diana Degette]], [[Julia Brownley]], [[Julie Johnson]], [[Warren Davidson]], [[Kevin Mullin]], [[ActBlue]], [[Jack Reed]], [[Elise Stefanik]], [[Steve Womack]], [[Debbie Wasserman Schultz]], [[Dwight Evans]], [[_Mike Thompson Master Profile]], [[Patrick Ryan]], [[Jon Ossoff]], [[Michael Baumgartner]], [[Suzanne Bonamici]], [[Jim Costa]], [[John Thune]], [[_Pete Stauber Master Profile]], [[Mike Haridopolos]], [[Jeanne Shaheen]], [[Rashida Tlaib]], [[Brittany Pettersen]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Mark Alford]], [[Burgess Owens]], [[Richard McCormick]], [[Dan Crenshaw]], [[Jason Crow]], [[Vicente Gonzalez]], [[Marcy Kaptur]], [[James Comer]], [[Mariannette Miller-Meeks]], [[Dan Newhouse]], [[Nicole Malliotakis]], [[Sydney Kamlager-Dove]], [[Dan Goldman]], [[Hakeem Jeffries]], [[Joe Wilson]], [[Peter Welch]], [[Brendan Boyle]], [[Randy Fine]], [[Julie Fedorchak]], [[Rick Scott]], [[Cathy McMorris Rodgers]], [[David Kustoff]], [[Adam Gray]], [[Emanuel Cleaver]], [[Brian Babin]], [[Raul Grijalva]], [[Katie Britt]], [[Victoria Spartz]], [[Ilhan Omar]], [[Sara Jacobs]], [[August Pfluger]], [[Tammy Duckworth]], [[Debbie Dingell]], [[Lori Trahan]], [[Lauren Underwood]], [[Ronny Jackson]], [[National Association of Realtors]], [[Seth Magaziner]], [[Wesley Bell]], [[Marsha Blackburn]], [[Troy Downing]], [[Pete Stauber]], [[Mike Carey]], [[NRCC - National Republican Congressional Committee]], [[Pete Sessions]], [[Eric Sorensen]], [[David Rouzer]], [[Rick Crawford]], [[_David Scott Master Profile]], [[Brett Guthrie]], [[Darren Soto]], [[Zoe Lofgren]], [[Jerrold Nadler]], [[Marilyn Strickland]], [[Todd Young]], [[Vince Fong]], [[Frank Pallone]], [[Guy Reschenthaler]], [[Kristen McDonald Rivet]], [[Eric Swalwell]], [[Raja Krishnamoorthi]], [[Joyce Beatty]], [[David Scott]], [[Sheila Cherfilus-McCormick]], [[Ron Johnson]], [[Kat Cammack]], [[Josh Brecheen]], [[Ken Calvert]], [[Morgan McGarvey]], [[Lamonica McIver]], [[Jamie Raskin]], [[Sherrod Brown]], [[AIPAC - American Israel Public Affairs Committee]], [[Michael Guest]], [[Pete Aguilar]], [[Andre Carson]], [[Jimmy Patronis]], [[Chip Roy]], [[Teresa Leger Fernandez]], [[Virginia Foxx]], [[Nikki Budzinski]], [[Tom Cole]], [[Ann Wagner]], [[Tim Burchett]], [[Pete Ricketts]], [[Barbara Lee]], [[Brian Mast]], [[Michael Lawler]], [[Josh Harder]], [[Rudy Yakym]], [[Cleo Fields]], [[FreedomWorks for America]], [[Lloyd Smucker]], [[Monica de la Cruz]], [[Markwayne Mullin]], [[Marie Gluesenkamp Perez]], [[Eric Schmitt]], [[Tina Smith]], [[Mike Levin]], [[John Garamendi]], [[Thom Tillis]], [[Josh Gottheimer]], [[Richard Neal]], [[Raphael Warnock]], [[Deb Fischer]], [[Brad Knott]], [[Scott Perry]], [[Glenn Thompson]], [[Yassamin Ansari]], [[Shelley Moore Capito]], [[_Pete Aguilar Master Profile]], [[Michael Cloud]], [[Brandon Gill]], [[Sarah Elfreth]], [[Bruce Westerman]], [[Judy Chu]], [[Kay Granger]], [[Robert Garcia]], [[Byron Donalds]], [[James Lankford]], [[Mike Kennedy]], [[Joni Ernst]], [[Emily Randall]], [[Barry Loudermilk]], [[Maxwell Frost]], [[Erin Houchin]], [[Bennie Thompson]], [[Alex Padilla]], [[Scott Fitzgerald]], [[Darin Lahood]], [[Jimmy Panetta]], [[Jodey Arrington]], [[Veronica Escobar]], [[Morgan Luttrell]], [[Kevin McCarthy]], [[Claudia Tenney]], [[Cliff Bentz]], [[Bill Hagerty]], [[Kathy Castor]], [[Summer Lee]], [[Lisa Murkowski]], [[NRSC - National Republican Senatorial Committee]], [[Tammy Baldwin]], [[Darrell Issa]], [[Patrick McHenry]], [[Kweisi Mfume]], [[Andrea Salinas]], [[Jim Himes]], [[Steven Horsford]], [[_Jon Ossoff Master Profile]], [[Dusty Johnson]], [[Tony Wied]], [[Gary Peters]], [[Andy Biggs]], [[Brad Sherman]], [[Scott Franklin]], [[Jahana Hayes]], [[Juan Vargas]], [[John Joyce]], [[Grace Meng]], [[Glenn Ivey]], [[Adriano Espaillat]], [[Donald Norcross]], [[Mike Flood]], [[Paul Tonko]], [[Glenn Grothman]], [[Jeff Merkley]], [[Sheri Biggs]], [[Michael Waltz]], [[Clay Higgins]], [[Henry Cuellar]], [[Lance Gooden]], [[Roger Williams]], [[French Hill]], [[Jake Auchincloss]], [[Lois Frankel]], [[Adam Schiff]], [[Nathaniel Moran]], [[Sam Graves]], [[Harold Rogers]], [[Aaron Bean]], [[_Don Bacon Master Profile]], [[Joaquin Castro]], [[DCCC - Democratic Congressional Campaign Committee]], [[Maxine Waters]], [[Gregory Meeks]], [[WinRed]], [[Jared Huffman]], [[Richard Hudson]], [[Chuck Edwards]], [[Steve Daines]], [[Adrian Smith]], [[Mark Green]], [[Nikema Williams]], [[Jared Moskowitz]], [[Ritchie Torres]], [[Shri Thanedar]], [[Susie Lee]], [[Eric Burlison]], [[Mark DeSaulnier]], [[Laura Friedman]], [[Frank Lucas]], [[Lateefah Simon]], [[Bobby Scott]], [[_Andy Barr Master Profile]], [[Democratic Party of Virginia]], [[Maggie Goodlander]], [[Dave Min]], [[Tim Sheehy]], [[Derrick van Orden]], [[Jay Obernolte]], [[Scott Desjarlais]], [[RNC - Republican National Committee]], [[David Schweikert]], [[Maria Elvira Salazar]], [[Troy Balderson]], [[George Latimer]], [[_Brian Jack Master Profile]], [[Brian Jack]], [[Raul Ruiz]], [[Ed Markey]], [[Tim Walberg]], [[Sarah McBride]], [[Russell Fry]], [[Diana Harshbarger]], [[John Cornyn]], [[Daniel Meuser]], [[Jason Smith]], [[Adam Smith]], [[Carlos Gimenez]], [[Madeleine Dean]], [[Bryan Steil]], [[Daniel Webster]], [[_Mark Pocan Master Profile]], [[Suhas Subramanyam]], [[Jamaal Bowman]], [[Maxine Dexter]], [[Jerry Moran]], [[Chrissy Houlahan]], [[Chris van Hollen]], [[Derek Schmidt]], [[Mike Quigley]], [[Rick Larsen]], [[Jacky Rosen]], [[Lisa Blunt Rochester]], [[_Darren Soto Master Profile]], [[Lindsey Graham]], [[_Jared Moskowitz Master Profile]], [[Kim Schrier]], [[_Lisa Blunt Rochester Master Profile]], [[Bob Casey]], [[_Mark Alford Master Profile]], [[Michelle Fischbach]], [[Ted Cruz]], [[Martin Heinrich]], [[Ted Lieu]], [[Chellie Pingree]], [[John Boozman]], [[Amy Klobuchar]], [[_Marco Rubio Master Profile]], [[_Tim Scott Master Profile]], [[Mark Pocan]], [[Kyrsten Sinema]], [[Mike Lee]], [[Josh Riley]], [[John Hoeven]], [[Shontel Brown]], [[Thomas Massie]], [[Ron Estes]], [[Mike Thompson]], [[Nancy Mace]], [[Andy Kim]], [[Laura Gillen]], [[Tim Scott]], [[Nancy Pelosi]], [[Anna Paulina Luna]], [[Dina Titus]], [[Joe Manchin]], [[Sheldon Whitehouse]], [[Brad Finstad]], [[_Jimmy Gomez Master Profile]], [[Mark Takano]], [[Steve Scalise]], [[John James]], [[Bernie Moreno]], [[Tim Moore]], [[Derek Tran]], [[Jon Husted]], [[Roger Wicker]], [[Roger Marshall]], [[Dan Sullivan]], [[Pramila Jayapal]], [[Progressive Turnout Project]], [[Ryan Mackenzie]], [[_Young Kim Master Profile]], [[Mike Rounds]], [[_Jamie Raskin Master Profile]], [[Cindy Hyde-Smith]], [[Brian Schatz]], [[_Vicente Gonzalez Master Profile]], [[John Kennedy]], [[Richard Blumenthal]], [[_Pete Sessions Master Profile]], [[Shomari Figures]], [[John Hickenlooper]], [[Pat Harrigan]], [[Ron Wyden]], [[Catherine Cortez Masto]], [[Susan Collins]], [[Kelly Morrison]], [[Mark Kelly]], [[John Barrasso]], [[George Whitesides]], [[Patty Murray]], [[Andy Barr]], [[Don Bacon]], [[Marco Rubio]]"
 total-raised: 15568540
 total-spent: 13323135
 cash-on-hand: 21410243
@@ -592,3 +592,50 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/361520690/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/361520690/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/361520690/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 5 (2018–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $70K |
+| Total expenses | — |
+| Total assets (EOY) | $1.06B |
+| Grants paid out | $16.4M |
+
+**Lifetime grants out (2018–2023):** $54.7M across 426 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| AMERICAN PROPERTY OWNERS ALLIANCE | $13.2M | 2 | 2022–2023 |
+| HOMEOWNERSHIP FOR FAMILIES | $4.8M | 1 | 2020 |
+| FLORIDA RPAC | $1.7M | 1 | 2020 |
+| TEXAS REALTORS PAC | $1.5M | 1 | 2020 |
+| REALTORS ISSUES MOBILIZATION COMMITTEE | $1.4M | 1 | 2022 |
+| CA REAL ESTATE IE COMMISSION | $1.0M | 1 | 2020 |
+| ILLINOIS AOR | $962K | 2 | 2022–2023 |
+| TEXAS AOR | $860K | 2 | 2022–2023 |
+| COLORADO AOR | $844K | 3 | 2020–2023 |
+| WASHINGTON AOR | $787K | 2 | 2022–2023 |
+| SOUTH CAROLINA REALTORS PAC | $755K | 1 | 2020 |
+| NEW YORK STATE AOR | $663K | 2 | 2020–2022 |
+| SOUTH CAROLINA AOR | $604K | 3 | 2020–2023 |
+| NEW YORK AOR FUND | $594K | 1 | 2020 |
+| UTAH AOR | $579K | 3 | 2020–2023 |
+| OHIO AOR POLITICAL ACTION FUND | $507K | 1 | 2020 |
+| ANGELENOS AGAINST HIGHER PROPERTY TAXES | $500K | 1 | 2022 |
+| MARYLAND AOR | $481K | 3 | 2020–2023 |
+| WISCONSIN HOMEOWNERS ALLIANCE | $462K | 2 | 2022–2023 |
+| NORTH CAROLINA AOR | $456K | 3 | 2020–2023 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

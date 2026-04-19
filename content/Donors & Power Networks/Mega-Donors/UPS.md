@@ -1,15 +1,15 @@
 ---
-title: "UPS"
+title: UPS
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Corporation"
+sector: Mega-Donors
+entity-type: Corporation
 issues:
-  - "Labor & Workers"
-  - "Trade"
+  - Labor & Workers
+  - Trade
 federal-awards-total: 4624540
 federal-contracts-count: 25
 federal-grants-count: 25
@@ -17,67 +17,66 @@ related: "[[Brian Kemp]] · [[The Caucus Chair and Inland Empire Logistics Econo
 cpsc-recalls: 31
 last-enriched: "2026-04-09"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 sec-filings: 10000
 sec-form-types:
-  - "10-K"
-  - "11-K"
+  - 10-K
+  - 11-K
   - "144"
   - "3"
   - "4"
-  - "424B2"
-  - "424B3"
+  - 424B2
+  - 424B3
   - "425"
   - "497"
-  - "8-K"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "EX-10"
-  - "EX-10.1"
-  - "EX-10.10"
-  - "EX-10.10.(3)"
-  - "EX-10.11"
-  - "EX-10.11.(1)"
-  - "EX-10.12(1)"
-  - "EX-10.15"
-  - "EX-10.16"
-  - "EX-10.17"
-  - "EX-10.19.3"
-  - "EX-10.2"
-  - "EX-10.20"
-  - "EX-10.3"
-  - "EX-10.4"
-  - "EX-10.41"
-  - "EX-10.44"
-  - "EX-10.46"
-  - "EX-10.5"
-  - "EX-10.61"
-  - "EX-10.8"
-  - "EX-10.8(5)"
-  - "EX-10.8(A)"
-  - "EX-10.9(16)"
-  - "EX-19"
-  - "EX-2.1"
-  - "EX-99"
-  - "EX-99.1"
-  - "EX-99.37"
-  - "PX14A6G"
-  - "S-3D"
-  - "SC 13D"
-  - "SCHEDULE 13G"
-  - "SCHEDULE 13G/A"
+  - 8-K
+  - DEF 14A
+  - DEFA14A
+  - EX-10
+  - EX-10.1
+  - EX-10.10
+  - EX-10.10.(3)
+  - EX-10.11
+  - EX-10.11.(1)
+  - EX-10.12(1)
+  - EX-10.15
+  - EX-10.16
+  - EX-10.17
+  - EX-10.19.3
+  - EX-10.2
+  - EX-10.20
+  - EX-10.3
+  - EX-10.4
+  - EX-10.41
+  - EX-10.44
+  - EX-10.46
+  - EX-10.5
+  - EX-10.61
+  - EX-10.8
+  - EX-10.8(5)
+  - EX-10.8(A)
+  - EX-10.9(16)
+  - EX-19
+  - EX-2.1
+  - EX-99
+  - EX-99.1
+  - EX-99.37
+  - PX14A6G
+  - S-3D
+  - SC 13D
+  - SCHEDULE 13G
+  - SCHEDULE 13G/A
 cross-vault-triangulation-count: 5
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
 epa-facilities: 103
-epa-states: "AL, AZ, CA, CT, FL, GA, IA, IL, LA, MD, ME, MI, MN, MO, ND, NJ, OR, PR, TX, WA, WV"
+epa-states: AL, AZ, CA, CT, FL, GA, IA, IL, LA, MD, ME, MI, MN, MO, ND, NJ, OR, PR, TX, WA, WV
 employee-contributions: 29330
 employee-contributions-total: 2048421
 employee-donor-count: 3748
+politicians-funded: "[[DSCC - Democratic Senatorial Campaign Committee]], [[_Mark Green Master Profile]], [[Medicare for All - The Policy That Broke the Party]], [[_Darren Soto Master Profile]], [[_Morgan McGarvey Master Profile]], [[_Kamala Harris Master Profile]], [[Barbara Lee]], [[Bob Casey]], [[Giffords PAC]], [[Senate Conservatives Fund]], [[_Ted Cruz Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[DCCC - Democratic Congressional Campaign Committee]], [[The Lincoln Project]], [[_Tammy Baldwin Master Profile]], [[_Tim Scott Master Profile]], [[_Pete Stauber Master Profile]], [[_Chrissy Houlahan Master Profile]], [[Votevets]], [[SLF PAC]], [[MAGA Inc]], [[Ab Pac]], [[CHC BOLD PAC]], [[_Jon Ossoff Master Profile]], [[_Don Bacon Master Profile]], [[_Tom Barrett Master Profile]], [[_Jimmy Panetta Master Profile]], [[_Ted Budd Master Profile]], [[NRCC - National Republican Congressional Committee]], [[_Pete Aguilar Master Profile]], [[Mark Kelly]], [[_Jake Ellzey Master Profile]], [[_Thomas Massie Master Profile]], [[Let America Vote PAC]], [[_Gabe Amo Master Profile]], [[Progressive Turnout Project]], [[MoveOn.org Political Action]], [[_Nancy Pelosi Master Profile]], [[ActBlue]], [[_Lauren Boebert Master Profile]], [[National Rifle Association]], [[Catherine Cortez Masto]], [[AIPAC - American Israel Public Affairs Committee]], [[PRIORITIES USA ACTION]], [[RNC - Republican National Committee]], [[_Robert Garcia Master Profile]], [[WinSenate]], [[_Julia Brownley Master Profile]], [[_Donald Norcross Master Profile]], [[Campaign for Working Families]], [[_Alex Padilla Master Profile]], [[Trump Victory]], [[_Rashida Tlaib Master Profile]], [[_Debbie Wasserman Schultz Master Profile]], [[JUSTICE DEMOCRATS PAC]], [[Emily's List]], [[_Joe Neguse Master Profile]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[_Cori Bush Master Profile]], [[_Gabe Vasquez Master Profile]], [[VIEW PAC - Value in Electing Women]], [[_Anna Paulina Luna Master Profile]], [[_Claudia Tenney Master Profile]], [[MAJORITY PAC]], [[_Young Kim Master Profile]], [[_Jim Jordan Master Profile]], [[_Lisa Blunt Rochester Master Profile]], [[_Ron Johnson Master Profile]], [[REPUBLICAN CAMPAIGN COMMITTEE OF NEW MEXICO]], [[_Jimmy Gomez Master Profile]], [[_Mike Levin Master Profile]], [[_Bonnie Watson Coleman Master Profile]], [[_Cory Booker Master Profile]], [[Save America PAC]], [[Human Rights Campaign Equality Votes]], [[ENVIRONMENT AMERICA INC]], [[Chris Christie]], [[_Andy Barr Master Profile]], [[READY TO WIN]], [[_Joe Wilson Master Profile]], [[WinRed]], [[Nancy Mace]], [[_Mark Pocan Master Profile]], [[FreedomWorks for America]], [[_Shontel Brown Master Profile]], [[_Josh Hawley Master Profile]], [[_Marco Rubio Master Profile]], [[Congressional Leadership Fund]], [[_Sydney Kamlager-Dove Master Profile]], [[America First Action]], [[_Chris Pappas Master Profile]], [[_Bill Foster Master Profile]], [[Bernie Moreno]], [[_Ann Wagner Master Profile]], [[FAMILY RESEARCH COUNCIL ACTION POLITICAL ACTION COMMITTEE]], [[DNC - Democratic National Committee]], [[REPUBLICAN PARTY OF FLORIDA]], [[Democratic Party of Virginia]], [[Indivisible Action]], [[_Lauren Underwood Master Profile]], [[_Vicente Gonzalez Master Profile]], [[_Jason Crow Master Profile]], [[Hmp]], [[_John James Master Profile]], [[_Beth van Duyne Master Profile]], [[Tammy Baldwin]], [[Jimmy Panetta]], [[Josh Hawley]], [[Don Bacon]], [[Robert Garcia]], [[John James]], [[Lauren Boebert]], [[Joe Neguse]], [[Nancy Pelosi]], [[Tim Scott]], [[Julia Brownley]], [[Jon Ossoff]], [[Debbie Wasserman Schultz]], [[Marco Rubio]], [[Darren Soto]], [[Young Kim]], [[Sydney Kamlager-Dove]], [[Ann Wagner]], [[Pete Aguilar]], [[Cori Bush]], [[Pete Stauber]], [[Jim Jordan]], [[Ron Johnson]], [[Gabe Vasquez]], [[Mark Green]], [[Lauren Underwood]], [[Bill Foster]], [[Rashida Tlaib]], [[Ted Cruz]], [[Beth van Duyne]], [[Chris Pappas]], [[Cory Booker]], [[Joe Wilson]], [[Anna Paulina Luna]], [[Tom Barrett]], [[Andy Barr]], [[Morgan McGarvey]], [[Mark Pocan]], [[Thomas Massie]], [[Jason Crow]], [[Alex Padilla]], [[Chrissy Houlahan]], [[Bonnie Watson Coleman]], [[Vicente Gonzalez]], [[Shontel Brown]], [[Jake Ellzey]], [[Mike Levin]], [[Gabe Amo]], [[Claudia Tenney]], [[Jimmy Gomez]], [[Ted Budd]], [[Lisa Blunt Rochester]], [[Kamala Harris]], [[Donald Norcross]]"
 ---
 
 

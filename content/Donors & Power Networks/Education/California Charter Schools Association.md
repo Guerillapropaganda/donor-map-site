@@ -2,12 +2,12 @@
 title: California Charter Schools Association
 type: donor
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Education
 entity-type: Individual Donor
-politicians-funded: "[[Gavin Newsom]]"
+politicians-funded: "[[Gavin Newsom]], [[_Kamala Harris Master Profile]], [[ActBlue]], [[MoveOn.org Political Action]], [[Kamala Harris]]"
 issues:
   - Education
 ein: 510465703
@@ -205,3 +205,50 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 - ~~[CalMatters: What 'Governor Dad' did this year for CA kids - charter school legislation](https://calmatters.org/category/education/k-12-education/2019/10/charter-schools-california-legislation-newsom-start-time-teacher-maternity-leave-bonds/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
 - ~~[LA Times: AB 1507 veto and CCSA position](https://www.latimes.com/california/story/2019-10-13/newsom-vetoes-charter-school-geographic-restriction-bill)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 6 (2018–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $10.2M |
+| Total expenses | — |
+| Total assets (EOY) | $34.1M |
+| Grants paid out | $1.3M |
+
+**Lifetime grants out (2018–2023):** $13.0M across 65 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| CCSA ADVOCATES | $2.5M | 4 | 2018–2021 |
+| KIPP BAY AREA SCHOOLS | $1.8M | 4 | 2018–2021 |
+| CALIFORNIA CHARTER SCHOOLS ASSOCIATION ADVOCATES | $830K | 2 | 2022–2023 |
+| SUMMIT PUBLIC SCHOOLS | $745K | 4 | 2018–2022 |
+| REX AND MARGARET FORTUNE SCHOOL OF EDUCATION | $709K | 4 | 2019–2023 |
+| ROCKETSHIP EDUCATION | $693K | 2 | 2018–2019 |
+| CALIFORNIANS FOR SAFE SCHOOLS AND HEALTHY LEARNING GOVERNOR NEWSOM'S BALLO | $500K | 1 | 2020 |
+| WESTLAKE CHARTER SCHOOL | $327K | 5 | 2019–2023 |
+| ASPIRE PUBLIC SCHOOLS FOUNDATION | $324K | 2 | 2022–2023 |
+| DOWNTOWN COLLEGE PREP | $274K | 3 | 2018–2020 |
+| GROWTH PUBLIC SCHOOLS | $270K | 6 | 2018–2023 |
+| NATIONAL ALLIANCE FOR PUBLIC CHARTER SCHOOLS | $256K | 5 | 2018–2023 |
+| RIVER CHARTER SCHOOLS | $225K | 3 | 2018–2020 |
+| ROCKETSHIP PUBLIC SCHOOLS | $218K | 3 | 2020–2022 |
+| WATSONVILLE PREP SCHOOL | $211K | 2 | 2020–2021 |
+| ALPHA PUBLIC SCHOOLS | $204K | 2 | 2020–2021 |
+| NAPA FOUNDATION FOR OPTIONS IN EDUCATION | $159K | 2 | 2022–2023 |
+| LAUREL LEADERSHIP INSTITUTE | $150K | 1 | 2020 |
+| ROCKLIN ACADEMY | $142K | 3 | 2018–2023 |
+| VOICES COLLGE-BOUND LANGUAGE ACADEMY | $140K | 1 | 2021 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->
