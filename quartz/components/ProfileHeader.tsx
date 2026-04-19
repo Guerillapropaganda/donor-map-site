@@ -290,7 +290,9 @@ function wrapProfileSections() {
     }
 
     // Detect auto-block boundaries by anchor text
-    if (ptxt.indexOf('Roll-call vote') !== -1 || ptxt.indexOf('Party-line loyalty') !== -1) {
+    if (ptxt.indexOf('Roll-call vote') !== -1 || ptxt.indexOf('Party-line loyalty') !== -1 ||
+        ptxt.indexOf('Bills Sponsored') !== -1 || ptxt.indexOf('Bills Cosponsored') !== -1 ||
+        ptxt.indexOf('Total Votes Cast') !== -1 || ptxt.indexOf('Recent bills sponsored') !== -1) {
       autoBlockState = 'voting';
     } else if (ptxt.indexOf('Lifetime federal FEC') !== -1 ||
                (ptxt.indexOf('Party:') !== -1 && ptxt.indexOf('Chamber:') !== -1)) {
