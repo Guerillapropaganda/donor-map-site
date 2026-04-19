@@ -29,8 +29,21 @@ let _engineModule: any = null
 
 function loadEngineModule() {
   if (_engineModule) return _engineModule
-  const require = createRequire(import.meta.url)
-  const fs = require("fs")
+
+  // Use process.cwd() as the createRequire base rather than import.meta.url.
+  // In Next.js dev mode the latter resolves to a webpack chunk URL that
+  // createRequire can't use to resolve node_modules or downstream relative
+  // requires inside the CJS file — even when we pass an absolute path, the
+  // transitive require('./relationships-store.cjs') fails.
+  // process.cwd() is always a real filesystem directory.
+  const cwd = process.cwd()
+  const anchorPath = path.join(cwd, "package.json")
+  // createRequire needs a file path or file:// URL — using a pseudo "package.json"
+  // anchor in cwd is always valid. If package.json doesn't exist at cwd, fall
+  // back to the dir itself (createRequire accepts a directory on most Node versions).
+  const fs = require("fs") as typeof import("fs")
+  const anchor = fs.existsSync(anchorPath) ? anchorPath : path.join(cwd, "index.js")
+  const req = createRequire(anchor)
 
   function findRepoRoot(startDir: string): string {
     let dir = startDir
@@ -44,10 +57,16 @@ function loadEngineModule() {
     return startDir
   }
 
-  const root = findRepoRoot(process.cwd())
+  const root = findRepoRoot(cwd)
   const enginePath = path.join(root, "scripts", "lib", "query-engine.cjs")
+  if (!fs.existsSync(enginePath)) {
+    throw new Error(
+      `query-engine.cjs not found. Tried: ${enginePath}. cwd=${cwd}. ` +
+        `Ensure the Ops dev server was started from the repo root or ops/ directory.`,
+    )
+  }
   // eslint-disable-next-line @typescript-eslint/no-var-requires
-  _engineModule = require(enginePath)
+  _engineModule = req(enginePath)
   return _engineModule
 }
 
