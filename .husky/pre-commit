@@ -129,6 +129,23 @@ if [ $? -ne 0 ]; then
   exit 1
 fi
 
+# 7b. Canonical totals reconciliation — regression catch for silent-
+# truncation bugs. Runs the /ask-style pooling logic on a handful of
+# hand-curated subjects (Trump, Harris, Leo, McConnell) and asserts
+# totals land inside their expected bounds. Two silent-truncation bugs
+# slipped past review earlier today — this gate catches the next one.
+echo "  -> canonical-totals-reconciliation"
+node scripts/reconcile-canonical-totals.cjs --strict >/dev/null 2>&1
+if [ $? -ne 0 ]; then
+  echo ""
+  echo "[x] canonical-totals reconciliation failed"
+  echo "    Run 'node scripts/reconcile-canonical-totals.cjs --verbose' to see which"
+  echo "    subject's pooled total drifted out of bounds. Usually means a query"
+  echo "    limit was silently truncating or a vehicle was dropped from the"
+  echo "    MANUAL_VEHICLE_MAP between route.ts and reconcile-canonical-totals.cjs."
+  exit 1
+fi
+
 # 9. Auth architecture smoke tests (ADR-0009 contracts — 21 tests, ~70ms)
 echo "  -> auth-smoke-tests"
 node --test scripts/auth-smoke-tests.cjs >/dev/null 2>&1

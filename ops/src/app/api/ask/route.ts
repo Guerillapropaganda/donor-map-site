@@ -1018,8 +1018,12 @@ async function handleSummary(c: ClassifiedQuestion, question: string, engine: an
   if (orgsToProbe.length > 0) {
     for (const orgName of orgsToProbe) {
       if (!orgName) continue
-      const orgIn = await engine.query({ subject: "edges", filters: { to: orgName, type: "monetary" }, limit: 50 })
-      const orgOut = await engine.query({ subject: "edges", filters: { from: orgName, type: "monetary" }, limit: 50 })
+      // Bumped from 50 — the summary aggregates top-3 per-org but we
+      // want totals. For big vehicles (MAGA Inc 967 inflows, Trump
+      // Victory 1,197) 50 silently truncates. The aggregation then
+      // reads the wrong dollar total from the truncated set.
+      const orgIn = await engine.query({ subject: "edges", filters: { to: orgName, type: "monetary" }, limit: 1500 })
+      const orgOut = await engine.query({ subject: "edges", filters: { from: orgName, type: "monetary" }, limit: 1500 })
       ;[...(orgIn.rows || [])]
         .filter((e: any) => e.amount)
         .sort((a: any, b: any) => (b.amount || 0) - (a.amount || 0))

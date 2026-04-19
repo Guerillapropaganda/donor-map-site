@@ -126,7 +126,7 @@ function stripQuestionWords(s) {
     const year = m[2];
     const filters = { from: name, type: 'monetary', source: 'irs-990-bulk' };
     if (year) filters.cycle = year;
-    const r = await engine.query({ subject: 'edges', filters, limit: 100 });
+    const r = await engine.query({ subject: 'edges', filters, limit: 1500 });
     r.rows.sort((a, b) => b.amount - a.amount);
     console.log(`Top ${name} grants${year ? ' in ' + year : ''} (${r.total} total):`);
     r.rows.slice(0, 15).forEach((e) => console.log(`  ${e.cycle}  ${fmtUsd(e.amount).padStart(10)}  ${e.to}`));
@@ -137,7 +137,7 @@ function stripQuestionWords(s) {
   m = lower.match(/top donors? (?:to|for)\s+(.+?)$/) || lower.match(/(?:who funds|funders of|who funded)\s+(.+?)$/);
   if (m) {
     const name = resolveTitle(m[1]);
-    const r = await engine.query({ subject: 'edges', filters: { to: name, type: 'monetary' }, limit: 500 });
+    const r = await engine.query({ subject: 'edges', filters: { to: name, type: 'monetary' }, limit: 2000 });
     // Split support vs opposition: IE-oppose edges document super-PAC
     // attack spending, not donations TO the target.
     const supporters = r.rows.filter((e) => e.role !== 'ie-oppose').sort((a, b) => (b.amount || 0) - (a.amount || 0));
@@ -169,7 +169,7 @@ function stripQuestionWords(s) {
       lower.match(/(?:top recipients (?:of|from))\s+(.+?)$/);
   if (m) {
     const name = resolveTitle(m[1]);
-    const r = await engine.query({ subject: 'edges', filters: { from: name, type: 'monetary' }, limit: 500 });
+    const r = await engine.query({ subject: 'edges', filters: { from: name, type: 'monetary' }, limit: 2000 });
     const supportEdges = r.rows.filter((e) => e.role !== 'ie-oppose').sort((a, b) => (b.amount || 0) - (a.amount || 0));
     const opposeEdges = r.rows.filter((e) => e.role === 'ie-oppose').sort((a, b) => (b.amount || 0) - (a.amount || 0));
     const supportTotal = supportEdges.reduce((a, e) => a + (e.amount || 0), 0);
