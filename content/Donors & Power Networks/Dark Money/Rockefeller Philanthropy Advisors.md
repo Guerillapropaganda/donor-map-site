@@ -9,7 +9,7 @@ ein: "133615533"
 nonprofit-status: 501(c)(3)
 source-tier: 1
 internal-notes: Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Fiscal-sponsor / philanthropic-services intermediary. Channels institutional philanthropy and dark-money-adjacent giving through project fiscal sponsorship. Narrative pending Research Claude editorial pass.
-politicians-funded: "[[New Venture Fund]], [[Brennan Center for Justice]], [[National Philanthropic Trust]], [[Hopewell Fund]]"
+politicians-funded: "[[New Venture Fund]], [[Brennan Center for Justice]], [[National Philanthropic Trust]], [[Hopewell Fund]], [[Center for American Progress]], [[ACLU Foundation]], [[NEO Philanthropy]], [[Proteus Fund]], [[Natural Resources Defense Council]], [[Planned Parenthood Federation of America]], [[Fidelity Investments]], [[Sierra Club Foundation]]"
 ---
 
 # Rockefeller Philanthropy Advisors
@@ -32,46 +32,46 @@ politicians-funded: "[[New Venture Fund]], [[Brennan Center for Justice]], [[Nat
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-**Filings available:** 1 (2020–2020)
+**Filings available:** 3 (2020–2022)
 
-**Most recent filing (2020):**
+**Most recent filing (2022):**
 
 | Metric | Amount |
 |---|---:|
 | Total revenue | — |
-| Contribution revenue | $412.8M |
+| Contribution revenue | $666.7M |
 | Total expenses | — |
-| Total assets (EOY) | $574.0M |
-| Grants paid out | $190.9M |
+| Total assets (EOY) | $882.5M |
+| Grants paid out | $213.5M |
 
-**Lifetime grants out (2020–2020):** $190.9M across 1,011 recipients.
+**Lifetime grants out (2020–2022):** $598.3M across 2,608 recipients.
 
 **Top 20 recipients:**
 
 | Recipient | Total | Grants | Years |
 |---|---:|---:|---|
+| WILDLIFE CONSERVATION SOCIETY | $10.2M | 3 | 2020–2022 |
+| GLOBAL ALLIANCE FOR INCINERATOR ALTERNATIVES | $9.8M | 3 | 2020–2022 |
+| GROUNDSWELL FUND | $9.0M | 3 | 2020–2022 |
+| NEW VENTURE FUND | $8.4M | 3 | 2020–2022 |
 | THE APOLLO THEATER FOUNDATION | $6.6M | 1 | 2020 |
 | STUDIO MUSEUM IN HARLEM | $6.6M | 1 | 2020 |
 | ALVIN AILEY DANCE FOUNDATION INC | $6.6M | 1 | 2020 |
 | JAZZ AT LINCOLN CENTER | $6.6M | 1 | 2020 |
+| NATIONAL NETWORK OF ABORTION FUNDS | $6.0M | 3 | 2020–2022 |
+| WORLD WILDLIFE FUND INC | $5.5M | 3 | 2020–2022 |
+| HOPEWELL FUND | $5.4M | 2 | 2021–2022 |
+| STANDEARTH | $5.3M | 3 | 2020–2022 |
+| TIDES CENTER | $5.3M | 3 | 2020–2022 |
+| NATIONAL DOMESTIC WORKERS ALLIANCE INC | $4.8M | 2 | 2021–2022 |
 | CHARLES H WRIGHT MUSEUM | $4.6M | 1 | 2020 |
-| WILDLIFE CONSERVATION SOCIETY | $4.1M | 1 | 2020 |
-| GROUNDSWELL FUND | $4.0M | 1 | 2020 |
-| SERIOUSFUN CHILDREN'S NETWORK | $3.0M | 1 | 2020 |
-| GLOBAL ALLIANCE FOR INCINERATOR ALTERNATIVES | $2.9M | 1 | 2020 |
-| NEW VENTURE FUND | $2.8M | 1 | 2020 |
-| NATIONAL NETWORK OF ABORTION FUNDS | $2.3M | 1 | 2020 |
-| IBIS REPRODUCTIVE HEALTH | $2.1M | 1 | 2020 |
-| NATIONAL FAMILY PLANNING | $2.0M | 1 | 2020 |
-| BOREALIS PHILANTHROPY | $1.9M | 1 | 2020 |
-| THE HOPEWELL FUND | $1.9M | 1 | 2020 |
-| TIDES FOUNDATION | $1.9M | 1 | 2020 |
-| WORLD WILDLIFE FUND INC | $1.7M | 1 | 2020 |
-| THE BRIDGE FUND | $1.6M | 1 | 2020 |
-| NATURAL RESOURCES DEFENSE COUNCIL ACTION FUND | $1.5M | 1 | 2020 |
-| NATIONAL WOMEN'S LAW CENTER | $1.4M | 1 | 2020 |
+| NEO PHILANTHROPY | $4.6M | 3 | 2020–2022 |
+| APPALACHIAN COMMUNITY FUND INC | $4.5M | 2 | 2020–2021 |
+| SUSTAINABLE MARKETS FOUNDATION | $4.5M | 3 | 2020–2022 |
+| OCEANA INC | $3.7M | 3 | 2020–2022 |
+| SERIOUSFUN CHILDREN'S NETWORK | $3.7M | 2 | 2020–2021 |
 
-**Grants received (2018–2024):** $266.4M across 11 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $279.6M across 12 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -80,12 +80,13 @@ politicians-funded: "[[New Venture Fund]], [[Brennan Center for Justice]], [[Nat
 | NATIONAL PHILANTHROPIC TRUST | $103.7M | 5 | 2019–2023 |
 | SCHWAB CHARITABLE FUND | $103.6M | 7 | 2018–2024 |
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $38.0M | 6 | 2018–2023 |
-| Silicon Valley Community Foundation | $10.6M | 1 | 2020 |
+| Silicon Valley Community Foundation | $21.9M | 2 | 2020–2022 |
 | NEW VENTURE FUND | $7.3M | 6 | 2018–2024 |
 | AIRBNBORG INC | $1.4M | 3 | 2022–2024 |
-| Vanguard Charitable Endowment Program | $1.1M | 1 | 2021 |
+| IMPACTASSETSINC | $1.2M | 2 | 2020–2022 |
+| Vanguard Charitable Endowment Program | $1.2M | 2 | 2021–2022 |
+| GOLDMAN SACHS PHILANTHROPY FUND | $800K | 1 | 2022 |
 | Ocean Conservancy | $350K | 1 | 2020 |
-| IMPACTASSETSINC | $126K | 1 | 2020 |
 | AMERICAN ENDOWMENT FOUNDATION | $35K | 1 | 2020 |
 | MORGAN STANLEY GLOBAL IMPACT FUNDING | $5K | 1 | 2020 |
 

@@ -316,7 +316,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | OPPORTUNITY ARKANSAS | $477K | 3 | 2022–2024 |
 | ALASKA POLICY FORUM | $475K | 5 | 2019–2023 |
 
-**Grants received (2018–2024):** $2.4M across 10 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $2.5M across 10 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -325,8 +325,8 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $1.1M | 6 | 2018–2023 |
 | NATIONAL PHILANTHROPIC TRUST | $438K | 5 | 2019–2023 |
 | SCHWAB CHARITABLE FUND | $433K | 7 | 2018–2024 |
+| Vanguard Charitable Endowment Program | $256K | 2 | 2021–2022 |
 | BRADLEY IMPACT FUND INC | $153K | 4 | 2018–2024 |
-| Vanguard Charitable Endowment Program | $106K | 1 | 2021 |
 | Donors Capital Fund Inc | $50K | 1 | 2020 |
 | THE 85 FUND | $50K | 1 | 2022 |
 | AMERICAN FUEL AND PETROCHEMICAL | $40K | 3 | 2019–2023 |

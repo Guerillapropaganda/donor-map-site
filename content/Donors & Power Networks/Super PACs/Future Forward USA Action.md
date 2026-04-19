@@ -247,16 +247,16 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | PLANNED PARENTHOOD ACTION FUND | $2.3M | 1 | 2024 |
 | Building Back Together | $2.3M | 1 | 2021 |
 
-**Grants received (2020–2023):** $20.1M across 4 grantors (from other vault orgs' Schedule I records).
+**Grants received (2020–2023):** $21.7M across 4 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
 | SIXTEEN THIRTY FUND | $15.2M | 1 | 2020 |
+| HOPEWELL FUND | $2.7M | 2 | 2020–2022 |
 | LEAGUE OF CONSERVATION VOTERS INC | $2.5M | 1 | 2022 |
 | AMERICA VOTES | $1.2M | 2 | 2023 |
-| HOPEWELL FUND | $1.2M | 1 | 2020 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

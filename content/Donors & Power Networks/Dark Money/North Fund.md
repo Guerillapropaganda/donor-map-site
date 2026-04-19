@@ -1,0 +1,48 @@
+---
+title: "North Fund"
+type: donor
+content-readiness: raw
+last-updated: 2026-04-18
+sector: "Dark Money"
+entity-type: "501(c)(4)"
+ein: "834011547"
+nonprofit-status: "501(c)(4)"
+source-tier: 1
+internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Arabella Advisors-managed 501(c)(4) pass-through fiscal sponsor. Paired with Hopewell Fund on the c3 side. Part of the Arabella dark-money infrastructure stack. Narrative pending Research Claude editorial pass."
+---
+
+# North Fund
+
+*Stub profile. Narrative pending Research Claude editorial pass.*
+
+## Quick facts
+
+- **EIN:** 834011547
+- **Type:** 501(c)(4), 501(c)(4)
+- **Note:** Arabella Advisors-managed 501(c)(4) pass-through fiscal sponsor. Paired with Hopewell Fund on the c3 side. Part of the Arabella dark-money infrastructure stack.
+
+## Sources
+
+- [IRS Exempt Organization 990 records](https://www.irs.gov/charities-non-profits/form-990-series-downloads)
+- [ProPublica Nonprofit Explorer (EIN 83-4011547)](https://projects.propublica.org/nonprofits/organizations/834011547)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+
+**Grants received (2019–2024):** $74.2M across 4 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| SIXTEEN THIRTY FUND | $41.9M | 4 | 2019–2023 |
+| NEW VENTURE FUND | $32.1M | 4 | 2020–2024 |
+| GROVE ACTION FUND | $225K | 3 | 2021–2024 |
+| FUTURE FORWARD USA ACTION | $50K | 1 | 2024 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

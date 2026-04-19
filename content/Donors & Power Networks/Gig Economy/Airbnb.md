@@ -290,15 +290,20 @@ Preemption of local short-term rental regulations, reduced hotel tax requirement
 | WORLD RELIEF CORPORATION OF THE NATIONAL ASSOCIATION OF EVANGELICALS | $462K | 2 | 2022–2023 |
 | TURKISH PHILANTHROPY FUNDS INC | $400K | 1 | 2023 |
 
-**Grants received (2021–2024):** $31.1M across 3 grantors (from other vault orgs' Schedule I records).
+**Grants received (2021–2024):** $35.6M across 8 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $26.4M | 3 | 2021–2023 |
+| AMERICAN ENDOWMENT FOUNDATION | $4.3M | 1 | 2022 |
 | SCHWAB CHARITABLE FUND | $3.2M | 3 | 2022–2024 |
 | NATIONAL PHILANTHROPIC TRUST | $1.5M | 2 | 2022–2023 |
+| Vanguard Charitable Endowment Program | $57K | 1 | 2022 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING TRUST INC | $50K | 1 | 2022 |
+| Silicon Valley Community Foundation | $30K | 1 | 2022 |
+| GOLDMAN SACHS PHILANTHROPY FUND | $5K | 1 | 2022 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

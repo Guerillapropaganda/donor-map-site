@@ -550,7 +550,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | STATE FINANCIAL OFFICERS FOUNDATION | $100K | 1 | 2022 |
 | DEFENSE OF FREEDOM INSTITUTE | $100K | 1 | 2022 |
 
-**Grants received (2018–2024):** $16.5M across 12 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $17.4M across 12 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -559,15 +559,15 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $6.3M | 6 | 2018–2023 |
 | SCHWAB CHARITABLE FUND | $6.0M | 7 | 2018–2024 |
 | NATIONAL PHILANTHROPIC TRUST | $2.2M | 6 | 2018–2023 |
-| Vanguard Charitable Endowment Program | $842K | 1 | 2021 |
+| Vanguard Charitable Endowment Program | $1.1M | 2 | 2021–2022 |
 | PHARMACEUTICAL RESEARCH &amp; MANUFACTURERS | $513K | 4 | 2018–2022 |
 | BRADLEY IMPACT FUND INC | $318K | 5 | 2018–2024 |
+| AMERICAN ENDOWMENT FOUNDATION | $278K | 2 | 2020–2022 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING | $210K | 2 | 2020–2022 |
 | THE 85 FUND | $190K | 2 | 2022–2023 |
-| AMERICAN ENDOWMENT FOUNDATION | $63K | 1 | 2020 |
+| Goldman Sachs Philanthropy Fund | $170K | 2 | 2020–2022 |
 | Donors Capital Fund Inc | $50K | 1 | 2020 |
-| Goldman Sachs Philanthropy Fund | $29K | 1 | 2020 |
 | AMERICAN FUEL AND PETROCHEMICAL | $20K | 2 | 2019–2020 |
-| MORGAN STANLEY GLOBAL IMPACT FUNDING | $5K | 1 | 2020 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

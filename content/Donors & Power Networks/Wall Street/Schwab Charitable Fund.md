@@ -10,7 +10,7 @@ nonprofit-status: 501(c)(3)
 source-tier: 1
 related: "[[Charles Schwab]]"
 internal-notes: Stub profile auto-created 2026-04-18. Schwab Charitable Fund is the DAF sponsor affiliated with Charles Schwab the brokerage. They are separate legal entities with separate EINs (Schwab Charitable EIN 31-1640316; Charles Schwab Corp EIN 94-3192615). Narrative pending Research Claude editorial pass.
-politicians-funded: "[[Fidelity Investments]], [[Cato Institute]], [[Kenneth Griffin]], [[Ocean Conservancy]], [[Mercatus Center]], [[One Israel Fund]], [[Roosevelt Institute]], [[New Venture Fund]], [[Alliance Defending Freedom]], [[Brennan Center for Justice]], [[Center for American Progress]], [[Council on Foreign Relations]], [[California Charter Schools Association]], [[International Association of Chiefs of Police]], [[Hudson Institute]], [[Bipartisan Policy Center]], [[National Philanthropic Trust]], [[Conservative Partnership Institute]], [[Economic Policy Institute]], [[America First Policy Institute]], [[Heritage Foundation]], [[TPUSA - Turning Point USA]], [[Apollo Global Management]], [[The 85 Fund]], [[RAND Corporation]], [[Airbnb]], [[American Enterprise Institute]], [[OpenAI]], [[Founders Fund]], [[US Chamber of Commerce]], [[Urban Institute]], [[State Policy Network]], [[Bradley Impact Fund]], [[Planned Parenthood Federation of America]], [[Vital Strategies]], [[Rockefeller Philanthropy Advisors]], [[Silicon Valley Community Foundation]], [[Hopewell Fund]], [[Morgan Stanley Global Impact Funding Trust]], [[ACLU Foundation]], [[Renaissance Charitable Foundation]], [[ImpactAssets]], [[Greater Horizons]], [[American Endowment Foundation]], [[Vanguard Charitable Endowment Program]], [[Goldman Sachs Philanthropy Fund]], [[Stand Together Foundation]], [[ClimateWorks Foundation]], [[Robin Hood Foundation]], [[Bank of America Charitable Gift Fund]], [[The Seminar Network]], [[The Barack Obama Foundation]]"
+politicians-funded: "[[Fidelity Investments]], [[Cato Institute]], [[Kenneth Griffin]], [[Ocean Conservancy]], [[Mercatus Center]], [[One Israel Fund]], [[Roosevelt Institute]], [[New Venture Fund]], [[Alliance Defending Freedom]], [[Brennan Center for Justice]], [[Center for American Progress]], [[Council on Foreign Relations]], [[California Charter Schools Association]], [[International Association of Chiefs of Police]], [[Hudson Institute]], [[Bipartisan Policy Center]], [[National Philanthropic Trust]], [[Conservative Partnership Institute]], [[Economic Policy Institute]], [[America First Policy Institute]], [[Heritage Foundation]], [[TPUSA - Turning Point USA]], [[Apollo Global Management]], [[The 85 Fund]], [[RAND Corporation]], [[Airbnb]], [[American Enterprise Institute]], [[OpenAI]], [[Founders Fund]], [[US Chamber of Commerce]], [[Urban Institute]], [[State Policy Network]], [[Bradley Impact Fund]], [[Planned Parenthood Federation of America]], [[Vital Strategies]], [[Rockefeller Philanthropy Advisors]], [[Silicon Valley Community Foundation]], [[Hopewell Fund]], [[Morgan Stanley Global Impact Funding Trust]], [[ACLU Foundation]], [[Renaissance Charitable Foundation]], [[ImpactAssets]], [[Greater Horizons]], [[American Endowment Foundation]], [[Vanguard Charitable Endowment Program]], [[Goldman Sachs Philanthropy Fund]], [[Stand Together Foundation]], [[ClimateWorks Foundation]], [[Robin Hood Foundation]], [[Bank of America Charitable Gift Fund]], [[The Seminar Network]], [[The Barack Obama Foundation]], [[Center for Popular Democracy]], [[Natural Resources Defense Council]], [[Equal Justice Initiative]], [[NEO Philanthropy]], [[Proteus Fund]], [[Sierra Club Foundation]]"
 ---
 
 # Schwab Charitable Fund
@@ -75,7 +75,7 @@ politicians-funded: "[[Fidelity Investments]], [[Cato Institute]], [[Kenneth Gri
 | CALIFORNIA INSTITUTE OF TECHNOLOGY | $121.8M | 7 | 2018–2024 |
 | CHURCH OF JESUS CHRIST OF LATTER DAY SAINTS | $120.9M | 4 | 2021–2024 |
 
-**Grants received (2018–2024):** $1.80B across 12 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $1.88B across 12 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -85,12 +85,12 @@ politicians-funded: "[[Fidelity Investments]], [[Cato Institute]], [[Kenneth Gri
 | Marble Freedom Trust | $447.6M | 4 | 2021–2024 |
 | NATIONAL PHILANTHROPIC TRUST | $332.0M | 6 | 2018–2023 |
 | Rule of Law Trust | $43.8M | 3 | 2022–2024 |
-| Silicon Valley Community Foundation | $9.8M | 1 | 2020 |
-| Vanguard Charitable Endowment Program | $8.2M | 1 | 2021 |
-| Goldman Sachs Philanthropy Fund | $6.9M | 1 | 2020 |
-| AMERICAN ENDOWMENT FOUNDATION | $5.8M | 3 | 2020 |
-| MORGAN STANLEY GLOBAL IMPACT FUNDING | $1.9M | 1 | 2020 |
-| IMPACTASSETSINC | $641K | 1 | 2020 |
+| Goldman Sachs Philanthropy Fund | $37.5M | 2 | 2020–2022 |
+| Vanguard Charitable Endowment Program | $31.1M | 2 | 2021–2022 |
+| AMERICAN ENDOWMENT FOUNDATION | $18.8M | 6 | 2020–2022 |
+| Silicon Valley Community Foundation | $18.3M | 2 | 2020–2022 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING | $7.5M | 5 | 2020–2022 |
+| IMPACTASSETSINC | $4.4M | 3 | 2020–2022 |
 | NEW VENTURE FUND | $505K | 1 | 2018 |
 | MAGA ACTION INC | $400K | 1 | 2023 |
 

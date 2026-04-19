@@ -356,7 +356,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | ARIZONA STATE UNIVERSITY | $63K | 1 | 2020 |
 | LEAGUE OF CONSERVATION VOTERS | $60K | 1 | 2019 |
 
-**Grants received (2018–2024):** $52.5M across 9 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $53.5M across 10 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -366,10 +366,11 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | NATIONAL PHILANTHROPIC TRUST | $4.8M | 6 | 2018–2023 |
 | NEW VENTURE FUND | $4.1M | 5 | 2018–2024 |
 | SCHWAB CHARITABLE FUND | $1.2M | 6 | 2018–2024 |
-| Silicon Valley Community Foundation | $932K | 1 | 2020 |
-| Vanguard Charitable Endowment Program | $418K | 1 | 2021 |
-| IMPACTASSETSINC | $250K | 1 | 2020 |
-| HOPEWELL FUND | $40K | 1 | 2020 |
+| Silicon Valley Community Foundation | $1.2M | 2 | 2020–2022 |
+| Vanguard Charitable Endowment Program | $692K | 2 | 2021–2022 |
+| IMPACTASSETSINC | $400K | 2 | 2020–2022 |
+| HOPEWELL FUND | $290K | 2 | 2020–2022 |
+| ROCKEFELLER PHILANTHROPY ADVISORS INC | $100K | 1 | 2022 |
 | AMERICAN ENDOWMENT FOUNDATION | $7K | 1 | 2020 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*

@@ -9,7 +9,7 @@ ein: "341747398"
 nonprofit-status: 501(c)(3)
 source-tier: 1
 internal-notes: Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Independent DAF sponsor, one of the largest non-commercial DAFs serving high-net-worth donors. Narrative pending Research Claude editorial pass.
-politicians-funded: "[[Morgan Stanley Global Impact Funding Trust]], [[ACLU Foundation]], [[Goldman Sachs Philanthropy Fund]], [[Greater Horizons]], [[Planned Parenthood Federation of America]], [[Vanguard Charitable Endowment Program]], [[Fidelity Investments]], [[Bank of America Charitable Gift Fund]], [[American Enterprise Institute]], [[Renaissance Charitable Foundation]], [[Council on Foreign Relations]], [[National Philanthropic Trust]], [[Hopewell Fund]], [[Schwab Charitable Fund]]"
+politicians-funded: "[[Morgan Stanley Global Impact Funding Trust]], [[ACLU Foundation]], [[Goldman Sachs Philanthropy Fund]], [[Greater Horizons]], [[Planned Parenthood Federation of America]], [[Vanguard Charitable Endowment Program]], [[Fidelity Investments]], [[Bank of America Charitable Gift Fund]], [[American Enterprise Institute]], [[Renaissance Charitable Foundation]], [[Council on Foreign Relations]], [[National Philanthropic Trust]], [[Hopewell Fund]], [[Schwab Charitable Fund]], [[Natural Resources Defense Council]], [[Sierra Club Foundation]], [[ImpactAssets]], [[Ocean Conservancy]], [[TPUSA - Turning Point USA]], [[Heartland Institute]], [[Proteus Fund]], [[NEO Philanthropy]], [[Airbnb]], [[Equal Justice Initiative]], [[Cato Institute]], [[Heritage Foundation]], [[Alliance Defending Freedom]]"
 ---
 
 # American Endowment Foundation
@@ -32,46 +32,46 @@ politicians-funded: "[[Morgan Stanley Global Impact Funding Trust]], [[ACLU Foun
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-**Filings available:** 2 (2020–2020)
+**Filings available:** 4 (2020–2022)
 
-**Most recent filing (2020):**
+**Most recent filing (2022):**
 
 | Metric | Amount |
 |---|---:|
 | Total revenue | — |
-| Contribution revenue | — |
+| Contribution revenue | $1.31B |
 | Total expenses | — |
-| Total assets (EOY) | — |
-| Grants paid out | — |
+| Total assets (EOY) | $6.25B |
+| Grants paid out | $965.4M |
 
-**Lifetime grants out (2020–2020):** $493.1M across 9,948 recipients.
+**Lifetime grants out (2020–2022):** $1.46B across 17,973 recipients.
 
 **Top 20 recipients:**
 
 | Recipient | Total | Grants | Years |
 |---|---:|---:|---|
-| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $28.3M | 3 | 2020 |
-| INDEPENDENT CHARITABLE GIFT FUND | $8.0M | 1 | 2020 |
-| NATIONAL CHRISTIAN CHARITABLE FOUNDATION INC | $7.6M | 3 | 2020 |
-| T S G PUBLISHING FOUNDATION | $7.0M | 1 | 2020 |
+| IMPACTASSETS INC | $102.0M | 2 | 2020–2022 |
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $79.2M | 6 | 2020–2022 |
+| INDEPENDENT CHARITABLE GIFT FUND | $31.4M | 2 | 2020–2022 |
+| SCHWAB CHARITABLE FUND | $18.8M | 6 | 2020–2022 |
+| EAMES INSTITUTE | $17.9M | 1 | 2022 |
+| NATIONAL PHILANTHROPIC TRUST | $17.4M | 4 | 2020–2022 |
+| NATIONAL CHRISTIAN CHARITABLE FOUNDATION INC | $15.9M | 10 | 2020–2022 |
+| UNIVERSITY OF CALIFORNIA BERKELEY FOUNDATION | $14.2M | 7 | 2020–2022 |
+| THE CHURCH OF JESUS CHRIST OF LATTER-DAY SAINTS | $12.9M | 6 | 2020–2022 |
+| JDRF INTERNATIONAL | $8.3M | 13 | 2020–2022 |
+| UNIVERSITY IMPACT | $7.7M | 1 | 2022 |
+| THE BOARD OF TRUSTEES OF THE LELAND STANFORD JUNIOR UNIVERSITY | $7.4M | 28 | 2020–2022 |
+| RENAISSANCE CHARITABLE FOUNDATION INC | $7.3M | 2 | 2020–2022 |
+| ASSEMBLIES OF GOD FOUNDATION | $7.1M | 2 | 2020–2022 |
+| T S G PUBLISHING FOUNDATION | $7.1M | 2 | 2020–2022 |
 | GOLDMAN SACHS PHILANTHROPY FUND | $6.8M | 1 | 2020 |
-| SCHWAB CHARITABLE FUND | $5.8M | 3 | 2020 |
-| NATIONAL PHILANTHROPIC TRUST | $5.6M | 2 | 2020 |
+| CONSERVATION INTERNATIONAL FOUNDATION | $6.0M | 1 | 2022 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING TRUST INC | $6.0M | 3 | 2020–2022 |
 | CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRONOMY | $5.5M | 1 | 2020 |
-| NEW ISRAEL FUND | $4.1M | 2 | 2020 |
-| SERVANT FOUNDATION | $3.8M | 1 | 2020 |
-| MICHIGAN STATE UNIVERSITY | $3.7M | 3 | 2020 |
-| THE CHURCH OF JESUS CHRIST OF LATTER-DAY SAINTS | $3.4M | 1 | 2020 |
-| INTERNATIONAL JUSTICE MISSION | $3.1M | 1 | 2020 |
-| MUHLENBERG COLLEGE | $2.7M | 1 | 2020 |
-| THE DETROIT INSTITUTE OF ARTS | $2.6M | 1 | 2020 |
-| SMITHSONIAN INSTITUTE | $2.4M | 5 | 2020 |
-| UNIVERSITY OF CALIFORNIA BERKELEY FOUNDATION | $2.4M | 3 | 2020 |
-| BOYS &amp; GIRLS CLUBS OF CENTRAL FLORIDA | $2.4M | 1 | 2020 |
-| THE BOARD OF TRUSTEES OF THE LELAND STANFORD JUNIOR UNIVERSITY | $2.3M | 13 | 2020 |
-| WASHINGTON UNIVERSITY | $2.2M | 5 | 2020 |
+| GENOA BAPTIST CHURCH | $5.5M | 1 | 2022 |
 
-**Grants received (2018–2024):** $439.0M across 6 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $446.2M across 6 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -80,9 +80,9 @@ politicians-funded: "[[Morgan Stanley Global Impact Funding Trust]], [[ACLU Foun
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $222.2M | 6 | 2018–2023 |
 | SCHWAB CHARITABLE FUND | $133.2M | 7 | 2018–2024 |
 | NATIONAL PHILANTHROPIC TRUST | $70.5M | 5 | 2019–2023 |
-| MORGAN STANLEY GLOBAL IMPACT FUNDING | $9.3M | 1 | 2020 |
-| Vanguard Charitable Endowment Program | $2.6M | 1 | 2021 |
-| Silicon Valley Community Foundation | $1.3M | 1 | 2020 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING | $10.7M | 4 | 2020–2022 |
+| Silicon Valley Community Foundation | $6.1M | 2 | 2020–2022 |
+| Vanguard Charitable Endowment Program | $3.7M | 2 | 2021–2022 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

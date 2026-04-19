@@ -70,7 +70,7 @@ checklist-na:
 employee-contributions: 435
 employee-contributions-total: 176026
 employee-donor-count: 154
-politicians-funded: "[[Center for American Progress]], [[Congressional Progressive Caucus PAC]], [[_Jon Ossoff Master Profile]], [[_Dave Min Master Profile]], [[Gates Foundation]], [[Sixteen Thirty Fund]], [[League of Conservation Voters]], [[America Votes]], [[ActBlue]], [[_Lisa Blunt Rochester Master Profile]], [[The Lincoln Project]], [[_Young Kim Master Profile]], [[_Gabe Vasquez Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[WinSenate]], [[Protect the Vote]], [[_Tammy Baldwin Master Profile]], [[Mark Kelly]], [[314 ACTION FUND]], [[Bipartisan Policy Center]], [[Brennan Center for Justice]], [[Council on Foreign Relations]], [[Cato Institute]], [[Economic Policy Institute]], [[Roosevelt Institute]], [[Schwab Charitable Fund]], [[Urban Institute]], [[Young Kim]], [[Tammy Baldwin]], [[Lisa Blunt Rochester]], [[Dave Min]], [[Jon Ossoff]], [[Gabe Vasquez]], [[Hopewell Fund]], [[Rockefeller Philanthropy Advisors]], [[Co Impact Philanthropic Funds]], [[Planned Parenthood Federation of America]]"
+politicians-funded: "[[Center for American Progress]], [[Congressional Progressive Caucus PAC]], [[_Jon Ossoff Master Profile]], [[_Dave Min Master Profile]], [[Gates Foundation]], [[Sixteen Thirty Fund]], [[League of Conservation Voters]], [[America Votes]], [[ActBlue]], [[_Lisa Blunt Rochester Master Profile]], [[The Lincoln Project]], [[_Young Kim Master Profile]], [[_Gabe Vasquez Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[WinSenate]], [[Protect the Vote]], [[_Tammy Baldwin Master Profile]], [[Mark Kelly]], [[314 ACTION FUND]], [[Bipartisan Policy Center]], [[Brennan Center for Justice]], [[Council on Foreign Relations]], [[Cato Institute]], [[Economic Policy Institute]], [[Roosevelt Institute]], [[Schwab Charitable Fund]], [[Urban Institute]], [[Young Kim]], [[Tammy Baldwin]], [[Lisa Blunt Rochester]], [[Dave Min]], [[Jon Ossoff]], [[Gabe Vasquez]], [[Hopewell Fund]], [[Rockefeller Philanthropy Advisors]], [[Co Impact Philanthropic Funds]], [[Planned Parenthood Federation of America]], [[NEO Philanthropy]], [[Center for Popular Democracy]], [[Proteus Fund]], [[Sierra Club Foundation]], [[North Fund]]"
 ---
 
 
@@ -322,7 +322,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | ACCOUNTABLEUS | $9.9M | 4 | 2019–2023 |
 | NATURE AND CULTURE INTERNATIONAL | $9.9M | 6 | 2018–2024 |
 
-**Grants received (2018–2024):** $817.2M across 15 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $844.8M across 15 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -331,18 +331,18 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $497.9M | 6 | 2018–2023 |
 | NATIONAL PHILANTHROPIC TRUST | $250.7M | 6 | 2018–2023 |
 | SCHWAB CHARITABLE FUND | $30.9M | 7 | 2018–2024 |
-| Goldman Sachs Philanthropy Fund | $10.4M | 1 | 2020 |
+| Silicon Valley Community Foundation | $17.7M | 2 | 2020–2022 |
+| Goldman Sachs Philanthropy Fund | $14.7M | 2 | 2020–2022 |
 | SIXTEEN THIRTY FUND | $10.2M | 5 | 2018–2023 |
-| Silicon Valley Community Foundation | $8.6M | 1 | 2020 |
-| ROCKEFELLER PHILANTHROPY ADVISORS INC | $2.8M | 1 | 2020 |
-| IMPACTASSETSINC | $2.5M | 1 | 2020 |
+| ROCKEFELLER PHILANTHROPY ADVISORS INC | $8.4M | 3 | 2020–2022 |
+| HOPEWELL FUND | $5.5M | 2 | 2020–2022 |
+| IMPACTASSETSINC | $3.2M | 5 | 2020–2022 |
+| Vanguard Charitable Endowment Program | $3.0M | 2 | 2021–2022 |
 | FUTURE FORWARD USA ACTION | $1.6M | 1 | 2024 |
-| Vanguard Charitable Endowment Program | $940K | 1 | 2021 |
-| HOPEWELL FUND | $411K | 1 | 2020 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING | $735K | 2 | 2020–2022 |
 | PLANNED PARENTHOOD FEDERATION OF AMERICA INC | $50K | 1 | 2020 |
+| AMERICAN ENDOWMENT FOUNDATION | $30K | 2 | 2020–2022 |
 | CENTER FOR AMERICAN PROGRESS | $25K | 1 | 2018 |
-| MORGAN STANLEY GLOBAL IMPACT FUNDING | $10K | 1 | 2020 |
-| AMERICAN ENDOWMENT FOUNDATION | $5K | 1 | 2020 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

@@ -315,7 +315,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Total assets (EOY) | — |
 | Grants paid out | — |
 
-**Grants received (2018–2024):** $7.2M across 9 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $7.8M across 9 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -323,13 +323,13 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 |---|---:|---:|---|
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $4.5M | 6 | 2018–2023 |
 | SCHWAB CHARITABLE FUND | $1.7M | 7 | 2018–2024 |
+| Vanguard Charitable Endowment Program | $351K | 2 | 2021–2022 |
+| Goldman Sachs Philanthropy Fund | $274K | 2 | 2020–2022 |
 | The Urban Institute | $243K | 3 | 2021–2023 |
 | NATIONAL PHILANTHROPIC TRUST | $206K | 6 | 2018–2023 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING | $195K | 2 | 2020–2022 |
 | Silicon Valley Community Foundation | $161K | 1 | 2020 |
-| Vanguard Charitable Endowment Program | $116K | 1 | 2021 |
 | NEW VENTURE FUND | $105K | 3 | 2019–2023 |
-| Goldman Sachs Philanthropy Fund | $62K | 1 | 2020 |
-| MORGAN STANLEY GLOBAL IMPACT FUNDING | $30K | 1 | 2020 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

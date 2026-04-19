@@ -9,7 +9,7 @@ ein: "237825575"
 nonprofit-status: 501(c)(3)
 source-tier: 1
 internal-notes: Stub profile auto-created 2026-04-18 to close 990 coverage gap. National Philanthropic Trust is one of the largest independent donor-advised funds in the US, often used as a pass-through vehicle for anonymous giving. Narrative pending Research Claude editorial pass.
-politicians-funded: "[[The 85 Fund]], [[Fidelity Investments]], [[Brennan Center for Justice]], [[Kenneth Griffin]], [[Council on Foreign Relations]], [[Hudson Institute]], [[Center for American Progress]], [[Mercatus Center]], [[Conservative Partnership Institute]], [[TPUSA - Turning Point USA]], [[Heritage Foundation]], [[US Chamber of Commerce]], [[Urban Institute]], [[New Venture Fund]], [[Bipartisan Policy Center]], [[American Enterprise Institute]], [[Schwab Charitable Fund]], [[Ocean Conservancy]], [[Alliance Defending Freedom]], [[Cato Institute]], [[International Association of Chiefs of Police]], [[State Policy Network]], [[National Philanthropic Trust]], [[America First Policy Institute]], [[Airbnb]], [[Bradley Impact Fund]], [[Vanguard Charitable Endowment Program]], [[Goldman Sachs Philanthropy Fund]], [[Greater Horizons]], [[Hopewell Fund]], [[American Endowment Foundation]], [[Rockefeller Philanthropy Advisors]], [[ImpactAssets]], [[Morgan Stanley Global Impact Funding Trust]], [[Silicon Valley Community Foundation]], [[ACLU Foundation]], [[Renaissance Charitable Foundation]], [[Vital Strategies]], [[Planned Parenthood Federation of America]], [[The Barack Obama Foundation]], [[Blue Meridian Partners]], [[ClimateWorks Foundation]], [[Stand Together Foundation]], [[Bank of America Charitable Gift Fund]], [[Robin Hood Foundation]], [[The Seminar Network]]"
+politicians-funded: "[[The 85 Fund]], [[Fidelity Investments]], [[Brennan Center for Justice]], [[Kenneth Griffin]], [[Council on Foreign Relations]], [[Hudson Institute]], [[Center for American Progress]], [[Mercatus Center]], [[Conservative Partnership Institute]], [[TPUSA - Turning Point USA]], [[Heritage Foundation]], [[US Chamber of Commerce]], [[Urban Institute]], [[New Venture Fund]], [[Bipartisan Policy Center]], [[American Enterprise Institute]], [[Schwab Charitable Fund]], [[Ocean Conservancy]], [[Alliance Defending Freedom]], [[Cato Institute]], [[International Association of Chiefs of Police]], [[State Policy Network]], [[National Philanthropic Trust]], [[America First Policy Institute]], [[Airbnb]], [[Bradley Impact Fund]], [[Vanguard Charitable Endowment Program]], [[Goldman Sachs Philanthropy Fund]], [[Greater Horizons]], [[Hopewell Fund]], [[American Endowment Foundation]], [[Rockefeller Philanthropy Advisors]], [[ImpactAssets]], [[Morgan Stanley Global Impact Funding Trust]], [[Silicon Valley Community Foundation]], [[ACLU Foundation]], [[Renaissance Charitable Foundation]], [[Vital Strategies]], [[Planned Parenthood Federation of America]], [[The Barack Obama Foundation]], [[Blue Meridian Partners]], [[ClimateWorks Foundation]], [[Stand Together Foundation]], [[Bank of America Charitable Gift Fund]], [[Robin Hood Foundation]], [[The Seminar Network]], [[Equal Justice Initiative]], [[Sierra Club Foundation]], [[NEO Philanthropy]], [[Natural Resources Defense Council]], [[Proteus Fund]], [[Center for Popular Democracy]]"
 ---
 
 # National Philanthropic Trust
@@ -72,7 +72,7 @@ politicians-funded: "[[The 85 Fund]], [[Fidelity Investments]], [[Brennan Center
 | THE SEMINAR NETWORK INC | $73.8M | 3 | 2019–2022 |
 | LUCILE PACKARD FOUNDATION FOR CHILDREN'S HEALTH | $73.1M | 6 | 2018–2023 |
 
-**Grants received (2018–2024):** $1.90B across 11 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $2.00B across 11 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -80,15 +80,15 @@ politicians-funded: "[[The 85 Fund]], [[Fidelity Investments]], [[Brennan Center
 |---|---:|---:|---|
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $1.07B | 6 | 2018–2023 |
 | SCHWAB CHARITABLE FUND | $631.9M | 7 | 2018–2024 |
-| Vanguard Charitable Endowment Program | $165.7M | 1 | 2021 |
+| Vanguard Charitable Endowment Program | $170.1M | 2 | 2021–2022 |
+| Goldman Sachs Philanthropy Fund | $83.7M | 2 | 2020–2022 |
+| AMERICAN ENDOWMENT FOUNDATION | $17.4M | 4 | 2020–2022 |
 | FUTURE FORWARD USA ACTION | $16.8M | 1 | 2024 |
-| AMERICAN ENDOWMENT FOUNDATION | $5.6M | 2 | 2020 |
-| Goldman Sachs Philanthropy Fund | $5.0M | 1 | 2020 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING | $4.9M | 4 | 2020–2022 |
+| ROCKEFELLER PHILANTHROPY ADVISORS INC | $2.6M | 2 | 2020–2021 |
 | NATIONAL PHILANTHROPIC TRUST | $2.1M | 4 | 2018–2023 |
-| ROCKEFELLER PHILANTHROPY ADVISORS INC | $500K | 1 | 2020 |
-| IMPACTASSETSINC | $413K | 1 | 2020 |
-| MORGAN STANLEY GLOBAL IMPACT FUNDING | $288K | 1 | 2020 |
-| Silicon Valley Community Foundation | $100K | 1 | 2020 |
+| IMPACTASSETSINC | $1.2M | 3 | 2020–2022 |
+| Silicon Valley Community Foundation | $110K | 2 | 2020–2022 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

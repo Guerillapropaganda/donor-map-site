@@ -359,11 +359,11 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | IMPACTASSETSINC | $150K | 1 | 2020 |
 | HOPEWELL FUND | $75K | 1 | 2020 |
 | Silicon Valley Community Foundation | $50K | 1 | 2020 |
-| Vanguard Charitable Endowment Program | $22K | 1 | 2021 |
+| Vanguard Charitable Endowment Program | $45K | 2 | 2021–2022 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING | $18K | 2 | 2020–2022 |
 | NATIONAL PHILANTHROPIC TRUST | $16K | 1 | 2019 |
 | SIXTEEN THIRTY FUND | $12K | 1 | 2018 |
 | CALIFORNIA NURSES ASSOCIATION | $10K | 1 | 2021 |
-| MORGAN STANLEY GLOBAL IMPACT FUNDING | $8K | 1 | 2020 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

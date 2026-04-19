@@ -381,7 +381,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | NATIONAL ACADEMY OF SCIENCES | $10K | 1 | 2022 |
 | THE ELIZABETH DOLE FOUNDATION | $10K | 1 | 2022 |
 
-**Grants received (2018–2024):** $19.1M across 11 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $20.7M across 12 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -389,9 +389,10 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 |---|---:|---:|---|
 | NATIONAL PHILANTHROPIC TRUST | $11.8M | 3 | 2019–2022 |
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $4.4M | 5 | 2019–2023 |
+| Silicon Valley Community Foundation | $1.8M | 2 | 2020–2022 |
 | SCHWAB CHARITABLE FUND | $891K | 5 | 2018–2024 |
-| Silicon Valley Community Foundation | $550K | 1 | 2020 |
 | THE BUSINESS ROUNDTABLE INC | $425K | 2 | 2023–2024 |
+| GOLDMAN SACHS PHILANTHROPY FUND | $325K | 1 | 2022 |
 | NEW VENTURE FUND | $305K | 2 | 2022–2024 |
 | US Chamber of Commerce Foundation | $250K | 2 | 2022–2023 |
 | IMPACTASSETSINC | $200K | 1 | 2020 |

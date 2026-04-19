@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Dark Money
 entity-type: Individual Donor
-politicians-funded: "[[DOGE - The Billionaires Government]], [[David Pakman]], [[America Votes]], [[ActBlue]], [[DSCC - Democratic Senatorial Campaign Committee]], [[League of Conservation Voters]], [[Future Forward USA Action]], [[New Venture Fund]], [[_Cori Bush Master Profile]], [[_Martin Heinrich Master Profile]], [[Third Way]], [[Cori Bush]], [[Martin Heinrich]], [[FF PAC]], [[Hopewell Fund]]"
+politicians-funded: "[[DOGE - The Billionaires Government]], [[David Pakman]], [[America Votes]], [[ActBlue]], [[DSCC - Democratic Senatorial Campaign Committee]], [[League of Conservation Voters]], [[Future Forward USA Action]], [[New Venture Fund]], [[_Cori Bush Master Profile]], [[_Martin Heinrich Master Profile]], [[Third Way]], [[Cori Bush]], [[Martin Heinrich]], [[FF PAC]], [[Hopewell Fund]], [[North Fund]], [[Natural Resources Defense Council]]"
 issues:
   - Dark Money & Campaign Finance
 court-cases: 18
@@ -393,7 +393,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | NEVADANS FOR SECURE ELECTIONS | $6.3M | 1 | 2018 |
 | ENVIRONMENT AMERICA | $6.2M | 4 | 2018–2023 |
 
-**Grants received (2018–2024):** $300.8M across 5 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $307.8M across 5 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -401,7 +401,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 |---|---:|---:|---|
 | NEW VENTURE FUND | $267.3M | 6 | 2018–2024 |
 | FUTURE FORWARD USA ACTION | $29.2M | 2 | 2024 |
-| HOPEWELL FUND | $3.8M | 1 | 2020 |
+| HOPEWELL FUND | $10.9M | 2 | 2020–2022 |
 | GROVE ACTION FUND | $400K | 5 | 2018–2023 |
 | LEAGUE OF CONSERVATION VOTERS INC | $50K | 1 | 2020 |
 

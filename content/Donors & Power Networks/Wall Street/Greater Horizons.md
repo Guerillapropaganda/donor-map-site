@@ -31,24 +31,25 @@ internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-**Filings available:** 2 (2020–2020)
+**Filings available:** 4 (2020–2022)
 
-**Most recent filing (2020):**
+**Most recent filing (2022):**
 
 | Metric | Amount |
 |---|---:|
 | Total revenue | — |
-| Contribution revenue | $445.1M |
+| Contribution revenue | — |
 | Total expenses | — |
-| Total assets (EOY) | $1.65B |
-| Grants paid out | $272.3M |
+| Total assets (EOY) | — |
+| Grants paid out | — |
 
-**Lifetime grants out (2020–2020):** $272.3M across 1 recipients.
+**Lifetime grants out (2020–2022):** $624.5M across 2 recipients.
 
 **Top 20 recipients:**
 
 | Recipient | Total | Grants | Years |
 |---|---:|---:|---|
+| SEE ATTACHED | $352.2M | 1 | 2022 |
 | SEE SCHEDULE I ATTACHMENT | $272.3M | 1 | 2020 |
 
 **Grants received (2018–2024):** $262.0M across 6 grantors (from other vault orgs' Schedule I records).
@@ -61,7 +62,7 @@ internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $82.2M | 6 | 2018–2023 |
 | SCHWAB CHARITABLE FUND | $12.7M | 7 | 2018–2024 |
 | AMERICAN ENDOWMENT FOUNDATION | $1.2M | 1 | 2020 |
-| MORGAN STANLEY GLOBAL IMPACT FUNDING | $1.0M | 1 | 2020 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING | $1.0M | 2 | 2020–2022 |
 | Vanguard Charitable Endowment Program | $831K | 1 | 2021 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*

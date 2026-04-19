@@ -295,7 +295,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | NATIONAL ASSOCIATION OF LATINO ELECTED &amp; APPOINTED OFFICIALS | $25K | 1 | 2021 |
 | ASIAN AMERICANS ADVANCING JUSTICE-ATLANTA | $10K | 1 | 2021 |
 
-**Grants received (2018–2024):** $31.4M across 10 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $32.8M across 11 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -304,13 +304,14 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $23.1M | 6 | 2018–2023 |
 | SCHWAB CHARITABLE FUND | $3.7M | 7 | 2018–2024 |
 | NATIONAL PHILANTHROPIC TRUST | $1.9M | 6 | 2018–2023 |
+| Vanguard Charitable Endowment Program | $1.7M | 2 | 2021–2022 |
 | NEW VENTURE FUND | $1.5M | 6 | 2018–2024 |
-| Vanguard Charitable Endowment Program | $792K | 1 | 2021 |
-| Silicon Valley Community Foundation | $145K | 1 | 2020 |
-| ROCKEFELLER PHILANTHROPY ADVISORS INC | $115K | 1 | 2020 |
-| AMERICAN ENDOWMENT FOUNDATION | $79K | 1 | 2020 |
-| IMPACTASSETSINC | $58K | 1 | 2020 |
-| MORGAN STANLEY GLOBAL IMPACT FUNDING | $23K | 1 | 2020 |
+| Silicon Valley Community Foundation | $396K | 2 | 2020–2022 |
+| ROCKEFELLER PHILANTHROPY ADVISORS INC | $165K | 3 | 2020–2022 |
+| AMERICAN ENDOWMENT FOUNDATION | $115K | 2 | 2020–2022 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING | $108K | 4 | 2020–2022 |
+| IMPACTASSETSINC | $84K | 3 | 2020–2022 |
+| GOLDMAN SACHS PHILANTHROPY FUND | $39K | 1 | 2022 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

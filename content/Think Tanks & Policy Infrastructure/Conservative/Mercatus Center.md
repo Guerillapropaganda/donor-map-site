@@ -526,20 +526,20 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | California Institute of Technology | $750K | 3 | 2020–2022 |
 | Columbia University in the City of New York | $725K | 2 | 2020–2021 |
 
-**Grants received (2018–2024):** $30.2M across 10 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $39.4M across 10 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
-| Vanguard Charitable Endowment Program | $10.1M | 1 | 2021 |
+| Vanguard Charitable Endowment Program | $19.3M | 2 | 2021–2022 |
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $8.4M | 6 | 2018–2023 |
 | SCHWAB CHARITABLE FUND | $5.1M | 7 | 2018–2024 |
 | NATIONAL PHILANTHROPIC TRUST | $3.5M | 4 | 2019–2023 |
 | Silicon Valley Community Foundation | $2.1M | 1 | 2020 |
 | The 85 Fund | $750K | 1 | 2020 |
 | Donors Capital Fund Inc | $250K | 2 | 2020 |
-| MORGAN STANLEY GLOBAL IMPACT FUNDING | $65K | 1 | 2020 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING | $80K | 2 | 2020–2022 |
 | PHARMACEUTICAL RESEARCH AND MANUFACTURERS | $50K | 2 | 2023–2024 |
 | AMERICAN ENDOWMENT FOUNDATION | $25K | 1 | 2020 |
 
