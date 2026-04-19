@@ -100,6 +100,43 @@ urls-first-triaged: "2026-04-15"
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,433 |
+| Substantive votes (Y/N) | 1,363 |
+| Votes with party majority | 1,282 |
+| Party-line loyalty | 94.1% |
+| Deviations from party | 80 |
+
+**Coverage:**
+
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 80):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s532-119.1 | Yea | N | PN 342 |
+| September  | s531-119.1 | Yea | N | PN 342 |
+| September  | s530-119.1 | Yea | N | PN 343 |
+| September  | s529-119.1 | Yea | N | PN 343 |
+| October 25 | s266-118.1 | Yea | N | — |
+| October 25 | s269-118.1 | Yea | N | — |
+| October 21 | s577-119.1 | Yea | N | PN 466-6 |
+| October 16 | s574-119.1 | Yea | N | PN 466-6 |
+| November 1 | s620-119.1 | Yea | N | PN 445-6 |
+| November 1 | s619-119.1 | Yea | N | PN 445-6 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 #master-profile #democrat #senate #arizona #defense #astronaut #gun-control
 
 tags: #democrat

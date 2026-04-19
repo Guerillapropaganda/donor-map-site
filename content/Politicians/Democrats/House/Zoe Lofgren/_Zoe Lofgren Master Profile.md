@@ -358,8 +358,40 @@ The H-1B visa work completes the alignment. Lofgren, the former immigration atto
 
 ### Voting Record
 <!-- auto:voting-record start -->
-**Sources**
 
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,726 |
+| Substantive votes (Y/N) | 1,638 |
+| Votes with party majority | 1,594 |
+| Party-line loyalty | 97.3% |
+| Deviations from party | 44 |
+
+**Coverage:**
+
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 44):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-03-27 | h105-119.2 | Yea | N | HR 7084 |
+| 2026-01-22 | h45-119.2 | Nay | Y | HR 7148 |
+| 2026-01-14 | h28-119.2 | Nay | Y | HR 7006 |
+| 2025-12-11 | h328-119.1 | Aye | N | HR 3383 |
+| 2025-12-10 | h320-119.1 | Nay | Y | S 1071 |
+| 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
+| 2025-07-17 | h199-119.1 | Yea | N | HR 3633 |
+| 2025-06-12 | h166-119.1 | Nay | Y | S 331 |
+| 2025-06-03 | h147-119.1 | Nay | Y | HR 1804 |
+| 2025-02-06 | h33-119.1 | Yea | N | HR 27 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
 ### Wikipedia

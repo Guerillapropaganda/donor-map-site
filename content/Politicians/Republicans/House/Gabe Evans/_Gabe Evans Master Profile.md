@@ -44,3 +44,39 @@ urls-first-triaged: "2026-04-15"
 # Gabe Evans
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 485 |
+| Substantive votes (Y/N) | 482 |
+| Votes with party majority | 467 |
+| Party-line loyalty | 96.9% |
+| Deviations from party | 15 |
+
+**Coverage:**
+
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 15):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-02-24 | h72-119.2 | Yea | N | S 2503 |
+| 2026-01-22 | h44-119.2 | No | Y | — |
+| 2026-01-14 | h27-119.2 | No | Y | — |
+| 2026-01-08 | h9-119.2 | Yea | N | HR 131 |
+| 2025-12-18 | h354-119.1 | No | Y | — |
+| 2025-12-18 | h353-119.1 | No | Y | — |
+| 2025-12-18 | h352-119.1 | No | Y | — |
+| 2025-12-17 | h351-119.1 | Nay | Y | HR 3492 |
+| 2025-12-11 | h332-119.1 | Yea | N | HR 2550 |
+| 2025-09-10 | h250-119.1 | No | Y | — |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->

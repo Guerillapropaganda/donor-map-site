@@ -50,3 +50,31 @@ urls-first-triaged: "2026-04-15"
 # James C. Justice
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 740 |
+| Substantive votes (Y/N) | 706 |
+| Votes with party majority | 704 |
+| Party-line loyalty | 99.7% |
+| Deviations from party | 2 |
+
+**Coverage:**
+
+- senate 119/1: 657 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 2):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s521-119.1 | Nay | Y | S.Con.Res. 22 |
+| February 2 | s77-119.1 | Yea | N | — |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->

@@ -183,6 +183,7 @@ const SOURCES = [
   'usaspending-bulk',
   'usaspending-grants-bulk',
   'fec-individual-bulk',
+  'irs-990-bulk',
 ];
 
 const STATUSES = ['active', 'historical', 'disputed', 'deprecated'];

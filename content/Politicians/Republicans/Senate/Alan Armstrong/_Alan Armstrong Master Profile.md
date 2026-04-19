@@ -43,3 +43,23 @@ urls-first-triaged: "2026-04-15"
 # Alan Armstrong
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 20 |
+| Substantive votes (Y/N) | 20 |
+| Votes with party majority | 20 |
+| Party-line loyalty | 100.0% |
+| Deviations from party | 0 |
+
+**Coverage:**
+
+- senate 119/2: 20 votes
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->

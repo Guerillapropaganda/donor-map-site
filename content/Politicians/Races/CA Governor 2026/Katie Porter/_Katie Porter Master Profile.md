@@ -369,27 +369,38 @@ The labor endorsement pattern reveals something: the industrial unions (Teamster
 
 ### Voting Record
 <!-- auto:voting-record start -->
-**Key Votes**
 
-| 2024-12-20 | H.R. 10545 (118th): American Relief Act, 2025 | **Yea** | Passed |
-| 2024-12-19 | H.R. 10515 (118th): American Relief Act, 2025 | **Nay** | Failed |
-| 2024-12-18 | S. 759 (118th): Beagle Brigade Act of 2023 | **Not Voting** | Passed |
-| 2024-12-18 | H.R. 8663 (118th): DETECT Fentanyl and Xylazine Act of 2024 | **Not Voting** | Passed |
-| 2024-12-18 | S. 3857 (118th): Jamul Indian Village Land Transfer Act | **Not Voting** | Passed |
-| 2024-12-18 | S. 1351 (118th): Stop Institutional Child Abuse Act | **Not Voting** | Passed |
-| 2024-12-17 | H.R. 1101 (118th): Lumbee Fairness Act | **Not Voting** | Passed |
-| 2024-12-17 | S. 3448 (118th): Never Again Education Reauthorization Act of 2023 | **Not Voting** | Passed |
-| 2024-12-17 | H.R. 115 (118th): Midnight Rules Relief Act | **Not Voting** | Passed |
-| 2024-12-17 | H.Res. 1616 (118th): Providing for consideration of the bill (H.R. 115) to amend chapter 8 of title 5, United States Cod | **Not Voting** | Passed |
-| 2024-12-16 | S. 4077 (118th): A bill to designate the facility of the United States Postal Service located at 180 Steuart Street in S | **Not Voting** | Passed |
-| 2024-12-16 | S. 141 (118th): Senator Elizabeth Dole 21st Century Veterans Healthcare and Benefits Improvement Act | **Not Voting** | Passed |
-| 2024-12-16 | S. 3998 (118th): Federal Judiciary Stabilization Act of 2024 | **Not Voting** | Passed |
-| 2024-12-16 | H.R. 7213 (118th): Autism CARES Act of 2024 | **Not Voting** | Passed |
-| 2024-12-12 | S. 4199 (118th): JUDGES Act of 2024 | **Nay** | Passed |
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
-**Sources**
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,241 |
+| Substantive votes (Y/N) | 1,066 |
+| Votes with party majority | 1,037 |
+| Party-line loyalty | 97.3% |
+| Deviations from party | 29 |
 
-- [GovTrack: Katie Porter](https://www.govtrack.us/congress/members/412758) (Tier 1) (NEEDS REVIEW)
+**Coverage:**
+
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+
+**Most recent party-line deviations (top 10 of 29):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2024-07-22 | h357-118.2 | Nay | Y | HR 1631 |
+| 2024-06-13 | h264-118.2 | Aye | N | — |
+| 2024-05-17 | h218-118.2 | Nay | Y | HRES 1213 |
+| 2024-05-01 | h172-118.2 | Nay | Y | HR 6090 |
+| 2024-04-17 | h136-118.2 | Yea | N | HR 4639 |
+| 2024-04-16 | h134-118.2 | Nay | Y | HRES 883 |
+| 2024-04-16 | h131-118.2 | Nay | Y | HR 5826 |
+| 2024-04-12 | h119-118.2 | No | Y | HR 7888 |
+| 2024-04-12 | h118-118.2 | No | Y | — |
+| 2024-04-12 | h115-118.2 | Aye | N | — |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
 ### Legislative Activity (118th Congress)

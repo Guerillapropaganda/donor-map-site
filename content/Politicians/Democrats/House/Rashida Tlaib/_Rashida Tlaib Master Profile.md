@@ -350,29 +350,40 @@ The structural trap is visible: Tlaib's small-dollar model proves the alternativ
 
 ## Voting Record
 <!-- auto:voting-record start -->
-**Key Votes**
 
-| Date | Vote | Position | Result |
-|------|------|----------|--------|
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Nay** | Passed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Department of Homeland Security. | **Nay** | Passed |
-| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | **Nay** | Passed |
-| 2026-03-25 | H.Res. 1131: Providing for consideration of the bill (H.R. 8029) making appropriations for the Department of Homeland Se | **No** | Passed |
-| 2026-03-24 | H.R. 6422: American Water Stewardship Act | **Yea** | Passed |
-| 2026-03-19 | H.R. 4638: Federal Working Animal Protection Act | **Nay** | Passed |
-| 2026-03-18 | H.J.Res. 139: Proposing an amendment to the Constitution of the United States requiring a balanced budget for the Federa | **Nay** | Failed |
-| 2026-03-18 | H.R. 1958: Deporting Fraudsters Act of 2026 | **Nay** | Passed |
-| 2026-03-18 | H.R. 556: Protecting Access for Hunters and Anglers Act | **No** | Passed |
-| 2026-03-17 | H.Res. 1115: Providing for consideration of the bill (H.R. 556) to prohibit the Secretary of the Interior and the Secret | **No** | Passed |
-| 2026-03-17 | S. 3971: Small Business Innovation and Economic Security Act | **Yea** | Passed |
-| 2026-03-17 | H.R. 4294: MAWS Act of 2026 | **Yea** | Passed |
-| 2026-03-05 | H.R. 7744: Department of Homeland Security Appropriations Act, 2026 | **Nay** | Passed |
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
-**Sources**
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,726 |
+| Substantive votes (Y/N) | 1,649 |
+| Votes with party majority | 1,518 |
+| Party-line loyalty | 92.1% |
+| Deviations from party | 131 |
 
-- [GovTrack: Rashida Tlaib](https://www.govtrack.us/congress/members/412787) (Tier 1) (NEEDS REVIEW)
+**Coverage:**
+
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 131):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-03-05 | h84-119.2 | Nay | Y | HRES 1099 |
+| 2026-01-22 | h45-119.2 | Nay | Y | HR 7148 |
+| 2026-01-20 | h33-119.2 | Nay | Y | HR 5764 |
+| 2026-01-15 | h29-119.2 | Nay | Y | — |
+| 2026-01-14 | h28-119.2 | Nay | Y | HR 7006 |
+| 2026-01-12 | h14-119.2 | Nay | Y | HR 6500 |
+| 2026-01-08 | h7-119.2 | Nay | Y | HR 6938 |
+| 2026-01-08 | h6-119.2 | Nay | Y | HR 6938 |
+| 2026-01-08 | h5-119.2 | Nay | Y | HR 6938 |
+| 2025-12-10 | h320-119.1 | Nay | Y | S 1071 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-15 -->

@@ -204,9 +204,40 @@ The AIPAC speaker preservation sequence is the clearest proof that donor priorit
 
 ## Voting Record
 <!-- auto:voting-record start -->
-**Sources**
 
-- [GovTrack: Mike Johnson](https://www.govtrack.us/congress/members/412706) (Tier 1) (NEEDS REVIEW)
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,258 |
+| Substantive votes (Y/N) | 1,215 |
+| Votes with party majority | 1,179 |
+| Party-line loyalty | 97.0% |
+| Deviations from party | 36 |
+
+**Coverage:**
+
+- house 118/1: 567 votes
+- house 118/2: 317 votes
+- house 119/1: 261 votes
+- house 119/2: 113 votes
+
+**Most recent party-line deviations (top 10 of 36):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2024-06-12 | h259-118.2 | Aye | N | — |
+| 2024-04-20 | h151-118.2 | Yea | N | HR 8035 |
+| 2024-04-12 | h114-118.2 | No | Y | — |
+| 2024-03-22 | h102-118.2 | Yea | N | HRES 1102 |
+| 2023-10-26 | h554-118.1 | Aye | N | — |
+| 2023-09-30 | h513-118.1 | Nay | Y | HR 5860 |
+| 2023-09-28 | h497-118.1 | Aye | N | — |
+| 2023-09-28 | h476-118.1 | Aye | N | — |
+| 2023-09-28 | h474-118.1 | Aye | N | — |
+| 2023-09-28 | h473-118.1 | Aye | N | — |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
 ### Influence Network (Cross-Reference)

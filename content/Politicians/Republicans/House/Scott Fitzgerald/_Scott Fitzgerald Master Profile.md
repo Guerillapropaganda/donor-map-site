@@ -99,6 +99,43 @@ top-donors: "[[Care Action]], [[AIPAC - American Israel Public Affairs Committee
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,726 |
+| Substantive votes (Y/N) | 1,681 |
+| Votes with party majority | 1,612 |
+| Party-line loyalty | 95.9% |
+| Deviations from party | 69 |
+
+**Coverage:**
+
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 69):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-03-04 | h82-119.2 | Nay | Y | HR 6472 |
+| 2025-09-10 | h255-119.1 | Aye | N | — |
+| 2025-09-03 | h231-119.1 | No | Y | — |
+| 2025-07-18 | h210-119.1 | Aye | N | — |
+| 2025-07-18 | h209-119.1 | Aye | N | — |
+| 2025-07-18 | h206-119.1 | Aye | N | — |
+| 2025-07-18 | h204-119.1 | Aye | N | — |
+| 2025-03-27 | h80-119.1 | Aye | N | — |
+| 2024-11-20 | h475-118.2 | Nay | Y | HR 8368 |
+| 2024-11-12 | h456-118.2 | Nay | Y | HR 82 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 # Scott Fitzgerald
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

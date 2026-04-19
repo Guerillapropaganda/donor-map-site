@@ -112,6 +112,43 @@ reenrich-reason: "launch-50 audit: only 4 auto-blocks (threshold: 5)"
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,983 |
+| Substantive votes (Y/N) | 1,929 |
+| Votes with party majority | 1,793 |
+| Party-line loyalty | 92.9% |
+| Deviations from party | 135 |
+
+**Coverage:**
+
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 135):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| May 22, 20 | s277-119.1 | Yea | N | H.J.Res. 88 |
+| May 21, 20 | s263-119.1 | Yea | N | S. 1582 |
+| May 19, 20 | s262-119.1 | Yea | N | S. 1582 |
+| May 13, 20 | s245-119.1 | Yea | N | PN 12-30 |
+| May 13, 20 | s246-119.1 | Yea | N | PN 12-30 |
+| March 9, 2 | s48-119.2 | Yea | N | PN 711 |
+| March 6, 2 | s109-119.1 | Yea | N | PN 11-4 |
+| March 26,  | s151-119.1 | Yea | N | H.J.Res. 25 |
+| March 26,  | s150-119.1 | Yea | N | H.J.Res. 25 |
+| March 25,  | s138-119.1 | Yea | N | PN 13-8 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 # Elissa Slotkin
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

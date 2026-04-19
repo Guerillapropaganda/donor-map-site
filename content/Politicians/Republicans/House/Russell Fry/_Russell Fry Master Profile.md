@@ -104,6 +104,43 @@ top-policy-area: Crime and Law Enforcement
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,726 |
+| Substantive votes (Y/N) | 1,689 |
+| Votes with party majority | 1,546 |
+| Party-line loyalty | 91.5% |
+| Deviations from party | 143 |
+
+**Coverage:**
+
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 143):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-03-17 | h89-119.2 | Nay | Y | S 3971 |
+| 2026-03-17 | h88-119.2 | Nay | Y | HR 4294 |
+| 2026-03-04 | h82-119.2 | Nay | Y | HR 6472 |
+| 2026-03-04 | h81-119.2 | Nay | Y | S 723 |
+| 2026-02-24 | h72-119.2 | Yea | N | S 2503 |
+| 2026-01-20 | h33-119.2 | Nay | Y | HR 5764 |
+| 2026-01-12 | h15-119.2 | Nay | Y | HR 6504 |
+| 2026-01-12 | h14-119.2 | Nay | Y | HR 6500 |
+| 2025-12-11 | h325-119.1 | Aye | N | — |
+| 2025-09-10 | h256-119.1 | Aye | N | — |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 # Russell Fry
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

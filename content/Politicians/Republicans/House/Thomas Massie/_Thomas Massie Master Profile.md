@@ -110,6 +110,43 @@ top-donors: "[[iHeartMedia]], [[MAJORITY PAC]], [[Save America PAC]], [[WinRed]]
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,726 |
+| Substantive votes (Y/N) | 1,565 |
+| Votes with party majority | 1,193 |
+| Party-line loyalty | 76.2% |
+| Deviations from party | 372 |
+
+**Coverage:**
+
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 372):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-04-17 | h124-119.2 | No | Y | HRES 1175 |
+| 2026-04-17 | h123-119.2 | Nay | Y | — |
+| 2026-04-16 | h114-119.2 | Yea | N | HCONRES 40 |
+| 2026-04-14 | h109-119.2 | Nay | Y | HR 1011 |
+| 2026-03-24 | h97-119.2 | Nay | Y | HR 6422 |
+| 2026-03-17 | h89-119.2 | Nay | Y | S 3971 |
+| 2026-03-17 | h88-119.2 | Nay | Y | HR 4294 |
+| 2026-03-05 | h85-119.2 | Yea | N | HCONRES 38 |
+| 2026-03-04 | h83-119.2 | Nay | Y | HRES 1100 |
+| 2026-03-04 | h82-119.2 | Nay | Y | HR 6472 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 # Thomas Massie
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

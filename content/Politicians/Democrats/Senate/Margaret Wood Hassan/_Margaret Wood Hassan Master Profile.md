@@ -81,3 +81,41 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 - [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
 <!-- auto:congress-bills end -->
+
+
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,433 |
+| Substantive votes (Y/N) | 1,413 |
+| Votes with party majority | 1,305 |
+| Party-line loyalty | 92.4% |
+| Deviations from party | 107 |
+
+**Coverage:**
+
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 107):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| October 31 | s277-118.1 | Yea | N | — |
+| October 27 | s589-119.1 | Yea | N | PN 466-3 |
+| October 25 | s269-118.1 | Yea | N | — |
+| October 22 | s582-119.1 | Yea | N | PN 466-3 |
+| October 21 | s577-119.1 | Yea | N | PN 466-6 |
+| October 16 | s574-119.1 | Yea | N | PN 466-6 |
+| November 9 | s610-119.1 | Yea | N | H.R. 5371 |
+| November 5 | s606-119.1 | Yea | N | PN 25-37 |
+| November 5 | s607-119.1 | Yea | N | PN 25-37 |
+| November 1 | s618-119.1 | Yea | N | H.R. 5371 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->

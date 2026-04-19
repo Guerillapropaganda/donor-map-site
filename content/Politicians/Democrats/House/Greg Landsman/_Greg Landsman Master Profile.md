@@ -110,6 +110,43 @@ top-donors: "[[National Association of Realtors]], [[United Food and Commercial 
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,726 |
+| Substantive votes (Y/N) | 1,641 |
+| Votes with party majority | 1,528 |
+| Party-line loyalty | 93.1% |
+| Deviations from party | 113 |
+
+**Coverage:**
+
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 113):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-03-19 | h96-119.2 | Yea | N | HR 4638 |
+| 2026-03-18 | h94-119.2 | Yea | N | HR 1958 |
+| 2026-03-05 | h85-119.2 | Nay | Y | HCONRES 38 |
+| 2026-02-12 | h70-119.2 | Yea | N | HR 2189 |
+| 2026-01-09 | h12-119.2 | Yea | N | HR 5184 |
+| 2025-12-04 | h314-119.1 | Yea | N | HR 1049 |
+| 2025-12-04 | h313-119.1 | Yea | N | HR 1069 |
+| 2025-12-03 | h312-119.1 | Yea | N | HR 1005 |
+| 2025-12-03 | h311-119.1 | Yea | N | HR 4305 |
+| 2025-12-03 | h310-119.1 | Yea | N | HR 2965 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 # Greg Landsman
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

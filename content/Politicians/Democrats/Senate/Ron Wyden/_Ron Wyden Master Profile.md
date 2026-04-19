@@ -117,6 +117,43 @@ top-policy-area: Health
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,433 |
+| Substantive votes (Y/N) | 1,408 |
+| Votes with party majority | 1,365 |
+| Party-line loyalty | 96.9% |
+| Deviations from party | 42 |
+
+**Coverage:**
+
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 42):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s503-119.1 | Nay | Y | S. 2296 |
+| September  | s500-119.1 | Nay | Y | S. 2296 |
+| October 9, | s570-119.1 | Nay | Y | S. 2296 |
+| October 9, | s568-119.1 | Yea | N | — |
+| October 9, | s563-119.1 | Yea | N | — |
+| November 1 | s313-118.1 | Nay | Y | H.R. 2670 |
+| November 1 | s614-119.1 | Nay | Y | — |
+| May 3, 202 | s109-118.1 | Yea | N | H.J.Res. 39 |
+| May 16, 20 | s169-118.2 | Yea | N | H.J.Res. 109 |
+| March 6, 2 | s110-119.1 | Nay | Y | S. 331 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 #ron-wyden #democrat #oregon #senate #ranking-member #phase-6-gavel-power #finance #tax-policy #privacy #tech #class-analysis #follow-the-money
 
 donors:

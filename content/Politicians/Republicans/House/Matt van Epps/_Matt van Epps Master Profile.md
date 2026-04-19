@@ -59,3 +59,30 @@ top-donors: "[[CoreCivic]], [[Amazon]], [[Koch Network - Charles Koch]], [[Tyson
 # Matt van Epps
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 174 |
+| Substantive votes (Y/N) | 173 |
+| Votes with party majority | 172 |
+| Party-line loyalty | 99.4% |
+| Deviations from party | 1 |
+
+**Coverage:**
+
+- house 119/1: 50 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 1):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-02-24 | h72-119.2 | Yea | N | S 2503 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->

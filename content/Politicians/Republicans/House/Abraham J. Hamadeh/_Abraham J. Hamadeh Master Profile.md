@@ -44,3 +44,39 @@ urls-first-triaged: "2026-04-15"
 # Abraham J. Hamadeh
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 485 |
+| Substantive votes (Y/N) | 477 |
+| Votes with party majority | 458 |
+| Party-line loyalty | 96.0% |
+| Deviations from party | 19 |
+
+**Coverage:**
+
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 19):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-03-17 | h88-119.2 | Nay | Y | HR 4294 |
+| 2026-03-04 | h81-119.2 | Nay | Y | S 723 |
+| 2026-02-24 | h72-119.2 | Yea | N | S 2503 |
+| 2025-11-19 | h300-119.1 | Nay | Y | HR 4058 |
+| 2025-09-10 | h255-119.1 | Aye | N | — |
+| 2025-09-10 | h244-119.1 | Aye | N | — |
+| 2025-09-04 | h237-119.1 | Aye | N | — |
+| 2025-09-03 | h229-119.1 | Aye | N | — |
+| 2025-07-23 | h217-119.1 | Nay | Y | HR 3357 |
+| 2025-07-22 | h216-119.1 | Nay | Y | HR 1917 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->

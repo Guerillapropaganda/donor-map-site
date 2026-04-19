@@ -111,6 +111,43 @@ top-policy-area: Health
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,433 |
+| Substantive votes (Y/N) | 1,432 |
+| Votes with party majority | 1,373 |
+| Party-line loyalty | 95.9% |
+| Deviations from party | 57 |
+
+**Coverage:**
+
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 57):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s533-119.1 | Nay | Y | S. 2806 |
+| September  | s522-119.1 | Nay | Y | PN 55-25 |
+| September  | s513-119.1 | Nay | Y | S.Res. 377 |
+| October 23 | s585-119.1 | Nay | Y | S. 3012 |
+| October 22 | s581-119.1 | Nay | Y | H.R. 5371 |
+| October 20 | s576-119.1 | Nay | Y | H.R. 5371 |
+| October 16 | s573-119.1 | Nay | Y | H.R. 5371 |
+| October 16 | s575-119.1 | Nay | Y | H.R. 4016 |
+| October 14 | s571-119.1 | Nay | Y | H.R. 5371 |
+| November 3 | s325-118.1 | Nay | Y | PN 500 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 #john-thune #republican #senate #majority-leader #south-dakota #telecom #insurance #net-neutrality #class-analysis #follow-the-money
 
 donors: [[NextEra Energy]], [[Goldman Sachs]], [[Insurance Industry]]

@@ -116,6 +116,43 @@ top-donors: "[[American Federation of State County & Municipal Employees P E O P
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,433 |
+| Substantive votes (Y/N) | 1,420 |
+| Votes with party majority | 1,319 |
+| Party-line loyalty | 92.9% |
+| Deviations from party | 100 |
+
+**Coverage:**
+
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 100):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| October 31 | s277-118.1 | Yea | N | — |
+| October 25 | s266-118.1 | Yea | N | — |
+| October 25 | s269-118.1 | Yea | N | — |
+| October 25 | s268-118.1 | Yea | N | — |
+| November 9 | s610-119.1 | Yea | N | H.R. 5371 |
+| November 1 | s618-119.1 | Yea | N | H.R. 5371 |
+| November 1 | s617-119.1 | Yea | N | H.R. 5371 |
+| November 1 | s616-119.1 | Yea | N | — |
+| November 1 | s615-119.1 | Yea | N | — |
+| November 1 | s611-119.1 | Yea | N | H.R. 5371 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 # Jacky Rosen
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

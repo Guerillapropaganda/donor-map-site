@@ -108,6 +108,43 @@ top-donors: "[[Walmart - Walton Family]], [[United Food and Commercial Workers I
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,726 |
+| Substantive votes (Y/N) | 1,623 |
+| Votes with party majority | 1,589 |
+| Party-line loyalty | 97.9% |
+| Deviations from party | 34 |
+
+**Coverage:**
+
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 34):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-03-05 | h84-119.2 | Nay | Y | HRES 1099 |
+| 2026-01-14 | h28-119.2 | Nay | Y | HR 7006 |
+| 2025-12-10 | h320-119.1 | Nay | Y | S 1071 |
+| 2025-12-03 | h311-119.1 | Yea | N | HR 4305 |
+| 2025-06-24 | h175-119.1 | Nay | Y | HRES 537 |
+| 2025-06-09 | h158-119.1 | Yea | N | HRES 488 |
+| 2025-03-11 | h68-119.1 | Yea | N | HR 1156 |
+| 2025-02-06 | h33-119.1 | Yea | N | HR 27 |
+| 2025-01-23 | h25-119.1 | Yea | N | HR 471 |
+| 2024-12-17 | h511-118.2 | Nay | Y | HR 1101 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 # Steve Cohen
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

@@ -115,6 +115,43 @@ top-policy-area: International Affairs
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,726 |
+| Substantive votes (Y/N) | 1,559 |
+| Votes with party majority | 1,516 |
+| Party-line loyalty | 97.2% |
+| Deviations from party | 43 |
+
+**Coverage:**
+
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 43):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2025-09-03 | h229-119.1 | Aye | N | — |
+| 2025-07-18 | h206-119.1 | Aye | N | — |
+| 2025-07-15 | h195-119.1 | No | Y | HRES 580 |
+| 2025-06-23 | h174-119.1 | Nay | Y | HR 3422 |
+| 2025-03-27 | h80-119.1 | Aye | N | — |
+| 2024-07-23 | h382-118.2 | No | Y | — |
+| 2024-07-11 | h350-118.2 | No | Y | — |
+| 2024-06-27 | h323-118.2 | Aye | N | — |
+| 2024-04-20 | h151-118.2 | Yea | N | HR 8035 |
+| 2024-04-17 | h136-118.2 | Nay | Y | HR 4639 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 #politician #republican #house #louisiana #energy #fossil-fuel #climate #leadership #class-analysis #follow-the-money #gavel-power
 
 ---

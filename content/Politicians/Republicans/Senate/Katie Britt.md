@@ -107,6 +107,43 @@ top-policy-area: International Affairs
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,433 |
+| Substantive votes (Y/N) | 1,381 |
+| Votes with party majority | 1,340 |
+| Party-line loyalty | 97.0% |
+| Deviations from party | 39 |
+
+**Coverage:**
+
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 39):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s244-118.1 | Nay | Y | PN 183 |
+| September  | s241-118.1 | Nay | Y | H.R. 3935 |
+| September  | s240-118.1 | Nay | Y | H.R. 3935 |
+| September  | s255-118.2 | Nay | Y | H.R. 9747 |
+| October 29 | s597-119.1 | Yea | N | S.J.Res. 69 |
+| October 26 | s271-118.1 | Nay | Y | — |
+| November 3 | s325-118.1 | Nay | Y | PN 500 |
+| May 16, 20 | s170-118.2 | Nay | Y | PN 1437 |
+| March 8, 2 | s82-118.2 | Nay | Y | H.R. 4366 |
+| March 28,  | s76-118.1 | Yea | N | S. 316 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 #katie-britt #senate #alabama #rising-star #business-council #donor-class-project #manufactured
 
 tags: #republican

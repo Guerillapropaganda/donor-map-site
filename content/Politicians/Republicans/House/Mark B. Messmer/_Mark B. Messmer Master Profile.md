@@ -44,3 +44,34 @@ urls-first-triaged: "2026-04-15"
 # Mark B. Messmer
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 485 |
+| Substantive votes (Y/N) | 469 |
+| Votes with party majority | 464 |
+| Party-line loyalty | 98.9% |
+| Deviations from party | 5 |
+
+**Coverage:**
+
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 5):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2025-09-03 | h232-119.1 | No | Y | — |
+| 2025-09-03 | h231-119.1 | No | Y | — |
+| 2025-09-03 | h230-119.1 | No | Y | — |
+| 2025-07-18 | h206-119.1 | Aye | N | — |
+| 2025-06-23 | h174-119.1 | Nay | Y | HR 3422 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->

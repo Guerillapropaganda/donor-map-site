@@ -235,8 +235,40 @@ The 2026 cycle reveals the scale. Torres has raised $5,052,480 with $1,616,453 f
 
 ### Voting Record
 <!-- auto:voting-record start -->
-**Sources**
 
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,726 |
+| Substantive votes (Y/N) | 1,631 |
+| Votes with party majority | 1,573 |
+| Party-line loyalty | 96.4% |
+| Deviations from party | 58 |
+
+**Coverage:**
+
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 58):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-01-09 | h12-119.2 | Yea | N | HR 5184 |
+| 2025-12-11 | h328-119.1 | Aye | N | HR 3383 |
+| 2025-12-10 | h320-119.1 | Nay | Y | S 1071 |
+| 2025-11-21 | h305-119.1 | Yea | N | HCONRES 58 |
+| 2025-11-19 | h302-119.1 | Nay | Y | HRES 893 |
+| 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
+| 2025-07-17 | h199-119.1 | Yea | N | HR 3633 |
+| 2025-06-09 | h158-119.1 | Yea | N | HRES 488 |
+| 2025-03-27 | h83-119.1 | Yea | N | HR 1048 |
+| 2025-03-11 | h71-119.1 | Yea | N | HJRES 25 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-15 -->

@@ -360,19 +360,29 @@ The final-years cognitive decline exposes the class infrastructure beneath the i
 
 ### Voting Record
 <!-- auto:voting-record start -->
-**Key Votes**
 
-| Date | Vote | Position | Result |
-|------|------|----------|--------|
-| 2023-09-28 | S.J.Res. 24 (118th): Congressional disapproval resolution | **Not Voting** | Veto Sustained |
-| 2023-09-28 | S.J.Res. 9 (118th): Congressional disapproval resolution | **Not Voting** | Veto Sustained |
-| 2023-09-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 3935 | **Not Voting** | Cloture Motion Agreed to |
-| 2023-09-21 | On the Nomination PN691: Gen. Eric M. Smith | **Not Voting** | Nomination Confirmed |
-| 2023-09-20 | On the Nomination PN677: Gen. Charles Q. Brown, Jr. | **Not Voting** | Nomination Confirmed |
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
-**Sources**
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 243 |
+| Substantive votes (Y/N) | 125 |
+| Votes with party majority | 123 |
+| Party-line loyalty | 98.4% |
+| Deviations from party | 2 |
 
-- [GovTrack: Dianne Feinstein](https://www.govtrack.us/congress/members/300043) (Tier 1)
+**Coverage:**
+
+- senate 118/1: 243 votes
+
+**Most recent party-line deviations (top 10 of 2):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| June 1, 20 | s145-118.1 | Nay | Y | — |
+| July 20, 2 | s194-118.1 | Nay | Y | — |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-13 -->

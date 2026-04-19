@@ -106,6 +106,43 @@ top-donors: "[[National Multifamily Housing Council]], [[United Food and Commerc
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,726 |
+| Substantive votes (Y/N) | 1,276 |
+| Votes with party majority | 1,248 |
+| Party-line loyalty | 97.8% |
+| Deviations from party | 28 |
+
+**Coverage:**
+
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 28):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-03-05 | h84-119.2 | Nay | Y | HRES 1099 |
+| 2025-12-10 | h320-119.1 | Nay | Y | S 1071 |
+| 2025-11-19 | h302-119.1 | Nay | Y | HRES 893 |
+| 2025-07-21 | h213-119.1 | Yea | N | HR 3095 |
+| 2025-06-24 | h175-119.1 | Nay | Y | HRES 537 |
+| 2025-06-12 | h166-119.1 | Nay | Y | S 331 |
+| 2024-05-01 | h172-118.2 | Nay | Y | HR 6090 |
+| 2024-04-17 | h136-118.2 | Yea | N | HR 4639 |
+| 2024-04-12 | h118-118.2 | No | Y | — |
+| 2024-04-12 | h116-118.2 | No | Y | — |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 # Dwight Evans
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

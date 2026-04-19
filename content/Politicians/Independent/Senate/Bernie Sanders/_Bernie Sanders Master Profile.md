@@ -416,8 +416,40 @@ For IBEW members specifically: Sanders' Raise the Wage Act, PRO Act, and prevail
 
 ### Voting Record
 <!-- auto:voting-record start -->
-**Sources**
 
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,433 |
+| Substantive votes (Y/N) | 1,309 |
+| Votes with party majority | 1,115 |
+| Party-line loyalty | 85.2% |
+| Deviations from party | 66 |
+
+**Coverage:**
+
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 66):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| October 25 | s269-118.1 | Nay | Y | — |
+| October 25 | s268-118.1 | Nay | Y | — |
+| October 18 | s260-118.1 | Nay | Y | S.J.Res. 32 |
+| November 7 | s293-118.1 | Nay | Y | PN 649 |
+| November 6 | s292-118.1 | Nay | Y | PN 649 |
+| November 1 | s313-118.1 | Nay | Y | H.R. 2670 |
+| November 1 | s282-118.1 | Nay | Y | — |
+| May 16, 20 | s126-118.1 | Nay | Y | H.J.Res. 42 |
+| May 1, 202 | s157-118.2 | Nay | Y | H.R. 3935 |
+| March 8, 2 | s49-118.1 | Nay | Y | H.J.Res. 26 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
 

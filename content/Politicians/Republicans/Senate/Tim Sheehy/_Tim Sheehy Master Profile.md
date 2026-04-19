@@ -106,6 +106,34 @@ top-donors: "[[National Rifle Association]], [[Drummond Co.]], [[Lockheed Martin
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 742 |
+| Substantive votes (Y/N) | 720 |
+| Votes with party majority | 717 |
+| Party-line loyalty | 99.6% |
+| Deviations from party | 3 |
+
+**Coverage:**
+
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 3):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| January 30 | s15-119.2 | Yea | N | — |
+| February 2 | s77-119.1 | Yea | N | — |
+| April 5, 2 | s181-119.1 | Yea | N | — |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 # Tim Sheehy
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

@@ -95,6 +95,43 @@ top-donors: "[[Teamsters - International Brotherhood of Teamsters]], [[National 
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,433 |
+| Substantive votes (Y/N) | 1,373 |
+| Votes with party majority | 1,309 |
+| Party-line loyalty | 95.3% |
+| Deviations from party | 64 |
+
+**Coverage:**
+
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 64):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s509-119.1 | Yea | N | PN 346-3 |
+| September  | s508-119.1 | Yea | N | PN 346-3 |
+| September  | s503-119.1 | Nay | Y | S. 2296 |
+| September  | s500-119.1 | Nay | Y | S. 2296 |
+| October 9, | s570-119.1 | Nay | Y | S. 2296 |
+| October 9, | s568-119.1 | Yea | N | — |
+| October 9, | s564-119.1 | Yea | N | — |
+| October 9, | s562-119.1 | Yea | N | — |
+| October 26 | s270-118.1 | Yea | N | S.J.Res. 44 |
+| October 21 | s577-119.1 | Yea | N | PN 466-6 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 # Peter Welch
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

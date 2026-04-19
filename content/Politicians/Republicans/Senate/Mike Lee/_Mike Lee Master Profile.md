@@ -118,6 +118,43 @@ top-policy-area: Health
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,433 |
+| Substantive votes (Y/N) | 1,367 |
+| Votes with party majority | 1,239 |
+| Party-line loyalty | 90.6% |
+| Deviations from party | 127 |
+
+**Coverage:**
+
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 127):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s214-118.1 | Nay | Y | PN 645 |
+| September  | s213-118.1 | Nay | Y | PN 645 |
+| September  | s247-118.1 | Nay | Y | H.R. 5860 |
+| September  | s241-118.1 | Nay | Y | H.R. 3935 |
+| September  | s240-118.1 | Nay | Y | H.R. 3935 |
+| September  | s255-118.2 | Nay | Y | H.R. 9747 |
+| September  | s249-118.2 | Nay | Y | PN 1399 |
+| September  | s237-118.1 | Nay | Y | PN 537 |
+| September  | s236-118.1 | Nay | Y | PN 537 |
+| September  | s235-118.1 | Nay | Y | PN 677 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 #mike-lee #senate #utah #federalist-society #antitrust #tech-deference #oil-gas #public-lands #january-6 #class-analysis
 tags: #republican
 

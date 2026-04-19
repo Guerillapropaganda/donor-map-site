@@ -257,3 +257,41 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 - ~~[Congress.gov: Bill Cassidy campaign finance summary](https://www.congress.gov/search?q=Bill%20Cassidy&searchResultViewType=expanded)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[19thNews: Trump backs Rep. Julia Letlow to challenge Sen. Bill Cassidy in Louisiana](https://19thnews.org/2026/01/louisiana-senate-2026-cassidy-letlow/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+
+
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,433 |
+| Substantive votes (Y/N) | 1,346 |
+| Votes with party majority | 1,262 |
+| Party-line loyalty | 93.8% |
+| Deviations from party | 82 |
+
+**Coverage:**
+
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 82):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s533-119.1 | Nay | Y | S. 2806 |
+| September  | s250-118.2 | Yea | N | PN 1342 |
+| September  | s251-118.2 | Yea | N | PN 1342 |
+| September  | s224-118.1 | Yea | N | PN 551 |
+| October 9, | s566-119.1 | Yea | N | — |
+| October 29 | s597-119.1 | Yea | N | S.J.Res. 69 |
+| October 17 | s255-118.1 | Yea | N | PN 812 |
+| October 16 | s254-118.1 | Yea | N | PN 812 |
+| November 7 | s293-118.1 | Yea | N | PN 649 |
+| November 6 | s292-118.1 | Yea | N | PN 649 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->

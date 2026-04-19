@@ -133,6 +133,43 @@ urls-first-triaged: "2026-04-15"
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,433 |
+| Substantive votes (Y/N) | 1,274 |
+| Votes with party majority | 1,135 |
+| Party-line loyalty | 89.1% |
+| Deviations from party | 139 |
+
+**Coverage:**
+
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 139):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s245-118.1 | Yea | N | PN 453 |
+| September  | s253-118.2 | Yea | N | PN 1902 |
+| September  | s251-118.2 | Yea | N | PN 1342 |
+| September  | s230-118.1 | Yea | N | PN 591 |
+| September  | s229-118.1 | Yea | N | PN 591 |
+| September  | s236-118.2 | Yea | N | PN 1807 |
+| September  | s235-118.2 | Yea | N | PN 1807 |
+| October 4, | s249-118.1 | Yea | N | PN 676 |
+| October 3, | s248-118.1 | Yea | N | PN 676 |
+| October 28 | s594-119.1 | Yea | N | S.J.Res. 81 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 #thom-tillis #senate #north-carolina #pharmaceutical #drug-pricing #research-triangle #intellectual-property #class-analysis
 
 donors: [[Pharmaceutical Industry Bloc]], [[Tech IP and Patent Lobbying]], [[Koch Network - Charles Koch]]

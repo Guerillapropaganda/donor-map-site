@@ -111,6 +111,43 @@ top-donors: "[[WinRed]], [[Northrop Grumman]], [[Morgan Stanley]], [[iHeartMedia
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,433 |
+| Substantive votes (Y/N) | 1,395 |
+| Votes with party majority | 1,272 |
+| Party-line loyalty | 91.2% |
+| Deviations from party | 121 |
+
+**Coverage:**
+
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 121):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s221-118.1 | Yea | N | PN 673 |
+| September  | s220-118.1 | Yea | N | PN 646 |
+| September  | s222-118.1 | Yea | N | PN 673 |
+| September  | s219-118.1 | Yea | N | PN 646 |
+| September  | s218-118.1 | Yea | N | PN 644 |
+| September  | s217-118.1 | Yea | N | PN 644 |
+| September  | s533-119.1 | Nay | Y | S. 2806 |
+| September  | s245-118.1 | Yea | N | PN 453 |
+| September  | s252-118.2 | Nay | Y | S.Con.Res. 41 |
+| September  | s521-119.1 | Nay | Y | S.Con.Res. 22 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 # Mike Rounds
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

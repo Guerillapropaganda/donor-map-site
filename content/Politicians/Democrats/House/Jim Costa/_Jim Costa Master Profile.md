@@ -111,6 +111,43 @@ top-policy-area: International Affairs
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,726 |
+| Substantive votes (Y/N) | 1,593 |
+| Votes with party majority | 1,464 |
+| Party-line loyalty | 91.9% |
+| Deviations from party | 129 |
+
+**Coverage:**
+
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 129):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-04-16 | h118-119.2 | Yea | N | HR 6398 |
+| 2026-04-16 | h116-119.2 | Yea | N | HR 6409 |
+| 2026-03-27 | h105-119.2 | Yea | N | HR 7084 |
+| 2026-02-11 | h67-119.2 | Yea | N | HR 261 |
+| 2026-02-11 | h64-119.2 | Yea | N | HR 3617 |
+| 2026-02-04 | h55-119.2 | Yea | N | HR 4090 |
+| 2026-01-09 | h12-119.2 | Yea | N | HR 5184 |
+| 2025-12-18 | h360-119.1 | Yea | N | HR 845 |
+| 2025-12-18 | h358-119.1 | Yea | N | HR 1366 |
+| 2025-12-18 | h356-119.1 | Yea | N | HR 4776 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 # Jim Costa
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

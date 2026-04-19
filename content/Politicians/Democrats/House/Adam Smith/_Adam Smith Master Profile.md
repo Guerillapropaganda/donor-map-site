@@ -531,27 +531,40 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 
 ### Voting Record
 <!-- auto:voting-record start -->
-**Key Votes**
 
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Nay** | Passed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Department of Homeland Security. | **Nay** | Passed |
-| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | **Nay** | Passed |
-| 2026-03-25 | H.Res. 1131: Providing for consideration of the bill (H.R. 8029) making appropriations for the Department of Homeland Se | **No** | Passed |
-| 2026-03-24 | H.R. 6422: American Water Stewardship Act | **Yea** | Passed |
-| 2026-03-19 | H.R. 4638: Federal Working Animal Protection Act | **Nay** | Passed |
-| 2026-03-18 | H.J.Res. 139: Proposing an amendment to the Constitution of the United States requiring a balanced budget for the Federa | **Nay** | Failed |
-| 2026-03-18 | H.R. 1958: Deporting Fraudsters Act of 2026 | **Nay** | Passed |
-| 2026-03-18 | H.R. 556: Protecting Access for Hunters and Anglers Act | **No** | Passed |
-| 2026-03-17 | H.Res. 1115: Providing for consideration of the bill (H.R. 556) to prohibit the Secretary of the Interior and the Secret | **No** | Passed |
-| 2026-03-17 | S. 3971: Small Business Innovation and Economic Security Act | **Yea** | Passed |
-| 2026-03-17 | H.R. 4294: MAWS Act of 2026 | **Yea** | Passed |
-| 2026-03-05 | H.R. 7744: Department of Homeland Security Appropriations Act, 2026 | **Nay** | Passed |
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
-**Sources**
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,726 |
+| Substantive votes (Y/N) | 1,666 |
+| Votes with party majority | 1,650 |
+| Party-line loyalty | 99.0% |
+| Deviations from party | 16 |
 
-- [GovTrack: Adam Smith](https://www.govtrack.us/congress/members/400379) (Tier 1) (NEEDS REVIEW)
+**Coverage:**
+
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 16):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2025-12-11 | h328-119.1 | Aye | N | HR 3383 |
+| 2025-09-17 | h275-119.1 | Yea | N | HR 5143 |
+| 2025-06-12 | h166-119.1 | Nay | Y | S 331 |
+| 2024-12-06 | h492-118.2 | Nay | Y | HR 5349 |
+| 2024-09-23 | h440-118.2 | Yea | N | S 2228 |
+| 2024-09-18 | h429-118.2 | Yea | N | HR 7909 |
+| 2024-06-05 | h243-118.2 | No | Y | — |
+| 2024-04-17 | h135-118.2 | Aye | N | — |
+| 2024-04-16 | h131-118.2 | Nay | Y | HR 5826 |
+| 2023-12-13 | h721-118.1 | Yea | N | HRES 927 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-18 -->

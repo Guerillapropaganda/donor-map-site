@@ -110,6 +110,43 @@ top-donors: "[[American Hospital Association PAC]], [[CHC BOLD PAC]], [[SEIU COP
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,726 |
+| Substantive votes (Y/N) | 1,617 |
+| Votes with party majority | 1,582 |
+| Party-line loyalty | 97.8% |
+| Deviations from party | 35 |
+
+**Coverage:**
+
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 35):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2025-11-21 | h305-119.1 | Yea | N | HCONRES 58 |
+| 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
+| 2025-07-17 | h199-119.1 | Yea | N | HR 3633 |
+| 2025-06-12 | h166-119.1 | Nay | Y | S 331 |
+| 2025-06-09 | h158-119.1 | Yea | N | HRES 488 |
+| 2025-03-11 | h71-119.1 | Yea | N | HJRES 25 |
+| 2025-02-06 | h33-119.1 | Yea | N | HR 27 |
+| 2025-01-09 | h7-119.1 | Yea | N | HR 23 |
+| 2024-12-11 | h500-118.2 | Yea | N | HR 5009 |
+| 2024-11-12 | h458-118.2 | Yea | N | HR 9495 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 # Lois Frankel
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

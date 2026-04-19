@@ -110,6 +110,43 @@ top-policy-area: Health
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,433 |
+| Substantive votes (Y/N) | 1,397 |
+| Votes with party majority | 1,360 |
+| Party-line loyalty | 97.4% |
+| Deviations from party | 35 |
+
+**Coverage:**
+
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 35):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s533-119.1 | Nay | Y | S. 2806 |
+| October 26 | s271-118.1 | Nay | Y | — |
+| November 1 | s311-118.1 | Nay | Y | — |
+| May 30, 20 | s133-118.1 | Yea | N | PN 455 |
+| May 23, 20 | s181-118.2 | Yea | N | PN 1212 |
+| May 22, 20 | s180-118.2 | Yea | N | PN 1212 |
+| May 17, 20 | s129-118.1 | Yea | N | PN 455 |
+| March 8, 2 | s79-118.2 | Yea | N | H.R. 4366 |
+| March 8, 2 | s82-118.2 | Nay | Y | H.R. 4366 |
+| March 8, 2 | s81-118.2 | Nay | Y | H.R. 4366 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 # Cindy Hyde-Smith
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

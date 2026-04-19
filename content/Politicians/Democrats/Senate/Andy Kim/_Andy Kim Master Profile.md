@@ -105,6 +105,44 @@ top-policy-area: Health
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,981 |
+| Substantive votes (Y/N) | 1,839 |
+| Votes with party majority | 1,768 |
+| Party-line loyalty | 96.1% |
+| Deviations from party | 70 |
+
+**Coverage:**
+
+- house 118/1: 724 votes
+- house 118/2: 492 votes
+- senate 118/2: 23 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 70):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| October 9, | s570-119.1 | Nay | Y | S. 2296 |
+| May 13, 20 | s245-119.1 | Yea | N | PN 12-30 |
+| May 13, 20 | s246-119.1 | Yea | N | PN 12-30 |
+| March 4, 2 | s101-119.1 | Yea | N | S.J.Res. 3 |
+| March 4, 2 | s102-119.1 | Yea | N | S.J.Res. 3 |
+| March 26,  | s151-119.1 | Yea | N | H.J.Res. 25 |
+| March 26,  | s150-119.1 | Yea | N | H.J.Res. 25 |
+| June 30, 2 | s352-119.1 | Nay | Y | — |
+| June 3, 20 | s287-119.1 | Yea | N | PN 22-16 |
+| June 3, 20 | s286-119.1 | Yea | N | PN 22-16 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 # Andy Kim
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

@@ -103,6 +103,36 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 742 |
+| Substantive votes (Y/N) | 739 |
+| Votes with party majority | 734 |
+| Party-line loyalty | 99.3% |
+| Deviations from party | 5 |
+
+**Coverage:**
+
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 5):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| July 1, 20 | s355-119.1 | Yea | N | — |
+| July 1, 20 | s360-119.1 | Yea | N | — |
+| February 2 | s77-119.1 | Yea | N | — |
+| August 1,  | s478-119.1 | Yea | N | — |
+| August 1,  | s477-119.1 | Yea | N | — |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 #bernie-moreno #senate #ohio #crypto-industry #trump-backed #auto-dealer #class-analysis
 tags: #republican
 

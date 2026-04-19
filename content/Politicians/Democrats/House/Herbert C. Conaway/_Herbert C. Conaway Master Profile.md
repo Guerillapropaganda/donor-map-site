@@ -44,3 +44,39 @@ urls-first-triaged: "2026-04-15"
 # Herbert C. Conaway
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 485 |
+| Substantive votes (Y/N) | 469 |
+| Votes with party majority | 455 |
+| Party-line loyalty | 97.0% |
+| Deviations from party | 14 |
+
+**Coverage:**
+
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 14):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2025-12-11 | h328-119.1 | Aye | N | HR 3383 |
+| 2025-11-21 | h305-119.1 | Yea | N | HCONRES 58 |
+| 2025-11-19 | h302-119.1 | Nay | Y | HRES 893 |
+| 2025-09-16 | h270-119.1 | Yea | N | HR 4922 |
+| 2025-07-21 | h213-119.1 | Yea | N | HR 3095 |
+| 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
+| 2025-07-17 | h199-119.1 | Yea | N | HR 3633 |
+| 2025-06-26 | h184-119.1 | Yea | N | HR 275 |
+| 2025-06-26 | h183-119.1 | Yea | N | HR 875 |
+| 2025-06-10 | h163-119.1 | Yea | N | HR 884 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->

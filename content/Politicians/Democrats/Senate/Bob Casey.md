@@ -126,8 +126,36 @@ Yet Casey remained unfazed. His pharma donors were reliable, his labor base felt
 
 ### Voting Record
 <!-- auto:voting-record start -->
-**Sources**
 
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 691 |
+| Substantive votes (Y/N) | 673 |
+| Votes with party majority | 665 |
+| Party-line loyalty | 98.8% |
+| Deviations from party | 8 |
+
+**Coverage:**
+
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+
+**Most recent party-line deviations (top 10 of 8):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| October 31 | s277-118.1 | Yea | N | — |
+| May 3, 202 | s109-118.1 | Yea | N | H.J.Res. 39 |
+| May 21, 20 | s176-118.2 | Yea | N | S.J.Res. 58 |
+| May 16, 20 | s169-118.2 | Yea | N | H.J.Res. 109 |
+| March 29,  | s80-118.1 | Yea | N | H.J.Res. 7 |
+| March 21,  | s101-118.2 | Nay | Y | S.J.Res. 62 |
+| June 1, 20 | s145-118.1 | Nay | Y | — |
+| April 19,  | s148-118.2 | Nay | Y | — |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
 ### Legislative Activity (Congress.gov)

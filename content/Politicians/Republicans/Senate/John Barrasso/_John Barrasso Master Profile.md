@@ -106,6 +106,43 @@ top-policy-area: International Affairs
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,433 |
+| Substantive votes (Y/N) | 1,315 |
+| Votes with party majority | 1,291 |
+| Party-line loyalty | 98.2% |
+| Deviations from party | 22 |
+
+**Coverage:**
+
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 22):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| November 7 | s293-118.1 | Yea | N | PN 649 |
+| November 1 | s284-118.1 | Nay | Y | H.R. 4366 |
+| March 28,  | s76-118.1 | Yea | N | S. 316 |
+| March 23,  | s114-118.2 | Nay | Y | H.R. 2882 |
+| March 14,  | s132-119.1 | Nay | Y | — |
+| June 13, 2 | s196-118.2 | Yea | N | PN 1469 |
+| June 12, 2 | s195-118.2 | Yea | N | PN 1469 |
+| June 1, 20 | s136-118.1 | Yea | N | — |
+| July 1, 20 | s360-119.1 | Yea | N | — |
+| February 2 | s77-119.1 | Yea | N | — |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 #politician #republican #senate #wyoming #energy #fossil-fuel #climate #class-analysis #follow-the-money #gavel-power
 
 ---

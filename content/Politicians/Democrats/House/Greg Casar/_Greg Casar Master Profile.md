@@ -126,3 +126,41 @@ Casar's thirst strike on the Capitol steps in February 2023, demanding federal h
 Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
 
 - ~~[Congress.gov: Greg Casar member profile](https://www.congress.gov/member/greg-casar/C001133)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,726 |
+| Substantive votes (Y/N) | 1,586 |
+| Votes with party majority | 1,501 |
+| Party-line loyalty | 94.6% |
+| Deviations from party | 85 |
+
+**Coverage:**
+
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 85):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-03-05 | h84-119.2 | Nay | Y | HRES 1099 |
+| 2026-01-22 | h45-119.2 | Nay | Y | HR 7148 |
+| 2025-12-10 | h320-119.1 | Nay | Y | S 1071 |
+| 2025-09-02 | h219-119.1 | Nay | Y | HR 4216 |
+| 2025-06-24 | h175-119.1 | Nay | Y | HRES 537 |
+| 2025-06-23 | h173-119.1 | Nay | Y | HR 3394 |
+| 2025-06-23 | h172-119.1 | Nay | Y | HR 1998 |
+| 2025-06-12 | h166-119.1 | Nay | Y | S 331 |
+| 2025-05-15 | h131-119.1 | Nay | Y | HR 2240 |
+| 2025-03-10 | h65-119.1 | Nay | Y | HR 993 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->

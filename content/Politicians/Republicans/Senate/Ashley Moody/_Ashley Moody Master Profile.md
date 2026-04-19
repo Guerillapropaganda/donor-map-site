@@ -100,6 +100,38 @@ top-donors: "[[National Association of Realtors]], [[Johnson & Johnson]], [[Sena
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 734 |
+| Substantive votes (Y/N) | 729 |
+| Votes with party majority | 722 |
+| Party-line loyalty | 99.0% |
+| Deviations from party | 7 |
+
+**Coverage:**
+
+- senate 119/1: 651 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 7):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| October 29 | s597-119.1 | Yea | N | S.J.Res. 69 |
+| January 29 | s13-119.2 | Nay | Y | H.R. 7148 |
+| February 2 | s77-119.1 | Yea | N | — |
+| August 1,  | s481-119.1 | Nay | Y | — |
+| August 1,  | s478-119.1 | Yea | N | — |
+| August 1,  | s477-119.1 | Yea | N | — |
+| August 1,  | s476-119.1 | Yea | N | — |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 # Ashley Moody
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

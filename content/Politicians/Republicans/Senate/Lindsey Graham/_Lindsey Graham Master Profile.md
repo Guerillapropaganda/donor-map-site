@@ -114,6 +114,43 @@ top-policy-area: International Affairs
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,433 |
+| Substantive votes (Y/N) | 1,349 |
+| Votes with party majority | 1,143 |
+| Party-line loyalty | 84.7% |
+| Deviations from party | 205 |
+
+**Coverage:**
+
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 205):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s231-118.2 | Yea | N | PN 1748 |
+| September  | s245-118.1 | Yea | N | PN 453 |
+| September  | s254-118.2 | Yea | N | PN 1902 |
+| September  | s253-118.2 | Yea | N | PN 1902 |
+| September  | s250-118.2 | Yea | N | PN 1342 |
+| September  | s251-118.2 | Yea | N | PN 1342 |
+| September  | s231-118.1 | Yea | N | PN 173 |
+| September  | s230-118.1 | Yea | N | PN 591 |
+| September  | s232-118.1 | Yea | N | PN 173 |
+| September  | s229-118.1 | Yea | N | PN 591 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 #lindsey-graham #senate #south-carolina #defense #trump #mccain #aipac #class-analysis #chameleon #follow-the-money
 
 donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Lockheed Martin]] · [[Boeing]] · [[Republican Jewish Coalition]]

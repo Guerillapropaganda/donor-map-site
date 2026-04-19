@@ -550,27 +550,38 @@ _No committee data found._
 
 ### Voting Record
 <!-- auto:voting-record start -->
-**Key Votes**
 
-| 2024-12-20 | H.R. 10545 (118th): American Relief Act, 2025 | **Yea** | Passed |
-| 2024-12-19 | H.R. 10515 (118th): American Relief Act, 2025 | **Nay** | Failed |
-| 2024-12-18 | S. 759 (118th): Beagle Brigade Act of 2023 | **Not Voting** | Passed |
-| 2024-12-18 | H.R. 8663 (118th): DETECT Fentanyl and Xylazine Act of 2024 | **Not Voting** | Passed |
-| 2024-12-18 | S. 3857 (118th): Jamul Indian Village Land Transfer Act | **Not Voting** | Passed |
-| 2024-12-18 | S. 1351 (118th): Stop Institutional Child Abuse Act | **Not Voting** | Passed |
-| 2024-12-17 | H.R. 1101 (118th): Lumbee Fairness Act | **Not Voting** | Passed |
-| 2024-12-17 | S. 3448 (118th): Never Again Education Reauthorization Act of 2023 | **Not Voting** | Passed |
-| 2024-12-17 | H.R. 115 (118th): Midnight Rules Relief Act | **Not Voting** | Passed |
-| 2024-12-17 | H.Res. 1616 (118th): Providing for consideration of the bill (H.R. 115) to amend chapter 8 of title 5, United States Cod | **Not Voting** | Passed |
-| 2024-12-16 | S. 4077 (118th): A bill to designate the facility of the United States Postal Service located at 180 Steuart Street in S | **Not Voting** | Passed |
-| 2024-12-16 | S. 141 (118th): Senator Elizabeth Dole 21st Century Veterans Healthcare and Benefits Improvement Act | **Not Voting** | Passed |
-| 2024-12-16 | S. 3998 (118th): Federal Judiciary Stabilization Act of 2024 | **Not Voting** | Passed |
-| 2024-12-16 | H.R. 7213 (118th): Autism CARES Act of 2024 | **Not Voting** | Passed |
-| 2024-12-12 | S. 4199 (118th): JUDGES Act of 2024 | **Nay** | Passed |
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
-**Sources**
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,241 |
+| Substantive votes (Y/N) | 1,045 |
+| Votes with party majority | 961 |
+| Party-line loyalty | 92.0% |
+| Deviations from party | 84 |
 
-- [GovTrack: Jamaal Bowman](https://www.govtrack.us/congress/members/456839) (Tier 1) (NEEDS REVIEW)
+**Coverage:**
+
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+
+**Most recent party-line deviations (top 10 of 84):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2024-05-17 | h218-118.2 | Nay | Y | HRES 1213 |
+| 2024-05-15 | h210-118.2 | Nay | Y | HR 6572 |
+| 2024-05-15 | h203-118.2 | Nay | Y | HR 7581 |
+| 2024-05-08 | h188-118.2 | Nay | Y | HRES 1209 |
+| 2024-05-01 | h172-118.2 | Nay | Y | HR 6090 |
+| 2024-04-20 | h152-118.2 | Nay | Y | HR 8034 |
+| 2024-04-20 | h145-118.2 | Nay | Y | HR 8038 |
+| 2024-04-19 | h142-118.2 | Nay | Y | HRES 1160 |
+| 2024-04-18 | h141-118.2 | Nay | Y | HRES 1143 |
+| 2024-04-17 | h136-118.2 | Yea | N | HR 4639 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-18 -->

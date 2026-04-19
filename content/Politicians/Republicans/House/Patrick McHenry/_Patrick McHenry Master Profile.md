@@ -405,27 +405,38 @@ When questioned about consumer harm or misconduct risk, McHenry invoked "free ma
 
 ### Voting Record
 <!-- auto:voting-record start -->
-**Key Votes**
 
-| 2024-12-20 | H.R. 10545 (118th): American Relief Act, 2025 | **Yea** | Passed |
-| 2024-12-19 | H.R. 10515 (118th): American Relief Act, 2025 | **Yea** | Failed |
-| 2024-12-18 | S. 759 (118th): Beagle Brigade Act of 2023 | **Not Voting** | Passed |
-| 2024-12-18 | H.R. 8663 (118th): DETECT Fentanyl and Xylazine Act of 2024 | **Yea** | Passed |
-| 2024-12-18 | S. 3857 (118th): Jamul Indian Village Land Transfer Act | **Yea** | Passed |
-| 2024-12-18 | S. 1351 (118th): Stop Institutional Child Abuse Act | **Yea** | Passed |
-| 2024-12-17 | H.R. 1101 (118th): Lumbee Fairness Act | **Not Voting** | Passed |
-| 2024-12-17 | S. 3448 (118th): Never Again Education Reauthorization Act of 2023 | **Not Voting** | Passed |
-| 2024-12-17 | H.R. 115 (118th): Midnight Rules Relief Act | **Not Voting** | Passed |
-| 2024-12-17 | H.Res. 1616 (118th): Providing for consideration of the bill (H.R. 115) to amend chapter 8 of title 5, United States Cod | **Aye** | Passed |
-| 2024-12-16 | S. 4077 (118th): A bill to designate the facility of the United States Postal Service located at 180 Steuart Street in S | **Not Voting** | Passed |
-| 2024-12-16 | S. 141 (118th): Senator Elizabeth Dole 21st Century Veterans Healthcare and Benefits Improvement Act | **Not Voting** | Passed |
-| 2024-12-16 | S. 3998 (118th): Federal Judiciary Stabilization Act of 2024 | **Not Voting** | Passed |
-| 2024-12-16 | H.R. 7213 (118th): Autism CARES Act of 2024 | **Not Voting** | Passed |
-| 2024-12-12 | S. 4199 (118th): JUDGES Act of 2024 | **Yea** | Passed |
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
-**Sources**
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,241 |
+| Substantive votes (Y/N) | 991 |
+| Votes with party majority | 926 |
+| Party-line loyalty | 93.4% |
+| Deviations from party | 65 |
 
-- [GovTrack: Patrick McHenry](https://www.govtrack.us/congress/members/400644) (Tier 1) (NEEDS REVIEW)
+**Coverage:**
+
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+
+**Most recent party-line deviations (top 10 of 65):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2024-07-24 | h387-118.2 | No | Y | — |
+| 2024-07-23 | h379-118.2 | No | Y | — |
+| 2024-07-23 | h377-118.2 | No | Y | — |
+| 2024-07-23 | h376-118.2 | No | Y | — |
+| 2024-07-23 | h373-118.2 | No | Y | — |
+| 2024-07-23 | h372-118.2 | No | Y | — |
+| 2024-07-23 | h371-118.2 | No | Y | — |
+| 2024-07-23 | h370-118.2 | No | Y | — |
+| 2024-07-23 | h369-118.2 | No | Y | — |
+| 2024-07-23 | h368-118.2 | No | Y | — |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
 ### Influence Network (Cross-Reference)

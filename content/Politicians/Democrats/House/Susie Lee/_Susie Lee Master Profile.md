@@ -111,6 +111,43 @@ top-donors: "[[AT&T - WarnerMedia]], [[General Motors]], [[CVS Health - Aetna]],
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,726 |
+| Substantive votes (Y/N) | 1,630 |
+| Votes with party majority | 1,500 |
+| Party-line loyalty | 92.0% |
+| Deviations from party | 130 |
+
+**Coverage:**
+
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 130):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-03-27 | h105-119.2 | Yea | N | HR 7084 |
+| 2026-02-04 | h55-119.2 | Yea | N | HR 4090 |
+| 2025-12-11 | h328-119.1 | Aye | N | HR 3383 |
+| 2025-12-11 | h324-119.1 | Yea | N | HR 3638 |
+| 2025-12-11 | h322-119.1 | Yea | N | HRES 939 |
+| 2025-12-03 | h311-119.1 | Yea | N | HR 4305 |
+| 2025-12-03 | h310-119.1 | Yea | N | HR 2965 |
+| 2025-11-21 | h305-119.1 | Yea | N | HCONRES 58 |
+| 2025-11-20 | h303-119.1 | Yea | N | HR 3109 |
+| 2025-11-19 | h299-119.1 | Yea | N | HR 5107 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 # Susie Lee
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

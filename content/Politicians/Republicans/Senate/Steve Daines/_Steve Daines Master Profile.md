@@ -111,6 +111,43 @@ top-donors: "[[AT&T - WarnerMedia]], [[DoorDash]], [[Johnson & Johnson]], [[Asso
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,433 |
+| Substantive votes (Y/N) | 1,370 |
+| Votes with party majority | 1,310 |
+| Party-line loyalty | 95.6% |
+| Deviations from party | 58 |
+
+**Coverage:**
+
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 58):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s241-118.1 | Nay | Y | H.R. 3935 |
+| September  | s240-118.1 | Nay | Y | H.R. 3935 |
+| November 3 | s325-118.1 | Nay | Y | PN 500 |
+| May 9, 202 | s161-118.2 | Nay | Y | H.R. 3935 |
+| May 21, 20 | s173-118.2 | Yea | N | PN 1460 |
+| May 21, 20 | s174-118.2 | Yea | N | PN 1460 |
+| March 8, 2 | s77-118.2 | Nay | Y | H.R. 4366 |
+| March 8, 2 | s84-118.2 | Nay | Y | H.R. 4366 |
+| March 8, 2 | s47-118.1 | Yea | N | PN 162 |
+| March 7, 2 | s75-118.2 | Yea | N | S. 3853 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 # Steve Daines
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

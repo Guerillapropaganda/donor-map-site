@@ -106,6 +106,43 @@ top-donors: "[[National Rifle Association]], [[Microsoft]], [[Jake Ellzey]], [[A
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,726 |
+| Substantive votes (Y/N) | 1,655 |
+| Votes with party majority | 1,399 |
+| Party-line loyalty | 84.5% |
+| Deviations from party | 256 |
+
+**Coverage:**
+
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 256):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-04-14 | h110-119.2 | Nay | Y | HR 7613 |
+| 2026-03-24 | h97-119.2 | Nay | Y | HR 6422 |
+| 2026-03-04 | h82-119.2 | Nay | Y | HR 6472 |
+| 2026-03-04 | h81-119.2 | Nay | Y | S 723 |
+| 2026-02-09 | h57-119.2 | Nay | Y | HR 6644 |
+| 2026-02-03 | h53-119.2 | Nay | Y | HR 7148 |
+| 2026-01-22 | h45-119.2 | Nay | Y | HR 7148 |
+| 2026-01-20 | h32-119.2 | Nay | Y | HR 5763 |
+| 2026-01-14 | h28-119.2 | Nay | Y | HR 7006 |
+| 2026-01-12 | h15-119.2 | Nay | Y | HR 6504 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 # Josh Brecheen
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

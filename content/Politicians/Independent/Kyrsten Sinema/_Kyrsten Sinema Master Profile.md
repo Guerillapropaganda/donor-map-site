@@ -373,8 +373,38 @@ _No committee data found._
 
 ### Voting Record
 <!-- auto:voting-record start -->
-**Sources**
 
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 691 |
+| Substantive votes (Y/N) | 616 |
+| Votes with party majority | 579 |
+| Party-line loyalty | 94.0% |
+| Deviations from party | 29 |
+
+**Coverage:**
+
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+
+**Most recent party-line deviations (top 10 of 29):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s240-118.2 | Nay | Y | PN 1574 |
+| September  | s239-118.2 | Nay | Y | PN 1574 |
+| October 31 | s277-118.1 | Yea | N | — |
+| October 25 | s266-118.1 | Yea | N | — |
+| November 8 | s303-118.1 | Yea | N | S.J.Res. 38 |
+| November 2 | s290-118.2 | Nay | Y | PN 1402 |
+| November 2 | s291-118.2 | Nay | Y | PN 1402 |
+| May 31, 20 | s134-118.1 | Yea | N | H.J.Res. 45 |
+| May 21, 20 | s176-118.2 | Yea | N | S.J.Res. 58 |
+| May 16, 20 | s169-118.2 | Yea | N | H.J.Res. 109 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
 ### Legislative Activity (118th Congress)

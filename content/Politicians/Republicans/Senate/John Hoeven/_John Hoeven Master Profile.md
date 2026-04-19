@@ -132,6 +132,43 @@ top-policy-area: International Affairs
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,433 |
+| Substantive votes (Y/N) | 1,399 |
+| Votes with party majority | 1,349 |
+| Party-line loyalty | 96.4% |
+| Deviations from party | 48 |
+
+**Coverage:**
+
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 48):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| October 29 | s597-119.1 | Yea | N | S.J.Res. 69 |
+| November 3 | s325-118.1 | Nay | Y | PN 500 |
+| May 23, 20 | s181-118.2 | Yea | N | PN 1212 |
+| May 22, 20 | s177-118.2 | Yea | N | PN 1462 |
+| May 22, 20 | s180-118.2 | Yea | N | PN 1212 |
+| May 21, 20 | s173-118.2 | Yea | N | PN 1460 |
+| May 21, 20 | s175-118.2 | Yea | N | PN 1462 |
+| May 21, 20 | s174-118.2 | Yea | N | PN 1460 |
+| May 15, 20 | s167-118.2 | Yea | N | PN 1436 |
+| March 8, 2 | s47-118.1 | Yea | N | PN 162 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 #politician #republican #senate #north-dakota #energy #oil-gas #agriculture #appropriations #pipeline #class-analysis #follow-the-money #gavel-power
 
 ---

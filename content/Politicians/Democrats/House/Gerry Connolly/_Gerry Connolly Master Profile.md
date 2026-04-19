@@ -198,8 +198,39 @@ Before Congress, Connolly worked at SRI International (a government contractor) 
 
 ### Voting Record
 <!-- auto:voting-record start -->
-**Sources**
 
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,378 |
+| Substantive votes (Y/N) | 1,265 |
+| Votes with party majority | 1,233 |
+| Party-line loyalty | 97.5% |
+| Deviations from party | 32 |
+
+**Coverage:**
+
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 137 votes
+
+**Most recent party-line deviations (top 10 of 32):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2025-03-11 | h68-119.1 | Yea | N | HR 1156 |
+| 2024-09-23 | h440-118.2 | Yea | N | S 2228 |
+| 2024-09-09 | h402-118.2 | Nay | Y | HR 8333 |
+| 2024-06-28 | h329-118.2 | Aye | N | — |
+| 2024-06-27 | h322-118.2 | Aye | N | — |
+| 2024-06-14 | h277-118.2 | Aye | N | — |
+| 2024-06-13 | h264-118.2 | Aye | N | — |
+| 2024-05-15 | h200-118.2 | Nay | Y | HR 3935 |
+| 2024-05-08 | h188-118.2 | Nay | Y | HRES 1209 |
+| 2024-05-08 | h187-118.2 | Nay | Y | HR 8289 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-15 -->

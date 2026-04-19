@@ -44,3 +44,39 @@ urls-first-triaged: "2026-04-15"
 # Craig A. Goldman
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 485 |
+| Substantive votes (Y/N) | 479 |
+| Votes with party majority | 468 |
+| Party-line loyalty | 97.7% |
+| Deviations from party | 11 |
+
+**Coverage:**
+
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 11):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-01-14 | h27-119.2 | No | Y | — |
+| 2025-09-04 | h237-119.1 | Aye | N | — |
+| 2025-09-03 | h229-119.1 | Aye | N | — |
+| 2025-07-22 | h216-119.1 | Nay | Y | HR 1917 |
+| 2025-07-18 | h206-119.1 | Aye | N | — |
+| 2025-07-14 | h192-119.1 | Nay | Y | HR 1770 |
+| 2025-05-19 | h132-119.1 | Nay | Y | HR 1263 |
+| 2025-05-13 | h124-119.1 | Nay | Y | HR 249 |
+| 2025-03-25 | h74-119.1 | Nay | Y | HR 1534 |
+| 2025-02-04 | h29-119.1 | Nay | Y | HR 776 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->

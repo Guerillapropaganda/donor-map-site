@@ -79,6 +79,43 @@ top-policy-area: "Health"
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,433 |
+| Substantive votes (Y/N) | 1,414 |
+| Votes with party majority | 1,374 |
+| Party-line loyalty | 97.2% |
+| Deviations from party | 40 |
+
+**Coverage:**
+
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 40):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| October 31 | s277-118.1 | Yea | N | — |
+| October 25 | s266-118.1 | Yea | N | — |
+| November 1 | s312-118.1 | Nay | Y | H.R. 6363 |
+| November 1 | s614-119.1 | Nay | Y | — |
+| March 6, 2 | s109-119.1 | Yea | N | PN 11-4 |
+| March 29,  | s80-118.1 | Yea | N | H.J.Res. 7 |
+| March 25,  | s138-119.1 | Yea | N | PN 13-8 |
+| March 25,  | s139-119.1 | Yea | N | PN 13-8 |
+| March 24,  | s137-119.1 | Yea | N | PN 12-25 |
+| March 23,  | s114-118.2 | Nay | Y | H.R. 2882 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 #michael-bennet #senator #colorado #education #reform #moderate #class-analysis #democrat
 tags: #democrat
 

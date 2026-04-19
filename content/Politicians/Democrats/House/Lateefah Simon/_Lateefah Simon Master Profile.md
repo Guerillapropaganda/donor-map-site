@@ -94,6 +94,41 @@ top-donors: "[[SEIU COPE]], [[League of Conservation Voters]], [[IBEW - Internat
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 485 |
+| Substantive votes (Y/N) | 471 |
+| Votes with party majority | 458 |
+| Party-line loyalty | 97.2% |
+| Deviations from party | 13 |
+
+**Coverage:**
+
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 13):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-03-05 | h84-119.2 | Nay | Y | HRES 1099 |
+| 2026-01-22 | h45-119.2 | Nay | Y | HR 7148 |
+| 2026-01-14 | h28-119.2 | Nay | Y | HR 7006 |
+| 2025-12-10 | h320-119.1 | Nay | Y | S 1071 |
+| 2025-09-19 | h282-119.1 | Nay | Y | HRES 719 |
+| 2025-09-02 | h220-119.1 | Nay | Y | HR 747 |
+| 2025-09-02 | h219-119.1 | Nay | Y | HR 4216 |
+| 2025-07-17 | h199-119.1 | Yea | N | HR 3633 |
+| 2025-06-24 | h175-119.1 | Nay | Y | HRES 537 |
+| 2025-06-23 | h172-119.1 | Nay | Y | HR 1998 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 # Lateefah Simon
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

@@ -119,6 +119,43 @@ top-donors: "[[Chevron]], [[National Victory Action Fund]], [[General Dynamics]]
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,726 |
+| Substantive votes (Y/N) | 1,617 |
+| Votes with party majority | 1,558 |
+| Party-line loyalty | 96.4% |
+| Deviations from party | 59 |
+
+**Coverage:**
+
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 59):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-02-24 | h72-119.2 | Yea | N | S 2503 |
+| 2026-01-08 | h11-119.2 | Yea | N | HR 1834 |
+| 2025-09-10 | h256-119.1 | Aye | N | — |
+| 2025-09-03 | h233-119.1 | No | Y | — |
+| 2025-09-03 | h230-119.1 | No | Y | — |
+| 2025-07-18 | h209-119.1 | Aye | N | — |
+| 2025-07-18 | h206-119.1 | Aye | N | — |
+| 2025-03-27 | h80-119.1 | Aye | N | — |
+| 2024-07-23 | h373-118.2 | No | Y | — |
+| 2024-06-27 | h324-118.2 | Aye | N | — |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 # Monica de la Cruz
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

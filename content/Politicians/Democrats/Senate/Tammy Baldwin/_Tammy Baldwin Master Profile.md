@@ -125,6 +125,43 @@ top-policy-area: Health
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,433 |
+| Substantive votes (Y/N) | 1,424 |
+| Votes with party majority | 1,383 |
+| Party-line loyalty | 97.1% |
+| Deviations from party | 40 |
+
+**Coverage:**
+
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 40):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s503-119.1 | Nay | Y | S. 2296 |
+| September  | s500-119.1 | Nay | Y | S. 2296 |
+| October 9, | s570-119.1 | Nay | Y | S. 2296 |
+| October 9, | s568-119.1 | Yea | N | — |
+| October 31 | s277-118.1 | Yea | N | — |
+| October 25 | s266-118.1 | Yea | N | — |
+| November 1 | s614-119.1 | Nay | Y | — |
+| November 1 | s280-118.1 | Yea | N | — |
+| May 3, 202 | s109-118.1 | Yea | N | H.J.Res. 39 |
+| May 13, 20 | s245-119.1 | Yea | N | PN 12-30 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 #baldwin #wisconsin #healthcare #labor #dairy #manufacturing #lgbtq #swing-state #help-committee #buy-american #class-analysis
 
 donors: [[Blue Cross Blue Shield Association]] · [[SEIU - Service Employees International Union|SEIU]] · [[EMILY's List]] · [[J Street|JStreetPAC]]

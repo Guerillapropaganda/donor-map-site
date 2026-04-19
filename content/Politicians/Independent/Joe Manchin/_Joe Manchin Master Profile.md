@@ -112,6 +112,41 @@ top-policy-area: Health
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 691 |
+| Substantive votes (Y/N) | 595 |
+| Votes with party majority | 492 |
+| Party-line loyalty | 82.7% |
+| Deviations from party | 97 |
+
+**Coverage:**
+
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+
+**Most recent party-line deviations (top 10 of 97):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s215-118.1 | Nay | Y | PN 743 |
+| September  | s216-118.1 | Nay | Y | PN 743 |
+| September  | s243-118.1 | Yea | N | S.J.Res. 24 |
+| September  | s242-118.1 | Yea | N | S.J.Res. 9 |
+| October 31 | s278-118.1 | Yea | N | — |
+| October 31 | s277-118.1 | Yea | N | — |
+| October 26 | s272-118.1 | Yea | N | S.J.Res. 42 |
+| October 25 | s266-118.1 | Yea | N | — |
+| October 25 | s269-118.1 | Yea | N | — |
+| October 25 | s268-118.1 | Yea | N | — |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 #joe-manchin #senate #west-virginia #coal #enersystems #epipen #no-labels #class-analysis #independent
 
 donors: [[Fossil Fuel Bloc]]

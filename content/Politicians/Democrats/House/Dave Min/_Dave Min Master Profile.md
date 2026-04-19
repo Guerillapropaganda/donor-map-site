@@ -107,6 +107,41 @@ top-donors: "[[Congressional Progressive Caucus PAC]], [[AFSCME Working Families
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 485 |
+| Substantive votes (Y/N) | 481 |
+| Votes with party majority | 456 |
+| Party-line loyalty | 94.8% |
+| Deviations from party | 25 |
+
+**Coverage:**
+
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 25):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-03-04 | h83-119.2 | Nay | Y | HRES 1100 |
+| 2026-01-22 | h45-119.2 | Nay | Y | HR 7148 |
+| 2025-12-11 | h324-119.1 | Yea | N | HR 3638 |
+| 2025-12-03 | h311-119.1 | Yea | N | HR 4305 |
+| 2025-12-03 | h310-119.1 | Yea | N | HR 2965 |
+| 2025-11-19 | h299-119.1 | Yea | N | HR 5107 |
+| 2025-11-19 | h298-119.1 | Yea | N | HR 5214 |
+| 2025-09-16 | h271-119.1 | Yea | N | HR 5140 |
+| 2025-09-16 | h270-119.1 | Yea | N | HR 4922 |
+| 2025-07-21 | h213-119.1 | Yea | N | HR 3095 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 # Dave Min
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

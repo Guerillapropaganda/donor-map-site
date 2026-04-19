@@ -44,3 +44,39 @@ urls-first-triaged: "2026-04-15"
 # Eugene Simon Vindman
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 485 |
+| Substantive votes (Y/N) | 478 |
+| Votes with party majority | 434 |
+| Party-line loyalty | 90.8% |
+| Deviations from party | 44 |
+
+**Coverage:**
+
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 44):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-03-27 | h105-119.2 | Yea | N | HR 7084 |
+| 2026-03-19 | h96-119.2 | Yea | N | HR 4638 |
+| 2026-03-18 | h94-119.2 | Yea | N | HR 1958 |
+| 2026-03-04 | h83-119.2 | Nay | Y | HRES 1100 |
+| 2026-02-12 | h70-119.2 | Yea | N | HR 2189 |
+| 2026-01-09 | h12-119.2 | Yea | N | HR 5184 |
+| 2025-12-18 | h358-119.1 | Yea | N | HR 1366 |
+| 2025-12-17 | h347-119.1 | Yea | N | HR 3616 |
+| 2025-12-11 | h328-119.1 | Aye | N | HR 3383 |
+| 2025-12-11 | h324-119.1 | Yea | N | HR 3638 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->

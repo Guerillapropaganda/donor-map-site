@@ -232,8 +232,41 @@ AIPAC's $5M+ independent spending on Schiff's behalf during 2023–2024 reflecte
 
 ### Voting Record
 <!-- auto:voting-record start -->
-**Sources**
 
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,981 |
+| Substantive votes (Y/N) | 1,886 |
+| Votes with party majority | 1,810 |
+| Party-line loyalty | 96.0% |
+| Deviations from party | 75 |
+
+**Coverage:**
+
+- house 118/1: 724 votes
+- house 118/2: 492 votes
+- senate 118/2: 23 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 75):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| October 9, | s570-119.1 | Nay | Y | S. 2296 |
+| October 27 | s589-119.1 | Yea | N | PN 466-3 |
+| October 22 | s582-119.1 | Yea | N | PN 466-3 |
+| October 21 | s577-119.1 | Yea | N | PN 466-6 |
+| October 16 | s574-119.1 | Yea | N | PN 466-6 |
+| May 21, 20 | s263-119.1 | Yea | N | S. 1582 |
+| May 19, 20 | s262-119.1 | Yea | N | S. 1582 |
+| May 13, 20 | s245-119.1 | Yea | N | PN 12-30 |
+| May 13, 20 | s246-119.1 | Yea | N | PN 12-30 |
+| March 9, 2 | s48-119.2 | Yea | N | PN 711 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
 ### Legislative Activity (Congress.gov)

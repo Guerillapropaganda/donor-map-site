@@ -106,6 +106,41 @@ top-donors: "[[National Restaurant Association]], [[Mike Haridopolos]], [[Nation
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 485 |
+| Substantive votes (Y/N) | 477 |
+| Votes with party majority | 446 |
+| Party-line loyalty | 93.5% |
+| Deviations from party | 31 |
+
+**Coverage:**
+
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 31):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-03-04 | h83-119.2 | Nay | Y | HRES 1100 |
+| 2026-02-24 | h72-119.2 | Yea | N | S 2503 |
+| 2026-01-14 | h27-119.2 | No | Y | — |
+| 2026-01-12 | h15-119.2 | Nay | Y | HR 6504 |
+| 2026-01-12 | h14-119.2 | Nay | Y | HR 6500 |
+| 2026-01-08 | h11-119.2 | Yea | N | HR 1834 |
+| 2026-01-08 | h10-119.2 | Yea | N | HRES 780 |
+| 2026-01-07 | h4-119.2 | Yea | N | HRES 780 |
+| 2025-12-18 | h354-119.1 | No | Y | — |
+| 2025-12-18 | h352-119.1 | No | Y | — |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 # Ryan Mackenzie
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

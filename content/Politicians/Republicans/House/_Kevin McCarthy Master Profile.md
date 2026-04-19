@@ -117,6 +117,40 @@ top-policy-area: "Congress"
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 470 |
+| Substantive votes (Y/N) | 378 |
+| Votes with party majority | 340 |
+| Party-line loyalty | 89.9% |
+| Deviations from party | 38 |
+
+**Coverage:**
+
+- house 118/1: 470 votes
+
+**Most recent party-line deviations (top 10 of 38):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2023-11-15 | h675-118.1 | No | Y | — |
+| 2023-11-15 | h672-118.1 | No | Y | — |
+| 2023-11-15 | h671-118.1 | No | Y | — |
+| 2023-11-15 | h670-118.1 | No | Y | — |
+| 2023-11-15 | h668-118.1 | No | Y | — |
+| 2023-11-14 | h657-118.1 | No | Y | — |
+| 2023-11-14 | h653-118.1 | No | Y | — |
+| 2023-11-14 | h651-118.1 | No | Y | — |
+| 2023-11-14 | h650-118.1 | No | Y | — |
+| 2023-11-14 | h648-118.1 | No | Y | — |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 #kevin-mccarthy #master-profile #house #california #speaker #fossil-fuel #oil-gas #ousted #energy-industry
 
 donors: [[Chevron]] · [[Occidental Petroleum]] · [[Marathon Petroleum]] · [[Koch Network - Charles Koch|Koch Industries]]

@@ -139,6 +139,43 @@ top-policy-area: Health
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,433 |
+| Substantive votes (Y/N) | 1,376 |
+| Votes with party majority | 1,355 |
+| Party-line loyalty | 98.5% |
+| Deviations from party | 20 |
+
+**Coverage:**
+
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 20):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| October 9, | s570-119.1 | Nay | Y | S. 2296 |
+| March 11,  | s115-119.1 | Nay | Y | PN 12-41 |
+| March 11,  | s114-119.1 | Nay | Y | PN 12-41 |
+| June 1, 20 | s145-118.1 | Nay | Y | — |
+| January 30 | s20-119.2 | Yea | N | H.R. 7148 |
+| January 30 | s26-119.1 | Nay | Y | PN 11-3 |
+| January 29 | s25-119.1 | Nay | Y | PN 11-3 |
+| January 28 | s21-119.1 | Nay | Y | PN 11-6 |
+| December 1 | s648-119.1 | Nay | Y | S. 1071 |
+| December 1 | s647-119.1 | Nay | Y | S. 1071 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 #master-profile #democrat #senate #washington #defense #boeing #pharma #appropriations #follow-the-money #class-analysis
 tags: #democrat
 

@@ -96,6 +96,43 @@ top-policy-area: International Affairs
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,726 |
+| Substantive votes (Y/N) | 1,683 |
+| Votes with party majority | 1,596 |
+| Party-line loyalty | 94.8% |
+| Deviations from party | 87 |
+
+**Coverage:**
+
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 87):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-03-04 | h82-119.2 | Nay | Y | HR 6472 |
+| 2026-02-24 | h72-119.2 | Yea | N | S 2503 |
+| 2026-01-14 | h27-119.2 | No | Y | — |
+| 2025-05-13 | h124-119.1 | Nay | Y | HR 249 |
+| 2025-03-27 | h80-119.1 | Aye | N | — |
+| 2024-12-19 | h516-118.2 | Nay | Y | HR 10515 |
+| 2024-12-17 | h511-118.2 | Nay | Y | HR 1101 |
+| 2024-11-12 | h456-118.2 | Nay | Y | HR 82 |
+| 2024-09-25 | h450-118.2 | Nay | Y | HR 9747 |
+| 2024-07-24 | h390-118.2 | No | Y | — |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 # Nathaniel Moran
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

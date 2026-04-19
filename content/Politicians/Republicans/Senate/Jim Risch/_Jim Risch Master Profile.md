@@ -229,8 +229,40 @@ The domestic side completes the picture: Risch sits on Energy and Natural Resour
 
 ### Voting Record
 <!-- auto:voting-record start -->
-**Sources**
 
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,433 |
+| Substantive votes (Y/N) | 1,346 |
+| Votes with party majority | 1,295 |
+| Party-line loyalty | 96.2% |
+| Deviations from party | 49 |
+
+**Coverage:**
+
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 49):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s241-118.1 | Nay | Y | H.R. 3935 |
+| September  | s255-118.2 | Nay | Y | H.R. 9747 |
+| October 4, | s249-118.1 | Yea | N | PN 676 |
+| November 3 | s325-118.1 | Nay | Y | PN 500 |
+| November 1 | s312-118.1 | Nay | Y | H.R. 6363 |
+| November 1 | s261-118.2 | Yea | N | PN 1744 |
+| November 1 | s260-118.2 | Yea | N | PN 1744 |
+| November 1 | s284-118.1 | Nay | Y | H.R. 4366 |
+| May 22, 20 | s177-118.2 | Yea | N | PN 1462 |
+| May 21, 20 | s173-118.2 | Yea | N | PN 1460 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
 ### Legislative Activity (118th Congress)

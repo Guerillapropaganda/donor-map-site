@@ -110,6 +110,43 @@ top-policy-area: International Affairs
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,983 |
+| Substantive votes (Y/N) | 1,642 |
+| Votes with party majority | 1,518 |
+| Party-line loyalty | 92.4% |
+| Deviations from party | 124 |
+
+**Coverage:**
+
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 124):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| November 1 | s620-119.1 | Yea | N | PN 445-6 |
+| November 1 | s614-119.1 | Nay | Y | — |
+| May 21, 20 | s263-119.1 | Yea | N | S. 1582 |
+| May 19, 20 | s262-119.1 | Yea | N | S. 1582 |
+| May 14, 20 | s250-119.1 | Yea | N | PN 13-10 |
+| May 14, 20 | s254-119.1 | Yea | N | PN 12-31 |
+| May 14, 20 | s253-119.1 | Yea | N | PN 12-31 |
+| May 13, 20 | s245-119.1 | Yea | N | PN 12-30 |
+| May 13, 20 | s249-119.1 | Yea | N | PN 13-10 |
+| May 13, 20 | s246-119.1 | Yea | N | PN 12-30 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 # Ruben Gallego
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

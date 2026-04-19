@@ -43,3 +43,39 @@ urls-first-triaged: "2026-04-15"
 # Angela D. Alsobrooks
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 742 |
+| Substantive votes (Y/N) | 733 |
+| Votes with party majority | 705 |
+| Party-line loyalty | 96.2% |
+| Deviations from party | 27 |
+
+**Coverage:**
+
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 27):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| May 21, 20 | s263-119.1 | Yea | N | S. 1582 |
+| May 19, 20 | s262-119.1 | Yea | N | S. 1582 |
+| March 4, 2 | s101-119.1 | Yea | N | S.J.Res. 3 |
+| March 4, 2 | s102-119.1 | Yea | N | S.J.Res. 3 |
+| March 26,  | s151-119.1 | Yea | N | H.J.Res. 25 |
+| March 26,  | s150-119.1 | Yea | N | H.J.Res. 25 |
+| March 14,  | s127-119.1 | Nay | Y | S. 331 |
+| March 13,  | s121-119.1 | Yea | N | PN 13-12 |
+| March 13,  | s120-119.1 | Yea | N | PN 13-12 |
+| March 13,  | s124-119.1 | Nay | Y | S. 331 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->

@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: normal
 status: active
-last-updated: '2026-04-17-pelosi-polish-bills-sync-85-profiles'
+last-updated: '2026-04-18-990-enrichment-marathon'
 sprint-id: "2026-04-sprint"
 sprint-start: '2026-04-10'
 sprint-end: '2026-04-30'
@@ -2366,3 +2366,50 @@ Complete pre-launch security upgrade. 28-item checklist, 27 done, 1 code-ready (
 **Playbooks:** DMCA/legal response playbook, backup recovery playbook (4 scenarios), attack surface inventory, ops README with Clerk dev/prod docs.
 
 **Remaining (David's lane):** Trademark filing (~$250-350 USPTO), fill lawyer contacts in legal playbook, rate limit Worker deployment (when API goes public).
+
+### IRS 990 enrichment marathon — 2026-04-18 (Code Claude, long session)
+
+Session picked up mid-ingest from prior handoff. Completed the two background ingests (Congress votes 3,159 across 118/1+118/2+119/1+119/2; IRS 990 60 of 62 zips), then enriched every EIN-backed vault profile with 990 data + deduplication + edges + cleanup.
+
+**Ingests completed:**
+- IRS 990: all 62 bulk zips processed, 1,194 filings + 710K grant records (after re-ingest for 66 uncovered EINs)
+- Congress votes: 3,159 roll calls + 900K legislator positions
+
+**New scripts (6):**
+- `scripts/dedup-nonprofit-990.cjs` — cross-zip dedup + HTML-entity decode + fuzzy name merging (AND↔&, org suffix strip)
+- `scripts/build-nonprofit-990-panels.cjs` — auto:irs-990 panels with Grants Out + Grants In sections, 990-PF tag support
+- `scripts/ingest-990-grants-to-edges.cjs` — vault-to-vault grants → monetary edges via canonical store
+- `scripts/sync-ein-registry.cjs` — backfill signals.ein from profile frontmatter + public EIN registry export (jsonl + csv)
+- `scripts/build-officer-registry.cjs` — officer dataset + board-overlap report
+- `scripts/rebuild-relationship-denorm.cjs` — one-shot cleanup for 80K pre-existing edge validation errors
+
+**Schema changes:**
+- Added `irs-990-bulk` source to relationship-edge-validator enum
+- Added `--eins` + `--force` flags to ingest-irs-990-bulk.cjs for targeted backfill
+- Added 990-PF tag fallbacks (TotalRevAndExpnssAmt / FMVAssetsEOYAmt / etc.)
+
+**Data additions:**
+- `data/ein-registry.jsonl` + `.csv` (public artifact, 253 rows cross-referencing vault ↔ IRS by EIN)
+- `data/officer-registry.jsonl` (public artifact, 2,748 rows)
+- `content/Admin Notes/board-overlap-report.md` (31 officers on 2+ vault boards)
+- `data/entities.jsonl`: +28 entities (stubs + EIN backfill)
+- `data/relationships.jsonl`: 551 new 990-grant monetary edges
+
+**Leo-network stubs created (content-readiness: raw, narrative pending):**
+- The Concord Fund (JCN rebrand, EIN 20-2303252)
+- Rule of Law Trust (EIN 83-1047727)
+- National Philanthropic Trust (EIN 23-7825575)
+- Schwab Charitable Fund (EIN 31-1640316)
+
+**Marble Freedom Trust unlocked:** $762M in previously-dangling outflows now tracked — $448M to Schwab Charitable, $161M to The Concord Fund, $153M to Rule of Law Trust.
+
+**Edge store hygiene:** 80,081 pre-existing validation errors → 0. Denorm cleanup collapsed 6,643 legacy "_X Master Profile" title references, fixed 21,401 stale from_type/to_type fields, recomputed 8,888 stale id hashes. Pre-commit relationship-edge-sentinel now enforces cleanly for future commits.
+
+**Key commits:** `10c8fced1` (initial 990 batch), `70ec2f2e3` (80K edge cleanup), `3932f0fd5` (officer registry + Grants-IN), `e2bce47bb` (66-EIN re-ingest + 990-PF + fuzzy names).
+
+**Board-overlap findings worth editorial follow-up:**
+- Eric Kessler + Andrew Schulz on Sixteen Thirty + New Venture Fund (Arabella overlap)
+- Kimberly O Dennis on AEI + Donors Capital Fund
+- Isaac Applbaum on American Action Network + Republican Jewish Coalition
+
+**Process note:** First two enrichment batches were accidentally committed on v4 directly (main repo) rather than in worktree. Acknowledged breach; discipline restored for denorm cleanup + subsequent commits.

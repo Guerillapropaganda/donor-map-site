@@ -69,6 +69,41 @@ top-donors: "[[Jim Jordan]]"
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 51 |
+| Substantive votes (Y/N) | 41 |
+| Votes with party majority | 22 |
+| Party-line loyalty | 53.7% |
+| Deviations from party | 19 |
+
+**Coverage:**
+
+- house 119/1: 47 votes
+- house 119/2: 4 votes
+
+**Most recent party-line deviations (top 10 of 19):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-01-22 | h44-119.2 | No | Y | — |
+| 2026-01-22 | h43-119.2 | No | Y | — |
+| 2026-01-14 | h27-119.2 | No | Y | — |
+| 2026-01-14 | h26-119.2 | No | Y | — |
+| 2025-12-18 | h354-119.1 | No | Y | — |
+| 2025-12-18 | h352-119.1 | No | Y | — |
+| 2025-09-10 | h259-119.1 | No | Y | — |
+| 2025-09-10 | h254-119.1 | No | Y | — |
+| 2025-09-10 | h249-119.1 | No | Y | — |
+| 2025-09-10 | h248-119.1 | No | Y | — |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 # Kimberlyn King-Hinds
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

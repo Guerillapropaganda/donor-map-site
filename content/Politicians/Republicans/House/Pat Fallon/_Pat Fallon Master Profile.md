@@ -78,3 +78,41 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 - [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
 <!-- auto:congress-bills end -->
+
+
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,726 |
+| Substantive votes (Y/N) | 1,660 |
+| Votes with party majority | 1,573 |
+| Party-line loyalty | 94.8% |
+| Deviations from party | 87 |
+
+**Coverage:**
+
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 87):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-03-17 | h88-119.2 | Nay | Y | HR 4294 |
+| 2026-03-04 | h82-119.2 | Nay | Y | HR 6472 |
+| 2026-03-04 | h81-119.2 | Nay | Y | S 723 |
+| 2026-02-24 | h72-119.2 | Yea | N | S 2503 |
+| 2025-09-04 | h237-119.1 | Aye | N | — |
+| 2025-09-03 | h229-119.1 | Aye | N | — |
+| 2025-07-14 | h192-119.1 | Nay | Y | HR 1770 |
+| 2025-04-28 | h103-119.1 | Nay | Y | HR 973 |
+| 2025-03-27 | h80-119.1 | Aye | N | — |
+| 2025-03-25 | h74-119.1 | Nay | Y | HR 1534 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->

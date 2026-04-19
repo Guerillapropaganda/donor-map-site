@@ -110,6 +110,43 @@ top-donors: "[[Northrop Grumman]], [[Devon Energy]], [[National Association of R
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,433 |
+| Substantive votes (Y/N) | 1,333 |
+| Votes with party majority | 1,269 |
+| Party-line loyalty | 95.2% |
+| Deviations from party | 62 |
+
+**Coverage:**
+
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 62):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s254-118.2 | Yea | N | PN 1902 |
+| September  | s253-118.2 | Yea | N | PN 1902 |
+| September  | s250-118.2 | Yea | N | PN 1342 |
+| September  | s251-118.2 | Yea | N | PN 1342 |
+| September  | s521-119.1 | Nay | Y | S.Con.Res. 22 |
+| September  | s238-118.2 | Yea | N | PN 1826 |
+| September  | s237-118.2 | Yea | N | PN 1826 |
+| October 29 | s597-119.1 | Yea | N | S.J.Res. 69 |
+| October 17 | s255-118.1 | Yea | N | PN 812 |
+| October 16 | s254-118.1 | Yea | N | PN 812 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 # Kevin Cramer
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

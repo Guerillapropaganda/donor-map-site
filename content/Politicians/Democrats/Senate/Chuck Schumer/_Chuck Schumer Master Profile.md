@@ -332,8 +332,40 @@ conte
 
 ### Voting Record
 <!-- auto:voting-record start -->
-**Sources**
 
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,433 |
+| Substantive votes (Y/N) | 1,426 |
+| Votes with party majority | 1,394 |
+| Party-line loyalty | 97.8% |
+| Deviations from party | 31 |
+
+**Coverage:**
+
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 31):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s233-118.1 | Nay | Y | — |
+| November 2 | s318-118.1 | Nay | Y | PN 157 |
+| November 1 | s614-119.1 | Nay | Y | — |
+| May 16, 20 | s169-118.2 | Yea | N | H.J.Res. 109 |
+| March 4, 2 | s101-119.1 | Yea | N | S.J.Res. 3 |
+| March 4, 2 | s102-119.1 | Yea | N | S.J.Res. 3 |
+| March 26,  | s151-119.1 | Yea | N | H.J.Res. 25 |
+| March 26,  | s150-119.1 | Yea | N | H.J.Res. 25 |
+| March 14,  | s128-119.1 | Yea | N | H.R. 1968 |
+| March 11,  | s115-119.1 | Nay | Y | PN 12-41 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
 

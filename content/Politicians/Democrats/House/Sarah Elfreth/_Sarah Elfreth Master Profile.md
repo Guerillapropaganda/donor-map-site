@@ -101,6 +101,38 @@ fec-candidate-id: H4MD03156
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 485 |
+| Substantive votes (Y/N) | 482 |
+| Votes with party majority | 475 |
+| Party-line loyalty | 98.5% |
+| Deviations from party | 7 |
+
+**Coverage:**
+
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 7):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-01-15 | h29-119.2 | Nay | Y | — |
+| 2025-11-19 | h302-119.1 | Nay | Y | HRES 893 |
+| 2025-06-09 | h158-119.1 | Yea | N | HRES 488 |
+| 2025-03-27 | h83-119.1 | Yea | N | HR 1048 |
+| 2025-03-11 | h71-119.1 | Yea | N | HJRES 25 |
+| 2025-03-11 | h68-119.1 | Yea | N | HR 1156 |
+| 2025-02-06 | h33-119.1 | Yea | N | HR 27 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 # Sarah Elfreth
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

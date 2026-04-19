@@ -121,6 +121,41 @@ top-policy-area: International Affairs
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,241 |
+| Substantive votes (Y/N) | 905 |
+| Votes with party majority | 820 |
+| Party-line loyalty | 90.6% |
+| Deviations from party | 85 |
+
+**Coverage:**
+
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+
+**Most recent party-line deviations (top 10 of 85):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2024-07-24 | h390-118.2 | No | Y | — |
+| 2024-07-24 | h389-118.2 | No | Y | — |
+| 2024-07-23 | h386-118.2 | No | Y | — |
+| 2024-07-23 | h382-118.2 | No | Y | — |
+| 2024-07-23 | h381-118.2 | No | Y | — |
+| 2024-07-23 | h377-118.2 | No | Y | — |
+| 2024-07-23 | h373-118.2 | No | Y | — |
+| 2024-07-23 | h372-118.2 | No | Y | — |
+| 2024-07-23 | h371-118.2 | No | Y | — |
+| 2024-07-23 | h370-118.2 | No | Y | — |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 #master-profile #republican #house #texas #appropriations #defense #lockheed-martin #f35 #dementia
 
 donors: [[Lockheed Martin]] · Defense Aerospace Industry · [[Oil & Gas PACs]]

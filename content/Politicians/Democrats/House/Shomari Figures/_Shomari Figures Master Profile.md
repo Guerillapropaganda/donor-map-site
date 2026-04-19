@@ -104,6 +104,41 @@ top-donors: "[[League of Conservation Voters]], [[Coinbase]], [[SEIU COPE]], [[C
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 485 |
+| Substantive votes (Y/N) | 473 |
+| Votes with party majority | 453 |
+| Party-line loyalty | 95.8% |
+| Deviations from party | 20 |
+
+**Coverage:**
+
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 20):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-03-27 | h105-119.2 | Yea | N | HR 7084 |
+| 2026-01-09 | h12-119.2 | Yea | N | HR 5184 |
+| 2025-12-11 | h328-119.1 | Aye | N | HR 3383 |
+| 2025-12-11 | h324-119.1 | Yea | N | HR 3638 |
+| 2025-12-11 | h322-119.1 | Yea | N | HRES 939 |
+| 2025-11-21 | h305-119.1 | Yea | N | HCONRES 58 |
+| 2025-09-19 | h282-119.1 | Nay | Y | HRES 719 |
+| 2025-09-10 | h246-119.1 | Aye | N | — |
+| 2025-07-21 | h213-119.1 | Yea | N | HR 3095 |
+| 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 # Shomari Figures
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

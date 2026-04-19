@@ -108,6 +108,43 @@ top-donors: "[[FAIR SHARE ACTION]], [[AT&T - WarnerMedia]], [[Anthem - Elevance 
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,726 |
+| Substantive votes (Y/N) | 1,590 |
+| Votes with party majority | 1,534 |
+| Party-line loyalty | 96.5% |
+| Deviations from party | 56 |
+
+**Coverage:**
+
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 56):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-03-04 | h83-119.2 | Nay | Y | HRES 1100 |
+| 2026-01-22 | h45-119.2 | Nay | Y | HR 7148 |
+| 2026-01-08 | h7-119.2 | Nay | Y | HR 6938 |
+| 2026-01-08 | h5-119.2 | Nay | Y | HR 6938 |
+| 2025-12-11 | h328-119.1 | Aye | N | HR 3383 |
+| 2025-12-10 | h320-119.1 | Nay | Y | S 1071 |
+| 2025-11-21 | h305-119.1 | Yea | N | HCONRES 58 |
+| 2025-11-19 | h302-119.1 | Nay | Y | HRES 893 |
+| 2025-07-21 | h213-119.1 | Yea | N | HR 3095 |
+| 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 # Brittany Pettersen
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

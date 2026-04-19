@@ -44,3 +44,39 @@ urls-first-triaged: "2026-04-15"
 # John W. Mannion
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 485 |
+| Substantive votes (Y/N) | 478 |
+| Votes with party majority | 454 |
+| Party-line loyalty | 95.0% |
+| Deviations from party | 24 |
+
+**Coverage:**
+
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 24):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-03-18 | h93-119.2 | Aye | N | HR 556 |
+| 2026-01-09 | h12-119.2 | Yea | N | HR 5184 |
+| 2025-12-18 | h356-119.1 | Yea | N | HR 4776 |
+| 2025-12-11 | h328-119.1 | Aye | N | HR 3383 |
+| 2025-11-21 | h305-119.1 | Yea | N | HCONRES 58 |
+| 2025-11-19 | h298-119.1 | Yea | N | HR 5214 |
+| 2025-09-17 | h275-119.1 | Yea | N | HR 5143 |
+| 2025-09-16 | h270-119.1 | Yea | N | HR 4922 |
+| 2025-09-10 | h247-119.1 | Aye | N | — |
+| 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->

@@ -462,27 +462,38 @@ _No committee data found._
 
 ### Voting Record
 <!-- auto:voting-record start -->
-**Key Votes**
 
-| 2024-12-20 | H.R. 10545 (118th): American Relief Act, 2025 | **Yea** | Passed |
-| 2024-12-19 | H.R. 10515 (118th): American Relief Act, 2025 | **Nay** | Failed |
-| 2024-12-18 | S. 759 (118th): Beagle Brigade Act of 2023 | **Yea** | Passed |
-| 2024-12-18 | H.R. 8663 (118th): DETECT Fentanyl and Xylazine Act of 2024 | **Yea** | Passed |
-| 2024-12-18 | S. 3857 (118th): Jamul Indian Village Land Transfer Act | **Yea** | Passed |
-| 2024-12-18 | S. 1351 (118th): Stop Institutional Child Abuse Act | **Yea** | Passed |
-| 2024-12-17 | H.R. 1101 (118th): Lumbee Fairness Act | **Yea** | Passed |
-| 2024-12-17 | S. 3448 (118th): Never Again Education Reauthorization Act of 2023 | **Yea** | Passed |
-| 2024-12-17 | H.R. 115 (118th): Midnight Rules Relief Act | **Nay** | Passed |
-| 2024-12-17 | H.Res. 1616 (118th): Providing for consideration of the bill (H.R. 115) to amend chapter 8 of title 5, United States Cod | **No** | Passed |
-| 2024-12-16 | S. 4077 (118th): A bill to designate the facility of the United States Postal Service located at 180 Steuart Street in S | **Yea** | Passed |
-| 2024-12-16 | S. 141 (118th): Senator Elizabeth Dole 21st Century Veterans Healthcare and Benefits Improvement Act | **Yea** | Passed |
-| 2024-12-16 | S. 3998 (118th): Federal Judiciary Stabilization Act of 2024 | **Yea** | Passed |
-| 2024-12-16 | H.R. 7213 (118th): Autism CARES Act of 2024 | **Yea** | Passed |
-| 2024-12-12 | S. 4199 (118th): JUDGES Act of 2024 | **Not Voting** | Passed |
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
-**Sources**
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,241 |
+| Substantive votes (Y/N) | 1,153 |
+| Votes with party majority | 1,098 |
+| Party-line loyalty | 95.2% |
+| Deviations from party | 55 |
 
-- [GovTrack: Barbara Lee](https://www.govtrack.us/congress/members/400237) (Tier 1) (NEEDS REVIEW)
+**Coverage:**
+
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+
+**Most recent party-line deviations (top 10 of 55):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2024-12-06 | h492-118.2 | Nay | Y | HR 5349 |
+| 2024-09-24 | h447-118.2 | Nay | Y | HR 7073 |
+| 2024-09-09 | h402-118.2 | Nay | Y | HR 8333 |
+| 2024-07-22 | h357-118.2 | Nay | Y | HR 1631 |
+| 2024-06-28 | h329-118.2 | Aye | N | — |
+| 2024-06-13 | h264-118.2 | Aye | N | — |
+| 2024-05-17 | h218-118.2 | Nay | Y | HRES 1213 |
+| 2024-05-15 | h210-118.2 | Nay | Y | HR 6572 |
+| 2024-05-15 | h203-118.2 | Nay | Y | HR 7581 |
+| 2024-05-08 | h188-118.2 | Nay | Y | HRES 1209 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-18 -->

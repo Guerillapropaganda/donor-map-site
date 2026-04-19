@@ -102,6 +102,41 @@ fec-candidate-id: H4NC13116
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 485 |
+| Substantive votes (Y/N) | 476 |
+| Votes with party majority | 450 |
+| Party-line loyalty | 94.5% |
+| Deviations from party | 26 |
+
+**Coverage:**
+
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 26):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-03-24 | h97-119.2 | Nay | Y | HR 6422 |
+| 2026-03-17 | h88-119.2 | Nay | Y | HR 4294 |
+| 2026-03-04 | h82-119.2 | Nay | Y | HR 6472 |
+| 2026-02-24 | h72-119.2 | Yea | N | S 2503 |
+| 2026-01-20 | h33-119.2 | Nay | Y | HR 5764 |
+| 2026-01-20 | h32-119.2 | Nay | Y | HR 5763 |
+| 2026-01-12 | h14-119.2 | Nay | Y | HR 6500 |
+| 2026-01-08 | h5-119.2 | Nay | Y | HR 6938 |
+| 2025-12-11 | h325-119.1 | Aye | N | — |
+| 2025-11-19 | h300-119.1 | Nay | Y | HR 4058 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 # Brad Knott
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

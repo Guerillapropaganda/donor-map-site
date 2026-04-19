@@ -110,6 +110,43 @@ top-donors: "[[American Chemistry Council, INC]], [[Raytheon (RTX)]], [[National
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,433 |
+| Substantive votes (Y/N) | 1,348 |
+| Votes with party majority | 1,301 |
+| Party-line loyalty | 96.5% |
+| Deviations from party | 45 |
+
+**Coverage:**
+
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 45):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s247-118.1 | Nay | Y | H.R. 5860 |
+| September  | s241-118.1 | Nay | Y | H.R. 3935 |
+| September  | s240-118.1 | Nay | Y | H.R. 3935 |
+| September  | s255-118.2 | Nay | Y | H.R. 9747 |
+| September  | s249-118.2 | Nay | Y | PN 1399 |
+| October 29 | s597-119.1 | Yea | N | S.J.Res. 69 |
+| November 3 | s325-118.1 | Nay | Y | PN 500 |
+| November 1 | s312-118.1 | Nay | Y | H.R. 6363 |
+| March 8, 2 | s77-118.2 | Nay | Y | H.R. 4366 |
+| March 8, 2 | s84-118.2 | Nay | Y | H.R. 4366 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 # Marsha Blackburn
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

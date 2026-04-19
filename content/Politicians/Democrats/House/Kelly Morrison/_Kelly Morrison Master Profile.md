@@ -94,6 +94,37 @@ top-donors: "[[IBEW - International Brotherhood of Electrical Workers]], [[AFSCM
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 485 |
+| Substantive votes (Y/N) | 480 |
+| Votes with party majority | 474 |
+| Party-line loyalty | 98.8% |
+| Deviations from party | 6 |
+
+**Coverage:**
+
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 6):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2025-12-11 | h328-119.1 | Aye | N | HR 3383 |
+| 2025-12-10 | h320-119.1 | Nay | Y | S 1071 |
+| 2025-11-21 | h305-119.1 | Yea | N | HCONRES 58 |
+| 2025-03-11 | h68-119.1 | Yea | N | HR 1156 |
+| 2025-02-06 | h33-119.1 | Yea | N | HR 27 |
+| 2025-01-16 | h17-119.1 | Yea | N | HR 30 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 # Kelly Morrison
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

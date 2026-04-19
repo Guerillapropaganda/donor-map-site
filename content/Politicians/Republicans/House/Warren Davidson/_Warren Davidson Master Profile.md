@@ -109,6 +109,43 @@ top-donors: "[[Coinbase]], [[National Right to Life Victory Fund]], [[Jim Jordan
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,726 |
+| Substantive votes (Y/N) | 1,658 |
+| Votes with party majority | 1,470 |
+| Party-line loyalty | 88.7% |
+| Deviations from party | 188 |
+
+**Coverage:**
+
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 188):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-04-17 | h124-119.2 | No | Y | HRES 1175 |
+| 2026-03-17 | h89-119.2 | Nay | Y | S 3971 |
+| 2026-03-17 | h88-119.2 | Nay | Y | HR 4294 |
+| 2026-03-05 | h85-119.2 | Yea | N | HCONRES 38 |
+| 2026-03-04 | h82-119.2 | Nay | Y | HR 6472 |
+| 2026-01-20 | h33-119.2 | Nay | Y | HR 5764 |
+| 2026-01-20 | h32-119.2 | Nay | Y | HR 5763 |
+| 2026-01-14 | h28-119.2 | Nay | Y | HR 7006 |
+| 2026-01-12 | h15-119.2 | Nay | Y | HR 6504 |
+| 2026-01-12 | h14-119.2 | Nay | Y | HR 6500 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 # Warren Davidson
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

@@ -112,3 +112,41 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
 
 - ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,433 |
+| Substantive votes (Y/N) | 1,419 |
+| Votes with party majority | 1,326 |
+| Party-line loyalty | 93.4% |
+| Deviations from party | 92 |
+
+**Coverage:**
+
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 92):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| October 9, | s564-119.1 | Yea | N | — |
+| October 27 | s589-119.1 | Yea | N | PN 466-3 |
+| October 26 | s270-118.1 | Yea | N | S.J.Res. 44 |
+| October 25 | s266-118.1 | Yea | N | — |
+| October 25 | s269-118.1 | Yea | N | — |
+| October 22 | s582-119.1 | Yea | N | PN 466-3 |
+| October 21 | s577-119.1 | Yea | N | PN 466-6 |
+| October 16 | s574-119.1 | Yea | N | PN 466-6 |
+| November 9 | s610-119.1 | Yea | N | H.R. 5371 |
+| November 2 | s294-118.2 | Yea | N | S.J.Res. 115 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->

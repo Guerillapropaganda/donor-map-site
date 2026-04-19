@@ -44,3 +44,33 @@ urls-first-triaged: "2026-04-15"
 # Johnny Olszewski
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 485 |
+| Substantive votes (Y/N) | 480 |
+| Votes with party majority | 476 |
+| Party-line loyalty | 99.2% |
+| Deviations from party | 4 |
+
+**Coverage:**
+
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 4):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
+| 2025-03-11 | h71-119.1 | Yea | N | HJRES 25 |
+| 2025-03-11 | h68-119.1 | Yea | N | HR 1156 |
+| 2025-02-06 | h33-119.1 | Yea | N | HR 27 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->

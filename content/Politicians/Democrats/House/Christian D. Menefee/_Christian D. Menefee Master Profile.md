@@ -60,3 +60,29 @@ top-donors: "[[Marathon Petroleum]], [[Ford Motor Company]], [[Aramark]], [[Meta
 # Christian D. Menefee
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 75 |
+| Substantive votes (Y/N) | 66 |
+| Votes with party majority | 65 |
+| Party-line loyalty | 98.5% |
+| Deviations from party | 1 |
+
+**Coverage:**
+
+- house 119/2: 75 votes
+
+**Most recent party-line deviations (top 10 of 1):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-03-05 | h84-119.2 | Nay | Y | HRES 1099 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->

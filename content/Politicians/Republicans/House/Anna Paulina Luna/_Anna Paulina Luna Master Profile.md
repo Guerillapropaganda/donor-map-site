@@ -111,6 +111,43 @@ top-donors: "[[Andy Harris]], [[Campaign for Working Families]], [[REPUBLICAN PA
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,726 |
+| Substantive votes (Y/N) | 1,464 |
+| Votes with party majority | 1,313 |
+| Party-line loyalty | 89.7% |
+| Deviations from party | 151 |
+
+**Coverage:**
+
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 151):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-03-17 | h89-119.2 | Nay | Y | S 3971 |
+| 2026-03-17 | h88-119.2 | Nay | Y | HR 4294 |
+| 2026-03-04 | h83-119.2 | Nay | Y | HRES 1100 |
+| 2026-02-24 | h72-119.2 | Yea | N | S 2503 |
+| 2026-02-03 | h53-119.2 | Nay | Y | HR 7148 |
+| 2026-01-22 | h45-119.2 | Nay | Y | HR 7148 |
+| 2026-01-14 | h28-119.2 | Nay | Y | HR 7006 |
+| 2026-01-12 | h15-119.2 | Nay | Y | HR 6504 |
+| 2025-12-16 | h338-119.1 | Nay | Y | HRES 951 |
+| 2025-12-10 | h320-119.1 | Nay | Y | S 1071 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 # Anna Paulina Luna
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

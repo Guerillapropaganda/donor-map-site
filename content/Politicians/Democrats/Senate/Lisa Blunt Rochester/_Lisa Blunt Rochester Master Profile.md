@@ -99,6 +99,43 @@ top-donors: "[[International Association of Firefighters Interested in Registrat
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,983 |
+| Substantive votes (Y/N) | 1,918 |
+| Votes with party majority | 1,887 |
+| Party-line loyalty | 98.4% |
+| Deviations from party | 30 |
+
+**Coverage:**
+
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 30):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| May 21, 20 | s263-119.1 | Yea | N | S. 1582 |
+| May 19, 20 | s262-119.1 | Yea | N | S. 1582 |
+| March 14,  | s127-119.1 | Nay | Y | S. 331 |
+| March 13,  | s124-119.1 | Nay | Y | S. 331 |
+| March 11,  | s115-119.1 | Nay | Y | PN 12-41 |
+| March 11,  | s114-119.1 | Nay | Y | PN 12-41 |
+| January 30 | s26-119.1 | Nay | Y | PN 11-3 |
+| January 29 | s25-119.1 | Nay | Y | PN 11-3 |
+| January 28 | s21-119.1 | Nay | Y | PN 11-6 |
+| January 27 | s19-119.1 | Yea | N | PN 11-1 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 # Lisa Blunt Rochester
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

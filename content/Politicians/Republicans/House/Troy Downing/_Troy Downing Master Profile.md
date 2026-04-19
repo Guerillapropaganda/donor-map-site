@@ -94,6 +94,41 @@ top-donors: "[[Citigroup]], [[National Association of Realtors]], [[Political Ac
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 485 |
+| Substantive votes (Y/N) | 481 |
+| Votes with party majority | 466 |
+| Party-line loyalty | 96.9% |
+| Deviations from party | 15 |
+
+**Coverage:**
+
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 15):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-04-14 | h110-119.2 | Nay | Y | HR 7613 |
+| 2026-03-17 | h88-119.2 | Nay | Y | HR 4294 |
+| 2026-03-04 | h83-119.2 | Nay | Y | HRES 1100 |
+| 2026-01-12 | h15-119.2 | Nay | Y | HR 6504 |
+| 2025-11-19 | h300-119.1 | Nay | Y | HR 4058 |
+| 2025-07-22 | h216-119.1 | Nay | Y | HR 1917 |
+| 2025-07-18 | h206-119.1 | Aye | N | — |
+| 2025-07-15 | h196-119.1 | Nay | Y | HR 1717 |
+| 2025-07-14 | h192-119.1 | Nay | Y | HR 1770 |
+| 2025-06-09 | h157-119.1 | Nay | Y | HR 2035 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 # Troy Downing
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

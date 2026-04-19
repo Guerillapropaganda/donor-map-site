@@ -131,6 +131,43 @@ top-policy-area: Health
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,433 |
+| Substantive votes (Y/N) | 1,410 |
+| Votes with party majority | 1,344 |
+| Party-line loyalty | 95.3% |
+| Deviations from party | 65 |
+
+**Coverage:**
+
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 65):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s503-119.1 | Nay | Y | S. 2296 |
+| September  | s500-119.1 | Nay | Y | S. 2296 |
+| October 9, | s570-119.1 | Nay | Y | S. 2296 |
+| October 9, | s568-119.1 | Yea | N | — |
+| October 9, | s563-119.1 | Yea | N | — |
+| October 9, | s562-119.1 | Yea | N | — |
+| October 26 | s270-118.1 | Yea | N | S.J.Res. 44 |
+| November 2 | s294-118.2 | Yea | N | S.J.Res. 115 |
+| November 2 | s293-118.2 | Yea | N | S.J.Res. 113 |
+| November 2 | s292-118.2 | Yea | N | S.J.Res. 111 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 #jeff-merkley #democrat #oregon #senate #progressive #volcker-rule #wall-street-reform #housing #no-corporate-pac #budget #environment #class-analysis #follow-the-money
 
 donors: [[Labor Unions]] · Environmental Groups · [[Small Dollar Donors - ActBlue|Small Dollar Donors]] · Lawyers & Law Firms

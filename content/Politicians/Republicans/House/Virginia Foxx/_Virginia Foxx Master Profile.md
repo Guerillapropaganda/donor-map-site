@@ -123,6 +123,43 @@ top-policy-area: Government Operations and Politics
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,726 |
+| Substantive votes (Y/N) | 1,687 |
+| Votes with party majority | 1,622 |
+| Party-line loyalty | 96.1% |
+| Deviations from party | 65 |
+
+**Coverage:**
+
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 65):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2025-09-03 | h229-119.1 | Aye | N | — |
+| 2025-07-22 | h216-119.1 | Nay | Y | HR 1917 |
+| 2025-07-18 | h206-119.1 | Aye | N | — |
+| 2025-03-25 | h74-119.1 | Nay | Y | HR 1534 |
+| 2025-02-04 | h29-119.1 | Nay | Y | HR 776 |
+| 2024-12-17 | h511-118.2 | Nay | Y | HR 1101 |
+| 2024-11-12 | h457-118.2 | Nay | Y | HR 5342 |
+| 2024-11-12 | h456-118.2 | Nay | Y | HR 82 |
+| 2024-09-24 | h447-118.2 | Nay | Y | HR 7073 |
+| 2024-07-08 | h337-118.2 | Nay | Y | HR 5441 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 #virginia-foxx #republican #north-carolina #house #committee-chair #education #for-profit-colleges #labor #student-debt #phase-6-gavel-power
 
 donors: [[DeVos Family]] [[American Federation for Children]] [[Walton Family Foundation]]

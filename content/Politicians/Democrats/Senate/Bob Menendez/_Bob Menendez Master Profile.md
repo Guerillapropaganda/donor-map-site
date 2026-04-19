@@ -169,8 +169,38 @@ The class analysis is straightforward: Menendez proves that the campaign finance
 
 ### Voting Record
 <!-- auto:voting-record start -->
-**Sources**
 
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 582 |
+| Substantive votes (Y/N) | 501 |
+| Votes with party majority | 484 |
+| Party-line loyalty | 96.6% |
+| Deviations from party | 17 |
+
+**Coverage:**
+
+- senate 118/1: 352 votes
+- senate 118/2: 230 votes
+
+**Most recent party-line deviations (top 10 of 17):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s223-118.1 | Nay | Y | PN 551 |
+| October 31 | s277-118.1 | Yea | N | — |
+| October 25 | s269-118.1 | Yea | N | — |
+| November 2 | s318-118.1 | Nay | Y | PN 157 |
+| March 23,  | s107-118.2 | Nay | Y | H.R. 2882 |
+| March 21,  | s101-118.2 | Nay | Y | S.J.Res. 62 |
+| February 7 | s39-118.2 | Nay | Y | H.R. 815 |
+| February 2 | s62-118.2 | Yea | N | S.J.Res. 60 |
+| December 1 | s348-118.1 | Nay | Y | PN 981 |
+| December 1 | s344-118.1 | Nay | Y | PN 769 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
 ### Legislative Activity (118th Congress)

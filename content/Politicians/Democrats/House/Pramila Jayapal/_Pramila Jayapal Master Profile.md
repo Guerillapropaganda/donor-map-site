@@ -130,6 +130,43 @@ top-policy-area: Health
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,726 |
+| Substantive votes (Y/N) | 1,618 |
+| Votes with party majority | 1,543 |
+| Party-line loyalty | 95.4% |
+| Deviations from party | 75 |
+
+**Coverage:**
+
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 75):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-03-05 | h86-119.2 | Nay | Y | HR 7744 |
+| 2026-03-05 | h84-119.2 | Nay | Y | HRES 1099 |
+| 2026-03-04 | h83-119.2 | Nay | Y | HRES 1100 |
+| 2026-01-22 | h45-119.2 | Nay | Y | HR 7148 |
+| 2026-01-14 | h28-119.2 | Nay | Y | HR 7006 |
+| 2026-01-12 | h14-119.2 | Nay | Y | HR 6500 |
+| 2025-12-10 | h320-119.1 | Nay | Y | S 1071 |
+| 2025-09-19 | h282-119.1 | Nay | Y | HRES 719 |
+| 2025-09-02 | h219-119.1 | Nay | Y | HR 4216 |
+| 2025-06-24 | h175-119.1 | Nay | Y | HRES 537 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 #pramila-jayapal #democrat #washington #house #progressive-caucus #medicare-for-all #immigration #labor #tech #seattle #antitrust
 
 ---

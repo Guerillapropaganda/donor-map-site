@@ -104,6 +104,37 @@ top-donors: "[[Northrop Grumman]], [[National Rifle Association]], [[Winning for
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 485 |
+| Substantive votes (Y/N) | 470 |
+| Votes with party majority | 464 |
+| Party-line loyalty | 98.7% |
+| Deviations from party | 6 |
+
+**Coverage:**
+
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 6):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-03-17 | h88-119.2 | Nay | Y | HR 4294 |
+| 2025-09-10 | h244-119.1 | Aye | N | — |
+| 2025-09-04 | h237-119.1 | Aye | N | — |
+| 2025-07-22 | h216-119.1 | Nay | Y | HR 1917 |
+| 2025-06-23 | h174-119.1 | Nay | Y | HR 3422 |
+| 2025-03-25 | h74-119.1 | Nay | Y | HR 1534 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 # Julie Fedorchak
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

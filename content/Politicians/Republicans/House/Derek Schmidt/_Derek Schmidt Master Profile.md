@@ -102,6 +102,41 @@ top-donors: "[[CoreCivic - Private Prisons]], [[Troy Downing]], [[Chevron]], [[R
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 485 |
+| Substantive votes (Y/N) | 478 |
+| Votes with party majority | 459 |
+| Party-line loyalty | 96.0% |
+| Deviations from party | 19 |
+
+**Coverage:**
+
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 19):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-03-04 | h83-119.2 | Nay | Y | HRES 1100 |
+| 2026-03-04 | h82-119.2 | Nay | Y | HR 6472 |
+| 2026-02-24 | h72-119.2 | Yea | N | S 2503 |
+| 2026-01-12 | h15-119.2 | Nay | Y | HR 6504 |
+| 2026-01-08 | h9-119.2 | Yea | N | HR 131 |
+| 2025-09-10 | h256-119.1 | Aye | N | — |
+| 2025-09-10 | h244-119.1 | Aye | N | — |
+| 2025-09-03 | h229-119.1 | Aye | N | — |
+| 2025-07-22 | h216-119.1 | Nay | Y | HR 1917 |
+| 2025-07-18 | h206-119.1 | Aye | N | — |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 # Derek Schmidt
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

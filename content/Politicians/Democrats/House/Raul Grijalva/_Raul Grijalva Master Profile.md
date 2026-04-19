@@ -344,28 +344,34 @@ Grijalva spent two decades fighting battles with no corporate lobby behind them.
 
 ## Voting Record
 <!-- auto:voting-record start -->
-**Key Votes**
 
-| Date | Vote | Position | Result |
-|------|------|----------|--------|
-| 2025-03-11 | H.J.Res. 25: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitt | **Not Voting** | Passed |
-| 2025-03-11 | H.R. 1968: Full-Year Continuing Appropriations and Extensions Act, 2025 | **Not Voting** | Passed |
-| 2025-03-11 | H.R. 1156: Pandemic Unemployment misconduct Enforcement Act | **Not Voting** | Passed |
-| 2025-03-11 | H.Res. 211: Providing for consideration of the joint resolution (H.J. Res. 25) providing for congressional disapproval u | **Not Voting** | Passed |
-| 2025-03-10 | H.R. 993: Emerging Innovative Border Technologies Act | **Not Voting** | Passed |
-| 2025-03-10 | H.R. 901: Research Security and Accountability in DHS Act | **Not Voting** | Passed |
-| 2025-03-10 | H.R. 495: Subterranean Border Defense Act | **Not Voting** | Passed |
-| 2025-03-06 | H.Res. 189: Censuring Representative Al Green of Texas. | **Not Voting** | Passed |
-| 2025-03-06 | S.J.Res. 11: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code,  | **Not Voting** | Passed |
-| 2025-03-05 | H.J.Res. 42: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitt | **Not Voting** | Passed |
-| 2025-03-05 | H.J.Res. 61: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitt | **Not Voting** | Passed |
-| 2025-03-04 | H.Res. 177: Providing for consideration of the joint resolution (H.J. Res. 42) providing for congressional disapproval u | **Not Voting** | Passed |
-| 2025-03-03 | H.R. 758: Mail Traffic Deaths Reporting Act of 2025 | **Not Voting** | Passed |
-| 2025-03-03 | H.R. 856: Safe and Smart Federal Purchasing Act | **Not Voting** | Passed |
-| 2025-02-27 | H.J.Res. 20: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitt | **Not Voting** | Passed |
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
-**Sources**
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 204 |
+| Substantive votes (Y/N) | 200 |
+| Votes with party majority | 194 |
+| Party-line loyalty | 97.0% |
+| Deviations from party | 6 |
 
+**Coverage:**
+
+- house 119/1: 80 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 6):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-03-05 | h84-119.2 | Nay | Y | HRES 1099 |
+| 2026-03-04 | h83-119.2 | Nay | Y | HRES 1100 |
+| 2026-01-22 | h45-119.2 | Nay | Y | HR 7148 |
+| 2026-01-14 | h28-119.2 | Nay | Y | HR 7006 |
+| 2025-12-10 | h320-119.1 | Nay | Y | S 1071 |
+| 2025-11-19 | h302-119.1 | Nay | Y | HRES 893 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-15 -->

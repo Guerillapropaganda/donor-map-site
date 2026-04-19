@@ -117,6 +117,40 @@ bills-data-scope: Career total synced from auto:congress-legislation (Congress.g
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 485 |
+| Substantive votes (Y/N) | 464 |
+| Votes with party majority | 455 |
+| Party-line loyalty | 98.1% |
+| Deviations from party | 9 |
+
+**Coverage:**
+
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 9):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2025-12-11 | h328-119.1 | Aye | N | HR 3383 |
+| 2025-12-04 | h314-119.1 | Yea | N | HR 1049 |
+| 2025-09-19 | h282-119.1 | Nay | Y | HRES 719 |
+| 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
+| 2025-06-12 | h166-119.1 | Nay | Y | S 331 |
+| 2025-06-09 | h158-119.1 | Yea | N | HRES 488 |
+| 2025-05-15 | h130-119.1 | Yea | N | HR 2255 |
+| 2025-03-27 | h83-119.1 | Yea | N | HR 1048 |
+| 2025-01-09 | h7-119.1 | Yea | N | HR 23 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 #wesley-bell #mo-01 #st-louis #aipac-backed #udp-supported #house #democrat #ferguson
 
 ---
