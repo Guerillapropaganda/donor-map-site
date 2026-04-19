@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: normal
 status: active
-last-updated: '2026-04-18-990-enrichment-marathon'
+last-updated: '2026-04-18-990-enrichment-marathon-plus-launch-50-editorial-pass'
 sprint-id: "2026-04-sprint"
 sprint-start: '2026-04-10'
 sprint-end: '2026-04-30'
@@ -2413,3 +2413,32 @@ Session picked up mid-ingest from prior handoff. Completed the two background in
 - Isaac Applbaum on American Action Network + Republican Jewish Coalition
 
 **Process note:** First two enrichment batches were accidentally committed on v4 directly (main repo) rather than in worktree. Acknowledged breach; discipline restored for denorm cleanup + subsequent commits.
+
+### Launch-50 editorial pass continuation — 2026-04-18 evening (Code Claude / Research Claude hybrid)
+
+Launch-50 audit: 50/50 profiles found, 100% have Class Analysis, 0 verified, 42 ready, 7 draft, 1 raw (at session start).
+
+**Promoted draft -> ready (4 profiles, same janitor-stale pattern):**
+- Kamala Harris: all editorial sections already complete. Janitor had demoted citing missing VOTING/CONGRESS data, but Harris was VP during 118/119 (no roll-call record by design). Fixed truncated central-thesis frontmatter, cleared needs-reenrichment.
+- Mark Kelly: 1,433 roll-call positions now present post-voting-pipeline. Cleared janitor flag. Fixed thesis.
+- Donald Trump: 11 editorial sections present; janitor confused because Trump has never been in Congress (he's President). Fixed thesis, cleared janitor.
+- Bernie Moreno (already ready): fixed truncated thesis, cleared needs-reenrichment, added last-enriched date.
+
+**Still needing real editorial writing (6 profiles) — Research Claude future-session queue:**
+1. Elissa Slotkin (raw) — only has Class Analysis; needs Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Rhetorical Signature Moves, Analytical Patterns.
+2. Charles Koch (draft) — has Who They Are + Class Analysis; needs Thesis, Contradiction, DCM.
+3. Richard and Elizabeth Uihlein (draft) — same gap pattern.
+4. Crypto Industry Bloc (draft) — same gap pattern.
+5. CoreCivic (draft) — same gap pattern. 48-block data foundation already rich.
+6. Reid Hoffman (ready but structurally thin) — has Who They Are + Class Analysis but missing Thesis / Contradiction / DCM sections. Could be demoted back to draft or rewritten for consistency.
+
+Launch-50 rollup after session: 45 ready / 4 draft / 1 raw / 0 verified.
+
+**Historical votes ingest spawned (task bizbcv3oq, running at session-save time):** node scripts/ingest-congress-votes.cjs --congress 115,116,117 --resume --throttle-ms 150. Extends coverage to 115th-117th Congress (2017-2023) so long-tenured senators (Sanders, Warren, McConnell, Cruz, Schumer) have visible records. At session-save: 4,198 votes (up from 3,159 at start, +1,039 new). Will land in background; next session should re-run build-voting-record-panels.cjs after completion.
+
+**EIN backfill work also completed this session (Code Claude lane):**
+- 23 vault profiles got signals.ein populated from the discover-990-gaps candidate list
+- The Concord Fund stub merged into Judicial Crisis Network canonical profile (JCN rebranded to Concord Fund c. 2023 — same legal entity EIN 20-2303252). Aliases registered; 10 Concord-Fund edges redirected to JCN via alias-aware denorm rebuild.
+- Final 3 ambiguous EINs verified via ProPublica / OpenSecrets and applied: PPAF 13-3539048 c4, PP Votes 13-4128897 super PAC, ACU 52-0810813 c4.
+
+**Session commit tally: 15 commits pushed to v4** — spanning 990 enrichment marathon, denorm cleanup, officer registry, Grants-IN panels, EIN backfills, Concord/JCN merge, launch-50 editorial pass promotions.

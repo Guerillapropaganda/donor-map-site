@@ -26,27 +26,40 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 
 ---
 
-## HANDOFF — 2026-04-18 (picks up mid-session)
+## HANDOFF — 2026-04-18 (end-of-day, session 2)
 
-### Two ingests running in background at session-save time
+### One ingest still running at session-save time
 
-1. **IRS 990 selective ingest** (task `b7jzyld3n`) — running `scripts/ingest-irs-990-bulk.cjs` with yauzl against 25GB of IRS bulk zips. Filters to 225 vault EINs. When it completes, `data/nonprofit-990.jsonl` + `data/nonprofit-grants.jsonl` will be the output. At save time: mid-way through 2023_11A.zip.
-2. **Congress.gov + senate.gov votes resume** (task `bmmpmdr2l`) — running `scripts/ingest-congress-votes.cjs --resume --throttle-ms 250`. At save time: House 118/2 at 25/517. Existing: 1098 votes + 360K positions committed; cache has 722 files.
+**Historical Congress votes** (task `bizbcv3oq`) — `node scripts/ingest-congress-votes.cjs --congress 115,116,117 --resume --throttle-ms 150`. Extends coverage from the current 118/119-only slice back to 2017-2023, so long-tenured senators (Sanders, Warren, McConnell, Cruz, Schumer) have visible records. At save time: data/votes.jsonl at 4,198 rows (up from 3,159 at session start, +1,039 committed). Estimated ~5-10 more minutes remain. Resume-safe.
 
-Both resume-safe. If they crash or context ends mid-run, re-run:
+When it lands:
 ```
-node --max-old-space-size=8192 scripts/ingest-irs-990-bulk.cjs --resume
-node scripts/ingest-congress-votes.cjs --resume --throttle-ms 250
+node scripts/build-voting-record-panels.cjs --write  # rebuild panels for long-tenured senators
+git add data/votes.jsonl data/legislator-positions.jsonl content/Politicians/
+git commit -m "Historical Congress votes 115-117 ingest + voting record panel refresh"
 ```
 
 ### What needs to happen next session
 
-**Immediate follow-ups to this session's ingests:**
-1. **Check IRS 990 + Votes completion.** If done, commit `data/nonprofit-990.jsonl`, `data/nonprofit-grants.jsonl`, updated `data/votes.jsonl` + `data/legislator-positions.jsonl`.
-2. **Extend `build-fec-lifetime-panels.cjs`** to render an "Outgoing Grants" panel from `data/nonprofit-grants.jsonl` for foundation / 501(c)(4) profiles. Unlocks Koch / Bradley / Scaife / Adelson Family Foundation grantmaking visibility.
-3. **Add "Committee Transfers" panel** pulling from `C:\donor-map-data\fec\oth-transfers.jsonl` — shows 3-hop money chains (Adelson → SLF → Conservative Solutions PAC → Rubio type flows).
-4. **Review `data/anomalies-to-review.jsonl`** after running `scripts/fec-anomaly-scanner.cjs` against the new full-DB state — 60,608 rows dropped to 8,434 after party-whitelist fix; the 8,434 remaining need manual review or further whitelist expansion via `scripts/lib/fec-committee-succession.cjs`.
-5. **Research Claude pass** on Pelosi / Rubio / Trump Mega-Donors sections — the trace data is in the auto-panel, but the narrative sections above the panels still need voice polish.
+**Immediate follow-up:**
+1. **Check task `bizbcv3oq` completion.** Once historical votes ingest finishes, re-run `build-voting-record-panels.cjs --write` to refresh panels with 115/116/117 data. Long-tenured senators (Sanders, Warren, McConnell, Cruz, Schumer) will gain visible voting-record sections. Commit + push.
+
+**Launch-50 editorial work queued (Research Claude's lane):**
+
+Six profiles need real narrative writing — NOT just janitor-flag cleanup — before they can be promoted. Each needs Central Thesis, Core Contradiction, Donor Class Map sections written from the structured data already present:
+
+1. **Elissa Slotkin** (raw) — only has Class Analysis. Needs Who They Are, Thesis, Contradiction, DCM, Rhetorical Signature Moves, Analytical Patterns. Biggest lift.
+2. **Charles Koch** (draft) — has Who They Are + Class Analysis. Needs Thesis, Contradiction, DCM.
+3. **Richard and Elizabeth Uihlein** (draft) — same gap.
+4. **Crypto Industry Bloc** (draft) — same gap.
+5. **CoreCivic** (draft, 48 blocks of data) — same gap.
+6. **Reid Hoffman** (ready but structurally thin) — missing Thesis, Contradiction, DCM. Could demote to draft or rewrite.
+
+**Other follow-ups:**
+- **Extend `build-fec-lifetime-panels.cjs`** to render an "Outgoing Grants" panel from `data/nonprofit-grants.jsonl` — unlocks Koch / Bradley / Scaife / Adelson foundation grantmaking visibility.
+- **Add "Committee Transfers" panel** from `C:\donor-map-data\fec\oth-transfers.jsonl` — shows 3-hop money chains (Adelson → SLF → Conservative Solutions PAC → Rubio).
+- **Review `data/anomalies-to-review.jsonl`** — 8,434 rows still need manual review / whitelist expansion.
+- **ACU Foundation stub** — EIN 52-1294680 (501(c)(3), distinct corporate entity from ACU 501(c)(4) EIN 52-0810813). Separate profile needed.
 
 ### Tier A data completeness items (from ADR-0014 completeness review)
 
@@ -59,14 +72,30 @@ node scripts/ingest-congress-votes.cjs --resume --throttle-ms 250
 | 5 | Committee-succession + party whitelist | ✅ **Bug fix + dynamic load** — anomalies dropped 86% |
 | 6 | Annual Financial Disclosures (Form A) | 📋 **Deferred with plan doc** at `content/Admin Notes/fec-annual-financial-disclosures-plan.md` |
 
-### Uncommitted files at session-save
+### Today's work (2026-04-18 session 2) — 17 commits pushed to v4
 
-- `data/legislator-positions.jsonl` + `data/votes.jsonl` — being appended by running ingest, committed last at 1,098 votes / 360K positions
-- `data/nonprofit-990.jsonl` + `data/nonprofit-grants.jsonl` — being written by running ingest
-- `content/Admin Notes/bioguide-contamination-alert.md` — sentinel artifact, not needed
-- `content/Events/Drafts/2026-04-15 Trump SCOTUS...md` — unrelated pre-existing modification
+**IRS 990 enrichment marathon:**
+- 990 ingest completed (1,038 → 1,300 filings, 423K → 985K grants after re-ingests for 66 + 15 + 23 uncovered EINs)
+- New scripts: `dedup-nonprofit-990`, `build-nonprofit-990-panels` (260+ profiles now have Grants-Out + Grants-In panels), `ingest-990-grants-to-edges` (1,496 monetary edges), `sync-ein-registry` (public JSONL+CSV cross-ref), `build-officer-registry` (2,748 rows, 35 board overlaps), `rebuild-relationship-denorm` (cleared 80K pre-existing validation errors to zero).
+- 34 new stub profiles created (Leo network, Koch network, DAFs, Arabella c4s).
+- 23 existing profiles got `signals.ein` backfilled; 3 more verified via ProPublica/OpenSecrets.
+- The Concord Fund merged into Judicial Crisis Network (same entity, rebrand). Alias-aware denorm rebuild redirected 10 edges cleanly.
 
-All session-relevant code and derived stores are committed via the commits listed in the next section.
+**Voting record panels:** 553 politician profiles now have `auto:voting-record` auto-blocks showing party-line loyalty + deviation tables (3,159 votes ingested across 118/1, 118/2, 119/1, 119/2).
+
+**Officer affiliation edges:** 24 new `affiliation` edges from 990 officer data matching vault person profiles. 12 politicians-on-boards surfaced (Linda McMahon → America First Policy Institute, Julian Castro → CAP, etc.).
+
+**Launch-50 editorial pass (session 2):**
+- Promoted draft → ready: Kamala Harris, Mark Kelly, Donald Trump.
+- Cleaned up Bernie Moreno (thesis fix + janitor clear).
+- Launch-50 rollup: 42 → 45 ready. 0 verified (David's lane).
+
+**Edge store:** 74,000 → 75,442 edges, 0 validation errors (was 80K+).
+
+### Uncommitted at session-save
+
+- `data/votes.jsonl` + `data/legislator-positions.jsonl` — being appended by the 115/116/117 ingest running in background. Next session commits these.
+- `content/Events/Drafts/2026-04-15 Trump SCOTUS...md` — unrelated pre-existing modification (flagged across multiple sessions).
 
 **Next concrete actions (Code Claude's lane, 2026-04-17 priority order):**
 1. **Build live-preview profile editor in Ops** (agreed with David, Path 3 from this session's discussion). New `/profile-editor` page with split-pane: left = markdown editor, right = live-rendering preview using Quartz components. Goal: close the feedback loop so David doesn't have to screenshot+annotate every iteration.
@@ -91,6 +120,11 @@ All session-relevant code and derived stores are committed via the commits liste
 - `Politicians/Republicans/Presidential/Donald-Trump/_Donald-Trump-Master-Profile` — Trump Master Profile
 - `legal` — licensing page
 - `corrections` — corrections policy
+
+**Manual review items flagged for David:**
+- Planned Parenthood Action Fund EIN: confirmed 13-3539048 via ProPublica, applied
+- Planned Parenthood Votes EIN: confirmed 13-4128897 via OpenSecrets 527 Explorer, applied
+- American Conservative Union EIN: confirmed 52-0810813 (c4) via ProPublica, applied. 52-1294680 (ACU Foundation, c3) needs a separate stub profile.
 
 **Do NOT touch** (owned elsewhere): N/A this session — all previously-flagged "other session" items (licensing, security, etc.) are shipped.
 

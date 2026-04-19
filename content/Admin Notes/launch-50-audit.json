@@ -11,7 +11,7 @@
       "urlNeeded": 0,
       "unverified": 0,
       "needsReview": 0,
-      "autoBlocks": 7
+      "autoBlocks": 9
     },
     {
       "name": "Donald Trump",
@@ -24,7 +24,7 @@
       "urlNeeded": 0,
       "unverified": 0,
       "needsReview": 2,
-      "autoBlocks": 13
+      "autoBlocks": 15
     },
     {
       "name": "Bernie Moreno",
@@ -37,7 +37,7 @@
       "urlNeeded": 0,
       "unverified": 0,
       "needsReview": 1,
-      "autoBlocks": 4
+      "autoBlocks": 10
     },
     {
       "name": "Sherrod Brown",
@@ -49,8 +49,8 @@
       "sourceTypes": [],
       "urlNeeded": 0,
       "unverified": 0,
-      "needsReview": 3,
-      "autoBlocks": 30,
+      "needsReview": 2,
+      "autoBlocks": 34,
       "hasGaps": true
     },
     {
@@ -68,8 +68,8 @@
       ],
       "urlNeeded": 0,
       "unverified": 0,
-      "needsReview": 2,
-      "autoBlocks": 14,
+      "needsReview": 1,
+      "autoBlocks": 16,
       "hasGaps": true
     },
     {
@@ -86,7 +86,7 @@
       "urlNeeded": 0,
       "unverified": 0,
       "needsReview": 0,
-      "autoBlocks": 10,
+      "autoBlocks": 12,
       "hasGaps": true
     },
     {
@@ -94,20 +94,20 @@
       "file": "content/Politicians/Democrats/Senate/Mark Kelly.md",
       "readiness": "draft",
       "type": "politician",
-      "hasClassAnalysis": false,
+      "hasClassAnalysis": true,
       "sourceCount": 0,
       "sourceTypes": [],
       "urlNeeded": 0,
       "unverified": 0,
       "needsReview": 0,
-      "autoBlocks": 3
+      "autoBlocks": 9
     },
     {
       "name": "Elissa Slotkin",
       "file": "content/Politicians/Democrats/Senate/Elissa Slotkin/_Elissa Slotkin Master Profile.md",
       "readiness": "raw",
       "type": "politician",
-      "hasClassAnalysis": false,
+      "hasClassAnalysis": true,
       "sourceCount": 1,
       "sourceTypes": [
         "Congress"
@@ -115,7 +115,7 @@
       "urlNeeded": 0,
       "unverified": 0,
       "needsReview": 0,
-      "autoBlocks": 4,
+      "autoBlocks": 8,
       "hasGaps": true
     },
     {
@@ -132,7 +132,7 @@
       "urlNeeded": 0,
       "unverified": 0,
       "needsReview": 1,
-      "autoBlocks": 8,
+      "autoBlocks": 12,
       "hasGaps": true
     },
     {
@@ -148,8 +148,8 @@
       ],
       "urlNeeded": 0,
       "unverified": 0,
-      "needsReview": 2,
-      "autoBlocks": 18,
+      "needsReview": 1,
+      "autoBlocks": 20,
       "hasGaps": true
     },
     {
@@ -182,8 +182,8 @@
       ],
       "urlNeeded": 0,
       "unverified": 0,
-      "needsReview": 2,
-      "autoBlocks": 14,
+      "needsReview": 1,
+      "autoBlocks": 16,
       "hasGaps": true
     },
     {
@@ -200,7 +200,7 @@
       ],
       "urlNeeded": 0,
       "unverified": 0,
-      "needsReview": 2,
+      "needsReview": 1,
       "autoBlocks": 11,
       "hasGaps": true
     },
@@ -217,7 +217,7 @@
       "urlNeeded": 0,
       "unverified": 0,
       "needsReview": 3,
-      "autoBlocks": 30,
+      "autoBlocks": 32,
       "hasGaps": true
     },
     {
@@ -234,8 +234,8 @@
       "urlNeeded": 0,
       "unverified": 0,
       "needsReview": 1,
-      "autoBlocks": 21,
-      "hasGaps": true
+      "autoBlocks": 23,
+      "hasGaps": false
     },
     {
       "name": "Alexandria Ocasio-Cortez Master Profile",
@@ -251,8 +251,8 @@
       ],
       "urlNeeded": 4,
       "unverified": 0,
-      "needsReview": 4,
-      "autoBlocks": 30,
+      "needsReview": 3,
+      "autoBlocks": 32,
       "hasGaps": true
     },
     {
@@ -268,7 +268,7 @@
       "urlNeeded": 0,
       "unverified": 0,
       "needsReview": 0,
-      "autoBlocks": 10,
+      "autoBlocks": 12,
       "hasGaps": true
     },
     {
@@ -284,7 +284,7 @@
       "urlNeeded": 0,
       "unverified": 0,
       "needsReview": 0,
-      "autoBlocks": 15,
+      "autoBlocks": 17,
       "hasGaps": true
     },
     {
@@ -301,8 +301,8 @@
       ],
       "urlNeeded": 0,
       "unverified": 0,
-      "needsReview": 3,
-      "autoBlocks": 12,
+      "needsReview": 2,
+      "autoBlocks": 14,
       "hasGaps": true
     },
     {
@@ -318,7 +318,7 @@
       "urlNeeded": 0,
       "unverified": 0,
       "needsReview": 0,
-      "autoBlocks": 12,
+      "autoBlocks": 14,
       "hasGaps": true
     }
   ],
@@ -334,33 +334,33 @@
       "urlNeeded": 0,
       "unverified": 0,
       "needsReview": 0,
-      "autoBlocks": 11
+      "autoBlocks": 13
     },
     {
       "name": "Koch Industries",
       "file": "content/Donors & Power Networks/Energy & Utilities/Koch Industries.md",
       "readiness": "ready",
       "type": "corporation",
-      "hasClassAnalysis": false,
+      "hasClassAnalysis": true,
       "sourceCount": 0,
       "sourceTypes": [],
       "urlNeeded": 1,
       "unverified": 23,
       "needsReview": 0,
-      "autoBlocks": 17
+      "autoBlocks": 19
     },
     {
       "name": "Charles Koch",
       "file": "content/Donors & Power Networks/Mega-Donors/Charles Koch.md",
       "readiness": "draft",
       "type": "donor",
-      "hasClassAnalysis": false,
+      "hasClassAnalysis": true,
       "sourceCount": 0,
       "sourceTypes": [],
       "urlNeeded": 0,
       "unverified": 0,
       "needsReview": 1,
-      "autoBlocks": 6,
+      "autoBlocks": 10,
       "hasGaps": true
     },
     {
@@ -368,26 +368,26 @@
       "file": "content/Donors & Power Networks/Israel Lobby/AIPAC - American Israel Public Affairs Committee.md",
       "readiness": "ready",
       "type": "donor",
-      "hasClassAnalysis": false,
+      "hasClassAnalysis": true,
       "sourceCount": 0,
       "sourceTypes": [],
       "urlNeeded": 0,
       "unverified": 0,
       "needsReview": 0,
-      "autoBlocks": 10
+      "autoBlocks": 12
     },
     {
       "name": "Miriam Adelson",
       "file": "content/Donors & Power Networks/Mega-Donors/Miriam Adelson.md",
       "readiness": "ready",
       "type": "donor",
-      "hasClassAnalysis": false,
+      "hasClassAnalysis": true,
       "sourceCount": 0,
       "sourceTypes": [],
       "urlNeeded": 0,
       "unverified": 0,
       "needsReview": 0,
-      "autoBlocks": 15
+      "autoBlocks": 17
     },
     {
       "name": "George Soros",
@@ -400,7 +400,7 @@
       "urlNeeded": 0,
       "unverified": 0,
       "needsReview": 2,
-      "autoBlocks": 18
+      "autoBlocks": 22
     },
     {
       "name": "Peter Thiel",
@@ -413,72 +413,72 @@
       "urlNeeded": 0,
       "unverified": 0,
       "needsReview": 2,
-      "autoBlocks": 13
+      "autoBlocks": 15
     },
     {
       "name": "Ken Griffin",
       "file": "content/Donors & Power Networks/Mega-Donors/Ken Griffin.md",
       "readiness": "ready",
       "type": "donor",
-      "hasClassAnalysis": false,
+      "hasClassAnalysis": true,
       "sourceCount": 0,
       "sourceTypes": [],
       "urlNeeded": 0,
       "unverified": 0,
       "needsReview": 1,
-      "autoBlocks": 12
+      "autoBlocks": 16
     },
     {
       "name": "Timothy Mellon",
       "file": "content/Donors & Power Networks/Mega-Donors/Timothy Mellon.md",
       "readiness": "ready",
       "type": "donor",
-      "hasClassAnalysis": false,
+      "hasClassAnalysis": true,
       "sourceCount": 0,
       "sourceTypes": [],
       "urlNeeded": 0,
       "unverified": 0,
       "needsReview": 0,
-      "autoBlocks": 8
+      "autoBlocks": 10
     },
     {
       "name": "Richard and Elizabeth Uihlein",
       "file": "content/Donors & Power Networks/Mega-Donors/Richard and Elizabeth Uihlein.md",
       "readiness": "draft",
       "type": "donor",
-      "hasClassAnalysis": false,
+      "hasClassAnalysis": true,
       "sourceCount": 0,
       "sourceTypes": [],
       "urlNeeded": 0,
       "unverified": 0,
       "needsReview": 1,
-      "autoBlocks": 3
+      "autoBlocks": 5
     },
     {
       "name": "Jeffrey Yass",
       "file": "content/Donors & Power Networks/Mega-Donors/Jeffrey Yass.md",
       "readiness": "ready",
       "type": "donor",
-      "hasClassAnalysis": false,
+      "hasClassAnalysis": true,
       "sourceCount": 0,
       "sourceTypes": [],
       "urlNeeded": 0,
       "unverified": 14,
       "needsReview": 1,
-      "autoBlocks": 6
+      "autoBlocks": 8
     },
     {
       "name": "Michael Bloomberg",
       "file": "content/Donors & Power Networks/Mega-Donors/Michael Bloomberg.md",
       "readiness": "ready",
       "type": "donor",
-      "hasClassAnalysis": false,
+      "hasClassAnalysis": true,
       "sourceCount": 0,
       "sourceTypes": [],
       "urlNeeded": 0,
       "unverified": 0,
       "needsReview": 1,
-      "autoBlocks": 10
+      "autoBlocks": 12
     },
     {
       "name": "Reid Hoffman",
@@ -491,14 +491,14 @@
       "urlNeeded": 0,
       "unverified": 0,
       "needsReview": 1,
-      "autoBlocks": 6
+      "autoBlocks": 8
     },
     {
       "name": "League of Conservation Voters",
       "file": "content/Donors & Power Networks/Super PACs/League of Conservation Voters.md",
       "readiness": "ready",
       "type": "donor",
-      "hasClassAnalysis": false,
+      "hasClassAnalysis": true,
       "sourceCount": 4,
       "sourceTypes": [
         "Courts",
@@ -509,7 +509,7 @@
       "urlNeeded": 0,
       "unverified": 0,
       "needsReview": 1,
-      "autoBlocks": 18,
+      "autoBlocks": 20,
       "hasGaps": true
     },
     {
@@ -517,7 +517,7 @@
       "file": "content/Donors & Power Networks/Tech & Crypto/Crypto Industry Bloc.md",
       "readiness": "draft",
       "type": "corporation",
-      "hasClassAnalysis": false,
+      "hasClassAnalysis": true,
       "sourceCount": 0,
       "sourceTypes": [],
       "urlNeeded": 0,
@@ -532,7 +532,7 @@
       "file": "content/Donors & Power Networks/Defense & Intelligence/Lockheed Martin.md",
       "readiness": "ready",
       "type": "corporation",
-      "hasClassAnalysis": false,
+      "hasClassAnalysis": true,
       "sourceCount": 0,
       "sourceTypes": [],
       "urlNeeded": 0,
@@ -545,7 +545,7 @@
       "file": "content/Donors & Power Networks/Defense & Intelligence/Raytheon (RTX).md",
       "readiness": "ready",
       "type": "corporation",
-      "hasClassAnalysis": false,
+      "hasClassAnalysis": true,
       "sourceCount": 0,
       "sourceTypes": [],
       "urlNeeded": 0,
@@ -564,7 +564,7 @@
       "urlNeeded": 0,
       "unverified": 0,
       "needsReview": 3,
-      "autoBlocks": 32
+      "autoBlocks": 34
     },
     {
       "name": "General Dynamics",
@@ -590,14 +590,14 @@
       "urlNeeded": 0,
       "unverified": 0,
       "needsReview": 6,
-      "autoBlocks": 38
+      "autoBlocks": 40
     },
     {
       "name": "Palantir Technologies",
       "file": "content/Donors & Power Networks/Mega-Donors/Palantir.md",
       "readiness": "ready",
       "type": "corporation",
-      "hasClassAnalysis": false,
+      "hasClassAnalysis": true,
       "sourceCount": 0,
       "sourceTypes": [],
       "urlNeeded": 0,
@@ -610,7 +610,7 @@
       "file": "content/Donors & Power Networks/Defense & Intelligence/Anduril Industries.md",
       "readiness": "ready",
       "type": "corporation",
-      "hasClassAnalysis": false,
+      "hasClassAnalysis": true,
       "sourceCount": 3,
       "sourceTypes": [
         "LDA",
@@ -628,20 +628,20 @@
       "file": "content/Donors & Power Networks/Carceral State/CoreCivic.md",
       "readiness": "draft",
       "type": "corporation",
-      "hasClassAnalysis": false,
+      "hasClassAnalysis": true,
       "sourceCount": 0,
       "sourceTypes": [],
       "urlNeeded": 0,
       "unverified": 0,
       "needsReview": 1,
-      "autoBlocks": 46
+      "autoBlocks": 48
     },
     {
       "name": "GEO Group",
       "file": "content/Donors & Power Networks/Carceral State/GEO Group.md",
       "readiness": "ready",
       "type": "corporation",
-      "hasClassAnalysis": false,
+      "hasClassAnalysis": true,
       "sourceCount": 0,
       "sourceTypes": [],
       "urlNeeded": 0,
@@ -654,7 +654,7 @@
       "file": "content/Donors & Power Networks/Pharma & Healthcare/Pfizer.md",
       "readiness": "ready",
       "type": "corporation",
-      "hasClassAnalysis": false,
+      "hasClassAnalysis": true,
       "sourceCount": 4,
       "sourceTypes": [
         "Courts",
@@ -665,7 +665,7 @@
       "urlNeeded": 0,
       "unverified": 0,
       "needsReview": 1,
-      "autoBlocks": 27,
+      "autoBlocks": 29,
       "hasGaps": true
     },
     {
@@ -679,7 +679,7 @@
       "urlNeeded": 0,
       "unverified": 21,
       "needsReview": 3,
-      "autoBlocks": 22
+      "autoBlocks": 24
     },
     {
       "name": "Chevron",
@@ -692,7 +692,7 @@
       "urlNeeded": 0,
       "unverified": 1,
       "needsReview": 5,
-      "autoBlocks": 28
+      "autoBlocks": 30
     },
     {
       "name": "Google - Alphabet",
@@ -712,7 +712,7 @@
       "file": "content/Donors & Power Networks/Tech & Crypto/Meta - Facebook.md",
       "readiness": "ready",
       "type": "corporation",
-      "hasClassAnalysis": false,
+      "hasClassAnalysis": true,
       "sourceCount": 0,
       "sourceTypes": [],
       "urlNeeded": 0,
@@ -725,13 +725,13 @@
       "file": "content/Donors & Power Networks/Wall Street/JPMorgan.md",
       "readiness": "ready",
       "type": "corporation",
-      "hasClassAnalysis": false,
+      "hasClassAnalysis": true,
       "sourceCount": 0,
       "sourceTypes": [],
       "urlNeeded": 0,
       "unverified": 0,
       "needsReview": 2,
-      "autoBlocks": 31
+      "autoBlocks": 33
     }
   ]
 }
