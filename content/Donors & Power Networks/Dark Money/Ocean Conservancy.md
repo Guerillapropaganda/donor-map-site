@@ -42,7 +42,7 @@ checklist-na:
 employee-contributions: 87
 employee-contributions-total: 23436
 employee-donor-count: 33
-politicians-funded: "[[ActBlue]], [[Catherine Cortez Masto]], [[WinSenate]], [[_Summer Lee Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[The Lincoln Project]], [[Summer Lee]]"
+politicians-funded: "[[ActBlue]], [[Catherine Cortez Masto]], [[WinSenate]], [[_Summer Lee Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[The Lincoln Project]], [[Summer Lee]], [[Rockefeller Philanthropy Advisors]]"
 ---
 
 

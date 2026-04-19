@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Dark Money
 entity-type: Individual Donor
-politicians-funded: "[[DOGE - The Billionaires Government]], [[David Pakman]], [[America Votes]], [[ActBlue]], [[DSCC - Democratic Senatorial Campaign Committee]], [[League of Conservation Voters]], [[Future Forward USA Action]], [[New Venture Fund]], [[_Cori Bush Master Profile]], [[_Martin Heinrich Master Profile]], [[Third Way]], [[Cori Bush]], [[Martin Heinrich]]"
+politicians-funded: "[[DOGE - The Billionaires Government]], [[David Pakman]], [[America Votes]], [[ActBlue]], [[DSCC - Democratic Senatorial Campaign Committee]], [[League of Conservation Voters]], [[Future Forward USA Action]], [[New Venture Fund]], [[_Cori Bush Master Profile]], [[_Martin Heinrich Master Profile]], [[Third Way]], [[Cori Bush]], [[Martin Heinrich]], [[FF PAC]], [[Hopewell Fund]]"
 issues:
   - Dark Money & Campaign Finance
 court-cases: 18
