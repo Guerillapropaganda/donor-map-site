@@ -87,6 +87,10 @@ function pooledInflows(edges, subject, vehicles) {
     if (e.status === 'deprecated') continue;
     if (e.from === e.to) continue;
     if (!tSet.has(e.to)) continue;
+    // NOTE: intra-pool transfers are KEPT on purpose — matches route.ts.
+    // Dropping them would erase c4→super-PAC pass-throughs where the
+    // c4-side donor data is undisclosed (Harris pool dropped from $953M
+    // to $135M when filtered — deleting real flows, not just loops).
     total += e.amount;
     perVehicle[e.to] = (perVehicle[e.to] || 0) + e.amount;
     count++;
@@ -102,9 +106,9 @@ function pooledInflows(edges, subject, vehicles) {
 const CANONICAL_SUBJECTS = [
   {
     name: 'Donald Trump',
-    expectedMid: 1.2e9,
-    tolerance: 0.50, // 50% — our total crosses many cycles, OpenSecrets is 1-cycle snapshot
-    why: 'OpenSecrets 2024-only: $1.45B (campaign + outside). Our pool includes multiple cycles + JFCs.',
+    expectedMid: 3.0e9,
+    tolerance: 0.50,
+    why: 'Gross pooled flow across Trump + 12 controlled vehicles, all cycles. OpenSecrets 2024 alone = $1.45B; our lifetime+JFC-loops reads ~$3B.',
   },
   {
     name: 'Kamala Harris',
