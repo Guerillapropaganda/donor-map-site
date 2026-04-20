@@ -117,15 +117,15 @@ top-policy-area: Health
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–118th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
 | Roll-call votes tracked | 2,009 |
 | Substantive votes (Y/N) | 1,892 |
-| Votes with party majority | 1,442 |
-| Party-line loyalty | 76.2% |
-| Deviations from party | 104 |
+| Votes with party majority | 1,444 |
+| Party-line loyalty | 76.3% |
+| Deviations from party | 103 |
 
 **Coverage:**
 
@@ -136,11 +136,10 @@ top-policy-area: Health
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 
-**Most recent party-line deviations (top 10 of 104):**
+**Most recent party-line deviations (top 10 of 103):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| 2024-12-18 | s326-118.2 | Nay | Y | H.R. 82 |
 | 2024-05-21 | s176-118.2 | Yea | N | S.J.Res. 58 |
 | 2024-04-18 | s142-118.2 | Yea | N | S. 4072 |
 | 2024-04-10 | s122-118.2 | Yea | N | H.J.Res. 98 |
@@ -150,6 +149,7 @@ top-policy-area: Health
 | 2024-01-18 | s10-118.2 | Yea | N | — |
 | 2024-01-10 | s5-118.2 | Yea | N | S.J.Res. 32 |
 | 2023-11-15 | s310-118.1 | Yea | N | S.J.Res. 43 |
+| 2023-11-08 | s303-118.1 | Yea | N | S.J.Res. 38 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

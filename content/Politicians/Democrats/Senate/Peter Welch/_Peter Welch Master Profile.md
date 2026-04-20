@@ -100,14 +100,14 @@ top-donors: "[[Teamsters - International Brotherhood of Teamsters]], [[National 
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
 | Roll-call votes tracked | 1,464 |
 | Substantive votes (Y/N) | 1,402 |
-| Votes with party majority | 1,338 |
-| Party-line loyalty | 95.4% |
+| Votes with party majority | 1,339 |
+| Party-line loyalty | 95.5% |
 | Deviations from party | 41 |
 
 **Coverage:**

@@ -122,6 +122,54 @@ const MIN_AMOUNT = parseFloat(argVal('--min-amount', '1000'));
   }
   console.log(`  committee-master names loaded: ${cmteToRawName.size}`);
 
+  // Signals-based committee enrichment: re-scan committee-master.jsonl
+  // looking at the `connected_org` field. When a committee is tied to
+  // an organization we can resolve to a vault entity (via ticker/EIN/
+  // UEI/SEC CIK or normalized name), register the cmte_id against that
+  // entity. This lets PAC transfers flow through to their sponsor corp
+  // (Amazon PAC → vault "Amazon", Boeing PAC → vault "Boeing") even
+  // when the corp's fec_committee_id field wasn't explicitly populated.
+  function normOrg(s) {
+    return (s || '').toUpperCase()
+      .replace(/['\u2019\u2018\x60]/g, '')
+      .replace(/[^A-Z0-9 ]+/g, ' ')
+      .replace(/\b(INC|INCORPORATED|LLC|LP|LLP|CORP|CORPORATION|CO|COMPANY|THE|OF|AND)\b/g, ' ')
+      .replace(/\s+/g, ' ')
+      .trim();
+  }
+  const orgToEntity = new Map();
+  for (const e of ents) {
+    const s = e.signals || {};
+    const keys = [];
+    keys.push(normOrg(e.name));
+    if (s.ticker) keys.push(normOrg(String(s.ticker)));
+    // First-word variant (so "AMAZON" matches vault entities "Amazon - AWS" etc.)
+    const firstWord = normOrg(e.name).split(' ')[0];
+    if (firstWord && firstWord.length >= 4) keys.push(firstWord);
+    for (const k of keys) {
+      if (k && k.length >= 3 && !orgToEntity.has(k)) orgToEntity.set(k, e);
+    }
+  }
+  const masterRl2 = readline.createInterface({ input: fs.createReadStream(path.join(FEC_ROOT, 'committee-master.jsonl')) });
+  let signalsEnriched = 0;
+  for await (const line of masterRl2) {
+    if (!line.trim()) continue;
+    try {
+      const r = JSON.parse(line);
+      if (!r.id || !r.connected_org) continue;
+      if (cmteToEntity.has(r.id)) continue; // already resolved
+      const normed = normOrg(r.connected_org);
+      if (!normed) continue;
+      const firstWord = normed.split(' ')[0];
+      const ent = orgToEntity.get(normed) || (firstWord.length >= 4 ? orgToEntity.get(firstWord) : null);
+      if (ent && ent.entity_type !== 'politician') {
+        cmteToEntity.set(r.id, ent);
+        signalsEnriched++;
+      }
+    } catch {}
+  }
+  console.log(`  committees enriched via connected_org → vault: ${signalsEnriched}`);
+
   // Build title index for to_type denormalization
   const { buildTitleIndex } = require('./lib/relationship-edge-validator.cjs');
   const titleIndex = buildTitleIndex(path.join(ROOT, 'content'));

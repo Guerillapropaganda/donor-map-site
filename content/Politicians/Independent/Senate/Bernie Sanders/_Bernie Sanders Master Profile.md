@@ -155,15 +155,15 @@ top-policy-area: Health
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math. Party-line loyalty computed against **Democratic caucus** majority (legislator is Independent but caucuses with that party).*
 
 | Metric | Value |
 |---|---:|
 | Roll-call votes tracked | 2,751 |
 | Substantive votes (Y/N) | 2,196 |
-| Votes with party majority | 1,727 |
-| Party-line loyalty | 78.6% |
-| Deviations from party | 58 |
+| Votes with party majority | 1,920 |
+| Party-line loyalty | 87.4% |
+| Deviations from party | 144 |
 
 **Coverage:**
 
@@ -176,20 +176,20 @@ top-policy-area: Health
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 58):**
+**Most recent party-line deviations (top 10 of 144):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| 2024-12-21 | s339-118.2 | Nay | Y | H.R. 10545 |
-| 2024-12-18 | s325-118.2 | Nay | Y | H.R. 5009 |
-| 2024-12-16 | s324-118.2 | Nay | Y | H.R. 5009 |
-| 2024-06-18 | s200-118.2 | Nay | Y | S. 870 |
-| 2024-05-01 | s157-118.2 | Nay | Y | H.R. 3935 |
-| 2024-04-23 | s154-118.2 | Nay | Y | H.R. 815 |
-| 2024-04-23 | s153-118.2 | Nay | Y | H.R. 815 |
-| 2024-04-23 | s152-118.2 | Nay | Y | H.R. 815 |
-| 2024-04-23 | s151-118.2 | Yea | N | H.R. 815 |
-| 2024-04-19 | s150-118.2 | Nay | Y | H.R. 7888 |
+| 2026-01-15 | s11-119.2 | Nay | Y | H.R. 6938 |
+| 2026-01-15 | s10-119.2 | Nay | Y | H.R. 6938 |
+| 2026-01-12 | s7-119.2 | Nay | Y | H.R. 6938 |
+| 2025-12-17 | s648-119.1 | Nay | Y | S. 1071 |
+| 2025-12-15 | s647-119.1 | Nay | Y | S. 1071 |
+| 2025-12-11 | s646-119.1 | Nay | Y | S. 1071 |
+| 2025-11-10 | s614-119.1 | Nay | Y | — |
+| 2025-10-29 | s597-119.1 | Yea | N | S.J.Res. 69 |
+| 2025-10-09 | s570-119.1 | Nay | Y | S. 2296 |
+| 2025-10-09 | s568-119.1 | Yea | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

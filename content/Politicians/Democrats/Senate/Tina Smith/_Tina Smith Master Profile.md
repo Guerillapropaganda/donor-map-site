@@ -126,13 +126,13 @@ top-policy-area: Health
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
 | Roll-call votes tracked | 2,426 |
 | Substantive votes (Y/N) | 2,364 |
-| Votes with party majority | 2,284 |
+| Votes with party majority | 2,283 |
 | Party-line loyalty | 96.6% |
 | Deviations from party | 21 |
 

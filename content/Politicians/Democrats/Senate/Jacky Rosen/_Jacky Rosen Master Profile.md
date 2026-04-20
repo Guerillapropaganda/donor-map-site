@@ -123,14 +123,14 @@ top-donors: "[[American Federation of State County & Municipal Employees P E O P
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 116th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
 | Roll-call votes tracked | 2,152 |
 | Substantive votes (Y/N) | 2,132 |
-| Votes with party majority | 1,985 |
-| Party-line loyalty | 93.1% |
+| Votes with party majority | 1,987 |
+| Party-line loyalty | 93.2% |
 | Deviations from party | 52 |
 
 **Coverage:**

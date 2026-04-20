@@ -63,14 +63,14 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–118th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
 | Roll-call votes tracked | 1,900 |
 | Substantive votes (Y/N) | 1,726 |
-| Votes with party majority | 1,601 |
-| Party-line loyalty | 92.8% |
+| Votes with party majority | 1,603 |
+| Party-line loyalty | 92.9% |
 | Deviations from party | 26 |
 
 **Coverage:**

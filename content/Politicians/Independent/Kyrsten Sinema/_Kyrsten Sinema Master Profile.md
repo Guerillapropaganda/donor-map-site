@@ -145,15 +145,15 @@ donors: [[Wall Street Bloc]] · Private Equity Donors · [[Pharmaceutical Indust
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 116th–118th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
 | Roll-call votes tracked | 1,410 |
 | Substantive votes (Y/N) | 1,274 |
-| Votes with party majority | 1,080 |
-| Party-line loyalty | 84.8% |
-| Deviations from party | 31 |
+| Votes with party majority | 1,105 |
+| Party-line loyalty | 86.7% |
+| Deviations from party | 14 |
 
 **Coverage:**
 
@@ -162,20 +162,20 @@ donors: [[Wall Street Bloc]] · Private Equity Donors · [[Pharmaceutical Indust
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 
-**Most recent party-line deviations (top 10 of 31):**
+**Most recent party-line deviations (top 10 of 14):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| 2024-05-21 | s176-118.2 | Yea | N | S.J.Res. 58 |
-| 2024-05-16 | s169-118.2 | Yea | N | H.J.Res. 109 |
-| 2024-04-18 | s142-118.2 | Yea | N | S. 4072 |
-| 2024-04-10 | s121-118.2 | Yea | N | S.J.Res. 61 |
-| 2023-11-08 | s303-118.1 | Yea | N | S.J.Res. 38 |
-| 2023-10-31 | s277-118.1 | Yea | N | — |
-| 2023-10-25 | s266-118.1 | Yea | N | — |
-| 2023-07-26 | s200-118.1 | Yea | N | — |
-| 2023-07-25 | s196-118.1 | Nay | Y | — |
-| 2023-06-01 | s139-118.1 | Yea | N | — |
+| 2020-12-09 | s262-116.2 | Nay | Y | S.J.Res. 78 |
+| 2020-12-09 | s261-116.2 | Nay | Y | S.J.Res. 77 |
+| 2020-07-01 | s129-116.2 | Yea | N | — |
+| 2020-03-18 | s75-116.2 | Yea | N | — |
+| 2020-03-09 | s67-116.2 | Yea | N | — |
+| 2020-02-13 | s46-116.2 | Yea | N | — |
+| 2019-10-17 | s324-116.1 | Nay | Y | S.J.Res. 53 |
+| 2019-09-25 | s307-116.1 | Yea | N | S.Res. 336 |
+| 2019-09-25 | s306-116.1 | Yea | N | S.Res. 335 |
+| 2019-06-13 | s162-116.1 | Nay | Y | S.J.Res. 26 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

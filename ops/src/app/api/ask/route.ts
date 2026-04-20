@@ -458,9 +458,123 @@ function resolveTitle(fragment: string): ResolveResult {
   return { title: fragment, candidates: [], exact: false }
 }
 
+// Reverse lookup indexes: ticker, EIN, CIK, FEC committee id, FEC
+// candidate id, UEI — so a user asking "$META" or "EIN 23-7327730"
+// or "C00618389" or just "NVDA" resolves to the canonical vault
+// entity regardless of how they typed it. Built lazily on first
+// findEntity call, cached across requests within a process.
+let _idIndex: {
+  byTicker: Map<string, EntityRec>
+  byEin: Map<string, EntityRec>
+  byCik: Map<string, EntityRec>
+  byFecCommittee: Map<string, EntityRec>
+  byFecCandidate: Map<string, EntityRec>
+  byUei: Map<string, EntityRec>
+} | null = null
+
+function buildIdIndex() {
+  const byTicker = new Map<string, EntityRec>()
+  const byEin = new Map<string, EntityRec>()
+  const byCik = new Map<string, EntityRec>()
+  const byFecCommittee = new Map<string, EntityRec>()
+  const byFecCandidate = new Map<string, EntityRec>()
+  const byUei = new Map<string, EntityRec>()
+  const ents = loadEntities()
+  for (const e of ents) {
+    const s = (e.signals || {}) as Record<string, unknown>
+    const ticker = s.ticker as string | undefined
+    if (ticker) byTicker.set(String(ticker).toUpperCase(), e)
+    const ein = s.ein as string | undefined
+    if (ein) {
+      const digits = String(ein).replace(/\D/g, "")
+      if (digits) byEin.set(digits, e)
+    }
+    const cik = s.sec_cik as string | undefined
+    if (cik) {
+      // Accept both zero-padded and raw form.
+      const padded = String(cik).padStart(10, "0")
+      byCik.set(padded, e)
+      byCik.set(String(parseInt(padded, 10)), e)
+    }
+    const uei = s.uei as string | undefined
+    if (uei) byUei.set(String(uei).toUpperCase(), e)
+    const cmteIds = (s.fec_committee_ids as string[] | undefined) || []
+    const cmteIdScalar = s.fec_committee_id as string | undefined
+    for (const id of [...cmteIds, cmteIdScalar].filter(Boolean) as string[]) {
+      byFecCommittee.set(String(id).toUpperCase(), e)
+    }
+    const candIds = (s.fec_candidate_ids as string[] | undefined) || []
+    const candScalar = s.fec_candidate_id as string | undefined
+    for (const id of [...candIds, candScalar].filter(Boolean) as string[]) {
+      byFecCandidate.set(String(id).toUpperCase(), e)
+    }
+  }
+  _idIndex = { byTicker, byEin, byCik, byFecCommittee, byFecCandidate, byUei }
+}
+
+// Try to resolve an arbitrary user input string against federal
+// identifier indexes. Handles common prefixes ($META, EIN 12-3456789,
+// CIK 0001045810). Returns null if the string doesn't look like any
+// known identifier.
+function resolveByFederalId(input: string): EntityRec | null {
+  if (!_idIndex) buildIdIndex()
+  const idx = _idIndex!
+  const raw = input.trim()
+  if (!raw) return null
+
+  // Ticker: $SYM or 1-5 uppercase letters, possibly trailing.
+  const tickerMatch = raw.match(/^\$?([A-Za-z]{1,5})$/)
+  if (tickerMatch && idx.byTicker.has(tickerMatch[1].toUpperCase())) {
+    return idx.byTicker.get(tickerMatch[1].toUpperCase())!
+  }
+
+  // FEC committee id: C + 8 digits.
+  const cmteMatch = raw.match(/\b(C\d{8})\b/i)
+  if (cmteMatch && idx.byFecCommittee.has(cmteMatch[1].toUpperCase())) {
+    return idx.byFecCommittee.get(cmteMatch[1].toUpperCase())!
+  }
+
+  // FEC candidate id: {S|H|P}{digit}{2 letters}{5 digits} — e.g. S8WA00194, H2WA01054, P00009423.
+  const candMatch = raw.match(/\b([SHP]\d[A-Z]{2}\d{5}|P\d{8})\b/i)
+  if (candMatch && idx.byFecCandidate.has(candMatch[1].toUpperCase())) {
+    return idx.byFecCandidate.get(candMatch[1].toUpperCase())!
+  }
+
+  // EIN: 9 digits, optionally formatted XX-XXXXXXX. Accept "EIN 12-3456789".
+  const einMatch = raw.match(/\b(?:EIN[:\s]+)?(\d{2}-?\d{7})\b/i)
+  if (einMatch) {
+    const digits = einMatch[1].replace(/\D/g, "")
+    if (digits.length === 9 && idx.byEin.has(digits)) {
+      return idx.byEin.get(digits)!
+    }
+  }
+
+  // CIK: up to 10 digits, optionally prefixed "CIK". Skip if it's
+  // actually an EIN (9 digits) — EIN already ran above.
+  const cikMatch = raw.match(/\bCIK[:\s]+0*(\d{1,10})\b/i) || raw.match(/^0*(\d{10})$/)
+  if (cikMatch) {
+    const padded = cikMatch[1].padStart(10, "0")
+    if (idx.byCik.has(padded)) return idx.byCik.get(padded)!
+  }
+
+  // UEI: 12 alphanumeric characters, no vowels adjacent to numbers in
+  // positions SAM.gov specifies — for practical match, any 12-char
+  // alpha-num uppercase token.
+  const ueiMatch = raw.match(/\b([A-Z0-9]{12})\b/)
+  if (ueiMatch && idx.byUei.has(ueiMatch[1])) {
+    return idx.byUei.get(ueiMatch[1])!
+  }
+
+  return null
+}
+
 function findEntity(title: string): EntityRec | null {
   const ents = loadEntities()
-  return ents.find((e) => e.name === title) || null
+  // 1. Direct name match (existing behavior — most common path).
+  const byName = ents.find((e) => e.name === title)
+  if (byName) return byName
+  // 2. Federal identifier fallback: ticker, EIN, CIK, FEC id, UEI.
+  return resolveByFederalId(title)
 }
 
 // ─── Entity context: 1-sentence explainer + first paragraph from profile ─

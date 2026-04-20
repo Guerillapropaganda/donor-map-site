@@ -74,30 +74,47 @@ function loadEdges() {
   if (_cache) return _cache;
   const edges = [];
 
-  // 1. Canonical file (always first)
-  if (fs.existsSync(EDGE_FILE)) {
-    const raw = fs.readFileSync(EDGE_FILE, 'utf-8');
-    for (const line of raw.split(/\r?\n/)) {
-      const trimmed = line.trim();
-      if (!trimmed) continue;
-      try { edges.push(JSON.parse(trimmed)); } catch {}
+  // Read files in chunks to avoid V8 string length cap (~512MB).
+  // fec-oth-transfers.jsonl grows past this after committee-transfer
+  // aggregation, so readFileSync would throw ERR_STRING_TOO_LONG.
+  function readFileLines(filePath) {
+    const CHUNK = 64 * 1024 * 1024; // 64MB
+    const fd = fs.openSync(filePath, 'r');
+    try {
+      const size = fs.fstatSync(fd).size;
+      let offset = 0;
+      let carry = '';
+      while (offset < size) {
+        const len = Math.min(CHUNK, size - offset);
+        const buf = Buffer.alloc(len);
+        fs.readSync(fd, buf, 0, len, offset);
+        offset += len;
+        const chunk = carry + buf.toString('utf-8');
+        const lines = chunk.split(/\r?\n/);
+        carry = lines.pop(); // last partial line
+        for (const line of lines) {
+          const trimmed = line.trim();
+          if (!trimmed) continue;
+          try { edges.push(JSON.parse(trimmed)); } catch {}
+        }
+      }
+      if (carry.trim()) {
+        try { edges.push(JSON.parse(carry.trim())); } catch {}
+      }
+    } finally {
+      fs.closeSync(fd);
     }
   }
 
-  // 2. Every .jsonl file under data/derived/ (sorted so ordering is
-  //    deterministic across reloads — matters for downstream diff tooling)
+  // 1. Canonical file (always first)
+  if (fs.existsSync(EDGE_FILE)) readFileLines(EDGE_FILE);
+
+  // 2. Every .jsonl file under data/derived/ (sorted deterministically)
   if (fs.existsSync(DERIVED_DIR)) {
     const files = fs.readdirSync(DERIVED_DIR)
       .filter((f) => f.endsWith('.jsonl'))
       .sort();
-    for (const f of files) {
-      const raw = fs.readFileSync(path.join(DERIVED_DIR, f), 'utf-8');
-      for (const line of raw.split(/\r?\n/)) {
-        const trimmed = line.trim();
-        if (!trimmed) continue;
-        try { edges.push(JSON.parse(trimmed)); } catch {}
-      }
-    }
+    for (const f of files) readFileLines(path.join(DERIVED_DIR, f));
   }
 
   _cache = edges;
@@ -364,11 +381,21 @@ function writeEdgesPartitioned(sortedEdges) {
   if (!fs.existsSync(path.dirname(EDGE_FILE))) fs.mkdirSync(path.dirname(EDGE_FILE), { recursive: true });
   if (!fs.existsSync(DERIVED_DIR)) fs.mkdirSync(DERIVED_DIR, { recursive: true });
 
-  // Write every target file that has any content
+  // Write every target file that has any content. Stream in chunks
+  // because for >~1M edges a single string exceeds V8's ~500MB string
+  // length limit.
+  const WRITE_CHUNK = 100_000;
   for (const [file, edges] of byFile) {
     const tmp = `${file}.tmp-${process.pid}-${Date.now()}`;
-    const body = edges.map((e) => JSON.stringify(e)).join('\n') + '\n';
-    fs.writeFileSync(tmp, body, 'utf-8');
+    const fd = fs.openSync(tmp, 'w');
+    try {
+      for (let i = 0; i < edges.length; i += WRITE_CHUNK) {
+        const slice = edges.slice(i, i + WRITE_CHUNK);
+        fs.writeSync(fd, slice.map((e) => JSON.stringify(e)).join('\n') + '\n');
+      }
+    } finally {
+      fs.closeSync(fd);
+    }
     fs.renameSync(tmp, file);
   }
 
