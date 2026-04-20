@@ -33,11 +33,19 @@ const yauzl = require('yauzl');
 const {
   loadCheckpoint, markComplete, cleanupPartials, fmtBytes,
   DERIVED_ROOT, ensureDerivedDirs,
+  resolveBulkSubdir, assertBulkSentinel,
 } = require('./lib/fec-ingest-helpers.cjs');
+
+// Guard — fail closed if bulk dir is missing or sentinel gone. Prevents
+// silent empty-output runs after accidental bulk-dir cleanup.
+assertBulkSentinel();
 
 const ROOT = path.resolve(__dirname, '..');
 const PIPELINE = 'irs-990';
-const BULK_DIR = 'C:\\donor-map-data\\bulk\\IRS 990';
+// Resolve the IRS 990 subdirectory via the shared alias-tolerant lookup,
+// so a locally-renamed folder ("Form 990 IRS" instead of "IRS 990")
+// still resolves without forcing the user to rename to match the script.
+const BULK_DIR = resolveBulkSubdir('IRS 990') || 'C:\\donor-map-data\\bulk\\IRS 990';
 // Output to the external derived-data store (gitignored, too large for git —
 // 1,038 filings + 423,747 grants = ~200MB). Matches ADR-0014 pattern where
 // FEC derived stores live at C:\donor-map-data\fec\. Consumer scripts read

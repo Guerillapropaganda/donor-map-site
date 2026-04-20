@@ -31,7 +31,13 @@ const fs = require('fs');
 const {
   loadCheckpoint, markComplete, streamZip, cleanupPartials,
   listZips, fmtBytes, DERIVED_ROOT, ensureDerivedDirs,
+  assertBulkSentinel,
 } = require('./lib/fec-ingest-helpers.cjs');
+
+// Guard — fail closed if bulk dir is missing or .keepzips sentinel gone.
+// Prevents silent empty-output runs when the bulk archive has been
+// accidentally cleaned (see incident 2026-04-20).
+assertBulkSentinel();
 
 const PIPELINE = 'indiv';
 const SUBDIR = 'Contributions by Individuals';

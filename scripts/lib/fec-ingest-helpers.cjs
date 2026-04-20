@@ -133,10 +133,80 @@ function cleanupPartials() {
   }
 }
 
+// Find a bulk subdirectory with tolerance for case + alias. FEC folder
+// names have shifted over the years; local archives vary. Aliases let
+// ingest scripts declare a canonical name and still resolve to the
+// variant on disk.
+const SUBDIR_ALIASES = {
+  'Contributions by Individuals': [
+    'Contributions by individuals',
+  ],
+  'Committee to committee transactions': [
+    'Any transaction from one committee to another',
+  ],
+  'Contributions from committees to candidates & independent expenditures': [
+    'Contributions from comitt. to candidates & independent expenditures',
+  ],
+  'Operating Expenditures': [
+    'Operating expenditures',
+  ],
+  'IRS 990': [
+    'Form 990 IRS',
+  ],
+};
+
+function resolveBulkSubdir(subdir) {
+  const direct = path.join(BULK_ROOT, subdir);
+  if (fs.existsSync(direct)) return direct;
+  for (const a of (SUBDIR_ALIASES[subdir] || [])) {
+    const p = path.join(BULK_ROOT, a);
+    if (fs.existsSync(p)) return p;
+  }
+  // Case-insensitive fallback
+  if (fs.existsSync(BULK_ROOT)) {
+    const target = subdir.toLowerCase();
+    for (const entry of fs.readdirSync(BULK_ROOT, { withFileTypes: true })) {
+      if (!entry.isDirectory()) continue;
+      if (entry.name.toLowerCase() === target) return path.join(BULK_ROOT, entry.name);
+    }
+  }
+  return null;
+}
+
 function listZips(subdir) {
-  const full = path.join(BULK_ROOT, subdir);
-  if (!fs.existsSync(full)) return [];
+  const full = resolveBulkSubdir(subdir);
+  if (!full) return [];
   return fs.readdirSync(full).filter(f => f.endsWith('.zip')).sort();
+}
+
+/**
+ * Protection against silent-delete of C:\donor-map-data\bulk\ — a past
+ * session wiped the entire bulk directory without telling anyone, which
+ * cost hours and required re-downloading multi-GB zips. Drop a sentinel
+ * (.keepzips) at the bulk root and have ingest scripts loudly fail if
+ * it's missing. Fail-closed beats silent-empty-output.
+ *
+ * If there's a legitimate reason to clean bulk/: delete the sentinel
+ * AND leave a note in content/Admin Notes/ documenting the reason.
+ */
+const BULK_SENTINEL = path.join(BULK_ROOT, '.keepzips');
+
+function assertBulkSentinel() {
+  if (!fs.existsSync(BULK_ROOT)) {
+    throw new Error(
+      `[fec-ingest] bulk root missing: ${BULK_ROOT}\n` +
+      `  Re-download FEC/IRS bulk zips before retrying.`,
+    );
+  }
+  if (!fs.existsSync(BULK_SENTINEL)) {
+    throw new Error(
+      `[fec-ingest] bulk sentinel missing: ${BULK_SENTINEL}\n` +
+      `  Expected marker file .keepzips at bulk root. Either the bulk\n` +
+      `  dir was silently wiped (restore zips + recreate sentinel), or\n` +
+      `  this is a fresh machine (create it: echo keep > "${BULK_SENTINEL}").\n` +
+      `  Refusing to ingest to avoid emitting empty output.`,
+    );
+  }
 }
 
 function fmtBytes(n) {
@@ -159,5 +229,8 @@ module.exports = {
   PartialWriter,
   cleanupPartials,
   listZips,
+  resolveBulkSubdir,
+  assertBulkSentinel,
+  BULK_SENTINEL,
   fmtBytes,
 };
