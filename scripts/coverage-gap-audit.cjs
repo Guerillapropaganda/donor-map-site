@@ -134,6 +134,11 @@ function candidateMasterKeys(name) {
       // SCOTUS justices and appointees don't run campaigns — exclude from
       // noise by tagging them separately.
       const isJudicial = /(Justice|Judge|Roberts|Alito|Thomas|Sotomayor|Kagan|Gorsuch|Kavanaugh|Barrett|Jackson)/.test(ent.name);
+      // Cabinet / Secretary / agency-head appointees: politician-historical-
+      // coverage-backfill stamps federal_coverage_expected=false for
+      // these. Treat them like judicial — not a coverage gap.
+      const isAppointee = signals.federal_coverage_expected === false;
+      const noFederalExpected = isJudicial || isAppointee;
 
       const hasCandidateId = !!signals.fec_candidate_id;
       const hasCommitteeId = !!(signals.fec_committee_id || (signals.fec_committee_ids && signals.fec_committee_ids.length));
@@ -168,7 +173,7 @@ function candidateMasterKeys(name) {
         }
       }
 
-      if (!hasCandidateId && !hasCommitteeId && !isJudicial) {
+      if (!hasCandidateId && !hasCommitteeId && !noFederalExpected) {
         flags.push('no-fec-identifier');
         tier = 'EMPTY';
       } else if (hasCandidateId && !hasCommitteeId && !hasSummaryReceipts) {
@@ -180,7 +185,7 @@ function candidateMasterKeys(name) {
       const keys = candidateMasterKeys(ent.name);
       let matchedRecords = [];
       for (const k of keys) if (candByName.has(k)) matchedRecords = matchedRecords.concat(candByName.get(k));
-      if (matchedRecords.length > 0 && !isJudicial) {
+      if (matchedRecords.length > 0 && !noFederalExpected) {
         const knownIds = new Set([
           signals.fec_candidate_id,
           ...(signals.fec_candidate_ids || []),
@@ -195,20 +200,21 @@ function candidateMasterKeys(name) {
       // Empty / thin detection now uses pooled (stub-inclusive) counts,
       // AND accepts fec_receipts_lifetime as evidence even when edge
       // coverage is sparse.
-      if (pooledInEdgeCount === 0 && !isJudicial && !hasSummaryReceipts) {
+      if (pooledInEdgeCount === 0 && !noFederalExpected && !hasSummaryReceipts) {
         flags.push('zero-inbound-edges-and-no-summary');
         tier = 'EMPTY';
-      } else if (pooledInEdgeCount < 5 && !isJudicial && !hasSummaryReceipts) {
+      } else if (pooledInEdgeCount < 5 && !noFederalExpected && !hasSummaryReceipts) {
         flags.push(`thin-inbound-edges-${pooledInEdgeCount}-and-no-summary`);
         if (tier === 'OK') tier = 'THIN';
       }
 
-      if (pooledCycles.size === 1 && !isJudicial && !hasSummaryReceipts) {
+      if (pooledCycles.size === 1 && !noFederalExpected && !hasSummaryReceipts) {
         flags.push(`single-cycle-coverage-${[...pooledCycles][0]}`);
         if (tier === 'OK') tier = 'THIN';
       }
 
       if (isJudicial) flags.push('judicial-no-campaign-expected');
+      if (isAppointee) flags.push(`appointee-no-federal-expected-${(signals.federal_coverage_reason || '').replace(/[^a-z0-9]+/gi,'-').slice(0,50)}`);
 
       // Surface the pooled stub coverage as a positive signal so future
       // audits can tell pooling was applied. Also a diagnostic aid.
@@ -280,6 +286,21 @@ function candidateMasterKeys(name) {
     }
 
     if (flags.length === 0) tier = 'OK';
+
+    // Judicial and appointees are *expected* to have no federal-campaign
+    // record. If the only flags are the informational "no-federal-expected"
+    // markers, the entity is OK (explained gap, not a real gap).
+    if (ent.entity_type === 'politician') {
+      const onlyExpectedFlags = flags.every((f) =>
+        f === 'judicial-no-campaign-expected' ||
+        f.startsWith('appointee-no-federal-expected') ||
+        f.startsWith('pooled-') ||
+        f.startsWith('summary-receipts-')
+      );
+      if (onlyExpectedFlags && (signals.federal_coverage_expected === false || /(Justice|Judge)/.test(ent.name) || /(Roberts|Alito|Thomas|Sotomayor|Kagan|Gorsuch|Kavanaugh|Barrett|Jackson)/.test(ent.name))) {
+        tier = 'OK';
+      }
+    }
 
     findings.push({
       entity: ent.name,
