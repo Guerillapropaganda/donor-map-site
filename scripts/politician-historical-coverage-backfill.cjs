@@ -45,8 +45,14 @@ const ROOT = path.resolve(__dirname, '..');
 const ENT_FILE = path.join(ROOT, 'data', 'entities.jsonl');
 const REG_FILE = path.join(ROOT, 'data', 'fec-committee-registry.json');
 const FEC_ROOT = 'C:/donor-map-data/fec';
+const BULK_ROOT = 'C:/donor-map-data/bulk';
+const LEGISLATORS_CURRENT = path.join(BULK_ROOT, 'legislators-current.yaml');
+const LEGISLATORS_HISTORICAL = path.join(BULK_ROOT, 'legislators-historical.yaml');
+const CCL_DIR = path.join(BULK_ROOT, 'Candidate committee linkages');
 const WRITE = process.argv.includes('--write');
 const VERBOSE = process.argv.includes('--verbose');
+const yaml = require('js-yaml');
+const { execSync } = require('child_process');
 
 // Nickname expansion pairs. FEC uses legal first names; vault uses
 // common. Match in both directions: vault="Deb" may need FEC's "debra",
@@ -216,6 +222,66 @@ const nameKeys = buildNameVariants;
 (async function main() {
   console.log(`[politician-historical-coverage-backfill] ${WRITE ? 'WRITE' : 'dry-run'}\n`);
 
+  // Load unitedstates/congress-legislators YAML files: authoritative
+  // bioguide ↔ FEC candidate ID cross-walk for every US congressperson
+  // (current + historical). Closes maiden-name mismatches like Ashley
+  // Hinson ("ARENHOLZ" in FEC) and preferred-name cases.
+  console.log('  loading congress-legislators YAML...');
+  const fecByBioguide = new Map(); // bioguide_id → [fec_candidate_id, ...]
+  const fecByNameKey = new Map();  // "last first" → [fec_candidate_id, ...]  (for lookups without bioguide)
+  const bioguideByFec = new Map();
+  for (const f of [LEGISLATORS_CURRENT, LEGISLATORS_HISTORICAL]) {
+    if (!fs.existsSync(f)) { console.log(`  (missing: ${f})`); continue; }
+    const docs = yaml.load(fs.readFileSync(f, 'utf-8'));
+    for (const leg of docs) {
+      const bg = leg?.id?.bioguide;
+      const fecIds = leg?.id?.fec || [];
+      if (!bg || !fecIds.length) continue;
+      fecByBioguide.set(bg, fecIds);
+      for (const id of fecIds) bioguideByFec.set(id, bg);
+      // Also index under a name-based key for politicians whose vault
+      // entity is missing bioguide_id.
+      const n = leg?.name || {};
+      const last = (n.last || '').toLowerCase();
+      const first = (n.official_full || n.first || '').toLowerCase().split(/\s+/)[0];
+      if (last && first) {
+        const key = `${last} ${first}`;
+        if (!fecByNameKey.has(key)) fecByNameKey.set(key, []);
+        for (const id of fecIds) if (!fecByNameKey.get(key).includes(id)) fecByNameKey.get(key).push(id);
+      }
+    }
+  }
+  console.log(`  legislators indexed: ${fecByBioguide.size} bioguides with FEC IDs`);
+
+  // Load FEC Candidate-Committee Linkage (CCL): one row per
+  // candidate+cycle+committee, with committee designation (P=principal,
+  // A=authorized, etc.). Closes candidate-id-but-no-committee-id gaps.
+  console.log('  loading FEC candidate-committee linkages...');
+  const committeesByCandidate = new Map(); // cand_id → Set<cmte_id>
+  const principalByCandidate = new Map();  // cand_id → principal cmte_id (first seen)
+  if (fs.existsSync(CCL_DIR)) {
+    const cclZips = fs.readdirSync(CCL_DIR).filter((f) => f.startsWith('ccl') && f.endsWith('.zip'));
+    for (const fname of cclZips) {
+      // Stream each ccl CSV from inside its zip.
+      const proc = require('child_process').spawnSync('unzip', ['-p', path.join(CCL_DIR, fname)], { maxBuffer: 200 * 1024 * 1024 });
+      if (proc.status !== 0) continue;
+      const text = proc.stdout.toString('utf-8');
+      for (const line of text.split(/\r?\n/)) {
+        if (!line) continue;
+        const cols = line.split('|');
+        if (cols.length < 6) continue;
+        const candId = cols[0];
+        const cmteId = cols[3];
+        const dsgn = cols[5];
+        if (!candId || !cmteId) continue;
+        if (!committeesByCandidate.has(candId)) committeesByCandidate.set(candId, new Set());
+        committeesByCandidate.get(candId).add(cmteId);
+        if (dsgn === 'P' && !principalByCandidate.has(candId)) principalByCandidate.set(candId, cmteId);
+      }
+    }
+  }
+  console.log(`  CCL candidates with committees: ${committeesByCandidate.size}`);
+
   console.log('  building candidate-master index...');
   const candByKey = new Map();
   function indexUnder(key, rec) {
@@ -285,11 +351,43 @@ const nameKeys = buildNameVariants;
   const appointeeFlags = new Map(); // name → reason (chamber string)
   let unmatched = 0;
   const unmatchedNames = [];
+  let indexedById = null; // lazy id→candidate-master record index
 
   for (const p of politicians) {
     const keys = nameKeys(p.name);
     let records = [];
     for (const k of keys) if (candByKey.has(k)) records = records.concat(candByKey.get(k));
+
+    // Legislators YAML fallback: if name-match found nothing, look up the
+    // politician's bioguide_id (if known) or by lowercase last+first, and
+    // add FEC candidate IDs from the YAML cross-walk. Then re-hydrate
+    // records from candidate-master by those IDs so downstream pooling
+    // (committee IDs, history rows) works as normal.
+    const ycandidateIds = new Set();
+    const bg = p.signals?.bioguide_id;
+    if (bg && fecByBioguide.has(bg)) for (const id of fecByBioguide.get(bg)) ycandidateIds.add(id);
+    if (!ycandidateIds.size) {
+      // Try name-based lookup in YAML.
+      const parts = stripAccents(p.name).toLowerCase().split(/\s+/).filter(Boolean);
+      if (parts.length >= 2) {
+        const k = `${parts[parts.length - 1]} ${parts[0]}`;
+        if (fecByNameKey.has(k)) for (const id of fecByNameKey.get(k)) ycandidateIds.add(id);
+      }
+    }
+    if (ycandidateIds.size) {
+      // Rehydrate records from candByKey searching each id across all
+      // buckets — simpler: if the id wasn't already in `records`, fetch
+      // directly from a id→record index we build lazily.
+      // Build id index on-the-fly (cached across loop via closure-scoped Map).
+      if (!indexedById) {
+        indexedById = new Map();
+        for (const bucket of candByKey.values()) for (const r of bucket) indexedById.set(r.id, r);
+      }
+      for (const id of ycandidateIds) {
+        const r = indexedById.get(id);
+        if (r && !records.some((x) => x.id === id)) records.push(r);
+      }
+    }
 
     // Dedup by FEC id
     const byId = new Map();
@@ -326,6 +424,14 @@ const nameKeys = buildNameVariants;
 
     const newCandIds = new Set([...existingCandIds, ...records.map((r) => r.id)].filter(Boolean));
     const newCmteIds = new Set([...existingCmteIds, ...records.map((r) => r.principal_cmte_id)].filter(Boolean));
+    // CCL augmentation: for every candidate id we know about, pull in
+    // every committee linked to them in the official FEC CCL file. This
+    // catches historical + non-principal committees candidate-master
+    // doesn't surface (fixes candidate-id-but-no-committee-id flags).
+    for (const cid of newCandIds) {
+      const ccs = committeesByCandidate.get(cid);
+      if (ccs) for (const cmteId of ccs) newCmteIds.add(cmteId);
+    }
     const history = records
       .filter((r) => r.principal_cmte_id)
       .map((r) => ({ id: r.id, office: r.office, state: r.state, cycle: r.cycle, pc: r.principal_cmte_id }))
