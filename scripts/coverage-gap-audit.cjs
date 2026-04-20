@@ -264,12 +264,13 @@ function candidateMasterKeys(name) {
       const hasEin = !!signals.ein;
       const hasUei = !!signals.uei;
       const hasFecId = !!(signals.fec_committee_id || (signals.fec_committee_ids && signals.fec_committee_ids.length));
+      const hasSecCik = !!signals.sec_cik;
       // Industry blocs, private holdings, family-owned entities: flagged
       // by corp-federal-id-backfill as federal_id_expected=false so the
       // audit can explain the absence rather than treating it as a gap.
       const idExpected = signals.federal_id_expected !== false;
 
-      if (!hasEin && !hasUei && !hasFecId && idExpected) {
+      if (!hasEin && !hasUei && !hasFecId && !hasSecCik && idExpected) {
         if (signals.needs_sec_edgar_cik) {
           flags.push('no-federal-identifier-needs-sec-edgar');
         } else {
