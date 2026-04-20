@@ -187,6 +187,93 @@ export default function AskPage() {
         Plain-English donor-map queries. Pattern-matched to the relationship edge store and IRS 990 data. Not fuzzy AI — matches specific question shapes.
       </p>
 
+      <details style={styles.howtoDetails}>
+        <summary style={styles.howtoSummary}>How to use this — click to expand</summary>
+        <div style={styles.howtoBody}>
+          <div style={styles.howtoSection}>
+            <div style={styles.howtoHeading}>What this is</div>
+            <div>
+              A query engine over a structured database of political money flows. Every answer traces back to a specific
+              edge record (donor → recipient, with dollar amount and source). Two audiences: <strong>readers</strong> who
+              want a plain-English explainer, and <strong>researchers</strong> who want cite-ready paragraphs and source IDs.
+              Both get served — read what makes sense and ignore the rest.
+            </div>
+          </div>
+
+          <div style={styles.howtoSection}>
+            <div style={styles.howtoHeading}>Question shapes that work</div>
+            <div>
+              This isn't a chatbot. It matches specific phrasings to specific query types. Use these patterns:
+              <ul style={styles.howtoList}>
+                <li><strong>who is X</strong> / <strong>tell me about X</strong> — profile snapshot with flows in and out</li>
+                <li><strong>who funds X</strong> — donors to X, ranked by dollar amount</li>
+                <li><strong>where does X's money go</strong> — recipients of X, ranked</li>
+                <li><strong>does X fund Y</strong> / <strong>money chain from X to Y</strong> — traces the path (up to 3 hops) with a visual flow diagram</li>
+                <li><strong>what boards is X on</strong> — director/trustee affiliations</li>
+                <li><strong>who's on the board of X</strong> — the reverse</li>
+                <li><strong>top donors</strong> / <strong>top super pacs</strong> / <strong>top dafs</strong> / <strong>top politicians</strong> — leaderboards</li>
+                <li><strong>cross party donors</strong> — entities that fund both sides</li>
+                <li><strong>X voting record</strong> — for politicians only</li>
+              </ul>
+            </div>
+          </div>
+
+          <div style={styles.howtoSection}>
+            <div style={styles.howtoHeading}>How to read an answer card</div>
+            <div>
+              Cards are layered from normie to researcher, top to bottom:
+              <ol style={styles.howtoList}>
+                <li><strong>In plain English</strong> (blue left-border) — one-sentence translation. Start here.</li>
+                <li><strong>The trail, visualized</strong> — ASCII flow diagram, arrows with dollar amounts</li>
+                <li><strong>Is this illegal?</strong> (green) — preempts the instinctive first question</li>
+                <li><strong>Why should I care?</strong> (indigo) — stakes, not mechanics</li>
+                <li><strong>What this means</strong> (yellow) — jargon-tolerant explanation</li>
+                <li><strong>Important caveat</strong> (red) — data limitations worth knowing</li>
+                <li><strong>Who these are</strong> — one-sentence gloss per entity involved</li>
+                <li><strong>Follow-up questions</strong> — blue chips, click to pivot</li>
+                <li><strong>Cite-ready paragraph</strong> — copy/paste into articles, includes source IDs</li>
+                <li><strong>Evidence (N rows)</strong> — collapsible, raw edge table with source citations</li>
+              </ol>
+            </div>
+          </div>
+
+          <div style={styles.howtoSection}>
+            <div style={styles.howtoHeading}>Jargon glossary</div>
+            <div>
+              Underlined terms (<u>like this</u>) have hover tooltips. Technical terms that show up a lot:
+              <ul style={styles.howtoList}>
+                <li><strong>501(c)(4)</strong> — a "social welfare" nonprofit that doesn't disclose donors. The main dark-money vehicle.</li>
+                <li><strong>DAF</strong> (donor-advised fund) — an anonymous middleman that legally erases the original donor's name from the paper trail.</li>
+                <li><strong>Super PAC</strong> — can raise unlimited money but must disclose donors.</li>
+                <li><strong>EIN</strong> — the 9-digit federal tax ID for a nonprofit. Useful for researchers looking up IRS filings.</li>
+                <li><strong>Schedule I</strong> — the IRS form page where nonprofits list every grant they gave, with amounts.</li>
+              </ul>
+            </div>
+          </div>
+
+          <div style={styles.howtoSection}>
+            <div style={styles.howtoHeading}>What this DOESN'T do</div>
+            <div>
+              <ul style={styles.howtoList}>
+                <li>It doesn't do fuzzy matching yet. "MFT" may not resolve to "Marble Freedom Trust." Type the full name.</li>
+                <li>Not every profile is searchable. Some media personalities and think tanks exist as articles but aren't in the query index yet.</li>
+                <li>It's not a chatbot. Philosophical questions, open-ended analysis, anything vague — use a real profile page instead.</li>
+                <li>Dollar figures reflect only what's in the structured database. Some dark-money flows are legally hidden and can't be traced.</li>
+              </ul>
+            </div>
+          </div>
+
+          <div style={styles.howtoSection}>
+            <div style={styles.howtoHeading}>If a query doesn't work</div>
+            <div>
+              Try rephrasing using one of the patterns above. If you know the entity exists but the query fails, try
+              "tell me about [exact name]" first to see how the system has the entity registered. Names are sensitive
+              to exact spelling right now.
+            </div>
+          </div>
+        </div>
+      </details>
+
       <div style={styles.row}>
         <input
           style={styles.input}
@@ -459,8 +546,38 @@ function ResultCard({ r, onFollowUp }: { r: AskResponse; onFollowUp: (q: string)
         </details>
       )}
 
-      {r.rows.length === 0 && !r.note && !r.answer && (
-        <div style={styles.empty}>No rows matched.</div>
+      {/* Empty-result rescue — when a query finds nothing, don't just say
+          "No rows matched." Give the reader a useful off-ramp: common
+          reasons + 3 questions that reliably work. This turns a dead-end
+          into a next step. */}
+      {r.rows.length === 0 && !r.note && !r.answer && !r.plain_english && (
+        <div style={styles.emptyRescue}>
+          <div style={styles.emptyRescueHeading}>Nothing matched this query.</div>
+          <div style={styles.emptyRescueBody}>
+            A few things this could mean:
+            <ul style={styles.emptyRescueList}>
+              <li><strong>Entity not in the query index yet.</strong> Some profiles exist as articles but aren't searchable by this tool. Media personalities, think tanks, and lobby firms are the most common gaps.</li>
+              <li><strong>Name doesn't match exactly.</strong> Try the full registered name ("Marble Freedom Trust" instead of "MFT"). Fuzzy matching isn't on yet.</li>
+              <li><strong>Question shape isn't recognized.</strong> This isn't a chatbot. Try one of the patterns from the "How to use this" panel above.</li>
+              <li><strong>The data genuinely isn't there.</strong> Dark-money flows are often legally hidden and can't be traced even in principle.</li>
+            </ul>
+            <div style={styles.emptyRescueTryBlock}>
+              <strong>Queries that reliably work:</strong>
+              <div style={styles.emptyRescueChipsRow}>
+                {[
+                  "who funds marble freedom trust",
+                  "tell me about leonard leo",
+                  "top donors",
+                  "does marble freedom trust fund the 85 fund",
+                ].map((q) => (
+                  <button key={q} style={styles.followChip} onClick={() => onFollowUp(q)}>
+                    {q}
+                  </button>
+                ))}
+              </div>
+            </div>
+          </div>
+        </div>
       )}
     </div>
   )
@@ -555,6 +672,23 @@ const styles: Record<string, React.CSSProperties> = {
   whoIsLeadWrap: { marginTop: 14, padding: "12px 14px", background: "#0f0f0f", border: "1px solid #fbbf24" },
   whoIsLeadLabel: { fontSize: 12, fontWeight: 700, color: "#fbbf24", letterSpacing: 1, marginBottom: 6 },
   whoIsLead: { fontSize: 14, color: "#eaeaea", lineHeight: 1.55 },
+
+  // "How to use this" collapsible help panel — lives above the input,
+  // default collapsed so it doesn't dominate the page for repeat users.
+  howtoDetails: { marginTop: 8, marginBottom: 16, padding: "8px 12px", background: "#0d0d0d", border: "1px solid #2a2a2a" },
+  howtoSummary: { cursor: "pointer", fontSize: 13, color: "#aaa", fontWeight: 600, letterSpacing: 0.3, userSelect: "none" as const, padding: "4px 0" },
+  howtoBody: { marginTop: 10, paddingTop: 10, borderTop: "1px solid #222", fontSize: 13, color: "#ccc", lineHeight: 1.6 },
+  howtoSection: { marginBottom: 14 },
+  howtoHeading: { fontSize: 11, fontWeight: 700, color: "#fbbf24", letterSpacing: 1.5, textTransform: "uppercase" as const, marginBottom: 6 },
+  howtoList: { margin: "6px 0 0 18px", padding: 0 },
+
+  // Empty-result rescue — friendly off-ramp when a query finds nothing.
+  emptyRescue: { marginTop: 12, padding: "14px 16px", background: "#0d0d0d", border: "1px solid #2a2a2a" },
+  emptyRescueHeading: { fontSize: 15, color: "#fbbf24", fontWeight: 700, marginBottom: 10 },
+  emptyRescueBody: { fontSize: 13, color: "#ccc", lineHeight: 1.6 },
+  emptyRescueList: { margin: "8px 0 12px 18px", padding: 0 },
+  emptyRescueTryBlock: { marginTop: 12, paddingTop: 10, borderTop: "1px solid #222" },
+  emptyRescueChipsRow: { display: "flex", flexWrap: "wrap", gap: 6, marginTop: 6 },
 
   caveatsWrap: { marginTop: 12, padding: "10px 14px", background: "#1a0c0c", border: "1px solid #e63946" },
   caveatsLabel: { fontSize: 10, fontWeight: 700, color: "#e63946", letterSpacing: 2, textTransform: "uppercase", marginBottom: 6 },

@@ -1145,6 +1145,53 @@ async function handleSummary(c: ClassifiedQuestion, question: string, engine: an
   for (const b of boards.slice(0, 3)) if (b.to) contextNames.add(b.to as string)
   const context = [...contextNames].map((n) => explainEntity(n))
 
+  // ─── Plain-English overlay for normies ──────────────────────────
+  // Extend the same TL;DR / is-this-legal / why-matters treatment
+  // used on money_chain cards to single-entity summaries. Only fires
+  // for dark-money vehicles and operators — corporate / politician
+  // summaries stay schema-first (they already read naturally enough).
+  const sectorLower = String(ent?.signals?.sector || "").toLowerCase()
+  const ideo = (ent?.ideological_function || []).join(" ").toLowerCase()
+  const capital = String(ent?.capital_type || "").toLowerCase()
+  const isDarkMoneyVehicle =
+    sectorLower.includes("dark money") ||
+    ideo.includes("dark-money") ||
+    ideo.includes("dark money") ||
+    capital.includes("dark-money") ||
+    ent?.signals?.structural_role === "dark-money-vehicle"
+
+  let plain_english: string | undefined
+  let is_this_legal: string | undefined
+  let why_matters: string | undefined
+
+  if (isDarkMoneyVehicle && ent) {
+    const totalIn = inflows.rows
+      .filter((e: any) => e.amount)
+      .reduce((a: number, e: any) => a + Number(e.amount), 0)
+    const totalOut = outflows.rows
+      .filter((e: any) => e.amount)
+      .reduce((a: number, e: any) => a + Number(e.amount), 0)
+    const kind = ent.entity_type || "entity"
+
+    if (kind === "donor" || kind === "corporation" || kind === "nonprofit") {
+      // Build a one-sentence TL;DR for the vehicle
+      const moneyBit = (totalIn > 0 || totalOut > 0)
+        ? ` On the books: received ${fmtUsd(totalIn)} from ${inflows.total} donor${inflows.total === 1 ? "" : "s"}, distributed ${fmtUsd(totalOut)} to ${outflows.total} recipient${outflows.total === 1 ? "" : "s"}.`
+        : ""
+      plain_english = `**In plain English:** ${name} is a dark-money vehicle — a nonprofit that can legally accept unlimited donations and is not required to publicly disclose who gave.${moneyBit} The named donors in the list below are the ones the IRS forced into the open through Schedule I grant disclosures by *other* nonprofits. The rest of the money arrived anonymously by design.`
+
+      is_this_legal = `**No, and that's the structural problem.** 501(c)(4) "social welfare" nonprofits are permitted by federal law to spend unlimited sums on political advocacy without ever disclosing their donors. ${name} is using a legal framework — the scandal is that the framework exists, not that anyone's breaking it.`
+
+      why_matters = `When a single vehicle concentrates ${fmtUsd(totalOut || totalIn)} of politically-directed money with no public accountability for who funded it, voters can't evaluate whose interests are actually being served by the ads, lobbying, and ${kind === "nonprofit" ? "grant programs" : "political spending"} it pays for. That opacity is the point, and the reason this class of vehicle exists.`
+    } else if (kind === "individual" || kind === "person") {
+      plain_english = `**In plain English:** ${name} is a dark-money operator — someone whose political influence runs mostly through nonprofits they control or chair, not direct personal giving. Their personal FEC donations are typically small; the real scale is in the vehicles listed below.`
+
+      is_this_legal = `**Yes, it's legal.** Chairing a 501(c)(4) that doesn't disclose donors is not a crime. The structural question is whether the legal framework around these vehicles should exist at this scale, not whether any specific operator is breaking rules.`
+
+      why_matters = `Concentrated political spending by a single operator — hundreds of millions routed through controlled vehicles — bypasses the campaign-finance disclosure system entirely. When you can't trace money from its original source to the political outcome it bought, you can't hold anyone accountable for that influence. That's the democratic cost of this structure.`
+    }
+  }
+
   return {
     question,
     intent: "summary",
@@ -1155,6 +1202,9 @@ async function handleSummary(c: ClassifiedQuestion, question: string, engine: an
     answer,
     bullets,
     context,
+    plain_english,
+    is_this_legal,
+    why_matters,
     summary: `${inflows.total} inbound, ${outflows.total} outbound, ${affiliations_from.total + affiliations_to.total} affiliations${viaOrgs.length > 0 ? ", " + viaOrgs.length + " via-org flows" : ""}.`,
   }
 }
