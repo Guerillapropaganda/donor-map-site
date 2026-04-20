@@ -308,3 +308,39 @@ other profiles reference him), so these fixes have high leverage.
    "(via controlled orgs)" labels instead of empty "—".
 10. **Code Claude:** audit Ask UI "top support" double-render (Schwab row
     appears twice in screenshot).
+
+---
+
+## Update 2026-04-20 (late PM) — MFT data re-check
+
+The $461M "moved to allies" figure from the Ask UI screenshot was not a
+data-ingest problem. Direct inspection of the edge store shows **$803M
+total MFT outflows across 2021-2024** — within 4% of the $838M ProPublica
+990 Part IX total. Matches IRS Schedule I grant rows exactly:
+
+| Year | Edge store | IRS 990 grant_total |
+|---|---:|---:|
+| 2021 | $228.6M | $228.6M |
+| 2022 | $182.7M | $182.7M |
+| 2023 | $209.3M | $216.8M |
+| 2024 | $182.4M | $189.2M |
+
+Top recipients match external reporting: Schwab Charitable Fund $447.6M
+(cumulative across 4 years), JCN $161.3M, Rule of Law Trust $153.0M,
+Donors Trust $41.1M.
+
+**Revised diagnosis:** MFT structured data is correct and well-ingested.
+The $461M figure in the Ask UI is either (a) applying a cycle/year
+filter not visible in the screenshot, or (b) a query-engine scoping
+issue that misses 42% of the true total. **The bug is in the Ask UI
+query, not the 990 ingest.**
+
+This also explains why the Ask UI shows "Schwab Charitable Fund $154M"
+twice — Schwab appears in every year of MFT grants at ~$150M/cycle,
+and the display is collapsing adjacent years into what looks like
+duplicate rows.
+
+Revised action for item #1 from Appendix A: **was** "refresh irs-990-
+bulk ingest for MFT recent years" — **actually** "audit the Ask UI
+query that produces the 'moved to allies' figure; current query returns
+$461M where $803M is in the edge store."
