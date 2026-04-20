@@ -149,13 +149,26 @@ async function streamSum(file, keyFn, valueFn, cycleFn) {
     (r) => r.amount,
     (r) => r.cycle,
   );
+  // Transfers: exclude intra-entity shuffles (src and dst both map to
+  // the same vault entity) — the edge-store aggregator also drops
+  // these as selfSkipped, so counting them in the source sum would
+  // create a phantom UNDER-count for entities with multiple affiliate
+  // committees (WinSenate moves $313M/cycle between its own affiliates).
   console.log('  summing oth-transfers (6.9M rows, slow)...');
-  const transfers = await streamSum(
-    path.join(FEC_ROOT, 'oth-transfers.jsonl'),
-    (r) => r.dst_cmte_id,
-    (r) => r.amount,
-    (r) => r.cycle,
-  );
+  const transfers = new Map();
+  {
+    const rl = readline.createInterface({ input: fs.createReadStream(path.join(FEC_ROOT, 'oth-transfers.jsonl')) });
+    for await (const line of rl) {
+      if (!line.trim()) continue;
+      let r; try { r = JSON.parse(line); } catch { continue; }
+      if (!r.dst_cmte_id) continue;
+      const srcEnt = cmteToEntity.get(r.src_cmte_id);
+      const dstEnt = cmteToEntity.get(r.dst_cmte_id);
+      if (srcEnt && dstEnt && srcEnt.name === dstEnt.name) continue; // intra-entity shuffle
+      const key = `${r.dst_cmte_id}|${String(r.cycle || '')}`;
+      transfers.set(key, (transfers.get(key) || 0) + (r.amount || 0));
+    }
+  }
   console.log('  summing pas2-direct-donors (5.4M rows, slow)...');
   const pacGifts = await streamSum(
     path.join(FEC_ROOT, 'pas2-direct-donors.jsonl'),
