@@ -230,9 +230,13 @@ function candidateMasterKeys(name) {
       const isDarkMoney = sector.includes('dark money') || (ent.ideological_function || []).some((f) => f.includes('dark-money'));
       const hasEin = !!signals.ein;
       const hasFecId = !!(signals.fec_committee_id || (signals.fec_committee_ids && signals.fec_committee_ids.length));
+      // Individuals, for-profit companies, industry-bloc aggregations etc.
+      // legitimately have no EIN — donor-ein-backfill stamps this so we
+      // stop flagging them as gaps.
+      const einExpected = signals.ein_coverage_expected !== false;
 
       if (isDarkMoney) {
-        if (!hasEin) {
+        if (!hasEin && einExpected) {
           flags.push('dark-money-no-ein');
           if (tier === 'OK') tier = 'THIN';
         }
@@ -242,7 +246,7 @@ function candidateMasterKeys(name) {
         }
       } else {
         // Super PACs, mega-donors, etc.
-        if (!hasFecId && !hasEin) {
+        if (!hasFecId && !hasEin && einExpected) {
           flags.push('no-fec-and-no-ein');
           if (tier === 'OK') tier = 'THIN';
         }
@@ -250,6 +254,9 @@ function candidateMasterKeys(name) {
           flags.push('zero-edges-both-sides');
           tier = 'EMPTY';
         }
+      }
+      if (!einExpected) {
+        flags.push(`no-ein-expected-${(signals.ein_coverage_reason || '').replace(/[^a-z0-9]+/gi,'-').slice(0,40)}`);
       }
     } else if (ent.entity_type === 'corporation') {
       // Corporations: could be a lobbying firm, a contractor, or a donor.
@@ -300,6 +307,12 @@ function candidateMasterKeys(name) {
       if (onlyExpectedFlags && (signals.federal_coverage_expected === false || /(Justice|Judge)/.test(ent.name) || /(Roberts|Alito|Thomas|Sotomayor|Kagan|Gorsuch|Kavanaugh|Barrett|Jackson)/.test(ent.name))) {
         tier = 'OK';
       }
+    }
+    // Same treatment for donors stamped ein_coverage_expected=false
+    // (individuals, industry blocs, for-profit LLCs).
+    if ((ent.entity_type === 'donor' || ent.entity_type === 'nonprofit') && signals.ein_coverage_expected === false) {
+      const onlyExpectedFlags = flags.every((f) => f.startsWith('no-ein-expected-'));
+      if (onlyExpectedFlags) tier = 'OK';
     }
 
     findings.push({
