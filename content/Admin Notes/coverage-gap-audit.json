@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-20T19:16:02.587Z",
+  "generated": "2026-04-20T19:30:16.006Z",
   "totals": {
     "donor": {
       "OK": 565,
@@ -37,9 +37,9 @@
       "total": 97
     },
     "nonprofit": {
-      "OK": 0,
+      "OK": 7,
       "THIN": 0,
-      "EMPTY": 7,
+      "EMPTY": 0,
       "MISMATCHED": 0,
       "total": 7
     },
@@ -294,10 +294,10 @@
       "profile_path": "content/Donors & Power Networks/Wall Street/Fidelity Investments.md",
       "tier": "OK",
       "flags": [],
-      "in_edges": 48,
-      "out_edges": 372,
-      "in_total": 3384137782,
-      "out_total": 6142832163,
+      "in_edges": 49,
+      "out_edges": 405,
+      "in_total": 3384297782,
+      "out_total": 6453327204,
       "sources": [
         "irs-990-bulk",
         "fec-individual-bulk"
@@ -1088,9 +1088,9 @@
       "tier": "OK",
       "flags": [],
       "in_edges": 5,
-      "out_edges": 18,
+      "out_edges": 20,
       "in_total": 42830000,
-      "out_total": 12605099,
+      "out_total": 13279099,
       "sources": [
         "irs-990-bulk",
         "fec-individual-bulk"
@@ -1696,8 +1696,8 @@
       "flags": [],
       "in_edges": 465,
       "out_edges": 383,
-      "in_total": 300928847,
-      "out_total": 122956569,
+      "in_total": 300778847,
+      "out_total": 119356569,
       "sources": [
         "fec-indiv-by-committee",
         "fec-oth-transfers",
@@ -1776,9 +1776,9 @@
       "tier": "OK",
       "flags": [],
       "in_edges": 0,
-      "out_edges": 10,
+      "out_edges": 13,
       "in_total": 0,
-      "out_total": 803000000,
+      "out_total": 994500000,
       "sources": [
         "irs-990-bulk"
       ],
@@ -2206,12 +2206,13 @@
       "profile_path": "content/Donors & Power Networks/Restaurant & Food/National Restaurant Association.md",
       "tier": "OK",
       "flags": [],
-      "in_edges": 5,
-      "out_edges": 209,
-      "in_total": 2200,
-      "out_total": 815950,
+      "in_edges": 6,
+      "out_edges": 210,
+      "in_total": 102200,
+      "out_total": 915950,
       "sources": [
         "fec-individual-bulk",
+        "irs-990-bulk",
         "fec-bulk"
       ],
       "cycles": [
@@ -5526,9 +5527,9 @@
       "tier": "OK",
       "flags": [],
       "in_edges": 0,
-      "out_edges": 16,
+      "out_edges": 17,
       "in_total": 0,
-      "out_total": 1145650,
+      "out_total": 1245650,
       "sources": [
         "fec-individual-bulk",
         "irs-990-bulk"
@@ -6678,8 +6679,8 @@
       "flags": [],
       "in_edges": 302,
       "out_edges": 64,
-      "in_total": 412108777,
-      "out_total": 48332500,
+      "in_total": 411508777,
+      "out_total": 48132500,
       "sources": [
         "fec-indiv-by-committee",
         "fec-oth-transfers",
@@ -6708,9 +6709,9 @@
       "profile_path": "content/Donors & Power Networks/Dark Money/American Action Network.md",
       "tier": "OK",
       "flags": [],
-      "in_edges": 8,
+      "in_edges": 14,
       "out_edges": 4,
-      "in_total": 29200000,
+      "in_total": 57700000,
       "out_total": 6475000,
       "sources": [
         "irs-990-bulk"
@@ -6731,9 +6732,9 @@
       "profile_path": "content/Donors & Power Networks/Dark Money/American Enterprise Institute.md",
       "tier": "OK",
       "flags": [],
-      "in_edges": 42,
+      "in_edges": 44,
       "out_edges": 11,
-      "in_total": 28973150,
+      "in_total": 29173150,
       "out_total": 12750,
       "sources": [
         "irs-990-bulk",
@@ -6832,9 +6833,9 @@
       "tier": "OK",
       "flags": [],
       "in_edges": 14,
-      "out_edges": 17,
+      "out_edges": 18,
       "in_total": 94637120,
-      "out_total": 33659973,
+      "out_total": 33765053,
       "sources": [
         "irs-990-bulk"
       ],
@@ -6888,9 +6889,9 @@
       "tier": "OK",
       "flags": [],
       "in_edges": 0,
-      "out_edges": 30,
+      "out_edges": 32,
       "in_total": 0,
-      "out_total": 1144645,
+      "out_total": 1444645,
       "sources": [
         "fec-individual-bulk",
         "irs-990-bulk"
@@ -6905,9 +6906,9 @@
       "tier": "OK",
       "flags": [],
       "in_edges": 31,
-      "out_edges": 41,
+      "out_edges": 45,
       "in_total": 55976677,
-      "out_total": 193642,
+      "out_total": 2648642,
       "sources": [
         "irs-990-bulk",
         "fec-individual-bulk"
@@ -7331,10 +7332,10 @@
       "profile_path": "content/Donors & Power Networks/Dark Money/Heritage Foundation.md",
       "tier": "OK",
       "flags": [],
-      "in_edges": 40,
-      "out_edges": 13,
-      "in_total": 21932345,
-      "out_total": 104304,
+      "in_edges": 43,
+      "out_edges": 14,
+      "in_total": 22407345,
+      "out_total": 204304,
       "sources": [
         "irs-990-bulk",
         "fec-individual-bulk"
@@ -7356,9 +7357,9 @@
       "profile_path": "content/Donors & Power Networks/Dark Money/Judicial Crisis Network.md",
       "tier": "OK",
       "flags": [],
-      "in_edges": 5,
+      "in_edges": 6,
       "out_edges": 6,
-      "in_total": 182850000,
+      "in_total": 216300000,
       "out_total": 13800250,
       "sources": [
         "irs-990-bulk",
@@ -7369,7 +7370,8 @@
         "2021",
         "2022",
         "2023",
-        "2024"
+        "2024",
+        "2025"
       ]
     },
     {
@@ -7502,10 +7504,10 @@
       "profile_path": "content/Donors & Power Networks/Dark Money/New Venture Fund.md",
       "tier": "OK",
       "flags": [],
-      "in_edges": 59,
-      "out_edges": 88,
-      "in_total": 929738716,
-      "out_total": 716044707,
+      "in_edges": 60,
+      "out_edges": 102,
+      "in_total": 929844561,
+      "out_total": 730954994,
       "sources": [
         "irs-990-bulk",
         "fec-individual-bulk"
@@ -7652,9 +7654,9 @@
       "tier": "OK",
       "flags": [],
       "in_edges": 14,
-      "out_edges": 48,
+      "out_edges": 49,
       "in_total": 312936428,
-      "out_total": 303916370,
+      "out_total": 304376370,
       "sources": [
         "irs-990-bulk",
         "fec-individual-bulk"
@@ -7726,9 +7728,9 @@
       "tier": "OK",
       "flags": [],
       "in_edges": 14,
-      "out_edges": 9,
+      "out_edges": 11,
       "in_total": 556397856,
-      "out_total": 201197846,
+      "out_total": 201847846,
       "sources": [
         "irs-990-bulk"
       ],
@@ -7866,10 +7868,10 @@
       "profile_path": "content/Donors & Power Networks/Dark Money/Donors Trust/Donors Trust.md",
       "tier": "OK",
       "flags": [],
-      "in_edges": 30,
-      "out_edges": 51,
-      "in_total": 435900334,
-      "out_total": 138334220,
+      "in_edges": 31,
+      "out_edges": 60,
+      "in_total": 436490734,
+      "out_total": 141100890,
       "sources": [
         "irs-990-bulk",
         "fec-individual-bulk"
@@ -23827,9 +23829,9 @@
       "profile_path": "content/Donors & Power Networks/Super PACs/Republican Party of Florida.md",
       "tier": "OK",
       "flags": [],
-      "in_edges": 982,
+      "in_edges": 983,
       "out_edges": 115,
-      "in_total": 148977863,
+      "in_total": 149077863,
       "out_total": 148252726,
       "sources": [
         "fec-indiv-by-committee",
@@ -25299,7 +25301,7 @@
       "flags": [],
       "in_edges": 412,
       "out_edges": 226,
-      "in_total": 144581593,
+      "in_total": 144531593,
       "out_total": 27136887,
       "sources": [
         "fec-indiv-by-committee",
@@ -26328,9 +26330,9 @@
       "profile_path": "content/Donors & Power Networks/Super PACs/American Conservative Union.md",
       "tier": "OK",
       "flags": [],
-      "in_edges": 16,
+      "in_edges": 18,
       "out_edges": 20,
-      "in_total": 1180375,
+      "in_total": 1480375,
       "out_total": 242452,
       "sources": [
         "fec-indiv-by-committee",
@@ -27605,7 +27607,7 @@
       "flags": [],
       "in_edges": 64,
       "out_edges": 78,
-      "in_total": 35040048,
+      "in_total": 32040048,
       "out_total": 21594946,
       "sources": [
         "fec-indiv-by-committee",
@@ -30585,15 +30587,16 @@
       "profile_path": "content/Donors & Power Networks/Dark Money/Rule of Law Trust.md",
       "tier": "OK",
       "flags": [],
-      "in_edges": 1,
+      "in_edges": 2,
       "out_edges": 6,
-      "in_total": 153000000,
+      "in_total": 153400000,
       "out_total": 80043800,
       "sources": [
         "irs-990-bulk"
       ],
       "cycles": [
-        "2021"
+        "2021",
+        "2025"
       ]
     },
     {
@@ -30603,10 +30606,10 @@
       "profile_path": "content/Donors & Power Networks/Wall Street/National Philanthropic Trust.md",
       "tier": "OK",
       "flags": [],
-      "in_edges": 48,
-      "out_edges": 230,
-      "in_total": 2746857065,
-      "out_total": 3641597762,
+      "in_edges": 49,
+      "out_edges": 256,
+      "in_total": 2748386397,
+      "out_total": 3849735670,
       "sources": [
         "irs-990-bulk"
       ],
@@ -30627,10 +30630,10 @@
       "profile_path": "content/Donors & Power Networks/Wall Street/Schwab Charitable Fund.md",
       "tier": "OK",
       "flags": [],
-      "in_edges": 53,
-      "out_edges": 295,
-      "in_total": 2677441694,
-      "out_total": 3037626247,
+      "in_edges": 57,
+      "out_edges": 327,
+      "in_total": 2836702694,
+      "out_total": 3437724964,
       "sources": [
         "irs-990-bulk"
       ],
@@ -30641,7 +30644,8 @@
         "2021",
         "2022",
         "2023",
-        "2024"
+        "2024",
+        "2025"
       ]
     },
     {
@@ -30819,9 +30823,9 @@
       "profile_path": "content/Think Tanks & Policy Infrastructure/Centrist/Council on Foreign Relations.md",
       "tier": "OK",
       "flags": [],
-      "in_edges": 33,
+      "in_edges": 37,
       "out_edges": 0,
-      "in_total": 35354121,
+      "in_total": 37754121,
       "out_total": 0,
       "sources": [
         "irs-990-bulk"
@@ -30933,9 +30937,9 @@
       "profile_path": "content/Think Tanks & Policy Infrastructure/Conservative/Hudson Institute.md",
       "tier": "OK",
       "flags": [],
-      "in_edges": 23,
+      "in_edges": 25,
       "out_edges": 0,
-      "in_total": 14060892,
+      "in_total": 14360892,
       "out_total": 0,
       "sources": [
         "irs-990-bulk"
@@ -30958,9 +30962,9 @@
       "tier": "OK",
       "flags": [],
       "in_edges": 22,
-      "out_edges": 0,
+      "out_edges": 2,
       "in_total": 48707875,
-      "out_total": 0,
+      "out_total": 2817800,
       "sources": [
         "irs-990-bulk"
       ],
@@ -31094,9 +31098,9 @@
       "tier": "OK",
       "flags": [],
       "in_edges": 21,
-      "out_edges": 1,
+      "out_edges": 5,
       "in_total": 22963223,
-      "out_total": 108351,
+      "out_total": 2103225,
       "sources": [
         "irs-990-bulk"
       ],
@@ -31141,10 +31145,10 @@
       "profile_path": "content/Donors & Power Networks/Dark Money/Hopewell Fund.md",
       "tier": "OK",
       "flags": [],
-      "in_edges": 49,
-      "out_edges": 22,
-      "in_total": 298566280,
-      "out_total": 36346699,
+      "in_edges": 50,
+      "out_edges": 24,
+      "in_total": 298808066,
+      "out_total": 37051699,
       "sources": [
         "irs-990-bulk"
       ],
@@ -31190,9 +31194,9 @@
       "tier": "OK",
       "flags": [],
       "in_edges": 45,
-      "out_edges": 60,
+      "out_edges": 62,
       "in_total": 394382338,
-      "out_total": 78565308,
+      "out_total": 78833754,
       "sources": [
         "irs-990-bulk"
       ],
@@ -31262,10 +31266,10 @@
       "profile_path": "content/Donors & Power Networks/Wall Street/American Endowment Foundation.md",
       "tier": "OK",
       "flags": [],
-      "in_edges": 36,
-      "out_edges": 124,
-      "in_total": 492924548,
-      "out_total": 933348297,
+      "in_edges": 37,
+      "out_edges": 135,
+      "in_total": 493924548,
+      "out_total": 952855193,
       "sources": [
         "irs-990-bulk"
       ],
@@ -31307,9 +31311,9 @@
       "tier": "OK",
       "flags": [],
       "in_edges": 29,
-      "out_edges": 135,
+      "out_edges": 150,
       "in_total": 412197276,
-      "out_total": 2667280266,
+      "out_total": 2810075190,
       "sources": [
         "irs-990-bulk"
       ],
@@ -31331,9 +31335,9 @@
       "tier": "OK",
       "flags": [],
       "in_edges": 21,
-      "out_edges": 18,
+      "out_edges": 21,
       "in_total": 268809391,
-      "out_total": 20515245,
+      "out_total": 22234045,
       "sources": [
         "irs-990-bulk"
       ],
@@ -31355,9 +31359,9 @@
       "tier": "OK",
       "flags": [],
       "in_edges": 33,
-      "out_edges": 72,
+      "out_edges": 76,
       "in_total": 424377339,
-      "out_total": 68328908,
+      "out_total": 68974839,
       "sources": [
         "irs-990-bulk"
       ],
@@ -31378,10 +31382,10 @@
       "profile_path": "content/Donors & Power Networks/Wall Street/Morgan Stanley Global Impact Funding Trust.md",
       "tier": "OK",
       "flags": [],
-      "in_edges": 39,
-      "out_edges": 108,
-      "in_total": 539352313,
-      "out_total": 403619502,
+      "in_edges": 40,
+      "out_edges": 114,
+      "in_total": 540299594,
+      "out_total": 461203807,
       "sources": [
         "irs-990-bulk"
       ],
@@ -31426,10 +31430,10 @@
       "profile_path": "content/Donors & Power Networks/Wall Street/Silicon Valley Community Foundation.md",
       "tier": "OK",
       "flags": [],
-      "in_edges": 31,
-      "out_edges": 133,
-      "in_total": 2552467698,
-      "out_total": 1885212134,
+      "in_edges": 33,
+      "out_edges": 150,
+      "in_total": 2552767698,
+      "out_total": 1973838573,
       "sources": [
         "irs-990-bulk"
       ],
@@ -31451,9 +31455,9 @@
       "tier": "OK",
       "flags": [],
       "in_edges": 41,
-      "out_edges": 114,
+      "out_edges": 125,
       "in_total": 288400575,
-      "out_total": 666543982,
+      "out_total": 737651547,
       "sources": [
         "irs-990-bulk"
       ],
@@ -31715,9 +31719,9 @@
       "profile_path": "content/Donors & Power Networks/Dark Money/NEO Philanthropy.md",
       "tier": "OK",
       "flags": [],
-      "in_edges": 46,
+      "in_edges": 49,
       "out_edges": 0,
-      "in_total": 79376399,
+      "in_total": 80026399,
       "out_total": 0,
       "sources": [
         "irs-990-bulk"
@@ -40519,80 +40523,117 @@
       "entity_type": "nonprofit",
       "sector": "Think Tank",
       "profile_path": "content/Think Tanks & Policy Infrastructure/Centrist/Brookings Institution.md",
-      "tier": "EMPTY",
-      "flags": [
-        "zero-edges-both-sides"
-      ],
-      "in_edges": 0,
+      "tier": "OK",
+      "flags": [],
+      "in_edges": 39,
       "out_edges": 0,
-      "in_total": 0,
+      "in_total": 18974938,
       "out_total": 0,
-      "sources": [],
-      "cycles": []
+      "sources": [
+        "irs-990-bulk"
+      ],
+      "cycles": [
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ]
     },
     {
       "entity": "Center for a New American Security",
       "entity_type": "nonprofit",
       "sector": "Think Tank",
       "profile_path": "content/Think Tanks & Policy Infrastructure/Centrist/Center for a New American Security.md",
-      "tier": "EMPTY",
-      "flags": [
-        "zero-edges-both-sides"
-      ],
-      "in_edges": 0,
+      "tier": "OK",
+      "flags": [],
+      "in_edges": 18,
       "out_edges": 0,
-      "in_total": 0,
+      "in_total": 5409005,
       "out_total": 0,
-      "sources": [],
-      "cycles": []
+      "sources": [
+        "irs-990-bulk"
+      ],
+      "cycles": [
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ]
     },
     {
       "entity": "Claremont Institute",
       "entity_type": "nonprofit",
       "sector": "Think Tank",
       "profile_path": "content/Think Tanks & Policy Infrastructure/Conservative/Claremont Institute.md",
-      "tier": "EMPTY",
-      "flags": [
-        "zero-edges-both-sides"
-      ],
-      "in_edges": 0,
+      "tier": "OK",
+      "flags": [],
+      "in_edges": 7,
       "out_edges": 0,
-      "in_total": 0,
+      "in_total": 1041371,
       "out_total": 0,
-      "sources": [],
-      "cycles": []
+      "sources": [
+        "irs-990-bulk"
+      ],
+      "cycles": [
+        "2020",
+        "2022",
+        "2023",
+        "2024"
+      ]
     },
     {
       "entity": "Hoover Institution",
       "entity_type": "nonprofit",
       "sector": "Think Tank",
       "profile_path": "content/Think Tanks & Policy Infrastructure/Conservative/Hoover Institution.md",
-      "tier": "EMPTY",
-      "flags": [
-        "zero-edges-both-sides"
+      "tier": "OK",
+      "flags": [],
+      "in_edges": 66,
+      "out_edges": 16,
+      "in_total": 1243226005,
+      "out_total": 8367613,
+      "sources": [
+        "irs-990-bulk"
       ],
-      "in_edges": 0,
-      "out_edges": 0,
-      "in_total": 0,
-      "out_total": 0,
-      "sources": [],
-      "cycles": []
+      "cycles": [
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ]
     },
     {
       "entity": "Manhattan Institute",
       "entity_type": "nonprofit",
       "sector": "Think Tank",
       "profile_path": "content/Think Tanks & Policy Infrastructure/Conservative/Manhattan Institute.md",
-      "tier": "EMPTY",
-      "flags": [
-        "zero-edges-both-sides"
-      ],
-      "in_edges": 0,
+      "tier": "OK",
+      "flags": [],
+      "in_edges": 27,
       "out_edges": 0,
-      "in_total": 0,
+      "in_total": 10413837,
       "out_total": 0,
-      "sources": [],
-      "cycles": []
+      "sources": [
+        "irs-990-bulk"
+      ],
+      "cycles": [
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ]
     },
     {
       "entity": "Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts",
@@ -40613,32 +40654,48 @@
       "entity_type": "nonprofit",
       "sector": "Think Tank",
       "profile_path": "content/Think Tanks & Policy Infrastructure/Liberal/Center on Budget and Policy Priorities.md",
-      "tier": "EMPTY",
-      "flags": [
-        "zero-edges-both-sides"
+      "tier": "OK",
+      "flags": [],
+      "in_edges": 24,
+      "out_edges": 3,
+      "in_total": 28566870,
+      "out_total": 650000,
+      "sources": [
+        "irs-990-bulk"
       ],
-      "in_edges": 0,
-      "out_edges": 0,
-      "in_total": 0,
-      "out_total": 0,
-      "sources": [],
-      "cycles": []
+      "cycles": [
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ]
     },
     {
       "entity": "New America",
       "entity_type": "nonprofit",
       "sector": "Think Tank",
       "profile_path": "content/Think Tanks & Policy Infrastructure/Liberal/New America.md",
-      "tier": "EMPTY",
-      "flags": [
-        "zero-edges-both-sides"
+      "tier": "OK",
+      "flags": [],
+      "in_edges": 26,
+      "out_edges": 2,
+      "in_total": 21351657,
+      "out_total": 347631,
+      "sources": [
+        "irs-990-bulk"
       ],
-      "in_edges": 0,
-      "out_edges": 0,
-      "in_total": 0,
-      "out_total": 0,
-      "sources": [],
-      "cycles": []
+      "cycles": [
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ]
     },
     {
       "entity": "The Idea Laundering Pipeline — How Think Tank Research Becomes Law",
