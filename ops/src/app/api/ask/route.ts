@@ -37,12 +37,14 @@ type Intent =
   | "summary"
   | "leaderboard"
   | "money_chain"
+  | "compare"
   | "generic"
 
 interface EntityContext {
   name: string
   gloss: string
   blurb?: string
+  profile_path?: string  // relative path to the vault markdown file — lets the UI deep-link to the full profile
 }
 
 interface AskResult {
@@ -614,6 +616,25 @@ function suggestFollowUps(res: AskResult): string[] {
     out.push(`who funds ${a}`)
     out.push(`where does ${a}'s money go`)
     out.push(`what boards is ${a} on`)
+    // Also suggest a compare if the entity looks like a dark-money
+    // vehicle — its structural mirror is usually the most pedagogical
+    // next query.
+    const COMPARE_PAIRS: Record<string, string> = {
+      "marble freedom trust": "Sixteen Thirty Fund",
+      "sixteen thirty fund": "Marble Freedom Trust",
+      "the 85 fund": "New Venture Fund",
+      "new venture fund": "The 85 Fund",
+      "judicial crisis network": "Demand Justice",
+      "demand justice": "Judicial Crisis Network",
+      "americans for prosperity": "Working Families Party",
+      "working families party": "Americans for Prosperity",
+    }
+    const pair = COMPARE_PAIRS[a.toLowerCase()]
+    if (pair) out.push(`compare ${a} vs ${pair}`)
+  } else if (res.intent === "compare" && a && b) {
+    out.push(`tell me about ${a}`)
+    out.push(`tell me about ${b}`)
+    out.push(`money chain from ${a} to ${b}`)
   } else if (res.intent === "affiliations_from" && a) {
     out.push(`tell me about ${a}`)
     out.push(`${a} voting record`)
@@ -710,7 +731,7 @@ function explainEntity(name: string): EntityContext {
     : sector
   const gloss = `${kind}${sectorForGloss ? " (" + sectorForGloss + ")" : ""}${ein ? ", EIN " + ein : ""}.${structural}`.trim()
   const blurb = loadBlurb(ent.profile_path)
-  return { name, gloss, blurb: blurb || undefined }
+  return { name, gloss, blurb: blurb || undefined, profile_path: ent.profile_path || undefined }
 }
 
 // ─── Bioguide lookup for voting records ──────────────────────────────
@@ -834,6 +855,26 @@ function classify(q: string): ClassifiedQuestion {
 
   // Cross-party composer
   if (/cross[- ]party/.test(lower)) return { intent: "cross_party_donors" }
+
+  // Compare X vs Y — handle before single-subject intents so "compare
+  // Sixteen Thirty Fund vs Marble Freedom Trust" doesn't fall through
+  // to something else. Recognized phrasings:
+  //   compare X (vs|versus|and|with|to) Y
+  //   X vs Y        (bare "vs" shape — only if BOTH sides look like entities,
+  //                  i.e. not "top vs bottom" or generic words)
+  //   X versus Y
+  let mCmp =
+    lower.match(/^compare\s+(.+?)\s+(?:vs\.?|versus|and|with|to)\s+(.+?)$/) ||
+    lower.match(/^(.+?)\s+(?:vs\.?|versus)\s+(.+?)$/)
+  if (mCmp) {
+    const left = mCmp[1].trim()
+    const right = mCmp[2].trim()
+    // Cheap sanity filter: each side has ≥3 chars and doesn't start
+    // with a question word (so "who vs what" doesn't trip it).
+    if (left.length >= 3 && right.length >= 3 && !/^(who|what|how|why|which)\b/.test(left)) {
+      return { intent: "compare", subjectName: left, objectName: right }
+    }
+  }
 
   // Voting record
   let m = lower.match(/^(.+?)\s+voting record$/) || lower.match(/^how did (.+?) vote/)
@@ -1278,6 +1319,146 @@ async function handleSummary(c: ClassifiedQuestion, question: string, engine: an
     is_this_legal,
     why_matters,
     summary: `${inflows.total} inbound, ${outflows.total} outbound, ${affiliations_from.total + affiliations_to.total} affiliations${viaOrgs.length > 0 ? ", " + viaOrgs.length + " via-org flows" : ""}.`,
+  }
+}
+
+// ─── Compare X vs Y ───────────────────────────────────────────────────
+// Side-by-side structural comparison of two entities. The key UX goal:
+// reveal symmetry (or its absence) between organizations that normally
+// read as oppositional but are actually structurally identical —
+// Sixteen Thirty Fund vs Marble Freedom Trust, Fairshake vs traditional
+// industry blocs, Trump vs Harris fundraising structure. A good compare
+// card teaches the reader the SHAPE of power, not just the numbers.
+
+async function handleCompare(c: ClassifiedQuestion, question: string, engine: any): Promise<AskResult> {
+  const rA = resolveTitle(c.subjectName as string)
+  const rB = resolveTitle(c.objectName as string)
+  const a = rA.title
+  const b = rB.title
+  const entA = findEntity(a)
+  const entB = findEntity(b)
+
+  async function fetchSide(name: string) {
+    const inflowsRaw = await engine.query({ subject: "edges", filters: { to: name, type: "monetary" }, limit: 2000 })
+    const outflows = await engine.query({ subject: "edges", filters: { from: name, type: "monetary" }, limit: 2000 })
+    const affOut = await engine.query({ subject: "edges", filters: { from: name, type: "affiliation" }, limit: 20 })
+    const inflows = inflowsRaw.rows.filter((e: any) => e.role !== "ie-oppose")
+    const oppo = inflowsRaw.rows.filter((e: any) => e.role === "ie-oppose")
+    const totalIn = inflows.filter((e: any) => e.amount).reduce((s: number, e: any) => s + Number(e.amount), 0)
+    const totalOut = outflows.rows.filter((e: any) => e.amount).reduce((s: number, e: any) => s + Number(e.amount), 0)
+    const totalAttack = oppo.filter((e: any) => e.amount).reduce((s: number, e: any) => s + Number(e.amount), 0)
+
+    // Aggregate top donors / recipients by from/to (sum across cycles)
+    const byFrom = new Map<string, number>()
+    for (const e of inflows) if (e.from && e.amount) byFrom.set(e.from, (byFrom.get(e.from) || 0) + Number(e.amount))
+    const byTo = new Map<string, number>()
+    for (const e of outflows.rows) if (e.to && e.amount) byTo.set(e.to, (byTo.get(e.to) || 0) + Number(e.amount))
+
+    const topDonors = [...byFrom.entries()].sort((a, b) => b[1] - a[1]).slice(0, 5).map(([nm, amt]) => ({ name: nm, amount: amt }))
+    const topRecipients = [...byTo.entries()].sort((a, b) => b[1] - a[1]).slice(0, 5).map(([nm, amt]) => ({ name: nm, amount: amt }))
+
+    const boards = (affOut.rows || []).slice(0, 5).map((e: any) => ({ to: e.to, role: e.role || (Array.isArray(e.titles) ? e.titles[0] : undefined) }))
+
+    return {
+      name,
+      totalIn,
+      totalOut,
+      totalAttack,
+      donorCount: byFrom.size,
+      recipientCount: byTo.size,
+      topDonors,
+      topRecipients,
+      boards,
+    }
+  }
+
+  const [dataA, dataB] = await Promise.all([fetchSide(a), fetchSide(b)])
+
+  // Build the side-by-side rows. Each row is { metric, a, b } keyed for
+  // the UI's comparison table renderer.
+  const metricOf = (d: typeof dataA) => ({
+    total_received: fmtUsd(d.totalIn),
+    donor_count: `${d.donorCount} donors`,
+    total_distributed: fmtUsd(d.totalOut),
+    recipient_count: `${d.recipientCount} recipients`,
+    attack_spend: d.totalAttack > 0 ? fmtUsd(d.totalAttack) : "—",
+    top_donor: d.topDonors[0] ? `${d.topDonors[0].name} (${fmtUsd(d.topDonors[0].amount)})` : "—",
+    top_recipient: d.topRecipients[0] ? `${d.topRecipients[0].name} (${fmtUsd(d.topRecipients[0].amount)})` : "—",
+  })
+  const ma = metricOf(dataA)
+  const mb = metricOf(dataB)
+
+  // Determine structural type of each for framing
+  function typeLabel(ent: any): string {
+    if (!ent) return "unknown"
+    const sector = String(ent.signals?.sector || "").toLowerCase()
+    const kind = ent.entity_type || "entity"
+    if (sector.includes("dark money")) return "dark-money vehicle"
+    if (sector.includes("super pac")) return "super PAC"
+    if (kind === "politician") return "politician"
+    if (kind === "corporation") return "corporation"
+    if (kind === "nonprofit") return "nonprofit"
+    return String(kind)
+  }
+  const tA = typeLabel(entA)
+  const tB = typeLabel(entB)
+  const sameType = tA === tB
+
+  // Rows for the rendered table — ordered so the most-human-interesting
+  // lines come first.
+  const rows = [
+    { metric: "Type", a: tA, b: tB },
+    { metric: "Sector", a: String(entA?.signals?.sector || "—"), b: String(entB?.signals?.sector || "—") },
+    { metric: "Total received", a: ma.total_received, b: mb.total_received },
+    { metric: "Donor count", a: ma.donor_count, b: mb.donor_count },
+    { metric: "Total distributed", a: ma.total_distributed, b: mb.total_distributed },
+    { metric: "Recipient count", a: ma.recipient_count, b: mb.recipient_count },
+    { metric: "Attack spending (against)", a: ma.attack_spend, b: mb.attack_spend },
+    { metric: "Top donor", a: ma.top_donor, b: mb.top_donor },
+    { metric: "Top recipient", a: ma.top_recipient, b: mb.top_recipient },
+  ]
+
+  // Plain-English framing — the most pedagogical part. Recognizes the
+  // common "structural mirror" pattern (same type on opposing sides of
+  // the spectrum) and frames accordingly.
+  let plain_english: string
+  let why_matters: string | undefined
+
+  const aIsDark = tA === "dark-money vehicle"
+  const bIsDark = tB === "dark-money vehicle"
+  if (sameType && aIsDark && bIsDark) {
+    plain_english = `**In plain English:** ${a} and ${b} are structural mirrors of each other. Both are dark-money vehicles — 501(c)(4) nonprofits that can accept unlimited donations and don't have to disclose donors. The numbers side-by-side show two networks operating by the same mechanics, just pointed at opposing political goals. When people say "both sides do it," THIS is what they mean — but notice that "doing it" here means "the same legal structure can launder any donor's money, regardless of which party they're backing."`
+    why_matters = `The symmetry is the point. Dark-money networks on the left and right aren't mirror images by accident — they emerged in the same decade (post-*Citizens United*), use the same tax structures, employ similar consulting firms, and face the same disclosure rules (none). When a reader sees the structure identical, they stop asking "which side is dirtier" and start asking "why does this structure exist for either side."`
+  } else if (sameType && (tA === "super PAC" || tB === "super PAC")) {
+    plain_english = `**In plain English:** ${a} and ${b} are both super PACs. Both can raise unlimited money and spend it on political ads, but neither can coordinate directly with candidates. Look at the attack-spend numbers — super PAC wars are usually more about negative ads than positive ones, and the side with more attack firepower often dominates the airwaves even when their positive-spend is lower.`
+  } else if (sameType && tA === "politician") {
+    plain_english = `**In plain English:** Comparing two politicians' money profiles. The most revealing numbers are usually the top donors — they tell you which industries or donor classes each candidate has attracted, which correlates strongly with who they'll serve in office. Totals matter less than composition.`
+  } else if (!sameType) {
+    plain_english = `**In plain English:** ${a} (${tA}) and ${b} (${tB}) are different structural types, so this comparison highlights what each can and can't do in the campaign-finance system. Read the "Top donor" and "Top recipient" rows carefully — those are the real reveal of each organization's role.`
+  } else {
+    plain_english = `**In plain English:** Side-by-side structural profile for two entities of the same type. The numbers that stand out are usually where the asymmetry lives — which side has more attack spend, which has more donors, which has a single concentrated funder.`
+  }
+
+  const summary = `Compare: ${a} ↔ ${b}. ${sameType ? "Same type (" + tA + ")." : tA + " vs " + tB + "."}`
+  const answer = `**${a}** vs **${b}** — ${summary}`
+
+  const context = [explainEntity(a), explainEntity(b)]
+
+  return {
+    question,
+    intent: "compare",
+    resolved_title: a,
+    resolved_title_2: b,
+    total: rows.length,
+    rows,
+    answer,
+    context,
+    plain_english,
+    why_matters,
+    summary,
+    // Make sure the UI knows to render this as a comparison table
+    // rather than the default key/value dump. The page will branch on
+    // intent === "compare" to pick the right renderer.
   }
 }
 
@@ -1768,6 +1949,7 @@ function finalize(res: AskResult): AskResult {
     summary: "Profile snapshot",
     leaderboard: "Leaderboard",
     money_chain: "Money trail",
+    compare: "Side-by-side comparison",
     generic: "General lookup",
   }
   if (!res.label) res.label = labels[res.intent] || res.intent
@@ -1843,6 +2025,7 @@ async function handleQuestion(question: string): Promise<AskResult> {
   if (c.intent === "money_chain") return finalize(await handleMoneyChain(c, question))
   if (c.intent === "edge_between") return finalize(await handleEdgeBetween(c, question, engine))
   if (c.intent === "summary") return finalize(await handleSummary(c, question, engine))
+  if (c.intent === "compare") return finalize(await handleCompare(c, question, engine))
 
   if (c.intent === "affiliations_from" || c.intent === "affiliations_to") {
     const name = resolveTitle(c.subjectName as string)

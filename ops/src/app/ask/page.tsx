@@ -21,10 +21,55 @@ import { useState, useEffect } from "react"
 
 type Row = Record<string, unknown>
 
+// Build a CSV from the evidence rows on an AskResponse and trigger a
+// download. Column order is deterministic: use orderedHeaders from
+// the first row if the response carries rows, else fall back to
+// Object.keys. Handles escaping quotes + commas.
+function downloadCsv(r: { question?: string; intent?: string; rows: Array<Record<string, unknown>> }) {
+  if (!r.rows || r.rows.length === 0) return
+  // Column order: union of all row keys, preferring natural shape
+  // (name/from/to/amount/cycle first if present).
+  const preferred = ["name", "from", "to", "amount", "cycle", "source", "role", "type"]
+  const allKeys = new Set<string>()
+  for (const row of r.rows) for (const k of Object.keys(row)) allKeys.add(k)
+  const ordered: string[] = []
+  for (const p of preferred) if (allKeys.has(p)) { ordered.push(p); allKeys.delete(p) }
+  for (const k of [...allKeys].sort()) ordered.push(k)
+
+  const esc = (v: unknown): string => {
+    if (v == null) return ""
+    const s = typeof v === "object" ? JSON.stringify(v) : String(v)
+    if (/[",\n]/.test(s)) return '"' + s.replace(/"/g, '""') + '"'
+    return s
+  }
+  const lines = [ordered.join(",")]
+  for (const row of r.rows) lines.push(ordered.map((k) => esc((row as any)[k])).join(","))
+
+  const blob = new Blob([lines.join("\n")], { type: "text/csv;charset=utf-8" })
+  const url = URL.createObjectURL(blob)
+  const a = document.createElement("a")
+  a.href = url
+  a.download = `ask-${(r.intent || "result").replace(/\W+/g, "-")}-${Date.now()}.csv`
+  document.body.appendChild(a)
+  a.click()
+  document.body.removeChild(a)
+  URL.revokeObjectURL(url)
+}
+
+// Helper: turn a vault profile_path into an ops profile viewer URL.
+// The ops app has /profile?path=... for browsing any markdown file.
+// Falls back to just the entity name as plain text if no path is set.
+function profileHref(profile_path?: string | null): string | null {
+  if (!profile_path) return null
+  const clean = profile_path.replace(/\\/g, "/")
+  return `/profile?path=${encodeURIComponent(clean)}`
+}
+
 interface EntityContext {
   name: string
   gloss: string
   blurb?: string
+  profile_path?: string
 }
 
 interface AskResponse {
@@ -121,6 +166,7 @@ function renderRichText(text: string): React.ReactNode {
 const EXAMPLES = [
   "who funds marble freedom trust",
   "tell me about leonard leo",
+  "compare Sixteen Thirty Fund vs Marble Freedom Trust",
   "elon musk funds donald trump",
   "does marble freedom trust fund the 85 fund",
   "money chain from fidelity investments to america votes",
@@ -232,6 +278,7 @@ export default function AskPage() {
                 <li><strong>who funds X</strong> — donors to X, ranked by dollar amount</li>
                 <li><strong>where does X's money go</strong> — recipients of X, ranked</li>
                 <li><strong>does X fund Y</strong> / <strong>money chain from X to Y</strong> — traces the path (up to 3 hops) with a visual flow diagram</li>
+                <li><strong>compare X vs Y</strong> / <strong>X vs Y</strong> — side-by-side structural comparison of two entities (great for revealing left/right dark-money symmetry)</li>
                 <li><strong>what boards is X on</strong> — director/trustee affiliations</li>
                 <li><strong>who's on the board of X</strong> — the reverse</li>
                 <li><strong>top donors</strong> / <strong>top super pacs</strong> / <strong>top dafs</strong> / <strong>top politicians</strong> — leaderboards</li>
@@ -493,13 +540,22 @@ function ResultCard({ r, onFollowUp }: { r: AskResponse; onFollowUp: (q: string)
         {r.context && r.context.length > 0 && (
           <div style={styles.contextWrap}>
             <div style={styles.contextLabel}>Who these are</div>
-            {r.context.map((c, i) => (
-              <div key={i} style={styles.contextItem}>
-                <div style={styles.contextName}>{c.name}</div>
-                <div style={styles.contextGloss}>{renderWithGlossary(c.gloss)}</div>
-                {c.blurb && <div style={styles.contextBlurb}>{renderWithGlossary(c.blurb)}</div>}
-              </div>
-            ))}
+            {r.context.map((c, i) => {
+              const href = profileHref(c.profile_path)
+              return (
+                <div key={i} style={styles.contextItem}>
+                  <div style={styles.contextName}>
+                    {href ? (
+                      <a href={href} style={styles.contextNameLink}>{c.name}</a>
+                    ) : (
+                      c.name
+                    )}
+                  </div>
+                  <div style={styles.contextGloss}>{renderWithGlossary(c.gloss)}</div>
+                  {c.blurb && <div style={styles.contextBlurb}>{renderWithGlossary(c.blurb)}</div>}
+                </div>
+              )
+            })}
           </div>
         )}
 
@@ -539,10 +595,43 @@ function ResultCard({ r, onFollowUp }: { r: AskResponse; onFollowUp: (q: string)
         {r.note && <div style={styles.note}>{r.note}</div>}
       </div>
 
-      {r.rows.length > 0 && (
+      {/* Compare-intent gets its own side-by-side renderer. The rows
+          are already shaped as {metric, a, b} — turn each row into a
+          two-column comparison line with entity names as column heads.
+          Default Evidence expander is suppressed for this intent since
+          the rows ARE the answer, not supporting detail. */}
+      {r.intent === "compare" && r.rows.length > 0 && (
+        <div style={styles.compareWrap}>
+          <div style={styles.compareHeadRow}>
+            <div style={styles.compareMetricCell}></div>
+            <div style={styles.compareEntityCell}>{r.resolved_title}</div>
+            <div style={styles.compareEntityCell}>{r.resolved_title_2}</div>
+          </div>
+          {(r.rows as Array<{ metric: string; a: string; b: string }>).map((row, i) => (
+            <div key={i} style={{ ...styles.compareRow, background: i % 2 === 0 ? "#0f0f0f" : "#141414" }}>
+              <div style={styles.compareMetricLabel}>{row.metric}</div>
+              <div style={styles.compareValueCell}>{renderRichText(String(row.a))}</div>
+              <div style={styles.compareValueCell}>{renderRichText(String(row.b))}</div>
+            </div>
+          ))}
+        </div>
+      )}
+
+      {r.rows.length > 0 && r.intent !== "compare" && (
         <details style={styles.detailsWrap}>
           <summary style={styles.detailsSummary}>
             Evidence ({r.rows.length} row{r.rows.length === 1 ? "" : "s"})
+            <button
+              style={styles.csvBtn}
+              onClick={(e) => {
+                e.preventDefault()
+                e.stopPropagation()
+                downloadCsv(r)
+              }}
+              title="Download these evidence rows as CSV"
+            >
+              Download CSV
+            </button>
           </summary>
           <div style={styles.tableWrap}>
           <table style={styles.table}>
@@ -661,6 +750,17 @@ const styles: Record<string, React.CSSProperties> = {
     border: "1px solid #444",
     cursor: "pointer",
   },
+  csvBtn: {
+    marginLeft: 12,
+    padding: "2px 10px",
+    fontSize: 11,
+    fontWeight: 600,
+    background: "#1d4ed8",
+    color: "#fff",
+    border: "none",
+    cursor: "pointer",
+    letterSpacing: 0.5,
+  },
   examples: { display: "flex", flexWrap: "wrap", gap: 6, marginBottom: 24, alignItems: "center" },
   exLabel: { color: "#666", fontSize: 12, marginRight: 4 },
   exBtn: {
@@ -692,6 +792,7 @@ const styles: Record<string, React.CSSProperties> = {
   contextLabel: { fontSize: 10, fontWeight: 700, color: "#888", letterSpacing: 2, textTransform: "uppercase", marginBottom: 8 },
   contextItem: { marginBottom: 10 },
   contextName: { fontSize: 14, fontWeight: 700, color: "#fbbf24" },
+  contextNameLink: { color: "#fbbf24", textDecoration: "underline", textDecorationColor: "#5a4015" },
   contextGloss: { fontSize: 13, color: "#bbb", marginBottom: 3 },
   contextBlurb: { fontSize: 12, color: "#999", lineHeight: 1.5, fontStyle: "italic" },
 
@@ -734,6 +835,19 @@ const styles: Record<string, React.CSSProperties> = {
   howtoSection: { marginBottom: 14 },
   howtoHeading: { fontSize: 11, fontWeight: 700, color: "#fbbf24", letterSpacing: 1.5, textTransform: "uppercase" as const, marginBottom: 6 },
   howtoList: { margin: "6px 0 0 18px", padding: 0 },
+
+  // Side-by-side comparison table. Three columns: metric label + two
+  // entity-value columns. Alternating row backgrounds for easy scanning.
+  // Pedagogically the point is to make symmetry (or asymmetry) visible
+  // in one glance — e.g. Sixteen Thirty Fund and Marble Freedom Trust
+  // as structural mirrors.
+  compareWrap: { marginTop: 14, border: "1px solid #333", background: "#0a0a0a" },
+  compareHeadRow: { display: "grid", gridTemplateColumns: "200px 1fr 1fr", borderBottom: "2px solid #fbbf24" },
+  compareMetricCell: { padding: "10px 14px", background: "#1a1a1a" },
+  compareEntityCell: { padding: "10px 14px", fontSize: 15, fontWeight: 700, color: "#fbbf24", borderLeft: "1px solid #333" },
+  compareRow: { display: "grid", gridTemplateColumns: "200px 1fr 1fr" },
+  compareMetricLabel: { padding: "10px 14px", fontSize: 12, color: "#888", fontWeight: 600, textTransform: "uppercase" as const, letterSpacing: 0.5, borderRight: "1px solid #222" },
+  compareValueCell: { padding: "10px 14px", fontSize: 14, color: "#eaeaea", borderLeft: "1px solid #222" },
 
   // Empty-result rescue — friendly off-ramp when a query finds nothing.
   emptyRescue: { marginTop: 12, padding: "14px 16px", background: "#0d0d0d", border: "1px solid #2a2a2a" },
