@@ -147,7 +147,8 @@
       "Bash(mv \"Democrats/Senate/Laphonza Butler\" \"Democrats/Former/Laphonza Butler\")",
       "Bash(mv \"Democrats/Governors/Andrew Cuomo\" \"Democrats/Former/Andrew Cuomo\")",
       "Bash(mv \"Democrats/Senate/Sherrod Brown.md\" \"Democrats/Former/Sherrod Brown.md\")",
-      "Bash(mv \"Democrats/Senate/Laphonza Butler.md\" \"Democrats/Former/Laphonza Butler.md\")"
+      "Bash(mv \"Democrats/Senate/Laphonza Butler.md\" \"Democrats/Former/Laphonza Butler.md\")",
+      "Bash(node -e \"const n=new Date\\(\\); console.log\\('System time:', n.toISOString\\(\\), '| Local:', n.toLocaleString\\('en-US',{timeZone:'America/Chicago',hour12:false}\\)\\)\")"
     ]
   }
 }

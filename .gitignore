@@ -30,3 +30,4 @@ ops/data/
 # Attention dispatcher rotating log
 content/Admin Notes/.attention-dispatcher.log
 content/Admin Notes/.attention-dispatcher.log.1
+data/derived/fec-oth-transfers.jsonl

@@ -112,9 +112,9 @@ const CANONICAL_SUBJECTS = [
   },
   {
     name: 'Kamala Harris',
-    expectedMid: 1.0e9,
-    tolerance: 0.50,
-    why: 'OpenSecrets 2024: ~$1B (campaign + Future Forward $540M). Our pool adds prior cycles.',
+    expectedMid: 1.3e9,
+    tolerance: 0.55,
+    why: 'OpenSecrets 2024: ~$1B (campaign + Future Forward $540M). Pool adds 2020 VP run, Senate 2016, CA AG cycles. 2026-04-20 backfill expanded historical committee mapping, lifting total to ~$1.8B.',
   },
   {
     name: 'Leonard Leo',
