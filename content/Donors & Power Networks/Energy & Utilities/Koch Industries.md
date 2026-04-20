@@ -13,9 +13,7 @@ issues:
   - Environment
   - Labor & Workers
 subawards-issued: 50
-subawards-issued-amount: 1009778941592127500
 subawards-received: 50
-subawards-received-amount: 1009778941592127500
 top-federal-agency: Department of Health and Human Services
 top-naics-code: "541519"
 ein: "480834445"

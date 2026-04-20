@@ -15,9 +15,7 @@ last-enriched: "2026-04-07"
 needs-reenrichment: true
 reenrich-reason: run lda pipeline
 subawards-issued: 50
-subawards-issued-amount: 1009778941592127500
 subawards-received: 50
-subawards-received-amount: 1009778941592127500
 top-federal-agency: Department of Defense
 top-naics-code: "221122"
 ein: "881770844"

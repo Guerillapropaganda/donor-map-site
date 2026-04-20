@@ -8,8 +8,6 @@ parent: null
 sector: Law Enforcement
 entity-type: Individual Donor
 politicians-funded: "[[Gavin Newsom]], [[Chad Bianco]]"
-subawards-issued-amount: 1009778941592127500
-subawards-received-amount: 1009778941592127500
 last-enriched: "2026-04-07"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline

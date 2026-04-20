@@ -12,8 +12,6 @@ entity-type: Individual Donor
 politicians-funded: "[[Donald Trump]]"
 issues:
   - Reproductive Rights
-subawards-issued-amount: 1009778941592127500
-subawards-received-amount: 1009778941592127500
 last-enriched: "2026-04-18"
 related: "[[Charlie Kirk]] · [[_Donald Trump Master Profile]] · [[Americans for Prosperity]]"
 cross-vault-triangulation-count: 3

@@ -15,9 +15,7 @@ sec-form-types:
   - N-CSR
   - PX14A6G
 subawards-issued: 50
-subawards-issued-amount: 1009778941592127500
 subawards-received: 50
-subawards-received-amount: 1009778941592127500
 related: "[[Donors Capital Fund]] · [[DonorsTrust]] · [[Freedom Partners]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[Americans for Prosperity]] · [[Heritage Foundation]] · [[Cato Institute]] · [[Freedom Partners Chamber of Commerce]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0

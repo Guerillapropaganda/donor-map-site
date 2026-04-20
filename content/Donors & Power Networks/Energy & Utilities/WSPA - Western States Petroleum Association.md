@@ -9,9 +9,7 @@ sector: Energy & Utilities
 entity-type: Corporation
 politicians-funded: "[[Gavin Newsom]], [[ActBlue]], [[_Robert Garcia Master Profile]], [[RNC - Republican National Committee]], [[WinRed]], [[Robert Garcia]]"
 subawards-issued: 50
-subawards-issued-amount: 51876611853
 subawards-received: 50
-subawards-received-amount: 51876611853
 ein: "950596680"
 nonprofit-status: 501(c)(6)
 last-enriched: "2026-04-07"

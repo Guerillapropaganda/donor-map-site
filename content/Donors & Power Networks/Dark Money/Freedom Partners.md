@@ -16,8 +16,6 @@ court-jurisdictions:
   - 'District Court, District of Columbia'
   - 'District Court, S.D. New York'
   - 'United States Bankruptcy Court, E.D. Missouri'
-subawards-issued-amount: 1009778941592127500
-subawards-received-amount: 1009778941592127500
 lobbying-spend: 2076000
 lobbying-filings: 84
 related: ">- · [[State Policy Network]] · [[ALEC - American Legislative Exchange Council]]"

@@ -11,8 +11,6 @@ politicians-funded: "[[Donald Trump]], [[Virginia Foxx]]"
 issues:
   - Education
   - Dark Money & Campaign Finance
-subawards-issued-amount: 1009778941592127500
-subawards-received-amount: 1009778941592127500
 ein: "861509286"
 annual-revenue: $4.4M
 net-assets: $5K

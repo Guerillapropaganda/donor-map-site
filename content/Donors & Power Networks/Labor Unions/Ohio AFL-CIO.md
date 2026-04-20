@@ -32,8 +32,6 @@ sec-form-types:
   - S-4
   - S-4/A
   - SC 14D9/A
-subawards-issued-amount: 1009778941592127500
-subawards-received-amount: 1009778941592127500
 court-cases: 47
 last-enriched: "2026-04-07"
 court-jurisdictions:

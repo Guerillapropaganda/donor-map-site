@@ -15,9 +15,7 @@ annual-revenue: $131K
 net-assets: $2.7M
 tax-year: "2023"
 subawards-issued: 50
-subawards-issued-amount: 1009778941592127500
 subawards-received: 50
-subawards-received-amount: 1009778941592127500
 top-federal-agency: Department of Homeland Security
 top-naics-code: "339113"
 nhtsa-recalls: 0

@@ -25,8 +25,6 @@ court-jurisdictions:
   - District Court, N.D. California
   - District Court, N.D. Texas
   - District Court, S.D. Iowa
-subawards-issued-amount: 1009778941592127500
-subawards-received-amount: 1009778941592127500
 ein: 367285069
 annual-revenue: $8K
 net-assets: $94K

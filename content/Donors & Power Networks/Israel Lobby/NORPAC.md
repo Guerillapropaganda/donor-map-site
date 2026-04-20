@@ -21,8 +21,6 @@ regulatory-agencies:
   - National Oceanic and Atmospheric Administration
 lei: 9845000814B4D365EG29
 lei-jurisdiction: IN
-subawards-issued-amount: 1009778941592127500
-subawards-received-amount: 1009778941592127500
 ein: "352841377"
 nonprofit-status: 501(c)(4)
 total-revenue: 2327

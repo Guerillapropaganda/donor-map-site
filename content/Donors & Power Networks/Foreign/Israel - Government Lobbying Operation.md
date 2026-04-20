@@ -9,8 +9,6 @@ sector: "Foreign Influence"
 entity-type: "Individual Donor"
 issues:
   - "Israel & Foreign Policy"
-subawards-issued-amount: 1009778941592127500
-subawards-received-amount: 1009778941592127500
 fara-status: "registrant"
 fara-records: 2
 fara-countries:

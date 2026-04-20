@@ -30,9 +30,7 @@ nhtsa-recalls: 500
 nhtsa-complaints: 0
 nonprofit-status: 501(c)(17)
 subawards-issued: 50
-subawards-issued-amount: 51876611853
 subawards-received: 50
-subawards-received-amount: 51876611853
 top-federal-agency: General Services Administration
 top-naics-code: "336111"
 lei: 20S05OYHG0MQM4VUIC57

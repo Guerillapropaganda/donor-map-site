@@ -26,9 +26,7 @@ court-jurisdictions:
   - District Court, M.D. Tennessee
   - District Court, N.D. California
 subawards-issued: 50
-subawards-issued-amount: 51876611853
 subawards-received: 50
-subawards-received-amount: 51876611853
 top-federal-agency: Department of Justice
 top-naics-code: "523160"
 lei: 549300QHD76EP6ZKTT48

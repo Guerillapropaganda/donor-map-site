@@ -14,8 +14,6 @@ issues:
   - Infrastructure
 lobbying-spend: 3489500
 lobbying-filings: 75
-subawards-issued-amount: 1009778941592127500
-subawards-received-amount: 1009778941592127500
 ein: "330771070"
 annual-revenue: $2K
 net-assets: $3.5M

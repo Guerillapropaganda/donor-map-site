@@ -8,9 +8,7 @@ parent: null
 sector: Media & Entertainment
 entity-type: Corporation
 subawards-issued: 50
-subawards-issued-amount: 1009778941592127500
 subawards-received: 50
-subawards-received-amount: 1009778941592127500
 lei: 984500CF6457BDCFAD28
 lei-jurisdiction: US-DE
 lobbying-spend: 7016500

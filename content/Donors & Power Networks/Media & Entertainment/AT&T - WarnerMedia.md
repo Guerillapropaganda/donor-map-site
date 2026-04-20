@@ -16,9 +16,7 @@ last-enriched: "2026-04-11"
 lei: 81560046090960AF7A65
 lei-jurisdiction: IT
 subawards-issued: 50
-subawards-issued-amount: 51876611853
 subawards-received: 50
-subawards-received-amount: 51876611853
 top-federal-agency: Department of Veterans Affairs
 top-naics-code: "517110"
 lobbying-spend: 21040000

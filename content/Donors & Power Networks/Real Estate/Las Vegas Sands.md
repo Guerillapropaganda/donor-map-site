@@ -8,9 +8,7 @@ parent: null
 sector: Real Estate
 entity-type: Corporation
 subawards-issued: 50
-subawards-issued-amount: 1009778941592127500
 subawards-received: 50
-subawards-received-amount: 1009778941592127500
 federal-contracts: "7149"
 lei: 549300DUOO1KXOHPM605
 lei-jurisdiction: US-NV

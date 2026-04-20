@@ -25,8 +25,6 @@ court-jurisdictions:
 ofac-sdn-match: "true"
 ofac-programs:
   - BALKANS
-subawards-issued-amount: 1009778941592127500
-subawards-received-amount: 1009778941592127500
 lobbying-spend: 2848540
 lobbying-filings: 95
 sec-filings: 3

@@ -11,9 +11,7 @@ politicians-funded: "[[Betty Yee]], [[Gavin Newsom]], [[NRSC - National Republic
 issues:
   - Wall Street & Finance
 subawards-issued: 50
-subawards-issued-amount: 1009778941592127500
 subawards-received: 50
-subawards-received-amount: 1009778941592127500
 lei: 549300ZK777GYOOK5750
 lei-jurisdiction: LU
 sec-filings: 10000

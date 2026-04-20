@@ -10,9 +10,7 @@ entity-type: Corporation
 issues:
   - Housing
 subawards-issued: 50
-subawards-issued-amount: 1009778941592127500
 subawards-received: 50
-subawards-received-amount: 1009778941592127500
 related: "[[The Housing Progressive and Wall Street Tension]] · [[Blackstone Group]] · [[National Rental Home Council]] · [[American Homes 4 Rent]] · [[Pretium/Progress Residential]] · [[FirstKey Homes - Cerberus]] · [[National Association of Realtors]] · [[Real Estate Board of New York]] · [[Real Estate Industry Bloc]] · [[Lennar Corporation]] · [[Blackstone Real Estate]]"
 lobbying-spend: 400000
 lobbying-filings: 14

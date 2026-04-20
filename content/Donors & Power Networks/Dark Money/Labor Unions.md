@@ -13,8 +13,6 @@ ein: 936032678
 annual-revenue: $18.3M
 net-assets: $57.0M
 tax-year: "2023"
-subawards-issued-amount: 1009778941592127500
-subawards-received-amount: 1009778941592127500
 total-political-spend: $500
 court-cases: 5044
 last-enriched: "2026-04-07"

@@ -15,9 +15,7 @@ issues:
   - Wall Street & Finance
   - Housing
 subawards-issued: 50
-subawards-issued-amount: 1009778941592127500
 subawards-received: 50
-subawards-received-amount: 1009778941592127500
 lobbying-spend: 4450000
 lobbying-filings: 51
 federal-contracts: "622714"

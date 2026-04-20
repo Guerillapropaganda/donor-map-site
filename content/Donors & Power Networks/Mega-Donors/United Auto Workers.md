@@ -23,8 +23,6 @@ sec-form-types:
   - EX-99.2
   - EX-99.3
   - FWP
-subawards-issued-amount: 1009778941592127500
-subawards-received-amount: 1009778941592127500
 related: "[[2026-03-26 Finance Research]] · [[Gretchen Whitmer Master Profile]] · [[UAW - United Auto Workers]]"
 source-types:
   - LDA

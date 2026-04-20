@@ -1,0 +1,26 @@
+{
+  "description": "High-value 20-profile audit panel for scripts/verify-all.cjs. Mix of politicians, donors, PACs, party committees, and 501(c) orgs. Includes the 9 committees already failing tier-2 checks.",
+  "generated": "2026-04-20",
+  "entities": [
+    "Donald Trump",
+    "Marco Rubio",
+    "Nancy Pelosi",
+    "Mitch McConnell",
+    "Alexandria Ocasio-Cortez",
+    "Leonard Leo",
+    "Barre Seid",
+    "Charles Koch",
+    "MAGA Inc",
+    "Fairshake PAC",
+    "SLF PAC",
+    "WinSenate",
+    "RNC - Republican National Committee",
+    "DCCC - Democratic Congressional Campaign Committee",
+    "NRCC - National Republican Congressional Committee",
+    "Marble Freedom Trust",
+    "Judicial Crisis Network",
+    "The 85 Fund",
+    "Americans for Prosperity",
+    "Donors Trust"
+  ]
+}

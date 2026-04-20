@@ -22,9 +22,7 @@ issues:
 lei: I07WOS4YJ0N7YRFE7309
 lei-jurisdiction: US-DE
 subawards-issued: 50
-subawards-issued-amount: 51876611853
 subawards-received: 50
-subawards-received-amount: 51876611853
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-08"

@@ -22,8 +22,6 @@ court-jurisdictions:
   - United States Bankruptcy Court, C.D. California
   - United States Bankruptcy Court, N.D. Alabama
   - United States Bankruptcy Court, N.D. Texas
-subawards-issued-amount: 1009778941592127500
-subawards-received-amount: 1009778941592127500
 ein: 816166962
 annual-revenue: $230K
 net-assets: $2.3M

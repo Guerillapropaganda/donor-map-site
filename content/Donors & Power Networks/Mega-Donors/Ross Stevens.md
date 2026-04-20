@@ -25,8 +25,6 @@ court-jurisdictions:
   - United States Bankruptcy Court, C.D. California
   - United States Bankruptcy Court, D. Delaware
   - United States Bankruptcy Court, D. Oregon
-subawards-issued-amount: 1009778941592127500
-subawards-received-amount: 1009778941592127500
 sec-filings: 1666
 sec-form-types:
   - EX-99

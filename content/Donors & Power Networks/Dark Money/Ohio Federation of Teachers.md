@@ -10,8 +10,6 @@ entity-type: Individual Donor
 issues:
   - Labor & Workers
   - Education
-subawards-issued-amount: 1009778941592127500
-subawards-received-amount: 1009778941592127500
 sec-filings: 1
 sec-form-types:
   - 424B3

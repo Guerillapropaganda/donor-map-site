@@ -11,8 +11,6 @@ issues:
   - Dark Money & Campaign Finance
   - Healthcare
   - Tax Policy
-subawards-issued-amount: 1009778941592127500
-subawards-received-amount: 1009778941592127500
 ein: "270730508"
 annual-revenue: $46.2M
 net-assets: $16.3M

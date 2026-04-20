@@ -1,0 +1,154 @@
+{
+  "generated": "2026-04-20T14:53:52.087Z",
+  "tier": "2",
+  "entityFilter": [
+    "Donald Trump",
+    "Marco Rubio",
+    "Nancy Pelosi",
+    "Mitch McConnell",
+    "Alexandria Ocasio-Cortez",
+    "Leonard Leo",
+    "Barre Seid",
+    "Charles Koch",
+    "MAGA Inc",
+    "Fairshake PAC",
+    "SLF PAC",
+    "WinSenate",
+    "RNC - Republican National Committee",
+    "DCCC - Democratic Congressional Campaign Committee",
+    "NRCC - National Republican Congressional Committee",
+    "Marble Freedom Trust",
+    "Judicial Crisis Network",
+    "The 85 Fund",
+    "Americans for Prosperity",
+    "Donors Trust"
+  ],
+  "summary": {
+    "error": 2,
+    "warn": 9,
+    "total": 11
+  },
+  "findings": [
+    {
+      "severity": "error",
+      "entity": "WinSenate",
+      "metric": "receipts-2024",
+      "internal": 396400000,
+      "external": 1023500000,
+      "delta_pct": -61.27015144113337,
+      "cause": "under-count-vs-fec",
+      "detail": "WinSenate cycle 2024: edge-store UNDER-counts vs FEC upstream by -61.3% (edge $396.4M vs FEC $1023.5M)",
+      "checker": "committee-receipts"
+    },
+    {
+      "severity": "warn",
+      "entity": "MAGA Inc",
+      "metric": "receipts-2024",
+      "internal": 560500000,
+      "external": 498500000,
+      "delta_pct": 12.437311935807422,
+      "cause": "over-count-vs-fec",
+      "detail": "MAGA Inc cycle 2024: edge-store OVER-counts vs FEC upstream by 12.4% (edge $560.5M vs FEC $498.5M)",
+      "checker": "committee-receipts"
+    },
+    {
+      "severity": "warn",
+      "entity": "Fairshake PAC",
+      "metric": "receipts-2024",
+      "internal": 529000000,
+      "external": 455300000,
+      "delta_pct": 16.18712936525368,
+      "cause": "over-count-vs-fec",
+      "detail": "Fairshake PAC cycle 2024: edge-store OVER-counts vs FEC upstream by 16.2% (edge $529.0M vs FEC $455.3M)",
+      "checker": "committee-receipts"
+    },
+    {
+      "severity": "warn",
+      "entity": "MAGA Inc",
+      "metric": "receipts-2026",
+      "internal": 365800000,
+      "external": 329800000,
+      "delta_pct": 10.91570648878108,
+      "cause": "over-count-vs-fec",
+      "detail": "MAGA Inc cycle 2026: edge-store OVER-counts vs FEC upstream by 10.9% (edge $365.8M vs FEC $329.8M)",
+      "checker": "committee-receipts"
+    },
+    {
+      "severity": "warn",
+      "entity": "SLF PAC",
+      "metric": "receipts-2022",
+      "internal": 228800000,
+      "external": 205500000,
+      "delta_pct": 11.338199513381996,
+      "cause": "over-count-vs-fec",
+      "detail": "SLF PAC cycle 2022: edge-store OVER-counts vs FEC upstream by 11.3% (edge $228.8M vs FEC $205.5M)",
+      "checker": "committee-receipts"
+    },
+    {
+      "severity": "warn",
+      "entity": "DCCC - Democratic Congressional Campaign Committee",
+      "metric": "receipts-2024",
+      "internal": 168800000,
+      "external": 200500000,
+      "delta_pct": -15.810473815461346,
+      "cause": "under-count-vs-fec",
+      "detail": "DCCC - Democratic Congressional Campaign Committee cycle 2024: edge-store UNDER-counts vs FEC upstream by -15.8% (edge $168.8M vs FEC $200.5M)",
+      "checker": "committee-receipts"
+    },
+    {
+      "severity": "warn",
+      "entity": "NRCC - National Republican Congressional Committee",
+      "metric": "receipts-2022",
+      "internal": 175800000,
+      "external": 199800000,
+      "delta_pct": -12.012012012012011,
+      "cause": "under-count-vs-fec",
+      "detail": "NRCC - National Republican Congressional Committee cycle 2022: edge-store UNDER-counts vs FEC upstream by -12.0% (edge $175.8M vs FEC $199.8M)",
+      "checker": "committee-receipts"
+    },
+    {
+      "severity": "error",
+      "entity": "SLF PAC",
+      "metric": "receipts-2020",
+      "internal": 278600000,
+      "external": 199000000,
+      "delta_pct": 40,
+      "cause": "over-count-vs-fec",
+      "detail": "SLF PAC cycle 2020: edge-store OVER-counts vs FEC upstream by 40.0% (edge $278.6M vs FEC $199.0M)",
+      "checker": "committee-receipts"
+    },
+    {
+      "severity": "warn",
+      "entity": "NRCC - National Republican Congressional Committee",
+      "metric": "receipts-2024",
+      "internal": 153100000,
+      "external": 178400000,
+      "delta_pct": -14.181614349775785,
+      "cause": "under-count-vs-fec",
+      "detail": "NRCC - National Republican Congressional Committee cycle 2024: edge-store UNDER-counts vs FEC upstream by -14.2% (edge $153.1M vs FEC $178.4M)",
+      "checker": "committee-receipts"
+    },
+    {
+      "severity": "warn",
+      "entity": "DCCC - Democratic Congressional Campaign Committee",
+      "metric": "receipts-2022",
+      "internal": 152800000,
+      "external": 177100000,
+      "delta_pct": -13.721061547148503,
+      "cause": "under-count-vs-fec",
+      "detail": "DCCC - Democratic Congressional Campaign Committee cycle 2022: edge-store UNDER-counts vs FEC upstream by -13.7% (edge $152.8M vs FEC $177.1M)",
+      "checker": "committee-receipts"
+    },
+    {
+      "severity": "warn",
+      "entity": "DCCC - Democratic Congressional Campaign Committee",
+      "metric": "receipts-2020",
+      "internal": 109400000,
+      "external": 138600000,
+      "delta_pct": -21.06782106782107,
+      "cause": "under-count-vs-fec",
+      "detail": "DCCC - Democratic Congressional Campaign Committee cycle 2020: edge-store UNDER-counts vs FEC upstream by -21.1% (edge $109.4M vs FEC $138.6M)",
+      "checker": "committee-receipts"
+    }
+  ]
+}

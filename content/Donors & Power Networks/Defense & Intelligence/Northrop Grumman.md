@@ -64,9 +64,7 @@ related: "[[Palantir Technologies Political Operation]] · [[Think Tank Capture 
 lei: RIMU48P07456QXSO0R61
 lei-jurisdiction: US-DE
 subawards-issued: 50
-subawards-issued-amount: 25770235047
 subawards-received: 50
-subawards-received-amount: 25770235047
 top-federal-agency: National Aeronautics and Space Administration
 top-naics-code: "541330"
 nonprofit-status: 501(c)(3)

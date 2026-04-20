@@ -146,6 +146,24 @@ if [ $? -ne 0 ]; then
   exit 1
 fi
 
+# 8b. Reconciliation framework (tier 1) — surfaces data-integrity drift.
+# SOFT gate: reports findings but does not block (2026-04-20). There's a
+# known backlog of ~652 pre-existing tier-1 errors being worked through;
+# once the backlog is drained this should flip to STRICT mode so new
+# errors are blocked at commit time.
+#
+# What it catches: absurd-value frontmatter (quintillion bug class),
+# self-loop edges, cross-source duplicate edges (fec-indiv overlap),
+# empty derived tables, unresolved entity references.
+#
+# Spec: content/Admin Notes/reconciliation-framework-audit-2026-04-20.md
+echo "  -> reconciliation-framework (tier 1, soft)"
+RECON_OUT=$(node scripts/verify-all.cjs --tier 1 2>&1 | grep -E "TOTAL:" | head -1)
+if [ -n "$RECON_OUT" ]; then
+  echo "     $RECON_OUT"
+fi
+# intentionally non-blocking until backlog is drained
+
 # 9. Auth architecture smoke tests (ADR-0009 contracts — 21 tests, ~70ms)
 echo "  -> auth-smoke-tests"
 node --test scripts/auth-smoke-tests.cjs >/dev/null 2>&1

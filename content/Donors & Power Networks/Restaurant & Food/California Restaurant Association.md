@@ -39,9 +39,7 @@ sec-form-types:
   - S-4/A
   - SB-2/A
 subawards-issued: 50
-subawards-issued-amount: 1009778941592127500
 subawards-received: 50
-subawards-received-amount: 1009778941592127500
 ein: 951241045
 annual-revenue: $5.4M
 net-assets: $20.8M

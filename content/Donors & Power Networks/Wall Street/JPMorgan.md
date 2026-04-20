@@ -39,9 +39,7 @@ annual-revenue: $155.8M
 net-assets: $442.1M
 tax-year: "2023"
 subawards-issued: 50
-subawards-issued-amount: 1009778941592127500
 subawards-received: 50
-subawards-received-amount: 1009778941592127500
 top-federal-agency: Pension Benefit Guaranty Corporation
 top-naics-code: "523930"
 federal-register-mentions: 395

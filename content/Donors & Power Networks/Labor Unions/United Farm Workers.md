@@ -15,8 +15,6 @@ ein: 941448579
 annual-revenue: $7.6M
 net-assets: $5.7M
 tax-year: "2020"
-subawards-issued-amount: 1009778941592127500
-subawards-received-amount: 1009778941592127500
 federal-register-mentions: 59
 last-enriched: "2026-04-10"
 regulatory-agencies:

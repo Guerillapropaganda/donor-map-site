@@ -17,9 +17,7 @@ annual-revenue: $8.9M
 net-assets: $61.9M
 tax-year: "2023"
 subawards-issued: 50
-subawards-issued-amount: 1009778941592127500
 subawards-received: 50
-subawards-received-amount: 1009778941592127500
 top-federal-agency: Department of Defense
 top-naics-code: "541330"
 court-cases: 123599

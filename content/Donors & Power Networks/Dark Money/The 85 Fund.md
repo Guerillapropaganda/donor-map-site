@@ -13,8 +13,6 @@ ein: 202466871
 annual-revenue: $143.1M
 net-assets: $3.9M
 tax-year: "2023"
-subawards-issued-amount: 1009778941592127500
-subawards-received-amount: 1009778941592127500
 nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-08"
 needs-reenrichment: true

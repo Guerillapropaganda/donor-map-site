@@ -11,9 +11,7 @@ politicians-funded: "[[Nancy Pelosi]], [[Gavin Newsom]], [[Indivisible Action]],
 issues:
   - Healthcare
 subawards-issued: 50
-subawards-issued-amount: 1009778941592127500
 subawards-received: 50
-subawards-received-amount: 1009778941592127500
 ein: "943382057"
 annual-revenue: $23.0M
 net-assets: $30.0M

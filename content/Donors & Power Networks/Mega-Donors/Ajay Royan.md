@@ -10,8 +10,6 @@ entity-type: Individual Donor
 politicians-funded: "[[JD Vance]]"
 issues:
   - Technology
-subawards-issued-amount: 1009778941592127500
-subawards-received-amount: 1009778941592127500
 court-cases: 3
 last-enriched: "2026-04-08"
 court-jurisdictions:

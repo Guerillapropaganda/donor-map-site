@@ -13,9 +13,7 @@ federal-grants-count: 2
 lei: I1BZKREC126H0VB1BL91
 lei-jurisdiction: US-DE
 subawards-issued: 50
-subawards-issued-amount: 1009778941592127500
 subawards-received: 50
-subawards-received-amount: 1009778941592127500
 top-federal-agency: Department of Defense
 top-naics-code: "221122"
 nhtsa-recalls: 0

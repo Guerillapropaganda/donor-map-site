@@ -47,9 +47,7 @@ total-revenue: 186389
 total-assets: 730985
 cpsc-recalls: 2
 subawards-issued: 50
-subawards-issued-amount: 1009778941592127500
 subawards-received: 50
-subawards-received-amount: 1009778941592127500
 top-federal-agency: Department of Defense
 top-naics-code: "541512"
 nhtsa-recalls: 0

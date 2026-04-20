@@ -11,8 +11,6 @@ politicians-funded: "[[Donald Trump]], [[Pete Hegseth]]"
 issues:
   - Dark Money & Campaign Finance
   - Healthcare
-subawards-issued-amount: 1009778941592127500
-subawards-received-amount: 1009778941592127500
 ein: "853318501"
 nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-15"

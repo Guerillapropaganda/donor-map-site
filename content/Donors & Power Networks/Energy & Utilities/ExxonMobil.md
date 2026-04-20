@@ -36,9 +36,7 @@ federal-awards-total: 7553962
 federal-contracts-count: 25
 federal-grants-count: 0
 subawards-issued: 50
-subawards-issued-amount: 51876611853
 subawards-received: 50
-subawards-received-amount: 51876611853
 top-federal-agency: Department of Defense
 top-naics-code: "324191"
 nhtsa-recalls: 0

@@ -35,8 +35,6 @@ sec-form-types:
   - S-8
   - SC 13G
   - SC 13G/A
-subawards-issued-amount: 1009778941592127500
-subawards-received-amount: 1009778941592127500
 federal-register-mentions: 2
 regulatory-agencies:
   - Securities and Exchange Commission

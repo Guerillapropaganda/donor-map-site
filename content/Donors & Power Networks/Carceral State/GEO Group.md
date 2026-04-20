@@ -22,9 +22,7 @@ ofac-programs:
   - RUSSIA-EO14024
   - IRAN-EO13902
 subawards-issued: 50
-subawards-issued-amount: 1009778941592127500
 subawards-received: 50
-subawards-received-amount: 1009778941592127500
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 lobbying-spend: 2624500
