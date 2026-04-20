@@ -34,6 +34,7 @@ const ROOT = path.resolve(__dirname, '..');
 const ENT_FILE = path.join(ROOT, 'data', 'entities.jsonl');
 const FEC_ROOT = 'C:/donor-map-data/fec';
 const EOBMF_ROOT = 'C:/donor-map-data/bulk/EOBMSFE'; // IRS EO BMF extract (eo1-4.csv, eo_pr, eo_xx)
+const POFD_FILE = 'C:/donor-map-data/bulk/PolOrgsFullData/var/IRS/data/scripts/pofd/download/FullDataFile.txt'; // IRS 8871/8872 political orgs
 const WRITE = process.argv.includes('--write');
 const VERBOSE = process.argv.includes('--verbose');
 
@@ -116,6 +117,40 @@ function classifyNoEinCategory(name, sector) {
   const eoUnambig = [...eoByName.values()].filter(Boolean).length;
   console.log(`  EO BMF rows scanned: ${eoRowCount}, unique unambiguous normalized names: ${eoUnambig}`);
 
+  // Load IRS POFD (Political Organization Filing & Disclosure): every
+  // 527 political org that ever filed Form 8871/8872, with EIN and
+  // organization name. ~2.6GB pipe-delimited text file with record-
+  // type prefix. We only care about type-1 records (8871 form headers)
+  // which have format:
+  //   1|8871|sub_form|status|amend|sub_amend|EIN|ORG_NAME|...
+  console.log('  loading IRS POFD (8871/8872) political org file...');
+  const pofdByName = new Map(); // normalized name → {ein, name} OR null if ambiguous
+  let pofdRowCount = 0;
+  if (fs.existsSync(POFD_FILE)) {
+    const rl = readline.createInterface({ input: fs.createReadStream(POFD_FILE) });
+    for await (const line of rl) {
+      if (!line || line[0] !== '1') continue;   // skip H header + D/R/2 rows
+      const cols = line.split('|');
+      if (cols.length < 8 || cols[1] !== '8871') continue;
+      const ein = cols[6];
+      const name = cols[7];
+      if (!ein || !name) continue;
+      pofdRowCount++;
+      const k = normalize(name);
+      if (k.length < 4) continue;
+      if (pofdByName.has(k)) {
+        const existing = pofdByName.get(k);
+        if (existing && existing.ein !== ein) pofdByName.set(k, null);
+      } else {
+        pofdByName.set(k, { ein, name });
+      }
+    }
+  } else {
+    console.log('  (POFD file not found — skipping 8871 step)');
+  }
+  const pofdUnambig = [...pofdByName.values()].filter(Boolean).length;
+  console.log(`  POFD 8871 records scanned: ${pofdRowCount}, unique unambiguous orgs: ${pofdUnambig}`);
+
   // Load 990 filer index.
   console.log('  loading nonprofit-990.jsonl...');
   const einByFilerNorm = new Map();   // normalized filer name → ein
@@ -170,7 +205,7 @@ function classifyNoEinCategory(name, sector) {
   console.log(`\n  donors + nonprofits: ${donors.length} (no-ein: ${needsWork.length})\n`);
 
   const updates = new Map(); // name → {ein?, fec_committee_id?, classification?, ein_source?}
-  const counts = { ein_direct: 0, ein_fuzzy: 0, ein_eobmf: 0, fec_id_match: 0, classified_individual: 0, classified_aggregation: 0, classified_forprofit: 0, classified_party: 0, classified_pac_needs_fec: 0, unresolved: 0 };
+  const counts = { ein_direct: 0, ein_fuzzy: 0, ein_eobmf: 0, ein_pofd: 0, fec_id_match: 0, classified_individual: 0, classified_aggregation: 0, classified_forprofit: 0, classified_party: 0, classified_pac_needs_fec: 0, unresolved: 0 };
 
   for (const e of needsWork) {
     const signals = e.signals || {};
@@ -194,9 +229,19 @@ function classifyNoEinCategory(name, sector) {
     // 1b. IRS EO BMF lookup — massive nonprofit name→EIN index.
     if (nameNorm.length >= 4 && eoByName.has(nameNorm)) {
       const hit = eoByName.get(nameNorm);
-      if (hit) { // non-null = unambiguous
+      if (hit) {
         updates.set(name, { ein: hit.ein, ein_source: `eo-bmf:${hit.name}` });
         counts.ein_eobmf++;
+        continue;
+      }
+    }
+    // 1c. IRS POFD 8871 lookup — 527 political orgs (PACs, super PACs,
+    // victory funds) that aren't in EO BMF.
+    if (nameNorm.length >= 4 && pofdByName.has(nameNorm)) {
+      const hit = pofdByName.get(nameNorm);
+      if (hit) {
+        updates.set(name, { ein: hit.ein, ein_source: `pofd-8871:${hit.name}` });
+        counts.ein_pofd++;
         continue;
       }
     }
@@ -244,6 +289,7 @@ function classifyNoEinCategory(name, sector) {
   console.log(`    EIN found (exact filer-name match):    ${counts.ein_direct}`);
   console.log(`    EIN found (normalized fuzzy match):    ${counts.ein_fuzzy}`);
   console.log(`    EIN found (IRS EO BMF):                ${counts.ein_eobmf}`);
+  console.log(`    EIN found (IRS POFD 8871):             ${counts.ein_pofd}`);
   console.log(`    FEC committee id matched:              ${counts.fec_id_match}`);
   console.log(`    classified individual:                 ${counts.classified_individual}`);
   console.log(`    classified industry-bloc/aggregation:  ${counts.classified_aggregation}`);

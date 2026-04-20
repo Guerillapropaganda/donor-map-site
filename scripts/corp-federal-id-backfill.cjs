@@ -28,6 +28,8 @@ const ROOT = path.resolve(__dirname, '..');
 const ENT_FILE = path.join(ROOT, 'data', 'entities.jsonl');
 const FEC_ROOT = 'C:/donor-map-data/fec';
 const SEC_TICKERS_FILE = 'C:/donor-map-data/bulk/company_tickers.json';
+const USASPENDING_DIR = 'C:/donor-map-data/bulk/USAspending award data';
+const { spawn } = require('child_process');
 const WRITE = process.argv.includes('--write');
 const VERBOSE = process.argv.includes('--verbose');
 
@@ -57,6 +59,77 @@ function corpSearchTerms(name) {
     if (p.length >= 3) terms.add(p);
   }
   return [...terms].filter((t) => t.length >= 3);
+}
+
+// Stream a USAspending contract ZIP, extract recipient_name +
+// recipient_uei pairs, populate `out` map for any normalized name in
+// the `targets` set. Uses `unzip -p` streamed to readline so we never
+// decompress the full archive to disk.
+async function scanUsaspendingZip(zipPath, targets, out) {
+  const readline = require('readline');
+  // Find CSVs inside zip first (names from central directory listing).
+  const list = require('child_process').spawnSync('unzip', ['-l', zipPath], { maxBuffer: 10 * 1024 * 1024 });
+  const csvNames = list.stdout.toString().split(/\r?\n/).map((l) => l.trim().split(/\s+/).pop()).filter((n) => n.endsWith('.csv'));
+  for (const csv of csvNames) {
+    await new Promise((resolve, reject) => {
+      const proc = spawn('unzip', ['-p', zipPath, csv]);
+      const rl = readline.createInterface({ input: proc.stdout });
+      let header = null;
+      let nameCol = -1, ueiCol = -1;
+      rl.on('line', (line) => {
+        if (!header) {
+          header = line.split(',').map((h) => h.trim());
+          nameCol = header.indexOf('recipient_name');
+          ueiCol = header.indexOf('recipient_uei');
+          if (nameCol < 0 || ueiCol < 0) { proc.kill(); resolve(); return; }
+          return;
+        }
+        // Fast path: skip rows that can't contain any target. Cheap
+        // substring test on raw line using the longest target ensures
+        // we don't bother CSV-parsing most rows.
+        // For correctness, we still need to parse CSV properly when we
+        // think there's a hit. Use a simple quoted-field-aware split.
+        // Parse only name + uei columns.
+        const cols = parseCsvRow(line);
+        if (cols.length <= Math.max(nameCol, ueiCol)) return;
+        const rawName = cols[nameCol];
+        const uei = cols[ueiCol];
+        if (!rawName || !uei) return;
+        const n = normalize(rawName);
+        if (targets.has(n) && !out.has(n)) out.set(n, { uei, name: rawName });
+        // Also index under first-2 normalized tokens.
+        const words = n.split(' ').filter(Boolean);
+        if (words.length >= 2) {
+          const k2 = words.slice(0, 2).join(' ');
+          if (targets.has(k2) && !out.has(k2)) out.set(k2, { uei, name: rawName });
+        }
+      });
+      rl.on('close', resolve);
+      proc.on('error', reject);
+    });
+  }
+}
+
+// Minimal RFC-4180 CSV row parser — handles quoted fields with embedded
+// commas + escaped quotes. USAspending rows are well-formed.
+function parseCsvRow(line) {
+  const out = [];
+  let cur = '';
+  let inQ = false;
+  for (let i = 0; i < line.length; i++) {
+    const c = line[i];
+    if (inQ) {
+      if (c === '"' && line[i + 1] === '"') { cur += '"'; i++; }
+      else if (c === '"') inQ = false;
+      else cur += c;
+    } else {
+      if (c === '"') inQ = true;
+      else if (c === ',') { out.push(cur); cur = ''; }
+      else cur += c;
+    }
+  }
+  out.push(cur);
+  return out;
 }
 
 function classifyCorp(name) {
@@ -135,16 +208,39 @@ function classifyCorp(name) {
   }
   console.log(`  SEC registered companies indexed: ${secByName.size}`);
 
+  // USAspending UEI index — stream all contract CSVs (FY2025 + FY2026)
+  // and extract recipient_name → recipient_uei pairs for every corp we
+  // still need to identify. Corps with public SEC records already got
+  // CIKs in step 1b; this step closes federal-contractor corps like
+  // Blackstone, Palantir, etc. that aren't publicly traded but receive
+  // federal contracts.
   const ents = loadEntities();
   const corps = ents.filter((e) => e.entity_type === 'corporation');
   const needsWork = corps.filter((e) => {
     const s = e.signals || {};
-    return !s.fec_committee_id && !(s.fec_committee_ids || []).length && !s.uei && !s.ein;
+    return !s.fec_committee_id && !(s.fec_committee_ids || []).length && !s.uei && !s.ein && !s.sec_cik;
   });
   console.log(`\n  corporations: ${corps.length} (no-federal-id: ${needsWork.length})\n`);
 
+  // Scan USAspending for UEIs of corps still needing identifiers.
+  // Stream each ZIPped contract CSV via `unzip -p`; parse only
+  // recipient_name + recipient_uei columns; match against target set.
+  const ueiByNormName = new Map();
+  const targetNormNames = new Set();
+  for (const e of needsWork) {
+    for (const t of corpSearchTerms(e.name)) targetNormNames.add(t);
+  }
+  if (fs.existsSync(USASPENDING_DIR) && targetNormNames.size > 0) {
+    console.log(`  scanning USAspending contracts for ${targetNormNames.size} target name terms...`);
+    const zipFiles = fs.readdirSync(USASPENDING_DIR).filter((f) => f.endsWith('.zip'));
+    for (const zf of zipFiles) {
+      await scanUsaspendingZip(path.join(USASPENDING_DIR, zf), targetNormNames, ueiByNormName);
+      console.log(`    ${zf}: cumulative UEI matches so far = ${ueiByNormName.size}`);
+    }
+  }
+
   const updates = new Map();
-  const counts = { fec_matched: 0, sec_matched: 0, aggregation: 0, private_holding: 0, family_holding: 0, needs_sec_edgar: 0 };
+  const counts = { fec_matched: 0, sec_matched: 0, uei_matched: 0, aggregation: 0, private_holding: 0, family_holding: 0, needs_sec_edgar: 0 };
 
   for (const e of needsWork) {
     const terms = corpSearchTerms(e.name);
@@ -202,6 +298,27 @@ function classifyCorp(name) {
       continue;
     }
 
+    // 1c. USAspending UEI lookup — federal contract recipient registry.
+    // Covers private LLCs (Blackstone, Palantir, private-equity contractors)
+    // that don't have SEC CIKs but do have federal contracts.
+    let ueiHit = null;
+    for (const t of terms) {
+      const hit = ueiByNormName.get(t);
+      if (hit) {
+        const hitFirstWord = normalize(hit.name).split(' ')[0];
+        const termFirstWord = t.split(' ')[0];
+        if (hitFirstWord === termFirstWord) { ueiHit = hit; break; }
+      }
+    }
+    if (ueiHit) {
+      updates.set(e.name, {
+        uei: ueiHit.uei,
+        uei_source: `usaspending:${ueiHit.name}`,
+      });
+      counts.uei_matched++;
+      continue;
+    }
+
     // Classify unmatchable.
     const cat = classifyCorp(e.name);
     if (cat === 'aggregation') {
@@ -225,6 +342,7 @@ function classifyCorp(name) {
   console.log('  results:');
   console.log(`    FEC committee-id matched:              ${counts.fec_matched}`);
   console.log(`    SEC CIK matched:                       ${counts.sec_matched}`);
+  console.log(`    USAspending UEI matched:               ${counts.uei_matched}`);
   console.log(`    industry-bloc aggregation:             ${counts.aggregation}`);
   console.log(`    private holding / family:              ${counts.private_holding + counts.family_holding}`);
   console.log(`    needs SEC EDGAR CIK (next download):   ${counts.needs_sec_edgar}`);
@@ -237,6 +355,7 @@ function classifyCorp(name) {
       if (i++ >= 20) break;
       const what = u.fec_committee_id ? `fec=${u.fec_committee_id} [${u.fec_committee_id_source}]` :
                    u.sec_cik ? `cik=${u.sec_cik} ticker=${u.ticker || '-'} [${u.sec_cik_source}]` :
+                   u.uei ? `uei=${u.uei} [${u.uei_source}]` :
                    u.federal_id_expected === false ? `expected=false (${u.federal_id_reason})` :
                    `needs-sec-edgar`;
       console.log(`    ${name} → ${what}`);
@@ -270,7 +389,11 @@ function classifyCorp(name) {
       rec.signals.sec_cik = u.sec_cik;
       if (u.ticker) rec.signals.ticker = u.ticker;
       rec.signals.sec_cik_sourced_from = u.sec_cik_source;
-      // Clear the needs_sec_edgar_cik flag if previously set.
+      delete rec.signals.needs_sec_edgar_cik;
+    }
+    if (u.uei) {
+      rec.signals.uei = u.uei;
+      rec.signals.uei_sourced_from = u.uei_source;
       delete rec.signals.needs_sec_edgar_cik;
     }
     if (u.federal_id_expected === false) {
