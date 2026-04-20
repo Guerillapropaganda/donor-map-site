@@ -40,10 +40,16 @@ async function run(opts = {}) {
       const name = e[side];
       if (!name) continue;
       if (byName.has(name)) continue;
+      const sideType = e[side === 'from' ? 'from_type' : 'to_type'];
+      // Meta-type refs are vault wayfinding pages (index pages, story
+      // analyses, donor-map hubs) — they legitimately appear in edge
+      // `from`/`to` slots without being entities in entities.jsonl.
+      // Not a data bug, so exclude from the warn count.
+      if (sideType === 'meta') continue;
       // Bare FEC committee names (all-caps, contain PAC/COMMITTEE/etc.) are
       // expected orphans — they're canonical upstream references.
       if (/^[A-Z0-9 &.,'/()-]{5,}$/.test(name) && /(PAC|COMMITTEE|FUND|CAMPAIGN|FOR|VICTORY|LEADERSHIP)/.test(name)) continue;
-      const k = `${name}||${e[side === 'from' ? 'from_type' : 'to_type']}`;
+      const k = `${name}||${sideType}`;
       unknownRefCounts.set(k, (unknownRefCounts.get(k) || 0) + 1);
     }
   }

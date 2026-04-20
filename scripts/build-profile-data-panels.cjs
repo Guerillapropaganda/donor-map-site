@@ -155,17 +155,31 @@ function renderDonorPanel(entity) {
   lines.push("")
   lines.push(`**Total political spend:** ${formatUsd(totalSpend)}`)
 
-  // Top politicians funded
+  // Top politicians funded — only render when at least one row has a
+  // real dollar amount. Dark-money donors (Leo, MFT, JCN, etc.) route
+  // money through 501(c)(4) vehicles and IE-spending committees;
+  // 1-hop donor→politician edges don't exist for them. Rendering a
+  // table of names with "—" amounts is misleading — it implies direct
+  // giving we haven't quantified, when the truer answer is that money
+  // flows through controlled vehicles. Suppress and point to the
+  // entity's own "Dark Money Architecture" narrative instead.
   const top = signals.top_politicians_funded || []
-  if (top.length) {
+  const topWithAmounts = top.filter((p) => typeof p.amount === "number" && p.amount > 0)
+  if (topWithAmounts.length) {
     lines.push("")
     lines.push("#### Top politicians funded")
     lines.push("")
     lines.push("| Politician | Amount |")
     lines.push("|---|---:|")
-    for (const p of top.slice(0, 10)) {
+    for (const p of topWithAmounts.slice(0, 10)) {
       lines.push(`| ${safeCell(p.name)} | ${formatUsd(p.amount)} |`)
     }
+  } else if (top.length) {
+    // Names present but no amounts — explain rather than mislead.
+    lines.push("")
+    lines.push("*No direct donor→politician dollar flows tracked for this entity. " +
+      "Money may route through controlled vehicles or 501(c)(4) shells. " +
+      "See narrative sections below for details.*")
   }
 
   lines.push("")
@@ -262,15 +276,23 @@ function renderPoliticianPanel(entity) {
     topDonors = signalsTop.slice(0, 10)
   }
 
-  if (topDonors.length) {
+  // Suppress Top donors table when all rows have no real dollar amount
+  // — a table of names with "—" values misleads readers into thinking
+  // those are the top-N when really we just couldn't quantify flows.
+  // Same policy as the donor-side "Top politicians funded" suppression.
+  const topWithAmounts = topDonors.filter((d) => typeof d.amount === "number" && d.amount > 0)
+  if (topWithAmounts.length) {
     lines.push("")
     lines.push("#### Top donors")
     lines.push("")
     lines.push("| Donor | Amount |")
     lines.push("|---|---:|")
-    for (const d of topDonors) {
+    for (const d of topWithAmounts) {
       lines.push(`| ${safeCell(d.name)} | ${formatUsd(d.amount)} |`)
     }
+  } else if (topDonors.length) {
+    lines.push("")
+    lines.push("*Top donors list present but amounts not yet quantified. See narrative sections for details.*")
   } else if (signals.fm_top_donors && signals.fm_top_donors.length) {
     // No canonical data and no signals — fall back to frontmatter list
     // (name-only, no amounts).
