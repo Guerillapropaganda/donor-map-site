@@ -1029,17 +1029,20 @@ async function handleSummary(c: ClassifiedQuestion, question: string, engine: an
       // reads the wrong dollar total from the truncated set.
       const orgIn = await engine.query({ subject: "edges", filters: { to: orgName, type: "monetary" }, limit: 1500 })
       const orgOut = await engine.query({ subject: "edges", filters: { from: orgName, type: "monetary" }, limit: 1500 })
+      // Push ALL edges, not just top 3 — the per-org aggregation below
+      // sums every entry, so slicing here silently truncated totals.
+      // For Marble Freedom Trust the real outflow is $803M across 10
+      // edges; the top-3 slice was reporting $461M (57% of real total).
+      // Display-time capping happens in the render step (topSupport /
+      // topAttack .slice(0, 3)), so the narrative still shows top 3
+      // recipients — just with the correct aggregate total.
       ;[...(orgIn.rows || [])]
         .filter((e: any) => e.amount)
-        .sort((a: any, b: any) => (b.amount || 0) - (a.amount || 0))
-        .slice(0, 3)
         .forEach((e: any) =>
           viaOrgs.push({ kind: `via ${orgName} (in)`, from: e.from, to: orgName, amount: e.amount, cycle: e.cycle, source: e.source }),
         )
       ;[...(orgOut.rows || [])]
         .filter((e: any) => e.amount)
-        .sort((a: any, b: any) => (b.amount || 0) - (a.amount || 0))
-        .slice(0, 3)
         .forEach((e: any) => {
           const label = e.role === "ie-oppose"
             ? `via ${orgName} AGAINST`
