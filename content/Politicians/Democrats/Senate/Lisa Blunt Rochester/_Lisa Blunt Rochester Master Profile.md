@@ -106,13 +106,13 @@ top-donors: "[[International Association of Firefighters Interested in Registrat
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
 | Roll-call votes tracked | 2,014 |
 | Substantive votes (Y/N) | 1,948 |
-| Votes with party majority | 1,917 |
+| Votes with party majority | 1,916 |
 | Party-line loyalty | 98.4% |
 | Deviations from party | 19 |
 

@@ -130,14 +130,14 @@ Yet Casey remained unfazed. His pharma donors were reliable, his labor base felt
 ### Voting Record
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–118th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
 | Roll-call votes tracked | 2,009 |
 | Substantive votes (Y/N) | 1,986 |
-| Votes with party majority | 1,906 |
-| Party-line loyalty | 96.0% |
+| Votes with party majority | 1,908 |
+| Party-line loyalty | 96.1% |
 | Deviations from party | 24 |
 
 **Coverage:**

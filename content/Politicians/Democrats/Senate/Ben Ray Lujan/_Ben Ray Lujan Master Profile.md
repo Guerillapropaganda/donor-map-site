@@ -88,14 +88,14 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
 | Roll-call votes tracked | 1,433 |
 | Substantive votes (Y/N) | 1,415 |
-| Votes with party majority | 1,373 |
-| Party-line loyalty | 97.0% |
+| Votes with party majority | 1,374 |
+| Party-line loyalty | 97.1% |
 | Deviations from party | 29 |
 
 **Coverage:**

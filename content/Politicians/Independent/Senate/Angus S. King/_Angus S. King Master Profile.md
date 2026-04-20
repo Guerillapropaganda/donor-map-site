@@ -107,15 +107,15 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math. Party-line loyalty computed against **Democratic caucus** majority (legislator is Independent but caucuses with that party).*
 
 | Metric | Value |
 |---|---:|
 | Roll-call votes tracked | 2,751 |
 | Substantive votes (Y/N) | 2,722 |
-| Votes with party majority | 2,315 |
-| Party-line loyalty | 85.0% |
-| Deviations from party | 4 |
+| Votes with party majority | 2,453 |
+| Party-line loyalty | 90.1% |
+| Deviations from party | 64 |
 
 **Coverage:**
 
@@ -128,14 +128,20 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 4):**
+**Most recent party-line deviations (top 10 of 64):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| 2024-05-23 | s182-118.2 | Yea | N | S. 4361 |
-| 2023-12-12 | s340-118.1 | Nay | Y | H.R. 2670 |
-| 2023-11-01 | s280-118.1 | Nay | Y | — |
-| 2023-05-11 | s122-118.1 | Yea | N | S.J.Res. 23 |
+| 2026-01-30 | s20-119.2 | Yea | N | H.R. 7148 |
+| 2025-11-10 | s618-119.1 | Yea | N | H.R. 5371 |
+| 2025-11-10 | s617-119.1 | Yea | N | H.R. 5371 |
+| 2025-11-10 | s616-119.1 | Yea | N | — |
+| 2025-11-10 | s615-119.1 | Yea | N | — |
+| 2025-11-10 | s611-119.1 | Yea | N | H.R. 5371 |
+| 2025-11-09 | s610-119.1 | Yea | N | H.R. 5371 |
+| 2025-11-04 | s603-119.1 | Yea | N | H.R. 5371 |
+| 2025-10-28 | s590-119.1 | Yea | N | H.R. 5371 |
+| 2025-10-22 | s581-119.1 | Yea | N | H.R. 5371 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

@@ -115,14 +115,14 @@ top-donors: "[[Let America Vote PAC]], [[Google - Alphabet]], [[Bank of America]
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
 | Roll-call votes tracked | 2,751 |
 | Substantive votes (Y/N) | 2,710 |
-| Votes with party majority | 2,560 |
-| Party-line loyalty | 94.5% |
+| Votes with party majority | 2,559 |
+| Party-line loyalty | 94.4% |
 | Deviations from party | 54 |
 
 **Coverage:**

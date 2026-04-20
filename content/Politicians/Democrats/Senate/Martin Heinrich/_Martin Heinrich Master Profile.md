@@ -135,13 +135,13 @@ donors: [[Defense Industry]] · National Labs Complex · Energy Industry · [[Te
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
 | Roll-call votes tracked | 2,751 |
 | Substantive votes (Y/N) | 2,655 |
-| Votes with party majority | 2,508 |
+| Votes with party majority | 2,510 |
 | Party-line loyalty | 94.5% |
 | Deviations from party | 40 |
 

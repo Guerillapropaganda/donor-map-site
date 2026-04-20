@@ -175,14 +175,14 @@ SORT file.name ASC
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
 | Roll-call votes tracked | 1,433 |
 | Substantive votes (Y/N) | 1,410 |
-| Votes with party majority | 1,354 |
-| Party-line loyalty | 96.0% |
+| Votes with party majority | 1,355 |
+| Party-line loyalty | 96.1% |
 | Deviations from party | 28 |
 
 **Coverage:**

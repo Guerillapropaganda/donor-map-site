@@ -337,14 +337,14 @@ The final-years cognitive decline exposes the class infrastructure beneath the i
 ### Voting Record
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–118th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
 | Roll-call votes tracked | 1,561 |
 | Substantive votes (Y/N) | 1,393 |
-| Votes with party majority | 1,302 |
-| Party-line loyalty | 93.5% |
+| Votes with party majority | 1,305 |
+| Party-line loyalty | 93.7% |
 | Deviations from party | 23 |
 
 **Coverage:**

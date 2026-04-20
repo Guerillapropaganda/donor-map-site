@@ -121,6 +121,21 @@ const PRODUCERS = [
     script: 'scripts/financial-disclosures-pipeline.cjs',
     timeout_ms: 300_000,
   },
+  // Top-N donors / politicians funded — recompute the ranked lists in
+  // entity signals from the canonical edges. Populates both:
+  //   signals.top_politicians_funded  (on donor/corp/nonprofit)
+  //   signals.top_donors              (on politician)
+  // Runs weekly (Sunday 4am) — aggregators upstream typically update
+  // 1-3x per week, so no value in running more often. Needs --write
+  // and bigger heap because it loads every edge in memory.
+  {
+    name: 'top-n-recompute',
+    schedule: '40 4 * * 0',
+    script: 'scripts/populate-top-politicians-2hop.cjs',
+    args: ['--write'],
+    timeout_ms: 300_000,
+    node_opts: ['--max-old-space-size=8192'],
+  },
 ];
 
 // Serialize execution — never run two producers at once
@@ -181,10 +196,11 @@ function runProducer(producer) {
     log(`→ running ${producer.name}`);
     const started = Date.now();
     const producerArgs = Array.isArray(producer.args) ? producer.args : [];
+    const nodeOpts = Array.isArray(producer.node_opts) ? producer.node_opts : [];
     const timeoutMs = typeof producer.timeout_ms === 'number' ? producer.timeout_ms : 60_000;
     let child;
     try {
-      child = spawn('node', [producer.script, ...producerArgs], {
+      child = spawn('node', [...nodeOpts, producer.script, ...producerArgs], {
         cwd: ROOT,
         stdio: ['ignore', 'pipe', 'pipe'],
       });

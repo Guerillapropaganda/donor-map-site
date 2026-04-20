@@ -129,6 +129,50 @@ function titleCaseName(fecName) {
   }
   console.log(`  committees resolvable to vault entity: ${cmteToEntity.size}`);
 
+  // Signals-based enrichment: for committees tied to an org (via
+  // committee-master's connected_org field) where the org matches a
+  // vault entity, route the cmte_id to that entity. Fixes cases where
+  // the corp PAC's committee ID isn't in the entity's signals yet.
+  function normOrg(s) {
+    return (s || '').toUpperCase()
+      .replace(/['\u2019\u2018\x60]/g, '')
+      .replace(/[^A-Z0-9 ]+/g, ' ')
+      .replace(/\b(INC|INCORPORATED|LLC|LP|LLP|CORP|CORPORATION|CO|COMPANY|THE|OF|AND)\b/g, ' ')
+      .replace(/\s+/g, ' ')
+      .trim();
+  }
+  const orgToEntity = new Map();
+  for (const e of ents) {
+    if (e.entity_type === 'politician') continue;
+    const s = e.signals || {};
+    const keys = [normOrg(e.name)];
+    if (s.ticker) keys.push(normOrg(String(s.ticker)));
+    const firstWord = normOrg(e.name).split(' ')[0];
+    if (firstWord && firstWord.length >= 4) keys.push(firstWord);
+    for (const k of keys) {
+      if (k && k.length >= 3 && !orgToEntity.has(k)) orgToEntity.set(k, e);
+    }
+  }
+  const masterPath = 'C:/donor-map-data/fec/committee-master.jsonl';
+  if (fs.existsSync(masterPath)) {
+    const cmRl = readline.createInterface({ input: fs.createReadStream(masterPath) });
+    let enriched = 0;
+    for await (const line of cmRl) {
+      if (!line.trim()) continue;
+      try {
+        const r = JSON.parse(line);
+        if (!r.id || !r.connected_org) continue;
+        if (cmteToEntity.has(r.id)) continue;
+        const normed = normOrg(r.connected_org);
+        if (!normed) continue;
+        const firstWord = normed.split(' ')[0];
+        const ent = orgToEntity.get(normed) || (firstWord.length >= 4 ? orgToEntity.get(firstWord) : null);
+        if (ent) { cmteToEntity.set(r.id, ent); enriched++; }
+      } catch {}
+    }
+    console.log(`  committees enriched via connected_org: ${enriched}`);
+  }
+
   // Stream indiv records. Aggregate by (donor_name, vault_entity_name).
   const agg = new Map();
   let scanned = 0, below = 0, unresolved = 0, matched = 0;

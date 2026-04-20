@@ -50,10 +50,13 @@ function main() {
 
   const edges = loadEdges();
   const outByFrom = new Map();
+  const inByTo = new Map();
   for (const e of edges) {
     if (e.status === 'deprecated') continue;
     if (!outByFrom.has(e.from)) outByFrom.set(e.from, []);
     outByFrom.get(e.from).push(e);
+    if (!inByTo.has(e.to)) inByTo.set(e.to, []);
+    inByTo.get(e.to).push(e);
   }
 
   const updates = [];
@@ -133,35 +136,92 @@ function main() {
     }
   }
 
+  // Inverse pass: compute top_donors for each politician. Pools edges
+  // coming into the politician AND edges into stub committees they
+  // control (via signals.controlled_by). Mirrors the stub-pooling the
+  // coverage audit already does.
+  const politicianUpdates = [];
+  const pols = ents.filter((e) => e.entity_type === 'politician');
+  for (const pol of pols) {
+    const byDonor = new Map();
+    const inbound = inByTo.get(pol.name) || [];
+    for (const e of inbound) {
+      if (e.type !== 'monetary' && !(e.type === 'funding' || e.role === 'ie-support')) continue;
+      if (!e.amount || e.amount <= 0) continue;
+      const cur = byDonor.get(e.from) || { name: e.from, type: 'donor', amount: 0, count: 0 };
+      cur.amount += e.amount;
+      cur.count += 1;
+      byDonor.set(e.from, cur);
+    }
+    const stubs = ents.filter((x) =>
+      Array.isArray(x.signals?.controlled_by) &&
+      x.signals.controlled_by.includes(pol.name) &&
+      x.entity_type !== 'politician'
+    );
+    for (const stub of stubs) {
+      const stubIn = inByTo.get(stub.name) || [];
+      for (const e of stubIn) {
+        if (e.type !== 'monetary' && !(e.type === 'funding' || e.role === 'ie-support')) continue;
+        if (!e.amount || e.amount <= 0) continue;
+        const cur = byDonor.get(e.from) || { name: e.from, type: 'donor', amount: 0, count: 0 };
+        cur.amount += e.amount;
+        cur.count += 1;
+        byDonor.set(e.from, cur);
+      }
+    }
+    if (byDonor.size === 0) continue;
+    const top = [...byDonor.values()]
+      .map((d) => ({
+        name: d.name,
+        type: (entByName.get(d.name)?.entity_type) || d.type,
+        amount: Math.round(d.amount),
+        count: d.count,
+      }))
+      .sort((a, b) => b.amount - a.amount)
+      .slice(0, 10);
+    if (top.every((t) => t.amount <= 0)) continue;
+    politicianUpdates.push({ entity: pol.name, top_donors: top });
+  }
+
   console.log(`\n[populate-top-politicians-2hop] ${WRITE ? 'WRITE' : 'dry-run'}`);
   console.log(`  scanned entities:           ${eligible.length}`);
   console.log(`  entities with 2-hop hits:   ${updates.length}`);
-  if (updates.length === 0) { if (!WRITE) console.log('  rerun with --write to apply.'); return; }
+  console.log(`  politicians with top_donors: ${politicianUpdates.length}`);
+  if (updates.length === 0 && politicianUpdates.length === 0) { if (!WRITE) console.log('  rerun with --write to apply.'); return; }
 
   if (!WRITE) {
     console.log('  rerun with --write to apply.');
     return;
   }
 
-  // Rewrite entities.jsonl
+  // Rewrite entities.jsonl with BOTH donor-side top_politicians_funded
+  // AND politician-side top_donors.
   const text = fs.readFileSync(ENT_FILE, 'utf-8');
   const out = [];
   const updateMap = new Map(updates.map((u) => [u.entity, u.top]));
+  const polMap = new Map(politicianUpdates.map((u) => [u.entity, u.top_donors]));
+  const now = new Date().toISOString();
   for (const line of text.split(/\r?\n/)) {
     if (!line.trim()) { out.push(line); continue; }
     let rec;
     try { rec = JSON.parse(line); } catch { out.push(line); continue; }
+    let touched = false;
     if (updateMap.has(rec.name)) {
       rec.signals = rec.signals || {};
       rec.signals.top_politicians_funded = updateMap.get(rec.name);
-      rec.signals.top_politicians_funded_computed_at = new Date().toISOString();
-      out.push(JSON.stringify(rec));
-    } else {
-      out.push(line);
+      rec.signals.top_politicians_funded_computed_at = now;
+      touched = true;
     }
+    if (polMap.has(rec.name)) {
+      rec.signals = rec.signals || {};
+      rec.signals.top_donors = polMap.get(rec.name);
+      rec.signals.top_donors_computed_at = now;
+      touched = true;
+    }
+    out.push(touched ? JSON.stringify(rec) : line);
   }
   fs.writeFileSync(ENT_FILE, out.join('\n'));
-  console.log(`  wrote ${updates.length} entity updates.`);
+  console.log(`  wrote ${updates.length} donor-side + ${politicianUpdates.length} politician-side updates.`);
 }
 
 main();

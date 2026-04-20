@@ -84,20 +84,36 @@ function normalizeVote(p) {
   }
   console.log(`  votes: ${voteMeta.size.toLocaleString()}`);
 
-  // Tally each vote's position by party, plus bioguide -> positions list
+  // Independents who caucus with one of the major parties. These should
+  // be compared against their caucus's majority for party-line loyalty,
+  // NOT against a 2-member Independent "caucus" that always contains
+  // themselves (which makes every vote count as "with party" by
+  // definition). Bernie Sanders and Angus King caucus with Democrats.
+  const CAUCUS_MAP = {
+    S000033: 'D', // Sanders (I-VT) — caucuses with Democrats
+    K000383: 'D', // King (I-ME) — caucuses with Democrats
+  };
+
+  // Tally each vote's position by party, plus bioguide -> positions list.
+  // We record the LEGAL party from the source (p.party) for display but
+  // use a CAUCUS party for majority computation.
   const positionsByVote = new Map(); // vote_id -> { R: {Y, N}, D: {Y, N}, I: {Y, N} }
-  const positionsByBio = new Map(); // bioguide -> [{vote_id, position, party}]
+  const positionsByBio = new Map(); // bioguide -> [{vote_id, position, party, caucus}]
   let posRows = 0;
   for await (const p of streamJsonl(POSITIONS)) {
     posRows++;
     const norm = normalizeVote(p.position);
+    const caucus = CAUCUS_MAP[p.bioguide] || p.party;
     if (!positionsByBio.has(p.bioguide)) positionsByBio.set(p.bioguide, []);
-    positionsByBio.get(p.bioguide).push({ vote_id: p.vote_id, position: p.position, norm, party: p.party });
+    positionsByBio.get(p.bioguide).push({ vote_id: p.vote_id, position: p.position, norm, party: p.party, caucus });
     if (!norm) continue;
     if (!positionsByVote.has(p.vote_id)) positionsByVote.set(p.vote_id, {});
     const byParty = positionsByVote.get(p.vote_id);
-    if (!byParty[p.party]) byParty[p.party] = { Y: 0, N: 0 };
-    byParty[p.party][norm]++;
+    // Tally under caucus (so Bernie's Nay counts as a Dem-caucus Nay for
+    // majority computation). This matches how the DC press treats these
+    // independents.
+    if (!byParty[caucus]) byParty[caucus] = { Y: 0, N: 0 };
+    byParty[caucus][norm]++;
   }
   console.log(`  positions: ${posRows.toLocaleString()}, bioguides: ${positionsByBio.size}`);
 
@@ -149,13 +165,15 @@ function normalizeVote(p) {
       if (!p.norm) continue;
       substantive++;
       const maj = partyMajority.get(p.vote_id);
-      if (!maj || !maj[p.party]) continue;
-      if (p.norm === maj[p.party]) withParty++;
+      // Compare against caucus majority, not legal party — so independents
+      // who caucus with a major party are measured against that caucus.
+      const compareKey = p.caucus || p.party;
+      if (!maj || !maj[compareKey]) continue;
+      if (p.norm === maj[compareKey]) withParty++;
       else {
         const meta = voteMeta.get(p.vote_id);
-        // Skip Presidential Nomination votes — they're confirmations, not policy
         if (meta?.bill?.type === 'PN') continue;
-        deviations.push({ vote_id: p.vote_id, position: p.position, party_majority: maj[p.party], meta, parsedDate: parseVoteDate(meta?.date) });
+        deviations.push({ vote_id: p.vote_id, position: p.position, party_majority: maj[compareKey], meta, parsedDate: parseVoteDate(meta?.date) });
       }
     }
 
@@ -174,9 +192,26 @@ function normalizeVote(p) {
       byChamber[k] = (byChamber[k] || 0) + 1;
     }
 
+    // Derive actual congress range from this legislator's coverage.
+    const congressesPresent = new Set();
+    for (const p of positions) {
+      const m = voteMeta.get(p.vote_id);
+      if (m?.congress) congressesPresent.add(Number(m.congress));
+    }
+    const congressList = [...congressesPresent].sort((a, b) => a - b);
+    const congressRange = congressList.length === 0 ? '—' :
+      congressList.length === 1 ? `${congressList[0]}th Congress` :
+      `${congressList[0]}th–${congressList[congressList.length - 1]}th Congress`;
+
+    // Show caucus note if this legislator's caucus differs from legal party.
+    const firstPos = positions.find((p) => p.caucus && p.caucus !== p.party);
+    const caucusNote = firstPos
+      ? ` Party-line loyalty computed against **${firstPos.caucus === 'D' ? 'Democratic' : firstPos.caucus === 'R' ? 'Republican' : firstPos.caucus} caucus** majority (legislator is Independent but caucuses with that party).`
+      : '';
+
     // Render panel
     const lines = [''];
-    lines.push('*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*');
+    lines.push(`*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), ${congressRange}. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.${caucusNote}*`);
     lines.push('');
     lines.push('| Metric | Value |');
     lines.push('|---|---:|');
