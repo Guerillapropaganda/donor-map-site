@@ -2300,9 +2300,47 @@ async function handleQuestion(question: string): Promise<AskResult> {
 
 // ─── Route ───────────────────────────────────────────────────────────
 
+// CORS for local dev cross-origin calls from the public Quartz site
+// (localhost:8080) to this ops API (localhost:3333). Allowlist-based
+// so in production we won't accidentally open the ops API to the
+// public web. Extend DEV_CORS_ORIGINS once the public Ask backend is
+// hosted elsewhere and you want to deliberately enable origins.
+const DEV_CORS_ORIGINS = new Set([
+  "http://localhost:8080",
+  "http://localhost:8081",
+  "http://localhost:3000",
+  "http://127.0.0.1:8080",
+])
+
+function corsHeadersFor(req: NextRequest): Record<string, string> {
+  const origin = req.headers.get("origin") || ""
+  if (!DEV_CORS_ORIGINS.has(origin)) return {}
+  return {
+    "Access-Control-Allow-Origin": origin,
+    "Access-Control-Allow-Methods": "POST, OPTIONS",
+    "Access-Control-Allow-Headers": "content-type",
+    "Access-Control-Max-Age": "86400",
+    "Vary": "Origin",
+  }
+}
+
+// Preflight handler for cross-origin fetch from the public Quartz Ask
+// page in local dev. Without this, browsers block the POST from
+// localhost:8080 to localhost:3333 before it even reaches the auth gate.
+export async function OPTIONS(req: NextRequest) {
+  const headers = corsHeadersFor(req)
+  return new NextResponse(null, { status: 204, headers })
+}
+
 export async function POST(req: NextRequest) {
+  const cors = corsHeadersFor(req)
   const gate = await requireTier(req, "free-auth")
-  if (!gate.ok) return gate.response!
+  if (!gate.ok) {
+    // Wrap the auth error with CORS headers so the browser can read it.
+    const r = gate.response!
+    for (const [k, v] of Object.entries(cors)) r.headers.set(k, v)
+    return r
+  }
   const minute = checkPerMinuteLimit(gate.user, "/api/ask")
   if (!minute.allowed) {
     return NextResponse.json(
@@ -2378,7 +2416,7 @@ export async function POST(req: NextRequest) {
   const cacheKey = question.toLowerCase().replace(/\s+/g, " ").trim()
   const cached = ASK_CACHE.get(cacheKey)
   if (cached && Date.now() - cached.at < ASK_CACHE_TTL_MS) {
-    return NextResponse.json({ ...cached.result, _cache: "hit" })
+    return NextResponse.json({ ...cached.result, _cache: "hit" }, { headers: cors })
   }
 
   try {
@@ -2389,9 +2427,9 @@ export async function POST(req: NextRequest) {
       const keys = [...ASK_CACHE.keys()].slice(0, Math.floor(ASK_CACHE_MAX / 4))
       for (const k of keys) ASK_CACHE.delete(k)
     }
-    return NextResponse.json(result)
+    return NextResponse.json(result, { headers: cors })
   } catch (err) {
-    return NextResponse.json({ error: String(err instanceof Error ? err.message : err) }, { status: 500 })
+    return NextResponse.json({ error: String(err instanceof Error ? err.message : err) }, { status: 500, headers: cors })
   }
 }
 

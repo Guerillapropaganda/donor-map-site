@@ -1,0 +1,612 @@
+/* AskPanel — public-site Ask UI
+ *
+ * Design system: cream bg (#f5f0eb), yellow (#fbbf24) / red (#e63946) /
+ * green (#16a34a) / blue (#1d4ed8) accents. No rounded corners, no
+ * shadows, no gradients. Space Mono for monospace data, Space Grotesk
+ * body. Matches thedonormap.org brand — NOT the ops dark theme.
+ */
+
+.ask-panel {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 16px 40px;
+  color: #0a0a0a;
+  font-family: "Space Grotesk", system-ui, sans-serif;
+}
+
+.ask-header {
+  margin-bottom: 20px;
+}
+
+.ask-h1 {
+  font-size: 48px;
+  font-weight: 900;
+  letter-spacing: -1px;
+  margin: 0 0 8px 0;
+  color: #0a0a0a;
+}
+
+.ask-hint {
+  color: #555;
+  font-size: 14px;
+  line-height: 1.5;
+  margin: 0;
+}
+
+/* "How to use this" collapsible */
+.ask-howto {
+  margin: 20px 0;
+  padding: 10px 16px;
+  background: #fffaf2;
+  border: 1px solid #0a0a0a;
+}
+
+.ask-howto-summary {
+  cursor: pointer;
+  font-size: 13px;
+  color: #0a0a0a;
+  font-weight: 700;
+  letter-spacing: 0.3px;
+  user-select: none;
+  padding: 6px 0;
+  list-style: none;
+}
+
+.ask-howto-summary::-webkit-details-marker { display: none; }
+.ask-howto-summary::before { content: "▸ "; display: inline-block; transition: none; }
+.ask-howto[open] .ask-howto-summary::before { content: "▾ "; }
+
+.ask-howto-body {
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 1px solid #ddd;
+  font-size: 14px;
+  color: #333;
+  line-height: 1.65;
+}
+
+.ask-howto-section { margin-bottom: 18px; }
+.ask-howto-section p { margin: 6px 0 0 0; }
+
+.ask-howto-heading {
+  font-size: 11px;
+  font-weight: 800;
+  color: #e63946;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 8px;
+}
+
+.ask-howto-list {
+  margin: 8px 0 0 20px;
+  padding: 0;
+}
+.ask-howto-list li { margin-bottom: 4px; }
+
+/* Input row */
+.ask-input-row {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 14px;
+  flex-wrap: wrap;
+}
+
+.ask-input {
+  flex: 1;
+  min-width: 200px;
+  padding: 14px 16px;
+  font-size: 16px;
+  font-family: inherit;
+  background: #fff;
+  color: #0a0a0a;
+  border: 1px solid #0a0a0a;
+  outline: none;
+}
+
+.ask-input:focus {
+  border-color: #fbbf24;
+  box-shadow: inset 0 0 0 1px #fbbf24;
+}
+
+.ask-submit-btn {
+  padding: 14px 28px;
+  font-size: 15px;
+  font-weight: 900;
+  letter-spacing: 0.5px;
+  background: #fbbf24;
+  color: #0a0a0a;
+  border: 1px solid #0a0a0a;
+  cursor: pointer;
+  font-family: inherit;
+  text-transform: uppercase;
+}
+
+.ask-submit-btn:hover { background: #e63946; color: #fff; }
+
+.ask-share-btn {
+  padding: 14px 18px;
+  font-size: 13px;
+  font-weight: 700;
+  background: #fff;
+  color: #0a0a0a;
+  border: 1px solid #0a0a0a;
+  cursor: pointer;
+  font-family: inherit;
+}
+.ask-share-btn:hover { background: #0a0a0a; color: #fff; }
+
+/* Examples row */
+.ask-examples {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  align-items: center;
+  margin-bottom: 28px;
+}
+
+.ask-examples-label {
+  color: #666;
+  font-size: 12px;
+  margin-right: 4px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.ask-example-btn {
+  font-size: 12px;
+  padding: 6px 10px;
+  background: #fffaf2;
+  color: #0a0a0a;
+  border: 1px solid #999;
+  cursor: pointer;
+  font-family: inherit;
+}
+.ask-example-btn:hover { border-color: #0a0a0a; background: #fff; }
+
+.ask-loading {
+  padding: 20px;
+  text-align: center;
+  color: #666;
+  font-style: italic;
+}
+
+/* Result card */
+.ask-card {
+  background: #fff;
+  border: 1px solid #0a0a0a;
+  padding: 20px 22px;
+  margin-top: 8px;
+}
+
+.ask-card-label {
+  font-size: 11px;
+  font-weight: 800;
+  color: #e63946;
+  letter-spacing: 2px;
+  margin-bottom: 12px;
+}
+
+/* TL;DR — blue left border, the most prominent block */
+.ask-tldr {
+  padding: 14px 18px;
+  background: #eef4ff;
+  border-left: 4px solid #1d4ed8;
+  margin-bottom: 18px;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #0a0a0a;
+}
+
+.ask-answer {
+  font-size: 18px;
+  color: #0a0a0a;
+  line-height: 1.45;
+  margin-bottom: 10px;
+}
+
+.ask-bullets {
+  margin: 6px 0 14px 22px;
+  padding: 0;
+  color: #222;
+}
+.ask-bullets li {
+  font-size: 14px;
+  line-height: 1.6;
+  margin-bottom: 4px;
+  font-family: "Space Mono", monospace;
+}
+
+.ask-section-label {
+  font-size: 11px;
+  font-weight: 800;
+  color: #999;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 8px;
+}
+
+/* Visual flow (ASCII) */
+.ask-visual-flow-wrap {
+  margin-top: 14px;
+  padding: 14px 16px;
+  background: #fffaf2;
+  border: 1px solid #999;
+}
+.ask-visual-flow {
+  font-size: 13px;
+  color: #0a0a0a;
+  line-height: 1.6;
+  margin: 0;
+  font-family: "Space Mono", monospace;
+  white-space: pre-wrap;
+  overflow-x: auto;
+}
+
+/* Is this legal? — green border */
+.ask-legality {
+  margin-top: 14px;
+  padding: 14px 18px;
+  background: #f0fdf4;
+  border: 1px solid #16a34a;
+}
+.ask-legality-label { color: #16a34a; }
+
+/* Why should I care? — indigo border */
+.ask-why-care {
+  margin-top: 14px;
+  padding: 14px 18px;
+  background: #eef2ff;
+  border: 1px solid #6366f1;
+}
+.ask-why-care-label { color: #4f46e5; }
+
+/* Interpretation — yellow border */
+.ask-interpretation {
+  margin-top: 14px;
+  padding: 14px 18px;
+  background: #fefce8;
+  border: 1px solid #fbbf24;
+}
+.ask-interpretation-label { color: #a16207; }
+
+/* Caveats — red border */
+.ask-caveats {
+  margin-top: 14px;
+  padding: 14px 18px;
+  background: #fef2f2;
+  border: 1px solid #e63946;
+}
+.ask-caveats-label { color: #e63946; }
+.ask-caveats > div + div { margin-top: 6px; }
+
+/* Who is [lead] */
+.ask-who-is-lead {
+  margin-top: 14px;
+  padding: 14px 18px;
+  background: #fffaf2;
+  border: 1px solid #fbbf24;
+}
+.ask-who-is-lead-label {
+  font-size: 14px;
+  font-weight: 800;
+  color: #a16207;
+  letter-spacing: 0.5px;
+  margin-bottom: 6px;
+}
+
+/* Context (Who these are) */
+.ask-context {
+  margin-top: 18px;
+  padding: 14px 18px;
+  background: #fffaf2;
+  border: 1px solid #999;
+}
+.ask-context-item { margin-bottom: 12px; }
+.ask-context-item:last-child { margin-bottom: 0; }
+.ask-context-name {
+  font-size: 15px;
+  font-weight: 800;
+  color: #0a0a0a;
+  margin-bottom: 3px;
+}
+.ask-context-link {
+  color: #0a0a0a;
+  text-decoration: underline;
+  text-decoration-color: #fbbf24;
+  text-decoration-thickness: 2px;
+}
+.ask-context-link:hover { color: #e63946; text-decoration-color: #e63946; }
+.ask-context-gloss {
+  font-size: 13px;
+  color: #333;
+  margin-bottom: 3px;
+  line-height: 1.55;
+}
+.ask-context-blurb {
+  font-size: 12px;
+  color: #555;
+  line-height: 1.5;
+  font-style: italic;
+  padding-left: 8px;
+  border-left: 2px solid #ddd;
+}
+
+/* Follow-ups */
+.ask-followups {
+  margin-top: 18px;
+}
+.ask-followup-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 6px;
+}
+.ask-followup-chip {
+  font-size: 12px;
+  padding: 8px 12px;
+  background: #1d4ed8;
+  color: #fff;
+  border: 1px solid #0a0a0a;
+  cursor: pointer;
+  font-family: inherit;
+  font-weight: 600;
+}
+.ask-followup-chip:hover { background: #e63946; }
+
+/* Citation */
+.ask-citation {
+  margin-top: 18px;
+  padding: 12px 16px;
+  background: #fffaf2;
+  border: 1px solid #999;
+  position: relative;
+}
+.ask-citation-text {
+  font-size: 13px;
+  color: #333;
+  line-height: 1.55;
+  font-family: "Space Mono", monospace;
+  white-space: pre-wrap;
+  padding-right: 80px;
+}
+.ask-citation-copy {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 11px;
+  padding: 6px 12px;
+  background: #fbbf24;
+  color: #0a0a0a;
+  border: 1px solid #0a0a0a;
+  cursor: pointer;
+  font-weight: 800;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}
+
+/* Compare table — 3-col grid (metric | left | right) */
+.ask-compare {
+  margin-top: 18px;
+  border: 1px solid #0a0a0a;
+  background: #fff;
+}
+.ask-compare-head-row {
+  display: grid;
+  grid-template-columns: 200px 1fr 1fr;
+  border-bottom: 2px solid #fbbf24;
+}
+.ask-compare-metric-cell {
+  padding: 12px 14px;
+  background: #fffaf2;
+  border-right: 1px solid #ddd;
+}
+.ask-compare-entity-cell {
+  padding: 12px 14px;
+  font-size: 16px;
+  font-weight: 800;
+  color: #0a0a0a;
+  border-left: 1px solid #ddd;
+  background: #fffaf2;
+}
+.ask-compare-row {
+  display: grid;
+  grid-template-columns: 200px 1fr 1fr;
+}
+.ask-compare-row-even { background: #fffaf2; }
+.ask-compare-row-odd { background: #fff; }
+.ask-compare-metric-label {
+  padding: 12px 14px;
+  font-size: 11px;
+  color: #666;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  border-right: 1px solid #ddd;
+}
+.ask-compare-value-cell {
+  padding: 12px 14px;
+  font-size: 14px;
+  color: #0a0a0a;
+  border-left: 1px solid #ddd;
+}
+
+/* Evidence */
+.ask-evidence {
+  margin-top: 20px;
+  padding: 8px 14px;
+  background: #fffaf2;
+  border: 1px solid #999;
+}
+.ask-evidence-summary {
+  cursor: pointer;
+  font-size: 11px;
+  color: #666;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  font-weight: 700;
+  padding: 4px 0;
+  user-select: none;
+  list-style: none;
+}
+.ask-evidence-summary::-webkit-details-marker { display: none; }
+.ask-evidence-summary::before { content: "▸ "; }
+.ask-evidence[open] .ask-evidence-summary::before { content: "▾ "; }
+
+.ask-evidence-csv {
+  margin-left: 12px;
+  padding: 4px 12px;
+  font-size: 11px;
+  font-weight: 700;
+  background: #1d4ed8;
+  color: #fff;
+  border: 1px solid #0a0a0a;
+  cursor: pointer;
+  letter-spacing: 0.5px;
+  font-family: inherit;
+}
+.ask-evidence-csv:hover { background: #0a0a0a; }
+
+.ask-evidence-table-wrap {
+  margin-top: 10px;
+  overflow-x: auto;
+}
+.ask-evidence-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 12px;
+  font-family: "Space Mono", monospace;
+}
+.ask-evidence-table th {
+  text-align: left;
+  padding: 8px 10px;
+  background: #fffaf2;
+  color: #666;
+  font-weight: 700;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border-bottom: 1px solid #0a0a0a;
+}
+.ask-evidence-table td {
+  padding: 6px 10px;
+  border-bottom: 1px solid #ddd;
+  color: #222;
+}
+.ask-td-right {
+  text-align: right;
+  font-weight: 700;
+}
+.ask-tr-alt td { background: #fffaf2; }
+
+.ask-evidence-more {
+  padding: 10px;
+  color: #666;
+  font-size: 11px;
+  text-align: center;
+  font-style: italic;
+}
+
+/* Empty-result rescue */
+.ask-empty-rescue {
+  margin-top: 14px;
+  padding: 16px 18px;
+  background: #fffaf2;
+  border: 1px solid #999;
+}
+.ask-empty-rescue-heading {
+  font-size: 16px;
+  color: #e63946;
+  font-weight: 800;
+  margin-bottom: 10px;
+}
+.ask-empty-rescue ul { margin: 8px 0 12px 20px; padding: 0; }
+.ask-empty-rescue-try {
+  margin-top: 12px;
+  padding-top: 10px;
+  border-top: 1px solid #ddd;
+}
+.ask-empty-rescue-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 6px;
+}
+
+/* Error card */
+.ask-error {
+  border-color: #e63946;
+}
+.ask-error-heading {
+  font-size: 15px;
+  color: #e63946;
+  font-weight: 800;
+  margin-bottom: 10px;
+}
+.ask-error-body {
+  font-size: 13px;
+  color: #333;
+  line-height: 1.6;
+}
+.ask-error-body pre {
+  background: #f0f0f0;
+  padding: 8px 10px;
+  font-family: "Space Mono", monospace;
+  margin: 8px 0;
+  border: 1px solid #ddd;
+  font-size: 12px;
+}
+.ask-error-body code {
+  background: #f0f0f0;
+  padding: 1px 4px;
+  font-family: "Space Mono", monospace;
+  font-size: 12px;
+}
+
+/* Glossary tooltips — hover to see definition */
+.ask-gloss {
+  border-bottom: 1px dotted #666;
+  cursor: help;
+  position: relative;
+}
+.ask-gloss::after {
+  content: attr(data-def);
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-bottom: 6px;
+  background: #0a0a0a;
+  color: #fff;
+  padding: 8px 10px;
+  font-size: 12px;
+  font-family: "Space Grotesk", system-ui, sans-serif;
+  line-height: 1.5;
+  min-width: 220px;
+  max-width: 320px;
+  white-space: normal;
+  border: 1px solid #fbbf24;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.15s;
+  z-index: 100;
+  text-align: left;
+  font-style: normal;
+  font-weight: 400;
+}
+.ask-gloss:hover::after {
+  opacity: 1;
+}
+
+/* Mobile */
+@media (max-width: 700px) {
+  .ask-h1 { font-size: 32px; }
+  .ask-input-row { flex-direction: column; }
+  .ask-submit-btn, .ask-share-btn { width: 100%; }
+  .ask-compare-head-row, .ask-compare-row {
+    grid-template-columns: 120px 1fr 1fr;
+  }
+  .ask-compare-metric-label, .ask-compare-value-cell {
+    font-size: 12px;
+    padding: 8px 10px;
+  }
+}

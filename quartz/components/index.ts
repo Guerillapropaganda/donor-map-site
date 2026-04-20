@@ -52,6 +52,7 @@ import AdminBar from "./AdminBar"
 import AnnotationOverlay from "./AnnotationOverlay"
 import CapitolTrades from "./CapitolTrades"
 import TipForm from "./TipForm"
+import AskPanel from "./AskPanel"
 
 export {
   ArticleTitle,
@@ -108,4 +109,5 @@ export {
   AnnotationOverlay,
   CapitolTrades,
   TipForm,
+  AskPanel,
 }
