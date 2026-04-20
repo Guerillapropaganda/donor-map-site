@@ -46,20 +46,29 @@ interface AskResponse {
   summary?: string
   note?: string
   error?: string
+  // Plain-English overlay fields
+  plain_english?: string
+  visual_flow?: string
+  is_this_legal?: string
+  why_matters?: string
+  who_is_lead?: { name: string; oneLiner: string }
 }
 
-// Glossary: terms we automatically decorate with hover tooltips
+// Glossary: terms we automatically decorate with hover tooltips.
+// Definitions intentionally plain-English. Goal: someone who's never
+// heard the term should understand it in one breath. Technical precision
+// matters less than comprehension for a first-time reader.
 const GLOSSARY: Record<string, string> = {
   "501(c)(4)":
-    "A tax-exempt 'social welfare' nonprofit. Can accept unlimited donations. Is NOT required to publicly disclose donors. The main vehicle for 'dark money' in US politics.",
+    "A type of nonprofit that's allowed to spend money on politics AND keep its donors secret. Legally called a 'social welfare' org. The main vehicle for 'dark money' in US politics.",
   "501(c)(3)":
-    "A tax-exempt public charity. Donations are tax-deductible. Direct political advocacy is limited. Donor names are not public (with some exceptions via Schedule I grant disclosures).",
+    "A tax-deductible charity (think: your church, Red Cross, your kid's school). Allowed to do limited political work. Donor names are usually private.",
   "527":
-    "A tax-exempt political organization. Must publicly disclose donors. Includes super PACs, party committees, and most state political committees.",
+    "A political organization that MUST publicly disclose its donors. Includes super PACs and party committees.",
   DAF:
-    "Donor-Advised Fund. A legal pass-through: a donor gives money to the DAF, the DAF later disburses grants at the donor's recommendation. The ultimate donor is legally shielded from public disclosure.",
+    "Donor-Advised Fund. Think of it like an anonymous checking account for charity: a rich person deposits money, later tells the fund who to pay. The public record only shows the DAF as the giver — the original donor stays hidden.",
   "donor-advised fund":
-    "A legal pass-through: a donor gives money to the DAF, the DAF later disburses grants at the donor's recommendation. The ultimate donor is legally shielded from public disclosure.",
+    "Think of it like an anonymous checking account for charity: a rich person deposits money, later tells the fund who to pay. The public record only shows the DAF as the giver — the original donor stays hidden.",
   "Super PAC":
     "An independent-expenditure political committee. Can accept and spend unlimited money for or against federal candidates but cannot coordinate with a campaign. Must disclose donors to the FEC.",
   "super pac":
@@ -284,6 +293,13 @@ function ResultCard({ r, onFollowUp }: { r: AskResponse; onFollowUp: (q: string)
       <div style={styles.cardHead}>
         <div style={styles.cardLabel}>{label.toUpperCase()}</div>
 
+        {/* Plain-English TL;DR leads the card — normie translation before jargon */}
+        {r.plain_english && (
+          <div style={styles.tldrWrap}>
+            <div style={styles.tldrText}>{renderRichText(r.plain_english)}</div>
+          </div>
+        )}
+
         {r.answer && <div style={styles.answer}>{renderRichText(r.answer)}</div>}
 
         {r.bullets && r.bullets.length > 0 && (
@@ -292,6 +308,30 @@ function ResultCard({ r, onFollowUp }: { r: AskResponse; onFollowUp: (q: string)
               <li key={i} style={styles.bulletItem}>{renderRichText(b)}</li>
             ))}
           </ul>
+        )}
+
+        {/* Visual flow diagram — ASCII arrows with source-laundering annotation */}
+        {r.visual_flow && (
+          <div style={styles.visualFlowWrap}>
+            <div style={styles.visualFlowLabel}>The trail, visualized</div>
+            <pre style={styles.visualFlow}>{r.visual_flow}</pre>
+          </div>
+        )}
+
+        {/* Is this illegal? — preempts the first question every reader asks */}
+        {r.is_this_legal && (
+          <div style={styles.legalityWrap}>
+            <div style={styles.legalityLabel}>Is this illegal?</div>
+            <div style={styles.legality}>{renderRichText(r.is_this_legal)}</div>
+          </div>
+        )}
+
+        {/* Why should I care? — stakes, not schema */}
+        {r.why_matters && (
+          <div style={styles.whyCareWrap}>
+            <div style={styles.whyCareLabel}>Why should I care?</div>
+            <div style={styles.whyCare}>{renderRichText(r.why_matters)}</div>
+          </div>
         )}
 
         {r.interpretation && (
@@ -307,6 +347,15 @@ function ResultCard({ r, onFollowUp }: { r: AskResponse; onFollowUp: (q: string)
             {r.caveats.map((c, i) => (
               <div key={i} style={styles.caveatItem}>{renderWithGlossary(c)}</div>
             ))}
+          </div>
+        )}
+
+        {/* Promoted "Who is X?" for well-known dark-money operators so readers
+            don't have to infer the operator from context. */}
+        {r.who_is_lead && (
+          <div style={styles.whoIsLeadWrap}>
+            <div style={styles.whoIsLeadLabel}>Who is {r.who_is_lead.name}?</div>
+            <div style={styles.whoIsLead}>{renderWithGlossary(r.who_is_lead.oneLiner)}</div>
           </div>
         )}
 
@@ -479,6 +528,33 @@ const styles: Record<string, React.CSSProperties> = {
   interpretationWrap: { marginTop: 14, padding: "12px 14px", background: "#1a1408", border: "1px solid #fbbf24" },
   interpretationLabel: { fontSize: 10, fontWeight: 700, color: "#fbbf24", letterSpacing: 2, textTransform: "uppercase", marginBottom: 6 },
   interpretation: { fontSize: 14, color: "#eee", lineHeight: 1.55 },
+
+  // Plain-English TL;DR — visually leads the card. Left border + slightly
+  // larger type so it's the first thing the eye lands on.
+  tldrWrap: { marginBottom: 14, padding: "14px 16px", background: "#0c1220", borderLeft: "3px solid #60a5fa" },
+  tldrText: { fontSize: 16, color: "#eaf2ff", lineHeight: 1.55 },
+
+  // Visual ASCII flow — monospace, dark background, let the arrows breathe.
+  visualFlowWrap: { marginTop: 12, padding: "12px 14px", background: "#0a0a0a", border: "1px solid #2a2a2a" },
+  visualFlowLabel: { fontSize: 10, fontWeight: 700, color: "#888", letterSpacing: 2, textTransform: "uppercase", marginBottom: 8 },
+  visualFlow: { fontSize: 12, color: "#fbbf24", lineHeight: 1.5, margin: 0, fontFamily: "ui-monospace, monospace", whiteSpace: "pre-wrap" as const, overflowX: "auto" as const },
+
+  // "Is this illegal?" — green/neutral border to reassure reader this is
+  // legally-scandalous-but-legal, not a crime allegation.
+  legalityWrap: { marginTop: 12, padding: "12px 14px", background: "#0f1a10", border: "1px solid #16a34a" },
+  legalityLabel: { fontSize: 10, fontWeight: 700, color: "#4ade80", letterSpacing: 2, textTransform: "uppercase", marginBottom: 6 },
+  legality: { fontSize: 14, color: "#eee", lineHeight: 1.55 },
+
+  // "Why should I care?" — soft neutral callout; stakes, not alarm.
+  whyCareWrap: { marginTop: 12, padding: "12px 14px", background: "#11121a", border: "1px solid #6366f1" },
+  whyCareLabel: { fontSize: 10, fontWeight: 700, color: "#a5b4fc", letterSpacing: 2, textTransform: "uppercase", marginBottom: 6 },
+  whyCare: { fontSize: 14, color: "#eee", lineHeight: 1.55 },
+
+  // Promoted "Who is X?" — framed like the rest of "Who these are" but
+  // more prominent type.
+  whoIsLeadWrap: { marginTop: 14, padding: "12px 14px", background: "#0f0f0f", border: "1px solid #fbbf24" },
+  whoIsLeadLabel: { fontSize: 12, fontWeight: 700, color: "#fbbf24", letterSpacing: 1, marginBottom: 6 },
+  whoIsLead: { fontSize: 14, color: "#eaeaea", lineHeight: 1.55 },
 
   caveatsWrap: { marginTop: 12, padding: "10px 14px", background: "#1a0c0c", border: "1px solid #e63946" },
   caveatsLabel: { fontSize: 10, fontWeight: 700, color: "#e63946", letterSpacing: 2, textTransform: "uppercase", marginBottom: 6 },

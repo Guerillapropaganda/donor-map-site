@@ -64,6 +64,14 @@ interface AskResult {
   label?: string                  // human-friendly intent label (overrides default)
   summary?: string                // one-line meta
   note?: string
+  // Plain-English overlay fields for normies (money_chain intent). These
+  // lead the card with story before the schema. See renderer in
+  // ops/src/app/ask/page.tsx for UX layout.
+  plain_english?: string          // one-sentence TL;DR translation of the money trail
+  visual_flow?: string            // pre-formatted ASCII flow diagram
+  is_this_legal?: string          // answers the "is this illegal?" question readers instinctively ask
+  why_matters?: string            // stakes paragraph — why this trail matters democratically
+  who_is_lead?: { name: string; oneLiner: string }  // promoted "who is X" for well-known operators
 }
 
 const REPO_ROOT = path.resolve(process.cwd(), "..")
@@ -619,11 +627,16 @@ function explainEntity(name: string): EntityContext {
     structural = " Super PAC / independent-expenditure committee — accepts unlimited donations, discloses donors to FEC."
   }
 
-  const tagStr = classTags.length > 0 ? ` Class tags: ${classTags.join(", ")}.` : ""
+  // Class tags are internal categorization (dark-money-networked,
+  // judicial-capture, etc.). They're useful signal but readable to
+  // analysts only. Hide from the public-facing gloss — the structural
+  // sentence above already conveys "this is a dark-money vehicle" in
+  // prose. Keep tags available on the entity object for programmatic
+  // consumers.
   const sectorForGloss = ns
     ? ns // prefer nonprofit-status in the gloss header when we have it
     : sector
-  const gloss = `${kind}${sectorForGloss ? " (" + sectorForGloss + ")" : ""}${ein ? ", EIN " + ein : ""}.${structural}${tagStr}`.trim()
+  const gloss = `${kind}${sectorForGloss ? " (" + sectorForGloss + ")" : ""}${ein ? ", EIN " + ein : ""}.${structural}`.trim()
   const blurb = loadBlurb(ent.profile_path)
   return { name, gloss, blurb: blurb || undefined }
 }
@@ -1406,6 +1419,80 @@ async function handleMoneyChain(c: ClassifiedQuestion, question: string): Promis
     citation = `According to IRS 990 filings, ${steps.join("; ")}. Source: ${sources}.`
   }
 
+  // ─── Plain-English layer for normies ─────────────────────────────
+  // The money-trail page historically led with jargon: "3 hops",
+  // "bottleneck", "501(c)(4)", "DAF", "Schedule I". Readers who aren't
+  // already fluent in dark-money mechanics bounced. Compute a set of
+  // plain-English overlays so the page leads with story, not schema.
+  const hasDAF = paths.length > 0 && context.some((c) => c.gloss.includes("donor-advised fund") || c.gloss.includes("DAF"))
+  const hasDarkMoney = paths.length > 0 && context.some((c) => c.gloss.includes("dark-money") || c.gloss.includes("dark money") || c.gloss.includes("social-welfare org"))
+
+  let plain_english: string | undefined
+  let visual_flow: string | undefined
+  let is_this_legal: string | undefined
+  let why_matters: string | undefined
+  let who_is_lead: { name: string; oneLiner: string } | undefined
+
+  if (paths.length > 0) {
+    const top = paths[0]
+    const start = top.path[0]
+    const end = top.path[top.path.length - 1]
+    const firstAmt = top.edges[0]?.amount
+    const midNode = top.path.length >= 3 ? top.path[1] : null
+    const midIsDAF = midNode
+      ? context.find((c) => c.name === midNode)?.gloss?.includes("donor-advised fund") || context.find((c) => c.name === midNode)?.gloss?.includes("DAF")
+      : false
+
+    // TL;DR: one-sentence translation
+    if (midIsDAF) {
+      plain_english = `**In plain English:** ${start} moved ${fmtUsd(firstAmt)} to ${end}, but routed it through ${midNode} first. ${midNode} is a donor-advised fund, which by law lets the original sender's identity disappear from the paper trail. So when the money arrives at ${end}, the public record shows it came from ${midNode} — not from ${start}.`
+    } else if (hasDarkMoney && top.path.length >= 3) {
+      plain_english = `**In plain English:** ${start} sent ${fmtUsd(firstAmt)} toward ${end} through ${top.path.length - 2} intermediary organization${top.path.length - 2 === 1 ? "" : "s"}. These intermediaries are 501(c)(4) "dark money" nonprofits, which don't have to publicly disclose where their money originally came from — so chasing the trail from ${start} to ${end} hits a legal wall at the middle step.`
+    } else if (top.path.length >= 3) {
+      plain_english = `**In plain English:** ${fmtUsd(firstAmt)} flowed from ${start} through ${top.path.length - 2} intermediary organization${top.path.length - 2 === 1 ? "" : "s"} before reaching ${end}. Follow the arrows below to trace the steps.`
+    } else {
+      plain_english = `**In plain English:** ${start} sent ${fmtUsd(firstAmt)} directly to ${end}.`
+    }
+
+    // Visual flow diagram (ASCII)
+    if (top.path.length >= 2) {
+      const lines: string[] = []
+      const step = top.path.map((n, i) => {
+        if (i === 0) return n
+        return `── ${fmtUsd(top.edges[i - 1].amount)} ──▶ ${n}`
+      }).join(" ")
+      lines.push(step)
+      if (midIsDAF && midNode) {
+        const arrowCol = step.indexOf(midNode)
+        if (arrowCol > 0) {
+          lines.push(" ".repeat(arrowCol + Math.floor(midNode.length / 2)) + "↑")
+          lines.push(" ".repeat(Math.max(0, arrowCol - 10)) + "source gets legally erased here")
+        }
+      }
+      visual_flow = lines.join("\n")
+    }
+
+    // Is this legal?
+    if (midIsDAF || hasDarkMoney) {
+      is_this_legal = `**No, and that's the scandal.** Donor-advised funds and 501(c)(4) "social welfare" nonprofits are *designed* to break the paper trail between the original donor and the final recipient. Billionaires use this pattern routinely and it's perfectly legal. The trail breaks by design, not by crime.`
+    }
+
+    // Why should I care?
+    if (midIsDAF || hasDarkMoney) {
+      why_matters = `When ultra-wealthy donors can hide where political money originated, voters can't evaluate whose interests are being served. ${end} deploys these funds toward political goals — ad buys, judicial confirmation campaigns, advocacy — without the public knowing who actually wrote the first check. That's the core democratic problem with the structure revealed here.`
+    }
+
+    // "Who is X?" — prepend a friendly intro for the lead entity if
+    // it's a well-known dark-money operator.
+    const leadContext = context.find((c) => c.name === start)
+    if (leadContext && (leadContext.gloss?.includes("dark-money") || leadContext.gloss?.includes("dark money") || leadContext.blurb?.toLowerCase().includes("leonard leo") || leadContext.blurb?.toLowerCase().includes("dark money"))) {
+      who_is_lead = {
+        name: start,
+        oneLiner: leadContext.blurb || leadContext.gloss || "",
+      }
+    }
+  }
+
   const result: AskResult = {
     question,
     intent: "money_chain",
@@ -1417,9 +1504,14 @@ async function handleMoneyChain(c: ClassifiedQuestion, question: string): Promis
     answer,
     bullets,
     context,
-    caveats: paths.length > 0 && context.some((c) => c.gloss.includes("donor-advised fund"))
+    caveats: hasDAF
       ? ["A donor-advised fund (DAF) sits in the middle of this chain. DAFs let the ultimate donor stay anonymous — the public record shows the DAF as the giver, not the person who originally wrote the check."]
       : [],
+    plain_english,
+    visual_flow,
+    is_this_legal,
+    why_matters,
+    who_is_lead,
     summary: paths.length === 0 ? `0 paths within ${maxDepth} hops` : `${paths.length} path(s) examined (${examined} nodes visited).`,
   }
   result.interpretation = interpret(result)
