@@ -53,6 +53,9 @@ Hoover's founding mission, articulated in a 1959 statement to the Stanford Board
 
 **Legal status:** Division of Stanford University, not a separate 501(c)(3). Hoover does not file its own Form 990 and its finances are consolidated within Stanford's tax filings. This structure provides Hoover with Stanford's brand credibility and tax-exempt status while maintaining operational independence that most university departments do not enjoy.
 
+> [!caveat] Data note — shared EIN
+> Our IRS 990 data for Hoover comes from Stanford's consolidated filing (EIN **94-1156365**). Any grant totals, expense figures, or donor lists attributed to Hoover in our auto-generated panels reflect **Stanford University as a whole**, not Hoover-specific operations. Hoover's own budget is ~$47M (2014); Stanford's consolidated grant activity is ~$1.2B+ per year. Read any Hoover-targeted figures accordingly.
+
 **Director:** Condoleezza Rice (since September 2020), formally titled "Tad and Dianne Taube Director", the directorship itself is named after its largest donor family. Rice previously served as U.S. Secretary of State (2005–2009) and National Security Advisor (2001–2005) under George W. Bush. Her appointment represents the ultimate revolving door credential: a former Secretary of State who shapes the same foreign policy apparatus she once ran.
 
 **Deputy Director:** Eric Wakin (also Director of Library & Archives).

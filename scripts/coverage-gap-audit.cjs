@@ -137,11 +137,41 @@ function candidateMasterKeys(name) {
 
       const hasCandidateId = !!signals.fec_candidate_id;
       const hasCommitteeId = !!(signals.fec_committee_id || (signals.fec_committee_ids && signals.fec_committee_ids.length));
+      // Summary receipts (from weball all-candidates ingest) are a
+      // first-class coverage signal — they give a real total raised
+      // number even when itemized donor data is thin by design (small-
+      // dollar campaigns like Bernie). Treat a politician with
+      // populated fec_receipts_lifetime as having legitimate coverage
+      // regardless of whether their stub edges exist.
+      const hasSummaryReceipts = typeof signals.fec_receipts_lifetime === 'number' && signals.fec_receipts_lifetime > 0;
+
+      // Pool committee-stub edges up to the politician. My historical-
+      // coverage backfill created donor-type committee stubs with
+      // signals.controlled_by pointing back to politician names; the
+      // aggregators correctly emit edges to those stubs rather than the
+      // politician entity. The audit walks that link to count stub
+      // inbound edges as the politician's coverage.
+      const stubsControlledByPolitician = ents.filter((x) =>
+        Array.isArray(x.signals?.controlled_by) &&
+        x.signals.controlled_by.includes(ent.name) &&
+        x.entity_type !== 'politician'
+      );
+      let pooledInEdgeCount = inEdges.length;
+      let pooledInTotal = inTotal;
+      const pooledCycles = new Set(cycles);
+      for (const stub of stubsControlledByPolitician) {
+        const stubIn = inEdgesByName.get(stub.name) || [];
+        pooledInEdgeCount += stubIn.length;
+        for (const e of stubIn) {
+          pooledInTotal += e.amount || 0;
+          if (e.cycle) pooledCycles.add(String(e.cycle));
+        }
+      }
 
       if (!hasCandidateId && !hasCommitteeId && !isJudicial) {
         flags.push('no-fec-identifier');
         tier = 'EMPTY';
-      } else if (hasCandidateId && !hasCommitteeId) {
+      } else if (hasCandidateId && !hasCommitteeId && !hasSummaryReceipts) {
         flags.push('candidate-id-but-no-committee-id');
         if (tier === 'OK') tier = 'THIN';
       }
@@ -151,7 +181,10 @@ function candidateMasterKeys(name) {
       let matchedRecords = [];
       for (const k of keys) if (candByName.has(k)) matchedRecords = matchedRecords.concat(candByName.get(k));
       if (matchedRecords.length > 0 && !isJudicial) {
-        const knownIds = new Set([signals.fec_candidate_id].filter(Boolean));
+        const knownIds = new Set([
+          signals.fec_candidate_id,
+          ...(signals.fec_candidate_ids || []),
+        ].filter(Boolean));
         const missing = matchedRecords.filter((m) => !knownIds.has(m.id));
         if (missing.length > 0) {
           flags.push(`missing-${missing.length}-candidate-cycles`);
@@ -159,20 +192,33 @@ function candidateMasterKeys(name) {
         }
       }
 
-      if (inEdges.length === 0 && !isJudicial) {
-        flags.push('zero-inbound-edges');
+      // Empty / thin detection now uses pooled (stub-inclusive) counts,
+      // AND accepts fec_receipts_lifetime as evidence even when edge
+      // coverage is sparse.
+      if (pooledInEdgeCount === 0 && !isJudicial && !hasSummaryReceipts) {
+        flags.push('zero-inbound-edges-and-no-summary');
         tier = 'EMPTY';
-      } else if (inEdges.length < 5 && !isJudicial) {
-        flags.push(`thin-inbound-edges-${inEdges.length}`);
+      } else if (pooledInEdgeCount < 5 && !isJudicial && !hasSummaryReceipts) {
+        flags.push(`thin-inbound-edges-${pooledInEdgeCount}-and-no-summary`);
         if (tier === 'OK') tier = 'THIN';
       }
 
-      if (cycles.size === 1 && !isJudicial) {
-        flags.push(`single-cycle-coverage-${[...cycles][0]}`);
+      if (pooledCycles.size === 1 && !isJudicial && !hasSummaryReceipts) {
+        flags.push(`single-cycle-coverage-${[...pooledCycles][0]}`);
         if (tier === 'OK') tier = 'THIN';
       }
 
       if (isJudicial) flags.push('judicial-no-campaign-expected');
+
+      // Surface the pooled stub coverage as a positive signal so future
+      // audits can tell pooling was applied. Also a diagnostic aid.
+      if (stubsControlledByPolitician.length > 0) {
+        flags.push(`pooled-${stubsControlledByPolitician.length}-committee-stubs`);
+      }
+      if (hasSummaryReceipts) {
+        const lifeM = (signals.fec_receipts_lifetime / 1e6).toFixed(0);
+        flags.push(`summary-receipts-$${lifeM}M-lifetime`);
+      }
     } else if (ent.entity_type === 'donor' || ent.entity_type === 'nonprofit') {
       const sector = String(signals.sector || '').toLowerCase();
       const isDarkMoney = sector.includes('dark money') || (ent.ideological_function || []).some((f) => f.includes('dark-money'));

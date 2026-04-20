@@ -293,9 +293,25 @@ function vehiclesFor(personName: string): string[] {
   const out = new Set<string>()
   // Hand map first — authoritative for cases the heuristic misses
   for (const v of MANUAL_VEHICLE_MAP[personName] || []) out.add(v)
-  // Heuristic match (vehicles whose name contains the person's full name)
+
+  const ents = loadEntities()
+
+  // Discover controlled vehicles via signals.controlled_by. The
+  // politician-historical-coverage-backfill writes the politician's
+  // name into signals.controlled_by on every campaign committee stub
+  // it creates, so this picks up ALL of a politician's historical
+  // campaign committees automatically (Bernie's House + Senate + 2020
+  // Presidential, Rubio's Senate + 2016 Presidential, etc.).
+  for (const e of ents) {
+    if (e.name === personName) continue
+    const cb = e.signals?.controlled_by
+    if (Array.isArray(cb) && cb.includes(personName)) out.add(e.name)
+  }
+
+  // Heuristic name-contains match (Musk → America PAC — Elon Musk).
+  // Kept as a secondary path; signals-based walk above is more
+  // reliable once the backfill runs.
   if (personName.length > 6) {
-    const ents = loadEntities()
     const needle = personName.toLowerCase()
     const controllerTypes = new Set(["donor", "pac", "nonprofit", "corporation", "network"])
     for (const e of ents) {
@@ -729,7 +745,13 @@ function explainEntity(name: string): EntityContext {
   const sectorForGloss = ns
     ? ns // prefer nonprofit-status in the gloss header when we have it
     : sector
-  const gloss = `${kind}${sectorForGloss ? " (" + sectorForGloss + ")" : ""}${ein ? ", EIN " + ein : ""}.${structural}`.trim()
+  // Append a data caveat to the gloss when the entity shares its EIN
+  // with a larger parent (e.g. Hoover Institution uses Stanford's EIN
+  // 941156365, so any 990 figures we ingest reflect Stanford-as-a-whole
+  // rather than Hoover-only). Readers seeing e.g. "$1.24B inbound"
+  // deserve to know it's the parent's consolidated number.
+  const einCaveat = (ent.signals as any)?.ein_data_caveat as string | undefined
+  const gloss = `${kind}${sectorForGloss ? " (" + sectorForGloss + ")" : ""}${ein ? ", EIN " + ein : ""}.${structural}${einCaveat ? " ⚠ " + einCaveat : ""}`.trim()
   const blurb = loadBlurb(ent.profile_path)
   return { name, gloss, blurb: blurb || undefined, profile_path: ent.profile_path || undefined }
 }
@@ -1185,6 +1207,25 @@ async function handleSummary(c: ClassifiedQuestion, question: string, engine: an
   // Build narrative answer
   const typeSector = `${ent?.entity_type || "unknown entity"}${ent?.signals?.sector ? " in " + (ent.signals.sector as string) : ""}`
   const bullets: string[] = []
+
+  // Summary receipts (from the FEC weball all-candidates ingest) —
+  // essential for small-dollar campaigns where itemized donor edges
+  // are sparse by design. If a politician has fec_receipts_lifetime
+  // populated, lead with the headline number and cycle breakdown so
+  // Bernie's $550M across 20 cycles doesn't get hidden behind "0 direct
+  // donor edges."
+  if (ent?.entity_type === "politician" && typeof ent?.signals?.fec_receipts_lifetime === "number" && ent.signals.fec_receipts_lifetime > 0) {
+    const life = ent.signals.fec_receipts_lifetime as number
+    const byCycle = (ent.signals.fec_receipts_by_cycle as Record<string, number> | undefined) || {}
+    const cyclesAsc = Object.keys(byCycle).sort()
+    const recentCycles = cyclesAsc.slice(-4)
+    const recentStr = recentCycles.map((c) => `${c}: ${fmtUsd(byCycle[c])}`).join(" · ")
+    const indivStr = typeof ent.signals.fec_indiv_contrib_lifetime === "number"
+      ? ` (${fmtUsd(ent.signals.fec_indiv_contrib_lifetime)} from individuals)`
+      : ""
+    bullets.push(`FEC lifetime receipts: **${fmtUsd(life)}** across ${cyclesAsc.length} cycle${cyclesAsc.length === 1 ? "" : "s"}${indivStr}`)
+    if (recentCycles.length > 0) bullets.push(`Recent cycles — ${recentStr}`)
+  }
 
   if (boards.length > 0) {
     const boardStr = boards.map((b: any) => {
