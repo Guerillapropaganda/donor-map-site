@@ -3,7 +3,7 @@ title: Session State
 type: system
 last-updated: 2026-04-20
 ---
-<!-- last session: MEGA SESSION — reconciliation framework + backlog drain + Ask UI overhaul + public Quartz Ask page (ADR-0015) + vault-wide coverage-gap audit + politician historical-coverage backfill (2026-04-20, Code Claude). ~25 commits. Blocked at session end: FEC + IRS 990 bulk zips missing from C:/donor-map-data/bulk/, David re-downloading. -->
+<!-- last session: MEGA SESSION PART 2 — zip re-download → full FEC indiv re-ingest (94K rows, 53K POI committees) → IRS 990 re-scan for 7 think-tank EINs (59 filings, 1,889 grants) → all-candidates summary ingest (70K rows) → politician receipts sync (409 politicians) → committee-stub pooling (audit + Ask UI vehiclesFor) → Hoover/Stanford shared-EIN caveat → bulk-dir protection sentinel. Politicians 68 → 323 OK (+255). Think tanks 0 → 100%. Bernie now shows $550M/20 cycles. 4 additional commits on top of earlier session-save (3d0772089): 691bc7e58, 8b6b1f772, 3b91bda16, 460daf5af. (2026-04-20 late PM, Code Claude). -->
 <!-- prior session: QUERY ACCURACY MARATHON — silent-truncation bug hunt, FEC committee identity layer, 4-slice per-cycle reconciliation, canonical/derived file split (2026-04-19, Code Claude). -->
 <!-- prior prior session: Ops Ask UI marathon + IE classifier (2026-04-19 AM, Code Claude). 18 commits. -->
 <!-- prior prior prior session: FULL-DATABASE FEC INGEST + profile infrastructure (2026-04-18, Code Claude). -->
@@ -119,19 +119,80 @@ structured data is missing vault-wide.
 
 ### In progress
 
-- Sentinel to prevent silent bulk-zip deletion (drop `.keepzips` marker + have ingest scripts guard on it). Proposed, not started.
-- Donor EIN backfill via IRS EO BMF CSV. Proposed, not started.
+- (nothing currently in progress — clean stopping point)
 
-### Next session priorities
+### Next session priorities — DO AS MUCH AS POSSIBLE WITHOUT NEW DOWNLOADS
 
-1. **Confirm re-downloaded bulk zips** are in place at `C:/donor-map-data/bulk/Contributions by Individuals/` and `C:/donor-map-data/bulk/IRS 990/`.
-2. **Run FEC indiv re-ingest** (`node --max-old-space-size=8192 scripts/ingest-fec-indiv-aggregate.cjs --resume`). ~30-60 min. Expect Bernie, Rubio, Gabbard, Burgum, Hegseth, Romney, Collins, DeSantis, Haley et al. to light up with real donor data.
-3. **Run IRS 990 re-ingest** to pull Brookings, Manhattan Institute, Claremont, CBPP, CNAS, New America, Hoover (via Stanford) grant data into the edge store.
-4. **Run `aggregate-indiv-to-edges.cjs --write`** post-ingest to emit edges against the new coverage.
-5. **Re-run `coverage-gap-audit.cjs`** to measure improvement. Target: politicians OK 7.6% → 30%+; think tanks 0% → 100%.
-6. **Drop a `.keepzips` sentinel + guard** in `scripts/lib/fec-ingest-helpers.cjs` to prevent silent bulk-dir wipes.
-7. **Donor EIN backfill for 514 flagged entities** using IRS EO BMF CSV.
-8. **Decide on production Ask backend** per ADR-0015 (serverless vs hosted ops) if we want public /Ask live at launch.
+David explicitly wants to exhaust local-data capability before asking
+him to download more CSVs. Ranked by what's fully actionable now.
+
+**Actionable with zero new downloads (start here):**
+
+1. **376-politician name-match improvement** (code-only fix)
+   `scripts/politician-historical-coverage-backfill.cjs` currently fails
+   match on: accent/Unicode names (José, Ángel), hyphenated surnames
+   (Wasserman-Schultz — my tokenizer eats the hyphen), maiden-name
+   variants, compound first names ("Mary Ann"). Data is there in
+   `C:/donor-map-data/fec/candidate-master.jsonl` (50K+ records). Fix
+   the matcher (fold accents via String.prototype.normalize 'NFD',
+   treat hyphens as token-separator not word-joiner, try LAST-LAST
+   variants). ~30-45 min. Also: detect genuinely-no-federal-match
+   (state-level politicians) and flag as `state-level-no-federal-expected`
+   rather than counting them as EMPTY.
+
+2. **Donor EIN backfill — partial pass (~300-350 of 514)**
+   Without any new download, match donor entities to existing
+   `C:/donor-map-data/fec/nonprofit-990.jsonl` (1,300+ EINs with
+   filer_name) via fuzzy name match. Also check `committee-master
+   .jsonl` for PAC-type donors. Write findings to a draft script
+   that dry-runs the match list; apply after spot-check. Flag the
+   ~160-200 unmatched for the EO BMF step below.
+
+3. **Corporation federal-ID backfill — partial pass (~50 of 79)**
+   Existing FEC `committee-master.jsonl` covers any corp with a
+   federal PAC (Boeing, Raytheon, Lockheed, Pfizer, etc.). Existing
+   `data/derived/usaspending-bulk.jsonl` + `usaspending-grants-bulk
+   .jsonl` cover federal contract/grant recipients with UEI. Match
+   entity names against both, populate `signals.fec_committee_id` /
+   `signals.uei` where confident. Flag tech/finance corps (Apple,
+   Meta, Nvidia, crypto firms) that need SEC CIK — they need the
+   EDGAR download step below.
+
+**Requires small new downloads (do after #1-#3 are exhausted):**
+
+4. **IRS EO BMF CSV** (~30MB, one file from irs.gov) — covers donor
+   EINs for the remaining ~160-200 from item #2 (universities,
+   hospitals, older foundations, any 501(c)(anything) that didn't
+   match existing 990 filer_names).
+
+5. **SEC EDGAR bulk** (XBRL, free, larger) — covers publicly-traded
+   corp CIKs for item #3 remainder.
+
+**Also available whenever:**
+
+6. **Indiv threshold drop** — currently ingest-fec-indiv-aggregate
+   runs at `--min-amount $10000`. Dropping to $1K or $200 would
+   surface mid-tier donors on every profile. Cost: larger file,
+   longer ingest (~45-90 min at $1K). Heap may need bumping past 8GB.
+   Not zip-blocked.
+
+7. **Production Ask backend** per ADR-0015 — either Cloudflare
+   Worker (serverless) or hosted ops (fly.io / Railway). Architecture
+   decision, not data. Required only if we want public thedonormap.org/Ask
+   live at April 30 launch instead of waiting.
+
+### Quick-wins completed this session (for context)
+
+- FEC indiv re-ingest with expanded POI filter: 94,140 rows
+- aggregate-indiv-to-edges: +8,004 new edges, 43,728 updated
+- IRS 990 re-scan for 7 think tanks: 59 filings, 1,889 grants
+- ingest-990-grants-to-edges: +247 new grant edges, 1,947 updated
+- ingest-fec-weball-summary (new): 70,003 cycle-summary rows
+- sync-politician-summary-receipts: 409 politicians gained lifetime totals
+- Coverage audit: politicians 68 → 323 OK, nonprofits 0 → 7 OK (100%)
+- Bulk-dir protection: `.keepzips` sentinel + `assertBulkSentinel()` + alias-resolver in scripts/lib/fec-ingest-helpers.cjs, wired into 2 ingests
+- Hoover/Stanford shared-EIN caveat: profile admonition + signals.ein_data_caveat + Ask UI gloss warning
+- Ask UI vehiclesFor() now auto-discovers campaign committees via signals.controlled_by
 
 ---
 

@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: normal
 status: active
-last-updated: '2026-04-20-reconciliation-framework-ask-ui-public-page-coverage-audit'
+last-updated: '2026-04-20-politicians-68-to-323-OK-after-summary-receipts-and-stub-pooling'
 sprint-id: "2026-04-sprint"
 sprint-start: '2026-04-10'
 sprint-end: '2026-04-30'
@@ -2241,10 +2241,39 @@ phase_3_tasks:
       notes: "scripts/populate-think-tank-eins.cjs. 7 think tanks gained EINs: Brookings 530196577, Manhattan Institute 132912529, Claremont 953443202, CNAS 208084828, CBPP 521234565, New America 522096845, Hoover 941156365 (shared with Stanford). 4 narrative-analysis pages reclassified entity_type nonprofit → meta (Cross-Think-Tank Donor Map, Idea Laundering Pipeline, Revolving Door, Think Tank Money Map). Sets up for 990 re-ingest once zips return."
 
     - id: cc_p3_27
-      task: "FEC indiv ingest POI filter patch (Bernie root cause)"
-      status: in-progress
+      task: "FEC indiv ingest POI filter patch (Bernie root cause) — now COMPLETE after zip re-download"
+      status: done
+      completed_date: 2026-04-20
       added_adhoc: true
-      notes: "Root-caused why Bernie /ask showed only $52K: scripts/ingest-fec-indiv-aggregate.cjs filters indiv rows to committees that SPEND (pas2 src_cmte_id output), excluding candidate campaign committees that only RECEIVE. Patched buildPoiSet() to include every principal_cmte_id from candidate-master.jsonl + every committee in fec-committee-registry.json. BLOCKED: applying requires raw FEC indiv zips which are missing from C:/donor-map-data/bulk/ (folder empty). David re-downloading. Commit 0ef42c9b8."
+      notes: "Earlier blocked on missing zips. David re-downloaded to C:/donor-map-data/bulk/. Ran ingest-fec-indiv-aggregate.cjs --resume: POI set expanded from 26K → 53,879 committees, 94,140 rows in 8.2 min. Aggregate-indiv-to-edges emitted +8,004 new edges, 43,728 updated. Newly visible: Steyer 2020 $317M self-fund, Ramaswamy $26M, McConnell 2020 $5.2M, Haley $380K. Bernie still empty at ≥$10K threshold — his $550M is almost entirely sub-$200 small-dollar (addressed separately by summary-receipts ingest, cc_p3_31). Commits 691bc7e58, 8b6b1f772."
+
+    - id: cc_p3_28
+      task: "Bulk-dir protection: .keepzips sentinel + ingest guards + alias resolver"
+      status: done
+      completed_date: 2026-04-20
+      added_adhoc: true
+      notes: "Prevents silent-delete incident from earlier this session. Drop .keepzips marker at C:/donor-map-data/bulk/ root. New assertBulkSentinel() in scripts/lib/fec-ingest-helpers.cjs throws loudly if bulk missing or sentinel absent. Wired into ingest-fec-indiv-aggregate.cjs + ingest-irs-990-bulk.cjs. Also: SUBDIR_ALIASES + resolveBulkSubdir() handles folder-name variants (IRS 990 ↔ Form 990 IRS, case mismatches, etc.). Commit 691bc7e58."
+
+    - id: cc_p3_29
+      task: "IRS 990 re-scan for 7 think-tank EINs → nonprofits 0 → 100% OK"
+      status: done
+      completed_date: 2026-04-20
+      added_adhoc: true
+      notes: "ingest-irs-990-bulk.cjs --eins <7 comma-separated> force-scanned zips previously marked complete. 59 filings + 1,889 grants recovered for Brookings, Manhattan Institute, Claremont, CNAS, CBPP, New America, Hoover (via Stanford). ingest-990-grants-to-edges --write emitted +247 new grant edges, 1,947 updated. Think tanks now OK-tier across the board: Brookings $19M in, CBPP $28.6M in + $0.7M out, New America $21.4M in, Hoover $1.24B (Stanford aggregate). Commit 3b91bda16."
+
+    - id: cc_p3_30
+      task: "Hoover/Stanford shared-EIN caveat"
+      status: done
+      completed_date: 2026-04-20
+      added_adhoc: true
+      notes: "Confirmed via Wikipedia + ProPublica + multiple sources: Hoover Institution shares EIN 941156365 with Stanford University's Board of Trustees (since 1959). Our 990 ingest returns Stanford's consolidated $1.24B grant activity under Hoover's entity. Added [!caveat] admonition block to Hoover profile with specific numbers ($47M Hoover vs $1B+ Stanford consolidated). Entity signals.ein_data_caveat explains inline; explainEntity() in Ask UI appends ⚠ caveat to gloss automatically. Commit 460daf5af."
+
+    - id: cc_p3_31
+      task: "Two-layer politician coverage: summary receipts + stub pooling. 68 → 323 OK"
+      status: done
+      completed_date: 2026-04-20
+      added_adhoc: true
+      notes: "Solves the Bernie-small-dollar problem without lowering indiv threshold. New scripts/ingest-fec-weball-summary.cjs parses all 23 weballXX.zip (bulk/All candidates/) → 70,003 (cand_id, cycle) summary rows → C:/donor-map-data/fec/candidate-summary.jsonl. New scripts/sync-politician-summary-receipts.cjs pulls into 409 politician entities as signals.fec_receipts_by_cycle + .fec_receipts_lifetime + .fec_indiv_contrib_lifetime. Coverage-gap audit treats populated summary receipts as OK-tier evidence AND pools committee-stub inbound edges up to politician via signals.controlled_by walk. Ask UI vehiclesFor() extended to auto-discover campaign committees via same signal (no more manual MANUAL_VEHICLE_MAP maintenance for new politicians). handleSummary bullets lead with 'FEC lifetime receipts: $X across N cycles' header. Bernie now shows $550M/20 cycles. Top surfacing: Harris $1.22B, Trump $1.17B, W.Bush $793M, Bernie $550M, Steyer $355M, Warren $234M. Commit 460daf5af."
 
   david:
     - id: dc_p3_01
@@ -2416,9 +2445,9 @@ parser_guidance:
         Removed inline body dataview fields on Stratton and Miller. Fixed Mark Green central-thesis typo.
         Flag: Mark Green FEC/GovTrack auto-blocks show wrong politician data (govtrack-id 400159, 2010-2014 cycles). Pipeline correction needed.
 
-**Schedule last updated: 2026-04-20 (Code Claude: Mega session. Reconciliation framework shipped (5 checkers + orchestrator + soft pre-commit gate). Backlog drain: ~$2.8B phantom dollars removed (subaward quintillion bug, self-loop edges, fec-individual-bulk dupes, party-committee self-transfers). Ask UI overhaul: plain-English TL;DR + visual flow + is-this-legal + why-matters + who-is-lead + compare intent + CSV export + clickable deep-links + acronym resolver (MFT→Marble Freedom Trust) + empty-rescue + shareable URLs across money_chain/summary/leaderboard. Public Quartz Ask page shipped (ADR-0015): content/Ask.md + AskPanel.tsx/inline/scss in brutalist design, fetches ops API with CORS allowlist. Coverage-gap audit across 1,995 entities: politicians 7.6% OK, donors 46.8%, nonprofits 0%. Politician historical-coverage backfill: +113 politicians + 111 committees + 111 stubs. 126 previously-unsearchable profile entities registered (media, lobby firms, think tanks, donors). 7 think-tank EINs populated via ProPublica. FEC indiv ingest POI filter patched. BLOCKED at end: FEC + IRS 990 bulk zips missing from C:/donor-map-data/bulk/, David re-downloading. ~25 commits.)**
-**Current phase: Launch 50 sprint for April 30 public launch. Trump/Rubio/Pelosi live. Public /Ask page shipped at thedonormap.org/Ask (dev: works against local ops API; prod backend deferred per ADR-0015).**
-**Next checkpoint: Bulk zips re-downloaded → re-run FEC indiv + IRS 990 ingests → aggregate-indiv-to-edges → re-audit. Target: politicians OK 7.6% → 30%+, think tanks 0% → 100%. Drop .keepzips sentinel + guard. Decide production Ask backend per ADR-0015.**
+**Schedule last updated: 2026-04-20 late PM (Code Claude: Mega session PART 2. David re-downloaded the bulk zips; unblocked full re-ingest cycle. FEC indiv re-ingest with expanded POI filter (53,879 committees, up from 26K) → 94,140 aggregated rows → +8,004 new edges. IRS 990 re-scan for 7 think-tank EINs → 59 filings + 1,889 grants → +247 grant edges → nonprofits 0% → 100% OK. NEW all-candidates summary ingest (scripts/ingest-fec-weball-summary.cjs parses weballXX.zip) → 70,003 cycle-summary rows → candidate-summary.jsonl. NEW sync-politician-summary-receipts.cjs populates fec_receipts_lifetime on 409 politicians. Coverage-gap audit + Ask UI vehiclesFor() pool committee-stub edges up to politicians via signals.controlled_by. Bernie now shows $550M/20 cycles. Hoover profile + entity signals gain shared-EIN caveat (Stanford 941156365). Bulk-dir protection: .keepzips sentinel + assertBulkSentinel() guard + SUBDIR_ALIASES resolver in scripts/lib/fec-ingest-helpers.cjs. Coverage scorecard: politicians 68 → 323 OK (+255), nonprofits 0 → 7 OK (100%). 4 commits on top of earlier save (3d0772089): 691bc7e58, 8b6b1f772, 3b91bda16, 460daf5af.)**
+**Current phase: Launch 50 sprint for April 30 public launch. Ask surface complete on both ops and public Quartz. Coverage: politicians 44.7% OK, nonprofits 100% OK, donors 48.8% OK.**
+**Next checkpoint: Work remaining backlog WITHOUT new downloads first (376-politician name-matching fix, donor EIN partial-pass via existing 990 data, corp fed-ID partial-pass via existing FEC + USASpending). Then pause for David to download IRS EO BMF CSV (~30MB) + SEC EDGAR bulk for the remainder. Production Ask backend per ADR-0015 is architecture-only, separate session.**
 **New data sources added 2026-04-11: FDA (pharma/device/food enforcement), OCC (national bank enforcement), FTC (mergers + historical enforcement). All three live in CI + Ops app.**
 
 ### Template architecture + Trump proof-of-concept — 2026-04-16 evening (Code Claude, long session)
