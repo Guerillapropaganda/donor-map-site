@@ -264,9 +264,21 @@ function candidateMasterKeys(name) {
       const hasEin = !!signals.ein;
       const hasUei = !!signals.uei;
       const hasFecId = !!(signals.fec_committee_id || (signals.fec_committee_ids && signals.fec_committee_ids.length));
-      if (!hasEin && !hasUei && !hasFecId) {
-        flags.push('no-federal-identifier');
+      // Industry blocs, private holdings, family-owned entities: flagged
+      // by corp-federal-id-backfill as federal_id_expected=false so the
+      // audit can explain the absence rather than treating it as a gap.
+      const idExpected = signals.federal_id_expected !== false;
+
+      if (!hasEin && !hasUei && !hasFecId && idExpected) {
+        if (signals.needs_sec_edgar_cik) {
+          flags.push('no-federal-identifier-needs-sec-edgar');
+        } else {
+          flags.push('no-federal-identifier');
+        }
         if (tier === 'OK') tier = 'THIN';
+      }
+      if (!idExpected) {
+        flags.push(`no-federal-id-expected-${(signals.federal_id_reason || '').replace(/[^a-z0-9]+/gi,'-').slice(0,40)}`);
       }
       if (inEdges.length === 0 && outEdges.length === 0) {
         flags.push('zero-edges-both-sides');
@@ -312,6 +324,11 @@ function candidateMasterKeys(name) {
     // (individuals, industry blocs, for-profit LLCs).
     if ((ent.entity_type === 'donor' || ent.entity_type === 'nonprofit') && signals.ein_coverage_expected === false) {
       const onlyExpectedFlags = flags.every((f) => f.startsWith('no-ein-expected-'));
+      if (onlyExpectedFlags) tier = 'OK';
+    }
+    // Same treatment for corps with federal_id_expected=false.
+    if (ent.entity_type === 'corporation' && signals.federal_id_expected === false) {
+      const onlyExpectedFlags = flags.every((f) => f.startsWith('no-federal-id-expected-'));
       if (onlyExpectedFlags) tier = 'OK';
     }
 

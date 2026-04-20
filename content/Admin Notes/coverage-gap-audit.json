@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-20T20:25:25.131Z",
+  "generated": "2026-04-20T20:28:51.146Z",
   "totals": {
     "donor": {
       "OK": 897,
@@ -9,8 +9,8 @@
       "total": 1158
     },
     "corporation": {
-      "OK": 94,
-      "THIN": 44,
+      "OK": 107,
+      "THIN": 31,
       "EMPTY": 35,
       "MISMATCHED": 0,
       "total": 173
@@ -173,7 +173,7 @@
       "profile_path": "content/Donors & Power Networks/Wall Street/Blackstone Group.md",
       "tier": "THIN",
       "flags": [
-        "no-federal-identifier"
+        "no-federal-identifier-needs-sec-edgar"
       ],
       "in_edges": 0,
       "out_edges": 146,
@@ -191,7 +191,7 @@
       "profile_path": "content/Donors & Power Networks/Wall Street/CalPERS.md",
       "tier": "THIN",
       "flags": [
-        "no-federal-identifier"
+        "no-federal-identifier-needs-sec-edgar"
       ],
       "in_edges": 0,
       "out_edges": 9,
@@ -209,7 +209,7 @@
       "profile_path": "content/Donors & Power Networks/Wall Street/CalSTRS.md",
       "tier": "EMPTY",
       "flags": [
-        "no-federal-identifier",
+        "no-federal-identifier-needs-sec-edgar",
         "zero-edges-both-sides"
       ],
       "in_edges": 0,
@@ -580,7 +580,7 @@
       "profile_path": "content/Donors & Power Networks/Wall Street/QVT Financial.md",
       "tier": "THIN",
       "flags": [
-        "no-federal-identifier"
+        "no-federal-identifier-needs-sec-edgar"
       ],
       "in_edges": 0,
       "out_edges": 7,
@@ -615,7 +615,7 @@
       "profile_path": "content/Donors & Power Networks/Wall Street/Trump Media & Technology Group.md",
       "tier": "EMPTY",
       "flags": [
-        "no-federal-identifier",
+        "no-federal-id-expected-private-holding-no-federal-filings",
         "zero-edges-both-sides"
       ],
       "in_edges": 0,
@@ -632,7 +632,7 @@
       "profile_path": "content/Donors & Power Networks/Wall Street/Trump Organization.md",
       "tier": "EMPTY",
       "flags": [
-        "no-federal-identifier",
+        "no-federal-id-expected-private-holding-no-federal-filings",
         "zero-edges-both-sides"
       ],
       "in_edges": 0,
@@ -917,7 +917,7 @@
       "profile_path": "content/Donors & Power Networks/Tech & Crypto/Craft Ventures.md",
       "tier": "THIN",
       "flags": [
-        "no-federal-identifier"
+        "no-federal-identifier-needs-sec-edgar"
       ],
       "in_edges": 0,
       "out_edges": 2,
@@ -935,7 +935,7 @@
       "profile_path": "content/Donors & Power Networks/Tech & Crypto/Crypto Industry Bloc.md",
       "tier": "EMPTY",
       "flags": [
-        "no-federal-identifier",
+        "no-federal-id-expected-industry-bloc-aggregation",
         "zero-edges-both-sides"
       ],
       "in_edges": 0,
@@ -1046,10 +1046,8 @@
       "entity_type": "corporation",
       "sector": "Tech & Crypto",
       "profile_path": "content/Donors & Power Networks/Tech & Crypto/Google - Alphabet.md",
-      "tier": "THIN",
-      "flags": [
-        "no-federal-identifier"
-      ],
+      "tier": "OK",
+      "flags": [],
       "in_edges": 560,
       "out_edges": 3332,
       "in_total": 4389000,
@@ -1079,7 +1077,7 @@
       "profile_path": "content/Donors & Power Networks/Tech & Crypto/Jump Crypto.md",
       "tier": "EMPTY",
       "flags": [
-        "no-federal-identifier",
+        "no-federal-identifier-needs-sec-edgar",
         "zero-edges-both-sides"
       ],
       "in_edges": 0,
@@ -1111,10 +1109,8 @@
       "entity_type": "corporation",
       "sector": "Tech & Crypto",
       "profile_path": "content/Donors & Power Networks/Tech & Crypto/Meta - Facebook.md",
-      "tier": "THIN",
-      "flags": [
-        "no-federal-identifier"
-      ],
+      "tier": "OK",
+      "flags": [],
       "in_edges": 0,
       "out_edges": 164,
       "in_total": 0,
@@ -1169,7 +1165,7 @@
       "profile_path": "content/Donors & Power Networks/Tech & Crypto/Mithril Capital.md",
       "tier": "EMPTY",
       "flags": [
-        "no-federal-identifier",
+        "no-federal-identifier-needs-sec-edgar",
         "zero-edges-both-sides"
       ],
       "in_edges": 0,
@@ -1186,7 +1182,7 @@
       "profile_path": "content/Donors & Power Networks/Tech & Crypto/Nvidia.md",
       "tier": "THIN",
       "flags": [
-        "no-federal-identifier"
+        "no-federal-identifier-needs-sec-edgar"
       ],
       "in_edges": 0,
       "out_edges": 84,
@@ -1242,7 +1238,7 @@
       "profile_path": "content/Donors & Power Networks/Tech & Crypto/Ripple.md",
       "tier": "THIN",
       "flags": [
-        "no-federal-identifier"
+        "no-federal-identifier-needs-sec-edgar"
       ],
       "in_edges": 0,
       "out_edges": 32,
@@ -1356,7 +1352,7 @@
       "profile_path": "content/Donors & Power Networks/Tech & Crypto/Tesla - Elon Musk Political Operation.md",
       "tier": "THIN",
       "flags": [
-        "no-federal-identifier"
+        "no-federal-identifier-needs-sec-edgar"
       ],
       "in_edges": 0,
       "out_edges": 57,
@@ -1408,7 +1404,7 @@
       "profile_path": "content/Donors & Power Networks/Tech & Crypto/TikTok - ByteDance.md",
       "tier": "THIN",
       "flags": [
-        "no-federal-identifier"
+        "no-federal-identifier-needs-sec-edgar"
       ],
       "in_edges": 0,
       "out_edges": 30,
@@ -1426,7 +1422,7 @@
       "profile_path": "content/Donors & Power Networks/Tech & Crypto/Valinor Enterprises.md",
       "tier": "EMPTY",
       "flags": [
-        "no-federal-identifier",
+        "no-federal-identifier-needs-sec-edgar",
         "zero-edges-both-sides"
       ],
       "in_edges": 0,
@@ -1459,7 +1455,7 @@
       "profile_path": "content/Donors & Power Networks/Tech & Crypto/YouTube/YouTube.md",
       "tier": "THIN",
       "flags": [
-        "no-federal-identifier"
+        "no-federal-identifier-needs-sec-edgar"
       ],
       "in_edges": 0,
       "out_edges": 10,
@@ -2356,10 +2352,8 @@
       "entity_type": "corporation",
       "sector": "Restaurant & Food",
       "profile_path": "content/Donors & Power Networks/Restaurant & Food/McDonalds Corporation.md",
-      "tier": "THIN",
-      "flags": [
-        "no-federal-identifier"
-      ],
+      "tier": "OK",
+      "flags": [],
       "in_edges": 339,
       "out_edges": 2522,
       "in_total": 2853250,
@@ -2590,7 +2584,7 @@
       "profile_path": "content/Donors & Power Networks/Real Estate/Invitation Homes - Institutional Landlords.md",
       "tier": "THIN",
       "flags": [
-        "no-federal-identifier"
+        "no-federal-identifier-needs-sec-edgar"
       ],
       "in_edges": 0,
       "out_edges": 6,
@@ -2608,7 +2602,7 @@
       "profile_path": "content/Donors & Power Networks/Real Estate/Las Vegas Sands.md",
       "tier": "THIN",
       "flags": [
-        "no-federal-identifier"
+        "no-federal-identifier-needs-sec-edgar"
       ],
       "in_edges": 0,
       "out_edges": 24,
@@ -2640,9 +2634,9 @@
       "entity_type": "corporation",
       "sector": "Real Estate",
       "profile_path": "content/Donors & Power Networks/Real Estate/MasTec - Mas Canosa Family.md",
-      "tier": "THIN",
+      "tier": "OK",
       "flags": [
-        "no-federal-identifier"
+        "no-federal-id-expected-family-owned-entity"
       ],
       "in_edges": 0,
       "out_edges": 15,
@@ -2660,7 +2654,7 @@
       "profile_path": "content/Donors & Power Networks/Real Estate/Moinian Group.md",
       "tier": "EMPTY",
       "flags": [
-        "no-federal-identifier",
+        "no-federal-identifier-needs-sec-edgar",
         "zero-edges-both-sides"
       ],
       "in_edges": 0,
@@ -2738,7 +2732,7 @@
       "profile_path": "content/Donors & Power Networks/Real Estate/Real Estate Development Industry Bloc.md",
       "tier": "EMPTY",
       "flags": [
-        "no-federal-identifier",
+        "no-federal-id-expected-industry-bloc-aggregation",
         "zero-edges-both-sides"
       ],
       "in_edges": 0,
@@ -2820,7 +2814,7 @@
       "profile_path": "content/Donors & Power Networks/Real Estate/American Homes 4 Rent/American Homes 4 Rent.md",
       "tier": "THIN",
       "flags": [
-        "no-federal-identifier"
+        "no-federal-identifier-needs-sec-edgar"
       ],
       "in_edges": 0,
       "out_edges": 3,
@@ -3047,7 +3041,7 @@
       "profile_path": "content/Donors & Power Networks/Pharma & Healthcare/Novo Nordisk.md",
       "tier": "THIN",
       "flags": [
-        "no-federal-identifier"
+        "no-federal-identifier-needs-sec-edgar"
       ],
       "in_edges": 0,
       "out_edges": 33,
@@ -3155,9 +3149,9 @@
       "entity_type": "corporation",
       "sector": "Pharma & Healthcare",
       "profile_path": "content/Donors & Power Networks/Pharma & Healthcare/Purdue Pharma - Sackler Family.md",
-      "tier": "THIN",
+      "tier": "OK",
       "flags": [
-        "no-federal-identifier"
+        "no-federal-id-expected-family-owned-entity"
       ],
       "in_edges": 0,
       "out_edges": 2,
@@ -3821,7 +3815,7 @@
       "profile_path": "content/Donors & Power Networks/Mega-Donors/Palantir Technologies Political Operation.md",
       "tier": "EMPTY",
       "flags": [
-        "no-federal-identifier",
+        "no-federal-identifier-needs-sec-edgar",
         "zero-edges-both-sides"
       ],
       "in_edges": 0,
@@ -4207,7 +4201,7 @@
       "profile_path": "content/Donors & Power Networks/Mega-Donors/UPS.md",
       "tier": "THIN",
       "flags": [
-        "no-federal-identifier"
+        "no-federal-identifier-needs-sec-edgar"
       ],
       "in_edges": 0,
       "out_edges": 128,
@@ -4409,7 +4403,7 @@
       "profile_path": "content/Donors & Power Networks/Media & Entertainment/Hollywood Democratic Donor Network.md",
       "tier": "EMPTY",
       "flags": [
-        "no-federal-identifier",
+        "no-federal-id-expected-industry-bloc-aggregation",
         "zero-edges-both-sides"
       ],
       "in_edges": 0,
@@ -4426,7 +4420,7 @@
       "profile_path": "content/Donors & Power Networks/Media & Entertainment/iHeartMedia.md",
       "tier": "THIN",
       "flags": [
-        "no-federal-identifier"
+        "no-federal-identifier-needs-sec-edgar"
       ],
       "in_edges": 717,
       "out_edges": 2611,
@@ -5103,7 +5097,7 @@
       "profile_path": "content/Donors & Power Networks/Labor Unions/American Federation of Teachers/American Federation of Teachers.md",
       "tier": "THIN",
       "flags": [
-        "no-federal-identifier"
+        "no-federal-identifier-needs-sec-edgar"
       ],
       "in_edges": 0,
       "out_edges": 7,
@@ -5419,7 +5413,7 @@
       "profile_path": "content/Donors & Power Networks/Healthcare Industry/PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts.md",
       "tier": "EMPTY",
       "flags": [
-        "no-federal-identifier",
+        "no-federal-id-expected-industry-bloc-aggregation",
         "zero-edges-both-sides"
       ],
       "in_edges": 0,
@@ -5434,10 +5428,8 @@
       "entity_type": "corporation",
       "sector": "Healthcare",
       "profile_path": "content/Donors & Power Networks/Healthcare/Anthem - Elevance Health Political Operation.md",
-      "tier": "THIN",
-      "flags": [
-        "no-federal-identifier"
-      ],
+      "tier": "OK",
+      "flags": [],
       "in_edges": 0,
       "out_edges": 54,
       "in_total": 0,
@@ -5540,7 +5532,7 @@
       "profile_path": "content/Donors & Power Networks/Healthcare/Cigna Group.md",
       "tier": "THIN",
       "flags": [
-        "no-federal-identifier"
+        "no-federal-identifier-needs-sec-edgar"
       ],
       "in_edges": 0,
       "out_edges": 60,
@@ -5558,7 +5550,7 @@
       "profile_path": "content/Donors & Power Networks/Healthcare/Civica Rx.md",
       "tier": "EMPTY",
       "flags": [
-        "no-federal-identifier",
+        "no-federal-identifier-needs-sec-edgar",
         "zero-edges-both-sides"
       ],
       "in_edges": 0,
@@ -5573,10 +5565,8 @@
       "entity_type": "corporation",
       "sector": "Healthcare",
       "profile_path": "content/Donors & Power Networks/Healthcare/CVS Health - Aetna.md",
-      "tier": "THIN",
-      "flags": [
-        "no-federal-identifier"
-      ],
+      "tier": "OK",
+      "flags": [],
       "in_edges": 1036,
       "out_edges": 3055,
       "in_total": 8144840,
@@ -5615,10 +5605,8 @@
       "entity_type": "corporation",
       "sector": "Healthcare",
       "profile_path": "content/Donors & Power Networks/Healthcare/Hospital Corporation of America - HCA.md",
-      "tier": "THIN",
-      "flags": [
-        "no-federal-identifier"
-      ],
+      "tier": "OK",
+      "flags": [],
       "in_edges": 0,
       "out_edges": 58,
       "in_total": 0,
@@ -5761,7 +5749,7 @@
       "profile_path": "content/Donors & Power Networks/Healthcare/UnitedHealth Group - Optum.md",
       "tier": "THIN",
       "flags": [
-        "no-federal-identifier"
+        "no-federal-identifier-needs-sec-edgar"
       ],
       "in_edges": 0,
       "out_edges": 86,
@@ -5960,7 +5948,7 @@
       "profile_path": "content/Donors & Power Networks/Gig Economy/Instacart.md",
       "tier": "THIN",
       "flags": [
-        "no-federal-identifier"
+        "no-federal-identifier-needs-sec-edgar"
       ],
       "in_edges": 0,
       "out_edges": 14,
@@ -6415,7 +6403,7 @@
       "profile_path": "content/Donors & Power Networks/Energy & Utilities/Enterprise Products Partners.md",
       "tier": "THIN",
       "flags": [
-        "no-federal-identifier"
+        "no-federal-identifier-needs-sec-edgar"
       ],
       "in_edges": 0,
       "out_edges": 12,
@@ -6465,7 +6453,7 @@
       "profile_path": "content/Donors & Power Networks/Energy & Utilities/Fossil Fuel Bloc.md",
       "tier": "EMPTY",
       "flags": [
-        "no-federal-identifier",
+        "no-federal-id-expected-industry-bloc-aggregation",
         "zero-edges-both-sides"
       ],
       "in_edges": 0,
@@ -6640,10 +6628,8 @@
       "entity_type": "corporation",
       "sector": "Energy & Utilities",
       "profile_path": "content/Donors & Power Networks/Energy & Utilities/Occidental Petroleum.md",
-      "tier": "THIN",
-      "flags": [
-        "no-federal-identifier"
-      ],
+      "tier": "OK",
+      "flags": [],
       "in_edges": 310,
       "out_edges": 1930,
       "in_total": 2237968,
@@ -7149,7 +7135,7 @@
       "profile_path": "content/Donors & Power Networks/Defense & Intelligence/Anduril Industries.md",
       "tier": "THIN",
       "flags": [
-        "no-federal-identifier"
+        "no-federal-identifier-needs-sec-edgar"
       ],
       "in_edges": 0,
       "out_edges": 87,
@@ -7200,10 +7186,8 @@
       "entity_type": "corporation",
       "sector": "Defense & Intelligence",
       "profile_path": "content/Donors & Power Networks/Defense & Intelligence/Bechtel Corporation.md",
-      "tier": "THIN",
-      "flags": [
-        "no-federal-identifier"
-      ],
+      "tier": "OK",
+      "flags": [],
       "in_edges": 79,
       "out_edges": 1507,
       "in_total": 670406,
@@ -7241,7 +7225,7 @@
       "profile_path": "content/Donors & Power Networks/Defense & Intelligence/Boeing Defense.md",
       "tier": "EMPTY",
       "flags": [
-        "no-federal-identifier",
+        "no-federal-identifier-needs-sec-edgar",
         "zero-edges-both-sides"
       ],
       "in_edges": 0,
@@ -7274,7 +7258,7 @@
       "profile_path": "content/Donors & Power Networks/Defense & Intelligence/Booz Allen Hamilton.md",
       "tier": "THIN",
       "flags": [
-        "no-federal-identifier"
+        "no-federal-identifier-needs-sec-edgar"
       ],
       "in_edges": 0,
       "out_edges": 57,
@@ -7400,7 +7384,7 @@
       "profile_path": "content/Donors & Power Networks/Defense & Intelligence/Honeywell.md",
       "tier": "THIN",
       "flags": [
-        "no-federal-identifier"
+        "no-federal-identifier-needs-sec-edgar"
       ],
       "in_edges": 2362,
       "out_edges": 7163,
@@ -7445,7 +7429,7 @@
       "profile_path": "content/Donors & Power Networks/Defense & Intelligence/L3 Technologies.md",
       "tier": "THIN",
       "flags": [
-        "no-federal-identifier"
+        "no-federal-identifier-needs-sec-edgar"
       ],
       "in_edges": 144,
       "out_edges": 1096,
@@ -7479,7 +7463,7 @@
       "profile_path": "content/Donors & Power Networks/Defense & Intelligence/L3Harris Technologies.md",
       "tier": "THIN",
       "flags": [
-        "no-federal-identifier"
+        "no-federal-identifier-needs-sec-edgar"
       ],
       "in_edges": 414,
       "out_edges": 2830,
@@ -7650,7 +7634,7 @@
       "profile_path": "content/Donors & Power Networks/Defense & Intelligence/Raytheon (RTX).md",
       "tier": "THIN",
       "flags": [
-        "no-federal-identifier"
+        "no-federal-identifier-needs-sec-edgar"
       ],
       "in_edges": 1459,
       "out_edges": 5498,
@@ -7923,7 +7907,7 @@
       "profile_path": "content/Donors & Power Networks/Dark Money/Ballard Partners.md",
       "tier": "THIN",
       "flags": [
-        "no-federal-identifier"
+        "no-federal-identifier-needs-sec-edgar"
       ],
       "in_edges": 0,
       "out_edges": 58,
@@ -8430,7 +8414,7 @@
       "profile_path": "content/Donors & Power Networks/Dark Money/HBW Resources.md",
       "tier": "THIN",
       "flags": [
-        "no-federal-identifier"
+        "no-federal-identifier-needs-sec-edgar"
       ],
       "in_edges": 0,
       "out_edges": 18,
@@ -9037,7 +9021,6 @@
       "profile_path": "content/Donors & Power Networks/Corporate/Bacardi - Bacardi USA.md",
       "tier": "EMPTY",
       "flags": [
-        "no-federal-identifier",
         "zero-edges-both-sides"
       ],
       "in_edges": 0,
@@ -9155,10 +9138,8 @@
       "entity_type": "corporation",
       "sector": "Carceral State",
       "profile_path": "content/Donors & Power Networks/Carceral State/GEO Group.md",
-      "tier": "THIN",
-      "flags": [
-        "no-federal-identifier"
-      ],
+      "tier": "OK",
+      "flags": [],
       "in_edges": 0,
       "out_edges": 12,
       "in_total": 0,
@@ -9199,7 +9180,7 @@
       "profile_path": "content/Donors & Power Networks/Carceral State/Securus Technologies - Aventiv.md",
       "tier": "THIN",
       "flags": [
-        "no-federal-identifier"
+        "no-federal-identifier-needs-sec-edgar"
       ],
       "in_edges": 0,
       "out_edges": 4,
@@ -9217,7 +9198,7 @@
       "profile_path": "content/Donors & Power Networks/Carceral State/ViaPath Technologies - GTL.md",
       "tier": "THIN",
       "flags": [
-        "no-federal-identifier"
+        "no-federal-identifier-needs-sec-edgar"
       ],
       "in_edges": 0,
       "out_edges": 1,
@@ -9233,10 +9214,8 @@
       "entity_type": "corporation",
       "sector": "Agriculture",
       "profile_path": "content/Donors & Power Networks/Agriculture/ADM - Archer Daniels Midland.md",
-      "tier": "THIN",
-      "flags": [
-        "no-federal-identifier"
-      ],
+      "tier": "OK",
+      "flags": [],
       "in_edges": 262,
       "out_edges": 1656,
       "in_total": 1357214,
@@ -9421,10 +9400,8 @@
       "entity_type": "corporation",
       "sector": "Agriculture",
       "profile_path": "content/Donors & Power Networks/Agriculture/Monsanto - Bayer.md",
-      "tier": "THIN",
-      "flags": [
-        "no-federal-identifier"
-      ],
+      "tier": "OK",
+      "flags": [],
       "in_edges": 0,
       "out_edges": 46,
       "in_total": 0,
@@ -41097,7 +41074,6 @@
       "profile_path": "content/Lobbying Firms & K Street/Akin Gump Strauss Hauer & Feld.md",
       "tier": "EMPTY",
       "flags": [
-        "no-federal-identifier",
         "zero-edges-both-sides"
       ],
       "in_edges": 0,
@@ -41114,7 +41090,7 @@
       "profile_path": "content/Lobbying Firms & K Street/BGR Group.md",
       "tier": "EMPTY",
       "flags": [
-        "no-federal-identifier",
+        "no-federal-identifier-needs-sec-edgar",
         "zero-edges-both-sides"
       ],
       "in_edges": 0,
@@ -41131,7 +41107,7 @@
       "profile_path": "content/Lobbying Firms & K Street/Brownstein Hyatt Farber Schreck.md",
       "tier": "EMPTY",
       "flags": [
-        "no-federal-identifier",
+        "no-federal-identifier-needs-sec-edgar",
         "zero-edges-both-sides"
       ],
       "in_edges": 0,
@@ -41148,7 +41124,7 @@
       "profile_path": "content/Lobbying Firms & K Street/Capitol Counsel.md",
       "tier": "EMPTY",
       "flags": [
-        "no-federal-identifier",
+        "no-federal-identifier-needs-sec-edgar",
         "zero-edges-both-sides"
       ],
       "in_edges": 0,
@@ -41165,7 +41141,7 @@
       "profile_path": "content/Lobbying Firms & K Street/Cassidy & Associates.md",
       "tier": "THIN",
       "flags": [
-        "no-federal-identifier"
+        "no-federal-identifier-needs-sec-edgar"
       ],
       "in_edges": 2,
       "out_edges": 5,
@@ -41186,7 +41162,7 @@
       "profile_path": "content/Lobbying Firms & K Street/Cornerstone Government Affairs.md",
       "tier": "EMPTY",
       "flags": [
-        "no-federal-identifier",
+        "no-federal-identifier-needs-sec-edgar",
         "zero-edges-both-sides"
       ],
       "in_edges": 0,
@@ -41203,7 +41179,7 @@
       "profile_path": "content/Lobbying Firms & K Street/Forbes Tate Partners.md",
       "tier": "EMPTY",
       "flags": [
-        "no-federal-identifier",
+        "no-federal-identifier-needs-sec-edgar",
         "zero-edges-both-sides"
       ],
       "in_edges": 0,
@@ -41220,7 +41196,7 @@
       "profile_path": "content/Lobbying Firms & K Street/Invariant.md",
       "tier": "EMPTY",
       "flags": [
-        "no-federal-identifier",
+        "no-federal-identifier-needs-sec-edgar",
         "zero-edges-both-sides"
       ],
       "in_edges": 0,
@@ -41237,7 +41213,7 @@
       "profile_path": "content/Lobbying Firms & K Street/Mehlman Consulting.md",
       "tier": "EMPTY",
       "flags": [
-        "no-federal-identifier",
+        "no-federal-identifier-needs-sec-edgar",
         "zero-edges-both-sides"
       ],
       "in_edges": 0,
@@ -41254,7 +41230,7 @@
       "profile_path": "content/Lobbying Firms & K Street/Peck Madigan Jones.md",
       "tier": "EMPTY",
       "flags": [
-        "no-federal-identifier",
+        "no-federal-identifier-needs-sec-edgar",
         "zero-edges-both-sides"
       ],
       "in_edges": 0,
@@ -41271,7 +41247,7 @@
       "profile_path": "content/Lobbying Firms & K Street/SKDK.md",
       "tier": "EMPTY",
       "flags": [
-        "no-federal-identifier",
+        "no-federal-identifier-needs-sec-edgar",
         "zero-edges-both-sides"
       ],
       "in_edges": 0,
@@ -41288,7 +41264,7 @@
       "profile_path": "content/Lobbying Firms & K Street/Squire Patton Boggs.md",
       "tier": "EMPTY",
       "flags": [
-        "no-federal-identifier",
+        "no-federal-identifier-needs-sec-edgar",
         "zero-edges-both-sides"
       ],
       "in_edges": 0,
@@ -41305,7 +41281,7 @@
       "profile_path": "content/Lobbying Firms & K Street/Subject Matter.md",
       "tier": "EMPTY",
       "flags": [
-        "no-federal-identifier",
+        "no-federal-identifier-needs-sec-edgar",
         "zero-edges-both-sides"
       ],
       "in_edges": 0,
@@ -41322,7 +41298,7 @@
       "profile_path": "content/Lobbying Firms & K Street/Thorn Run Partners.md",
       "tier": "EMPTY",
       "flags": [
-        "no-federal-identifier",
+        "no-federal-identifier-needs-sec-edgar",
         "zero-edges-both-sides"
       ],
       "in_edges": 0,
