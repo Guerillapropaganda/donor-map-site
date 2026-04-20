@@ -41,14 +41,27 @@ async function run(opts = {}) {
       if (!name) continue;
       if (byName.has(name)) continue;
       const sideType = e[side === 'from' ? 'from_type' : 'to_type'];
-      // Meta-type refs are vault wayfinding pages (index pages, story
-      // analyses, donor-map hubs) — they legitimately appear in edge
-      // `from`/`to` slots without being entities in entities.jsonl.
-      // Not a data bug, so exclude from the warn count.
-      if (sideType === 'meta') continue;
-      // Bare FEC committee names (all-caps, contain PAC/COMMITTEE/etc.) are
-      // expected orphans — they're canonical upstream references.
-      if (/^[A-Z0-9 &.,'/()-]{5,}$/.test(name) && /(PAC|COMMITTEE|FUND|CAMPAIGN|FOR|VICTORY|LEADERSHIP)/.test(name)) continue;
+      // Non-entity ref types are vault wayfinding pages (indexes, story
+      // analyses, events, media profiles, system) — they legitimately
+      // appear in edge from/to slots without being entities in
+      // entities.jsonl. Not a data bug, so exclude from the warn count.
+      if (['meta', 'story', 'event', 'system', 'media-profile'].includes(sideType)) continue;
+      // Bare FEC committee / party names are expected upstream
+      // references. Pattern: mostly-uppercase, contains a political
+      // keyword. Char class includes quotes (" and ') because FEC
+      // names include AKA aliases with quoted strings, and digits
+      // for PAC IDs and year qualifiers.
+      if (/^[A-Z0-9 &.,"'/()\-]{5,}$/.test(name) &&
+          /(PAC|COMMITTEE|FUND|CAMPAIGN|FOR|VICTORY|LEADERSHIP|REPUBLICAN|DEMOCRAT|PARTY|STATE CENTRAL|EXECUTIVE COMM|LIBERTARIAN|INDEPENDENT|UNION|EMPLOYEES|WORKERS|LEAGUE|VOLUNTARY|ACTION|POLITICAL|TAKE BACK|SUPER PAC|CORPORATION|PROJECT)/.test(name)) continue;
+      // Federal agencies — also expected upstream references; they're
+      // targets of lobbying/contracts but we don't maintain agency-
+      // level entity profiles.
+      if (/^(Department of|Office of|Bureau of|U\.?S\.?|United States|Federal|National|Internal Revenue|Secretary of|General Services|Environmental Protection|Securities and Exchange|Food and Drug|Centers for)/.test(name)) continue;
+      // Narrative analysis pages (Cross-Donor Map, The Revolving Door,
+      // The Think Tank Money Map, etc.) are wayfinding content typed
+      // as entity by some older pipelines. Pattern: contains " , "
+      // (comma-space-comma subtitle format) OR starts with "The ".
+      if (/ , /.test(name) || /^(The [A-Z])/.test(name) && / (Map|Pipeline|Network|Spectrum|Architecture|Empire|Model|System|Machine|Pattern|Circuit|Crusade)/.test(name)) continue;
       const k = `${name}||${sideType}`;
       unknownRefCounts.set(k, (unknownRefCounts.get(k) || 0) + 1);
     }
@@ -69,12 +82,28 @@ async function run(opts = {}) {
   }
 
   // 2. Frontmatter wikilinks — sample just the 5 relational fields.
+  //
+  // "Resolvable" means any of:
+  //   - entity name matches (entities.jsonl)
+  //   - profile_path basename matches an entity's registered path
+  //   - a .md file with that basename exists anywhere under content/
+  //     (catches profiles written but not yet registered as entities —
+  //     Tucker Carlson, Dan Bongino, Joe Rogan, most media-influence
+  //     pages)
   const RELATIONAL_FIELDS = ['related', 'donors', 'top-donors', 'politicians-funded', 'opposes'];
   const mdFiles = walkMd(path.join(ROOT, 'content'));
   const profilePaths = new Set(ents.filter((e) => e.profile_path).map((e) => e.profile_path.replace(/\\/g, '/')));
   const profileBasenames = new Set();
   for (const p of profilePaths) profileBasenames.add(path.basename(p, '.md'));
   for (const e of ents) profileBasenames.add(e.name);
+  // Add every .md file in content/ — a profile that exists as a file
+  // but isn't (yet) in entities.jsonl still resolves for wikilink
+  // purposes. Without this, ~1400 false-positive warns are emitted.
+  for (const f of mdFiles) {
+    const base = path.basename(f, '.md');
+    profileBasenames.add(base);
+    profileBasenames.add(base.replace(/^_/, '').replace(/ Master Profile$/, ''));
+  }
 
   for (const file of mdFiles) {
     const profileName = path.basename(file, '.md').replace(/^_/, '').replace(/ Master Profile$/, '');
