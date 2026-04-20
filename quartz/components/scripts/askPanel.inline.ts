@@ -176,12 +176,19 @@ function initAskPanel() {
   const panel = document.querySelector(".ask-panel") as HTMLElement | null
   if (!panel) return
 
-  const input = document.getElementById("ask-input") as HTMLInputElement | null
-  const submit = document.getElementById("ask-submit") as HTMLButtonElement | null
-  const share = document.getElementById("ask-share") as HTMLButtonElement | null
-  const loading = document.getElementById("ask-loading") as HTMLElement | null
-  const resultEl = document.getElementById("ask-result") as HTMLElement | null
-  if (!input || !submit || !resultEl || !loading) return
+  const _input = document.getElementById("ask-input") as HTMLInputElement | null
+  const _submit = document.getElementById("ask-submit") as HTMLButtonElement | null
+  const _share = document.getElementById("ask-share") as HTMLButtonElement | null
+  const _loading = document.getElementById("ask-loading") as HTMLElement | null
+  const _resultEl = document.getElementById("ask-result") as HTMLElement | null
+  if (!_input || !_submit || !_resultEl || !_loading) return
+  // Non-null bindings after guard — TS doesn't propagate narrowing into
+  // nested closures, so we rebind locally.
+  const input: HTMLInputElement = _input
+  const submit: HTMLButtonElement = _submit
+  const share: HTMLButtonElement | null = _share
+  const loading: HTMLElement = _loading
+  const resultEl: HTMLElement = _resultEl
 
   let currentResult: AskResponse | null = null
 
