@@ -17,7 +17,7 @@
  *   "mark kelly voting record"
  */
 
-import { useState } from "react"
+import { useState, useEffect } from "react"
 
 type Row = Record<string, unknown>
 
@@ -52,6 +52,7 @@ interface AskResponse {
   is_this_legal?: string
   why_matters?: string
   who_is_lead?: { name: string; oneLiner: string }
+  empty_reason?: string
 }
 
 // Glossary: terms we automatically decorate with hover tooltips.
@@ -153,11 +154,20 @@ export default function AskPage() {
   const [result, setResult] = useState<AskResponse | null>(null)
   const [loading, setLoading] = useState(false)
   const [history, setHistory] = useState<AskResponse[]>([])
+  const [shareFeedback, setShareFeedback] = useState("")
 
   async function submit(q: string) {
     if (!q.trim()) return
     setLoading(true)
     setResult(null)
+    // Write the query to the URL so the page is shareable/bookmarkable.
+    // Uses history.replaceState so back/forward stacks aren't polluted
+    // by every keystroke-submitted query.
+    if (typeof window !== "undefined") {
+      const url = new URL(window.location.href)
+      url.searchParams.set("q", q)
+      window.history.replaceState({}, "", url.toString())
+    }
     try {
       const res = await fetch("/api/ask", {
         method: "POST",
@@ -179,6 +189,19 @@ export default function AskPage() {
       setLoading(false)
     }
   }
+
+  // Auto-submit if the page loads with ?q=... in the URL. Lets users
+  // share specific queries by link ("ops/ask?q=who+funds+marble+freedom+trust")
+  // without having to manually re-type or paste into the input.
+  useEffect(() => {
+    if (typeof window === "undefined") return
+    const q = new URL(window.location.href).searchParams.get("q")
+    if (q && q.trim()) {
+      setQuestion(q)
+      submit(q)
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [])
 
   return (
     <div style={styles.wrap}>
@@ -289,6 +312,27 @@ export default function AskPage() {
         <button style={styles.btn} onClick={() => submit(question)} disabled={loading}>
           {loading ? "..." : "Ask"}
         </button>
+        {result && !result.error && (
+          <button
+            style={styles.shareBtn}
+            onClick={async () => {
+              if (typeof window === "undefined") return
+              const url = new URL(window.location.href)
+              url.searchParams.set("q", result.question)
+              try {
+                await navigator.clipboard.writeText(url.toString())
+                setShareFeedback("copied!")
+                setTimeout(() => setShareFeedback(""), 1500)
+              } catch {
+                setShareFeedback("copy failed")
+                setTimeout(() => setShareFeedback(""), 1500)
+              }
+            }}
+            title="Copy a shareable link to this query"
+          >
+            {shareFeedback || "Share"}
+          </button>
+        )}
       </div>
 
       <div style={styles.examples}>
@@ -606,6 +650,15 @@ const styles: Record<string, React.CSSProperties> = {
     background: "#fbbf24",
     color: "#111",
     border: "none",
+    cursor: "pointer",
+  },
+  shareBtn: {
+    padding: "10px 14px",
+    fontSize: 13,
+    fontWeight: 600,
+    background: "#222",
+    color: "#eaeaea",
+    border: "1px solid #444",
     cursor: "pointer",
   },
   examples: { display: "flex", flexWrap: "wrap", gap: 6, marginBottom: 24, alignItems: "center" },

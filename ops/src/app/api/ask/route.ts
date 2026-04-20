@@ -72,6 +72,7 @@ interface AskResult {
   is_this_legal?: string          // answers the "is this illegal?" question readers instinctively ask
   why_matters?: string            // stakes paragraph — why this trail matters democratically
   who_is_lead?: { name: string; oneLiner: string }  // promoted "who is X" for well-known operators
+  empty_reason?: string           // tag identifying WHY a query returned zero rows (entity_not_found, no_path, etc.)
 }
 
 const REPO_ROOT = path.resolve(process.cwd(), "..")
@@ -337,6 +338,29 @@ interface ResolveResult {
   exact: boolean
 }
 
+// Generate the acronym for an entity name. Takes the first letter of
+// each capitalized token, skipping common joining words. "Marble Freedom
+// Trust" → "MFT". "Judicial Crisis Network" → "JCN". "Democratic
+// Congressional Campaign Committee" → "DCCC". Returns empty string if
+// the name has fewer than 2 content tokens.
+const ACRONYM_STOPWORDS = new Set([
+  "the", "of", "and", "for", "a", "an", "in", "on", "to", "with",
+  "at", "by", "from", "as", "into", "&", "-", "",
+])
+function nameAcronym(name: string): string {
+  // Drop parens and punctuation, keep capitalized tokens only.
+  const cleaned = name.replace(/\([^)]*\)/g, " ").replace(/[^A-Za-z\s]/g, " ")
+  const tokens = cleaned.split(/\s+/).filter((t) => {
+    if (!t) return false
+    if (ACRONYM_STOPWORDS.has(t.toLowerCase())) return false
+    // Content tokens usually start with an uppercase letter in proper
+    // names. Single-letter words also count (e.g. "A" in "A16Z").
+    return t.length > 0 && /^[A-Z]/.test(t)
+  })
+  if (tokens.length < 2) return ""
+  return tokens.map((t) => t[0].toUpperCase()).join("")
+}
+
 function resolveTitle(fragment: string): ResolveResult {
   const ents = loadEntities()
   const lc = fragment.toLowerCase().trim()
@@ -353,6 +377,54 @@ function resolveTitle(fragment: string): ResolveResult {
   // 3. contains
   const contains = ents.find((e) => e.name.toLowerCase().includes(lc))
   if (contains) return { title: contains.name, candidates: [], exact: true }
+
+  // 3b. Acronym match — "MFT" → "Marble Freedom Trust", "JCN" →
+  // "Judicial Crisis Network". Query must be 2-6 uppercase-looking
+  // characters to be treated as an acronym candidate.
+  const uc = fragment.trim().toUpperCase()
+  if (/^[A-Z]{2,6}$/.test(uc)) {
+    const acronymHits = ents
+      .map((e) => ({ name: e.name, acro: nameAcronym(e.name) }))
+      .filter((r) => r.acro && r.acro === uc)
+    if (acronymHits.length === 1) {
+      return { title: acronymHits[0].name, candidates: [], exact: true }
+    }
+    if (acronymHits.length > 1) {
+      // Multiple entities share the same acronym — return the first
+      // with the rest as "did you mean" candidates.
+      return { title: acronymHits[0].name, candidates: acronymHits.map((r) => r.name), exact: false }
+    }
+  }
+
+  // 3c. Token-subset match — every token of the query appears in the
+  // entity name (in any order). Catches "sixteen thirty" for "Sixteen
+  // Thirty Fund" when the user drops the trailing noun, or "leo dark
+  // money" for "Leonard Leo". Minimum 2 tokens in query to avoid
+  // trivial matches like "fund".
+  const queryTokens = lc.split(/\s+/).filter((t) => t.length > 1)
+  if (queryTokens.length >= 2) {
+    const subsetHits = ents
+      .filter((e) => {
+        const entTokens = new Set(e.name.toLowerCase().split(/\s+/))
+        return queryTokens.every((t) => {
+          // Token may be a substring of an entity token (handles
+          // "freedom" matching "freedom's") or exact match.
+          for (const et of entTokens) if (et.includes(t)) return true
+          return false
+        })
+      })
+      .slice(0, 5)
+    if (subsetHits.length === 1) {
+      return { title: subsetHits[0].name, candidates: [], exact: true }
+    }
+    if (subsetHits.length > 1) {
+      // Prefer shortest name among matches — "sixteen thirty" should
+      // resolve to "Sixteen Thirty Fund" rather than a composite page
+      // that also contains those tokens.
+      subsetHits.sort((a, b) => a.name.length - b.name.length)
+      return { title: subsetHits[0].name, candidates: subsetHits.map((r) => r.name), exact: false }
+    }
+  }
 
   // 4. fuzzy — Levenshtein on normalized names
   const threshold = Math.max(1, Math.floor(lc.length / 5))
@@ -1331,14 +1403,66 @@ async function handleLeaderboard(c: ClassifiedQuestion, question: string, _engin
 
   const topName = rows[0] ? ` Top: **${rows[0].name}** at ${fmtUsd((rows[0].positive_spend as number) || (rows[0].total as number))}.` : ""
   const answer = `${summary}${topName}`
+
+  // Visual bars: scale each row's primary spend as a proportion of
+  // the #1 entity. Bar made of Unicode block chars — renders in any
+  // monospace cell without needing SVG. 20-char wide bars.
+  const topValue = rows.length > 0 ? ((rows[0].positive_spend as number) || (rows[0].total as number) || 1) : 1
+  function bar(primary: number): string {
+    const frac = Math.max(0, Math.min(1, primary / topValue))
+    const width = Math.round(frac * 20)
+    return "█".repeat(width) + "░".repeat(20 - width)
+  }
+
   const bullets = rows.slice(0, 10).map((r: any) => {
     const primary = r.positive_spend || r.total
-    const parts: string[] = [`${r.name}: ${fmtUsd(primary)}`]
+    const parts: string[] = [`${bar(primary)} **${r.name}**: ${fmtUsd(primary)}`]
     if (r.attack_spend > 0) parts.push(`${fmtUsd(r.attack_spend)} attack`)
     parts.push(`${r.edges} edge${r.edges === 1 ? "" : "s"}`)
     return parts.join(" · ")
   })
-  return { question, intent: "leaderboard", total: rows.length, rows, answer, bullets, summary }
+
+  // ─── Plain-English layer for leaderboards ──────────────────────
+  // A normie sees "$2.49B RNC" and has no context. Frame the list:
+  // what it means, what the visible order tells you structurally
+  // (disclosed party committees at top = expected; dark-money vehicles
+  // appearing high = signal).
+  let plain_english: string | undefined
+  let is_this_legal: string | undefined
+  let why_matters: string | undefined
+
+  if (rows.length > 0) {
+    const top = rows[0]
+    const topAmount = (top.positive_spend as number) || (top.total as number)
+    const topAttack = (top.attack_spend as number) || 0
+    const third = rows[2]
+    const thirdAmount = third ? ((third.positive_spend as number) || (third.total as number)) : 0
+    const totalAllRows = rows.reduce((a: number, r: any) => a + (((r.positive_spend as number) || (r.total as number)) || 0), 0)
+
+    if (topic === "top_donors") {
+      plain_english = `**In plain English:** These are the biggest political spenders we can see. "Positive spend" means money that went toward supporting candidates (direct donations plus ads supporting them). "Attack spend" is money spent on ads AGAINST candidates. The top 3 (${top.name}, ${rows[1]?.name || ""}, ${third?.name || ""}) all publicly disclose their donors — they're party committees and super PACs that have to. **The more interesting dollars are the dark-money vehicles further down the list** where the original donors are legally hidden.`
+      is_this_legal = `**Yes — but that's the whole point of the list.** Everyone ranked here is operating within campaign-finance law. What the rankings reveal is *scale* — how much concentrated political money a single vehicle can mobilize in a cycle. The top entries total ${fmtUsd(totalAllRows)} of trackable political spending.`
+      why_matters = `A leaderboard like this is the closest thing to a scoreboard in US politics. It shows which organizations bought the most visibility in the latest cycles. The ranking reveals structural power: party committees (RNC, DCCC) sit at the top because they aggregate donations from many sources. Individual mega-donors and dark-money pools usually appear lower but move outsized influence per dollar because they don't have to justify themselves to a base.`
+    } else if (topic === "top_superpacs") {
+      plain_english = `**In plain English:** Super PACs can raise unlimited money and spend it on ads supporting or attacking candidates — as long as they don't coordinate with the campaign. ${top.name} leads with ${fmtUsd(topAmount)} in total spend${topAttack > 0 ? ` (including ${fmtUsd(topAttack)} spent on attack ads)` : ""}. Unlike 501(c)(4)s, super PACs must disclose their donors, so the money here is at least traceable back to source — though the source may itself be a dark-money vehicle.`
+      is_this_legal = `**Yes, and it's the legal structure that reshaped American campaigns after *Citizens United* (2010).** Before that ruling, corporations and unions couldn't spend unlimited money on elections. Super PACs are the mechanism created to spend that money in the decade since.`
+      why_matters = `Super PACs are where most political ad spending happens now. They dominate negative-ad production (which is cheaper and more effective per dollar than positive ads), and they concentrate political power in the hands of whoever funds the biggest ones. When you see attack-ad wars in Senate races, this leaderboard is where the money came from.`
+    } else if (topic === "top_politicians") {
+      plain_english = `**In plain English:** These are the politicians receiving the most tracked political money — combining direct campaign donations and independent-expenditure support (ads run on their behalf without coordination). ${top.name} tops the list at ${fmtUsd(topAmount)}. "Attack spend" against each politician is tracked separately.`
+      is_this_legal = `**Yes.** Federal candidates are legally allowed to raise unlimited amounts through their campaigns, leadership PACs, joint-fundraising committees, and aligned super PACs. What matters structurally isn't the receipt, it's who's giving and what they want.`
+      why_matters = `Total raise is an imperfect proxy for political clout, but it correlates strongly with who can afford paid media, field operations, and staff. Politicians ranked highest here are the ones their donors are betting biggest on — tracking these lists cycle over cycle shows who the donor class sees as the most important players.`
+    } else if (topic === "top_dafs") {
+      plain_english = `**In plain English:** Donor-advised funds are the single most-used tool for making political giving disappear from the paper trail. A rich donor contributes to a DAF, gets a tax deduction, then later tells the DAF who to grant money to. The public record only shows the DAF as the giver. ${top.name} distributed ${fmtUsd(topAmount)} — but the original donors behind that money are mostly legally hidden.`
+      is_this_legal = `**Yes, fully legal, and that's the structural scandal.** DAFs were created for charitable giving but have become a primary dark-money conduit. The law allows them to break donor identification between contribution and grant.`
+      why_matters = `Every dollar flowing through a DAF is a dollar of political influence that can't be traced back to its source. The rise of DAFs as political vehicles over the past decade has fundamentally undermined campaign-finance disclosure as a tool for accountability.`
+    } else if (topic === "top_pacs") {
+      plain_english = `**In plain English:** These are the top political committees by total spend. Unlike super PACs, regular PACs have per-cycle contribution limits — they can only accept $5K per donor per year. But they can give money directly to candidates, which super PACs can't. ${top.name} tops the list at ${fmtUsd(topAmount)}.`
+      is_this_legal = `**Yes.** PACs are the oldest and most regulated form of campaign-finance vehicle — they disclose donors, have contribution limits, and can give directly to candidates.`
+      why_matters = `Traditional PACs are where industry and labor concentrate their political donations. Pharma PACs, defense PACs, teacher-union PACs — these lists show which sectors are mobilizing hardest in the current cycle and which candidates they're betting on.`
+    }
+  }
+
+  return { question, intent: "leaderboard", total: rows.length, rows, answer, bullets, summary, plain_english, is_this_legal, why_matters }
 }
 
 async function handleMoneyChain(c: ClassifiedQuestion, question: string): Promise<AskResult> {
@@ -1647,6 +1771,48 @@ function finalize(res: AskResult): AskResult {
     generic: "General lookup",
   }
   if (!res.label) res.label = labels[res.intent] || res.intent
+
+  // API-side empty-result rescue — when a query came back with zero
+  // rows AND there's no narrative answer, figure out WHY it failed
+  // and explain it specifically rather than leaving the UI to show
+  // a generic "nothing matched" block.
+  if ((!res.rows || res.rows.length === 0) && !res.answer && !res.plain_english) {
+    const subj = res.resolved_title
+    const obj = res.resolved_title_2
+    // Entity-resolution failure: user named a subject that didn't
+    // resolve to anything. candidates field carries close matches.
+    if (!subj && res.intent !== "generic" && res.intent !== "leaderboard") {
+      res.empty_reason = "entity_not_found"
+      res.plain_english = `**Couldn't find an entity matching your question.** This usually means the name isn't in the search index yet, or it's spelled differently than how we have it stored. Try a different phrasing or a nearby entity you know exists.`
+    } else if (res.intent === "voting_record" && subj) {
+      res.empty_reason = "no_voting_record"
+      res.plain_english = `**No voting record found for ${subj}.** Voting records are only tracked for federal politicians (US House and Senate). If ${subj} is a state legislator, ex-official, or non-politician, this query type doesn't apply.`
+    } else if (res.intent === "affiliations_from" && subj) {
+      res.empty_reason = "no_board_seats"
+      res.plain_english = `**No board or director seats tracked for ${subj}.** This is usually because the entity is an organization rather than a person, or because IRS 990 officer data hasn't yet linked a person's name to board positions they hold.`
+    } else if (res.intent === "affiliations_to" && subj) {
+      res.empty_reason = "no_board_members"
+      res.plain_english = `**No board members tracked for ${subj}.** The IRS 990 officer-registry pass hasn't surfaced named people on this board yet. Try querying the entity's profile directly for an officer list.`
+    } else if (res.intent === "grants_from" && subj) {
+      res.empty_reason = "no_grants"
+      res.plain_english = `**No grants tracked from ${subj}.** This tool reads grants from IRS 990 Schedule I filings, which only public charities and private foundations file. If ${subj} is a 501(c)(4), super PAC, or for-profit, grants aren't reported publicly.`
+    } else if (res.intent === "donors_to" && subj) {
+      res.empty_reason = "no_donors"
+      res.plain_english = `**No donors tracked to ${subj}.** This could mean: ${subj} is a dark-money 501(c)(4) whose donors are legally hidden; ${subj} is new and hasn't filed yet; or ${subj} receives money only through intermediary vehicles we haven't connected to them yet.`
+    } else if (res.intent === "recipients_from" && subj) {
+      res.empty_reason = "no_recipients"
+      res.plain_english = `**No outflows tracked from ${subj}.** Either ${subj} is primarily on the receiving side of political money, or its outflows run through vehicles whose names don't clearly tie back to ${subj}. Try "tell me about ${subj}" for a broader view.`
+    } else if (res.intent === "edge_between" && subj && obj) {
+      res.empty_reason = "no_direct_edge"
+      res.plain_english = `**No direct monetary edge between ${subj} and ${obj}.** They may still be connected indirectly — try "money chain from ${subj} to ${obj}" to look for paths through intermediary organizations.`
+    } else if (res.intent === "money_chain" && subj && obj) {
+      res.empty_reason = "no_path"
+      res.plain_english = `**No money path found between ${subj} and ${obj} within 3 hops.** They may genuinely not be connected through tracked dollar flows, or the path runs through entities we haven't ingested yet. Try broader queries: "tell me about ${subj}" then "tell me about ${obj}" to see each side's known flows.`
+    } else {
+      res.empty_reason = "no_match"
+      res.plain_english = `**This query pattern didn't return any results.** Try rephrasing using one of the shapes shown in the "How to use this" panel, or pick a follow-up question that's known to work.`
+    }
+  }
 
   return res
 }
