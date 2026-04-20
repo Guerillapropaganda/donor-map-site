@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: normal
 status: active
-last-updated: '2026-04-19-query-accuracy-marathon-and-file-split'
+last-updated: '2026-04-20-reconciliation-framework-ask-ui-public-page-coverage-audit'
 sprint-id: "2026-04-sprint"
 sprint-start: '2026-04-10'
 sprint-end: '2026-04-30'
@@ -2184,6 +2184,68 @@ phase_3_tasks:
       added_adhoc: true
       notes: "David flagged Pelosi bills-cosponsored: 95 as absurd for 36-year career. Root cause: ingest-congress-bills-bulk.cjs clobbered Congress.gov API career totals with 118th-Congress-only numbers. New scripts/sync-bills-frontmatter-from-auto-block.cjs reads each auto:congress-legislation block, writes career numbers back to frontmatter when larger. 85 profiles fixed (Schumer 54→2437, Feinstein 37→2211, Wyden 80→1984, Pelosi 2→199, Clinton 0→713). Added guard to ingest-congress-bills-bulk.cjs so future runs don't re-clobber (--force-bills-overwrite to override). Added bills-data-scope field marking source. Commit a28f98b3c."
 
+    - id: cc_p3_19
+      task: "Reconciliation framework: 5 checkers + orchestrator + soft pre-commit gate"
+      status: done
+      completed_date: 2026-04-20
+      added_adhoc: true
+      notes: "scripts/verify-all.cjs orchestrator + 5 checkers in scripts/verifiers/: amount-sanity, edge-consistency, entity-resolution, derived-totals, committee-receipts. Two-tier model (tier 1 local, tier 2 reads FEC bulk). Wired as soft gate in .husky/pre-commit. Vault tier 1: 652 errors → 0 after backlog drain. First audit run on 20-profile panel captured baseline. Commit 87b4d1711."
+
+    - id: cc_p3_20
+      task: "Backlog drain — ~$2.8B phantom dollars removed from edge store"
+      status: done
+      completed_date: 2026-04-20
+      added_adhoc: true
+      notes: "144 quintillion-bug subaward fields nulled (scripts/cleanup-corrupt-subaward-fields.cjs, 72 profiles). 409 self-loop edges deprecated (scripts/deprecate-self-loop-edges.cjs). 9,010 fec-individual-bulk dupes deprecated (scripts/deprecate-bulk-where-indiv-covers.cjs). 22 party-committee self-transfer edges deprecated + 87 affiliate-named edges rerouted to parents (scripts/map-party-committee-affiliates.cjs + scripts/reroute-affiliate-edges-to-parent.cjs). Verifier patched to exclude intra-entity transfers from source sum. Closes 5 of 7 known FEC drifts. Commits e01bd621f, 377da704b, 34c48ba9c."
+
+    - id: cc_p3_21
+      task: "Ask UI overhaul: plain-English layers, compare intent, CSV export, deep-links, acronym resolver"
+      status: done
+      completed_date: 2026-04-20
+      added_adhoc: true
+      notes: "ops/src/app/ask/page.tsx + ops/src/app/api/ask/route.ts. Seven plain-English overlays (TL;DR, visual ASCII flow, is-this-legal, why-matters, who-is-lead, compare table, empty-rescue) across money_chain / summary for dark-money / leaderboard intents. New 'compare X vs Y' intent with 3-col side-by-side structural-mirror framing. CSV export on every Evidence expander. Clickable entity deep-links to /profile. Acronym resolver (MFT→Marble Freedom Trust, JCN→Judicial Crisis Network, NRCC, etc.) + token-subset match. Empty-result rescue with specific failure reasons. Shareable ?q=… URLs + Share button. How-to collapsible primer. 168 misleading empty 'Top politicians funded' tables suppressed. Commits 937cd2e09, bb46ad97d, 89f1f9da0, 3eb9fd324, 8a07588c8, 73e99d95d."
+
+    - id: cc_p3_22
+      task: "Public Quartz Ask page + ADR-0015"
+      status: done
+      completed_date: 2026-04-20
+      added_adhoc: true
+      notes: "content/Ask.md + quartz/components/AskPanel.tsx + scripts/askPanel.inline.ts + styles/askPanel.scss. Brutalist design system (cream #f5f0eb bg, yellow/red/green/indigo accents, Space Grotesk, no rounded corners) vs ops dark theme. Identical feature set to ops — mirrors full layered render. Fetches ops API at localhost:3333 with dev CORS allowlist (localhost:8080/8081/3000, 127.0.0.1:8080). Registered in quartz/components/index.ts + quartz.layout.ts afterBody. ADR-0015 documents production-backend deferral (serverless vs hosted ops). Verified live with preview_start: happy-path (top donors) + error-state (stubbed fetch reject) both rendering correctly. Commit bd69159ed, 7e973d010."
+
+    - id: cc_p3_23
+      task: "Coverage-gap audit across 1,995 entities"
+      status: done
+      completed_date: 2026-04-20
+      added_adhoc: true
+      notes: "scripts/coverage-gap-audit.cjs scans every entity in entities.jsonl, computes OK/THIN/EMPTY tier + flag list. Checks identifier coverage (FEC candidate ID, committee ID, EIN, UEI), edge counts, source diversity, cycle coverage. Cross-references FEC candidate-master by name+nickname. Headline baseline: politicians 7.6% OK (55/723), donors 46.8%, corporations 54.3%, nonprofits 0%, media 6.2%. Report: content/Admin Notes/coverage-gap-audit.json. Commit ff3682fb4."
+
+    - id: cc_p3_24
+      task: "Politician historical-coverage backfill: +113 politicians, +111 committees, +111 stubs"
+      status: done
+      completed_date: 2026-04-20
+      added_adhoc: true
+      notes: "scripts/politician-historical-coverage-backfill.cjs matches politicians to FEC candidate-master via last+first + nickname map (bernie→bernard, bob→robert, etc.). Pools all historical candidate records (House + Senate + Presidential, all cycles) under each politician. 113 politicians gained coverage, 111 committees added to registry. Follow-up scripts/create-committee-stubs-for-backfill.cjs created 111 donor-type campaign-committee stubs so aggregator can route to them (aggregator correctly refuses to target politicians directly). Politician OK tier 55→68. Full payoff blocked on FEC bulk zip re-download. Commits fc0a8bc6d, 0ef42c9b8."
+
+    - id: cc_p3_25
+      task: "Entity stub registration: 126 previously-unsearchable profiles made queryable"
+      status: done
+      completed_date: 2026-04-20
+      added_adhoc: true
+      notes: "scripts/register-unregistered-profile-stubs.cjs — folder-based entity_type inference. 97 media personalities (Bari Weiss, Joe Rogan, Tucker Carlson, Rachel Maddow, Joe Scarborough, etc.), 14 lobby firms (Akin Gump, BGR, Brownstein Hyatt, Cornerstone, Capitol Counsel, Invariant), 11 think tanks (Hoover, Brookings, Manhattan Institute, CBPP, CNAS, Claremont, New America), 4 donors (Jeff Yass, Marc Andreessen & a16z, Raytheon Technologies, GEO Group). Substring-duplicate guard prevents creating 'Raytheon' when 'Raytheon (RTX)' exists. Content_readiness stays raw. Commit 937cd2e09."
+
+    - id: cc_p3_26
+      task: "Think-tank EIN population via ProPublica Nonprofit Explorer + narrative-page reclassification"
+      status: done
+      completed_date: 2026-04-20
+      added_adhoc: true
+      notes: "scripts/populate-think-tank-eins.cjs. 7 think tanks gained EINs: Brookings 530196577, Manhattan Institute 132912529, Claremont 953443202, CNAS 208084828, CBPP 521234565, New America 522096845, Hoover 941156365 (shared with Stanford). 4 narrative-analysis pages reclassified entity_type nonprofit → meta (Cross-Think-Tank Donor Map, Idea Laundering Pipeline, Revolving Door, Think Tank Money Map). Sets up for 990 re-ingest once zips return."
+
+    - id: cc_p3_27
+      task: "FEC indiv ingest POI filter patch (Bernie root cause)"
+      status: in-progress
+      added_adhoc: true
+      notes: "Root-caused why Bernie /ask showed only $52K: scripts/ingest-fec-indiv-aggregate.cjs filters indiv rows to committees that SPEND (pas2 src_cmte_id output), excluding candidate campaign committees that only RECEIVE. Patched buildPoiSet() to include every principal_cmte_id from candidate-master.jsonl + every committee in fec-committee-registry.json. BLOCKED: applying requires raw FEC indiv zips which are missing from C:/donor-map-data/bulk/ (folder empty). David re-downloading. Commit 0ef42c9b8."
+
   david:
     - id: dc_p3_01
       task: "Legal sanity review — personally read top 20 verified profiles"
@@ -2354,9 +2416,9 @@ parser_guidance:
         Removed inline body dataview fields on Stratton and Miller. Fixed Mark Green central-thesis typo.
         Flag: Mark Green FEC/GovTrack auto-blocks show wrong politician data (govtrack-id 400159, 2010-2014 cycles). Pipeline correction needed.
 
-**Schedule last updated: 2026-04-19 (Code Claude: Query accuracy marathon. Silent-truncation bug hunt across /ask + /query + CLI (engine limit-at-wrong-level + MAX_PAGE_SIZE 500→2000 + 13 route.ts vehicle-query bumps). FEC committee identity layer: 275 politicians synced + 332 campaign committee stubs + 269 parent-affiliate links across 111 parents. Three new ingest pipelines: aggregate-indiv-to-edges (83K edges), aggregate-committee-transfers-to-edges (16K edges), scrub-bad-committee-links. Pool expansion via vehiclesFor() across all /ask intents. 3-layer verification infrastructure: cross-check-totals + reconcile-canonical-totals (pre-commit gate 7b) + verify-committee-receipts tight per-cycle. Canonical/derived file split — data/relationships.jsonl 92MB → 22MB + 8 files under data/derived/. Results: Trump pooled $228M → $1.72B. Harris $43M → $953M. RNC 2020 -92% → -6.2%. 21 of top 30 FEC receipts within ±10% of authoritative upstream. Edge store 75K → 175K active edges. All 3 validation gates pass.)**
-**Current phase: Launch 50 sprint for April 30 public launch. Trump/Rubio/Pelosi live with full FEC lifetime panels.**
-**Next checkpoint: Complete IRS 990 + Votes ingests. Extend lifetime panel to render grants + committee-transfers. Research Claude pass on the 3 canary profiles' Mega-Donors narrative. Review the 8,434 remaining anomalies.**
+**Schedule last updated: 2026-04-20 (Code Claude: Mega session. Reconciliation framework shipped (5 checkers + orchestrator + soft pre-commit gate). Backlog drain: ~$2.8B phantom dollars removed (subaward quintillion bug, self-loop edges, fec-individual-bulk dupes, party-committee self-transfers). Ask UI overhaul: plain-English TL;DR + visual flow + is-this-legal + why-matters + who-is-lead + compare intent + CSV export + clickable deep-links + acronym resolver (MFT→Marble Freedom Trust) + empty-rescue + shareable URLs across money_chain/summary/leaderboard. Public Quartz Ask page shipped (ADR-0015): content/Ask.md + AskPanel.tsx/inline/scss in brutalist design, fetches ops API with CORS allowlist. Coverage-gap audit across 1,995 entities: politicians 7.6% OK, donors 46.8%, nonprofits 0%. Politician historical-coverage backfill: +113 politicians + 111 committees + 111 stubs. 126 previously-unsearchable profile entities registered (media, lobby firms, think tanks, donors). 7 think-tank EINs populated via ProPublica. FEC indiv ingest POI filter patched. BLOCKED at end: FEC + IRS 990 bulk zips missing from C:/donor-map-data/bulk/, David re-downloading. ~25 commits.)**
+**Current phase: Launch 50 sprint for April 30 public launch. Trump/Rubio/Pelosi live. Public /Ask page shipped at thedonormap.org/Ask (dev: works against local ops API; prod backend deferred per ADR-0015).**
+**Next checkpoint: Bulk zips re-downloaded → re-run FEC indiv + IRS 990 ingests → aggregate-indiv-to-edges → re-audit. Target: politicians OK 7.6% → 30%+, think tanks 0% → 100%. Drop .keepzips sentinel + guard. Decide production Ask backend per ADR-0015.**
 **New data sources added 2026-04-11: FDA (pharma/device/food enforcement), OCC (national bank enforcement), FTC (mergers + historical enforcement). All three live in CI + Ops app.**
 
 ### Template architecture + Trump proof-of-concept — 2026-04-16 evening (Code Claude, long session)

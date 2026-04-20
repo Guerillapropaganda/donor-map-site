@@ -1,13 +1,13 @@
 ---
 title: Session State
 type: system
-last-updated: 2026-04-19
+last-updated: 2026-04-20
 ---
-<!-- last session: QUERY ACCURACY MARATHON — silent-truncation bug hunt, FEC committee identity layer, 4-slice per-cycle reconciliation, canonical/derived file split (2026-04-19, Code Claude). 15+ commits. Ended with edge store at 175K edges, partitioned into data/relationships.jsonl (22MB canonical) + data/derived/*.jsonl (per-source ingest output, max 38MB). Reconciliation: 21/30 top committee receipts within ±10% of upstream FEC. Verification infrastructure baked into pre-commit gate. -->
-<!-- prior session: Ops Ask UI marathon + IE classifier (2026-04-19 AM, Code Claude). 18 commits. -->
-<!-- prior prior session: FULL-DATABASE FEC INGEST + profile infrastructure (2026-04-18, Code Claude). -->
-<!-- prior prior prior session: Trump data overhaul + Rubio polish + systemic pipeline fixes (2026-04-17, Code Claude). -->
-<!-- prior prior prior prior session: Public-UI cleanup + Trump polish + IA rewrite (2026-04-16 late, Code Claude). -->
+<!-- last session: MEGA SESSION — reconciliation framework + backlog drain + Ask UI overhaul + public Quartz Ask page (ADR-0015) + vault-wide coverage-gap audit + politician historical-coverage backfill (2026-04-20, Code Claude). ~25 commits. Blocked at session end: FEC + IRS 990 bulk zips missing from C:/donor-map-data/bulk/, David re-downloading. -->
+<!-- prior session: QUERY ACCURACY MARATHON — silent-truncation bug hunt, FEC committee identity layer, 4-slice per-cycle reconciliation, canonical/derived file split (2026-04-19, Code Claude). -->
+<!-- prior prior session: Ops Ask UI marathon + IE classifier (2026-04-19 AM, Code Claude). 18 commits. -->
+<!-- prior prior prior session: FULL-DATABASE FEC INGEST + profile infrastructure (2026-04-18, Code Claude). -->
+<!-- prior prior prior prior session: Trump data overhaul + Rubio polish + systemic pipeline fixes (2026-04-17, Code Claude). -->
 
 
 
@@ -20,13 +20,124 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 
 ## Current Build Phase
 
-**Phase:** Launch 50 sprint for April 30 public launch. Trump + Rubio + Pelosi live, enriched with FEC lifetime data.
-**Status:** Edge store partitioned into canonical + derived (92MB → 22MB main + 70MB in 8 derived files, each under GitHub 100MB cap). Per-cycle reconciliation infrastructure in pre-commit gate. FEC committee identity layer operational (850+ committees mapped to vault entities). /ask UI pools 30+ controlled vehicles across Trump/Harris/Leo/McConnell/AIPAC and returns numbers within ±10% of authoritative FEC upstream on the top 21 of 30 cycles.
-**Authority:** CLAUDE.md, Profile Template.md, Class Analysis Style Guide.md, active ADRs (0001, 0002, 0004, 0007, 0009, 0010, 0011, 0012, 0013, 0014)
+**Phase:** Launch 50 sprint for April 30 public launch. Public-facing Ask page (`/Ask`) shipped to Quartz backed by ops API. Reconciliation framework operational. Politician coverage backfilled at registry level (113 politicians + 111 committees), edge-store coverage blocked on FEC bulk zip re-download.
+**Status:** Ask UI has seven plain-English overlays (TL;DR, visual flow, is-this-legal, why-matters, who-is-lead, compare table, empty-rescue) across money_chain / summary / leaderboard intents. Entity resolver handles acronyms (MFT → Marble Freedom Trust), token-subsets, and Levenshtein. CSV export + clickable entity deep-links. Shareable ?q=… URLs. Public Ask page renders brutalist (cream bg, yellow/red/green/indigo accents), fetches ops API with dev CORS allowlist. ADR-0015 documents production-backend deferral.
+**Authority:** CLAUDE.md, Profile Template.md, Class Analysis Style Guide.md, active ADRs (0001, 0002, 0004, 0007, 0009, 0010, 0011, 0012, 0013, 0014, 0015)
 
 ---
 
-## HANDOFF — 2026-04-19 PM (Query accuracy marathon)
+## HANDOFF — 2026-04-20 (Mega session: reconciliation + Ask UI + public page + coverage audit)
+
+Session theme: validation-mode dive that grew into every major query-
+system improvement the database needed. Started with David asking
+for a validation pass against outside sources. Ended with a trustworthy
+reconciliation framework, a polished user-facing Ask UI shipped to the
+public site, and a comprehensive coverage-gap audit quantifying what
+structured data is missing vault-wide.
+
+### Shipped today (~25 commits)
+
+**Reconciliation framework (5 checkers):**
+- `scripts/verify-all.cjs` orchestrator, two-tier model (tier 1 local,
+  tier 2 reads FEC bulk)
+- `scripts/verifiers/amount-sanity.cjs` — catches quintillion-bug class
+- `scripts/verifiers/edge-consistency.cjs` — self-loops, cross-source dupes
+- `scripts/verifiers/entity-resolution.cjs` — unresolved refs, wikilinks
+- `scripts/verifiers/derived-totals.cjs` — empty rendered tables
+- `scripts/verifiers/committee-receipts.cjs` — tier 2, FEC upstream reconciliation
+- Pre-commit hook wired as soft gate (tier 1)
+
+**Backlog drain (~$2.8B phantom dollars removed):**
+- 144 quintillion-bug subaward fields nulled (72 profiles)
+- 409 self-loop edges deprecated (~$250M phantom)
+- 9,010 fec-individual-bulk dupes deprecated (~$765M phantom)
+- 22 party-committee self-transfer edges deprecated (~$1.12B phantom)
+- 87 affiliate-named edges rerouted to parent entities
+- Verifier patched to exclude intra-entity shuffles (~$626M source-side)
+
+**Ask UI overhaul (ops /ask):**
+- Plain-English TL;DR layer (money_chain, summary for dark-money, leaderboard)
+- Visual ASCII flow diagrams for money trails
+- "Is this illegal?" + "Why should I care?" + "Who is X?" context blocks
+- Compare intent (`compare X vs Y`) with 3-col side-by-side table + "structural mirror" framing
+- CSV export on every Evidence expander
+- Clickable entity deep-links via /profile?path=…
+- Acronym resolver (MFT, JCN, NRCC) + token-subset match
+- Empty-result rescue with specific failure reasons + working query chips
+- Shareable ?q=… URLs + Share button
+- "How to use this" collapsible primer
+- 168 misleading empty "Top politicians funded" tables suppressed with honest notes
+
+**Public Quartz Ask page (new, ADR-0015):**
+- `content/Ask.md` + `quartz/components/AskPanel.tsx` + scripts/styles
+- Brutalist design system (cream bg, yellow/red/green/indigo, Space Grotesk, no rounded corners)
+- Identical feature set to ops version — mirrors the full layered render
+- Fetches ops API at localhost:3333 with CORS allowlist for dev
+- Registered in quartz/components/index.ts + quartz.layout.ts afterBody
+- ADR-0015 documents phased production-backend decision (serverless vs hosted ops)
+- Verified live with preview_start: happy path (top donors) + error state both working
+
+**Coverage-gap audit (`scripts/coverage-gap-audit.cjs`):**
+- Vault-wide audit across 1,995 entities
+- Tiers: OK / THIN / EMPTY
+- Flags: missing-FEC-identifier, candidate-id-but-no-committee-id, missing-N-candidate-cycles, dark-money-no-ein, only-legacy-source, etc.
+- Headline: politicians 7.6% OK (55/723), donors 46.8% OK (453/967), corporations 54.3% OK, nonprofits 0% OK (0/11), media 6.2% OK
+- Report: `content/Admin Notes/coverage-gap-audit.json`
+
+**Politician historical-coverage backfill:**
+- `scripts/politician-historical-coverage-backfill.cjs` — matches all politicians to FEC candidate-master via last+first with nickname expansion (bernie→bernard, bob→robert, etc.)
+- Pooled every historical candidate record across cycles/offices under each politician
+- 113 politicians gained coverage, 111 committees added to registry
+- `scripts/create-committee-stubs-for-backfill.cjs` created 111 donor-type committee stubs so aggregator can route to them
+
+**Entity stubs (Quartz search index):**
+- `scripts/register-unregistered-profile-stubs.cjs` — 126 previously-unsearchable profiles registered
+- 97 media personalities (Bari Weiss, Joe Rogan, Tucker Carlson, Rachel Maddow, etc.)
+- 14 lobby firms (Akin Gump, BGR Group, Brownstein Hyatt, Cornerstone, etc.)
+- 11 think tanks (Hoover, Brookings, Manhattan Institute, CBPP, New America, CNAS, Claremont)
+- 4 donors (Jeff Yass, Marc Andreessen & a16z, Raytheon Technologies, GEO Group)
+
+**Think-tank EIN population (end of session):**
+- `scripts/populate-think-tank-eins.cjs` populated EINs on 7 think tanks via ProPublica Nonprofit Explorer
+- 4 narrative-analysis pages reclassified from `nonprofit` → `meta` (they're story pages, not orgs)
+- EINs: Brookings 530196577, Manhattan 132912529, Claremont 953443202, CNAS 208084828, CBPP 521234565, New America 522096845, Hoover 941156365 (via Stanford)
+- Immediate value: Ask UI gloss shows EINs on these profiles
+- Deferred value: next IRS 990 ingest will include them
+
+**FEC indiv ingest POI filter fix:**
+- Root-caused why Bernie's /ask query showed only $52K: `ingest-fec-indiv-aggregate.cjs` filters indiv rows to committees that SPEND (pas2 output), excluding candidate campaign committees that only RECEIVE
+- Patched `buildPoiSet()` to include every `principal_cmte_id` from candidate-master.jsonl + every committee in fec-committee-registry.json
+- Applying the fix blocked on missing bulk zips
+
+### Known issues / blockers
+
+- **FEC + IRS 990 bulk zips missing** from `C:/donor-map-data/bulk/` (folder exists but empty). David re-downloading. Until zips return, politicians and think tanks remain edge-store-empty even though registry/EIN wiring is ready.
+- Ops /ask backend runs localhost-only. Public Ask page at thedonormap.org fails-closed without a hosted API. ADR-0015 captures the deferred decision.
+- 376 politicians didn't match FEC candidate-master via name+nickname (likely state-level, hyphenated names, or accent/non-ASCII names).
+- 514 donor entities flagged needing EIN backfill. Not started.
+- Committee-receipts tier 2 still has 6 warns (DCCC/NRCC historical drift, Fairshake +13% definitional). Acceptable.
+
+### In progress
+
+- Sentinel to prevent silent bulk-zip deletion (drop `.keepzips` marker + have ingest scripts guard on it). Proposed, not started.
+- Donor EIN backfill via IRS EO BMF CSV. Proposed, not started.
+
+### Next session priorities
+
+1. **Confirm re-downloaded bulk zips** are in place at `C:/donor-map-data/bulk/Contributions by Individuals/` and `C:/donor-map-data/bulk/IRS 990/`.
+2. **Run FEC indiv re-ingest** (`node --max-old-space-size=8192 scripts/ingest-fec-indiv-aggregate.cjs --resume`). ~30-60 min. Expect Bernie, Rubio, Gabbard, Burgum, Hegseth, Romney, Collins, DeSantis, Haley et al. to light up with real donor data.
+3. **Run IRS 990 re-ingest** to pull Brookings, Manhattan Institute, Claremont, CBPP, CNAS, New America, Hoover (via Stanford) grant data into the edge store.
+4. **Run `aggregate-indiv-to-edges.cjs --write`** post-ingest to emit edges against the new coverage.
+5. **Re-run `coverage-gap-audit.cjs`** to measure improvement. Target: politicians OK 7.6% → 30%+; think tanks 0% → 100%.
+6. **Drop a `.keepzips` sentinel + guard** in `scripts/lib/fec-ingest-helpers.cjs` to prevent silent bulk-dir wipes.
+7. **Donor EIN backfill for 514 flagged entities** using IRS EO BMF CSV.
+8. **Decide on production Ask backend** per ADR-0015 (serverless vs hosted ops) if we want public /Ask live at launch.
+
+---
+
+## Previous Sessions
+
+### Code Claude — 2026-04-19 PM (Query accuracy marathon)
 
 Session theme: make the donor-map numbers ACTUALLY accurate, not
 just "in the neighborhood." Started with David flagging that
