@@ -27,6 +27,7 @@ const { loadEntities } = require('./lib/entities-store.cjs');
 const ROOT = path.resolve(__dirname, '..');
 const ENT_FILE = path.join(ROOT, 'data', 'entities.jsonl');
 const FEC_ROOT = 'C:/donor-map-data/fec';
+const SEC_TICKERS_FILE = 'C:/donor-map-data/bulk/company_tickers.json';
 const WRITE = process.argv.includes('--write');
 const VERBOSE = process.argv.includes('--verbose');
 
@@ -106,6 +107,34 @@ function classifyCorp(name) {
   }
   console.log(`  committee-master unique keys: ${cmteByKey.size}`);
 
+  // Load SEC EDGAR ticker file: JSON map of {"0": {cik_str, ticker, title}, ...}
+  // Every SEC-registered public company. Used to populate signals.sec_cik
+  // + signals.ticker for corps lacking FEC identifiers.
+  console.log('  loading SEC EDGAR company_tickers.json...');
+  const secByName = new Map();   // normalized title → {cik, ticker, title}
+  const secByTicker = new Map(); // ticker → same
+  try {
+    const raw = JSON.parse(fs.readFileSync(SEC_TICKERS_FILE, 'utf-8'));
+    for (const k of Object.keys(raw)) {
+      const r = raw[k];
+      if (!r.cik_str || !r.title) continue;
+      const cik = String(r.cik_str).padStart(10, '0');
+      const rec = { cik, ticker: r.ticker, title: r.title };
+      const n = normalize(r.title);
+      if (n.length >= 3 && !secByName.has(n)) secByName.set(n, rec);
+      // Also first-2-words form so "META PLATFORMS" can match "Meta - Facebook".
+      const words = n.split(' ').filter(Boolean);
+      if (words.length >= 2) {
+        const k2 = words.slice(0, 2).join(' ');
+        if (!secByName.has(k2)) secByName.set(k2, rec);
+      }
+      if (r.ticker) secByTicker.set(r.ticker.toUpperCase(), rec);
+    }
+  } catch (e) {
+    console.log(`  WARN: could not load SEC tickers (${e.message}) — skipping SEC step`);
+  }
+  console.log(`  SEC registered companies indexed: ${secByName.size}`);
+
   const ents = loadEntities();
   const corps = ents.filter((e) => e.entity_type === 'corporation');
   const needsWork = corps.filter((e) => {
@@ -115,7 +144,7 @@ function classifyCorp(name) {
   console.log(`\n  corporations: ${corps.length} (no-federal-id: ${needsWork.length})\n`);
 
   const updates = new Map();
-  const counts = { fec_matched: 0, aggregation: 0, private_holding: 0, family_holding: 0, needs_sec_edgar: 0 };
+  const counts = { fec_matched: 0, sec_matched: 0, aggregation: 0, private_holding: 0, family_holding: 0, needs_sec_edgar: 0 };
 
   for (const e of needsWork) {
     const terms = corpSearchTerms(e.name);
@@ -147,6 +176,32 @@ function classifyCorp(name) {
       continue;
     }
 
+    // 1b. SEC EDGAR CIK lookup. Try each normalized search term; require
+    // a match — secByName keys were built from first-2-words + full so
+    // "META PLATFORMS" lands Meta. Reject obvious false positives where
+    // the vault name is much shorter than the SEC title prefix would
+    // imply (e.g. single-word vault name "APPLE" matching some SEC
+    // record "APPLE HOSPITALITY REIT INC" — we require at least the
+    // first SEC title word to equal the vault term).
+    let secHit = null;
+    for (const t of terms) {
+      const hit = secByName.get(t);
+      if (hit) {
+        const hitFirstWord = normalize(hit.title).split(' ')[0];
+        const termFirstWord = t.split(' ')[0];
+        if (hitFirstWord === termFirstWord) { secHit = hit; break; }
+      }
+    }
+    if (secHit) {
+      updates.set(e.name, {
+        sec_cik: secHit.cik,
+        ticker: secHit.ticker,
+        sec_cik_source: `sec-edgar:${secHit.title}`,
+      });
+      counts.sec_matched++;
+      continue;
+    }
+
     // Classify unmatchable.
     const cat = classifyCorp(e.name);
     if (cat === 'aggregation') {
@@ -169,6 +224,7 @@ function classifyCorp(name) {
 
   console.log('  results:');
   console.log(`    FEC committee-id matched:              ${counts.fec_matched}`);
+  console.log(`    SEC CIK matched:                       ${counts.sec_matched}`);
   console.log(`    industry-bloc aggregation:             ${counts.aggregation}`);
   console.log(`    private holding / family:              ${counts.private_holding + counts.family_holding}`);
   console.log(`    needs SEC EDGAR CIK (next download):   ${counts.needs_sec_edgar}`);
@@ -180,6 +236,7 @@ function classifyCorp(name) {
     for (const [name, u] of updates) {
       if (i++ >= 20) break;
       const what = u.fec_committee_id ? `fec=${u.fec_committee_id} [${u.fec_committee_id_source}]` :
+                   u.sec_cik ? `cik=${u.sec_cik} ticker=${u.ticker || '-'} [${u.sec_cik_source}]` :
                    u.federal_id_expected === false ? `expected=false (${u.federal_id_reason})` :
                    `needs-sec-edgar`;
       console.log(`    ${name} → ${what}`);
@@ -208,6 +265,13 @@ function classifyCorp(name) {
       }
       if (!rec.signals.fec_committee_id) rec.signals.fec_committee_id = u.fec_committee_id;
       rec.signals.fec_committee_id_sourced_from = u.fec_committee_id_source;
+    }
+    if (u.sec_cik) {
+      rec.signals.sec_cik = u.sec_cik;
+      if (u.ticker) rec.signals.ticker = u.ticker;
+      rec.signals.sec_cik_sourced_from = u.sec_cik_source;
+      // Clear the needs_sec_edgar_cik flag if previously set.
+      delete rec.signals.needs_sec_edgar_cik;
     }
     if (u.federal_id_expected === false) {
       rec.signals.federal_id_expected = false;

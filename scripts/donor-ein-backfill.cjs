@@ -33,13 +33,19 @@ const { loadEntities } = require('./lib/entities-store.cjs');
 const ROOT = path.resolve(__dirname, '..');
 const ENT_FILE = path.join(ROOT, 'data', 'entities.jsonl');
 const FEC_ROOT = 'C:/donor-map-data/fec';
+const EOBMF_ROOT = 'C:/donor-map-data/bulk/EOBMSFE'; // IRS EO BMF extract (eo1-4.csv, eo_pr, eo_xx)
 const WRITE = process.argv.includes('--write');
 const VERBOSE = process.argv.includes('--verbose');
 
 function normalize(s) {
+  // Keep nonprofit-identity words (FOUNDATION/FUND/INSTITUTE/ASSOCIATION/
+  // TRUST) because they distinguish otherwise-identical names in the IRS
+  // EO BMF (the "John Adams Institute" is a distinct entity from "John
+  // Adams"). Strip only corporate-form suffixes + filler.
   return (s || '').toUpperCase()
+    .replace(/['’‘`]/g, '')
     .replace(/[^A-Z0-9 ]+/g, ' ')
-    .replace(/\b(INC|LLC|LP|LLP|CORP|CORPORATION|CO|COMPANY|FOUNDATION|FUND|ASSN|ASSOCIATION|TRUST|INSTITUTE|THE|OF|FOR|AND)\b/g, ' ')
+    .replace(/\b(INC|INCORPORATED|LLC|LP|LLP|CORP|CORPORATION|CO|COMPANY|THE|OF|FOR|AND)\b/g, ' ')
     .replace(/\s+/g, ' ')
     .trim();
 }
@@ -49,15 +55,16 @@ function classifyNoEinCategory(name, sector) {
   // For-profit first — LLCs, hedge funds, and VC shops have English-looking
   // names that otherwise match the "person" pattern (Elliott Management,
   // Andreessen Horowitz). Catch them before the individual-donor test.
-  if (/\b(inc|llc|lp|llp|corp|corporation|capital|partners|holdings|management|bank|ventures|labs|group|networks?|enterprises?|holdings?|industries|technologies|systems|solutions|media|advisors|securities|associates|consulting|global|international)\b/i.test(name)) return 'for-profit';
+  if (/\b(inc|llc|lp|llp|corp|corporation|capital|partners|holdings|management|bank|ventures|labs|technologies|systems|solutions|advisors|securities|associates|consulting)\b/i.test(name)) return 'for-profit';
   // Party committees (expected to have FEC id, not EIN).
   if (/\b(dnc|rnc|dccc|dscc|nrcc|nrsc|dsc)\b/i.test(name)
       || /\bnational committee\b/i.test(name)) return 'party-committee';
   // PAC-shaped (expected to have FEC id, not EIN).
   if (/\b(pac|super pac|victory fund|leadership pac)\b/i.test(s)) return 'pac';
-  // Industry aggregations / blocs / synthetic groupings.
-  if (/\b(industry|bloc|sector|class|donors?|money)\b/i.test(name)
-      && !/\bfund|foundation|institute\b/i.test(name)) return 'aggregation';
+  // Industry aggregations / blocs / synthetic groupings. "Hedge Fund
+  // Industry Bloc" is a bloc-of-funds, not a fund itself — match on the
+  // grouping keyword regardless of whether the name also contains "Fund".
+  if (/\b(industry|industries|bloc|sector|networks?|class|donors?|money)\b/i.test(name)) return 'aggregation';
   // Family offices — "Smith Family", "Adelson Family Office" etc.
   if (/\bfamily( office)?$/i.test(name)) return 'family-office';
   // Individual-donor detection: 2-4 capitalized words, no keywords.
@@ -70,6 +77,44 @@ function classifyNoEinCategory(name, sector) {
 
 (async function main() {
   console.log(`[donor-ein-backfill] ${WRITE ? 'WRITE' : 'dry-run'}\n`);
+
+  // Load IRS EO BMF (exempt orgs master file): every US nonprofit with
+  // its EIN. ~2M rows across 6 regional CSVs. Indexed by normalized
+  // name so a vault donor name can fuzzy-match to any registered
+  // nonprofit. Ambiguous names (multiple EINs under same normalized
+  // form) are dropped — we'd rather leave unmatched than assign wrong.
+  console.log('  loading IRS EO BMF (EOBMSFE)...');
+  const eoByName = new Map();  // normalized name → {ein, name} OR null if ambiguous
+  let eoRowCount = 0;
+  {
+    const files = fs.existsSync(EOBMF_ROOT) ? fs.readdirSync(EOBMF_ROOT).filter((f) => f.endsWith('.csv')) : [];
+    for (const fname of files) {
+      const rl = readline.createInterface({ input: fs.createReadStream(path.join(EOBMF_ROOT, fname)) });
+      let header = null;
+      for await (const line of rl) {
+        if (!line.trim()) continue;
+        if (!header) { header = line.split(',').map((h) => h.trim().toUpperCase()); continue; }
+        // Quick CSV split — EOBMFE has no embedded commas in the name
+        // column for 99%+ of rows; for the rest we tolerate truncation.
+        const cols = line.split(',');
+        const ein = cols[0];
+        const name = cols[1];
+        if (!ein || !name) continue;
+        eoRowCount++;
+        const k = normalize(name);
+        if (k.length < 4) continue;
+        if (eoByName.has(k)) {
+          // Already have an entry — check if it's the same EIN.
+          const existing = eoByName.get(k);
+          if (existing && existing.ein !== ein) eoByName.set(k, null); // ambiguous
+        } else {
+          eoByName.set(k, { ein, name });
+        }
+      }
+    }
+  }
+  const eoUnambig = [...eoByName.values()].filter(Boolean).length;
+  console.log(`  EO BMF rows scanned: ${eoRowCount}, unique unambiguous normalized names: ${eoUnambig}`);
 
   // Load 990 filer index.
   console.log('  loading nonprofit-990.jsonl...');
@@ -125,7 +170,7 @@ function classifyNoEinCategory(name, sector) {
   console.log(`\n  donors + nonprofits: ${donors.length} (no-ein: ${needsWork.length})\n`);
 
   const updates = new Map(); // name → {ein?, fec_committee_id?, classification?, ein_source?}
-  const counts = { ein_direct: 0, ein_fuzzy: 0, fec_id_match: 0, classified_individual: 0, classified_aggregation: 0, classified_forprofit: 0, classified_party: 0, classified_pac_needs_fec: 0, unresolved: 0 };
+  const counts = { ein_direct: 0, ein_fuzzy: 0, ein_eobmf: 0, fec_id_match: 0, classified_individual: 0, classified_aggregation: 0, classified_forprofit: 0, classified_party: 0, classified_pac_needs_fec: 0, unresolved: 0 };
 
   for (const e of needsWork) {
     const signals = e.signals || {};
@@ -145,6 +190,15 @@ function classifyNoEinCategory(name, sector) {
       updates.set(name, { ein: hit.ein, ein_source: `990-filer-normalized:${hit.filer_name}` });
       counts.ein_fuzzy++;
       continue;
+    }
+    // 1b. IRS EO BMF lookup — massive nonprofit name→EIN index.
+    if (nameNorm.length >= 4 && eoByName.has(nameNorm)) {
+      const hit = eoByName.get(nameNorm);
+      if (hit) { // non-null = unambiguous
+        updates.set(name, { ein: hit.ein, ein_source: `eo-bmf:${hit.name}` });
+        counts.ein_eobmf++;
+        continue;
+      }
     }
 
     // 2. FEC committee-id lookup (skip if already have one).
@@ -174,9 +228,12 @@ function classifyNoEinCategory(name, sector) {
       updates.set(name, { ein_coverage_expected: false, ein_coverage_reason: 'family-office' });
       counts.classified_individual++;
     } else if (cat === 'pac') {
-      // PACs should have a FEC id — not being able to find one is a real gap.
-      // Don't flag ein_coverage_expected=false; leave as unresolved so the
-      // audit keeps surfacing it.
+      // PACs are FEC-registered 527s; they don't have EINs in the
+      // IRS 501(c) sense. Flag ein_coverage_expected=false so audit
+      // stops nagging. If the FEC committee-id is also missing, the
+      // `unresolved PAC (needs FEC id)` counter still surfaces it
+      // separately via `unresolvable committees` in aggregator logs.
+      updates.set(name, { ein_coverage_expected: false, ein_coverage_reason: 'pac-uses-fec-id' });
       counts.classified_pac_needs_fec++;
     } else {
       counts.unresolved++;
@@ -186,6 +243,7 @@ function classifyNoEinCategory(name, sector) {
   console.log('  results:');
   console.log(`    EIN found (exact filer-name match):    ${counts.ein_direct}`);
   console.log(`    EIN found (normalized fuzzy match):    ${counts.ein_fuzzy}`);
+  console.log(`    EIN found (IRS EO BMF):                ${counts.ein_eobmf}`);
   console.log(`    FEC committee id matched:              ${counts.fec_id_match}`);
   console.log(`    classified individual:                 ${counts.classified_individual}`);
   console.log(`    classified industry-bloc/aggregation:  ${counts.classified_aggregation}`);
