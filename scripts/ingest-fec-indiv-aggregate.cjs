@@ -94,6 +94,45 @@ async function buildPoiSet() {
       if (m) poi.add(m[1]);
     }
   }
+
+  // Extension (2026-04-20): the pas2-only POI excluded candidate
+  // campaign committees that only RECEIVE donations — Bernie's 2020
+  // presidential committee C00577130, Trump campaign committees, etc.
+  // Widen the set to also include:
+  //   a) every principal_cmte_id in FEC candidate-master.jsonl —
+  //      covers all federal candidate campaign committees for every
+  //      cycle the master file spans (1988 → present)
+  //   b) every cmte_id explicitly registered in the vault's
+  //      fec-committee-registry.json — catches affiliate and custom
+  //      mappings we've made
+  // Before fix: 20K aggregated 2020 rows total. After: all campaign
+  // committees with ≥$200 itemized contributions are retained.
+  try {
+    const candidateMaster = path.join(DERIVED_ROOT, 'candidate-master.jsonl');
+    if (fs.existsSync(candidateMaster)) {
+      const rl2 = readline.createInterface({
+        input: fs.createReadStream(candidateMaster, { encoding: 'utf-8' }),
+        crlfDelay: Infinity,
+      });
+      for await (const line of rl2) {
+        if (!line) continue;
+        const m = line.match(/"principal_cmte_id":"([^"]+)"/);
+        if (m && m[1]) poi.add(m[1]);
+      }
+    }
+  } catch {}
+
+  try {
+    const REPO_ROOT = path.resolve(__dirname, '..');
+    const regFile = path.join(REPO_ROOT, 'data', 'fec-committee-registry.json');
+    if (fs.existsSync(regFile)) {
+      const reg = JSON.parse(fs.readFileSync(regFile, 'utf-8'));
+      for (const cid of Object.keys(reg)) {
+        if (/^C\d{8}$/.test(cid)) poi.add(cid);
+      }
+    }
+  } catch {}
+
   return poi;
 }
 

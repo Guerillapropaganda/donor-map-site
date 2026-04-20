@@ -1,19 +1,4 @@
 {
-  "0": {
-    "committee_id": "0",
-    "fec_name": "BUSH, GEORGE",
-    "committee_type": null,
-    "committee_type_full": null,
-    "designation": null,
-    "designation_full": null,
-    "organization_type": null,
-    "connected_organization_name": null,
-    "candidate_ids": [],
-    "cycles": [],
-    "vault_profile": "content/Politicians/Republicans/Presidential/George W Bush/_George W Bush Master Profile.md",
-    "mapping_reason": "politician campaign committee — 22207071/REP cycle 2",
-    "mapped_at": "2026-04-20T17:34:24.012Z"
-  },
   "C00865444": {
     "committee_id": "C00865444",
     "fec_name": "WINSENATE",
