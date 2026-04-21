@@ -1,7 +1,7 @@
 ---
 title: Center for American Progress
 type: donor
-content-readiness: ready
+content-readiness: data-complete
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 2
 parent: null
@@ -53,9 +53,10 @@ lobbying-spend: 3338250
 lobbying-filings: 125
 source-types:
   - Courts
+  - FEC
   - LDA
   - SEC
-corroboration-count: 3
+corroboration-count: 4
 known-gaps:
   - No FEC contribution data
   - No mapped relationships
@@ -71,6 +72,8 @@ employee-contributions: 839
 employee-contributions-total: 1065697
 employee-donor-count: 254
 politicians-funded: "[[DCCC - Democratic Congressional Campaign Committee]], [[Emily's List]], [[League of Conservation Voters]], [[_Jimmy Panetta Master Profile]], [[Bob Casey]], [[ActBlue]], [[_Dave Min Master Profile]], [[_Deb Haaland Master Profile]], [[_Judy Chu Master Profile]], [[_Lauren Underwood Master Profile]], [[Indivisible Action]], [[_Elissa Slotkin Master Profile]], [[_Yassamin Ansari Master Profile]], [[Catherine Cortez Masto]], [[_Kamala Harris Master Profile]], [[Congressional Progressive Caucus PAC]], [[_Chris Pappas Master Profile]], [[_Susie Lee Master Profile]], [[_Josh Harder Master Profile]], [[_Jon Ossoff Master Profile]], [[_Mark Takano Master Profile]], [[_Martin Heinrich Master Profile]], [[Barbara Lee]], [[_Alex Padilla Master Profile]], [[PRIORITIES USA ACTION]], [[_Gabe Amo Master Profile]], [[Mark Kelly]], [[_Cory Booker Master Profile]], [[_Tammy Baldwin Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Ted Lieu Master Profile]], [[Working Families Party PAC]], [[_Josh Riley Master Profile]], [[_Joe Neguse Master Profile]], [[_Jamie Raskin Master Profile]], [[Ab Pac]], [[Susie Lee]], [[Judy Chu]], [[Tammy Baldwin]], [[Lauren Underwood]], [[Elissa Slotkin]], [[Martin Heinrich]], [[Joe Neguse]], [[Dave Min]], [[Jon Ossoff]], [[Mark Takano]], [[Yassamin Ansari]], [[Chris Pappas]], [[Kamala Harris]], [[Jimmy Panetta]], [[Alex Padilla]], [[Cory Booker]], [[Ted Lieu]], [[Gabe Amo]], [[Jamie Raskin]], [[Deb Haaland]], [[Josh Harder]], [[Josh Riley]], [[Hopewell Fund]], [[Priorities USA Action]], [[AB PAC]]"
+total-political-spend: "$2.6M"
+spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2018, 2019, 2020, 2022"
 ---
 
 

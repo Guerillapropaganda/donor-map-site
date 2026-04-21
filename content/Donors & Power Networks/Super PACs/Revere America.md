@@ -24,6 +24,8 @@ employee-donor-count: 42
 source-types:
   - FEC
 last-enriched: 2026-04-21
+total-political-spend: "$40K"
+spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2010"
 ---
 
 

@@ -36,6 +36,8 @@ checklist-na:
   - "regulatory: auto: entity type \"think-tank\" does not typically have EPA/OSHA records (2026-04-15)"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-20
+total-political-spend: "$8.4M"
+spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2018, 2019, 2020, 2021, 2022, 2023, 2024"
 ---
 
 #think-tank #conservative #free-market #defense #economics #education #Stanford #class-analysis

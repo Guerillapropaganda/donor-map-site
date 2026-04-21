@@ -1,7 +1,7 @@
 ---
 title: JPAC - Jewish Public Affairs Committee of California
 type: donor
-content-readiness: ready
+content-readiness: data-complete
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -36,6 +36,8 @@ source-types:
   - FEC
 known-gaps:
   - "No lobbying disclosure data"
+total-political-spend: "$32K"
+spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2022, 2024"
 ---
 
 

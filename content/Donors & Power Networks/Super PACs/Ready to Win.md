@@ -20,6 +20,8 @@ checklist-na:
 urls-first-triaged: "2026-04-15"
 total-spent: 34
 last-enriched: 2026-04-21
+total-political-spend: "$3.2M"
+spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2022, 2024"
 ---
 
 

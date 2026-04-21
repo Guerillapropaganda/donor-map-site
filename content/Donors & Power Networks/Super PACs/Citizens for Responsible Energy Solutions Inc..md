@@ -25,6 +25,8 @@ ofac-programs:
   - RUSSIA-EO14024
 source-types:
   - FEC
+total-political-spend: "$146K"
+spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2022"
 ---
 
 

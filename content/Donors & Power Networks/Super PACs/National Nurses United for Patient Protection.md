@@ -28,6 +28,8 @@ ofac-programs:
   - UKRAINE-EO13661] [CYBER2] [ELECTION-EO13848
 source-types:
   - FEC
+total-political-spend: "$17.3M"
+spend-source: "aggregated from canonical FEC/IRS edge stores across 2 store(s), cycles 2010, 2012, 2016, 2020, 2022, 2024, 2026"
 ---
 
 

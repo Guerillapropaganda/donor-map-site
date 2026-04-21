@@ -20,6 +20,8 @@ urls-first-triaged: "2026-04-15"
 cash-on-hand: 6397
 politicians-funded: "[[John Boozman]], [[Patrick McHenry]], [[Markwayne Mullin]], [[Erin Houchin]], [[Eric Schmitt]]"
 last-enriched: 2026-04-21
+total-political-spend: "$1.3M"
+spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2022"
 ---
 
 

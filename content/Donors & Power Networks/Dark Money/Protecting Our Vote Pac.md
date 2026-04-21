@@ -23,6 +23,8 @@ source-types:
 known-gaps:
   - "No lobbying disclosure data"
 last-enriched: 2026-04-21
+total-political-spend: "$698K"
+spend-source: "aggregated from canonical FEC/IRS edge stores across 2 store(s), cycles 2012, 2016, 2018, 2020, 2022, 2024"
 ---
 
 
