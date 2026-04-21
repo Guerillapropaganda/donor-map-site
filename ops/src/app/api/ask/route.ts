@@ -912,31 +912,54 @@ function findBioguide(title: string): string | null {
 
 function showVotingRecord(bioguide: string, title: string, question: string): AskResult {
   const votesPath = path.join(REPO_ROOT, "data", "votes.jsonl")
-  const posPath = path.join(REPO_ROOT, "data", "legislator-positions.jsonl")
+  const mergedPositions = path.join(REPO_ROOT, "data", "legislator-positions.jsonl")
+  const splitDir = path.join(REPO_ROOT, "data", "legislator-positions")
+  // Prefer merged file if present (local dev / scraper runtime). Fall
+  // back to the split directory (committed state, files split by
+  // congress to stay under GitHub's 100MB per-file limit).
+  const positionSources: string[] = []
+  if (fs.existsSync(mergedPositions) && fs.statSync(mergedPositions).size > 0) {
+    positionSources.push(mergedPositions)
+  } else if (fs.existsSync(splitDir)) {
+    for (const f of fs.readdirSync(splitDir).filter((n) => n.endsWith(".jsonl")).sort()) {
+      positionSources.push(path.join(splitDir, f))
+    }
+  }
+  if (positionSources.length === 0) {
+    return {
+      question, intent: "voting_record", resolved_title: title,
+      total: 0, rows: [],
+      note: `No voting-record data found. Expected either data/legislator-positions.jsonl or data/legislator-positions/{115..119}.jsonl under the repo root. Run ingest-congress-votes.cjs / scrape-missing-votes.cjs to populate.`
+    } as AskResult
+  }
   const voteMeta = new Map<string, { chamber: string; congress: number; session: number; date?: string; bill?: { type: string; number: string } }>()
   for (const line of fs.readFileSync(votesPath, "utf-8").split("\n")) {
     if (!line.trim()) continue
     try { const v = JSON.parse(line); voteMeta.set(v.vote_id, v) } catch {}
   }
   const positions: Array<{ vote_id: string; position: string; party?: string }> = []
-  for (const line of fs.readFileSync(posPath, "utf-8").split("\n")) {
-    if (!line.trim()) continue
-    try { const p = JSON.parse(line); if (p.bioguide === bioguide) positions.push(p) } catch {}
+  for (const src of positionSources) {
+    for (const line of fs.readFileSync(src, "utf-8").split("\n")) {
+      if (!line.trim()) continue
+      try { const p = JSON.parse(line); if (p.bioguide === bioguide) positions.push(p) } catch {}
+    }
   }
 
   // party loyalty: compare this member's Y/N against their party's majority
   const byVote = new Map<string, { R?: { Y: number; N: number }; D?: { Y: number; N: number }; I?: { Y: number; N: number } }>()
-  for (const line of fs.readFileSync(posPath, "utf-8").split("\n")) {
-    if (!line.trim()) continue
-    try {
-      const p = JSON.parse(line)
-      if (!byVote.has(p.vote_id)) byVote.set(p.vote_id, {})
-      const tally = byVote.get(p.vote_id)!
-      const norm = p.position === "Aye" || p.position === "Yea" ? "Y" : p.position === "No" || p.position === "Nay" ? "N" : null
-      if (!norm) continue
-      if (!tally[p.party as "R" | "D" | "I"]) (tally as any)[p.party] = { Y: 0, N: 0 }
-      ;(tally as any)[p.party][norm]++
-    } catch {}
+  for (const src of positionSources) {
+    for (const line of fs.readFileSync(src, "utf-8").split("\n")) {
+      if (!line.trim()) continue
+      try {
+        const p = JSON.parse(line)
+        if (!byVote.has(p.vote_id)) byVote.set(p.vote_id, {})
+        const tally = byVote.get(p.vote_id)!
+        const norm = p.position === "Aye" || p.position === "Yea" ? "Y" : p.position === "No" || p.position === "Nay" ? "N" : null
+        if (!norm) continue
+        if (!tally[p.party as "R" | "D" | "I"]) (tally as any)[p.party] = { Y: 0, N: 0 }
+        ;(tally as any)[p.party][norm]++
+      } catch {}
+    }
   }
 
   let y = 0, n = 0, withParty = 0, devCount = 0
