@@ -21,6 +21,8 @@ total-spent: 7450
 contributions-to-committees: 3950
 politicians-funded: "[[Marjorie Taylor Greene]]"
 last-enriched: 2026-04-21
+total-political-spend: "$150K"
+spend-source: "aggregated from canonical FEC/IRS edge stores across 2 store(s), cycles 2022"
 ---
 
 

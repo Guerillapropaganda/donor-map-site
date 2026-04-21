@@ -1,7 +1,7 @@
 ---
 title: American Principles Fund
 type: donor
-content-readiness: ready
+content-readiness: data-complete
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -22,6 +22,8 @@ cash-on-hand: 510
 source-types:
   - FEC
 last-enriched: 2026-04-21
+total-political-spend: "$313K"
+spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026"
 ---
 
 

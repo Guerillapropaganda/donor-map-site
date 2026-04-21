@@ -48,6 +48,8 @@ fara-countries:
 checklist-na:
   - "regulatory: auto: entity type \"think-tank\" does not typically have EPA/OSHA records (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+total-political-spend: "$650K"
+spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2022, 2023, 2024"
 ---
 
 #think-tank #liberal #safety-net #anti-poverty #tax-policy #medicaid #SNAP #EITC #class-analysis

@@ -18,6 +18,8 @@ ofac-programs:
   - IRAN-EO13846
 urls-first-triaged: "2026-04-15"
 politicians-funded: "[[Club for Growth]]"
+total-political-spend: "$752K"
+spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2022"
 ---
 
 

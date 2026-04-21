@@ -20,6 +20,8 @@ checklist-na:
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21
+total-political-spend: "$83.5M"
+spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 1980, 1982, 1984, 1986, 1988, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026"
 ---
 
 

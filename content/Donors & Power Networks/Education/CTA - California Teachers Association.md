@@ -38,6 +38,8 @@ source-types:
 corroboration-count: 3
 known-gaps:
   - "No SEC corporate filings"
+total-political-spend: "$6K"
+spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2022"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: Working for US Political Action Committee INC
 type: donor
-content-readiness: ready
+content-readiness: data-complete
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -22,6 +22,8 @@ total-spent: 341
 source-types:
   - FEC
 last-enriched: 2026-04-21
+total-political-spend: "$678K"
+spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2010, 2012, 2014"
 ---
 
 

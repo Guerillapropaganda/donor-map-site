@@ -35,6 +35,8 @@ source-types:
 corroboration-count: 3
 known-gaps:
   - "No lobbying disclosure data"
+total-political-spend: "$31K"
+spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 1990, 1992, 1998, 2000, 2002, 2004"
 ---
 
 

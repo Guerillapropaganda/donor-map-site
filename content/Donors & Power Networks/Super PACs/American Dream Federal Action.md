@@ -1,7 +1,7 @@
 ---
 title: American Dream Federal Action
 type: donor
-content-readiness: ready
+content-readiness: data-complete
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -23,6 +23,8 @@ related: "[[Katie Britt]]"
 source-types:
   - FEC
 last-enriched: 2026-04-21
+total-political-spend: "$9.4M"
+spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2022"
 ---
 
 

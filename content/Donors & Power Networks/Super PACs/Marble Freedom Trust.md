@@ -25,6 +25,8 @@ checklist-na:
 urls-first-triaged: "2026-04-15"
 known-gaps:
   - "No FEC contribution data"
+total-political-spend: "$994.5M"
+spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2021, 2022, 2023, 2024, 2025"
 ---
 
 

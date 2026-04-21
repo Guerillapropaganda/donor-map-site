@@ -25,6 +25,8 @@ ofac-programs:
   - "IRAN-TRA"
 source-types:
   - FEC
+total-political-spend: "$982K"
+spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 1992, 2000, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018"
 ---
 
 

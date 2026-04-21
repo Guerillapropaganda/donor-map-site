@@ -1,7 +1,7 @@
 ---
 title: End the Gridlock
 type: donor
-content-readiness: ready
+content-readiness: data-complete
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -22,6 +22,8 @@ total-spent: 2343
 source-types:
   - FEC
 last-enriched: 2026-04-21
+total-political-spend: "$1.7M"
+spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2012"
 ---
 
 

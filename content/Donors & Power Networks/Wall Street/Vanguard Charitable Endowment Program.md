@@ -1,7 +1,7 @@
 ---
 title: Vanguard Charitable Endowment Program
 type: donor
-content-readiness: ready
+content-readiness: data-complete
 last-updated: 2026-04-18T00:00:00.000Z
 sector: Wall Street
 entity-type: Donor-Advised Fund
@@ -15,6 +15,8 @@ known-gaps:
   - "No lobbying disclosure data"
   - "No mapped relationships"
 last-enriched: 2026-04-21
+total-political-spend: "$737.7M"
+spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2021, 2022, 2023"
 ---
 
 

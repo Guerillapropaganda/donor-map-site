@@ -1,7 +1,7 @@
 ---
 title: United We Win Super PAC
 type: donor
-content-readiness: ready
+content-readiness: data-complete
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -22,6 +22,8 @@ total-spent: 2246
 source-types:
   - FEC
 last-enriched: 2026-04-21
+total-political-spend: "$937K"
+spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2020"
 ---
 
 

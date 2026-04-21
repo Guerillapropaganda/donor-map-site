@@ -2,7 +2,7 @@
 title: Put Utah First PAC
 type: donor
 ein: "873204548"
-content-readiness: ready
+content-readiness: data-complete
 sector: Dark Money
 entity-type: Super PAC
 committee-type: Super PAC (Independent Expenditure-Only)
@@ -24,6 +24,8 @@ source-types:
 known-gaps:
   - "No lobbying disclosure data"
 last-enriched: 2026-04-21
+total-political-spend: "$4.6M"
+spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2022"
 ---
 
 
