@@ -1034,10 +1034,16 @@ function normalizeToTitleCase(name: string): string[] {
   return Array.from(variants)
 }
 
-function findBioguide(title: string): string | null {
+// Returns the matched profile's {title, bioguide} if any profile in
+// content/Politicians matches the queried name. profileTitle is set
+// whenever a profile with a matching title exists, even if that profile
+// has no bioguide-id — the caller can distinguish "not in Congress"
+// (profile exists, no bioguide) from "no profile at all" (null title).
+function findPoliticianProfile(title: string): { profileTitle: string | null; bioguide: string | null } {
   const root = path.join(REPO_ROOT, "content", "Politicians")
   const candidates = normalizeToTitleCase(title)
   const stack = [root]
+  let matchedTitle: string | null = null
   while (stack.length) {
     const dir = stack.pop() as string
     let entries
@@ -1052,16 +1058,46 @@ function findBioguide(title: string): string | null {
         const m = text.match(/^---\n([\s\S]*?)\n---/)
         if (!m) continue
         const tm = m[1].match(/\btitle:\s*['"]?([^'"\n]+?)['"]?\s*\n/)
-        const bm = m[1].match(/\bbioguide-id:\s*['"]?([A-Z0-9]+)['"]?/)
-        if (!tm || !bm) continue
+        if (!tm) continue
         const pt = tm[1].trim()
-        for (const cand of candidates) {
-          if (pt === cand || pt.replace(" Master Profile", "") === cand) return bm[1]
-        }
+        const hit = candidates.some((c) => pt === c || pt.replace(" Master Profile", "") === c)
+        if (!hit) continue
+        const bm = m[1].match(/\bbioguide-id:\s*['"]?([A-Z0-9]+)['"]?/)
+        return { profileTitle: pt, bioguide: bm ? bm[1] : null }
       }
     }
   }
-  return null
+  return { profileTitle: matchedTitle, bioguide: null }
+}
+
+function findBioguide(title: string): string | null {
+  return findPoliticianProfile(title).bioguide
+}
+
+// Cache legislator-registry lookups to describe a bioguide's tenure.
+// Used by the voting_record handler when positions.length === 0 to
+// explain "our vote coverage is 115th+; this legislator served earlier".
+let _registryByBio: Map<string, { name: string; first?: string; last?: string; end?: string; start?: string; chamber?: string }> | null = null
+function registryFor(bioguide: string) {
+  if (!_registryByBio) {
+    _registryByBio = new Map()
+    const p = path.join(REPO_ROOT, "data", "legislator-registry.jsonl")
+    if (fs.existsSync(p)) {
+      for (const line of fs.readFileSync(p, "utf-8").split("\n")) {
+        if (!line.trim()) continue
+        try {
+          const r = JSON.parse(line)
+          _registryByBio.set(r.bioguide, {
+            name: r.name_official || `${r.name_first} ${r.name_last}`,
+            first: r.name_first, last: r.name_last,
+            end: r.current_term?.end, start: r.current_term?.start,
+            chamber: r.current_term?.chamber,
+          })
+        } catch {}
+      }
+    }
+  }
+  return _registryByBio.get(bioguide) || null
 }
 
 // ─── Voting record ────────────────────────────────────────────────────
@@ -1222,6 +1258,24 @@ function showVotingRecord(bioguide: string, title: string, question: string): As
     return String(vb?.date || "").localeCompare(String(va?.date || ""))
   })
 
+  if (positions.length === 0) {
+    // Bioguide is valid but no positions landed for it in our window.
+    // Describe their tenure from the legislator registry so the user
+    // understands this is coverage, not a broken lookup.
+    const reg = registryFor(bioguide)
+    let tenure = ""
+    if (reg) {
+      const startYear = reg.start ? reg.start.slice(0, 4) : "?"
+      const endYear = reg.end ? reg.end.slice(0, 4) : "?"
+      const chamber = reg.chamber ? reg.chamber.charAt(0).toUpperCase() + reg.chamber.slice(1) : "Congress"
+      tenure = ` Registry shows a ${chamber} term ${startYear}–${endYear}.`
+    }
+    return {
+      question, intent: "voting_record", resolved_title: title,
+      total: 0, rows: [],
+      note: `${title} has a bioguide-id (${bioguide}) but no roll-call positions in our dataset. Vote coverage currently spans the 115th–119th Congress (Jan 2017–present).${tenure} Expanding backward to earlier Congresses is on the roadmap.`,
+    } as AskResult
+  }
   return {
     question,
     intent: "voting_record",
@@ -2571,9 +2625,23 @@ async function handleQuestion(question: string): Promise<AskResult> {
   }
   if (c.intent === "voting_record") {
     const name = resolveTitle(c.subjectName as string)
-    const bio = findBioguide(name.title)
-    if (!bio) return finalize({ question, intent: c.intent, resolved_title: name.title, did_you_mean: name.candidates.slice(0, 5), total: 0, rows: [], note: `No bioguide-id found for "${name.title}".` })
-    return finalize(showVotingRecord(bio, name.title, question))
+    const prof = findPoliticianProfile(name.title)
+    // Three empty states, distinguished so the user gets useful feedback:
+    //   1. No profile at all → probably a misspelling or someone we haven't
+    //      written up; offer did-you-mean candidates.
+    //   2. Profile exists, no bioguide-id → never served in Congress
+    //      (Biden cabinet, governors who didn't come from Congress, etc.).
+    //      Voting records are structurally N/A — say so explicitly.
+    //   3. Profile + bioguide, but 0 positions → bioguide is real but their
+    //      tenure falls outside our 115th–119th Congress window. Tell the
+    //      user when they served instead of "cast 0 votes".
+    if (!prof.profileTitle) {
+      return finalize({ question, intent: c.intent, resolved_title: name.title, did_you_mean: name.candidates.slice(0, 5), total: 0, rows: [], note: `No profile found for "${name.title}". ${name.candidates.length ? "Did you mean one of: " + name.candidates.slice(0, 5).join(", ") + "?" : ""}`.trim() })
+    }
+    if (!prof.bioguide) {
+      return finalize({ question, intent: c.intent, resolved_title: prof.profileTitle, total: 0, rows: [], note: `${prof.profileTitle} isn't a federal legislator in our records — voting records apply only to members of Congress. (Cabinet secretaries, governors, and other appointed/elected officials outside Congress don't cast roll-call votes.)` })
+    }
+    return finalize(showVotingRecord(prof.bioguide, prof.profileTitle, question))
   }
 
   // Phase 2 intents — policy-dimension queries backed by the three
