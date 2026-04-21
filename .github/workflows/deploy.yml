@@ -30,6 +30,14 @@ jobs:
       - name: Install Dependencies
         run: npm ci
 
+      - name: Rebuild derived artifacts required by the build
+        # Some data files are imported statically by Quartz/ops components but
+        # are too large to commit (>100MB GitHub cap) or are regenerable from
+        # canonical stores. This manifest rebuilds them from committed inputs.
+        # Add new entries to scripts/ci-prebuild.cjs when you introduce a new
+        # derived-but-required artifact.
+        run: node scripts/ci-prebuild.cjs
+
       - name: Build Quartz
         run: npx quartz build
         env:
