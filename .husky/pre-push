@@ -23,6 +23,12 @@ fi
 
 echo "--- pre-push gate ---"
 echo "  -> tsc --noEmit (quartz only, ops excluded)"
+# Raise Node heap so tsc doesn't OOM when it resolves the 128MB
+# data/relationships-per-profile.json import (rebuilt by ci-prebuild
+# and imported by quartz/components/ProfileWidget.tsx + DiscoveryPanel.tsx).
+# Default ~2GB heap crashes with "Ineffective mark-compacts near heap limit".
+# 8GB gives comfortable headroom on dev machines; CI matches.
+export NODE_OPTIONS="${NODE_OPTIONS:---max-old-space-size=8192}"
 TS_OUTPUT=$(npx tsc --noEmit 2>&1)
 TS_EXIT=$?
 if [ $TS_EXIT -ne 0 ]; then
