@@ -962,8 +962,70 @@ function showVotingRecord(bioguide: string, title: string, question: string): As
     }
   }
 
+  // Build bill_id → title map from data/bills.jsonl. Done once per
+  // request. ~72MB file → ~141K bill records with titles, loaded
+  // lazily only when voting-record is queried.
+  const billsPath = path.join(REPO_ROOT, "data", "bills.jsonl")
+  const billTitles = new Map<string, string>()  // e.g. "HR.5009-118" → "National Defense Authorization Act..."
+  if (fs.existsSync(billsPath)) {
+    for (const line of fs.readFileSync(billsPath, "utf-8").split("\n")) {
+      if (!line.trim()) continue
+      try {
+        const b = JSON.parse(line)
+        if (b.id && b.title) billTitles.set(b.id, String(b.title))
+      } catch {}
+    }
+  }
+
+  // Human-readable date parser. votes.jsonl stores ISO for House
+  // (2024-10-25T17:05:00-04:00) but Senate pre-2023 uses natural
+  // format ("October 25, 2024, 04:47 PM"). Return "Oct 25, 2024".
+  function humanDate(raw?: string): string {
+    if (!raw) return "—"
+    let d = new Date(raw)
+    if (isNaN(d.getTime())) {
+      // Try Senate format.
+      const m = raw.match(/(\w+ \d+,\s*\d{4})/)
+      if (m) d = new Date(m[1])
+    }
+    if (isNaN(d.getTime())) return raw.slice(0, 20)
+    return d.toLocaleDateString("en-US", { year: "numeric", month: "short", day: "numeric" })
+  }
+
+  // Normalize bill type for lookup (H.R. → HR, H.J.Res → HJRES).
+  function billLookup(bill: { type?: string; number?: string | number } | undefined, congress?: number): { label: string; title?: string; key?: string } {
+    if (!bill || !bill.type || !bill.number) return { label: "—" }
+    const normType = String(bill.type).toUpperCase().replace(/[^A-Z]/g, "")
+    const key = congress ? `${normType}.${bill.number}-${congress}` : null
+    const title = key ? billTitles.get(key) : undefined
+    const label = `${bill.type} ${bill.number}`
+    return { label, title, key: key || undefined }
+  }
+
+  // Translate institutional position → plain English.
+  function plainPosition(pos: string): string {
+    if (pos === "Yea" || pos === "Aye" || pos === "Yes") return "For"
+    if (pos === "Nay" || pos === "No") return "Against"
+    if (pos === "Present") return "Present (abstained)"
+    if (pos === "Not Voting") return "Did not vote"
+    return pos
+  }
+
+  // Decode vote_id like "s269-118.1" → "Senate · Roll Call #269 · 118th Congress, 1st Session"
+  function decodeVoteId(vid: string): string {
+    const m = vid.match(/^([hs])(\d+)-(\d+)\.(\d+)$/)
+    if (!m) return vid
+    const chamber = m[1] === "h" ? "House" : "Senate"
+    const ord = (n: number) => {
+      const s = ["th", "st", "nd", "rd"], v = n % 100
+      return n + (s[(v - 20) % 10] || s[v] || s[0])
+    }
+    const session = m[4] === "1" ? "1st Session" : m[4] === "2" ? "2nd Session" : `Session ${m[4]}`
+    return `${chamber} · Roll Call #${m[2]} · ${ord(Number(m[3]))} Congress, ${session}`
+  }
+
   let y = 0, n = 0, withParty = 0, devCount = 0
-  const deviations: Array<{ vote_id: string; position: string; party_majority: string; date?: string; bill?: string }> = []
+  const deviations: Array<Record<string, unknown>> = []
   for (const p of positions) {
     const norm = p.position === "Aye" || p.position === "Yea" ? "Y" : p.position === "No" || p.position === "Nay" ? "N" : null
     if (!norm) continue
@@ -978,20 +1040,31 @@ function showVotingRecord(bioguide: string, title: string, question: string): As
     if (norm === maj) withParty++
     else {
       devCount++
-      const v = voteMeta.get(p.vote_id)
+      const v = voteMeta.get(p.vote_id) as any
+      const bill = billLookup(v?.bill, v?.congress)
       deviations.push({
-        vote_id: p.vote_id,
-        position: p.position,
-        party_majority: maj,
-        date: v?.date?.slice(0, 10),
-        bill: v?.bill ? `${v.bill.type} ${v.bill.number}` : undefined,
+        date: humanDate(v?.date),
+        vote: plainPosition(p.position),
+        party_voted: maj === "Y" ? "For" : "Against",
+        deviated: true,
+        bill: bill.title ? `${bill.label} — ${bill.title.slice(0, 100)}` : bill.label,
+        question: v?.question || "—",
+        result: v?.result || "—",
+        roll_call: decodeVoteId(p.vote_id),
+        raw_vote_id: p.vote_id,
       })
     }
   }
   const substantive = y + n
   const loyalty = substantive > 0 ? ((withParty / substantive) * 100).toFixed(1) + "%" : "—"
 
-  deviations.sort((a, b) => (b.date || "").localeCompare(a.date || ""))
+  deviations.sort((a, b) => {
+    // Sort by a secondary sortable-ISO from raw_vote_id (extracts "s269-118.1")
+    // using vote meta. Prefer the ISO date from voteMeta for accuracy.
+    const va = voteMeta.get(a.raw_vote_id as string)
+    const vb = voteMeta.get(b.raw_vote_id as string)
+    return String(vb?.date || "").localeCompare(String(va?.date || ""))
+  })
 
   return {
     question,
@@ -999,7 +1072,7 @@ function showVotingRecord(bioguide: string, title: string, question: string): As
     resolved_title: title,
     total: positions.length,
     rows: deviations.slice(0, 25),
-    summary: `${title} (bioguide ${bioguide}): ${positions.length.toLocaleString()} roll-calls tracked, ${substantive} substantive Y/N, party-line loyalty ${loyalty}, ${devCount} deviations. Showing ${Math.min(25, deviations.length)} most-recent deviations.`,
+    summary: `${title} cast ${positions.length.toLocaleString()} recorded votes in Congress. Of those, ${substantive} were substantive Yes/No votes; they voted with their party's majority ${withParty.toLocaleString()} times (${loyalty} loyalty) and broke with the majority on ${devCount} votes. Showing the ${Math.min(25, deviations.length)} most-recent times they broke from party — the "signature" story in a voting record. Each row shows the bill, how they voted vs. the party majority, and the vote outcome.`,
   }
 }
 
