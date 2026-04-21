@@ -1,7 +1,7 @@
 ---
 title: "Jack Posobiec"
 type: media-profile
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 2
 parent: null

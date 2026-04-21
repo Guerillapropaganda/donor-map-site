@@ -1,7 +1,7 @@
 ---
 title: Mike Rounds
 type: politician
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-19
 source-tier: 1
 party: Republican
@@ -16,9 +16,10 @@ website: https://www.rounds.senate.gov
 phone: 202-224-5842
 source-types:
   - Congress
+  - FEC
 known-gaps:
-  - No direct individual contribution totals
-  - STOCK Act trades have no ticker (all unlabeled in the data)
+  - "No voting record data"
+  - "No mapped relationships"
 central-thesis: "Mike Rounds is the defense appropriations senator who delivers through NDAA insertion: 5 of his 9 enacted bills are NDAA provisions, Armed Forces is his top legislative area, and the full defense contractor slate (Northrop, Lockheed, BAE, L3Harris, Leidos, Raytheon, General Dynamics) funds the Armed Services member. South Dakota adds two layers: the finance industry domiciled there to escape interest rate caps (Citigroup, Morgan Stanley, Bank of America) and the farm economy requiring agricultural subsidies. The STOCK Act trades ($5.7M-$26.4M) are the largest by estimated value in the Republican Senate cohort."
 editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 stock-trades: 9
@@ -30,6 +31,7 @@ bills-enacted: 9
 top-policy-area: Armed Forces and National Security
 top-donors: "[[WinRed]], [[Northrop Grumman]], [[Morgan Stanley]], [[iHeartMedia]], [[BAE Systems]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Microsoft]], [[L3Harris Technologies]], [[AT&T - WarnerMedia]], [[Walmart - Walton Family]], [[NextEra Energy]], [[National Multifamily Housing Council]], [[American Hospital Association PAC]], [[Republican Jewish Coalition]], [[Common Sense for America PAC]], [[Amgen Inc]], [[Associated General Contractors of America Political Action Committee]], [[Bank of America]], [[Lockheed Martin]], [[Leidos]], [[General Dynamics]], [[Coinbase]], [[Google - Alphabet]], [[Citigroup]], [[NORPAC]], [[Raytheon (RTX)]], [[Comcast - NBCUniversal]], [[National Association of Realtors]], [[AIPAC - American Israel Public Affairs Committee]], [[Duke Energy]], [[National Rifle Association]], [[Chevron]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[American Chemistry Council, INC]], [[NRSC - National Republican Senatorial Committee]], [[AT&T]]"
 last-enriched: 2026-04-20
+corroboration-count: 2
 ---
 
 

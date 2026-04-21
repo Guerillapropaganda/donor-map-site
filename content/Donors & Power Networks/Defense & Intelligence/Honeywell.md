@@ -1,7 +1,7 @@
 ---
 title: Honeywell International
 type: corporation
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 2
 parent: null
