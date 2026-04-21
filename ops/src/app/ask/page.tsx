@@ -344,6 +344,89 @@ export default function AskPage() {
         </div>
       </details>
 
+      <details style={styles.howtoDetails}>
+        <summary style={styles.howtoSummary}>What's in the data — coverage & sources (click to expand)</summary>
+        <div style={styles.howtoBody}>
+          <div style={styles.howtoSection}>
+            <div style={styles.howtoHeading}>Query subjects you can filter</div>
+            <div>
+              Every answer card you see below is built from structured records in these subjects. You can address them directly in Ask (Phase-2 intents below), or the engine routes natural-language questions to them for you.
+              <ul style={styles.howtoList}>
+                <li><strong>entities</strong> — ~2,200 vault profiles (politicians, donors, corps, nonprofits, PACs, media figures). Filter by <code>entity_type</code>, <code>sector</code>, <code>class_position</code>.</li>
+                <li><strong>edges</strong> — ~2.3M relationships (monetary, affiliation, sponsorship, offshore, etc.). Filter by <code>from</code>, <code>to</code>, <code>type</code>, <code>source</code>, <code>min_amount</code>, <code>cycle</code>.</li>
+                <li><strong>events</strong> — floor votes, filings, obstruction events (from events-store).</li>
+                <li><strong>bills</strong> — 141,803 bills, 108th–119th Congress. Filter by <code>congress</code>, <code>policy_area</code>, <code>became_law</code>, <code>sponsor_bioguide</code>, <code>subject</code>.</li>
+                <li><strong>executive_actions</strong> — 12,198 EOs + proclamations + directives, 2000–2026. Filter by <code>president</code>, <code>year</code>, <code>type</code>.</li>
+                <li><strong>offshore_entities</strong> — 401 shell companies + officers from Panama/Paradise/Pandora/Offshore Leaks, linked to vault entities. Filter by <code>linked_vault_entity</code>, <code>jurisdiction</code>, <code>leak</code>.</li>
+                <li><strong>votes</strong> — 9,639 roll calls across 115th–119th Congress. Filter by <code>congress</code>, <code>chamber</code>, <code>bill_type</code>, <code>bill_number</code>, <code>result</code>.</li>
+                <li><strong>positions</strong> — 2.5M legislator vote positions. Filter by <code>bioguide</code>, <code>vote_id</code>, <code>position</code>, <code>party</code>, <code>congress</code>.</li>
+              </ul>
+            </div>
+          </div>
+
+          <div style={styles.howtoSection}>
+            <div style={styles.howtoHeading}>New Phase-2 question shapes</div>
+            <div>
+              Recently added. These resolve to the new query subjects above.
+              <ul style={styles.howtoList}>
+                <li><strong>bills sponsored by [legislator]</strong> — full sponsorship list for any politician, with enacted-law flags</li>
+                <li><strong>[health|energy|taxation|defense|labor|crypto|…] bills</strong> — bills in a policy area, across all 12 Congresses</li>
+                <li><strong>[Trump|Biden|Obama|Clinton|Bush]'s EOs</strong> / <strong>executive orders by [president] [year]</strong> — signed actions with titles + dates</li>
+                <li><strong>offshore holdings of [entity]</strong> / <strong>panama papers [entity]</strong> — ICIJ records linked to vault entities (with disclaimer)</li>
+                <li><strong>votes on H.R. [N]</strong> / <strong>how did congress vote on [bill]</strong> — roll calls tied to a bill</li>
+                <li><strong>[legislator]'s nay votes</strong> / <strong>[legislator]'s yea votes</strong> — filtered positions by legislator</li>
+                <li><strong>roll call [vote-id]</strong> (e.g. s325-118.2) — full detail + party breakdown for a single vote</li>
+              </ul>
+            </div>
+          </div>
+
+          <div style={styles.howtoSection}>
+            <div style={styles.howtoHeading}>Data sources we use</div>
+            <div>
+              Every edge / record traces to one of these upstream pipelines. If you want to audit a number, the edge's <code>source</code> field tells you which source it came from.
+              <ul style={styles.howtoList}>
+                <li><strong>FEC bulk</strong> (fec.gov) — candidate-master, committee-master, individual contributions (1980–2026), committee transfers (1980–2026), PAS2 contributions, operating expenditures, candidate-committee linkages. ~1.4M monetary edges.</li>
+                <li><strong>IRS Form 990 XML</strong> (irs.gov bulk) — nonprofit grants + officers. ~2,200 grant edges + officer affiliations.</li>
+                <li><strong>IRS POFD 8871/8872</strong> (irs.gov Political Org filings) — 527 political org EINs + contributions + expenditures. ~8,100 edges.</li>
+                <li><strong>IRS EO BMF</strong> (irs.gov Exempt Orgs Master File) — nonprofit EIN lookup (2M records indexed).</li>
+                <li><strong>USAspending contracts</strong> (usaspending.gov FY25+FY26 bulk) — federal contract edges + recipient UEIs. ~550 contract edges.</li>
+                <li><strong>GovInfo Bill Status</strong> (govinfo.gov BILLSTATUS bulk) — 141,803 bills sponsor/cosponsor lineage (108th–119th Congress).</li>
+                <li><strong>GovInfo PLAW</strong> (govinfo.gov Public/Private Laws bulk) — 2,132 enacted laws tied back to bills.</li>
+                <li><strong>GovInfo Federal Register</strong> (govinfo.gov FR bulk, 2000–2026) — 12,198 executive actions.</li>
+                <li><strong>ICIJ Offshore Leaks</strong> (offshoreleaks.icij.org bulk) — Panama/Paradise/Pandora/Offshore/Bahamas Papers combined. 412 affiliation edges, 401 shells linked.</li>
+                <li><strong>Congress.gov + senate.gov + clerk.house.gov XML</strong> — roll-call votes, 115th–119th Congress. 9,639 votes + 2.5M positions.</li>
+                <li><strong>unitedstates/congress-legislators</strong> (GitHub) — bioguide ↔ FEC ↔ LIS cross-walks.</li>
+                <li><strong>SEC EDGAR company_tickers.json</strong> — ticker ↔ CIK ↔ title for 11,366 public corps.</li>
+                <li><strong>STOCK Act PTR scraper</strong> — daily scrape of Senate EFDS + House Clerk, congressional trading disclosures.</li>
+                <li><strong>Editorial + community</strong> — frontmatter migrations, manual ops, bidirectional normalizer, relationship-discovery scanner.</li>
+              </ul>
+            </div>
+          </div>
+
+          <div style={styles.howtoSection}>
+            <div style={styles.howtoHeading}>What's NOT in here (yet)</div>
+            <div>
+              Transparency about gaps matters. Current known limits:
+              <ul style={styles.howtoList}>
+                <li>Pre-2016 individual itemized donor contributions (FEC schema changed; older data uses different column layout, ingest not yet extended).</li>
+                <li>State-level campaign finance (~29 state politicians — Abbott, Youngkin, Shapiro, etc. — have no federal FEC record).</li>
+                <li>Lobbying Disclosure Act filings (LDA pipeline broken upstream until June 2026).</li>
+                <li>SEC 13F institutional holdings (what hedge funds own). Not ingested.</li>
+                <li>County-level real-estate records (no aggregator we trust).</li>
+                <li>OpenCorporates private LLC data (needs paid bulk license).</li>
+              </ul>
+            </div>
+          </div>
+
+          <div style={styles.howtoSection}>
+            <div style={styles.howtoHeading}>Freshness</div>
+            <div>
+              STOCK Act trades: refreshed daily 6am via scheduled producer. Everything else: refreshed per-release when upstream bulk files update (~monthly for FEC, weekly for GovInfo, one-shot for ICIJ leaks). Every edge carries <code>first_seen</code> and <code>last_verified</code> timestamps if you need to check staleness.
+            </div>
+          </div>
+        </div>
+      </details>
+
       <div style={styles.row}>
         <input
           style={styles.input}

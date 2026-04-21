@@ -44,6 +44,9 @@ type Intent =
   | "bills_in_policy"          // "health bills", "bills on energy"
   | "executive_orders_by"      // "Trump's EOs", "Biden executive orders 2023"
   | "offshore_for"             // "offshore holdings of X" / "shell companies linked to X"
+  | "votes_on_bill"            // "votes on H.R. 1" / "how did congress vote on Inflation Reduction Act"
+  | "positions_by"             // "Bernie's nay votes" / "Republicans who voted Yea on X"
+  | "vote_detail"              // "roll call s325-118.2" / "show vote h112-117.1"
   | "generic"
 
 interface EntityContext {
@@ -1052,6 +1055,30 @@ function classify(q: string): ClassifiedQuestion {
     || lower.match(/^(.+?)\s+offshore(?:\s+(?:holdings?|records?|exposure))?$/)
     || lower.match(/^(?:panama|paradise|pandora)\s+papers?\s+(.+?)$/)
   if (m) return { intent: "offshore_for", subjectName: m[1] }
+
+  // Phase 2b: Vote detail by roll-call ID — "roll call s325-118.2",
+  // "show vote h112-117.1", "vote s200-118.2"
+  m = lower.match(/^(?:roll call|vote|show vote)\s+([hs]\d+-\d+\.\d+)$/)
+    || lower.match(/^([hs]\d+-\d+\.\d+)$/)
+  if (m) return { intent: "vote_detail", subjectName: m[1] }
+
+  // Phase 2b: Votes on a specific bill — "votes on H.R. 1",
+  // "how did congress vote on H.R. 5009", "votes on HR 1 in 118th"
+  m = lower.match(/^(?:how did (?:congress|the house|the senate) vote on|votes on)\s+([hs]\.?\s*j?\.?\s*(?:res\.?)?\s*\d+)(?:\s+in\s+(\d+)(?:th)?)?$/i)
+  if (m) {
+    const billRef = m[1].toUpperCase().replace(/\s+/g, "").replace(/\./g, "")
+    return { intent: "votes_on_bill", subjectName: billRef, extra: { year: m[2] } }
+  }
+
+  // Phase 2b: Positions by legislator filtered by vote type.
+  //   "Bernie's nay votes" / "AOC yes votes" / "Ted Cruz no votes"
+  //   "Republicans who voted yea on H.R. 1"
+  m = lower.match(/^(.+?)'?s\s+(nay|no|yea|aye|yes)\s+votes?$/)
+  if (m) {
+    const pos = m[2].toLowerCase()
+    const mapped = pos === "nay" || pos === "no" ? "Nay" : pos === "yea" || pos === "aye" || pos === "yes" ? "Yea" : pos
+    return { intent: "positions_by", subjectName: m[1], extra: { topic: mapped } }
+  }
 
   // Leaderboards (no subject entity, just an aggregate)
   if (/^top\s+(donors|givers|funders)($|\s+overall)/.test(lower)) return { intent: "leaderboard", extra: { topic: "top_donors" } }
@@ -2292,6 +2319,60 @@ async function handleQuestion(question: string): Promise<AskResult> {
     const summary = `${name.title} appears in ${r.total} ICIJ Offshore Leaks records across ${leaks.size} leak source${leaks.size === 1 ? '' : 's'} (${[...leaks].slice(0, 4).join(', ')})${jurisdictions.size > 0 ? `; top jurisdictions: ${[...jurisdictions].slice(0, 4).join(', ')}` : ''}. Appearing in these files does not imply wrongdoing.`
     return finalize({ question, intent: c.intent, resolved_title: name.title, total: r.total, rows: r.rows, summary })
   }
+
+  // Phase 2b: Vote detail — "roll call s325-118.2" or raw id
+  if (c.intent === "vote_detail") {
+    const voteId = String(c.subjectName || "").trim()
+    const v = await engine.query({ subject: "votes", filters: { vote_id: voteId, limit: 1 } })
+    if (v.total === 0) return finalize({ question, intent: c.intent, total: 0, rows: [], note: `No vote found with ID ${voteId}. Format: h{N}-{cong}.{sess} (House) or s{N}-{cong}.{sess} (Senate).` })
+    const p = await engine.query({ subject: "positions", filters: { vote_id: voteId, limit: 2000 } })
+    const positions = p.rows as Array<Record<string, unknown>>
+    const tally: Record<string, number> = {}
+    const byParty: Record<string, Record<string, number>> = {}
+    for (const pos of positions) {
+      const k = String(pos.position || "")
+      tally[k] = (tally[k] || 0) + 1
+      const party = String(pos.party || "?")
+      byParty[party] = byParty[party] || {}
+      byParty[party][k] = (byParty[party][k] || 0) + 1
+    }
+    const voteMeta = v.rows[0] as Record<string, unknown>
+    const tallyStr = Object.entries(tally).map(([k, n]) => `${n} ${k}`).join(", ")
+    const summary = `${voteId} (${voteMeta.chamber}, ${voteMeta.date?.toString().slice(0, 10) || 'undated'}): ${voteMeta.result || 'result unknown'}. ${positions.length} positions cast: ${tallyStr}.`
+    return finalize({ question, intent: c.intent, resolved_title: voteId, total: positions.length, rows: [voteMeta, { by_party: byParty }, ...positions.slice(0, 50)], summary })
+  }
+
+  // Phase 2b: Votes on a specific bill
+  if (c.intent === "votes_on_bill") {
+    const billRef = String(c.subjectName || "").toUpperCase()
+    // Parse e.g. "HR1" → type=HR, number=1. Accept "HR.1", "HJRES24", "S870".
+    const m = billRef.match(/^(HR|S|HJRES|SJRES|HCONRES|SCONRES|HRES|SRES)\.?(\d+)$/)
+    if (!m) return finalize({ question, intent: c.intent, total: 0, rows: [], note: `Couldn't parse bill reference "${billRef}". Try formats like "H.R. 1", "S. 870", "H.J.Res. 24".` })
+    const billType = m[1]
+    const billNumber = Number(m[2])
+    const filters: Record<string, unknown> = { bill_type: billType, bill_number: billNumber, limit: 50 }
+    const r = await engine.query({ subject: "votes", filters })
+    const rows = r.rows as Array<Record<string, unknown>>
+    if (r.total === 0) return finalize({ question, intent: c.intent, total: 0, rows: [], note: `No roll calls found on ${billType} ${billNumber}. (Not every bill gets a roll-call vote — many pass by voice vote or die in committee.)` })
+    const latest = rows.sort((a, b) => String(b.date || "").localeCompare(String(a.date || "")))[0]
+    const summary = `${r.total} roll-call vote${r.total === 1 ? '' : 's'} on ${billType} ${billNumber}. Latest: ${latest.vote_id} on ${latest.date?.toString().slice(0, 10)} — ${latest.result}.`
+    return finalize({ question, intent: c.intent, resolved_title: `${billType} ${billNumber}`, total: r.total, rows: r.rows, summary })
+  }
+
+  // Phase 2b: Positions by legislator filtered by vote type
+  if (c.intent === "positions_by") {
+    const name = resolveTitle(c.subjectName as string)
+    const bio = findBioguide(name.title)
+    if (!bio) return finalize({ question, intent: c.intent, resolved_title: name.title, did_you_mean: name.candidates.slice(0, 5), total: 0, rows: [], note: `No bioguide-id for "${name.title}".` })
+    const posFilter = (c.extra as any)?.topic as string | undefined
+    const filters: Record<string, unknown> = { bioguide: bio, limit: 200 }
+    if (posFilter === "Nay") filters.position = ["Nay", "No"]
+    else if (posFilter === "Yea") filters.position = ["Yea", "Aye", "Yes"]
+    const r = await engine.query({ subject: "positions", filters })
+    const summary = `${name.title} cast ${r.total} ${posFilter || "tracked"} position${r.total === 1 ? '' : 's'} across the 115th-119th Congress.`
+    return finalize({ question, intent: c.intent, resolved_title: name.title, total: r.total, rows: r.rows, summary })
+  }
+
   if (c.intent === "leaderboard") return finalize(await handleLeaderboard(c, question, engine))
   if (c.intent === "money_chain") return finalize(await handleMoneyChain(c, question))
   if (c.intent === "edge_between") return finalize(await handleEdgeBetween(c, question, engine))
