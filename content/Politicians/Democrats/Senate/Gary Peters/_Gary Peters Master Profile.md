@@ -49,6 +49,8 @@ donors: "[[AFGE - American Federation of Government Employees]] · [[Insurance I
 bills-enacted: 15
 top-policy-area: Government Operations and Politics
 last-enriched: 2026-04-20
+total-raised: "$70.3M"
+career-total-source: "FEC weball summary (cycles 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

@@ -35,6 +35,8 @@ committees:
   - Middle East and North Africa
   - South and Central Asia
   - "The Administrative State, Regulatory Reform, and Antitrust"
+total-raised: "$2.9M"
+career-total-source: "FEC weball summary (cycles 2024, 2026)"
 ---
 
 

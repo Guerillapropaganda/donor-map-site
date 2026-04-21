@@ -32,6 +32,8 @@ committees:
   - House Committee on Natural Resources
   - "House Committee on Veterans' Affairs"
   - Oversight and Investigations
+total-raised: "$2.7M"
+career-total-source: "FEC weball summary (cycles 2024, 2026)"
 ---
 
 

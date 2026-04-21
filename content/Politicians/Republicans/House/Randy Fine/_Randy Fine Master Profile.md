@@ -33,6 +33,8 @@ committees:
   - House Committee on Foreign Affairs
   - Western Hemisphere
   - Workforce Protections
+total-raised: "$3.7M"
+career-total-source: "FEC weball summary (cycles 2026)"
 ---
 
 

@@ -34,6 +34,8 @@ committees:
   - Readiness
   - Seapower and Projection Forces
   - "Water, Wildlife and Fisheries"
+total-raised: "$3.2M"
+career-total-source: "FEC weball summary (cycles 2024, 2026)"
 ---
 
 

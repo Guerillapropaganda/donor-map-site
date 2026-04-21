@@ -48,6 +48,8 @@ committees:
   - "Senate Committee on Health, Education, Labor, and Pensions"
   - Telecommunications and Media
   - Transportation and Infrastructure
+total-raised: "$10.8M"
+career-total-source: "FEC weball summary (cycles 2024, 2026)"
 ---
 
 

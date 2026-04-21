@@ -38,6 +38,8 @@ committees:
   - Oversight and Investigations
   - South and Central Asia
   - Space and Aeronautics
+total-raised: "$572K"
+career-total-source: "FEC weball summary (cycles 2002, 2026)"
 ---
 
 

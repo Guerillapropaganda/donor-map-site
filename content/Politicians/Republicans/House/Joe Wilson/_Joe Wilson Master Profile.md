@@ -39,6 +39,8 @@ committees:
   - Middle East and North Africa
   - Readiness
   - Strategic Forces
+total-raised: "$18.2M"
+career-total-source: "FEC weball summary (cycles 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

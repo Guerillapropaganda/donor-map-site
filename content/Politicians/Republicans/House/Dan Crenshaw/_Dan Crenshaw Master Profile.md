@@ -56,6 +56,8 @@ bills-data-scope: "Career total synced from auto:congress-legislation (Congress.
 top-policy-area: "Health"
 source-types:
   - Congress
+total-raised: "$44.1M"
+career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

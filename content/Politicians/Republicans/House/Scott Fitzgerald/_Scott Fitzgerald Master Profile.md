@@ -36,6 +36,8 @@ committees:
   - House Committee on the Judiciary
   - Housing and Insurance
   - "The Administrative State, Regulatory Reform, and Antitrust"
+total-raised: "$4.5M"
+career-total-source: "FEC weball summary (cycles 2020, 2022, 2024, 2026)"
 ---
 
 

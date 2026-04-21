@@ -25,6 +25,8 @@ last-enriched: "2026-04-09"
 related: "[[_Susan Collins Master Profile|Susan Collins]] · [[_Graham Platner Master Profile|Graham Platner]] · [[One Nation]] · [[Democratic Senatorial Campaign Committee]] · [[Opioid Litigation and Pharmaceutical Industry Accountability]]"
 donors: "[[Democratic Senatorial Campaign Committee]]"
 urls-first-triaged: "2026-04-15"
+total-raised: "$126K"
+career-total-source: "FEC weball summary (cycles 1994)"
 ---
 
 

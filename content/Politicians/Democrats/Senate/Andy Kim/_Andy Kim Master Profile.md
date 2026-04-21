@@ -47,6 +47,8 @@ committees:
   - Senate Special Committee on Aging
   - "Surface Transportation, Freight, Pipelines, and Safety"
   - Telecommunications and Media
+total-raised: "$13.8M"
+career-total-source: "FEC weball summary (cycles 2024, 2026)"
 ---
 
 

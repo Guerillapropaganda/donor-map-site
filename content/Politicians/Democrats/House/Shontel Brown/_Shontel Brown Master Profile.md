@@ -33,6 +33,8 @@ committees:
   - House Committee on Oversight and Government Reform
   - House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party
   - Nutrition and Foreign Agriculture
+total-raised: "$7.1M"
+career-total-source: "FEC weball summary (cycles 2020, 2022, 2024, 2026)"
 ---
 
 

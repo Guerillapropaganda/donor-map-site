@@ -34,6 +34,8 @@ committees:
   - House Committee on Appropriations
   - House Committee on the Budget
   - "National Security, Department of State, and Related Programs"
+total-raised: "$3.8M"
+career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
 ---
 
 

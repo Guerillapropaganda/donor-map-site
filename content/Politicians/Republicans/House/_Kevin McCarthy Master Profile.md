@@ -36,6 +36,8 @@ bills-sponsored: 14
 bills-cosponsored: 9
 bills-enacted: 0
 top-policy-area: "Congress"
+total-raised: "$104.0M"
+career-total-source: "FEC weball summary (cycles 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

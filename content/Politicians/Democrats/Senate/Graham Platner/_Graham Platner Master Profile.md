@@ -20,6 +20,8 @@ known-gaps:
 related: "[[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[2026 Senate Primary Races]] · [[Warren-Sanders Unity and the Schumer Machine]]"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21
+total-raised: "$12.0M"
+career-total-source: "FEC weball summary (cycles 2026)"
 ---
 
 

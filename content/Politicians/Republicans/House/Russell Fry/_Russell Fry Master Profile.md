@@ -36,6 +36,8 @@ committees:
   - House Committee on Energy and Commerce
   - House Committee on the Judiciary
   - "Immigration Integrity, Security, and Enforcement"
+total-raised: "$4.4M"
+career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
 ---
 
 

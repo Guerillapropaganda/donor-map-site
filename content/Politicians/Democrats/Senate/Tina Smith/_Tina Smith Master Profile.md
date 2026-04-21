@@ -54,6 +54,8 @@ committees:
   - "Senate Committee on Banking, Housing, and Urban Affairs"
   - Senate Committee on Finance
   - Senate Committee on Indian Affairs
+total-raised: "$28.7M"
+career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

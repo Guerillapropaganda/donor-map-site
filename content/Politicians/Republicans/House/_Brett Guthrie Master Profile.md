@@ -31,6 +31,8 @@ top-policy-area: Health
 last-enriched: 2026-04-21
 committees:
   - House Committee on Energy and Commerce
+total-raised: "$21.1M"
+career-total-source: "FEC weball summary (cycles 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

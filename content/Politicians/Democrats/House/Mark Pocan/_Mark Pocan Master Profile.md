@@ -33,6 +33,8 @@ committees:
   - Financial Services and General Government
   - House Committee on Appropriations
   - "Labor, Health and Human Services, Education, and Related Agencies"
+total-raised: "$8.5M"
+career-total-source: "FEC weball summary (cycles 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

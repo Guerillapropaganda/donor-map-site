@@ -32,6 +32,8 @@ committees:
   - House Committee on Ways and Means
   - House Committee on the Budget
   - Trade
+total-raised: "$12.9M"
+career-total-source: "FEC weball summary (cycles 2016, 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

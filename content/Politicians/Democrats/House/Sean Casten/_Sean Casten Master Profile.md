@@ -34,6 +34,8 @@ committees:
   - House Committee on Financial Services
   - Joint Economic Committee
   - "National Security, Illicit Finance, and International Financial Institutions"
+total-raised: "$22.6M"
+career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

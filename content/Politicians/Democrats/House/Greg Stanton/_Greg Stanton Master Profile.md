@@ -37,6 +37,8 @@ committees:
   - House Committee on Transportation and Infrastructure
   - House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party
   - Western Hemisphere
+total-raised: "$13.3M"
+career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

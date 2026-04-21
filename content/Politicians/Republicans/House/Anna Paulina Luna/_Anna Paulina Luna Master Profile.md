@@ -38,6 +38,8 @@ committees:
   - House Committee on Oversight and Government Reform
   - Military and Foreign Affairs
   - Oversight and Intelligence
+total-raised: "$12.7M"
+career-total-source: "FEC weball summary (cycles 2020, 2022, 2024, 2026)"
 ---
 
 

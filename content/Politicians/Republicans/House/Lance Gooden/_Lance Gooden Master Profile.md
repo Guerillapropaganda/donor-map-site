@@ -37,6 +37,8 @@ committees:
   - Seapower and Projection Forces
   - Tactical Air and Land Forces
   - "The Administrative State, Regulatory Reform, and Antitrust"
+total-raised: "$6.0M"
+career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

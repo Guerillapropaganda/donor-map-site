@@ -36,6 +36,8 @@ committees:
   - South and Central Asia
   - The Constitution and Limited Government
   - Western Hemisphere
+total-raised: "$2.9M"
+career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
 ---
 
 

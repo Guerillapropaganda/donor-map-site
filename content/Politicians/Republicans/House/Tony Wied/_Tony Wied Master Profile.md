@@ -41,6 +41,8 @@ committees:
   - Nutrition and Foreign Agriculture
   - "Rural Development, Energy, and Supply Chains"
   - Water Resources and Environment
+total-raised: "$2.4M"
+career-total-source: "FEC weball summary (cycles 2024, 2026)"
 ---
 
 

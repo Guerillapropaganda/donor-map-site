@@ -39,6 +39,8 @@ committees:
   - "Immigration Integrity, Security, and Enforcement"
   - The Constitution and Limited Government
   - Workforce Protections
+total-raised: "$9.0M"
+career-total-source: "FEC weball summary (cycles 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

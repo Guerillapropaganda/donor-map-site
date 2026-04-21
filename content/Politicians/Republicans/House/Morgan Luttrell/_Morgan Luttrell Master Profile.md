@@ -39,6 +39,8 @@ committees:
   - "House Committee on Veterans' Affairs"
   - Intelligence and Special Operations
   - Technology Modernization
+total-raised: "$7.0M"
+career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
 ---
 
 

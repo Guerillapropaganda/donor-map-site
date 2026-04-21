@@ -32,6 +32,8 @@ committees:
   - House Committee on Small Business
   - "House Committee on Veterans' Affairs"
   - "Rural Development, Energy, and Supply Chains"
+total-raised: "$3.3M"
+career-total-source: "FEC weball summary (cycles 2024, 2026)"
 ---
 
 

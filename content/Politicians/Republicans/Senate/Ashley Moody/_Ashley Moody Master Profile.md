@@ -41,6 +41,8 @@ committees:
   - Senate Committee on Homeland Security and Governmental Affairs
   - Senate Committee on the Judiciary
   - Senate Special Committee on Aging
+total-raised: "$8.4M"
+career-total-source: "FEC weball summary (cycles 2026)"
 ---
 
 

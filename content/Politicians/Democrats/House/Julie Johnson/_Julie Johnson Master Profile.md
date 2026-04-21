@@ -37,6 +37,8 @@ committees:
   - House Committee on House Administration
   - Joint Committee of Congress on the Library
   - South and Central Asia
+total-raised: "$4.1M"
+career-total-source: "FEC weball summary (cycles 2024, 2026)"
 ---
 
 

@@ -34,6 +34,8 @@ committees:
   - House Committee on Small Business
   - Middle East and North Africa
   - South and Central Asia
+total-raised: "$7.1M"
+career-total-source: "FEC weball summary (cycles 2024, 2026)"
 ---
 
 

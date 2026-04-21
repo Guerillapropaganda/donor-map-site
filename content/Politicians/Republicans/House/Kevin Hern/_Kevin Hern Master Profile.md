@@ -32,6 +32,8 @@ committees:
   - Health
   - House Committee on Ways and Means
   - Tax
+total-raised: "$8.3M"
+career-total-source: "FEC weball summary (cycles 2026)"
 ---
 
 

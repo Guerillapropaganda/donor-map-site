@@ -40,6 +40,8 @@ committees:
   - House Committee on Transportation and Infrastructure
   - "House Committee on Veterans' Affairs"
   - Water Resources and Environment
+total-raised: "$9.9M"
+career-total-source: "FEC weball summary (cycles 2026)"
 ---
 
 

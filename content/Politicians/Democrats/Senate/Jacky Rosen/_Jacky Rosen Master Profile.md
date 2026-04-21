@@ -51,6 +51,8 @@ committees:
   - Strategic Forces
   - Telecommunications and Media
   - "Western Hemisphere, Transnational Crime, Civilian Security, Democracy, Human Rights, and Global Women's Issues"
+total-raised: "$79.6M"
+career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

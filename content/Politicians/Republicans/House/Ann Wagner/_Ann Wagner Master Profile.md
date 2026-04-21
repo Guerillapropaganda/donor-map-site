@@ -36,6 +36,8 @@ committees:
   - National Intelligence Enterprise
   - Open Source Intelligence
   - Oversight and Investigations
+total-raised: "$28.2M"
+career-total-source: "FEC weball summary (cycles 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

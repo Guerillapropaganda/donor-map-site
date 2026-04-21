@@ -37,6 +37,8 @@ committees:
   - Oversight and Intelligence
   - Readiness
   - Western Hemisphere
+total-raised: "$5.1M"
+career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
 ---
 
 

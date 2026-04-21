@@ -34,6 +34,8 @@ committees:
   - Social Security
   - Tax
   - Work and Welfare
+total-raised: "$11.3M"
+career-total-source: "FEC weball summary (cycles 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

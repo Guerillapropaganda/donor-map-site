@@ -37,6 +37,8 @@ committees:
   - "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
   - Oversight
   - Oversight and Intelligence
+total-raised: "$5.8M"
+career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
 ---
 
 

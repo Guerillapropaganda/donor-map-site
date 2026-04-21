@@ -33,6 +33,8 @@ committees:
   - Financial Institutions
   - House Committee on Financial Services
   - "National Security, Illicit Finance, and International Financial Institutions"
+total-raised: "$11.3M"
+career-total-source: "FEC weball summary (cycles 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

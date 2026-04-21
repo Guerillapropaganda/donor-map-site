@@ -44,6 +44,8 @@ committees:
   - "Senate Committee on Commerce, Science, and Transportation"
   - Senate Committee on Homeland Security and Governmental Affairs
   - Telecommunications and Media
+total-raised: "$86.5M"
+career-total-source: "FEC weball summary (cycles 2016, 2022, 2024, 2026)"
 ---
 
 

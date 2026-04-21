@@ -37,6 +37,8 @@ committees:
   - "House Committee on Science, Space, and Technology"
   - House Committee on the Budget
   - Research and Technology
+total-raised: "$5.7M"
+career-total-source: "FEC weball summary (cycles 2020, 2022, 2024, 2026)"
 ---
 
 

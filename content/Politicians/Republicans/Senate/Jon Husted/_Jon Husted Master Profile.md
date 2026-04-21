@@ -35,6 +35,8 @@ committees:
   - "Senate Committee on Health, Education, Labor, and Pensions"
   - Senate Committee on Small Business and Entrepreneurship
   - Senate Special Committee on Aging
+total-raised: "$10.3M"
+career-total-source: "FEC weball summary (cycles 2026)"
 ---
 
 

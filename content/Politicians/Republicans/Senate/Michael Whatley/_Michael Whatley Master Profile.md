@@ -26,6 +26,8 @@ related: "[[North Carolina 2026 Senate Race]] · [[Michael Whatley Oil and Gas L
 donors: "[[Susan B. Anthony Pro-Life America PAC]] · [[HBW Resources]] · [[Tim Dunn]] · [[Paul Singer]] · [[Consumer Energy Alliance]] · [[AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION]] · [[NORPAC]] · [[Republican Jewish Coalition]] · [[SLF PAC]] · [[Performance Racing Inc.]] · [[David Rouzer]] · [[NRSC - National Republican Senatorial Committee]] · [[Virginia Foxx]] · [[Americans for Prosperity]] · [[American Conservative Union]] · [[Common Sense for America PAC]] · [[CoreCivic - Private Prisons]] · [[Halliburton]] · [[Valero Energy]] · [[Duke Energy]] · [[Devon Energy]] · [[Marathon Petroleum]] · [[National Cattlemen's Beef Association]]"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-20
+total-raised: "$8.4M"
+career-total-source: "FEC weball summary (cycles 2026)"
 ---
 
 

@@ -54,6 +54,8 @@ top-policy-area: International Affairs
 source-types:
   - Congress
 
+total-raised: "$16.0M"
+career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

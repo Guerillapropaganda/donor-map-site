@@ -44,6 +44,8 @@ committees:
   - Senate Committee on the Judiciary
   - "State, Foreign Operations, and Related Programs"
   - "Transportation, Housing and Urban Development, and Related Agencies"
+total-raised: "$17.7M"
+career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
 ---
 
 

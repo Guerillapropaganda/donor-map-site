@@ -42,6 +42,8 @@ committees:
   - Oversight and Intelligence
   - Oversight and Investigations
   - Seapower and Projection Forces
+total-raised: "$16.7M"
+career-total-source: "FEC weball summary (cycles 2020, 2022, 2024, 2026)"
 ---
 
 

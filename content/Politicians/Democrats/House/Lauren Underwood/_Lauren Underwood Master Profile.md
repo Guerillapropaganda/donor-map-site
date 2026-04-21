@@ -33,6 +33,8 @@ committees:
   - "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies"
   - Homeland Security
   - House Committee on Appropriations
+total-raised: "$25.8M"
+career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

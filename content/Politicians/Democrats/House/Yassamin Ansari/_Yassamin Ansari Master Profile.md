@@ -33,6 +33,8 @@ committees:
   - House Committee on Natural Resources
   - House Committee on Oversight and Government Reform
   - Oversight and Investigations
+total-raised: "$4.1M"
+career-total-source: "FEC weball summary (cycles 2024, 2026)"
 ---
 
 

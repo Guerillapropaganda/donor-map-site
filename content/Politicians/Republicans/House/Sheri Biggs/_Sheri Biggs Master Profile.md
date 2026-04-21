@@ -35,6 +35,8 @@ committees:
   - Research and Technology
   - Transportation and Maritime Security
   - Western Hemisphere
+total-raised: "$1.5M"
+career-total-source: "FEC weball summary (cycles 2024, 2026)"
 ---
 
 

@@ -31,6 +31,8 @@ top-donors: "[[MAJORITY PAC]], [[Morgan Stanley]], [[National Victory Action Fun
 last-enriched: 2026-04-21
 committees:
   - Joint Economic Committee
+total-raised: "$10.5M"
+career-total-source: "FEC weball summary (cycles 2020, 2022, 2024, 2026)"
 ---
 
 

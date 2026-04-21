@@ -39,6 +39,8 @@ committees:
   - House Permanent Select Committee on Intelligence
   - Military Personnel
   - Open Source Intelligence
+total-raised: "$16.6M"
+career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

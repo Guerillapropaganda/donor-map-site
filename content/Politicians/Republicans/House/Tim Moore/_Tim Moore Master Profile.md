@@ -33,6 +33,8 @@ committees:
   - House Committee on Financial Services
   - House Committee on the Budget
   - Oversight and Investigations
+total-raised: "$3.8M"
+career-total-source: "FEC weball summary (cycles 2024, 2026)"
 ---
 
 

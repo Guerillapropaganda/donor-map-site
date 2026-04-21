@@ -43,6 +43,8 @@ committees:
   - House Committee on Oversight and Government Reform
   - Strategic Forces
   - Tactical Air and Land Forces
+total-raised: "$7.3M"
+career-total-source: "FEC weball summary (cycles 2024, 2026)"
 ---
 
 

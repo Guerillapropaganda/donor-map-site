@@ -35,6 +35,8 @@ committees:
   - Joint Economic Committee
   - Social Security
   - Tax
+total-raised: "$9.5M"
+career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

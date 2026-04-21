@@ -33,6 +33,8 @@ committees:
   - House Committee on Financial Services
   - Housing and Insurance
   - Oversight and Investigations
+total-raised: "$3.2M"
+career-total-source: "FEC weball summary (cycles 2020, 2022, 2024, 2026)"
 ---
 
 

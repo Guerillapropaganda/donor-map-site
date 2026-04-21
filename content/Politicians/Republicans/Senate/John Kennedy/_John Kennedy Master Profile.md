@@ -41,6 +41,8 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No FEC contribution data"
+total-raised: "$78.8M"
+career-total-source: "FEC weball summary (cycles 2004, 2006, 2008, 2010, 2012, 2016, 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

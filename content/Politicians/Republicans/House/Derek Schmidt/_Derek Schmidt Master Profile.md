@@ -37,6 +37,8 @@ committees:
   - "Rural Development, Energy, and Supply Chains"
   - Tactical Air and Land Forces
   - "The Administrative State, Regulatory Reform, and Antitrust"
+total-raised: "$2.3M"
+career-total-source: "FEC weball summary (cycles 2024, 2026)"
 ---
 
 

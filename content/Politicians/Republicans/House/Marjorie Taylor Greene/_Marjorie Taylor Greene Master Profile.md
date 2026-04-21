@@ -25,6 +25,8 @@ related: "[[_Donald Trump Master Profile]] · [[_Matt Gaetz Master Profile|Matt 
 donors: "[[The Lincoln Project]] · [[THE LINCOLN PROJECT]] · [[GEORGIANS FOR STRONG FAMILIES, INC.]] · [[MAGA Small Dollar Base]] · [[A Great America PAC]] · [[DRAIN THE DC SWAMP PAC]] · [[Drain the DC Swamp PAC]] · [[Save America PAC]] · [[Let America Vote PAC]] · [[Jim Jordan]] · [[MAJORITY PAC]] · [[WinRed]] · [[VIEW PAC - Value in Electing Women]] · [[Ben Cline]] · [[Really American Pac]] · [[Everytown for Gun Safety Victory Fund]] · [[Southern States Police Benevolent Assoc PAC Fund]] · [[National Rifle Association]] · [[Votevets]] · [[Majority PAC]] · [[Georgians for Strong Families]]"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-20
+total-raised: "$24.2M"
+career-total-source: "FEC weball summary (cycles 2020, 2022, 2024)"
 ---
 
 

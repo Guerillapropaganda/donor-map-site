@@ -31,6 +31,8 @@ committees:
   - Senate Special Committee on Aging
   - Strategic Forces
   - Transportation and Infrastructure
+total-raised: "$240.0M"
+career-total-source: "FEC weball summary (cycles 2020, 2022, 2024, 2026)"
 ---
 
 

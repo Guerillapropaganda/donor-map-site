@@ -32,6 +32,8 @@ committees:
   - Intelligence and Special Operations
   - "Oversight, Investigations, and Regulations"
   - Readiness
+total-raised: "$10.4M"
+career-total-source: "FEC weball summary (cycles 2024, 2026)"
 ---
 
 

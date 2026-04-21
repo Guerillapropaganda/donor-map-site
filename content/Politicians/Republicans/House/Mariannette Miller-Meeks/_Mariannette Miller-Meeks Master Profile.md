@@ -35,6 +35,8 @@ committees:
   - Health
   - House Committee on Energy and Commerce
   - "House Committee on Veterans' Affairs"
+total-raised: "$21.2M"
+career-total-source: "FEC weball summary (cycles 2008, 2010, 2012, 2014, 2016, 2020, 2022, 2024, 2026)"
 ---
 
 

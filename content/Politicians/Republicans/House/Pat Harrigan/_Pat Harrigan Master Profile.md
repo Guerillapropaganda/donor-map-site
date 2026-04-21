@@ -33,6 +33,8 @@ committees:
   - Investigations and Oversight
   - Military Personnel
   - Readiness
+total-raised: "$3.8M"
+career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
 ---
 
 

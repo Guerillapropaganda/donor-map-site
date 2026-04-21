@@ -38,6 +38,8 @@ committees:
   - National Security Agency and Cyber
   - Trade
   - Work and Welfare
+total-raised: "$19.1M"
+career-total-source: "FEC weball summary (cycles 2016, 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

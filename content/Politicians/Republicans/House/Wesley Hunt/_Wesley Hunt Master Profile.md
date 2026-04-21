@@ -36,6 +36,8 @@ committees:
   - House Committee on the Judiciary
   - "Immigration Integrity, Security, and Enforcement"
   - The Constitution and Limited Government
+total-raised: "$2.1M"
+career-total-source: "FEC weball summary (cycles 2026)"
 ---
 
 

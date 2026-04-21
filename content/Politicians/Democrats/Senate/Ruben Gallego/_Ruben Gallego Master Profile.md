@@ -42,6 +42,8 @@ committees:
   - Senate Committee on Homeland Security and Governmental Affairs
   - "Senate Committee on Veterans' Affairs"
   - Water and Power
+total-raised: "$68.5M"
+career-total-source: "FEC weball summary (cycles 2024, 2026)"
 ---
 
 

@@ -46,6 +46,8 @@ committees:
   - Taxation and IRS Oversight
   - Telecommunications and Media
   - the Constitution
+total-raised: "$36.1M"
+career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

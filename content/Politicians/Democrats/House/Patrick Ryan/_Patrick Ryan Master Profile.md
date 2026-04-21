@@ -41,6 +41,8 @@ committees:
   - Intelligence and Special Operations
   - "Railroads, Pipelines, and Hazardous Materials"
   - Water Resources and Environment
+total-raised: "$18.8M"
+career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

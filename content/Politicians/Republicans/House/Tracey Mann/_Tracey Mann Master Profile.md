@@ -37,6 +37,8 @@ committees:
   - Nutrition and Foreign Agriculture
   - "Railroads, Pipelines, and Hazardous Materials"
   - Water Resources and Environment
+total-raised: "$6.3M"
+career-total-source: "FEC weball summary (cycles 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

@@ -37,6 +37,8 @@ committees:
   - House Committee on Homeland Security
   - Western Hemisphere
   - Workforce Protections
+total-raised: "$5.6M"
+career-total-source: "FEC weball summary (cycles 2018, 2024, 2026)"
 ---
 
 

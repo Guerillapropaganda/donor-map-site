@@ -38,6 +38,8 @@ committees:
   - House Committee on Agriculture
   - House Committee on Appropriations
   - House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party
+total-raised: "$10.0M"
+career-total-source: "FEC weball summary (cycles 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

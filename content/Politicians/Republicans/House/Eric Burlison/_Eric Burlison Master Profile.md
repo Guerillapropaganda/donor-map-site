@@ -38,6 +38,8 @@ committees:
   - House Committee on Transportation and Infrastructure
   - "Railroads, Pipelines, and Hazardous Materials"
   - Water Resources and Environment
+total-raised: "$3.1M"
+career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
 ---
 
 

@@ -32,6 +32,8 @@ committees:
   - "House Committee on Science, Space, and Technology"
   - Oversight and Investigations
   - Space and Aeronautics
+total-raised: "$3.0M"
+career-total-source: "FEC weball summary (cycles 2024, 2026)"
 ---
 
 

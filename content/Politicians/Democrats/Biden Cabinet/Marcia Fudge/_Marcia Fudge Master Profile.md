@@ -18,6 +18,8 @@ urls-first-triaged: "2026-04-15"
 fec-candidate-id: H8OH11141
 top-donors: "[[Planned Parenthood Votes]], [[Amazon]], [[Meta - Facebook]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[American Gaming Association]], [[US CHAMBER OF COMMERCE]], [[Cigna Group]], [[Cargill]], [[US Chamber of Commerce]]"
 last-enriched: 2026-04-21
+total-raised: "$4.8M"
+career-total-source: "FEC weball summary (cycles 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2026)"
 ---
 
 

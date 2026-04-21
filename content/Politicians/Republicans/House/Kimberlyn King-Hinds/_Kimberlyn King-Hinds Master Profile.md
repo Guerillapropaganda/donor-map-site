@@ -36,6 +36,8 @@ committees:
   - House Committee on Small Business
   - House Committee on Transportation and Infrastructure
   - "House Committee on Veterans' Affairs"
+total-raised: "$134K"
+career-total-source: "FEC weball summary (cycles 2024, 2026)"
 ---
 
 

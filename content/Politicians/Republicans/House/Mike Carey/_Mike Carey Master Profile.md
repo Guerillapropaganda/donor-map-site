@@ -36,6 +36,8 @@ committees:
   - Modernization and Innovation
   - Social Security
   - Work and Welfare
+total-raised: "$7.6M"
+career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
 ---
 
 

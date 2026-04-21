@@ -32,6 +32,8 @@ committees:
   - House Committee on Homeland Security
   - House Committee on the Judiciary
   - The Constitution and Limited Government
+total-raised: "$15.1M"
+career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
 ---
 
 

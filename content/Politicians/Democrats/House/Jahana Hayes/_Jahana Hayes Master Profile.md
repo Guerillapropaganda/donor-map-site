@@ -36,6 +36,8 @@ committees:
   - House Committee on Education and Workforce
   - "Livestock, Dairy, and Poultry"
   - Nutrition and Foreign Agriculture
+total-raised: "$12.0M"
+career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

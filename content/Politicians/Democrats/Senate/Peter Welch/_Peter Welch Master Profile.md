@@ -43,6 +43,8 @@ committees:
   - Senate Committee on Rules and Administration
   - Senate Committee on the Judiciary
   - the Constitution
+total-raised: "$5.9M"
+career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
 ---
 
 

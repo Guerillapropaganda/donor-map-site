@@ -39,6 +39,8 @@ committees:
   - "Immigration Integrity, Security, and Enforcement"
   - "Oversight, Investigations, and Accountability"
   - Water Resources and Environment
+total-raised: "$3.6M"
+career-total-source: "FEC weball summary (cycles 2024, 2026)"
 ---
 
 

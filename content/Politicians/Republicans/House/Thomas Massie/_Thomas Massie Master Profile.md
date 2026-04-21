@@ -37,6 +37,8 @@ committees:
   - House Committee on the Judiciary
   - The Constitution and Limited Government
   - Water Resources and Environment
+total-raised: "$11.5M"
+career-total-source: "FEC weball summary (cycles 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

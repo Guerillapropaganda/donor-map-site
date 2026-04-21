@@ -36,6 +36,8 @@ committees:
   - Middle East and North Africa
   - Military and Foreign Affairs
   - South and Central Asia
+total-raised: "$3.6M"
+career-total-source: "FEC weball summary (cycles 1986, 1988, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2020, 2022, 2024, 2026)"
 ---
 
 

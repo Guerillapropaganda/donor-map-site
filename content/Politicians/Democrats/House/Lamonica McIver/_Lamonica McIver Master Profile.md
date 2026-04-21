@@ -37,6 +37,8 @@ committees:
   - "Innovation, Entrepreneurship, and Workforce Development"
   - "Oversight, Investigations, and Regulations"
   - Transportation and Maritime Security
+total-raised: "$2.2M"
+career-total-source: "FEC weball summary (cycles 2024, 2026)"
 ---
 
 

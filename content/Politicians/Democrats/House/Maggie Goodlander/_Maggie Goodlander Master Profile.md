@@ -33,6 +33,8 @@ committees:
   - "Oversight, Investigations, and Regulations"
   - "Rural Development, Energy, and Supply Chains"
   - Tactical Air and Land Forces
+total-raised: "$7.3M"
+career-total-source: "FEC weball summary (cycles 2024, 2026)"
 ---
 
 

@@ -36,6 +36,8 @@ committees:
   - House Committee on the Judiciary
   - "Immigration Integrity, Security, and Enforcement"
   - Military and Foreign Affairs
+total-raised: "$7.0M"
+career-total-source: "FEC weball summary (cycles 2016, 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

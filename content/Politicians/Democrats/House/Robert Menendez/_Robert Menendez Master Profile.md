@@ -33,6 +33,8 @@ committees:
   - Energy
   - Environment
   - House Committee on Energy and Commerce
+total-raised: "$13.4M"
+career-total-source: "FEC weball summary (cycles 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2026)"
 ---
 
 

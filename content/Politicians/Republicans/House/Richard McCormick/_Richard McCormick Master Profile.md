@@ -39,6 +39,8 @@ committees:
   - Oversight and Intelligence
   - Space and Aeronautics
   - Tactical Air and Land Forces
+total-raised: "$10.9M"
+career-total-source: "FEC weball summary (cycles 2020, 2022, 2024, 2026)"
 ---
 
 

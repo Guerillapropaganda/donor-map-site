@@ -48,6 +48,8 @@ committees:
   - Senate Committee on Energy and Natural Resources
   - Senate Committee on Rules and Administration
   - "Transportation, Housing and Urban Development, and Related Agencies"
+total-raised: "$14.0M"
+career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

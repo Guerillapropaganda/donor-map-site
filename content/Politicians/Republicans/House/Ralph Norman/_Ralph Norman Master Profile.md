@@ -36,6 +36,8 @@ committees:
   - House Committee on the Budget
   - Housing and Insurance
   - Legislative and Budget Process
+total-raised: "$5.0M"
+career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
 ---
 
 
