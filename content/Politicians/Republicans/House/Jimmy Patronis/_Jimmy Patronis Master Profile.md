@@ -1,7 +1,7 @@
 ---
 title: Jimmy Patronis
 type: politician
-content-readiness: draft
+content-readiness: data-complete
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Republican
@@ -17,9 +17,9 @@ website: https://patronis.house.gov
 phone: 202-225-4136
 source-types:
   - Congress
+  - FEC
+  - GovTrack
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H6FL01390
@@ -37,6 +37,7 @@ committees:
 total-raised: "$3.1M"
 career-total-source: "FEC weball summary (cycles 2026)"
 bills-sponsored: 9
+corroboration-count: 3
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: "States Newsroom"
 type: donor
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-18
 sector: "Media & Influence"
 entity-type: "501(c)(3)"

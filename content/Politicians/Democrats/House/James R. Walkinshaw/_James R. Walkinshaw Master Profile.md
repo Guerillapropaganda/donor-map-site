@@ -1,7 +1,7 @@
 ---
 title: "James R. Walkinshaw"
 type: politician
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-12
 source-tier: 1
 party: "Democrat"
@@ -17,9 +17,9 @@ website: "https://walkinshaw.house.gov/"
 phone: "202-225-1492"
 source-types:
   - Congress
+  - GovTrack
 known-gaps:
   - "No FEC contribution data"
-  - "No voting record data"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21
@@ -31,6 +31,7 @@ committees:
   - House Committee on Oversight and Government Reform
   - Military and Foreign Affairs
 bills-sponsored: 9
+corroboration-count: 2
 ---
 
 

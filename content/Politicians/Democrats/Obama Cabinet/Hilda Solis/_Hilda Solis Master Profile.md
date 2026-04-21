@@ -2,18 +2,17 @@
 title: Hilda Solis
 type: politician
 bioguide-id: S001153
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Democrat
 chamber: Secretary of Labor (2009-2013)
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
 source-types:
   - Congress
+  - FEC
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H6CA38139
 top-donors: "[[IBEW - International Brotherhood of Electrical Workers]], [[UnitedHealth Group - Optum]], [[Verizon]], [[Kaiser Permanente]], [[Pfizer Inc.]], [[CBRE Group]]"
@@ -21,6 +20,7 @@ last-enriched: 2026-04-21
 total-raised: "$741K"
 career-total-source: "FEC weball summary (cycles 2026)"
 bills-sponsored: 49
+corroboration-count: 2
 ---
 
 
