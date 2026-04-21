@@ -1,8 +1,9 @@
 ---
 title: "ADR-0017: Data-Complete Tier — Ship the Database, Editorialize the Flagships"
 type: adr
-status: open
+status: accepted
 date: 2026-04-21
+accepted: 2026-04-21
 supersedes-partial: Rule 5 (profile template) and Rule 9 (readiness flow) as they apply to non-flagship profiles
 ---
 
@@ -159,8 +160,31 @@ cross-linking from landing pages, and "Verified" badges on rendered pages.
 - 50-profile launch constraint as the dominant April 30 gate
 
 ## Opens
-- `data-complete` renderer work (graceful degradation + banner)
-- Auto-promote backfill script
+- `data-complete` renderer work (graceful degradation + banner Quartz
+  component). The backend tier is live; the renderer is still TODO.
+- Auto-promote backfill script to stamp existing ready→data-complete
+- Public-routes mechanism decision — keep allowlist and enumerate
+  every data-complete slug, or switch rule 10 to tier-based (any
+  data-complete profile publishes, allowlist becomes override-only).
+  David's call.
 - Flagship-vs-database information architecture on the landing page
 - Post-launch queue that rolls data-complete → verified as editorial
   capacity allows
+
+## Implementation status (2026-04-21)
+
+Landed in this ADR's first pass:
+- `scripts/reclassify-readiness.cjs` — `data-complete` tier added to
+  classification logic with its own criteria + summary output
+- `scripts/publication-readiness-check.cjs` — accepts both `verified`
+  and `data-complete`; Class Analysis + citation-mode gates are now
+  verified-only
+- `scripts/profile-template-validator.cjs` — already permissive
+  (skips any profile that isn't `verified`); header comment updated
+- `CLAUDE.md` rules 5, 9, 10, 11 amended
+
+Still to land:
+- Profile renderer banner (Quartz component)
+- Graceful section skip for empty editorial sections at data-complete
+- public-routes.json mechanism decision
+- Auto-promote backfill pass
