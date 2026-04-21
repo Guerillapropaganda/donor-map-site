@@ -28,6 +28,7 @@ bills-cosponsored: 354
 bills-enacted: 0
 top-policy-area: International Affairs
 top-donors: "[[Raytheon (RTX)]], [[Duke Energy]], [[National Association of Realtors]], [[General Dynamics]], [[Valero Energy]], [[MAJORITY PAC]], [[Lockheed Martin]], [[AT&T - WarnerMedia]], [[National Multifamily Housing Council]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[National Rifle Association]], [[AIPAC - American Israel Public Affairs Committee]], [[Nucor Corporation]], [[Northrop Grumman]], [[Associated General Contractors of America Political Action Committee]], [[Leidos]], [[L3Harris Technologies]], [[American Hospital Association PAC]], [[Honeywell]], [[BAE Systems]], [[Save America PAC]], [[WinRed]], [[McDonalds Corporation]], [[Blackstone Group]], [[BlackRock]], [[Wells Fargo]], [[UPS]], [[CVS Health - Aetna]], [[Bank of America]], [[Goldman Sachs]], [[CBRE Group]], [[Oracle]], [[AT&T]], [[Honeywell International]], [[Majority PAC]]"
+last-enriched: 2026-04-21
 ---
 
 

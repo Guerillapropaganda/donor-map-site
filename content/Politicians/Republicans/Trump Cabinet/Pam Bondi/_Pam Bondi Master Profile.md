@@ -19,6 +19,7 @@ related: "[[_Donald Trump Master Profile]] · [[GEO Group - Private Prison Indus
 donors: "[[GEO Group - Private Prison Industrial Complex]], [[Pharmaceutical Industry]]"
 urls-first-triaged: "2026-04-15"
 corroboration-count: 2
+last-enriched: 2026-04-21
 ---
 
 

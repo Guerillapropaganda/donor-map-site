@@ -24,6 +24,7 @@ individual-contributions: 1016212
 contributions-to-committees: 93316
 source-types:
   - FEC
+last-enriched: 2026-04-21
 ---
 
 

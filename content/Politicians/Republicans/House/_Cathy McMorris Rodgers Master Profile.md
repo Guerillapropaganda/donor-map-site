@@ -36,6 +36,7 @@ source-types:
 known-gaps:
   - "No FEC contribution data"
   - "No voting record data"
+last-enriched: 2026-04-21
 ---
 
 

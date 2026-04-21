@@ -21,6 +21,7 @@ total-spent: 5895
 related: "[[Dianne Feinstein]]"
 source-types:
   - FEC
+last-enriched: 2026-04-21
 ---
 
 

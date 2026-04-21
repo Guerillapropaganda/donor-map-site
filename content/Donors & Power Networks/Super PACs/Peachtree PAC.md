@@ -20,6 +20,7 @@ checklist-na:
 urls-first-triaged: "2026-04-15"
 total-spent: 3197
 contributions-to-committees: 522
+last-enriched: 2026-04-21
 ---
 
 

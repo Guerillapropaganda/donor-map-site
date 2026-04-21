@@ -13,6 +13,7 @@ known-gaps:
   - "No voting record data"
 related: "[[_Chad Bianco Master Profile|Chad Bianco]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch|Koch Network]]"
 urls-first-triaged: "2026-04-15"
+last-enriched: 2026-04-21
 ---
 
 

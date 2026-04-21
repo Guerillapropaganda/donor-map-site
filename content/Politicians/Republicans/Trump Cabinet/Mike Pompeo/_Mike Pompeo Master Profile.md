@@ -23,6 +23,7 @@ known-gaps:
   - No legislative record from Congress.gov
   - No mapped relationships
 related: "[[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]]"
+last-enriched: 2026-04-20
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Dick Cheney"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Cheney is the textbook revolving-door operative: CEO of defense contractor Halliburton → Vice President → oversees a $2 trillion war that directs content-readiness: draft0.8B+ in contracts to his former company → maintains financial ties (deferred compensation) through..."
 last-updated: 2026-04-08
 source-tier: 2
@@ -11,6 +11,7 @@ chamber: "Cabinet"
 related: "[[Condoleezza Rice]] · [[Colin Powell]]"
 known-gaps:
   - "No FEC contribution data"
+  - "No legislative record from Congress.gov"
   - "No voting record data"
 source-types:
   - Congress
@@ -23,6 +24,7 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
   • No last-enriched date is set. The pipelines have never touched this file.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
+last-enriched: 2026-04-20
 ---
 
 

@@ -15,6 +15,7 @@ known-gaps:
   - "No mapped relationships"
 related: "[[_Chuck Schumer Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Real Estate Board of New York]] · [[Cayre Family]] · [[Moinian Group]] · [[Tisch Family]]"
 urls-first-triaged: "2026-04-15"
+last-enriched: 2026-04-19
 ---
 #kathy-hochul #governor #new-york #real-estate #wall-street #class-analysis #democrat
 tags: #democrat

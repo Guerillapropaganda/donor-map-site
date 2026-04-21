@@ -14,6 +14,7 @@ source-types:
   - Congress
 donors: "[[Western Growers Association]] · [[CA Farm Bureau Federation]]"
 urls-first-triaged: "2026-04-15"
+last-enriched: 2026-04-21
 ---
 
 

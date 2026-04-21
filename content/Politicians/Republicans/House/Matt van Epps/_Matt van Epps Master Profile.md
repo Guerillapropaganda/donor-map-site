@@ -23,6 +23,7 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 top-donors: "[[CoreCivic]], [[Amazon]], [[Koch Network - Charles Koch]], [[Tyson Foods]], [[CBRE Group]], [[Charles Schwab]], [[Walmart]], [[Humana]], [[Hospital Corporation of America - HCA]]"
+last-enriched: 2026-04-21
 ---
 
 

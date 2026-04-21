@@ -22,6 +22,7 @@ total-spent: 128444
 cash-on-hand: 135573
 individual-contributions: 108817
 politicians-funded: "[[Mike Kennedy]]"
+last-enriched: 2026-04-21
 ---
 
 

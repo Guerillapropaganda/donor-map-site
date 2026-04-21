@@ -27,6 +27,7 @@ known-gaps:
   - "No SEC corporate filings"
   - "No FEC contribution data"
   - "No lobbying disclosure data"
+last-enriched: 2026-04-21
 ---
 
 

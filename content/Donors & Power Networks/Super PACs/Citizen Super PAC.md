@@ -21,6 +21,7 @@ cash-on-hand: -240
 related: "[[Matt Gaetz]]"
 source-types:
   - FEC
+last-enriched: 2026-04-21
 ---
 
 

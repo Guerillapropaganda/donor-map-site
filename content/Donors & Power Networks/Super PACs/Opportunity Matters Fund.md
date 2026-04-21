@@ -23,6 +23,7 @@ independent-expenditures: 1047774
 individual-contributions: 177867
 contributions-to-committees: 10000000
 politicians-funded: "[[Eric Schmitt]], [[Monica de la Cruz]], [[John James]], [[Raphael Warnock]], [[Young Kim]], [[Ron Johnson]], [[Katie Britt]], [[Tim Scott]], [[Mariannette Miller-Meeks]]"
+last-enriched: 2026-04-21
 ---
 
 

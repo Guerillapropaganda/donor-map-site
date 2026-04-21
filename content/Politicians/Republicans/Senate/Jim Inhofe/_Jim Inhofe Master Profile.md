@@ -23,6 +23,7 @@ known-gaps:
   - "No FEC contribution data"
   - "No voting record data"
 related: "[[Koch Network - Charles Koch|Koch Network]] · [[ExxonMobil]] · [[Fossil Fuel Bloc]] · [[American Petroleum Institute]] · [[_Markwayne Mullin Master Profile|Markwayne Mullin]] · [[_Donald Trump Master Profile|Trump]] · [[Lockheed Martin]] · [[Northrop Grumman]]"
+last-enriched: 2026-04-21
 ---
 
 

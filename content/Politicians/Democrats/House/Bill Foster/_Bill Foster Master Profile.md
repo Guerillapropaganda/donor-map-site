@@ -27,6 +27,7 @@ bills-cosponsored: 251
 bills-enacted: 0
 top-policy-area: Health
 top-donors: "[[Google - Alphabet]], [[Environmental Law & Policy Center]], [[UFCW - United Food and Commercial Workers]], [[Leidos]], [[CNA - California Nurses Association]], [[Morgan Stanley]], [[AT&T]], [[Amazon]], [[BlackRock]], [[Lockheed Martin]], [[Wells Fargo]], [[Blackstone Group]], [[AFGE - American Federation of Government Employees]], [[UPS]], [[Palantir Technologies]], [[Meta - Facebook]], [[CBRE Group]], [[Apple]], [[Ford Motor Company]], [[Apollo Global Management]], [[Oracle]], [[Bank of America]], [[Amgen Inc]], [[Citadel - Kenneth Griffin]], [[Ripple]], [[JPMorgan Chase]], [[Gilead Sciences]]"
+last-enriched: 2026-04-21
 ---
 
 

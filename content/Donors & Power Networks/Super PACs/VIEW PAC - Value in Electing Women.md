@@ -23,6 +23,7 @@ cash-on-hand: 65719
 individual-contributions: 52175
 contributions-to-committees: 315000
 politicians-funded: "[[Deb Fischer]], [[Marsha Blackburn]], [[Lisa Murkowski]], [[Diana Harshbarger]], [[Kat Cammack]], [[Nancy Mace]], [[Elise Stefanik]], [[Victoria Spartz]], [[Claudia Tenney]], [[Monica de la Cruz]], [[Katie Britt]], [[Maria Elvira Salazar]], [[Young Kim]], [[Michelle Fischbach]], [[Celeste Maloy]], [[Joni Ernst]], [[Cindy Hyde-Smith]], [[Shelley Moore Capito]], [[Ashley Hinson]], [[Sheri Biggs]], [[Marjorie Taylor Greene]], [[Kay Granger]], [[Erin Houchin]], [[Julie Fedorchak]], [[Nicole Malliotakis]], [[Ashley Moody]], [[Ann Wagner]], [[Virginia Foxx]], [[Susan Collins]]"
+last-enriched: 2026-04-21
 ---
 
 

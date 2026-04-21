@@ -26,6 +26,7 @@ known-gaps:
   - "No FEC contribution data"
 related: "[[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[J Street]]"
 donors: "[[Brady Campaign]], [[J Street]]"
+last-enriched: 2026-04-21
 ---
 
 

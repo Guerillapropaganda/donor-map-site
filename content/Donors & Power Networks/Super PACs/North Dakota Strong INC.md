@@ -22,6 +22,7 @@ total-raised: 1259
 total-spent: 21472
 source-types:
   - FEC
+last-enriched: 2026-04-21
 ---
 
 

@@ -23,6 +23,7 @@ total-spent: 1261101
 independent-expenditures: 1251995
 source-types:
   - FEC
+last-enriched: 2026-04-21
 ---
 
 

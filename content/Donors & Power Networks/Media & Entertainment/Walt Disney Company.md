@@ -52,6 +52,7 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No lobbying disclosure data"
+last-enriched: 2026-04-21
 ---
 
 

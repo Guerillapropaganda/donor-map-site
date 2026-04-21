@@ -26,6 +26,7 @@ known-gaps:
   - No mapped relationships
 related: "[[_Donald Trump Master Profile]] · [[_Pam Bondi Master Profile]]"
 donors: "[[Senate Conservatives Fund]], [[MADISON PROJECT INC.]], [[SENATE CONSERVATIVES FUND]], [[CLUB FOR GROWTH ACTION]], [[Club for Growth]], [[Madison Project Inc.]], [[Northrop Grumman]], [[L3 Technologies]]"
+last-enriched: 2026-04-20
 ---
 
 

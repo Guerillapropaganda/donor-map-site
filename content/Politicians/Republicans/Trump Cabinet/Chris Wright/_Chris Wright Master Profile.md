@@ -21,6 +21,7 @@ known-gaps:
   - No mapped relationships
 related: "[[_Donald Trump Master Profile]] · [[Koch Network - Charles Koch]]"
 urls-first-triaged: "2026-04-15"
+last-enriched: 2026-04-20
 ---
 
 

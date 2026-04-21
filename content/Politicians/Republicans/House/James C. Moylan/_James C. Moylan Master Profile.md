@@ -26,6 +26,7 @@ bills-sponsored: 30
 bills-cosponsored: 344
 bills-enacted: 0
 top-policy-area: "Armed Forces and National Security"
+last-enriched: 2026-04-21
 ---
 
 

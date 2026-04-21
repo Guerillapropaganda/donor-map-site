@@ -1,7 +1,7 @@
 ---
 title: Republican Party Apparatus
 type: donor
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -12,12 +12,13 @@ issues:
   - Infrastructure
 related: "[[American Petroleum Institute]] · [[North Carolina 2026 Senate Race]] · [[Nebraska 2026 Senate Race]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[National Republican Senatorial Committee]] · [[_Donald Trump Master Profile|Trump]] · [[Trump Donor Coalition]] · [[American Action Network]] · [[National Association of Manufacturers]] · [[DeVos Family]] · [[Defense Contractors Bloc]] · [[American Iron and Steel Institute]] · [[Walton Family Foundation]] · [[Insurance Industry]] · [[Petrochemical Industry Bloc]] · [[Western States Petroleum Association]] · [[National Education Association]] · [[American Federation for Children]] · [[MAGA Small Dollar Base]]"
 known-gaps:
-  - No FEC contribution data
-  - No lobbying disclosure data
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+last-enriched: 2026-04-20
 ---
 
 

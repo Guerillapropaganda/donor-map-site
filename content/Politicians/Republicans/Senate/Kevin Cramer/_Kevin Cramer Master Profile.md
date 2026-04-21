@@ -30,6 +30,7 @@ bills-cosponsored: 548
 bills-enacted: 0
 top-policy-area: Health
 top-donors: "[[Northrop Grumman]], [[Devon Energy]], [[National Association of Realtors]], [[National Multifamily Housing Council]], [[AT&T - WarnerMedia]], [[Lockheed Martin]], [[WinRed]], [[National Cattlemen's Beef Association]], [[Halliburton]], [[Morgan Stanley]], [[American Hospital Association PAC]], [[PG&E - Pacific Gas and Electric]], [[Associated General Contractors of America Political Action Committee]], [[American Chemistry Council, INC]], [[Republican Jewish Coalition]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AbbVie]], [[Microsoft]], [[Walmart - Walton Family]], [[BAE Systems]], [[General Dynamics]], [[Marathon Petroleum]], [[Honeywell]], [[Raytheon (RTX)]], [[Bank of America]], [[L3Harris Technologies]], [[AIPAC - American Israel Public Affairs Committee]], [[Occidental Petroleum]], [[ConocoPhillips]], [[National Rifle Association]], [[Chevron]], [[Clearpath Action Fund, Inc.]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[General Motors]], [[iHeartMedia]], [[McDonalds Corporation]], [[Tzedek PAC]], [[Common Sense for America PAC]], [[Comcast - NBCUniversal]], [[Valero Energy]], [[NextEra Energy]], [[Duke Energy]], [[National Restaurant Association]], [[Citigroup]], [[Care Action]], [[AT&T]], [[Honeywell International]]"
+last-enriched: 2026-04-20
 ---
 
 

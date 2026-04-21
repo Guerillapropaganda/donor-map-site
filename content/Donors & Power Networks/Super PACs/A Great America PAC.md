@@ -19,6 +19,7 @@ checklist-na:
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
 total-spent: 1755
+last-enriched: 2026-04-21
 ---
 
 

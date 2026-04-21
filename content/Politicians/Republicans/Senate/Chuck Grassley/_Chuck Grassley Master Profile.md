@@ -33,6 +33,7 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 urls-first-triaged: "2026-04-15"
 bills-enacted: 0
 top-policy-area: "Crime and Law Enforcement"
+last-enriched: 2026-04-20
 ---
 
 

@@ -30,6 +30,7 @@ source-types:
 known-gaps:
   - "No lobbying disclosure data"
   - "No mapped relationships"
+last-enriched: 2026-04-21
 ---
 
 

@@ -24,6 +24,7 @@ known-gaps:
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4NH02399
 top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[League of Conservation Voters]], [[SEIU COPE]], [[Nancy Pelosi]], [[Let America Vote PAC]], [[Teamsters - International Brotherhood of Teamsters]], [[National Association of Realtors]], [[Votevets]], [[American Hospital Association PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Pete Aguilar]], [[DCCC - Democratic Congressional Campaign Committee]], [[NEA Fund for Children and Public Education]], [[NORPAC]], [[General Dynamics]], [[IBEW - International Brotherhood of Electrical Workers]], [[Julia Brownley]], [[Emily's List]], [[Demand Justice]], [[Sierra Club Political Committee]], [[American Federation of State County & Municipal Employees P E O P L E]], [[American Federation of State County & Municipal Employees  P E O P L E]]"
+last-enriched: 2026-04-21
 ---
 
 

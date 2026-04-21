@@ -22,6 +22,7 @@ known-gaps:
 related: "[[_Donald Trump Master Profile]] · [[_Chris Wright Master Profile]] · [[_Lee Zeldin Master Profile]] · [[Koch Network - Charles Koch|Koch Network]] · [[Priorities USA Action]]"
 donors: "[[Best of America PAC]] · [[Harold Hamm]] · [[Koch Network - Charles Koch]] · [[Ruralvote.org]] · [[WinRed]] · [[Trump Victory]] · [[General Motors]] · [[ConocoPhillips]] · [[ExxonMobil]] · [[RNC - Republican National Committee]] · [[Google - Alphabet]] · [[Novo Nordisk]] · [[National Restaurant Association]] · [[Oracle]] · [[Microsoft]] · [[UnitedHealth Group - Optum]] · [[CBRE Group]] · [[Wells Fargo]] · [[Meta - Facebook]] · [[NRCC - National Republican Congressional Committee]] · [[Raytheon (RTX Corporation)]]"
 urls-first-triaged: "2026-04-15"
+last-enriched: 2026-04-20
 ---
 
 

@@ -36,6 +36,7 @@ related: "[[_Donald Trump Master Profile]] · [[_Jon Ossoff Master Profile]] · 
 donors: "[[Tech Industry]] · [[American Gaming Association]] · [[Fairshake PAC]] · [[Winklevoss Twins]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Elon Musk]] · [[Club for Growth]] · [[SpaceX]] · [[CBRE Group]] · [[Walmart]] · [[Boeing]]"
 bills-enacted: 0
 top-policy-area: Government Operations and Politics
+last-enriched: 2026-04-20
 ---
 
 

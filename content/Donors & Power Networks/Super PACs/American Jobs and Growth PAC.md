@@ -22,6 +22,7 @@ total-raised: 120000
 total-spent: 162107
 cash-on-hand: 3833
 individual-contributions: 20000
+last-enriched: 2026-04-21
 ---
 
 

@@ -24,6 +24,7 @@ individual-contributions: 15000
 related: "[[Nancy Mace]]"
 source-types:
   - FEC
+last-enriched: 2026-04-21
 ---
 
 

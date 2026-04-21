@@ -1,7 +1,7 @@
 ---
 title: "The Idea Laundering Pipeline , How Think Tank Research Becomes Law"
 type: think-tank
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-09
 source-tier: 1
 parent: null
@@ -12,6 +12,7 @@ known-gaps:
   - "No FEC contribution data"
 checklist-na:
   - "regulatory: auto: entity type \"think-tank\" does not typically have EPA/OSHA records (2026-04-15)"
+last-enriched: 2026-04-15
 ---
 
 #think-tank #cross-comparison #model-legislation #idea-laundering #policy-pipeline #class-analysis #heritage #federalist-society #mercatus #manhattan-institute #alec

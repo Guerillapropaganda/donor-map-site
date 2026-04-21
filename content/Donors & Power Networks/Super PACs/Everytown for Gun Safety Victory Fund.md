@@ -24,6 +24,7 @@ individual-contributions: 6715401
 politicians-funded: "[[Laura Gillen]], [[Dave Min]], [[Derek Tran]], [[Tammy Baldwin]], [[Kamala Harris]], [[Ken Calvert]], [[Lauren Boebert]], [[Raphael Warnock]], [[George Whitesides]], [[Josh Riley]], [[Jacky Rosen]], [[Ruben Gallego]], [[Ron Johnson]], [[Mark Kelly]], [[Marjorie Taylor Greene]], [[John Fetterman]], [[Elissa Slotkin]], [[Jon Ossoff]], [[Patrick Ryan]], [[Catherine Cortez Masto]], [[Donald Trump]]"
 source-types:
   - FEC
+last-enriched: 2026-04-21
 ---
 
 

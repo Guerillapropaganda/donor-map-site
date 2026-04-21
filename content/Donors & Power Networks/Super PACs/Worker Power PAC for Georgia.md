@@ -21,6 +21,7 @@ urls-first-triaged: "2026-04-15"
 total-raised: 1030000
 total-spent: 1030000
 independent-expenditures: 1030000
+last-enriched: 2026-04-21
 ---
 
 

@@ -23,6 +23,7 @@ cash-on-hand: 18720
 related: "[[Alex Padilla]]"
 source-types:
   - FEC
+last-enriched: 2026-04-21
 ---
 
 

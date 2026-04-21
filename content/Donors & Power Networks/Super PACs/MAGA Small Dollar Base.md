@@ -1,7 +1,7 @@
 ---
 title: MAGA Small Dollar Base
 type: donor
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -20,6 +20,7 @@ urls-first-triaged: "2026-04-15"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
+last-enriched: 2026-04-21
 ---
 
 

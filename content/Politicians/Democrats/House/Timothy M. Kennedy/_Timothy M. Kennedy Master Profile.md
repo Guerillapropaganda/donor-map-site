@@ -26,6 +26,7 @@ bills-sponsored: 4
 bills-cosponsored: 196
 bills-enacted: 0
 top-policy-area: "Crime and Law Enforcement"
+last-enriched: 2026-04-21
 ---
 
 

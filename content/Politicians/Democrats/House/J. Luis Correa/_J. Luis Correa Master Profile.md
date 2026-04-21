@@ -26,6 +26,7 @@ bills-sponsored: 26
 bills-cosponsored: 331
 bills-enacted: 1
 top-policy-area: "Health"
+last-enriched: 2026-04-21
 ---
 
 

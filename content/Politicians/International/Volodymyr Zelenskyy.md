@@ -12,6 +12,7 @@ known-gaps:
   - "No FEC contribution data"
   - "No voting record data"
 related: "[[_Donald Trump Master Profile]] · [[Lockheed Martin]] · [[Boeing]] · [[Raytheon (RTX)|Raytheon]] · [[Northrop Grumman]] · [[_Joe Biden Master Profile]]"
+last-enriched: 2026-04-21
 ---
 
 

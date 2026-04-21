@@ -12,6 +12,7 @@ issues:
   - "Housing"
 related: "[[National Rental Home Council]] · [[National Multifamily Housing Council]] · [[Donald Trump]]"
 urls-first-triaged: "2026-04-15"
+last-enriched: 2026-04-20
 ---
 
 

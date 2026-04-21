@@ -31,6 +31,7 @@ bills-cosponsored: 564
 bills-enacted: 0
 top-policy-area: Health
 top-donors: "[[National Association of Realtors]], [[Planned Parenthood Votes]], [[Ted Lieu]], [[Sierra Club Independent Action]], [[League of Conservation Voters]], [[National Restaurant Association]], [[Walmart - Walton Family]], [[J Street]], [[NEA Fund for Children and Public Education]], [[SEIU COPE]], [[American Hospital Association PAC]], [[National Multifamily Housing Council]], [[American Federation of State County & Municipal Employees P E O P L E]], [[UA Political Action Committee]], [[Medicare for All - The Policy That Broke the Party]], [[American Federation of State County & Municipal Employees  P E O P L E]]"
+last-enriched: 2026-04-20
 ---
 
 

@@ -25,6 +25,7 @@ known-gaps:
   - No legislative record from Congress.gov
   - No mapped relationships
 related: "[[_Kamala Harris Master Profile]] · [[_Donald Trump Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_JD Vance Master Profile]] · [[Securus Technologies - Aventiv]] · [[The Anti-Donor Model - Two Presidential Campaigns]]"
+last-enriched: 2026-04-20
 ---
 
 

@@ -13,6 +13,7 @@ related: "[[_Benjamin Netanyahu Master Profile]] · [[Itamar Ben-Gvir]] · [[Wes
 urls-first-triaged: "2026-04-15"
 source-types:
   - Congress
+last-enriched: 2026-04-21
 ---
 
 

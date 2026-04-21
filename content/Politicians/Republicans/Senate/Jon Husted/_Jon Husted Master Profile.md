@@ -23,6 +23,7 @@ known-gaps:
   - "No FEC contribution data"
 related: "[[Sherrod Brown|Sherrod Brown]] · [[Les Wexner - Wexner Family Enterprises]]"
 urls-first-triaged: "2026-04-15"
+last-enriched: 2026-04-21
 ---
 
 

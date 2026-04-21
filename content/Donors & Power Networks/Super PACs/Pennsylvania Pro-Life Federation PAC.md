@@ -24,6 +24,7 @@ cash-on-hand: 57939
 individual-contributions: 3918
 source-types:
   - FEC
+last-enriched: 2026-04-21
 ---
 
 

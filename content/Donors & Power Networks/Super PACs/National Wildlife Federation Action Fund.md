@@ -25,6 +25,7 @@ contributions-to-committees: 3000
 cash-on-hand: 36754
 source-types:
   - FEC
+last-enriched: 2026-04-21
 ---
 
 

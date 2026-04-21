@@ -23,6 +23,7 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 top-donors: "[[Comcast - NBCUniversal]], [[AT&T]], [[Cigna Group]], [[a16z - Andreessen Horowitz]], [[Ford Motor Company]], [[CVS Health - Aetna]], [[Coinbase]], [[Meta - Facebook]], [[Novo Nordisk]], [[Pfizer Inc.]], [[Johnson & Johnson]]"
+last-enriched: 2026-04-21
 ---
 
 

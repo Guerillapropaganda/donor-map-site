@@ -31,6 +31,7 @@ known-gaps:
 opposes: "[[HOUSE MAJORITY PAC]] · [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]]"
 related: "[[_Donald Trump Master Profile|Trump]] · [[_Bennie Thompson Master Profile|Thompson]]"
 donors: "[[Fraternal Order of Police]] · [[National Right to Life Victory Fund]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[AT&T - WarnerMedia]] · [[WinRed]] · [[American Hospital Association PAC]] · [[Republican Jewish Coalition]] · [[Pete Stauber]] · [[American Chemistry Council, INC]] · [[Pfizer Inc.]] · [[AIPAC - American Israel Public Affairs Committee]] · [[National Association of Realtors]] · [[MAJORITY PAC]] · [[General Dynamics]] · [[Freedom's Defense Fund]] · [[Ben Cline]] · [[ADM - Archer Daniels Midland]] · [[National Rifle Association]] · [[Jim Jordan]] · [[NORPAC]] · [[Club for Growth INC PAC]] · [[CoreCivic - Private Prisons]] · [[TikTok - ByteDance]] · [[AT&T]] · [[CoreCivic]] · [[Hospital Corporation of America - HCA]] · [[Kelcy Warren - Energy Transfer Partners]] · [[UPS]] · [[Americans for Tax Reform - Grover Norquist]] · [[Goldman Sachs]] · [[Occidental Petroleum]] · [[National Right to Life PAC]] · [[Majority PAC]]"
+last-enriched: 2026-04-21
 ---
 
 

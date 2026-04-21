@@ -24,6 +24,7 @@ employee-contributions: 87
 employee-contributions-total: 47339
 employee-donor-count: 25
 politicians-funded: "[[_Marco Rubio Master Profile]], [[_Tim Scott Master Profile]], [[WinRed]], [[ActBlue]], [[_Jon Ossoff Master Profile]], [[National Rental Home Council]], [[_Beth van Duyne Master Profile]], [[Tim Scott]], [[Beth van Duyne]], [[Jon Ossoff]], [[Marco Rubio]]"
+last-enriched: 2026-04-20
 ---
 
 

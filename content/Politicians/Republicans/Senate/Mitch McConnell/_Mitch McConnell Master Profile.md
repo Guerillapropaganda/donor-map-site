@@ -45,6 +45,7 @@ related: >-
   Coney Barrett Master Profile]]
 bills-enacted: 0
 top-policy-area: "Congress"
+last-enriched: 2026-04-20
 ---
 
 

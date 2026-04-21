@@ -25,6 +25,7 @@ individual-contributions: 21250
 related: "[[Raja Krishnamoorthi]]"
 source-types:
   - FEC
+last-enriched: 2026-04-21
 ---
 
 

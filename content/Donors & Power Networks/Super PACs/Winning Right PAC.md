@@ -22,6 +22,7 @@ cash-on-hand: 172506
 related: "[[Bill Hagerty]]"
 source-types:
   - FEC
+last-enriched: 2026-04-21
 ---
 
 

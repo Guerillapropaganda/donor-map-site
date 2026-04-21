@@ -26,6 +26,7 @@ bills-sponsored: 18
 bills-cosponsored: 783
 bills-enacted: 0
 top-policy-area: "Government Operations and Politics"
+last-enriched: 2026-04-21
 ---
 
 

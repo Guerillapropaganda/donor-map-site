@@ -24,6 +24,7 @@ independent-expenditures: 2111275
 individual-contributions: 2624000
 source-types:
   - FEC
+last-enriched: 2026-04-21
 ---
 
 

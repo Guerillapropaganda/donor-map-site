@@ -43,6 +43,7 @@ employee-contributions: 200
 employee-contributions-total: 48379
 employee-donor-count: 64
 politicians-funded: "[[The Lincoln Project]], [[ActBlue]], [[JUSTICE DEMOCRATS PAC]], [[DNC - Democratic National Committee]], [[Emily's List]], [[_Lauren Underwood Master Profile]], [[_Gabe Amo Master Profile]], [[_Adam Gray Master Profile]], [[Lauren Underwood]], [[Gabe Amo]], [[Adam Gray]], [[Justice Democrats PAC]]"
+last-enriched: 2026-04-20
 ---
 
 

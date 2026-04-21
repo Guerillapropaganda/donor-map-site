@@ -14,6 +14,7 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 related: "[[_Gavin Newsom Master Profile]] · [[Anthony Rendon]] · [[Blue Shield of California]] · [[Kaiser Permanente]] · [[Walton Family Foundation]] · [[California Charter Schools Association]] · [[CTA - California Teachers Association]] · [[Ash Kalra]]"
+last-enriched: 2026-04-21
 ---
 #wicks #democrat #california #appropriations-committee #class-analysis #charter-school-money #single-payer-killer
 tags: #democrat

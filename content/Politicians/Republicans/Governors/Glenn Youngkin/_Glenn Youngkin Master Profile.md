@@ -18,6 +18,7 @@ known-gaps:
   - "No voting record data"
 related: "[[Koch Network - Charles Koch]] · [[The Carlyle Group and the Private Equity Governor]] · [[The Education Culture War as Electoral Strategy]]"
 urls-first-triaged: "2026-04-15"
+last-enriched: 2026-04-21
 ---
 
 

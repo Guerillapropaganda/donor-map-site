@@ -26,6 +26,7 @@ contributions-to-committees: 1405974
 related: "[[John Ratcliffe]] · [[Bill Hagerty]]"
 source-types:
   - FEC
+last-enriched: 2026-04-21
 ---
 
 

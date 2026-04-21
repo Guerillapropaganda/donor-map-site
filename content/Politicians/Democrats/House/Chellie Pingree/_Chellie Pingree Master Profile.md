@@ -31,6 +31,7 @@ bills-cosponsored: 616
 bills-enacted: 0
 top-policy-area: Health
 top-donors: "[[Raytheon (RTX)]], [[Northrop Grumman]], [[J Street]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[NEA Fund for Children and Public Education]], [[League of Conservation Voters]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Walmart - Walton Family]], [[Sierra Club Political Committee]], [[SEIU COPE]], [[General Dynamics]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[DCCC - Democratic Congressional Campaign Committee]], [[Medicare for All - The Policy That Broke the Party]], [[Planned Parenthood Votes]], [[Lockheed Martin]], [[National Association of Realtors]], [[Google - Alphabet]], [[Progressive Turnout Project]], [[Human Rights Campaign Equality Votes]], [[Teamsters - International Brotherhood of Teamsters]], [[Sierra Club Independent Action]], [[Leidos]], [[American Federation of State County & Municipal Employees  P E O P L E]]"
+last-enriched: 2026-04-20
 ---
 
 

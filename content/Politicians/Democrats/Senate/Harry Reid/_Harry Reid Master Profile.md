@@ -25,6 +25,7 @@ top-donors: "[[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]] · [[First Amendment A
 donors: "[[First Amendment Alliance]] · [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]] · [[American Crossroads]] · [[Crossroads Grassroots Policy Strategies]]"
 urls-first-triaged: "2026-04-15"
 related: "[[Crossroads Grassroots Policy Strategies]]"
+last-enriched: 2026-04-20
 ---
 
 

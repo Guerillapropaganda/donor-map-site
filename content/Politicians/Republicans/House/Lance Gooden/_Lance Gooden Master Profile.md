@@ -28,6 +28,7 @@ bills-cosponsored: 315
 bills-enacted: 0
 top-policy-area: International Affairs
 top-donors: "[[Valero Energy]], [[BAE Systems]], [[AT&T - WarnerMedia]], [[AIPAC - American Israel Public Affairs Committee]], [[Walmart - Walton Family]], [[National Restaurant Association]], [[WinRed]], [[Jim Jordan]], [[Anthem - Elevance Health]], [[Marathon Petroleum]], [[Raytheon (RTX)]], [[MAJORITY PAC]], [[National Multifamily Housing Council]], [[Leidos]], [[Amgen Inc]], [[Comcast - NBCUniversal]], [[Lockheed Martin]], [[National Association of Realtors]], [[Associated General Contractors of America Political Action Committee]], [[National Rifle Association]], [[L3Harris Technologies]], [[McDonalds Corporation]], [[Northrop Grumman]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[General Dynamics]], [[General Motors]], [[Chevron]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Microsoft]], [[Save America PAC]], [[American Chemistry Council, INC]], [[Tyson Foods]], [[Occidental Petroleum]], [[Majority PAC]], [[AT&T]]"
+last-enriched: 2026-04-21
 ---
 
 

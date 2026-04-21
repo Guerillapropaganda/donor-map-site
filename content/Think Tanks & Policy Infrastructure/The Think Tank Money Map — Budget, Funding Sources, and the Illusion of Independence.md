@@ -1,7 +1,7 @@
 ---
 title: "The Think Tank Money Map , Budget, Funding Sources, and the Illusion of Independence"
 type: think-tank
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -12,6 +12,7 @@ known-gaps:
   - "No FEC contribution data"
 checklist-na:
   - "regulatory: auto: entity type \"think-tank\" does not typically have EPA/OSHA records (2026-04-15)"
+last-enriched: 2026-04-15
 ---
 
 #think-tank #cross-comparison #budget-analysis #funding-sources #class-analysis #government-contractor #dark-money #illusion-of-independence

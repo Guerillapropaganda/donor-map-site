@@ -22,6 +22,7 @@ total-spent: 631
 cash-on-hand: 1813
 individual-contributions: 410
 politicians-funded: "[[Rick Crawford]], [[Mark Green]], [[Patrick McHenry]], [[James Comer]], [[Brett Guthrie]], [[Jerry Moran]], [[Bruce Westerman]], [[Glenn Thompson]]"
+last-enriched: 2026-04-21
 ---
 
 

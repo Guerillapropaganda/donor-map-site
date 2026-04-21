@@ -26,6 +26,7 @@ known-gaps:
 related: "[[_Donald Trump Master Profile]] · [[_Steve Bannon Master Profile]] · [[_Russell Vought Master Profile]] · [[America First Legal and the Dark Money Architecture]] · [[Kash Patel]] · [[The Nunes Pipeline and the Loyalty Promotion System]]"
 donors: "[[Tim Dunn]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Bradley Impact Fund]] · [[Heritage Foundation]] · [[DonorsTrust]] · [[Republican Jewish Coalition]]"
 corroboration-count: 2
+last-enriched: 2026-04-21
 ---
 
 

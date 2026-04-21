@@ -40,6 +40,7 @@ source-types:
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
+last-enriched: 2026-04-21
 ---
 
 

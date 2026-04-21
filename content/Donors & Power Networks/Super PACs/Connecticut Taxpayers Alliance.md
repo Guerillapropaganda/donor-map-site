@@ -21,6 +21,7 @@ total-spent: 1085
 related: "[[Jim Himes]]"
 source-types:
   - FEC
+last-enriched: 2026-04-21
 ---
 
 

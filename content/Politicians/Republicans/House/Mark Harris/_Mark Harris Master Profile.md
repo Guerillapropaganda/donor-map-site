@@ -24,6 +24,7 @@ known-gaps:
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H6NC09200
 top-donors: "[[National Rifle Association]], [[AIPAC - American Israel Public Affairs Committee]], [[National Restaurant Association]], [[Campaign for Working Families]], [[Ralph Norman]], [[Bank of America]], [[Wells Fargo]], [[Amazon]], [[Morgan Stanley]], [[Novo Nordisk]], [[Duke Energy]], [[SpaceX]], [[Blackstone Group]], [[Goldman Sachs]], [[HBW Resources]]"
+last-enriched: 2026-04-21
 ---
 
 

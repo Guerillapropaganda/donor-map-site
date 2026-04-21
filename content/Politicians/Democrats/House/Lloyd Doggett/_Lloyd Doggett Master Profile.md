@@ -28,6 +28,7 @@ bills-cosponsored: 427
 bills-enacted: 0
 top-policy-area: Health
 top-donors: "[[ENVIRONMENT AMERICA INC]], [[National Association of Realtors]], [[Comcast - NBCUniversal]], [[J Street]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Unite Here Tip Campaign Committee]], [[Progressive Turnout Project]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Google - Alphabet]], [[Medicare for All - The Policy That Broke the Party]], [[Teamsters - International Brotherhood of Teamsters]], [[American College of Radiology Association PAC]], [[NEA Fund for Children and Public Education]], [[IBEW - International Brotherhood of Electrical Workers]], [[National Committee to Preserve Social Security PAC]], [[General Motors]], [[National Nurses United]], [[Sierra Club Independent Action]], [[Planned Parenthood Votes]], [[American Hospital Association PAC]], [[American Federation of State County & Municipal Employees P E O P L E]], [[SEIU COPE]], [[Sierra Club Political Committee]], [[AT&T - WarnerMedia]], [[Ted Lieu]], [[League of Conservation Voters]], [[Demand Justice]], [[AFL-CIO]], [[Raytheon (RTX)]], [[UA Political Action Committee]], [[Environment America INC]], [[AT&T]], [[American Federation of State County & Municipal Employees  P E O P L E]]"
+last-enriched: 2026-04-21
 ---
 
 
