@@ -1,9 +1,10 @@
 ---
 title: Session State
 type: system
-last-updated: 2026-04-20
+last-updated: 2026-04-21
 ---
-<!-- last session: QUERY-ENGINE AUDIT MARATHON — pattern-level cleanup of the Ask engine. Shipped Patterns A (shared role-filter taxonomy, kills 6 aggregation bugs across handlers — Kerry-as-cross-party-donor gone, Fidelity $6.4B phantom total gone, DSCC polarity fixed), C (money_chain legal/illegal inversion — renderer #5 the Part 3 fix missed), D (entity-blind follow-up generator — no more "fidelity charitable voting record"), E (entity-type-aware empty-state copy — DAF / dark-money / non-politician branches), F (leaderboard defaults to last 4 years, all-time opt-in — Paul Ryan dropped out of top politicians), G1 (FEC indiv re-ingest + bridge politician edges — aggregate-indiv-to-edges.cjs politician exclusion removed, 48k new edges + 87k updates, Kamala Harris "who funds them" $43M → $586M), H (entity dedup — 69 dup groups, 75 rows collapsed, 50,731 edges rewritten + 17,723 id-collision merges, DSCC/NRSC consolidated, FEC-shape LAST,FIRST dupes for 53 politicians collapsed). Also Voteview 108-114 Congress roll-call backfill (4.79M positions, scripts/ingest-voteview-bulk.cjs, Bernie voting record 3,700 → 9,125). Also bioguide-id backfill for 21 ex-legislators + resolveTitle + findEntity + findBioguide normalizers for LAST,FIRST entity-store form. Final push a0fedd746. (2026-04-20 evening, Code Claude). -->
+<!-- last session: ORPHAN-ENTITIES AUDIT + UX-BREAKDOWN REFACTOR. ADR-0016 defines labeled-breakdown replacement for ambiguous "total received" — politician/dark-money/DAF/super-pac/corp templates. computeBreakdown helper wired into donors_to + summary + renderers in ops/ask/page.tsx + quartz askPanel.inline.ts. Bernie's panel now shows $550M FEC lifetime + $3.8M major donors + $35K attack as labeled rows; MFT shows "Not required - 501(c)(4)" with legal-shield row. Orphan-entities audit (scripts/audit-orphan-entities.cjs) scanned 3.96M edges, classified 1.91M orphan names into promote/federal/committee/person/narrative/platform/lowflow buckets. Top-100 audit revealed 27% (27 of 100) were existing entities under name variants — Pattern H v2 extended with case-normalization/honorific/middle-initial/suffix-strip + orphan-rename pass (2,005 orphan edge names collapsed, 50,495 edges rewritten). Audit batch: step 2 (filter 72 payroll/platform vendors), step 3 (titleCaseName fix for "ORG_NAME, ." FEC artifact - 129 edges), nickname-variant dedup with bioguide-safety (SANDERS, BERNARD → Bernie Sanders; Menendez father/son correctly NOT merged), step 4 (4 mega-donor profiles: James Simons, Donald Sussman, George Marcus, Robert Bigelow - 26 orphan variants routed), step 6 (Political Ad Vendors category page covering ~35 firms / $5.5B tracked flow). Deferred to next session: step 5 org/PAC profiles + ADR-0016 breakdown for compare/leaderboard panels. Final push 016cd986e. (2026-04-21, Code Claude). -->
+<!-- prior session: QUERY-ENGINE AUDIT MARATHON — pattern-level cleanup of the Ask engine. Shipped Patterns A-H + Voteview 108-114 backfill + bioguide-id backfill. Final push a0fedd746. (2026-04-20 evening, Code Claude). -->
 <!-- prior session: MEGA SESSION PART 3 — 8 ingest pipelines wired + 8 query subjects + UX polish + Ask intents. Final push 9af0a85c8. (2026-04-20, Code Claude). -->
 <!-- prior prior session: MEGA SESSION PART 2 — zip re-download → full FEC indiv re-ingest (94K rows, 53K POI committees) → IRS 990 re-scan → politician receipts sync (409 politicians). (2026-04-20 late PM, Code Claude). -->
 <!-- prior prior prior session: QUERY ACCURACY MARATHON — silent-truncation bug hunt, FEC committee identity layer, 4-slice per-cycle reconciliation, canonical/derived file split (2026-04-19, Code Claude). -->
@@ -28,7 +29,129 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 
 ---
 
-## HANDOFF — 2026-04-20 (Query-engine audit marathon: 8 patterns shipped, dedup + Voteview backfill)
+## HANDOFF — 2026-04-21 (Orphan-entities audit + ADR-0016 labeled-breakdown)
+
+**What you're inheriting (final push `016cd986e`, pushed to origin/v4):**
+
+Two connected themes: (1) replaced ambiguous "total received" numbers with a labeled-breakdown component so users never see a single misleading headline, (2) measured and started bridging the orphan-entities gap — edge names that appear in our data but have no entity/profile record, breaking money trails.
+
+### ADR-0016 — Labeled Breakdown (the "Bernie looks broke" fix)
+
+The Ask engine was returning "Bernie Sanders received $625K from 2,147 donors" while his real FEC lifetime receipts are $550M. Every panel (donors_to, summary, compare, leaderboard) asked "how much received?" slightly differently and returned different numbers. One ambiguous headline instead of clear labels.
+
+**Replaced with `computeBreakdown(entity, edges, direction)`** returning `BreakdownRow[]`. Each row is a labeled, cited, defensible slice. Dispatch by entity role:
+
+- **Politician**: Total FEC receipts (all cycles) → From individuals → From PACs → Major donors ≥$1K aggregate → Attack spending (IE-oppose)
+- **Dark money (501(c)(4))**: "Donors: Not required — 501(c)(4) social-welfare nonprofit" legal-shield row + tracked outflows + top recipient
+- **DAF**: "DAFs legally shield donor identity" legal-shield row + tracked grants out
+- **Super PAC**: direct donations / IE support / IE attack split
+- **Other**: generic inflows + opposition
+
+Bernie's panel post-fix:
+```
+Total FEC receipts (all cycles):   $550M
+From individuals (all cycles):     $519M
+From PACs:                         $2.5M
+Major donors ≥$1K aggregate:       1,967 donors, $3.8M
+Attack spending (IE-oppose):       $35K
+```
+
+Wired into: `donors_to` handler, `handleSummary`, ops/ask/page.tsx renderer, quartz askPanel.inline.ts renderer + askPanel.scss (legal-shield rows get yellow left-border). Compare + leaderboard deferred.
+
+### Pattern H v2 (extended dedup)
+
+Pattern H v1 (2026-04-20) caught acronym-prefix + FEC LAST,FIRST + case-only. v2 extends to:
+- Honorifics anywhere (Mr./Mrs./Ms./Dr./Hon./Gov./Sen./Rep./Pres.)
+- Single-letter middle initials
+- Corporate suffixes (INC/LLC/LP/CORP/CO)
+- Leading-period ingest truncation (". Name")
+- Orphan-rename phase — scans edge files, renames orphan edge-side names to canonical entities under new normalization
+- FEC-shape fallback via `fecShapeToTitleCase`
+
+**Results**: 11 more entity-to-entity dupes collapsed. 2,005 orphan edge names mapped to existing canonical entities. 50,495 edges rewritten. 738 id-collision merges.
+
+### Orphan-entities audit + queue
+
+`scripts/audit-orphan-entities.cjs` scans every edge file, finds names that appear as from/to but have no entity record, classifies them, writes to `content/Admin Notes/orphan-entities-queue.md`.
+
+**Classification buckets**:
+- promote: 24,971 editorial candidates (≥$1M flow or ≥5 edges)
+- federal: 286 (DoD, HHS, VA — contextual)
+- committee: 2,383 (FEC "X FOR CONGRESS" — tied to politician)
+- platform: 72 (payroll/fundraising SaaS — Paychex, Gusto, ADP, WinRed, ActBlue)
+- person: 904,546 (individual FEC donors)
+- narrative: 271 (vault story-page wikilinks leaked into edges — ingest bug)
+- lowflow: 978,436
+
+**Top of promote queue is editorial gold**: GMMB ($1.7B), AFSCME International ($288M), Strategic Media Services ($284M), Bully Pulpit Interactive ($262M), Future Forward USA Action ($345M), Targeted Victory, Majority Forward, One Nation, American Action Network, Michael Bloomberg, Kenneth Griffin, etc. But a re-audit found 27% of the top 100 were existing entities under name variants — triggering Pattern H v2 above.
+
+### Ingest-truncation fix (`. National Association Of Realto`)
+
+FEC indiv data occasionally logs orgs as "ORG_NAME, ." (literal period as "first name"). `titleCaseName` in `aggregate-indiv-to-edges.cjs` treated the "." as a first name and emitted ". Org Name". Fixed + patched 129 existing bad edges. Also hits tribes (Mashantucket Pequot, Mohegan), realtor associations, etc.
+
+### Nickname-variant dedup (Bernie fix)
+
+`scripts/dedupe-nickname-variants.cjs` uses `data/legislator-registry.jsonl`'s `name_nickname` field (273 entries) to generate edge-side variants (Bernard ↔ Bernie, William ↔ Bill, etc.) and collapse duplicates. **Bioguide-safety check**: refuses to merge entities with different `bioguide_id` (prevents Bob Menendez D-NJ Senate ≠ Robert Menendez Jr. D-NJ House from being wrongly merged — these are father and son with distinct bioguides M000639 and M001226). Result: 1 safe merge (SANDERS, BERNARD → Bernie Sanders), 811 edges rewritten.
+
+### 4 missing mega-donor profiles (step 4)
+
+Created stub profiles for orphan mega-donors absent from the vault:
+- **James Simons** (Renaissance Technologies, 1938-2024) — $117M outflows across 94 edges
+- **Donald Sussman** (Paloma Partners, former Pingree spouse)
+- **George Marcus** (Marcus & Millichap / Essex Property Trust — disambiguated from Bernie Marcus / Home Depot)
+- **Robert Bigelow** (Bigelow Aerospace / Budget Suites / UAP patron)
+
+`register-unregistered-profile-stubs.cjs` + Pattern H dedup routed 26 orphan variants → canonical entities (1,126 edges rewritten).
+
+### Political Ad Vendors category page (step 6)
+
+Single consolidated profile at `content/Donors & Power Networks/Media & Entertainment/Political Ad Vendors.md` covering ~35 firms from the orphan-queue. Aggregates ~$5.5B in tracked FEC operating-expense outflows. GMMB, Targeted Victory, Strategic Media Services, Bully Pulpit Interactive, Screen Strategies, SKDKnickerbocker, Onmessage, etc. each listed with tracked flow, edge count, Democratic/Republican alignment, and name-variant footnote. Single category page instead of 35 thin individual profiles; any can be promoted later when editorial warrants.
+
+### Audit batch 2 route.ts fixes (included in morning commits)
+
+- #27 Obama empty-state REAL fix (resolveTitle + preferTitleCasedSibling)
+- #29 Bare-entity queries escalate generic → summary (AOC/MFT/Kamala Harris render profile snapshot by default)
+- #30 Fuzzy-match transparency in finalize() — "Showing results for X (or: Y, Z)." preamble when resolved title isn't a substring of the question
+- Labeled-breakdown type (BreakdownRow[]) on AskResult + renderers
+
+### Known minor issue
+
+**Bernie's panel still shows "$532K via SANDERS, BERNARD"** — wait no, that was FIXED today by the nickname dedup. Current Bernie panel is clean. See "Nickname-variant dedup" above.
+
+### Commits on origin/v4 this session (most recent last)
+
+```
+851aaa93c  ADR-0016 + computeBreakdown helper wired into donors_to + summary
+41694f9c5  ADR-0016: wire labeled-breakdown renderer into ops + Quartz Ask panels
+bec0f26b4  Orphan entities audit + queue (top candidates)
+7d76c878a  Pattern H v2: extended dedup - 2,005 orphan edge names collapsed
+9cd78eb23  Regenerate orphan queue after Pattern H v2 dedup
+e4d049733  Orphan audit: filter payroll/platform vendors from promote bucket
+40fa6d87e  Fix titleCaseName: drop empty/period-only first-name artifact
+c6e5566a3  Dedup nickname variants - SANDERS, BERNARD -> Bernie Sanders
+f5ef51003  Step 4: 4 missing mega-donor profiles (Simons, Sussman, Marcus, Bigelow)
+016cd986e  Step 6: Political Ad Vendors category page
+```
+
+### Next session priorities
+
+1. **Wire ADR-0016 into compare + leaderboard panels.** Backend helper (`computeBreakdown`) is done; just needs two more handler call sites + renderer updates. 30-45 min.
+2. **Step 5: 8 missing org/PAC profiles** — HOUSE MAJORITY FORWARD, EMPOWER PARENTS PAC, STAND TOGETHER CHAMBER OF COMMERCE, SECURING AMERICAN GREATNESS, WORKING FOR WORKING AMERICANS FEDERAL, DEMOCRACY PAC, Joint Victory Campaign 2004, AFSCME International, AFT Solidarity 527, Republican Governors Association. Stub each + re-run dedup. ~45 min.
+3. **Token-subset dedup extension** — Richard E. Uihlein ↔ Richard and Elizabeth Uihlein, Paul Elliott Singer ↔ Paul Singer, Samuel Bankman-fried ↔ Sam Bankman-Fried. Need fuzzy first-name match (Samuel ↔ Sam). ~20 min.
+4. **Edge-count signal refresh** — 46% of entities have stale `signals.edge_count: 0` despite having real edges. Rebuilder needed. 30 min.
+5. **Legal/illegal inversion audit** — the Part 3 + today's money_chain fix should have caught all 8 is_this_legal sites, but worth a grep for "No, and that's the scandal" phrasing anywhere else. 10 min.
+6. **AOC small-dollar coverage** — re-ingest completed at $1K floor (3.7M edges). Labeled-breakdown now shows $77M individuals from FEC summary + $3.2M major donors ≥$1K. This is as good as it gets without going below $1K floor (which would balloon to 30M+ rows). Leave at $1K.
+
+### What NOT to do
+
+- **Don't re-run the $10K-floor aggregator**. We're now at $1K and the dedup routed new orphans correctly. Reverting would undo AOC's coverage.
+- **Don't bulk-auto-register orphan entities**. The orphan queue has 24,971 "promote candidates" but only ~50-200 are editorially real. Bulk registration would bloat the entity store with agencies, platforms, and story-page leaks. Use the queue as a TRIAGE list, not an auto-import.
+- **Don't merge entities without bioguide verification**. dedupe-nickname-variants.cjs has the safety check; keep it. Menendez father/son nearly got collapsed on the first pass.
+- **Don't touch the `.pre-dedupe.bak` and `.pre-nickname-dedup.bak` files** — they're insurance for rollback.
+
+---
+
+## HANDOFF — 2026-04-20 evening (Query-engine audit marathon: 8 patterns shipped, dedup + Voteview backfill)
 
 **What you're inheriting (final push `a0fedd746`, pushed to origin/v4):**
 
