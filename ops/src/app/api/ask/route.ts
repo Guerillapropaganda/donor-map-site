@@ -85,6 +85,21 @@ interface AskResult {
   why_matters?: string            // stakes paragraph — why this trail matters democratically
   who_is_lead?: { name: string; oneLiner: string }  // promoted "who is X" for well-known operators
   empty_reason?: string           // tag identifying WHY a query returned zero rows (entity_not_found, no_path, etc.)
+  // ADR-0016: labeled breakdown replaces ambiguous one-number totals.
+  // Every "how much did X receive/spend" narrative gets decomposed into
+  // named slices (FEC-summary / itemized donors / PAC / IE support /
+  // IE attack) so no single headline number is miscitable as "total."
+  // Rendered as a table/list below the answer prose.
+  breakdown?: BreakdownRow[]
+}
+
+interface BreakdownRow {
+  label: string
+  value: string                   // pre-formatted display string ("$550M", "2,147 donors", "Not publicly disclosed")
+  numeric?: number                // raw number for CSV export / sorting
+  citation?: string               // "fec-candidate-summary", "irs-990", "news reporting"
+  note?: string                   // disambiguation text shown below the row
+  legal_shield?: boolean          // flag for the "by design, not missing data" rows
 }
 
 const REPO_ROOT = path.resolve(process.cwd(), "..")
@@ -1679,6 +1694,232 @@ async function handleEdgeBetween(c: ClassifiedQuestion, question: string, engine
   }
 }
 
+// ─── ADR-0016: labeled-breakdown helper ──────────────────────────────
+//
+// Instead of collapsing a politician / org into one "received $X" total,
+// this decomposes the fundraising (or spending) narrative into labeled
+// slices. Every row is a specific, defensible number with a source.
+// Prevents the "Bernie looks broke / MFT looks broken" UX class.
+
+interface BreakdownInput {
+  name: string
+  ent: any              // entity store record (may be null for unknowns)
+  inflows: any[]        // monetary edges TO the entity, already role-filtered via isSupport
+  oppoInflows: any[]    // monetary edges TO the entity with role="ie-oppose"
+  outflows: any[]       // monetary edges FROM the entity (all roles — caller filters)
+  ieSupportOut: any[]   // FROM with role="ie-support" (only meaningful for super-PACs)
+  ieOpposeOut: any[]    // FROM with role="ie-oppose"
+}
+
+// Structural-role detection: returns one of "politician", "dark-money",
+// "daf", "super-pac", "corp", "other". Drives which breakdown template
+// to use.
+function entityStructuralRole(ent: any, name: string): string {
+  if (!ent) {
+    // Name-pattern fallback — same DAF patterns used in the empty-state
+    // branch of donors_to.
+    const nameLower = name.toLowerCase()
+    const DAF_NAME_PATTERNS = [
+      /\bcharitable\s+(fund|gift|trust)\b/,
+      /\b(fidelity|schwab|vanguard)\s+charitable\b/,
+      /\bdonor[\s-]?advised\b/,
+      /\bnational philanthropic trust\b/,
+      /\bcommunity foundation\b/,
+    ]
+    if (DAF_NAME_PATTERNS.some((rx) => rx.test(nameLower))) return "daf"
+    return "other"
+  }
+  if (ent.entity_type === "politician" || ent.entity_type === "state-politician") return "politician"
+  const sector = String(ent?.signals?.sector || "").toLowerCase()
+  const capital = String(ent?.capital_type || "").toLowerCase()
+  if (capital === "daf" || sector === "daf") return "daf"
+  const nameLower = name.toLowerCase()
+  if (/\bcharitable\s+(fund|gift|trust)\b/.test(nameLower) || /\b(fidelity|schwab|vanguard)\s+charitable\b/.test(nameLower)) return "daf"
+  if (sector === "dark money" || capital === "dark-money-vehicle") return "dark-money"
+  if (sector === "super pacs" || sector === "super-pacs") return "super-pac"
+  if (ent.entity_type === "corporation") return "corp"
+  return "other"
+}
+
+function sumAmounts(edges: any[]): number {
+  let t = 0
+  for (const e of edges) if (e && e.amount) t += Number(e.amount)
+  return t
+}
+
+function uniqueFromCount(edges: any[]): number {
+  const s = new Set()
+  for (const e of edges) if (e && e.from) s.add(e.from)
+  return s.size
+}
+
+function uniqueToCount(edges: any[]): number {
+  const s = new Set()
+  for (const e of edges) if (e && e.to) s.add(e.to)
+  return s.size
+}
+
+// Direction: "inflow" for "who funds X", "outflow" for "where does X's
+// money go". For politician inflow is the primary case; for super-PAC
+// outflow is primary.
+function computeBreakdown(input: BreakdownInput, direction: "inflow" | "outflow"): BreakdownRow[] {
+  const role = entityStructuralRole(input.ent, input.name)
+  const rows: BreakdownRow[] = []
+
+  // ─── Politician / inflow (the main bug case) ────────────────────────
+  if (role === "politician" && direction === "inflow") {
+    const sig = input.ent?.signals || {}
+    const fecLife = typeof sig.fec_receipts_lifetime === "number" ? sig.fec_receipts_lifetime : null
+    const fecIndiv = typeof sig.fec_indiv_contrib_lifetime === "number" ? sig.fec_indiv_contrib_lifetime : null
+    const fecPac = typeof sig.fec_pac_contrib_lifetime === "number" ? sig.fec_pac_contrib_lifetime : null
+
+    if (fecLife != null) {
+      rows.push({
+        label: "Total FEC receipts (all cycles)",
+        value: fmtUsd(fecLife),
+        numeric: fecLife,
+        citation: "fec-candidate-summary",
+        note: "The full career raise including sub-$200 small-dollar donors. Source of truth for 'how much did they raise.'",
+      })
+    }
+    if (fecIndiv != null) {
+      rows.push({
+        label: "From individuals (all cycles)",
+        value: fmtUsd(fecIndiv),
+        numeric: fecIndiv,
+        citation: "fec-candidate-summary",
+      })
+    }
+    if (fecPac != null) {
+      rows.push({
+        label: "From PACs (all cycles)",
+        value: fmtUsd(fecPac),
+        numeric: fecPac,
+        citation: "fec-candidate-summary",
+      })
+    }
+    // Itemized donors in the graph — our per-donor edges, ≥$1K aggregate
+    const itemizedTotal = sumAmounts(input.inflows)
+    const itemizedCount = uniqueFromCount(input.inflows)
+    rows.push({
+      label: "Major donors listed below (≥$1K aggregate)",
+      value: `${itemizedCount.toLocaleString()} donors, ${fmtUsd(itemizedTotal)}`,
+      numeric: itemizedTotal,
+      citation: "fec-indiv-by-committee",
+      note: fecLife != null && fecLife > itemizedTotal * 5
+        ? `Small-dollar donors (<$1K aggregate) appear in the FEC receipts line above but aren't listed individually — they make up ${Math.round((1 - itemizedTotal / fecLife) * 100)}% of total raised here.`
+        : undefined,
+    })
+    // IE support / oppose — separate money flow
+    if (input.oppoInflows.length > 0) {
+      const oppoTotal = sumAmounts(input.oppoInflows)
+      rows.push({
+        label: "Attack spending (IE-oppose against them)",
+        value: `${input.oppoInflows.length} super-PAC edge${input.oppoInflows.length === 1 ? "" : "s"}, ${fmtUsd(oppoTotal)}`,
+        numeric: oppoTotal,
+        citation: "fec-pas2",
+        note: "Money spent by super-PACs running ads AGAINST this politician. Not part of their raise.",
+      })
+    }
+    return rows
+  }
+
+  // ─── Dark-money 501(c)(4) ───────────────────────────────────────────
+  if (role === "dark-money") {
+    rows.push({
+      label: "Donors (publicly disclosed)",
+      value: "Not required — 501(c)(4) social-welfare nonprofit",
+      legal_shield: true,
+      note: "US tax law doesn't require 501(c)(4) organizations to disclose who funds them. When you see '0 donors' elsewhere on the site for this entity, that's the law at work, not missing data. Known gifts may be public via news reporting.",
+    })
+    const outflowTotal = sumAmounts(input.outflows)
+    rows.push({
+      label: "Tracked outflows (grants out)",
+      value: `${uniqueToCount(input.outflows).toLocaleString()} recipients, ${fmtUsd(outflowTotal)}`,
+      numeric: outflowTotal,
+      citation: "irs-990",
+    })
+    if (input.outflows.length > 0) {
+      const sorted = [...input.outflows].filter((e) => e.amount).sort((a, b) => (b.amount || 0) - (a.amount || 0))
+      if (sorted[0]) {
+        rows.push({
+          label: "Top recipient",
+          value: `${sorted[0].to} (${fmtUsd(sorted[0].amount)})`,
+          numeric: sorted[0].amount,
+        })
+      }
+    }
+    return rows
+  }
+
+  // ─── Donor-advised fund ─────────────────────────────────────────────
+  if (role === "daf") {
+    rows.push({
+      label: "Donors (publicly disclosed)",
+      value: "None — DAFs legally shield donor identity",
+      legal_shield: true,
+      note: "Donor-advised funds are designed to break the paper trail between who gave money and where it landed. When a DAF grants out, the public record shows the DAF as the giver, not the person who originally wrote the check. This is the product, not missing data.",
+    })
+    const outflowTotal = sumAmounts(input.outflows)
+    rows.push({
+      label: "Tracked grants out",
+      value: `${uniqueToCount(input.outflows).toLocaleString()} recipients, ${fmtUsd(outflowTotal)}`,
+      numeric: outflowTotal,
+      citation: "irs-990",
+    })
+    return rows
+  }
+
+  // ─── Super PAC / corp / other (outflow-focused) ─────────────────────
+  // For outflow queries, break donations to candidates vs IE support vs attack.
+  if (direction === "outflow") {
+    const donations = input.outflows.filter((e) => e.role === "direct-contribution" || e.role === "coordinated-party-expense" || e.role === "party-coordinated")
+    const donTotal = sumAmounts(donations)
+    const ieSupTotal = sumAmounts(input.ieSupportOut)
+    const ieOppTotal = sumAmounts(input.ieOpposeOut)
+    if (donTotal > 0) rows.push({
+      label: "Direct donations to candidates",
+      value: `${donations.length} contribution${donations.length === 1 ? "" : "s"}, ${fmtUsd(donTotal)}`,
+      numeric: donTotal,
+      citation: "fec-pas2",
+    })
+    if (ieSupTotal > 0) rows.push({
+      label: "IE support (ads run FOR candidates)",
+      value: `${input.ieSupportOut.length} edge${input.ieSupportOut.length === 1 ? "" : "s"}, ${fmtUsd(ieSupTotal)}`,
+      numeric: ieSupTotal,
+      citation: "fec-pas2",
+    })
+    if (ieOppTotal > 0) rows.push({
+      label: "IE attack (ads run AGAINST candidates)",
+      value: `${input.ieOpposeOut.length} edge${input.ieOpposeOut.length === 1 ? "" : "s"}, ${fmtUsd(ieOppTotal)}`,
+      numeric: ieOppTotal,
+      citation: "fec-pas2",
+    })
+    return rows
+  }
+
+  // ─── Generic inflow fallback for orgs we don't have special handling for
+  if (direction === "inflow") {
+    const total = sumAmounts(input.inflows)
+    rows.push({
+      label: "Tracked inflows",
+      value: `${uniqueFromCount(input.inflows).toLocaleString()} donors, ${fmtUsd(total)}`,
+      numeric: total,
+      citation: "fec-indiv-by-committee",
+    })
+    if (input.oppoInflows.length > 0) {
+      const oppoTotal = sumAmounts(input.oppoInflows)
+      rows.push({
+        label: "Attack spending (IE-oppose against them)",
+        value: `${input.oppoInflows.length} edge${input.oppoInflows.length === 1 ? "" : "s"}, ${fmtUsd(oppoTotal)}`,
+        numeric: oppoTotal,
+        citation: "fec-pas2",
+      })
+    }
+  }
+  return rows
+}
+
 async function handleSummary(c: ClassifiedQuestion, question: string, engine: any): Promise<AskResult> {
   const r = resolveTitle(c.subjectName as string)
   const name = r.title
@@ -1948,6 +2189,22 @@ async function handleSummary(c: ClassifiedQuestion, question: string, engine: an
     }
   }
 
+  // ADR-0016 labeled breakdown. Direction is chosen by entity role —
+  // for politicians / dark-money / DAF the inflow side is the story;
+  // for super-PACs and corps with only outbound money the outflow side
+  // makes more sense.
+  const structRole = entityStructuralRole(ent, name)
+  const breakdownDirection: "inflow" | "outflow" = structRole === "super-pac" ? "outflow" : "inflow"
+  const breakdown = computeBreakdown({
+    name,
+    ent,
+    inflows: inflows.rows,
+    oppoInflows: oppoEdges,
+    outflows: outflows.rows || [],
+    ieSupportOut: (outflows.rows || []).filter((e: any) => e.role === "ie-support"),
+    ieOpposeOut: (outflows.rows || []).filter((e: any) => e.role === "ie-oppose"),
+  }, breakdownDirection)
+
   return {
     question,
     intent: "summary",
@@ -1957,6 +2214,7 @@ async function handleSummary(c: ClassifiedQuestion, question: string, engine: an
     rows,
     answer,
     bullets,
+    breakdown,
     context,
     plain_english,
     is_this_legal,
@@ -3149,6 +3407,23 @@ async function handleQuestion(question: string): Promise<AskResult> {
       const via = e._via ? ` → ${e._via}` : ""
       return `${e.from}${via}: ${fmtUsd(e.amount)}${e.cycle ? ` (${e.cycle})` : ""}${e.source ? ` [${citeEdge(e).label}]` : ""}`
     })
+    // ADR-0016: labeled breakdown replaces ambiguous one-number totals.
+    // supporters = inflow edges already filtered via isSupport (Pattern A).
+    // opposers = inflow edges with role=ie-oppose.
+    // We need outflows too for non-politician entities where "donors_to"
+    // is asked but the entity is actually an outflow-centric org (DAF,
+    // dark-money vehicle).
+    const outflowsForBreakdown = await engine.query({ subject: "edges", filters: { from: name.title, type: "monetary" }, limit: 2000 })
+    const breakdown = computeBreakdown({
+      name: name.title,
+      ent: findEntity(name.title),
+      inflows: supporters,
+      oppoInflows: opposers,
+      outflows: (outflowsForBreakdown.rows as any[]) || [],
+      ieSupportOut: ((outflowsForBreakdown.rows as any[]) || []).filter((e) => e.role === "ie-support"),
+      ieOpposeOut: ((outflowsForBreakdown.rows as any[]) || []).filter((e) => e.role === "ie-oppose"),
+    }, "inflow")
+
     return finalize({
       question,
       intent: c.intent,
@@ -3158,6 +3433,7 @@ async function handleQuestion(question: string): Promise<AskResult> {
       rows,
       answer,
       bullets,
+      breakdown,
       summary: `${supporters.length} support edges (pooled across ${name.title}${vehicles.length ? " + " + vehicles.length + " controlled vehicles" : ""}), ${opposers.length} opposition edges. Support ~${fmtUsd(total$)}, opposition ~${fmtUsd(oppose$)}.`,
     })
   }
