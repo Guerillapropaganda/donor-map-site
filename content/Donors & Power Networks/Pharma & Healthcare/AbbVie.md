@@ -24,7 +24,7 @@ ein: "460827839"
 nonprofit-status: 501(c)(3)
 total-revenue: 67617104
 total-assets: 217738010
-federal-awards-total: 1314431
+federal-awards-total: 699137
 federal-contracts-count: 20
 federal-grants-count: 0
 related: "[[Moderna]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[Brett Guthrie Master Profile]] · [[Merck]] · [[Eli Lilly]] · [[The HELP Committee and Prescription Drug Pricing]] · [[Cornerstone Government Affairs]] · [[PhRMA]] · [[Pfizer]] · [[Johnson & Johnson]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Gilead Sciences]] · [[Centene Corporation]] · [[Palantir Technologies]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[UnitedHealth Group - Optum]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[Humana]] · [[Hospital Corporation of America - HCA]] · [[Civica Rx]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Blue Cross Blue Shield Association]] · [[Anthem - Elevance Health Political Operation]] · [[Uber]] · [[Lyft]] · [[Instacart]] · [[Flex Association]] · [[DoorDash]] · [[Airbnb]] · [[WSPA - Western States Petroleum Association]] · [[Valero Energy]] · [[Southern Company]] · [[PG&E]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[NextEra Energy]] · [[Marathon Petroleum]] · [[Koch Industries]] · [[Hawaiian Electric Company]] · [[Halliburton]] · [[Fossil Fuel Bloc]] · [[ExxonMobil]] · [[Duke Energy]] · [[Devon Energy]] · [[ConocoPhillips]]"
@@ -55,7 +55,7 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 politicians-funded: "[[Brett Guthrie]], [[Mitt Romney]], [[Adrian Smith]], [[John Cornyn]], [[Frank Pallone]], [[CHC BOLD PAC]], [[MoveOn.org Political Action]], [[_Tammy Baldwin Master Profile]], [[Madeleine Dean]], [[Lori Trahan]], [[Martin Heinrich]], [[_Ted Cruz Master Profile]], [[Mike Thompson]], [[Joni Ernst]], [[RNC - Republican National Committee]], [[DCCC - Democratic Congressional Campaign Committee]], [[Emily's List]], [[Kevin Mullin]], [[_Lauren Underwood Master Profile]], [[Steven Horsford]], [[Hmp]], [[Richard Hudson]], [[_Jon Ossoff Master Profile]], [[Pete Aguilar]], [[Let America Vote PAC]], [[Gwen Moore]], [[Jon Husted]], [[AbbVie]], [[Chris Coons]], [[Jason Smith]], [[Todd Young]], [[Bill Hagerty]], [[Kevin McCarthy]], [[Andre Carson]], [[Kathy Castor]], [[Steve Daines]], [[ActBlue]], [[Patrick McHenry]], [[Gregory Meeks]], [[Mark Warner]], [[Mariannette Miller-Meeks]], [[Nancy Mace]], [[Morgan McGarvey]], [[Darren Soto]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Tim Scott Master Profile]], [[Kweisi Mfume]], [[James Lankford]], [[_Chris Pappas Master Profile]], [[Progressive Turnout Project]], [[Julia Brownley]], [[Claudia Tenney]], [[Andrea Salinas]], [[Joseph Morelle]], [[Joyce Beatty]], [[Jimmy Panetta]], [[National Rifle Association]], [[Richard Neal]], [[Vicente Gonzalez]], [[MAGA Inc]], [[Cathy McMorris Rodgers]], [[Human Rights Campaign Equality Votes]], [[Mitch McConnell]], [[WinRed]], [[David Kustoff]], [[Giffords PAC]], [[_Mike Kelly Master Profile]], [[Susan Collins]], [[Catherine Cortez Masto]], [[314 ACTION FUND]], [[Lamonica McIver]], [[Dan Crenshaw]], [[Everytown for Gun Safety Victory Fund]], [[Raja Krishnamoorthi]], [[Lisa Blunt Rochester]], [[Kevin Cramer]], [[Jacky Rosen]], [[Roger Wicker]], [[Barbara Lee]], [[_Thomas Massie Master Profile]], [[Tammy Baldwin]], [[Mike Lee]], [[Chrissy Houlahan]], [[Kyrsten Sinema]], [[Shelley Moore Capito]], [[Shri Thanedar]], [[Law Enforcement for a Safer America Pac]], [[Nikema Williams]], [[Marsha Blackburn]], [[FreedomWorks for America]], [[Jake Auchincloss]], [[Ashley Moody]], [[Tammy Duckworth]], [[Guy Reschenthaler]], [[Gary Peters]], [[_Marco Rubio Master Profile]], [[Jay Obernolte]], [[Nathaniel Moran]], [[Young Kim]], [[Lateefah Simon]], [[Votevets]], [[_Rashida Tlaib Master Profile]], [[_Nancy Pelosi Master Profile]], [[Patty Murray]], [[Marilyn Strickland]], [[Michael Lawler]], [[Rudy Yakym]], [[Jodey Arrington]], [[_Dave Min Master Profile]], [[The Lincoln Project]], [[John James]], [[NRSC - National Republican Senatorial Committee]], [[Tom Cole]], [[Deb Fischer]], [[Troy Balderson]], [[John Thune]], [[Nicole Malliotakis]], [[Sean Casten]], [[Brendan Boyle]], [[Ann Wagner]], [[Trump Victory]], [[Raul Ruiz]], [[Darin Lahood]], [[_Angie Craig Master Profile]], [[Thomas Massie]], [[Jerry Moran]], [[Sheila Cherfilus-McCormick]], [[Congressional Progressive Caucus PAC]], [[John Joyce]], [[_Beth van Duyne Master Profile]], [[Ron Estes]], [[_Rick W. Allen Master Profile]], [[Diana Harshbarger]], [[NRCC - National Republican Congressional Committee]], [[Joe Manchin]], [[WinSenate]], [[Jamie Raskin]], [[Chris Christie]], [[Bryan Steil]], [[Lloyd Smucker]], [[Glenn Grothman]], [[Mike Carey]], [[_Ron Johnson Master Profile]], [[Ted Lieu]], [[James Comer]], [[Dan Newhouse]], [[_Andre Carson Master Profile]], [[Roger Marshall]], [[Diana Degette]], [[Julie Fedorchak]], [[_Josh Riley Master Profile]], [[Russell Fry]], [[John Barrasso]], [[Josh Gottheimer]], [[Jimmy Gomez]], [[John Boozman]], [[Markwayne Mullin]], [[Thom Tillis]], [[Dwight Evans]], [[Kat Cammack]], [[_Michael Waltz Master Profile]], [[Steve Scalise]], [[_Elissa Slotkin Master Profile]], [[Bob Casey]], [[Sierra Club Political Committee]], [[Mark Kelly]], [[Mike Quigley]], [[Hakeem Jeffries]], [[_Ann Wagner Master Profile]], [[Bennie Thompson]], [[_John James Master Profile]], [[Tim Scott]], [[Adam Gray]], [[_Cory Booker Master Profile]], [[Dan Sullivan]], [[Susie Lee]], [[National Victory Action Fund]], [[Vince Fong]], [[Kim Schrier]], [[Grace Meng]], [[Aaron Bean]], [[Cliff Bentz]], [[_Donna Miller Master Profile]], [[Maria Elvira Salazar]], [[George Whitesides]], [[August Pfluger]], [[Jeanne Shaheen]], [[Cory Booker]], [[Ted Cruz]], [[Mike Kelly]], [[Elissa Slotkin]], [[Ron Johnson]], [[Angie Craig]], [[Chris Pappas]], [[Lauren Underwood]], [[Jon Ossoff]], [[Michael Waltz]], [[Beth van Duyne]], [[Donna Miller]], [[Marco Rubio]], [[Josh Riley]], [[Rick W. Allen]], [[Nancy Pelosi]], [[Rashida Tlaib]], [[Dave Min]], [[HMP]], [[314 Action Fund]]"
 epa-facilities: 8
 epa-states: CA, IL, MI, PR
-federal-contracts: 354
+federal-contracts: 222
 total-raised: 920792
 total-spent: 760411
 cash-on-hand: 527969
@@ -257,16 +257,16 @@ AbbVie's PAC distributes $1.5-2 million per cycle across both parties, with $30,
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 354 |
-| Total Obligation | $1,314,431 |
-| Fiscal Years | 2024, 2025 |
+| Federal Contracts | 222 |
+| Total Obligation | $699,137 |
+| Fiscal Years | 2025, 2026 |
 | Awarding Agencies | 3 |
 
 **Top awarding agencies:**
 
-- Department of Defense: $964,528
-- Department of Veterans Affairs: $335,755
-- Department of Health and Human Services: $14,148
+- Department of Defense: $603,876
+- Department of Veterans Affairs: $129,046
+- Department of Health and Human Services: $-33,785
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

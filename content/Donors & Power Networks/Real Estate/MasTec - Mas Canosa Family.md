@@ -31,8 +31,8 @@ audit-a-plus-passed: "2026-04-11"
 urls-first-triaged: "2026-04-15"
 epa-facilities: 5
 epa-states: AZ, CA, MN, NC
-federal-contracts: 6
-federal-awards-total: -2340741
+federal-contracts: 1
+federal-awards-total: -2562626
 employee-contributions: 527
 employee-contributions-total: 172434
 employee-donor-count: 116
@@ -238,16 +238,14 @@ The Mas Canosa family represents the structural intersection of exile politics a
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 6 |
-| Total Obligation | $-2,340,741 |
-| Fiscal Years | 2024, 2025 |
-| Awarding Agencies | 3 |
+| Federal Contracts | 1 |
+| Total Obligation | $-2,562,626 |
+| Fiscal Years | 2025 |
+| Awarding Agencies | 1 |
 
 **Top awarding agencies:**
 
-- National Gallery of Art: $26,274
-- Department of Homeland Security: $4,716
-- Department of Transportation: $-2,371,731
+- Department of Transportation: $-2,562,626
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

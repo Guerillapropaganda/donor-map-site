@@ -43,7 +43,7 @@ regulatory-agencies:
   - National Highway Traffic Safety Administration
   - Pipeline and Hazardous Materials Safety Administration
   - Transportation Department
-federal-awards-total: 1047079197
+federal-awards-total: 864858118
 federal-contracts-count: 25
 federal-grants-count: 7
 related: "[[The Agriculture Committee and Farm Bill Politics]] · [[The Auto Industry Alliance and EV Manufacturing Subsidies]] · [[Gretchen Whitmer Master Profile]] · [[Alpine Group]] · [[General Motors]] · [[UAW - United Auto Workers]] · [[_Joe Biden Master Profile|Biden]] · [[UPS]]"
@@ -51,7 +51,7 @@ cross-vault-triangulation-count: 6
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 84
 epa-states: CA, CO, FL, GA, IL, KY, MI, MN, NJ, NY, OH, TN, TX, VA
-federal-contracts: 18196
+federal-contracts: 19489
 total-raised: 621734
 total-spent: 557696
 cash-on-hand: 1092317
@@ -294,16 +294,15 @@ The class function is straightforward: Ford converts public money into private r
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 18,196 |
-| Total Obligation | $1,047,079,197 |
-| Fiscal Years | 2024, 2025 |
-| Awarding Agencies | 3 |
+| Federal Contracts | 19,489 |
+| Total Obligation | $864,858,118 |
+| Fiscal Years | 2025, 2026 |
+| Awarding Agencies | 2 |
 
 **Top awarding agencies:**
 
-- General Services Administration: $1,047,043,865
-- Department of Health and Human Services: $71,108
-- Department of State: $-35,776
+- General Services Administration: $864,859,901
+- Department of State: $-1,783
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

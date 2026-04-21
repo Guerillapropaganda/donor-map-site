@@ -62,8 +62,8 @@ ftc-enforcement-actions: 1
 ftc-hsr-notices: 30
 epa-facilities: 18
 epa-states: CA, FL, LA, MA, MI, MN, NC, NE, PA
-federal-contracts: 4724
-federal-awards-total: 9006731387
+federal-contracts: 2270
+federal-awards-total: 4356024690
 total-raised: 1615733
 total-spent: 1952206
 cash-on-hand: 423161
@@ -311,23 +311,23 @@ The final FY2026 bill included **$58.8 million for 4 tanks**, reduced from the f
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 4,724 |
-| Total Obligation | $9,006,731,387 |
-| Fiscal Years | 2024, 2025 |
-| Awarding Agencies | 23 |
+| Federal Contracts | 2,270 |
+| Total Obligation | $4,356,024,690 |
+| Fiscal Years | 2025, 2026 |
+| Awarding Agencies | 21 |
 
 **Top awarding agencies:**
 
-- Department of Defense: $5,866,299,117
-- General Services Administration: $946,764,793
-- Department of Health and Human Services: $713,512,657
-- Department of State: $301,187,393
-- Department of Homeland Security: $284,675,384
-- Department of the Interior: $226,608,732
-- Department of Transportation: $142,460,437
-- Department of Commerce: $116,291,063
-- Department of Veterans Affairs: $106,514,808
-- Department of Education: $90,813,647
+- Department of Defense: $1,321,821,519
+- General Services Administration: $907,595,626
+- Department of Health and Human Services: $720,993,558
+- Department of State: $294,007,205
+- Department of the Interior: $251,437,414
+- Department of Homeland Security: $228,654,347
+- Department of Veterans Affairs: $155,636,141
+- Department of Commerce: $135,303,166
+- Department of Transportation: $89,884,129
+- Department of Education: $83,015,082
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

@@ -30,8 +30,8 @@ cross-vault-triangulation-count: 32
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 225
 epa-states: AL, CA, CO, DC, FL, GA, IL, MA, MI, NC, NV, NY, OR, PA
-federal-contracts: 9
-federal-awards-total: 7929124
+federal-contracts: 8
+federal-awards-total: 11938715
 total-raised: 1089609
 total-spent: 1117894
 cash-on-hand: 2198544
@@ -516,15 +516,15 @@ Google represents the most advanced form of monopoly power in the vault, one tha
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 9 |
-| Total Obligation | $7,929,124 |
-| Fiscal Years | 2024, 2025 |
+| Federal Contracts | 8 |
+| Total Obligation | $11,938,715 |
+| Fiscal Years | 2025, 2026 |
 | Awarding Agencies | 2 |
 
 **Top awarding agencies:**
 
-- Department of Agriculture: $7,914,825
-- Department of State: $14,299
+- Department of Agriculture: $11,940,940
+- Department of State: $-2,225
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

@@ -10,7 +10,7 @@ entity-type: Corporation
 politicians-funded: "[[Donald Trump]], [[Steve Womack]], [[Jerry Moran]], [[Hakeem Jeffries]], [[Adam Smith]], [[Dan Sullivan]], [[_Chrissy Houlahan Master Profile]], [[Henry Cuellar]], [[Mark Alford]], [[Donald Norcross]], [[Jacky Rosen]], [[Jim Himes]], [[Adam Schiff]], [[Betty McCollum]], [[Deb Fischer]], [[Rick Larsen]], [[Greg Stanton]], [[Eric Swalwell]], [[French Hill]], [[Kristen McDonald Rivet]], [[Chris Coons]], [[John Thune]], [[_Gabe Vasquez Master Profile]], [[Tammy Duckworth]], [[Rick Crawford]], [[Roger Wicker]], [[Vicente Gonzalez]], [[Patty Murray]], [[Kay Granger]], [[Jay Obernolte]], [[Chrissy Houlahan]], [[Pete Aguilar]], [[Veronica Escobar]], [[Joe Manchin]], [[Bruce Westerman]], [[Wesley Bell]], [[Jeanne Shaheen]], [[Steven Horsford]], [[Save America PAC]], [[Gary Peters]], [[Steve Scalise]], [[Pete Sessions]], [[Markwayne Mullin]], [[Ruben Gallego]], [[L3Harris Technologies]], [[Mark Kelly]], [[Kevin McCarthy]], [[Madeleine Dean]], [[Josh Gottheimer]], [[Mike Kennedy]], [[Derek Tran]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Donald Norcross Master Profile]], [[Darin Lahood]], [[WinRed]], [[_Ted Cruz Master Profile]], [[Richard Hudson]], [[John Cornyn]], [[Debbie Wasserman Schultz]], [[Celeste Maloy]], [[Jon Husted]], [[Mike Haridopolos]], [[ActBlue]], [[The Lincoln Project]], [[Susan Collins]], [[Sam Graves]], [[DCCC - Democratic Congressional Campaign Committee]], [[Greg Landsman]], [[Todd Young]], [[Michael Waltz]], [[Trump Victory]], [[John Boozman]], [[John Garamendi]], [[RNC - Republican National Committee]], [[Mike Rounds]], [[WinSenate]], [[Sherrod Brown]], [[Suhas Subramanyam]], [[Bill Hagerty]], [[Jimmy Panetta]], [[Mike Quigley]], [[Ronny Jackson]], [[Marilyn Strickland]], [[Gregory Meeks]], [[Tim Sheehy]], [[Ashley Moody]], [[August Pfluger]], [[Burgess Owens]], [[Chris van Hollen]], [[Martin Heinrich]], [[Raja Krishnamoorthi]], [[Ken Calvert]], [[Harold Rogers]], [[Joseph Morelle]], [[Progressive Turnout Project]], [[John Kennedy]], [[Tom Cole]], [[Ritchie Torres]], [[_Rashida Tlaib Master Profile]], [[Seth Magaziner]], [[MoveOn.org Political Action]], [[Brad Sherman]], [[Mario Diaz-Balart]], [[Paul Tonko]], [[Joe Wilson]], [[Ted Lieu]], [[Lance Gooden]], [[Richard Blumenthal]], [[Susie Lee]], [[Senate Conservatives Fund]], [[Thom Tillis]], [[Alex Padilla]], [[Richard McCormick]], [[Marcy Kaptur]], [[NRCC - National Republican Congressional Committee]], [[Rosa DeLauro]], [[Mark Warner]], [[Lisa Murkowski]], [[Kevin Cramer]], [[Eric Sorensen]], [[Jack Reed]], [[Grace Meng]], [[Jake Auchincloss]], [[NRSC - National Republican Senatorial Committee]], [[Jeff Crank]], [[Scott Desjarlais]], [[Scott Franklin]], [[Mike Lee]], [[James Lankford]], [[Elise Stefanik]], [[George Whitesides]], [[_Jon Ossoff Master Profile]], [[Joni Ernst]], [[Giffords PAC]], [[Brian Schatz]], [[Brian Babin]], [[Nancy Pelosi]], [[Katie Britt]], [[Ryan Zinke]], [[Zoe Lofgren]], [[Sarah Elfreth]], [[Brendan Boyle]], [[Kyrsten Sinema]], [[Guy Reschenthaler]], [[Clay Higgins]], [[Dusty Johnson]], [[Hmp]], [[Frank Lucas]], [[L3 Technologies]], [[Lois Frankel]], [[Morgan Luttrell]], [[Vince Fong]], [[_Don Bacon Master Profile]], [[Shelley Moore Capito]], [[Kim Schrier]], [[National Rifle Association]], [[Carlos Gimenez]], [[Pat Harrigan]], [[John Hoeven]], [[Andre Carson]], [[MAGA Inc]], [[_Veronica Escobar Master Profile]], [[Ted Cruz]], [[Cory Mills]], [[Randy Fine]], [[Patrick McHenry]], [[Rashida Tlaib]], [[Gabe Vasquez]], [[Jon Ossoff]], [[Don Bacon]], [[HMP]]"
 issues:
   - Defense & Military
-federal-awards-total: 16846100446
+federal-awards-total: 9759269755
 federal-contracts-count: 25
 federal-grants-count: 2
 court-cases: 166
@@ -67,7 +67,7 @@ ftc-enforcement-actions: 0
 ftc-hsr-notices: 1
 epa-facilities: 23
 epa-states: CA, FL, IN, MD, NH, NJ, NY, VA
-federal-contracts: 8111
+federal-contracts: 4447
 total-raised: 1347800
 total-spent: 1629643
 cash-on-hand: 1315512
@@ -253,23 +253,23 @@ L3Harris represents the defense sector's "invisible infrastructure" model of pol
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 8,111 |
-| Total Obligation | $16,846,100,446 |
-| Fiscal Years | 2024, 2025 |
-| Awarding Agencies | 18 |
+| Federal Contracts | 4,447 |
+| Total Obligation | $9,759,269,755 |
+| Fiscal Years | 2025, 2026 |
+| Awarding Agencies | 13 |
 
 **Top awarding agencies:**
 
-- Department of Defense: $13,459,712,687
-- Department of Transportation: $1,905,628,798
-- National Aeronautics and Space Administration: $1,071,922,896
-- Department of Commerce: $168,220,555
-- General Services Administration: $100,769,936
-- Department of Homeland Security: $75,541,052
-- Department of Energy: $48,191,579
-- Department of the Interior: $12,295,589
-- Department of Justice: $3,346,622
-- Department of Veterans Affairs: $397,630
+- Department of Defense: $6,808,745,349
+- Department of Transportation: $1,944,700,889
+- National Aeronautics and Space Administration: $702,790,546
+- Department of Commerce: $107,000,455
+- Department of Energy: $75,985,856
+- Department of Homeland Security: $74,175,664
+- General Services Administration: $39,562,558
+- Department of the Interior: $4,535,922
+- Department of Justice: $1,425,939
+- Department of Veterans Affairs: $313,487
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

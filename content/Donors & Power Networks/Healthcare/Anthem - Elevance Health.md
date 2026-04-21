@@ -24,8 +24,8 @@ checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
-federal-contracts: 62
-federal-awards-total: 447187589
+federal-contracts: 38
+federal-awards-total: 374740130
 total-raised: 1750348
 total-spent: 1981629
 cash-on-hand: 512143
@@ -232,14 +232,14 @@ The Medicare Advantage expansion is the long game. Each year, more Medicare bene
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 62 |
-| Total Obligation | $447,187,589 |
-| Fiscal Years | 2024, 2025 |
+| Federal Contracts | 38 |
+| Total Obligation | $374,740,130 |
+| Fiscal Years | 2025, 2026 |
 | Awarding Agencies | 2 |
 
 **Top awarding agencies:**
 
-- Department of Health and Human Services: $447,185,089
+- Department of Health and Human Services: $374,737,630
 - General Services Administration: $2,500
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)

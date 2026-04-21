@@ -18,8 +18,8 @@ checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
-federal-contracts: 3
-federal-awards-total: 40731
+federal-contracts: 2
+federal-awards-total: 34606
 total-raised: 366252
 total-spent: 366041
 cash-on-hand: 359502
@@ -78,14 +78,14 @@ This profile absorbs the following FEC-format committee name(s):
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 3 |
-| Total Obligation | $40,731 |
-| Fiscal Years | 2024, 2025 |
+| Federal Contracts | 2 |
+| Total Obligation | $34,606 |
+| Fiscal Years | 2025 |
 | Awarding Agencies | 1 |
 
 **Top awarding agencies:**
 
-- Department of Commerce: $40,731
+- Department of Commerce: $34,606
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

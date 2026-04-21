@@ -43,8 +43,8 @@ cross-vault-triangulation-count: 7
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 486
 epa-states: AL, CA, CO, CT, DC, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, MI, MN, MO, MS, NC, NE, NJ, NM, NY, OH, PA, TN, TX, UT, VA, WI, WV
-federal-contracts: 6346
-federal-awards-total: 2286101346
+federal-contracts: 2484
+federal-awards-total: 1562043644
 total-raised: 1423158
 total-spent: 1577871
 cash-on-hand: 939137
@@ -329,23 +329,23 @@ Elimination of net neutrality rules (achieved under Trump FCC in 2017, partially
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 6,346 |
-| Total Obligation | $2,286,101,346 |
-| Fiscal Years | 2024, 2025 |
-| Awarding Agencies | 37 |
+| Federal Contracts | 2,484 |
+| Total Obligation | $1,562,043,644 |
+| Fiscal Years | 2025, 2026 |
+| Awarding Agencies | 31 |
 
 **Top awarding agencies:**
 
-- Department of Veterans Affairs: $768,309,009
-- Department of Homeland Security: $309,820,025
-- Department of Justice: $279,731,765
-- Department of Defense: $251,545,568
-- Department of the Treasury: $158,959,876
-- Department of Agriculture: $151,697,859
-- Department of State: $108,761,412
-- Department of Transportation: $72,263,997
-- Department of Housing and Urban Development: $50,072,937
-- Department of Education: $28,773,919
+- Department of Veterans Affairs: $612,516,502
+- Department of Justice: $243,113,611
+- Department of Homeland Security: $177,190,878
+- Department of Defense: $127,865,009
+- Department of the Treasury: $123,691,007
+- Department of Agriculture: $73,423,585
+- Department of State: $59,512,974
+- Department of Transportation: $55,582,123
+- Environmental Protection Agency: $18,764,255
+- Department of Housing and Urban Development: $17,858,869
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

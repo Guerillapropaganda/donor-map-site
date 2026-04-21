@@ -21,8 +21,8 @@ cross-vault-triangulation-count: 9
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 6
 epa-states: CA, MN, ND, OH, TX, WI
-federal-contracts: 37
-federal-awards-total: 1844862
+federal-contracts: 20
+federal-awards-total: 969588
 federal-grants: 27
 federal-grants-total: 775649
 employee-contributions: 2703
@@ -198,23 +198,23 @@ Media deregulation (relaxed ownership limits allowing greater consolidation), fa
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 37 |
-| Total Obligation | $1,844,862 |
-| Fiscal Years | 2024, 2025 |
-| Awarding Agencies | 14 |
+| Federal Contracts | 20 |
+| Total Obligation | $969,588 |
+| Fiscal Years | 2025, 2026 |
+| Awarding Agencies | 10 |
 
 **Top awarding agencies:**
 
-- Department of Defense: $437,843
-- Department of Energy: $322,031
-- Department of the Treasury: $247,305
-- Executive Office of the President: $180,495
-- Department of Commerce: $174,761
-- Department of Justice: $116,148
-- Pension Benefit Guaranty Corporation: $80,925
-- Department of State: $60,750
-- U.S. International Development Finance Corporation: $58,700
-- Department of Agriculture: $47,871
+- Department of the Treasury: $245,153
+- Department of Defense: $225,719
+- Department of Energy: $167,208
+- Executive Office of the President: $88,494
+- Department of Commerce: $77,045
+- Department of Justice: $60,058
+- Pension Benefit Guaranty Corporation: $41,449
+- U.S. International Development Finance Corporation: $30,100
+- Department of State: $23,250
+- Federal Communications Commission: $11,112
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

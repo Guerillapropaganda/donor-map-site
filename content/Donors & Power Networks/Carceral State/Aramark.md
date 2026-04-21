@@ -75,7 +75,7 @@ regulatory-agencies:
   - Labor Department
   - National Labor Relations Board
   - National Park Service
-federal-awards-total: 1406693
+federal-awards-total: -10559
 federal-contracts-count: 25
 federal-grants-count: 0
 nhtsa-recalls: 0
@@ -99,7 +99,7 @@ top-naics-code: "561210"
 related: "[[GEO Group]] · [[CoreCivic]] · [[CCPOA - California Correctional Peace Officers Association]] · [[Securus Technologies - Aventiv]] · [[ViaPath Technologies - GTL]] · [[CoreCivic - Private Prisons]] · [[GEO Group - Private Prisons]]"
 epa-facilities: 13
 epa-states: CA, FL, MA, MN, NV, OR, RI
-federal-contracts: 16
+federal-contracts: 1
 employee-contributions: 3078
 employee-contributions-total: 143169
 employee-donor-count: 379
@@ -280,17 +280,14 @@ The workers who prepare and serve the food in many facilities are incarcerated p
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 16 |
-| Total Obligation | $1,406,693 |
-| Fiscal Years | 2024, 2025 |
-| Awarding Agencies | 4 |
+| Federal Contracts | 1 |
+| Total Obligation | $-10,559 |
+| Fiscal Years | 2025 |
+| Awarding Agencies | 1 |
 
 **Top awarding agencies:**
 
-- Department of the Interior: $1,445,506
-- Department of Homeland Security: $-2,525
-- Department of Health and Human Services: $-12,406
-- Department of Defense: $-23,882
+- Department of Defense: $-10,559
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

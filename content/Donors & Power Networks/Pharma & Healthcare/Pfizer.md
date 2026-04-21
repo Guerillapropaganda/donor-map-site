@@ -9,7 +9,7 @@ sector: Pharma & Healthcare
 entity-type: Corporation
 issues:
   - Healthcare
-federal-awards-total: 2041811751
+federal-awards-total: 1240929366
 federal-contracts-count: 25
 federal-grants-count: 1
 cpsc-recalls: 1
@@ -85,7 +85,7 @@ total-revenue: 29100015
 total-assets: 255288291
 epa-facilities: 32
 epa-states: CA, CT, IL, IN, MA, MO, NC, NJ, NY, OH, PA
-federal-contracts: 1340
+federal-contracts: 884
 total-raised: 1008433
 total-spent: 908185
 cash-on-hand: 310652
@@ -247,18 +247,15 @@ The RFK Jr. disruption is structurally interesting because it represents the one
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 1,340 |
-| Total Obligation | $2,041,811,751 |
-| Fiscal Years | 2024, 2025 |
-| Awarding Agencies | 5 |
+| Federal Contracts | 884 |
+| Total Obligation | $1,240,929,366 |
+| Fiscal Years | 2025, 2026 |
+| Awarding Agencies | 2 |
 
 **Top awarding agencies:**
 
-- Department of Health and Human Services: $2,062,376,518
-- Department of Veterans Affairs: $458,306
-- Department of Justice: $5,098
-- Department of Defense: $-1,560,477
-- Agency for International Development: $-19,467,694
+- Department of Health and Human Services: $1,239,797,519
+- Department of Defense: $1,131,848
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

@@ -11,7 +11,7 @@ politicians-funded: "[[Cathy McMorris Rodgers]], [[Kevin McCarthy]], [[John Barr
 issues:
   - Energy & Climate
   - Dark Money & Campaign Finance
-federal-awards-total: 829860556
+federal-awards-total: 690401106
 federal-contracts-count: 25
 federal-grants-count: 2
 top-federal-agency: Department of Defense
@@ -61,7 +61,7 @@ ein: "464439930"
 annual-revenue: $5.1M
 net-assets: $13.4M
 tax-year: "2020"
-federal-contracts: 651
+federal-contracts: 446
 federal-register-mentions: 105
 regulatory-agencies:
   - Antitrust Division
@@ -315,14 +315,14 @@ The 2025 policy return completes the circuit. Marathon spent years and tens of m
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 651 |
-| Total Obligation | $829,860,556 |
-| Fiscal Years | 2024, 2025 |
+| Federal Contracts | 446 |
+| Total Obligation | $690,401,106 |
+| Fiscal Years | 2025, 2026 |
 | Awarding Agencies | 1 |
 
 **Top awarding agencies:**
 
-- Department of Defense: $829,860,556
+- Department of Defense: $690,401,106
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

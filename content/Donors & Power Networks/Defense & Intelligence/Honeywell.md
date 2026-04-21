@@ -38,7 +38,7 @@ subawards-received: 50
 subawards-received-amount: 7506016889
 top-federal-agency: Department of Defense
 top-naics-code: "336992"
-federal-awards-total: 3877199629
+federal-awards-total: 2774684025
 federal-contracts-count: 25
 federal-grants-count: 12
 cpsc-recalls: 7
@@ -57,7 +57,7 @@ lei-jurisdiction: CH
 lei-parent: HONEYWELL INTERNATIONAL INC.
 epa-facilities: 121
 epa-states: AL, AZ, CA, CO, CT, DE, FL, GA, HI, IL, IN, KS, LA, MA, MD, MI, MN, NC, NE, NJ, NY, OH, OR, PA, RI, SC, TN, TX, WA, WI
-federal-contracts: 9597
+federal-contracts: 6066
 total-raised: 4575037
 total-spent: 4365683
 cash-on-hand: 526588
@@ -241,23 +241,23 @@ Honeywell represents the permanent symbiosis between the defense industry and th
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 9,597 |
-| Total Obligation | $3,877,199,629 |
-| Fiscal Years | 2024, 2025 |
-| Awarding Agencies | 18 |
+| Federal Contracts | 6,066 |
+| Total Obligation | $2,774,684,025 |
+| Fiscal Years | 2025, 2026 |
+| Awarding Agencies | 17 |
 
 **Top awarding agencies:**
 
-- Department of Defense: $2,465,313,044
-- Department of Energy: $1,087,572,383
-- General Services Administration: $138,284,367
-- Department of Transportation: $97,562,951
-- Department of Homeland Security: $19,304,488
-- Department of Housing and Urban Development: $17,066,773
-- Department of Veterans Affairs: $14,864,804
-- Department of Justice: $12,298,628
-- National Aeronautics and Space Administration: $10,168,052
-- Department of the Treasury: $7,944,819
+- Department of Defense: $1,466,875,863
+- Department of Energy: $1,065,224,151
+- General Services Administration: $142,662,941
+- Department of Transportation: $68,372,564
+- Department of Homeland Security: $13,303,772
+- Department of Veterans Affairs: $6,228,594
+- National Aeronautics and Space Administration: $4,852,439
+- Department of the Treasury: $4,148,886
+- Department of State: $1,603,200
+- National Archives and Records Administration: $1,225,776
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

@@ -10,7 +10,7 @@ entity-type: Corporation
 politicians-funded: "[[Donald Trump]], [[Tom Cole]], [[Jeanne Shaheen]], [[John Ratcliffe]], [[Roger Wicker]], [[Adam Smith]], [[Joni Ernst]], [[Steve Scalise]], [[Trump Victory]], [[Kevin Cramer]], [[RNC - Republican National Committee]], [[French Hill]], [[Hmp]], [[_Andy Harris Master Profile]], [[_Elissa Slotkin Master Profile]], [[Mario Diaz-Balart]], [[_Chris Pappas Master Profile]], [[Cindy Hyde-Smith]], [[_Deb Haaland Master Profile]], [[_Josh Hawley Master Profile]], [[Jahana Hayes]], [[Courage California Super Pac]], [[_Marco Rubio Master Profile]], [[Ken Calvert]], [[Julie Fedorchak]], [[_John James Master Profile]], [[Steve Daines]], [[Jason Smith]], [[Julia Brownley]], [[WinSenate]], [[ActBlue]], [[_Alex Padilla Master Profile]], [[Sarah Elfreth]], [[_Nancy Pelosi Master Profile]], [[The Lincoln Project]], [[Chellie Pingree]], [[Senate Conservatives Fund]], [[Joyce Beatty]], [[Mark Kelly]], [[Votevets]], [[Human Rights Campaign Equality Votes]], [[Brad Sherman]], [[Martin Heinrich]], [[_Kevin Kiley Master Profile]], [[John Kennedy]], [[Dan Sullivan]], [[Mike Quigley]], [[_Rashida Tlaib Master Profile]], [[MAGA Inc]], [[Bob Casey]], [[Darren Soto]], [[Marcy Kaptur]], [[Madeleine Dean]], [[_Robert Garcia Master Profile]], [[Bennie Thompson]], [[Club for Growth]], [[Greg Stanton]], [[_Tim Scott Master Profile]], [[Michael Waltz]], [[Mark Alford]], [[Progressive Turnout Project]], [[David Schweikert]], [[_Lauren Underwood Master Profile]], [[Democratic Party of Virginia]], [[Vince Fong]], [[Raul Ruiz]], [[Michael Guest]], [[Scott Franklin]], [[NRCC - National Republican Congressional Committee]], [[Darin Lahood]], [[Shelley Moore Capito]], [[_Scott Franklin Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[Let America Vote PAC]], [[Cathy McMorris Rodgers]], [[Sam Graves]], [[Emily's List]], [[Judy Chu]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Ted Cruz Master Profile]], [[Donald Norcross]], [[Dan Crenshaw]], [[Wesley Bell]], [[Dusty Johnson]], [[WinRed]], [[PRIORITIES USA ACTION]], [[SPECIAL OPERATIONS FOR AMERICA]], [[Harold Rogers]], [[Jon Husted]], [[Troy Balderson]], [[_Jason Smith Master Profile]], [[Catherine Cortez Masto]], [[NRSC - National Republican Senatorial Committee]], [[Young Kim]], [[Rick Scott]], [[Debbie Wasserman Schultz]], [[Mike Rounds]], [[_Byron Donalds Master Profile]], [[Michael Cloud]], [[_Mike Haridopolos Master Profile]], [[_Young Kim Master Profile]], [[American Conservative Union]], [[Raja Krishnamoorthi]], [[FreedomWorks for America]], [[Rosa DeLauro]], [[Indivisible Action]], [[Pete Aguilar]], [[_Ted Lieu Master Profile]], [[Jay Obernolte]], [[Katie Britt]], [[Northrop Grumman]], [[Brian Babin]], [[Andre Carson]], [[Mark Warner]], [[Jim Himes]], [[MoveOn.org Political Action]], [[Mike Thompson]], [[_Carlos Gimenez Master Profile]], [[_Cory Booker Master Profile]], [[Marilyn Strickland]], [[Celeste Maloy]], [[Juan Vargas]], [[Hakeem Jeffries]], [[Andrea Salinas]], [[Nancy Pelosi]], [[Eric Swalwell]], [[Brittany Pettersen]], [[Mark DeSaulnier]], [[Chris Christie]], [[Joe Wilson]], [[Carlos Gimenez]], [[Frank Lucas]], [[_Adam Gray Master Profile]], [[Todd Young]], [[Jodey Arrington]], [[Kevin McCarthy]], [[Pete Stauber]], [[Frank Pallone]], [[_August Pfluger Master Profile]], [[Jimmy Panetta]], [[Joseph Morelle]], [[_Jamie Raskin Master Profile]], [[Mariannette Miller-Meeks]], [[Debbie Dingell]], [[314 ACTION FUND]], [[Lamonica McIver]], [[Joe Manchin]], [[Hunter Action Fund (haf)]], [[_Jim Jordan Master Profile]], [[Lisa Murkowski]], [[Suzanne Bonamici]], [[Gregory Meeks]], [[Dan Newhouse]], [[_Ted Budd Master Profile]], [[Jack Reed]], [[_Tammy Baldwin Master Profile]], [[Gary Peters]], [[Chris Coons]], [[Steve Womack]], [[Sarah McBride]], [[Kat Cammack]], [[_George Whitesides Master Profile]], [[Barbara Lee]], [[Josh Gottheimer]], [[Kay Granger]], [[_Jon Ossoff Master Profile]], [[_Thomas Massie Master Profile]], [[James Lankford]], [[REPUBLICAN PARTY OF FLORIDA]], [[Betty McCollum]], [[Gun Owners of America]], [[America First Action]], [[League of Conservation Voters]], [[Jacky Rosen]], [[_Lauren Boebert Master Profile]], [[John Thune]], [[Lance Gooden]], [[_Cory Mills Master Profile]], [[Alex Padilla]], [[National Rifle Association]], [[_Ron Johnson Master Profile]], [[_Mike Kelly Master Profile]], [[Pat Harrigan]], [[Giffords PAC]], [[Troy Downing]], [[Derek Tran]], [[Richard Hudson]], [[Adam Schiff]], [[John Boozman]], [[Guy Reschenthaler]], [[John Barrasso]], [[Dina Titus]], [[Brian Schatz]], [[Burgess Owens]], [[_Don Bacon Master Profile]], [[CHC BOLD PAC]], [[George Whitesides]], [[Lindsey Graham]], [[Grace Meng]], [[Rick Crawford]], [[August Pfluger]], [[National Victory Action Fund]], [[Shomari Figures]], [[Tammy Duckworth]], [[Zoe Lofgren]], [[Mike Carey]], [[Roger Marshall]], [[Suhas Subramanyam]], [[Rick Larsen]], [[Lois Frankel]], [[Sharice Davids]], [[Mike Flood]], [[Sean Casten]], [[Marianne Williamson]], [[Mike Haridopolos]], [[Glenn Grothman]], [[_Anna Paulina Luna Master Profile]], [[Bernie Moreno]], [[Susan Collins]], [[Susie Lee]], [[_Cori Bush Master Profile]], [[Markwayne Mullin]], [[Sherrod Brown]], [[Mike Kennedy]], [[Seth Magaziner]], [[Aaron Bean]], [[_Claudia Tenney Master Profile]], [[Patty Murray]], [[Save America PAC]], [[Ted Lieu]], [[Patrick McHenry]], [[Congressional Leadership Fund]], [[Americans for Prosperity]], [[Mike Lee]], [[Congressional Progressive Caucus PAC]], [[Steven Horsford]], [[Adam Gray]], [[_Pete Aguilar Master Profile]], [[Scott Desjarlais]], [[Richard McCormick]], [[John Hoeven]], [[Henry Cuellar]], [[Brad Finstad]], [[Chrissy Houlahan]], [[Chuck Edwards]], [[Jerry Moran]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[_Victoria Spartz Master Profile]], [[Elise Stefanik]], [[Ashley Moody]], [[Deb Fischer]], [[Morgan Luttrell]], [[Thom Tillis]], [[JUSTICE DEMOCRATS PAC]], [[Tim Scott]], [[Vicente Gonzalez]], [[_Dave Min Master Profile]], [[Eric Sorensen]], [[John Cornyn]], [[Honoring American Law Enforcement Pac]], [[Derek Schmidt]], [[Ron Estes]], [[Tammy Baldwin]], [[_Jake Ellzey Master Profile]], [[Richard Neal]], [[_Michael Waltz Master Profile]], [[Bill Hagerty]], [[Veronica Escobar]], [[Ritchie Torres]], [[Don Bacon]], [[Chris Pappas]], [[Ted Cruz]], [[Andy Harris]], [[Robert Garcia]], [[Rashida Tlaib]], [[Jon Ossoff]], [[Victoria Spartz]], [[Jamie Raskin]], [[Cory Mills]], [[Lauren Boebert]], [[Ron Johnson]], [[Ted Budd]], [[Cori Bush]], [[Dave Min]], [[Cory Booker]], [[Thomas Massie]], [[Marco Rubio]], [[Mike Kelly]], [[Josh Hawley]], [[Byron Donalds]], [[Elissa Slotkin]], [[Lauren Underwood]], [[Claudia Tenney]], [[Jake Ellzey]], [[John James]], [[Anna Paulina Luna]], [[Kevin Kiley]], [[Deb Haaland]], [[Jim Jordan]], [[HMP]], [[Priorities USA Action]], [[Special Operations for America]], [[314 Action Fund]], [[Republican Party of Florida]], [[Minnesota Democratic-Farmer-Labor Party]], [[Justice Democrats PAC]]"
 issues:
   - Defense & Military
-federal-contracts: 8319
+federal-contracts: 4912
 ein: "956095343"
 annual-revenue: $15.1M
 net-assets: $31.0M
@@ -57,7 +57,7 @@ sec-form-types:
   - SC 14D9/A
   - SC TO-T/A
   - SCHEDULE 13G/A
-federal-awards-total: 22507257508
+federal-awards-total: 13856941316
 federal-contracts-count: 25
 federal-grants-count: 12
 related: "[[Palantir Technologies Political Operation]] · [[Think Tank Capture - Foreign Governments Writing US Policy]] · [[Defense Contractor 450000 Percent ROI]] · [[Boeing Defense]] · [[Defense Contractor Conflicts and Stock Holdings]] · [[The China Hawk and National Security State]] · [[Raytheon Technologies]] · [[General Dynamics]] · [[Booz Allen Hamilton]] · [[Raytheon (RTX Corporation)]] · [[John Ratcliffe Master Profile]] · [[The Defense Contractor Revolving Door and the Consulting Pipeline]] · [[L3 Technologies]] · [[The Defense Appropriations Pipeline - Mississippi Military Spending]] · [[The Veterans Affairs Committee and Kansas Defense]] · [[The Armed Services Committee and Nebraska Defense]] · [[Tom Cole]] · [[The Appropriations Gavel and the Spending Cartel]] · [[The National Security-to-Senate Pipeline]] · [[The Armed Services Committee and Defense Contractor Pipeline]] · [[Volodymyr Zelenskyy]] · [[The Energy Committee and Nuclear-Renewables Axis]] · [[Lockheed Martin]] · [[Boeing]] · [[Raytheon (RTX)]] · [[Israel and Foreign Policy - Donors and Backers]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[_Donald Trump Master Profile|Trump]] · [[Heritage Foundation]] · [[Federalist Society]] · [[Jeanne Shaheen Master Profile]] · [[Koch Industries]] · [[ExxonMobil]] · [[WSPA - Western States Petroleum Association]] · [[Valero Energy]] · [[Southern Company]] · [[PG&E - Pacific Gas and Electric]] · [[Instacart]] · [[Flex Association]] · [[Airbnb]] · [[Lyft]] · [[Uber]] · [[UnitedHealth Group - Optum]] · [[Eli Lilly]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Johnson & Johnson]] · [[Gilead Sciences]] · [[Centene Corporation]] · [[AbbVie]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Tenet Healthcare]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Kaiser Permanente]] · [[Humana]] · [[Hospital Corporation of America - HCA]] · [[Civica Rx]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Blue Cross Blue Shield Association]] · [[Anthem - Elevance Health Political Operation]] · [[DoorDash]] · [[Occidental Petroleum]] · [[NextEra Energy]] · [[Marathon Petroleum]] · [[Hawaiian Electric Company]] · [[Halliburton]] · [[Fossil Fuel Bloc]] · [[Duke Energy]] · [[Devon Energy]] · [[ConocoPhillips]]"
@@ -423,23 +423,23 @@ Northrop Grumman represents the defense sector's most refined form of structural
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 8,319 |
-| Total Obligation | $22,507,257,508 |
-| Fiscal Years | 2024, 2025 |
-| Awarding Agencies | 13 |
+| Federal Contracts | 4,912 |
+| Total Obligation | $13,856,941,316 |
+| Fiscal Years | 2025, 2026 |
+| Awarding Agencies | 11 |
 
 **Top awarding agencies:**
 
-- Department of Defense: $20,736,394,428
-- National Aeronautics and Space Administration: $1,579,034,058
-- Department of Homeland Security: $104,353,490
-- General Services Administration: $34,475,601
-- Department of Transportation: $23,310,674
-- Department of Health and Human Services: $18,898,237
-- Department of the Interior: $7,589,206
-- Department of Housing and Urban Development: $2,525,984
-- Department of Commerce: $532,344
-- Department of State: $245,634
+- Department of Defense: $12,092,379,519
+- National Aeronautics and Space Administration: $1,689,836,515
+- Department of Homeland Security: $54,507,219
+- General Services Administration: $9,473,020
+- Department of Transportation: $5,393,225
+- Department of the Interior: $4,485,400
+- Department of Housing and Urban Development: $2,636,137
+- Department of Commerce: $465,144
+- Department of State: $124,632
+- Department of Justice: $-963,463
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

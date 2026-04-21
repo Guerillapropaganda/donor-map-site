@@ -7,8 +7,8 @@ source-tier: 2
 parent: null
 sector: Defense & Intelligence
 entity-type: Corporation
-federal-contracts: 214
-federal-awards-total: 270699079
+federal-contracts: 273
+federal-awards-total: 380353310
 federal-contracts-count: 25
 federal-grants-count: 0
 federal-register-mentions: 32
@@ -202,16 +202,16 @@ L3 Technologies exemplifies how defense contractors operate within military-indu
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 214 |
-| Total Obligation | $270,699,079 |
-| Fiscal Years | 2024, 2025 |
+| Federal Contracts | 273 |
+| Total Obligation | $380,353,310 |
+| Fiscal Years | 2025, 2026 |
 | Awarding Agencies | 3 |
 
 **Top awarding agencies:**
 
-- Department of Defense: $243,458,520
-- General Services Administration: $26,920,559
-- Department of Homeland Security: $320,000
+- Department of Defense: $348,924,118
+- General Services Administration: $31,333,192
+- Department of Homeland Security: $96,000
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

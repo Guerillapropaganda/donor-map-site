@@ -44,7 +44,7 @@ regulatory-agencies:
   - Federal Reserve System
   - Food and Drug Administration
 related: "[[Amy Klobuchar]] · [[The Antitrust Crusade and Legislative Stalling]] · [[Barack Obama Master Profile]] · [[The Silicon Valley Presidency - Google Surveillance and Market Dominance]] · [[The Immigration and Administration Committees - Silicon Valley Gatekeeper]] · [[Ro Khanna Master Profile]] · [[The Silicon Valley Progressive and Tech Industry Alignment]] · [[The Judiciary Committee and Libertarian Constitutionalism]] · [[The Finance Committee and Corporate Tax Enforcement]] · [[The Judiciary Committee and Tech Accountability]] · [[Invariant]] · [[Google - Alphabet]] · [[Amazon]] · [[Meta - Facebook]] · [[Microsoft]] · [[TikTok - ByteDance]] · [[Nvidia]]"
-federal-awards-total: 79171
+federal-awards-total: 29077
 federal-contracts-count: 25
 federal-grants-count: 25
 sec-filings: 10000
@@ -100,7 +100,7 @@ audit-a-plus-passed: "2026-04-11"
 politicians-funded: "[[Barack Obama]], [[Amy Klobuchar]], [[314 ACTION FUND]], [[_Josh Hawley Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[DNC - Democratic National Committee]], [[_Pete Aguilar Master Profile]], [[Alice B. Toklas LGBTQ Democratic Club Federal PAC]], [[_Mike Kelly Master Profile]], [[_Martin Heinrich Master Profile]], [[_Chrissy Houlahan Master Profile]], [[ActBlue]], [[Bob Casey]], [[_George Whitesides Master Profile]], [[_Lauren Underwood Master Profile]], [[Progressive Turnout Project]], [[Barbara Lee]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Planned Parenthood Action Fund INC]], [[Indivisible Action]], [[_Bonnie Watson Coleman Master Profile]], [[Chris Christie]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Alex Padilla Master Profile]], [[_Rashida Tlaib Master Profile]], [[Working Families Party PAC]], [[_Jim Jordan Master Profile]], [[Catherine Cortez Masto]], [[Votevets]], [[_Cori Bush Master Profile]], [[Emily's List]], [[_Josh Riley Master Profile]], [[Trump Victory]], [[JUSTICE DEMOCRATS PAC]], [[J Street]], [[Save America PAC]], [[ENVIRONMENT AMERICA INC]], [[_Joe Neguse Master Profile]], [[Hmp]], [[_Jason Smith Master Profile]], [[Mark Kelly]], [[Dream United]], [[The Lincoln Project]], [[_Vicente Gonzalez Master Profile]], [[Let America Vote PAC]], [[NRCC - National Republican Congressional Committee]], [[_Susie Lee Master Profile]], [[_Young Kim Master Profile]], [[Really American Pac]], [[_Jake Auchincloss Master Profile]], [[Citizens Against Aipac Corruption]], [[_Josh Harder Master Profile]], [[Ab Pac]], [[Edf Action Votes]], [[_Adam Gray Master Profile]], [[CHC BOLD PAC]], [[_Shontel Brown Master Profile]], [[Courage to Change PAC]], [[PRIORITIES USA ACTION]], [[MAGA Inc]], [[_Anna Paulina Luna Master Profile]], [[_Dave Min Master Profile]], [[Marianne Williamson]], [[_Mike Levin Master Profile]], [[AIPAC - American Israel Public Affairs Committee]], [[Congressional Progressive Caucus PAC]], [[_Elissa Slotkin Master Profile]], [[_Angie Craig Master Profile]], [[WinSenate]], [[_Kevin Kiley Master Profile]], [[_Derek Tran Master Profile]], [[_Jon Ossoff Master Profile]], [[Giffords PAC]], [[_Tammy Baldwin Master Profile]], [[United Democracy Project - UDP]], [[_Gabe Vasquez Master Profile]], [[National Right to Life Victory Fund]], [[_Julia Brownley Master Profile]], [[_Judy Chu Master Profile]], [[_Thomas Massie Master Profile]], [[_Lisa Blunt Rochester Master Profile]], [[Climate Hawks Vote]], [[_Cory Booker Master Profile]], [[WinRed]], [[_Tim Scott Master Profile]], [[_Jimmy Panetta Master Profile]], [[Senate Conservatives Fund]], [[RNC - Republican National Committee]], [[National Rifle Association]], [[_Mark Takano Master Profile]], [[MoveOn.org Political Action]], [[_Bill Foster Master Profile]], [[Protect the Vote]], [[_Maria Elvira Salazar Master Profile]], [[Human Rights Campaign Equality Votes]], [[_Summer Lee Master Profile]], [[_Ted Lieu Master Profile]], [[League of Conservation Voters]], [[FreedomWorks for America]], [[NORPAC]], [[_Jimmy Gomez Master Profile]], [[_Scott Fitzgerald Master Profile]], [[Activate America]], [[_Nancy Pelosi Master Profile]], [[Bernie Moreno]], [[_Marco Rubio Master Profile]], [[Fairshake PAC]], [[_Laura Friedman Master Profile]], [[_Ben Cline Master Profile]], [[_Jason Crow Master Profile]], [[_Ted Cruz Master Profile]], [[_Kweisi Mfume Master Profile]], [[Equality California Votes]], [[_Carlos Gimenez Master Profile]], [[_Dan Newhouse Master Profile]], [[_Ron Johnson Master Profile]], [[_Ted Budd Master Profile]], [[_Kevin Mullin Master Profile]], [[AMERICAN JOBS AND GROWTH PAC]], [[America First Action]], [[_Jamie Raskin Master Profile]], [[_Chris Pappas Master Profile]], [[_Mario Diaz-Balart Master Profile]], [[_Emily Randall Master Profile]], [[_Julia Letlow Master Profile]], [[_Deb Haaland Master Profile]], [[_Virginia Foxx Master Profile]], [[_Kamala Harris Master Profile]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[_Sydney Kamlager-Dove Master Profile]], [[_Troy Downing Master Profile]], [[Everytown for Gun Safety Victory Fund]], [[_John James Master Profile]], [[_Jay Obernolte Master Profile]], [[_Mark DeSaulnier Master Profile]], [[_Jim Costa Master Profile]], [[_Scott Wiener Master Profile]], [[_Darrell Issa Master Profile]], [[Congressional Leadership Fund]], [[_Christian D. Menefee Master Profile]], [[Mad Dog PAC]], [[National Victory Action Fund]], [[Pete Aguilar]], [[Julia Brownley]], [[Lauren Underwood]], [[Nancy Pelosi]], [[Jon Ossoff]], [[Rashida Tlaib]], [[Kamala Harris]], [[Ted Lieu]], [[Susie Lee]], [[Chris Pappas]], [[Maria Elvira Salazar]], [[Josh Harder]], [[Cori Bush]], [[Mario Diaz-Balart]], [[Elissa Slotkin]], [[Angie Craig]], [[Marco Rubio]], [[Thomas Massie]], [[Tammy Baldwin]], [[Dave Min]], [[Lisa Blunt Rochester]], [[Ted Cruz]], [[Chrissy Houlahan]], [[Ben Cline]], [[John James]], [[Jimmy Panetta]], [[Scott Wiener]], [[Vicente Gonzalez]], [[Jay Obernolte]], [[Joe Neguse]], [[Mark Takano]], [[Laura Friedman]], [[Jason Crow]], [[Adam Gray]], [[Dan Newhouse]], [[Summer Lee]], [[Anna Paulina Luna]], [[Mike Kelly]], [[Jake Auchincloss]], [[Young Kim]], [[Jim Jordan]], [[Jamie Raskin]], [[Judy Chu]], [[Martin Heinrich]], [[Josh Riley]], [[Jimmy Gomez]], [[Sydney Kamlager-Dove]], [[Deb Haaland]], [[Kevin Mullin]], [[Scott Fitzgerald]], [[Mike Levin]], [[Jason Smith]], [[Bill Foster]], [[Julia Letlow]], [[Alex Padilla]], [[Derek Tran]], [[Cory Booker]], [[Jim Costa]], [[Emily Randall]], [[Tim Scott]], [[Kevin Kiley]], [[Gabe Vasquez]], [[Troy Downing]], [[Bonnie Watson Coleman]], [[Josh Hawley]], [[Darrell Issa]], [[Kweisi Mfume]], [[Ted Budd]], [[Carlos Gimenez]], [[George Whitesides]], [[Shontel Brown]], [[Ron Johnson]], [[Christian D. Menefee]], [[Virginia Foxx]], [[Mark DeSaulnier]], [[314 Action Fund]], [[Justice Democrats PAC]], [[Environment America INC]], [[HMP]], [[AB PAC]], [[Priorities USA Action]], [[American Jobs and Growth PAC]], [[Minnesota Democratic-Farmer-Labor Party]]"
 epa-facilities: 79
 epa-states: CA, FL, LA, MA, NC, NV, OH, OR, TN, TX
-federal-contracts: 15
+federal-contracts: 6
 employee-contributions: 61764
 employee-contributions-total: 13175028
 employee-donor-count: 9032
@@ -362,19 +362,16 @@ Apple occupies a unique position: a corporation that extracts value through cons
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 15 |
-| Total Obligation | $79,171 |
-| Fiscal Years | 2024, 2025 |
-| Awarding Agencies | 6 |
+| Federal Contracts | 6 |
+| Total Obligation | $29,077 |
+| Fiscal Years | 2025 |
+| Awarding Agencies | 3 |
 
 **Top awarding agencies:**
 
-- Department of State: $97,239
-- Department of Justice: $15,178
-- Department of Defense: $299
-- Department of the Interior: $-4,400
-- U.S. Agency for Global Media: $-8,918
-- Agency for International Development: $-20,226
+- Department of State: $39,467
+- Department of Justice: $7,769
+- Agency for International Development: $-18,159
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

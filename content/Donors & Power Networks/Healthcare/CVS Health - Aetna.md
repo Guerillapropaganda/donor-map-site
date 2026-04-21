@@ -18,8 +18,8 @@ audit-a-plus-passed: "2026-04-11"
 urls-first-triaged: "2026-04-15"
 epa-facilities: 18
 epa-states: AZ, CA, CT, IL, RI
-federal-contracts: 11
-federal-awards-total: 27301569
+federal-contracts: 6
+federal-awards-total: 6911029
 total-raised: 1115160
 total-spent: 1150341
 cash-on-hand: 309063
@@ -193,16 +193,15 @@ CVS Health represents the complete vertical capture of the prescription drug sup
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 11 |
-| Total Obligation | $27,301,569 |
-| Fiscal Years | 2024, 2025 |
-| Awarding Agencies | 3 |
+| Federal Contracts | 6 |
+| Total Obligation | $6,911,029 |
+| Fiscal Years | 2025, 2026 |
+| Awarding Agencies | 2 |
 
 **Top awarding agencies:**
 
-- Department of Health and Human Services: $26,867,981
-- Department of Veterans Affairs: $404,515
-- Department of Justice: $29,074
+- Department of Health and Human Services: $6,857,981
+- Department of Veterans Affairs: $53,049
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

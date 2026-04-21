@@ -11,7 +11,7 @@ politicians-funded: "[[Jon Husted]], [[Joe Manchin]], [[The Lincoln Project]], [
 issues:
   - Social Safety Net
   - Healthcare
-federal-awards-total: 1039750982
+federal-awards-total: 38397554
 federal-contracts-count: 12
 federal-grants-count: 0
 federal-register-mentions: 13
@@ -78,7 +78,7 @@ cross-vault-triangulation-count: 8
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 1
 epa-states: MO
-federal-contracts: 19
+federal-contracts: 18
 employee-contributions: 8620
 employee-contributions-total: 1579148
 employee-donor-count: 945
@@ -153,17 +153,19 @@ Centene's structural function in American healthcare is converting public health
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 19 |
-| Total Obligation | $1,039,750,982 |
-| Fiscal Years | 2024, 2025 |
-| Awarding Agencies | 4 |
+| Federal Contracts | 18 |
+| Total Obligation | $38,397,554 |
+| Fiscal Years | 2025, 2026 |
+| Awarding Agencies | 6 |
 
 **Top awarding agencies:**
 
-- Department of Defense: $1,039,804,157
-- Department of Justice: $80,099
-- Department of Veterans Affairs: $48,620
-- General Services Administration: $-181,894
+- General Services Administration: $26,108,374
+- Department of Health and Human Services: $12,184,134
+- Department of Veterans Affairs: $61,364
+- Department of Justice: $51,119
+- Department of the Interior: $41,388
+- Department of Homeland Security: $-48,825
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

@@ -28,8 +28,8 @@ cross-vault-triangulation-count: 16
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 156
 epa-states: CA
-federal-contracts: 138
-federal-awards-total: 120514827
+federal-contracts: 124
+federal-awards-total: 64316311
 total-raised: 440448
 total-spent: 295005
 cash-on-hand: 291463
@@ -182,23 +182,23 @@ PG&E represents the extreme case of utility political capture: a company that ha
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 138 |
-| Total Obligation | $120,514,827 |
-| Fiscal Years | 2024, 2025 |
+| Federal Contracts | 124 |
+| Total Obligation | $64,316,311 |
+| Fiscal Years | 2025, 2026 |
 | Awarding Agencies | 11 |
 
 **Top awarding agencies:**
 
-- Department of Veterans Affairs: $63,814,072
-- Department of the Interior: $23,158,519
-- Department of Defense: $17,635,417
-- Department of Justice: $7,653,056
-- National Aeronautics and Space Administration: $4,435,213
-- Social Security Administration: $1,939,436
-- Department of the Treasury: $995,922
-- Department of Transportation: $378,284
-- Department of Health and Human Services: $360,000
-- General Services Administration: $103,422
+- Department of Veterans Affairs: $47,811,474
+- Department of Justice: $7,572,272
+- Department of the Interior: $2,655,131
+- National Aeronautics and Space Administration: $1,994,053
+- Department of Defense: $1,533,657
+- Department of the Treasury: $1,147,843
+- Department of Transportation: $750,584
+- Department of Health and Human Services: $540,000
+- General Services Administration: $211,403
+- Social Security Administration: $58,407
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

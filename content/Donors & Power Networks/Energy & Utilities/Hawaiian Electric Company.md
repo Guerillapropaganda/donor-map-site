@@ -45,14 +45,14 @@ court-jurisdictions:
   - District Court, W.D. Washington
   - United States Bankruptcy Court, D. Delaware
   - United States Bankruptcy Court, D. Hawaii
-federal-awards-total: 22818802
+federal-awards-total: 17706623
 federal-contracts-count: 15
 federal-grants-count: 1
 cross-vault-triangulation-count: 1
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 2
 epa-states: HI
-federal-contracts: 59
+federal-contracts: 43
 employee-contributions: 1567
 employee-contributions-total: 53359
 employee-donor-count: 64
@@ -250,17 +250,17 @@ HECO follows the same pattern as PG&E in California: a regulated monopoly that u
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 59 |
-| Total Obligation | $22,818,802 |
-| Fiscal Years | 2024, 2025 |
+| Federal Contracts | 43 |
+| Total Obligation | $17,706,623 |
+| Fiscal Years | 2025, 2026 |
 | Awarding Agencies | 4 |
 
 **Top awarding agencies:**
 
-- Department of Defense: $17,777,904
-- Department of Justice: $3,838,339
-- Department of Homeland Security: $605,559
-- Smithsonian Institution: $597,000
+- Department of Defense: $13,788,236
+- Department of Justice: $2,636,646
+- Department of Homeland Security: $1,014,834
+- Department of the Interior: $266,907
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

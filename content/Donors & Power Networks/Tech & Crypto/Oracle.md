@@ -25,7 +25,7 @@ subawards-received-amount: 281107145
 top-federal-agency: Department of Veterans Affairs
 top-naics-code: "541512"
 related: "[[The Judiciary Committee and Libertarian Constitutionalism]] · [[Larry Ellison]] · [[Google - Alphabet]] · [[Amazon]] · [[Microsoft]] · [[_Donald Trump Master Profile|Trump]]"
-federal-awards-total: 120226991
+federal-awards-total: 68635412
 federal-contracts-count: 25
 federal-grants-count: 3
 court-cases: 18876
@@ -48,7 +48,7 @@ cross-vault-triangulation-count: 5
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 26
 epa-states: CA, CO, MA, MO, NH, OR, PA, TN, TX, VT
-federal-contracts: 73
+federal-contracts: 56
 employee-contributions: 32202
 employee-contributions-total: 47816625
 employee-donor-count: 4914
@@ -212,19 +212,18 @@ Government cloud contracts (competing with Amazon and Microsoft for Pentagon, CI
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 73 |
-| Total Obligation | $120,226,991 |
-| Fiscal Years | 2024, 2025 |
-| Awarding Agencies | 6 |
+| Federal Contracts | 56 |
+| Total Obligation | $68,635,412 |
+| Fiscal Years | 2025, 2026 |
+| Awarding Agencies | 5 |
 
 **Top awarding agencies:**
 
-- Department of Defense: $110,626,466
-- Department of Agriculture: $6,543,877
-- Federal Communications Commission: $1,129,902
-- U.S. International Development Finance Corporation: $1,102,437
-- Department of Health and Human Services: $826,073
-- Department of the Interior: $-1,763
+- Department of Defense: $57,305,228
+- Department of Agriculture: $9,592,344
+- Department of Health and Human Services: $786,761
+- U.S. International Development Finance Corporation: $576,927
+- Federal Communications Commission: $374,152
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

@@ -54,7 +54,7 @@ sec-form-types:
   - SC 13D/A
   - SCHEDULE 13G
   - SCHEDULE 13G/A
-federal-awards-total: 16011729255
+federal-awards-total: 9518537273
 federal-contracts-count: 25
 federal-grants-count: 2
 related: "[[Raytheon (RTX Corporation)]] · [[The National Security-to-Senate Pipeline]] · [[General Dynamics]] · [[Raytheon Technologies]] · [[Palantir Technologies Political Operation]] · [[Boeing Defense]] · [[Lockheed Martin]] · [[Northrop Grumman]] · [[L3Harris Technologies]] · [[_Gerry Connolly Master Profile|Connolly]] · [[Leidos]] · [[BAE Systems]] · [[Anduril Industries]] · [[Defense Industry Bloc]] · [[Defense Contractors Bloc]] · [[Valero Energy]] · [[WSPA - Western States Petroleum Association]] · [[Instacart]] · [[Flex Association]] · [[Airbnb]] · [[Lyft]] · [[Uber]] · [[UnitedHealth Group - Optum]] · [[Johnson & Johnson]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[Humana]] · [[Hospital Corporation of America - HCA]] · [[Civica Rx]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Blue Cross Blue Shield Association]] · [[Anthem - Elevance Health Political Operation]] · [[DoorDash]] · [[Southern Company]] · [[PG&E]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[NextEra Energy]] · [[Marathon Petroleum]] · [[Koch Industries]] · [[Hawaiian Electric Company]]"
@@ -68,7 +68,7 @@ cross-vault-triangulation-count: 12
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 1
 epa-states: FL
-federal-contracts: 7661
+federal-contracts: 4443
 employee-contributions: 6830
 employee-contributions-total: 1062512
 employee-donor-count: 1355
@@ -230,23 +230,23 @@ Sustained and increased federal IT spending, expanded cybersecurity contracts, f
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 7,661 |
-| Total Obligation | $16,011,729,255 |
-| Fiscal Years | 2024, 2025 |
-| Awarding Agencies | 23 |
+| Federal Contracts | 4,443 |
+| Total Obligation | $9,518,537,273 |
+| Fiscal Years | 2025, 2026 |
+| Awarding Agencies | 18 |
 
 **Top awarding agencies:**
 
-- Department of Defense: $5,748,053,548
-- General Services Administration: $5,255,306,276
-- Department of Veterans Affairs: $2,477,198,310
-- Department of Health and Human Services: $864,874,197
-- National Aeronautics and Space Administration: $299,744,469
-- Department of the Treasury: $282,213,812
-- Department of Justice: $212,108,262
-- Department of Homeland Security: $186,885,385
-- Department of the Interior: $114,582,246
-- Department of Energy: $112,615,684
+- Department of Defense: $3,309,468,776
+- General Services Administration: $3,092,937,361
+- Department of Veterans Affairs: $1,581,660,090
+- Department of Health and Human Services: $571,698,919
+- National Aeronautics and Space Administration: $212,633,966
+- Department of the Treasury: $139,154,792
+- Department of Homeland Security: $95,923,245
+- Department of Justice: $95,522,825
+- Department of Energy: $76,855,251
+- Department of the Interior: $73,405,293
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

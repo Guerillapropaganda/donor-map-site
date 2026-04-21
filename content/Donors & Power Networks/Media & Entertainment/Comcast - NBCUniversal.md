@@ -59,8 +59,8 @@ aliases:
   - NBCUniversal
 epa-facilities: 79
 epa-states: CA, FL, IN, KY, MA, MI, MN, NH, NM, NY, OR
-federal-contracts: 784
-federal-awards-total: 17238013
+federal-contracts: 280
+federal-awards-total: 4430135
 total-raised: 2024696
 total-spent: 1822301
 cash-on-hand: 1166265
@@ -336,23 +336,23 @@ The bipartisan giving strategy reveals the structural function: Comcast doesn't 
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 784 |
-| Total Obligation | $17,238,013 |
-| Fiscal Years | 2024, 2025 |
-| Awarding Agencies | 20 |
+| Federal Contracts | 280 |
+| Total Obligation | $4,430,135 |
+| Fiscal Years | 2025, 2026 |
+| Awarding Agencies | 18 |
 
 **Top awarding agencies:**
 
-- Department of Defense: $10,507,258
-- Department of Health and Human Services: $2,551,480
-- Department of Veterans Affairs: $1,054,173
-- Department of Justice: $789,804
-- Department of State: $545,185
-- Nuclear Regulatory Commission: $496,329
-- Department of Homeland Security: $364,070
-- Department of the Treasury: $291,650
-- Consumer Product Safety Commission: $227,778
+- Department of Defense: $1,415,956
+- Department of Veterans Affairs: $982,776
+- Department of Justice: $642,180
+- Department of Health and Human Services: $430,655
+- Nuclear Regulatory Commission: $360,370
+- Consumer Product Safety Commission: $208,800
+- Department of Homeland Security: $146,933
 - Department of Energy: $138,950
+- Department of the Treasury: $24,660
+- U.S. Agency for Global Media: $22,800
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

@@ -45,8 +45,8 @@ regulatory-agencies:
   - Securities and Exchange Commission
 epa-facilities: 75
 epa-states: AL, AR, AZ, CA, CO, CT, FL, IN, KS, KY, MA, MD, MI, MS, NH, NJ, NY, PA, RI, TX, VA
-federal-contracts: 18143
-federal-awards-total: 53187942533
+federal-contracts: 10044
+federal-awards-total: 35300317288
 total-raised: 1682166
 total-spent: 1392268
 cash-on-hand: 3936720
@@ -617,23 +617,22 @@ RTX represents the defense sector's structural capture of the American state. Th
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 18,143 |
-| Total Obligation | $53,187,942,533 |
-| Fiscal Years | 2024, 2025 |
-| Awarding Agencies | 16 |
+| Federal Contracts | 10,044 |
+| Total Obligation | $35,300,317,288 |
+| Fiscal Years | 2025, 2026 |
+| Awarding Agencies | 9 |
 
 **Top awarding agencies:**
 
-- Department of Defense: $52,235,427,810
-- Department of Transportation: $383,857,459
-- National Aeronautics and Space Administration: $281,513,704
-- Department of Commerce: $139,996,499
-- General Services Administration: $87,957,266
-- Department of Homeland Security: $33,870,833
-- Department of Justice: $7,381,024
-- Department of the Treasury: $5,873,938
-- Department of Veterans Affairs: $4,127,876
-- Social Security Administration: $3,073,612
+- Department of Defense: $34,211,257,079
+- Department of Transportation: $760,061,137
+- National Aeronautics and Space Administration: $185,838,434
+- Department of Commerce: $74,776,950
+- General Services Administration: $59,512,974
+- Department of Homeland Security: $8,711,705
+- Department of Energy: $90,666
+- Department of Justice: $76,257
+- Department of the Interior: $-7,915
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

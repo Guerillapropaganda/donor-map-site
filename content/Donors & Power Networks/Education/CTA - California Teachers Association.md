@@ -26,8 +26,8 @@ audit-a-plus-passed: "2026-04-11"
 urls-first-triaged: "2026-04-15"
 epa-facilities: 6
 epa-states: AL, IL, UT
-federal-contracts: 36
-federal-awards-total: 2527004
+federal-contracts: 18
+federal-awards-total: 1293656
 employee-contributions: 1351
 employee-contributions-total: 164575
 employee-donor-count: 245
@@ -208,17 +208,16 @@ Education, charter schools, COVID closures, curriculum, early childhood, school 
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 36 |
-| Total Obligation | $2,527,004 |
-| Fiscal Years | 2024, 2025 |
-| Awarding Agencies | 4 |
+| Federal Contracts | 18 |
+| Total Obligation | $1,293,656 |
+| Fiscal Years | 2025, 2026 |
+| Awarding Agencies | 3 |
 
 **Top awarding agencies:**
 
-- General Services Administration: $1,117,436
-- Department of Agriculture: $841,390
-- Department of Defense: $432,448
-- Department of the Interior: $135,731
+- Department of Agriculture: $671,746
+- General Services Administration: $587,891
+- Department of the Interior: $34,019
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
