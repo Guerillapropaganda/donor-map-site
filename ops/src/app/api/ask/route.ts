@@ -2664,14 +2664,21 @@ function finalize(res: AskResult): AskResult {
   // class of bug where we look up the wrong person without telling the
   // user.
   if (
-    res.did_you_mean && res.did_you_mean.length >= 2 && res.resolved_title &&
+    res.did_you_mean && res.did_you_mean.length >= 1 && res.resolved_title &&
     res.answer && !res.answer.startsWith("**Showing results for")
   ) {
     const qLower = String(res.question || "").toLowerCase()
     const titleLower = String(res.resolved_title).toLowerCase()
     // Heuristic: if the full resolved title isn't a substring of the
-    // question, the match is fuzzy and worth flagging.
-    const isFuzzy = !qLower.includes(titleLower)
+    // question, the match is fuzzy and worth flagging. Also check if
+    // any token of the query is missing from the resolved title —
+    // "John Smith" → "Jason Smith" has no "John" in Jason Smith, so
+    // that's a fuzzy match even though "Smith" appears in both.
+    const titleIsSubstring = qLower.includes(titleLower)
+    const queryTokens = qLower.split(/\s+/).filter((t) => t.length >= 3 && !/^(who|what|where|how|tell|show|find|get|list|about|funds?|funded|gives?|gave|donates?|donated|from|to|the|and|for)$/.test(t))
+    const titleTokensLower = titleLower.split(/\s+/)
+    const allTokensCovered = queryTokens.every((qt) => titleTokensLower.some((tt) => tt.includes(qt) || qt.includes(tt)))
+    const isFuzzy = !titleIsSubstring && !allTokensCovered
     if (isFuzzy) {
       const others = res.did_you_mean.filter((n) => n !== res.resolved_title).slice(0, 4)
       const list = others.length > 0 ? ` (or: ${others.join(", ")})` : ""
