@@ -127,7 +127,7 @@ top-donors: "[[National Rifle Association]], [[Drummond Co.]], [[Lockheed Martin
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 3):**
+**Most recent party-line deviations (top 3 of 3):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

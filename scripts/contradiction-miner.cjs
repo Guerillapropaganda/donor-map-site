@@ -344,16 +344,162 @@ function writeSeedFile(finding) {
   return filePath;
 }
 
+// ─── Phase 2 additions: new dimensions (offshore + bill sponsorship) ───
+
+const OFFSHORE_FILE = path.join(__dirname, '..', 'data', 'offshore-entities.jsonl');
+const BILLS_FILE = path.join(__dirname, '..', 'data', 'bills.jsonl');
+const ENTITIES_FILE = path.join(__dirname, '..', 'data', 'entities.jsonl');
+
+function loadJsonl(filePath) {
+  if (!fs.existsSync(filePath)) return [];
+  const out = [];
+  for (const l of fs.readFileSync(filePath, 'utf-8').split(/\r?\n/)) {
+    if (!l.trim()) continue;
+    try { out.push(JSON.parse(l)); } catch {}
+  }
+  return out;
+}
+
+/**
+ * PATTERN 6 — OFFSHORE EXPOSURE. Any vault entity appearing in the
+ * ICIJ Offshore Leaks Database is a story seed, especially when cross-
+ * referenced with their donation / contract / grant footprint. The
+ * journalism angle: "Entity X appears in [Paradise Papers] for a
+ * [Bermuda] shell while donating $Y to [legislators on Z committee]."
+ * Confidence 3/5 — presence in leaks is factual but implications vary.
+ */
+function mineOffshoreFlags(profiles) {
+  const findings = [];
+  const offshore = loadJsonl(OFFSHORE_FILE);
+  if (offshore.length === 0) return findings;
+
+  const byLinked = new Map();
+  for (const rec of offshore) {
+    for (const v of rec.linked_vault_entities || []) {
+      if (!byLinked.has(v)) byLinked.set(v, []);
+      byLinked.get(v).push(rec);
+    }
+  }
+  const profByTitle = new Map(profiles.map((p) => [p.data.title, p]));
+  for (const [vaultName, recs] of byLinked) {
+    const p = profByTitle.get(vaultName);
+    if (!p) continue;
+    // Only flag vault entities that ALSO have political exposure
+    // (donations, contracts, opposition edges — i.e. are politically
+    // relevant to our analysis). Everyone else is just noise.
+    const hasPoliticalFootprint = !!(p.data.donors?.length || p.data['top-donors']?.length || p.data['politicians-funded']?.length || p.data.opposes?.length);
+    if (!hasPoliticalFootprint) continue;
+
+    const leakSet = new Set(recs.map((r) => r.sourceID).filter(Boolean));
+    const jurisdictions = [...new Set(recs.map((r) => r.jurisdiction).filter(Boolean))];
+    const leakList = [...leakSet].slice(0, 3).join(', ');
+    findings.push({
+      type: 'offshore-exposure',
+      confidence: 3,
+      profile: p,
+      entity: vaultName,
+      headline: `${vaultName} appears in ICIJ Offshore Leaks (${recs.length} records, ${[...leakSet].length} leaks)`,
+      angle: `${vaultName} is a politically-active vault entity that ALSO appears in the ICIJ Offshore Leaks Database across: ${leakList || 'unattributed leaks'}. ${jurisdictions.length > 0 ? `Linked jurisdictions: ${jurisdictions.slice(0, 3).join(', ')}.` : ''} Appearing in these files does not imply wrongdoing — but the combination of political spending + offshore footprint warrants a closer look. Query Ask with \`subject: offshore_entities, linked_vault_entity: ${vaultName}\` for the full list and cross-reference with their political donations in the same period.`,
+    });
+  }
+  return findings;
+}
+
+/**
+ * PATTERN 7 — POLICY CAPTURE BY SPONSORSHIP. A politician who both
+ * (a) received major donations from an industry AND
+ * (b) sponsored 5+ bills in that industry's policy area
+ * signals a legislator acting as a direct channel for donor interests.
+ *
+ * This is a keyword-based heuristic — it surfaces the pattern for
+ * editorial review, not as a verdict. Confidence 3/5.
+ */
+function minePolicyCaptureBySponsorship(profiles) {
+  const findings = [];
+  const bills = loadJsonl(BILLS_FILE);
+  const entities = loadJsonl(ENTITIES_FILE);
+  if (bills.length === 0 || entities.length === 0) return findings;
+
+  // Policy area → donor-sector keyword matches. Broad intentional
+  // overlaps (healthcare → Pharma, Insurance, Health Services).
+  const POLICY_TO_SECTOR = {
+    'Health': ['pharma', 'insurance', 'health', 'medical'],
+    'Armed Forces and National Security': ['defense', 'military', 'intelligence'],
+    'Energy': ['oil', 'gas', 'energy', 'coal', 'utility', 'utilities'],
+    'Environmental Protection': ['oil', 'gas', 'energy', 'fossil', 'coal'],
+    'Taxation': ['wall street', 'finance', 'hedge fund', 'private equity', 'crypto'],
+    'Finance and Financial Sector': ['wall street', 'bank', 'hedge fund', 'private equity', 'finance'],
+    'Agriculture and Food': ['agriculture', 'agribusiness', 'food', 'dairy'],
+    'Labor and Employment': ['anti-union', 'chamber of commerce'],
+    'Science, Technology, Communications': ['tech', 'crypto', 'silicon valley', 'telecom'],
+    'Transportation and Public Works': ['airline', 'railroad', 'trucking'],
+    'Housing and Community Development': ['real estate', 'housing', 'development'],
+  };
+
+  // Build politician bioguide → top-donor sectors from entities.jsonl
+  // signals.top_donors (populated by populate-top-politicians-2hop.cjs)
+  const entByTitle = new Map(entities.map((e) => [e.name, e]));
+
+  // Build bioguide → sponsored bills (by policy_area counts)
+  const sponsoredByBioguide = new Map();
+  for (const b of bills) {
+    for (const bg of b.sponsor_bioguides || []) {
+      if (!sponsoredByBioguide.has(bg)) sponsoredByBioguide.set(bg, new Map());
+      const cur = sponsoredByBioguide.get(bg);
+      if (b.policy_area) cur.set(b.policy_area, (cur.get(b.policy_area) || 0) + 1);
+    }
+  }
+
+  for (const p of profiles) {
+    if (p.data.type !== 'politician') continue;
+    const bio = p.data['bioguide-id'] || p.data['bioguide'];
+    if (!bio) continue;
+    const policies = sponsoredByBioguide.get(bio);
+    if (!policies || policies.size === 0) continue;
+    const ent = entByTitle.get(p.data.title);
+    const topDonors = ent?.signals?.top_donors || [];
+    if (topDonors.length === 0) continue;
+
+    // For each policy area the legislator sponsored 5+ bills in,
+    // check if any top donor's sector-keyword matches.
+    for (const [policy, count] of policies) {
+      if (count < 5) continue;
+      const keywords = POLICY_TO_SECTOR[policy];
+      if (!keywords) continue;
+      const matchingDonors = [];
+      for (const d of topDonors) {
+        const donorEnt = entByTitle.get(d.name);
+        const sector = (donorEnt?.signals?.sector || '').toLowerCase();
+        if (!sector) continue;
+        if (keywords.some((kw) => sector.includes(kw))) matchingDonors.push({ name: d.name, sector: donorEnt.signals.sector, amount: d.amount });
+      }
+      if (matchingDonors.length === 0) continue;
+      const donorList = matchingDonors.slice(0, 3).map((d) => `${d.name} (${d.sector})`).join(', ');
+      findings.push({
+        type: 'policy-capture-sponsorship',
+        confidence: 3,
+        profile: p,
+        entity: policy,
+        headline: `${p.data.title} sponsored ${count} "${policy}" bills; top donors include ${matchingDonors.length} from matching sector`,
+        angle: `${p.data.title} has sponsored ${count} bills in the "${policy}" policy area. Their top donors include: ${donorList}. This is the classic policy-capture-by-money pattern — legislator acts as a direct channel for donor industry interests. Pull the bill list (query Ask with \`subject: bills, sponsor_bioguide: ${bio}, policy_area: ${policy}\`) and cross-reference with donor industry positions on those specific bills.`,
+      });
+    }
+  }
+  return findings;
+}
+
 function main() {
   const profiles = loadAllProfiles();
   const rejected = getRejectedPatterns(SOURCE_NAME);
 
-  const allFindings = [
-    ...mineBothSides(profiles),
-    ...mineCrossPartyDonors(profiles),
-    ...mineIssueContradictions(profiles),
-    ...mineCommitteeCaptures(profiles),
-  ];
+  const bothSides = mineBothSides(profiles);
+  const crossParty = mineCrossPartyDonors(profiles);
+  const issue = mineIssueContradictions(profiles);
+  const cmteCap = mineCommitteeCaptures(profiles);
+  const offshore = mineOffshoreFlags(profiles);
+  const policyCap = minePolicyCaptureBySponsorship(profiles);
+  console.log(`[miner debug] both-sides=${bothSides.length}, cross-party=${crossParty.length}, issue=${issue.length}, cmte-capture=${cmteCap.length}, offshore=${offshore.length}, policy-capture=${policyCap.length}`);
+  const allFindings = [...bothSides, ...crossParty, ...issue, ...cmteCap, ...offshore, ...policyCap];
 
   // Filter rejected + below min confidence
   const filtered = allFindings.filter(f => {
@@ -365,9 +511,41 @@ function main() {
   // Sort: highest confidence first
   filtered.sort((a, b) => b.confidence - a.confidence);
 
-  // Write seed files for top findings
+  // Category diversity: before writing seed files, ensure each pattern
+  // type is represented even if lower-confidence patterns would be
+  // pushed out by the global cap. Take top-N per type, then top-N
+  // overall, dedup.
+  const perTypeCap = 20;
+  const globalCap = 100;
+  const byType = {};
+  for (const f of filtered) {
+    byType[f.type] = byType[f.type] || [];
+    if (byType[f.type].length < perTypeCap) byType[f.type].push(f);
+  }
+  const balanced = [];
+  const seen = new Set();
+  // Interleave: take 1 from each category round-robin until we hit globalCap.
+  const typeList = Object.keys(byType);
+  let round = 0;
+  while (balanced.length < globalCap) {
+    let added = 0;
+    for (const t of typeList) {
+      const f = byType[t][round];
+      if (!f) continue;
+      const key = slugify(`${f.type}-${f.headline}`);
+      if (seen.has(key)) continue;
+      seen.add(key);
+      balanced.push(f);
+      added++;
+      if (balanced.length >= globalCap) break;
+    }
+    if (added === 0) break;
+    round++;
+  }
+
+  // Write seed files for balanced findings
   const written = [];
-  for (const f of filtered.slice(0, 50)) {
+  for (const f of balanced) {
     const seedPath = writeSeedFile(f);
     written.push({ ...f, seedPath });
   }
@@ -394,9 +572,9 @@ function main() {
   console.log(`Contradiction Miner wrote ${written.length} story seed file${written.length === 1 ? '' : 's'}.`);
   console.log(`  Attention Queue: ${count} top findings added to the deciding bucket.`);
   console.log(`  Category breakdown:`);
-  const byType = {};
-  for (const f of written) byType[f.type] = (byType[f.type] || 0) + 1;
-  for (const [type, n] of Object.entries(byType)) {
+  const byTypeReport = {};
+  for (const f of written) byTypeReport[f.type] = (byTypeReport[f.type] || 0) + 1;
+  for (const [type, n] of Object.entries(byTypeReport)) {
     console.log(`    ${type.padEnd(25)} ${n}`);
   }
   console.log(`  Output: ${path.relative(process.cwd(), SEEDS_DIR)}/`);

@@ -245,17 +245,53 @@ function normalizeVote(p) {
       lines.push(`- ${k}: ${v} votes`);
     }
 
-    if (deviations.length > 0) {
+    // Editor-pinned votes (frontmatter key_votes: [vote_id, ...]).
+    // Show these FIRST in a dedicated section, regardless of deviation
+    // status. Journalism-first: the editor's judgment about which votes
+    // matter overrides algorithmic top-N.
+    const pinnedVotes = [];
+    if (Array.isArray(fm.key_votes)) {
+      for (const vid of fm.key_votes) {
+        const p = positions.find((x) => x.vote_id === vid);
+        if (!p) continue;
+        const meta = voteMeta.get(vid);
+        if (!meta) continue;
+        const maj = partyMajority.get(vid);
+        const compareKey = p.caucus || p.party;
+        const partyMaj = maj?.[compareKey] || '—';
+        pinnedVotes.push({ vote_id: vid, position: p.position, party_majority: partyMaj, meta, parsedDate: parseVoteDate(meta?.date) });
+      }
+    }
+    if (pinnedVotes.length > 0) {
       lines.push('');
-      lines.push(`**Most recent party-line deviations (top 10 of ${deviations.length}):**`);
+      lines.push(`**Signature votes (${pinnedVotes.length} editorially pinned):**`);
       lines.push('');
       lines.push('| Date | Vote | Position | Party majority | Bill |');
       lines.push('|---|---|---|---|---|');
-      for (const d of deviations.slice(0, 10)) {
+      for (const d of pinnedVotes) {
         const date = d.parsedDate || '—';
         const bill = d.meta?.bill;
         const billRef = bill ? `${bill.type} ${bill.number}` : '—';
         lines.push(`| ${date} | ${d.vote_id} | ${d.position} | ${d.party_majority} | ${billRef} |`);
+      }
+    }
+
+    if (deviations.length > 0) {
+      // Exclude pinned votes from the deviation list so we don't show them twice.
+      const pinnedIds = new Set(pinnedVotes.map((p) => p.vote_id));
+      const devToShow = deviations.filter((d) => !pinnedIds.has(d.vote_id)).slice(0, 10);
+      if (devToShow.length > 0) {
+        lines.push('');
+        lines.push(`**Most recent party-line deviations (top ${devToShow.length} of ${deviations.length}):**`);
+        lines.push('');
+        lines.push('| Date | Vote | Position | Party majority | Bill |');
+        lines.push('|---|---|---|---|---|');
+        for (const d of devToShow) {
+          const date = d.parsedDate || '—';
+          const bill = d.meta?.bill;
+          const billRef = bill ? `${bill.type} ${bill.number}` : '—';
+          lines.push(`| ${date} | ${d.vote_id} | ${d.position} | ${d.party_majority} | ${billRef} |`);
+        }
       }
     }
 

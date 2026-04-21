@@ -133,7 +133,7 @@ donors: [[Koch Network - Charles Koch|Koch Network]] · [[Goldman Sachs]] · [[J
 - house 115/1: 17 votes
 - house 115/2: 12 votes
 
-**Most recent party-line deviations (top 10 of 1):**
+**Most recent party-line deviations (top 1 of 1):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

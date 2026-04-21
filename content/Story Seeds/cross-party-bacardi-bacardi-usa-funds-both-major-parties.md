@@ -3,14 +3,14 @@ title: "Bacardi - Bacardi USA funds both major parties"
 type: story-seed
 seed-type: cross-party
 confidence: 4
-last-updated: '2026-04-11'
+last-updated: '2026-04-21'
 auto-generated: true
 status: unclaimed
 ---
 
 # Bacardi - Bacardi USA funds both major parties
 
-_Confidence: ★★★★☆ · Surfaced by contradiction-miner on 2026-04-11_
+_Confidence: ★★★★☆ · Surfaced by contradiction-miner on 2026-04-21_
 
 ## The angle
 

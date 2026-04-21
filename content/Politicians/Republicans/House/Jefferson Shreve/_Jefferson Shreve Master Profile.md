@@ -119,7 +119,7 @@ top-donors: "[[National Association of Realtors]], [[AT&T - WarnerMedia]], [[Mic
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 3):**
+**Most recent party-line deviations (top 3 of 3):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

@@ -81,7 +81,7 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 - house 119/1: 50 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 1):**
+**Most recent party-line deviations (top 1 of 1):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

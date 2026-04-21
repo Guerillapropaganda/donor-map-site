@@ -124,7 +124,7 @@ editorial-notes: "[RC 2026-04-18] Reviewed for launch-50 pass. Editorial section
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 5):**
+**Most recent party-line deviations (top 5 of 5):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
