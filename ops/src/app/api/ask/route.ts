@@ -887,7 +887,12 @@ function conceptKey(s: string): string {
   return s.toLowerCase()
     .replace(/^(the|a|an)\s+/, "")
     .replace(/papers?$/, "papers")
-    .replace(/s$/, (m, _o, whole) => whole.endsWith("ss") ? m : "")  // plural → singular (loose)
+    .replace(/s$/, (m, _o, whole) => {
+      // plural → singular (loose), but keep canonical plurals that CONCEPTS
+      // is keyed on (panama/paradise/pandora papers). Also protect "ss".
+      if (whole.endsWith("ss") || whole.endsWith("papers")) return m
+      return ""
+    })
     .trim()
 }
 
@@ -1304,7 +1309,9 @@ function classify(q: string): ClassifiedQuestion {
 
   // Phase 2b: Votes on a specific bill — "votes on H.R. 1",
   // "how did congress vote on H.R. 5009", "votes on HR 1 in 118th"
-  m = lower.match(/^(?:how did (?:congress|the house|the senate) vote on|votes on)\s+([hs]\.?\s*j?\.?\s*(?:res\.?)?\s*\d+)(?:\s+in\s+(\d+)(?:th)?)?$/i)
+  // Bill-ref shape tolerates: H.R. 1 / HR 1 / H.J.Res 5 / S. 500 / S.J.Res 12.
+  // The inner [jr]? covers both "J" (joint resolution) and "R" (house resolution).
+  m = lower.match(/^(?:how did (?:congress|the house|the senate) vote on|votes on)\s+([hs]\.?\s*[jr]?\.?\s*(?:res\.?)?\s*\d+)(?:\s+in\s+(\d+)(?:th)?)?$/i)
   if (m) {
     const billRef = m[1].toUpperCase().replace(/\s+/g, "").replace(/\./g, "")
     return { intent: "votes_on_bill", subjectName: billRef, extra: { year: m[2] } }
