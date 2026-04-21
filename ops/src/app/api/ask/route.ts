@@ -389,6 +389,23 @@ function nameAcronym(name: string): string {
   return tokens.map((t) => t[0].toUpperCase()).join("")
 }
 
+// If an entity name is FEC-shape "LAST, FIRST" uppercase, AND there's
+// a sibling entity with the title-cased "First Last" form, prefer the
+// title-cased one. Edges created by politician-facing ingesters use
+// "First Last", so returning the FEC-shape breaks downstream edge
+// lookups. Was the Obama "who funds them" empty-state bug.
+function preferTitleCasedSibling(match: EntityRec, ents: EntityRec[]): EntityRec {
+  const commaParts = match.name.split(",")
+  if (commaParts.length !== 2) return match
+  const last = commaParts[0].trim()
+  const first = commaParts[1].trim()
+  const titleCase = (s: string) =>
+    s.toLowerCase().replace(/(^|\s|-)(\w)/g, (_m, p, c) => p + c.toUpperCase())
+  const target = `${titleCase(first)} ${titleCase(last)}`
+  const sibling = ents.find((e) => e.name.toLowerCase() === target.toLowerCase())
+  return sibling || match
+}
+
 function resolveTitle(fragment: string): ResolveResult {
   const ents = loadEntities()
   const lc = fragment.toLowerCase().trim()
@@ -396,15 +413,15 @@ function resolveTitle(fragment: string): ResolveResult {
 
   // 1. exact (case-insensitive)
   const exact = ents.find((e) => e.name.toLowerCase() === lc)
-  if (exact) return { title: exact.name, candidates: [], exact: true }
+  if (exact) return { title: preferTitleCasedSibling(exact, ents).name, candidates: [], exact: true }
 
   // 2. startsWith
   const starts = ents.find((e) => e.name.toLowerCase().startsWith(lc))
-  if (starts) return { title: starts.name, candidates: [], exact: true }
+  if (starts) return { title: preferTitleCasedSibling(starts, ents).name, candidates: [], exact: true }
 
   // 3. contains
   const contains = ents.find((e) => e.name.toLowerCase().includes(lc))
-  if (contains) return { title: contains.name, candidates: [], exact: true }
+  if (contains) return { title: preferTitleCasedSibling(contains, ents).name, candidates: [], exact: true }
 
   // 3b. Acronym match — "MFT" → "Marble Freedom Trust", "JCN" →
   // "Judicial Crisis Network". Query must be 2-6 uppercase-looking
@@ -2640,6 +2657,28 @@ function finalize(res: AskResult): AskResult {
   if (!res.follow_ups) res.follow_ups = suggestFollowUps(res)
   if (!res.citation) res.citation = buildCitation(res)
 
+  // Fuzzy-match transparency: when the entity resolver had to fall back
+  // to did-you-mean candidates AND the resolved_title doesn't trivially
+  // appear in the raw question, prepend an explicit disambiguation note
+  // to the answer. Prevents the "John Smith → Jason Smith (silently)"
+  // class of bug where we look up the wrong person without telling the
+  // user.
+  if (
+    res.did_you_mean && res.did_you_mean.length >= 2 && res.resolved_title &&
+    res.answer && !res.answer.startsWith("**Showing results for")
+  ) {
+    const qLower = String(res.question || "").toLowerCase()
+    const titleLower = String(res.resolved_title).toLowerCase()
+    // Heuristic: if the full resolved title isn't a substring of the
+    // question, the match is fuzzy and worth flagging.
+    const isFuzzy = !qLower.includes(titleLower)
+    if (isFuzzy) {
+      const others = res.did_you_mean.filter((n) => n !== res.resolved_title).slice(0, 4)
+      const list = others.length > 0 ? ` (or: ${others.join(", ")})` : ""
+      res.answer = `**Showing results for "${res.resolved_title}"**${list}. ` + res.answer
+    }
+  }
+
   // Humanize intent labels for display
   const labels: Record<string, string> = {
     cross_party_donors: "Cross-party donors",
@@ -3223,10 +3262,19 @@ async function handleQuestion(question: string): Promise<AskResult> {
     return finalize({ question, intent: c.intent, resolved_title: name.title, did_you_mean: name.candidates.slice(0, 5), total: r.total, rows, answer: enrichedAnswer, bullets, summary: `${name.title} outflows (${vehicles.length ? "incl. " + vehicles.length + " controlled vehicles" : "direct only"}): ${supportEdges.length} support / ${opposeEdges.length} oppose edges, ~${fmtUsd(supportTotal)} support · ~${fmtUsd(opposeTotal)} attack.` })
   }
 
-  // Generic fallback
+  // Generic fallback. If the raw query resolved to a known vault
+  // entity with real inflow/outflow edges, escalate the intent to
+  // summary rather than telling the user to "try a more specific
+  // pattern". Bare entity names like "AOC", "Kamala Harris", "MFT"
+  // should all render a profile snapshot by default.
   const r = resolveTitle(c.subjectName as string)
+  const knownEntity = !!findEntity(r.title)
   const out = await engine.query({ subject: "edges", filters: { from: r.title }, limit: 25 })
   const inc = await engine.query({ subject: "edges", filters: { to: r.title }, limit: 25 })
+  if (knownEntity && (out.total > 0 || inc.total > 0)) {
+    // Fall through to the summary handler with the resolved name.
+    return finalize(await handleSummary({ intent: "summary", subjectName: r.title }, question, engine))
+  }
   return finalize({
     question,
     intent: "generic",
