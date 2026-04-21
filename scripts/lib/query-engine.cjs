@@ -72,6 +72,7 @@ const edgesStore = require("./relationships-store.cjs")
 const entitiesStore = require("./entities-store.cjs")
 const eventsStore = require("./events-store.cjs")
 const sourcesStore = require("./sources-store.cjs")
+const txnTypes = require("./fec-txn-types.cjs")
 const fs = require("fs")
 const path = require("path")
 
@@ -433,7 +434,13 @@ function createInMemoryEngine() {
    */
   function crossPartyDonors({ days = null } = {}) {
     ensureLoaded()
-    const all = edgesStore.loadEdges().filter((e) => e.type === "monetary" && e.amount)
+    // Political roles only — see scripts/lib/fec-txn-types.cjs for the
+    // shared taxonomy. Operating-expense + employee-contributions are
+    // excluded because they're vendor payments and aggregate reporting,
+    // not actual cross-party political spending.
+    const all = edgesStore.loadEdges().filter((e) =>
+      e.amount && txnTypes.isPolitical(e)
+    )
     const byDonor = new Map()
     const cutoff = days
       ? new Date(Date.now() - days * 864e5).toISOString()
@@ -443,11 +450,29 @@ function createInMemoryEngine() {
       if (cutoff && e.date && e.date < cutoff) continue
       const donor = e.from
       if (!byDonor.has(donor)) byDonor.set(donor, { D: 0, R: 0, total: 0 })
-      const party = getPartyFor(e.to)
-      if (party === "D" || party === "R") byDonor.get(donor)[party] += e.amount || 0
-      byDonor.get(donor).total += e.amount || 0
+      const recipientParty = getPartyFor(e.to)
+      // ie-oppose attribution: opposing a Republican is effectively
+      // pro-Democrat spending, and vice versa. Without this flip, the
+      // DSCC ($179M spent OPPOSING Republicans in IE) looked like $179M
+      // OF spending to Republicans — inverting the cross-party column.
+      let attributedParty = recipientParty
+      if (e.role === "ie-oppose") {
+        attributedParty = recipientParty === "D" ? "R" : recipientParty === "R" ? "D" : null
+      }
+      if (attributedParty === "D" || attributedParty === "R") {
+        byDonor.get(donor)[attributedParty] += e.amount || 0
+        byDonor.get(donor).total += e.amount || 0
+      }
     }
 
+    // Minimum balance to qualify as "cross-party": weaker side must be
+    // at least 5% of the stronger side. Without this floor, a $1k stray
+    // contribution from an otherwise-partisan committee to the other
+    // party makes them look "cross-party" — DSCC with 0.00 balance,
+    // NRCC with 0.00 balance, etc. 5% filters those out while keeping
+    // real both-sides donors (Club for Growth 0.44, Sfa Fund 0.55,
+    // United Democracy Project 0.69) prominent.
+    const MIN_BALANCE = 0.05
     return [...byDonor.entries()]
       .filter(([_, c]) => c.D > 0 && c.R > 0)
       .map(([name, c]) => ({
@@ -457,6 +482,7 @@ function createInMemoryEngine() {
         total: c.total,
         balance: Math.min(c.D, c.R) / Math.max(c.D, c.R),
       }))
+      .filter((r) => r.balance >= MIN_BALANCE)
       .sort((a, b) => b.total - a.total)
   }
 
