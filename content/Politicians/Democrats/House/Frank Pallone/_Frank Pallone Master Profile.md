@@ -151,25 +151,30 @@ donors: [[Pfizer]] [[PhRMA]]
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,722 |
-| Votes with party majority | 1,675 |
-| Party-line loyalty | 97.3% |
-| Deviations from party | 47 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,839 |
+| Votes with party majority | 4,726 |
+| Party-line loyalty | 97.7% |
+| Deviations from party | 112 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 47):**
+**Most recent party-line deviations (top 10 of 112):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -186,6 +191,39 @@ donors: [[Pfizer]] [[PhRMA]]
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 296 |
+| Enacted into law | 10 |
+| Top policy areas | Health · Environmental Protection · Public Lands and Natural Resources |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-176 | 2024-12-23 | HR.6829-118 | HEARTS Act of 2024 |
+| PL 116-124 | 2020-03-12 | HR.4998-116 | Network Security Information Sharing Act of 2019 |
+| PL 116-3 | 2019-01-24 | HR.259-116 | Medicaid Provisions and TANF Extenders Act of 2019 |
+| PL 114-314 | 2016-12-16 | HR.6400-114 | A bill to revise the boundaries of certain John H. Chafee Coastal Barrier Resources System |
+| PL 114-114 | 2015-12-28 | HR.1321-114 | Microbead-Free Waters Act of 2015 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-05 | HR.7407-119 | Health | Prohibiting Tianeptine and Other Dangerous Products Act of 2026 |
+| 2026-02-04 | HR.7372-119 | Transportation and Public Works | Safety is Not For Sale Act |
+| 2025-11-25 | HR.6292-119 | Commerce | Don’t Sell Kids’ Data Act of 2025 |
+| 2025-11-20 | HR.6166-119 | Health | Lowering Drug Costs for American Families Act |
+| 2025-09-18 | HR.5448-119 | Health | American Affordability Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: P000034` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

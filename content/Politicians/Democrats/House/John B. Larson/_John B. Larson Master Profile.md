@@ -88,25 +88,30 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,665 |
-| Votes with party majority | 1,637 |
-| Party-line loyalty | 98.3% |
-| Deviations from party | 28 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,697 |
+| Votes with party majority | 4,610 |
+| Party-line loyalty | 98.1% |
+| Deviations from party | 86 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 28):**
+**Most recent party-line deviations (top 10 of 86):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -123,3 +128,34 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 177 |
+| Enacted into law | 3 |
+| Top policy areas | Taxation · Health · Social Welfare |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 115-123 | 2018-02-09 | HR.1892-115 | To amend title XVIII of the Social Security Act to provide for technical amendments to the |
+| PL 115-111 | 2018-01-10 | HR.863-115 | H.R. 863, an act to facilitate the addition of park administration at the Coltsville Natio |
+| — | 2003-07-15 | HR.2746-108 | A bill to designate the facility of the United States Postal Service located at 141 Weston |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-12 | HR.7910-119 | Labor and Employment | ACTION for National Service Act |
+| 2026-03-09 | HR.7878-119 | Taxation | Segal AmeriCorps Educational Award Tax Relief Act of 2026 |
+| 2026-02-20 | HR.7621-119 | Immigration | Stop ICE Election Militarization Act |
+| 2025-10-21 | HR.5802-119 | Government Operations and Politics | Government Shutdown Salary Suspension Act |
+| 2025-09-16 | HR.5379-119 | Health | HOPE Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: L000557` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

@@ -168,6 +168,29 @@ donors:
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 6 |
+| Enacted into law | 0 |
+| Top policy areas | Education · Congress · Public Lands and Natural Resources |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-24 | HR.8048-119 | Families | AI/AN CAPTA |
+| 2026-03-17 | HR.7957-119 | Native Americans | Preserve the Traditional Cultural Place Chí’chil Biłdagoteel Historic District Act |
+| 2026-03-05 | HR.7828-119 | Social Welfare | Supplemental Security Income Restoration Act of 2026 |
+| 2026-01-15 | HR.7101-119 | Congress | No Delay in Representation Act |
+| 2025-12-04 | HR.6440-119 | Education | Right to Read Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: G000606` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 <!-- auto:govtrack start -->
 | Metric | Value |
 |--------|-------|

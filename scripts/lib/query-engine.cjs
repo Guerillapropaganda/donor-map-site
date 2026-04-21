@@ -72,6 +72,53 @@ const edgesStore = require("./relationships-store.cjs")
 const entitiesStore = require("./entities-store.cjs")
 const eventsStore = require("./events-store.cjs")
 const sourcesStore = require("./sources-store.cjs")
+const fs = require("fs")
+const path = require("path")
+
+// ─── Lightweight stores for bills / executive_actions / offshore_entities
+// These are single-file JSONL stores written by ingest pipelines. Loaded
+// lazily + cached. Separate from the full edge/entity stores because the
+// records are their own subjects, not graph edges.
+
+const ROOT_DIR = path.resolve(__dirname, "..", "..")
+const BILLS_FILE = path.join(ROOT_DIR, "data", "bills.jsonl")
+const EA_FILE = path.join(ROOT_DIR, "data", "executive-actions.jsonl")
+const OFFSHORE_FILE = path.join(ROOT_DIR, "data", "offshore-entities.jsonl")
+
+let _billsCache = null
+let _eaCache = null
+let _offshoreCache = null
+
+function loadJsonlChunked(filePath) {
+  // Chunked reader for files that may exceed V8 string cap (~500MB).
+  if (!fs.existsSync(filePath)) return []
+  const out = []
+  const fd = fs.openSync(filePath, "r")
+  try {
+    const CHUNK = 64 * 1024 * 1024
+    const size = fs.fstatSync(fd).size
+    let off = 0, carry = ""
+    while (off < size) {
+      const len = Math.min(CHUNK, size - off)
+      const buf = Buffer.alloc(len)
+      fs.readSync(fd, buf, 0, len, off)
+      off += len
+      const chunk = carry + buf.toString("utf-8")
+      const lines = chunk.split(/\r?\n/)
+      carry = lines.pop()
+      for (const l of lines) {
+        if (!l.trim()) continue
+        try { out.push(JSON.parse(l)) } catch {}
+      }
+    }
+    if (carry.trim()) { try { out.push(JSON.parse(carry.trim())) } catch {} }
+  } finally { fs.closeSync(fd) }
+  return out
+}
+
+function loadBills() { if (!_billsCache) _billsCache = loadJsonlChunked(BILLS_FILE); return _billsCache }
+function loadExecActions() { if (!_eaCache) _eaCache = loadJsonlChunked(EA_FILE); return _eaCache }
+function loadOffshoreEntities() { if (!_offshoreCache) _offshoreCache = loadJsonlChunked(OFFSHORE_FILE); return _offshoreCache }
 
 // ─── Adapter: in-memory implementation ────────────────────────────────
 
@@ -92,6 +139,9 @@ function createInMemoryEngine() {
     entitiesStore.clearEntitiesCache()
     eventsStore.clearEventsCache()
     sourcesStore.clearSourcesCache()
+    _billsCache = null
+    _eaCache = null
+    _offshoreCache = null
     _loaded = false
   }
 
@@ -202,6 +252,99 @@ function createInMemoryEngine() {
       sector_affected: filters.sector_affected,
       since: filters.since,
       until: filters.until,
+    })
+  }
+
+  // ─── Bill / Executive Action / Offshore Entity filters ──────────────
+  // Lightweight subjects backed by single-file JSONL stores.
+
+  function filterBills(filters = {}) {
+    const all = loadBills()
+    return all.filter((b) => {
+      if (filters.congress !== undefined && Number(b.congress) !== Number(filters.congress)) return false
+      if (filters.type && b.type !== filters.type) return false
+      if (filters.policy_area && b.policy_area !== filters.policy_area) return false
+      if (filters.became_law !== undefined && Boolean(b.became_law) !== Boolean(filters.became_law)) return false
+      if (filters.sponsor_bioguide) {
+        const want = Array.isArray(filters.sponsor_bioguide) ? filters.sponsor_bioguide : [filters.sponsor_bioguide]
+        const hit = (b.sponsor_bioguides || []).some((bg) => want.includes(bg))
+        if (!hit) return false
+      }
+      if (filters.cosponsor_bioguide) {
+        // cosponsor_bioguides isn't stored per-bill (we only kept count + sponsor bioguides).
+        // Cosponsor queries should use edges subject (type=sponsorship, role=cosponsor).
+        // Fail-safe: treat as no-match since the data's not here.
+        return false
+      }
+      if (filters.subject) {
+        const want = Array.isArray(filters.subject) ? filters.subject : [filters.subject]
+        const hit = (b.subjects || []).some((s) => want.some((w) => String(s).toLowerCase().includes(String(w).toLowerCase())))
+        if (!hit) return false
+      }
+      if (filters.since) {
+        if (!b.introduced_date || b.introduced_date < filters.since) return false
+      }
+      if (filters.until) {
+        if (!b.introduced_date || b.introduced_date > filters.until) return false
+      }
+      if (filters.search) {
+        const q = String(filters.search).toLowerCase()
+        if (!(b.title || "").toLowerCase().includes(q)) return false
+      }
+      return true
+    })
+  }
+
+  function filterExecutiveActions(filters = {}) {
+    const all = loadExecActions()
+    return all.filter((ea) => {
+      if (filters.president) {
+        const want = Array.isArray(filters.president) ? filters.president : [filters.president]
+        if (!want.some((p) => String(ea.president || "").toLowerCase() === String(p).toLowerCase())) return false
+      }
+      if (filters.type) {
+        const want = Array.isArray(filters.type) ? filters.type : [filters.type]
+        if (!want.includes(ea.type)) return false
+      }
+      if (filters.since) {
+        if (!ea.date || ea.date < filters.since) return false
+      }
+      if (filters.until) {
+        if (!ea.date || ea.date > filters.until) return false
+      }
+      if (filters.year !== undefined) {
+        if (!ea.date || ea.date.slice(0, 4) !== String(filters.year)) return false
+      }
+      if (filters.search) {
+        const q = String(filters.search).toLowerCase()
+        if (!(ea.title || "").toLowerCase().includes(q) && !(ea.text_excerpt || "").toLowerCase().includes(q)) return false
+      }
+      return true
+    })
+  }
+
+  function filterOffshoreEntities(filters = {}) {
+    const all = loadOffshoreEntities()
+    return all.filter((o) => {
+      if (filters.jurisdiction) {
+        const want = Array.isArray(filters.jurisdiction) ? filters.jurisdiction : [filters.jurisdiction]
+        if (!want.some((j) => String(o.jurisdiction || "").toLowerCase().includes(String(j).toLowerCase()))) return false
+      }
+      if (filters.leak) {
+        const want = Array.isArray(filters.leak) ? filters.leak : [filters.leak]
+        if (!want.some((l) => String(o.sourceID || "").toLowerCase().includes(String(l).toLowerCase()))) return false
+      }
+      if (filters.linked_vault_entity) {
+        const want = Array.isArray(filters.linked_vault_entity) ? filters.linked_vault_entity : [filters.linked_vault_entity]
+        const hit = (o.linked_vault_entities || []).some((v) => want.includes(v))
+        if (!hit) return false
+      }
+      if (filters.kind && o.kind !== filters.kind) return false
+      if (filters.search) {
+        const q = String(filters.search).toLowerCase()
+        if (!(o.name || "").toLowerCase().includes(q)) return false
+      }
+      return true
     })
   }
 
@@ -413,7 +556,7 @@ function createInMemoryEngine() {
   }
 
   // Subjects that require at least one real filter for unbounded queries
-  const UNBOUNDED_SUBJECTS = new Set(["edges", "entities", "events"])
+  const UNBOUNDED_SUBJECTS = new Set(["edges", "entities", "events", "bills", "executive_actions", "offshore_entities"])
 
   // ─── Public interface ─────────────────────────────────────────
 
@@ -472,7 +615,15 @@ function createInMemoryEngine() {
           ? "from, to, from_type, to_type, type, min_confidence, min_amount, max_amount, source, status, role, exclude_role"
           : subject === "entities"
           ? "entity_type, capital_type, class_position, worker_relationship, tags_approved, ideological_function, search"
-          : "event_type, obstruction_type, policy_id, chamber, outcome, stakeholder, sector_affected, since, until")
+          : subject === "events"
+          ? "event_type, obstruction_type, policy_id, chamber, outcome, stakeholder, sector_affected, since, until"
+          : subject === "bills"
+          ? "congress, type, policy_area, became_law, sponsor_bioguide, subject, since, until, search"
+          : subject === "executive_actions"
+          ? "president, type, year, since, until, search"
+          : subject === "offshore_entities"
+          ? "jurisdiction, leak, linked_vault_entity, kind, search"
+          : "unknown")
       )
     }
 
@@ -480,6 +631,9 @@ function createInMemoryEngine() {
     if (subject === "edges") rows = enforceTimeout(() => filterEdges(filters), "edges")
     else if (subject === "entities") rows = enforceTimeout(() => filterEntities(filters), "entities")
     else if (subject === "events") rows = enforceTimeout(() => filterEvents(filters), "events")
+    else if (subject === "bills") rows = enforceTimeout(() => filterBills(filters), "bills")
+    else if (subject === "executive_actions") rows = enforceTimeout(() => filterExecutiveActions(filters), "executive_actions")
+    else if (subject === "offshore_entities") rows = enforceTimeout(() => filterOffshoreEntities(filters), "offshore_entities")
     else throw new Error(`unknown subject: ${subject}`)
 
     const total = rows.length
@@ -494,6 +648,9 @@ function createInMemoryEngine() {
     if (subject === "edges") return filterEdges(filters).length
     if (subject === "entities") return filterEntities(filters).length
     if (subject === "events") return filterEvents(filters).length
+    if (subject === "bills") return filterBills(filters).length
+    if (subject === "executive_actions") return filterExecutiveActions(filters).length
+    if (subject === "offshore_entities") return filterOffshoreEntities(filters).length
     if (subject === "cross_party_donors") return crossPartyDonors({ days: filters.days }).length
     return 0
   }

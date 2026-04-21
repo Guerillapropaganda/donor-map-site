@@ -120,21 +120,22 @@ top-policy-area: International Affairs
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,708 |
-| Votes with party majority | 1,502 |
-| Party-line loyalty | 87.9% |
-| Deviations from party | 206 |
+| Roll-call votes tracked | 2,724 |
+| Substantive votes (Y/N) | 2,665 |
+| Votes with party majority | 2,386 |
+| Party-line loyalty | 89.5% |
+| Deviations from party | 279 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 206):**
+**Most recent party-line deviations (top 10 of 279):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -151,6 +152,36 @@ top-policy-area: International Affairs
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 80 |
+| Enacted into law | 2 |
+| Top policy areas | International Affairs · Finance and Financial Sector · Education |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-112 | 2024-11-25 | HR.3608-118 | H.R. 3608, a bill to designate the facility of the United States Postal Service located at |
+| PL 117-298 | 2022-12-27 | HR.6630-117 | Providing for consideration of the bill (H.R. 1948) to amend title 38, United States Code, |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-15 | HR.8302-119 | — | To amend the definition of aggravated felony in the Immigration and Nationality Act to inc |
+| 2026-02-26 | HR.7737-119 | Taxation | SEEDS Act of 2026 |
+| 2026-02-23 | HR.7642-119 | International Affairs | GUIDE Act |
+| 2026-02-02 | HR.7312-119 | Government Operations and Politics | No More SCAMS Act |
+| 2026-01-13 | HR.7037-119 | International Affairs | Developing Overseas Mineral Investments and New Allied Networks for Critical Energies Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: K000397` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Young Kim
 

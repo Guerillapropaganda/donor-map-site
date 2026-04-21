@@ -151,6 +151,35 @@ donors: [[Think Big AI PAC]] · [[AIPAC - American Israel Public Affairs Committ
 
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 35 |
+| Enacted into law | 1 |
+| Top policy areas | Taxation · Finance and Financial Sector · Commerce |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| — | 2007-03-26 | HR.1675-110 | H.R. 1675, Preservation Approval Process Improvement Act of 2007 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2010-05-26 | HR.5412-111 | Commerce | Small Business Asset Investment and Modernization (AIM) Act of 2010 |
+| 2010-04-15 | HR.5030-111 | Taxation | College Savings Flexibility Act of 2010 |
+| 2010-04-14 | HR.5018-111 | Government Operations and Politics | Government Audit Reform Act of 2010 |
+| 2009-12-08 | HR.4229-111 | Housing and Community Development | Borrowers' Right to Inspect Closing Documents Act of 2009 |
+| 2009-07-30 | HR.3410-111 | Transportation and Public Works | Taking Responsible Action for Community Safety Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: B001253` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 ## Who They Are
 
 Melissa L. Bean was born January 22, 1962, in Chicago to a Serbian-American family; her adopted father owned a machine belt factory. She graduated from Maine East High School in Park Ridge in 1980, earned an associate degree from Oakton Community College in Des Plaines in 1982, and received a Bachelor's degree from Roosevelt University in 2002. Bean worked for several telecommunications companies before founding Sales Resources Inc. in 1995, a consulting firm providing training and curriculum services specializing in channel market optimization. She served as U.S. Representative from Illinois' 8th Congressional District from 2005 to 2011, becoming the first Democrat to represent the district since its formation in 1935. Bean lost her 2010 re-election bid to Republican Joe Walsh by 291 votes. After Congress, she served as President and CEO of the Executives Club of Chicago (2011-2019), as Midwest operations chair for JPMorgan Chase, and as CEO of Mesirow Wealth Advisors (2019-2025). On March 17, 2026, Bean won the Democratic primary for Illinois' 8th Congressional District with $7M+ in super PAC support, positioning her for a return to Congress after a 15-year absence.

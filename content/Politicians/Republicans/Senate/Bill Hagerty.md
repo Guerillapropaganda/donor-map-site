@@ -245,24 +245,26 @@ Hagerty's donor base is not Tennessee. His $13.8 million in total receipts flows
 ### Voting Record
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,324 |
-| Votes with party majority | 1,271 |
-| Party-line loyalty | 96.0% |
-| Deviations from party | 30 |
+| Roll-call votes tracked | 2,382 |
+| Substantive votes (Y/N) | 2,245 |
+| Votes with party majority | 2,110 |
+| Party-line loyalty | 94.0% |
+| Deviations from party | 111 |
 
 **Coverage:**
 
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 30):**
+**Most recent party-line deviations (top 10 of 111):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -279,6 +281,37 @@ Hagerty's donor base is not Tennessee. His $13.8 million in total receipts flows
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 75 |
+| Enacted into law | 3 |
+| Top policy areas | Finance and Financial Sector · International Affairs · Government Operations and Politics |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-27 | 2025-07-18 | S.1582-119 | Providing for consideration of the bill (H.R. 4016) making appropriations for the Departme |
+| PL 118-149 | 2024-12-12 | S.91-118 | Forgotten Heroes of the Holocaust Congressional Gold Medal Act |
+| PL 117-173 | 2022-08-16 | S.3451-117 | To include certain computer-related projects in the Federal permitting program under title |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-26 | S.4265-119 | — | Freedom to Build Act |
+| 2026-03-25 | S.4198-119 | Finance and Financial Sector | Main Street Depositor Protection Act |
+| 2025-12-01 | S.3290-119 | Economics and Public Finance | Consolidated Appropriations Act, 2026 |
+| 2025-11-06 | S.3129-119 | Government Operations and Politics | Preventing Foreign Interference in American Elections Act |
+| 2025-10-09 | S.2999-119 | Finance and Financial Sector | Main Street Depositor Protection Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: H000601` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 
 ### Legislative Activity (118th Congress)

@@ -145,6 +145,29 @@ top-donors: "[[Votevets]], [[General Dynamics]], [[General Motors]], [[Sierra Cl
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 40 |
+| Enacted into law | 0 |
+| Top policy areas | Taxation · Immigration · Health |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-12 | HR.7927-119 | Civil Rights and Liberties, Minority Issues | Land Reparations Commission Act |
+| 2026-01-30 | HR.7303-119 | Taxation | Middle Class Tax Cut Act |
+| 2026-01-30 | HR.7302-119 | Science, Technology, Communications | Digital Literacy and Equity Act of 2026 |
+| 2026-01-15 | HR.7123-119 | Immigration | Abolish ICE Act |
+| 2026-01-14 | HR.7079-119 | Immigration | Bike the Border Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: T000488` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Shri Thanedar
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

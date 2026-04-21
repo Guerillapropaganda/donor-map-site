@@ -89,25 +89,30 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,560 |
-| Votes with party majority | 1,471 |
-| Party-line loyalty | 94.3% |
-| Deviations from party | 89 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,521 |
+| Votes with party majority | 4,286 |
+| Party-line loyalty | 94.8% |
+| Deviations from party | 235 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 89):**
+**Most recent party-line deviations (top 10 of 235):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -124,3 +129,36 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 111 |
+| Enacted into law | 7 |
+| Top policy areas | Armed Forces and National Security · Crime and Law Enforcement · Taxation |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-42 | 2024-03-09 | HR.4366-118 | Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2024 |
+| PL 115-257 | 2018-10-09 | HR.4854-115 | Justice Served Act of 2018 |
+| — | 2011-01-18 | HR.298-112 | To designate the facility of the United States Postal Service located at 500 East Whitesto |
+| — | 2009-05-14 | HR.2422-111 | To designate the facility of the United States Postal Service located at 2300 Scenic Drive |
+| — | 2007-10-25 | HR.3974-110 | To designate the facility of the United States Postal Service located at 797 Sam Bass Road |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-11 | HR.7489-119 | Armed Forces and National Security | Georgetown VA Community-Based Outpatient Clinic Authorization Act of 2026 |
+| 2025-06-12 | HR.3944-119 | Economics and Public Finance | Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Vete |
+| 2025-03-26 | HR.2360-119 | Transportation and Public Works | Driving Forward Act |
+| 2024-05-28 | HR.8580-118 | Armed Forces and National Security | Providing for consideration of the bill (H.R. 8580) making appropriations for military con |
+| 2024-04-17 | HR.8041-118 | Transportation and Public Works | Driving Forward Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C001051` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

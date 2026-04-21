@@ -100,25 +100,30 @@ top-donors: "[[Teamsters - International Brotherhood of Teamsters]], [[National 
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,464 |
-| Substantive votes (Y/N) | 1,402 |
-| Votes with party majority | 1,339 |
-| Party-line loyalty | 95.5% |
-| Deviations from party | 41 |
+| Roll-call votes tracked | 4,595 |
+| Substantive votes (Y/N) | 4,454 |
+| Votes with party majority | 4,310 |
+| Party-line loyalty | 96.8% |
+| Deviations from party | 121 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 41):**
+**Most recent party-line deviations (top 10 of 121):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -135,6 +140,37 @@ top-donors: "[[Teamsters - International Brotherhood of Teamsters]], [[National 
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 377 |
+| Enacted into law | 3 |
+| Top policy areas | Energy · Agriculture and Food · Health |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 113-189 | 2014-11-26 | HR.1865-113 | A bill to designate the facility of the United States Postal Service located at 35 Park St |
+| — | 2009-09-17 | HR.3606-111 | Credit CARD Technical Corrections Act of 2009 |
+| — | 2008-05-12 | HR.6022-110 | Strategic Petroleum Reserve Fill Suspension and Consumer Protection Act of 2008 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-26 | S.4239-119 | Energy | Plug Offshore Wells Act |
+| 2026-03-26 | SJRES.157-119 | Finance and Financial Sector | A joint resolution providing for congressional disapproval under chapter 8 of title 5, Uni |
+| 2026-03-24 | S.4169-119 | Education | Student Loan Interest Elimination Act |
+| 2026-03-24 | S.4182-119 | Agriculture and Food | FARM Home Loans Act of 2026 |
+| 2026-03-12 | S.4095-119 | International Affairs | Justice for Hind Rajab Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: W000800` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Peter Welch
 

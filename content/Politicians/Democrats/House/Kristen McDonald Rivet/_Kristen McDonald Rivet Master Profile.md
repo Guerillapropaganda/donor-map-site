@@ -144,6 +144,29 @@ top-donors: "[[IBEW - International Brotherhood of Electrical Workers]], [[McDon
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 15 |
+| Enacted into law | 0 |
+| Top policy areas | Transportation and Public Works · Armed Forces and National Security · Agriculture and Food |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-15 | HR.8305-119 | — | To amend the Internal Revenue Code of 1986 to increase the amount of the earned income tax |
+| 2026-03-24 | HR.8056-119 | Armed Forces and National Security | Military Financial Literacy Act of 2026 |
+| 2026-02-09 | HR.7437-119 | Transportation and Public Works | BASICS Act |
+| 2026-01-14 | HR.7069-119 | Agriculture and Food | Affordable Food and Energy Act of 2026 |
+| 2025-12-15 | HR.6720-119 | Agriculture and Food | FARM Home Loans Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001237` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Kristen McDonald Rivet
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

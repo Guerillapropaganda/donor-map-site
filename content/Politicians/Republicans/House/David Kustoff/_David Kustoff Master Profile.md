@@ -111,25 +111,30 @@ top-donors: "[[American Hospital Association PAC]], [[Associated General Contrac
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,690 |
-| Votes with party majority | 1,615 |
-| Party-line loyalty | 95.6% |
-| Deviations from party | 75 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,753 |
+| Votes with party majority | 4,596 |
+| Party-line loyalty | 96.7% |
+| Deviations from party | 157 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 75):**
+**Most recent party-line deviations (top 10 of 157):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -146,6 +151,36 @@ top-donors: "[[American Hospital Association PAC]], [[Associated General Contrac
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 93 |
+| Enacted into law | 2 |
+| Top policy areas | Crime and Law Enforcement · Taxation · Finance and Financial Sector |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-29 | 2025-07-24 | HR.517-119 | Filing Relief for Natural Disasters Act |
+| PL 116-232 | 2020-12-21 | HR.3680-116 | To designate the facility of the United States Postal Service located at 415 North Main St |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-26 | HR.8109-119 | Health | Save Struggling Hospitals Act |
+| 2025-12-17 | HR.6800-119 | Taxation | A bill to amend the Internal Revenue Code of 1986 to terminate the tax-exempt status of te |
+| 2025-12-04 | HR.6449-119 | Commerce | DO NOT Call Act |
+| 2025-09-15 | HR.5345-119 | Social Welfare | Improving Social Security’s Service to Victims of Identity Theft Act |
+| 2025-09-10 | HR.5242-119 | Crime and Law Enforcement | H.R. 5242, a bill to repeal the Second Chance Amendment Act of 2022 and the Incarceration  |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: K000392` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # David Kustoff
 

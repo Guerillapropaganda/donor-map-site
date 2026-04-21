@@ -142,6 +142,29 @@ top-donors: "[[REPUBLICAN PARTY OF FLORIDA]], [[Republican Jewish Coalition]], [
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 9 |
+| Enacted into law | 0 |
+| Top policy areas | Armed Forces and National Security · Government Operations and Politics · Environmental Protection |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-05 | HR.7393-119 | Taxation | Save for Success Act |
+| 2026-01-13 | HR.7045-119 | Science, Technology, Communications | PROTECT Act |
+| 2026-01-09 | HR.7001-119 | Armed Forces and National Security | SOAR Act |
+| 2025-10-31 | HR.5886-119 | Transportation and Public Works | Warrior Road Act |
+| 2025-09-02 | HR.5095-119 | Armed Forces and National Security | HOMEFRONT Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: P000622` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Jimmy Patronis
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

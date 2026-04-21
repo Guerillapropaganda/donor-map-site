@@ -544,3 +544,27 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 87 |
+| Leak sources | Panama Papers (37) · Paradise Papers - Barbados corporate registry (23) · Paradise Papers - Appleby (11) · Offshore Leaks (10) |
+| Top jurisdictions | Panama (36) · Barbados (16) · Bermuda (2) · Bahamas (1) · Cayman Islands (1) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| STYX HOLDINGS INC. | entity | Panama | Panama Papers |
+| REMBRAND HOLDINGS INC. | entity | Panama | Panama Papers |
+| SAMSON HOLDINGS INC. | entity | Panama | Panama Papers |
+| CHARLSON INC. | entity | Panama | Panama Papers |
+| MILLSIDE HOLDINGS INC. | entity | Panama | Panama Papers |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: Heritage Foundation` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

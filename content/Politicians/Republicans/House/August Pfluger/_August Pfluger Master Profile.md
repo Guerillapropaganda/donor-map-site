@@ -108,21 +108,22 @@ top-policy-area: Health
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,707 |
-| Votes with party majority | 1,657 |
-| Party-line loyalty | 97.1% |
-| Deviations from party | 50 |
+| Roll-call votes tracked | 2,724 |
+| Substantive votes (Y/N) | 2,658 |
+| Votes with party majority | 2,553 |
+| Party-line loyalty | 96.0% |
+| Deviations from party | 105 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 50):**
+**Most recent party-line deviations (top 10 of 105):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -139,6 +140,35 @@ top-policy-area: Health
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 141 |
+| Enacted into law | 1 |
+| Top policy areas | International Affairs · Armed Forces and National Security · Government Operations and Politics |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-2 | 2025-03-14 | HJRES.35-119 | A joint resolution providing for congressional disapproval under chapter 8 of title 5, Uni |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-19 | HR.8022-119 | Science, Technology, Communications | DETECT Nitazenes Act of 2025 |
+| 2026-03-03 | HR.7773-119 | Armed Forces and National Security | Field Integration of Homeland Intelligence Act of 2026 |
+| 2026-02-26 | HR.7742-119 | Science, Technology, Communications | Keep It Moving Act |
+| 2026-02-09 | HR.7443-119 | Armed Forces and National Security | I&amp;A Mission Reorientation Act of 2026 |
+| 2026-01-15 | HR.7084-119 | Transportation and Public Works | Providing for consideration of the bill (H.R. 8029) making appropriations for the Departme |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: P000048` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # August Pfluger
 

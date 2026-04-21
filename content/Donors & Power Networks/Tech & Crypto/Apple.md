@@ -461,3 +461,27 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 17 |
+| Leak sources | Offshore Leaks (6) · Paradise Papers - Malta corporate registry (3) · Panama Papers (2) · Paradise Papers - Appleby (2) |
+| Top jurisdictions | Panama (1) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| BAKER TILLY ISLE OF MAN FIDUCIARIES LIMITED | intermediary | — | Panama Papers |
+| Lourie & Cutler, P.C. | intermediary | — | Offshore Leaks |
+| Amy B. Naughton | officer | — | Offshore Leaks |
+| Luke M. Lambert | officer | — | Offshore Leaks |
+| Bruce Levine | officer | — | Offshore Leaks |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: Apple` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

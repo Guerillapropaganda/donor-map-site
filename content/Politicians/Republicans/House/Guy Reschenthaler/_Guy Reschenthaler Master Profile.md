@@ -112,25 +112,28 @@ top-donors: "[[Comcast - NBCUniversal]], [[Leidos]], [[American Gaming Associati
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 116th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,710 |
-| Votes with party majority | 1,650 |
-| Party-line loyalty | 96.5% |
-| Deviations from party | 60 |
+| Roll-call votes tracked | 3,678 |
+| Substantive votes (Y/N) | 3,568 |
+| Votes with party majority | 3,413 |
+| Party-line loyalty | 95.7% |
+| Deviations from party | 155 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 60):**
+**Most recent party-line deviations (top 10 of 155):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -147,6 +150,29 @@ top-donors: "[[Comcast - NBCUniversal]], [[Leidos]], [[American Gaming Associati
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 35 |
+| Enacted into law | 0 |
+| Top policy areas | International Affairs · Armed Forces and National Security · Crime and Law Enforcement |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-18 | HR.7987-119 | Finance and Financial Sector | CLIMB Act |
+| 2025-09-10 | HR.5282-119 | Crime and Law Enforcement | Reauthorizing Support and Treatment for Officers in Crisis Act of 2025 |
+| 2025-07-15 | HR.4415-119 | Energy | Office of Fossil Energy and Carbon Management Relocation Act of 2025 |
+| 2025-06-26 | HR.4199-119 | International Affairs | Modernize the Au Pair Program Act of 2025 |
+| 2025-02-21 | HR.1496-119 | Taxation | Rare Earth Magnet Security Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: R000610` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Guy Reschenthaler
 

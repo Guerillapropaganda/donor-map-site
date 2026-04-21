@@ -136,6 +136,35 @@ top-policy-area: Government Operations and Politics
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 39 |
+| Enacted into law | 1 |
+| Top policy areas | Health · Government Operations and Politics · Crime and Law Enforcement |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-58 | 2024-05-07 | HR.3947-118 | To designate the facility of the United States Postal Service located at 100 Mathe Avenue  |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-15 | HR.8293-119 | — | To abolish the Center for Medicare and Medicaid Innovation. |
+| 2026-02-25 | HR.7681-119 | Taxation | HSA’s For All Act |
+| 2026-02-13 | HR.7569-119 | Crime and Law Enforcement | Punishing Health Care Fraudsters Act |
+| 2025-12-15 | HR.6708-119 | Health | ICHRA Permanency Act |
+| 2025-10-31 | HR.5872-119 | Health | Medical License Verification Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: B001314` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Aaron Bean
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

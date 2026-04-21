@@ -89,24 +89,27 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 116th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 589 |
-| Substantive votes (Y/N) | 532 |
-| Votes with party majority | 512 |
-| Party-line loyalty | 96.2% |
-| Deviations from party | 20 |
+| Roll-call votes tracked | 919 |
+| Substantive votes (Y/N) | 779 |
+| Votes with party majority | 754 |
+| Party-line loyalty | 96.8% |
+| Deviations from party | 25 |
 
 **Coverage:**
 
+- house 116/1: 291 votes
+- house 116/2: 25 votes
+- house 117/2: 14 votes
 - house 118/1: 394 votes
 - house 118/2: 144 votes
 - house 119/1: 47 votes
 - house 119/2: 4 votes
 
-**Most recent party-line deviations (top 10 of 20):**
+**Most recent party-line deviations (top 10 of 25):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -123,3 +126,32 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 111 |
+| Enacted into law | 1 |
+| Top policy areas | Taxation · Government Operations and Politics · Public Lands and Natural Resources |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 114-224 | 2016-09-29 | HR.2615-114 | H.R. 2615, Virgin Islands of the United States Centennial Commission Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-26 | HR.8121-119 | Public Lands and Natural Resources | To designate the Christiansted Bandstand at the Christiansted National Historic Site, St.  |
+| 2025-12-05 | HR.6494-119 | Health | Territories Health Equity Act of 2025 |
+| 2025-11-17 | HR.6065-119 | Agriculture and Food | Farm to School Act of 2025 |
+| 2025-09-30 | HR.5656-119 | Transportation and Public Works | To amend title 49, United States Code, to grant the United States Virgin Islands and Puert |
+| 2025-09-16 | HR.5409-119 | Health | Territory Health Revitalization Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: P000610` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

@@ -128,25 +128,30 @@ donors:
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,718 |
-| Votes with party majority | 1,653 |
-| Party-line loyalty | 96.2% |
-| Deviations from party | 65 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,801 |
+| Votes with party majority | 4,644 |
+| Party-line loyalty | 96.7% |
+| Deviations from party | 157 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 65):**
+**Most recent party-line deviations (top 10 of 157):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -163,6 +168,38 @@ donors:
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 60 |
+| Enacted into law | 4 |
+| Top policy areas | Public Lands and Natural Resources · Health · Crime and Law Enforcement |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-237 | 2025-01-04 | HR.7180-118 | H.R. 7180, a bill to designate the facility of the United States Postal Service located at |
+| PL 118-234 | 2025-01-04 | HR.6492-118 | Range Access Act |
+| PL 115-361 | 2018-12-21 | HR.5923-115 | Walnut Grove Land Exchange Act |
+| PL 114-202 | 2016-07-29 | HR.3931-114 | To designate the facility of the United States Postal Service located at 620 Central Avenu |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-01-14 | HR.7081-119 | Crime and Law Enforcement | Sara’s Law and the Preventing Unfair Sentencing Act of 2026 |
+| 2025-07-25 | HR.4776-119 | Environmental Protection | Providing for consideration of the bill (H.R. 4776) to amend the National Environmental Po |
+| 2025-03-06 | HR.1897-119 | Environmental Protection | ESA Amendments Act of 2025 |
+| 2025-02-12 | HR.1275-119 | Education | Focus on Learning Act |
+| 2025-01-16 | HR.471-119 | Public Lands and Natural Resources | Ensuring Casualty Assistance for our Firefighters Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: W000821` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

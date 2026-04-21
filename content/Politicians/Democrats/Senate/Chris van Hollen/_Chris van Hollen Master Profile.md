@@ -119,11 +119,11 @@ top-donors: "[[Let America Vote PAC]], [[Google - Alphabet]], [[Bank of America]
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,710 |
-| Votes with party majority | 2,559 |
-| Party-line loyalty | 94.4% |
-| Deviations from party | 54 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,609 |
+| Votes with party majority | 3,456 |
+| Party-line loyalty | 95.8% |
+| Deviations from party | 56 |
 
 **Coverage:**
 
@@ -131,12 +131,14 @@ top-donors: "[[Let America Vote PAC]], [[Google - Alphabet]], [[Bank of America]
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 54):**
+**Most recent party-line deviations (top 10 of 56):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -153,6 +155,37 @@ top-donors: "[[Let America Vote PAC]], [[Google - Alphabet]], [[Bank of America]
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 333 |
+| Enacted into law | 3 |
+| Top policy areas | Government Operations and Politics · Education · Health |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-336 | 2023-01-05 | S.1294-117 | United States Innovation and Competition Act of 2021 |
+| PL 117-24 | 2021-06-30 | SJRES.15-117 | Providing for congressional disapproval under chapter 8 of title 5, United States Code, of |
+| — | 2008-04-10 | HR.5778-110 | District of Columbia Water and Sewer Authority Independence Preservation Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-15 | S.4306-119 | — | A bill to amend the Internal Revenue Code of 1986 to impose a surtax on high income indivi |
+| 2026-04-13 | SJRES.180-119 | International Affairs | A joint resolution to direct the removal of United States Armed Forces from hostilities wi |
+| 2026-03-26 | SJRES.158-119 | International Affairs | A joint resolution providing for congressional disapproval of the proposed foreign militar |
+| 2026-03-25 | S.4196-119 | Taxation | Social Security Expansion Act |
+| 2026-03-24 | S.4178-119 | Transportation and Public Works | National Transit Frontline Workforce Training Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: V000128` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Chris van Hollen
 

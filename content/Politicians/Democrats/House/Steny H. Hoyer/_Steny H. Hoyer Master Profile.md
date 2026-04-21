@@ -86,25 +86,30 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,632 |
-| Votes with party majority | 1,598 |
-| Party-line loyalty | 97.9% |
-| Deviations from party | 34 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,652 |
+| Votes with party majority | 4,575 |
+| Party-line loyalty | 98.3% |
+| Deviations from party | 76 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 34):**
+**Most recent party-line deviations (top 10 of 76):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -121,3 +126,36 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 53 |
+| Enacted into law | 6 |
+| Top policy areas | Government Operations and Politics · Education · Health |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 116-292 | 2021-01-05 | HR.2468-116 | H.R. 2468, School-Based Allergies and Asthma Management Program Act |
+| PL 116-113 | 2020-01-29 | HR.5430-116 | North American Development Bank Improvement Act of 2019 |
+| PL 115-54 | 2017-08-22 | HJRES.76-115 | A joint resolution granting the consent and approval of Congress to the Commonwealth of Vi |
+| PL 113-102 | 2014-05-16 | HR.4120-113 | To amend the National Law Enforcement Museum Act to extend the termination date. |
+| — | 2009-12-11 | HJRES.62-111 | Appointing the day for the convening of the second session of the One Hundred Eleventh Con |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2024-09-27 | HR.9867-118 | International Affairs | Combatting Global Deforestation Act of 2024 |
+| 2021-11-03 | HR.5830-117 | International Affairs | AMAZON21 Act |
+| 2021-05-07 | HR.3005-117 | Congress | Providing for consideration of the bill (H.R. 2662) to amend the Inspector General Act of  |
+| 2021-03-18 | HR.2024-117 | Public Lands and Natural Resources | Southern Maryland National Heritage Area Act |
+| 2020-10-01 | HR.8488-116 | Public Lands and Natural Resources | Southern Maryland National Heritage Area Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: H000874` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

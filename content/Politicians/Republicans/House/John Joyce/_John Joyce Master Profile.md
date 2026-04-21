@@ -112,25 +112,28 @@ top-donors: "[[Anthem - Elevance Health]], [[American Chemistry Council, INC]], 
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 116th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,724 |
-| Votes with party majority | 1,624 |
-| Party-line loyalty | 94.2% |
-| Deviations from party | 100 |
+| Roll-call votes tracked | 3,678 |
+| Substantive votes (Y/N) | 3,593 |
+| Votes with party majority | 3,387 |
+| Party-line loyalty | 94.3% |
+| Deviations from party | 206 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 100):**
+**Most recent party-line deviations (top 10 of 206):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -147,6 +150,35 @@ top-donors: "[[Anthem - Elevance Health]], [[American Chemistry Council, INC]], 
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 54 |
+| Enacted into law | 1 |
+| Top policy areas | Health · Commerce · Science, Technology, Communications |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-16 | 2025-06-12 | HJRES.88-119 | A joint resolution providing for congressional disapproval under chapter 8 of title 5, Uni |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-12 | HR.7905-119 | Health | Diabetes Foot Health Access and Modernization Act of 2026 |
+| 2026-01-09 | HR.6997-119 | International Affairs | Community Passport Services Access Act |
+| 2025-12-03 | HR.6398-119 | Environmental Protection | Providing for consideration of the bill (H.R. 6387) to amend the Clean Air Act to require  |
+| 2025-11-20 | HR.6197-119 | Health | Health Tech Investment Act |
+| 2025-11-17 | HR.6046-119 | Science, Technology, Communications | Broadband and Telecommunications RAIL Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: J000302` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # John Joyce
 

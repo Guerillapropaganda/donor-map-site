@@ -86,3 +86,26 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 11 |
+| Enacted into law | 0 |
+| Top policy areas | Public Lands and Natural Resources · Immigration · Families |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | HR.8341-119 | — | To amend the Immigration and Nationality Act to require an attestation disavowing terroris |
+| 2026-01-15 | HR.7115-119 | Taxation | Jumpstart Savings Act |
+| 2025-11-17 | HR.6062-119 | Public Lands and Natural Resources | To transfer administrative jurisdiction over certain parcels of federal land in Harpers Fe |
+| 2025-07-25 | HR.4766-119 | Armed Forces and National Security | Faithful Patriot Campaign Medal Act |
+| 2025-07-22 | HR.4604-119 | Public Lands and Natural Resources | PATRIOT Parks Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001235` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

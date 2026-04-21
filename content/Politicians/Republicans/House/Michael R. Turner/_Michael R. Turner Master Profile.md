@@ -85,25 +85,30 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,629 |
-| Votes with party majority | 1,442 |
-| Party-line loyalty | 88.5% |
-| Deviations from party | 187 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,673 |
+| Votes with party majority | 4,246 |
+| Party-line loyalty | 90.9% |
+| Deviations from party | 427 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 187):**
+**Most recent party-line deviations (top 10 of 427):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -120,3 +125,52 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 148 |
+| Enacted into law | 1 |
+| Top policy areas | Armed Forces and National Security · Taxation · Public Lands and Natural Resources |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| — | 2005-05-17 | HR.2385-109 | H.R. 2385, A bill to extend by 10 years the authority of the Secretary of Commerce to cond |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-09 | HR.8242-119 | Taxation | Health Coverage Tax Credit Reauthorization Act of 2026 |
+| 2026-04-02 | HR.8193-119 | Government Operations and Politics | To designate the facility of the United States Postal Service located at 189 East Main Str |
+| 2025-09-26 | HR.5613-119 | Economics and Public Finance | It’s About Time Act |
+| 2025-07-23 | HR.4747-119 | Public Lands and Natural Resources | A bill to amend the Dayton Aviation Heritage Preservation Act of 1992 to adjust the bounda |
+| 2025-07-17 | HR.4538-119 | Finance and Financial Sector | PAPER Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: T000463` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 1 |
+| Leak sources | Paradise Papers - Aruba corporate registry (1) |
+| Top jurisdictions | Aruba (1) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| TAMBURA A.V.V. | entity | Aruba | Paradise Papers - Aruba corporate registry |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: Michael R. Turner` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

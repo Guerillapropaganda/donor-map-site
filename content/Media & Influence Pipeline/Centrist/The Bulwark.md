@@ -74,3 +74,26 @@ Does The Bulwark function as a pressure valve, channeling conservative anti-Trum
 
 *No sources yet, raw placeholder.*
 
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 4 |
+| Leak sources | Panama Papers (2) · Paradise Papers - Nevis corporate registry (1) · Bahamas Leaks (1) |
+| Top jurisdictions | British Virgin Islands (2) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| CHARMATIC LIMITED | entity | British Virgin Islands | Panama Papers |
+| JAYE LIMITED | entity | British Virgin Islands | Panama Papers |
+| Morning Star Holdings Limited | intermediary | — | Paradise Papers - Nevis corporate registry |
+| GRAHAM COOPER | intermediary | — | Bahamas Leaks |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: The Bulwark` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

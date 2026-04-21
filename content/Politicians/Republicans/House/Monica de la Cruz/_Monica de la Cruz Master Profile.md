@@ -159,6 +159,36 @@ top-donors: "[[Chevron]], [[National Victory Action Fund]], [[General Dynamics]]
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 55 |
+| Enacted into law | 2 |
+| Top policy areas | Agriculture and Food · Immigration · Housing and Community Development |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-70 | 2026-01-20 | HR.224-119 | Disabled Veterans Housing Support Act |
+| PL 118-79 | 2024-09-13 | HR.1076-118 | Preventing the Financing of Illegal Synthetic Drugs Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-09 | HR.8216-119 | Health | Improving Medicare Services Act of 2026 |
+| 2026-03-27 | HR.8134-119 | Taxation | Strengthen Taxpayer Rights Act of 2026 |
+| 2025-12-23 | HR.6922-119 | Immigration | Texas Dreamer Work Authorization Act of 2025 |
+| 2025-12-18 | HR.6847-119 | Immigration | Fair Wages for Farmworkers Act |
+| 2025-12-10 | HR.6554-119 | Finance and Financial Sector | Main Street Capital Access Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: D000594` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Monica de la Cruz
 
 <!-- auto:congress-bills start -->

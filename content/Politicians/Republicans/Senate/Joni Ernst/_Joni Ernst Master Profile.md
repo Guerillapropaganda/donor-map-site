@@ -136,11 +136,11 @@ donors: [[Koch Network - Charles Koch]], [[Agribusiness Donor Bloc]], [[Ethanol 
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,685 |
-| Votes with party majority | 2,589 |
-| Party-line loyalty | 96.4% |
-| Deviations from party | 60 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,602 |
+| Votes with party majority | 3,429 |
+| Party-line loyalty | 95.2% |
+| Deviations from party | 136 |
 
 **Coverage:**
 
@@ -148,12 +148,14 @@ donors: [[Koch Network - Charles Koch]], [[Agribusiness Donor Bloc]], [[Ethanol 
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 60):**
+**Most recent party-line deviations (top 10 of 136):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -170,6 +172,37 @@ donors: [[Koch Network - Charles Koch]], [[Agribusiness Donor Bloc]], [[Ethanol 
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 309 |
+| Enacted into law | 3 |
+| Top policy areas | Government Operations and Politics · Armed Forces and National Security · Health |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-83 | 2026-04-13 | S.3971-119 | Small Business Innovation and Economic Security Act |
+| PL 117-132 | 2022-06-07 | S.1872-117 | United States Army Rangers Veterans of World War II Congressional Gold Medal Act |
+| PL 114-264 | 2016-12-14 | S.1550-114 | Program Management Improvement and Accountability Act of 2015 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | S.4335-119 | — | A bill to address the challenges of providing child care opportunities for military famili |
+| 2026-03-18 | S.4130-119 | Government Operations and Politics | COST Act |
+| 2026-03-11 | S.4059-119 | Government Operations and Politics | End-of-Year Fiscal Responsibility Act |
+| 2026-02-26 | S.3954-119 | Science, Technology, Communications | No Lifeline for Dead People Act |
+| 2026-02-24 | S.3902-119 | Armed Forces and National Security | RECEIPTS Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: E000295` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

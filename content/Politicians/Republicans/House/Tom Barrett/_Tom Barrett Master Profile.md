@@ -99,3 +99,26 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 32 |
+| Enacted into law | 0 |
+| Top policy areas | Armed Forces and National Security · Transportation and Public Works · Health |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-25 | HR.8072-119 | Armed Forces and National Security | Safety in Shared Skies Act of 2026 |
+| 2026-03-09 | HR.7861-119 | Health | Care Over Profits Act of 2026 |
+| 2026-03-09 | HR.7860-119 | Health | To amend the Patient Protection and Affordable Care Act to prevent duplicate enrollments i |
+| 2026-03-03 | HR.7753-119 | Housing and Community Development | First Look for First-time Homebuyers Act of 2026 |
+| 2026-03-03 | HR.7756-119 | Taxation | First-time Homebuyer Savings Account Act of 2026 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: B001321` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

@@ -328,3 +328,22 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[STAT News: Medicare Advantage upcoding and overpayment](https://www.statnews.com/medicare-advantage-upcoding/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 - ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=08_2020_prefixes_74-81%2F800487553_201912_990EZ_2020083117270894.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Humana%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 1 |
+| Leak sources | Bahamas Leaks (1) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| ANSBACHER (BAHAMAS) LIMITED | intermediary | — | Bahamas Leaks |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: Humana` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

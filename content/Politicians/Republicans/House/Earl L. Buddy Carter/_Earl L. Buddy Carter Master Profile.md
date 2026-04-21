@@ -87,25 +87,30 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,672 |
-| Votes with party majority | 1,615 |
-| Party-line loyalty | 96.6% |
-| Deviations from party | 57 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,710 |
+| Votes with party majority | 4,518 |
+| Party-line loyalty | 95.9% |
+| Deviations from party | 192 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 57):**
+**Most recent party-line deviations (top 10 of 192):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -122,3 +127,36 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 175 |
+| Enacted into law | 7 |
+| Top policy areas | Health · Taxation · Government Operations and Politics |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-178 | 2024-12-23 | HR.6960-118 | Emergency Medical Services for Children Reauthorization Act of 2024 |
+| PL 118-61 | 2024-05-13 | HR.593-118 | To rename the Department of Veterans Affairs community-based outpatient clinic in Hinesvil |
+| PL 116-314 | 2021-01-05 | HR.7088-116 | H.R. 7088, a bill to designate the facility of the United States Postal Service located at |
+| PL 116-287 | 2021-01-05 | HR.6435-116 | Combating Pandemic Scams Act of 2020 |
+| PL 115-352 | 2018-12-21 | HR.4431-115 | H.R. 4431, Correcting Miscalculations in Veterans’ Pensions Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-25 | HR.7686-119 | Health | Rural and Underserved Health Care Staffing Act |
+| 2026-02-12 | HR.7528-119 | Health | GAP Supply Act |
+| 2026-02-10 | HR.7462-119 | Agriculture and Food | Farmers’ AID Relief Act |
+| 2026-02-09 | HR.7423-119 | Immigration | No Sanctuary Cities Act of 2026 |
+| 2026-02-04 | HR.7352-119 | Health | PASTEUR Act of 2026 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C001103` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

@@ -157,11 +157,11 @@ donors: [[Robert Mercer]] · [[Koch Network - Charles Koch]] · [[Crypto Industr
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,578 |
-| Votes with party majority | 2,427 |
-| Party-line loyalty | 94.1% |
-| Deviations from party | 116 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,467 |
+| Votes with party majority | 3,232 |
+| Party-line loyalty | 93.2% |
+| Deviations from party | 199 |
 
 **Coverage:**
 
@@ -169,12 +169,14 @@ donors: [[Robert Mercer]] · [[Koch Network - Charles Koch]] · [[Crypto Industr
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 116):**
+**Most recent party-line deviations (top 10 of 199):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -191,6 +193,39 @@ donors: [[Robert Mercer]] · [[Koch Network - Charles Koch]] · [[Crypto Industr
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 525 |
+| Enacted into law | 7 |
+| Top policy areas | International Affairs · Taxation · Health |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-12 | 2025-05-19 | S.146-119 | TAKE IT DOWN Act |
+| PL 118-203 | 2024-12-23 | S.3998-118 | Judicial Efficiency Improvement Act |
+| PL 118-201 | 2024-12-23 | S.3946-118 | To designate the facility of the United States Postal Service located at 1106 Main Street  |
+| PL 118-45 | 2024-03-22 | S.992-118 | I–27 Numbering Act of 2023 |
+| — | 2022-06-15 | S.4411-117 | To designate the facility of the United States Postal Service located at 5302 Galveston Ro |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | S.4340-119 | — | A bill to prohibit liability against those engaged in the mining, extraction, production,  |
+| 2026-03-11 | S.4063-119 | International Affairs | Polisario Front Terrorist Designation Act of 2026 |
+| 2026-03-05 | S.4009-119 | International Affairs | Falun Gong Protection Act |
+| 2026-03-03 | S.3972-119 | Transportation and Public Works | Highway Formula Fairness Act |
+| 2026-03-03 | S.3966-119 | Law | TREY'S Law |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C001098` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

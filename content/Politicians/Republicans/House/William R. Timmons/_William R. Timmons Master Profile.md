@@ -89,25 +89,28 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 116th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,709 |
-| Votes with party majority | 1,619 |
-| Party-line loyalty | 94.7% |
-| Deviations from party | 90 |
+| Roll-call votes tracked | 3,678 |
+| Substantive votes (Y/N) | 3,475 |
+| Votes with party majority | 3,303 |
+| Party-line loyalty | 95.1% |
+| Deviations from party | 172 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 90):**
+**Most recent party-line deviations (top 10 of 172):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -124,3 +127,32 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 34 |
+| Enacted into law | 1 |
+| Top policy areas | Finance and Financial Sector · Government Operations and Politics · Crime and Law Enforcement |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-284 | 2022-12-27 | HR.5943-117 | A bill to designate the outpatient clinic of the Department of Veterans Affairs in Greenvi |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-01-30 | HR.7274-119 | Government Operations and Politics | H.R. 7274, Federal Acquisition Security Council Improvement Act |
+| 2025-12-09 | HR.6544-119 | Finance and Financial Sector | Main Street Capital Access Act |
+| 2025-10-21 | HR.5810-119 | Government Operations and Politics | Federal Supervisor Education Act |
+| 2025-09-04 | HR.5163-119 | Crime and Law Enforcement | H.R. 5163, Clean and Managed Public Spaces Act, |
+| 2025-07-17 | HR.4536-119 | Armed Forces and National Security | Fit for Duty Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: T000480` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

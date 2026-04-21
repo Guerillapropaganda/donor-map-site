@@ -105,25 +105,30 @@ top-policy-area: Health
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,634 |
-| Votes with party majority | 1,596 |
-| Party-line loyalty | 97.7% |
-| Deviations from party | 38 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,675 |
+| Votes with party majority | 4,549 |
+| Party-line loyalty | 97.3% |
+| Deviations from party | 125 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 38):**
+**Most recent party-line deviations (top 10 of 125):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -140,6 +145,39 @@ top-policy-area: Health
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 260 |
+| Enacted into law | 6 |
+| Top policy areas | Crime and Law Enforcement · Law · Taxation |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-228 | 2022-12-13 | HR.8404-117 | Providing for consideration of the bill (H.R. 8294) making appropriations for the Departme |
+| PL 117-27 | 2021-07-22 | HR.1652-117 | VOCA Fix to Sustain the Crime Victims Fund Act of 2021 |
+| PL 117-5 | 2021-03-27 | HR.1651-117 | COVID–19 Bankruptcy Relief Extension Act of 2021 |
+| PL 116-133 | 2020-03-26 | HR.4803-116 | Citizenship for Children of Military Members and Civil Servants Act |
+| — | 2010-02-24 | HR.4684-111 | National September 11 Memorial &amp; Museum Commemorative Coin Act of 2009 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-09 | HR.8226-119 | Transportation and Public Works | Helicopter Safety Parity Act of 2026 |
+| 2025-12-17 | HR.6806-119 | Civil Rights and Liberties, Minority Issues | Antisemitism Response and Prevention Act of 2025 |
+| 2025-08-29 | HR.5068-119 | Crime and Law Enforcement | MORE Act |
+| 2025-07-22 | HR.4605-119 | Health | End Prescription Drug Ads Now Act |
+| 2025-06-24 | HR.4108-119 | Public Lands and Natural Resources | Refuge From Cruel Trapping Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: N000002` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Jerrold Nadler
 

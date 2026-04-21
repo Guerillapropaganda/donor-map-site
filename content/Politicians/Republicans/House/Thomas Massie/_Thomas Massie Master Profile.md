@@ -115,25 +115,30 @@ top-donors: "[[iHeartMedia]], [[MAJORITY PAC]], [[Save America PAC]], [[WinRed]]
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,595 |
-| Votes with party majority | 1,215 |
-| Party-line loyalty | 76.2% |
-| Deviations from party | 380 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,631 |
+| Votes with party majority | 3,402 |
+| Party-line loyalty | 73.5% |
+| Deviations from party | 1,229 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 380):**
+**Most recent party-line deviations (top 10 of 1229):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -150,6 +155,29 @@ top-donors: "[[iHeartMedia]], [[MAJORITY PAC]], [[Save America PAC]], [[WinRed]]
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 81 |
+| Enacted into law | 0 |
+| Top policy areas | Crime and Law Enforcement · Agriculture and Food · Finance and Financial Sector |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-09 | HR.7880-119 | Health | Interstate Milk Freedom Act of 2026 |
+| 2026-02-20 | HR.7601-119 | Health | No Immunity for Glyphosate Act |
+| 2025-12-09 | HR.6508-119 | International Affairs | NATO Act |
+| 2025-10-24 | HR.5811-119 | Commerce | Restoring America’s Leadership in Innovation Act of 2025 |
+| 2025-10-08 | HR.5704-119 | International Affairs | Repeal the Smith-Mundt Modernization Act of 2013 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001184` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Thomas Massie
 

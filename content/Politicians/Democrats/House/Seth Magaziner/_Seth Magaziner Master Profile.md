@@ -150,6 +150,29 @@ top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[UA Politica
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 40 |
+| Enacted into law | 0 |
+| Top policy areas | Labor and Employment · Health · Armed Forces and National Security |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-09 | HR.7435-119 | Armed Forces and National Security | DHS Intelligence Transparency and Oversight Program Office and Ombuds Act |
+| 2026-02-09 | HR.7436-119 | Armed Forces and National Security | Department of Homeland Security Intelligence and Analysis Training Act |
+| 2026-02-02 | HR.7314-119 | Government Operations and Politics | Responsible Legislating Act |
+| 2026-02-02 | HR.7315-119 | Government Operations and Politics | Responsible Legislating Act |
+| 2025-12-16 | HR.6731-119 | Government Operations and Politics | Restore Trust in Government Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001223` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Seth Magaziner
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

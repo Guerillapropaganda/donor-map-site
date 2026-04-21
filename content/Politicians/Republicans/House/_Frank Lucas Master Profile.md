@@ -137,25 +137,30 @@ top-policy-area: "Science, Technology, Communications"
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,666 |
-| Votes with party majority | 1,512 |
-| Party-line loyalty | 90.8% |
-| Deviations from party | 154 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,699 |
+| Votes with party majority | 4,433 |
+| Party-line loyalty | 94.3% |
+| Deviations from party | 266 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 154):**
+**Most recent party-line deviations (top 10 of 266):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -172,6 +177,37 @@ top-policy-area: "Science, Technology, Communications"
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 86 |
+| Enacted into law | 3 |
+| Top policy areas | Finance and Financial Sector · Science, Technology, Communications · Agriculture and Food |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 115-25 | 2017-04-18 | HR.353-115 | Hurricane Forecast Improvement Act of 2017 |
+| PL 113-79 | 2014-02-07 | HR.2642-113 | Agriculture Reform, Food, and Jobs Act of 2013 |
+| — | 2003-07-25 | HR.2912-108 | H.R. 2912, A bill to reaffirm the inherent sovereign rights of the Osage Tribe to determin |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-25 | HR.8087-119 | Finance and Financial Sector | Main Street Depositor Protection Act |
+| 2026-01-07 | HR.6967-119 | Finance and Financial Sector | H.R. 6967, Public Company Advisory Committee Act of 2026 |
+| 2025-09-02 | HR.5089-119 | Science, Technology, Communications | Tsunami Warning, Research, and Education Act of 2025 |
+| 2025-07-16 | HR.4459-119 | Finance and Financial Sector | Common Cents Act |
+| 2025-06-06 | HR.3816-119 | Public Lands and Natural Resources | Coordinated Federal Response to Extreme Heat Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: L000491` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #frank-lucas #master-profile #house #oklahoma #agriculture #science #farm-subsidies #self-dealing #fossil-fuel #structural-corruption
 

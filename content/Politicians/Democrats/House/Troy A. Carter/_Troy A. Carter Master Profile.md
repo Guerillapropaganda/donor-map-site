@@ -93,21 +93,22 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,747 |
-| Substantive votes (Y/N) | 1,686 |
-| Votes with party majority | 1,660 |
+| Roll-call votes tracked | 2,591 |
+| Substantive votes (Y/N) | 2,525 |
+| Votes with party majority | 2,488 |
 | Party-line loyalty | 98.5% |
-| Deviations from party | 26 |
+| Deviations from party | 37 |
 
 **Coverage:**
 
-- house 117/1: 21 votes
+- house 117/1: 316 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 26):**
+**Most recent party-line deviations (top 10 of 37):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -124,3 +125,32 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 48 |
+| Enacted into law | 1 |
+| Top policy areas | Emergency Management · Commerce · Education |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-53 | 0001-01-01 | HR.996-118 | A bill to designate the facility of the United States Postal Service located at 3901 MacAr |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-04 | HR.7787-119 | Health | To amend title VII of the Public Health Service Act to strengthen the mental health workfo |
+| 2026-02-20 | HR.7602-119 | Health | State of Men’s Health Act |
+| 2026-01-15 | HR.7092-119 | Education | RAYS Act |
+| 2025-12-17 | HR.6782-119 | Environmental Protection | Public Health Air Quality Act of 2025 |
+| 2025-12-10 | HR.6560-119 | Finance and Financial Sector | National Flood Insurance Program Automatic Extension Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C001125` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

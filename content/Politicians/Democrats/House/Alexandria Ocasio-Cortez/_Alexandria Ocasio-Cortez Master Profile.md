@@ -165,25 +165,28 @@ donors: [[Small Dollar Donors - ActBlue]]
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 116th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,670 |
-| Votes with party majority | 1,568 |
-| Party-line loyalty | 93.9% |
-| Deviations from party | 102 |
+| Roll-call votes tracked | 3,678 |
+| Substantive votes (Y/N) | 3,569 |
+| Votes with party majority | 3,378 |
+| Party-line loyalty | 94.6% |
+| Deviations from party | 191 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 102):**
+**Most recent party-line deviations (top 10 of 191):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -200,6 +203,29 @@ donors: [[Small Dollar Donors - ActBlue]]
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 51 |
+| Enacted into law | 0 |
+| Top policy areas | Housing and Community Development · Finance and Financial Sector · Crime and Law Enforcement |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-12 | HR.7917-119 | Labor and Employment | Fair Wages for Home Care Workers Act |
+| 2025-09-11 | HR.5333-119 | Immigration | 9/11 Immigrant Worker Freedom Act |
+| 2025-05-21 | HR.3562-119 | Crime and Law Enforcement | DEFIANCE Act of 2025 |
+| 2025-05-08 | HR.3302-119 | Health | H.R. 3302, Healthy Start Reauthorization Act of 2025 |
+| 2025-03-06 | HR.1944-119 | Finance and Financial Sector | 10 Percent Credit Card Interest Rate Cap Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: O000172` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

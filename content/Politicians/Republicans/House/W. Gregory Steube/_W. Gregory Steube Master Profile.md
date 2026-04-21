@@ -89,25 +89,28 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 116th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,588 |
-| Votes with party majority | 1,390 |
+| Roll-call votes tracked | 3,678 |
+| Substantive votes (Y/N) | 3,435 |
+| Votes with party majority | 3,004 |
 | Party-line loyalty | 87.5% |
-| Deviations from party | 198 |
+| Deviations from party | 431 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 198):**
+**Most recent party-line deviations (top 10 of 431):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -124,3 +127,32 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 227 |
+| Enacted into law | 1 |
+| Top policy areas | Armed Forces and National Security · Taxation · International Affairs |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-148 | 2024-12-12 | HR.5863-118 | Tax Relief for American Families and Workers Act of 2024 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-15 | HR.8314-119 | — | To amend the Internal Revenue Code of 1986 to establish that employers may offer employees |
+| 2026-03-19 | HR.8026-119 | Crime and Law Enforcement | CLEAR Act |
+| 2026-03-12 | HR.7925-119 | Social Welfare | American Families First Assistance Act |
+| 2026-02-20 | HR.7635-119 | Foreign Trade and International Finance | CHARGE Act |
+| 2026-02-09 | HR.7450-119 | Taxation | Disaster Zone Energy Affordability and Investment Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S001214` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

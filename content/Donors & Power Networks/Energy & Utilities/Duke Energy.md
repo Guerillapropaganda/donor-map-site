@@ -431,3 +431,26 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 23 |
+| Leak sources | Paradise Papers - Appleby (23) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| Alford - Bradley K | officer | — | Paradise Papers - Appleby |
+| Graebner - Carol F | officer | — | Paradise Papers - Appleby |
+| Dill - Julie A. | officer | — | Paradise Papers - Appleby |
+| McGee - Richard K | officer | — | Paradise Papers - Appleby |
+| Bailey - Brent C | officer | — | Paradise Papers - Appleby |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: Duke Energy` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

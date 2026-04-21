@@ -141,11 +141,11 @@ top-policy-area: International Affairs
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,697 |
-| Votes with party majority | 2,630 |
-| Party-line loyalty | 97.5% |
-| Deviations from party | 30 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,618 |
+| Votes with party majority | 3,491 |
+| Party-line loyalty | 96.5% |
+| Deviations from party | 89 |
 
 **Coverage:**
 
@@ -153,12 +153,14 @@ top-policy-area: International Affairs
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 30):**
+**Most recent party-line deviations (top 10 of 89):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -175,6 +177,39 @@ top-policy-area: International Affairs
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 158 |
+| Enacted into law | 6 |
+| Top policy areas | Energy · Native Americans · Agriculture and Food |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 116-261 | 2020-12-30 | S.212-116 | Indian Community Economic Enhancement Act of 2019 |
+| PL 116-180 | 2020-10-21 | S.209-116 | PROGRESS for Indian Tribes Act |
+| PL 115-325 | 2018-12-18 | S.245-115 | Energy and Natural Resources Act of 2017 |
+| PL 115-308 | 2018-12-11 | S.2074-115 | To establish a procedure for the conveyance of certain Federal property around the Jamesto |
+| PL 115-306 | 2018-12-11 | S.440-115 | To establish a procedure for the conveyance of certain Federal property around the Dickins |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-10 | S.4040-119 | Water Resources Development | Dakota Water Resources Act Amendments of 2026 |
+| 2026-02-25 | S.3908-119 | Health | SOS: Sustaining Outpatient Services Act |
+| 2025-12-03 | S.3335-119 | Energy | National Coal Council Act of 2025 |
+| 2025-11-20 | S.3257-119 | Transportation and Public Works | Mental Health in Aviation Act of 2025 |
+| 2025-07-10 | S.2256-119 | Economics and Public Finance | Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Vete |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: H001061` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #politician #republican #senate #north-dakota #energy #oil-gas #agriculture #appropriations #pipeline #class-analysis #follow-the-money #gavel-power
 

@@ -116,21 +116,22 @@ top-donors: "[[J Street]], [[Progressive Turnout Project]], [[United Food and Co
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,648 |
-| Votes with party majority | 1,617 |
-| Party-line loyalty | 98.1% |
-| Deviations from party | 31 |
+| Roll-call votes tracked | 2,724 |
+| Substantive votes (Y/N) | 2,609 |
+| Votes with party majority | 2,572 |
+| Party-line loyalty | 98.6% |
+| Deviations from party | 37 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 31):**
+**Most recent party-line deviations (top 10 of 37):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -147,6 +148,35 @@ top-donors: "[[J Street]], [[Progressive Turnout Project]], [[United Food and Co
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 88 |
+| Enacted into law | 1 |
+| Top policy areas | Native Americans · Public Lands and Natural Resources · Education |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-258 | 2022-12-21 | HR.2930-117 | Safeguard Tribal Objects of Patrimony Act of 2021 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-10 | HR.7467-119 | Crime and Law Enforcement | Virginia's Law |
+| 2026-01-12 | HR.7019-119 | Education | Campus Prevention and Recovery Services for Students Act of 2026 |
+| 2026-01-07 | HR.6966-119 | Agriculture and Food | Nutrition Administration Assistance Act of 2026 |
+| 2025-12-18 | HR.6869-119 | Native Americans | A bill to amend the Aamodt Litigation Settlement Act to modify a provision relating to the |
+| 2025-11-20 | HR.6206-119 | Native Americans | Protect Culturally Sensitive Information Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: L000273` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Teresa Leger Fernandez
 

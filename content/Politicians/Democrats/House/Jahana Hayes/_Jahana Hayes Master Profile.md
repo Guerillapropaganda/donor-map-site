@@ -116,25 +116,28 @@ top-donors: "[[DCCC - Democratic Congressional Campaign Committee]], [[McDonalds
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 116th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,715 |
-| Votes with party majority | 1,665 |
-| Party-line loyalty | 97.1% |
-| Deviations from party | 50 |
+| Roll-call votes tracked | 3,678 |
+| Substantive votes (Y/N) | 3,589 |
+| Votes with party majority | 3,521 |
+| Party-line loyalty | 98.1% |
+| Deviations from party | 68 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 50):**
+**Most recent party-line deviations (top 10 of 68):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -151,6 +154,35 @@ top-donors: "[[DCCC - Democratic Congressional Campaign Committee]], [[McDonalds
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 98 |
+| Enacted into law | 1 |
+| Top policy areas | Agriculture and Food · Education · Armed Forces and National Security |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-129 | 2022-05-21 | HR.7791-117 | Access to Baby Formula Act of 2022 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | HR.8333-119 | — | To reauthorize the YouthBuild program, and for other purposes. |
+| 2026-04-14 | HR.8263-119 | — | Educational Equity Challenge Grant Act of 2026 |
+| 2026-03-19 | HR.8008-119 | Health | Momnibus Act |
+| 2026-02-11 | HR.7497-119 | Education | Supporting Trauma-Informed Education Practices Act of 2026 |
+| 2025-12-17 | HR.6795-119 | Agriculture and Food | School MEALS Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: H001081` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Jahana Hayes
 

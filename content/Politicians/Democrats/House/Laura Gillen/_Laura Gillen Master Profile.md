@@ -143,6 +143,29 @@ top-donors: "[[Pfizer Inc.]], [[League of Conservation Voters]], [[Joe Neguse]],
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 12 |
+| Enacted into law | 0 |
+| Top policy areas | Transportation and Public Works · Health · Crime and Law Enforcement |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-25 | HR.7679-119 | Transportation and Public Works | CAR SEAT Act |
+| 2026-01-30 | HR.7275-119 | Transportation and Public Works | Aviation Weather Safety Improvement Act |
+| 2025-12-16 | HR.6744-119 | Transportation and Public Works | H.R. 6744, Military Air Traffic Control Transition Act |
+| 2025-12-15 | HR.6704-119 | Transportation and Public Works | Drunk Driving Prevention and Enforcement Act of 2025 |
+| 2025-12-02 | HR.6351-119 | Science, Technology, Communications | Advancing Regional Quantum Hubs Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: G000602` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Laura Gillen
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

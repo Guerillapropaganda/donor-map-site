@@ -117,26 +117,30 @@ top-donors: "[[Northrop Grumman]], [[Devon Energy]], [[National Association of R
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 116th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,152 |
-| Substantive votes (Y/N) | 2,031 |
-| Votes with party majority | 1,961 |
-| Party-line loyalty | 96.6% |
-| Deviations from party | 24 |
+| Roll-call votes tracked | 4,311 |
+| Substantive votes (Y/N) | 3,972 |
+| Votes with party majority | 3,802 |
+| Party-line loyalty | 95.7% |
+| Deviations from party | 123 |
 
 **Coverage:**
 
+- house 115/1: 710 votes
+- house 115/2: 500 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 24):**
+**Most recent party-line deviations (top 10 of 123):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -153,6 +157,36 @@ top-donors: "[[Northrop Grumman]], [[Devon Energy]], [[National Association of R
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 112 |
+| Enacted into law | 2 |
+| Top policy areas | Finance and Financial Sector · Public Lands and Natural Resources · Armed Forces and National Security |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 115-157 | 2018-03-27 | HR.2154-115 | A bill to designate the Red River Valley Agricultural Research Center in Fargo, North Dako |
+| PL 113-69 | 2013-12-26 | HR.767-113 | A bill to amend the Energy Policy Act of 2005 to modify the Pilot Project offices of the F |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-25 | S.4197-119 | Armed Forces and National Security | Veterans Outdoor Rehabilitation Act |
+| 2026-02-04 | S.3772-119 | Foreign Trade and International Finance | Export-Import Bank Reauthorization Act of 2026 |
+| 2025-12-17 | S.3530-119 | Energy | Strategic Resources Non-discrimination Act |
+| 2025-12-01 | S.3287-119 | Energy | Fair Allocation of Interstate Rates Act |
+| 2025-07-17 | S.2326-119 | Finance and Financial Sector | Payment Choice Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C001096` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Kevin Cramer
 

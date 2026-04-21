@@ -85,25 +85,30 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,707 |
-| Votes with party majority | 1,613 |
-| Party-line loyalty | 94.5% |
-| Deviations from party | 94 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,796 |
+| Votes with party majority | 4,573 |
+| Party-line loyalty | 95.4% |
+| Deviations from party | 223 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 94):**
+**Most recent party-line deviations (top 10 of 223):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -120,3 +125,36 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 126 |
+| Enacted into law | 6 |
+| Top policy areas | Finance and Financial Sector · International Affairs · Government Operations and Politics |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-290 | 2022-12-27 | HR.6080-117 | To designate the facility of the United States Postal Service located at 5420 Kavanaugh Bo |
+| PL 117-185 | 2022-10-04 | HR.6899-117 | Russia and Belarus SDR Exchange Prohibition Act of 2022 |
+| PL 116-198 | 2020-12-03 | HR.3317-116 | A bill to permit the Scipio A. Jones Post Office in Little Rock, Arkansas, to accept and d |
+| PL 115-430 | 2019-01-10 | HR.5636-115 | H.R. 5636, Flatside Wilderness Enhancement Act |
+| PL 115-117 | 2018-01-12 | HR.2611-115 | Little Rock Central High School National Historic Site Boundary Modification Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-14 | HR.8264-119 | — | HBCU Research Capacity Act |
+| 2026-01-27 | HR.7253-119 | Health | Ticket to Work Advertisement Act |
+| 2026-01-21 | HR.7180-119 | International Affairs | Countering Captagon and Narcotics Post-Assad Act |
+| 2026-01-07 | HR.6955-119 | Finance and Financial Sector | American FIRST Act of 2025 |
+| 2025-12-11 | HR.6644-119 | Housing and Community Development | To require Federal monitors and receivers of public housing agencies to testify before the |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: H001072` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

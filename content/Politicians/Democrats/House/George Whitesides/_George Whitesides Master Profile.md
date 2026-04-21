@@ -144,6 +144,29 @@ top-donors: "[[CHC BOLD PAC]], [[Let America Vote PAC]], [[Pete Aguilar]], [[Sie
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 7 |
+| Enacted into law | 0 |
+| Top policy areas | Government Operations and Politics · Armed Forces and National Security · Emergency Management |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-01-20 | HR.7150-119 | Armed Forces and National Security | To amend title 38, United States Code, to require the Secretary of Veterans Affairs to sub |
+| 2025-12-11 | HR.6681-119 | Commerce | National Scam Prevention Coordination Act |
+| 2025-11-19 | HR.6164-119 | Government Operations and Politics | To designate the facility of the United States Postal Service located at 28201 Franklin Pa |
+| 2025-09-26 | HR.5615-119 | Armed Forces and National Security | To amend title 32, United States Code, to establish the FireGuard Program as a program of  |
+| 2025-09-16 | HR.5416-119 | Government Operations and Politics | Contract Postal Unit Transparency Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: W000830` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # George Whitesides
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

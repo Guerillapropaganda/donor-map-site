@@ -123,3 +123,26 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 30 |
+| Enacted into law | 0 |
+| Top policy areas | Science, Technology, Communications · Labor and Employment · Taxation |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-04 | HR.7343-119 | Labor and Employment | Foster Youth Workforce Opportunity Act |
+| 2026-02-02 | HR.7306-119 | Labor and Employment | CLOSE Act |
+| 2026-01-09 | HR.6999-119 | Taxation | Tax Relief for Fraud Victims Act |
+| 2026-01-08 | HR.6985-119 | Taxation | Facilitating Useful Loss Limitations to Help Our Unique Service Economy (FULL HOUSE) Act |
+| 2025-12-19 | HR.6914-119 | Foreign Trade and International Finance | Trusted Importer and Competitive Manufacturing Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001222` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

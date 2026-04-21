@@ -135,6 +135,35 @@ top-donors: "[[SEIU COPE]], [[American Federation of State County & Municipal Em
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 11 |
+| Enacted into law | 1 |
+| Top policy areas | Health · Armed Forces and National Security · Government Operations and Politics |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-72 | 2026-01-20 | HR.4446-119 | H.R. 4446, Focused Assistance and Skills Training for Veterans’ Employment and Transition  |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-26 | HR.8099-119 | — | To require the Secretary of the Interior to annually submit to Congress, and make publicly |
+| 2026-03-18 | HR.7980-119 | Health | Protecting Americans from Unsafe Drugs Act of 2026 |
+| 2026-02-13 | HR.7573-119 | Social Welfare | Modernize SSI Stipends Act |
+| 2026-01-08 | HR.6977-119 | Health | Better Care for PFAS Patients Act of 2026 |
+| 2025-11-07 | HR.5941-119 | Immigration | Restoring Access for Detainees Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: D000635` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Maxine Dexter
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

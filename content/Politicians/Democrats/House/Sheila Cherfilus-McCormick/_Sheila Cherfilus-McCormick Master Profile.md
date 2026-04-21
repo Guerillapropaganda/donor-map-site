@@ -109,24 +109,25 @@ top-donors: "[[Raytheon (RTX)]], [[Amgen Inc]], [[NEA Fund for Children and Publ
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,651 |
-| Votes with party majority | 1,623 |
-| Party-line loyalty | 98.3% |
-| Deviations from party | 28 |
+| Roll-call votes tracked | 2,266 |
+| Substantive votes (Y/N) | 2,189 |
+| Votes with party majority | 2,153 |
+| Party-line loyalty | 98.4% |
+| Deviations from party | 36 |
 
 **Coverage:**
 
+- house 117/2: 540 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 28):**
+**Most recent party-line deviations (top 10 of 36):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -143,6 +144,29 @@ top-donors: "[[Raytheon (RTX)]], [[Amgen Inc]], [[NEA Fund for Children and Publ
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 33 |
+| Enacted into law | 0 |
+| Top policy areas | Armed Forces and National Security · Taxation · Government Operations and Politics |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-14 | HR.8260-119 | — | Cardiovascular Disease Early Detection and Prevention Act of 2026 |
+| 2026-04-09 | HR.8214-119 | Government Operations and Politics | W.A.R. Act Wartime Anti-Profiteering and Relief Act |
+| 2026-03-24 | HR.8042-119 | Agriculture and Food | Empowering Women in Agriculture Act |
+| 2026-03-12 | HR.7899-119 | Immigration | Respect for Essential Workers Act |
+| 2026-03-05 | HR.7820-119 | Taxation | To amend the Internal Revenue Code of 1986 to modify the rules for investments in qualifie |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C001127` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Sheila Cherfilus-McCormick
 

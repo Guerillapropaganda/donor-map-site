@@ -122,22 +122,27 @@ top-policy-area: "Congress"
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–118th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–118th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 501 |
-| Substantive votes (Y/N) | 408 |
-| Votes with party majority | 369 |
-| Party-line loyalty | 90.4% |
-| Deviations from party | 39 |
+| Roll-call votes tracked | 3,632 |
+| Substantive votes (Y/N) | 3,456 |
+| Votes with party majority | 3,318 |
+| Party-line loyalty | 96.0% |
+| Deviations from party | 138 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 470 votes
 
-**Most recent party-line deviations (top 10 of 39):**
+**Most recent party-line deviations (top 10 of 138):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -154,6 +159,39 @@ top-policy-area: "Congress"
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 80 |
+| Enacted into law | 10 |
+| Top policy areas | Government Operations and Politics · Armed Forces and National Security · Finance and Financial Sector |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 116-41 | 2019-08-09 | HR.2695-116 | To rename the Success Dam in Tulare County, California, as the Richard L. Schafer Dam. |
+| PL 115-402 | 2018-12-31 | HR.5509-115 | Innovations in Mentoring, Training, and Apprenticeships Act |
+| PL 115-140 | 2018-03-20 | HR.1988-115 | To designate the facility of the United States Postal Service located at 1730 18th Street  |
+| PL 115-1 | 2017-01-20 | HR.39-115 | Presidential Innovation Fellows Program Act of 2017 |
+| PL 114-248 | 2016-11-28 | HR.6007-114 | To amend title 49, United States Code, to include consideration of certain impacts on comm |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2023-12-12 | HR.6718-118 | Public Lands and Natural Resources | City of Ridgecrest Land Exchange Act |
+| 2023-10-26 | HR.6068-118 | Social Welfare | Clergy Act |
+| 2023-09-21 | HR.5617-118 | Science, Technology, Communications | Space Transformation And Reliability Act |
+| 2023-04-28 | HR.2989-118 | Environmental Protection | Farm, Food, and National Security Act of 2024 |
+| 2023-01-03 | HR.3-118 | — | Reserved for the Speaker. |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001165` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #kevin-mccarthy #master-profile #house #california #speaker #fossil-fuel #oil-gas #ousted #energy-industry
 

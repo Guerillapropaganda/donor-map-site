@@ -83,3 +83,26 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 17 |
+| Enacted into law | 0 |
+| Top policy areas | Crime and Law Enforcement · Energy · Government Operations and Politics |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-19 | HR.8005-119 | Crime and Law Enforcement | Stop Pills That Kill Act |
+| 2026-03-03 | HR.7764-119 | Crime and Law Enforcement | National Threat Evaluation and Reporting Program Reassignment and Funding Reform Act of 20 |
+| 2026-02-13 | HR.7574-119 | Crime and Law Enforcement | ELO Realignment and Strategic Engagement Reform Act of 2026 |
+| 2026-01-06 | HR.6943-119 | Armed Forces and National Security | Veterans Burial Allowance and Reimbursement Act of 2026 |
+| 2025-12-18 | HR.6852-119 | Health | Advanced Wound Care and Regenerative Medicine Access and Reform Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: E000300` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

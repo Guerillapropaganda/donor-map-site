@@ -113,25 +113,28 @@ top-policy-area: Health
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 116th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,690 |
-| Votes with party majority | 1,546 |
-| Party-line loyalty | 91.5% |
-| Deviations from party | 144 |
+| Roll-call votes tracked | 3,678 |
+| Substantive votes (Y/N) | 3,603 |
+| Votes with party majority | 3,375 |
+| Party-line loyalty | 93.7% |
+| Deviations from party | 228 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 144):**
+**Most recent party-line deviations (top 10 of 228):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -148,6 +151,36 @@ top-policy-area: Health
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 88 |
+| Enacted into law | 2 |
+| Top policy areas | Health · Congress · Commerce |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-312 | 2022-12-27 | HR.8226-117 | A bill to designate the facility of the United States Postal Service located at 236 Concor |
+| PL 117-180 | 2022-09-30 | HR.6833-117 | Providing for consideration of the bill (H.R. 3617) to decriminalize and deschedule cannab |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-01-22 | HR.7207-119 | Government Operations and Politics | Presidential Conflicts of Interest Accountability Act |
+| 2026-01-22 | HR.7206-119 | Agriculture and Food | Farm and Family Relief Act |
+| 2026-01-20 | HR.7155-119 | Crime and Law Enforcement | Stop Fraud in Federal Programs Act of 2026 |
+| 2025-11-21 | HR.6255-119 | Health | Making Insulin Affordable for All Children Act |
+| 2025-10-03 | HR.5679-119 | Government Operations and Politics | TRUMP Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C001119` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #angie-craig #democrat #minnesota #house #agriculture #medical-device #st-jude-medical #insulin #swing-district #senate-candidate #class-analysis #follow-the-money
 

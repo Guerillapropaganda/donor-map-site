@@ -132,25 +132,30 @@ donors: [[Boeing]] [[Northrop Grumman]] [[Raytheon (RTX)|Raytheon]] [[Lockheed M
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,687 |
-| Votes with party majority | 1,511 |
-| Party-line loyalty | 89.6% |
-| Deviations from party | 176 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,773 |
+| Votes with party majority | 4,407 |
+| Party-line loyalty | 92.3% |
+| Deviations from party | 366 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 176):**
+**Most recent party-line deviations (top 10 of 366):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -167,6 +172,39 @@ donors: [[Boeing]] [[Northrop Grumman]] [[Raytheon (RTX)|Raytheon]] [[Lockheed M
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 120 |
+| Enacted into law | 11 |
+| Top policy areas | Native Americans · Taxation · Economics and Public Finance |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-74 | 2026-01-23 | HR.6938-119 | Commerce, Justice, Science, and Related Agencies Appropriations Act, 2026 |
+| — | 2026-01-20 | HR.7148-119 | National Security, Department of State, and Related Programs Appropriations Act, 2026 |
+| PL 119-37 | 2025-11-12 | HR.5371-119 | Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropr |
+| PL 119-4 | 2025-03-15 | HR.1968-119 | Providing for consideration of the joint resolution (H.J. Res. 25) providing for congressi |
+| PL 118-158 | 2024-12-21 | HR.10545-118 | American Relief Act, 2025 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-02 | HR.7744-119 | Economics and Public Finance | Department of Homeland Security Appropriations Act, 2026 |
+| 2026-02-11 | HR.7490-119 | Native Americans | Tribal Warrant Fairness Act |
+| 2026-02-03 | HR.7325-119 | Native Americans | Truth and Healing Commission on Indian Boarding School Policies Act of 2025 |
+| 2026-01-20 | HR.7147-119 | Economics and Public Finance | Department of Homeland Security Appropriations Act, 2026 |
+| 2026-01-12 | HR.7006-119 | Economics and Public Finance | Consolidated Appropriations Act, 2026 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C001053` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

@@ -139,6 +139,29 @@ top-donors: "[[Planned Parenthood Action Fund INC]], [[Teamsters - International
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 41 |
+| Enacted into law | 0 |
+| Top policy areas | Crime and Law Enforcement · International Affairs · Health |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-26 | HR.8105-119 | — | To designate the facility of the United States Postal Service located at 819 West Washingt |
+| 2026-02-25 | HR.7669-119 | International Affairs | H.R. 7669, a bill to require a report that describes the current restrictions imposed by t |
+| 2025-11-07 | HR.5955-119 | Foreign Trade and International Finance | BIS License Fee Prohibition Act |
+| 2025-09-26 | HR.5583-119 | Families | Promoting Permanency Through Kinship Families Act |
+| 2025-09-16 | HR.5399-119 | Education | Equitable Arts Education Enhancement Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: K000400` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Sydney Kamlager-Dove
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

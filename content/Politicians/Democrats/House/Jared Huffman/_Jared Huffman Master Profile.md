@@ -104,25 +104,30 @@ top-donors: "[[Google - Alphabet]], [[American Hospital Association PAC]], [[Ame
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,671 |
-| Votes with party majority | 1,623 |
-| Party-line loyalty | 97.1% |
-| Deviations from party | 48 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,686 |
+| Votes with party majority | 4,534 |
+| Party-line loyalty | 96.8% |
+| Deviations from party | 151 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 48):**
+**Most recent party-line deviations (top 10 of 151):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -139,6 +144,36 @@ top-donors: "[[Google - Alphabet]], [[American Hospital Association PAC]], [[Ame
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 202 |
+| Enacted into law | 2 |
+| Top policy areas | Public Lands and Natural Resources · Energy · Environmental Protection |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-166 | 2024-12-23 | HR.3324-118 | A bill to make permanent the authority to collect Shasta-Trinity National Forest marina fe |
+| PL 118-138 | 2024-12-11 | HR.2950-118 | Coastal Habitat Conservation Act of 2023 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-01-27 | HR.7254-119 | Public Lands and Natural Resources | To amend the National Trails System Act to direct the Secretary of the Interior to conduct |
+| 2025-12-19 | HR.6913-119 | Public Lands and Natural Resources | Northwest California Wilderness, Recreation, and Working Forests Act |
+| 2025-11-18 | HR.6090-119 | Environmental Protection | FRESHER Act of 2025 |
+| 2025-11-07 | HR.5952-119 | International Affairs | Sustainable International Financial Institutions Act of 2025 |
+| 2025-09-18 | HR.5465-119 | Transportation and Public Works | GREEN Streets Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: H001068` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Jared Huffman
 

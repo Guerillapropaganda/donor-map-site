@@ -112,25 +112,30 @@ top-donors: "[[Google - Alphabet]], [[Pete Aguilar]], [[IBEW - International Bro
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,486 |
-| Votes with party majority | 1,463 |
-| Party-line loyalty | 98.5% |
-| Deviations from party | 23 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,448 |
+| Votes with party majority | 4,372 |
+| Party-line loyalty | 98.3% |
+| Deviations from party | 75 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 23):**
+**Most recent party-line deviations (top 10 of 75):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -147,6 +152,36 @@ top-donors: "[[Google - Alphabet]], [[Pete Aguilar]], [[IBEW - International Bro
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 180 |
+| Enacted into law | 2 |
+| Top policy areas | Foreign Trade and International Finance · Finance and Financial Sector · Housing and Community Development |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 116-209 | 2020-12-04 | HR.4104-116 | Negro Leagues Baseball Centennial Commemorative Coin Act |
+| — | 2007-09-18 | HR.3572-110 | A bill to designate the facility of the United States Postal Service located at 4320 Blue  |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | HR.8325-119 | — | To require an independent review process for the prohibition of books at Bureau of Prisons |
+| 2026-04-15 | HR.8296-119 | — | To amend the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 |
+| 2026-03-19 | HR.8002-119 | — | To require coverage of incarcerated workers under the Fair Labor Standards Act of 1938, an |
+| 2026-02-02 | HR.7309-119 | Crime and Law Enforcement | Reentry Resource Guide Act of 2026 |
+| 2026-01-27 | HR.7247-119 | Crime and Law Enforcement | Prison Libraries Act of 2026 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C001061` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Emanuel Cleaver
 

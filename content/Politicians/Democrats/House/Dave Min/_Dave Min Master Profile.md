@@ -147,6 +147,29 @@ top-donors: "[[Congressional Progressive Caucus PAC]], [[AFSCME Working Families
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 20 |
+| Enacted into law | 0 |
+| Top policy areas | Government Operations and Politics · Public Lands and Natural Resources · Crime and Law Enforcement |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | HR.8340-119 | — | To modify the governmentwide financial management plan, and for other purposes. |
+| 2026-04-09 | HR.8223-119 | — | To direct the Secretary of Homeland Security to reimburse each State and local first respo |
+| 2026-03-24 | HR.8059-119 | Crime and Law Enforcement | Unserialized Firearm Harm Oversight and Serialization Act of 2026 |
+| 2026-03-18 | HR.7984-119 | Immigration | DHS Use of Force Transparency Act of 2026 |
+| 2026-03-05 | HR.7839-119 | Commerce | Safe SPEEDS Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001241` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Dave Min
 
 ## Who They Are

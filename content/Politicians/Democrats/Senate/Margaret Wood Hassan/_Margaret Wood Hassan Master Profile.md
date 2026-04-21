@@ -92,11 +92,11 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,723 |
-| Votes with party majority | 2,507 |
-| Party-line loyalty | 92.1% |
-| Deviations from party | 45 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,662 |
+| Votes with party majority | 3,424 |
+| Party-line loyalty | 93.5% |
+| Deviations from party | 67 |
 
 **Coverage:**
 
@@ -104,12 +104,14 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 45):**
+**Most recent party-line deviations (top 10 of 67):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -126,3 +128,34 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 234 |
+| Enacted into law | 3 |
+| Top policy areas | Health · Taxation · Armed Forces and National Security |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-205 | 2022-10-17 | S.1198-117 | Solid Start Act of 2021 |
+| PL 117-100 | 2022-03-15 | S.1543-117 | STANDUP Act of 2021 |
+| PL 117-8 | 2021-04-23 | S.164-117 | Lower Costs, More Cures Act of 2021 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | S.4332-119 | — | A bill to require the Secretary of Health and Human Services to make determinations of the |
+| 2026-03-26 | S.4230-119 | Armed Forces and National Security | Protecting Stolen Encrypted Data Act of 2026 |
+| 2026-03-12 | S.4071-119 | Taxation | Child Care Tax Benefit Outreach and Assistance Act |
+| 2026-03-02 | S.3962-119 | Housing and Community Development | Housing and Economic Development Act |
+| 2026-01-28 | S.3714-119 | Health | Family-to-Family Reauthorization Act of 2026 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: H001076` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

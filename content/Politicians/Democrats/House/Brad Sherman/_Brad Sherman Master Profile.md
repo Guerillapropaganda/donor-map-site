@@ -106,25 +106,30 @@ top-donors: "[[SEIU COPE]], [[Sierra Club Independent Action]], [[Citigroup]], [
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,695 |
-| Votes with party majority | 1,652 |
-| Party-line loyalty | 97.5% |
-| Deviations from party | 43 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,775 |
+| Votes with party majority | 4,652 |
+| Party-line loyalty | 97.4% |
+| Deviations from party | 122 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 43):**
+**Most recent party-line deviations (top 10 of 122):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -141,6 +146,36 @@ top-donors: "[[SEIU COPE]], [[Sierra Club Independent Action]], [[Citigroup]], [
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 158 |
+| Enacted into law | 2 |
+| Top policy areas | Finance and Financial Sector · International Affairs · Government Operations and Politics |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 116-149 | 2020-07-14 | HR.7440-116 | Hong Kong Autonomy Act |
+| — | 2005-12-18 | HR.4646-109 | To designate the facility of the United States Postal Service located at 7320 Reseda Boule |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-04 | HR.7806-119 | Taxation | Direct File Act of 2026 |
+| 2026-01-27 | HR.7271-119 | International Affairs | Evan Anzoo Memorial Act |
+| 2026-01-21 | HR.7192-119 | International Affairs | Hands Off Greenland Act |
+| 2025-09-04 | HR.5159-119 | Labor and Employment | Nationwide Right To Unionize Act |
+| 2025-07-29 | HR.4819-119 | Commerce | Click to Cancel Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S000344` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Brad Sherman
 

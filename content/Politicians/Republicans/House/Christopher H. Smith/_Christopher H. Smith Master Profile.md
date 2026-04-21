@@ -89,25 +89,30 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,690 |
-| Votes with party majority | 1,543 |
-| Party-line loyalty | 91.3% |
-| Deviations from party | 147 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,751 |
+| Votes with party majority | 4,133 |
+| Party-line loyalty | 87.0% |
+| Deviations from party | 618 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 147):**
+**Most recent party-line deviations (top 10 of 618):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -124,3 +129,58 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 428 |
+| Enacted into law | 33 |
+| Top policy areas | International Affairs · Health · Armed Forces and National Security |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-35 | 2025-09-05 | HR.2170-119 | To name the Department of Veterans Affairs community-based outpatient clinic in Toms River |
+| PL 118-180 | 2024-12-23 | HR.7213-118 | Autism CARES Act of 2024 |
+| PL 117-330 | 2023-01-05 | HR.1082-117 | Providing for consideration of the bill (H.R. 1948) to amend title 38, United States Code, |
+| PL 116-326 | 2021-01-13 | HR.221-116 | Special Envoy to Monitor and Combat Anti-Semitism Act |
+| PL 116-60 | 2019-09-30 | HR.1058-116 | Autism CARES Act of 2019 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | HR.8354-119 | — | To provide that certain actions by the Federal Communications Commission shall have no for |
+| 2026-03-17 | HR.7967-119 | Government Operations and Politics | Heidi’s Law |
+| 2026-03-04 | HR.7807-119 | International Affairs | Honduras Expropriation Accountability Act |
+| 2026-02-11 | HR.7482-119 | Health | LymeX Authorization Act |
+| 2026-02-10 | HR.7457-119 | International Affairs | Nigeria Religious Freedom and Accountability Act of 2026 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S000522` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 3 |
+| Leak sources | Paradise Papers - Appleby (3) |
+| Top jurisdictions | Bermuda (3) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| PAR Holdings, Ltd. | entity | Bermuda | Paradise Papers - Appleby |
+| Professional Agencies Reinsurance, Ltd. | entity | Bermuda | Paradise Papers - Appleby |
+| Billing Services Group Limited | entity | Bermuda | Paradise Papers - Appleby |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: Christopher H. Smith` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

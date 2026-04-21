@@ -150,21 +150,22 @@ top-policy-area: International Affairs
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,640 |
-| Votes with party majority | 1,517 |
-| Party-line loyalty | 92.5% |
-| Deviations from party | 123 |
+| Roll-call votes tracked | 2,724 |
+| Substantive votes (Y/N) | 2,601 |
+| Votes with party majority | 2,414 |
+| Party-line loyalty | 92.8% |
+| Deviations from party | 187 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 123):**
+**Most recent party-line deviations (top 10 of 187):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -181,6 +182,29 @@ top-policy-area: International Affairs
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 47 |
+| Enacted into law | 0 |
+| Top policy areas | Transportation and Public Works · International Affairs · Armed Forces and National Security |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2025-05-09 | HR.3319-119 | Housing and Community Development | Women’s and Family Protection Act of 2025 |
+| 2025-02-26 | HR.1608-119 | Transportation and Public Works | H.R. 1608, Department of Homeland Security Vehicular Terrorism Prevention and Mitigation A |
+| 2025-02-10 | HR.1166-119 | Foreign Trade and International Finance | Decoupling from Foreign Adversarial Battery Dependence Act |
+| 2025-02-10 | HR.1165-119 | Transportation and Public Works | Port Crane Security and Inspection Act of 2025 |
+| 2025-02-10 | HR.1167-119 | Government Operations and Politics | Keep China Out of Solar Energy Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: G000593` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #politician #republican #house #florida #cuba #miami #real-estate #defense #class-analysis #follow-the-money #crowley #transportation
 

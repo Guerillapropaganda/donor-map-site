@@ -376,3 +376,27 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 7 |
+| Leak sources | Offshore Leaks (5) · Panama Papers (2) |
+| Top jurisdictions | British Virgin Islands (6) · Undetermined (1) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| DINAMO SERVICES LIMITED | entity | British Virgin Islands | Panama Papers |
+| JOYNES SERVICES LIMITED | entity | British Virgin Islands | Panama Papers |
+| BAYSIDE BEAUTY LIMITED | entity | British Virgin Islands | Offshore Leaks |
+| FAMOUS STAR INVESTMENT LIMITED | entity | British Virgin Islands | Offshore Leaks |
+| Source Photonics Holdings Limited | entity | British Virgin Islands | Offshore Leaks |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: K&L Gates` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

@@ -117,21 +117,22 @@ top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[Marathon Pe
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,604 |
-| Votes with party majority | 1,441 |
-| Party-line loyalty | 89.8% |
-| Deviations from party | 163 |
+| Roll-call votes tracked | 2,724 |
+| Substantive votes (Y/N) | 2,539 |
+| Votes with party majority | 2,271 |
+| Party-line loyalty | 89.4% |
+| Deviations from party | 268 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 163):**
+**Most recent party-line deviations (top 10 of 268):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -148,6 +149,35 @@ top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[Marathon Pe
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 115 |
+| Enacted into law | 1 |
+| Top policy areas | Energy · Finance and Financial Sector · Government Operations and Politics |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-229 | 2025-01-04 | HR.5103-118 | FISHES Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | HR.8328-119 | — | To amend the Securities Exchange Act of 1934 to provide a definition for dealer. |
+| 2025-11-12 | HR.6025-119 | Housing and Community Development | Appraisal Industry Improvement Act |
+| 2025-09-08 | HR.5177-119 | Transportation and Public Works | To amend title 49, United States Code, with respect to the enforcement of certain safety r |
+| 2025-08-08 | HR.4922-119 | Crime and Law Enforcement | Providing for consideration of the bill (H.R. 4922) to limit youth offender status in the  |
+| 2025-07-17 | HR.4494-119 | Taxation | Flood Insurance Relief Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: D000032` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Byron Donalds
 

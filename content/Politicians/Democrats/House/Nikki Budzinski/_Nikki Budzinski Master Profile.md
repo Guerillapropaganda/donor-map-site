@@ -140,6 +140,29 @@ top-donors: "[[Sierra Club Political Committee]], [[CHC BOLD PAC]], [[NextEra En
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 34 |
+| Enacted into law | 0 |
+| Top policy areas | Armed Forces and National Security · Agriculture and Food · Taxation |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-25 | HR.8076-119 | Government Operations and Politics | PREDICT Act |
+| 2026-03-16 | HR.7938-119 | Agriculture and Food | Grocery, Farm, and Food Worker Protection Act of 2026 |
+| 2026-03-09 | HR.7864-119 | Public Lands and Natural Resources | Gateway Arch National Park Boundary Revision Act of 2026 |
+| 2026-02-03 | HR.7324-119 | Health | More Behavioral Health Providers Act of 2025 |
+| 2026-01-30 | HR.7280-119 | Armed Forces and National Security | Protect Veterans from the THIEF Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: B001315` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Nikki Budzinski
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

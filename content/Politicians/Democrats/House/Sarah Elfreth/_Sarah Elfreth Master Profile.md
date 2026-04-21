@@ -136,6 +136,29 @@ fec-candidate-id: H4MD03156
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 15 |
+| Enacted into law | 0 |
+| Top policy areas | Armed Forces and National Security · Public Lands and Natural Resources · Government Operations and Politics |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-04 | HR.7788-119 | Environmental Protection | Maryland Whole Watershed Program Federal Partnership Act |
+| 2026-02-11 | HR.7494-119 | — | To authorize the Attorney General to make grants to establish a national training and tech |
+| 2026-01-27 | HR.7251-119 | Public Lands and Natural Resources | Prohibit Partisan Park Passes Act |
+| 2026-01-14 | HR.7061-119 | Energy | Protecting American Energy Security Act of 2026 |
+| 2025-12-11 | HR.6630-119 | Armed Forces and National Security | National Defense Authorization Act for Fiscal Year 2026 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: E000301` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Sarah Elfreth
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

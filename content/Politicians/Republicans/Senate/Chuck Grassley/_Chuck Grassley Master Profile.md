@@ -71,11 +71,11 @@ donors:
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,730 |
-| Votes with party majority | 2,599 |
-| Party-line loyalty | 95.2% |
-| Deviations from party | 60 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,678 |
+| Votes with party majority | 3,375 |
+| Party-line loyalty | 91.8% |
+| Deviations from party | 231 |
 
 **Coverage:**
 
@@ -83,12 +83,14 @@ donors:
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 60):**
+**Most recent party-line deviations (top 10 of 231):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -105,6 +107,39 @@ donors:
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 659 |
+| Enacted into law | 30 |
+| Top policy areas | Crime and Law Enforcement · Health · Taxation |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| — | 2023-02-01 | S.223-118 | To amend the Controlled Substances Act to fix a technical error in the definitions. |
+| PL 117-348 | 2023-01-05 | S.3949-117 | CONNECT Act |
+| PL 117-351 | 2023-01-05 | S.4240-117 | Justice for Victims of War Crimes Act |
+| PL 117-151 | 2022-06-21 | S.3823-117 | Small Business Reorganization Technical Corrections Act |
+| PL 117-61 | 2021-11-18 | S.1511-117 | Protecting America’s First Responders Act of 2021 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | S.4342-119 | — | A bill to extend section 702 of the Foreign Intelligence Surveillance Act of 1978 for 18 m |
+| 2026-03-16 | S.4100-119 | Government Operations and Politics | A bill to amend title 5, United States Code, to clarify whistleblower protections for duty |
+| 2026-03-16 | S.4099-119 | Government Operations and Politics | Whistleblower Anti-Gag Act of 2026 |
+| 2026-03-03 | S.3977-119 | Finance and Financial Sector | Bankruptcy Threshold Adjustment Act of 2026 |
+| 2026-02-11 | S.3826-119 | Law | Litigation Funding Transparency Act of 2026 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: G000386` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

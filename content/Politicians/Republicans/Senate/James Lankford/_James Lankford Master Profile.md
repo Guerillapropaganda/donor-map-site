@@ -133,11 +133,11 @@ top-policy-area: International Affairs
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,738 |
-| Votes with party majority | 2,634 |
-| Party-line loyalty | 96.2% |
-| Deviations from party | 64 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,680 |
+| Votes with party majority | 3,513 |
+| Party-line loyalty | 95.5% |
+| Deviations from party | 126 |
 
 **Coverage:**
 
@@ -145,12 +145,14 @@ top-policy-area: International Affairs
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 64):**
+**Most recent party-line deviations (top 10 of 126):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -167,6 +169,38 @@ top-policy-area: International Affairs
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 253 |
+| Enacted into law | 4 |
+| Top policy areas | Government Operations and Politics · Health · Taxation |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-59 | 2025-12-18 | S.2283-119 | To designate the facility of the United States Postal Service located at 201 West Oklahoma |
+| PL 118-208 | 2024-12-23 | S.5314-118 | ____ Act of 2024 |
+| PL 118-9 | 2023-07-25 | S.111-118 | Regulatory Accountability Act |
+| PL 117-211 | 2022-10-17 | S.3470-117 | S. 3470, End Human Trafficking in Government Contracts Act of 2022 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | S.4323-119 | — | A bill to amend title XVIII of the Social Security Act to require PDP sponsors of a prescr |
+| 2026-04-14 | S.4290-119 | — | A bill to amend title 5, United States Code, to require that a court decree, court order,  |
+| 2026-03-05 | S.4016-119 | Taxation | Stop Unemployment Fraud Act |
+| 2025-11-20 | S.3238-119 | Health | Conscience Protections for Medical Residents Act |
+| 2025-11-18 | S.3175-119 | Government Operations and Politics | CIPZIP Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: L000575` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #james-lankford #republican #oklahoma #senate #ethics-chair #finance #homeland-security #oil-gas #border #immigration #pastor #baptist #energy #phase-6-gavel-power
 

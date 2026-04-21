@@ -330,3 +330,27 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 8 |
+| Leak sources | Paradise Papers - Appleby (4) · Panama Papers (2) · Paradise Papers - Bahamas corporate registry (1) · Paradise Papers - Nevis corporate registry (1) |
+| Top jurisdictions | Cayman Islands (1) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| GECKO CORPORATE SERVICES | intermediary | — | Panama Papers |
+| CROWN MANAGEMENT LIMITED | officer | — | Panama Papers |
+| Jenkins - Gerardo Luis Adame | officer | — | Paradise Papers - Appleby |
+| Barocio - Alfonso Adame | officer | — | Paradise Papers - Appleby |
+| Termtec Ltd. | entity | Cayman Islands | Paradise Papers - Appleby |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: Fidelity Investments` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

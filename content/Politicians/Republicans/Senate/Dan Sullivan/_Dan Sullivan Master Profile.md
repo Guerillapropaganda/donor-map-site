@@ -132,11 +132,11 @@ top-policy-area: International Affairs
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,651 |
-| Votes with party majority | 2,515 |
-| Party-line loyalty | 94.9% |
-| Deviations from party | 77 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,545 |
+| Votes with party majority | 3,297 |
+| Party-line loyalty | 93.0% |
+| Deviations from party | 188 |
 
 **Coverage:**
 
@@ -144,12 +144,14 @@ top-policy-area: International Affairs
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 77):**
+**Most recent party-line deviations (top 10 of 188):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -166,6 +168,39 @@ top-policy-area: International Affairs
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 260 |
+| Enacted into law | 14 |
+| Top policy areas | Armed Forces and National Security · Environmental Protection · Public Lands and Natural Resources |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-65 | 2025-12-26 | S.216-119 | Save Our Seas 2.0 Amendments Act |
+| PL 119-47 | 2025-12-05 | SJRES.80-119 | Providing for consideration of the joint resolution (S.J. Res. 80) providing for congressi |
+| PL 119-33 | 2025-08-14 | S.423-119 | Improving Veterans’ Experience Act of 2025 |
+| PL 117-252 | 2022-12-20 | S.3115-117 | POWER 2.0 Act |
+| PL 117-121 | 2022-05-12 | S.497-117 | American Fisheries Advisory Committee Act of 2021 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | S.4334-119 | — | A bill to amend title II of the Social Security Act to require the Commissioner of Social  |
+| 2026-03-26 | S.4250-119 | Public Lands and Natural Resources | Sport Fish Restoration, Recreational Boating Safety, and Wildlife Restoration Act of 2026 |
+| 2026-03-25 | S.4209-119 | Crime and Law Enforcement | TIME for Overdose Justice Act |
+| 2026-03-11 | S.4065-119 | International Affairs | STAND with Taiwan Act of 2026 |
+| 2026-01-15 | S.3688-119 | Social Welfare | RURAL Rate Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S001198` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Dan Sullivan
 

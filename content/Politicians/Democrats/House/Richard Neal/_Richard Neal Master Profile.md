@@ -129,25 +129,30 @@ top-policy-area: Armed Forces and National Security
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,676 |
-| Votes with party majority | 1,651 |
-| Party-line loyalty | 98.5% |
-| Deviations from party | 25 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,733 |
+| Votes with party majority | 4,671 |
+| Party-line loyalty | 98.7% |
+| Deviations from party | 61 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 25):**
+**Most recent party-line deviations (top 10 of 61):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -164,6 +169,39 @@ top-policy-area: Armed Forces and National Security
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 135 |
+| Enacted into law | 5 |
+| Top policy areas | Taxation · Foreign Trade and International Finance · Health |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-110 | 2022-04-08 | HR.7108-117 | To suspend normal trade relations treatment for the Russian Federation and the Republic of |
+| PL 117-39 | 2021-08-31 | HR.5085-117 | Emergency Repatriation Assistance for Returning Americans Act |
+| PL 116-4 | 2019-01-24 | HR.430-116 | Further Consolidated Appropriations Act, 2020 |
+| PL 115-343 | 2018-12-21 | HR.1235-115 | Naismith Memorial Basketball Hall of Fame Commemorative Coin Act |
+| — | 2003-04-30 | HR.1900-108 | A bill to award a congressional gold medal to Jackie Robinson (posthumously), in recogniti |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-24 | HR.8060-119 | — | To reauthorize funding for programs to prevent, investigate, and prosecute elder abuse, ne |
+| 2025-12-15 | HR.6722-119 | Taxation | Automatic IRA Act of 2025 |
+| 2025-02-13 | HR.1337-119 | Immigration | To add Ireland to the E3 nonimmigrant visa program. |
+| 2024-05-14 | HR.8392-118 | Immigration | AOH Act |
+| 2024-02-07 | HR.7293-118 | Taxation | Automatic IRA Act of 2024 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: N000015` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #neal #master-profile #house #massachusetts #ways-and-means #insurance #pharma #corporate-democrat #blocker
 

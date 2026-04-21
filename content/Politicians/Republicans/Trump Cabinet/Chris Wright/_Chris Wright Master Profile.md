@@ -143,6 +143,26 @@ The climate denial is the intellectual infrastructure for the financial interest
 
 ---
 
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 1 |
+| Leak sources | Paradise Papers - Appleby (1) |
+| Top jurisdictions | Cayman Islands (1) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| TAS Energy**INCOMPLETE** | entity | Cayman Islands | Paradise Papers - Appleby |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: Chris Wright` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->
+
 ## Sources
 
 - [U.S. DOE: Secretary Wright accomplishments](https://www.energy.gov/articles/secretary-wright-highlights-100-days-unleashing-american-energy-under-president-trump) (Tier 1) (VERIFIED)

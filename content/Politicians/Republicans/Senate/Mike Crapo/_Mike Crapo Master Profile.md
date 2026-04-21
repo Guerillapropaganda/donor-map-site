@@ -66,11 +66,11 @@ donors: [[Koch Network - Charles Koch]]
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,695 |
-| Votes with party majority | 2,595 |
-| Party-line loyalty | 96.3% |
-| Deviations from party | 66 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,626 |
+| Votes with party majority | 3,433 |
+| Party-line loyalty | 94.7% |
+| Deviations from party | 158 |
 
 **Coverage:**
 
@@ -78,12 +78,14 @@ donors: [[Koch Network - Charles Koch]]
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 66):**
+**Most recent party-line deviations (top 10 of 158):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -100,6 +102,39 @@ donors: [[Koch Network - Charles Koch]]
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 243 |
+| Enacted into law | 9 |
+| Top policy areas | Taxation · Public Lands and Natural Resources · Health |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-58 | 2025-12-18 | S.356-119 | To extend the Secure Rural Schools and Community Self-Determination Act of 2000. |
+| PL 117-102 | 2022-03-15 | S.3706-117 | To provide for the application of certain provisions of the Secure Rural Schools and Commu |
+| PL 115-248 | 2018-09-28 | S.97-115 | Energy and Natural Resources Act of 2017 |
+| PL 115-174 | 2018-05-24 | S.2155-115 | MOBILE Act of 2017 |
+| PL 113-232 | 2014-12-16 | S.2040-113 | Blackfoot River Land Exchange Act of 2014 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-04 | S.3985-119 | Transportation and Public Works | State Boating Act |
+| 2026-02-26 | S.3931-119 | Taxation | IRS Whistleblower Program Improvement Act |
+| 2025-12-17 | S.3532-119 | Health | State Veterans Homes Inspection Simplification Act |
+| 2025-12-08 | S.3386-119 | Health | Health Care Freedom for Patients Act of 2025 |
+| 2025-12-04 | S.3345-119 | Health | Lower Costs for Everyday Americans Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C000880` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

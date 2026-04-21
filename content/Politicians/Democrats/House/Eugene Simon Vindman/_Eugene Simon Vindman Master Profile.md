@@ -83,3 +83,26 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 51 |
+| Enacted into law | 0 |
+| Top policy areas | Armed Forces and National Security · Agriculture and Food · Health |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-09 | HR.8243-119 | Armed Forces and National Security | To require certain aircraft to be equipped and operating with collision prevention technol |
+| 2026-04-09 | HR.8244-119 | Armed Forces and National Security | To require certain aircraft to be equipped and operating with collision prevention technol |
+| 2026-03-24 | HR.8067-119 | Health | Candis King Hope for Sickle Cell Families Act |
+| 2026-02-13 | HR.7587-119 | Agriculture and Food | United States-Israel Agriculture Cooperation Improvement and Expansion Act |
+| 2025-12-18 | HR.6908-119 | Crime and Law Enforcement | Blue Envelope Awareness Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: V000138` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

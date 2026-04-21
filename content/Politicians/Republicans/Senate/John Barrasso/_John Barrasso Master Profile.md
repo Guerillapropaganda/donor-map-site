@@ -115,11 +115,11 @@ top-policy-area: International Affairs
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,630 |
-| Votes with party majority | 2,559 |
-| Party-line loyalty | 97.3% |
-| Deviations from party | 54 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,483 |
+| Votes with party majority | 3,366 |
+| Party-line loyalty | 96.6% |
+| Deviations from party | 99 |
 
 **Coverage:**
 
@@ -127,12 +127,14 @@ top-policy-area: International Affairs
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 54):**
+**Most recent party-line deviations (top 10 of 99):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -149,6 +151,39 @@ top-policy-area: International Affairs
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 320 |
+| Enacted into law | 5 |
+| Top policy areas | Public Lands and Natural Resources · Energy · Health |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-133 | 2024-11-25 | S.2274-118 | Upper Colorado and San Juan River Basin Endangered Fish Recovery Programs Reauthorization  |
+| PL 117-356 | 2023-01-05 | S.4978-117 | State Offices of Rural Health Program Reauthorization Act of 2022 |
+| PL 116-188 | 2020-10-30 | S.3051-116 | Modernizing the Pittman-Robertson Fund for Tomorrow’s Needs Act |
+| PL 115-439 | 2019-01-14 | S.512-115 | S. 512, Nuclear Energy Innovation and Modernization Act |
+| PL 113-194 | 2014-11-26 | S.1934-113 | Clifford P. Hansen Federal Courthouse Conveyance Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | S.4317-119 | — | A bill to amend title 23, United States Code, to withhold Federal highway funding from Sta |
+| 2026-03-26 | S.4255-119 | Social Welfare | Expedited Disability Insurance Payments for Terminally Ill Individuals Act of 2026 |
+| 2026-03-25 | S.4202-119 | Health | Mental Health Access and Provider Support Act of 2026 |
+| 2026-03-24 | S.4173-119 | Economics and Public Finance | Dollar-for-Dollar Deficit Reduction Act |
+| 2026-03-03 | S.3965-119 | Commerce | EDA Short Form Application Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: B001261` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #politician #republican #senate #wyoming #energy #fossil-fuel #climate #class-analysis #follow-the-money #gavel-power
 

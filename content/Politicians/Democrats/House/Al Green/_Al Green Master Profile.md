@@ -96,25 +96,30 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,686 |
-| Votes with party majority | 1,648 |
-| Party-line loyalty | 97.7% |
-| Deviations from party | 38 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,773 |
+| Votes with party majority | 4,673 |
+| Party-line loyalty | 97.9% |
+| Deviations from party | 99 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 38):**
+**Most recent party-line deviations (top 10 of 99):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -131,3 +136,32 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 188 |
+| Enacted into law | 1 |
+| Top policy areas | Housing and Community Development · Finance and Financial Sector · Labor and Employment |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-282 | 2022-12-27 | HR.5865-117 | Providing for consideration of the bill (H.R. 302) to impose limits on excepting competiti |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | HR.8318-119 | — | To authorize a pilot program under section 258 of the National Housing Act to establish an |
+| 2026-04-15 | HR.8292-119 | — | To authorize a pilot program under section 258 of the National Housing Act to establish an |
+| 2026-04-15 | HR.8291-119 | — | To establish a community disaster assistance fund for housing and community development an |
+| 2026-03-25 | HR.8071-119 | Government Operations and Politics | Strengthening and Improving Mobilization Act of 2026 |
+| 2026-01-14 | HR.7053-119 | Law | Preemption of Real Property Discrimination Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: G000553` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

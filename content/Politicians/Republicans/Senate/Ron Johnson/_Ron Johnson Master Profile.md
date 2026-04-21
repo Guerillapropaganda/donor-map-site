@@ -119,11 +119,11 @@ top-policy-area: Congress
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,687 |
-| Votes with party majority | 2,562 |
-| Party-line loyalty | 95.3% |
-| Deviations from party | 104 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,581 |
+| Votes with party majority | 3,386 |
+| Party-line loyalty | 94.6% |
+| Deviations from party | 173 |
 
 **Coverage:**
 
@@ -131,12 +131,14 @@ top-policy-area: Congress
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 104):**
+**Most recent party-line deviations (top 10 of 173):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -153,6 +155,39 @@ top-policy-area: Congress
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 161 |
+| Enacted into law | 14 |
+| Top policy areas | Government Operations and Politics · Emergency Management · Health |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 116-264 | 2020-12-30 | S.3257-116 | A bill to designate the facility of the United States Postal Service located at 311 West W |
+| PL 116-267 | 2020-12-30 | S.4126-116 | A bill to designate the facility of the United States Postal Service located at 104 East M |
+| PL 116-150 | 2020-07-22 | S.4148-116 | Chemical Facility Anti-Terrorism Standards Program Extension Act |
+| PL 116-121 | 2020-03-03 | S.394-116 | Transition Team Ethics Improvement Act |
+| PL 115-176 | 2018-05-30 | S.204-115 | Right to Try Act of 2017 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-01-28 | S.3710-119 | Education | SOAR Act Improvements Act |
+| 2025-11-09 | S.3168-119 | Economics and Public Finance | Shutdown Fairness Act |
+| 2025-10-22 | S.3027-119 | Taxation | Interstate Commerce Simplification Act of 2025 |
+| 2025-10-15 | S.3012-119 | Government Operations and Politics | Shutdown Fairness Act |
+| 2025-10-09 | S.3001-119 | Government Operations and Politics | Shutdown Fairness Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: J000293` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

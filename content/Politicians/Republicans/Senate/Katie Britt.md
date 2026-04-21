@@ -147,6 +147,35 @@ top-policy-area: International Affairs
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 35 |
+| Enacted into law | 1 |
+| Top policy areas | Finance and Financial Sector · Immigration · Science, Technology, Communications |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-1 | 2025-01-29 | S.5-119 | Providing for consideration of the bill (H.R. 471) to expedite under the National Environm |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-09 | S.3808-119 | Foreign Trade and International Finance | Fighting Trade Cheats Act of 2025 |
+| 2025-12-10 | S.3411-119 | Finance and Financial Sector | Improving Access to Small Business Information Act |
+| 2025-11-20 | S.3254-119 | Health | Momnibus Act |
+| 2025-11-18 | S.3177-119 | Government Operations and Politics | Citizen Ballot Protection Act |
+| 2025-09-29 | S.2924-119 | Finance and Financial Sector | Small Entity Update Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: B001319` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 #katie-britt #senate #alabama #rising-star #business-council #donor-class-project #manufactured
 
 tags: #republican

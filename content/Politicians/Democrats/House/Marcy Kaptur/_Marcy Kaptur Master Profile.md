@@ -116,25 +116,30 @@ top-donors: "[[EQUALITY PROJECT PAC]], [[General Motors]], [[Chrissy Houlahan]],
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,682 |
-| Votes with party majority | 1,573 |
-| Party-line loyalty | 93.5% |
-| Deviations from party | 109 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,741 |
+| Votes with party majority | 4,556 |
+| Party-line loyalty | 96.1% |
+| Deviations from party | 184 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 109):**
+**Most recent party-line deviations (top 10 of 184):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -151,6 +156,37 @@ top-donors: "[[EQUALITY PROJECT PAC]], [[General Motors]], [[Chrissy Houlahan]],
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 214 |
+| Enacted into law | 3 |
+| Top policy areas | Foreign Trade and International Finance · Agriculture and Food · Government Operations and Politics |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-162 | 2022-08-03 | HR.1057-117 | Greatest Generation Memorial Act |
+| — | 2007-10-01 | HR.3712-110 | H.R. 3712, A bill to designate the United States courthouse located at 1716 Spielbusch Ave |
+| — | 2003-01-08 | HR.289-108 | Ottawa National Wildlife Refuge Complex Expansion and Detroit River International Wildlife |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-09 | HR.8219-119 | International Affairs | BLOCK PUTIN Act |
+| 2025-11-20 | HR.6198-119 | Armed Forces and National Security | Rear Admiral Alene Duerk Ship Renaming Act of 2025 |
+| 2025-10-24 | HR.5819-119 | Commerce | Balancing Incentives Act of 2025 |
+| 2025-06-27 | HR.4230-119 | Government Operations and Politics | the Appropriations Compliance and Training Act |
+| 2025-05-23 | HR.3594-119 | Armed Forces and National Security | Gold Star Spouses Health Care Enhancement Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: K000009` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Marcy Kaptur
 

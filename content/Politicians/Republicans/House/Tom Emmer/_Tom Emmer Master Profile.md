@@ -92,25 +92,30 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,719 |
-| Votes with party majority | 1,657 |
-| Party-line loyalty | 96.4% |
-| Deviations from party | 62 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,708 |
+| Votes with party majority | 4,482 |
+| Party-line loyalty | 95.2% |
+| Deviations from party | 226 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 62):**
+**Most recent party-line deviations (top 10 of 226):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -127,3 +132,34 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 113 |
+| Enacted into law | 3 |
+| Top policy areas | Finance and Financial Sector · Taxation · Crime and Law Enforcement |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-291 | 2022-12-27 | HR.6218-117 | A bill to designate the facility of the United States Postal Service located at 317 Blattn |
+| PL 115-32 | 2017-05-08 | HR.534-115 | U.S. Wants to Compete for a World Expo Act |
+| PL 114-205 | 2016-07-29 | HR.4425-114 | To designate the facility of the United States Postal Service located at 110 East Powerhou |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-01-20 | HR.7156-119 | Immigration | SCAM Act |
+| 2026-01-13 | HR.7030-119 | Finance and Financial Sector | Securing Facilities for Mental Health Services Act |
+| 2025-07-15 | HR.4398-119 | Armed Forces and National Security | Veteran Burial Timeliness and Death Certificate Accountability Act |
+| 2025-05-21 | HR.3533-119 | Finance and Financial Sector | Blockchain Regulatory Certainty Act |
+| 2025-05-07 | HR.3234-119 | Finance and Financial Sector | Main Street Capital Access Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: E000294` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

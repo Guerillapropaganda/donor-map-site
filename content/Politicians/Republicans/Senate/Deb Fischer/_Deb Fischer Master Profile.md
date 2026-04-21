@@ -138,11 +138,11 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,708 |
-| Votes with party majority | 2,650 |
-| Party-line loyalty | 97.9% |
-| Deviations from party | 43 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,625 |
+| Votes with party majority | 3,508 |
+| Party-line loyalty | 96.8% |
+| Deviations from party | 101 |
 
 **Coverage:**
 
@@ -150,12 +150,14 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 43):**
+**Most recent party-line deviations (top 10 of 101):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -172,6 +174,39 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 190 |
+| Enacted into law | 8 |
+| Top policy areas | Transportation and Public Works · Taxation · Armed Forces and National Security |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-209 | 2024-12-23 | S.5355-118 | NACIE Improvement Act |
+| PL 118-95 | 2024-10-01 | S.656-118 | Veteran Improvement Commercial Driver License Act of 2023 |
+| PL 118-64 | 2024-05-24 | S.546-118 | Recruit and Retain Act of 2024 |
+| PL 116-342 | 2021-01-13 | S.371-116 | BUILD Act |
+| PL 114-183 | 2016-06-22 | S.2276-114 | Natural Gas Leak Prevention Act of 2016 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-19 | S.4151-119 | Government Operations and Politics | Unfunded Mandates Accountability and Transparency Act of 2025 |
+| 2026-02-09 | S.3802-119 | Families | Foster Care Stabilization Act of 2026 |
+| 2026-01-15 | S.3656-119 | Transportation and Public Works | A bill to designate the portion of Interstate Route 680 in Omaha, Nebraska, as the "Hal Da |
+| 2025-12-17 | S.3552-119 | Transportation and Public Works | HAULS Act of 2025 |
+| 2025-11-20 | S.3236-119 | Native Americans | Increasing Tribal Input on Nutrition Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: F000463` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

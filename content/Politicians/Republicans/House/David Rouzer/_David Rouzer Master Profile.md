@@ -115,25 +115,30 @@ top-donors: "[[National Association of Manufacturers]], [[Leidos]], [[Bank of Am
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,717 |
-| Votes with party majority | 1,669 |
-| Party-line loyalty | 97.2% |
-| Deviations from party | 48 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,795 |
+| Votes with party majority | 4,596 |
+| Party-line loyalty | 95.8% |
+| Deviations from party | 199 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 48):**
+**Most recent party-line deviations (top 10 of 199):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -150,6 +155,36 @@ top-donors: "[[National Association of Manufacturers]], [[Leidos]], [[Bank of Am
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 81 |
+| Enacted into law | 2 |
+| Top policy areas | Environmental Protection · Emergency Management · Armed Forces and National Security |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 114-292 | 2016-12-16 | HR.5015-114 | Combat-Injured Veterans Tax Fairness Act of 2016 |
+| PL 114-237 | 2016-10-07 | HR.5883-114 | Clarification of Treatment of Electronic Sales of Livestock Act of 2016 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-26 | HR.8125-119 | Finance and Financial Sector | CFTC Proprietary Information Act of 2026 |
+| 2025-12-09 | HR.6539-119 | Emergency Management | STORM Act |
+| 2025-12-03 | HR.6410-119 | Transportation and Public Works | Atlantic Coast Shipping Safety Act |
+| 2025-10-08 | HR.5721-119 | Crime and Law Enforcement | Protect Our Judiciary Act of 2025 |
+| 2025-10-03 | HR.5688-119 | Transportation and Public Works | Non-Domiciled CDL Integrity Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: R000603` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # David Rouzer
 

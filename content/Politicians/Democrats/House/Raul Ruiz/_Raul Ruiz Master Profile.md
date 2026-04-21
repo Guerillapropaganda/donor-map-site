@@ -116,25 +116,30 @@ top-donors: "[[Teamsters - International Brotherhood of Teamsters]], [[CHC BOLD 
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,707 |
-| Votes with party majority | 1,672 |
-| Party-line loyalty | 97.9% |
-| Deviations from party | 35 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,819 |
+| Votes with party majority | 4,692 |
+| Party-line loyalty | 97.4% |
+| Deviations from party | 126 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 35):**
+**Most recent party-line deviations (top 10 of 126):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -151,6 +156,38 @@ top-donors: "[[Teamsters - International Brotherhood of Teamsters]], [[CHC BOLD 
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 250 |
+| Enacted into law | 4 |
+| Top policy areas | Health · Armed Forces and National Security · Native Americans |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-249 | 2025-01-04 | HR.8641-118 | H.R. 8641, a bill to designate the facility of the United States Postal Service located at |
+| PL 117-329 | 2023-01-05 | HR.897-117 | Agua Caliente Land Exchange Fee to Trust Confirmation Act |
+| PL 117-238 | 2022-12-20 | HR.7925-117 | To designate the Department of Veterans Affairs community-based outpatient clinic located  |
+| PL 116-16 | 2019-04-18 | HR.1839-116 | Right Rebate Act of 2019 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-27 | HR.8152-119 | Agriculture and Food | To amend the Agricultural Adjustment Act with respect to the treatment of dates for proces |
+| 2026-03-19 | HR.7994-119 | Education | HERO Act |
+| 2026-03-17 | HR.7965-119 | Crime and Law Enforcement | Vote Without Fear Act |
+| 2026-02-10 | HR.7473-119 | Taxation | CMMSA 2.0 |
+| 2026-02-03 | HR.7335-119 | Immigration | Humanitarian Standards for Individuals in ICE and CBP Custody Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: R000599` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Raul Ruiz
 

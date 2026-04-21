@@ -118,21 +118,22 @@ top-policy-area: International Affairs
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,655 |
-| Votes with party majority | 1,558 |
-| Party-line loyalty | 94.1% |
-| Deviations from party | 97 |
+| Roll-call votes tracked | 2,724 |
+| Substantive votes (Y/N) | 2,590 |
+| Votes with party majority | 2,378 |
+| Party-line loyalty | 91.8% |
+| Deviations from party | 212 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 97):**
+**Most recent party-line deviations (top 10 of 212):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -149,6 +150,35 @@ top-policy-area: International Affairs
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 81 |
+| Enacted into law | 1 |
+| Top policy areas | Armed Forces and National Security · International Affairs · Agriculture and Food |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-34 | 2025-08-19 | HR.1316-119 | Maintaining American Superiority by Improving Export Control Transparency Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | HR.8334-119 | — | To provide for the suspension of bilateral and multilateral foreign assistance to the Gove |
+| 2026-02-20 | HR.7616-119 | International Affairs | H.R. 7616, Transatlantic Academic Security and Risk Mitigation Act |
+| 2026-02-12 | HR.7540-119 | International Affairs | United States-Israel Framework for Upgraded Technologies, Unified Research, and Enhanced S |
+| 2026-02-10 | HR.7466-119 | Agriculture and Food | SAFE CATTLE Act |
+| 2025-12-04 | HR.6444-119 | Armed Forces and National Security | Blast Overpressure Research and Mitigation Task Force Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: J000304` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Ronny Jackson
 

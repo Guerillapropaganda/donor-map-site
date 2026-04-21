@@ -99,3 +99,26 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 24 |
+| Enacted into law | 0 |
+| Top policy areas | Energy · Health · Government Operations and Politics |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-05 | HR.7829-119 | Emergency Management | Disaster Aid Without Delay Act of 2026 |
+| 2026-02-25 | HR.7696-119 | Science, Technology, Communications | AI Cyber Grid Protection Resilient Development Act of 2026 |
+| 2026-02-25 | HR.7697-119 | International Affairs | International AI Energy Grid Modernization Strategy Act |
+| 2026-02-05 | HR.7397-119 | Water Resources Development | Puerto Rico Water Infrastructure Resilience Act |
+| 2026-01-21 | HR.7179-119 | Labor and Employment | Historic Infrastructure Management and Jobs Training Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: H001103` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

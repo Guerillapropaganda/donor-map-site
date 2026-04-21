@@ -82,3 +82,26 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 24 |
+| Enacted into law | 0 |
+| Top policy areas | Education · Health · Government Operations and Politics |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-25 | S.4191-119 | Agriculture and Food | Extending WIC for New Moms Act |
+| 2026-03-17 | SJRES.125-119 | Finance and Financial Sector | A joint resolution providing for congressional disapproval under chapter 8 of title 5, Uni |
+| 2026-03-10 | S.4039-119 | Education | Professional Degree Access Restoration Act |
+| 2026-03-04 | S.3986-119 | Environmental Protection | Maryland Whole Watershed Program Federal Partnership Act of 2026 |
+| 2026-02-26 | S.3944-119 | Health | Women’s Heart Health Expansion Act of 2026 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: A000382` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

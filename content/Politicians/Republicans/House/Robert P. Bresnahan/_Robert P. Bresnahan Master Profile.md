@@ -83,3 +83,26 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 16 |
+| Enacted into law | 0 |
+| Top policy areas | Armed Forces and National Security · Agriculture and Food · Water Resources Development |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-11 | HR.7488-119 | Finance and Financial Sector | CFTC Office of the Chief Economist Act of 2026 |
+| 2025-12-30 | HR.6934-119 | Finance and Financial Sector | National Flood Insurance Program Affordability Act |
+| 2025-11-18 | HR.6075-119 | Water Resources Development | Water Infrastructure Modernization Act of 2025 |
+| 2025-11-12 | HR.6022-119 | Armed Forces and National Security | Sgt. Walter F. Hartnett IV Green Star Veterans Service Act |
+| 2025-11-04 | HR.5905-119 | Taxation | Helping Our Heroes Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: B001327` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

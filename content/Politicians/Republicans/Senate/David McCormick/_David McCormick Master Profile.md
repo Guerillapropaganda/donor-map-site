@@ -75,3 +75,46 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 27 |
+| Enacted into law | 0 |
+| Top policy areas | International Affairs · Finance and Financial Sector · Foreign Trade and International Finance |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-26 | S.4228-119 | Foreign Trade and International Finance | ACE Nuclear Energy Act of 2026 |
+| 2026-03-26 | S.4238-119 | Public Lands and Natural Resources | Endless Mountains National Heritage Area Act |
+| 2026-02-26 | S.3947-119 | Energy | REWIRE Act |
+| 2026-02-24 | S.3900-119 | International Affairs | Iran Human Rights, Internet Freedom, and Accountability Act of 2026 |
+| 2026-02-11 | S.3835-119 | — | A bill to designate the facility of the United States Postal Service located at 10 East Ma |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001243` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 1 |
+| Leak sources | Panama Papers (1) |
+| Top jurisdictions | British Virgin Islands (1) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| Maude Street Investments Limited | entity | British Virgin Islands | Panama Papers |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: David McCormick` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

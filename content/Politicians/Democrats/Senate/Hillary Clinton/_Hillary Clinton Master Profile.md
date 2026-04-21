@@ -125,6 +125,37 @@ bills-data-scope: Career total synced from auto:congress-legislation (Congress.g
 
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 285 |
+| Enacted into law | 3 |
+| Top policy areas | Health · Education · Armed Forces and National Security |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| — | 2008-06-18 | S.3145-110 | To designate a portion of United States Route 20A, located in Orchard Park, New York, as t |
+| — | 2006-06-29 | S.3613-109 | To designate the facility of the United States Postal Service located at 2951 New York Hig |
+| — | 2003-06-11 | S.1241-108 | Kate Mullany National Historic Site Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2009-01-12 | S.211-111 | Science, Technology, Communications | Calling for 2-1-1 Act of 2009 |
+| 2009-01-08 | S.182-111 | Labor and Employment | Paycheck Fairness Act |
+| 2008-11-20 | S.20-110 | Health | Protecting Patients and Health Care Act of 2008 |
+| 2008-11-20 | S.19-110 | Taxation | To amend the Internal Revenue Code of 1986 to allow taxpayers to designate a portion of th |
+| 2008-11-19 | S.3706-110 | Social Welfare | Elimination of Single Parent Tax Act of 2008 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C001041` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 ## Who They Are
 
 Hillary Clinton has held four major political positions: First Lady (1993–2001), U.S. Senator from New York (2001–2009), Secretary of State (2009–2013), and 2016 Democratic presidential nominee. Her career spans 25 years of institutional Democratic politics, marked by a public positioning as a progressive achiever while maintaining the closest donor relationships with Wall Street of any Democratic presidential candidate in history.

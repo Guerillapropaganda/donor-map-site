@@ -113,6 +113,39 @@ bills-cosponsored: 1725
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 33 |
+| Enacted into law | 10 |
+| Top policy areas | Education · Labor and Employment · Congress |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| — | 2006-11-15 | HJRES.101-109 | Appointing the day for the convening of the first session of the One Hundred Tenth Congres |
+| — | 2006-07-28 | HR.4-109 | Pension Security and Transparency Act of 2005 |
+| — | 2006-06-26 | HR.5684-109 | United States-Oman Free Trade Agreement Implementation Act |
+| — | 2005-12-16 | HR.4579-109 | H.R. 4579, An act to amend title I of the Employee Retirement Income Security Act of 1974, |
+| — | 2005-12-14 | HR.4525-109 | H.R. 4525, Second Higher Education Extension Act of 2005 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2015-10-05 | HR.10-114 | Education | Providing for consideration of the bill (H.R. 10) to reauthorize the Scholarships for Oppo |
+| 2015-09-09 | HR.3461-114 | International Affairs | Providing for consideration of the resolution (H. Res. 411) finding that the President has |
+| 2011-01-26 | HR.471-112 | Education | SOAR Act |
+| 2009-09-15 | HR.3571-111 | Government Operations and Politics | Defund the Crooks Act |
+| 2009-06-23 | HR.3002-111 | Health | PATIENTS Act of 2009 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: B000589` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 #john-boehner #speaker-of-house #tobacco #cannabis #revolving-door #koch-network #finance #class-analysis
 
 donors: [[Tobacco Industry/Reynolds American]] · [[Altria - Philip Morris]] · [[Koch Network - Charles Koch|Koch Network]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Real Estate/Commercial Property]]

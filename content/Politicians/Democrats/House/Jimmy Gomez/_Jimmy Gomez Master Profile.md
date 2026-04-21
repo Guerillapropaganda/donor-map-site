@@ -104,25 +104,30 @@ top-donors: "[[Protect Progress]], [[Planned Parenthood Votes]], [[National Asso
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,640 |
-| Votes with party majority | 1,592 |
-| Party-line loyalty | 97.1% |
-| Deviations from party | 48 |
+| Roll-call votes tracked | 4,543 |
+| Substantive votes (Y/N) | 4,374 |
+| Votes with party majority | 4,259 |
+| Party-line loyalty | 97.4% |
+| Deviations from party | 114 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 365 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 48):**
+**Most recent party-line deviations (top 10 of 114):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -139,6 +144,36 @@ top-donors: "[[Protect Progress]], [[Planned Parenthood Votes]], [[National Asso
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 67 |
+| Enacted into law | 2 |
+| Top policy areas | Taxation · Health · Government Operations and Politics |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-108 | 2024-11-25 | HR.599-118 | H.R. 599, a bill to designate the facility of the United States Postal Service located at  |
+| PL 117-283 | 2022-12-27 | HR.5900-117 | H.R. 5900, an act to designate the facility of the United States Postal Service located at |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-02 | HR.8174-119 | Finance and Financial Sector | To amend title 31, United States Code, to prohibit the issuance of United States currency  |
+| 2026-01-12 | HR.7013-119 | International Affairs | Greenland Sovereignty Protection Act |
+| 2025-12-03 | HR.6390-119 | Taxation | Revitalizing Downtowns and Main Streets Act |
+| 2025-09-16 | HR.5378-119 | Native Americans | Tribal Healthcare Careers Act |
+| 2025-07-29 | HR.4797-119 | Agriculture and Food | EATS Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: G000585` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Jimmy Gomez
 

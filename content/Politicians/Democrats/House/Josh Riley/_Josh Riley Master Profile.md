@@ -145,6 +145,29 @@ top-donors: "[[Giffords PAC]], [[Planned Parenthood Action Fund INC]], [[IBEW - 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 14 |
+| Enacted into law | 0 |
+| Top policy areas | Agriculture and Food · Energy · Science, Technology, Communications |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | HR.8350-119 | — | No Taxes on Utility Bills Act |
+| 2026-03-16 | HR.7949-119 | Science, Technology, Communications | NSF Plant Biology Act |
+| 2026-01-20 | HR.7149-119 | Armed Forces and National Security | Veteran Housing Promise Act |
+| 2026-01-07 | HR.6969-119 | Agriculture and Food | Rural Investment for Producers and the Environment (RIPE) Act of 2026 |
+| 2025-12-10 | HR.6590-119 | Energy | No Bonuses for Utility Executives Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: R000622` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Josh Riley
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

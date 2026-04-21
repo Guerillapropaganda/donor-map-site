@@ -145,40 +145,76 @@ donors: [[Wall Street Bloc]] · Private Equity Donors · [[Pharmaceutical Indust
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 116th–118th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–118th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,410 |
-| Substantive votes (Y/N) | 1,274 |
-| Votes with party majority | 1,105 |
-| Party-line loyalty | 86.7% |
-| Deviations from party | 14 |
+| Roll-call votes tracked | 3,569 |
+| Substantive votes (Y/N) | 3,270 |
+| Votes with party majority | 2,849 |
+| Party-line loyalty | 87.1% |
+| Deviations from party | 265 |
 
 **Coverage:**
 
+- house 115/1: 710 votes
+- house 115/2: 500 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 
-**Most recent party-line deviations (top 10 of 14):**
+**Most recent party-line deviations (top 10 of 265):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| 2020-12-09 | s262-116.2 | Nay | Y | S.J.Res. 78 |
-| 2020-12-09 | s261-116.2 | Nay | Y | S.J.Res. 77 |
-| 2020-07-01 | s129-116.2 | Yea | N | — |
-| 2020-03-18 | s75-116.2 | Yea | N | — |
-| 2020-03-09 | s67-116.2 | Yea | N | — |
-| 2020-02-13 | s46-116.2 | Yea | N | — |
-| 2019-10-17 | s324-116.1 | Nay | Y | S.J.Res. 53 |
-| 2019-09-25 | s307-116.1 | Yea | N | S.Res. 336 |
-| 2019-09-25 | s306-116.1 | Yea | N | S.Res. 335 |
-| 2019-06-13 | s162-116.1 | Nay | Y | S.J.Res. 26 |
+| 2022-12-22 | s412-117.2 | Yea | N | — |
+| 2022-12-15 | s397-117.2 | Yea | N | — |
+| 2022-11-15 | s355-117.2 | Yea | N | — |
+| 2022-08-07 | s290-117.2 | Yea | N | — |
+| 2022-08-07 | s295-117.2 | Yea | N | — |
+| 2022-08-07 | s323-117.2 | Yea | N | — |
+| 2022-05-04 | s148-117.2 | Yea | N | — |
+| 2022-05-04 | s152-117.2 | Yea | N | — |
+| 2022-05-04 | s155-117.2 | Yea | N | — |
+| 2022-05-04 | s158-117.2 | Yea | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 131 |
+| Enacted into law | 4 |
+| Top policy areas | Armed Forces and National Security · Government Operations and Politics · Finance and Financial Sector |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-188 | 2024-12-23 | S.59-118 | S. 59, Chance to Compete Act of 2024 |
+| PL 117-349 | 2023-01-05 | S.4104-117 | Hualapai Tribe Water Rights Settlement Act of 2022 |
+| PL 116-35 | 2019-07-30 | S.504-116 | Let Everyone Get Involved in Opportunities for National Service Act |
+| PL 116-33 | 2019-07-25 | S.1749-116 | Protecting Affordable Mortgages for Veterans Act of 2019 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2024-09-25 | S.5265-118 | Public Lands and Natural Resources | Tonto Apache Land Transfer Act |
+| 2024-09-25 | S.5274-118 | Energy | Critical Mineral Consistency Act of 2024 |
+| 2024-07-11 | S.4673-118 | Government Operations and Politics | Special District Grant Accessibility Act |
+| 2024-07-11 | S.4676-118 | Immigration | S. 4676, Shadow Wolves Improvement Act |
+| 2024-07-11 | S.4677-118 | Armed Forces and National Security | Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S001191` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

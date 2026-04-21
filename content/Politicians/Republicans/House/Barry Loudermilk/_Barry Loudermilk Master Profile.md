@@ -113,25 +113,30 @@ top-donors: "[[National Rental Home Council]], [[Lockheed Martin]], [[AT&T - War
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,654 |
-| Votes with party majority | 1,580 |
-| Party-line loyalty | 95.5% |
-| Deviations from party | 74 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,514 |
+| Votes with party majority | 4,248 |
+| Party-line loyalty | 94.1% |
+| Deviations from party | 266 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 74):**
+**Most recent party-line deviations (top 10 of 266):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -148,6 +153,29 @@ top-donors: "[[National Rental Home Council]], [[Lockheed Martin]], [[AT&T - War
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 66 |
+| Enacted into law | 0 |
+| Top policy areas | Finance and Financial Sector · Government Operations and Politics · Economics and Public Finance |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2025-12-10 | HR.6551-119 | Finance and Financial Sector | New BANK Act of 2025 |
+| 2025-12-10 | HR.6550-119 | Finance and Financial Sector | Main Street Capital Access Act |
+| 2025-10-17 | HR.5775-119 | Finance and Financial Sector | FCRA Liability Harmonization Act |
+| 2025-09-30 | HR.5644-119 | Health | Catastrophic Specialty Hospital Act of 2025 |
+| 2025-09-19 | HR.5520-119 | Finance and Financial Sector | Portal for Appraisal Licensing Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: L000583` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Barry Loudermilk
 

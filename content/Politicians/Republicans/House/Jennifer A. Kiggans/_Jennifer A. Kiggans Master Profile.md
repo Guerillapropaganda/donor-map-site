@@ -119,3 +119,32 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 66 |
+| Enacted into law | 1 |
+| Top policy areas | Armed Forces and National Security · Taxation · Health |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-117 | 2024-11-25 | HR.5490-118 | Strengthening Coastal Communities Act of 2023 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | HR.8336-119 | — | Helping Ensure Reliable Opportunities in Child Care for Military Families Act |
+| 2026-03-24 | HR.8052-119 | Armed Forces and National Security | Veteran Infection Prevention Act |
+| 2026-03-19 | HR.8011-119 | Health | SECURE Health Act |
+| 2026-03-12 | HR.7908-119 | Armed Forces and National Security | 20-Year Promise Act |
+| 2026-02-20 | HR.7618-119 | Public Lands and Natural Resources | American Battlefield Protection Program Amendments Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: K000399` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

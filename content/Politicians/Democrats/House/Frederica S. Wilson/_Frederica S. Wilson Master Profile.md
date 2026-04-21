@@ -99,25 +99,30 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,479 |
-| Votes with party majority | 1,457 |
-| Party-line loyalty | 98.5% |
-| Deviations from party | 22 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,291 |
+| Votes with party majority | 4,213 |
+| Party-line loyalty | 98.2% |
+| Deviations from party | 77 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 22):**
+**Most recent party-line deviations (top 10 of 77):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -134,3 +139,33 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 124 |
+| Enacted into law | 2 |
+| Top policy areas | Labor and Employment · Education · Housing and Community Development |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 114-8 | 2015-04-07 | HR.1092-114 | To designate the Federal building located at 2030 Southwest 145th Avenue in Miramar, Flori |
+| PL 113-292 | 2014-12-19 | HR.4030-113 | To designate the facility of the United States Postal Service located at 18640 NW 2nd Aven |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | HR.8362-119 | — | To amend sections 5314 and 5339 of title 49, United States Code, to allow for the use of a |
+| 2026-03-24 | HR.8068-119 | Transportation and Public Works | National Transit Frontline Workforce Training Act |
+| 2025-12-19 | HR.6919-119 | Crime and Law Enforcement | Save Our Girls from Sex Trafficking Act of 2025 |
+| 2025-10-31 | HR.5901-119 | Crime and Law Enforcement | BCRA of 2025 |
+| 2025-10-28 | HR.5868-119 | Environmental Protection | Water Cybersecurity Enhancement Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: W000808` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

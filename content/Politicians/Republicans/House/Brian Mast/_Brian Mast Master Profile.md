@@ -137,25 +137,30 @@ top-policy-area: International Affairs
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,676 |
-| Votes with party majority | 1,565 |
-| Party-line loyalty | 93.4% |
-| Deviations from party | 111 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,712 |
+| Votes with party majority | 4,267 |
+| Party-line loyalty | 90.6% |
+| Deviations from party | 445 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 111):**
+**Most recent party-line deviations (top 10 of 445):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -172,6 +177,37 @@ top-policy-area: International Affairs
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 120 |
+| Enacted into law | 3 |
+| Top policy areas | Armed Forces and National Security · International Affairs · Water Resources Development |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-128 | 2024-11-25 | HR.7333-118 | A bill to designate the medical center of the Department of Veterans Affairs in West Palm  |
+| PL 116-322 | 2021-01-05 | HR.8611-116 | To designate the facility of the United States Postal Service located at 4755 Southeast Di |
+| PL 115-62 | 2017-09-29 | HR.3819-115 | Department of Veterans Affairs Expiring Authorities Act of 2017 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-24 | HR.8054-119 | Transportation and Public Works | To designate the Palm Beach International Airport in Florida as the "Donald J. Trump Inter |
+| 2026-02-09 | HR.7438-119 | Emergency Management | PETSAFE Act of 2026 |
+| 2025-12-18 | HR.6875-119 | International Affairs | H.R. 6875, Artificial Intelligence Oversight of Verified Exports and Restrictions on Weapo |
+| 2025-12-12 | HR.6691-119 | Transportation and Public Works | Ceasing Age-Based Trucking Restrictions Act |
+| 2025-11-13 | HR.6044-119 | Armed Forces and National Security | Pay Our Patriots Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001199` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #brian-mast #republican #florida #house #committee-chair #foreign-affairs #israel #aipac #idf #military-veteran #amputee #gaza #arms-sales #sugar #phase-6-gavel-power
 

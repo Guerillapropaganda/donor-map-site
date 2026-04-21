@@ -92,25 +92,30 @@ donors:
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,702 |
-| Votes with party majority | 1,644 |
-| Party-line loyalty | 96.6% |
-| Deviations from party | 58 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,790 |
+| Votes with party majority | 4,650 |
+| Party-line loyalty | 97.1% |
+| Deviations from party | 139 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 58):**
+**Most recent party-line deviations (top 10 of 139):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -127,6 +132,39 @@ donors:
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 172 |
+| Enacted into law | 5 |
+| Top policy areas | International Affairs · Armed Forces and National Security · Agriculture and Food |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-78 | 2021-12-23 | HR.6256-117 | Uyghur Forced Labor Prevention Act |
+| PL 115-330 | 2018-12-19 | HR.1872-115 | Reciprocal Access to Tibet Act of 2017 |
+| — | 2009-11-04 | HR.4017-111 | To designate the facility of the United States Postal Service located at 43 Maple Avenue i |
+| — | 2008-09-11 | HR.6874-110 | To designate the facility of the United States Postal Service located at 156 Taunton Avenu |
+| — | 2005-10-26 | HR.4152-109 | A bill to designate the facility of the United States Postal Service located at 320 High S |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-12 | HR.7521-119 | Foreign Trade and International Finance | United States-Cuba Trade Act of 2025 |
+| 2026-02-12 | HR.7546-119 | Health | A bill to amend title XVIII of the Social Security Act to provide coverage for wigs as dur |
+| 2026-01-22 | HJRES.143-119 | Congress | Resolution Act. |
+| 2026-01-12 | HR.7007-119 | Government Operations and Politics | To require the Administrator of the Federal Emergency Management Agency to administer the  |
+| 2025-12-18 | HR.6878-119 | International Affairs | El Salvador Accountability Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M000312` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

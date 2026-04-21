@@ -150,6 +150,35 @@ top-donors: "[[League of Conservation Voters]], [[CVS Health - Aetna]], [[Planne
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 50 |
+| Enacted into law | 1 |
+| Top policy areas | Health · Agriculture and Food · Public Lands and Natural Resources |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-32 | 2023-12-26 | HR.1722-118 | A bill to amend the Grand Ronde Reservation Act, and for other purposes. |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-09 | HR.8237-119 | Science, Technology, Communications | Quantum Instrumentation for Science and Engineering Act |
+| 2026-02-11 | HR.7514-119 | Agriculture and Food | Rural Health Care Facilities Revitalization Act |
+| 2026-02-10 | HR.7474-119 | Agriculture and Food | Soil CARE Act of 2026 |
+| 2026-01-30 | HR.7297-119 | Immigration | ICE and CBP Constitutional Accountability Act |
+| 2025-12-17 | HR.6817-119 | Health | Home-Based Telemental Health Care Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S001226` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Andrea Salinas
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

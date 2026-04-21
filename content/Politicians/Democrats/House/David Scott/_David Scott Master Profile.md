@@ -105,25 +105,30 @@ top-donors: "[[Anthem - Elevance Health]], [[Walmart - Walton Family]], [[Honeyw
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,683 |
-| Votes with party majority | 1,625 |
-| Party-line loyalty | 96.6% |
-| Deviations from party | 58 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,688 |
+| Votes with party majority | 4,531 |
+| Party-line loyalty | 96.7% |
+| Deviations from party | 156 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 58):**
+**Most recent party-line deviations (top 10 of 156):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -140,6 +145,39 @@ top-donors: "[[Anthem - Elevance Health]], [[Walmart - Walton Family]], [[Honeyw
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 76 |
+| Enacted into law | 5 |
+| Top policy areas | Finance and Financial Sector · Agriculture and Food · Housing and Community Development |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 114-206 | 2016-07-29 | HR.4747-114 | To designate the facility of the United States Postal Service located at 6691 Church Stree |
+| PL 114-36 | 2015-07-20 | HR.2620-114 | A bill to amend the United States Cotton Futures Act to exclude certain cotton futures con |
+| — | 2007-09-27 | HR.3703-110 | H.R. 3703, A bill to amend section 5112(p)(1)(A) of title 31, United States Code, to allow |
+| — | 2007-05-17 | HR.2356-110 | To amend title 4, United States Code, to encourage the display of the flag of the United S |
+| — | 2003-09-05 | HR.3029-108 | A bill to designate the facility of the Untied States Postal Service located at 255 North  |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2025-12-17 | HR.6819-119 | Agriculture and Food | Bridge to Summer Nutrition Act of 2025 |
+| 2025-12-15 | HR.6726-119 | Housing and Community Development | ROAD to Housing Act of 2025 |
+| 2025-12-15 | HR.6725-119 | Labor and Employment | Jobs, On-the-Job Earn-While-You-Learn Training, and Apprenticeships for Young African-Amer |
+| 2025-12-11 | HR.6673-119 | Transportation and Public Works | To amend title 49, United States Code, to clarify airport revenue use of local general sal |
+| 2025-11-19 | HR.6161-119 | Finance and Financial Sector | SEC Data Protection Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S001157` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # David Scott
 
@@ -178,3 +216,27 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 - [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
 <!-- auto:congress-bills end -->
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 27 |
+| Leak sources | Paradise Papers - Appleby (24) · Offshore Leaks (2) · Paradise Papers - Malta corporate registry (1) |
+| Top jurisdictions | Bermuda (24) · Samoa (1) · Undetermined (1) · Malta (1) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| Ocean Investments Limited | entity | Samoa | Offshore Leaks |
+| David Scott | entity | Undetermined | Offshore Leaks |
+| LL&E Tunisia Ltd | entity | Bermuda | Paradise Papers - Appleby |
+| LL&E Venezuela, Ltd. | entity | Bermuda | Paradise Papers - Appleby |
+| Delta Centro Operating Company, Ltd. | entity | Bermuda | Paradise Papers - Appleby |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: David Scott` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

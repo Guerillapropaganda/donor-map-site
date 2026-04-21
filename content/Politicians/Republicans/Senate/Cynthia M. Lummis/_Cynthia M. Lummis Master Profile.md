@@ -88,24 +88,26 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,378 |
-| Votes with party majority | 1,309 |
-| Party-line loyalty | 95.0% |
-| Deviations from party | 52 |
+| Roll-call votes tracked | 2,382 |
+| Substantive votes (Y/N) | 2,275 |
+| Votes with party majority | 2,131 |
+| Party-line loyalty | 93.7% |
+| Deviations from party | 126 |
 
 **Coverage:**
 
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 52):**
+**Most recent party-line deviations (top 10 of 126):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -122,3 +124,34 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 144 |
+| Enacted into law | 3 |
+| Top policy areas | Public Lands and Natural Resources · Environmental Protection · Finance and Financial Sector |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-66 | 2025-12-26 | S.284-119 | Congressional Award Program Reauthorization Act |
+| PL 117-120 | 2022-05-10 | S.2126-117 | A bill to designate the Federal Office Building located at 308 W. 21st Street in Cheyenne, |
+| PL 114-245 | 2016-11-28 | HR.845-114 | National Forest System Trails Stewardship Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-26 | S.4267-119 | Energy | Strengthening American Nuclear Energy Act of 2026 |
+| 2026-03-19 | S.4146-119 | Environmental Protection | Local Data for Better Conservation Act |
+| 2026-02-11 | S.3836-119 | Environmental Protection | FENCES Act |
+| 2026-01-12 | S.3611-119 | Finance and Financial Sector | Blockchain Regulatory Certainty Act of 2026 |
+| 2025-12-17 | S.3520-119 | Public Lands and Natural Resources | CLEAR Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: L000571` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

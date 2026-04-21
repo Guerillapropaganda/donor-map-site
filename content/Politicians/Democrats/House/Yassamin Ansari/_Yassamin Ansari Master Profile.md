@@ -141,6 +141,29 @@ top-donors: "[[SEIU COPE]], [[International Association of Firefighters Interest
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 21 |
+| Enacted into law | 0 |
+| Top policy areas | Immigration · Health · Housing and Community Development |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-30 | HR.8159-119 | Health | Gynecologic Pain Management Study Act |
+| 2026-03-30 | HR.8158-119 | Labor and Employment | Reproductive Healthcare Leave Act |
+| 2026-03-30 | HR.8160-119 | Health | Premenstrual Dysphoric Disorder Awareness and Research Act of 2026 |
+| 2026-02-11 | HR.7483-119 | Government Operations and Politics | Dual Hatting Limitation Act of 2026 |
+| 2026-02-04 | HR.7346-119 | Immigration | Drain ICE Act of 2026 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: A000381` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Yassamin Ansari
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

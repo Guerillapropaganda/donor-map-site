@@ -116,25 +116,30 @@ top-policy-area: International Affairs
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,622 |
-| Votes with party majority | 1,492 |
-| Party-line loyalty | 92.0% |
-| Deviations from party | 130 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,523 |
+| Votes with party majority | 4,174 |
+| Party-line loyalty | 92.3% |
+| Deviations from party | 348 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 130):**
+**Most recent party-line deviations (top 10 of 348):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -151,6 +156,36 @@ top-policy-area: International Affairs
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 128 |
+| Enacted into law | 2 |
+| Top policy areas | Foreign Trade and International Finance · Water Resources Development · Agriculture and Food |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-127 | 2022-05-16 | HR.6023-117 | Multinational Species Conservation Funds Semipostal Stamp Reauthorization Act of 2021 |
+| — | 2012-04-18 | HR.4389-112 | To designate the facility of the United States Postal Service located at 19 East Merced St |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-20 | HR.7609-119 | Agriculture and Food | Rural Development Modernization Act |
+| 2025-10-31 | HR.5875-119 | Agriculture and Food | COWS Act of 2025 |
+| 2025-10-21 | HR.5796-119 | Commerce | BUILD Act |
+| 2025-10-14 | HR.5747-119 | Health | Preventing Illegal Laboratories and Protecting Public Health Act of 2026 |
+| 2025-10-10 | HR.5728-119 | Finance and Financial Sector | Rural Homeownership Continuity Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C001059` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Jim Costa
 

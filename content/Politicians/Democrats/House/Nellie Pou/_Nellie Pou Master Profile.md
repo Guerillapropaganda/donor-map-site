@@ -99,3 +99,26 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 10 |
+| Enacted into law | 0 |
+| Top policy areas | Immigration · Emergency Management · Crime and Law Enforcement |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-18 | HR.7986-119 | Immigration | Safe Passage to the World Cup Act |
+| 2026-02-09 | HR.7449-119 | Immigration | PLATE Act |
+| 2026-02-09 | HR.7448-119 | Crime and Law Enforcement | Modernizing and Improving the National Terrorism Advisory System Act of 2026 |
+| 2026-01-27 | HR.7268-119 | Environmental Protection | CLEAN–UP Act |
+| 2025-11-20 | HR.6223-119 | Crime and Law Enforcement | Crime Gun Tracing Modernization Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: P000621` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

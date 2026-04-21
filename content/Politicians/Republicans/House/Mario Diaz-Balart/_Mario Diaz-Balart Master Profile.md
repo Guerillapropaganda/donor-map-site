@@ -123,25 +123,30 @@ top-policy-area: International Affairs
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,617 |
-| Votes with party majority | 1,456 |
-| Party-line loyalty | 90.0% |
-| Deviations from party | 161 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,608 |
+| Votes with party majority | 4,219 |
+| Party-line loyalty | 91.6% |
+| Deviations from party | 389 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 161):**
+**Most recent party-line deviations (top 10 of 389):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -158,6 +163,35 @@ top-policy-area: International Affairs
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 71 |
+| Enacted into law | 1 |
+| Top policy areas | Government Operations and Politics · Taxation · International Affairs |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| — | 2004-02-10 | HR.3785-108 | A bill to authorize the exchange of certain land in Everglades National Park. |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2025-07-25 | HR.4779-119 | International Affairs | Consolidated Appropriations Act, 2026 |
+| 2025-07-21 | HR.4558-119 | Government Operations and Politics | A bill to designate the area between the intersections of 16th Street, Northwest and Fulle |
+| 2025-07-15 | HR.4397-119 | International Affairs | Muslim Brotherhood Terrorist Designation Act of 2025 |
+| 2025-06-12 | HR.3958-119 | Government Operations and Politics | To require the United States Postal Service to notify postal customers and relevant offici |
+| 2025-05-23 | HR.3583-119 | Armed Forces and National Security | To amend title 4, United States Code, to ensure that a funeral honors detail recites the 1 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: D000600` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #politician #republican #house #florida #cuba #sugar #fanjul #appropriations #class-analysis #follow-the-money #aipac #israel #defense
 

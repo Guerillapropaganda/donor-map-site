@@ -89,25 +89,30 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,625 |
-| Votes with party majority | 1,380 |
-| Party-line loyalty | 84.9% |
-| Deviations from party | 245 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,600 |
+| Votes with party majority | 3,852 |
+| Party-line loyalty | 83.7% |
+| Deviations from party | 748 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 245):**
+**Most recent party-line deviations (top 10 of 748):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -124,3 +129,36 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 217 |
+| Enacted into law | 9 |
+| Top policy areas | Public Lands and Natural Resources · Government Operations and Politics · Immigration |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-68 | 2025-12-29 | HR.1043-119 | La Paz County Solar Energy and Job Creation Act |
+| PL 118-238 | 2025-01-04 | HR.7365-118 | VETS Safe Travel Act |
+| PL 118-3 | 2023-04-10 | HJRES.7-118 | Providing for consideration of the joint resolution (H.J. Res. 7) relating to a national e |
+| PL 116-90 | 2019-12-13 | HR.3314-116 | To designate the facility of the United States Postal Service located at 1750 McCulloch Bo |
+| PL 114-312 | 2016-12-16 | HR.6304-114 | To designate the facility of the United States Postal Service located at 501 North Main St |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-15 | HR.8300-119 | — | To prohibit the use of taxpayer funds for settlements of workplace misconduct claims invol |
+| 2026-02-25 | HR.7678-119 | Crime and Law Enforcement | Gun Owner Registration Information Protection Act |
+| 2026-02-09 | HR.7430-119 | Public Lands and Natural Resources | FAIR AIR Act |
+| 2026-01-20 | HR.7159-119 | Animals | Protecting Local Zoos Act of 2026 |
+| 2025-12-03 | HR.6374-119 | Immigration | To prohibit the admission of aliens to the United States for 10 years, and for other purpo |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: G000565` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

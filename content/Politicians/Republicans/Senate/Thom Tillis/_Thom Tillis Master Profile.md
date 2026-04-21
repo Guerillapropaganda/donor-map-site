@@ -142,11 +142,11 @@ urls-first-triaged: "2026-04-15"
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,520 |
-| Votes with party majority | 2,354 |
-| Party-line loyalty | 93.4% |
-| Deviations from party | 59 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,406 |
+| Votes with party majority | 3,037 |
+| Party-line loyalty | 89.2% |
+| Deviations from party | 261 |
 
 **Coverage:**
 
@@ -154,12 +154,14 @@ urls-first-triaged: "2026-04-15"
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 59):**
+**Most recent party-line deviations (top 10 of 261):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -176,6 +178,39 @@ urls-first-triaged: "2026-04-15"
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 193 |
+| Enacted into law | 5 |
+| Top policy areas | Finance and Financial Sector · Health · Immigration |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-79 | 2026-02-18 | S.3705-119 | Semiquincentennial Congressional Time Capsule Act |
+| PL 117-201 | 2022-10-17 | S.169-117 | ARTS Act |
+| PL 117-26 | 2021-07-06 | S.1340-117 | To amend title 28, United States Code, to redefine the eastern and middle judicial distric |
+| PL 115-161 | 2018-04-03 | S.2030-115 | Ceiling Fan Energy Conservation Harmonization Act |
+| PL 114-241 | 2016-10-07 | S.1698-114 | Treatment of Certain Payments in Eugenics Compensation Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-05 | S.3782-119 | Immigration | Justice for Victims of Sanctuary Cities Act of 2025 |
+| 2026-01-28 | S.3719-119 | Crime and Law Enforcement | National Law Enforcement Officers Remembrance, Support, and Community Outreach Act. |
+| 2025-12-17 | S.3551-119 | Health | PROTECT for Rare Act |
+| 2025-12-11 | S.3439-119 | Health | Connecting Caregivers to Medicare Act of 2025 |
+| 2025-09-10 | S.2761-119 | Health | RESULTS Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: T000476` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #thom-tillis #senate #north-carolina #pharmaceutical #drug-pricing #research-triangle #intellectual-property #class-analysis
 

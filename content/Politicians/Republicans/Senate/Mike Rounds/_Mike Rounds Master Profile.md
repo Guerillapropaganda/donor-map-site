@@ -120,11 +120,11 @@ top-donors: "[[WinRed]], [[Northrop Grumman]], [[Morgan Stanley]], [[iHeartMedia
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,612 |
-| Votes with party majority | 2,459 |
-| Party-line loyalty | 94.1% |
-| Deviations from party | 57 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,353 |
+| Votes with party majority | 3,038 |
+| Party-line loyalty | 90.6% |
+| Deviations from party | 218 |
 
 **Coverage:**
 
@@ -132,12 +132,14 @@ top-donors: "[[WinRed]], [[Northrop Grumman]], [[Morgan Stanley]], [[iHeartMedia
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 57):**
+**Most recent party-line deviations (top 10 of 218):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -154,6 +156,37 @@ top-donors: "[[WinRed]], [[Northrop Grumman]], [[Morgan Stanley]], [[iHeartMedia
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 236 |
+| Enacted into law | 3 |
+| Top policy areas | Armed Forces and National Security · Finance and Financial Sector · Agriculture and Food |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-132 | 2024-11-25 | S.2143-118 | S. 2143, a bill to designate the facility of the United States Postal Service located at 3 |
+| PL 118-135 | 2024-11-25 | S.3267-118 | S. 3267, a bill to designate the facility of the United States Postal Service located at 4 |
+| PL 117-317 | 2022-12-27 | S.789-117 | Repealing Existing Substandard Provisions Encouraging Conciliation with Tribes Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-12 | S.3880-119 | Finance and Financial Sector | Small Business Investor Capital Access Act |
+| 2026-01-29 | S.3736-119 | Water Resources Development | Dakota Mainstem Water Supply Project Feasibility Study Act |
+| 2026-01-15 | S.3667-119 | Civil Rights and Liberties, Minority Issues | Life at Conception Act of 2026 |
+| 2025-12-18 | S.3578-119 | Finance and Financial Sector | Financial Stability Oversight Council Improvement Act of 2025 |
+| 2025-12-04 | S.3351-119 | Finance and Financial Sector | Developing and Empowering our Aspiring Leaders Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: R000605` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Mike Rounds
 

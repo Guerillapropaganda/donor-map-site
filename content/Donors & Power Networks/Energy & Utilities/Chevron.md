@@ -529,3 +529,27 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 12 |
+| Leak sources | Paradise Papers - Malta corporate registry (10) · Paradise Papers - Nevis corporate registry (1) · Bahamas Leaks (1) |
+| Top jurisdictions | Malta (4) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| Associated Trustees Limited | intermediary | — | Paradise Papers - Nevis corporate registry |
+| NORMAN BUCKLE | officer | — | Paradise Papers - Malta corporate registry |
+| ANGELA SIVE LILIAN BUCKLE | officer | — | Paradise Papers - Malta corporate registry |
+| ADRIAN BUCKLE | officer | — | Paradise Papers - Malta corporate registry |
+| EVAN BUCKLE | officer | — | Paradise Papers - Malta corporate registry |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: Chevron` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

@@ -108,21 +108,22 @@ top-donors: "[[Care Action]], [[AIPAC - American Israel Public Affairs Committee
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,711 |
-| Votes with party majority | 1,641 |
-| Party-line loyalty | 95.9% |
-| Deviations from party | 70 |
+| Roll-call votes tracked | 2,724 |
+| Substantive votes (Y/N) | 2,664 |
+| Votes with party majority | 2,543 |
+| Party-line loyalty | 95.5% |
+| Deviations from party | 121 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 70):**
+**Most recent party-line deviations (top 10 of 121):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -139,6 +140,35 @@ top-donors: "[[Care Action]], [[AIPAC - American Israel Public Affairs Committee
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 61 |
+| Enacted into law | 1 |
+| Top policy areas | Crime and Law Enforcement · Finance and Financial Sector · Commerce |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-127 | 2024-11-25 | HR.7199-118 | H.R. 7199, a bill to designate the facility of the United States Postal Service located at |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-26 | HR.7732-119 | Crime and Law Enforcement | Promoting Innovation in Blockchain Development Act |
+| 2026-02-11 | HR.7495-119 | Public Lands and Natural Resources | To authorize the establishment of memorials to the Wisconsin infantry officers and enliste |
+| 2026-01-16 | HR.7131-119 | Taxation | To amend the Internal Revenue Code of 1986 to eliminate the dollar limitations on the excl |
+| 2025-12-10 | HR.6570-119 | Finance and Financial Sector | Main Street Capital Access Act |
+| 2025-11-21 | HR.6260-119 | Crime and Law Enforcement | Keeping Violent Offenders Off Our Streets Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: F000471` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Scott Fitzgerald
 

@@ -114,25 +114,28 @@ top-donors: "[[Paul Tonko]], [[Leidos]], [[Giffords PAC]], [[314 ACTION FUND]], 
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 116th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,673 |
-| Votes with party majority | 1,585 |
-| Party-line loyalty | 94.7% |
-| Deviations from party | 88 |
+| Roll-call votes tracked | 3,678 |
+| Substantive votes (Y/N) | 3,582 |
+| Votes with party majority | 3,446 |
+| Party-line loyalty | 96.2% |
+| Deviations from party | 136 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 88):**
+**Most recent party-line deviations (top 10 of 136):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -149,6 +152,29 @@ top-donors: "[[Paul Tonko]], [[Leidos]], [[Giffords PAC]], [[314 ACTION FUND]], 
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 89 |
+| Enacted into law | 0 |
+| Top policy areas | Armed Forces and National Security · Commerce · International Affairs |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-02 | HR.8175-119 | Armed Forces and National Security | To amend title 10, United States Code, and the National Defense Authorization Act for Fisc |
+| 2026-03-24 | HR.8050-119 | Transportation and Public Works | PIPELINE Safety Act of 2025 |
+| 2025-12-05 | HR.6490-119 | Armed Forces and National Security | To direct the Secretary of Defense to establish a pilot program to provide certain members |
+| 2025-11-18 | HR.6089-119 | Science, Technology, Communications | Biomanufacturing Excellence Act of 2025 |
+| 2025-11-10 | HR.6009-119 | Armed Forces and National Security | Streamlining Procurement for Effective Execution and Delivery and National Defense Authori |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: H001085` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Chrissy Houlahan
 

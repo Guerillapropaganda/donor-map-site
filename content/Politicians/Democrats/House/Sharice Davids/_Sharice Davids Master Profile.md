@@ -116,25 +116,28 @@ top-donors: "[[Walmart - Walton Family]], [[Teamsters - International Brotherhoo
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 116th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,718 |
-| Votes with party majority | 1,634 |
-| Party-line loyalty | 95.1% |
-| Deviations from party | 84 |
+| Roll-call votes tracked | 3,678 |
+| Substantive votes (Y/N) | 3,627 |
+| Votes with party majority | 3,500 |
+| Party-line loyalty | 96.5% |
+| Deviations from party | 127 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 84):**
+**Most recent party-line deviations (top 10 of 127):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -151,6 +154,29 @@ top-donors: "[[Walmart - Walton Family]], [[Teamsters - International Brotherhoo
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 55 |
+| Enacted into law | 0 |
+| Top policy areas | Health · Commerce · Native Americans |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-15 | HR.8298-119 | — | To amend title XVI of the Social Security Act to exclude in-kind support and maintenance f |
+| 2026-03-25 | HR.8080-119 | Health | Data to Save Moms Act |
+| 2026-02-17 | HR.7589-119 | Agriculture and Food | Resilient Food Supply Chain and Affordability Act |
+| 2026-02-05 | HR.7396-119 | Native Americans | H.R. 7396, Native American Entrepreneurial Opportunity Act |
+| 2026-01-15 | HR.7093-119 | Taxation | Afterschool ACCESS Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: D000629` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Sharice Davids
 

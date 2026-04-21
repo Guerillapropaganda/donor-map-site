@@ -136,6 +136,29 @@ top-policy-area: International Affairs
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 37 |
+| Enacted into law | 0 |
+| Top policy areas | Taxation · International Affairs · Immigration |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-04 | HR.7800-119 | Families | White House Council on Fathers and Sons Act of 2026 |
+| 2026-03-04 | HR.7799-119 | Taxation | SPONSOR Act |
+| 2026-02-11 | HR.7509-119 | Taxation | Deterring Adversarial Access to Americans’ Data Act |
+| 2026-01-15 | HR.7087-119 | Taxation | Grave Injustice Parity Act |
+| 2025-12-09 | HR.6506-119 | Taxation | H.R. 6506, Taxpayer Due Process Enhancement Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001224` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Nathaniel Moran
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

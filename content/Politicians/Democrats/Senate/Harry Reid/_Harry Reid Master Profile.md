@@ -106,6 +106,39 @@ related: "[[Crossroads Grassroots Policy Strategies]]"
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 285 |
+| Enacted into law | 9 |
+| Top policy areas | Public Lands and Natural Resources · Armed Forces and National Security · Foreign Trade and International Finance |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 113-7 | 2013-04-15 | S.716-113 | A bill to modify the requirements under the STOCK Act regarding online access to certain f |
+| — | 2012-08-02 | S.3510-112 | To change the effective date for the Internet publication of certain financial disclosure  |
+| — | 2010-11-15 | SJRES.40-111 | A joint resolution appointing the day for the convening of the first session of the One Hu |
+| — | 2010-06-09 | S.3473-111 | To amend the Oil Pollution Act of 1990 to authorize advances from Oil Spill Liability Trus |
+| — | 2009-01-06 | SJRES.3-111 | A joint resolution ensuring that the compensation and other emoluments attached to the off |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2016-09-07 | S.3293-114 | Native Americans | A bill to require the Secretary of the Interior to transfer to the Shoshone-Paiute Tribes  |
+| 2016-07-14 | S.3281-114 | International Affairs | Iran Sanctions Relief Oversight Act of 2015 |
+| 2016-06-28 | S.3106-114 | International Affairs | Secure the Northern Triangle Act |
+| 2016-05-12 | S.2924-114 | Congress | Max Cleland Congressional Gold Medal Act of 2016 |
+| 2016-05-09 | S.2907-114 | Water Resources Development | A bill to amend the Energy and Water Development and Related Agencies Appropriations Act,  |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: R000146` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 #politician #nevada-machine #gaming-industry #donor-extraction #senate-power
 
 **related:** [[_Chuck Schumer Master Profile|Chuck Schumer]], [[_Nancy Pelosi Master Profile|Nancy Pelosi]], [[SEIU - Service Employees International Union|SEIU]], [[MGM Resorts]], [[Adelson Network]]

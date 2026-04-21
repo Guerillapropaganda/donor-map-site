@@ -136,25 +136,30 @@ donors: [[Fanjul Family - Florida Crystals]] · [[AIPAC - American Israel Public
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,702 |
-| Votes with party majority | 1,656 |
-| Party-line loyalty | 97.3% |
-| Deviations from party | 46 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,720 |
+| Votes with party majority | 4,604 |
+| Party-line loyalty | 97.5% |
+| Deviations from party | 115 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 46):**
+**Most recent party-line deviations (top 10 of 115):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -171,6 +176,37 @@ donors: [[Fanjul Family - Florida Crystals]] · [[AIPAC - American Israel Public
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 121 |
+| Enacted into law | 3 |
+| Top policy areas | Crime and Law Enforcement · Health · Commerce |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-144 | 2024-12-11 | HR.7764-118 | Commission to Study the Potential Transfer of the Weitzman National Museum of American Jew |
+| PL 113-265 | 2014-12-18 | HR.5185-113 | EARLY Act Reauthorization of 2014 |
+| — | 2009-06-17 | HR.2918-111 | Legislative Branch Appropriations Act, 2010 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-05 | HR.7856-119 | Housing and Community Development | Fair Housing for Survivors Act of 2026 |
+| 2026-03-05 | HR.7857-119 | International Affairs | No Escaping Justice Act of 2026 |
+| 2026-02-12 | HR.7564-119 | Crime and Law Enforcement | Jaime’s Law |
+| 2025-09-18 | HR.5506-119 | Crime and Law Enforcement | Courtney Wild Reinforcing Crime Victims’ Rights Act |
+| 2025-07-23 | HR.4751-119 | Commerce | To amend the Virginia Graeme Baker Pool and Spa Safety Act to reauthorize certain programs |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: W000797` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

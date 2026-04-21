@@ -79,24 +79,29 @@ donors:
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,409 |
-| Substantive votes (Y/N) | 1,295 |
-| Votes with party majority | 1,263 |
-| Party-line loyalty | 97.5% |
-| Deviations from party | 32 |
+| Roll-call votes tracked | 4,540 |
+| Substantive votes (Y/N) | 4,394 |
+| Votes with party majority | 4,280 |
+| Party-line loyalty | 97.4% |
+| Deviations from party | 113 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 137 votes
 
-**Most recent party-line deviations (top 10 of 32):**
+**Most recent party-line deviations (top 10 of 113):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -113,6 +118,39 @@ donors:
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 271 |
+| Enacted into law | 7 |
+| Top policy areas | Government Operations and Politics · International Affairs · Taxation |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-56 | 2025-12-12 | HR.1912-119 | Veteran Fraud Reimbursement Act of 2025 |
+| PL 117-328 | 2022-12-29 | HR.2617-117 | Native Plant Species Pilot Program Act of 2022 |
+| PL 117-225 | 2022-12-09 | HR.521-117 | First Responder Fair RETIRE Act |
+| PL 117-48 | 2021-10-13 | HR.2278-117 | To designate the September 11th National Memorial Trail Route, and for other purposes. |
+| PL 115-88 | 2017-11-21 | HR.3243-115 | FITARA Enhancement Act of 2017 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2025-05-19 | HR.3490-119 | Government Operations and Politics | H.R. 3490, Gerald E. Connolly Esophageal Cancer Awareness Act of 2025 |
+| 2025-05-09 | HR.3317-119 | Government Operations and Politics | Honoring Civil Servants Killed in the Line of Duty Act |
+| 2025-04-03 | HR.2622-119 | International Affairs | Russia-North Korea Cooperation Sanctions Act |
+| 2025-03-27 | HR.2416-119 | International Affairs | Taiwan International Solidarity Act |
+| 2025-03-27 | HR.2417-119 | Government Operations and Politics | Strengthening Agency Management and Oversight of Software Assets Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C001078` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

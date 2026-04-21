@@ -138,25 +138,30 @@ donors:
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,668 |
-| Votes with party majority | 1,624 |
-| Party-line loyalty | 97.4% |
-| Deviations from party | 44 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,699 |
+| Votes with party majority | 4,574 |
+| Party-line loyalty | 97.3% |
+| Deviations from party | 124 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 44):**
+**Most recent party-line deviations (top 10 of 124):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -173,6 +178,39 @@ donors:
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 227 |
+| Enacted into law | 5 |
+| Top policy areas | Immigration · Government Operations and Politics · Taxation |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 116-78 | 2019-12-05 | HR.5277-116 | A bill to amend section 442 of title 18, United States Code, to exempt certain interests i |
+| — | 2011-01-24 | HR.398-112 | A bill to amend the Immigration and Nationality Act to toll, during active-duty service ab |
+| — | 2010-01-27 | HR.4543-111 | To designate the facility of the United States Postal Service located at 4285 Payne Avenue |
+| — | 2009-02-23 | HR.1127-111 | To extend certain immigration programs. |
+| — | 2008-03-10 | HR.5571-110 | H.R. 5571, A bill to extend for five years the program relating to waiver of the foreign c |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-26 | HJRES.154-119 | Labor and Employment | Providing for congressional disapproval under chapter 8 of title 5, United States Code, of |
+| 2026-03-26 | HR.8111-119 | Finance and Financial Sector | Bankruptcy Venue Reform Act |
+| 2026-03-19 | HR.8014-119 | Science, Technology, Communications | Online Privacy Act of 2026 |
+| 2026-03-05 | HR.7836-119 | Immigration | Real Courts, Rule of Law Act of 2026 |
+| 2025-12-18 | HR.6870-119 | Immigration | GRACE Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: L000397` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

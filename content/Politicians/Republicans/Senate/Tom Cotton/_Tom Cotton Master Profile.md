@@ -81,11 +81,11 @@ donors: [[AIPAC - American Israel Public Affairs Committee]], [[Paul Singer]], [
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,693 |
-| Votes with party majority | 2,628 |
-| Party-line loyalty | 97.6% |
-| Deviations from party | 47 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,624 |
+| Votes with party majority | 3,478 |
+| Party-line loyalty | 96.0% |
+| Deviations from party | 127 |
 
 **Coverage:**
 
@@ -93,12 +93,14 @@ donors: [[AIPAC - American Israel Public Affairs Committee]], [[Paul Singer]], [
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 47):**
+**Most recent party-line deviations (top 10 of 127):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -115,6 +117,35 @@ donors: [[AIPAC - American Israel Public Affairs Committee]], [[Paul Singer]], [
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 338 |
+| Enacted into law | 1 |
+| Top policy areas | International Affairs · Crime and Law Enforcement · Armed Forces and National Security |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 114-273 | 2016-12-14 | S.3076-114 | Charles Duncan Buried with Honor Act of 2016 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-17 | S.4344-119 | — | A bill to extend section 702 of the Foreign Intelligence Surveillance Act of 1978 for 3 ye |
+| 2026-04-16 | S.4327-119 | — | A bill to require regulatory review of pharmaceutical products from Chinese entities, and  |
+| 2026-04-15 | S.4300-119 | — | A bill to promote interagency coordination for reviewing certain authorizations under the  |
+| 2026-04-15 | S.4303-119 | — | A bill to amend the Tariff Act of 1930 to provide for escalating civil penalties for fraud |
+| 2026-03-26 | S.4235-119 | Government Operations and Politics | American Security Robotics Act of 2026 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C001095` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

@@ -146,6 +146,35 @@ top-donors: "[[National Rifle Association]], [[Microsoft]], [[Jake Ellzey]], [[A
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 30 |
+| Enacted into law | 1 |
+| Top policy areas | Health · Agriculture and Food · Government Operations and Politics |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-171 | 2024-12-23 | HR.4467-118 | DHS Border Services Contracts Review Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-18 | HR.7974-119 | Government Operations and Politics | To amend the Federal Funding Accountability and Transparency Act of 2006 to ensure real-ti |
+| 2026-01-21 | HR.7169-119 | — | To require English proficiency as a prerequisite for eligibility for ride share contracts, |
+| 2025-06-17 | HR.4021-119 | Government Operations and Politics | Patriotism Not Pride Act |
+| 2025-05-13 | HR.3330-119 | Taxation | Energy Freedom Act |
+| 2025-04-10 | HR.2819-119 | Transportation and Public Works | DRIVE Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: B001317` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Josh Brecheen
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

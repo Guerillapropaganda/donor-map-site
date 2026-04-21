@@ -106,25 +106,30 @@ top-donors: "[[International Association of Firefighters Interested in Registrat
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,014 |
-| Substantive votes (Y/N) | 1,948 |
-| Votes with party majority | 1,916 |
-| Party-line loyalty | 98.4% |
-| Deviations from party | 19 |
+| Roll-call votes tracked | 5,145 |
+| Substantive votes (Y/N) | 5,041 |
+| Votes with party majority | 4,954 |
+| Party-line loyalty | 98.3% |
+| Deviations from party | 73 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 19):**
+**Most recent party-line deviations (top 10 of 73):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -141,6 +146,35 @@ top-donors: "[[International Association of Firefighters Interested in Registrat
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 117 |
+| Enacted into law | 1 |
+| Top policy areas | Health · Environmental Protection · Commerce |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 116-306 | 2021-01-05 | HR.5972-116 | H.R. 5972, a bill to designate the facility of the United States Postal Service located at |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-26 | S.4262-119 | — | Permanent Housing Affordability Act |
+| 2026-03-18 | SJRES.133-119 | Finance and Financial Sector | A joint resolution providing for congressional disapproval under chapter 8 of title 5, Uni |
+| 2026-03-16 | S.4102-119 | Water Resources Development | Delaware River Basin Restoration Program Reauthorization Act of 2025 |
+| 2026-03-12 | S.4080-119 | Taxation | Rental Housing Investment Act |
+| 2026-01-27 | S.3694-119 | Transportation and Public Works | Maximizing Transportation Efficiency Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: B001303` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Lisa Blunt Rochester
 

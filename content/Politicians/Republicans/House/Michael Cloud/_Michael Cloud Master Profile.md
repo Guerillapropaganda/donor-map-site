@@ -112,25 +112,29 @@ top-donors: "[[Josh Brecheen]], [[Anthem - Elevance Health]], [[Lockheed Martin]
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,698 |
-| Votes with party majority | 1,484 |
+| Roll-call votes tracked | 3,864 |
+| Substantive votes (Y/N) | 3,759 |
+| Votes with party majority | 3,286 |
 | Party-line loyalty | 87.4% |
-| Deviations from party | 214 |
+| Deviations from party | 473 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/2: 186 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 214):**
+**Most recent party-line deviations (top 10 of 473):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -147,6 +151,35 @@ top-donors: "[[Josh Brecheen]], [[Anthem - Elevance Health]], [[Lockheed Martin]
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 62 |
+| Enacted into law | 1 |
+| Top policy areas | Government Operations and Politics · Health · Taxation |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-270 | 2025-01-04 | HR.10065-118 | To designate the facility of the United States Postal Service located at 802 North Tancahu |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-09 | HR.7421-119 | Sports and Recreation | SAFE Olympic Sports Act |
+| 2025-10-24 | HR.5815-119 | Health | District of Columbia Medicaid Fairness Act |
+| 2025-10-24 | HR.5814-119 | Energy | Natural Gas Export Expansion Act |
+| 2025-09-18 | HR.5459-119 | Congress | To amend the Legislative Reorganization Act of 1946 to adjust the timing of the Congressio |
+| 2025-09-02 | HJRES.118-119 | Government Operations and Politics | Expressing support for designating September 12, 2025, as "The Day of the Bible" in the Un |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C001115` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Michael Cloud
 

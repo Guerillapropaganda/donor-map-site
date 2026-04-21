@@ -493,3 +493,27 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 11 |
+| Leak sources | Paradise Papers - Bahamas corporate registry (8) · Paradise Papers - Appleby (2) · Paradise Papers - Nevis corporate registry (1) |
+| Top jurisdictions | Bahamas (8) · Bermuda (2) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| Tarpon Company Limited | entity | Bermuda | Paradise Papers - Appleby |
+| Monmouth Ltd. | entity | Bermuda | Paradise Papers - Appleby |
+| ATLANTIC PROPERTIES LTD | entity | Bahamas | Paradise Papers - Bahamas corporate registry |
+| PROTOCOL TRADING CORPORATION (INAGUA) LIMITED | entity | Bahamas | Paradise Papers - Bahamas corporate registry |
+| CLEIFE AND COMPANY LIMITED | entity | Bahamas | Paradise Papers - Bahamas corporate registry |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: Johnson & Johnson` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

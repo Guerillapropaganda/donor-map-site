@@ -88,24 +88,30 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,415 |
-| Votes with party majority | 1,374 |
-| Party-line loyalty | 97.1% |
-| Deviations from party | 29 |
+| Roll-call votes tracked | 4,546 |
+| Substantive votes (Y/N) | 4,436 |
+| Votes with party majority | 4,334 |
+| Party-line loyalty | 97.7% |
+| Deviations from party | 89 |
 
 **Coverage:**
 
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 29):**
+**Most recent party-line deviations (top 10 of 89):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -122,3 +128,33 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 329 |
+| Enacted into law | 2 |
+| Top policy areas | Health · Native Americans · Public Lands and Natural Resources |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-182 | 2022-09-30 | S.3969-117 | PAVA Inclusion Act |
+| PL 117-101 | 2022-03-15 | S.1662-117 | Supporting the Foundation for the National Institutes of Health and the Reagan-Udall Found |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | S.4324-119 | — | A bill to amend title 28, United States Code, to prohibit attorneys for the Government who |
+| 2026-04-16 | S.4326-119 | — | A bill to improve the hiring and training processes at U.S. Immigration and Customs Enforc |
+| 2026-04-16 | S.4333-119 | — | A bill to provide a civil remedy for any individual whose rights have been violated by a F |
+| 2026-03-26 | SJRES.153-119 | Finance and Financial Sector | A joint resolution providing for congressional disapproval under chapter 8 of title 5, Uni |
+| 2026-03-16 | S.4101-119 | Agriculture and Food | Grocery, Farm, and Food Worker Stabilization Grant Program Act of 2026 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: L000570` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
