@@ -33,7 +33,7 @@ These are numbered, load-bearing, and cannot be silently violated. When a rule n
 
 ### Profile structure
 
-**5. Every verified profile follows the template.** 9 sections, in order: Summary Infobox, Who They Are, The Money, Key Votes/Actions (or Politicians Funded, or Contracts + Lobbying), Class Analysis, The Contradictions, Timeline, Related Figures, Sources. See `content/Profile Template.md`. The `profile-template-validator` pre-commit hook enforces this for any profile with `content-readiness: verified`.
+**5. Every verified profile follows the template.** 9 sections, in order: Summary Infobox, Who They Are, The Money, Key Votes/Actions (or Politicians Funded, or Contracts + Lobbying), Class Analysis, The Contradictions, Timeline, Related Figures, Sources. See `content/Profile Template.md`. The `profile-template-validator` pre-commit hook enforces this for any profile with `content-readiness: verified`. Per ADR-0017, **data-complete** profiles are exempt from the 9-section contract — they publish with an auto-generated banner and render only the structured sections that have data (Summary Infobox, The Money auto-blocks, Related Figures, Sources). Editorial sections (Who They Are, Class Analysis, The Contradictions) are optional at the data-complete tier and hidden when absent.
 
 **6. Class Analysis is the editorial lens.** Every verified profile has a `## Class Analysis` section. Vocabulary is ADR-0001 (+ amendments 0010, 0011). Changes require a new ADR.
 
@@ -43,11 +43,11 @@ These are numbered, load-bearing, and cannot be silently violated. When a rule n
 
 ### Readiness + publication
 
-**9. Readiness flow:** `raw → draft → ready → verified`. One authoritative script owns demotion logic (`scripts/readiness-adjudicator.cjs`). Never write new code that demotes content-readiness outside this script. Verified tier requires: template validator passes, all auto-sections have data, 3 editorial sections editor-signed-off, zero flags (URL NEEDED / UNVERIFIED / NEEDS REVIEW / defamation-sanitized placeholders), data freshness stamp less than 90 days old.
+**9. Readiness flow:** `raw → draft → ready → data-complete → verified` (ADR-0017). One authoritative script owns classification logic (`scripts/reclassify-readiness.cjs`). Never write new code that demotes content-readiness outside this script. **Data-complete** requires: type-specific auto-sections populated, at least one Tier 1 source, mapped relationships, data freshness ≤90 days, zero blocking flags (URL NEEDED / UNVERIFIED / NEEDS REVIEW / defamation-sanitized). **Verified** additionally requires: template validator passes, 2+ Tier 1 source types, 3 editorial sections editor-signed-off, body length >500 chars, Class Analysis present.
 
-**10. Architecturally complete ≠ publication ready.** Building a feature into the codebase does not make its output publishable. Every public-facing route passes `scripts/publication-readiness-check.cjs` and the `content/Checklists/pre-publication.md` gate before exposure. Under-construction gating is the default. Public exposure is explicit per route via `data/public-routes.json`.
+**10. Architecturally complete ≠ publication ready.** Building a feature into the codebase does not make its output publishable. Every public-facing route passes `scripts/publication-readiness-check.cjs` and the `content/Checklists/pre-publication.md` gate before exposure. Per ADR-0017 both `verified` and `data-complete` are publishable tiers — data-complete renders with an auto-generated banner ("not yet editorially reviewed — sources are federal disclosures"). Under-construction gating is the default. Public exposure is currently controlled per-route via `data/public-routes.json`; the mechanism for bulk-publishing data-complete profiles is pending a separate decision.
 
-**11. Launch 50 first, then expand.** April 30, 2026 launches with 50 curated profiles + 4 interactive pages + 5 policy pages + public query page + legal/corrections pages. Next expansion is launch 100 (50 more profiles), targeted for post-soft-launch. The `/signoff-launch` ops page tracks the 50 through the editorial pipeline.
+**11. Launch priority (updated ADR-0017):** April 30, 2026 ships 50 curated `verified` flagships (front-page placement, "Verified" badges) **alongside** the broader `data-complete` corpus auto-rendered with the banner. The `/signoff-launch` ops page tracks the 50 flagships through editorial sign-off. Post-launch, profiles roll from data-complete → verified as editorial capacity allows — a queue, not a gate.
 
 ### Auth + money
 

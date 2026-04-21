@@ -5,19 +5,26 @@
 // single source of truth for whether a given profile (or set of
 // profiles) can be exposed on a public URL.
 //
-// A profile passes the gate iff ALL of these are true:
-//   1. content-readiness: verified           (frontmatter)
-//   2. No (URL NEEDED) / (UNVERIFIED) / (NEEDS REVIEW) markers visible
-//   3. No strikethrough sources in visible text (only in Archived section)
+// Two publishable tiers (ADR-0017):
+//   - verified      — editor-signed-off flagship; strict gates on all 8 items below
+//   - data-complete — auto-rendered from canonical stores with a
+//                     "not yet editorially reviewed" banner; strict on
+//                     items 2-5 (flag scan + source integrity), lenient
+//                     on items 6-8 (editorial prose gates)
+//
+// A profile passes the gate iff ALL of these are true for its tier:
+//   1. content-readiness: verified OR data-complete  (frontmatter)
+//   2. No (URL NEEDED) / (UNVERIFIED) / (NEEDS REVIEW) markers visible  [both tiers]
+//   3. No strikethrough sources in visible text (only in Archived section)  [both tiers]
 //   4. Every {{src:ID}} ref resolves to a live/archived source (not dead,
-//      not generic_orphan, not needs_review, not paywall-blocked)
+//      not generic_orphan, not needs_review, not paywall-blocked)  [both tiers]
 //   5. Every entity cited is approved in the class-tag store
-//      (status: approved, not proposed)
-//   6. For claim-object profiles: data/claims/{slug}.jsonl validates
+//      (status: approved, not proposed)  [both tiers]
+//   6. For claim-object profiles: data/claims/{slug}.jsonl validates  [verified only]
 //   7. For prose profiles: editor-vouched: true OR every factual claim
 //      has an inline citation within 150 chars (hallucination-catcher
-//      coverage)
-//   8. Class Analysis section present (#1 editorial rule)
+//      coverage)  [verified only]
+//   8. Class Analysis section present (#1 editorial rule)  [verified only]
 //
 // Usage:
 //   node scripts/publication-readiness-check.cjs                   # all profiles
@@ -137,11 +144,13 @@ function checkFile(filePath) {
 
   const { frontmatter: fm, body } = parseFrontmatter(raw)
 
-  // Gate 1: content-readiness
+  // Gate 1: content-readiness (ADR-0017: verified OR data-complete)
   const readiness = (fm["content-readiness"] || fm.readiness || "").toLowerCase()
-  if (readiness !== "verified") {
-    failures.push(`content-readiness is "${readiness || "(missing)"}", must be "verified"`)
+  const PUBLISHABLE = new Set(["verified", "data-complete"])
+  if (!PUBLISHABLE.has(readiness)) {
+    failures.push(`content-readiness is "${readiness || "(missing)"}", must be "verified" or "data-complete"`)
   }
+  const isDataComplete = readiness === "data-complete"
 
   // Gate 2 + 3: no unresolved URL markers in visible text
   // Split on the "Archived" heading so we only scan visible-facing text
@@ -204,27 +213,32 @@ function checkFile(filePath) {
     }
   }
 
-  // Gate 6: Class Analysis section required
-  if (!/^##+\s*Class Analysis/im.test(body)) {
+  // Gate 6: Class Analysis section required (verified tier only — ADR-0017).
+  // Data-complete profiles publish without editorial prose; renderer shows banner.
+  if (!isDataComplete && !/^##+\s*Class Analysis/im.test(body)) {
     failures.push("missing ## Class Analysis section (mandatory editorial rule)")
   }
 
-  // Gate 7: claim-object OR editor-vouched OR we trust self-review-mirror coverage
-  const slug = path.basename(filePath, ".md")
-  const claimFile = path.join(DATA_DIR, "claims", `${slug}.jsonl`)
-  const hasClaimObject = fs.existsSync(claimFile)
-  const editorVouched =
-    fm["editor-vouched"] === "true" || fm["editor-vouched"] === true
+  // Gate 7: claim-object OR editor-vouched OR proximity-check (verified tier only — ADR-0017).
+  // Data-complete profiles rely on pipeline-supplied citations; the hallucination-catcher
+  // still runs as a backstop queue, but it's not a publication gate.
+  if (!isDataComplete) {
+    const slug = path.basename(filePath, ".md")
+    const claimFile = path.join(DATA_DIR, "claims", `${slug}.jsonl`)
+    const hasClaimObject = fs.existsSync(claimFile)
+    const editorVouched =
+      fm["editor-vouched"] === "true" || fm["editor-vouched"] === true
 
-  if (!hasClaimObject && !editorVouched) {
-    // Not a hard failure — the hallucination-catcher is the backstop.
-    // But flag it as info so David knows this profile relies on proximity
-    // checking rather than claim-object or editor-vouched.
-    info.push("citation-mode: proximity-check (no claim-object, not editor-vouched)")
-  } else if (hasClaimObject) {
-    info.push("citation-mode: claim-object")
+    if (!hasClaimObject && !editorVouched) {
+      // Not a hard failure — the hallucination-catcher is the backstop.
+      info.push("citation-mode: proximity-check (no claim-object, not editor-vouched)")
+    } else if (hasClaimObject) {
+      info.push("citation-mode: claim-object")
+    } else {
+      info.push("citation-mode: editor-vouched")
+    }
   } else {
-    info.push("citation-mode: editor-vouched")
+    info.push("tier: data-complete (auto-generated banner renders; editorial prose optional)")
   }
 
   return {

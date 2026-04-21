@@ -4,11 +4,14 @@
  * Scans all vault profiles and assigns the correct readiness tier
  * based on actual content quality, source diversity, and enrichment state.
  *
- * New 4-tier system:
- *   verified (A+) — 2+ Tier 1 source types, connections, enriched <90d, editorial sign-off
- *   ready (B)     — body + sources + enriched + connections
- *   draft (C)     — some content, missing key pieces
- *   raw (D-F)     — stub, needs everything
+ * 5-tier system (ADR-0017):
+ *   verified (A+)      — data-complete + editorial sign-off + Class Analysis
+ *   data-complete (A)  — all auto-sections populated, ≥1 Tier 1 source, fresh,
+ *                        no blocking flags. Publishable with auto-generated banner.
+ *                        Editorial prose optional.
+ *   ready (B)          — body + sources + enriched + connections
+ *   draft (C)          — some content, missing key pieces
+ *   raw (D-F)          — stub, needs everything
  *
  * Usage:
  *   node scripts/reclassify-readiness.cjs                    # dry run (report only)
@@ -122,6 +125,20 @@ function hasContradictions(content) {
   return /\[!contradiction\]/i.test(content);
 }
 
+// ADR-0017: flags that block any publication (verified AND data-complete)
+const BLOCKING_FLAGS = [
+  /\(URL NEEDED\)/,
+  /\(UNVERIFIED\)/,
+  /\(NEEDS REVIEW\)/,
+  /defamation-sanitized/i,
+];
+
+function hasBlockingFlags(content) {
+  // Only scan visible text (before the Archived section if present)
+  const visible = content.split(/^##+\s*Archived/im)[0] || content;
+  return BLOCKING_FLAGS.some((re) => re.test(visible));
+}
+
 // ─── Type-Specific A+ Requirements ─────────────────────────────
 
 const TYPE_REQUIREMENTS = {
@@ -211,7 +228,10 @@ function classifyProfile(data, body, content, sourceTypes, tier1Count) {
   // Contradiction check: cleared or none present
   const contradictionsClear = content.includes('[!contradiction-cleared]') || !content.includes('[!contradiction]');
 
-  // A+ (verified): type-specific reqs + universal reqs
+  // ADR-0017: blocking flags disqualify from any publishable tier
+  const blocked = hasBlockingFlags(content);
+
+  // A+ (verified): type-specific reqs + universal reqs + editorial sign-off
   if (
     typeReqsMet &&
     sourceTypes.length >= minSourceTypes &&
@@ -220,9 +240,25 @@ function classifyProfile(data, body, content, sourceTypes, tier1Count) {
     daysSinceEnriched <= 90 &&
     hasHumanSignoff &&
     contradictionsClear &&
-    bodyLength > 500
+    bodyLength > 500 &&
+    !blocked
   ) {
     return 'verified';
+  }
+
+  // A (data-complete, ADR-0017): all automatable checks pass, no editorial gate.
+  // Publishes with auto-generated banner. Required: type-specific reqs,
+  // ≥1 Tier 1 source, connections, fresh data, clean flag scan.
+  // Editorial prose (Class Analysis, Who They Are) optional.
+  if (
+    typeReqsMet &&
+    tier1Count >= 1 &&
+    hasConnections &&
+    daysSinceEnriched <= 90 &&
+    contradictionsClear &&
+    !blocked
+  ) {
+    return 'data-complete';
   }
 
   // B (ready): body + sources + enriched + connections
@@ -256,13 +292,13 @@ function classify(data, body, content, sourceTypes, tier1Count) {
 function main() {
   console.log('═══════════════════════════════════════════════════════════');
   console.log('  Readiness Reclassification — The Donor Map');
-  console.log('  4-tier system: raw (D-F) → draft (C) → ready (B) → verified (A+)');
+  console.log('  5-tier system: raw → draft → ready → data-complete → verified (ADR-0017)');
   console.log(`  Mode: ${WRITE ? 'WRITE (applying changes)' : 'DRY RUN (report only)'}`);
   console.log('═══════════════════════════════════════════════════════════\n');
 
   const files = walkDir(CONTENT_DIR);
   const results = [];
-  const summary = { raw: 0, draft: 0, ready: 0, verified: 0 };
+  const summary = { raw: 0, draft: 0, ready: 0, 'data-complete': 0, verified: 0 };
   const transitions = {};
   let changed = 0;
   let skipped = 0;
@@ -374,10 +410,11 @@ function main() {
   console.log(`  Changes: ${changed}\n`);
 
   console.log('  New Distribution:');
-  console.log(`    raw (D-F):      ${summary.raw || 0}`);
-  console.log(`    draft (C):      ${summary.draft || 0}`);
-  console.log(`    ready (B):      ${summary.ready || 0}`);
-  console.log(`    verified (A+):  ${summary.verified || 0}`);
+  console.log(`    raw (D-F):         ${summary.raw || 0}`);
+  console.log(`    draft (C):         ${summary.draft || 0}`);
+  console.log(`    ready (B):         ${summary.ready || 0}`);
+  console.log(`    data-complete (A): ${summary['data-complete'] || 0}`);
+  console.log(`    verified (A+):     ${summary.verified || 0}`);
 
   if (Object.keys(transitions).length > 0) {
     console.log('\n  Transitions:');

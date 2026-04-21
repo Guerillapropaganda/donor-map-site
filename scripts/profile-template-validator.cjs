@@ -3,7 +3,10 @@
  * profile-template-validator.cjs — enforce the 9-section profile template
  *
  * Per content/Profile Template.md. Only validates profiles at
- * `content-readiness: verified`. Lower tiers are work-in-progress.
+ * `content-readiness: verified`. Lower tiers (including data-complete
+ * per ADR-0017) are not subject to the 9-section contract — the
+ * publication-readiness-check still enforces flag/source/entity gates
+ * on data-complete, but the template structure is verified-only.
  *
  * Checks:
  *   1. Frontmatter has required fields for the profile type
