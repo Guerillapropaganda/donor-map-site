@@ -1,7 +1,7 @@
 ---
 title: Nikki Haley
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: "Haley is the donor class's 'electability' candidate , the corporate-friendly, defense-hawk Republican who could theoretically win general elections by assembling the pre-Trump GOP coalition: suburban voters, defense establishment, Wall Street, and..."
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -18,11 +18,10 @@ top-donors:
 total-received: $58,378,348
 fec-candidate-id: P40010977
 source-types:
-  - FEC
+  - Congress
 known-gaps:
-  - No legislative record from Congress.gov
-  - No voting record data
-  - No mapped relationships
+  - "No FEC contribution data"
+  - "No voting record data"
 last-enriched: "2026-04-09"
 related: "[[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]] · [[_Ron DeSantis Master Profile]] · [[The Koch Endorsement and the Corporate Republican Restoration Project]] · [[The Defense Industry Pipeline and South Carolina's Military Economy]] · [[Jeff Yass Follows TikTok Money Across Every Candidate]]"
 donors: "[[Americans for Prosperity]] · [[Jan Koum]] · [[AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION]] · [[Kenneth Griffin]] · [[Sfa Fund, Inc]] · [[Fossil Fuel Bloc]] · [[NEVER BACK DOWN INC.]] · [[Adelson Family]] · [[Koch Network - Charles Koch]] · [[Never Back Down Inc.]] · [[Trump Victory]] · [[MAGA Inc]] · [[PRIORITIES USA ACTION]] · [[Wfw Action Fund, Inc.]] · [[Good Fight PAC]] · [[WinRed]] · [[Club for Growth INC PAC]] · [[Never Back Down Inc]] · [[Ralph Norman]] · [[Ruralvote.org]] · [[Planned Parenthood Votes]] · [[Priorities USA Action]]"

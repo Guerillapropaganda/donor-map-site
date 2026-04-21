@@ -1,7 +1,7 @@
 ---
 title: Steve Witkoff
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: Witkoff is the purest embodiment of the Trump administration's merger of personal profit and public diplomacy. As Middle East envoy, he negotiates with the same Gulf state leaders whose sovereign wealth funds invest in his business ventures and th...
 last-updated: 2026-04-15
 source-tier: 1
@@ -14,12 +14,10 @@ issues:
   - Israel & Foreign Policy
 last-enriched: "2026-04-10"
 source-types:
-  - DOJ
+  - Congress
 known-gaps:
-  - No FEC contribution data
-  - No legislative record from Congress.gov
-  - No voting record data
-  - No mapped relationships
+  - "No FEC contribution data"
+  - "No voting record data"
 related: "[[_Donald Trump Master Profile|Trump]] · [[_Jared Kushner Master Profile|Jared Kushner]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[World Liberty Financial]] · [[Crypto Industry Bloc]] · [[Real Estate Development Industry Bloc]] · [[_David Sacks Master Profile|David Sacks]] · [[David Sacks (Donor Network)]] · [[David Sacks - Donor Network]]"
 wikidata-id: Q16189572
 wikipedia-url: https://en.wikipedia.org/wiki/Steve_Witkoff

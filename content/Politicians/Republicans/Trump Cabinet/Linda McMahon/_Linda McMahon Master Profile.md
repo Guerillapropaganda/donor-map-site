@@ -1,7 +1,7 @@
 ---
 title: Linda McMahon
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: "Linda McMahon is the purest donor-to-cabinet pipeline in the Trump administration. $50M+ in political contributions purchased: SBA Administrator (first term), transition co-chair, and Education Secretary (second term). AFPI , the think tank she fo..."
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -18,11 +18,10 @@ top-donors:
 total-received: $50,963,418
 fec-candidate-id: S0CT00151
 source-types:
+  - Congress
   - FEC
 known-gaps:
-  - No legislative record from Congress.gov
-  - No voting record data
-  - No mapped relationships
+  - "No voting record data"
 last-enriched: "2026-04-09"
 opposes: "[[DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE]] · [[MAJORITY PAC]] · [[AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES P E O P L E]] · [[LEAGUE OF CONSERVATION VOTERS ACTION FUND]]"
 related: "[[_Donald Trump Master Profile]] · [[_Howard Lutnick Master Profile]] · [[US Chamber of Commerce]]"
@@ -30,6 +29,7 @@ donors: "[[Brady Campaign]] · [[MAGA Inc]] · [[America First Policy Institute]
 urls-first-triaged: "2026-04-15"
 total-raised: "$101.5M"
 career-total-source: "FEC weball summary (cycles 2010, 2012, 2014)"
+corroboration-count: 2
 ---
 
 

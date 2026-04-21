@@ -1,7 +1,7 @@
 ---
 title: John Roberts
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: John Roberts is the donor class's long-game strategist on the Supreme Court. While Thomas and Alito deliver reliable conservative votes and accumulate ethics scandals, Roberts manages the Court's institutional legitimacy , strategically joining li...
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
@@ -12,11 +12,10 @@ total-received: $167,173
 fec-candidate-id: H2AL05169
 source-types:
   - Congress
-  - FEC
 corroboration-count: 2
 known-gaps:
-  - No voting record data
-  - No mapped relationships
+  - "No FEC contribution data"
+  - "No voting record data"
 related: "[[Leonard Leo]] · [[_Clarence Thomas Master Profile]] · [[_Samuel Alito Master Profile]] · [[Koch Network - Charles Koch]]"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-20

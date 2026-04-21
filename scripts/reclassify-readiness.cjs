@@ -142,12 +142,74 @@ function hasBlockingFlags(content) {
 
 // ─── Type-Specific A+ Requirements ─────────────────────────────
 
+// Politician TYPE_REQUIREMENTS are branched by chamber (Session K,
+// ADR-0017). The baseline (`politician`) array below assumes federal
+// legislators: bills, committees, voting records, FEC data. But 113
+// of 726 `type: politician` profiles aren't legislators — they're
+// Cabinet members, Governors, SCOTUS justices, and agency heads.
+// These roles don't have bioguides, FEC candidate IDs, or sponsored
+// bills; forcing them through the legislator typeReqs keeps them
+// permanently stuck below data-complete.
+//
+// Roles and their applicable requirements:
+//   House / Senate (federal legislators):
+//       full 4 checks: voting-records, committees, bills, fec-data
+//   Cabinet / Governor / SCOTUS / agency-head:
+//       only `connections` (check: has canonical edges) — their
+//       structured data comes from relationships + nomination/
+//       appointment paths, not the congressional stack
+//   Presidential:
+//       fec-data (presidential campaigns file with FEC) only
+//
+// getPoliticianRequirements() picks the right set by frontmatter.chamber.
+
+const LEGISLATOR_REQUIREMENTS = [
+  { id: 'voting-records', check: (d, c) => c.includes('<!-- auto:govtrack') || c.includes('<!-- auto:voting-record') },
+  { id: 'committees', check: (d) => !!d.committees || !!d['committee-assignments'] },
+  { id: 'bills', check: (d) => parseInt(d['bills-sponsored'] || 0) > 0 || parseInt(d['bills-cosponsored'] || 0) > 0 },
+  { id: 'fec-data', check: (d, c) => !!d['total-raised'] || c.includes('<!-- auto:fec') },
+];
+
+const EXECUTIVE_REQUIREMENTS = [
+  // Cabinet / Governor / SCOTUS / agency-heads: only require structural
+  // connection to the network. Their tier-1 source is the nomination /
+  // appointment record + their FEC history (if any) as individuals.
+  { id: 'connections', check: (d) => !!(d.related || d.donors || d.opposes) },
+];
+
+const PRESIDENTIAL_REQUIREMENTS = [
+  { id: 'fec-data', check: (d, c) => !!d['total-raised'] || c.includes('<!-- auto:fec') },
+  { id: 'connections', check: (d) => !!(d.related || d.donors || d.opposes) },
+];
+
+function getPoliticianRequirements(fm) {
+  const chamber = String(fm?.chamber || '').trim();
+  if (chamber === 'House' || chamber === 'Senate') return LEGISLATOR_REQUIREMENTS;
+  if (chamber === 'Presidential' || chamber === 'Vice Presidential') return PRESIDENTIAL_REQUIREMENTS;
+  if (chamber === 'Cabinet' || chamber === 'Governor' || chamber === 'SCOTUS') return EXECUTIVE_REQUIREMENTS;
+  // Cabinet appointees often have `chamber` set to a specific role
+  // ("Secretary of State", "Attorney General", etc.) rather than
+  // "Cabinet". Treat any chamber string mentioning Secretary, Director,
+  // Ambassador, Administrator, Justice, or Attorney as executive.
+  if (/Secretary|Director|Ambassador|Administrator|Justice|Attorney|SCOTUS|Governor|Chair/i.test(chamber)) {
+    return EXECUTIVE_REQUIREMENTS;
+  }
+  // Default: if chamber unset or unknown, apply legislator reqs (the
+  // prior behavior). This keeps the existing 726 federal legislators
+  // unchanged.
+  return LEGISLATOR_REQUIREMENTS;
+}
+
 const TYPE_REQUIREMENTS = {
-  politician: [
-    { id: 'voting-records', check: (d, c) => c.includes('<!-- auto:govtrack') || c.includes('<!-- auto:voting-record') },
-    { id: 'committees', check: (d) => !!d.committees || !!d['committee-assignments'] },
-    { id: 'bills', check: (d) => parseInt(d['bills-sponsored'] || 0) > 0 || parseInt(d['bills-cosponsored'] || 0) > 0 },
-    { id: 'fec-data', check: (d, c) => !!d['total-raised'] || c.includes('<!-- auto:fec') },
+  politician: LEGISLATOR_REQUIREMENTS,  // default; overridden via getPoliticianRequirements()
+  'state-politician': [
+    // State politicians vary widely in what data is available. Minimal
+    // gate: has connections. Real verification happens via state-level
+    // campaign finance (not in canonical stores today).
+    { id: 'connections', check: (d) => !!(d.related || d.donors || d.opposes) },
+  ],
+  'local-politician': [
+    { id: 'connections', check: (d) => !!(d.related || d.donors || d.opposes) },
   ],
   donor: [
     { id: 'politicians-funded', check: (d) => !!d['politicians-funded'] },
@@ -232,8 +294,10 @@ function diagnoseDataCompleteFailures(data, content, sourceTypes, tier1Count) {
   if (EDITORIAL_TYPES.includes(data.type)) return failures;
   if (!PUBLISHABLE_TYPES.has(data.type)) return failures;
 
-  // 1. Type-specific auto-sections
-  const typeReqs = TYPE_REQUIREMENTS[data.type] || [];
+  // 1. Type-specific auto-sections (Session K: politician type branches on chamber)
+  const typeReqs = data.type === 'politician'
+    ? getPoliticianRequirements(data)
+    : (TYPE_REQUIREMENTS[data.type] || []);
   const naItems = (data['checklist-na'] || []);
   const isNa = (id) => naItems.some(n => typeof n === 'string' && n.startsWith(`${id}:`));
   for (const req of typeReqs) {
@@ -357,8 +421,10 @@ function classifyProfile(data, body, content, sourceTypes, tier1Count) {
     daysSinceEnriched = (Date.now() - new Date(lastEnriched).getTime()) / (24 * 60 * 60 * 1000);
   }
 
-  // Type-specific requirements for A+
-  const typeReqs = TYPE_REQUIREMENTS[data.type] || [];
+  // Type-specific requirements for A+ (Session K: politician branches by chamber)
+  const typeReqs = data.type === 'politician'
+    ? getPoliticianRequirements(data)
+    : (TYPE_REQUIREMENTS[data.type] || []);
   const typeReqsMet = typeReqs.every(req => isNa(req.id) || req.check(data, content));
   const minSourceTypes = ['media-profile', 'think-tank'].includes(data.type) ? 1 : 2;
 

@@ -1,7 +1,7 @@
 ---
 title: Greg Abbott
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: "Abbott is the vault's clearest example of a fossil fuel governor , a politician whose donor base, policy agenda, and governing philosophy are dominated by a single industry. Of content-readiness: ready66 million raised across his career, approximately $30 million (18%)..."
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -15,13 +15,13 @@ issues:
   - Energy & Climate
 top-donors: "[[Timothy Mellon]], [[Koch Network - Charles Koch]], [[Kelcy Warren]], [[Kelcy Warren - Energy Transfer Partners]]"
 known-gaps:
-  - No FEC contribution data
-  - No legislative record from Congress.gov
-  - No voting record data
-  - No mapped relationships
+  - "No FEC contribution data"
+  - "No voting record data"
 related: "[[_Donald Trump Master Profile]] · [[Timothy Mellon]] · [[_Chad Bianco Master Profile]] · [[Koch Network - Charles Koch]] · [[GEO Group]] · [[CoreCivic]] · [[Fossil Fuel Bloc]] · [[Immigration Enforcement - The Detention Economy]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[DAPL Survives Both Parties - The Bipartisan Fossil Fuel Consensus]] · [[Timothy Mellon Funds Trump and RFK Jr Simultaneously]]"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-20
+source-types:
+  - Congress
 ---
 
 

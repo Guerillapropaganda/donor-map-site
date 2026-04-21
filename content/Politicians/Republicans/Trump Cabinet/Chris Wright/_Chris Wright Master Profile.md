@@ -1,7 +1,7 @@
 ---
 title: Chris Wright
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: Chris Wright is regulatory capture without the middleman. Previous Energy Secretaries were politicians who served fossil fuel interests from a distance , Rick Perry, Ernest Moniz, Jennifer Granholm all maintained the fiction of separation between ...
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
@@ -14,16 +14,16 @@ top-donors: "[[Koch Network - Charles Koch]]"
 total-received: $10,625
 fec-candidate-id: H4NY16095
 source-types:
+  - Congress
   - FEC
 known-gaps:
-  - No legislative record from Congress.gov
-  - No voting record data
-  - No mapped relationships
+  - "No voting record data"
 related: "[[_Donald Trump Master Profile]] · [[Koch Network - Charles Koch]]"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-20
 total-raised: "$11K"
 career-total-source: "FEC weball summary (cycles 2024)"
+corroboration-count: 2
 ---
 
 

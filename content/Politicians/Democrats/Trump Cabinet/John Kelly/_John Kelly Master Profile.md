@@ -1,15 +1,15 @@
 ---
 title: "John Kelly"
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 last-updated: 2026-04-15
 source-tier: 1
 party: "Democrat"
 chamber: "Secretary of Homeland Security / Chief of Staff"
 known-gaps:
+  - "No legislative record from Congress.gov"
   - "No voting record data"
 source-types:
-  - Congress
   - FEC
 donors: "[[CA Farm Bureau Federation]]"
 urls-first-triaged: "2026-04-15"

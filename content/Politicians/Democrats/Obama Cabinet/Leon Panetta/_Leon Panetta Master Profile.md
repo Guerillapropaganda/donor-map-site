@@ -2,7 +2,7 @@
 title: "Leon Panetta"
 type: politician
 bioguide-id: P000047
-content-readiness: ready
+content-readiness: data-complete
 last-updated: 2026-04-15
 source-tier: 1
 party: "Democrat"

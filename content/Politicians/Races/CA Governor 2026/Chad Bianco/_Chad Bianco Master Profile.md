@@ -1,7 +1,7 @@
 ---
 title: Chad Bianco
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: "Bianco represents a different species than the donor-class Democrat. He is the authoritarian-right sheriff: a constitutional sheriff movement adherent who believes the county sheriff's authority supersedes federal and state government, a former Oa..."
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -21,6 +21,7 @@ donors: "[[IBEW Local 477 - San Bernardino]] Â· [[IBEW Local 440 - Riverside]] Â
 urls-first-triaged: "2026-04-15"
 source-types:
   - Congress
+
 ---
 
 

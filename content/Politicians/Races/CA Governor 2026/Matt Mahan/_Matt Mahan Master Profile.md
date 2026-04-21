@@ -1,7 +1,7 @@
 ---
 title: Matt Mahan
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: Matt Mahan is the Silicon Valley donor class's preferred candidate for California governor. His campaign is not funded by tech billionaires because he happens to be from San Jose , it's funded by tech billionaires because his policy platform serve...
 last-updated: 2026-04-09T00:00:00.000Z
 source-tier: 1

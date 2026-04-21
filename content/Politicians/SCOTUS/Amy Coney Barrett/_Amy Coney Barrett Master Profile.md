@@ -1,7 +1,7 @@
 ---
 title: Amy Coney Barrett
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: Amy Coney Barrett's confirmation is the culmination of a 30-year project to capture the Supreme Court through dark money. Leonard Leo built the Federalist Society pipeline that selected every conservative justice since Roberts. The $22 million JCN...
 last-updated: 2026-04-08T00:00:00.000Z
 source-tier: 1
@@ -16,6 +16,7 @@ source-types:
   - Congress
 known-gaps:
   - "No FEC contribution data"
+  - "No legislative record from Congress.gov"
   - "No voting record data"
 related: "[[_Brett Kavanaugh Master Profile]] · [[_Samuel Alito Master Profile]] · [[_Clarence Thomas Master Profile]] · [[Leonard Leo]] · [[_Mitch McConnell Master Profile]]"
 urls-first-triaged: "2026-04-15"

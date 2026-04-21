@@ -1,7 +1,7 @@
 ---
 title: Condoleezza Rice
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: Condoleezza Rice exemplifies the academic-military-industrial revolving door. Her Stanford provost credentials and intellectual framing ('mushroom cloud' rhetoric, democracy promotion doctrine) provided moral cover for the Iraq War , the most cons...
 last-updated: 2026-04-09T00:00:00.000Z
 source-tier: 1
@@ -11,9 +11,9 @@ chamber: Cabinet
 top-donors: "[[Chevron]], [[Hoover Institution]]"
 fec-candidate-id: P80002868
 source-types:
-  - Congress
   - FEC
 known-gaps:
+  - "No legislative record from Congress.gov"
   - "No voting record data"
 last-enriched: "2026-04-09"
 related: "[[George W Bush]] · [[Dick Cheney]] · [[Chevron]] · [[Hoover Institution]] · [[Lockheed Martin]] · [[Defense & Intelligence/Defense Contractors]] · [[Iraq War Coalition]]"

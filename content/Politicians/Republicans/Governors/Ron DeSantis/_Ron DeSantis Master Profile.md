@@ -2,7 +2,7 @@
 title: Ron DeSantis
 type: politician
 bioguide-id: D000621
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: DeSantis is the donor class's backup plan. When Trump became criminally indicted and legally toxic heading into 2024, billionaires like Ken Griffin ($5M+ to DeSantis's 2022 reelection), the Koch network, and Club for Growth-aligned donors rallied ...
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
@@ -20,11 +20,10 @@ top-donors:
 total-received: $375,129
 fec-candidate-id: P40013039
 source-types:
-  - FEC
+  - Congress
 known-gaps:
-  - No legislative record from Congress.gov
-  - No voting record data
-  - No mapped relationships
+  - "No FEC contribution data"
+  - "No voting record data"
 executive-actions: 25
 last-enriched: "2026-04-10"
 opposes: "[[SFA FUND, INC]] · [[MAKE AMERICA GREAT AGAIN INC.]]"

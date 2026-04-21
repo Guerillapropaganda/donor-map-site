@@ -1,7 +1,7 @@
 ---
 title: Scott Bessent
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: "Scott Bessent proves the donor class has no party , only interests. He spent 13 years managing George Soros's money, helped break the Bank of England for content-readiness: draft billion profit, launched his own fund with $2 billion of Soros's capital, then pivoted to ..."
 last-updated: 2026-04-09T00:00:00.000Z
 source-tier: 1
