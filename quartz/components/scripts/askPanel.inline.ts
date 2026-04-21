@@ -39,6 +39,22 @@ interface AskResponse {
     note?: string
     legal_shield?: boolean
   }>
+  breakdown_a?: Array<{
+    label: string
+    value: string
+    numeric?: number
+    citation?: string
+    note?: string
+    legal_shield?: boolean
+  }>
+  breakdown_b?: Array<{
+    label: string
+    value: string
+    numeric?: number
+    citation?: string
+    note?: string
+    legal_shield?: boolean
+  }>
   visual_flow?: string
   is_this_legal?: string
   why_matters?: string
@@ -350,6 +366,40 @@ function initAskPanel() {
           <div class="ask-compare-value-cell">${renderAndGloss(String(row.b))}</div>
         </div>`)
       })
+      // ADR-0016 side-by-side breakdowns aligned to the compare grid.
+      const la = r.breakdown_a || []
+      const lb = r.breakdown_b || []
+      if (la.length > 0 || lb.length > 0) {
+        const labels: string[] = []
+        const seen = new Set<string>()
+        for (const x of la) if (!seen.has(x.label)) { seen.add(x.label); labels.push(x.label) }
+        for (const x of lb) if (!seen.has(x.label)) { seen.add(x.label); labels.push(x.label) }
+        blocks.push(`<div class="ask-compare-breakdown">
+          <div class="ask-compare-head-row ask-compare-breakdown-head">
+            <div class="ask-compare-metric-cell">Breakdown</div>
+            <div class="ask-compare-entity-cell">${esc(String(r.resolved_title || ""))}</div>
+            <div class="ask-compare-entity-cell">${esc(String(r.resolved_title_2 || ""))}</div>
+          </div>`)
+        labels.forEach((label, i) => {
+          const rowA = la.find((x) => x.label === label)
+          const rowB = lb.find((x) => x.label === label)
+          const shield = rowA?.legal_shield || rowB?.legal_shield
+          const bgClass = i % 2 === 0 ? "ask-compare-row-even" : "ask-compare-row-odd"
+          const shieldClass = shield ? " ask-compare-row--shield" : ""
+          const cellA = rowA
+            ? `${renderAndGloss(rowA.value)}${rowA.citation ? ` <span class="ask-breakdown-cite">[${esc(rowA.citation)}]</span>` : ""}${rowA.note ? `<div class="ask-breakdown-note">${renderAndGloss(rowA.note)}</div>` : ""}`
+            : "—"
+          const cellB = rowB
+            ? `${renderAndGloss(rowB.value)}${rowB.citation ? ` <span class="ask-breakdown-cite">[${esc(rowB.citation)}]</span>` : ""}${rowB.note ? `<div class="ask-breakdown-note">${renderAndGloss(rowB.note)}</div>` : ""}`
+            : "—"
+          blocks.push(`<div class="ask-compare-row ${bgClass}${shieldClass}">
+            <div class="ask-compare-metric-label">${esc(label)}</div>
+            <div class="ask-compare-value-cell">${cellA}</div>
+            <div class="ask-compare-value-cell">${cellB}</div>
+          </div>`)
+        })
+        blocks.push(`</div>`)
+      }
       blocks.push(`</div>`)
     }
 

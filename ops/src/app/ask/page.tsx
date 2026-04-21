@@ -107,6 +107,22 @@ interface AskResponse {
     note?: string
     legal_shield?: boolean
   }>
+  breakdown_a?: Array<{
+    label: string
+    value: string
+    numeric?: number
+    citation?: string
+    note?: string
+    legal_shield?: boolean
+  }>
+  breakdown_b?: Array<{
+    label: string
+    value: string
+    numeric?: number
+    citation?: string
+    note?: string
+    legal_shield?: boolean
+  }>
 }
 
 // Glossary: terms we automatically decorate with hover tooltips.
@@ -726,6 +742,38 @@ function ResultCard({ r, onFollowUp }: { r: AskResponse; onFollowUp: (q: string)
               <div style={styles.compareValueCell}>{renderRichText(String(row.b))}</div>
             </div>
           ))}
+          {(r.breakdown_a && r.breakdown_a.length > 0) || (r.breakdown_b && r.breakdown_b.length > 0) ? (
+            <div style={styles.compareBreakdownWrap}>
+              <div style={styles.compareBreakdownHeadRow}>
+                <div style={styles.compareMetricCell}>Breakdown</div>
+                <div style={styles.compareEntityCell}>{r.resolved_title}</div>
+                <div style={styles.compareEntityCell}>{r.resolved_title_2}</div>
+              </div>
+              {(() => {
+                const la = r.breakdown_a || []
+                const lb = r.breakdown_b || []
+                const labels = Array.from(new Set([...la.map((x) => x.label), ...lb.map((x) => x.label)]))
+                return labels.map((label, i) => {
+                  const rowA = la.find((x) => x.label === label)
+                  const rowB = lb.find((x) => x.label === label)
+                  const shield = rowA?.legal_shield || rowB?.legal_shield
+                  return (
+                    <div key={i} style={{ ...styles.compareRow, ...(shield ? styles.compareRowShield : {}), background: i % 2 === 0 ? "#0f0f0f" : "#141414" }}>
+                      <div style={styles.compareMetricLabel}>{label}</div>
+                      <div style={styles.compareValueCell}>
+                        {rowA ? <>{renderRichText(rowA.value)}{rowA.citation && <span style={styles.breakdownCite}> [{rowA.citation}]</span>}</> : "—"}
+                        {rowA?.note && <div style={styles.breakdownNote}>{renderRichText(rowA.note)}</div>}
+                      </div>
+                      <div style={styles.compareValueCell}>
+                        {rowB ? <>{renderRichText(rowB.value)}{rowB.citation && <span style={styles.breakdownCite}> [{rowB.citation}]</span>}</> : "—"}
+                        {rowB?.note && <div style={styles.breakdownNote}>{renderRichText(rowB.note)}</div>}
+                      </div>
+                    </div>
+                  )
+                })
+              })()}
+            </div>
+          ) : null}
         </div>
       )}
 
@@ -902,6 +950,9 @@ const styles: Record<string, React.CSSProperties> = {
   breakdownValue: { fontSize: 15, color: "#eee", fontFamily: "'Space Mono', monospace", fontWeight: 600 },
   breakdownCite: { fontSize: 11, color: "#666", fontWeight: 400, marginLeft: 4 },
   breakdownNote: { fontSize: 13, color: "#aaa", marginTop: 4, fontStyle: "italic" as const, lineHeight: 1.45 },
+  compareBreakdownWrap: { marginTop: 14, borderTop: "1px solid #222", paddingTop: 10 },
+  compareBreakdownHeadRow: { display: "grid", gridTemplateColumns: "200px 1fr 1fr", borderBottom: "2px solid #60a5fa", borderTop: "1px solid #222", background: "#0a0f1a" },
+  compareRowShield: { borderLeft: "3px solid #fbbf24", background: "rgba(251, 191, 36, 0.06)" },
   bullets: { margin: "6px 0 12px 0", padding: "0 0 0 20px", color: "#ddd" },
   bulletItem: { fontSize: 14, lineHeight: 1.55, marginBottom: 4 },
   resolved: { fontSize: 12, color: "#888", marginBottom: 4 },

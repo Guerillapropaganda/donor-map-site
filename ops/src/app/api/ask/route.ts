@@ -91,6 +91,9 @@ interface AskResult {
   // IE attack) so no single headline number is miscitable as "total."
   // Rendered as a table/list below the answer prose.
   breakdown?: BreakdownRow[]
+  // Compare intent: side-by-side breakdowns, one per entity.
+  breakdown_a?: BreakdownRow[]
+  breakdown_b?: BreakdownRow[]
 }
 
 interface BreakdownRow {
@@ -2284,10 +2287,32 @@ async function handleCompare(c: ClassifiedQuestion, question: string, engine: an
       topDonors,
       topRecipients,
       boards,
+      // Raw edges retained so ADR-0016 breakdown can reuse them without a
+      // second engine roundtrip.
+      _supportInflows: inflows,
+      _oppoInflows: oppo,
+      _outflows: outflows.rows || [],
     }
   }
 
   const [dataA, dataB] = await Promise.all([fetchSide(a), fetchSide(b)])
+
+  // ADR-0016 labeled breakdown per side. Direction depends on structural
+  // role — politicians/dark-money/DAFs read inflow-first; super-PACs
+  // read outflow-first. Matches handleSummary's dispatch.
+  function breakdownForSide(sideName: string, sideEnt: any, inflowsRaw: any[], oppo: any[], outflows: any[]): BreakdownRow[] {
+    const role = entityStructuralRole(sideEnt, sideName)
+    const dir: "inflow" | "outflow" = role === "super-pac" ? "outflow" : "inflow"
+    return computeBreakdown({
+      name: sideName,
+      ent: sideEnt,
+      inflows: inflowsRaw,
+      oppoInflows: oppo,
+      outflows: outflows,
+      ieSupportOut: outflows.filter((e: any) => e.role === "ie-support"),
+      ieOpposeOut: outflows.filter((e: any) => e.role === "ie-oppose"),
+    }, dir)
+  }
 
   // Build the side-by-side rows. Each row is { metric, a, b } keyed for
   // the UI's comparison table renderer.
@@ -2408,6 +2433,9 @@ async function handleCompare(c: ClassifiedQuestion, question: string, engine: an
 
   const context = [explainEntity(a), explainEntity(b)]
 
+  const breakdown_a = breakdownForSide(a, entA, dataA._supportInflows, dataA._oppoInflows, dataA._outflows)
+  const breakdown_b = breakdownForSide(b, entB, dataB._supportInflows, dataB._oppoInflows, dataB._outflows)
+
   return {
     question,
     intent: "compare",
@@ -2420,6 +2448,8 @@ async function handleCompare(c: ClassifiedQuestion, question: string, engine: an
     plain_english,
     why_matters,
     summary,
+    breakdown_a,
+    breakdown_b,
     // Make sure the UI knows to render this as a comparison table
     // rather than the default key/value dump. The page will branch on
     // intent === "compare" to pick the right renderer.
@@ -2636,7 +2666,50 @@ async function handleLeaderboard(c: ClassifiedQuestion, question: string, _engin
     }
   }
 
-  return { question, intent: "leaderboard", total: rows.length, rows, answer, bullets, summary, plain_english, is_this_legal, why_matters }
+  // ADR-0016: decompose every row into a labeled breakdown so no single
+  // column (positive_spend / total) can be miscited as "the" number.
+  // Attach per-row; the renderer can expand on demand. Also surface the
+  // #1 entity's breakdown at the card level so readers see the headline
+  // decomposed up front.
+  function rowBreakdown(r: any): BreakdownRow[] {
+    const out: BreakdownRow[] = []
+    const pos = (r.direct_donations || 0) + (r.ie_support || 0)
+    if (pos > 0) out.push({
+      label: "Positive spend (donations + IE support)",
+      value: fmtUsd(pos),
+      numeric: pos,
+      citation: "fec-pas2",
+    })
+    if (r.direct_donations > 0) out.push({
+      label: "Direct donations to candidates",
+      value: fmtUsd(r.direct_donations),
+      numeric: r.direct_donations,
+      citation: "fec-pas2",
+    })
+    if (r.ie_support > 0) out.push({
+      label: "IE support (ads FOR candidates)",
+      value: fmtUsd(r.ie_support),
+      numeric: r.ie_support,
+      citation: "fec-pas2",
+    })
+    if (r.ie_oppose > 0) out.push({
+      label: "Attack spend (ads AGAINST candidates)",
+      value: fmtUsd(r.ie_oppose),
+      numeric: r.ie_oppose,
+      citation: "fec-pas2",
+      note: "Tracked separately from positive spend so the ranking isn't inflated by attack-ad operators.",
+    })
+    out.push({
+      label: "Tracked edges",
+      value: `${r.edges.toLocaleString()} edge${r.edges === 1 ? "" : "s"}${windowLabel}`,
+      numeric: r.edges,
+    })
+    return out
+  }
+  for (const r of rows) (r as any).breakdown = rowBreakdown(r)
+  const breakdown = rows.length > 0 ? rowBreakdown(rows[0]) : undefined
+
+  return { question, intent: "leaderboard", total: rows.length, rows, answer, bullets, summary, plain_english, is_this_legal, why_matters, breakdown }
 }
 
 async function handleMoneyChain(c: ClassifiedQuestion, question: string): Promise<AskResult> {

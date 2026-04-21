@@ -472,6 +472,18 @@
 }
 .ask-compare-row-even { background: #fffaf2; }
 .ask-compare-row-odd { background: #fff; }
+.ask-compare-row--shield {
+  border-left: 3px solid #fbbf24;
+  background: rgba(251, 191, 36, 0.08);
+}
+.ask-compare-breakdown {
+  border-top: 2px solid #1d4ed8;
+  margin-top: 4px;
+}
+.ask-compare-breakdown-head {
+  border-bottom: 2px solid #1d4ed8 !important;
+  background: #f0f5ff;
+}
 .ask-compare-metric-label {
   padding: 12px 14px;
   font-size: 11px;
