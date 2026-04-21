@@ -4,7 +4,7 @@ type: politician
 bioguide-id: T000486
 chamber: House
 party: Democrat
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: "Ritchie Torres represents the optimal donor-capture model for a Democrat with marginalized identity: recruit early, fund generously, shift positions gradually, claim the critic ('I didn't leave the progressive movement; it left me') rather than ac..."
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
@@ -34,6 +34,17 @@ bills-cosponsored: 1234
 bills-enacted: 0
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: Health
+committees:
+  - "Digital Assets, Financial Technology, and Artificial Intelligence"
+  - House Committee on Financial Services
+  - House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party
+  - Housing and Insurance
+  - "National Security, Illicit Finance, and International Financial Institutions"
+source-types:
+  - Congress
+known-gaps:
+  - "No FEC contribution data"
+  - "No voting record data"
 ---
 
 

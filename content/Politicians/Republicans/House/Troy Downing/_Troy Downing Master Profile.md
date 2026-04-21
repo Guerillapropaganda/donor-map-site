@@ -25,6 +25,14 @@ urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4MT02098
 top-donors: "[[Citigroup]], [[National Association of Realtors]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Darrell Issa]], [[MAJORITY PAC]], [[Honeywell]], [[National Cattlemen's Beef Association]], [[WinRed]], [[NextEra Energy]], [[Jim Jordan]], [[Northrop Grumman]], [[Morgan Stanley]], [[American Hospital Association PAC]], [[Defending Main Street Superpac INC]], [[National Rifle Association]], [[National Multifamily Housing Council]], [[CVS Health - Aetna]], [[Associated General Contractors of America Political Action Committee]], [[AIPAC - American Israel Public Affairs Committee]], [[National Restaurant Association]], [[Lockheed Martin]], [[Jake Ellzey]], [[Defend American Jobs]], [[Bank of America]], [[Chevron]], [[Charles Schwab]], [[Coinbase]], [[Blackstone Group]], [[Apple]], [[Elliott Management]], [[Apollo Global Management]], [[HBW Resources]], [[Raytheon (RTX Corporation)]], [[Majority PAC]], [[Honeywell International]]"
 last-enriched: 2026-04-21
+committees:
+  - Capital Markets
+  - "Digital Assets, Financial Technology, and Artificial Intelligence"
+  - House Committee on Financial Services
+  - House Committee on Small Business
+  - Housing and Insurance
+  - "Innovation, Entrepreneurship, and Workforce Development"
+  - "Oversight, Investigations, and Regulations"
 ---
 
 

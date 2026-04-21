@@ -23,6 +23,14 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21
+committees:
+  - Economic Opportunity
+  - Health
+  - House Committee on Armed Services
+  - "House Committee on Veterans' Affairs"
+  - Intelligence and Special Operations
+  - Strategic Forces
+  - Tactical Air and Land Forces
 ---
 
 

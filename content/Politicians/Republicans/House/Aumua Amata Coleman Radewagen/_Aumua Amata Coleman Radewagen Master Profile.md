@@ -27,6 +27,16 @@ bills-cosponsored: 174
 bills-enacted: 0
 top-policy-area: "International Affairs"
 last-enriched: 2026-04-21
+committees:
+  - Africa
+  - Disability Assistance and Memorial Affairs
+  - East Asia and Pacific
+  - House Committee on Foreign Affairs
+  - House Committee on Natural Resources
+  - "House Committee on Veterans' Affairs"
+  - Indian and Insular Affairs
+  - Oversight and Investigations
+  - "Water, Wildlife and Fisheries"
 ---
 
 

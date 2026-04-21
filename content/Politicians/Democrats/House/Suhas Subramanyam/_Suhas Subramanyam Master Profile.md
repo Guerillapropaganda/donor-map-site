@@ -25,6 +25,15 @@ urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4VA10279
 top-donors: "[[General Dynamics]], [[League of Conservation Voters]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Microsoft]], [[Lockheed Martin]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Sierra Club Political Committee]], [[SEIU COPE]], [[American Federation of State County & Municipal Employees P E O P L E]], [[L3Harris Technologies]], [[Pete Aguilar]], [[Walmart - Walton Family]], [[Robert Garcia]], [[Medicare for All - The Policy That Broke the Party]], [[Protect Progress]], [[AIPAC - American Israel Public Affairs Committee]], [[National Committee to Preserve Social Security PAC]], [[Sierra Club Independent Action]], [[National Association of Realtors]], [[Nancy Pelosi]], [[Northrop Grumman]], [[UA Political Action Committee]], [[Judy Chu]], [[NEA Fund for Children and Public Education]], [[Comcast - NBCUniversal]], [[Leidos]], [[DCCC - Democratic Congressional Campaign Committee]], [[Mark Takano]], [[Raytheon (RTX)]], [[IBEW - International Brotherhood of Electrical Workers]], [[American Hospital Association PAC]], [[American Federation of State County & Municipal Employees  P E O P L E]]"
 last-enriched: 2026-04-21
+committees:
+  - "Cybersecurity, Information Technology, and Government Innovation"
+  - Delivering on Government Efficiency
+  - Energy
+  - House Committee on Ethics
+  - House Committee on Oversight and Government Reform
+  - "House Committee on Science, Space, and Technology"
+  - Military and Foreign Affairs
+  - Research and Technology
 ---
 
 

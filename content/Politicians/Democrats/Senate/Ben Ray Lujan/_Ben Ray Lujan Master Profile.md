@@ -26,6 +26,22 @@ bills-cosponsored: 450
 bills-enacted: 0
 top-policy-area: "Health"
 last-enriched: 2026-04-21
+committees:
+  - "Conservation, Forestry, Natural Resources, and Biotechnology"
+  - "Consumer Protection, Technology, and Data Privacy"
+  - "Energy, Natural Resources, and Infrastructure"
+  - "Food and Nutrition, Specialty Crops, Organics, and Research"
+  - Health Care
+  - "Rural Development, Energy, and Credit"
+  - "Senate Committee on Agriculture, Nutrition, and Forestry"
+  - "Senate Committee on Commerce, Science, and Transportation"
+  - Senate Committee on Finance
+  - Senate Committee on Indian Affairs
+  - Senate Committee on the Budget
+  - "Surface Transportation, Freight, Pipelines, and Safety"
+  - Taxation and IRS Oversight
+  - Telecommunications and Media
+  - United States Senate Caucus on International Narcotics Control
 ---
 
 

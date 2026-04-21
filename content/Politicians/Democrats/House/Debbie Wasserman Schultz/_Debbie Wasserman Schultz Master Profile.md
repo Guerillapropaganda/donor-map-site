@@ -2,7 +2,7 @@
 title: Debbie Wasserman Schultz
 type: politician
 bioguide-id: W000797
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: Wasserman Schultz is the Both-Sides Illusion made flesh. She is a Democrat funded by the same sugar PACs and Israel lobby money that funds the Republican Cuba hawks. Her presence in the sugar-defense-Israel coalition proves that the embargo , and ...
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
@@ -43,6 +43,17 @@ bills-sponsored: 35
 bills-cosponsored: 465
 bills-enacted: 0
 top-policy-area: Health
+committees:
+  - "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies"
+  - Energy and Water Development and Related Agencies
+  - House Committee on Appropriations
+  - "Military Construction, Veterans Affairs, and Related Agencies"
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No voting record data"
 ---
 
 

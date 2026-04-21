@@ -27,6 +27,14 @@ bills-cosponsored: 405
 bills-enacted: 0
 top-policy-area: "International Affairs"
 last-enriched: 2026-04-21
+committees:
+  - "Commerce, Manufacturing, and Trade"
+  - Communications and Technology
+  - Health
+  - House Committee on Energy and Commerce
+  - House Committee on Foreign Affairs
+  - Middle East and North Africa
+  - South and Central Asia
 ---
 
 

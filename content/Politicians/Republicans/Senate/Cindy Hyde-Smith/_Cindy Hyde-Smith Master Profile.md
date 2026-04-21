@@ -31,6 +31,23 @@ bills-cosponsored: 404
 bills-enacted: 0
 top-policy-area: Health
 last-enriched: 2026-04-20
+committees:
+  - "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies"
+  - "Commodities, Derivatives, Risk Management, and Trade"
+  - "Conservation, Forestry, Natural Resources, and Biotechnology"
+  - Department of Homeland Security
+  - "Departments of Labor, Health and Human Services, and Education, and Related Agencies"
+  - Energy
+  - Energy and Water Development
+  - Joint Committee of Congress on the Library
+  - "Livestock, Dairy, Poultry, and Food Safety"
+  - "Military Construction, Veterans Affairs, and Related Agencies"
+  - "Public Lands, Forests, and Mining"
+  - "Senate Committee on Agriculture, Nutrition, and Forestry"
+  - Senate Committee on Appropriations
+  - Senate Committee on Energy and Natural Resources
+  - Senate Committee on Rules and Administration
+  - "Transportation, Housing and Urban Development, and Related Agencies"
 ---
 
 

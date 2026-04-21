@@ -31,6 +31,14 @@ bills-enacted: 0
 top-policy-area: International Affairs
 top-donors: "[[SEIU COPE]], [[Sierra Club Independent Action]], [[Citigroup]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[IBEW - International Brotherhood of Electrical Workers]], [[Anthem - Elevance Health]], [[National Multifamily Housing Council]], [[Bank of America]], [[Northrop Grumman]], [[Raytheon (RTX)]], [[NORPAC]], [[Lockheed Martin]], [[General Motors]], [[National Rental Home Council]], [[Courage California Super Pac]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AT&T - WarnerMedia]], [[NEA Fund for Children and Public Education]], [[Honeywell]], [[UA Political Action Committee]], [[AIPAC - American Israel Public Affairs Committee]], [[CTA - California Teachers Association]], [[DMFI - Democratic Majority for Israel]], [[Comcast - NBCUniversal]], [[National Association of Realtors]], [[Morgan Stanley]], [[American Hospital Association PAC]], [[L3Harris Technologies]], [[National Nurses United]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Planned Parenthood Votes]], [[Ted Lieu]], [[Sierra Club Political Committee]], [[Medicare for All - The Policy That Broke the Party]], [[Google - Alphabet]], [[Progressive Turnout Project]], [[Honeywell International]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[AT&T]]"
 last-enriched: 2026-04-20
+committees:
+  - Capital Markets
+  - "Digital Assets, Financial Technology, and Artificial Intelligence"
+  - East Asia and Pacific
+  - Financial Institutions
+  - House Committee on Financial Services
+  - House Committee on Foreign Affairs
+  - Middle East and North Africa
 ---
 
 

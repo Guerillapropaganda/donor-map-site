@@ -26,6 +26,19 @@ bills-cosponsored: 406
 bills-enacted: 0
 top-policy-area: "Finance and Financial Sector"
 last-enriched: 2026-04-21
+committees:
+  - "Clean Air, Climate, and Nuclear Innovation and Safety"
+  - "Consumer Protection, Technology, and Data Privacy"
+  - Digital Assets
+  - Financial Institutions and Consumer Protection
+  - "Fisheries, Wildlife, and Water"
+  - "Science, Manufacturing, and Competitiveness"
+  - "Securities, Insurance, and Investment"
+  - "Senate Committee on Banking, Housing, and Urban Affairs"
+  - "Senate Committee on Commerce, Science, and Transportation"
+  - Senate Committee on Environment and Public Works
+  - Telecommunications and Media
+  - Transportation and Infrastructure
 ---
 
 

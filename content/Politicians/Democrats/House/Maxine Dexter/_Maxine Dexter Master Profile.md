@@ -25,6 +25,13 @@ urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4OR03192
 top-donors: "[[SEIU COPE]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Pete Aguilar]], [[NEA Fund for Children and Public Education]], [[American College of Radiology Association PAC]], [[League of Conservation Voters]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Teamsters - International Brotherhood of Teamsters]], [[Emily's List]], [[Anthem - Elevance Health]], [[UA Political Action Committee]], [[National Association of Realtors]], [[Care Action]], [[314 ACTION FUND]], [[NextEra Energy]], [[American Hospital Association PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Working Families Party PAC]], [[Everytown for Gun Safety]], [[IBEW - International Brotherhood of Electrical Workers]], [[Medicare for All - The Policy That Broke the Party]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[314 Action Fund]]"
 last-enriched: 2026-04-21
+committees:
+  - Disability Assistance and Memorial Affairs
+  - Federal Lands
+  - Health
+  - House Committee on Natural Resources
+  - "House Committee on Veterans' Affairs"
+  - Oversight and Investigations
 ---
 
 

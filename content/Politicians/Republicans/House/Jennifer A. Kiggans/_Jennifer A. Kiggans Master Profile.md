@@ -27,6 +27,17 @@ bills-cosponsored: 299
 bills-enacted: 1
 top-policy-area: "Armed Forces and National Security"
 last-enriched: 2026-04-21
+committees:
+  - "Cyber, Information Technologies, and Innovation"
+  - Energy and Mineral Resources
+  - Health
+  - House Committee on Armed Services
+  - House Committee on Natural Resources
+  - "House Committee on Veterans' Affairs"
+  - Military Personnel
+  - Oversight and Investigations
+  - Seapower and Projection Forces
+  - "Water, Wildlife and Fisheries"
 ---
 
 

@@ -25,6 +25,13 @@ urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4MI08218
 top-donors: "[[IBEW - International Brotherhood of Electrical Workers]], [[McDonalds Corporation]], [[Giffords PAC]], [[Edf Action Votes]], [[AFL-CIO]], [[L3Harris Technologies]], [[Diana Degette]], [[NEA Fund for Children and Public Education]], [[America PAC - Elon Musk]], [[Let America Vote PAC]], [[Hmp]], [[General Motors]], [[NRCC - National Republican Congressional Committee]], [[National Committee to Preserve Social Security PAC]], [[National Association of Realtors]], [[Microsoft]], [[Jason Crow]], [[Leidos]], [[Humana]], [[League of Conservation Voters]], [[Nancy Pelosi]], [[CHC BOLD PAC]], [[Joe Neguse]], [[DCCC - Democratic Congressional Campaign Committee]], [[American Federation of State County & Municipal Employees P E O P L E]], [[J Street]], [[Progressive Turnout Project]], [[American Hospital Association PAC]], [[SEIU COPE]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Pete Aguilar]], [[DMFI - Democratic Majority for Israel]], [[National Restaurant Association]], [[Veronica Escobar]], [[Emily's List]], [[Google - Alphabet]], [[Julia Brownley]], [[AT&T - WarnerMedia]], [[Mark Kelly]], [[Amgen Inc]], [[Judy Chu]], [[Robert Garcia]], [[Pfizer Inc.]], [[Anthem - Elevance Health]], [[Congressional Leadership Fund]], [[UA Political Action Committee]], [[Planned Parenthood Action Fund INC]], [[Paul Tonko]], [[National Multifamily Housing Council]], [[Mike Thompson]], [[Teamsters - International Brotherhood of Teamsters]], [[General Dynamics]], [[Ford Motor Company]], [[Walmart - Walton Family]], [[Coinbase]], [[Unite Here Tip Campaign Committee]], [[Shontel Brown]], [[Honeywell]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[CVS Health - Aetna]], [[Everytown for Gun Safety]], [[Ted Lieu]], [[NextEra Energy]], [[National Wildlife Federation Action Fund]], [[Chrissy Houlahan]], [[Tyson Foods]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[HMP]], [[Honeywell International]], [[AT&T]]"
 last-enriched: 2026-04-21
+committees:
+  - "Commodity Markets, Digital Assets, and Rural Development"
+  - "Economic Development, Public Buildings, and Emergency Management"
+  - "General Farm Commodities, Risk Management, and Credit"
+  - Highways and Transit
+  - House Committee on Agriculture
+  - House Committee on Transportation and Infrastructure
 ---
 
 

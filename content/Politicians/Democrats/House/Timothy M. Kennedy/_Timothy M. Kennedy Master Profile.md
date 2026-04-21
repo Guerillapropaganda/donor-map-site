@@ -27,6 +27,13 @@ bills-cosponsored: 196
 bills-enacted: 0
 top-policy-area: "Crime and Law Enforcement"
 last-enriched: 2026-04-21
+committees:
+  - Economic Opportunity
+  - Emergency Management and Technology
+  - House Committee on Homeland Security
+  - "House Committee on Veterans' Affairs"
+  - Oversight and Investigations
+  - Transportation and Maritime Security
 ---
 
 

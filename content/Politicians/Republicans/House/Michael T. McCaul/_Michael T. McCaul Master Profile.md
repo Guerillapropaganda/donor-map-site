@@ -27,6 +27,11 @@ bills-cosponsored: 232
 bills-enacted: 1
 top-policy-area: "International Affairs"
 last-enriched: 2026-04-21
+committees:
+  - East Asia and Pacific
+  - Europe
+  - House Committee on Foreign Affairs
+  - House Committee on Homeland Security
 ---
 
 

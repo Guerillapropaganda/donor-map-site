@@ -32,6 +32,20 @@ bills-enacted: 1
 top-policy-area: Health
 top-donors: "[[AT&T - WarnerMedia]], [[DoorDash]], [[Johnson & Johnson]], [[Associated General Contractors of America Political Action Committee]], [[Northrop Grumman]], [[McDonalds Corporation]], [[Pfizer Inc.]], [[WinRed]], [[Microsoft]], [[Amgen Inc]], [[Planned Parenthood Votes]], [[AbbVie]], [[Morgan Stanley]], [[General Motors]], [[American Hospital Association PAC]], [[General Dynamics]], [[National Victory Action Fund]], [[Gilead Sciences]], [[Puget Sound Energy INC PAC for Good Government]], [[Performance Racing Inc.]], [[National Multifamily Housing Council]], [[Citigroup]], [[Humana]], [[Walmart - Walton Family]], [[iHeartMedia]], [[Occidental Petroleum]], [[Lockheed Martin]], [[Marathon Petroleum]], [[National Association of Realtors]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Wildlife Federation Action Fund]], [[Valero Energy]], [[Raytheon (RTX)]], [[NRSC - National Republican Senatorial Committee]], [[Bank of America]], [[CoreCivic - Private Prisons]], [[Common Sense for America PAC]], [[PG&E - Pacific Gas and Electric]], [[Coinbase]], [[ConocoPhillips]], [[Really American Pac]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Anthem - Elevance Health]], [[NextEra Energy]], [[CVS Health - Aetna]], [[Drummond Co.]], [[Google - Alphabet]], [[Comcast - NBCUniversal]], [[Tzedek PAC]], [[BAE Systems]], [[Care Action]], [[Duke Energy]], [[AIPAC - American Israel Public Affairs Committee]], [[Honeywell]], [[Chevron]], [[AT&T]], [[Honeywell International]]"
 last-enriched: 2026-04-20
+committees:
+  - Africa and Global Health Policy
+  - "Energy, Natural Resources, and Infrastructure"
+  - Europe and Regional Security Cooperation
+  - Health Care
+  - "International Trade, Customs, and Global Competitiveness"
+  - National Parks
+  - "Near East, South Asia, Central Asia, and Counterterrorism"
+  - "Public Lands, Forests, and Mining"
+  - Senate Committee on Energy and Natural Resources
+  - Senate Committee on Finance
+  - Senate Committee on Foreign Relations
+  - Senate Committee on Indian Affairs
+  - Water and Power
 ---
 
 

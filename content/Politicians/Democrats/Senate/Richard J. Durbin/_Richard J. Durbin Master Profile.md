@@ -26,6 +26,19 @@ bills-cosponsored: 522
 bills-enacted: 2
 top-policy-area: "Crime and Law Enforcement"
 last-enriched: 2026-04-21
+committees:
+  - "Commodities, Derivatives, Risk Management, and Trade"
+  - Crime and Counterterrorism
+  - Department of Defense
+  - "Departments of Labor, Health and Human Services, and Education, and Related Agencies"
+  - Energy and Water Development
+  - Financial Services and General Government
+  - "Livestock, Dairy, Poultry, and Food Safety"
+  - "Senate Committee on Agriculture, Nutrition, and Forestry"
+  - Senate Committee on Appropriations
+  - Senate Committee on the Judiciary
+  - "State, Foreign Operations, and Related Programs"
+  - "Transportation, Housing and Urban Development, and Related Agencies"
 ---
 
 

@@ -27,6 +27,12 @@ bills-cosponsored: 422
 bills-enacted: 1
 top-policy-area: "Health"
 last-enriched: 2026-04-21
+committees:
+  - "Commerce, Manufacturing, and Trade"
+  - Communications and Technology
+  - Health
+  - House Committee on Energy and Commerce
+  - House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party
 ---
 
 

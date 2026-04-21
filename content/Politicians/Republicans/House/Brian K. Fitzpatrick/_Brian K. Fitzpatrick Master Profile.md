@@ -27,6 +27,13 @@ bills-cosponsored: 1286
 bills-enacted: 1
 top-policy-area: "Health"
 last-enriched: 2026-04-21
+committees:
+  - Central Intelligence Agency
+  - Health
+  - House Committee on Ways and Means
+  - House Permanent Select Committee on Intelligence
+  - Open Source Intelligence
+  - Tax
 ---
 
 

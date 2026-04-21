@@ -27,6 +27,14 @@ bills-cosponsored: 120
 bills-enacted: 1
 top-policy-area: "Government Operations and Politics"
 last-enriched: 2026-04-21
+committees:
+  - "Commerce, Justice, Science, and Related Agencies"
+  - Emergency Management and Technology
+  - House Committee on Appropriations
+  - House Committee on Homeland Security
+  - Legislative Branch
+  - "Oversight, Investigations, and Accountability"
+  - "Transportation, Housing and Urban Development, and Related Agencies"
 ---
 
 

@@ -27,6 +27,13 @@ bills-cosponsored: 540
 bills-enacted: 0
 top-policy-area: "Health"
 last-enriched: 2026-04-21
+committees:
+  - Africa
+  - "Commodity Markets, Digital Assets, and Rural Development"
+  - House Committee on Agriculture
+  - House Committee on Foreign Affairs
+  - Nutrition and Foreign Agriculture
+  - Western Hemisphere
 ---
 
 

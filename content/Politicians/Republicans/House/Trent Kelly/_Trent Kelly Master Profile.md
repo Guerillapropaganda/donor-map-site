@@ -27,6 +27,16 @@ bills-cosponsored: 220
 bills-enacted: 0
 top-policy-area: "Armed Forces and National Security"
 last-enriched: 2026-04-21
+committees:
+  - Central Intelligence Agency
+  - Forestry and Horticulture
+  - House Committee on Agriculture
+  - House Committee on Armed Services
+  - House Permanent Select Committee on Intelligence
+  - Intelligence and Special Operations
+  - "Livestock, Dairy, and Poultry"
+  - National Security Agency and Cyber
+  - Seapower and Projection Forces
 ---
 
 

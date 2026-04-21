@@ -29,6 +29,14 @@ bills-enacted: 1
 top-policy-area: Crime and Law Enforcement
 top-donors: "[[Chevron]], [[Ralph Norman]], [[WinRed]], [[American Chemistry Council, INC]], [[AIPAC - American Israel Public Affairs Committee]], [[AT&T - WarnerMedia]], [[National Rifle Association]], [[MAJORITY PAC]], [[Valero Energy]], [[Save America PAC]], [[National Association of Realtors]], [[Andy Harris]], [[General Dynamics]], [[Elbert Guillory's America]], [[L3Harris Technologies]], [[Jim Jordan]], [[Ben Cline]], [[Really American Pac]], [[Majority PAC]], [[AT&T]]"
 last-enriched: 2026-04-21
+committees:
+  - "Economic Growth, Energy Policy, and Regulatory Affairs"
+  - Federal Law Enforcement
+  - House Committee on Armed Services
+  - House Committee on Oversight and Government Reform
+  - "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
+  - Readiness
+  - Seapower and Projection Forces
 ---
 
 

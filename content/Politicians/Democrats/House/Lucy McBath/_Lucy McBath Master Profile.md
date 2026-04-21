@@ -27,6 +27,12 @@ bills-cosponsored: 322
 bills-enacted: 1
 top-policy-area: "Crime and Law Enforcement"
 last-enriched: 2026-04-21
+committees:
+  - Crime and Federal Government Surveillance
+  - "Health, Employment, Labor, and Pensions"
+  - Higher Education and Workforce Development
+  - House Committee on Education and Workforce
+  - House Committee on the Judiciary
 ---
 
 

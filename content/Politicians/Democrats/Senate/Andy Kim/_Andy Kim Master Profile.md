@@ -31,6 +31,22 @@ bills-cosponsored: 567
 bills-enacted: 1
 top-policy-area: Health
 last-enriched: 2026-04-20
+committees:
+  - "Aviation, Space, and Innovation"
+  - "Disaster Management, District of Columbia, and Census"
+  - Education and the American Family
+  - Financial Institutions and Consumer Protection
+  - National Security and International Trade and Finance
+  - Permanent Subcommittee on Investigations
+  - Primary Health and Retirement Security
+  - "Securities, Insurance, and Investment"
+  - "Senate Committee on Banking, Housing, and Urban Affairs"
+  - "Senate Committee on Commerce, Science, and Transportation"
+  - "Senate Committee on Health, Education, Labor, and Pensions"
+  - Senate Committee on Homeland Security and Governmental Affairs
+  - Senate Special Committee on Aging
+  - "Surface Transportation, Freight, Pipelines, and Safety"
+  - Telecommunications and Media
 ---
 
 

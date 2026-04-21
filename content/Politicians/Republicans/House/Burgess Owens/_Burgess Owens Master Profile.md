@@ -29,6 +29,15 @@ bills-enacted: 0
 top-policy-area: Education
 top-donors: "[[Women Speak Out Pac]], [[National Association of Realtors]], [[Walmart - Walton Family]], [[General Dynamics]], [[Tyson Foods]], [[Chevron]], [[Associated General Contractors of America Political Action Committee]], [[L3Harris Technologies]], [[American College of Radiology Association PAC]], [[WinRed]], [[Lockheed Martin]], [[National Rifle Association]], [[AIPAC - American Israel Public Affairs Committee]], [[Northrop Grumman]], [[AT&T - WarnerMedia]], [[Freedom's Defense Fund]], [[McDonalds Corporation]], [[MAJORITY PAC]], [[Elbert Guillory's America]], [[Tzedek PAC]], [[Jason Smith]], [[David Rouzer]], [[iHeartMedia]], [[National Cattlemen's Beef Association]], [[Jim Jordan]], [[Comcast - NBCUniversal]], [[AT&T]], [[Majority PAC]]"
 last-enriched: 2026-04-21
+committees:
+  - Aviation
+  - "Early Childhood, Elementary, and Secondary Education"
+  - "Health, Employment, Labor, and Pensions"
+  - Higher Education and Workforce Development
+  - Highways and Transit
+  - House Committee on Education and Workforce
+  - House Committee on Transportation and Infrastructure
+  - "Railroads, Pipelines, and Hazardous Materials"
 ---
 
 

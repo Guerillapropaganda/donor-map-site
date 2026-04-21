@@ -23,6 +23,18 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21
+committees:
+  - Aviation
+  - "Economic Development, Public Buildings, and Emergency Management"
+  - "Health, Employment, Labor, and Pensions"
+  - Higher Education and Workforce Development
+  - House Committee on Education and Workforce
+  - House Committee on Transportation and Infrastructure
+  - House Committee on the Judiciary
+  - "Immigration Integrity, Security, and Enforcement"
+  - Oversight
+  - The Constitution and Limited Government
+  - Water Resources and Environment
 ---
 
 

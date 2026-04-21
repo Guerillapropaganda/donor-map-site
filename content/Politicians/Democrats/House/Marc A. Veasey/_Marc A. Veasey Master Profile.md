@@ -27,6 +27,11 @@ bills-cosponsored: 403
 bills-enacted: 0
 top-policy-area: "Health"
 last-enriched: 2026-04-21
+committees:
+  - "Commerce, Manufacturing, and Trade"
+  - Energy
+  - Health
+  - House Committee on Energy and Commerce
 ---
 
 

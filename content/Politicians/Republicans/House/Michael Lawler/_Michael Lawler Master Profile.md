@@ -29,6 +29,13 @@ bills-enacted: 1
 top-policy-area: International Affairs
 top-donors: "[[Votevets]], [[Mark Green]], [[Pfizer Inc.]], [[Jim Jordan]], [[AT&T - WarnerMedia]], [[Duke Energy]], [[Honeywell]], [[Amgen Inc]], [[MAJORITY PAC]], [[Carlos Gimenez]], [[Indivisible Action]], [[Scott Franklin]], [[Planned Parenthood Votes]], [[Byron Donalds]], [[Google - Alphabet]], [[Mike Haridopolos]], [[NORPAC]], [[Austin Scott]], [[Citigroup]], [[Brad Knott]], [[National Association of Realtors]], [[American Hospital Association PAC]], [[Coinbase]], [[Hmp]], [[Jason Smith]], [[RNC - Republican National Committee]], [[Ron Estes]], [[Congressional Leadership Fund]], [[IBEW - International Brotherhood of Electrical Workers]], [[Activate America]], [[Teamsters - International Brotherhood of Teamsters]], [[David Rouzer]], [[Republican Jewish Coalition]], [[NRCC - National Republican Congressional Committee]], [[Marathon Petroleum]], [[Morgan Stanley]], [[Rick W. Allen]], [[Bank of America]], [[AbbVie]], [[AIPAC - American Israel Public Affairs Committee]], [[DCCC - Democratic Congressional Campaign Committee]], [[August Pfluger]], [[Joe Wilson]], [[Adrian Smith]], [[National Right to Life Victory Fund]], [[Walmart - Walton Family]], [[Cliff Bentz]], [[Giffords PAC]], [[Tzedek PAC]], [[League of Conservation Voters]], [[Anthem - Elevance Health]], [[National Multifamily Housing Council]], [[America PAC - Elon Musk]], [[Andy Harris]], [[Jake Ellzey]], [[Chevron]], [[WinRed]], [[Darrell Issa]], [[Ben Cline]], [[Care Action]], [[Victoria Spartz]], [[National Restaurant Association]], [[Associated General Contractors of America Political Action Committee]], [[Lockheed Martin]], [[Comcast - NBCUniversal]], [[General Motors]], [[Drummond Co.]], [[Pete Sessions]], [[CVS Health - Aetna]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[General Dynamics]], [[NextEra Energy]], [[MoveOn.org Political Action]], [[ConocoPhillips]], [[Majority PAC]], [[Honeywell International]], [[HMP]], [[AT&T]]"
 last-enriched: 2026-04-21
+committees:
+  - Capital Markets
+  - House Committee on Financial Services
+  - House Committee on Foreign Affairs
+  - Housing and Insurance
+  - Middle East and North Africa
+  - Western Hemisphere
 ---
 
 

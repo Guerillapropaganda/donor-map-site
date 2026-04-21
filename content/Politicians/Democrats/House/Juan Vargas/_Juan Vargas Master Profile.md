@@ -29,6 +29,11 @@ bills-enacted: 0
 top-policy-area: Health
 top-donors: "[[National Multifamily Housing Council]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Lockheed Martin]], [[Courage California Super Pac]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Morgan Stanley]], [[Sierra Club Political Committee]], [[AIPAC - American Israel Public Affairs Committee]], [[General Dynamics]], [[Citigroup]], [[Google - Alphabet]], [[Honeywell]], [[Northrop Grumman]], [[IBEW - International Brotherhood of Electrical Workers]], [[National Association of Realtors]], [[UA Political Action Committee]], [[SEIU COPE]], [[Planned Parenthood Votes]], [[Raytheon (RTX)]], [[PLANNED PARENTHOOD ACTION FUND OF THE PACIFIC SOUTHWEST PAC]], [[Progressive Turnout Project]], [[Walmart - Walton Family]], [[American Hospital Association PAC]], [[AT&T - WarnerMedia]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Comcast - NBCUniversal]], [[DMFI - Democratic Majority for Israel]], [[NEA Fund for Children and Public Education]], [[Bank of America]], [[Anthem - Elevance Health]], [[PG&E - Pacific Gas and Electric]], [[BAE Systems]], [[League of Conservation Voters]], [[Sierra Club Independent Action]], [[Unite Here Tip Campaign Committee]], [[Medicare for All - The Policy That Broke the Party]], [[Honeywell International]], [[AT&T]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Planned Parenthood Action Fund of the Pacific Southwest PAC]]"
 last-enriched: 2026-04-21
+committees:
+  - Capital Markets
+  - Financial Institutions
+  - House Committee on Financial Services
+  - "National Security, Illicit Finance, and International Financial Institutions"
 ---
 
 

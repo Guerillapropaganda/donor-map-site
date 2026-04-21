@@ -27,6 +27,15 @@ bills-cosponsored: 345
 bills-enacted: 0
 top-policy-area: "Health"
 last-enriched: 2026-04-21
+committees:
+  - Aviation
+  - Coast Guard and Maritime Transportation
+  - Contracting and Infrastructure
+  - House Committee on Small Business
+  - House Committee on Transportation and Infrastructure
+  - "Innovation, Entrepreneurship, and Workforce Development"
+  - "Rural Development, Energy, and Supply Chains"
+  - Water Resources and Environment
 ---
 
 

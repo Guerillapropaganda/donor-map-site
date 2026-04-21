@@ -27,6 +27,15 @@ bills-cosponsored: 117
 bills-enacted: 0
 top-policy-area: "Health"
 last-enriched: 2026-04-21
+committees:
+  - Communications and Technology
+  - Environment
+  - Health
+  - House Committee on Energy and Commerce
+  - House Committee on House Administration
+  - House Committee on Rules
+  - "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
+  - Rules and Organization of the House
 ---
 
 

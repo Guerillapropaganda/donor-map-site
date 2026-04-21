@@ -33,6 +33,18 @@ top-policy-area: Armed Forces and National Security
 needs-reenrichment: true
 reenrich-reason: "launch-50 audit: only 4 auto-blocks (threshold: 5)"
 last-enriched: 2026-04-20
+committees:
+  - Airland
+  - "Border Management, Federal Workforce, and Regulatory Affairs"
+  - "Commodities, Derivatives, Risk Management, and Trade"
+  - Cybersecurity
+  - "Disaster Management, District of Columbia, and Census"
+  - Emerging Threats and Capabilities
+  - "Livestock, Dairy, Poultry, and Food Safety"
+  - "Senate Committee on Agriculture, Nutrition, and Forestry"
+  - Senate Committee on Armed Services
+  - Senate Committee on Homeland Security and Governmental Affairs
+  - "Senate Committee on Veterans' Affairs"
 ---
 
 

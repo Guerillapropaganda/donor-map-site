@@ -31,6 +31,14 @@ bills-sponsored: 11
 bills-cosponsored: 618
 bills-enacted: 0
 top-policy-area: "Health"
+committees:
+  - Aviation
+  - Highways and Transit
+  - House Committee on Transportation and Infrastructure
+  - House Committee on the Judiciary
+  - "Immigration Integrity, Security, and Enforcement"
+  - "Railroads, Pipelines, and Hazardous Materials"
+  - "The Administrative State, Regulatory Reform, and Antitrust"
 ---
 
 

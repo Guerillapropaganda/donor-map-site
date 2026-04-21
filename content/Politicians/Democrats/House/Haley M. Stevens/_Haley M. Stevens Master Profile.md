@@ -27,6 +27,13 @@ bills-cosponsored: 446
 bills-enacted: 1
 top-policy-area: "Health"
 last-enriched: 2026-04-21
+committees:
+  - House Committee on Education and Workforce
+  - "House Committee on Science, Space, and Technology"
+  - House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party
+  - Research and Technology
+  - Space and Aeronautics
+  - Workforce Protections
 ---
 
 

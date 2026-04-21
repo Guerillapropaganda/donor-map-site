@@ -27,6 +27,14 @@ bills-cosponsored: 395
 bills-enacted: 0
 top-policy-area: "International Affairs"
 last-enriched: 2026-04-21
+committees:
+  - Defense Intelligence and Overhead Architecture
+  - Health
+  - House Committee on Ways and Means
+  - House Permanent Select Committee on Intelligence
+  - National Security Agency and Cyber
+  - Open Source Intelligence
+  - Trade
 ---
 
 

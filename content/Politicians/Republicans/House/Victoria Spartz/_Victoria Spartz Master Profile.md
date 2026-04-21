@@ -29,6 +29,8 @@ bills-enacted: 0
 top-policy-area: International Affairs
 top-donors: "[[MAJORITY PAC]], [[Morgan Stanley]], [[National Victory Action Fund]], [[Johnson & Johnson]], [[August Pfluger]], [[Jim Jordan]], [[AT&T - WarnerMedia]], [[National Association of Realtors]], [[CVS Health - Aetna]], [[WinRed]], [[Ben Cline]], [[Raytheon (RTX)]], [[Comcast - NBCUniversal]], [[iHeartMedia]], [[Adrian Smith]], [[Anthem - Elevance Health]], [[Republican Jewish Coalition]], [[Americans for Prosperity]], [[VIEW PAC - Value in Electing Women]], [[Walmart - Walton Family]], [[General Dynamics]], [[Tzedek PAC]], [[Andy Harris]], [[Chevron]], [[AIPAC - American Israel Public Affairs Committee]], [[Amgen Inc]], [[Save America PAC]], [[Rick W. Allen]], [[Jake Ellzey]], [[National Rifle Association]], [[Marathon Petroleum]], [[American Hospital Association PAC]], [[National Multifamily Housing Council]], [[Honeywell]], [[Google - Alphabet]], [[Duke Energy]], [[Citigroup]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Pfizer Inc.]], [[Jason Smith]], [[General Motors]], [[Ralph Norman]], [[Planned Parenthood Votes]], [[Thomas Massie]], [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]], [[Lockheed Martin]], [[Ford Motor Company]], [[Booz Allen Hamilton]], [[Northrop Grumman]], [[Citadel - Kenneth Griffin]], [[CTA - California Teachers Association]], [[Susquehanna International Group]], [[Walmart]], [[DoorDash]], [[Oracle]], [[Boeing]], [[Charles Schwab]], [[Verizon]], [[Las Vegas Sands]], [[Eli Lilly]], [[McDonalds Corporation]], [[Majority PAC]], [[AT&T]], [[Honeywell International]], [[Protect Freedom Political Action Committee]]"
 last-enriched: 2026-04-21
+committees:
+  - Joint Economic Committee
 ---
 
 

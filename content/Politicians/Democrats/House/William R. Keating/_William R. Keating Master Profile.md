@@ -27,6 +27,13 @@ bills-cosponsored: 431
 bills-enacted: 0
 top-policy-area: "International Affairs"
 last-enriched: 2026-04-21
+committees:
+  - "Cyber, Information Technologies, and Innovation"
+  - Europe
+  - House Committee on Armed Services
+  - House Committee on Foreign Affairs
+  - Intelligence and Special Operations
+  - Middle East and North Africa
 ---
 
 

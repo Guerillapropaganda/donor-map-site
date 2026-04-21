@@ -28,6 +28,15 @@ bills-enacted: 0
 top-policy-area: Taxation
 top-donors: "[[Verizon]], [[BAE Systems]], [[Invitation Homes - Institutional Landlords]], [[Elliott Management]], [[Blackstone Group]], [[Charles Schwab]], [[Google - Alphabet]], [[Microsoft]], [[AbbVie]], [[RNC - Republican National Committee]], [[Enterprise Products Partners]], [[Lockheed Martin]], [[Las Vegas Sands]], [[Amazon]], [[UPS]], [[Citadel - Kenneth Griffin]], [[Fidelity Investments]], [[US CHAMBER OF COMMERCE]], [[ConocoPhillips]], [[CBRE Group]], [[Coinbase]], [[Leidos]], [[Morgan Stanley]], [[Lennar Corporation]], [[US Chamber of Commerce]]"
 last-enriched: 2026-04-21
+committees:
+  - "Economic Growth, Tax, and Capital Access"
+  - House Committee on Small Business
+  - House Committee on Ways and Means
+  - Oversight
+  - "Oversight, Investigations, and Regulations"
+  - Tax
+  - Trade
+  - Work and Welfare
 ---
 
 

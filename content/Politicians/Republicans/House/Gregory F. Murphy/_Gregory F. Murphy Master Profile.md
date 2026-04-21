@@ -27,6 +27,14 @@ bills-cosponsored: 253
 bills-enacted: 1
 top-policy-area: "Armed Forces and National Security"
 last-enriched: 2026-04-21
+committees:
+  - Elections
+  - Health
+  - House Committee on House Administration
+  - "House Committee on Veterans' Affairs"
+  - House Committee on Ways and Means
+  - Joint Committee on Printing
+  - Trade
 ---
 
 

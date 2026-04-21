@@ -29,6 +29,13 @@ bills-enacted: 0
 top-policy-area: Health
 top-donors: "[[Progressive Turnout Project]], [[Sierra Club Political Committee]], [[National Association of Realtors]], [[National Committee to Preserve Social Security PAC]], [[Associated General Contractors of America Political Action Committee]], [[NEA Fund for Children and Public Education]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Walmart - Walton Family]], [[McDonalds Corporation]], [[Teamsters - International Brotherhood of Teamsters]], [[ENVIRONMENT AMERICA INC]], [[SEIU COPE]], [[Amgen Inc]], [[Comcast - NBCUniversal]], [[Lockheed Martin]], [[Honeywell]], [[Google - Alphabet]], [[IBEW - International Brotherhood of Electrical Workers]], [[Northrop Grumman]], [[Planned Parenthood Votes]], [[Raytheon (RTX)]], [[Pfizer Inc.]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[League of Conservation Voters]], [[AIPAC - American Israel Public Affairs Committee]], [[Microsoft]], [[Leidos]], [[Sierra Club Independent Action]], [[Medicare for All - The Policy That Broke the Party]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[J Street]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[AT&T - WarnerMedia]], [[American Hospital Association PAC]], [[AT&T]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Environment America INC]], [[Honeywell International]]"
 last-enriched: 2026-04-21
+committees:
+  - "Early Childhood, Elementary, and Secondary Education"
+  - Environment
+  - Higher Education and Workforce Development
+  - House Committee on Education and Workforce
+  - "House Committee on Science, Space, and Technology"
+  - Investigations and Oversight
 ---
 
 

@@ -29,6 +29,13 @@ ofac-programs:
   - "VENEZUELA"
   - "ILLICIT-DRUGS-EO14059"
 urls-first-triaged: "2026-04-15"
+committees:
+  - Counterterrorism and Intelligence
+  - Emergency Management and Technology
+  - House Committee on Homeland Security
+  - House Committee on Natural Resources
+  - Indian and Insular Affairs
+  - Oversight and Investigations
 ---
 
 

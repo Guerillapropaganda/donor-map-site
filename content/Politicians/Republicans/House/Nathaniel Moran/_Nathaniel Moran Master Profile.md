@@ -28,6 +28,13 @@ bills-cosponsored: 224
 bills-enacted: 0
 top-policy-area: International Affairs
 last-enriched: 2026-04-21
+committees:
+  - House Committee on Ethics
+  - House Committee on Ways and Means
+  - House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party
+  - Oversight
+  - Social Security
+  - Work and Welfare
 ---
 
 

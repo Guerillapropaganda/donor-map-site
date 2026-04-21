@@ -4,7 +4,7 @@ type: politician
 bioguide-id: B001319
 chamber: Senate
 party: Republican
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: Katie Britt is the Republican donor class's manufactured rising star. She did not build a political movement, cultivate grassroots support, or develop an independent power base. She was built from component parts by the Alabama business lobby. She...
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -25,6 +25,25 @@ bills-cosponsored: 367
 bills-enacted: 0
 top-policy-area: International Affairs
 last-enriched: 2026-04-21
+committees:
+  - "Antitrust, Competition Policy, and Consumer Rights"
+  - Border Security and Immigration
+  - "Commerce, Justice, Science, and Related Agencies"
+  - Commission on Security and Cooperation in Europe
+  - Crime and Counterterrorism
+  - Department of Homeland Security
+  - "Departments of Labor, Health and Human Services, and Education, and Related Agencies"
+  - Energy and Water Development
+  - Financial Institutions and Consumer Protection
+  - "Housing, Transportation, and Community Development"
+  - Intellectual Property
+  - "Securities, Insurance, and Investment"
+  - Senate Committee on Appropriations
+  - "Senate Committee on Banking, Housing, and Urban Affairs"
+  - Senate Committee on Rules and Administration
+  - Senate Committee on the Judiciary
+  - "State, Foreign Operations, and Related Programs"
+  - "Transportation, Housing and Urban Development, and Related Agencies"
 ---
 
 

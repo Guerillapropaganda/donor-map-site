@@ -28,6 +28,11 @@ bills-cosponsored: 219
 bills-enacted: 2
 top-policy-area: Government Operations and Politics
 last-enriched: 2026-04-21
+committees:
+  - House Committee on Ways and Means
+  - Oversight
+  - Social Security
+  - Work and Welfare
 ---
 
 

@@ -24,6 +24,17 @@ known-gaps:
 related: "[[Sherrod Brown|Sherrod Brown]] · [[Les Wexner - Wexner Family Enterprises]]"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21
+committees:
+  - "Chemical Safety, Waste Management, Environmental Justice, and Regulatory Oversight"
+  - "Clean Air, Climate, and Nuclear Innovation and Safety"
+  - Education and the American Family
+  - Employment and Workplace Safety
+  - "Fisheries, Wildlife, and Water"
+  - Primary Health and Retirement Security
+  - Senate Committee on Environment and Public Works
+  - "Senate Committee on Health, Education, Labor, and Pensions"
+  - Senate Committee on Small Business and Entrepreneurship
+  - Senate Special Committee on Aging
 ---
 
 

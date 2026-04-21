@@ -29,6 +29,13 @@ bills-enacted: 2
 top-policy-area: Crime and Law Enforcement
 top-donors: "[[Texans for a Conservative Majority]], [[Elbert Guillory's America]]"
 last-enriched: 2026-04-21
+committees:
+  - Energy and Mineral Resources
+  - Federal Lands
+  - House Committee on Natural Resources
+  - House Committee on the Judiciary
+  - "Immigration Integrity, Security, and Enforcement"
+  - The Constitution and Limited Government
 ---
 
 

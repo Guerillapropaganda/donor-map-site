@@ -27,6 +27,13 @@ bills-cosponsored: 294
 bills-enacted: 1
 top-policy-area: "International Affairs"
 last-enriched: 2026-04-21
+committees:
+  - Crime and Federal Government Surveillance
+  - Energy and Mineral Resources
+  - Federal Lands
+  - House Committee on Natural Resources
+  - House Committee on the Judiciary
+  - "Immigration Integrity, Security, and Enforcement"
 ---
 
 

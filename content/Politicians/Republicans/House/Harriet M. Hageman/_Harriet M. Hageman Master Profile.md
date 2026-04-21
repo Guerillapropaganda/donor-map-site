@@ -27,6 +27,14 @@ bills-cosponsored: 308
 bills-enacted: 1
 top-policy-area: "Government Operations and Politics"
 last-enriched: 2026-04-21
+committees:
+  - Energy and Mineral Resources
+  - House Committee on Natural Resources
+  - House Committee on the Judiciary
+  - "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
+  - "The Administrative State, Regulatory Reform, and Antitrust"
+  - The Constitution and Limited Government
+  - "Water, Wildlife and Fisheries"
 ---
 
 

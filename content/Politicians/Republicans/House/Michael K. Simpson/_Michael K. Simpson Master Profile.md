@@ -27,6 +27,11 @@ bills-cosponsored: 106
 bills-enacted: 0
 top-policy-area: "International Affairs"
 last-enriched: 2026-04-21
+committees:
+  - Energy and Water Development and Related Agencies
+  - House Committee on Appropriations
+  - "Interior, Environment, and Related Agencies"
+  - "Labor, Health and Human Services, Education, and Related Agencies"
 ---
 
 

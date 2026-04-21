@@ -27,6 +27,15 @@ bills-cosponsored: 361
 bills-enacted: 0
 top-policy-area: "Crime and Law Enforcement"
 last-enriched: 2026-04-21
+committees:
+  - Aviation
+  - Crime and Federal Government Surveillance
+  - Highways and Transit
+  - House Committee on Transportation and Infrastructure
+  - House Committee on the Judiciary
+  - "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
+  - "Immigration Integrity, Security, and Enforcement"
+  - "Railroads, Pipelines, and Hazardous Materials"
 ---
 
 

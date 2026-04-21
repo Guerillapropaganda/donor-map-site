@@ -28,6 +28,14 @@ bills-enacted: 0
 top-policy-area: Health
 top-donors: "[[Ballard Partners]], [[NextEra Energy]], [[Fanjul Family - Florida Crystals]]"
 last-enriched: 2026-04-21
+committees:
+  - Aviation
+  - "Early Childhood, Elementary, and Secondary Education"
+  - Higher Education and Workforce Development
+  - House Committee on Education and Workforce
+  - House Committee on Transportation and Infrastructure
+  - "Railroads, Pipelines, and Hazardous Materials"
+  - Water Resources and Environment
 ---
 
 

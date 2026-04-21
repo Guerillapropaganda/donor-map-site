@@ -26,6 +26,19 @@ bills-cosponsored: 428
 bills-enacted: 0
 top-policy-area: "Health"
 last-enriched: 2026-04-21
+committees:
+  - "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies"
+  - "Commerce, Justice, Science, and Related Agencies"
+  - Cybersecurity
+  - "Department of Interior, Environment, and Related Agencies"
+  - Emerging Threats and Capabilities
+  - "Military Construction, Veterans Affairs, and Related Agencies"
+  - Senate Committee on Appropriations
+  - Senate Committee on Armed Services
+  - Senate Select Committee on Intelligence
+  - Senate Special Committee on Aging
+  - Strategic Forces
+  - "Transportation, Housing and Urban Development, and Related Agencies"
 ---
 
 

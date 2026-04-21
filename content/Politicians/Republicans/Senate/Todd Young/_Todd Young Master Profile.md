@@ -31,6 +31,18 @@ bills-cosponsored: 324
 bills-enacted: 1
 top-policy-area: International Affairs
 last-enriched: 2026-04-20
+committees:
+  - "Consumer Protection, Technology, and Data Privacy"
+  - Health Care
+  - "International Trade, Customs, and Global Competitiveness"
+  - "Science, Manufacturing, and Competitiveness"
+  - "Senate Committee on Commerce, Science, and Transportation"
+  - Senate Committee on Finance
+  - Senate Committee on Small Business and Entrepreneurship
+  - Senate Select Committee on Intelligence
+  - "Social Security, Pensions, and Family Policy"
+  - "Surface Transportation, Freight, Pipelines, and Safety"
+  - Telecommunications and Media
 ---
 
 

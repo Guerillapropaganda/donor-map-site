@@ -26,6 +26,20 @@ bills-cosponsored: 228
 bills-enacted: 0
 top-policy-area: "Health"
 last-enriched: 2026-04-21
+committees:
+  - Economic Policy
+  - Education and the American Family
+  - Employment and Workplace Safety
+  - National Security and International Trade and Finance
+  - Personnel
+  - Primary Health and Retirement Security
+  - Seapower
+  - "Securities, Insurance, and Investment"
+  - Senate Committee on Armed Services
+  - "Senate Committee on Banking, Housing, and Urban Affairs"
+  - "Senate Committee on Health, Education, Labor, and Pensions"
+  - "Senate Committee on Veterans' Affairs"
+  - Strategic Forces
 ---
 
 

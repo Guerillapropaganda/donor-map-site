@@ -27,6 +27,11 @@ bills-cosponsored: 422
 bills-enacted: 0
 top-policy-area: "Health"
 last-enriched: 2026-04-21
+committees:
+  - Homeland Security
+  - House Committee on Appropriations
+  - "Military Construction, Veterans Affairs, and Related Agencies"
+  - "Transportation, Housing and Urban Development, and Related Agencies"
 ---
 
 

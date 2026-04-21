@@ -25,6 +25,14 @@ urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4IN06185
 top-donors: "[[National Association of Realtors]], [[AT&T - WarnerMedia]], [[Microsoft]], [[Duke Energy]], [[Anthem - Elevance Health]], [[MAJORITY PAC]], [[American Hospital Association PAC]], [[Honeywell]], [[Jim Jordan]], [[Troy Downing]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Lockheed Martin]], [[National Restaurant Association]], [[Teamsters - International Brotherhood of Teamsters]], [[National Rifle Association]], [[Comcast - NBCUniversal]], [[AIPAC - American Israel Public Affairs Committee]], [[Honeywell International]], [[Majority PAC]], [[AT&T]]"
 last-enriched: 2026-04-21
+committees:
+  - Aviation
+  - Highways and Transit
+  - House Committee on Foreign Affairs
+  - House Committee on Transportation and Infrastructure
+  - "Railroads, Pipelines, and Hazardous Materials"
+  - South and Central Asia
+  - Western Hemisphere
 ---
 
 

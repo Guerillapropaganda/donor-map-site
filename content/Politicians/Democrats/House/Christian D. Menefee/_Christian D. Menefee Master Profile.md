@@ -24,6 +24,8 @@ known-gaps:
 urls-first-triaged: "2026-04-15"
 top-donors: "[[Marathon Petroleum]], [[Ford Motor Company]], [[Aramark]], [[Meta - Facebook]], [[ExxonMobil]], [[ADM - Archer Daniels Midland]], [[Microsoft]], [[Kelcy Warren - Energy Transfer Partners]], [[Lockheed Martin]], [[Eli Lilly]], [[Google - Alphabet]], [[Walmart]], [[Johnson & Johnson]], [[Tesla - Elon Musk Political Operation]], [[Chevron]], [[Apple]], [[Gilead Sciences]], [[Occidental Petroleum]], [[Halliburton]]"
 last-enriched: 2026-04-21
+committees:
+  - "House Committee on Science, Space, and Technology"
 ---
 
 

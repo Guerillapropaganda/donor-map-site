@@ -24,6 +24,13 @@ known-gaps:
 urls-first-triaged: "2026-04-15"
 top-donors: "[[Comcast - NBCUniversal]], [[AT&T]], [[Cigna Group]], [[a16z - Andreessen Horowitz]], [[Ford Motor Company]], [[CVS Health - Aetna]], [[Coinbase]], [[Meta - Facebook]], [[Novo Nordisk]], [[Pfizer Inc.]], [[Johnson & Johnson]]"
 last-enriched: 2026-04-21
+committees:
+  - Aviation
+  - Counterterrorism and Intelligence
+  - Highways and Transit
+  - House Committee on Homeland Security
+  - House Committee on Transportation and Infrastructure
+  - Water Resources and Environment
 ---
 
 

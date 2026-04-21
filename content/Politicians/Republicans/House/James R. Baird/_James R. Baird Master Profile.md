@@ -27,6 +27,18 @@ bills-cosponsored: 352
 bills-enacted: 1
 top-policy-area: "International Affairs"
 last-enriched: 2026-04-21
+committees:
+  - Africa
+  - "Conservation, Research, and Biotechnology"
+  - Energy
+  - Forestry and Horticulture
+  - House Committee on Agriculture
+  - House Committee on Foreign Affairs
+  - "House Committee on Science, Space, and Technology"
+  - "Livestock, Dairy, and Poultry"
+  - Nutrition and Foreign Agriculture
+  - Oversight and Intelligence
+  - Research and Technology
 ---
 
 

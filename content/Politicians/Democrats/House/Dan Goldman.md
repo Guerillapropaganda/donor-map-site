@@ -3,7 +3,7 @@ title: Dan Goldman
 type: politician
 chamber: House
 party: Democrat
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: Goldman demonstrates how dynastic wealth purchases political power in the 21st century Democratic Party. His campaign did not build grassroots support; he self-funded $4M in primary spending in a crowded field. His Trump impeachment credentials we...
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
@@ -17,16 +17,21 @@ total-received: $2,082,447
 fec-candidate-id: H2NY10308
 bioguide-id: G000599
 source-types:
-  - FEC
+  - Congress
   - GovTrack
 corroboration-count: 2
 known-gaps:
-  - No legislative record from Congress.gov
-  - No mapped relationships
+  - "No FEC contribution data"
 related: "[[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Securities & Investment Industry]] · [[_Nancy Pelosi Master Profile]]"
 donors: "[[Republican Jewish Coalition]], [[Sierra Club Independent Action]], [[Mainstream Democrats Pac]], [[Protect Progress]], [[TZEDEK PAC]], [[Tzedek PAC]], [[League of Conservation Voters]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Everytown for Gun Safety]], [[National Association of Realtors]], [[UA Political Action Committee]], [[EQUALITY PROJECT PAC]], [[Pete Aguilar]], [[Ted Lieu]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AT&T - WarnerMedia]], [[DMFI - Democratic Majority for Israel]], [[American Hospital Association PAC]], [[Giffords PAC]], [[NEA Fund for Children and Public Education]], [[Nancy Pelosi]], [[SEIU COPE]], [[DCCC - Democratic Congressional Campaign Committee]], [[Kevin Mullin]], [[J Street]], [[AIPAC - American Israel Public Affairs Committee]], [[Let America Vote PAC]], [[IBEW - International Brotherhood of Electrical Workers]], [[National Nurses United]], [[Jamie Raskin]], [[Unite Here Tip Campaign Committee]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[AT&T]], [[Equality Project PAC]]"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-20
+committees:
+  - Counterterrorism and Intelligence
+  - Crime and Federal Government Surveillance
+  - House Committee on Homeland Security
+  - House Committee on the Judiciary
+  - The Constitution and Limited Government
 ---
 
 

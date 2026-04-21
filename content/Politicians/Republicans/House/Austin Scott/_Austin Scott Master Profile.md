@@ -28,6 +28,20 @@ bills-enacted: 0
 top-policy-area: Health
 top-donors: "[[Morgan Stanley]], [[General Dynamics]], [[Ballard Partners]], [[Amazon]]"
 last-enriched: 2026-04-21
+committees:
+  - Central Intelligence Agency
+  - "Commodity Markets, Digital Assets, and Rural Development"
+  - "General Farm Commodities, Risk Management, and Credit"
+  - House Committee on Agriculture
+  - House Committee on Armed Services
+  - House Committee on Rules
+  - House Permanent Select Committee on Intelligence
+  - Intelligence and Special Operations
+  - National Intelligence Enterprise
+  - National Security Agency and Cyber
+  - Nutrition and Foreign Agriculture
+  - Readiness
+  - Rules and Organization of the House
 ---
 
 

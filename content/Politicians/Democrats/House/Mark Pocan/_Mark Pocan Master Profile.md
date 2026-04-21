@@ -29,6 +29,10 @@ bills-enacted: 0
 top-policy-area: Health
 top-donors: "[[Sierra Club Independent Action]], [[SEIU COPE]], [[IBEW - International Brotherhood of Electrical Workers]], [[American Federation of State County & Municipal Employees P E O P L E]], [[J Street]], [[Let America Vote PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[UA Political Action Committee]], [[Demand Justice]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Unite Here Tip Campaign Committee]], [[Medicare for All - The Policy That Broke the Party]], [[MoveOn.org Political Action]], [[American Hospital Association PAC]], [[AFL-CIO]], [[NEA Fund for Children and Public Education]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[National Nurses United]], [[Care Action]], [[Everytown for Gun Safety]], [[Progressive Turnout Project]], [[National Association of Realtors]], [[Planned Parenthood Votes]], [[Sierra Club Political Committee]], [[Teamsters - International Brotherhood of Teamsters]], [[Google - Alphabet]], [[UPS]], [[AT&T]], [[SEIU - Service Employees International Union]], [[American Federation of State County & Municipal Employees  P E O P L E]]"
 last-enriched: 2026-04-21
+committees:
+  - Financial Services and General Government
+  - House Committee on Appropriations
+  - "Labor, Health and Human Services, Education, and Related Agencies"
 ---
 
 

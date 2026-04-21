@@ -28,6 +28,14 @@ bills-cosponsored: 229
 bills-enacted: 0
 top-policy-area: Crime and Law Enforcement
 last-enriched: 2026-04-21
+committees:
+  - "Commerce, Manufacturing, and Trade"
+  - Communications and Technology
+  - "Courts, Intellectual Property, Artificial Intelligence, and the Internet"
+  - Energy
+  - House Committee on Energy and Commerce
+  - House Committee on the Judiciary
+  - "Immigration Integrity, Security, and Enforcement"
 ---
 
 

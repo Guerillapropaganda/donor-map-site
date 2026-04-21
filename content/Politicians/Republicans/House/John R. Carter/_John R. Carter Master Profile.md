@@ -27,6 +27,11 @@ bills-cosponsored: 150
 bills-enacted: 0
 top-policy-area: "International Affairs"
 last-enriched: 2026-04-21
+committees:
+  - "Commerce, Justice, Science, and Related Agencies"
+  - Defense
+  - House Committee on Appropriations
+  - "Military Construction, Veterans Affairs, and Related Agencies"
 ---
 
 

@@ -25,6 +25,14 @@ urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2NC13243
 top-donors: "[[Darrell Issa]], [[Duke Energy]], [[Jim Jordan]], [[Anthem - Elevance Health]], [[WinRed]], [[Lockheed Martin]], [[Austin Scott]], [[Congressional Leadership Fund]], [[National Rifle Association]], [[Americans for Prosperity]], [[Honeywell]], [[National Restaurant Association]], [[Jake Ellzey]], [[Chevron]], [[BAE Systems]], [[SPECIAL OPERATIONS FOR AMERICA]], [[AIPAC - American Israel Public Affairs Committee]], [[Leidos]], [[David Rouzer]], [[Northrop Grumman]], [[Raytheon (RTX)]], [[National Cattlemen's Beef Association]], [[American Hospital Association PAC]], [[General Dynamics]], [[Microsoft]], [[General Motors]], [[Freedom's Defense Fund]], [[Nucor Corporation]], [[Associated General Contractors of America Political Action Committee]], [[MAJORITY PAC]], [[CVS Health - Aetna]], [[L3Harris Technologies]], [[National Association of Realtors]], [[Walmart - Walton Family]], [[Special Operations for America]], [[Majority PAC]], [[Honeywell International]]"
 last-enriched: 2026-04-21
+committees:
+  - Energy
+  - House Committee on Armed Services
+  - "House Committee on Science, Space, and Technology"
+  - Intelligence and Special Operations
+  - Investigations and Oversight
+  - Military Personnel
+  - Readiness
 ---
 
 

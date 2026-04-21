@@ -27,6 +27,13 @@ bills-cosponsored: 300
 bills-enacted: 0
 top-policy-area: "International Affairs"
 last-enriched: 2026-04-21
+committees:
+  - East Asia and Pacific
+  - House Committee on Foreign Affairs
+  - House Permanent Select Committee on Intelligence
+  - National Intelligence Enterprise
+  - National Security Agency and Cyber
+  - South and Central Asia
 ---
 
 

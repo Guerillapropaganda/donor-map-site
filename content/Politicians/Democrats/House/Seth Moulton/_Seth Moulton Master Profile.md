@@ -28,6 +28,14 @@ bills-cosponsored: 553
 bills-enacted: 0
 top-policy-area: Health
 last-enriched: 2026-04-21
+committees:
+  - "Cyber, Information Technologies, and Innovation"
+  - Highways and Transit
+  - House Committee on Armed Services
+  - House Committee on Transportation and Infrastructure
+  - House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party
+  - "Railroads, Pipelines, and Hazardous Materials"
+  - Strategic Forces
 ---
 
 

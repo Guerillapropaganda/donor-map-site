@@ -27,6 +27,14 @@ bills-cosponsored: 881
 bills-enacted: 0
 top-policy-area: "Health"
 last-enriched: 2026-04-21
+committees:
+  - "Commodity Markets, Digital Assets, and Rural Development"
+  - "General Farm Commodities, Risk Management, and Credit"
+  - House Committee on Agriculture
+  - House Committee on Armed Services
+  - "Livestock, Dairy, and Poultry"
+  - Readiness
+  - Tactical Air and Land Forces
 ---
 
 

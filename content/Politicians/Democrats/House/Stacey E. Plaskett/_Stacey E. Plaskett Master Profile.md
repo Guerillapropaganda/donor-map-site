@@ -27,6 +27,14 @@ bills-cosponsored: 197
 bills-enacted: 0
 top-policy-area: "Health"
 last-enriched: 2026-04-21
+committees:
+  - Defense Intelligence and Overhead Architecture
+  - House Committee on Ways and Means
+  - House Committee on the Budget
+  - House Permanent Select Committee on Intelligence
+  - National Intelligence Enterprise
+  - Social Security
+  - Tax
 ---
 
 

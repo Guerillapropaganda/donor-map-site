@@ -30,6 +30,22 @@ bills-enacted: 0
 top-policy-area: Health
 top-donors: "[[American Chemistry Council, INC]], [[Raytheon (RTX)]], [[National Rifle Association]], [[Gilead Sciences]], [[Occidental Petroleum]], [[National Cattlemen's Beef Association]], [[VIEW PAC - Value in Electing Women]], [[National Multifamily Housing Council]], [[AT&T - WarnerMedia]], [[Honeywell]], [[National Association of Realtors]], [[American Hospital Association PAC]], [[Amgen Inc]], [[Duke Energy]], [[Nucor Corporation]], [[National Restaurant Association]], [[Lockheed Martin]], [[Citigroup]], [[Pfizer Inc.]], [[Ford Motor Company]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Valero Energy]], [[DoorDash]], [[Anthem - Elevance Health]], [[WinRed]], [[AbbVie]], [[ConocoPhillips]], [[NORPAC]], [[Walmart - Walton Family]], [[American College of Radiology Association PAC]], [[Airbnb]], [[Devon Energy]], [[Tenet Healthcare]], [[BAE Systems]], [[NextEra Energy]], [[National Victory Action Fund]], [[Google - Alphabet]], [[Tyson Foods]], [[Hunter Action Fund (haf)]], [[CoreCivic - Private Prisons]], [[General Dynamics]], [[Common Sense for America PAC]], [[Care Action]], [[AIPAC - American Israel Public Affairs Committee]], [[Sinclair Broadcast Group]], [[Microsoft]], [[Leidos]], [[Chevron]], [[CVS Health - Aetna]], [[Morgan Stanley]], [[Comcast - NBCUniversal]], [[MAJORITY PAC]], [[Johnson & Johnson]], [[Senate Conservatives Fund]], [[General Motors]], [[AT&T]], [[Honeywell International]], [[Majority PAC]]"
 last-enriched: 2026-04-20
+committees:
+  - "Consumer Protection, Technology, and Data Privacy"
+  - Crime and Counterterrorism
+  - Health Care
+  - Intellectual Property
+  - Joint Economic Committee
+  - "Privacy, Technology, and the Law"
+  - "Science, Manufacturing, and Competitiveness"
+  - "Senate Committee on Commerce, Science, and Transportation"
+  - Senate Committee on Finance
+  - "Senate Committee on Veterans' Affairs"
+  - Senate Committee on the Judiciary
+  - "Social Security, Pensions, and Family Policy"
+  - Taxation and IRS Oversight
+  - Telecommunications and Media
+  - the Constitution
 ---
 
 

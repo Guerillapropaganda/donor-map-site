@@ -29,6 +29,17 @@ bills-enacted: 0
 top-policy-area: International Affairs
 top-donors: "[[MAJORITY PAC]], [[Lauren Boebert]], [[Raytheon (RTX)]], [[American Chemistry Council, INC]], [[UA Political Action Committee]], [[David Rouzer]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Association of Realtors]], [[WinRed]], [[National Rifle Association]], [[General Motors]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Associated General Contractors of America Political Action Committee]], [[Planned Parenthood Votes]], [[AIPAC - American Israel Public Affairs Committee]], [[CoreCivic - Private Prisons]], [[Majority PAC]]"
 last-enriched: 2026-04-21
+committees:
+  - Aviation
+  - Delivering on Government Efficiency
+  - Government Operations
+  - Highways and Transit
+  - House Committee on Foreign Affairs
+  - House Committee on Oversight and Government Reform
+  - House Committee on Transportation and Infrastructure
+  - Middle East and North Africa
+  - "Railroads, Pipelines, and Hazardous Materials"
+  - South and Central Asia
 ---
 
 

@@ -23,6 +23,11 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21
+committees:
+  - Capital Markets
+  - "Digital Assets, Financial Technology, and Artificial Intelligence"
+  - House Committee on Financial Services
+  - House Committee on the Budget
 ---
 
 

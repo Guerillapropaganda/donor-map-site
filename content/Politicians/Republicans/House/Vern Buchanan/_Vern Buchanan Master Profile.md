@@ -28,6 +28,11 @@ bills-enacted: 1
 top-policy-area: Health
 top-donors: "[[CVS Health - Aetna]], [[US CHAMBER OF COMMERCE]], [[NextEra Energy]], [[Microsoft]], [[Morgan Stanley]], [[Ballard Partners]], [[Blackstone Group]], [[Fanjul Family - Florida Crystals]], [[National Multifamily Housing Council]], [[McDonalds Corporation]], [[US Chamber of Commerce]]"
 last-enriched: 2026-04-21
+committees:
+  - Health
+  - House Committee on Ways and Means
+  - Joint Committee on Taxation
+  - Trade
 ---
 
 

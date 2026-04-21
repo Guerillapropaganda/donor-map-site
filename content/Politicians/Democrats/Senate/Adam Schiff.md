@@ -4,7 +4,7 @@ type: politician
 bioguide-id: S001150
 chamber: Senate
 party: Democrat
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: "Adam Schiff exemplifies the Democratic Party's security establishment player: an intelligence operative who performs progressive values while serving the national security state. His 2019–2023 role as House Intelligence Committee chair gave him ac..."
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
@@ -35,6 +35,25 @@ bills-cosponsored: 5809
 bills-enacted: 0
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: International Affairs
+committees:
+  - "Antitrust, Competition Policy, and Consumer Rights"
+  - "Clean Air, Climate, and Nuclear Innovation and Safety"
+  - "Commodities, Derivatives, Risk Management, and Trade"
+  - "Conservation, Forestry, Natural Resources, and Biotechnology"
+  - "Fisheries, Wildlife, and Water"
+  - Intellectual Property
+  - "Privacy, Technology, and the Law"
+  - "Senate Committee on Agriculture, Nutrition, and Forestry"
+  - Senate Committee on Environment and Public Works
+  - Senate Committee on Small Business and Entrepreneurship
+  - Senate Committee on the Judiciary
+  - Transportation and Infrastructure
+  - the Constitution
+source-types:
+  - Congress
+known-gaps:
+  - "No FEC contribution data"
+  - "No voting record data"
 ---
 
 

@@ -28,6 +28,14 @@ bills-enacted: 0
 top-policy-area: International Affairs
 top-donors: "[[Bank of America]], [[Raytheon (RTX Corporation)]], [[Google - Alphabet]], [[Walmart]], [[Uber]], [[Palantir Technologies]], [[Anduril Industries]], [[Citadel - Kenneth Griffin]], [[Enterprise Products Partners]], [[General Motors]], [[CBRE Group]], [[Hawaiian Electric Company]], [[Tenet Healthcare]], [[Northrop Grumman]], [[UPS]], [[US CHAMBER OF COMMERCE]], [[Lockheed Martin]], [[Charles Schwab]], [[Chevron]], [[Citigroup]], [[US Chamber of Commerce]]"
 last-enriched: 2026-04-21
+committees:
+  - Contracting and Infrastructure
+  - Defense
+  - House Committee on Appropriations
+  - House Committee on Small Business
+  - "Interior, Environment, and Related Agencies"
+  - "Labor, Health and Human Services, Education, and Related Agencies"
+  - "Rural Development, Energy, and Supply Chains"
 ---
 
 

@@ -29,6 +29,10 @@ bills-enacted: 0
 top-policy-area: Health
 top-donors: "[[Microsoft]], [[Johnson & Johnson]], [[Comcast - NBCUniversal]], [[Northrop Grumman]], [[NEA Fund for Children and Public Education]], [[DMFI - Democratic Majority for Israel]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[League of Conservation Voters]], [[National Multifamily Housing Council]], [[General Dynamics]], [[Nucor Corporation]], [[Raytheon (RTX)]], [[General Motors]], [[Duke Energy]], [[Progressive Turnout Project]], [[Google - Alphabet]], [[CVS Health - Aetna]], [[McDonalds Corporation]], [[Walmart - Walton Family]], [[National Association of Realtors]], [[Amgen Inc]], [[American Federation of State County & Municipal Employees P E O P L E]], [[AbbVie]], [[Lockheed Martin]], [[Bank of America]], [[SEIU COPE]], [[Sierra Club Independent Action]], [[American Gaming Association]], [[AT&T - WarnerMedia]], [[American Chemistry Council, INC]], [[IBEW - International Brotherhood of Electrical Workers]], [[Marcia Fudge]], [[Care Action]], [[Citigroup]], [[AFL-CIO]], [[Honeywell]], [[Anthem - Elevance Health]], [[Sierra Club Political Committee]], [[iHeartMedia]], [[National Restaurant Association]], [[AIPAC - American Israel Public Affairs Committee]], [[Morgan Stanley]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Let America Vote PAC]], [[NextEra Energy]], [[American Hospital Association PAC]], [[Lamonica McIver]], [[Giffords PAC]], [[Ford Motor Company]], [[Planned Parenthood Votes]], [[Pfizer Inc.]], [[Pete Aguilar]], [[Everytown for Gun Safety]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[AT&T]], [[Honeywell International]]"
 last-enriched: 2026-04-21
+committees:
+  - Financial Institutions
+  - House Committee on Financial Services
+  - "National Security, Illicit Finance, and International Financial Institutions"
 ---
 
 

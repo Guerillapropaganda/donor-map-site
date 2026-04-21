@@ -24,6 +24,11 @@ donors: "[[Brady Campaign]]"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21
 corroboration-count: 2
+committees:
+  - "Commerce, Justice, Science, and Related Agencies"
+  - House Committee on Appropriations
+  - "Labor, Health and Human Services, Education, and Related Agencies"
+  - Legislative Branch
 ---
 
 

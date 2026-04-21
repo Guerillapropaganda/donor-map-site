@@ -1,7 +1,7 @@
 ---
 title: Maxine Waters
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: Waters is the populist gatekeeper of Wall Street regulation. Her Financial Services Committee position makes her the person every bank, insurer, crypto exchange, and real estate lobby needs to engage with — whether she's in the majority or minorit...
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
@@ -32,6 +32,14 @@ fec-candidate-id: H4CA23011
 urls-first-triaged: "2026-04-15"
 bills-enacted: 0
 top-policy-area: Health
+committees:
+  - House Committee on Financial Services
+source-types:
+  - Congress
+  - GovTrack
+corroboration-count: 2
+known-gaps:
+  - "No FEC contribution data"
 ---
 
 

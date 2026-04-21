@@ -26,6 +26,20 @@ bills-cosponsored: 194
 bills-enacted: 0
 top-policy-area: "Public Lands and Natural Resources"
 last-enriched: 2026-04-21
+committees:
+  - "Chemical Safety, Waste Management, Environmental Justice, and Regulatory Oversight"
+  - "Clean Air, Climate, and Nuclear Innovation and Safety"
+  - "Coast Guard, Maritime, and Fisheries"
+  - "Consumer Protection, Technology, and Data Privacy"
+  - "East Asia, the Pacific, and International Cybersecurity Policy"
+  - Europe and Regional Security Cooperation
+  - "Senate Committee on Commerce, Science, and Transportation"
+  - Senate Committee on Environment and Public Works
+  - Senate Committee on Foreign Relations
+  - Senate Committee on Small Business and Entrepreneurship
+  - Telecommunications and Media
+  - Transportation and Infrastructure
+  - "Western Hemisphere, Transnational Crime, Civilian Security, Democracy, Human Rights, and Global Women's Issues"
 ---
 
 

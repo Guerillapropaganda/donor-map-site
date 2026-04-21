@@ -27,6 +27,18 @@ urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4NC13116
 last-enriched: 2026-04-21
 corroboration-count: 3
+committees:
+  - Aviation
+  - Border Security and Enforcement
+  - Crime and Federal Government Surveillance
+  - Highways and Transit
+  - House Committee on Ethics
+  - House Committee on Homeland Security
+  - House Committee on Transportation and Infrastructure
+  - House Committee on the Judiciary
+  - "Immigration Integrity, Security, and Enforcement"
+  - "Oversight, Investigations, and Accountability"
+  - Water Resources and Environment
 ---
 
 

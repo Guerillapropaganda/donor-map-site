@@ -19,6 +19,18 @@ opposes: "[[NRSC]] · [[SENATE LEADERSHIP FUND]] · [[DEFENDARIZONA]] · [[CLUB 
 internal-notes: "[RC 2026-04-18] Janitor previously demoted ready→draft citing missing VOTING/CONGRESS data. Now resolved: voting-record pipeline ingested 1,433 roll-call positions for Kelly (bioguide K000377) across 118/1+118/2+119/1+119/2, auto:voting-record panel rendered in body. Re-promoted to ready. All 7 required editorial sections present: Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Rhetorical Signature Moves, Analytical Patterns, Class Analysis."
 editorial-notes: "[RC 2026-04-18] Reviewed for launch-50 pass. Editorial sections already complete; body doesn't need rewriting. Fixed truncated central-thesis frontmatter. Cleared janitor demotion flag."
 urls-first-triaged: "2026-04-15"
+committees:
+  - Airland
+  - "Clean Air, Climate, and Nuclear Innovation and Safety"
+  - Emerging Threats and Capabilities
+  - "Fisheries, Wildlife, and Water"
+  - Joint Economic Committee
+  - Senate Committee on Armed Services
+  - Senate Committee on Environment and Public Works
+  - Senate Select Committee on Intelligence
+  - Senate Special Committee on Aging
+  - Strategic Forces
+  - Transportation and Infrastructure
 ---
 
 

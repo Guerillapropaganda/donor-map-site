@@ -29,6 +29,15 @@ bills-enacted: 0
 top-policy-area: Health
 top-donors: "[[Lockheed Martin]], [[Amgen Inc]], [[American College of Radiology Association PAC]], [[National Association of Realtors]], [[Northrop Grumman]], [[Nancy Pelosi]], [[National Multifamily Housing Council]], [[PG&E - Pacific Gas and Electric]], [[J Street]], [[League of Conservation Voters]], [[Jason Crow]], [[NEA Fund for Children and Public Education]], [[Honeywell]], [[American Hospital Association PAC]], [[Courage California Super Pac]], [[Leidos]], [[Anthem - Elevance Health]], [[AbbVie]], [[AT&T - WarnerMedia]], [[UA Political Action Committee]], [[Sierra Club Independent Action]], [[Comcast - NBCUniversal]], [[Jamie Raskin]], [[Raytheon (RTX)]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[General Dynamics]], [[AIPAC - American Israel Public Affairs Committee]], [[CTA - California Teachers Association]], [[Veronica Escobar]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Emily's List]], [[Planned Parenthood Votes]], [[Ted Lieu]], [[Teamsters - International Brotherhood of Teamsters]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Food and Water Action]], [[Unite Here Tip Campaign Committee]], [[Ford Motor Company]], [[Planned Parenthood Action Fund INC]], [[Congressional Leadership Fund]], [[Giffords PAC]], [[IBEW - International Brotherhood of Electrical Workers]], [[Tyson Foods]], [[Pfizer Inc.]], [[American Federation of State County & Municipal Employees P E O P L E]], [[SEIU COPE]], [[DCCC - Democratic Congressional Campaign Committee]], [[Google - Alphabet]], [[Putting People First Political Action Committee]], [[Indivisible Action]], [[General Motors]], [[Care Action]], [[Mark DeSaulnier]], [[Progressive Turnout Project]], [[Joe Neguse]], [[Apple]], [[Microsoft]], [[UPS]], [[Bank of America]], [[AT&T]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[Kaiser Permanente]], [[Wells Fargo]], [[Meta - Facebook]], [[Anthem - Elevance Health Political Operation]], [[Nvidia]], [[Blue Shield of California]], [[Walt Disney Company]], [[CBRE Group]], [[Uber]], [[Walmart]], [[News Corp - Fox Corporation]], [[CVS Health - Aetna]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Honeywell International]]"
 last-enriched: 2026-04-21
+committees:
+  - Aviation
+  - Health
+  - Highways and Transit
+  - House Committee on Natural Resources
+  - House Committee on Transportation and Infrastructure
+  - "House Committee on Veterans' Affairs"
+  - Water Resources and Environment
+  - "Water, Wildlife and Fisheries"
 ---
 
 

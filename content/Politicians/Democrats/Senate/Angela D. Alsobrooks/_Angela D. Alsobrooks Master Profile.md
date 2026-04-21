@@ -22,6 +22,18 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21
+committees:
+  - Education and the American Family
+  - Employment and Workplace Safety
+  - Financial Institutions and Consumer Protection
+  - "Fisheries, Wildlife, and Water"
+  - "Housing, Transportation, and Community Development"
+  - "Securities, Insurance, and Investment"
+  - "Senate Committee on Banking, Housing, and Urban Affairs"
+  - Senate Committee on Environment and Public Works
+  - "Senate Committee on Health, Education, Labor, and Pensions"
+  - Senate Special Committee on Aging
+  - Transportation and Infrastructure
 ---
 
 

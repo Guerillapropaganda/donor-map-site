@@ -2,7 +2,7 @@
 title: Ron Johnson
 type: politician
 bioguide-id: J000293
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: Johnson's donor-class function is to serve as the billionaire manufacturing and pass-through business class's enforcer in the Senate — a wealthy CEO who entered politics to protect the tax and regulatory structures that benefit people exactly like...
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
@@ -25,6 +25,22 @@ bills-enacted: 0
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: Congress
 last-enriched: 2026-04-20
+committees:
+  - "Border Management, Federal Workforce, and Regulatory Affairs"
+  - Fiscal Responsibility and Economic Growth
+  - Health Care
+  - Permanent Subcommittee on Investigations
+  - Senate Committee on Finance
+  - Senate Committee on Homeland Security and Governmental Affairs
+  - Senate Committee on the Budget
+  - Senate Special Committee on Aging
+  - Taxation and IRS Oversight
+source-types:
+  - Congress
+  - GovTrack
+corroboration-count: 2
+known-gaps:
+  - "No FEC contribution data"
 ---
 
 

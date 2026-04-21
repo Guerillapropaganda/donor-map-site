@@ -27,6 +27,11 @@ bills-cosponsored: 492
 bills-enacted: 0
 top-policy-area: "Health"
 last-enriched: 2026-04-21
+committees:
+  - "Digital Assets, Financial Technology, and Artificial Intelligence"
+  - House Committee on Ethics
+  - House Committee on Financial Services
+  - Housing and Insurance
 ---
 
 

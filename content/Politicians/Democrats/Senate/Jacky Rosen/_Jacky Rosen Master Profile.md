@@ -37,6 +37,20 @@ bills-enacted: 1
 top-policy-area: Armed Forces and National Security
 top-donors: "[[American Federation of State County & Municipal Employees P E O P L E]], [[Teamsters - International Brotherhood of Teamsters]], [[Pfizer Inc.]], [[L3Harris Technologies]], [[General Motors]], [[SEIU - Service Employees International Union]], [[DMFI - Democratic Majority for Israel]], [[Raytheon (RTX)]], [[CHC BOLD PAC]], [[Gilead Sciences]], [[Votevets]], [[AT&T - WarnerMedia]], [[Sierra Club Independent Action]], [[MoveOn.org Political Action]], [[Judy Chu]], [[Emily's List]], [[314 ACTION FUND]], [[Humana]], [[Bank of America]], [[BAE Systems]], [[Lockheed Martin]], [[National Restaurant Association]], [[American Hospital Association PAC]], [[American Chemistry Council, INC]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[iHeartMedia]], [[General Dynamics]], [[AbbVie]], [[DSCC - Democratic Senatorial Campaign Committee]], [[NEA Fund for Children and Public Education]], [[Comcast - NBCUniversal]], [[Ford Motor Company]], [[Indivisible Action]], [[Let America Vote PAC]], [[United We Can]], [[Jon Ossoff]], [[Leidos]], [[Amgen Inc]], [[Everytown for Gun Safety Victory Fund]], [[WinSenate]], [[Nancy Pelosi]], [[Edf Action Votes]], [[Chrissy Houlahan]], [[The Sentinel Action Fund]], [[Northrop Grumman]], [[PG&E - Pacific Gas and Electric]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Anthem - Elevance Health]], [[Senate Conservatives Fund]], [[Giffords PAC]], [[American College of Radiology Association PAC]], [[Planned Parenthood Action Fund INC]], [[National Rifle Association]], [[Google - Alphabet]], [[American Gaming Association]], [[Care Action]], [[National Association of Realtors]], [[Sinclair Broadcast Group]], [[Johnson & Johnson]], [[NextEra Energy]], [[NORPAC]], [[Microsoft]], [[Tyson Foods]], [[National Committee to Preserve Social Security PAC]], [[SLF PAC]], [[Honeywell]], [[Walmart - Walton Family]], [[Activate America]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Sierra Club Political Committee]], [[National Multifamily Housing Council]], [[Unite Here Tip Campaign Committee]], [[SEIU COPE]], [[Americans for Prosperity]], [[Citigroup]], [[CVS Health - Aetna]], [[League of Conservation Voters]], [[AIPAC - American Israel Public Affairs Committee]], [[NRSC - National Republican Senatorial Committee]], [[Everytown for Gun Safety]], [[Honeywell International]], [[314 Action Fund]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[AT&T]]"
 last-enriched: 2026-04-20
+committees:
+  - "Aviation, Space, and Innovation"
+  - Cybersecurity
+  - Emerging Threats and Capabilities
+  - "Multilateral International Development, Multilateral Institutions, and International Economic, Energy, and Environmental Policy"
+  - "Near East, South Asia, Central Asia, and Counterterrorism"
+  - "Science, Manufacturing, and Competitiveness"
+  - Senate Committee on Armed Services
+  - "Senate Committee on Commerce, Science, and Transportation"
+  - Senate Committee on Foreign Relations
+  - Senate Committee on Small Business and Entrepreneurship
+  - Strategic Forces
+  - Telecommunications and Media
+  - "Western Hemisphere, Transnational Crime, Civilian Security, Democracy, Human Rights, and Global Women's Issues"
 ---
 
 

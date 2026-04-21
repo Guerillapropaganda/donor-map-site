@@ -25,6 +25,17 @@ urls-first-triaged: "2026-04-15"
 fec-candidate-id: H6NC09200
 top-donors: "[[National Rifle Association]], [[AIPAC - American Israel Public Affairs Committee]], [[National Restaurant Association]], [[Campaign for Working Families]], [[Ralph Norman]], [[Bank of America]], [[Wells Fargo]], [[Amazon]], [[Morgan Stanley]], [[Novo Nordisk]], [[Duke Energy]], [[SpaceX]], [[Blackstone Group]], [[Goldman Sachs]], [[HBW Resources]]"
 last-enriched: 2026-04-21
+committees:
+  - "Early Childhood, Elementary, and Secondary Education"
+  - "General Farm Commodities, Risk Management, and Credit"
+  - Higher Education and Workforce Development
+  - House Committee on Agriculture
+  - House Committee on Education and Workforce
+  - House Committee on the Judiciary
+  - "Livestock, Dairy, and Poultry"
+  - Nutrition and Foreign Agriculture
+  - "The Administrative State, Regulatory Reform, and Antitrust"
+  - The Constitution and Limited Government
 ---
 
 

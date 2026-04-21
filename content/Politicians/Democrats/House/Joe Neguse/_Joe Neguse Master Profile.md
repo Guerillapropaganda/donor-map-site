@@ -28,6 +28,15 @@ bills-enacted: 9
 top-policy-area: Health
 top-donors: "[[Citigroup]], [[PG&E - Pacific Gas and Electric]], [[Kaiser Permanente]], [[UPS]], [[Google - Alphabet]], [[Microsoft]], [[Oracle]], [[Hospital Corporation of America - HCA]], [[Apple]], [[Center for American Progress]], [[Ripple]], [[Charles Schwab]], [[Goldman Sachs]], [[Amazon]], [[FTX - Sam Bankman-Fried]], [[iHeartMedia]], [[Airbnb]], [[Lockheed Martin]], [[Comcast - NBCUniversal]], [[McDonalds Corporation]]"
 last-enriched: 2026-04-21
+committees:
+  - "Courts, Intellectual Property, Artificial Intelligence, and the Internet"
+  - Federal Lands
+  - House Committee on Natural Resources
+  - House Committee on Rules
+  - House Committee on the Judiciary
+  - Legislative and Budget Process
+  - The Constitution and Limited Government
+  - "Water, Wildlife and Fisheries"
 ---
 
 

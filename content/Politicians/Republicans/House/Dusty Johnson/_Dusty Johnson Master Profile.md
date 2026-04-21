@@ -28,6 +28,15 @@ bills-cosponsored: 209
 bills-enacted: 0
 top-policy-area: Agriculture and Food
 last-enriched: 2026-04-21
+committees:
+  - Aviation
+  - "Commodity Markets, Digital Assets, and Rural Development"
+  - "General Farm Commodities, Risk Management, and Credit"
+  - Highways and Transit
+  - House Committee on Agriculture
+  - House Committee on Transportation and Infrastructure
+  - House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party
+  - "Railroads, Pipelines, and Hazardous Materials"
 ---
 
 

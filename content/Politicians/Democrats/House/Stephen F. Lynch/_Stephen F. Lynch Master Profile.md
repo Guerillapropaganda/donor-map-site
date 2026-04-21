@@ -27,6 +27,14 @@ bills-cosponsored: 509
 bills-enacted: 0
 top-policy-area: "Health"
 last-enriched: 2026-04-21
+committees:
+  - Capital Markets
+  - Delivering on Government Efficiency
+  - "Digital Assets, Financial Technology, and Artificial Intelligence"
+  - Financial Institutions
+  - House Committee on Financial Services
+  - House Committee on Oversight and Government Reform
+  - Military and Foreign Affairs
 ---
 
 

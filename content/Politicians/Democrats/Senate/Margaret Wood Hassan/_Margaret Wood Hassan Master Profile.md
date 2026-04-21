@@ -26,6 +26,19 @@ bills-cosponsored: 349
 bills-enacted: 0
 top-policy-area: "Health"
 last-enriched: 2026-04-21
+committees:
+  - "Border Management, Federal Workforce, and Regulatory Affairs"
+  - Employment and Workplace Safety
+  - "Energy, Natural Resources, and Infrastructure"
+  - Health Care
+  - Joint Economic Committee
+  - Permanent Subcommittee on Investigations
+  - Primary Health and Retirement Security
+  - Senate Committee on Finance
+  - "Senate Committee on Health, Education, Labor, and Pensions"
+  - Senate Committee on Homeland Security and Governmental Affairs
+  - "Senate Committee on Veterans' Affairs"
+  - Taxation and IRS Oversight
 ---
 
 

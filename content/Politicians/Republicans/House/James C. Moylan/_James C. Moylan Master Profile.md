@@ -27,6 +27,16 @@ bills-cosponsored: 344
 bills-enacted: 0
 top-policy-area: "Armed Forces and National Security"
 last-enriched: 2026-04-21
+committees:
+  - "Early Childhood, Elementary, and Secondary Education"
+  - East Asia and Pacific
+  - Higher Education and Workforce Development
+  - House Committee on Armed Services
+  - House Committee on Education and Workforce
+  - House Committee on Foreign Affairs
+  - Readiness
+  - Seapower and Projection Forces
+  - South and Central Asia
 ---
 
 

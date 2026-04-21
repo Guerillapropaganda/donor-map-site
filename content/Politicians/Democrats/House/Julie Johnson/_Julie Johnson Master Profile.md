@@ -27,6 +27,16 @@ urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4TX32089
 last-enriched: 2026-04-21
 corroboration-count: 3
+committees:
+  - Border Security and Enforcement
+  - Elections
+  - Emergency Management and Technology
+  - Europe
+  - House Committee on Foreign Affairs
+  - House Committee on Homeland Security
+  - House Committee on House Administration
+  - Joint Committee of Congress on the Library
+  - South and Central Asia
 ---
 
 

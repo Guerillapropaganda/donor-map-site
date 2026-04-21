@@ -28,6 +28,17 @@ bills-cosponsored: 490
 bills-enacted: 1
 top-policy-area: "Armed Forces and National Security"
 last-enriched: 2026-04-20
+committees:
+  - Airland
+  - Energy
+  - National Parks
+  - "Public Lands, Forests, and Mining"
+  - Seapower
+  - Senate Committee on Armed Services
+  - Senate Committee on Energy and Natural Resources
+  - "Senate Committee on Veterans' Affairs"
+  - Senate Select Committee on Intelligence
+  - Strategic Forces
 ---
 
 

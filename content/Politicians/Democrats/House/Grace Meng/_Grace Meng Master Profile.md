@@ -29,6 +29,10 @@ bills-enacted: 1
 top-policy-area: Health
 top-donors: "[[Raytheon (RTX)]], [[Anthem - Elevance Health]], [[Google - Alphabet]], [[AT&T - WarnerMedia]], [[SEIU COPE]], [[Microsoft]], [[American Federation of State County & Municipal Employees P E O P L E]], [[NEA Fund for Children and Public Education]], [[Comcast - NBCUniversal]], [[Sierra Club Political Committee]], [[Honeywell]], [[IBEW - International Brotherhood of Electrical Workers]], [[UA Political Action Committee]], [[Everytown for Gun Safety]], [[General Motors]], [[Teamsters - International Brotherhood of Teamsters]], [[CVS Health - Aetna]], [[Leidos]], [[Lockheed Martin]], [[National Association of Realtors]], [[Progressive Turnout Project]], [[Amgen Inc]], [[League of Conservation Voters]], [[Judy Chu]], [[DMFI - Democratic Majority for Israel]], [[National Multifamily Housing Council]], [[L3Harris Technologies]], [[AIPAC - American Israel Public Affairs Committee]], [[Northrop Grumman]], [[American Gaming Association]], [[Medicare for All - The Policy That Broke the Party]], [[NORPAC]], [[American Hospital Association PAC]], [[Unite Here Tip Campaign Committee]], [[Gilead Sciences]], [[Planned Parenthood Votes]], [[BAE Systems]], [[McDonalds Corporation]], [[National Nurses United]], [[Sierra Club Independent Action]], [[Coinbase]], [[Citigroup]], [[AbbVie]], [[Pfizer Inc.]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Honeywell International]], [[AT&T]]"
 last-enriched: 2026-04-21
+committees:
+  - "Commerce, Justice, Science, and Related Agencies"
+  - House Committee on Appropriations
+  - "National Security, Department of State, and Related Programs"
 ---
 
 

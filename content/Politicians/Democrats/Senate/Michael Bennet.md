@@ -4,7 +4,7 @@ type: politician
 bioguide-id: B001267
 chamber: Senate
 party: Democrat
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: Bennet's political career is underwritten by education reform donors. As DPS superintendent, he implemented charter school expansion (70+ new charters opened during his tenure, 48 schools closed). This positioned him as attractive to Eli Broad, Wa...
 last-updated: 2026-04-18
 source-tier: 1
@@ -27,6 +27,21 @@ bills-sponsored: 75
 bills-cosponsored: 333
 bills-enacted: 0
 top-policy-area: "Health"
+committees:
+  - "Conservation, Forestry, Natural Resources, and Biotechnology"
+  - "Energy, Natural Resources, and Infrastructure"
+  - "International Trade, Customs, and Global Competitiveness"
+  - "Rural Development, Energy, and Credit"
+  - "Senate Committee on Agriculture, Nutrition, and Forestry"
+  - Senate Committee on Finance
+  - Senate Committee on Rules and Administration
+  - Senate Select Committee on Intelligence
+  - Taxation and IRS Oversight
+source-types:
+  - Congress
+known-gaps:
+  - "No FEC contribution data"
+  - "No voting record data"
 ---
 
 

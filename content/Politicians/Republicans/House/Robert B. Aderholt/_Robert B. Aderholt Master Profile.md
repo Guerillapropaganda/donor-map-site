@@ -27,6 +27,11 @@ bills-cosponsored: 167
 bills-enacted: 0
 top-policy-area: "Health"
 last-enriched: 2026-04-21
+committees:
+  - "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies"
+  - Defense
+  - House Committee on Appropriations
+  - "Labor, Health and Human Services, Education, and Related Agencies"
 ---
 
 

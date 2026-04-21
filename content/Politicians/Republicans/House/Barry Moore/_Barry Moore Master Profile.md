@@ -27,6 +27,15 @@ bills-cosponsored: 414
 bills-enacted: 0
 top-policy-area: "Crime and Law Enforcement"
 last-enriched: 2026-04-21
+committees:
+  - Crime and Federal Government Surveillance
+  - Forestry and Horticulture
+  - "General Farm Commodities, Risk Management, and Credit"
+  - House Committee on Agriculture
+  - House Committee on the Judiciary
+  - "Immigration Integrity, Security, and Enforcement"
+  - "Livestock, Dairy, and Poultry"
+  - Oversight
 ---
 
 

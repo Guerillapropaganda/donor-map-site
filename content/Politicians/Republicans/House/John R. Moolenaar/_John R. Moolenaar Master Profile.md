@@ -27,6 +27,12 @@ bills-cosponsored: 437
 bills-enacted: 0
 top-policy-area: "International Affairs"
 last-enriched: 2026-04-21
+committees:
+  - "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies"
+  - House Committee on Appropriations
+  - House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party
+  - "Labor, Health and Human Services, Education, and Related Agencies"
+  - "National Security, Department of State, and Related Programs"
 ---
 
 
