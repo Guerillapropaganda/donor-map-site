@@ -217,6 +217,10 @@ const SOURCES = [
   // GovInfo Bill Status — bill metadata + sponsor/cosponsor lineage
   // from BILLSTATUS-{congress}-{type}.zip bulk files.
   'govinfo-bill-status',
+  // ICIJ Offshore Leaks database — Panama/Paradise/Pandora Papers +
+  // Offshore Leaks + Bahamas Leaks combined. Officer/intermediary links
+  // from vault entities into offshore shell companies.
+  'icij-offshore-leaks',
 ];
 
 const STATUSES = ['active', 'historical', 'disputed', 'deprecated'];
@@ -255,6 +259,10 @@ const MIGRATION_SOURCES = new Set([
   // containing 2-record. Aggregated edges are lifetime totals with an
   // empty cycle — valid data, not missing data.
   'irs-pofd-8872',
+  // ICIJ Offshore Leaks: relationship dates are frequently missing
+  // (registry disclosures don't always state when an officer role began).
+  // Edges record "X is officer of offshore entity Y" without cycle.
+  'icij-offshore-leaks',
 ]);
 
 // ─── Title normalization ──────────────────────────────────────────────
