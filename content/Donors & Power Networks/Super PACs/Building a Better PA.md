@@ -1,7 +1,7 @@
 ---
 title: "Building a Better PA"
 type: donor
-content-readiness: draft
+content-readiness: data-complete
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -102,3 +102,11 @@ from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `BUILDING A BETTER PA`
+
+## Sources
+
+<!-- auto:harvested-sources start -->
+- [FEC: committee filings C00559781](https://www.fec.gov/data/committee/C00559781/) (Tier 1)
+
+*Auto-generated from canonical government identifiers in frontmatter (bioguide, FEC, IRS EIN). These URLs are deterministic — constructed from IDs, not manually curated or hunted. See content/Vault Rules.md § 2b on canonical URL construction.*
+<!-- auto:harvested-sources end -->

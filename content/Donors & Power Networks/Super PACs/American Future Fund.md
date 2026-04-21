@@ -2,7 +2,7 @@
 title: American Future Fund
 type: donor
 ein: "260620554"
-content-readiness: draft
+content-readiness: ready
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -111,3 +111,11 @@ This profile absorbs the following FEC-format committee name(s):
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->
+
+## Sources
+
+<!-- auto:harvested-sources start -->
+- [ProPublica Nonprofit Explorer: EIN 260620554 (IRS 990 filings)](https://projects.propublica.org/nonprofits/organizations/260620554) (Tier 1)
+
+*Auto-generated from canonical government identifiers in frontmatter (bioguide, FEC, IRS EIN). These URLs are deterministic — constructed from IDs, not manually curated or hunted. See content/Vault Rules.md § 2b on canonical URL construction.*
+<!-- auto:harvested-sources end -->

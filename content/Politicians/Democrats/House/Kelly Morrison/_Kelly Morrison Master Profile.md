@@ -154,3 +154,13 @@ last-enriched: 2026-04-21
 # Kelly Morrison
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+## Sources
+
+<!-- auto:harvested-sources start -->
+- [Congress.gov: member profile (bioguide M001234)](https://www.congress.gov/member/M001234) (Tier 1)
+- [GovTrack: voting record (456996)](https://www.govtrack.us/congress/members/456996) (Tier 1)
+- [FEC: candidate filings H4MN03118](https://www.fec.gov/data/candidate/H4MN03118/) (Tier 1)
+
+*Auto-generated from canonical government identifiers in frontmatter (bioguide, FEC, IRS EIN). These URLs are deterministic — constructed from IDs, not manually curated or hunted. See content/Vault Rules.md § 2b on canonical URL construction.*
+<!-- auto:harvested-sources end -->

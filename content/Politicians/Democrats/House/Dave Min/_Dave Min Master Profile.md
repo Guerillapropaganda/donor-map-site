@@ -248,3 +248,13 @@ The law-professor background (securities regulation, financial law) suggests Min
 **Both-Sides Illusion.** AIPAC and DMFI opposed Min while LCV and Everytown supported him. The same candidate attracted maximum-scale opposition from pro-Israel Democratic infrastructure and maximum-scale support from environmental and gun-safety Democratic infrastructure. These are both wings of the Democratic coalition, and they chose opposite sides in the same race. This is not ideological incoherence on Min's part; it is the Democratic coalition's internal conflict over Israel-Palestine policy playing out in an outside-spending battle in a California swing district.
 
 **Donor-Class Override (attempted).** The $4.6M UDP/AIPAC opposition investment is an attempt to override progressive Democratic donor-class support for Min. The attempt failed: Min won. But the UDP investment establishes AIPAC's willingness to spend at scale against Democrats who deviate from pro-Israel positioning, creating a deterrent effect for other California Democrats who might consider similar positions. The spending against Min is not only about Min; it is a signal to the broader California Democratic delegation about the cost of deviation from AIPAC-aligned positions.
+
+## Sources
+
+<!-- auto:harvested-sources start -->
+- [Congress.gov: member profile (bioguide M001241)](https://www.congress.gov/member/M001241) (Tier 1)
+- [GovTrack: voting record (456981)](https://www.govtrack.us/congress/members/456981) (Tier 1)
+- [FEC: candidate filings H4CA47085](https://www.fec.gov/data/candidate/H4CA47085/) (Tier 1)
+
+*Auto-generated from canonical government identifiers in frontmatter (bioguide, FEC, IRS EIN). These URLs are deterministic — constructed from IDs, not manually curated or hunted. See content/Vault Rules.md § 2b on canonical URL construction.*
+<!-- auto:harvested-sources end -->

@@ -1,7 +1,7 @@
 ---
 title: Sarah Elfreth
 type: politician
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 party: Democrat
@@ -17,6 +17,8 @@ website: https://elfreth.house.gov
 phone: 202-225-4016
 source-types:
   - Congress
+  - FEC
+  - GovTrack
 known-gaps:
   - "No FEC contribution data"
   - "No voting record data"
@@ -24,6 +26,7 @@ donors: "[[United Democracy Project - UDP]], [[NEA Fund for Children and Public 
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4MD03156
 last-enriched: 2026-04-21
+corroboration-count: 3
 ---
 
 
@@ -161,3 +164,13 @@ last-enriched: 2026-04-21
 # Sarah Elfreth
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+## Sources
+
+<!-- auto:harvested-sources start -->
+- [Congress.gov: member profile (bioguide E000301)](https://www.congress.gov/member/E000301) (Tier 1)
+- [GovTrack: voting record (456992)](https://www.govtrack.us/congress/members/456992) (Tier 1)
+- [FEC: candidate filings H4MD03156](https://www.fec.gov/data/candidate/H4MD03156/) (Tier 1)
+
+*Auto-generated from canonical government identifiers in frontmatter (bioguide, FEC, IRS EIN). These URLs are deterministic — constructed from IDs, not manually curated or hunted. See content/Vault Rules.md § 2b on canonical URL construction.*
+<!-- auto:harvested-sources end -->

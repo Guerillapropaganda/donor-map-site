@@ -154,3 +154,13 @@ last-enriched: 2026-04-21
 # Cleo Fields
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+## Sources
+
+<!-- auto:harvested-sources start -->
+- [Congress.gov: member profile (bioguide F000110)](https://www.congress.gov/member/F000110) (Tier 1)
+- [GovTrack: voting record (404067)](https://www.govtrack.us/congress/members/404067) (Tier 1)
+- [FEC: candidate filings H4LA06211](https://www.fec.gov/data/candidate/H4LA06211/) (Tier 1)
+
+*Auto-generated from canonical government identifiers in frontmatter (bioguide, FEC, IRS EIN). These URLs are deterministic — constructed from IDs, not manually curated or hunted. See content/Vault Rules.md § 2b on canonical URL construction.*
+<!-- auto:harvested-sources end -->

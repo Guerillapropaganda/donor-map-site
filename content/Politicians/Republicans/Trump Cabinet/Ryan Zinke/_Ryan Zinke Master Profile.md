@@ -105,3 +105,12 @@ last-enriched: 2026-04-21
 # Ryan Zinke
 
 Secretary of the Interior (2017-2019). Profile pending enrichment.
+
+## Sources
+
+<!-- auto:harvested-sources start -->
+- [Congress.gov: member profile (bioguide Z000018)](https://www.congress.gov/member/Z000018) (Tier 1)
+- [FEC: candidate filings H4MT01041](https://www.fec.gov/data/candidate/H4MT01041/) (Tier 1)
+
+*Auto-generated from canonical government identifiers in frontmatter (bioguide, FEC, IRS EIN). These URLs are deterministic — constructed from IDs, not manually curated or hunted. See content/Vault Rules.md § 2b on canonical URL construction.*
+<!-- auto:harvested-sources end -->

@@ -174,3 +174,13 @@ last-enriched: 2026-04-21
 # Brandon Gill
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+## Sources
+
+<!-- auto:harvested-sources start -->
+- [Congress.gov: member profile (bioguide G000603)](https://www.congress.gov/member/G000603) (Tier 1)
+- [GovTrack: voting record (457023)](https://www.govtrack.us/congress/members/457023) (Tier 1)
+- [FEC: candidate filings H4TX26149](https://www.fec.gov/data/candidate/H4TX26149/) (Tier 1)
+
+*Auto-generated from canonical government identifiers in frontmatter (bioguide, FEC, IRS EIN). These URLs are deterministic — constructed from IDs, not manually curated or hunted. See content/Vault Rules.md § 2b on canonical URL construction.*
+<!-- auto:harvested-sources end -->

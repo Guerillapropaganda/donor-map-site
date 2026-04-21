@@ -1,7 +1,7 @@
 ---
 title: Ashley Moody
 type: politician
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-19
 source-tier: 1
 party: Republican
@@ -16,15 +16,17 @@ website: https://www.moody.senate.gov
 phone: 202-224-3041
 source-types:
   - Congress
+  - FEC
+  - GovTrack
 known-gaps:
-  - No Senate fundraising cycle completed (appointed December 2024; FEC lifetime data is predominantly from FL AG campaign cycles)
-  - Committee assignments not yet in pipeline
+  - "No mapped relationships"
 central-thesis: "Ashley Moody is the DeSantis appointment who replaced Rubio without a Senate election or voter mandate. Her 99.0% party loyalty in 734 votes (119th Congress only) is the brand-new senator's loyalty score before any independent deviation pattern emerges. The donor base is her AG legacy: healthcare companies she regulated as AG (Wellpoint/Anthem, Amgen, CVS/Aetna, Anesthesiologists) and defense contractors reflecting Florida's military-base economy. The AG who led ACA lawsuits is now funded by the insurers who operate under that system."
 editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: S6FL00640
 top-donors: "[[National Association of Realtors]], [[Johnson & Johnson]], [[Senate Conservatives Fund]], [[Amgen Inc]], [[Honeywell]], [[Duke Energy]], [[Nucor Corporation]], [[CVS Health - Aetna]], [[NRSC - National Republican Senatorial Committee]], [[Comcast - NBCUniversal]], [[Law Enforcement for a Safer America Pac]], [[Care Action]], [[L3Harris Technologies]], [[Microsoft]], [[Walmart - Walton Family]], [[AbbVie]], [[Associated General Contractors of America Political Action Committee]], [[Chevron]], [[Lockheed Martin]], [[American Hospital Association PAC]], [[American College of Radiology Association PAC]], [[General Dynamics]], [[Anthem - Elevance Health]], [[Humana]], [[General Motors]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Pfizer Inc.]], [[National Restaurant Association]], [[BAE Systems]], [[National Rifle Association]], [[VIEW PAC - Value in Electing Women]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Republican Jewish Coalition]], [[Northrop Grumman]], [[Citigroup]], [[Common Sense for America PAC]], [[Gilead Sciences]], [[NextEra Energy]], [[Honeywell International]]"
 last-enriched: 2026-04-20
+corroboration-count: 3
 ---
 
 
@@ -235,3 +237,13 @@ The DeSantis appointment raises a structural question that the donor data cannot
 **Revolving Door (regulatory).** The AG-to-Senate pipeline is the state-level equivalent of the federal revolving door. As Florida AG, Moody exercised jurisdiction over the same industries that gave to her campaigns. She is now in the Senate, where some of those regulatory relationships convert to legislative ones. Healthcare companies that gave to the AG who oversaw their state compliance now give to the senator who votes on federal healthcare legislation. The individuals are the same; the legislative lever is different.
 
 **Genuine Win + Structural Limit (deferred).** There is no Genuine Win yet: no legislation, no contested election win, no Senate-specific policy delivery. The structural limit (donor coalition, DeSantis network) is already established before the win has been achieved. This is the appointed senator's specific situation: the constraints are in place before the electoral mandate is earned.
+
+## Sources
+
+<!-- auto:harvested-sources start -->
+- [Congress.gov: member profile (bioguide M001244)](https://www.congress.gov/member/M001244) (Tier 1)
+- [GovTrack: voting record (457033)](https://www.govtrack.us/congress/members/457033) (Tier 1)
+- [FEC: candidate filings S6FL00640](https://www.fec.gov/data/candidate/S6FL00640/) (Tier 1)
+
+*Auto-generated from canonical government identifiers in frontmatter (bioguide, FEC, IRS EIN). These URLs are deterministic — constructed from IDs, not manually curated or hunted. See content/Vault Rules.md § 2b on canonical URL construction.*
+<!-- auto:harvested-sources end -->

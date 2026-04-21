@@ -166,3 +166,13 @@ last-enriched: 2026-04-21
 # Derek Schmidt
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+## Sources
+
+<!-- auto:harvested-sources start -->
+- [Congress.gov: member profile (bioguide S001228)](https://www.congress.gov/member/S001228) (Tier 1)
+- [GovTrack: voting record (456990)](https://www.govtrack.us/congress/members/456990) (Tier 1)
+- [FEC: candidate filings H4KS02164](https://www.fec.gov/data/candidate/H4KS02164/) (Tier 1)
+
+*Auto-generated from canonical government identifiers in frontmatter (bioguide, FEC, IRS EIN). These URLs are deterministic — constructed from IDs, not manually curated or hunted. See content/Vault Rules.md § 2b on canonical URL construction.*
+<!-- auto:harvested-sources end -->

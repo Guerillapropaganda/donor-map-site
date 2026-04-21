@@ -112,3 +112,12 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Full list: query Ask with* `subject: bills, sponsor_bioguide: S001188` *· Source: GovInfo Bill Status XML bulk.*
 <!-- auto:sponsored-bills end -->
+
+## Sources
+
+<!-- auto:harvested-sources start -->
+- [Congress.gov: member profile (bioguide S001188)](https://www.congress.gov/member/S001188) (Tier 1)
+- [GovTrack: voting record (412392)](https://www.govtrack.us/congress/members/412392) (Tier 1)
+
+*Auto-generated from canonical government identifiers in frontmatter (bioguide, FEC, IRS EIN). These URLs are deterministic — constructed from IDs, not manually curated or hunted. See content/Vault Rules.md § 2b on canonical URL construction.*
+<!-- auto:harvested-sources end -->
