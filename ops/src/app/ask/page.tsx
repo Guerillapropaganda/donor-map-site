@@ -98,6 +98,15 @@ interface AskResponse {
   why_matters?: string
   who_is_lead?: { name: string; oneLiner: string }
   empty_reason?: string
+  // ADR-0016 labeled breakdown — labeled slices instead of one total
+  breakdown?: Array<{
+    label: string
+    value: string
+    numeric?: number
+    citation?: string
+    note?: string
+    legal_shield?: boolean
+  }>
 }
 
 // Glossary: terms we automatically decorate with hover tooltips.
@@ -563,6 +572,23 @@ function ResultCard({ r, onFollowUp }: { r: AskResponse; onFollowUp: (q: string)
 
         {r.answer && <div style={styles.answer}>{renderRichText(r.answer)}</div>}
 
+        {/* ADR-0016 labeled breakdown */}
+        {r.breakdown && r.breakdown.length > 0 && (
+          <div style={styles.breakdownWrap}>
+            <div style={styles.breakdownHeading}>Breakdown</div>
+            {r.breakdown.map((row, i) => (
+              <div key={i} style={row.legal_shield ? styles.breakdownRowShield : styles.breakdownRow}>
+                <div style={styles.breakdownLabel}>{row.label}</div>
+                <div style={styles.breakdownValue}>
+                  {renderRichText(row.value)}
+                  {row.citation && <span style={styles.breakdownCite}> [{row.citation}]</span>}
+                </div>
+                {row.note && <div style={styles.breakdownNote}>{renderRichText(row.note)}</div>}
+              </div>
+            ))}
+          </div>
+        )}
+
         {r.bullets && r.bullets.length > 0 && (
           <ul style={styles.bullets}>
             {r.bullets.map((b, i) => (
@@ -867,6 +893,15 @@ const styles: Record<string, React.CSSProperties> = {
   cardHead: { marginBottom: 12 },
   cardLabel: { fontSize: 11, fontWeight: 700, color: "#fbbf24", letterSpacing: 2, marginBottom: 8 },
   answer: { fontSize: 17, color: "#fff", lineHeight: 1.45, marginBottom: 10 },
+  // ADR-0016 labeled breakdown — ops dark theme
+  breakdownWrap: { margin: "10px 0 14px 0", padding: "10px 14px", background: "#0a0f1a", borderLeft: "3px solid #60a5fa" },
+  breakdownHeading: { fontSize: 11, fontWeight: 800, color: "#888", letterSpacing: 2, textTransform: "uppercase" as const, marginBottom: 8 },
+  breakdownRow: { marginBottom: 8, paddingBottom: 8, borderBottom: "1px dashed #222" },
+  breakdownRowShield: { marginBottom: 8, paddingBottom: 8, borderBottom: "1px dashed #222", borderLeft: "3px solid #fbbf24", paddingLeft: 8, background: "rgba(251, 191, 36, 0.06)" },
+  breakdownLabel: { fontSize: 11, fontWeight: 700, color: "#888", letterSpacing: 0.5, textTransform: "uppercase" as const, marginBottom: 2 },
+  breakdownValue: { fontSize: 15, color: "#eee", fontFamily: "'Space Mono', monospace", fontWeight: 600 },
+  breakdownCite: { fontSize: 11, color: "#666", fontWeight: 400, marginLeft: 4 },
+  breakdownNote: { fontSize: 13, color: "#aaa", marginTop: 4, fontStyle: "italic" as const, lineHeight: 1.45 },
   bullets: { margin: "6px 0 12px 0", padding: "0 0 0 20px", color: "#ddd" },
   bulletItem: { fontSize: 14, lineHeight: 1.55, marginBottom: 4 },
   resolved: { fontSize: 12, color: "#888", marginBottom: 4 },

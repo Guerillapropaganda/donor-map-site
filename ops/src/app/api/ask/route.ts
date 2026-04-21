@@ -1715,27 +1715,41 @@ interface BreakdownInput {
 // "daf", "super-pac", "corp", "other". Drives which breakdown template
 // to use.
 function entityStructuralRole(ent: any, name: string): string {
-  if (!ent) {
-    // Name-pattern fallback — same DAF patterns used in the empty-state
-    // branch of donors_to.
-    const nameLower = name.toLowerCase()
-    const DAF_NAME_PATTERNS = [
-      /\bcharitable\s+(fund|gift|trust)\b/,
-      /\b(fidelity|schwab|vanguard)\s+charitable\b/,
-      /\bdonor[\s-]?advised\b/,
-      /\bnational philanthropic trust\b/,
-      /\bcommunity foundation\b/,
-    ]
-    if (DAF_NAME_PATTERNS.some((rx) => rx.test(nameLower))) return "daf"
-    return "other"
-  }
+  const nameLower = name.toLowerCase()
+  const DAF_NAME_PATTERNS = [
+    /\bcharitable\s+(fund|gift|trust)\b/,
+    /\b(fidelity|schwab|vanguard)\s+charitable\b/,
+    /\bdonor[\s-]?advised\b/,
+    /\bnational philanthropic trust\b/,
+    /\bcommunity foundation\b/,
+  ]
+  // Known 501(c)(4) dark-money vehicles by name — entity store has
+  // many of them misclassified as "Super PACs" (see Pattern B-3 audit).
+  // Until the sector store is cleaned up, override by name.
+  const DARK_MONEY_NAME_PATTERNS = [
+    /\bmarble freedom trust\b/,
+    /\bsixteen thirty fund\b/,
+    /\bthe 85 fund\b/,
+    /\bjudicial crisis network\b/,
+    /\bcrossroads gps\b/,
+    /\bnew venture fund\b/,
+    /\bamericans for prosperity\b/,
+    /\bhopewell fund\b/,
+    /\bnorth fund\b/,
+    /\bwellspring committee\b/,
+  ]
+  if (DAF_NAME_PATTERNS.some((rx) => rx.test(nameLower))) return "daf"
+  if (DARK_MONEY_NAME_PATTERNS.some((rx) => rx.test(nameLower))) return "dark-money"
+
+  if (!ent) return "other"
   if (ent.entity_type === "politician" || ent.entity_type === "state-politician") return "politician"
   const sector = String(ent?.signals?.sector || "").toLowerCase()
   const capital = String(ent?.capital_type || "").toLowerCase()
+  const profilePath = String(ent?.profile_path || "").toLowerCase()
   if (capital === "daf" || sector === "daf") return "daf"
-  const nameLower = name.toLowerCase()
-  if (/\bcharitable\s+(fund|gift|trust)\b/.test(nameLower) || /\b(fidelity|schwab|vanguard)\s+charitable\b/.test(nameLower)) return "daf"
-  if (sector === "dark money" || capital === "dark-money-vehicle") return "dark-money"
+  // Folder path is a supplementary signal — if the profile lives in
+  // "Dark Money/" treat as dark-money regardless of the drifted sector.
+  if (sector === "dark money" || capital === "dark-money-vehicle" || /donors.*power.*networks[\\/]+dark money[\\/]/i.test(profilePath)) return "dark-money"
   if (sector === "super pacs" || sector === "super-pacs") return "super-pac"
   if (ent.entity_type === "corporation") return "corp"
   return "other"

@@ -30,6 +30,15 @@ interface AskResponse {
   note?: string
   error?: string
   plain_english?: string
+  // ADR-0016: labeled breakdown rows replace ambiguous single totals.
+  breakdown?: Array<{
+    label: string
+    value: string
+    numeric?: number
+    citation?: string
+    note?: string
+    legal_shield?: boolean
+  }>
   visual_flow?: string
   is_this_legal?: string
   why_matters?: string
@@ -256,6 +265,25 @@ function initAskPanel() {
     // 2. Headline answer
     if (r.answer) {
       blocks.push(`<div class="ask-answer">${renderRichText(r.answer)}</div>`)
+    }
+
+    // 2b. ADR-0016 labeled breakdown — structured slices instead of an
+    // ambiguous single total. Rendered as a definition-list so each row
+    // reads as a standalone cited claim ("Bernie's $625K of major donors"
+    // vs "his $550M total FEC receipts"). Legal-shield rows get a
+    // distinct style so "not publicly disclosed" doesn't read as zero.
+    if (r.breakdown && r.breakdown.length > 0) {
+      blocks.push(`<div class="ask-breakdown"><div class="ask-breakdown-heading">Breakdown</div>`)
+      for (const row of r.breakdown) {
+        const cite = row.citation ? ` <span class="ask-breakdown-cite">[${esc(row.citation)}]</span>` : ""
+        const shieldClass = row.legal_shield ? " ask-breakdown-row--shield" : ""
+        blocks.push(`<div class="ask-breakdown-row${shieldClass}">`)
+        blocks.push(`  <div class="ask-breakdown-label">${esc(row.label)}</div>`)
+        blocks.push(`  <div class="ask-breakdown-value">${renderAndGloss(row.value)}${cite}</div>`)
+        if (row.note) blocks.push(`  <div class="ask-breakdown-note">${renderAndGloss(row.note)}</div>`)
+        blocks.push(`</div>`)
+      }
+      blocks.push(`</div>`)
     }
 
     // 3. Bullets (paths, key data points, etc.)

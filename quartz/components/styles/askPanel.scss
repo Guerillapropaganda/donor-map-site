@@ -204,6 +204,64 @@
   margin-bottom: 10px;
 }
 
+// ADR-0016 labeled breakdown. Structured definition-list that replaces
+// the one-liner "$X received" with labeled slices (FEC lifetime /
+// itemized major donors / PAC / IE support / IE attack). Legal-shield
+// rows (501(c)(4) / DAF donor lines) get a distinct yellow left-border
+// so "not publicly disclosed" doesn't read as missing data.
+.ask-breakdown {
+  margin: 10px 0 14px 0;
+  padding: 10px 12px;
+  background: #fafaf6;
+  border-left: 3px solid #1d4ed8;
+}
+.ask-breakdown-heading {
+  font-size: 11px;
+  font-weight: 800;
+  color: #666;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 8px;
+}
+.ask-breakdown-row {
+  margin-bottom: 8px;
+  padding-bottom: 8px;
+  border-bottom: 1px dashed #ddd;
+  &:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
+}
+.ask-breakdown-row--shield {
+  border-left: 3px solid #fbbf24;
+  padding-left: 8px;
+  background: rgba(251, 191, 36, 0.08);
+}
+.ask-breakdown-label {
+  font-size: 11px;
+  font-weight: 700;
+  color: #555;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  margin-bottom: 2px;
+}
+.ask-breakdown-value {
+  font-size: 15px;
+  color: #0a0a0a;
+  font-family: "Space Mono", monospace;
+  font-weight: 600;
+}
+.ask-breakdown-cite {
+  font-size: 11px;
+  color: #999;
+  font-weight: 400;
+  margin-left: 4px;
+}
+.ask-breakdown-note {
+  font-size: 13px;
+  color: #444;
+  margin-top: 4px;
+  font-style: italic;
+  line-height: 1.45;
+}
+
 .ask-bullets {
   margin: 6px 0 14px 22px;
   padding: 0;
