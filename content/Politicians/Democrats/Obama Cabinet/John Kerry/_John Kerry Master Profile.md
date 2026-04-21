@@ -2,21 +2,21 @@
 title: "John Kerry"
 type: politician
 bioguide-id: K000148
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-12
 source-tier: 1
 party: "Democrat"
 chamber: "Secretary of State (2013-2017)"
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
 source-types:
   - Congress
+  - FEC
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "S4MA00069"
 last-enriched: 2026-04-21
+corroboration-count: 2
 ---
 
 
@@ -89,3 +89,12 @@ last-enriched: 2026-04-21
 # John Kerry
 
 Secretary of State (2013-2017). Profile pending enrichment.
+
+## Sources
+
+<!-- auto:harvested-sources start -->
+- [Congress.gov: member profile (bioguide K000148)](https://www.congress.gov/member/K000148) (Tier 1)
+- [FEC: candidate filings S4MA00069](https://www.fec.gov/data/candidate/S4MA00069/) (Tier 1)
+
+*Auto-generated from canonical government identifiers in frontmatter (bioguide, FEC, IRS EIN). These URLs are deterministic — constructed from IDs, not manually curated or hunted. See content/Vault Rules.md § 2b on canonical URL construction.*
+<!-- auto:harvested-sources end -->

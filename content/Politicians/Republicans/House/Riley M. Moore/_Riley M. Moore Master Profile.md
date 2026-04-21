@@ -1,7 +1,7 @@
 ---
 title: "Riley M. Moore"
 type: politician
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-15
 source-tier: 1
 party: "Republican"
@@ -17,12 +17,13 @@ website: "https://rileymoore.house.gov"
 phone: "202-225-2711"
 source-types:
   - Congress
+  - GovTrack
 known-gaps:
   - "No FEC contribution data"
-  - "No voting record data"
 donors: "[[Brady Campaign]]"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21
+corroboration-count: 2
 ---
 
 
@@ -108,3 +109,12 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Full list: query Ask with* `subject: bills, sponsor_bioguide: M001235` *· Source: GovInfo Bill Status XML bulk.*
 <!-- auto:sponsored-bills end -->
+
+## Sources
+
+<!-- auto:harvested-sources start -->
+- [Congress.gov: member profile (bioguide M001235)](https://www.congress.gov/member/M001235) (Tier 1)
+- [GovTrack: voting record (457031)](https://www.govtrack.us/congress/members/457031) (Tier 1)
+
+*Auto-generated from canonical government identifiers in frontmatter (bioguide, FEC, IRS EIN). These URLs are deterministic — constructed from IDs, not manually curated or hunted. See content/Vault Rules.md § 2b on canonical URL construction.*
+<!-- auto:harvested-sources end -->

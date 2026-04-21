@@ -158,3 +158,13 @@ last-enriched: 2026-04-21
 # Emily Randall
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+## Sources
+
+<!-- auto:harvested-sources start -->
+- [Congress.gov: member profile (bioguide R000621)](https://www.congress.gov/member/R000621) (Tier 1)
+- [GovTrack: voting record (457030)](https://www.govtrack.us/congress/members/457030) (Tier 1)
+- [FEC: candidate filings H4WA06117](https://www.fec.gov/data/candidate/H4WA06117/) (Tier 1)
+
+*Auto-generated from canonical government identifiers in frontmatter (bioguide, FEC, IRS EIN). These URLs are deterministic — constructed from IDs, not manually curated or hunted. See content/Vault Rules.md § 2b on canonical URL construction.*
+<!-- auto:harvested-sources end -->

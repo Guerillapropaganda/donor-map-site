@@ -1,7 +1,7 @@
 ---
 title: Midwest Growth PAC
 type: donor
-content-readiness: draft
+content-readiness: ready
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -100,3 +100,11 @@ from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `MIDWEST GROWTH PAC`
+
+## Sources
+
+<!-- auto:harvested-sources start -->
+- [FEC: committee filings C00617779](https://www.fec.gov/data/committee/C00617779/) (Tier 1)
+
+*Auto-generated from canonical government identifiers in frontmatter (bioguide, FEC, IRS EIN). These URLs are deterministic — constructed from IDs, not manually curated or hunted. See content/Vault Rules.md § 2b on canonical URL construction.*
+<!-- auto:harvested-sources end -->

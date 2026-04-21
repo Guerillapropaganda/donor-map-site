@@ -2,7 +2,7 @@
 title: Latino Vote for America Pac
 type: donor
 ein: "844734272"
-content-readiness: draft
+content-readiness: ready
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00742130
@@ -67,3 +67,11 @@ last-enriched: 2026-04-21
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->
+
+## Sources
+
+<!-- auto:harvested-sources start -->
+- [ProPublica Nonprofit Explorer: EIN 844734272 (IRS 990 filings)](https://projects.propublica.org/nonprofits/organizations/844734272) (Tier 1)
+
+*Auto-generated from canonical government identifiers in frontmatter (bioguide, FEC, IRS EIN). These URLs are deterministic — constructed from IDs, not manually curated or hunted. See content/Vault Rules.md § 2b on canonical URL construction.*
+<!-- auto:harvested-sources end -->

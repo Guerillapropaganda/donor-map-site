@@ -1,7 +1,7 @@
 ---
 title: Yassamin Ansari
 type: politician
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Democrat
@@ -17,14 +17,15 @@ website: https://ansari.house.gov
 phone: 202-225-4065
 source-types:
   - Congress
+  - FEC
+  - GovTrack
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4AZ03109
 top-donors: "[[SEIU COPE]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Protect Progress]], [[UA Political Action Committee]], [[National Association of Realtors]], [[Medicare for All - The Policy That Broke the Party]], [[Working Families Party PAC]], [[General Dynamics]], [[American College of Radiology Association PAC]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Emily's List]], [[Ted Lieu]], [[Teamsters - International Brotherhood of Teamsters]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Pete Aguilar]], [[Let America Vote PAC]], [[IBEW - International Brotherhood of Electrical Workers]], [[Mainstream Democrats Pac]], [[Unite Here Tip Campaign Committee]], [[DMFI - Democratic Majority for Israel]], [[Amazon]], [[Morgan Stanley]], [[Honeywell International]], [[Tenet Healthcare]], [[Goldman Sachs]], [[Hospital Corporation of America - HCA]], [[Microsoft]], [[DoorDash]], [[Center for American Progress]], [[AT&T]], [[Securus Technologies - Aventiv]], [[Apollo Global Management]], [[Oracle]], [[Gilead Sciences]], [[Google - Alphabet]], [[Carlyle Group]], [[Meta - Facebook]], [[General Motors]], [[American Federation of State County & Municipal Employees  P E O P L E]]"
 last-enriched: 2026-04-21
+corroboration-count: 3
 ---
 
 
@@ -167,3 +168,13 @@ last-enriched: 2026-04-21
 # Yassamin Ansari
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+## Sources
+
+<!-- auto:harvested-sources start -->
+- [Congress.gov: member profile (bioguide A000381)](https://www.congress.gov/member/A000381) (Tier 1)
+- [GovTrack: voting record (456972)](https://www.govtrack.us/congress/members/456972) (Tier 1)
+- [FEC: candidate filings H4AZ03109](https://www.fec.gov/data/candidate/H4AZ03109/) (Tier 1)
+
+*Auto-generated from canonical government identifiers in frontmatter (bioguide, FEC, IRS EIN). These URLs are deterministic — constructed from IDs, not manually curated or hunted. See content/Vault Rules.md § 2b on canonical URL construction.*
+<!-- auto:harvested-sources end -->

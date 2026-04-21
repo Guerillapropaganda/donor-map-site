@@ -170,3 +170,13 @@ last-enriched: 2026-04-21
 # Ryan Mackenzie
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+## Sources
+
+<!-- auto:harvested-sources start -->
+- [Congress.gov: member profile (bioguide M001230)](https://www.congress.gov/member/M001230) (Tier 1)
+- [GovTrack: voting record (457017)](https://www.govtrack.us/congress/members/457017) (Tier 1)
+- [FEC: candidate filings H8PA15195](https://www.fec.gov/data/candidate/H8PA15195/) (Tier 1)
+
+*Auto-generated from canonical government identifiers in frontmatter (bioguide, FEC, IRS EIN). These URLs are deterministic — constructed from IDs, not manually curated or hunted. See content/Vault Rules.md § 2b on canonical URL construction.*
+<!-- auto:harvested-sources end -->

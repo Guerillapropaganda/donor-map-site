@@ -96,3 +96,11 @@ last-enriched: 2026-04-20
 <!-- _Alexandria Ocasio-Cortez Master Profile.md -->
 
 _This profile renders via the Phase 4 claim-object experiment. If you see this text on the live site, the ClaimObject transformer didn't fire — check `quartz.config.ts` and `quartz/plugins/transformers/claim-object.ts`._
+
+## Sources
+
+<!-- auto:harvested-sources start -->
+- [FEC: candidate filings H8NY15148](https://www.fec.gov/data/candidate/H8NY15148/) (Tier 1)
+
+*Auto-generated from canonical government identifiers in frontmatter (bioguide, FEC, IRS EIN). These URLs are deterministic — constructed from IDs, not manually curated or hunted. See content/Vault Rules.md § 2b on canonical URL construction.*
+<!-- auto:harvested-sources end -->

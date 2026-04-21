@@ -249,3 +249,13 @@ The SOMOS PAC ($503K FOR) reflects CA-13's Latino demographic composition. Centr
 **Two-Audience Problem.** The Blue Dog/New Democrat PAC cluster and the SOMOS PAC/DCCC FOR support reach separate audiences: the centrist Democratic institutional network funds Gray's crossover credibility while the Latino-identity and progressive-party infrastructure funds his base mobilization. Both audiences are necessary to hold CA-13. The 82.3% loyalty rate is the arithmetic result of serving both audiences simultaneously; a higher loyalty rate would lose the moderate crossover voters, and a lower rate would lose the base.
 
 **Donor-Class Override.** The NAR $938K + California Real Estate PAC $304K = $1.24M in Realtor outside money for a Blue Dog Democrat reflects the Realtors' calculation that a centrist Democrat in a swing seat serves their interests better than the alternatives. The Blue Dog positioning on housing finance, Fannie/Freddie oversight, and capital gains is more aligned with Realtor priorities than a progressive alternative would be. The Realtor money is not buying specific votes; it is investing in the preservation of a centrist-Democrat presence that produces a more favorable regulatory environment than a progressive or Republican alternative.
+
+## Sources
+
+<!-- auto:harvested-sources start -->
+- [Congress.gov: member profile (bioguide G000605)](https://www.congress.gov/member/G000605) (Tier 1)
+- [GovTrack: voting record (456975)](https://www.govtrack.us/congress/members/456975) (Tier 1)
+- [FEC: candidate filings H2CA13115](https://www.fec.gov/data/candidate/H2CA13115/) (Tier 1)
+
+*Auto-generated from canonical government identifiers in frontmatter (bioguide, FEC, IRS EIN). These URLs are deterministic — constructed from IDs, not manually curated or hunted. See content/Vault Rules.md § 2b on canonical URL construction.*
+<!-- auto:harvested-sources end -->

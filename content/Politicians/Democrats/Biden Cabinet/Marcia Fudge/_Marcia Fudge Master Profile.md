@@ -93,3 +93,12 @@ last-enriched: 2026-04-21
 # Marcia Fudge
 
 Secretary of HUD (2021-2024). Profile pending enrichment.
+
+## Sources
+
+<!-- auto:harvested-sources start -->
+- [Congress.gov: member profile (bioguide F000455)](https://www.congress.gov/member/F000455) (Tier 1)
+- [FEC: candidate filings H8OH11141](https://www.fec.gov/data/candidate/H8OH11141/) (Tier 1)
+
+*Auto-generated from canonical government identifiers in frontmatter (bioguide, FEC, IRS EIN). These URLs are deterministic — constructed from IDs, not manually curated or hunted. See content/Vault Rules.md § 2b on canonical URL construction.*
+<!-- auto:harvested-sources end -->

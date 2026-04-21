@@ -1,7 +1,7 @@
 ---
 title: "James C. Justice"
 type: politician
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-15
 source-tier: 1
 party: "Republican"
@@ -16,12 +16,13 @@ website: "https://www.justice.senate.gov"
 phone: "202-224-3954"
 source-types:
   - Congress
+  - GovTrack
 known-gaps:
   - "No FEC contribution data"
-  - "No voting record data"
 donors: "[[ActBlue]]"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21
+corroboration-count: 2
 ---
 
 
@@ -99,3 +100,12 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Full list: query Ask with* `subject: bills, sponsor_bioguide: J000312` *· Source: GovInfo Bill Status XML bulk.*
 <!-- auto:sponsored-bills end -->
+
+## Sources
+
+<!-- auto:harvested-sources start -->
+- [Congress.gov: member profile (bioguide J000312)](https://www.congress.gov/member/J000312) (Tier 1)
+- [GovTrack: voting record (456969)](https://www.govtrack.us/congress/members/456969) (Tier 1)
+
+*Auto-generated from canonical government identifiers in frontmatter (bioguide, FEC, IRS EIN). These URLs are deterministic — constructed from IDs, not manually curated or hunted. See content/Vault Rules.md § 2b on canonical URL construction.*
+<!-- auto:harvested-sources end -->

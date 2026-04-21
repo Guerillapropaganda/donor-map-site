@@ -1,7 +1,7 @@
 ---
 title: Direct Selling Empowers Americans
 type: donor
-content-readiness: draft
+content-readiness: ready
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -101,3 +101,11 @@ from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `DIRECT SELLING EMPOWERS AMERICANS`
+
+## Sources
+
+<!-- auto:harvested-sources start -->
+- [FEC: committee filings C00564997](https://www.fec.gov/data/committee/C00564997/) (Tier 1)
+
+*Auto-generated from canonical government identifiers in frontmatter (bioguide, FEC, IRS EIN). These URLs are deterministic — constructed from IDs, not manually curated or hunted. See content/Vault Rules.md § 2b on canonical URL construction.*
+<!-- auto:harvested-sources end -->

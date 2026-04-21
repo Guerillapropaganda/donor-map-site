@@ -128,3 +128,12 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: David J. Taylor` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
 <!-- auto:offshore-records end -->
+
+## Sources
+
+<!-- auto:harvested-sources start -->
+- [Congress.gov: member profile (bioguide T000490)](https://www.congress.gov/member/T000490) (Tier 1)
+- [GovTrack: voting record (457014)](https://www.govtrack.us/congress/members/457014) (Tier 1)
+
+*Auto-generated from canonical government identifiers in frontmatter (bioguide, FEC, IRS EIN). These URLs are deterministic — constructed from IDs, not manually curated or hunted. See content/Vault Rules.md § 2b on canonical URL construction.*
+<!-- auto:harvested-sources end -->

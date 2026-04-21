@@ -170,3 +170,13 @@ last-enriched: 2026-04-21
 # Kristen McDonald Rivet
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+## Sources
+
+<!-- auto:harvested-sources start -->
+- [Congress.gov: member profile (bioguide M001237)](https://www.congress.gov/member/M001237) (Tier 1)
+- [GovTrack: voting record (456995)](https://www.govtrack.us/congress/members/456995) (Tier 1)
+- [FEC: candidate filings H4MI08218](https://www.fec.gov/data/candidate/H4MI08218/) (Tier 1)
+
+*Auto-generated from canonical government identifiers in frontmatter (bioguide, FEC, IRS EIN). These URLs are deterministic — constructed from IDs, not manually curated or hunted. See content/Vault Rules.md § 2b on canonical URL construction.*
+<!-- auto:harvested-sources end -->

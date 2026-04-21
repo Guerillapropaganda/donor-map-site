@@ -169,3 +169,13 @@ last-enriched: 2026-04-21
 # Laura Gillen
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+## Sources
+
+<!-- auto:harvested-sources start -->
+- [Congress.gov: member profile (bioguide G000602)](https://www.congress.gov/member/G000602) (Tier 1)
+- [GovTrack: voting record (457010)](https://www.govtrack.us/congress/members/457010) (Tier 1)
+- [FEC: candidate filings H2NY04244](https://www.fec.gov/data/candidate/H2NY04244/) (Tier 1)
+
+*Auto-generated from canonical government identifiers in frontmatter (bioguide, FEC, IRS EIN). These URLs are deterministic — constructed from IDs, not manually curated or hunted. See content/Vault Rules.md § 2b on canonical URL construction.*
+<!-- auto:harvested-sources end -->

@@ -39,3 +39,11 @@ last-enriched: 2026-04-21
 # Rahm Emanuel
 
 Chief of Staff (2009-2010). Profile pending enrichment.
+
+## Sources
+
+<!-- auto:harvested-sources start -->
+- [Congress.gov: member profile (bioguide E000287)](https://www.congress.gov/member/E000287) (Tier 1)
+
+*Auto-generated from canonical government identifiers in frontmatter (bioguide, FEC, IRS EIN). These URLs are deterministic — constructed from IDs, not manually curated or hunted. See content/Vault Rules.md § 2b on canonical URL construction.*
+<!-- auto:harvested-sources end -->

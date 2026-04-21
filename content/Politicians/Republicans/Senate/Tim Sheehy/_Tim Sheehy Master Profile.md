@@ -1,7 +1,7 @@
 ---
 title: Tim Sheehy
 type: politician
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-19
 source-tier: 1
 party: Republican
@@ -16,16 +16,17 @@ website: https://www.sheehy.senate.gov
 phone: 202-224-2644
 source-types:
   - Congress
+  - FEC
+  - GovTrack
 known-gaps:
-  - Committee assignments not yet in pipeline
-  - Bridger Aerospace USFS contract details not yet in vault
-  - AFP Action both-sides anomaly requires cycle-level verification (support vs opposition cycle breakdown)
+  - "No mapped relationships"
 central-thesis: "Tim Sheehy is the Navy SEAL who unseated Jon Tester in the most expensive per-capita Senate race of 2024: $64.8M in Democratic opposition, $18.6M in Republican support, Montana won. The 99.6% loyalty with 3 deviations is the brand-new senator's default before any deviation pattern emerges. The structural story is Bridger Aerospace: Sheehy founded a firefighting air tanker company holding USFS contracts, and he now votes on the appropriations that fund those contracts. Club for Growth gave $40K across 143 transactions, the highest donor-candidate transaction count in the vault."
 editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: S4MT00183
 top-donors: "[[National Rifle Association]], [[Drummond Co.]], [[Lockheed Martin]], [[American Chemistry Council, INC]], [[AT&T - WarnerMedia]], [[NRSC - National Republican Senatorial Committee]], [[Gilead Sciences]], [[Amgen Inc]], [[Devon Energy]], [[National Right to Life Victory Fund]], [[Republican Jewish Coalition]], [[Senate Conservatives Fund]], [[Club for Growth INC PAC]], [[NORPAC]], [[Edf Action Votes]], [[Campaign for Working Families]], [[American Hospital Association PAC]], [[Tzedek PAC]], [[L3Harris Technologies]], [[SAVE OUR COUNTRY]], [[Citigroup]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[WinRed]], [[Puget Sound Energy INC PAC for Good Government]], [[The Sentinel Action Fund]], [[National Association of Realtors]], [[National Cattlemen's Beef Association]], [[Planned Parenthood Votes]], [[Hunter Action Fund (haf)]], [[National Victory Action Fund]], [[National Multifamily Housing Council]], [[Teamsters - International Brotherhood of Teamsters]], [[ConocoPhillips]], [[Common Sense for America PAC]], [[Americans for Prosperity]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Valero Energy]], [[Alliance Coal, LLC PAC]], [[MAJORITY PAC]], [[Reclaim America PAC]], [[Votevets]], [[SLF PAC]], [[League of Conservation Voters]], [[Gun Owners of America]], [[Women Speak Out Pac]], [[WinSenate]], [[Bank of America]], [[Let America Vote PAC]], [[Freedom's Defense Fund]], [[Marathon Petroleum]], [[Halliburton]], [[AT&T]], [[Save Our Country]], [[Majority PAC]]"
 last-enriched: 2026-04-20
+corroboration-count: 3
 ---
 
 
@@ -261,3 +262,13 @@ The RJC ($19K/60 transactions), NORPAC, and Tzedek PAC presence reflects the ful
 **Donor-Class Override (deferred).** There is no deviation data to analyze yet. Three votes in a new senator's first term do not produce donor-class override evidence. The question for 2026 and beyond: when fossil fuel deregulation legislation or USFS appropriations come to the floor, does Sheehy vote to protect the Montana cattle-ranching and outdoor tourism economy, or does he vote to protect the fossil fuel extractors who funded his campaign? The two constituencies have genuine conflicts on public lands management and climate policy.
 
 **Genuine Win + Structural Limit.** Sheehy won a genuinely competitive race despite 3.5:1 opposition spending. The structural limit is his first: Bridger Aerospace's federal contract dependence creates a personal financial interest in appropriations decisions that will recur throughout his term.
+
+## Sources
+
+<!-- auto:harvested-sources start -->
+- [Congress.gov: member profile (bioguide S001232)](https://www.congress.gov/member/S001232) (Tier 1)
+- [GovTrack: voting record (456966)](https://www.govtrack.us/congress/members/456966) (Tier 1)
+- [FEC: candidate filings S4MT00183](https://www.fec.gov/data/candidate/S4MT00183/) (Tier 1)
+
+*Auto-generated from canonical government identifiers in frontmatter (bioguide, FEC, IRS EIN). These URLs are deterministic — constructed from IDs, not manually curated or hunted. See content/Vault Rules.md § 2b on canonical URL construction.*
+<!-- auto:harvested-sources end -->

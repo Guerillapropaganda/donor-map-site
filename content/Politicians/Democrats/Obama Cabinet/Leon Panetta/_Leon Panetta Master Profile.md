@@ -2,14 +2,13 @@
 title: "Leon Panetta"
 type: politician
 bioguide-id: P000047
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-15
 source-tier: 1
 party: "Democrat"
 chamber: "Secretary of Defense (2011-2013)"
 known-gaps:
   - "No FEC contribution data"
-  - "No legislative record from Congress.gov"
   - "No voting record data"
 source-types:
   - Congress
@@ -41,3 +40,11 @@ last-enriched: 2026-04-21
 # Leon Panetta
 
 Secretary of Defense (2011-2013). Profile pending enrichment.
+
+## Sources
+
+<!-- auto:harvested-sources start -->
+- [Congress.gov: member profile (bioguide P000047)](https://www.congress.gov/member/P000047) (Tier 1)
+
+*Auto-generated from canonical government identifiers in frontmatter (bioguide, FEC, IRS EIN). These URLs are deterministic — constructed from IDs, not manually curated or hunted. See content/Vault Rules.md § 2b on canonical URL construction.*
+<!-- auto:harvested-sources end -->

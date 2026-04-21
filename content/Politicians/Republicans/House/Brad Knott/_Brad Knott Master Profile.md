@@ -1,7 +1,7 @@
 ---
 title: Brad Knott
 type: politician
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 party: Republican
@@ -17,6 +17,8 @@ website: https://knott.house.gov
 phone: 202-225-4531
 source-types:
   - Congress
+  - FEC
+  - GovTrack
 known-gaps:
   - "No FEC contribution data"
   - "No voting record data"
@@ -24,6 +26,7 @@ donors: "[[CA Farm Bureau Federation]], [[Jim Jordan]], [[General Dynamics]], [[
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4NC13116
 last-enriched: 2026-04-21
+corroboration-count: 3
 ---
 
 
@@ -164,3 +167,13 @@ last-enriched: 2026-04-21
 # Brad Knott
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+## Sources
+
+<!-- auto:harvested-sources start -->
+- [Congress.gov: member profile (bioguide K000405)](https://www.congress.gov/member/K000405) (Tier 1)
+- [GovTrack: voting record (457004)](https://www.govtrack.us/congress/members/457004) (Tier 1)
+- [FEC: candidate filings H4NC13116](https://www.fec.gov/data/candidate/H4NC13116/) (Tier 1)
+
+*Auto-generated from canonical government identifiers in frontmatter (bioguide, FEC, IRS EIN). These URLs are deterministic — constructed from IDs, not manually curated or hunted. See content/Vault Rules.md § 2b on canonical URL construction.*
+<!-- auto:harvested-sources end -->

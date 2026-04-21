@@ -2,7 +2,7 @@
 title: Planned Parenthood Votes
 type: donor
 ein: "134128897"
-content-readiness: draft
+content-readiness: data-complete
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00489799
@@ -58,3 +58,10 @@ last-enriched: 2026-04-21
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+## Sources
+
+<!-- auto:harvested-sources start -->
+- [ProPublica Nonprofit Explorer: EIN 134128897 (IRS 990 filings)](https://projects.propublica.org/nonprofits/organizations/134128897) (Tier 1)
+
+*Auto-generated from canonical government identifiers in frontmatter (bioguide, FEC, IRS EIN). These URLs are deterministic — constructed from IDs, not manually curated or hunted. See content/Vault Rules.md § 2b on canonical URL construction.*
+<!-- auto:harvested-sources end -->

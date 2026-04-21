@@ -186,3 +186,13 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: Brian Jack` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
 <!-- auto:offshore-records end -->
+
+## Sources
+
+<!-- auto:harvested-sources start -->
+- [Congress.gov: member profile (bioguide J000311)](https://www.congress.gov/member/J000311) (Tier 1)
+- [GovTrack: voting record (456987)](https://www.govtrack.us/congress/members/456987) (Tier 1)
+- [FEC: candidate filings H4GA03126](https://www.fec.gov/data/candidate/H4GA03126/) (Tier 1)
+
+*Auto-generated from canonical government identifiers in frontmatter (bioguide, FEC, IRS EIN). These URLs are deterministic — constructed from IDs, not manually curated or hunted. See content/Vault Rules.md § 2b on canonical URL construction.*
+<!-- auto:harvested-sources end -->

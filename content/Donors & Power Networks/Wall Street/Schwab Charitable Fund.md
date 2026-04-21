@@ -1,7 +1,7 @@
 ---
 title: Schwab Charitable Fund
 type: donor
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-18T00:00:00.000Z
 sector: Wall Street
 entity-type: Donor-Advised Fund
@@ -46,6 +46,12 @@ last-enriched: 2026-04-21
 - **Top observed inflow (c4 side):** $447.6M from Marble Freedom Trust across 2021–2024
 
 ## Sources
+
+<!-- auto:harvested-sources start -->
+- [ProPublica Nonprofit Explorer: EIN 311640316 (IRS 990 filings)](https://projects.propublica.org/nonprofits/organizations/311640316) (Tier 1)
+
+*Auto-generated from canonical government identifiers in frontmatter (bioguide, FEC, IRS EIN). These URLs are deterministic — constructed from IDs, not manually curated or hunted. See content/Vault Rules.md § 2b on canonical URL construction.*
+<!-- auto:harvested-sources end -->
 
 - [IRS Exempt Organization 990 records](https://www.irs.gov/charities-non-profits/form-990-series-downloads)
 - [ProPublica Nonprofit Explorer (EIN 31-1640316)](https://projects.propublica.org/nonprofits/organizations/311640316)
