@@ -80,6 +80,11 @@ const TYPES = [
   'related',
   'government-contract',
   'federal-grant',
+  // Bill sponsorship / cosponsorship — legislator → bill. Role
+  // discriminator is from_role = 'sponsor' | 'cosponsor'. Bills are
+  // not entities but their own virtual nodes keyed "{TYPE}.{N}-{C}"
+  // e.g. "HR.1-119". Stored alongside in data/bills.jsonl.
+  'sponsorship',
 ];
 
 const TYPE_META = {
@@ -155,6 +160,12 @@ const TYPE_META = {
     to_role: 'grantee',
     requires: ['amount', 'cycle'],
   },
+  sponsorship: {
+    directed: true,
+    from_role: 'legislator',
+    to_role: 'bill',
+    requires: [],
+  },
 };
 
 const SOURCES = [
@@ -203,6 +214,9 @@ const SOURCES = [
   // IRS 8872 political organization contributions — dark-money donor →
   // 527 political org direct gifts from the IRS POFD bulk file.
   'irs-pofd-8872',
+  // GovInfo Bill Status — bill metadata + sponsor/cosponsor lineage
+  // from BILLSTATUS-{congress}-{type}.zip bulk files.
+  'govinfo-bill-status',
 ];
 
 const STATUSES = ['active', 'historical', 'disputed', 'deprecated'];

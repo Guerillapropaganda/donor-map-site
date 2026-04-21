@@ -374,12 +374,13 @@ function createInMemoryEngine() {
   // donors_to totals — MAGA Inc reported $342M instead of the real
   // $973M. 2000 accommodates the biggest vault committees with headroom.
   const MAX_PAGE_SIZE = 2000
-  // 2026-04-20: raised 5s → 15s after edge count crossed 1M. The
-  // monetary-type filter on 1.5M edges linear-scans in ~5-8s on a
-  // cold cache. Future improvement: build a secondary type-index so
-  // type-only filters don't scan. Until then, accept the larger budget
-  // (the MAX_PAGE_SIZE cap still prevents huge response payloads).
-  const QUERY_TIMEOUT_MS = 15000
+  // 2026-04-20: raised 5s → 15s after edge count crossed 1M, then
+  // 15s → 30s after Bill Status added 861K sponsorship edges (now 2.3M+
+  // total). The monetary-type filter on the full edge set linear-scans
+  // in ~12-18s cold cache. Future: build a secondary type-index so
+  // type-only filters don't scan. Until then, accept the budget (the
+  // MAX_PAGE_SIZE cap still prevents huge response payloads).
+  const QUERY_TIMEOUT_MS = 30000
 
   // Filter keys that count as "real" filters (not pagination)
   const PAGINATION_KEYS = new Set(["limit", "offset"])
