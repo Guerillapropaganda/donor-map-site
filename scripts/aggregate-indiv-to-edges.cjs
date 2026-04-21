@@ -52,15 +52,29 @@ const MIN_AMOUNT = parseFloat(argVal('--min-amount', '1000')); // drop <$1K by d
 const FILTER_CMTE = argVal('--cmte', null);
 
 // Normalize a donor name to Title Case for display: "TRUMP, DONALD J" → "Donald J Trump"
+// Handles FEC data quirks:
+//   • Orgs logged as "ORG_NAME, ." (literal period as "first name") —
+//     the period should be discarded, not emitted as leading ". Org Name".
+//     Common for organizational donors (National Association of Realtors,
+//     Native American tribes, PACs in corp form).
+//   • Empty "first" after comma ("FOO, ") — same treatment.
+//   • Trailing truncation — FEC caps the NAME field at ~34 chars. We
+//     accept the truncated form; the orphan-audit's dedup via PhRMA-
+//     style prefix/suffix matching handles cross-variant joining.
 function titleCaseName(fecName) {
   if (!fecName) return null;
   const clean = String(fecName).trim();
-  // Skip obvious non-person names like corporations donating
   const parts = clean.split(',');
+  const toTC = (s) => s.toLowerCase().split(/\s+/).map((w) => w ? w[0].toUpperCase() + w.slice(1) : w).join(' ');
   if (parts.length >= 2) {
     const last = parts[0].trim();
     const first = parts.slice(1).join(',').trim();
-    const toTC = (s) => s.toLowerCase().split(/\s+/).map((w) => w ? w[0].toUpperCase() + w.slice(1) : w).join(' ');
+    // If the "first name" is empty or just punctuation ("." / "-" / "/"),
+    // the input is really just the org name with a trailing comma-period
+    // artifact. Title-case just the last part and drop the junk.
+    if (!first || /^[.\-/\\]+$/.test(first)) {
+      return toTC(last);
+    }
     return `${toTC(first)} ${toTC(last)}`;
   }
   return clean;
@@ -252,7 +266,15 @@ function titleCaseName(fecName) {
       ],
       amount: Math.round(a.amount),
       cycle: a.cycle,
-      role: null,
+      // Individual FEC contributions to a candidate committee are
+      // direct-contribution edges. Previous null role left them out
+      // of Pattern A's isSupport / isPolitical filters, which is why
+      // AOC's $45M small-dollar base showed $54K on the donors_to
+      // panel — Pattern A's filter treated null-role as "neither
+      // support nor oppose." Setting the role correctly makes every
+      // small-dollar politician's "who funds them" query report
+      // real numbers.
+      role: 'direct-contribution',
       date_range: null,
       first_seen: now,
       last_verified: now,
