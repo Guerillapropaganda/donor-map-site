@@ -3,7 +3,8 @@ title: Session State
 type: system
 last-updated: 2026-04-20
 ---
-<!-- last session: MEGA SESSION PART 2 — zip re-download → full FEC indiv re-ingest (94K rows, 53K POI committees) → IRS 990 re-scan for 7 think-tank EINs (59 filings, 1,889 grants) → all-candidates summary ingest (70K rows) → politician receipts sync (409 politicians) → committee-stub pooling (audit + Ask UI vehiclesFor) → Hoover/Stanford shared-EIN caveat → bulk-dir protection sentinel. Politicians 68 → 323 OK (+255). Think tanks 0 → 100%. Bernie now shows $550M/20 cycles. 4 additional commits on top of earlier session-save (3d0772089): 691bc7e58, 8b6b1f772, 3b91bda16, 460daf5af. (2026-04-20 late PM, Code Claude). -->
+<!-- last session: MEGA SESSION PART 3 — 8 ingest pipelines wired + 8 query subjects + UX polish + Ask intents. In order: P1 improved politician name-match (323→429 OK, 407 new principal committees, 825K edge emissions); P2 donor-EIN backfill 565→897; P3 corp SEC CIKs 13→78; bill-status ingest (141,803 bills, 861,535 sponsorship edges); PLAW enrichment (2,132 enacted laws); Federal Register EOs (12,198 presidential actions); ICIJ Offshore Leaks (412 edges, 401 shells linked); POFD Schedule B fix (7,620 new edges; was column-offset bug); donor fuzzy EIN (37 updates); vote scraper 115-117 (5,131 new votes, 1.45M new positions); split legislator-positions.jsonl by congress (GitHub 100MB limit); bills/EOs/offshore + votes/positions as first-class query subjects; explain_concept intent (25 concepts: Panama Papers, dark money, 527, EIN, etc); voting-record layperson UX overhaul (plain position/date/bill-title); compare-table row-level explainers for dark-money zeros; "Is this illegal?" → "Is this legal?" header (fixed Yes-contradiction across 4 renderers). Attention Dispatcher installed as Windows scheduled task, firing producers on schedule. Final push 9af0a85c8. (2026-04-20, Code Claude). -->
+<!-- prior session: MEGA SESSION PART 2 — zip re-download → full FEC indiv re-ingest (94K rows, 53K POI committees) → IRS 990 re-scan for 7 think-tank EINs (59 filings, 1,889 grants) → all-candidates summary ingest (70K rows) → politician receipts sync (409 politicians) → committee-stub pooling (audit + Ask UI vehiclesFor) → Hoover/Stanford shared-EIN caveat → bulk-dir protection sentinel. Politicians 68 → 323 OK (+255). Think tanks 0 → 100%. Bernie now shows $550M/20 cycles. 4 additional commits on top of earlier session-save (3d0772089): 691bc7e58, 8b6b1f772, 3b91bda16, 460daf5af. (2026-04-20 late PM, Code Claude). -->
 <!-- prior session: QUERY ACCURACY MARATHON — silent-truncation bug hunt, FEC committee identity layer, 4-slice per-cycle reconciliation, canonical/derived file split (2026-04-19, Code Claude). -->
 <!-- prior prior session: Ops Ask UI marathon + IE classifier (2026-04-19 AM, Code Claude). 18 commits. -->
 <!-- prior prior prior session: FULL-DATABASE FEC INGEST + profile infrastructure (2026-04-18, Code Claude). -->
@@ -23,6 +24,93 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 **Phase:** Launch 50 sprint for April 30 public launch. Public-facing Ask page (`/Ask`) shipped to Quartz backed by ops API. Reconciliation framework operational. Politician coverage backfilled at registry level (113 politicians + 111 committees), edge-store coverage blocked on FEC bulk zip re-download.
 **Status:** Ask UI has seven plain-English overlays (TL;DR, visual flow, is-this-legal, why-matters, who-is-lead, compare table, empty-rescue) across money_chain / summary / leaderboard intents. Entity resolver handles acronyms (MFT → Marble Freedom Trust), token-subsets, and Levenshtein. CSV export + clickable entity deep-links. Shareable ?q=… URLs. Public Ask page renders brutalist (cream bg, yellow/red/green/indigo accents), fetches ops API with dev CORS allowlist. ADR-0015 documents production-backend deferral.
 **Authority:** CLAUDE.md, Profile Template.md, Class Analysis Style Guide.md, active ADRs (0001, 0002, 0004, 0007, 0009, 0010, 0011, 0012, 0013, 0014, 0015)
+
+---
+
+## HANDOFF — 2026-04-20 (Mega session Part 3: 8 pipelines + 8 query subjects + Ask UX polish)
+
+**What you're inheriting (final push `9af0a85c8`):**
+
+The vault is now a full policy/money/vote triangle. Bills, executive actions, offshore entities, votes, and legislator positions are all first-class query subjects in the Ask engine. Profile panels render sponsored bills, presidential EOs, offshore records, and voting deviations. Contradiction-miner surfaces policy-capture + offshore patterns automatically every 2 hours. Attention Dispatcher is installed as a Windows scheduled task — producers fire continuously without manual intervention.
+
+### Data coverage after this session
+
+| Dimension | Before session | Now |
+|---|---|---|
+| Politicians OK | 323/723 (44.7%) | **431/723 (59.6%)** |
+| Donors OK | 565/1,158 (48.8%) | **1,040/1,158 (89.8%)** |
+| Corporations OK | 94/173 (54.3%) | **129/173 (74.6%)** |
+| Edges | ~430K | **~2.3M** |
+| Bills indexed | 0 | **141,803** (108th–119th) |
+| Presidential actions | 0 | **12,198** (2000–2026) |
+| Offshore shells linked | 0 | **401** |
+| Votes tracked | 4,508 | **9,639** (115th–119th, both chambers) |
+| Legislator positions | 1.0M | **2.5M** |
+
+### New ingest pipelines (wired, validator-approved, applied)
+
+1. **`scripts/ingest-bill-status-bulk.cjs`** — GovInfo BILLSTATUS zips, 461MB. Sponsorship edges.
+2. **`scripts/ingest-plaw-bulk.cjs`** — GovInfo PLAW, 44MB. Enriches bills with public-law metadata.
+3. **`scripts/ingest-federal-register-eos.cjs`** — GovInfo FR zips, 3.3GB. EOs + proclamations + directives.
+4. **`scripts/ingest-icij-offshore.cjs`** — `full-oldb.LATEST.zip`, 600MB. ICIJ combined leaks → affiliation edges.
+5. **`scripts/scrape-missing-votes.cjs`** — clerk.house.gov + senate.gov XML scraper (append-only, safe).
+6. **`scripts/aggregate-oppexp-to-edges.cjs`** — FEC operating expenditures → edges.
+7. **`scripts/aggregate-pas2-to-edges.cjs`** — FEC PAS2 → classified edges (ie-support, ie-oppose, direct, party, coord).
+8. **`scripts/ingest-irs-pofd-contributions.cjs`** (rewrite) — fixed column-offset bug, B-records now ingested.
+
+### New query-engine subjects
+
+`bills`, `executive_actions`, `offshore_entities`, `votes`, `positions` — all first-class in `scripts/lib/query-engine.cjs`. Each has filter fields documented in the ops `/ask` "What's in the data" panel.
+
+### New Ask intents
+
+`bills_sponsored_by`, `bills_in_policy`, `executive_orders_by`, `offshore_for`, `votes_on_bill`, `positions_by`, `vote_detail`, `explain_concept` (25 concepts: Panama Papers, dark money, 527, 501(c)(4), EIN, DAF, UEI, CIK, Citizens United, STOCK Act, etc).
+
+### UX polish applied (DO NOT REVERT)
+
+- **Voting-record renderer** (`showVotingRecord` in `ops/src/app/api/ask/route.ts`): layperson-readable rows with bill titles joined from `data/bills.jsonl`, Yea/Aye→"For" / Nay/No→"Against", full human dates with year, decoded roll-call IDs, `question` + `result` columns.
+- **Compare table** (`handleCompare`): row-level notes explaining why "0 donors" / "$0 received" shows up for dark-money entities (501(c)(4) non-disclosure). Mentions Barre Seid → MFT as a concrete example.
+- **"Is this illegal?" → "Is this legal?"** — header was inverted across 4 renderers (ops ask page, Quartz AskPanel, inline script, help text). "Yes" answers now read correctly as "yes it's legal" (not "yes it's illegal"). Fixed route.ts answer that self-contradicted by saying "No" then "permitted by federal law."
+- **Voting-panel `key_votes` pinning**: add `key_votes: [id, id]` to politician frontmatter; pinned votes render as "Signature votes" block above algorithmic deviations.
+- **EO panel `key_eos` pinning**: same pattern for president profiles (`key_eos: [EO-14134]`).
+
+### Infra changes (watch for these on future sessions)
+
+- `data/legislator-positions.jsonl` gitignored; data split into `data/legislator-positions/{115..119}.jsonl` (each <55MB). Readers auto-fallback in ops API + build scripts.
+- `data/derived/govinfo-bill-status.jsonl` gitignored (524MB, regenerable).
+- `data/relationships-per-profile.json` gitignored (108MB, regenerable via `scripts/build-relationships-per-profile.cjs`). **Must exist on disk for Quartz tsc to pass** — Quartz components import it. On fresh clone, run the rebuilder before `git push` if you've touched anything that affects tsc.
+- Attention Dispatcher runs as Windows scheduled task "DonorMap Attention Dispatcher" — starts at user logon, restarts 3× on failure. Log at `content/Admin Notes/.attention-dispatcher.log`.
+
+### Priority 1 for next session
+
+1. **Form 990 full 26GB cross-reference scan** (deferred all session as too slow for interactive; designed as overnight batch). Would surface grants TO vault entities FROM orgs we haven't profiled yet. ~2-4 hours overnight.
+2. **State campaign finance per state** — 29 state-level politicians still EMPTY (Abbott, Youngkin, Shapiro, Wes Moore, etc.). User would need to download CAL-ACCESS + TX Ethics + NY SBOE + individual state files. Per-state ingester.
+3. **117th House votes full backfill verification** — 117/1 + 117/2 had the scraper run, but roll-call counts were capped at probe-limit 1000. Actual House volume may exceed. Re-run with higher `--limit`.
+4. **Contradiction miner: extend to votes** — currently uses bills + offshore. Add "politician voted against party majority on bill X in policy area Y; their donors include sector Y" pattern. Uses existing positions subject.
+
+### What NOT to do
+
+- Don't touch the attention-dispatcher scheduled task — David validated it's running.
+- Don't regenerate `data/relationships-per-profile.json` with a pre-commit hook — it's regenerated manually on demand, and auto-regen would explode commit diffs.
+- Don't merge `data/legislator-positions.jsonl` back into a single file — split is intentional for GitHub limit.
+- Don't rerun `ingest-congress-votes.cjs` — it has a known bug where `--resume` mode truncates the existing file (lost all 115-119 votes once this session; recovered from git). Use `scrape-missing-votes.cjs` instead (append-only).
+
+### Commits on this branch (pushed to v4)
+
+`5da7e8c3c` → `d31632ba7` → `8b1410adc` → P1 politician / P2 donor / P3 corp backfills
+`7141904bc` → gitignore fec-oth-transfers
+`620f1228f` → IRS EO BMF + SEC EDGAR
+`cf91eb1b9` → IRS POFD 8871 + legislators YAML + CCL + USAspending
+`0fff5b7bf` → Wire backfilled signals into Ask + aggregators + voting-record
+`d680054c3` → ticker expansion + dispatcher task
+`7dda0e3af` → oppexp + PAS2 + POFD + USAspending
+`f313a034d` → Bill Status + PLAW + Federal Register
+`968a9b509` → Phase 1 query subjects + panels
+`70d898ae3` → ICIJ offshore + POFD-B fix + fuzzy donor
+`33f5d5584` → Phase 2 (EO panel + key_votes + miner extensions + Ask intents)
+`c3f7c260e` → votes/positions subjects + Ask intents + ops data-coverage panel
+`0a6af3cb7` → voting-record ENOENT fix
+`9af0a85c8` → Ask UX (voting record + concepts + compare notes + legal header)
 
 ---
 
