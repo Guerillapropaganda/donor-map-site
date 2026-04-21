@@ -127,6 +127,30 @@ This mismatch became the defining feature of his career: real empathy for workin
 
 <!-- auto:voting-record end -->
 
+<!-- auto:executive-actions start -->
+
+*Presidential actions signed during Biden's tenure, from the GovInfo Federal Register bulk data. Ranked by recency.*
+
+| Category | Count |
+|---|---:|
+| Executive Orders | 167 |
+| Proclamations | 0 |
+| Directives / memoranda | 1,329 |
+| **Total** | **1,496** |
+
+**Most-recent Executive Orders (top 5):**
+
+| EO # | Date | Title |
+|---|---|---|
+| 14145 | 2025-01-19 | Helping Left-Behind Communities Make a Comeback |
+| 14146 | 2025-01-19 | Partial Revocation of Executive Order 13961 |
+| 14144 | 2025-01-16 | Strengthening and Promoting Innovation in the Nation's Cybersecurity |
+| 14142 | 2025-01-15 | Taking Additional Steps With Respect to the Situation in Syria |
+| 14141 | 2025-01-14 | Advancing United States Leadership in Artificial Intelligence Infrastructure |
+
+*Full list: query Ask with* `subject: executive_actions, president: Biden` *· Source: GovInfo Federal Register bulk (FRMergedXML).*
+<!-- auto:executive-actions end -->
+
 ## Central Thesis. The Structural Democrat
 
 Biden is the structural Democrat. He genuinely believes he fights for working people, and he has done some real things (the ACA expansion, the IRA's clean energy investment, the $15 minimum wage push, the union tiebreaker votes). But his political formation is institutional Democratic politics, where "worker" means "union member" and "capital" means "the financial sector that funds elections." He is not anti-capital; he operates within capital's accepted parameters.

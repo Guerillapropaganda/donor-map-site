@@ -92,6 +92,36 @@ proclamations: 706
 - [GovTrack: Donald Trump](https://www.govtrack.us/congress/members/412733) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
 
+<!-- auto:executive-actions start -->
+
+*Presidential actions signed during Trump's tenure, from the GovInfo Federal Register bulk data. Ranked by recency.*
+
+| Category | Count |
+|---|---:|
+| Executive Orders | 418 |
+| Proclamations | 1 |
+| Directives / memoranda | 1,652 |
+| **Total** | **2,071** |
+
+**Most-recent Executive Orders (top 5):**
+
+| EO # | Date | Title |
+|---|---|---|
+| 14400 | 2026-04-03 | Adjusting Imports of Pharmaceuticals and Pharmaceutical Ingredients Into the United States |
+| 14399 | 2026-03-31 | Ensuring Citizenship Verification and Integrity in Federal Elections |
+| 14398 | 2026-03-26 | Addressing DEI Discrimination by Federal Contractors |
+| 14397 | 2026-03-24 | Greek Independence Day: A National Day of Celebration of Greek and American Democracy, 2026 |
+| 14396 | 2026-03-20 | Preserving America's Game |
+
+**Most-recent Proclamations (top 3):**
+
+| Proc # | Date | Title |
+|---|---|---|
+| — | 2020-05-24 | Amendment to Proclamation of May 24, 2020, Suspending Entry as Immigrants and Nonimmigrants of Certain Additional Person |
+
+*Full list: query Ask with* `subject: executive_actions, president: Trump` *· Source: GovInfo Federal Register bulk (FRMergedXML).*
+<!-- auto:executive-actions end -->
+
 <!-- auto:govtrack start -->
 | Metric | Value |
 |--------|-------|

@@ -120,7 +120,7 @@ top-donors: "[[National Association of Realtors]], [[Johnson & Johnson]], [[Sena
 - senate 119/1: 651 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 7):**
+**Most recent party-line deviations (top 7 of 7):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

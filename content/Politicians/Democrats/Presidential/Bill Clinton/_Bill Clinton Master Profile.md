@@ -346,3 +346,28 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[Congress.gov: NAFTA Implementation Act (H.R.3450, 103rd Congress)](https://www.congress.gov/bill/103rd-congress/house-bill/3450)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[Congress.gov: Violent Crime Control and Law Enforcement Act (H.R.3355, 103rd Congress)](https://www.congress.gov/bill/103rd-congress/house-bill/3355)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[Source: Federal Register - Presidential Documents](https://www.federalregister.gov/presidential-documents/executive-orders/william-j-clinton)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:executive-actions start -->
+
+*Presidential actions signed during Clinton's tenure, from the GovInfo Federal Register bulk data. Ranked by recency.*
+
+| Category | Count |
+|---|---:|
+| Executive Orders | 37 |
+| Proclamations | 0 |
+| Directives / memoranda | 215 |
+| **Total** | **252** |
+
+**Most-recent Executive Orders (top 5):**
+
+| EO # | Date | Title |
+|---|---|---|
+| 13184 | 2000-12-28 | Revocation of Executive Order 12834 |
+| 13185 | 2000-12-28 | To Strengthen the Federal Government-University Research Partnership |
+| 13182 | 2000-12-23 | Adjustments of Certain Rates of Pay |
+| 13183 | 2000-12-23 | Establishment of the President's Task Force on Puerto Rico's Status |
+| 13181 | 2000-12-20 | To Protect the Privacy of Protected Health Information in Oversight Investigations |
+
+*Full list: query Ask with* `subject: executive_actions, president: Clinton` *· Source: GovInfo Federal Register bulk (FRMergedXML).*
+<!-- auto:executive-actions end -->
