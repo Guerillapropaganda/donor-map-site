@@ -1,6 +1,7 @@
 ---
 title: "Leon Panetta"
 type: politician
+bioguide-id: P000047
 content-readiness: raw
 last-updated: 2026-04-15
 source-tier: 1

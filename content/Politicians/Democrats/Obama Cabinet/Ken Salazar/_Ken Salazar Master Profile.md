@@ -1,6 +1,7 @@
 ---
 title: "Ken Salazar"
 type: politician
+bioguide-id: S001163
 content-readiness: raw
 last-updated: 2026-04-12
 source-tier: 1

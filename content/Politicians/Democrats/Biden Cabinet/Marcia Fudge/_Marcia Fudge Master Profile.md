@@ -1,6 +1,7 @@
 ---
 title: Marcia Fudge
 type: politician
+bioguide-id: F000455
 content-readiness: raw
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1

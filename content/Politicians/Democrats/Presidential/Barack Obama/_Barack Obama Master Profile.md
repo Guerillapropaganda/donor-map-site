@@ -1,6 +1,7 @@
 ---
 title: Barack Obama
 type: politician
+bioguide-id: O000167
 content-readiness: ready
 central-thesis: "Obama is the master of the Two-Audience Problem: one message for progressive voters, one private reassurance for donors. His 2008 campaign promised 'hope and change' and ran against the financial sector's power. His private reassurance to bankers ..."
 last-updated: 2026-04-15T00:00:00.000Z

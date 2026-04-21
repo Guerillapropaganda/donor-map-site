@@ -1,6 +1,7 @@
 ---
 title: John Ratcliffe
 type: politician
+bioguide-id: R000601
 content-readiness: ready
 central-thesis: John Ratcliffe's career arc , small-town mayor → congressman → Trump impeachment defender → DNI → defense consultant ($2.2M+) → CIA Director , represents loyalty-as-qualification in its purest form. He has no intelligence community background, inf...
 last-updated: 2026-04-15T00:00:00.000Z

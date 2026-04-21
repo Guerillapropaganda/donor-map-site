@@ -1,6 +1,7 @@
 ---
 title: "Rahm Emanuel"
 type: politician
+bioguide-id: E000287
 content-readiness: raw
 last-updated: 2026-04-12
 source-tier: 1

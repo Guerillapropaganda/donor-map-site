@@ -1,6 +1,7 @@
 ---
 title: Hilda Solis
 type: politician
+bioguide-id: S001153
 content-readiness: raw
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
