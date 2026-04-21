@@ -23,11 +23,12 @@ import { readFile, writeAndPush } from "@/lib/local-write"
  *    local state but not upstream — callers should surface the error.
  */
 
-const VALID_TIERS = ["raw", "draft", "ready", "verified", "s-tier"]
+const VALID_TIERS = ["raw", "draft", "ready", "data-complete", "verified", "s-tier"]
 const TIER_LABELS: Record<string, string> = {
   raw: "D-F",
   draft: "C",
   ready: "B",
+  "data-complete": "A",
   verified: "A+",
   "s-tier": "S",
 }
