@@ -216,6 +216,29 @@ function classifyCorp(name) {
   // federal contracts.
   const ents = loadEntities();
   const corps = ents.filter((e) => e.entity_type === 'corporation');
+
+  // TICKER ENRICHMENT PASS: every corp (even ones with FEC IDs already)
+  // gets ticker/CIK if a clean SEC match exists. This populates the
+  // Ask lookup index so users can type "$AAPL" and get Apple even
+  // though Apple already has an FEC committee ID. Additive only —
+  // never overwrites.
+  const tickerUpdates = new Map();
+  for (const e of corps) {
+    if (e.signals?.sec_cik) continue; // already has one, skip
+    for (const t of corpSearchTerms(e.name)) {
+      const hit = secByName.get(t);
+      if (hit) {
+        const hitFirstWord = normalize(hit.title).split(' ')[0];
+        const termFirstWord = t.split(' ')[0];
+        if (hitFirstWord === termFirstWord) {
+          tickerUpdates.set(e.name, { sec_cik: hit.cik, ticker: hit.ticker, sec_cik_source: `sec-edgar:${hit.title}` });
+          break;
+        }
+      }
+    }
+  }
+  console.log(`  ticker enrichment (additive): ${tickerUpdates.size} corps get ticker/CIK`);
+
   const needsWork = corps.filter((e) => {
     const s = e.signals || {};
     return !s.fec_committee_id && !(s.fec_committee_ids || []).length && !s.uei && !s.ein && !s.sec_cik;
@@ -375,8 +398,17 @@ function classifyCorp(name) {
     let rec;
     try { rec = JSON.parse(line); } catch { out.push(line); continue; }
     const u = updates.get(rec.name);
-    if (!u) { out.push(line); continue; }
+    const t = tickerUpdates.get(rec.name);
+    if (!u && !t) { out.push(line); continue; }
     rec.signals = rec.signals || {};
+    // Ticker enrichment is additive and runs for every corp that has
+    // a clean SEC match, including corps with FEC committee IDs.
+    if (t && !rec.signals.sec_cik) {
+      rec.signals.sec_cik = t.sec_cik;
+      rec.signals.ticker = t.ticker;
+      rec.signals.sec_cik_sourced_from = t.sec_cik_source;
+    }
+    if (!u) { out.push(JSON.stringify(rec)); touched++; continue; }
     if (u.fec_committee_id) {
       if (!rec.signals.fec_committee_ids) rec.signals.fec_committee_ids = [];
       if (!rec.signals.fec_committee_ids.includes(u.fec_committee_id)) {
