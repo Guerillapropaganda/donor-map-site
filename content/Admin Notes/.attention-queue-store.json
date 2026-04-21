@@ -1251,7 +1251,7 @@
       "cost_min": 2,
       "leverage": 5,
       "source": "promotion-candidate-queue",
-      "created": "2026-04-11",
+      "created": "2026-04-21",
       "metadata": {
         "signoffOnly": true,
         "type": "corporation"
@@ -1265,7 +1265,7 @@
       "cost_min": 2,
       "leverage": 5,
       "source": "promotion-candidate-queue",
-      "created": "2026-04-11",
+      "created": "2026-04-21",
       "metadata": {
         "signoffOnly": true,
         "type": "donor"
@@ -1279,7 +1279,7 @@
       "cost_min": 2,
       "leverage": 5,
       "source": "promotion-candidate-queue",
-      "created": "2026-04-11",
+      "created": "2026-04-21",
       "metadata": {
         "signoffOnly": true,
         "type": "corporation"
@@ -1293,7 +1293,7 @@
       "cost_min": 2,
       "leverage": 5,
       "source": "promotion-candidate-queue",
-      "created": "2026-04-11",
+      "created": "2026-04-21",
       "metadata": {
         "signoffOnly": true,
         "type": "corporation"
@@ -1307,7 +1307,7 @@
       "cost_min": 2,
       "leverage": 5,
       "source": "promotion-candidate-queue",
-      "created": "2026-04-11",
+      "created": "2026-04-21",
       "metadata": {
         "signoffOnly": true,
         "type": "donor"
@@ -1321,7 +1321,7 @@
       "cost_min": 2,
       "leverage": 5,
       "source": "promotion-candidate-queue",
-      "created": "2026-04-11",
+      "created": "2026-04-21",
       "metadata": {
         "signoffOnly": true,
         "type": "donor"
@@ -1335,7 +1335,7 @@
       "cost_min": 2,
       "leverage": 5,
       "source": "promotion-candidate-queue",
-      "created": "2026-04-11",
+      "created": "2026-04-21",
       "metadata": {
         "signoffOnly": true,
         "type": "donor"
@@ -1349,7 +1349,7 @@
       "cost_min": 2,
       "leverage": 5,
       "source": "promotion-candidate-queue",
-      "created": "2026-04-11",
+      "created": "2026-04-21",
       "metadata": {
         "signoffOnly": true,
         "type": "donor"
@@ -1363,7 +1363,7 @@
       "cost_min": 2,
       "leverage": 5,
       "source": "promotion-candidate-queue",
-      "created": "2026-04-11",
+      "created": "2026-04-21",
       "metadata": {
         "signoffOnly": true,
         "type": "donor"
@@ -1377,7 +1377,7 @@
       "cost_min": 2,
       "leverage": 5,
       "source": "promotion-candidate-queue",
-      "created": "2026-04-11",
+      "created": "2026-04-21",
       "metadata": {
         "signoffOnly": true,
         "type": "donor"
