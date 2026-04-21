@@ -29,6 +29,7 @@ const { walkDir, parseFrontmatter, writeReport, log } = require('./lib/shared.cj
 const CONTENT_DIR = process.env.CONTENT_DIR || path.join(__dirname, '..', 'content');
 const WRITE = process.argv.includes('--write');
 const VERBOSE = process.argv.includes('--verbose');
+const DIAGNOSE = process.argv.includes('--diagnose');
 const PROFILE_FLAG = process.argv.find(a => a.startsWith('--profile='));
 const TARGET_PROFILE = PROFILE_FLAG ? PROFILE_FLAG.split('=')[1].replace(/"/g, '') : null;
 
@@ -205,6 +206,83 @@ function classifyEditorial(data, content, tier1Count) {
   return 'raw';
 }
 
+/**
+ * ADR-0017 --diagnose helper.
+ *
+ * Returns the array of specific criteria the profile fails for
+ * data-complete promotion. Each failure is a short machine-readable
+ * token; the aggregator groups by token and prints a histogram so we
+ * know which bulk pipeline or cleanup pass unlocks the most profiles.
+ *
+ * Tokens align 1:1 with the 6 data-complete gates:
+ *   - typeReqs:<id>    — a specific type-specific auto-section missing
+ *   - noConnections    — no related/donors/opposes edges
+ *   - noTier1          — no (Tier 1) source in ## Sources
+ *   - stale:<days>     — last-enriched older than 90d (or missing)
+ *   - contradictions   — unresolved [!contradiction] callout
+ *   - blocked:<flag>   — URL NEEDED / UNVERIFIED / NEEDS REVIEW / defamation
+ *
+ * Only runs for profile types eligible for data-complete. Editorial
+ * types (story, event, sub-note, daily-update) return [] — they are
+ * classified on a different axis and aren't bottlenecked by these
+ * gates.
+ */
+function diagnoseDataCompleteFailures(data, content, sourceTypes, tier1Count) {
+  const failures = [];
+  if (EDITORIAL_TYPES.includes(data.type)) return failures;
+  if (!PUBLISHABLE_TYPES.has(data.type)) return failures;
+
+  // 1. Type-specific auto-sections
+  const typeReqs = TYPE_REQUIREMENTS[data.type] || [];
+  const naItems = (data['checklist-na'] || []);
+  const isNa = (id) => naItems.some(n => typeof n === 'string' && n.startsWith(`${id}:`));
+  for (const req of typeReqs) {
+    if (!isNa(req.id) && !req.check(data, content)) {
+      failures.push(`typeReqs:${req.id}`);
+    }
+  }
+
+  // 2. Connections
+  if (!(data.related || data.donors || data.opposes)) {
+    failures.push('noConnections');
+  }
+
+  // 3. Tier 1 source
+  if (tier1Count < 1) {
+    failures.push('noTier1');
+  }
+
+  // 4. Freshness
+  const lastEnriched = data['last-enriched'];
+  if (!lastEnriched) {
+    failures.push('stale:never-enriched');
+  } else {
+    const days = Math.floor((Date.now() - new Date(lastEnriched).getTime()) / (24 * 60 * 60 * 1000));
+    if (days > 90) failures.push(`stale:${days}d`);
+  }
+
+  // 5. Contradictions
+  const contradictionsClear = content.includes('[!contradiction-cleared]') || !content.includes('[!contradiction]');
+  if (!contradictionsClear) {
+    failures.push('contradictions');
+  }
+
+  // 6. Blocking flags — return one token per flag kind present
+  const visible = content.split(/^##+\s*Archived/im)[0] || content;
+  if (/\(URL NEEDED\)/.test(visible)) failures.push('blocked:URL-NEEDED');
+  if (/\(UNVERIFIED\)/.test(visible)) failures.push('blocked:UNVERIFIED');
+  if (/\(NEEDS REVIEW\)/.test(visible)) failures.push('blocked:NEEDS-REVIEW');
+  if (/defamation-sanitized/i.test(visible)) failures.push('blocked:defamation-sanitized');
+
+  return failures;
+}
+
+// Publishable profile types (from ADR-0017 + constructionMode.ts)
+const PUBLISHABLE_TYPES = new Set([
+  'politician', 'state-politician', 'local-politician',
+  'donor', 'corporation', 'pac', 'think-tank', 'lobbying-firm',
+]);
+
 function classifyProfile(data, body, content, sourceTypes, tier1Count) {
   const bodyLength = body.length;
   const hasConnections = !!(data.related || data.donors || data.opposes);
@@ -303,6 +381,11 @@ function main() {
   let changed = 0;
   let skipped = 0;
 
+  // --diagnose: per-criterion failure counts + buckets for stale freshness
+  const diagCounts = {};                 // token → count of profiles failing
+  const diagByCurrent = {};              // current tier → token → count
+  const staleBuckets = { '<=90': 0, '91-180': 0, '181-365': 0, '>365': 0, 'never': 0 };
+
   for (const filePath of files) {
     const content = fs.readFileSync(filePath, 'utf8');
     const { data, body } = parseFrontmatter(content);
@@ -346,6 +429,30 @@ function main() {
 
     results.push(result);
     summary[newReadiness] = (summary[newReadiness] || 0) + 1;
+
+    // ADR-0017 --diagnose: tabulate why profiles don't reach data-complete.
+    // Only meaningful for profiles that currently aren't publishable —
+    // everyone already at data-complete or verified is a success.
+    if (DIAGNOSE && !['data-complete', 'verified'].includes(newReadiness)) {
+      const failures = diagnoseDataCompleteFailures(data, content, sourceTypes, tier1Count);
+      for (const token of failures) {
+        // Group freshness into buckets — raw day counts are too noisy
+        const key = token.startsWith('stale:') ? 'stale' : token;
+        diagCounts[key] = (diagCounts[key] || 0) + 1;
+        diagByCurrent[currentReadiness] = diagByCurrent[currentReadiness] || {};
+        diagByCurrent[currentReadiness][key] = (diagByCurrent[currentReadiness][key] || 0) + 1;
+
+        // Stale bucket distribution for deciding whether ingest-refresh is the fix
+        if (token === 'stale:never-enriched') {
+          staleBuckets['never']++;
+        } else if (token.startsWith('stale:')) {
+          const days = parseInt(token.split(':')[1]);
+          if (days <= 180) staleBuckets['91-180']++;
+          else if (days <= 365) staleBuckets['181-365']++;
+          else staleBuckets['>365']++;
+        }
+      }
+    }
 
     if (result.changed) {
       changed++;
@@ -429,6 +536,40 @@ function main() {
   console.log('\n  Source Diversity:');
   console.log(`    2+ Tier 1 source types: ${withMultiSource}`);
   console.log(`    No Tier 1 sources: ${withNoSources}`);
+
+  // ─── ADR-0017 --diagnose output ──────────────────────────────────
+  if (DIAGNOSE) {
+    console.log('\n═══ DATA-COMPLETE BOTTLENECK DIAGNOSIS ═══════════════════\n');
+    console.log('  Each count = # of non-publishable profiles blocked by this criterion.');
+    console.log('  A profile can fail multiple criteria, so totals are not mutually exclusive.\n');
+
+    const sortedTokens = Object.entries(diagCounts).sort((a, b) => b[1] - a[1]);
+    const pad = (s, n) => String(s).padEnd(n);
+    console.log('  Histogram (all non-publishable profiles):');
+    for (const [token, count] of sortedTokens) {
+      const bar = '█'.repeat(Math.min(50, Math.round(count / Math.max(1, sortedTokens[0][1]) * 50)));
+      console.log(`    ${pad(token, 32)} ${pad(count, 6)} ${bar}`);
+    }
+
+    console.log('\n  Staleness distribution (only profiles blocked on stale + those never enriched):');
+    for (const [bucket, count] of Object.entries(staleBuckets)) {
+      if (count === 0) continue;
+      console.log(`    ${pad(bucket, 14)} ${count}`);
+    }
+
+    console.log('\n  By current tier (who is closest to data-complete?):');
+    for (const [tier, tokens] of Object.entries(diagByCurrent)) {
+      const topFailures = Object.entries(tokens).sort((a, b) => b[1] - a[1]).slice(0, 3);
+      console.log(`    ${pad(tier, 12)} top blockers: ${topFailures.map(([k, v]) => `${k} (${v})`).join(', ')}`);
+    }
+
+    console.log('\n  Interpretation hints:');
+    console.log('    - High "stale:*" → run bulk ingest pipeline + build-profile-data-panels.cjs');
+    console.log('    - High "noTier1" → run source-harvester or citation-rebuilder');
+    console.log('    - High "noConnections" → run rebuild-relationship-caches.cjs');
+    console.log('    - High "typeReqs:*" → fix specific pipeline that populates that auto-section');
+    console.log('    - High "blocked:*" → editorial cleanup (URL work is David-only per rule 13)');
+  }
 
   if (!WRITE) {
     console.log('\n  ⚠ DRY RUN — no changes written. Use --write to apply.\n');
