@@ -85,25 +85,28 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 116th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,713 |
-| Votes with party majority | 473 |
-| Party-line loyalty | 27.6% |
-| Deviations from party | 1,240 |
+| Roll-call votes tracked | 3,678 |
+| Substantive votes (Y/N) | 3,593 |
+| Votes with party majority | 2,079 |
+| Party-line loyalty | 57.9% |
+| Deviations from party | 1,514 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 1240):**
+**Most recent party-line deviations (top 10 of 1514):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -120,3 +123,33 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 142 |
+| Enacted into law | 2 |
+| Top policy areas | Health · Transportation and Public Works · Government Operations and Politics |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-244 | 2025-01-04 | HR.7607-118 | H.R. 7607, a bill to designate the facility of the United States Postal Service located at |
+| PL 118-243 | 2025-01-04 | HR.7606-118 | H.R. 7606, a bill to designate the facility of the United States Postal Service located at |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-02 | HR.8194-119 | Armed Forces and National Security | Agent Orange Service Medal Act |
+| 2026-03-18 | HR.7991-119 | Energy | STOP RGGI Act |
+| 2026-03-12 | HR.7931-119 | Health | IDA Act of 2026 |
+| 2026-02-24 | HR.7667-119 | Armed Forces and National Security | TRICARE Fairness for National Guard and Reserve Retirees Act |
+| 2026-02-10 | HR.7459-119 | Water Resources Development | Coastal Trust Fund Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: V000133` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

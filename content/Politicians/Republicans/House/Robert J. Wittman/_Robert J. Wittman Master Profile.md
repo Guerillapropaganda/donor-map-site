@@ -85,25 +85,30 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,695 |
-| Votes with party majority | 1,632 |
-| Party-line loyalty | 96.3% |
-| Deviations from party | 63 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,742 |
+| Votes with party majority | 4,554 |
+| Party-line loyalty | 96.0% |
+| Deviations from party | 188 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 63):**
+**Most recent party-line deviations (top 10 of 188):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -120,3 +125,35 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 158 |
+| Enacted into law | 4 |
+| Top policy areas | Armed Forces and National Security · Public Lands and Natural Resources · Taxation |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 115-121 | 2018-01-29 | HR.984-115 | Thomasina E. Jordan Indian Tribes of Virginia Federal Recognition Act of 2017 |
+| PL 113-239 | 2014-12-18 | HR.1206-113 | SHARE Act of 2013 |
+| — | 2009-07-30 | HR.3433-111 | H.R. 3433, A bill to amend the North American Wetlands Conservation Act to establish requi |
+| — | 2008-02-26 | HR.5489-110 | A bill to designate the facility of the United States Postal Service located at 6892 Main  |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-18 | HR.7992-119 | Environmental Protection | CANS Act of 2026 |
+| 2026-03-09 | HR.7889-119 | Water Resources Development | AWRC Act of 2025 |
+| 2026-01-16 | HR.7146-119 | International Affairs | PORCUPINE Act |
+| 2026-01-15 | HR.7126-119 | Energy | SECURE Minerals Act of 2026 |
+| 2025-11-25 | HR.6317-119 | Government Operations and Politics | H.R. 6317, a bill to designate the facility of the United States Postal Service located at |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: W000804` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

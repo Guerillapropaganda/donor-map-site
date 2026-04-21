@@ -103,25 +103,28 @@ top-donors: "[[Robert Garcia]], [[League of Conservation Voters]], [[VOTER PROTE
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 116th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,716 |
-| Votes with party majority | 1,578 |
-| Party-line loyalty | 92.0% |
-| Deviations from party | 138 |
+| Roll-call votes tracked | 3,678 |
+| Substantive votes (Y/N) | 3,625 |
+| Votes with party majority | 3,436 |
+| Party-line loyalty | 94.8% |
+| Deviations from party | 189 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 138):**
+**Most recent party-line deviations (top 10 of 189):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -138,6 +141,38 @@ top-donors: "[[Robert Garcia]], [[League of Conservation Voters]], [[VOTER PROTE
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 153 |
+| Enacted into law | 4 |
+| Top policy areas | Armed Forces and National Security · Crime and Law Enforcement · Health |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-254 | 2025-01-04 | HR.8868-118 | H.R. 8868, a bill to designate the facility of the United States Postal Service located at |
+| PL 118-111 | 2024-11-25 | HR.1098-118 | A bill to designate the facility of the United States Postal Service located at 50 East De |
+| PL 117-313 | 2022-12-27 | HR.8260-117 | Providing for consideration of the bill (H.R. 302) to impose limits on excepting competiti |
+| PL 117-12 | 2021-05-04 | HR.2630-117 | Temporary Extension of Fentanyl Scheduling Act of 2021 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | HR.8348-119 | — | To amend title 23, United States Code, with respect to the amounts States are guaranteed u |
+| 2026-04-09 | HR.8229-119 | Commerce | Lower Grocery Prices Act |
+| 2026-03-30 | HR.8165-119 | Agriculture and Food | Protein for Every Plate Act of 2026 |
+| 2026-03-26 | HR.8120-119 | Science, Technology, Communications | Veterans Benefits Information Protection Act |
+| 2026-03-19 | HR.8019-119 | International Affairs | U.S.-Greece Defense Cooperation Advancement Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: P000614` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Chris Pappas
 

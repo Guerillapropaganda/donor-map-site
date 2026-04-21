@@ -85,25 +85,30 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,696 |
-| Votes with party majority | 1,672 |
-| Party-line loyalty | 98.6% |
-| Deviations from party | 24 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,779 |
+| Votes with party majority | 4,697 |
+| Party-line loyalty | 98.3% |
+| Deviations from party | 81 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 24):**
+**Most recent party-line deviations (top 10 of 81):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -120,3 +125,36 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 209 |
+| Enacted into law | 6 |
+| Top policy areas | Health · Science, Technology, Communications · Transportation and Public Works |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-19 | 2021-06-23 | HJRES.27-117 | A joint resolution providing for the appointment of Barbara M. Barrett as a citizen regent |
+| PL 117-15 | 2021-05-26 | HR.941-117 | TRANSPLANT Act of 2021 |
+| PL 116-163 | 2020-10-02 | HJRES.88-116 | A joint resolution providing for the appointment of Franklin D. Raines as a citizen regent |
+| PL 116-162 | 2020-10-02 | HJRES.87-116 | A joint resolution providing for the reappointment of Michael M. Lynton as a citizen regen |
+| PL 116-28 | 2019-07-05 | HJRES.60-116 | Commemorating the 50th anniversary of the Apollo 11 Mission, and supporting the week of Ju |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | HR.8339-119 | — | To amend the Federal Food, Drug, and Cosmetic Act to enhance drug manufacturing amount inf |
+| 2026-03-27 | HR.8143-119 | Health | Ensuring Access to Lower-Cost Medicines for Seniors Act of 2026. |
+| 2026-02-03 | HR.7332-119 | Environmental Protection | Whale CHARTS Act of 2026 |
+| 2025-11-20 | HR.6210-119 | Social Welfare | Senior Savings Protection Act |
+| 2025-09-08 | HR.5200-119 | Science, Technology, Communications | H.R. 5200, Emergency Reporting Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001163` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

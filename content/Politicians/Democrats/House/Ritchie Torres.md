@@ -243,21 +243,22 @@ The 2026 cycle reveals the scale. Torres has raised $5,052,480 with $1,616,453 f
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,661 |
-| Votes with party majority | 1,602 |
-| Party-line loyalty | 96.4% |
-| Deviations from party | 59 |
+| Roll-call votes tracked | 2,724 |
+| Substantive votes (Y/N) | 2,614 |
+| Votes with party majority | 2,546 |
+| Party-line loyalty | 97.4% |
+| Deviations from party | 68 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 59):**
+**Most recent party-line deviations (top 10 of 68):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -274,6 +275,35 @@ The 2026 cycle reveals the scale. Torres has raised $5,052,480 with $1,616,453 f
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 138 |
+| Enacted into law | 1 |
+| Top policy areas | Finance and Financial Sector · Crime and Law Enforcement · Government Operations and Politics |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-246 | 2022-12-20 | HR.7077-117 | Empowering the U.S. Fire Administration Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-25 | HR.7717-119 | Health | Community Health Profiles Act |
+| 2026-02-11 | HR.7519-119 | Congress | Army Corps Congressional Engagement Act |
+| 2026-01-22 | HR.7233-119 | Immigration | QR Act |
+| 2026-01-16 | HR.7144-119 | Agriculture and Food | Food Rescue Act |
+| 2026-01-09 | HR.7004-119 | Government Operations and Politics | Public Integrity in Financial Prediction Markets Act of 2026 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: T000486` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 
 ### Legislative Activity (Congress.gov)

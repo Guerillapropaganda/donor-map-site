@@ -148,6 +148,37 @@ top-donors: "[[National Association of Realtors]], [[Comcast - NBCUniversal]], [
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 38 |
+| Enacted into law | 3 |
+| Top policy areas | Public Lands and Natural Resources · Government Operations and Politics · Energy |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-13 | 2025-05-23 | HJRES.60-119 | A joint resolution providing for congressional disapproval under chapter 8 of title 5, Uni |
+| PL 118-250 | 2025-01-04 | HR.8666-118 | JUDGES Act of 2024 |
+| PL 118-181 | 2024-12-23 | HR.7332-118 | Utah State Parks Adjustment Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-06 | HR.8204-119 | Energy | Western Refined Fuel Reserve Act of 2025 |
+| 2026-03-26 | HR.8113-119 | Water Resources Development | A bill to direct the Secretary of the Interior to carry out a feasibility study on a selec |
+| 2026-03-04 | HJRES.151-119 | Public Lands and Natural Resources | A joint resolution providing for congressional disapproval under chapter 8 of title 5, Uni |
+| 2026-02-26 | HR.7739-119 | Labor and Employment | Rural Emergency Response Support Act |
+| 2025-12-18 | HR.6873-119 | Taxation | Geothermal Tax Parity Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001228` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Celeste Maloy
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

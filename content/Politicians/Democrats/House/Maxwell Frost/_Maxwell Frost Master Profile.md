@@ -139,6 +139,29 @@ top-donors: "[[NEA Fund for Children and Public Education]], [[National Nurses U
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 39 |
+| Enacted into law | 0 |
+| Top policy areas | Crime and Law Enforcement · Transportation and Public Works · Housing and Community Development |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-24 | HR.8047-119 | — | Promoting Resident Ownership of Manufactured Home Communities Act |
+| 2026-03-03 | HR.7765-119 | Housing and Community Development | Fair Future Act |
+| 2026-02-25 | HR.7691-119 | Education | Fight Book Bans Act |
+| 2026-02-04 | HR.7358-119 | Transportation and Public Works | Safer Rail Crossing Act of 2026 |
+| 2026-01-16 | HR.7135-119 | Crime and Law Enforcement | Prevent Illegal Gun Resales Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: F000476` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Maxwell Frost
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

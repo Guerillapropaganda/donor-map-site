@@ -93,21 +93,22 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,718 |
-| Votes with party majority | 1,607 |
-| Party-line loyalty | 93.5% |
-| Deviations from party | 111 |
+| Roll-call votes tracked | 2,724 |
+| Substantive votes (Y/N) | 2,680 |
+| Votes with party majority | 2,538 |
+| Party-line loyalty | 94.7% |
+| Deviations from party | 142 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 111):**
+**Most recent party-line deviations (top 10 of 142):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -124,3 +125,32 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 74 |
+| Enacted into law | 1 |
+| Top policy areas | Armed Forces and National Security · Government Operations and Politics · Energy |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-7 | 2025-05-09 | HJRES.24-119 | Providing for consideration of the joint resolution (H.J. Res. 24) providing for congressi |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-15 | HR.8295-119 | — | To amend title 18, United States Code, to criminalize abuse with respect to assisted repro |
+| 2026-03-24 | HR.8039-119 | Labor and Employment | Workforce and Education Partnership Act of 2026 |
+| 2026-02-09 | HR.7418-119 | Government Operations and Politics | STEADFAST Act |
+| 2026-02-02 | HR.7308-119 | Science, Technology, Communications | Turn It Down Act |
+| 2026-01-20 | HR.7153-119 | Agriculture and Food | Agriculture and National Security Act of 2026 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: B000740` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

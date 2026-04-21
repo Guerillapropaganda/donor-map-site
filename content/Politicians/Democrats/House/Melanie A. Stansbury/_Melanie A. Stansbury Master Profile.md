@@ -93,21 +93,22 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,743 |
-| Substantive votes (Y/N) | 1,668 |
-| Votes with party majority | 1,639 |
-| Party-line loyalty | 98.3% |
-| Deviations from party | 29 |
+| Roll-call votes tracked | 2,568 |
+| Substantive votes (Y/N) | 2,487 |
+| Votes with party majority | 2,451 |
+| Party-line loyalty | 98.6% |
+| Deviations from party | 36 |
 
 **Coverage:**
 
-- house 117/1: 17 votes
+- house 117/1: 293 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 29):**
+**Most recent party-line deviations (top 10 of 36):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -124,3 +125,26 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 47 |
+| Enacted into law | 0 |
+| Top policy areas | Public Lands and Natural Resources · Native Americans · Government Operations and Politics |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-01-08 | HR.6989-119 | Health | Public Health Nursing Act |
+| 2025-12-18 | HR.6896-119 | Government Operations and Politics | Federal Facilities Protection and Oversight Act of 2025 |
+| 2025-12-12 | HR.6700-119 | Government Operations and Politics | TALENTS Act |
+| 2025-12-11 | HR.6674-119 | Energy | CLAIM Act of 2025 |
+| 2025-11-19 | HR.6162-119 | Native Americans | Albuquerque Indian School Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S001218` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

@@ -121,23 +121,25 @@ top-policy-area: Health
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,363 |
-| Substantive votes (Y/N) | 2,307 |
-| Votes with party majority | 2,248 |
-| Party-line loyalty | 97.4% |
-| Deviations from party | 34 |
+| Roll-call votes tracked | 3,312 |
+| Substantive votes (Y/N) | 3,216 |
+| Votes with party majority | 3,086 |
+| Party-line loyalty | 96.0% |
+| Deviations from party | 104 |
 
 **Coverage:**
 
 - senate 115/2: 211 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 34):**
+**Most recent party-line deviations (top 10 of 104):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -154,6 +156,29 @@ top-policy-area: Health
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 71 |
+| Enacted into law | 0 |
+| Top policy areas | Health · Taxation · Crime and Law Enforcement |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-25 | S.3916-119 | Crime and Law Enforcement | Gun Owner Registration Information Protection Act |
+| 2026-02-12 | S.3878-119 | Native Americans | A bill to establish the Grand Village of the Natchez Indians and Jefferson College as affi |
+| 2026-01-28 | S.3712-119 | Health | BO’s Act |
+| 2026-01-27 | S.3697-119 | Health | SAVE Moms and Babies Act of 2025 |
+| 2026-01-14 | S.3633-119 | Science, Technology, Communications | Middle Mile for Rural America Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: H001079` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Cindy Hyde-Smith
 

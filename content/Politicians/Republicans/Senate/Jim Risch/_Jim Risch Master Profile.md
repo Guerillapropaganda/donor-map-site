@@ -77,11 +77,11 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,639 |
-| Votes with party majority | 2,532 |
-| Party-line loyalty | 95.9% |
-| Deviations from party | 77 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,520 |
+| Votes with party majority | 3,336 |
+| Party-line loyalty | 94.8% |
+| Deviations from party | 153 |
 
 **Coverage:**
 
@@ -89,12 +89,14 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 77):**
+**Most recent party-line deviations (top 10 of 153):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -111,6 +113,37 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 197 |
+| Enacted into law | 3 |
+| Top policy areas | International Affairs · Commerce · Energy |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-249 | 2022-12-20 | S.1617-117 | Disaster Assistance for Rural Communities Act |
+| PL 115-329 | 2018-12-18 | S.3119-115 | Endangered Salmon and Fisheries Predation Prevention Act |
+| PL 113-177 | 2014-09-26 | S.276-113 | A bill to reinstate and extend the deadline for commencement of construction of a hydroele |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-17 | S.4108-119 | Armed Forces and National Security | Veteran Burial Benefit Correction Act |
+| 2026-02-10 | S.3814-119 | Energy | ARC Act of 2026 |
+| 2025-10-30 | S.3085-119 | Crime and Law Enforcement | Firearm Access During Shutdowns Act |
+| 2025-10-01 | S.2960-119 | International Affairs | S. 2960, Deter PRC Aggression Against Taiwan Act |
+| 2025-09-18 | S.2904-119 | International Affairs | S. 2904, Sanctioning Harborers and Dodgers of Western Sanctions Act of 2026 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: R000584` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

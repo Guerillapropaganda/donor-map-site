@@ -117,25 +117,30 @@ top-policy-area: Government Operations and Politics
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,687 |
-| Votes with party majority | 1,433 |
-| Party-line loyalty | 84.9% |
-| Deviations from party | 254 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,743 |
+| Votes with party majority | 4,081 |
+| Party-line loyalty | 86.0% |
+| Deviations from party | 662 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 254):**
+**Most recent party-line deviations (top 10 of 662):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -152,6 +157,35 @@ top-policy-area: Government Operations and Politics
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 204 |
+| Enacted into law | 1 |
+| Top policy areas | International Affairs · Transportation and Public Works · Crime and Law Enforcement |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 115-38 | 2017-06-06 | HR.366-115 | H.R. 366, DHS Stop Asset and Vehicle Excess Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | HR.8349-119 | — | To amend section 133 of title 23, United States Code, to remove a certain State funding se |
+| 2026-04-09 | HR.8233-119 | Transportation and Public Works | No CIG Act |
+| 2026-04-09 | HR.8232-119 | Transportation and Public Works | To amend title 49, United States Code, to repeal certain employee protective arrangements, |
+| 2026-04-09 | HR.8231-119 | Transportation and Public Works | Highways First Act |
+| 2026-04-09 | HR.8230-119 | Transportation and Public Works | NO TOD Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: P000605` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Scott Perry
 

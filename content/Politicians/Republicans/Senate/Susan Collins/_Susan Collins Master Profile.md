@@ -132,11 +132,11 @@ top-policy-area: Health
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,749 |
-| Votes with party majority | 2,193 |
-| Party-line loyalty | 79.8% |
-| Deviations from party | 235 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,697 |
+| Votes with party majority | 2,642 |
+| Party-line loyalty | 71.5% |
+| Deviations from party | 733 |
 
 **Coverage:**
 
@@ -144,12 +144,14 @@ top-policy-area: Health
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 235):**
+**Most recent party-line deviations (top 10 of 733):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -166,6 +168,39 @@ top-policy-area: Health
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 463 |
+| Enacted into law | 20 |
+| Top policy areas | Health · Government Operations and Politics · Taxation |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-92 | 2024-10-01 | S.133-118 | NAPA Reauthorization Act |
+| PL 118-93 | 2024-10-01 | S.134-118 | Alzheimer’s Accountability and Investment Act |
+| PL 117-46 | 2021-10-08 | S.1828-117 | HAVANA Act of 2021 |
+| PL 116-252 | 2020-12-22 | S.3703-116 | Promoting Alzheimer's Awareness to Prevent Elder Abuse Act |
+| PL 115-406 | 2018-12-31 | S.2076-115 | BOLD Infrastructure for Alzheimer's Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-14 | S.4291-119 | — | A bill to amend the Internal Revenue Code of 1986 to allow additional catch-up contributio |
+| 2026-04-14 | S.4292-119 | — | A bill to amend the Internal Revenue Code of 1986 to allow certain family caregivers to co |
+| 2026-03-24 | S.4172-119 | Animals | AFTER Act of 2026 |
+| 2026-03-11 | S.4051-119 | Finance and Financial Sector | National Fallen Firefighters Memorial Coin Act |
+| 2026-02-26 | S.3934-119 | Health | Medical Nutrition Therapy Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C001035` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #susan-collins #senate #maine #moderate #kavanaugh #private-equity #corporate-pacs #class-analysis
 

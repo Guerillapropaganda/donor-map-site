@@ -161,19 +161,20 @@ SORT title ASC
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,272 |
-| Substantive votes (Y/N) | 1,075 |
-| Votes with party majority | 991 |
-| Party-line loyalty | 92.2% |
-| Deviations from party | 84 |
+| Roll-call votes tracked | 2,239 |
+| Substantive votes (Y/N) | 2,028 |
+| Votes with party majority | 1,909 |
+| Party-line loyalty | 94.1% |
+| Deviations from party | 119 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 
-**Most recent party-line deviations (top 10 of 84):**
+**Most recent party-line deviations (top 10 of 119):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -190,6 +191,29 @@ SORT title ASC
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 23 |
+| Enacted into law | 0 |
+| Top policy areas | Education · Taxation · Housing and Community Development |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2024-06-21 | HR.8797-118 | Taxation | Ending Corporate Greed Act |
+| 2024-06-11 | HR.8678-118 | Housing and Community Development | FAIR Costs Act |
+| 2024-04-10 | HR.7924-118 | Education | ACCESS in Mental Health Act |
+| 2023-12-06 | HR.6616-118 | Labor and Employment | College Athlete Right to Organize Act |
+| 2023-09-28 | HR.5784-118 | Education | Green New Deal for Public Schools Act of 2023 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: B001223` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

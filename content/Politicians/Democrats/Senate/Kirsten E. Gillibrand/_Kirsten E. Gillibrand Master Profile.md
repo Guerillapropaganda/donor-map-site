@@ -92,11 +92,11 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,613 |
-| Votes with party majority | 2,308 |
-| Party-line loyalty | 88.3% |
-| Deviations from party | 81 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,552 |
+| Votes with party majority | 3,239 |
+| Party-line loyalty | 91.2% |
+| Deviations from party | 89 |
 
 **Coverage:**
 
@@ -104,12 +104,14 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 81):**
+**Most recent party-line deviations (top 10 of 89):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -126,3 +128,34 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 575 |
+| Enacted into law | 3 |
+| Top policy areas | Agriculture and Food · Health · Armed Forces and National Security |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-88 | 2024-09-26 | S.2861-118 | To award a Congressional Gold Medal to Billie Jean King, an American icon, in recognition  |
+| PL 117-224 | 2022-12-07 | S.4524-117 | Speak Out Act |
+| PL 115-223 | 2018-07-30 | S.2692-115 | To designate the facility of the United States Postal Service located at 4558 Broadway in  |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | S.4313-119 | — | A bill to prohibit the use of the name, image, likeness, or signature of a sitting Preside |
+| 2026-04-14 | S.4286-119 | — | A bill to amend the Food and Nutrition Act of 2008 to streamline nutrition access for olde |
+| 2026-04-13 | SJRES.160-119 | Finance and Financial Sector | A joint resolution providing for congressional disapproval under chapter 8 of title 5, Uni |
+| 2026-04-13 | SJRES.181-119 | International Affairs | A joint resolution to direct the removal of United States Armed Forces from hostilities wi |
+| 2026-03-25 | S.4203-119 | — | A bill to modernize voter registration, promote access to voting for individuals with disa |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: G000555` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

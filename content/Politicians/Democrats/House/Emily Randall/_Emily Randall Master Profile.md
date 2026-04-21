@@ -132,6 +132,29 @@ top-donors: "[[EQUALITY PROJECT PAC]], [[Walmart - Walton Family]], [[AIPAC - Am
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 11 |
+| Enacted into law | 0 |
+| Top policy areas | Native Americans · Public Lands and Natural Resources · Immigration |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-03 | HR.7774-119 | Transportation and Public Works | FERRIES Act |
+| 2026-02-25 | HR.7710-119 | Native Americans | Defense Community Infrastructure Program Tribal Eligibility Act of 2026 |
+| 2026-01-27 | HR.7269-119 | Native Americans | Helping Our People Act of 2026 |
+| 2025-09-26 | HR.5603-119 | Immigration | Emergency Responder Protection Act |
+| 2025-08-08 | HR.4937-119 | Public Lands and Natural Resources | EQUAL Parks Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: R000621` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Emily Randall
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

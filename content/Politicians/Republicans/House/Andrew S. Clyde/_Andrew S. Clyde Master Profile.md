@@ -93,21 +93,22 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,707 |
-| Votes with party majority | 1,511 |
-| Party-line loyalty | 88.5% |
-| Deviations from party | 196 |
+| Roll-call votes tracked | 2,724 |
+| Substantive votes (Y/N) | 2,654 |
+| Votes with party majority | 2,289 |
+| Party-line loyalty | 86.2% |
+| Deviations from party | 365 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 196):**
+**Most recent party-line deviations (top 10 of 365):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -124,3 +125,33 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 55 |
+| Enacted into law | 2 |
+| Top policy areas | Government Operations and Politics · Finance and Financial Sector · Crime and Law Enforcement |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-8 | 2025-05-09 | HJRES.42-119 | Providing for consideration of the joint resolution (H.J. Res. 42) providing for congressi |
+| PL 118-1 | 2023-03-20 | HJRES.26-118 | A joint resolution disapproving the action of the District of Columbia Council in approvin |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2025-12-03 | HR.6372-119 | Government Operations and Politics | D.C. Shield Law Repeal Act |
+| 2025-09-03 | HR.5107-119 | Crime and Law Enforcement | Providing for consideration of the joint resolution (S.J. Res. 80) providing for congressi |
+| 2025-07-29 | HR.4788-119 | Crime and Law Enforcement | To require the District of Columbia to permit Members of Congress who have a valid license |
+| 2025-07-16 | HR.4432-119 | Water Resources Development | Lanier Parks Local Access Act |
+| 2025-05-07 | HR.3228-119 | Taxation | Constitutional Hearing Protection Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C001116` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

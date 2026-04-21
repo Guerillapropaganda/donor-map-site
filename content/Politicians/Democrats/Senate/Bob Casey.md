@@ -134,11 +134,11 @@ Yet Casey remained unfazed. His pharma donors were reliable, his labor base felt
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,009 |
-| Substantive votes (Y/N) | 1,986 |
-| Votes with party majority | 1,908 |
-| Party-line loyalty | 96.1% |
-| Deviations from party | 24 |
+| Roll-call votes tracked | 2,958 |
+| Substantive votes (Y/N) | 2,920 |
+| Votes with party majority | 2,837 |
+| Party-line loyalty | 97.2% |
+| Deviations from party | 29 |
 
 **Coverage:**
 
@@ -146,10 +146,12 @@ Yet Casey remained unfazed. His pharma donors were reliable, his labor base felt
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 
-**Most recent party-line deviations (top 10 of 24):**
+**Most recent party-line deviations (top 10 of 29):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -161,11 +163,44 @@ Yet Casey remained unfazed. His pharma donors were reliable, his labor base felt
 | 2023-06-01 | s145-118.1 | Nay | Y | — |
 | 2023-05-03 | s109-118.1 | Yea | N | H.J.Res. 39 |
 | 2023-03-29 | s80-118.1 | Yea | N | H.J.Res. 7 |
-| 2020-07-22 | s135-116.2 | Yea | N | — |
-| 2020-05-13 | s89-116.2 | Nay | Y | — |
+| 2022-05-04 | s152-117.2 | Yea | N | — |
+| 2021-08-10 | s323-117.1 | Yea | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 882 |
+| Enacted into law | 8 |
+| Top policy areas | Foreign Trade and International Finance · Health · Taxation |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-119 | 2022-05-10 | S.1226-117 | To designate the United States courthouse located at 1501 North 6th Street in Harrisburg,  |
+| PL 116-273 | 2020-12-31 | S.1130-116 | Scarlett's Sunshine on Sudden Unexpected Death Act |
+| PL 116-213 | 2020-12-04 | S.3587-116 | Department of Veterans Affairs Website Accessibility Act of 2019 |
+| PL 115-266 | 2018-10-11 | S.2269-115 | Global Food Security Reauthorization Act of 2018 |
+| PL 114-229 | 2016-09-30 | S.1878-114 | Advancing Hope Act of 2015 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2024-09-25 | S.5199-118 | Finance and Financial Sector | Fair Flood Protection Act of 2024 |
+| 2024-09-25 | S.5266-118 | Crime and Law Enforcement | Clean Slate Act of 2024 |
+| 2024-09-25 | S.5185-118 | Education | Funding Community College Infrastructure Act |
+| 2024-09-25 | S.5187-118 | Taxation | Community College Infrastructure Financing Act |
+| 2024-09-25 | S.5191-118 | Education | CREATE Graduates Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C001070` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->

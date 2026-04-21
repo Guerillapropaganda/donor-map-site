@@ -116,25 +116,30 @@ top-donors: "[[Lockheed Martin]], [[Honeywell]], [[AIPAC - American Israel Publi
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,720 |
-| Votes with party majority | 1,647 |
-| Party-line loyalty | 95.8% |
-| Deviations from party | 73 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,820 |
+| Votes with party majority | 4,687 |
+| Party-line loyalty | 97.2% |
+| Deviations from party | 132 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 73):**
+**Most recent party-line deviations (top 10 of 132):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -151,6 +156,38 @@ top-donors: "[[Lockheed Martin]], [[Honeywell]], [[AIPAC - American Israel Publi
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 119 |
+| Enacted into law | 4 |
+| Top policy areas | Science, Technology, Communications · Agriculture and Food · Government Operations and Politics |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-20 | 2021-06-25 | HR.49-117 | National Defense Authorization Act for Fiscal Year 2022 |
+| PL 116-229 | 2020-12-21 | HR.2969-116 | H.R. 2969, a bill to designate the facility of the United States Postal Service located at |
+| PL 115-228 | 2018-08-02 | HR.4528-115 | A bill to make technical amendments to certain marine fish conservation statutes, and for  |
+| PL 115-154 | 2018-03-23 | HR.4042-115 | To designate the facility of the United States Postal Service located at 1415 West Oak Str |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-01-30 | HR.7299-119 | Government Operations and Politics | To designate the facility of the United States Postal Service located at 2600 Michigan Ave |
+| 2025-12-12 | HR.6699-119 | Science, Technology, Communications | Stop Communist Radio Act of 2025 |
+| 2025-12-04 | HR.6479-119 | Health | Puerto Rico Affordable Care Act of 2025 |
+| 2025-09-04 | HR.5161-119 | Government Operations and Politics | To establish in the Executive Office of the President an Office of Young Americans, and fo |
+| 2025-08-19 | HR.5012-119 | Armed Forces and National Security | To authorize the President to award the Purple Heart to Louis Boria, Jr., for injuries inc |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S001200` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Darren Soto
 

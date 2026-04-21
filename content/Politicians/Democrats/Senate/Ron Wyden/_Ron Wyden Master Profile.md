@@ -126,11 +126,11 @@ top-policy-area: Health
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,708 |
-| Votes with party majority | 2,479 |
-| Party-line loyalty | 91.5% |
-| Deviations from party | 88 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,646 |
+| Votes with party majority | 3,407 |
+| Party-line loyalty | 93.4% |
+| Deviations from party | 98 |
 
 **Coverage:**
 
@@ -138,12 +138,14 @@ top-policy-area: Health
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 88):**
+**Most recent party-line deviations (top 10 of 98):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -160,6 +162,39 @@ top-policy-area: Health
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 748 |
+| Enacted into law | 16 |
+| Top policy areas | Taxation · Public Lands and Natural Resources · Health |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-154 | 2024-12-17 | S.1478-118 | To designate United States Route 20 in the States of Oregon, Idaho, Montana, Wyoming, Nebr |
+| PL 114-263 | 2016-12-14 | S.818-114 | To amend the Grand Ronde Reservation Act to make technical corrections, and for other purp |
+| PL 114-262 | 2016-12-14 | S.817-114 | To provide for the addition of certain real property to the reservation of the Siletz Trib |
+| PL 114-62 | 2015-10-07 | S.136-114 | Gold Star Fathers Act |
+| PL 114-63 | 2015-10-07 | S.139-114 | Ensuring Access to Clinical Trials Act of 2015 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | S.4338-119 | — | A bill to require the Director of the Financial Crimes Enforcement Network of the Departme |
+| 2026-04-16 | S.4330-119 | — | A bill to amend the Internal Revenue Code of 1986 to revise the treatment of partnership i |
+| 2026-04-16 | S.4331-119 | — | A bill to amend the Internal Revenue Code of 1986 to modernize the tax treatment of deriva |
+| 2026-04-14 | S.4287-119 | — | GRATS Act |
+| 2026-04-13 | S.4279-119 | — | PPLI Abuse Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: W000779` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #ron-wyden #democrat #oregon #senate #ranking-member #phase-6-gavel-power #finance #tax-policy #privacy #tech #class-analysis #follow-the-money
 

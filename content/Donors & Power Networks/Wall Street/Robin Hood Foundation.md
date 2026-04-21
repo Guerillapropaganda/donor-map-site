@@ -36,6 +36,30 @@ internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top
 - **Type:** 501(c)(3), Donor-Collaborative
 - **Note:** NYC-focused anti-poverty foundation funded heavily by Wall Street hedge fund capital. Board historically dominated by finance-industry leadership.
 
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 13 |
+| Leak sources | Paradise Papers - Malta corporate registry (11) · Panama Papers (1) · Bahamas Leaks (1) |
+| Top jurisdictions | Malta (5) · British Virgin Islands (1) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| RELAX LIMITED | entity | British Virgin Islands | Panama Papers |
+| NOEL CAMILLERI | officer | — | Paradise Papers - Malta corporate registry |
+| ADRIAAN MAURICE MULDERS | officer | — | Paradise Papers - Malta corporate registry |
+| PRICEWATERHOUSECOOPERS | officer | — | Paradise Papers - Malta corporate registry |
+| ACTAVIS ACQUISITION 1 S.A.R.L. | officer | — | Paradise Papers - Malta corporate registry |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: Robin Hood Foundation` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->
+
 ## Sources
 
 - [IRS Exempt Organization 990 records](https://www.irs.gov/charities-non-profits/form-990-series-downloads)

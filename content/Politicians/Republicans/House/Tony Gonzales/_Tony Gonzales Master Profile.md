@@ -106,21 +106,22 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,743 |
-| Substantive votes (Y/N) | 1,588 |
-| Votes with party majority | 1,476 |
-| Party-line loyalty | 92.9% |
-| Deviations from party | 112 |
+| Roll-call votes tracked | 2,710 |
+| Substantive votes (Y/N) | 2,549 |
+| Votes with party majority | 2,385 |
+| Party-line loyalty | 93.6% |
+| Deviations from party | 164 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 110 votes
 
-**Most recent party-line deviations (top 10 of 112):**
+**Most recent party-line deviations (top 10 of 164):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -137,3 +138,32 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 72 |
+| Enacted into law | 1 |
+| Top policy areas | Immigration · Government Operations and Politics · Crime and Law Enforcement |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-141 | 2024-12-11 | HR.5799-118 | James R. Dominguez Memorial Act of 2024 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-17 | HR.7593-119 | Armed Forces and National Security | Reserve Forces Travel Fairness Act |
+| 2026-01-30 | HR.7285-119 | Crime and Law Enforcement | Bulletproof Law Enforcement Vehicles Act |
+| 2026-01-15 | HR.7098-119 | Immigration | Homeland Threat Response Act |
+| 2025-12-17 | HR.6791-119 | Transportation and Public Works | Strong Ports, Strong Communities Act |
+| 2025-12-04 | HR.6439-119 | Government Operations and Politics | Border Patrol Supervisors Retention Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: G000594` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

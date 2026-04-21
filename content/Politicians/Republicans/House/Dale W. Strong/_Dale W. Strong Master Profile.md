@@ -119,3 +119,32 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 23 |
+| Enacted into law | 1 |
+| Top policy areas | Immigration · Government Operations and Politics · Science, Technology, Communications |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-179 | 2024-12-23 | HR.7177-118 | H.R. 7177, a bill to amend title 28, United States Code, to consolidate certain divisions  |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2025-09-17 | HR.5447-119 | Science, Technology, Communications | SPACEPORT Act |
+| 2025-05-08 | HR.3312-119 | Crime and Law Enforcement | SERVICE Act of 2025 |
+| 2025-02-18 | HR.1438-119 | Agriculture and Food | Protecting America’s Agricultural Land from Foreign Harm Act of 2025 |
+| 2025-02-13 | HR.1351-119 | Education | Promoting American Patriotism In Our Schools Act |
+| 2025-02-07 | HR.1146-119 | Science, Technology, Communications | No More Funding for NPR Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S001220` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

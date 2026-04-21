@@ -108,24 +108,26 @@ urls-first-triaged: "2026-04-15"
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,691 |
-| Votes with party majority | 1,670 |
-| Party-line loyalty | 98.8% |
-| Deviations from party | 21 |
+| Roll-call votes tracked | 2,365 |
+| Substantive votes (Y/N) | 2,329 |
+| Votes with party majority | 2,307 |
+| Party-line loyalty | 99.1% |
+| Deviations from party | 22 |
 
 **Coverage:**
 
+- house 117/1: 90 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 21):**
+**Most recent party-line deviations (top 10 of 22):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -142,6 +144,29 @@ urls-first-triaged: "2026-04-15"
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 30 |
+| Enacted into law | 0 |
+| Top policy areas | Agriculture and Food · Government Operations and Politics · Health |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-18 | HR.7975-119 | Agriculture and Food | Feeding Families Not Fear Act of 2026 |
+| 2026-02-25 | HR.7685-119 | Health | Healthy Hair Act |
+| 2025-12-04 | HR.6429-119 | Labor and Employment | Expanding Cybersecurity Workforce Act of 2025 |
+| 2025-09-18 | HR.5457-119 | Government Operations and Politics | Strengthening Agency Management and Oversight of Software Assets Act |
+| 2025-09-10 | HR.5255-119 | Education | Thriving Community Gardens Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: B001313` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #shontel-brown #oh-11 #cuyahoga-county #aipac-backed #dmfi-backed #house #democrat
 

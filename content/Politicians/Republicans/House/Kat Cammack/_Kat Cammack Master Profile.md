@@ -108,21 +108,22 @@ top-donors: "[[Amgen Inc]], [[CVS Health - Aetna]], [[Marathon Petroleum]], [[Pf
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,670 |
-| Votes with party majority | 1,537 |
-| Party-line loyalty | 92.0% |
-| Deviations from party | 133 |
+| Roll-call votes tracked | 2,724 |
+| Substantive votes (Y/N) | 2,624 |
+| Votes with party majority | 2,388 |
+| Party-line loyalty | 91.0% |
+| Deviations from party | 236 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 133):**
+**Most recent party-line deviations (top 10 of 236):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -139,6 +140,29 @@ top-donors: "[[Amgen Inc]], [[CVS Health - Aetna]], [[Marathon Petroleum]], [[Pf
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 45 |
+| Enacted into law | 0 |
+| Top policy areas | Health · Government Operations and Politics · Science, Technology, Communications |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-19 | HR.8001-119 | Emergency Management | First Responders’ Equipment Access Act |
+| 2026-02-09 | HR.7422-119 | Taxation | NEST Act |
+| 2025-11-21 | HR.6253-119 | Commerce | Algorithmic Transparency and Choice Act |
+| 2025-10-24 | HR.5813-119 | Health | Women’s Health and Cancer Rights Modernization Act of 2025 |
+| 2025-07-29 | HR.4783-119 | Immigration | COP Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C001039` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Kat Cammack
 

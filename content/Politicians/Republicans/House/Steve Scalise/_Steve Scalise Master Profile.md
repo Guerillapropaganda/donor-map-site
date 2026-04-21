@@ -120,25 +120,30 @@ top-policy-area: International Affairs
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,589 |
-| Votes with party majority | 1,545 |
-| Party-line loyalty | 97.2% |
-| Deviations from party | 44 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,310 |
+| Votes with party majority | 4,193 |
+| Party-line loyalty | 97.3% |
+| Deviations from party | 117 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 44):**
+**Most recent party-line deviations (top 10 of 117):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -155,6 +160,38 @@ top-policy-area: International Affairs
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 68 |
+| Enacted into law | 4 |
+| Top policy areas | Science, Technology, Communications · Taxation · Crime and Law Enforcement |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-28 | 2025-07-24 | HR.4-119 | Providing for consideration of the bill (H.R. 4) to rescind certain budget authority propo |
+| PL 118-177 | 2024-12-23 | HR.6843-118 | Atchafalaya National Heritage Area Boundary Modification Act |
+| PL 118-129 | 2024-11-25 | HR.7423-118 | A bill to designate the facility of the United States Postal Service located at 103 Benede |
+| PL 117-55 | 2021-11-11 | HR.3919-117 | Secure Equipment Act of 2021 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2024-05-10 | HR.8364-118 | Crime and Law Enforcement | Firearms Interstate Commerce Reform Act |
+| 2023-03-14 | HR.1-118 | Energy | Permitting for Mining Needs Act of 2023 |
+| 2022-07-27 | HR.8543-117 | Commerce | EAVESDROP Act |
+| 2022-07-20 | HR.8437-117 | Energy | American Energy First Act |
+| 2021-07-01 | HR.4334-117 | Energy | Conservation Funding Protection Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S001176` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #politician #republican #house #louisiana #energy #fossil-fuel #climate #leadership #class-analysis #follow-the-money #gavel-power
 

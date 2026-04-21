@@ -135,25 +135,30 @@ top-policy-area: Health
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,648 |
-| Votes with party majority | 1,573 |
-| Party-line loyalty | 95.4% |
-| Deviations from party | 75 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,732 |
+| Votes with party majority | 4,559 |
+| Party-line loyalty | 96.3% |
+| Deviations from party | 172 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 75):**
+**Most recent party-line deviations (top 10 of 172):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -170,6 +175,29 @@ top-policy-area: Health
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 129 |
+| Enacted into law | 0 |
+| Top policy areas | Health · Immigration · Government Operations and Politics |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-26 | HR.8103-119 | International Affairs | To prohibit the use of funds to use military force in or against Cuba, and for other purpo |
+| 2026-03-25 | HR.8085-119 | Taxation | Ultra-Millionaire Tax Act of 2026 |
+| 2026-02-12 | HR.7541-119 | Immigration | U.S. Farmworker Protection Act |
+| 2026-02-04 | HR.7363-119 | Immigration | ICE Out of Our Faces Act |
+| 2025-12-16 | HR.6751-119 | International Affairs | Sunset for the 2001 Authorization for Use of Military Force Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: J000298` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #pramila-jayapal #democrat #washington #house #progressive-caucus #medicare-for-all #immigration #labor #tech #seattle #antitrust
 

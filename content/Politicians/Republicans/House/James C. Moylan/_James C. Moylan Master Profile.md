@@ -123,3 +123,26 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 44 |
+| Enacted into law | 0 |
+| Top policy areas | Transportation and Public Works · Armed Forces and National Security · Immigration |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | HR.8343-119 | — | To amend the Small Business Act to require the Administrator of the Small Business Adminis |
+| 2026-02-25 | HR.7673-119 | Government Operations and Politics | To amend the Organic Act of Guam to provide an exception to the "public purpose" requireme |
+| 2026-02-25 | HR.7672-119 | Labor and Employment | Parity for Pacific Radiation Survivors Act |
+| 2026-01-22 | HR.7229-119 | Commerce | Territorial SBA Loan Guaranty Adjustment Act of 2026 |
+| 2026-01-14 | HR.7073-119 | Congress | Equality in the Halls of Congress Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001219` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

@@ -116,25 +116,30 @@ top-donors: "[[Lockheed Martin]], [[Amgen Inc]], [[American College of Radiology
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,685 |
-| Votes with party majority | 1,668 |
-| Party-line loyalty | 99.0% |
-| Deviations from party | 17 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,751 |
+| Votes with party majority | 4,660 |
+| Party-line loyalty | 98.1% |
+| Deviations from party | 90 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 17):**
+**Most recent party-line deviations (top 10 of 90):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -151,6 +156,38 @@ top-donors: "[[Lockheed Martin]], [[Amgen Inc]], [[American College of Radiology
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 276 |
+| Enacted into law | 4 |
+| Top policy areas | Armed Forces and National Security · Taxation · Transportation and Public Works |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-280 | 2022-12-27 | HR.5659-117 | To designate the facility of the United States Postal Service located at 1961 North C Stre |
+| PL 117-199 | 2022-10-11 | HR.7698-117 | To designate the outpatient clinic of the Department of Veterans Affairs in Ventura, Calif |
+| PL 115-1 | 2018-01-29 | HR.4641-115 | To authorize the President to award the Medal of Honor to John L. Canley for acts of valor |
+| PL 114-309 | 2016-12-16 | HR.6138-114 | To designate the facility of the United States Postal Service located at 560 East Pleasant |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-01-27 | HJRES.144-119 | Armed Forces and National Security | A joint resolution providing for congressional disapproval under chapter 8 of title 5, Uni |
+| 2025-12-17 | HR.6780-119 | Agriculture and Food | Producing Real Opportunities for Technology and Entrepreneurs Investing in Nutrition Act |
+| 2025-12-12 | HR.6684-119 | Environmental Protection | Zero Food Waste Act |
+| 2025-12-03 | HR.6376-119 | Armed Forces and National Security | Supporting Military Families Exposed to Toxic Substances Act |
+| 2025-12-03 | HR.6377-119 | Armed Forces and National Security | This act may be cited as the “Gold Star Siblings Educational Benefits Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: B001285` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Julia Brownley
 

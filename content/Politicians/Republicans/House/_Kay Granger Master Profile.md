@@ -126,23 +126,28 @@ top-policy-area: International Affairs
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–118th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–118th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,272 |
-| Substantive votes (Y/N) | 933 |
-| Votes with party majority | 847 |
-| Party-line loyalty | 90.8% |
-| Deviations from party | 86 |
+| Roll-call votes tracked | 4,403 |
+| Substantive votes (Y/N) | 3,862 |
+| Votes with party majority | 3,649 |
+| Party-line loyalty | 94.5% |
+| Deviations from party | 213 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 
-**Most recent party-line deviations (top 10 of 86):**
+**Most recent party-line deviations (top 10 of 213):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -159,6 +164,39 @@ top-policy-area: International Affairs
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 56 |
+| Enacted into law | 6 |
+| Top policy areas | International Affairs · Taxation · Health |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-40 | 2024-03-01 | HR.7463-118 | H.R. 7463, Extension of Continuing Appropriations and Other Matters Act, 2024 |
+| PL 118-22 | 2023-11-17 | HR.6363-118 | To amend title XVIII of the Social Security Act with respect to the work geographic index  |
+| PL 118-15 | 2023-09-30 | HR.5860-118 | Animal Drug and Animal Generic Drug User Fee Amendments of 2023 |
+| PL 115-245 | 2018-09-28 | HR.6157-115 | Department of Defense Appropriations Act, 2019 |
+| PL 113-116 | 2014-06-09 | HR.3658-113 | Monuments Men Recognition Act of 2013 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2024-05-08 | HR.8307-118 | Government Operations and Politics | Women Who Worked on the Home Front Memorial Location Act |
+| 2023-11-01 | HR.6126-118 | Economics and Public Finance | Providing for consideration of the bill (H.R. 4821) making appropriations for the Departme |
+| 2018-03-01 | HR.5135-115 | Crime and Law Enforcement | Securing Children in Schools Act of 2018 |
+| 2018-01-25 | HR.4877-115 | Armed Forces and National Security | Bipartisan Budget Act of 2018 |
+| 2017-07-13 | HR.3219-115 | Armed Forces and National Security | Bipartisan Budget Act of 2018 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: G000377` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #master-profile #republican #house #texas #appropriations #defense #lockheed-martin #f35 #dementia
 

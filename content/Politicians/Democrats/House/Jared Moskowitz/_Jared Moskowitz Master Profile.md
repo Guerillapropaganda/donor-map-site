@@ -140,6 +140,29 @@ top-donors: "[[NextEra Energy]], [[NEA Fund for Children and Public Education]],
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 27 |
+| Enacted into law | 0 |
+| Top policy areas | Emergency Management · Crime and Law Enforcement · Education |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | HR.8321-119 | International Affairs | Artemis Accords Authorization Act |
+| 2026-02-25 | HR.7674-119 | International Affairs | H.R. 7674, Venezuela Democratic Transition Strategy Act |
+| 2025-12-18 | HR.6885-119 | Armed Forces and National Security | Veterans Pensions Protection Act of 2025 |
+| 2025-12-11 | HR.6660-119 | Animals | Replace Animal Tests Act of 2025 |
+| 2025-11-21 | HR.6274-119 | Finance and Financial Sector | Natural Disaster Risk Reinsurance Program Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001217` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Jared Moskowitz
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

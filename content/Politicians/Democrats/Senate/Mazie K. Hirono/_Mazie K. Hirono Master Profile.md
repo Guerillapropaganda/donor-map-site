@@ -92,11 +92,11 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,711 |
-| Votes with party majority | 2,482 |
-| Party-line loyalty | 91.6% |
-| Deviations from party | 44 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,651 |
+| Votes with party majority | 3,415 |
+| Party-line loyalty | 93.5% |
+| Deviations from party | 51 |
 
 **Coverage:**
 
@@ -104,12 +104,14 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 44):**
+**Most recent party-line deviations (top 10 of 51):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -126,3 +128,36 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 320 |
+| Enacted into law | 8 |
+| Top policy areas | Armed Forces and National Security · Education · Immigration |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-315 | 2022-12-27 | S.7-117 | VAWA Technical Amendment Act of 2022 |
+| PL 117-131 | 2022-06-07 | S.1760-117 | To designate the community-based outpatient clinic of the Department of Veterans Affairs p |
+| PL 117-13 | 2021-05-20 | S.937-117 | COVID–19 Hate Crimes Act |
+| PL 115-238 | 2018-09-07 | S.899-115 | Veterans Transition Improvement Act |
+| PL 115-226 | 2018-08-01 | S.2245-115 | KIWI Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-26 | SJRES.151-119 | Finance and Financial Sector | A joint resolution providing for congressional disapproval under chapter 8 of title 5, Uni |
+| 2026-02-11 | S.3851-119 | Agriculture and Food | To amend the Food, Agriculture, Conservation, and Trade Act of 1990 to ensure adequate sta |
+| 2026-01-29 | S.3724-119 | Crime and Law Enforcement | Improving Reporting to Prevent Hate Act of 2026 |
+| 2026-01-12 | S.3613-119 | Armed Forces and National Security | Hawai‘i National Cemetery Act |
+| 2025-12-10 | S.3419-119 | Immigration | Reuniting Families Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: H001042` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

@@ -151,23 +151,26 @@ donors: [[SEIU - Service Employees International Union|SEIU]] · [[Teamsters - I
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–118th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 116th–118th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,272 |
-| Substantive votes (Y/N) | 1,096 |
-| Votes with party majority | 1,066 |
-| Party-line loyalty | 97.3% |
-| Deviations from party | 30 |
+| Roll-call votes tracked | 3,193 |
+| Substantive votes (Y/N) | 2,986 |
+| Votes with party majority | 2,903 |
+| Party-line loyalty | 97.2% |
+| Deviations from party | 83 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 
-**Most recent party-line deviations (top 10 of 30):**
+**Most recent party-line deviations (top 10 of 83):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -184,6 +187,35 @@ donors: [[SEIU - Service Employees International Union|SEIU]] · [[Teamsters - I
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 161 |
+| Enacted into law | 1 |
+| Top policy areas | Health · Government Operations and Politics · Taxation |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-152 | 2022-06-23 | HR.1170-117 | To designate the facility of the United States Postal Service located at 1 League in Irvin |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2024-12-20 | HR.10554-118 | Armed Forces and National Security | Servicemember Quality of Life Improvement and National Defense Authorization Act for Fisca |
+| 2024-11-18 | HR.10162-118 | Public Lands and Natural Resources | RESERVE Federal Land Act |
+| 2024-09-20 | HR.9736-118 | Finance and Financial Sector | Corporate Management Accountability Act of 2024 |
+| 2024-09-18 | HR.9664-118 | Armed Forces and National Security | Accurate Industrial Policy Budgeting Act of 2024 |
+| 2024-09-18 | HR.9663-118 | Armed Forces and National Security | Open-Source Standards Reporting Act of 2024 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: P000618` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

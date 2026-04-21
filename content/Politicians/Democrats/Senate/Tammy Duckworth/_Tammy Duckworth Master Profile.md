@@ -152,11 +152,11 @@ top-policy-area: Health
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,582 |
-| Votes with party majority | 2,477 |
-| Party-line loyalty | 95.9% |
-| Deviations from party | 14 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,510 |
+| Votes with party majority | 3,401 |
+| Party-line loyalty | 96.9% |
+| Deviations from party | 18 |
 
 **Coverage:**
 
@@ -164,12 +164,14 @@ top-policy-area: Health
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 14):**
+**Most recent party-line deviations (top 10 of 18):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -186,6 +188,39 @@ top-policy-area: Health
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 327 |
+| Enacted into law | 9 |
+| Top policy areas | Armed Forces and National Security · Health · Transportation and Public Works |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-41 | 2025-11-25 | S.260-119 | Bottles and Breastfeeding Equipment Screening Enhancement Act |
+| PL 118-205 | 2024-12-23 | S.4107-118 | S. 4107, Think Differently Transportation Act |
+| PL 117-338 | 2023-01-05 | S.1541-117 | S. 1541, Martha Wright-Reed Just and Reasonable Communications Act of 2022 |
+| PL 117-69 | 2021-11-30 | S.796-117 | Protecting Moms Who Served Act |
+| PL 116-256 | 2020-12-23 | S.1014-116 | Route 66 Centennial Commission Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-13 | SJRES.173-119 | Finance and Financial Sector | A joint resolution providing for congressional disapproval under chapter 8 of title 5, Uni |
+| 2026-03-26 | S.4218-119 | Armed Forces and National Security | VA Appraisal Modernization Act |
+| 2026-03-26 | S.4217-119 | Armed Forces and National Security | Copay Fairness for Veterans Act of 2026 |
+| 2026-03-26 | S.4247-119 | Civil Rights and Liberties, Minority Issues | Guardianship Bill of Rights Act of 2026 |
+| 2026-03-25 | S.4194-119 | International Affairs | Inspector General Accessibility Reporting Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: D000622` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #duckworth #democrat #illinois #defense #veterans #armed-services #disability #thai-american #genuine-win-structural-limit #both-sides-illusion
 

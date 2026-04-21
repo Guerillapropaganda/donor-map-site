@@ -131,11 +131,11 @@ donors:
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,631 |
-| Votes with party majority | 2,156 |
-| Party-line loyalty | 81.9% |
-| Deviations from party | 202 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,514 |
+| Votes with party majority | 2,638 |
+| Party-line loyalty | 75.1% |
+| Deviations from party | 602 |
 
 **Coverage:**
 
@@ -143,12 +143,14 @@ donors:
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 202):**
+**Most recent party-line deviations (top 10 of 602):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -165,6 +167,39 @@ donors:
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 511 |
+| Enacted into law | 19 |
+| Top policy areas | Public Lands and Natural Resources · Energy · Native Americans |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-358 | 2023-01-05 | S.5066-117 | Don Young Recognition Act |
+| PL 117-357 | 2023-01-05 | S.5016-117 | Colonel Mary Louise Rasmuson Campus of the Alaska VA Healthcare System Act of 2022 |
+| PL 117-359 | 2023-01-05 | S.5087-117 | A bill to amend the Not Invisible Act of 2019 to extend, and provide additional support fo |
+| — | 2021-02-12 | S.325-117 | To amend the Alyce Spotted Bear and Walter Soboleff Commission on Native Children Act to e |
+| PL 116-165 | 2020-10-10 | S.227-116 | A bill to reauthorize the Violence Against Women Act of 1994, and for other purposes. |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-26 | S.4236-119 | Agriculture and Food | American Seafood Competitiveness Act of 2026 |
+| 2026-03-26 | S.4276-119 | — | A bill to reauthorize the Native American Housing Assistance and Self-Determination Act of |
+| 2026-03-24 | S.4179-119 | Families | AI/AN CAPTA |
+| 2026-03-16 | S.4097-119 | Education | State-Based Education Loan Awareness Act |
+| 2026-03-12 | S.4087-119 | Immigration | A bill to exempt public school employees from non-processing related fees for H-1B visas i |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001153` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

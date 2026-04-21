@@ -196,3 +196,24 @@ The key difference between Levin and pure institutional products like Hannity or
 
 > **Source note:** The Politico 2014 article documenting Landmark Legal Foundation's Koch/Scaife/ExxonMobil donors and Levin's $300K+ salary is cited in Wikipedia but the original Politico URL could not be located for direct verification. The claim is corroborated by multiple secondary sources and Wikipedia's editorial review process. A future session should attempt to locate and Chrome-verify the original Politico article for direct Tier 2 citation.
 
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 2 |
+| Leak sources | Paradise Papers - Malta corporate registry (2) |
+| Top jurisdictions | Malta (2) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| MERCHANT STREET LIMITED | entity | Malta | Paradise Papers - Malta corporate registry |
+| MERCHANT STREET HOLDING LIMITED | entity | Malta | Paradise Papers - Malta corporate registry |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: Mark Levin` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

@@ -128,11 +128,11 @@ donors:
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,722 |
-| Votes with party majority | 2,662 |
-| Party-line loyalty | 97.8% |
-| Deviations from party | 33 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,664 |
+| Votes with party majority | 3,545 |
+| Party-line loyalty | 96.8% |
+| Deviations from party | 91 |
 
 **Coverage:**
 
@@ -140,12 +140,14 @@ donors:
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 33):**
+**Most recent party-line deviations (top 10 of 91):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -162,6 +164,39 @@ donors:
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 175 |
+| Enacted into law | 14 |
+| Top policy areas | Armed Forces and National Security · Health · Public Lands and Natural Resources |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-25 | 2023-12-19 | S.788-118 | Making further continuing appropriations for the fiscal year ending September 30, 2024, an |
+| PL 117-345 | 2023-01-05 | S.3519-117 | Butterfield Overland National Historic Trail Designation Act |
+| PL 117-133 | 2022-06-07 | S.2102-117 | SERVICE Act of 2021 |
+| PL 116-138 | 2020-04-10 | SJRES.66-116 | A joint resolution providing for the appointment of Denise O'Leary as a citizen regent of  |
+| PL 116-118 | 2020-03-02 | SJRES.65-116 | A joint resolution providing for the reappointment of John Fahey as a citizen regent of th |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-11 | S.4064-119 | Finance and Financial Sector | Digital Commodity Intermediaries Act |
+| 2026-03-03 | S.3967-119 | Water Resources Development | FLOWS Act of 2026 |
+| 2026-02-24 | S.3898-119 | Armed Forces and National Security | Gerald’s Law Reauthorization Act of 2026 |
+| 2026-02-02 | S.3755-119 | Finance and Financial Sector | Digital Commodity Intermediaries Act |
+| 2025-12-18 | S.3572-119 | Transportation and Public Works | Roadway Safety Modernization Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: B001236` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

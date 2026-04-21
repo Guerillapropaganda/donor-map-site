@@ -83,3 +83,26 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 17 |
+| Enacted into law | 0 |
+| Top policy areas | Housing and Community Development · Transportation and Public Works · Taxation |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-24 | HR.8041-119 | Armed Forces and National Security | Supporting VA Families Act |
+| 2026-01-27 | HR.7244-119 | Housing and Community Development | First-Time Home Buyers Match Act |
+| 2026-01-27 | HR.7243-119 | Housing and Community Development | SPUR Housing Act |
+| 2026-01-27 | HR.7245-119 | Taxation | LIMBER Timber Act of 2026 |
+| 2026-01-27 | HR.7242-119 | Labor and Employment | Homebuilders Corps Act of 2026 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: B001326` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

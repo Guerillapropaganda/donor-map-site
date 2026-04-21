@@ -151,6 +151,35 @@ top-donors: "[[Votevets]], [[Mark Green]], [[Pfizer Inc.]], [[Jim Jordan]], [[AT
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 146 |
+| Enacted into law | 1 |
+| Top policy areas | International Affairs · Government Operations and Politics · Housing and Community Development |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-91 | 2024-10-01 | HR.9106-118 | Enhanced Presidential Security Act of 2024 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-02 | HR.8177-119 | International Affairs | Critical Undersea Infrastructure Resilience Initiative Act |
+| 2026-03-27 | HR.8141-119 | Finance and Financial Sector | Fair Credit Reporting Reseller Accuracy Act |
+| 2026-03-19 | HR.8012-119 | Transportation and Public Works | HOWIE Act |
+| 2026-03-17 | HR.7961-119 | Immigration | H–1Bs for Physicians and the Healthcare Workforce Act |
+| 2026-03-12 | HR.7911-119 | Health | Dream’s Caregiver Health and Wellness Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: L000599` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Michael Lawler
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
@@ -184,3 +213,23 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 - [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
 <!-- auto:congress-bills end -->
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 1 |
+| Leak sources | Paradise Papers - Barbados corporate registry (1) |
+| Top jurisdictions | Barbados (1) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| ARKMOUNT SYSTEMS INTERNATIONAL INC. | entity | Barbados | Paradise Papers - Barbados corporate registry |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: Michael Lawler` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

@@ -89,25 +89,30 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,700 |
-| Votes with party majority | 1,621 |
-| Party-line loyalty | 95.4% |
-| Deviations from party | 79 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,773 |
+| Votes with party majority | 4,511 |
+| Party-line loyalty | 94.5% |
+| Deviations from party | 262 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 79):**
+**Most recent party-line deviations (top 10 of 262):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -124,3 +129,34 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 92 |
+| Enacted into law | 3 |
+| Top policy areas | Government Operations and Politics · Energy · Health |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-6 | 2025-05-09 | HJRES.20-119 | A joint resolution providing for congressional disapproval under chapter 8 of title 5, Uni |
+| PL 116-333 | 2021-01-13 | HR.2502-116 | H.R. 2502, Transparency in Federal Buildings Projects Act of 2019 |
+| PL 115-214 | 2018-07-24 | HR.4646-115 | To designate the facility of the United States Postal Service located at 1900 Corporate Dr |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-16 | HR.7934-119 | Government Operations and Politics | Settlement Agreement Information Database Act of 2026 |
+| 2025-12-03 | HR.6373-119 | Environmental Protection | Air Permitting Improvements to Protect National Security Act of 2025 |
+| 2025-11-18 | HR.6102-119 | Government Operations and Politics | Citizen Ballot Protection Act |
+| 2025-07-22 | HR.4609-119 | Government Operations and Politics | A bill to extend certain authorities under the Defense Production Act of 1950. |
+| 2025-07-14 | HR.4370-119 | Energy | SAMS Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: P000609` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

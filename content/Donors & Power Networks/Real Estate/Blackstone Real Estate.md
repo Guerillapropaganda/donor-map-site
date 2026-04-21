@@ -369,3 +369,26 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[OpenSecrets: Blackstone Group organizational profile](https://www.opensecrets.org/orgs/blackstone-group/summary?id=D000021873)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - ~~[Politico: Single-family rentals group hires theGROUP D.C.](https://www.politico.com/newsletters/politico-influence/2023/12/13/single-family-rentals-group-hires-thegroup-00131647)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Blackstone%20Real%20Estate%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 8 |
+| Leak sources | Panama Papers (8) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| RIVEIRO Y ASOCIADOS | intermediary | — | Panama Papers |
+| EL PORTADOR | officer | — | Panama Papers |
+| OMAR OSVALDO PEREIRA | officer | — | Panama Papers |
+| EL PORTADOR | officer | — | Panama Papers |
+| EL PORTADOR | officer | — | Panama Papers |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: Blackstone Real Estate` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

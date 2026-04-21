@@ -77,3 +77,26 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 10 |
+| Enacted into law | 0 |
+| Top policy areas | Government Operations and Politics · International Affairs · Housing and Community Development |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | HR.8346-119 | — | Foreign Service Age and Integration and Reform (FAIR) Act of 2026 |
+| 2026-01-15 | HR.7117-119 | Education | Fast Track To and Through College Act |
+| 2026-01-12 | HR.7021-119 | International Affairs | Critical Mineral Mining Education Act of 2026 |
+| 2025-12-18 | HJRES.135-119 | Government Operations and Politics | Proposing an amendment to the Constitution of the United States to limit the pardon power  |
+| 2025-09-26 | HR.5599-119 | Government Operations and Politics | To prohibit the removal of Federal employees during any lapse in discretionary appropriati |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: O000176` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

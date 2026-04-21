@@ -132,6 +132,29 @@ top-donors: "[[SEIU COPE]], [[League of Conservation Voters]], [[IBEW - Internat
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 5 |
+| Enacted into law | 0 |
+| Top policy areas | Transportation and Public Works · Commerce · Law |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-26 | HR.8128-119 | — | Same-Day Paratransit Innovation Act |
+| 2026-01-30 | HR.7298-119 | Transportation and Public Works | Connecting Communities Through Transit Planning Act of 2026 |
+| 2025-11-17 | HR.6069-119 | Transportation and Public Works | RIDER Safety Act |
+| 2025-09-02 | HR.5096-119 | Law | Disability and Age in Jury Service Nondiscrimination Act |
+| 2025-06-04 | HR.3736-119 | Commerce | The Small Business Representation in Contracting Rulemaking Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S001231` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Lateefah Simon
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

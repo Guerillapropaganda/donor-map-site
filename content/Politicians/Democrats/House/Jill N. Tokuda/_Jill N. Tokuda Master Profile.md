@@ -123,3 +123,33 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 57 |
+| Enacted into law | 2 |
+| Top policy areas | Agriculture and Food · Native Americans · Health |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-255 | 2025-01-04 | HR.8909-118 | H.R. 8909, a bill to designate the facility of the United States Postal Service located at |
+| PL 118-184 | 2024-12-23 | HR.8219-118 | Lahaina National Heritage Area Study Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-25 | HR.7716-119 | Foreign Trade and International Finance | Tariff Free Farming Act |
+| 2026-02-12 | HR.7563-119 | Foreign Trade and International Finance | Rare Earth Magnet Market Revitalization Act |
+| 2026-02-11 | HR.7518-119 | Agriculture and Food | A bill to amend the Food, Agriculture, Conservation, and Trade Act of 1990 to ensure adequ |
+| 2026-02-09 | HR.7455-119 | Agriculture and Food | To amend the Emergency Food Assistance Act of 1983 to allow certain States to directly pur |
+| 2025-12-18 | HR.6901-119 | Armed Forces and National Security | Atomic Civilians Recognition and Compensation Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: T000487` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

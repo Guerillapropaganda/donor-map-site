@@ -116,25 +116,30 @@ top-donors: "[[UA Political Action Committee]], [[NEA Fund for Children and Publ
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,659 |
-| Votes with party majority | 1,445 |
-| Party-line loyalty | 87.1% |
-| Deviations from party | 214 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,641 |
+| Votes with party majority | 4,266 |
+| Party-line loyalty | 91.9% |
+| Deviations from party | 374 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 214):**
+**Most recent party-line deviations (top 10 of 374):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -151,6 +156,35 @@ top-donors: "[[UA Political Action Committee]], [[NEA Fund for Children and Publ
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 48 |
+| Enacted into law | 1 |
+| Top policy areas | Finance and Financial Sector · Immigration · Crime and Law Enforcement |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-220 | 2025-01-02 | HR.6244-118 | To designate the facility of the United States Postal Service located at 1535 East Los Eba |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-16 | HR.7939-119 | Immigration | Say No to Warrantless Searches Act |
+| 2026-02-23 | HR.7647-119 | Finance and Financial Sector | MORE Opportunities for Homeownership Act |
+| 2025-10-31 | HR.5879-119 | Congress | Save American Democracy Act |
+| 2025-07-23 | HR.4667-119 | Immigration | VISIBLE Act |
+| 2025-07-16 | HR.4449-119 | Finance and Financial Sector | Advocating for Small Business Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: G000581` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Vicente Gonzalez
 

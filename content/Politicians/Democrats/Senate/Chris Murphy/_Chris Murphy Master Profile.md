@@ -157,11 +157,11 @@ SORT title ASC
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,715 |
-| Votes with party majority | 2,539 |
-| Party-line loyalty | 93.5% |
-| Deviations from party | 57 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,644 |
+| Votes with party majority | 3,461 |
+| Party-line loyalty | 95.0% |
+| Deviations from party | 64 |
 
 **Coverage:**
 
@@ -169,12 +169,14 @@ SORT title ASC
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 57):**
+**Most recent party-line deviations (top 10 of 64):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -191,6 +193,35 @@ SORT title ASC
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 291 |
+| Enacted into law | 1 |
+| Top policy areas | Health · Education · Crime and Law Enforcement |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-327 | 2022-12-27 | S.5230-117 | Help Find the Missing Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-19 | S.4147-119 | Commerce | Fair Prices for Local Businesses Act |
+| 2026-03-17 | S.4115-119 | Finance and Financial Sector | BETS OFF Act |
+| 2026-03-17 | S.4121-119 | Crime and Law Enforcement | Vote Without Fear Act |
+| 2026-03-12 | S.4086-119 | Health | Patient Safety and Whistleblower Protections Act |
+| 2026-03-12 | S.4085-119 | Health | Take Back Our Hospitals Act of 2026 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001169` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

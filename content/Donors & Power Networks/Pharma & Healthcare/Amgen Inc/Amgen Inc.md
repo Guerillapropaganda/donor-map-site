@@ -114,3 +114,27 @@ Profile pending enrichment.
 
 - [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
 <!-- auto:fec-individual end -->
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 5 |
+| Leak sources | Paradise Papers - Appleby (5) |
+| Top jurisdictions | Bermuda (5) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| Amgen Clinical Development 7, Limited | entity | Bermuda | Paradise Papers - Appleby |
+| Amgen Clinical Development 8, Limited | entity | Bermuda | Paradise Papers - Appleby |
+| Amgen Technology, Limited | entity | Bermuda | Paradise Papers - Appleby |
+| ATL Holdings II Limited | entity | Bermuda | Paradise Papers - Appleby |
+| ATL Holdings Limited | entity | Bermuda | Paradise Papers - Appleby |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: Amgen Inc` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

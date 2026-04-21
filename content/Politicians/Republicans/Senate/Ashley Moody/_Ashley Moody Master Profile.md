@@ -135,6 +135,29 @@ top-donors: "[[National Association of Realtors]], [[Johnson & Johnson]], [[Sena
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 29 |
+| Enacted into law | 0 |
+| Top policy areas | Crime and Law Enforcement · Health · Immigration |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | S.4328-119 | — | A bill to amend the Elementary and Secondary Education Act of 1965 in order to provide for |
+| 2026-04-14 | S.4282-119 | — | National POW/MIA Memorial and Museum Act |
+| 2026-03-24 | S.4176-119 | Health | STOP FRAUD in Medicaid Act |
+| 2026-02-25 | S.3922-119 | Health | Traditional Cigar Manufacturing and Small Business Jobs Preservation Act of 2026 |
+| 2026-02-11 | S.3843-119 | Agriculture and Food | TEMP Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001244` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Ashley Moody
 
 ## Who They Are

@@ -77,25 +77,30 @@ donors: [[Koch Network - Charles Koch]], [[Club for Growth]]
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,691 |
-| Votes with party majority | 1,567 |
-| Party-line loyalty | 92.7% |
-| Deviations from party | 124 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,735 |
+| Votes with party majority | 4,263 |
+| Party-line loyalty | 90.0% |
+| Deviations from party | 472 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 124):**
+**Most recent party-line deviations (top 10 of 472):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -112,6 +117,29 @@ donors: [[Koch Network - Charles Koch]], [[Club for Growth]]
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 30 |
+| Enacted into law | 0 |
+| Top policy areas | Government Operations and Politics · Crime and Law Enforcement · Social Welfare |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2023-07-20 | HR.4791-118 | Government Operations and Politics | Free Speech Protection Act |
+| 2021-06-11 | HR.3827-117 | Science, Technology, Communications | Protect Speech Act |
+| 2020-10-02 | HR.8517-116 | Science, Technology, Communications | Protect Speech Act |
+| 2017-06-08 | HR.2832-115 | Social Welfare | Supplemental Nutrition Assistance Program Reform Act of 2017 |
+| 2017-03-08 | HR.1436-115 | Health | A bill to provide for reconciliation pursuant to section 2002 of the concurrent resolution |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: J000289` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

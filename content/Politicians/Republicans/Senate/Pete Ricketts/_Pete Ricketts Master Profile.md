@@ -148,6 +148,35 @@ top-donors: "[[Common Sense for America PAC]], [[General Dynamics]], [[Internati
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 65 |
+| Enacted into law | 1 |
+| Top policy areas | Agriculture and Food · Taxation · International Affairs |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-11 | 2025-05-09 | SJRES.28-119 | Disapproving the rule submitted by the Bureau of Consumer Financial Protection relating to |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-13 | S.4281-119 | — | A bill to provide for export restrictions on certain semiconductor manufacturing equipment |
+| 2026-03-25 | S.4192-119 | Agriculture and Food | PLOT Act of 2026 |
+| 2026-03-18 | S.4134-119 | Government Operations and Politics | Stop Insider Trading Act |
+| 2026-03-10 | S.4034-119 | Finance and Financial Sector | ELEVATE Act of 2026 |
+| 2026-03-03 | S.3970-119 | Housing and Community Development | Rural Housing Regulatory Relief Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: R000618` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Pete Ricketts
 
 <!-- auto:congress-bills start -->

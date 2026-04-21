@@ -150,6 +150,26 @@ The personal financial structure mirrors the institutional one. Roberts's estima
 
 ---
 
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 1 |
+| Leak sources | Paradise Papers - Samoa corporate registry (1) |
+| Top jurisdictions | Samoa (1) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| SOUTH SEAS FINANCIAL SERVICES LTD | entity | Samoa | Paradise Papers - Samoa corporate registry |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: John Roberts` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->
+
 ## Sources
 
 - [Brennan Center: Citizens United, Explained](https://www.brennancenter.org/our-work/research-reports/citizens-united-explained) (Tier 2) (VERIFIED)

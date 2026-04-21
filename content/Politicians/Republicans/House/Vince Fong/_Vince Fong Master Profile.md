@@ -138,6 +138,29 @@ top-policy-area: Health
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 15 |
+| Enacted into law | 0 |
+| Top policy areas | Science, Technology, Communications · Environmental Protection · Native Americans |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-06 | HR.8198-119 | Science, Technology, Communications | OUTPACE in Space Act |
+| 2026-03-05 | HR.7825-119 | Taxation | Protect Innocent Victims of Taxation After Fire Extension Act |
+| 2026-02-09 | HR.7413-119 | Government Operations and Politics | HIRE DEA Act |
+| 2025-09-19 | HR.5513-119 | Environmental Protection | To amend the Federal Water Pollution Control Act to make certain technology investments el |
+| 2025-09-15 | HR.5351-119 | Science, Technology, Communications | NSF AI Education Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: F000480` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Vince Fong
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

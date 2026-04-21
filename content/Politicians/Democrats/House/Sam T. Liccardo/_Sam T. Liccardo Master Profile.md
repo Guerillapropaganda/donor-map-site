@@ -81,3 +81,26 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 14 |
+| Enacted into law | 0 |
+| Top policy areas | Housing and Community Development · Armed Forces and National Security · Government Operations and Politics |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | HR.8338-119 | — | To prevent the premature seizure of an individual's securities, digital assets, or investm |
+| 2026-03-19 | HR.8013-119 | Immigration | Keep Innovators in America Act |
+| 2025-12-09 | HR.6533-119 | Armed Forces and National Security | Military in Law Enforcement Accountability Act |
+| 2025-11-10 | HR.6010-119 | Health | Insurance Fraud Accountability Act |
+| 2025-09-26 | HR.5591-119 | Housing and Community Development | RESIDE Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: L000607` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

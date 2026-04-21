@@ -119,3 +119,32 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 90 |
+| Enacted into law | 1 |
+| Top policy areas | Public Lands and Natural Resources · Government Operations and Politics · Energy |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-51 | 2025-12-11 | HJRES.130-119 | Providing for consideration of the joint resolution (S.J. Res. 80) providing for congressi |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | HR.8330-119 | — | To prohibit liability against those engaged in the mining, extraction, production, refinem |
+| 2026-03-19 | HR.7997-119 | Law | Research and Oversight of AI in Courts Act of 2026 |
+| 2026-03-09 | HR.7872-119 | Energy | To amend the Mineral Leasing Act to provide for the payment of bonus payments of certain c |
+| 2026-02-25 | HR.7695-119 | Public Lands and Natural Resources | To provide that the final rule titled "Special Areas; Roadless Area Conservation" and issu |
+| 2026-02-12 | HR.7539-119 | Transportation and Public Works | SAFE Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: H001096` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

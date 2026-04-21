@@ -150,6 +150,35 @@ top-donors: "[[Mark Takano]], [[International Longshore and Warehouse Union -- P
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 47 |
+| Enacted into law | 1 |
+| Top policy areas | Agriculture and Food · Armed Forces and National Security · Commerce |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-262 | 2025-01-04 | HR.9421-118 | H.R. 9421, a bill to designate the facility of the United States Postal Service located at |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-02 | HR.8184-119 | Commerce | Fair Prices for Local Businesses Act |
+| 2026-03-03 | HR.7772-119 | Transportation and Public Works | LIGHT Safety Act |
+| 2025-10-28 | HR.5857-119 | Agriculture and Food | FARM Act |
+| 2025-09-15 | HR.5363-119 | Agriculture and Food | Expanding Childcare in Rural America Act of 2025 |
+| 2025-09-04 | HR.5155-119 | Armed Forces and National Security | Warrior Right to Repair Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: G000600` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Marie Gluesenkamp Perez
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

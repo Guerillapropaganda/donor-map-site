@@ -104,25 +104,30 @@ top-donors: "[[CTA - California Teachers Association]], [[United Food and Commer
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,698 |
-| Votes with party majority | 1,654 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,786 |
+| Votes with party majority | 4,662 |
 | Party-line loyalty | 97.4% |
-| Deviations from party | 44 |
+| Deviations from party | 123 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 44):**
+**Most recent party-line deviations (top 10 of 123):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -139,6 +144,35 @@ top-donors: "[[CTA - California Teachers Association]], [[United Food and Commer
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 183 |
+| Enacted into law | 1 |
+| Top policy areas | Health · Education · Taxation |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 114-207 | 2016-07-29 | HR.4761-114 | To designate the facility of the United States Postal Service located at 61 South Baldwin  |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-20 | HR.7608-119 | Immigration | Southeast Asian Deportation Relief Act of 2026 |
+| 2026-02-10 | HR.7463-119 | Families | Foster Youth Postsecondary Education Access and Success Act |
+| 2026-01-21 | HR.7171-119 | Crime and Law Enforcement | Fair Legal Access Grants Act |
+| 2026-01-21 | HR.7170-119 | Crime and Law Enforcement | Language Access to Gun Violence Prevention Strategies Act of 2026 |
+| 2025-12-18 | HR.6842-119 | Taxation | Disaster Survivors Tax Relief and Recovery Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C001080` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Judy Chu
 

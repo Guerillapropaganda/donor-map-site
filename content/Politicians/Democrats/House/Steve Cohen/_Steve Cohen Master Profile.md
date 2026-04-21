@@ -113,25 +113,30 @@ top-donors: "[[Walmart - Walton Family]], [[United Food and Commercial Workers I
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,653 |
-| Votes with party majority | 1,618 |
-| Party-line loyalty | 97.9% |
-| Deviations from party | 35 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,735 |
+| Votes with party majority | 4,620 |
+| Party-line loyalty | 97.6% |
+| Deviations from party | 114 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 35):**
+**Most recent party-line deviations (top 10 of 114):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -148,6 +153,39 @@ top-donors: "[[Walmart - Walton Family]], [[United Food and Commercial Workers I
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 403 |
+| Enacted into law | 11 |
+| Top policy areas | Transportation and Public Works · Crime and Law Enforcement · Finance and Financial Sector |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-24 | 2023-12-19 | HR.3315-118 | National Guard and Reservists Debt Relief Extension Act of 2023 |
+| PL 117-236 | 2022-12-20 | HR.6863-117 | To designate the medical center of the Department of Veterans Affairs in Memphis, Tennesse |
+| PL 117-74 | 2021-12-21 | HR.390-117 | To redesignate the Federal building located at 167 North Main Street in Memphis, Tennessee |
+| PL 116-53 | 2019-08-23 | HR.3304-116 | National Guard and Reservists Debt Relief Extension Act of 2019 |
+| PL 115-398 | 2018-12-31 | HR.767-115 | SOAR to Health and Wellness Act of 2017 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-09 | HR.8215-119 | Crime and Law Enforcement | Volume II Transparency Act of 2026 |
+| 2026-02-04 | HR.7354-119 | Transportation and Public Works | Stop Underrides Act 2.0 |
+| 2026-02-02 | HR.7310-119 | Crime and Law Enforcement | Deadly Force Independent Review Act of 2026 |
+| 2025-12-17 | HR.6784-119 | Taxation | Home Lead Safety Tax Credit Act of 2025 |
+| 2025-12-11 | HR.6623-119 | Housing and Community Development | Community Development Block Grant Equity Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C001068` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Steve Cohen
 

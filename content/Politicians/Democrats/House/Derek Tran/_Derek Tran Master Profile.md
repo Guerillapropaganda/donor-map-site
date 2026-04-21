@@ -145,6 +145,29 @@ top-donors: "[[Coinbase]], [[International Longshore and Warehouse Union -- Poli
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 8 |
+| Enacted into law | 0 |
+| Top policy areas | Armed Forces and National Security · Commerce · Foreign Trade and International Finance |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-24 | HR.8066-119 | — | To amend title 38, United States Code, to improve the Department of Veterans Affairs sched |
+| 2026-03-17 | HR.7969-119 | Armed Forces and National Security | Combating Chinese Communist Party Influence Act |
+| 2025-12-18 | HR.6902-119 | Crime and Law Enforcement | Youth Substance Use Prevention and Awareness Act |
+| 2025-12-11 | HR.6678-119 | Social Welfare | Senior Legal Hotline Act of 2025 |
+| 2025-10-17 | HR.5788-119 | Commerce | H.R. 5788, 504 Program Risk Oversight Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: T000491` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Derek Tran
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

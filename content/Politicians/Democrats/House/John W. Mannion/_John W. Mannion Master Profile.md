@@ -83,3 +83,26 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 6 |
+| Enacted into law | 0 |
+| Top policy areas | Education · Taxation · Labor and Employment |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-01-27 | HR.7262-119 | Education | READ Act |
+| 2026-01-07 | HR.6968-119 | Labor and Employment | Immersive Technology for the American Workforce Act of 2025 |
+| 2025-11-18 | HR.6099-119 | Government Operations and Politics | To designate the facility of the United States Postal Service located at 2200 South Salina |
+| 2025-09-17 | HR.5436-119 | Armed Forces and National Security | To amend title 38, United States Code, to prohibit an educational institution from withhol |
+| 2025-07-17 | HR.4514-119 | Taxation | Local Journalism Sustainability Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001231` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

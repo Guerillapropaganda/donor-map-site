@@ -116,26 +116,30 @@ top-donors: "[[American Chemistry Council, INC]], [[Raytheon (RTX)]], [[National
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 116th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,152 |
-| Substantive votes (Y/N) | 2,053 |
-| Votes with party majority | 1,961 |
-| Party-line loyalty | 95.5% |
-| Deviations from party | 65 |
+| Roll-call votes tracked | 4,311 |
+| Substantive votes (Y/N) | 3,958 |
+| Votes with party majority | 3,750 |
+| Party-line loyalty | 94.7% |
+| Deviations from party | 180 |
 
 **Coverage:**
 
+- house 115/1: 710 votes
+- house 115/2: 500 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 65):**
+**Most recent party-line deviations (top 10 of 180):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -152,6 +156,39 @@ top-donors: "[[American Chemistry Council, INC]], [[Raytheon (RTX)]], [[National
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 450 |
+| Enacted into law | 7 |
+| Top policy areas | Health · Crime and Law Enforcement · Economics and Public Finance |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-59 | 2024-05-07 | S.474-118 | END Child Exploitation Act |
+| PL 117-240 | 2022-12-20 | S.4017-117 | To designate the building utilized as a United States courthouse located at 111 South High |
+| PL 115-39 | 2017-06-06 | HR.375-115 | A bill to designate the Federal building and United States courthouse located at 719 Churc |
+| — | 2009-03-31 | HR.1817-111 | To designate the facility of the United States Postal Service located at 116 North West St |
+| — | 2008-06-05 | HR.6197-110 | To designate the facility of the United States Postal Service located at 7095 Highway 57 i |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | S.4329-119 | — | A bill to amend title X of the Public Health Service Act to prohibit family planning grant |
+| 2026-04-15 | S.4305-119 | — | A bill to increase the criminal penalties for assaulting a Bureau of Prisons correctional  |
+| 2026-04-14 | S.4285-119 | — | Guard Equal Benefits for Federal Missions Act |
+| 2026-03-25 | S.4208-119 | Health | Rural America Health Corps Act |
+| 2026-03-25 | S.4204-119 | Health | Rural Health Innovation Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: B001243` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Marsha Blackburn
 

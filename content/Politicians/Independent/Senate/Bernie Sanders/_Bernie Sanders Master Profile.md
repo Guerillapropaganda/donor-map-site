@@ -159,11 +159,11 @@ top-policy-area: Health
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,196 |
-| Votes with party majority | 1,920 |
-| Party-line loyalty | 87.4% |
-| Deviations from party | 144 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,055 |
+| Votes with party majority | 2,731 |
+| Party-line loyalty | 89.4% |
+| Deviations from party | 192 |
 
 **Coverage:**
 
@@ -171,12 +171,14 @@ top-policy-area: Health
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 144):**
+**Most recent party-line deviations (top 10 of 192):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -193,6 +195,37 @@ top-policy-area: Health
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 405 |
+| Enacted into law | 3 |
+| Top policy areas | Health · Armed Forces and National Security · Labor and Employment |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 113-52 | 2013-11-21 | S.893-113 | Veterans' Compensation Cost-of-Living Adjustment Act of 2013 |
+| — | 2013-05-07 | S.885-113 | To designate the facility of the United States Postal Service located at 35 Park Street in |
+| — | 2006-04-27 | HR.5245-109 | To designate the facility of the United States Postal Service located at 1 Marble Street i |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-26 | S.4272-119 | — | Home Team Act of 2026 |
+| 2026-03-25 | S.4214-119 | Science, Technology, Communications | Artificial Intelligence Data Center Moratorium Act |
+| 2026-03-19 | SJRES.138-119 | International Affairs | A joint resolution providing for congressional disapproval of the proposed foreign militar |
+| 2026-03-19 | SJRES.137-119 | International Affairs | A joint resolution providing for congressional disapproval of the proposed foreign militar |
+| 2026-03-19 | SJRES.136-119 | International Affairs | A joint resolution providing for congressional disapproval of the proposed licensing of ce |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S000033` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

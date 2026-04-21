@@ -136,24 +136,30 @@ top-policy-area: Health
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,384 |
-| Votes with party majority | 1,285 |
-| Party-line loyalty | 92.8% |
-| Deviations from party | 54 |
+| Roll-call votes tracked | 4,546 |
+| Substantive votes (Y/N) | 4,409 |
+| Votes with party majority | 4,145 |
+| Party-line loyalty | 94.0% |
+| Deviations from party | 218 |
 
 **Coverage:**
 
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 54):**
+**Most recent party-line deviations (top 10 of 218):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -170,6 +176,36 @@ top-policy-area: Health
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 207 |
+| Enacted into law | 2 |
+| Top policy areas | Health · Agriculture and Food · Taxation |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-69 | 2026-01-14 | S.222-119 | Protecting Children with Food Allergies Act of 2025 |
+| PL 115-169 | 2018-04-30 | HR.2711-115 | National Memorial to Fallen Educators Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-11 | S.3842-119 | Agriculture and Food | 21st Century WIC Act of 2026 |
+| 2026-02-05 | S.3799-119 | Health | Healthy Start Reauthorization Act of 2026 |
+| 2026-01-14 | S.3637-119 | Agriculture and Food | ACE Agriculture Act of 2026 |
+| 2026-01-14 | S.3642-119 | Health | WALZ Act |
+| 2026-01-13 | S.3623-119 | Finance and Financial Sector | Credit Card Competition Act of 2026 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001198` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

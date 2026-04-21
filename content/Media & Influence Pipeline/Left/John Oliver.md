@@ -165,3 +165,25 @@ John Oliver represents **the corporate comedy accountability model**, the parado
 Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
 
 - ~~[TIME: "The John Oliver Effect: The HBO Host's Real-World Impact" (2015)](https://time.com/3674807/john-oliver-net-neutrality-civil-forfeiture-miss-america/iss-america/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 3 |
+| Leak sources | Panama Papers (3) |
+| Top jurisdictions | British Virgin Islands (3) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| CarPay Corporation | entity | British Virgin Islands | Panama Papers |
+| ALBERY MANAGEMENT LIMITED | entity | British Virgin Islands | Panama Papers |
+| OXENFORD MANAGEMENT LIMITED | entity | British Virgin Islands | Panama Papers |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: John Oliver` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

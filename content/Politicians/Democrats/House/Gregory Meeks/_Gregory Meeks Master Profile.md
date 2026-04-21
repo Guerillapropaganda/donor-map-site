@@ -120,25 +120,30 @@ top-policy-area: International Affairs
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,675 |
-| Votes with party majority | 1,648 |
-| Party-line loyalty | 98.4% |
-| Deviations from party | 27 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,657 |
+| Votes with party majority | 4,562 |
+| Party-line loyalty | 98.0% |
+| Deviations from party | 94 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 27):**
+**Most recent party-line deviations (top 10 of 94):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -155,6 +160,38 @@ top-policy-area: International Affairs
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 141 |
+| Enacted into law | 4 |
+| Top policy areas | Finance and Financial Sector · International Affairs · Taxation |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-163 | 2022-08-03 | HR.1842-117 | Harriet Tubman Bicentennial Commemorative Coin Act |
+| PL 113-218 | 2014-12-16 | HR.3957-113 | To designate the facility of the United States Postal Service located at 218-10 Merrick Bo |
+| — | 2011-09-21 | HR.3001-112 | Raoul Wallenberg Centennial Celebration Act |
+| — | 2004-06-21 | HR.4632-108 | A bill to designate the facility of the United States Postal Service located at 19504 Lind |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-15 | HR.8289-119 | Foreign Trade and International Finance | BIS Licensing Efficiency Act of 2026 |
+| 2026-04-09 | HR.8222-119 | International Affairs | End Russian Oil Windfalls Act |
+| 2026-02-17 | HJRES.150-119 | Foreign Trade and International Finance | A joint resolution terminating the national emergency declared to impose global tariffs. |
+| 2026-02-02 | HJRES.147-119 | International Affairs | A joint resolution terminating the national emergency declared to impose duties on article |
+| 2025-12-18 | HR.6879-119 | Foreign Trade and International Finance | RESTRICT Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001137` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #gregory-meeks #democrat #new-york #house #ranking-member #foreign-affairs #financial-services #israel-lobby #wall-street #ethics-violations #phase-6-gavel-power
 

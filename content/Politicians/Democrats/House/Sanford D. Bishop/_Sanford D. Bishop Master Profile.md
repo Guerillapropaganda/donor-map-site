@@ -89,25 +89,30 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,703 |
-| Votes with party majority | 1,646 |
-| Party-line loyalty | 96.7% |
-| Deviations from party | 57 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,741 |
+| Votes with party majority | 4,571 |
+| Party-line loyalty | 96.4% |
+| Deviations from party | 169 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 57):**
+**Most recent party-line deviations (top 10 of 169):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -124,3 +129,36 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 99 |
+| Enacted into law | 5 |
+| Top policy areas | Foreign Trade and International Finance · Armed Forces and National Security · Agriculture and Food |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-268 | 2025-01-04 | HR.9600-118 | A bill to designate the facility of the United States Postal Service located at 119 Main S |
+| PL 117-56 | 2021-11-12 | HR.3475-117 | A bill to designate the community-based outpatient clinic of the Department of Veterans Af |
+| PL 116-341 | 2021-01-13 | HR.5472-116 | Student Loan Interest Deduction Act of 2019 |
+| — | 2008-09-10 | HR.6859-110 | To designate the facility of the United States Postal Service located at 1501 South Slappe |
+| — | 2007-12-13 | HJRES.70-110 | A resolution congratulating the Army Reserve on its centennial, which will be formally cel |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-03 | HR.7761-119 | Agriculture and Food | Heirs Education and Investment to Resolve Succession of Property Act |
+| 2026-03-03 | HR.7762-119 | Agriculture and Food | Protecting Our Produce Act |
+| 2025-09-17 | HR.5422-119 | Armed Forces and National Security | Military Housing Performance Insight Act |
+| 2025-02-14 | HR.1369-119 | Government Operations and Politics | President Jimmy Carter Congressional Gold Medal Act |
+| 2025-01-13 | HR.333-119 | Armed Forces and National Security | Disabled Veterans Tax Termination Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: B000490` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

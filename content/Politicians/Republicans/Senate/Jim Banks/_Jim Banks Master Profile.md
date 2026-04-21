@@ -88,25 +88,30 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,014 |
-| Substantive votes (Y/N) | 1,926 |
-| Votes with party majority | 1,832 |
-| Party-line loyalty | 95.1% |
-| Deviations from party | 94 |
+| Roll-call votes tracked | 5,145 |
+| Substantive votes (Y/N) | 5,025 |
+| Votes with party majority | 4,746 |
+| Party-line loyalty | 94.4% |
+| Deviations from party | 279 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 94):**
+**Most recent party-line deviations (top 10 of 279):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -123,3 +128,33 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 215 |
+| Enacted into law | 2 |
+| Top policy areas | Armed Forces and National Security · Education · International Affairs |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-179 | 2022-09-30 | HR.8656-117 | A bill to designate the clinic of the Department of Veterans Affairs in Mishawaka, Indiana |
+| PL 115-136 | 2018-03-16 | HR.3656-115 | A bill to amend title 38, United States Code, to provide for a consistent eligibility date |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | S.4341-119 | — | A bill to require the Secretary of Veterans Affairs to use commercial codes and standards  |
+| 2026-03-19 | S.4156-119 | Armed Forces and National Security | GAMES Act |
+| 2026-03-11 | S.4061-119 | Education | RAYS Act |
+| 2026-03-10 | S.4043-119 | Armed Forces and National Security | Health Care for Homeless Veterans Act |
+| 2026-03-04 | S.3992-119 | Armed Forces and National Security | Joint Medical Facilities Fund Act of 2026 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: B001299` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

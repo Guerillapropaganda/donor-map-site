@@ -120,3 +120,32 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 35 |
+| Enacted into law | 1 |
+| Top policy areas | Science, Technology, Communications · Health · Environmental Protection |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-239 | 2025-01-04 | HR.7385-118 | A bill to designate the facility of the United States Postal Service located at 29 Frankli |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-04 | HR.7783-119 | Science, Technology, Communications | AI-Ready Networks Act |
+| 2026-02-25 | HR.7676-119 | Labor and Employment | Career-Connected Learning Pathways Act of 2026 |
+| 2026-02-04 | HR.7341-119 | Education | GRAD Act |
+| 2025-11-07 | HR.5965-119 | Armed Forces and National Security | Student Veteran Work Study Modernization Act |
+| 2025-09-11 | HR.5327-119 | Native Americans | Nottoway Indian Tribe of Virginia Federal Recognition Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001227` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

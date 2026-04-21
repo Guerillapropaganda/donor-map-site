@@ -85,25 +85,30 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,701 |
-| Votes with party majority | 1,593 |
-| Party-line loyalty | 93.7% |
-| Deviations from party | 108 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,741 |
+| Votes with party majority | 4,487 |
+| Party-line loyalty | 94.6% |
+| Deviations from party | 254 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 108):**
+**Most recent party-line deviations (top 10 of 254):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -120,3 +125,33 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 91 |
+| Enacted into law | 2 |
+| Top policy areas | Public Lands and Natural Resources · Armed Forces and National Security · Finance and Financial Sector |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 114-232 | 2016-10-07 | HR.2733-114 | E-Prize Competition Pilot Program Act of 2015 |
+| PL 113-169 | 2014-09-26 | HR.3716-113 | Pyramid Lake Paiute Tribe - Fish Springs Ranch Settlement Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-01-30 | HR.7276-119 | Foreign Trade and International Finance | To impose a 30 percent duty on sheep products and lamb products from Australia or New Zeal |
+| 2025-06-26 | HR.4213-119 | Economics and Public Finance | Consolidated Appropriations Act, 2026 |
+| 2025-06-05 | HR.3746-119 | Transportation and Public Works | Rebuilding America’s Airport Infrastructure Act |
+| 2025-03-25 | HR.2317-119 | Public Lands and Natural Resources | Northern Nevada Economic Development and Conservation Act of 2025 |
+| 2025-02-18 | HR.1400-119 | Armed Forces and National Security | To amend title 38, United States Code, to establish a presumption that certain veterans we |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: A000369` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

@@ -448,3 +448,25 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 - ~~[Defense News: General Dynamics submarine production and Navy budgets](https://www.defensenews.com/general-dynamics/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 - ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=03_2021_prefixes_37-42%2F382421395_201912_990O_2021031217796032.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 4 |
+| Leak sources | Panama Papers (4) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| HELENE MATHIEU LEGAL CONSULTANTS | intermediary | — | Panama Papers |
+| ULADZIMIR BOUIE | officer | — | Panama Papers |
+| VIKTOR OTKIDYCH | officer | — | Panama Papers |
+| SERGEY TERECHSHENKO | officer | — | Panama Papers |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: General Dynamics` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

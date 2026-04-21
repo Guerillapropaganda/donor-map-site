@@ -111,20 +111,22 @@ top-policy-area: International Affairs
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,410 |
-| Substantive votes (Y/N) | 1,328 |
-| Votes with party majority | 1,186 |
-| Party-line loyalty | 89.3% |
-| Deviations from party | 59 |
+| Roll-call votes tracked | 2,359 |
+| Substantive votes (Y/N) | 2,230 |
+| Votes with party majority | 1,870 |
+| Party-line loyalty | 83.9% |
+| Deviations from party | 276 |
 
 **Coverage:**
 
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 
-**Most recent party-line deviations (top 10 of 59):**
+**Most recent party-line deviations (top 10 of 276):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -141,6 +143,29 @@ top-policy-area: International Affairs
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 54 |
+| Enacted into law | 0 |
+| Top policy areas | International Affairs · Armed Forces and National Security · Education |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2024-12-19 | S.5616-118 | Science, Technology, Communications | Preserving American Dominance in Artificial Intelligence Act of 2024 |
+| 2024-11-21 | S.5403-118 | International Affairs | Aligning Development and Competition Act of 2024 |
+| 2024-09-25 | S.5256-118 | Taxation | Family Security Act |
+| 2024-09-23 | S.5140-118 | Finance and Financial Sector | COVID Spending Transparency Act of 2024 |
+| 2024-09-18 | S.5089-118 | International Affairs | TIDES Act of 2024 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: R000615` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

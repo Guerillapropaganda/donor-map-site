@@ -66,3 +66,27 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 5 |
+| Leak sources | Paradise Papers - Barbados corporate registry (4) · Paradise Papers - Malta corporate registry (1) |
+| Top jurisdictions | Barbados (4) · Malta (1) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| TARA INVESTMENTS INC. | entity | Barbados | Paradise Papers - Barbados corporate registry |
+| ASSOCIATED CONSULTING ENGINEERS LIMITED | entity | Barbados | Paradise Papers - Barbados corporate registry |
+| ALAN ARMSTRONG ASSOCIATES LTD. | entity | Barbados | Paradise Papers - Barbados corporate registry |
+| KERRY INVESTMENTS LTD. | entity | Barbados | Paradise Papers - Barbados corporate registry |
+| BELFIORE LIMITED | entity | Malta | Paradise Papers - Malta corporate registry |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: Alan Armstrong` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

@@ -148,6 +148,29 @@ top-donors: "[[FAIR SHARE ACTION]], [[AT&T - WarnerMedia]], [[Anthem - Elevance 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 48 |
+| Enacted into law | 0 |
+| Top policy areas | Finance and Financial Sector · Crime and Law Enforcement · Taxation |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-14 | HR.8273-119 | — | Catching Up Family Caregivers Act of 2026 |
+| 2026-04-14 | HR.8274-119 | — | Improving Retirement Security for Family Caregivers Act of 2026 |
+| 2026-04-09 | HR.8234-119 | Health | Save Money, Save Lives Act |
+| 2026-02-20 | HR.7631-119 | Water Resources Development | Rural Water Security Act |
+| 2026-02-09 | HR.7445-119 | Crime and Law Enforcement | Evergreen Community Safety Act of 2026 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: P000620` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Brittany Pettersen
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

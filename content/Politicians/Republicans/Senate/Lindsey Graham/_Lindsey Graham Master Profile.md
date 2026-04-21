@@ -123,11 +123,11 @@ top-policy-area: International Affairs
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,598 |
-| Votes with party majority | 2,353 |
-| Party-line loyalty | 90.6% |
-| Deviations from party | 48 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,463 |
+| Votes with party majority | 2,903 |
+| Party-line loyalty | 83.8% |
+| Deviations from party | 362 |
 
 **Coverage:**
 
@@ -135,12 +135,14 @@ top-policy-area: International Affairs
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 48):**
+**Most recent party-line deviations (top 10 of 362):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -157,6 +159,39 @@ top-policy-area: International Affairs
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 280 |
+| Enacted into law | 5 |
+| Top policy areas | Foreign Trade and International Finance · Crime and Law Enforcement · International Affairs |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-38 | 2024-02-06 | S.3427-118 | Overtime Pay for Protective Services Act of 2023 |
+| PL 116-325 | 2021-01-12 | S.4996-116 | Bankruptcy Administration Improvement Act of 2020 |
+| PL 116-269 | 2020-12-30 | S.5036-116 | Secret Service Overtime Pay Extension Act |
+| PL 116-114 | 2020-02-06 | S.3201-116 | Temporary Reauthorization and Study of the Emergency Scheduling of Fentanyl Analogues Act |
+| — | 2012-02-01 | S.2061-112 | Former Charleston Naval Base Land Exchange Act of 2012 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-12 | S.3859-119 | Native Americans | To amend the Catawba Indian Tribe of South Carolina Land Claims Settlement Act of 1993. |
+| 2026-02-09 | S.3805-119 | Crime and Law Enforcement | End Sanctuary Cities Act of 2026 |
+| 2026-02-04 | S.3781-119 | Armed Forces and National Security | To authorize the President to award the Medal of Honor to James Capers, Jr., for acts of v |
+| 2026-02-03 | S.3765-119 | Crime and Law Enforcement | Medal of Sacrifice Act |
+| 2026-01-29 | S.3744-119 | Immigration | A bill to amend chapter 93 of title 18, United States Code, to prohibit obstruction of imm |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: G000359` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #lindsey-graham #senate #south-carolina #defense #trump #mccain #aipac #class-analysis #chameleon #follow-the-money
 

@@ -122,25 +122,30 @@ top-policy-area: Health
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,713 |
-| Votes with party majority | 1,567 |
-| Party-line loyalty | 91.5% |
-| Deviations from party | 146 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,777 |
+| Votes with party majority | 4,442 |
+| Party-line loyalty | 93.0% |
+| Deviations from party | 335 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 146):**
+**Most recent party-line deviations (top 10 of 335):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -157,6 +162,36 @@ top-policy-area: Health
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 112 |
+| Enacted into law | 2 |
+| Top policy areas | Health · Education · Agriculture and Food |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 115-224 | 2018-07-31 | HR.2353-115 | Strengthening Career and Technical Education for the 21st Century Act |
+| PL 114-167 | 2016-06-13 | HR.433-114 | A bill to designate the facility of the United States Postal Service located at 523 East R |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-18 | HR.7989-119 | Education | ACE Act |
+| 2026-03-12 | HR.7891-119 | Education | Student Aid Fraud Oversight and Accountability Act of 2026 |
+| 2026-03-09 | HR.7885-119 | Education | Cybersecurity Skills Integration Act |
+| 2026-02-13 | HR.7567-119 | Agriculture and Food | To require the Secretary of Agriculture to release a reversionary interest in certain land |
+| 2026-02-11 | HR.7517-119 | Government Operations and Politics | To designate the facility of the United States Postal Service located at 10 East Main Stre |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: T000467` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #glenn-thompson #republican #pennsylvania #house #committee-chair #agriculture #farm-bill #crop-insurance #snap #dairy #sugar #agribusiness #phase-6-gavel-power
 

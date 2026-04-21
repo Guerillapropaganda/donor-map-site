@@ -123,3 +123,26 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 25 |
+| Enacted into law | 0 |
+| Top policy areas | Armed Forces and National Security · Immigration · Government Operations and Politics |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-16 | HR.7948-119 | — | To deem certain individuals as parents of Department of Veterans Affairs employees for pur |
+| 2026-02-25 | HR.7709-119 | Immigration | Full-Body Restraint Prohibition Act |
+| 2026-02-12 | HR.7556-119 | Labor and Employment | Pensions for All Act |
+| 2026-01-22 | HR.7231-119 | Government Operations and Politics | Lobbyist Loophole Closure Act |
+| 2026-01-21 | HR.7190-119 | Immigration | To end detention and electronic monitoring, and redirect funding to community-based wrap-a |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: R000617` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

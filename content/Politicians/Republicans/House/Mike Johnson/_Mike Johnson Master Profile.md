@@ -69,25 +69,30 @@ donors: [[AIPAC - American Israel Public Affairs Committee]], [[Peter Thiel]], [
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,289 |
-| Substantive votes (Y/N) | 1,235 |
-| Votes with party majority | 1,199 |
-| Party-line loyalty | 97.1% |
-| Deviations from party | 36 |
+| Roll-call votes tracked | 4,420 |
+| Substantive votes (Y/N) | 4,225 |
+| Votes with party majority | 4,059 |
+| Party-line loyalty | 96.1% |
+| Deviations from party | 166 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 567 votes
 - house 118/2: 317 votes
 - house 119/1: 261 votes
 - house 119/2: 113 votes
 
-**Most recent party-line deviations (top 10 of 36):**
+**Most recent party-line deviations (top 10 of 166):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -104,6 +109,37 @@ donors: [[AIPAC - American Israel Public Affairs Committee]], [[Peter Thiel]], [
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 51 |
+| Enacted into law | 3 |
+| Top policy areas | Public Lands and Natural Resources · Crime and Law Enforcement · Government Operations and Politics |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-296 | 2022-12-27 | HR.6427-117 | Red River National Wildlife Refuge Boundary Modification Act |
+| PL 117-112 | 2022-04-19 | HR.3197-117 | Save the Liberty Theatre Act of 2021 |
+| PL 116-204 | 2020-12-03 | HR.5384-116 | A bill to designate the facility of the United States Postal Service located at 100 Crosby |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2025-01-03 | HR.3-119 | — | Reserved for the Speaker. |
+| 2025-01-03 | HR.2-119 | — | Reserved for the Speaker. |
+| 2025-01-03 | HR.5-119 | — | Reserved for the Speaker. |
+| 2025-01-03 | HR.8-119 | — | Reserved for the Speaker. |
+| 2025-01-03 | HR.10-119 | — | Reserved for the Speaker. |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: J000299` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |
@@ -246,6 +282,26 @@ The AIPAC speaker preservation sequence is the clearest proof that donor priorit
 3. **The reluctant Speaker:** "Chosen because he had no enemies." The function: frame donor-class institutional capture as democratic consensus. The reality: the qualities that made him invisible (no leadership positions, no enemies, no profile) are the qualities the donor class prefers, pliable, dependent, controllable.
 
 ---
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 1 |
+| Leak sources | Paradise Papers - Appleby (1) |
+| Top jurisdictions | Bermuda (1) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| Capstone Insurance Company, Ltd. | entity | Bermuda | Paradise Papers - Appleby |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: Mike Johnson` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->
 
 ## Sources
 

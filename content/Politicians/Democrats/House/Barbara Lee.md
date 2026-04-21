@@ -327,23 +327,28 @@ _No committee data found._
 ### Voting Record
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–118th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–118th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,272 |
-| Substantive votes (Y/N) | 1,183 |
-| Votes with party majority | 1,128 |
-| Party-line loyalty | 95.4% |
-| Deviations from party | 55 |
+| Roll-call votes tracked | 4,403 |
+| Substantive votes (Y/N) | 4,260 |
+| Votes with party majority | 4,101 |
+| Party-line loyalty | 96.3% |
+| Deviations from party | 158 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 
-**Most recent party-line deviations (top 10 of 55):**
+**Most recent party-line deviations (top 10 of 158):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -360,6 +365,37 @@ _No committee data found._
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 333 |
+| Enacted into law | 3 |
+| Top policy areas | International Affairs · Health · Taxation |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-264 | 2022-12-23 | HR.4373-117 | Providing for consideration of the bill (H.R. 4346) making appropriations for Legislative  |
+| PL 116-330 | 2021-01-13 | HR.1923-116 | Women’s History and Nineteenth Amendment Centennial Quarter Dollar Coin Program Act |
+| — | 2005-03-17 | HR.1409-109 | Assistance for Orphans and Other Vulnerable Children in Developing Countries Act of 2005 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2024-12-17 | HR.10457-118 | Health | PEPFAR Extension Act of 2024 |
+| 2024-10-11 | HR.9977-118 | Armed Forces and National Security | Victims of Agent Orange Relief Act of 2024 |
+| 2024-09-27 | HR.9872-118 | Health | Sickle Cell Disease Treatment Centers Act of 2024 |
+| 2024-09-17 | HR.9631-118 | Health | National Food as Medicine Program Act of 2024 |
+| 2024-09-16 | HR.9607-118 | Education | Workforce of the Future Act of 2024 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: L000551` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 
 ### Legislative Activity (118th Congress)

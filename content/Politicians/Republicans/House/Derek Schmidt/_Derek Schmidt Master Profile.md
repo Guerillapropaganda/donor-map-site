@@ -140,6 +140,29 @@ top-donors: "[[CoreCivic - Private Prisons]], [[Troy Downing]], [[Chevron]], [[R
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 14 |
+| Enacted into law | 0 |
+| Top policy areas | Law · Armed Forces and National Security · Health |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | HR.8352-119 | — | To authorize peace officer standards and training agencies to access criminal history reco |
+| 2026-04-14 | HR.8276-119 | — | Quindaro Townsite National Historic Landmark Act |
+| 2026-03-24 | HR.8065-119 | Law | Restoring Executive Branch Authorities to Oversee Offices of the United States Attorneys A |
+| 2026-03-02 | HR.7752-119 | Crime and Law Enforcement | Kelsey Smith Act |
+| 2026-02-24 | HR.7664-119 | Immigration | State Partnerships to Enhance Removal of Criminal Aliens Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S001228` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Derek Schmidt
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

@@ -83,3 +83,36 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 26 |
+| Enacted into law | 5 |
+| Top policy areas | Native Americans · Transportation and Public Works · Public Lands and Natural Resources |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-63 | 2025-12-26 | HR.410-119 | Alaska Native Vietnam Era Veterans Land Allotment Extension Act |
+| PL 119-50 | 2025-12-11 | HJRES.106-119 | A joint resolution providing for congressional disapproval under chapter 8 of title 5, Uni |
+| PL 119-52 | 2025-12-11 | HJRES.131-119 | Providing for consideration of the joint resolution (S.J. Res. 80) providing for congressi |
+| PL 119-23 | 2025-07-07 | HR.43-119 | Alaska Native Village Municipal Lands Restoration Act of 2025 |
+| PL 119-22 | 2025-07-07 | HR.42-119 | Alaska Native Settlement Trust Eligibility Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-03 | HR.7760-119 | Taxation | Protect Future Dividends Act |
+| 2026-02-04 | HR.7350-119 | Transportation and Public Works | Fishing Vessel Financing Improvement Act of 2026 |
+| 2026-01-06 | HR.6939-119 | Public Lands and Natural Resources | Bycatch Reduction and Research Act of 2025 |
+| 2025-12-04 | HR.6427-119 | Transportation and Public Works | H.R. 6427, Airport Regulatory Relief Act of 2025 |
+| 2025-11-21 | HR.6251-119 | Environmental Protection | To amend the Marine Mammal Protection Act of 1972 to allow importation of polar bear troph |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: B001323` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

@@ -111,25 +111,30 @@ top-donors: "[[L3Harris Technologies]], [[Pfizer Inc.]], [[National Cattlemen's 
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,672 |
-| Votes with party majority | 1,502 |
-| Party-line loyalty | 89.8% |
-| Deviations from party | 170 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,794 |
+| Votes with party majority | 4,510 |
+| Party-line loyalty | 94.1% |
+| Deviations from party | 284 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 170):**
+**Most recent party-line deviations (top 10 of 284):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -146,6 +151,35 @@ top-donors: "[[L3Harris Technologies]], [[Pfizer Inc.]], [[National Cattlemen's 
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 51 |
+| Enacted into law | 1 |
+| Top policy areas | Health · Taxation · Armed Forces and National Security |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| — | 2011-03-02 | HR.886-112 | United States Marshals Service 225th Anniversary Commemorative Coin Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2025-07-21 | HR.4552-119 | Economics and Public Finance | Consolidated Appropriations Act, 2026 |
+| 2025-06-13 | HJRES.101-119 | Civil Rights and Liberties, Minority Issues | A joint resolution proposing an amendment to the Constitution of the United States authori |
+| 2025-04-24 | HR.3028-119 | Foreign Trade and International Finance | A bill to amend the Harmonized Tariff Schedule of the United States to provide a uniform 8 |
+| 2025-04-02 | HR.2615-119 | Health | Stephen Hacala Poppy Seed Safety Act |
+| 2025-03-24 | HR.2312-119 | Labor and Employment | Providing for consideration of the bill (H.R. 2988) to amend the Employee Retirement Incom |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: W000809` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Steve Womack
 

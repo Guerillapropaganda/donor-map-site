@@ -119,3 +119,32 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 61 |
+| Enacted into law | 1 |
+| Top policy areas | Agriculture and Food · Government Operations and Politics · Health |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-187 | 2024-12-23 | HR.9566-118 | H.R. 9566, Source code Harmonization and Reuse in Information Technology Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-16 | HR.7941-119 | Transportation and Public Works | Pay TSA Act of 2026 |
+| 2026-02-11 | HR.7502-119 | — | To prohibit a person from making a misleading recycled content claim in advertising, marke |
+| 2026-02-04 | HR.7366-119 | Health | Dietary Supplement Regulatory Uniformity Act |
+| 2026-01-27 | HR.7256-119 | Government Operations and Politics | H.R. 7256, Federal Workforce Early Separation Incentives Act of 2026 |
+| 2026-01-14 | HR.7065-119 | Native Americans | Seneca Nation Law Enforcement Efficiency Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: L000600` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

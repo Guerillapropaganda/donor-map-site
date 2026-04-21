@@ -138,3 +138,26 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 20 |
+| Enacted into law | 0 |
+| Top policy areas | International Affairs · Crime and Law Enforcement · Armed Forces and National Security |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-15 | HR.8288-119 | Foreign Trade and International Finance | Strengthening Export Controls Compliance Act |
+| 2026-03-12 | HR.7896-119 | Public Lands and Natural Resources | NOAA Global Ocean Monitoring and Observing Research Act |
+| 2026-02-02 | HR.7307-119 | International Affairs | SUPPLIES Act |
+| 2026-01-15 | HR.7088-119 | International Affairs | NO NATO for Purchase Act |
+| 2026-01-15 | HR.7089-119 | Public Lands and Natural Resources | PARK Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: A000380` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

@@ -126,3 +126,32 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 49 |
+| Enacted into law | 1 |
+| Top policy areas | Armed Forces and National Security · Agriculture and Food · Health |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-222 | 2025-01-02 | HR.6750-118 | H.R. 6750, a bill to designate the facility of the United States Postal Service located at |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-12 | HR.7530-119 | Water Resources Development | Assistance for Rural Water Systems Act of 2025 |
+| 2025-12-04 | HR.6433-119 | Agriculture and Food | Rural Uplift and Revitalization Assistance Act |
+| 2025-12-03 | HR.6385-119 | Agriculture and Food | Farm, Food, and National Security Act of 2026 |
+| 2025-11-25 | HR.6295-119 | Taxation | The Working for Tips Tax Relief Act of 2025 |
+| 2025-11-07 | HR.5939-119 | Armed Forces and National Security | USMC Helicopter Support in Vietnam Congressional Gold Medal Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: D000230` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

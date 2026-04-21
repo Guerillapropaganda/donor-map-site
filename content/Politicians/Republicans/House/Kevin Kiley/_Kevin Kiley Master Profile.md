@@ -124,3 +124,32 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 37 |
+| Enacted into law | 1 |
+| Top policy areas | Government Operations and Politics · Labor and Employment · Science, Technology, Communications |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-259 | 2025-01-04 | HR.9124-118 | To name the Department of Veterans Affairs community-based outpatient clinic in Auburn, Ca |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-13 | HR.8252-119 | — | Gas Tax Reduction Act |
+| 2026-02-20 | HR.7619-119 | Taxation | Keep Jobs in California Act of 2026 |
+| 2026-01-27 | HR.7255-119 | Public Lands and Natural Resources | Santini-Burton Modernization Act of 2026 |
+| 2026-01-16 | HR.7139-119 | Housing and Community Development | Housing Choice Voucher Fairness Act of 2025 |
+| 2025-12-03 | HR.6402-119 | Science, Technology, Communications | Ensuring Safe and Ethical AI Development Through SAFE AI Research Grants |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: K000401` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

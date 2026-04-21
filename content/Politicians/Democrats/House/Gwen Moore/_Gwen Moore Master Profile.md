@@ -105,25 +105,30 @@ top-policy-area: Health
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,631 |
-| Votes with party majority | 1,574 |
-| Party-line loyalty | 96.5% |
-| Deviations from party | 57 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,642 |
+| Votes with party majority | 4,490 |
+| Party-line loyalty | 96.7% |
+| Deviations from party | 151 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 57):**
+**Most recent party-line deviations (top 10 of 151):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -140,6 +145,35 @@ top-policy-area: Health
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 183 |
+| Enacted into law | 1 |
+| Top policy areas | Taxation · Health · Social Welfare |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 115-294 | 2018-12-06 | HR.5784-115 | To designate the facility of the United States Postal Service located at 2650 North Doctor |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-25 | HR.8089-119 | Health | Perinatal Workforce Act |
+| 2026-03-19 | HR.7995-119 | Families | CONNECT Act |
+| 2026-03-04 | HR.7798-119 | Education | School Social Workers Improving Student Success Act |
+| 2026-02-25 | HR.7705-119 | Native Americans | Tribal Tax and Investment Reform Act of 2026 |
+| 2026-01-22 | HR.7228-119 | Social Welfare | Maintain Access to Vital Social Security Services Act of 2026 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001160` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Gwen Moore
 

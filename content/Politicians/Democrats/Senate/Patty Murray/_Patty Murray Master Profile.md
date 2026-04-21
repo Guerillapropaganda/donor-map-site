@@ -148,11 +148,11 @@ top-policy-area: Health
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,635 |
-| Votes with party majority | 2,518 |
-| Party-line loyalty | 95.6% |
-| Deviations from party | 20 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,556 |
+| Votes with party majority | 3,436 |
+| Party-line loyalty | 96.6% |
+| Deviations from party | 23 |
 
 **Coverage:**
 
@@ -160,12 +160,14 @@ top-policy-area: Health
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 20):**
+**Most recent party-line deviations (top 10 of 23):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -182,6 +184,39 @@ top-policy-area: Health
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 427 |
+| Enacted into law | 8 |
+| Top policy areas | Armed Forces and National Security · Labor and Employment · Health |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-86 | 2024-09-26 | S.4351-118 | Poison Control Centers Reauthorization Act of 2024 |
+| PL 117-22 | 2021-06-30 | SJRES.13-117 | Providing for congressional disapproval under chapter 8 of title 5, United States Code, of |
+| PL 113-99 | 2014-04-15 | S.404-113 | Public Access and Lands Improvement Act |
+| — | 2012-05-17 | S.3202-112 | Dignified Burial of Veterans Act of 2012 |
+| — | 2011-05-05 | S.894-112 | Veterans' Compensation Cost-of-Living Adjustment Act of 2011 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-26 | S.4261-119 | Housing and Community Development | Preventing Youth Homelessness Demonstration Act of 2026 |
+| 2026-03-26 | SJRES.148-119 | Finance and Financial Sector | A joint resolution providing for congressional disapproval under chapter 8 of title 5, Uni |
+| 2026-03-12 | S.4081-119 | Labor and Employment | Fair Wages for Home Care Workers Act |
+| 2026-02-12 | S.3865-119 | Labor and Employment | BE HEARD in the Workplace Act |
+| 2025-12-15 | S.3480-119 | Health | Seniors Deserve SMARTER Care Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001111` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #master-profile #democrat #senate #washington #defense #boeing #pharma #appropriations #follow-the-money #class-analysis
 tags: #democrat

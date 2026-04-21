@@ -143,11 +143,11 @@ donors: [[Koch Network - Charles Koch]], [[Leonard Leo]], [[Timothy Mellon]]
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,637 |
-| Votes with party majority | 2,510 |
-| Party-line loyalty | 95.2% |
-| Deviations from party | 57 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,562 |
+| Votes with party majority | 3,293 |
+| Party-line loyalty | 92.4% |
+| Deviations from party | 198 |
 
 **Coverage:**
 
@@ -155,12 +155,14 @@ donors: [[Koch Network - Charles Koch]], [[Leonard Leo]], [[Timothy Mellon]]
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 57):**
+**Most recent party-line deviations (top 10 of 198):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -177,6 +179,39 @@ donors: [[Koch Network - Charles Koch]], [[Leonard Leo]], [[Timothy Mellon]]
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 130 |
+| Enacted into law | 5 |
+| Top policy areas | International Affairs · Taxation · Armed Forces and National Security |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 114-91 | 2015-11-25 | S.799-114 | Protecting Our Infants Act of 2015 |
+| PL 113-96 | 2014-04-03 | S.2183-113 | Ukraine Support Act |
+| — | 2007-08-01 | S.1927-110 | Improving Foreign Intelligence Surveillance to Defend the Nation and the Constitution Act  |
+| — | 2006-09-22 | S.3930-109 | Military Commissions Act of 2006 |
+| — | 2006-03-06 | S.2370-109 | Limitation on Assistance to the Palestinian Authority Act of 2006 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2025-07-31 | S.2572-119 | Economics and Public Finance | Department of Defense Appropriations Act, 2026 |
+| 2025-05-08 | S.1674-119 | Public Lands and Natural Resources | Mammoth Cave National Park Boundary Adjustment Act of 2025 |
+| 2025-03-11 | S.930-119 | Taxation | A bill to amend the Internal Revenue Code of 1986 to exclude from gross income capital gai |
+| 2025-02-24 | S.698-119 | Crime and Law Enforcement | Federal Prisons Accountability Act of 2025 |
+| 2025-02-10 | S.500-119 | Labor and Employment | SUPPORT for Patients and Communities Reauthorization Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M000355` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

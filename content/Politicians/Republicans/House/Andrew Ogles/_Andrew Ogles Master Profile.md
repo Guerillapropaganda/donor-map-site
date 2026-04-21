@@ -123,3 +123,26 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 102 |
+| Enacted into law | 0 |
+| Top policy areas | International Affairs · Government Operations and Politics · Finance and Financial Sector |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-27 | HR.8150-119 | Government Operations and Politics | Good Friday Act of 2026 |
+| 2026-03-17 | HR.7964-119 | Immigration | Halt Immigration from Countries with Inadequate Verification Capabilities Act |
+| 2026-03-05 | HR.7842-119 | Immigration | Alien Banking Act |
+| 2026-02-25 | HR.7707-119 | Taxation | OLYMPICS Act |
+| 2026-02-24 | HR.7663-119 | Government Operations and Politics | Restoring Washington's Birthday Act of 2026 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: O000175` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

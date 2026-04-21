@@ -123,3 +123,26 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 19 |
+| Enacted into law | 0 |
+| Top policy areas | Science, Technology, Communications · Crime and Law Enforcement · Education |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-05 | HR.7826-119 | Science, Technology, Communications | HBCU AI Research Leadership Act |
+| 2026-02-26 | HR.7733-119 | Crime and Law Enforcement | Ensuring OB–GYN Care in Prisons Act |
+| 2026-02-24 | HR.7657-119 | Armed Forces and National Security | Military Family Diaper Partnership Act |
+| 2026-02-12 | HR.7535-119 | Health | Second Chance Mental Health Access Act of 2026 |
+| 2026-02-03 | HR.7327-119 | Education | Empowering Young Readers Act of 2026 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: F000477` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

@@ -94,3 +94,26 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 25 |
+| Enacted into law | 0 |
+| Top policy areas | Agriculture and Food · Government Operations and Politics · Emergency Management |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-27 | HR.8146-119 | — | Rural Utilities Service Modernization Act |
+| 2026-03-27 | HR.8145-119 | Science, Technology, Communications | Expanding Access to Distance Learning and Telemedicine Act |
+| 2026-03-27 | HR.8147-119 | Science, Technology, Communications | Prioritizing Rural Broadband Affordability Act |
+| 2026-03-27 | HR.8144-119 | Science, Technology, Communications | Quality Broadband for Connected Communities Act |
+| 2026-03-12 | HR.7913-119 | Agriculture and Food | Higher Education Challenge Grant Modernization Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001232` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

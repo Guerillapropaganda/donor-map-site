@@ -107,6 +107,29 @@ top-donors: "[[Jim Jordan]]"
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 14 |
+| Enacted into law | 0 |
+| Top policy areas | Armed Forces and National Security · Transportation and Public Works · Health |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-04 | HR.7795-119 | Armed Forces and National Security | VA SUBCON Act |
+| 2025-12-12 | HR.6690-119 | Health | Northern Mariana Islands Medicaid Advancement Act |
+| 2025-12-11 | HR.6652-119 | Armed Forces and National Security | U.S. Vets of the FAS Act |
+| 2025-12-04 | HR.6448-119 | Transportation and Public Works | TASA Act of 2025 |
+| 2025-11-07 | HR.5960-119 | Foreign Trade and International Finance | Territorial De Minimis Exemption Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: K000404` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Kimberlyn King-Hinds
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

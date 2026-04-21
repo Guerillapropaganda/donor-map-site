@@ -116,25 +116,30 @@ top-donors: "[[Raytheon (RTX)]], [[Northrop Grumman]], [[J Street]], [[Internati
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,642 |
-| Votes with party majority | 1,606 |
-| Party-line loyalty | 97.8% |
-| Deviations from party | 36 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,702 |
+| Votes with party majority | 4,608 |
+| Party-line loyalty | 98.0% |
+| Deviations from party | 93 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 36):**
+**Most recent party-line deviations (top 10 of 93):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -151,6 +156,29 @@ top-donors: "[[Raytheon (RTX)]], [[Northrop Grumman]], [[J Street]], [[Internati
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 131 |
+| Enacted into law | 0 |
+| Top policy areas | Agriculture and Food · Public Lands and Natural Resources · Armed Forces and National Security |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-16 | HR.7947-119 | Agriculture and Food | Agricultural Management Assistance Act of 2026 |
+| 2026-02-26 | HR.7743-119 | Immigration | Stop ICE Intimidation Act of 2026 |
+| 2026-02-25 | HR.7708-119 | Immigration | PAPERS Act of 2026 |
+| 2026-01-27 | HR.7267-119 | Armed Forces and National Security | Produce Prescriptions for Veterans Act |
+| 2025-12-04 | HR.6476-119 | Agriculture and Food | Relief for Farmers Hit with PFAS Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: P000597` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Chellie Pingree
 

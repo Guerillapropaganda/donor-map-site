@@ -120,21 +120,22 @@ top-donors: "[[National Association of Manufacturers]], [[NextEra Energy]], [[AD
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,664 |
-| Votes with party majority | 1,537 |
-| Party-line loyalty | 92.4% |
-| Deviations from party | 127 |
+| Roll-call votes tracked | 2,724 |
+| Substantive votes (Y/N) | 2,619 |
+| Votes with party majority | 2,433 |
+| Party-line loyalty | 92.9% |
+| Deviations from party | 186 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 127):**
+**Most recent party-line deviations (top 10 of 186):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -151,6 +152,29 @@ top-donors: "[[National Association of Manufacturers]], [[NextEra Energy]], [[AD
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 109 |
+| Enacted into law | 0 |
+| Top policy areas | Armed Forces and National Security · Health · Government Operations and Politics |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-26 | HR.8115-119 | Armed Forces and National Security | Precision Brain Health Research Act of 2026 |
+| 2026-03-24 | HR.8057-119 | Armed Forces and National Security | To amend title 38, United States Code, to modify the rate of pay for care or services prov |
+| 2026-02-12 | HR.7550-119 | Taxation | Permanent Tax Relief for Seniors Act |
+| 2026-01-27 | HR.7266-119 | Science, Technology, Communications | H.R. 7266, Rural and Municipal Utility Cybersecurity Act |
+| 2026-01-16 | HR.7141-119 | Armed Forces and National Security | Affordable Housing Guarantee Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001215` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Mariannette Miller-Meeks
 

@@ -142,6 +142,29 @@ top-donors: "[[National Restaurant Association]], [[AT&T - WarnerMedia]], [[Nati
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 15 |
+| Enacted into law | 0 |
+| Top policy areas | Crime and Law Enforcement · Transportation and Public Works · Armed Forces and National Security |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-27 | HR.8157-119 | Agriculture and Food | Risk-based Oversight for Integrity Act |
+| 2026-02-25 | HR.7719-119 | Crime and Law Enforcement | SOS Act of 2026 |
+| 2025-11-10 | HR.6018-119 | Agriculture and Food | Bringing Assistance for Rural Needs During Shutdowns Act |
+| 2025-11-07 | HR.5989-119 | Armed Forces and National Security | Supporting Troops’ Access to Recognition Services Act |
+| 2025-10-24 | HR.5831-119 | Government Operations and Politics | H.R. 5831, a bill to designate the facility of the United States Postal Service located at |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: W000829` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Tony Wied
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

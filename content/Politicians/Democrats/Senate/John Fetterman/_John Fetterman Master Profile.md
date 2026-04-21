@@ -161,6 +161,35 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC - American Isra
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 58 |
+| Enacted into law | 1 |
+| Top policy areas | Agriculture and Food · Housing and Community Development · Armed Forces and National Security |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-136 | 2024-11-25 | S.3419-118 | S. 3419, a bill to designate the facility of the United States Postal Service located at 1 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-10 | S.4045-119 | Agriculture and Food | Food and Nutrition Delivery Safety Act of 2026 |
+| 2026-02-05 | S.3796-119 | Environmental Protection | Ohio River Restoration Program Act |
+| 2026-01-29 | S.3733-119 | International Affairs | A bill to amend the Passport Act of June 4, 1920, to authorize certain public libraries to |
+| 2026-01-15 | S.3660-119 | Finance and Financial Sector | Credit Card Fairness Act |
+| 2025-12-11 | S.3468-119 | Science, Technology, Communications | National Programmable Cloud Laboratories Network Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: F000479` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 <!-- auto:govtrack start -->
 | Metric | Value |
 |--------|-------|

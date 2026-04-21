@@ -301,3 +301,22 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 - ~~[Wikipedia: New America (organization)](https://en.wikipedia.org/wiki/New_America_(organization)~~ (URL broken, archived by Ops)) (Tier 3)
 - ~~[SourceWatch: New America Foundation, funding, board, and policy influence documentation](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/New_America_Foundation)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 1 |
+| Leak sources | Bahamas Leaks (1) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| UNIVERSAL LEGAL SERVICES | intermediary | — | Bahamas Leaks |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: New America` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

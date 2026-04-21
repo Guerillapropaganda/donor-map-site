@@ -114,25 +114,30 @@ top-policy-area: Health
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,723 |
-| Votes with party majority | 1,649 |
-| Party-line loyalty | 95.7% |
-| Deviations from party | 74 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,824 |
+| Votes with party majority | 4,682 |
+| Party-line loyalty | 97.1% |
+| Deviations from party | 142 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 74):**
+**Most recent party-line deviations (top 10 of 142):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -149,6 +154,39 @@ top-policy-area: Health
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 128 |
+| Enacted into law | 8 |
+| Top policy areas | Health · Foreign Trade and International Finance · Commerce |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-44 | 2025-12-01 | HR.2483-119 | Safer Response Act of 2025 |
+| PL 118-142 | 2024-12-11 | HR.7218-118 | BOLD Infrastructure for Alzheimer's Reauthorization Act of 2024 |
+| PL 116-304 | 2021-01-05 | HR.5663-116 | Workforce Emergency Response Act of 2020 |
+| PL 115-254 | 2018-10-05 | HR.302-115 | Congressional Award Program Reauthorization Act of 2018 |
+| PL 115-222 | 2018-07-30 | HR.6042-115 | To amend title XIX of the Social Security Act to delay the reduction in Federal medical as |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-14 | HR.8255-119 | Science, Technology, Communications | SAT Streamlining Act |
+| 2026-03-09 | HR.7871-119 | Health | MVP Act |
+| 2026-03-03 | HR.7757-119 | Commerce | KIDS Act |
+| 2026-02-05 | HR.7389-119 | Transportation and Public Works | Motor Vehicle Modernization Act of 2026 |
+| 2025-12-09 | HR.6498-119 | Education | H.R. 6498, Student Financial Clarity Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: G000558` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #politician #republican #house #brett-guthrie #donor-pipeline #pharma
 

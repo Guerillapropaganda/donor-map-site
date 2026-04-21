@@ -115,24 +115,26 @@ top-policy-area: Taxation
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,685 |
-| Votes with party majority | 1,578 |
-| Party-line loyalty | 93.6% |
-| Deviations from party | 107 |
+| Roll-call votes tracked | 2,365 |
+| Substantive votes (Y/N) | 2,321 |
+| Votes with party majority | 2,178 |
+| Party-line loyalty | 93.8% |
+| Deviations from party | 143 |
 
 **Coverage:**
 
+- house 117/1: 90 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 107):**
+**Most recent party-line deviations (top 10 of 143):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -149,6 +151,36 @@ top-policy-area: Taxation
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 47 |
+| Enacted into law | 2 |
+| Top policy areas | Taxation · Health · Government Operations and Politics |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-5 | 2025-04-10 | HJRES.25-119 | A joint resolution providing for congressional disapproval under chapter 8 of title 5, Uni |
+| PL 118-106 | 2024-10-04 | HR.6513-118 | ACE Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-12 | HR.7527-119 | Taxation | Pay Less at the Pump Act of 2026 |
+| 2025-12-16 | HR.6735-119 | Health | Connecting Caregivers to Medicare Act of 2025 |
+| 2025-12-04 | HR.6431-119 | Taxation | H.R. 6431, New Opportunities for Business Ownership and Self-Sufficiency Act |
+| 2025-07-23 | HR.4639-119 | Taxation | Infertility Treatment Affordability Act of 2025 |
+| 2025-07-16 | HR.4441-119 | Health | Patient Access to Innovative New Technologies Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C001126` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Mike Carey
 

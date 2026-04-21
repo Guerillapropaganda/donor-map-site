@@ -91,24 +91,26 @@ donors: [[Defense Industry Bloc]] · Agriculture Bloc
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,346 |
-| Votes with party majority | 1,263 |
-| Party-line loyalty | 93.8% |
-| Deviations from party | 50 |
+| Roll-call votes tracked | 2,382 |
+| Substantive votes (Y/N) | 2,275 |
+| Votes with party majority | 2,097 |
+| Party-line loyalty | 92.2% |
+| Deviations from party | 144 |
 
 **Coverage:**
 
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 50):**
+**Most recent party-line deviations (top 10 of 144):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -125,6 +127,35 @@ donors: [[Defense Industry Bloc]] · Agriculture Bloc
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 64 |
+| Enacted into law | 1 |
+| Top policy areas | Armed Forces and National Security · Agriculture and Food · Immigration |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-209 | 2022-10-17 | S.2794-117 | S. 2794, Supporting Families of the Fallen Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-24 | S.4177-119 | Sports and Recreation | Student Athlete Act of 2026 |
+| 2026-02-26 | S.3936-119 | Agriculture and Food | USDA Loan Modernization Act |
+| 2025-11-06 | S.3121-119 | Transportation and Public Works | UBER Act |
+| 2025-11-06 | S.3124-119 | Labor and Employment | Protection on the Picket Line Act |
+| 2025-10-15 | S.3009-119 | Immigration | Preserving a Sharia-Free America Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: T000278` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

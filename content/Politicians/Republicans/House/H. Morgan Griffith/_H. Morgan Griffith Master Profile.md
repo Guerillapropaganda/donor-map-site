@@ -89,25 +89,30 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,637 |
-| Votes with party majority | 1,514 |
-| Party-line loyalty | 92.5% |
-| Deviations from party | 123 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,675 |
+| Votes with party majority | 4,273 |
+| Party-line loyalty | 91.4% |
+| Deviations from party | 402 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 123):**
+**Most recent party-line deviations (top 10 of 402):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -124,3 +129,36 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 177 |
+| Enacted into law | 5 |
+| Top policy areas | Health · Government Operations and Politics · Crime and Law Enforcement |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-81 | 2026-03-26 | HR.7211-119 | To authorize the President to award the Medal of Honor to John W. Ripley for acts of valor |
+| PL 119-14 | 2025-05-23 | HJRES.61-119 | Providing for consideration of the joint resolution (H.J. Res. 42) providing for congressi |
+| PL 117-53 | 2021-11-10 | HR.1899-117 | Ensuring Compliance Against Drug Diversion Act of 2021 |
+| PL 115-203 | 2018-07-23 | HR.447-115 | To extend the deadline for commencement of construction of a hydroelectric project. |
+| PL 115-202 | 2018-07-23 | HR.446-115 | To extend the deadline for commencement of construction of a hydroelectric project. |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-20 | HR.7614-119 | Congress | To direct the Architect of the Capitol to install an adult changing room in the Library of |
+| 2026-01-22 | HR.7212-119 | — | Hemp Enforcement, Modernization, and Protection Act |
+| 2025-11-12 | HR.6028-119 | Congress | Legislative Branch Agencies Clarification Act |
+| 2025-10-10 | HR.5736-119 | Health | PAVE Act |
+| 2025-09-23 | HR.5549-119 | Energy | Efficient Nuclear Licensing Hearings Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: G000568` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

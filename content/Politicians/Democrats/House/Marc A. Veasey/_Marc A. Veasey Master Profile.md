@@ -89,25 +89,30 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,700 |
-| Votes with party majority | 1,622 |
-| Party-line loyalty | 95.4% |
-| Deviations from party | 78 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,784 |
+| Votes with party majority | 4,625 |
+| Party-line loyalty | 96.7% |
+| Deviations from party | 158 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 78):**
+**Most recent party-line deviations (top 10 of 158):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -124,3 +129,32 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 85 |
+| Enacted into law | 1 |
+| Top policy areas | Armed Forces and National Security · Immigration · Education |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-80 | 2021-12-27 | HR.1664-117 | National Medal of Honor Monument Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2025-07-23 | HR.4749-119 | Emergency Management | Texas Flood Emergency Supplemental Appropriations Act of 2025 |
+| 2025-07-22 | HR.4621-119 | Armed Forces and National Security | 320th Barrage Balloon Battalion Gold Medal Act |
+| 2025-07-10 | HR.4358-119 | Government Operations and Politics | John Tanner and Jim Cooper Fairness and Independence in Redistricting Act |
+| 2025-04-14 | HR.2919-119 | Armed Forces and National Security | PARADE Act |
+| 2025-04-09 | HR.2803-119 | Government Operations and Politics | Protecting Election Administration from Interference Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: V000131` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

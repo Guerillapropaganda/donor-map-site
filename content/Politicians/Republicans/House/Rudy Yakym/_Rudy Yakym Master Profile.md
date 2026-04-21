@@ -101,24 +101,25 @@ top-donors: "[[Amgen Inc]], [[CVS Health - Aetna]], [[Walmart - Walton Family]],
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,695 |
-| Votes with party majority | 1,643 |
+| Roll-call votes tracked | 1,798 |
+| Substantive votes (Y/N) | 1,767 |
+| Votes with party majority | 1,713 |
 | Party-line loyalty | 96.9% |
-| Deviations from party | 52 |
+| Deviations from party | 54 |
 
 **Coverage:**
 
+- house 117/2: 72 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 52):**
+**Most recent party-line deviations (top 10 of 54):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -135,6 +136,29 @@ top-donors: "[[Amgen Inc]], [[CVS Health - Aetna]], [[Walmart - Walton Family]],
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 36 |
+| Enacted into law | 0 |
+| Top policy areas | Armed Forces and National Security · Economics and Public Finance · Transportation and Public Works |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | HR.8319-119 | — | To amend title XVIII of the Social Security Act to expand certain remote monitoring servic |
+| 2026-02-24 | HR.7655-119 | Families | Support for Expectant and Parenting Foster Youth Act |
+| 2026-02-09 | HR.7414-119 | Taxation | Affordable Housing Bond Enhancement Act |
+| 2026-01-13 | HR.7025-119 | Government Operations and Politics | Evidence-Based Grantmaking Act |
+| 2025-12-09 | HR.6509-119 | Health | SAFE Drugs Act of 2026 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: Y000067` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Rudy Yakym
 

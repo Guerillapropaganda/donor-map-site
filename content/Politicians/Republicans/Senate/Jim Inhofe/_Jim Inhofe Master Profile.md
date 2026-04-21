@@ -54,15 +54,15 @@ related: "[[Koch Network - Charles Koch|Koch Network]] · [[ExxonMobil]] · [[Fo
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–116th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–117th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,318 |
-| Substantive votes (Y/N) | 1,280 |
-| Votes with party majority | 1,240 |
-| Party-line loyalty | 96.9% |
-| Deviations from party | 29 |
+| Roll-call votes tracked | 2,267 |
+| Substantive votes (Y/N) | 2,127 |
+| Votes with party majority | 2,046 |
+| Party-line loyalty | 96.2% |
+| Deviations from party | 69 |
 
 **Coverage:**
 
@@ -70,24 +70,59 @@ related: "[[Koch Network - Charles Koch|Koch Network]] · [[ExxonMobil]] · [[Fo
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 
-**Most recent party-line deviations (top 10 of 29):**
+**Most recent party-line deviations (top 10 of 69):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| 2020-06-17 | s121-116.2 | Nay | Y | H.R. 1957 |
-| 2020-06-15 | s120-116.2 | Nay | Y | H.R. 1957 |
-| 2020-06-15 | s119-116.2 | Nay | Y | — |
-| 2020-06-10 | s116-116.2 | Nay | Y | H.R. 1957 |
-| 2020-06-08 | s114-116.2 | Nay | Y | H.R. 1957 |
-| 2020-05-13 | s90-116.2 | Nay | Y | — |
-| 2020-03-18 | s76-116.2 | Nay | Y | H.R. 6201 |
-| 2020-03-09 | s67-116.2 | Nay | Y | — |
-| 2019-12-19 | s415-116.1 | Nay | Y | H.R. 1865 |
-| 2019-12-19 | s413-116.1 | Nay | Y | H.R. 1865 |
+| 2022-12-22 | s406-117.2 | Yea | N | — |
+| 2022-12-22 | s408-117.2 | Yea | N | — |
+| 2022-12-22 | s409-117.2 | Nay | Y | — |
+| 2022-12-22 | s410-117.2 | Nay | Y | — |
+| 2022-12-22 | s421-117.2 | Yea | N | — |
+| 2022-12-21 | s405-117.2 | Yea | N | — |
+| 2022-12-15 | s398-117.2 | Nay | Y | — |
+| 2022-09-15 | s338-117.2 | Nay | Y | — |
+| 2022-07-20 | s265-117.2 | Nay | Y | — |
+| 2022-07-13 | s248-117.2 | Yea | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 332 |
+| Enacted into law | 13 |
+| Top policy areas | Environmental Protection · Transportation and Public Works · Taxation |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 116-92 | 2019-12-20 | S.1790-116 | Authorizing the use of the rotunda of the Capitol to honor the last surviving Medal of Hon |
+| PL 115-433 | 2019-01-10 | S.3661-115 | 75th Anniversary of World War II Commemoration Act |
+| PL 115-95 | 2017-12-20 | S.1266-115 | To authorize the Directors of Veterans Integrated Service Networks of the Department of Ve |
+| PL 114-64 | 2015-10-07 | S.261-114 | S. 261, an act to designate the United States courthouse located at 200 NW 4th Street in O |
+| — | 2011-07-06 | S.1335-112 | Pilot's Bill of Rights |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2022-12-01 | S.5170-117 | Public Lands and Natural Resources | Route 66 National Historic Trail Designation Act |
+| 2022-06-09 | S.4370-117 | Immigration | Empowering Law Enforcement Act of 2021 |
+| 2022-03-31 | S.3971-117 | Water Resources Development | A bill to amend the America's Water Infrastructure Act of 2018 to modify a provision relat |
+| 2022-03-24 | S.3917-117 | Health | Protecting Medicaid Beneficiaries Act of 2022 |
+| 2022-01-13 | S.3497-117 | Health | Medical Student Education Authorization Act of 2022 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: I000024` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 ## Who He Was
 

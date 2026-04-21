@@ -111,24 +111,25 @@ top-donors: "[[Nucor Corporation]], [[AIPAC - American Israel Public Affairs Com
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,679 |
-| Votes with party majority | 1,555 |
-| Party-line loyalty | 92.6% |
-| Deviations from party | 124 |
+| Roll-call votes tracked | 1,975 |
+| Substantive votes (Y/N) | 1,928 |
+| Votes with party majority | 1,794 |
+| Party-line loyalty | 93.0% |
+| Deviations from party | 134 |
 
 **Coverage:**
 
+- house 117/2: 249 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 124):**
+**Most recent party-line deviations (top 10 of 134):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -145,6 +146,29 @@ top-donors: "[[Nucor Corporation]], [[AIPAC - American Israel Public Affairs Com
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 38 |
+| Enacted into law | 0 |
+| Top policy areas | Finance and Financial Sector · Housing and Community Development · Health |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-01-16 | HR.7128-119 | Finance and Financial Sector | TRIA Program Reauthorization Act of 2026 |
+| 2025-12-16 | HR.6740-119 | Armed Forces and National Security | VA TRUST Act |
+| 2025-12-10 | HR.6547-119 | Finance and Financial Sector | Main Street Capital Access Act |
+| 2025-11-07 | HR.5946-119 | Armed Forces and National Security | Stamp Out Veterans Medical Debt Act |
+| 2025-11-07 | HR.5945-119 | Armed Forces and National Security | USS Frank E. Evans Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: F000474` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Mike Flood
 
