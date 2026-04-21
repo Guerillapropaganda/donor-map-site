@@ -2452,7 +2452,7 @@ async function handleMoneyChain(c: ClassifiedQuestion, question: string): Promis
 
     // Is this legal?
     if (midIsDAF || hasDarkMoney) {
-      is_this_legal = `**No, and that's the scandal.** Donor-advised funds and 501(c)(4) "social welfare" nonprofits are *designed* to break the paper trail between the original donor and the final recipient. Billionaires use this pattern routinely and it's perfectly legal. The trail breaks by design, not by crime.`
+      is_this_legal = `**Yes, and that's the scandal.** Donor-advised funds and 501(c)(4) "social welfare" nonprofits are *designed* to break the paper trail between the original donor and the final recipient. Billionaires use this pattern routinely and it's perfectly legal. The trail breaks by design, not by crime.`
     }
 
     // Why should I care?
