@@ -115,7 +115,7 @@ top-donors: "[[EQUALITY PROJECT PAC]], [[Walmart - Walton Family]], [[AIPAC - Am
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 9):**
+**Most recent party-line deviations (top 9 of 9):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

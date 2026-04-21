@@ -111,7 +111,7 @@ top-donors: "[[National Rifle Association]], [[Tyson Foods]], [[Chevron]], [[Nat
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 6):**
+**Most recent party-line deviations (top 6 of 6):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

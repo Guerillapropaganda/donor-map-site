@@ -256,3 +256,34 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[Gramm-Leach-Bliley Act and Glass-Steagall repeal](https://www.congress.gov)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - ~~[Bush tax cuts (EGTRRA 2001, JGTRRA 2003)](https://www.congress.gov)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - ~~[Source: Federal Register - Presidential Documents](https://www.federalregister.gov/presidential-documents/executive-orders/george-w-bush)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:executive-actions start -->
+
+*Presidential actions signed during G.W. Bush's tenure, from the GovInfo Federal Register bulk data. Ranked by recency.*
+
+| Category | Count |
+|---|---:|
+| Executive Orders | 276 |
+| Proclamations | 1 |
+| Directives / memoranda | 1,823 |
+| **Total** | **2,100** |
+
+**Most-recent Executive Orders (top 5):**
+
+| EO # | Date | Title |
+|---|---|---|
+| 13483 | 2008-12-18 | Adjustments of Certain Rates of Pay |
+| 13482 | 2008-12-12 | Closing of Executive Departments and Agencies of the Federal Government on Friday, December 26, 2008 |
+| 13481 | 2008-12-09 | Providing An Order of Succession Within the Department of Justice |
+| 13480 | 2008-11-26 | Exclusions From the Federal Labor-management Relations Program |
+| 13478 | 2008-11-18 | Amendments To Executive Order 9397 Relating To Federal Agency Use of Social Security Numbers |
+
+**Most-recent Proclamations (top 3):**
+
+| Proc # | Date | Title |
+|---|---|---|
+| 8031 | 2006-06-15 | Amending Proclamation 8031 of June 15, 2006, To Read, “Establishment of the Papahanaumokuakea Marine National Monument” |
+
+*Full list: query Ask with* `subject: executive_actions, president: G.W. Bush` *· Source: GovInfo Federal Register bulk (FRMergedXML).*
+<!-- auto:executive-actions end -->

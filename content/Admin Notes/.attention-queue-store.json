@@ -370,13 +370,13 @@
   "contradiction-miner": [
     {
       "bucket": "deciding",
-      "what": "George W. Bush has NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE in both donors and opposes",
-      "why": "NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE appears as both a funder and an adversary of George W. Bush. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story — the vault has the connection, nobody else does.",
-      "where": "content/Story Seeds/both-sides-george-w-bush-has-national-right-to-life-political-action-committee-i.md",
+      "what": "Cori Bush has United Democracy Project in both donors and opposes",
+      "why": "United Democracy Project appears as both a funder and an adversary of Cori Bush. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story — the vault has the connection, nobody else does.",
+      "where": "content/Story Seeds/both-sides-cori-bush-has-united-democracy-project-in-both-donors-and-opposes.md",
       "cost_min": 25,
       "leverage": 5,
       "source": "contradiction-miner",
-      "created": "2026-04-11",
+      "created": "2026-04-21",
       "metadata": {
         "type": "both-sides",
         "confidence": 5
@@ -384,13 +384,83 @@
     },
     {
       "bucket": "deciding",
-      "what": "George W. Bush has NRA POLITICAL VICTORY FUND in both donors and opposes",
-      "why": "NRA POLITICAL VICTORY FUND appears as both a funder and an adversary of George W. Bush. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story — the vault has the connection, nobody else does.",
-      "where": "content/Story Seeds/both-sides-george-w-bush-has-nra-political-victory-fund-in-both-donors-and-oppos.md",
+      "what": "ADM - Archer Daniels Midland funds both major parties",
+      "why": "ADM - Archer Daniels Midland appears in the politicians-funded / related lists of both Democratic AND Republican politicians in this vault. That is the classic transactional-donor pattern: influence flows to whoever wins, not to any ideology. Document the specific cycle splits (FEC data) and the bills each funded politician voted on that benefited ",
+      "where": "content/Story Seeds/cross-party-adm-archer-daniels-midland-funds-both-major-parties.md",
+      "cost_min": 25,
+      "leverage": 4,
+      "source": "contradiction-miner",
+      "created": "2026-04-21",
+      "metadata": {
+        "type": "cross-party",
+        "confidence": 4
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Raytheon (RTX Corporation) funds 14 Armed Services committee members",
+      "why": "Raytheon (RTX Corporation) shows up in the donor lists of 14 different Armed Services committee members: Adam Smith, Adam Smith, Adam Smith, Jack Reed, Jeanne Shaheen and 9 more. That's coordinated capture of an entire regulatory body. Pull FEC totals per member, cross-reference committee votes on bills affecting Raytheon (RTX Corporation)'s sector",
+      "where": "content/Story Seeds/committee-capture-raytheon-rtx-corporation-funds-14-armed-services-committee-mem.md",
+      "cost_min": 25,
+      "leverage": 4,
+      "source": "contradiction-miner",
+      "created": "2026-04-21",
+      "metadata": {
+        "type": "committee-capture",
+        "confidence": 4
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Barbara Lee: climate vs. fossil fuels contradiction",
+      "why": "Barbara Lee lists \"Environmental Protection\" as a tracked issue, but their donor list includes PG&E - Pacific Gas and Electric. Document the dollar amounts and the dates of their public stance vs. the dates of the donations. The contradiction is the story.",
+      "where": "content/Story Seeds/issue-contradiction-barbara-lee-climate-vs-fossil-fuels-contradiction.md",
+      "cost_min": 25,
+      "leverage": 3,
+      "source": "contradiction-miner",
+      "created": "2026-04-21",
+      "metadata": {
+        "type": "issue-contradiction",
+        "confidence": 3
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Southern Company appears in ICIJ Offshore Leaks (18 records, 7 leaks)",
+      "why": "Southern Company is a politically-active vault entity that ALSO appears in the ICIJ Offshore Leaks Database across: Panama Papers, Offshore Leaks, Paradise Papers - Bahamas corporate registry. Linked jurisdictions: Malta. Appearing in these files does not imply wrongdoing — but the combination of political spending + offshore footprint warrants a c",
+      "where": "content/Story Seeds/offshore-exposure-southern-company-appears-in-icij-offshore-leaks-18-records-7-l.md",
+      "cost_min": 25,
+      "leverage": 3,
+      "source": "contradiction-miner",
+      "created": "2026-04-21",
+      "metadata": {
+        "type": "offshore-exposure",
+        "confidence": 3
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Sherrod Brown sponsored 15 \"Housing and Community Development\" bills; top donors include 1 from matching sector",
+      "why": "Sherrod Brown has sponsored 15 bills in the \"Housing and Community Development\" policy area. Their top donors include: National Association of Realtors (Real Estate). This is the classic policy-capture-by-money pattern — legislator acts as a direct channel for donor industry interests. Pull the bill list (query Ask with `subject: bills, sponsor_bio",
+      "where": "content/Story Seeds/policy-capture-sponsorship-sherrod-brown-sponsored-15-housing-and-community-deve.md",
+      "cost_min": 25,
+      "leverage": 3,
+      "source": "contradiction-miner",
+      "created": "2026-04-21",
+      "metadata": {
+        "type": "policy-capture-sponsorship",
+        "confidence": 3
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Cori Bush has Fairshake PAC in both donors and opposes",
+      "why": "Fairshake PAC appears as both a funder and an adversary of Cori Bush. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story — the vault has the connection, nobody else does.",
+      "where": "content/Story Seeds/both-sides-cori-bush-has-fairshake-pac-in-both-donors-and-opposes.md",
       "cost_min": 25,
       "leverage": 5,
       "source": "contradiction-miner",
-      "created": "2026-04-11",
+      "created": "2026-04-21",
       "metadata": {
         "type": "both-sides",
         "confidence": 5
@@ -398,13 +468,13 @@
     },
     {
       "bucket": "deciding",
-      "what": "California Farm Bureau Federation funds both major parties",
-      "why": "California Farm Bureau Federation appears in the politicians-funded / related lists of both Democratic AND Republican politicians in this vault. That is the classic transactional-donor pattern: influence flows to whoever wins, not to any ideology. Document the specific cycle splits (FEC data) and the bills each funded politician voted on that benef",
-      "where": "content/Story Seeds/cross-party-california-farm-bureau-federation-funds-both-major-parties.md",
+      "what": "Agricultural Labor Vulnerability Donors funds both major parties",
+      "why": "Agricultural Labor Vulnerability Donors appears in the politicians-funded / related lists of both Democratic AND Republican politicians in this vault. That is the classic transactional-donor pattern: influence flows to whoever wins, not to any ideology. Document the specific cycle splits (FEC data) and the bills each funded politician voted on that",
+      "where": "content/Story Seeds/cross-party-agricultural-labor-vulnerability-donors-funds-both-major-parties.md",
       "cost_min": 25,
       "leverage": 4,
       "source": "contradiction-miner",
-      "created": "2026-04-11",
+      "created": "2026-04-21",
       "metadata": {
         "type": "cross-party",
         "confidence": 4
@@ -412,13 +482,83 @@
     },
     {
       "bucket": "deciding",
-      "what": "Bacardi - Bacardi USA funds both major parties",
-      "why": "Bacardi - Bacardi USA appears in the politicians-funded / related lists of both Democratic AND Republican politicians in this vault. That is the classic transactional-donor pattern: influence flows to whoever wins, not to any ideology. Document the specific cycle splits (FEC data) and the bills each funded politician voted on that benefited Bacardi",
-      "where": "content/Story Seeds/cross-party-bacardi-bacardi-usa-funds-both-major-parties.md",
+      "what": "National Restaurant Association funds 5 Armed Services committee members",
+      "why": "National Restaurant Association shows up in the donor lists of 5 different Armed Services committee members: Adam Smith, Deb Fischer, Markwayne Mullin, Rick Scott, Roger Wicker. That's coordinated capture of an entire regulatory body. Pull FEC totals per member, cross-reference committee votes on bills affecting National Restaurant Association's se",
+      "where": "content/Story Seeds/committee-capture-national-restaurant-association-funds-5-armed-services-committ.md",
       "cost_min": 25,
       "leverage": 4,
       "source": "contradiction-miner",
-      "created": "2026-04-11",
+      "created": "2026-04-21",
+      "metadata": {
+        "type": "committee-capture",
+        "confidence": 4
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Frank Pallone: climate vs. fossil fuels contradiction",
+      "why": "Frank Pallone lists \"Environmental Protection\" as a tracked issue, but their donor list includes PG&E - Pacific Gas and Electric. Document the dollar amounts and the dates of their public stance vs. the dates of the donations. The contradiction is the story.",
+      "where": "content/Story Seeds/issue-contradiction-frank-pallone-climate-vs-fossil-fuels-contradiction.md",
+      "cost_min": 25,
+      "leverage": 3,
+      "source": "contradiction-miner",
+      "created": "2026-04-21",
+      "metadata": {
+        "type": "issue-contradiction",
+        "confidence": 3
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Apple appears in ICIJ Offshore Leaks (17 records, 6 leaks)",
+      "why": "Apple is a politically-active vault entity that ALSO appears in the ICIJ Offshore Leaks Database across: Panama Papers, Offshore Leaks, Paradise Papers - Appleby. Linked jurisdictions: Panama. Appearing in these files does not imply wrongdoing — but the combination of political spending + offshore footprint warrants a closer look. Query Ask with `s",
+      "where": "content/Story Seeds/offshore-exposure-apple-appears-in-icij-offshore-leaks-17-records-6-leaks.md",
+      "cost_min": 25,
+      "leverage": 3,
+      "source": "contradiction-miner",
+      "created": "2026-04-21",
+      "metadata": {
+        "type": "offshore-exposure",
+        "confidence": 3
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Adam Smith sponsored 25 \"Armed Forces and National Security\" bills; top donors include 6 from matching sector",
+      "why": "Adam Smith has sponsored 25 bills in the \"Armed Forces and National Security\" policy area. Their top donors include: L3Harris Technologies (Defense & Intelligence), BAE Systems (Defense & Intelligence), Northrop Grumman (Defense & Intelligence). This is the classic policy-capture-by-money pattern — legislator acts as a direct channel for donor indu",
+      "where": "content/Story Seeds/policy-capture-sponsorship-adam-smith-sponsored-25-armed-forces-and-national-sec.md",
+      "cost_min": 25,
+      "leverage": 3,
+      "source": "contradiction-miner",
+      "created": "2026-04-21",
+      "metadata": {
+        "type": "policy-capture-sponsorship",
+        "confidence": 3
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Cori Bush has Mainstream Democrats PAC in both donors and opposes",
+      "why": "Mainstream Democrats PAC appears as both a funder and an adversary of Cori Bush. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story — the vault has the connection, nobody else does.",
+      "where": "content/Story Seeds/both-sides-cori-bush-has-mainstream-democrats-pac-in-both-donors-and-opposes.md",
+      "cost_min": 25,
+      "leverage": 5,
+      "source": "contradiction-miner",
+      "created": "2026-04-21",
+      "metadata": {
+        "type": "both-sides",
+        "confidence": 5
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "CA Farm Bureau Federation funds both major parties",
+      "why": "CA Farm Bureau Federation appears in the politicians-funded / related lists of both Democratic AND Republican politicians in this vault. That is the classic transactional-donor pattern: influence flows to whoever wins, not to any ideology. Document the specific cycle splits (FEC data) and the bills each funded politician voted on that benefited CA ",
+      "where": "content/Story Seeds/cross-party-ca-farm-bureau-federation-funds-both-major-parties.md",
+      "cost_min": 25,
+      "leverage": 4,
+      "source": "contradiction-miner",
+      "created": "2026-04-21",
       "metadata": {
         "type": "cross-party",
         "confidence": 4
@@ -426,155 +566,15 @@
     },
     {
       "bucket": "deciding",
-      "what": "National Association of Manufacturers funds both major parties",
-      "why": "National Association of Manufacturers appears in the politicians-funded / related lists of both Democratic AND Republican politicians in this vault. That is the classic transactional-donor pattern: influence flows to whoever wins, not to any ideology. Document the specific cycle splits (FEC data) and the bills each funded politician voted on that b",
-      "where": "content/Story Seeds/cross-party-national-association-of-manufacturers-funds-both-major-parties.md",
+      "what": "Lockheed Martin funds 10 Armed Services committee members",
+      "why": "Lockheed Martin shows up in the donor lists of 10 different Armed Services committee members: Adam Smith, Jack Reed, Jeanne Shaheen, Richard Blumenthal, Tammy Duckworth and 5 more. That's coordinated capture of an entire regulatory body. Pull FEC totals per member, cross-reference committee votes on bills affecting Lockheed Martin's sector, and wri",
+      "where": "content/Story Seeds/committee-capture-lockheed-martin-funds-10-armed-services-committee-members.md",
       "cost_min": 25,
       "leverage": 4,
       "source": "contradiction-miner",
-      "created": "2026-04-11",
+      "created": "2026-04-21",
       "metadata": {
-        "type": "cross-party",
-        "confidence": 4
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "American Iron and Steel Institute funds both major parties",
-      "why": "American Iron and Steel Institute appears in the politicians-funded / related lists of both Democratic AND Republican politicians in this vault. That is the classic transactional-donor pattern: influence flows to whoever wins, not to any ideology. Document the specific cycle splits (FEC data) and the bills each funded politician voted on that benef",
-      "where": "content/Story Seeds/cross-party-american-iron-and-steel-institute-funds-both-major-parties.md",
-      "cost_min": 25,
-      "leverage": 4,
-      "source": "contradiction-miner",
-      "created": "2026-04-11",
-      "metadata": {
-        "type": "cross-party",
-        "confidence": 4
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Defense Contractors funds both major parties",
-      "why": "Defense Contractors appears in the politicians-funded / related lists of both Democratic AND Republican politicians in this vault. That is the classic transactional-donor pattern: influence flows to whoever wins, not to any ideology. Document the specific cycle splits (FEC data) and the bills each funded politician voted on that benefited Defense C",
-      "where": "content/Story Seeds/cross-party-defense-contractors-funds-both-major-parties.md",
-      "cost_min": 25,
-      "leverage": 4,
-      "source": "contradiction-miner",
-      "created": "2026-04-11",
-      "metadata": {
-        "type": "cross-party",
-        "confidence": 4
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Defense Industry Bloc funds both major parties",
-      "why": "Defense Industry Bloc appears in the politicians-funded / related lists of both Democratic AND Republican politicians in this vault. That is the classic transactional-donor pattern: influence flows to whoever wins, not to any ideology. Document the specific cycle splits (FEC data) and the bills each funded politician voted on that benefited Defense",
-      "where": "content/Story Seeds/cross-party-defense-industry-bloc-funds-both-major-parties.md",
-      "cost_min": 25,
-      "leverage": 4,
-      "source": "contradiction-miner",
-      "created": "2026-04-11",
-      "metadata": {
-        "type": "cross-party",
-        "confidence": 4
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Defense Industry funds both major parties",
-      "why": "Defense Industry appears in the politicians-funded / related lists of both Democratic AND Republican politicians in this vault. That is the classic transactional-donor pattern: influence flows to whoever wins, not to any ideology. Document the specific cycle splits (FEC data) and the bills each funded politician voted on that benefited Defense Indu",
-      "where": "content/Story Seeds/cross-party-defense-industry-funds-both-major-parties.md",
-      "cost_min": 25,
-      "leverage": 4,
-      "source": "contradiction-miner",
-      "created": "2026-04-11",
-      "metadata": {
-        "type": "cross-party",
-        "confidence": 4
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "General Dynamics funds both major parties",
-      "why": "General Dynamics appears in the politicians-funded / related lists of both Democratic AND Republican politicians in this vault. That is the classic transactional-donor pattern: influence flows to whoever wins, not to any ideology. Document the specific cycle splits (FEC data) and the bills each funded politician voted on that benefited General Dyna",
-      "where": "content/Story Seeds/cross-party-general-dynamics-funds-both-major-parties.md",
-      "cost_min": 25,
-      "leverage": 4,
-      "source": "contradiction-miner",
-      "created": "2026-04-11",
-      "metadata": {
-        "type": "cross-party",
-        "confidence": 4
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Raytheon (RTX Corporation) funds both major parties",
-      "why": "Raytheon (RTX Corporation) appears in the politicians-funded / related lists of both Democratic AND Republican politicians in this vault. That is the classic transactional-donor pattern: influence flows to whoever wins, not to any ideology. Document the specific cycle splits (FEC data) and the bills each funded politician voted on that benefited Ra",
-      "where": "content/Story Seeds/cross-party-raytheon-rtx-corporation-funds-both-major-parties.md",
-      "cost_min": 25,
-      "leverage": 4,
-      "source": "contradiction-miner",
-      "created": "2026-04-11",
-      "metadata": {
-        "type": "cross-party",
-        "confidence": 4
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Student Loan Servicer Industry funds both major parties",
-      "why": "Student Loan Servicer Industry appears in the politicians-funded / related lists of both Democratic AND Republican politicians in this vault. That is the classic transactional-donor pattern: influence flows to whoever wins, not to any ideology. Document the specific cycle splits (FEC data) and the bills each funded politician voted on that benefite",
-      "where": "content/Story Seeds/cross-party-student-loan-servicer-industry-funds-both-major-parties.md",
-      "cost_min": 25,
-      "leverage": 4,
-      "source": "contradiction-miner",
-      "created": "2026-04-11",
-      "metadata": {
-        "type": "cross-party",
-        "confidence": 4
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "American Gaming Association funds both major parties",
-      "why": "American Gaming Association appears in the politicians-funded / related lists of both Democratic AND Republican politicians in this vault. That is the classic transactional-donor pattern: influence flows to whoever wins, not to any ideology. Document the specific cycle splits (FEC data) and the bills each funded politician voted on that benefited A",
-      "where": "content/Story Seeds/cross-party-american-gaming-association-funds-both-major-parties.md",
-      "cost_min": 25,
-      "leverage": 4,
-      "source": "contradiction-miner",
-      "created": "2026-04-11",
-      "metadata": {
-        "type": "cross-party",
-        "confidence": 4
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Blue Shield of California funds both major parties",
-      "why": "Blue Shield of California appears in the politicians-funded / related lists of both Democratic AND Republican politicians in this vault. That is the classic transactional-donor pattern: influence flows to whoever wins, not to any ideology. Document the specific cycle splits (FEC data) and the bills each funded politician voted on that benefited Blu",
-      "where": "content/Story Seeds/cross-party-blue-shield-of-california-funds-both-major-parties.md",
-      "cost_min": 25,
-      "leverage": 4,
-      "source": "contradiction-miner",
-      "created": "2026-04-11",
-      "metadata": {
-        "type": "cross-party",
-        "confidence": 4
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Insurance Industry funds both major parties",
-      "why": "Insurance Industry appears in the politicians-funded / related lists of both Democratic AND Republican politicians in this vault. That is the classic transactional-donor pattern: influence flows to whoever wins, not to any ideology. Document the specific cycle splits (FEC data) and the bills each funded politician voted on that benefited Insurance ",
-      "where": "content/Story Seeds/cross-party-insurance-industry-funds-both-major-parties.md",
-      "cost_min": 25,
-      "leverage": 4,
-      "source": "contradiction-miner",
-      "created": "2026-04-11",
-      "metadata": {
-        "type": "cross-party",
+        "type": "committee-capture",
         "confidence": 4
       }
     }

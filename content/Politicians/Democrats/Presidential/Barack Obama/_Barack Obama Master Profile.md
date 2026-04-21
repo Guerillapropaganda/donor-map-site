@@ -96,6 +96,30 @@ The post-presidency reveals the class position fully: $65 million book deal (201
 
 <!-- auto:voting-record end -->
 
+<!-- auto:executive-actions start -->
+
+*Presidential actions signed during Obama's tenure, from the GovInfo Federal Register bulk data. Ranked by recency.*
+
+| Category | Count |
+|---|---:|
+| Executive Orders | 276 |
+| Proclamations | 0 |
+| Directives / memoranda | 2,130 |
+| **Total** | **2,406** |
+
+**Most-recent Executive Orders (top 5):**
+
+| EO # | Date | Title |
+|---|---|---|
+| 13757 | 2016-12-28 | Taking Additional Steps to Address the National Emergency With Respect to Significant Malicious Cyber-Enabled Activities |
+| 13756 | 2016-12-27 | Adjustments of Certain Rates of Pay |
+| 13755 | 2016-12-23 | Providing an Order of Succession Within the Department of Labor |
+| 13754 | 2016-12-09 | Northern Bering Sea Climate Resilience |
+| 13752 | 2016-12-08 | Relating to the Implementation of the Convention on the International Recovery of Child Support and Other Forms of Famil |
+
+*Full list: query Ask with* `subject: executive_actions, president: Obama` *· Source: GovInfo Federal Register bulk (FRMergedXML).*
+<!-- auto:executive-actions end -->
+
 ## Central Thesis. The Two-Audience Problem
 
 Obama is the master of the Two-Audience Problem: one message for progressive voters, one private reassurance for donors. His 2008 campaign promised "hope and change" and ran against the financial sector's power. His private reassurance to bankers (which leaked in 2009) was: "I'm the only thing between you and the pitchforks." Both statements were true, and both functioned simultaneously to elect Obama and protect Wall Street.

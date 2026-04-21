@@ -38,6 +38,12 @@ type Intent =
   | "leaderboard"
   | "money_chain"
   | "compare"
+  // Phase 2 additions: policy-dimension queries that cross bills / EOs /
+  // offshore records with donor + voting dimensions.
+  | "bills_sponsored_by"       // "bills sponsored by X" / "what bills did X introduce"
+  | "bills_in_policy"          // "health bills", "bills on energy"
+  | "executive_orders_by"      // "Trump's EOs", "Biden executive orders 2023"
+  | "offshore_for"             // "offshore holdings of X" / "shell companies linked to X"
   | "generic"
 
 interface EntityContext {
@@ -1015,6 +1021,37 @@ function classify(q: string): ClassifiedQuestion {
   // Voting record
   let m = lower.match(/^(.+?)\s+voting record$/) || lower.match(/^how did (.+?) vote/)
   if (m) return { intent: "voting_record", subjectName: m[1] }
+
+  // Phase 2: Bills sponsored by X
+  //   "bills sponsored by Ted Cruz"
+  //   "what bills did Pelosi introduce"
+  //   "Bernie Sanders bills" / "Sanders sponsorship"
+  m = lower.match(/^bills?\s+sponsored\s+by\s+(.+?)$/)
+    || lower.match(/^what bills?\s+(?:did|has)\s+(.+?)\s+(?:introduce|sponsor|author)/)
+    || lower.match(/^(.+?)\s+(?:sponsorship|sponsored bills?)$/)
+  if (m) return { intent: "bills_sponsored_by", subjectName: m[1] }
+
+  // Phase 2: Bills in a policy area
+  //   "health bills", "bills on energy", "taxation bills"
+  m = lower.match(/^(health|energy|taxation|defense|environmental?|agricultural?|labor|transportation|housing|immigration|finance|banking|crypto|tech(?:nology)?)\s+bills?$/)
+    || lower.match(/^bills?\s+(?:on|about|in)\s+(health|energy|taxation|defense|environment(?:al)?|agricultur(?:e|al)|labor|transportation|housing|immigration|finance|banking|crypto|tech(?:nology)?)$/)
+  if (m) return { intent: "bills_in_policy", extra: { topic: m[1] } }
+
+  // Phase 2: Executive orders / proclamations by president
+  //   "Trump EOs", "Trump executive orders", "Biden's EOs 2023"
+  //   "executive orders by Obama", "Trump proclamations"
+  m = lower.match(/^(.+?)'?s?\s+(?:eos|executive orders?|proclamations?|directives?)(?:\s+(\d{4}))?$/)
+    || lower.match(/^(?:eos|executive orders?|proclamations?|directives?)\s+(?:by|signed by|from)\s+(.+?)(?:\s+(?:in\s+)?(\d{4}))?$/)
+  if (m) return { intent: "executive_orders_by", subjectName: m[1].trim(), extra: { year: m[2] } }
+
+  // Phase 2: Offshore holdings
+  //   "offshore holdings of Apple", "shell companies linked to Blackstone"
+  //   "Apple offshore", "panama papers Apple"
+  m = lower.match(/^offshore\s+(?:holdings?|entities|records?|exposure)\s+(?:of|for|linked to)\s+(.+?)$/)
+    || lower.match(/^shell\s+compan(?:y|ies)\s+(?:of|for|linked to)\s+(.+?)$/)
+    || lower.match(/^(.+?)\s+offshore(?:\s+(?:holdings?|records?|exposure))?$/)
+    || lower.match(/^(?:panama|paradise|pandora)\s+papers?\s+(.+?)$/)
+  if (m) return { intent: "offshore_for", subjectName: m[1] }
 
   // Leaderboards (no subject entity, just an aggregate)
   if (/^top\s+(donors|givers|funders)($|\s+overall)/.test(lower)) return { intent: "leaderboard", extra: { topic: "top_donors" } }
@@ -2175,6 +2212,85 @@ async function handleQuestion(question: string): Promise<AskResult> {
     const bio = findBioguide(name.title)
     if (!bio) return finalize({ question, intent: c.intent, resolved_title: name.title, did_you_mean: name.candidates.slice(0, 5), total: 0, rows: [], note: `No bioguide-id found for "${name.title}".` })
     return finalize(showVotingRecord(bio, name.title, question))
+  }
+
+  // Phase 2 intents — policy-dimension queries backed by the three
+  // new query-engine subjects.
+  if (c.intent === "bills_sponsored_by") {
+    const name = resolveTitle(c.subjectName as string)
+    const bio = findBioguide(name.title)
+    if (!bio) return finalize({ question, intent: c.intent, resolved_title: name.title, did_you_mean: name.candidates.slice(0, 5), total: 0, rows: [], note: `No bioguide-id found for "${name.title}".` })
+    const r = await engine.query({ subject: "bills", filters: { sponsor_bioguide: bio, limit: 50 } })
+    const enacted = (r.rows as Array<Record<string, unknown>>).filter((b) => b.became_law).length
+    const summary = `${name.title} sponsored ${r.total} bills${enacted > 0 ? ` (${enacted} enacted into law)` : ''} across the 108th–119th Congress.`
+    return finalize({ question, intent: c.intent, resolved_title: name.title, total: r.total, rows: r.rows, summary })
+  }
+
+  if (c.intent === "bills_in_policy") {
+    const topic = (c.extra as any)?.topic as string | undefined
+    if (!topic) return finalize({ question, intent: c.intent, total: 0, rows: [], note: "No policy topic parsed." })
+    // Map short topic keywords to full policyArea names used in bills.jsonl.
+    const POLICY_MAP: Record<string, string> = {
+      health: "Health",
+      energy: "Energy",
+      taxation: "Taxation",
+      defense: "Armed Forces and National Security",
+      environment: "Environmental Protection",
+      environmental: "Environmental Protection",
+      agriculture: "Agriculture and Food",
+      agricultural: "Agriculture and Food",
+      labor: "Labor and Employment",
+      transportation: "Transportation and Public Works",
+      housing: "Housing and Community Development",
+      immigration: "Immigration",
+      finance: "Finance and Financial Sector",
+      banking: "Finance and Financial Sector",
+      crypto: "Finance and Financial Sector",
+      tech: "Science, Technology, Communications",
+      technology: "Science, Technology, Communications",
+    }
+    const policy = POLICY_MAP[topic.toLowerCase()] || topic
+    const r = await engine.query({ subject: "bills", filters: { policy_area: policy, limit: 100 } })
+    return finalize({ question, intent: c.intent, total: r.total, rows: r.rows, summary: `${r.total} bills introduced in policy area "${policy}" (108th–119th Congress).` })
+  }
+
+  if (c.intent === "executive_orders_by") {
+    const subj = (c.subjectName as string || "").trim()
+    // Map common forms: "trump" / "Donald Trump" / "DJT" → "Trump" etc.
+    const PRES_MAP: Record<string, string> = {
+      trump: "Trump", "donald trump": "Trump", djt: "Trump",
+      biden: "Biden", "joe biden": "Biden",
+      obama: "Obama", "barack obama": "Obama",
+      "g.w. bush": "G.W. Bush", "george w bush": "G.W. Bush", "george w. bush": "G.W. Bush", "w bush": "G.W. Bush",
+      clinton: "Clinton", "bill clinton": "Clinton",
+    }
+    const pres = PRES_MAP[subj.toLowerCase()] || subj
+    const year = (c.extra as any)?.year
+    const filters: Record<string, unknown> = { president: pres, limit: 100 }
+    if (year) filters.year = year
+    const r = await engine.query({ subject: "executive_actions", filters })
+    const rows = r.rows as Array<Record<string, unknown>>
+    const byType: Record<string, number> = {}
+    for (const row of rows) { const t = String(row.type || "other"); byType[t] = (byType[t] || 0) + 1 }
+    const breakdown = Object.entries(byType).map(([t, n]) => `${n} ${t}`).join(", ")
+    return finalize({ question, intent: c.intent, resolved_title: pres, total: r.total, rows: r.rows, summary: `${pres}: ${r.total} presidential actions${year ? ` in ${year}` : ''} (${breakdown}).` })
+  }
+
+  if (c.intent === "offshore_for") {
+    const name = resolveTitle(c.subjectName as string)
+    const r = await engine.query({ subject: "offshore_entities", filters: { linked_vault_entity: name.title, limit: 100 } })
+    const rows = r.rows as Array<Record<string, unknown>>
+    if (r.total === 0) {
+      return finalize({ question, intent: c.intent, resolved_title: name.title, total: 0, rows: [], note: `${name.title} does not appear in the ICIJ Offshore Leaks Database records we track. (That's either because they're genuinely not in the leaks, OR because the name-matching heuristic didn't catch a variant spelling.)` })
+    }
+    const leaks = new Set<string>()
+    const jurisdictions = new Set<string>()
+    for (const row of rows) {
+      if (row.sourceID) leaks.add(String(row.sourceID))
+      if (row.jurisdiction) jurisdictions.add(String(row.jurisdiction))
+    }
+    const summary = `${name.title} appears in ${r.total} ICIJ Offshore Leaks records across ${leaks.size} leak source${leaks.size === 1 ? '' : 's'} (${[...leaks].slice(0, 4).join(', ')})${jurisdictions.size > 0 ? `; top jurisdictions: ${[...jurisdictions].slice(0, 4).join(', ')}` : ''}. Appearing in these files does not imply wrongdoing.`
+    return finalize({ question, intent: c.intent, resolved_title: name.title, total: r.total, rows: r.rows, summary })
   }
   if (c.intent === "leaderboard") return finalize(await handleLeaderboard(c, question, engine))
   if (c.intent === "money_chain") return finalize(await handleMoneyChain(c, question))

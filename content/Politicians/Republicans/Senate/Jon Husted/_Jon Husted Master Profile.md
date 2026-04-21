@@ -119,7 +119,7 @@ urls-first-triaged: "2026-04-15"
 - senate 119/1: 651 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 4):**
+**Most recent party-line deviations (top 4 of 4):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

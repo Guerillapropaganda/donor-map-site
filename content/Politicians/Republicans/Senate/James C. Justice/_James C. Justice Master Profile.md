@@ -68,7 +68,7 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 - senate 119/1: 657 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 2):**
+**Most recent party-line deviations (top 2 of 2):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
