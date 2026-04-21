@@ -223,6 +223,65 @@ function classifyTransaction(row) {
   };
 }
 
+// ─── Edge role taxonomy (shared across every handler) ─────────────────
+// Every monetary edge carries a `role` field assigned by the ingester.
+// These sets are the ONE place in the codebase that defines what each
+// role means for downstream aggregation. Handlers must import and use
+// these predicates — never inline `e.role !== "ie-oppose"` style filters,
+// which treat operating-expense (vendor payments) + employee-contributions
+// (aggregates) as "support" and produce wildly inflated or inverted totals.
+//
+// Incident trail this prevents:
+//   - AOC's "who funds them" showed $239K (100x low) because individual
+//     contributions were filtered out and opposition-named PACs slipped
+//     into the support list.
+//   - Kerry showed up as a cross-party donor ($164M) via operating-expense
+//     to media-buying vendors.
+//   - Fidelity Investments showed $6.4B in cross-party TOTAL from
+//     operating-expense noise.
+//   - DSCC polarity inverted: $179M ie-oppose against Republicans was
+//     credited as $179M of R spending.
+
+// Roles that represent the donor supporting the recipient politically.
+const POLITICAL_SUPPORT_ROLES = new Set([
+  'direct-contribution',
+  'ie-support',
+  'coordinated-party-expense',
+  'party-coordinated',
+]);
+
+// Roles that represent money spent AGAINST the recipient.
+const POLITICAL_OPPOSE_ROLES = new Set([
+  'ie-oppose',
+]);
+
+// All political roles (support OR oppose). Cross-party analysis, donor
+// totals, leaderboards, and similar aggregations should start here.
+const POLITICAL_ROLES = new Set([
+  ...POLITICAL_SUPPORT_ROLES,
+  ...POLITICAL_OPPOSE_ROLES,
+]);
+
+// Non-political roles — vendor payments, employee-aggregate reporting,
+// internal transfers. Never count these in "support" totals.
+const OPERATIONAL_ROLES = new Set([
+  'operating-expense',
+  'employee-contributions',
+]);
+
+function isSupport(edge) {
+  return edge && edge.type === 'monetary' && POLITICAL_SUPPORT_ROLES.has(edge.role);
+}
+function isOppose(edge) {
+  return edge && edge.type === 'monetary' && POLITICAL_OPPOSE_ROLES.has(edge.role);
+}
+function isPolitical(edge) {
+  return edge && edge.type === 'monetary' && POLITICAL_ROLES.has(edge.role);
+}
+function isOperational(edge) {
+  return edge && edge.type === 'monetary' && OPERATIONAL_ROLES.has(edge.role);
+}
+
 module.exports = {
   TXN_TYPES,
   SUPER_PAC_PREFIXES,
@@ -231,4 +290,12 @@ module.exports = {
   committeeClass,
   looksLikeJFC,
   classifyTransaction,
+  POLITICAL_SUPPORT_ROLES,
+  POLITICAL_OPPOSE_ROLES,
+  POLITICAL_ROLES,
+  OPERATIONAL_ROLES,
+  isSupport,
+  isOppose,
+  isPolitical,
+  isOperational,
 };

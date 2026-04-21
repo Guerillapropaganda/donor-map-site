@@ -1286,6 +1286,36 @@ function showVotingRecord(bioguide: string, title: string, question: string): As
   }
 }
 
+// ─── Edge role taxonomy ──────────────────────────────────────────────
+// MIRROR of scripts/lib/fec-txn-types.cjs. The CJS file is the authority
+// (imported by every Node script + the query engine); this TS copy is
+// duplicated here because bundling a CJS module into Next.js route
+// handlers is flaky. If you change one, change the other.
+//
+// Why this matters: before centralizing these, six handlers used
+// `e.role !== "ie-oppose"` as the "support" filter — which silently
+// counted operating-expense (vendor payments) and employee-contributions
+// as political support. That produced AOC $239K (100x low), Kerry as a
+// cross-party donor via vendor expenses, and Fidelity Investments with
+// $6.4B in inflated cross-party TOTAL.
+const POLITICAL_SUPPORT_ROLES = new Set<string>([
+  "direct-contribution",
+  "ie-support",
+  "coordinated-party-expense",
+  "party-coordinated",
+])
+const POLITICAL_OPPOSE_ROLES = new Set<string>(["ie-oppose"])
+const POLITICAL_ROLES = new Set<string>([...POLITICAL_SUPPORT_ROLES, ...POLITICAL_OPPOSE_ROLES])
+function isSupport(e: any): boolean {
+  return !!e && e.type === "monetary" && POLITICAL_SUPPORT_ROLES.has(e.role)
+}
+function isOppose(e: any): boolean {
+  return !!e && e.type === "monetary" && POLITICAL_OPPOSE_ROLES.has(e.role)
+}
+function isPolitical(e: any): boolean {
+  return !!e && e.type === "monetary" && POLITICAL_ROLES.has(e.role)
+}
+
 // ─── Helpers ─────────────────────────────────────────────────────────
 
 function stripQW(s: string): string {
@@ -1503,11 +1533,13 @@ async function handleEdgeBetween(c: ClassifiedQuestion, question: string, engine
   const affiliationForward = forward.filter((e: any) => e.type === "affiliation")
   const affiliationReverse = reverse.filter((e: any) => e.type === "affiliation")
   // Split support vs opposition on each direction so we don't describe
-  // attack spending as "direct flows."
-  const fwdSupport = monetaryForward.filter((e: any) => e.role !== "ie-oppose")
-  const fwdOppose = monetaryForward.filter((e: any) => e.role === "ie-oppose")
-  const revSupport = monetaryReverse.filter((e: any) => e.role !== "ie-oppose")
-  const revOppose = monetaryReverse.filter((e: any) => e.role === "ie-oppose")
+  // attack spending as "direct flows." Uses the shared role taxonomy;
+  // the previous `role !== "ie-oppose"` filter silently counted
+  // operating-expense + employee-contributions as "support."
+  const fwdSupport = monetaryForward.filter(isSupport)
+  const fwdOppose = monetaryForward.filter(isOppose)
+  const revSupport = monetaryReverse.filter(isSupport)
+  const revOppose = monetaryReverse.filter(isOppose)
   const fwdTotal = fwdSupport.reduce((acc: number, e: any) => acc + Number(e.amount), 0)
   const revTotal = revSupport.reduce((acc: number, e: any) => acc + Number(e.amount), 0)
   const fwdOpposeTotal = fwdOppose.reduce((acc: number, e: any) => acc + Number(e.amount), 0)
@@ -1598,15 +1630,16 @@ async function handleSummary(c: ClassifiedQuestion, question: string, engine: an
   const inflowsRaw = await engine.query({ subject: "edges", filters: { to: name, type: "monetary" }, limit: 2000 })
   const outflows = await engine.query({ subject: "edges", filters: { from: name, type: "monetary" }, limit: 2000 })
 
-  // Split support vs opposition. The role field carries "ie-support" /
-  // "ie-oppose" on independent-expenditure edges. Without it, an
-  // opposition ad-spend super-PAC (American Crossroads $78M "against"
-  // Raphael Warnock) will otherwise surface as a top donor.
+  // Split support vs opposition using the shared role taxonomy. The
+  // prior `role !== "ie-oppose"` pattern counted vendor payments and
+  // employee-contribution aggregates as "donors" — responsible for
+  // the AOC $239K-total bug where individual contributions were
+  // filtered out entirely.
   const inflows = {
-    total: inflowsRaw.rows.filter((e: any) => e.role !== "ie-oppose").length,
-    rows: inflowsRaw.rows.filter((e: any) => e.role !== "ie-oppose"),
+    total: inflowsRaw.rows.filter(isSupport).length,
+    rows: inflowsRaw.rows.filter(isSupport),
   }
-  const oppoEdges = inflowsRaw.rows.filter((e: any) => e.role === "ie-oppose")
+  const oppoEdges = inflowsRaw.rows.filter(isOppose)
   const oppoTotal = oppoEdges.filter((e: any) => e.amount).reduce((a: number, e: any) => a + Number(e.amount), 0)
   const affiliations_from = await engine.query({ subject: "edges", filters: { from: name, type: "affiliation" }, limit: 20 })
   const affiliations_to = await engine.query({ subject: "edges", filters: { to: name, type: "affiliation" }, limit: 20 })
@@ -1883,8 +1916,8 @@ async function handleCompare(c: ClassifiedQuestion, question: string, engine: an
     const inflowsRaw = await engine.query({ subject: "edges", filters: { to: name, type: "monetary" }, limit: 2000 })
     const outflows = await engine.query({ subject: "edges", filters: { from: name, type: "monetary" }, limit: 2000 })
     const affOut = await engine.query({ subject: "edges", filters: { from: name, type: "affiliation" }, limit: 20 })
-    const inflows = inflowsRaw.rows.filter((e: any) => e.role !== "ie-oppose")
-    const oppo = inflowsRaw.rows.filter((e: any) => e.role === "ie-oppose")
+    const inflows = inflowsRaw.rows.filter(isSupport)
+    const oppo = inflowsRaw.rows.filter(isOppose)
     const totalIn = inflows.filter((e: any) => e.amount).reduce((s: number, e: any) => s + Number(e.amount), 0)
     const totalOut = outflows.rows.filter((e: any) => e.amount).reduce((s: number, e: any) => s + Number(e.amount), 0)
     const totalAttack = oppo.filter((e: any) => e.amount).reduce((s: number, e: any) => s + Number(e.amount), 0)
@@ -2901,9 +2934,10 @@ async function handleQuestion(question: string): Promise<AskResult> {
     const filtered = allEdges.filter((e: any) => e.from !== e.to)
     const r = { total: filtered.length, rows: filtered }
     // Split IE-support vs IE-oppose: super-PAC ads "opposing" X are not
-    // donors TO X. The edge.role field carries ie-support / ie-oppose.
-    const supporters = r.rows.filter((e: any) => e.role !== "ie-oppose")
-    const opposers = r.rows.filter((e: any) => e.role === "ie-oppose")
+    // donors TO X. Uses the shared role taxonomy so vendor payments and
+    // employee aggregates don't leak into the supporter count.
+    const supporters = r.rows.filter(isSupport)
+    const opposers = r.rows.filter(isOppose)
     const rows = [...supporters].sort((a: any, b: any) => (b.amount || 0) - (a.amount || 0)).slice(0, 50)
     const total$ = rows.filter((e: any) => e.amount).reduce((acc: number, e: any) => acc + (Number(e.amount) || 0), 0)
     const oppose$ = opposers.filter((e: any) => e.amount).reduce((acc: number, e: any) => acc + (Number(e.amount) || 0), 0)
@@ -2995,10 +3029,11 @@ async function handleQuestion(question: string): Promise<AskResult> {
 
     const top5 = rows.filter((e: any) => e.amount).slice(0, 5)
     // Split ie-oppose vs ie-support vs direct: a super-PAC's top "recipient"
-    // is often a politician they spent AGAINST, not one they funded. Frame
-    // the outflow accurately.
-    const supportEdges = rows.filter((e: any) => e.role !== "ie-oppose" && e.amount)
-    const opposeEdges = rows.filter((e: any) => e.role === "ie-oppose" && e.amount)
+    // is often a politician they spent AGAINST, not one they funded. Uses
+    // the shared role taxonomy — vendor payments and employee aggregates
+    // are excluded from both sides.
+    const supportEdges = rows.filter((e: any) => isSupport(e) && e.amount)
+    const opposeEdges = rows.filter((e: any) => isOppose(e) && e.amount)
     const supportTotal = supportEdges.reduce((a: number, e: any) => a + Number(e.amount), 0)
     const opposeTotal = opposeEdges.reduce((a: number, e: any) => a + Number(e.amount), 0)
     const answer =
