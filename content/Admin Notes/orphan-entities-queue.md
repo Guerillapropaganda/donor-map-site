@@ -17,14 +17,14 @@ _Regenerate: `node scripts/audit-orphan-entities.cjs` — last run 2026-04-21._
 
 | Bucket | Count | Meaning |
 |---|---:|---|
-| **promote** | 25218 | Editorially-interesting orgs (≥$1M flow or ≥5 edges). **These are the ones to review.** |
-| federal | 295 | Federal agencies as USAspending contract counterparties. Contextual, not editorial subjects. |
-| committee | 2450 | FEC committee names already tied to their politician (e.g. "X FOR CONGRESS"). Already covered via politician profile. |
-| person | 904750 | Individual donor names from FEC itemization. Not profile-worthy unless they're significant. |
+| **promote** | 24987 | Editorially-interesting orgs (≥$1M flow or ≥5 edges). **These are the ones to review.** |
+| federal | 286 | Federal agencies as USAspending contract counterparties. Contextual, not editorial subjects. |
+| committee | 2383 | FEC committee names already tied to their politician (e.g. "X FOR CONGRESS"). Already covered via politician profile. |
+| person | 904565 | Individual donor names from FEC itemization. Not profile-worthy unless they're significant. |
 | narrative | 271 | Vault story-page wikilinks that leaked into the graph as edge targets. Fix at ingest; don't promote. |
-| lowflow | 979930 | Orgs with <$1M and <5 edges — below the editorial threshold. |
+| lowflow | 978473 | Orgs with <$1M and <5 edges — below the editorial threshold. |
 
-**Total orphan names**: 1,912,914
+**Total orphan names**: 1,910,965
 
 ---
 
@@ -34,40 +34,28 @@ _Regenerate: `node scripts/audit-orphan-entities.cjs` — last run 2026-04-21._
 |---|---:|---:|---:|---|
 | GMMB INC. | 7 | $703.4M | — / $703.4M | fec-oppexp |
 | GMMB | 29 | $454.6M | $20K / $454.6M | fec-indiv-by-committee, fec-oppexp |
-| FUTURE FORWARD USA ACTION | 2 | $344.6M | $344.6M / — | fec-indiv-by-committee |
 | AFSCME International | 2 | $287.7M | $283.2M / $4.4M | irs-pofd-8872 |
 | STRATEGIC MEDIA SERVICES, INC. | 15 | $284.0M | — / $284.0M | fec-oppexp |
-| Michael R. Bloomberg | 20 | $267.4M | $267.4M / — | fec-indiv-by-committee |
 | BULLY PULPIT INTERACTIVE LLC | 8 | $262.0M | $58K / $262.0M | fec-indiv-by-committee, fec-oppexp |
 | BUYING TIME LLC | 10 | $254.5M | — / $254.5M | fec-oppexp |
 | GMMB INC | 4 | $242.1M | — / $242.1M | fec-oppexp |
 | SCREEN STRATEGIES MEDIA | 40 | $234.7M | — / $234.7M | fec-oppexp |
-| MAJORITY FORWARD | 6 | $221.0M | $221.0M / — | discovery-scanner, fec-indiv-by-committee |
-| ONE NATION | 1 | $190.0M | $190.0M / — | fec-indiv-by-committee |
 | Richard E. Uihlein | 26 | $179.8M | $179.8M / — | fec-indiv-by-committee |
 | GRASSROOTS MEDIA | 10 | $178.0M | — / $178.0M | fec-oppexp |
-| Miriam Dr. Adelson | 56 | $175.3M | $175.3M / — | fec-indiv-by-committee |
-| AMERICAN ACTION NETWORK | 3 | $171.9M | $171.9M / — | fec-indiv-by-committee |
 | TARGETED VICTORY | 90 | $169.0M | $2.0M / $167.0M | fec-indiv-by-committee, fec-oppexp |
-| EMPOWER PARENTS PAC | 3 | $165.2M | $165.0M / $204K | fec-indiv-by-committee, fec-oppexp |
+| EMPOWER PARENTS PAC | 2 | $165.2M | $165.0M / $204K | fec-indiv-by-committee, fec-oppexp |
 | Association Nea Advocacy Fund | 2 | $160.1M | $160.1M / — | fec-indiv-by-committee |
 | GRASSROOTS MEDIA, LLC | 2 | $153.2M | — / $153.2M | fec-oppexp |
-| Kenneth C. Griffin | 33 | $146.6M | $146.6M / — | fec-indiv-by-committee |
-| Kenneth C. Mr. Griffin | 24 | $145.0M | $145.0M / — | fec-indiv-by-committee |
 | GAMBIT STRATEGIES LLC | 6 | $140.7M | $35K / $140.7M | fec-indiv-by-committee, fec-oppexp |
 | . National Association Of Realto | 2 | $136.7M | $136.7M / — | fec-indiv-by-committee |
 | BUYING TIME, LLC | 15 | $132.8M | — / $132.8M | fec-oppexp |
 | SKDKNICKERBOCKER LLC | 20 | $126.8M | $25K / $126.8M | fec-indiv-by-committee, fec-oppexp |
 | DUPONT CIRCLE STRATEGIES LLC | 1 | $122.0M | — / $122.0M | fec-oppexp |
 | MH MEDIA LLC | 2 | $121.1M | — / $121.1M | fec-oppexp |
-| Inc. League Of Conservation Voters | 3 | $118.4M | $118.4M / — | fec-indiv-by-committee |
 | ONMESSAGE INC. | 33 | $117.3M | — / $117.3M | fec-oppexp |
 | NEXUS DIRECT | 10 | $114.5M | $10K / $114.5M | fec-indiv-by-committee, fec-oppexp |
 | ONMESSAGE INC | 10 | $112.8M | — / $112.8M | fec-oppexp |
-| WINRED | 59 | $109.8M | $109.8M / — | fec-indiv-by-committee |
-| Stephen A. Schwarzman | 29 | $109.4M | $109.4M / — | fec-indiv-by-committee |
 | RISING TIDE INTERACTIVE | 11 | $106.4M | $99K / $106.3M | fec-indiv-by-committee, fec-oppexp |
-| Dustin A Moskovitz | 1 | $100.2M | $100.2M / — | fec-indiv-by-committee |
 | LEFT HOOK | 16 | $98.4M | — / $98.4M | fec-oppexp |
 | PAYCHEX | 104 | $97.6M | — / $97.6M | fec-oppexp |
 | GUSTO | 99 | $95.1M | — / $95.1M | fec-oppexp |
@@ -75,7 +63,6 @@ _Regenerate: `node scripts/audit-orphan-entities.cjs` — last run 2026-04-21._
 | TARGETED VICTORY LLC | 43 | $90.4M | $355K / $90.1M | fec-indiv-by-committee, fec-oppexp |
 | Sheldon G. Mr. Adelson | 22 | $88.8M | $88.8M / — | fec-indiv-by-committee |
 | CANAL PARTNERS MEDIA | 24 | $86.7M | $14K / $86.7M | fec-indiv-by-committee, fec-oppexp |
-| Stephen A. Mr. Schwarzman | 24 | $84.7M | $84.7M / — | fec-indiv-by-committee |
 | OLD TOWNE MEDIA INC | 1 | $83.0M | — / $83.0M | fec-oppexp |
 | Empower Parents PAC | 1 | $82.5M | $82.5M / — | irs-pofd-8872 |
 | ADP | 69 | $82.5M | $1K / $82.5M | fec-indiv-by-committee, fec-oppexp, irs-pofd-8872 |
@@ -94,8 +81,6 @@ _Regenerate: `node scripts/audit-orphan-entities.cjs` — last run 2026-04-21._
 | ANNE LEWIS STRATEGIES, LLC | 21 | $60.0M | — / $60.0M | fec-oppexp |
 | AMALGAMATED BANK | 21 | $58.9M | $54.7M / $4.2M | fec-indiv-by-committee, fec-oppexp |
 | James H. Simons | 14 | $58.5M | $58.5M / — | fec-indiv-by-committee |
-| KOCH INDUSTRIES INC. | 2 | $58.3M | $58.3M / — | fec-indiv-by-committee |
-| Jeff Mr. Yass | 9 | $55.9M | $55.9M / — | fec-indiv-by-committee |
 | RWT PRODUCTION LLC | 11 | $55.6M | — / $55.6M | fec-oppexp |
 | MENTZER MEDIA SERVICES, INC. | 7 | $55.5M | — / $55.5M | fec-oppexp |
 | DEMOCRACY PAC | 15 | $55.5M | $55.5M / — | fec-indiv-by-committee |
@@ -106,7 +91,6 @@ _Regenerate: `node scripts/audit-orphan-entities.cjs` — last run 2026-04-21._
 | AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE | 1 | $51.5M | $51.5M / — | fec-indiv-by-committee |
 | Paul Elliott Singer | 6 | $50.2M | $50.2M / — | fec-indiv-by-committee |
 | PAYROLL DATA PROCESSING | 38 | $49.9M | $44K / $49.9M | fec-indiv-by-committee, fec-oppexp |
-| RESTORATION PAC | 4 | $49.9M | $49.9M / — | fec-indiv-by-committee |
 | GPS IMPACT | 30 | $48.7M | $64K / $48.6M | fec-indiv-by-committee, fec-oppexp |
 | SOUTHWEST PUBLISHING | 30 | $48.0M | — / $48.0M | fec-oppexp |
 | PRIORITIES USA | 3 | $46.9M | $46.9M / — | fec-indiv-by-committee |
@@ -115,9 +99,7 @@ _Regenerate: `node scripts/audit-orphan-entities.cjs` — last run 2026-04-21._
 | CONVERGING MEDIA INC | 1 | $45.2M | — / $45.2M | fec-oppexp |
 | STAND TOGETHER CHAMBER OF COMMERCE | 1 | $44.8M | $44.8M / — | fec-indiv-by-committee |
 | Joint Victory Campaign 2004 | 2 | $44.5M | $44.5M / — | irs-pofd-8872 |
-| SIXTEEN THIRTY FUND | 17 | $43.5M | $43.5M / — | fec-indiv-by-committee |
-| Rick Gov. Scott | 1 | $42.9M | $42.9M / — | fec-indiv-by-committee |
-| Robert T. Bigelow | 4 | $42.0M | $42.0M / — | fec-indiv-by-committee |
+| Robert T. Bigelow | 3 | $42.0M | $42.0M / — | fec-indiv-by-committee |
 | WORKING FOR WORKING AMERICANS - FEDERAL | 1 | $41.5M | $41.5M / — | fec-indiv-by-committee |
 | MAVERICK MEDIA INC | 1 | $41.4M | — / $41.4M | fec-oppexp |
 | S. Donald Sussman | 136 | $41.2M | $41.2M / — | fec-indiv-by-committee |
@@ -129,11 +111,29 @@ _Regenerate: `node scripts/audit-orphan-entities.cjs` — last run 2026-04-21._
 | Samuel Bankman-fried | 57 | $40.0M | $40.0M / — | fec-indiv-by-committee |
 | STRATEGIC MEDIA PLACEMENT | 22 | $39.6M | — / $39.6M | fec-oppexp |
 | THE LUKENS COMPANY | 58 | $38.8M | — / $38.8M | fec-oppexp |
-| Charles R. Schwab | 27 | $38.7M | $38.7M / — | fec-indiv-by-committee |
 | SMART MEDIA GROUP, LLC | 15 | $38.7M | — / $38.7M | fec-oppexp |
 | AUTHENTIC CAMPAIGNS | 22 | $38.1M | — / $38.1M | fec-oppexp |
+| CONEXION INC | 1 | $38.1M | — / $38.1M | fec-oppexp |
+| AI Deregulation Super PAC - Leading the Future | 10 | $37.5M | — / $37.5M | discovery-scanner, frontmatter-migration, fec-individual-bulk |
+| WIN CREATIVE LLC | 5 | $37.4M | — / $37.4M | fec-oppexp |
+| STRATEGIC MEDIA PLACEMENT INC. | 17 | $35.7M | — / $35.7M | fec-oppexp |
+| MIDDLE SEAT | 25 | $35.6M | — / $35.6M | fec-oppexp |
+| MOTHERSHIP STRATEGIES | 26 | $35.5M | $9K / $35.5M | fec-indiv-by-committee, fec-oppexp |
+| HILLARY VICTORY FUND | 2 | $35.5M | $35.4M / $119K | fec-indiv-by-committee, fec-oppexp |
+| Inc. Foris Dax | 1 | $35.0M | $35.0M / — | fec-indiv-by-committee |
+| Warren A. Stephens | 46 | $34.9M | $34.9M / — | fec-indiv-by-committee |
+| CMDI | 40 | $34.8M | — / $34.8M | fec-oppexp |
+| AX MEDIA LLC | 3 | $34.7M | — / $34.7M | fec-oppexp |
+| GREATER NEW YORK HOSPITAL ASSOCIATION MANAGEMENT CORPORATION | 1 | $34.0M | $34.0M / — | fec-indiv-by-committee |
+| SEIU GENERAL FUND | 2 | $33.9M | $33.9M / — | fec-indiv-by-committee |
+| AX MEDIA | 20 | $33.8M | — / $33.8M | fec-oppexp |
+| MVAR MEDIA LLC | 14 | $33.5M | $2K / $33.5M | fec-indiv-by-committee, fec-oppexp |
+| MENTZER MEDIA SERVICES | 10 | $33.2M | $19K / $33.2M | fec-indiv-by-committee, fec-oppexp |
+| ENVIRONMENTAL DEFENSE ACTION FUND | 4 | $33.1M | $33.1M / — | fec-indiv-by-committee |
+| TRUXTON CREATIVE LLC | 1 | $32.9M | — / $32.9M | fec-oppexp |
+| RED BEACON STRATEGIES, LLC | 8 | $32.8M | — / $32.8M | fec-oppexp |
 
-_(25118 more below threshold; re-run with a cutoff to see more)_
+_(24887 more below threshold; re-run with a cutoff to see more)_
 
 ---
 
@@ -164,13 +164,13 @@ _(25118 more below threshold; re-run with a cutoff to see more)_
 | Department of Housing and Urban Development | 14 | $119.1M |
 | Federal Communications Commission | 18 | $113.3M |
 | Federal Trade Commission | 3 | $71.1M |
-| NATIONAL EDUCATION ASSOCIATION | 6 | $49.8M |
 | Nuclear Regulatory Commission | 9 | $39.1M |
-| National Association Of Realtors | 1 | $24.6M |
-| NATIONAL ASSOCIATION OF REALTORS | 3 | $19.2M |
-| NATIONAL NURSES UNITED | 6 | $17.3M |
 | Small Business Administration | 3 | $15.6M |
 | NATIONAL RIGHT TO LIFE COMMITTEE | 5 | $10.1M |
+| NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC | 11 | $9.9M |
+| DEPARTMENT OF THE TREASURY | 28 | $5.7M |
+| DEPARTMENT OF TREASURY | 5 | $5.1M |
+| NATIONAL ASSOCIATION OF LETTER CARRIERS OF U.S.A. POLITICAL FUND | 1 | $3.5M |
 
 ---
 
