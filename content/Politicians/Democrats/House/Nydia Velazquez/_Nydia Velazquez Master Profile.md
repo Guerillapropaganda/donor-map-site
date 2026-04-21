@@ -2,7 +2,7 @@
 title: Nydia Velazquez
 type: politician
 bioguide-id: V000081
-content-readiness: draft
+content-readiness: data-complete
 central-thesis: Nydia Velazquez is the Small Business Committee's institutional memory — 30+ years focused on SBA lending, minority business access, and federal contracting for small firms. Her donor profile is modest by congressional standards and dominated by r...
 last-updated: "2026-04-05"
 source-tier: 1
@@ -20,11 +20,11 @@ total-received: $180,257
 fec-candidate-id: H2NY00010
 source-types:
   - Congress
-  - FEC
 corroboration-count: 2
 known-gaps:
-  - No voting record data
-  - No mapped relationships
+  - "No FEC contribution data"
+  - "No voting record data"
+  - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 50
 bills-cosponsored: 564

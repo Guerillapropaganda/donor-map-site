@@ -242,8 +242,8 @@ function diagnoseDataCompleteFailures(data, content, sourceTypes, tier1Count) {
     }
   }
 
-  // 2. Connections
-  if (!(data.related || data.donors || data.opposes)) {
+  // 2. Connections — canonical first, frontmatter cache fallback
+  if (!hasCanonicalConnection(data) && !(data.related || data.donors || data.opposes)) {
     failures.push('noConnections');
   }
 
@@ -279,9 +279,63 @@ const PUBLISHABLE_TYPES = new Set([
   'donor', 'corporation', 'pac', 'think-tank', 'lobbying-firm',
 ]);
 
+/**
+ * Participants in any canonical edge (from data/relationships.jsonl).
+ *
+ * Per CLAUDE.md rule 1, relationships.jsonl is the source of truth. The
+ * frontmatter `related` / `donors` / `opposes` fields are rebuilt
+ * caches. Previously the classifier only checked the cache, so profiles
+ * with canonical edges but a stale cache failed the hasConnections gate.
+ * ADR-0017 says the tier signals "data exists in canonical stores" —
+ * querying canonical directly is the correct behavior.
+ *
+ * Lazy-loaded + memoized so the module stays cheap when imported by
+ * other scripts that don't need this set.
+ */
+let _participants = null;
+function getCanonicalParticipants() {
+  if (_participants) return _participants;
+  const out = new Set();
+  const storePath = path.join(__dirname, '..', 'data', 'relationships.jsonl');
+  if (!fs.existsSync(storePath)) {
+    _participants = out;
+    return out;
+  }
+  const lines = fs.readFileSync(storePath, 'utf-8').split(/\r?\n/);
+  for (const line of lines) {
+    if (!line) continue;
+    try {
+      const e = JSON.parse(line);
+      if (e.status && e.status !== 'active') continue;
+      if (e.from) out.add(String(e.from).trim().toLowerCase());
+      if (e.to) out.add(String(e.to).trim().toLowerCase());
+    } catch {
+      // skip bad lines — data integrity audit covers it
+    }
+  }
+  _participants = out;
+  return out;
+}
+
+function hasCanonicalConnection(data) {
+  const participants = getCanonicalParticipants();
+  if (!participants.size) return false;
+  const title = String(data.title || '').trim().toLowerCase();
+  if (title && participants.has(title)) return true;
+  // Try common aliases in frontmatter if present
+  const aliases = Array.isArray(data.aliases) ? data.aliases : [];
+  for (const alias of aliases) {
+    if (typeof alias === 'string' && participants.has(alias.trim().toLowerCase())) return true;
+  }
+  return false;
+}
+
 function classifyProfile(data, body, content, sourceTypes, tier1Count) {
   const bodyLength = body.length;
-  const hasConnections = !!(data.related || data.donors || data.opposes);
+  // ADR-0017: canonical store first (rule 1), frontmatter cache as fallback.
+  const hasConnections =
+    hasCanonicalConnection(data) ||
+    !!(data.related || data.donors || data.opposes);
   const lastEnriched = data['last-enriched'];
   const hasHumanSignoff = data['last-verified-by'] === 'editorial';
   const hasUnresolvedContradictions = hasContradictions(content);
