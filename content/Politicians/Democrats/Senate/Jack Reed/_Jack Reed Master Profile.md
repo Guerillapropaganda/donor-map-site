@@ -1,7 +1,7 @@
 ---
 title: Jack Reed
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: Jack Reed is the military-industrial complex's most credentialed Democrat. West Point, Army Ranger, 82nd Airborne, Harvard Kennedy School, Harvard Law — the CV is impeccable. He parlayed it into the Senate's most important defense position, where ...
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
@@ -46,6 +46,12 @@ urls-first-triaged: "2026-04-15"
 bills-enacted: 0
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: Health
+source-types:
+  - Congress
+  - GovTrack
+corroboration-count: 2
+known-gaps:
+  - "No FEC contribution data"
 ---
 
 

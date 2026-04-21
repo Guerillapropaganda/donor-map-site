@@ -1,7 +1,7 @@
 ---
 title: Gary Peters
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: Peters is the Democratic Party's quiet operator , a former Wall Street investment advisor who became the party's Senate fundraising chief while chairing the committee that oversees the homeland security and cybersecurity industries. His 22-year ca...
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -39,12 +39,11 @@ stock-trade-tickers:
   - TOT
   - GIS
 source-types:
-  - FEC
+  - Congress
   - GovTrack
 corroboration-count: 2
 known-gaps:
-  - No legislative record from Congress.gov
-  - No mapped relationships
+  - "No FEC contribution data"
 related: "[[_Debbie Stabenow Master Profile|Debbie Stabenow]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Brian Schatz Master Profile|Brian Schatz]]"
 donors: "[[AFGE - American Federation of Government Employees]] · [[Insurance Industry]] · [[Real Estate Industry]] · [[Defense Industry]] · [[American Action Network]] · [[UAW - United Auto Workers]] · [[Blue Shield of California]] · [[Johnson & Johnson]] · [[Pfizer Inc.]] · [[AT&T - WarnerMedia]] · [[Tyson Foods]] · [[McDonalds Corporation]] · [[L3Harris Technologies]] · [[Lockheed Martin]] · [[BAE Systems]] · [[Votevets]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Google - Alphabet]] · [[Amgen Inc]] · [[General Motors]] · [[National Association of Realtors]] · [[AbbVie]] · [[American Hospital Association PAC]] · [[Citigroup]] · [[Microsoft]] · [[Performance Racing Inc.]] · [[Northrop Grumman]] · [[iHeartMedia]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[American College of Radiology Association PAC]] · [[Raytheon (RTX)]] · [[American Gaming Association]] · [[Senate Conservatives Fund]] · [[Anthem - Elevance Health]] · [[Care Action]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[Honeywell]] · [[Morgan Stanley]] · [[Leidos]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[Planned Parenthood Votes]] · [[American Chemistry Council, INC]] · [[PG&E - Pacific Gas and Electric]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[AT&T]] · [[Honeywell International]]"
 bills-enacted: 15

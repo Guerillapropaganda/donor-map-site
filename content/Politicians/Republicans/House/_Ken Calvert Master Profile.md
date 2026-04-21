@@ -1,7 +1,7 @@
 ---
 title: Ken Calvert
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -24,7 +24,7 @@ total-received: $4,493,644
 fec-candidate-id: H2CA37023
 last-enriched: "2026-04-08"
 source-types:
-  - DOJ
+  - Congress
   - FEC
   - GovTrack
 corroboration-count: 3

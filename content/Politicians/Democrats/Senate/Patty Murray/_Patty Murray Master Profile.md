@@ -2,7 +2,7 @@
 title: Patty Murray
 type: politician
 bioguide-id: M001111
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: "Patty Murray exemplifies the unsexy, unglamorous accumulation of structural power in the Senate: appropriations control, committee seniority, and the ability to direct billions of dollars to home-state industries. Unlike dramatic figures who draw ..."
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
@@ -53,6 +53,12 @@ bills-cosponsored: 6339
 bills-enacted: 2
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: Health
+source-types:
+  - Congress
+  - GovTrack
+corroboration-count: 2
+known-gaps:
+  - "No FEC contribution data"
 ---
 
 

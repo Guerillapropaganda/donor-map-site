@@ -2,7 +2,7 @@
 title: Mike Lee
 type: politician
 bioguide-id: L000577
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: Lee's donor base is the Federalist Society network, Club for Growth ($554K career, top contributor), Koch-aligned libertarians, and Wall Street firms seeking judicial capture and statutory rollback of corporate accountability. His constitutional l...
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
@@ -34,6 +34,11 @@ bills-cosponsored: 287
 bills-enacted: 0
 top-policy-area: Health
 last-enriched: 2026-04-20
+source-types:
+  - Congress
+known-gaps:
+  - "No FEC contribution data"
+  - "No voting record data"
 ---
 
 

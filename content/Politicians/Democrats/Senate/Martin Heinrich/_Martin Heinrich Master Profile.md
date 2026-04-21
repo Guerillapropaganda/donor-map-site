@@ -1,7 +1,7 @@
 ---
 title: Martin Heinrich
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: Heinrich is the nuclear weapons complex's senator , an engineer who started his career inside the weapons labs, built his committee portfolio around the agencies that fund them, and has doubled their budgets. New Mexico's economy is structurally d...
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -26,13 +26,11 @@ phone: 202-224-5521
 fec-candidate-id: S2NM00088
 last-enriched: "2026-04-08"
 source-types:
-  - DOJ
-  - FEC
+  - Congress
   - GovTrack
-corroboration-count: 3
+corroboration-count: 2
 known-gaps:
-  - No legislative record from Congress.gov
-  - No mapped relationships
+  - "No FEC contribution data"
 related: "[[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Jeanne Shaheen Master Profile|Jeanne Shaheen]]"
 donors: "[[Bill Gates]] · [[American Petroleum Institute]] · [[Tech Industry]] · [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]] · [[Raytheon (RTX Corporation)]] · [[Defense Industry]] · [[ENVIRONMENT AMERICA INC]] · [[American Future Fund]] · [[Environment America INC]] · [[Republican Campaign Committee of New Mexico]] · [[Duke Energy]] · [[Google - Alphabet]] · [[AbbVie]] · [[Performance Racing Inc.]] · [[American College of Radiology Association PAC]] · [[Northrop Grumman]] · [[314 ACTION FUND]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[NextEra Energy]] · [[iHeartMedia]] · [[National Wildlife Federation Action Fund]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[Raytheon (RTX)]] · [[National Multifamily Housing Council]] · [[Pfizer Inc.]] · [[PG&E - Pacific Gas and Electric]] · [[Tyson Foods]] · [[Lockheed Martin]] · [[AT&T - WarnerMedia]] · [[L3Harris Technologies]] · [[Sierra Club Political Committee]] · [[Citigroup]] · [[Amgen Inc]] · [[Walmart - Walton Family]] · [[Bechtel Corporation]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Occidental Petroleum]] · [[Humana]] · [[Anthem - Elevance Health]] · [[Puget Sound Energy INC PAC for Good Government]] · [[Leidos]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[American Hospital Association PAC]] · [[NEA Fund for Children and Public Education]] · [[Johnson & Johnson]] · [[SEIU COPE]] · [[BAE Systems]] · [[Microsoft]] · [[McDonalds Corporation]] · [[General Motors]] · [[Coinbase]] · [[J Street]] · [[National Association of Realtors]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Care Action]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[Let America Vote PAC]] · [[Bank of America]] · [[Sierra Club Independent Action]] · [[League of Conservation Voters]] · [[General Dynamics]] · [[Honeywell]] · [[Giffords PAC]] · [[Everytown for Gun Safety]] · [[Comcast - NBCUniversal]] · [[ConocoPhillips]] · [[TikTok - ByteDance]] · [[BlackRock]] · [[Blackstone Group]] · [[Enterprise Products Partners]] · [[CBRE Group]] · [[Boeing]] · [[Kaiser Permanente]] · [[Nvidia]] · [[DoorDash]] · [[Ford Motor Company]] · [[OpenAI]] · [[Center for American Progress]] · [[Oracle]] · [[a16z - Andreessen Horowitz]] · [[Amazon]] · [[Palantir Technologies]] · [[Apple]] · [[Goldman Sachs]] · [[PG&E]] · [[Anduril Industries]] · [[Tesla - Elon Musk Political Operation]] · [[Meta - Facebook]] · [[Honeywell International]] · [[Morgan Stanley]] · [[AT&T]] · [[SpaceX]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Wells Fargo]] · [[Sixteen Thirty Fund]] · [[314 Action Fund]] · [[American Federation of State County & Municipal Employees  P E O P L E]] · [[DCCC - Democratic Congressional Campaign Committee]]"
 bills-enacted: 0

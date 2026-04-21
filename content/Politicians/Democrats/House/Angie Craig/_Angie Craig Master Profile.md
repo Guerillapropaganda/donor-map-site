@@ -2,7 +2,7 @@
 title: Angie Craig
 type: politician
 bioguide-id: C001119
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: Craig is the medical device industry's graduate in Congress , a former St. Jude Medical vice president and PAC director who entered politics in the district where the industry is headquartered, then used swing-district survival skills to climb to ...
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -20,13 +20,11 @@ total-received: $6,788,377
 fec-candidate-id: S6MN00499
 last-enriched: "2026-04-08"
 source-types:
-  - DOJ
-  - FEC
+  - Congress
 corroboration-count: 2
 known-gaps:
-  - No legislative record from Congress.gov
-  - No voting record data
-  - No mapped relationships
+  - "No FEC contribution data"
+  - "No voting record data"
 related: "[[_Debbie Stabenow Master Profile|Debbie Stabenow]]"
 donors: "[[Republican Jewish Coalition]] · [[Center Forward Committee]] · [[DMFI PAC]] · [[NORTH STAR DAWN PAC]] · [[BLUE MAJORITY PROJECT]] · [[Clear Voice Minnesota]] · [[North Star Dawn PAC]] · [[Blue Majority Project]] · [[DMFI - Democratic Majority for Israel]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Nancy Pelosi]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Pete Aguilar]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Bank of America]] · [[EQUALITY PROJECT PAC]] · [[Coinbase]] · [[OpenAI]] · [[Google - Alphabet]] · [[Microsoft]] · [[Boeing]] · [[Apple]] · [[Johnson & Johnson]] · [[Tenet Healthcare]] · [[Oracle]] · [[Monsanto - Bayer]] · [[a16z - Andreessen Horowitz]] · [[General Dynamics]] · [[Airbnb]] · [[AbbVie]] · [[UnitedHealth Group - Optum]] · [[Lockheed Martin]] · [[Meta - Facebook]] · [[Comcast - NBCUniversal]] · [[FTX - Sam Bankman-Fried]] · [[Americas Pac]] · [[Wells Fargo]] · [[CVS Health - Aetna]] · [[AT&T]] · [[Amazon]] · [[Starbucks]] · [[ADM - Archer Daniels Midland]] · [[Blue Shield of California]] · [[National Education Association]] · [[Cargill]] · [[Verizon]] · [[Goldman Sachs]] · [[Cigna Group]] · [[News Corp - Fox Corporation]] · [[Kaiser Permanente]] · [[Morgan Stanley]] · [[Ripple]] · [[Tesla - Elon Musk Political Operation]] · [[Everytown for Gun Safety]] · [[Walmart]] · [[Open Society Foundations]] · [[Business Roundtable]] · [[DCCC - Democratic Congressional Campaign Committee]] · [[iHeartMedia]] · [[BlackRock]] · [[Uber]] · [[Citadel - Kenneth Griffin]] · [[Fidelity Investments]] · [[Nvidia]] · [[Equality Project PAC]]"
 urls-first-triaged: "2026-04-15"

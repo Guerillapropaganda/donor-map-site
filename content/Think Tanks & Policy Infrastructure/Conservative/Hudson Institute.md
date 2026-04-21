@@ -1,7 +1,7 @@
 ---
 title: "Hudson Institute"
 type: think-tank
-content-readiness: ready
+content-readiness: data-complete
 last-updated: 2026-04-12
 source-tier: 1
 parent: null

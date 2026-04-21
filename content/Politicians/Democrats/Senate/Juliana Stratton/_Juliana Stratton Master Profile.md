@@ -3,7 +3,7 @@ title: "Juliana Stratton"
 type: state-politician
 current-office: "Lieutenant Governor of Illinois (2019–present)"
 candidate-for: "US Senate 2026 (IL, Democratic primary)"
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: "Stratton's political identity is built on dual narratives of grassroots progressivism and executive proximity to the Pritzker billionaire network. She positions herself as a criminal justice reformer opposed to corporate influence in politics, yet the 2026 primary proved that one billionaire's $5M check — not grassroots fundraising — purchased the Democratic nomination."
 last-updated: 2026-04-16
 editorial-notes: "[Research Claude 2026-04-16] Added Class Analysis section. Demoted ready→draft per vault rule (CA was missing). Removed 3 body inline fields (office::, state::, party::). Ready to re-promote once David reviews."
@@ -21,6 +21,7 @@ internal-notes: "[JANITOR 2026-04-11] Bioguide contamination cleared by fix-biog
 urls-first-triaged: "2026-04-15"
 source-types:
   - Congress
+
 ---
 
 

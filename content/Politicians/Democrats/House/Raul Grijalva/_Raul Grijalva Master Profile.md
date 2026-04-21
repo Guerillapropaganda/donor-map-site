@@ -1,7 +1,7 @@
 ---
 title: Raul Grijalva
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: Raul Grijalva was the extractive industry's adversary on the Natural Resources Committee — funded by environmental organizations, labor unions, and small donors rather than the mining, oil, and timber companies his committee regulates. He spent tw...
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
@@ -41,6 +41,12 @@ last-enriched: "2026-04-11"
 bioguide-id: G000606
 urls-first-triaged: "2026-04-15"
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+source-types:
+  - Congress
+  - GovTrack
+corroboration-count: 2
+known-gaps:
+  - "No FEC contribution data"
 ---
 
 

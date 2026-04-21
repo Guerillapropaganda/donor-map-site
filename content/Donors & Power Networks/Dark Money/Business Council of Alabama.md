@@ -1,7 +1,7 @@
 ---
 title: Business Council of Alabama
 type: donor
-content-readiness: ready
+content-readiness: data-complete
 last-updated: 2026-04-09T00:00:00.000Z
 source-tier: 2
 parent: null
@@ -40,6 +40,12 @@ employee-contributions: 4
 employee-contributions-total: 4000
 employee-donor-count: 3
 politicians-funded: "[[_Mike Rogers Master Profile]], [[WinRed]], [[Mike Rogers]]"
+source-types:
+  - Courts
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

@@ -2,7 +2,7 @@
 title: Cathy McMorris Rodgers
 type: politician
 bioguide-id: M001159
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: "Cathy McMorris Rodgers was the #1 corporate PAC recipient in the entire House of Representatives , $3 million in corporate PAC money in the 2020 cycle alone, 40% more than any other House member. As Energy & Commerce Committee chair (2023–2022), s..."
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1

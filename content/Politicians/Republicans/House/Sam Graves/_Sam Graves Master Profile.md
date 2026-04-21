@@ -2,7 +2,7 @@
 title: Sam Graves
 type: politician
 bioguide-id: G000546
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: "Sam Graves chairs the largest committee in Congress , and every industry it regulates funds his campaigns. OpenSecrets data shows Graves as the #1 recipient of contributions from airlines, trucking, railroads, and air transport in the 2022 cycle, ..."
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -20,11 +20,10 @@ total-received: $1,448,379
 fec-candidate-id: H0MO06073
 source-types:
   - Congress
-  - FEC
 corroboration-count: 2
 known-gaps:
-  - No voting record data
-  - No mapped relationships
+  - "No FEC contribution data"
+  - "No voting record data"
 related: "[[_Donald Trump Master Profile|Trump]]"
 top-donors: "[[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]] · [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]] · [[ASSOCIATED GENERAL CONTRACTORS OF AMERICA POLITICAL ACTION COMMITTEE]] · [[Associated General Contractors of America Political Action Committee]]"
 donors: "[[Associated General Contractors of America Political Action Committee]] · [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]] · [[ASSOCIATED GENERAL CONTRACTORS OF AMERICA POLITICAL ACTION COMMITTEE]] · [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]] · [[AT&T - WarnerMedia]] · [[Marathon Petroleum]] · [[Occidental Petroleum]] · [[General Dynamics]] · [[Honeywell]] · [[Valero Energy]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Nucor Corporation]] · [[Leidos]] · [[Northrop Grumman]] · [[Walmart - Walton Family]] · [[Ford Motor Company]] · [[American Hospital Association PAC]] · [[National Cattlemen's Beef Association]] · [[Chevron]] · [[National Multifamily Housing Council]] · [[L3Harris Technologies]] · [[Comcast - NBCUniversal]] · [[BAE Systems]] · [[Tyson Foods]] · [[National Rifle Association]] · [[Lockheed Martin]] · [[Performance Racing Inc.]] · [[WinRed]] · [[PG&E - Pacific Gas and Electric]] · [[National Association of Realtors]] · [[American Chemistry Council, INC]] · [[ConocoPhillips]] · [[Raytheon (RTX)]] · [[AIPAC - American Israel Public Affairs Committee]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[ADM - Archer Daniels Midland]] · [[General Motors]] · [[MAJORITY PAC]] · [[National Association of Manufacturers]] · [[Lyft]] · [[Honeywell International]] · [[AT&T]] · [[Majority PAC]] · [[NRCC - National Republican Congressional Committee]]"

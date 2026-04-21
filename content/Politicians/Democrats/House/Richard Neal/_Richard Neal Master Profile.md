@@ -1,7 +1,7 @@
 ---
 title: Richard Neal
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: Richard Neal's congressional career is the institutional mechanism by which the insurance and pharmaceutical industries prevented American healthcare reform for 35 years. His job was never to pass legislation advancing working-class healthcare int...
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -28,12 +28,11 @@ bills-cosponsored: 96
 website: https://neal.house.gov
 phone: 202-225-5601
 source-types:
-  - FEC
+  - Congress
   - GovTrack
 corroboration-count: 2
 known-gaps:
-  - No legislative record from Congress.gov
-  - No mapped relationships
+  - "No FEC contribution data"
 related: "[[_Nancy Pelosi Master Profile]] · [[_Chuck Schumer Master Profile]] · [[_Elizabeth Warren Master Profile]] · [[MassMutual]] · [[Fidelity Investments]] · [[Blue Cross Blue Shield Association|Blue Cross Blue Shield]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[The Ways and Means Chair and TCJA Extension]]"
 donors: "[[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[Fidelity Investments]] · [[Ohio Democratic Party]] · [[NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE]] · [[MassMutual]] · [[AMERICAN HOSPITAL ASSOCIATION PAC]] · [[INDIVISIBLE ACTION]] · [[American Hospital Association PAC]] · [[Fight Corporate Monopolies]] · [[Justice Democrats PAC]] · [[Comcast - NBCUniversal]] · [[Amgen Inc]] · [[McDonalds Corporation]] · [[Bank of America]] · [[General Dynamics]] · [[AT&T - WarnerMedia]] · [[Bechtel Corporation]] · [[Duke Energy]] · [[Ford Motor Company]] · [[General Motors]] · [[Associated General Contractors of America Political Action Committee]] · [[Teamsters - International Brotherhood of Teamsters]] · [[National Restaurant Association]] · [[NEA Fund for Children and Public Education]] · [[SEIU COPE]] · [[Walmart - Walton Family]] · [[NextEra Energy]] · [[Google - Alphabet]] · [[CVS Health - Aetna]] · [[AbbVie]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[National Association of Realtors]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[National Multifamily Housing Council]] · [[American Gaming Association]] · [[American College of Radiology Association PAC]] · [[Johnson & Johnson]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[UA Political Action Committee]] · [[Nucor Corporation]] · [[Lockheed Martin]] · [[Tenet Healthcare]] · [[Morgan Stanley]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Microsoft]] · [[Pfizer Inc.]] · [[Honeywell]] · [[ADM - Archer Daniels Midland]] · [[Humana]] · [[Leidos]] · [[Tyson Foods]] · [[Citigroup]] · [[Gilead Sciences]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[National Committee to Preserve Social Security PAC]] · [[Raytheon (RTX)]] · [[Valero Energy]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Care Action]] · [[J Street]] · [[Performance Racing Inc.]] · [[Anthem - Elevance Health]] · [[National Association of Manufacturers]] · [[iHeartMedia]] · [[Puget Sound Energy INC PAC for Good Government]] · [[Northrop Grumman]] · [[Honeywell International]] · [[AT&T]] · [[American Federation of State County & Municipal Employees  P E O P L E]]"
 urls-first-triaged: "2026-04-15"

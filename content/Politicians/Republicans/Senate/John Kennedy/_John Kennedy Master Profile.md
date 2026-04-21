@@ -1,7 +1,7 @@
 ---
 title: John Kennedy
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: Kennedy's folksy populist brand disguises a conventional Louisiana energy-state voting record and a Banking Committee position that serves Wall Street's deregulatory agenda. His committee hearing performances , sharp questioning, memorable soundbi...
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
@@ -35,6 +35,12 @@ donors: "[[Goldman Sachs]], [[ExxonMobil]], [[Koch Industries]], [[ConocoPhillip
 bills-enacted: 1
 top-policy-area: Finance and Financial Sector
 last-enriched: 2026-04-20
+source-types:
+  - Congress
+  - GovTrack
+corroboration-count: 2
+known-gaps:
+  - "No FEC contribution data"
 ---
 
 

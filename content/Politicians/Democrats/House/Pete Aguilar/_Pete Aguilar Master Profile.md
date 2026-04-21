@@ -1,7 +1,7 @@
 ---
 title: Pete Aguilar
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: "Pete Aguilar represents the Democratic Party's leadership pipeline: moderate enough for donors, diverse enough for the base, loyal enough for leadership. His rise from a Southern California inland district to the third-ranking House Democrat illus..."
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -39,6 +39,11 @@ bills-cosponsored: 1823
 bills-enacted: 1
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: Government Operations and Politics
+source-types:
+  - Congress
+known-gaps:
+  - "No FEC contribution data"
+  - "No voting record data"
 ---
 
 

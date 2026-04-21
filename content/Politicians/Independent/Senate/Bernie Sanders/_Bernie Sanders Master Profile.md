@@ -1,7 +1,7 @@
 ---
 title: Bernie Sanders
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: "Sanders is the vault's exception , the politician who built a funding model independent of the donor class and ran it at presidential scale. Twice. The exception proves the rule: the institutional Democratic Party mobilized every available mechani..."
 last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
@@ -35,15 +35,13 @@ top-donors:
   - IBEW , International Brotherhood of Electrical Workers
   - Small-dollar individual donors (8.7M unique donations in 2020, avg $19–21)
 source-types:
+  - Congress
   - FEC
-corroboration-count: 1
+corroboration-count: 2
 needs-reenrichment: true
 reenrich-reason: Congress + GovTrack enrichment never populated; bioguide-id S000033 just added so pipeline can now look him up
 known-gaps:
-  - Congress.gov legislative record not yet populated (bioguide-id S000033 added 2026-04-10; awaits next pipeline run)
-  - GovTrack voting record not yet populated (awaits pipeline run)
-  - FEC auto-block shows cycle 2006 with $4,189 raised , stale data; 2016 presidential ($237M) and 2020 presidential ($250M+) cycles not yet surfaced in auto-block
-  - Sub-notes (Anti-Donor Model, Medicare for All, AIPAC Progressive Purge, Senate Labor Record) referenced in body but not yet linked as sub-profiles
+  - "No voting record data"
 related: "[[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Rashida Tlaib Master Profile|Tlaib]] · [[_Ilhan Omar Master Profile|Omar]] · [[_Cori Bush Master Profile|Cori Bush]] · [[_Jamaal Bowman Master Profile|Jamaal Bowman]] · [[_Summer Lee Master Profile|Summer Lee]] · [[Justice Democrats and Brand New Congress - The Infrastructure He Built|Justice Democrats]] · [[CNA - California Nurses Association]] · [[SEIU - Service Employees International Union]] · [[Teamsters - International Brotherhood of Teamsters]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[AIPAC - American Israel Public Affairs Committee]] · [[DMFI - Democratic Majority for Israel]] · [[Koch Network - Charles Koch]] · [[Michael Bloomberg]] · [[ActBlue]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[Blue Shield of California]] · [[AIPAC Buys Progressive Cover for Bipartisan Israel Policy]] · [[Crypto Industry Buys Both Parties in One Cycle]] · [[Jeff Merkley]] · [[Graham Platner Master Profile]] · [[Warren-Sanders Unity and the Schumer Machine]] · [[Abdul El-Sayed Master Profile]] · [[Michigan Senate Primary and the Progressive Proxy War]] · [[Ro Khanna]] · [[Pramila Jayapal]] · [[Amy Acton]] · [[The Labor Coalition and What Unions Expect]] · [[The Healthcare Platform and the Insurance Industry Question]]"
 opposes:
   - AIPAC (Israel lobby spending, progressive primary purges)

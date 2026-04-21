@@ -1,7 +1,7 @@
 ---
 title: Democracy Alliance
 type: donor
-content-readiness: ready
+content-readiness: data-complete
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 2
 parent: null
@@ -27,6 +27,10 @@ urls-first-triaged: "2026-04-15"
 employee-contributions: 43
 employee-contributions-total: 13266
 employee-donor-count: 25
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

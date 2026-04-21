@@ -1,7 +1,7 @@
 ---
 title: Judicial Crisis Network
 type: donor
-content-readiness: ready
+content-readiness: data-complete
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -38,6 +38,11 @@ urls-first-triaged: "2026-04-15"
 employee-contributions: 1
 employee-contributions-total: 250
 employee-donor-count: 1
+source-types:
+  - Courts
+  - FEC
+  - LDA
+corroboration-count: 3
 ---
 
 

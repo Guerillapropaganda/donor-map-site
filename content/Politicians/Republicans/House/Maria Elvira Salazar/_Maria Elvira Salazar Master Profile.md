@@ -1,7 +1,7 @@
 ---
 title: Maria Elvira Salazar
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: Salazar is the public face of Miami's Cuba hawks in the House , the communicator who translates the Fanjul/exile donor agenda into populist, identity-driven rhetoric for the Cuban-American base. While Diaz-Balart wields Appropriations power and Ru...
 last-updated: 2026-04-18T00:00:00.000Z
 needs-reenrichment: true
@@ -53,6 +53,7 @@ bills-data-scope: Career total synced from auto:congress-legislation (Congress.g
 top-policy-area: International Affairs
 source-types:
   - Congress
+
 ---
 
 

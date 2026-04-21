@@ -1,7 +1,7 @@
 ---
 title: American Iron and Steel Institute
 type: donor
-content-readiness: ready
+content-readiness: data-complete
 last-updated: 2026-04-17T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -61,6 +61,14 @@ urls-first-triaged: "2026-04-15"
 employee-contributions: 3
 employee-contributions-total: 1000
 employee-donor-count: 3
+source-types:
+  - Congress
+  - Courts
+  - FEC
+  - SEC
+corroboration-count: 4
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

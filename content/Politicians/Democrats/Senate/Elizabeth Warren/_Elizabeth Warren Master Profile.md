@@ -1,7 +1,7 @@
 ---
 title: Elizabeth Warren
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -37,15 +37,13 @@ total-received: $3,079,771
 stock-trades: 1
 last-enriched: "2026-04-11"
 source-types:
-  - FEC
+  - Congress
 corroboration-count: 1
 needs-reenrichment: true
 reenrich-reason: "Congress + GovTrack enrichment never populated; bioguide-id W000817 just added so pipeline can now look her up. Also: source-types previously listed DOJ which was a false-positive from the engine scan , removed."
 known-gaps:
-  - Congress.gov legislative record not yet populated (bioguide-id W000817 added 2026-04-10; awaits next pipeline run)
-  - GovTrack voting record not yet populated (awaits pipeline run)
-  - CFPB dismantlement timeline under Trump II needs complete cataloging (partially documented)
-  - Wealth tax proposal votes and co-sponsor retreat pattern needs full enumeration
+  - "No FEC contribution data"
+  - "No voting record data"
 related: ">- · [[DOGE - The Billionaires Government]] · [[Katie Porter Master Profile]] · [[The Warren Pipeline - Consumer Protection to Governor]] · [[Fairshake and the Crypto Industry War]] · [[Bernie Sanders]] · [[The Anti-Donor Model - Two Presidential Campaigns]] · [[Medicare for All - The Policy That Broke the Party]] · [[Zach Wahls]] · [[Mallory McMorrow Master Profile]] · [[Jeff Merkley]] · [[Graham Platner Master Profile]] · [[Warren-Sanders Unity and the Schumer Machine]] · [[Debbie Stabenow]] · [[Chris Coons]] · [[Brian Schatz]] · [[Michigan Senate Primary and the Progressive Proxy War]] · [[Nancy Pelosi]] · [[Crossroads Grassroots Policy Strategies]]"
 opposes: "[[_Donald Trump Master Profile]] · [[Fairshake PAC]] · [[Kenneth Griffin]] · [[Crypto Industry Bloc]]"
 editorial-review-date: "2026-04-10"

@@ -2,7 +2,7 @@
 title: James Lankford
 type: politician
 bioguide-id: L000575
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: "James Lankford is the pastor-senator from oil country , a Baptist minister who chairs the Ethics Committee while his largest career donor sector (content-readiness: ready.5 million+) is the oil and gas industry that dominates his state's economy. On the Finance Committ..."
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
@@ -39,6 +39,11 @@ bills-enacted: 2
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: International Affairs
 last-enriched: 2026-04-20
+source-types:
+  - Congress
+known-gaps:
+  - "No FEC contribution data"
+  - "No voting record data"
 ---
 
 

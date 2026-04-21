@@ -1,7 +1,7 @@
 ---
 title: Chris Coons
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: Coons is Big Pharma's man in the Senate , Jacobin's phrase, but the evidence is structural. Delaware is home to DuPont, AstraZeneca, and the corporate incorporation industry that shelters more than 1.8 million business entities. Coons's committee ...
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
@@ -32,13 +32,12 @@ fec-candidate-id: S0DE00092
 bioguide-id: C001088
 source-types:
   - Congress
-  - FEC
   - GovTrack
-corroboration-count: 3
+corroboration-count: 2
 needs-reenrichment: true
 reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified): C001088. Next pipeline run should populate Congress.gov + GovTrack auto-blocks with correct data."
 known-gaps:
-  - No mapped relationships
+  - "No FEC contribution data"
 last-enriched: "2026-04-11"
 related: "[[_Joe Biden Master Profile|Joe Biden]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Jeanne Shaheen]]"
 committees:
