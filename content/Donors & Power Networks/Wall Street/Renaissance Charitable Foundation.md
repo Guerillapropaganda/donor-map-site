@@ -1,7 +1,7 @@
 ---
 title: "Renaissance Charitable Foundation"
 type: donor
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-18
 sector: "Wall Street"
 entity-type: "Donor-Advised Fund"

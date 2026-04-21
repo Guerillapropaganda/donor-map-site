@@ -1,7 +1,7 @@
 ---
 title: Tom Barrett
 type: politician
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Republican
@@ -17,9 +17,9 @@ website: https://barrett.house.gov
 phone: 202-225-4872
 source-types:
   - Congress
+  - GovTrack
 known-gaps:
   - "No FEC contribution data"
-  - "No voting record data"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 top-donors: "[[Chevron]], [[Bank of America]], [[Koch Network - Charles Koch]], [[Anduril Industries]], [[Kelcy Warren - Energy Transfer Partners]], [[CVS Health - Aetna]], [[Kaiser Permanente]], [[General Motors]], [[Ford Motor Company]], [[UPS]], [[Oracle]], [[Charles Schwab]], [[Blackstone Group]], [[CBRE Group]], [[GEO Group - Private Prison Industrial Complex]]"
@@ -33,6 +33,7 @@ committees:
   - "House Committee on Veterans' Affairs"
   - Technology Modernization
 bills-sponsored: 32
+corroboration-count: 2
 ---
 
 

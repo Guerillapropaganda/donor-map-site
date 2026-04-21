@@ -1,7 +1,7 @@
 ---
 title: "ClimateWorks Foundation"
 type: donor
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-18
 sector: "Dark Money"
 entity-type: "501(c)(3)"

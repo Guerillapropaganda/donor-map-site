@@ -2,18 +2,17 @@
 title: Ryan Zinke
 type: politician
 bioguide-id: Z000018
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Republican
 chamber: Secretary of the Interior (2017-2019)
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
 source-types:
   - Congress
+  - FEC
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4MT01041
 top-donors: "[[Hmp]], [[National Association of Realtors]], [[National Rifle Association]], [[NRCC - National Republican Congressional Committee]], [[Associated General Contractors of America Political Action Committee]], [[Jim Jordan]], [[Byron Donalds]], [[Comcast - NBCUniversal]], [[WinRed]], [[AT&T - WarnerMedia]], [[Ron Estes]], [[ConocoPhillips]], [[Leidos]], [[Anthem - Elevance Health]], [[PRIORITIES USA ACTION]], [[CoreCivic - Private Prisons]], [[Vern Buchanan]], [[Walmart - Walton Family]], [[Michael Waltz]], [[Congressional Leadership Fund]], [[Austin Scott]], [[Raytheon (RTX)]], [[Halliburton]], [[Honeywell]], [[American Conservative Union]], [[Google - Alphabet]], [[Alliance Coal, LLC PAC]], [[Hunter Action Fund (haf)]], [[Campaign for Working Families]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Rick W. Allen]], [[Devon Energy]], [[Cliff Bentz]], [[Occidental Petroleum]], [[Chevron]], [[Planned Parenthood Votes]], [[Freedom's Defense Fund]], [[Ben Cline]], [[L3Harris Technologies]], [[League of Conservation Voters]], [[Jason Smith]], [[Joe Wilson]], [[David Rouzer]], [[NextEra Energy]], [[Americans for Prosperity]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Amgen Inc]], [[Kevin Kiley]], [[Brad Knott]], [[Pete Sessions]], [[HMP]], [[Priorities USA Action]], [[Honeywell International]], [[AT&T]]"
@@ -29,6 +28,7 @@ committees:
 total-raised: "$27.3M"
 career-total-source: "FEC weball summary (cycles 2014, 2016, 2018, 2022, 2024)"
 bills-sponsored: 46
+corroboration-count: 2
 ---
 
 

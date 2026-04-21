@@ -2,18 +2,17 @@
 title: Marcia Fudge
 type: politician
 bioguide-id: F000455
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Democrat
 chamber: Secretary of HUD (2021-2024)
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
 source-types:
   - Congress
+  - FEC
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H8OH11141
 top-donors: "[[Planned Parenthood Votes]], [[Amazon]], [[Meta - Facebook]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[American Gaming Association]], [[US CHAMBER OF COMMERCE]], [[Cigna Group]], [[Cargill]], [[US Chamber of Commerce]]"
@@ -21,6 +20,7 @@ last-enriched: 2026-04-21
 total-raised: "$4.8M"
 career-total-source: "FEC weball summary (cycles 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2026)"
 bills-sponsored: 87
+corroboration-count: 2
 ---
 
 

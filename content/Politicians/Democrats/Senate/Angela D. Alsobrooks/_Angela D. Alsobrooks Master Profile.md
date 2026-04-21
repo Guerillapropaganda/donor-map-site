@@ -1,7 +1,7 @@
 ---
 title: "Angela D. Alsobrooks"
 type: politician
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-12
 source-tier: 1
 party: "Democrat"
@@ -16,9 +16,9 @@ website: "https://www.alsobrooks.senate.gov"
 phone: "202-224-4524"
 source-types:
   - Congress
+  - GovTrack
 known-gaps:
   - "No FEC contribution data"
-  - "No voting record data"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21
@@ -35,6 +35,7 @@ committees:
   - Senate Special Committee on Aging
   - Transportation and Infrastructure
 bills-sponsored: 24
+corroboration-count: 2
 ---
 
 

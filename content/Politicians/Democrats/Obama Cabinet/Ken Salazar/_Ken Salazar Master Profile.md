@@ -2,24 +2,24 @@
 title: "Ken Salazar"
 type: politician
 bioguide-id: S001163
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-12
 source-tier: 1
 party: "Democrat"
 chamber: "Secretary of the Interior (2009-2013)"
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
 source-types:
   - Congress
+  - FEC
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "S4CO00163"
 last-enriched: 2026-04-21
 total-raised: "$13.5M"
 career-total-source: "FEC weball summary (cycles 2004, 2006, 2008, 2010, 2012, 2014, 2016)"
 bills-sponsored: 99
+corroboration-count: 2
 ---
 
 

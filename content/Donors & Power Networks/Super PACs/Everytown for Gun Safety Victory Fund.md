@@ -1,7 +1,7 @@
 ---
 title: Everytown for Gun Safety Victory Fund
 type: donor
-content-readiness: draft
+content-readiness: data-complete
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC

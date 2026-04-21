@@ -280,37 +280,46 @@ const PUBLISHABLE_TYPES = new Set([
 ]);
 
 /**
- * Participants in any canonical edge (from data/relationships.jsonl).
+ * Participants in any canonical edge.
  *
- * Per CLAUDE.md rule 1, relationships.jsonl is the source of truth. The
- * frontmatter `related` / `donors` / `opposes` fields are rebuilt
- * caches. Previously the classifier only checked the cache, so profiles
- * with canonical edges but a stale cache failed the hasConnections gate.
- * ADR-0017 says the tier signals "data exists in canonical stores" —
- * querying canonical directly is the correct behavior.
+ * Per CLAUDE.md rule 1, canonical stores are the source of truth. Frontmatter
+ * cache fields (`related` / `donors` / `opposes`) are caches rebuilt from
+ * stores. The `hasConnections` gate checks canonical first, cache second.
  *
- * Lazy-loaded + memoized so the module stays cheap when imported by
- * other scripts that don't need this set.
+ * Multi-store scan (2026-04-21): `relationships.jsonl` holds related /
+ * story-link / political-opposition edges (~68k). Monetary edges live in
+ * `data/derived/` — fec-bulk (PAC cycle summaries), fec-pas2 (PAC→candidate),
+ * fec-individual-bulk (individual→committee), irs-990-bulk (nonprofit grants).
+ * All four derived stores share the from/to edge shape. Combined coverage
+ * adds ~101k monetary edges the classifier previously missed.
+ *
+ * Lazy-loaded + memoized.
  */
 let _participants = null;
 function getCanonicalParticipants() {
   if (_participants) return _participants;
   const out = new Set();
-  const storePath = path.join(__dirname, '..', 'data', 'relationships.jsonl');
-  if (!fs.existsSync(storePath)) {
-    _participants = out;
-    return out;
-  }
-  const lines = fs.readFileSync(storePath, 'utf-8').split(/\r?\n/);
-  for (const line of lines) {
-    if (!line) continue;
-    try {
-      const e = JSON.parse(line);
-      if (e.status && e.status !== 'active') continue;
-      if (e.from) out.add(String(e.from).trim().toLowerCase());
-      if (e.to) out.add(String(e.to).trim().toLowerCase());
-    } catch {
-      // skip bad lines — data integrity audit covers it
+  const dataDir = path.join(__dirname, '..', 'data');
+  const stores = [
+    path.join(dataDir, 'relationships.jsonl'),
+    path.join(dataDir, 'derived', 'fec-bulk.jsonl'),
+    path.join(dataDir, 'derived', 'fec-pas2.jsonl'),
+    path.join(dataDir, 'derived', 'fec-individual-bulk.jsonl'),
+    path.join(dataDir, 'derived', 'irs-990-bulk.jsonl'),
+  ];
+  for (const storePath of stores) {
+    if (!fs.existsSync(storePath)) continue;
+    const lines = fs.readFileSync(storePath, 'utf-8').split(/\r?\n/);
+    for (const line of lines) {
+      if (!line) continue;
+      try {
+        const e = JSON.parse(line);
+        if (e.status && e.status !== 'active') continue;
+        if (e.from) out.add(String(e.from).trim().toLowerCase());
+        if (e.to) out.add(String(e.to).trim().toLowerCase());
+      } catch {
+        // skip bad lines — data integrity audit covers it
+      }
     }
   }
   _participants = out;

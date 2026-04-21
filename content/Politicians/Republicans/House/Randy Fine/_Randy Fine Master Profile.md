@@ -1,7 +1,7 @@
 ---
 title: Randy Fine
 type: politician
-content-readiness: draft
+content-readiness: data-complete
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Republican
@@ -17,9 +17,9 @@ website: https://fine.house.gov
 phone: 202-225-2706
 source-types:
   - Congress
+  - FEC
+  - GovTrack
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H6FL06258
@@ -36,6 +36,7 @@ committees:
 total-raised: "$3.7M"
 career-total-source: "FEC weball summary (cycles 2026)"
 bills-sponsored: 24
+corroboration-count: 3
 ---
 
 

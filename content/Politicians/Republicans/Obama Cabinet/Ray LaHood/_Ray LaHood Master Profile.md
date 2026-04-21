@@ -2,14 +2,13 @@
 title: "Ray LaHood"
 type: politician
 bioguide-id: L000552
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-12
 source-tier: 1
 party: "Republican"
 chamber: "Secretary of Transportation (2009-2013)"
 known-gaps:
   - "No FEC contribution data"
-  - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
 source-types:

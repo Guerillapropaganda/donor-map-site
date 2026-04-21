@@ -1,7 +1,7 @@
 ---
 title: Dave Min
 type: politician
-content-readiness: draft
+content-readiness: data-complete
 last-updated: 2026-04-19
 central-thesis: "Dave Min is the CA-47 Orange County freshman Democrat who attracted $4.6M from AIPAC's United Democracy Project (UDP) and $83K from DMFI in super-PAC opposition alongside $2.1M from Club for Growth and $1.2M from Win It Back PAC, making him the target of both pro-Israel Democratic outside spending and Republican groups simultaneously; the $4.6M FOR progressive super-PAC pool (LCV $1.3M, Everytown $567K, Worker Power $366K) countered both fronts, and his profile is defined more by who spent against him than by his thin $1.1M direct PAC record."
 editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
@@ -19,11 +19,10 @@ website: https://min.house.gov
 phone: 202-225-5611
 source-types:
   - Congress
+  - FEC
+  - GovTrack
 known-gaps:
-  - No FEC contribution data
-  - No legislative record
-  - No voting record
-  - No mapped relationships
+  - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4CA47085
 top-donors: "[[Congressional Progressive Caucus PAC]], [[AFSCME Working Families Fund]], [[DMFI - Democratic Majority for Israel]], [[Julia Brownley]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Sydney Kamlager-Dove]], [[Kevin Mullin]], [[NEA Fund for Children and Public Education]], [[United Democracy Project - UDP]], [[Activate America]], [[Food and Water Action]], [[Emily Randall]], [[National Nurses United]], [[Everytown for Gun Safety Victory Fund]], [[Sierra Club Political Committee]], [[League of Conservation Voters]], [[DCCC - Democratic Congressional Campaign Committee]], [[Let America Vote PAC]], [[Congressional Leadership Fund]], [[Club for Growth]], [[Progressive Turnout Project]], [[MAJORITY PAC]], [[Medicare for All - The Policy That Broke the Party]], [[MoveOn.org Political Action]], [[Mike Thompson]], [[Americans for Prosperity]], [[Mark DeSaulnier]], [[SEIU COPE]], [[Courage California Super Pac]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Joe Neguse]], [[Nancy Pelosi]], [[National Association of Realtors]], [[Sierra Club Independent Action]], [[Mark Kelly]], [[National Multifamily Housing Council]], [[Diana Degette]], [[Planned Parenthood Action Fund INC]], [[Unite Here Tip Campaign Committee]], [[IBEW - International Brotherhood of Electrical Workers]], [[Edf Action Votes]], [[Chrissy Houlahan]], [[Robert Garcia]], [[Hmp]], [[Judy Chu]], [[UA Political Action Committee]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Giffords PAC]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[American Hospital Association PAC]], [[Laura Friedman]], [[Human Rights Campaign Equality Votes]], [[SpaceX]], [[Morgan Stanley]], [[Amgen Inc]], [[Goldman Sachs]], [[Starbucks]], [[Comcast - NBCUniversal]], [[Meta - Facebook]], [[a16z - Andreessen Horowitz]], [[McDonalds Corporation]], [[Boeing]], [[Anduril Industries]], [[Apple]], [[Tesla - Elon Musk Political Operation]], [[Kaiser Permanente]], [[CVS Health - Aetna]], [[Anthem - Elevance Health]], [[Fidelity Investments]], [[Center for American Progress]], [[Northrop Grumman]], [[Bechtel Corporation]], [[Google - Alphabet]], [[Nvidia]], [[California Apartment Association]], [[Chevron]], [[Anthem - Elevance Health Political Operation]], [[Open Society Foundations]], [[Microsoft]], [[Amazon]], [[SEIU - Service Employees International Union]], [[UnitedHealth Group - Optum]], [[Palantir Technologies]], [[New Venture Fund]], [[AT&T]], [[Bank of America]], [[Oracle]], [[Fanjul Family - Florida Crystals]], [[News Corp - Fox Corporation]], [[Verizon]], [[AbbVie]], [[Wells Fargo]], [[Walmart]], [[Coinbase]], [[Majority PAC]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[HMP]]"
@@ -38,6 +37,7 @@ committees:
 total-raised: "$9.8M"
 career-total-source: "FEC weball summary (cycles 2024, 2026)"
 bills-sponsored: 20
+corroboration-count: 3
 ---
 
 

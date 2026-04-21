@@ -1,7 +1,7 @@
 ---
 title: "VIGOP"
 type: donor
-content-readiness: draft
+content-readiness: ready
 editorial-status: stub
 sector: "Political Committees"
 entity-type: "PAC"
