@@ -1,7 +1,7 @@
 ---
 title: GEO Group - Private Prison Industrial Complex
 type: corporation
-content-readiness: ready
+content-readiness: data-complete
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 2
 parent: null
@@ -37,6 +37,14 @@ federal-grants-total: 78464
 employee-contributions: 991
 employee-contributions-total: 283132
 employee-donor-count: 164
+source-types:
+  - FEC
+  - LDA
+  - SAM
+  - USASpending
+corroboration-count: 4
+known-gaps:
+  - "No SEC corporate filings"
 ---
 
 

@@ -2,7 +2,7 @@
 title: Glenn Thompson
 type: politician
 bioguide-id: T000467
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: Glenn Thompson is the agribusiness industry's Farm Bill architect , the committee chair who writes the legislation that determines who gets fed and who gets subsidized, funded by the industries that benefit from the answer. Since becoming chair in...
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
@@ -38,6 +38,7 @@ source-types:
 known-gaps:
   - "No FEC contribution data"
   - "No voting record data"
+
 ---
 
 

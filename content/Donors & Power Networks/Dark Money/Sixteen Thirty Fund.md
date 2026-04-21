@@ -1,7 +1,7 @@
 ---
 title: Sixteen Thirty Fund
 type: donor
-content-readiness: ready
+content-readiness: data-complete
 last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -39,6 +39,12 @@ urls-first-triaged: "2026-04-15"
 employee-contributions: 27
 employee-contributions-total: 6550
 employee-donor-count: 6
+source-types:
+  - Courts
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

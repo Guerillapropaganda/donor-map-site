@@ -1,7 +1,7 @@
 ---
 title: Tim Geithner
 type: donor
-content-readiness: ready
+content-readiness: data-complete
 last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -46,6 +46,14 @@ checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+source-types:
+  - Courts
+  - FEC
+  - SEC
+  - Treasury
+corroboration-count: 4
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

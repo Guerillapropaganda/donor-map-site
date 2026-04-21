@@ -1,7 +1,7 @@
 ---
 title: Ohio Democratic Party
 type: donor
-content-readiness: ready
+content-readiness: data-complete
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -48,6 +48,12 @@ urls-first-triaged: "2026-04-15"
 employee-contributions: 30
 employee-contributions-total: 8505
 employee-donor-count: 8
+source-types:
+  - Courts
+  - FEC
+  - LDA
+  - SEC
+corroboration-count: 4
 ---
 
 

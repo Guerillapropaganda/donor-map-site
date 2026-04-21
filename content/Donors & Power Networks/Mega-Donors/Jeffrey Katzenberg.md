@@ -1,7 +1,7 @@
 ---
 title: Jeffrey Katzenberg
 type: donor
-content-readiness: ready
+content-readiness: data-complete
 last-updated: 2026-04-15
 source-tier: 1
 parent: null
@@ -23,6 +23,10 @@ checklist-na:
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-20
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

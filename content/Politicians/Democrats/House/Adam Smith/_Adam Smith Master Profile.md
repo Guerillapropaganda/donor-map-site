@@ -1,7 +1,7 @@
 ---
 title: Adam Smith
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: Adam Smith is the Democratic face of the military-industrial complex. His district contains Boeing's Renton operations, Washington State hosts six active-duty military installations, and his top three career donors — Boeing, Northrop Grumman, and ...
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
@@ -54,6 +54,12 @@ total-received: $1,128,650
 bills-enacted: 1
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: Health
+source-types:
+  - Congress
+  - GovTrack
+corroboration-count: 2
+known-gaps:
+  - "No FEC contribution data"
 ---
 
 

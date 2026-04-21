@@ -1,7 +1,7 @@
 ---
 title: "Chris Murphy Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: "Murphy is the Democratic Party's gun control specialist — and the geographic constraint of representing Connecticut's insurance-and-finance economy defines the limits of his progressivism on every other issue. His Sandy Hook connection provides mo..."
 last-updated: 2026-04-13
 source-tier: 1
@@ -33,11 +33,10 @@ total-received: "$202,528"
 fec-candidate-id: "S2CT00132"
 source-types:
   - Congress
-  - FEC
 corroboration-count: 2
 known-gaps:
+  - "No FEC contribution data"
   - "No voting record data"
-  - "No mapped relationships"
 related: "[[_Jim Himes Master Profile|Jim Himes]] · [[Everytown for Gun Safety]] · [[_Elizabeth Warren Master Profile|Warren]] · [[_Richard Blumenthal Master Profile|Blumenthal]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Blue Cross Blue Shield Association]] · [[Michael Bloomberg]] · [[Insurance Industry]] · [[Defense Contractors]] · [[_Joe Biden Master Profile]]"
 last-enriched: "2026-04-11"
 bioguide-id: "M001169"

@@ -2,7 +2,7 @@
 title: "Brian Kemp"
 type: state-politician
 current-office: "Governor of Georgia (2019–present)"
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: "Kemp's donor base is Georgia's corporate establishment: UPS, Georgia Power, hospital networks, Chamber of Commerce, Koch Network. His 2020 election certification (refusing Trump's reversal demands) was not principle, it was donor-class service. Tru..."
 last-updated: 2026-03-24
 source-tier: 1

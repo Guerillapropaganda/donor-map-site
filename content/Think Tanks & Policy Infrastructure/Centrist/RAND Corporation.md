@@ -1,7 +1,7 @@
 ---
 title: "RAND Corporation"
 type: think-tank
-content-readiness: ready
+content-readiness: data-complete
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -39,6 +39,10 @@ sec-form-types:
 checklist-na:
   - "regulatory: auto: entity type \"think-tank\" does not typically have EPA/OSHA records (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+source-types:
+  - SEC
+known-gaps:
+  - "No FEC contribution data"
 ---
 
 

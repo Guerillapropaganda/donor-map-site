@@ -1,7 +1,7 @@
 ---
 title: AIPAC - American Israel Public Affairs Committee
 type: donor
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: "AIPAC is the pipe through which donor-class capital crosses party lines to discipline elected officials on a single issue, spending $126.9M in 2024 to maintain a floor of compliance across the entire institution and removing critics through the most expensive primary challenges in US history."
 last-updated: 2026-04-19
 editorial-notes: "[Research Claude 2026-04-19] Added formal Central Thesis, Core Contradiction callout, Analytical Patterns. Pre-existing rich body content preserved. Audit A+ already passed 2026-04-11."
@@ -41,6 +41,10 @@ contributions-to-committees: 30592045
 employee-contributions: 99
 employee-contributions-total: 262161
 employee-donor-count: 57
+source-types:
+  - FEC
+  - LDA
+corroboration-count: 2
 ---
 
 

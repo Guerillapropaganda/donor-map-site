@@ -1,7 +1,7 @@
 ---
 title: Jan Koum
 type: donor
-content-readiness: ready
+content-readiness: data-complete
 last-updated: 2026-04-15
 source-tier: 1
 parent: null
@@ -44,8 +44,7 @@ source-types:
   - SEC
 corroboration-count: 3
 known-gaps:
-  - No lobbying disclosure data
-  - No mapped relationships
+  - "No lobbying disclosure data"
 related: "[[_Donald Trump Master Profile]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Haim Saban]] · [[Miriam Adelson]] · [[Republican Jewish Coalition]] · [[Nikki Haley]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

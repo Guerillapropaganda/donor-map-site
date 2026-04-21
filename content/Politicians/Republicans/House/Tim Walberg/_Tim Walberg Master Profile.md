@@ -2,7 +2,7 @@
 title: Tim Walberg
 type: politician
 bioguide-id: W000798
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: Tim Walberg is the anti-labor pastor who chairs the labor committee , funded by billionaires who want to dismantle public education and weaken unions. His top donors include the DeVos family ($76,700+ since 2007), Marc Rowan (Apollo Global Managem...
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
@@ -23,12 +23,10 @@ fec-candidate-id: H4MI07103
 last-enriched: "2026-04-08"
 source-types:
   - Congress
-  - DOJ
-  - FEC
 corroboration-count: 3
 known-gaps:
-  - No voting record data
-  - No mapped relationships
+  - "No FEC contribution data"
+  - "No voting record data"
 donors: "[[NORPAC]], [[AT&T - WarnerMedia]], [[Amgen Inc]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Tyson Foods]], [[National Rifle Association]], [[Anthem - Elevance Health]], [[American Hospital Association PAC]], [[Gilead Sciences]], [[Walmart - Walton Family]], [[Ford Motor Company]], [[Planned Parenthood Votes]], [[Associated General Contractors of America Political Action Committee]], [[AIPAC - American Israel Public Affairs Committee]], [[McDonalds Corporation]], [[Republican Jewish Coalition]], [[American Chemistry Council, INC]], [[General Dynamics]], [[General Motors]], [[Raytheon (RTX)]], [[PG&E - Pacific Gas and Electric]], [[National Association of Realtors]], [[Lockheed Martin]], [[Marathon Petroleum]], [[WinRed]], [[Valero Energy]], [[National Association of Manufacturers]], [[National Restaurant Association]], [[Jason Smith]], [[CVS Health - Aetna]], [[Chevron]], [[DoorDash]], [[Comcast - NBCUniversal]], [[Johnson & Johnson]], [[Teamsters - International Brotherhood of Teamsters]], [[Performance Racing Inc.]], [[Google - Alphabet]], [[Pfizer Inc.]], [[AT&T]]"
 related: "[[_Bobby Scott Master Profile|Bobby Scott]] · [[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 urls-first-triaged: "2026-04-15"

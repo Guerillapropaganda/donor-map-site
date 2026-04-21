@@ -1,7 +1,7 @@
 ---
 title: Republican Jewish Coalition
 type: donor
-content-readiness: ready
+content-readiness: data-complete
 last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 2
 parent: null
@@ -42,6 +42,12 @@ contributions-to-committees: 945547
 employee-contributions: 18
 employee-contributions-total: 13795
 employee-donor-count: 10
+source-types:
+  - Courts
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

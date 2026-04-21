@@ -2,7 +2,7 @@
 title: Brendan Boyle
 type: politician
 bioguide-id: B001296
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: Brendan Boyle is the Budget Committee's working-class Democrat , funded by labor unions, trial lawyers, and the Philadelphia Democratic machine rather than Wall Street or corporate PACs. His donor profile reflects Philadelphia ward politics more t...
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -31,6 +31,12 @@ bills-sponsored: 17
 bills-cosponsored: 329
 bills-enacted: 2
 top-policy-area: Health
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No voting record data"
 ---
 
 

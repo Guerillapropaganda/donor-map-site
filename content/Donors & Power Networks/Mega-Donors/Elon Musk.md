@@ -1,7 +1,7 @@
 ---
 title: Elon Musk
 type: donor
-content-readiness: ready
+content-readiness: data-complete
 last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -50,6 +50,12 @@ urls-first-triaged: "2026-04-15"
 employee-contributions: 13
 employee-contributions-total: 3750
 employee-donor-count: 4
+source-types:
+  - FEC
+  - SEC
+corroboration-count: 2
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

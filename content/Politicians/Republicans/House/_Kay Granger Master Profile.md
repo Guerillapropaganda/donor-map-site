@@ -2,7 +2,7 @@
 title: Kay Granger
 type: politician
 bioguide-id: G000377
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: Kay Granger was, effectively, Lockheed Martin's $634,000+ congressional employee , with a career total possibly exceeding $800,000 in direct contributions and revolving-door connections. Her Fort Worth district contains the F-35 production line. S...
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -23,11 +23,10 @@ total-received: $1,080,370
 fec-candidate-id: H6TX12060
 source-types:
   - Congress
-  - FEC
 corroboration-count: 2
 known-gaps:
-  - No voting record data
-  - No mapped relationships
+  - "No FEC contribution data"
+  - "No voting record data"
 related: "[[Lockheed Martin]] · [[Boeing]]"
 donors: "[[Boeing]] · [[Oil & Gas PACs]] · [[Congressional Leadership Fund]] · [[NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE]] · [[Lockheed Martin]] · [[WFW ACTION FUND, INC.]] · [[Wfw Action Fund, Inc.]] · [[Protect Freedom Political Action Committee]] · [[ConocoPhillips]] · [[Honeywell]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Anthem - Elevance Health]] · [[L3Harris Technologies]] · [[National Multifamily Housing Council]] · [[Chevron]] · [[Leidos]] · [[MAJORITY PAC]] · [[Comcast - NBCUniversal]] · [[National Association of Realtors]] · [[General Motors]] · [[iHeartMedia]] · [[AT&T - WarnerMedia]] · [[Raytheon (RTX)]] · [[Halliburton]] · [[Google - Alphabet]] · [[BAE Systems]] · [[WinRed]] · [[Northrop Grumman]] · [[McDonalds Corporation]] · [[PG&E - Pacific Gas and Electric]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[National Cattlemen's Beef Association]] · [[American College of Radiology Association PAC]] · [[Johnson & Johnson]] · [[Associated General Contractors of America Political Action Committee]] · [[Tyson Foods]] · [[National Rental Home Council]] · [[VIEW PAC - Value in Electing Women]] · [[National Restaurant Association]] · [[Bank of America]] · [[American Hospital Association PAC]] · [[Walmart - Walton Family]] · [[Marathon Petroleum]] · [[Really American Pac]] · [[National Rifle Association]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Save America PAC]] · [[Duke Energy]] · [[Microsoft]] · [[General Dynamics]] · [[Honeywell International]] · [[Majority PAC]] · [[AT&T]]"
 urls-first-triaged: "2026-04-15"

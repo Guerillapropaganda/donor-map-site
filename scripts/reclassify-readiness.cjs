@@ -261,11 +261,7 @@ function diagnoseDataCompleteFailures(data, content, sourceTypes, tier1Count) {
     if (days > 90) failures.push(`stale:${days}d`);
   }
 
-  // 5. Contradictions
-  const contradictionsClear = content.includes('[!contradiction-cleared]') || !content.includes('[!contradiction]');
-  if (!contradictionsClear) {
-    failures.push('contradictions');
-  }
+  // 5. (Contradictions check removed 2026-04-21 — see classifyProfile comment.)
 
   // 6. Blocking flags — return one token per flag kind present
   const visible = content.split(/^##+\s*Archived/im)[0] || content;
@@ -303,11 +299,17 @@ function classifyProfile(data, body, content, sourceTypes, tier1Count) {
   const typeReqsMet = typeReqs.every(req => isNa(req.id) || req.check(data, content));
   const minSourceTypes = ['media-profile', 'think-tank'].includes(data.type) ? 1 : 2;
 
-  // Contradiction check: cleared or none present
-  const contradictionsClear = content.includes('[!contradiction-cleared]') || !content.includes('[!contradiction]');
-
   // ADR-0017: blocking flags disqualify from any publishable tier
   const blocked = hasBlockingFlags(content);
+
+  // NOTE: we previously gated on `contradictionsClear` (no `[!contradiction]`
+  // callout in the body). That check was vestigial from a pre-ADR regime
+  // where `[!contradiction]` meant "scanner flagged, needs editorial
+  // resolution." Under the current editorial regime `[!contradiction]`
+  // is a callout primitive used in the required `## The Contradictions`
+  // section — it's content, not a warning. Removing the check 2026-04-21.
+  // Defamation risk is handled by hasBlockingFlags() (URL NEEDED / UNVERIFIED
+  // / NEEDS REVIEW / defamation-sanitized) which remains strict.
 
   // A+ (verified): type-specific reqs + universal reqs + editorial sign-off
   if (
@@ -317,7 +319,6 @@ function classifyProfile(data, body, content, sourceTypes, tier1Count) {
     hasConnections &&
     daysSinceEnriched <= 90 &&
     hasHumanSignoff &&
-    contradictionsClear &&
     bodyLength > 500 &&
     !blocked
   ) {
@@ -333,7 +334,6 @@ function classifyProfile(data, body, content, sourceTypes, tier1Count) {
     tier1Count >= 1 &&
     hasConnections &&
     daysSinceEnriched <= 90 &&
-    contradictionsClear &&
     !blocked
   ) {
     return 'data-complete';

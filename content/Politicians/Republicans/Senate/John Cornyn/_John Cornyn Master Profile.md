@@ -2,7 +2,7 @@
 title: John Cornyn
 type: politician
 bioguide-id: C001056
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: John Cornyn is the Texas corporate establishment's Senate operator — a reliable legislative mechanic for oil and gas deregulation, defense spending, financial services preferences, and judicial confirmations who functions as the institutional coun...
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
@@ -51,6 +51,11 @@ bills-cosponsored: 4023
 bills-enacted: 12
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: International Affairs
+source-types:
+  - Congress
+known-gaps:
+  - "No FEC contribution data"
+  - "No voting record data"
 ---
 
 

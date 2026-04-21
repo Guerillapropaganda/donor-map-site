@@ -2,7 +2,7 @@
 title: Mario Diaz-Balart
 type: politician
 bioguide-id: D000600
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: Diaz-Balart is the legislative architect of the Cuba embargo's permanence. His Appropriations position — specifically the NSRP subcommittee chairmanship — gives him direct control over State Department funding, Cuba democracy programs, Radio/TV Ma...
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
@@ -33,6 +33,11 @@ bills-cosponsored: 143
 bills-enacted: 1
 top-policy-area: International Affairs
 last-enriched: 2026-04-20
+source-types:
+  - Congress
+known-gaps:
+  - "No FEC contribution data"
+  - "No voting record data"
 ---
 
 

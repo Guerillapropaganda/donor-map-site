@@ -1,7 +1,7 @@
 ---
 title: Jeff Merkley
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: Merkley is the vault's control case , the senator who most consistently operates against the donor-class model that defines his colleagues. He stopped taking corporate PAC money. He was the only senator to endorse Sanders. He authored the Volcker ...
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -28,12 +28,11 @@ top-donors:
 total-received: $6,114,210
 fec-candidate-id: S8OR00207
 source-types:
-  - FEC
+  - Congress
   - GovTrack
 corroboration-count: 2
 known-gaps:
-  - No legislative record from Congress.gov
-  - No mapped relationships
+  - "No FEC contribution data"
 last-enriched: "2026-04-11"
 related: "[[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Chuck Schumer Master Profile|Chuck Schumer]]"
 bioguide-id: M001176

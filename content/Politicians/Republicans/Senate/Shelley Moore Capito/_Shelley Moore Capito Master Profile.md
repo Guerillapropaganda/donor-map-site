@@ -1,7 +1,7 @@
 ---
 title: Shelley Moore Capito
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: Shelley Moore Capito chairs the committee that regulates the fossil fuel industry — and the fossil fuel industry is her largest donor class, her state's economic backbone, and her family's employer. The EPW Committee oversees the EPA, the Clean Ai...
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -37,12 +37,11 @@ bills-cosponsored: 278
 website: https://www.capito.senate.gov
 phone: 202-224-6472
 source-types:
-  - FEC
+  - Congress
   - GovTrack
 corroboration-count: 2
 known-gaps:
-  - No legislative record from Congress.gov
-  - No mapped relationships
+  - "No FEC contribution data"
 opposes: "[[SENATE MAJORITY PAC]]"
 related: "[[_Joe Manchin Master Profile|Manchin]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch|Koch Network]]"
 donors: "[[Defending Main Street Superpac INC]] · [[US CHAMBER OF COMMERCE]] · [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]] · [[TAKE ME HOME WV ACTION]] · [[DEFENDING MAIN STREET SUPERPAC INC]] · [[US Chamber of Commerce]] · [[Koch network]] · [[Take Me Home WV Action]] · [[Koch Network]] · [[General Dynamics]] · [[Marathon Petroleum]] · [[American Chemistry Council, INC]] · [[WinRed]] · [[AIPAC - American Israel Public Affairs Committee]] · [[National Association of Manufacturers]] · [[Nucor Corporation]] · [[Humana]] · [[Anthem - Elevance Health]] · [[Performance Racing Inc.]] · [[Northrop Grumman]] · [[American College of Radiology Association PAC]] · [[BAE Systems]] · [[Lockheed Martin]] · [[AT&T - WarnerMedia]] · [[ADM - Archer Daniels Midland]] · [[National Association of Realtors]] · [[Pfizer Inc.]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[AbbVie]] · [[NRSC - National Republican Senatorial Committee]] · [[Microsoft]] · [[PG&E - Pacific Gas and Electric]] · [[Amgen Inc]] · [[Walmart - Walton Family]] · [[Raytheon (RTX)]] · [[National Restaurant Association]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Occidental Petroleum]] · [[Bank of America]] · [[Gilead Sciences]] · [[VIEW PAC - Value in Electing Women]] · [[Johnson & Johnson]] · [[CoreCivic - Private Prisons]] · [[Duke Energy]] · [[Honeywell]] · [[Leidos]] · [[Associated General Contractors of America Political Action Committee]] · [[Tenet Healthcare]] · [[Citigroup]] · [[National Multifamily Housing Council]] · [[General Motors]] · [[iHeartMedia]] · [[Chevron]] · [[L3Harris Technologies]] · [[Morgan Stanley]] · [[NextEra Energy]] · [[American Hospital Association PAC]] · [[Common Sense for America PAC]] · [[Google - Alphabet]] · [[National Cattlemen's Beef Association]] · [[ConocoPhillips]] · [[Tyson Foods]] · [[Alliance Coal, LLC PAC]] · [[Valero Energy]] · [[National Rifle Association]] · [[Honeywell International]] · [[AT&T]]"

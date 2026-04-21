@@ -1,7 +1,7 @@
 ---
 title: Bobby Scott
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: Bobby Scott is the labor movement's legislative architect — the committee chair who writes the bills that unions need but that the donor class ensures never become law. His career is a case study in the structural limits of inside-game progressivi...
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
@@ -60,6 +60,12 @@ urls-first-triaged: "2026-04-15"
 bills-enacted: 0
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: Crime and Law Enforcement
+source-types:
+  - Congress
+  - GovTrack
+corroboration-count: 2
+known-gaps:
+  - "No FEC contribution data"
 ---
 
 

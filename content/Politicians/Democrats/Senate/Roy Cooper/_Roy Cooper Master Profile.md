@@ -3,7 +3,7 @@ title: "Roy Cooper Master Profile"
 type: state-politician
 current-office: "Former Governor of North Carolina (2017–2025)"
 candidate-for: "US Senate 2026 (NC, Democratic primary)"
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: "Roy Cooper's political career reflects the core tension of donor-first Democratic politics: he delivers genuine working-class policy wins—Medicaid expansion covering 650,000 people, clean energy legislation, teacher pay raises—while simultaneously..."
 last-updated: 2026-04-13
 source-tier: 1
@@ -21,8 +21,7 @@ total-received: "$21,070,824"
 fec-candidate-id: "S6NC00407"
 last-enriched: "2026-04-10"
 source-types:
-  - DOJ
-  - FEC
+  - Congress
 corroboration-count: 2
 # needs-reenrichment cleared 2026-04-11: as a state-politician, Congress.gov / GovTrack are not applicable. FEC runs normally on fec-candidate-id.
 known-gaps:

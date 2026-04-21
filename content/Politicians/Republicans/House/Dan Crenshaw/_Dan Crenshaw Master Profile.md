@@ -1,12 +1,14 @@
 ---
 title: "Dan Crenshaw Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: "Crenshaw is the case study in how the modern Republican media-brand model serves the donor class while appearing independent — until the base turns on the brand. His Navy SEAL credentials and media presence generated a national following that made..."
 last-updated: 2026-04-13
 needs-reenrichment: true
 reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified): C001120. Next pipeline run should populate Congress.gov + GovTrack auto-blocks with correct data."
 known-gaps:
+  - "No FEC contribution data"
+  - "No voting record data"
 source-tier: 1
 parent: null
 party: "Republican"
@@ -52,6 +54,8 @@ bills-cosponsored: 1247
 bills-enacted: 0
 bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Health"
+source-types:
+  - Congress
 ---
 
 

@@ -2,7 +2,7 @@
 title: Ron Wyden
 type: politician
 bioguide-id: W000779
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: "Wyden is the reform Democrat whose reforms never pass. His brand is powerful: privacy crusader, billionaire tax champion, surveillance opponent, tech-accountability advocate. He has introduced the Billionaires Income Tax at least four times (2021,..."
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
@@ -42,6 +42,11 @@ bills-cosponsored: 8506
 bills-enacted: 1
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: Health
+source-types:
+  - Congress
+known-gaps:
+  - "No FEC contribution data"
+  - "No voting record data"
 ---
 
 
