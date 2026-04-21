@@ -2,7 +2,7 @@
 title: Lindsey Graham
 type: politician
 bioguide-id: G000359
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: Lindsey Graham is the Senate's purest demonstration that political identity follows money. He was John McCain's ideological twin , interventionist, bipartisan, immigration-moderate , because McCain's donor network rewarded that positioning. When M...
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -33,6 +33,24 @@ bills-cosponsored: 269
 bills-enacted: 0
 top-policy-area: International Affairs
 last-enriched: 2026-04-21
+committees:
+  - Border Security and Immigration
+  - "Chemical Safety, Waste Management, Environmental Justice, and Regulatory Oversight"
+  - "Clean Air, Climate, and Nuclear Innovation and Safety"
+  - "Commerce, Justice, Science, and Related Agencies"
+  - Crime and Counterterrorism
+  - Department of Defense
+  - "Departments of Labor, Health and Human Services, and Education, and Related Agencies"
+  - Energy and Water Development
+  - "Federal Courts, Oversight, Agency Action, and Federal Rights"
+  - "Privacy, Technology, and the Law"
+  - Senate Committee on Appropriations
+  - Senate Committee on Environment and Public Works
+  - Senate Committee on the Budget
+  - Senate Committee on the Judiciary
+  - "State, Foreign Operations, and Related Programs"
+  - Transportation and Infrastructure
+  - "Transportation, Housing and Urban Development, and Related Agencies"
 ---
 
 

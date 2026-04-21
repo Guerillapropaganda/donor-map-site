@@ -29,6 +29,13 @@ bills-enacted: 0
 top-policy-area: Health
 top-donors: "[[Walmart - Walton Family]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[American Hospital Association PAC]], [[Google - Alphabet]], [[General Dynamics]], [[DoorDash]], [[Humana]], [[Planned Parenthood Action Fund INC]], [[General Motors]], [[AIPAC - American Israel Public Affairs Committee]], [[NextEra Energy]], [[Nucor Corporation]], [[Pfizer Inc.]], [[Sierra Club Independent Action]], [[Giffords PAC]], [[National Association of Realtors]], [[NEA Fund for Children and Public Education]], [[Teamsters - International Brotherhood of Teamsters]], [[CVS Health - Aetna]], [[Morgan Stanley]], [[National Multifamily Housing Council]], [[Honeywell]], [[UA Political Action Committee]], [[American Federation of State County & Municipal Employees P E O P L E]], [[L3Harris Technologies]], [[Northrop Grumman]], [[Comcast - NBCUniversal]], [[Leidos]], [[League of Conservation Voters]], [[Ted Lieu]], [[IBEW - International Brotherhood of Electrical Workers]], [[AT&T - WarnerMedia]], [[Microsoft]], [[SEIU COPE]], [[Raytheon (RTX)]], [[AbbVie]], [[BAE Systems]], [[Marcia Fudge]], [[Amgen Inc]], [[Puget Sound Energy INC PAC for Good Government]], [[National Association of Manufacturers]], [[Lockheed Martin]], [[Associated General Contractors of America Political Action Committee]], [[Anthem - Elevance Health]], [[CHC BOLD PAC]], [[American Chemistry Council, INC]], [[Progressive Turnout Project]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[AT&T]], [[Honeywell International]]"
 last-enriched: 2026-04-21
+committees:
+  - Coast Guard and Maritime Transportation
+  - Highways and Transit
+  - House Committee on Armed Services
+  - House Committee on Transportation and Infrastructure
+  - Military Personnel
+  - Readiness
 ---
 
 

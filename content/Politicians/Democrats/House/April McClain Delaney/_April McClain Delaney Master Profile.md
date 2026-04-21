@@ -24,6 +24,12 @@ known-gaps:
 urls-first-triaged: "2026-04-15"
 top-donors: "[[US CHAMBER OF COMMERCE]], [[Lockheed Martin]], [[Fidelity Investments]], [[CTA - California Teachers Association]], [[Google - Alphabet]], [[US Chamber of Commerce]]"
 last-enriched: 2026-04-21
+committees:
+  - "Commodity Markets, Digital Assets, and Rural Development"
+  - "Conservation, Research, and Biotechnology"
+  - House Committee on Agriculture
+  - "House Committee on Science, Space, and Technology"
+  - Research and Technology
 ---
 
 

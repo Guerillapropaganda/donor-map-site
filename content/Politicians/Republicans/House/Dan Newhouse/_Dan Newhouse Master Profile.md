@@ -29,6 +29,15 @@ bills-enacted: 0
 top-policy-area: Energy
 top-donors: "[[AT&T - WarnerMedia]], [[Bechtel Corporation]], [[Austin Scott]], [[Raytheon (RTX)]], [[Occidental Petroleum]], [[WinRed]], [[National Rifle Association]], [[National Multifamily Housing Council]], [[National Association of Realtors]], [[Google - Alphabet]], [[PG&E - Pacific Gas and Electric]], [[AIPAC - American Israel Public Affairs Committee]], [[ConocoPhillips]], [[CITIZENS FOR RESPONSIBLE ENERGY SOLUTIONS INC.]], [[General Dynamics]], [[Congressional Leadership Fund]], [[MAJORITY PAC]], [[Microsoft]], [[National Cattlemen's Beef Association]], [[Chevron]], [[Honeywell]], [[ENVIRONMENT AMERICA INC]], [[American College of Radiology Association PAC]], [[Clearpath Action Fund, Inc.]], [[National Restaurant Association]], [[Hunter Action Fund (haf)]], [[David Rouzer]], [[Puget Sound Energy INC PAC for Good Government]], [[IBEW - International Brotherhood of Electrical Workers]], [[Comcast - NBCUniversal]], [[Tyson Foods]], [[Ford Motor Company]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Northrop Grumman]], [[ADM - Archer Daniels Midland]], [[Walmart - Walton Family]], [[American Hospital Association PAC]], [[Defending Main Street Superpac INC]], [[Associated General Contractors of America Political Action Committee]], [[National Association of Manufacturers]], [[Lockheed Martin]], [[Halliburton]], [[Leidos]], [[Americans for Prosperity]], [[Troy Downing]], [[Ron Estes]], [[AbbVie]], [[NextEra Energy]], [[BAE Systems]], [[Amazon]], [[Citadel - Kenneth Griffin]], [[Anduril Industries]], [[Goldman Sachs]], [[Charles Schwab]], [[Apple]], [[HBW Resources]], [[FTX - Sam Bankman-Fried]], [[Ripple]], [[American Federation for Children]], [[US CHAMBER OF COMMERCE]], [[Palantir Technologies]], [[Morgan Stanley]], [[Citizens for Responsible Energy Solutions Inc.]], [[Honeywell International]], [[Majority PAC]], [[Environment America INC]], [[AT&T]], [[US Chamber of Commerce]]"
 last-enriched: 2026-04-21
+committees:
+  - "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies"
+  - "Conservation, Research, and Biotechnology"
+  - Energy and Water Development and Related Agencies
+  - Forestry and Horticulture
+  - Homeland Security
+  - House Committee on Agriculture
+  - House Committee on Appropriations
+  - House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party
 ---
 
 

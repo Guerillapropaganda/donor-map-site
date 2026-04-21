@@ -23,6 +23,15 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21
+committees:
+  - Aviation
+  - Coast Guard and Maritime Transportation
+  - Highways and Transit
+  - House Committee on Natural Resources
+  - House Committee on Transportation and Infrastructure
+  - House Committee on the Budget
+  - Indian and Insular Affairs
+  - "Water, Wildlife and Fisheries"
 ---
 
 

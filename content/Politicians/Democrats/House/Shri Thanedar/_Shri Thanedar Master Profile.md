@@ -29,6 +29,11 @@ bills-enacted: 1
 top-policy-area: Health
 top-donors: "[[Votevets]], [[General Dynamics]], [[General Motors]], [[Sierra Club Independent Action]], [[Pfizer Inc.]], [[Ted Lieu]], [[314 ACTION FUND]], [[American Federation of State County & Municipal Employees P E O P L E]], [[AIPAC - American Israel Public Affairs Committee]], [[NEA Fund for Children and Public Education]], [[Pete Aguilar]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AT&T - WarnerMedia]], [[Honeywell]], [[Lockheed Martin]], [[DMFI - Democratic Majority for Israel]], [[AbbVie]], [[League of Conservation Voters]], [[Everytown for Gun Safety]], [[Congressional Progressive Caucus PAC]], [[National Association of Realtors]], [[American Chemistry Council, INC]], [[Google - Alphabet]], [[Demand Justice]], [[Walmart - Walton Family]], [[Protect Progress]], [[Unite Here Tip Campaign Committee]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Comcast - NBCUniversal]], [[National Nurses United]], [[Ford Motor Company]], [[United Democracy Project - UDP]], [[Sierra Club Political Committee]], [[314 Action Fund]], [[Honeywell International]], [[AT&T]], [[American Federation of State County & Municipal Employees  P E O P L E]]"
 last-enriched: 2026-04-21
+committees:
+  - "Commodity Markets, Digital Assets, and Rural Development"
+  - House Committee on Agriculture
+  - House Committee on Homeland Security
+  - "Oversight, Investigations, and Accountability"
 ---
 
 

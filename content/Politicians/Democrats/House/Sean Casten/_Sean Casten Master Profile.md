@@ -28,6 +28,12 @@ bills-cosponsored: 491
 bills-enacted: 0
 top-policy-area: Health
 last-enriched: 2026-04-21
+committees:
+  - Capital Markets
+  - Financial Institutions
+  - House Committee on Financial Services
+  - Joint Economic Committee
+  - "National Security, Illicit Finance, and International Financial Institutions"
 ---
 
 

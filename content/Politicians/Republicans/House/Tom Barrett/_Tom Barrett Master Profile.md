@@ -24,6 +24,14 @@ known-gaps:
 urls-first-triaged: "2026-04-15"
 top-donors: "[[Chevron]], [[Bank of America]], [[Koch Network - Charles Koch]], [[Anduril Industries]], [[Kelcy Warren - Energy Transfer Partners]], [[CVS Health - Aetna]], [[Kaiser Permanente]], [[General Motors]], [[Ford Motor Company]], [[UPS]], [[Oracle]], [[Charles Schwab]], [[Blackstone Group]], [[CBRE Group]], [[GEO Group - Private Prison Industrial Complex]]"
 last-enriched: 2026-04-21
+committees:
+  - Aviation
+  - "Economic Development, Public Buildings, and Emergency Management"
+  - Economic Opportunity
+  - Highways and Transit
+  - House Committee on Transportation and Infrastructure
+  - "House Committee on Veterans' Affairs"
+  - Technology Modernization
 ---
 
 

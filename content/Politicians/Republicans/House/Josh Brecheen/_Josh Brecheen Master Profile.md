@@ -29,6 +29,11 @@ bills-enacted: 0
 top-policy-area: Government Operations and Politics
 top-donors: "[[National Rifle Association]], [[Microsoft]], [[Jake Ellzey]], [[AIPAC - American Israel Public Affairs Committee]], [[National Association of Realtors]], [[Jim Jordan]], [[Anthem - Elevance Health]], [[MAJORITY PAC]], [[Club for Growth INC PAC]], [[AT&T - WarnerMedia]], [[Alliance Coal, LLC PAC]], [[Devon Energy]], [[Tyson Foods]], [[National Restaurant Association]], [[ConocoPhillips]], [[Amgen Inc]], [[AT&T]], [[Majority PAC]]"
 last-enriched: 2026-04-21
+committees:
+  - Emergency Management and Technology
+  - House Committee on Homeland Security
+  - House Committee on the Budget
+  - "Oversight, Investigations, and Accountability"
 ---
 
 

@@ -29,6 +29,14 @@ bills-enacted: 0
 top-policy-area: Health
 top-donors: "[[Walmart - Walton Family]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[National Association of Realtors]], [[Medicare for All - The Policy That Broke the Party]], [[American Hospital Association PAC]], [[Comcast - NBCUniversal]], [[Ford Motor Company]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Raytheon (RTX)]], [[Honeywell]], [[Google - Alphabet]], [[SEIU COPE]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Microsoft]], [[Leidos]], [[General Motors]], [[Everytown for Gun Safety]], [[General Dynamics]], [[DCCC - Democratic Congressional Campaign Committee]], [[DMFI - Democratic Majority for Israel]], [[NEA Fund for Children and Public Education]], [[Lockheed Martin]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Progressive Turnout Project]], [[J Street]], [[AT&T - WarnerMedia]], [[Sierra Club Independent Action]], [[Pete Aguilar]], [[National Nurses United]], [[Nucor Corporation]], [[League of Conservation Voters]], [[ADM - Archer Daniels Midland]], [[Planned Parenthood Votes]], [[Teamsters - International Brotherhood of Teamsters]], [[Tyson Foods]], [[Honeywell International]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[AT&T]]"
 last-enriched: 2026-04-21
+committees:
+  - Crime and Federal Government Surveillance
+  - House Committee on the Judiciary
+  - House Permanent Select Committee on Intelligence
+  - "Immigration Integrity, Security, and Enforcement"
+  - National Security Agency and Cyber
+  - Open Source Intelligence
+  - The Constitution and Limited Government
 ---
 
 

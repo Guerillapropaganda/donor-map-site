@@ -27,6 +27,13 @@ bills-cosponsored: 524
 bills-enacted: 0
 top-policy-area: "Health"
 last-enriched: 2026-04-21
+committees:
+  - "Conservation, Research, and Biotechnology"
+  - "Early Childhood, Elementary, and Secondary Education"
+  - Higher Education and Workforce Development
+  - House Committee on Agriculture
+  - House Committee on Education and Workforce
+  - Nutrition and Foreign Agriculture
 ---
 
 

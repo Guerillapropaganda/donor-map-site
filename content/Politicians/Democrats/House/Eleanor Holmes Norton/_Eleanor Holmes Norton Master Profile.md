@@ -27,6 +27,15 @@ bills-cosponsored: 1917
 bills-enacted: 2
 top-policy-area: "Health"
 last-enriched: 2026-04-21
+committees:
+  - Aviation
+  - Delivering on Government Efficiency
+  - "Economic Development, Public Buildings, and Emergency Management"
+  - Government Operations
+  - Highways and Transit
+  - House Committee on Oversight and Government Reform
+  - House Committee on Transportation and Infrastructure
+  - Water Resources and Environment
 ---
 
 

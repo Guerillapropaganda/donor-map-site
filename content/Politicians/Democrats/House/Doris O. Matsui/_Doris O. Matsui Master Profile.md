@@ -27,6 +27,10 @@ bills-cosponsored: 365
 bills-enacted: 1
 top-policy-area: "Health"
 last-enriched: 2026-04-21
+committees:
+  - Communications and Technology
+  - Energy
+  - House Committee on Energy and Commerce
 ---
 
 

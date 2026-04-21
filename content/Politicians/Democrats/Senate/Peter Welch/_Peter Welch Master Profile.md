@@ -29,6 +29,20 @@ bills-enacted: 0
 top-policy-area: Health
 top-donors: "[[Teamsters - International Brotherhood of Teamsters]], [[National Association of Realtors]], [[Everytown for Gun Safety]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[DSCC - Democratic Senatorial Campaign Committee]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Mark DeSaulnier]], [[Care Action]], [[Nancy Pelosi]], [[Sierra Club Political Committee]], [[American Hospital Association PAC]], [[National Restaurant Association]], [[Duke Energy]], [[Sierra Club Independent Action]], [[NEA Fund for Children and Public Education]], [[Let America Vote PAC]], [[National Multifamily Housing Council]], [[IBEW - International Brotherhood of Electrical Workers]], [[Indivisible Action]], [[UA Political Action Committee]], [[League of Conservation Voters]], [[Protect the Vote]], [[Giffords PAC]], [[iHeartMedia]], [[Progressive Turnout Project]], [[American Federation of State County & Municipal Employees P E O P L E]], [[American Federation of State County & Municipal Employees  P E O P L E]]"
 last-enriched: 2026-04-20
+committees:
+  - "Antitrust, Competition Policy, and Consumer Rights"
+  - "Conservation, Forestry, Natural Resources, and Biotechnology"
+  - "Energy, Natural Resources, and Infrastructure"
+  - "Federal Courts, Oversight, Agency Action, and Federal Rights"
+  - Health Care
+  - Intellectual Property
+  - "Livestock, Dairy, Poultry, and Food Safety"
+  - "Rural Development, Energy, and Credit"
+  - "Senate Committee on Agriculture, Nutrition, and Forestry"
+  - Senate Committee on Finance
+  - Senate Committee on Rules and Administration
+  - Senate Committee on the Judiciary
+  - the Constitution
 ---
 
 

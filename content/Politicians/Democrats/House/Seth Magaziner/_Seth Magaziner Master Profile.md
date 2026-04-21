@@ -29,6 +29,13 @@ bills-enacted: 0
 top-policy-area: Health
 top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[UA Political Action Committee]], [[Paul Tonko]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Hmp]], [[Leidos]], [[AFL-CIO]], [[NRCC - National Republican Congressional Committee]], [[National Association of Realtors]], [[Mark Takano]], [[SEIU COPE]], [[AT&T - WarnerMedia]], [[American College of Radiology Association PAC]], [[Raytheon (RTX)]], [[Joe Neguse]], [[Walmart - Walton Family]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Nancy Pelosi]], [[Sara Jacobs]], [[ENVIRONMENT AMERICA INC]], [[Giffords PAC]], [[DMFI - Democratic Majority for Israel]], [[Jason Crow]], [[National Association of Manufacturers]], [[Ted Lieu]], [[Teamsters - International Brotherhood of Teamsters]], [[American Hospital Association PAC]], [[Unite Here Tip Campaign Committee]], [[Let America Vote PAC]], [[National Committee to Preserve Social Security PAC]], [[Progressive Turnout Project]], [[L3Harris Technologies]], [[J Street]], [[VOTER PROTECTION PROJECT]], [[CVS Health - Aetna]], [[Comcast - NBCUniversal]], [[Jamie Raskin]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Anthem - Elevance Health]], [[Pete Aguilar]], [[League of Conservation Voters]], [[DCCC - Democratic Congressional Campaign Committee]], [[Putting People First Political Action Committee]], [[General Dynamics]], [[Planned Parenthood Action Fund INC]], [[Bank of America]], [[Care Action]], [[Amgen Inc]], [[IBEW - International Brotherhood of Electrical Workers]], [[National Education Association]], [[Lockheed Martin]], [[Sierra Club Independent Action]], [[NEA Fund for Children and Public Education]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Honeywell]], [[Everytown for Gun Safety]], [[Northrop Grumman]], [[Medicare for All - The Policy That Broke the Party]], [[BAE Systems]], [[Veronica Escobar]], [[MoveOn.org Political Action]], [[Sierra Club Political Committee]], [[Congressional Leadership Fund]], [[Robert Garcia]], [[Debbie Dingell]], [[AT&T]], [[Honeywell International]], [[Environment America INC]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Voter Protection Project]], [[HMP]]"
 last-enriched: 2026-04-21
+committees:
+  - Counterterrorism and Intelligence
+  - Cybersecurity and Infrastructure Protection
+  - Energy and Mineral Resources
+  - House Committee on Homeland Security
+  - House Committee on Natural Resources
+  - "Water, Wildlife and Fisheries"
 ---
 
 

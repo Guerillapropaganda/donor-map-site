@@ -29,6 +29,19 @@ bills-cosponsored: 304
 bills-enacted: 1
 top-policy-area: International Affairs
 last-enriched: 2026-04-20
+committees:
+  - "Border Management, Federal Workforce, and Regulatory Affairs"
+  - Commission on Security and Cooperation in Europe
+  - Digital Assets
+  - Energy
+  - Financial Institutions and Consumer Protection
+  - "Housing, Transportation, and Community Development"
+  - National Parks
+  - "Senate Committee on Banking, Housing, and Urban Affairs"
+  - Senate Committee on Energy and Natural Resources
+  - Senate Committee on Homeland Security and Governmental Affairs
+  - "Senate Committee on Veterans' Affairs"
+  - Water and Power
 ---
 
 

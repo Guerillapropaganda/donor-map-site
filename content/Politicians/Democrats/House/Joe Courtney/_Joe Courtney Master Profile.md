@@ -27,6 +27,13 @@ bills-cosponsored: 245
 bills-enacted: 0
 top-policy-area: "Education"
 last-enriched: 2026-04-21
+committees:
+  - "Health, Employment, Labor, and Pensions"
+  - Higher Education and Workforce Development
+  - House Committee on Armed Services
+  - House Committee on Education and Workforce
+  - Seapower and Projection Forces
+  - Tactical Air and Land Forces
 ---
 
 

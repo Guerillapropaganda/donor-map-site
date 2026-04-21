@@ -26,6 +26,13 @@ total-received: $672,085
 fec-candidate-id: H2OH11169
 bioguide-id: B001313
 urls-first-triaged: "2026-04-15"
+committees:
+  - "Cybersecurity, Information Technology, and Government Innovation"
+  - "General Farm Commodities, Risk Management, and Credit"
+  - House Committee on Agriculture
+  - House Committee on Oversight and Government Reform
+  - House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party
+  - Nutrition and Foreign Agriculture
 ---
 
 

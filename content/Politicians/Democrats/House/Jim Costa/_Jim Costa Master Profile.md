@@ -28,6 +28,12 @@ bills-cosponsored: 587
 bills-enacted: 0
 top-policy-area: International Affairs
 last-enriched: 2026-04-21
+committees:
+  - Europe
+  - Forestry and Horticulture
+  - House Committee on Agriculture
+  - House Committee on Foreign Affairs
+  - "Livestock, Dairy, and Poultry"
 ---
 
 

@@ -29,6 +29,14 @@ bills-enacted: 0
 top-policy-area: Energy
 top-donors: "[[National Association of Realtors]], [[National Multifamily Housing Council]], [[Jason Smith]], [[AT&T - WarnerMedia]], [[National Rifle Association]], [[American Hospital Association PAC]], [[Jim Jordan]], [[Comcast - NBCUniversal]], [[American College of Radiology Association PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[National Cattlemen's Beef Association]], [[PG&E - Pacific Gas and Electric]], [[Valero Energy]], [[Ben Cline]], [[Anthem - Elevance Health]], [[Marathon Petroleum]], [[Save America PAC]], [[WinRed]], [[MAJORITY PAC]], [[Chevron]], [[Amgen Inc]], [[AT&T]], [[Majority PAC]]"
 last-enriched: 2026-04-21
+committees:
+  - "Commerce, Manufacturing, and Trade"
+  - Communications and Technology
+  - Energy and Mineral Resources
+  - Federal Lands
+  - House Committee on Energy and Commerce
+  - House Committee on Natural Resources
+  - Oversight and Investigations
 ---
 
 

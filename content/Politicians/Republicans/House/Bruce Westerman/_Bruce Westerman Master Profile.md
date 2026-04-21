@@ -1,7 +1,7 @@
 ---
 title: Bruce Westerman
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: Bruce Westerman is the extractive industry's credentialed gatekeeper — a Yale-educated forester who uses his environmental credentials to open public lands to drilling, mining, and logging while framing resource extraction as 'conservation.' His c...
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
@@ -42,6 +42,13 @@ source-types:
 known-gaps:
   - "No FEC contribution data"
   - "No voting record data"
+committees:
+  - Highways and Transit
+  - House Committee on Natural Resources
+  - House Committee on Transportation and Infrastructure
+  - Indian and Insular Affairs
+  - "Railroads, Pipelines, and Hazardous Materials"
+  - Water Resources and Environment
 ---
 
 

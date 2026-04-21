@@ -25,6 +25,16 @@ urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4GA03126
 top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[Defend American Jobs]], [[CVS Health - Aetna]], [[Honeywell]], [[Jason Smith]], [[Drummond Co.]], [[Jim Jordan]], [[AT&T - WarnerMedia]], [[Morgan Stanley]], [[Chevron]], [[Comcast - NBCUniversal]], [[Cliff Bentz]], [[Gilead Sciences]], [[National Rifle Association]], [[Coinbase]], [[Associated General Contractors of America Political Action Committee]], [[Anthem - Elevance Health]], [[Amgen Inc]], [[David Rouzer]], [[Google - Alphabet]], [[Performance Racing Inc.]], [[American Conservative Union]], [[National Multifamily Housing Council]], [[National Association of Realtors]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Raytheon (RTX)]], [[Johnson & Johnson]], [[Republican Jewish Coalition]], [[MAJORITY PAC]], [[Southern States Police Benevolent Assoc PAC Fund]], [[Citigroup]], [[Lockheed Martin]], [[American Hospital Association PAC]], [[Walmart - Walton Family]], [[General Motors]], [[National Restaurant Association]], [[Club for Growth INC PAC]], [[General Dynamics]], [[National Victory Action Fund]], [[Club for Growth]], [[Troy Downing]], [[Pfizer Inc.]], [[Mike Collins]], [[Amazon]], [[Blackstone Group]], [[CoreCivic]], [[Oracle]], [[Business Roundtable]], [[America First Policy Institute]], [[American Chemistry Council, INC]], [[NRSC - National Republican Senatorial Committee]], [[Palantir Technologies]], [[Charles Schwab]], [[American Farm Bureau Federation]], [[Citadel - Kenneth Griffin]], [[NextEra Energy]], [[a16z - Andreessen Horowitz]], [[ADM - Archer Daniels Midland]], [[Honeywell International]], [[Majority PAC]], [[AT&T]]"
 last-enriched: 2026-04-21
+committees:
+  - Contracting and Infrastructure
+  - Delivering on Government Efficiency
+  - Federal Law Enforcement
+  - Government Operations
+  - House Committee on Oversight and Government Reform
+  - House Committee on Rules
+  - House Committee on Small Business
+  - "Innovation, Entrepreneurship, and Workforce Development"
+  - Rules and Organization of the House
 ---
 
 

@@ -23,6 +23,13 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21
+committees:
+  - Energy and Mineral Resources
+  - House Committee on Natural Resources
+  - "House Committee on Science, Space, and Technology"
+  - Investigations and Oversight
+  - Research and Technology
+  - "Water, Wildlife and Fisheries"
 ---
 
 

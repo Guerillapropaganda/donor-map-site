@@ -27,6 +27,13 @@ bills-cosponsored: 401
 bills-enacted: 0
 top-policy-area: "Health"
 last-enriched: 2026-04-21
+committees:
+  - Energy and Mineral Resources
+  - Federal Law Enforcement
+  - Health Care and Financial Services
+  - House Committee on Natural Resources
+  - House Committee on Oversight and Government Reform
+  - Oversight and Investigations
 ---
 
 

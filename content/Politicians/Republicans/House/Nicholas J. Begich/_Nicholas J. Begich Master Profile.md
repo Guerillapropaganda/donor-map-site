@@ -23,6 +23,18 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21
+committees:
+  - Aviation
+  - Coast Guard and Maritime Transportation
+  - Energy
+  - Energy and Mineral Resources
+  - Environment
+  - House Committee on Natural Resources
+  - "House Committee on Science, Space, and Technology"
+  - House Committee on Transportation and Infrastructure
+  - Investigations and Oversight
+  - Oversight and Investigations
+  - "Railroads, Pipelines, and Hazardous Materials"
 ---
 
 

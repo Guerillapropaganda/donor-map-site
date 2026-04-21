@@ -27,6 +27,14 @@ bills-cosponsored: 364
 bills-enacted: 1
 top-policy-area: "International Affairs"
 last-enriched: 2026-04-21
+committees:
+  - Contracting and Infrastructure
+  - "Economic Growth, Tax, and Capital Access"
+  - Financial Services and General Government
+  - House Committee on Appropriations
+  - House Committee on Small Business
+  - Legislative Branch
+  - "Military Construction, Veterans Affairs, and Related Agencies"
 ---
 
 

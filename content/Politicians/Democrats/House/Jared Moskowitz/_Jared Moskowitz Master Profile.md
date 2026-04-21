@@ -29,6 +29,14 @@ bills-enacted: 0
 top-policy-area: International Affairs
 top-donors: "[[NextEra Energy]], [[NEA Fund for Children and Public Education]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Sierra Club Independent Action]], [[Teamsters - International Brotherhood of Teamsters]], [[Ted Lieu]], [[General Dynamics]], [[Everytown for Gun Safety]], [[Chevron]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[UA Political Action Committee]], [[Nancy Pelosi]], [[Pfizer Inc.]], [[League of Conservation Voters]], [[Jamie Raskin]], [[American Hospital Association PAC]], [[Let America Vote PAC]], [[SEIU COPE]], [[AIPAC - American Israel Public Affairs Committee]], [[AT&T - WarnerMedia]], [[CVS Health - Aetna]], [[Raytheon (RTX)]], [[Bank of America]], [[Humana]], [[National Association of Realtors]], [[DCCC - Democratic Congressional Campaign Committee]], [[Honeywell]], [[American Gaming Association]], [[Duke Energy]], [[Anthem - Elevance Health]], [[Comcast - NBCUniversal]], [[DMFI - Democratic Majority for Israel]], [[IBEW - International Brotherhood of Electrical Workers]], [[Walmart - Walton Family]], [[Adriano Espaillat]], [[Medicare for All - The Policy That Broke the Party]], [[Protect Our Future PAC]], [[General Motors]], [[Pete Aguilar]], [[Google - Alphabet]], [[Lockheed Martin]], [[Giffords PAC]], [[CBRE Group]], [[Coinbase]], [[Fanjul Family - Florida Crystals]], [[a16z - Andreessen Horowitz]], [[Ballard Partners]], [[Amazon]], [[Lennar Corporation]], [[Business Roundtable]], [[Morgan Stanley]], [[Southern Company]], [[Wells Fargo]], [[News Corp - Fox Corporation]], [[Citadel - Kenneth Griffin]], [[AT&T]], [[Honeywell International]], [[American Federation of State County & Municipal Employees  P E O P L E]]"
 last-enriched: 2026-04-21
+committees:
+  - Crime and Federal Government Surveillance
+  - East Asia and Pacific
+  - House Committee on Foreign Affairs
+  - House Committee on the Judiciary
+  - "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
+  - Oversight
+  - Oversight and Intelligence
 ---
 
 

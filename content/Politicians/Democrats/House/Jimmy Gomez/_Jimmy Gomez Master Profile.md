@@ -29,6 +29,13 @@ bills-enacted: 1
 top-policy-area: Health
 top-donors: "[[Protect Progress]], [[Planned Parenthood Votes]], [[National Association of Realtors]], [[Teamsters - International Brotherhood of Teamsters]], [[Robert Garcia]], [[Morgan Stanley]], [[Judy Chu]], [[CVS Health - Aetna]], [[Progressive Turnout Project]], [[Demand Justice]], [[American Hospital Association PAC]], [[Johnson & Johnson]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[CHC BOLD PAC]], [[National Multifamily Housing Council]], [[Ted Lieu]], [[Lockheed Martin]], [[Adriano Espaillat]], [[AT&T - WarnerMedia]], [[IBEW - International Brotherhood of Electrical Workers]], [[American Federation of State County & Municipal Employees P E O P L E]], [[General Motors]], [[League of Conservation Voters]], [[NextEra Energy]], [[Sierra Club Independent Action]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Microsoft]], [[Anthem - Elevance Health]], [[AIPAC - American Israel Public Affairs Committee]], [[Humana]], [[SEIU COPE]], [[Pete Aguilar]], [[Let America Vote PAC]], [[Comcast - NBCUniversal]], [[DMFI - Democratic Majority for Israel]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Care Action]], [[American Gaming Association]], [[AFL-CIO]], [[United Democracy Project - UDP]], [[Sierra Club Political Committee]], [[Google - Alphabet]], [[Kevin Mullin]], [[Medicare for All - The Policy That Broke the Party]], [[Everytown for Gun Safety]], [[CTA - California Teachers Association]], [[Amgen Inc]], [[Congressional Progressive Caucus PAC]], [[Raytheon (RTX)]], [[Duke Energy]], [[Pfizer Inc.]], [[AbbVie]], [[PG&E - Pacific Gas and Electric]], [[Jamie Raskin]], [[Jim Costa]], [[Nancy Pelosi]], [[Sara Jacobs]], [[Oracle]], [[PG&E]], [[Ballard Partners]], [[AT&T]], [[Verizon]], [[News Corp - Fox Corporation]], [[Apple]], [[Walmart]], [[Meta - Facebook]], [[BlackRock]], [[Gilead Sciences]], [[US CHAMBER OF COMMERCE]], [[Amazon]], [[a16z - Andreessen Horowitz]], [[UFCW - United Food and Commercial Workers]], [[Fanjul Family - Florida Crystals]], [[DNC - Democratic National Committee]], [[Kaiser Permanente]], [[UPS]], [[Airbnb]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[US Chamber of Commerce]]"
 last-enriched: 2026-04-21
+committees:
+  - Central Intelligence Agency
+  - House Committee on Ways and Means
+  - House Permanent Select Committee on Intelligence
+  - National Intelligence Enterprise
+  - Tax
+  - Work and Welfare
 ---
 
 

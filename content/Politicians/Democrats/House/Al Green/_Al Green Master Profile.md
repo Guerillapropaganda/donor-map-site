@@ -28,6 +28,13 @@ bills-enacted: 0
 top-policy-area: Health
 top-donors: "[[Chevron]]"
 last-enriched: 2026-04-21
+committees:
+  - Border Security and Enforcement
+  - Financial Institutions
+  - House Committee on Financial Services
+  - House Committee on Homeland Security
+  - Oversight and Investigations
+  - "Oversight, Investigations, and Accountability"
 ---
 
 

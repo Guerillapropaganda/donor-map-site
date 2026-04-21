@@ -1,7 +1,7 @@
 ---
 title: Lisa Murkowski
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: Lisa Murkowski is Alaska's oil ambassador , a senator whose state's economy is so dependent on fossil fuel extraction that representing Alaska and representing the oil industry are structurally identical. She received $611,000+ from oil and gas ov...
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
@@ -33,6 +33,26 @@ bills-cosponsored: 3582
 bills-enacted: 0
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: Health
+committees:
+  - "Commerce, Justice, Science, and Related Agencies"
+  - Department of Defense
+  - Department of Homeland Security
+  - "Department of Interior, Environment, and Related Agencies"
+  - Education and the American Family
+  - Energy and Water Development
+  - "Military Construction, Veterans Affairs, and Related Agencies"
+  - National Parks
+  - Primary Health and Retirement Security
+  - "Public Lands, Forests, and Mining"
+  - Senate Committee on Appropriations
+  - Senate Committee on Energy and Natural Resources
+  - "Senate Committee on Health, Education, Labor, and Pensions"
+  - Senate Committee on Indian Affairs
+source-types:
+  - Congress
+known-gaps:
+  - "No FEC contribution data"
+  - "No voting record data"
 ---
 
 

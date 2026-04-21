@@ -27,6 +27,15 @@ bills-cosponsored: 779
 bills-enacted: 0
 top-policy-area: "Health"
 last-enriched: 2026-04-21
+committees:
+  - Aviation
+  - "Courts, Intellectual Property, Artificial Intelligence, and the Internet"
+  - Highways and Transit
+  - House Committee on Transportation and Infrastructure
+  - House Committee on the Judiciary
+  - Oversight
+  - "Railroads, Pipelines, and Hazardous Materials"
+  - "The Administrative State, Regulatory Reform, and Antitrust"
 ---
 
 

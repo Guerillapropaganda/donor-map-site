@@ -27,6 +27,10 @@ bills-cosponsored: 266
 bills-enacted: 0
 top-policy-area: "Health"
 last-enriched: 2026-04-21
+committees:
+  - "Commerce, Justice, Science, and Related Agencies"
+  - Energy and Water Development and Related Agencies
+  - House Committee on Appropriations
 ---
 
 

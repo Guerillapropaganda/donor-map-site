@@ -28,6 +28,15 @@ bills-cosponsored: 417
 bills-enacted: 0
 top-policy-area: Health
 last-enriched: 2026-04-21
+committees:
+  - Aviation
+  - "Commodity Markets, Digital Assets, and Rural Development"
+  - House Committee on Agriculture
+  - House Committee on Transportation and Infrastructure
+  - "Livestock, Dairy, and Poultry"
+  - Nutrition and Foreign Agriculture
+  - "Railroads, Pipelines, and Hazardous Materials"
+  - Water Resources and Environment
 ---
 
 

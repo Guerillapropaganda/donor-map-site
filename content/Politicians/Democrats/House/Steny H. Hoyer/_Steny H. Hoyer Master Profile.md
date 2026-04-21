@@ -27,6 +27,11 @@ bills-cosponsored: 95
 bills-enacted: 0
 top-policy-area: "Civil Rights and Liberties, Minority Issues"
 last-enriched: 2026-04-21
+committees:
+  - Financial Services and General Government
+  - House Committee on Appropriations
+  - "Labor, Health and Human Services, Education, and Related Agencies"
+  - Legislative Branch
 ---
 
 

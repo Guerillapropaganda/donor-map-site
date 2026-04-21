@@ -24,6 +24,17 @@ known-gaps:
 urls-first-triaged: "2026-04-15"
 top-donors: "[[Cigna Group]], [[Meta - Facebook]], [[American Farm Bureau Federation]], [[Chevron]], [[Blackstone Group]], [[Lockheed Martin]], [[Amgen Inc]], [[Wells Fargo]], [[AT&T]], [[Charles Schwab]], [[Goldman Sachs]], [[Amazon]], [[Fidelity Investments]]"
 last-enriched: 2026-04-21
+committees:
+  - Aviation
+  - Energy
+  - Energy and Mineral Resources
+  - Environment
+  - Highways and Transit
+  - House Committee on Natural Resources
+  - "House Committee on Science, Space, and Technology"
+  - House Committee on Transportation and Infrastructure
+  - Indian and Insular Affairs
+  - Water Resources and Environment
 ---
 
 

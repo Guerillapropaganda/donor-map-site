@@ -26,6 +26,13 @@ fec-candidate-id: H4AZ03109
 top-donors: "[[SEIU COPE]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Protect Progress]], [[UA Political Action Committee]], [[National Association of Realtors]], [[Medicare for All - The Policy That Broke the Party]], [[Working Families Party PAC]], [[General Dynamics]], [[American College of Radiology Association PAC]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Emily's List]], [[Ted Lieu]], [[Teamsters - International Brotherhood of Teamsters]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Pete Aguilar]], [[Let America Vote PAC]], [[IBEW - International Brotherhood of Electrical Workers]], [[Mainstream Democrats Pac]], [[Unite Here Tip Campaign Committee]], [[DMFI - Democratic Majority for Israel]], [[Amazon]], [[Morgan Stanley]], [[Honeywell International]], [[Tenet Healthcare]], [[Goldman Sachs]], [[Hospital Corporation of America - HCA]], [[Microsoft]], [[DoorDash]], [[Center for American Progress]], [[AT&T]], [[Securus Technologies - Aventiv]], [[Apollo Global Management]], [[Oracle]], [[Gilead Sciences]], [[Google - Alphabet]], [[Carlyle Group]], [[Meta - Facebook]], [[General Motors]], [[American Federation of State County & Municipal Employees  P E O P L E]]"
 last-enriched: 2026-04-21
 corroboration-count: 3
+committees:
+  - "Cybersecurity, Information Technology, and Government Innovation"
+  - "Economic Growth, Energy Policy, and Regulatory Affairs"
+  - Energy and Mineral Resources
+  - House Committee on Natural Resources
+  - House Committee on Oversight and Government Reform
+  - Oversight and Investigations
 ---
 
 

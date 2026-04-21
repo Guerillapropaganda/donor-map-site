@@ -27,6 +27,14 @@ bills-cosponsored: 310
 bills-enacted: 0
 top-policy-area: "Taxation"
 last-enriched: 2026-04-21
+committees:
+  - "Conservation, Research, and Biotechnology"
+  - House Committee on Agriculture
+  - House Committee on Ways and Means
+  - "Livestock, Dairy, and Poultry"
+  - Social Security
+  - Tax
+  - Work and Welfare
 ---
 
 

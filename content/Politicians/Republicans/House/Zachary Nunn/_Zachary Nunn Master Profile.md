@@ -27,6 +27,15 @@ bills-cosponsored: 462
 bills-enacted: 0
 top-policy-area: "International Affairs"
 last-enriched: 2026-04-21
+committees:
+  - Capital Markets
+  - "Commodity Markets, Digital Assets, and Rural Development"
+  - "Digital Assets, Financial Technology, and Artificial Intelligence"
+  - "General Farm Commodities, Risk Management, and Credit"
+  - House Committee on Agriculture
+  - House Committee on Financial Services
+  - House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party
+  - "National Security, Illicit Finance, and International Financial Institutions"
 ---
 
 

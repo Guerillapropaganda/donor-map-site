@@ -27,6 +27,18 @@ bills-cosponsored: 532
 bills-enacted: 0
 top-policy-area: "Crime and Law Enforcement"
 last-enriched: 2026-04-21
+committees:
+  - "Conservation, Research, and Biotechnology"
+  - "Early Childhood, Elementary, and Secondary Education"
+  - Elections
+  - "General Farm Commodities, Risk Management, and Credit"
+  - House Committee on Agriculture
+  - House Committee on Education and Workforce
+  - House Committee on House Administration
+  - Joint Committee on Printing
+  - "Livestock, Dairy, and Poultry"
+  - Nutrition and Foreign Agriculture
+  - Workforce Protections
 ---
 
 

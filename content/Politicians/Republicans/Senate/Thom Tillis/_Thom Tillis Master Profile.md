@@ -1,7 +1,7 @@
 ---
 title: Thom Tillis
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: Thom Tillis is the pharmaceutical industry's most documented senator in the vault's research. His opposition to drug pricing reform, his intellectual property hawkishness, and his consistent legislative service to pharmaceutical and biotech intere...
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -38,11 +38,10 @@ fec-candidate-id: S4NC00162
 bioguide-id: T000476
 source-types:
   - Congress
-  - FEC
   - GovTrack
-corroboration-count: 3
+corroboration-count: 2
 known-gaps:
-  - No mapped relationships
+  - "No FEC contribution data"
 opposes: "[[SMP]] · [[DSCC]] · [[DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE]] · [[SENATE MAJORITY PAC]] · [[NEA ADVOCACY FUND]]"
 related: "[[Pharmaceutical Industry Bloc]] · [[Tech IP and Patent Lobbying]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]]"
 total-raised: $8,072,231
@@ -52,6 +51,22 @@ fec-cycle: 2026
 last-enriched: "2026-04-10"
 donors: "[[Insurance Industry]] · [[Tech IP and Patent Lobbying]] · [[Pharmaceutical Industry Bloc]] · [[Koch Network - Charles Koch]] · [[NEA Advocacy Fund]] · [[Google - Alphabet]] · [[NextEra Energy]] · [[Duke Energy]] · [[Citigroup]] · [[American Chemistry Council, INC]] · [[AT&T - WarnerMedia]] · [[National Multifamily Housing Council]] · [[CoreCivic - Private Prisons]] · [[Anthem - Elevance Health]] · [[Johnson & Johnson]] · [[ConocoPhillips]] · [[National Association of Realtors]] · [[WinRed]] · [[American College of Radiology Association PAC]] · [[American Hospital Association PAC]] · [[Humana]] · [[Amgen Inc]] · [[Gilead Sciences]] · [[Bank of America]] · [[Drummond Co.]] · [[Lockheed Martin]] · [[Women Speak Out Pac]] · [[General Dynamics]] · [[L3Harris Technologies]] · [[Walmart - Walton Family]] · [[Activate America]] · [[McDonalds Corporation]] · [[Raytheon (RTX)]] · [[Occidental Petroleum]] · [[Nucor Corporation]] · [[Microsoft]] · [[Planned Parenthood Votes]] · [[Pfizer Inc.]] · [[BAE Systems]] · [[Chevron]] · [[Tenet Healthcare]] · [[Valero Energy]] · [[Tyson Foods]] · [[General Motors]] · [[AbbVie]] · [[NORPAC]] · [[Morgan Stanley]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Comcast - NBCUniversal]] · [[Tzedek PAC]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[Northrop Grumman]] · [[Ford Motor Company]] · [[AT&T]]"
 urls-first-triaged: "2026-04-15"
+committees:
+  - "Antitrust, Competition Policy, and Consumer Rights"
+  - Border Security and Immigration
+  - Commission on Security and Cooperation in Europe
+  - Digital Assets
+  - Economic Policy
+  - "Federal Courts, Oversight, Agency Action, and Federal Rights"
+  - Financial Institutions and Consumer Protection
+  - Health Care
+  - Intellectual Property
+  - "International Trade, Customs, and Global Competitiveness"
+  - "Senate Committee on Banking, Housing, and Urban Affairs"
+  - Senate Committee on Finance
+  - "Senate Committee on Veterans' Affairs"
+  - Senate Committee on the Judiciary
+  - Taxation and IRS Oversight
 ---
 
 

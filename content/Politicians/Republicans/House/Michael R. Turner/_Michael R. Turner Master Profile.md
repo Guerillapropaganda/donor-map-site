@@ -27,6 +27,12 @@ bills-cosponsored: 151
 bills-enacted: 1
 top-policy-area: "Armed Forces and National Security"
 last-enriched: 2026-04-21
+committees:
+  - House Committee on Armed Services
+  - House Committee on Oversight and Government Reform
+  - Military and Foreign Affairs
+  - Strategic Forces
+  - Tactical Air and Land Forces
 ---
 
 

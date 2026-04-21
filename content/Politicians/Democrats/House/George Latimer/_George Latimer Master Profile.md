@@ -27,6 +27,13 @@ last-enriched: "2026-04-10"
 total-received: $280,886
 fec-candidate-id: H4NY16087
 urls-first-triaged: "2026-04-15"
+committees:
+  - Contracting and Infrastructure
+  - "Economic Growth, Tax, and Capital Access"
+  - House Committee on Foreign Affairs
+  - House Committee on Small Business
+  - Middle East and North Africa
+  - South and Central Asia
 ---
 
 

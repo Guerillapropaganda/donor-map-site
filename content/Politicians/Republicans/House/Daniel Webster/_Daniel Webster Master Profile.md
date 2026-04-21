@@ -31,6 +31,17 @@ bills-enacted: 0
 top-policy-area: Armed Forces and National Security
 top-donors: "[[Duke Energy]], [[Carlos Gimenez]], [[MAJORITY PAC]], [[NextEra Energy]], [[Associated General Contractors of America Political Action Committee]], [[AT&T - WarnerMedia]], [[Lockheed Martin]], [[Comcast - NBCUniversal]], [[General Dynamics]], [[Honeywell]], [[National Rifle Association]], [[Raytheon (RTX)]], [[REPUBLICAN PARTY OF FLORIDA]], [[General Motors]], [[National Association of Realtors]], [[Walmart - Walton Family]], [[WinRed]], [[Congressional Leadership Fund]], [[David Rouzer]], [[National Cattlemen's Beef Association]], [[AIPAC - American Israel Public Affairs Committee]], [[Austin Scott]], [[American Hospital Association PAC]], [[Google - Alphabet]], [[Fanjul Family - Florida Crystals]], [[Ballard Partners]], [[Bank of America]], [[Novo Nordisk]], [[Charles Schwab]], [[America First Policy Institute]], [[Majority PAC]], [[AT&T]], [[Honeywell International]], [[Republican Party of Florida]]"
 last-enriched: 2026-04-21
+committees:
+  - Coast Guard and Maritime Transportation
+  - Energy and Mineral Resources
+  - Highways and Transit
+  - House Committee on Natural Resources
+  - "House Committee on Science, Space, and Technology"
+  - House Committee on Transportation and Infrastructure
+  - Investigations and Oversight
+  - "Railroads, Pipelines, and Hazardous Materials"
+  - Space and Aeronautics
+  - "Water, Wildlife and Fisheries"
 ---
 
 

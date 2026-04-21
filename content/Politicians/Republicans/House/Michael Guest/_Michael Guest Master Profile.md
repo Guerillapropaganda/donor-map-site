@@ -29,6 +29,14 @@ bills-enacted: 1
 top-policy-area: International Affairs
 top-donors: "[[Associated General Contractors of America Political Action Committee]], [[National Rifle Association]], [[Care Action]], [[General Dynamics]], [[MAJORITY PAC]], [[CoreCivic - Private Prisons]], [[Marathon Petroleum]], [[Northrop Grumman]], [[Tyson Foods]], [[Nucor Corporation]], [[Honeywell]], [[National Association of Realtors]], [[American Hospital Association PAC]], [[PG&E - Pacific Gas and Electric]], [[Byron Donalds]], [[Chevron]], [[Lockheed Martin]], [[AT&T - WarnerMedia]], [[David Rouzer]], [[iHeartMedia]], [[Austin Scott]], [[AIPAC - American Israel Public Affairs Committee]], [[Walmart - Walton Family]], [[Leidos]], [[Raytheon (RTX)]], [[Comcast - NBCUniversal]], [[Jake Ellzey]], [[General Motors]], [[WinRed]], [[American Chemistry Council, INC]], [[Congressional Leadership Fund]], [[National Cattlemen's Beef Association]], [[Ben Cline]], [[Jason Smith]], [[Majority PAC]], [[Honeywell International]], [[AT&T]]"
 last-enriched: 2026-04-21
+committees:
+  - Border Security and Enforcement
+  - Energy and Water Development and Related Agencies
+  - Homeland Security
+  - House Committee on Appropriations
+  - House Committee on Ethics
+  - House Committee on Homeland Security
+  - "Military Construction, Veterans Affairs, and Related Agencies"
 ---
 
 

@@ -23,6 +23,13 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21
+committees:
+  - Africa
+  - East Asia and Pacific
+  - House Committee on Foreign Affairs
+  - House Committee on Small Business
+  - "Innovation, Entrepreneurship, and Workforce Development"
+  - "Rural Development, Energy, and Supply Chains"
 ---
 
 

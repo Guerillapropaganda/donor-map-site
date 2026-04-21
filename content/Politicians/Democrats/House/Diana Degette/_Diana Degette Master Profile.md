@@ -32,6 +32,11 @@ bills-enacted: 0
 top-policy-area: Health
 top-donors: "[[Care Action]], [[Google - Alphabet]], [[National Association of Realtors]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[American Hospital Association PAC]], [[Amgen Inc]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Ted Lieu]], [[Raytheon (RTX)]], [[Sierra Club Political Committee]], [[Progressive Turnout Project]], [[Leidos]], [[J Street]], [[AT&T - WarnerMedia]], [[Teamsters - International Brotherhood of Teamsters]], [[IBEW - International Brotherhood of Electrical Workers]], [[Anthem - Elevance Health]], [[Sierra Club Independent Action]], [[Comcast - NBCUniversal]], [[Lockheed Martin]], [[Everytown for Gun Safety]], [[Pete Aguilar]], [[UA Political Action Committee]], [[NextEra Energy]], [[American Chemistry Council, INC]], [[Honeywell]], [[Johnson & Johnson]], [[PG&E - Pacific Gas and Electric]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Medicare for All - The Policy That Broke the Party]], [[National Multifamily Housing Council]], [[Pfizer Inc.]], [[NEA Fund for Children and Public Education]], [[Duke Energy]], [[SEIU COPE]], [[CVS Health - Aetna]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Planned Parenthood Action Fund INC]], [[Gilead Sciences]], [[League of Conservation Voters]], [[National Nurses United]], [[Tenet Healthcare]], [[AIPAC - American Israel Public Affairs Committee]], [[National Committee to Preserve Social Security PAC]], [[General Motors]], [[AbbVie]], [[Walmart - Walton Family]], [[Planned Parenthood Votes]], [[AT&T]], [[Verizon]], [[Bank of America]], [[Microsoft]], [[Meta - Facebook]], [[Palantir Technologies]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Honeywell International]]"
 last-enriched: 2026-04-20
+committees:
+  - Energy
+  - Health
+  - House Committee on Energy and Commerce
+  - Oversight and Investigations
 ---
 
 

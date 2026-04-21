@@ -29,6 +29,15 @@ bills-enacted: 0
 top-policy-area: International Affairs
 top-donors: "[[Club for Growth INC PAC]]"
 last-enriched: 2026-04-21
+committees:
+  - Disability Assistance and Memorial Affairs
+  - Europe
+  - House Committee on Foreign Affairs
+  - "House Committee on Science, Space, and Technology"
+  - "House Committee on Veterans' Affairs"
+  - Oversight and Investigations
+  - South and Central Asia
+  - Space and Aeronautics
 ---
 
 

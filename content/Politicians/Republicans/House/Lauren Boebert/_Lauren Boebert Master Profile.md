@@ -2,7 +2,7 @@
 title: Lauren Boebert
 type: politician
 bioguide-id: B000825
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: "Boebert is the culture war economy personified: she converts media attention into campaign donations without producing legislation or serving donor-class interests in the traditional sense. Her fundraising operates outside the committee-jurisdicti..."
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
@@ -32,6 +32,14 @@ bills-cosponsored: 335
 bills-enacted: 0
 top-policy-area: Government Operations and Politics
 last-enriched: 2026-04-20
+committees:
+  - Delivering on Government Efficiency
+  - "Economic Growth, Energy Policy, and Regulatory Affairs"
+  - Federal Law Enforcement
+  - House Committee on Natural Resources
+  - House Committee on Oversight and Government Reform
+  - Oversight and Investigations
+  - "Water, Wildlife and Fisheries"
 ---
 
 

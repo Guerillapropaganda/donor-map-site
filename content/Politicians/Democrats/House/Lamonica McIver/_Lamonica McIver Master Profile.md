@@ -29,6 +29,14 @@ bills-enacted: 0
 top-policy-area: Health
 top-donors: "[[Mark Takano]], [[American Hospital Association PAC]], [[National Association of Realtors]], [[Comcast - NBCUniversal]], [[SEIU COPE]], [[AbbVie]], [[General Motors]], [[Sierra Club Independent Action]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Johnson & Johnson]], [[Medicare for All - The Policy That Broke the Party]], [[Northrop Grumman]], [[NEA Fund for Children and Public Education]], [[National Committee to Preserve Social Security PAC]], [[Congressional Progressive Caucus PAC]], [[Anthem - Elevance Health]], [[Walmart - Walton Family]], [[League of Conservation Voters]], [[Ted Lieu]], [[Chrissy Houlahan]], [[iHeartMedia]], [[Pete Aguilar]], [[Let America Vote PAC]], [[Teamsters - International Brotherhood of Teamsters]], [[Gabe Amo]], [[Nancy Pelosi]], [[Morgan McGarvey]], [[Bonnie Watson Coleman]], [[Amgen Inc]], [[Coinbase]], [[Google - Alphabet]], [[Novo Nordisk]], [[Morgan Stanley]], [[Cigna Group]], [[AT&T]], [[American Federation of State County & Municipal Employees  P E O P L E]]"
 last-enriched: 2026-04-21
+committees:
+  - Cybersecurity and Infrastructure Protection
+  - "Economic Growth, Tax, and Capital Access"
+  - House Committee on Homeland Security
+  - House Committee on Small Business
+  - "Innovation, Entrepreneurship, and Workforce Development"
+  - "Oversight, Investigations, and Regulations"
+  - Transportation and Maritime Security
 ---
 
 

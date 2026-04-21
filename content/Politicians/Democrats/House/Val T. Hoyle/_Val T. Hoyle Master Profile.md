@@ -27,6 +27,14 @@ bills-cosponsored: 327
 bills-enacted: 2
 top-policy-area: "Health"
 last-enriched: 2026-04-21
+committees:
+  - Aviation
+  - Highways and Transit
+  - House Committee on Natural Resources
+  - House Committee on Transportation and Infrastructure
+  - Indian and Insular Affairs
+  - Water Resources and Environment
+  - "Water, Wildlife and Fisheries"
 ---
 
 

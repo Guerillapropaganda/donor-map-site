@@ -27,6 +27,13 @@ urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4MD03156
 last-enriched: 2026-04-21
 corroboration-count: 3
+committees:
+  - Energy and Mineral Resources
+  - House Committee on Armed Services
+  - House Committee on Natural Resources
+  - Readiness
+  - Seapower and Projection Forces
+  - "Water, Wildlife and Fisheries"
 ---
 
 

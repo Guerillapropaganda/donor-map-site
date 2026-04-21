@@ -27,6 +27,11 @@ bills-cosponsored: 429
 bills-enacted: 0
 top-policy-area: "Health"
 last-enriched: 2026-04-21
+committees:
+  - House Committee on the Budget
+  - House Committee on the Judiciary
+  - "The Administrative State, Regulatory Reform, and Antitrust"
+  - The Constitution and Limited Government
 ---
 
 

@@ -29,6 +29,16 @@ bills-enacted: 2
 top-policy-area: Health
 top-donors: "[[National Rifle Association]], [[McDonalds Corporation]], [[Lockheed Martin]], [[Comcast - NBCUniversal]], [[AT&T - WarnerMedia]], [[Associated General Contractors of America Political Action Committee]], [[Jim Jordan]], [[NextEra Energy]], [[American Chemistry Council, INC]], [[National Association of Realtors]], [[MAJORITY PAC]], [[National Association of Manufacturers]], [[Walmart - Walton Family]], [[WinRed]], [[National Restaurant Association]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Honeywell]], [[Tyson Foods]], [[Care Action]], [[AbbVie]], [[Northrop Grumman]], [[AIPAC - American Israel Public Affairs Committee]], [[American Hospital Association PAC]], [[National Right to Life Victory Fund]], [[Boeing]], [[Honeywell International]], [[Wells Fargo]], [[AT&T]], [[Walmart]], [[Bradley Foundation]], [[Morgan Stanley]], [[Charles Schwab]], [[Citadel - Kenneth Griffin]], [[Majority PAC]]"
 last-enriched: 2026-04-21
+committees:
+  - Health Care and Financial Services
+  - Higher Education and Workforce Development
+  - House Committee on Education and Workforce
+  - House Committee on Oversight and Government Reform
+  - House Committee on the Budget
+  - House Committee on the Judiciary
+  - "Immigration Integrity, Security, and Enforcement"
+  - The Constitution and Limited Government
+  - Workforce Protections
 ---
 
 

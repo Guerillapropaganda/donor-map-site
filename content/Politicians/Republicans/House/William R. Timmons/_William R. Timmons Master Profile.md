@@ -27,6 +27,14 @@ bills-cosponsored: 267
 bills-enacted: 0
 top-policy-area: "Finance and Financial Sector"
 last-enriched: 2026-04-21
+committees:
+  - Delivering on Government Efficiency
+  - "Digital Assets, Financial Technology, and Artificial Intelligence"
+  - Financial Institutions
+  - House Committee on Financial Services
+  - House Committee on Oversight and Government Reform
+  - Housing and Insurance
+  - Military and Foreign Affairs
 ---
 
 

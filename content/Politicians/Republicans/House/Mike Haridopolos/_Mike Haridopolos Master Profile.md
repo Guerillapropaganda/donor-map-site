@@ -25,6 +25,13 @@ urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4FL08168
 top-donors: "[[Raytheon (RTX)]], [[Chevron]], [[National Association of Realtors]], [[Duke Energy]], [[L3Harris Technologies]], [[NextEra Energy]], [[Morgan Stanley]], [[Comcast - NBCUniversal]], [[General Dynamics]], [[Citigroup]], [[National Rifle Association]], [[AIPAC - American Israel Public Affairs Committee]], [[August Pfluger]], [[Troy Downing]], [[National Restaurant Association]], [[Bank of America]], [[CVS Health - Aetna]], [[Lockheed Martin]], [[Northrop Grumman]], [[MAJORITY PAC]], [[American Hospital Association PAC]], [[National Cattlemen's Beef Association]], [[BAE Systems]], [[American College of Radiology Association PAC]], [[Honeywell]], [[Walmart - Walton Family]], [[Coinbase]], [[Jim Jordan]], [[National Multifamily Housing Council]], [[Blackstone Group]], [[Amazon]], [[Goldman Sachs]], [[American Petroleum Institute]], [[Ballard Partners]], [[Fidelity Investments]], [[Johnson & Johnson]], [[Honeywell International]], [[Majority PAC]]"
 last-enriched: 2026-04-21
+committees:
+  - Capital Markets
+  - "Digital Assets, Financial Technology, and Artificial Intelligence"
+  - House Committee on Financial Services
+  - "House Committee on Science, Space, and Technology"
+  - Oversight and Investigations
+  - Space and Aeronautics
 ---
 
 

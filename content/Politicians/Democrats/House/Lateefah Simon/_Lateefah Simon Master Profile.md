@@ -25,6 +25,13 @@ urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4CA12154
 top-donors: "[[SEIU COPE]], [[League of Conservation Voters]], [[IBEW - International Brotherhood of Electrical Workers]], [[National Nurses United]], [[Courage California Super Pac]], [[Ted Lieu]], [[Congressional Progressive Caucus PAC]], [[Amgen Inc]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[NEA Fund for Children and Public Education]], [[Gilead Sciences]], [[J Street]], [[AbbVie]], [[Sierra Club Political Committee]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Medicare for All - The Policy That Broke the Party]], [[Let America Vote PAC]], [[National Association of Realtors]], [[Giffords PAC]], [[American Hospital Association PAC]], [[Anthem - Elevance Health]], [[Nancy Pelosi]], [[Teamsters - International Brotherhood of Teamsters]], [[Comcast - NBCUniversal]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Sierra Club Independent Action]], [[American Federation of State County & Municipal Employees  P E O P L E]]"
 last-enriched: 2026-04-21
+committees:
+  - Federal Law Enforcement
+  - Health Care and Financial Services
+  - House Committee on Oversight and Government Reform
+  - House Committee on Small Business
+  - "Innovation, Entrepreneurship, and Workforce Development"
+  - "Oversight, Investigations, and Regulations"
 ---
 
 

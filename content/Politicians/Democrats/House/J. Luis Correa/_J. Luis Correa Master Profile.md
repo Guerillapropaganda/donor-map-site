@@ -27,6 +27,13 @@ bills-cosponsored: 331
 bills-enacted: 1
 top-policy-area: "Health"
 last-enriched: 2026-04-21
+committees:
+  - Border Security and Enforcement
+  - Counterterrorism and Intelligence
+  - House Committee on Homeland Security
+  - House Committee on the Judiciary
+  - "Immigration Integrity, Security, and Enforcement"
+  - "The Administrative State, Regulatory Reform, and Antitrust"
 ---
 
 

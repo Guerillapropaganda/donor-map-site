@@ -23,6 +23,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21
+committees:
+  - Capital Markets
+  - House Committee on Financial Services
+  - Housing and Insurance
 ---
 
 

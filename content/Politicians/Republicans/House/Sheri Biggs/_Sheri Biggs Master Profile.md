@@ -25,6 +25,16 @@ urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4SC01313
 top-donors: "[[American Hospital Association PAC]], [[Duke Energy]], [[Mike Haridopolos]], [[National Rifle Association]], [[Honeywell]], [[Austin Scott]], [[AIPAC - American Israel Public Affairs Committee]], [[National Association of Realtors]], [[Chevron]], [[National Restaurant Association]], [[Freedom's Defense Fund]], [[Care Action]], [[Troy Downing]], [[VIEW PAC - Value in Electing Women]], [[Nucor Corporation]], [[Lockheed Martin]], [[Anthem - Elevance Health]], [[Associated General Contractors of America Political Action Committee]], [[Jake Ellzey]], [[MAJORITY PAC]], [[Jim Jordan]], [[Honeywell International]], [[Majority PAC]]"
 last-enriched: 2026-04-21
+committees:
+  - Border Security and Enforcement
+  - East Asia and Pacific
+  - Energy
+  - House Committee on Foreign Affairs
+  - House Committee on Homeland Security
+  - "House Committee on Science, Space, and Technology"
+  - Research and Technology
+  - Transportation and Maritime Security
+  - Western Hemisphere
 ---
 
 

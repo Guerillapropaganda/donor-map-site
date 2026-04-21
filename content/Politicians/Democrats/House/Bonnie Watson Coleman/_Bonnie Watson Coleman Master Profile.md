@@ -28,6 +28,11 @@ bills-enacted: 0
 top-policy-area: Health
 top-donors: "[[Google - Alphabet]], [[Citigroup]], [[American Federation of Teachers]], [[Gilead Sciences]], [[Honeywell International]], [[Johnson & Johnson]], [[ENVIRONMENT AMERICA INC]], [[News Corp - Fox Corporation]], [[Novo Nordisk]], [[DNC - Democratic National Committee]], [[Pfizer Inc.]], [[AT&T]], [[Apple]], [[AFSCME - American Federation of State County and Municipal Employees]], [[UPS]], [[UnitedHealth Group - Optum]], [[Bank of America]], [[Wells Fargo]], [[FTX - Sam Bankman-Fried]], [[Comcast - NBCUniversal]], [[Environment America INC]]"
 last-enriched: 2026-04-21
+committees:
+  - House Committee on Appropriations
+  - House Committee on the Budget
+  - "Labor, Health and Human Services, Education, and Related Agencies"
+  - "Transportation, Housing and Urban Development, and Related Agencies"
 ---
 
 

@@ -29,6 +29,13 @@ bills-enacted: 0
 top-policy-area: Health
 top-donors: "[[Amgen Inc]], [[CVS Health - Aetna]], [[Marathon Petroleum]], [[Pfizer Inc.]], [[Valero Energy]], [[General Dynamics]], [[National Rifle Association]], [[Anthem - Elevance Health]], [[Save America PAC]], [[Honeywell]], [[Humana]], [[Walmart - Walton Family]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[American Hospital Association PAC]], [[Tyson Foods]], [[Duke Energy]], [[VIEW PAC - Value in Electing Women]], [[National Association of Realtors]], [[American College of Radiology Association PAC]], [[WinRed]], [[Chevron]], [[iHeartMedia]], [[MAJORITY PAC]], [[Comcast - NBCUniversal]], [[National Multifamily Housing Council]], [[McDonalds Corporation]], [[Lockheed Martin]], [[Austin Scott]], [[AT&T - WarnerMedia]], [[Jason Smith]], [[Performance Racing Inc.]], [[AIPAC - American Israel Public Affairs Committee]], [[Republican Jewish Coalition]], [[Americans for Prosperity]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Northrop Grumman]], [[National Cattlemen's Beef Association]], [[National Restaurant Association]], [[Microsoft]], [[ConocoPhillips]], [[General Motors]], [[BAE Systems]], [[NextEra Energy]], [[David Rouzer]], [[Associated General Contractors of America Political Action Committee]], [[Jim Jordan]], [[Johnson & Johnson]], [[AbbVie]], [[Honeywell International]], [[Majority PAC]], [[AT&T]]"
 last-enriched: 2026-04-21
+committees:
+  - "Commerce, Manufacturing, and Trade"
+  - "Commodity Markets, Digital Assets, and Rural Development"
+  - Communications and Technology
+  - Health
+  - House Committee on Agriculture
+  - House Committee on Energy and Commerce
 ---
 
 

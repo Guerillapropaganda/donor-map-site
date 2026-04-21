@@ -31,6 +31,19 @@ bills-cosponsored: 484
 bills-enacted: 0
 top-policy-area: "International Affairs"
 last-enriched: 2026-04-20
+committees:
+  - Education and the American Family
+  - Emerging Threats and Capabilities
+  - Employment and Workplace Safety
+  - "Near East, South Asia, Central Asia, and Counterterrorism"
+  - Readiness and Management Support
+  - Seapower
+  - Senate Committee on Armed Services
+  - Senate Committee on Foreign Relations
+  - "Senate Committee on Health, Education, Labor, and Pensions"
+  - Senate Committee on the Budget
+  - "State Department and USAID Management, International Operations, and Bilateral International Development"
+  - "Western Hemisphere, Transnational Crime, Civilian Security, Democracy, Human Rights, and Global Women's Issues"
 ---
 
 

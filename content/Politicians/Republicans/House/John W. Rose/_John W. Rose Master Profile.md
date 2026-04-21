@@ -27,6 +27,15 @@ bills-cosponsored: 219
 bills-enacted: 0
 top-policy-area: "Finance and Financial Sector"
 last-enriched: 2026-04-21
+committees:
+  - "Commodity Markets, Digital Assets, and Rural Development"
+  - "Conservation, Research, and Biotechnology"
+  - "Digital Assets, Financial Technology, and Artificial Intelligence"
+  - Financial Institutions
+  - "General Farm Commodities, Risk Management, and Credit"
+  - House Committee on Agriculture
+  - House Committee on Financial Services
+  - Housing and Insurance
 ---
 
 

@@ -23,6 +23,17 @@ donors: "[[ActBlue]]"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21
 corroboration-count: 2
+committees:
+  - "Conservation, Forestry, Natural Resources, and Biotechnology"
+  - Energy
+  - "Food and Nutrition, Specialty Crops, Organics, and Research"
+  - "Livestock, Dairy, Poultry, and Food Safety"
+  - "Public Lands, Forests, and Mining"
+  - "Senate Committee on Agriculture, Nutrition, and Forestry"
+  - Senate Committee on Energy and Natural Resources
+  - Senate Committee on Small Business and Entrepreneurship
+  - Senate Special Committee on Aging
+  - Water and Power
 ---
 
 

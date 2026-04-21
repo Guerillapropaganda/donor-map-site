@@ -25,6 +25,17 @@ urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4MP01022
 top-donors: "[[Jim Jordan]]"
 last-enriched: 2026-04-21
+committees:
+  - Aviation
+  - Contracting and Infrastructure
+  - "Economic Development, Public Buildings, and Emergency Management"
+  - "Economic Growth, Tax, and Capital Access"
+  - Economic Opportunity
+  - Health
+  - Highways and Transit
+  - House Committee on Small Business
+  - House Committee on Transportation and Infrastructure
+  - "House Committee on Veterans' Affairs"
 ---
 
 

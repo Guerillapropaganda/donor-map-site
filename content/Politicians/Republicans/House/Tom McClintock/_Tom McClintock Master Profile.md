@@ -32,6 +32,14 @@ bills-cosponsored: 171
 bills-enacted: 0
 top-policy-area: "International Affairs"
 last-enriched: 2026-04-21
+committees:
+  - Federal Lands
+  - House Committee on Natural Resources
+  - House Committee on the Budget
+  - House Committee on the Judiciary
+  - "Immigration Integrity, Security, and Enforcement"
+  - The Constitution and Limited Government
+  - "Water, Wildlife and Fisheries"
 ---
 
 

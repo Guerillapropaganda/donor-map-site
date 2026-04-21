@@ -42,6 +42,20 @@ bills-cosponsored: 335
 bills-enacted: 0
 top-policy-area: International Affairs
 last-enriched: 2026-04-20
+committees:
+  - Airland
+  - "Chemical Safety, Waste Management, Environmental Justice, and Regulatory Oversight"
+  - "Coast Guard, Maritime, and Fisheries"
+  - "Fisheries, Wildlife, and Water"
+  - Readiness and Management Support
+  - Seapower
+  - Senate Committee on Armed Services
+  - "Senate Committee on Commerce, Science, and Transportation"
+  - Senate Committee on Environment and Public Works
+  - "Senate Committee on Veterans' Affairs"
+  - "Surface Transportation, Freight, Pipelines, and Safety"
+  - Telecommunications and Media
+  - Transportation and Infrastructure
 ---
 
 

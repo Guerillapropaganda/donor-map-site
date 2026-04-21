@@ -29,6 +29,13 @@ bills-enacted: 0
 top-policy-area: International Affairs
 top-donors: "[[National Association of Realtors]], [[Save America PAC]], [[National Rifle Association]], [[Club for Growth INC PAC]], [[Lockheed Martin]], [[American Hospital Association PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[AT&T - WarnerMedia]], [[Planned Parenthood Votes]], [[WinRed]], [[JPAC - Jewish Public Affairs Committee of California]], [[MAJORITY PAC]], [[Duke Energy]], [[AT&T]], [[Heritage Foundation]], [[Morgan Stanley]], [[Wells Fargo]], [[McDonalds Corporation]], [[Bank of America]], [[Majority PAC]]"
 last-enriched: 2026-04-21
+committees:
+  - Financial Institutions
+  - House Committee on Financial Services
+  - House Committee on Rules
+  - House Committee on the Budget
+  - Housing and Insurance
+  - Legislative and Budget Process
 ---
 
 

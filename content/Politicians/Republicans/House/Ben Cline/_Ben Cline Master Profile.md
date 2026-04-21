@@ -28,6 +28,17 @@ bills-enacted: 0
 top-policy-area: Crime and Law Enforcement
 top-donors: "[[Apple]], [[Goldman Sachs]], [[NRCC - National Republican Congressional Committee]], [[Verizon]], [[American Gaming Association]], [[iHeartMedia]], [[ADM - Archer Daniels Midland]], [[Leidos]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[Bechtel Corporation]], [[FTX - Sam Bankman-Fried]]"
 last-enriched: 2026-04-21
+committees:
+  - "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies"
+  - "Commerce, Justice, Science, and Related Agencies"
+  - "Courts, Intellectual Property, Artificial Intelligence, and the Internet"
+  - Defense Intelligence and Overhead Architecture
+  - House Committee on Appropriations
+  - House Committee on the Budget
+  - House Committee on the Judiciary
+  - House Permanent Select Committee on Intelligence
+  - National Security Agency and Cyber
+  - "The Administrative State, Regulatory Reform, and Antitrust"
 ---
 
 

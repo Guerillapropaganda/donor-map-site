@@ -27,6 +27,11 @@ bills-cosponsored: 200
 bills-enacted: 2
 top-policy-area: "Armed Forces and National Security"
 last-enriched: 2026-04-21
+committees:
+  - Defense
+  - Financial Services and General Government
+  - House Committee on Appropriations
+  - "Transportation, Housing and Urban Development, and Related Agencies"
 ---
 
 

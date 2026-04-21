@@ -32,6 +32,15 @@ bills-enacted: 1
 top-policy-area: International Affairs
 top-donors: "[[Unite Here Tip Campaign Committee]], [[Emily's List]], [[DCCC - Democratic Congressional Campaign Committee]], [[NextEra Energy]], [[Planned Parenthood Votes]], [[Google - Alphabet]], [[Lockheed Martin]], [[Anthem - Elevance Health]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Women Speak Out Pac]], [[Paul Tonko]], [[Leidos]], [[Pete Aguilar]], [[Giffords PAC]], [[National Multifamily Housing Council]], [[Medicare for All - The Policy That Broke the Party]], [[American Hospital Association PAC]], [[UA Political Action Committee]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Mark Takano]], [[NEA Fund for Children and Public Education]], [[Planned Parenthood Action Fund INC]], [[Walmart - Walton Family]], [[League of Conservation Voters]], [[Morgan McGarvey]], [[National Nurses United]], [[Ford Motor Company]], [[Sara Jacobs]], [[Activate America]], [[Nancy Pelosi]], [[Humane Society Legislative Fund]], [[Sierra Club Independent Action]], [[Jason Crow]], [[Hmp]], [[Progressive Turnout Project]], [[DMFI - Democratic Majority for Israel]], [[Opportunity for All Action Fund]], [[AIPAC - American Israel Public Affairs Committee]], [[Mark Kelly]], [[Honeywell]], [[Mark DeSaulnier]], [[Performance Racing Inc.]], [[Teamsters - International Brotherhood of Teamsters]], [[Everytown for Gun Safety]], [[Amgen Inc]], [[Let America Vote PAC]], [[National Education Association]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Julia Brownley]], [[SEIU COPE]], [[Comcast - NBCUniversal]], [[Northrop Grumman]], [[Sierra Club Political Committee]], [[Fairshake PAC]], [[AT&T - WarnerMedia]], [[Human Rights Campaign Equality Votes]], [[Ted Lieu]], [[Robert Garcia]], [[General Motors]], [[AFL-CIO]], [[ENVIRONMENT AMERICA INC]], [[Veronica Escobar]], [[Americans for Prosperity]], [[National Association of Realtors]], [[MoveOn.org Political Action]], [[American Gaming Association]], [[Judy Chu]], [[Congressional Leadership Fund]], [[HMP]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Honeywell International]], [[AT&T]], [[Environment America INC]]"
 last-enriched: 2026-04-20
+committees:
+  - Aviation
+  - "Economic Development, Public Buildings, and Emergency Management"
+  - Europe
+  - Highways and Transit
+  - House Committee on Foreign Affairs
+  - House Committee on Transportation and Infrastructure
+  - "Railroads, Pipelines, and Hazardous Materials"
+  - Western Hemisphere
 ---
 
 

@@ -25,6 +25,18 @@ urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4KS02164
 top-donors: "[[CoreCivic - Private Prisons]], [[Troy Downing]], [[Chevron]], [[Raytheon (RTX)]], [[AT&T - WarnerMedia]], [[Honeywell]], [[Associated General Contractors of America Political Action Committee]], [[National Restaurant Association]], [[Kansans for Life Political Action Committee]], [[Walmart - Walton Family]], [[General Motors]], [[National Cattlemen's Beef Association]], [[American Hospital Association PAC]], [[Hunter Action Fund (haf)]], [[AIPAC - American Israel Public Affairs Committee]], [[National Association of Realtors]], [[Conservative Outsider Pac Inc]], [[Pfizer Inc.]], [[National Rifle Association]], [[Jim Jordan]], [[General Dynamics]], [[MAJORITY PAC]], [[Leidos]], [[Google - Alphabet]], [[Lockheed Martin]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[American College of Radiology Association PAC]], [[Northrop Grumman]], [[Americans for Prosperity]], [[US CHAMBER OF COMMERCE]], [[Novo Nordisk]], [[Morgan Stanley]], [[Amazon]], [[Goldman Sachs]], [[Anduril Industries]], [[Boeing]], [[Wells Fargo]], [[Honeywell International]], [[Majority PAC]], [[US Chamber of Commerce]], [[AT&T]]"
 last-enriched: 2026-04-21
+committees:
+  - House Committee on Armed Services
+  - House Committee on Small Business
+  - House Committee on the Judiciary
+  - "Immigration Integrity, Security, and Enforcement"
+  - "Innovation, Entrepreneurship, and Workforce Development"
+  - Military Personnel
+  - Oversight
+  - Readiness
+  - "Rural Development, Energy, and Supply Chains"
+  - Tactical Air and Land Forces
+  - "The Administrative State, Regulatory Reform, and Antitrust"
 ---
 
 

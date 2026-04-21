@@ -23,6 +23,13 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21
+committees:
+  - Contracting and Infrastructure
+  - House Committee on Armed Services
+  - House Committee on Small Business
+  - Intelligence and Special Operations
+  - Military Personnel
+  - "Oversight, Investigations, and Regulations"
 ---
 
 

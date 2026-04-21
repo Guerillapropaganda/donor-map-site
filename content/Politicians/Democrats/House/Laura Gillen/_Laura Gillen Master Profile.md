@@ -25,6 +25,14 @@ urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2NY04244
 top-donors: "[[Pfizer Inc.]], [[League of Conservation Voters]], [[Joe Neguse]], [[NRCC - National Republican Congressional Committee]], [[Let America Vote PAC]], [[Sierra Club Independent Action]], [[Ted Lieu]], [[Food and Water Action]], [[SEIU COPE]], [[Everytown for Gun Safety Victory Fund]], [[Opportunity for All Action Fund]], [[Mark Kelly]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Jason Crow]], [[DMFI - Democratic Majority for Israel]], [[Protect Our Future PAC]], [[Pete Aguilar]], [[IBEW - International Brotherhood of Electrical Workers]], [[Judy Chu]], [[General Motors]], [[AT&T - WarnerMedia]], [[Congressional Leadership Fund]], [[Anthem - Elevance Health]], [[Morgan McGarvey]], [[Center Forward Committee]], [[Debbie Dingell]], [[Leadership Now]], [[Comcast - NBCUniversal]], [[Planned Parenthood Votes]], [[DCCC - Democratic Congressional Campaign Committee]], [[Lockheed Martin]], [[Coinbase]], [[Giffords PAC]], [[Planned Parenthood Action Fund INC]], [[Adriano Espaillat]], [[Jake Auchincloss]], [[Progressive Turnout Project]], [[Emily's List]], [[NEA Fund for Children and Public Education]], [[National Association of Realtors]], [[Hmp]], [[Nancy Pelosi]], [[UA Political Action Committee]], [[AT&T]], [[HMP]]"
 last-enriched: 2026-04-21
+committees:
+  - Aviation
+  - Coast Guard and Maritime Transportation
+  - Highways and Transit
+  - "House Committee on Science, Space, and Technology"
+  - House Committee on Transportation and Infrastructure
+  - Space and Aeronautics
+  - Water Resources and Environment
 ---
 
 

@@ -29,6 +29,13 @@ bills-enacted: 0
 top-policy-area: Health
 top-donors: "[[League of Conservation Voters]], [[Emily's List]]"
 last-enriched: 2026-04-21
+committees:
+  - Delivering on Government Efficiency
+  - House Committee on Oversight and Government Reform
+  - House Committee on the Judiciary
+  - "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
+  - "Immigration Integrity, Security, and Enforcement"
+  - Oversight
 ---
 
 

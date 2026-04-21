@@ -27,6 +27,14 @@ bills-cosponsored: 494
 bills-enacted: 1
 top-policy-area: "Health"
 last-enriched: 2026-04-21
+committees:
+  - Aviation
+  - Coast Guard and Maritime Transportation
+  - Highways and Transit
+  - House Committee on Transportation and Infrastructure
+  - House Committee on the Judiciary
+  - "Immigration Integrity, Security, and Enforcement"
+  - Oversight
 ---
 
 

@@ -27,6 +27,12 @@ bills-cosponsored: 630
 bills-enacted: 0
 top-policy-area: "Health"
 last-enriched: 2026-04-21
+committees:
+  - Delivering on Government Efficiency
+  - Federal Lands
+  - House Committee on Natural Resources
+  - House Committee on Oversight and Government Reform
+  - "Water, Wildlife and Fisheries"
 ---
 
 

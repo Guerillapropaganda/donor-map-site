@@ -28,6 +28,20 @@ bills-cosponsored: 352
 bills-enacted: 0
 top-policy-area: International Affairs
 last-enriched: 2026-04-21
+committees:
+  - Africa
+  - Central Intelligence Agency
+  - "Conservation, Research, and Biotechnology"
+  - House Committee on Agriculture
+  - House Committee on Armed Services
+  - House Committee on Foreign Affairs
+  - House Permanent Select Committee on Intelligence
+  - Intelligence and Special Operations
+  - "Livestock, Dairy, and Poultry"
+  - Middle East and North Africa
+  - Oversight and Intelligence
+  - Oversight and Investigations
+  - Seapower and Projection Forces
 ---
 
 

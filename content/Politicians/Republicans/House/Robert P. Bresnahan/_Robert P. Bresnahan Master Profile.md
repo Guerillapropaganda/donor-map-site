@@ -23,6 +23,17 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21
+committees:
+  - Aviation
+  - "Commodity Markets, Digital Assets, and Rural Development"
+  - "Conservation, Research, and Biotechnology"
+  - "Economic Development, Public Buildings, and Emergency Management"
+  - "Economic Growth, Tax, and Capital Access"
+  - Highways and Transit
+  - House Committee on Agriculture
+  - House Committee on Small Business
+  - House Committee on Transportation and Infrastructure
+  - "Innovation, Entrepreneurship, and Workforce Development"
 ---
 
 

@@ -23,6 +23,13 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21
+committees:
+  - Border Security and Enforcement
+  - Cybersecurity and Infrastructure Protection
+  - Delivering on Government Efficiency
+  - House Committee on Homeland Security
+  - House Committee on Oversight and Government Reform
+  - Military and Foreign Affairs
 ---
 
 

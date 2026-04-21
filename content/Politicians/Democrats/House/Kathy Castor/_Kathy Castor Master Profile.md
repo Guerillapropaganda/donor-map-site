@@ -29,6 +29,12 @@ bills-enacted: 1
 top-policy-area: Health
 top-donors: "[[General Motors]], [[Lockheed Martin]], [[ENVIRONMENT AMERICA INC]], [[Google - Alphabet]], [[AbbVie]], [[League of Conservation Voters]], [[AIPAC - American Israel Public Affairs Committee]], [[American Hospital Association PAC]], [[iHeartMedia]], [[Comcast - NBCUniversal]], [[Sinclair Broadcast Group]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Care Action]], [[Sierra Club Independent Action]], [[General Dynamics]], [[Honeywell]], [[Pfizer Inc.]], [[Teamsters - International Brotherhood of Teamsters]], [[Anthem - Elevance Health]], [[SEIU COPE]], [[AT&T - WarnerMedia]], [[Microsoft]], [[American College of Radiology Association PAC]], [[Sierra Club Political Committee]], [[National Association of Realtors]], [[Walmart - Walton Family]], [[NEA Fund for Children and Public Education]], [[Performance Racing Inc.]], [[IBEW - International Brotherhood of Electrical Workers]], [[CVS Health - Aetna]], [[Johnson & Johnson]], [[Planned Parenthood Votes]], [[Progressive Turnout Project]], [[Nucor Corporation]], [[National Multifamily Housing Council]], [[National Committee to Preserve Social Security PAC]], [[UA Political Action Committee]], [[Nancy Pelosi]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Ford Motor Company]], [[McDonalds Corporation]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Citigroup]], [[AT&T]], [[Environment America INC]], [[Honeywell International]], [[American Federation of State County & Municipal Employees  P E O P L E]]"
 last-enriched: 2026-04-21
+committees:
+  - "Commerce, Manufacturing, and Trade"
+  - Communications and Technology
+  - Energy
+  - House Committee on Energy and Commerce
+  - House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party
 ---
 
 

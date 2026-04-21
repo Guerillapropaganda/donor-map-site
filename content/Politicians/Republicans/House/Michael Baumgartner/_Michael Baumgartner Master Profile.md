@@ -25,6 +25,16 @@ urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4WA05234
 top-donors: "[[National Rifle Association]], [[Tyson Foods]], [[Chevron]], [[National Association of Realtors]], [[Walmart - Walton Family]], [[Puget Sound Energy INC PAC for Good Government]], [[Comcast - NBCUniversal]], [[AIPAC - American Israel Public Affairs Committee]], [[Jim Jordan]], [[Associated General Contractors of America Political Action Committee]], [[Microsoft]], [[Honeywell]], [[National Cattlemen's Beef Association]], [[Troy Downing]], [[AT&T - WarnerMedia]], [[National Restaurant Association]], [[MAJORITY PAC]], [[General Dynamics]], [[American Hospital Association PAC]], [[AT&T]], [[Honeywell International]], [[Majority PAC]]"
 last-enriched: 2026-04-21
+committees:
+  - "Courts, Intellectual Property, Artificial Intelligence, and the Internet"
+  - "Health, Employment, Labor, and Pensions"
+  - Higher Education and Workforce Development
+  - House Committee on Education and Workforce
+  - House Committee on Foreign Affairs
+  - House Committee on the Judiciary
+  - Middle East and North Africa
+  - South and Central Asia
+  - "The Administrative State, Regulatory Reform, and Antitrust"
 ---
 
 

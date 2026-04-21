@@ -40,6 +40,20 @@ bills-cosponsored: 571
 bills-enacted: 0
 top-policy-area: Health
 last-enriched: 2026-04-20
+committees:
+  - Digital Assets
+  - Economic Policy
+  - Fiscal Responsibility and Economic Growth
+  - "Food and Nutrition, Specialty Crops, Organics, and Research"
+  - Health Care
+  - "Housing, Transportation, and Community Development"
+  - "International Trade, Customs, and Global Competitiveness"
+  - "Livestock, Dairy, Poultry, and Food Safety"
+  - "Rural Development, Energy, and Credit"
+  - "Senate Committee on Agriculture, Nutrition, and Forestry"
+  - "Senate Committee on Banking, Housing, and Urban Affairs"
+  - Senate Committee on Finance
+  - Senate Committee on Indian Affairs
 ---
 
 

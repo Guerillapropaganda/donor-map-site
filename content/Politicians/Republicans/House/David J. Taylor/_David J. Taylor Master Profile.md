@@ -23,6 +23,14 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21
+committees:
+  - "Commodity Markets, Digital Assets, and Rural Development"
+  - "General Farm Commodities, Risk Management, and Credit"
+  - Highways and Transit
+  - House Committee on Agriculture
+  - House Committee on Transportation and Infrastructure
+  - "Railroads, Pipelines, and Hazardous Materials"
+  - Water Resources and Environment
 ---
 
 

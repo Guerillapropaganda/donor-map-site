@@ -27,6 +27,14 @@ bills-cosponsored: 195
 bills-enacted: 1
 top-policy-area: "Crime and Law Enforcement"
 last-enriched: 2026-04-21
+committees:
+  - Federal Lands
+  - Financial Services and General Government
+  - Homeland Security
+  - House Committee on Appropriations
+  - House Committee on Natural Resources
+  - "Interior, Environment, and Related Agencies"
+  - Oversight and Investigations
 ---
 
 

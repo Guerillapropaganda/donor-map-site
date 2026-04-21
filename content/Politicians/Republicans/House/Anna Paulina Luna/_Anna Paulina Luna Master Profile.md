@@ -29,6 +29,15 @@ bills-enacted: 0
 top-policy-area: Crime and Law Enforcement
 top-donors: "[[Andy Harris]], [[Campaign for Working Families]], [[REPUBLICAN PARTY OF FLORIDA]], [[Club for Growth INC PAC]], [[Planned Parenthood Votes]], [[NRCC - National Republican Congressional Committee]], [[Ron Estes]], [[AT&T - WarnerMedia]], [[National Rifle Association]], [[Jim Jordan]], [[MAJORITY PAC]], [[Austin Scott]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[PRIORITIES USA ACTION]], [[Ralph Norman]], [[American Conservative Union]], [[Duke Energy]], [[Gun Owners of America]], [[WinRed]], [[Byron Donalds]], [[Eric Burlison]], [[Daniel Webster]], [[Darrell Issa]], [[Save America PAC]], [[Club for Growth]], [[Women Speak Out Pac]], [[National Right to Life Victory Fund]], [[Madison Project Inc.]], [[National Association of Realtors]], [[Mike Haridopolos]], [[Honeywell]], [[Senate Conservatives Fund]], [[AIPAC - American Israel Public Affairs Committee]], [[Lockheed Martin]], [[ExxonMobil]], [[Amazon]], [[Anthem - Elevance Health Political Operation]], [[Boeing]], [[Kelcy Warren - Energy Transfer Partners]], [[Oracle]], [[Apple]], [[SpaceX]], [[Bank of America]], [[BAE Systems]], [[Starbucks]], [[UPS]], [[Microsoft]], [[AT&T]], [[Walmart]], [[MasTec - Mas Canosa Family]], [[Morgan Stanley]], [[Raytheon (RTX Corporation)]], [[Honeywell International]], [[Fidelity Investments]], [[Northrop Grumman]], [[Wells Fargo]], [[CVS Health - Aetna]], [[Republican Party of Florida]], [[Majority PAC]], [[Priorities USA Action]]"
 last-enriched: 2026-04-21
+committees:
+  - "Cybersecurity, Information Technology, and Government Innovation"
+  - Delivering on Government Efficiency
+  - Europe
+  - Health Care and Financial Services
+  - House Committee on Foreign Affairs
+  - House Committee on Oversight and Government Reform
+  - Military and Foreign Affairs
+  - Oversight and Intelligence
 ---
 
 

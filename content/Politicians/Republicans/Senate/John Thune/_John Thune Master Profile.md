@@ -2,7 +2,7 @@
 title: John Thune
 type: politician
 bioguide-id: T000250
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: John Thune's 20-year Senate career demonstrates the corporate capture model at its most institutionally successful. An agricultural-state senator from South Dakota , population 900,000, median household income $65K , is funded primarily by NextEra...
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
@@ -17,11 +17,10 @@ top-donors: "[[Insurance Industry]] · [[National Right to Life Victory Fund]] �
 total-received: $1,221,843
 fec-candidate-id: S2SD00068
 source-types:
-  - FEC
+  - Congress
 known-gaps:
-  - No legislative record from Congress.gov
-  - No voting record data
-  - No mapped relationships
+  - "No FEC contribution data"
+  - "No voting record data"
 related: "[[_Mitch McConnell Master Profile]] · [[_Donald Trump Master Profile]] · [[_Rick Scott Master Profile]] · [[John Cornyn]] · [[League of Conservation Voters]]"
 donors: "[[NRA Political Victory Fund]] · [[Insurance Industry]] · [[CLUB FOR GROWTH INC PAC]] · [[National Right to Life Victory Fund]] · [[NextEra Energy]] · [[Goldman Sachs]] · [[Club for Growth INC PAC]] · [[League of Conservation Voters]] · [[Occidental Petroleum]] · [[Honeywell]] · [[ConocoPhillips]] · [[L3Harris Technologies]] · [[National Association of Realtors]] · [[National Rifle Association]] · [[Duke Energy]] · [[ADM - Archer Daniels Midland]] · [[iHeartMedia]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Valero Energy]] · [[Ford Motor Company]] · [[Republican Jewish Coalition]] · [[CoreCivic - Private Prisons]] · [[National Association of Manufacturers]] · [[Leidos]] · [[Raytheon (RTX)]] · [[AIPAC - American Israel Public Affairs Committee]] · [[WinRed]] · [[Humana]] · [[General Motors]] · [[Associated General Contractors of America Political Action Committee]] · [[Pfizer Inc.]] · [[McDonalds Corporation]] · [[General Dynamics]] · [[American Chemistry Council, INC]] · [[Anthem - Elevance Health]] · [[Common Sense for America PAC]] · [[Google - Alphabet]] · [[Amgen Inc]] · [[BAE Systems]] · [[American Gaming Association]] · [[Tenet Healthcare]] · [[Chevron]] · [[Citigroup]] · [[DoorDash]] · [[AbbVie]] · [[Northrop Grumman]] · [[Really American Pac]] · [[Lockheed Martin]] · [[Morgan Stanley]] · [[Gilead Sciences]] · [[National Victory Action Fund]] · [[Johnson & Johnson]] · [[Comcast - NBCUniversal]] · [[Coinbase]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[National Multifamily Housing Council]] · [[AT&T - WarnerMedia]] · [[Marathon Petroleum]] · [[American Hospital Association PAC]] · [[Tyson Foods]] · [[Airbnb]] · [[National Restaurant Association]] · [[CVS Health - Aetna]] · [[American Energy Action Fund]] · [[PG&E - Pacific Gas and Electric]] · [[Sinclair Broadcast Group]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Walmart - Walton Family]] · [[Bank of America]] · [[Halliburton]] · [[Microsoft]] · [[AT&T]] · [[Honeywell International]]"
 urls-first-triaged: "2026-04-15"
@@ -30,6 +29,21 @@ bills-cosponsored: 260
 bills-enacted: 0
 top-policy-area: Health
 last-enriched: 2026-04-20
+committees:
+  - "Aviation, Space, and Innovation"
+  - "Commodities, Derivatives, Risk Management, and Trade"
+  - "Conservation, Forestry, Natural Resources, and Biotechnology"
+  - "Consumer Protection, Technology, and Data Privacy"
+  - Health Care
+  - "International Trade, Customs, and Global Competitiveness"
+  - "Livestock, Dairy, Poultry, and Food Safety"
+  - "Senate Committee on Agriculture, Nutrition, and Forestry"
+  - "Senate Committee on Commerce, Science, and Transportation"
+  - Senate Committee on Finance
+  - Senate Select Committee on Intelligence
+  - "Surface Transportation, Freight, Pipelines, and Safety"
+  - Taxation and IRS Oversight
+  - Telecommunications and Media
 ---
 
 

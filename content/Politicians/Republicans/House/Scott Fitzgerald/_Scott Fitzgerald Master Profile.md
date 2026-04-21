@@ -29,6 +29,13 @@ bills-enacted: 1
 top-policy-area: Finance and Financial Sector
 top-donors: "[[Care Action]], [[AIPAC - American Israel Public Affairs Committee]], [[Bank of America]], [[National Right to Life Victory Fund]], [[WinRed]], [[MAJORITY PAC]], [[Jim Jordan]], [[AT&T - WarnerMedia]], [[Walmart - Walton Family]], [[CVS Health - Aetna]], [[Microsoft]], [[National Cattlemen's Beef Association]], [[Anthem - Elevance Health]], [[National Association of Realtors]], [[National Restaurant Association]], [[National Multifamily Housing Council]], [[Honoring American Law Enforcement Pac]], [[General Dynamics]], [[American Hospital Association PAC]], [[Google - Alphabet]], [[Comcast - NBCUniversal]], [[Morgan Stanley]], [[Raytheon (RTX)]], [[iHeartMedia]], [[Lockheed Martin]], [[National Rifle Association]], [[Teamsters - International Brotherhood of Teamsters]], [[Associated General Contractors of America Political Action Committee]], [[Law Enforcement for a Safer America Pac]], [[Citigroup]], [[Jason Smith]], [[Meta - Facebook]], [[Bradley Foundation]], [[Blackstone Group]], [[Eli Lilly]], [[Apple]], [[Humana]], [[American Federation for Children]], [[Majority PAC]], [[AT&T]]"
 last-enriched: 2026-04-21
+committees:
+  - "Courts, Intellectual Property, Artificial Intelligence, and the Internet"
+  - Financial Institutions
+  - House Committee on Financial Services
+  - House Committee on the Judiciary
+  - Housing and Insurance
+  - "The Administrative State, Regulatory Reform, and Antitrust"
 ---
 
 

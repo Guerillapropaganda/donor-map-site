@@ -29,6 +29,13 @@ bills-enacted: 0
 top-policy-area: Health
 top-donors: "[[Raytheon (RTX)]], [[Humana]], [[Johnson & Johnson]], [[Walmart - Walton Family]], [[WinRed]], [[Chevron]], [[American College of Radiology Association PAC]], [[MAJORITY PAC]], [[Gilead Sciences]], [[Pfizer Inc.]], [[Lockheed Martin]], [[Associated General Contractors of America Political Action Committee]], [[Vern Buchanan]], [[CVS Health - Aetna]], [[Amgen Inc]], [[National Association of Realtors]], [[Honeywell]], [[Jason Smith]], [[Tenet Healthcare]], [[National Association of Manufacturers]], [[McDonalds Corporation]], [[Citigroup]], [[National Multifamily Housing Council]], [[National Cattlemen's Beef Association]], [[American Hospital Association PAC]], [[AT&T - WarnerMedia]], [[Jim Jordan]], [[AIPAC - American Israel Public Affairs Committee]], [[Pennsylvania Pro-Life Federation PAC]], [[Save America PAC]], [[Ben Cline]], [[Google - Alphabet]], [[Performance Racing Inc.]], [[NextEra Energy]], [[Bank of America]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Anthem - Elevance Health]], [[Marathon Petroleum]], [[Tyson Foods]], [[AbbVie]], [[Valero Energy]], [[American Gaming Association]], [[National Rifle Association]], [[General Dynamics]], [[Comcast - NBCUniversal]], [[National Restaurant Association]], [[Microsoft]], [[Majority PAC]], [[AT&T]], [[Honeywell International]]"
 last-enriched: 2026-04-21
+committees:
+  - House Committee on Ways and Means
+  - House Committee on the Budget
+  - Joint Economic Committee
+  - Social Security
+  - Tax
+  - Trade
 ---
 
 

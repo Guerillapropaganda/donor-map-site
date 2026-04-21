@@ -27,6 +27,12 @@ bills-cosponsored: 493
 bills-enacted: 0
 top-policy-area: "Health"
 last-enriched: 2026-04-21
+committees:
+  - House Committee on Rules
+  - House Committee on the Judiciary
+  - "Immigration Integrity, Security, and Enforcement"
+  - Rules and Organization of the House
+  - The Constitution and Limited Government
 ---
 
 

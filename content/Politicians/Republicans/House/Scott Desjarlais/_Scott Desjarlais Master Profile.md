@@ -29,6 +29,13 @@ bills-enacted: 0
 top-policy-area: Armed Forces and National Security
 top-donors: "[[Lockheed Martin]], [[AIPAC - American Israel Public Affairs Committee]], [[National Rifle Association]], [[MAJORITY PAC]], [[Leidos]], [[Jim Jordan]], [[WinRed]], [[BAE Systems]], [[National Association of Realtors]], [[National Cattlemen's Beef Association]], [[Honeywell]], [[Raytheon (RTX)]], [[L3Harris Technologies]], [[General Dynamics]], [[Northrop Grumman]], [[Honeywell International]], [[Majority PAC]]"
 last-enriched: 2026-04-21
+committees:
+  - House Committee on Agriculture
+  - House Committee on Armed Services
+  - "Livestock, Dairy, and Poultry"
+  - Nutrition and Foreign Agriculture
+  - Seapower and Projection Forces
+  - Strategic Forces
 ---
 
 

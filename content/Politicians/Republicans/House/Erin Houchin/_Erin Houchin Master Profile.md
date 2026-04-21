@@ -29,6 +29,14 @@ bills-enacted: 1
 top-policy-area: Finance and Financial Sector
 top-donors: "[[Bank of America]], [[Comcast - NBCUniversal]], [[Anthem - Elevance Health]], [[Nucor Corporation]], [[Humana]], [[NextEra Energy]], [[General Motors]], [[Amgen Inc]], [[Tyson Foods]], [[Jim Jordan]], [[Lockheed Martin]], [[National Restaurant Association]], [[Chevron]], [[Care Action]], [[General Dynamics]], [[Citigroup]], [[Performance Racing Inc.]], [[AT&T - WarnerMedia]], [[National Rifle Association]], [[Ben Cline]], [[National Association of Realtors]], [[MAJORITY PAC]], [[Winning for Women PAC]], [[Raytheon (RTX)]], [[Walmart - Walton Family]], [[National Multifamily Housing Council]], [[American Hospital Association PAC]], [[Johnson & Johnson]], [[Honeywell]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Duke Energy]], [[American Dream Federal Action]], [[Tzedek PAC]], [[Google - Alphabet]], [[Associated General Contractors of America Political Action Committee]], [[Gilead Sciences]], [[Coinbase]], [[VIEW PAC - Value in Electing Women]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Halliburton]], [[Crypto Innovation PAC]], [[Byron Donalds]], [[American College of Radiology Association PAC]], [[Morgan Stanley]], [[Jason Smith]], [[WinRed]], [[Elliott Management]], [[Merck]], [[AT&T]], [[Majority PAC]], [[Honeywell International]]"
 last-enriched: 2026-04-21
+committees:
+  - "Commerce, Manufacturing, and Trade"
+  - Communications and Technology
+  - Health
+  - House Committee on Energy and Commerce
+  - House Committee on Rules
+  - House Committee on the Budget
+  - Legislative and Budget Process
 ---
 
 

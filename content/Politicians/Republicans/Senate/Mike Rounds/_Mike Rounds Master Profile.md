@@ -1,7 +1,7 @@
 ---
 title: Mike Rounds
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 last-updated: 2026-04-19
 source-tier: 1
 party: Republican
@@ -32,6 +32,25 @@ top-policy-area: Armed Forces and National Security
 top-donors: "[[WinRed]], [[Northrop Grumman]], [[Morgan Stanley]], [[iHeartMedia]], [[BAE Systems]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Microsoft]], [[L3Harris Technologies]], [[AT&T - WarnerMedia]], [[Walmart - Walton Family]], [[NextEra Energy]], [[National Multifamily Housing Council]], [[American Hospital Association PAC]], [[Republican Jewish Coalition]], [[Common Sense for America PAC]], [[Amgen Inc]], [[Associated General Contractors of America Political Action Committee]], [[Bank of America]], [[Lockheed Martin]], [[Leidos]], [[General Dynamics]], [[Coinbase]], [[Google - Alphabet]], [[Citigroup]], [[NORPAC]], [[Raytheon (RTX)]], [[Comcast - NBCUniversal]], [[National Association of Realtors]], [[AIPAC - American Israel Public Affairs Committee]], [[Duke Energy]], [[National Rifle Association]], [[Chevron]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[American Chemistry Council, INC]], [[NRSC - National Republican Senatorial Committee]], [[AT&T]]"
 last-enriched: 2026-04-20
 corroboration-count: 2
+committees:
+  - "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies"
+  - Commission on Security and Cooperation in Europe
+  - Cybersecurity
+  - "Department of Interior, Environment, and Related Agencies"
+  - "Departments of Labor, Health and Human Services, and Education, and Related Agencies"
+  - Economic Policy
+  - Emerging Threats and Capabilities
+  - Energy and Water Development
+  - "Housing, Transportation, and Community Development"
+  - Legislative Branch
+  - "Military Construction, Veterans Affairs, and Related Agencies"
+  - "Securities, Insurance, and Investment"
+  - Senate Committee on Appropriations
+  - Senate Committee on Armed Services
+  - "Senate Committee on Banking, Housing, and Urban Affairs"
+  - Senate Committee on Indian Affairs
+  - Senate Select Committee on Intelligence
+  - Strategic Forces
 ---
 
 

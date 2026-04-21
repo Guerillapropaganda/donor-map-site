@@ -29,6 +29,14 @@ bills-enacted: 0
 top-policy-area: Crime and Law Enforcement
 top-donors: "[[iHeartMedia]], [[MAJORITY PAC]], [[Save America PAC]], [[WinRed]], [[AbbVie]], [[Really American Pac]], [[Associated General Contractors of America Political Action Committee]], [[Jim Jordan]], [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]], [[National Association of Realtors]], [[General Motors]], [[United Democracy Project - UDP]], [[Eric Burlison]], [[David Rouzer]], [[Cargill]], [[Coinbase]], [[Meta - Facebook]], [[YouTube]], [[Google - Alphabet]], [[Apple]], [[a16z - Andreessen Horowitz]], [[Starbucks]], [[Lockheed Martin]], [[Centene Corporation]], [[Oracle]], [[Pfizer Inc.]], [[SpaceX]], [[Comcast - NBCUniversal]], [[Hospital Corporation of America - HCA]], [[Raytheon (RTX Corporation)]], [[Humana]], [[Northrop Grumman]], [[Tyson Foods]], [[UPS]], [[Airbnb]], [[Kaiser Permanente]], [[MassMutual]], [[Microsoft]], [[AT&T]], [[Walt Disney Company]], [[BAE Systems]], [[Fidelity Investments]], [[Tesla - Elon Musk Political Operation]], [[Bank of America]], [[Amazon]], [[Majority PAC]], [[Protect Freedom Political Action Committee]]"
 last-enriched: 2026-04-21
+committees:
+  - Aviation
+  - "Courts, Intellectual Property, Artificial Intelligence, and the Internet"
+  - Highways and Transit
+  - House Committee on Transportation and Infrastructure
+  - House Committee on the Judiciary
+  - The Constitution and Limited Government
+  - Water Resources and Environment
 ---
 
 

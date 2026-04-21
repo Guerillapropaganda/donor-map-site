@@ -24,6 +24,12 @@ known-gaps:
 urls-first-triaged: "2026-04-15"
 top-donors: "[[CoreCivic]], [[Amazon]], [[Koch Network - Charles Koch]], [[Tyson Foods]], [[CBRE Group]], [[Charles Schwab]], [[Walmart]], [[Humana]], [[Hospital Corporation of America - HCA]]"
 last-enriched: 2026-04-21
+committees:
+  - Counterterrorism and Intelligence
+  - House Committee on Homeland Security
+  - "House Committee on Science, Space, and Technology"
+  - "Oversight, Investigations, and Accountability"
+  - Transportation and Maritime Security
 ---
 
 

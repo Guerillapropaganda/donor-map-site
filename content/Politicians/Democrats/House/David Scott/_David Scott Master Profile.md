@@ -29,6 +29,13 @@ bills-enacted: 0
 top-policy-area: Health
 top-donors: "[[Anthem - Elevance Health]], [[Walmart - Walton Family]], [[Honeywell]], [[Associated General Contractors of America Political Action Committee]], [[American College of Radiology Association PAC]], [[Bank of America]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Chevron]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Citigroup]], [[AIPAC - American Israel Public Affairs Committee]], [[National Association of Realtors]], [[SEIU COPE]], [[AT&T - WarnerMedia]], [[IBEW - International Brotherhood of Electrical Workers]], [[Morgan Stanley]], [[National Multifamily Housing Council]], [[Comcast - NBCUniversal]], [[ADM - Archer Daniels Midland]], [[NEA Fund for Children and Public Education]], [[Teamsters - International Brotherhood of Teamsters]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Sierra Club Independent Action]], [[American Hospital Association PAC]], [[Center Forward Committee]], [[McDonalds Corporation]], [[Lockheed Martin]], [[Ted Lieu]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[National Cattlemen's Beef Association]], [[General Dynamics]], [[General Motors]], [[Progressive Turnout Project]], [[Johnson & Johnson]], [[Microsoft]], [[DMFI - Democratic Majority for Israel]], [[Tyson Foods]], [[Pfizer Inc.]], [[Monsanto - Bayer]], [[Ripple]], [[Blackstone Group]], [[Goldman Sachs]], [[Kaiser Permanente]], [[Verizon]], [[AT&T]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Honeywell International]]"
 last-enriched: 2026-04-21
+committees:
+  - Capital Markets
+  - "Commodity Markets, Digital Assets, and Rural Development"
+  - Financial Institutions
+  - "General Farm Commodities, Risk Management, and Credit"
+  - House Committee on Agriculture
+  - House Committee on Financial Services
 ---
 
 

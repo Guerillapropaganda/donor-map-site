@@ -27,6 +27,14 @@ bills-cosponsored: 53
 bills-enacted: 0
 top-policy-area: "Crime and Law Enforcement"
 last-enriched: 2026-04-21
+committees:
+  - "Early Childhood, Elementary, and Secondary Education"
+  - Energy
+  - Health
+  - "Health, Employment, Labor, and Pensions"
+  - House Committee on Education and Workforce
+  - House Committee on Energy and Commerce
+  - Oversight and Investigations
 ---
 
 

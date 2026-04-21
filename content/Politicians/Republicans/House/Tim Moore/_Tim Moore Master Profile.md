@@ -27,6 +27,12 @@ urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4NC14015
 last-enriched: 2026-04-21
 corroboration-count: 3
+committees:
+  - "Digital Assets, Financial Technology, and Artificial Intelligence"
+  - Financial Institutions
+  - House Committee on Financial Services
+  - House Committee on the Budget
+  - Oversight and Investigations
 ---
 
 

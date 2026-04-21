@@ -27,6 +27,13 @@ bills-cosponsored: 502
 bills-enacted: 2
 top-policy-area: "Armed Forces and National Security"
 last-enriched: 2026-04-21
+committees:
+  - Aviation
+  - House Committee on Armed Services
+  - House Committee on Transportation and Infrastructure
+  - "Railroads, Pipelines, and Hazardous Materials"
+  - Readiness
+  - Seapower and Projection Forces
 ---
 
 

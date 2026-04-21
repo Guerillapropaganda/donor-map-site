@@ -1,7 +1,7 @@
 ---
 title: Tim Scott
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: "Tim Scott is the Republican donor class's most structurally valuable senator: a Black conservative who provides racial cover for economic policies that harm Black communities, occupying the chairmanship of the committee that regulates the industri..."
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
@@ -41,6 +41,27 @@ bills-cosponsored: 1876
 bills-enacted: 0
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: International Affairs
+committees:
+  - Digital Assets
+  - Economic Policy
+  - Education and the American Family
+  - Employment and Workplace Safety
+  - "Energy, Natural Resources, and Infrastructure"
+  - Financial Institutions and Consumer Protection
+  - Health Care
+  - "Housing, Transportation, and Community Development"
+  - "International Trade, Customs, and Global Competitiveness"
+  - National Security and International Trade and Finance
+  - "Securities, Insurance, and Investment"
+  - "Senate Committee on Banking, Housing, and Urban Affairs"
+  - Senate Committee on Finance
+  - "Senate Committee on Health, Education, Labor, and Pensions"
+  - Senate Committee on Small Business and Entrepreneurship
+source-types:
+  - Congress
+known-gaps:
+  - "No FEC contribution data"
+  - "No voting record data"
 ---
 
 

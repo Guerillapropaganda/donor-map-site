@@ -28,6 +28,13 @@ bills-enacted: 0
 top-policy-area: Finance and Financial Sector
 top-donors: "[[Wells Fargo]], [[Apollo Global Management]], [[National Association of Realtors]], [[Marathon Petroleum]], [[Bank of America]], [[Morgan Stanley]], [[National Restaurant Association]], [[Las Vegas Sands]], [[Blackstone Group]], [[Humana]], [[Charles Schwab]], [[Anthem - Elevance Health Political Operation]], [[Meta - Facebook]], [[Johnson & Johnson]], [[CVS Health - Aetna]], [[Microsoft]], [[Koch Network - Charles Koch]], [[Goldman Sachs]], [[Coinbase]], [[Business Roundtable]], [[Chevron]], [[JPMorgan Chase]], [[Ripple]], [[US CHAMBER OF COMMERCE]], [[UPS]], [[Uber]], [[AT&T]], [[a16z - Andreessen Horowitz]], [[BlackRock]], [[Fidelity Investments]], [[Walmart]], [[McDonalds Corporation]], [[Carlyle Group]], [[Ford Motor Company]], [[Citadel - Kenneth Griffin]], [[Elliott Management]], [[Pfizer Inc.]], [[Amgen Inc]], [[Hospital Corporation of America - HCA]], [[US Chamber of Commerce]]"
 last-enriched: 2026-04-21
+committees:
+  - East Asia and Pacific
+  - Financial Institutions
+  - House Committee on Financial Services
+  - House Committee on Foreign Affairs
+  - House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party
+  - "National Security, Illicit Finance, and International Financial Institutions"
 ---
 
 

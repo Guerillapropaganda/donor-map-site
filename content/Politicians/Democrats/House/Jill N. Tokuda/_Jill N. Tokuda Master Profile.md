@@ -27,6 +27,14 @@ bills-cosponsored: 1052
 bills-enacted: 0
 top-policy-area: "Health"
 last-enriched: 2026-04-21
+committees:
+  - "Conservation, Research, and Biotechnology"
+  - House Committee on Agriculture
+  - House Committee on Armed Services
+  - House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party
+  - Military Personnel
+  - Nutrition and Foreign Agriculture
+  - Readiness
 ---
 
 

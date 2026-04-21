@@ -18,6 +18,14 @@ urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4MT01041
 top-donors: "[[Hmp]], [[National Association of Realtors]], [[National Rifle Association]], [[NRCC - National Republican Congressional Committee]], [[Associated General Contractors of America Political Action Committee]], [[Jim Jordan]], [[Byron Donalds]], [[Comcast - NBCUniversal]], [[WinRed]], [[AT&T - WarnerMedia]], [[Ron Estes]], [[ConocoPhillips]], [[Leidos]], [[Anthem - Elevance Health]], [[PRIORITIES USA ACTION]], [[CoreCivic - Private Prisons]], [[Vern Buchanan]], [[Walmart - Walton Family]], [[Michael Waltz]], [[Congressional Leadership Fund]], [[Austin Scott]], [[Raytheon (RTX)]], [[Halliburton]], [[Honeywell]], [[American Conservative Union]], [[Google - Alphabet]], [[Alliance Coal, LLC PAC]], [[Hunter Action Fund (haf)]], [[Campaign for Working Families]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Rick W. Allen]], [[Devon Energy]], [[Cliff Bentz]], [[Occidental Petroleum]], [[Chevron]], [[Planned Parenthood Votes]], [[Freedom's Defense Fund]], [[Ben Cline]], [[L3Harris Technologies]], [[League of Conservation Voters]], [[Jason Smith]], [[Joe Wilson]], [[David Rouzer]], [[NextEra Energy]], [[Americans for Prosperity]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Amgen Inc]], [[Kevin Kiley]], [[Brad Knott]], [[Pete Sessions]], [[HMP]], [[Priorities USA Action]], [[Honeywell International]], [[AT&T]]"
 last-enriched: 2026-04-21
+committees:
+  - East Asia and Pacific
+  - House Committee on Appropriations
+  - House Committee on Foreign Affairs
+  - "Interior, Environment, and Related Agencies"
+  - Middle East and North Africa
+  - "Military Construction, Veterans Affairs, and Related Agencies"
+  - "Transportation, Housing and Urban Development, and Related Agencies"
 ---
 
 

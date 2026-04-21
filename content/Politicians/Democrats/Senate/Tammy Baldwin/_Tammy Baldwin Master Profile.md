@@ -1,7 +1,7 @@
 ---
 title: Tammy Baldwin
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: "### Baldwin is the rare progressive who wins in a swing state by anchoring her progressive economic agenda to specific Wisconsin industries , dairy, manufacturing, healthcare , rather than abstract ideology. Her donor architecture reveals the stru..."
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
@@ -28,11 +28,10 @@ top-donors:
 fec-candidate-id: S2WI00219
 source-types:
   - Congress
-  - FEC
 corroboration-count: 2
 known-gaps:
-  - No voting record data
-  - No mapped relationships
+  - "No FEC contribution data"
+  - "No voting record data"
 related: "[[_Ron Johnson Master Profile|Ron Johnson]] · [[_Amy Klobuchar Master Profile|Klobuchar]] · [[Blue Cross Blue Shield Association]] · [[SEIU - Service Employees International Union|SEIU]] · [[_Chuck Schumer Master Profile|Schumer]] · [[_Elizabeth Warren Master Profile|Warren]] · [[American Principles Project Pac]]"
 last-enriched: "2026-04-10"
 bioguide-id: B001230
@@ -43,6 +42,22 @@ bills-cosponsored: 6796
 bills-enacted: 2
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: Health
+committees:
+  - "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies"
+  - "Coast Guard, Maritime, and Fisheries"
+  - "Consumer Protection, Technology, and Data Privacy"
+  - Department of Defense
+  - "Department of Interior, Environment, and Related Agencies"
+  - "Departments of Labor, Health and Human Services, and Education, and Related Agencies"
+  - Employment and Workplace Safety
+  - Energy and Water Development
+  - "Military Construction, Veterans Affairs, and Related Agencies"
+  - Primary Health and Retirement Security
+  - "Science, Manufacturing, and Competitiveness"
+  - Senate Committee on Appropriations
+  - "Senate Committee on Commerce, Science, and Transportation"
+  - "Senate Committee on Health, Education, Labor, and Pensions"
+  - Telecommunications and Media
 ---
 
 

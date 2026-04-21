@@ -29,6 +29,13 @@ bills-enacted: 0
 top-policy-area: Finance and Financial Sector
 top-donors: "[[National Rental Home Council]], [[Lockheed Martin]], [[AT&T - WarnerMedia]], [[Associated General Contractors of America Political Action Committee]], [[American Hospital Association PAC]], [[Marathon Petroleum]], [[National Association of Realtors]], [[MAJORITY PAC]], [[National Multifamily Housing Council]], [[National Rifle Association]], [[Citigroup]], [[American Chemistry Council, INC]], [[Austin Scott]], [[Walmart - Walton Family]], [[Morgan Stanley]], [[Save America PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[Ben Cline]], [[JPAC - Jewish Public Affairs Committee of California]], [[Bank of America]], [[AT&T]], [[Majority PAC]]"
 last-enriched: 2026-04-21
+committees:
+  - Elections
+  - Financial Institutions
+  - House Committee on Financial Services
+  - House Committee on House Administration
+  - "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
+  - Oversight and Investigations
 ---
 
 

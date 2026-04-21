@@ -29,6 +29,11 @@ bills-enacted: 0
 top-policy-area: Health
 top-donors: "[[Raytheon (RTX)]], [[IBEW - International Brotherhood of Electrical Workers]], [[Demand Justice]], [[Tyson Foods]], [[CVS Health - Aetna]], [[American Federation of State County & Municipal Employees P E O P L E]], [[AT&T - WarnerMedia]], [[iHeartMedia]], [[BAE Systems]], [[Medicare for All - The Policy That Broke the Party]], [[NEA Fund for Children and Public Education]], [[L3Harris Technologies]], [[J Street]], [[Walmart - Walton Family]], [[Pfizer Inc.]], [[Planned Parenthood Action Fund INC]], [[Amgen Inc]], [[Anthem - Elevance Health]], [[Ted Lieu]], [[Let America Vote PAC]], [[MoveOn.org Political Action]], [[National Nurses United]], [[National Association of Realtors]], [[Everytown for Gun Safety]], [[VOTER PROTECTION PROJECT]], [[General Motors]], [[UA Political Action Committee]], [[American Hospital Association PAC]], [[Humana]], [[Google - Alphabet]], [[General Dynamics]], [[American Chemistry Council, INC]], [[CHC BOLD PAC]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Lockheed Martin]], [[League of Conservation Voters]], [[Tenet Healthcare]], [[Comcast - NBCUniversal]], [[Microsoft]], [[Sierra Club Independent Action]], [[Giffords PAC]], [[Honeywell]], [[Leidos]], [[SEIU COPE]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Tzedek PAC]], [[Marathon Petroleum]], [[Citigroup]], [[Planned Parenthood Votes]], [[Progressive Turnout Project]], [[DCCC - Democratic Congressional Campaign Committee]], [[Northrop Grumman]], [[Walmart]], [[Anduril Industries]], [[Morgan Stanley]], [[Raytheon (RTX Corporation)]], [[AT&T]], [[Meta - Facebook]], [[Blackstone Group]], [[CBRE Group]], [[Goldman Sachs]], [[Oracle]], [[Bank of America]], [[Wells Fargo]], [[Palantir Technologies]], [[Amazon]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Voter Protection Project]], [[Honeywell International]]"
 last-enriched: 2026-04-21
+committees:
+  - Homeland Security
+  - House Committee on Appropriations
+  - House Committee on the Budget
+  - "Military Construction, Veterans Affairs, and Related Agencies"
 ---
 
 

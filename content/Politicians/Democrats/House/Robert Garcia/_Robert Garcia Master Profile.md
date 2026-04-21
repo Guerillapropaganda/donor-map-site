@@ -29,6 +29,11 @@ bills-enacted: 1
 top-policy-area: Health
 top-donors: "[[DMFI - Democratic Majority for Israel]], [[Pfizer Inc.]], [[League of Conservation Voters]], [[Microsoft]], [[American Federation of State County & Municipal Employees P E O P L E]], [[EQUALITY PROJECT PAC]], [[UA Political Action Committee]], [[General Motors]], [[Let America Vote PAC]], [[Pete Aguilar]], [[Adriano Espaillat]], [[AIPAC - American Israel Public Affairs Committee]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[National Association of Realtors]], [[Planned Parenthood Action Fund INC]], [[J Street]], [[American Hospital Association PAC]], [[SEIU COPE]], [[Giffords PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[NEA Fund for Children and Public Education]], [[National Nurses United]], [[CHC BOLD PAC]], [[Sierra Club Independent Action]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[IBEW - International Brotherhood of Electrical Workers]], [[Courage California Super Pac]], [[Medicare for All - The Policy That Broke the Party]], [[Teamsters - International Brotherhood of Teamsters]], [[Unite Here Tip Campaign Committee]], [[Gilead Sciences]], [[CVS Health - Aetna]], [[Judy Chu]], [[Protect Our Future PAC]], [[Comcast - NBCUniversal]], [[Ted Lieu]], [[Anthem - Elevance Health]], [[Progressive Turnout Project]], [[AT&T - WarnerMedia]], [[Congressional Progressive Caucus PAC]], [[Everytown for Gun Safety]], [[Sierra Club Political Committee]], [[Google - Alphabet]], [[Joe Neguse]], [[Demand Justice]], [[Verizon]], [[UPS]], [[Amazon]], [[Northrop Grumman]], [[AT&T]], [[Raytheon (RTX Corporation)]], [[Kaiser Permanente]], [[UnitedHealth Group - Optum]], [[WSPA - Western States Petroleum Association]], [[Coinbase]], [[Walmart]], [[Cigna Group]], [[Wells Fargo]], [[AFGE - American Federation of Government Employees]], [[TikTok - ByteDance]], [[Ballard Partners]], [[Boeing]], [[Occidental Petroleum]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Equality Project PAC]]"
 last-enriched: 2026-04-21
+committees:
+  - Aviation
+  - Highways and Transit
+  - House Committee on Oversight and Government Reform
+  - House Committee on Transportation and Infrastructure
 ---
 
 

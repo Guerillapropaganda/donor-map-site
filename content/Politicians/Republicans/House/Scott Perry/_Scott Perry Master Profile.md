@@ -29,6 +29,19 @@ bills-cosponsored: 221
 bills-enacted: 0
 top-policy-area: Government Operations and Politics
 last-enriched: 2026-04-21
+committees:
+  - Aviation
+  - "Economic Development, Public Buildings, and Emergency Management"
+  - "Economic Growth, Energy Policy, and Regulatory Affairs"
+  - Federal Law Enforcement
+  - House Committee on Foreign Affairs
+  - House Committee on Oversight and Government Reform
+  - House Committee on Transportation and Infrastructure
+  - House Permanent Select Committee on Intelligence
+  - National Intelligence Enterprise
+  - Open Source Intelligence
+  - Oversight and Intelligence
+  - South and Central Asia
 ---
 
 

@@ -25,6 +25,15 @@ urls-first-triaged: "2026-04-15"
 fec-candidate-id: H6FL01390
 top-donors: "[[REPUBLICAN PARTY OF FLORIDA]], [[Republican Jewish Coalition]], [[National Association of Realtors]], [[Jim Jordan]], [[Comcast - NBCUniversal]], [[Defend American Jobs]], [[Freedom's Defense Fund]], [[AIPAC - American Israel Public Affairs Committee]], [[National Cattlemen's Beef Association]], [[American Conservative Union]], [[SPECIAL OPERATIONS FOR AMERICA]], [[Care Action]], [[NextEra Energy]], [[Law Enforcement for a Safer America Pac]], [[American Hospital Association PAC]], [[National Restaurant Association]], [[UA Political Action Committee]], [[National Rifle Association]], [[Anthem - Elevance Health]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Right to Life Victory Fund]], [[America PAC - Elon Musk]], [[Americans for Prosperity]], [[AT&T - WarnerMedia]], [[Republican Party of Florida]], [[AT&T]], [[Special Operations for America]]"
 last-enriched: 2026-04-21
+committees:
+  - Aviation
+  - Coast Guard and Maritime Transportation
+  - House Committee on Small Business
+  - House Committee on Transportation and Infrastructure
+  - "Innovation, Entrepreneurship, and Workforce Development"
+  - "Oversight, Investigations, and Regulations"
+  - "Rural Development, Energy, and Supply Chains"
+  - Water Resources and Environment
 ---
 
 

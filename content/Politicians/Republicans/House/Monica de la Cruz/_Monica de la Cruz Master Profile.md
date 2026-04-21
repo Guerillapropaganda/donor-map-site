@@ -37,6 +37,13 @@ bills-cosponsored: 315
 bills-enacted: 0
 top-policy-area: International Affairs
 top-donors: "[[Chevron]], [[National Victory Action Fund]], [[General Dynamics]], [[Marathon Petroleum]], [[MAJORITY PAC]], [[Walmart - Walton Family]], [[Planned Parenthood Votes]], [[Campaign for Working Families]], [[Jake Ellzey]], [[National Rifle Association]], [[National Multifamily Housing Council]], [[WinRed]], [[Adrian Smith]], [[August Pfluger]], [[Byron Donalds]], [[Bank of America]], [[ConocoPhillips]], [[The Sentinel Action Fund]], [[Mike Collins]], [[Austin Scott]], [[Elbert Guillory's America]], [[Google - Alphabet]], [[Save America PAC]], [[National Association of Realtors]], [[General Motors]], [[National Cattlemen's Beef Association]], [[AIPAC - American Israel Public Affairs Committee]], [[Congressional Leadership Fund]], [[Valero Energy]], [[Republican Jewish Coalition]], [[Fairshake PAC - Crypto Super PAC]], [[VIEW PAC - Value in Electing Women]], [[Opportunity Matters Fund]], [[Pete Sessions]], [[Hmp]], [[Wfw Action Fund, Inc.]], [[Rick W. Allen]], [[Lockheed Martin]], [[Cliff Bentz]], [[Nathaniel Moran]], [[NRCC - National Republican Congressional Committee]], [[Darrell Issa]], [[Morgan Stanley]], [[Americans for Prosperity]], [[Joe Wilson]], [[National Right to Life Victory Fund]], [[Jim Jordan]], [[Associated General Contractors of America Political Action Committee]], [[Eric Burlison]], [[American Hospital Association PAC]], [[Halliburton]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[National Restaurant Association]], [[Ron Estes]], [[Vern Buchanan]], [[AT&T - WarnerMedia]], [[Amgen Inc]], [[Citigroup]], [[Kevin Kiley]], [[David Rouzer]], [[Andy Harris]], [[Comcast - NBCUniversal]], [[Majority PAC]], [[Fairshake PAC]], [[HMP]], [[AT&T]]"
+committees:
+  - Financial Institutions
+  - "General Farm Commodities, Risk Management, and Credit"
+  - House Committee on Agriculture
+  - House Committee on Financial Services
+  - Housing and Insurance
+  - Nutrition and Foreign Agriculture
 ---
 
 

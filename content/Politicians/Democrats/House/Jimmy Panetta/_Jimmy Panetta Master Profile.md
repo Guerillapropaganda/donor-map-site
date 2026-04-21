@@ -28,6 +28,10 @@ bills-cosponsored: 683
 bills-enacted: 2
 top-policy-area: Taxation
 last-enriched: 2026-04-21
+committees:
+  - House Committee on Ways and Means
+  - House Committee on the Budget
+  - Trade
 ---
 
 

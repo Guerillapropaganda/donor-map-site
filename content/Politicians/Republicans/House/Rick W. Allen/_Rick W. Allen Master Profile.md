@@ -28,6 +28,13 @@ bills-enacted: 1
 top-policy-area: Health
 top-donors: "[[Blackstone Group]], [[AT&T]], [[McDonalds Corporation]], [[AbbVie]], [[Comcast - NBCUniversal]], [[Morgan Stanley]]"
 last-enriched: 2026-04-21
+committees:
+  - Communications and Technology
+  - Energy
+  - "Health, Employment, Labor, and Pensions"
+  - House Committee on Education and Workforce
+  - House Committee on Energy and Commerce
+  - Oversight and Investigations
 ---
 
 

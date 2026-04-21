@@ -28,6 +28,14 @@ bills-cosponsored: 324
 bills-enacted: 1
 top-policy-area: International Affairs
 last-enriched: 2026-04-21
+committees:
+  - East Asia and Pacific
+  - Europe
+  - Financial Institutions
+  - House Committee on Financial Services
+  - House Committee on Foreign Affairs
+  - House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party
+  - "National Security, Illicit Finance, and International Financial Institutions"
 ---
 
 

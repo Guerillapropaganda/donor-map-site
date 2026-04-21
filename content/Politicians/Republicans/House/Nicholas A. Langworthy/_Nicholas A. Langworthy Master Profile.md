@@ -27,6 +27,14 @@ bills-cosponsored: 364
 bills-enacted: 1
 top-policy-area: "Crime and Law Enforcement"
 last-enriched: 2026-04-21
+committees:
+  - Energy
+  - Environment
+  - Health
+  - House Committee on Energy and Commerce
+  - House Committee on Oversight and Government Reform
+  - House Committee on Rules
+  - Legislative and Budget Process
 ---
 
 

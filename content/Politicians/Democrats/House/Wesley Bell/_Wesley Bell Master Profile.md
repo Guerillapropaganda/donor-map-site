@@ -1,7 +1,7 @@
 ---
 title: Wesley Bell
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: null
 parent: null
@@ -23,12 +23,11 @@ issues:
   - Labor and Employment
 related: "[[_Cori Bush Master Profile]] · [[United Democracy Project - UDP]] · [[DMFI - Democratic Majority for Israel]] · [[AIPAC - American Israel Public Affairs Committee]]"
 donors: "[[Bernie Marcus]] · [[UNITED DEMOCRACY PROJECT ('UDP')]] · [[DMFI - Democratic Majority for Israel]] · [[DMFI PAC]] · [[Mainstream Democrats Pac]] · [[JUSTICE DEMOCRATS PAC]] · [[WORKING FAMILIES PARTY PAC]] · [[Working Families Party PAC]] · [[Justice Democrats PAC]] · [[Microsoft]] · [[Raytheon (RTX)]] · [[L3Harris Technologies]] · [[National Association of Realtors]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Pete Aguilar]] · [[General Motors]] · [[League of Conservation Voters]] · [[Northrop Grumman]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[CVS Health - Aetna]] · [[Walmart - Walton Family]] · [[United Democracy Project - UDP]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[Medicare for All - The Policy That Broke the Party]] · [[General Dynamics]] · [[NEA Fund for Children and Public Education]] · [[Nucor Corporation]] · [[AT&T - WarnerMedia]] · [[Ted Lieu]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Lockheed Martin]] · [[Planned Parenthood Votes]] · [[Honeywell]] · [[Anthem - Elevance Health]] · [[ADM - Archer Daniels Midland]] · [[Pfizer Inc.]] · [[NORPAC]] · [[Leidos]] · [[Comcast - NBCUniversal]] · [[Citigroup]] · [[American Federation of State County & Municipal Employees  P E O P L E]] · [[AT&T]] · [[Honeywell International]]"
-source-types: []
+source-types:
+  - Congress
 known-gaps:
-  - Stub created 2026-04-09 to preserve vault connections
-  - Full build required: biography, Ferguson prosecutor tenure, St. Louis County Prosecuting Attorney role, 2024 primary
-  - No FEC candidate ID verified
-  - No pipeline enrichment
+  - "No FEC contribution data"
+  - "No voting record data"
 last-enriched: "2026-04-10"
 total-received: $1,272,557
 fec-candidate-id: H4MO01134
@@ -37,6 +36,13 @@ urls-first-triaged: "2026-04-15"
 bills-sponsored: 25
 bills-cosponsored: 401
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+committees:
+  - Federal Law Enforcement
+  - Health Care and Financial Services
+  - House Committee on Armed Services
+  - House Committee on Oversight and Government Reform
+  - Strategic Forces
+  - Tactical Air and Land Forces
 ---
 
 

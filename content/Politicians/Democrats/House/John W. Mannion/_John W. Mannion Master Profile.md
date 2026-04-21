@@ -23,6 +23,13 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21
+committees:
+  - "Commodity Markets, Digital Assets, and Rural Development"
+  - "Conservation, Research, and Biotechnology"
+  - "Early Childhood, Elementary, and Secondary Education"
+  - "Health, Employment, Labor, and Pensions"
+  - House Committee on Agriculture
+  - House Committee on Education and Workforce
 ---
 
 

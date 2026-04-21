@@ -29,6 +29,13 @@ bills-enacted: 0
 top-policy-area: Health
 top-donors: "[[Raytheon (RTX)]], [[Amgen Inc]], [[NEA Fund for Children and Public Education]], [[Lockheed Martin]], [[AIPAC - American Israel Public Affairs Committee]], [[Care Action]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[National Association of Realtors]], [[NextEra Energy]], [[Comcast - NBCUniversal]], [[SEIU COPE]], [[Sierra Club Independent Action]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Ted Lieu]], [[Progressive Turnout Project]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Walmart - Walton Family]], [[American Hospital Association PAC]], [[Leidos]], [[AbbVie]], [[AT&T - WarnerMedia]], [[DMFI - Democratic Majority for Israel]], [[Pfizer Inc.]], [[AT&T]], [[American Federation of State County & Municipal Employees  P E O P L E]]"
 last-enriched: 2026-04-21
+committees:
+  - Africa
+  - Health
+  - House Committee on Foreign Affairs
+  - "House Committee on Veterans' Affairs"
+  - Middle East and North Africa
+  - Technology Modernization
 ---
 
 

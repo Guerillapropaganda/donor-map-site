@@ -29,6 +29,14 @@ bills-enacted: 0
 top-policy-area: Health
 top-donors: "[[American Federation of State County & Municipal Employees P E O P L E]], [[American Hospital Association PAC]], [[Honeywell]], [[Walmart - Walton Family]], [[Northrop Grumman]], [[Gilead Sciences]], [[Morgan Stanley]], [[AIPAC - American Israel Public Affairs Committee]], [[Teamsters - International Brotherhood of Teamsters]], [[J Street]], [[General Dynamics]], [[Medicare for All - The Policy That Broke the Party]], [[Comcast - NBCUniversal]], [[SEIU COPE]], [[Citigroup]], [[National Multifamily Housing Council]], [[AT&T - WarnerMedia]], [[UA Political Action Committee]], [[Leidos]], [[L3Harris Technologies]], [[Google - Alphabet]], [[Progressive Turnout Project]], [[iHeartMedia]], [[Sierra Club Independent Action]], [[NEA Fund for Children and Public Education]], [[Raytheon (RTX)]], [[Everytown for Gun Safety]], [[Bank of America]], [[National Association of Realtors]], [[McDonalds Corporation]], [[Sierra Club Political Committee]], [[Lockheed Martin]], [[AbbVie]], [[Planned Parenthood Votes]], [[American College of Radiology Association PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Nurses United]], [[General Motors]], [[AT&T]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Honeywell International]]"
 last-enriched: 2026-04-21
+committees:
+  - Defense Intelligence and Overhead Architecture
+  - House Committee on Appropriations
+  - House Permanent Select Committee on Intelligence
+  - Legislative Branch
+  - "National Security, Department of State, and Related Programs"
+  - Open Source Intelligence
+  - "Transportation, Housing and Urban Development, and Related Agencies"
 ---
 
 

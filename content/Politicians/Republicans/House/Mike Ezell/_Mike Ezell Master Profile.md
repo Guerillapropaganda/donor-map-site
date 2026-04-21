@@ -27,6 +27,13 @@ bills-cosponsored: 220
 bills-enacted: 1
 top-policy-area: "Crime and Law Enforcement"
 last-enriched: 2026-04-21
+committees:
+  - Coast Guard and Maritime Transportation
+  - "Economic Development, Public Buildings, and Emergency Management"
+  - Energy and Mineral Resources
+  - House Committee on Natural Resources
+  - House Committee on Transportation and Infrastructure
+  - "Water, Wildlife and Fisheries"
 ---
 
 

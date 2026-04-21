@@ -27,6 +27,14 @@ bills-cosponsored: 596
 bills-enacted: 0
 top-policy-area: "Health"
 last-enriched: 2026-04-21
+committees:
+  - "Courts, Intellectual Property, Artificial Intelligence, and the Internet"
+  - Energy
+  - Environment
+  - House Committee on Ethics
+  - "House Committee on Science, Space, and Technology"
+  - House Committee on the Judiciary
+  - "Immigration Integrity, Security, and Enforcement"
 ---
 
 

@@ -27,6 +27,12 @@ bills-cosponsored: 395
 bills-enacted: 1
 top-policy-area: "International Affairs"
 last-enriched: 2026-04-21
+committees:
+  - House Committee on Foreign Affairs
+  - House Committee on Ways and Means
+  - Oversight and Intelligence
+  - Tax
+  - Trade
 ---
 
 

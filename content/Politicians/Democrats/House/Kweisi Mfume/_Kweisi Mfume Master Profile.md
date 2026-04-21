@@ -29,6 +29,13 @@ bills-enacted: 0
 top-policy-area: Health
 top-donors: "[[Walmart - Walton Family]], [[Lockheed Martin]], [[Sierra Club Independent Action]], [[Comcast - NBCUniversal]], [[Progressive Turnout Project]], [[AbbVie]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[UA Political Action Committee]], [[National Association of Realtors]], [[AT&T - WarnerMedia]], [[SEIU COPE]], [[American Federation of State County & Municipal Employees P E O P L E]], [[AIPAC - American Israel Public Affairs Committee]], [[Teamsters - International Brotherhood of Teamsters]], [[CVS Health - Aetna]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Sierra Club Political Committee]], [[National Education Association]], [[Medicare for All - The Policy That Broke the Party]], [[Pfizer Inc.]], [[Giffords PAC]], [[Care Action]], [[Google - Alphabet]], [[Kaiser Permanente]], [[Boeing]], [[DNC - Democratic National Committee]], [[Fanjul Family - Florida Crystals]], [[Meta - Facebook]], [[Apple]], [[Amazon]], [[McDonalds Corporation]], [[AT&T]], [[American Federation of State County & Municipal Employees  P E O P L E]]"
 last-enriched: 2026-04-21
+committees:
+  - Government Operations
+  - House Committee on Foreign Affairs
+  - House Committee on Oversight and Government Reform
+  - Middle East and North Africa
+  - Military and Foreign Affairs
+  - South and Central Asia
 ---
 
 

@@ -28,6 +28,16 @@ bills-cosponsored: 56
 bills-enacted: 0
 top-policy-area: Health
 last-enriched: 2026-04-21
+committees:
+  - Cybersecurity and Infrastructure Protection
+  - Highways and Transit
+  - House Committee on Homeland Security
+  - "House Committee on Science, Space, and Technology"
+  - House Committee on Transportation and Infrastructure
+  - "Railroads, Pipelines, and Hazardous Materials"
+  - Research and Technology
+  - Space and Aeronautics
+  - Water Resources and Environment
 ---
 
 

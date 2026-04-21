@@ -28,6 +28,11 @@ bills-cosponsored: 386
 bills-enacted: 0
 top-policy-area: Crime and Law Enforcement
 last-enriched: 2026-04-21
+committees:
+  - "Commerce, Justice, Science, and Related Agencies"
+  - Financial Services and General Government
+  - House Committee on Appropriations
+  - House Committee on Ethics
 ---
 
 

@@ -27,6 +27,19 @@ bills-enacted: 1
 top-policy-area: Health
 top-donors: "[[Google - Alphabet]], [[Blackstone Group]], [[Duke Energy]], [[Goldman Sachs]], [[Lockheed Martin]], [[AT&T]], [[Wells Fargo]], [[Cigna Group]], [[Koch Industries]], [[MassMutual]], [[Chevron]], [[Coinbase]], [[Oracle]], [[CoreCivic]], [[Amazon]], [[Northrop Grumman]], [[Anduril Industries]], [[UnitedHealth Group - Optum]], [[US CHAMBER OF COMMERCE]], [[Morgan Stanley]], [[Walmart]], [[Meta - Facebook]], [[Bank of America]], [[Tyson Foods]], [[Apple]], [[ExxonMobil]], [[CVS Health - Aetna]], [[Charles Schwab]], [[UPS]], [[McDonalds Corporation]], [[Microsoft]], [[Merck]], [[Kaiser Permanente]], [[Humana]], [[Apollo Global Management]], [[US Chamber of Commerce]]"
 last-enriched: 2026-04-21
+committees:
+  - Airland
+  - "Aviation, Space, and Innovation"
+  - Cybersecurity
+  - Emerging Threats and Capabilities
+  - Joint Economic Committee
+  - Personnel
+  - "Science, Manufacturing, and Competitiveness"
+  - Senate Committee on Armed Services
+  - "Senate Committee on Commerce, Science, and Transportation"
+  - Senate Committee on Small Business and Entrepreneurship
+  - Senate Select Committee on Intelligence
+  - Telecommunications and Media
 ---
 
 

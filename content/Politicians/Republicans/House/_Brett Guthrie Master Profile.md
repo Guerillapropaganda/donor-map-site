@@ -2,7 +2,7 @@
 title: Brett Guthrie
 type: politician
 bioguide-id: G000558
-content-readiness: ready
+content-readiness: data-complete
 last-updated: 2026-04-16T00:00:00.000Z
 editorial-notes: "[Research Claude 2026-04-16] Added Class Analysis section. Removed body inline field (tags::). Profile is data-rich; Class Analysis completes the editorial requirements for promotion to ready pending David review."
 source-tier: 1
@@ -29,6 +29,8 @@ bills-cosponsored: 185
 bills-enacted: 0
 top-policy-area: Health
 last-enriched: 2026-04-21
+committees:
+  - House Committee on Energy and Commerce
 ---
 
 

@@ -23,6 +23,14 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21
+committees:
+  - "Commerce, Manufacturing, and Trade"
+  - Counterterrorism and Intelligence
+  - Emergency Management and Technology
+  - Energy
+  - Environment
+  - House Committee on Energy and Commerce
+  - House Committee on Homeland Security
 ---
 
 

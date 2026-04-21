@@ -1,7 +1,7 @@
 ---
 title: Cory Booker
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: Cory Booker is the Two-Audience Problem incarnate , and the pharma vote is the receipt. His progressive brand (criminal justice reform, racial equity, environmental justice, veganism) plays to the national Democratic base. His donor profile (Wall ...
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
@@ -67,6 +67,21 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No FEC contribution data"
+committees:
+  - Africa and Global Health Policy
+  - "Antitrust, Competition Policy, and Consumer Rights"
+  - Border Security and Immigration
+  - "Commodities, Derivatives, Risk Management, and Trade"
+  - Crime and Counterterrorism
+  - Europe and Regional Security Cooperation
+  - "Food and Nutrition, Specialty Crops, Organics, and Research"
+  - "Livestock, Dairy, Poultry, and Food Safety"
+  - "Near East, South Asia, Central Asia, and Counterterrorism"
+  - "Senate Committee on Agriculture, Nutrition, and Forestry"
+  - Senate Committee on Foreign Relations
+  - Senate Committee on Small Business and Entrepreneurship
+  - Senate Committee on the Judiciary
+  - the Constitution
 ---
 
 

@@ -27,6 +27,13 @@ bills-cosponsored: 208
 bills-enacted: 2
 top-policy-area: "International Affairs"
 last-enriched: 2026-04-21
+committees:
+  - Africa
+  - "Digital Assets, Financial Technology, and Artificial Intelligence"
+  - Financial Institutions
+  - House Committee on Financial Services
+  - House Committee on Foreign Affairs
+  - South and Central Asia
 ---
 
 

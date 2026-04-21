@@ -23,6 +23,14 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21
+committees:
+  - "Cyber, Information Technologies, and Innovation"
+  - "Cybersecurity, Information Technology, and Government Innovation"
+  - Health Care and Financial Services
+  - House Committee on Armed Services
+  - House Committee on Oversight and Government Reform
+  - Military and Foreign Affairs
+  - Tactical Air and Land Forces
 ---
 
 

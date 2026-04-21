@@ -27,6 +27,14 @@ bills-cosponsored: 141
 bills-enacted: 0
 top-policy-area: "Government Operations and Politics"
 last-enriched: 2026-04-21
+committees:
+  - "Economic Growth, Energy Policy, and Regulatory Affairs"
+  - Energy
+  - Environment
+  - Government Operations
+  - House Committee on Energy and Commerce
+  - House Committee on Oversight and Government Reform
+  - Oversight and Investigations
 ---
 
 

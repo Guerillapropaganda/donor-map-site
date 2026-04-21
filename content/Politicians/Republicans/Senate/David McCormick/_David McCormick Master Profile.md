@@ -23,6 +23,20 @@ known-gaps:
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21
 corroboration-count: 2
+committees:
+  - Digital Assets
+  - "East Asia, the Pacific, and International Cybersecurity Policy"
+  - Energy
+  - "Housing, Transportation, and Community Development"
+  - Joint Economic Committee
+  - "Multilateral International Development, Multilateral Institutions, and International Economic, Energy, and Environmental Policy"
+  - National Security and International Trade and Finance
+  - "Near East, South Asia, Central Asia, and Counterterrorism"
+  - "Senate Committee on Banking, Housing, and Urban Affairs"
+  - Senate Committee on Energy and Natural Resources
+  - Senate Committee on Foreign Relations
+  - Senate Special Committee on Aging
+  - Water and Power
 ---
 
 

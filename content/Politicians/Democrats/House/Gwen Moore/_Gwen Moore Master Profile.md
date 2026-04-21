@@ -28,6 +28,12 @@ bills-cosponsored: 589
 bills-enacted: 0
 top-policy-area: Health
 last-enriched: 2026-04-21
+committees:
+  - House Committee on Ways and Means
+  - Joint Economic Committee
+  - Social Security
+  - Tax
+  - Work and Welfare
 ---
 
 

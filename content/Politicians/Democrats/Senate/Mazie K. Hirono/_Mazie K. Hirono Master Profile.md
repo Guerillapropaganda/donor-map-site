@@ -26,6 +26,22 @@ bills-cosponsored: 521
 bills-enacted: 0
 top-policy-area: "Crime and Law Enforcement"
 last-enriched: 2026-04-21
+committees:
+  - Border Security and Immigration
+  - Energy
+  - "Federal Courts, Oversight, Agency Action, and Federal Rights"
+  - Intellectual Property
+  - National Parks
+  - Personnel
+  - "Public Lands, Forests, and Mining"
+  - Readiness and Management Support
+  - Seapower
+  - Senate Committee on Armed Services
+  - Senate Committee on Energy and Natural Resources
+  - Senate Committee on Small Business and Entrepreneurship
+  - "Senate Committee on Veterans' Affairs"
+  - Senate Committee on the Judiciary
+  - the Constitution
 ---
 
 
