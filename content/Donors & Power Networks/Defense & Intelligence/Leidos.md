@@ -64,7 +64,7 @@ regulatory-agencies:
   - International Trade Administration
   - Justice Department
   - Labor Department
-federal-awards-total: 22942904199
+federal-awards-total: 16091018791
 federal-contracts-count: 25
 federal-grants-count: 9
 related: "[[Palantir Technologies Political Operation]] · [[Booz Allen Hamilton]] · [[General Dynamics]] · [[BAE Systems]] · [[Defense Industry Bloc]] · [[Lockheed Martin]] · [[Boeing Defense]] · [[Northrop Grumman]] · [[Raytheon Technologies]] · [[Raytheon (RTX Corporation)]] · [[L3Harris Technologies]] · [[Anduril Industries]] · [[Defense Contractors Bloc]] · [[Valero Energy]] · [[WSPA - Western States Petroleum Association]] · [[Instacart]] · [[Flex Association]] · [[Airbnb]] · [[Lyft]] · [[Uber]] · [[UnitedHealth Group - Optum]] · [[Johnson & Johnson]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[Humana]] · [[Hospital Corporation of America - HCA]] · [[Civica Rx]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Blue Cross Blue Shield Association]] · [[Anthem - Elevance Health Political Operation]] · [[DoorDash]] · [[Southern Company]] · [[PG&E]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[NextEra Energy]] · [[Marathon Petroleum]] · [[Koch Industries]] · [[Hawaiian Electric Company]]"
@@ -74,7 +74,7 @@ cross-vault-triangulation-count: 11
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 11
 epa-states: CA, FL, MD, RI
-federal-contracts: 33178
+federal-contracts: 17349
 total-raised: 1024528
 total-spent: 993770
 cash-on-hand: 1004168
@@ -399,23 +399,23 @@ The Genuine Win + Structural Limit pattern appears in Leidos' VA healthcare work
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 33,178 |
-| Total Obligation | $22,942,904,199 |
-| Fiscal Years | 2024, 2025 |
-| Awarding Agencies | 28 |
+| Federal Contracts | 17,349 |
+| Total Obligation | $16,091,018,791 |
+| Fiscal Years | 2025, 2026 |
+| Awarding Agencies | 23 |
 
 **Top awarding agencies:**
 
-- Department of Defense: $8,467,663,635
-- Department of Veterans Affairs: $4,580,908,047
-- Department of Health and Human Services: $1,953,455,413
-- General Services Administration: $1,631,526,125
-- Department of Transportation: $1,404,489,491
-- Department of Energy: $1,266,023,460
-- Department of Homeland Security: $1,120,242,122
-- National Aeronautics and Space Administration: $732,499,065
-- National Science Foundation: $623,861,626
-- Social Security Administration: $579,670,801
+- Department of Veterans Affairs: $5,016,713,858
+- Department of Defense: $4,859,735,847
+- General Services Administration: $1,106,532,676
+- Department of Transportation: $1,048,704,521
+- Department of Energy: $984,159,485
+- Department of Health and Human Services: $984,028,140
+- Department of Homeland Security: $665,712,936
+- National Aeronautics and Space Administration: $488,140,923
+- National Science Foundation: $364,483,334
+- Social Security Administration: $263,725,923
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

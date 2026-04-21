@@ -47,7 +47,7 @@ sec-form-types:
   - PRE 14A
   - S-3
   - U-1
-federal-awards-total: 45172350
+federal-awards-total: 30553295
 federal-contracts-count: 25
 federal-grants-count: 0
 federal-register-mentions: 1859
@@ -60,7 +60,7 @@ cross-vault-triangulation-count: 1
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 11
 epa-states: AL
-federal-contracts: 170
+federal-contracts: 94
 total-raised: 97269
 total-spent: 83021
 cash-on-hand: 268189
@@ -249,17 +249,17 @@ Alabama Power exemplifies utility monopoly power in states with weak regulatory 
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 170 |
-| Total Obligation | $45,172,350 |
-| Fiscal Years | 2024, 2025 |
+| Federal Contracts | 94 |
+| Total Obligation | $30,553,295 |
+| Fiscal Years | 2025, 2026 |
 | Awarding Agencies | 4 |
 
 **Top awarding agencies:**
 
-- Department of Defense: $35,045,043
-- Department of Homeland Security: $5,924,736
-- Department of Justice: $3,658,419
-- Department of Veterans Affairs: $544,153
+- Department of Defense: $25,772,835
+- Department of Justice: $2,652,384
+- Department of Homeland Security: $2,010,220
+- Department of Veterans Affairs: $117,856
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

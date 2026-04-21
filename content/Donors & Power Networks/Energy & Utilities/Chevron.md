@@ -25,7 +25,7 @@ annual-revenue: $222K
 net-assets: $781K
 tax-year: "2023"
 related: "[[Valero Energy]] · [[Alaska 2026 Senate Race]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[Michael Whatley Oil and Gas Lobbying History]] · [[The Energy Committee and Alaska Oil Dependency]] · [[Kevin McCarthy Master Profile]] · [[Occidental Petroleum]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]] · [[Koch Industries]] · [[HBW Resources]] · [[Cathy McMorris Rodgers Master Profile]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[Condoleezza Rice]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Economic Policy - Donors and Backers]] · [[John Cornyn]] · [[_Gavin Newsom Master Profile]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Environment - Donors and Backers]] · [[Western States Petroleum Association]] · [[American Petroleum Institute]] · [[ExxonMobil]] · [[ConocoPhillips]] · [[Marathon Petroleum]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[Moderna]] · [[Novo Nordisk]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[Raytheon Technologies]] · [[Palantir Technologies]] · [[Palantir Technologies Political Operation]] · [[Tenet Healthcare]] · [[Humana]] · [[Hospital Corporation of America - HCA]] · [[Civica Rx]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Blue Cross Blue Shield Association]] · [[Anthem - Elevance Health Political Operation]] · [[Uber]] · [[Lyft]] · [[Instacart]] · [[Flex Association]] · [[DoorDash]] · [[Airbnb]] · [[Southern Company]] · [[NextEra Energy]] · [[Hawaiian Electric Company]] · [[Halliburton]] · [[Fossil Fuel Bloc]] · [[Duke Energy]] · [[Devon Energy]] · [[Eli Broad Foundation]] · [[CTA - California Teachers Association]] · [[Raytheon (RTX Corporation)]]"
-federal-awards-total: 368049861
+federal-awards-total: 309069198
 federal-contracts-count: 25
 federal-grants-count: 5
 lei: 254900JAIX71VO1NS489
@@ -38,7 +38,7 @@ cross-vault-triangulation-count: 29
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 763
 epa-states: AK, AL, AZ, CA, CO, CT, DC, FL, GA, KY, LA, MD, MI, MS, NC, NE, NH, NJ, NM, NY, OH, OR, PA, RI, TX, UT, WV
-federal-contracts: 422
+federal-contracts: 283
 total-raised: 761849
 total-spent: 888990
 cash-on-hand: 192930
@@ -364,14 +364,14 @@ Environment, oil production, refinery regulation, environmental justice, frackin
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 422 |
-| Total Obligation | $368,049,861 |
-| Fiscal Years | 2024, 2025 |
+| Federal Contracts | 283 |
+| Total Obligation | $309,069,198 |
+| Fiscal Years | 2025, 2026 |
 | Awarding Agencies | 1 |
 
 **Top awarding agencies:**
 
-- Department of Defense: $368,049,861
+- Department of Defense: $309,069,198
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

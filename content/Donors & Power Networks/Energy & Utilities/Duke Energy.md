@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Energy & Utilities
 entity-type: Corporation
-federal-awards-total: 63431209
+federal-awards-total: 42276229
 federal-contracts-count: 25
 federal-grants-count: 2
 lei: I1BZKREC126H0VB1BL91
@@ -61,7 +61,7 @@ cross-vault-triangulation-count: 5
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 18
 epa-states: FL, IL, KY, LA, NC, NM, OH, VA
-federal-contracts: 205
+federal-contracts: 134
 total-raised: 1047183
 total-spent: 1063866
 cash-on-hand: 402224
@@ -158,23 +158,21 @@ North Carolina's political system runs through Duke Energy's influence network. 
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 205 |
-| Total Obligation | $63,431,209 |
-| Fiscal Years | 2024, 2025 |
-| Awarding Agencies | 10 |
+| Federal Contracts | 134 |
+| Total Obligation | $42,276,229 |
+| Fiscal Years | 2025, 2026 |
+| Awarding Agencies | 8 |
 
 **Top awarding agencies:**
 
-- Department of Defense: $43,136,361
-- Department of Justice: $9,632,172
-- Environmental Protection Agency: $5,827,430
-- Department of Health and Human Services: $2,312,502
-- Department of Commerce: $2,210,006
-- Department of Homeland Security: $139,258
+- Department of Defense: $28,793,080
+- Department of Justice: $7,038,584
+- Department of Health and Human Services: $2,631,753
+- Department of Commerce: $2,103,140
+- Environmental Protection Agency: $1,496,596
 - Department of the Interior: $110,000
-- Department of Veterans Affairs: $58,444
+- Department of Homeland Security: $95,684
 - Nuclear Regulatory Commission: $7,392
-- U.S. Agency for Global Media: $-2,356
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

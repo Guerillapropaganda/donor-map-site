@@ -48,7 +48,7 @@ court-jurisdictions:
   - District Court, W.D. Oklahoma
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-federal-awards-total: 465605213
+federal-awards-total: 313778339
 federal-contracts-count: 25
 federal-grants-count: 0
 cross-vault-triangulation-count: 9
@@ -108,7 +108,7 @@ lobbying-spend: 5030000
 lobbying-filings: 30
 epa-facilities: 40
 epa-states: AL, AR, CT, GA, IA, ID, MD, MO, NC, NE, NJ, OK, PA, TX, VA
-federal-contracts: 141
+federal-contracts: 111
 total-raised: 425050
 total-spent: 434000
 cash-on-hand: 177227
@@ -337,14 +337,14 @@ Tyson's $220 million in federal contracts, primarily through the Department of A
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 141 |
-| Total Obligation | $465,605,213 |
-| Fiscal Years | 2024, 2025 |
+| Federal Contracts | 111 |
+| Total Obligation | $313,778,339 |
+| Fiscal Years | 2025, 2026 |
 | Awarding Agencies | 1 |
 
 **Top awarding agencies:**
 
-- Department of Agriculture: $465,605,213
+- Department of Agriculture: $313,778,339
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

@@ -15,7 +15,7 @@ tax-year: "2023"
 related: "[[Fossil Fuel Bloc]] · [[IBEW California State Association]] · [[_Gavin Newsom Master Profile]] · [[PG&E - The Utility Donor and the Wildfire Cover]] · [[Environment - Donors and Backers]] · [[Western States Petroleum Association]] · [[Uber]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[Moderna]] · [[Novo Nordisk]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[Palantir Technologies]] · [[Raytheon Technologies]] · [[Palantir Technologies Political Operation]] · [[Tenet Healthcare]] · [[Humana]] · [[Hospital Corporation of America - HCA]] · [[Civica Rx]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Blue Cross Blue Shield Association]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Anthem - Elevance Health Political Operation]] · [[Lyft]] · [[Instacart]] · [[Flex Association]] · [[DoorDash]] · [[Airbnb]] · [[WSPA - Western States Petroleum Association]] · [[Valero Energy]] · [[Southern Company]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[NextEra Energy]] · [[Marathon Petroleum]] · [[Koch Industries]] · [[Hawaiian Electric Company]] · [[Halliburton]] · [[ExxonMobil]] · [[Duke Energy]]"
 top-federal-agency: Department of Defense
 top-naics-code: "221122"
-federal-awards-total: 21014667
+federal-awards-total: 6812479
 federal-contracts-count: 25
 federal-grants-count: 2
 cross-vault-triangulation-count: 9
@@ -25,7 +25,7 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 urls-first-triaged: "2026-04-15"
 epa-facilities: 55
 epa-states: CA
-federal-contracts: 58
+federal-contracts: 2
 employee-contributions: 6794
 employee-contributions-total: 887167
 employee-donor-count: 802
@@ -196,22 +196,14 @@ Environment, wildfires, utility regulation, clean energy, NEM 3.0, Diablo Canyon
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 58 |
-| Total Obligation | $21,014,667 |
-| Fiscal Years | 2024, 2025 |
-| Awarding Agencies | 9 |
+| Federal Contracts | 2 |
+| Total Obligation | $6,812,479 |
+| Fiscal Years | 2025 |
+| Awarding Agencies | 1 |
 
 **Top awarding agencies:**
 
-- Department of Defense: $13,743,970
-- Department of Justice: $3,804,490
-- Department of Veterans Affairs: $2,006,066
-- Department of the Treasury: $603,000
-- Department of Transportation: $310,000
-- Department of the Interior: $291,654
-- Department of Health and Human Services: $144,000
-- General Services Administration: $98,988
-- National Aeronautics and Space Administration: $12,500
+- Department of Defense: $6,812,479
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

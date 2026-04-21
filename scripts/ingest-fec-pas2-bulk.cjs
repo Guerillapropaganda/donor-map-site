@@ -20,7 +20,7 @@ const {
 } = require('./lib/fec-ingest-helpers.cjs');
 
 const PIPELINE = 'pas2';
-const SUBDIR = 'Contributions from committees to candidates & independent expenditures';
+const SUBDIR = 'Contributions from comitt. to candidates & independent expenditures';
 
 const args = (() => {
   const a = process.argv.slice(2);

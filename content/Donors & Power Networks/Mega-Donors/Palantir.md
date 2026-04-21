@@ -47,7 +47,7 @@ related: "[[Palantir Technologies Political Operation]] · [[Invariant]] · [[Co
 internal-notes: |-
   [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
   [URL Check 2026-04-08] 25 checked: 16 ok, 1 broken, 8 slow. | BROKEN: Source: CourtListener / RECAP | SLOW: Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Approving a Proposed Rule Change, as Modified by Amendment No. 2, To Allow Companies To List in Connection With a Direct Listing With a Primary Offering in Which the Company Will Sell Shares Itself in the Opening Auction on the First Day of Trading on Nasdaq and To Explain How the Opening Transaction for Such a Listing Will Be Effected | SLOW: Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules | SLOW: Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules | SLOW: Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Allow Companies To List in Connection With a Direct Listing With a Primary Offering In Which the Company Will Sell Shares Itself In the Opening Auction on the First Day of Trading on Nasdaq and To Explain How the Opening Transaction for Such a Listing Will Be Effected | SLOW: Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules | SLOW: Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules | SLOW: Source: Federal Register | SLOW: Source: GLEIF
-federal-awards-total: 1561764094
+federal-awards-total: 1488879455
 federal-contracts-count: 25
 federal-grants-count: 0
 wikidata-id: Q2047336
@@ -57,7 +57,7 @@ founded: "2003-00-00"
 cross-vault-triangulation-count: 28
 epa-facilities: 1
 epa-states: CA
-federal-contracts: 314
+federal-contracts: 241
 total-raised: 69135
 total-spent: 78215
 cash-on-hand: 60233
@@ -417,23 +417,23 @@ The deeper structural pattern: Palantir's entire business model depends on probl
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 314 |
-| Total Obligation | $1,561,764,094 |
-| Fiscal Years | 2024, 2025 |
-| Awarding Agencies | 12 |
+| Federal Contracts | 241 |
+| Total Obligation | $1,488,879,455 |
+| Fiscal Years | 2025, 2026 |
+| Awarding Agencies | 15 |
 
 **Top awarding agencies:**
 
-- Department of Defense: $1,031,736,391
-- Department of Health and Human Services: $124,477,771
-- Department of Homeland Security: $101,754,994
-- Department of the Treasury: $96,790,154
-- Department of State: $75,282,640
-- Department of Energy: $45,606,639
-- Department of Veterans Affairs: $37,124,653
-- Department of Transportation: $31,241,646
+- Department of Defense: $1,121,934,625
+- Department of Homeland Security: $105,870,844
+- Department of the Treasury: $74,141,162
+- Department of State: $51,677,726
+- Department of Health and Human Services: $35,913,349
+- Department of Veterans Affairs: $31,136,391
+- Department of Energy: $25,658,564
+- Department of Transportation: $21,856,679
 - U.S. International Development Finance Corporation: $7,888,966
-- Department of Agriculture: $5,309,230
+- Department of Agriculture: $5,182,316
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

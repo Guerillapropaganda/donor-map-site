@@ -41,7 +41,7 @@ sec-form-types:
   - SC 13G/A
   - SCHEDULE 13G/A
 related: "[[Real Estate Industry Bloc]] · [[National Association of Realtors]] · [[Real Estate Roundtable]] · [[Blackstone Real Estate]]"
-federal-awards-total: 22596647
+federal-awards-total: 5771639
 federal-contracts-count: 3
 federal-grants-count: 0
 top-federal-agency: General Services Administration
@@ -66,7 +66,7 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 urls-first-triaged: "2026-04-15"
 epa-facilities: 12
 epa-states: AL, CA, CO, IL, MA
-federal-contracts: 293
+federal-contracts: 135
 employee-contributions: 10351
 employee-contributions-total: 2391367
 employee-donor-count: 2145
@@ -166,21 +166,20 @@ Preservation of 1031 exchanges, favorable commercial real estate depreciation sc
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 293 |
-| Total Obligation | $22,596,647 |
-| Fiscal Years | 2024, 2025 |
-| Awarding Agencies | 8 |
+| Federal Contracts | 135 |
+| Total Obligation | $5,771,639 |
+| Fiscal Years | 2025, 2026 |
+| Awarding Agencies | 7 |
 
 **Top awarding agencies:**
 
-- General Services Administration: $17,135,362
-- Department of State: $3,710,543
-- Millennium Challenge Corporation: $1,533,827
-- Department of the Interior: $173,000
-- Department of Defense: $28,500
-- Department of the Treasury: $21,656
-- Environmental Protection Agency: $-161
-- Department of Justice: $-6,080
+- Department of State: $2,274,867
+- General Services Administration: $2,226,974
+- Millennium Challenge Corporation: $863,472
+- Department of Justice: $248,920
+- Department of the Treasury: $87,656
+- Department of the Interior: $57,000
+- Department of Defense: $12,750
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

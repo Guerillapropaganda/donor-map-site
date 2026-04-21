@@ -19,8 +19,8 @@ cross-vault-triangulation-count: 10
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 lei: 549300EBCNNXVCJ2FW66
 lei-jurisdiction: US-DE
-federal-contracts: 7
-federal-awards-total: 23323
+federal-contracts: 2
+federal-awards-total: 16273
 employee-contributions: 209
 employee-contributions-total: 25685
 employee-donor-count: 38
@@ -203,14 +203,14 @@ The $315M California contract is the countervailing force. Even as rates are reg
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 7 |
-| Total Obligation | $23,323 |
-| Fiscal Years | 2024, 2025 |
+| Federal Contracts | 2 |
+| Total Obligation | $16,273 |
+| Fiscal Years | 2025 |
 | Awarding Agencies | 1 |
 
 **Top awarding agencies:**
 
-- Department of Justice: $23,323
+- Department of Justice: $16,273
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

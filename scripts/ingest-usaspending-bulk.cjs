@@ -36,7 +36,10 @@ const {
 
 const ROOT = path.join(__dirname, '..')
 const CONTENT = path.join(ROOT, 'content')
-const BULK_DIR = path.join(ROOT, 'data', 'bulk')
+// Bulk data lives in C:/donor-map-data/bulk/USAspending award data/ — the
+// external bulk root, not the repo. This matches the FEC ingester pattern
+// and keeps large ZIPs off the git-tracked tree.
+const BULK_DIR = 'C:/donor-map-data/bulk/USAspending award data'
 const WRITE = process.argv.includes('--write')
 const NOW = new Date().toISOString()
 

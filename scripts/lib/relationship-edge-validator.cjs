@@ -192,6 +192,17 @@ const SOURCES = [
   // bulk.cjs only emitted employer-aggregated edges.
   'fec-indiv-by-committee',
   'fec-oth-transfers',
+  // FEC Operating Expenditures (disbursements) — campaigns/PACs paying
+  // vendors, consultants, ad buyers. Emitted by aggregate-oppexp-to-
+  // edges.cjs as monetary edges with role=operating-expense.
+  'fec-oppexp',
+  // FEC PAS2 (contributions from committees to candidates) — the
+  // classified split files per ADR-0013. Committee→candidate direct
+  // support + independent expenditures.
+  'fec-pas2',
+  // IRS 8872 political organization contributions — dark-money donor →
+  // 527 political org direct gifts from the IRS POFD bulk file.
+  'irs-pofd-8872',
 ];
 
 const STATUSES = ['active', 'historical', 'disputed', 'deprecated'];
@@ -225,6 +236,11 @@ const MIGRATION_SOURCES = new Set([
   // yet — profile creation is Research Claude's lane, but the edges
   // are still real money flows we want in the graph now.
   'fec-oth-transfers',
+  // IRS 8872 Schedule A/B: the POFD bulk format doesn't co-locate the
+  // transaction year with the A/B record; the year lives on the
+  // containing 2-record. Aggregated edges are lifetime totals with an
+  // empty cycle — valid data, not missing data.
+  'irs-pofd-8872',
 ]);
 
 // ─── Title normalization ──────────────────────────────────────────────

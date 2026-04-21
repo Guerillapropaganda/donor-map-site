@@ -29,7 +29,7 @@ court-jurisdictions:
   - District Court, S.D. New York
   - District Court, S.D. Texas
   - District Court, W.D. Oklahoma
-federal-awards-total: 12748073526
+federal-awards-total: 4953693916
 federal-contracts-count: 25
 federal-grants-count: 17
 nhtsa-recalls: 0
@@ -48,7 +48,7 @@ top-federal-agency: National Aeronautics and Space Administration
 top-naics-code: "336992"
 lobbying-spend: 10640000
 lobbying-filings: 50
-federal-contracts: 8140
+federal-contracts: 3249
 federal-register-mentions: 651
 regulatory-agencies:
   - Antitrust Division
@@ -247,23 +247,23 @@ Continued US defense spending on armored vehicles (Bradley replacement program, 
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 8,140 |
-| Total Obligation | $12,748,073,526 |
-| Fiscal Years | 2024, 2025 |
-| Awarding Agencies | 12 |
+| Federal Contracts | 3,249 |
+| Total Obligation | $4,953,693,916 |
+| Fiscal Years | 2025, 2026 |
+| Awarding Agencies | 11 |
 
 **Top awarding agencies:**
 
-- Department of Defense: $12,411,654,166
-- Department of Justice: $159,794,654
-- Department of Homeland Security: $125,449,706
-- General Services Administration: $34,769,742
-- Department of Labor: $8,999,432
-- Pension Benefit Guaranty Corporation: $6,761,957
-- National Aeronautics and Space Administration: $544,689
-- Department of Commerce: $99,165
-- Department of the Interior: $93,271
-- Department of Transportation: $35,717
+- Department of Defense: $4,862,411,709
+- Department of Homeland Security: $60,884,255
+- Department of Justice: $21,353,408
+- Pension Benefit Guaranty Corporation: $3,515,003
+- Department of Labor: $2,941,407
+- General Services Administration: $2,489,297
+- Department of Commerce: $45,075
+- Department of the Interior: $38,184
+- Department of Energy: $6,394
+- Department of Transportation: $5,234
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

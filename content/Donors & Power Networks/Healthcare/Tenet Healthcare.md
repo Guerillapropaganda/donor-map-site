@@ -10,7 +10,7 @@ entity-type: Corporation
 issues:
   - Healthcare
   - Social Safety Net
-federal-awards-total: 353830
+federal-awards-total: 270000
 federal-contracts-count: 5
 federal-grants-count: 0
 lei: 0W9AIBT6U6ADJ2I8HK17
@@ -79,7 +79,7 @@ nhtsa-recalls: 0
 nhtsa-complaints: 0
 epa-facilities: 2
 epa-states: MI
-federal-contracts: 9
+federal-contracts: 7
 total-raised: 195598
 total-spent: 120898
 cash-on-hand: 159654
@@ -250,15 +250,15 @@ The bipartisan contribution pattern confirms the structural analysis: Tenet fund
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 9 |
-| Total Obligation | $353,830 |
-| Fiscal Years | 2024, 2025 |
+| Federal Contracts | 7 |
+| Total Obligation | $270,000 |
+| Fiscal Years | 2025, 2026 |
 | Awarding Agencies | 2 |
 
 **Top awarding agencies:**
 
-- Department of Veterans Affairs: $315,000
-- Department of Defense: $38,830
+- Department of Veterans Affairs: $270,000
+- Department of Defense: $0
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

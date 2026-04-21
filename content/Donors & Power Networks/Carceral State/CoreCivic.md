@@ -10,7 +10,7 @@ parent: null
 sector: Carceral State
 entity-type: Corporation
 politicians-funded: "[[Donald Trump]], [[Chad Bianco]], [[Gavin Newsom]], [[_Jon Ossoff Master Profile]], [[Bernie Moreno]], [[RNC - Republican National Committee]], [[NRSC - National Republican Senatorial Committee]], [[_Mark Green Master Profile]], [[_Brian Jack Master Profile]], [[_Ann Wagner Master Profile]], [[ActBlue]], [[CoreCivic - Private Prisons]], [[_Kevin Kiley Master Profile]], [[NRCC - National Republican Congressional Committee]], [[The Sentinel Action Fund]], [[WinRed]], [[Standing With Conservatives]], [[MoveOn.org Political Action]], [[_Ted Budd Master Profile]], [[Let America Vote PAC]], [[Trump Victory]], [[_Ron Estes Master Profile]], [[_Tony Gonzales Master Profile]], [[_Matt van Epps Master Profile]], [[_Tim Scott Master Profile]], [[MAGA Inc]], [[Matt van Epps]], [[Mark Green]], [[Ann Wagner]], [[Brian Jack]], [[Ted Budd]], [[Ron Estes]], [[Kevin Kiley]], [[Tony Gonzales]], [[Jon Ossoff]], [[Tim Scott]]"
-federal-awards-total: 1057092807
+federal-awards-total: 799059884
 federal-contracts-count: 25
 federal-grants-count: 0
 court-cases: 3058
@@ -32,7 +32,7 @@ ein: 823851866
 annual-revenue: $511K
 net-assets: $52K
 tax-year: "2024"
-federal-contracts: 228
+federal-contracts: 148
 subawards-issued: 50
 subawards-received: 50
 top-federal-agency: Department of Homeland Security
@@ -224,15 +224,15 @@ The deeper class observation is about what CoreCivic's business model reveals ab
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 228 |
-| Total Obligation | $1,057,092,807 |
-| Fiscal Years | 2024, 2025 |
+| Federal Contracts | 148 |
+| Total Obligation | $799,059,884 |
+| Fiscal Years | 2025, 2026 |
 | Awarding Agencies | 2 |
 
 **Top awarding agencies:**
 
-- Department of Justice: $571,879,388
-- Department of Homeland Security: $485,213,419
+- Department of Homeland Security: $400,174,165
+- Department of Justice: $398,885,719
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

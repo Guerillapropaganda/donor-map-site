@@ -31,8 +31,8 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
-federal-contracts: 17
-federal-awards-total: 1206348
+federal-contracts: 12
+federal-awards-total: 922724
 employee-contributions: 327
 employee-contributions-total: 87185
 employee-donor-count: 116
@@ -1108,14 +1108,14 @@ This architecture allows the Koch Network to:
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 17 |
-| Total Obligation | $1,206,348 |
-| Fiscal Years | 2024, 2025 |
+| Federal Contracts | 12 |
+| Total Obligation | $922,724 |
+| Fiscal Years | 2025, 2026 |
 | Awarding Agencies | 1 |
 
 **Top awarding agencies:**
 
-- Department of Homeland Security: $1,206,348
+- Department of Homeland Security: $922,724
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

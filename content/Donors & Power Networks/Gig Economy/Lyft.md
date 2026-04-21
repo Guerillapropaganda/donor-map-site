@@ -19,7 +19,7 @@ top-federal-agency: Department of the Interior
 top-naics-code: "561599"
 lobbying-spend: 3410000
 lobbying-filings: 36
-federal-awards-total: -27589
+federal-awards-total: 16502
 federal-contracts-count: 10
 federal-grants-count: 0
 lei: 549300H7I5VN334XVZ52
@@ -67,7 +67,7 @@ cross-vault-triangulation-count: 13
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 3
 epa-states: CA
-federal-contracts: 17
+federal-contracts: 9
 total-raised: 12000
 total-spent: 5000
 cash-on-hand: 12374
@@ -306,16 +306,15 @@ Climate/EV. Prop 30 ($8M spent, Newsom opposed)
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 17 |
-| Total Obligation | $-27,589 |
-| Fiscal Years | 2024, 2025 |
-| Awarding Agencies | 3 |
+| Federal Contracts | 9 |
+| Total Obligation | $16,502 |
+| Fiscal Years | 2025, 2026 |
+| Awarding Agencies | 2 |
 
 **Top awarding agencies:**
 
-- Department of Veterans Affairs: $26,587
-- Department of Energy: $9,200
-- Department of the Interior: $-63,376
+- Department of Energy: $9,957
+- Department of Veterans Affairs: $6,544
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

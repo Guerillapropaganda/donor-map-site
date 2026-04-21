@@ -23,7 +23,7 @@ nhtsa-complaints: 0
 last-enriched: "2026-04-07"
 lobbying-spend: 11560000
 lobbying-filings: 52
-federal-awards-total: 5803054
+federal-awards-total: -1
 federal-contracts-count: 25
 federal-grants-count: 0
 related: "[[Wall Street Deregulation and the 3-3-3 Agenda]] · [[The Delaware Corporate Senator - Biden's Legislative Lieutenant]] · [[Joe Biden Master Profile]] · [[The Bank Bailout and the Prosecution That Never Came]] · [[Wes Moore Master Profile]] · [[Center for American Progress]] · [[Barack Obama Master Profile]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Bank of America]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_French Hill Master Profile|French Hill]] · [[The Financial Services Committee and Wall Street Oversight]] · [[Wells Fargo]] · [[Morgan Stanley]] · [[Tim Geithner]]"
@@ -58,7 +58,7 @@ audit-a-plus-passed: "2026-04-11"
 urls-first-triaged: "2026-04-15"
 epa-facilities: 3
 epa-states: NY
-federal-contracts: 73
+federal-contracts: 1
 total-raised: 794319
 total-spent: 652510
 cash-on-hand: 645674
@@ -301,20 +301,14 @@ Citigroup represents the purest form of Wall Street regulatory capture. The bank
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 73 |
-| Total Obligation | $5,803,054 |
-| Fiscal Years | 2024, 2025 |
-| Awarding Agencies | 7 |
+| Federal Contracts | 1 |
+| Total Obligation | $-1 |
+| Fiscal Years | 2025 |
+| Awarding Agencies | 1 |
 
 **Top awarding agencies:**
 
-- Department of Homeland Security: $5,524,094
-- Smithsonian Institution: $218,686
-- Consumer Financial Protection Bureau: $193,030
-- Department of the Treasury: $11,613
-- Department of Justice: $4,040
-- Agency for International Development: $-23,094
-- Federal Mine Safety and Health Review Commission: $-125,314
+- Agency for International Development: $-1
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

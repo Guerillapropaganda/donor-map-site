@@ -33,8 +33,8 @@ cross-vault-triangulation-count: 1
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 3
 epa-states: CA, NJ, UT
-federal-contracts: 87
-federal-awards-total: 7768520221
+federal-contracts: 52
+federal-awards-total: 5190655591
 cash-on-hand: 9001
 employee-contributions: 6938
 employee-contributions-total: 1566423
@@ -208,16 +208,16 @@ Bechtel exemplifies military-industrial complex dynamics: a major defense contra
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 87 |
-| Total Obligation | $7,768,520,221 |
-| Fiscal Years | 2024, 2025 |
+| Federal Contracts | 52 |
+| Total Obligation | $5,190,655,591 |
+| Fiscal Years | 2025, 2026 |
 | Awarding Agencies | 4 |
 
 **Top awarding agencies:**
 
-- Department of Defense: $5,241,582,693
-- Department of Energy: $1,931,742,210
-- National Aeronautics and Space Administration: $595,192,818
+- Department of Defense: $3,437,614,570
+- Department of Energy: $1,279,142,611
+- National Aeronautics and Space Administration: $473,895,909
 - General Services Administration: $2,500
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)

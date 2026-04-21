@@ -29,7 +29,7 @@ regulatory-agencies:
   - Justice Department
   - National Highway Traffic Safety Administration
   - Pipeline and Hazardous Materials Safety Administration
-federal-awards-total: 2211460817
+federal-awards-total: 1299973441
 federal-contracts-count: 25
 federal-grants-count: 0
 top-federal-agency: Department of Defense
@@ -53,7 +53,7 @@ cross-vault-triangulation-count: 18
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 3
 epa-states: CO, TX
-federal-contracts: 521
+federal-contracts: 359
 total-raised: 1667996
 total-spent: 1489253
 cash-on-hand: 935379
@@ -260,14 +260,14 @@ Valero's PAC contributions flow to members of Congress on energy, commerce, and 
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 521 |
-| Total Obligation | $2,211,460,817 |
-| Fiscal Years | 2024, 2025 |
+| Federal Contracts | 359 |
+| Total Obligation | $1,299,973,441 |
+| Fiscal Years | 2025, 2026 |
 | Awarding Agencies | 1 |
 
 **Top awarding agencies:**
 
-- Department of Defense: $2,211,460,817
+- Department of Defense: $1,299,973,441
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

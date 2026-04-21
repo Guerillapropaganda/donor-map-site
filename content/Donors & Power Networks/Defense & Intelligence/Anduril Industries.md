@@ -13,7 +13,7 @@ issues:
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-09"
-federal-awards-total: 1268646420
+federal-awards-total: 1106252788
 federal-contracts-count: 25
 federal-grants-count: 0
 lei: 254900CIXLZUXXNYQW57
@@ -64,7 +64,7 @@ cross-vault-triangulation-count: 7
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 30
 epa-states: CA, CO, GA, IN, MA, MS, NC, OR, RI, VA, WA
-federal-contracts: 223
+federal-contracts: 158
 employee-contributions: 727
 employee-contributions-total: 2714887
 employee-donor-count: 182
@@ -224,16 +224,17 @@ Anduril represents a new model of defense-sector class power: Silicon Valley ven
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 223 |
-| Total Obligation | $1,268,646,420 |
-| Fiscal Years | 2024, 2025 |
-| Awarding Agencies | 3 |
+| Federal Contracts | 158 |
+| Total Obligation | $1,106,252,788 |
+| Fiscal Years | 2025, 2026 |
+| Awarding Agencies | 4 |
 
 **Top awarding agencies:**
 
-- Department of Defense: $1,044,203,550
-- Department of Homeland Security: $223,952,383
-- Department of Commerce: $490,487
+- Department of Defense: $569,720,066
+- Department of Homeland Security: $511,468,386
+- Department of Energy: $25,078,848
+- Department of Commerce: $-14,513
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

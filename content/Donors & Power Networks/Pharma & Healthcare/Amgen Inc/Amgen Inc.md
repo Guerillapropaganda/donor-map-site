@@ -14,8 +14,8 @@ source-types: []
 urls-first-triaged: "2026-04-15"
 epa-facilities: 17
 epa-states: CA, CO, MA, OH, RI
-federal-contracts: 8
-federal-awards-total: 222125105
+federal-contracts: 5
+federal-awards-total: 152134554
 total-raised: 877331
 total-spent: 852000
 cash-on-hand: 394529
@@ -75,15 +75,15 @@ Profile pending enrichment.
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 8 |
-| Total Obligation | $222,125,105 |
-| Fiscal Years | 2024, 2025 |
+| Federal Contracts | 5 |
+| Total Obligation | $152,134,554 |
+| Fiscal Years | 2025, 2026 |
 | Awarding Agencies | 2 |
 
 **Top awarding agencies:**
 
-- Department of Health and Human Services: $222,059,895
-- Department of Veterans Affairs: $65,210
+- Department of Health and Human Services: $152,198,062
+- Department of Veterans Affairs: $-63,508
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

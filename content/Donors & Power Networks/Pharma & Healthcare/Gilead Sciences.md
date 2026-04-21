@@ -83,8 +83,8 @@ cross-vault-triangulation-count: 8
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 22
 epa-states: CA, NC, NJ, WA
-federal-contracts: 13
-federal-awards-total: -9142692
+federal-contracts: 8
+federal-awards-total: -9522688
 total-raised: 472492
 total-spent: 435704
 cash-on-hand: 258742
@@ -341,14 +341,14 @@ Patent protection for antiviral portfolio, opposition to drug importation, favor
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 13 |
-| Total Obligation | $-9,142,692 |
-| Fiscal Years | 2024, 2025 |
+| Federal Contracts | 8 |
+| Total Obligation | $-9,522,688 |
+| Fiscal Years | 2025, 2026 |
 | Awarding Agencies | 2 |
 
 **Top awarding agencies:**
 
-- Department of Veterans Affairs: $365,670
+- Department of Veterans Affairs: $-14,326
 - Department of Health and Human Services: $-9,508,362
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)

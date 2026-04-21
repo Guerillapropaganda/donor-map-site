@@ -25,7 +25,7 @@ subawards-received: 2
 subawards-received-amount: 4948
 top-federal-agency: Department of Defense
 top-naics-code: "423450"
-federal-awards-total: -235623591
+federal-awards-total: -26502425
 federal-contracts-count: 25
 federal-grants-count: 1
 cpsc-recalls: 3
@@ -44,7 +44,7 @@ fda-recalls-class-i: 2
 politicians-funded: "[[Cory Booker]], [[_Kamala Harris Master Profile]], [[REPUBLICAN PARTY OF FLORIDA]], [[_Chrissy Houlahan Master Profile]], [[Lloyd Smucker]], [[Gary Peters]], [[Steve Daines]], [[NRCC - National Republican Congressional Committee]], [[James Lankford]], [[Ashley Moody]], [[Human Rights Campaign Equality Votes]], [[Victoria Spartz]], [[Brendan Boyle]], [[Mitch McConnell]], [[Joyce Beatty]], [[Emily's List]], [[Brett Guthrie]], [[MAGA Inc]], [[The Lincoln Project]], [[Young Kim]], [[NRSC - National Republican Senatorial Committee]], [[_Angie Craig Master Profile]], [[MoveOn.org Political Action]], [[Raul Ruiz]], [[Pete Aguilar]], [[ActBlue]], [[Trump Victory]], [[314 ACTION FUND]], [[Todd Young]], [[John Joyce]], [[_Nancy Pelosi Master Profile]], [[Jay Obernolte]], [[Ron Estes]], [[Cathy McMorris Rodgers]], [[Elise Stefanik]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Josh Riley Master Profile]], [[Jimmy Gomez]], [[David Schweikert]], [[Marianne Williamson]], [[Susan Collins]], [[Dan Crenshaw]], [[ENVIRONMENT AMERICA INC]], [[_Mike Levin Master Profile]], [[Julie Fedorchak]], [[Diana Harshbarger]], [[Barbara Lee]], [[_Mike Thompson Master Profile]], [[Progressive Turnout Project]], [[Club for Growth INC PAC]], [[_Jon Ossoff Master Profile]], [[Mariannette Miller-Meeks]], [[August Pfluger]], [[Mark Kelly]], [[Jason Smith]], [[_Tammy Baldwin Master Profile]], [[Jodey Arrington]], [[Frank Pallone]], [[Nathaniel Moran]], [[RNC - Republican National Committee]], [[Johnson & Johnson]], [[_Adam Gray Master Profile]], [[Aaron Bean]], [[_Lisa Blunt Rochester Master Profile]], [[Patty Murray]], [[Josh Gottheimer]], [[Gwen Moore]], [[Thom Tillis]], [[Senate Conservatives Fund]], [[_Paul Tonko Master Profile]], [[Darrell Issa]], [[Ann Wagner]], [[_Jim Jordan Master Profile]], [[_Mike Haridopolos Master Profile]], [[National Association of Manufacturers]], [[Richard Hudson]], [[Gregory Meeks]], [[Darren Soto]], [[Claudia Tenney]], [[_Rashida Tlaib Master Profile]], [[Rudy Yakym]], [[Adrian Smith]], [[Mark Warner]], [[_Ron Johnson Master Profile]], [[Mike Thompson]], [[Deb Fischer]], [[John Cornyn]], [[_Jake Auchincloss Master Profile]], [[_Cory Booker Master Profile]], [[_Ted Cruz Master Profile]], [[Chris Coons]], [[Kevin Mullin]], [[Richard Neal]], [[_Jamie Raskin Master Profile]], [[John Barrasso]], [[_Andy Barr Master Profile]], [[Lamonica McIver]], [[_Marco Rubio Master Profile]], [[Darin Lahood]], [[Jeanne Shaheen]], [[WinSenate]], [[DCCC - Democratic Congressional Campaign Committee]], [[Diana Degette]], [[Sierra Club Political Committee]], [[Erin Houchin]], [[_Nellie Pou Master Profile]], [[_Patrick Ryan Master Profile]], [[Lisa Blunt Rochester]], [[DNC - Democratic National Committee]], [[Lori Trahan]], [[Jerry Moran]], [[Pete Sessions]], [[Nancy Mace]], [[CHC BOLD PAC]], [[David Kustoff]], [[The National Republican Trust PAC]], [[John Boozman]], [[Joe Manchin]], [[Joni Ernst]], [[Kathy Castor]], [[Steven Horsford]], [[Bob Casey]], [[Roger Marshall]], [[Shelley Moore Capito]], [[Steve Scalise]], [[Kay Granger]], [[Lindsey Graham]], [[John Thune]], [[Let America Vote PAC]], [[Michelle Fischbach]], [[Bennie Thompson]], [[Tim Scott]], [[_Christian D. Menefee Master Profile]], [[John James]], [[Kevin McCarthy]], [[Brian Jack]], [[Martin Heinrich]], [[Chris Christie]], [[_Bonnie Watson Coleman Master Profile]], [[Jacky Rosen]], [[Indivisible Action]], [[_Sara Jacobs Master Profile]], [[Bill Hagerty]], [[Ruben Gallego]], [[Kim Schrier]], [[Kat Cammack]], [[_Vince Fong Master Profile]], [[Hmp]], [[Jake Auchincloss]], [[Giffords PAC]], [[_Elissa Slotkin Master Profile]], [[Jon Husted]], [[Tim Walberg]], [[David Scott]], [[VIEW PAC - Value in Electing Women]], [[WinRed]], [[League of Conservation Voters]], [[Rick Scott]], [[Vicente Gonzalez]], [[Ron Wyden]], [[Madeleine Dean]], [[Catherine Cortez Masto]], [[Henry Cuellar]], [[Nikema Williams]], [[Marsha Blackburn]], [[John Hoeven]], [[Patrick McHenry]], [[Debbie Dingell]], [[Lisa Murkowski]], [[Guy Reschenthaler]], [[Kyrsten Sinema]], [[Bernie Moreno]], [[Ron Johnson]], [[Ted Cruz]], [[Chrissy Houlahan]], [[Jon Ossoff]], [[Marco Rubio]], [[Angie Craig]], [[Sara Jacobs]], [[Rashida Tlaib]], [[Andy Barr]], [[Josh Riley]], [[Adam Gray]], [[Bonnie Watson Coleman]], [[Paul Tonko]], [[Elissa Slotkin]], [[Kamala Harris]], [[Vince Fong]], [[Patrick Ryan]], [[Jamie Raskin]], [[Christian D. Menefee]], [[Mike Levin]], [[Jim Jordan]], [[Mike Haridopolos]], [[Nancy Pelosi]], [[Tammy Baldwin]], [[Nellie Pou]], [[Republican Party of Florida]], [[314 Action Fund]], [[Environment America INC]], [[HMP]]"
 epa-facilities: 7
 epa-states: IL, NJ
-federal-contracts: 9088
+federal-contracts: 6945
 total-raised: 837811
 total-spent: 787125
 cash-on-hand: 307316
@@ -221,17 +221,17 @@ The liability strategy reveals the corporate class position with equal clarity. 
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Federal Contracts | 9,088 |
-| Total Obligation | $-235,623,591 |
-| Fiscal Years | 2024, 2025 |
+| Federal Contracts | 6,945 |
+| Total Obligation | $-26,502,425 |
+| Fiscal Years | 2025, 2026 |
 | Awarding Agencies | 4 |
 
 **Top awarding agencies:**
 
-- Department of Defense: $89,222,705
-- Department of Veterans Affairs: $14,921,126
-- General Services Administration: $0
-- Department of Health and Human Services: $-339,767,423
+- Department of Defense: $68,211,077
+- Department of Veterans Affairs: $7,512,441
+- General Services Administration: $-24,121
+- Department of Health and Human Services: $-102,201,822
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
