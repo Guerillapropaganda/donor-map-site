@@ -728,11 +728,27 @@ function interpret(res: AskResult): string | undefined {
   return undefined
 }
 
+// Cheap lookup: does this entity name resolve to a politician in the
+// vault? Used to gate legislator-only follow-ups (voting record,
+// bills sponsored, committees served) — otherwise a DAF or super PAC
+// gets nonsensical "voting record" suggestions.
+function entityTypeFor(name: string | undefined): string | null {
+  if (!name) return null
+  const ents = loadEntities()
+  const hit = ents.find((e) => e.name === name) || ents.find((e) => e.name.toLowerCase() === name.toLowerCase())
+  return hit ? (hit.entity_type as string) || null : null
+}
+
 // Generate follow-up question suggestions. Keeps users exploring.
 function suggestFollowUps(res: AskResult): string[] {
   const out: string[] = []
   const a = res.resolved_title
   const b = res.resolved_title_2
+  const aType = entityTypeFor(a)
+  const bType = entityTypeFor(b)
+  const aIsPolitician = aType === "politician"
+  const bIsPolitician = bType === "politician"
+  const aIsOrg = aType && aType !== "politician"
 
   if (res.intent === "edge_between" && a && b) {
     out.push(`money chain from ${a} to ${b}`)
@@ -746,16 +762,29 @@ function suggestFollowUps(res: AskResult): string[] {
   } else if (res.intent === "donors_to" && a) {
     out.push(`where does ${a}'s money go`)
     out.push(`tell me about ${a}`)
-    out.push(`${a} voting record`)
-    out.push(`what boards is ${a} on`)
+    // Voting record only makes sense for politicians — suppress for
+    // DAFs, super PACs, corporations, etc. (the Fidelity Charitable
+    // "voting record" suggestion bug).
+    if (aIsPolitician) out.push(`${a} voting record`)
+    // "What boards is X on" maps to affiliations; applies to both
+    // individuals (politicians or donors) but not to organizations.
+    // Organizations have board members, not board seats.
+    if (aIsPolitician) out.push(`what boards is ${a} on`)
+    else if (aIsOrg) out.push(`who's on ${a}'s board`)
   } else if (res.intent === "recipients_from" && a) {
     out.push(`who funds ${a}`)
     out.push(`tell me about ${a}`)
-    out.push(`what boards is ${a} on`)
+    if (aIsPolitician) out.push(`what boards is ${a} on`)
+    else if (aIsOrg) out.push(`who's on ${a}'s board`)
   } else if (res.intent === "summary" && a) {
     out.push(`who funds ${a}`)
     out.push(`where does ${a}'s money go`)
-    out.push(`what boards is ${a} on`)
+    if (aIsPolitician) {
+      out.push(`${a} voting record`)
+      out.push(`what boards is ${a} on`)
+    } else if (aIsOrg) {
+      out.push(`who's on ${a}'s board`)
+    }
     // Also suggest a compare if the entity looks like a dark-money
     // vehicle — its structural mirror is usually the most pedagogical
     // next query.
@@ -777,7 +806,7 @@ function suggestFollowUps(res: AskResult): string[] {
     out.push(`money chain from ${a} to ${b}`)
   } else if (res.intent === "affiliations_from" && a) {
     out.push(`tell me about ${a}`)
-    out.push(`${a} voting record`)
+    if (aIsPolitician) out.push(`${a} voting record`)
   } else if (res.intent === "leaderboard") {
     out.push("top donors")
     out.push("top super pacs")
@@ -2106,6 +2135,23 @@ async function handleLeaderboard(c: ClassifiedQuestion, question: string, _engin
   // mixed in. For political questions, filter them out.
   const POLITICAL_TOPICS = new Set(["top_donors", "top_superpacs", "top_pacs", "top_politicians"])
   const politicalOnly = POLITICAL_TOPICS.has(topic)
+  // Default time window: last 2 full election cycles (4 years). Without
+  // this, ex-politicians like Paul Ryan (retired 2019) dominate the
+  // "top politicians" list on lifetime totals from edges going back to
+  // 2003. If the question explicitly asks for all-time (e.g. "top
+  // politicians all time" / "lifetime top donors"), the window is
+  // dropped.
+  const questionLower = (question || "").toLowerCase()
+  const isAllTime = /\b(all[- ]time|lifetime|ever|since 200|historic)\b/.test(questionLower)
+  const WINDOW_YEARS = 4
+  const cutoffDate = isAllTime ? null : (() => {
+    const d = new Date()
+    d.setFullYear(d.getFullYear() - WINDOW_YEARS)
+    return d.toISOString().slice(0, 10)
+  })()
+  const cutoffYear = cutoffDate ? parseInt(cutoffDate.slice(0, 4), 10) : null
+  const windowLabel = cutoffDate ? ` (last ${WINDOW_YEARS} years — ${cutoffYear}+)` : " (all-time)"
+
   type Agg = { edges: number; total: number; support: number; oppose: number; donation: number }
   const mkAgg = (): Agg => ({ edges: 0, total: 0, support: 0, oppose: 0, donation: 0 })
   const byFrom = new Map<string, Agg>()
@@ -2124,6 +2170,18 @@ async function handleLeaderboard(c: ClassifiedQuestion, question: string, _engin
       // conduits — exclude from "top donor" rankings to avoid double-
       // counting the same dollars already tallied under the corporate PAC
       if (politicalOnly && e.role === "employee-contributions") continue
+      // Time window filter — drop edges outside the cutoff unless the
+      // user explicitly asked for all-time. Edge dates come as either
+      // ISO string in e.date or 4-digit string in e.cycle. Either is
+      // acceptable for coarse year-level filtering.
+      if (cutoffDate) {
+        const edgeDate = typeof e.date === "string" ? e.date : null
+        const edgeCycle = e.cycle != null ? parseInt(String(e.cycle), 10) : null
+        const keep =
+          (edgeDate && edgeDate >= cutoffDate) ||
+          (edgeCycle != null && cutoffYear != null && edgeCycle >= cutoffYear)
+        if (!keep) continue
+      }
       const amt = Number(e.amount) || 0
       const bucket = e.role === "ie-oppose" ? "oppose" : e.role === "ie-support" ? "support" : "donation"
       const a = byFrom.get(e.from) || mkAgg()
@@ -2174,35 +2232,35 @@ async function handleLeaderboard(c: ClassifiedQuestion, question: string, _engin
       .map(([name, v]) => rowShape(name, v))
       .sort((a, b) => b.positive_spend - a.positive_spend)
       .slice(0, 25)
-    summary = `Top 25 donors by positive spend (direct donations + IE support). Attack spend shown separately.`
+    summary = `Top 25 donors by positive spend (direct donations + IE support)${windowLabel}. Attack spend shown separately.`
   } else if (topic === "top_superpacs") {
     rows = [...byFrom.entries()]
       .filter(([name]) => typeMatch(name, "superpac"))
       .map(([name, v]) => rowShape(name, v))
       .sort((a, b) => b.total - a.total)
       .slice(0, 25)
-    summary = `Top 25 super PACs by total IE + direct spend. Support and attack broken out per row.`
+    summary = `Top 25 super PACs by total IE + direct spend${windowLabel}. Support and attack broken out per row.`
   } else if (topic === "top_pacs") {
     rows = [...byFrom.entries()]
       .filter(([name]) => typeMatch(name, "pac"))
       .map(([name, v]) => rowShape(name, v))
       .sort((a, b) => b.total - a.total)
       .slice(0, 25)
-    summary = `Top 25 PACs / political committees by total spend. Support and attack broken out per row.`
+    summary = `Top 25 PACs / political committees by total spend${windowLabel}. Support and attack broken out per row.`
   } else if (topic === "top_politicians") {
     rows = [...byTo.entries()]
       .filter(([name]) => typeMatch(name, "politician"))
       .map(([name, v]) => rowShape(name, v))
       .sort((a, b) => b.positive_spend - a.positive_spend)
       .slice(0, 25)
-    summary = `Top 25 politicians by positive money received. Attack spending against them tracked separately.`
+    summary = `Top 25 politicians by positive money received${windowLabel}. Attack spending against them tracked separately.`
   } else if (topic === "top_dafs") {
     rows = [...byFrom.entries()]
       .filter(([name]) => typeMatch(name, "daf"))
       .map(([name, v]) => rowShape(name, v))
       .sort((a, b) => b.positive_spend - a.positive_spend)
       .slice(0, 25)
-    summary = `Top 25 donor-advised funds / charitable vehicles by grant dollars out.`
+    summary = `Top 25 donor-advised funds / charitable vehicles by grant dollars out${windowLabel}.`
   }
 
   const topName = rows[0] ? ` Top: **${rows[0].name}** at ${fmtUsd((rows[0].positive_spend as number) || (rows[0].total as number))}.` : ""
@@ -2964,10 +3022,32 @@ async function handleQuestion(question: string): Promise<AskResult> {
       ? ` Breakdown: ${fmtUsd(directTotal)} direct; ${viaParts.join("; ")}.`
       : ""
 
+    // Empty-state copy branches on entity type. A DAF shouldn't read
+    // "0 donor edges without dollar amounts" — that suggests a broken
+    // query. For DAFs and 501(c)(4) dark-money vehicles, explicitly
+    // explain that donor disclosure is legally shielded.
+    const entType = (findEntity(name.title) as any)?.entity_type as string | undefined
+    const entSector = (findEntity(name.title) as any)?.signals?.sector as string | undefined
+    const entCapital = (findEntity(name.title) as any)?.capital_type as string | undefined
+    const isDAF = entSector === "DAF" || entCapital === "dark-money-vehicle" ||
+      /donor[\s-]?advised|charitable gift fund/i.test(name.title + " " + (entSector || ""))
+    const isDarkMoney = entSector === "Dark Money" || entCapital === "dark-money-vehicle"
+
+    let emptyNote: string
+    if (isDAF) {
+      emptyNote = `**${name.title}** is a donor-advised fund. DAFs are legally permitted to shield the identity of their original donors — the IRS Form 990 lists grants OUT of the fund, but grants IN arrive without donor identification. That's by design, not missing data.${opposeNote}`
+    } else if (isDarkMoney) {
+      emptyNote = `**${name.title}** is a 501(c)(4) dark-money vehicle. By law it isn't required to publicly disclose its donors, so we can't show a tracked inflow list. What we can show: where its money goes (grants out), which is the other half of the story.${opposeNote}`
+    } else if (entType && entType !== "politician") {
+      emptyNote = `**${name.title}** has no tracked donor inflows in the vault yet. This is an organization, not a politician — donor data may only appear here once someone gives it IRS 990 grants, PAC contributions, or recorded lobbying transfers.${opposeNote}`
+    } else {
+      emptyNote = `**${name.title}** has ${supporters.length} donor edges in the store without dollar amounts. If this is a politician, see [G1 ingest status] — individual contribution edges are being re-bridged to politician profiles.${opposeNote}`
+    }
+
     const answer =
       total$ > 0
         ? `**${name.title}** received **${fmtUsd(total$)}** in tracked support edges from **${supporters.length}** donors/committees${vehicles.length > 0 ? ` (pooled across ${vehicles.length + 1} entities including controlled vehicles)` : ""}.${viaBreakdown}${opposeNote}`
-        : `**${name.title}** has ${supporters.length} donor edges in the store without dollar amounts.${opposeNote}`
+        : emptyNote
     const bullets = top5.map((e: any) => {
       const via = e._via ? ` → ${e._via}` : ""
       return `${e.from}${via}: ${fmtUsd(e.amount)}${e.cycle ? ` (${e.cycle})` : ""}${e.source ? ` [${citeEdge(e).label}]` : ""}`
