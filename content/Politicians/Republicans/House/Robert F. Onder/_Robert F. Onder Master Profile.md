@@ -35,6 +35,7 @@ committees:
   - Oversight
   - The Constitution and Limited Government
   - Water Resources and Environment
+bills-sponsored: 16
 ---
 
 

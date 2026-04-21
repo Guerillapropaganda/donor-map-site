@@ -52,6 +52,7 @@ reenrich-reason: run voting pipeline; run congress pipeline
 related: ">- · [[UnitedHealth Group - Optum]] · [[Insurance Industry Bloc]] · [[Organizing for Action]] · [[Democracy Alliance]] · [[Joe Biden Master Profile]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]]"
 donors: "[[Lawrence Summers]] · [[Google - Alphabet]] · [[Gates Foundation]] · [[Insurance Industry]] · [[US Chamber of Commerce]] · [[Reed Hastings]] · [[Eric Schmidt]] · [[JPMorgan Chase]] · [[Entertainment and Hollywood Donors]] · [[General Motors]] · [[Apple]] · [[Pharmaceutical Industry]] · [[Goldman Sachs]] · [[JB Pritzker]] · [[Google]] · [[JB Pritzker - Donor Network]] · [[JB Pritzker (Donor Network)]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 122
 ---
 
 

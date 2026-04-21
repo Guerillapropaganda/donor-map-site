@@ -37,6 +37,7 @@ committees:
   - "Water, Wildlife and Fisheries"
 total-raised: "$12.1M"
 career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
+bills-sponsored: 7
 ---
 
 

@@ -39,6 +39,7 @@ committees:
   - Workforce Protections
 total-raised: "$5.6M"
 career-total-source: "FEC weball summary (cycles 2018, 2024, 2026)"
+bills-sponsored: 15
 ---
 
 

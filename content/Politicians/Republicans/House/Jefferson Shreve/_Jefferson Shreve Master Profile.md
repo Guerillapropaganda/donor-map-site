@@ -35,6 +35,7 @@ committees:
   - Western Hemisphere
 total-raised: "$8.6M"
 career-total-source: "FEC weball summary (cycles 2024, 2026)"
+bills-sponsored: 12
 ---
 
 

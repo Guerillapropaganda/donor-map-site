@@ -30,6 +30,7 @@ committees:
   - "House Committee on Science, Space, and Technology"
   - "Oversight, Investigations, and Accountability"
   - Transportation and Maritime Security
+bills-sponsored: 3
 ---
 
 

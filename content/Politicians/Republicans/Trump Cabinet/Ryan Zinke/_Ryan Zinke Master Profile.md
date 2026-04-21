@@ -28,6 +28,7 @@ committees:
   - "Transportation, Housing and Urban Development, and Related Agencies"
 total-raised: "$27.3M"
 career-total-source: "FEC weball summary (cycles 2014, 2016, 2018, 2022, 2024)"
+bills-sponsored: 46
 ---
 
 

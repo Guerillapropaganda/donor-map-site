@@ -2,7 +2,7 @@
 title: George Latimer
 type: politician
 bioguide-id: L000606
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: "Latimer is the structural output of AIPAC's primary enforcement model at maximum scale: a credible local official turned into a congressional vote through $14.9M in outside spending, whose tenure confirms donor-class expectations on Israel aid and crypto deregulation while the outside money that created him continues to dwarf his own fundraising 39-to-1."
 last-updated: 2026-04-16T00:00:00.000Z
 editorial-notes: "[Research Claude 2026-04-16] Added Class Analysis section and central-thesis. Known-gaps note about FEC candidate ID is stale. FEC auto-block is populated with real data."
@@ -36,6 +36,7 @@ committees:
   - South and Central Asia
 total-raised: "$7.1M"
 career-total-source: "FEC weball summary (cycles 2024, 2026)"
+bills-sponsored: 6
 ---
 
 

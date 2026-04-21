@@ -10,7 +10,7 @@ party: Democrat
 chamber: Senate
 bioguide-id: R000146
 govtrack-id: 300082
-bills-sponsored: 0
+bills-sponsored: 285
 bills-cosponsored: 0
 total-received: $4,692,846
 fec-candidate-id: S6NV00028

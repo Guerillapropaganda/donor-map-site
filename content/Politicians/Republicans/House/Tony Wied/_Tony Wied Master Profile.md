@@ -23,7 +23,7 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4WI08119
-bills-sponsored: 0
+bills-sponsored: 15
 bills-cosponsored: 5
 bills-enacted: 0
 top-policy-area: Taxation

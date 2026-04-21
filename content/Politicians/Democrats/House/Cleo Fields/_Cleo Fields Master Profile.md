@@ -32,6 +32,7 @@ committees:
   - Oversight and Investigations
 total-raised: "$1.7M"
 career-total-source: "FEC weball summary (cycles 2024, 2026)"
+bills-sponsored: 6
 ---
 
 

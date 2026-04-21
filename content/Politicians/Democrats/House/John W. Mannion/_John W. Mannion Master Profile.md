@@ -30,6 +30,7 @@ committees:
   - "Health, Employment, Labor, and Pensions"
   - House Committee on Agriculture
   - House Committee on Education and Workforce
+bills-sponsored: 6
 ---
 
 

@@ -19,6 +19,7 @@ last-enriched: 2026-04-21
 corroboration-count: 2
 total-raised: "$70.7M"
 career-total-source: "FEC weball summary (cycles 1984, 1986, 1988, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016)"
+bills-sponsored: 383
 ---
 
 

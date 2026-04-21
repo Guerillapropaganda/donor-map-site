@@ -31,6 +31,7 @@ committees:
   - Environment
   - House Committee on Energy and Commerce
   - House Committee on Homeland Security
+bills-sponsored: 17
 ---
 
 

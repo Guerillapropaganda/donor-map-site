@@ -20,6 +20,7 @@ top-donors: "[[IBEW - International Brotherhood of Electrical Workers]], [[Unite
 last-enriched: 2026-04-21
 total-raised: "$741K"
 career-total-source: "FEC weball summary (cycles 2026)"
+bills-sponsored: 49
 ---
 
 

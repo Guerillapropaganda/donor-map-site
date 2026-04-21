@@ -58,6 +58,7 @@ donors: "[[Mark Zuckerberg]] · [[Larry Ellison]] · [[GEO Group - Private Priso
 urls-first-triaged: "2026-04-15"
 total-raised: "$48.7M"
 career-total-source: "FEC weball summary (cycles 2016, 2018, 2020, 2022)"
+bills-sponsored: 739
 ---
 
 #marco-rubio #secretary-of-state #florida #sugar-industry #defense-contractors #class-analysis #follow-the-money #cuba #venezuela #fanjul #gang-of-eight #immigration-flip #hawkish #[[AIPAC - American Israel Public Affairs Committee|AIPAC]] #little-marco

@@ -35,6 +35,7 @@ committees:
   - House Committee on Transportation and Infrastructure
   - Indian and Insular Affairs
   - Water Resources and Environment
+bills-sponsored: 18
 ---
 
 

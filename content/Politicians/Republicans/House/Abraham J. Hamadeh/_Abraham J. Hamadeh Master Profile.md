@@ -31,6 +31,7 @@ committees:
   - Intelligence and Special Operations
   - Strategic Forces
   - Tactical Air and Land Forces
+bills-sponsored: 19
 ---
 
 

@@ -30,6 +30,7 @@ committees:
   - House Committee on Agriculture
   - House Committee on Armed Services
   - Seapower and Projection Forces
+bills-sponsored: 51
 ---
 
 

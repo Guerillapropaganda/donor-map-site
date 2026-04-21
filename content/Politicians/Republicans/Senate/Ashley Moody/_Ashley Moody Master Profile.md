@@ -1,7 +1,7 @@
 ---
 title: Ashley Moody
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 last-updated: 2026-04-19
 source-tier: 1
 party: Republican
@@ -43,6 +43,7 @@ committees:
   - Senate Special Committee on Aging
 total-raised: "$8.4M"
 career-total-source: "FEC weball summary (cycles 2026)"
+bills-sponsored: 29
 ---
 
 

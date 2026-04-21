@@ -34,6 +34,7 @@ committees:
   - "Rural Development, Energy, and Supply Chains"
 total-raised: "$3.3M"
 career-total-source: "FEC weball summary (cycles 2024, 2026)"
+bills-sponsored: 10
 ---
 
 

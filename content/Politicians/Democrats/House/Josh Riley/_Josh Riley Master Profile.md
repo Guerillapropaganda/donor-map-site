@@ -33,6 +33,7 @@ committees:
   - "Livestock, Dairy, and Poultry"
 total-raised: "$18.0M"
 career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
+bills-sponsored: 14
 ---
 
 

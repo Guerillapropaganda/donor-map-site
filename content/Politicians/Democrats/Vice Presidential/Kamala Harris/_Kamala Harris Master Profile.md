@@ -35,6 +35,7 @@ donors: "[[Lawrence Summers]] · [[Google - Alphabet]] · [[Larry Ellison]] · [
 urls-first-triaged: "2026-04-15"
 total-raised: "$1.22B"
 career-total-source: "FEC weball summary (cycles 2020, 2022, 2024)"
+bills-sponsored: 118
 ---
 
 

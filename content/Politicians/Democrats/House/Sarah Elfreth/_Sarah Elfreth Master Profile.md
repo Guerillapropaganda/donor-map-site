@@ -1,7 +1,7 @@
 ---
 title: Sarah Elfreth
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 party: Democrat
@@ -36,6 +36,7 @@ committees:
   - "Water, Wildlife and Fisheries"
 total-raised: "$3.2M"
 career-total-source: "FEC weball summary (cycles 2024, 2026)"
+bills-sponsored: 15
 ---
 
 

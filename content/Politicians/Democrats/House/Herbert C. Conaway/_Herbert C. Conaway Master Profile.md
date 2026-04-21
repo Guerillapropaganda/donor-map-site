@@ -30,6 +30,7 @@ committees:
   - "House Committee on Veterans' Affairs"
   - Oversight and Investigations
   - Tactical Air and Land Forces
+bills-sponsored: 13
 ---
 
 

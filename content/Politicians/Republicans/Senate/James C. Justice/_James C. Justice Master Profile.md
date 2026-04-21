@@ -34,6 +34,7 @@ committees:
   - Senate Committee on Small Business and Entrepreneurship
   - Senate Special Committee on Aging
   - Water and Power
+bills-sponsored: 10
 ---
 
 

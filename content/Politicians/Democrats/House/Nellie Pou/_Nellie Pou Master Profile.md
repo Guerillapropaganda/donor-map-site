@@ -31,6 +31,7 @@ committees:
   - House Committee on Homeland Security
   - House Committee on Transportation and Infrastructure
   - Water Resources and Environment
+bills-sponsored: 10
 ---
 
 

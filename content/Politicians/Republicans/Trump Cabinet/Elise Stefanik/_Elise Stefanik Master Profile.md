@@ -2,7 +2,7 @@
 title: Elise Stefanik
 type: politician
 bioguide-id: S001196
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: Elise Stefanik is the Republican Party's ideological transformation made flesh — and the donor-class reward system that drives it made visible. Her career arc from Harvard-educated moderate to 'ultra-MAGA' Conference Chair demonstrates that ideolo...
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
@@ -28,6 +28,12 @@ urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-20
 total-raised: "$51.2M"
 career-total-source: "FEC weball summary (cycles 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+bills-sponsored: 164
+source-types:
+  - Congress
+known-gaps:
+  - "No FEC contribution data"
+  - "No voting record data"
 ---
 
 

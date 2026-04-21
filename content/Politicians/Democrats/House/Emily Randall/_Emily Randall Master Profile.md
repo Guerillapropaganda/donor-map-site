@@ -34,6 +34,7 @@ committees:
   - Indian and Insular Affairs
 total-raised: "$2.9M"
 career-total-source: "FEC weball summary (cycles 2024, 2026)"
+bills-sponsored: 11
 ---
 
 

@@ -37,6 +37,7 @@ committees:
   - The Constitution and Limited Government
 total-raised: "$4.9M"
 career-total-source: "FEC weball summary (cycles 2024, 2026)"
+bills-sponsored: 18
 ---
 
 

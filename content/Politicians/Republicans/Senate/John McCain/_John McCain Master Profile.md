@@ -10,7 +10,7 @@ party: Republican
 chamber: Senate
 bioguide-id: M000303
 govtrack-id: 300071
-bills-sponsored: 0
+bills-sponsored: 264
 bills-cosponsored: 0
 total-received: $707,083
 fec-candidate-id: H2AZ01024

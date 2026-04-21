@@ -30,6 +30,7 @@ committees:
   - House Committee on Homeland Security
   - House Committee on Oversight and Government Reform
   - Military and Foreign Affairs
+bills-sponsored: 9
 ---
 
 

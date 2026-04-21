@@ -36,6 +36,7 @@ committees:
   - House Committee on Natural Resources
   - Indian and Insular Affairs
   - Oversight and Investigations
+bills-sponsored: 24
 ---
 
 

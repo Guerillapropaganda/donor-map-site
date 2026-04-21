@@ -32,6 +32,7 @@ committees:
   - House Committee on Energy and Commerce
 total-raised: "$3.4M"
 career-total-source: "FEC weball summary (cycles 2024, 2026)"
+bills-sponsored: 12
 ---
 
 
