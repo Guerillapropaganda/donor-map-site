@@ -1266,8 +1266,10 @@ function classify(q: string): ClassifiedQuestion {
     }
   }
 
-  // Voting record
-  let m = lower.match(/^(.+?)\s+voting record$/) || lower.match(/^how did (.+?) vote/)
+  // Voting record. The "how did X vote" shape is for individual legislators
+  // only — exclude congress/house/senate so bill-direction queries like
+  // "how did congress vote on H.R. 1" fall through to votes_on_bill below.
+  let m = lower.match(/^(.+?)\s+voting record$/) || lower.match(/^how did (?!(?:congress|the house|the senate)\b)(.+?) vote/)
   if (m) return { intent: "voting_record", subjectName: m[1] }
 
   // Phase 2: Bills sponsored by X
