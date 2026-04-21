@@ -1,14 +1,644 @@
 {
   "stats": {
-    "lastUpdated": "2026-04-12T18:20:29.094Z",
+    "lastUpdated": "2026-04-21T01:29:53.890Z",
     "lookbackDays": 90,
-    "senateFilings": 0,
-    "houseFilings": 128,
-    "totalFilings": 128,
-    "totalTransactions": 1124,
-    "runtime": "165.8s"
+    "senateFilings": 42,
+    "houseFilings": 119,
+    "totalFilings": 161,
+    "totalTransactions": 821,
+    "runtime": "239.5s"
   },
   "filings": [
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "James",
+        "lastName": "Banks",
+        "name": "James Banks"
+      },
+      "filing": {
+        "date": "04/20/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/ptr/680da3d8-5f81-43a3-a658-0493c0070378/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "John",
+        "lastName": "Boozman",
+        "name": "John Boozman"
+      },
+      "filing": {
+        "date": "04/14/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/ptr/e9d6ab5f-3a50-49bc-9f00-3ef4655045aa/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "John",
+        "lastName": "Boozman",
+        "name": "John Boozman"
+      },
+      "filing": {
+        "date": "04/14/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/ptr/88c765c5-6550-47af-a81d-2e052c1c1b7e/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "Shelley M",
+        "lastName": "Capito",
+        "name": "Shelley M Capito"
+      },
+      "filing": {
+        "date": "04/12/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/ptr/aa38bdb0-5847-4bec-8e36-80d6ffc90837/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "Sheldon",
+        "lastName": "Whitehouse",
+        "name": "Sheldon Whitehouse"
+      },
+      "filing": {
+        "date": "04/08/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/ptr/853d0789-28db-4789-9654-a73cff7740d7/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "Susan M",
+        "lastName": "Collins",
+        "name": "Susan M Collins"
+      },
+      "filing": {
+        "date": "04/08/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/ptr/e5e9e7aa-ffd0-4414-8d2e-1cb7592b9797/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "RICHARD",
+        "lastName": "BLUMENTHAL",
+        "name": "RICHARD BLUMENTHAL"
+      },
+      "filing": {
+        "date": "04/08/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/paper/f028d2ce-4ab7-41a8-a67a-91675b6941d7/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "Shelley M",
+        "lastName": "Capito",
+        "name": "Shelley M Capito"
+      },
+      "filing": {
+        "date": "04/04/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/ptr/ab712d8d-1afd-4f09-b29e-f1b65bba50b8/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "John",
+        "lastName": "Fetterman",
+        "name": "John Fetterman"
+      },
+      "filing": {
+        "date": "04/03/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/ptr/8d93e30a-19a8-43a9-93d8-e95d629b1039/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "Tina",
+        "lastName": "Smith",
+        "name": "Tina Smith"
+      },
+      "filing": {
+        "date": "04/02/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/ptr/5a00d807-84f1-409b-9cb0-566e59553e38/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "David H",
+        "lastName": "McCormick",
+        "name": "David H McCormick"
+      },
+      "filing": {
+        "date": "03/28/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/ptr/b7c1a149-760f-4a4e-96a7-e2d689bccd2e/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "David H",
+        "lastName": "McCormick",
+        "name": "David H McCormick"
+      },
+      "filing": {
+        "date": "03/25/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/ptr/1e345459-9cbe-4434-99ed-eaca63641fb3/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "Susan M",
+        "lastName": "Collins",
+        "name": "Susan M Collins"
+      },
+      "filing": {
+        "date": "03/25/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/ptr/f6e2adb6-d995-4d21-ad04-5325892a0bf9/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "Angus S",
+        "lastName": "King, Jr.",
+        "name": "Angus S King, Jr."
+      },
+      "filing": {
+        "date": "03/24/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/ptr/09b9c1ed-1d73-4f17-b6f8-7b2d92021c5b/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "A. Mitchell",
+        "lastName": "McConnell, Jr.",
+        "name": "A. Mitchell McConnell, Jr."
+      },
+      "filing": {
+        "date": "03/19/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/ptr/8ee57a8c-076d-4e8b-bf04-061edaf0724e/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "RICHARD",
+        "lastName": "BLUMENTHAL",
+        "name": "RICHARD BLUMENTHAL"
+      },
+      "filing": {
+        "date": "03/13/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/paper/d337c392-e0aa-428e-be93-44a327b90d08/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "Markwayne",
+        "lastName": "Mullin",
+        "name": "Markwayne Mullin"
+      },
+      "filing": {
+        "date": "03/10/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/ptr/f586922d-6083-44e5-8a32-769290389416/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "John",
+        "lastName": "Boozman",
+        "name": "John Boozman"
+      },
+      "filing": {
+        "date": "03/06/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/ptr/2b56957f-6859-43e2-a447-898509c7f142/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "John",
+        "lastName": "Boozman",
+        "name": "John Boozman"
+      },
+      "filing": {
+        "date": "03/06/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/ptr/141ea86c-9411-4d3f-ae9b-ce6e5e8065d1/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "Sheldon",
+        "lastName": "Whitehouse",
+        "name": "Sheldon Whitehouse"
+      },
+      "filing": {
+        "date": "03/06/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/ptr/4ce4bf43-4f25-4cc0-b084-4ab230a1b080/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "John",
+        "lastName": "Fetterman",
+        "name": "John Fetterman"
+      },
+      "filing": {
+        "date": "03/05/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/ptr/f7a22ac4-87ea-46e3-9303-c84d8b1ed6e0/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "David H",
+        "lastName": "McCormick",
+        "name": "David H McCormick"
+      },
+      "filing": {
+        "date": "03/04/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/ptr/a27cbd70-4bc0-4e69-a444-387de64d14f8/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "John W",
+        "lastName": "Hickenlooper",
+        "name": "John W Hickenlooper"
+      },
+      "filing": {
+        "date": "03/04/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/ptr/31980453-e298-4f21-9134-5d0b1a0e6491/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "Shelley M",
+        "lastName": "Capito",
+        "name": "Shelley M Capito"
+      },
+      "filing": {
+        "date": "03/04/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/ptr/29828a0d-22e7-4acf-b0e4-2a340947b79e/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "William F",
+        "lastName": "Hagerty, IV",
+        "name": "William F Hagerty, IV"
+      },
+      "filing": {
+        "date": "03/02/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/ptr/12848a78-c94a-4813-9051-5b3063c718a9/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "Markwayne",
+        "lastName": "Mullin",
+        "name": "Markwayne Mullin"
+      },
+      "filing": {
+        "date": "03/02/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/ptr/315cd41e-0e2e-492b-9fc6-32bb92100734/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "William F",
+        "lastName": "Hagerty, IV",
+        "name": "William F Hagerty, IV"
+      },
+      "filing": {
+        "date": "02/23/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/ptr/f3dc67af-1a91-4d58-a98f-f5adec91ecd7/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "David H",
+        "lastName": "McCormick",
+        "name": "David H McCormick"
+      },
+      "filing": {
+        "date": "02/22/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/ptr/f977c281-48c1-4de0-af95-6765127f4720/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "John",
+        "lastName": "Boozman",
+        "name": "John Boozman"
+      },
+      "filing": {
+        "date": "02/15/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/ptr/bd886067-927f-48a8-9d43-8ab6fa713f98/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "John",
+        "lastName": "Boozman",
+        "name": "John Boozman"
+      },
+      "filing": {
+        "date": "02/15/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "Susan M",
+        "lastName": "Collins",
+        "name": "Susan M Collins"
+      },
+      "filing": {
+        "date": "02/13/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/ptr/ab93dc59-4217-40a6-bee8-ba19deae027a/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "RICHARD",
+        "lastName": "BLUMENTHAL",
+        "name": "RICHARD BLUMENTHAL"
+      },
+      "filing": {
+        "date": "02/12/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/paper/068274e1-4b7a-4453-a242-563dde4c10d8/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "John W",
+        "lastName": "Hickenlooper",
+        "name": "John W Hickenlooper"
+      },
+      "filing": {
+        "date": "02/06/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/ptr/83722654-25b1-499e-8ad5-4a1349d993a6/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "Shelley M",
+        "lastName": "Capito",
+        "name": "Shelley M Capito"
+      },
+      "filing": {
+        "date": "02/05/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/ptr/863cb85f-ff3b-41b2-ac1b-7d82f427c7b4/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "Markwayne",
+        "lastName": "Mullin",
+        "name": "Markwayne Mullin"
+      },
+      "filing": {
+        "date": "02/04/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/ptr/98b3317b-2632-48c3-b636-d5555c4680ca/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "Sheldon",
+        "lastName": "Whitehouse",
+        "name": "Sheldon Whitehouse"
+      },
+      "filing": {
+        "date": "02/04/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/ptr/d8dd8a6c-08c7-4432-8e62-5cd0ee9c4a8e/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "Tina",
+        "lastName": "Smith",
+        "name": "Tina Smith"
+      },
+      "filing": {
+        "date": "01/30/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/ptr/a8f2bab8-0feb-49cf-b80f-9826cb4a7a4c/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "Katie",
+        "lastName": "Britt",
+        "name": "Katie Britt"
+      },
+      "filing": {
+        "date": "01/29/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/ptr/37900303-65bf-467d-962b-76555d510b28/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "Katie",
+        "lastName": "Britt",
+        "name": "Katie Britt"
+      },
+      "filing": {
+        "date": "01/26/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/ptr/28e79480-3dcb-4793-86ed-48e7fd214587/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "Angus S",
+        "lastName": "King, Jr.",
+        "name": "Angus S King, Jr."
+      },
+      "filing": {
+        "date": "01/26/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/ptr/d7cae837-f73c-4eb1-b9fb-e510f53d65de/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "Gary C",
+        "lastName": "Peters",
+        "name": "Gary C Peters"
+      },
+      "filing": {
+        "date": "01/20/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/ptr/5dfd6dd1-5c2f-4398-984b-79c88380fc84/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "Senate",
+      "filer": {
+        "firstName": "RICHARD",
+        "lastName": "BLUMENTHAL",
+        "name": "RICHARD BLUMENTHAL"
+      },
+      "filing": {
+        "date": "01/20/2026",
+        "type": "PTR",
+        "sourceUrl": "https://efdsearch.senate.gov/search/view/paper/f873aeb4-adbb-4934-a188-79416a2e4c76/",
+        "sourceSystem": "efdsearch.senate.gov"
+      },
+      "transactions": []
+    },
     {
       "chamber": "House",
       "filer": {
@@ -129,39 +759,6 @@
           "owner": "Self",
           "ticker": "SPYB",
           "assetDescription": "QQQ – 4.105 shares sold @ $601.68/share PYPL – 9.021 shares sold @ $47.735/share SPDR S&P 500 Buyback ETF",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        }
-      ]
-    },
-    {
-      "chamber": "House",
-      "filer": {
-        "firstName": "Richard W.",
-        "lastName": "Allen",
-        "name": "Hon. Richard W. Allen",
-        "state": "GA",
-        "district": "12"
-      },
-      "filing": {
-        "date": "1/15/2026",
-        "type": "PTR",
-        "docId": "20033751",
-        "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033751.pdf",
-        "sourceSystem": "disclosures-clerk.house.gov"
-      },
-      "transactions": [
-        {
-          "transactionDate": "12/12/2025",
-          "owner": "Self",
-          "ticker": "NFLX",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: R.W. Allen & Associates, Inc. > RWA&A - Securities SPNetflix, Inc. - Common Stock",
           "assetType": "Stock",
           "transactionType": "Sale",
           "amount": {
@@ -405,249 +1002,6 @@
         "sourceSystem": "disclosures-clerk.house.gov"
       },
       "transactions": []
-    },
-    {
-      "chamber": "House",
-      "filer": {
-        "firstName": "Sheri",
-        "lastName": "Biggs",
-        "name": "Hon. Sheri Biggs",
-        "state": "SC",
-        "district": "03"
-      },
-      "filing": {
-        "date": "1/14/2026",
-        "type": "PTR",
-        "docId": "20033800",
-        "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033800.pdf",
-        "sourceSystem": "disclosures-clerk.house.gov"
-      },
-      "transactions": [
-        {
-          "transactionDate": "12/02/2025",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/02/2025",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/12/2025",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 15001,
-            "max": 50000,
-            "text": "$15,001 -\n$50,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/02/2025",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/02/2025",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/02/2025",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/02/2025",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/02/2025",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/02/2025",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/02/2025",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/02/2025",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/02/2025",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/02/2025",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/02/2025",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/02/2025",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/02/2025",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        }
-      ]
     },
     {
       "chamber": "House",
@@ -1092,6 +1446,67 @@
             "min": 15001,
             "max": 50000,
             "text": "$15,001 -\n$50,000"
+          },
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "chamber": "House",
+      "filer": {
+        "firstName": "Sheri",
+        "lastName": "Biggs",
+        "name": "Hon. Sheri Biggs",
+        "state": "SC",
+        "district": "03"
+      },
+      "filing": {
+        "date": "4/16/2026",
+        "type": "PTR",
+        "docId": "20034346",
+        "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034346.pdf",
+        "sourceSystem": "disclosures-clerk.house.gov"
+      },
+      "transactions": [
+        {
+          "transactionDate": "03/27/2026",
+          "owner": "Self",
+          "ticker": null,
+          "assetDescription": "Unknown Asset",
+          "assetType": "Stock",
+          "transactionType": "Purchase",
+          "amount": {
+            "min": 1001,
+            "max": 15000,
+            "text": "$1,001 - $15,000"
+          },
+          "comment": ""
+        },
+        {
+          "transactionDate": "03/04/2026",
+          "owner": "Self",
+          "ticker": "IBIT",
+          "assetDescription": "D\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000: Dividend reinvestment in a professionally managed account – Business Development Company. SPiShares Bitcoin Trust ETF",
+          "assetType": "Stock",
+          "transactionType": "Purchase",
+          "amount": {
+            "min": 100001,
+            "max": 250000,
+            "text": "$100,001 -\n$250,000"
+          },
+          "comment": ""
+        },
+        {
+          "transactionDate": "03/30/2026",
+          "owner": "Self",
+          "ticker": null,
+          "assetDescription": "Unknown Asset",
+          "assetType": "Stock",
+          "transactionType": "Purchase",
+          "amount": {
+            "min": 1001,
+            "max": 15000,
+            "text": "$1,001 - $15,000"
           },
           "comment": ""
         }
@@ -5943,81 +6358,6 @@
         "district": "09"
       },
       "filing": {
-        "date": "1/14/2026",
-        "type": "PTR",
-        "docId": "20033754",
-        "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033754.pdf",
-        "sourceSystem": "disclosures-clerk.house.gov"
-      },
-      "transactions": [
-        {
-          "transactionDate": "12/17/2025",
-          "owner": "Self",
-          "ticker": "RFI",
-          "assetDescription": "Cohen & Steers Total Return Realty Fund, Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/17/2025",
-          "owner": "Self",
-          "ticker": "GS",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Stephens Advantage Account Goldman Sachs Group, Inc.",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 15001,
-            "max": 50000,
-            "text": "$15,001 -\n$50,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/17/2025",
-          "owner": "Self",
-          "ticker": "GS",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Stephens Advantage Account Goldman Sachs Group, Inc.",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 15001,
-            "max": 50000,
-            "text": "$15,001 -\n$50,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/17/2025",
-          "owner": "Self",
-          "ticker": "MS",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Stephens Advantage Account Morgan Stanley Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 50001,
-            "max": 100000,
-            "text": "$50,001 -\n$100,000"
-          },
-          "comment": ""
-        }
-      ]
-    },
-    {
-      "chamber": "House",
-      "filer": {
-        "firstName": "Steve",
-        "lastName": "Cohen",
-        "name": "Hon. Steve Cohen",
-        "state": "TN",
-        "district": "09"
-      },
-      "filing": {
         "date": "1/26/2026",
         "type": "PTR",
         "docId": "20033813",
@@ -6094,39 +6434,6 @@
         "sourceSystem": "disclosures-clerk.house.gov"
       },
       "transactions": []
-    },
-    {
-      "chamber": "House",
-      "filer": {
-        "firstName": "Michael A.",
-        "lastName": "Collins",
-        "name": "Hon. Michael A. Collins Jr",
-        "state": "GA",
-        "district": "10"
-      },
-      "filing": {
-        "date": "1/20/2026",
-        "type": "PTR",
-        "docId": "20033840",
-        "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033840.pdf",
-        "sourceSystem": "disclosures-clerk.house.gov"
-      },
-      "transactions": [
-        {
-          "transactionDate": "01/12/2026",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        }
-      ]
     },
     {
       "chamber": "House",
@@ -7907,81 +8214,6 @@
         "district": "06"
       },
       "filing": {
-        "date": "1/16/2026",
-        "type": "PTR",
-        "docId": "20033732",
-        "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033732.pdf",
-        "sourceSystem": "disclosures-clerk.house.gov"
-      },
-      "transactions": [
-        {
-          "transactionDate": "12/26/2025",
-          "owner": "Self",
-          "ticker": "FIG",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Morgan Stanley - E*TRADE #2 FIGMA INC CLASS A",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/26/2025",
-          "owner": "Self",
-          "ticker": "FIG",
-          "assetDescription": "D\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000: Stock FIGMA INC CLASS A",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 15001,
-            "max": 50000,
-            "text": "$15,001 -\n$50,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/26/2025",
-          "owner": "Self",
-          "ticker": "IREN",
-          "assetDescription": "D\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000: Stock IREN Limited - Ordinary Shares",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 50001,
-            "max": 100000,
-            "text": "$50,001 -\n$100,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/26/2025",
-          "owner": "Self",
-          "ticker": "OPEN",
-          "assetDescription": "Opendoor Technologies Inc - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        }
-      ]
-    },
-    {
-      "chamber": "House",
-      "filer": {
-        "firstName": "Cleo",
-        "lastName": "Fields",
-        "name": "Cleo Fields",
-        "state": "LA",
-        "district": "06"
-      },
-      "filing": {
         "date": "2/3/2026",
         "type": "PTR",
         "docId": "20033858",
@@ -8338,119 +8570,20 @@
     {
       "chamber": "House",
       "filer": {
-        "firstName": "Josh",
-        "lastName": "Gottheimer",
-        "name": "Hon. Josh Gottheimer",
-        "state": "NJ",
-        "district": "05"
+        "firstName": "Laura",
+        "lastName": "Friedman",
+        "name": "Hon. Laura Friedman",
+        "state": "CA",
+        "district": "30"
       },
       "filing": {
-        "date": "1/14/2026",
+        "date": "4/17/2026",
         "type": "PTR",
-        "docId": "20033756",
-        "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033756.pdf",
+        "docId": "20034355",
+        "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034355.pdf",
         "sourceSystem": "disclosures-clerk.house.gov"
       },
-      "transactions": [
-        {
-          "transactionDate": "12/12/2025",
-          "owner": "Self",
-          "ticker": "LNG",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Morgan Stanley - Select UMA Account # 1 JTCheniere Energy, Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/05/2025",
-          "owner": "Self",
-          "ticker": "CVLT",
-          "assetDescription": "JTCommvault Systems, Inc. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/05/2025",
-          "owner": "Self",
-          "ticker": "MTHRY",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Morgan Stanley - Select UMA Account # 1 JTM3 INC UNSP/ADR",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/05/2025",
-          "owner": "Self",
-          "ticker": "SE",
-          "assetDescription": "Shares, each representing one Class A Ordinary Share",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/17/2025",
-          "owner": "Self",
-          "ticker": "NOW",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Morgan Stanley - Select UMA Account # 1 JTServiceNow, Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/11/2025",
-          "owner": "Self",
-          "ticker": "UBER",
-          "assetDescription": "JTUber Technologies, Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/08/2025",
-          "owner": "Self",
-          "ticker": "UTZ",
-          "assetDescription": "JTUtz Brands Inc Class A Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        }
-      ]
+      "transactions": []
     },
     {
       "chamber": "House",
@@ -9748,860 +9881,6 @@
     {
       "chamber": "House",
       "filer": {
-        "firstName": "Julie",
-        "lastName": "Johnson",
-        "name": "Hon. Julie Johnson",
-        "state": "TX",
-        "district": "32"
-      },
-      "filing": {
-        "date": "1/15/2026",
-        "type": "PTR",
-        "docId": "20033789",
-        "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033789.pdf",
-        "sourceSystem": "disclosures-clerk.house.gov"
-      },
-      "transactions": [
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "ABT",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Chase Brokerage Account (3935) JTAbbott Laboratories Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "ABBV",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Chase Brokerage Account (3935) JTAbbVie Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "APD",
-          "assetDescription": "JTAir Products and Chemicals, Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "GOOG",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Chase Brokerage Account (3935) JTAlphabet Inc. - Class C Capital Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "AXP",
-          "assetDescription": "JTAmerican Express Company Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "AJG",
-          "assetDescription": "JTArthur J. Gallagher & Co. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "BAC",
-          "assetDescription": "JTBank of America Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "BX",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Chase Brokerage Account (3935) JTBlackstone Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/03/2025",
-          "owner": "Self",
-          "ticker": "BA",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Chase Brokerage Account (3935) JTBoeing Company",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "BMY",
-          "assetDescription": "JTBristol-Myers Squibb Company Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "COF",
-          "assetDescription": "JTCapital One Financial Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "CARR",
-          "assetDescription": "JTCarrier Global Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "SCHW",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Chase Brokerage Account (3935) JTCharles Schwab Corporation",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "CME",
-          "assetDescription": "JTCME Group Inc. - Class A Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "CMS",
-          "assetDescription": "JTCMS Energy Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/09/2025",
-          "owner": "Self",
-          "ticker": "CMS",
-          "assetDescription": "JTCMS Energy Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "CMCSA",
-          "assetDescription": "JTComcast Corporation - Class A Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "COP",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Chase Brokerage Account (3935) JTConocoPhillips Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "DHR",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Chase Brokerage Account (3935) JTDanaher Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "DE",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Chase Brokerage Account (3935) JTDeere & Company Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "DOV",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Chase Brokerage Account (3935) JTDover Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "LLY",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Chase Brokerage Account (3935) JTEli Lilly and Company Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "EOG",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Chase Brokerage Account (3935) JTEOG Resources, Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "FIS",
-          "assetDescription": "JTFidelity National Information Services, Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "GD",
-          "assetDescription": "JTGeneral Dynamics Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "GS",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Chase Brokerage Account (3935) JTGoldman Sachs Group, Inc.",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "HD",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Chase Brokerage Account (3935) JTHome Depot, Inc.",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "IBM",
-          "assetDescription": "JTInternational Business Machines Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "JNJ",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Chase Brokerage Account (3935) JTJohnson & Johnson Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "MDT",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Chase Brokerage Account (3935) JTMedtronic plc. Ordinary Shares",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "MRK",
-          "assetDescription": "JTMerck & Company, Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "MSFT",
-          "assetDescription": "JTMicrosoft Corporation - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "MDLZ",
-          "assetDescription": "JTMondelez International, Inc. - Class A Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "MS",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Chase Brokerage Account (3935) JTMorgan Stanley Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "NEE",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Chase Brokerage Account (3935) JTNextEra Energy, Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "NSC",
-          "assetDescription": "JTNorfolk Southern Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "NXPI",
-          "assetDescription": "JTNXP Semiconductors N.V. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "PEP",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Chase Brokerage Account (3935) JTPepsico, Inc.",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "PM",
-          "assetDescription": "JTPhilip Morris International Inc Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "PG",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Chase Brokerage Account (3935) JTProcter & Gamble Company",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "PGR",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Chase Brokerage Account (3935) JTProgressive Corporation",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/09/2025",
-          "owner": "Self",
-          "ticker": "PEG",
-          "assetDescription": "JTPublic Service Enterprise Group Incorporated Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "RSG",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Long Term Growth JTRepublic Services, Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "RTX",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Chase Brokerage Account (3935) JTRTX Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "STX",
-          "assetDescription": "JTSeagate Technology Holdings PLC - Ordinary Shares",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/09/2025",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Unknown",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "BK",
-          "assetDescription": "JTThe Bank of New York Mellon Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "CI",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Chase Brokerage Account (3935) JTThe Cigna Group Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "TJX",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Chase Brokerage Account (3935) JTTJX Companies, Inc.",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "UNP",
-          "assetDescription": "JTUnion Pacific Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "UNH",
-          "assetDescription": "JTUnitedHealth Group Incorporated Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "VZ",
-          "assetDescription": "JTVerizon Communications Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "WMT",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Chase Brokerage Account (3935) JTWalmart Inc. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2025",
-          "owner": "Self",
-          "ticker": "WFC",
-          "assetDescription": "JTWells Fargo & Company Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        }
-      ]
-    },
-    {
-      "chamber": "House",
-      "filer": {
-        "firstName": "James D",
-        "lastName": "Jordan",
-        "name": "Hon. James D Jordan",
-        "state": "OH",
-        "district": "04"
-      },
-      "filing": {
-        "date": "1/14/2026",
-        "type": "PTR",
-        "docId": "20033803",
-        "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033803.pdf",
-        "sourceSystem": "disclosures-clerk.house.gov"
-      },
-      "transactions": []
-    },
-    {
-      "chamber": "House",
-      "filer": {
-        "firstName": "Thomas H.",
-        "lastName": "Kean",
-        "name": "Hon. Thomas H. Kean Jr",
-        "state": "NJ",
-        "district": "07"
-      },
-      "filing": {
-        "date": "1/16/2026",
-        "type": "PTR",
-        "docId": "20033821",
-        "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033821.pdf",
-        "sourceSystem": "disclosures-clerk.house.gov"
-      },
-      "transactions": [
-        {
-          "transactionDate": "12/16/2025",
-          "owner": "Self",
-          "ticker": "LLYVK",
-          "assetDescription": "Liberty Media Corporation - Series C Liberty Live Common Stock",
-          "assetType": "Stock",
-          "transactionType": "exchange",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/02/2025",
-          "owner": "Self",
-          "ticker": "SNREY",
-          "assetDescription": "D\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000: Shares of listed stock received in a share exchange of Liberty Media Corp LBTY Live CL C (LLYVK) SUNRISE COMMS AG ADR A",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/31/2025",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 15001,
-            "max": 50000,
-            "text": "$15,001 -\n$50,000"
-          },
-          "comment": ""
-        }
-      ]
-    },
-    {
-      "chamber": "House",
-      "filer": {
         "firstName": "Thomas H.",
         "lastName": "Kean",
         "name": "Hon. Thomas H. Kean Jr",
@@ -10780,6 +10059,109 @@
     {
       "chamber": "House",
       "filer": {
+        "firstName": "Thomas H.",
+        "lastName": "Kean",
+        "name": "Hon. Thomas H. Kean Jr",
+        "state": "NJ",
+        "district": "07"
+      },
+      "filing": {
+        "date": "4/13/2026",
+        "type": "PTR",
+        "docId": "20034327",
+        "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034327.pdf",
+        "sourceSystem": "disclosures-clerk.house.gov"
+      },
+      "transactions": [
+        {
+          "transactionDate": "03/26/2026",
+          "owner": "Self",
+          "ticker": "CB",
+          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Kean Family Partnership Chubb Limited Common Stock",
+          "assetType": "Stock",
+          "transactionType": "Sale",
+          "amount": {
+            "min": 15001,
+            "max": 50000,
+            "text": "$15,001 -\n$50,000"
+          },
+          "comment": ""
+        },
+        {
+          "transactionDate": "03/26/2026",
+          "owner": "Self",
+          "ticker": "FCNCA",
+          "assetDescription": "First Citizens BancShares, Inc. - Class A Common Stock",
+          "assetType": "Stock",
+          "transactionType": "Sale",
+          "amount": {
+            "min": 1001,
+            "max": 15000,
+            "text": "$1,001 - $15,000"
+          },
+          "comment": ""
+        },
+        {
+          "transactionDate": "03/26/2026",
+          "owner": "Self",
+          "ticker": "JNJ",
+          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Kean Family Partnership Johnson & Johnson Common Stock",
+          "assetType": "Stock",
+          "transactionType": "Sale",
+          "amount": {
+            "min": 1001,
+            "max": 15000,
+            "text": "$1,001 - $15,000"
+          },
+          "comment": ""
+        },
+        {
+          "transactionDate": "03/26/2026",
+          "owner": "Self",
+          "ticker": "LIN",
+          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: State Street Bank & Trust Co. Linde plc - Ordinary Shares",
+          "assetType": "Stock",
+          "transactionType": "Purchase",
+          "amount": {
+            "min": 1001,
+            "max": 15000,
+            "text": "$1,001 - $15,000"
+          },
+          "comment": ""
+        },
+        {
+          "transactionDate": "03/26/2026",
+          "owner": "Self",
+          "ticker": "PEP",
+          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Kean Family Partnership Pepsico, Inc.",
+          "assetType": "Stock",
+          "transactionType": "Sale",
+          "amount": {
+            "min": 15001,
+            "max": 50000,
+            "text": "$15,001 -\n$50,000"
+          },
+          "comment": ""
+        },
+        {
+          "transactionDate": "03/10/2026",
+          "owner": "Self",
+          "ticker": "WAT",
+          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: State Street Bank & Trust Co. Waters Corporation Common Stock",
+          "assetType": "Stock",
+          "transactionType": "Sale",
+          "amount": {
+            "min": 1001,
+            "max": 15000,
+            "text": "$1,001 - $15,000"
+          },
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "chamber": "House",
+      "filer": {
         "firstName": "William R.",
         "lastName": "Keating",
         "name": "Hon. William R. Keating",
@@ -10889,6 +10271,24 @@
           "comment": ""
         }
       ]
+    },
+    {
+      "chamber": "House",
+      "filer": {
+        "firstName": "William R.",
+        "lastName": "Keating",
+        "name": "Hon. William R. Keating",
+        "state": "MA",
+        "district": "09"
+      },
+      "filing": {
+        "date": "4/13/2026",
+        "type": "PTR",
+        "docId": "20034307",
+        "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034307.pdf",
+        "sourceSystem": "disclosures-clerk.house.gov"
+      },
+      "transactions": []
     },
     {
       "chamber": "House",
@@ -11067,18 +10467,18 @@
         "district": "02"
       },
       "filing": {
-        "date": "1/14/2026",
+        "date": "4/15/2026",
         "type": "PTR",
-        "docId": "20033814",
-        "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033814.pdf",
+        "docId": "20034351",
+        "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034351.pdf",
         "sourceSystem": "disclosures-clerk.house.gov"
       },
       "transactions": [
         {
-          "transactionDate": "01/07/2026",
+          "transactionDate": "04/07/2026",
           "owner": "Self",
-          "ticker": "ESS",
-          "assetDescription": "Essex Property Trust, Inc. Common Stock",
+          "ticker": "AWK",
+          "assetDescription": "American Water Works Company, Inc. Common Stock",
           "assetType": "Stock",
           "transactionType": "Sale",
           "amount": {
@@ -11089,10 +10489,24 @@
           "comment": ""
         },
         {
-          "transactionDate": "01/07/2026",
+          "transactionDate": "04/07/2026",
           "owner": "Self",
-          "ticker": "META",
-          "assetDescription": "Meta Platforms, Inc. - Class A Common Stock",
+          "ticker": "BR",
+          "assetDescription": "Broadridge Financial Solutions, Inc. Common Stock",
+          "assetType": "Stock",
+          "transactionType": "Sale",
+          "amount": {
+            "min": 1001,
+            "max": 15000,
+            "text": "$1,001 - $15,000"
+          },
+          "comment": ""
+        },
+        {
+          "transactionDate": "04/07/2026",
+          "owner": "Self",
+          "ticker": "CARR",
+          "assetDescription": "Carrier Global Corporation Common Stock",
           "assetType": "Stock",
           "transactionType": "Purchase",
           "amount": {
@@ -11103,10 +10517,38 @@
           "comment": ""
         },
         {
-          "transactionDate": "01/07/2026",
+          "transactionDate": "04/07/2026",
           "owner": "Self",
-          "ticker": "MDLZ",
-          "assetDescription": "Mondelez International, Inc. - Class A Common Stock",
+          "ticker": "CASY",
+          "assetDescription": "Caseys General Stores, Inc. - Common Stock",
+          "assetType": "Stock",
+          "transactionType": "Purchase",
+          "amount": {
+            "min": 1001,
+            "max": 15000,
+            "text": "$1,001 - $15,000"
+          },
+          "comment": ""
+        },
+        {
+          "transactionDate": "04/07/2026",
+          "owner": "Self",
+          "ticker": "NEE",
+          "assetDescription": "entry listed as an Exchange. NextEra Energy, Inc. Common Stock",
+          "assetType": "Stock",
+          "transactionType": "Purchase",
+          "amount": {
+            "min": 1001,
+            "max": 15000,
+            "text": "$1,001 - $15,000"
+          },
+          "comment": ""
+        },
+        {
+          "transactionDate": "04/07/2026",
+          "owner": "Self",
+          "ticker": "PAYX",
+          "assetDescription": "D\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000: Advisor-driven quarterly rebalancing Paychex, Inc. - Common Stock",
           "assetType": "Stock",
           "transactionType": "Sale",
           "amount": {
@@ -11117,12 +10559,40 @@
           "comment": ""
         },
         {
-          "transactionDate": "01/07/2026",
+          "transactionDate": "04/07/2026",
           "owner": "Self",
-          "ticker": "VRSK",
-          "assetDescription": "D\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000: Part of monthly portfolio rebalancing that account manager conducts Verisk Analytics, Inc. - Common Stock",
+          "ticker": "SNDA",
+          "assetDescription": "JTSonida Senior Living, Inc. Common Stock",
           "assetType": "Stock",
           "transactionType": "Sale",
+          "amount": {
+            "min": 1001,
+            "max": 15000,
+            "text": "$1,001 - $15,000"
+          },
+          "comment": ""
+        },
+        {
+          "transactionDate": "03/31/2026",
+          "owner": "Self",
+          "ticker": "SNDA",
+          "assetDescription": "JTSonida Senior Living, Inc. Common Stock",
+          "assetType": "Stock",
+          "transactionType": "Sale",
+          "amount": {
+            "min": 1001,
+            "max": 15000,
+            "text": "$1,001 - $15,000"
+          },
+          "comment": ""
+        },
+        {
+          "transactionDate": "04/07/2026",
+          "owner": "Self",
+          "ticker": "WAB",
+          "assetDescription": "Westinghouse Air Brake Technologies Corporation Common Stock",
+          "assetType": "Stock",
+          "transactionType": "Purchase",
           "amount": {
             "min": 1001,
             "max": 15000,
@@ -11149,2811 +10619,6 @@
         "sourceSystem": "disclosures-clerk.house.gov"
       },
       "transactions": []
-    },
-    {
-      "chamber": "House",
-      "filer": {
-        "firstName": "Julia",
-        "lastName": "Letlow",
-        "name": "Hon. Julia Letlow",
-        "state": "LA",
-        "district": "05"
-      },
-      "filing": {
-        "date": "1/13/2026",
-        "type": "PTR",
-        "docId": "20030977",
-        "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf",
-        "sourceSystem": "disclosures-clerk.house.gov"
-      },
-      "transactions": [
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "ABT",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Abbott Laboratories Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/08/2025",
-          "owner": "Self",
-          "ticker": "ABT",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Abbott Laboratories Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/08/2025",
-          "owner": "Self",
-          "ticker": "ABBV",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 AbbVie Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "ABBV",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 AbbVie Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "01/24/2025",
-          "owner": "Self",
-          "ticker": "ABBV",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 AbbVie Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "07/24/2025",
-          "owner": "Self",
-          "ticker": "ACN",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Accenture plc Class A Ordinary Shares",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "01/15/2025",
-          "owner": "Self",
-          "ticker": "ACN",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Accenture plc Class A Ordinary Shares",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "04/22/2025",
-          "owner": "Self",
-          "ticker": "ACN",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Accenture plc Class A Ordinary Shares",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "ACN",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Accenture plc Class A Ordinary Shares",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "01/24/2025",
-          "owner": "Self",
-          "ticker": "ADBE",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Adobe Inc. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/16/2025",
-          "owner": "Self",
-          "ticker": "ADBE",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Adobe Inc. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "06/17/2025",
-          "owner": "Self",
-          "ticker": "AMD",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Advanced Micro Devices, Inc.",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "01/24/2025",
-          "owner": "Self",
-          "ticker": "ACI",
-          "assetDescription": "Albertsons Companies, Inc. Class A Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "AA",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Alcoa Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "07/02/2025",
-          "owner": "Self",
-          "ticker": "GOOGL",
-          "assetDescription": "Alphabet Inc. - Class A Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "AMZN",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Amazon.com, Inc. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/01/2025",
-          "owner": "Self",
-          "ticker": "AMZN",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Amazon.com, Inc. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/22/2025",
-          "owner": "Self",
-          "ticker": "AMZN",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Amazon.com, Inc. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "11/19/2024",
-          "owner": "Self",
-          "ticker": "AFG",
-          "assetDescription": "American Financial Group, Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "02/24/2025",
-          "owner": "Self",
-          "ticker": "AFG",
-          "assetDescription": "American Financial Group, Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "02/24/2025",
-          "owner": "Self",
-          "ticker": "AIG",
-          "assetDescription": "American International Group, Inc. New Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "AMGN",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Amgen Inc. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "11/19/2024",
-          "owner": "Self",
-          "ticker": "AMGN",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Amgen Inc. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/25/2024",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "AAPL",
-          "assetDescription": "D\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000: Corporate Bond Apple Inc. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 15001,
-            "max": 50000,
-            "text": "$15,001 -\n$50,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "01/31/2025",
-          "owner": "Self",
-          "ticker": "AAPL",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Apple Inc. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2024",
-          "owner": "Self",
-          "ticker": "AAPL",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Apple Inc. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "05/01/2025",
-          "owner": "Self",
-          "ticker": "AAPL",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Apple Inc. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "07/29/2025",
-          "owner": "Self",
-          "ticker": "AJG",
-          "assetDescription": "Arthur J. Gallagher & Co. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "AZPN",
-          "assetDescription": "Aspen Technology, Inc. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/06/2024",
-          "owner": "Self",
-          "ticker": "AZPN",
-          "assetDescription": "Aspen Technology, Inc. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "08/26/2025",
-          "owner": "Self",
-          "ticker": "AIZ",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Assurant, Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/08/2025",
-          "owner": "Self",
-          "ticker": "AZN",
-          "assetDescription": "AstraZeneca PLC - American Depositary Shares",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "07/02/2025",
-          "owner": "Self",
-          "ticker": "T",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 AT&T Inc.",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "T",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 AT&T Inc.",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/25/2024",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "07/25/2025",
-          "owner": "Self",
-          "ticker": "BA",
-          "assetDescription": "D\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000: Corporate Bond Boeing Company",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "BA",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Boeing Company",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "BMY",
-          "assetDescription": "Bristol-Myers Squibb Company Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "04/28/2025",
-          "owner": "Self",
-          "ticker": "BMY",
-          "assetDescription": "Bristol-Myers Squibb Company Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2024",
-          "owner": "Self",
-          "ticker": "AVGO",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Broadcom Inc. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "AVGO",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Broadcom Inc. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/16/2025",
-          "owner": "Self",
-          "ticker": "AVGO",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Broadcom Inc. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "BXP",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 BXP, Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "04/14/2025",
-          "owner": "Self",
-          "ticker": "CNC",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Centene Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "08/08/2025",
-          "owner": "Self",
-          "ticker": "CNC",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Centene Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "CF",
-          "assetDescription": "CF Industries Holdings, Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "CVX",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Chevron Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "08/26/2025",
-          "owner": "Self",
-          "ticker": "CMG",
-          "assetDescription": "Chipotle Mexican Grill, Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "11/03/2025",
-          "owner": "Self",
-          "ticker": "CMG",
-          "assetDescription": "Chipotle Mexican Grill, Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "06/17/2025",
-          "owner": "Self",
-          "ticker": "CSCO",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Cisco Systems, Inc. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "04/11/2025",
-          "owner": "Self",
-          "ticker": "C",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Citigroup, Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "01/31/2025",
-          "owner": "Self",
-          "ticker": "C",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Citigroup, Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "11/03/2025",
-          "owner": "Self",
-          "ticker": "KO",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Coca-Cola Company",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/25/2024",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "04/28/2025",
-          "owner": "Self",
-          "ticker": "DHR",
-          "assetDescription": "D\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000: Corporate Bond Danaher Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "01/31/2025",
-          "owner": "Self",
-          "ticker": "DE",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Deere & Company Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "09/22/2025",
-          "owner": "Self",
-          "ticker": "DE",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Deere & Company Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/08/2025",
-          "owner": "Self",
-          "ticker": "DVN",
-          "assetDescription": "Devon Energy Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "09/17/2025",
-          "owner": "Self",
-          "ticker": "DLTR",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Dollar Tree, Inc. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "04/11/2025",
-          "owner": "Self",
-          "ticker": "DOV",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Dover Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Unknown",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "04/22/2025",
-          "owner": "Self",
-          "ticker": "DBX",
-          "assetDescription": "Dropbox, Inc. - Class A Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "DUK",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Duke Energy Corporation",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "09/22/2025",
-          "owner": "Self",
-          "ticker": "DY",
-          "assetDescription": "Dycom Industries, Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "EXE",
-          "assetDescription": "Expand Energy Corporation - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "07/25/2025",
-          "owner": "Self",
-          "ticker": "EXE",
-          "assetDescription": "Expand Energy Corporation - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "02/07/2025",
-          "owner": "Self",
-          "ticker": "EXR",
-          "assetDescription": "Extra Space Storage Inc Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "11/03/2025",
-          "owner": "Self",
-          "ticker": "EXR",
-          "assetDescription": "Extra Space Storage Inc Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "09/22/2025",
-          "owner": "Self",
-          "ticker": "GTES",
-          "assetDescription": "Gates Industrial Corporation plc Ordinary Shares",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "07/25/2025",
-          "owner": "Self",
-          "ticker": "GLOB",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Globant S.A. Common Shares",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "02/28/2025",
-          "owner": "Self",
-          "ticker": "GLOB",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Globant S.A. Common Shares",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "07/24/2025",
-          "owner": "Self",
-          "ticker": "GS",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Goldman Sachs Group, Inc.",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "GS",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Goldman Sachs Group, Inc.",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "03/13/2025",
-          "owner": "Self",
-          "ticker": "HPE",
-          "assetDescription": "Hewlett Packard Enterprise Company Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "01/24/2025",
-          "owner": "Self",
-          "ticker": "HPE",
-          "assetDescription": "Hewlett Packard Enterprise Company Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "DINO",
-          "assetDescription": "HF Sinclair Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "08/08/2025",
-          "owner": "Self",
-          "ticker": "DINO",
-          "assetDescription": "HF Sinclair Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/08/2025",
-          "owner": "Self",
-          "ticker": "ICON",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Icon Energy Corp. - Common stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "IR",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Ingersoll Rand Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "01/31/2025",
-          "owner": "Self",
-          "ticker": "IR",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Ingersoll Rand Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "09/22/2025",
-          "owner": "Self",
-          "ticker": "INTC",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Intel Corporation - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "ICE",
-          "assetDescription": "Intercontinental Exchange Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/22/2025",
-          "owner": "Self",
-          "ticker": "IBM",
-          "assetDescription": "International Business Machines Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/01/2025",
-          "owner": "Self",
-          "ticker": "INTU",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Intuit Inc. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/02/2025",
-          "owner": "Self",
-          "ticker": "JCI",
-          "assetDescription": "Johnson Controls International plc Ordinary Share",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "03/19/2025",
-          "owner": "Self",
-          "ticker": "JCI",
-          "assetDescription": "Johnson Controls International plc Ordinary Share",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "JPM",
-          "assetDescription": "JP Morgan Chase & Co. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/25/2024",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "KVUE",
-          "assetDescription": "D\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000: Corporate Bond Kenvue Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/01/2025",
-          "owner": "Self",
-          "ticker": "KVUE",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Kenvue Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "LVS",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Las Vegas Sands Corp. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "05/08/2025",
-          "owner": "Self",
-          "ticker": "LVS",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Las Vegas Sands Corp. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "LOW",
-          "assetDescription": "Lowe's Companies, Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "MKC",
-          "assetDescription": "McCormick & Company, Incorporated Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2024",
-          "owner": "Self",
-          "ticker": "MCK",
-          "assetDescription": "McKesson Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "01/31/2025",
-          "owner": "Self",
-          "ticker": "META",
-          "assetDescription": "Meta Platforms, Inc. - Class A Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "02/07/2025",
-          "owner": "Self",
-          "ticker": "META",
-          "assetDescription": "Meta Platforms, Inc. - Class A Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "07/02/2025",
-          "owner": "Self",
-          "ticker": "META",
-          "assetDescription": "Meta Platforms, Inc. - Class A Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "META",
-          "assetDescription": "Meta Platforms, Inc. - Class A Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "07/25/2025",
-          "owner": "Self",
-          "ticker": "MTD",
-          "assetDescription": "Mettler-Toledo International, Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2024",
-          "owner": "Self",
-          "ticker": "MTD",
-          "assetDescription": "Mettler-Toledo International, Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/01/2025",
-          "owner": "Self",
-          "ticker": "MU",
-          "assetDescription": "Micron Technology, Inc. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "09/17/2025",
-          "owner": "Self",
-          "ticker": "MU",
-          "assetDescription": "Micron Technology, Inc. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/18/2024",
-          "owner": "Self",
-          "ticker": "MU",
-          "assetDescription": "Micron Technology, Inc. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "04/14/2025",
-          "owner": "Self",
-          "ticker": "MU",
-          "assetDescription": "Micron Technology, Inc. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/25/2024",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "MSFT",
-          "assetDescription": "Microsoft Corporation - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "01/31/2025",
-          "owner": "Self",
-          "ticker": "MSFT",
-          "assetDescription": "Microsoft Corporation - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/06/2024",
-          "owner": "Self",
-          "ticker": "MSFT",
-          "assetDescription": "Microsoft Corporation - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "01/15/2025",
-          "owner": "Self",
-          "ticker": "NEE",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 NextEra Energy, Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "NEE",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 NextEra Energy, Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "11/01/2024",
-          "owner": "Self",
-          "ticker": "NEE",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 NextEra Energy, Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "NUE",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Nucor Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "NVDA",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 NVIDIA Corporation - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "01/31/2025",
-          "owner": "Self",
-          "ticker": "NVDA",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 NVIDIA Corporation - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "PH",
-          "assetDescription": "Parker-Hannifin Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/25/2024",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "PM",
-          "assetDescription": "Philip Morris International Inc Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "PINS",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Pinterest, Inc. Class A Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/16/2025",
-          "owner": "Self",
-          "ticker": "PINS",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Pinterest, Inc. Class A Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "PNC",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 PNC Financial Services Group, Inc.",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/16/2025",
-          "owner": "Self",
-          "ticker": "PG",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Procter & Gamble Company",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "PEG",
-          "assetDescription": "Public Service Enterprise Group Incorporated Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "PVH",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 PVH Corp. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "01/24/2025",
-          "owner": "Self",
-          "ticker": "PVH",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 PVH Corp. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "07/24/2025",
-          "owner": "Self",
-          "ticker": "DGX",
-          "assetDescription": "Quest Diagnostics Incorporated Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/22/2025",
-          "owner": "Self",
-          "ticker": "RELX",
-          "assetDescription": "RELX PLC PLC American Depositary Shares",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/22/2025",
-          "owner": "Self",
-          "ticker": "RBLX",
-          "assetDescription": "Roblox Corporation Class A Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/16/2025",
-          "owner": "Self",
-          "ticker": "RBLX",
-          "assetDescription": "Roblox Corporation Class A Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "SAIA",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Saia, Inc. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "CRM",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Salesforce, Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "07/25/2025",
-          "owner": "Self",
-          "ticker": "CRM",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Salesforce, Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/06/2024",
-          "owner": "Self",
-          "ticker": "CRM",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Salesforce, Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/16/2025",
-          "owner": "Self",
-          "ticker": "CRM",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Salesforce, Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "02/24/2025",
-          "owner": "Self",
-          "ticker": "SLB",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Schlumberger N.V. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "SLB",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Schlumberger N.V. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "05/27/2025",
-          "owner": "Self",
-          "ticker": "STT",
-          "assetDescription": "State Street Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "11/21/2025",
-          "owner": "Self",
-          "ticker": "STT",
-          "assetDescription": "State Street Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "11/03/2025",
-          "owner": "Self",
-          "ticker": "SF",
-          "assetDescription": "Stifel Financial Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/16/2025",
-          "owner": "Self",
-          "ticker": "SYK",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Stryker Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "SYK",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Stryker Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "07/24/2025",
-          "owner": "Self",
-          "ticker": "TSM",
-          "assetDescription": "Taiwan Semiconductor Manufacturing Company Ltd.",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "01/24/2025",
-          "owner": "Self",
-          "ticker": "TSM",
-          "assetDescription": "Taiwan Semiconductor Manufacturing Company Ltd.",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "TSM",
-          "assetDescription": "Taiwan Semiconductor Manufacturing Company Ltd.",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 15001,
-            "max": 50000,
-            "text": "$15,001 -\n$50,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "04/14/2025",
-          "owner": "Self",
-          "ticker": "TTWO",
-          "assetDescription": "Take-Two Interactive Software, Inc. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "07/29/2025",
-          "owner": "Self",
-          "ticker": "TTWO",
-          "assetDescription": "Take-Two Interactive Software, Inc. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "TPR",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Tapestry, Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "07/29/2025",
-          "owner": "Self",
-          "ticker": "TPR",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Tapestry, Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "BK",
-          "assetDescription": "The Bank of New York Mellon Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "07/02/2025",
-          "owner": "Self",
-          "ticker": "BK",
-          "assetDescription": "The Bank of New York Mellon Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "04/22/2025",
-          "owner": "Self",
-          "ticker": "CI",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 The Cigna Group Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "CI",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 The Cigna Group Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "KHC",
-          "assetDescription": "The Kraft Heinz Company - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "11/19/2024",
-          "owner": "Self",
-          "ticker": "KHC",
-          "assetDescription": "The Kraft Heinz Company - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/25/2024",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "TMO",
-          "assetDescription": "Thermo Fisher Scientific Inc Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "07/25/2025",
-          "owner": "Self",
-          "ticker": "TMO",
-          "assetDescription": "Thermo Fisher Scientific Inc Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "07/29/2025",
-          "owner": "Self",
-          "ticker": "TW",
-          "assetDescription": "Tradeweb Markets Inc. - Class A Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/01/2025",
-          "owner": "Self",
-          "ticker": "TW",
-          "assetDescription": "Tradeweb Markets Inc. - Class A Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/16/2025",
-          "owner": "Self",
-          "ticker": "URI",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 United Rentals, Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "05/27/2025",
-          "owner": "Self",
-          "ticker": "UNH",
-          "assetDescription": "UnitedHealth Group Incorporated Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "04/22/2025",
-          "owner": "Self",
-          "ticker": "UNH",
-          "assetDescription": "UnitedHealth Group Incorporated Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "UNH",
-          "assetDescription": "UnitedHealth Group Incorporated Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "01/24/2025",
-          "owner": "Self",
-          "ticker": "UHID",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Universal Health Services, Inc.",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/25/2024",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/25/2024",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/25/2024",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/17/2025",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/25/2024",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "11/05/2024",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/25/2024",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/25/2025",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/25/2024",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "11/05/2024",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/25/2024",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "06/26/2025",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 15001,
-            "max": 50000,
-            "text": "$15,001 -\n$50,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/25/2024",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/25/2024",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/25/2024",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/17/2025",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "VRTX",
-          "assetDescription": "Vertex Pharmaceuticals Incorporated - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/25/2024",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "07/24/2025",
-          "owner": "Self",
-          "ticker": "V",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Visa Inc.",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/25/2024",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "11/03/2025",
-          "owner": "Self",
-          "ticker": "DIS",
-          "assetDescription": "D\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000: Corporate Bond Walt Disney Company",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/08/2025",
-          "owner": "Self",
-          "ticker": "WBD",
-          "assetDescription": "Warner Bros. Discovery, Inc. - Series A Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "11/01/2024",
-          "owner": "Self",
-          "ticker": "WBD",
-          "assetDescription": "Warner Bros. Discovery, Inc. - Series A Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "07/25/2025",
-          "owner": "Self",
-          "ticker": "WBD",
-          "assetDescription": "Warner Bros. Discovery, Inc. - Series A Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "WAT",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Waters Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "11/19/2024",
-          "owner": "Self",
-          "ticker": "WAT",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Waters Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "WFC",
-          "assetDescription": "Wells Fargo & Company Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "HCN",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch Investment Account #025 Welltower Inc.",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "WSM",
-          "assetDescription": "Williams-Sonoma, Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "07/25/2025",
-          "owner": "Self",
-          "ticker": "WSM",
-          "assetDescription": "Williams-Sonoma, Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "07/24/2025",
-          "owner": "Self",
-          "ticker": "WDAY",
-          "assetDescription": "Workday, Inc. - Class A Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "06/17/2025",
-          "owner": "Self",
-          "ticker": "WDAY",
-          "assetDescription": "Workday, Inc. - Class A Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "10/23/2024",
-          "owner": "Self",
-          "ticker": "WDAY",
-          "assetDescription": "Workday, Inc. - Class A Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "11/19/2024",
-          "owner": "Self",
-          "ticker": "WDAY",
-          "assetDescription": "Workday, Inc. - Class A Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        }
-      ]
     },
     {
       "chamber": "House",
@@ -14484,6 +11149,24 @@
           "comment": ""
         }
       ]
+    },
+    {
+      "chamber": "House",
+      "filer": {
+        "firstName": "Jennifer",
+        "lastName": "McClellan",
+        "name": "Hon. Jennifer McClellan",
+        "state": "VA",
+        "district": "04"
+      },
+      "filing": {
+        "date": "4/16/2026",
+        "type": "PTR",
+        "docId": "20034311",
+        "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034311.pdf",
+        "sourceSystem": "disclosures-clerk.house.gov"
+      },
+      "transactions": []
     },
     {
       "chamber": "House",
@@ -15225,67 +11908,6 @@
         "district": "03"
       },
       "filing": {
-        "date": "1/20/2026",
-        "type": "PTR",
-        "docId": "20033830",
-        "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033830.pdf",
-        "sourceSystem": "disclosures-clerk.house.gov"
-      },
-      "transactions": [
-        {
-          "transactionDate": "12/10/2025",
-          "owner": "Self",
-          "ticker": "ASHGY",
-          "assetDescription": "D\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000: Mandatory Exchange 1:1 ASHTEAD GROUP PLC ADR for ASHTEAD GROUP PLC-UNSPON ADR ASHTED GRP PLC S/ADR",
-          "assetType": "Stock",
-          "transactionType": "Exchange",
-          "amount": {
-            "min": 15001,
-            "max": 50000,
-            "text": "$15,001 -\n$50,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/10/2025",
-          "owner": "Self",
-          "ticker": "ASHGY",
-          "assetDescription": "D\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000: Mandatory Exchange 1:1 ASHTEAD GROUP PLC ADR for ASHTEAD GROUP PLC-UNSPON ADR ASHTED GRP PLC S/ADR",
-          "assetType": "Stock",
-          "transactionType": "Exchange",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/10/2025",
-          "owner": "Self",
-          "ticker": "ASHGY",
-          "assetDescription": "D\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000: Mandatory Exchange 1:1 ASHTEAD GROUP PLC ADR for ASHTEAD GROUP PLC-UNSPON ADR ASHTED GRP PLC S/ADR",
-          "assetType": "Stock",
-          "transactionType": "Exchange",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        }
-      ]
-    },
-    {
-      "chamber": "House",
-      "filer": {
-        "firstName": "Kelly Louise",
-        "lastName": "Morrison",
-        "name": "Hon. Kelly Louise Morrison",
-        "state": "MN",
-        "district": "03"
-      },
-      "filing": {
         "date": "2/4/2026",
         "type": "PTR",
         "docId": "20033928",
@@ -15701,109 +12323,6 @@
         "district": "23"
       },
       "filing": {
-        "date": "1/16/2026",
-        "type": "PTR",
-        "docId": "20033760",
-        "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033760.pdf",
-        "sourceSystem": "disclosures-clerk.house.gov"
-      },
-      "transactions": [
-        {
-          "transactionDate": "12/02/2025",
-          "owner": "Self",
-          "ticker": "MCK",
-          "assetDescription": "DCMcKesson Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/02/2025",
-          "owner": "Self",
-          "ticker": "MCK",
-          "assetDescription": "McKesson Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/02/2025",
-          "owner": "Self",
-          "ticker": "PEP",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Morgan Stanley Active Assets (1) DCPepsico, Inc.",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/02/2025",
-          "owner": "Self",
-          "ticker": "PEP",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Morgan Stanley Active Assets (6) DCPepsico, Inc.",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/02/2025",
-          "owner": "Self",
-          "ticker": "PEP",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Morgan Stanley Active Assets (5) Pepsico, Inc.",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 15001,
-            "max": 50000,
-            "text": "$15,001 -\n$50,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/02/2025",
-          "owner": "Self",
-          "ticker": "SO",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Morgan Stanley Active Assets (1) Southern Company",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        }
-      ]
-    },
-    {
-      "chamber": "House",
-      "filer": {
-        "firstName": "Jared",
-        "lastName": "Moskowitz",
-        "name": "Hon. Jared Moskowitz",
-        "state": "FL",
-        "district": "23"
-      },
-      "filing": {
         "date": "3/30/2026",
         "type": "PTR",
         "docId": "20034129",
@@ -15830,249 +12349,6 @@
           "owner": "Self",
           "ticker": "ROP",
           "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Morgan Stanley Active Assets (6) Roper Technologies, Inc.",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        }
-      ]
-    },
-    {
-      "chamber": "House",
-      "filer": {
-        "firstName": "Dan",
-        "lastName": "Newhouse",
-        "name": "Hon. Dan Newhouse",
-        "state": "WA",
-        "district": "04"
-      },
-      "filing": {
-        "date": "1/15/2026",
-        "type": "PTR",
-        "docId": "20033654",
-        "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033654.pdf",
-        "sourceSystem": "disclosures-clerk.house.gov"
-      },
-      "transactions": [
-        {
-          "transactionDate": "12/11/2025",
-          "owner": "Self",
-          "ticker": "BX",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Edward Jones IRA SPBlackstone Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/11/2025",
-          "owner": "Self",
-          "ticker": "AVGO",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Edward Jones Brokerage SPBroadcom Inc. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/31/2025",
-          "owner": "Self",
-          "ticker": "BR",
-          "assetDescription": "SPBroadridge Financial Solutions, Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/11/2025",
-          "owner": "Self",
-          "ticker": "BRO",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Edward Jones IRA SPBrown & Brown, Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/11/2025",
-          "owner": "Self",
-          "ticker": "SCHW",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Edward Jones IRA SPCharles Schwab Corporation",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/11/2025",
-          "owner": "Self",
-          "ticker": "LULU",
-          "assetDescription": "SPlululemon athletica inc. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/11/2025",
-          "owner": "Self",
-          "ticker": "MGA",
-          "assetDescription": "SPMagna International, Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/11/2025",
-          "owner": "Self",
-          "ticker": "NXPI",
-          "assetDescription": "SPNXP Semiconductors N.V. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/11/2025",
-          "owner": "Self",
-          "ticker": "PANW",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Edward Jones Brokerage SPPalo Alto Networks, Inc.",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/31/2025",
-          "owner": "Self",
-          "ticker": "RCL",
-          "assetDescription": "SPRoyal Caribbean Cruises Ltd. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/11/2025",
-          "owner": "Self",
-          "ticker": "SBUX",
-          "assetDescription": "SPStarbucks Corporation - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/31/2025",
-          "owner": "Self",
-          "ticker": "SNPS",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Edward Jones IRA SPSynopsys, Inc. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/31/2025",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/11/2025",
-          "owner": "Self",
-          "ticker": "TMUS",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Edward Jones IRA SPT-Mobile US, Inc.",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/11/2025",
-          "owner": "Self",
-          "ticker": "TFC",
-          "assetDescription": "SPTruist Financial Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/11/2025",
-          "owner": "Self",
-          "ticker": "ULTA",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Edward Jones IRA SPUlta Beauty, Inc. - Common Stock",
           "assetType": "Stock",
           "transactionType": "Sale",
           "amount": {
@@ -16295,95 +12571,6 @@
         "district": "50"
       },
       "filing": {
-        "date": "1/19/2026",
-        "type": "PTR",
-        "docId": "20033815",
-        "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033815.pdf",
-        "sourceSystem": "disclosures-clerk.house.gov"
-      },
-      "transactions": [
-        {
-          "transactionDate": "12/19/2025",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 15001,
-            "max": 50000,
-            "text": "$15,001 -\n$50,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/26/2025",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 100001,
-            "max": 250000,
-            "text": "$100,001 -\n$250,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/29/2025",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 100001,
-            "max": 250000,
-            "text": "$100,001 -\n$250,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/04/2025",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 50001,
-            "max": 100000,
-            "text": "$50,001 -\n$100,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/08/2025",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 50001,
-            "max": 100000,
-            "text": "$50,001 -\n$100,000"
-          },
-          "comment": ""
-        }
-      ]
-    },
-    {
-      "chamber": "House",
-      "filer": {
-        "firstName": "Scott H.",
-        "lastName": "Peters",
-        "name": "Hon. Scott H. Peters",
-        "state": "CA",
-        "district": "50"
-      },
-      "filing": {
         "date": "2/25/2026",
         "type": "PTR",
         "docId": "20034010",
@@ -16492,39 +12679,6 @@
         "district": "11"
       },
       "filing": {
-        "date": "1/20/2026",
-        "type": "PTR",
-        "docId": "20033804",
-        "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033804.pdf",
-        "sourceSystem": "disclosures-clerk.house.gov"
-      },
-      "transactions": [
-        {
-          "transactionDate": "12/16/2025",
-          "owner": "Self",
-          "ticker": "LLYVK",
-          "assetDescription": "DCLiberty Media Corporation - Series C Liberty Live Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Unknown",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        }
-      ]
-    },
-    {
-      "chamber": "House",
-      "filer": {
-        "firstName": "August Lee",
-        "lastName": "Pfluger",
-        "name": "Hon. August Lee Pfluger II",
-        "state": "TX",
-        "district": "11"
-      },
-      "filing": {
         "date": "2/11/2026",
         "type": "PTR",
         "docId": "20033920",
@@ -16565,6 +12719,95 @@
         "sourceSystem": "disclosures-clerk.house.gov"
       },
       "transactions": []
+    },
+    {
+      "chamber": "House",
+      "filer": {
+        "firstName": "August Lee",
+        "lastName": "Pfluger",
+        "name": "Hon. August Lee Pfluger II",
+        "state": "TX",
+        "district": "11"
+      },
+      "filing": {
+        "date": "4/15/2026",
+        "type": "PTR",
+        "docId": "20034348",
+        "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034348.pdf",
+        "sourceSystem": "disclosures-clerk.house.gov"
+      },
+      "transactions": [
+        {
+          "transactionDate": "03/13/2026",
+          "owner": "Self",
+          "ticker": "BRK.B",
+          "assetDescription": "Berkshire Hathaway Inc. New Common Stock",
+          "assetType": "Stock",
+          "transactionType": "Purchase",
+          "amount": {
+            "min": 15001,
+            "max": 50000,
+            "text": "$15,001 -\n$50,000"
+          },
+          "comment": ""
+        },
+        {
+          "transactionDate": "03/13/2026",
+          "owner": "Self",
+          "ticker": "DMLP",
+          "assetDescription": "Units Representing Limited Partnership Interests",
+          "assetType": "Stock",
+          "transactionType": "Purchase",
+          "amount": {
+            "min": 15001,
+            "max": 50000,
+            "text": "$15,001 -\n$50,000"
+          },
+          "comment": ""
+        },
+        {
+          "transactionDate": "03/13/2026",
+          "owner": "Self",
+          "ticker": "EPD",
+          "assetDescription": "Enterprise Products Partners L.P. Common Stock",
+          "assetType": "Stock",
+          "transactionType": "Purchase",
+          "amount": {
+            "min": 15001,
+            "max": 50000,
+            "text": "$15,001 -\n$50,000"
+          },
+          "comment": ""
+        },
+        {
+          "transactionDate": "03/13/2026",
+          "owner": "Self",
+          "ticker": "KRP",
+          "assetDescription": "Units Representing Limited Partner Interests",
+          "assetType": "Stock",
+          "transactionType": "Purchase",
+          "amount": {
+            "min": 15001,
+            "max": 50000,
+            "text": "$15,001 -\n$50,000"
+          },
+          "comment": ""
+        },
+        {
+          "transactionDate": "03/13/2026",
+          "owner": "Self",
+          "ticker": "VNOM",
+          "assetDescription": "Viper Energy, Inc. - Class A Common Stock",
+          "assetType": "Stock",
+          "transactionType": "Purchase",
+          "amount": {
+            "min": 15001,
+            "max": 50000,
+            "text": "$15,001 -\n$50,000"
+          },
+          "comment": ""
+        }
+      ]
     },
     {
       "chamber": "House",
@@ -16723,6 +12966,39 @@
             "min": 1000001,
             "max": 5000000,
             "text": "$1,000,001 -\n$5,000,000"
+          },
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "chamber": "House",
+      "filer": {
+        "firstName": "Greg",
+        "lastName": "Steube",
+        "name": "Hon. Greg Steube",
+        "state": "FL",
+        "district": "17"
+      },
+      "filing": {
+        "date": "4/14/2026",
+        "type": "PTR",
+        "docId": "20034345",
+        "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034345.pdf",
+        "sourceSystem": "disclosures-clerk.house.gov"
+      },
+      "transactions": [
+        {
+          "transactionDate": "04/08/2026",
+          "owner": "Self",
+          "ticker": null,
+          "assetDescription": "Unknown Asset",
+          "assetType": "Stock",
+          "transactionType": "Purchase",
+          "amount": {
+            "min": 15001,
+            "max": 50000,
+            "text": "$15,001 -\n$50,000"
           },
           "comment": ""
         }
@@ -18059,67 +14335,6 @@
         "sourceSystem": "disclosures-clerk.house.gov"
       },
       "transactions": []
-    },
-    {
-      "chamber": "House",
-      "filer": {
-        "firstName": "Roger",
-        "lastName": "Williams",
-        "name": "Hon. Roger Williams",
-        "state": "TX",
-        "district": "25"
-      },
-      "filing": {
-        "date": "1/15/2026",
-        "type": "PTR",
-        "docId": "20033783",
-        "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033783.pdf",
-        "sourceSystem": "disclosures-clerk.house.gov"
-      },
-      "transactions": [
-        {
-          "transactionDate": "12/22/2025",
-          "owner": "Self",
-          "ticker": "FANG",
-          "assetDescription": "Diamondback Energy, Inc. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/22/2025",
-          "owner": "Self",
-          "ticker": "JPM",
-          "assetDescription": "JP Morgan Chase & Co. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/22/2025",
-          "owner": "Self",
-          "ticker": "RTX",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Charles Schwab 4067 RTX Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        }
-      ]
     },
     {
       "chamber": "House",

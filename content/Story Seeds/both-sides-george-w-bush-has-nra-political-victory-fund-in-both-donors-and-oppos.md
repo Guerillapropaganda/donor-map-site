@@ -3,18 +3,18 @@ title: "George W. Bush has NRA POLITICAL VICTORY FUND in both donors and opposes
 type: story-seed
 seed-type: both-sides
 confidence: 5
-last-updated: '2026-04-11'
+last-updated: '2026-04-21'
 auto-generated: true
 status: unclaimed
 ---
 
 # George W. Bush has NRA POLITICAL VICTORY FUND in both donors and opposes
 
-_Confidence: ★★★★★ · Surfaced by contradiction-miner on 2026-04-11_
+_Confidence: ★★★★★ · Surfaced by contradiction-miner on 2026-04-21_
 
 ## The angle
 
-NRA POLITICAL VICTORY FUND appears as both a funder and an adversary of George W. Bush. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story, the vault has the connection, nobody else does.
+NRA POLITICAL VICTORY FUND appears as both a funder and an adversary of George W. Bush. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story — the vault has the connection, nobody else does.
 
 ## Evidence from the vault
 
