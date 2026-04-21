@@ -105,25 +105,30 @@ top-donors: "[[SEIU COPE]], [[Care Action]], [[AT&T - WarnerMedia]], [[Nucor Cor
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,708 |
-| Votes with party majority | 1,676 |
-| Party-line loyalty | 98.1% |
-| Deviations from party | 32 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,755 |
+| Votes with party majority | 4,683 |
+| Party-line loyalty | 98.5% |
+| Deviations from party | 71 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 32):**
+**Most recent party-line deviations (top 10 of 71):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -140,6 +145,37 @@ top-donors: "[[SEIU COPE]], [[Care Action]], [[AT&T - WarnerMedia]], [[Nucor Cor
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 177 |
+| Enacted into law | 3 |
+| Top policy areas | Health · Energy · Environmental Protection |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 116-109 | 2020-01-24 | HR.583-116 | PIRATE Act |
+| PL 115-277 | 2018-11-03 | HR.6870-115 | To rename the Stop Trading on Congressional Knowledge Act of 2012 in honor of Representati |
+| — | 2010-01-12 | HR.4425-111 | A bill to designate the facility of the United States Postal Service located at 2-116th St |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-09 | HR.8241-119 | — | Power for the People Act of 2026 |
+| 2026-04-06 | HR.8209-119 | Health | To amend the Public Health Service Act to reauthorize the school-based health centers gran |
+| 2025-12-19 | HR.6918-119 | Environmental Protection | Climate Pollution Standard and Community Investment Act of 2025 |
+| 2025-12-17 | HR.6822-119 | Commerce | Stopping Grinch Bots Act of 2025 |
+| 2025-12-11 | HR.6676-119 | Energy | State Industrial Competitiveness Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: T000469` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Paul Tonko
 

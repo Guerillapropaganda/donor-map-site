@@ -110,25 +110,28 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 116th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,604 |
-| Votes with party majority | 1,518 |
-| Party-line loyalty | 94.6% |
-| Deviations from party | 86 |
+| Roll-call votes tracked | 3,678 |
+| Substantive votes (Y/N) | 3,500 |
+| Votes with party majority | 3,362 |
+| Party-line loyalty | 96.1% |
+| Deviations from party | 138 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 86):**
+**Most recent party-line deviations (top 10 of 138):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -145,3 +148,26 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 65 |
+| Enacted into law | 0 |
+| Top policy areas | Transportation and Public Works · Finance and Financial Sector · Housing and Community Development |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-09 | HR.8218-119 | Transportation and Public Works | Fair Compensation for Truck Crash Victims Act |
+| 2026-01-13 | HR.7032-119 | Education | Pay Paraprofessionals and Support Staff Act |
+| 2024-11-21 | HR.10215-118 | Government Operations and Politics | Our Homes, Our Votes Act |
+| 2024-04-30 | HR.8171-118 | Housing and Community Development | Lead-Safe Housing for Kids Act of 2024 |
+| 2024-04-09 | HR.7902-118 | International Affairs | Stop Onerous Surcharges Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: G000586` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

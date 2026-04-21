@@ -151,6 +151,35 @@ top-donors: "[[Andy Harris]], [[Campaign for Working Families]], [[REPUBLICAN PA
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 44 |
+| Enacted into law | 1 |
+| Top policy areas | Crime and Law Enforcement · Health · International Affairs |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-221 | 2025-01-02 | HR.6633-118 | H.R. 6633, a bill to designate the facility of the United States Postal Service located at |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-18 | HR.7981-119 | Education | Stop Secret Counseling of Students Act |
+| 2026-02-13 | HR.7580-119 | Agriculture and Food | Nutrition First Act of 2026 |
+| 2026-02-09 | HR.7433-119 | — | To prohibit users who are under age 13 from accessing social media platforms, to prohibit  |
+| 2026-02-05 | HR.7399-119 | — | Kids Off Social Media Act |
+| 2026-02-02 | HR.7313-119 | Government Operations and Politics | To designate the facility of the United States Postal Service located at 3135 1st Avenue N |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: L000596` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Anna Paulina Luna
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

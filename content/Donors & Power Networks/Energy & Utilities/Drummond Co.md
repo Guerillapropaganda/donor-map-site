@@ -304,3 +304,25 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 - ~~[OpenSecrets: Drummond lobbying spending](https://www.opensecrets.org/orgs/drummond)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Drummond%20Co.%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 3 |
+| Leak sources | Bahamas Leaks (2) · Paradise Papers - Appleby (1) |
+| Top jurisdictions | Cayman Islands (1) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| Australia Acquisition Corp. | entity | Cayman Islands | Paradise Papers - Appleby |
+| ICAZA, GONZALEZ-RUIZ & ALEMAN (BAHAMAS) | intermediary | — | Bahamas Leaks |
+| KUZNIECKY & CO. BAHAMAS LIMITED | intermediary | — | Bahamas Leaks |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: Drummond Co.` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

@@ -120,22 +120,24 @@ donors: "[[Patriots Prevail PAC]] · [[PATRIOTS PREVAIL PAC]] · [[Koch Network 
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,152 |
-| Substantive votes (Y/N) | 2,061 |
-| Votes with party majority | 1,874 |
-| Party-line loyalty | 90.9% |
-| Deviations from party | 130 |
+| Roll-call votes tracked | 3,101 |
+| Substantive votes (Y/N) | 2,993 |
+| Votes with party majority | 2,686 |
+| Party-line loyalty | 89.7% |
+| Deviations from party | 249 |
 
 **Coverage:**
 
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 130):**
+**Most recent party-line deviations (top 10 of 249):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -152,6 +154,36 @@ donors: "[[Patriots Prevail PAC]] · [[PATRIOTS PREVAIL PAC]] · [[Koch Network 
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 173 |
+| Enacted into law | 2 |
+| Top policy areas | Crime and Law Enforcement · Government Operations and Politics · Health |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-2 | 2023-03-20 | S.619-118 | Providing for consideration of the bill (H.R. 140) to amend title 5, United States Code, t |
+| PL 116-32 | 2019-07-25 | S.998-116 | Supporting and Treating Officers In Crisis Act of 2019 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-17 | S.4343-119 | — | A bill to amend title 5, United States Code, to provide that a Member of Congress convicte |
+| 2026-03-11 | S.4066-119 | Health | Safeguarding Women from Chemical Abortion Act |
+| 2026-02-26 | S.3937-119 | Commerce | Homes for American Families Act |
+| 2026-02-11 | S.3852-119 | Energy | GRID Act |
+| 2026-01-14 | S.3643-119 | Government Operations and Politics | Special Inspector General for Program Fraud Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: H001089` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #josh-hawley #senate #missouri #january-6 #populism #dark-money #christian-nationalism #class-analysis
 

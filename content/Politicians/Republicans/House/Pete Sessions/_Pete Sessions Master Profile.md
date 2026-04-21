@@ -116,25 +116,28 @@ top-donors: "[[American Chemistry Council, INC]], [[General Motors]], [[National
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,665 |
-| Votes with party majority | 1,600 |
-| Party-line loyalty | 96.1% |
-| Deviations from party | 65 |
+| Roll-call votes tracked | 3,934 |
+| Substantive votes (Y/N) | 3,806 |
+| Votes with party majority | 3,651 |
+| Party-line loyalty | 95.9% |
+| Deviations from party | 155 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 65):**
+**Most recent party-line deviations (top 10 of 155):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -151,6 +154,37 @@ top-donors: "[[American Chemistry Council, INC]], [[General Motors]], [[National
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 131 |
+| Enacted into law | 3 |
+| Top policy areas | Health · Taxation · Foreign Trade and International Finance |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-182 | 2024-12-23 | HR.7524-118 | GSA Technology Accountability Act |
+| — | 2008-04-22 | HR.5872-110 | Boy Scouts of America Centennial Commemorative Coin Act |
+| — | 2005-11-07 | HR.4246-109 | To designate the facility of the United States Postal Service located at 8135 Forest Lane  |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-15 | HR.8312-119 | — | To establish fraud prevention and program integrity functions and data sharing authorities |
+| 2026-04-15 | HR.8290-119 | International Affairs | Exchange Rate Accountability Act of 2026 |
+| 2026-03-17 | HR.7953-119 | Health | FAIR ACT |
+| 2026-01-27 | HR.7270-119 | Finance and Financial Sector | Stop Identity Fraud and Identity Theft Act of 2026 |
+| 2026-01-14 | HR.7050-119 | Health | Homeopathic Drug Product Safety, Quality, and Transparency Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S000250` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Pete Sessions
 

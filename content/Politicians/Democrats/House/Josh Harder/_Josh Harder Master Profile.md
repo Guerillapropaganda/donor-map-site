@@ -116,25 +116,28 @@ top-donors: "[[NEA Fund for Children and Public Education]], [[Sierra Club Indep
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 116th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,690 |
-| Votes with party majority | 1,583 |
-| Party-line loyalty | 93.7% |
-| Deviations from party | 107 |
+| Roll-call votes tracked | 3,678 |
+| Substantive votes (Y/N) | 3,590 |
+| Votes with party majority | 3,432 |
+| Party-line loyalty | 95.6% |
+| Deviations from party | 158 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 107):**
+**Most recent party-line deviations (top 10 of 158):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -151,6 +154,36 @@ top-donors: "[[NEA Fund for Children and Public Education]], [[Sierra Club Indep
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 141 |
+| Enacted into law | 2 |
+| Top policy areas | Health · Taxation · Labor and Employment |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 116-285 | 2021-01-05 | HR.4356-116 | Protecting Families of Fallen Servicemembers Act of 2019 |
+| PL 116-186 | 2020-10-30 | HR.3399-116 | A bill to amend the Nutria Eradication and Control Act of 2003 to include California in th |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-04 | HR.7791-119 | Housing and Community Development | To authorize the Secretary of Housing and Urban Development to prioritize the award of cer |
+| 2026-02-11 | HR.7496-119 | Taxation | Health Investment Zones Act of 2026 |
+| 2026-02-03 | HR.7329-119 | Energy | FREEDOM Act |
+| 2026-01-22 | HR.7215-119 | Finance and Financial Sector | Stop SCAMS Act |
+| 2026-01-22 | HR.7214-119 | Energy | End PG&amp;E Lobbying Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: H001090` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Josh Harder
 

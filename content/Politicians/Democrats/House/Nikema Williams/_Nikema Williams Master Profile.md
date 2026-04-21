@@ -109,21 +109,22 @@ top-donors: "[[DMFI - Democratic Majority for Israel]], [[J Street]], [[Microsof
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,706 |
-| Votes with party majority | 1,660 |
-| Party-line loyalty | 97.3% |
-| Deviations from party | 46 |
+| Roll-call votes tracked | 2,724 |
+| Substantive votes (Y/N) | 2,670 |
+| Votes with party majority | 2,614 |
+| Party-line loyalty | 97.9% |
+| Deviations from party | 56 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 46):**
+**Most recent party-line deviations (top 10 of 56):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -140,6 +141,35 @@ top-donors: "[[DMFI - Democratic Majority for Israel]], [[J Street]], [[Microsof
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 104 |
+| Enacted into law | 1 |
+| Top policy areas | Government Operations and Politics · Health · Finance and Financial Sector |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-184 | 2022-10-04 | HR.5577-117 | A bill to designate the facility of the United States Postal Service located at 3900 Crown |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | HR.8361-119 | — | To amend the Higher Education Act of 1965 to remove all adverse credit history related to  |
+| 2026-04-15 | HR.8317-119 | — | To amend the Public Health Service Act to authorize grants to evaluate, develop, and expan |
+| 2026-04-09 | HR.8246-119 | Agriculture and Food | OHH SNAP Act of 2026 |
+| 2025-12-11 | HR.6682-119 | Health | Endometriosis CARE Act |
+| 2025-11-20 | HR.6245-119 | Health | PLAY Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: W000788` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Nikema Williams
 

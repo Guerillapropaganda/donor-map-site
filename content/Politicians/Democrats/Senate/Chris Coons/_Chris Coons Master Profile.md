@@ -162,11 +162,11 @@ donors: [[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] Â
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,623 |
-| Votes with party majority | 2,465 |
-| Party-line loyalty | 94.0% |
-| Deviations from party | 27 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,565 |
+| Votes with party majority | 3,401 |
+| Party-line loyalty | 95.4% |
+| Deviations from party | 33 |
 
 **Coverage:**
 
@@ -174,12 +174,14 @@ donors: [[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] Â
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 27):**
+**Most recent party-line deviations (top 10 of 33):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -196,6 +198,38 @@ donors: [[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] Â
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108thâ€“119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 315 |
+| Enacted into law | 4 |
+| Top policy areas | Commerce Â· International Affairs Â· Taxation |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-76 | 2026-02-06 | S.3424-119 | Bankruptcy Administration Improvement Act of 2025 |
+| PL 118-151 | 2024-12-17 | S.3960-118 | To amend title 35, United States Code, to provide a good faith exception to the imposition |
+| PL 117-123 | 2022-05-12 | S.270-117 | Brown v. Board of Education National Historical Park Expansion and Redesignation Act |
+| PL 113-163 | 2014-08-08 | S.1799-113 | Victims of Child Abuse Act Reauthorization Act of 2013 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-19 | S.4144-119 | Finance and Financial Sector | ESCRA Act |
+| 2026-03-19 | S.4145-119 | Commerce | Pro Codes Act |
+| 2026-03-12 | S.4089-119 | Crime and Law Enforcement | Supporting Blue Envelope Programs Act |
+| 2026-03-05 | S.4011-119 | Public Lands and Natural Resources | Tropical Forest and Coral Reef Conservation Reauthorization Act of 2026 |
+| 2026-02-12 | S.3891-119 | Immigration | ICE Accountability Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C001088` *Â· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

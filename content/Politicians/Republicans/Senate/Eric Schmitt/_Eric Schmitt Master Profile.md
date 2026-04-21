@@ -149,6 +149,35 @@ top-donors: "[[Associated General Contractors of America Political Action Commit
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 64 |
+| Enacted into law | 1 |
+| Top policy areas | Health · Science, Technology, Communications · Government Operations and Politics |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-85 | 2024-09-26 | S.1648-118 | Launch Communications Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-27 | S.4277-119 | Immigration | 10 Years of ICE Funding Act |
+| 2026-03-12 | S.4072-119 | Agriculture and Food | Agricultural and Food Policy Research Centers Reauthorization Act of 2026 |
+| 2026-03-11 | S.4052-119 | Government Operations and Politics | A bill to designate the facility of the United States Postal Service located at 203 North  |
+| 2026-03-04 | S.3979-119 | International Affairs | Taiwan and American Space Assistance Act of 2025 |
+| 2026-02-05 | S.3790-119 | Immigration | Protect America Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S001227` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Eric Schmitt
 
 <!-- auto:congress-bills start -->

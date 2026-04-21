@@ -175,24 +175,26 @@ SORT file.name ASC
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,410 |
-| Votes with party majority | 1,355 |
-| Party-line loyalty | 96.1% |
-| Deviations from party | 28 |
+| Roll-call votes tracked | 2,382 |
+| Substantive votes (Y/N) | 2,332 |
+| Votes with party majority | 2,267 |
+| Party-line loyalty | 97.2% |
+| Deviations from party | 38 |
 
 **Coverage:**
 
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 28):**
+**Most recent party-line deviations (top 10 of 38):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -209,6 +211,29 @@ SORT file.name ASC
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 102 |
+| Enacted into law | 0 |
+| Top policy areas | Science, Technology, Communications · Energy · Commerce |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-13 | SJRES.162-119 | Finance and Financial Sector | A joint resolution providing for congressional disapproval under chapter 8 of title 5, Uni |
+| 2026-03-17 | S.4116-119 | Energy | Geo POWER Act |
+| 2026-03-05 | S.4005-119 | Energy | Responsible Containment Reauthorization Act |
+| 2026-02-05 | S.3792-119 | Water Resources Development | Water Project Navigators Act |
+| 2025-12-18 | S.3576-119 | Crime and Law Enforcement | PREPARE Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: H000273` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

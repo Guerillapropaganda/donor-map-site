@@ -126,3 +126,26 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 9 |
+| Enacted into law | 0 |
+| Top policy areas | Agriculture and Food · Sports and Recreation · International Affairs |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-15 | HR.8301-119 | — | To direct the Secretary of State to conduct a comprehensive review of whether to designate |
+| 2025-06-23 | HR.4083-119 | Sports and Recreation | Marshall ‘Major’ Taylor Congressional Gold Medal Act |
+| 2025-06-03 | HR.3685-119 | Agriculture and Food | JUST Act of 2025 |
+| 2025-03-10 | HR.1998-119 | International Affairs | H.R. 1998, Sanction Sea Pirates Act of 2025 |
+| 2024-10-11 | HR.9973-118 | Government Operations and Politics | COINTELPRO Full Disclosure Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: J000309` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

@@ -103,24 +103,26 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,682 |
-| Votes with party majority | 1,557 |
-| Party-line loyalty | 92.6% |
-| Deviations from party | 125 |
+| Roll-call votes tracked | 2,470 |
+| Substantive votes (Y/N) | 2,418 |
+| Votes with party majority | 2,263 |
+| Party-line loyalty | 93.6% |
+| Deviations from party | 155 |
 
 **Coverage:**
 
+- house 117/1: 195 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 125):**
+**Most recent party-line deviations (top 10 of 155):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -137,3 +139,26 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 8 |
+| Enacted into law | 0 |
+| Top policy areas | Armed Forces and National Security · Transportation and Public Works · Health |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2025-08-01 | HR.4845-119 | Armed Forces and National Security | To designate the National Memorial Day Parade, and for other purposes. |
+| 2025-06-10 | HR.3871-119 | Taxation | Apprenticeship Infrastructure Tax Credit Act of 2025 |
+| 2023-12-05 | HR.6591-118 | Commerce | H.R. 6591, Encouraging Success Act |
+| 2023-11-13 | HR.6378-118 | Congress | To permit the remains of any Medal of Honor recipient to lie in honor in the rotunda of th |
+| 2022-07-18 | HR.8408-117 | Health | Fair Care Act of 2022 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: E000071` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

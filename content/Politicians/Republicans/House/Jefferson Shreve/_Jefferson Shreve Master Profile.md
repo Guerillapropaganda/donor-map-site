@@ -130,6 +130,29 @@ top-donors: "[[National Association of Realtors]], [[AT&T - WarnerMedia]], [[Mic
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 12 |
+| Enacted into law | 0 |
+| Top policy areas | International Affairs · Government Operations and Politics · Energy |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-20 | HR.7633-119 | International Affairs | H.R. 7633, American Assistance Visibility Act |
+| 2026-01-23 | HR.7236-119 | Families | MOMS Act |
+| 2026-01-15 | HR.7121-119 | Government Operations and Politics | Securing Federal Devices from Chinese Applications Act |
+| 2026-01-09 | HR.7003-119 | Government Operations and Politics | BIS STRENGTH Act |
+| 2025-11-07 | HR.5980-119 | International Affairs | Mexico Security Assistance Accountability Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S001229` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Jefferson Shreve
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

@@ -113,25 +113,30 @@ top-donors: "[[Citigroup]], [[Occidental Petroleum]], [[Political Action Committ
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,707 |
-| Votes with party majority | 1,638 |
-| Party-line loyalty | 96.0% |
-| Deviations from party | 69 |
+| Roll-call votes tracked | 4,666 |
+| Substantive votes (Y/N) | 4,527 |
+| Votes with party majority | 4,290 |
+| Party-line loyalty | 94.8% |
+| Deviations from party | 237 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 488 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 69):**
+**Most recent party-line deviations (top 10 of 237):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -148,6 +153,35 @@ top-donors: "[[Citigroup]], [[Occidental Petroleum]], [[Political Action Committ
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 55 |
+| Enacted into law | 1 |
+| Top policy areas | Taxation · Health · Public Lands and Natural Resources |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 115-349 | 2018-12-21 | HR.3383-115 | To designate the flood control project in Sedgwick County, Kansas, commonly known as the W |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-26 | HR.8101-119 | Taxation | Ensuring Better Interest Treatment and Deductibility Act (EBITDA) |
+| 2026-02-12 | HR.7520-119 | Health | Efficiency Adjustment Delay Act |
+| 2026-01-15 | HR.7096-119 | Health | Ensuring Seniors’ Access to Quality Care Act |
+| 2025-12-10 | HR.6569-119 | Economics and Public Finance | Executive Action Cost Transparency Act |
+| 2025-08-26 | HR.5036-119 | Public Lands and Natural Resources | To remove the limitation imposed as a result of receiving funding under the Land and Water |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: E000298` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Ron Estes
 

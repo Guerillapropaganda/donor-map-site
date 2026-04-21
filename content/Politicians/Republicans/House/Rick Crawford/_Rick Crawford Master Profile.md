@@ -142,25 +142,30 @@ top-policy-area: Armed Forces and National Security
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,694 |
-| Votes with party majority | 1,617 |
-| Party-line loyalty | 95.5% |
-| Deviations from party | 77 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,688 |
+| Votes with party majority | 4,513 |
+| Party-line loyalty | 96.3% |
+| Deviations from party | 175 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 77):**
+**Most recent party-line deviations (top 10 of 175):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -177,6 +182,36 @@ top-policy-area: Armed Forces and National Security
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 117 |
+| Enacted into law | 2 |
+| Top policy areas | Transportation and Public Works · Environmental Protection · Agriculture and Food |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 116-73 | 2019-11-26 | HR.1123-116 | H.R. 1123, Divisional Realignment for the Eastern District of Arkansas Act of 2019 |
+| PL 114-67 | 2015-10-07 | HR.2954-114 | A bill to designate the Federal building located at 617 Walnut Street in Helena, Arkansas, |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-24 | HR.8035-119 | Armed Forces and National Security | Protect Liberty and End Warrantless Surveillance Act of 2026 |
+| 2026-02-13 | HR.7571-119 | Agriculture and Food | GusNIP Expansion Act of 2026 |
+| 2025-10-08 | HR.5710-119 | Agriculture and Food | Bridge the Gap for Rural Communities Act |
+| 2025-09-30 | HR.5620-119 | Foreign Trade and International Finance | Farm, Food, and National Security Act of 2026 |
+| 2025-09-26 | HR.5563-119 | Labor and Employment | DRIVE-SAFE Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C001087` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #rick-crawford #republican #arkansas #house #chairman #intelligence #agriculture #ukraine #fisa #tiktok #trump-loyalty #farm-bill #rice #surveillance #phase-6-gavel-power
 

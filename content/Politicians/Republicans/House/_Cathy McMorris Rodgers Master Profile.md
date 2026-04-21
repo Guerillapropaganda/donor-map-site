@@ -122,23 +122,28 @@ top-policy-area: Armed Forces and National Security
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–118th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–118th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,272 |
-| Substantive votes (Y/N) | 1,170 |
-| Votes with party majority | 1,126 |
-| Party-line loyalty | 96.2% |
-| Deviations from party | 44 |
+| Roll-call votes tracked | 4,403 |
+| Substantive votes (Y/N) | 4,244 |
+| Votes with party majority | 4,071 |
+| Party-line loyalty | 95.9% |
+| Deviations from party | 173 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 
-**Most recent party-line deviations (top 10 of 44):**
+**Most recent party-line deviations (top 10 of 173):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -155,6 +160,39 @@ top-policy-area: Armed Forces and National Security
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 161 |
+| Enacted into law | 6 |
+| Top policy areas | Health · Public Lands and Natural Resources · Science, Technology, Communications |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-62 | 2024-05-13 | HR.1042-118 | Reduce Russian Uranium Imports Act |
+| PL 118-50 | 2024-04-24 | HR.815-118 | RELIEVE Act |
+| PL 116-173 | 2020-10-20 | HR.4779-116 | A bill to extend the Undertaking Spam, Spyware, And Fraud Enforcement With Enforcers beyon |
+| PL 115-333 | 2018-12-19 | HR.4111-115 | Spurring Business in Communities Act of 2018 |
+| PL 113-23 | 2013-08-09 | HR.267-113 | Hydropower Regulatory Efficiency Act of 2013 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2024-12-04 | HR.10296-118 | Taxation | ABLE Tomorrow Act |
+| 2024-09-06 | HR.9484-118 | Armed Forces and National Security | Making emergency supplemental appropriations for the fiscal year ending September 30, 2024 |
+| 2024-06-28 | HR.8905-118 | Health | MIRACLE Act of 2024 |
+| 2024-06-25 | HR.8818-118 | Commerce | American Privacy Rights Act of 2024 |
+| 2024-05-14 | HR.8395-118 | Environmental Protection | AUDIT EPA Act of 2024 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001159` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #master-profile #republican #house #washington #energy-commerce #telecom #net-neutrality #pac-money
 

@@ -115,25 +115,30 @@ top-donors: "[[AT&T - WarnerMedia]], [[Bechtel Corporation]], [[Austin Scott]], 
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,654 |
-| Votes with party majority | 1,495 |
-| Party-line loyalty | 90.4% |
-| Deviations from party | 159 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,652 |
+| Votes with party majority | 4,315 |
+| Party-line loyalty | 92.8% |
+| Deviations from party | 337 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 159):**
+**Most recent party-line deviations (top 10 of 337):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -150,6 +155,35 @@ top-donors: "[[AT&T - WarnerMedia]], [[Bechtel Corporation]], [[Austin Scott]], 
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 101 |
+| Enacted into law | 1 |
+| Top policy areas | Water Resources Development · Environmental Protection · Public Lands and Natural Resources |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 115-292 | 2018-12-06 | HR.5504-115 | To designate the facility of the United States Postal Service located at 4801 West Van Gie |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-05 | HR.7406-119 | Agriculture and Food | Meeting Demand for Organic Produce Act |
+| 2026-01-14 | HR.7074-119 | Public Lands and Natural Resources | Keeping Public Lands Out of Adversarial Hands Act |
+| 2025-12-04 | HR.6474-119 | Taxation | To amend the Internal Revenue Code of 1986 to expand the meaning and eligibility of energy |
+| 2025-11-21 | HR.6277-119 | Public Lands and Natural Resources | SAWMILL Act |
+| 2025-11-20 | HR.6220-119 | Health | MIRACLE Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: N000189` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Dan Newhouse
 

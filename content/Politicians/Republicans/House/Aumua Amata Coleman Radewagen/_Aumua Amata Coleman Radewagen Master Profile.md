@@ -89,24 +89,27 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 116th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 589 |
-| Substantive votes (Y/N) | 223 |
-| Votes with party majority | 167 |
-| Party-line loyalty | 74.9% |
-| Deviations from party | 56 |
+| Roll-call votes tracked | 919 |
+| Substantive votes (Y/N) | 294 |
+| Votes with party majority | 223 |
+| Party-line loyalty | 75.9% |
+| Deviations from party | 71 |
 
 **Coverage:**
 
+- house 116/1: 291 votes
+- house 116/2: 25 votes
+- house 117/2: 14 votes
 - house 118/1: 394 votes
 - house 118/2: 144 votes
 - house 119/1: 47 votes
 - house 119/2: 4 votes
 
-**Most recent party-line deviations (top 10 of 56):**
+**Most recent party-line deviations (top 10 of 71):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -123,3 +126,35 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 41 |
+| Enacted into law | 4 |
+| Top policy areas | Immigration · Public Lands and Natural Resources · Labor and Employment |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-232 | 2025-01-04 | HR.6062-118 | H.R. 6062, an act to restore the ability of the people of American Samoa to approve amendm |
+| PL 115-16 | 2017-03-31 | HR.1362-115 | To name the Department of Veterans Affairs community-based outpatient clinic in Pago Pago, |
+| PL 114-327 | 2016-12-16 | HR.6452-114 | Ensuring Access to Pacific Fisheries Act |
+| PL 114-61 | 2015-10-07 | HR.2617-114 | To amend the Fair Minimum Wage Act of 2007 to postpone a scheduled increase in the minimum |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2025-11-19 | HR.6158-119 | Immigration | To protect collective self-determination and individual rights under Federal statutes conf |
+| 2025-11-07 | HR.5976-119 | Immigration | American Samoa Statutory Nationality and Citizenship Act |
+| 2025-01-16 | HR.531-119 | Public Lands and Natural Resources | National Defense Authorization Act for Fiscal Year 2026 |
+| 2025-01-15 | HR.449-119 | Immigration | To amend the Immigration and Nationality Act to waive certain naturalization requirements  |
+| 2025-01-14 | HR.399-119 | Taxation | To permanently extend the American Samoa economic development tax credit. |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: R000600` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

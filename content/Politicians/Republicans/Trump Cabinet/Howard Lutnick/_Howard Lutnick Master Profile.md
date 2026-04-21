@@ -143,6 +143,26 @@ The 9/11 narrative is the human shield. Howard Lutnick lost 658 employees and hi
 
 ---
 
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 1 |
+| Leak sources | Paradise Papers - Malta corporate registry (1) |
+| Top jurisdictions | Malta (1) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| Cantor Gaming Malta One Limited | entity | Malta | Paradise Papers - Malta corporate registry |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: Howard Lutnick` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->
+
 ## Sources
 
 - [Senate Finance Committee: Wyden probe Lutnick tariff conflicts](https://www.finance.senate.gov/ranking-members-news/wyden-warren-probe-lutnick-firms-potential-conflicts-of-interest-related-to-massive-tariff-bets) (Tier 1) (VERIFIED)

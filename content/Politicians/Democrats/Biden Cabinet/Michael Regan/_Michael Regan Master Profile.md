@@ -35,3 +35,24 @@ urls-first-triaged: "2026-04-15"
 # Michael Regan
 
 EPA Administrator. Profile pending enrichment.
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 2 |
+| Leak sources | Paradise Papers - Appleby (2) |
+| Top jurisdictions | Bermuda (2) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| Centre Life Reinsurance Limited | entity | Bermuda | Paradise Papers - Appleby |
+| Burlington Northern Santa Fe Insurance Company, Ltd. | entity | Bermuda | Paradise Papers - Appleby |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: Michael Regan` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

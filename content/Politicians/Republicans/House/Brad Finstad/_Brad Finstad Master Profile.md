@@ -112,24 +112,25 @@ top-policy-area: Health
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,683 |
-| Votes with party majority | 1,617 |
-| Party-line loyalty | 96.1% |
-| Deviations from party | 66 |
+| Roll-call votes tracked | 1,858 |
+| Substantive votes (Y/N) | 1,812 |
+| Votes with party majority | 1,734 |
+| Party-line loyalty | 95.7% |
+| Deviations from party | 78 |
 
 **Coverage:**
 
+- house 117/2: 132 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 66):**
+**Most recent party-line deviations (top 10 of 78):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -146,6 +147,29 @@ top-policy-area: Health
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 56 |
+| Enacted into law | 0 |
+| Top policy areas | Agriculture and Food · Armed Forces and National Security · Government Operations and Politics |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-04 | HR.7789-119 | Finance and Financial Sector | Federal Loan Systems Modernization Act of 2026 |
+| 2026-02-09 | HR.7426-119 | Agriculture and Food | Farm, Food, and National Security Act of 2026 |
+| 2026-01-08 | HR.6978-119 | Immigration | H.R. 6978, Preserving Integrity in Immigration Benefits Act |
+| 2025-12-18 | HR.6855-119 | Commerce | White House Conference on Small Business Act of 2025 |
+| 2025-12-12 | HR.6685-119 | Taxation | To amend the Internal Revenue Code of 1986 to establish an exception for multiemployer pla |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: F000475` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Brad Finstad
 

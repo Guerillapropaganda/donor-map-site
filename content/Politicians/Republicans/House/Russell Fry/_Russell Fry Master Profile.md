@@ -144,6 +144,37 @@ top-policy-area: Crime and Law Enforcement
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 23 |
+| Enacted into law | 3 |
+| Top policy areas | Crime and Law Enforcement · Government Operations and Politics · Armed Forces and National Security |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-73 | 2026-01-23 | HR.4323-119 | Trafficking Survivors Relief Act of 2025 |
+| PL 118-219 | 2025-01-02 | HR.6188-118 | H.R. 6188, a bill to designate the facility of the United States Postal Service located at |
+| PL 118-140 | 2024-12-11 | HR.5536-118 | Grant Transparency Act of 2023 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2025-12-04 | HR.6437-119 | Commerce | Kids Internet Safety Partnership Act |
+| 2025-09-15 | HR.5358-119 | Science, Technology, Communications | TRUSTED Broadband Networks Act |
+| 2025-09-11 | HR.5313-119 | Commerce | App Store Freedom Act |
+| 2025-07-22 | HR.4593-119 | Energy | Providing for consideration of the bill (H.R. 4593) to amend the Energy Policy and Conserv |
+| 2025-07-14 | HR.4371-119 | Crime and Law Enforcement | Kayla Hamilton Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: F000478` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Russell Fry
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

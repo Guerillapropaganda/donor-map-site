@@ -88,11 +88,11 @@ top-policy-area: "Health"
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,593 |
-| Votes with party majority | 2,468 |
-| Party-line loyalty | 95.2% |
-| Deviations from party | 33 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,522 |
+| Votes with party majority | 3,389 |
+| Party-line loyalty | 96.2% |
+| Deviations from party | 41 |
 
 **Coverage:**
 
@@ -100,12 +100,14 @@ top-policy-area: "Health"
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 33):**
+**Most recent party-line deviations (top 10 of 41):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -122,6 +124,35 @@ top-policy-area: "Health"
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 356 |
+| Enacted into law | 1 |
+| Top policy areas | Public Lands and Natural Resources · Health · Taxation |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| — | 2011-09-12 | S.1541-112 | To revise the Federal charter for the Blue Star Mothers of America, Inc., to reflect a cha |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-26 | S.4234-119 | — | Healthy Watersheds, Healthy Communities Act of 2026 |
+| 2026-03-26 | S.4223-119 | International Affairs | First Island Chain Deterrence Act |
+| 2026-03-25 | S.4201-119 | International Affairs | Indo-Pacific Space Partnership Act of 2026 |
+| 2026-03-24 | S.4180-119 | Public Lands and Natural Resources | Forest Resources Accountability Act |
+| 2026-03-19 | S.4141-119 | Agriculture and Food | Rural Hospital Revitalization Act of 2026 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: B001267` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #michael-bennet #senator #colorado #education #reform #moderate #class-analysis #democrat
 tags: #democrat

@@ -144,6 +144,29 @@ top-donors: "[[Walmart - Walton Family]], [[L3Harris Technologies]], [[Jason Smi
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 34 |
+| Enacted into law | 0 |
+| Top policy areas | Commerce · Agriculture and Food · Armed Forces and National Security |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-14 | HR.8258-119 | Foreign Trade and International Finance | Strategic Assets Protection Act |
+| 2026-02-26 | HR.7727-119 | Health | Sustaining Rural Healthcare Act |
+| 2026-02-25 | HR.7680-119 | Immigration | Protect our Ballots Act of 2026 |
+| 2025-12-18 | HR.6836-119 | Taxation | Beginning Farmer Tax Incentive Act |
+| 2025-11-10 | HR.5993-119 | Armed Forces and National Security | MACV–SOG Congressional Gold Medal Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: A000379` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Mark Alford
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

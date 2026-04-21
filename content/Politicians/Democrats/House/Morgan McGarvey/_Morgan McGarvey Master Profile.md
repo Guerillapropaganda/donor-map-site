@@ -139,6 +139,29 @@ top-donors: "[[Nucor Corporation]], [[General Motors]], [[Leidos]], [[Amgen Inc]
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 36 |
+| Enacted into law | 0 |
+| Top policy areas | Armed Forces and National Security · Commerce · Health |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2025-12-16 | HR.6757-119 | Labor and Employment | Relief for Survivors of Miners Act of 2025 |
+| 2025-12-16 | HR.6756-119 | Labor and Employment | Black Lung Benefits Improvement Act of 2025 |
+| 2025-12-10 | HR.6579-119 | Crime and Law Enforcement | Justice for Breonna Taylor Act |
+| 2025-11-07 | HR.5966-119 | Environmental Protection | Ohio River Restoration Program Act of 2026 |
+| 2025-08-19 | HR.5001-119 | Commerce | SBIR/STTR Reauthorization Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001220` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Morgan McGarvey
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

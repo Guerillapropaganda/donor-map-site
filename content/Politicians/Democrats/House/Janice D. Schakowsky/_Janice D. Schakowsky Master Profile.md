@@ -89,25 +89,30 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,660 |
-| Votes with party majority | 1,611 |
-| Party-line loyalty | 97.0% |
-| Deviations from party | 49 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,745 |
+| Votes with party majority | 4,614 |
+| Party-line loyalty | 97.2% |
+| Deviations from party | 130 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 49):**
+**Most recent party-line deviations (top 10 of 130):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -124,3 +129,33 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 335 |
+| Enacted into law | 2 |
+| Top policy areas | Health · Commerce · Taxation |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 114-303 | 2016-12-16 | HR.5798-114 | A bill to designate the facility of the United States Postal Service located at 1101 Davis |
+| — | 2007-02-27 | HR.1216-110 | K.T. Safety Act of 2007 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-15 | HR.8311-119 | — | To expand the scope of the Do Not Call rules under the Telephone Consumer Protection Act t |
+| 2026-02-03 | HR.7336-119 | Health | ALS Better Care Act |
+| 2026-01-12 | HR.7023-119 | Health | Affordable CHOICE Act |
+| 2026-01-06 | HR.6951-119 | Health | Stop Unfair Medicaid Recoveries Act |
+| 2025-12-17 | HR.6818-119 | Labor and Employment | Part-Time Worker Bill of Rights Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S001145` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

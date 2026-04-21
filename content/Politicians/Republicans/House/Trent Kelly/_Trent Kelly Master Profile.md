@@ -92,25 +92,30 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,720 |
-| Votes with party majority | 1,656 |
-| Party-line loyalty | 96.3% |
-| Deviations from party | 64 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,804 |
+| Votes with party majority | 4,601 |
+| Party-line loyalty | 95.8% |
+| Deviations from party | 203 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 64):**
+**Most recent party-line deviations (top 10 of 203):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -127,3 +132,33 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 56 |
+| Enacted into law | 2 |
+| Top policy areas | Armed Forces and National Security · Government Operations and Politics · Commerce |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-33 | 2021-08-06 | HR.208-117 | To designate the facility of the United States Postal Service located at 500 West Main Str |
+| PL 114-296 | 2016-12-16 | HR.5309-114 | To designate the facility of the United States Postal Service located at 401 McElroy Drive |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2025-09-18 | HR.5468-119 | Agriculture and Food | Community College Agriculture Advancement Act of 2025 |
+| 2025-05-17 | HR.3476-119 | Public Lands and Natural Resources | Forest Conservation Easement Program Act of 2025 |
+| 2025-05-14 | HR.3397-119 | Transportation and Public Works | Pacific Ready Coast Guard Act |
+| 2025-05-01 | HR.3151-119 | Transportation and Public Works | SHIPS for America Act of 2025 |
+| 2025-03-25 | HR.2329-119 | Foreign Trade and International Finance | Uzbekistan Normalized Trade Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: K000388` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

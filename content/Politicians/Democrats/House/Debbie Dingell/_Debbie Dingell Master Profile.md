@@ -104,25 +104,30 @@ top-donors: "[[NextEra Energy]], [[General Motors]], [[United Food and Commercia
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,650 |
-| Votes with party majority | 1,626 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,717 |
+| Votes with party majority | 4,644 |
 | Party-line loyalty | 98.5% |
-| Deviations from party | 24 |
+| Deviations from party | 72 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 24):**
+**Most recent party-line deviations (top 10 of 72):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -139,6 +144,37 @@ top-donors: "[[NextEra Energy]], [[General Motors]], [[United Food and Commercia
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 188 |
+| Enacted into law | 3 |
+| Top policy areas | Health · Environmental Protection · Commerce |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-287 | 2022-12-27 | HR.5973-117 | Great Lakes Fish and Wildlife Restoration Reauthorization Act of 2021 |
+| PL 116-317 | 2021-01-05 | HR.7347-116 | A bill to designate the medical center of the Department of Veterans Affairs in Ann Arbor, |
+| PL 116-39 | 2019-08-06 | HR.3253-116 | Fair AMP Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | HR.8327-119 | — | To update the 21st Century Communications and Video Accessibility Act of 2010. |
+| 2026-03-19 | HR.8004-119 | International Affairs | Leave No Americans Behind Act of 2026 |
+| 2026-02-20 | HR.7610-119 | Taxation | A bill to amend the Internal Revenue Code of 1986 to establish a credit for adult child ca |
+| 2026-02-11 | HR.7492-119 | International Affairs | Michigan-Canada Partnership Act |
+| 2026-01-13 | HR.7029-119 | Emergency Management | REAADI for Disasters Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: D000624` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Debbie Dingell
 

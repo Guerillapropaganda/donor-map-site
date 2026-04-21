@@ -139,6 +139,35 @@ top-donors: "[[National Association of Realtors]], [[AT&T - WarnerMedia]], [[Nat
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 32 |
+| Enacted into law | 1 |
+| Top policy areas | International Affairs · Government Operations and Politics · Armed Forces and National Security |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-216 | 2025-01-02 | HR.5867-118 | H.R. 5867, a bill to designate the facility of the United States Postal Service located at |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-24 | HR.8058-119 | Crime and Law Enforcement | United States Secret Service Reserve Fund Act of 2026 |
+| 2026-03-05 | HR.7838-119 | Armed Forces and National Security | Veteran Artists Healing Act |
+| 2026-02-12 | HR.7551-119 | Government Operations and Politics | HILTON Act |
+| 2026-02-04 | HR.7369-119 | Congress | United States Capitol Police Reserve Fund Act of 2026 |
+| 2026-01-15 | HR.7113-119 | Government Operations and Politics | To redesignate the Congressional Budget Office as the "China Budget Office". |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001216` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Cory Mills
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

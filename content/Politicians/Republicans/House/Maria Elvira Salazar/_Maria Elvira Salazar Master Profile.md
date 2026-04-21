@@ -151,21 +151,22 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,552 |
-| Votes with party majority | 1,379 |
-| Party-line loyalty | 88.9% |
-| Deviations from party | 173 |
+| Roll-call votes tracked | 2,716 |
+| Substantive votes (Y/N) | 2,490 |
+| Votes with party majority | 2,233 |
+| Party-line loyalty | 89.7% |
+| Deviations from party | 257 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 117/1: 441 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 173):**
+**Most recent party-line deviations (top 10 of 257):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -182,6 +183,35 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 62 |
+| Enacted into law | 1 |
+| Top policy areas | International Affairs · Commerce · Immigration |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-51 | 2024-04-24 | HR.4389-118 | Migratory Birds of the Americas Conservation Enhancements Act of 2024 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-03 | HR.7777-119 | — | Protecting America’s Medical Supply Chains Act of 2026 |
+| 2025-12-18 | HR.6892-119 | Finance and Financial Sector | To authorize the Secretary of the Treasury to subscribe to additional shares of the capita |
+| 2025-12-16 | HR.6763-119 | Taxation | Shelter Act |
+| 2025-12-09 | HR.6540-119 | Government Operations and Politics | Anti-Communism Week Act |
+| 2025-09-23 | HR.5556-119 | Transportation and Public Works | Flight Refund Fairness Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S000168` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

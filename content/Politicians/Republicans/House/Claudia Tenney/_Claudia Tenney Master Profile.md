@@ -116,25 +116,28 @@ top-donors: "[[Save America PAC]], [[Jake Ellzey]], [[Microsoft]], [[Chevron]], 
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,753 |
-| Substantive votes (Y/N) | 1,709 |
-| Votes with party majority | 1,635 |
-| Party-line loyalty | 95.7% |
-| Deviations from party | 74 |
+| Roll-call votes tracked | 3,903 |
+| Substantive votes (Y/N) | 3,844 |
+| Votes with party majority | 3,637 |
+| Party-line loyalty | 94.6% |
+| Deviations from party | 207 |
 
 **Coverage:**
 
-- house 117/1: 27 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 117/1: 418 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 74):**
+**Most recent party-line deviations (top 10 of 207):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -151,6 +154,29 @@ top-donors: "[[Save America PAC]], [[Jake Ellzey]], [[Microsoft]], [[Chevron]], 
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 176 |
+| Enacted into law | 0 |
+| Top policy areas | Taxation · Government Operations and Politics · International Affairs |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-26 | HR.8129-119 | — | To amend title XVIII of the Social Security Act to establish a full risk ACO program. |
+| 2026-03-09 | HR.7884-119 | Taxation | Healthcare is Human Act of 2026 |
+| 2026-02-05 | HR.7410-119 | Government Operations and Politics | To designate the facility of the United States Postal Service located at 15422 NY 104 in M |
+| 2025-12-16 | HR.6766-119 | Health | Essential Caregivers Act of 2025 |
+| 2025-09-18 | HR.5495-119 | International Affairs | SEVER Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: T000478` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Claudia Tenney
 

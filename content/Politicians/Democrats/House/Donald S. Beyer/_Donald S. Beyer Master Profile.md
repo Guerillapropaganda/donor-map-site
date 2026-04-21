@@ -89,25 +89,30 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,676 |
-| Votes with party majority | 1,641 |
-| Party-line loyalty | 97.9% |
-| Deviations from party | 35 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,708 |
+| Votes with party majority | 4,615 |
+| Party-line loyalty | 98.0% |
+| Deviations from party | 92 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 35):**
+**Most recent party-line deviations (top 10 of 92):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -124,3 +129,32 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 205 |
+| Enacted into law | 1 |
+| Top policy areas | Health · Government Operations and Politics · Taxation |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 114-249 | 2016-12-08 | HR.4665-114 | Outdoor Recreation Jobs and Economic Impact Act of 2016 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-15 | HR.8294-119 | — | To amend the Internal Revenue Code of 1986 to impose a surtax on high income individuals. |
+| 2026-03-26 | HR.8094-119 | Commerce | AI Foundation Model Transparency Act of 2026 |
+| 2026-03-20 | HR.8031-119 | Science, Technology, Communications | GUARDRAILS Act |
+| 2026-03-16 | HR.7937-119 | Taxation | Working Americans’ Tax Cut Act |
+| 2026-02-25 | HR.7684-119 | — | To direct the Administrator of the Environmental Protection Agency to conduct a study, and |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: B001292` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

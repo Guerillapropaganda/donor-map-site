@@ -295,3 +295,26 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[New York Times: BlackRock managed Fed bond-buying while profiting from same bonds](https://www.nytimes.com/2020/04/14/business/blackrock-federal-reserve-bond-buying.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[Financial Times: Anti-ESG backlash and BlackRock's response](https://www.ft.com/content/blackrock-esg-backlash)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22BlackRock%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 10 |
+| Leak sources | Bahamas Leaks (6) · Paradise Papers - Malta corporate registry (4) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| COURT ADMINISTRATION LIMI | officer | — | Bahamas Leaks |
+| CREDIT SUISSE TRUST LIMIT | officer | — | Bahamas Leaks |
+| PRIMARY MANAGEMENT LIMITE | officer | — | Bahamas Leaks |
+| PRISM MANAGEMENT LIMITED | officer | — | Bahamas Leaks |
+| JESMOND PSAILA | officer | — | Paradise Papers - Malta corporate registry |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: BlackRock` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

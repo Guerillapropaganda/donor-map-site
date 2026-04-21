@@ -140,6 +140,29 @@ fec-candidate-id: H4TX32089
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 18 |
+| Enacted into law | 0 |
+| Top policy areas | International Affairs · Health · Government Operations and Politics |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | HR.8320-119 | International Affairs | USA 6G Global Leadership Act |
+| 2026-02-20 | HR.7617-119 | Economics and Public Finance | To provide funding for administrative expenses of the Department of Homeland Security duri |
+| 2026-01-30 | HR.7290-119 | — | Qualified Immunity Accountability Act |
+| 2026-01-30 | HR.7289-119 | Health | Community Health Workforce Development Act |
+| 2026-01-21 | HR.7182-119 | Government Operations and Politics | VOTE Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: J000310` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Julie Johnson
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

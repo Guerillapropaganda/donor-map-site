@@ -114,25 +114,30 @@ top-policy-area: Health
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,674 |
-| Votes with party majority | 1,608 |
-| Party-line loyalty | 96.1% |
-| Deviations from party | 66 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,736 |
+| Votes with party majority | 4,572 |
+| Party-line loyalty | 96.5% |
+| Deviations from party | 164 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 66):**
+**Most recent party-line deviations (top 10 of 164):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -149,6 +154,39 @@ top-policy-area: Health
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 126 |
+| Enacted into law | 8 |
+| Top policy areas | Taxation · Health · Foreign Trade and International Finance |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-241 | 2025-01-04 | HR.7507-118 | A bill to designate the facility of the United States Postal Service located at 203 East 6 |
+| PL 118-168 | 2024-12-23 | HR.3801-118 | Employer Reporting Improvement Act |
+| PL 118-185 | 2024-12-23 | HR.8413-118 | H.R. 8413, Swanson and Hugh Butler Reservoirs Land Conveyances Act |
+| PL 118-30 | 2023-12-21 | HJRES.64-118 | Providing for the reappointment of Michael Govan as a citizen regent of the Board of Regen |
+| PL 118-29 | 2023-12-21 | HJRES.63-118 | Providing for the reappointment of Michael Govan as a citizen regent of the Board of Regen |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-15 | HR.8313-119 | — | To amend the Internal Revenue Code of 1986 to make permanent the Trump accounts contributi |
+| 2026-03-12 | HR.7922-119 | Taxation | Small Business Dependent Care FSA Opportunity Act |
+| 2026-02-24 | HR.7666-119 | Health | SOS: Sustaining Outpatient Services Act |
+| 2025-11-21 | HR.6280-119 | Health | Access to Genetic Counselor Services Act of 2026 |
+| 2025-08-01 | HR.4864-119 | Environmental Protection | Ethanol for America Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S001172` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Adrian Smith
 

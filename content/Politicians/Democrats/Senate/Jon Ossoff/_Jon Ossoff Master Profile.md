@@ -127,24 +127,26 @@ donors: [[Tech and Media Donors]] · Tech and Crypto · [[Entertainment and Holl
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,372 |
-| Votes with party majority | 1,329 |
-| Party-line loyalty | 96.9% |
-| Deviations from party | 30 |
+| Roll-call votes tracked | 2,380 |
+| Substantive votes (Y/N) | 2,279 |
+| Votes with party majority | 2,221 |
+| Party-line loyalty | 97.5% |
+| Deviations from party | 45 |
 
 **Coverage:**
 
+- senate 117/1: 526 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 30):**
+**Most recent party-line deviations (top 10 of 45):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -161,6 +163,38 @@ donors: [[Tech and Media Donors]] · Tech and Crypto · [[Entertainment and Holl
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 127 |
+| Enacted into law | 4 |
+| Top policy areas | Armed Forces and National Security · Crime and Law Enforcement · Government Operations and Politics |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-321 | 2022-12-27 | S.2899-117 | Prison Camera Reform Act of 2021 |
+| PL 117-250 | 2022-12-20 | S.2796-117 | Rural Area Opioid Prevention Pilot Program Act |
+| PL 117-227 | 2022-12-09 | S.4359-117 | Senator Johnny Isakson VA Regional Office Act of 2022 |
+| PL 117-222 | 2022-12-05 | S.3655-117 | Civil Rights Cold Case Investigations Support Act of 2022 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-11 | S.4067-119 | Agriculture and Food | Land Grant Research Prioritization Act of 2026 |
+| 2025-12-11 | S.3459-119 | Taxation | Support Small Business Growth Act of 2025 |
+| 2025-09-04 | S.2713-119 | Transportation and Public Works | American Energy Security Act of 2025 |
+| 2025-08-01 | S.2664-119 | Labor and Employment | Skilled Workforce Act |
+| 2025-06-17 | S.2102-119 | Public Lands and Natural Resources | Ralph David Abernathy, Sr. National Historic Site Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: O000174` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

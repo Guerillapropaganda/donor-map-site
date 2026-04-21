@@ -154,6 +154,29 @@ bills-data-scope: Career total synced from auto:congress-legislation (Congress.g
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 21 |
+| Enacted into law | 0 |
+| Top policy areas | Crime and Law Enforcement · Armed Forces and National Security · Emergency Management |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-19 | HR.7998-119 | Taxation | BRIDGE Act |
+| 2026-03-05 | HR.7814-119 | — | To establish an independent statutory commission within the legislative branch responsible |
+| 2026-03-02 | HR.7746-119 | Government Operations and Politics | To designate the facility of the United States Postal Service located at 8390 North Broadw |
+| 2026-02-13 | HR.7570-119 | Taxation | Reinvest in Public Schools Act of 2026 |
+| 2026-02-10 | HR.7461-119 | Emergency Management | FEMA Accountability Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: B001324` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 #wesley-bell #mo-01 #st-louis #aipac-backed #udp-supported #house #democrat #ferguson
 
 ---

@@ -83,3 +83,48 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 28 |
+| Enacted into law | 0 |
+| Top policy areas | Taxation · Crime and Law Enforcement · Science, Technology, Communications |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-02 | HR.8192-119 | Crime and Law Enforcement | Nitazene Response Act |
+| 2026-03-19 | HR.8028-119 | Agriculture and Food | SNAP Fraud Reporting Act of 2026 |
+| 2026-03-04 | HR.7809-119 | Government Operations and Politics | To designate the facility of the United States Postal Service located at 201 East Grant Av |
+| 2026-02-10 | HR.7476-119 | Agriculture and Food | Farm, Food, and National Security Act of 2026 |
+| 2026-02-05 | HR.7409-119 | Health | Defend Rural Health Act of 2026 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: T000490` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 3 |
+| Leak sources | Paradise Papers - Appleby (3) |
+| Top jurisdictions | Bermuda (3) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| Q Re Intermediary Holdings Ltd. | entity | Bermuda | Paradise Papers - Appleby |
+| S Re Ltd. | entity | Bermuda | Paradise Papers - Appleby |
+| T Re (Bermuda) Ltd. | entity | Bermuda | Paradise Papers - Appleby |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: David J. Taylor` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

@@ -35,3 +35,26 @@ urls-first-triaged: "2026-04-15"
 # Penny Pritzker
 
 Secretary of Commerce (2013-2017). Profile pending enrichment.
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 4 |
+| Leak sources | Paradise Papers - Appleby (4) |
+| Top jurisdictions | Bermuda (4) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| THL Ltd. | entity | Bermuda | Paradise Papers - Appleby |
+| TRITON CONTAINER INTERNATIONAL LIMITED | entity | Bermuda | Paradise Papers - Appleby |
+| IAS Holdings Limited | entity | Bermuda | Paradise Papers - Appleby |
+| Western International Financial Group Ltd. | entity | Bermuda | Paradise Papers - Appleby |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: Penny Pritzker` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

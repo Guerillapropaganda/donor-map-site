@@ -114,25 +114,28 @@ top-donors: "[[SEIU COPE]], [[DMFI - Democratic Majority for Israel]], [[Nationa
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 116th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,700 |
-| Votes with party majority | 1,603 |
-| Party-line loyalty | 94.3% |
-| Deviations from party | 97 |
+| Roll-call votes tracked | 3,678 |
+| Substantive votes (Y/N) | 3,610 |
+| Votes with party majority | 3,488 |
+| Party-line loyalty | 96.6% |
+| Deviations from party | 122 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 97):**
+**Most recent party-line deviations (top 10 of 122):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -149,6 +152,35 @@ top-donors: "[[SEIU COPE]], [[DMFI - Democratic Majority for Israel]], [[Nationa
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 67 |
+| Enacted into law | 1 |
+| Top policy areas | Transportation and Public Works · Emergency Management · Crime and Law Enforcement |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 116-75 | 2019-11-27 | HR.4258-116 | Reauthorizing Security for Supreme Court Justices Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-15 | HR.8287-119 | — | Semiconductor Controls Effectiveness Act of 2026 |
+| 2026-04-02 | HR.8188-119 | Transportation and Public Works | Tribal Roads Improvement Act |
+| 2026-02-25 | HR.7714-119 | Government Operations and Politics | To designate the facility of the United States Postal Service located at 101 North Colorad |
+| 2026-01-09 | HR.6992-119 | Immigration | EB–5 Regional Center Program Advisory Committee Authorization Act |
+| 2025-12-12 | HR.6701-119 | Transportation and Public Works | HEAT Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S001211` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Greg Stanton
 

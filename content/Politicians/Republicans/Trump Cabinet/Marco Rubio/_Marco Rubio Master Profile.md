@@ -68,11 +68,11 @@ urls-first-triaged: "2026-04-15"
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,017 |
-| Substantive votes (Y/N) | 1,855 |
-| Votes with party majority | 1,766 |
-| Party-line loyalty | 95.2% |
-| Deviations from party | 48 |
+| Roll-call votes tracked | 2,966 |
+| Substantive votes (Y/N) | 2,753 |
+| Votes with party majority | 2,585 |
+| Party-line loyalty | 93.9% |
+| Deviations from party | 126 |
 
 **Coverage:**
 
@@ -80,11 +80,13 @@ urls-first-triaged: "2026-04-15"
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 8 votes
 
-**Most recent party-line deviations (top 10 of 48):**
+**Most recent party-line deviations (top 10 of 126):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -101,6 +103,39 @@ urls-first-triaged: "2026-04-15"
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 739 |
+| Enacted into law | 19 |
+| Top policy areas | International Affairs · Armed Forces and National Security · Health |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-152 | 2024-12-17 | S.50-118 | Pensacola and Perdido Bays Estuary of National Significance Act of 2024 |
+| PL 118-90 | 2024-09-30 | S.3764-118 | United States Commission on International Religious Freedom Reauthorization Act of 2024 |
+| PL 117-319 | 2022-12-27 | S.1687-117 | Small Business Development Center Cyber Training Act of 2021 |
+| PL 117-220 | 2022-12-05 | S.2159-117 | To name the Department of Veterans Affairs community-based outpatient clinic, located at 4 |
+| PL 117-181 | 2022-09-30 | S.3895-117 | United States Commission on International Religious Freedom Reauthorization Act of 2022 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2024-09-25 | S.5181-118 | Agriculture and Food | Make America Active Again Act |
+| 2024-09-25 | S.5188-118 | Taxation | Patriotic Investment Act |
+| 2024-09-25 | S.5249-118 | Taxation | NO GOTION Act |
+| 2024-09-25 | S.5202-118 | Crime and Law Enforcement | FREED Act |
+| 2024-09-24 | S.5161-118 | Civil Rights and Liberties, Minority Issues | Preventing Antisemitic Harassment on Campus Act of 2024 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: R000595` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 ## Who He Is
 

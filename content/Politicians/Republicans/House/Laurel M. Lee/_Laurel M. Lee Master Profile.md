@@ -119,3 +119,32 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 41 |
+| Enacted into law | 1 |
+| Top policy areas | Crime and Law Enforcement · Government Operations and Politics · Armed Forces and National Security |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-49 | 2024-04-20 | HR.7888-118 | Reforming Intelligence and Securing America Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-19 | HJRES.152-119 | Government Operations and Politics | Proposing an amendment to the Constitution of the United States to ensure that only citize |
+| 2026-03-05 | HR.7834-119 | Crime and Law Enforcement | Safe Cloud Storage Act |
+| 2026-01-27 | HR.7258-119 | Emergency Management | H.R. 7258, Energy Emergency Leadership Act |
+| 2026-01-16 | HR.7140-119 | Commerce | CLEAR Act |
+| 2026-01-09 | HR.6998-119 | Crime and Law Enforcement | H.R. 6998, Renewed Hope Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: L000597` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

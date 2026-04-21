@@ -135,25 +135,30 @@ donors: [[Real Estate Roundtable]]
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,681 |
-| Votes with party majority | 1,614 |
-| Party-line loyalty | 96.0% |
-| Deviations from party | 67 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,750 |
+| Votes with party majority | 4,550 |
+| Party-line loyalty | 95.8% |
+| Deviations from party | 200 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 67):**
+**Most recent party-line deviations (top 10 of 200):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -170,6 +175,36 @@ donors: [[Real Estate Roundtable]]
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 95 |
+| Enacted into law | 2 |
+| Top policy areas | Taxation · Health · Government Operations and Politics |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-167 | 2024-12-23 | HR.3797-118 | Paperwork Burden Reduction Act |
+| PL 118-13 | 2023-08-07 | HR.4004-118 | United States-Taiwan Initiative on 21st-Century Trade First Agreement Implementation Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2025-12-10 | HR.6599-119 | Armed Forces and National Security | Leasing and Infrastructure Act of 2025 |
+| 2025-12-09 | HR.6500-119 | Foreign Trade and International Finance | Consolidated Appropriations Act, 2026 |
+| 2025-02-10 | HR.1156-119 | Labor and Employment | Providing for consideration of the joint resolution (H.J. Res. 25) providing for congressi |
+| 2025-01-21 | HR.591-119 | Foreign Trade and International Finance | Defending American Jobs and Investment Act |
+| 2025-01-03 | HR.33-119 | Taxation | Adopting the Rules of the House of Representatives for the One Hundred Nineteenth Congress |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S001195` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

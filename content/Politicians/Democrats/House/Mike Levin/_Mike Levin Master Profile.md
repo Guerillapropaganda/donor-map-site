@@ -116,25 +116,28 @@ top-donors: "[[Pete Aguilar]], [[NEA Fund for Children and Public Education]], [
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 116th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,723 |
-| Votes with party majority | 1,659 |
-| Party-line loyalty | 96.3% |
-| Deviations from party | 64 |
+| Roll-call votes tracked | 3,678 |
+| Substantive votes (Y/N) | 3,639 |
+| Votes with party majority | 3,557 |
+| Party-line loyalty | 97.7% |
+| Deviations from party | 82 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 64):**
+**Most recent party-line deviations (top 10 of 82):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -151,6 +154,39 @@ top-donors: "[[Pete Aguilar]], [[NEA Fund for Children and Public Education]], [
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 115 |
+| Enacted into law | 5 |
+| Top policy areas | Armed Forces and National Security · Energy · Environmental Protection |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-121 | 2024-11-25 | HR.5985-118 | H.R. 5985, an act to designate the facility of the United States Postal Service located at |
+| PL 117-333 | 2023-01-05 | HR.7939-117 | Providing for consideration of the bill (H.R. 302) to impose limits on excepting competiti |
+| PL 117-98 | 2022-03-14 | HR.3665-117 | To designate the medical center of the Department of Veterans Affairs in San Diego, Califo |
+| PL 117-16 | 2021-06-08 | HR.2523-117 | Providing for consideration of the bill (H.R. 51) to provide for the admission of the Stat |
+| PL 116-315 | 2021-01-05 | HR.7105-116 | Homeless Veterans Coronavirus Response Act of 2020 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-16 | HR.7942-119 | Finance and Financial Sector | DEATH BETS Act |
+| 2026-03-09 | HR.7879-119 | Health | SUPER BUGS Act of 2026 |
+| 2026-02-17 | HR.7598-119 | Armed Forces and National Security | VALOR Act |
+| 2026-02-12 | HR.7543-119 | Environmental Protection | A bill to require the Administrator of the Environmental Protection Agency to promulgate c |
+| 2026-02-05 | HR.7398-119 | Armed Forces and National Security | Passports for Purple Hearts and Medals of Honor Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: L000593` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Mike Levin
 

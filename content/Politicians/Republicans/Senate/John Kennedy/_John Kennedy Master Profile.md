@@ -145,11 +145,11 @@ SORT title ASC
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,688 |
-| Votes with party majority | 2,497 |
-| Party-line loyalty | 92.9% |
-| Deviations from party | 113 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,582 |
+| Votes with party majority | 3,305 |
+| Party-line loyalty | 92.3% |
+| Deviations from party | 198 |
 
 **Coverage:**
 
@@ -157,12 +157,14 @@ SORT title ASC
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 113):**
+**Most recent party-line deviations (top 10 of 198):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -179,6 +181,39 @@ SORT title ASC
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 313 |
+| Enacted into law | 13 |
+| Top policy areas | Finance and Financial Sector · Crime and Law Enforcement · Health |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-77 | 2026-02-10 | S.269-119 | Ending Improper Payments to Deceased People Act |
+| PL 119-57 | 2025-12-12 | S.616-119 | Foundation of the Federal Bar Association Charter Amendments Act of 2025 |
+| PL 119-19 | 2025-06-20 | SJRES.13-119 | Providing for congressional disapproval under chapter 8 of title 5, United States Code, of |
+| PL 119-3 | 2025-03-14 | SJRES.11-119 | Providing for consideration of the joint resolution (H.J. Res. 42) providing for congressi |
+| PL 118-27 | 2023-12-19 | S.2787-118 | 5G SALE Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-15 | S.4308-119 | — | A bill to prohibit the Export-Import Bank of the United States from providing financing to |
+| 2026-03-05 | S.4019-119 | International Affairs | Diego Garcia Treaty Oversight Act |
+| 2026-03-03 | S.3973-119 | Emergency Management | National Domestic Preparedness Consortium Reauthorization Act |
+| 2026-02-26 | S.3935-119 | Finance and Financial Sector | Municipal Securities Rulemaking Board Reform Act of 2026 |
+| 2026-02-02 | S.3756-119 | Government Operations and Politics | Poverty Statistics Enhancement Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: K000393` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |
@@ -348,6 +383,29 @@ Kennedy's class position is the populist brand as capital shield. The folksy per
 
 ---
 
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 4 |
+| Leak sources | Paradise Papers - Barbados corporate registry (3) · Panama Papers (1) |
+| Top jurisdictions | Barbados (3) · British Virgin Islands (1) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| PETRANALYSIS LTD. | entity | British Virgin Islands | Panama Papers |
+| LORAN NETWORK MANAGEMENT LTD. | entity | Barbados | Paradise Papers - Barbados corporate registry |
+| PEREGRINE SYSTEMS GLOBAL LIMITED | entity | Barbados | Paradise Papers - Barbados corporate registry |
+| ROYAL VILLA NUMBER 14 LIMITED | entity | Barbados | Paradise Papers - Barbados corporate registry |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: John Kennedy` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->
 
 ## Sources
 

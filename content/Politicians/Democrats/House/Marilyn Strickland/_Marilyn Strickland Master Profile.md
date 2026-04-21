@@ -118,21 +118,22 @@ top-donors: "[[Walmart - Walton Family]], [[International Longshore and Warehous
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,695 |
-| Votes with party majority | 1,657 |
-| Party-line loyalty | 97.8% |
-| Deviations from party | 38 |
+| Roll-call votes tracked | 2,724 |
+| Substantive votes (Y/N) | 2,634 |
+| Votes with party majority | 2,582 |
+| Party-line loyalty | 98.0% |
+| Deviations from party | 52 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 38):**
+**Most recent party-line deviations (top 10 of 52):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -149,6 +150,36 @@ top-donors: "[[Walmart - Walton Family]], [[International Longshore and Warehous
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 55 |
+| Enacted into law | 2 |
+| Top policy areas | Armed Forces and National Security · Health · Transportation and Public Works |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-54 | 2025-12-12 | HR.970-119 | Fairness for Servicemembers and their Families Act of 2025 |
+| PL 117-346 | 2023-01-05 | HR.6964-117 | A bill to authorize leases of up to 99 years for land held in trust for the Confederated T |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | HR.8357-119 | — | To establish a task force to address the impacts of the chemical 6PPD and its by-product 6 |
+| 2026-02-12 | HR.7562-119 | Agriculture and Food | Office of Small Farms Establishment Act of 2026 |
+| 2026-02-11 | HR.7515-119 | Native Americans | A bill to direct the Secretary of the Interior to convey to the Nisqually Indian Tribe the |
+| 2026-01-30 | HR.7301-119 | Transportation and Public Works | Maximizing Transportation Efficiency Act |
+| 2025-11-21 | HR.6283-119 | Health | FOSTER Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S001159` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Marilyn Strickland
 

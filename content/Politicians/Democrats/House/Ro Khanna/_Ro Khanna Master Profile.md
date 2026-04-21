@@ -178,25 +178,30 @@ SORT title ASC
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,707 |
-| Votes with party majority | 1,659 |
-| Party-line loyalty | 97.2% |
-| Deviations from party | 48 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,807 |
+| Votes with party majority | 4,679 |
+| Party-line loyalty | 97.3% |
+| Deviations from party | 127 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 48):**
+**Most recent party-line deviations (top 10 of 127):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -213,6 +218,39 @@ SORT title ASC
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 152 |
+| Enacted into law | 8 |
+| Top policy areas | Armed Forces and National Security · Government Operations and Politics · Taxation |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-38 | 2025-11-19 | HR.4405-119 | Providing for consideration of the bill (H.R. 185) to advance responsible policies. |
+| PL 118-231 | 2025-01-04 | HR.5887-118 | Government Service Delivery Improvement Act |
+| PL 117-260 | 2022-12-21 | HR.7535-117 | Quantum Computing Cybersecurity Preparedness Act |
+| PL 116-238 | 2020-12-21 | HR.4672-116 | H.R. 4672, a bill to designate the facility of the United States Postal Service located at |
+| PL 116-194 | 2020-12-03 | HR.5901-116 | Information Technology Modernization Centers of Excellence Program Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-14 | HR.8266-119 | Foreign Trade and International Finance | Gasoline Export Ban Act of 2026 |
+| 2026-03-26 | HR.8107-119 | — | To require the establishment of a list identifying program areas and administrative practi |
+| 2026-03-26 | HR.8108-119 | — | To amend the Internal Revenue Code of 1986 to provide for an end date for the credit for c |
+| 2026-03-17 | HR.7960-119 | — | To amend the Internal Revenue Code of 1986 to impose a windfall profits excise tax on crud |
+| 2026-03-12 | HR.7907-119 | Science, Technology, Communications | AI-Ready Bio-Data Standards Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: K000389` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

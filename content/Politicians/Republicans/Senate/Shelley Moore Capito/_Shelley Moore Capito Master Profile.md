@@ -146,11 +146,11 @@ donors: [[Koch Network - Charles Koch|Koch Network]] · [[US CHAMBER OF COMMERCE
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,658 |
-| Votes with party majority | 2,546 |
-| Party-line loyalty | 95.8% |
-| Deviations from party | 49 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,576 |
+| Votes with party majority | 3,263 |
+| Party-line loyalty | 91.2% |
+| Deviations from party | 249 |
 
 **Coverage:**
 
@@ -158,12 +158,14 @@ donors: [[Koch Network - Charles Koch|Koch Network]] · [[US CHAMBER OF COMMERCE
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 49):**
+**Most recent party-line deviations (top 10 of 249):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -180,6 +182,36 @@ donors: [[Koch Network - Charles Koch|Koch Network]] · [[US CHAMBER OF COMMERCE
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 235 |
+| Enacted into law | 2 |
+| Top policy areas | Health · Foreign Trade and International Finance · Environmental Protection |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 116-192 | 2020-10-30 | S.4075-116 | RLF Act |
+| PL 115-309 | 2018-12-11 | S.3389-115 | To redesignate certain facilities of the National Aeronautics and Space Administration. |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-26 | S.4221-119 | Taxation | Ensuring Better Interest Treatment and Deductibility Act (EBITDA) |
+| 2026-03-10 | S.4036-119 | Health | AADAPT Act |
+| 2025-12-15 | S.3472-119 | Education | National Strategy for School Security Act of 2025 |
+| 2025-11-19 | S.3209-119 | Armed Forces and National Security | NOPAIN for Veterans Act |
+| 2025-11-19 | SJRES.96-119 | Public Lands and Natural Resources | Requesting the Secretary of the Interior to authorize unique and one-time arrangements for |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C001047` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:govtrack start -->
 | Metric | Value |

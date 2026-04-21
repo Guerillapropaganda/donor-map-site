@@ -155,24 +155,26 @@ donors:
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,372 |
-| Votes with party majority | 1,329 |
-| Party-line loyalty | 96.9% |
-| Deviations from party | 34 |
+| Roll-call votes tracked | 2,380 |
+| Substantive votes (Y/N) | 2,307 |
+| Votes with party majority | 2,259 |
+| Party-line loyalty | 97.9% |
+| Deviations from party | 39 |
 
 **Coverage:**
 
+- senate 117/1: 526 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 34):**
+**Most recent party-line deviations (top 10 of 39):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -189,6 +191,39 @@ donors:
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 230 |
+| Enacted into law | 6 |
+| Top policy areas | Public Lands and Natural Resources · Immigration · Native Americans |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-199 | 2024-12-23 | S.3857-118 | Jamul Indian Village Land Transfer Act |
+| PL 118-204 | 2024-12-23 | S.4077-118 | S. 4077, a bill to designate the facility of the United States Postal Service located at 1 |
+| PL 117-353 | 2023-01-05 | S.4439-117 | Katimiîn and Ameekyáaraam Sacred Lands Act |
+| PL 117-360 | 2023-01-05 | S.5168-117 | Energy Security and Lightering Independence Act of 2021 |
+| PL 117-320 | 2022-12-27 | S.2607-117 | Iran Hostages Congressional Gold Medal Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-13 | SJRES.159-119 | Finance and Financial Sector | A joint resolution providing for congressional disapproval under chapter 8 of title 5, Uni |
+| 2026-03-26 | S.4271-119 | Government Operations and Politics | Support our Firefighters Act |
+| 2026-03-26 | SJRES.152-119 | Labor and Employment | A joint resolution providing for congressional disapproval under chapter 8 of title 5, Uni |
+| 2026-03-16 | S.4103-119 | Environmental Protection | Save Our Sequoias Act |
+| 2026-03-12 | S.4075-119 | Emergency Management | Pay FEMA Personnel Act of 2026 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: P000145` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

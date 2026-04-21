@@ -89,11 +89,11 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,650 |
-| Votes with party majority | 2,507 |
-| Party-line loyalty | 94.6% |
-| Deviations from party | 50 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,595 |
+| Votes with party majority | 3,451 |
+| Party-line loyalty | 96.0% |
+| Deviations from party | 51 |
 
 **Coverage:**
 
@@ -101,12 +101,14 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 50):**
+**Most recent party-line deviations (top 10 of 51):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -123,3 +125,36 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 869 |
+| Enacted into law | 21 |
+| Top policy areas | Health · Education · Crime and Law Enforcement |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-84 | 2024-09-26 | S.265-118 | SIREN Reauthorization Act |
+| PL 118-65 | 2024-06-17 | S.2051-118 | Missing Children's Assistance Reauthorization Act of 2023 |
+| PL 117-341 | 2023-01-05 | S.2834-117 | Dr. Joanne Smith Memorial Rehabilitation Innovation Centers Act |
+| PL 117-176 | 2022-09-16 | S.3103-117 | Eliminating Limits to Justice for Child Sex Abuse Victims Act of 2022 |
+| PL 117-138 | 2022-06-07 | S.4089-117 | Veterans Rapid Retraining Assistance Program Restoration Act of 2022 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-15 | S.4307-119 | — | A bill to expand the scope of the Do Not Call rules under the Telephone Consumer Protectio |
+| 2026-03-26 | S.4244-119 | Transportation and Public Works | Protect Your Points Act of 2026 |
+| 2026-03-25 | S.4213-119 | Environmental Protection | Data Center Water and Energy Transparency Act of 2026 |
+| 2026-03-25 | SJRES.147-119 | Finance and Financial Sector | A joint resolution providing for congressional disapproval under chapter 8 of title 5, Uni |
+| 2026-03-24 | S.4181-119 | Environmental Protection | Plastic Pellet Free Waters Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: D000563` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

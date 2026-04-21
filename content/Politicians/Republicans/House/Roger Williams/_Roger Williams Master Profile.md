@@ -141,25 +141,30 @@ donors:
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,602 |
-| Votes with party majority | 1,522 |
-| Party-line loyalty | 95.0% |
-| Deviations from party | 80 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,626 |
+| Votes with party majority | 4,422 |
+| Party-line loyalty | 95.6% |
+| Deviations from party | 204 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 80):**
+**Most recent party-line deviations (top 10 of 204):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -176,6 +181,35 @@ donors:
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 113 |
+| Enacted into law | 1 |
+| Top policy areas | Finance and Financial Sector · Commerce · Taxation |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 113-115 | 2014-06-09 | HR.3060-113 | To designate the facility of the United States Postal Service located at 232 Southwest Joh |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-05 | HR.7412-119 | Commerce | Put America on Commission Act of 2026 |
+| 2025-12-11 | HR.6683-119 | Education | Safer Schools Act of 2025 |
+| 2025-12-09 | HR.6546-119 | Finance and Financial Sector | Main Street Capital Access Act |
+| 2025-10-24 | HR.5832-119 | Commerce | REAL Meats Act |
+| 2025-10-14 | HR.5763-119 | Commerce | Main Street Parity Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: W000816` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

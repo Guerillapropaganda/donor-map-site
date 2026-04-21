@@ -111,25 +111,28 @@ top-donors: "[[Raytheon (RTX)]], [[IBEW - International Brotherhood of Electrica
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 116th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,671 |
-| Votes with party majority | 1,639 |
-| Party-line loyalty | 98.1% |
-| Deviations from party | 32 |
+| Roll-call votes tracked | 3,678 |
+| Substantive votes (Y/N) | 3,566 |
+| Votes with party majority | 3,487 |
+| Party-line loyalty | 97.8% |
+| Deviations from party | 79 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 32):**
+**Most recent party-line deviations (top 10 of 79):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -146,6 +149,35 @@ top-donors: "[[Raytheon (RTX)]], [[IBEW - International Brotherhood of Electrica
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 62 |
+| Enacted into law | 1 |
+| Top policy areas | Immigration · Armed Forces and National Security · Environmental Protection |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 116-288 | 2021-01-05 | HR.8354-116 | Servicemembers and Veterans Initiative Act of 2020. |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-05 | HR.7823-119 | Immigration | To direct the Secretary of Homeland Security, acting through the Traveler Redress Inquiry  |
+| 2025-12-11 | HR.6632-119 | Transportation and Public Works | El Paso Air Traffic Control Tower Modernization Act |
+| 2025-11-21 | HR.6258-119 | Crime and Law Enforcement | Disarm Hate Act |
+| 2025-11-20 | HR.6185-119 | Environmental Protection | Targeting Environmental and Climate Recklessness Act of 2025 |
+| 2025-08-22 | HR.5020-119 | Animals | Supporting Our Shelters Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: E000299` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Veronica Escobar
 

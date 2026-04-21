@@ -132,11 +132,11 @@ top-policy-area: International Affairs
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,666 |
-| Votes with party majority | 2,445 |
-| Party-line loyalty | 91.7% |
-| Deviations from party | 45 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,567 |
+| Votes with party majority | 3,338 |
+| Party-line loyalty | 93.6% |
+| Deviations from party | 53 |
 
 **Coverage:**
 
@@ -144,12 +144,14 @@ top-policy-area: International Affairs
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 45):**
+**Most recent party-line deviations (top 10 of 53):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -166,6 +168,39 @@ top-policy-area: International Affairs
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 487 |
+| Enacted into law | 6 |
+| Top policy areas | Health · International Affairs · Armed Forces and National Security |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-158 | 2022-06-25 | S.2089-117 | Burial Equity for Guards and Reserves Act of 2021 |
+| PL 116-205 | 2020-12-03 | S.327-116 | Wounded Veterans Recreation Act |
+| PL 116-65 | 2019-10-09 | S.239-116 | Christa McAuliffe Commemorative Coin Act of 2019 |
+| PL 115-80 | 2017-11-02 | S.920-115 | S. 920, National Clinical Care Commission Act |
+| PL 115-68 | 2017-10-06 | S.1141-115 | Women, Peace, and Security Act of 2017 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-26 | S.4215-119 | Agriculture and Food | AFFIRM Act of 2026 |
+| 2026-03-26 | S.4257-119 | Health | Resources To Prevent Youth Vaping Act |
+| 2026-03-26 | S.4275-119 | International Affairs | BLOCK PUTIN Act |
+| 2026-03-25 | S.4189-119 | Health | INSULIN Act of 2026 |
+| 2026-03-17 | S.4114-119 | Education | Student Protection and Success Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S001181` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #jeanne-shaheen #democrat #new-hampshire #senate #foreign-relations #armed-services #defense-contractors #bae-systems #nato #ukraine #class-analysis #follow-the-money
 

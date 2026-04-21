@@ -83,3 +83,26 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 14 |
+| Enacted into law | 0 |
+| Top policy areas | Taxation · Energy · Armed Forces and National Security |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-16 | HR.7935-119 | Crime and Law Enforcement | Shall Not Be Infringed Act of 2026 |
+| 2026-02-04 | HR.7368-119 | Sports and Recreation | Riley Gaines Act |
+| 2026-01-21 | HR.7185-119 | Taxation | Home Savings Act |
+| 2026-01-14 | HR.7051-119 | Taxation | American Dream Act |
+| 2025-12-02 | HR.6365-119 | Public Lands and Natural Resources | Wintergreen Emergency Egress Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001239` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

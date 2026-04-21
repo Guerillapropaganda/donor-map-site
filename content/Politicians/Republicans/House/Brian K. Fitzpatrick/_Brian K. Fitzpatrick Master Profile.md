@@ -85,25 +85,30 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,721 |
-| Votes with party majority | 1,292 |
-| Party-line loyalty | 75.1% |
-| Deviations from party | 429 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,828 |
+| Votes with party majority | 3,666 |
+| Party-line loyalty | 75.9% |
+| Deviations from party | 1,162 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 429):**
+**Most recent party-line deviations (top 10 of 1162):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -120,3 +125,32 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 201 |
+| Enacted into law | 1 |
+| Top policy areas | Government Operations and Politics · Health · Congress |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-116 | 2024-11-25 | HR.5476-118 | To designate the facility of the United States Postal Service located at 1077 River Road,  |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | HJRES.156-119 | — | Directing the President, pursuant to the War Powers Resolution, to comply with the 60-day  |
+| 2026-04-02 | HR.8173-119 | Economics and Public Finance | Pay Our Homeland Defenders Act |
+| 2026-03-25 | HR.8081-119 | Health | Mental Health Access and Provider Support Act of 2026 |
+| 2026-01-22 | HR.7210-119 | Taxation | Fuel the Force Act of 2026 |
+| 2025-12-18 | HR.6856-119 | — | To impose sanctions and other measures with respect to the Russian Federation if the Gover |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: F000466` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

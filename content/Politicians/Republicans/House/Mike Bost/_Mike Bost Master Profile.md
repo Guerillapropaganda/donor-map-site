@@ -63,25 +63,30 @@ donors:
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,707 |
-| Votes with party majority | 1,629 |
-| Party-line loyalty | 95.4% |
-| Deviations from party | 78 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,696 |
+| Votes with party majority | 4,420 |
+| Party-line loyalty | 94.1% |
+| Deviations from party | 276 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 78):**
+**Most recent party-line deviations (top 10 of 276):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -98,6 +103,39 @@ donors:
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 117 |
+| Enacted into law | 7 |
+| Top policy areas | Armed Forces and National Security · Agriculture and Food · Transportation and Public Works |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-257 | 2025-01-04 | HR.8976-118 | H.R. 8976, a bill to designate the facility of the United States Postal Service located at |
+| PL 118-124 | 2024-11-25 | HR.6324-118 | Fiscal Year 2024 Veterans Affairs Major Medical Facility Authorization Act |
+| PL 117-308 | 2022-12-27 | HR.7735-117 | Improving Access to the VA Home Loan Act of 2022 |
+| PL 117-63 | 2021-11-22 | HR.2911-117 | A bill to require the Secretary of Veterans Affairs to submit to Congress a plan for oblig |
+| PL 115-258 | 2018-10-09 | HR.4958-115 | Veterans' Compensation Cost-of-Living Adjustment Act of 2017 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2025-12-17 | HR.6779-119 | Agriculture and Food | USDA Loan Modernization Act |
+| 2025-12-16 | HR.6733-119 | Armed Forces and National Security | VISN Reform Act of 2025 |
+| 2025-12-15 | HR.6710-119 | Armed Forces and National Security | Fiscal Year 2025 Veterans Affairs Major Medical Facility Authorization Act |
+| 2025-07-23 | HR.4633-119 | Government Operations and Politics | USPS Act |
+| 2025-07-22 | HR.4585-119 | Transportation and Public Works | Agricultural and Rural Road Improvement Program Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: B001295` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

@@ -120,11 +120,11 @@ top-policy-area: Health
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,745 |
-| Votes with party majority | 2,671 |
-| Party-line loyalty | 97.3% |
-| Deviations from party | 37 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,684 |
+| Votes with party majority | 3,559 |
+| Party-line loyalty | 96.6% |
+| Deviations from party | 87 |
 
 **Coverage:**
 
@@ -132,12 +132,14 @@ top-policy-area: Health
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 37):**
+**Most recent party-line deviations (top 10 of 87):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -154,6 +156,39 @@ top-policy-area: Health
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 401 |
+| Enacted into law | 17 |
+| Top policy areas | Taxation · Health · Agriculture and Food |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-83 | 2022-01-21 | S.2959-117 | Supplemental Impact Aid Flexibility Act |
+| PL 117-45 | 2021-10-08 | S.189-117 | Veterans’ Compensation Cost-of-Living Adjustment Act of 2021 |
+| PL 116-105 | 2019-12-30 | S.151-116 | Ending One-Ring Scams Act of 2019 |
+| PL 115-423 | 2019-01-07 | S.2200-115 | Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2017 |
+| PL 115-420 | 2019-01-03 | S.3367-115 | S. 3367, Department of Transportation Reports Harmonization Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-19 | S.4152-119 | Agriculture and Food | Fertilizer Transparency Act of 2026 |
+| 2026-01-29 | S.3723-119 | Water Resources Development | Lewis &amp; Clark Regional Water System Expansion Feasibility Study Act |
+| 2026-01-29 | S.3725-119 | Water Resources Development | Lewis and Clark Regional Water System Expansion Feasibility Study Act |
+| 2025-12-17 | S.3543-119 | Foreign Trade and International Finance | Trade Cheating Restitution Act of 2026 |
+| 2025-07-31 | S.2608-119 | Agriculture and Food | CRP Improvement and Flexibility Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: T000250` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #john-thune #republican #senate #majority-leader #south-dakota #telecom #insurance #net-neutrality #class-analysis #follow-the-money
 

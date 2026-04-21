@@ -116,25 +116,29 @@ top-donors: "[[Marathon Petroleum]], [[American Hospital Association PAC]], [[Da
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,718 |
-| Votes with party majority | 1,656 |
-| Party-line loyalty | 96.4% |
-| Deviations from party | 62 |
+| Roll-call votes tracked | 3,794 |
+| Substantive votes (Y/N) | 3,737 |
+| Votes with party majority | 3,617 |
+| Party-line loyalty | 96.8% |
+| Deviations from party | 120 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/2: 116 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 62):**
+**Most recent party-line deviations (top 10 of 120):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -151,6 +155,35 @@ top-donors: "[[Marathon Petroleum]], [[American Hospital Association PAC]], [[Da
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 53 |
+| Enacted into law | 1 |
+| Top policy areas | Health · Energy · Transportation and Public Works |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-274 | 2022-12-27 | HR.4622-117 | To designate the facility of the United States Postal Service located at 226 North Main St |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-12 | HR.7523-119 | Energy | Spent Petroleum Catalyst Recycling and Critical Minerals and Metals Recovery Exemption Act |
+| 2025-12-02 | HR.6352-119 | Energy | CLEAR Act of 2025 |
+| 2025-10-28 | HR.5839-119 | Health | Supplemental Benefits for Individuals Act of 2025 |
+| 2025-10-17 | HR.5765-119 | Energy | Affordable, Reliable, Clean Energy Security Act of 2025 |
+| 2025-09-08 | HR.5170-119 | Science, Technology, Communications | CABLE Leadership Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: B001306` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Troy Balderson
 

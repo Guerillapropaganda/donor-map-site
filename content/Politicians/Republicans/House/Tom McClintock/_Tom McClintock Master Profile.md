@@ -101,25 +101,30 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,684 |
-| Votes with party majority | 1,503 |
-| Party-line loyalty | 89.3% |
-| Deviations from party | 181 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,745 |
+| Votes with party majority | 4,221 |
+| Party-line loyalty | 89.0% |
+| Deviations from party | 524 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 181):**
+**Most recent party-line deviations (top 10 of 524):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -136,3 +141,36 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 97 |
+| Enacted into law | 5 |
+| Top policy areas | Public Lands and Natural Resources · Economics and Public Finance · Immigration |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-211 | 2025-01-02 | HR.1555-118 | H.R. 1555, a bill to designate the facility of the United States Postal Service located at |
+| PL 115-109 | 2018-01-10 | HR.381-115 | H.R. 381, an act to designate a mountain in the John Muir Wilderness of the Sierra Nationa |
+| PL 113-127 | 2014-07-16 | HR.2388-113 | To take certain Federal lands located in El Dorado County, California, into trust for the  |
+| — | 2012-02-02 | HR.3892-112 | To designate the facility of the United States Postal Service located at 8771 Auburn Folso |
+| — | 2009-07-23 | HR.3319-111 | To designate the facility of the United States Postal Service located at 440 South Gulling |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-23 | HR.7640-119 | Immigration | Shut Down Sanctuary Policies Act of 2026 |
+| 2025-09-17 | HR.5437-119 | Law | Protection of Lawful Commerce in Stone Slab Products Act |
+| 2025-06-17 | HR.4041-119 | Environmental Protection | To exempt certain forest management activities in Yosemite National Park from requirements |
+| 2025-06-12 | HR.3940-119 | Transportation and Public Works | Open America's Waters Act |
+| 2025-06-06 | HJRES.99-119 | Government Operations and Politics | Proposing an amendment to the Constitution of the United States to provide that new States |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001177` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

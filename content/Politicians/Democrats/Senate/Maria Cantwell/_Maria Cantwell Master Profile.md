@@ -145,11 +145,11 @@ donors: [[Boeing]]
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,728 |
-| Votes with party majority | 2,597 |
-| Party-line loyalty | 95.2% |
-| Deviations from party | 28 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,666 |
+| Votes with party majority | 3,533 |
+| Party-line loyalty | 96.4% |
+| Deviations from party | 30 |
 
 **Coverage:**
 
@@ -157,12 +157,14 @@ donors: [[Boeing]]
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 28):**
+**Most recent party-line deviations (top 10 of 30):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -179,6 +181,39 @@ donors: [[Boeing]]
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 414 |
+| Enacted into law | 9 |
+| Top policy areas | Public Lands and Natural Resources · Taxation · Foreign Trade and International Finance |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-48 | 2024-04-19 | S.382-118 | Puyallup Tribe of Indians Land Into Trust Confirmation Act of 2023 |
+| PL 117-340 | 2023-01-05 | S.2333-117 | S. 2333, Equal Pay for Team USA Act of 2022 |
+| — | 2022-03-08 | S.3773-117 | To authorize leases of up to 99 years for lands held in trust for the Confederated Tribes  |
+| PL 116-100 | 2019-12-20 | S.216-116 | S. 216, Spokane Tribe of Indians of the Spokane Reservation Equitable Compensation Act |
+| PL 114-272 | 2016-12-14 | S.3028-114 | Daniel J. Evans Olympic National Park Wilderness Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-15 | S.4311-119 | — | A bill to amend section 13 of the Federal Trade Commission Act to provide for equitable re |
+| 2026-03-05 | S.4014-119 | Native Americans | To direct the Secretary of the Interior to convey to the Nisqually Indian Tribe the Clear  |
+| 2026-02-12 | S.3881-119 | Emergency Management | Tsunami Warning, Research, and Education Act of 2026 |
+| 2026-02-05 | S.3795-119 | Science, Technology, Communications | Weather Research and Forecasting Innovation Reauthorization Act of 2026 |
+| 2026-02-03 | S.3769-119 | Native Americans | Helping Our People Act of 2026 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C000127` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

@@ -118,21 +118,22 @@ tags: #republican
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,709 |
-| Votes with party majority | 1,570 |
-| Party-line loyalty | 91.9% |
-| Deviations from party | 139 |
+| Roll-call votes tracked | 2,724 |
+| Substantive votes (Y/N) | 2,661 |
+| Votes with party majority | 2,469 |
+| Party-line loyalty | 92.8% |
+| Deviations from party | 192 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 139):**
+**Most recent party-line deviations (top 10 of 192):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -149,6 +150,35 @@ tags: #republican
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 79 |
+| Enacted into law | 1 |
+| Top policy areas | Agriculture and Food · Health · Government Operations and Politics |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-69 | 2024-07-12 | HR.4581-118 | Maternal and Child Health Stillbirth Prevention Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-25 | HR.8084-119 | Health | Access to LARCs Act |
+| 2026-03-25 | HR.8083-119 | Health | Allowing Greater Access to Safe and Effective Contraception Act |
+| 2026-03-24 | HR.8049-119 | Transportation and Public Works | End Special Treatment for Congress at Airports Act of 2026 |
+| 2026-02-11 | HR.7498-119 | Families | After Hours Child Care Act |
+| 2026-02-03 | HR.7330-119 | Agriculture and Food | DALCI Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: H001091` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:govtrack start -->
 | Metric | Value |

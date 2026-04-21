@@ -140,6 +140,29 @@ top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[League of C
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 8 |
+| Enacted into law | 0 |
+| Top policy areas | Armed Forces and National Security · Commerce · Labor and Employment |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-12 | HR.7537-119 | Health | Corporate Crimes Against Health Care Act |
+| 2026-01-15 | HR.7099-119 | Transportation and Public Works | PATH to Education Act |
+| 2025-12-17 | HR.6793-119 | Armed Forces and National Security | National Defense Authorization Act for Fiscal Year 2026 |
+| 2025-12-16 | HR.6745-119 | Armed Forces and National Security | Streamlining Procurement for Effective Execution and Delivery and National Defense Authori |
+| 2025-10-03 | HR.5680-119 | Economics and Public Finance | Pay Our Public Shipyard Workers Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: G000604` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Maggie Goodlander
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

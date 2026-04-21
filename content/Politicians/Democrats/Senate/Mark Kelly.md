@@ -110,21 +110,23 @@ urls-first-triaged: "2026-04-15"
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,478 |
-| Substantive votes (Y/N) | 1,408 |
-| Votes with party majority | 1,313 |
-| Party-line loyalty | 93.3% |
-| Deviations from party | 20 |
+| Roll-call votes tracked | 2,427 |
+| Substantive votes (Y/N) | 2,337 |
+| Votes with party majority | 2,217 |
+| Party-line loyalty | 94.9% |
+| Deviations from party | 45 |
 
 **Coverage:**
 
 - senate 116/2: 45 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 20):**
+**Most recent party-line deviations (top 10 of 45):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -141,6 +143,38 @@ urls-first-triaged: "2026-04-15"
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 108 |
+| Enacted into law | 4 |
+| Top policy areas | Public Lands and Natural Resources · Transportation and Public Works · Armed Forces and National Security |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-32 | 2025-08-14 | S.201-119 | ACES Act |
+| PL 118-105 | 2024-10-02 | S.2228-118 | Building Chips in America Act of 2023 |
+| PL 117-342 | 2023-01-05 | S.3168-117 | To amend the White Mountain Apache Tribe Water Rights Quantification Act of 2010 to modify |
+| PL 117-343 | 2023-01-05 | S.3308-117 | Continental Divide Trail Completion Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-15 | S.4297-119 | — | A bill to amend the Internal Revenue Code of 1986 to repeal the tax credit for contributio |
+| 2026-04-13 | S.4278-119 | International Affairs | PEACE Act |
+| 2026-04-13 | SJRES.161-119 | International Affairs | A joint resolution to direct the removal of United States Armed Forces from hostilities wi |
+| 2026-03-26 | S.4266-119 | — | Cost-of-living Emergency Act |
+| 2026-03-26 | S.4273-119 | — | Nicholas Douglas Quets Border Travel Safety Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: K000377` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #master-profile #democrat #senate #arizona #defense #astronaut #gun-control
 
@@ -253,3 +287,23 @@ Kelly's public identity: Gun control advocate married to a shooting survivor, Gi
 
 ### Voting Record
 
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 1 |
+| Leak sources | Paradise Papers - Malta corporate registry (1) |
+| Top jurisdictions | Malta (1) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| BEDFONT LAKES (HOLDINGS) (MALTA) P.L.C. | entity | Malta | Paradise Papers - Malta corporate registry |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: Mark Kelly` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

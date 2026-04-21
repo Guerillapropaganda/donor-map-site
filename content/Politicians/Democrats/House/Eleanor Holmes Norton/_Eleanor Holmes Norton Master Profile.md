@@ -86,24 +86,27 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 116th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 589 |
-| Substantive votes (Y/N) | 582 |
-| Votes with party majority | 571 |
-| Party-line loyalty | 98.1% |
-| Deviations from party | 11 |
+| Roll-call votes tracked | 919 |
+| Substantive votes (Y/N) | 873 |
+| Votes with party majority | 859 |
+| Party-line loyalty | 98.4% |
+| Deviations from party | 14 |
 
 **Coverage:**
 
+- house 116/1: 291 votes
+- house 116/2: 25 votes
+- house 117/2: 14 votes
 - house 118/1: 394 votes
 - house 118/2: 144 votes
 - house 119/1: 47 votes
 - house 119/2: 4 votes
 
-**Most recent party-line deviations (top 10 of 11):**
+**Most recent party-line deviations (top 10 of 14):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -120,3 +123,36 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 718 |
+| Enacted into law | 14 |
+| Top policy areas | Government Operations and Politics · Public Lands and Natural Resources · Transportation and Public Works |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 116-30 | 2019-07-25 | HR.866-116 | Fairness For Breastfeeding Mothers Act of 2019 |
+| PL 115-77 | 2017-11-02 | HR.2989-115 | Frederick Douglass Bicentennial Commission Act |
+| PL 114-257 | 2016-12-14 | HR.4419-114 | District of Columbia Judicial Financial Transparency Act |
+| PL 113-71 | 2013-12-26 | HR.3343-113 | To amend the District of Columbia Home Rule Act to clarify the rules regarding the determi |
+| PL 113-31 | 2013-08-09 | HR.2611-113 | To designate the headquarters building of the Coast Guard on the campus located at 2701 Ma |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-09 | HR.8227-119 | Finance and Financial Sector | Paul Laurence Dunbar Commemorative Coin Act |
+| 2026-03-30 | HR.8164-119 | Health | Ensuring Child Health Coverage Compensation in Divorce Act of 2026 |
+| 2026-03-24 | HR.8062-119 | Government Operations and Politics | Ensuring Full Participation in the Census Act of 2026 |
+| 2026-03-16 | HR.7946-119 | Law | Jury Duty Exemption for Breastfeeding Act of 2026 |
+| 2026-03-09 | HR.7881-119 | Law | District of Columbia Juror Pay Parity Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: N000147` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

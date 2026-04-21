@@ -100,25 +100,30 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,464 |
-| Substantive votes (Y/N) | 1,421 |
-| Votes with party majority | 1,364 |
-| Party-line loyalty | 96.0% |
-| Deviations from party | 41 |
+| Roll-call votes tracked | 4,595 |
+| Substantive votes (Y/N) | 4,389 |
+| Votes with party majority | 4,130 |
+| Party-line loyalty | 94.1% |
+| Deviations from party | 243 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 41):**
+**Most recent party-line deviations (top 10 of 243):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -135,3 +140,26 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 186 |
+| Enacted into law | 0 |
+| Top policy areas | Finance and Financial Sector · Government Operations and Politics · Taxation |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-26 | S.4219-119 | International Affairs | Abraham Accords Defense Cooperation Act of 2026 |
+| 2026-03-26 | S.4249-119 | Labor and Employment | FARM Stability Act |
+| 2026-03-24 | S.4171-119 | Taxation | Virtual Currency Tax Fairness Act |
+| 2026-03-24 | S.4170-119 | Finance and Financial Sector | Regulation A+ Improvement Act of 2025 |
+| 2026-03-16 | S.4098-119 | Government Operations and Politics | Artificial Intelligence-Ready Data Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: B001305` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

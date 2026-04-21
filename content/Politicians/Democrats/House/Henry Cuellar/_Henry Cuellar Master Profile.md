@@ -126,25 +126,30 @@ top-policy-area: Health
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,688 |
-| Votes with party majority | 1,391 |
-| Party-line loyalty | 82.4% |
-| Deviations from party | 297 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,782 |
+| Votes with party majority | 4,175 |
+| Party-line loyalty | 87.3% |
+| Deviations from party | 606 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 297):**
+**Most recent party-line deviations (top 10 of 606):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -161,6 +166,39 @@ top-policy-area: Health
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 93 |
+| Enacted into law | 16 |
+| Top policy areas | Government Operations and Politics · Immigration · International Affairs |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-55 | 2024-05-07 | HR.2754-118 | A bill to designate the facility of the United States Postal Service located at 2395 East  |
+| PL 116-260 | 2020-12-27 | HR.133-116 | United States-Mexico Economic Partnership Act |
+| PL 115-341 | 2018-12-21 | HR.1211-115 | To designate the facility of the United States Postal Service located at 400 N. Main Stree |
+| PL 115-340 | 2018-12-21 | HR.1210-115 | To designate the facility of the United States Postal Service located at 122 W. Goodwin St |
+| PL 115-311 | 2018-12-13 | HR.1207-115 | To designate the facility of the United States Postal Service located at 306 River Street  |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-09 | HR.7865-119 | Taxation | American Consumer Tariff Rebate Act of 2026 |
+| 2025-02-13 | HR.1297-119 | Immigration | LPOE Modernization Trust Fund Act |
+| 2024-07-11 | HR.9006-118 | Labor and Employment | Hazardous Workplace Accountability Act of 2024 |
+| 2023-11-13 | HR.6377-118 | Labor and Employment | ARCC Act |
+| 2023-11-06 | HR.6240-118 | Transportation and Public Works | To modify a certain commercial zone in Texas to include Zapata County, and for other purpo |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C001063` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #cuellar #master-profile #house #texas #blue-dog #corruption #foreign-agent #oil-gas #pardoned #bribery
 

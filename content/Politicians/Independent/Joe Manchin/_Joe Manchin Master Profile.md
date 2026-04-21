@@ -121,11 +121,11 @@ top-policy-area: Health
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,009 |
-| Substantive votes (Y/N) | 1,892 |
-| Votes with party majority | 1,444 |
-| Party-line loyalty | 76.3% |
-| Deviations from party | 103 |
+| Roll-call votes tracked | 2,958 |
+| Substantive votes (Y/N) | 2,795 |
+| Votes with party majority | 2,281 |
+| Party-line loyalty | 81.6% |
+| Deviations from party | 169 |
 
 **Coverage:**
 
@@ -133,10 +133,12 @@ top-policy-area: Health
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 
-**Most recent party-line deviations (top 10 of 103):**
+**Most recent party-line deviations (top 10 of 169):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -153,6 +155,35 @@ top-policy-area: Health
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 227 |
+| Enacted into law | 1 |
+| Top policy areas | Health · Armed Forces and National Security · Energy |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 116-212 | 2020-12-04 | S.3147-116 | Improving Safety and Security for Veterans Act of 2020 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2024-12-17 | S.5575-118 | Public Lands and Natural Resources | America’s Revegetation and Carbon Sequestration Act of 2024 |
+| 2024-12-09 | S.5455-118 | Armed Forces and National Security | Hershel Woody Williams State Committal Shelter Act of 2024 |
+| 2024-11-21 | S.5400-118 | Health | Improving Access to Emergency Medical Services Act of 2024 |
+| 2024-09-25 | S.5225-118 | Government Operations and Politics | RESILIENCE Act |
+| 2024-08-01 | S.4948-118 | Public Lands and Natural Resources | A bill to require the Secretary of Commerce to establish a grant program to foster enhance |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001183` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #joe-manchin #senate #west-virginia #coal #enersystems #epipen #no-labels #class-analysis #independent
 

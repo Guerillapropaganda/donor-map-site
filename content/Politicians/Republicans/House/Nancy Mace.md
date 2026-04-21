@@ -119,21 +119,22 @@ top-policy-area: Government Operations and Politics
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,627 |
-| Votes with party majority | 1,426 |
-| Party-line loyalty | 87.6% |
-| Deviations from party | 201 |
+| Roll-call votes tracked | 2,724 |
+| Substantive votes (Y/N) | 2,583 |
+| Votes with party majority | 2,297 |
+| Party-line loyalty | 88.9% |
+| Deviations from party | 286 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 201):**
+**Most recent party-line deviations (top 10 of 286):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -150,6 +151,35 @@ top-policy-area: Government Operations and Politics
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 157 |
+| Enacted into law | 1 |
+| Top policy areas | Government Operations and Politics · Crime and Law Enforcement · Armed Forces and National Security |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-288 | 2022-12-27 | HR.6042-117 | To designate the facility of the United States Postal Service located at 213 William Hilto |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-09 | HR.8221-119 | Taxation | First-Time Homebuyer Savings Act of 2026 |
+| 2026-04-02 | HR.8179-119 | Crime and Law Enforcement | FETCH Act of 2026 |
+| 2026-03-26 | HR.8112-119 | Immigration | Preserving Social Security and Medicare for Citizens Act of 2026 |
+| 2026-03-19 | HR.8015-119 | Immigration | Incentivizing Cooperation in Immigration Enforcement Act |
+| 2026-02-25 | HR.7702-119 | Crime and Law Enforcement | Death Penalty for Child Rapists Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M000194` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #nancy-mace #house #south-carolina #swing-district #donor-flip #weather-vane #ideological-flexibility
 

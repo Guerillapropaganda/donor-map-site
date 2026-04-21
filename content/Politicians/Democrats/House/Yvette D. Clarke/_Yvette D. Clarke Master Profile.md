@@ -89,25 +89,30 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,703 |
-| Votes with party majority | 1,650 |
-| Party-line loyalty | 96.9% |
-| Deviations from party | 53 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,772 |
+| Votes with party majority | 4,630 |
+| Party-line loyalty | 97.0% |
+| Deviations from party | 141 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 53):**
+**Most recent party-line deviations (top 10 of 141):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -124,3 +129,32 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 151 |
+| Enacted into law | 1 |
+| Top policy areas | Health · Commerce · Science, Technology, Communications |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 115-317 | 2018-12-14 | HR.5238-115 | A bill to designate the facility of the United States Postal Service located at 1234 Saint |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-26 | HR.8098-119 | Congress | To direct the Joint Committee of Congress on the Library to obtain a statue of Shirley Chi |
+| 2026-02-04 | HR.7353-119 | Transportation and Public Works | Magnus White and Safe Streets for Everyone Act of 2026 |
+| 2025-12-02 | HR.6356-119 | Science, Technology, Communications | Artificial Intelligence Civil Rights Act of 2025 |
+| 2025-11-18 | HR.6081-119 | Environmental Protection | CLOSE Act |
+| 2025-09-19 | HR.5511-119 | Commerce | Algorithmic Accountability Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C001067` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

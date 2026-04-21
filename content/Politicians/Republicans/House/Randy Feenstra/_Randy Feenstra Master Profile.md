@@ -93,21 +93,22 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,714 |
-| Votes with party majority | 1,654 |
-| Party-line loyalty | 96.5% |
-| Deviations from party | 60 |
+| Roll-call votes tracked | 2,724 |
+| Substantive votes (Y/N) | 2,675 |
+| Votes with party majority | 2,590 |
+| Party-line loyalty | 96.8% |
+| Deviations from party | 85 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 60):**
+**Most recent party-line deviations (top 10 of 85):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -124,3 +125,33 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 96 |
+| Enacted into law | 2 |
+| Top policy areas | Agriculture and Food · Taxation · Science, Technology, Communications |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-39 | 2025-11-25 | HR.998-119 | IRS MATH Act of 2025 |
+| PL 118-68 | 2024-07-12 | HR.1240-118 | Winnebago Land Transfer Act of 2023 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-02 | HR.7749-119 | Science, Technology, Communications | Quantum in Practice Act |
+| 2026-01-21 | HR.7177-119 | Crime and Law Enforcement | Protecting Girls with Turner Syndrome Act of 2026 |
+| 2026-01-15 | HR.7097-119 | Finance and Financial Sector | No American Benefits Abroad Act |
+| 2026-01-06 | HR.6944-119 | Agriculture and Food | A bill to require the Secretary of Agriculture to make cost-share grants for retrofitting  |
+| 2025-11-19 | HR.6134-119 | Education | STUDENT Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: F000446` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

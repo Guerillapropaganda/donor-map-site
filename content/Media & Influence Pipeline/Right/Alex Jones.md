@@ -241,3 +241,25 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[Bloomberg: Infowars' Parent Free Speech Systems Files for Bankruptcy](https://www.bloomberg.com/news/articles/2022-07-30/infowars-parent-free-speech-systems-files-for-bankruptcy)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[New York Times: Alex Jones Said Bans Would Strengthen Him. He Was Wrong.](https://www.nytimes.com/2018/09/04/technology/alex-jones-infowars-bans-traffic.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[New York Times: Alex Jones's Infowars sold to The Onion at auction](https://www.nytimes.com/2024/11/14/business/media/alex-jones-infowars-the-onion.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 3 |
+| Leak sources | Paradise Papers - Nevis corporate registry (1) · Paradise Papers - Malta corporate registry (1) · Bahamas Leaks (1) |
+| Top jurisdictions | Malta (1) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| Meridian Trust Company Ltd. | intermediary | — | Paradise Papers - Nevis corporate registry |
+| NUMBER 19 LIMITED | entity | Malta | Paradise Papers - Malta corporate registry |
+| ESTATE PLANNING INSTITUTE (BAHAMAS) LTD. | intermediary | — | Bahamas Leaks |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: Alex Jones` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

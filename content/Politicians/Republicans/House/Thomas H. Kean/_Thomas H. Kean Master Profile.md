@@ -123,3 +123,26 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 45 |
+| Enacted into law | 0 |
+| Top policy areas | Science, Technology, Communications · International Affairs · Transportation and Public Works |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-26 | HR.8106-119 | — | To impose sanctions with respect to Rosatom, and for other purposes. |
+| 2026-02-23 | HR.7648-119 | Immigration | Local Taxpayer Protection Act of 2026 |
+| 2026-01-22 | HR.7216-119 | Taxation | Make American Housing Affordable (MAHA) Act of 2026 |
+| 2026-01-21 | HR.7168-119 | Education | Seton Hall Fire Victims Remembrance Act of 2026 |
+| 2025-12-11 | HR.6647-119 | Transportation and Public Works | Drone Safety Enhancement Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: K000398` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

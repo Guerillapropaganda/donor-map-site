@@ -133,6 +133,29 @@ top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[SEIU COPE]]
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 7 |
+| Enacted into law | 0 |
+| Top policy areas | Labor and Employment · Finance and Financial Sector · International Affairs |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-14 | HR.8268-119 | — | Biotechnology for All High School Students Act |
+| 2026-02-11 | HR.7505-119 | Labor and Employment | Flexible Leave Act |
+| 2025-12-04 | HR.6461-119 | Science, Technology, Communications | READ AI Models Act |
+| 2025-11-19 | HR.6151-119 | International Affairs | Global Respect Act |
+| 2025-05-14 | HR.3404-119 | Labor and Employment | FAIR Leave Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001238` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Sarah McBride
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

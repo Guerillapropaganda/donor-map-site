@@ -107,25 +107,30 @@ top-donors: "[[Care Action]], [[Google - Alphabet]], [[National Association of R
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,709 |
-| Votes with party majority | 1,674 |
-| Party-line loyalty | 98.0% |
-| Deviations from party | 35 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,735 |
+| Votes with party majority | 4,632 |
+| Party-line loyalty | 97.8% |
+| Deviations from party | 102 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 35):**
+**Most recent party-line deviations (top 10 of 102):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -142,6 +147,37 @@ top-donors: "[[Care Action]], [[Google - Alphabet]], [[National Association of R
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 169 |
+| Enacted into law | 3 |
+| Top policy areas | Health · Environmental Protection · Public Lands and Natural Resources |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-23 | 2021-06-30 | HJRES.34-117 | A joint resolution providing for congressional disapproval under chapter 8 of title 5, Uni |
+| PL 115-115 | 2018-01-12 | HR.518-115 | A bill to exclude power supply circuits, drivers, and devices to be connected to, and powe |
+| — | 2008-07-10 | HR.6469-110 | Organ Transplant Authorization Act of 2008 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-09 | HR.7425-119 | — | To designate certain lands in the State of Colorado as components of the National Wilderne |
+| 2026-01-21 | HR.7173-119 | Health | Follow the Science Act |
+| 2025-11-18 | HR.6082-119 | Environmental Protection | Fracturing Responsibility and Awareness of Chemicals Act of 2025 |
+| 2025-09-30 | HR.5621-119 | Health | Physical Therapist Workforce and Patient Access Act of 2025 |
+| 2025-09-18 | HR.5461-119 | Health | Special Diabetes Program Reauthorization Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: D000197` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Diana DeGette
 

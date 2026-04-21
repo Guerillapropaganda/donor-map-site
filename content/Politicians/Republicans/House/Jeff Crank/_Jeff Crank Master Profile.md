@@ -141,6 +141,29 @@ top-donors: "[[Chevron]], [[AT&T - WarnerMedia]], [[Troy Downing]], [[Performanc
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 5 |
+| Enacted into law | 0 |
+| Top policy areas | Transportation and Public Works · Science, Technology, Communications · Housing and Community Development |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-18 | HR.7979-119 | Public Lands and Natural Resources | Public Lands Access Restoration Act |
+| 2026-01-30 | HR.7282-119 | Housing and Community Development | FRAMER Act |
+| 2025-06-23 | HR.4075-119 | Science, Technology, Communications | Fire Weather Development Act of 2025 |
+| 2025-03-10 | HR.1984-119 | Transportation and Public Works | BLOC Act |
+| 2025-03-06 | HR.1913-119 | Transportation and Public Works | BLOC Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C001137` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Jeff Crank
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

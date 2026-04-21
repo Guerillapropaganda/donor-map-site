@@ -85,25 +85,28 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 116th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,664 |
-| Votes with party majority | 1,624 |
-| Party-line loyalty | 97.6% |
-| Deviations from party | 40 |
+| Roll-call votes tracked | 3,678 |
+| Substantive votes (Y/N) | 3,575 |
+| Votes with party majority | 3,491 |
+| Party-line loyalty | 97.7% |
+| Deviations from party | 84 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 40):**
+**Most recent party-line deviations (top 10 of 84):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -120,3 +123,35 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 61 |
+| Enacted into law | 4 |
+| Top policy areas | Education · Health · Crime and Law Enforcement |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-173 | 2024-12-23 | HR.5646-118 | Stop Campus Hazing Act |
+| PL 118-71 | 2024-07-25 | HR.3019-118 | Federal Prison Oversight Act |
+| PL 116-316 | 2021-01-05 | HR.7259-116 | Patents for Humanity Program Improvement Act |
+| PL 116-52 | 2019-08-23 | HR.2938-116 | National Defense Authorization Act for Fiscal Year 2020 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-15 | HR.8304-119 | — | To require the Secretary of Labor to establish a grant program for States to improve or es |
+| 2026-03-24 | HR.8055-119 | Agriculture and Food | Extending WIC for New Moms Act |
+| 2026-02-17 | HR.7599-119 | Crime and Law Enforcement | Federal Extreme Risk Protection Order Act of 2026 |
+| 2026-02-03 | HR.7333-119 | Families | Family Violence Prevention and Services Improvement Act of 2026 |
+| 2025-09-18 | HR.5476-119 | Education | Preparing And Retaining All (PARA) Educators Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001208` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

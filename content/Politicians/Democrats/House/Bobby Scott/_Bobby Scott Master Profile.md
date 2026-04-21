@@ -147,25 +147,30 @@ donors: [[SEIU - Service Employees International Union|SEIU]]
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,723 |
-| Votes with party majority | 1,682 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,820 |
+| Votes with party majority | 4,704 |
 | Party-line loyalty | 97.6% |
-| Deviations from party | 41 |
+| Deviations from party | 115 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 41):**
+**Most recent party-line deviations (top 10 of 115):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -182,6 +187,38 @@ donors: [[SEIU - Service Employees International Union|SEIU]]
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 236 |
+| Enacted into law | 4 |
+| Top policy areas | Crime and Law Enforcement · Labor and Employment · Foreign Trade and International Finance |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 115-102 | 2018-01-08 | HR.1242-115 | Energy and Natural Resources Act of 2017 |
+| PL 113-242 | 2014-12-18 | HR.1447-113 | Death in Custody Reporting Act of 2013 |
+| — | 2010-11-16 | HR.6412-111 | Access to Criminal History Records for State Sentencing Commissions Act of 2010 |
+| — | 2008-02-12 | HR.5350-110 | To provide for a boundary adjustment and land conveyances involving Roosevelt National For |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-04 | HR.7340-119 | Education | Rebuild America’s Schools Act of 2026 |
+| 2025-12-18 | HR.6893-119 | Environmental Protection | Chesapeake WATERS Act |
+| 2025-12-10 | HR.6597-119 | Labor and Employment | LET’S Protect Workers Act |
+| 2025-10-10 | HR.5740-119 | Agriculture and Food | WIC Benefits Protection Act |
+| 2025-08-01 | HR.4862-119 | Education | SERVICE Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S000185` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

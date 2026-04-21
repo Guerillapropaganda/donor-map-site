@@ -146,6 +146,29 @@ top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[Jim Jordan]
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 41 |
+| Enacted into law | 0 |
+| Top policy areas | Government Operations and Politics · Transportation and Public Works · Taxation |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | HR.8324-119 | — | To amend the Internal Revenue Code of 1986 to increase the limitations on contributions to |
+| 2026-02-12 | HR.7525-119 | Transportation and Public Works | Counter Drone State and Local Defender Act |
+| 2026-02-05 | HR.7388-119 | Government Operations and Politics | H.R. 7388, Smart Space Act of 2026 |
+| 2025-12-16 | HR.6734-119 | Commerce | Auto Data Privacy and Autonomy Act |
+| 2025-11-12 | HR.6023-119 | Government Operations and Politics | Government Shutdown Efficiency Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: B001316` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Eric Burlison
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

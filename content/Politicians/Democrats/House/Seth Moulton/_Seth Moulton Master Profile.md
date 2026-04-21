@@ -93,25 +93,30 @@ top-policy-area: Health
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,652 |
-| Votes with party majority | 1,606 |
-| Party-line loyalty | 97.2% |
-| Deviations from party | 46 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,635 |
+| Votes with party majority | 4,489 |
+| Party-line loyalty | 96.9% |
+| Deviations from party | 145 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 46):**
+**Most recent party-line deviations (top 10 of 145):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -128,6 +133,39 @@ top-policy-area: Health
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 96 |
+| Enacted into law | 5 |
+| Top policy areas | Armed Forces and National Security · Public Lands and Natural Resources · Crime and Law Enforcement |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-25 | 2025-07-15 | HR.2215-119 | Salem Maritime National Historical Park Redesignation and Boundary Study Act |
+| PL 118-10 | 2023-07-26 | HR.1096-118 | 250th Anniversary of the United States Marine Corps Commemorative Coin Act |
+| PL 115-363 | 2018-12-21 | HR.6059-115 | To designate the facility of the United States Postal Service located at 51 Willow Street  |
+| PL 115-34 | 2017-05-16 | HR.274-115 | Modernizing Government Travel Act |
+| PL 114-286 | 2016-12-16 | HR.4352-114 | Faster Care for Veterans Act of 2016 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-27 | HR.8148-119 | Finance and Financial Sector | Prediction Market RISK Act |
+| 2026-02-20 | HR.7626-119 | Government Operations and Politics | Defend Elections from Trump Act |
+| 2026-01-14 | HR.7072-119 | Crime and Law Enforcement | FAIR Justice Act |
+| 2026-01-14 | HR.7071-119 | Health | Healthcare Reinvestment Act |
+| 2025-12-19 | HR.6915-119 | International Affairs | To prohibit the use of funds to use military force in or against Venezuela, and for other  |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001196` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Seth Moulton
 

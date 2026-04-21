@@ -120,3 +120,32 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 21 |
+| Enacted into law | 1 |
+| Top policy areas | Public Lands and Natural Resources · Emergency Management · Transportation and Public Works |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-33 | 2023-12-26 | HR.2839-118 | A bill to amend the Siletz Reservation Act to address the hunting, fishing, trapping, and  |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2025-12-18 | HR.6864-119 | Public Lands and Natural Resources | SAW Act |
+| 2025-09-17 | HR.5433-119 | Commerce | POP Act |
+| 2025-08-26 | HR.5041-119 | Public Lands and Natural Resources | Smith River National Recreation Area Expansion Act |
+| 2025-07-23 | HR.4675-119 | Environmental Protection | Columbia River Clean-Up Act of 2025 |
+| 2025-07-16 | HR.4453-119 | Government Operations and Politics | To amend title 5, United States Code, to include Parkinson's disease in the list of illnes |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: H001094` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

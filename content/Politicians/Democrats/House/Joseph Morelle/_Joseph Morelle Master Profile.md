@@ -156,25 +156,29 @@ donors: [[Labor Unions]] · Corporate PACs · Democratic Leadership PACs
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,684 |
-| Votes with party majority | 1,633 |
-| Party-line loyalty | 97.0% |
-| Deviations from party | 51 |
+| Roll-call votes tracked | 3,762 |
+| Substantive votes (Y/N) | 3,653 |
+| Votes with party majority | 3,583 |
+| Party-line loyalty | 98.1% |
+| Deviations from party | 70 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/2: 84 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 51):**
+**Most recent party-line deviations (top 10 of 70):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -191,6 +195,35 @@ donors: [[Labor Unions]] · Corporate PACs · Democratic Leadership PACs
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 91 |
+| Enacted into law | 1 |
+| Top policy areas | Crime and Law Enforcement · Education · Government Operations and Politics |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 116-42 | 2019-08-21 | HR.540-116 | To designate the facility of the United States Postal Service located at 770 Ayrault Road  |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | HR.8342-119 | — | To amend the Internal Revenue Code of 1986 to exclude compensation received by poll worker |
+| 2026-02-05 | HR.7404-119 | Commerce | Fair Repair Act |
+| 2025-12-12 | HR.6694-119 | Government Operations and Politics | To designate the facility of the United States Postal Service located at 130 North Winton  |
+| 2025-12-04 | HR.6471-119 | Crime and Law Enforcement | Justice in Sentencing for Survivors Act of 2025 |
+| 2025-11-25 | HR.6307-119 | Agriculture and Food | Hunger Clearinghouse Enhancement Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001206` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

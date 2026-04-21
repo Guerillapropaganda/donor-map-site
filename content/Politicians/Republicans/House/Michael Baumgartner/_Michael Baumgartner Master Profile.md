@@ -125,6 +125,29 @@ top-donors: "[[National Rifle Association]], [[Tyson Foods]], [[Chevron]], [[Nat
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 14 |
+| Enacted into law | 0 |
+| Top policy areas | International Affairs · Sports and Recreation · Education |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-06 | HR.8196-119 | Labor and Employment | Workforce Data Quality Initiative Act of 2026 |
+| 2026-04-02 | HR.8170-119 | International Affairs | MATCH Act |
+| 2026-03-24 | HR.8037-119 | Law | Protect American AI Act of 2026 |
+| 2026-01-14 | HR.7058-119 | International Affairs | H.R. 7058, Foreign Adversary AI Risk Assessment and Diplomacy Act |
+| 2025-10-24 | HR.5812-119 | Sports and Recreation | Correcting Opportunity and Accountability in Collegiate Hiring Act (COACH Act) |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: B001322` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Michael Baumgartner
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

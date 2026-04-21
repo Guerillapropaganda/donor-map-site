@@ -83,3 +83,26 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 13 |
+| Enacted into law | 0 |
+| Top policy areas | Armed Forces and National Security · Taxation · Commerce |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | HR.8326-119 | — | To designate the facility of the United States Postal Service located at 16 Rev Dr Martin  |
+| 2026-03-24 | HR.8044-119 | Armed Forces and National Security | Get Justice-Involved Veterans BACK HOME Act |
+| 2025-12-18 | HR.6844-119 | Health | Tobacco TRACE Act |
+| 2025-12-18 | HR.6845-119 | Crime and Law Enforcement | S.T.O.P. Illicit Vapes Act |
+| 2025-11-10 | HR.5999-119 | Armed Forces and National Security | To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to furn |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C001136` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

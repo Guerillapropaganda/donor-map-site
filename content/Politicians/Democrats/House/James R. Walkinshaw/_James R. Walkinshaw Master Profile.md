@@ -76,3 +76,26 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 9 |
+| Enacted into law | 0 |
+| Top policy areas | Government Operations and Politics · Congress · Armed Forces and National Security |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-16 | HR.7952-119 | — | To amend title 10, United States Code, to prohibit a reduction in the number of personnel  |
+| 2026-02-23 | HR.7643-119 | Armed Forces and National Security | Veteran Technology Employment Success Act |
+| 2026-02-17 | HR.7600-119 | Government Operations and Politics | Postal Supervisors, Managers, and Postmasters Fairness Act of 2026 |
+| 2026-02-10 | HR.7480-119 | Government Operations and Politics | FAIR Act |
+| 2026-02-02 | HR.7322-119 | Government Operations and Politics | True Shutdown Fairness Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: W000831` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

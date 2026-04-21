@@ -166,11 +166,11 @@ SORT title ASC
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,359 |
-| Votes with party majority | 2,139 |
-| Party-line loyalty | 90.7% |
-| Deviations from party | 86 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,282 |
+| Votes with party majority | 3,047 |
+| Party-line loyalty | 92.8% |
+| Deviations from party | 101 |
 
 **Coverage:**
 
@@ -178,12 +178,14 @@ SORT title ASC
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 86):**
+**Most recent party-line deviations (top 10 of 101):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -200,6 +202,37 @@ SORT title ASC
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 535 |
+| Enacted into law | 3 |
+| Top policy areas | Health · Crime and Law Enforcement · Education |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 116-63 | 2019-10-04 | S.1689-116 | S. 1689, a bill to permit States to transfer certain funds from the clean water revolving  |
+| PL 114-111 | 2015-12-18 | S.1090-114 | FEMA Disaster Assistance Reform Act of 2015 |
+| PL 114-66 | 2015-10-07 | S.994-114 | To designate the facility of the United States Postal Service located at 1 Walter Hammond  |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-13 | SJRES.183-119 | International Affairs | A joint resolution to direct the removal of United States Armed Forces from hostilities wi |
+| 2026-03-26 | S.4225-119 | Armed Forces and National Security | DOULA for VA Act of 2026 |
+| 2026-03-26 | SJRES.154-119 | Finance and Financial Sector | A joint resolution providing for congressional disapproval under chapter 8 of title 5, Uni |
+| 2026-03-19 | S.4143-119 | Labor and Employment | Fair Wages for Incarcerated Workers Act of 2026 |
+| 2026-03-18 | S.4136-119 | Crime and Law Enforcement | Sentencing Commission Improvements Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: B001288` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

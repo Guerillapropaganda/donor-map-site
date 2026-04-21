@@ -117,28 +117,61 @@ donors: [[Koch Network - Charles Koch|Koch Network]] · [[Goldman Sachs]] · [[J
 ---
 
 <!-- auto:voting-record start -->
-**Key Votes**
 
-| 2018-12-20 | H.R. 695: Further Additional Continuing Appropriations Act, 2019 | **Yea** | Passed |
-| 2018-12-12 | H.Res. 1176: Providing for consideration of the conference report to accompany the bill (H.R. 2) to provide for the refo | **Aye** | Passed |
-| 2018-09-28 | H.R. 6760: Protecting Family and Small Business Tax Cuts Act of 2018 | **Yea** | Passed |
-| 2018-06-27 | H.R. 6136: Border Security and Immigration Reform Act of 2018 | **Aye** | Failed |
-| 2018-06-21 | H.R. 2: Agriculture and Nutrition Act of 2018 | **Yea** | Passed |
-| 2018-05-18 | H.R. 2: Agriculture and Nutrition Act of 2018 | **Nay** | Failed |
-| 2018-03-22 | H.R. 1625: Consolidated Appropriations Act, 2018 | **Yea** | Passed |
-| 2018-03-22 | H.Res. 796: Providing for consideration of H.R. 1625: Consolidated  Appropriations Act, 2018 | **Aye** | Passed |
-| 2018-02-09 | H.R. 1892: Further Extension of Continuing Appropriations Act, 2018; Department of Defense Appropriations Act, 2018; SUS | **Aye** | Passed |
-| 2018-01-18 | H.R. 195: Continuing appropriations through February 16, 2018 | **Yea** | Passed |
-| 2018-01-11 | S. 139: Rapid DNA Act of 2017 | **Yea** | Passed |
-| 2018-01-11 | H.Amdt. 510 (Amash) to S. 139: Amendment sought to replace the text of S. 139 with the text of H.R. 4124, the USA RIGHTS | **Nay** | Failed |
-| 2017-12-21 | H.R. 4667: Making further supplemental appropriations for the fiscal year ending September 30, 2018, for disaster assist | **Yea** | Passed |
-| 2017-12-21 | H.R. 1370: Department of Homeland Security Blue Campaign Authorization Act of 2017 | **Yea** | Passed |
-| 2017-12-20 | H.R. 1: Tax Cuts and Jobs Act | **Yea** | Passed |
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
-**Sources**
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 29 |
+| Substantive votes (Y/N) | 27 |
+| Votes with party majority | 26 |
+| Party-line loyalty | 96.3% |
+| Deviations from party | 1 |
 
-- [GovTrack: Paul Ryan](https://www.govtrack.us/congress/members/400351) (Tier 1) (NEEDS REVIEW)
+**Coverage:**
+
+- house 115/1: 17 votes
+- house 115/2: 12 votes
+
+**Most recent party-line deviations (top 10 of 1):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2018-05-18 | h205-115.2 | Nay | Y | HR 2 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 63 |
+| Enacted into law | 3 |
+| Top policy areas | Taxation · Economics and Public Finance · Health |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 115-435 | 2019-01-14 | HR.4174-115 | Directing the Clerk of the House of Representatives to make certain corrections in the enr |
+| PL 114-140 | 2016-03-30 | HR.1831-114 | Evidence-Based Policymaking Commission Act of 2015 |
+| — | 2004-11-19 | HR.5394-108 | H.R. 5394, An act to amend the Internal Revenue Code of 1986 to modify the taxation of arr |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2015-07-29 | HR.3291-114 | Health | Helping Hospitals Improve Patient Care Act of 2016 |
+| 2015-07-13 | HR.3038-114 | Transportation and Public Works | Providing for consideration of the bill (H.R. 2898) to provide drought relief in the State |
+| 2015-06-09 | HR.2688-114 | Families | A bill to block any action from being taken to finalize or give effect to a certain propos |
+| 2015-04-17 | HR.1890-114 | Foreign Trade and International Finance | Bipartisan Budget Act of 2015 |
+| 2015-04-17 | HR.1891-114 | Foreign Trade and International Finance | AGOA Extension and Enhancement Act of 2015 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: R000570` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:govtrack start -->
 | Metric | Value |

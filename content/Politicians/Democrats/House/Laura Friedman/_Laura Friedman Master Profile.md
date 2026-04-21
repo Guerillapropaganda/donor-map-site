@@ -144,6 +144,29 @@ top-donors: "[[NEA Fund for Children and Public Education]], [[Robert Garcia]], 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 10 |
+| Enacted into law | 0 |
+| Top policy areas | Emergency Management · Transportation and Public Works · Health |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-09 | HR.8217-119 | Crime and Law Enforcement | Next Gen Road Safety Act |
+| 2026-01-14 | HR.7062-119 | Transportation and Public Works | Build HUBS Act |
+| 2025-11-25 | HR.6298-119 | Transportation and Public Works | Safe and Affordable Transit Act |
+| 2025-09-02 | HR.5085-119 | Emergency Management | To exempt Federal actions related to the construction of infill housing from the requireme |
+| 2025-07-29 | HR.4796-119 | Health | Restoring Essential Healthcare Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: F000483` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Laura Friedman
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

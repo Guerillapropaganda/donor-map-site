@@ -356,3 +356,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2014 Filing](https://projects.propublica.org/nonprofits/organizations/386054714/2014)~~ (URL broken, archived by Ops)
 - ~~[2013 Filing](https://projects.propublica.org/nonprofits/organizations/386054714/2013)~~ (URL broken, archived by Ops)
 - ~~[2012 Filing](https://projects.propublica.org/nonprofits/organizations/386054714/2012)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 1 |
+| Leak sources | Paradise Papers - Appleby (1) |
+| Top jurisdictions | Bermuda (1) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| Interlocutory Limited | entity | Bermuda | Paradise Papers - Appleby |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: Ford Motor Company` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

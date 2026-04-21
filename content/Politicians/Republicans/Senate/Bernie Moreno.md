@@ -137,6 +137,29 @@ editorial-notes: "[RC 2026-04-18] Reviewed for launch-50 pass. Editorial section
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 18 |
+| Enacted into law | 0 |
+| Top policy areas | Taxation · Finance and Financial Sector · Immigration |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-12 | S.3889-119 | Finance and Financial Sector | American Lending Fairness Act of 2026 |
+| 2026-01-29 | S.3746-119 | Finance and Financial Sector | Stopping Transfers of Public Funds Abroad Act |
+| 2025-12-01 | S.3283-119 | Immigration | Exclusive Citizenship Act of 2025 |
+| 2025-10-30 | S.3089-119 | Crime and Law Enforcement | STOP Act |
+| 2025-10-06 | S.2976-119 | Taxation | To amend the Internal Revenue Code of 1986 to deny deduction for outsourcing payments. |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001242` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 #bernie-moreno #senate #ohio #crypto-industry #trump-backed #auto-dealer #class-analysis
 tags: #republican
 

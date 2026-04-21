@@ -159,24 +159,26 @@ top-policy-area: Health
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,385 |
-| Votes with party majority | 1,333 |
-| Party-line loyalty | 96.2% |
-| Deviations from party | 29 |
+| Roll-call votes tracked | 2,380 |
+| Substantive votes (Y/N) | 2,284 |
+| Votes with party majority | 2,218 |
+| Party-line loyalty | 97.1% |
+| Deviations from party | 43 |
 
 **Coverage:**
 
+- senate 117/1: 526 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 29):**
+**Most recent party-line deviations (top 10 of 43):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -193,6 +195,37 @@ top-policy-area: Health
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 94 |
+| Enacted into law | 3 |
+| Top policy areas | Health · Armed Forces and National Security · Transportation and Public Works |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-191 | 2024-12-23 | S.759-118 | Beagle Brigade Act of 2023 |
+| PL 117-226 | 2022-12-09 | S.3369-117 | Max Cleland VA Medical Center Act |
+| PL 117-66 | 2021-11-30 | S.1031-117 | To require the Comptroller General of the United States to conduct a study on disparities  |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-13 | SJRES.172-119 | International Affairs | A joint resolution to direct the removal of United States Armed Forces from hostilities wi |
+| 2026-03-25 | S.4195-119 | Health | Kira Johnson Act |
+| 2026-03-24 | S.4167-119 | Education | HBCU Research Capacity Act |
+| 2026-03-19 | SJRES.141-119 | Finance and Financial Sector | A joint resolution providing for congressional disapproval under chapter 8 of title 5, Uni |
+| 2026-03-19 | SJRES.140-119 | Finance and Financial Sector | A joint resolution providing for congressional disapproval under chapter 8 of title 5, Uni |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: W000790` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

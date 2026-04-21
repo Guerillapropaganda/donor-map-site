@@ -88,25 +88,30 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,014 |
-| Substantive votes (Y/N) | 1,905 |
-| Votes with party majority | 1,797 |
-| Party-line loyalty | 94.3% |
-| Deviations from party | 108 |
+| Roll-call votes tracked | 4,522 |
+| Substantive votes (Y/N) | 4,310 |
+| Votes with party majority | 4,106 |
+| Party-line loyalty | 95.3% |
+| Deviations from party | 204 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 87 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 108):**
+**Most recent party-line deviations (top 10 of 204):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -123,3 +128,36 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 162 |
+| Enacted into law | 6 |
+| Top policy areas | Public Lands and Natural Resources · International Affairs · Health |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-20 | 2025-06-20 | SJRES.31-119 | Providing for congressional disapproval under chapter 8 of title 5, United States Code, of |
+| PL 118-233 | 2025-01-04 | HR.6395-118 | H.R. 6395, Recognizing the Importance of Critical Minerals in Healthcare Act of 2023 |
+| PL 118-183 | 2024-12-23 | HR.7872-118 | Colorado River Salinity Control Fix Act |
+| PL 118-169 | 2024-12-23 | HR.4094-118 | Great Salt Lake Stewardship Act |
+| PL 116-79 | 2019-12-12 | HR.887-116 | To designate the facility of the United States Postal Service located at 877 East 1200 Sou |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-14 | S.4294-119 | — | A bill to require the Secretary of War to submit an annual report to Congress that assesse |
+| 2026-03-05 | S.4012-119 | Congress | Fiscal Commission Act |
+| 2026-03-04 | S.3989-119 | Health | Community TEAMS Act of 2026 |
+| 2026-03-03 | S.3963-119 | Labor and Employment | Rural Emergency Response Support Act |
+| 2026-02-05 | S.3800-119 | Environmental Protection | ePermit Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C001114` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

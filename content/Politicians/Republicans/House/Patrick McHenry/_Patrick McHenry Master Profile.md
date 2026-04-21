@@ -133,23 +133,28 @@ donors: [[Securities & Investment Industry]], Commercial Banks Bloc, [[Citadel -
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–118th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–118th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,272 |
-| Substantive votes (Y/N) | 1,020 |
-| Votes with party majority | 953 |
-| Party-line loyalty | 93.4% |
-| Deviations from party | 67 |
+| Roll-call votes tracked | 4,403 |
+| Substantive votes (Y/N) | 3,989 |
+| Votes with party majority | 3,801 |
+| Party-line loyalty | 95.3% |
+| Deviations from party | 188 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 
-**Most recent party-line deviations (top 10 of 67):**
+**Most recent party-line deviations (top 10 of 188):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -166,6 +171,37 @@ donors: [[Securities & Investment Industry]], Commercial Banks Bloc, [[Citadel -
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 113 |
+| Enacted into law | 3 |
+| Top policy areas | Finance and Financial Sector · Taxation · Government Operations and Politics |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-109 | 2024-11-25 | HR.807-118 | Working Dog Commemorative Coin Act |
+| PL 118-5 | 2023-06-03 | HR.3746-118 | Providing for consideration of the bill (H.R. 3746) to provide for a responsible increase  |
+| — | 2006-06-12 | HR.5585-109 | H.R. 5585, Financial Netting Improvements Act of 2006 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2024-12-04 | HR.10293-118 | Government Operations and Politics | To extend certain authorities under the Defense Production Act of 1950. |
+| 2024-02-23 | HR.7440-118 | Finance and Financial Sector | H.R. 7440, Financial Services Innovation Act of 2024 |
+| 2023-07-20 | HR.4766-118 | Finance and Financial Sector | Clarity for Payment Stablecoins Act of 2023 |
+| 2023-06-12 | HR.4035-118 | Finance and Financial Sector | Protecting Small Business Information Act of 2023 |
+| 2023-06-12 | HR.4036-118 | Finance and Financial Sector | Accountability through Confirmation Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001156` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

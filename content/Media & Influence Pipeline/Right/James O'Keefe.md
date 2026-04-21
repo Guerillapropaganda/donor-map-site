@@ -176,3 +176,24 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 - ~~[SourceWatch: Bradley Impact Fund](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Bradley_Impact_Fund)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[Center for Media & Democracy: Bradley Funneled $86 Million to Right-Wing Infrastructure (2023)](https://www.exposedbycmd.org/2023/12/13/bradley-funneled-86-million-to-right-wing-litigation-policy-media-youth-groups-and-higher-education-in-2022/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 2 |
+| Leak sources | Offshore Leaks (2) |
+| Top jurisdictions | Undetermined (1) · Cook Islands (1) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| James O'keefe | entity | Undetermined | Offshore Leaks |
+| O'Keefe Family Irrevocable Trust | entity | Cook Islands | Offshore Leaks |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: James O'Keefe` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

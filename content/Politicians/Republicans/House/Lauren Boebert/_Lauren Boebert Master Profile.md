@@ -134,21 +134,22 @@ SORT title ASC
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,636 |
-| Votes with party majority | 1,418 |
-| Party-line loyalty | 86.7% |
-| Deviations from party | 218 |
+| Roll-call votes tracked | 2,724 |
+| Substantive votes (Y/N) | 2,577 |
+| Votes with party majority | 2,120 |
+| Party-line loyalty | 82.3% |
+| Deviations from party | 457 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 218):**
+**Most recent party-line deviations (top 10 of 457):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -165,6 +166,35 @@ SORT title ASC
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 70 |
+| Enacted into law | 1 |
+| Top policy areas | Public Lands and Natural Resources · Government Operations and Politics · Energy |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-227 | 2025-01-04 | HR.2997-118 | CONVEY Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-05 | HR.7817-119 | Health | No Federal Tax Dollars for Illegal Aliens Health Insurance Act of 2026 |
+| 2026-02-20 | HR.7604-119 | Government Operations and Politics | Contracting America First Act |
+| 2026-02-11 | HR.7487-119 | Water Resources Development | Rural Jobs and Hydropower Expansion Act |
+| 2025-05-07 | HR.3231-119 | Energy | American Energy Act |
+| 2025-04-30 | HR.3095-119 | Government Operations and Politics | To direct the United States Postal Service to designate single, unique ZIP Codes for certa |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: B000825` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

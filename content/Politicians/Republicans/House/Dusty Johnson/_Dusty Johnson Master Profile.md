@@ -114,25 +114,28 @@ top-policy-area: Agriculture and Food
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 116th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,707 |
-| Votes with party majority | 1,655 |
-| Party-line loyalty | 97.0% |
-| Deviations from party | 52 |
+| Roll-call votes tracked | 3,678 |
+| Substantive votes (Y/N) | 3,610 |
+| Votes with party majority | 3,493 |
+| Party-line loyalty | 96.8% |
+| Deviations from party | 117 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 52):**
+**Most recent party-line deviations (top 10 of 117):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -149,6 +152,36 @@ top-policy-area: Agriculture and Food
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 127 |
+| Enacted into law | 2 |
+| Top policy areas | Agriculture and Food · Native Americans · Transportation and Public Works |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-61 | 2025-12-19 | HR.165-119 | Wounded Knee Massacre Memorial and Sacred Site Act |
+| PL 116-228 | 2020-12-21 | HR.2454-116 | To designate the facility of the United States Postal Service located at 123 East Sharpfis |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-26 | HR.8104-119 | Agriculture and Food | Fertilizer Transparency Act of 2026 |
+| 2026-02-25 | HR.7698-119 | Native Americans | Tribal Firearm Access Act |
+| 2026-02-25 | HR.7699-119 | Native Americans | Tribal Police Department Parity Act |
+| 2026-02-04 | HR.7364-119 | Crime and Law Enforcement | Kamisha's Law |
+| 2026-02-03 | HR.7331-119 | Water Resources Development | Dakota Mainstem Water Supply Project Feasibility Study Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: J000301` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Dusty Johnson
 

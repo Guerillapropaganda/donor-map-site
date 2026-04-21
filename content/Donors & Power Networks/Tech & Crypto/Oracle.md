@@ -365,3 +365,26 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 11 |
+| Leak sources | Paradise Papers - Malta corporate registry (6) · Panama Papers (2) · Paradise Papers - Bahamas corporate registry (1) · Paradise Papers - Nevis corporate registry (1) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| SANNE GROUP | intermediary | — | Panama Papers |
+| BUSCH, RICHARD EDWARD | intermediary | — | Panama Papers |
+| Internal User | intermediary | — | Paradise Papers - Bahamas corporate registry |
+| Morning Star Holdings Limited | intermediary | — | Paradise Papers - Nevis corporate registry |
+| ROBERTO STIVALA | officer | — | Paradise Papers - Malta corporate registry |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: Oracle` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

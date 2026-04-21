@@ -123,3 +123,32 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 35 |
+| Enacted into law | 1 |
+| Top policy areas | Transportation and Public Works · Government Operations and Politics · Commerce |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-260 | 2025-01-04 | HR.9285-118 | H.R. 9285, a bill to designate the facility of the United States Postal Service located at |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-02 | HR.8186-119 | Transportation and Public Works | Roadway Resiliency Act |
+| 2026-02-24 | HR.7665-119 | Agriculture and Food | Friends in the Field Act |
+| 2026-02-04 | HR.7376-119 | Environmental Protection | H.R. 7376, Local Water Protection Act |
+| 2026-01-21 | HR.7191-119 | Transportation and Public Works | Fatigued Pilot Protection Act |
+| 2026-01-14 | HR.7077-119 | Science, Technology, Communications | To amend the Research and Development, Competition, and Innovation Act to require a plan f |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S001221` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

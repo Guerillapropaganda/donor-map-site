@@ -150,11 +150,11 @@ donors: [[Telecom Industry]] · [[Silicon Valley Donors]] · [[Defense Contracto
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,682 |
-| Votes with party majority | 2,470 |
-| Party-line loyalty | 92.1% |
-| Deviations from party | 54 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,613 |
+| Votes with party majority | 3,397 |
+| Party-line loyalty | 94.0% |
+| Deviations from party | 58 |
 
 **Coverage:**
 
@@ -162,12 +162,14 @@ donors: [[Telecom Industry]] · [[Silicon Valley Donors]] · [[Defense Contracto
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 54):**
+**Most recent party-line deviations (top 10 of 58):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -184,6 +186,39 @@ donors: [[Telecom Industry]] · [[Silicon Valley Donors]] · [[Defense Contracto
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 307 |
+| Enacted into law | 6 |
+| Top policy areas | Health · Taxation · Government Operations and Politics |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-200 | 2024-12-23 | S.3938-118 | To name the Department of Veterans Affairs community-based outpatient clinic in Lynchburg, |
+| PL 117-200 | 2022-10-11 | S.1098-117 | Joint Consolidation Loan Separation Act |
+| PL 115-58 | 2017-09-14 | SJRES.49-115 | Condemning the violence and domestic terrorist attack that took place during events betwee |
+| PL 113-273 | 2014-12-18 | S.1000-113 | Chesapeake Bay Accountability and Recovery Act of 2013 |
+| PL 113-101 | 2014-05-09 | S.994-113 | Digital Accountability and Transparency Act of 2013 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-15 | S.4302-119 | — | A bill to improve services provided to taxpayers by the Internal Revenue Service. |
+| 2026-03-26 | S.4233-119 | Health | Save Struggling Hospitals Act |
+| 2026-03-19 | SJRES.135-119 | Finance and Financial Sector | A joint resolution providing for congressional disapproval under chapter 8 of title 5, Uni |
+| 2026-03-17 | S.4118-119 | Health | Hospice CARE Act of 2026 |
+| 2026-03-11 | S.4046-119 | Congress | Economy of the Future Commission Act of 2026 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: W000805` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

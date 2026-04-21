@@ -120,21 +120,22 @@ top-donors: "[[MAJORITY PAC]], [[Morgan Stanley]], [[National Victory Action Fun
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,602 |
-| Votes with party majority | 1,447 |
-| Party-line loyalty | 90.3% |
-| Deviations from party | 155 |
+| Roll-call votes tracked | 2,724 |
+| Substantive votes (Y/N) | 2,541 |
+| Votes with party majority | 2,355 |
+| Party-line loyalty | 92.7% |
+| Deviations from party | 186 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 155):**
+**Most recent party-line deviations (top 10 of 186):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -151,6 +152,35 @@ top-donors: "[[MAJORITY PAC]], [[Morgan Stanley]], [[National Victory Action Fun
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 38 |
+| Enacted into law | 1 |
+| Top policy areas | Health · Commerce · Government Operations and Politics |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-269 | 2025-01-04 | HR.9775-118 | To designate the facility of the United States Postal Service located at 119 North Anderso |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-05 | HR.7850-119 | Commerce | Farm Freedom to Repair Act |
+| 2026-03-05 | HR.7851-119 | Agriculture and Food | Checkoff Transparency Act |
+| 2026-03-05 | HR.7849-119 | Environmental Protection | Farm Equipment Safety Act |
+| 2025-05-06 | HR.3222-119 | Health | SMART Health Care Act |
+| 2025-04-24 | HR.3021-119 | Health | Empowering Patient Choice of Medical Care Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S000929` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Victoria Spartz
 

@@ -89,25 +89,30 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,728 |
-| Votes with party majority | 1,664 |
-| Party-line loyalty | 96.3% |
-| Deviations from party | 64 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,848 |
+| Votes with party majority | 4,707 |
+| Party-line loyalty | 97.1% |
+| Deviations from party | 141 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 64):**
+**Most recent party-line deviations (top 10 of 141):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -124,3 +129,36 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 189 |
+| Enacted into law | 6 |
+| Top policy areas | Science, Technology, Communications · Energy · Armed Forces and National Security |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-36 | 2021-08-06 | HR.1002-117 | DEBAR Act of 2021 |
+| PL 115-400 | 2018-12-31 | HR.4227-115 | Vehicular Terrorism Prevention Act of 2017 |
+| PL 114-211 | 2016-07-29 | HR.4925-114 | A bill to designate the facility of the United States Postal Service located at 229 West M |
+| PL 114-45 | 2015-08-07 | HR.212-114 | Drinking Water Protection Act |
+| PL 113-269 | 2014-12-18 | HR.5705-113 | Propane Education and Research Enhancement Act of 2014 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-18 | HR.7970-119 | Crime and Law Enforcement | STOP Nitazenes Act |
+| 2026-02-05 | HR.7390-119 | Transportation and Public Works | SELF DRIVE Act of 2026 |
+| 2026-01-27 | HR.7257-119 | Energy | SECURE Grid Act |
+| 2025-12-10 | HR.6577-119 | Taxation | Stop Penalizing Working Seniors Act |
+| 2025-09-04 | HR.5147-119 | Science, Technology, Communications | WIRELESS Leadership Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: L000566` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

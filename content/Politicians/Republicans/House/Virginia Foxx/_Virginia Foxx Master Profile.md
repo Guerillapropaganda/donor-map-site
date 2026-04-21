@@ -128,25 +128,30 @@ top-policy-area: Government Operations and Politics
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,717 |
-| Votes with party majority | 1,651 |
-| Party-line loyalty | 96.2% |
-| Deviations from party | 66 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,760 |
+| Votes with party majority | 4,502 |
+| Party-line loyalty | 94.6% |
+| Deviations from party | 258 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 66):**
+**Most recent party-line deviations (top 10 of 258):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -163,6 +168,39 @@ top-policy-area: Government Operations and Politics
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 134 |
+| Enacted into law | 10 |
+| Top policy areas | Government Operations and Politics · Education · Labor and Employment |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-273 | 2022-12-27 | HR.4250-117 | H.R. 4250, War Crimes Rewards Expansion Act |
+| PL 117-233 | 2022-12-19 | HR.5481-117 | To name the Department of Veterans Affairs community-based outpatient clinic in Forest Cit |
+| PL 116-103 | 2019-12-30 | HR.150-116 | GREAT Act |
+| PL 115-204 | 2018-07-23 | HR.951-115 | A bill to extend the deadline for commencement of construction of a hydroelectric project. |
+| PL 115-11 | 2017-03-27 | HJRES.37-115 | A joint resolution disapproving the rule submitted by the Department of Defense, the Gener |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-26 | HR.8102-119 | Labor and Employment | Workforce Investments Accountability Act |
+| 2026-02-26 | HR.7723-119 | Families | H.R. 7723, Safeguarding Taxpayer Dollars in Child Care Act of 2026 |
+| 2025-11-20 | HR.6188-119 | Arts, Culture, Religion | To amend title 36, United States Code, to designate the composition known as "Here Rests i |
+| 2025-11-19 | HR.6139-119 | Labor and Employment | Union Members Right to Know Act |
+| 2025-10-14 | HR.5749-119 | Government Operations and Politics | H.R. 5749, Official Time Reporting Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: F000450` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #virginia-foxx #republican #north-carolina #house #committee-chair #education #for-profit-colleges #labor #student-debt #phase-6-gavel-power
 

@@ -163,22 +163,24 @@ donors: Healthcare Industry · [[Fanjul Family - Florida Crystals]]
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,152 |
-| Substantive votes (Y/N) | 2,067 |
-| Votes with party majority | 1,946 |
-| Party-line loyalty | 94.1% |
-| Deviations from party | 76 |
+| Roll-call votes tracked | 3,101 |
+| Substantive votes (Y/N) | 2,996 |
+| Votes with party majority | 2,784 |
+| Party-line loyalty | 92.9% |
+| Deviations from party | 166 |
 
 **Coverage:**
 
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 76):**
+**Most recent party-line deviations (top 10 of 166):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -195,6 +197,38 @@ donors: Healthcare Industry · [[Fanjul Family - Florida Crystals]]
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 335 |
+| Enacted into law | 4 |
+| Top policy areas | Finance and Financial Sector · Government Operations and Politics · International Affairs |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-153 | 2024-12-17 | S.310-118 | Disaster Contract Improvement Act |
+| PL 118-97 | 2024-10-01 | S.679-118 | GAO Database Modernization Act of 2024 |
+| PL 118-43 | 2024-03-18 | S.206-118 | END FENTANYL Act |
+| PL 117-81 | 2021-12-27 | S.1605-117 | To designate the National Pulse Memorial located at 1912 South Orange Avenue, Orlando, Flo |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-15 | S.4295-119 | — | A bill to prohibit aid that would benefit Hamas, to place restrictions on funding for Unit |
+| 2026-04-15 | S.4296-119 | — | A bill to amend the Anti-Boycott Act of 2018 to apply the provisions of that Act to intern |
+| 2026-03-26 | S.4229-119 | Armed Forces and National Security | SCHEDULES Act of 2026 |
+| 2026-03-26 | S.4231-119 | Armed Forces and National Security | A bill to amend title 38, United States Code, to increase flexibility in the transferabili |
+| 2026-03-24 | S.4184-119 | Social Welfare | Senior Citizens’ Freedom to Work Act of 2026 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S001217` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

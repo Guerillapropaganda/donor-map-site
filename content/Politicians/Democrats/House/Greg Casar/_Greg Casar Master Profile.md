@@ -107,6 +107,29 @@ top-policy-area: "Armed Forces and National Security"
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 11 |
+| Enacted into law | 0 |
+| Top policy areas | Agriculture and Food · Energy · Labor and Employment |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-26 | HR.8097-119 | Sports and Recreation | Home Team Act of 2026 |
+| 2026-03-17 | HR.7955-119 | Finance and Financial Sector | BETS OFF Act |
+| 2026-02-26 | HR.7728-119 | Energy | Connect the Grid Act |
+| 2025-08-19 | HR.4992-119 | Emergency Management | FEMA Critical Staffing Act |
+| 2025-07-23 | HR.4640-119 | Commerce | Stop AI Price Gouging and Wage Fixing Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C001131` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 <!-- auto:congress-bills start -->
 | Metric | Value |
 |--------|-------|

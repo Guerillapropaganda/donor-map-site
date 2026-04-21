@@ -121,11 +121,11 @@ top-policy-area: International Affairs
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,718 |
-| Votes with party majority | 2,560 |
-| Party-line loyalty | 94.2% |
-| Deviations from party | 81 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,642 |
+| Votes with party majority | 3,346 |
+| Party-line loyalty | 91.9% |
+| Deviations from party | 218 |
 
 **Coverage:**
 
@@ -133,12 +133,14 @@ top-policy-area: International Affairs
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 81):**
+**Most recent party-line deviations (top 10 of 218):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -155,6 +157,36 @@ top-policy-area: International Affairs
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 239 |
+| Enacted into law | 2 |
+| Top policy areas | Taxation · Health · Foreign Trade and International Finance |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 115-414 | 2019-01-03 | S.2276-115 | GAO-IG Act |
+| PL 115-225 | 2018-07-31 | S.1182-115 | The American Legion 100th Anniversary Commemorative Coin Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-12 | S.4069-119 | Science, Technology, Communications | AI-Ready Bio-Data Standards Act |
+| 2026-03-12 | S.4070-119 | Health | Diabetes Foot Health Access and Modernization Act of 2026 |
+| 2026-03-05 | S.4023-119 | Public Lands and Natural Resources | America’s Living Library Act |
+| 2026-03-03 | S.3975-119 | Taxation | IRA Charitable Rollover Facilitation and Enhancement Act of 2025 |
+| 2026-02-26 | S.3950-119 | Transportation and Public Works | SAFER Transport Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: Y000064` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Todd Young
 

@@ -172,19 +172,20 @@ top-policy-area: Health
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,272 |
-| Substantive votes (Y/N) | 1,011 |
-| Votes with party majority | 920 |
-| Party-line loyalty | 91.0% |
-| Deviations from party | 91 |
+| Roll-call votes tracked | 2,239 |
+| Substantive votes (Y/N) | 1,967 |
+| Votes with party majority | 1,821 |
+| Party-line loyalty | 92.6% |
+| Deviations from party | 146 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 
-**Most recent party-line deviations (top 10 of 91):**
+**Most recent party-line deviations (top 10 of 146):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -201,6 +202,29 @@ top-policy-area: Health
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 27 |
+| Enacted into law | 0 |
+| Top policy areas | Health · Environmental Protection · Crime and Law Enforcement |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2024-05-21 | HR.8470-118 | Health | Helping Families Heal Act of 2024 |
+| 2023-07-27 | HR.4972-118 | Crime and Law Enforcement | End Solitary Confinement Act |
+| 2023-07-26 | HR.4901-118 | Health | Reproductive Health Care Accessibility Act |
+| 2023-07-18 | HR.4699-118 | Crime and Law Enforcement | The People’s Response Act |
+| 2023-07-14 | HJRES.82-118 | Civil Rights and Liberties, Minority Issues | A joint resolution expressing the sense of Congress that the article of amendment commonly |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: B001224` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

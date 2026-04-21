@@ -147,6 +147,29 @@ top-donors: "[[Amgen Inc]], [[Julia Brownley]], [[Nancy Pelosi]], [[Robert Garci
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 7 |
+| Enacted into law | 0 |
+| Top policy areas | Environmental Protection · Water Resources Development · Foreign Trade and International Finance |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2025-12-11 | HR.6639-119 | Water Resources Development | Water Agency and Transparency Enhancement Review (WATER) Act |
+| 2025-12-11 | HR.6641-119 | Water Resources Development | Central Valley Water Solution Act |
+| 2025-12-11 | HR.6640-119 | Environmental Protection | Build Now Act |
+| 2025-08-01 | HR.4849-119 | Taxation | Make Billionaires Pay Their Fair Share Act |
+| 2025-06-09 | HR.3845-119 | Environmental Protection | To amend the Endangered Species Act of 1973 to expand the exemption process under section  |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: G000605` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Adam Gray
 
 ## Who They Are

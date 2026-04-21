@@ -138,11 +138,11 @@ donors: [[Lockheed Martin]] [[Northrop Grumman]]
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,703 |
-| Votes with party majority | 2,620 |
-| Party-line loyalty | 96.9% |
-| Deviations from party | 42 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,637 |
+| Votes with party majority | 3,442 |
+| Party-line loyalty | 94.6% |
+| Deviations from party | 153 |
 
 **Coverage:**
 
@@ -150,12 +150,14 @@ donors: [[Lockheed Martin]] [[Northrop Grumman]]
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 42):**
+**Most recent party-line deviations (top 10 of 153):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -172,6 +174,39 @@ donors: [[Lockheed Martin]] [[Northrop Grumman]]
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 314 |
+| Enacted into law | 17 |
+| Top policy areas | Science, Technology, Communications · Transportation and Public Works · Public Lands and Natural Resources |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-80 | 2026-03-20 | S.4138-119 | A bill to waive the 60-day notice requirement for the posthumous honorary promotion of Cap |
+| PL 118-202 | 2024-12-23 | S.3959-118 | Transportation Security Screening Modernization Act of 2024 |
+| PL 117-316 | 2022-12-27 | S.558-117 | FLOODS Act |
+| PL 117-117 | 2022-05-06 | S.400-117 | William T. Coleman, Jr. and Norman Y. Mineta Department of Transportation Headquarters Act |
+| PL 116-271 | 2020-12-31 | S.914-116 | COASTAL Implementation Act of 2019 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-23 | S.4164-119 | Congress | A bill to make technical corrections to the National Defense Authorization Act for Fiscal  |
+| 2026-03-19 | S.4154-119 | Law | Research and Oversight of AI in Courts Act of 2026 |
+| 2026-02-05 | S.3791-119 | Transportation and Public Works | Regional Ocean Partnerships Reauthorization Act of 2026 |
+| 2026-01-15 | S.3678-119 | International Affairs | Voluntary Limited Accreditation for Adoption Services Act |
+| 2025-12-18 | S.3565-119 | Science, Technology, Communications | SUCCESS for BEAD Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: W000437` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

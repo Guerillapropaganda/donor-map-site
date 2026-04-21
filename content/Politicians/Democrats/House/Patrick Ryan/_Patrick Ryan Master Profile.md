@@ -120,18 +120,19 @@ top-donors: "[[MoveOn.org Political Action]], [[National Multifamily Housing Cou
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,689 |
-| Votes with party majority | 1,574 |
-| Party-line loyalty | 93.2% |
+| Roll-call votes tracked | 1,855 |
+| Substantive votes (Y/N) | 1,818 |
+| Votes with party majority | 1,703 |
+| Party-line loyalty | 93.7% |
 | Deviations from party | 115 |
 
 **Coverage:**
 
+- house 117/2: 129 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
@@ -154,6 +155,29 @@ top-donors: "[[MoveOn.org Political Action]], [[National Multifamily Housing Cou
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 35 |
+| Enacted into law | 0 |
+| Top policy areas | Armed Forces and National Security · Housing and Community Development · Taxation |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2025-12-11 | HR.6671-119 | Transportation and Public Works | REPAIR Infrastructure Act |
+| 2025-11-28 | HR.6325-119 | Armed Forces and National Security | To require the Secretary of Defense to report on the use of other transaction authority, a |
+| 2025-11-28 | HR.6326-119 | Armed Forces and National Security | To accelerate accreditation and access to sensitive compartmented information facilities f |
+| 2025-07-25 | HR.4768-119 | Armed Forces and National Security | Health Care Fairness for Military Families Act of 2025 |
+| 2025-06-30 | HR.4260-119 | Education | To ensure the appropriate administration of the Impact Aid program. |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: R000579` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Patrick Ryan
 
@@ -296,3 +320,23 @@ The simultaneous presence of AIPAC, DMFI, NORPAC, and pro-Israel giving in a com
 
 
 
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 1 |
+| Leak sources | Paradise Papers - Appleby (1) |
+| Top jurisdictions | Cayman Islands (1) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| C.I. Enterprises Limited | entity | Cayman Islands | Paradise Papers - Appleby |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: Patrick Ryan` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

@@ -138,6 +138,35 @@ top-donors: "[[National Rifle Association]], [[Drummond Co.]], [[Lockheed Martin
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 58 |
+| Enacted into law | 1 |
+| Top policy areas | Transportation and Public Works · Armed Forces and National Security · Taxation |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-18 | 2025-06-12 | S.160-119 | Aerial Firefighting Enhancement Act of 2025 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-15 | S.4304-119 | — | A bill to amend title 38, United States Code, to authorize the Secretary of Veterans Affai |
+| 2026-03-26 | S.4274-119 | — | WINGS Act |
+| 2026-03-26 | S.4220-119 | Armed Forces and National Security | Veterans Health Administration Novel Therapeutics Preparedness Act |
+| 2026-03-26 | S.4256-119 | Transportation and Public Works | Airmen Certificate Accessibility Act |
+| 2026-03-23 | S.4161-119 | Armed Forces and National Security | Maverick Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S001232` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Tim Sheehy
 
 ## Who They Are

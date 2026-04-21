@@ -123,26 +123,30 @@ top-donors: "[[American Federation of State County & Municipal Employees P E O P
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 116th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,152 |
-| Substantive votes (Y/N) | 2,132 |
-| Votes with party majority | 1,987 |
-| Party-line loyalty | 93.2% |
-| Deviations from party | 52 |
+| Roll-call votes tracked | 4,311 |
+| Substantive votes (Y/N) | 4,168 |
+| Votes with party majority | 3,899 |
+| Party-line loyalty | 93.5% |
+| Deviations from party | 175 |
 
 **Coverage:**
 
+- house 115/1: 710 votes
+- house 115/2: 500 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 52):**
+**Most recent party-line deviations (top 10 of 175):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -159,6 +163,39 @@ top-donors: "[[American Federation of State County & Municipal Employees P E O P
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 224 |
+| Enacted into law | 5 |
+| Top policy areas | Health · Armed Forces and National Security · Science, Technology, Communications |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-197 | 2024-12-23 | S.3448-118 | Never Again Education Reauthorization Act of 2023 |
+| PL 118-192 | 2024-12-23 | S.932-118 | No CORRUPTION Act |
+| PL 117-204 | 2022-10-17 | S.958-117 | Maximizing Outcomes through Better Investments in Lifesaving Equipment for (MOBILE) Health |
+| — | 2021-02-03 | S.198-117 | Data Mapping to Save Moms’ Lives Act |
+| PL 116-102 | 2019-12-24 | S.737-116 | Building Blocks of STEM Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | S.4318-119 | — | A bill to amend title 39, United States Code, to extend the authority of the United States |
+| 2026-04-13 | SJRES.164-119 | Finance and Financial Sector | A joint resolution providing for congressional disapproval under chapter 8 of title 5, Uni |
+| 2026-03-26 | S.4263-119 | Labor and Employment | Cyber Ready Workforce Act |
+| 2026-03-26 | S.4241-119 | Commerce | Boosting Housing Supply through Small Businesses Act of 2026 |
+| 2026-03-18 | S.4128-119 | Government Operations and Politics | No Self-Promotion with Public Dollars Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: R000608` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Jacky Rosen
 

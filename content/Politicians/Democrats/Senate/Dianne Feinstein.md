@@ -341,11 +341,11 @@ The final-years cognitive decline exposes the class infrastructure beneath the i
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,561 |
-| Substantive votes (Y/N) | 1,393 |
-| Votes with party majority | 1,305 |
-| Party-line loyalty | 93.7% |
-| Deviations from party | 23 |
+| Roll-call votes tracked | 2,510 |
+| Substantive votes (Y/N) | 2,228 |
+| Votes with party majority | 2,136 |
+| Party-line loyalty | 95.9% |
+| Deviations from party | 27 |
 
 **Coverage:**
 
@@ -353,25 +353,60 @@ The final-years cognitive decline exposes the class infrastructure beneath the i
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 243 votes
 
-**Most recent party-line deviations (top 10 of 23):**
+**Most recent party-line deviations (top 10 of 27):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
 | 2023-07-20 | s194-118.1 | Nay | Y | — |
 | 2023-06-01 | s145-118.1 | Nay | Y | — |
+| 2022-05-04 | s158-117.2 | Yea | N | — |
+| 2021-12-07 | s484-117.1 | Nay | Y | — |
+| 2021-05-26 | s213-117.1 | Nay | Y | — |
+| 2021-02-05 | s47-117.1 | Yea | N | — |
 | 2020-07-01 | s129-116.2 | Yea | N | — |
 | 2020-05-13 | s89-116.2 | Nay | Y | — |
 | 2019-02-05 | s16-116.1 | Nay | Y | S. 1 |
 | 2019-01-29 | s12-116.1 | Nay | Y | S. 1 |
-| 2019-01-28 | s11-116.1 | Nay | Y | S. 1 |
-| 2018-11-15 | s243-115.2 | Nay | Y | S.J.Res. 65 |
-| 2018-11-13 | s240-115.2 | Nay | Y | S. 140 |
-| 2018-06-28 | s142-115.2 | Nay | Y | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 835 |
+| Enacted into law | 25 |
+| Top policy areas | Foreign Trade and International Finance · Crime and Law Enforcement · Private Legislation |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-161 | 2022-07-29 | S.144-117 | Desert Sage Youth Wellness Center Access Improvement Act |
+| PL 117-99 | 2022-03-14 | S.854-117 | Methamphetamine Response Act of 2021 |
+| PL 115-307 | 2018-12-11 | S.1768-115 | National Earthquake Hazards Reduction Program Reauthorization Act of 2018 |
+| PL 115-126 | 2018-02-14 | S.534-115 | Protecting Young Victims from Sexual Abuse Act of 2017 |
+| PL 114-154 | 2016-05-16 | S.32-114 | Transnational Drug Trafficking Act of 2015 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2023-09-13 | S.2794-118 | Crime and Law Enforcement | Stopping the Fraudulent Sales of Firearms Act |
+| 2023-07-27 | S.2697-118 | Agriculture and Food | Clean Drinking Water for Rural Communities Act of 2023 |
+| 2023-07-27 | S.2698-118 | Agriculture and Food | Agricultural Emergency Relief Act of 2023 |
+| 2023-07-27 | S.2696-118 | Agriculture and Food | EQIP Water Conservation Act of 2023 |
+| 2023-07-26 | S.2527-118 | Armed Forces and National Security | Military Recreational Land Act of 2023 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: F000062` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 
 ### Committee Assignments (Congress.gov)

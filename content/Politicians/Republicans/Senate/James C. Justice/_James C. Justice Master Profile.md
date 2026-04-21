@@ -77,3 +77,26 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 10 |
+| Enacted into law | 0 |
+| Top policy areas | Public Lands and Natural Resources · Crime and Law Enforcement · Energy |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-15 | S.4309-119 | — | A bill to amend title 49, United States Code, to establish a pilot program for small, nonl |
+| 2026-04-15 | S.4310-119 | — | A bill to amend the Internal Revenue Code of 1986 to allow a deduction for certain overtim |
+| 2026-03-17 | S.4112-119 | Taxation | To amend the Internal Revenue Code of 1986 to extend the credit period for the production  |
+| 2025-12-10 | S.3417-119 | Commerce | Main Street Lending Improvement Act of 2025 |
+| 2025-09-29 | S.2933-119 | Public Lands and Natural Resources | A bill to redesignate a playground in the New River Gorge National Park and Preserve in th |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: J000312` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

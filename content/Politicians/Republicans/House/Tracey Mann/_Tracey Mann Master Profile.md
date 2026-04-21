@@ -116,21 +116,22 @@ top-policy-area: Health
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,723 |
-| Votes with party majority | 1,642 |
-| Party-line loyalty | 95.3% |
-| Deviations from party | 81 |
+| Roll-call votes tracked | 2,724 |
+| Substantive votes (Y/N) | 2,688 |
+| Votes with party majority | 2,533 |
+| Party-line loyalty | 94.2% |
+| Deviations from party | 155 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 81):**
+**Most recent party-line deviations (top 10 of 155):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -147,6 +148,35 @@ top-policy-area: Health
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 59 |
+| Enacted into law | 1 |
+| Top policy areas | Transportation and Public Works · Health · Taxation |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-91 | 2022-03-10 | HR.2044-117 | A bill to designate the facility of the United States Postal Service located at 17 East Ma |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-02 | HR.8180-119 | Finance and Financial Sector | CFTC International Operational Improvements Act of 2026 |
+| 2026-03-20 | HR.8034-119 | Taxation | Protecting America’s Small Oil and Gas Producers and Rural Jobs Act |
+| 2026-02-10 | HR.7468-119 | Taxation | First-Time Home Buyer Empowerment Act |
+| 2026-01-27 | HR.7261-119 | Transportation and Public Works | Motor Carrier Safety Screening Modernization Act |
+| 2025-12-18 | HR.6874-119 | Transportation and Public Works | Roadway Safety Modernization Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M000871` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Tracey Mann
 

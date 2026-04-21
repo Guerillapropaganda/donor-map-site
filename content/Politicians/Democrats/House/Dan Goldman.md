@@ -135,6 +135,29 @@ urls-first-triaged: "2026-04-15"
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 45 |
+| Enacted into law | 0 |
+| Top policy areas | Immigration · Crime and Law Enforcement · Education |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-09 | HR.7869-119 | Housing and Community Development | RAD Conversion Continuity Act |
+| 2026-02-25 | HR.7692-119 | Law | Supreme Court Ethics and Investigations Act |
+| 2026-02-24 | HR.7658-119 | Agriculture and Food | Enhanced Cybersecurity for SNAP Act of 2026 |
+| 2026-02-24 | HR.7659-119 | Public Lands and Natural Resources | A bill to designate the Pride flag as an authorized flag eligible for display at units of  |
+| 2026-02-17 | HR.7591-119 | Education | Secure Firearm Storage and Suicide Prevention Act of 2026 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: G000599` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 #dan-goldman #house #new-york #levi-strauss-heir #impeachment-lawyer #israel-hawk #class-analysis #inherited-wealth #democrat
 tags: #democrat
 

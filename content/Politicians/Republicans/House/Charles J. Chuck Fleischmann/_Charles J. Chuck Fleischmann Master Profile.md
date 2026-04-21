@@ -89,25 +89,30 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,726 |
-| Votes with party majority | 1,573 |
-| Party-line loyalty | 91.1% |
-| Deviations from party | 153 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,847 |
+| Votes with party majority | 4,568 |
+| Party-line loyalty | 94.2% |
+| Deviations from party | 279 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 153):**
+**Most recent party-line deviations (top 10 of 279):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -124,3 +129,26 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 42 |
+| Enacted into law | 0 |
+| Top policy areas | Government Operations and Politics · Economics and Public Finance · Native Americans |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2025-10-08 | HR.5712-119 | Science, Technology, Communications | Quantum LEAP Act of 2025 |
+| 2025-07-21 | HR.4553-119 | Economics and Public Finance | Providing for consideration of the bill (H.R. 4553) making appropriations for energy and w |
+| 2025-04-09 | HR.2768-119 | Public Lands and Natural Resources | H.R. 2768, Benton MacKaye National Scenic Trail Feasibility Study Act of 2026 |
+| 2025-01-28 | HR.763-119 | Armed Forces and National Security | James J. Andrews and William H. Campbell Congressional Gold Medal Act |
+| 2025-01-15 | HR.428-119 | Government Operations and Politics | Bonuses for Cost-Cutters Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: F000459` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

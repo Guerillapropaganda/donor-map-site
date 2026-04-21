@@ -127,25 +127,30 @@ top-policy-area: Government Operations and Politics
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,722 |
-| Votes with party majority | 1,553 |
-| Party-line loyalty | 90.2% |
-| Deviations from party | 169 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,790 |
+| Votes with party majority | 4,483 |
+| Party-line loyalty | 93.6% |
+| Deviations from party | 307 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 169):**
+**Most recent party-line deviations (top 10 of 307):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -162,6 +167,38 @@ top-policy-area: Government Operations and Politics
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 172 |
+| Enacted into law | 4 |
+| Top policy areas | Public Lands and Natural Resources · Armed Forces and National Security · Environmental Protection |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-198 | 2022-10-11 | HR.5809-117 | To designate the facility of the United States Postal Service located at 1801 Town and Cou |
+| PL 113-132 | 2014-07-25 | HR.330-113 | Howard P. "Buck" McKeon National Defense Authorization Act for Fiscal Year 2015 |
+| — | 2007-02-12 | HR.988-110 | To designate the facility of the United States Postal Service located at 5757 Tilton Avenu |
+| — | 2003-07-23 | HR.2828-108 | Calfed Bay-Delta Authorization Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2025-11-10 | HR.5992-119 | Armed Forces and National Security | Stuck On Hold Act |
+| 2025-11-07 | HR.5935-119 | Native Americans | Agua Caliente Band of Cahuilla Indians Water Rights Settlement Act |
+| 2025-10-10 | HR.5726-119 | Armed Forces and National Security | DOD Entrepreneurial Innovation Act |
+| 2025-07-23 | HR.4638-119 | Immigration | Providing for consideration of the bill (H.R. 556) to prohibit the Secretary of the Interi |
+| 2025-06-16 | HR.4016-119 | Economics and Public Finance | Consolidated Appropriations Act, 2026 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C000059` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #politician #republican #house #ken-calvert #donor-pipeline #defense #appropriations
 tags: #republican

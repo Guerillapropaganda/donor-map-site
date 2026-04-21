@@ -89,25 +89,30 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,638 |
-| Votes with party majority | 1,605 |
-| Party-line loyalty | 98.0% |
-| Deviations from party | 33 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,650 |
+| Votes with party majority | 4,539 |
+| Party-line loyalty | 97.6% |
+| Deviations from party | 110 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 33):**
+**Most recent party-line deviations (top 10 of 110):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -124,3 +129,36 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 106 |
+| Enacted into law | 6 |
+| Top policy areas | Health · Taxation · Government Operations and Politics |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-245 | 2025-01-04 | HR.7893-118 | H.R. 7893, an act to designate the facility of the United States Postal Service located at |
+| PL 116-220 | 2020-12-17 | HR.5307-116 | To designate the facility of the United States Postal Service located at 115 Nicol Avenue  |
+| PL 116-164 | 2020-10-10 | HR.991-116 | Extension of the Caribbean Basin Economic Recovery Act |
+| PL 114-208 | 2016-07-29 | HR.4777-114 | To designate the facility of the United States Postal Service located at 1301 Alabama Aven |
+| PL 114-5 | 2015-03-07 | HR.431-114 | A bill to award a Congressional Gold Medal to the Foot Soldiers who participated in Bloody |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-27 | HR.8153-119 | Health | Maternal Vaccinations Act |
+| 2026-03-19 | HR.8024-119 | Health | Maternal Vaccinations Act |
+| 2026-03-12 | HR.7921-119 | Water Resources Development | A bill to amend the Consolidated Farm and Rural Development Act to modify provisions relat |
+| 2025-12-18 | HR.6894-119 | Health | Increasing Access to Quality Cardiac Rehabilitation Care Act of 2025 |
+| 2025-09-16 | HR.5377-119 | Health | Rural Health Training Opportunities Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S001185` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

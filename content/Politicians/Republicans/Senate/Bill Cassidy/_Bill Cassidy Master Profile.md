@@ -69,11 +69,11 @@ donors: [[Petrochemical Industry Bloc]], [[Fossil Fuel Bloc]], [[Koch Network - 
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,610 |
-| Votes with party majority | 2,483 |
-| Party-line loyalty | 95.1% |
-| Deviations from party | 74 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,531 |
+| Votes with party majority | 3,284 |
+| Party-line loyalty | 93.0% |
+| Deviations from party | 193 |
 
 **Coverage:**
 
@@ -81,12 +81,14 @@ donors: [[Petrochemical Industry Bloc]], [[Fossil Fuel Bloc]], [[Koch Network - 
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 74):**
+**Most recent party-line deviations (top 10 of 193):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -103,6 +105,39 @@ donors: [[Petrochemical Industry Bloc]], [[Fossil Fuel Bloc]], [[Koch Network - 
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 428 |
+| Enacted into law | 8 |
+| Top policy areas | Health · Taxation · Armed Forces and National Security |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-26 | 2025-07-16 | S.331-119 | HALT Fentanyl Act |
+| PL 117-9 | 2021-04-23 | S.415-117 | A bill to amend the Federal Food, Drug, and Cosmetic Act with respect to the scope of new  |
+| PL 116-12 | 2019-04-08 | S.863-116 | To amend title 38, United States Code, to clarify the grade and pay of podiatrists of the  |
+| PL 115-421 | 2019-01-03 | S.3444-115 | To designate the community-based outpatient clinic of the Department of Veterans Affairs i |
+| PL 115-415 | 2019-01-03 | S.2652-115 | Stephen Michael Gleason Congressional Gold Medal Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-26 | S.4232-119 | Labor and Employment | A SMART Act |
+| 2026-03-26 | S.4251-119 | Energy | Mined in America Act of 2026 |
+| 2026-03-18 | S.4131-119 | Armed Forces and National Security | Veteran Access to Neurosurgery Act of 2026 |
+| 2026-03-12 | S.4076-119 | Health | Medicare Mental Health Inpatient Equity Act of 2025 |
+| 2026-03-05 | S.4003-119 | Foreign Trade and International Finance | Securing Accountability in Foreign Entries Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C001075` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

@@ -116,25 +116,28 @@ top-donors: "[[AT&T - WarnerMedia]], [[General Motors]], [[CVS Health - Aetna]],
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 116th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,660 |
-| Votes with party majority | 1,528 |
-| Party-line loyalty | 92.0% |
-| Deviations from party | 132 |
+| Roll-call votes tracked | 3,678 |
+| Substantive votes (Y/N) | 3,565 |
+| Votes with party majority | 3,380 |
+| Party-line loyalty | 94.8% |
+| Deviations from party | 185 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 132):**
+**Most recent party-line deviations (top 10 of 185):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -151,6 +154,36 @@ top-donors: "[[AT&T - WarnerMedia]], [[General Motors]], [[CVS Health - Aetna]],
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 84 |
+| Enacted into law | 2 |
+| Top policy areas | Armed Forces and National Security · Education · Health |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-230 | 2025-01-04 | HR.5443-118 | AACE Act |
+| PL 116-45 | 2019-08-21 | HR.1198-116 | To designate the facility of the United States Postal Service located at 404 South Boulder |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-06 | HR.8201-119 | Health | To amend Public Health Service Act to require community health centers to provide behavior |
+| 2026-03-26 | HR.8110-119 | Labor and Employment | Cyber Ready Workforce Act |
+| 2026-01-15 | HR.7109-119 | Commerce | Small Business Child Care Investment Act |
+| 2026-01-08 | HR.6981-119 | Energy | SHINE Act of 2026 |
+| 2025-12-09 | HR.6532-119 | Education | PATHS to Tutor Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: L000590` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Susie Lee
 
@@ -186,3 +219,27 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 - [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
 <!-- auto:congress-bills end -->
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 6 |
+| Leak sources | Offshore Leaks (6) |
+| Top jurisdictions | Cook Islands (4) · British Virgin Islands (1) · Undetermined (1) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| C&P ENGINEERING CONSULTANTS OVERSEAS LIMITED | entity | British Virgin Islands | Offshore Leaks |
+| Helensburgh Company Limited | entity | Cook Islands | Offshore Leaks |
+| Freestyle Limited | entity | Cook Islands | Offshore Leaks |
+| Newton Limited | entity | Cook Islands | Offshore Leaks |
+| Wai Yip Trustee Limited | entity | Cook Islands | Offshore Leaks |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: Susie Lee` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

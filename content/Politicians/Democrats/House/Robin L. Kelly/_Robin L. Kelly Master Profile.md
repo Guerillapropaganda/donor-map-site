@@ -92,25 +92,30 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,662 |
-| Votes with party majority | 1,636 |
-| Party-line loyalty | 98.4% |
-| Deviations from party | 26 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,736 |
+| Votes with party majority | 4,652 |
+| Party-line loyalty | 98.2% |
+| Deviations from party | 83 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 26):**
+**Most recent party-line deviations (top 10 of 83):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -127,3 +132,36 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 141 |
+| Enacted into law | 6 |
+| Top policy areas | Health · Crime and Law Enforcement · Commerce |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-171 | 2022-08-16 | HR.5313-117 | Reese’s Law |
+| PL 116-290 | 2021-01-05 | HR.1503-116 | Lower Costs, More Cures Act of 2019 |
+| PL 116-207 | 2020-12-04 | HR.1668-116 | IoT Cybersecurity Improvement Act of 2019 |
+| PL 116-46 | 2019-08-21 | HR.1449-116 | To designate the facility of the United States Postal Service located at 3033 203rd Street |
+| PL 115-302 | 2018-12-11 | HR.2422-115 | Today's American Dream Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-12 | HR.7906-119 | Agriculture and Food | FOOD for Health Act |
+| 2026-03-05 | HR.7830-119 | Health | WELLS Act |
+| 2026-02-11 | HR.7500-119 | Commerce | Responsible Firearms Marketing Act |
+| 2026-02-11 | HR.7499-119 | — | To amend the Consumer Product Safety Act to remove the exclusion of pistols, revolvers, an |
+| 2026-01-06 | HR.6947-119 | Transportation and Public Works | SAFE Exit Act of 2026 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: K000385` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

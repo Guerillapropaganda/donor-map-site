@@ -99,3 +99,32 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 18 |
+| Enacted into law | 1 |
+| Top policy areas | Public Lands and Natural Resources · Native Americans · Energy |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-40 | 2025-11-25 | HR.2316-119 | Wetlands Conservation and Access Improvement Act of 2025 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-14 | HR.8257-119 | — | Small County PILT Parity Act |
+| 2026-03-17 | HR.7954-119 | Native Americans | Indian Buffalo Management Act |
+| 2026-03-05 | HR.7811-119 | Energy | Responsible Containment Reauthorization Act of 2026 |
+| 2026-02-04 | HR.7342-119 | Labor and Employment | Made in America Jobs Act of 2026 |
+| 2025-11-20 | HR.6168-119 | Transportation and Public Works | Airport TIFIA Financing Certainty Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: H001100` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

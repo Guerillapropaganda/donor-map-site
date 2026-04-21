@@ -89,21 +89,22 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,631 |
-| Votes with party majority | 1,420 |
-| Party-line loyalty | 87.1% |
-| Deviations from party | 211 |
+| Roll-call votes tracked | 2,724 |
+| Substantive votes (Y/N) | 2,582 |
+| Votes with party majority | 2,298 |
+| Party-line loyalty | 89.0% |
+| Deviations from party | 284 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 211):**
+**Most recent party-line deviations (top 10 of 284):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -120,3 +121,26 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 72 |
+| Enacted into law | 0 |
+| Top policy areas | Finance and Financial Sector · Armed Forces and National Security · Immigration |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-01-07 | HR.6961-119 | Transportation and Public Works | USMMA Athletics Act of 2025 |
+| 2025-12-18 | HR.6858-119 | Armed Forces and National Security | Veteran Suicide Prevention Act |
+| 2025-09-26 | HR.5577-119 | Finance and Financial Sector | NFIP Extension Act |
+| 2025-09-02 | HR.5079-119 | Science, Technology, Communications | H.R. 5079, Widespread Information Management for the Welfare of Infrastructure and Governm |
+| 2025-08-29 | HR.5061-119 | Transportation and Public Works | Counter-UAS Authority Security, Safety, and Reauthorization Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: G000597` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

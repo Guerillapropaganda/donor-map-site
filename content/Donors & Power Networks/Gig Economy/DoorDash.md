@@ -261,3 +261,26 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[CalMatters: Newsom recall donors](https://calmatters.org/category/politics/2021/10/newsom-recall-big-donors/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[The Hill: DashPAC formation](https://thehill.com/lobbying/3550101-doordash-expands-political-footprint-with-new-pac/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[The Hill: Flex Association](https://thehill.com/business-a-lobbying/business-a-lobbying/597404-gig-companies-launch-lobbying-group-to-counter-pro/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 4 |
+| Leak sources | Paradise Papers - Appleby (2) · Panama Papers (1) · Bahamas Leaks (1) |
+| Top jurisdictions | Panama (1) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| CIRCLE BUSINESS INC. | entity | Panama | Panama Papers |
+| Scheinberg - Igal Mark | officer | — | Paradise Papers - Appleby |
+| Appleby Trust (Isle of Man) Limited | intermediary | — | Paradise Papers - Appleby |
+| MORTON PIASETSKI | intermediary | — | Bahamas Leaks |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: DoorDash` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

@@ -626,3 +626,24 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[Costs of War: Profits of War - Top Beneficiaries of Pentagon Spending, 2020-2024](https://costsofwar.watson.brown.edu/papers/2025/MilitaryContractors)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 - ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=2014_09_EO%2F94-6107683_990EO_201406.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Lockheed%20Martin%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 2 |
+| Leak sources | Paradise Papers - Appleby (2) |
+| Top jurisdictions | Bermuda (2) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| The Falcon (Bermuda) Settlement | entity | Bermuda | Paradise Papers - Appleby |
+| Asia Broadcast Satellite Holdings, Ltd. | entity | Bermuda | Paradise Papers - Appleby |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: Lockheed Martin` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

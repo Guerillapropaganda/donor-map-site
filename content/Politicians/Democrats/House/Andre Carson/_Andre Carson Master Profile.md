@@ -114,25 +114,30 @@ top-donors: "[[Duke Energy]], [[American Federation of State County & Municipal 
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,692 |
-| Votes with party majority | 1,650 |
-| Party-line loyalty | 97.5% |
-| Deviations from party | 42 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,768 |
+| Votes with party majority | 4,659 |
+| Party-line loyalty | 97.7% |
+| Deviations from party | 108 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 42):**
+**Most recent party-line deviations (top 10 of 108):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -149,6 +154,36 @@ top-donors: "[[Duke Energy]], [[American Federation of State County & Municipal 
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 115 |
+| Enacted into law | 2 |
+| Top policy areas | Education · Finance and Financial Sector · Transportation and Public Works |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 115-163 | 2018-04-04 | HR.4851-115 | Kennedy-King Establishment Act of 2018 |
+| PL 114-160 | 2016-05-20 | HR.4957-114 | Ariel Rios Federal Building Designation Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-01-30 | HR.7281-119 | International Affairs | Justice for Shireen Act |
+| 2025-10-31 | HJRES.132-119 | Education | Commemorating October 2025 as Head Start Awareness Month and recognizing its positive impa |
+| 2025-07-17 | HR.4487-119 | Taxation | Gun Safety Incentive Act |
+| 2025-06-11 | HR.3906-119 | Armed Forces and National Security | Medical Research for Our Troops Act |
+| 2025-03-27 | HR.2411-119 | International Affairs | UNRWA Funding Emergency Restoration Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C001072` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Andre Carson
 
