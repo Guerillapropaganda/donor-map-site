@@ -84,10 +84,15 @@ const ROOT_DIR = path.resolve(__dirname, "..", "..")
 const BILLS_FILE = path.join(ROOT_DIR, "data", "bills.jsonl")
 const EA_FILE = path.join(ROOT_DIR, "data", "executive-actions.jsonl")
 const OFFSHORE_FILE = path.join(ROOT_DIR, "data", "offshore-entities.jsonl")
+const VOTES_FILE = path.join(ROOT_DIR, "data", "votes.jsonl")
+const POSITIONS_FILE = path.join(ROOT_DIR, "data", "legislator-positions.jsonl")
+const POSITIONS_DIR = path.join(ROOT_DIR, "data", "legislator-positions")
 
 let _billsCache = null
 let _eaCache = null
 let _offshoreCache = null
+let _votesCache = null
+let _positionsCache = null
 
 function loadJsonlChunked(filePath) {
   // Chunked reader for files that may exceed V8 string cap (~500MB).
@@ -119,6 +124,23 @@ function loadJsonlChunked(filePath) {
 function loadBills() { if (!_billsCache) _billsCache = loadJsonlChunked(BILLS_FILE); return _billsCache }
 function loadExecActions() { if (!_eaCache) _eaCache = loadJsonlChunked(EA_FILE); return _eaCache }
 function loadOffshoreEntities() { if (!_offshoreCache) _offshoreCache = loadJsonlChunked(OFFSHORE_FILE); return _offshoreCache }
+function loadVotes() { if (!_votesCache) _votesCache = loadJsonlChunked(VOTES_FILE); return _votesCache }
+function loadPositions() {
+  if (_positionsCache) return _positionsCache
+  // 2.5M+ positions; spread operator on an array this large blows the
+  // call stack. Iterate and push.
+  const out = []
+  function ingest(rows) { for (const r of rows) out.push(r) }
+  if (fs.existsSync(POSITIONS_FILE) && fs.statSync(POSITIONS_FILE).size > 0) {
+    ingest(loadJsonlChunked(POSITIONS_FILE))
+  } else if (fs.existsSync(POSITIONS_DIR)) {
+    for (const f of fs.readdirSync(POSITIONS_DIR).filter((n) => n.endsWith(".jsonl")).sort()) {
+      ingest(loadJsonlChunked(path.join(POSITIONS_DIR, f)))
+    }
+  }
+  _positionsCache = out
+  return _positionsCache
+}
 
 // ─── Adapter: in-memory implementation ────────────────────────────────
 
@@ -142,6 +164,8 @@ function createInMemoryEngine() {
     _billsCache = null
     _eaCache = null
     _offshoreCache = null
+    _votesCache = null
+    _positionsCache = null
     _loaded = false
   }
 
@@ -318,6 +342,59 @@ function createInMemoryEngine() {
       if (filters.search) {
         const q = String(filters.search).toLowerCase()
         if (!(ea.title || "").toLowerCase().includes(q) && !(ea.text_excerpt || "").toLowerCase().includes(q)) return false
+      }
+      return true
+    })
+  }
+
+  function filterVotes(filters = {}) {
+    const all = loadVotes()
+    return all.filter((v) => {
+      if (filters.congress !== undefined && Number(v.congress) !== Number(filters.congress)) return false
+      if (filters.chamber && v.chamber !== filters.chamber) return false
+      if (filters.session !== undefined && Number(v.session) !== Number(filters.session)) return false
+      if (filters.vote_id && v.vote_id !== filters.vote_id) return false
+      if (filters.rc_number !== undefined && Number(v.rc_number) !== Number(filters.rc_number)) return false
+      if (filters.bill_type && v.bill?.type !== filters.bill_type) return false
+      if (filters.bill_number !== undefined && Number(v.bill?.number) !== Number(filters.bill_number)) return false
+      if (filters.result) {
+        const want = Array.isArray(filters.result) ? filters.result : [filters.result]
+        if (!want.some((r) => String(v.result || "").toLowerCase().includes(String(r).toLowerCase()))) return false
+      }
+      if (filters.since && (!v.date || v.date < filters.since)) return false
+      if (filters.until && (!v.date || v.date > filters.until)) return false
+      if (filters.search) {
+        const q = String(filters.search).toLowerCase()
+        if (!(v.question || "").toLowerCase().includes(q)) return false
+      }
+      return true
+    })
+  }
+
+  function filterPositions(filters = {}) {
+    const all = loadPositions()
+    return all.filter((p) => {
+      if (filters.vote_id && p.vote_id !== filters.vote_id) return false
+      if (filters.bioguide) {
+        const want = Array.isArray(filters.bioguide) ? filters.bioguide : [filters.bioguide]
+        if (!want.includes(p.bioguide)) return false
+      }
+      if (filters.position) {
+        const want = Array.isArray(filters.position) ? filters.position : [filters.position]
+        if (!want.includes(p.position)) return false
+      }
+      if (filters.party) {
+        const want = Array.isArray(filters.party) ? filters.party : [filters.party]
+        if (!want.includes(p.party)) return false
+      }
+      if (filters.congress !== undefined) {
+        const m = String(p.vote_id || "").match(/-(\d+)\./)
+        if (!m || Number(m[1]) !== Number(filters.congress)) return false
+      }
+      if (filters.chamber) {
+        const c = String(p.vote_id || "").charAt(0)
+        const want = filters.chamber === "house" ? "h" : filters.chamber === "senate" ? "s" : null
+        if (want && c !== want) return false
       }
       return true
     })
@@ -556,7 +633,7 @@ function createInMemoryEngine() {
   }
 
   // Subjects that require at least one real filter for unbounded queries
-  const UNBOUNDED_SUBJECTS = new Set(["edges", "entities", "events", "bills", "executive_actions", "offshore_entities"])
+  const UNBOUNDED_SUBJECTS = new Set(["edges", "entities", "events", "bills", "executive_actions", "offshore_entities", "votes", "positions"])
 
   // ─── Public interface ─────────────────────────────────────────
 
@@ -623,6 +700,10 @@ function createInMemoryEngine() {
           ? "president, type, year, since, until, search"
           : subject === "offshore_entities"
           ? "jurisdiction, leak, linked_vault_entity, kind, search"
+          : subject === "votes"
+          ? "congress, chamber, session, vote_id, rc_number, bill_type, bill_number, result, since, until, search"
+          : subject === "positions"
+          ? "vote_id, bioguide, position, party, congress, chamber"
           : "unknown")
       )
     }
@@ -634,6 +715,8 @@ function createInMemoryEngine() {
     else if (subject === "bills") rows = enforceTimeout(() => filterBills(filters), "bills")
     else if (subject === "executive_actions") rows = enforceTimeout(() => filterExecutiveActions(filters), "executive_actions")
     else if (subject === "offshore_entities") rows = enforceTimeout(() => filterOffshoreEntities(filters), "offshore_entities")
+    else if (subject === "votes") rows = enforceTimeout(() => filterVotes(filters), "votes")
+    else if (subject === "positions") rows = enforceTimeout(() => filterPositions(filters), "positions")
     else throw new Error(`unknown subject: ${subject}`)
 
     const total = rows.length
@@ -651,6 +734,8 @@ function createInMemoryEngine() {
     if (subject === "bills") return filterBills(filters).length
     if (subject === "executive_actions") return filterExecutiveActions(filters).length
     if (subject === "offshore_entities") return filterOffshoreEntities(filters).length
+    if (subject === "votes") return filterVotes(filters).length
+    if (subject === "positions") return filterPositions(filters).length
     if (subject === "cross_party_donors") return crossPartyDonors({ days: filters.days }).length
     return 0
   }
