@@ -3,12 +3,13 @@ title: Session State
 type: system
 last-updated: 2026-04-20
 ---
-<!-- last session: MEGA SESSION PART 3 — 8 ingest pipelines wired + 8 query subjects + UX polish + Ask intents. In order: P1 improved politician name-match (323→429 OK, 407 new principal committees, 825K edge emissions); P2 donor-EIN backfill 565→897; P3 corp SEC CIKs 13→78; bill-status ingest (141,803 bills, 861,535 sponsorship edges); PLAW enrichment (2,132 enacted laws); Federal Register EOs (12,198 presidential actions); ICIJ Offshore Leaks (412 edges, 401 shells linked); POFD Schedule B fix (7,620 new edges; was column-offset bug); donor fuzzy EIN (37 updates); vote scraper 115-117 (5,131 new votes, 1.45M new positions); split legislator-positions.jsonl by congress (GitHub 100MB limit); bills/EOs/offshore + votes/positions as first-class query subjects; explain_concept intent (25 concepts: Panama Papers, dark money, 527, EIN, etc); voting-record layperson UX overhaul (plain position/date/bill-title); compare-table row-level explainers for dark-money zeros; "Is this illegal?" → "Is this legal?" header (fixed Yes-contradiction across 4 renderers). Attention Dispatcher installed as Windows scheduled task, firing producers on schedule. Final push 9af0a85c8. (2026-04-20, Code Claude). -->
-<!-- prior session: MEGA SESSION PART 2 — zip re-download → full FEC indiv re-ingest (94K rows, 53K POI committees) → IRS 990 re-scan for 7 think-tank EINs (59 filings, 1,889 grants) → all-candidates summary ingest (70K rows) → politician receipts sync (409 politicians) → committee-stub pooling (audit + Ask UI vehiclesFor) → Hoover/Stanford shared-EIN caveat → bulk-dir protection sentinel. Politicians 68 → 323 OK (+255). Think tanks 0 → 100%. Bernie now shows $550M/20 cycles. 4 additional commits on top of earlier session-save (3d0772089): 691bc7e58, 8b6b1f772, 3b91bda16, 460daf5af. (2026-04-20 late PM, Code Claude). -->
-<!-- prior session: QUERY ACCURACY MARATHON — silent-truncation bug hunt, FEC committee identity layer, 4-slice per-cycle reconciliation, canonical/derived file split (2026-04-19, Code Claude). -->
-<!-- prior prior session: Ops Ask UI marathon + IE classifier (2026-04-19 AM, Code Claude). 18 commits. -->
-<!-- prior prior prior session: FULL-DATABASE FEC INGEST + profile infrastructure (2026-04-18, Code Claude). -->
-<!-- prior prior prior prior session: Trump data overhaul + Rubio polish + systemic pipeline fixes (2026-04-17, Code Claude). -->
+<!-- last session: QUERY-ENGINE AUDIT MARATHON — pattern-level cleanup of the Ask engine. Shipped Patterns A (shared role-filter taxonomy, kills 6 aggregation bugs across handlers — Kerry-as-cross-party-donor gone, Fidelity $6.4B phantom total gone, DSCC polarity fixed), C (money_chain legal/illegal inversion — renderer #5 the Part 3 fix missed), D (entity-blind follow-up generator — no more "fidelity charitable voting record"), E (entity-type-aware empty-state copy — DAF / dark-money / non-politician branches), F (leaderboard defaults to last 4 years, all-time opt-in — Paul Ryan dropped out of top politicians), G1 (FEC indiv re-ingest + bridge politician edges — aggregate-indiv-to-edges.cjs politician exclusion removed, 48k new edges + 87k updates, Kamala Harris "who funds them" $43M → $586M), H (entity dedup — 69 dup groups, 75 rows collapsed, 50,731 edges rewritten + 17,723 id-collision merges, DSCC/NRSC consolidated, FEC-shape LAST,FIRST dupes for 53 politicians collapsed). Also Voteview 108-114 Congress roll-call backfill (4.79M positions, scripts/ingest-voteview-bulk.cjs, Bernie voting record 3,700 → 9,125). Also bioguide-id backfill for 21 ex-legislators + resolveTitle + findEntity + findBioguide normalizers for LAST,FIRST entity-store form. Final push a0fedd746. (2026-04-20 evening, Code Claude). -->
+<!-- prior session: MEGA SESSION PART 3 — 8 ingest pipelines wired + 8 query subjects + UX polish + Ask intents. Final push 9af0a85c8. (2026-04-20, Code Claude). -->
+<!-- prior prior session: MEGA SESSION PART 2 — zip re-download → full FEC indiv re-ingest (94K rows, 53K POI committees) → IRS 990 re-scan → politician receipts sync (409 politicians). (2026-04-20 late PM, Code Claude). -->
+<!-- prior prior prior session: QUERY ACCURACY MARATHON — silent-truncation bug hunt, FEC committee identity layer, 4-slice per-cycle reconciliation, canonical/derived file split (2026-04-19, Code Claude). -->
+<!-- prior prior prior prior session: Ops Ask UI marathon + IE classifier (2026-04-19 AM, Code Claude). 18 commits. -->
+<!-- prior prior prior prior prior session: FULL-DATABASE FEC INGEST + profile infrastructure (2026-04-18, Code Claude). -->
+<!-- prior prior prior prior prior prior session: Trump data overhaul + Rubio polish + systemic pipeline fixes (2026-04-17, Code Claude). -->
 
 
 
@@ -27,7 +28,99 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 
 ---
 
-## HANDOFF — 2026-04-20 (Mega session Part 3: 8 pipelines + 8 query subjects + Ask UX polish)
+## HANDOFF — 2026-04-20 (Query-engine audit marathon: 8 patterns shipped, dedup + Voteview backfill)
+
+**What you're inheriting (final push `a0fedd746`, pushed to origin/v4):**
+
+The Ask engine had accumulated a lot of subtle drift. Today was a pattern-level audit — find bugs by category, fix at the foundation, every profile benefits automatically. Eight patterns shipped.
+
+### Patterns shipped (in order)
+
+**Pattern A — shared role-filter taxonomy.** Six handlers in route.ts used `e.role !== "ie-oppose"` as the "support" filter, which silently treated operating-expense (vendor payments) and employee-contributions (aggregate corp-employee donations) as political support. Fixed once in `scripts/lib/fec-txn-types.cjs` (POLITICAL_SUPPORT_ROLES / POLITICAL_OPPOSE_ROLES / OPERATIONAL_ROLES + isSupport/isOppose/isPolitical/isOperational predicates). Mirror copy in ops/src/app/api/ask/route.ts (bundling CJS into Next.js is flaky). Fallout fixed: Kerry as cross-party donor ($164M in vendor expenses gone), Fidelity Investments $6.4B phantom total gone, DSCC polarity inverted ($179M against Republicans credited as R spending → now correctly D), AOC's donors panel no longer has opposition PACs.
+
+**Pattern C — money_chain legal/illegal inversion.** The 5th renderer the Part 3 fix missed. Header said "Is this legal?" and answer opened with "**No, and that's the scandal.**" while body explained it's "perfectly legal". Flipped "No" → "Yes" — all 8 is_this_legal sites now consistent.
+
+**Pattern D — entity-blind follow-up generator.** Added `entityTypeFor(name)` lookup; gated legislator-only suggestions (voting record, boards) on `entity_type === "politician"`. No more "fidelity charitable voting record" button. Orgs get "who's on X's board" instead.
+
+**Pattern E — entity-type-aware empty-state copy.** donors_to for an entity with 0 support edges now branches: DAFs explain legal donor shielding; dark-money vehicles explain 501(c)(4) non-disclosure; organizations explain the missing-ingest-path; politicians get the coverage-gap note. DAF detection uses name patterns (`\bcharitable\s+(fund|gift|trust)\b` etc.) so Fidelity Charitable fires correctly even though it's not in entities.jsonl. Three distinct voting_record empty-states too (no profile / non-legislator / bioguide-but-no-positions).
+
+**Pattern F — leaderboard time window.** Aggregator now defaults to last 4 years (2 cycles); summary surfaces "(last 4 years — 2022+)". Opt into all-time with "all time" / "lifetime" / "ever" / "historic" in the query. Paul Ryan (retired 2019) dropped out of default top-politicians. Works for top_donors / top_superpacs / top_pacs / top_politicians.
+
+**Pattern G1 — FEC indiv → politician bridge.** `aggregate-indiv-to-edges.cjs` explicitly skipped politicians (line 106 `if (e.entity_type === 'politician') continue`) — the reason AOC/Bernie/Pelosi/Kamala all showed implausibly low donor totals. Removed the exclusion, re-ran indiv aggregate at $10K floor (94K → 188K aggregated rows), emitted 48,164 new donor→politician edges + 87,386 updates. **Kamala Harris "who funds them" went $43M → $586M**. DeSantis, Stefanik, Noem, Pompeo etc. also jumped from empty-state to real data.
+
+**Pattern H — entity dedup.** 69 duplicate groups surfaced by `scripts/audit-entity-classification.cjs` + followup `scripts/dedupe-entities.cjs`. Patterns collapsed: acronym-prefix (DSCC ↔ Democratic Senatorial Campaign Committee), FEC-shape LAST,FIRST for 53 politicians (SANDERS, BERNARD ↔ Bernie Sanders), case-only (RETIRE CAREER POLITICIANS case), literal triplicates. 50,731 edges rewritten + 17,723 id-collision merges across 10 data files. Script recomputes edge.id via computeEdgeId and refreshes from_type/to_type from profile frontmatter (via buildTitleIndex — using entity_type produced 13,567 sentinel violations on the first pass). DSCC + NRSC totals now consolidated ($1.03B / $1.19B respectively).
+
+### Voteview 108th–114th backfill (parallel track)
+
+`scripts/ingest-voteview-bulk.cjs` ingested the Voteview canonical roll-call dataset from `data/bulk/HSall_votes.csv` + `HSall_rollcalls.csv` + `HSall_members.csv`. 4,788,950 positions emitted across 7 Congresses (108th–114th, Jan 2003 – Jan 2017), 14,384 new vote records appended to `data/votes.jsonl`. Files in `data/legislator-positions/{108..114}.jsonl` (each under 100MB cap). Bernie Sanders voting-record total: 3,700 → 9,125. Obama, Kerry, Salazar, Solis, LaHood, Rahm all now have real voting data.
+
+**Gotcha**: Voteview serializes icpsr as float ("10713.0") in Congresses 114+ but as int in earlier ones. `normalizeIcpsr` in the ingester strips trailing ".0" so joins work.
+
+### bioguide-id backfill
+
+`scripts/backfill-bioguide-ids.cjs` matched 21 ex-legislators by first+last name (with middle-name disambiguation + post-1970 term cutoff to avoid 19th-century ghosts). Wrote bioguide-id into frontmatter for Kamala Harris, Obama, DeSantis, MTG, Stefanik, Pompeo, Noem, Ratcliffe, Zeldin, Waltz, Zinke, Gabbard, Mullin, Butler, Fudge, Kerry, Salazar, Solis, Panetta, Emanuel, LaHood. Mark Green resolved manually (TN bioguide G000590).
+
+### Route.ts audit batch fixes
+
+- Obama "who funds them" empty-state: `resolveTitle` now applies `preferTitleCasedSibling` so "OBAMA, BARACK" resolves to "Barack Obama". Also `findEntity` + `findBioguide` got `normalizeToTitleCase` helpers. Three resolution paths all normalized now.
+- Bare-entity queries ("AOC", "MFT", "Kamala Harris") escalate from generic fallback to summary intent when the entity has edges. No more dead-end "try a more specific pattern".
+- Fuzzy-match transparency in `finalize()`: "**Showing results for 'X'** (or: Y, Z)." preamble when resolved title doesn't appear as substring in the question AND isn't covered by query tokens. Closes the "John Smith → silent Jason Smith swap" trust class.
+- `edge_between` classifier expanded: "money between X and Y", "connections between X and Y", "is there money from X to Y" all classify now.
+- `recipients_from` splits political spending from operating-expense. Koch Industries went $681K → $7.8M political + ~$100M ops-expense context note.
+- `summary` answer enriched: totals ($X inflows / $Y outflows / N boards) instead of "donor in Dark Money."
+- Dual-layer display for politicians: when itemized edges are thin (small-dollar specialists), surface `fec_receipts_lifetime` from candidate-summary as a footnote so the real scale is visible.
+
+### Infra changes
+
+- New script: `scripts/ci-prebuild.cjs` — single manifest for CI-regenerable artifacts. Currently rebuilds `data/relationships-per-profile.json` (113MB, gitignored) before `npx quartz build`. Fixes the deploy that was failing because ProfileWidget + DiscoveryPanel imported the file and GitHub Actions didn't have it. Future large derived artifacts add one entry to the ARTIFACTS array.
+- Backup files: every dedup'd data file has a `.pre-dedupe.bak` sibling. Keep or delete as insurance.
+
+### IN PROGRESS at session end
+
+**AOC small-dollar re-ingest running at $1K floor** (background bash `b54ccg4ey`, node 64GB heap). Default $10K threshold captured 188K aggregated rows but systematically missed AOC's small-dollar base ($50M+ career raise appears as $54K itemized). Running at $1K will expand to ~2-4M aggregated rows. Check with `tail -20 <output file>`; resume with `--resume` flag if interrupted. After completion, re-run `scripts/aggregate-indiv-to-edges.cjs --write` to re-bridge edges.
+
+### Next session priorities
+
+1. **Finish AOC small-dollar re-ingest** — check if $1K-floor indiv aggregation completed. If yes, re-run aggregate-indiv-to-edges. If crashed, try $5K floor or refactor to disk-backed aggregation.
+2. **Pattern B-1 sector normalization (Model B approved)** — add `signals.bucket` field (organizational folder role: Mega-Donors / Super PACs / Dark Money / Think Tanks / etc.) alongside existing `signals.sector` (industry: Retail / Wall Street / Tech / etc.). One-shot rewriter + downstream consumer updates. Write ADR-0016.
+3. **#38 Rebuild stale edge_count on all entities** — 46% of entities (335/733 sampled) have `signals.edge_count: 0` stamped but DO have edges. Likely also other signals fields stale (total_political_spend, top_politicians_funded). Find or write the rebuilder; run it.
+4. **Remaining audit items**: #34 cycle-filter in donors_to ("who funded X in 2022"), #35 "who's the biggest donor" → leaderboard fallback, normalize LAST,FIRST in findPoliticianProfile (voting_record path).
+5. **Polish queue**: cross-party table number formatting (#9, #10), leaderboard "edges" label clarification (#15), outspent-ratio callouts (#16).
+6. **Pattern G2–G6 coverage gaps** (queued, lower priority): OTH transfers → politician attribution (G2), IRS 527 POFD coverage audit (G3), IRS 990 full 26GB cross-reference (G4, Priority-1 from Part 3 handoff), USAspending reverse attribution (G5), FEC operating-expense vendor graph (G6).
+
+### What NOT to do
+
+- Don't revert Pattern H. The dedup is load-bearing — lots of edges now point to canonical names. Restoring variants breaks those edges.
+- Don't re-run `scripts/aggregate-indiv-to-edges.cjs` on pre-Pattern-H data — would re-introduce FEC-shape dupes.
+- Don't kill the AOC re-ingest unless it's stuck. It's resume-friendly per ADR-0014.
+- Don't delete `.pre-dedupe.bak` files yet — keep as rollback insurance for one more session at least.
+- The Quartz deploy is on `a0fedd746` (Pattern H merge). If it fails, check `data/relationships-per-profile.json` is rebuildable via ci-prebuild — that pipeline was created this morning.
+
+### Commits on origin/v4 this session (most recent last)
+
+```
+cfcbcbbea  Merge: Pattern A role-filter taxonomy
+8ff6296e8  Ask: fix legal/illegal inversion in money_chain renderer
+643fc06fd  Ask: entity-aware follow-ups, DAF empty-state copy, leaderboard window
+ea838a5e0  Ask: expand DAF-name pattern so Fidelity Charitable triggers DAF copy
+06c08b70e  Audit batch: #21/#23/#24/#26/#27 + G1 bridge
+faca12293  Audit batch 2: resolveTitle sibling-pref, generic→summary escalation, fuzzy-match transparency
+a0fedd746  Pattern H: entity dedup + route.ts audit batch 2
+```
+
+Earlier in the day (before the audit marathon — listed for context):
+```
+b7b99de31  Merge: CI prebuild fix (ci-prebuild.cjs, deploy was failing)
+43ea6807e  Voteview backfill: 108th-114th Congress roll-call votes
+fc81d90cb  Merge: bioguide-id backfill (21 ex-legislators)
+6200c7ef8  Backfill bioguide-id for 21 ex-/current-legislators
+7921562ba  Merge: findBioguide LAST,FIRST normalizer
+2a22cbc9e  Ask: three distinct empty-states for voting_record
+```
+
+---
+
+## HANDOFF — 2026-04-20 earlier (Mega session Part 3: 8 pipelines + 8 query subjects + Ask UX polish)
 
 **What you're inheriting (final push `9af0a85c8`):**
 
