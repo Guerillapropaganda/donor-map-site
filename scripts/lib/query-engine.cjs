@@ -626,7 +626,14 @@ function createInMemoryEngine() {
   // in ~12-18s cold cache. Future: build a secondary type-index so
   // type-only filters don't scan. Until then, accept the budget (the
   // MAX_PAGE_SIZE cap still prevents huge response payloads).
-  const QUERY_TIMEOUT_MS = 30000
+  // Timeout raised from 30s → 120s after the 2026-04-21 $1K-floor
+  // indiv re-ingest expanded data/derived/fec-indiv-by-committee.jsonl
+  // from ~200k to 3.7M edges (1.7GB). Unfiltered queries legitimately
+  // take 30-60s to iterate that volume. Contract-test edges-query at
+  // MAX_PAGE_SIZE now runs in ~45s. Bump to 120s gives headroom as the
+  // store grows further. Consumers should always filter anyway; this
+  // is the no-filter fallback bound.
+  const QUERY_TIMEOUT_MS = 120000
 
   // Filter keys that count as "real" filters (not pagination)
   const PAGINATION_KEYS = new Set(["limit", "offset"])
