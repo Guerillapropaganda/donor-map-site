@@ -31,6 +31,7 @@ committees:
   - House Committee on Transportation and Infrastructure
   - "Railroads, Pipelines, and Hazardous Materials"
   - Water Resources and Environment
+bills-sponsored: 28
 ---
 
 

@@ -35,6 +35,8 @@ committees:
   - Energy
   - House Committee on Energy and Commerce
   - House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party
+total-raised: "$10.6M"
+career-total-source: "FEC weball summary (cycles 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

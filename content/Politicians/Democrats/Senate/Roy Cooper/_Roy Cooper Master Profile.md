@@ -31,6 +31,8 @@ known-gaps:
 related: "[[North Carolina 2026 Senate Race]] · [[Roy Cooper Health Insurance Industry Funding]] · [[Anthem PAC]] · [[Centene Corporation PAC]] · [[Blue Cross Blue Shield Association]]"
 internal-notes: "[JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
 urls-first-triaged: "2026-04-15"
+total-raised: "$26.8M"
+career-total-source: "FEC weball summary (cycles 2026)"
 ---
 
 

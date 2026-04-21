@@ -31,6 +31,8 @@ last-enriched: 2026-04-21
 committees:
   - Communications and Technology
   - House Committee on Energy and Commerce
+total-raised: "$21.8M"
+career-total-source: "FEC weball summary (cycles 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

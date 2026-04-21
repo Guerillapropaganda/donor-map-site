@@ -46,6 +46,8 @@ committees:
   - Senate Committee on Foreign Relations
   - Senate Committee on Indian Affairs
   - Water and Power
+total-raised: "$51.2M"
+career-total-source: "FEC weball summary (cycles 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

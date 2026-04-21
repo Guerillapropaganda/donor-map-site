@@ -22,7 +22,7 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
-bills-sponsored: 0
+bills-sponsored: 11
 bills-cosponsored: 53
 bills-enacted: 0
 top-policy-area: "Crime and Law Enforcement"

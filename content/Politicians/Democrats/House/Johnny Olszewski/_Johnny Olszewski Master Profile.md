@@ -30,6 +30,7 @@ committees:
   - House Committee on Small Business
   - "Innovation, Entrepreneurship, and Workforce Development"
   - "Rural Development, Energy, and Supply Chains"
+bills-sponsored: 10
 ---
 
 

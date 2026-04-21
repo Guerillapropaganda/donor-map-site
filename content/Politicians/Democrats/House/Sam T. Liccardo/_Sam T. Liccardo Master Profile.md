@@ -28,6 +28,7 @@ committees:
   - House Committee on Financial Services
   - "National Security, Illicit Finance, and International Financial Institutions"
   - Oversight and Investigations
+bills-sponsored: 14
 ---
 
 

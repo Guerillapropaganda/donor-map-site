@@ -18,6 +18,9 @@ urls-first-triaged: "2026-04-15"
 fec-candidate-id: H6CA38139
 top-donors: "[[IBEW - International Brotherhood of Electrical Workers]], [[UnitedHealth Group - Optum]], [[Verizon]], [[Kaiser Permanente]], [[Pfizer Inc.]], [[CBRE Group]]"
 last-enriched: 2026-04-21
+total-raised: "$741K"
+career-total-source: "FEC weball summary (cycles 2026)"
+bills-sponsored: 49
 ---
 
 

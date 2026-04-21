@@ -40,6 +40,8 @@ committees:
   - House Committee on Oversight and Government Reform
   - Oversight and Investigations
   - "Water, Wildlife and Fisheries"
+total-raised: "$16.5M"
+career-total-source: "FEC weball summary (cycles 2020, 2022, 2024, 2026)"
 ---
 
 

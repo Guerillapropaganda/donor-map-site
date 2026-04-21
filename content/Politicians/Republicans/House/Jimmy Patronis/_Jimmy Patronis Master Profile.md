@@ -34,6 +34,9 @@ committees:
   - "Oversight, Investigations, and Regulations"
   - "Rural Development, Energy, and Supply Chains"
   - Water Resources and Environment
+total-raised: "$3.1M"
+career-total-source: "FEC weball summary (cycles 2026)"
+bills-sponsored: 9
 ---
 
 

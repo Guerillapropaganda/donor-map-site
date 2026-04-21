@@ -45,6 +45,8 @@ committees:
   - Senate Committee on Armed Services
   - Senate Committee on Homeland Security and Governmental Affairs
   - "Senate Committee on Veterans' Affairs"
+total-raised: "$56.3M"
+career-total-source: "FEC weball summary (cycles 2024, 2026)"
 ---
 
 

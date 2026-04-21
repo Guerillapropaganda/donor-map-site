@@ -35,6 +35,8 @@ committees:
   - House Committee on Foreign Affairs
   - "Labor, Health and Human Services, Education, and Related Agencies"
   - Oversight and Intelligence
+total-raised: "$7.9M"
+career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

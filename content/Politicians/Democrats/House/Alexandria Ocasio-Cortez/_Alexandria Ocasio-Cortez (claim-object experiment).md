@@ -16,6 +16,8 @@ experiment: phase-4-claim-object
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H8NY15148"
 last-enriched: 2026-04-20
+total-raised: "$78.8M"
+career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

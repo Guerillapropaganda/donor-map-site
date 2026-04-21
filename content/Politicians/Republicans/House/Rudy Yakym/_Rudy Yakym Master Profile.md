@@ -34,6 +34,8 @@ committees:
   - Oversight
   - Social Security
   - Work and Welfare
+total-raised: "$8.8M"
+career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
 ---
 
 

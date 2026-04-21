@@ -36,6 +36,8 @@ bills-enacted: 0
 top-policy-area: Health
 top-donors: "[[Leidos]], [[American College of Radiology Association PAC]], [[National Rifle Association]], [[Save America PAC]], [[National Association of Realtors]], [[David Rouzer]], [[Honeywell]], [[Raytheon (RTX)]], [[General Motors]], [[AIPAC - American Israel Public Affairs Committee]], [[Northrop Grumman]], [[AT&T - WarnerMedia]], [[Comcast - NBCUniversal]], [[American Chemistry Council, INC]], [[Valero Energy]], [[Occidental Petroleum]], [[Chevron]], [[Jim Jordan]], [[Lockheed Martin]], [[iHeartMedia]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Associated General Contractors of America Political Action Committee]], [[L3Harris Technologies]], [[National Cattlemen's Beef Association]], [[Marathon Petroleum]], [[BAE Systems]], [[Really American Pac]], [[Microsoft]], [[WinRed]], [[Ralph Norman]], [[National Multifamily Housing Council]], [[AT&T]], [[Honeywell International]]"
 last-enriched: 2026-04-21
+total-raised: "$8.8M"
+career-total-source: "FEC weball summary (cycles 1996, 1998, 2000, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

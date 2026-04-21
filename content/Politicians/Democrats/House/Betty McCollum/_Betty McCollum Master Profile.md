@@ -36,6 +36,8 @@ committees:
   - Defense
   - House Committee on Appropriations
   - "Interior, Environment, and Related Agencies"
+total-raised: "$14.5M"
+career-total-source: "FEC weball summary (cycles 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

@@ -38,6 +38,8 @@ committees:
   - House Permanent Select Committee on Intelligence
   - National Intelligence Enterprise
   - Trade
+total-raised: "$16.3M"
+career-total-source: "FEC weball summary (cycles 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

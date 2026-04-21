@@ -34,6 +34,8 @@ committees:
   - Environment
   - Health
   - House Committee on Energy and Commerce
+total-raised: "$10.0M"
+career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
 ---
 
 

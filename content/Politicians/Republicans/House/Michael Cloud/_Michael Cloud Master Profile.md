@@ -37,6 +37,8 @@ committees:
   - House Committee on Oversight and Government Reform
   - "Interior, Environment, and Related Agencies"
   - Military and Foreign Affairs
+total-raised: "$4.5M"
+career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

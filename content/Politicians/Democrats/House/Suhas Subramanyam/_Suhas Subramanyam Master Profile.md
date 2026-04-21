@@ -34,6 +34,9 @@ committees:
   - "House Committee on Science, Space, and Technology"
   - Military and Foreign Affairs
   - Research and Technology
+total-raised: "$3.9M"
+career-total-source: "FEC weball summary (cycles 2024, 2026)"
+bills-sponsored: 25
 ---
 
 

@@ -34,6 +34,8 @@ committees:
   - Joint Economic Committee
   - Oversight
   - Tax
+total-raised: "$13.8M"
+career-total-source: "FEC weball summary (cycles 2020, 2022, 2024, 2026)"
 ---
 
 

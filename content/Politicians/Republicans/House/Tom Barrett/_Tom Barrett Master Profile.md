@@ -32,6 +32,7 @@ committees:
   - House Committee on Transportation and Infrastructure
   - "House Committee on Veterans' Affairs"
   - Technology Modernization
+bills-sponsored: 32
 ---
 
 

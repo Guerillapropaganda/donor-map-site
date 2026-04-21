@@ -36,6 +36,8 @@ checklist-na:
   - "committee-assignments: Never held elected office (candidate)"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21
+total-raised: "$66.2M"
+career-total-source: "FEC weball summary (cycles 2024)"
 ---
 
 

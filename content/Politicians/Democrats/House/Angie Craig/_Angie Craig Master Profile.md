@@ -32,6 +32,8 @@ bills-sponsored: 29
 bills-cosponsored: 543
 bills-enacted: 0
 top-policy-area: Health
+total-raised: "$9.3M"
+career-total-source: "FEC weball summary (cycles 2026)"
 ---
 
 

@@ -56,6 +56,8 @@ committees:
   - Senate Committee on the Budget
   - "State Department and USAID Management, International Operations, and Bilateral International Development"
   - "Transportation, Housing and Urban Development, and Related Agencies"
+total-raised: "$22.7M"
+career-total-source: "FEC weball summary (cycles 2016, 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

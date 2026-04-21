@@ -46,6 +46,8 @@ bills-cosponsored: 212
 bills-enacted: 0
 top-policy-area: International Affairs
 last-enriched: 2026-04-21
+total-raised: "$28.7M"
+career-total-source: "FEC weball summary (cycles 2016, 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

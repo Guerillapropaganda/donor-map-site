@@ -46,6 +46,8 @@ committees:
   - "Senate Committee on Veterans' Affairs"
   - Strategic Forces
   - Transportation and Infrastructure
+total-raised: "$13.6M"
+career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

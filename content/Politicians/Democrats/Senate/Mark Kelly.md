@@ -3,7 +3,7 @@ title: Mark Kelly
 type: politician
 chamber: Senate
 party: Democrat
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: "Mark Kelly is the defense contractor donor class's favorite Democrat. His military and NASA biography provides unassailable patriotic cover for votes expanding Pentagon budgets that directly benefit his donors. Seat on Armed Services plus Lockheed / Raytheon / Northrop / General Dynamics / BAE / L3Harris / Boeing donations = jurisdictional tribute, not constituent service."
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
@@ -31,6 +31,14 @@ committees:
   - Senate Special Committee on Aging
   - Strategic Forces
   - Transportation and Infrastructure
+total-raised: "$240.0M"
+career-total-source: "FEC weball summary (cycles 2020, 2022, 2024, 2026)"
+bills-sponsored: 108
+source-types:
+  - Congress
+known-gaps:
+  - "No FEC contribution data"
+  - "No voting record data"
 ---
 
 

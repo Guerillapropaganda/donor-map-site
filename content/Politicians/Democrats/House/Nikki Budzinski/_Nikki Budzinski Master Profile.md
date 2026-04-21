@@ -36,6 +36,8 @@ committees:
   - House Committee on Agriculture
   - "House Committee on Veterans' Affairs"
   - Technology Modernization
+total-raised: "$10.7M"
+career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
 ---
 
 

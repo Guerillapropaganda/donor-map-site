@@ -43,6 +43,8 @@ bills-cosponsored: 4846
 bills-enacted: 3
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: Health
+total-raised: "$37.1M"
+career-total-source: "FEC weball summary (cycles 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

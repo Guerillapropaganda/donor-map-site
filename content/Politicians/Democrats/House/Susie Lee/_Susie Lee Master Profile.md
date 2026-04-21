@@ -36,6 +36,8 @@ committees:
   - Federal Lands
   - House Committee on Appropriations
   - House Committee on Natural Resources
+total-raised: "$27.4M"
+career-total-source: "FEC weball summary (cycles 2016, 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

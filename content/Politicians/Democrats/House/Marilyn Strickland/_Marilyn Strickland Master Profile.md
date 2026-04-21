@@ -36,6 +36,8 @@ committees:
   - House Committee on Transportation and Infrastructure
   - Military Personnel
   - Readiness
+total-raised: "$7.0M"
+career-total-source: "FEC weball summary (cycles 2020, 2022, 2024, 2026)"
 ---
 
 

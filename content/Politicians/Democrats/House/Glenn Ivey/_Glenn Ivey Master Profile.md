@@ -33,6 +33,8 @@ committees:
   - Financial Services and General Government
   - House Committee on Appropriations
   - House Committee on Ethics
+total-raised: "$1.8M"
+career-total-source: "FEC weball summary (cycles 2012, 2016, 2026)"
 ---
 
 

@@ -34,6 +34,8 @@ committees:
   - House Committee on Education and Workforce
   - "Labor, Health and Human Services, Education, and Related Agencies"
   - "National Security, Department of State, and Related Programs"
+total-raised: "$3.9M"
+career-total-source: "FEC weball summary (cycles 2026)"
 ---
 
 

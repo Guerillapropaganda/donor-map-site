@@ -28,6 +28,7 @@ committees:
   - "Digital Assets, Financial Technology, and Artificial Intelligence"
   - House Committee on Financial Services
   - House Committee on the Budget
+bills-sponsored: 38
 ---
 
 

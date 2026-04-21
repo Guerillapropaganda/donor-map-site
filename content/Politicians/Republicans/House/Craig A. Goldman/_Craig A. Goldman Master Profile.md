@@ -28,6 +28,7 @@ committees:
   - Communications and Technology
   - Energy
   - House Committee on Energy and Commerce
+bills-sponsored: 7
 ---
 
 

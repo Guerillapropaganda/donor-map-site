@@ -33,6 +33,9 @@ committees:
   - House Committee on Transportation and Infrastructure
   - Space and Aeronautics
   - Water Resources and Environment
+total-raised: "$6.0M"
+career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
+bills-sponsored: 12
 ---
 
 

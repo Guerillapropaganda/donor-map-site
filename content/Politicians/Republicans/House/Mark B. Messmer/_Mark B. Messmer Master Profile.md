@@ -34,6 +34,7 @@ committees:
   - Readiness
   - Strategic Forces
   - Workforce Protections
+bills-sponsored: 13
 ---
 
 

@@ -42,6 +42,8 @@ committees:
   - Open Source Intelligence
   - Oversight and Intelligence
   - South and Central Asia
+total-raised: "$18.9M"
+career-total-source: "FEC weball summary (cycles 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

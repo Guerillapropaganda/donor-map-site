@@ -36,6 +36,8 @@ committees:
   - House Committee on Education and Workforce
   - "House Committee on Science, Space, and Technology"
   - Investigations and Oversight
+total-raised: "$9.0M"
+career-total-source: "FEC weball summary (cycles 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

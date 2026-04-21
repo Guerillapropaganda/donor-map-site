@@ -25,6 +25,8 @@ known-gaps:
   - "No FEC contribution data"
   - "No voting record data"
 last-enriched: 2026-04-21
+total-raised: "$3.5M"
+career-total-source: "FEC weball summary (cycles 2026)"
 ---
 
 

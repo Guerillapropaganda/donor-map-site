@@ -35,6 +35,7 @@ committees:
   - Investigations and Oversight
   - Oversight and Investigations
   - "Railroads, Pipelines, and Hazardous Materials"
+bills-sponsored: 26
 ---
 
 

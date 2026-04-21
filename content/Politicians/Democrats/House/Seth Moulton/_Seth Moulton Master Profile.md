@@ -36,6 +36,8 @@ committees:
   - House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party
   - "Railroads, Pipelines, and Hazardous Materials"
   - Strategic Forces
+total-raised: "$4.3M"
+career-total-source: "FEC weball summary (cycles 2026)"
 ---
 
 

@@ -31,6 +31,7 @@ committees:
   - House Committee on Oversight and Government Reform
   - Military and Foreign Affairs
   - Tactical Air and Land Forces
+bills-sponsored: 14
 ---
 
 

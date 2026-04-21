@@ -33,6 +33,9 @@ committees:
   - House Committee on Transportation and Infrastructure
   - Nutrition and Foreign Agriculture
   - Water Resources and Environment
+total-raised: "$3.4M"
+career-total-source: "FEC weball summary (cycles 2024, 2026)"
+bills-sponsored: 15
 ---
 
 

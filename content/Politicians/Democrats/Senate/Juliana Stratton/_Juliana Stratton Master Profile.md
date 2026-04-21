@@ -22,6 +22,8 @@ urls-first-triaged: "2026-04-15"
 source-types:
   - Congress
 
+total-raised: "$4.8M"
+career-total-source: "FEC weball summary (cycles 2026)"
 ---
 
 

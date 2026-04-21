@@ -30,6 +30,7 @@ committees:
   - Intelligence and Special Operations
   - Military Personnel
   - "Oversight, Investigations, and Regulations"
+bills-sponsored: 29
 ---
 
 

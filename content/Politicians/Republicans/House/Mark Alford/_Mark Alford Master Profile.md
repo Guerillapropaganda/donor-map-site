@@ -38,6 +38,8 @@ committees:
   - "Military Construction, Veterans Affairs, and Related Agencies"
   - "National Security, Department of State, and Related Programs"
   - "Oversight, Investigations, and Regulations"
+total-raised: "$3.4M"
+career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
 ---
 
 

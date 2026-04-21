@@ -37,6 +37,7 @@ committees:
   - Senate Committee on Foreign Relations
   - Senate Special Committee on Aging
   - Water and Power
+bills-sponsored: 27
 ---
 
 

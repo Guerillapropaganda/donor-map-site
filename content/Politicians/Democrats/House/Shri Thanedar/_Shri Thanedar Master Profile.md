@@ -34,6 +34,8 @@ committees:
   - House Committee on Agriculture
   - House Committee on Homeland Security
   - "Oversight, Investigations, and Accountability"
+total-raised: "$19.0M"
+career-total-source: "FEC weball summary (cycles 2022, 2024)"
 ---
 
 

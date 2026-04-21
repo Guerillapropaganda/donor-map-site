@@ -27,6 +27,7 @@ committees:
   - Capital Markets
   - House Committee on Financial Services
   - Housing and Insurance
+bills-sponsored: 17
 ---
 
 

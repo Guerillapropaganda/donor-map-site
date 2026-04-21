@@ -37,6 +37,8 @@ committees:
   - House Committee on Energy and Commerce
   - House Committee on Natural Resources
   - "Water, Wildlife and Fisheries"
+total-raised: "$4.5M"
+career-total-source: "FEC weball summary (cycles 2020, 2022, 2024, 2026)"
 ---
 
 

@@ -32,6 +32,8 @@ bills-enacted: 0
 top-policy-area: Health
 top-donors: "[[National Association of Realtors]], [[Planned Parenthood Votes]], [[Ted Lieu]], [[Sierra Club Independent Action]], [[League of Conservation Voters]], [[National Restaurant Association]], [[Walmart - Walton Family]], [[J Street]], [[NEA Fund for Children and Public Education]], [[SEIU COPE]], [[American Hospital Association PAC]], [[National Multifamily Housing Council]], [[American Federation of State County & Municipal Employees P E O P L E]], [[UA Political Action Committee]], [[Medicare for All - The Policy That Broke the Party]], [[American Federation of State County & Municipal Employees  P E O P L E]]"
 last-enriched: 2026-04-20
+total-raised: "$11.4M"
+career-total-source: "FEC weball summary (cycles 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

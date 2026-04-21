@@ -36,6 +36,8 @@ committees:
   - Housing and Insurance
   - Middle East and North Africa
   - Western Hemisphere
+total-raised: "$16.7M"
+career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
 ---
 
 

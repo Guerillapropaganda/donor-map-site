@@ -1,7 +1,7 @@
 ---
 title: Tim Moore
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 party: Republican
@@ -33,6 +33,9 @@ committees:
   - House Committee on Financial Services
   - House Committee on the Budget
   - Oversight and Investigations
+total-raised: "$3.8M"
+career-total-source: "FEC weball summary (cycles 2024, 2026)"
+bills-sponsored: 22
 ---
 
 

@@ -36,6 +36,8 @@ committees:
   - Health
   - House Committee on Ways and Means
   - Work and Welfare
+total-raised: "$6.0M"
+career-total-source: "FEC weball summary (cycles 2016, 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

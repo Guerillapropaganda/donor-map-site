@@ -36,6 +36,8 @@ committees:
   - House Committee on Oversight and Government Reform
   - House Committee on Transportation and Infrastructure
   - "Railroads, Pipelines, and Hazardous Materials"
+total-raised: "$9.9M"
+career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
 ---
 
 

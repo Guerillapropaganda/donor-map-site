@@ -1,7 +1,7 @@
 ---
 title: Tim Sheehy
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 last-updated: 2026-04-19
 source-tier: 1
 party: Republican
@@ -37,6 +37,9 @@ committees:
   - "Senate Committee on Commerce, Science, and Transportation"
   - "Senate Committee on Veterans' Affairs"
   - Telecommunications and Media
+total-raised: "$31.4M"
+career-total-source: "FEC weball summary (cycles 2024, 2026)"
+bills-sponsored: 58
 ---
 
 

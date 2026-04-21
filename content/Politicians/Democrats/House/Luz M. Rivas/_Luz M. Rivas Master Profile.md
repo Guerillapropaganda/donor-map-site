@@ -30,6 +30,7 @@ committees:
   - Investigations and Oversight
   - Research and Technology
   - "Water, Wildlife and Fisheries"
+bills-sponsored: 8
 ---
 
 

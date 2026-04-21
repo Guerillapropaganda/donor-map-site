@@ -48,6 +48,8 @@ committees:
   - "Surface Transportation, Freight, Pipelines, and Safety"
   - Telecommunications and Media
   - the Constitution
+total-raised: "$11.3M"
+career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
 ---
 
 

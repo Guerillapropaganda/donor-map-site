@@ -40,6 +40,8 @@ committees:
   - Middle East and North Africa
   - "Railroads, Pipelines, and Hazardous Materials"
   - South and Central Asia
+total-raised: "$6.3M"
+career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

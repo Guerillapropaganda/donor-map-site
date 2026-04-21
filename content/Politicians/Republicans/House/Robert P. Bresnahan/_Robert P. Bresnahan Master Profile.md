@@ -34,6 +34,7 @@ committees:
   - House Committee on Small Business
   - House Committee on Transportation and Infrastructure
   - "Innovation, Entrepreneurship, and Workforce Development"
+bills-sponsored: 16
 ---
 
 

@@ -17,6 +17,9 @@ source-types:
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "S4CO00163"
 last-enriched: 2026-04-21
+total-raised: "$13.5M"
+career-total-source: "FEC weball summary (cycles 2004, 2006, 2008, 2010, 2012, 2014, 2016)"
+bills-sponsored: 99
 ---
 
 

@@ -34,6 +34,7 @@ committees:
   - "Senate Committee on Health, Education, Labor, and Pensions"
   - Senate Special Committee on Aging
   - Transportation and Infrastructure
+bills-sponsored: 24
 ---
 
 

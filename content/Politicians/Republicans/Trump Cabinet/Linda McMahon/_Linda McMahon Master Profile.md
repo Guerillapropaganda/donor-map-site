@@ -28,6 +28,8 @@ opposes: "[[DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE]] · [[MAJORITY PAC]] · [[
 related: "[[_Donald Trump Master Profile]] · [[_Howard Lutnick Master Profile]] · [[US Chamber of Commerce]]"
 donors: "[[Brady Campaign]] · [[MAGA Inc]] · [[America First Policy Institute]] · [[US CHAMBER OF COMMERCE]] · [[AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E]] · [[US Chamber of Commerce]] · [[Majority PAC]] · [[American Federation of State County & Municipal Employees  P E O P L E]]"
 urls-first-triaged: "2026-04-15"
+total-raised: "$101.5M"
+career-total-source: "FEC weball summary (cycles 2010, 2012, 2014)"
 ---
 
 

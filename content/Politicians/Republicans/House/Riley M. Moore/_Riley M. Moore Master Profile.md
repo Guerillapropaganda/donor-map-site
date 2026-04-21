@@ -29,6 +29,7 @@ committees:
   - House Committee on Appropriations
   - "Labor, Health and Human Services, Education, and Related Agencies"
   - Legislative Branch
+bills-sponsored: 11
 ---
 
 

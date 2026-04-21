@@ -30,6 +30,7 @@ committees:
   - House Committee on Agriculture
   - "House Committee on Science, Space, and Technology"
   - Research and Technology
+bills-sponsored: 25
 ---
 
 

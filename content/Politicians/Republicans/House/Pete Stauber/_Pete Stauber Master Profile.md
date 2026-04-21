@@ -39,6 +39,8 @@ committees:
   - House Committee on Transportation and Infrastructure
   - "Railroads, Pipelines, and Hazardous Materials"
   - "Rural Development, Energy, and Supply Chains"
+total-raised: "$10.6M"
+career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

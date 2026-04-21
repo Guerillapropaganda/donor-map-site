@@ -26,6 +26,8 @@ known-gaps:
   - "No mapped relationships"
 related: "[[_Bernie Sanders Master Profile|Bernie Sanders]] · [[2026 Senate Primary Races]] · [[Michigan Senate Primary and the Progressive Proxy War]] · [[_Mallory McMorrow Master Profile|Mallory McMorrow]]"
 urls-first-triaged: "2026-04-15"
+total-raised: "$7.6M"
+career-total-source: "FEC weball summary (cycles 2026)"
 ---
 
 

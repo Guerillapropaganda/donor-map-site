@@ -36,6 +36,8 @@ committees:
   - House Committee on Homeland Security
   - House Committee on Natural Resources
   - "Water, Wildlife and Fisheries"
+total-raised: "$7.0M"
+career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
 ---
 
 

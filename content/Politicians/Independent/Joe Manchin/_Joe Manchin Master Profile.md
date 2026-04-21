@@ -31,6 +31,8 @@ bills-cosponsored: 260
 bills-enacted: 1
 top-policy-area: Health
 last-enriched: 2026-04-20
+total-raised: "$30.9M"
+career-total-source: "FEC weball summary (cycles 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024)"
 ---
 
 

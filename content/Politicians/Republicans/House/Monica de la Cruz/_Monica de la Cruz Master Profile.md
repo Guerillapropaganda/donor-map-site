@@ -44,6 +44,8 @@ committees:
   - House Committee on Financial Services
   - Housing and Insurance
   - Nutrition and Foreign Agriculture
+total-raised: "$17.3M"
+career-total-source: "FEC weball summary (cycles 2020, 2022, 2024, 2026)"
 ---
 
 

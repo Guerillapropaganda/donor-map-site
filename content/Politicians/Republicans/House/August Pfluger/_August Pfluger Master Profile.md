@@ -35,6 +35,8 @@ committees:
   - Environment
   - House Committee on Energy and Commerce
   - House Committee on Homeland Security
+total-raised: "$11.9M"
+career-total-source: "FEC weball summary (cycles 2020, 2022, 2024, 2026)"
 ---
 
 

@@ -34,6 +34,8 @@ committees:
   - Highways and Transit
   - House Committee on Oversight and Government Reform
   - House Committee on Transportation and Infrastructure
+total-raised: "$5.0M"
+career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
 ---
 
 

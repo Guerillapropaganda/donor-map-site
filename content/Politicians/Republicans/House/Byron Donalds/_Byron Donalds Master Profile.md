@@ -36,6 +36,8 @@ committees:
   - House Committee on Financial Services
   - House Committee on Oversight and Government Reform
   - Military and Foreign Affairs
+total-raised: "$13.2M"
+career-total-source: "FEC weball summary (cycles 2012, 2022, 2024, 2026)"
 ---
 
 

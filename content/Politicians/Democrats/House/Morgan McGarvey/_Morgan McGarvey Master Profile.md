@@ -37,6 +37,8 @@ committees:
   - "House Committee on Veterans' Affairs"
   - House Committee on the Budget
   - "Innovation, Entrepreneurship, and Workforce Development"
+total-raised: "$6.6M"
+career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
 ---
 
 

@@ -37,6 +37,8 @@ committees:
   - House Committee on Foreign Affairs
   - "National Security, Illicit Finance, and International Financial Institutions"
   - Oversight and Intelligence
+total-raised: "$5.4M"
+career-total-source: "FEC weball summary (cycles 2016, 2018, 2020, 2022, 2024, 2026)"
 ---
 
 

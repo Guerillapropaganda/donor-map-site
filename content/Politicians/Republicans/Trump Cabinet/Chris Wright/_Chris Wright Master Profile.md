@@ -22,6 +22,8 @@ known-gaps:
 related: "[[_Donald Trump Master Profile]] · [[Koch Network - Charles Koch]]"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-20
+total-raised: "$11K"
+career-total-source: "FEC weball summary (cycles 2024)"
 ---
 
 
