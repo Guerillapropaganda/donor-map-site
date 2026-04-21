@@ -46,15 +46,33 @@ const ENT_FILE = path.join(ROOT, 'data', 'entities.jsonl');
 const REL_FILE = path.join(ROOT, 'data', 'relationships.jsonl');
 const DERIVED_DIR = path.join(ROOT, 'data', 'derived');
 
+// Normalization: the normalized key groups different string forms of
+// the same entity. Started narrow (just acronym-prefix + punctuation);
+// extended on 2026-04-21 to catch 27 more dupe-variants found via the
+// orphan-entities audit:
+//   • ALL CAPS ↔ Title Case (lowercase early)
+//   • Honorifics anywhere (Mr., Mrs., Ms., Dr., Hon., Gov., Sen., Rep.)
+//     → "Miriam Dr. Adelson" matches "Miriam Adelson"
+//   • Middle-initial single letters ("Michael R. Bloomberg" → "Michael Bloomberg")
+//   • Corporate suffixes (KOCH INDUSTRIES INC. → Koch Industries)
+//   • Leading-period ingest bug (". National Association Of Realto")
+//   • Trailing commas from source-data artifacts
 function normForKey(s) {
-  return String(s)
-    .toLowerCase()
-    // Strip committee-acronym prefix like "DSCC - " / "NRSC - "
-    .replace(/^(dscc|nrsc|dcc|nrcc|dnc|rnc|dccc|senate majority|national republican|democratic national|republican national|afl[- ]cio)\s*-\s*/, '')
-    // Strip punctuation, collapse whitespace
-    .replace(/[^a-z0-9 ,]/g, ' ')
-    .replace(/\s+/g, ' ')
-    .trim();
+  let n = String(s).toLowerCase();
+  // Strip leading "." / "," (ingest-script truncation artifact)
+  n = n.replace(/^\s*[.,]+\s*/, '');
+  // Strip committee-acronym prefix like "DSCC - " / "NRSC - "
+  n = n.replace(/^(dscc|nrsc|dcc|nrcc|dnc|rnc|dccc|senate majority|national republican|democratic national|republican national|afl[- ]cio)\s*-\s*/, '');
+  // Strip corporate suffixes. Must precede punctuation strip so "Inc."
+  // with its trailing dot still matches the \b boundary.
+  n = n.replace(/\b(inc|incorporated|llc|l\.l\.c|lp|llp|corp|corporation|co|company|limited|ltd|gmbh)\b\.?/g, ' ');
+  // Strip honorifics (with or without trailing period)
+  n = n.replace(/\b(mr|mrs|ms|dr|hon|gov|sen|rep|pres)\b\.?/g, ' ');
+  // Strip single-letter middle initials ("Michael R. Bloomberg" → Michael Bloomberg)
+  n = n.replace(/\b[a-z]\b\.?/g, ' ');
+  // Strip punctuation, collapse whitespace, trim
+  n = n.replace(/[^a-z0-9 ,]/g, ' ').replace(/\s+/g, ' ').trim();
+  return n;
 }
 
 function fecShapeToTitleCase(name) {
@@ -141,11 +159,81 @@ function main() {
       console.log(`  group: ${names.map((n) => `"${n}"`).join(' / ')} → canonical "${canonical}"`);
     }
   }
-  console.log(`\n${dupGroups} duplicate groups (${dupEnts} rows to collapse)`);
+  console.log(`\n${dupGroups} entity duplicate groups (${dupEnts} rows to collapse)`);
   console.log(`entities: ${ents.length} → ${canonicalEnts.length}`);
 
-  // Show edge-impact estimate without reading relationships.jsonl yet
-  console.log(`\n${rename.size} old-name → canonical rewrites queued for edge files\n`);
+  // ─── Orphan-rename pass ────────────────────────────────────────────
+  // Extends the rewrite map with orphan edge names that collapse to an
+  // existing canonical entity under the new normalization. Without this
+  // step, "ONE NATION" in an edge stays as "ONE NATION" even though
+  // entities.jsonl has "One Nation" — the Ask panel treats them as
+  // two entities, totals split, etc. Discovered via audit-orphan-
+  // entities.cjs (found 27 such dupes in the top-100 orphan list).
+  //
+  // For each orphan edge name:
+  //   1. Normalize it via normForKey
+  //   2. If the normalized key matches an entity canonical → add to rename
+  //   3. Also try FEC-shape conversion (LAST, FIRST → First Last)
+  //
+  // Builds on the canonicalEnts list (post entity-dedup) so it won't
+  // rename to a now-removed duplicate.
+  const canonByNormKey = new Map();
+  for (const e of canonicalEnts) {
+    const k = normForKey(e.name);
+    if (!canonByNormKey.has(k)) canonByNormKey.set(k, e.name);
+  }
+  const entSet = new Set(canonicalEnts.map((e) => e.name));
+  // Read every edge file, collect orphan names that dedupe-match an entity
+  const orphanEdgeFiles = [REL_FILE];
+  if (fs.existsSync(DERIVED_DIR)) {
+    for (const f of fs.readdirSync(DERIVED_DIR)) {
+      if (f.endsWith('.jsonl')) orphanEdgeFiles.push(path.join(DERIVED_DIR, f));
+    }
+  }
+  const orphanSeen = new Set();
+  function readLines(file, onLine) {
+    const CHUNK = 64 * 1024 * 1024;
+    const fd = fs.openSync(file, 'r');
+    const size = fs.fstatSync(fd).size;
+    let offset = 0, carry = '';
+    try {
+      while (offset < size) {
+        const len = Math.min(CHUNK, size - offset);
+        const buf = Buffer.alloc(len);
+        fs.readSync(fd, buf, 0, len, offset);
+        offset += len;
+        const chunk = carry + buf.toString('utf-8');
+        const lines = chunk.split('\n');
+        carry = lines.pop();
+        for (const line of lines) if (line.trim()) onLine(line);
+      }
+      if (carry.trim()) onLine(carry);
+    } finally { fs.closeSync(fd); }
+  }
+  for (const f of orphanEdgeFiles) {
+    if (!fs.existsSync(f)) continue;
+    readLines(f, (line) => {
+      let e; try { e = JSON.parse(line); } catch { return; }
+      for (const side of [e.from, e.to]) {
+        if (!side || entSet.has(side) || orphanSeen.has(side) || rename.has(side)) continue;
+        orphanSeen.add(side);
+        const k = normForKey(side);
+        if (k.length < 2) return;
+        const hit = canonByNormKey.get(k);
+        if (hit) { rename.set(side, hit); return; }
+        // FEC-shape fallback ("OBAMA, BARACK" → "Barack Obama")
+        const tc = fecShapeToTitleCase(side);
+        if (tc) {
+          const k2 = normForKey(tc);
+          const hit2 = canonByNormKey.get(k2);
+          if (hit2) rename.set(side, hit2);
+        }
+      }
+    });
+  }
+  const orphanRewrites = [...rename.keys()].filter((k) => !ents.some((e) => e.name === k)).length;
+  console.log(`${orphanRewrites} orphan edge names mapped to existing canonical entities.`);
+  console.log(`\n${rename.size} total old-name → canonical rewrites queued for edge files\n`);
 
   if (!APPLY) { console.log('(dry-run — no write)'); return; }
 
@@ -180,18 +268,37 @@ function main() {
       if (f.endsWith('.jsonl')) edgeFiles.push(path.join(DERIVED_DIR, f));
     }
   }
+  // Chunked read — fec-indiv-by-committee.jsonl is 1.7GB after the $1K
+  // re-ingest; readFileSync hits V8's 512MB string cap on it.
+  function readLinesChunked(file, onLine) {
+    const CHUNK = 64 * 1024 * 1024;
+    const fd = fs.openSync(file, 'r');
+    const size = fs.fstatSync(fd).size;
+    let offset = 0, carry = '';
+    try {
+      while (offset < size) {
+        const len = Math.min(CHUNK, size - offset);
+        const buf = Buffer.alloc(len);
+        fs.readSync(fd, buf, 0, len, offset);
+        offset += len;
+        const chunk = carry + buf.toString('utf-8');
+        const parts = chunk.split('\n');
+        carry = parts.pop();
+        for (const line of parts) onLine(line);
+      }
+      if (carry) onLine(carry);
+    } finally { fs.closeSync(fd); }
+  }
   let edgesRewritten = 0, edgesMerged = 0;
   for (const f of edgeFiles) {
     if (!fs.existsSync(f)) continue;
     fs.copyFileSync(f, f + '.pre-dedupe.bak');
-    const lines = fs.readFileSync(f, 'utf-8').split('\n');
-    const edgesByNewId = new Map(); // id → merged edge
-    const unmodifiedLines = []; // non-JSON / invalid lines pass through
+    const edgesByNewId = new Map();
     let fileHits = 0, fileMerges = 0;
-    for (const line of lines) {
-      if (!line.trim()) { unmodifiedLines.push({ pos: edgesByNewId.size + unmodifiedLines.length, raw: line }); continue; }
+    readLinesChunked(f, (line) => {
+      if (!line || !line.trim()) return;
       let e;
-      try { e = JSON.parse(line); } catch { unmodifiedLines.push({ pos: edgesByNewId.size + unmodifiedLines.length, raw: line }); continue; }
+      try { e = JSON.parse(line); } catch { return; }
       let changed = false;
       if (rename.has(e.from)) { e.from = rename.get(e.from); changed = true; }
       if (rename.has(e.to)) { e.to = rename.get(e.to); changed = true; }
@@ -218,9 +325,15 @@ function main() {
       } else {
         edgesByNewId.set(e.id || `__no_id_${edgesByNewId.size}`, e);
       }
-    }
-    const outLines = [...edgesByNewId.values()].map((e) => JSON.stringify(e));
-    fs.writeFileSync(f, outLines.join('\n') + '\n');
+    });
+    // Synchronous write via fd — avoids building one giant string (V8 cap)
+    // and avoids the async writeStream timing problem.
+    const outFd = fs.openSync(f, 'w');
+    try {
+      for (const e of edgesByNewId.values()) {
+        fs.writeSync(outFd, JSON.stringify(e) + '\n');
+      }
+    } finally { fs.closeSync(outFd); }
     if (fileHits > 0 || fileMerges > 0) {
       console.log(`  ${path.basename(f)}: ${fileHits} rewritten, ${fileMerges} merged into existing`);
     }
