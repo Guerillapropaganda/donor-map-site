@@ -71,6 +71,7 @@ const config: QuartzConfig = {
       Plugin.SourceRefs(),
       Plugin.HideInternalMarkers(),
       Plugin.HideEmptySections(),
+      Plugin.WrapProfileSections(),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
