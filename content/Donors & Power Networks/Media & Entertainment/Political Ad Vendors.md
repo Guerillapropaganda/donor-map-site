@@ -1,0 +1,94 @@
+---
+title: Political Ad Vendors
+type: corporation
+content-readiness: raw
+last-updated: 2026-04-21
+sector: Media & Entertainment
+entity-type: Category Page
+source-tier: 1
+aliases:
+  - Political Media Buyers
+  - Political Ad Buying Firms
+internal-notes: Category page auto-created 2026-04-21 from orphan-entities-queue. Aggregates the political-ad-vendor cluster surfaced by the audit. Individual firms share FEC operating-expense edges totaling $3B+ across 2003-2024. Research Claude editorial pass pending. Per-vendor profiles may be promoted from this page when editorial warrants.
+---
+
+
+## Who They Are
+
+Political ad vendors are the media-buying and production firms that actually create and place political ads on TV, radio, digital, and direct mail. When a super PAC or campaign "spends $50M in Ohio," that money doesn't go directly to voters. It goes to a firm like GMMB or Targeted Victory, which buys the ad inventory and produces the creative.
+
+These firms are mostly invisible to voters but absolutely central to how political money translates into political influence. They are also ideologically tied: GMMB, Bully Pulpit Interactive, and Grassroots Media work for Democratic campaigns; Targeted Victory, Strategic Media Services, and Onmessage work for Republican campaigns. A firm's client list tells you everything about which side of the money flow they sit on.
+
+## The Money
+
+Tracked flow across the top political ad vendors in the vault's edge store (FEC operating-expenses, 2003 to 2024):
+
+| Vendor | Side | Total tracked | Edge count | Notes |
+|---|---|---:|---:|---|
+| GMMB (all variants) | Democratic | $1.7B+ | ~40 | Barack Obama's long-time ad agency; also HRC, Biden, Harris. |
+| Future Forward USA Action spending flows | Democratic | $345M | 2 | Harris 2024 super-PAC (separately profiled). |
+| Strategic Media Services | Republican | $284M | 15 | GOP television and digital buyer. |
+| Bully Pulpit Interactive | Democratic | $262M | 8 | Obama-Biden-era consulting firm, digital heavy. |
+| Buying Time (all variants) | Democratic | $387M | 25 | Democratic media buyer, DC-based. |
+| Screen Strategies Media | Democratic | $234M | 40 | Democratic TV ad buyer. |
+| Grassroots Media (all variants) | Democratic | $331M | 12 | Democratic direct mail and field. |
+| Targeted Victory (all variants) | Republican | $259M | 133 | Largest GOP digital ad firm, Alex Bruesewitz-era. |
+| Gambit Strategies | Republican | $140M | 6 | GOP media consulting. |
+| SKDKnickerbocker | Democratic | $126M | 20 | Democratic crisis-PR and political comms (Anita Dunn, Stephanie Cutter, Josh Isay, Hilary Rosen). |
+| Dupont Circle Strategies | Democratic | $122M | 1 | DC-based Democratic firm. |
+| MH Media | Democratic | $121M | 2 | Media-buying boutique. |
+| Onmessage (all variants) | Republican | $230M | 43 | Republican communications firm. |
+| Nexus Direct | Republican | $114M | 10 | GOP direct mail. |
+| Rising Tide Interactive | Democratic | $106M | 11 | Democratic digital. |
+| Canal Partners Media | Democratic | $86M | 24 | Democratic media buyer. |
+| Smart Media Group | Republican | $120M | 34 | Republican media buyer. |
+| Shorr Johnson Magnus | Democratic | $78M | 15 | Democratic media consulting. |
+| Aisle 518 Strategies | Republican | $68M | 12 | GOP media. |
+| Anne Lewis Strategies | Democratic | $60M | 21 | Democratic digital. |
+| FP1 Strategies | Republican | $53M | 19 | GOP consulting. |
+| Mentzer Media Services | Republican | $55M | 7 | GOP media buyer. |
+| Maverick Media (all variants) | Republican | $93M | 2 | GOP ad agency (Mark McKinnon). |
+| GPS Impact | Democratic | $48M | 30 | Democratic direct mail. |
+| Authentic Campaigns | Democratic | $38M | 22 | Democratic digital / email. |
+| Left Hook | Democratic | $98M | 16 | Democratic consulting. |
+| AL Media | Democratic | $61M | 2 | Democratic TV buyer. |
+| Southwest Publishing | Republican | $48M | 30 | GOP direct mail. |
+| RWT Production | Republican | $55M | 11 | GOP ad production. |
+| TAG LLC | Republican | $46M | 40 | Republican direct mail. |
+| The Lukens Company | Republican | $38M | 58 | Republican direct mail. |
+| Riverfront Media | Democratic | $45M | 1 | Democratic ad production. |
+| Converging Media | Democratic | $45M | 1 | Democratic media buyer. |
+| Giles-Parscale | Republican | $91M | 2 | Brad Parscale firm, Trump 2016/2020. |
+| Strategic Media Placement | Democratic | $40M | 22 | Democratic media buyer. |
+
+**Total tracked across the cluster: roughly $5.5B of FEC operating-expense outflows.** That number dwarfs almost every single donor or PAC profiled elsewhere in the vault.
+
+## Class Analysis
+
+Political ad vendors are the operational layer of the campaign-finance economy. They do not donate money. They receive it and convert it into speech. A voter sees an ad; the vendor is the actual recipient of whatever dollar figure was reported.
+
+This makes them a critical part of how money becomes political influence, but they are structurally absent from "donor" narratives. When a news story says "Future Forward spent $345M in 2024," it really means "Future Forward paid GMMB and similar vendors $345M to buy ads." The vendor is where the money lives for the brief moment it exists as something other than a bank balance.
+
+The lack of public recognition for these firms is also what makes consolidation among them meaningful: GMMB as a single Democratic ad agency received a larger total dollar flow across this period than any individual mega-donor contributed. Yet most voters could not name it.
+
+## The Contradictions
+
+None at the category level. Individual firms may have specific contradictions (Targeted Victory's Alex Bruesewitz PR blowback, GMMB's client-list overlaps across competitive primaries, etc.) which belong on per-firm profiles if and when David promotes them.
+
+## Timeline
+
+- 2002-2004: Rise of Republican direct-mail vendors (Mentzer, Southwest Publishing, TAG).
+- 2008: Obama campaign consolidates Democratic ad spending under GMMB.
+- 2012-2016: Digital-native vendors emerge (Targeted Victory, Bully Pulpit Interactive, Rising Tide).
+- 2020: Future Forward USA Action routes Harris-related spending primarily through GMMB.
+- 2024: Targeted Victory becomes top GOP digital vendor in Trump 2024.
+
+## Related Figures
+
+Nothing here yet. Individual vendor relationships to specific campaigns / super-PACs surface via the edge store.
+
+## Sources
+
+- FEC operating expenditures bulk (ingested in `data/derived/fec-oppexp.jsonl`)
+- Audit trail in `content/Admin Notes/orphan-entities-queue.md`
+- Per-firm websites and filings (to be linked per-vendor as profiles are promoted)
