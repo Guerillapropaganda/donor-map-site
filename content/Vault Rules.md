@@ -1,7 +1,7 @@
 ---
 title: Vault Rules
 type: system
-last-updated: 2026-04-16
+last-updated: 2026-04-21
 ---
 
 # Vault Rules
@@ -15,19 +15,23 @@ When a rule changes, write an ADR.
 ## 1. Content readiness tiers
 
 ```
-raw → draft → ready → verified
+raw → draft → ready → data-complete → verified → s-tier
 ```
 
-| Tier | Definition | Who can promote |
-|------|------------|-----------------|
-| raw | Initial stub or import. May be missing key fields. | automatic (on profile creation) |
-| draft | Partial enrichment. Pipeline data present but editorial work incomplete. | pipelines, Research Claude |
-| ready | 99% complete. All auto-sections populated. Editorial sections written. Only David's sign-off remains. | Research Claude |
-| verified | Editor-signed-off. All placeholder flags cleared or consciously preserved. Template validator passes. | David only |
+| Tier | Definition | Who can promote | Publishable? |
+|------|------------|-----------------|--------------|
+| raw | Initial stub or import. May be missing key fields. | automatic (on profile creation) | no |
+| draft | Partial enrichment. Pipeline data present but editorial work incomplete. | pipelines, Research Claude | no |
+| ready | 99% complete. All auto-sections populated. Editorial sections written. Only David's sign-off remains. | Research Claude | no |
+| **data-complete** (ADR-0017) | All type-specific auto-sections populated, ≥1 Tier 1 source, mapped relationships, fresh (≤90 days), zero blocking flags. **No editorial sign-off required.** | automatic via `reclassify-readiness.cjs` | **yes** — renders with auto-generated banner |
+| verified | Editor-signed-off. All placeholder flags cleared or consciously preserved. Template validator passes. 9-section contract met. | David only | yes — no banner, shows "Verified" |
+| s-tier | Original investigation / exclusive finding. Requires janitor audit + David's narrative sign-off + `angle` + `original-finding` + 3+ exclusive-connections. | David only (both gates required) | yes |
 
-**Hard rule: `ready` means David's sign-off is the only thing left.** Missing auto-blocks, stale data (>90 days), or unresolved `known-gaps` / `needs-reenrichment: true` all force the profile back to draft.
+**ADR-0017 framing:** the site's moat is comprehensive structured data, not 50 hand-polished essays. `data-complete` lets the database publish at scale — profiles render from canonical stores with an "auto-generated from federal disclosures" banner. Editorial work (Class Analysis, Who They Are, The Contradictions) rolls profiles from data-complete → verified over time as a queue, not a launch gate.
 
-**One authority for demotion:** `scripts/readiness-adjudicator.cjs` (consolidates former `reclassify-readiness`, `pipeline-janitor`, `staleness-decay` logic). Never write new code that edits `content-readiness` outside this script.
+**Hard rule: `ready` means David's sign-off is the only thing left** for verified promotion. Missing auto-blocks, stale data (>90 days), or unresolved `known-gaps` / `needs-reenrichment: true` all force the profile back to draft.
+
+**One authority for classification:** `scripts/reclassify-readiness.cjs` (consolidates former `reclassify-readiness`, `pipeline-janitor`, `staleness-decay` logic). Never write new code that edits `content-readiness` outside this script — with one exception: the ops `/api/profile/readiness` route which handles David's manual `verified` / `s-tier` promotions and is subject to stricter gates.
 
 ## 2. Source tiers
 

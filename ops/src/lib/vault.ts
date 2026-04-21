@@ -131,11 +131,18 @@ export interface Profile {
 
 /**
  * Valid content-readiness tier values.
- * Ordered worst-to-best. New in 2026-04-11: s-tier (above verified).
- * NOTE: /api/profile/readiness still rejects "s-tier" until plan Step 6
- * ships. Until then, no profile can be promoted via the API to S-tier.
+ * Ordered worst-to-best. Additions:
+ *   - 2026-04-11: s-tier (above verified, original investigation grade)
+ *   - 2026-04-21: data-complete (ADR-0017, above ready, below verified).
+ *                 Publishable with auto-generated banner; no editorial sign-off.
  */
-export type ContentReadinessTier = "raw" | "draft" | "ready" | "verified" | "s-tier"
+export type ContentReadinessTier =
+  | "raw"
+  | "draft"
+  | "ready"
+  | "data-complete"
+  | "verified"
+  | "s-tier"
 
 // Parse frontmatter from markdown content
 export function parseProfile(path: string, content: string): Profile {
@@ -428,11 +435,12 @@ export function extractUrls(content: string): { url: string; label: string; tier
 // Readiness color mapping
 export function readinessColor(status: string): string {
   switch (status) {
-    case "raw": return "#ef4444"      // red — D-F (matches vault health donut)
-    case "draft": return "#f59e0b"    // amber — C
-    case "ready": return "#10b981"    // green — B
-    case "verified": return "#fbbf24" // gold — A+ (investigative standard)
-    case "s-tier": return "#a78bfa"   // violet — S (original investigation / story grade)
+    case "raw": return "#ef4444"           // red — D-F (matches vault health donut)
+    case "draft": return "#f59e0b"         // amber — C
+    case "ready": return "#10b981"         // green — B
+    case "data-complete": return "#06b6d4" // cyan — A (ADR-0017, auto-generated, publishable)
+    case "verified": return "#fbbf24"      // gold — A+ (investigative standard)
+    case "s-tier": return "#a78bfa"        // violet — S (original investigation / story grade)
     default: return "#6b7280"
   }
 }
