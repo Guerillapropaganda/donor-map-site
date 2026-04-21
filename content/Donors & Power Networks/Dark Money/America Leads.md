@@ -1,7 +1,7 @@
 ---
 title: America Leads
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-type: Super PAC (Independent Expenditure-Only)
@@ -24,6 +24,12 @@ federal-grants-total: 167092
 employee-contributions: 46
 employee-contributions-total: 3054
 employee-donor-count: 8
+source-types:
+  - FEC
+  - USASpending
+corroboration-count: 2
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

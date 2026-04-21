@@ -1,7 +1,7 @@
 ---
 title: Food and Water Action
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-type: Super PAC (Independent Expenditure-Only)
@@ -21,6 +21,10 @@ urls-first-triaged: "2026-04-15"
 total-raised: 20
 total-spent: 4016
 cash-on-hand: 18398
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

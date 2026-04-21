@@ -1,7 +1,7 @@
 ---
 title: Southern States Police Benevolent Assoc PAC Fund
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00265546
 aliases:
   - SOUTHERN STATES POLICE BENEVOLENT ASSOC PAC FUND
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Bobby Scott]], [[Chuck Edwards]], [[Richard Hudson]], [[Brad Knott]], [[Tim Moore]], [[Brian Jack]], [[Marjorie Taylor Greene]], [[Richard McCormick]]"
 related: "[[Bobby Scott]]"
 checklist-na:
@@ -23,6 +23,8 @@ total-spent: 161317
 cash-on-hand: 894308
 individual-contributions: 453312
 contributions-to-committees: 5000
+source-types:
+  - FEC
 ---
 
 

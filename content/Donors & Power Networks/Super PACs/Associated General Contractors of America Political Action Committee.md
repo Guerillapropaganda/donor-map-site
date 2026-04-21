@@ -1,7 +1,7 @@
 ---
 title: Associated General Contractors of America Political Action Committee
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00082917
 aliases:
   - ASSOCIATED GENERAL CONTRACTORS OF AMERICA POLITICAL ACTION COMMITTEE
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Sam Graves]], [[Cathy McMorris Rodgers]], [[Eric Schmitt]], [[Michael Guest]], [[Vince Fong]], [[John James]], [[Bruce Westerman]], [[Steve Daines]], [[David Kustoff]], [[Mike Flood]], [[Mario Diaz-Balart]], [[David Rouzer]], [[David Schweikert]], [[David Scott]], [[Mark Alford]], [[Ryan Zinke]], [[Ken Calvert]], [[Elise Stefanik]], [[Suzanne Bonamici]], [[Dan Sullivan]], [[Hakeem Jeffries]], [[Richard Hudson]], [[Ted Cruz]], [[Richard Neal]], [[Greg Stanton]], [[Adrian Smith]], [[Ashley Hinson]], [[Henry Cuellar]], [[Tom Cole]], [[Celeste Maloy]], [[Lloyd Smucker]], [[Tracey Mann]], [[Mike Carey]], [[Glenn Grothman]], [[Steve Scalise]], [[Jim Costa]], [[Richard McCormick]], [[Cliff Bentz]], [[Barry Loudermilk]], [[Glenn Thompson]], [[John Kennedy]], [[Jodey Arrington]], [[Pete Stauber]], [[Roger Marshall]], [[Derek Schmidt]], [[John Barrasso]], [[Nicole Malliotakis]], [[Daniel Meuser]], [[Kevin Cramer]], [[Tim Walberg]], [[Daniel Webster]], [[John Thune]], [[Morgan Luttrell]], [[Deb Fischer]], [[Jason Smith]], [[Ron Johnson]], [[Ryan Mackenzie]], [[Carlos Gimenez]], [[John Hoeven]], [[Rudy Yakym]], [[Steve Womack]], [[Pete Ricketts]], [[Burgess Owens]], [[French Hill]], [[Byron Donalds]], [[Rick Crawford]], [[John Boozman]], [[Jimmy Panetta]], [[Joe Wilson]], [[Michelle Fischbach]], [[Brian Jack]], [[Brad Finstad]], [[Young Kim]], [[Eric Burlison]], [[Michael Baumgartner]], [[Jon Husted]], [[Virginia Foxx]], [[Randy Fine]], [[James Comer]], [[Mike Rounds]], [[Mariannette Miller-Meeks]], [[Ashley Moody]], [[Kyrsten Sinema]], [[Bryan Steil]], [[Lance Gooden]], [[Troy Balderson]], [[Ron Wyden]], [[Julie Johnson]], [[Dusty Johnson]], [[Aaron Bean]], [[Nathaniel Moran]], [[Roger Wicker]], [[Russell Fry]], [[Lisa Blunt Rochester]], [[Vicente Gonzalez]], [[Ann Wagner]], [[Nancy Mace]], [[Lindsey Graham]], [[Jay Obernolte]], [[Jason Crow]], [[Ron Estes]], [[James Lankford]], [[Guy Reschenthaler]], [[Donald Norcross]], [[Mitt Romney]], [[Sheldon Whitehouse]], [[Scott Franklin]], [[Lisa Murkowski]], [[Dan Crenshaw]], [[Josh Gottheimer]], [[Markwayne Mullin]], [[Brittany Pettersen]], [[Dan Newhouse]], [[Chris Coons]], [[Thomas Massie]], [[Marie Gluesenkamp Perez]], [[Todd Young]], [[Monica de la Cruz]], [[Darrell Issa]], [[Kay Granger]], [[Susan Collins]], [[Michael Waltz]], [[Marilyn Strickland]], [[Chuck Edwards]], [[Rick Larsen]], [[Kat Cammack]], [[Julie Fedorchak]], [[Erin Houchin]], [[Brian Babin]], [[Tim Burchett]], [[Jeff Crank]], [[Shelley Moore Capito]], [[Patrick McHenry]], [[Brett Guthrie]], [[Sheri Biggs]], [[Adam Smith]], [[Pat Harrigan]], [[Troy Downing]], [[Scott Fitzgerald]], [[Michael Lawler]], [[Bill Hagerty]], [[Darin Lahood]], [[Tim Scott]], [[Chip Roy]], [[Harold Rogers]], [[Tony Wied]], [[Maria Elvira Salazar]], [[Roger Williams]], [[Tim Moore]], [[Jerry Moran]], [[Katie Britt]], [[Kevin McCarthy]], [[John Garamendi]], [[August Pfluger]], [[Pete Sessions]], [[Steven Horsford]], [[Frank Lucas]], [[Alex Padilla]], [[Claudia Tenney]], [[Joni Ernst]], [[Brad Knott]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -23,6 +23,8 @@ cash-on-hand: 348040
 individual-contributions: 666109
 contributions-to-committees: 472000
 related: "[[Sam Graves]]"
+source-types:
+  - FEC
 ---
 
 

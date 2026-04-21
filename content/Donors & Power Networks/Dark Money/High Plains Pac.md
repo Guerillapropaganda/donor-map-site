@@ -1,7 +1,7 @@
 ---
 title: High Plains Pac
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00875039
@@ -20,6 +20,10 @@ total-raised: 1125142
 total-spent: 110657
 cash-on-hand: 1160668
 individual-contributions: 1116000
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: Empower Parents PAC
 type: donor
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-21
 aliases:
   - EMPOWER PARENTS PAC
@@ -9,6 +9,10 @@ sector: Super PACs
 entity-type: Super PAC
 source-tier: 1
 internal-notes: Stub profile auto-created 2026-04-21 from orphan-entities-queue. Super PAC focused on school-choice and education-policy races, funding conservative and pro-charter candidates at the state and federal level. $165.2M in tracked flow across 2 edges (fec-indiv-by-committee + fec-oppexp) + $82.5M via IRS 527 filings. Research Claude editorial pass pending.
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 ---
 
 ## Who They Are

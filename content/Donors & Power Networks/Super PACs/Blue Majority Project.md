@@ -1,7 +1,7 @@
 ---
 title: Blue Majority Project
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00897363
 aliases:
   - BLUE MAJORITY PROJECT
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Angie Craig]]"
 related: "[[Angie Craig]]"
 checklist-na:
@@ -22,6 +22,8 @@ total-raised: 324527
 total-spent: 244429
 cash-on-hand: 80098
 independent-expenditures: 100777
+source-types:
+  - FEC
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: New Venture Fund
 type: donor
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -71,6 +71,12 @@ employee-contributions: 435
 employee-contributions-total: 176026
 employee-donor-count: 154
 politicians-funded: "[[Center for American Progress]], [[Congressional Progressive Caucus PAC]], [[_Jon Ossoff Master Profile]], [[_Dave Min Master Profile]], [[Gates Foundation]], [[Sixteen Thirty Fund]], [[League of Conservation Voters]], [[America Votes]], [[ActBlue]], [[_Lisa Blunt Rochester Master Profile]], [[The Lincoln Project]], [[_Young Kim Master Profile]], [[_Gabe Vasquez Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[WinSenate]], [[Protect the Vote]], [[_Tammy Baldwin Master Profile]], [[Mark Kelly]], [[314 ACTION FUND]], [[Bipartisan Policy Center]], [[Brennan Center for Justice]], [[Council on Foreign Relations]], [[Cato Institute]], [[Economic Policy Institute]], [[Roosevelt Institute]], [[Schwab Charitable Fund]], [[Urban Institute]], [[Young Kim]], [[Tammy Baldwin]], [[Lisa Blunt Rochester]], [[Dave Min]], [[Jon Ossoff]], [[Gabe Vasquez]], [[Hopewell Fund]], [[Rockefeller Philanthropy Advisors]], [[Co Impact Philanthropic Funds]], [[Planned Parenthood Federation of America]], [[NEO Philanthropy]], [[Center for Popular Democracy]], [[Proteus Fund]], [[Sierra Club Foundation]], [[North Fund]], [[Prison Policy Initiative]], [[314 Action Fund]], [[American Conservative Union]]"
+source-types:
+  - Courts
+  - FEC
+  - LDA
+  - SEC
+corroboration-count: 4
 ---
 
 

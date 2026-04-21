@@ -1,7 +1,7 @@
 ---
 title: Sinclair Broadcasting Group
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 2
 parent: null
@@ -51,13 +51,13 @@ court-jurisdictions:
   - United States Bankruptcy Court, S.D. Texas
 source-types:
   - Courts
+  - FEC
   - FederalRegister
   - SEC
-corroboration-count: 3
+corroboration-count: 4
 known-gaps:
-  - No FEC contribution data
-  - No lobbying disclosure data
-  - No mapped relationships
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 employee-contributions: 150
 employee-contributions-total: 71427
 employee-donor-count: 29

@@ -1,7 +1,7 @@
 ---
 title: Colorado United Pac
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00826412
@@ -18,6 +18,10 @@ urls-first-triaged: "2026-04-15"
 total-raised: 22
 total-spent: 216
 related: "[[Lauren Boebert]]"
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

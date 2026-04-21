@@ -1,7 +1,7 @@
 ---
 title: New Prosperity Foundation; the
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00488494
 aliases:
   - NEW PROSPERITY FOUNDATION; THE
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Tammy Duckworth]], [[John Fetterman]], [[Tammy Baldwin]]"
 related: "[[Tammy Duckworth]]"
 checklist-na:
@@ -22,6 +22,8 @@ total-raised: 10003
 total-spent: 3210
 cash-on-hand: 10176
 individual-contributions: 10000
+source-types:
+  - FEC
 ---
 
 

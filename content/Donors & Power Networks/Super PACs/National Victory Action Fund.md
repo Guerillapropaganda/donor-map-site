@@ -1,7 +1,7 @@
 ---
 title: National Victory Action Fund
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00760124
 aliases:
   - NATIONAL VICTORY ACTION FUND
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Bill Hagerty]], [[John Barrasso]], [[Elise Stefanik]], [[Victoria Spartz]], [[Monica de la Cruz]], [[Derrick van Orden]], [[Jerry Moran]], [[Diana Harshbarger]], [[Ron Johnson]], [[Jon Husted]], [[Eric Schmitt]], [[Mike Lee]], [[Steve Daines]], [[Richard Hudson]], [[Todd Young]], [[Tim Scott]], [[John Boozman]], [[Steve Scalise]], [[Young Kim]], [[Lisa Murkowski]], [[Marsha Blackburn]], [[John Thune]], [[Tim Sheehy]], [[John Hoeven]], [[Maria Elvira Salazar]], [[Bernie Moreno]], [[John Kennedy]], [[Donald Trump]], [[Ronny Jackson]], [[August Pfluger]], [[Nancy Mace]], [[Rudy Yakym]], [[Brian Jack]], [[Joni Ernst]], [[Ashley Hinson]], [[Guy Reschenthaler]], [[Susan Collins]], [[James Lankford]]"
 related: "[[Elise Stefanik]] · [[John Barrasso]] · [[Bill Hagerty]]"
 checklist-na:
@@ -23,6 +23,8 @@ total-spent: 1392961
 independent-expenditures: 275000
 individual-contributions: 218391
 contributions-to-committees: 81325
+source-types:
+  - FEC
 ---
 
 

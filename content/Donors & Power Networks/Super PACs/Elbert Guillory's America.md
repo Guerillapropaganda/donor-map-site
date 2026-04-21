@@ -1,7 +1,7 @@
 ---
 title: Elbert Guillory's America
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00607374
 aliases:
   - ELBERT GUILLORY'S AMERICA
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Maxine Waters]], [[John James]], [[Monica de la Cruz]], [[Steve Scalise]], [[Raphael Warnock]], [[Tim Scott]], [[Byron Donalds]], [[Burgess Owens]], [[Clay Higgins]], [[Wesley Hunt]]"
 related: "[[Maxine Waters]]"
 checklist-na:
@@ -23,6 +23,8 @@ total-spent: 520849
 cash-on-hand: 47724
 individual-contributions: 454087
 contributions-to-committees: 2000
+source-types:
+  - FEC
 ---
 
 

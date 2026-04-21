@@ -2,7 +2,7 @@
 title: United We Can
 type: donor
 ein: "360852885"
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00523621
@@ -23,6 +23,10 @@ cash-on-hand: 280315
 independent-expenditures: 223694
 individual-contributions: 348975
 contributions-to-committees: 100000
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: Honeywell International
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 2
 parent: null
@@ -44,14 +44,14 @@ federal-grants-count: 12
 cpsc-recalls: 7
 source-types:
   - Courts
+  - FEC
   - FederalRegister
   - USASpending
-corroboration-count: 3
+corroboration-count: 4
 known-gaps:
-  - No SEC corporate filings
-  - No FEC contribution data
-  - No lobbying disclosure data
-  - No mapped relationships
+  - "No SEC corporate filings"
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 lei: 5493009W7CBW32FX0K77
 lei-jurisdiction: CH
 lei-parent: HONEYWELL INTERNATIONAL INC.

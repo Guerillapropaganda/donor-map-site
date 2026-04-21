@@ -1,7 +1,7 @@
 ---
 title: Vanguard Charitable Endowment Program
 type: donor
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 sector: Wall Street
 entity-type: Donor-Advised Fund
@@ -10,6 +10,10 @@ nonprofit-status: 501(c)(3)
 source-tier: 1
 internal-notes: Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Commercial DAF sponsor affiliated with Vanguard. One of the three largest commercial DAFs by assets under management. Narrative pending Research Claude editorial pass.
 politicians-funded: "[[ACLU Foundation]], [[Hopewell Fund]], [[Cato Institute]], [[Silicon Valley Community Foundation]], [[Heartland Institute]], [[American Endowment Foundation]], [[State Policy Network]], [[American Enterprise Institute]], [[Rockefeller Philanthropy Advisors]], [[Hudson Institute]], [[TPUSA - Turning Point USA]], [[Schwab Charitable Fund]], [[ImpactAssets]], [[Morgan Stanley Global Impact Funding Trust]], [[New Venture Fund]], [[RAND Corporation]], [[Mercatus Center]], [[US Chamber of Commerce]], [[Robin Hood Foundation]], [[The Seminar Network]], [[Ocean Conservancy]], [[Center for American Progress]], [[Heritage Foundation]], [[Brennan Center for Justice]], [[Council on Foreign Relations]], [[Fidelity Investments]], [[Renaissance Charitable Foundation]], [[Alliance Defending Freedom]], [[Greater Horizons]], [[National Philanthropic Trust]], [[Planned Parenthood Federation of America]], [[Natural Resources Defense Council]], [[Proteus Fund]], [[Bradley Impact Fund]], [[Goldman Sachs Philanthropy Fund]], [[Sierra Club Foundation]], [[Equal Justice Initiative]], [[Bank of America Charitable Gift Fund]], [[Conservative Partnership Institute]], [[NEO Philanthropy]], [[Urban Institute]], [[Center for Popular Democracy]], [[The Barack Obama Foundation]], [[Donors Trust]]"
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 ---
 
 

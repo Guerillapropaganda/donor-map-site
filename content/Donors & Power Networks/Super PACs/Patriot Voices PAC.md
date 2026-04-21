@@ -1,7 +1,7 @@
 ---
 title: Patriot Voices PAC
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00528307
 aliases:
   - PATRIOT VOICES PAC
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Jack Reed]]"
 related: "[[Jack Reed]]"
 checklist-na:
@@ -21,6 +21,8 @@ urls-first-triaged: "2026-04-15"
 total-raised: 1
 cash-on-hand: 909
 individual-contributions: 1
+source-types:
+  - FEC
 ---
 
 

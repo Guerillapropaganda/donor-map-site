@@ -2,14 +2,15 @@
 title: "Leon Panetta"
 type: politician
 bioguide-id: P000047
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-15
 source-tier: 1
 party: "Democrat"
 chamber: "Secretary of Defense (2011-2013)"
 known-gaps:
-  - "No mapped relationships"
-  - "No donor network analysis"
+  - "No FEC contribution data"
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
 source-types:
   - Congress
 donors: "[[National Cattlemen's Beef Association]] · [[California Farm Bureau Federation]]"

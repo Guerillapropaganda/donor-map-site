@@ -1,7 +1,7 @@
 ---
 title: "Agriculture - Donors and Backers"
 type: sub-note
-content-readiness: draft
+content-readiness: raw
 last-updated: 2026-04-08
 source-tier: 2
 parent: "[[_Donald Trump Master Profile]]"

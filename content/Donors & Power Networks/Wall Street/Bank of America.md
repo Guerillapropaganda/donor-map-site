@@ -1,7 +1,7 @@
 ---
 title: Bank of America
 type: corporation
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -82,6 +82,16 @@ federal-grants-total: -2
 employee-contributions: 127718
 employee-contributions-total: 6057995
 employee-donor-count: 10546
+source-types:
+  - DOJ
+  - FEC
+  - FederalRegister
+  - SEC
+  - Treasury
+  - USASpending
+corroboration-count: 6
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

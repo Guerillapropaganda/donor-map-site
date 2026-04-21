@@ -1,7 +1,7 @@
 ---
 title: Jeffrey Epstein Network
 type: donor
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-09T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -24,6 +24,13 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+source-types:
+  - Courts
+  - DOJ
+  - LDA
+corroboration-count: 3
+known-gaps:
+  - "No FEC contribution data"
 ---
 
 

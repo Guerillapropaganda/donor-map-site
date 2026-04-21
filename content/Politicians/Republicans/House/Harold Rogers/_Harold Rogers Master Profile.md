@@ -1,7 +1,7 @@
 ---
 title: Harold Rogers
 type: politician
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 party: Republican
@@ -18,10 +18,8 @@ phone: 202-225-4601
 source-types:
   - Congress
 known-gaps:
-  - No FEC contribution data
-  - No legislative record
-  - No voting record
-  - No mapped relationships
+  - "No FEC contribution data"
+  - "No voting record data"
 donors: "[[National Cattlemen's Beef Association]], [[Ben Cline]], [[American Gaming Association]], [[BAE Systems]], [[Leidos]], [[Walmart - Walton Family]], [[MAJORITY PAC]], [[Northrop Grumman]], [[CoreCivic - Private Prisons]], [[Tyson Foods]], [[Republican Jewish Coalition]], [[General Dynamics]], [[Lockheed Martin]], [[Microsoft]], [[L3Harris Technologies]], [[AIPAC - American Israel Public Affairs Committee]], [[Raytheon (RTX)]], [[National Association of Realtors]], [[National Multifamily Housing Council]], [[National Rifle Association]], [[Marathon Petroleum]], [[Honeywell]], [[Associated General Contractors of America Political Action Committee]], [[WinRed]], [[Jason Smith]], [[Save America PAC]], [[Majority PAC]], [[Honeywell International]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H0KY05015

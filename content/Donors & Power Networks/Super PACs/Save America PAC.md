@@ -1,7 +1,7 @@
 ---
 title: "Save America PAC"
 type: pac
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-17
 source-tier: 1
 parent: null
@@ -30,6 +30,10 @@ total-spent: 40671222
 cash-on-hand: 50998975
 independent-expenditures: 14500
 individual-contributions: 10010564
+source-types:
+  - Congress
+known-gaps:
+  - "No FEC contribution data"
 ---
 
 

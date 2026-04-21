@@ -1,7 +1,7 @@
 ---
 title: Cooperative of American Physicians Independent Expenditure Committee
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00492116
 aliases:
   - COOPERATIVE OF AMERICAN PHYSICIANS INDEPENDENT EXPENDITURE COMMITTEE
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Pete Aguilar]], [[Sydney Kamlager-Dove]], [[Jim Costa]], [[Young Kim]], [[Adam Gray]], [[Vince Fong]], [[Mike Thompson]]"
 related: "[[Pete Aguilar]]"
 checklist-na:
@@ -22,6 +22,8 @@ total-raised: 408848
 total-spent: 255642
 cash-on-hand: 200551
 individual-contributions: 397693
+source-types:
+  - FEC
 ---
 
 

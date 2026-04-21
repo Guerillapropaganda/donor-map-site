@@ -1,7 +1,7 @@
 ---
 title: Gwen Moore
 type: politician
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 party: Democrat
@@ -18,10 +18,8 @@ phone: 202-225-4572
 source-types:
   - Congress
 known-gaps:
-  - No FEC contribution data
-  - No legislative record
-  - No voting record
-  - No mapped relationships
+  - "No FEC contribution data"
+  - "No voting record data"
 donors: "[[Brady Campaign]], [[National Association of Realtors]], [[Comcast - NBCUniversal]], [[General Motors]], [[IBEW - International Brotherhood of Electrical Workers]], [[American Federation of State County & Municipal Employees P E O P L E]], [[League of Conservation Voters]], [[AT&T - WarnerMedia]], [[AbbVie]], [[Jamie Raskin]], [[Walmart - Walton Family]], [[Citigroup]], [[Raytheon (RTX)]], [[Morgan Stanley]], [[NEA Fund for Children and Public Education]], [[Amgen Inc]], [[Lockheed Martin]], [[NextEra Energy]], [[Johnson & Johnson]], [[Progressive Turnout Project]], [[American Hospital Association PAC]], [[Sierra Club Independent Action]], [[Care Action]], [[Microsoft]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Planned Parenthood Votes]], [[Pfizer Inc.]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[UA Political Action Committee]], [[SEIU COPE]], [[National Multifamily Housing Council]], [[J Street]], [[National Committee to Preserve Social Security PAC]], [[Planned Parenthood Action Fund INC]], [[Anthem - Elevance Health]], [[Teamsters - International Brotherhood of Teamsters]], [[Mike Thompson]], [[Bank of America]], [[Google - Alphabet]], [[Honeywell]], [[Leidos]], [[AT&T]], [[Honeywell International]], [[American Federation of State County & Municipal Employees  P E O P L E]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4WI04183

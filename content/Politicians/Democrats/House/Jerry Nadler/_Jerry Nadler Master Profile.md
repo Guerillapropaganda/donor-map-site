@@ -1,7 +1,7 @@
 ---
 title: Jerry Nadler
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: Nadler's donor-class function is more complex than most profiles in this vault because he genuinely served as a check on executive power (two Trump impeachments) and pursued progressive policy outcomes (marijuana legalization, LGBTQ+ rights, 9/11 ...
 last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
@@ -20,11 +20,10 @@ issues:
   - Israel & Foreign Policy
 source-types:
   - Congress
-  - FEC
   - GovTrack
-corroboration-count: 3
+corroboration-count: 2
 known-gaps:
-  - No mapped relationships
+  - "No FEC contribution data"
 related: "[[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[J Street]]"
 donors: "[[Brady Campaign]], [[J Street]]"
 ---

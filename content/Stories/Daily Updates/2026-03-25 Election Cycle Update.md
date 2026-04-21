@@ -1,7 +1,7 @@
 ---
 title: "2026-03-25 Election Cycle Update"
 type: daily-update
-content-readiness: draft
+content-readiness: raw
 last-updated: 2026-03-25
 source-tier: 2
 parent: null

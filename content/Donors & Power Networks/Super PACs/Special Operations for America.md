@@ -1,7 +1,7 @@
 ---
 title: Special Operations for America
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -10,7 +10,8 @@ source-tier: 1
 aliases:
   - SPECIAL OPERATIONS FOR AMERICA
 known-gaps:
-  - Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis.
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
 related: "[[Michael Waltz]] · [[Brian Mast]]"
 politicians-funded: "[[Michael Waltz]], [[Brian Mast]], [[Morgan Luttrell]], [[John James]], [[Derrick van Orden]], [[Jimmy Patronis]], [[Pat Harrigan]], [[Ken Calvert]], [[Randy Fine]], [[Richard McCormick]]"
 checklist-na:

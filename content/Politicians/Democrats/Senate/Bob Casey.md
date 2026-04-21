@@ -4,7 +4,7 @@ type: politician
 bioguide-id: C001070
 chamber: Senate
 party: Democrat
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Bob Casey was the Senate's largest recipient of pharmaceutical industry donations (content-readiness: draft.8 million since 2007, $520,776 in 2024 cycle alone) while publicly positioning himself as opposing corporate healthcare profiteering. This contradiction was surv..."
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
@@ -21,6 +21,12 @@ bills-cosponsored: 4166
 bills-enacted: 2
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: Health
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No voting record data"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Andy Beshear"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Andy Beshear's success as a Democrat in deep-red Kentucky is real , and the donor-first analysis explains how. He wins by suppressing ideological contrast: off-year elections that reduce Trump turnout, crisis governance (COVID, tornadoes) that ope..."
 last-updated: 2026-03-24
 source-tier: 1
@@ -12,11 +12,11 @@ state: "Kentucky"
 state-abbr: "KY"
 known-gaps:
   - "No FEC contribution data"
-  - "No legislative record from Congress.gov"
   - "No voting record data"
-  - "No mapped relationships"
 related: "[[_Kamala Harris Master Profile]]"
 urls-first-triaged: "2026-04-15"
+source-types:
+  - Congress
 ---
 
 

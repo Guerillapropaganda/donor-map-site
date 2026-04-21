@@ -1,7 +1,7 @@
 ---
 title: CHC BOLD PAC
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00365536
 aliases:
   - CHC BOLD PAC
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Ritchie Torres]], [[Nikki Budzinski]], [[Lois Frankel]], [[Raul Ruiz]], [[Derek Tran]], [[George Whitesides]], [[Kamala Harris]], [[Susie Lee]], [[Sharice Davids]], [[Eric Sorensen]], [[Josh Harder]], [[Andrea Salinas]], [[Jimmy Gomez]], [[Jacky Rosen]], [[Teresa Leger Fernandez]], [[Emily Randall]], [[Sara Jacobs]], [[Kristen McDonald Rivet]], [[Vicente Gonzalez]], [[Henry Cuellar]], [[Adriano Espaillat]], [[Lauren Underwood]], [[Steven Horsford]], [[Greg Stanton]], [[Marie Gluesenkamp Perez]], [[Veronica Escobar]], [[Eric Swalwell]], [[Chrissy Houlahan]], [[Robert Garcia]], [[Patrick Ryan]], [[Jahana Hayes]], [[Mark Kelly]], [[Josh Riley]], [[Ruben Gallego]], [[Marcy Kaptur]], [[Jim Costa]], [[Brittany Pettersen]], [[Darren Soto]], [[Raphael Warnock]], [[John Fetterman]], [[Marilyn Strickland]], [[Mike Levin]], [[Maxwell Frost]], [[Greg Landsman]], [[Adam Gray]], [[Kim Schrier]], [[Shomari Figures]], [[Catherine Cortez Masto]]"
 related: "[[Ritchie Torres]]"
 checklist-na:
@@ -24,6 +24,8 @@ cash-on-hand: 1285526
 independent-expenditures: 243648
 individual-contributions: 1557019
 contributions-to-committees: 216693
+source-types:
+  - FEC
 ---
 
 

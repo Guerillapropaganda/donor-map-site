@@ -1,7 +1,7 @@
 ---
 title: WinSenate
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-type: Super PAC (Independent Expenditure-Only)
@@ -21,6 +21,10 @@ total-raised: 1132892
 total-spent: 1128056
 cash-on-hand: 30326
 individual-contributions: 50972550
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

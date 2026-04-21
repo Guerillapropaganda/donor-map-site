@@ -1,7 +1,7 @@
 ---
 title: Planned Parenthood Nw Action PAC
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00687475
 aliases:
   - PLANNED PARENTHOOD NW ACTION PAC
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Maria Cantwell]]"
 related: "[[Maria Cantwell]]"
 checklist-na:
@@ -21,6 +21,8 @@ urls-first-triaged: "2026-04-15"
 total-raised: 180
 total-spent: 359
 cash-on-hand: 169
+source-types:
+  - FEC
 ---
 
 

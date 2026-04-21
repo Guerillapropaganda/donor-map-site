@@ -1,7 +1,7 @@
 ---
 title: Family Research Council Action Political Action Committee
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00452383
 aliases:
   - FAMILY RESEARCH COUNCIL ACTION POLITICAL ACTION COMMITTEE
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Frank Pallone]], [[James Lankford]], [[Scott Perry]], [[Andy Biggs]], [[Mike Lee]], [[Chip Roy]]"
 related: "[[Frank Pallone]]"
 checklist-na:
@@ -28,6 +28,8 @@ last-enriched: "2026-04-16"
 ofac-programs:
   - BALKANS
   - GLOMAG
+source-types:
+  - FEC
 ---
 
 

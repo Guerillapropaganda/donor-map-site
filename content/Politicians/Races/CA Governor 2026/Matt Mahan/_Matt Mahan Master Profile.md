@@ -1,7 +1,7 @@
 ---
 title: Matt Mahan
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: Matt Mahan is the Silicon Valley donor class's preferred candidate for California governor. His campaign is not funded by tech billionaires because he happens to be from San Jose , it's funded by tech billionaires because his policy platform serve...
 last-updated: 2026-04-09T00:00:00.000Z
 source-tier: 1
@@ -14,12 +14,12 @@ issues:
   - Technology
 top-donors: "[[Peter Thiel]], [[Marc Andreessen & Horowitz]]"
 known-gaps:
-  - No FEC contribution data
-  - No legislative record from Congress.gov
-  - No voting record data
-  - No mapped relationships
+  - "No FEC contribution data"
+  - "No voting record data"
 related: "[[Peter Thiel]] · [[Mithril Capital]] · [[Eric Schmidt]] · [[Marc Andreessen & Horowitz]] · [[_Gavin Newsom Master Profile]] · [[_Katie Porter Master Profile]]"
 urls-first-triaged: "2026-04-15"
+source-types:
+  - Congress
 ---
 
 

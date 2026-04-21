@@ -1,7 +1,7 @@
 ---
 title: Chad Bianco
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Bianco represents a different species than the donor-class Democrat. He is the authoritarian-right sheriff: a constitutional sheriff movement adherent who believes the county sheriff's authority supersedes federal and state government, a former Oa..."
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -12,15 +12,15 @@ top-donors:
   - PORAC - Peace Officers Research Association of California
   - CCPOA - California Correctional Peace Officers Association
 known-gaps:
-  - No FEC contribution data
-  - No legislative record from Congress.gov
-  - No voting record data
-  - No mapped relationships
+  - "No FEC contribution data"
+  - "No voting record data"
 internal-notes: "[URL Check 2026-04-09] 15 checked: 14 ok, 0 broken, 1 slow. | SLOW: ABC7: Jail deaths, civil rights lawsuits | [URL Check 2026-04-09] 15 checked: 14 ok, 0 broken, 1 slow. | SLOW: ABC7: Jail deaths, civil rights lawsuits"
 last-enriched: "2026-04-09"
 related: "[[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[Riverside Sheriffs Association]] · [[PORAC - Peace Officers Research Association of California]] · [[CCPOA - California Correctional Peace Officers Association]] · [[IBEW Local 477 - San Bernardino|IBEW Local 477]] · [[Steve Hilton]]"
 donors: "[[IBEW Local 477 - San Bernardino]] · [[IBEW Local 440 - Riverside]] · [[RSA - The Single-Patron Sheriff]] · [[GEO Group - Private Prison Industrial Complex]] · [[CoreCivic]] · [[CCPOA - California Correctional Peace Officers Association]] · [[Riverside Sheriffs Association]] · [[PORAC - Peace Officers Research Association of California]]"
 urls-first-triaged: "2026-04-15"
+source-types:
+  - Congress
 ---
 
 

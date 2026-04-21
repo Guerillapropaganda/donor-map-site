@@ -1,7 +1,7 @@
 ---
 title: "2026-03-27 Connection Audit"
 type: daily-update
-content-readiness: draft
+content-readiness: raw
 last-updated: 2026-03-27
 source-tier: null
 parent: null
@@ -9,6 +9,8 @@ checklist-na:
   - "regulatory: auto: entity type \"daily-update\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"daily-update\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #vault-maintenance #connection-audit #hub-nodes #cross-section #wikilinks

@@ -1,7 +1,7 @@
 ---
 title: Roger Marshall
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: Marshall's donor-class function is to serve as the agribusiness and healthcare industry's physician-legislator — using his medical credentials to lend authority to industry-friendly positions on health policy while using his committee seats to pro...
 last-updated: 2026-04-19
 source-tier: 1
@@ -26,11 +26,10 @@ issues:
 fec-candidate-id: S0KS00315
 source-types:
   - Congress
-  - FEC
   - GovTrack
-corroboration-count: 3
+corroboration-count: 2
 known-gaps:
-  - No mapped relationships
+  - "No FEC contribution data"
 related: "[[_John Barrasso Master Profile|Barrasso]] · [[_Ron Johnson Master Profile|Ron Johnson]]"
 last-enriched: "2026-04-11"
 bioguide-id: M001198

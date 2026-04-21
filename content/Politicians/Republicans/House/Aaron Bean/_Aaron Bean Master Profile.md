@@ -1,7 +1,7 @@
 ---
 title: Aaron Bean
 type: politician
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 party: Republican
@@ -18,10 +18,8 @@ phone: 202-225-0123
 source-types:
   - Congress
 known-gaps:
-  - No FEC contribution data
-  - No legislative record
-  - No voting record
-  - No mapped relationships
+  - "No FEC contribution data"
+  - "No voting record data"
 donors: "[[Brady Campaign]], [[Anthem - Elevance Health]], [[David Rouzer]], [[Duke Energy]], [[Amgen Inc]], [[Chevron]], [[Humana]], [[General Motors]], [[American Hospital Association PAC]], [[Care Action]], [[National Restaurant Association]], [[Congressional Leadership Fund]], [[NRCC - National Republican Congressional Committee]], [[Johnson & Johnson]], [[Performance Racing Inc.]], [[National Cattlemen's Beef Association]], [[Byron Donalds]], [[Microsoft]], [[Jake Ellzey]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[American Dream Federal Action]], [[MAJORITY PAC]], [[Citigroup]], [[AIPAC - American Israel Public Affairs Committee]], [[Comcast - NBCUniversal]], [[Adrian Smith]], [[Walmart - Walton Family]], [[AT&T - WarnerMedia]], [[Darrell Issa]], [[Associated General Contractors of America Political Action Committee]], [[National Association of Realtors]], [[Google - Alphabet]], [[Ron Estes]], [[Tzedek PAC]], [[NextEra Energy]], [[Honeywell]], [[Jim Jordan]], [[Mike Haridopolos]], [[Lockheed Martin]], [[McDonalds Corporation]], [[American Chemistry Council, INC]], [[BAE Systems]], [[Glenn Grothman]], [[Ben Cline]], [[REPUBLICAN PARTY OF FLORIDA]], [[Raytheon (RTX)]], [[Northrop Grumman]], [[Tenet Healthcare]], [[General Dynamics]], [[Daniel Webster]], [[National Multifamily Housing Council]], [[Bank of America]], [[Pfizer Inc.]], [[Gilead Sciences]], [[AbbVie]], [[American College of Radiology Association PAC]], [[Ballard Partners]], [[Blackstone Group]], [[Centene Corporation]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[Apollo Global Management]], [[Anthem - Elevance Health Political Operation]], [[Honeywell International]], [[Majority PAC]], [[AT&T]], [[Republican Party of Florida]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2FL04211

@@ -1,7 +1,7 @@
 ---
 title: Wfp Ie Committee
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00626861
@@ -20,6 +20,10 @@ total-raised: 7551
 total-spent: 6407
 cash-on-hand: 96136
 individual-contributions: 7551
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

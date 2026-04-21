@@ -2,16 +2,16 @@
 title: Donors Trust
 type: corporation
 ein: "522166327"
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 3
 sector: Dark Money
 entity-type: corporation
 known-gaps:
-  - No FEC contribution data
-  - No lobbying data
-  - No mapped relationships
-source-types: []
+  - "No SEC corporate filings"
+  - "No lobbying disclosure data"
+source-types:
+  - FEC
 related: "[[Stand Together]] · [[Judicial Crisis Network]]"
 urls-first-triaged: "2026-04-15"
 employee-contributions: 40

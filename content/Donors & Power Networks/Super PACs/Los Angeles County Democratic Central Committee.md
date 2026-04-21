@@ -1,7 +1,7 @@
 ---
 title: Los Angeles County Democratic Central Committee
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00300731
 aliases:
   - LOS ANGELES COUNTY DEMOCRATIC CENTRAL COMMITTEE
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Maxine Waters]]"
 related: "[[Maxine Waters]]"
 checklist-na:
@@ -28,6 +28,8 @@ last-enriched: "2026-04-16"
 ofac-programs:
   - "DPRK3"
   - "ILLICIT-DRUGS-EO14059"
+source-types:
+  - FEC
 ---
 
 

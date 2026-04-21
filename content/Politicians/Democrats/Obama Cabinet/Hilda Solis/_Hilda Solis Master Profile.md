@@ -2,14 +2,16 @@
 title: Hilda Solis
 type: politician
 bioguide-id: S001153
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Democrat
 chamber: Secretary of Labor (2009-2013)
 known-gaps:
-  - No mapped relationships
-  - No donor network analysis
+  - "No FEC contribution data"
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
+  - "No mapped relationships"
 source-types:
   - Congress
 urls-first-triaged: "2026-04-15"

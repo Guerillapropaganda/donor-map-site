@@ -1,7 +1,7 @@
 ---
 title: National Wildlife Federation Action Fund
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00476697
 aliases:
   - NATIONAL WILDLIFE FEDERATION ACTION FUND
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[John Hoeven]], [[Martin Heinrich]], [[Catherine Cortez Masto]], [[Mariannette Miller-Meeks]], [[Nikki Budzinski]], [[Maria Cantwell]], [[Andrea Salinas]], [[Mark Kelly]], [[Kim Schrier]], [[Lisa Murkowski]], [[Raul Grijalva]], [[Maria Elvira Salazar]], [[Sharice Davids]], [[Eric Sorensen]], [[Steve Daines]], [[Raphael Warnock]], [[John Boozman]], [[Kristen McDonald Rivet]], [[Marie Gluesenkamp Perez]], [[Mike Levin]]"
 related: "[[John Hoeven]]"
 checklist-na:
@@ -23,6 +23,8 @@ total-spent: 10785
 individual-contributions: 22048
 contributions-to-committees: 3000
 cash-on-hand: 36754
+source-types:
+  - FEC
 ---
 
 

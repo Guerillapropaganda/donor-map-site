@@ -1,7 +1,7 @@
 ---
 title: Republican Governors Association
 type: donor
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-21
 aliases:
   - RGA
@@ -10,6 +10,10 @@ sector: Super PACs
 entity-type: 527 Committee
 source-tier: 1
 internal-notes: Stub profile auto-created 2026-04-21 from orphan-entities-queue. Republican Governors Association is a 527 political organization focused on electing Republican governors. Major state-level GOP vehicle; $67.8M in tracked flow across 38 edges (IRS 527 filings). Counterpart to Democratic Governors Association. Research Claude editorial pass pending.
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 ---
 
 ## Who They Are

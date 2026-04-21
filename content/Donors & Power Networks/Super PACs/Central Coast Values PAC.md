@@ -1,7 +1,7 @@
 ---
 title: Central Coast Values PAC
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00870204
 aliases:
   - CENTRAL COAST VALUES PAC
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Zoe Lofgren]], [[Emily Randall]]"
 related: "[[Zoe Lofgren]]"
 checklist-na:
@@ -20,6 +20,8 @@ checklist-na:
 urls-first-triaged: "2026-04-15"
 total-raised: 90
 total-spent: 146
+source-types:
+  - FEC
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: Americans for Responsible Leadership
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-type: Super PAC (Independent Expenditure-Only)
@@ -18,6 +18,10 @@ checklist-na:
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
 cash-on-hand: 510
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

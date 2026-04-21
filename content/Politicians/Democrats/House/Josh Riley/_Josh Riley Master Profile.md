@@ -1,7 +1,7 @@
 ---
 title: Josh Riley
 type: politician
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Democrat
@@ -18,10 +18,9 @@ phone: 202-225-5441
 source-types:
   - Congress
 known-gaps:
-  - No FEC contribution data
-  - No legislative record
-  - No voting record
-  - No mapped relationships
+  - "No FEC contribution data"
+  - "No voting record data"
+  - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H8NY22177
 top-donors: "[[Giffords PAC]], [[Planned Parenthood Action Fund INC]], [[IBEW - International Brotherhood of Electrical Workers]], [[Jamie Raskin]], [[Let America Vote PAC]], [[MoveOn.org Political Action]], [[Paul Tonko]], [[Judy Chu]], [[DCCC - Democratic Congressional Campaign Committee]], [[NRCC - National Republican Congressional Committee]], [[Pete Aguilar]], [[Indivisible Action]], [[DMFI - Democratic Majority for Israel]], [[Adriano Espaillat]], [[Sierra Club Political Committee]], [[NEA Fund for Children and Public Education]], [[Activate America]], [[AIPAC - American Israel Public Affairs Committee]], [[SEIU COPE]], [[Everytown for Gun Safety Victory Fund]], [[Jake Auchincloss]], [[Defending Main Street Superpac INC]], [[Sierra Club Independent Action]], [[Unite Here Tip Campaign Committee]], [[Progressive Turnout Project]], [[Robert Garcia]], [[CHC BOLD PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Jim Costa]], [[Planned Parenthood Votes]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Diana Degette]], [[Working Families Party PAC]], [[Nancy Pelosi]], [[League of Conservation Voters]], [[Hmp]], [[Food and Water Action]], [[Teamsters - International Brotherhood of Teamsters]], [[National Association of Realtors]], [[America PAC - Elon Musk]], [[Julia Brownley]], [[Joe Neguse]], [[Congressional Leadership Fund]], [[National Committee to Preserve Social Security PAC]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Jason Crow]], [[National Education Association]], [[Bill Foster]], [[Mark DeSaulnier]], [[McDonalds Corporation]], [[Mark Kelly]], [[Microsoft]], [[Coinbase]], [[Oracle]], [[a16z - Andreessen Horowitz]], [[Meta - Facebook]], [[Kaiser Permanente]], [[Google - Alphabet]], [[CNA - California Nurses Association]], [[Instacart]], [[Palantir Technologies]], [[Cigna Group]], [[Lyft]], [[QVT Financial]], [[Verizon]], [[Anduril Industries]], [[General Dynamics]], [[BlackRock]], [[Wells Fargo]], [[Gates Foundation]], [[Centene Corporation]], [[Johnson & Johnson]], [[Morgan Stanley]], [[Apple]], [[Tyson Foods]], [[AbbVie]], [[Lockheed Martin]], [[Amazon]], [[Ford Motor Company]], [[NextEra Energy]], [[JPMorgan Chase]], [[Ballard Partners]], [[OpenAI]], [[Booz Allen Hamilton]], [[GEO Group - Private Prison Industrial Complex]], [[CBRE Group]], [[Fidelity Investments]], [[DoorDash]], [[UnitedHealth Group - Optum]], [[TikTok - ByteDance]], [[ExxonMobil]], [[Nvidia]], [[DNC - Democratic National Committee]], [[Citigroup]], [[Gilead Sciences]], [[Blackstone Group]], [[Center for American Progress]], [[HMP]], [[American Federation of State County & Municipal Employees  P E O P L E]]"

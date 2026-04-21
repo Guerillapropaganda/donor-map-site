@@ -1,7 +1,7 @@
 ---
 title: "Building a Better PA"
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00559781
 aliases:
   - BUILDING A BETTER PA
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Brendan Boyle]]"
 related: "[[Brendan Boyle]]"
 checklist-na:
@@ -22,6 +22,8 @@ total-raised: 154000
 total-spent: 156159
 individual-contributions: 30000
 contributions-to-committees: 3298
+source-types:
+  - FEC
 ---
 
 

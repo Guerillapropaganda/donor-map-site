@@ -1,11 +1,18 @@
 // Construction-mode build gate for the Donor Map.
 //
 // When CONSTRUCTION_MODE=true (set in deploy.yml), most pages are
-// suppressed from the public build — only slugs in the allowlist
-// at data/public-routes.json are emitted. The default list is
-// ["index"], which preserves the old "only homepage" behavior.
+// suppressed from the public build. Two gates admit a page:
 //
-// Publishing a new page (e.g. /policies/housing) is the act of
+//   1. The slug is in data/public-routes.json. Covers non-profile pages:
+//      index, legal, corrections, curated flagships, category hubs.
+//
+//   2. (ADR-0017) The page has a profile-type frontmatter AND
+//      content-readiness is either "verified" or "data-complete". Lets
+//      the database ship at scale without maintaining a 1,500-line
+//      allowlist. Data-complete profiles render with the
+//      DataCompleteBanner so readers know they're auto-generated.
+//
+// Publishing a non-profile page (e.g. /policies/housing) is the act of
 // adding its slug to the allowlist. The Ops /api/policies/publish
 // route edits the file, commits, and triggers a deploy. Unpublishing
 // removes the slug and redeploys.
@@ -63,16 +70,48 @@ function findRepoRoot(): string {
   }
 }
 
+// ADR-0017: profile types eligible for tier-based publication.
+// A page with one of these types + content-readiness in
+// PUBLISHABLE_READINESS bypasses the allowlist.
+const PUBLISHABLE_PROFILE_TYPES = new Set<string>([
+  "politician", "state-politician", "local-politician",
+  "donor", "corporation", "pac", "think-tank", "lobbying-firm",
+])
+const PUBLISHABLE_READINESS = new Set<string>(["verified", "data-complete"])
+
 /**
  * Returns true if a given slug should be emitted even in construction
- * mode. The slug is normalized to match Quartz's FullSlug format.
- * Matches either exact slug or prefix-match (e.g. "policies/housing"
- * allows "policies/housing", not "policies/healthcare").
+ * mode. Two gates:
+ *   - slug appears in the public-routes allowlist (prefix or exact), OR
+ *   - (ADR-0017) frontmatter.type is a profile type AND
+ *     frontmatter["content-readiness"] is "verified" or "data-complete".
+ *
+ * Pass frontmatter when available so tier-based publication works.
+ * Callers without frontmatter (tag pages, folder pages) fall back to
+ * the allowlist-only check.
  */
-export function isAllowedSlug(slug: string): boolean {
+export function isAllowedSlug(
+  slug: string,
+  frontmatter?: Record<string, unknown> | null,
+): boolean {
   if (!isConstructionMode) return true
+
+  // Gate 2 (ADR-0017): tier-based publication for profile types.
+  if (frontmatter) {
+    const type = String(frontmatter.type ?? "")
+    const readiness = String(
+      frontmatter["content-readiness"] ?? frontmatter.readiness ?? "",
+    ).toLowerCase()
+    if (
+      PUBLISHABLE_PROFILE_TYPES.has(type) &&
+      PUBLISHABLE_READINESS.has(readiness)
+    ) {
+      return true
+    }
+  }
+
+  // Gate 1: explicit allowlist.
   const allowlist = loadAllowlist()
-  // Exact match first
   if (allowlist.has(slug)) return true
   // Also allow a parent slug to act as a prefix allowlist, e.g. an
   // entry of "policies" would allow "policies/housing", "policies/index"

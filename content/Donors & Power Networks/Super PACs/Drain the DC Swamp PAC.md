@@ -1,7 +1,7 @@
 ---
 title: Drain the DC Swamp PAC
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00662072
 aliases:
   - DRAIN THE DC SWAMP PAC
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Pete Buttigieg]], [[Marjorie Taylor Greene]], [[Nancy Pelosi]], [[Lauren Boebert]], [[Maria Elvira Salazar]], [[Morgan Luttrell]], [[Mariannette Miller-Meeks]], [[Carlos Gimenez]], [[Alexandria Ocasio-Cortez]], [[Ilhan Omar]], [[James Lankford]], [[Lisa Murkowski]], [[Vivek Ramaswamy]], [[Marcy Kaptur]], [[Rashida Tlaib]], [[Mitt Romney]], [[Susan Collins]], [[Dusty Johnson]], [[Nancy Mace]], [[French Hill]]"
 related: "[[Pete Buttigieg]] · [[Marjorie Taylor Greene]]"
 checklist-na:
@@ -22,6 +22,8 @@ total-raised: 48288
 total-spent: 82114
 independent-expenditures: 67600
 individual-contributions: 467
+source-types:
+  - FEC
 ---
 
 

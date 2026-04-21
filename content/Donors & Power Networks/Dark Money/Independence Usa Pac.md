@@ -1,7 +1,7 @@
 ---
 title: Independence Usa Pac
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00532705
@@ -20,6 +20,10 @@ total-raised: 135964
 total-spent: 163332
 cash-on-hand: 34463
 individual-contributions: 135964
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

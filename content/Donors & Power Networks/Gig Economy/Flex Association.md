@@ -1,7 +1,7 @@
 ---
 title: "Flex Association"
 type: corporation
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-18
 source-tier: 1
 parent: null
@@ -28,6 +28,15 @@ cross-vault-triangulation-count: 8
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+source-types:
+  - Courts
+  - FederalRegister
+  - LDA
+  - USASpending
+corroboration-count: 4
+known-gaps:
+  - "No SEC corporate filings"
+  - "No FEC contribution data"
 ---
 
 

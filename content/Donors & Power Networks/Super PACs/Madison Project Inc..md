@@ -1,7 +1,7 @@
 ---
 title: Madison Project Inc.
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00298000
 aliases:
   - MADISON PROJECT INC.
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[John Ratcliffe]], [[Russell Fry]], [[Derrick van Orden]], [[Cory Mills]], [[Anna Paulina Luna]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -25,6 +25,8 @@ related: "[[John Ratcliffe]]"
 employee-contributions: 3
 employee-contributions-total: 30
 employee-donor-count: 1
+source-types:
+  - FEC
 ---
 
 

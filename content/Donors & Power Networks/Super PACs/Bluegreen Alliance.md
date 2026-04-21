@@ -2,7 +2,7 @@
 title: Bluegreen Alliance
 type: donor
 ein: "264086284"
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -12,7 +12,7 @@ fec-committee-id: C30001739
 aliases:
   - BLUEGREEN ALLIANCE
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Tim Walz]], [[_Nancy Pelosi Master Profile]], [[_Jon Ossoff Master Profile]], [[ActBlue]], [[Democratic Party of Virginia]], [[The Lincoln Project]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Bob Casey]], [[DCCC - Democratic Congressional Campaign Committee]], [[314 ACTION FUND]], [[Jon Ossoff]], [[Nancy Pelosi]], [[314 Action Fund]]"
 related: "[[Tim Walz]]"
 checklist-na:
@@ -22,6 +22,8 @@ urls-first-triaged: "2026-04-15"
 employee-contributions: 138
 employee-contributions-total: 25960
 employee-donor-count: 25
+source-types:
+  - FEC
 ---
 
 

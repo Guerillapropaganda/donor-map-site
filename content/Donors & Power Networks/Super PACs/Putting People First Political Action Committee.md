@@ -1,7 +1,7 @@
 ---
 title: Putting People First Political Action Committee
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00243584
 aliases:
   - PUTTING PEOPLE FIRST POLITICAL ACTION COMMITTEE
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Bernie Sanders]], [[Ruben Gallego]], [[Sharice Davids]], [[Kim Schrier]], [[Marcy Kaptur]], [[Andrea Salinas]], [[Jahana Hayes]], [[Mike Levin]], [[Seth Magaziner]], [[Sean Casten]], [[Henry Cuellar]], [[Julia Brownley]], [[Teresa Leger Fernandez]], [[Vicente Gonzalez]]"
 related: "[[Bernie Sanders]]"
 checklist-na:
@@ -22,6 +22,8 @@ total-raised: 10074
 total-spent: 911
 cash-on-hand: 26642
 individual-contributions: 74
+source-types:
+  - FEC
 ---
 
 

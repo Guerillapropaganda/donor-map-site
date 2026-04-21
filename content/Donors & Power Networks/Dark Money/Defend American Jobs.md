@@ -1,7 +1,7 @@
 ---
 title: Defend American Jobs
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-type: Super PAC (Independent Expenditure-Only)
@@ -22,6 +22,10 @@ total-spent: 9333000
 cash-on-hand: 2189165
 independent-expenditures: 8753984
 individual-contributions: 350000
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

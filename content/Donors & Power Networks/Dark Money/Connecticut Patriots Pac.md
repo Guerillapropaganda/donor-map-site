@@ -1,7 +1,7 @@
 ---
 title: Connecticut Patriots Pac
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00804773
@@ -18,6 +18,10 @@ checklist-na:
 urls-first-triaged: "2026-04-15"
 total-spent: 11671
 contributions-to-committees: 11669
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Andrew Cuomo"
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: "Cuomo is the real estate donor class's preferred Democrat , a moderate who delivers on their core agenda (development-friendly regulation, property tax limits, opposition to rent control) while maintaining the progressive brand necessary to win in..."
 last-updated: 2026-04-13
 source-tier: 1
@@ -22,6 +22,10 @@ opensanctions-datasets:
   - "us_plural_legislators"
   - "wikidata"
 urls-first-triaged: "2026-04-15"
+known-gaps:
+  - "No FEC contribution data"
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
 ---
 
 

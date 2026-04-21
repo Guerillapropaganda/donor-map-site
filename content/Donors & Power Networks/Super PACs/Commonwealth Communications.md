@@ -1,7 +1,7 @@
 ---
 title: Commonwealth Communications
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C90019670
 aliases:
   - COMMONWEALTH COMMUNICATIONS
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Brendan Boyle]], [[ActBlue]], [[John Fetterman]]"
 related: "[[Brendan Boyle]]"
 checklist-na:
@@ -21,6 +21,8 @@ urls-first-triaged: "2026-04-15"
 employee-contributions: 2
 employee-contributions-total: 750
 employee-donor-count: 1
+source-types:
+  - FEC
 ---
 
 

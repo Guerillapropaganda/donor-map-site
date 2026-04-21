@@ -1,7 +1,7 @@
 ---
 title: Equality California Votes
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00701797
@@ -20,6 +20,10 @@ total-raised: 3844
 total-spent: 217
 cash-on-hand: 16213
 individual-contributions: 3844
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

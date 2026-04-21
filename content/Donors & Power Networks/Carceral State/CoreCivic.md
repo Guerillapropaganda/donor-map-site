@@ -1,7 +1,7 @@
 ---
 title: CoreCivic
 type: corporation
-content-readiness: draft
+content-readiness: ready
 central-thesis: "CoreCivic is the publicly-traded beneficiary of a bipartisan detention consensus. Republicans fill its beds through enforcement, Democrats fill them through delayed reform, and the business model requires only that the beds stay occupied."
 last-updated: 2026-04-19
 editorial-notes: "[Research Claude 2026-04-19] Wrote Central Thesis, Core Contradiction callout, formal Class Analysis (4 paragraphs), and Analytical Patterns. Profile stays at draft pending LDA pipeline reenrichment. Editorial is ready-tier."
@@ -76,6 +76,15 @@ epa-states: CA
 employee-contributions: 4859
 employee-contributions-total: 1399214
 employee-donor-count: 554
+source-types:
+  - Courts
+  - FEC
+  - SAM
+  - SEC
+  - USASpending
+corroboration-count: 5
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

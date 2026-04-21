@@ -1,7 +1,7 @@
 ---
 title: American Crossroads
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -10,7 +10,7 @@ source-tier: 1
 aliases:
   - AMERICAN CROSSROADS
 known-gaps:
-  - Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 opposes: "[[Raphael Warnock]] · [[John Fetterman]]"
 politicians-funded: "[[Paul Ryan]], [[Harry Reid]], [[Jeanne Shaheen]], [[Sherrod Brown]], [[Raphael Warnock]], [[Mitt Romney]], [[John Fetterman]], [[Rick Larsen]], [[WinRed]], [[Kamala Harris]], [[_Josh Hawley Master Profile]], [[_John James Master Profile]], [[Donald Trump]], [[Josh Hawley]], [[John James]]"
 related: "[[Mitt Romney]] · [[Paul Ryan]] · [[Jeanne Shaheen]] · [[Harry Reid]] · [[Rick Larsen]] · [[Sherrod Brown]]"
@@ -25,6 +25,8 @@ individual-contributions: 320
 employee-contributions: 3
 employee-contributions-total: 5300
 employee-donor-count: 3
+source-types:
+  - FEC
 ---
 
 

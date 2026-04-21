@@ -1,7 +1,7 @@
 ---
 title: Planned Parenthood Federation of America
 type: donor
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 sector: Dark Money
 entity-type: 501(c)(3)
@@ -10,6 +10,10 @@ nonprofit-status: 501(c)(3)
 source-tier: 1
 internal-notes: Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Reproductive-health umbrella organization; $237M+ in Schedule I grants received in ingested period. Separate from Planned Parenthood Action Fund (PAC/c4 side, already in vault). Narrative pending Research Claude editorial pass.
 politicians-funded: "[[Hopewell Fund]], [[NEO Philanthropy]]"
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: "WinRed"
 type: pac
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-17
 source-tier: 1
 parent: null
@@ -36,6 +36,12 @@ total-spent: 470454083
 cash-on-hand: 1573743
 individual-contributions: 446144430
 contributions-to-committees: 442681390
+source-types:
+  - FederalRegister
+  - SEC
+corroboration-count: 2
+known-gaps:
+  - "No FEC contribution data"
 ---
 
 

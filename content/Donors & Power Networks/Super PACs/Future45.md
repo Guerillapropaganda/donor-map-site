@@ -1,7 +1,7 @@
 ---
 title: Future45
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00574533
 aliases:
   - FUTURE45
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Nancy Pelosi]], [[Elizabeth Warren]], [[Maxine Waters]]"
 related: "[[Elizabeth Warren]] · [[Nancy Pelosi]] · [[Maxine Waters]]"
 checklist-na:
@@ -20,6 +20,8 @@ checklist-na:
 urls-first-triaged: "2026-04-15"
 total-spent: 5104
 contributions-to-committees: 1817
+source-types:
+  - FEC
 ---
 
 

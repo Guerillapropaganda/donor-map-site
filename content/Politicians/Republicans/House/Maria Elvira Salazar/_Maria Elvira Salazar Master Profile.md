@@ -1,12 +1,14 @@
 ---
 title: Maria Elvira Salazar
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: Salazar is the public face of Miami's Cuba hawks in the House , the communicator who translates the Fanjul/exile donor agenda into populist, identity-driven rhetoric for the Cuban-American base. While Diaz-Balart wields Appropriations power and Ru...
 last-updated: 2026-04-18T00:00:00.000Z
 needs-reenrichment: true
 reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified): S000168. Next pipeline run should populate Congress.gov + GovTrack auto-blocks with correct data."
-known-gaps: null
+known-gaps:
+  - "No FEC contribution data"
+  - "No voting record data"
 source-tier: 1
 parent: null
 party: Republican
@@ -49,6 +51,8 @@ bills-cosponsored: 1277
 bills-enacted: 1
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: International Affairs
+source-types:
+  - Congress
 ---
 
 

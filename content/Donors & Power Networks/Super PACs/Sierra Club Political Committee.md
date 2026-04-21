@@ -1,7 +1,7 @@
 ---
 title: Sierra Club Political Committee
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00135368
 aliases:
   - SIERRA CLUB POLITICAL COMMITTEE
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Debbie Stabenow]], [[Ed Markey]], [[Gregory Meeks]], [[Ron Wyden]], [[Ayanna Pressley]], [[Nikki Budzinski]], [[Andy Kim]], [[Summer Lee]], [[Hakeem Jeffries]], [[Joaquin Castro]], [[Alexandria Ocasio-Cortez]], [[Pramila Jayapal]], [[Suzanne Bonamici]], [[Steven Horsford]], [[Mike Levin]], [[Greg Landsman]], [[Cori Bush]], [[Diana Degette]], [[Bobby Scott]], [[Jamie Raskin]], [[Frank Pallone]], [[Jared Huffman]], [[Debbie Dingell]], [[Kamala Harris]], [[Maxwell Frost]], [[Lauren Underwood]], [[Marcy Kaptur]], [[Kevin Mullin]], [[Ted Lieu]], [[Juan Vargas]], [[Tammy Baldwin]], [[Suhas Subramanyam]], [[Grace Meng]], [[Sara Jacobs]], [[Patty Murray]], [[Dave Min]], [[Rashida Tlaib]], [[Jahana Hayes]], [[Bennie Thompson]], [[Josh Harder]], [[Josh Riley]], [[Chellie Pingree]], [[Peter Welch]], [[Madeleine Dean]], [[George Whitesides]], [[Derek Tran]], [[Jon Ossoff]], [[Sarah McBride]], [[Kathy Castor]], [[Chrissy Houlahan]], [[Martin Heinrich]], [[Eric Sorensen]], [[Ilhan Omar]], [[Kim Schrier]], [[Maxine Waters]], [[Mark Kelly]], [[Sherrod Brown]], [[Andrea Salinas]], [[Bernie Sanders]], [[Paul Tonko]], [[Lateefah Simon]], [[Jason Crow]], [[Raul Grijalva]], [[Teresa Leger Fernandez]], [[Ruben Gallego]], [[Jimmy Gomez]], [[Sydney Kamlager-Dove]], [[Sean Casten]], [[Lloyd Doggett]], [[Adam Schiff]], [[Joyce Beatty]], [[Brian Schatz]], [[Susie Lee]], [[Richard Blumenthal]], [[Judy Chu]], [[Brittany Pettersen]], [[Dina Titus]], [[Kweisi Mfume]], [[Elissa Slotkin]], [[Morgan McGarvey]], [[Tammy Duckworth]], [[John Fetterman]], [[Mike Quigley]], [[Greg Stanton]], [[Catherine Cortez Masto]], [[Mark Pocan]], [[Patrick Ryan]], [[Brad Sherman]], [[Alex Padilla]], [[Lisa Blunt Rochester]], [[Kelly Morrison]], [[Emily Randall]], [[Chris van Hollen]], [[Sharice Davids]], [[Jacky Rosen]], [[Nikema Williams]], [[Robert Garcia]], [[Seth Magaziner]], [[Raphael Warnock]], [[Laura Friedman]], [[Nancy Pelosi]], [[Jamaal Bowman]], [[Sheldon Whitehouse]], [[Maggie Goodlander]], [[Sarah Elfreth]], [[Shri Thanedar]]"
 related: "[[Debbie Stabenow]] · [[Ron Wyden]] · [[Ed Markey]] · [[Gregory Meeks]]"
 checklist-na:
@@ -23,6 +23,8 @@ total-spent: 27730
 cash-on-hand: 55688
 individual-contributions: 30875
 contributions-to-committees: 13410
+source-types:
+  - FEC
 ---
 
 

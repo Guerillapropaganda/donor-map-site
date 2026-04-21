@@ -1,7 +1,7 @@
 ---
 title: MBNA Corporation
 type: corporation
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -58,6 +58,13 @@ occ-charter-numbers:
 employee-contributions: 4
 employee-contributions-total: 1111
 employee-donor-count: 2
+source-types:
+  - Congress
+  - FEC
+  - SEC
+corroboration-count: 3
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

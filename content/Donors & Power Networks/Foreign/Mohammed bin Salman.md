@@ -1,7 +1,7 @@
 ---
 title: Mohammed bin Salman
 type: donor
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-15
 source-tier: 1
 parent: null
@@ -35,6 +35,11 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+source-types:
+  - SEC
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: Votevets
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-type: PAC - Qualified
@@ -26,6 +26,10 @@ contributions-to-committees: 402500
 employee-contributions: 696
 employee-contributions-total: 18875
 employee-donor-count: 16
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

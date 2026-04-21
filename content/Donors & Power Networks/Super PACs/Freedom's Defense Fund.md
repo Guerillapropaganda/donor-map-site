@@ -1,7 +1,7 @@
 ---
 title: Freedom's Defense Fund
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00401786
 aliases:
   - FREEDOM'S DEFENSE FUND
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Frank Pallone]], [[Ronny Jackson]], [[Steve Scalise]], [[Mike Carey]], [[Kevin McCarthy]], [[Morgan Luttrell]], [[Randy Fine]], [[Jimmy Patronis]], [[Bernie Moreno]], [[August Pfluger]], [[Nancy Mace]], [[Derrick van Orden]], [[Celeste Maloy]], [[Mariannette Miller-Meeks]], [[Dan Crenshaw]], [[Michelle Fischbach]], [[Scott Perry]], [[Young Kim]], [[Michael Waltz]], [[Sheri Biggs]], [[Richard McCormick]], [[Burgess Owens]], [[Ryan Zinke]], [[Chuck Edwards]], [[Pat Harrigan]], [[Mark Green]], [[Carlos Gimenez]], [[Elise Stefanik]], [[Nicole Malliotakis]], [[Brian Mast]], [[Lauren Boebert]], [[David Schweikert]], [[Ken Calvert]], [[Claudia Tenney]], [[Tim Sheehy]]"
 related: "[[Frank Pallone]]"
 checklist-na:
@@ -24,6 +24,8 @@ cash-on-hand: 26302
 independent-expenditures: 40000
 individual-contributions: 1364070
 contributions-to-committees: 74500
+source-types:
+  - FEC
 ---
 
 

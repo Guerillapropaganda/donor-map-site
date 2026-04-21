@@ -1,7 +1,7 @@
 ---
 title: Mad Dog PAC
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00663211
 aliases:
   - MAD DOG PAC
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Steve Scalise]], [[Mad Dog PAC]], [[Donald Trump]], [[Kevin McCarthy]], [[Josh Hawley]], [[Rick Scott]], [[Ted Cruz]], [[Matt Gaetz]], [[Kamala Harris]]"
 related: "[[Steve Scalise]]"
 checklist-na:
@@ -25,6 +25,8 @@ individual-contributions: 163136
 employee-contributions: 3
 employee-contributions-total: 1782
 employee-donor-count: 2
+source-types:
+  - FEC
 ---
 
 

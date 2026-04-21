@@ -1,7 +1,7 @@
 ---
 title: Walton Family Foundation
 type: donor
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -15,8 +15,7 @@ net-assets: $1.9M
 tax-year: "2023"
 related: "[[Virginia Foxx]] · [[Sarah Huckabee Sanders Master Profile]] · [[The LEARNS Act and the Education Privatization Donor Network]] · [[Michael Bennet]] · [[Buffy Wicks]] · [[Education - Donors and Backers]] · [[Charter Schools and the Billionaire Reform Movement]] · [[California Charter Schools Association]] · [[Eli Broad Foundation]] · [[DeVos Family]] · [[American Federation for Children]] · [[National Education Association]] · [[US Chamber of Commerce]] · [[Insurance Industry]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[American Iron and Steel Institute]] · [[Walmart]] · [[Walmart - Walton Family]] · [[Michael Bloomberg]] · [[Gates Foundation]] · [[Bill Gates]] · [[The 85 Fund]] · [[Stand Together]] · [[Republican Party Apparatus]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Federalist Society]] · [[Donors Capital Fund]] · [[Council for National Policy]] · [[Conservative Partnership Institute]] · [[Concerned Veterans for America]] · [[Business Roundtable]] · [[Bradley Impact Fund]] · [[Bradley Foundation]] · [[American Enterprise Institute]] · [[American Action Network]] · [[America First Policy Institute]] · [[Alliance Defending Freedom]] · [[ALEC - American Legislative Exchange Council]] · [[National Cattlemen's Beef Association]] · [[Fanjul Family - Florida Crystals]] · [[American Farm Bureau Federation]]"
 known-gaps:
-  - No FEC contribution data
-  - No lobbying disclosure data
+  - "No lobbying disclosure data"
 court-cases: 36
 last-enriched: "2026-04-09"
 court-jurisdictions:
@@ -40,6 +39,10 @@ checklist-na:
 employee-contributions: 105
 employee-contributions-total: 28729
 employee-donor-count: 35
+source-types:
+  - Courts
+  - FEC
+corroboration-count: 2
 ---
 
 

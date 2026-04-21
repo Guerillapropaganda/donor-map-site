@@ -1,7 +1,7 @@
 ---
 title: Care Action
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00006080
 aliases:
   - CARE ACTION
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Barbara Lee]], [[Diana Degette]], [[Paul Tonko]], [[Scott Fitzgerald]], [[Michael Guest]], [[Cliff Bentz]], [[Jodey Arrington]], [[Shomari Figures]], [[Brett Guthrie]], [[Raphael Warnock]], [[Ron Estes]], [[Mariannette Miller-Meeks]], [[Sheila Cherfilus-McCormick]], [[Aaron Bean]], [[Kevin McCarthy]], [[Kyrsten Sinema]], [[Pete Aguilar]], [[Erin Houchin]], [[Brittany Pettersen]], [[Henry Cuellar]], [[Adrian Smith]], [[Diana Harshbarger]], [[Ken Calvert]], [[Susie Lee]], [[Andrea Salinas]], [[Kathy Castor]], [[Lisa Blunt Rochester]], [[Brad Knott]], [[Tim Moore]], [[Madeleine Dean]], [[Markwayne Mullin]], [[Peter Welch]], [[Dwight Evans]], [[Mike Flood]], [[Young Kim]], [[Frank Pallone]], [[Ashley Moody]], [[Steven Horsford]], [[Darin Lahood]], [[Nancy Pelosi]], [[Michelle Fischbach]], [[Gwen Moore]], [[Mark Warner]], [[Jeff Crank]], [[Josh Gottheimer]], [[John Hoeven]], [[Bill Hagerty]], [[Joyce Beatty]], [[Tammy Baldwin]], [[Josh Harder]], [[Jimmy Gomez]], [[Bryan Steil]], [[Tom Cole]], [[Jimmy Patronis]], [[Jason Smith]], [[John Hickenlooper]], [[Roger Wicker]], [[Jimmy Panetta]], [[Ashley Hinson]], [[Troy Balderson]], [[Rick Scott]], [[Sharice Davids]], [[Lois Frankel]], [[Sheri Biggs]], [[Jake Auchincloss]], [[Mike Levin]], [[Debbie Dingell]], [[Roger Marshall]], [[Mark Pocan]], [[David Kustoff]], [[Gary Peters]], [[Richard Hudson]], [[Seth Magaziner]], [[Amy Klobuchar]], [[Maxine Dexter]], [[Tim Scott]], [[Marsha Blackburn]], [[Jacky Rosen]], [[Ronny Jackson]], [[Glenn Grothman]], [[Judy Chu]], [[Darren Soto]], [[Hakeem Jeffries]], [[Vicente Gonzalez]], [[Cathy McMorris Rodgers]], [[Michael Lawler]], [[Richard Neal]], [[Marie Gluesenkamp Perez]], [[Mike Thompson]], [[Martin Heinrich]], [[Alex Padilla]], [[Ron Wyden]], [[Russell Fry]], [[Todd Young]], [[Teresa Leger Fernandez]], [[Kweisi Mfume]], [[Lori Trahan]], [[ActBlue]], [[Julia Brownley]], [[Deb Fischer]], [[Kim Schrier]], [[Rudy Yakym]], [[Steve Daines]], [[Lauren Underwood]], [[Raul Ruiz]], [[Pete Sessions]], [[Kevin Cramer]], [[John Barrasso]], [[Catherine Cortez Masto]], [[John Cornyn]]"
 related: "[[Barbara Lee]]"
 checklist-na:
@@ -26,6 +26,8 @@ contributions-to-committees: 393500
 employee-contributions: 1
 employee-contributions-total: 500
 employee-donor-count: 1
+source-types:
+  - FEC
 ---
 
 

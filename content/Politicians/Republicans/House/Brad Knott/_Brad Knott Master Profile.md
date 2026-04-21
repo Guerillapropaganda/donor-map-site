@@ -1,7 +1,7 @@
 ---
 title: Brad Knott
 type: politician
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 party: Republican
@@ -18,10 +18,8 @@ phone: 202-225-4531
 source-types:
   - Congress
 known-gaps:
-  - No FEC contribution data
-  - No legislative record
-  - No voting record
-  - No mapped relationships
+  - "No FEC contribution data"
+  - "No voting record data"
 donors: "[[CA Farm Bureau Federation]], [[Jim Jordan]], [[General Dynamics]], [[Pfizer Inc.]], [[Tyson Foods]], [[Honeywell]], [[National Multifamily Housing Council]], [[Care Action]], [[Nucor Corporation]], [[Duke Energy]], [[General Motors]], [[National Association of Realtors]], [[MAJORITY PAC]], [[National Rifle Association]], [[Gilead Sciences]], [[Anthem - Elevance Health]], [[Amgen Inc]], [[Walmart - Walton Family]], [[American Chemistry Council, INC]], [[Ted Budd]], [[Southern States Police Benevolent Assoc PAC Fund]], [[Mike Haridopolos]], [[Leidos]], [[AIPAC - American Israel Public Affairs Committee]], [[AT&T - WarnerMedia]], [[Americans for Prosperity]], [[Troy Downing]], [[Chevron]], [[Comcast - NBCUniversal]], [[Google - Alphabet]], [[CVS Health - Aetna]], [[National Restaurant Association]], [[Associated General Contractors of America Political Action Committee]], [[Amazon]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[Blackstone Group]], [[Microsoft]], [[Goldman Sachs]], [[CBRE Group]], [[McDonalds Corporation]], [[Wells Fargo]], [[Anduril Industries]], [[AT&T]], [[Majority PAC]], [[Honeywell International]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4NC13116

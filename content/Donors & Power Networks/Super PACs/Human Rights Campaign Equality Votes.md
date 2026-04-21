@@ -1,7 +1,7 @@
 ---
 title: Human Rights Campaign Equality Votes
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00508440
 aliases:
   - HUMAN RIGHTS CAMPAIGN EQUALITY VOTES
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Tammy Baldwin]], [[Ritchie Torres]], [[Brittany Pettersen]], [[Donald Trump]], [[Eric Sorensen]], [[Steven Horsford]], [[Randy Fine]], [[Lauren Underwood]], [[Joseph Morelle]], [[Nikema Williams]], [[Patrick Ryan]], [[Julie Johnson]], [[Greg Landsman]], [[John Fetterman]], [[Greg Stanton]], [[Madeleine Dean]], [[Raphael Warnock]], [[Derek Tran]], [[Sherrod Brown]], [[Dina Titus]], [[Chrissy Houlahan]], [[Kamala Harris]], [[Ruben Gallego]], [[Catherine Cortez Masto]], [[Joaquin Castro]], [[George Whitesides]], [[Chellie Pingree]], [[Dave Min]]"
 related: "[[Tammy Baldwin]]"
 checklist-na:
@@ -28,6 +28,8 @@ last-enriched: "2026-04-16"
 ofac-programs:
   - SDGT
   - ICC-EO14203
+source-types:
+  - FEC
 ---
 
 

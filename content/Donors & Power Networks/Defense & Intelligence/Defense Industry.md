@@ -1,7 +1,7 @@
 ---
 title: Defense Industry
 type: donor
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -52,6 +52,13 @@ checklist-na:
 employee-contributions: 31
 employee-contributions-total: 3237
 employee-donor-count: 8
+source-types:
+  - Courts
+  - FEC
+  - FederalRegister
+corroboration-count: 3
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

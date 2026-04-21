@@ -1,7 +1,7 @@
 ---
 title: Planned Parenthood Votes Northwest
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C90014119
 aliases:
   - PLANNED PARENTHOOD VOTES NORTHWEST
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Pramila Jayapal]], [[ActBlue]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -21,6 +21,8 @@ related: "[[Pramila Jayapal]]"
 employee-contributions: 2
 employee-contributions-total: 750
 employee-donor-count: 2
+source-types:
+  - FEC
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: Protect the Vote
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00756056
@@ -19,6 +19,10 @@ urls-first-triaged: "2026-04-15"
 total-raised: 21060
 total-spent: 420025
 cash-on-hand: 79700
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

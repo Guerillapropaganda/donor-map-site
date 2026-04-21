@@ -1,7 +1,7 @@
 ---
 title: Powerpacplus
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00516500
 aliases:
   - POWERPACPLUS
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Cory Booker]], [[Josh Harder]], [[Kamala Harris]], [[Ron Johnson]]"
 related: "[[Cory Booker]]"
 checklist-na:
@@ -22,6 +22,8 @@ total-raised: 25000
 total-spent: 4996
 cash-on-hand: 110887
 contributions-to-committees: 1000
+source-types:
+  - FEC
 ---
 
 

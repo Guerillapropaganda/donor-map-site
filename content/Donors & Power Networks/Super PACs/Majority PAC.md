@@ -1,7 +1,7 @@
 ---
 title: Majority PAC
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00428052
 aliases:
   - MAJORITY PAC
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Linda McMahon]], [[David Schweikert]], [[Tim Burchett]], [[Victoria Spartz]], [[Eric Burlison]], [[Monica de la Cruz]], [[Scott Perry]], [[Carlos Gimenez]], [[Lloyd Smucker]], [[Scott Fitzgerald]], [[Marjorie Taylor Greene]], [[Michael Guest]], [[Derrick van Orden]], [[Michael Lawler]], [[August Pfluger]], [[Ron Estes]], [[Harold Rogers]], [[David Kustoff]], [[Lauren Boebert]], [[Russell Fry]], [[Mariannette Miller-Meeks]], [[Daniel Meuser]], [[Michael Cloud]], [[Daniel Webster]], [[Dan Newhouse]], [[Ken Calvert]], [[Cindy Hyde-Smith]], [[Virginia Foxx]], [[Joe Wilson]], [[Troy Downing]], [[Thomas Massie]], [[Anna Paulina Luna]], [[Markwayne Mullin]], [[Claudia Tenney]], [[Clay Higgins]], [[Jefferson Shreve]], [[Kay Granger]], [[Pete Stauber]], [[Brad Knott]], [[Kat Cammack]], [[Lance Gooden]], [[Troy Balderson]], [[Darrell Issa]], [[Patrick McHenry]], [[French Hill]], [[Bryan Steil]], [[Erin Houchin]], [[Barry Loudermilk]], [[Adam Gray]], [[Jodey Arrington]], [[James Lankford]], [[Jay Obernolte]], [[Aaron Bean]], [[Mark Alford]], [[Brandon Gill]], [[Scott Desjarlais]], [[Elise Stefanik]], [[Tony Wied]], [[Dave Min]], [[Nicole Malliotakis]], [[Adrian Smith]], [[Vince Fong]], [[Josh Harder]], [[Steve Womack]], [[Darin Lahood]], [[Young Kim]], [[Glenn Grothman]], [[Nathaniel Moran]], [[Derek Tran]], [[Brad Finstad]], [[Mark Green]], [[Richard McCormick]], [[Byron Donalds]], [[Brett Guthrie]], [[Warren Davidson]], [[Eric Schmitt]], [[Nancy Mace]], [[John James]], [[Cory Mills]], [[Glenn Thompson]], [[Richard Hudson]], [[Scott Franklin]], [[Mike Kennedy]], [[James Comer]], [[Jeff Crank]], [[Jason Smith]], [[Josh Brecheen]], [[Brian Jack]], [[Dusty Johnson]], [[Celeste Maloy]], [[John Joyce]], [[Dan Crenshaw]], [[Kamala Harris]], [[Maria Elvira Salazar]], [[Diana Harshbarger]], [[Morgan Luttrell]], [[David Rouzer]], [[Sam Graves]], [[Burgess Owens]], [[Russ Fulcher]], [[Derek Schmidt]], [[Mike Flood]], [[Dan Sullivan]], [[Tim Sheehy]], [[Ronny Jackson]], [[Chuck Edwards]], [[Cliff Bentz]], [[Pat Harrigan]], [[Mike Haridopolos]], [[Julie Fedorchak]], [[Mike Levin]], [[Bruce Westerman]], [[Sheri Biggs]], [[Guy Reschenthaler]], [[Michelle Fischbach]], [[Rudy Yakym]], [[Ralph Norman]], [[Michael Waltz]], [[Tim Moore]], [[Rick Crawford]], [[Michael Baumgartner]], [[George Whitesides]], [[Marsha Blackburn]], [[Mike Carey]], [[Ashley Hinson]]"
 opposes: "[[Linda McMahon]]"
 related: "[[Linda McMahon]]"
@@ -24,6 +24,8 @@ total-spent: 59615
 cash-on-hand: 103536
 individual-contributions: 20672
 contributions-to-committees: 38500
+source-types:
+  - FEC
 ---
 
 

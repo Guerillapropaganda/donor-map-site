@@ -1,7 +1,7 @@
 ---
 title: Courage to Change PAC
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -10,7 +10,7 @@ source-tier: 1
 aliases:
   - COURAGE TO CHANGE
 known-gaps:
-  - Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Summer Lee]], [[Patrick Ryan]], [[Lauren Underwood]], [[Sharice Davids]], [[Rashida Tlaib]], [[Kim Schrier]], [[Nina Turner]], [[Cori Bush]], [[RNC - Republican National Committee]], [[Ayanna Pressley]], [[Ilhan Omar]], [[Andre Carson]], [[Steven Horsford]], [[Susie Lee]], [[Jon Ossoff]], [[Derek Tran]], [[Jahana Hayes]], [[Bernie Sanders]], [[Mike Levin]], [[Vicente Gonzalez]], [[Josh Harder]], [[Jamaal Bowman]]"
 related: "[[Summer Lee]]"
 checklist-na:
@@ -25,6 +25,8 @@ contributions-to-committees: 30000
 employee-contributions: 2
 employee-contributions-total: 200
 employee-donor-count: 1
+source-types:
+  - FEC
 ---
 
 

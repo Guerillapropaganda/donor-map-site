@@ -1,7 +1,7 @@
 ---
 title: Tell It Like It Is Pac
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00841593
@@ -24,6 +24,10 @@ total-spent: 317427
 cash-on-hand: 977525
 contributions-to-committees: 10000
 related: "[[Chris Christie]]"
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

@@ -1,14 +1,15 @@
 ---
 title: "Ketanji Brown Jackson"
 type: politician
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-15
 source-tier: 1
 chamber: "SCOTUS"
 born: "1970-09-14"
 known-gaps:
-  - "No mapped relationships"
-  - "No donor network analysis"
+  - "No FEC contribution data"
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
 source-types:
   - Congress
 donors: "[[Western Growers Association]] · [[CA Farm Bureau Federation]]"

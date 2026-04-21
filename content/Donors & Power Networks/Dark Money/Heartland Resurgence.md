@@ -1,7 +1,7 @@
 ---
 title: Heartland Resurgence
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00544551
@@ -18,6 +18,10 @@ urls-first-triaged: "2026-04-15"
 total-spent: 196100
 cash-on-hand: 50090
 related: "[[Dan Osborn]]"
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

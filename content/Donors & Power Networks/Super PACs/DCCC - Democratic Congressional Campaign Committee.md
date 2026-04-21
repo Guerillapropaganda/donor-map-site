@@ -1,7 +1,7 @@
 ---
 title: DCCC - Democratic Congressional Campaign Committee
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -12,7 +12,8 @@ aliases:
   - DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE
   - DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE - EXPENDITURES
 known-gaps:
-  - Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -26,6 +27,8 @@ employee-contributions: 637
 employee-contributions-total: 67016
 employee-donor-count: 109
 politicians-funded: "[[Jahana Hayes]], [[Gregory Meeks]], [[Kim Schrier]], [[Scott Perry]], [[Mariannette Miller-Meeks]], [[Josh Harder]], [[Dina Titus]], [[Henry Cuellar]], [[Vicente Gonzalez]], [[ActBlue]], [[Sean Casten]], [[Adam Gray]], [[Josh Riley]], [[Nancy Pelosi]], [[Marie Gluesenkamp Perez]], [[Patrick Ryan]], [[Eric Sorensen]], [[Andrea Salinas]], [[Greg Landsman]], [[DCCC - Democratic Congressional Campaign Committee]], [[Ted Lieu]], [[Mike Levin]], [[Sydney Kamlager-Dove]], [[_Angie Craig Master Profile]], [[Zoe Lofgren]], [[Nikki Budzinski]], [[Mark Kelly]], [[Summer Lee]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Mike Thompson]], [[_Julia Brownley Master Profile]], [[Brittany Pettersen]], [[Kristen McDonald Rivet]], [[Dave Min]], [[Darren Soto]], [[Steve Cohen]], [[Democratic Party of Virginia]], [[Jerrold Nadler]], [[Teresa Leger Fernandez]], [[George Whitesides]], [[WinRed]], [[Derek Tran]], [[Betty McCollum]], [[Chellie Pingree]], [[Emily's List]], [[Steven Horsford]], [[Dan Goldman]], [[Marcy Kaptur]], [[Lauren Underwood]], [[Michael Lawler]], [[David Schweikert]], [[Jared Moskowitz]], [[Laura Gillen]], [[_Summer Lee Master Profile]], [[Seth Magaziner]], [[Josh Gottheimer]], [[Chrissy Houlahan]], [[_Josh Harder Master Profile]], [[Eric Swalwell]], [[Maggie Goodlander]], [[Susie Lee]], [[_Lisa Blunt Rochester Master Profile]], [[Ryan Mackenzie]], [[Pramila Jayapal]], [[Greg Stanton]], [[Julia Brownley]], [[_Jon Ossoff Master Profile]], [[Sharice Davids]], [[314 ACTION FUND]], [[Suhas Subramanyam]], [[Shomari Figures]], [[Joseph Morelle]], [[Veronica Escobar]], [[Lisa Blunt Rochester]], [[Jon Ossoff]], [[Angie Craig]], [[Bennie Thompson]], [[Jim Himes]], [[Tammy Duckworth]], [[Tim Walz]], [[Melissa Bean]], [[Martin Heinrich]], [[314 Action Fund]]"
+source-types:
+  - FEC
 ---
 
 

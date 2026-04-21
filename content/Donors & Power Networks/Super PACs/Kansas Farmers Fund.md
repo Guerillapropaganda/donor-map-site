@@ -1,7 +1,7 @@
 ---
 title: Kansas Farmers Fund
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00686246
 aliases:
   - KANSAS FARMERS FUND
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Roger Marshall]]"
 related: "[[Roger Marshall]]"
 checklist-na:
@@ -22,6 +22,8 @@ total-raised: 136000
 total-spent: 136000
 independent-expenditures: 135842
 individual-contributions: 136000
+source-types:
+  - FEC
 ---
 
 

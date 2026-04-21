@@ -1,7 +1,7 @@
 ---
 title: AB PAC
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-type: Hybrid PAC (with Non-Contribution Account) - Nonqualified
@@ -24,6 +24,10 @@ individual-contributions: 275000
 employee-contributions: 2
 employee-contributions-total: 125
 employee-donor-count: 1
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

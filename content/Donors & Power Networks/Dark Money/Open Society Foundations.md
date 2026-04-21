@@ -1,7 +1,7 @@
 ---
 title: Open Society Foundations
 type: donor
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 2
 parent: null
@@ -40,6 +40,14 @@ urls-first-triaged: "2026-04-15"
 employee-contributions: 589
 employee-contributions-total: 130748
 employee-donor-count: 127
+source-types:
+  - Congress
+  - Courts
+  - FEC
+  - SAM
+corroboration-count: 4
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

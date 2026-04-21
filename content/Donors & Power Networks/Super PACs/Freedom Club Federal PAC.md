@@ -1,7 +1,7 @@
 ---
 title: Freedom Club Federal PAC
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00307777
 aliases:
   - FREEDOM CLUB FEDERAL PAC
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Tim Walz]], [[Pete Stauber]], [[Michelle Fischbach]], [[Brad Finstad]]"
 related: "[[Tim Walz]]"
 checklist-na:
@@ -21,6 +21,8 @@ urls-first-triaged: "2026-04-15"
 total-raised: 2250
 total-spent: 10691
 individual-contributions: 2250
+source-types:
+  - FEC
 ---
 
 

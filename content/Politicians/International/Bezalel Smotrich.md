@@ -1,18 +1,18 @@
 ---
 title: "Bezalel Smotrich"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Settlement expansion in the West Bank is government-subsidized real estate development. Smotrich is both the political architect and the fiscal gatekeeper of that program. As Finance Minister, he allocated 2.7 billion shekels ($843 million) over f..."
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
 known-gaps:
   - "No FEC contribution data"
-  - "No legislative record from Congress.gov"
   - "No voting record data"
-  - "No mapped relationships"
 related: "[[_Benjamin Netanyahu Master Profile]] · [[Itamar Ben-Gvir]] · [[West Bank Annexation and Settlement Expansion]] · [[One Israel Fund]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 urls-first-triaged: "2026-04-15"
+source-types:
+  - Congress
 ---
 
 

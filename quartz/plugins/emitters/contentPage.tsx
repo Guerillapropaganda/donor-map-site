@@ -84,10 +84,11 @@ export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOp
           containsIndex = true
         }
 
-        // Construction mode: only emit slugs on the public-routes
-        // allowlist (default: ["index"]). Updated by the Ops
-        // /api/policies/publish route when David ships a page.
-        if (isConstructionMode && !isAllowedSlug(slug)) continue
+        // Construction mode gating (ADR-0017):
+        //   - allowlist-match via data/public-routes.json, OR
+        //   - profile-type with content-readiness verified | data-complete.
+        // Non-profile pages still require explicit allowlist entry.
+        if (isConstructionMode && !isAllowedSlug(slug, file.data.frontmatter)) continue
         // only process home page, non-tag pages, and non-index pages
         if (slug.endsWith("/index") || slug.startsWith("tags/")) continue
         // Event drafts are data-only (feed sidebar widgets) — don't emit standalone pages

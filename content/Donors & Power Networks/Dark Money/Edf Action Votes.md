@@ -1,7 +1,7 @@
 ---
 title: Edf Action Votes
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00707844
@@ -20,6 +20,10 @@ total-raised: 3288257
 total-spent: 511353
 cash-on-hand: 3153614
 individual-contributions: 3245148
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

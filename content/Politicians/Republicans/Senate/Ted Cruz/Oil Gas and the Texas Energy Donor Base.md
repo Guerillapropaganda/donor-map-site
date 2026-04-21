@@ -1,7 +1,7 @@
 ---
 title: "Oil Gas and the Texas Energy Donor Base"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Ted Cruz Master Profile]]

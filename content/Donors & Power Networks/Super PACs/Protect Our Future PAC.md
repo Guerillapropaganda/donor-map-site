@@ -1,7 +1,7 @@
 ---
 title: Protect Our Future PAC
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00801514
 aliases:
   - PROTECT OUR FUTURE PAC
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Shontel Brown]], [[Maxwell Frost]], [[Laura Gillen]], [[Sydney Kamlager-Dove]], [[Andrea Salinas]], [[Robert Garcia]], [[Jared Moskowitz]], [[Nikki Budzinski]], [[Morgan McGarvey]]"
 related: "[[Shontel Brown]]"
 checklist-na:
@@ -20,6 +20,8 @@ checklist-na:
 urls-first-triaged: "2026-04-15"
 total-spent: 190
 cash-on-hand: 350006
+source-types:
+  - FEC
 ---
 
 

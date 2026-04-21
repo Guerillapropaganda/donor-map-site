@@ -1,7 +1,7 @@
 ---
 title: American Endowment Foundation
 type: donor
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 sector: Wall Street
 entity-type: Donor-Advised Fund
@@ -10,6 +10,10 @@ nonprofit-status: 501(c)(3)
 source-tier: 1
 internal-notes: Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Independent DAF sponsor, one of the largest non-commercial DAFs serving high-net-worth donors. Narrative pending Research Claude editorial pass.
 politicians-funded: "[[Morgan Stanley Global Impact Funding Trust]], [[ACLU Foundation]], [[Goldman Sachs Philanthropy Fund]], [[Greater Horizons]], [[Planned Parenthood Federation of America]], [[Vanguard Charitable Endowment Program]], [[Fidelity Investments]], [[Bank of America Charitable Gift Fund]], [[American Enterprise Institute]], [[Renaissance Charitable Foundation]], [[Council on Foreign Relations]], [[National Philanthropic Trust]], [[Hopewell Fund]], [[Schwab Charitable Fund]], [[Natural Resources Defense Council]], [[Sierra Club Foundation]], [[ImpactAssets]], [[Ocean Conservancy]], [[TPUSA - Turning Point USA]], [[Heartland Institute]], [[Proteus Fund]], [[NEO Philanthropy]], [[Airbnb]], [[Equal Justice Initiative]], [[Cato Institute]], [[Heritage Foundation]], [[Alliance Defending Freedom]], [[The Barack Obama Foundation]], [[Bradley Impact Fund]], [[Rockefeller Philanthropy Advisors]], [[Brennan Center for Justice]], [[New Venture Fund]], [[Stand Together Foundation]], [[Robin Hood Foundation]]"
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 ---
 
 

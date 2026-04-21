@@ -1,7 +1,7 @@
 ---
 title: Randy Fine
 type: politician
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Republican
@@ -18,10 +18,9 @@ phone: 202-225-2706
 source-types:
   - Congress
 known-gaps:
-  - No FEC contribution data
-  - No legislative record
-  - No voting record
-  - No mapped relationships
+  - "No FEC contribution data"
+  - "No voting record data"
+  - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H6FL06258
 top-donors: "[[International Association of Firefighters Interested in Registration and Education PAC]], [[Brad Knott]], [[National Restaurant Association]], [[National Association of Realtors]], [[Law Enforcement for a Safer America Pac]], [[National Right to Life Victory Fund]], [[Anthem - Elevance Health]], [[Freedom's Defense Fund]], [[Human Rights Campaign Equality Votes]], [[CVS Health - Aetna]], [[Republican Jewish Coalition]], [[Associated General Contractors of America Political Action Committee]], [[National Cattlemen's Beef Association]], [[American Conservative Union]], [[America PAC - Elon Musk]], [[Michael Waltz]], [[Tzedek PAC]], [[Defend American Jobs]], [[NRCC - National Republican Congressional Committee]], [[National Rifle Association]], [[AIPAC - American Israel Public Affairs Committee]], [[Comcast - NBCUniversal]], [[SPECIAL OPERATIONS FOR AMERICA]], [[REPUBLICAN PARTY OF FLORIDA]], [[General Dynamics]], [[Jim Jordan]], [[Duke Energy]], [[NextEra Energy]], [[L3Harris Technologies]], [[CBRE Group]], [[Chevron]], [[Ballard Partners]], [[Fanjul Family - Florida Crystals]], [[Bank of America]], [[Morgan Stanley]], [[Oracle]], [[Special Operations for America]], [[Republican Party of Florida]]"

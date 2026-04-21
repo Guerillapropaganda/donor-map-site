@@ -1,7 +1,7 @@
 ---
 title: Stand Together Chamber of Commerce
 type: donor
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-21
 aliases:
   - STAND TOGETHER CHAMBER OF COMMERCE
@@ -11,6 +11,10 @@ entity-type: Dark Money Vehicle
 nonprofit-status: 501(c)(6)
 source-tier: 1
 internal-notes: Stub profile auto-created 2026-04-21 from orphan-entities-queue. Koch-network 501(c)(6) trade association, part of the Stand Together umbrella led by Charles Koch. Channels corporate and wealthy-donor contributions toward deregulatory and libertarian-policy advocacy. $44.8M in tracked outflows across 1 edge. Research Claude editorial pass pending.
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 ---
 
 ## Who They Are

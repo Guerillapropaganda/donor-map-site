@@ -2,7 +2,7 @@
 title: Conservation Ohio
 type: donor
 ein: "310805578"
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00672139
@@ -22,6 +22,10 @@ total-spent: 164850
 cash-on-hand: 77700
 independent-expenditures: 141882
 individual-contributions: 100742
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

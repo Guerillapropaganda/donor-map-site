@@ -1,7 +1,7 @@
 ---
 title: Anthropic
 type: corporation
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -50,6 +50,14 @@ employee-contributions: 240
 employee-contributions-total: 1019624
 employee-donor-count: 111
 politicians-funded: "[[ActBlue]], [[Indivisible Action]], [[WinRed]], [[_Ted Lieu Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[NRSC - National Republican Senatorial Committee]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Alex Padilla Master Profile]], [[_Scott Wiener Master Profile]], [[DNC - Democratic National Committee]], [[Barbara Lee]], [[The Lincoln Project]], [[Scott Wiener]], [[Ted Lieu]], [[Alex Padilla]]"
+source-types:
+  - Courts
+  - FEC
+  - FederalRegister
+  - LDA
+  - SEC
+  - USASpending
+corroboration-count: 6
 ---
 
 

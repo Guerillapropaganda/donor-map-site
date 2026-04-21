@@ -1,7 +1,7 @@
 ---
 title: Health Justice for All
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00695619
 aliases:
   - HEALTH JUSTICE FOR ALL
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Mark Warner]]"
 related: "[[Mark Warner]]"
 checklist-na:
@@ -19,6 +19,8 @@ checklist-na:
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
 cash-on-hand: 1628
+source-types:
+  - FEC
 ---
 
 

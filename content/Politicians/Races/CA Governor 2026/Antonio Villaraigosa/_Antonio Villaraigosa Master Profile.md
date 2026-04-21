@@ -1,7 +1,7 @@
 ---
 title: Antonio Villaraigosa
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Villaraigosa is the real estate and development industry's preferred candidate , his entire political trajectory reveals the same coalition: developer money funds his campaigns, building trades unions provide labor legitimacy, and pro-development ..."
 last-updated: 2026-04-08T00:00:00.000Z
 source-tier: 1
@@ -16,9 +16,8 @@ top-donors: "[[California Apartment Association]], [[California Building and Con
 source-types:
   - Congress
 known-gaps:
-  - No FEC contribution data
-  - No voting record data
-  - No mapped relationships
+  - "No FEC contribution data"
+  - "No voting record data"
 related: "[[California Building and Construction Trades Council]] · [[California Apartment Association]] · [[Charter Schools and the Billionaire Reform Movement]] · [[_Gavin Newsom Master Profile]]"
 urls-first-triaged: "2026-04-15"
 ---

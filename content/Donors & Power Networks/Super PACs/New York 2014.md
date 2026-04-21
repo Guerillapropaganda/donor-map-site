@@ -1,7 +1,7 @@
 ---
 title: New York 2014
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00563171
 aliases:
   - NEW YORK 2014
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Elise Stefanik]]"
 related: "[[Elise Stefanik]]"
 checklist-na:
@@ -24,6 +24,8 @@ ofac-sdn-match: "true"
 last-enriched: "2026-04-16"
 ofac-programs:
   - "VENEZUELA-EO13850"
+source-types:
+  - FEC
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: Rule of Law Trust
 type: donor
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 sector: Dark Money
 entity-type: 501(c)(4)
@@ -10,6 +10,10 @@ nonprofit-status: 501(c)(4)
 source-tier: 1
 internal-notes: Stub profile auto-created 2026-04-18 to close 990-edge coverage gap. Narrative (Who They Are, Class Analysis, etc.) to be written by Research Claude. Received $153M from Marble Freedom Trust in 2021. EIN verified against IRS 990 bulk recipient records.
 politicians-funded: "[[Schwab Charitable Fund]], [[The Concord Fund]], [[Fidelity Investments]], [[Donors Trust]], [[Judicial Crisis Network]]"
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 ---
 
 

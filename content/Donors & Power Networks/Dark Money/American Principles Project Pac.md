@@ -1,7 +1,7 @@
 ---
 title: American Principles Project Pac
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00544387
@@ -20,6 +20,10 @@ total-raised: 4500343
 total-spent: 4297399
 cash-on-hand: 263156
 individual-contributions: 738108
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

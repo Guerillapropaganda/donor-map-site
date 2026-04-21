@@ -1,7 +1,7 @@
 ---
 title: Together We Thrive
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00522458
 aliases:
   - TOGETHER WE THRIVE
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Barbara Lee]], [[Joseph Morelle]], [[Bobby Scott]], [[Raja Krishnamoorthi]], [[James Comer]], [[Mark Kelly]], [[ActBlue]]"
 related: "[[Bobby Scott]] · [[James Comer]] · [[Raja Krishnamoorthi]] · [[Joseph Morelle]] · [[Barbara Lee]]"
 checklist-na:
@@ -21,6 +21,8 @@ urls-first-triaged: "2026-04-15"
 employee-contributions: 4
 employee-contributions-total: 4454
 employee-donor-count: 2
+source-types:
+  - FEC
 ---
 
 

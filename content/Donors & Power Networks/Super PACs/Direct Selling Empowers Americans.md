@@ -1,7 +1,7 @@
 ---
 title: Direct Selling Empowers Americans
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00564997
 aliases:
   - DIRECT SELLING EMPOWERS AMERICANS
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Gregory Meeks]]"
 related: "[[Gregory Meeks]]"
 checklist-na:
@@ -19,6 +19,8 @@ checklist-na:
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
 cash-on-hand: 477
+source-types:
+  - FEC
 ---
 
 

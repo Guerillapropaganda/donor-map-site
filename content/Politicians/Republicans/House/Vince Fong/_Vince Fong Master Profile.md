@@ -1,7 +1,7 @@
 ---
 title: Vince Fong
 type: politician
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 party: Republican
@@ -18,10 +18,8 @@ phone: 202-225-2915
 source-types:
   - Congress
 known-gaps:
-  - No FEC contribution data
-  - No legislative record
-  - No voting record
-  - No mapped relationships
+  - "No FEC contribution data"
+  - "No voting record data"
 donors: "[[National Cattlemen's Beef Association]], [[Associated General Contractors of America Political Action Committee]], [[Republican Jewish Coalition]], [[Microsoft]], [[American Hospital Association PAC]], [[Northrop Grumman]], [[AT&T - WarnerMedia]], [[National Association of Realtors]], [[Comcast - NBCUniversal]], [[American Chemistry Council, INC]], [[Amgen Inc]], [[Marathon Petroleum]], [[David Rouzer]], [[AIPAC - American Israel Public Affairs Committee]], [[MAJORITY PAC]], [[Pfizer Inc.]], [[Chevron]], [[NextEra Energy]], [[Performance Racing Inc.]], [[National Rifle Association]], [[Walmart - Walton Family]], [[Citigroup]], [[Anthem - Elevance Health]], [[National Multifamily Housing Council]], [[Lockheed Martin]], [[Gilead Sciences]], [[Cooperative of American Physicians Independent Expenditure Committee]], [[Google - Alphabet]], [[Raytheon (RTX)]], [[August Pfluger]], [[Valero Energy]], [[Honeywell]], [[L3Harris Technologies]], [[Halliburton]], [[PG&E - Pacific Gas and Electric]], [[IBEW - International Brotherhood of Electrical Workers]], [[Duke Energy]], [[Tenet Healthcare]], [[AbbVie]], [[Morgan Stanley]], [[Jason Smith]], [[TikTok - ByteDance]], [[Nvidia]], [[Blackstone Group]], [[Kaiser Permanente]], [[Johnson & Johnson]], [[US CHAMBER OF COMMERCE]], [[Fidelity Investments]], [[Never Back Down Inc]], [[Majority PAC]], [[AT&T]], [[Honeywell International]], [[US Chamber of Commerce]], [[Never Back Down Inc.]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4CA20181

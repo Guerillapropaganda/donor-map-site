@@ -1,7 +1,7 @@
 ---
 title: Senate Conservatives Fund
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00448696
 aliases:
   - SENATE CONSERVATIVES FUND
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Bill Hagerty]], [[John Ratcliffe]], [[Ted Cruz]], [[Elissa Slotkin]], [[Ashley Moody]], [[Josh Hawley]], [[Mike Lee]], [[Tim Sheehy]], [[Mark Kelly]], [[Eric Schmitt]], [[Gary Peters]], [[Ron Johnson]], [[Jacky Rosen]], [[Bernie Moreno]], [[Scott Perry]], [[Catherine Cortez Masto]], [[Jon Ossoff]], [[Tammy Baldwin]], [[Raphael Warnock]], [[Anna Paulina Luna]], [[Rick Scott]], [[John Fetterman]], [[Roger Marshall]], [[Ruben Gallego]], [[Marsha Blackburn]], [[Chip Roy]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -24,6 +24,8 @@ independent-expenditures: 1447158
 individual-contributions: 3167195
 contributions-to-committees: 1405974
 related: "[[John Ratcliffe]] · [[Bill Hagerty]]"
+source-types:
+  - FEC
 ---
 
 

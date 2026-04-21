@@ -1,7 +1,7 @@
 ---
 title: "Trump Victory"
 type: pac
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-17
 source-tier: 1
 parent: null
@@ -39,6 +39,10 @@ total-raised: 5381336
 total-spent: 5420101
 cash-on-hand: 2330947
 individual-contributions: 1294464
+source-types:
+  - SEC
+known-gaps:
+  - "No FEC contribution data"
 ---
 
 

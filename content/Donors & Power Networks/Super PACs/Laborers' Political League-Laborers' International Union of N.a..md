@@ -1,7 +1,7 @@
 ---
 title: Laborers' Political League-Laborers' International Union of N.a.
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00429175
 aliases:
   - LABORERS' POLITICAL LEAGUE-LABORERS' INTERNATIONAL UNION OF N.A.
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Bennie Thompson]]"
 related: "[[Bennie Thompson]]"
 checklist-na:
@@ -23,6 +23,8 @@ total-spent: 652008
 cash-on-hand: 224752
 individual-contributions: 425521
 contributions-to-committees: 50000
+source-types:
+  - FEC
 ---
 
 

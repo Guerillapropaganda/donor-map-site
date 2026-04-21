@@ -1,7 +1,7 @@
 ---
 title: Right to Life of Michigan Political Action Committee
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00101212
 aliases:
   - RIGHT TO LIFE OF MICHIGAN POLITICAL ACTION COMMITTEE
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Debbie Stabenow]]"
 related: "[[Debbie Stabenow]]"
 checklist-na:
@@ -23,6 +23,8 @@ ofac-sdn-match: "true"
 last-enriched: "2026-04-16"
 ofac-programs:
   - "IRAN-TRA"
+source-types:
+  - FEC
 ---
 
 

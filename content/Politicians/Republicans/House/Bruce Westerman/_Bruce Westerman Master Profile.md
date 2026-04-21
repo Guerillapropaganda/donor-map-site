@@ -1,7 +1,7 @@
 ---
 title: Bruce Westerman
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: Bruce Westerman is the extractive industry's credentialed gatekeeper — a Yale-educated forester who uses his environmental credentials to open public lands to drilling, mining, and logging while framing resource extraction as 'conservation.' His c...
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
@@ -37,6 +37,11 @@ bills-cosponsored: 1147
 bills-enacted: 0
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: Health
+source-types:
+  - Congress
+known-gaps:
+  - "No FEC contribution data"
+  - "No voting record data"
 ---
 
 

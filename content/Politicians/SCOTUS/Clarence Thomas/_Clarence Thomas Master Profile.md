@@ -1,7 +1,7 @@
 ---
 title: Clarence Thomas
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: Clarence Thomas is the Supreme Court's proof of concept for donor capture. Over 30+ years, a network of billionaire donors , Harlan Crow ($4.75M+ in gifts), the Koch brothers (donor summit access), and Leonard Leo (the architect) , have provided T...
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -12,13 +12,13 @@ top-donors:
   - Koch Network - Charles Koch
   - Leonard Leo
 known-gaps:
-  - No FEC contribution data
-  - No legislative record from Congress.gov
-  - No voting record data
-  - No mapped relationships
+  - "No FEC contribution data"
+  - "No voting record data"
 related: "[[Leonard Leo]] · [[Harlan Crow]] · [[Koch Network - Charles Koch]] · [[_Samuel Alito Master Profile]]"
 donors: "[[Judicial Crisis Network]] · [[Federalist Society]] · [[Harlan Crow]] · [[Leonard Leo]] · [[Koch Network - Charles Koch]]"
 urls-first-triaged: "2026-04-15"
+source-types:
+  - Congress
 ---
 
 

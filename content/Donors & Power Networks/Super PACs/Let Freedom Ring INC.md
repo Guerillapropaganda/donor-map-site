@@ -1,7 +1,7 @@
 ---
 title: Let Freedom Ring INC
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C90007998
 aliases:
   - LET FREEDOM RING INC
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Chris Coons]], [[NRSC - National Republican Senatorial Committee]], [[WinRed]], [[_Don Bacon Master Profile]], [[_Jason Smith Master Profile]], [[_Marco Rubio Master Profile]], [[_Jim Jordan Master Profile]], [[Don Bacon]], [[Marco Rubio]], [[Jason Smith]], [[Jim Jordan]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -25,6 +25,8 @@ related: "[[Chris Coons]]"
 employee-contributions: 24
 employee-contributions-total: 7330
 employee-donor-count: 9
+source-types:
+  - FEC
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: National Nurses United for Patient Protection
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00490375
 aliases:
   - NATIONAL NURSES UNITED FOR PATIENT PROTECTION
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Mark Takano]], [[Pramila Jayapal]], [[Ilhan Omar]], [[Ruben Gallego]], [[Raphael Warnock]], [[Cori Bush]], [[Kamala Harris]], [[Sherrod Brown]], [[Nina Turner]], [[Tammy Baldwin]], [[Jamaal Bowman]], [[John Fetterman]], [[Summer Lee]], [[Elissa Slotkin]]"
 related: "[[Mark Takano]] · [[Pramila Jayapal]] · [[Ilhan Omar]]"
 checklist-na:
@@ -26,6 +26,8 @@ last-enriched: "2026-04-16"
 ofac-programs:
   - BALKANS
   - UKRAINE-EO13661] [CYBER2] [ELECTION-EO13848
+source-types:
+  - FEC
 ---
 
 

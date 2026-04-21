@@ -1,7 +1,7 @@
 ---
 title: Sandre Swanson for Assembly 2010
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,13 +11,15 @@ fec-committee-id: C90012618
 aliases:
   - SANDRE SWANSON FOR ASSEMBLY 2010
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Barbara Lee]]"
 related: "[[Barbara Lee]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+source-types:
+  - FEC
 ---
 
 

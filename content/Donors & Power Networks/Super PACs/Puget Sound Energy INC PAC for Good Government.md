@@ -1,7 +1,7 @@
 ---
 title: Puget Sound Energy INC PAC for Good Government
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00101592
 aliases:
   - PUGET SOUND ENERGY INC PAC FOR GOOD GOVERNMENT
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Adam Smith]], [[Kim Schrier]], [[Michael Baumgartner]], [[Rick Larsen]], [[Steve Daines]], [[Patty Murray]], [[Dan Newhouse]], [[Ron Wyden]], [[Marilyn Strickland]], [[Tim Sheehy]], [[Martin Heinrich]], [[Cathy McMorris Rodgers]], [[Richard Neal]]"
 related: "[[Adam Smith]]"
 checklist-na:
@@ -23,6 +23,8 @@ total-spent: 85046
 cash-on-hand: 147707
 individual-contributions: 55455
 contributions-to-committees: 85000
+source-types:
+  - FEC
 ---
 
 

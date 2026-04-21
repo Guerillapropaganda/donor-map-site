@@ -1,7 +1,7 @@
 ---
 title: Protect Progress
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00848440
@@ -21,6 +21,10 @@ total-spent: 3537345
 cash-on-hand: 2914556
 independent-expenditures: 3186627
 individual-contributions: 350000
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

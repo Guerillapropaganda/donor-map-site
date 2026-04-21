@@ -1,7 +1,7 @@
 ---
 title: Brandon Gill
 type: politician
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Republican
@@ -18,10 +18,9 @@ phone: 202-225-7772
 source-types:
   - Congress
 known-gaps:
-  - No FEC contribution data
-  - No legislative record
-  - No voting record
-  - No mapped relationships
+  - "No FEC contribution data"
+  - "No voting record data"
+  - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4TX26149
 top-donors: "[[American Hospital Association PAC]], [[Comcast - NBCUniversal]], [[Jim Jordan]], [[National Restaurant Association]], [[Club for Growth]], [[National Association of Realtors]], [[National Rifle Association]], [[Anthem - Elevance Health]], [[MAJORITY PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Tyson Foods]], [[National Cattlemen's Beef Association]], [[WinRed]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Troy Downing]], [[AIPAC - American Israel Public Affairs Committee]], [[Chevron]], [[Mike Haridopolos]], [[Campaign for Working Families]], [[Club for Growth INC PAC]], [[Pete Sessions]], [[Majority PAC]]"

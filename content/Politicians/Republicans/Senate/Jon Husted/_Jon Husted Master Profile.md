@@ -2,7 +2,7 @@
 title: "Jon Husted Master Profile"
 type: politician
 bioguide-id: "H001104"
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Husted represents the establishment Republican faction in Ohio—a reliable vote for corporate donors and wealthy individuals with regulatory interests before state and federal agencies. His long tenure in Ohio Republican politics positions him as a..."
 last-updated: 2026-04-08
 source-tier: 1
@@ -16,12 +16,11 @@ top-donors:
 total-received: "$7,348,700"
 fec-candidate-id: "S6OH00304"
 source-types:
-  - FEC
+  - Congress
   - GovTrack
 corroboration-count: 2
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No mapped relationships"
+  - "No FEC contribution data"
 related: "[[Sherrod Brown|Sherrod Brown]] · [[Les Wexner - Wexner Family Enterprises]]"
 urls-first-triaged: "2026-04-15"
 ---

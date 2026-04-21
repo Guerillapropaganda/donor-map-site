@@ -1,7 +1,7 @@
 ---
 title: Larry Ellison
 type: donor
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-16
 source-tier: 1
 parent: null
@@ -16,9 +16,9 @@ net-assets: $192.2M
 tax-year: "2023"
 source-types:
   - FEC
+  - FederalRegister
 known-gaps:
-  - No lobbying disclosure data
-  - No mapped relationships
+  - "No lobbying disclosure data"
 last-enriched: "2026-04-10"
 total-political-spend: $10,212
 related: "[[_Donald Trump Master Profile]] · [[Oracle]] · [[Steve Scalise]] · [[Marco Rubio]] · [[Rand Paul]] · [[Kamala Harris]]"
@@ -29,6 +29,7 @@ regulatory-agencies:
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+corroboration-count: 2
 ---
 
 

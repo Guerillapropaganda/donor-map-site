@@ -54,6 +54,10 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.ArticleTitle(),
       condition: (page) => page.fileData.slug !== "index",
     }),
+    // ADR-0017: auto-generated banner for data-complete profiles.
+    // Renders above ArticleTitle-adjacent metadata so readers see the
+    // "not editorially reviewed" framing before any of the profile content.
+    Component.DataCompleteBanner(),
     Component.ConditionalRender({
       component: Component.HeroContradiction(),
       condition: (page) => {

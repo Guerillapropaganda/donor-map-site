@@ -1,7 +1,7 @@
 ---
 title: FTX - Sam Bankman-Fried
 type: donor
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -26,6 +26,13 @@ checklist-na:
 employee-contributions: 234
 employee-contributions-total: 45790530
 employee-donor-count: 64
+source-types:
+  - Congress
+  - DOJ
+  - FEC
+  - LDA
+  - SEC
+corroboration-count: 5
 ---
 
 

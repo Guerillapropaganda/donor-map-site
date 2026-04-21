@@ -3,7 +3,7 @@ title: "Juliana Stratton"
 type: state-politician
 current-office: "Lieutenant Governor of Illinois (2019–present)"
 candidate-for: "US Senate 2026 (IL, Democratic primary)"
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Stratton's political identity is built on dual narratives of grassroots progressivism and executive proximity to the Pritzker billionaire network. She positions herself as a criminal justice reformer opposed to corporate influence in politics, yet the 2026 primary proved that one billionaire's $5M check — not grassroots fundraising — purchased the Democratic nomination."
 last-updated: 2026-04-16
 editorial-notes: "[Research Claude 2026-04-16] Added Class Analysis section. Demoted ready→draft per vault rule (CA was missing). Removed 3 body inline fields (office::, state::, party::). Ready to re-promote once David reviews."
@@ -19,6 +19,8 @@ related: "[[Illinois 2026 Senate Race]] · [[_JB Pritzker Master Profile|JB Prit
 last-enriched: "2026-04-10"
 internal-notes: "[JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID , same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
 urls-first-triaged: "2026-04-15"
+source-types:
+  - Congress
 ---
 
 

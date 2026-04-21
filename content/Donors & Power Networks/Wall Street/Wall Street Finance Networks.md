@@ -1,7 +1,7 @@
 ---
 title: "Wall Street Finance Networks"
 type: donor
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-10
 source-tier: 1
 parent: null

@@ -1,7 +1,7 @@
 ---
 title: "The Gubernatorial Pivot - From Sheriff to Culture War Candidate"
 type: sub-note
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-10
 source-tier: 2
 parent: null
@@ -16,6 +16,8 @@ checklist-na:
   - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+source-types:
+  - Congress
 ---
 donors: "[[Rebekah Mercer]]"
 ---

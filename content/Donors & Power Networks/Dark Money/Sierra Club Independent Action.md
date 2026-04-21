@@ -1,7 +1,7 @@
 ---
 title: Sierra Club Independent Action
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00483693
@@ -21,6 +21,10 @@ total-spent: 148952
 cash-on-hand: 257316
 independent-expenditures: 470
 individual-contributions: 61434
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

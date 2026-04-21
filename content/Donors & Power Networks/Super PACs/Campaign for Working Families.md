@@ -1,7 +1,7 @@
 ---
 title: Campaign for Working Families
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00325076
 aliases:
   - CAMPAIGN FOR WORKING FAMILIES
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Jack Reed]], [[Anna Paulina Luna]], [[Richard McCormick]], [[Monica de la Cruz]], [[Josh Hawley]], [[John James]], [[Bernie Moreno]], [[Tim Sheehy]], [[Ted Cruz]], [[Ron Johnson]], [[Ken Calvert]], [[Derrick van Orden]], [[ActBlue]], [[Ryan Zinke]], [[Mark Harris]], [[Russell Fry]], [[Ryan Mackenzie]], [[Brandon Gill]], [[David Schweikert]]"
 related: "[[Jack Reed]]"
 checklist-na:
@@ -28,6 +28,10 @@ federal-grants-total: 1291679
 employee-contributions: 1
 employee-contributions-total: 1000
 employee-donor-count: 1
+source-types:
+  - FEC
+  - USASpending
+corroboration-count: 2
 ---
 
 

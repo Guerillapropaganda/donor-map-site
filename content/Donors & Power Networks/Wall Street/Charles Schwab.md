@@ -1,7 +1,7 @@
 ---
 title: Charles Schwab
 type: corporation
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -48,14 +48,13 @@ sec-form-types:
   - SCHEDULE 13G/A
   - TA-1/A
 source-types:
+  - FEC
   - FederalRegister
   - SEC
   - USASpending
-corroboration-count: 3
+corroboration-count: 4
 known-gaps:
-  - No FEC contribution data
-  - No lobbying disclosure data
-  - No mapped relationships
+  - "No lobbying disclosure data"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 related: "[[Goldman Sachs]] · [[Morgan Stanley]] · [[JPMorgan Chase]]"

@@ -1,7 +1,7 @@
 ---
 title: Neil Gorsuch
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: Neil Gorsuch is the donor class's return on the most audacious power play in modern Senate history. McConnell held Scalia's seat open for 293 days , blocking a president's constitutional authority to fill a vacancy , so that the Federalist Society...
 last-updated: 2026-04-07T00:00:00.000Z
 source-tier: 1
@@ -11,9 +11,8 @@ top-donors: "[[Leonard Leo]], [[Judicial Crisis Network]], [[Koch Network - Char
 source-types:
   - Congress
 known-gaps:
-  - No FEC contribution data
-  - No voting record data
-  - No mapped relationships
+  - "No FEC contribution data"
+  - "No voting record data"
 related: "[[Leonard Leo]] · [[_John Roberts Master Profile]] · [[_Clarence Thomas Master Profile]] · [[_Samuel Alito Master Profile]] · [[Koch Network - Charles Koch]]"
 urls-first-triaged: "2026-04-15"
 ---

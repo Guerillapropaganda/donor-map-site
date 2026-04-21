@@ -1,7 +1,7 @@
 ---
 title: Republican Campaign Committee of New Mexico
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00020818
 aliases:
   - REPUBLICAN CAMPAIGN COMMITTEE OF NEW MEXICO
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Martin Heinrich]], [[Donald Trump]]"
 related: "[[Martin Heinrich]]"
 checklist-na:
@@ -26,6 +26,8 @@ ofac-sdn-match: "true"
 last-enriched: "2026-04-16"
 ofac-programs:
   - FTO] [SDGT
+source-types:
+  - FEC
 ---
 
 

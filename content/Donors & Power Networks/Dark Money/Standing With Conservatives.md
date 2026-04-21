@@ -1,7 +1,7 @@
 ---
 title: Standing With Conservatives
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00750505
@@ -21,6 +21,10 @@ cash-on-hand: 135262
 individual-contributions: 529613
 contributions-to-committees: 385000
 related: "[[Bill Hagerty]]"
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

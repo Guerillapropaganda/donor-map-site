@@ -1,7 +1,7 @@
 ---
 title: National Committee to Preserve Social Security & Medicare PAC
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00172296
 aliases:
   - NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY & MEDICARE PAC
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Richard Blumenthal]]"
 related: "[[Richard Blumenthal]]"
 checklist-na:
@@ -27,6 +27,8 @@ ofac-programs:
   - "BELARUS"
   - "RUSSIA-EO14024"
   - "GLOMAG"
+source-types:
+  - FEC
 ---
 
 

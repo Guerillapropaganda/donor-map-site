@@ -1,7 +1,7 @@
 ---
 title: Mississippi Republican Party
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00084368
 aliases:
   - MISSISSIPPI REPUBLICAN PARTY
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Roger Wicker]], [[MISSISSIPPI REPUBLICAN PARTY]], [[Mississippi Republican Party]]"
 related: "[[Roger Wicker]]"
 checklist-na:
@@ -25,6 +25,8 @@ individual-contributions: 444899
 employee-contributions: 3
 employee-contributions-total: 470
 employee-donor-count: 1
+source-types:
+  - FEC
 ---
 
 

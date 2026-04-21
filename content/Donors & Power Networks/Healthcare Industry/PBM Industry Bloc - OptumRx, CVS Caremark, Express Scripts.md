@@ -1,7 +1,7 @@
 ---
 title: "PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts"
 type: corporation
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-18
 source-tier: 1
 parent: null

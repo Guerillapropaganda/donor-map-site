@@ -1,7 +1,7 @@
 ---
 title: Railroaders for Public Safety
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00854893
@@ -19,6 +19,10 @@ total-raised: 404
 total-spent: 4186
 cash-on-hand: 7094
 related: "[[Dan Osborn]]"
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

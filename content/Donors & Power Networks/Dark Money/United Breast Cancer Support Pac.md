@@ -1,7 +1,7 @@
 ---
 title: United Breast Cancer Support Pac
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00824821
@@ -20,6 +20,10 @@ total-raised: 1668
 total-spent: 9874
 cash-on-hand: 1708
 individual-contributions: 1668
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

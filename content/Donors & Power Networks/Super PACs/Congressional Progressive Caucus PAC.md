@@ -1,7 +1,7 @@
 ---
 title: Congressional Progressive Caucus PAC
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00513176
 aliases:
   - CONGRESSIONAL PROGRESSIVE CAUCUS PAC
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Summer Lee]], [[Dave Min]], [[Jamaal Bowman]], [[Rashida Tlaib]], [[Steven Horsford]], [[Shontel Brown]], [[Lateefah Simon]], [[Andrea Salinas]], [[Mike Levin]], [[Sarah McBride]], [[Nina Turner]], [[Sydney Kamlager-Dove]], [[Laura Friedman]], [[Lamonica McIver]], [[Joseph Morelle]], [[Shri Thanedar]], [[ActBlue]], [[Ilhan Omar]], [[Daniel Biss]], [[Morgan McGarvey]], [[Darren Soto]], [[Jimmy Gomez]], [[Cori Bush]], [[Robert Garcia]], [[Teresa Leger Fernandez]], [[Maxwell Frost]]"
 related: "[[Summer Lee]]"
 checklist-na:
@@ -27,6 +27,8 @@ contributions-to-committees: 235000
 employee-contributions: 2
 employee-contributions-total: 750
 employee-donor-count: 2
+source-types:
+  - FEC
 ---
 
 

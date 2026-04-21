@@ -1,7 +1,7 @@
 ---
 title: Victory for Schaumburg
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00815977
 aliases:
   - VICTORY FOR SCHAUMBURG
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Raja Krishnamoorthi]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -23,6 +23,8 @@ cash-on-hand: 39
 independent-expenditures: 6171
 individual-contributions: 21250
 related: "[[Raja Krishnamoorthi]]"
+source-types:
+  - FEC
 ---
 
 

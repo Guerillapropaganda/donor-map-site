@@ -1,7 +1,7 @@
 ---
 title: Democratic Party of Virginia
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00155952
 aliases:
   - DEMOCRATIC PARTY OF VIRGINIA
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Bobby Scott]], [[ActBlue]], [[Democratic Party of Virginia]]"
 related: "[[Bobby Scott]]"
 checklist-na:
@@ -29,6 +29,8 @@ ofac-programs:
 employee-contributions: 32
 employee-contributions-total: 3122
 employee-donor-count: 11
+source-types:
+  - FEC
 ---
 
 

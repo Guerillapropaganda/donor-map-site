@@ -1,7 +1,7 @@
 ---
 title: Fanjul Family - Florida Crystals
 type: donor
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -23,6 +23,11 @@ urls-first-triaged: "2026-04-15"
 employee-contributions: 560
 employee-contributions-total: 5547230
 employee-donor-count: 253
+source-types:
+  - Congress
+  - FEC
+  - LDA
+corroboration-count: 3
 ---
 
 

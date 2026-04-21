@@ -1,7 +1,7 @@
 ---
 title: American Energy Action Fund
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00760082
@@ -20,6 +20,10 @@ total-raised: 795000
 total-spent: 794846
 cash-on-hand: 15883
 individual-contributions: 795000
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

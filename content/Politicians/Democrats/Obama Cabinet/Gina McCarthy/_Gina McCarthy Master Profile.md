@@ -1,14 +1,15 @@
 ---
 title: Gina McCarthy
 type: politician
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 party: Democrat
 chamber: EPA Administrator (2013-2017)
 known-gaps:
-  - No mapped relationships
-  - No donor network analysis
+  - "No FEC contribution data"
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
 source-types:
   - Congress
 donors: "[[Brady Campaign]] · [[Western Growers Association]] · [[California Farm Bureau Federation]]"

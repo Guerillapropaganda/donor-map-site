@@ -1,7 +1,7 @@
 ---
 title: "The Delaware Corporate Senator - Biden's Legislative Lieutenant"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Chris Coons Master Profile]]"
@@ -10,6 +10,8 @@ checklist-na:
   - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+source-types:
+  - Congress
 ---
 #coons #delaware #corporate #banking #credit-cards #biden #judiciary
 

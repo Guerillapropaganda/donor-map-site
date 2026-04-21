@@ -1,7 +1,7 @@
 ---
 title: Dream Defenders Fight Pac
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00728352
@@ -20,6 +20,10 @@ total-raised: 296
 total-spent: 36
 cash-on-hand: 174435
 individual-contributions: 296
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

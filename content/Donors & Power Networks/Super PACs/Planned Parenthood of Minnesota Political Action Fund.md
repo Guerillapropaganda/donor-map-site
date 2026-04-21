@@ -1,7 +1,7 @@
 ---
 title: Planned Parenthood of Minnesota Political Action Fund
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00684530
 aliases:
   - PLANNED PARENTHOOD OF MINNESOTA POLITICAL ACTION FUND
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Amy Klobuchar]], [[Betty McCollum]], [[Donald Trump]], [[Tina Smith]], [[Kelly Morrison]], [[Kamala Harris]]"
 related: "[[Amy Klobuchar]]"
 checklist-na:
@@ -21,6 +21,8 @@ urls-first-triaged: "2026-04-15"
 total-raised: 45007
 total-spent: 43306
 cash-on-hand: 14247
+source-types:
+  - FEC
 ---
 
 

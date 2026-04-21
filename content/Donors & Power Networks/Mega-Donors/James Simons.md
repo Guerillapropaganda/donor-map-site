@@ -1,7 +1,7 @@
 ---
 title: James Simons
 type: donor
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-21
 aliases:
   - James H. Simons
@@ -10,6 +10,10 @@ sector: Mega-Donors
 entity-type: Individual Donor
 source-tier: 1
 internal-notes: Stub profile auto-created 2026-04-21 from orphan-entities-queue. Jim Simons founded Renaissance Technologies (hedge fund) in 1982. Died May 2024. Funded Democrats and center-left causes through his lifetime. $58.5M in tracked political edges across 14 cycles. Research Claude editorial pass pending.
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 ---
 
 ## Who They Are

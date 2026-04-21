@@ -1,7 +1,7 @@
 ---
 title: Brian Armstrong
 type: donor
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-11T00:00:00.000Z
 source-tier: null
 parent: null
@@ -12,11 +12,11 @@ issues:
   - Financial Deregulation
 politicians-funded: "[[Donald Trump]]"
 related: "[[Coinbase]] · [[Fairshake PAC]] · [[Defend American Jobs]] · [[Protect Progress]] · [[_Donald Trump Master Profile]]"
-source-types: []
+source-types:
+  - FederalRegister
 known-gaps:
-  - Stub created 2026-04-09 to preserve vault connections
-  - Full build required: Coinbase founding/CEO history, personal FEC contributions, advocacy activity
-  - No FEC contribution ID compilation
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
 federal-register-mentions: 31
 last-enriched: "2026-04-11"
 regulatory-agencies:

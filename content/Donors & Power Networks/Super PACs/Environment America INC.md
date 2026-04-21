@@ -2,7 +2,7 @@
 title: Environment America INC
 type: donor
 ein: "205355252"
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -12,7 +12,7 @@ fec-committee-id: C00442020
 aliases:
   - ENVIRONMENT AMERICA INC
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Jack Reed]], [[Martin Heinrich]], [[Catherine Cortez Masto]], [[Lloyd Doggett]], [[Nikki Budzinski]], [[Kathy Castor]], [[Jason Crow]], [[_Laura Friedman Master Profile]], [[Debbie Dingell]], [[Mark Warner]], [[Greg Stanton]], [[Paul Tonko]], [[Betty McCollum]], [[Lisa Murkowski]], [[Jared Huffman]], [[_Tammy Baldwin Master Profile]], [[Suzanne Bonamici]], [[Sharice Davids]], [[MoveOn.org Political Action]], [[Shontel Brown]], [[Dan Newhouse]], [[WinRed]], [[Steven Horsford]], [[Seth Magaziner]], [[DSCC - Democratic Senatorial Campaign Committee]], [[ActBlue]], [[Mike Levin]], [[Kim Schrier]], [[MAGA Inc]], [[NRSC - National Republican Senatorial Committee]], [[John Fetterman]], [[Bob Casey]], [[Madeleine Dean]], [[Sean Casten]], [[Nancy Pelosi]], [[_Jamie Raskin Master Profile]], [[Laura Friedman]], [[Sheldon Whitehouse]], [[Raphael Warnock]], [[Frank Pallone]], [[RNC - Republican National Committee]], [[League of Conservation Voters]], [[Alex Padilla]], [[_Jon Ossoff Master Profile]], [[Joseph Morelle]], [[DCCC - Democratic Congressional Campaign Committee]], [[Joe Manchin]], [[Andy Kim]], [[Dina Titus]], [[Jahana Hayes]], [[Andrea Salinas]], [[Susie Lee]], [[Eric Sorensen]], [[Raul Grijalva]], [[Emily's List]], [[_Bonnie Watson Coleman Master Profile]], [[Lauren Underwood]], [[Mark Kelly]], [[Jamie Raskin]], [[Bonnie Watson Coleman]], [[Tammy Baldwin]], [[Jon Ossoff]]"
 related: "[[Martin Heinrich]] · [[Jack Reed]]"
 checklist-na:
@@ -28,6 +28,10 @@ individual-contributions: 117682
 employee-contributions: 479
 employee-contributions-total: 81637
 employee-donor-count: 48
+source-types:
+  - FEC
+  - USASpending
+corroboration-count: 2
 ---
 
 

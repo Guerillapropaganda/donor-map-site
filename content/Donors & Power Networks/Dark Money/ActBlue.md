@@ -1,7 +1,7 @@
 ---
 title: ActBlue
 type: donor
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -57,6 +57,14 @@ contributions-to-committees: 1263374389
 employee-contributions: 411
 employee-contributions-total: 81649
 employee-donor-count: 81
+source-types:
+  - Courts
+  - FEC
+  - FederalRegister
+  - SEC
+corroboration-count: 4
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: Clearpath Action Fund, Inc.
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00608943
@@ -21,6 +21,10 @@ total-spent: 473339
 cash-on-hand: 3634472
 independent-expenditures: 349515
 individual-contributions: 4000000
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

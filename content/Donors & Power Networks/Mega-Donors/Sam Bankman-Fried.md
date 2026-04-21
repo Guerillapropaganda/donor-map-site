@@ -1,7 +1,7 @@
 ---
 title: Sam Bankman-Fried
 type: donor
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-16
 source-tier: 1
 parent: null
@@ -16,14 +16,14 @@ last-enriched: "2026-04-09"
 regulatory-agencies:
   - Commodity Futures Trading Commission
 source-types:
+  - Courts
   - DOJ
   - FEC
   - FederalRegister
   - SEC
-corroboration-count: 4
+corroboration-count: 5
 known-gaps:
-  - No lobbying disclosure data
-  - No mapped relationships
+  - "No lobbying disclosure data"
 court-cases: 334
 court-jurisdictions:
   - Court of Appeals for the Fifth Circuit

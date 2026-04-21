@@ -1,7 +1,7 @@
 ---
 title: Conservative Outsider Pac Inc
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00748475
@@ -20,6 +20,10 @@ total-raised: 288
 cash-on-hand: 190
 individual-contributions: 200
 related: "[[Katie Britt]]"
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

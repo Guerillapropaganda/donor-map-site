@@ -1,7 +1,7 @@
 ---
 title: McDonalds Corporation
 type: corporation
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -34,11 +34,11 @@ nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-10"
 source-types:
+  - Courts
+  - FEC
   - SEC
 known-gaps:
-  - No FEC contribution data
-  - No lobbying disclosure data
-  - No mapped relationships
+  - "No lobbying disclosure data"
 related: "[[National Restaurant Association]] · [[Starbucks]]"
 court-cases: 293
 court-jurisdictions:
@@ -63,6 +63,7 @@ employee-contributions: 11663
 employee-contributions-total: 3902388
 employee-donor-count: 2554
 politicians-funded: "[[James Lankford]], [[McDonalds Corporation]], [[Henry Cuellar]], [[Josh Gottheimer]], [[RNC - Republican National Committee]], [[Kristen McDonald Rivet]], [[Jahana Hayes]], [[Glenn Grothman]], [[_Ralph Norman Master Profile]], [[Emily's List]], [[Cathy McMorris Rodgers]], [[Pete Aguilar]], [[Virginia Foxx]], [[Lisa Blunt Rochester]], [[Adrian Smith]], [[Marianne Williamson]], [[Bennie Thompson]], [[Mark Takano]], [[JUSTICE DEMOCRATS PAC]], [[Nicole Malliotakis]], [[Progressive Turnout Project]], [[John Cornyn]], [[Richard Neal]], [[Steven Horsford]], [[Steve Daines]], [[_Lauren Underwood Master Profile]], [[John Barrasso]], [[Jim Costa]], [[_Judy Chu Master Profile]], [[_Virginia Foxx Master Profile]], [[Mark Kelly]], [[Ron Wyden]], [[MISSISSIPPI REPUBLICAN PARTY]], [[WinRed]], [[Gary Peters]], [[Andrea Salinas]], [[_Dave Min Master Profile]], [[_Ted Cruz Master Profile]], [[_Rick W. Allen Master Profile]], [[Morgan McGarvey]], [[MAGA Inc]], [[Marie Gluesenkamp Perez]], [[Conservative Leadership PAC]], [[Roger Marshall]], [[Raul Ruiz]], [[David Rouzer]], [[National Restaurant Association]], [[_Brad Knott Master Profile]], [[Suzanne Bonamici]], [[Joyce Beatty]], [[Congressional Progressive Caucus PAC]], [[Let America Vote PAC]], [[_Jon Ossoff Master Profile]], [[Todd Young]], [[Jodey Arrington]], [[Nancy Mace]], [[Darin Lahood]], [[_Chuck Edwards Master Profile]], [[_Josh Hawley Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[Tom Cole]], [[Ryan Mackenzie]], [[_Shontel Brown Master Profile]], [[Catherine Cortez Masto]], [[Bruce Westerman]], [[DSCC - Democratic Senatorial Campaign Committee]], [[John Thune]], [[National Rifle Association]], [[Derek Tran]], [[Steve Womack]], [[_Derek Tran Master Profile]], [[ActBlue]], [[Ron Estes]], [[NRCC - National Republican Congressional Committee]], [[_Joe Neguse Master Profile]], [[Lloyd Smucker]], [[_Tim Scott Master Profile]], [[Kat Cammack]], [[Kyrsten Sinema]], [[Joni Ernst]], [[Raja Krishnamoorthi]], [[Tim Walberg]], [[Patrick McHenry]], [[Tracey Mann]], [[WinSenate]], [[Dusty Johnson]], [[Judy Chu]], [[MoveOn.org Political Action]], [[Mariannette Miller-Meeks]], [[Russell Fry]], [[John Hoeven]], [[Los Angeles County Democratic Central Committee]], [[REPUBLICAN PARTY OF FLORIDA]], [[Paul Tonko]], [[David Scott]], [[Troy Balderson]], [[Bernie Moreno]], [[Really American Pac]], [[Senate Conservatives Fund]], [[Joe Manchin]], [[_Marco Rubio Master Profile]], [[_Jimmy Panetta Master Profile]], [[_Ron Johnson Master Profile]], [[SPECIAL OPERATIONS FOR AMERICA]], [[_Rashida Tlaib Master Profile]], [[_Kevin Kiley Master Profile]], [[Deb Fischer]], [[Kevin McCarthy]], [[Human Rights Campaign Equality Votes]], [[Protect the Vote]], [[Young Kim]], [[Kay Granger]], [[Jerry Moran]], [[Lance Gooden]], [[Mitch McConnell]], [[Thom Tillis]], [[_Pete Aguilar Master Profile]], [[Chuck Edwards]], [[Steve Scalise]], [[Chris van Hollen]], [[Marco Rubio]], [[DCCC - Democratic Congressional Campaign Committee]], [[Michigan Republican Party]], [[Mike Levin]], [[_Glenn Ivey Master Profile]], [[Brett Guthrie]], [[_Victoria Spartz Master Profile]], [[Jason Smith]], [[John James]], [[Save America PAC]], [[_Nancy Pelosi Master Profile]], [[Maria Elvira Salazar]], [[_Donald Norcross Master Profile]], [[Jon Husted]], [[Lisa Murkowski]], [[Working Families Party PAC]], [[Glenn Thompson]], [[Hakeem Jeffries]], [[Aaron Bean]], [[Ted Lieu]], [[Debbie Dingell]], [[Martin Heinrich]], [[Burgess Owens]], [[Nikki Budzinski]], [[Mike Quigley]], [[Madeleine Dean]], [[_Jason Smith Master Profile]], [[August Pfluger]], [[_Mark Takano Master Profile]], [[Lauren Underwood]], [[Jimmy Panetta]], [[_Vern Buchanan Master Profile]], [[_Kamala Harris Master Profile]], [[_Kweisi Mfume Master Profile]], [[Kevin Cramer]], [[_Byron Donalds Master Profile]], [[Eric Sorensen]], [[_Andy Barr Master Profile]], [[_Young Kim Master Profile]], [[Eric Burlison]], [[_John James Master Profile]], [[Grace Meng]], [[_Lisa Blunt Rochester Master Profile]], [[Claudia Tenney]], [[Richard Hudson]], [[_Scott Franklin Master Profile]], [[Kathy Castor]], [[Congressional Leadership Fund]], [[Guy Reschenthaler]], [[Chrissy Houlahan]], [[Tim Scott]], [[Frank Lucas]], [[Ab Pac]], [[John Boozman]], [[Sharice Davids]], [[Josh Riley]], [[Frank Pallone]], [[MAJORITY PAC]], [[_Ted Budd Master Profile]], [[Tammy Duckworth]], [[Josh Harder]], [[Joe Wilson]], [[Scott Franklin]], [[_Jim Jordan Master Profile]], [[_David Rouzer Master Profile]], [[Roger Williams]], [[Elbert Guillory's America]], [[_Ted Lieu Master Profile]], [[Ron Johnson]], [[Dave Min]], [[Nancy Pelosi]], [[Rashida Tlaib]], [[Donald Norcross]], [[Jim Jordan]], [[Kevin Kiley]], [[Byron Donalds]], [[Ralph Norman]], [[Rick W. Allen]], [[Jon Ossoff]], [[Ted Cruz]], [[Josh Hawley]], [[Shontel Brown]], [[Brad Knott]], [[Kweisi Mfume]], [[Andy Barr]], [[Vern Buchanan]], [[Ted Budd]], [[Glenn Ivey]], [[Victoria Spartz]], [[Kamala Harris]], [[Joe Neguse]], [[Justice Democrats PAC]], [[Mississippi Republican Party]], [[Republican Party of Florida]], [[Special Operations for America]], [[AB PAC]], [[Majority PAC]]"
+corroboration-count: 3
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: Kansans for Life Political Action Committee
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00175521
 aliases:
   - KANSANS FOR LIFE POLITICAL ACTION COMMITTEE
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Jerry Moran]], [[Ron Estes]], [[Michelle Fischbach]], [[Derek Schmidt]], [[Donald Trump]], [[Tracey Mann]]"
 related: "[[Jerry Moran]]"
 checklist-na:
@@ -22,6 +22,8 @@ total-raised: 13825
 total-spent: 2463
 cash-on-hand: 19618
 individual-contributions: 13825
+source-types:
+  - FEC
 ---
 
 

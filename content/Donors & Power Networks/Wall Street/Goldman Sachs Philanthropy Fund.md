@@ -1,7 +1,7 @@
 ---
 title: Goldman Sachs Philanthropy Fund
 type: donor
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 sector: Wall Street
 entity-type: Donor-Advised Fund
@@ -10,6 +10,10 @@ nonprofit-status: 501(c)(3)
 source-tier: 1
 internal-notes: Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Commercial DAF sponsor affiliated with Goldman Sachs; channels Wall Street wealth into grants without donor disclosure requirements. Narrative pending Research Claude editorial pass.
 politicians-funded: "[[Schwab Charitable Fund]], [[National Philanthropic Trust]], [[Planned Parenthood Federation of America]], [[Robin Hood Foundation]], [[Blue Meridian Partners]], [[The Barack Obama Foundation]], [[Vanguard Charitable Endowment Program]], [[TPUSA - Turning Point USA]], [[New Venture Fund]], [[Hopewell Fund]], [[Silicon Valley Community Foundation]], [[ACLU Foundation]], [[Fidelity Investments]], [[Stand Together Foundation]], [[Morgan Stanley Global Impact Funding Trust]], [[Urban Institute]], [[US Chamber of Commerce]], [[Alliance Defending Freedom]], [[America First Policy Institute]], [[ClimateWorks Foundation]], [[Heritage Foundation]], [[Bipartisan Policy Center]], [[RAND Corporation]], [[Natural Resources Defense Council]], [[Bank of America Charitable Gift Fund]], [[Renaissance Charitable Foundation]], [[Equal Justice Initiative]], [[Rockefeller Philanthropy Advisors]], [[Kenneth Griffin]], [[Brennan Center for Justice]], [[American Endowment Foundation]], [[The Seminar Network]], [[NEO Philanthropy]], [[Prison Policy Initiative]]"
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: Kentuckians for Strong Leadership
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -10,7 +10,8 @@ source-tier: 1
 aliases:
   - KENTUCKIANS FOR STRONG LEADERSHIP
 known-gaps:
-  - Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis.
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
 politicians-funded: "[[Hillary Clinton]]"
 opposes: "[[Hillary Clinton]]"
 related: "[[Hillary Clinton]]"

@@ -1,7 +1,7 @@
 ---
 title: "How Money Captures Media , The Donor Map Media Pipeline"
 type: story
-content-readiness: ready
+content-readiness: draft
 central-thesis: "Politicians deliver votes. Media personalities deliver consent. The same donor class funds both."
 last-updated: 2026-04-16
 source-tier: 1
@@ -11,6 +11,10 @@ checklist-na:
   - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+source-types:
+  - DOJ
+  - SEC
+corroboration-count: 2
 ---
 #media-pipeline #cross-analysis #class-analysis #donor-map #both-sides-illusion
 

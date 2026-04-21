@@ -1,7 +1,7 @@
 ---
 title: Care Action Now Inc.
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,13 +11,15 @@ fec-committee-id: C90021973
 aliases:
   - CARE ACTION NOW INC.
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Gregory Meeks]], [[Alex Padilla]], [[Lisa Murkowski]], [[Chrissy Houlahan]], [[Jerry Moran]], [[Patty Murray]], [[Todd Young]]"
 related: "[[Gregory Meeks]] · [[Alex Padilla]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+source-types:
+  - FEC
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: The Democratic Action PAC
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00764977
 aliases:
   - THE DEMOCRATIC ACTION PAC
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Nina Turner]], [[Shontel Brown]]"
 related: "[[Shontel Brown]] · [[Nina Turner]]"
 checklist-na:
@@ -22,6 +22,8 @@ total-raised: 596004
 total-spent: 596004
 independent-expenditures: 526000
 individual-contributions: 441004
+source-types:
+  - FEC
 ---
 
 

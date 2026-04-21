@@ -1,7 +1,7 @@
 ---
 title: iHeartMedia
 type: corporation
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -43,6 +43,15 @@ employee-contributions: 1446
 employee-contributions-total: 203645
 employee-donor-count: 204
 politicians-funded: "[[ActBlue]], [[Really American Pac]], [[Roger Wicker]], [[Rick Crawford]], [[Joe Manchin]], [[Veronica Escobar]], [[Tom Cole]], [[Eric Schmitt]], [[Gregory Meeks]], [[John Joyce]], [[Chris Coons]], [[Richard Hudson]], [[John Thune]], [[Rosa DeLauro]], [[Ted Cruz]], [[Martin Heinrich]], [[iHeartMedia]], [[_Ted Cruz Master Profile]], [[Joni Ernst]], [[_Jon Ossoff Master Profile]], [[_Ann Wagner Master Profile]], [[Alex Padilla]], [[Patty Murray]], [[Chrissy Houlahan]], [[Thomas Massie]], [[Kathy Castor]], [[Brett Guthrie]], [[Michelle Fischbach]], [[Progressive Turnout Project]], [[Susan Collins]], [[_Lamonica McIver Master Profile]], [[_Mark Alford Master Profile]], [[Steven Horsford]], [[Victoria Spartz]], [[WinRed]], [[Zoe Lofgren]], [[Human Rights Campaign Equality Votes]], [[MAGA Inc]], [[David Rouzer]], [[Mike Rounds]], [[Mark Kelly]], [[Debbie Dingell]], [[DCCC - Democratic Congressional Campaign Committee]], [[Brendan Boyle]], [[Kat Cammack]], [[Dan Sullivan]], [[Jacky Rosen]], [[Jodey Arrington]], [[Kay Granger]], [[Jeanne Shaheen]], [[Tammy Baldwin]], [[Jason Smith]], [[Josh Gottheimer]], [[_Joe Neguse Master Profile]], [[Steve Daines]], [[Lisa Murkowski]], [[Darren Soto]], [[John Boozman]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Mike Quigley]], [[Nicole Malliotakis]], [[MoveOn.org Political Action]], [[Deb Fischer]], [[_Chrissy Houlahan Master Profile]], [[Mike Flood]], [[Andy Biggs]], [[Adriano Espaillat]], [[Tammy Duckworth]], [[Gary Peters]], [[Troy Balderson]], [[Michael Guest]], [[Frank Pallone]], [[Chris van Hollen]], [[Steve Womack]], [[VIEW PAC - Value in Electing Women]], [[RNC - Republican National Committee]], [[Jamie Raskin]], [[Mariannette Miller-Meeks]], [[Lamonica McIver]], [[Marcy Kaptur]], [[Joyce Beatty]], [[Jack Reed]], [[Brian Babin]], [[Dusty Johnson]], [[Ron Wyden]], [[Scott Fitzgerald]], [[_Kamala Harris Master Profile]], [[Richard Blumenthal]], [[David Kustoff]], [[The Lincoln Project]], [[Paul Tonko]], [[August Pfluger]], [[Jerrold Nadler]], [[_John James Master Profile]], [[_Ben Cline Master Profile]], [[Nancy Mace]], [[Catherine Cortez Masto]], [[_Cory Booker Master Profile]], [[Cliff Bentz]], [[Brian Schatz]], [[_Angie Craig Master Profile]], [[Madeleine Dean]], [[Dan Crenshaw]], [[Rick Larsen]], [[Kevin Cramer]], [[Pete Aguilar]], [[Rick Scott]], [[Hakeem Jeffries]], [[Chip Roy]], [[_Veronica Escobar Master Profile]], [[Shelley Moore Capito]], [[Elise Stefanik]], [[Cathy McMorris Rodgers]], [[Richard Neal]], [[Lindsey Graham]], [[Peter Welch]], [[Greg Stanton]], [[Burgess Owens]], [[Mike Lee]], [[Markwayne Mullin]], [[Ron Estes]], [[Bryan Steil]], [[_Nancy Pelosi Master Profile]], [[Katie Britt]], [[Vicente Gonzalez]], [[Kevin McCarthy]], [[Sherrod Brown]], [[John Hoeven]], [[Russell Fry]], [[Todd Young]], [[NRSC - National Republican Senatorial Committee]], [[Ted Lieu]], [[Dwight Evans]], [[_Thomas Massie Master Profile]], [[Tim Scott]], [[_Lisa Blunt Rochester Master Profile]], [[WinSenate]], [[Cory Booker]], [[Mark Alford]], [[Jon Ossoff]], [[Ann Wagner]], [[John James]], [[Joe Neguse]], [[Ben Cline]], [[Lisa Blunt Rochester]], [[Kamala Harris]], [[Angie Craig]], [[Nancy Pelosi]]"
+source-types:
+  - Congress
+  - Courts
+  - FEC
+  - USASpending
+corroboration-count: 4
+known-gaps:
+  - "No SEC corporate filings"
+  - "No lobbying disclosure data"
 ---
 
 

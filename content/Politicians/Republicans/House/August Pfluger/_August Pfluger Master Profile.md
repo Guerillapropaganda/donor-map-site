@@ -1,7 +1,7 @@
 ---
 title: August Pfluger
 type: politician
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 party: Republican
@@ -18,10 +18,8 @@ phone: 202-225-3605
 source-types:
   - Congress
 known-gaps:
-  - No FEC contribution data
-  - No legislative record
-  - No voting record
-  - No mapped relationships
+  - "No FEC contribution data"
+  - "No voting record data"
 donors: "[[Western Growers Association]] · [[National Cattlemen's Beef Association]] · [[WinRed]] · [[National Rifle Association]] · [[Pfizer Inc.]] · [[Amgen Inc]] · [[Raytheon (RTX)]] · [[MAJORITY PAC]] · [[ConocoPhillips]] · [[National Association of Realtors]] · [[Anthem - Elevance Health]] · [[Occidental Petroleum]] · [[NextEra Energy]] · [[Johnson & Johnson]] · [[Devon Energy]] · [[Tyson Foods]] · [[General Dynamics]] · [[Halliburton]] · [[AT&T - WarnerMedia]] · [[American Hospital Association PAC]] · [[Lockheed Martin]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[Chevron]] · [[L3Harris Technologies]] · [[Freedom's Defense Fund]] · [[Comcast - NBCUniversal]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Marathon Petroleum]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[Walmart - Walton Family]] · [[Leidos]] · [[National Multifamily Housing Council]] · [[CVS Health - Aetna]] · [[Microsoft]] · [[BAE Systems]] · [[Northrop Grumman]] · [[Gilead Sciences]] · [[Drummond Co.]] · [[iHeartMedia]] · [[PG&E - Pacific Gas and Electric]] · [[McDonalds Corporation]] · [[American Chemistry Council, INC]] · [[Honeywell]] · [[Valero Energy]] · [[National Victory Action Fund]] · [[Google - Alphabet]] · [[Republican Jewish Coalition]] · [[General Motors]] · [[Associated General Contractors of America Political Action Committee]] · [[Save America PAC]] · [[AbbVie]] · [[ExxonMobil]] · [[Citadel - Kenneth Griffin]] · [[CBRE Group]] · [[Goldman Sachs]] · [[Charles Schwab]] · [[Anduril Industries]] · [[American Petroleum Institute]] · [[Enterprise Products Partners]] · [[Majority PAC]] · [[AT&T]] · [[Honeywell International]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H0TX11230

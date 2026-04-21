@@ -1,7 +1,7 @@
 ---
 title: Alabama Conservatives Fund
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00786152
@@ -19,6 +19,10 @@ total-spent: 90880
 cash-on-hand: 2875
 contributions-to-committees: 75000
 related: "[[Katie Britt]]"
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

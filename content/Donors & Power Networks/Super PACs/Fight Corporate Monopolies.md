@@ -2,7 +2,7 @@
 title: Fight Corporate Monopolies
 type: donor
 ein: "825097446"
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -12,7 +12,7 @@ fec-committee-id: C00825836
 aliases:
   - FIGHT CORPORATE MONOPOLIES
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Richard Neal]], [[ActBlue]], [[Congressional Progressive Caucus PAC]]"
 related: "[[Richard Neal]]"
 checklist-na:
@@ -26,6 +26,8 @@ contributions-to-committees: 2500
 employee-contributions: 2
 employee-contributions-total: 500
 employee-donor-count: 2
+source-types:
+  - FEC
 ---
 
 

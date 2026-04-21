@@ -1,7 +1,7 @@
 ---
 title: 314 Action Fund
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00633248
 aliases:
   - 314 ACTION FUND
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Nancy Mace]], [[Lee Zeldin]], [[Lauren Underwood]], [[Chrissy Houlahan]], [[Kim Schrier]], [[Martin Heinrich]], [[Shri Thanedar]], [[George Whitesides]], [[Mark Kelly]], [[Jacky Rosen]], [[Eric Sorensen]], [[Nikema Williams]], [[Kelly Morrison]], [[Young Kim]], [[Paul Tonko]], [[Daniel Biss]], [[Sean Casten]], [[Mariannette Miller-Meeks]], [[Maxine Dexter]], [[Alex Padilla]], [[Tammy Baldwin]], [[Cori Bush]], [[Emily's List]], [[John Hickenlooper]], [[Raul Ruiz]], [[David Schweikert]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -27,6 +27,8 @@ related: "[[Lee Zeldin]] · [[Nancy Mace]]"
 employee-contributions: 1
 employee-contributions-total: 5000
 employee-donor-count: 1
+source-types:
+  - FEC
 ---
 
 

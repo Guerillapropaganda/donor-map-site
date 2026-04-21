@@ -1,7 +1,7 @@
 ---
 title: Honoring American Law Enforcement Pac
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00710178
@@ -26,6 +26,10 @@ total-spent: 465729
 cash-on-hand: 22383
 independent-expenditures: 12000
 individual-contributions: 478424
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

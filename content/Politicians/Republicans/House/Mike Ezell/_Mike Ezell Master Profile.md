@@ -1,7 +1,7 @@
 ---
 title: "Mike Ezell"
 type: politician
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-12
 source-tier: 1
 party: "Republican"
@@ -19,8 +19,7 @@ source-types:
   - Congress
 known-gaps:
   - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
+  - "No voting record data"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 14

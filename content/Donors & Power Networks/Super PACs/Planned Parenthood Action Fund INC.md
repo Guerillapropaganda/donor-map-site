@@ -2,7 +2,7 @@
 title: Planned Parenthood Action Fund INC
 type: donor
 ein: "133539048"
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -12,7 +12,7 @@ fec-committee-id: C00314617
 aliases:
   - PLANNED PARENTHOOD ACTION FUND INC
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[John Boozman]], [[Jerry Moran]], [[Roger Wicker]], [[Jon Ossoff]], [[ActBlue]], [[Josh Riley]], [[Sydney Kamlager-Dove]], [[Nancy Pelosi]], [[Frank Pallone]], [[Hakeem Jeffries]], [[Kamala Harris]], [[Jahana Hayes]], [[Andrea Salinas]], [[Marilyn Strickland]], [[Kim Schrier]], [[Pete Aguilar]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Emily Randall]], [[Ron Wyden]], [[Dina Titus]], [[Veronica Escobar]], [[Tammy Baldwin]], [[Nikema Williams]], [[Greg Stanton]], [[Steven Horsford]], [[Vicente Gonzalez]], [[Catherine Cortez Masto]], [[Greg Landsman]], [[Adam Gray]], [[Elissa Slotkin]], [[Nikki Budzinski]], [[Robert Garcia]], [[Teresa Leger Fernandez]], [[Raphael Warnock]], [[Sherrod Brown]], [[Morgan McGarvey]], [[Derek Tran]], [[Mark Kelly]], [[Planned Parenthood Votes]], [[Lisa Blunt Rochester]], [[Pramila Jayapal]], [[Susie Lee]], [[_Jon Ossoff Master Profile]], [[Ayanna Pressley]], [[Judy Chu]], [[Summer Lee]], [[Sara Jacobs]], [[Julia Brownley]], [[Seth Magaziner]], [[Diana Degette]], [[Kristen McDonald Rivet]], [[Marie Gluesenkamp Perez]], [[Eric Sorensen]], [[Dave Min]], [[Jacky Rosen]], [[Gwen Moore]], [[Patty Murray]], [[Joseph Morelle]], [[Laura Gillen]], [[Shomari Figures]], [[Marcy Kaptur]], [[Ruben Gallego]], [[Barbara Lee]], [[George Whitesides]], [[Josh Harder]], [[Roy Cooper]], [[Ilhan Omar]], [[Chrissy Houlahan]], [[Patrick Ryan]], [[Josh Gottheimer]], [[Mike Levin]], [[Sean Casten]], [[Cori Bush]], [[Maxwell Frost]], [[Brittany Pettersen]], [[John Fetterman]], [[Lauren Underwood]], [[Sharice Davids]]"
 related: "[[Roger Wicker]] · [[John Boozman]] · [[Jerry Moran]] · [[Jon Ossoff]]"
 checklist-na:
@@ -27,6 +27,8 @@ contributions-to-committees: 157500
 employee-contributions: 61
 employee-contributions-total: 125843
 employee-donor-count: 18
+source-types:
+  - FEC
 ---
 
 

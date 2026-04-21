@@ -1,7 +1,7 @@
 ---
 title: The Tea Party Leadership Fund
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00520825
 aliases:
   - THE TEA PARTY LEADERSHIP FUND
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[John Boehner]]"
 related: "[[John Boehner]]"
 checklist-na:
@@ -22,6 +22,8 @@ total-raised: 1023769
 total-spent: 1095000
 individual-contributions: 1016212
 contributions-to-committees: 93316
+source-types:
+  - FEC
 ---
 
 

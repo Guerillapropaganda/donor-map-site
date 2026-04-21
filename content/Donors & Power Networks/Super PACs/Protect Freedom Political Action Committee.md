@@ -1,7 +1,7 @@
 ---
 title: Protect Freedom Political Action Committee
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00657866
 aliases:
   - PROTECT FREEDOM POLITICAL ACTION COMMITTEE
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Matt Gaetz]], [[Kay Granger]], [[Mike Lee]], [[Chip Roy]], [[Mike Carey]], [[Byron Donalds]], [[Mark Kelly]], [[Thomas Massie]], [[Kamala Harris]], [[Scott Perry]], [[Derrick van Orden]], [[Victoria Spartz]], [[Julie Fedorchak]], [[Ron Johnson]]"
 related: "[[Mike Lee]] · [[Kay Granger]] · [[Matt Gaetz]]"
 checklist-na:
@@ -24,6 +24,8 @@ cash-on-hand: 4281631
 independent-expenditures: 37540
 individual-contributions: 7685889
 contributions-to-committees: 1010000
+source-types:
+  - FEC
 ---
 
 

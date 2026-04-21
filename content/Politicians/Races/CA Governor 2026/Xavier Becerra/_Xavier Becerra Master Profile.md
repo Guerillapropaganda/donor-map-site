@@ -1,7 +1,7 @@
 ---
 title: "Xavier Becerra Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Xavier Becerra is the institutional Democratic Party candidate — his entire career has been built within Democratic power structures (Congress for 24 years, AG appointed by a Democratic governor, Cabinet secretary under a Democratic president). Hi..."
 last-updated: 2026-04-09
 source-tier: 1
@@ -13,11 +13,10 @@ state-abbr: "CA"
 total-received: "$50,779"
 fec-candidate-id: "H2CA30143"
 source-types:
-  - FEC
+  - Congress
 known-gaps:
-  - "No legislative record from Congress.gov"
+  - "No FEC contribution data"
   - "No voting record data"
-  - "No mapped relationships"
 related: "[[_Kamala Harris Master Profile]] · [[_Gavin Newsom Master Profile]] · [[California Nurses Association]] · [[SEIU - Service Employees International Union]]"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Gregory Meeks
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: Gregory Meeks is the donor class's man on foreign affairs. His committee position gives him veto authority over arms sales , and his donors know it. AIPAC and pro-Israel groups have given him $523,000+ career; Wall Street firms fund him through Fi...
 last-updated: 2026-04-09T00:00:00.000Z
 source-tier: 1
@@ -31,11 +31,10 @@ website: https://meeks.house.gov
 phone: 202-225-3461
 source-types:
   - Congress
-  - FEC
   - GovTrack
-corroboration-count: 3
+corroboration-count: 2
 known-gaps:
-  - No mapped relationships
+  - "No FEC contribution data"
 donors: "[[NORPAC]], [[FAIRSHAKE]], [[Goldman Sachs]], [[Planned Parenthood Votes]], [[CARE ACTION NOW INC.]], [[SIERRA CLUB POLITICAL COMMITTEE]], [[DIRECT SELLING EMPOWERS AMERICANS]], [[Sierra Club Political Committee]], [[Direct Selling Empowers Americans]], [[Care Action Now Inc.]], [[DCCC - Democratic Congressional Campaign Committee]], [[Google - Alphabet]], [[IBEW - International Brotherhood of Electrical Workers]], [[Gilead Sciences]], [[American Hospital Association PAC]], [[iHeartMedia]], [[AT&T - WarnerMedia]], [[J Street]], [[Honeywell]], [[Comcast - NBCUniversal]], [[Anthem - Elevance Health]], [[AIPAC - American Israel Public Affairs Committee]], [[Raytheon (RTX)]], [[PG&E - Pacific Gas and Electric]], [[AbbVie]], [[Amgen Inc]], [[Everytown for Gun Safety]], [[American Federation of State County & Municipal Employees P E O P L E]], [[NEA Fund for Children and Public Education]], [[Pfizer Inc.]], [[Teamsters - International Brotherhood of Teamsters]], [[General Motors]], [[Johnson & Johnson]], [[SEIU COPE]], [[Ted Lieu]], [[L3Harris Technologies]], [[Microsoft]], [[Lockheed Martin]], [[Unite Here Tip Campaign Committee]], [[Sierra Club Independent Action]], [[Citigroup]], [[Walmart - Walton Family]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[DMFI - Democratic Majority for Israel]], [[General Dynamics]], [[Northrop Grumman]], [[National Association of Realtors]], [[Fairshake PAC - Crypto Super PAC]], [[Morgan Stanley]], [[Medicare for All - The Policy That Broke the Party]], [[Bank of America]], [[National Multifamily Housing Council]], [[Nucor Corporation]], [[BAE Systems]], [[Leidos]], [[League of Conservation Voters]], [[Fairshake PAC]], [[Honeywell International]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[AT&T]]"
 related: "[[_Maxine Waters Master Profile|Maxine Waters]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[Goldman Sachs]]"
 bills-enacted: 0

@@ -1,7 +1,7 @@
 ---
 title: "Mark Mellman"
 type: donor
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-10
 source-tier: null
 parent: null
@@ -11,11 +11,10 @@ issues:
   - Israel & Foreign Policy
   - Democratic Primary Intervention
 related: "[[DMFI - Democratic Majority for Israel]] · [[AIPAC - American Israel Public Affairs Committee]] · [[United Democracy Project - UDP]]"
-source-types: []
+source-types:
+  - FEC
 known-gaps:
-  - Stub created 2026-04-09 to preserve vault connections
-  - Full build required: Mellman Group polling firm, American Association of Political Consultants tenure, DMFI founding documentation
-  - No FEC contribution records compiled
+  - "No lobbying disclosure data"
 last-enriched: "2026-04-10"
 total-political-spend: "$11,550"
 ein: 236224727

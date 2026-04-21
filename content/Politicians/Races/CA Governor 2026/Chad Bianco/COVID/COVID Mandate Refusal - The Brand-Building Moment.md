@@ -1,7 +1,7 @@
 ---
 title: "COVID Mandate Refusal - The Brand-Building Moment"
 type: sub-note
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: null
@@ -14,6 +14,8 @@ related: "[[_Chad Bianco Master Profile]] · [[Oath Keepers Membership and the C
 checklist-na:
   - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+source-types:
+  - Congress
 ---
 #bianco #covid #mandate-refusal #constitutional-sheriff #fox-news #class-analysis #newsom #tyranny-framing #vaccine #brand-building
 

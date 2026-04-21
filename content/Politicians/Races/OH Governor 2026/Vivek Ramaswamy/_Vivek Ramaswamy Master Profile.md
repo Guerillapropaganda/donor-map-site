@@ -1,7 +1,7 @@
 ---
 title: Vivek Ramaswamy
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: Vivek Ramaswamy's political brand , anti-regulation, anti-DEI, anti-'woke capitalism' , is funded by and serves the same billionaire class it claims to challenge. His $2.4 billion fortune was built through Roivant Sciences, a pharmaceutical compan...
 last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
@@ -21,12 +21,12 @@ top-donors: "[[Jeffrey Yass]], [[Peter Thiel]], [[Ross Stevens]], [[PRIORITIES U
 total-received: $66,197,196
 fec-candidate-id: P40011082
 source-types:
-  - FEC
+  - Congress
   - SEC
 corroboration-count: 2
 known-gaps:
-  - No state-level campaign finance data (OH governor race)
-  - Congress.gov auto-block has wrong bioguide ID (pipeline bug, needs Code Claude fix)
+  - "No FEC contribution data"
+  - "No voting record data"
 related: "[[_Donald Trump Master Profile]] · [[Elon Musk]] · [[Jeffrey Yass]] · [[Peter Thiel]] · [[The Roivant Fortune and the FDA Deregulation Conflict]] · [[Ross Stevens]] · [[Jeff Yass Follows TikTok Money Across Every Candidate]] · [[Amy Acton]] · [[The Labor Coalition and What Unions Expect]] · [[The Healthcare Platform and the Insurance Industry Question]]"
 needs-reenrichment: true
 reenrich-reason: re-run fec pipeline

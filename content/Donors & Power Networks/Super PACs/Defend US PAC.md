@@ -1,7 +1,7 @@
 ---
 title: Defend US PAC
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -10,7 +10,8 @@ source-tier: 1
 aliases:
   - DEFEND US PAC
 known-gaps:
-  - Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis.
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
 related: "[[Markwayne Mullin]]"
 politicians-funded: "[[Markwayne Mullin]], [[Mike Carey]], [[Catherine Cortez Masto]]"
 checklist-na:

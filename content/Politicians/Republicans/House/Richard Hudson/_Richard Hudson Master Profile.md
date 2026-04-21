@@ -1,7 +1,7 @@
 ---
 title: Richard Hudson
 type: politician
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 party: Republican
@@ -18,10 +18,8 @@ phone: 202-225-3715
 source-types:
   - Congress
 known-gaps:
-  - No FEC contribution data
-  - No legislative record
-  - No voting record
-  - No mapped relationships
+  - "No FEC contribution data"
+  - "No voting record data"
 donors: "[[National Cattlemen's Beef Association]], [[August Pfluger]], [[National Rifle Association]], [[Citigroup]], [[AIPAC - American Israel Public Affairs Committee]], [[BAE Systems]], [[Nucor Corporation]], [[Gilead Sciences]], [[iHeartMedia]], [[Byron Donalds]], [[AbbVie]], [[Associated General Contractors of America Political Action Committee]], [[Pfizer Inc.]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[General Motors]], [[American Chemistry Council, INC]], [[Marathon Petroleum]], [[General Dynamics]], [[Ben Cline]], [[National Multifamily Housing Council]], [[L3Harris Technologies]], [[Honeywell]], [[American College of Radiology Association PAC]], [[National Victory Action Fund]], [[Humana]], [[Valero Energy]], [[Google - Alphabet]], [[Johnson & Johnson]], [[Performance Racing Inc.]], [[WinRed]], [[Raytheon (RTX)]], [[Darrell Issa]], [[National Association of Manufacturers]], [[Save America PAC]], [[Walmart - Walton Family]], [[Chevron]], [[Amgen Inc]], [[American Hospital Association PAC]], [[PG&E - Pacific Gas and Electric]], [[Anthem - Elevance Health]], [[ConocoPhillips]], [[AT&T - WarnerMedia]], [[Adrian Smith]], [[Southern States Police Benevolent Assoc PAC Fund]], [[National Association of Realtors]], [[CVS Health - Aetna]], [[Lockheed Martin]], [[Sinclair Broadcast Group]], [[Comcast - NBCUniversal]], [[National Restaurant Association]], [[Duke Energy]], [[Northrop Grumman]], [[MAJORITY PAC]], [[Occidental Petroleum]], [[Care Action]], [[Jake Ellzey]], [[Women Speak Out Pac]], [[Planned Parenthood Votes]], [[Mario Diaz-Balart]], [[Tyson Foods]], [[Victoria Spartz]], [[NextEra Energy]], [[McDonalds Corporation]], [[Bank of America]], [[Microsoft]], [[AT&T]], [[Honeywell International]], [[Majority PAC]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2NC08185

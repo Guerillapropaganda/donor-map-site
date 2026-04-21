@@ -1,7 +1,7 @@
 ---
 title: OpenAI
 type: corporation
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -60,6 +60,14 @@ employee-contributions: 452
 employee-contributions-total: 25990449
 employee-donor-count: 182
 politicians-funded: "[[ActBlue]], [[Hmp]], [[MAGA Inc]], [[_Josh Harder Master Profile]], [[_Jon Ossoff Master Profile]], [[_Martin Heinrich Master Profile]], [[_Scott Wiener Master Profile]], [[Mark Kelly]], [[_Derek Tran Master Profile]], [[_Tammy Baldwin Master Profile]], [[WinRed]], [[_Lauren Underwood Master Profile]], [[_Susie Lee Master Profile]], [[_Angie Craig Master Profile]], [[Catherine Cortez Masto]], [[AI Deregulation Super PAC - Leading the Future]], [[_Josh Riley Master Profile]], [[_Cory Booker Master Profile]], [[WinSenate]], [[_Lisa Blunt Rochester Master Profile]], [[Angie Craig]], [[Susie Lee]], [[Lisa Blunt Rochester]], [[Martin Heinrich]], [[Josh Harder]], [[Jon Ossoff]], [[Lauren Underwood]], [[Cory Booker]], [[Tammy Baldwin]], [[Josh Riley]], [[Scott Wiener]], [[Derek Tran]], [[HMP]]"
+source-types:
+  - FEC
+  - FederalRegister
+  - SEC
+  - USASpending
+corroboration-count: 4
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

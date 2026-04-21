@@ -1,7 +1,7 @@
 ---
 title: RNC - Republican National Committee
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -10,7 +10,8 @@ source-tier: 1
 aliases:
   - REPUBLICAN NATIONAL COMMITTEE
 known-gaps:
-  - Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 ofac-sdn-match: "true"
 last-enriched: "2026-04-14"
 ofac-programs:
@@ -30,6 +31,8 @@ employee-contributions: 580
 employee-contributions-total: 419323
 employee-donor-count: 114
 politicians-funded: "[[WinRed]], [[_Beth van Duyne Master Profile]], [[RNC - Republican National Committee]], [[Michigan Republican Party]], [[Donald Trump]], [[Trump Victory]], [[_Ron Johnson Master Profile]], [[Michael Lawler]], [[Mike Carey]], [[MISSISSIPPI REPUBLICAN PARTY]], [[MAGA Inc]], [[Darin Lahood]], [[_John James Master Profile]], [[_Tony Gonzales Master Profile]], [[_Ann Wagner Master Profile]], [[Raphael Warnock]], [[_Doug Burgum Master Profile]], [[_Marco Rubio Master Profile]], [[Elise Stefanik]], [[Jon Ossoff]], [[Marco Rubio]], [[Beth van Duyne]], [[Tony Gonzales]], [[Doug Burgum]], [[Ann Wagner]], [[John James]], [[Ron Johnson]], [[Mississippi Republican Party]], [[George W. Bush]]"
+source-types:
+  - FEC
 ---
 
 

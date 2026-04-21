@@ -1,7 +1,7 @@
 ---
 title: "Trump Donor Network - The Full Map"
 type: sub-note
-content-readiness: draft
+content-readiness: raw
 last-updated: 2026-04-08
 source-tier: null
 parent: [[_Alexander Acosta Master Profile]]

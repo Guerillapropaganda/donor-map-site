@@ -2,7 +2,7 @@
 title: American Conservative Union
 type: donor
 ein: "520810813"
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -12,7 +12,7 @@ fec-committee-id: C00505792
 aliases:
   - AMERICAN CONSERVATIVE UNION
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Bruce Westerman]], [[MAGA Inc]], [[John Fetterman]], [[Mike Lee]], [[Trump Victory]], [[Lauren Boebert]], [[Anna Paulina Luna]], [[Ron Johnson]], [[Mark Kelly]], [[Jimmy Patronis]], [[Scott Perry]], [[Michael Whatley]], [[Brittany Pettersen]], [[Randy Fine]], [[Ryan Zinke]], [[Brian Jack]], [[WinRed]], [[David Schweikert]], [[Catherine Cortez Masto]], [[FreedomWorks for America]], [[Bernie Moreno]], [[Cory Mills]]"
 related: "[[Bruce Westerman]]"
 checklist-na:
@@ -27,6 +27,8 @@ contributions-to-committees: 25500
 employee-contributions: 8
 employee-contributions-total: 3000
 employee-donor-count: 5
+source-types:
+  - FEC
 ---
 
 

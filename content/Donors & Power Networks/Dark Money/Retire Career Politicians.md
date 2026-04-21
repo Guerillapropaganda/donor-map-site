@@ -1,7 +1,7 @@
 ---
 title: Retire Career Politicians
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-type: Super PAC (Independent Expenditure-Only)
@@ -20,6 +20,10 @@ urls-first-triaged: "2026-04-15"
 total-raised: 189084
 total-spent: 30591
 cash-on-hand: 279081
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

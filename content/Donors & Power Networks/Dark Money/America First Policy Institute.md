@@ -1,7 +1,7 @@
 ---
 title: America First Policy Institute
 type: donor
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -19,8 +19,7 @@ net-assets: $9.9M
 tax-year: "2023"
 related: "[[Federalist Society]] · [[Linda McMahon Master Profile]] · [[Heritage Foundation]] · [[Council for National Policy]] · [[Leonard Leo]] · [[DeVos Family]] · [[American Federation for Children]] · [[Walton Family Foundation]] · [[National Education Association]] · [[Insurance Industry]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[American Iron and Steel Institute]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Donors Capital Fund]] · [[Demand Justice]] · [[Conservative Partnership Institute]] · [[Concerned Veterans for America]] · [[Democratic Small Dollar Networks]] · [[Ocean Conservancy]] · [[Ohio Democratic Party]] · [[New Venture Fund]] · [[National Progressive Donor Networks]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Entertainment and Hollywood Donors]] · [[Democratic Party Infrastructure]] · [[Democratic Donor Network]] · [[Democracy Alliance]] · [[CREW - Citizens for Responsibility and Ethics in Washington]] · [[Business Roundtable]] · [[Bradley Impact Fund]] · [[Bradley Foundation]] · [[Arabella Advisors]] · [[Americans for Tax Reform - Grover Norquist]] · [[American Enterprise Institute]] · [[American Action Network]]"
 known-gaps:
-  - No FEC contribution data
-  - No lobbying disclosure data
+  - "No lobbying disclosure data"
 nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-09"
 total-revenue: 54851367
@@ -33,6 +32,8 @@ urls-first-triaged: "2026-04-15"
 employee-contributions: 51
 employee-contributions-total: 10355784
 employee-donor-count: 20
+source-types:
+  - FEC
 ---
 
 

@@ -30,6 +30,7 @@ import DiscoveryPanel from "./DiscoveryPanel"
 import ContradictionCard from "./ContradictionCard"
 import EvidencePanel from "./EvidencePanel"
 import SummaryInfobox from "./SummaryInfobox"
+import DataCompleteBanner from "./DataCompleteBanner"
 import HeroContradiction from "./HeroContradiction"
 import IssueExplorer from "./IssueExplorer"
 import PowerRankings from "./PowerRankings"
@@ -60,6 +61,7 @@ export {
   ContradictionCard,
   EvidencePanel,
   SummaryInfobox,
+  DataCompleteBanner,
   HeroContradiction,
   IssueExplorer,
   Content,
