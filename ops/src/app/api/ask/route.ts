@@ -3026,12 +3026,27 @@ async function handleQuestion(question: string): Promise<AskResult> {
     // "0 donor edges without dollar amounts" — that suggests a broken
     // query. For DAFs and 501(c)(4) dark-money vehicles, explicitly
     // explain that donor disclosure is legally shielded.
-    const entType = (findEntity(name.title) as any)?.entity_type as string | undefined
-    const entSector = (findEntity(name.title) as any)?.signals?.sector as string | undefined
-    const entCapital = (findEntity(name.title) as any)?.capital_type as string | undefined
-    const isDAF = entSector === "DAF" || entCapital === "dark-money-vehicle" ||
-      /donor[\s-]?advised|charitable gift fund/i.test(name.title + " " + (entSector || ""))
-    const isDarkMoney = entSector === "Dark Money" || entCapital === "dark-money-vehicle"
+    //
+    // Detection uses entity-store signals when available, but falls
+    // back to name patterns so profiles that haven't been ingested
+    // into entities.jsonl still get the right framing (Fidelity
+    // Charitable, Schwab Charitable, etc. don't appear in the entity
+    // store but are unambiguously DAFs by name).
+    const ent = findEntity(name.title) as any
+    const entType = ent?.entity_type as string | undefined
+    const entSector = ent?.signals?.sector as string | undefined
+    const entCapital = ent?.capital_type as string | undefined
+    const nameLower = name.title.toLowerCase()
+    const DAF_NAME_PATTERNS = [
+      /\bcharitable\s+(fund|gift|trust)\b/,          // Fidelity Charitable Gift Fund, Schwab Charitable Fund
+      /\b(fidelity|schwab|vanguard)\s+charitable\b/, // shorter aliases for the big three
+      /\bdonor[\s-]?advised\b/,
+      /\bnational philanthropic trust\b/,
+      /\bcommunity foundation\b/,
+    ]
+    const isDAF = entSector === "DAF" || entCapital === "daf" ||
+      DAF_NAME_PATTERNS.some((rx) => rx.test(nameLower))
+    const isDarkMoney = !isDAF && (entSector === "Dark Money" || entCapital === "dark-money-vehicle")
 
     let emptyNote: string
     if (isDAF) {
