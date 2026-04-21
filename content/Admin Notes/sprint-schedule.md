@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: normal
 status: active
-last-updated: '2026-04-21-orphan-audit-adr-0016-labeled-breakdown-plus-pattern-H-v2-dedup'
+last-updated: '2026-04-21-evening-adr-0016-finish-step-5-stubs-donor-dedup-edge-count-refresh'
 sprint-id: "2026-04-sprint"
 sprint-start: '2026-04-10'
 sprint-end: '2026-04-30'
@@ -2353,9 +2353,45 @@ phase_3_tasks:
       notes: "Eight Ask audit items fixed across two commits: edge_between classifier accepts 'money between X and Y' / 'connections between X and Y' / 'is there money from X to Y'. recipients_from uses isPolitical, splits political from operating-expense (Koch $681K → $7.8M political + $100M vendor context). handleSummary answer enriched: '$X inflows from N edges · $Y outflows across M · N boards' instead of terse 'donor in Dark Money'. Dual-layer politician total: donors_to for a politician with thin itemized edges surfaces fec_receipts_lifetime from candidate-summary as footnote so real scale is visible. resolveTitle + findEntity both apply preferTitleCasedSibling / normalizeToTitleCase so OBAMA, BARACK resolves to Barack Obama throughout. Bare-entity queries ('AOC', 'MFT', 'Kamala Harris') escalate from generic fallback to summary intent when the entity has edges. finalize() prepends 'Showing results for X (or: Y, Z).' disambiguation when resolved title isn't a substring of the question AND isn't covered by query tokens — closes the 'John Smith → silent Jason Smith swap' class. Commits 06c08b70e, faca12293."
 
     - id: cc_p3_43
-      task: "IN PROGRESS — AOC small-dollar re-ingest at $1K floor (background)"
-      status: in-progress
-      notes: "Session ended while the re-ingest was running in a background bash (task b54ccg4ey). Previous run at $10K floor captured 188K aggregated rows but systematically missed AOC's small-dollar base. Re-running at $1K threshold with 64GB Node heap (128GB RAM on machine, 109GB free). Expected: 2-4M aggregated rows, ~15-45 min. Resume-friendly per ADR-0014. When complete, re-run scripts/aggregate-indiv-to-edges.cjs --write to bridge, then restart ops and verify AOC coverage jumps from $54K."
+      task: "AOC small-dollar re-ingest at $1K floor"
+      status: done
+      completed_date: 2026-04-21
+      notes: "Re-ingest completed at $1K floor (3.7M edges). Labeled-breakdown now shows $77M individuals from FEC summary + $3.2M major donors ≥$1K. As good as it gets without going below $1K floor (would balloon to 30M+ rows). Left at $1K. Picked up on 2026-04-21 morning session; confirmed stable through evening session."
+
+    - id: cc_p3_44
+      task: "ADR-0016 finish — compare + leaderboard labeled breakdowns"
+      status: done
+      completed_date: 2026-04-21
+      added_adhoc: true
+      notes: "Wires computeBreakdown into handleCompare (fetchSide retains raw edges so no second engine roundtrip; new breakdownForSide dispatches inflow/outflow by entityStructuralRole; AskResult gains breakdown_a + breakdown_b) and handleLeaderboard (per-row breakdown field + top-entry breakdown at AskResult level). Renderers updated in ops/src/app/ask/page.tsx (compareBreakdownWrap / compareRowShield styles) and quartz/components/scripts/askPanel.inline.ts (ask-compare-breakdown + ask-compare-row--shield) with matching askPanel.scss styles. Legal-shield rows get yellow left-border on both ops (dark) and Quartz (light) themes. Closes ADR-0016: no single column in any Ask panel can be miscited as 'the' number anymore. Commit d8e8825ba."
+
+    - id: cc_p3_45
+      task: "Step 5 — 7 missing org/PAC stub profiles + AFSCME International alias"
+      status: done
+      completed_date: 2026-04-21
+      added_adhoc: true
+      notes: "Seven new stubs (content-readiness: raw, Research Claude editorial pass pending): House Majority Forward (Dark Money 501(c)(4), $76.5M), Stand Together Chamber of Commerce (Dark Money 501(c)(6), $44.8M), Empower Parents PAC (Super PACs, $165.2M), Republican Governors Association (Super PACs 527, $67.8M), Securing American Greatness (Super PACs, $52.6M), Working for Working Americans Federal (Super PACs UBCJA, $41.5M), Joint Victory Campaign 2004 (Super PACs historical 527, $44.5M). Eighth orphan 'AFSCME International' routed via 3 new aliases on existing AFSCME profile. register-unregistered-profile-stubs.cjs auto-registered 5; 2 Dark Money stubs tripped substring-dup guard (House Majority PAC / Stand Together) and were manually registered as ent_02214 + ent_02215. dedupe-entities.cjs --apply routed 503 orphan edge names onto new canonicals: 1,768 edges rewritten, 1,585 merged via id collision. Commit 453d32ae4."
+
+    - id: cc_p3_46
+      task: "Pre-push hook: bake NODE_OPTIONS=--max-old-space-size=8192"
+      status: done
+      completed_date: 2026-04-21
+      added_adhoc: true
+      notes: ".husky/pre-push was crashing tsc with 'Ineffective mark-compacts near heap limit — JavaScript heap out of memory' because quartz/components/ProfileWidget.tsx + DiscoveryPanel.tsx statically import data/relationships-per-profile.json (128MB CI-rebuilt artifact). Default ~2GB Node heap blows up. Patch: export NODE_OPTIONS=\"${NODE_OPTIONS:---max-old-space-size=8192}\" inside the hook (honors caller-set values). Pushes now work without manual NODE_OPTIONS export. Commit d777f02c3."
+
+    - id: cc_p3_47
+      task: "Donor name-variant dedup — fuzzy first names / middle-strip / couple-superset"
+      status: done
+      completed_date: 2026-04-21
+      added_adhoc: true
+      notes: "New scripts/dedupe-donor-name-variants.cjs — Pattern H extension for non-politicians (companion to dedupe-nickname-variants.cjs which covers politicians only). Handles: (1) First-name nicknames via curated NICKNAMES map (Samuel/Sam, Lawrence/Larry, William/Bill, etc.), (2) Middle-name stripping (Paul Elliott Singer → Paul Singer, Robert Leroy Mercer → Robert Mercer), (3) Couple-superset routing (Richard Uihlein / Elizabeth Uihlein → Richard and Elizabeth Uihlein). Safety: person-folder allowlist (Mega-Donors, Tech & Crypto, Wall Street, Real Estate, Media, Energy, Gig Economy, Foreign, Israel Lobby) + ORG_TOKENS filter + punctuation reject. First pass had false positives (Change America Now → Change Now PAC); tightened filter before apply. Final: 49 clean routings, 137 edges rewritten across fec-indiv-by-committee.jsonl + irs-pofd-8872.jsonl. Commit 4230f5f33."
+
+    - id: cc_p3_48
+      task: "Edge-count signal refresh — 2,030 of 2,111 entities"
+      status: done
+      completed_date: 2026-04-21
+      added_adhoc: true
+      notes: "New scripts/refresh-edge-count-signal.cjs streams every edge file, counts from/to occurrences per entity, rewrites signals.edge_count + adds signals.edge_count_refreshed_at timestamp. Baseline: 96% of entities drifted (2,030 of 2,111). 1,177 had stale 0 stamp despite real edges. Applied: BlackRock 0→126, Charles Schwab 0→236, Fidelity Investments 1→555, Citigroup 4→449, Leonard Leo 11→185, Jeffrey Epstein Network 3→31, Bank of America 2→560, etc. Backup at data/entities.jsonl.pre-edge-count-refresh.bak. Commit 4230f5f33."
 
   david:
     - id: dc_p3_01
@@ -2527,7 +2563,7 @@ parser_guidance:
         Removed inline body dataview fields on Stratton and Miller. Fixed Mark Green central-thesis typo.
         Flag: Mark Green FEC/GovTrack auto-blocks show wrong politician data (govtrack-id 400159, 2010-2014 cycles). Pipeline correction needed.
 
-**Schedule last updated: 2026-04-21 (Code Claude: ORPHAN-ENTITIES AUDIT + ADR-0016 LABELED-BREAKDOWN. 10 commits. ADR-0016 replaces single ambiguous headline totals with labeled rows on donors_to/summary (politician/dark-money/DAF/super-PAC/other templates); wired into ops/ask/page.tsx + quartz askPanel.inline.ts. Pattern H v2 extended dedup (case/honorific/middle-init/suffix/orphan-rename): 2,005 orphan edge names collapsed, 50,495 edges rewritten. audit-orphan-entities.cjs: 1.9M orphan names classified (24,971 promote candidates, 72 payroll/platform, 286 federal, 904k persons). Fixed titleCaseName FEC 'ORG, .' quirk (129 edges). Nickname-variant dedup with bioguide-safety (SANDERS,BERNARD→Bernie Sanders; Menendez father/son correctly skipped). 4 new mega-donor profiles (James Simons/Donald Sussman/George Marcus/Robert Bigelow). Political Ad Vendors category page covers ~35 firms / $5.5B. Bernie panel: 550M FEC + 3.8M major donors + 35K attack as labeled rows. Final push 016cd986e.)**
+**Schedule last updated: 2026-04-21 evening (Code Claude: ADR-0016 FINISH + STEP 5 STUBS + MAINTENANCE SCRIPTS. 4 commits. ADR-0016 rollout finished: computeBreakdown wired into compare + leaderboard (ops/src/app/api/ask/route.ts + ops/src/app/ask/page.tsx + quartz askPanel.inline.ts + askPanel.scss) — side-by-side labeled breakdowns on compare, per-row + headline breakdown on leaderboards. Step 5 — 7 new org/PAC stubs (HMF, STCoC, EPP, RGA, SAG, WfWA-F, JVC2004 — 5 via registrar, 2 manually bypassing substring-dup guard) + AFSCME International alias; dedup routed 1,768 edges onto new canonicals. .husky/pre-push baked NODE_OPTIONS=--max-old-space-size=8192 so tsc no longer OOMs on the 128MB relationships-per-profile.json import. scripts/dedupe-donor-name-variants.cjs (49 routings, 137 edges — Uihlein couple / Samuel↔Sam / Lawrence↔Larry / Paul Elliott→Paul Singer). scripts/refresh-edge-count-signal.cjs (2,030 of 2,111 entities refreshed — BlackRock 0→126, Fidelity 1→555, Charles Schwab 0→236). Stale AUTO_MERGE on relationships.jsonl resolved by taking worktree version into index then unstaging (no data loss; dedup naturally rationalized worktree 70,519 → 67,786 lines matching HEAD). Final push 4230f5f33.)**
 **Current phase: Launch 50 sprint for April 30 public launch. Ask surface complete on both ops and public Quartz. Coverage: politicians 44.7% OK, nonprofits 100% OK, donors 48.8% OK.**
 **Next checkpoint: Work remaining backlog WITHOUT new downloads first (376-politician name-matching fix, donor EIN partial-pass via existing 990 data, corp fed-ID partial-pass via existing FEC + USASpending). Then pause for David to download IRS EO BMF CSV (~30MB) + SEC EDGAR bulk for the remainder. Production Ask backend per ADR-0015 is architecture-only, separate session.**
 **New data sources added 2026-04-11: FDA (pharma/device/food enforcement), OCC (national bank enforcement), FTC (mergers + historical enforcement). All three live in CI + Ops app.**

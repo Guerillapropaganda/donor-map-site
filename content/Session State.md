@@ -3,6 +3,7 @@ title: Session State
 type: system
 last-updated: 2026-04-21
 ---
+<!-- last session: ADR-0016 FINISH + STEP 5 STUBS + MAINTENANCE SCRIPTS. Evening continuation of 2026-04-21 morning. Wired computeBreakdown into compare + leaderboard Ask panels (ops/src/app/api/ask/route.ts + ops/src/app/ask/page.tsx + quartz/components/scripts/askPanel.inline.ts + askPanel.scss) — side-by-side labeled breakdowns per entity in compare, per-row + headline breakdown in leaderboards. Step 5 — 7 new org/PAC stubs (HMF, STCoC, EPP, RGA, SAG, WfWA-F, JVC2004 — 5 via registrar, 2 manually bypassing substring-dup guard) + AFSCME International alias on existing AFSCME profile; dedup routed 1,768 edges onto new canonicals. .husky/pre-push baked NODE_OPTIONS=--max-old-space-size=8192 so tsc no longer OOMs on the 128MB relationships-per-profile.json artifact. New scripts/dedupe-donor-name-variants.cjs (49 routings, 137 edges rewritten — Uihlein couple / Samuel↔Sam / Lawrence↔Larry / Paul Elliott→Paul Singer patterns) + new scripts/refresh-edge-count-signal.cjs (2,030 of 2,111 entities refreshed — BlackRock 0→126, Fidelity 1→555, Charles Schwab 0→236). Stale AUTO_MERGE conflict on data/relationships.jsonl resolved by taking worktree version into index then unstaging (no canonical-store commit needed; dedup naturally rationalized worktree 70,519 → 67,786 lines matching HEAD). Final push 4230f5f33. (2026-04-21 evening, Code Claude). -->
 <!-- last session: ORPHAN-ENTITIES AUDIT + UX-BREAKDOWN REFACTOR. ADR-0016 defines labeled-breakdown replacement for ambiguous "total received" — politician/dark-money/DAF/super-pac/corp templates. computeBreakdown helper wired into donors_to + summary + renderers in ops/ask/page.tsx + quartz askPanel.inline.ts. Bernie's panel now shows $550M FEC lifetime + $3.8M major donors + $35K attack as labeled rows; MFT shows "Not required - 501(c)(4)" with legal-shield row. Orphan-entities audit (scripts/audit-orphan-entities.cjs) scanned 3.96M edges, classified 1.91M orphan names into promote/federal/committee/person/narrative/platform/lowflow buckets. Top-100 audit revealed 27% (27 of 100) were existing entities under name variants — Pattern H v2 extended with case-normalization/honorific/middle-initial/suffix-strip + orphan-rename pass (2,005 orphan edge names collapsed, 50,495 edges rewritten). Audit batch: step 2 (filter 72 payroll/platform vendors), step 3 (titleCaseName fix for "ORG_NAME, ." FEC artifact - 129 edges), nickname-variant dedup with bioguide-safety (SANDERS, BERNARD → Bernie Sanders; Menendez father/son correctly NOT merged), step 4 (4 mega-donor profiles: James Simons, Donald Sussman, George Marcus, Robert Bigelow - 26 orphan variants routed), step 6 (Political Ad Vendors category page covering ~35 firms / $5.5B tracked flow). Deferred to next session: step 5 org/PAC profiles + ADR-0016 breakdown for compare/leaderboard panels. Final push 016cd986e. (2026-04-21, Code Claude). -->
 <!-- prior session: QUERY-ENGINE AUDIT MARATHON — pattern-level cleanup of the Ask engine. Shipped Patterns A-H + Voteview 108-114 backfill + bioguide-id backfill. Final push a0fedd746. (2026-04-20 evening, Code Claude). -->
 <!-- prior session: MEGA SESSION PART 3 — 8 ingest pipelines wired + 8 query subjects + UX polish + Ask intents. Final push 9af0a85c8. (2026-04-20, Code Claude). -->
@@ -26,6 +27,98 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 **Phase:** Launch 50 sprint for April 30 public launch. Public-facing Ask page (`/Ask`) shipped to Quartz backed by ops API. Reconciliation framework operational. Politician coverage backfilled at registry level (113 politicians + 111 committees), edge-store coverage blocked on FEC bulk zip re-download.
 **Status:** Ask UI has seven plain-English overlays (TL;DR, visual flow, is-this-legal, why-matters, who-is-lead, compare table, empty-rescue) across money_chain / summary / leaderboard intents. Entity resolver handles acronyms (MFT → Marble Freedom Trust), token-subsets, and Levenshtein. CSV export + clickable entity deep-links. Shareable ?q=… URLs. Public Ask page renders brutalist (cream bg, yellow/red/green/indigo accents), fetches ops API with dev CORS allowlist. ADR-0015 documents production-backend deferral.
 **Authority:** CLAUDE.md, Profile Template.md, Class Analysis Style Guide.md, active ADRs (0001, 0002, 0004, 0007, 0009, 0010, 0011, 0012, 0013, 0014, 0015)
+
+---
+
+## HANDOFF — 2026-04-21 evening (ADR-0016 finish + step 5 stubs + maintenance scripts)
+
+**What you're inheriting (final push `4230f5f33`, pushed to origin/v4):**
+
+Evening continuation of the 2026-04-21 morning session. Four tight, self-contained deliverables — each commits + pushes cleanly. All next-session priorities from the morning handoff are now done except AOC small-dollar at $1K floor (already at the as-designed state) and Pattern G2–G6 (queued, lower priority).
+
+### ADR-0016 rollout finish — compare + leaderboard wiring (`d8e8825ba`)
+
+Morning wired `computeBreakdown` into `donors_to` and `handleSummary`. This commit extends it to the two remaining Ask intents.
+
+**Compare panels** (`handleCompare` in `ops/src/app/api/ask/route.ts`):
+- `fetchSide` now retains `_supportInflows`, `_oppoInflows`, `_outflows` so a second engine roundtrip isn't needed
+- New `breakdownForSide(name, ent, ...)` dispatches inflow/outflow direction by `entityStructuralRole` (politicians/dark-money/DAFs read inflow, super-PACs read outflow)
+- AskResult gains `breakdown_a` + `breakdown_b` side-by-side labeled breakdowns
+- Ops renderer (`ops/src/app/ask/page.tsx`): new `compareBreakdownWrap` / `compareBreakdownHeadRow` / `compareRowShield` styles; legal-shield rows get yellow left-border on both sides
+- Quartz renderer (`quartz/components/scripts/askPanel.inline.ts`): `ask-compare-breakdown` + `ask-compare-row--shield` class paths mirror ops; `askPanel.scss` styled accordingly
+
+**Leaderboards** (`handleLeaderboard`):
+- `rowBreakdown(r)` decomposes each Agg row into labeled slices (positive spend / direct donations / IE support / attack spend / tracked edges)
+- Every row gets a `breakdown` field; the #1 row's breakdown is ALSO surfaced at the AskResult level so the existing breakdown renderer shows "here's what #1 looks like" above the table
+
+**Decision shipped**: no single column in any Ask panel can be miscited as "the" number anymore. Every panel reads as labeled, cited, defensible slices. Closes ADR-0016.
+
+### Step 5 — 7 missing org/PAC profiles + AFSCME International alias (`453d32ae4`)
+
+Seven stub profiles created (all `content-readiness: raw`, Research Claude editorial pending):
+
+| Name | Folder | Tax form | Orphan-queue flow |
+|---|---|---|---:|
+| House Majority Forward | Dark Money | 501(c)(4) | $76.5M |
+| Stand Together Chamber of Commerce | Dark Money | 501(c)(6) | $44.8M |
+| Empower Parents PAC | Super PACs | 527 | $165.2M |
+| Republican Governors Association | Super PACs | 527 | $67.8M |
+| Securing American Greatness | Super PACs | super PAC | $52.6M |
+| Working for Working Americans Federal | Super PACs | super PAC | $41.5M |
+| Joint Victory Campaign 2004 | Super PACs | 527 (historical) | $44.5M |
+
+Eighth item from the handoff, "AFSCME International", is a name-variant of the existing `AFSCME - American Federation of State County and Municipal Employees` profile. Added 3 new aliases to that profile's frontmatter (`AFSCME International`, `AFSCME Intl`, `American Federation of State County and Municipal Employees International`).
+
+**Registration gotcha**: `register-unregistered-profile-stubs.cjs` auto-registered 5 of 7 Super PAC stubs. The 2 Dark Money stubs (HMF, STCoC) tripped the substring-dup safety check against existing "House Majority PAC" / "Stand Together" entities. Manually registered as `ent_02214` and `ent_02215` via a small inline script, bypassing the guard. If we hit this pattern again, worth adding a CLI flag like `--force <name>` to the registrar.
+
+`dedupe-entities.cjs --apply` then routed 503 orphan edge names onto the new canonicals: 1,768 edges rewritten, 1,585 merged via id collision. Probe post-dedup: all 7 canonicals show real edge counts; RGA + Joint Victory 2004 had exact-name orphans that attached directly once entity records existed.
+
+### Pre-push hook heap fix (`d777f02c3`)
+
+Pre-push `npx tsc --noEmit` was crashing with `Ineffective mark-compacts near heap limit — JavaScript heap out of memory` because Quartz components `ProfileWidget.tsx` + `DiscoveryPanel.tsx` statically import `data/relationships-per-profile.json` (128MB, CI-rebuilt via `scripts/ci-prebuild.cjs`). Default ~2GB Node heap blows up trying to hold the parsed JSON while tsc is running. Patched `.husky/pre-push` to `export NODE_OPTIONS="${NODE_OPTIONS:---max-old-space-size=8192}"` (honors any pre-set value). Tested — push now works without the caller having to set NODE_OPTIONS manually.
+
+### Donor name-variant dedup + edge-count refresh (`4230f5f33`)
+
+Two new maintenance scripts addressing the remaining handoff priorities.
+
+**`scripts/dedupe-donor-name-variants.cjs`** — Pattern H extension for non-politicians (companion to `dedupe-nickname-variants.cjs`, which only covers politicians via the legislator-registry). Handles three variant families:
+
+1. First-name nicknames via a curated `NICKNAMES` map (Samuel/Sam, Robert/Bob, William/Bill, Lawrence/Larry, Elizabeth/Liz/Beth, Christopher/Chris, etc.)
+2. Middle-name / middle-initial stripping (Paul Elliott Singer → Paul Singer, Robert Leroy Mercer → Robert Mercer, James Harris Simons → James Simons)
+3. Couple-entity superset routing (Richard Uihlein / Elizabeth Uihlein / Richard E. Uihlein all → Richard and Elizabeth Uihlein)
+
+**Safety tuning mattered here.** First pass had a critical false-positive class: "Change America Now → Change Now" and "NATIONAL AIR TRAFFIC CONTROLLERS PAC → National Right to Life PAC" — the script was treating PAC names as if they were persons. Fixed by a person-folder allowlist (Mega-Donors, Tech & Crypto, Wall Street, Real Estate, Media, Energy, Gig Economy, Foreign, Israel Lobby + top-level flat files) plus an ORG_TOKENS filter (PAC, LLC, INC, COMMITTEE, FUND, NETWORK, etc.) and a punctuation-reject list. Second pass returned 49 clean person-to-person routings; applied with 137 edges rewritten.
+
+**`scripts/refresh-edge-count-signal.cjs`** — rebuilds `signals.edge_count` for every entity by streaming every edge file and counting from/to occurrences. Baseline measurement: 96% of entities (2,030 of 2,111) carried drifted `edge_count`. 1,177 had a stale 0 stamp despite real edges. Applied: BlackRock 0→126, Charles Schwab 0→236, Fidelity Investments 1→555, Citigroup 4→449, Leonard Leo 11→185, Jeffrey Epstein Network 3→31. Adds `signals.edge_count_refreshed_at` timestamp for audit trail.
+
+### Stale `data/relationships.jsonl` conflict resolved
+
+Worktree index had a lingering `U` (unmerged) state on `data/relationships.jsonl` from a prior auto-merge attempt (`AUTO_MERGE` artifact present, no active `MERGE_HEAD`). Three index stages existed: base 67,857 lines, ours/HEAD 67,786, theirs 67,857. Working tree had 70,519 lines — 2,733 lines of fresh output from the discovery-scanner background pipeline that wasn't in any stage. Option 1 (`git checkout HEAD`) would have deleted those lines. Safer path: `git add data/relationships.jsonl` to resolve the conflict by taking worktree into index, then `git restore --staged data/relationships.jsonl` to immediately unstage. File untouched, conflict cleared, ADR-0016 commit proceeded clean. Dedup runs later in the session absorbed the worktree excess — post-dedup the file is back to 67,786 lines matching HEAD, no net data loss (orphans rewritten to canonical names, id-collisions merged).
+
+### Commits on origin/v4 this session (most recent last)
+
+```
+d8e8825ba  ADR-0016: wire labeled breakdown into compare + leaderboard panels
+453d32ae4  Step 5: 7 missing org/PAC profiles + AFSCME International alias
+d777f02c3  Raise Node heap in pre-push tsc to 8GB
+4230f5f33  Donor name-variant dedup + edge-count signal refresh
+```
+
+### Next session priorities
+
+1. **Research Claude editorial pass on the 11 new stubs** — 4 mega-donors from morning (Simons, Sussman, Marcus, Bigelow) + 7 orgs/PACs from this evening. All at `content-readiness: raw`. Class Analysis + Who They Are + Contradictions sections pending.
+2. **Pattern G2 — OTH transfers → politician attribution** (orphan `fec-oth-transfers.jsonl` is 390MB gitignored per ADR — derive at query time).
+3. **Pattern G3 — IRS 527 POFD coverage audit** (irs-pofd-8872.jsonl). Find 527s with reported receipts but no linked politician graph.
+4. **Pattern G4 — IRS 990 full 26GB cross-reference** (Priority-1 from Part 3 handoff). Officer registry + grants-out coverage against vault entities.
+5. **`--force <name>` flag for `register-unregistered-profile-stubs.cjs`** so the next substring-dup bypass doesn't require inline-script hackery.
+6. **Research Claude opportunity: Political Ad Vendors page** (morning's $5.5B / ~35-firm category page). Needs class-analysis treatment and a clean narrative arc.
+
+### What NOT to do
+
+- **Don't re-run `register-unregistered-profile-stubs.cjs` without the path-override** — it will correctly skip every entity already registered this session. If you want to register new stubs, add the .md first, confirm no substring-dup, then run.
+- **Don't revert the pre-push `NODE_OPTIONS` bake** — the hook legitimately needs 8GB heap given the 128MB JSON import. It honors any caller-set `NODE_OPTIONS`, so it doesn't override explicit requests.
+- **Don't delete the `.pre-donor-dedup.bak` / `.pre-edge-count-refresh.bak` files yet** — rollback insurance for at least one more session.
+- **Don't try to auto-promote orphan entities in bulk** — still true from morning. Use the orphan-queue as a triage list, not an auto-import.
 
 ---
 
