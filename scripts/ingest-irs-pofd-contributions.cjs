@@ -103,21 +103,27 @@ function normName(s) {
       agg.set(key, cur);
       emittedA++;
     } else {
-      // B|report_id|seq|org_name|org_EIN|recipient_name|...|purpose_or_employer(11)|amount(12)|purpose_desc(13)
+      // B|report_id|seq|org_name|org_EIN|recipient_name|addr1(6)|addr2(7)|city(8)|state(9)|zip(10)|(11)|employer(12)|amount(13)|purpose(14)|...
       scannedB++;
-      if (cols.length < 13) continue;
+      if (cols.length < 14) continue;
       const orgEin = cols[4];
+      const orgName = cols[3];
       const recipName = cols[5];
-      const amt = Number(cols[12]) || 0;
+      const amt = Number(cols[13]) || 0;
       if (amt < MIN_AMOUNT) { skipAmt++; continue; }
+      // Resolve both sides. Either side matching to a vault entity is
+      // enough to emit; the unmatched side falls back to raw POFD name
+      // (so we preserve the flow even when one endpoint is off-vault).
       const orgEntity = einToEntity.get(String(orgEin).replace(/\D/g, ''));
-      if (!orgEntity) continue;
-      // Recipient side: try vault name match.
       const recipEnt = nameToEntity.get(normName(recipName));
+      // Skip only if NEITHER side is in vault.
+      if (!orgEntity && !recipEnt) continue;
+      const from = orgEntity ? orgEntity.name : orgName;
       const to = recipEnt ? recipEnt.name : recipName;
-      const toType = recipEnt?.entity_type || 'politician'; // B records usually go to politicians
-      const key = `${orgEntity.name}|${to}|527-expenditure`;
-      const cur = agg.get(key) || { from: orgEntity.name, to, fromType: orgEntity.entity_type, toType, role: '527-expenditure', amount: 0, count: 0 };
+      const fromType = orgEntity ? orgEntity.entity_type : 'donor';
+      const toType = recipEnt ? recipEnt.entity_type : 'politician';
+      const key = `${from}|${to}|527-expenditure`;
+      const cur = agg.get(key) || { from, to, fromType, toType, role: '527-expenditure', amount: 0, count: 0 };
       cur.amount += amt;
       cur.count += 1;
       agg.set(key, cur);
