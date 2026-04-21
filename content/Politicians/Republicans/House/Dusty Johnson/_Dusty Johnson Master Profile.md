@@ -27,6 +27,7 @@ bills-sponsored: 33
 bills-cosponsored: 209
 bills-enacted: 0
 top-policy-area: Agriculture and Food
+last-enriched: 2026-04-21
 ---
 
 

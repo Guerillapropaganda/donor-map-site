@@ -14,6 +14,7 @@ known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
   - "No mapped relationships"
+last-enriched: 2026-04-21
 ---
 
 

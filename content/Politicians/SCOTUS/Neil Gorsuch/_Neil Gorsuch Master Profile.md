@@ -15,6 +15,7 @@ known-gaps:
   - "No voting record data"
 related: "[[Leonard Leo]] · [[_John Roberts Master Profile]] · [[_Clarence Thomas Master Profile]] · [[_Samuel Alito Master Profile]] · [[Koch Network - Charles Koch]]"
 urls-first-triaged: "2026-04-15"
+last-enriched: 2026-04-21
 ---
 
 

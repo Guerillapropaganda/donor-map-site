@@ -36,6 +36,7 @@ corroboration-count: 2
 known-gaps:
   - "No SEC corporate filings"
   - "No lobbying disclosure data"
+last-enriched: 2026-04-21
 ---
 
 

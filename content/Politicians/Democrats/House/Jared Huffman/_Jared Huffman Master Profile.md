@@ -28,6 +28,7 @@ bills-cosponsored: 504
 bills-enacted: 0
 top-policy-area: Health
 top-donors: "[[Google - Alphabet]], [[American Hospital Association PAC]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Honeywell]], [[NEA Fund for Children and Public Education]], [[Walmart - Walton Family]], [[Sierra Club Political Committee]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[ENVIRONMENT AMERICA INC]], [[Medicare for All - The Policy That Broke the Party]], [[League of Conservation Voters]], [[Comcast - NBCUniversal]], [[AT&T - WarnerMedia]], [[CTA - California Teachers Association]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[J Street]], [[Courage California Super Pac]], [[National Association of Realtors]], [[Sierra Club Independent Action]], [[Teamsters - International Brotherhood of Teamsters]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[PG&E - Pacific Gas and Electric]], [[National Nurses United]], [[Planned Parenthood Votes]], [[IBEW - International Brotherhood of Electrical Workers]], [[SEIU COPE]], [[Progressive Turnout Project]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Environment America INC]], [[Honeywell International]], [[AT&T]]"
+last-enriched: 2026-04-21
 ---
 
 

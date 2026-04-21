@@ -24,6 +24,7 @@ known-gaps:
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4MP01022
 top-donors: "[[Jim Jordan]]"
+last-enriched: 2026-04-21
 ---
 
 

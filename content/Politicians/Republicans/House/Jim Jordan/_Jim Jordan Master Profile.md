@@ -29,6 +29,7 @@ related: "[[_Mike Johnson Master Profile]] Â· [[_Donald Trump Master Profile]] Â
 donors: "[[House Freedom Caucus]], [[Koch Network - Charles Koch]], [[Club for Growth]], [[Ford Motor Company]], [[Morgan Stanley]], [[Kaiser Permanente]], [[Comcast - NBCUniversal]], [[Fidelity Investments]], [[Google - Alphabet]], [[Chevron]], [[Boeing]], [[Leidos]], [[McDonalds Corporation]], [[UPS]], [[Cargill]], [[Hospital Corporation of America - HCA]], [[Amgen Inc]], [[Amazon]], [[Oracle]], [[Duke Energy]], [[Citigroup]], [[Apple]], [[Cigna Group]], [[Lockheed Martin]], [[PG&E - Pacific Gas and Electric]], [[Microsoft]], [[General Dynamics]], [[Walmart]], [[Pfizer Inc.]], [[Verizon]], [[General Motors]], [[MasTec - Mas Canosa Family]], [[Nvidia]], [[UnitedHealth Group - Optum]], [[Wells Fargo]], [[Goldman Sachs]], [[American Enterprise Institute]], [[Raytheon (RTX Corporation)]], [[Bank of America]], [[Heritage Foundation]], [[Johnson & Johnson]], [[Booz Allen Hamilton]], [[AT&T]], [[CalPERS]], [[Drummond Co.]], [[DNC - Democratic National Committee]], [[BlackRock]], [[BAE Systems]], [[ExxonMobil]], [[Northrop Grumman]], [[LET FREEDOM RING INC]], [[Let Freedom Ring INC]]"
 bills-enacted: 0
 top-policy-area: Government Operations and Politics
+last-enriched: 2026-04-20
 ---
 
 

@@ -28,6 +28,7 @@ bills-cosponsored: 406
 bills-enacted: 0
 top-policy-area: Finance and Financial Sector
 top-donors: "[[Nucor Corporation]], [[National Rifle Association]], [[General Dynamics]], [[American College of Radiology Association PAC]], [[Comcast - NBCUniversal]], [[Bank of America]], [[National Multifamily Housing Council]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[MAJORITY PAC]], [[Associated General Contractors of America Political Action Committee]], [[Lockheed Martin]], [[AIPAC - American Israel Public Affairs Committee]], [[Marathon Petroleum]], [[Walmart - Walton Family]], [[Google - Alphabet]], [[American Hospital Association PAC]], [[Anthem - Elevance Health]], [[National Association of Realtors]], [[AT&T - WarnerMedia]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Pennsylvania Pro-Life Federation PAC]], [[Citigroup]], [[WinRed]], [[Coinbase]], [[Morgan Stanley]], [[Microsoft]], [[AT&T]], [[Majority PAC]]"
+last-enriched: 2026-04-21
 ---
 
 

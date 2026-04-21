@@ -28,6 +28,7 @@ bills-cosponsored: 290
 bills-enacted: 5
 top-policy-area: International Affairs
 top-donors: "[[Sierra Club Political Committee]], [[VOTER PROTECTION PROJECT]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Multifamily Housing Council]], [[IBEW - International Brotherhood of Electrical Workers]], [[Nancy Pelosi]], [[SEIU COPE]], [[NEA Fund for Children and Public Education]], [[Teamsters - International Brotherhood of Teamsters]], [[Everytown for Gun Safety]], [[UA Political Action Committee]], [[J Street]], [[Walmart - Walton Family]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Planned Parenthood Votes]], [[National Association of Realtors]], [[AT&T - WarnerMedia]], [[League of Conservation Voters]], [[Microsoft]], [[Google - Alphabet]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Sierra Club Independent Action]], [[Demand Justice]], [[Human Rights Campaign Equality Votes]], [[Let America Vote PAC]], [[Voter Protection Project]], [[AT&T]], [[American Federation of State County & Municipal Employees  P E O P L E]]"
+last-enriched: 2026-04-21
 ---
 
 

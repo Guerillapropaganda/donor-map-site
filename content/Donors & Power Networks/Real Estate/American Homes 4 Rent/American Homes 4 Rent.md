@@ -17,6 +17,7 @@ employee-contributions: 39
 employee-contributions-total: 30545
 employee-donor-count: 16
 politicians-funded: "[[National Rental Home Council]], [[ActBlue]], [[NRSC - National Republican Senatorial Committee]], [[WinRed]], [[_Tim Scott Master Profile]], [[Tim Scott]]"
+last-enriched: 2026-04-21
 ---
 
 

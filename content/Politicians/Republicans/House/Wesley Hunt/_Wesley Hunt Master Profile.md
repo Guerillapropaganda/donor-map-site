@@ -28,6 +28,7 @@ bills-cosponsored: 165
 bills-enacted: 2
 top-policy-area: Crime and Law Enforcement
 top-donors: "[[Texans for a Conservative Majority]], [[Elbert Guillory's America]]"
+last-enriched: 2026-04-21
 ---
 
 

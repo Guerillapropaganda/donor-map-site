@@ -22,6 +22,7 @@ urls-first-triaged: "2026-04-15"
 total-raised: 38446
 total-spent: 751323
 cash-on-hand: 46192
+last-enriched: 2026-04-21
 ---
 
 

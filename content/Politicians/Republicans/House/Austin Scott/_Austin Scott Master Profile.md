@@ -27,6 +27,7 @@ bills-cosponsored: 224
 bills-enacted: 0
 top-policy-area: Health
 top-donors: "[[Morgan Stanley]], [[General Dynamics]], [[Ballard Partners]], [[Amazon]]"
+last-enriched: 2026-04-21
 ---
 
 

@@ -28,6 +28,7 @@ bills-cosponsored: 287
 bills-enacted: 0
 top-policy-area: International Affairs
 top-donors: "[[WinRed]], [[Lockheed Martin]], [[Honeywell]], [[General Dynamics]], [[Walmart - Walton Family]], [[Raytheon (RTX)]], [[Northrop Grumman]], [[Comcast - NBCUniversal]], [[Leidos]], [[BAE Systems]], [[Chevron]], [[AT&T - WarnerMedia]], [[National Association of Realtors]], [[Marathon Petroleum]], [[NextEra Energy]], [[National Cattlemen's Beef Association]], [[National Rifle Association]], [[Nucor Corporation]], [[Associated General Contractors of America Political Action Committee]], [[MAJORITY PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[L3Harris Technologies]], [[Duke Energy]], [[Jason Smith]], [[American Chemistry Council, INC]], [[Americans for Prosperity]], [[McDonalds Corporation]], [[Cigna Group]], [[Ballard Partners]], [[Anduril Industries]], [[Amazon]], [[Morgan Stanley]], [[Fanjul Family - Florida Crystals]], [[Southern Company]], [[AT&T]], [[Honeywell International]], [[Majority PAC]]"
+last-enriched: 2026-04-21
 ---
 
 

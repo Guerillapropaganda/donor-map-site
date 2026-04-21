@@ -26,6 +26,7 @@ bills-sponsored: 2
 bills-cosponsored: 95
 bills-enacted: 0
 top-policy-area: "Civil Rights and Liberties, Minority Issues"
+last-enriched: 2026-04-21
 ---
 
 

@@ -23,6 +23,7 @@ total-spent: 43306
 cash-on-hand: 14247
 source-types:
   - FEC
+last-enriched: 2026-04-21
 ---
 
 

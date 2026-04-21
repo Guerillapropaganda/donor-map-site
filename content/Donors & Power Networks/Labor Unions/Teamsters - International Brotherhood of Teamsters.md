@@ -30,6 +30,7 @@ contributions-to-committees: 713500
 employee-contributions: 5592
 employee-contributions-total: 278969
 employee-donor-count: 656
+last-enriched: 2026-04-20
 ---
 
 

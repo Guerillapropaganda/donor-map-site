@@ -36,6 +36,7 @@ total-spent: 80037445
 cash-on-hand: 30248374
 individual-contributions: 72399129
 contributions-to-committees: 129000
+last-enriched: 2026-04-20
 ---
 
 

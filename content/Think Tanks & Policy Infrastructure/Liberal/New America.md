@@ -44,6 +44,7 @@ sec-form-types:
   - "TEXT-EXTRACT"
 checklist-na:
   - "regulatory: auto: entity type \"think-tank\" does not typically have EPA/OSHA records (2026-04-15)"
+last-enriched: 2026-04-20
 ---
 
 #think-tank #liberal #tech-policy #google #silicon-valley #national-security #education #obama-pipeline #class-analysis

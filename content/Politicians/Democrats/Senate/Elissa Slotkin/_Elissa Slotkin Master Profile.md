@@ -32,6 +32,7 @@ bills-enacted: 5
 top-policy-area: Armed Forces and National Security
 needs-reenrichment: true
 reenrich-reason: "launch-50 audit: only 4 auto-blocks (threshold: 5)"
+last-enriched: 2026-04-20
 ---
 
 

@@ -33,6 +33,7 @@ bills-cosponsored: 199
 bills-enacted: 1
 top-policy-area: International Affairs
 top-donors: "[[AT&T - WarnerMedia]], [[Walmart - Walton Family]], [[Comcast - NBCUniversal]], [[Chevron]], [[Jim Jordan]], [[Lockheed Martin]], [[Microsoft]], [[AIPAC - American Israel Public Affairs Committee]], [[PG&E - Pacific Gas and Electric]], [[Johnson & Johnson]], [[Ben Cline]], [[Raytheon (RTX)]], [[MAJORITY PAC]], [[National Rifle Association]], [[National Association of Realtors]], [[Google - Alphabet]], [[WinRed]], [[American Gaming Association]], [[Planned Parenthood Votes]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Associated General Contractors of America Political Action Committee]], [[Republican Jewish Coalition]], [[Darrell Issa]], [[General Dynamics]], [[Save America PAC]], [[Oracle]], [[PG&E]], [[Raytheon (RTX Corporation)]], [[Ballard Partners]], [[Apple]], [[Las Vegas Sands]], [[CTA - California Teachers Association]], [[National Restaurant Association]], [[Meta - Facebook]], [[SpaceX]], [[Amazon]], [[Majority PAC]], [[AT&T]]"
+last-enriched: 2026-04-21
 ---
 
 

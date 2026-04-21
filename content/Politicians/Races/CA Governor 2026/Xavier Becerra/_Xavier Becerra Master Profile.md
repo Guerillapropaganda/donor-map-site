@@ -18,6 +18,7 @@ known-gaps:
   - "No FEC contribution data"
   - "No voting record data"
 related: "[[_Kamala Harris Master Profile]] · [[_Gavin Newsom Master Profile]] · [[California Nurses Association]] · [[SEIU - Service Employees International Union]]"
+last-enriched: 2026-04-21
 ---
 
 

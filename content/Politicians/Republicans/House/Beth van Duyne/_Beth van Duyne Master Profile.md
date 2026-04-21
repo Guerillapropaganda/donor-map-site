@@ -27,6 +27,7 @@ bills-cosponsored: 305
 bills-enacted: 0
 top-policy-area: Taxation
 top-donors: "[[Verizon]], [[BAE Systems]], [[Invitation Homes - Institutional Landlords]], [[Elliott Management]], [[Blackstone Group]], [[Charles Schwab]], [[Google - Alphabet]], [[Microsoft]], [[AbbVie]], [[RNC - Republican National Committee]], [[Enterprise Products Partners]], [[Lockheed Martin]], [[Las Vegas Sands]], [[Amazon]], [[UPS]], [[Citadel - Kenneth Griffin]], [[Fidelity Investments]], [[US CHAMBER OF COMMERCE]], [[ConocoPhillips]], [[CBRE Group]], [[Coinbase]], [[Leidos]], [[Morgan Stanley]], [[Lennar Corporation]], [[US Chamber of Commerce]]"
+last-enriched: 2026-04-21
 ---
 
 

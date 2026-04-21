@@ -19,6 +19,7 @@ known-gaps:
   - No mapped relationships
 related: "[[Leonard Leo]] · [[_Clarence Thomas Master Profile]] · [[_Samuel Alito Master Profile]] · [[Koch Network - Charles Koch]]"
 urls-first-triaged: "2026-04-15"
+last-enriched: 2026-04-20
 ---
 
 

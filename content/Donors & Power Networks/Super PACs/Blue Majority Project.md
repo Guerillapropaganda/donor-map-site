@@ -24,6 +24,7 @@ cash-on-hand: 80098
 independent-expenditures: 100777
 source-types:
   - FEC
+last-enriched: 2026-04-21
 ---
 
 

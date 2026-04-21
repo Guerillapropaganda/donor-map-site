@@ -24,6 +24,7 @@ individual-contributions: 54563
 related: "[[Brian Schatz]]"
 source-types:
   - FEC
+last-enriched: 2026-04-21
 ---
 
 

@@ -25,6 +25,7 @@ known-gaps:
   - "No mapped relationships"
 related: "[[_Donald Trump Master Profile]] · [[Peter Thiel]] · [[Elon Musk]] · [[_David Sacks Master Profile|David Sacks]] · [[Crypto Industry Bloc]] · [[Miriam Adelson]] · [[Koch Network - Charles Koch]] · [[_Jared Kushner Master Profile]] · [[_Benjamin Netanyahu Master Profile]] · [[The Palantir State - Surveillance as Policy]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 donors: "[[Hillbilly Elegy and the Class Fraud]]"
+last-enriched: 2026-04-20
 ---
 
 

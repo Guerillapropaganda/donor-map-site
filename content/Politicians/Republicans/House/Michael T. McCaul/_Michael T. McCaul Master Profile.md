@@ -26,6 +26,7 @@ bills-sponsored: 33
 bills-cosponsored: 232
 bills-enacted: 1
 top-policy-area: "International Affairs"
+last-enriched: 2026-04-21
 ---
 
 

@@ -23,6 +23,7 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 top-donors: "[[Cigna Group]], [[Meta - Facebook]], [[American Farm Bureau Federation]], [[Chevron]], [[Blackstone Group]], [[Lockheed Martin]], [[Amgen Inc]], [[Wells Fargo]], [[AT&T]], [[Charles Schwab]], [[Goldman Sachs]], [[Amazon]], [[Fidelity Investments]]"
+last-enriched: 2026-04-21
 ---
 
 

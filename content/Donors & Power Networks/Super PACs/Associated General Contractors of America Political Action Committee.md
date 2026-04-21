@@ -25,6 +25,7 @@ contributions-to-committees: 472000
 related: "[[Sam Graves]]"
 source-types:
   - FEC
+last-enriched: 2026-04-21
 ---
 
 

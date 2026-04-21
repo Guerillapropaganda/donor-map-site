@@ -28,6 +28,7 @@ bills-cosponsored: 313
 bills-enacted: 0
 top-policy-area: International Affairs
 top-donors: "[[Club for Growth INC PAC]]"
+last-enriched: 2026-04-21
 ---
 
 

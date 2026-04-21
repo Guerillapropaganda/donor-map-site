@@ -1,7 +1,7 @@
 ---
 title: "Claremont Institute"
 type: think-tank
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -14,6 +14,7 @@ known-gaps:
 checklist-na:
   - "regulatory: auto: entity type \"think-tank\" does not typically have EPA/OSHA records (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+last-enriched: 2026-04-15
 ---
 
 #think-tank #conservative #new-right #natural-law #straussian #Jan6 #personnel-pipeline #anti-progressive #class-analysis

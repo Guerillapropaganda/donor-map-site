@@ -28,6 +28,7 @@ bills-cosponsored: 196
 bills-enacted: 1
 top-policy-area: Agriculture and Food
 top-donors: "[[Walmart - Walton Family]], [[L3Harris Technologies]], [[Jason Smith]], [[Microsoft]], [[Associated General Contractors of America Political Action Committee]], [[National Association of Realtors]], [[AT&T - WarnerMedia]], [[Jim Jordan]], [[Northrop Grumman]], [[National Restaurant Association]], [[BAE Systems]], [[General Dynamics]], [[American Dream Federal Action]], [[AIPAC - American Israel Public Affairs Committee]], [[Tyson Foods]], [[Adrian Smith]], [[WinRed]], [[MAJORITY PAC]], [[Honeywell]], [[Leidos]], [[National Cattlemen's Beef Association]], [[American Hospital Association PAC]], [[National Rifle Association]], [[Nucor Corporation]], [[Ford Motor Company]], [[Pete Sessions]], [[ADM - Archer Daniels Midland]], [[Austin Scott]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Lockheed Martin]], [[Humana]], [[David Rouzer]], [[iHeartMedia]], [[BlackRock]], [[FTX - Sam Bankman-Fried]], [[CBRE Group]], [[Blackstone Group]], [[AT&T]], [[Bank of America]], [[Majority PAC]], [[Honeywell International]]"
+last-enriched: 2026-04-21
 ---
 
 

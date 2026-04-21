@@ -1,7 +1,7 @@
 ---
 title: "The Revolving Door , A Cross-Think-Tank Personnel Map"
 type: think-tank
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-09
 source-tier: 2
 parent: null
@@ -13,6 +13,7 @@ known-gaps:
 checklist-na:
   - "regulatory: auto: entity type \"think-tank\" does not typically have EPA/OSHA records (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+last-enriched: 2026-04-15
 ---
 
 #think-tank #cross-comparison #revolving-door #class-analysis #personnel #policy-pipeline #regulatory-capture

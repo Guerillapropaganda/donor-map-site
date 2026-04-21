@@ -25,6 +25,7 @@ contributions-to-committees: 11000
 related: "[[James Comer]]"
 source-types:
   - FEC
+last-enriched: 2026-04-21
 ---
 
 

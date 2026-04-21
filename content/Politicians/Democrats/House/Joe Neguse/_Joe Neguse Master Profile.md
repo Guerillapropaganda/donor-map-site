@@ -27,6 +27,7 @@ bills-cosponsored: 718
 bills-enacted: 9
 top-policy-area: Health
 top-donors: "[[Citigroup]], [[PG&E - Pacific Gas and Electric]], [[Kaiser Permanente]], [[UPS]], [[Google - Alphabet]], [[Microsoft]], [[Oracle]], [[Hospital Corporation of America - HCA]], [[Apple]], [[Center for American Progress]], [[Ripple]], [[Charles Schwab]], [[Goldman Sachs]], [[Amazon]], [[FTX - Sam Bankman-Fried]], [[iHeartMedia]], [[Airbnb]], [[Lockheed Martin]], [[Comcast - NBCUniversal]], [[McDonalds Corporation]]"
+last-enriched: 2026-04-21
 ---
 
 

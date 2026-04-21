@@ -23,6 +23,7 @@ known-gaps:
 donors: "[[Brady Campaign]], [[Citigroup]], [[Defend American Jobs]], [[Troy Downing]], [[AIPAC - American Israel Public Affairs Committee]], [[Care Action]], [[National Multifamily Housing Council]], [[General Motors]], [[Duke Energy]], [[Bank of America]], [[Southern States Police Benevolent Assoc PAC Fund]], [[Jim Jordan]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[American Hospital Association PAC]], [[David Rouzer]], [[National Restaurant Association]], [[National Rifle Association]], [[Honeywell]], [[Nucor Corporation]], [[National Association of Realtors]], [[MAJORITY PAC]], [[Associated General Contractors of America Political Action Committee]], [[Club for Growth INC PAC]], [[Morgan Stanley]], [[Honeywell International]], [[Majority PAC]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4NC14015
+last-enriched: 2026-04-21
 ---
 
 

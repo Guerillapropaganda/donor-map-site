@@ -27,6 +27,7 @@ bills-cosponsored: 285
 bills-enacted: 0
 top-policy-area: Health
 top-donors: "[[BlackRock]], [[Fidelity Investments]], [[Amazon]], [[Tesla - Elon Musk Political Operation]], [[Everytown for Gun Safety]], [[Uber]], [[CBRE Group]], [[Lyft]], [[Tyson Foods]], [[Raytheon (RTX Corporation)]], [[DNC - Democratic National Committee]], [[News Corp - Fox Corporation]], [[TikTok - ByteDance]], [[DoorDash]], [[Arabella Advisors]], [[Palantir Technologies]], [[Google - Alphabet]], [[Booz Allen Hamilton]], [[Anduril Industries]], [[a16z - Andreessen Horowitz]], [[Center for American Progress]], [[US CHAMBER OF COMMERCE]], [[BAE Systems]], [[Lockheed Martin]], [[Meta - Facebook]], [[Ballard Partners]], [[AT&T]], [[UPS]], [[Goldman Sachs]], [[JPMorgan Chase]], [[Comcast - NBCUniversal]], [[Amgen Inc]], [[Verizon]], [[Microsoft]], [[Bank of America]], [[CVS Health - Aetna]], [[Blackstone Group]], [[League of Conservation Voters]], [[US Chamber of Commerce]]"
+last-enriched: 2026-04-21
 ---
 
 

@@ -44,6 +44,7 @@ employee-contributions: 7
 employee-contributions-total: 5665
 employee-donor-count: 3
 politicians-funded: "[[WinRed]], [[ActBlue]]"
+last-enriched: 2026-04-20
 ---
 
 

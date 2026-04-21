@@ -23,6 +23,7 @@ employee-contributions-total: 8704
 employee-donor-count: 14
 source-types:
   - FEC
+last-enriched: 2026-04-21
 ---
 
 

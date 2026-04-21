@@ -32,6 +32,7 @@ source-types:
   - FEC
   - USASpending
 corroboration-count: 2
+last-enriched: 2026-04-21
 ---
 
 

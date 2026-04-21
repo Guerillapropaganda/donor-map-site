@@ -24,6 +24,7 @@ known-gaps:
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4ND00061
 top-donors: "[[Northrop Grumman]], [[National Rifle Association]], [[Winning for Women PAC]], [[CVS Health - Aetna]], [[National Association of Realtors]], [[Johnson & Johnson]], [[NextEra Energy]], [[Defending Main Street Superpac INC]], [[Marathon Petroleum]], [[ConocoPhillips]], [[Chevron]], [[Valero Energy]], [[Comcast - NBCUniversal]], [[National Multifamily Housing Council]], [[Duke Energy]], [[Google - Alphabet]], [[Troy Downing]], [[American Hospital Association PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[Amgen Inc]], [[Jim Jordan]], [[Honeywell]], [[PG&E - Pacific Gas and Electric]], [[Wfw Action Fund, Inc.]], [[Walmart - Walton Family]], [[Hunter Action Fund (haf)]], [[Reclaim America PAC]], [[Devon Energy]], [[Associated General Contractors of America Political Action Committee]], [[National Restaurant Association]], [[Morgan Stanley]], [[AT&T - WarnerMedia]], [[Anthem - Elevance Health]], [[VIEW PAC - Value in Electing Women]], [[ADM - Archer Daniels Midland]], [[AbbVie]], [[MAJORITY PAC]], [[Microsoft]], [[Raytheon (RTX)]], [[Club for Growth]], [[Citigroup]], [[Republican Jewish Coalition]], [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]], [[National Cattlemen's Beef Association]], [[American Chemistry Council, INC]], [[Honeywell International]], [[AT&T]], [[Majority PAC]], [[Protect Freedom Political Action Committee]]"
+last-enriched: 2026-04-21
 ---
 
 

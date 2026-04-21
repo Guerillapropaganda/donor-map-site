@@ -1,7 +1,7 @@
 ---
 title: "Cryptocurrency Industry Bloc , Fairshake PAC Network"
 type: pac
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
@@ -12,12 +12,12 @@ issues:
   - "Dark Money & Campaign Finance"
 known-gaps:
   - "No FEC contribution data"
-  - "No mapped relationships"
 related: "[[David Sacks]] · [[Jeff Yass]] · [[Coinbase]] · [[Ripple Labs]]"
 checklist-na:
   - "regulatory: auto: entity type \"pac\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"pac\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+last-enriched: 2026-04-20
 ---
 
 

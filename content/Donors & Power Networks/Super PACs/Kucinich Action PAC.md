@@ -23,6 +23,7 @@ total-spent: 23405
 individual-contributions: 17001
 source-types:
   - FEC
+last-enriched: 2026-04-21
 ---
 
 

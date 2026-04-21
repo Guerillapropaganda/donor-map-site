@@ -26,6 +26,7 @@ bills-sponsored: 13
 bills-cosponsored: 219
 bills-enacted: 0
 top-policy-area: "Finance and Financial Sector"
+last-enriched: 2026-04-21
 ---
 
 

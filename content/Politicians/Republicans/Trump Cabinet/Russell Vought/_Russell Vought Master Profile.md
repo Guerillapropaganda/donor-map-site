@@ -16,6 +16,7 @@ known-gaps:
   - "No voting record data"
 related: "[[_Donald Trump Master Profile]] · [[Leonard Leo]]"
 urls-first-triaged: "2026-04-15"
+last-enriched: 2026-04-21
 ---
 
 

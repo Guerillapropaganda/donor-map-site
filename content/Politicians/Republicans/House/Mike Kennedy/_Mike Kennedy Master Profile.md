@@ -24,6 +24,7 @@ known-gaps:
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4UT03260
 top-donors: "[[Microsoft]], [[Marathon Petroleum]], [[Valero Energy]], [[National Restaurant Association]], [[Google - Alphabet]], [[L3Harris Technologies]], [[Chevron]], [[AT&T - WarnerMedia]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[National Association of Realtors]], [[Nucor Corporation]], [[National Rifle Association]], [[General Dynamics]], [[AIPAC - American Israel Public Affairs Committee]], [[Anthem - Elevance Health]], [[National Cattlemen's Beef Association]], [[Jim Jordan]], [[MAJORITY PAC]], [[Lockheed Martin]], [[Troy Downing]], [[Northrop Grumman]], [[American College of Radiology Association PAC]], [[Performance Racing Inc.]], [[Mike Haridopolos]], [[Honeywell]], [[American Hospital Association PAC]], [[Conservative Leadership PAC]], [[AT&T]], [[Honeywell International]], [[Majority PAC]]"
+last-enriched: 2026-04-21
 ---
 
 

@@ -22,6 +22,7 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 related: "[[_Donald Trump Master Profile|Trump]] · [[_Markwayne Mullin Master Profile|Markwayne Mullin]] · [[Koch Network - Charles Koch|Koch Network]] · [[Heritage Foundation]]"
+last-enriched: 2026-04-20
 ---
 
 

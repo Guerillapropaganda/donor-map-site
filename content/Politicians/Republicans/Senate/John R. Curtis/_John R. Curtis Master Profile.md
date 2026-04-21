@@ -25,6 +25,7 @@ bills-sponsored: 50
 bills-cosponsored: 194
 bills-enacted: 0
 top-policy-area: "Public Lands and Natural Resources"
+last-enriched: 2026-04-21
 ---
 
 

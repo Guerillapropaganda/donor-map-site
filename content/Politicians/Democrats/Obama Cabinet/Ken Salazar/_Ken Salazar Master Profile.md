@@ -16,6 +16,7 @@ source-types:
   - Congress
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "S4CO00163"
+last-enriched: 2026-04-21
 ---
 
 

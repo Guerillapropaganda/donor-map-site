@@ -30,6 +30,7 @@ bills-cosponsored: 373
 bills-enacted: 0
 top-policy-area: International Affairs
 top-donors: "[[Common Sense for America PAC]], [[General Dynamics]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Google - Alphabet]], [[Morgan Stanley]], [[Walmart - Walton Family]], [[Raytheon (RTX)]], [[Chevron]], [[National Association of Realtors]], [[National Multifamily Housing Council]], [[Performance Racing Inc.]], [[Associated General Contractors of America Political Action Committee]], [[Lockheed Martin]], [[CoreCivic - Private Prisons]], [[Microsoft]], [[National Right to Life Victory Fund]], [[NextEra Energy]], [[Club for Growth INC PAC]], [[Nucor Corporation]], [[ConocoPhillips]], [[Comcast - NBCUniversal]], [[National Restaurant Association]], [[Pfizer Inc.]], [[Adrian Smith]], [[ADM - Archer Daniels Midland]], [[General Motors]], [[National Cattlemen's Beef Association]], [[National Rifle Association]], [[Devon Energy]], [[Valero Energy]], [[Occidental Petroleum]], [[NRSC - National Republican Senatorial Committee]], [[American Hospital Association PAC]], [[Don Bacon]], [[WinRed]], [[Amgen Inc]], [[Apollo Global Management]], [[American Petroleum Institute]], [[Koch Industries]], [[Charles Schwab]], [[Meta - Facebook]], [[Goldman Sachs]], [[Citadel - Kenneth Griffin]]"
+last-enriched: 2026-04-20
 ---
 
 

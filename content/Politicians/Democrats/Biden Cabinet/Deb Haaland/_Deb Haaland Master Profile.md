@@ -15,6 +15,7 @@ source-types:
   - Congress
 urls-first-triaged: "2026-04-15"
 top-donors: "[[America Votes]], [[Amazon]], [[Oracle]], [[Boeing]], [[Bank of America]], [[Apple]], [[ActBlue]], [[DNC - Democratic National Committee]], [[Honeywell International]], [[Walmart]], [[Center for American Progress]], [[Verizon]], [[Northrop Grumman]], [[Meta - Facebook]]"
+last-enriched: 2026-04-21
 ---
 
 

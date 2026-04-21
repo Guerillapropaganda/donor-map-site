@@ -39,6 +39,7 @@ donors: "[[NORPAC]], [[FAIRSHAKE]], [[Goldman Sachs]], [[Planned Parenthood Vote
 related: "[[_Maxine Waters Master Profile|Maxine Waters]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[Goldman Sachs]]"
 bills-enacted: 0
 top-policy-area: International Affairs
+last-enriched: 2026-04-21
 ---
 
 

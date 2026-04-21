@@ -16,6 +16,7 @@ related: "[[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]] ·
 urls-first-triaged: "2026-04-15"
 source-types:
   - Congress
+last-enriched: 2026-04-21
 ---
 #brian-kemp #governor #georgia #corporate-republican #election-certification #sb-202 #class-analysis
 tags: #republican

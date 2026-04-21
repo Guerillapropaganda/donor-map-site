@@ -27,6 +27,7 @@ bills-cosponsored: 230
 bills-enacted: 1
 top-policy-area: Health
 top-donors: "[[Blackstone Group]], [[AT&T]], [[McDonalds Corporation]], [[AbbVie]], [[Comcast - NBCUniversal]], [[Morgan Stanley]]"
+last-enriched: 2026-04-21
 ---
 
 

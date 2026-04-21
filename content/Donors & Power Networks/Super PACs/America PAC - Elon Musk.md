@@ -21,6 +21,7 @@ total-spent: 50168678
 cash-on-hand: 275108
 independent-expenditures: 87134
 individual-contributions: 48209280
+last-enriched: 2026-04-20
 ---
 
 

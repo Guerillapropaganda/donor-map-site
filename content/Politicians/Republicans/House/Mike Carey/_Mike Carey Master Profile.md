@@ -27,6 +27,7 @@ bills-sponsored: 29
 bills-cosponsored: 272
 bills-enacted: 1
 top-policy-area: Taxation
+last-enriched: 2026-04-21
 ---
 
 

@@ -20,6 +20,7 @@ urls-first-triaged: "2026-04-15"
 total-spent: 7450
 contributions-to-committees: 3950
 politicians-funded: "[[Marjorie Taylor Greene]]"
+last-enriched: 2026-04-21
 ---
 
 

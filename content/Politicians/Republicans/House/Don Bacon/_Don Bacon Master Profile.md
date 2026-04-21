@@ -27,6 +27,7 @@ bills-cosponsored: 783
 bills-enacted: 19
 top-policy-area: Health
 top-donors: "[[Valero Energy]], [[LET FREEDOM RING INC]], [[Northrop Grumman]], [[Anduril Industries]], [[UPS]], [[CBRE Group]], [[Chevron]], [[Citadel - Kenneth Griffin]], [[Boeing]], [[National Restaurant Association]], [[Amazon]], [[Wells Fargo]], [[Carlyle Group]], [[BAE Systems]], [[Business Roundtable]], [[Amgen Inc]], [[Google - Alphabet]], [[National Association of Realtors]], [[Honeywell International]], [[Las Vegas Sands]], [[Lockheed Martin]], [[Charles Schwab]], [[Occidental Petroleum]], [[Comcast - NBCUniversal]], [[Goldman Sachs]], [[Leidos]], [[JPMorgan Chase]], [[Blackstone Group]], [[QVT Financial]], [[Morgan Stanley]], [[Michigan Republican Party]], [[US CHAMBER OF COMMERCE]], [[Oracle]], [[Raytheon (RTX Corporation)]], [[L3Harris Technologies]], [[Palantir Technologies]], [[US Chamber of Commerce]], [[Let Freedom Ring INC]]"
+last-enriched: 2026-04-21
 ---
 
 

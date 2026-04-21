@@ -26,6 +26,7 @@ employee-donor-count: 1
 politicians-funded: "[[Jason Crow]], [[Chrissy Houlahan]], [[Jimmy Panetta]], [[Michael Waltz]], [[Brian Mast]], [[Patrick Ryan]]"
 source-types:
   - FEC
+last-enriched: 2026-04-21
 ---
 
 

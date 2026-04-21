@@ -22,6 +22,7 @@ related: "[[CTA - California Teachers Association]] · [[Charter Schools and the
 urls-first-triaged: "2026-04-15"
 source-types:
   - Congress
+last-enriched: 2026-04-21
 ---
 
 

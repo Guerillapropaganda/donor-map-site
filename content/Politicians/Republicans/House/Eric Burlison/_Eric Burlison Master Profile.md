@@ -28,6 +28,7 @@ bills-cosponsored: 263
 bills-enacted: 0
 top-policy-area: Crime and Law Enforcement
 top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[Jim Jordan]], [[MAJORITY PAC]], [[CVS Health - Aetna]], [[AT&T - WarnerMedia]], [[Associated General Contractors of America Political Action Committee]], [[Tyson Foods]], [[National Cattlemen's Beef Association]], [[National Association of Realtors]], [[Anthem - Elevance Health]], [[Lockheed Martin]], [[WinRed]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Rifle Association]], [[Honeywell]], [[General Dynamics]], [[David Rouzer]], [[American Hospital Association PAC]], [[Jason Smith]], [[Club for Growth INC PAC]], [[McDonalds Corporation]], [[Chevron]], [[National Restaurant Association]], [[Club for Growth]], [[JPAC - Jewish Public Affairs Committee of California]], [[Comcast - NBCUniversal]], [[SpaceX]], [[US CHAMBER OF COMMERCE]], [[Alliance Defending Freedom]], [[Cigna Group]], [[Koch Network - Charles Koch]], [[Majority PAC]], [[Honeywell International]], [[AT&T]], [[US Chamber of Commerce]]"
+last-enriched: 2026-04-21
 ---
 
 

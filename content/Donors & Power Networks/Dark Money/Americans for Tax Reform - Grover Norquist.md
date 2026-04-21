@@ -24,6 +24,7 @@ employee-donor-count: 10
 politicians-funded: "[[WinRed]], [[Trump Victory]], [[_Mark Green Master Profile]], [[Mark Green]]"
 source-types:
   - FEC
+last-enriched: 2026-04-21
 ---
 
 

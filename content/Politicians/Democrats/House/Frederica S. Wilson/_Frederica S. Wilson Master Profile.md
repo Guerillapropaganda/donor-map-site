@@ -27,6 +27,7 @@ bills-cosponsored: 451
 bills-enacted: 0
 top-policy-area: Health
 top-donors: "[[Ballard Partners]], [[NextEra Energy]], [[Fanjul Family - Florida Crystals]]"
+last-enriched: 2026-04-21
 ---
 
 

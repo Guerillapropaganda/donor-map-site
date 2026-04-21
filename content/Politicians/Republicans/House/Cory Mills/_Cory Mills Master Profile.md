@@ -28,6 +28,7 @@ bills-cosponsored: 239
 bills-enacted: 2
 top-policy-area: International Affairs
 top-donors: "[[National Association of Realtors]], [[AT&T - WarnerMedia]], [[National Rifle Association]], [[American Hospital Association PAC]], [[Congressional Leadership Fund]], [[Jim Jordan]], [[Adrian Smith]], [[AIPAC - American Israel Public Affairs Committee]], [[Duke Energy]], [[NRCC - National Republican Congressional Committee]], [[Club for Growth INC PAC]], [[General Dynamics]], [[Darrell Issa]], [[National Right to Life Victory Fund]], [[Honeywell]], [[WinRed]], [[Lockheed Martin]], [[MAJORITY PAC]], [[Madison Project Inc.]], [[Truth and Courage PAC]], [[REPUBLICAN PARTY OF FLORIDA]], [[Comcast - NBCUniversal]], [[NextEra Energy]], [[Ron Estes]], [[Ben Cline]], [[Tzedek PAC]], [[National Cattlemen's Beef Association]], [[Jake Ellzey]], [[Chevron]], [[Gun Owners of America]], [[Leidos]], [[Byron Donalds]], [[American Conservative Union]], [[L3Harris Technologies]], [[Northrop Grumman]], [[Anduril Industries]], [[Fanjul Family - Florida Crystals]], [[Ballard Partners]], [[Heritage Foundation]], [[Walmart]], [[Honeywell International]], [[AT&T]], [[Majority PAC]], [[Republican Party of Florida]]"
+last-enriched: 2026-04-21
 ---
 
 

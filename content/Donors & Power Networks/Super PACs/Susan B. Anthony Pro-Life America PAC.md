@@ -1,7 +1,7 @@
 ---
 title: "Susan B. Anthony Pro-Life America PAC"
 type: pac
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 2
 parent: null
@@ -19,6 +19,7 @@ checklist-na:
   - "regulatory: auto: entity type \"pac\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"pac\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+last-enriched: 2026-04-20
 ---
 
 

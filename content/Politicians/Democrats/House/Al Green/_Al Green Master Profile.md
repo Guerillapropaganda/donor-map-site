@@ -27,6 +27,7 @@ bills-cosponsored: 432
 bills-enacted: 0
 top-policy-area: Health
 top-donors: "[[Chevron]]"
+last-enriched: 2026-04-21
 ---
 
 

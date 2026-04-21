@@ -28,6 +28,7 @@ bills-cosponsored: 635
 bills-enacted: 0
 top-policy-area: Health
 top-donors: "[[League of Conservation Voters]], [[Emily's List]]"
+last-enriched: 2026-04-21
 ---
 
 

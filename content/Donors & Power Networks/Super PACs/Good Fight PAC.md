@@ -22,6 +22,7 @@ total-spent: 3350000
 independent-expenditures: 3325728
 contributions-to-committees: 10419
 politicians-funded: "[[Nikki Haley]], [[Ron DeSantis]], [[Donald Trump]]"
+last-enriched: 2026-04-21
 ---
 
 

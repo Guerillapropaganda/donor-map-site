@@ -54,6 +54,7 @@ cash-on-hand: 91612372
 independent-expenditures: 4549074
 individual-contributions: 81685837
 contributions-to-committees: 5331200
+last-enriched: 2026-04-21
 ---
 
 

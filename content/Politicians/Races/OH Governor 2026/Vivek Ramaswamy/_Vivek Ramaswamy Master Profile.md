@@ -35,6 +35,7 @@ checklist-na:
   - "voting-records: Never held elected office (candidate)"
   - "committee-assignments: Never held elected office (candidate)"
 urls-first-triaged: "2026-04-15"
+last-enriched: 2026-04-21
 ---
 
 

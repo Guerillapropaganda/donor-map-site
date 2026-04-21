@@ -39,6 +39,7 @@ donors: "[[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[A
 urls-first-triaged: "2026-04-15"
 bills-enacted: 0
 top-policy-area: Armed Forces and National Security
+last-enriched: 2026-04-20
 ---
 
 

@@ -22,6 +22,7 @@ total-spent: 5104
 contributions-to-committees: 1817
 source-types:
   - FEC
+last-enriched: 2026-04-21
 ---
 
 

@@ -27,6 +27,7 @@ bills-cosponsored: 259
 bills-enacted: 2
 top-policy-area: International Affairs
 top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[Enterprise Products Partners]], [[HBW Resources]], [[RNC - Republican National Committee]], [[Goldman Sachs]], [[Valero Energy]], [[Morgan Stanley]], [[Hawaiian Electric Company]], [[Verizon]], [[Charles Schwab]], [[Chevron]], [[Blackstone Group]], [[ConocoPhillips]], [[Google - Alphabet]], [[Las Vegas Sands]], [[CoreCivic]], [[CBRE Group]], [[US CHAMBER OF COMMERCE]], [[Anduril Industries]], [[FTX - Sam Bankman-Fried]], [[Comcast - NBCUniversal]], [[Citadel - Kenneth Griffin]], [[Wells Fargo]], [[US Chamber of Commerce]]"
+last-enriched: 2026-04-21
 ---
 
 

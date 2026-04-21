@@ -22,6 +22,7 @@ cash-on-hand: 304257
 related: "[[Katie Britt]]"
 source-types:
   - FEC
+last-enriched: 2026-04-21
 ---
 
 

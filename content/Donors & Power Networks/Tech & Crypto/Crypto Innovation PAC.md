@@ -19,6 +19,7 @@ checklist-na:
 urls-first-triaged: "2026-04-15"
 cash-on-hand: 6397
 politicians-funded: "[[John Boozman]], [[Patrick McHenry]], [[Markwayne Mullin]], [[Erin Houchin]], [[Eric Schmitt]]"
+last-enriched: 2026-04-21
 ---
 
 

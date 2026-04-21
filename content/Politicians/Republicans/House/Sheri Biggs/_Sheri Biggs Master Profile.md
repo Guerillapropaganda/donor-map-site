@@ -24,6 +24,7 @@ known-gaps:
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4SC01313
 top-donors: "[[American Hospital Association PAC]], [[Duke Energy]], [[Mike Haridopolos]], [[National Rifle Association]], [[Honeywell]], [[Austin Scott]], [[AIPAC - American Israel Public Affairs Committee]], [[National Association of Realtors]], [[Chevron]], [[National Restaurant Association]], [[Freedom's Defense Fund]], [[Care Action]], [[Troy Downing]], [[VIEW PAC - Value in Electing Women]], [[Nucor Corporation]], [[Lockheed Martin]], [[Anthem - Elevance Health]], [[Associated General Contractors of America Political Action Committee]], [[Jake Ellzey]], [[MAJORITY PAC]], [[Jim Jordan]], [[Honeywell International]], [[Majority PAC]]"
+last-enriched: 2026-04-21
 ---
 
 

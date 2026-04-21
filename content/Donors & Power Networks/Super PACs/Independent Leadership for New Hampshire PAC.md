@@ -21,6 +21,7 @@ total-spent: 763
 related: "[[Jeanne Shaheen]]"
 source-types:
   - FEC
+last-enriched: 2026-04-21
 ---
 
 

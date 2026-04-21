@@ -24,6 +24,7 @@ known-gaps:
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4LA06211
 top-donors: "[[Robert Garcia]], [[Walmart - Walton Family]], [[National Association of Realtors]], [[AT&T - WarnerMedia]], [[SEIU COPE]], [[American Hospital Association PAC]], [[American Federation of State County & Municipal Employees P E O P L E]], [[National Multifamily Housing Council]], [[Ted Lieu]], [[NEA Fund for Children and Public Education]], [[IBEW - International Brotherhood of Electrical Workers]], [[UnitedHealth Group - Optum]], [[Chevron]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[AT&T]]"
+last-enriched: 2026-04-21
 ---
 
 

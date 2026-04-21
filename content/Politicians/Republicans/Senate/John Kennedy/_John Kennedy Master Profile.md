@@ -34,6 +34,7 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 donors: "[[Goldman Sachs]], [[ExxonMobil]], [[Koch Industries]], [[ConocoPhillips]], [[Anthem - Elevance Health]], [[American Hospital Association PAC]], [[Northrop Grumman]], [[Save America PAC]], [[Marathon Petroleum]], [[Common Sense for America PAC]], [[Raytheon (RTX)]], [[Really American Pac]], [[Comcast - NBCUniversal]], [[Associated General Contractors of America Political Action Committee]], [[Chevron]], [[AT&T - WarnerMedia]], [[L3Harris Technologies]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[General Motors]], [[Duke Energy]], [[WinRed]], [[AIPAC - American Israel Public Affairs Committee]], [[American Chemistry Council, INC]], [[Valero Energy]], [[PG&E - Pacific Gas and Electric]], [[Lockheed Martin]], [[Honeywell]], [[National Victory Action Fund]], [[Halliburton]], [[Citigroup]], [[Ford Motor Company]], [[Pfizer Inc.]], [[Walmart - Walton Family]], [[Occidental Petroleum]], [[National Association of Realtors]], [[National Restaurant Association]], [[Clearpath Action Fund, Inc.]], [[National Rifle Association]], [[Honeywell International]], [[AT&T]]"
 bills-enacted: 1
 top-policy-area: Finance and Financial Sector
+last-enriched: 2026-04-20
 ---
 
 

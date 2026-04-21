@@ -17,6 +17,7 @@ source-types:
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H6CA38139
 top-donors: "[[IBEW - International Brotherhood of Electrical Workers]], [[UnitedHealth Group - Optum]], [[Verizon]], [[Kaiser Permanente]], [[Pfizer Inc.]], [[CBRE Group]]"
+last-enriched: 2026-04-21
 ---
 
 

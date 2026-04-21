@@ -21,6 +21,7 @@ urls-first-triaged: "2026-04-15"
 total-spent: 2246
 source-types:
   - FEC
+last-enriched: 2026-04-21
 ---
 
 

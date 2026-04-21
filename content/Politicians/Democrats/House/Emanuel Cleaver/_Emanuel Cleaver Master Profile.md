@@ -28,6 +28,7 @@ bills-cosponsored: 557
 bills-enacted: 0
 top-policy-area: Health
 top-donors: "[[Google - Alphabet]], [[Pete Aguilar]], [[IBEW - International Brotherhood of Electrical Workers]], [[AT&T - WarnerMedia]], [[National Association of Realtors]], [[Walmart - Walton Family]], [[American Hospital Association PAC]], [[League of Conservation Voters]], [[National Association of Manufacturers]], [[UA Political Action Committee]], [[Citigroup]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[J Street]], [[Medicare for All - The Policy That Broke the Party]], [[SEIU COPE]], [[Teamsters - International Brotherhood of Teamsters]], [[Comcast - NBCUniversal]], [[Ford Motor Company]], [[NEA Fund for Children and Public Education]], [[National Multifamily Housing Council]], [[Bonnie Watson Coleman]], [[Progressive Turnout Project]], [[NextEra Energy]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Planned Parenthood Votes]], [[Honeywell]], [[Sierra Club Independent Action]], [[General Motors]], [[General Dynamics]], [[AIPAC - American Israel Public Affairs Committee]], [[Morgan Stanley]], [[Ted Lieu]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Microsoft]], [[Bank of America]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[AT&T]], [[Honeywell International]]"
+last-enriched: 2026-04-21
 ---
 
 

@@ -17,6 +17,7 @@ known-gaps:
   - "No voting record data"
 related: "[[_Donald Trump Master Profile]] · [[_Stephen Miller Master Profile|Stephen Miller]] · [[_Steve Bannon Master Profile|Steve Bannon]] · [[_Pete Hegseth Master Profile]]"
 urls-first-triaged: "2026-04-15"
+last-enriched: 2026-04-21
 ---
 
 

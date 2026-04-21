@@ -27,6 +27,7 @@ bills-cosponsored: 276
 bills-enacted: 0
 top-policy-area: Armed Forces and National Security
 top-donors: "[[Kaiser Permanente]], [[Lockheed Martin]], [[Amazon]], [[Open Society Foundations]], [[America Votes]], [[Google - Alphabet]], [[Anduril Industries]], [[Leidos]], [[Morgan Stanley]], [[Oracle]], [[Tesla - Elon Musk Political Operation]], [[UPS]], [[Bank of America]], [[Cigna Group]], [[Teamsters - International Brotherhood of Teamsters]], [[Meta - Facebook]], [[Cargill]], [[UnitedHealth Group - Optum]], [[AT&T]], [[Gilead Sciences]], [[SpaceX]], [[L3Harris Technologies]], [[Tyson Foods]], [[Microsoft]], [[Apple]], [[New Venture Fund]], [[Amgen Inc]], [[Palantir Technologies]], [[a16z - Andreessen Horowitz]], [[TikTok - ByteDance]], [[CBRE Group]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[Coinbase]], [[Ballard Partners]]"
+last-enriched: 2026-04-21
 ---
 
 

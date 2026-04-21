@@ -19,6 +19,7 @@ donors: "[[Judicial Crisis Network]] · [[Federalist Society]] · [[Harlan Crow]
 urls-first-triaged: "2026-04-15"
 source-types:
   - Congress
+last-enriched: 2026-04-21
 ---
 
 

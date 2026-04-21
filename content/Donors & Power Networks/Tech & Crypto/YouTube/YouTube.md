@@ -19,6 +19,7 @@ employee-contributions: 447
 employee-contributions-total: 133279
 employee-donor-count: 97
 politicians-funded: "[[ActBlue]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Google - Alphabet]], [[_Thomas Massie Master Profile]], [[_Jon Ossoff Master Profile]], [[_Josh Harder Master Profile]], [[Bernie Moreno]], [[RNC - Republican National Committee]], [[WinRed]], [[NRSC - National Republican Senatorial Committee]], [[Mark Kelly]], [[Marianne Williamson]], [[_Kamala Harris Master Profile]], [[_Derek Tran Master Profile]], [[Jon Ossoff]], [[Thomas Massie]], [[Josh Harder]], [[Kamala Harris]], [[Derek Tran]]"
+last-enriched: 2026-04-21
 ---
 
 

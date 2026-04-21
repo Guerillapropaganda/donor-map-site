@@ -54,6 +54,7 @@ checklist-na:
 total-raised: 9719342
 total-spent: 7367222
 cash-on-hand: 2355043
+last-enriched: 2026-04-20
 ---
 
 
