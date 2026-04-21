@@ -54,10 +54,15 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.ArticleTitle(),
       condition: (page) => page.fileData.slug !== "index",
     }),
-    // ADR-0017: auto-generated banner for data-complete profiles.
-    // Renders above ArticleTitle-adjacent metadata so readers see the
-    // "not editorially reviewed" framing before any of the profile content.
-    Component.DataCompleteBanner(),
+    // ADR-0017: DataCompleteBanner removed from layout 2026-04-21.
+    // Initial deploy review: the banner sat atop profiles with real
+    // editorial substance (Harlan Crow etc.) and felt like a disclaimer
+    // on work that was further along than the tier label implied. Also
+    // the under-construction strategy is that data-complete profiles
+    // don't publish publicly until rendering (tabs + auto-block layout)
+    // is right. Component file preserved in quartz/components/ for
+    // future re-introduction if the design story calls for it.
+    // Component.DataCompleteBanner(),
     Component.ConditionalRender({
       component: Component.HeroContradiction(),
       condition: (page) => {

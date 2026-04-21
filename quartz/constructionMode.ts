@@ -73,6 +73,19 @@ function findRepoRoot(): string {
 // ADR-0017: profile types eligible for tier-based publication.
 // A page with one of these types + content-readiness in
 // PUBLISHABLE_READINESS bypasses the allowlist.
+//
+// TIER_GATED_PUBLISHING kill-switch (2026-04-21, post-deploy review):
+// tier-based publication was shipped but the rendering wasn't ready
+// for ~7,000 pages. Auto-blocks piled into the main body; ProfileTabs
+// couldn't locate its expected section IDs; archived-only Sources
+// lists rendered awkwardly; banner sat atop profiles that already had
+// substantive editorial work (Harlan Crow etc). Flipped off while we
+// fix the rendering template. Frontmatter classification (ADR-0017's
+// backend) continues to run — 446 profiles stay stamped as
+// data-complete. Only public exposure is paused. Flip to `true` when
+// ProfileTabs handles data-complete profiles cleanly and content is
+// organized into tabs instead of a single long page.
+const TIER_GATED_PUBLISHING = false
 const PUBLISHABLE_PROFILE_TYPES = new Set<string>([
   "politician", "state-politician", "local-politician",
   "donor", "corporation", "pac", "think-tank", "lobbying-firm",
@@ -97,7 +110,9 @@ export function isAllowedSlug(
   if (!isConstructionMode) return true
 
   // Gate 2 (ADR-0017): tier-based publication for profile types.
-  if (frontmatter) {
+  // Kill-switch: TIER_GATED_PUBLISHING must be true for this gate to
+  // admit anything. When false, only the explicit allowlist applies.
+  if (TIER_GATED_PUBLISHING && frontmatter) {
     const type = String(frontmatter.type ?? "")
     const readiness = String(
       frontmatter["content-readiness"] ?? frontmatter.readiness ?? "",
