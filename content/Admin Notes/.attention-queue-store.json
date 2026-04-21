@@ -2,41 +2,13 @@
   "hallucination-catcher": [
     {
       "bucket": "deciding",
-      "what": "PhRMA - Pharmaceutical Research and Manufacturers of America: 52 unsupported claims",
-      "why": "Ready profile has \"$371.6 billion\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Donors & Power Networks/Pharma & Healthcare/PhRMA.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-21",
-      "metadata": {
-        "claimCount": 52,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "AIPAC - American Israel Public Affairs Committee: 35 unsupported claims",
-      "why": "Ready profile has \"$126.9 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Donors & Power Networks/Israel Lobby/AIPAC - American Israel Public Affairs Committee.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-21",
-      "metadata": {
-        "claimCount": 35,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
       "what": "Heritage Foundation: 30 unsupported claims",
       "why": "Ready profile has \"60% of\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
       "where": "content/Think Tanks & Policy Infrastructure/Conservative/Heritage Foundation.md",
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-21",
+      "created": "2026-04-11",
       "metadata": {
         "claimCount": 30,
         "readiness": "ready"
@@ -44,15 +16,29 @@
     },
     {
       "bucket": "deciding",
-      "what": "Raytheon (RTX Corporation): 26 unsupported claims",
+      "what": "Raytheon (RTX Corporation): 25 unsupported claims",
       "why": "Ready profile has \"$88.6 billion\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
       "where": "content/Donors & Power Networks/Defense & Intelligence/Raytheon (RTX).md",
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-21",
+      "created": "2026-04-11",
       "metadata": {
-        "claimCount": 26,
+        "claimCount": 25,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "AIPAC - American Israel Public Affairs Committee: 25 unsupported claims",
+      "why": "Ready profile has \"$126.9 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Donors & Power Networks/Israel Lobby/AIPAC - American Israel Public Affairs Committee.md",
+      "cost_min": 15,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 25,
         "readiness": "ready"
       }
     },
@@ -64,7 +50,7 @@
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-21",
+      "created": "2026-04-11",
       "metadata": {
         "claimCount": 24,
         "readiness": "ready"
@@ -72,13 +58,13 @@
     },
     {
       "bucket": "deciding",
-      "what": "The Shared Sponsor Map , Corporate Advertisers Funding Both Left and Right Political Media: 24 unsupported claims",
+      "what": "The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media: 24 unsupported claims",
       "why": "Ready profile has \"$10.8 billion\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
       "where": "content/Media & Influence Pipeline/The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media.md",
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-21",
+      "created": "2026-04-11",
       "metadata": {
         "claimCount": 24,
         "readiness": "ready"
@@ -92,23 +78,9 @@
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-21",
+      "created": "2026-04-11",
       "metadata": {
         "claimCount": 23,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Lockheed Martin: 20 unsupported claims",
-      "why": "Ready profile has \"$14B\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Donors & Power Networks/Defense & Intelligence/Lockheed Martin.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-21",
-      "metadata": {
-        "claimCount": 20,
         "readiness": "ready"
       }
     },
@@ -120,7 +92,7 @@
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-21",
+      "created": "2026-04-11",
       "metadata": {
         "claimCount": 20,
         "readiness": "ready"
@@ -134,37 +106,9 @@
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-21",
+      "created": "2026-04-11",
       "metadata": {
         "claimCount": 20,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Jon Ossoff: 19 unsupported claims",
-      "why": "Ready profile has \"$106.8 million\" in the Who He Is section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Politicians/Democrats/Senate/Jon Ossoff/_Jon Ossoff Master Profile.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-21",
-      "metadata": {
-        "claimCount": 19,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Jeffrey Yass: 18 unsupported claims",
-      "why": "Ready profile has \"7% of\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Donors & Power Networks/Mega-Donors/Jeffrey Yass.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-21",
-      "metadata": {
-        "claimCount": 18,
         "readiness": "ready"
       }
     },
@@ -176,35 +120,7 @@
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-21",
-      "metadata": {
-        "claimCount": 17,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Koch Industries: 17 unsupported claims",
-      "why": "Ready profile has \"75% of\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Donors & Power Networks/Energy & Utilities/Koch Industries.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-21",
-      "metadata": {
-        "claimCount": 17,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "DonorsTrust: 17 unsupported claims",
-      "why": "Ready profile has \"30% of\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Donors & Power Networks/Super PACs/DonorsTrust.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-21",
+      "created": "2026-04-11",
       "metadata": {
         "claimCount": 17,
         "readiness": "ready"
@@ -218,51 +134,9 @@
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-21",
+      "created": "2026-04-11",
       "metadata": {
         "claimCount": 17,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Trump 2024 Campaign: 16 unsupported claims",
-      "why": "Ready profile has \"$1.45 billion\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Donors & Power Networks/Dark Money/Trump 2024 Campaign.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-21",
-      "metadata": {
-        "claimCount": 16,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "US Chamber of Commerce: 16 unsupported claims",
-      "why": "Ready profile has \"$81 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Donors & Power Networks/Dark Money/US Chamber of Commerce.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-21",
-      "metadata": {
-        "claimCount": 16,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Anthem - Elevance Health: 16 unsupported claims",
-      "why": "Ready profile has \"$20.5 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Donors & Power Networks/Healthcare/Anthem - Elevance Health.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-21",
-      "metadata": {
-        "claimCount": 16,
         "readiness": "ready"
       }
     },
@@ -274,21 +148,7 @@
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-21",
-      "metadata": {
-        "claimCount": 16,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Club for Growth: 16 unsupported claims",
-      "why": "Ready profile has \"$163 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Donors & Power Networks/Super PACs/Club for Growth.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-21",
+      "created": "2026-04-11",
       "metadata": {
         "claimCount": 16,
         "readiness": "ready"
@@ -302,7 +162,7 @@
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-21",
+      "created": "2026-04-11",
       "metadata": {
         "claimCount": 16,
         "readiness": "ready"
@@ -316,7 +176,7 @@
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-21",
+      "created": "2026-04-11",
       "metadata": {
         "claimCount": 14,
         "readiness": "ready"
@@ -324,512 +184,186 @@
     },
     {
       "bucket": "deciding",
-      "what": "2026 House Money Map: 14 unsupported claims",
-      "why": "Ready profile has \"$78 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "what": "Uber: 14 unsupported claims",
+      "why": "Ready profile has \"2020, shortly after Prop 22 passed\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Donors & Power Networks/Gig Economy/Uber.md",
+      "cost_min": 15,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 14,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Stand Together: 13 unsupported claims",
+      "why": "Ready profile has \"$578 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Donors & Power Networks/Dark Money/Stand Together.md",
+      "cost_min": 15,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 13,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "American Petroleum Institute: 13 unsupported claims",
+      "why": "Ready profile has \"86.4% of\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Donors & Power Networks/Energy & Utilities/American Petroleum Institute.md",
+      "cost_min": 15,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 13,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "American Farm Bureau Federation: 12 unsupported claims",
+      "why": "Ready profile has \"$732 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Donors & Power Networks/Agriculture/American Farm Bureau Federation.md",
+      "cost_min": 14,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 12,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Kenneth Griffin: 12 unsupported claims",
+      "why": "Ready profile has \"8% increase\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Donors & Power Networks/Mega-Donors/Kenneth Griffin.md",
+      "cost_min": 14,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 12,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "2026 House Money Map: 12 unsupported claims",
+      "why": "Ready profile has \"2024 cycle, UDP spent\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
       "where": "content/Stories/Published/2026 House Races/2026 House Money Map.md",
-      "cost_min": 15,
+      "cost_min": 14,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-21",
+      "created": "2026-04-11",
       "metadata": {
-        "claimCount": 14,
+        "claimCount": 12,
         "readiness": "ready"
       }
     },
     {
       "bucket": "deciding",
-      "what": "Brookings Institution: 14 unsupported claims",
-      "why": "Ready profile has \"64.5% of\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Think Tanks & Policy Infrastructure/Centrist/Brookings Institution.md",
-      "cost_min": 15,
+      "what": "Texas 2026 Senate Race: 12 unsupported claims",
+      "why": "Ready profile has \"47% of\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Stories/Published/2026 Senate Races/Texas 2026 Senate Race.md",
+      "cost_min": 14,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-21",
+      "created": "2026-04-11",
       "metadata": {
-        "claimCount": 14,
+        "claimCount": 12,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Insurance Industry Writes Its Own Regulation Through Both Parties: 12 unsupported claims",
+      "why": "Ready profile has \"$853 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Stories/Published/Contradiction Deep Dives/Contradiction 17 - Insurance Industry Writes Its Own Regulation Through Both Parties.md",
+      "cost_min": 14,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 12,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Elon Musk: 11 unsupported claims",
+      "why": "Ready profile has \"$5.9 billion\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Donors & Power Networks/Mega-Donors/Elon Musk.md",
+      "cost_min": 13,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 11,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "New Hampshire 2026 Senate Race: 11 unsupported claims",
+      "why": "Ready profile has \"$2.3B\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Stories/Published/2026 Senate Races/New Hampshire 2026 Senate Race.md",
+      "cost_min": 13,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 11,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Harris-Newsom Donor Class Fracture: 11 unsupported claims",
+      "why": "Ready profile has \"$24M\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Stories/Published/2028 Presidential Race/Harris-Newsom Donor Class Fracture.md",
+      "cost_min": 13,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 11,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides: 11 unsupported claims",
+      "why": "Ready profile has \"10% of\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Stories/Published/Contradiction Deep Dives/Contradiction 16 - Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides.md",
+      "cost_min": 13,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 11,
         "readiness": "ready"
       }
     }
   ],
   "voice-drift-detector": [
     {
-      "bucket": "blocking",
-      "what": "Gun Owners of America: voice rule violations",
-      "why": "Ready profile contains 1 em dash in body, avg sentence length 30 words (target ~20). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Dark Money/Gun Owners of America.md",
-      "cost_min": 3,
-      "leverage": 5,
+      "bucket": "deciding",
+      "what": "Colorado 2026 Senate Race: voice drift from baseline",
+      "why": "Profile body drifted from your baseline voice on 2 dimensions: avg sentence length 17 words (target ~29), hedging language usage 1.0/100 words (target < 0.0). Review the rewrite history and realign if appropriate.",
+      "where": "content/Stories/Published/2026 Senate Races/Colorado 2026 Senate Race.md",
+      "cost_min": 8,
+      "leverage": 3,
       "source": "voice-drift-detector",
-      "created": "2026-04-21",
+      "created": "2026-04-12",
       "metadata": {
-        "hardFails": [
-          "1 em dash in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Media Matters: voice rule violations",
-      "why": "Ready profile contains 1 em dash in body, avg sentence length 34 words (target ~20). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Dark Money/Media Matters.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "hardFails": [
-          "1 em dash in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Sentinel Action Fund: voice rule violations",
-      "why": "Ready profile contains 5 em dashes in body, avg sentence length 30 words (target ~20). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Super PACs/Sentinel Action Fund.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "hardFails": [
-          "5 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Tim Walz: voice rule violations",
-      "why": "Ready profile contains 8 em dashes in body, low specific-number density 0.1/100 words (target ~0.7). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Politicians/Democrats/Governors/Tim Walz/_Tim Walz Master Profile.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "hardFails": [
-          "8 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Zoe Lofgren: voice rule violations",
-      "why": "Ready profile contains 13 em dashes in body, low specific-number density 0.0/100 words (target ~0.7). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Politicians/Democrats/House/Zoe Lofgren/_Zoe Lofgren Master Profile.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "hardFails": [
-          "13 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Alex Padilla: voice rule violations",
-      "why": "Ready profile contains 16 em dashes in body, low specific-number density 0.0/100 words (target ~0.7). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Politicians/Democrats/Senate/Alex Padilla/_Alex Padilla Master Profile.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "hardFails": [
-          "16 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Harry Reid: voice rule violations",
-      "why": "Ready profile contains 4 em dashes in body, low specific-number density 0.1/100 words (target ~0.7). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Politicians/Democrats/Senate/Harry Reid/_Harry Reid Master Profile.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "hardFails": [
-          "4 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "California Farm Bureau Federation: voice rule violations",
-      "why": "Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Agriculture/California Farm Bureau Federation.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "hardFails": [
-          "1 em dash in body"
-        ],
-        "drift": 0
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Cargill: voice rule violations",
-      "why": "Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Agriculture/Cargill.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "hardFails": [
-          "1 em dash in body"
-        ],
-        "drift": 0
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "John Deere: voice rule violations",
-      "why": "Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Agriculture/John Deere.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "hardFails": [
-          "1 em dash in body"
-        ],
-        "drift": 0
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "National Cattlemen's Beef Association: voice rule violations",
-      "why": "Ready profile contains 4 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Agriculture/National Cattlemen's Beef Association.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "hardFails": [
-          "4 em dashes in body"
-        ],
-        "drift": 0
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Tyson Foods: voice rule violations",
-      "why": "Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Agriculture/Tyson Foods.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "hardFails": [
-          "1 em dash in body"
-        ],
-        "drift": 0
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Western Growers Association: voice rule violations",
-      "why": "Ready profile contains 30 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Agriculture/Western Growers Association.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "hardFails": [
-          "30 em dashes in body"
-        ],
-        "drift": 0
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "CCPOA - California Correctional Peace Officers Association: voice rule violations",
-      "why": "Ready profile contains 19 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Carceral State/CCPOA - California Correctional Peace Officers Association.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "hardFails": [
-          "19 em dashes in body"
-        ],
-        "drift": 0
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Ballard Partners: voice rule violations",
-      "why": "Ready profile contains 2 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Dark Money/Ballard Partners.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "hardFails": [
-          "2 em dashes in body"
-        ],
-        "drift": 0
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Brady Campaign: voice rule violations",
-      "why": "Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Dark Money/Brady Campaign.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "hardFails": [
-          "1 em dash in body"
-        ],
-        "drift": 0
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Business Roundtable: voice rule violations",
-      "why": "Ready profile contains 2 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Dark Money/Business Roundtable.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "hardFails": [
-          "2 em dashes in body"
-        ],
-        "drift": 0
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Donors Capital Fund: voice rule violations",
-      "why": "Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Dark Money/Donors Capital Fund.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "hardFails": [
-          "1 em dash in body"
-        ],
-        "drift": 0
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Environmental Law & Policy Center: voice rule violations",
-      "why": "Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Dark Money/Environmental Law & Policy Center.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "hardFails": [
-          "1 em dash in body"
-        ],
-        "drift": 0
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Ocean Conservancy: voice rule violations",
-      "why": "Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Dark Money/Ocean Conservancy.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "hardFails": [
-          "1 em dash in body"
-        ],
-        "drift": 0
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Trump Donor Coalition: voice rule violations",
-      "why": "Ready profile contains 23 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Dark Money/Trump Donor Coalition.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "hardFails": [
-          "23 em dashes in body"
-        ],
-        "drift": 0
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Defense Contractors: voice rule violations",
-      "why": "Ready profile contains 2 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Defense & Intelligence/Defense Contractors.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "hardFails": [
-          "2 em dashes in body"
-        ],
-        "drift": 0
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "L3Harris Technologies: voice rule violations",
-      "why": "Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Defense & Intelligence/L3Harris Technologies.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "hardFails": [
-          "1 em dash in body"
-        ],
-        "drift": 0
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Northrop Grumman: voice rule violations",
-      "why": "Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Defense & Intelligence/Northrop Grumman.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "hardFails": [
-          "1 em dash in body"
-        ],
-        "drift": 0
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Anthem - Elevance Health: voice rule violations",
-      "why": "Ready profile contains 13 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Healthcare/Anthem - Elevance Health.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "hardFails": [
-          "13 em dashes in body"
-        ],
-        "drift": 0
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Comcast - NBCUniversal: voice rule violations",
-      "why": "Ready profile contains 15 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Media & Entertainment/Comcast - NBCUniversal.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "hardFails": [
-          "15 em dashes in body"
-        ],
-        "drift": 0
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Jeffrey Katzenberg: voice rule violations",
-      "why": "Ready profile contains 7 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Mega-Donors/Jeffrey Katzenberg.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "hardFails": [
-          "7 em dashes in body"
-        ],
-        "drift": 0
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Narya Capital: voice rule violations",
-      "why": "Ready profile contains 19 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Mega-Donors/Narya Capital.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "hardFails": [
-          "19 em dashes in body"
-        ],
-        "drift": 0
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Timothy Mellon: voice rule violations",
-      "why": "Ready profile contains 2 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Mega-Donors/Timothy Mellon.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "hardFails": [
-          "2 em dashes in body"
-        ],
-        "drift": 0
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Meatpacking Corporations: voice rule violations",
-      "why": "Ready profile contains 29 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Pharma & Healthcare/Meatpacking Corporations.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "hardFails": [
-          "29 em dashes in body"
-        ],
-        "drift": 0
+        "hardFails": [],
+        "drift": 2
       }
     }
   ],
@@ -850,6 +384,76 @@
     },
     {
       "bucket": "deciding",
+      "what": "ADM - Archer Daniels Midland funds both major parties",
+      "why": "ADM - Archer Daniels Midland appears in the politicians-funded / related lists of both Democratic AND Republican politicians in this vault. That is the classic transactional-donor pattern: influence flows to whoever wins, not to any ideology. Document the specific cycle splits (FEC data) and the bills each funded politician voted on that benefited ",
+      "where": "content/Story Seeds/cross-party-adm-archer-daniels-midland-funds-both-major-parties.md",
+      "cost_min": 25,
+      "leverage": 4,
+      "source": "contradiction-miner",
+      "created": "2026-04-21",
+      "metadata": {
+        "type": "cross-party",
+        "confidence": 4
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Raytheon (RTX Corporation) funds 14 Armed Services committee members",
+      "why": "Raytheon (RTX Corporation) shows up in the donor lists of 14 different Armed Services committee members: Adam Smith, Adam Smith, Adam Smith, Jack Reed, Jeanne Shaheen and 9 more. That's coordinated capture of an entire regulatory body. Pull FEC totals per member, cross-reference committee votes on bills affecting Raytheon (RTX Corporation)'s sector",
+      "where": "content/Story Seeds/committee-capture-raytheon-rtx-corporation-funds-14-armed-services-committee-mem.md",
+      "cost_min": 25,
+      "leverage": 4,
+      "source": "contradiction-miner",
+      "created": "2026-04-21",
+      "metadata": {
+        "type": "committee-capture",
+        "confidence": 4
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Barbara Lee: climate vs. fossil fuels contradiction",
+      "why": "Barbara Lee lists \"Environmental Protection\" as a tracked issue, but their donor list includes PG&E - Pacific Gas and Electric. Document the dollar amounts and the dates of their public stance vs. the dates of the donations. The contradiction is the story.",
+      "where": "content/Story Seeds/issue-contradiction-barbara-lee-climate-vs-fossil-fuels-contradiction.md",
+      "cost_min": 25,
+      "leverage": 3,
+      "source": "contradiction-miner",
+      "created": "2026-04-21",
+      "metadata": {
+        "type": "issue-contradiction",
+        "confidence": 3
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Southern Company appears in ICIJ Offshore Leaks (18 records, 7 leaks)",
+      "why": "Southern Company is a politically-active vault entity that ALSO appears in the ICIJ Offshore Leaks Database across: Panama Papers, Offshore Leaks, Paradise Papers - Bahamas corporate registry. Linked jurisdictions: Malta. Appearing in these files does not imply wrongdoing — but the combination of political spending + offshore footprint warrants a c",
+      "where": "content/Story Seeds/offshore-exposure-southern-company-appears-in-icij-offshore-leaks-18-records-7-l.md",
+      "cost_min": 25,
+      "leverage": 3,
+      "source": "contradiction-miner",
+      "created": "2026-04-21",
+      "metadata": {
+        "type": "offshore-exposure",
+        "confidence": 3
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Sherrod Brown sponsored 15 \"Housing and Community Development\" bills; top donors include 1 from matching sector",
+      "why": "Sherrod Brown has sponsored 15 bills in the \"Housing and Community Development\" policy area. Their top donors include: National Association of Realtors (Real Estate). This is the classic policy-capture-by-money pattern — legislator acts as a direct channel for donor industry interests. Pull the bill list (query Ask with `subject: bills, sponsor_bio",
+      "where": "content/Story Seeds/policy-capture-sponsorship-sherrod-brown-sponsored-15-housing-and-community-deve.md",
+      "cost_min": 25,
+      "leverage": 3,
+      "source": "contradiction-miner",
+      "created": "2026-04-21",
+      "metadata": {
+        "type": "policy-capture-sponsorship",
+        "confidence": 3
+      }
+    },
+    {
+      "bucket": "deciding",
       "what": "Cori Bush has Fairshake PAC in both donors and opposes",
       "why": "Fairshake PAC appears as both a funder and an adversary of Cori Bush. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story — the vault has the connection, nobody else does.",
       "where": "content/Story Seeds/both-sides-cori-bush-has-fairshake-pac-in-both-donors-and-opposes.md",
@@ -860,6 +464,76 @@
       "metadata": {
         "type": "both-sides",
         "confidence": 5
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Agricultural Labor Vulnerability Donors funds both major parties",
+      "why": "Agricultural Labor Vulnerability Donors appears in the politicians-funded / related lists of both Democratic AND Republican politicians in this vault. That is the classic transactional-donor pattern: influence flows to whoever wins, not to any ideology. Document the specific cycle splits (FEC data) and the bills each funded politician voted on that",
+      "where": "content/Story Seeds/cross-party-agricultural-labor-vulnerability-donors-funds-both-major-parties.md",
+      "cost_min": 25,
+      "leverage": 4,
+      "source": "contradiction-miner",
+      "created": "2026-04-21",
+      "metadata": {
+        "type": "cross-party",
+        "confidence": 4
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "National Restaurant Association funds 5 Armed Services committee members",
+      "why": "National Restaurant Association shows up in the donor lists of 5 different Armed Services committee members: Adam Smith, Deb Fischer, Markwayne Mullin, Rick Scott, Roger Wicker. That's coordinated capture of an entire regulatory body. Pull FEC totals per member, cross-reference committee votes on bills affecting National Restaurant Association's se",
+      "where": "content/Story Seeds/committee-capture-national-restaurant-association-funds-5-armed-services-committ.md",
+      "cost_min": 25,
+      "leverage": 4,
+      "source": "contradiction-miner",
+      "created": "2026-04-21",
+      "metadata": {
+        "type": "committee-capture",
+        "confidence": 4
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Frank Pallone: climate vs. fossil fuels contradiction",
+      "why": "Frank Pallone lists \"Environmental Protection\" as a tracked issue, but their donor list includes PG&E - Pacific Gas and Electric. Document the dollar amounts and the dates of their public stance vs. the dates of the donations. The contradiction is the story.",
+      "where": "content/Story Seeds/issue-contradiction-frank-pallone-climate-vs-fossil-fuels-contradiction.md",
+      "cost_min": 25,
+      "leverage": 3,
+      "source": "contradiction-miner",
+      "created": "2026-04-21",
+      "metadata": {
+        "type": "issue-contradiction",
+        "confidence": 3
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Apple appears in ICIJ Offshore Leaks (17 records, 6 leaks)",
+      "why": "Apple is a politically-active vault entity that ALSO appears in the ICIJ Offshore Leaks Database across: Panama Papers, Offshore Leaks, Paradise Papers - Appleby. Linked jurisdictions: Panama. Appearing in these files does not imply wrongdoing — but the combination of political spending + offshore footprint warrants a closer look. Query Ask with `s",
+      "where": "content/Story Seeds/offshore-exposure-apple-appears-in-icij-offshore-leaks-17-records-6-leaks.md",
+      "cost_min": 25,
+      "leverage": 3,
+      "source": "contradiction-miner",
+      "created": "2026-04-21",
+      "metadata": {
+        "type": "offshore-exposure",
+        "confidence": 3
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Adam Smith sponsored 25 \"Armed Forces and National Security\" bills; top donors include 6 from matching sector",
+      "why": "Adam Smith has sponsored 25 bills in the \"Armed Forces and National Security\" policy area. Their top donors include: L3Harris Technologies (Defense & Intelligence), BAE Systems (Defense & Intelligence), Northrop Grumman (Defense & Intelligence). This is the classic policy-capture-by-money pattern — legislator acts as a direct channel for donor indu",
+      "where": "content/Story Seeds/policy-capture-sponsorship-adam-smith-sponsored-25-armed-forces-and-national-sec.md",
+      "cost_min": 25,
+      "leverage": 3,
+      "source": "contradiction-miner",
+      "created": "2026-04-21",
+      "metadata": {
+        "type": "policy-capture-sponsorship",
+        "confidence": 3
       }
     },
     {
@@ -878,250 +552,71 @@
     },
     {
       "bucket": "deciding",
-      "what": "Jamaal Bowman has UNITED DEMOCRACY PROJECT ('UDP') in both donors and opposes",
-      "why": "UNITED DEMOCRACY PROJECT ('UDP') appears as both a funder and an adversary of Jamaal Bowman. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story — the vault has the connection, nobody else does.",
-      "where": "content/Story Seeds/both-sides-jamaal-bowman-has-united-democracy-project-udp-in-both-donors-and-opp.md",
+      "what": "CA Farm Bureau Federation funds both major parties",
+      "why": "CA Farm Bureau Federation appears in the politicians-funded / related lists of both Democratic AND Republican politicians in this vault. That is the classic transactional-donor pattern: influence flows to whoever wins, not to any ideology. Document the specific cycle splits (FEC data) and the bills each funded politician voted on that benefited CA ",
+      "where": "content/Story Seeds/cross-party-ca-farm-bureau-federation-funds-both-major-parties.md",
       "cost_min": 25,
-      "leverage": 5,
+      "leverage": 4,
       "source": "contradiction-miner",
       "created": "2026-04-21",
       "metadata": {
-        "type": "both-sides",
-        "confidence": 5
+        "type": "cross-party",
+        "confidence": 4
       }
     },
     {
       "bucket": "deciding",
-      "what": "Jamaal Bowman has DMFI - Democratic Majority for Israel in both donors and opposes",
-      "why": "DMFI - Democratic Majority for Israel appears as both a funder and an adversary of Jamaal Bowman. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story — the vault has the connection, nobody else does.",
-      "where": "content/Story Seeds/both-sides-jamaal-bowman-has-dmfi-democratic-majority-for-israel-in-both-donors-.md",
+      "what": "Lockheed Martin funds 10 Armed Services committee members",
+      "why": "Lockheed Martin shows up in the donor lists of 10 different Armed Services committee members: Adam Smith, Jack Reed, Jeanne Shaheen, Richard Blumenthal, Tammy Duckworth and 5 more. That's coordinated capture of an entire regulatory body. Pull FEC totals per member, cross-reference committee votes on bills affecting Lockheed Martin's sector, and wri",
+      "where": "content/Story Seeds/committee-capture-lockheed-martin-funds-10-armed-services-committee-members.md",
       "cost_min": 25,
-      "leverage": 5,
+      "leverage": 4,
       "source": "contradiction-miner",
       "created": "2026-04-21",
       "metadata": {
-        "type": "both-sides",
-        "confidence": 5
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Summer Lee has United Democracy Project in both donors and opposes",
-      "why": "United Democracy Project appears as both a funder and an adversary of Summer Lee. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story — the vault has the connection, nobody else does.",
-      "where": "content/Story Seeds/both-sides-summer-lee-has-united-democracy-project-in-both-donors-and-opposes.md",
-      "cost_min": 25,
-      "leverage": 5,
-      "source": "contradiction-miner",
-      "created": "2026-04-21",
-      "metadata": {
-        "type": "both-sides",
-        "confidence": 5
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Elizabeth Warren has Crypto Industry Bloc in both donors and opposes",
-      "why": "Crypto Industry Bloc appears as both a funder and an adversary of Elizabeth Warren. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story — the vault has the connection, nobody else does.",
-      "where": "content/Story Seeds/both-sides-elizabeth-warren-has-crypto-industry-bloc-in-both-donors-and-opposes.md",
-      "cost_min": 25,
-      "leverage": 5,
-      "source": "contradiction-miner",
-      "created": "2026-04-21",
-      "metadata": {
-        "type": "both-sides",
-        "confidence": 5
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Hillary Clinton has KENTUCKIANS FOR STRONG LEADERSHIP in both donors and opposes",
-      "why": "KENTUCKIANS FOR STRONG LEADERSHIP appears as both a funder and an adversary of Hillary Clinton. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story — the vault has the connection, nobody else does.",
-      "where": "content/Story Seeds/both-sides-hillary-clinton-has-kentuckians-for-strong-leadership-in-both-donors-.md",
-      "cost_min": 25,
-      "leverage": 5,
-      "source": "contradiction-miner",
-      "created": "2026-04-21",
-      "metadata": {
-        "type": "both-sides",
-        "confidence": 5
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "John Fetterman has AMERICAN CROSSROADS in both donors and opposes",
-      "why": "AMERICAN CROSSROADS appears as both a funder and an adversary of John Fetterman. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story — the vault has the connection, nobody else does.",
-      "where": "content/Story Seeds/both-sides-john-fetterman-has-american-crossroads-in-both-donors-and-opposes.md",
-      "cost_min": 25,
-      "leverage": 5,
-      "source": "contradiction-miner",
-      "created": "2026-04-21",
-      "metadata": {
-        "type": "both-sides",
-        "confidence": 5
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "John Fetterman has NRSC in both donors and opposes",
-      "why": "NRSC appears as both a funder and an adversary of John Fetterman. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story — the vault has the connection, nobody else does.",
-      "where": "content/Story Seeds/both-sides-john-fetterman-has-nrsc-in-both-donors-and-opposes.md",
-      "cost_min": 25,
-      "leverage": 5,
-      "source": "contradiction-miner",
-      "created": "2026-04-21",
-      "metadata": {
-        "type": "both-sides",
-        "confidence": 5
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Mark Kelly has NRSC in both donors and opposes",
-      "why": "NRSC appears as both a funder and an adversary of Mark Kelly. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story — the vault has the connection, nobody else does.",
-      "where": "content/Story Seeds/both-sides-mark-kelly-has-nrsc-in-both-donors-and-opposes.md",
-      "cost_min": 25,
-      "leverage": 5,
-      "source": "contradiction-miner",
-      "created": "2026-04-21",
-      "metadata": {
-        "type": "both-sides",
-        "confidence": 5
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Mark Kelly has DEFENDARIZONA in both donors and opposes",
-      "why": "DEFENDARIZONA appears as both a funder and an adversary of Mark Kelly. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story — the vault has the connection, nobody else does.",
-      "where": "content/Story Seeds/both-sides-mark-kelly-has-defendarizona-in-both-donors-and-opposes.md",
-      "cost_min": 25,
-      "leverage": 5,
-      "source": "contradiction-miner",
-      "created": "2026-04-21",
-      "metadata": {
-        "type": "both-sides",
-        "confidence": 5
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Mark Kelly has THE SENTINEL ACTION FUND in both donors and opposes",
-      "why": "THE SENTINEL ACTION FUND appears as both a funder and an adversary of Mark Kelly. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story — the vault has the connection, nobody else does.",
-      "where": "content/Story Seeds/both-sides-mark-kelly-has-the-sentinel-action-fund-in-both-donors-and-opposes.md",
-      "cost_min": 25,
-      "leverage": 5,
-      "source": "contradiction-miner",
-      "created": "2026-04-21",
-      "metadata": {
-        "type": "both-sides",
-        "confidence": 5
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Raphael Warnock has AMERICAN CROSSROADS in both donors and opposes",
-      "why": "AMERICAN CROSSROADS appears as both a funder and an adversary of Raphael Warnock. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story — the vault has the connection, nobody else does.",
-      "where": "content/Story Seeds/both-sides-raphael-warnock-has-american-crossroads-in-both-donors-and-opposes.md",
-      "cost_min": 25,
-      "leverage": 5,
-      "source": "contradiction-miner",
-      "created": "2026-04-21",
-      "metadata": {
-        "type": "both-sides",
-        "confidence": 5
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Raphael Warnock has PEACHTREE PAC in both donors and opposes",
-      "why": "PEACHTREE PAC appears as both a funder and an adversary of Raphael Warnock. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story — the vault has the connection, nobody else does.",
-      "where": "content/Story Seeds/both-sides-raphael-warnock-has-peachtree-pac-in-both-donors-and-opposes.md",
-      "cost_min": 25,
-      "leverage": 5,
-      "source": "contradiction-miner",
-      "created": "2026-04-21",
-      "metadata": {
-        "type": "both-sides",
-        "confidence": 5
+        "type": "committee-capture",
+        "confidence": 4
       }
     }
   ],
   "missing-profile-detector": [
     {
       "bucket": "compounding",
-      "what": "Build stub: AT&T - WarnerMedia",
-      "why": "Referenced by 268 other vault profiles but has no file yet. Building a stub unlocks 268 broken wikilinks and turns this entity into something other scripts can enrich. Sample: AT&T, News Corp - Fox Corporation, Telecom Industry.",
+      "what": "Build stub: PhRMA",
+      "why": "Referenced by 59 other vault profiles but has no file yet. Building a stub unlocks 59 broken wikilinks and turns this entity into something other scripts can enrich. Sample: ALEC - American Legislative Exchange Council, American Action Network, Healthcare Sector.",
       "where": "content/Admin Notes/missing-profiles.md",
       "cost_min": 10,
       "leverage": 5,
       "source": "missing-profile-detector",
-      "created": "2026-04-21",
+      "created": "2026-04-11",
       "metadata": {
-        "refCount": 268
+        "refCount": 59
       }
     },
     {
       "bucket": "compounding",
       "what": "Build stub: Raytheon (RTX)",
-      "why": "Referenced by 238 other vault profiles but has no file yet. Building a stub unlocks 238 broken wikilinks and turns this entity into something other scripts can enrich. Sample: BAE Systems, Boeing Defense, Defense Contractors.",
+      "why": "Referenced by 44 other vault profiles but has no file yet. Building a stub unlocks 44 broken wikilinks and turns this entity into something other scripts can enrich. Sample: BAE Systems, Boeing Defense, Defense Contractors.",
       "where": "content/Admin Notes/missing-profiles.md",
       "cost_min": 10,
       "leverage": 5,
       "source": "missing-profile-detector",
-      "created": "2026-04-21",
+      "created": "2026-04-11",
       "metadata": {
-        "refCount": 238
-      }
-    },
-    {
-      "bucket": "compounding",
-      "what": "Build stub: Honeywell",
-      "why": "Referenced by 212 other vault profiles but has no file yet. Building a stub unlocks 212 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Honeywell International, Sherrod Brown, Adam Smith.",
-      "where": "content/Admin Notes/missing-profiles.md",
-      "cost_min": 10,
-      "leverage": 5,
-      "source": "missing-profile-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "refCount": 212
-      }
-    },
-    {
-      "bucket": "compounding",
-      "what": "Build stub: PhRMA",
-      "why": "Referenced by 57 other vault profiles but has no file yet. Building a stub unlocks 57 broken wikilinks and turns this entity into something other scripts can enrich. Sample: ALEC - American Legislative Exchange Council, American Action Network, Healthcare Sector.",
-      "where": "content/Admin Notes/missing-profiles.md",
-      "cost_min": 10,
-      "leverage": 5,
-      "source": "missing-profile-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "refCount": 57
+        "refCount": 44
       }
     },
     {
       "bucket": "compounding",
       "what": "Build stub: GEO Group",
-      "why": "Referenced by 37 other vault profiles but has no file yet. Building a stub unlocks 37 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Aramark, Bail Bond Industry, CoreCivic - Private Prisons.",
+      "why": "Referenced by 38 other vault profiles but has no file yet. Building a stub unlocks 38 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Aramark, Bail Bond Industry, CoreCivic - Private Prisons.",
       "where": "content/Admin Notes/missing-profiles.md",
       "cost_min": 10,
       "leverage": 5,
       "source": "missing-profile-detector",
-      "created": "2026-04-21",
+      "created": "2026-04-11",
       "metadata": {
-        "refCount": 37
-      }
-    },
-    {
-      "bucket": "compounding",
-      "what": "Build stub: Fairshake PAC - Crypto Super PAC",
-      "why": "Referenced by 31 other vault profiles but has no file yet. Building a stub unlocks 31 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Mark Zuckerberg, Ross Stevens, Susquehanna International Group.",
-      "where": "content/Admin Notes/missing-profiles.md",
-      "cost_min": 10,
-      "leverage": 5,
-      "source": "missing-profile-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "refCount": 31
+        "refCount": 38
       }
     },
     {
@@ -1132,7 +627,7 @@
       "cost_min": 10,
       "leverage": 5,
       "source": "missing-profile-detector",
-      "created": "2026-04-21",
+      "created": "2026-04-11",
       "metadata": {
         "refCount": 26
       }
@@ -1145,72 +640,85 @@
       "cost_min": 10,
       "leverage": 5,
       "source": "missing-profile-detector",
-      "created": "2026-04-21",
+      "created": "2026-04-11",
       "metadata": {
         "refCount": 26
       }
     },
     {
       "bucket": "compounding",
-      "what": "Build stub: Palantir",
-      "why": "Referenced by 21 other vault profiles but has no file yet. Building a stub unlocks 21 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Defense Contractors Bloc, Elon Musk, Palantir Technologies.",
-      "where": "content/Admin Notes/missing-profiles.md",
-      "cost_min": 10,
-      "leverage": 5,
-      "source": "missing-profile-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "refCount": 21
-      }
-    },
-    {
-      "bucket": "compounding",
       "what": "Build stub: Jeff Yass",
-      "why": "Referenced by 18 other vault profiles but has no file yet. Building a stub unlocks 18 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Cryptocurrency Industry Bloc , Fairshake PAC Network, Donor Registry - Master Index, American Federation for Children.",
+      "why": "Referenced by 19 other vault profiles but has no file yet. Building a stub unlocks 19 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Cryptocurrency Industry Bloc — Fairshake PAC Network, Donor Registry - Master Index, American Federation for Children.",
       "where": "content/Admin Notes/missing-profiles.md",
       "cost_min": 10,
       "leverage": 4,
       "source": "missing-profile-detector",
-      "created": "2026-04-21",
+      "created": "2026-04-11",
       "metadata": {
-        "refCount": 18
+        "refCount": 19
       }
     },
     {
       "bucket": "compounding",
-      "what": "Build stub: Google",
-      "why": "Referenced by 12 other vault profiles but has no file yet. Building a stub unlocks 12 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Stand Together, Akin Gump Strauss Hauer & Feld, Nancy Pelosi.",
+      "what": "Build stub: Fairshake PAC - Crypto Super PAC",
+      "why": "Referenced by 16 other vault profiles but has no file yet. Building a stub unlocks 16 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Mark Zuckerberg, Ross Stevens, Susquehanna International Group.",
       "where": "content/Admin Notes/missing-profiles.md",
       "cost_min": 10,
-      "leverage": 3,
+      "leverage": 4,
       "source": "missing-profile-detector",
-      "created": "2026-04-21",
+      "created": "2026-04-11",
       "metadata": {
-        "refCount": 12
-      }
-    },
-    {
-      "bucket": "compounding",
-      "what": "Build stub: Blackstone",
-      "why": "Referenced by 12 other vault profiles but has no file yet. Building a stub unlocks 12 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Shontel Brown, The Wall Street-Schumer Funding Axis, Bill Hagerty.",
-      "where": "content/Admin Notes/missing-profiles.md",
-      "cost_min": 10,
-      "leverage": 3,
-      "source": "missing-profile-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "refCount": 12
+        "refCount": 16
       }
     },
     {
       "bucket": "compounding",
       "what": "Build stub: Goldman Sachs - Wall Street Titan",
-      "why": "Referenced by 10 other vault profiles but has no file yet. Building a stub unlocks 10 broken wikilinks and turns this entity into something other scripts can enrich. Sample: JPMorgan Chase, Wall Street Bloc, Wall Street Finance Networks.",
+      "why": "Referenced by 11 other vault profiles but has no file yet. Building a stub unlocks 11 broken wikilinks and turns this entity into something other scripts can enrich. Sample: JPMorgan Chase, Wall Street Bloc, Wall Street Finance Networks.",
       "where": "content/Admin Notes/missing-profiles.md",
       "cost_min": 10,
       "leverage": 3,
       "source": "missing-profile-detector",
-      "created": "2026-04-21",
+      "created": "2026-04-11",
+      "metadata": {
+        "refCount": 11
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Build stub: Blackstone",
+      "why": "Referenced by 11 other vault profiles but has no file yet. Building a stub unlocks 11 broken wikilinks and turns this entity into something other scripts can enrich. Sample: The Wall Street-Schumer Funding Axis, Bill Hagerty, John Cornyn.",
+      "where": "content/Admin Notes/missing-profiles.md",
+      "cost_min": 10,
+      "leverage": 3,
+      "source": "missing-profile-detector",
+      "created": "2026-04-11",
+      "metadata": {
+        "refCount": 11
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Build stub: Google",
+      "why": "Referenced by 10 other vault profiles but has no file yet. Building a stub unlocks 10 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Stand Together, Akin Gump Strauss Hauer & Feld, Raja Krishnamoorthi.",
+      "where": "content/Admin Notes/missing-profiles.md",
+      "cost_min": 10,
+      "leverage": 3,
+      "source": "missing-profile-detector",
+      "created": "2026-04-11",
+      "metadata": {
+        "refCount": 10
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Build stub: _Lobbying Firms Framework",
+      "why": "Referenced by 10 other vault profiles but has no file yet. Building a stub unlocks 10 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Akin Gump Strauss Hauer & Feld, Alpine Group, Ballard Partners.",
+      "where": "content/Admin Notes/missing-profiles.md",
+      "cost_min": 10,
+      "leverage": 3,
+      "source": "missing-profile-detector",
+      "created": "2026-04-11",
       "metadata": {
         "refCount": 10
       }
@@ -1223,7 +731,7 @@
       "cost_min": 10,
       "leverage": 3,
       "source": "missing-profile-detector",
-      "created": "2026-04-21",
+      "created": "2026-04-11",
       "metadata": {
         "refCount": 10
       }
@@ -1236,9 +744,35 @@
       "cost_min": 10,
       "leverage": 3,
       "source": "missing-profile-detector",
-      "created": "2026-04-21",
+      "created": "2026-04-11",
       "metadata": {
         "refCount": 10
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Build stub: EMILY's List",
+      "why": "Referenced by 9 other vault profiles but has no file yet. Building a stub unlocks 9 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Democratic Senatorial Campaign Committee, Priorities USA Action, Winning for Women PAC.",
+      "where": "content/Admin Notes/missing-profiles.md",
+      "cost_min": 10,
+      "leverage": 2,
+      "source": "missing-profile-detector",
+      "created": "2026-04-11",
+      "metadata": {
+        "refCount": 9
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Build stub: _Think Tank Framework",
+      "why": "Referenced by 9 other vault profiles but has no file yet. Building a stub unlocks 9 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Lobbying Firms & K Street Framework, Center for a New American Security, Mercatus Center.",
+      "where": "content/Admin Notes/missing-profiles.md",
+      "cost_min": 10,
+      "leverage": 2,
+      "source": "missing-profile-detector",
+      "created": "2026-04-11",
+      "metadata": {
+        "refCount": 9
       }
     }
   ],
@@ -1251,7 +785,7 @@
       "cost_min": 2,
       "leverage": 5,
       "source": "promotion-candidate-queue",
-      "created": "2026-04-21",
+      "created": "2026-04-11",
       "metadata": {
         "signoffOnly": true,
         "type": "corporation"
@@ -1265,7 +799,7 @@
       "cost_min": 2,
       "leverage": 5,
       "source": "promotion-candidate-queue",
-      "created": "2026-04-21",
+      "created": "2026-04-11",
       "metadata": {
         "signoffOnly": true,
         "type": "donor"
@@ -1279,7 +813,7 @@
       "cost_min": 2,
       "leverage": 5,
       "source": "promotion-candidate-queue",
-      "created": "2026-04-21",
+      "created": "2026-04-11",
       "metadata": {
         "signoffOnly": true,
         "type": "corporation"
@@ -1293,7 +827,7 @@
       "cost_min": 2,
       "leverage": 5,
       "source": "promotion-candidate-queue",
-      "created": "2026-04-21",
+      "created": "2026-04-11",
       "metadata": {
         "signoffOnly": true,
         "type": "corporation"
@@ -1307,7 +841,7 @@
       "cost_min": 2,
       "leverage": 5,
       "source": "promotion-candidate-queue",
-      "created": "2026-04-21",
+      "created": "2026-04-11",
       "metadata": {
         "signoffOnly": true,
         "type": "donor"
@@ -1321,7 +855,7 @@
       "cost_min": 2,
       "leverage": 5,
       "source": "promotion-candidate-queue",
-      "created": "2026-04-21",
+      "created": "2026-04-11",
       "metadata": {
         "signoffOnly": true,
         "type": "donor"
@@ -1335,7 +869,7 @@
       "cost_min": 2,
       "leverage": 5,
       "source": "promotion-candidate-queue",
-      "created": "2026-04-21",
+      "created": "2026-04-11",
       "metadata": {
         "signoffOnly": true,
         "type": "donor"
@@ -1349,7 +883,7 @@
       "cost_min": 2,
       "leverage": 5,
       "source": "promotion-candidate-queue",
-      "created": "2026-04-21",
+      "created": "2026-04-11",
       "metadata": {
         "signoffOnly": true,
         "type": "donor"
@@ -1363,7 +897,7 @@
       "cost_min": 2,
       "leverage": 5,
       "source": "promotion-candidate-queue",
-      "created": "2026-04-21",
+      "created": "2026-04-11",
       "metadata": {
         "signoffOnly": true,
         "type": "donor"
@@ -1377,7 +911,7 @@
       "cost_min": 2,
       "leverage": 5,
       "source": "promotion-candidate-queue",
-      "created": "2026-04-21",
+      "created": "2026-04-11",
       "metadata": {
         "signoffOnly": true,
         "type": "donor"
@@ -1889,13 +1423,34 @@
   "narrative-drift-detector": [
     {
       "bucket": "deciding",
+      "what": "Re-read K&L Gates › Opening",
+      "why": "New event (2026-03-19) \"S. 4157: No Bailout for Crypto Act\" mentions Richard Durbin. Profile narrative in \"Opening\" references Richard Durbin.",
+      "where": "content/Lobbying Firms & K Street/K&L Gates.md",
+      "cost_min": 3,
+      "leverage": 4,
+      "source": "narrative-drift-detector",
+      "created": "2026-04-17",
+      "metadata": {
+        "profile": "K&L Gates",
+        "events": [
+          {
+            "date": "2026-03-19",
+            "title": "S. 4157: No Bailout for Crypto Act",
+            "entity": "Richard Durbin",
+            "heading": "Opening"
+          }
+        ]
+      }
+    },
+    {
+      "bucket": "deciding",
       "what": "Re-read The Impeachment Vote and the Petrochemical Protection › Opening",
       "why": "New event (2026-03-26) \"S. 4251: Mined in America Act of 2026\" mentions Bill Cassidy. Profile narrative in \"Opening\" references Bill Cassidy.",
       "where": "content/Politicians/Republicans/Senate/Bill Cassidy/The Impeachment Vote and the Petrochemical Protection.md",
       "cost_min": 3,
       "leverage": 4,
       "source": "narrative-drift-detector",
-      "created": "2026-04-21",
+      "created": "2026-04-17",
       "metadata": {
         "profile": "The Impeachment Vote and the Petrochemical Protection",
         "events": [
@@ -1916,7 +1471,7 @@
       "cost_min": 3,
       "leverage": 4,
       "source": "narrative-drift-detector",
-      "created": "2026-04-21",
+      "created": "2026-04-17",
       "metadata": {
         "profile": "Defense-Pharma-Carceral-Labor-Wexner Cross-Reference: Five Donors, One System",
         "events": [

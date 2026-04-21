@@ -12,7 +12,7 @@ generated-by: scripts/lib/attention-queue.cjs
 
 *Auto-generated. Every script that finds something worth your time writes to this file.*
 
-**30** blocking · **52** editorial decisions · **35** background cleanup
+**0** blocking · **54** editorial decisions · **35** background cleanup
 
 ---
 
@@ -20,275 +20,7 @@ generated-by: scripts/lib/attention-queue.cjs
 
 *Something is broken or will break soon. These block other work — handle first.*
 
-### Gun Owners of America: voice rule violations
-
-Ready profile contains 1 em dash in body, avg sentence length 30 words (target ~20). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Donors & Power Networks/Dark Money/Gun Owners of America.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Media Matters: voice rule violations
-
-Ready profile contains 1 em dash in body, avg sentence length 34 words (target ~20). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Donors & Power Networks/Dark Money/Media Matters.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Sentinel Action Fund: voice rule violations
-
-Ready profile contains 5 em dashes in body, avg sentence length 30 words (target ~20). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Donors & Power Networks/Super PACs/Sentinel Action Fund.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Tim Walz: voice rule violations
-
-Ready profile contains 8 em dashes in body, low specific-number density 0.1/100 words (target ~0.7). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Politicians/Democrats/Governors/Tim Walz/_Tim Walz Master Profile.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Zoe Lofgren: voice rule violations
-
-Ready profile contains 13 em dashes in body, low specific-number density 0.0/100 words (target ~0.7). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Politicians/Democrats/House/Zoe Lofgren/_Zoe Lofgren Master Profile.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Alex Padilla: voice rule violations
-
-Ready profile contains 16 em dashes in body, low specific-number density 0.0/100 words (target ~0.7). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Politicians/Democrats/Senate/Alex Padilla/_Alex Padilla Master Profile.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Harry Reid: voice rule violations
-
-Ready profile contains 4 em dashes in body, low specific-number density 0.1/100 words (target ~0.7). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Politicians/Democrats/Senate/Harry Reid/_Harry Reid Master Profile.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### California Farm Bureau Federation: voice rule violations
-
-Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Donors & Power Networks/Agriculture/California Farm Bureau Federation.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Cargill: voice rule violations
-
-Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Donors & Power Networks/Agriculture/Cargill.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### John Deere: voice rule violations
-
-Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Donors & Power Networks/Agriculture/John Deere.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### National Cattlemen's Beef Association: voice rule violations
-
-Ready profile contains 4 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Donors & Power Networks/Agriculture/National Cattlemen's Beef Association.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Tyson Foods: voice rule violations
-
-Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Donors & Power Networks/Agriculture/Tyson Foods.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Western Growers Association: voice rule violations
-
-Ready profile contains 30 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Donors & Power Networks/Agriculture/Western Growers Association.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### CCPOA - California Correctional Peace Officers Association: voice rule violations
-
-Ready profile contains 19 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Donors & Power Networks/Carceral State/CCPOA - California Correctional Peace Officers Association.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Ballard Partners: voice rule violations
-
-Ready profile contains 2 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Donors & Power Networks/Dark Money/Ballard Partners.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Brady Campaign: voice rule violations
-
-Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Donors & Power Networks/Dark Money/Brady Campaign.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Business Roundtable: voice rule violations
-
-Ready profile contains 2 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Donors & Power Networks/Dark Money/Business Roundtable.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Donors Capital Fund: voice rule violations
-
-Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Donors & Power Networks/Dark Money/Donors Capital Fund.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Environmental Law & Policy Center: voice rule violations
-
-Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Donors & Power Networks/Dark Money/Environmental Law & Policy Center.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Ocean Conservancy: voice rule violations
-
-Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Donors & Power Networks/Dark Money/Ocean Conservancy.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Trump Donor Coalition: voice rule violations
-
-Ready profile contains 23 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Donors & Power Networks/Dark Money/Trump Donor Coalition.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Defense Contractors: voice rule violations
-
-Ready profile contains 2 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Donors & Power Networks/Defense & Intelligence/Defense Contractors.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### L3Harris Technologies: voice rule violations
-
-Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Donors & Power Networks/Defense & Intelligence/L3Harris Technologies.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Northrop Grumman: voice rule violations
-
-Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Donors & Power Networks/Defense & Intelligence/Northrop Grumman.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Anthem - Elevance Health: voice rule violations
-
-Ready profile contains 13 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Donors & Power Networks/Healthcare/Anthem - Elevance Health.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Comcast - NBCUniversal: voice rule violations
-
-Ready profile contains 15 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Donors & Power Networks/Media & Entertainment/Comcast - NBCUniversal.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Jeffrey Katzenberg: voice rule violations
-
-Ready profile contains 7 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Donors & Power Networks/Mega-Donors/Jeffrey Katzenberg.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Narya Capital: voice rule violations
-
-Ready profile contains 19 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Donors & Power Networks/Mega-Donors/Narya Capital.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Timothy Mellon: voice rule violations
-
-Ready profile contains 2 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Donors & Power Networks/Mega-Donors/Timothy Mellon.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Meatpacking Corporations: voice rule violations
-
-Ready profile contains 29 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Donors & Power Networks/Pharma & Healthcare/Meatpacking Corporations.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
+_Nothing here right now. ✓_
 
 ## 🟡 Editorial Decisions
 
@@ -384,6 +116,15 @@ This profile passed every automated A+ check. Only David's sign-off (janitor sta
 - **Leverage:** ★★★★★
 - **Surfaced by:** `promotion-candidate-queue`
 
+### Re-read K&L Gates › Opening
+
+New event (2026-03-19) "S. 4157: No Bailout for Crypto Act" mentions Richard Durbin. Profile narrative in "Opening" references Richard Durbin.
+
+- **Where:** `content/Lobbying Firms & K Street/K&L Gates.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `narrative-drift-detector`
+
 ### Re-read The Impeachment Vote and the Petrochemical Protection › Opening
 
 New event (2026-03-26) "S. 4251: Mined in America Act of 2026" mentions Bill Cassidy. Profile narrative in "Opening" references Bill Cassidy.
@@ -402,21 +143,93 @@ New event (2026-03-26) "S. 4251: Mined in America Act of 2026" mentions Bill Cas
 - **Leverage:** ★★★★☆
 - **Surfaced by:** `narrative-drift-detector`
 
-### PhRMA - Pharmaceutical Research and Manufacturers of America: 52 unsupported claims
+### Colorado 2026 Senate Race: voice drift from baseline
 
-Ready profile has "$371.6 billion" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+Profile body drifted from your baseline voice on 2 dimensions: avg sentence length 17 words (target ~29), hedging language usage 1.0/100 words (target < 0.0). Review the rewrite history and realign if appropriate.
 
-- **Where:** `content/Donors & Power Networks/Pharma & Healthcare/PhRMA.md`
-- **Cost:** ~15 min
+- **Where:** `content/Stories/Published/2026 Senate Races/Colorado 2026 Senate Race.md`
+- **Cost:** ~8 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `voice-drift-detector`
+
+### Elon Musk: 11 unsupported claims
+
+Ready profile has "$5.9 billion" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Elon Musk.md`
+- **Cost:** ~13 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
 
-### AIPAC - American Israel Public Affairs Committee: 35 unsupported claims
+### New Hampshire 2026 Senate Race: 11 unsupported claims
 
-Ready profile has "$126.9 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+Ready profile has "$2.3B" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
 
-- **Where:** `content/Donors & Power Networks/Israel Lobby/AIPAC - American Israel Public Affairs Committee.md`
-- **Cost:** ~15 min
+- **Where:** `content/Stories/Published/2026 Senate Races/New Hampshire 2026 Senate Race.md`
+- **Cost:** ~13 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### Harris-Newsom Donor Class Fracture: 11 unsupported claims
+
+Ready profile has "$24M" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Stories/Published/2028 Presidential Race/Harris-Newsom Donor Class Fracture.md`
+- **Cost:** ~13 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides: 11 unsupported claims
+
+Ready profile has "10% of" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Stories/Published/Contradiction Deep Dives/Contradiction 16 - Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides.md`
+- **Cost:** ~13 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### American Farm Bureau Federation: 12 unsupported claims
+
+Ready profile has "$732 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Donors & Power Networks/Agriculture/American Farm Bureau Federation.md`
+- **Cost:** ~14 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### Kenneth Griffin: 12 unsupported claims
+
+Ready profile has "8% increase" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Kenneth Griffin.md`
+- **Cost:** ~14 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### 2026 House Money Map: 12 unsupported claims
+
+Ready profile has "2024 cycle, UDP spent" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Stories/Published/2026 House Races/2026 House Money Map.md`
+- **Cost:** ~14 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### Texas 2026 Senate Race: 12 unsupported claims
+
+Ready profile has "47% of" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Stories/Published/2026 Senate Races/Texas 2026 Senate Race.md`
+- **Cost:** ~14 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### Insurance Industry Writes Its Own Regulation Through Both Parties: 12 unsupported claims
+
+Ready profile has "$853 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Stories/Published/Contradiction Deep Dives/Contradiction 17 - Insurance Industry Writes Its Own Regulation Through Both Parties.md`
+- **Cost:** ~14 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
 
@@ -429,11 +242,20 @@ Ready profile has "60% of" in the (no section) section with no source link in th
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
 
-### Raytheon (RTX Corporation): 26 unsupported claims
+### Raytheon (RTX Corporation): 25 unsupported claims
 
 Ready profile has "$88.6 billion" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
 
 - **Where:** `content/Donors & Power Networks/Defense & Intelligence/Raytheon (RTX).md`
+- **Cost:** ~15 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### AIPAC - American Israel Public Affairs Committee: 25 unsupported claims
+
+Ready profile has "$126.9 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Donors & Power Networks/Israel Lobby/AIPAC - American Israel Public Affairs Committee.md`
 - **Cost:** ~15 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
@@ -447,7 +269,7 @@ Ready profile has "70% of" in the (no section) section with no source link in th
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
 
-### The Shared Sponsor Map , Corporate Advertisers Funding Both Left and Right Political Media: 24 unsupported claims
+### The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media: 24 unsupported claims
 
 Ready profile has "$10.8 billion" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
 
@@ -461,15 +283,6 @@ Ready profile has "$10.8 billion" in the (no section) section with no source lin
 Ready profile has "$16M" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
 
 - **Where:** `content/Stories/Published/Intra-Republican Contradiction Map.md`
-- **Cost:** ~15 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### Lockheed Martin: 20 unsupported claims
-
-Ready profile has "$14B" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Donors & Power Networks/Defense & Intelligence/Lockheed Martin.md`
 - **Cost:** ~15 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
@@ -492,47 +305,11 @@ Ready profile has "58% of" in the (no section) section with no source link in th
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
 
-### Jon Ossoff: 19 unsupported claims
-
-Ready profile has "$106.8 million" in the Who He Is section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Politicians/Democrats/Senate/Jon Ossoff/_Jon Ossoff Master Profile.md`
-- **Cost:** ~15 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### Jeffrey Yass: 18 unsupported claims
-
-Ready profile has "7% of" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Donors & Power Networks/Mega-Donors/Jeffrey Yass.md`
-- **Cost:** ~15 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
 ### American Action Network: 17 unsupported claims
 
 Ready profile has "$170 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
 
 - **Where:** `content/Donors & Power Networks/Dark Money/American Action Network.md`
-- **Cost:** ~15 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### Koch Industries: 17 unsupported claims
-
-Ready profile has "75% of" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Donors & Power Networks/Energy & Utilities/Koch Industries.md`
-- **Cost:** ~15 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### DonorsTrust: 17 unsupported claims
-
-Ready profile has "30% of" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Donors & Power Networks/Super PACs/DonorsTrust.md`
 - **Cost:** ~15 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
@@ -546,47 +323,11 @@ Ready profile has "$800M" in the (no section) section with no source link in the
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
 
-### Trump 2024 Campaign: 16 unsupported claims
-
-Ready profile has "$1.45 billion" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Donors & Power Networks/Dark Money/Trump 2024 Campaign.md`
-- **Cost:** ~15 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### US Chamber of Commerce: 16 unsupported claims
-
-Ready profile has "$81 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Donors & Power Networks/Dark Money/US Chamber of Commerce.md`
-- **Cost:** ~15 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### Anthem - Elevance Health: 16 unsupported claims
-
-Ready profile has "$20.5 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Donors & Power Networks/Healthcare/Anthem - Elevance Health.md`
-- **Cost:** ~15 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
 ### Eli Lilly: 16 unsupported claims
 
 Ready profile has "90% of" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
 
 - **Where:** `content/Donors & Power Networks/Pharma & Healthcare/Eli Lilly.md`
-- **Cost:** ~15 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### Club for Growth: 16 unsupported claims
-
-Ready profile has "$163 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Donors & Power Networks/Super PACs/Club for Growth.md`
 - **Cost:** ~15 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
@@ -609,20 +350,29 @@ Ready profile has "$90 million" in the (no section) section with no source link 
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
 
-### 2026 House Money Map: 14 unsupported claims
+### Uber: 14 unsupported claims
 
-Ready profile has "$78 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+Ready profile has "2020, shortly after Prop 22 passed" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
 
-- **Where:** `content/Stories/Published/2026 House Races/2026 House Money Map.md`
+- **Where:** `content/Donors & Power Networks/Gig Economy/Uber.md`
 - **Cost:** ~15 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
 
-### Brookings Institution: 14 unsupported claims
+### Stand Together: 13 unsupported claims
 
-Ready profile has "64.5% of" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+Ready profile has "$578 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
 
-- **Where:** `content/Think Tanks & Policy Infrastructure/Centrist/Brookings Institution.md`
+- **Where:** `content/Donors & Power Networks/Dark Money/Stand Together.md`
+- **Cost:** ~15 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### American Petroleum Institute: 13 unsupported claims
+
+Ready profile has "86.4% of" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Donors & Power Networks/Energy & Utilities/American Petroleum Institute.md`
 - **Cost:** ~15 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
@@ -654,121 +404,121 @@ Mainstream Democrats PAC appears as both a funder and an adversary of Cori Bush.
 - **Leverage:** ★★★★★
 - **Surfaced by:** `contradiction-miner`
 
-### Jamaal Bowman has UNITED DEMOCRACY PROJECT ('UDP') in both donors and opposes
+### ADM - Archer Daniels Midland funds both major parties
 
-UNITED DEMOCRACY PROJECT ('UDP') appears as both a funder and an adversary of Jamaal Bowman. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story — the vault has the connection, nobody else does.
+ADM - Archer Daniels Midland appears in the politicians-funded / related lists of both Democratic AND Republican politicians in this vault. That is the classic transactional-donor pattern: influence flows to whoever wins, not to any ideology. Document the specific cycle splits (FEC data) and the bills each funded politician voted on that benefited 
 
-- **Where:** `content/Story Seeds/both-sides-jamaal-bowman-has-united-democracy-project-udp-in-both-donors-and-opp.md`
+- **Where:** `content/Story Seeds/cross-party-adm-archer-daniels-midland-funds-both-major-parties.md`
 - **Cost:** ~25 min
-- **Leverage:** ★★★★★
+- **Leverage:** ★★★★☆
 - **Surfaced by:** `contradiction-miner`
 
-### Jamaal Bowman has DMFI - Democratic Majority for Israel in both donors and opposes
+### Raytheon (RTX Corporation) funds 14 Armed Services committee members
 
-DMFI - Democratic Majority for Israel appears as both a funder and an adversary of Jamaal Bowman. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story — the vault has the connection, nobody else does.
+Raytheon (RTX Corporation) shows up in the donor lists of 14 different Armed Services committee members: Adam Smith, Adam Smith, Adam Smith, Jack Reed, Jeanne Shaheen and 9 more. That's coordinated capture of an entire regulatory body. Pull FEC totals per member, cross-reference committee votes on bills affecting Raytheon (RTX Corporation)'s sector
 
-- **Where:** `content/Story Seeds/both-sides-jamaal-bowman-has-dmfi-democratic-majority-for-israel-in-both-donors-.md`
+- **Where:** `content/Story Seeds/committee-capture-raytheon-rtx-corporation-funds-14-armed-services-committee-mem.md`
 - **Cost:** ~25 min
-- **Leverage:** ★★★★★
+- **Leverage:** ★★★★☆
 - **Surfaced by:** `contradiction-miner`
 
-### Summer Lee has United Democracy Project in both donors and opposes
+### Agricultural Labor Vulnerability Donors funds both major parties
 
-United Democracy Project appears as both a funder and an adversary of Summer Lee. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story — the vault has the connection, nobody else does.
+Agricultural Labor Vulnerability Donors appears in the politicians-funded / related lists of both Democratic AND Republican politicians in this vault. That is the classic transactional-donor pattern: influence flows to whoever wins, not to any ideology. Document the specific cycle splits (FEC data) and the bills each funded politician voted on that
 
-- **Where:** `content/Story Seeds/both-sides-summer-lee-has-united-democracy-project-in-both-donors-and-opposes.md`
+- **Where:** `content/Story Seeds/cross-party-agricultural-labor-vulnerability-donors-funds-both-major-parties.md`
 - **Cost:** ~25 min
-- **Leverage:** ★★★★★
+- **Leverage:** ★★★★☆
 - **Surfaced by:** `contradiction-miner`
 
-### Elizabeth Warren has Crypto Industry Bloc in both donors and opposes
+### National Restaurant Association funds 5 Armed Services committee members
 
-Crypto Industry Bloc appears as both a funder and an adversary of Elizabeth Warren. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story — the vault has the connection, nobody else does.
+National Restaurant Association shows up in the donor lists of 5 different Armed Services committee members: Adam Smith, Deb Fischer, Markwayne Mullin, Rick Scott, Roger Wicker. That's coordinated capture of an entire regulatory body. Pull FEC totals per member, cross-reference committee votes on bills affecting National Restaurant Association's se
 
-- **Where:** `content/Story Seeds/both-sides-elizabeth-warren-has-crypto-industry-bloc-in-both-donors-and-opposes.md`
+- **Where:** `content/Story Seeds/committee-capture-national-restaurant-association-funds-5-armed-services-committ.md`
 - **Cost:** ~25 min
-- **Leverage:** ★★★★★
+- **Leverage:** ★★★★☆
 - **Surfaced by:** `contradiction-miner`
 
-### Hillary Clinton has KENTUCKIANS FOR STRONG LEADERSHIP in both donors and opposes
+### CA Farm Bureau Federation funds both major parties
 
-KENTUCKIANS FOR STRONG LEADERSHIP appears as both a funder and an adversary of Hillary Clinton. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story — the vault has the connection, nobody else does.
+CA Farm Bureau Federation appears in the politicians-funded / related lists of both Democratic AND Republican politicians in this vault. That is the classic transactional-donor pattern: influence flows to whoever wins, not to any ideology. Document the specific cycle splits (FEC data) and the bills each funded politician voted on that benefited CA 
 
-- **Where:** `content/Story Seeds/both-sides-hillary-clinton-has-kentuckians-for-strong-leadership-in-both-donors-.md`
+- **Where:** `content/Story Seeds/cross-party-ca-farm-bureau-federation-funds-both-major-parties.md`
 - **Cost:** ~25 min
-- **Leverage:** ★★★★★
+- **Leverage:** ★★★★☆
 - **Surfaced by:** `contradiction-miner`
 
-### John Fetterman has AMERICAN CROSSROADS in both donors and opposes
+### Lockheed Martin funds 10 Armed Services committee members
 
-AMERICAN CROSSROADS appears as both a funder and an adversary of John Fetterman. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story — the vault has the connection, nobody else does.
+Lockheed Martin shows up in the donor lists of 10 different Armed Services committee members: Adam Smith, Jack Reed, Jeanne Shaheen, Richard Blumenthal, Tammy Duckworth and 5 more. That's coordinated capture of an entire regulatory body. Pull FEC totals per member, cross-reference committee votes on bills affecting Lockheed Martin's sector, and wri
 
-- **Where:** `content/Story Seeds/both-sides-john-fetterman-has-american-crossroads-in-both-donors-and-opposes.md`
+- **Where:** `content/Story Seeds/committee-capture-lockheed-martin-funds-10-armed-services-committee-members.md`
 - **Cost:** ~25 min
-- **Leverage:** ★★★★★
+- **Leverage:** ★★★★☆
 - **Surfaced by:** `contradiction-miner`
 
-### John Fetterman has NRSC in both donors and opposes
+### Barbara Lee: climate vs. fossil fuels contradiction
 
-NRSC appears as both a funder and an adversary of John Fetterman. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story — the vault has the connection, nobody else does.
+Barbara Lee lists "Environmental Protection" as a tracked issue, but their donor list includes PG&E - Pacific Gas and Electric. Document the dollar amounts and the dates of their public stance vs. the dates of the donations. The contradiction is the story.
 
-- **Where:** `content/Story Seeds/both-sides-john-fetterman-has-nrsc-in-both-donors-and-opposes.md`
+- **Where:** `content/Story Seeds/issue-contradiction-barbara-lee-climate-vs-fossil-fuels-contradiction.md`
 - **Cost:** ~25 min
-- **Leverage:** ★★★★★
+- **Leverage:** ★★★☆☆
 - **Surfaced by:** `contradiction-miner`
 
-### Mark Kelly has NRSC in both donors and opposes
+### Southern Company appears in ICIJ Offshore Leaks (18 records, 7 leaks)
 
-NRSC appears as both a funder and an adversary of Mark Kelly. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story — the vault has the connection, nobody else does.
+Southern Company is a politically-active vault entity that ALSO appears in the ICIJ Offshore Leaks Database across: Panama Papers, Offshore Leaks, Paradise Papers - Bahamas corporate registry. Linked jurisdictions: Malta. Appearing in these files does not imply wrongdoing — but the combination of political spending + offshore footprint warrants a c
 
-- **Where:** `content/Story Seeds/both-sides-mark-kelly-has-nrsc-in-both-donors-and-opposes.md`
+- **Where:** `content/Story Seeds/offshore-exposure-southern-company-appears-in-icij-offshore-leaks-18-records-7-l.md`
 - **Cost:** ~25 min
-- **Leverage:** ★★★★★
+- **Leverage:** ★★★☆☆
 - **Surfaced by:** `contradiction-miner`
 
-### Mark Kelly has DEFENDARIZONA in both donors and opposes
+### Sherrod Brown sponsored 15 "Housing and Community Development" bills; top donors include 1 from matching sector
 
-DEFENDARIZONA appears as both a funder and an adversary of Mark Kelly. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story — the vault has the connection, nobody else does.
+Sherrod Brown has sponsored 15 bills in the "Housing and Community Development" policy area. Their top donors include: National Association of Realtors (Real Estate). This is the classic policy-capture-by-money pattern — legislator acts as a direct channel for donor industry interests. Pull the bill list (query Ask with `subject: bills, sponsor_bio
 
-- **Where:** `content/Story Seeds/both-sides-mark-kelly-has-defendarizona-in-both-donors-and-opposes.md`
+- **Where:** `content/Story Seeds/policy-capture-sponsorship-sherrod-brown-sponsored-15-housing-and-community-deve.md`
 - **Cost:** ~25 min
-- **Leverage:** ★★★★★
+- **Leverage:** ★★★☆☆
 - **Surfaced by:** `contradiction-miner`
 
-### Mark Kelly has THE SENTINEL ACTION FUND in both donors and opposes
+### Frank Pallone: climate vs. fossil fuels contradiction
 
-THE SENTINEL ACTION FUND appears as both a funder and an adversary of Mark Kelly. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story — the vault has the connection, nobody else does.
+Frank Pallone lists "Environmental Protection" as a tracked issue, but their donor list includes PG&E - Pacific Gas and Electric. Document the dollar amounts and the dates of their public stance vs. the dates of the donations. The contradiction is the story.
 
-- **Where:** `content/Story Seeds/both-sides-mark-kelly-has-the-sentinel-action-fund-in-both-donors-and-opposes.md`
+- **Where:** `content/Story Seeds/issue-contradiction-frank-pallone-climate-vs-fossil-fuels-contradiction.md`
 - **Cost:** ~25 min
-- **Leverage:** ★★★★★
+- **Leverage:** ★★★☆☆
 - **Surfaced by:** `contradiction-miner`
 
-### Raphael Warnock has AMERICAN CROSSROADS in both donors and opposes
+### Apple appears in ICIJ Offshore Leaks (17 records, 6 leaks)
 
-AMERICAN CROSSROADS appears as both a funder and an adversary of Raphael Warnock. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story — the vault has the connection, nobody else does.
+Apple is a politically-active vault entity that ALSO appears in the ICIJ Offshore Leaks Database across: Panama Papers, Offshore Leaks, Paradise Papers - Appleby. Linked jurisdictions: Panama. Appearing in these files does not imply wrongdoing — but the combination of political spending + offshore footprint warrants a closer look. Query Ask with `s
 
-- **Where:** `content/Story Seeds/both-sides-raphael-warnock-has-american-crossroads-in-both-donors-and-opposes.md`
+- **Where:** `content/Story Seeds/offshore-exposure-apple-appears-in-icij-offshore-leaks-17-records-6-leaks.md`
 - **Cost:** ~25 min
-- **Leverage:** ★★★★★
+- **Leverage:** ★★★☆☆
 - **Surfaced by:** `contradiction-miner`
 
-### Raphael Warnock has PEACHTREE PAC in both donors and opposes
+### Adam Smith sponsored 25 "Armed Forces and National Security" bills; top donors include 6 from matching sector
 
-PEACHTREE PAC appears as both a funder and an adversary of Raphael Warnock. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story — the vault has the connection, nobody else does.
+Adam Smith has sponsored 25 bills in the "Armed Forces and National Security" policy area. Their top donors include: L3Harris Technologies (Defense & Intelligence), BAE Systems (Defense & Intelligence), Northrop Grumman (Defense & Intelligence). This is the classic policy-capture-by-money pattern — legislator acts as a direct channel for donor indu
 
-- **Where:** `content/Story Seeds/both-sides-raphael-warnock-has-peachtree-pac-in-both-donors-and-opposes.md`
+- **Where:** `content/Story Seeds/policy-capture-sponsorship-adam-smith-sponsored-25-armed-forces-and-national-sec.md`
 - **Cost:** ~25 min
-- **Leverage:** ★★★★★
+- **Leverage:** ★★★☆☆
 - **Surfaced by:** `contradiction-miner`
 
 ## 🟢 Background Cleanup
 
 *Cleanup that makes everything else easier. Batch these when you have a slow moment.*
 
-### Build stub: AT&T - WarnerMedia
+### Build stub: PhRMA
 
-Referenced by 268 other vault profiles but has no file yet. Building a stub unlocks 268 broken wikilinks and turns this entity into something other scripts can enrich. Sample: AT&T, News Corp - Fox Corporation, Telecom Industry.
+Referenced by 59 other vault profiles but has no file yet. Building a stub unlocks 59 broken wikilinks and turns this entity into something other scripts can enrich. Sample: ALEC - American Legislative Exchange Council, American Action Network, Healthcare Sector.
 
 - **Where:** `content/Admin Notes/missing-profiles.md`
 - **Cost:** ~10 min
@@ -777,25 +527,7 @@ Referenced by 268 other vault profiles but has no file yet. Building a stub unlo
 
 ### Build stub: Raytheon (RTX)
 
-Referenced by 238 other vault profiles but has no file yet. Building a stub unlocks 238 broken wikilinks and turns this entity into something other scripts can enrich. Sample: BAE Systems, Boeing Defense, Defense Contractors.
-
-- **Where:** `content/Admin Notes/missing-profiles.md`
-- **Cost:** ~10 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `missing-profile-detector`
-
-### Build stub: Honeywell
-
-Referenced by 212 other vault profiles but has no file yet. Building a stub unlocks 212 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Honeywell International, Sherrod Brown, Adam Smith.
-
-- **Where:** `content/Admin Notes/missing-profiles.md`
-- **Cost:** ~10 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `missing-profile-detector`
-
-### Build stub: PhRMA
-
-Referenced by 57 other vault profiles but has no file yet. Building a stub unlocks 57 broken wikilinks and turns this entity into something other scripts can enrich. Sample: ALEC - American Legislative Exchange Council, American Action Network, Healthcare Sector.
+Referenced by 44 other vault profiles but has no file yet. Building a stub unlocks 44 broken wikilinks and turns this entity into something other scripts can enrich. Sample: BAE Systems, Boeing Defense, Defense Contractors.
 
 - **Where:** `content/Admin Notes/missing-profiles.md`
 - **Cost:** ~10 min
@@ -804,16 +536,7 @@ Referenced by 57 other vault profiles but has no file yet. Building a stub unloc
 
 ### Build stub: GEO Group
 
-Referenced by 37 other vault profiles but has no file yet. Building a stub unlocks 37 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Aramark, Bail Bond Industry, CoreCivic - Private Prisons.
-
-- **Where:** `content/Admin Notes/missing-profiles.md`
-- **Cost:** ~10 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `missing-profile-detector`
-
-### Build stub: Fairshake PAC - Crypto Super PAC
-
-Referenced by 31 other vault profiles but has no file yet. Building a stub unlocks 31 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Mark Zuckerberg, Ross Stevens, Susquehanna International Group.
+Referenced by 38 other vault profiles but has no file yet. Building a stub unlocks 38 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Aramark, Bail Bond Industry, CoreCivic - Private Prisons.
 
 - **Where:** `content/Admin Notes/missing-profiles.md`
 - **Cost:** ~10 min
@@ -838,27 +561,27 @@ Referenced by 26 other vault profiles but has no file yet. Building a stub unloc
 - **Leverage:** ★★★★★
 - **Surfaced by:** `missing-profile-detector`
 
-### Build stub: Palantir
-
-Referenced by 21 other vault profiles but has no file yet. Building a stub unlocks 21 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Defense Contractors Bloc, Elon Musk, Palantir Technologies.
-
-- **Where:** `content/Admin Notes/missing-profiles.md`
-- **Cost:** ~10 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `missing-profile-detector`
-
 ### Build stub: Jeff Yass
 
-Referenced by 18 other vault profiles but has no file yet. Building a stub unlocks 18 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Cryptocurrency Industry Bloc , Fairshake PAC Network, Donor Registry - Master Index, American Federation for Children.
+Referenced by 19 other vault profiles but has no file yet. Building a stub unlocks 19 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Cryptocurrency Industry Bloc — Fairshake PAC Network, Donor Registry - Master Index, American Federation for Children.
 
 - **Where:** `content/Admin Notes/missing-profiles.md`
 - **Cost:** ~10 min
 - **Leverage:** ★★★★☆
 - **Surfaced by:** `missing-profile-detector`
 
-### Build stub: Google
+### Build stub: Fairshake PAC - Crypto Super PAC
 
-Referenced by 12 other vault profiles but has no file yet. Building a stub unlocks 12 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Stand Together, Akin Gump Strauss Hauer & Feld, Nancy Pelosi.
+Referenced by 16 other vault profiles but has no file yet. Building a stub unlocks 16 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Mark Zuckerberg, Ross Stevens, Susquehanna International Group.
+
+- **Where:** `content/Admin Notes/missing-profiles.md`
+- **Cost:** ~10 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `missing-profile-detector`
+
+### Build stub: Goldman Sachs - Wall Street Titan
+
+Referenced by 11 other vault profiles but has no file yet. Building a stub unlocks 11 broken wikilinks and turns this entity into something other scripts can enrich. Sample: JPMorgan Chase, Wall Street Bloc, Wall Street Finance Networks.
 
 - **Where:** `content/Admin Notes/missing-profiles.md`
 - **Cost:** ~10 min
@@ -867,16 +590,25 @@ Referenced by 12 other vault profiles but has no file yet. Building a stub unloc
 
 ### Build stub: Blackstone
 
-Referenced by 12 other vault profiles but has no file yet. Building a stub unlocks 12 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Shontel Brown, The Wall Street-Schumer Funding Axis, Bill Hagerty.
+Referenced by 11 other vault profiles but has no file yet. Building a stub unlocks 11 broken wikilinks and turns this entity into something other scripts can enrich. Sample: The Wall Street-Schumer Funding Axis, Bill Hagerty, John Cornyn.
 
 - **Where:** `content/Admin Notes/missing-profiles.md`
 - **Cost:** ~10 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `missing-profile-detector`
 
-### Build stub: Goldman Sachs - Wall Street Titan
+### Build stub: Google
 
-Referenced by 10 other vault profiles but has no file yet. Building a stub unlocks 10 broken wikilinks and turns this entity into something other scripts can enrich. Sample: JPMorgan Chase, Wall Street Bloc, Wall Street Finance Networks.
+Referenced by 10 other vault profiles but has no file yet. Building a stub unlocks 10 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Stand Together, Akin Gump Strauss Hauer & Feld, Raja Krishnamoorthi.
+
+- **Where:** `content/Admin Notes/missing-profiles.md`
+- **Cost:** ~10 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `missing-profile-detector`
+
+### Build stub: _Lobbying Firms Framework
+
+Referenced by 10 other vault profiles but has no file yet. Building a stub unlocks 10 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Akin Gump Strauss Hauer & Feld, Alpine Group, Ballard Partners.
 
 - **Where:** `content/Admin Notes/missing-profiles.md`
 - **Cost:** ~10 min
@@ -899,6 +631,24 @@ Referenced by 10 other vault profiles but has no file yet. Building a stub unloc
 - **Where:** `content/Admin Notes/missing-profiles.md`
 - **Cost:** ~10 min
 - **Leverage:** ★★★☆☆
+- **Surfaced by:** `missing-profile-detector`
+
+### Build stub: EMILY's List
+
+Referenced by 9 other vault profiles but has no file yet. Building a stub unlocks 9 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Democratic Senatorial Campaign Committee, Priorities USA Action, Winning for Women PAC.
+
+- **Where:** `content/Admin Notes/missing-profiles.md`
+- **Cost:** ~10 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `missing-profile-detector`
+
+### Build stub: _Think Tank Framework
+
+Referenced by 9 other vault profiles but has no file yet. Building a stub unlocks 9 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Lobbying Firms & K Street Framework, Center for a New American Security, Mercatus Center.
+
+- **Where:** `content/Admin Notes/missing-profiles.md`
+- **Cost:** ~10 min
+- **Leverage:** ★★☆☆☆
 - **Surfaced by:** `missing-profile-detector`
 
 ### American Action Network — dark-money-networked, $176,798,895 tracked political spend

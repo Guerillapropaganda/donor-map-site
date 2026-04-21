@@ -3,14 +3,14 @@ title: "Hakeem Jeffries Master Profile: labor vs. corporate contradiction"
 type: story-seed
 seed-type: issue-contradiction
 confidence: 3
-last-updated: '2026-04-11'
+last-updated: '2026-04-21'
 auto-generated: true
 status: unclaimed
 ---
 
 # Hakeem Jeffries Master Profile: labor vs. corporate contradiction
 
-_Confidence: ★★★☆☆ · Surfaced by contradiction-miner on 2026-04-11_
+_Confidence: ★★★☆☆ · Surfaced by contradiction-miner on 2026-04-21_
 
 ## The angle
 

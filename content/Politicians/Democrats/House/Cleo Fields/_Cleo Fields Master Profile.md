@@ -112,7 +112,7 @@ top-donors: "[[Robert Garcia]], [[Walmart - Walton Family]], [[National Associat
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 8):**
+**Most recent party-line deviations (top 8 of 8):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
