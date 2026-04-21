@@ -1,0 +1,401 @@
+{"icij_node_id":"11003262","name":"CAPITA FIDUCIARY (LUXEMBOURG)","kind":"intermediary","jurisdiction":null,"sourceID":"Panama Papers","linked_vault_entities":["Southern Company"]}
+{"icij_node_id":"10049905","name":"STYX HOLDINGS INC.","kind":"entity","jurisdiction":"Panama","sourceID":"Panama Papers","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"11003484","name":"BAKER TILLY ISLE OF MAN FIDUCIARIES LIMITED","kind":"intermediary","jurisdiction":null,"sourceID":"Panama Papers","linked_vault_entities":["Apple"]}
+{"icij_node_id":"11007690","name":"SANNE GROUP","kind":"intermediary","jurisdiction":null,"sourceID":"Panama Papers","linked_vault_entities":["Oracle"]}
+{"icij_node_id":"11000253","name":"SMP PARTNERS LTD","kind":"intermediary","jurisdiction":null,"sourceID":"Panama Papers","linked_vault_entities":["Carlyle Group"]}
+{"icij_node_id":"11005871","name":"BARCLAYS TRUST COMPANY JERSEY LIMITED","kind":"intermediary","jurisdiction":null,"sourceID":"Panama Papers","linked_vault_entities":["Commonwealth Communications"]}
+{"icij_node_id":"11011253","name":"RIVEIRO Y ASOCIADOS","kind":"intermediary","jurisdiction":null,"sourceID":"Panama Papers","linked_vault_entities":["Blackstone Real Estate"]}
+{"icij_node_id":"11009351","name":"CONSULCO INTERNATIONAL LIMITED","kind":"intermediary","jurisdiction":null,"sourceID":"Panama Papers","linked_vault_entities":["Rumble"]}
+{"icij_node_id":"10107916","name":"PETRANALYSIS LTD.","kind":"entity","jurisdiction":"British Virgin Islands","sourceID":"Panama Papers","linked_vault_entities":["John Kennedy"]}
+{"icij_node_id":"10122994","name":"DINAMO SERVICES LIMITED","kind":"entity","jurisdiction":"British Virgin Islands","sourceID":"Panama Papers","linked_vault_entities":["K&L Gates"]}
+{"icij_node_id":"10126680","name":"JOYNES SERVICES LIMITED","kind":"entity","jurisdiction":"British Virgin Islands","sourceID":"Panama Papers","linked_vault_entities":["K&L Gates"]}
+{"icij_node_id":"10166663","name":"REMBRAND HOLDINGS INC.","kind":"entity","jurisdiction":"Panama","sourceID":"Panama Papers","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"11011355","name":"BUSCH, RICHARD EDWARD","kind":"intermediary","jurisdiction":null,"sourceID":"Panama Papers","linked_vault_entities":["Oracle"]}
+{"icij_node_id":"11000652","name":"PRIVATE TRUST INTERNATIONAL","kind":"intermediary","jurisdiction":null,"sourceID":"Panama Papers","linked_vault_entities":["RAND Corporation"]}
+{"icij_node_id":"10168098","name":"SAMSON HOLDINGS INC.","kind":"entity","jurisdiction":"Panama","sourceID":"Panama Papers","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"10168099","name":"CHARLSON INC.","kind":"entity","jurisdiction":"Panama","sourceID":"Panama Papers","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"10169410","name":"MILLSIDE HOLDINGS INC.","kind":"entity","jurisdiction":"Panama","sourceID":"Panama Papers","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"10172382","name":"ADAMSON ENTERPRISES INC.","kind":"entity","jurisdiction":"Panama","sourceID":"Panama Papers","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"10169124","name":"BELLESIZE HOLDINGS INC.","kind":"entity","jurisdiction":"Panama","sourceID":"Panama Papers","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"10171096","name":"HATHAWAY INVESTMENTS INC.","kind":"entity","jurisdiction":"Panama","sourceID":"Panama Papers","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"10170458","name":"AQUABUOY INTERNATIONAL INC.","kind":"entity","jurisdiction":"Panama","sourceID":"Panama Papers","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"10170459","name":"TRACER INVESTMENTS INC.","kind":"entity","jurisdiction":"Panama","sourceID":"Panama Papers","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"10171816","name":"TOUBABOU INC.","kind":"entity","jurisdiction":"Panama","sourceID":"Panama Papers","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"10172065","name":"HOMEWAY PROPERTIES INC.","kind":"entity","jurisdiction":"Panama","sourceID":"Panama Papers","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"10174669","name":"GLENBROOK ENGINEERING SERVICES INCORPORATED","kind":"entity","jurisdiction":"Panama","sourceID":"Panama Papers","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"10181815","name":"CHEMON CORPORATION","kind":"entity","jurisdiction":"Panama","sourceID":"Panama Papers","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"10180721","name":"MARFORD INC.","kind":"entity","jurisdiction":"Panama","sourceID":"Panama Papers","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"10180742","name":"VENTOL HOLDINGS INC.","kind":"entity","jurisdiction":"Panama","sourceID":"Panama Papers","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"10182148","name":"TRISTAR ASSOCIATES INC.","kind":"entity","jurisdiction":"Panama","sourceID":"Panama Papers","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"10182447","name":"HESPERUS XIX NV INC.","kind":"entity","jurisdiction":"Panama","sourceID":"Panama Papers","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"10185546","name":"S.I.B.V. INC.","kind":"entity","jurisdiction":"Panama","sourceID":"Panama Papers","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"10185967","name":"WINDERMERE ENTERPRISES INC.","kind":"entity","jurisdiction":"Panama","sourceID":"Panama Papers","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"10185669","name":"LANTAU INC.","kind":"entity","jurisdiction":"Panama","sourceID":"Panama Papers","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"10187314","name":"AMARANTE EQUITIES INC.","kind":"entity","jurisdiction":"Panama","sourceID":"Panama Papers","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"10184546","name":"BLAIRFIELD INC.","kind":"entity","jurisdiction":"Panama","sourceID":"Panama Papers","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"10194932","name":"JUBILEE HOLDINGS INTERNATIONAL INC.","kind":"entity","jurisdiction":"Panama","sourceID":"Panama Papers","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"10195686","name":"STONEHAGE TRADING FUND INC.","kind":"entity","jurisdiction":"Panama","sourceID":"Panama Papers","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"10187794","name":"OSCAR HOLDINGS NV INC.","kind":"entity","jurisdiction":"Panama","sourceID":"Panama Papers","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"10187801","name":"NAPIER HOLDINGS INC.","kind":"entity","jurisdiction":"Panama","sourceID":"Panama Papers","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"10190052","name":"ALFAMEX HOLDINGS INC.","kind":"entity","jurisdiction":"Panama","sourceID":"Panama Papers","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"10198063","name":"FELINE INVESTMENTS INC.","kind":"entity","jurisdiction":"Panama","sourceID":"Panama Papers","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"10186749","name":"WESTBURY EQUITIES INC.","kind":"entity","jurisdiction":"Panama","sourceID":"Panama Papers","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"11005592","name":"FACTS SERVICES S.A.","kind":"intermediary","jurisdiction":null,"sourceID":"Panama Papers","linked_vault_entities":["Blackstone Group"]}
+{"icij_node_id":"10213007","name":"EALING CONFIRMING CORPORATION","kind":"entity","jurisdiction":"Panama","sourceID":"Panama Papers","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"10213031","name":"FOODEX HOLDINGS INC.","kind":"entity","jurisdiction":"Panama","sourceID":"Panama Papers","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"10213032","name":"PRASLIN INVESTMENTS INC.","kind":"entity","jurisdiction":"Panama","sourceID":"Panama Papers","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"10213593","name":"ROCKHAMPTON HOLDINGS INC.","kind":"entity","jurisdiction":"Panama","sourceID":"Panama Papers","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"10213597","name":"HOBART INVESTMENTS INC.","kind":"entity","jurisdiction":"Panama","sourceID":"Panama Papers","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"10213752","name":"WORLDWIDE DISTRIBUTION ENTERPRISES INC.","kind":"entity","jurisdiction":"Panama","sourceID":"Panama Papers","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"11003326","name":"MERIDIAN CORPORATE SERVICES","kind":"intermediary","jurisdiction":null,"sourceID":"Panama Papers","linked_vault_entities":["Adam Smith"]}
+{"icij_node_id":"11004457","name":"GECKO CORPORATE SERVICES","kind":"intermediary","jurisdiction":null,"sourceID":"Panama Papers","linked_vault_entities":["Fidelity Investments"]}
+{"icij_node_id":"11009501","name":"EQUUS CAPITAL AG (ZURICH CLIENT)","kind":"intermediary","jurisdiction":null,"sourceID":"Panama Papers","linked_vault_entities":["Moderna"]}
+{"icij_node_id":"11000382","name":"HELENE MATHIEU LEGAL CONSULTANTS","kind":"intermediary","jurisdiction":null,"sourceID":"Panama Papers","linked_vault_entities":["General Dynamics"]}
+{"icij_node_id":"291097","name":"Gateway 21 Consultants Pte Ltd","kind":"intermediary","jurisdiction":null,"sourceID":"Offshore Leaks","linked_vault_entities":["Gilead Sciences"]}
+{"icij_node_id":"168630","name":"Ocean Investments Limited","kind":"entity","jurisdiction":"Samoa","sourceID":"Offshore Leaks","linked_vault_entities":["David Scott"]}
+{"icij_node_id":"180073","name":"David Scott","kind":"entity","jurisdiction":"Undetermined","sourceID":"Offshore Leaks","linked_vault_entities":["David Scott"]}
+{"icij_node_id":"139676","name":"BAYSIDE BEAUTY LIMITED","kind":"entity","jurisdiction":"British Virgin Islands","sourceID":"Offshore Leaks","linked_vault_entities":["K&L Gates"]}
+{"icij_node_id":"124228","name":"C&P ENGINEERING CONSULTANTS OVERSEAS LIMITED","kind":"entity","jurisdiction":"British Virgin Islands","sourceID":"Offshore Leaks","linked_vault_entities":["Susie Lee"]}
+{"icij_node_id":"292561","name":"K.C. Ho & Fong, Solicitors","kind":"intermediary","jurisdiction":null,"sourceID":"Offshore Leaks","linked_vault_entities":["Amazon"]}
+{"icij_node_id":"168056","name":"Helensburgh Company Limited","kind":"entity","jurisdiction":"Cook Islands","sourceID":"Offshore Leaks","linked_vault_entities":["Susie Lee"]}
+{"icij_node_id":"168047","name":"Freestyle Limited","kind":"entity","jurisdiction":"Cook Islands","sourceID":"Offshore Leaks","linked_vault_entities":["Susie Lee"]}
+{"icij_node_id":"168076","name":"Newton Limited","kind":"entity","jurisdiction":"Cook Islands","sourceID":"Offshore Leaks","linked_vault_entities":["Susie Lee"]}
+{"icij_node_id":"168078","name":"Wai Yip Trustee Limited","kind":"entity","jurisdiction":"Cook Islands","sourceID":"Offshore Leaks","linked_vault_entities":["Susie Lee"]}
+{"icij_node_id":"182716","name":"James O'keefe","kind":"entity","jurisdiction":"Undetermined","sourceID":"Offshore Leaks","linked_vault_entities":["James O'Keefe"]}
+{"icij_node_id":"139978","name":"FAMOUS STAR INVESTMENT LIMITED","kind":"entity","jurisdiction":"British Virgin Islands","sourceID":"Offshore Leaks","linked_vault_entities":["K&L Gates"]}
+{"icij_node_id":"147398","name":"Source Photonics Holdings Limited","kind":"entity","jurisdiction":"British Virgin Islands","sourceID":"Offshore Leaks","linked_vault_entities":["K&L Gates"]}
+{"icij_node_id":"297709","name":"Adam R. Schiffman P.A.","kind":"intermediary","jurisdiction":null,"sourceID":"Offshore Leaks","linked_vault_entities":["Blackstone Group"]}
+{"icij_node_id":"187461","name":"Susie Lee","kind":"entity","jurisdiction":"Undetermined","sourceID":"Offshore Leaks","linked_vault_entities":["Susie Lee"]}
+{"icij_node_id":"169144","name":"O'Keefe Family Irrevocable Trust","kind":"entity","jurisdiction":"Cook Islands","sourceID":"Offshore Leaks","linked_vault_entities":["James O'Keefe"]}
+{"icij_node_id":"185787","name":"K&L Gates ????????","kind":"entity","jurisdiction":"Undetermined","sourceID":"Offshore Leaks","linked_vault_entities":["K&L Gates"]}
+{"icij_node_id":"293360","name":"Lourie & Cutler, P.C.","kind":"intermediary","jurisdiction":null,"sourceID":"Offshore Leaks","linked_vault_entities":["Apple"]}
+{"icij_node_id":"119997","name":"Baker & McKenzie Advokatbyrå KB","kind":"intermediary","jurisdiction":null,"sourceID":"Offshore Leaks","linked_vault_entities":["Southern Company"]}
+{"icij_node_id":"141338","name":"Shoe Max International Co., Ltd.","kind":"entity","jurisdiction":"British Virgin Islands","sourceID":"Offshore Leaks","linked_vault_entities":["K&L Gates"]}
+{"icij_node_id":"296275","name":"Taylor C. Fletcher","kind":"intermediary","jurisdiction":null,"sourceID":"Offshore Leaks","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"46252","name":"Lorenz Hennryk Gustav                   ","kind":"officer","jurisdiction":null,"sourceID":"Offshore Leaks","linked_vault_entities":["Amazon"]}
+{"icij_node_id":"54662","name":"Portcullis TrustNet (BVI) Limited","kind":"officer","jurisdiction":null,"sourceID":"Offshore Leaks","linked_vault_entities":["Gilead Sciences"]}
+{"icij_node_id":"56917","name":"Trustcorp Limited","kind":"officer","jurisdiction":null,"sourceID":"Offshore Leaks","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"98876","name":"Amy B. Naughton","kind":"officer","jurisdiction":null,"sourceID":"Offshore Leaks","linked_vault_entities":["Apple"]}
+{"icij_node_id":"113638","name":"Directcorp Limited ","kind":"officer","jurisdiction":null,"sourceID":"Offshore Leaks","linked_vault_entities":["Amazon"]}
+{"icij_node_id":"49616","name":"Secorp Limited","kind":"officer","jurisdiction":null,"sourceID":"Offshore Leaks","linked_vault_entities":["Amazon"]}
+{"icij_node_id":"65572","name":"Taylor Dakota Crosby Fletcher, III      ","kind":"officer","jurisdiction":null,"sourceID":"Offshore Leaks","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"108487","name":"Serenity Autumn Star Fletcher           ","kind":"officer","jurisdiction":null,"sourceID":"Offshore Leaks","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"63699","name":"Kashi Bob Mason                         ","kind":"officer","jurisdiction":null,"sourceID":"Offshore Leaks","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"112992","name":"Bonita L. Fletcher                      ","kind":"officer","jurisdiction":null,"sourceID":"Offshore Leaks","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"118154","name":"Taylor C. Fletcher, II                  ","kind":"officer","jurisdiction":null,"sourceID":"Offshore Leaks","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"122427","name":"Mycah Taylor Mason                      ","kind":"officer","jurisdiction":null,"sourceID":"Offshore Leaks","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"122163","name":"Peggy Q. Jamison                        ","kind":"officer","jurisdiction":null,"sourceID":"Offshore Leaks","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"43281","name":"Barbara Lenz","kind":"officer","jurisdiction":null,"sourceID":"Offshore Leaks","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"51677","name":"Luke M. Lambert","kind":"officer","jurisdiction":null,"sourceID":"Offshore Leaks","linked_vault_entities":["Apple"]}
+{"icij_node_id":"57202","name":"Bruce Levine","kind":"officer","jurisdiction":null,"sourceID":"Offshore Leaks","linked_vault_entities":["Apple"]}
+{"icij_node_id":"117689","name":"Brent W. Lambert","kind":"officer","jurisdiction":null,"sourceID":"Offshore Leaks","linked_vault_entities":["Apple"]}
+{"icij_node_id":"111699","name":"Fidelitycorp Limited","kind":"officer","jurisdiction":null,"sourceID":"Offshore Leaks","linked_vault_entities":["Apple","Southern Company"]}
+{"icij_node_id":"86785","name":"Ulla Birgitta Johnson","kind":"officer","jurisdiction":null,"sourceID":"Offshore Leaks","linked_vault_entities":["Southern Company"]}
+{"icij_node_id":"110097","name":"Hans Anton Thulin","kind":"officer","jurisdiction":null,"sourceID":"Offshore Leaks","linked_vault_entities":["Southern Company"]}
+{"icij_node_id":"80230","name":"Koh Kok Ong (Xu Guowang)","kind":"officer","jurisdiction":null,"sourceID":"Offshore Leaks","linked_vault_entities":["Gilead Sciences"]}
+{"icij_node_id":"158624","name":"CP Secure International Holding Limited","kind":"entity","jurisdiction":"Cayman","sourceID":"Offshore Leaks","linked_vault_entities":["Citigroup"]}
+{"icij_node_id":"10167619","name":"Maude Street Investments Limited","kind":"entity","jurisdiction":"British Virgin Islands","sourceID":"Panama Papers","linked_vault_entities":["David McCormick"]}
+{"icij_node_id":"13003192","name":"ANTOINE HERVE MARIE RIVIERE","kind":"officer","jurisdiction":null,"sourceID":"Panama Papers","linked_vault_entities":["Adam Smith"]}
+{"icij_node_id":"10150192","name":"CarPay Corporation","kind":"entity","jurisdiction":"British Virgin Islands","sourceID":"Panama Papers","linked_vault_entities":["John Oliver"]}
+{"icij_node_id":"10125218","name":"CHARMATIC LIMITED","kind":"entity","jurisdiction":"British Virgin Islands","sourceID":"Panama Papers","linked_vault_entities":["The Bulwark"]}
+{"icij_node_id":"12201936","name":"THE BEARER","kind":"officer","jurisdiction":null,"sourceID":"Panama Papers","linked_vault_entities":["Blackstone Group"]}
+{"icij_node_id":"12217216","name":"THE BEARER","kind":"officer","jurisdiction":null,"sourceID":"Panama Papers","linked_vault_entities":["Blackstone Group"]}
+{"icij_node_id":"12011744","name":"EL PORTADOR","kind":"officer","jurisdiction":null,"sourceID":"Panama Papers","linked_vault_entities":["Blackstone Real Estate"]}
+{"icij_node_id":"12011745","name":"OMAR OSVALDO PEREIRA","kind":"officer","jurisdiction":null,"sourceID":"Panama Papers","linked_vault_entities":["Blackstone Real Estate"]}
+{"icij_node_id":"12011823","name":"EL PORTADOR","kind":"officer","jurisdiction":null,"sourceID":"Panama Papers","linked_vault_entities":["Blackstone Real Estate"]}
+{"icij_node_id":"12011824","name":"EL PORTADOR","kind":"officer","jurisdiction":null,"sourceID":"Panama Papers","linked_vault_entities":["Blackstone Real Estate"]}
+{"icij_node_id":"12011825","name":"BARBARA SOL PEREIRA","kind":"officer","jurisdiction":null,"sourceID":"Panama Papers","linked_vault_entities":["Blackstone Real Estate"]}
+{"icij_node_id":"12011826","name":"EL PORTADOR","kind":"officer","jurisdiction":null,"sourceID":"Panama Papers","linked_vault_entities":["Blackstone Real Estate"]}
+{"icij_node_id":"12011827","name":"SOFIA LUZ PEREIRA","kind":"officer","jurisdiction":null,"sourceID":"Panama Papers","linked_vault_entities":["Blackstone Real Estate"]}
+{"icij_node_id":"10049393","name":"GRANFORD CORP.","kind":"entity","jurisdiction":"Panama","sourceID":"Panama Papers","linked_vault_entities":["Apple"]}
+{"icij_node_id":"10064709","name":"RELAX LIMITED","kind":"entity","jurisdiction":"British Virgin Islands","sourceID":"Panama Papers","linked_vault_entities":["Robin Hood Foundation"]}
+{"icij_node_id":"10208657","name":"JAYE LIMITED","kind":"entity","jurisdiction":"British Virgin Islands","sourceID":"Panama Papers","linked_vault_entities":["The Bulwark"]}
+{"icij_node_id":"10171810","name":"HERITAGE OIL & GAS LIMITED","kind":"entity","jurisdiction":"Bahamas","sourceID":"Panama Papers","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"12106485","name":"CHEZ ANTOINE LTD","kind":"officer","jurisdiction":null,"sourceID":"Panama Papers","linked_vault_entities":["Adam Smith"]}
+{"icij_node_id":"12142536","name":"ADAM SMITH ASSOCIATES PVT LTD.","kind":"officer","jurisdiction":null,"sourceID":"Panama Papers","linked_vault_entities":["Adam Smith"]}
+{"icij_node_id":"12149586","name":"ADAM SMITH ASSOCIATES PVT LTD.","kind":"officer","jurisdiction":null,"sourceID":"Panama Papers","linked_vault_entities":["Adam Smith"]}
+{"icij_node_id":"12019160","name":"CROWN MANAGEMENT LIMITED","kind":"officer","jurisdiction":null,"sourceID":"Panama Papers","linked_vault_entities":["Fidelity Investments"]}
+{"icij_node_id":"10154612","name":"ALBERY MANAGEMENT LIMITED","kind":"entity","jurisdiction":"British Virgin Islands","sourceID":"Panama Papers","linked_vault_entities":["John Oliver"]}
+{"icij_node_id":"10170830","name":"OXENFORD MANAGEMENT LIMITED","kind":"entity","jurisdiction":"British Virgin Islands","sourceID":"Panama Papers","linked_vault_entities":["John Oliver"]}
+{"icij_node_id":"10052551","name":"CIRCLE BUSINESS INC.","kind":"entity","jurisdiction":"Panama","sourceID":"Panama Papers","linked_vault_entities":["DoorDash"]}
+{"icij_node_id":"12191323","name":"ULADZIMIR BOUIE","kind":"officer","jurisdiction":null,"sourceID":"Panama Papers","linked_vault_entities":["General Dynamics"]}
+{"icij_node_id":"12191324","name":"VIKTOR OTKIDYCH","kind":"officer","jurisdiction":null,"sourceID":"Panama Papers","linked_vault_entities":["General Dynamics"]}
+{"icij_node_id":"12191325","name":"SERGEY TERECHSHENKO","kind":"officer","jurisdiction":null,"sourceID":"Panama Papers","linked_vault_entities":["General Dynamics"]}
+{"icij_node_id":"12087110","name":"THE BEARER","kind":"officer","jurisdiction":null,"sourceID":"Panama Papers","linked_vault_entities":["Carlyle Group"]}
+{"icij_node_id":"22021046","name":"COURT ADMINISTRATION LIMI","kind":"officer","jurisdiction":null,"sourceID":"Bahamas Leaks","linked_vault_entities":["BlackRock"]}
+{"icij_node_id":"22006964","name":"CREDIT SUISSE TRUST LIMIT","kind":"officer","jurisdiction":null,"sourceID":"Bahamas Leaks","linked_vault_entities":["BlackRock"]}
+{"icij_node_id":"22015158","name":"PRIMARY MANAGEMENT LIMITE","kind":"officer","jurisdiction":null,"sourceID":"Bahamas Leaks","linked_vault_entities":["BlackRock"]}
+{"icij_node_id":"22019811","name":"PRISM MANAGEMENT LIMITED","kind":"officer","jurisdiction":null,"sourceID":"Bahamas Leaks","linked_vault_entities":["BlackRock"]}
+{"icij_node_id":"22009675","name":"INTERNATIONAL CORPORATE S","kind":"officer","jurisdiction":null,"sourceID":"Bahamas Leaks","linked_vault_entities":["Bradley Foundation"]}
+{"icij_node_id":"22001978","name":"STANDARD NOMINEES (BAHAMA","kind":"officer","jurisdiction":null,"sourceID":"Bahamas Leaks","linked_vault_entities":["Bradley Foundation"]}
+{"icij_node_id":"82000157","name":"Acordia Management Services Ltd.","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["GREEN, MARK"]}
+{"icij_node_id":"82000425","name":"Shield Insurance Company, Ltd.","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Alex Azar"]}
+{"icij_node_id":"82000473","name":"McDONALD'S OWNER/OPERATOR INSURANCE COMPANY, LTD.","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["HERN, KEVIN","THOMPSON, MICHAEL"]}
+{"icij_node_id":"82001168","name":"Kitty Hawk Insurance Company, Ltd.","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["MILLER, STEPHEN"]}
+{"icij_node_id":"82001609","name":"LL&E Tunisia Ltd","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["David Scott"]}
+{"icij_node_id":"82001725","name":"LL&E Venezuela, Ltd.","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["David Scott"]}
+{"icij_node_id":"82002511","name":"Delta Centro Operating Company, Ltd.","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["David Scott"]}
+{"icij_node_id":"82002575","name":"Centre Life Reinsurance Limited","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Michael Regan"]}
+{"icij_node_id":"82002605","name":"PAR Holdings, Ltd.","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Christopher H. Smith"]}
+{"icij_node_id":"82002606","name":"Professional Agencies Reinsurance, Ltd.","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Christopher H. Smith"]}
+{"icij_node_id":"82002671","name":"Marib Upstream Services Company Ltd.","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Rex Tillerson"]}
+{"icij_node_id":"82003149","name":"Burlington Resources Peru Limited","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["David Scott"]}
+{"icij_node_id":"82003465","name":"Burlington Resources Eritrea Limited","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["David Scott"]}
+{"icij_node_id":"82003573","name":"Burlington Resources Latin America Holding Co. Limited","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["David Scott"]}
+{"icij_node_id":"82003574","name":"Burlington Resources Oriente Limited","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["David Scott"]}
+{"icij_node_id":"82003624","name":"Burlington Resources Suriname Limited","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["David Scott"]}
+{"icij_node_id":"82003644","name":"Burlington Resources Ecuador Limited","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["David Scott"]}
+{"icij_node_id":"82003671","name":"Burlington Resources (Meboun) Limited","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["David Scott"]}
+{"icij_node_id":"82003925","name":"Burlington Resources Colombia Limited","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["David Scott"]}
+{"icij_node_id":"82004040","name":"Capstone Insurance Company, Ltd.","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Mike Johnson"]}
+{"icij_node_id":"82004083","name":"Burlington Resources Bangladesh Limited","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["David Scott"]}
+{"icij_node_id":"82004086","name":"Burlington Resources China Limited","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["David Scott"]}
+{"icij_node_id":"82004194","name":"Burlington Resources (Tungkal) Limited","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["David Scott"]}
+{"icij_node_id":"82004195","name":"Burlington Resources (Sakakemang) Limited","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["David Scott"]}
+{"icij_node_id":"82004403","name":"Burlington Resources (MPolo) Limited","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["David Scott"]}
+{"icij_node_id":"82004404","name":"Burlington Resources (Chaillu) Limited","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["David Scott"]}
+{"icij_node_id":"82004548","name":"Merrill Lynch (Bermuda) Services Limited","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["WELCH, PETER"]}
+{"icij_node_id":"80037547","name":"Alford - Bradley K","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Duke Energy"]}
+{"icij_node_id":"80036770","name":"Graebner - Carol F","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Duke Energy"]}
+{"icij_node_id":"80037789","name":"Dill - Julie A.","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Duke Energy"]}
+{"icij_node_id":"80037566","name":"McGee - Richard K","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Duke Energy"]}
+{"icij_node_id":"80037777","name":"Bailey - Brent C","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Duke Energy"]}
+{"icij_node_id":"80055507","name":"de Battista - Anna","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Duke Energy"]}
+{"icij_node_id":"80075051","name":"Harris - Geraldine","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Duke Energy"]}
+{"icij_node_id":"80036298","name":"Blackburn - Richard W","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Duke Energy"]}
+{"icij_node_id":"80039446","name":"Butler - Keith G","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Duke Energy"]}
+{"icij_node_id":"80050921","name":"Cobb, Jr - Alton P","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Duke Energy"]}
+{"icij_node_id":"80051385","name":"Collis - Graham B R","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Duke Energy"]}
+{"icij_node_id":"80144291","name":"Williamson - Bruce A.","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Duke Energy"]}
+{"icij_node_id":"80099957","name":"McDanold - Michael J","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Duke Energy"]}
+{"icij_node_id":"80137250","name":"Trollope - Nicholas G","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Duke Energy"]}
+{"icij_node_id":"80078802","name":"Howell - Kevin T","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Duke Energy"]}
+{"icij_node_id":"80111212","name":"Pearman - Richard S L","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Duke Energy"]}
+{"icij_node_id":"80082794","name":"Jeffares - Paul R","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Duke Energy"]}
+{"icij_node_id":"80107448","name":"Norris - John F","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Duke Energy"]}
+{"icij_node_id":"80098968","name":"Mashinski - Carla","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Duke Energy"]}
+{"icij_node_id":"80037190","name":"Macri - Kenneth P","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Duke Energy"]}
+{"icij_node_id":"80039259","name":"Wisniewski - Brenda B","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Duke Energy"]}
+{"icij_node_id":"82004911","name":"Perinvest Management Limited","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["KELLY, JOHN"]}
+{"icij_node_id":"82004917","name":"Burlington Resources Andean Limited","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["David Scott"]}
+{"icij_node_id":"82005148","name":"Burlington Resources Angola Limited","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["David Scott"]}
+{"icij_node_id":"82005291","name":"Burlington Resources Algeria Holdings Limited","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["David Scott"]}
+{"icij_node_id":"82005292","name":"Burlington Resources China Holdings Limited","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["David Scott"]}
+{"icij_node_id":"82005293","name":"Burlington Resources Egypt Holdings Limited","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["David Scott"]}
+{"icij_node_id":"82005308","name":"Burlington Resources International Investments Limited","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["David Scott"]}
+{"icij_node_id":"82005530","name":"PETROBRAS ENERGÍA BERMUDA LIMITED","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["David Scott"]}
+{"icij_node_id":"82005631","name":"Acordia Brokerage Services Ltd.","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["GREEN, MARK"]}
+{"icij_node_id":"82005879","name":"Classic Cycles Ltd.","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["THOMPSON, MICHAEL"]}
+{"icij_node_id":"80122157","name":"Schwartz - Robert","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"80074966","name":"Harper - Robert H","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"80036601","name":"Bloom - Howard","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"80128535","name":"Stone - Russell G","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"80068688","name":"Gatti - Thomas A","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"80124716","name":"Silverman - Steven E","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"80128515","name":"Stone - Joel A","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"80036593","name":"Bloom - Ashley Barrett","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"82007094","name":"BSG Clearing Solutions Asia Limited","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Robert Garcia"]}
+{"icij_node_id":"82008370","name":"Inspiration Office Ltd.","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["JOHNSON, MICHAEL"]}
+{"icij_node_id":"82010786","name":"Bay Resource Partners Offshore Fund, Ltd.","kind":"entity","jurisdiction":"Cayman Islands","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Goldman Sachs"]}
+{"icij_node_id":"80135354","name":"Jenkins - Gerardo Luis Adame","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Fidelity Investments"]}
+{"icij_node_id":"80135351","name":"Barocio - Alfonso Adame","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Fidelity Investments"]}
+{"icij_node_id":"82020023","name":"Sands Aviation Bermuda Ltd.","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Las Vegas Sands"]}
+{"icij_node_id":"80121577","name":"Scheinberg - Igal Mark","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Appleby","linked_vault_entities":["DoorDash"]}
+{"icij_node_id":"80010095","name":"Appleby Trust (Isle of Man) Limited","kind":"intermediary","jurisdiction":null,"sourceID":"Paradise Papers - Appleby","linked_vault_entities":["DoorDash"]}
+{"icij_node_id":"82022010","name":"C.I. Enterprises Limited","kind":"entity","jurisdiction":"Cayman Islands","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Patrick Ryan"]}
+{"icij_node_id":"82022660","name":"Vanbridge Holdings Ltd.","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Adam Smith"]}
+{"icij_node_id":"82004641","name":"The Falcon (Bermuda) Settlement","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Lockheed Martin"]}
+{"icij_node_id":"80127289","name":"Sretavan - Yee Lai","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Apple"]}
+{"icij_node_id":"80127292","name":"Sretavan - Shirley Wong Man Yan","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Apple"]}
+{"icij_node_id":"80004551","name":"TEXAS EASTERN (BERMUDA) LTD.","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Duke Energy"]}
+{"icij_node_id":"80005169","name":"Duke Energy International Asia Pacific, Ltd.","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Duke Energy"]}
+{"icij_node_id":"82018890","name":"Termtec Ltd.","kind":"entity","jurisdiction":"Cayman Islands","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Fidelity Investments"]}
+{"icij_node_id":"82008649","name":"WPPEXB, L.P.","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Alabama Power"]}
+{"icij_node_id":"80034437","name":"BEARER","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Fidelity Investments"]}
+{"icij_node_id":"82003579","name":"Devon Energy Insurance Company Limited","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Devon Energy"]}
+{"icij_node_id":"82010540","name":"Ferrous Resources Limited","kind":"entity","jurisdiction":"Isle of Man","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Goldman Sachs","Morgan Stanley"]}
+{"icij_node_id":"82000224","name":"General International Limited","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["General Motors"]}
+{"icij_node_id":"82000168","name":"Papillon Insurance Services Limited","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Honeywell International"]}
+{"icij_node_id":"82002840","name":"Asia Broadcast Satellite Holdings, Ltd.","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Lockheed Martin"]}
+{"icij_node_id":"82000444","name":"THL Ltd.","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Penny Pritzker"]}
+{"icij_node_id":"82000595","name":"TRITON CONTAINER INTERNATIONAL LIMITED","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Penny Pritzker"]}
+{"icij_node_id":"82014720","name":"IAS Holdings Limited","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Penny Pritzker"]}
+{"icij_node_id":"82001947","name":"Western International Financial Group Ltd.","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Penny Pritzker"]}
+{"icij_node_id":"82013792","name":"Australia Acquisition Corp.","kind":"entity","jurisdiction":"Cayman Islands","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Drummond Co."]}
+{"icij_node_id":"82003012","name":"Boeing International Holdings, Ltd.","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Boeing"]}
+{"icij_node_id":"82003041","name":"Boeing Worldwide Operations Limited","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Boeing"]}
+{"icij_node_id":"82003472","name":"Cougar, Ltd.","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Boeing"]}
+{"icij_node_id":"82005946","name":"Heritage LTD.","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"82000026","name":"Commercial & Manufacturers Insurance Limited","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["WILKIE, ROBERT"]}
+{"icij_node_id":"82005363","name":"TAS Energy**INCOMPLETE**","kind":"entity","jurisdiction":"Cayman Islands","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Chris Wright"]}
+{"icij_node_id":"82022840","name":"Waterfront Developments Ltd.","kind":"entity","jurisdiction":"Cayman Islands","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"82002505","name":"WORLDCARE LIMITED","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Bradley Foundation"]}
+{"icij_node_id":"82020343","name":"Unitus Seed Fund, LP","kind":"entity","jurisdiction":"Cayman Islands","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["ImpactAssets"]}
+{"icij_node_id":"82005152","name":"Mortgage Group Reinsurance Ltd.","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Citigroup"]}
+{"icij_node_id":"82007910","name":"Morgan Stanley Reinsurance Alpha Ltd.","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Morgan Stanley"]}
+{"icij_node_id":"82009867","name":"Morgan Stanley Reinsurance Ltd.","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Morgan Stanley"]}
+{"icij_node_id":"82008648","name":"Warburg Pincus (Bermuda) Private Equity X, L.P.","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Bank of America"]}
+{"icij_node_id":"82001473","name":"Tyson International Company, Ltd.","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Tyson Foods"]}
+{"icij_node_id":"82001580","name":"Tryon Assurance Company, Ltd.","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Bank of America"]}
+{"icij_node_id":"82016093","name":"Amgen Clinical Development 7, Limited","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Amgen Inc"]}
+{"icij_node_id":"82016094","name":"Amgen Clinical Development 8, Limited","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Amgen Inc"]}
+{"icij_node_id":"82016101","name":"Amgen Technology, Limited","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Amgen Inc"]}
+{"icij_node_id":"82021458","name":"ATL Holdings II Limited","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Amgen Inc"]}
+{"icij_node_id":"82021460","name":"ATL Holdings Limited","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Amgen Inc"]}
+{"icij_node_id":"82001460","name":"Interlocutory Limited","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Ford Motor Company"]}
+{"icij_node_id":"82002961","name":"Heritage Reinsurance Company, Ltd.","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"82003923","name":"GM Imports & Trading Ltd.","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["General Motors"]}
+{"icij_node_id":"82000089","name":"Tarpon Company Limited","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Johnson & Johnson"]}
+{"icij_node_id":"82000100","name":"Monmouth Ltd.","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Johnson & Johnson"]}
+{"icij_node_id":"82005372","name":"Burlington Northern Santa Fe Insurance Company, Ltd.","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Michael Regan"]}
+{"icij_node_id":"82011015","name":"B767 Owner Limited","kind":"entity","jurisdiction":"Cayman Islands","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Brian Jack"]}
+{"icij_node_id":"82011016","name":"B767 Holding Company Limited","kind":"entity","jurisdiction":"Cayman Islands","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Brian Jack"]}
+{"icij_node_id":"82006682","name":"Billing Services Group Limited","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["Christopher H. Smith"]}
+{"icij_node_id":"82009674","name":"Q Re Intermediary Holdings Ltd.","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["David J. Taylor"]}
+{"icij_node_id":"82009272","name":"S Re Ltd.","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["David J. Taylor"]}
+{"icij_node_id":"82009265","name":"T Re (Bermuda) Ltd.","kind":"entity","jurisdiction":"Bermuda","sourceID":"Paradise Papers - Appleby","linked_vault_entities":["David J. Taylor"]}
+{"icij_node_id":"85025445","name":"TAMBURA A.V.V.","kind":"entity","jurisdiction":"Aruba","sourceID":"Paradise Papers - Aruba corporate registry","linked_vault_entities":["Michael R. Turner"]}
+{"icij_node_id":"32000168","name":"TRUST CORP OF THE BAHAMAS","kind":"intermediary","jurisdiction":null,"sourceID":"Paradise Papers - Bahamas corporate registry","linked_vault_entities":["Amazon"]}
+{"icij_node_id":"32000226","name":"H & J CORPORATE SERVICES LTD.","kind":"intermediary","jurisdiction":null,"sourceID":"Paradise Papers - Bahamas corporate registry","linked_vault_entities":["Fidelity Investments"]}
+{"icij_node_id":"32000232","name":"OWNER","kind":"intermediary","jurisdiction":null,"sourceID":"Paradise Papers - Bahamas corporate registry","linked_vault_entities":["Southern Company"]}
+{"icij_node_id":"32000236","name":"Internal User","kind":"intermediary","jurisdiction":null,"sourceID":"Paradise Papers - Bahamas corporate registry","linked_vault_entities":["Southern Company","Heritage Foundation","Oracle"]}
+{"icij_node_id":"30003393","name":"ATLANTIC PROPERTIES LTD","kind":"entity","jurisdiction":"Bahamas","sourceID":"Paradise Papers - Bahamas corporate registry","linked_vault_entities":["Johnson & Johnson"]}
+{"icij_node_id":"30004310","name":"PROTOCOL TRADING CORPORATION (INAGUA) LIMITED","kind":"entity","jurisdiction":"Bahamas","sourceID":"Paradise Papers - Bahamas corporate registry","linked_vault_entities":["Johnson & Johnson"]}
+{"icij_node_id":"30007108","name":"CLEIFE AND COMPANY LIMITED","kind":"entity","jurisdiction":"Bahamas","sourceID":"Paradise Papers - Bahamas corporate registry","linked_vault_entities":["Johnson & Johnson"]}
+{"icij_node_id":"30020323","name":"SATCO LIMITED","kind":"entity","jurisdiction":"Bahamas","sourceID":"Paradise Papers - Bahamas corporate registry","linked_vault_entities":["Johnson & Johnson"]}
+{"icij_node_id":"30020693","name":"GRAPHIC BUILDERS LIMITED","kind":"entity","jurisdiction":"Bahamas","sourceID":"Paradise Papers - Bahamas corporate registry","linked_vault_entities":["Johnson & Johnson"]}
+{"icij_node_id":"30020963","name":"ILLUSTRATED PROPERTIES LIMITED","kind":"entity","jurisdiction":"Bahamas","sourceID":"Paradise Papers - Bahamas corporate registry","linked_vault_entities":["Johnson & Johnson"]}
+{"icij_node_id":"30021921","name":"BOMER LIMITED","kind":"entity","jurisdiction":"Bahamas","sourceID":"Paradise Papers - Bahamas corporate registry","linked_vault_entities":["Johnson & Johnson"]}
+{"icij_node_id":"30021248","name":"METRO LIMITED","kind":"entity","jurisdiction":"Bahamas","sourceID":"Paradise Papers - Bahamas corporate registry","linked_vault_entities":["Johnson & Johnson"]}
+{"icij_node_id":"100314621","name":"OLD TREES DEVELOPMENT LIMITED","kind":"entity","jurisdiction":"Barbados","sourceID":"Paradise Papers - Barbados corporate registry","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"110009454","name":"TEMPRO FRANCES P.","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Barbados corporate registry","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"110017248","name":"ARTHUR JERRY R.","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Barbados corporate registry","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"100614134","name":"WESTLAKE CORPORATION","kind":"entity","jurisdiction":"Barbados","sourceID":"Paradise Papers - Barbados corporate registry","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"100319503","name":"TARA INVESTMENTS INC.","kind":"entity","jurisdiction":"Barbados","sourceID":"Paradise Papers - Barbados corporate registry","linked_vault_entities":["Alan Armstrong"]}
+{"icij_node_id":"100619727","name":"HOWICK CORPORATION","kind":"entity","jurisdiction":"Barbados","sourceID":"Paradise Papers - Barbados corporate registry","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"100615402","name":"FERNGLEN CORPORATION","kind":"entity","jurisdiction":"Barbados","sourceID":"Paradise Papers - Barbados corporate registry","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"100616203","name":"SUGAR FOUR LTD.","kind":"entity","jurisdiction":"Barbados","sourceID":"Paradise Papers - Barbados corporate registry","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"101713655","name":"LORAN NETWORK MANAGEMENT LTD.","kind":"entity","jurisdiction":"Barbados","sourceID":"Paradise Papers - Barbados corporate registry","linked_vault_entities":["John Kennedy"]}
+{"icij_node_id":"101713764","name":"ARKMOUNT SYSTEMS INTERNATIONAL INC.","kind":"entity","jurisdiction":"Barbados","sourceID":"Paradise Papers - Barbados corporate registry","linked_vault_entities":["Michael Lawler"]}
+{"icij_node_id":"100629227","name":"KAUPTHING SINGER & FREIDLANDER (ISLE OF MAN) LIMITED","kind":"entity","jurisdiction":"Barbados","sourceID":"Paradise Papers - Barbados corporate registry","linked_vault_entities":["Michael K. Simpson"]}
+{"icij_node_id":"110051795","name":"BLANCHARD AUDREY ANNE","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Barbados corporate registry","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"100302070","name":"ASSOCIATED CONSULTING ENGINEERS LIMITED","kind":"entity","jurisdiction":"Barbados","sourceID":"Paradise Papers - Barbados corporate registry","linked_vault_entities":["Alan Armstrong"]}
+{"icij_node_id":"101419734","name":"PEREGRINE SYSTEMS GLOBAL LIMITED","kind":"entity","jurisdiction":"Barbados","sourceID":"Paradise Papers - Barbados corporate registry","linked_vault_entities":["John Kennedy"]}
+{"icij_node_id":"100617694","name":"VERULUM CORPORATION","kind":"entity","jurisdiction":"Barbados","sourceID":"Paradise Papers - Barbados corporate registry","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"100612354","name":"HOLIDAY HOLDINGS LIMITED","kind":"entity","jurisdiction":"Barbados","sourceID":"Paradise Papers - Barbados corporate registry","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"101804179","name":"THE CARIBBEAN BROADCASTING UNION","kind":"entity","jurisdiction":"Barbados","sourceID":"Paradise Papers - Barbados corporate registry","linked_vault_entities":["THOMPSON, MICHAEL"]}
+{"icij_node_id":"110070021","name":"PUNNETT PENELOPE HEATHER","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Barbados corporate registry","linked_vault_entities":["Southern Company"]}
+{"icij_node_id":"100615723","name":"MANZANILLA LIMITED","kind":"entity","jurisdiction":"Barbados","sourceID":"Paradise Papers - Barbados corporate registry","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"100617167","name":"HAMBLETON INVESTMENT CO. LTD","kind":"entity","jurisdiction":"Barbados","sourceID":"Paradise Papers - Barbados corporate registry","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"100617189","name":"IMSTER CORPORATION","kind":"entity","jurisdiction":"Barbados","sourceID":"Paradise Papers - Barbados corporate registry","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"100305566","name":"ALAN ARMSTRONG ASSOCIATES LTD.","kind":"entity","jurisdiction":"Barbados","sourceID":"Paradise Papers - Barbados corporate registry","linked_vault_entities":["Alan Armstrong"]}
+{"icij_node_id":"110085393","name":"FARMER STEPHEN W.","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Barbados corporate registry","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"100326995","name":"KERRY INVESTMENTS LTD.","kind":"entity","jurisdiction":"Barbados","sourceID":"Paradise Papers - Barbados corporate registry","linked_vault_entities":["Alan Armstrong"]}
+{"icij_node_id":"110089951","name":"HARRIS MARK N","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Barbados corporate registry","linked_vault_entities":["Mark Harris"]}
+{"icij_node_id":"100617788","name":"MANGO INVESTMENTS LIMITED","kind":"entity","jurisdiction":"Barbados","sourceID":"Paradise Papers - Barbados corporate registry","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"100620430","name":"HALCOMBE CORP","kind":"entity","jurisdiction":"Barbados","sourceID":"Paradise Papers - Barbados corporate registry","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"100319260","name":"PALACE DEVELOPMENT LIMITED","kind":"entity","jurisdiction":"Barbados","sourceID":"Paradise Papers - Barbados corporate registry","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"100304210","name":"EVELYN ROACH TRANSPORT LIMITED","kind":"entity","jurisdiction":"Barbados","sourceID":"Paradise Papers - Barbados corporate registry","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"100617134","name":"CRESENT CORPORATION","kind":"entity","jurisdiction":"Barbados","sourceID":"Paradise Papers - Barbados corporate registry","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"100615867","name":"TRANQUILITY HOLDINGS, INC.","kind":"entity","jurisdiction":"Barbados","sourceID":"Paradise Papers - Barbados corporate registry","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"110109025","name":"EVELYN PETER R.P.","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Barbados corporate registry","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"110115929","name":"GITTENS THEODORE DAVID","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Barbados corporate registry","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"100305859","name":"CLAUDIUS BECKLES ELECTRICAL INC.","kind":"entity","jurisdiction":"Barbados","sourceID":"Paradise Papers - Barbados corporate registry","linked_vault_entities":["Michael K. Simpson"]}
+{"icij_node_id":"110121870","name":"NEWSAM MARGARET A.","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Barbados corporate registry","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"110123172","name":"RICHARDSON DUNCAN GEORGE","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Barbados corporate registry","linked_vault_entities":["Southern Company"]}
+{"icij_node_id":"100629171","name":"ROYAL VILLA NUMBER 14 LIMITED","kind":"entity","jurisdiction":"Barbados","sourceID":"Paradise Papers - Barbados corporate registry","linked_vault_entities":["John Kennedy"]}
+{"icij_node_id":"230000002","name":"Caribbean Trust Company (Nevis) Limited","kind":"intermediary","jurisdiction":null,"sourceID":"Paradise Papers - Nevis corporate registry","linked_vault_entities":["Johnson & Johnson"]}
+{"icij_node_id":"230000077","name":"Cellisvae Trust & Corporate Services Ltd","kind":"intermediary","jurisdiction":null,"sourceID":"Paradise Papers - Nevis corporate registry","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"230000018","name":"Morning Star Holdings Limited","kind":"intermediary","jurisdiction":null,"sourceID":"Paradise Papers - Nevis corporate registry","linked_vault_entities":["Heritage Foundation","Fidelity Investments","Oracle","The Bulwark","Southern Company"]}
+{"icij_node_id":"230000017","name":"Meridian Trust Company Ltd.","kind":"intermediary","jurisdiction":null,"sourceID":"Paradise Papers - Nevis corporate registry","linked_vault_entities":["Apple","Alex Jones","Rule of Law Trust"]}
+{"icij_node_id":"230000027","name":"Uniglobe Trust Company Limited(Not Op)","kind":"intermediary","jurisdiction":null,"sourceID":"Paradise Papers - Nevis corporate registry","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"230000008","name":"Hamilton Trust Company (Nevis) Ltd.","kind":"intermediary","jurisdiction":null,"sourceID":"Paradise Papers - Nevis corporate registry","linked_vault_entities":["Southern Company","Gilead Sciences"]}
+{"icij_node_id":"230000049","name":"Charlestown Trust Company Limited","kind":"intermediary","jurisdiction":null,"sourceID":"Paradise Papers - Nevis corporate registry","linked_vault_entities":["Amazon"]}
+{"icij_node_id":"230000025","name":"Sir Probyn Inniss(Not in Operation)","kind":"intermediary","jurisdiction":null,"sourceID":"Paradise Papers - Nevis corporate registry","linked_vault_entities":["Southern Company"]}
+{"icij_node_id":"230000033","name":"AMS Trustees (Nevis) Limited","kind":"intermediary","jurisdiction":null,"sourceID":"Paradise Papers - Nevis corporate registry","linked_vault_entities":["Apple"]}
+{"icij_node_id":"230000070","name":"No Registered Agent","kind":"intermediary","jurisdiction":null,"sourceID":"Paradise Papers - Nevis corporate registry","linked_vault_entities":["Ripple"]}
+{"icij_node_id":"230000005","name":"Associated Trustees Limited","kind":"intermediary","jurisdiction":null,"sourceID":"Paradise Papers - Nevis corporate registry","linked_vault_entities":["Chevron"]}
+{"icij_node_id":"55065101","name":"BELFIORE LIMITED","kind":"entity","jurisdiction":"Malta","sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Alan Armstrong"]}
+{"icij_node_id":"56077591","name":"DEREK H L BUNTAIN","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Bradley Foundation"]}
+{"icij_node_id":"55010764","name":"GOZO AQUACULTURE LIMITED","kind":"entity","jurisdiction":"Malta","sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["David Scott"]}
+{"icij_node_id":"56008146","name":"JESMOND PSAILA","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["BlackRock"]}
+{"icij_node_id":"56002369","name":"EDWARD CAMILLERI","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Halliburton"]}
+{"icij_node_id":"56059086","name":"NOEL CAMILLERI","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Robin Hood Foundation"]}
+{"icij_node_id":"55062749","name":"MERCHANT STREET LIMITED","kind":"entity","jurisdiction":"Malta","sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Mark Levin"]}
+{"icij_node_id":"55062748","name":"MERCHANT STREET HOLDING LIMITED","kind":"entity","jurisdiction":"Malta","sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Mark Levin"]}
+{"icij_node_id":"56099429","name":"ADRIAAN MAURICE MULDERS","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Robin Hood Foundation"]}
+{"icij_node_id":"56017329","name":"ROBERTO STIVALA","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Oracle"]}
+{"icij_node_id":"56023498","name":"EDWARD ENGERER","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Oracle"]}
+{"icij_node_id":"56023119","name":"CHARLES SCERRI","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Amazon"]}
+{"icij_node_id":"56072039","name":"MERCIECA, AZZOPARDI & CO","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Southern Company"]}
+{"icij_node_id":"56025579","name":"MALTA COMPANY MANAGEMENT LIMITED","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Oracle"]}
+{"icij_node_id":"56029339","name":"NORMAN BUCKLE","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Chevron"]}
+{"icij_node_id":"56039313","name":"ANGELA SIVE LILIAN BUCKLE","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Chevron"]}
+{"icij_node_id":"56029600","name":"MIRIAM VELLA","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Oracle"]}
+{"icij_node_id":"56049411","name":"CARMEL BUHAGIAR","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Amazon"]}
+{"icij_node_id":"56034444","name":"JOHN BUHAGIAR","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Amazon"]}
+{"icij_node_id":"56035596","name":"PHILIP MANDUCA","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["BlackRock"]}
+{"icij_node_id":"56072048","name":"PRICEWATERHOUSECOOPERS","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Robin Hood Foundation"]}
+{"icij_node_id":"56006803","name":"DARKO MARINAC","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Apple"]}
+{"icij_node_id":"56006834","name":"SASA ROMAC","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Apple"]}
+{"icij_node_id":"55028359","name":"MICROSOFT MALTA LIMITED","kind":"entity","jurisdiction":"Malta","sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Microsoft"]}
+{"icij_node_id":"56006441","name":"ZDRAVKO SESTAK","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Apple"]}
+{"icij_node_id":"56012538","name":"ADRIAN BUCKLE","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Chevron"]}
+{"icij_node_id":"55035700","name":"Cantor Gaming Malta One Limited","kind":"entity","jurisdiction":"Malta","sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Howard Lutnick"]}
+{"icij_node_id":"56018666","name":"NATALIE VELLA PETRONI","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Southern Company"]}
+{"icij_node_id":"56026636","name":"ANDREW MANDUCA","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Bradley Foundation"]}
+{"icij_node_id":"56042294","name":"EVAN BUCKLE","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Chevron"]}
+{"icij_node_id":"56025145","name":"ORBITAL CORPORATION","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Oracle"]}
+{"icij_node_id":"56024954","name":"SASSARI CONSULTANT SERVICES LIMITED","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Oracle"]}
+{"icij_node_id":"56036547","name":"STEPHANIE VELLA PETRONI","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Southern Company"]}
+{"icij_node_id":"56046148","name":"PETER PAUL DARMANIN","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Chevron"]}
+{"icij_node_id":"56055030","name":"MARIO VELLA PETRONI","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Southern Company"]}
+{"icij_node_id":"55061800","name":"NUMBER 19 LIMITED","kind":"entity","jurisdiction":"Malta","sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Alex Jones"]}
+{"icij_node_id":"56076419","name":"ACTAVIS ACQUISITION 1 S.A.R.L.","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Robin Hood Foundation"]}
+{"icij_node_id":"56047936","name":"EMANUEL ANGELO BIANCO","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Ripple"]}
+{"icij_node_id":"56078836","name":"DELOITTE & TOUCHE LIMITED","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Bradley Foundation"]}
+{"icij_node_id":"56068296","name":"MARIA KRISTINA BUCKLE","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Chevron"]}
+{"icij_node_id":"55024664","name":"TAL-GHAGIN LIMITED","kind":"entity","jurisdiction":"Malta","sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Amazon"]}
+{"icij_node_id":"56079009","name":"MANDUCA RANDON & CO LTD","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["BlackRock"]}
+{"icij_node_id":"55020831","name":"ARROW INTERNATIONAL LIMITED","kind":"entity","jurisdiction":"Malta","sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Robin Hood Foundation"]}
+{"icij_node_id":"55033751","name":"ARROW SUPPLIES LIMITED","kind":"entity","jurisdiction":"Malta","sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Robin Hood Foundation"]}
+{"icij_node_id":"56051283","name":"RAPHAEL FENECH ADAMI","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["BlackRock"]}
+{"icij_node_id":"55028290","name":"ARROW PHARMACEUTICALS HOLDINGS LIMITED","kind":"entity","jurisdiction":"Malta","sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Robin Hood Foundation"]}
+{"icij_node_id":"55022413","name":"MALTESE CONSORTIUM HOLDINGS LIMITED","kind":"entity","jurisdiction":"Malta","sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Southern Company"]}
+{"icij_node_id":"55021701","name":"ARROW LABORATORIES LIMITED","kind":"entity","jurisdiction":"Malta","sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Robin Hood Foundation"]}
+{"icij_node_id":"55066379","name":"TA' SARDINIA COMPANY LIMITED","kind":"entity","jurisdiction":"Malta","sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Chevron"]}
+{"icij_node_id":"55001156","name":"ADRIAN LIMITED","kind":"entity","jurisdiction":"Malta","sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Chevron"]}
+{"icij_node_id":"55003658","name":"B. & B. PROPERTY DEVELOPMENT CO. LTD","kind":"entity","jurisdiction":"Malta","sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Chevron"]}
+{"icij_node_id":"55013080","name":"PAOLA DEVELOPMENT COMPANY LIMITED","kind":"entity","jurisdiction":"Malta","sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Chevron"]}
+{"icij_node_id":"55015089","name":"PURPLE MARITIME LIMITED","kind":"entity","jurisdiction":"Malta","sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Bradley Foundation"]}
+{"icij_node_id":"55033247","name":"BEDFONT LAKES (HOLDINGS) (MALTA) P.L.C.","kind":"entity","jurisdiction":"Malta","sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Mark Kelly"]}
+{"icij_node_id":"56062228","name":"SERGIO VELLA","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Robin Hood Foundation"]}
+{"icij_node_id":"56076425","name":"ACTAVIS HOLDING 2 S.A.R.L.","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Robin Hood Foundation"]}
+{"icij_node_id":"55024848","name":"ACTAVIS SERVICES (ASIA) LIMITED","kind":"entity","jurisdiction":"Malta","sourceID":"Paradise Papers - Malta corporate registry","linked_vault_entities":["Robin Hood Foundation"]}
+{"icij_node_id":"23000046","name":"** DISABLED SUISSE SECURITY BANK & TRUST","kind":"intermediary","jurisdiction":null,"sourceID":"Bahamas Leaks","linked_vault_entities":["BlackRock"]}
+{"icij_node_id":"23000047","name":"GRAHAM COOPER","kind":"intermediary","jurisdiction":null,"sourceID":"Bahamas Leaks","linked_vault_entities":["Chevron","The Bulwark"]}
+{"icij_node_id":"23000130","name":"ANSBACHER (BAHAMAS) LIMITED","kind":"intermediary","jurisdiction":null,"sourceID":"Bahamas Leaks","linked_vault_entities":["Humana"]}
+{"icij_node_id":"23000131","name":"Itau Bank & Trust Bahamas Ltd.","kind":"intermediary","jurisdiction":null,"sourceID":"Bahamas Leaks","linked_vault_entities":["Bradley Foundation"]}
+{"icij_node_id":"23000133","name":"MMG BAHAMAS LTD.","kind":"intermediary","jurisdiction":null,"sourceID":"Bahamas Leaks","linked_vault_entities":["Oracle","Apple"]}
+{"icij_node_id":"23000134","name":"Société Générale Private Banking (Bahama","kind":"intermediary","jurisdiction":null,"sourceID":"Bahamas Leaks","linked_vault_entities":["RAND Corporation"]}
+{"icij_node_id":"23000145","name":"NEW WORLD TRUSTEES COMPANY LIMITED","kind":"intermediary","jurisdiction":null,"sourceID":"Bahamas Leaks","linked_vault_entities":["Ripple"]}
+{"icij_node_id":"23000147","name":"UBS TRUSTEES (BAHAMAS) LTD.","kind":"intermediary","jurisdiction":null,"sourceID":"Bahamas Leaks","linked_vault_entities":["Honeywell International"]}
+{"icij_node_id":"23000156","name":"TRIDENT CORPORATE SERVICES (BAH) LTD","kind":"intermediary","jurisdiction":null,"sourceID":"Bahamas Leaks","linked_vault_entities":["Bradley Foundation"]}
+{"icij_node_id":"23000157","name":"ICAZA, GONZALEZ-RUIZ & ALEMAN (BAHAMAS)","kind":"intermediary","jurisdiction":null,"sourceID":"Bahamas Leaks","linked_vault_entities":["Drummond Co."]}
+{"icij_node_id":"23000161","name":"OCEANIC BANK & TRUST LIMITED","kind":"intermediary","jurisdiction":null,"sourceID":"Bahamas Leaks","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"23000162","name":"HOWARD LAWRENCE","kind":"intermediary","jurisdiction":null,"sourceID":"Bahamas Leaks","linked_vault_entities":["Starbucks"]}
+{"icij_node_id":"23000280","name":"PRIVATE TRUST CORPORATION LIMITED","kind":"intermediary","jurisdiction":null,"sourceID":"Bahamas Leaks","linked_vault_entities":["One Nation","Alpine Group"]}
+{"icij_node_id":"23000281","name":"GAVIN D. CASSAR","kind":"intermediary","jurisdiction":null,"sourceID":"Bahamas Leaks","linked_vault_entities":["Southern Company"]}
+{"icij_node_id":"23000293","name":"ESTATE PLANNING INSTITUTE (BAHAMAS) LTD.","kind":"intermediary","jurisdiction":null,"sourceID":"Bahamas Leaks","linked_vault_entities":["Alex Jones"]}
+{"icij_node_id":"23000294","name":"RAS CORPORATE SERVICES LTD.","kind":"intermediary","jurisdiction":null,"sourceID":"Bahamas Leaks","linked_vault_entities":["Bradley Foundation"]}
+{"icij_node_id":"23000299","name":"KUZNIECKY & CO. BAHAMAS LIMITED","kind":"intermediary","jurisdiction":null,"sourceID":"Bahamas Leaks","linked_vault_entities":["Drummond Co."]}
+{"icij_node_id":"23000330","name":"CREDIT SUISSE TRUST LIMITED","kind":"intermediary","jurisdiction":null,"sourceID":"Bahamas Leaks","linked_vault_entities":["BlackRock"]}
+{"icij_node_id":"23000377","name":"OFFSHORE MANAGERS LIMITED","kind":"intermediary","jurisdiction":null,"sourceID":"Bahamas Leaks","linked_vault_entities":["Heritage Foundation"]}
+{"icij_node_id":"23000396","name":"OVERSEAS MANAGEMENT COMPANY (BAHAMAS)","kind":"intermediary","jurisdiction":null,"sourceID":"Bahamas Leaks","linked_vault_entities":["Blackstone Group"]}
+{"icij_node_id":"23000400","name":"ALEMAN, CORDERO, GALINDO & LEE (BAHAMAS)","kind":"intermediary","jurisdiction":null,"sourceID":"Bahamas Leaks","linked_vault_entities":["Apple"]}
+{"icij_node_id":"23000409","name":"LGM MANAGEMENT","kind":"intermediary","jurisdiction":null,"sourceID":"Bahamas Leaks","linked_vault_entities":["Robin Hood Foundation"]}
+{"icij_node_id":"23000436","name":"UNIVERSAL LEGAL SERVICES","kind":"intermediary","jurisdiction":null,"sourceID":"Bahamas Leaks","linked_vault_entities":["New America"]}
+{"icij_node_id":"23000438","name":"BUTTERFIELD TRUST (BAHAMAS) LIMITED","kind":"intermediary","jurisdiction":null,"sourceID":"Bahamas Leaks","linked_vault_entities":["Gates Foundation","Amazon"]}
+{"icij_node_id":"23000491","name":"MORTON PIASETSKI","kind":"intermediary","jurisdiction":null,"sourceID":"Bahamas Leaks","linked_vault_entities":["DoorDash"]}
+{"icij_node_id":"66001434","name":"CHAUDRY MUHAMMAD ATTIQ UR REHMAN CHEEMA","kind":"officer","jurisdiction":null,"sourceID":"Paradise Papers - Samoa corporate registry","linked_vault_entities":["General Motors"]}
+{"icij_node_id":"65000457","name":"SOUTH SEAS FINANCIAL SERVICES LTD","kind":"entity","jurisdiction":"Samoa","sourceID":"Paradise Papers - Samoa corporate registry","linked_vault_entities":["John Roberts"]}
