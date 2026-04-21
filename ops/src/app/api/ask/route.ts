@@ -583,7 +583,15 @@ function findEntity(title: string): EntityRec | null {
   // 1. Direct name match (existing behavior — most common path).
   const byName = ents.find((e) => e.name === title)
   if (byName) return byName
-  // 2. Federal identifier fallback: ticker, EIN, CIK, FEC id, UEI.
+  // 2. FEC-shape normalization: entities.jsonl sometimes carries names
+  //    as "OBAMA, BARACK" (LAST, FIRST uppercase) from FEC ingesters,
+  //    while user queries arrive as "Barack Obama". Try each normalized
+  //    candidate. Same helper used by findBioguide.
+  for (const cand of normalizeToTitleCase(title)) {
+    const hit = ents.find((e) => e.name === cand || e.name.toLowerCase() === cand.toLowerCase())
+    if (hit) return hit
+  }
+  // 3. Federal identifier fallback: ticker, EIN, CIK, FEC id, UEI.
   return resolveByFederalId(title)
 }
 
@@ -1500,7 +1508,8 @@ function classify(q: string): ClassifiedQuestion {
     lower.match(/(?:top recipients (?:of|from))\s+(.+?)$/)
   if (m) return { intent: "recipients_from", subjectName: m[1] }
 
-  // Edge between two entities — "X funds Y" / "X gave to Y" / "X to Y" / "does X fund Y".
+  // Edge between two entities — "X funds Y" / "X gave to Y" / "X to Y" / "does X fund Y" /
+  // "money between X and Y" / "is there money from X to Y" / "connections between X and Y".
   // Runs after donors_to/recipients_from so single-entity phrasings match first.
   // Guard: reject if subject is a bare question word (who/what/where/etc) that
   // slipped past — those should have hit donors_to above.
@@ -1508,6 +1517,8 @@ function classify(q: string): ClassifiedQuestion {
     lower.match(/^does\s+(.+?)\s+(?:fund|support|give to|donate to)\s+(.+?)[\?]?$/) ||
     lower.match(/^did\s+(.+?)\s+(?:fund|support|give to|donate to)\s+(.+?)[\?]?$/) ||
     lower.match(/^(.+?)\s+(?:funds|funded|gives to|gave to|donates to|donated to)\s+(.+?)$/) ||
+    lower.match(/^(?:money|ties|connections?|flows?|relationship)\s+between\s+(.+?)\s+and\s+(.+?)$/) ||
+    lower.match(/^(?:is there|any)\s+money\s+(?:from|between)\s+(.+?)\s+(?:to|and)\s+(.+?)[\?]?$/) ||
     lower.match(/^(.+?)\s+to\s+(.+?)\s+money$/)
   if (m && !lower.includes("cross") && m[1].split(" ").length <= 6 && m[2].split(" ").length <= 6) {
     const subj = m[1].trim()
@@ -1850,11 +1861,23 @@ async function handleSummary(c: ClassifiedQuestion, question: string, engine: an
 
   if (classTags.length > 0) bullets.push(`Class tags: ${classTags.join(", ")}`)
 
-  const answer =
-    `**${name}** — ${typeSector}.` +
-    (topIn.length === 0 && topOut.length === 0 && boards.length > 0
-      ? ` Most flows move through the ${boards.length} org${boards.length === 1 ? "" : "s"} this person chairs, not their personal name.`
-      : "")
+  // Build a richer answer line with the headline totals so users aren't
+  // staring at just "donor in Dark Money." — that read as broken.
+  // Numbers come from the same filtered inflows/outflows/boards in scope.
+  const inTotal$ = (inflows.rows || []).filter((e: any) => e.amount).reduce((a: number, e: any) => a + Number(e.amount), 0)
+  const outTotal$ = (outflows.rows || []).filter((e: any) => e.amount).reduce((a: number, e: any) => a + Number(e.amount), 0)
+  const parts: string[] = [`**${name}** — ${typeSector}.`]
+  const factBits: string[] = []
+  if (inTotal$ > 0) factBits.push(`${fmtUsd(inTotal$)} in tracked inflows from ${inflows.total} donor edge${inflows.total === 1 ? "" : "s"}`)
+  if (outTotal$ > 0) factBits.push(`${fmtUsd(outTotal$)} in outflows across ${outflows.total} recipient edge${outflows.total === 1 ? "" : "s"}`)
+  if (oppoTotal > 0) factBits.push(`${fmtUsd(oppoTotal)} in attack (IE-oppose) spending from ${oppoEdges.length} edge${oppoEdges.length === 1 ? "" : "s"}`)
+  if (boards.length > 0) factBits.push(`${boards.length} board / affiliation seat${boards.length === 1 ? "" : "s"}`)
+  if (officers.length > 0) factBits.push(`${officers.length} tracked officer${officers.length === 1 ? "" : "s"}`)
+  if (factBits.length) parts.push(factBits.join(" · "))
+  if (topIn.length === 0 && topOut.length === 0 && boards.length > 0) {
+    parts.push(`Most flows move through the org${boards.length === 1 ? "" : "s"} this entity chairs, not their personal name.`)
+  }
+  const answer = parts.join(" ")
 
   // Also explain the top orgs this person/entity is connected to
   const contextNames = new Set<string>([name])
@@ -3059,9 +3082,22 @@ async function handleQuestion(question: string): Promise<AskResult> {
       emptyNote = `**${name.title}** has ${supporters.length} donor edges in the store without dollar amounts. If this is a politician, see [G1 ingest status] — individual contribution edges are being re-bridged to politician profiles.${opposeNote}`
     }
 
+    // Dual-layer display for politicians. FEC itemizes only donors
+    // giving ≥$200, and our indiv ingest aggregates at ≥$10K/cycle — so
+    // small-dollar specialists (AOC, Bernie) show vanishingly little
+    // itemized detail while actually raising tens of millions. When
+    // we have a politician's candidate-summary totals, surface those
+    // so users understand the headline vs itemized gap.
+    const isPolitician = entType === "politician" || entType === "state-politician"
+    const fecLifetime = ent?.signals?.fec_receipts_lifetime as number | undefined
+    const fecIndiv = ent?.signals?.fec_indiv_contrib_lifetime as number | undefined
+    const summaryLayer = isPolitician && (fecLifetime || fecIndiv)
+      ? ` *(FEC candidate-summary total across all cycles: ${fecLifetime ? fmtUsd(fecLifetime) : "—"}${fecIndiv ? `; individual contributions ${fmtUsd(fecIndiv)}` : ""}. The figure above shows only donor-level edges in the graph; small-dollar donors below the $10K aggregation floor are reflected in the summary total but not listed individually.)*`
+      : ""
+
     const answer =
       total$ > 0
-        ? `**${name.title}** received **${fmtUsd(total$)}** in tracked support edges from **${supporters.length}** donors/committees${vehicles.length > 0 ? ` (pooled across ${vehicles.length + 1} entities including controlled vehicles)` : ""}.${viaBreakdown}${opposeNote}`
+        ? `**${name.title}** received **${fmtUsd(total$)}** in tracked support edges from **${supporters.length}** donors/committees${vehicles.length > 0 ? ` (pooled across ${vehicles.length + 1} entities including controlled vehicles)` : ""}.${viaBreakdown}${opposeNote}${summaryLayer}`
         : emptyNote
     const bullets = top5.map((e: any) => {
       const via = e._via ? ` → ${e._via}` : ""
@@ -3095,11 +3131,21 @@ async function handleQuestion(question: string): Promise<AskResult> {
       const vr = await engine.query({ subject: "edges", filters: { from: v, type: "monetary" }, limit: 1500 })
       for (const row of vr.rows) allEdges.push({ ...row, _via: v })
     }
-    // Drop self-edges only. Intra-pool kept for same reason as donors_to.
+    // Drop self-edges. Filter out operating-expense vendor payments
+    // from the total — Koch Industries' $681K headline was 99%
+    // vendor payments (INTRUST BANK, etc.), which misrepresents
+    // "where their money goes" as political spending. Shared role
+    // taxonomy from Pattern A does the separation; ops expenses are
+    // still retained in the rows array so the EVIDENCE table shows
+    // them with clear role labels, but they no longer inflate the
+    // headline total$.
     const filtered = allEdges.filter((e: any) => e.from !== e.to)
     const r = { total: filtered.length, rows: filtered }
-    const rows = [...r.rows].sort((a: any, b: any) => (b.amount || 0) - (a.amount || 0)).slice(0, 50)
-    const total$ = rows.filter((e: any) => e.amount).reduce((acc: number, e: any) => acc + (Number(e.amount) || 0), 0)
+    const politicalRows = filtered.filter((e: any) => isPolitical(e))
+    const rows = [...politicalRows].sort((a: any, b: any) => (b.amount || 0) - (a.amount || 0)).slice(0, 50)
+    const total$ = politicalRows.filter((e: any) => e.amount).reduce((acc: number, e: any) => acc + (Number(e.amount) || 0), 0)
+    const opsTotal = filtered.filter((e: any) => e.role === "operating-expense" && e.amount)
+      .reduce((acc: number, e: any) => acc + (Number(e.amount) || 0), 0)
 
     // Politicians don't "give" money in our monetary-edge model — they
     // receive it. Redirect the user rather than silently returning 0.
@@ -3131,12 +3177,21 @@ async function handleQuestion(question: string): Promise<AskResult> {
     const opposeEdges = rows.filter((e: any) => isOppose(e) && e.amount)
     const supportTotal = supportEdges.reduce((a: number, e: any) => a + Number(e.amount), 0)
     const opposeTotal = opposeEdges.reduce((a: number, e: any) => a + Number(e.amount), 0)
+    // Ops-expense context: if there's significant non-political spend,
+    // surface it explicitly so the user knows why the headline isn't
+    // their whole wallet. Koch Industries had $100M+ in vendor payments
+    // that previously inflated "money goes" totals by 100x.
+    const opsNote = opsTotal > total$
+      ? ` (Plus ${fmtUsd(opsTotal)} in vendor / operating expenses — law firms, printers, travel, etc. — excluded from the political total.)`
+      : ""
     const answer =
       total$ > 0
         ? (opposeTotal > 0
-            ? `**${name.title}** moved **${fmtUsd(total$)}** across **${r.total}** edges: **${fmtUsd(supportTotal)}** in donations / IE support, plus **${fmtUsd(opposeTotal)}** in attack (IE-oppose) spending against ${opposeEdges.length} politician${opposeEdges.length === 1 ? "" : "s"}.`
-            : `**${name.title}** moved **${fmtUsd(total$)}** across **${r.total}** recipient edges.`)
-        : `**${name.title}** has ${r.total} outgoing edges but no dollar amounts attached.`
+            ? `**${name.title}** moved **${fmtUsd(total$)}** in political spending across **${politicalRows.length}** edges: **${fmtUsd(supportTotal)}** in donations / IE support, plus **${fmtUsd(opposeTotal)}** in attack (IE-oppose) spending against ${opposeEdges.length} politician${opposeEdges.length === 1 ? "" : "s"}.${opsNote}`
+            : `**${name.title}** moved **${fmtUsd(total$)}** in political spending across **${politicalRows.length}** recipient edges.${opsNote}`)
+        : opsTotal > 0
+          ? `**${name.title}** has ${opsTotal ? fmtUsd(opsTotal) : ""} in vendor / operating expenses (law firms, printers, travel, etc.) but no political spending edges in the store.`
+          : `**${name.title}** has ${r.total} outgoing edges but no dollar amounts attached.`
     const bullets = top5.map((e: any) => {
       const arrow = e.role === "ie-oppose" ? "AGAINST" : "→"
       const via = e._via ? ` (via ${e._via})` : ""

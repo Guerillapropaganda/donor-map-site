@@ -103,28 +103,30 @@ function titleCaseName(fecName) {
   const cmteToEntity = new Map();
   for (const e of ents) {
     if (!e.signals) continue;
-    if (e.entity_type === 'politician') continue;
+    // Previous logic excluded politicians here (`if (entity_type === 'politician') continue`),
+    // with the rationale that summary-level receipts would surface on
+    // politician profiles. But the Ask panel's "who funds X" query
+    // traces donor→politician edges — without them AOC showed $54K from
+    // 21 PACs against her real ~$50M career raise. Including politicians
+    // here closes the Pattern G1 bridge: individual FEC contributions
+    // aggregated at ≥$10K become donor→politician edges directly.
     if (e.signals.fec_committee_id) cmteToEntity.set(e.signals.fec_committee_id, e);
-    // Non-politician entities (PACs, super PACs, corporations) can have
-    // multiple committee IDs if they're aliased across re-registrations;
-    // index them all.
+    // Multiple committee IDs — principal + affiliates across re-
+    // registrations. Index all.
     if (Array.isArray(e.signals.fec_committee_ids)) {
       for (const cid of e.signals.fec_committee_ids) {
         if (!cmteToEntity.has(cid)) cmteToEntity.set(cid, e);
       }
     }
   }
-  // Also merge from the registry for cases where a committee wasn't
-  // stubbed by sync-campaign-committees but DOES point to a non-
-  // politician vault_profile (e.g. Super PAC profiles where the registry
-  // attached a cmte_id via fec-committee-resolver). Still skip when the
-  // registry points to a politician profile — same reasoning as above.
+  // Registry merge — for committees stubbed via politician-historical-
+  // coverage-backfill or fec-committee-resolver that point to a vault
+  // profile. Politicians included now (see note above).
   const entByPath = new Map(ents.filter((e) => e.profile_path).map((e) => [e.profile_path, e]));
   for (const [cmteId, r] of Object.entries(registry)) {
     if (cmteToEntity.has(cmteId)) continue;
     if (r.vault_profile && entByPath.has(r.vault_profile)) {
-      const ent = entByPath.get(r.vault_profile);
-      if (ent.entity_type !== 'politician') cmteToEntity.set(cmteId, ent);
+      cmteToEntity.set(cmteId, entByPath.get(r.vault_profile));
     }
   }
   console.log(`  committees resolvable to vault entity: ${cmteToEntity.size}`);
