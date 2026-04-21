@@ -1,6 +1,7 @@
 ---
 title: "Laphonza Butler"
 type: politician
+bioguide-id: B001320
 chamber: "Former"
 party: "Democrat"
 content-readiness: ready

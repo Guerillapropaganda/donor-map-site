@@ -1,6 +1,7 @@
 ---
 title: Mike Pompeo
 type: politician
+bioguide-id: P000602
 content-readiness: ready
 central-thesis: Pompeo is the Koch brothers' direct product , Koch Industries funded his Kansas congressional campaigns, he built his pre-political business career with Koch venture capital seed money, he served their interests at CIA and State, and his post-gove...
 last-updated: 2026-04-13T00:00:00.000Z

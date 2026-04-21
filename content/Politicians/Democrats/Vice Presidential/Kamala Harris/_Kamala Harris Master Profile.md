@@ -1,6 +1,7 @@
 ---
 title: Kamala Harris
 type: politician
+bioguide-id: H001075
 content-readiness: ready
 central-thesis: "Harris is the federal expression of the California donor-class Democratic model. The $2.3 billion losing campaign proved the donor class controls who runs but not who wins when the working class does not trust the candidate."
 last-updated: 2026-04-18T00:00:00.000Z

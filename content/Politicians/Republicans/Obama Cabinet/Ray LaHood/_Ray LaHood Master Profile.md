@@ -1,6 +1,7 @@
 ---
 title: "Ray LaHood"
 type: politician
+bioguide-id: L000552
 content-readiness: raw
 last-updated: 2026-04-12
 source-tier: 1

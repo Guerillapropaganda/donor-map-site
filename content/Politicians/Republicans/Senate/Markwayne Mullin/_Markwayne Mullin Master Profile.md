@@ -1,6 +1,7 @@
 ---
 title: Markwayne Mullin
 type: politician
+bioguide-id: M001190
 content-readiness: ready
 central-thesis: "Mullin is the energy industry's blue-collar brand , a senator whose working-class narrative provides populist cover for fossil fuel donor priorities. His structural function: replace Jim Inhofe (the Senate's most famous climate denier) with a youn..."
 last-updated: 2026-04-13T00:00:00.000Z

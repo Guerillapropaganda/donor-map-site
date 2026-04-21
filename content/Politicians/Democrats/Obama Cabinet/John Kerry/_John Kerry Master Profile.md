@@ -1,6 +1,7 @@
 ---
 title: "John Kerry"
 type: politician
+bioguide-id: K000148
 content-readiness: raw
 last-updated: 2026-04-12
 source-tier: 1

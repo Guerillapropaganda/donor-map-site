@@ -1,6 +1,7 @@
 ---
 title: Ryan Zinke
 type: politician
+bioguide-id: Z000018
 content-readiness: raw
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
