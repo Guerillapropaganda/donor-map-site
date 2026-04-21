@@ -1,0 +1,49 @@
+---
+title: Joint Victory Campaign 2004
+type: donor
+content-readiness: raw
+last-updated: 2026-04-21
+aliases:
+  - Joint Victory Campaign 2004
+  - JOINT VICTORY CAMPAIGN 2004
+sector: Super PACs
+entity-type: 527 Committee
+historical: true
+source-tier: 1
+internal-notes: Stub profile auto-created 2026-04-21 from orphan-entities-queue. Historical Democratic-aligned 527 joint-fundraising committee active in the 2004 cycle. Pooled contributions for America Coming Together (ACT) and The Media Fund, both major anti-Bush-reelection vehicles funded by George Soros, Peter Lewis, and other Democratic mega-donors. $44.5M in tracked flow across 2 edges (IRS 527 filings). Research Claude editorial pass pending.
+---
+
+## Who They Are
+
+Joint Victory Campaign 2004 was a 527 joint-fundraising committee pooling contributions on behalf of America Coming Together (ACT) and The Media Fund during the 2004 election cycle. It was one of the primary vehicles through which George Soros, Peter Lewis, and other Democratic mega-donors financed anti-Bush issue advocacy after the McCain-Feingold restrictions on soft money.
+
+(Stub. Pending full Research Claude editorial pass.)
+
+## The Money
+
+(auto-populated from IRS 527 edges once vault surfaces.)
+
+## Class Analysis
+
+(pending)
+
+## The Contradictions
+
+(pending)
+
+## Timeline
+
+- 2003–2004: active as a joint-fundraising vehicle for ACT and The Media Fund during the Bush-Kerry cycle.
+
+## Related Figures
+
+- America Coming Together (ACT)
+- The Media Fund
+- George Soros
+- Peter Lewis
+- Harold Ickes (key organizer)
+
+## Sources
+
+- IRS Form 8872 filings via `data/derived/irs-pofd-8872.jsonl`
+- Historical reporting on 527 spending in the 2004 cycle

@@ -1,0 +1,44 @@
+---
+title: Empower Parents PAC
+type: donor
+content-readiness: raw
+last-updated: 2026-04-21
+aliases:
+  - EMPOWER PARENTS PAC
+sector: Super PACs
+entity-type: Super PAC
+source-tier: 1
+internal-notes: Stub profile auto-created 2026-04-21 from orphan-entities-queue. Super PAC focused on school-choice and education-policy races, funding conservative and pro-charter candidates at the state and federal level. $165.2M in tracked flow across 2 edges (fec-indiv-by-committee + fec-oppexp) + $82.5M via IRS 527 filings. Research Claude editorial pass pending.
+---
+
+## Who They Are
+
+Empower Parents PAC is a super PAC operating in the school-choice / education-policy space, spending on candidates and ads that support charter-school expansion, voucher programs, and parental-rights messaging. As a super PAC it must disclose donors to the FEC.
+
+(Stub. Pending full Research Claude editorial pass.)
+
+## The Money
+
+(auto-populated from FEC edges once vault surfaces.)
+
+## Class Analysis
+
+(pending)
+
+## The Contradictions
+
+(pending)
+
+## Timeline
+
+- Active in recent federal and state-level education-policy races.
+
+## Related Figures
+
+- School-choice donor network
+- Other education-policy super PACs
+
+## Sources
+
+- FEC committee reports via `data/derived/fec-pas2.jsonl` and `data/derived/fec-oppexp.jsonl`
+- IRS 527 filings via `data/derived/irs-pofd-8872.jsonl`

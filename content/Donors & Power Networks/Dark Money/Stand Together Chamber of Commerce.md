@@ -1,0 +1,48 @@
+---
+title: Stand Together Chamber of Commerce
+type: donor
+content-readiness: raw
+last-updated: 2026-04-21
+aliases:
+  - STAND TOGETHER CHAMBER OF COMMERCE
+  - Stand Together CoC
+sector: Dark Money
+entity-type: Dark Money Vehicle
+nonprofit-status: 501(c)(6)
+source-tier: 1
+internal-notes: Stub profile auto-created 2026-04-21 from orphan-entities-queue. Koch-network 501(c)(6) trade association, part of the Stand Together umbrella led by Charles Koch. Channels corporate and wealthy-donor contributions toward deregulatory and libertarian-policy advocacy. $44.8M in tracked outflows across 1 edge. Research Claude editorial pass pending.
+---
+
+## Who They Are
+
+Stand Together Chamber of Commerce is a 501(c)(6) trade association within the Charles Koch political network. Organized as a business-league nonprofit, it funds issue advocacy and electioneering consistent with Koch-network priorities: deregulation, tax cuts, and opposition to labor and climate policy. Donor identities are not required to be disclosed.
+
+(Stub. Pending full Research Claude editorial pass.)
+
+## The Money
+
+(auto-populated from FEC / IRS 990 edges once vault surfaces.)
+
+## Class Analysis
+
+(pending)
+
+## The Contradictions
+
+(pending)
+
+## Timeline
+
+- Part of the reorganization of the Koch political operation under the Stand Together umbrella in the late 2010s.
+
+## Related Figures
+
+- Charles Koch
+- Americans for Prosperity (Koch-network 501(c)(4))
+- Americans for Prosperity Action (Koch-network super PAC)
+- Stand Together (parent/affiliate umbrella)
+
+## Sources
+
+- FEC committee records via `data/derived/fec-pas2.jsonl`
+- IRS Form 990 filings via ProPublica Nonprofit Explorer

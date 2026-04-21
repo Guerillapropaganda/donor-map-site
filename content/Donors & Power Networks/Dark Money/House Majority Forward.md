@@ -1,0 +1,47 @@
+---
+title: House Majority Forward
+type: donor
+content-readiness: raw
+last-updated: 2026-04-21
+aliases:
+  - HOUSE MAJORITY FORWARD
+  - HMF
+sector: Dark Money
+entity-type: Dark Money Vehicle
+nonprofit-status: 501(c)(4)
+source-tier: 1
+internal-notes: Stub profile auto-created 2026-04-21 from orphan-entities-queue. Democratic-aligned 501(c)(4) social-welfare nonprofit, affiliated arm of House Majority PAC. Spends on issue advocacy for House Democratic candidates; donor identities not disclosed under 501(c)(4) law. $76.5M in tracked outflows across 1 edge in the orphan queue. Research Claude editorial pass pending.
+---
+
+## Who They Are
+
+House Majority Forward is the Democratic-aligned 501(c)(4) nonprofit partnered with House Majority PAC. It funds issue advocacy and voter-targeting operations supporting Democratic House candidates. Because it is organized as a social-welfare nonprofit, it is not legally required to disclose its donors.
+
+(Stub. Pending full Research Claude editorial pass.)
+
+## The Money
+
+(auto-populated from FEC / IRS 990 edges once vault surfaces.)
+
+## Class Analysis
+
+(pending)
+
+## The Contradictions
+
+(pending)
+
+## Timeline
+
+- Founded as the 501(c)(4) partner to House Majority PAC, the Democratic super PAC dedicated to House races.
+
+## Related Figures
+
+- House Majority PAC (partner super PAC)
+- Majority Forward (parallel Senate-side 501(c)(4))
+- Senate Majority PAC (Senate-side partner super PAC)
+
+## Sources
+
+- FEC itemized contributions (aggregated in `data/derived/fec-indiv-by-committee.jsonl`)
+- IRS Form 990 filings via ProPublica Nonprofit Explorer
