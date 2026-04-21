@@ -1,7 +1,7 @@
 ---
 title: MasTec - Mas Canosa Family
 type: corporation
-content-readiness: ready
+content-readiness: data-complete
 last-updated: 2026-04-08T00:00:00.000Z
 source-tier: 2
 parent: null
@@ -25,7 +25,7 @@ source-types:
   - USASpending
 corroboration-count: 3
 known-gaps:
-  - No SEC corporate filings
+  - "No SEC corporate filings"
 cross-vault-triangulation-count: 10
 audit-a-plus-passed: "2026-04-11"
 urls-first-triaged: "2026-04-15"

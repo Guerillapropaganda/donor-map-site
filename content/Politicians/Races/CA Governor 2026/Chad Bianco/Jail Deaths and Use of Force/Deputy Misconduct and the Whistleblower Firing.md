@@ -1,7 +1,7 @@
 ---
 title: "Deputy Misconduct and the Whistleblower Firing"
 type: sub-note
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-09
 source-tier: 2
 parent: null
@@ -14,6 +14,8 @@ last-enriched: "2026-04-09"
 checklist-na:
   - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+source-types:
+  - Congress
 ---
 #bianco #deputy-misconduct #whistleblower #heidecker #flores #sexual-abuse #cover-up #class-analysis #accountability #hush-money
 

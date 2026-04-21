@@ -1,7 +1,7 @@
 ---
 title: America First Action
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-type: Super PAC (Independent Expenditure-Only)
@@ -25,6 +25,11 @@ employee-contributions: 23
 employee-contributions-total: 15665953
 employee-donor-count: 6
 politicians-funded: "[[America First Action]], [[NRSC - National Republican Senatorial Committee]], [[WinRed]], [[MAGA Inc]]"
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 ---
 
 

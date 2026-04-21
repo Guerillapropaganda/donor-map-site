@@ -1,7 +1,7 @@
 ---
 title: "Stand Together Foundation"
 type: donor
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-18
 sector: "Dark Money"
 entity-type: "501(c)(3)"
@@ -9,6 +9,10 @@ ein: "273197768"
 nonprofit-status: "501(c)(3)"
 source-tier: 1
 internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Koch-network 501(c)(3) foundation, distinct corporate entity from Stand Together 501(c)(4) (EIN 912166417). Funds poverty and justice-system programs branded as libertarian civil-society. Narrative pending Research Claude editorial pass."
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 ---
 
 

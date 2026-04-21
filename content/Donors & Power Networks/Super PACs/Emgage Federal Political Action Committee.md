@@ -1,7 +1,7 @@
 ---
 title: Emgage Federal Political Action Committee
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00453704
 aliases:
   - EMGAGE FEDERAL POLITICAL ACTION COMMITTEE
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[George Latimer]], [[Jamaal Bowman]], [[Donald Trump]], [[Abdul El-Sayed]], [[Cori Bush]], [[Rashida Tlaib]], [[Summer Lee]]"
 related: "[[George Latimer]]"
 checklist-na:
@@ -24,6 +24,8 @@ cash-on-hand: 175629
 independent-expenditures: 4208
 individual-contributions: 20669
 contributions-to-committees: 21020
+source-types:
+  - FEC
 ---
 
 

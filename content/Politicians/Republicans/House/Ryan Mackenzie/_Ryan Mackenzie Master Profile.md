@@ -1,7 +1,7 @@
 ---
 title: Ryan Mackenzie
 type: politician
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Republican
@@ -18,10 +18,9 @@ phone: 202-225-6411
 source-types:
   - Congress
 known-gaps:
-  - No FEC contribution data
-  - No legislative record
-  - No voting record
-  - No mapped relationships
+  - "No FEC contribution data"
+  - "No voting record data"
+  - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H8PA15195
 top-donors: "[[National Restaurant Association]], [[Mike Haridopolos]], [[National Rifle Association]], [[Troy Downing]], [[Andy Harris]], [[Jim Jordan]], [[NRCC - National Republican Congressional Committee]], [[Jake Ellzey]], [[McDonalds Corporation]], [[Mike Kelly]], [[American Hospital Association PAC]], [[Associated General Contractors of America Political Action Committee]], [[Performance Racing Inc.]], [[General Dynamics]], [[Ben Cline]], [[Darrell Issa]], [[Rick W. Allen]], [[Mark Green]], [[Anthem - Elevance Health]], [[Hmp]], [[Brad Knott]], [[American Chemistry Council, INC]], [[Activate America]], [[Pete Sessions]], [[AIPAC - American Israel Public Affairs Committee]], [[Pennsylvania Pro-Life Federation PAC]], [[Republican Jewish Coalition]], [[Comcast - NBCUniversal]], [[Austin Scott]], [[Congressional Leadership Fund]], [[Americans for Prosperity]], [[Kevin Kiley]], [[Campaign for Working Families]], [[Planned Parenthood Votes]], [[CVS Health - Aetna]], [[Lockheed Martin]], [[Google - Alphabet]], [[Ron Estes]], [[DCCC - Democratic Congressional Campaign Committee]], [[Walmart - Walton Family]], [[Vince Fong]], [[Joe Wilson]], [[DoorDash]], [[David Rouzer]], [[League of Conservation Voters]], [[AFSCME Working Families Fund]], [[National Association of Realtors]], [[Carlos Gimenez]], [[Honeywell]], [[National Right to Life Victory Fund]], [[Emily's List]], [[Cliff Bentz]], [[Honeywell International]], [[HMP]]"

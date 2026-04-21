@@ -1,7 +1,7 @@
 ---
 title: ESAFUND
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-type: Super PAC (Independent Expenditure-Only)
@@ -23,6 +23,10 @@ urls-first-triaged: "2026-04-15"
 total-raised: 85971
 total-spent: 1529846
 contributions-to-committees: 262500
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

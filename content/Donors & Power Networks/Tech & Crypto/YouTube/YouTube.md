@@ -1,16 +1,17 @@
 ---
 title: YouTube
 type: corporation
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 3
 sector: Tech & Crypto
 entity-type: corporation
 known-gaps:
-  - No FEC contribution data
-  - No lobbying data
-  - No mapped relationships
-source-types: []
+  - "No SEC corporate filings"
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
+source-types:
+  - FEC
 urls-first-triaged: "2026-04-15"
 epa-facilities: 1
 epa-states: CA

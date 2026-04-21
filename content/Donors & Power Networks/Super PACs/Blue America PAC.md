@@ -1,7 +1,7 @@
 ---
 title: Blue America PAC
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00427617
 aliases:
   - BLUE AMERICA PAC
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[John Boehner]], [[Cori Bush]]"
 related: "[[John Boehner]]"
 checklist-na:
@@ -22,6 +22,8 @@ total-raised: 11657
 total-spent: 4857
 cash-on-hand: 63320
 individual-contributions: 8746
+source-types:
+  - FEC
 ---
 
 

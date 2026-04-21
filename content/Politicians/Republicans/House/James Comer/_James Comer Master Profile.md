@@ -1,7 +1,7 @@
 ---
 title: James Comer
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: Comer is the investigator who doesn't investigate himself. His Oversight Committee gavel gives him the most powerful investigative tool in Congress — unilateral subpoena power — and he has deployed it almost exclusively as a partisan weapon. The B...
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -46,6 +46,12 @@ donors: "[[Alliance Coal, LLC PAC]] · [[NATIONAL RIFLE ASSOCIATION OF AMERICA P
 bills-enacted: 0
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: Government Operations and Politics
+source-types:
+  - Congress
+  - GovTrack
+corroboration-count: 2
+known-gaps:
+  - "No FEC contribution data"
 ---
 
 

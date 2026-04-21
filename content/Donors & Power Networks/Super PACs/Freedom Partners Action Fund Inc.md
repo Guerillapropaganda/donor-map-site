@@ -1,7 +1,7 @@
 ---
 title: Freedom Partners Action Fund Inc
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00564765
 aliases:
   - FREEDOM PARTNERS ACTION FUND INC
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Jeff Merkley]]"
 related: "[[Jeff Merkley]]"
 checklist-na:
@@ -20,6 +20,8 @@ checklist-na:
 urls-first-triaged: "2026-04-15"
 total-spent: 6474000
 contributions-to-committees: 6481745
+source-types:
+  - FEC
 ---
 
 

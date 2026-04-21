@@ -1,7 +1,7 @@
 ---
 title: PG&E - Pacific Gas and Electric
 type: corporation
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -38,6 +38,14 @@ contributions-to-committees: 295005
 employee-contributions: 38508
 employee-contributions-total: 3440454
 employee-donor-count: 3768
+source-types:
+  - FEC
+  - FederalRegister
+  - SEC
+  - USASpending
+corroboration-count: 4
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

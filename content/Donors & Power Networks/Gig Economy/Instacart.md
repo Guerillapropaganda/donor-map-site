@@ -1,7 +1,7 @@
 ---
 title: Instacart
 type: corporation
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -40,6 +40,14 @@ employee-contributions: 1068
 employee-contributions-total: 100215
 employee-donor-count: 153
 politicians-funded: "[[ActBlue]], [[_Jon Ossoff Master Profile]], [[_Alex Padilla Master Profile]], [[_Josh Harder Master Profile]], [[_Josh Riley Master Profile]], [[_Ron Johnson Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[WinRed]], [[MAGA Inc]], [[The Lincoln Project]], [[Barbara Lee]], [[RNC - Republican National Committee]], [[CHC BOLD PAC]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Virginia Foxx Master Profile]], [[_Kevin Kiley Master Profile]], [[_Ted Cruz Master Profile]], [[Ted Cruz]], [[Josh Harder]], [[Virginia Foxx]], [[Josh Riley]], [[Ron Johnson]], [[Alex Padilla]], [[Kevin Kiley]], [[Jon Ossoff]]"
+source-types:
+  - Courts
+  - FEC
+  - FederalRegister
+corroboration-count: 3
+known-gaps:
+  - "No SEC corporate filings"
+  - "No lobbying disclosure data"
 ---
 
 

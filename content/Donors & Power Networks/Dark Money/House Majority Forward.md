@@ -1,7 +1,7 @@
 ---
 title: House Majority Forward
 type: donor
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-21
 aliases:
   - HOUSE MAJORITY FORWARD
@@ -11,6 +11,10 @@ entity-type: Dark Money Vehicle
 nonprofit-status: 501(c)(4)
 source-tier: 1
 internal-notes: Stub profile auto-created 2026-04-21 from orphan-entities-queue. Democratic-aligned 501(c)(4) social-welfare nonprofit, affiliated arm of House Majority PAC. Spends on issue advocacy for House Democratic candidates; donor identities not disclosed under 501(c)(4) law. $76.5M in tracked outflows across 1 edge in the orphan queue. Research Claude editorial pass pending.
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 ---
 
 ## Who They Are

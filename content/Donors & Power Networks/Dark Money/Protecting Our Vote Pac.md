@@ -1,7 +1,7 @@
 ---
 title: Protecting Our Vote Pac
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00509463
@@ -18,6 +18,10 @@ checklist-na:
 urls-first-triaged: "2026-04-15"
 total-spent: 35414
 cash-on-hand: 57155
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: Activate America
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00640300
@@ -24,6 +24,10 @@ related: "[[Roger Williams]]"
 employee-contributions: 158
 employee-contributions-total: 20026
 employee-donor-count: 27
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

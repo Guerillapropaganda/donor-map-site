@@ -1,7 +1,7 @@
 ---
 title: Rick Scott
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Rick Scott is the most literal example of the donor-class thesis: he IS the donor class. He doesn't receive money from healthcare fraudsters , he WAS the healthcare fraudster. He doesn't receive self-funding from a clean fortune , his content-readiness: draft52M+ in ca..."
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
@@ -22,15 +22,14 @@ bills-cosponsored: 1710
 website: https://www.rickscott.senate.gov
 phone: 202-224-5274
 source-types:
+  - Congress
   - DOJ
-  - FEC
   - GovTrack
 corroboration-count: 3
 needs-reenrichment: true
 reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified): S001217. Next pipeline run should populate Congress.gov + GovTrack auto-blocks with correct data."
 known-gaps:
-  - No legislative record from Congress.gov
-  - No mapped relationships
+  - "No FEC contribution data"
 related: "[[_Mitch McConnell Master Profile]] · [[_Donald Trump Master Profile]] · [[_Tom Steyer Master Profile]] · [[_Marco Rubio Master Profile|Rubio]] · [[Fanjul Family - Florida Crystals]] · [[Operation Southern Spear and the Cuba Fuel Blockade]] · [[The Nuestra América Convoy , How the Donor Class Attacked a Humanitarian Mission]]"
 last-enriched: "2026-04-10"
 issues:

@@ -1,7 +1,7 @@
 ---
 title: PG&E
 type: corporation
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -29,6 +29,13 @@ federal-contracts: 2
 employee-contributions: 6794
 employee-contributions-total: 887167
 employee-donor-count: 802
+source-types:
+  - FEC
+  - USASpending
+corroboration-count: 2
+known-gaps:
+  - "No SEC corporate filings"
+  - "No lobbying disclosure data"
 ---
 
 

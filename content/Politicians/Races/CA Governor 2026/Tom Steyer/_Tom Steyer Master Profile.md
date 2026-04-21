@@ -1,7 +1,7 @@
 ---
 title: Tom Steyer
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Tom Steyer is the billionaire who wants to tax billionaires , the donor class's self-appointed class traitor. His campaign is built on the most visible contradiction in this vault: a man who made billions from fossil fuel hedge fund investments no..."
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -18,11 +18,10 @@ top-donors:
 total-received: $353,041,956
 fec-candidate-id: P00012716
 source-types:
-  - FEC
+  - Congress
 known-gaps:
-  - No legislative record from Congress.gov
-  - No voting record data
-  - No mapped relationships
+  - "No FEC contribution data"
+  - "No voting record data"
 last-enriched: "2026-04-09"
 related: "[[Michael Bloomberg]] · [[_Katie Porter Master Profile]] · [[_Matt Mahan Master Profile]] · [[_Gavin Newsom Master Profile]] · [[CNA - California Nurses Association]] · [[National Progressive Donor Networks]] · [[Democracy Alliance]]"
 donors: "[[National Progressive Donor Networks]] · [[Climate Philanthropy - The Green Billionaires]] · [[CNA - California Nurses Association]] · [[Michael Bloomberg]] · [[MISLOVE, ALAN EDWARD]] · [[Mislove, Alan Edward]]"

@@ -2,7 +2,7 @@
 title: Republican Party of Florida
 type: donor
 ein: "590683241"
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ source-tier: 1
 aliases:
   - REPUBLICAN PARTY OF FLORIDA
 known-gaps:
-  - Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 related: "[[George W. Bush]]"
 politicians-funded: "[[George W. Bush]], [[Jimmy Patronis]], [[WinRed]], [[Anna Paulina Luna]], [[Kamala Harris]], [[Michael Waltz]], [[Trump Victory]], [[REPUBLICAN PARTY OF FLORIDA]], [[_Daniel Webster Master Profile]], [[Lauren Boebert]], [[Daniel Webster]], [[Cory Mills]], [[Randy Fine]], [[Aaron Bean]], [[Ron Johnson]], [[Republican Party of Florida]]"
 checklist-na:
@@ -26,6 +26,8 @@ contributions-to-committees: 10000
 employee-contributions: 33
 employee-contributions-total: 15362
 employee-donor-count: 14
+source-types:
+  - FEC
 ---
 
 

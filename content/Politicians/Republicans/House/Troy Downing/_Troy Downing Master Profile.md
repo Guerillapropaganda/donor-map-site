@@ -1,7 +1,7 @@
 ---
 title: Troy Downing
 type: politician
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Republican
@@ -18,10 +18,9 @@ phone: 202-225-3211
 source-types:
   - Congress
 known-gaps:
-  - No FEC contribution data
-  - No legislative record
-  - No voting record
-  - No mapped relationships
+  - "No FEC contribution data"
+  - "No voting record data"
+  - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4MT02098
 top-donors: "[[Citigroup]], [[National Association of Realtors]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Darrell Issa]], [[MAJORITY PAC]], [[Honeywell]], [[National Cattlemen's Beef Association]], [[WinRed]], [[NextEra Energy]], [[Jim Jordan]], [[Northrop Grumman]], [[Morgan Stanley]], [[American Hospital Association PAC]], [[Defending Main Street Superpac INC]], [[National Rifle Association]], [[National Multifamily Housing Council]], [[CVS Health - Aetna]], [[Associated General Contractors of America Political Action Committee]], [[AIPAC - American Israel Public Affairs Committee]], [[National Restaurant Association]], [[Lockheed Martin]], [[Jake Ellzey]], [[Defend American Jobs]], [[Bank of America]], [[Chevron]], [[Charles Schwab]], [[Coinbase]], [[Blackstone Group]], [[Apple]], [[Elliott Management]], [[Apollo Global Management]], [[HBW Resources]], [[Raytheon (RTX Corporation)]], [[Majority PAC]], [[Honeywell International]]"

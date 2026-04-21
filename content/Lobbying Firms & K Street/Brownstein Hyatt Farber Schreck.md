@@ -1,7 +1,7 @@
 ---
 title: "Brownstein Hyatt Farber Schreck"
 type: lobbying-firm
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-13
 source-tier: 1
 parent: null
@@ -57,6 +57,14 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 checklist-na:
   - "regulatory: auto: entity type \"lobbying-firm\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"lobbying-firm\" does not typically hold federal contracts (2026-04-15)"
+source-types:
+  - Courts
+  - FederalRegister
+  - LDA
+  - SEC
+corroboration-count: 4
+known-gaps:
+  - "No foreign agent registration data"
 ---
 
 #lobbying #k-street #energy #real-estate #cannabis #gaming #foreign-lobbying #defense #pharma #tech

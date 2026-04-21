@@ -1,7 +1,7 @@
 ---
 title: Tenet Healthcare
 type: corporation
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -89,6 +89,17 @@ employee-contributions: 4769
 employee-contributions-total: 658681
 employee-donor-count: 712
 politicians-funded: "[[Brian Mast]], [[John Barrasso]], [[Bill Hagerty]], [[_Ted Cruz Master Profile]], [[Tenet Healthcare]], [[Progressive Turnout Project]], [[_Julie Johnson Master Profile]], [[RNC - Republican National Committee]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Human Rights Campaign Equality Votes]], [[ActBlue]], [[_Angie Craig Master Profile]], [[MoveOn.org Political Action]], [[Bob Casey]], [[Greg Stanton]], [[_Tammy Baldwin Master Profile]], [[Mark Kelly]], [[_Jake Ellzey Master Profile]], [[_Chris Pappas Master Profile]], [[Votevets]], [[Jason Smith]], [[Ted Cruz]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Lloyd Smucker]], [[Diana Harshbarger]], [[Katie Britt]], [[Rick Scott]], [[Brett Guthrie]], [[_Nancy Pelosi Master Profile]], [[Kyrsten Sinema]], [[Chris Christie]], [[_Debbie Wasserman Schultz Master Profile]], [[John Thune]], [[MAGA Inc]], [[Richard Neal]], [[Marsha Blackburn]], [[NRCC - National Republican Congressional Committee]], [[Ron Wyden]], [[Dan Crenshaw]], [[Lois Frankel]], [[NRSC - National Republican Senatorial Committee]], [[Veronica Escobar]], [[WinRed]], [[Joe Manchin]], [[DCCC - Democratic Congressional Campaign Committee]], [[Steve Scalise]], [[_Lauren Boebert Master Profile]], [[WinSenate]], [[Kevin McCarthy]], [[Dusty Johnson]], [[James Lankford]], [[Pete Aguilar]], [[John Boozman]], [[Diana Degette]], [[Ann Wagner]], [[Thom Tillis]], [[Adam Gray]], [[_Pete Sessions Master Profile]], [[Tim Scott]], [[The Lincoln Project]], [[Shelley Moore Capito]], [[Aaron Bean]], [[Mitch McConnell]], [[REPUBLICAN PARTY OF FLORIDA]], [[Darren Soto]], [[Darin Lahood]], [[Hmp]], [[Jay Obernolte]], [[Todd Young]], [[Mark Warner]], [[David Kustoff]], [[Adrian Smith]], [[Vince Fong]], [[_Yassamin Ansari Master Profile]], [[_Marco Rubio Master Profile]], [[Debbie Wasserman Schultz]], [[Tammy Baldwin]], [[Angie Craig]], [[Yassamin Ansari]], [[Nancy Pelosi]], [[Lauren Boebert]], [[Pete Sessions]], [[Marco Rubio]], [[Julie Johnson]], [[Chris Pappas]], [[Jake Ellzey]], [[Republican Party of Florida]], [[HMP]]"
+source-types:
+  - Congress
+  - Courts
+  - DOJ
+  - FEC
+  - FederalRegister
+  - SEC
+  - USASpending
+corroboration-count: 7
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

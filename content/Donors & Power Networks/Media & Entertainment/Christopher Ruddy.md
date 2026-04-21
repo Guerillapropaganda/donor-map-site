@@ -1,7 +1,7 @@
 ---
 title: Christopher Ruddy
 type: donor
-content-readiness: ready
+content-readiness: data-complete
 last-updated: 2026-04-16
 source-tier: 2
 parent: null
@@ -54,6 +54,12 @@ checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+source-types:
+  - FEC
+  - SEC
+corroboration-count: 2
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

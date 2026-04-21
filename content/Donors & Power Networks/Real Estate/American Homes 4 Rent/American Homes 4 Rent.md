@@ -1,16 +1,16 @@
 ---
 title: American Homes 4 Rent
 type: corporation
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 3
 sector: Real Estate
 entity-type: corporation
 known-gaps:
-  - No FEC contribution data
-  - No lobbying data
-  - No mapped relationships
-source-types: []
+  - "No SEC corporate filings"
+  - "No lobbying disclosure data"
+source-types:
+  - FEC
 related: "[[National Rental Home Council]] · [[Invitation Homes - Institutional Landlords]]"
 urls-first-triaged: "2026-04-15"
 employee-contributions: 39

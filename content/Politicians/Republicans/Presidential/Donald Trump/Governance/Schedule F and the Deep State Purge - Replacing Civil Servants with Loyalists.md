@@ -1,7 +1,7 @@
 ---
 title: "Schedule F and the Deep State Purge - Replacing Civil Servants with Loyalists"
 type: sub-note
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-06
 source-tier: 1
 parent: null
@@ -19,6 +19,8 @@ checklist-na:
   - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+source-types:
+  - Congress
 ---
 #donald-trump #governance #schedule-f #civil-service #deep-state #loyalty-test #administrative-state #project-2025 #follow-the-money
 

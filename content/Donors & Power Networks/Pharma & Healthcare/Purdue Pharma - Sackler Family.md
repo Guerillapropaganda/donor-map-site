@@ -1,7 +1,7 @@
 ---
 title: Purdue Pharma - Sackler Family
 type: corporation
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -25,6 +25,12 @@ employee-contributions: 62
 employee-contributions-total: 67005
 employee-donor-count: 23
 politicians-funded: "[[ActBlue]], [[RNC - Republican National Committee]], [[_Marco Rubio Master Profile]], [[MoveOn.org Political Action]], [[NRSC - National Republican Senatorial Committee]], [[MAGA Inc]], [[MAJORITY PAC]], [[REPUBLICAN PARTY OF FLORIDA]], [[Marco Rubio]], [[Majority PAC]], [[Republican Party of Florida]]"
+source-types:
+  - FEC
+  - LDA
+corroboration-count: 2
+known-gaps:
+  - "No SEC corporate filings"
 ---
 
 

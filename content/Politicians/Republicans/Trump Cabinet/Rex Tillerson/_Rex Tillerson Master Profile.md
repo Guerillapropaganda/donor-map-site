@@ -1,7 +1,7 @@
 ---
 title: Rex Tillerson
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Tillerson's career is the fossil fuel revolving door in its purest form: 41 years building wealth and relationships inside the world's most powerful oil company, then a brief stint as Secretary of State where his primary qualification was his rela..."
 last-updated: 2026-04-08T00:00:00.000Z
 source-tier: 1
@@ -13,6 +13,11 @@ issues:
 related: "[[Enterprise Products Partners]] · [[ExxonMobil]] · [[Donald Trump]]"
 top-donors: "[[ExxonMobil]]"
 urls-first-triaged: "2026-04-15"
+source-types:
+  - Congress
+known-gaps:
+  - "No FEC contribution data"
+  - "No voting record data"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: Defending Main Street Superpac INC
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00540203
 aliases:
   - DEFENDING MAIN STREET SUPERPAC INC
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Shelley Moore Capito]], [[Julie Fedorchak]], [[Brad Finstad]], [[Ken Calvert]], [[Josh Riley]], [[Dan Newhouse]], [[Celeste Maloy]], [[Troy Downing]], [[Mike Levin]], [[Tom Cole]], [[Derek Tran]], [[Mariannette Miller-Meeks]], [[Dusty Johnson]]"
 ofac-sdn-match: "true"
 last-enriched: "2026-04-15"
@@ -27,6 +27,8 @@ cash-on-hand: 552026
 independent-expenditures: 135000
 individual-contributions: 1250000
 related: "[[Shelley Moore Capito]]"
+source-types:
+  - FEC
 ---
 
 

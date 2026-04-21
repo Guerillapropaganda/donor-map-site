@@ -1,7 +1,7 @@
 ---
 title: Commonwealth Unity Fund
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00875856
 aliases:
   - COMMONWEALTH UNITY FUND
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Elizabeth Warren]]"
 related: "[[Elizabeth Warren]]"
 checklist-na:
@@ -22,6 +22,8 @@ total-raised: 2624000
 total-spent: 2624000
 independent-expenditures: 2111275
 individual-contributions: 2624000
+source-types:
+  - FEC
 ---
 
 

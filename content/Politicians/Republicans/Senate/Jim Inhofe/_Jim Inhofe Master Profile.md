@@ -2,7 +2,7 @@
 title: "Jim Inhofe"
 type: politician
 bioguide-id: "I000024"
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Inhofe served two donor classes simultaneously: the fossil fuel industry and the defense industry. As chair of both the Environment and Armed Services committees at different points, he was perfectly positioned to deliver for both. For oil and gas..."
 last-updated: 2026-03-25
 source-tier: 1
@@ -18,11 +18,10 @@ issues:
   - "Defense & Military"
 source-types:
   - Congress
-  - FEC
 corroboration-count: 2
 known-gaps:
+  - "No FEC contribution data"
   - "No voting record data"
-  - "No mapped relationships"
 related: "[[Koch Network - Charles Koch|Koch Network]] · [[ExxonMobil]] · [[Fossil Fuel Bloc]] · [[American Petroleum Institute]] · [[_Markwayne Mullin Master Profile|Markwayne Mullin]] · [[_Donald Trump Master Profile|Trump]] · [[Lockheed Martin]] · [[Northrop Grumman]]"
 ---
 

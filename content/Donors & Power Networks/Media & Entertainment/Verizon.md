@@ -1,7 +1,7 @@
 ---
 title: Verizon
 type: corporation
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -49,6 +49,14 @@ employee-contributions: 21085
 employee-contributions-total: 1947154
 employee-donor-count: 3274
 politicians-funded: "[[CHC BOLD PAC]], [[DCCC - Democratic Congressional Campaign Committee]], [[Senate Conservatives Fund]], [[_Nancy Pelosi Master Profile]], [[_Josh Riley Master Profile]], [[_Laura Friedman Master Profile]], [[_Dave Min Master Profile]], [[_Diana Degette Master Profile]], [[_Rashida Tlaib Master Profile]], [[Votevets]], [[MoveOn.org Political Action]], [[_Tammy Baldwin Master Profile]], [[RNC - Republican National Committee]], [[Working Families Party PAC]], [[ActBlue]], [[WinRed]], [[_Jon Ossoff Master Profile]], [[_Lauren Boebert Master Profile]], [[_Cory Booker Master Profile]], [[_Lois Frankel Master Profile]], [[National Rifle Association]], [[Let America Vote PAC]], [[_Glenn Ivey Master Profile]], [[Emily's List]], [[_Beth van Duyne Master Profile]], [[_Marco Rubio Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Jason Crow Master Profile]], [[_Kevin Kiley Master Profile]], [[_Jimmy Gomez Master Profile]], [[_Ted Cruz Master Profile]], [[WinSenate]], [[NRSC - National Republican Senatorial Committee]], [[Democratic Party of Virginia]], [[Indivisible Action]], [[Performance Racing Inc.]], [[_Andy Harris Master Profile]], [[_Claudia Tenney Master Profile]], [[_Chris Pappas Master Profile]], [[_Summer Lee Master Profile]], [[Courage to Change PAC]], [[Catherine Cortez Masto]], [[_Morgan McGarvey Master Profile]], [[_Chrissy Houlahan Master Profile]], [[_Robert Garcia Master Profile]], [[_Ben Cline Master Profile]], [[Teamsters - International Brotherhood of Teamsters]], [[MAGA Inc]], [[Progressive Turnout Project]], [[_Patrick Ryan Master Profile]], [[NRCC - National Republican Congressional Committee]], [[_Scott Wiener Master Profile]], [[_George Latimer Master Profile]], [[_Shontel Brown Master Profile]], [[_Lisa Blunt Rochester Master Profile]], [[Human Rights Campaign Equality Votes]], [[Save America PAC]], [[_Josh Hawley Master Profile]], [[_Angie Craig Master Profile]], [[_Elissa Slotkin Master Profile]], [[JUSTICE DEMOCRATS PAC]], [[_Virginia Foxx Master Profile]], [[The Lincoln Project]], [[REPUBLICAN PARTY OF FLORIDA]], [[Bob Casey]], [[_Tony Gonzales Master Profile]], [[_Ron Johnson Master Profile]], [[League of Conservation Voters]], [[NORPAC]], [[_Adam Gray Master Profile]], [[_David Scott Master Profile]], [[MAJORITY PAC]], [[Giffords PAC]], [[Trump Victory]], [[_Jim Jordan Master Profile]], [[Mark Kelly]], [[Hmp]], [[Chris Christie]], [[AIPAC - American Israel Public Affairs Committee]], [[314 ACTION FUND]], [[Sierra Club Political Committee]], [[_Gabe Amo Master Profile]], [[Los Angeles County Democratic Central Committee]], [[Bernie Moreno]], [[_Alex Padilla Master Profile]], [[_Nathaniel Moran Master Profile]], [[_Victoria Spartz Master Profile]], [[_John James Master Profile]], [[_Tim Scott Master Profile]], [[_Jamie Raskin Master Profile]], [[National Victory Action Fund]], [[_Dwight Evans Master Profile]], [[_Susie Lee Master Profile]], [[_Hilda Solis Master Profile]], [[_Deb Haaland Master Profile]], [[Marianne Williamson]], [[Barbara Lee]], [[_Lauren Underwood Master Profile]], [[_Mark Takano Master Profile]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[Ab Pac]], [[Beth van Duyne]], [[Robert Garcia]], [[Summer Lee]], [[Morgan McGarvey]], [[Andy Harris]], [[John James]], [[Rashida Tlaib]], [[Diana Degette]], [[Nancy Pelosi]], [[Josh Hawley]], [[Ted Cruz]], [[Marco Rubio]], [[Nathaniel Moran]], [[Ron Johnson]], [[Cory Booker]], [[Tim Scott]], [[Lois Frankel]], [[Jon Ossoff]], [[Josh Riley]], [[Jamie Raskin]], [[Virginia Foxx]], [[Shontel Brown]], [[Chris Pappas]], [[Laura Friedman]], [[Jimmy Gomez]], [[Jason Crow]], [[George Latimer]], [[Mark Takano]], [[Scott Wiener]], [[Lauren Boebert]], [[Lisa Blunt Rochester]], [[Dwight Evans]], [[Ben Cline]], [[Chrissy Houlahan]], [[Tony Gonzales]], [[Kevin Kiley]], [[Angie Craig]], [[Victoria Spartz]], [[Jim Jordan]], [[Hilda Solis]], [[Adam Gray]], [[Glenn Ivey]], [[Deb Haaland]], [[Claudia Tenney]], [[Lauren Underwood]], [[Dave Min]], [[Elissa Slotkin]], [[Tammy Baldwin]], [[Gabe Amo]], [[Patrick Ryan]], [[David Scott]], [[Susie Lee]], [[Alex Padilla]], [[Justice Democrats PAC]], [[Republican Party of Florida]], [[Majority PAC]], [[HMP]], [[314 Action Fund]], [[Minnesota Democratic-Farmer-Labor Party]], [[AB PAC]]"
+source-types:
+  - FEC
+  - FederalRegister
+  - SEC
+  - USASpending
+corroboration-count: 4
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

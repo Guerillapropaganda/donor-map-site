@@ -2,7 +2,7 @@
 title: Latino Vote for America Pac
 type: donor
 ein: "844734272"
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00742130
@@ -19,6 +19,10 @@ checklist-na:
 urls-first-triaged: "2026-04-15"
 total-spent: 3232
 cash-on-hand: 222
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

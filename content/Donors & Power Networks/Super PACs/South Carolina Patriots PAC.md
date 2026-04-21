@@ -1,7 +1,7 @@
 ---
 title: South Carolina Patriots PAC
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00872085
 aliases:
   - SOUTH CAROLINA PATRIOTS PAC
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Nancy Mace]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -22,6 +22,8 @@ total-spent: 4058500
 independent-expenditures: 3819814
 individual-contributions: 15000
 related: "[[Nancy Mace]]"
+source-types:
+  - FEC
 ---
 
 

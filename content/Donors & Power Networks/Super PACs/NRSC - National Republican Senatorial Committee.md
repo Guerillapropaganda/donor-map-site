@@ -1,7 +1,7 @@
 ---
 title: NRSC - National Republican Senatorial Committee
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,8 @@ aliases:
   - NRSC
   - NATIONAL REPUBLICAN SENATORIAL COMMITTEE
 known-gaps:
-  - Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 ofac-sdn-match: "true"
 last-enriched: "2026-04-14"
 ofac-programs:
@@ -31,6 +32,8 @@ employee-contributions: 62
 employee-contributions-total: 13662
 employee-donor-count: 22
 politicians-funded: "[[Deb Fischer]], [[WinRed]], [[John Boozman]], [[_John James Master Profile]], [[Markwayne Mullin]], [[Tim Sheehy]], [[Roger Marshall]], [[John Cornyn]], [[Ted Cruz]], [[Ashley Moody]], [[Michael Whatley]], [[Susan Collins]], [[Mark Kelly]], [[James Lankford]], [[Catherine Cortez Masto]], [[Lisa Murkowski]], [[Cindy Hyde-Smith]], [[Shelley Moore Capito]], [[Jon Ossoff]], [[Jon Husted]], [[_Marco Rubio Master Profile]], [[Raphael Warnock]], [[AIPAC - American Israel Public Affairs Committee]], [[Eric Schmitt]], [[Steve Daines]], [[Katie Britt]], [[RNC - Republican National Committee]], [[Ron Johnson]], [[Mike Lee]], [[Bernie Moreno]], [[Pete Ricketts]], [[Ashley Hinson]], [[Bill Hagerty]], [[Lindsey Graham]], [[Dan Sullivan]], [[Elissa Slotkin]], [[John Fetterman]], [[Sherrod Brown]], [[_Brian Jack Master Profile]], [[Mike Rounds]], [[Rick Scott]], [[Jacky Rosen]], [[John James]], [[Brian Jack]], [[Marco Rubio]]"
+source-types:
+  - FEC
 ---
 
 

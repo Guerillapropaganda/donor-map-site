@@ -1,7 +1,7 @@
 ---
 title: Boeing Defense
 type: corporation
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -21,6 +21,13 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 employee-contributions: 12
 employee-contributions-total: 1016
 employee-donor-count: 1
+source-types:
+  - Courts
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No SEC corporate filings"
+  - "No lobbying disclosure data"
 ---
 
 

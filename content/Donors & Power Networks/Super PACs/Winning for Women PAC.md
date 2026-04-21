@@ -1,7 +1,7 @@
 ---
 title: "Winning for Women PAC"
 type: pac
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-17
 source-tier: 1
 parent: null
@@ -24,6 +24,8 @@ total-raised: 897
 total-spent: 776
 cash-on-hand: 617
 individual-contributions: 647
+source-types:
+  - FEC
 ---
 
 

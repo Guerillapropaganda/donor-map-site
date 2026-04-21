@@ -1,19 +1,17 @@
 ---
 title: "Itamar Ben-Gvir"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Ben-Gvir's policy demands , settlement expansion, West Bank annexation, military escalation , aren't ideological extremism divorced from material interest. They serve the capital interests of the settler construction industry and landholding elite..."
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
 last-enriched: "2026-04-08"
 source-types:
-  - DOJ
+  - Congress
 known-gaps:
   - "No FEC contribution data"
-  - "No legislative record from Congress.gov"
   - "No voting record data"
-  - "No mapped relationships"
 related: "[[_Benjamin Netanyahu Master Profile]] · [[Bezalel Smotrich]] · [[West Bank Annexation and Settlement Expansion]] · [[One Israel Fund]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 urls-first-triaged: "2026-04-15"
 ---

@@ -1,7 +1,7 @@
 ---
 title: CT Working Families Federal PAC D/b/a Take Back Congress CT
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00428649
 aliases:
   - CT WORKING FAMILIES FEDERAL PAC D/B/A TAKE BACK CONGRESS CT
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Rosa DeLauro]], [[Jahana Hayes]], [[Chris Murphy]]"
 related: "[[Rosa DeLauro]]"
 checklist-na:
@@ -26,6 +26,8 @@ ofac-sdn-match: "true"
 last-enriched: "2026-04-16"
 ofac-programs:
   - RUSSIA-EO14024
+source-types:
+  - FEC
 ---
 
 

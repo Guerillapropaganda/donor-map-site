@@ -1,7 +1,7 @@
 ---
 title: DoorDash
 type: corporation
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -35,6 +35,13 @@ contributions-to-committees: 84000
 employee-contributions: 2147
 employee-contributions-total: 799687
 employee-donor-count: 400
+source-types:
+  - FEC
+  - FederalRegister
+corroboration-count: 2
+known-gaps:
+  - "No SEC corporate filings"
+  - "No lobbying disclosure data"
 ---
 
 

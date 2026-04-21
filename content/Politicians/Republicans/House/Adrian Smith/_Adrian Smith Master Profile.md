@@ -1,7 +1,7 @@
 ---
 title: Adrian Smith
 type: politician
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 party: Republican
@@ -18,10 +18,8 @@ phone: 202-225-6435
 source-types:
   - Congress
 known-gaps:
-  - No FEC contribution data
-  - No legislative record
-  - No voting record
-  - No mapped relationships
+  - "No FEC contribution data"
+  - "No voting record data"
 donors: "[[ActBlue]], [[AbbVie]], [[McDonalds Corporation]], [[General Motors]], [[Citigroup]], [[National Restaurant Association]], [[Bank of America]], [[Lockheed Martin]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Walmart - Walton Family]], [[American Hospital Association PAC]], [[National Rifle Association]], [[Associated General Contractors of America Political Action Committee]], [[Jason Smith]], [[Comcast - NBCUniversal]], [[Care Action]], [[Microsoft]], [[Valero Energy]], [[General Dynamics]], [[Duke Energy]], [[AIPAC - American Israel Public Affairs Committee]], [[WinRed]], [[Ford Motor Company]], [[Tyson Foods]], [[National Association of Manufacturers]], [[NextEra Energy]], [[Raytheon (RTX)]], [[Humana]], [[Johnson & Johnson]], [[Chevron]], [[National Cattlemen's Beef Association]], [[Anthem - Elevance Health]], [[MAJORITY PAC]], [[AT&T - WarnerMedia]], [[Google - Alphabet]], [[Nucor Corporation]], [[Don Bacon]], [[National Association of Realtors]], [[Amgen Inc]], [[Honeywell]], [[National Right to Life Victory Fund]], [[CVS Health - Aetna]], [[Pfizer Inc.]], [[National Multifamily Housing Council]], [[American Chemistry Council, INC]], [[Morgan Stanley]], [[Gilead Sciences]], [[Save America PAC]], [[PG&E - Pacific Gas and Electric]], [[Marathon Petroleum]], [[ADM - Archer Daniels Midland]], [[Tenet Healthcare]], [[American Gaming Association]], [[Citadel - Kenneth Griffin]], [[American Petroleum Institute]], [[Charles Schwab]], [[Blackstone Group]], [[CBRE Group]], [[Goldman Sachs]], [[Apollo Global Management]], [[AT&T]], [[Majority PAC]], [[Honeywell International]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H6NE03115

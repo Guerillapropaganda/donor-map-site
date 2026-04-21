@@ -1,7 +1,7 @@
 ---
 title: National Philanthropic Trust
 type: donor
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 sector: Wall Street
 entity-type: Donor-Advised Fund
@@ -10,6 +10,10 @@ nonprofit-status: 501(c)(3)
 source-tier: 1
 internal-notes: Stub profile auto-created 2026-04-18 to close 990 coverage gap. National Philanthropic Trust is one of the largest independent donor-advised funds in the US, often used as a pass-through vehicle for anonymous giving. Narrative pending Research Claude editorial pass.
 politicians-funded: "[[The 85 Fund]], [[Fidelity Investments]], [[Brennan Center for Justice]], [[Kenneth Griffin]], [[Council on Foreign Relations]], [[Hudson Institute]], [[Center for American Progress]], [[Mercatus Center]], [[Conservative Partnership Institute]], [[TPUSA - Turning Point USA]], [[Heritage Foundation]], [[US Chamber of Commerce]], [[Urban Institute]], [[New Venture Fund]], [[Bipartisan Policy Center]], [[American Enterprise Institute]], [[Schwab Charitable Fund]], [[Ocean Conservancy]], [[Alliance Defending Freedom]], [[Cato Institute]], [[International Association of Chiefs of Police]], [[State Policy Network]], [[National Philanthropic Trust]], [[America First Policy Institute]], [[Airbnb]], [[Bradley Impact Fund]], [[Vanguard Charitable Endowment Program]], [[Goldman Sachs Philanthropy Fund]], [[Greater Horizons]], [[Hopewell Fund]], [[American Endowment Foundation]], [[Rockefeller Philanthropy Advisors]], [[ImpactAssets]], [[Morgan Stanley Global Impact Funding Trust]], [[Silicon Valley Community Foundation]], [[ACLU Foundation]], [[Renaissance Charitable Foundation]], [[Vital Strategies]], [[Planned Parenthood Federation of America]], [[The Barack Obama Foundation]], [[Blue Meridian Partners]], [[ClimateWorks Foundation]], [[Stand Together Foundation]], [[Bank of America Charitable Gift Fund]], [[Robin Hood Foundation]], [[The Seminar Network]], [[Equal Justice Initiative]], [[Sierra Club Foundation]], [[NEO Philanthropy]], [[Natural Resources Defense Council]], [[Proteus Fund]], [[Center for Popular Democracy]], [[Donors Trust]]"
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 ---
 
 

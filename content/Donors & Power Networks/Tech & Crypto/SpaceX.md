@@ -1,7 +1,7 @@
 ---
 title: SpaceX
 type: corporation
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -48,6 +48,14 @@ employee-contributions: 2144
 employee-contributions-total: 5823473
 employee-donor-count: 425
 politicians-funded: "[[_Laura Friedman Master Profile]], [[_Darrell Issa Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Mark Takano Master Profile]], [[_Thomas Massie Master Profile]], [[_Jon Ossoff Master Profile]], [[_Judy Chu Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[_Mark Harris Master Profile]], [[_Mike Collins Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Debbie Wasserman Schultz Master Profile]], [[_Sydney Kamlager-Dove Master Profile]], [[_Ted Cruz Master Profile]], [[_Ted Lieu Master Profile]], [[_Mike Levin Master Profile]], [[_Kamala Harris Master Profile]], [[ActBlue]], [[_Anna Paulina Luna Master Profile]], [[_George Whitesides Master Profile]], [[CHC BOLD PAC]], [[JUSTICE DEMOCRATS PAC]], [[WinRed]], [[NRCC - National Republican Congressional Committee]], [[_Josh Harder Master Profile]], [[REPUBLICAN PARTY OF FLORIDA]], [[Mark Kelly]], [[AIPAC - American Israel Public Affairs Committee]], [[MoveOn.org Political Action]], [[_Dave Min Master Profile]], [[Save America PAC]], [[_Tony Wied Master Profile]], [[RNC - Republican National Committee]], [[_Mike Rogers Master Profile]], [[_Gabe Vasquez Master Profile]], [[_Scott Wiener Master Profile]], [[_Martin Heinrich Master Profile]], [[Congressional Leadership Fund]], [[314 ACTION FUND]], [[_Sara Jacobs Master Profile]], [[_Lauren Boebert Master Profile]], [[MAGA Inc]], [[The Lincoln Project]], [[_Eric Burlison Master Profile]], [[Dave Min]], [[Mark Takano]], [[Laura Friedman]], [[Mike Collins]], [[Ted Cruz]], [[Eric Burlison]], [[Mike Levin]], [[Josh Harder]], [[Kamala Harris]], [[Thomas Massie]], [[Ted Lieu]], [[Anna Paulina Luna]], [[Scott Wiener]], [[Gabe Vasquez]], [[Tony Wied]], [[George Whitesides]], [[Debbie Wasserman Schultz]], [[Sara Jacobs]], [[Judy Chu]], [[Lauren Boebert]], [[Martin Heinrich]], [[Mark Harris]], [[Jon Ossoff]], [[Sydney Kamlager-Dove]], [[Mike Rogers]], [[Darrell Issa]], [[Justice Democrats PAC]], [[Republican Party of Florida]], [[314 Action Fund]]"
+source-types:
+  - Courts
+  - FEC
+  - FederalRegister
+corroboration-count: 3
+known-gaps:
+  - "No SEC corporate filings"
+  - "No lobbying disclosure data"
 ---
 
 

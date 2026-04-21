@@ -1,7 +1,7 @@
 ---
 title: Sfa Fund, Inc
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-type: Hybrid PAC (with Non-Contribution Account) - Nonqualified
@@ -20,6 +20,10 @@ checklist-na:
 urls-first-triaged: "2026-04-15"
 total-spent: 1109045
 contributions-to-committees: 1080013
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

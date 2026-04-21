@@ -1,7 +1,7 @@
 ---
 title: Center Forward Committee
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00568444
@@ -20,6 +20,10 @@ total-raised: 1550000
 total-spent: 633367
 cash-on-hand: 919425
 independent-expenditures: 629750
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

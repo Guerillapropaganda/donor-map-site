@@ -1,7 +1,7 @@
 ---
 title: "Illinois Future PAC"
 type: pac
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-15
 source-tier: 1
 parent: null

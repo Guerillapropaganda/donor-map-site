@@ -1,7 +1,7 @@
 ---
 title: Betty Yee
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: Betty Yee is the fiscal technocrat candidate , her entire political identity is built around the Controller role, which gives her unique visibility into California's state finances, pension obligations, corporate tax compliance, and fiscal policy ...
 last-updated: 2026-04-09T00:00:00.000Z
 source-tier: 1
@@ -14,9 +14,8 @@ top-donors: "[[CalPERS]]"
 source-types:
   - Congress
 known-gaps:
-  - No FEC contribution data
-  - No voting record data
-  - No mapped relationships
+  - "No FEC contribution data"
+  - "No voting record data"
 last-enriched: "2026-04-09"
 related: "[[_Gavin Newsom Master Profile]] · [[CalPERS]] · [[CalSTRS]]"
 ---

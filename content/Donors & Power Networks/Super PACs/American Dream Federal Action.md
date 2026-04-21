@@ -1,7 +1,7 @@
 ---
 title: American Dream Federal Action
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00809020
 aliases:
   - AMERICAN DREAM FEDERAL ACTION
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Katie Britt]], [[Mark Alford]], [[John Boozman]], [[Aaron Bean]], [[Erin Houchin]], [[Dusty Johnson]], [[David Schweikert]], [[Brad Finstad]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -20,6 +20,8 @@ urls-first-triaged: "2026-04-15"
 total-spent: 5000
 cash-on-hand: 304257
 related: "[[Katie Britt]]"
+source-types:
+  - FEC
 ---
 
 

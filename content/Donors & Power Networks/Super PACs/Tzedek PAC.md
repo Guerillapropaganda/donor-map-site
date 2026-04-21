@@ -1,7 +1,7 @@
 ---
 title: Tzedek PAC
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00770511
 aliases:
   - TZEDEK PAC
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Dan Goldman]], [[John Fetterman]], [[Ted Lieu]], [[James Comer]], [[Byron Donalds]], [[Ted Cruz]], [[Cliff Bentz]], [[Deb Fischer]], [[Kim Schrier]], [[Lisa Murkowski]], [[Lisa Blunt Rochester]], [[Tim Sheehy]], [[Young Kim]], [[Victoria Spartz]], [[Claudia Tenney]], [[Richard Blumenthal]], [[Joseph Morelle]], [[Erin Houchin]], [[Aaron Bean]], [[Michael Lawler]], [[John Joyce]], [[Randy Fine]], [[Morgan Luttrell]], [[Joni Ernst]], [[Richard McCormick]], [[David Rouzer]], [[Paul Tonko]], [[Cory Mills]], [[Burgess Owens]], [[Tammy Baldwin]], [[Hakeem Jeffries]], [[Kevin Cramer]], [[Veronica Escobar]], [[Steve Daines]], [[Guy Reschenthaler]], [[Alex Padilla]], [[Roger Marshall]], [[George Latimer]], [[Jay Obernolte]], [[Thom Tillis]], [[Diana Harshbarger]], [[Cory Booker]], [[Mike Lee]], [[Cathy McMorris Rodgers]]"
 related: "[[Dan Goldman]]"
 checklist-na:
@@ -22,6 +22,8 @@ total-raised: 19639
 total-spent: 67229
 cash-on-hand: 579572
 contributions-to-committees: 55900
+source-types:
+  - FEC
 ---
 
 

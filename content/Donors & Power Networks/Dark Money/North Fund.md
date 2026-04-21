@@ -1,7 +1,7 @@
 ---
 title: "North Fund"
 type: donor
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-18
 sector: "Dark Money"
 entity-type: "501(c)(4)"
@@ -9,6 +9,10 @@ ein: "834011547"
 nonprofit-status: "501(c)(4)"
 source-tier: 1
 internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Arabella Advisors-managed 501(c)(4) pass-through fiscal sponsor. Paired with Hopewell Fund on the c3 side. Part of the Arabella dark-money infrastructure stack. Narrative pending Research Claude editorial pass."
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 ---
 
 

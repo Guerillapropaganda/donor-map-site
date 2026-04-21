@@ -1,7 +1,7 @@
 ---
 title: "Greg Casar Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 last-updated: '2026-04-10'
 source-tier: 2
 parent: null
@@ -22,14 +22,11 @@ committees:
   - "Oversight & Reform"
   - "Natural Resources"
 source-types:
-  - FEC
+  - Congress
 corroboration-count: 1
 known-gaps:
-  - No body content yet. Needs full profile build.
-  - Congress.gov member profile not yet added (bioguide C001131 confirmed via unitedstates/congress-legislators registry).
-  - No GovTrack enrichment yet.
-  - No donation-to-policy timeline.
-  - No class analysis written.
+  - "No FEC contribution data"
+  - "No voting record data"
 donors:
   - "Small Dollar / Labor (grassroots-leaning)"
 related: "[[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[Justice Democrats and Brand New Congress - The Infrastructure He Built]] · [[_Rashida Tlaib Master Profile|Tlaib]] · [[_Ilhan Omar Master Profile|Omar]]"

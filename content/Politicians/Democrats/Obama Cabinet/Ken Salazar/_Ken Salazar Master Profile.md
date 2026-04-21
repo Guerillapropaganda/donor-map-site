@@ -2,14 +2,16 @@
 title: "Ken Salazar"
 type: politician
 bioguide-id: S001163
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-12
 source-tier: 1
 party: "Democrat"
 chamber: "Secretary of the Interior (2009-2013)"
 known-gaps:
+  - "No FEC contribution data"
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
   - "No mapped relationships"
-  - "No donor network analysis"
 source-types:
   - Congress
 urls-first-triaged: "2026-04-15"

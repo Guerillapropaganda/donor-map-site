@@ -1,7 +1,7 @@
 ---
 title: Texas Forward
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00731794
 aliases:
   - TEXAS FORWARD
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Henry Cuellar]]"
 related: "[[Henry Cuellar]]"
 checklist-na:
@@ -21,6 +21,8 @@ urls-first-triaged: "2026-04-15"
 total-raised: 1261101
 total-spent: 1261101
 independent-expenditures: 1251995
+source-types:
+  - FEC
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: Apollo Global Management
 type: corporation
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -65,6 +65,14 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 employee-contributions: 1233
 employee-contributions-total: 7372958
 employee-donor-count: 710
+source-types:
+  - Courts
+  - FEC
+  - FederalRegister
+  - SEC
+corroboration-count: 4
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

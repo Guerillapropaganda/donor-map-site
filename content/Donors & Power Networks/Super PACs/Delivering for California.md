@@ -1,7 +1,7 @@
 ---
 title: Delivering for California
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00672386
 aliases:
   - DELIVERING FOR CALIFORNIA
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Dianne Feinstein]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -19,6 +19,8 @@ checklist-na:
 urls-first-triaged: "2026-04-15"
 total-spent: 5895
 related: "[[Dianne Feinstein]]"
+source-types:
+  - FEC
 ---
 
 

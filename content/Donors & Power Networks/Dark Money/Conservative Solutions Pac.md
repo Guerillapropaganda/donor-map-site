@@ -1,7 +1,7 @@
 ---
 title: Conservative Solutions PAC
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-type: Super PAC (Independent Expenditure-Only)
@@ -19,6 +19,10 @@ urls-first-triaged: "2026-04-15"
 total-raised: 103994
 total-spent: 299664
 related: "[[Chris Christie]]"
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

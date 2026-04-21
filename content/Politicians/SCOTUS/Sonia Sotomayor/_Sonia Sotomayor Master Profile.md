@@ -1,14 +1,16 @@
 ---
 title: "Sonia Sotomayor"
 type: politician
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-12
 source-tier: 1
 chamber: "SCOTUS"
 born: "1954-06-25"
 known-gaps:
+  - "No FEC contribution data"
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
   - "No mapped relationships"
-  - "No donor network analysis"
 source-types:
   - Congress
 urls-first-triaged: "2026-04-15"

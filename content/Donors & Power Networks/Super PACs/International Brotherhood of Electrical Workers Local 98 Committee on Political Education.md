@@ -1,7 +1,7 @@
 ---
 title: International Brotherhood of Electrical Workers Local 98 Committee on Political Education
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00162818
 aliases:
   - INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS LOCAL 98 COMMITTEE ON POLITICAL EDUCATION
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Brendan Boyle]], [[Madeleine Dean]], [[Dwight Evans]], [[John Fetterman]]"
 related: "[[Brendan Boyle]]"
 checklist-na:
@@ -23,6 +23,8 @@ total-spent: 3838399
 cash-on-hand: 13007933
 individual-contributions: 2319629
 contributions-to-committees: 35000
+source-types:
+  - FEC
 ---
 
 

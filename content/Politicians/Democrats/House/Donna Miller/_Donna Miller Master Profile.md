@@ -3,7 +3,7 @@ title: "Donna Miller"
 type: local-politician
 current-office: "Cook County Commissioner, District 6 (Illinois)"
 candidate-for: "US House 2026 (Illinois, Democratic primary , exact district needs verification from FEC filing H6IL02355)"
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Donna Miller's 2026 primary victory represents the most visible and controversial deployment of AIPAC's shell PAC infrastructure in the 2026 cycle. The 'Affordable Chicago Now' super PAC, which Miller's opponents explicitly identified as an AIPAC s..."
 last-updated: 2026-04-16
 editorial-notes: "[Research Claude 2026-04-16] Added Class Analysis section. Removed body inline fields (office::, state::, party::, tags::)."
@@ -18,8 +18,8 @@ top-donors:
 total-received: "$1,971,085"
 fec-candidate-id: "H6IL02355"
 source-types:
+  - Congress
   - FEC
-# needs-reenrichment cleared 2026-04-11: as a local-politician, Congress.gov / GovTrack are not applicable. FEC runs on fec-candidate-id.
 known-gaps:
   - "Cook County Commissioner voting record needs direct sourcing from cookcountyil.gov board minutes"
   - "IL-2 US House 2026 campaign messaging / issue platform needs direct sourcing from campaign site"
@@ -32,6 +32,7 @@ wikipedia-extract: "Donna Lynne Miller is an American politician currently servi
 born: "1965-09-07"
 internal-notes: "[JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'B001296' ((unknown , smaller 3-file contamination)), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 3 unrelated profiles all had the same wrong ID , same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
 donors: "[[Tim Dunn]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Republican Jewish Coalition]] · [[Heritage Foundation]]"
+corroboration-count: 2
 ---
 
 

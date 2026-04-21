@@ -1,7 +1,7 @@
 ---
 title: Truth and Courage PAC
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-type: Super PAC (Independent Expenditure-Only)
@@ -21,6 +21,10 @@ total-raised: 2248183
 total-spent: 1105925
 cash-on-hand: 1834741
 individual-contributions: 1727255
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: SEIU COPE
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00004036
 aliases:
   - SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Tim Walz]], [[Jeff Merkley]], [[Paul Tonko]], [[Brad Sherman]], [[Lori Trahan]], [[Adam Schiff]], [[Sharice Davids]], [[Rick Larsen]], [[Greg Stanton]], [[Ilhan Omar]], [[Lois Frankel]], [[Lateefah Simon]], [[Hakeem Jeffries]], [[Mark Pocan]], [[Shomari Figures]], [[Bobby Scott]], [[Maxine Dexter]], [[Ritchie Torres]], [[Eric Sorensen]], [[Raul Grijalva]], [[Sheldon Whitehouse]], [[Julie Johnson]], [[Adriano Espaillat]], [[Grace Meng]], [[Kim Schrier]], [[Jerrold Nadler]], [[Andrea Salinas]], [[John Fetterman]], [[Nancy Pelosi]], [[Pete Aguilar]], [[Betty McCollum]], [[Debbie Dingell]], [[Sarah McBride]], [[Mark DeSaulnier]], [[Laura Gillen]], [[Yassamin Ansari]], [[Maggie Goodlander]], [[Seth Magaziner]], [[Tammy Duckworth]], [[Ed Markey]], [[Madeleine Dean]], [[Raja Krishnamoorthi]], [[Mike Levin]], [[Steve Cohen]], [[Kevin Mullin]], [[Zoe Lofgren]], [[Richard Neal]], [[Joaquin Castro]], [[Chrissy Houlahan]], [[Tammy Baldwin]], [[David Scott]], [[Morgan McGarvey]], [[Dwight Evans]], [[Mike Quigley]], [[Pramila Jayapal]], [[Rashida Tlaib]], [[Jimmy Panetta]], [[Joseph Morelle]], [[Summer Lee]], [[Jamie Raskin]], [[Suhas Subramanyam]], [[Donald Trump]], [[Cori Bush]], [[Bennie Thompson]], [[Jim Himes]], [[Suzanne Bonamici]], [[Brian Schatz]], [[Brittany Pettersen]], [[Bernie Moreno]], [[Henry Cuellar]], [[Ruben Gallego]], [[Judy Chu]], [[Brendan Boyle]], [[Jack Reed]], [[Joyce Beatty]], [[George Whitesides]], [[Ayanna Pressley]], [[Sheila Cherfilus-McCormick]], [[Lamonica McIver]], [[Carlos Gimenez]], [[Kathy Castor]], [[Gregory Meeks]], [[Mark Takano]], [[Rosa DeLauro]], [[Darren Soto]], [[Chellie Pingree]], [[Jared Moskowitz]], [[Jason Crow]], [[Sean Casten]], [[Cleo Fields]], [[Vicente Gonzalez]], [[Steven Horsford]], [[Robert Garcia]], [[Maxwell Frost]], [[Nikki Budzinski]], [[Maxine Waters]], [[Richard Blumenthal]], [[Josh Riley]], [[Emanuel Cleaver]], [[Jimmy Gomez]], [[Marcy Kaptur]], [[Andy Kim]], [[Juan Vargas]], [[Kristen McDonald Rivet]], [[Donald Norcross]], [[Lauren Underwood]], [[Kweisi Mfume]], [[Ron Wyden]], [[John Hickenlooper]], [[Marilyn Strickland]], [[Alexandria Ocasio-Cortez]], [[Frank Pallone]], [[Dan Goldman]], [[Mike Thompson]], [[Sherrod Brown]], [[Ron Johnson]], [[Dave Min]], [[Sarah Elfreth]], [[Derek Tran]], [[Josh Harder]], [[Sydney Kamlager-Dove]], [[Nydia Velazquez]], [[Debbie Wasserman Schultz]], [[Andre Carson]], [[Bernie Sanders]], [[Patty Murray]], [[Lloyd Doggett]], [[Emily Randall]], [[Diana Degette]], [[Dina Titus]], [[Gwen Moore]], [[Kelly Morrison]], [[Adam Smith]], [[Kamala Harris]], [[Shontel Brown]], [[Patrick Ryan]], [[Elissa Slotkin]], [[Raul Ruiz]], [[Greg Landsman]], [[Ted Lieu]], [[Dan Osborn]], [[Susie Lee]], [[Alex Padilla]], [[Martin Heinrich]], [[Veronica Escobar]], [[Catherine Cortez Masto]], [[Nikema Williams]], [[Teresa Leger Fernandez]], [[Jamaal Bowman]], [[Lisa Blunt Rochester]], [[Julia Brownley]], [[Cory Booker]], [[Marie Gluesenkamp Perez]], [[Nina Turner]], [[Sara Jacobs]], [[Chris Murphy]], [[Dan Crenshaw]], [[Raphael Warnock]], [[Jared Huffman]], [[Jahana Hayes]], [[Eric Swalwell]], [[Jacky Rosen]], [[John Garamendi]], [[Mark Kelly]], [[Chris van Hollen]], [[Laura Friedman]], [[Tina Smith]], [[Barbara Lee]], [[Joe Biden]]"
 related: "[[Jeff Merkley]] · [[Tim Walz]]"
 checklist-na:
@@ -24,6 +24,8 @@ cash-on-hand: 6154246
 independent-expenditures: 96269
 individual-contributions: 3365145
 contributions-to-committees: 4571036
+source-types:
+  - FEC
 ---
 
 

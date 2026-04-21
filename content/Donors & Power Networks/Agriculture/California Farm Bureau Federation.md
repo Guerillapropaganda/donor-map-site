@@ -1,7 +1,7 @@
 ---
 title: California Farm Bureau Federation
 type: donor
-content-readiness: ready
+content-readiness: data-complete
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -72,6 +72,13 @@ urls-first-triaged: "2026-04-15"
 employee-contributions: 9
 employee-contributions-total: 750
 employee-donor-count: 4
+source-types:
+  - Courts
+  - FEC
+  - FederalRegister
+  - LDA
+  - SEC
+corroboration-count: 5
 ---
 
 

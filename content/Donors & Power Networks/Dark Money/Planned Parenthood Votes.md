@@ -2,7 +2,7 @@
 title: Planned Parenthood Votes
 type: donor
 ein: "134128897"
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00489799
@@ -22,6 +22,10 @@ total-spent: 1953003
 cash-on-hand: 3481058
 independent-expenditures: 131335
 individual-contributions: 4261542
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

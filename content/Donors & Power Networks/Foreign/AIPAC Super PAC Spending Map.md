@@ -1,7 +1,7 @@
 ---
 title: "AIPAC Super PAC Spending Map"
 type: reference
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null

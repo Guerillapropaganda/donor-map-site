@@ -1,7 +1,7 @@
 ---
 title: Ruralvote.org
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00754754
@@ -20,6 +20,10 @@ total-raised: 9019
 total-spent: 6376
 cash-on-hand: 8107
 individual-contributions: 8826
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

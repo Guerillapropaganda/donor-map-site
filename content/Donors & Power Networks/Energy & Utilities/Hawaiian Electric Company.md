@@ -1,7 +1,7 @@
 ---
 title: Hawaiian Electric Company
 type: corporation
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -57,6 +57,15 @@ employee-contributions: 1567
 employee-contributions-total: 53359
 employee-donor-count: 64
 politicians-funded: "[[RNC - Republican National Committee]], [[MAGA Inc]], [[_Marco Rubio Master Profile]], [[_Tim Scott Master Profile]], [[Mark Kelly]], [[_Ted Cruz Master Profile]], [[WinRed]], [[NRCC - National Republican Congressional Committee]], [[_Jake Ellzey Master Profile]], [[ActBlue]], [[DSCC - Democratic Senatorial Campaign Committee]], [[NRSC - National Republican Senatorial Committee]], [[_Ron Johnson Master Profile]], [[_Tony Gonzales Master Profile]], [[Trump Victory]], [[Ted Cruz]], [[Tony Gonzales]], [[Marco Rubio]], [[Jake Ellzey]], [[Tim Scott]], [[Ron Johnson]]"
+source-types:
+  - Courts
+  - FEC
+  - FederalRegister
+  - SEC
+  - USASpending
+corroboration-count: 5
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

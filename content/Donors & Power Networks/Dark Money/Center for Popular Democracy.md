@@ -1,7 +1,7 @@
 ---
 title: "Center for Popular Democracy"
 type: donor
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-18
 sector: "Dark Money"
 entity-type: "501(c)(3)"
@@ -9,6 +9,10 @@ ein: "453813436"
 nonprofit-status: "501(c)(3)"
 source-tier: 1
 internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Progressive advocacy network coordinating state-level organizing groups. Paired with CPD Action (c4). Dual EINs 453813436 (c3) and 453813416 (c4) observed in grant records. Narrative pending Research Claude editorial pass."
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 ---
 
 

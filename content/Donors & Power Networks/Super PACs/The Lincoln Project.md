@@ -2,7 +2,7 @@
 title: The Lincoln Project
 type: donor
 ein: "843583045"
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ source-tier: 1
 aliases:
   - THE LINCOLN PROJECT
 known-gaps:
-  - Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 opposes: "[[Marjorie Taylor Greene]]"
 politicians-funded: "[[Elise Stefanik]], [[Steve Scalise]], [[Marjorie Taylor Greene]], [[Rick Scott]], [[Mark Kelly]], [[Kevin McCarthy]], [[Ted Cruz]], [[Donald Trump]], [[The Lincoln Project]], [[Jon Ossoff]], [[Lauren Boebert]], [[Matt Gaetz]], [[Raphael Warnock]], [[Josh Hawley]], [[Kamala Harris]]"
 related: "[[Elise Stefanik]] · [[Steve Scalise]]"
@@ -25,6 +25,8 @@ cash-on-hand: 117459
 employee-contributions: 13
 employee-contributions-total: 1496
 employee-donor-count: 3
+source-types:
+  - FEC
 ---
 
 

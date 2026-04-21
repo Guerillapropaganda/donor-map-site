@@ -2,7 +2,7 @@
 title: Michigan Republican Party
 type: donor
 ein: "381221182"
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -12,7 +12,7 @@ fec-committee-id: C00041160
 aliases:
   - MICHIGAN REPUBLICAN PARTY
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Bill Clinton]], [[Donald Trump]], [[Michigan Republican Party]], [[RNC - Republican National Committee]], [[_Don Bacon Master Profile]], [[_John James Master Profile]], [[WinRed]], [[Don Bacon]], [[John James]]"
 related: "[[Bill Clinton]]"
 checklist-na:
@@ -26,6 +26,8 @@ individual-contributions: 551329
 employee-contributions: 26
 employee-contributions-total: 25355
 employee-donor-count: 15
+source-types:
+  - FEC
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: "VIGOP"
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: "Political Committees"
 entity-type: "PAC"
@@ -11,11 +11,14 @@ fec-committee-id: C00553560
 aliases:
   - "VIGOP (VIRGIN ISLANDS REPUBLICAN PARTY)"
 known-gaps:
-  - "Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis."
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+source-types:
+  - FEC
 ---
 
 

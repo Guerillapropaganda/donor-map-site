@@ -1,13 +1,12 @@
 ---
 title: "Follow the Money - Guided Tour"
 type: story
-content-readiness: draft
+content-readiness: raw
 last-updated: 2026-03-31
 source-tier: null
 parent: null
 known-gaps:
   - "No mapped relationships"
-
 checklist-na:
   - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"

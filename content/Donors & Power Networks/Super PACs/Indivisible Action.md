@@ -1,7 +1,7 @@
 ---
 title: Indivisible Action
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00678839
 aliases:
   - INDIVISIBLE ACTION
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Richard Neal]], [[Kamala Harris]], [[Pramila Jayapal]], [[Alex Padilla]], [[John Fetterman]], [[Ted Cruz]], [[Michael Lawler]], [[Marie Gluesenkamp Perez]], [[Josh Riley]], [[Joni Ernst]], [[Elissa Slotkin]], [[Henry Cuellar]], [[Dan Osborn]], [[Kyrsten Sinema]], [[Kim Schrier]], [[Mike Levin]], [[Jacky Rosen]], [[Jon Husted]], [[Summer Lee]], [[Cori Bush]], [[Mark Kelly]], [[Scott Perry]], [[Ilhan Omar]], [[Peter Welch]], [[Tammy Baldwin]], [[George Whitesides]], [[Patrick Ryan]], [[Marcy Kaptur]], [[Lauren Underwood]], [[David Schweikert]], [[Donald Trump]], [[Sherrod Brown]], [[Ron Johnson]], [[Sara Jacobs]], [[Raphael Warnock]], [[Jon Ossoff]], [[Teresa Leger Fernandez]], [[Julia Brownley]], [[Dan Sullivan]], [[Ruben Gallego]], [[Andy Kim]]"
 related: "[[Richard Neal]]"
 checklist-na:
@@ -24,6 +24,8 @@ cash-on-hand: 3670390
 independent-expenditures: 71442
 individual-contributions: 84882
 contributions-to-committees: 12097
+source-types:
+  - FEC
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: Co Impact Philanthropic Funds
 type: donor
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 sector: Wall Street
 entity-type: Donor-Collaborative
@@ -10,6 +10,10 @@ nonprofit-status: 501(c)(3)
 source-tier: 1
 internal-notes: Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Collaborative philanthropy vehicle pooling large-donor capital for gender/health/education programs. $266M+ in Schedule I grants received. Narrative pending Research Claude editorial pass.
 politicians-funded: "[[New Venture Fund]]"
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 ---
 
 

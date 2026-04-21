@@ -1,7 +1,7 @@
 ---
 title: NARAL
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00337451
 aliases:
   - NARAL
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Adam Smith]], [[Rick Larsen]], [[Adam Schiff]], [[ActBlue]], [[_Kamala Harris Master Profile]], [[_Lauren Underwood Master Profile]], [[Lauren Underwood]], [[Kamala Harris]]"
 related: "[[Adam Schiff]] · [[Rick Larsen]] · [[Adam Smith]]"
 checklist-na:
@@ -21,6 +21,8 @@ urls-first-triaged: "2026-04-15"
 employee-contributions: 26
 employee-contributions-total: 6530
 employee-donor-count: 12
+source-types:
+  - FEC
 ---
 
 

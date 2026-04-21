@@ -1,7 +1,7 @@
 ---
 title: "Never Back Down"
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: "Political Committees"
 entity-type: "PAC"
@@ -10,7 +10,8 @@ source-tier: 1
 aliases:
   - "NEVER BACK DOWN INC."
 known-gaps:
-  - "Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis."
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -18,6 +19,8 @@ urls-first-triaged: "2026-04-15"
 employee-contributions: 2
 employee-contributions-total: 3250
 employee-donor-count: 2
+source-types:
+  - FEC
 ---
 
 

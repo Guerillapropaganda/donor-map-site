@@ -1,7 +1,7 @@
 ---
 title: Planned Parenthood Action Fund of the Pacific Southwest PAC
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00688432
 aliases:
   - PLANNED PARENTHOOD ACTION FUND OF THE PACIFIC SOUTHWEST PAC
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Mark Takano]], [[Sara Jacobs]], [[Mike Levin]], [[Kamala Harris]], [[Juan Vargas]], [[Raul Ruiz]], [[Jon Ossoff]], [[Raphael Warnock]]"
 related: "[[Mark Takano]]"
 checklist-na:
@@ -23,6 +23,8 @@ total-spent: 244516
 cash-on-hand: 138328
 independent-expenditures: 3059
 individual-contributions: 235187
+source-types:
+  - FEC
 ---
 
 

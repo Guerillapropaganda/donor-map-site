@@ -1,7 +1,7 @@
 ---
 title: National Committee to Preserve Social Security PAC
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00172296
 aliases:
   - NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY PAC
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Ron Wyden]], [[Ed Markey]], [[Bobby Scott]], [[Tammy Baldwin]], [[John Garamendi]], [[Suzanne Bonamici]], [[Kim Schrier]], [[Joseph Morelle]], [[Kristen McDonald Rivet]], [[Rosa DeLauro]], [[Eric Sorensen]], [[Nancy Pelosi]], [[Lloyd Doggett]], [[Catherine Cortez Masto]], [[Josh Harder]], [[Seth Magaziner]], [[Richard Blumenthal]], [[Morgan McGarvey]], [[Marcy Kaptur]], [[George Whitesides]], [[Lamonica McIver]], [[Paul Tonko]], [[Chris van Hollen]], [[Debbie Dingell]], [[Brendan Boyle]], [[Teresa Leger Fernandez]], [[Andrea Salinas]], [[Suhas Subramanyam]], [[Hakeem Jeffries]], [[Patty Murray]], [[Gwen Moore]], [[Richard Neal]], [[Frank Pallone]], [[Mark Kelly]], [[Diana Degette]], [[Kathy Castor]], [[Dan Osborn]], [[Jacky Rosen]], [[Susie Lee]], [[Josh Riley]], [[Mike Levin]], [[Nikki Budzinski]], [[Ruben Gallego]], [[Elissa Slotkin]], [[Lori Trahan]], [[Debbie Wasserman Schultz]], [[Brian Schatz]], [[Mike Thompson]], [[Madeleine Dean]]"
 related: "[[Bobby Scott]] · [[Ron Wyden]] · [[Ed Markey]]"
 checklist-na:
@@ -32,6 +32,8 @@ ofac-programs:
   - BELARUS
   - RUSSIA-EO14024
   - GLOMAG
+source-types:
+  - FEC
 ---
 
 

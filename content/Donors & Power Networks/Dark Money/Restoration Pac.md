@@ -1,7 +1,7 @@
 ---
 title: Restoration PAC
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-type: Super PAC (Independent Expenditure-Only)
@@ -26,6 +26,10 @@ contributions-to-committees: 6861461
 employee-contributions: 1
 employee-contributions-total: 260
 employee-donor-count: 1
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

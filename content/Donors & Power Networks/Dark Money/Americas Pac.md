@@ -1,7 +1,7 @@
 ---
 title: Americas Pac
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00559906
@@ -23,6 +23,10 @@ individual-contributions: 27600
 employee-contributions: 615
 employee-contributions-total: 444928
 employee-donor-count: 167
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: "The Barack Obama Foundation"
 type: donor
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-18
 sector: "Dark Money"
 entity-type: "Presidential Foundation"
@@ -9,6 +9,10 @@ ein: "464950751"
 nonprofit-status: "501(c)(3)"
 source-tier: 1
 internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Obama Presidential Foundation. Funds the Obama Presidential Center on Chicago's South Side plus the Obama Leaders global fellowship programs. Narrative pending Research Claude editorial pass."
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 ---
 
 

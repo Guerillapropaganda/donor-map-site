@@ -1,7 +1,7 @@
 ---
 title: "Proteus Fund"
 type: donor
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-18
 sector: "Dark Money"
 entity-type: "501(c)(3)"
@@ -9,6 +9,10 @@ ein: "043243004"
 nonprofit-status: "501(c)(3)"
 source-tier: 1
 internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Progressive-aligned pooled donor fund; hosts collaborative funds including Funders for LGBTQ Issues, RISE Together Fund, Piper Fund. Narrative pending Research Claude editorial pass."
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 ---
 
 

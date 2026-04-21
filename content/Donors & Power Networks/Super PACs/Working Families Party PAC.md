@@ -1,7 +1,7 @@
 ---
 title: Working Families Party PAC
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -13,7 +13,7 @@ aliases:
   - WFP NATIONAL PAC
   - Working Families Party
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Cori Bush]], [[Summer Lee]], [[Raul Grijalva]], [[George Latimer]], [[Wesley Bell]], [[Rashida Tlaib]], [[ActBlue]], [[Donald Trump]], [[Working Families Party PAC]], [[Wfp Ie Committee]], [[Tammy Baldwin]], [[Vicente Gonzalez]], [[Yassamin Ansari]], [[_Summer Lee Master Profile]], [[Kamala Harris]], [[Raphael Warnock]], [[Maxwell Frost]], [[Henry Cuellar]], [[Sherrod Brown]], [[Ilhan Omar]], [[Adam Gray]], [[Josh Riley]], [[Jamaal Bowman]], [[Andrea Salinas]], [[Ayanna Pressley]], [[Maxine Dexter]], [[Jahana Hayes]], [[John Fetterman]], [[Teresa Leger Fernandez]], [[Nina Turner]], [[_Rashida Tlaib Master Profile]]"
 related: "[[Wesley Bell]] · [[Summer Lee]] · [[Raul Grijalva]] · [[George Latimer]] · [[Cori Bush]]"
 checklist-na:
@@ -29,6 +29,8 @@ contributions-to-committees: 39324
 employee-contributions: 168
 employee-contributions-total: 45354
 employee-donor-count: 51
+source-types:
+  - FEC
 ---
 
 

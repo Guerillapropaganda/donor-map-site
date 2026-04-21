@@ -1,7 +1,7 @@
 ---
 title: North Florida Neighbors
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00582312
@@ -18,6 +18,10 @@ urls-first-triaged: "2026-04-15"
 total-spent: 495
 cash-on-hand: 121
 related: "[[Matt Gaetz]]"
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

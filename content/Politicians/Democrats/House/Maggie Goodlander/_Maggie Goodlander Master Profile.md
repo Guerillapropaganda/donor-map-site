@@ -1,7 +1,7 @@
 ---
 title: Maggie Goodlander
 type: politician
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Democrat
@@ -18,10 +18,9 @@ phone: 202-225-5206
 source-types:
   - Congress
 known-gaps:
-  - No FEC contribution data
-  - No legislative record
-  - No voting record
-  - No mapped relationships
+  - "No FEC contribution data"
+  - "No voting record data"
+  - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4NH02399
 top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[League of Conservation Voters]], [[SEIU COPE]], [[Nancy Pelosi]], [[Let America Vote PAC]], [[Teamsters - International Brotherhood of Teamsters]], [[National Association of Realtors]], [[Votevets]], [[American Hospital Association PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Pete Aguilar]], [[DCCC - Democratic Congressional Campaign Committee]], [[NEA Fund for Children and Public Education]], [[NORPAC]], [[General Dynamics]], [[IBEW - International Brotherhood of Electrical Workers]], [[Julia Brownley]], [[Emily's List]], [[Demand Justice]], [[Sierra Club Political Committee]], [[American Federation of State County & Municipal Employees P E O P L E]], [[American Federation of State County & Municipal Employees  P E O P L E]]"

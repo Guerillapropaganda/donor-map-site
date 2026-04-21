@@ -1,7 +1,7 @@
 ---
 title: Walt Disney Company
 type: corporation
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -46,6 +46,12 @@ epa-states: CA
 employee-contributions: 2502
 employee-contributions-total: 323668
 employee-donor-count: 456
+source-types:
+  - FEC
+  - SEC
+corroboration-count: 2
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

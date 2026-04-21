@@ -1,7 +1,7 @@
 ---
 title: Winning Right PAC
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00930495
 aliases:
   - WINNING RIGHT PAC
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Bill Hagerty]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -20,6 +20,8 @@ urls-first-triaged: "2026-04-15"
 total-raised: 172506
 cash-on-hand: 172506
 related: "[[Bill Hagerty]]"
+source-types:
+  - FEC
 ---
 
 

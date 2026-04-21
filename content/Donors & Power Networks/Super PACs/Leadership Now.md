@@ -1,7 +1,7 @@
 ---
 title: Leadership Now
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00807321
 aliases:
   - LEADERSHIP NOW
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Richard Blumenthal]], [[_Jake Auchincloss Master Profile]], [[ActBlue]], [[_Lauren Underwood Master Profile]], [[Laura Gillen]], [[Kamala Harris]], [[Donald Trump]], [[Lauren Underwood]], [[Jake Auchincloss]]"
 related: "[[Richard Blumenthal]]"
 checklist-na:
@@ -26,6 +26,8 @@ cash-on-hand: 185308
 employee-contributions: 18
 employee-contributions-total: 28000
 employee-donor-count: 6
+source-types:
+  - FEC
 ---
 
 

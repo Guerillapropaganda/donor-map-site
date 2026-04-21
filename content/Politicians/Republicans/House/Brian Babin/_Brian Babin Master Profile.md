@@ -2,7 +2,7 @@
 title: Brian Babin
 type: politician
 bioguide-id: B001291
-content-readiness: draft
+content-readiness: ready
 central-thesis: Brian Babin is a dentist from the most petrochemical-dense congressional district in America who now chairs the committee that oversees federal climate science. His first year as chairman has been dedicated to dismantling climate research infrastr...
 last-updated: "2026-04-05"
 source-tier: 1
@@ -24,11 +24,10 @@ total-received: $749,136
 fec-candidate-id: H6TX02079
 source-types:
   - Congress
-  - FEC
 corroboration-count: 2
 known-gaps:
-  - No voting record data
-  - No mapped relationships
+  - "No FEC contribution data"
+  - "No voting record data"
 related: "[[_Zoe Lofgren Master Profile|Zoe Lofgren]] · [[_Donald Trump Master Profile|Trump]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 13

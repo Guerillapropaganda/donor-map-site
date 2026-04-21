@@ -1,7 +1,7 @@
 ---
 title: Stephen Miller
 type: politician
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -19,13 +19,13 @@ govtrack-id: 407733
 bills-sponsored: 0
 bills-cosponsored: 0
 source-types:
+  - Congress
   - GovTrack
 known-gaps:
-  - No FEC contribution data
-  - No legislative record from Congress.gov
-  - No mapped relationships
+  - "No FEC contribution data"
 related: "[[_Donald Trump Master Profile]] · [[_Steve Bannon Master Profile]] · [[_Russell Vought Master Profile]] · [[America First Legal and the Dark Money Architecture]] · [[Kash Patel]] · [[The Nunes Pipeline and the Loyalty Promotion System]]"
 donors: "[[Tim Dunn]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Bradley Impact Fund]] · [[Heritage Foundation]] · [[DonorsTrust]] · [[Republican Jewish Coalition]]"
+corroboration-count: 2
 ---
 
 

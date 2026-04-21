@@ -1,7 +1,7 @@
 ---
 title: Women Speak Out Pac
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00530766
@@ -20,6 +20,10 @@ total-raised: 2306456
 total-spent: 1304040
 cash-on-hand: 1552722
 individual-contributions: 11146
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

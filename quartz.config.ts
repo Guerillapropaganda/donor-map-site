@@ -70,6 +70,7 @@ const config: QuartzConfig = {
       Plugin.ClaimObject(),
       Plugin.SourceRefs(),
       Plugin.HideInternalMarkers(),
+      Plugin.HideEmptySections(),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),

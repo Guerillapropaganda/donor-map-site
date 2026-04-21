@@ -1,7 +1,7 @@
 ---
 title: Ohlone Area United Democratic Campaign
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00382283
 aliases:
   - OHLONE AREA UNITED DEMOCRATIC CAMPAIGN
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Ro Khanna]], [[Eric Swalwell]], [[Alex Padilla]]"
 related: "[[Ro Khanna]]"
 checklist-na:
@@ -22,6 +22,8 @@ total-raised: 10346
 total-spent: 14024
 cash-on-hand: 5192
 individual-contributions: 10346
+source-types:
+  - FEC
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: Stars and Stripes Forever PAC
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00635243
 aliases:
   - STARS AND STRIPES FOREVER PAC
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Maxine Waters]], [[Sherrod Brown]]"
 related: "[[Maxine Waters]] · [[Sherrod Brown]]"
 checklist-na:
@@ -22,6 +22,8 @@ total-raised: 129498
 total-spent: 153077
 independent-expenditures: 1617
 individual-contributions: 122496
+source-types:
+  - FEC
 ---
 
 

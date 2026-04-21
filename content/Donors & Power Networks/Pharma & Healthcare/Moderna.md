@@ -1,7 +1,7 @@
 ---
 title: Moderna
 type: corporation
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -71,6 +71,13 @@ epa-states: FL, MA
 employee-contributions: 392
 employee-contributions-total: 114676
 employee-donor-count: 117
+source-types:
+  - FEC
+  - SEC
+  - USASpending
+corroboration-count: 3
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

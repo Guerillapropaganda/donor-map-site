@@ -1,7 +1,7 @@
 ---
 title: Jamie Raskin
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: Raskin is the constitutional scholar who became the Democratic Party's anti-corruption brand , the intellectual conscience of the caucus, the impeachment manager, the man who channels grief (his son Tommy's death by suicide in 2020) into democrati...
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
@@ -52,6 +52,12 @@ born: "1962-12-13"
 bills-enacted: 0
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: Health
+source-types:
+  - Congress
+  - GovTrack
+corroboration-count: 2
+known-gaps:
+  - "No FEC contribution data"
 ---
 
 

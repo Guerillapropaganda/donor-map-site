@@ -1,7 +1,7 @@
 ---
 title: Really American Pac
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00748582
@@ -20,6 +20,10 @@ total-raised: 76560
 total-spent: 234117
 cash-on-hand: 6153
 individual-contributions: 76560
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

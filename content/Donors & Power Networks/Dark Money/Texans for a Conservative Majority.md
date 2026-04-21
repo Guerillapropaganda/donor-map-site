@@ -1,7 +1,7 @@
 ---
 title: Texans for a Conservative Majority
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-type: Super PAC (Independent Expenditure-Only)
@@ -22,6 +22,10 @@ total-spent: 22103490
 cash-on-hand: 2570117
 independent-expenditures: 20255002
 individual-contributions: 22563301
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

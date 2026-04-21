@@ -1,7 +1,7 @@
 ---
 title: "Kansas 2026 Senate Race"
 type: story
-content-readiness: draft
+content-readiness: raw
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
@@ -9,7 +9,6 @@ source-types:
   - FEC
 known-gaps:
   - "No mapped relationships"
-
 checklist-na:
   - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"

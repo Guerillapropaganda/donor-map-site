@@ -1,7 +1,7 @@
 ---
 title: FreedomWorks for America
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-type: Super PAC (Independent Expenditure-Only)
@@ -23,6 +23,10 @@ total-raised: 14991
 total-spent: 113664
 individual-contributions: 20
 contributions-to-committees: 12600
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Steve Hilton"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Steve Hilton represents the merger of tech-libertarian deregulation ideology with Fox News conservative populism. His political product is a technocratic alternative to Chad Bianco's law-enforcement populism: anti-government across the board (fewe..."
 last-updated: 2026-04-07
 source-tier: 1
@@ -11,7 +11,6 @@ source-types:
 known-gaps:
   - "No FEC contribution data"
   - "No voting record data"
-  - "No mapped relationships"
 related: "[[_Chad Bianco Master Profile|Chad Bianco]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch|Koch Network]]"
 urls-first-triaged: "2026-04-15"
 ---

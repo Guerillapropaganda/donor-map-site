@@ -1,7 +1,7 @@
 ---
 title: NRA Political Victory Fund
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -10,7 +10,8 @@ source-tier: 1
 aliases:
   - NRA POLITICAL VICTORY FUND
 known-gaps:
-  - Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis.
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
 opposes: "[[George W. Bush]]"
 related: "[[George W. Bush]] · [[John McCain]] · [[John Thune]] · [[Bernie Sanders]]"
 politicians-funded: "[[George W. Bush]], [[John McCain]], [[John Thune]], [[Bernie Sanders]]"

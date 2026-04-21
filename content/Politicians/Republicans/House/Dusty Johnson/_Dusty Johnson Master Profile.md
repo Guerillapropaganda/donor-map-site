@@ -1,7 +1,7 @@
 ---
 title: Dusty Johnson
 type: politician
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 party: Republican
@@ -18,10 +18,8 @@ phone: 202-225-2801
 source-types:
   - Congress
 known-gaps:
-  - No FEC contribution data
-  - No legislative record
-  - No voting record
-  - No mapped relationships
+  - "No FEC contribution data"
+  - "No voting record data"
 donors: "[[Western Growers Association]], [[National Cattlemen's Beef Association]], [[AT&T - WarnerMedia]], [[PG&E - Pacific Gas and Electric]], [[National Multifamily Housing Council]], [[NextEra Energy]], [[Bank of America]], [[Duke Energy]], [[Comcast - NBCUniversal]], [[Northrop Grumman]], [[Citigroup]], [[American Hospital Association PAC]], [[ADM - Archer Daniels Midland]], [[Halliburton]], [[Google - Alphabet]], [[Tyson Foods]], [[AIPAC - American Israel Public Affairs Committee]], [[CVS Health - Aetna]], [[General Motors]], [[David Rouzer]], [[National Association of Realtors]], [[McDonalds Corporation]], [[Walmart - Walton Family]], [[Marathon Petroleum]], [[Associated General Contractors of America Political Action Committee]], [[BAE Systems]], [[NORPAC]], [[Coinbase]], [[Lockheed Martin]], [[Adrian Smith]], [[WinRed]], [[National Rifle Association]], [[Valero Energy]], [[Ford Motor Company]], [[Chevron]], [[American Dream Federal Action]], [[iHeartMedia]], [[Amgen Inc]], [[Raytheon (RTX)]], [[Tenet Healthcare]], [[Humana]], [[Honeywell]], [[MAJORITY PAC]], [[Anthem - Elevance Health]], [[American Chemistry Council, INC]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Morgan Stanley]], [[National Restaurant Association]], [[National Association of Manufacturers]], [[L3Harris Technologies]], [[Microsoft]], [[Defending Main Street Superpac INC]], [[Fairshake PAC - Crypto Super PAC]], [[Drain the DC Swamp PAC]], [[Jason Smith]], [[AT&T]], [[Honeywell International]], [[Fairshake PAC]], [[Majority PAC]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H8SD01055

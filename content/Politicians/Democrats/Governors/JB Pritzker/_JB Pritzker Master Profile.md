@@ -1,7 +1,7 @@
 ---
 title: JB Pritzker
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "JB Pritzker is the Democratic donor class in its purest form: the donor IS the politician. He didn't need bundlers, super PACs, or industry favors , he wrote himself $323 million in checks. The self-funding eliminates the intermediary between weal..."
 last-updated: 2026-04-16
 source-tier: 1
@@ -18,8 +18,7 @@ source-types:
   - FEC
 corroboration-count: 2
 known-gaps:
-  - No voting record data
-  - No mapped relationships
+  - "No voting record data"
 related: "[[_Kamala Harris Master Profile]] · [[_Bernie Sanders Master Profile]] · [[Offshore Trusts Toilet Schemes and the Tax Avoidance Architecture]] · [[Juliana Stratton]] · [[Illinois Senate Primary Money War]] · [[Corporate PAC Pledge and Its Limits]] · [[Jon Ossoff]] · [[Cory Booker]] · [[Barack Obama]] · [[The 323 Million Dollar Self-Funded Governor]] · [[The Pritzker Machine and Illinois Democratic Power]] · [[Raja Krishnamoorthi]] · [[JB Pritzker - Donor Network]] · [[Gretchen Whitmer]]"
 donors: "[[Illinois Future PAC]], [[Democratic Governors Association]], [[UNITE HERE]]"
 urls-first-triaged: "2026-04-15"

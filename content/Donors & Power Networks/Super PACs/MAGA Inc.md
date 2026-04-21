@@ -1,7 +1,7 @@
 ---
 title: MAGA Inc
 type: pac
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-18
 source-tier: 2
 parent: null
@@ -54,6 +54,12 @@ cash-on-hand: 312332874
 independent-expenditures: 1690361
 individual-contributions: 370
 contributions-to-committees: 10562090
+source-types:
+  - Courts
+  - SEC
+corroboration-count: 2
+known-gaps:
+  - "No FEC contribution data"
 ---
 
 

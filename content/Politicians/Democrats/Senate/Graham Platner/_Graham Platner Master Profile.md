@@ -1,7 +1,7 @@
 ---
 title: "Graham Platner Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Graham Platner is the clearest establishment vs. progressive test case in 2026 Senate races. Both Bernie Sanders AND Elizabeth Warren have endorsed him — a rare unified progressive endorsement — against Maine's Democratic establishment and DSCC (D..."
 last-updated: "2026-04-05"
 source-tier: 1
@@ -13,11 +13,10 @@ state-abbr: "ME"
 total-received: "$7,867,908"
 fec-candidate-id: "S6ME00373"
 source-types:
-  - FEC
+  - Congress
 known-gaps:
-  - "No legislative record from Congress.gov"
+  - "No FEC contribution data"
   - "No voting record data"
-  - "No mapped relationships"
 related: "[[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[2026 Senate Primary Races]] · [[Warren-Sanders Unity and the Schumer Machine]]"
 urls-first-triaged: "2026-04-15"
 ---

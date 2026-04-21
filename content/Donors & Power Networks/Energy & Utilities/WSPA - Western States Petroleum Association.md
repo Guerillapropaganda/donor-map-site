@@ -1,7 +1,7 @@
 ---
 title: WSPA - Western States Petroleum Association
 type: corporation
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -26,6 +26,13 @@ epa-states: PA
 employee-contributions: 23
 employee-contributions-total: 3097
 employee-donor-count: 10
+source-types:
+  - FEC
+  - LDA
+  - USASpending
+corroboration-count: 3
+known-gaps:
+  - "No SEC corporate filings"
 ---
 
 

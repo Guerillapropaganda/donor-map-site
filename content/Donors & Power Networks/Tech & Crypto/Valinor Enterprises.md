@@ -1,7 +1,7 @@
 ---
 title: Valinor Enterprises
 type: corporation
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-09T00:00:00.000Z
 source-tier: 2
 parent: null
@@ -12,12 +12,11 @@ nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-09"
 source-types:
+  - FEC
   - USASpending
 known-gaps:
-  - No SEC corporate filings
-  - No FEC contribution data
-  - No lobbying disclosure data
-  - No mapped relationships
+  - "No SEC corporate filings"
+  - "No lobbying disclosure data"
 related: "[[_JD Vance Master Profile]] · [[Narya Capital and the Venture Capital Pipeline]] · [[Peter Thiel]] · [[The Palantir State - Surveillance as Policy]] · [[Marc Andreessen & Horowitz]]"
 urls-first-triaged: "2026-04-15"
 epa-facilities: 1
@@ -25,6 +24,7 @@ epa-states: CA
 employee-contributions: 2
 employee-contributions-total: 800
 employee-donor-count: 1
+corroboration-count: 2
 ---
 
 

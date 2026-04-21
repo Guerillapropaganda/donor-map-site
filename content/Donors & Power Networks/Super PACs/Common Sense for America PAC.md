@@ -1,7 +1,7 @@
 ---
 title: Common Sense for America PAC
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00634774
 aliases:
   - COMMON SENSE FOR AMERICA PAC
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Deb Fischer]], [[Mike Lee]], [[Joni Ernst]], [[Pete Ricketts]], [[John Kennedy]], [[Bernie Moreno]], [[Bill Hagerty]], [[John Barrasso]], [[Ron Johnson]], [[Jon Husted]], [[John Hoeven]], [[Lisa Murkowski]], [[Roger Marshall]], [[John Thune]], [[Dan Sullivan]], [[John Boozman]], [[Rick Scott]], [[Mike Rounds]], [[Tim Scott]], [[Michael Whatley]], [[Steve Daines]], [[Marsha Blackburn]], [[Markwayne Mullin]], [[Lindsey Graham]], [[Tim Sheehy]], [[James Lankford]], [[Donald Trump]], [[Roger Wicker]], [[Cindy Hyde-Smith]], [[Kevin Cramer]], [[Josh Hawley]], [[Jerry Moran]], [[John Cornyn]], [[Shelley Moore Capito]], [[Ashley Moody]], [[Susan Collins]], [[Ted Cruz]]"
 related: "[[Deb Fischer]]"
 checklist-na:
@@ -23,6 +23,8 @@ total-spent: 43612
 cash-on-hand: 1236240
 individual-contributions: 6764510
 contributions-to-committees: 200000
+source-types:
+  - FEC
 ---
 
 

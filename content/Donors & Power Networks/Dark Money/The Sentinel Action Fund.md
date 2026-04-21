@@ -1,7 +1,7 @@
 ---
 title: The Sentinel Action Fund
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-type: Super PAC (Independent Expenditure-Only)
@@ -23,6 +23,10 @@ cash-on-hand: 7581830
 independent-expenditures: 251258
 individual-contributions: 8871163
 contributions-to-committees: 24000
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

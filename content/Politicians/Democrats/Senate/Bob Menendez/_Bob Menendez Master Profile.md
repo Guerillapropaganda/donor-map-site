@@ -2,7 +2,7 @@
 title: "Bob Menendez"
 type: politician
 bioguide-id: "M000639"
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Menendez is the vault's most extreme case of the foreign policy-to-corruption pipeline. His SFRC chairmanship gave him unilateral power to block nominations, hold hearings, and shape every diplomatic relationship. He used that power to serve three..."
 last-updated: 2026-04-11
 source-tier: 1
@@ -16,11 +16,10 @@ committees:
 top-donors:
   - "AIPAC"
 source-types:
-  - FEC
+  - Congress
 known-gaps:
-  - "No legislative record from Congress.gov"
+  - "No FEC contribution data"
   - "No voting record data"
-  - "No mapped relationships"
 last-enriched: "2026-04-09"
 related: "[[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[Fanjul Family - Florida Crystals]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 donors: "[[Brady Campaign]]"

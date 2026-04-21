@@ -1,7 +1,7 @@
 ---
 title: Clean Up Congress
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00245456
 aliases:
   - CLEAN UP CONGRESS
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Rosa DeLauro]]"
 related: "[[Rosa DeLauro]]"
 checklist-na:
@@ -22,6 +22,8 @@ total-raised: 80
 total-spent: 4
 cash-on-hand: 2570
 individual-contributions: 80
+source-types:
+  - FEC
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Preserve America"
 type: pac
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-17
 source-tier: 1
 parent: null
@@ -31,6 +31,11 @@ total-spent: 2139601
 cash-on-hand: 696895
 individual-contributions: 210
 contributions-to-committees: 750000
+source-types:
+  - FEC
+  - FederalRegister
+  - SEC
+corroboration-count: 3
 ---
 
 

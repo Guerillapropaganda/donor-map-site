@@ -1,7 +1,7 @@
 ---
 title: Save Our Country
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00877787
 aliases:
   - SAVE OUR COUNTRY
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Ted Cruz]], [[Tim Sheehy]]"
 related: "[[Ted Cruz]]"
 checklist-na:
@@ -22,6 +22,8 @@ total-raised: 2660408
 total-spent: 2660408
 independent-expenditures: 2650000
 individual-contributions: 2660408
+source-types:
+  - FEC
 ---
 
 

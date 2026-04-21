@@ -1,7 +1,7 @@
 ---
 title: International Longshore and Warehouse Union -- Political Action Fund
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00176214
 aliases:
   - INTERNATIONAL LONGSHORE AND WAREHOUSE UNION -- POLITICAL ACTION FUND
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Bernie Sanders]], [[Brian Schatz]], [[Marilyn Strickland]], [[Derek Tran]], [[Adam Smith]], [[Marie Gluesenkamp Perez]], [[John Garamendi]], [[Laura Friedman]], [[Pramila Jayapal]], [[Maria Cantwell]], [[Lisa Murkowski]], [[Andrea Salinas]], [[Patty Murray]], [[Robert Garcia]], [[Kim Schrier]], [[Jared Huffman]], [[Barbara Lee]], [[Ted Lieu]], [[Raphael Warnock]], [[Rick Larsen]], [[Hakeem Jeffries]], [[Emily Randall]], [[Mike Levin]], [[Judy Chu]], [[Alex Padilla]], [[Dave Min]], [[Kamala Harris]], [[Adam Schiff]]"
 related: "[[Bernie Sanders]] · [[Brian Schatz]]"
 checklist-na:
@@ -23,6 +23,8 @@ total-spent: 55500
 cash-on-hand: 216998
 individual-contributions: 77668
 contributions-to-committees: 50000
+source-types:
+  - FEC
 ---
 
 

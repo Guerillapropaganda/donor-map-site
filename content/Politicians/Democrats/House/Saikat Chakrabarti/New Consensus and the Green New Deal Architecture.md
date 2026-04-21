@@ -1,7 +1,7 @@
 ---
 title: New Consensus and the Green New Deal Architecture
 type: sub-note
-content-readiness: draft
+content-readiness: raw
 last-updated: 2026-04-02
 source-tier: 1
 parent: "[[_Saikat Chakrabarti Master Profile]]"

@@ -1,7 +1,7 @@
 ---
 title: Clear Voice Minnesota
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00912477
 aliases:
   - CLEAR VOICE MINNESOTA
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Angie Craig]]"
 related: "[[Angie Craig]]"
 checklist-na:
@@ -22,6 +22,8 @@ total-raised: 130625
 total-spent: 10119
 cash-on-hand: 120506
 individual-contributions: 100625
+source-types:
+  - FEC
 ---
 
 

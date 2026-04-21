@@ -1,7 +1,7 @@
 ---
 title: Tesla - Elon Musk Political Operation
 type: corporation
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -21,6 +21,12 @@ employee-contributions: 4447
 employee-contributions-total: 987579
 employee-donor-count: 814
 politicians-funded: "[[League of Conservation Voters]], [[314 ACTION FUND]], [[_Gabe Amo Master Profile]], [[_Gabe Vasquez Master Profile]], [[Barbara Lee]], [[MoveOn.org Political Action]], [[Mark Kelly]], [[CHC BOLD PAC]], [[WinRed]], [[Emily's List]], [[_Dave Min Master Profile]], [[_Kevin Mullin Master Profile]], [[_Elissa Slotkin Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[DSCC - Democratic Senatorial Campaign Committee]], [[ActBlue]], [[The Lincoln Project]], [[RNC - Republican National Committee]], [[_Josh Harder Master Profile]], [[MAGA Inc]], [[_Martin Heinrich Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Lauren Underwood Master Profile]], [[_Jason Crow Master Profile]], [[Marianne Williamson]], [[_Thomas Massie Master Profile]], [[WinSenate]], [[Common Sense for America PAC]], [[JUSTICE DEMOCRATS PAC]], [[_Rashida Tlaib Master Profile]], [[_Jason Smith Master Profile]], [[Let America Vote PAC]], [[Congressional Progressive Caucus PAC]], [[NRCC - National Republican Congressional Committee]], [[_Alex Padilla Master Profile]], [[_Mike Levin Master Profile]], [[Catherine Cortez Masto]], [[Bob Casey]], [[Really American Pac]], [[_Jon Ossoff Master Profile]], [[_Susie Lee Master Profile]], [[Citizens Against Aipac Corruption]], [[_Angie Craig Master Profile]], [[_Tammy Baldwin Master Profile]], [[DNC - Democratic National Committee]], [[_Paul Tonko Master Profile]], [[_Ron Johnson Master Profile]], [[_Derek Tran Master Profile]], [[_Summer Lee Master Profile]], [[_Scott Wiener Master Profile]], [[_Patrick Ryan Master Profile]], [[_Ted Cruz Master Profile]], [[_Mario Diaz-Balart Master Profile]], [[_Christian D. Menefee Master Profile]], [[_Kevin Kiley Master Profile]], [[Votevets]], [[Save America PAC]], [[Everytown for Gun Safety Victory Fund]], [[Lauren Underwood]], [[Mike Levin]], [[Gabe Amo]], [[Dave Min]], [[Jason Crow]], [[Jason Smith]], [[Ron Johnson]], [[Elissa Slotkin]], [[Gabe Vasquez]], [[Patrick Ryan]], [[Tammy Baldwin]], [[Josh Harder]], [[Ted Cruz]], [[Alex Padilla]], [[Susie Lee]], [[Paul Tonko]], [[Martin Heinrich]], [[Kevin Mullin]], [[Rashida Tlaib]], [[Angie Craig]], [[Scott Wiener]], [[Jon Ossoff]], [[Christian D. Menefee]], [[Summer Lee]], [[Thomas Massie]], [[Mario Diaz-Balart]], [[Derek Tran]], [[Kevin Kiley]], [[314 Action Fund]], [[Justice Democrats PAC]]"
+source-types:
+  - FEC
+  - SEC
+corroboration-count: 2
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

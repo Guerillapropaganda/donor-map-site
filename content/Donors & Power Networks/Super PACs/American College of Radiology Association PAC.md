@@ -1,7 +1,7 @@
 ---
 title: American College of Radiology Association PAC
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00343459
 aliases:
   - AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION PAC
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Frank Pallone]], [[Cathy McMorris Rodgers]], [[Debbie Wasserman Schultz]], [[Nicole Malliotakis]], [[Ron Estes]], [[Julia Brownley]], [[Roger Marshall]], [[Lloyd Smucker]], [[Brian Babin]], [[Todd Young]], [[Martin Heinrich]], [[Daniel Meuser]], [[Darren Soto]], [[Debbie Dingell]], [[Marcy Kaptur]], [[David Scott]], [[Nathaniel Moran]], [[Andrea Salinas]], [[Ted Lieu]], [[Shelley Moore Capito]], [[Mike Thompson]], [[John Joyce]], [[Tom Cole]], [[Ronny Jackson]], [[Seth Magaziner]], [[Brett Guthrie]], [[Maxine Dexter]], [[Kim Schrier]], [[Rosa DeLauro]], [[Jerry Moran]], [[Rudy Yakym]], [[Raul Ruiz]], [[Richard Hudson]], [[Kat Cammack]], [[Russ Fulcher]], [[Lloyd Doggett]], [[Ron Wyden]], [[Diana Harshbarger]], [[David Kustoff]], [[Richard McCormick]], [[Susan Collins]], [[Tammy Duckworth]], [[Lori Trahan]], [[Dan Newhouse]], [[Jimmy Panetta]], [[Thom Tillis]], [[Kathy Castor]], [[Jodey Arrington]], [[Richard Neal]], [[Steven Horsford]], [[Nancy Pelosi]], [[Mike Carey]], [[Burgess Owens]], [[Jay Obernolte]], [[Marsha Blackburn]], [[Dwight Evans]], [[Patty Murray]], [[Yassamin Ansari]], [[Derek Tran]], [[Sherrod Brown]], [[Mark Takano]], [[Summer Lee]], [[Morgan McGarvey]], [[Darin Lahood]], [[Ashley Moody]], [[Tammy Baldwin]], [[Gary Peters]], [[Greg Landsman]], [[Maria Elvira Salazar]], [[Catherine Cortez Masto]], [[Hakeem Jeffries]], [[Claudia Tenney]], [[Kevin McCarthy]], [[Kay Granger]], [[John Boozman]], [[Deb Fischer]], [[Dan Crenshaw]], [[Jacky Rosen]], [[Steve Scalise]], [[Troy Balderson]], [[Kelly Morrison]], [[Julie Johnson]], [[Susie Lee]], [[Markwayne Mullin]], [[Raja Krishnamoorthi]], [[John Hickenlooper]], [[David Rouzer]], [[Brendan Boyle]], [[Mike Kennedy]], [[Jason Smith]], [[John Barrasso]], [[Mariannette Miller-Meeks]], [[Jake Auchincloss]], [[Lisa Blunt Rochester]], [[Ashley Hinson]], [[Mike Haridopolos]], [[Betty McCollum]], [[Paul Tonko]], [[Derek Schmidt]], [[Erin Houchin]], [[Mike Quigley]], [[Josh Harder]], [[Aaron Bean]], [[Tim Scott]]"
 related: "[[Cathy McMorris Rodgers]] · [[Frank Pallone]] · [[Debbie Wasserman Schultz]]"
 checklist-na:
@@ -23,6 +23,8 @@ total-spent: 784766
 cash-on-hand: 1372123
 individual-contributions: 809728
 contributions-to-committees: 772500
+source-types:
+  - FEC
 ---
 
 

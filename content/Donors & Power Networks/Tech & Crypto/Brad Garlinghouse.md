@@ -1,7 +1,7 @@
 ---
 title: Brad Garlinghouse
 type: donor
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-10T00:00:00.000Z
 source-tier: null
 parent: null
@@ -11,10 +11,11 @@ issues:
   - Cryptocurrency Regulation
 politicians-funded: "[[Donald Trump]]"
 related: "[[Ripple Labs]] · [[Fairshake PAC]] · [[GENIUS Act]] · [[_Donald Trump Master Profile]] · [[Chris Larsen]]"
-source-types: []
+source-types:
+  - Courts
 known-gaps:
-  - Stub created 2026-04-09 to preserve vault connections
-  - Full build required: Ripple CEO tenure, GENIUS Act drafting role, SEC settlement negotiation, personal FEC contributions
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
 court-cases: 32
 last-enriched: "2026-04-10"
 court-jurisdictions:

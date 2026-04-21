@@ -1,7 +1,7 @@
 ---
 title: Resolute Courage PAC
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00866640
 aliases:
   - RESOLUTE COURAGE PAC
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Zoe Lofgren]], [[Emily Randall]], [[Marcy Kaptur]]"
 related: "[[Zoe Lofgren]]"
 checklist-na:
@@ -22,6 +22,8 @@ total-raised: 60000
 total-spent: 60639
 cash-on-hand: 621
 contributions-to-committees: 14000
+source-types:
+  - FEC
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: Hunter Action Fund (haf)
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00541433
@@ -20,6 +20,10 @@ total-raised: 513289
 total-spent: 52762
 cash-on-hand: 504847
 individual-contributions: 509650
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

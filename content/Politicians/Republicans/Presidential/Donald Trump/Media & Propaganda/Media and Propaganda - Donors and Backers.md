@@ -1,11 +1,12 @@
 ---
 title: "Media and Propaganda - Donors and Backers"
 type: sub-note
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
 source-types:
+  - Congress
   - FEC
 known-gaps:
   - "No legislative record from Congress.gov"
@@ -16,6 +17,7 @@ checklist-na:
   - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+corroboration-count: 2
 ---
 #donald-trump #media #propaganda #donors #backers #fox-news #sinclair #truth-social #follow-the-money #research-node
 

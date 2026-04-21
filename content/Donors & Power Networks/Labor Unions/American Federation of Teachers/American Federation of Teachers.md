@@ -1,16 +1,16 @@
 ---
 title: American Federation of Teachers
 type: corporation
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 3
 sector: Labor Unions
 entity-type: corporation
 known-gaps:
-  - No FEC contribution data
-  - No lobbying data
-  - No mapped relationships
-source-types: []
+  - "No SEC corporate filings"
+  - "No lobbying disclosure data"
+source-types:
+  - FEC
 related: "[[Economic Policy Institute]] · [[Ohio Federation of Teachers]]"
 urls-first-triaged: "2026-04-15"
 employee-contributions: 245

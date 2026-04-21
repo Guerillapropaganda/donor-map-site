@@ -1,7 +1,7 @@
 ---
 title: Kucinich Action PAC
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00325704
 aliases:
   - KUCINICH ACTION PAC
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Barbara Lee]]"
 related: "[[Barbara Lee]]"
 checklist-na:
@@ -21,6 +21,8 @@ urls-first-triaged: "2026-04-15"
 total-raised: 23001
 total-spent: 23405
 individual-contributions: 17001
+source-types:
+  - FEC
 ---
 
 

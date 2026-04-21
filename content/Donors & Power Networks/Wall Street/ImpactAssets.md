@@ -1,7 +1,7 @@
 ---
 title: ImpactAssets
 type: donor
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 sector: Wall Street
 entity-type: Donor-Advised Fund
@@ -10,6 +10,10 @@ nonprofit-status: 501(c)(3)
 source-tier: 1
 internal-notes: Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Independent DAF with an impact-investing focus; channels values-aligned giving from institutional donors. Narrative pending Research Claude editorial pass.
 politicians-funded: "[[Planned Parenthood Federation of America]], [[Bipartisan Policy Center]], [[Center for American Progress]], [[The Barack Obama Foundation]], [[Renaissance Charitable Foundation]], [[New Venture Fund]], [[National Philanthropic Trust]], [[Fidelity Investments]], [[Bank of America Charitable Gift Fund]], [[Rockefeller Philanthropy Advisors]], [[Schwab Charitable Fund]], [[Silicon Valley Community Foundation]], [[ACLU Foundation]], [[Roosevelt Institute]], [[Hopewell Fund]], [[Proteus Fund]], [[NEO Philanthropy]], [[Equal Justice Initiative]], [[Center for Popular Democracy]], [[Urban Institute]], [[Natural Resources Defense Council]], [[Sierra Club Foundation]], [[Environmental Law & Policy Center]], [[Organizing for Action]], [[Robin Hood Foundation]], [[ImpactAssets]]"
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 ---
 
 

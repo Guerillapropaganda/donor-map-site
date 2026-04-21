@@ -1,7 +1,7 @@
 ---
 title: NEA Fund for Children and Public Education
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -13,7 +13,7 @@ aliases:
   - NEA FUND FOR CHILDREN AND PUBLIC EDUCATION; THE (FKA NEAPAC)
   - NEAPAC
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Jamie Raskin]], [[Brendan Boyle]], [[Maxwell Frost]], [[Sarah Elfreth]], [[Debbie Wasserman Schultz]], [[Josh Harder]], [[Andy Kim]], [[Frank Pallone]], [[Raja Krishnamoorthi]], [[Steven Horsford]], [[Rashida Tlaib]], [[Vicente Gonzalez]], [[Greg Landsman]], [[Mike Levin]], [[Jared Moskowitz]], [[Shontel Brown]], [[Eric Swalwell]], [[Sheila Cherfilus-McCormick]], [[Cory Booker]], [[Laura Friedman]], [[Joyce Beatty]], [[Debbie Dingell]], [[John Garamendi]], [[Veronica Escobar]], [[Kristen McDonald Rivet]], [[Ted Lieu]], [[Ilhan Omar]], [[Derek Tran]], [[Susie Lee]], [[Morgan McGarvey]], [[Madeleine Dean]], [[Lois Frankel]], [[Jared Huffman]], [[Zoe Lofgren]], [[Suzanne Bonamici]], [[Kim Schrier]], [[Sydney Kamlager-Dove]], [[Marie Gluesenkamp Perez]], [[Sarah McBride]], [[Julia Brownley]], [[Jack Reed]], [[Jahana Hayes]], [[Dan Osborn]], [[Josh Gottheimer]], [[Jason Crow]], [[Shri Thanedar]], [[Dina Titus]], [[Mike Thompson]], [[Dave Min]], [[Bobby Scott]], [[Maxine Dexter]], [[Kevin Mullin]], [[Teresa Leger Fernandez]], [[Richard Neal]], [[Ritchie Torres]], [[Chellie Pingree]], [[Raul Ruiz]], [[Sara Jacobs]], [[Grace Meng]], [[Marilyn Strickland]], [[Gwen Moore]], [[Nancy Pelosi]], [[Joaquin Castro]], [[Adam Gray]], [[Eric Sorensen]], [[Alexandria Ocasio-Cortez]], [[Patty Murray]], [[Mark Warner]], [[Julie Johnson]], [[Darren Soto]], [[Henry Cuellar]], [[Raul Grijalva]], [[Greg Stanton]], [[Jamaal Bowman]], [[Pete Aguilar]], [[Mark DeSaulnier]], [[Rick Larsen]], [[Gregory Meeks]], [[Lloyd Doggett]], [[Sharice Davids]], [[Andrea Salinas]], [[Summer Lee]], [[Andre Carson]], [[Ayanna Pressley]], [[Jim Himes]], [[Ro Khanna]], [[Cori Bush]], [[Brad Sherman]], [[Joe Manchin]], [[Chris Coons]], [[Bennie Thompson]], [[George Latimer]], [[David Scott]], [[Chrissy Houlahan]], [[Kelly Morrison]], [[Maria Cantwell]], [[Lauren Underwood]], [[John Hickenlooper]], [[Jacky Rosen]], [[Dan Goldman]], [[Jim Costa]], [[Sheldon Whitehouse]], [[Dwight Evans]], [[Brian Schatz]], [[Josh Riley]], [[Lateefah Simon]], [[Peter Welch]], [[Emily Randall]], [[Ron Wyden]], [[Nydia Velazquez]], [[Mark Pocan]], [[Adam Smith]], [[Sherrod Brown]], [[Elizabeth Warren]], [[Marcy Kaptur]], [[Steve Cohen]], [[Maxine Waters]], [[Wesley Bell]], [[Jerrold Nadler]], [[Robert Garcia]], [[Kathy Castor]], [[Barbara Lee]], [[Betty McCollum]], [[Lamonica McIver]], [[Jimmy Panetta]], [[Emanuel Cleaver]], [[Judy Chu]], [[Chris Pappas]], [[Ed Markey]], [[Elissa Slotkin]], [[Mike Quigley]], [[Jake Auchincloss]], [[Brittany Pettersen]], [[Joseph Morelle]], [[Donald Norcross]], [[Diana Degette]], [[Chris van Hollen]], [[Lisa Murkowski]], [[Lori Trahan]], [[Sean Casten]], [[Bernie Sanders]], [[Adam Schiff]], [[Raphael Warnock]], [[Martin Heinrich]], [[John Fetterman]], [[Rosa DeLauro]], [[Shomari Figures]], [[Adriano Espaillat]], [[Lisa Blunt Rochester]], [[Richard Blumenthal]], [[Pramila Jayapal]], [[Alex Padilla]], [[Seth Magaziner]], [[Hakeem Jeffries]], [[Laura Gillen]], [[Chris Murphy]], [[Jon Ossoff]], [[Maggie Goodlander]], [[Juan Vargas]], [[Jeff Merkley]], [[George Whitesides]], [[Tammy Duckworth]], [[Cleo Fields]], [[Suhas Subramanyam]], [[Paul Tonko]], [[Ruben Gallego]], [[Amy Klobuchar]], [[Mark Takano]], [[Nikema Williams]], [[Mark Kelly]], [[Catherine Cortez Masto]], [[Tammy Baldwin]]"
 related: "[[Jamie Raskin]]"
 checklist-na:
@@ -29,6 +29,8 @@ ofac-sdn-match: "true"
 last-enriched: "2026-04-16"
 ofac-programs:
   - RUSSIA-EO14024
+source-types:
+  - FEC
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: "2026-03-21 Finance Research"
 type: daily-update
-content-readiness: draft
+content-readiness: raw
 last-updated: 2026-03-23
 source-tier: 1
 parent: null
@@ -9,6 +9,8 @@ checklist-na:
   - "regulatory: auto: entity type \"daily-update\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"daily-update\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+known-gaps:
+  - "No mapped relationships"
 ---
 
 # Finance Research Log, 2026-03-21

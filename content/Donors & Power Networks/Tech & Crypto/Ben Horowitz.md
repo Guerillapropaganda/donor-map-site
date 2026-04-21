@@ -1,7 +1,7 @@
 ---
 title: Ben Horowitz
 type: donor
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-10T00:00:00.000Z
 source-tier: null
 parent: null
@@ -13,11 +13,11 @@ issues:
   - Financial Deregulation
 politicians-funded: "[[Donald Trump]]"
 related: "[[Marc Andreessen & Horowitz]] · [[Fairshake PAC]] · [[Leading the Future]] · [[_Donald Trump Master Profile]]"
-source-types: []
+source-types:
+  - Courts
 known-gaps:
-  - Stub created 2026-04-09 to preserve vault connections
-  - Full build required: a16z founding, crypto policy advocacy, 2024 Trump endorsement reversal, AI PAC role
-  - No standalone FEC contribution compilation (currently grouped with Andreessen)
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
 court-cases: 46
 last-enriched: "2026-04-10"
 court-jurisdictions:

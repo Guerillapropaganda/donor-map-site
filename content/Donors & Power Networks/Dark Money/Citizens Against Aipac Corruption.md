@@ -1,7 +1,7 @@
 ---
 title: Citizens Against Aipac Corruption
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00879080
@@ -22,6 +22,10 @@ cash-on-hand: 273028
 independent-expenditures: 48500
 individual-contributions: 425849
 contributions-to-committees: 3500
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

@@ -2,7 +2,7 @@
 title: Living United for Change in Arizona
 type: donor
 ein: "271398645"
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -12,7 +12,7 @@ fec-committee-id: C90018169
 aliases:
   - LIVING UNITED FOR CHANGE IN ARIZONA
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Joe Biden]], [[Mark Kelly]], [[ActBlue]]"
 related: "[[Joe Biden]]"
 checklist-na:
@@ -22,6 +22,8 @@ urls-first-triaged: "2026-04-15"
 employee-contributions: 1
 employee-contributions-total: 250
 employee-donor-count: 1
+source-types:
+  - FEC
 ---
 
 

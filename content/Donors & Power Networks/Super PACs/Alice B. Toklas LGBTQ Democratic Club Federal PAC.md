@@ -1,7 +1,7 @@
 ---
 title: Alice B. Toklas LGBTQ Democratic Club Federal PAC
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00705277
 aliases:
   - ALICE B. TOKLAS LGBTQ DEMOCRATIC CLUB FEDERAL PAC
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Alex Padilla]], [[Nancy Pelosi]], [[Kevin Mullin]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -21,6 +21,8 @@ total-raised: 11500
 total-spent: 5036
 cash-on-hand: 18720
 related: "[[Alex Padilla]]"
+source-types:
+  - FEC
 ---
 
 

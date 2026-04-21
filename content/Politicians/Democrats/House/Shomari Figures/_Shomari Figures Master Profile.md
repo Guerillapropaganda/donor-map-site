@@ -1,7 +1,7 @@
 ---
 title: Shomari Figures
 type: politician
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Democrat
@@ -18,10 +18,9 @@ phone: 202-225-4931
 source-types:
   - Congress
 known-gaps:
-  - No FEC contribution data
-  - No legislative record
-  - No voting record
-  - No mapped relationships
+  - "No FEC contribution data"
+  - "No voting record data"
+  - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4AL02170
 top-donors: "[[League of Conservation Voters]], [[Coinbase]], [[SEIU COPE]], [[Care Action]], [[Veronica Escobar]], [[Nucor Corporation]], [[UA Political Action Committee]], [[Drummond Co.]], [[Jason Crow]], [[Alabama Power]], [[Hmp]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[National Multifamily Housing Council]], [[General Motors]], [[Nancy Pelosi]], [[DMFI - Democratic Majority for Israel]], [[Amgen Inc]], [[General Dynamics]], [[Teamsters - International Brotherhood of Teamsters]], [[Let America Vote PAC]], [[Ford Motor Company]], [[Pete Aguilar]], [[Walmart - Walton Family]], [[Northrop Grumman]], [[NEA Fund for Children and Public Education]], [[AT&T - WarnerMedia]], [[Planned Parenthood Action Fund INC]], [[Medicare for All - The Policy That Broke the Party]], [[Julia Brownley]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Judy Chu]], [[Gilead Sciences]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[Comcast - NBCUniversal]], [[Honeywell]], [[Gabe Amo]], [[Tyson Foods]], [[AFL-CIO]], [[DCCC - Democratic Congressional Campaign Committee]], [[Robert Garcia]], [[Jake Auchincloss]], [[CHC BOLD PAC]], [[Protect Progress]], [[Anthem - Elevance Health]], [[National Association of Realtors]], [[Lockheed Martin]], [[American Hospital Association PAC]], [[AT&T]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[HMP]], [[Honeywell International]]"

@@ -1,7 +1,7 @@
 ---
 title: Voter Protection Project
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00767632
 aliases:
   - VOTER PROTECTION PROJECT
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Ritchie Torres]], [[Joaquin Castro]], [[Susie Lee]], [[Chris Pappas]], [[Greg Landsman]], [[Veronica Escobar]], [[Sharice Davids]], [[Seth Magaziner]], [[Shontel Brown]], [[Raphael Warnock]], [[Teresa Leger Fernandez]], [[Jon Ossoff]], [[Marie Gluesenkamp Perez]]"
 related: "[[Ritchie Torres]]"
 checklist-na:
@@ -23,6 +23,8 @@ total-spent: 644102
 cash-on-hand: 158633
 individual-contributions: 713942
 contributions-to-committees: 39500
+source-types:
+  - FEC
 ---
 
 

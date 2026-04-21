@@ -1,7 +1,7 @@
 ---
 title: Colin Powell
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: Colin Powell's career demonstrates how credibility operates as political currency for the donor class. His military authority, his status as 'the most trusted man in America,' and his African American identity made him uniquely valuable to the Bus...
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -12,13 +12,11 @@ top-donors: "[[Boeing]] · [[Lockheed Martin]] · [[Washington Citizens for Coli
 fec-candidate-id: P60003050
 last-enriched: "2026-04-07"
 source-types:
-  - DOJ
+  - Congress
   - FEC
 corroboration-count: 2
 known-gaps:
-  - No legislative record from Congress.gov
-  - No voting record data
-  - No mapped relationships
+  - "No voting record data"
 related: "[[George W Bush]] · [[Dick Cheney]] · [[Lockheed Martin]] · [[Boeing]] · [[Kleiner Perkins]] · [[Defense & Intelligence/Defense Contractors]] · [[Iraq War Coalition]]"
 donors: "[[Washington Citizens for Colin Powell]] · [[Boeing]] · [[Lockheed Martin]]"
 urls-first-triaged: "2026-04-15"

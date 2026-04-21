@@ -1,7 +1,7 @@
 ---
 title: Friends of the Earth (action) INC
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C70005897
 aliases:
   - FRIENDS OF THE EARTH (ACTION) INC
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Rashida Tlaib]], [[Friends of the Earth (action) INC]], [[Summer Lee]], [[Cori Bush]], [[Mike Levin]]"
 related: "[[Rashida Tlaib]]"
 checklist-na:
@@ -26,6 +26,8 @@ contributions-to-committees: 1500
 employee-contributions: 1
 employee-contributions-total: 2500
 employee-donor-count: 1
+source-types:
+  - FEC
 ---
 
 

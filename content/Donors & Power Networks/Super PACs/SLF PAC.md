@@ -1,7 +1,7 @@
 ---
 title: SLF PAC
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00571703
 aliases:
   - SLF PAC
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Michael Whatley]], [[Jon Ossoff]], [[Tammy Baldwin]], [[Roy Cooper]], [[Susan Collins]], [[Ashley Hinson]], [[Sherrod Brown]], [[Bernie Moreno]], [[Raphael Warnock]], [[John Fetterman]], [[Elissa Slotkin]], [[Jacky Rosen]], [[Donald Trump]], [[Tim Sheehy]], [[Dan Osborn]], [[Catherine Cortez Masto]], [[Jon Husted]]"
 related: "[[Michael Whatley]]"
 checklist-na:
@@ -24,6 +24,8 @@ cash-on-hand: 100129496
 independent-expenditures: 1740877
 individual-contributions: 64105843
 contributions-to-committees: 5500
+source-types:
+  - FEC
 ---
 
 

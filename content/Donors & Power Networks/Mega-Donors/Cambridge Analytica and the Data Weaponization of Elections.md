@@ -1,7 +1,7 @@
 ---
 title: Cambridge Analytica and the Data Weaponization of Elections
 type: donor
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-09T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -10,14 +10,15 @@ entity-type: Individual Donor
 politicians-funded: "[[Ted Cruz]], [[Steve Bannon]], [[Donald Trump]]"
 related: "[[Steve Bannon Master Profile]] · [[The Mercer Investment and the Construction of Populist Infrastructure]] · [[Robert Mercer]] · [[Rebekah Mercer]] · [[_Donald Trump Master Profile]] · [[_Ted Cruz Master Profile]]"
 known-gaps:
-  - No FEC contribution data
-  - No lobbying disclosure data
+  - "No FEC contribution data"
 lobbying-spend: 790000
 lobbying-filings: 29
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+source-types:
+  - LDA
 ---
 
 

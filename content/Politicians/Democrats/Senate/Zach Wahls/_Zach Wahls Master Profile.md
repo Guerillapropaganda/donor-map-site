@@ -3,7 +3,7 @@ title: "Zach Wahls"
 type: state-politician
 current-office: "Iowa State Senator (2019–present)"
 candidate-for: "US Senate 2026 (IA, Democratic primary)"
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Iowa is a long-shot Democratic pickup, but Zach Wahls represents the Democratic Party's *bet* that a Warren-endorsed, small-dollar funded, LGBTQ+ and progressive candidate can compete in a deep-red state that voted for Obama twice, then Trump twic..."
 last-updated: '2026-04-11'
 source-tier: 1
@@ -17,7 +17,7 @@ top-donors:
 total-received: "$2,045,589"
 fec-candidate-id: "S6IA00272"
 source-types:
-  - FEC
+  - Congress
 known-gaps:
   - "Federal campaign finance data needs FEC pipeline pass (candidate ID S6IA00272)"
   - "Iowa state senate voting record (2019–present) needs direct sourcing from Iowa Legislature site"

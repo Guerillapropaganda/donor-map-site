@@ -1,7 +1,7 @@
 ---
 title: Sheldon Whitehouse
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: Whitehouse is the Senate's dark money watchdog who is himself embedded in the donor infrastructure he critiques. His 'Scheme' floor speech series (80+ documented speeches, 2016–present) is the most detailed public accounting of right-wing judicial...
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
@@ -53,12 +53,10 @@ needs-reenrichment: true
 reenrich-reason: re-run congress pipeline
 source-types:
   - Congress
-  - FEC
-  - SenateOfficial
 corroboration-count: 4
 known-gaps:
-  - Sandra Whitehouse / Ocean Conservancy payment total ($2.69M since 2010) needs direct financial disclosure citation (currently cited via FACT ethics complaint, Tier 2)
-  - 80+ "Scheme" floor speeches and 300+ "Time to Wake Up" speeches need complete catalog for verified promotion (a few are cited, most aren't)
+  - "No FEC contribution data"
+  - "No voting record data"
 opposes:
   - Leonard Leo
   - Federalist Society

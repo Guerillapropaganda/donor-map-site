@@ -2,7 +2,7 @@
 title: Citizens for Responsible Energy Solutions Inc.
 type: donor
 ein: "460558330"
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -12,7 +12,7 @@ fec-committee-id: C00553974
 aliases:
   - CITIZENS FOR RESPONSIBLE ENERGY SOLUTIONS INC.
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Bruce Westerman]], [[Glenn Thompson]], [[Elise Stefanik]], [[Cathy McMorris Rodgers]], [[Frank Lucas]], [[Dan Newhouse]], [[Mariannette Miller-Meeks]]"
 related: "[[Elise Stefanik]] · [[Glenn Thompson]] · [[Bruce Westerman]]"
 checklist-na:
@@ -23,6 +23,8 @@ ofac-sdn-match: "true"
 last-enriched: "2026-04-16"
 ofac-programs:
   - RUSSIA-EO14024
+source-types:
+  - FEC
 ---
 
 

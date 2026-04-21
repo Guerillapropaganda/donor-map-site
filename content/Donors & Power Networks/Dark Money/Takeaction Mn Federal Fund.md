@@ -1,7 +1,7 @@
 ---
 title: Takeaction Mn Federal Fund
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00738815
@@ -20,6 +20,10 @@ total-raised: 25
 total-spent: 448
 cash-on-hand: 3089
 independent-expenditures: 48
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: Hospital Corporation of America - HCA
 type: corporation
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -25,6 +25,13 @@ employee-contributions: 12511
 employee-contributions-total: 1133383
 employee-donor-count: 1802
 politicians-funded: "[[Indivisible Action]], [[Save America PAC]], [[Let America Vote PAC]], [[_Jon Ossoff Master Profile]], [[Progressive Turnout Project]], [[DCCC - Democratic Congressional Campaign Committee]], [[The Lincoln Project]], [[_Thomas Massie Master Profile]], [[RNC - Republican National Committee]], [[_Nancy Pelosi Master Profile]], [[MAGA Inc]], [[_Marco Rubio Master Profile]], [[Hmp]], [[MoveOn.org Political Action]], [[Catherine Cortez Masto]], [[_Rashida Tlaib Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Emily's List]], [[Mark Kelly]], [[REPUBLICAN PARTY OF FLORIDA]], [[NRSC - National Republican Senatorial Committee]], [[WinSenate]], [[ActBlue]], [[_Cori Bush Master Profile]], [[_Adriano Espaillat Master Profile]], [[NRCC - National Republican Congressional Committee]], [[Sfa Fund, Inc]], [[_Ted Cruz Master Profile]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[_Pete Aguilar Master Profile]], [[WinRed]], [[Human Rights Campaign Equality Votes]], [[_Joe Neguse Master Profile]], [[Giffords PAC]], [[_Chris Pappas Master Profile]], [[SLF PAC]], [[Standing With Conservatives]], [[_Susie Lee Master Profile]], [[AIPAC - American Israel Public Affairs Committee]], [[Elbert Guillory's America]], [[_Yassamin Ansari Master Profile]], [[National Rifle Association]], [[_Tammy Baldwin Master Profile]], [[_Matt van Epps Master Profile]], [[_Ron Johnson Master Profile]], [[American Hospital Association PAC]], [[_Mike Levin Master Profile]], [[Senate Conservatives Fund]], [[_Mark Green Master Profile]], [[_Tim Scott Master Profile]], [[Nancy Mace]], [[CHC BOLD PAC]], [[Bob Casey]], [[Democratic Party of Virginia]], [[Congressional Progressive Caucus PAC]], [[_Jim Jordan Master Profile]], [[National Victory Action Fund]], [[_Andy Barr Master Profile]], [[_Andre Carson Master Profile]], [[_Jason Crow Master Profile]], [[Demand Justice]], [[Marco Rubio]], [[Jason Crow]], [[Jon Ossoff]], [[Joe Neguse]], [[Ted Cruz]], [[Chris Pappas]], [[Yassamin Ansari]], [[Mark Green]], [[Cori Bush]], [[Rashida Tlaib]], [[Jim Jordan]], [[Ron Johnson]], [[Thomas Massie]], [[Susie Lee]], [[Tim Scott]], [[Adriano Espaillat]], [[Andre Carson]], [[Pete Aguilar]], [[Nancy Pelosi]], [[Tammy Baldwin]], [[Mike Levin]], [[Matt van Epps]], [[Andy Barr]], [[HMP]], [[Republican Party of Florida]]"
+source-types:
+  - FEC
+  - SEC
+  - USASpending
+corroboration-count: 3
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: TikTok - ByteDance
 type: corporation
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-09T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -26,6 +26,12 @@ employee-contributions: 479
 employee-contributions-total: 169947
 employee-donor-count: 150
 politicians-funded: "[[_Mark Green Master Profile]], [[_Lisa Blunt Rochester Master Profile]], [[_Pete Aguilar Master Profile]], [[Emily's List]], [[_Gabe Vasquez Master Profile]], [[Catherine Cortez Masto]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Gabe Amo Master Profile]], [[ActBlue]], [[_Nancy Pelosi Master Profile]], [[_Vince Fong Master Profile]], [[_Sydney Kamlager-Dove Master Profile]], [[_Rashida Tlaib Master Profile]], [[_Tim Scott Master Profile]], [[_Josh Riley Master Profile]], [[WinRed]], [[DSCC - Democratic Senatorial Campaign Committee]], [[NRCC - National Republican Congressional Committee]], [[_Alex Padilla Master Profile]], [[_Jon Ossoff Master Profile]], [[The Lincoln Project]], [[_Debbie Wasserman Schultz Master Profile]], [[_Debbie Dingell Master Profile]], [[_Robert Garcia Master Profile]], [[Bob Casey]], [[_Martin Heinrich Master Profile]], [[FreedomWorks for America]], [[JUSTICE DEMOCRATS PAC]], [[Tim Scott]], [[Martin Heinrich]], [[Mark Green]], [[Sydney Kamlager-Dove]], [[Debbie Dingell]], [[Debbie Wasserman Schultz]], [[Jon Ossoff]], [[Vince Fong]], [[Gabe Amo]], [[Nancy Pelosi]], [[Rashida Tlaib]], [[Pete Aguilar]], [[Robert Garcia]], [[Josh Riley]], [[Lisa Blunt Rochester]], [[Alex Padilla]], [[Gabe Vasquez]], [[Justice Democrats PAC]]"
+source-types:
+  - Congress
+  - FEC
+  - LDA
+  - SEC
+corroboration-count: 4
 ---
 
 

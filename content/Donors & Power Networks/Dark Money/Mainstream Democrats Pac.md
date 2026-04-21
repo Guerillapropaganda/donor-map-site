@@ -1,7 +1,7 @@
 ---
 title: Mainstream Democrats Pac
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00804823
@@ -20,6 +20,10 @@ total-raised: 14345
 total-spent: 238159
 cash-on-hand: 90903
 individual-contributions: 13875
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

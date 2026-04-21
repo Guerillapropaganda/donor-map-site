@@ -2,7 +2,7 @@
 title: Lindsey Graham
 type: politician
 bioguide-id: G000359
-content-readiness: draft
+content-readiness: ready
 central-thesis: Lindsey Graham is the Senate's purest demonstration that political identity follows money. He was John McCain's ideological twin , interventionist, bipartisan, immigration-moderate , because McCain's donor network rewarded that positioning. When M...
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -20,11 +20,10 @@ top-donors:
   - Boeing
   - Republican Jewish Coalition
 source-types:
-  - FEC
+  - Congress
 known-gaps:
-  - No legislative record from Congress.gov
-  - No voting record data
-  - No mapped relationships
+  - "No FEC contribution data"
+  - "No voting record data"
 related: "[[_Donald Trump Master Profile|Trump]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Pete Hegseth Master Profile|Hegseth]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Brett Kavanaugh Master Profile|Kavanaugh]] · [[Leonard Leo]] · [[AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else]] · [[South Carolina 2026 Senate Race]] · [[Elliott Management]]"
 donors: "[[Patrick Soon-Shiong]] · [[Democracy Alliance]] · [[California Farm Bureau Federation]] · [[Boeing]] · [[CA Farm Bureau Federation]] · [[Lockheed Martin]] · [[Republican Jewish Coalition]] · [[AIPAC - American Israel Public Affairs Committee]] · [[AT&T - WarnerMedia]] · [[Microsoft]] · [[American Hospital Association PAC]] · [[General Dynamics]] · [[Palantir]] · [[Amgen Inc]] · [[Nucor Corporation]] · [[National Multifamily Housing Council]] · [[Citigroup]] · [[NORPAC]] · [[Associated General Contractors of America Political Action Committee]] · [[Devon Energy]] · [[Duke Energy]] · [[Planned Parenthood Votes]] · [[ConocoPhillips]] · [[WinRed]] · [[NextEra Energy]] · [[Johnson & Johnson]] · [[Northrop Grumman]] · [[Comcast - NBCUniversal]] · [[Chevron]] · [[National Association of Realtors]] · [[Common Sense for America PAC]] · [[Tyson Foods]] · [[iHeartMedia]] · [[Morgan Stanley]] · [[NRSC - National Republican Senatorial Committee]] · [[BAE Systems]] · [[AT&T]] · [[Palantir Technologies]]"
 urls-first-triaged: "2026-04-15"

@@ -1,7 +1,7 @@
 ---
 title: Club for Growth INC PAC
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00346536
 aliases:
   - CLUB FOR GROWTH INC PAC
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Patrick McHenry]], [[John Thune]], [[Raphael Warnock]], [[Ron Johnson]], [[Scott Perry]], [[Anna Paulina Luna]], [[Ralph Norman]], [[Richard McCormick]], [[Keith Self]], [[Rick Scott]], [[Lauren Boebert]], [[Ted Cruz]], [[Mark Kelly]], [[Tim Sheehy]], [[Catherine Cortez Masto]], [[Cory Mills]], [[Josh Hawley]], [[Pete Ricketts]], [[David Schweikert]], [[Tim Scott]], [[Nancy Mace]], [[Josh Brecheen]], [[Chip Roy]], [[Nikki Haley]], [[Mike Lee]], [[Eric Burlison]], [[Bernie Moreno]], [[Brian Jack]], [[Brandon Gill]], [[Tim Moore]], [[Mark Green]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -24,6 +24,8 @@ independent-expenditures: 161385
 individual-contributions: 340561
 contributions-to-committees: 233104
 related: "[[John Thune]] · [[Patrick McHenry]]"
+source-types:
+  - FEC
 ---
 
 

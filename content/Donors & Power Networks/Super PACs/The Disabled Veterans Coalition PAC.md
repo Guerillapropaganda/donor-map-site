@@ -1,7 +1,7 @@
 ---
 title: The Disabled Veterans Coalition PAC
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00759332
 aliases:
   - THE DISABLED VETERANS COALITION PAC
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Bruce Westerman]]"
 related: "[[Bruce Westerman]]"
 checklist-na:
@@ -22,6 +22,8 @@ total-raised: 14158
 total-spent: 15178
 cash-on-hand: 69
 individual-contributions: 14158
+source-types:
+  - FEC
 ---
 
 

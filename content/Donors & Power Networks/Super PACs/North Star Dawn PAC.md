@@ -1,7 +1,7 @@
 ---
 title: North Star Dawn PAC
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00935973
 aliases:
   - NORTH STAR DAWN PAC
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Angie Craig]]"
 related: "[[Angie Craig]]"
 checklist-na:
@@ -22,6 +22,8 @@ ofac-sdn-match: "true"
 last-enriched: "2026-04-16"
 ofac-programs:
   - "IRAN-EO13902"
+source-types:
+  - FEC
 ---
 
 

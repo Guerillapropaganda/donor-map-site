@@ -1,7 +1,7 @@
 ---
 title: Law Enforcement for a Safer America Pac
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00681825
@@ -26,6 +26,10 @@ total-spent: 2971467
 cash-on-hand: 150822
 independent-expenditures: 213880
 individual-contributions: 2972964
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

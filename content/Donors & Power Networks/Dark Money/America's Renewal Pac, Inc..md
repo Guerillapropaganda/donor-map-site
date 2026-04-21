@@ -1,7 +1,7 @@
 ---
 title: America's Renewal Pac, Inc.
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00902106
@@ -21,6 +21,10 @@ total-spent: 402673
 cash-on-hand: 47875
 independent-expenditures: 69774
 individual-contributions: 450548
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

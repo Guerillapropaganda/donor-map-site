@@ -1,7 +1,7 @@
 ---
 title: Campaign for Community Change
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -10,7 +10,7 @@ source-tier: 1
 aliases:
   - CAMPAIGN FOR COMMUNITY CHANGE
 known-gaps:
-  - Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Raul Grijalva]], [[Wfp Ie Committee]], [[ActBlue]]"
 related: "[[Raul Grijalva]]"
 checklist-na:
@@ -20,6 +20,8 @@ urls-first-triaged: "2026-04-15"
 employee-contributions: 12
 employee-contributions-total: 10050
 employee-donor-count: 6
+source-types:
+  - FEC
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: Revere America
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C90011701
 aliases:
   - REVERE AMERICA
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Rick Crawford]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Lauren Underwood Master Profile]], [[314 ACTION FUND]], [[Let America Vote PAC]], [[_Nancy Pelosi Master Profile]], [[WinSenate]], [[Marianne Williamson]], [[_Jon Ossoff Master Profile]], [[_Cory Booker Master Profile]], [[Indivisible Action]], [[RNC - Republican National Committee]], [[ActBlue]], [[Mark Kelly]], [[WinRed]], [[Jon Ossoff]], [[Cory Booker]], [[Nancy Pelosi]], [[Lauren Underwood]], [[314 Action Fund]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -21,6 +21,8 @@ related: "[[Rick Crawford]]"
 employee-contributions: 598
 employee-contributions-total: 114702
 employee-donor-count: 42
+source-types:
+  - FEC
 ---
 
 

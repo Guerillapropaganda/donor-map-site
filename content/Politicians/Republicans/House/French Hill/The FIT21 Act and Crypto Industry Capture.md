@@ -1,7 +1,7 @@
 ---
 title: "The FIT21 Act and Crypto Industry Capture"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_French Hill Master Profile]]"

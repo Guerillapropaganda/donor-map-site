@@ -1,7 +1,7 @@
 ---
 title: Texas Forever
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00689919
 aliases:
   - TEXAS FOREVER
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Ted Cruz]]"
 related: "[[Ted Cruz]]"
 checklist-na:
@@ -20,6 +20,8 @@ checklist-na:
 urls-first-triaged: "2026-04-15"
 total-spent: 1168
 contributions-to-committees: 868
+source-types:
+  - FEC
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: National Right to Life Victory Fund
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00509893
@@ -21,6 +21,10 @@ total-spent: 18021
 cash-on-hand: 114987
 independent-expenditures: 3416
 individual-contributions: 62477
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

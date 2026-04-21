@@ -1,7 +1,7 @@
 ---
 title: Pennsylvania Pro-Life Federation PAC
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00172361
 aliases:
   - PENNSYLVANIA PRO-LIFE FEDERATION PAC
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Glenn Thompson]], [[Chrissy Houlahan]], [[Scott Perry]], [[Dwight Evans]], [[Guy Reschenthaler]], [[Madeleine Dean]], [[John Fetterman]], [[Lloyd Smucker]], [[Donald Trump]], [[Ryan Mackenzie]], [[John Joyce]], [[Summer Lee]], [[Kamala Harris]], [[Mike Kelly]], [[Daniel Meuser]], [[Brendan Boyle]]"
 related: "[[Glenn Thompson]]"
 checklist-na:
@@ -22,6 +22,8 @@ total-raised: 4035
 total-spent: 3446
 cash-on-hand: 57939
 individual-contributions: 3918
+source-types:
+  - FEC
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: ALEC - American Legislative Exchange Council
 type: donor
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -12,8 +12,7 @@ issues:
   - Energy & Climate
 related: "[[DeVos Family]] · [[2026-03-25 Finance Research]] · [[Freedom Partners Chamber of Commerce]] · [[Koch Industries]] · [[Koch Network - Charles Koch]] · [[Americans for Prosperity]] · [[Stand Together]] · [[DonorsTrust]] · [[US Chamber of Commerce]] · [[National Association of Manufacturers]] · [[Heritage Foundation]] · [[Federalist Society]] · [[GEO Group]] · [[ExxonMobil]] · [[PhRMA]] · [[State Policy Network]] · [[American Federation for Children]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[National Education Association]] · [[American Petroleum Institute]] · [[Petrochemical Industry Bloc]] · [[Western States Petroleum Association]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[Defense Contractors]] · [[Defense Contractors Bloc]] · [[American Iron and Steel Institute]] · [[Judicial Crisis Network]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Donors Capital Fund]] · [[Demand Justice]] · [[Council for National Policy]] · [[Conservative Partnership Institute]] · [[Concerned Veterans for America]] · [[Democratic Small Dollar Networks]] · [[Ocean Conservancy]] · [[Ohio Democratic Party]] · [[New Venture Fund]] · [[National Progressive Donor Networks]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Entertainment and Hollywood Donors]] · [[Democratic Party Infrastructure]] · [[Democratic Donor Network]] · [[Democracy Alliance]] · [[CREW - Citizens for Responsibility and Ethics in Washington]] · [[Business Roundtable]] · [[Bradley Impact Fund]] · [[Bradley Foundation]] · [[Arabella Advisors]] · [[Americans for Tax Reform - Grover Norquist]] · [[American Enterprise Institute]] · [[American Action Network]]"
 known-gaps:
-  - No FEC contribution data
-  - No lobbying disclosure data
+  - "No lobbying disclosure data"
 sec-filings: 14
 sec-form-types:
   - N-CSR
@@ -26,6 +25,10 @@ employee-contributions: 9
 employee-contributions-total: 9800
 employee-donor-count: 7
 politicians-funded: "[[Trump Victory]], [[WinRed]], [[VIEW PAC - Value in Electing Women]]"
+source-types:
+  - FEC
+  - SEC
+corroboration-count: 2
 ---
 
 

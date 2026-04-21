@@ -1,7 +1,7 @@
 ---
 title: Humane Society Legislative Fund
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C90009358
 aliases:
   - HUMANE SOCIETY LEGISLATIVE FUND
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Dianne Feinstein]], [[Josh Gottheimer]], [[Jahana Hayes]], [[Indivisible Action]], [[ActBlue]], [[Kim Schrier]], [[_Tammy Baldwin Master Profile]], [[John Fetterman]], [[Josh Harder]], [[Dina Titus]], [[Marcy Kaptur]], [[Nikki Budzinski]], [[Bob Casey]], [[Catherine Cortez Masto]], [[MoveOn.org Political Action]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Young Kim]], [[Sharice Davids]], [[Chrissy Houlahan]], [[Lauren Underwood]], [[Mike Levin]], [[Tammy Baldwin]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -21,6 +21,8 @@ related: "[[Dianne Feinstein]]"
 employee-contributions: 49
 employee-contributions-total: 8704
 employee-donor-count: 14
+source-types:
+  - FEC
 ---
 
 

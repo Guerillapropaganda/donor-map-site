@@ -1,7 +1,7 @@
 ---
 title: Mike Kelly
 type: politician
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 party: Republican
@@ -18,10 +18,8 @@ phone: 202-225-5406
 source-types:
   - Congress
 known-gaps:
-  - No FEC contribution data
-  - No legislative record
-  - No voting record
-  - No mapped relationships
+  - "No FEC contribution data"
+  - "No voting record data"
 donors: "[[CA Farm Bureau Federation]], [[Pennsylvania Pro-Life Federation PAC]], [[Goldman Sachs]], [[Morgan Stanley]], [[AbbVie]], [[Carlyle Group]], [[Fidelity Investments]], [[Koch Industries]], [[Blackstone Group]], [[Apple]], [[Northrop Grumman]], [[CVS Health - Aetna]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[Business Roundtable]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4PA03117

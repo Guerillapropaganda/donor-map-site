@@ -1,7 +1,7 @@
 ---
 title: Wfw Action Fund, Inc.
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00698936
 aliases:
   - WFW ACTION FUND, INC.
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Kay Granger]], [[Ashley Hinson]], [[Michelle Fischbach]], [[Nikki Haley]], [[Celeste Maloy]], [[Monica de la Cruz]], [[Deb Fischer]], [[Julie Fedorchak]], [[Maria Elvira Salazar]], [[Ann Wagner]], [[Patrick Ryan]], [[Patty Murray]]"
 related: "[[Kay Granger]]"
 checklist-na:
@@ -24,6 +24,8 @@ cash-on-hand: 417282
 independent-expenditures: 418437
 individual-contributions: 20000
 contributions-to-committees: 110750
+source-types:
+  - FEC
 ---
 
 

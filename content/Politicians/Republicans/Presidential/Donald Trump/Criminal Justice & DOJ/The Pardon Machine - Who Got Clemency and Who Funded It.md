@@ -1,7 +1,7 @@
 ---
 title: "The Pardon Machine - Who Got Clemency and Who Funded It"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -10,6 +10,10 @@ checklist-na:
   - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+source-types:
+  - Congress
+  - DOJ
+corroboration-count: 2
 ---
 #donald-trump #pardons #clemency #january-6 #doj #kash-patel #donor-pardons #jack-smith #class-analysis #follow-the-money
 

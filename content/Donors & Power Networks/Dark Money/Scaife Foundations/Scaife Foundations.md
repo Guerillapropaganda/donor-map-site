@@ -1,15 +1,14 @@
 ---
 title: "Scaife Foundations"
 type: donor
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-12
 source-tier: 3
 sector: "Dark Money"
 entity-type: "donor"
 known-gaps:
   - "No FEC contribution data"
-  - "No lobbying data"
-  - "No mapped relationships"
+  - "No lobbying disclosure data"
 source-types: []
 related: "[[Manhattan Institute for Policy Research]] · [[Hoover Institution]] · [[Bradley Foundation]]"
 checklist-na:

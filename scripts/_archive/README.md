@@ -98,3 +98,13 @@ These stay in `scripts/` root but overlap — candidates for merging in a later 
 
 **Archive created:** 2026-04-16
 **Context:** Pre-launch architecture cleanup — moved 28 scripts out of active surface to reduce confusion and script-vs-script collision risk. Full context: `content/Admin Notes/sprint-schedule.md` entry for 2026-04-16.
+
+## 2026-04-21 addition — 13 one-shot scripts
+
+Classified by the scripts-classification survey (see `content/Admin Notes/scripts-classification-2026-04-21.md`) as confirmed archive candidates — each carried an explicit "one-shot" / "one-off" / "safe to delete" marker in its header.
+
+Added to `one-time-cleanups/`:
+`_audit-missing-bioguide.cjs`, `add-pac-aliases.cjs`, `classify-ie-edges.cjs`, `cleanup-corrupt-subaward-fields.cjs`, `create-priority-stubs.cjs`, `deprecate-self-loop-edges.cjs`, `fix-registry-paths.cjs`, `migrate-edge-ids-include-role.cjs`, `rebuild-relationship-denorm.cjs`, `split-relationships-by-source.cjs`.
+
+Added to `backfills/`:
+`_backfill-bioguide.cjs`, `backfill-and-prune-related-edges.cjs`, `backfill-suggestion-approvals-to-jsonl.cjs`.

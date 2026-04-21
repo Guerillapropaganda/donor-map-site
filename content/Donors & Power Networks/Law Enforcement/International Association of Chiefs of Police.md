@@ -1,7 +1,7 @@
 ---
 title: "International Association of Chiefs of Police"
 type: donor
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -26,10 +26,10 @@ total-revenue: 42771774
 total-assets: 52099024
 source-types:
   - FederalRegister
+  - LDA
+  - USASpending
 known-gaps:
   - "No FEC contribution data"
-  - "No lobbying disclosure data"
-  - "No mapped relationships"
 related: "[[Fraternal Order of Police]] · [[PORAC - Peace Officers Research Association of California]]"
 lobbying-spend: 2245088
 lobbying-filings: 142
@@ -40,6 +40,7 @@ federal-contracts: 9
 federal-awards-total: 84410
 federal-grants: 5
 federal-grants-total: 4985976
+corroboration-count: 3
 ---
 
 

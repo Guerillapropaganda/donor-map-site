@@ -1,7 +1,7 @@
 ---
 title: Political Ad Vendors
 type: corporation
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-21
 sector: Media & Entertainment
 entity-type: Category Page
@@ -10,6 +10,11 @@ aliases:
   - Political Media Buyers
   - Political Ad Buying Firms
 internal-notes: Category page auto-created 2026-04-21 from orphan-entities-queue. Aggregates the political-ad-vendor cluster surfaced by the audit. Individual firms share FEC operating-expense edges totaling $3B+ across 2003-2024. Research Claude editorial pass pending. Per-vendor profiles may be promoted from this page when editorial warrants.
+known-gaps:
+  - "No SEC corporate filings"
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 ---
 
 

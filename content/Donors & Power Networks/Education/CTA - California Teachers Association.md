@@ -1,7 +1,7 @@
 ---
 title: CTA - California Teachers Association
 type: corporation
-content-readiness: ready
+content-readiness: data-complete
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -31,6 +31,13 @@ federal-awards-total: 1293656
 employee-contributions: 1351
 employee-contributions-total: 164575
 employee-donor-count: 245
+source-types:
+  - FEC
+  - LDA
+  - USASpending
+corroboration-count: 3
+known-gaps:
+  - "No SEC corporate filings"
 ---
 
 

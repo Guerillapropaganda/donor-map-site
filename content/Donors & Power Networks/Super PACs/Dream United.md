@@ -1,7 +1,7 @@
 ---
 title: Dream United
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00754671
 aliases:
   - DREAM UNITED
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Cory Booker]], [[Jon Ossoff]], [[Raphael Warnock]]"
 related: "[[Cory Booker]]"
 checklist-na:
@@ -22,6 +22,8 @@ total-spent: 85494
 cash-on-hand: 631
 total-raised: 26761
 individual-contributions: 26761
+source-types:
+  - FEC
 ---
 
 

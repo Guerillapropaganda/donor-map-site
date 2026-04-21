@@ -1,7 +1,7 @@
 ---
 title: "Mike Waltz"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Waltz is the defense contractor revolving door operating at the highest level of national security decision-making. He co-founded a company that received $930 million in Pentagon contracts, sold it for $92 million just before the Afghanistan withd..."
 last-updated: 2026-04-09
 source-tier: 1
@@ -13,11 +13,10 @@ state-abbr: "FL"
 top-donors:
   - "AIPAC"
 source-types:
-  - FEC
+  - Congress
 known-gaps:
-  - "No legislative record from Congress.gov"
+  - "No FEC contribution data"
   - "No voting record data"
-  - "No mapped relationships"
 last-enriched: "2026-04-09"
 related: "[[_Marco Rubio Master Profile|Rubio]] · [[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Operation Southern Spear and the Cuba Fuel Blockade]]"
 urls-first-triaged: "2026-04-15"

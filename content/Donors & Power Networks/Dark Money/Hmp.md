@@ -1,7 +1,7 @@
 ---
 title: HMP
 type: donor
-content-readiness: raw
+content-readiness: draft
 sector: Dark Money
 entity-type: Super PAC
 committee-type: Hybrid PAC (with Non-Contribution Account) - Qualified
@@ -28,6 +28,12 @@ contributions-to-committees: 270000
 employee-contributions: 32
 employee-contributions-total: 8376
 employee-donor-count: 18
+source-types:
+  - FEC
+  - USASpending
+corroboration-count: 2
+known-gaps:
+  - "No lobbying disclosure data"
 ---
 
 

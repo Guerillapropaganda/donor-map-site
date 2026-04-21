@@ -1,7 +1,7 @@
 ---
 title: Alliance Coal, LLC PAC
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00330233
 aliases:
   - ALLIANCE COAL, LLC PAC
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[James Comer]], [[Mike Carey]], [[Virginia Foxx]], [[Derrick van Orden]], [[Joe Manchin]], [[James Lankford]], [[John Barrasso]], [[Guy Reschenthaler]], [[Bruce Westerman]], [[Mike Lee]], [[Markwayne Mullin]], [[Eric Schmitt]], [[Ryan Zinke]], [[Pete Stauber]], [[Josh Brecheen]], [[Tim Sheehy]], [[Shelley Moore Capito]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -23,6 +23,8 @@ cash-on-hand: 108196
 individual-contributions: 116888
 contributions-to-committees: 11000
 related: "[[James Comer]]"
+source-types:
+  - FEC
 ---
 
 

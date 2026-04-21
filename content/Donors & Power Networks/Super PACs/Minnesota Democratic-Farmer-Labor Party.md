@@ -1,7 +1,7 @@
 ---
 title: Minnesota Democratic-Farmer-Labor Party
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00025254
 aliases:
   - MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Ilhan Omar]], [[Kelly Morrison]], [[Kamala Harris]], [[Amy Klobuchar]], [[Betty McCollum]], [[Tina Smith]]"
 related: "[[Ilhan Omar]]"
 checklist-na:
@@ -27,6 +27,8 @@ ofac-sdn-match: "true"
 last-enriched: "2026-04-16"
 ofac-programs:
   - BALKANS
+source-types:
+  - FEC
 ---
 
 

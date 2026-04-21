@@ -1,7 +1,7 @@
 ---
 title: Political Action Committee of the American Association of Orthopaedic Surgeons
 type: donor
-content-readiness: raw
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -11,7 +11,7 @@ fec-committee-id: C00343137
 aliases:
   - POLITICAL ACTION COMMITTEE OF THE AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS
 known-gaps:
-  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+  - "No lobbying disclosure data"
 politicians-funded: "[[Brett Guthrie]], [[John Barrasso]], [[Ron Estes]], [[Richard Blumenthal]], [[Michelle Fischbach]], [[Mark Green]], [[Andre Carson]], [[Mark Kelly]], [[Chrissy Houlahan]], [[Diana Degette]], [[John Joyce]], [[Lloyd Doggett]], [[Nicole Malliotakis]], [[Jodey Arrington]], [[Tim Walberg]], [[Jimmy Panetta]], [[Adrian Smith]], [[Ron Wyden]], [[Markwayne Mullin]], [[Greg Landsman]], [[Madeleine Dean]], [[French Hill]], [[Julie Johnson]], [[Brad Finstad]], [[Darren Soto]], [[Maria Elvira Salazar]], [[Rick Scott]], [[Steve Cohen]], [[Richard Hudson]], [[Troy Balderson]], [[Daniel Meuser]], [[Nathaniel Moran]], [[Morgan Luttrell]], [[Brendan Boyle]], [[Troy Downing]], [[Joseph Morelle]], [[Young Kim]], [[Kat Cammack]], [[Mike Thompson]], [[Mark Pocan]], [[Darin Lahood]], [[John Hoeven]], [[Kelly Morrison]], [[Tammy Duckworth]], [[Bryan Steil]], [[Bobby Scott]], [[Suhas Subramanyam]], [[Marie Gluesenkamp Perez]], [[Ronny Jackson]], [[Eric Sorensen]], [[Mike Carey]], [[Sherrod Brown]], [[Mariannette Miller-Meeks]], [[Lisa Murkowski]], [[Claudia Tenney]], [[Raphael Warnock]], [[Joe Wilson]], [[Mike Kennedy]], [[Lisa Blunt Rochester]], [[Ashley Hinson]], [[Steve Scalise]], [[Jake Auchincloss]], [[Raja Krishnamoorthi]], [[Mark Takano]], [[Virginia Foxx]], [[Jason Smith]], [[Sean Casten]], [[Jacky Rosen]], [[Diana Harshbarger]], [[Richard Neal]], [[Hakeem Jeffries]], [[Richard McCormick]], [[Kevin McCarthy]], [[Kim Schrier]], [[Marsha Blackburn]], [[Roger Marshall]], [[John Boozman]], [[Dan Sullivan]], [[Julia Brownley]], [[David Rouzer]], [[Ted Lieu]], [[Josh Harder]], [[Bruce Westerman]], [[Todd Young]], [[Pete Aguilar]], [[Adam Gray]], [[Shelley Moore Capito]], [[Greg Stanton]], [[Henry Cuellar]], [[John Kennedy]], [[Maxine Dexter]], [[Nancy Mace]], [[Jimmy Gomez]], [[Josh Gottheimer]], [[August Pfluger]], [[Rick Crawford]], [[Jason Crow]], [[Pete Sessions]], [[David Kustoff]], [[Katie Britt]], [[Erin Houchin]], [[Tim Sheehy]], [[Patty Murray]], [[Paul Tonko]], [[Guy Reschenthaler]], [[Brittany Pettersen]], [[Debbie Dingell]], [[Frank Pallone]], [[David Scott]], [[Brandon Gill]], [[Glenn Thompson]], [[James Lankford]], [[Dwight Evans]], [[Catherine Cortez Masto]], [[Kay Granger]], [[Rosa DeLauro]], [[Ron Johnson]], [[Cathy McMorris Rodgers]], [[Jerry Moran]], [[Lance Gooden]], [[Tim Burchett]], [[Darrell Issa]], [[Judy Chu]], [[Tammy Baldwin]], [[Ryan Zinke]], [[Eric Swalwell]], [[Lois Frankel]], [[Dan Crenshaw]], [[John James]], [[Rudy Yakym]], [[Debbie Wasserman Schultz]], [[Lloyd Smucker]], [[John Thune]], [[Tim Scott]], [[Chris Coons]], [[Mark Warner]], [[Steve Daines]], [[Mike Flood]], [[Emanuel Cleaver]], [[Brian Babin]], [[Mike Lee]], [[Elise Stefanik]], [[Susie Lee]], [[Tom Cole]], [[Lori Trahan]], [[Sharice Davids]], [[Kevin Cramer]], [[John Hickenlooper]], [[Monica de la Cruz]], [[Seth Magaziner]], [[Kathy Castor]], [[Dusty Johnson]], [[Pete Stauber]], [[Martin Heinrich]], [[Steven Horsford]], [[Jay Obernolte]], [[John Cornyn]], [[Suzanne Bonamici]], [[Teresa Leger Fernandez]], [[Victoria Spartz]], [[Ashley Moody]], [[Sara Jacobs]], [[David Schweikert]], [[Alex Padilla]], [[Russell Fry]], [[Frank Lucas]], [[Andy Kim]], [[Raul Ruiz]], [[Susan Collins]], [[Thom Tillis]], [[Mark DeSaulnier]], [[Steve Womack]], [[Summer Lee]], [[Gary Peters]], [[Patrick Ryan]], [[Tracey Mann]], [[Nancy Pelosi]], [[Ann Wagner]], [[Mike Rounds]], [[Vicente Gonzalez]], [[Donald Norcross]], [[Deb Fischer]], [[Jim Himes]]"
 related: "[[John Barrasso]] · [[Brett Guthrie]]"
 checklist-na:
@@ -23,6 +23,8 @@ total-spent: 1007794
 cash-on-hand: 449765
 individual-contributions: 977447
 contributions-to-committees: 934500
+source-types:
+  - FEC
 ---
 
 

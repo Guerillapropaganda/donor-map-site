@@ -1,7 +1,7 @@
 ---
 title: Citigroup
 type: corporation
-content-readiness: ready
+content-readiness: data-complete
 last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -67,6 +67,13 @@ contributions-to-committees: 584500
 employee-contributions: 38826
 employee-contributions-total: 4823803
 employee-donor-count: 2689
+source-types:
+  - FEC
+  - LDA
+  - SEC
+  - Treasury
+  - USASpending
+corroboration-count: 5
 ---
 
 
