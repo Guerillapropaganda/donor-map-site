@@ -155,6 +155,35 @@ top-donors: "[[Andy Harris]], [[Anthem - Elevance Health]], [[Associated General
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 50 |
+| Enacted into law | 1 |
+| Top policy areas | International Affairs · Armed Forces and National Security · Health |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-15 | 2025-06-12 | HJRES.87-119 | A joint resolution providing for congressional disapproval under chapter 8 of title 5, Uni |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-27 | HR.8140-119 | Congress | No Work, No Pay Act of 2025 |
+| 2026-03-12 | HR.7904-119 | Armed Forces and National Security | Protecting America’s Working Dogs Act of 2026 |
+| 2026-01-07 | HR.6965-119 | Taxation | IMPROVE Safety for Schools Act |
+| 2026-01-07 | HR.6964-119 | Education | To amend the National Security Act of 1947 to include school security as an element of the |
+| 2025-12-26 | HR.6932-119 | Education | IDEAL Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: J000307` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # John James
 
 <!-- auto:congress-bills start -->

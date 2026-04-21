@@ -119,3 +119,32 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 46 |
+| Enacted into law | 1 |
+| Top policy areas | Armed Forces and National Security · Commerce · Government Operations and Politics |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-186 | 2024-12-23 | HR.8663-118 | DETECT Fentanyl and Xylazine Act of 2024 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-06 | HR.8200-119 | Transportation and Public Works | Interstate Ferry Fairness Act |
+| 2025-09-30 | HR.5641-119 | Government Operations and Politics | To designate the facility of the United States Postal Service located at 240 Main Street i |
+| 2025-09-30 | HR.5643-119 | Armed Forces and National Security | To name the Department of Veterans Affairs medical center located in Northport, New York,  |
+| 2025-09-30 | HR.5642-119 | Government Operations and Politics | To designate the facility of the United States Postal Service located at 47 Echo Avenue in |
+| 2025-09-26 | HR.5589-119 | Armed Forces and National Security | To name the Department of Veterans Affairs clinic located in Riverhead, New York, as the " |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: L000598` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

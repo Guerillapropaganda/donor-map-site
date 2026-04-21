@@ -127,11 +127,11 @@ top-policy-area: Health
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,661 |
-| Votes with party majority | 2,323 |
-| Party-line loyalty | 87.3% |
-| Deviations from party | 288 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,600 |
+| Votes with party majority | 3,154 |
+| Party-line loyalty | 87.6% |
+| Deviations from party | 395 |
 
 **Coverage:**
 
@@ -139,12 +139,14 @@ top-policy-area: Health
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 288):**
+**Most recent party-line deviations (top 10 of 395):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -161,6 +163,39 @@ top-policy-area: Health
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 554 |
+| Enacted into law | 6 |
+| Top policy areas | Transportation and Public Works · Public Lands and Natural Resources · Government Operations and Politics |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-134 | 2022-06-07 | S.2514-117 | To rename the Provo Veterans Center in Orem, Utah, as the "Gail S. Halvorsen 'Candy Bomber |
+| PL 117-139 | 2022-06-07 | S.4119-117 | CBO’s Estimate of the Statutory Pay-As-You-Go Effects of S. 4119, the RECA Extension Act o |
+| PL 116-245 | 2020-12-21 | S.4902-116 | A bill to designate the United States courthouse located at 351 South West Temple in Salt  |
+| PL 116-10 | 2019-03-21 | S.49-116 | To designate the outstation of the Department of Veterans Affairs in North Ogden, Utah, as |
+| — | 2011-03-30 | S.683-112 | Box Elder Utah Land Conveyance Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | S.4336-119 | — | A bill to amend the Pension Funding Equity Act of 2004 to repeal the antitrust exemption a |
+| 2026-04-14 | S.4284-119 | — | Nuclear Energy Innovation and Deployment Act of 2026 |
+| 2026-04-13 | S.4280-119 | — | SAFE Act |
+| 2026-03-12 | S.4090-119 | Public Lands and Natural Resources | Protecting Access to American Products Act |
+| 2026-03-05 | S.4013-119 | Crime and Law Enforcement | National Constitutional Carry Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: L000577` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #mike-lee #senate #utah #federalist-society #antitrust #tech-deference #oil-gas #public-lands #january-6 #class-analysis
 tags: #republican

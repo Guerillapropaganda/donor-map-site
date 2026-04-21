@@ -528,3 +528,26 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[Bloomberg: Blackstone sovereign wealth fund relationships](https://www.bloomberg.com/blackstone-sovereign-wealth)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Blackstone%20Group%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=Blackstone%20Group&srt=1&pg=1&pgsz=25&isAdv=false)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 5 |
+| Leak sources | Panama Papers (3) · Offshore Leaks (1) · Bahamas Leaks (1) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| FACTS SERVICES S.A. | intermediary | — | Panama Papers |
+| Adam R. Schiffman P.A. | intermediary | — | Offshore Leaks |
+| THE BEARER | officer | — | Panama Papers |
+| THE BEARER | officer | — | Panama Papers |
+| OVERSEAS MANAGEMENT COMPANY (BAHAMAS) | intermediary | — | Bahamas Leaks |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: Blackstone Group` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

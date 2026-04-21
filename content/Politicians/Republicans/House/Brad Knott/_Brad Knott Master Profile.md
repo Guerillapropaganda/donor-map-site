@@ -140,6 +140,28 @@ fec-candidate-id: H4NC13116
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 4 |
+| Enacted into law | 0 |
+| Top policy areas | Immigration · Transportation and Public Works |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-14 | HR.8267-119 | — | SAFER Transport Act |
+| 2025-11-21 | HR.6267-119 | Transportation and Public Works | H.R. 6267, Aviation Supply Chain Safety and Security Digitization Act of 2025 |
+| 2025-06-23 | HR.4070-119 | Immigration | H.R. 4070, Tren de Aragua Border Security Threat Assessment Act |
+| 2025-05-07 | HR.3242-119 | Immigration | Punishing Illegal Immigrant Felons Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: K000405` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Brad Knott
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

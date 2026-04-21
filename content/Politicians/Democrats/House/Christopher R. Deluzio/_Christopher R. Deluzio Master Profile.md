@@ -120,3 +120,26 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 47 |
+| Enacted into law | 0 |
+| Top policy areas | Armed Forces and National Security · Transportation and Public Works · Labor and Employment |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-27 | HR.8135-119 | Housing and Community Development | Cost-of-living Emergency Act |
+| 2026-03-19 | HR.8003-119 | Transportation and Public Works | Expanding the Fast Track Act of 2026 |
+| 2026-03-02 | HR.7748-119 | — | Railway Safety Act of 2026 |
+| 2026-01-27 | HR.7249-119 | Energy | Bond Improvement and Reclamation Assurance Act of 2026 |
+| 2026-01-21 | HR.7174-119 | Armed Forces and National Security | Full Cost of War Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: D000530` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

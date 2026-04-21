@@ -95,25 +95,30 @@ top-policy-area: Government Operations and Politics
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,735 |
-| Substantive votes (Y/N) | 1,523 |
-| Votes with party majority | 1,509 |
-| Party-line loyalty | 99.1% |
-| Deviations from party | 14 |
+| Roll-call votes tracked | 3,159 |
+| Substantive votes (Y/N) | 2,809 |
+| Votes with party majority | 2,754 |
+| Party-line loyalty | 98.0% |
+| Deviations from party | 54 |
 
 **Coverage:**
 
-- house 117/1: 9 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 46 votes
+- house 116/2: 40 votes
+- house 117/1: 62 votes
+- house 117/2: 75 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 14):**
+**Most recent party-line deviations (top 10 of 54):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -130,6 +135,39 @@ top-policy-area: Government Operations and Politics
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 29 |
+| Enacted into law | 5 |
+| Top policy areas | Private Legislation · Health · Public Lands and Natural Resources |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-32 | 2021-08-05 | HR.3325-117 | To award three congressional gold medals to the United States Capitol Police and those who |
+| — | 2009-07-07 | HR.3119-111 | To designate the facility of the United States Postal Service located at 867 Stockton Stre |
+| — | 2008-01-28 | HR.5140-110 | Giving Resources and Opportunities to the Workforce Act of 2008 |
+| — | 2007-07-30 | HR.3221-110 | Energy Independence and Security Act of 2007 |
+| — | 2005-04-28 | HR.1953-109 | San Francisco Old Mint Commemorative Coin Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2021-02-18 | HR.1085-117 | Congress | To award three congressional gold medals to the United States Capitol Police and those who |
+| 2019-03-05 | HR.1548-116 | — | H.R. 1548, a bill for the relief of Maria Carmen Castro Ramirez and J. Refugio Carreno Roj |
+| 2017-01-31 | HR.780-115 | — | For the relief of Maria Carmen Castro Ramirez and J. Refugio Carreno Rojas. |
+| 2015-12-18 | HR.4290-114 | Economics and Public Finance | Puerto Rico Emergency Financial Stability Act of 2015 |
+| 2015-01-14 | HR.396-114 | — | For the relief of Maria Carmen Castro Ramirez and J. Refugio Carreno Rojas. |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: P000197` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

@@ -136,25 +136,30 @@ donors:
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,710 |
-| Votes with party majority | 1,662 |
-| Party-line loyalty | 97.2% |
-| Deviations from party | 48 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,777 |
+| Votes with party majority | 4,649 |
+| Party-line loyalty | 97.3% |
+| Deviations from party | 127 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 48):**
+**Most recent party-line deviations (top 10 of 127):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -171,6 +176,39 @@ donors:
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 161 |
+| Enacted into law | 7 |
+| Top policy areas | Armed Forces and National Security · Crime and Law Enforcement · Education |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-20 | 2023-11-13 | HR.366-118 | Korean American VALOR Act |
+| PL 117-4 | 2021-03-24 | HR.1276-117 | SAVE LIVES Act |
+| PL 116-307 | 2021-01-05 | HR.5983-116 | H.R. 5983, a bill to designate the facility of the United States Postal Service located at |
+| PL 116-214 | 2020-12-05 | HR.8247-116 | Leave no Veteran Behind Act |
+| PL 116-155 | 2020-08-08 | HR.4920-116 | Commander John Scott Hannon Veterans Mental Health Care Improvement Act of 2019 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-05 | HR.7853-119 | Health | PrEP Access and Coverage Act of 2026 |
+| 2026-01-23 | HR.7238-119 | Armed Forces and National Security | Commission on Equity and Reconciliation in the Uniformed Services Act |
+| 2026-01-13 | HR.7048-119 | Commerce | Unsubscribe Act of 2025 |
+| 2025-10-17 | HR.5787-119 | Government Operations and Politics | BALL Act |
+| 2025-10-17 | HR.5786-119 | Government Operations and Politics | White House NOT FOR SALE Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: T000472` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

@@ -149,11 +149,11 @@ donors:
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,723 |
-| Votes with party majority | 2,558 |
-| Party-line loyalty | 93.9% |
-| Deviations from party | 18 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,657 |
+| Votes with party majority | 3,483 |
+| Party-line loyalty | 95.2% |
+| Deviations from party | 27 |
 
 **Coverage:**
 
@@ -161,12 +161,14 @@ donors:
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 18):**
+**Most recent party-line deviations (top 10 of 27):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -183,6 +185,36 @@ donors:
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 574 |
+| Enacted into law | 2 |
+| Top policy areas | Armed Forces and National Security · Health · Crime and Law Enforcement |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-362 | 2023-01-05 | S.5329-117 | Supporting STEM Learning Opportunities Act |
+| PL 116-179 | 2020-10-20 | S.1321-116 | Defending American Security from Kremlin Aggression Act of 2019 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-26 | S.4237-119 | Armed Forces and National Security | A bill to amend title 38, United States Code, to modify the eligibility requirements for t |
+| 2026-03-26 | S.4269-119 | — | Restoring College Access and Affordability Act |
+| 2026-03-26 | SJRES.150-119 | Finance and Financial Sector | A joint resolution providing for congressional disapproval under chapter 8 of title 5, Uni |
+| 2026-03-19 | S.4140-119 | Armed Forces and National Security | Carlton H. Ingram Veterans’ Benefits Protection Act |
+| 2026-03-19 | S.4149-119 | Health | Social Determinants for Moms Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: B001277` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

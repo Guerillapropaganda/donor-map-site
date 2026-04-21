@@ -131,6 +131,29 @@ top-donors: "[[Microsoft]], [[Marathon Petroleum]], [[Valero Energy]], [[Nationa
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 31 |
+| Enacted into law | 0 |
+| Top policy areas | Public Lands and Natural Resources · Energy · Science, Technology, Communications |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | HR.8335-119 | — | To amend the Immigration and Nationality Act to reform the H-1B nonimmigrant visa program, |
+| 2026-03-24 | HR.8051-119 | Education | TECH Act |
+| 2026-03-05 | HR.7831-119 | Energy | License to Drill Act |
+| 2026-03-04 | HR.7794-119 | Families | Stop Child Care Funding Fraud Act of 2026 |
+| 2026-02-13 | HR.7578-119 | — | TORCH Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: K000403` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Mike Kennedy
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

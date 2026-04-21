@@ -105,25 +105,28 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 116th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,725 |
-| Votes with party majority | 1,707 |
+| Roll-call votes tracked | 3,678 |
+| Substantive votes (Y/N) | 3,636 |
+| Votes with party majority | 3,599 |
 | Party-line loyalty | 99.0% |
-| Deviations from party | 18 |
+| Deviations from party | 37 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 18):**
+**Most recent party-line deviations (top 10 of 37):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -140,3 +143,36 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 313 |
+| Enacted into law | 9 |
+| Top policy areas | Public Lands and Natural Resources · Armed Forces and National Security · Government Operations and Politics |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-226 | 2025-01-04 | HR.1318-118 | Women's Suffrage National Monument Location Act |
+| PL 118-174 | 2024-12-23 | HR.5770-118 | WATER Data Improvement Act |
+| PL 118-170 | 2024-12-23 | HR.4385-118 | Drought Preparedness Act |
+| PL 117-286 | 2022-12-27 | HR.5961-117 | To make revisions in title 5, United States Code, as necessary to keep the title current,  |
+| PL 117-106 | 2022-03-18 | HR.2497-117 | Amache National Historic Site Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-27 | HR.8149-119 | Agriculture and Food | Agricultural Access to Addiction and Mental Health Care Act |
+| 2026-03-24 | HR.8061-119 | Public Lands and Natural Resources | Forest Resources Accountability Act |
+| 2026-02-25 | HR.7706-119 | Government Operations and Politics | Federal Retirement Safety Act |
+| 2026-02-20 | HR.7627-119 | Native Americans | Tribal Conservation Priorities Inclusion Act |
+| 2026-02-04 | HR.7370-119 | Environmental Protection | REUSE Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: N000191` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

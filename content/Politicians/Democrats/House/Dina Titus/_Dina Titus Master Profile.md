@@ -118,25 +118,30 @@ top-donors: "[[Unite Here Tip Campaign Committee]], [[Emily's List]], [[DCCC - D
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,613 |
-| Votes with party majority | 1,563 |
-| Party-line loyalty | 96.9% |
-| Deviations from party | 50 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,606 |
+| Votes with party majority | 4,487 |
+| Party-line loyalty | 97.4% |
+| Deviations from party | 118 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 50):**
+**Most recent party-line deviations (top 10 of 118):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -153,6 +158,35 @@ top-donors: "[[Unite Here Tip Campaign Committee]], [[Emily's List]], [[DCCC - D
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 198 |
+| Enacted into law | 1 |
+| Top policy areas | Armed Forces and National Security · Taxation · Transportation and Public Works |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 116-13 | 2019-04-12 | HR.276-116 | Recognizing Achievement in Classified School Employees Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-15 | HR.8315-119 | — | To amend title 49, United States Code, to clarify the assistance available for recipients  |
+| 2026-03-30 | HR.8167-119 | — | To amend the Foreign Service Act of 1980 to establish a Diplomatic Reserve Corps. |
+| 2026-03-18 | HR.7990-119 | International Affairs | State Department Disability Policy and Accommodations Act |
+| 2026-03-12 | HR.7928-119 | — | Thermal Runaway Reduction Act of 2026 |
+| 2026-03-12 | HR.7929-119 | Transportation and Public Works | FLARE Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: T000468` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Dina Titus
 

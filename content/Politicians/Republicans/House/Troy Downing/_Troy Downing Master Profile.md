@@ -132,6 +132,35 @@ top-donors: "[[Citigroup]], [[National Association of Realtors]], [[Political Ac
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 22 |
+| Enacted into law | 1 |
+| Top policy areas | Finance and Financial Sector · Native Americans · Public Lands and Natural Resources |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-48 | 2025-12-11 | HJRES.104-119 | Providing for consideration of the bill (H.R. 4553) making appropriations for energy and w |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-26 | HR.8092-119 | Native Americans | Native American Housing Assistance and Self-Determination Modernization Act of 2026 |
+| 2026-01-27 | HR.7250-119 | Water Resources Development | Fort Peck Water System Reauthorization Act |
+| 2026-01-16 | HR.7130-119 | Finance and Financial Sector | McCarran-Ferguson Restoration Act |
+| 2025-12-17 | HR.6788-119 | Public Lands and Natural Resources | Montana Sportsmen Conservation Act |
+| 2025-12-10 | HR.6568-119 | Water Resources Development | Lower Yellowstone River Native Fish Conservation Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: D000634` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Troy Downing
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

@@ -102,25 +102,28 @@ top-donors: "[[Associated General Contractors of America Political Action Commit
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 116th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,704 |
-| Votes with party majority | 1,627 |
-| Party-line loyalty | 95.5% |
-| Deviations from party | 77 |
+| Roll-call votes tracked | 3,678 |
+| Substantive votes (Y/N) | 3,507 |
+| Votes with party majority | 3,351 |
+| Party-line loyalty | 95.6% |
+| Deviations from party | 156 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 77):**
+**Most recent party-line deviations (top 10 of 156):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -137,6 +140,37 @@ top-donors: "[[Associated General Contractors of America Political Action Commit
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 29 |
+| Enacted into law | 3 |
+| Top policy areas | Immigration · International Affairs · Government Operations and Politics |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-257 | 2022-12-21 | HR.2220-117 | A bill to amend title 40, United States Code, to modify the treatment of certain bargain-p |
+| PL 116-227 | 2020-12-21 | HR.2246-116 | A bill to designate the facility of the United States Postal Service located at 201 West C |
+| PL 116-64 | 2019-10-09 | HR.1590-116 | H.R. 1590, Terrorist and Foreign Fighter Travel Exercise Act of 2019 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2025-11-12 | HR.6029-119 | Finance and Financial Sector | To amend the Bank Secrecy Act to exempt transactions with respect to cash reward payments  |
+| 2025-06-23 | HR.4071-119 | International Affairs | H.R. 4071, Combatting International Drug Trafficking and Human Smuggling Partnership Act o |
+| 2025-04-30 | HR.3102-119 | Health | Rural Health Focus Act |
+| 2025-02-27 | HR.1692-119 | Government Operations and Politics | PATHS Act |
+| 2024-09-18 | HR.9653-118 | Immigration | EMAP Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: G000591` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Michael Guest
 

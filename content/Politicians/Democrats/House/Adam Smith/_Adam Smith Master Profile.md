@@ -151,25 +151,30 @@ donors: [[Boeing]] [[Northrop Grumman]] [[Raytheon (RTX)|Raytheon]] [[Lockheed M
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,696 |
-| Votes with party majority | 1,679 |
-| Party-line loyalty | 99.0% |
-| Deviations from party | 17 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,755 |
+| Votes with party majority | 4,659 |
+| Party-line loyalty | 98.0% |
+| Deviations from party | 95 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 17):**
+**Most recent party-line deviations (top 10 of 95):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -186,6 +191,37 @@ donors: [[Boeing]] [[Northrop Grumman]] [[Raytheon (RTX)|Raytheon]] [[Lockheed M
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 167 |
+| Enacted into law | 3 |
+| Top policy areas | Armed Forces and National Security · Health · Transportation and Public Works |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-1 | 2021-01-22 | HR.335-117 | A bill to provide for an exception to a limitation against appointment of persons as Secre |
+| PL 116-283 | 2021-01-01 | HR.6395-116 | OVERSEA Act of 2020 |
+| PL 115-379 | 2018-12-21 | HR.6628-115 | To designate the facility of the United States Postal Service located at 4301 Northeast 4t |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2025-11-21 | HR.6281-119 | Energy | CHARGE Act of 2025 |
+| 2025-10-28 | HR.5859-119 | Health | Behavioral Health Crisis Care Centers Act of 2025 |
+| 2025-10-21 | HR.5806-119 | Labor and Employment | Pre-Apprenticeship Wrap-around Support Services Fund Act of 2025 |
+| 2025-10-21 | HR.5807-119 | Labor and Employment | Empowering Individuals to Succeed Through Education and Workforce Training Act |
+| 2025-10-17 | HR.5785-119 | Agriculture and Food | Voluntary Grazing Permit Retirement Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S000510` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |
@@ -329,6 +365,30 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 **The Constituent Service Defense:** Smith's standard response to donor influence questions is that defense contributions don't affect his voting and that defense contractors are major employers in his district. The second part is true — Boeing operates in his district. But [[Northrop Grumman]], his #1 individual donor source, has zero facilities in Washington State. The constituent service argument breaks down precisely where it matters most.
 
 ---
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 6 |
+| Leak sources | Panama Papers (5) · Paradise Papers - Appleby (1) |
+| Top jurisdictions | Bermuda (1) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| MERIDIAN CORPORATE SERVICES | intermediary | — | Panama Papers |
+| ANTOINE HERVE MARIE RIVIERE | officer | — | Panama Papers |
+| CHEZ ANTOINE LTD | officer | — | Panama Papers |
+| ADAM SMITH ASSOCIATES PVT LTD. | officer | — | Panama Papers |
+| ADAM SMITH ASSOCIATES PVT LTD. | officer | — | Panama Papers |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: Adam Smith` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->
 
 ## Sources
 

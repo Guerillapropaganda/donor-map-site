@@ -144,6 +144,29 @@ top-donors: "[[United Food and Commercial Workers International Union Active Bal
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 31 |
+| Enacted into law | 0 |
+| Top policy areas | Transportation and Public Works · Environmental Protection · Armed Forces and National Security |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-18 | HR.7985-119 | Commerce | CHATBOT Act |
+| 2026-03-16 | HR.7945-119 | Commerce | Nitrous Oxide Safety Act of 2026 |
+| 2026-03-03 | HR.7770-119 | Taxation | Hearing Aid Assistance Tax Credit Act |
+| 2026-02-26 | HR.7741-119 | — | To promote competition in the area of digital energy management tools, enhance consumer ac |
+| 2026-02-09 | HR.7440-119 | Public Lands and Natural Resources | To direct the Secretary of Transportation to convey all right, title, and interest to cert |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001225` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Kevin Mullin
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

@@ -313,3 +313,23 @@ Sheldon Adelson exemplifies the mega-donor as foreign policy architect: he used 
 Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
 
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Las%20Vegas%20Sands%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 1 |
+| Leak sources | Paradise Papers - Appleby (1) |
+| Top jurisdictions | Bermuda (1) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| Sands Aviation Bermuda Ltd. | entity | Bermuda | Paradise Papers - Appleby |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: Las Vegas Sands` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

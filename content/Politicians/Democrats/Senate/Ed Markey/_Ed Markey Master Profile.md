@@ -130,11 +130,11 @@ donors: "[[Sierra Club Political Committee]] · [[League of Conservation Voters]
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,638 |
-| Votes with party majority | 2,309 |
-| Party-line loyalty | 87.5% |
-| Deviations from party | 120 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,574 |
+| Votes with party majority | 3,222 |
+| Party-line loyalty | 90.2% |
+| Deviations from party | 143 |
 
 **Coverage:**
 
@@ -142,12 +142,14 @@ donors: "[[Sierra Club Political Committee]] · [[League of Conservation Voters]
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 120):**
+**Most recent party-line deviations (top 10 of 143):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -164,6 +166,36 @@ donors: "[[Sierra Club Political Committee]] · [[League of Conservation Voters]
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 858 |
+| Enacted into law | 2 |
+| Top policy areas | Health · Transportation and Public Works · Energy |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-85 | 2022-02-01 | S.1404-117 | Ghost Army Congressional Gold Medal Act |
+| PL 117-17 | 2021-06-17 | S.475-117 | Juneteenth National Independence Day Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | S.4337-119 | — | A bill to prohibit the use of certain emergency authority to keep a fossil fuel-powered el |
+| 2026-04-16 | S.4321-119 | — | A bill to reauthorize the YouthBuild program, and for other purposes. |
+| 2026-04-16 | S.4322-119 | — | A bill to update the 21st Century Communications and Video Accessibility Act of 2010. |
+| 2026-03-26 | S.4243-119 | International Affairs | No Nuclear Weapons for Saudi Arabia Act of 2026 |
+| 2026-03-25 | S.4199-119 | Science, Technology, Communications | Youth AI Privacy Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M000133` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #ed-markey #democrat #massachusetts #senate #ranking-member #small-business #commerce #telecom #green-new-deal #climate #childrens-privacy #coppa #aoc #telecommunications-act #phase-6-gavel-power
 

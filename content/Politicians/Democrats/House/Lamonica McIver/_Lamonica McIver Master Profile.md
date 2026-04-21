@@ -133,6 +133,29 @@ top-donors: "[[Mark Takano]], [[American Hospital Association PAC]], [[National 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 11 |
+| Enacted into law | 0 |
+| Top policy areas | Government Operations and Politics · Transportation and Public Works · Crime and Law Enforcement |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-18 | HR.7982-119 | Immigration | Protect World Cup Attendees Act |
+| 2026-03-02 | HR.7751-119 | Transportation and Public Works | Parks to People Active Transportation Act |
+| 2025-12-17 | HR.6803-119 | Transportation and Public Works | To designate Newark Penn Station in Newark, New Jersey as the "Donald M. Payne, Jr. Transi |
+| 2025-12-16 | HR.6758-119 | Taxation | UPLIFT Act |
+| 2025-10-17 | HR.5778-119 | Commerce | H.R. 5778, Improving SBA Engagement on Employee Ownership Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001229` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Lamonica McIver
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

@@ -148,11 +148,11 @@ top-policy-area: International Affairs
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,719 |
-| Votes with party majority | 2,634 |
-| Party-line loyalty | 96.9% |
-| Deviations from party | 31 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,608 |
+| Votes with party majority | 3,377 |
+| Party-line loyalty | 93.6% |
+| Deviations from party | 176 |
 
 **Coverage:**
 
@@ -160,12 +160,14 @@ top-policy-area: International Affairs
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 31):**
+**Most recent party-line deviations (top 10 of 176):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -182,6 +184,39 @@ top-policy-area: International Affairs
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 717 |
+| Enacted into law | 48 |
+| Top policy areas | Crime and Law Enforcement · Armed Forces and National Security · Taxation |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-82 | 2026-04-13 | S.1884-119 | To clarify the Holocaust Expropriated Art Recovery Act of 2016, to appropriately limit the |
+| PL 119-30 | 2025-07-24 | S.1596-119 | To rename the Anahuac National Wildlife Refuge located in the State of Texas as the "Jocel |
+| — | 2025-03-14 | S.1071-119 | BIOSECURE Act of 2025 |
+| PL 118-193 | 2024-12-23 | S.1147-118 | Jenna Quinn Law |
+| PL 118-98 | 2024-10-01 | S.794-118 | National Defense Authorization Act for Fiscal Year 2024 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | S.4316-119 | — | A bill to ensure that State and local law enforcement may cooperate with Federal officials |
+| 2026-04-14 | S.4293-119 | — | A bill to close and dispose of Federal ownership of the Cesar E. Chavez National Monument  |
+| 2026-03-26 | S.4224-119 | Immigration | Dalilah’s Law Act |
+| 2026-03-26 | S.4260-119 | Crime and Law Enforcement | Child Predators Accountability Act |
+| 2026-03-25 | S.4205-119 | Public Lands and Natural Resources | No Funding to Honor Crime Scenes Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C001056` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #master-profile #republican #texas #senate #judiciary #intelligence #oil-gas #defense #border #finance #gun-bill #nra #cornyn-cruz
 

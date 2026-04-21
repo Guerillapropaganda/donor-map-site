@@ -121,6 +121,39 @@ urls-first-triaged: "2026-04-15"
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 264 |
+| Enacted into law | 12 |
+| Top policy areas | Native Americans · Armed Forces and National Security · Public Lands and Natural Resources |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 115-166 | 2018-04-13 | S.772-115 | AMBER Alert in Indian Country Act of 2017 |
+| PL 115-2 | 2017-01-20 | S.84-115 | To provide for an exception to a limitation against appointment of persons as Secretary of |
+| PL 114-328 | 2016-12-23 | S.2943-114 | To authorize the award of the Distinguished Service Cross to Chaplain (First Lieutenant) J |
+| — | 2011-01-26 | S.188-112 | To designate the United States courthouse under construction at 98 West First Street, Yuma |
+| — | 2009-01-06 | S.39-111 | To repeal section 10(f) of Public Law 93-531, commonly known as the "Bennett Freeze". |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2017-12-01 | S.2184-115 | Armed Forces and National Security | Caring for our Veterans Act of 2017 |
+| 2017-11-02 | S.2060-115 | International Affairs | Burma Human Rights and Freedom Act of 2018 |
+| 2017-09-28 | S.1894-115 | Transportation and Public Works | A bill to exempt Puerto Rico from the coastwise laws of the United States (commonly known  |
+| 2017-07-13 | S.1561-115 | Transportation and Public Works | Open America's Waters Act of 2017 |
+| 2017-07-11 | S.1527-115 | Armed Forces and National Security | Veterans Access to Care Act of 2017 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M000303` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 #politician #republican #senator #presidential2008 #maverick-brand #keating-five
 
 **related:** [[_Lindsey Graham Master Profile|Lindsey Graham]] · [[_Donald Trump Master Profile|Trump]] · [[Lockheed Martin]] · [[Boeing]] · [[Raytheon Technologies]] · [[Northrop Grumman]] · [[AT&T - American Telephone & Telegraph|AT&T]] · [[Hensley & Co]]

@@ -128,6 +128,29 @@ top-policy-area: Crime and Law Enforcement
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 10 |
+| Enacted into law | 0 |
+| Top policy areas | Crime and Law Enforcement · Government Operations and Politics · Civil Rights and Liberties, Minority Issues |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2025-09-15 | HR.5361-119 | Crime and Law Enforcement | Federal Police Camera and Accountability Act |
+| 2025-03-26 | HR.2368-119 | Crime and Law Enforcement | Raise the Age Act of 2025 |
+| 2024-09-25 | HR.9832-118 | Commerce | CONTRACTS Act of 2024 |
+| 2024-08-02 | HR.9261-118 | Crime and Law Enforcement | Continued Presence Improvement Act |
+| 2024-07-25 | HR.9154-118 | Finance and Financial Sector | Bankruptcy Administration Improvement Act of 2024 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: I000058` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Glenn Ivey
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

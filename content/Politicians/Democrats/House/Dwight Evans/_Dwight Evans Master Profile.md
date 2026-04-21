@@ -113,25 +113,30 @@ top-donors: "[[National Multifamily Housing Council]], [[United Food and Commerc
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,306 |
-| Votes with party majority | 1,277 |
-| Party-line loyalty | 97.8% |
-| Deviations from party | 29 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,395 |
+| Votes with party majority | 4,303 |
+| Party-line loyalty | 97.9% |
+| Deviations from party | 91 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 29):**
+**Most recent party-line deviations (top 10 of 91):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -148,6 +153,35 @@ top-donors: "[[National Multifamily Housing Council]], [[United Food and Commerc
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 47 |
+| Enacted into law | 1 |
+| Top policy areas | Commerce · Health · Taxation |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 115-370 | 2018-12-21 | HR.6347-115 | 7(a) Real Estate Appraisal Harmonization Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-12 | HR.7532-119 | Government Operations and Politics | To designate the facility of the United States Postal Service located at 4431 Main Street  |
+| 2025-09-16 | HR.5384-119 | Health | MORE Act |
+| 2025-09-16 | HR.5383-119 | Health | Mentoring and Supporting Families Act |
+| 2025-06-03 | HR.3681-119 | Labor and Employment | Leveraging Educational Opportunity Networks Act |
+| 2025-04-24 | HR.2999-119 | Social Welfare | To amend title II of the Social Security Act to provide that not more than 10 percent of a |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: E000296` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Dwight Evans
 

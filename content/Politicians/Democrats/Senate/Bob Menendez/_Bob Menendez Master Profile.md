@@ -67,11 +67,11 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,900 |
-| Substantive votes (Y/N) | 1,726 |
-| Votes with party majority | 1,603 |
-| Party-line loyalty | 92.9% |
-| Deviations from party | 26 |
+| Roll-call votes tracked | 2,849 |
+| Substantive votes (Y/N) | 2,643 |
+| Votes with party majority | 2,510 |
+| Party-line loyalty | 95.0% |
+| Deviations from party | 36 |
 
 **Coverage:**
 
@@ -79,10 +79,12 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 230 votes
 
-**Most recent party-line deviations (top 10 of 26):**
+**Most recent party-line deviations (top 10 of 36):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -99,6 +101,39 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 892 |
+| Enacted into law | 10 |
+| Top policy areas | Foreign Trade and International Finance · International Affairs · Health |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-124 | 2022-05-13 | S.812-117 | To direct the Secretary of State to develop a strategy to regain observer status for Taiwa |
+| PL 117-54 | 2021-11-10 | S.1064-117 | RENACER Act |
+| PL 115-318 | 2018-12-14 | S.3209-115 | A bill to designate the facility of the United States Postal Service located at 413 Washin |
+| PL 113-278 | 2014-12-18 | S.2142-113 | Venezuela Defense of Human Rights and Civil Society Act of 2014 |
+| PL 113-276 | 2014-12-18 | S.1683-113 | Naval Vessel Transfer Act of 2013 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2024-03-05 | S.3867-118 | Housing and Community Development | Livable Communities Act of 2024 |
+| 2024-03-05 | S.3862-118 | Housing and Community Development | Homeownership Affordability Act |
+| 2023-09-21 | S.2900-118 | International Affairs | Armenian Protection Act of 2023 |
+| 2023-09-11 | S.2755-118 | Armed Forces and National Security | Servicemember Quality of Life Improvement and National Defense Authorization Act for Fisca |
+| 2023-07-27 | S.2673-118 | International Affairs | Responding to the Energy Security Crisis in Ukraine and Europe (RESCUE) Act of 2023 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M000639` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

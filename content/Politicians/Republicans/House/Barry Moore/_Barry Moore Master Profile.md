@@ -96,21 +96,22 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,707 |
-| Votes with party majority | 1,542 |
+| Roll-call votes tracked | 2,724 |
+| Substantive votes (Y/N) | 2,659 |
+| Votes with party majority | 2,402 |
 | Party-line loyalty | 90.3% |
-| Deviations from party | 165 |
+| Deviations from party | 257 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 165):**
+**Most recent party-line deviations (top 10 of 257):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -127,3 +128,32 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 48 |
+| Enacted into law | 1 |
+| Top policy areas | Agriculture and Food · Armed Forces and National Security · Government Operations and Politics |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-218 | 2025-01-02 | HR.6162-118 | H.R. 6162, a bill to designate the facility of the United States Postal Service located at |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-09 | HR.8224-119 | Armed Forces and National Security | National Veterans Strategy Act of 2026 |
+| 2026-03-19 | HR.8017-119 | Civil Rights and Liberties, Minority Issues | Defeat Sharia Law in America Act |
+| 2026-02-25 | HR.7704-119 | Armed Forces and National Security | VA Call Center Multi-Factor Authentication Act |
+| 2026-02-12 | HR.7552-119 | International Affairs | CBW Fentanyl Act |
+| 2026-01-09 | HR.7000-119 | Environmental Protection | Freedom to Fuel Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001212` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

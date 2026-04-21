@@ -88,25 +88,28 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 116th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,473 |
-| Votes with party majority | 1,403 |
-| Party-line loyalty | 95.2% |
-| Deviations from party | 70 |
+| Roll-call votes tracked | 3,147 |
+| Substantive votes (Y/N) | 2,810 |
+| Votes with party majority | 2,670 |
+| Party-line loyalty | 95.0% |
+| Deviations from party | 140 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 116/1: 170 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 70):**
+**Most recent party-line deviations (top 10 of 140):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -123,3 +126,33 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 104 |
+| Enacted into law | 2 |
+| Top policy areas | Health · Armed Forces and National Security · Taxation |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-64 | 2025-12-26 | HR.1491-119 | Disaster Related Extension of Deadlines Act |
+| PL 116-203 | 2020-12-03 | HR.5037-116 | A bill to designate the facility of the United States Postal Service located at 3703 North |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | HR.8344-119 | — | Senior Citizens’ Freedom to Work Act of 2026 |
+| 2026-04-14 | HR.8270-119 | — | Every Dollar Counts Act of 2026 |
+| 2026-03-30 | HR.8163-119 | Health | Provider Reimbursement Stability Act of 2026 |
+| 2026-01-22 | HR.7230-119 | Taxation | Buying American Cotton Act of 2025 |
+| 2025-12-15 | HR.6721-119 | — | MAP for Care Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001210` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

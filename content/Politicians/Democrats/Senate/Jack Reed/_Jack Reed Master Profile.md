@@ -145,11 +145,11 @@ donors: [[Lockheed Martin]] [[Boeing]]
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,736 |
-| Votes with party majority | 2,601 |
-| Party-line loyalty | 95.1% |
-| Deviations from party | 16 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,681 |
+| Votes with party majority | 3,541 |
+| Party-line loyalty | 96.2% |
+| Deviations from party | 21 |
 
 **Coverage:**
 
@@ -157,12 +157,14 @@ donors: [[Lockheed Martin]] [[Boeing]]
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 16):**
+**Most recent party-line deviations (top 10 of 21):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -171,14 +173,47 @@ donors: [[Lockheed Martin]] [[Boeing]]
 | 2024-04-19 | s148-118.2 | Nay | Y | — |
 | 2023-06-01 | s145-118.1 | Nay | Y | — |
 | 2023-03-08 | s49-118.1 | Nay | Y | H.J.Res. 26 |
-| 2020-07-01 | s129-116.2 | Yea | N | — |
-| 2020-03-09 | s67-116.2 | Yea | N | — |
-| 2020-01-16 | s14-116.2 | Nay | Y | H.R. 5430 |
-| 2019-02-05 | s16-116.1 | Nay | Y | S. 1 |
-| 2019-01-29 | s12-116.1 | Nay | Y | S. 1 |
+| 2022-05-04 | s149-117.2 | Nay | Y | — |
+| 2021-12-07 | s484-117.1 | Nay | Y | — |
+| 2021-08-10 | s331-117.1 | Nay | Y | — |
+| 2021-08-10 | s341-117.1 | Nay | Y | — |
+| 2021-05-26 | s213-117.1 | Nay | Y | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 416 |
+| Enacted into law | 10 |
+| Top policy areas | Education · Finance and Financial Sector · Health |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-350 | 2023-01-05 | S.4120-117 | Childhood Cancer STAR Reauthorization Act of 2022 |
+| PL 117-87 | 2022-02-22 | S.566-117 | To designate the facility of the United States Postal Service located at 42 Main Street in |
+| PL 115-410 | 2018-12-31 | S.3530-115 | Museum and Library Services Act of 2017 |
+| PL 115-313 | 2018-12-13 | S.3414-115 | A bill to designate the facility of the United States Postal Service located at 20 Ferry R |
+| PL 115-180 | 2018-06-05 | S.292-115 | Childhood Cancer STAR Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-18 | SJRES.134-119 | Finance and Financial Sector | A joint resolution providing for congressional disapproval under chapter 8 of title 5, Uni |
+| 2026-03-18 | SJRES.132-119 | Finance and Financial Sector | A joint resolution providing for congressional disapproval under chapter 8 of title 5, Uni |
+| 2026-03-17 | S.4110-119 | Health | EMPOWER for Health Act |
+| 2026-03-17 | S.4109-119 | Health | Stem Cell Therapeutic and Research Reauthorization Act of 2025 |
+| 2026-03-12 | S.4068-119 | Government Operations and Politics | ACTION for National Service Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: R000122` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

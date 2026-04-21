@@ -123,3 +123,32 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 52 |
+| Enacted into law | 1 |
+| Top policy areas | Taxation · Crime and Law Enforcement · Science, Technology, Communications |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-261 | 2025-01-04 | HR.9322-118 | H.R. 9322, a bill to designate the facility of the United States Postal Service located at |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-03 | HR.7338-119 | Transportation and Public Works | Railroad Safety and Accountability Act |
+| 2025-12-18 | HR.6898-119 | Science, Technology, Communications | AIRSHIP Act |
+| 2025-12-17 | HR.6820-119 | Transportation and Public Works | Airline Passenger Compensation Act of 2025 |
+| 2025-10-31 | HR.5893-119 | Social Welfare | GUARD Act |
+| 2025-10-14 | HR.5761-119 | Labor and Employment | Fair Warning Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S001223` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

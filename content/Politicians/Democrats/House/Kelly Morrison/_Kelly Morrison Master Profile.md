@@ -128,6 +128,29 @@ top-donors: "[[IBEW - International Brotherhood of Electrical Workers]], [[AFSCM
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 10 |
+| Enacted into law | 0 |
+| Top policy areas | Commerce · Health · Armed Forces and National Security |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-05 | HR.7841-119 | Armed Forces and National Security | Warrior Infertility Act |
+| 2025-11-20 | HR.6215-119 | Commerce | Small Business RELIEF Act |
+| 2025-09-08 | HR.5203-119 | Armed Forces and National Security | To direct the Secretary of Veterans Affairs to update directives of the Department of Vete |
+| 2025-09-08 | HR.5202-119 | Health | BABIES Act |
+| 2025-07-23 | HR.4709-119 | Health | Newborn Screening Saves Lives Reauthorization Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001234` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Kelly Morrison
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

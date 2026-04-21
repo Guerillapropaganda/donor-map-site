@@ -124,25 +124,30 @@ top-policy-area: Health
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,671 |
-| Votes with party majority | 1,603 |
-| Party-line loyalty | 95.9% |
-| Deviations from party | 68 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,671 |
+| Votes with party majority | 4,471 |
+| Party-line loyalty | 95.7% |
+| Deviations from party | 200 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 68):**
+**Most recent party-line deviations (top 10 of 200):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -159,6 +164,39 @@ top-policy-area: Health
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 192 |
+| Enacted into law | 12 |
+| Top policy areas | Transportation and Public Works · Foreign Trade and International Finance · Commerce |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-63 | 2024-05-16 | HR.3935-118 | Airport Infrastructure Vehicle Security Act |
+| PL 118-60 | 2024-05-10 | HR.8289-118 | Airport and Airway Extension Act of 2024, Part II |
+| PL 118-41 | 2024-03-08 | HR.7454-118 | Airport and Airway Extension Act of 2023, Part II |
+| PL 118-34 | 2023-12-26 | HR.6503-118 | Airport and Airway Extension Act of 2023 |
+| PL 117-186 | 2022-10-10 | HR.468-117 | Expedited Delivery of Airport Infrastructure Act of 2021 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-20 | HR.7613-119 | Transportation and Public Works | Neighborhood Skies Act of 2026 |
+| 2026-02-03 | HR.7328-119 | Civil Rights and Liberties, Minority Issues | Protecting Small Businesses from Predatory Website Lawsuits Act |
+| 2025-11-18 | HR.6086-119 | Transportation and Public Works | H.R. 6086, Aviation Funding Solvency Act |
+| 2025-09-11 | HR.5301-119 | Transportation and Public Works | H.R. 5301, PIPES Act of 2025 |
+| 2025-08-08 | HR.4924-119 | Transportation and Public Works | Rails to Trails Landowner Rights Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: G000546` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #sam-graves #republican #missouri #house #committee-chair #transportation #infrastructure #aviation #airlines #trucking #railroads #construction #phase-6-gavel-power
 

@@ -115,25 +115,30 @@ top-donors: "[[National Rifle Association]], [[McDonalds Corporation]], [[Lockhe
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,698 |
-| Votes with party majority | 1,605 |
-| Party-line loyalty | 94.5% |
-| Deviations from party | 93 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,745 |
+| Votes with party majority | 4,388 |
+| Party-line loyalty | 92.5% |
+| Deviations from party | 357 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 93):**
+**Most recent party-line deviations (top 10 of 357):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -150,6 +155,35 @@ top-donors: "[[National Rifle Association]], [[McDonalds Corporation]], [[Lockhe
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 129 |
+| Enacted into law | 1 |
+| Top policy areas | Education · Taxation · Health |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-119 | 2024-11-25 | HR.5712-118 | H.R. 5712, a bill to designate the facility of the United States Postal Service located at |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-25 | HR.8082-119 | Health | COMPETE Act |
+| 2026-03-16 | HR.7940-119 | Public Lands and Natural Resources | SAFE Pathways Act |
+| 2026-02-26 | HR.7721-119 | Families | CRACKDOWN Act of 2026 |
+| 2026-02-12 | HR.7538-119 | Immigration | Migrant Child Safety Act |
+| 2026-02-04 | HR.7362-119 | Labor and Employment | Form 5500 Filing Simplification Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: G000576` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Glenn Grothman
 

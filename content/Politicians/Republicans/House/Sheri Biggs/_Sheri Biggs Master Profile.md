@@ -132,6 +132,29 @@ top-donors: "[[American Hospital Association PAC]], [[Duke Energy]], [[Mike Hari
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 13 |
+| Enacted into law | 0 |
+| Top policy areas | Crime and Law Enforcement · Taxation · Immigration |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-09 | HR.8213-119 | Civil Rights and Liberties, Minority Issues | Defending Women in the Workplace Act |
+| 2026-03-24 | HR.8040-119 | Crime and Law Enforcement | No Mercy for Terrorists Act of 2026 |
+| 2026-03-12 | HR.7898-119 | Crime and Law Enforcement | National Guard Protective Zone Act |
+| 2026-01-23 | HR.7235-119 | Government Operations and Politics | Protecting Motherhood Act |
+| 2026-01-06 | HR.6940-119 | Health | Hope Heals Act of 2026 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: B001325` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Sheri Biggs
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

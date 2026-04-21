@@ -120,21 +120,22 @@ top-donors: "[[International Association of Firefighters Interested in Registrat
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,692 |
-| Votes with party majority | 1,574 |
-| Party-line loyalty | 93.0% |
-| Deviations from party | 118 |
+| Roll-call votes tracked | 2,724 |
+| Substantive votes (Y/N) | 2,650 |
+| Votes with party majority | 2,453 |
+| Party-line loyalty | 92.6% |
+| Deviations from party | 197 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 118):**
+**Most recent party-line deviations (top 10 of 197):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -151,6 +152,29 @@ top-donors: "[[International Association of Firefighters Interested in Registrat
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 112 |
+| Enacted into law | 0 |
+| Top policy areas | Taxation · Transportation and Public Works · Government Operations and Politics |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-13 | HR.7581-119 | Health | LOVE Act |
+| 2026-02-02 | HR.7316-119 | Agriculture and Food | SNAP Payment Security and Fraud Prevention Act of 2026 |
+| 2026-01-07 | HJRES.137-119 | International Affairs | Commending Sail250® for its advancement of goodwill among nations, its dedication to conti |
+| 2025-12-04 | HR.6458-119 | Taxation | Electronic Filing Improvement and Logistical Efficiency Act of 2025 |
+| 2025-10-17 | HR.5776-119 | Taxation | EGG SAVE Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M000317` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Nicole Malliotakis
 

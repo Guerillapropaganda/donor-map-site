@@ -93,21 +93,22 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,687 |
-| Votes with party majority | 1,538 |
-| Party-line loyalty | 91.2% |
-| Deviations from party | 149 |
+| Roll-call votes tracked | 2,724 |
+| Substantive votes (Y/N) | 2,573 |
+| Votes with party majority | 2,252 |
+| Party-line loyalty | 87.5% |
+| Deviations from party | 321 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 149):**
+**Most recent party-line deviations (top 10 of 321):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -124,3 +125,26 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 54 |
+| Enacted into law | 0 |
+| Top policy areas | Health · Education · Labor and Employment |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-18 | HR.7983-119 | Crime and Law Enforcement | Clean Water for All Life Act |
+| 2026-02-26 | HR.7726-119 | Families | No Funds for Repeat Child Care Violations Act of 2026 |
+| 2026-02-25 | HR.7703-119 | — | To amend title 18, United States Code, to provide that the prohibition on the possession o |
+| 2026-02-24 | HR.7661-119 | Education | Stop the Sexualization of Children Act |
+| 2026-01-21 | HR.7186-119 | Housing and Community Development | American Family Housing Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001211` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

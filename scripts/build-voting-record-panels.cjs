@@ -63,6 +63,24 @@ async function* streamJsonl(filePath) {
   }
 }
 
+// legislator-positions.jsonl grew past GitHub's 100MB limit after the
+// 115-117 vote backfill, so we split it to data/legislator-positions/
+// {115,116,117,118,119}.jsonl. This helper prefers the merged file if
+// it exists (local / scraper runtime) and falls back to the split
+// directory (committed state for fresh clones).
+async function* streamPositions() {
+  const merged = POSITIONS;
+  if (fs.existsSync(merged) && fs.statSync(merged).size > 0) {
+    yield* streamJsonl(merged);
+    return;
+  }
+  const splitDir = merged.replace(/\.jsonl$/, '');
+  if (!fs.existsSync(splitDir)) return;
+  for (const f of fs.readdirSync(splitDir).filter((n) => n.endsWith('.jsonl')).sort()) {
+    yield* streamJsonl(path.join(splitDir, f));
+  }
+}
+
 function isSubstantive(position) {
   return position === 'Aye' || position === 'Yea' || position === 'No' || position === 'Nay';
 }
@@ -100,7 +118,7 @@ function normalizeVote(p) {
   const positionsByVote = new Map(); // vote_id -> { R: {Y, N}, D: {Y, N}, I: {Y, N} }
   const positionsByBio = new Map(); // bioguide -> [{vote_id, position, party, caucus}]
   let posRows = 0;
-  for await (const p of streamJsonl(POSITIONS)) {
+  for await (const p of streamPositions()) {
     posRows++;
     const norm = normalizeVote(p.position);
     const caucus = CAUCUS_MAP[p.bioguide] || p.party;

@@ -116,11 +116,11 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,713 |
-| Votes with party majority | 2,533 |
-| Party-line loyalty | 93.4% |
-| Deviations from party | 43 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,628 |
+| Votes with party majority | 3,442 |
+| Party-line loyalty | 94.9% |
+| Deviations from party | 49 |
 
 **Coverage:**
 
@@ -128,12 +128,14 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 43):**
+**Most recent party-line deviations (top 10 of 49):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -150,6 +152,37 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 246 |
+| Enacted into law | 3 |
+| Top policy areas | International Affairs · Education · Health |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-168 | 2022-08-10 | S.3373-117 | Directing the Secretary of the Senate to make a correction in the enrollment of the bill S |
+| PL 117-71 | 2021-12-10 | S.610-117 | Dr. Lorna Breen Health Care Provider Protection Act |
+| PL 116-15 | 2019-04-16 | S.725-116 | A bill to change the address of the postal facility designated in honor of Captain Humayun |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | S.4339-119 | — | A bill to reform Federal firearms laws, and for other purposes. |
+| 2026-04-13 | SJRES.165-119 | Finance and Financial Sector | A joint resolution providing for congressional disapproval under chapter 8 of title 5, Uni |
+| 2026-04-13 | SJRES.182-119 | Education | Providing for congressional disapproval under chapter 8 of title 5, United States Code, of |
+| 2026-03-18 | S.4129-119 | International Affairs | State Department Disability Policy and Accommodations Act |
+| 2026-03-18 | S.4132-119 | Health | Maternal Vaccination Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: K000384` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 ## Archived
 

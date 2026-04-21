@@ -140,6 +140,29 @@ top-policy-area: Health
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 29 |
+| Enacted into law | 0 |
+| Top policy areas | Transportation and Public Works · Housing and Community Development · Science, Technology, Communications |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-16 | HR.7943-119 | Science, Technology, Communications | Communications Equity and Diversity Council Act |
+| 2026-03-04 | HR.7797-119 | Transportation and Public Works | Toll Evasion Prevention and Plate Visibility Act of 2026 |
+| 2026-01-30 | HR.7294-119 | Science, Technology, Communications | AI for Secure Networks Act |
+| 2026-01-27 | HR.7263-119 | Transportation and Public Works | Safe Intersections for Buses and Pedestrians Act |
+| 2026-01-08 | HR.6984-119 | Environmental Protection | Data Center Transparency Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001226` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Robert Menendez
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

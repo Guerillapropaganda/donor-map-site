@@ -37,6 +37,26 @@ politicians-funded: "[[Planned Parenthood Federation of America]], [[Bipartisan 
 - **Type:** 501(c)(3): Donor-Advised Fund
 - **Note:** Independent DAF with an impact-investing focus; channels values-aligned giving from institutional donors.
 
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 1 |
+| Leak sources | Paradise Papers - Appleby (1) |
+| Top jurisdictions | Cayman Islands (1) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| Unitus Seed Fund, LP | entity | Cayman Islands | Paradise Papers - Appleby |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: ImpactAssets` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->
+
 ## Sources
 
 - [IRS Exempt Organization 990 records](https://www.irs.gov/charities-non-profits/form-990-series-downloads)

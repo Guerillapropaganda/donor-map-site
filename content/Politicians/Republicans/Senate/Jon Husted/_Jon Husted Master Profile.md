@@ -131,6 +131,29 @@ urls-first-triaged: "2026-04-15"
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 31 |
+| Enacted into law | 0 |
+| Top policy areas | Education · Government Operations and Politics · Energy |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-20 | S.4159-119 | Science, Technology, Communications | Sammy’s Law |
+| 2026-03-19 | S.4155-119 | Government Operations and Politics | Make Elections Great Again Act |
+| 2026-03-10 | S.4033-119 | Taxation | Critical Minerals Investment Tax Modernization Act of 2025 |
+| 2026-03-09 | S.4027-119 | Health | Healthy Competition for Better Care Act |
+| 2026-02-24 | S.3903-119 | Transportation and Public Works | Railroad Safety Enhancement Act of 2026 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: H001104` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 #politician #republican #senate
 tags: #republican
 

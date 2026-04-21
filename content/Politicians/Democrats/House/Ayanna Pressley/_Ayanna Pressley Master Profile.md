@@ -177,25 +177,28 @@ SORT title ASC
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 116th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,656 |
-| Votes with party majority | 1,557 |
-| Party-line loyalty | 94.0% |
-| Deviations from party | 99 |
+| Roll-call votes tracked | 3,678 |
+| Substantive votes (Y/N) | 3,549 |
+| Votes with party majority | 3,382 |
+| Party-line loyalty | 95.3% |
+| Deviations from party | 167 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 99):**
+**Most recent party-line deviations (top 10 of 167):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -212,6 +215,35 @@ SORT title ASC
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 105 |
+| Enacted into law | 1 |
+| Top policy areas | Health · Finance and Financial Sector · Crime and Law Enforcement |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-113 | 2024-11-25 | HR.3728-118 | A bill to designate the facility of the United States Postal Service located at 25 Dorches |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-09 | HR.8235-119 | Arts, Culture, Religion | Books Save Lives Act |
+| 2026-04-02 | HR.8185-119 | Housing and Community Development | HELP Act of 2026 |
+| 2026-03-24 | HR.8063-119 | Commerce | SPARK Act |
+| 2026-03-04 | HR.7804-119 | Labor and Employment | BLS Act |
+| 2026-02-13 | HR.7583-119 | Labor and Employment | BE HEARD in the Workplace Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: P000617` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

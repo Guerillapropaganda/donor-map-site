@@ -135,25 +135,28 @@ top-policy-area: "International Affairs"
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 116th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,663 |
-| Votes with party majority | 1,354 |
-| Party-line loyalty | 81.4% |
-| Deviations from party | 309 |
+| Roll-call votes tracked | 3,678 |
+| Substantive votes (Y/N) | 3,507 |
+| Votes with party majority | 2,697 |
+| Party-line loyalty | 76.9% |
+| Deviations from party | 810 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 309):**
+**Most recent party-line deviations (top 10 of 810):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -170,6 +173,29 @@ top-policy-area: "International Affairs"
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 153 |
+| Enacted into law | 0 |
+| Top policy areas | International Affairs · Armed Forces and National Security · Government Operations and Politics |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-09 | HR.8236-119 | International Affairs | Designating Hamas Affiliates in America Act of 2026 |
+| 2026-04-06 | HR.8206-119 | Economics and Public Finance | Further Additional Continuing Appropriations Act, 2026 |
+| 2026-03-24 | HR.8064-119 | Crime and Law Enforcement | Career Criminal Accountability Act of 2026 |
+| 2026-03-03 | HR.7776-119 | Transportation and Public Works | Highway Formula Fairness Act |
+| 2026-01-30 | HR.7296-119 | Government Operations and Politics | SAVE Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: R000614` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #roy #texas #freedom-caucus #spending #border #libertarian #cruz-ally #rules-committee #judiciary #club-for-growth
 

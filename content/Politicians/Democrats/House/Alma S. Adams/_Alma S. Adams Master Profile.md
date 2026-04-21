@@ -89,25 +89,30 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,703 |
-| Votes with party majority | 1,683 |
-| Party-line loyalty | 98.8% |
-| Deviations from party | 20 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,761 |
+| Votes with party majority | 4,700 |
+| Party-line loyalty | 98.7% |
+| Deviations from party | 60 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 20):**
+**Most recent party-line deviations (top 10 of 60):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -124,3 +129,34 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 121 |
+| Enacted into law | 3 |
+| Top policy areas | Education · Agriculture and Food · Health |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 116-202 | 2020-12-03 | HR.4981-116 | To designate the facility of the United States Postal Service located at 2505 Derita Avenu |
+| PL 116-91 | 2019-12-19 | HR.5363-116 | Faster Access to Federal Student Aid Act of 2019 |
+| PL 114-174 | 2016-06-13 | HR.3735-114 | To designate the facility of the United States Postal Service located at 200 Town Run Lane |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-09 | HR.8211-119 | Armed Forces and National Security | Army Security Agency Monument Act |
+| 2026-03-25 | HR.8074-119 | Health | Momnibus Act |
+| 2026-02-12 | HR.7522-119 | Agriculture and Food | Improving Access to Nutrition Act of 2026 |
+| 2025-12-15 | HR.6706-119 | Agriculture and Food | EFFECTIVE Food Procurement Act |
+| 2025-11-20 | HR.6169-119 | Agriculture and Food | Fair Credit for Farmers Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: A000370` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

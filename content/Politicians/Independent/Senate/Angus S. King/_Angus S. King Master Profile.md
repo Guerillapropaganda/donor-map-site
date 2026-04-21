@@ -111,11 +111,11 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,722 |
-| Votes with party majority | 2,453 |
-| Party-line loyalty | 90.1% |
-| Deviations from party | 64 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,664 |
+| Votes with party majority | 3,383 |
+| Party-line loyalty | 92.3% |
+| Deviations from party | 76 |
 
 **Coverage:**
 
@@ -123,12 +123,14 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 64):**
+**Most recent party-line deviations (top 10 of 76):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -145,6 +147,29 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 194 |
+| Enacted into law | 0 |
+| Top policy areas | Health · Public Lands and Natural Resources · Taxation |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-15 | S.4298-119 | — | A bill to provide appropriations for the Internal Revenue Service to overhaul technology a |
+| 2026-03-23 | S.4162-119 | Armed Forces and National Security | Get Justice-Involved Veterans BACK HOME Act |
+| 2026-02-26 | S.3938-119 | Armed Forces and National Security | TAP Promotion Act |
+| 2026-02-10 | S.3818-119 | Armed Forces and National Security | To amend title 38, United States Code, to repeal a certain limitation on the receipt of as |
+| 2026-01-07 | S.3591-119 | Armed Forces and National Security | Thomas M. Conway Veterans Access to Resources in the Workplace Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: K000383` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 ## Archived
 

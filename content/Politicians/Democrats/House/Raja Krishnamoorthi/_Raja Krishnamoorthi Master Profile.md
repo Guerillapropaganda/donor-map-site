@@ -154,25 +154,30 @@ SORT file.name ASC
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,705 |
-| Votes with party majority | 1,675 |
-| Party-line loyalty | 98.2% |
-| Deviations from party | 30 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,815 |
+| Votes with party majority | 4,717 |
+| Party-line loyalty | 98.0% |
+| Deviations from party | 97 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 30):**
+**Most recent party-line deviations (top 10 of 97):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -189,6 +194,38 @@ SORT file.name ASC
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 124 |
+| Enacted into law | 4 |
+| Top policy areas | Education · Government Operations and Politics · Health |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-54 | 2024-05-07 | HR.2379-118 | To designate the facility of the United States Postal Service located at 616 East Main Str |
+| PL 117-295 | 2022-12-27 | HR.6386-117 | H.R. 6386, an act to designate the facility of the United States Postal Service located at |
+| PL 116-83 | 2019-12-12 | HR.1844-116 | To designate the facility of the United States Postal Service located at 66 Grove Court in |
+| PL 115-213 | 2018-07-24 | HR.4574-115 | To designate the facility of the United States Postal Service located at 108 West Schick R |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-12 | HR.7909-119 | — | Medicare Expansion and Lowering Costs Now Act |
+| 2026-03-05 | HR.7833-119 | Energy | Puerto Rican People’s Power Restoration Act of 2026 |
+| 2026-02-12 | HR.7542-119 | Agriculture and Food | Kids Need Lunch Act |
+| 2026-01-20 | HR.7161-119 | Immigration | No Private Bounty Hunters for Immigration Enforcement Act |
+| 2026-01-20 | HR.7160-119 | Taxation | First-Time Homebuyer Tax Credit Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: K000391` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

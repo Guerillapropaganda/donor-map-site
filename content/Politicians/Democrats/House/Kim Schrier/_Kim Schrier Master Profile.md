@@ -116,25 +116,28 @@ top-donors: "[[International Association of Firefighters Interested in Registrat
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 116th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,705 |
-| Votes with party majority | 1,592 |
-| Party-line loyalty | 93.4% |
-| Deviations from party | 113 |
+| Roll-call votes tracked | 3,678 |
+| Substantive votes (Y/N) | 3,614 |
+| Votes with party majority | 3,455 |
+| Party-line loyalty | 95.6% |
+| Deviations from party | 159 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 113):**
+**Most recent party-line deviations (top 10 of 159):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -151,6 +154,29 @@ top-donors: "[[International Association of Firefighters Interested in Registrat
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 92 |
+| Enacted into law | 0 |
+| Top policy areas | Health · Agriculture and Food · Public Lands and Natural Resources |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-26 | HR.8127-119 | — | To promote shared equity models of homeownership, and for other purposes. |
+| 2026-02-25 | HR.7712-119 | Agriculture and Food | RNGR Support Act of 2026 |
+| 2026-02-04 | HR.7377-119 | Commerce | Know Before You Drive Act |
+| 2026-01-20 | HR.7164-119 | Health | Capping Costs for Consumers Act of 2026 |
+| 2025-12-12 | HR.6697-119 | Agriculture and Food | EAT Healthy Foods from Local Farmers Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S001216` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Kim Schrier
 

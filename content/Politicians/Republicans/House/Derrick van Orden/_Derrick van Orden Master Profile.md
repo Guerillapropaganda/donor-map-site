@@ -151,6 +151,36 @@ top-donors: "[[Activate America]], [[Hunter Action Fund (haf)]], [[Jake Ellzey]]
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 52 |
+| Enacted into law | 2 |
+| Top policy areas | Armed Forces and National Security · Agriculture and Food · Government Operations and Politics |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-55 | 2025-12-12 | HR.983-119 | Montgomery GI Bill Selected Reserves Tuition Fairness Act of 2025 |
+| PL 119-31 | 2025-07-30 | HR.1815-119 | H.R. 1815, VA Home Loan Program Reform Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2025-12-18 | HR.6904-119 | — | To amend title 38, United States Code, to make certain improvements to rehabilitation prog |
+| 2025-10-28 | HR.5866-119 | Public Lands and Natural Resources | Farm, Food, and National Security Act of 2026 |
+| 2025-10-17 | HR.5789-119 | International Affairs | Donald J. Trump Congressional Gold Medal Act |
+| 2025-10-03 | HJRES.129-119 | Congress | Proposing an amendment to the Constitution of the United States to prohibit Members of Con |
+| 2025-09-15 | HR.5352-119 | Government Operations and Politics | To prohibit Federal funding for entities that employ individuals who condone and celebrate |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: V000135` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Derrick van Orden
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

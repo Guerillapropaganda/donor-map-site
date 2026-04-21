@@ -89,25 +89,30 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,676 |
-| Votes with party majority | 1,616 |
-| Party-line loyalty | 96.4% |
-| Deviations from party | 60 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,739 |
+| Votes with party majority | 4,598 |
+| Party-line loyalty | 97.0% |
+| Deviations from party | 140 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 60):**
+**Most recent party-line deviations (top 10 of 140):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -124,3 +129,36 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 195 |
+| Enacted into law | 6 |
+| Top policy areas | Finance and Financial Sector · Government Operations and Politics · Transportation and Public Works |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-256 | 2022-12-21 | HR.310-117 | A bill to posthumously award the Congressional Gold Medal, collectively, to Glen Doherty,  |
+| PL 115-275 | 2018-11-03 | HR.1037-115 | National Emergency Medical Services Commemorative Work Act |
+| PL 115-144 | 2018-03-23 | HR.2464-115 | A bill to designate the facility of the United States Postal Service located at 25 New Cha |
+| PL 114-147 | 2016-04-29 | HR.1670-114 | National POW/MIA Remembrance Act of 2015 |
+| PL 114-75 | 2015-11-05 | HR.313-114 | Wounded Warriors Federal Leave Act of 2015 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-24 | HR.8053-119 | Congress | DPA Emerging Technology Act of 2026 |
+| 2026-01-21 | HR.7183-119 | Education | Youth Financial Learning Act |
+| 2025-12-10 | HR.6556-119 | Finance and Financial Sector | Failing Bank Acquisition Fairness Act |
+| 2025-11-21 | HR.6269-119 | Housing and Community Development | ROAD to Housing Act of 2025 |
+| 2025-11-04 | HR.5915-119 | Armed Forces and National Security | K2 Veterans Total Coverage Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: L000562` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

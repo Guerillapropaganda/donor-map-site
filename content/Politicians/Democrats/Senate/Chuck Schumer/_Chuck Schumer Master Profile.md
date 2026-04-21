@@ -92,11 +92,11 @@ donors: [[Goldman Sachs]], [[AIPAC - American Israel Public Affairs Committee]]
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,739 |
-| Votes with party majority | 2,575 |
-| Party-line loyalty | 94.0% |
-| Deviations from party | 32 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,673 |
+| Votes with party majority | 3,495 |
+| Party-line loyalty | 95.2% |
+| Deviations from party | 46 |
 
 **Coverage:**
 
@@ -104,12 +104,14 @@ donors: [[Goldman Sachs]], [[AIPAC - American Israel Public Affairs Committee]]
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 32):**
+**Most recent party-line deviations (top 10 of 46):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -126,6 +128,39 @@ donors: [[Goldman Sachs]], [[AIPAC - American Israel Public Affairs Committee]]
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 693 |
+| Enacted into law | 21 |
+| Top policy areas | Foreign Trade and International Finance · Taxation · Crime and Law Enforcement |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-73 | 2021-12-16 | SJRES.33-117 | Providing for consideration of the joint resolution (S.J. Res. 33) joint resolution relati |
+| PL 116-29 | 2019-07-05 | S.2047-116 | A bill to provide for a 2-week extension of the Medicaid community mental health services  |
+| PL 115-260 | 2018-10-09 | S.1668-115 | To rename a waterway in the State of New York as the "Joseph Sanford Jr. Channel". |
+| PL 114-219 | 2016-07-29 | S.3207-114 | A bill to authorize the National Library Service for the Blind and Physically Handicapped  |
+| — | 2013-09-17 | S.1512-113 | To designate the facility of the United States Postal Service located at 1335 Jefferson Ro |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-26 | SJRES.149-119 | Finance and Financial Sector | A joint resolution providing for congressional disapproval under chapter 8 of title 5, Uni |
+| 2026-03-17 | S.4124-119 | Law | A bill to prohibit funds made available to the Department of Justice from being used to ma |
+| 2026-03-05 | S.4007-119 | Agriculture and Food | Family Grocery and Farmer Relief Act |
+| 2026-02-25 | S.3911-119 | Public Lands and Natural Resources | To designate the Pride flag as an authorized flag eligible for display at units of the Nat |
+| 2026-02-11 | S.3838-119 | International Affairs | Venezuela Oil Proceeds Transparency Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S000148` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

@@ -83,3 +83,32 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 38 |
+| Enacted into law | 1 |
+| Top policy areas | Armed Forces and National Security · Finance and Financial Sector · Economics and Public Finance |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| — | 2011-11-18 | HR.3501-112 | To designate the facility of the United States Postal Service located at 125 Kerr Avenue i |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-14 | HR.8278-119 | — | To require certain supervisory agencies to assess their technological capabilities, and fo |
+| 2026-03-27 | HR.8155-119 | International Affairs | Foreign Propaganda Transparency Act |
+| 2026-03-25 | HR.8090-119 | Finance and Financial Sector | To require the Federal Deposit Insurance Corporation and the National Credit Union Adminis |
+| 2026-02-13 | HR.7586-119 | Housing and Community Development | American Families First Act |
+| 2026-01-23 | HR.7237-119 | Health | Chemical Abortion Risk Awareness Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S001188` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

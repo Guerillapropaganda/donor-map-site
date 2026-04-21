@@ -115,6 +115,35 @@ donors: [[Fairshake PAC]] [[AIPAC - American Israel Public Affairs Committee]] [
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 21 |
+| Enacted into law | 1 |
+| Top policy areas | Environmental Protection · Science, Technology, Communications · Immigration |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-23 | 2023-12-19 | HR.1734-118 | TRANQ Research Act of 2023 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-25 | HR.8079-119 | Environmental Protection | Diesel Truck Liberation Act of 2025 |
+| 2025-09-10 | HR.5258-119 | Law | Lawsuit Abuse Reduction Act of 2025 |
+| 2025-06-23 | HR.4068-119 | Environmental Protection | Streamlining NEPA for Coal Act |
+| 2025-06-11 | HR.3898-119 | Environmental Protection | Providing for consideration of the bill (H.R. 3898) to amend the Federal Water Pollution C |
+| 2025-06-11 | HR.3900-119 | Environmental Protection | Water Quality Technology Availability Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C001129` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 <!-- auto:congress-bills start -->
 | Metric | Value |
 |--------|-------|

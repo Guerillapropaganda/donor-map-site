@@ -407,11 +407,11 @@ _No committee data found._
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,009 |
-| Substantive votes (Y/N) | 1,981 |
-| Votes with party majority | 1,862 |
-| Party-line loyalty | 94.0% |
-| Deviations from party | 26 |
+| Roll-call votes tracked | 2,958 |
+| Substantive votes (Y/N) | 2,919 |
+| Votes with party majority | 2,795 |
+| Party-line loyalty | 95.8% |
+| Deviations from party | 31 |
 
 **Coverage:**
 
@@ -419,10 +419,12 @@ _No committee data found._
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 
-**Most recent party-line deviations (top 10 of 26):**
+**Most recent party-line deviations (top 10 of 31):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -439,6 +441,39 @@ _No committee data found._
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 710 |
+| Enacted into law | 6 |
+| Top policy areas | Health · Foreign Trade and International Finance · Taxation |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-74 | 2024-07-30 | S.1973-118 | All-American Flag Act |
+| PL 117-50 | 2021-10-14 | S.1301-117 | Promoting Physical Activity for Americans Act |
+| PL 116-21 | 2019-06-12 | S.1436-116 | A bill to make technical corrections to the computation of average pay under Public Law 11 |
+| PL 115-312 | 2018-12-13 | S.2377-115 | To designate the Federal building and United States courthouse located at 200 West 2nd Str |
+| — | 2011-02-15 | S.349-112 | To designate the facility of the United States Postal Service located at 4865 Tallmadge Ro |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2024-09-12 | S.5034-118 | Labor and Employment | American Energy Worker Opportunity Act of 2024 |
+| 2024-09-09 | S.4997-118 | Economics and Public Finance | Veterans Supplemental Appropriations Act, 2024 |
+| 2024-08-01 | S.4931-118 | Taxation | Renewable Chemicals Act of 2023 |
+| 2024-07-31 | S.4889-118 | Government Operations and Politics | Federal Jobs for STARs Act of 2024 |
+| 2024-07-31 | S.4873-118 | Taxation | American Tax Dollars for American Solar Manufacturing Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: B000944` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 
 ### Wikipedia

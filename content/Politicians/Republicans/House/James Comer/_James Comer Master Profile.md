@@ -139,25 +139,30 @@ donors:
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,697 |
-| Votes with party majority | 1,595 |
-| Party-line loyalty | 94.0% |
-| Deviations from party | 102 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,797 |
+| Votes with party majority | 4,490 |
+| Party-line loyalty | 93.6% |
+| Deviations from party | 307 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 102):**
+**Most recent party-line deviations (top 10 of 307):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -174,6 +179,36 @@ donors:
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 39 |
+| Enacted into law | 2 |
+| Top policy areas | Government Operations and Politics · Transportation and Public Works · Labor and Employment |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-274 | 2025-01-06 | HR.4984-118 | H.R. 4984, D.C. Robert F. Kennedy Memorial Stadium Campus Revitalization Act |
+| PL 117-28 | 2021-07-26 | HR.26-117 | Construction Consensus Procurement Improvement Technical Corrections Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-01-27 | HR.7248-119 | Public Lands and Natural Resources | MARINA Act |
+| 2025-07-14 | HR.4366-119 | Labor and Employment | Providing for consideration of the bill (H.R. 2988) to amend the Employee Retirement Incom |
+| 2025-02-24 | HR.1515-119 | Government Operations and Politics | GOOD Act |
+| 2025-02-13 | HR.1276-119 | Public Lands and Natural Resources | A bill to remove restrictions from a parcel of land in Paducah, Kentucky. |
+| 2025-02-13 | HR.1295-119 | Government Operations and Politics | Reorganizing Government Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C001108` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

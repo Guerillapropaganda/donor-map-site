@@ -131,11 +131,11 @@ donors: [[Koch Network - Charles Koch|Koch Network]]
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,548 |
-| Votes with party majority | 2,398 |
-| Party-line loyalty | 94.1% |
-| Deviations from party | 100 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,399 |
+| Votes with party majority | 3,168 |
+| Party-line loyalty | 93.2% |
+| Deviations from party | 180 |
 
 **Coverage:**
 
@@ -143,12 +143,14 @@ donors: [[Koch Network - Charles Koch|Koch Network]]
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 100):**
+**Most recent party-line deviations (top 10 of 180):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -165,6 +167,39 @@ donors: [[Koch Network - Charles Koch|Koch Network]]
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 354 |
+| Enacted into law | 16 |
+| Top policy areas | Armed Forces and National Security · Finance and Financial Sector · Taxation |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-42 | 2025-11-25 | S.2392-119 | Veterans’ Compensation Cost-of-Living Adjustment Act of 2025 |
+| PL 118-210 | 2025-01-02 | S.141-118 | Elizabeth Dole Home Care Act of 2023 |
+| PL 118-75 | 2024-07-30 | S.3249-118 | To designate the outpatient clinic of the Department of Veterans Affairs in Wyandotte Coun |
+| PL 117-203 | 2022-10-17 | S.516-117 | Advanced Air Mobility Coordination and Leadership Act |
+| PL 117-97 | 2022-03-14 | S.321-117 | ‘Six Triple Eight’ Congressional Gold Medal Act of 2021 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-25 | S.4211-119 | — | Consumer Data Privacy and Security Act of 2026 |
+| 2026-03-04 | S.3988-119 | Armed Forces and National Security | Veterans STAND Act |
+| 2026-03-02 | S.3957-119 | Science, Technology, Communications | Artificial Intelligence and Critical Technology Workforce Framework Act of 2025 |
+| 2026-02-12 | S.3888-119 | Commerce | Small Business Artificial Intelligence Training Act of 2026 |
+| 2026-02-02 | S.3759-119 | Taxation | SAF Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M000934` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

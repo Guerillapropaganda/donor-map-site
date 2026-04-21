@@ -123,3 +123,26 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 31 |
+| Enacted into law | 0 |
+| Top policy areas | Health · Public Lands and Natural Resources · Crime and Law Enforcement |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-26 | HR.8093-119 | Crime and Law Enforcement | Privacy Protection Updates Act |
+| 2026-02-05 | HR.7394-119 | Health | Mental Health Career Promotion Act |
+| 2026-01-30 | HR.7277-119 | Health | Emergency Medical Services Reimbursement for On-Scene Care and Support Act |
+| 2025-12-11 | HR.6613-119 | Energy | Nuclear Plant Decommissioning Act of 2025 |
+| 2025-11-21 | HR.6249-119 | Emergency Management | Addressing Addiction After Disasters Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: B001318` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

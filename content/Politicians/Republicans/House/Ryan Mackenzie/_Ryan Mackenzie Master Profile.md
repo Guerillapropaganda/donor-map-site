@@ -144,6 +144,29 @@ top-donors: "[[National Restaurant Association]], [[Mike Haridopolos]], [[Nation
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 15 |
+| Enacted into law | 0 |
+| Top policy areas | Taxation · Armed Forces and National Security · Education |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-06 | HR.8203-119 | — | To amend the Workforce Innovation and Opportunity Act to provide to States and local areas |
+| 2026-04-06 | HR.8202-119 | Foreign Trade and International Finance | To amend the Export Control Reform Act of 2018 to provide for a ten-year statute of limita |
+| 2026-03-27 | HR.8142-119 | Government Operations and Politics | Special Events Program Alignment Act of 2026 |
+| 2026-03-12 | HR.7912-119 | — | To require providers to disclose policies regarding the minimum gestational age at which l |
+| 2026-01-27 | HR.7260-119 | Armed Forces and National Security | National Cemetery Administration Annual Report Act of 2026 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001230` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Ryan Mackenzie
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

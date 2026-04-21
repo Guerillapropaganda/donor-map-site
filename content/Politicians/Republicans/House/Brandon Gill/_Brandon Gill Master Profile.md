@@ -142,6 +142,35 @@ top-donors: "[[American Hospital Association PAC]], [[Comcast - NBCUniversal]], 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 18 |
+| Enacted into law | 1 |
+| Top policy areas | Immigration · Government Operations and Politics · Finance and Financial Sector |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-78 | 2026-02-18 | HJRES.142-119 | Providing for consideration of the Senate amendments to the bill (H.R. 7148) making furthe |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-04 | HR.7359-119 | Immigration | Somalia Immigration Moratorium Act |
+| 2026-01-14 | HR.7063-119 | Immigration | Student Visa Integrity Act of 2025 |
+| 2025-11-19 | HR.6140-119 | Economics and Public Finance | Congressional Budget Office Scheduling Reform Act |
+| 2025-10-14 | HR.5750-119 | Government Operations and Politics | H.R. 5750, EQUALS Act of 2025 |
+| 2025-10-08 | HR.5713-119 | Immigration | Expedited Removal of Criminal Aliens Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: G000603` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Brandon Gill
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

@@ -83,3 +83,32 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 7 |
+| Enacted into law | 1 |
+| Top policy areas | Energy · Science, Technology, Communications · Commerce |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-9 | 2025-05-09 | HJRES.75-119 | Providing for consideration of the joint resolution (H.J. Res. 24) providing for congressi |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-17 | HR.7592-119 | Energy | Zero-Based Regulatory Budgeting to Unleash American Energy Act of 2025 |
+| 2026-01-13 | HR.7034-119 | Taxation | No Tax on Home Sales Act |
+| 2025-09-10 | HR.5264-119 | Science, Technology, Communications | SPEED for Broadband Infrastructure Act of 2025 |
+| 2025-07-25 | HR.4758-119 | Energy | Providing for consideration of the bill (H.R. 4626) to amend the Energy Policy and Conserv |
+| 2025-06-10 | HR.3875-119 | Commerce | TERMS Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: G000601` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

@@ -151,11 +151,11 @@ donors: [[Defense Industry]] · Cybersecurity Industry · Wall Street · [[UAW -
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,720 |
-| Votes with party majority | 2,567 |
-| Party-line loyalty | 94.4% |
-| Deviations from party | 40 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,651 |
+| Votes with party majority | 3,493 |
+| Party-line loyalty | 95.7% |
+| Deviations from party | 45 |
 
 **Coverage:**
 
@@ -163,12 +163,14 @@ donors: [[Defense Industry]] · Cybersecurity Industry · Wall Street · [[UAW -
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 40):**
+**Most recent party-line deviations (top 10 of 45):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -185,6 +187,39 @@ donors: [[Defense Industry]] · Cybersecurity Industry · Wall Street · [[UAW -
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 504 |
+| Enacted into law | 49 |
+| Top policy areas | Government Operations and Politics · Armed Forces and National Security · Transportation and Public Works |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-67 | 2025-12-26 | S.2878-119 | Great Lakes Fishery Research Reauthorization Act |
+| PL 118-271 | 2025-01-04 | S.2181-118 | Veterans’ Burial Improvement Act of 2024 |
+| PL 118-190 | 2024-12-23 | S.709-118 | Federal Agency Performance Act of 2024 |
+| PL 118-207 | 2024-12-23 | S.4716-118 | Financial Management Risk Reduction Act |
+| PL 118-156 | 2024-12-17 | S.3475-118 | Strengthening the Commercial Driver’s License Information System Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-26 | S.4264-119 | — | NASA UAS Detection Act |
+| 2026-03-12 | S.4074-119 | Government Operations and Politics | Fund CISA Personnel Act of 2026 |
+| 2026-02-25 | S.3913-119 | Foreign Trade and International Finance | Self-Initiation Trade Enforcement Act of 2026 |
+| 2026-02-12 | S.3870-119 | Labor and Employment | Lifelong Learning Act |
+| 2026-02-09 | S.3810-119 | Agriculture and Food | SWAT Act of 2026 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: P000595` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

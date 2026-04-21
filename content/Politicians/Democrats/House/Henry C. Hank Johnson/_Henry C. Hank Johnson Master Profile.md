@@ -92,25 +92,30 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,675 |
-| Votes with party majority | 1,614 |
-| Party-line loyalty | 96.4% |
-| Deviations from party | 61 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,721 |
+| Votes with party majority | 4,578 |
+| Party-line loyalty | 97.0% |
+| Deviations from party | 142 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 61):**
+**Most recent party-line deviations (top 10 of 142):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -127,3 +132,36 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 178 |
+| Enacted into law | 6 |
+| Top policy areas | Law · Crime and Law Enforcement · Commerce |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 114-172 | 2016-06-13 | HR.3274-114 | To designate the facility of the United States Postal Service located at 4567 Rockbridge R |
+| — | 2011-01-20 | HR.368-112 | Removal Clarification Act of 2011 |
+| — | 2010-05-18 | HR.5330-111 | Antitrust Criminal Penalty Enhancement and Reform Act of 2004 Extension Act |
+| — | 2009-06-03 | HR.2675-111 | To amend the Antitrust Criminal Penalty Enhancement and Reform Act of 2004 to extend the o |
+| — | 2009-03-19 | HR.1626-111 | Statutory Time-Periods Technical Amendments Act of 2009 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-03 | HR.7766-119 | — | To amend title 10, United States Code, to direct the Secretary of Defense to make certain  |
+| 2025-11-18 | HR.6091-119 | Civil Rights and Liberties, Minority Issues | Bivens Act of 2025 |
+| 2025-11-18 | HR.6092-119 | Civil Rights and Liberties, Minority Issues | Constitutional Accountability Act |
+| 2025-09-15 | HR.5350-119 | Law | Forced Arbitration Injustice Repeal Act |
+| 2025-07-23 | HR.4678-119 | Law | RAP Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: J000288` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

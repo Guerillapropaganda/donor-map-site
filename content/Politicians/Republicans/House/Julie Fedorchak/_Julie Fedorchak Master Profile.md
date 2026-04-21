@@ -138,6 +138,35 @@ top-donors: "[[Northrop Grumman]], [[National Rifle Association]], [[Winning for
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 12 |
+| Enacted into law | 1 |
+| Top policy areas | Energy · Public Lands and Natural Resources · Environmental Protection |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-49 | 2025-12-11 | HJRES.105-119 | Providing for consideration of the bill (H.R. 4553) making appropriations for energy and w |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-19 | HR.8006-119 | Water Resources Development | Dakota Water Resources Act Amendments of 2026 |
+| 2026-03-17 | HR.7956-119 | Health | State Offices of Rural Health Program Reauthorization Act of 2026 |
+| 2025-12-11 | HR.6633-119 | Energy | High-Capacity Grid Act |
+| 2025-12-01 | HR.6336-119 | Energy | Fair Allocation of Interstate Rates Act |
+| 2025-09-11 | HR.5311-119 | Science, Technology, Communications | CABLE Expansion Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: F000482` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Julie Fedorchak
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

@@ -137,24 +137,29 @@ donors: Don Gaetz Family Fortune · [[MAGA Small Dollar Base]]
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,216 |
-| Substantive votes (Y/N) | 1,096 |
-| Votes with party majority | 923 |
-| Party-line loyalty | 84.2% |
-| Deviations from party | 173 |
+| Roll-call votes tracked | 4,347 |
+| Substantive votes (Y/N) | 4,013 |
+| Votes with party majority | 3,359 |
+| Party-line loyalty | 83.7% |
+| Deviations from party | 654 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 460 votes
 - house 119/1: 1 votes
 
-**Most recent party-line deviations (top 10 of 173):**
+**Most recent party-line deviations (top 10 of 654):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -171,6 +176,29 @@ donors: Don Gaetz Family Fortune · [[MAGA Small Dollar Base]]
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 53 |
+| Enacted into law | 0 |
+| Top policy areas | Crime and Law Enforcement · Government Operations and Politics · Immigration |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2024-10-29 | HR.10067-118 | Taxation | HARRIS Act of 2024 |
+| 2024-10-29 | HR.10066-118 | Government Operations and Politics | JAIL for Alien Voters Act of 2024 |
+| 2024-10-18 | HR.10003-118 | Government Operations and Politics | National Motor Voter Clarification Act |
+| 2024-10-01 | HR.9895-118 | Immigration | BARRIER Act of 2024 |
+| 2024-08-20 | HR.9387-118 | Immigration | ALIEN Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: G000578` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

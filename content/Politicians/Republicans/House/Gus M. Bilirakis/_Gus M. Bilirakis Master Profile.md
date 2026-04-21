@@ -85,25 +85,30 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,652 |
-| Votes with party majority | 1,581 |
-| Party-line loyalty | 95.7% |
-| Deviations from party | 71 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,680 |
+| Votes with party majority | 4,490 |
+| Party-line loyalty | 95.9% |
+| Deviations from party | 190 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 71):**
+**Most recent party-line deviations (top 10 of 190):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -120,3 +125,36 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 255 |
+| Enacted into law | 7 |
+| Top policy areas | Health · Armed Forces and National Security · Taxation |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-212 | 2025-01-02 | HR.1823-118 | H.R. 1823, a bill to designate the facility of the United States Postal Service located at |
+| PL 118-107 | 2024-11-21 | HR.7189-118 | H.R. 7189, Congenital Heart Futures Reauthorization Act of 2024 |
+| PL 118-66 | 2024-07-02 | HR.2365-118 | National Plan to End Parkinson’s Act |
+| PL 116-154 | 2020-08-08 | HR.3504-116 | Paul Benne Specially Adaptive Housing Improvement Act of 2019 |
+| PL 115-342 | 2018-12-21 | HR.1222-115 | Congenital Heart Futures Reauthorization Act of 2017 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-26 | HR.8095-119 | Health | Ensuring Medicaid Continuity for Children in Foster Care Act of 2026 |
+| 2026-03-19 | HR.8000-119 | Crime and Law Enforcement | END 7-OH Act |
+| 2026-03-09 | HR.7863-119 | Health | Promoting Fairness for Medicare Providers Act of 2026 |
+| 2026-01-13 | HR.7027-119 | — | To amend title 10, United States Code, to eliminate the recoupment of separation pay, spec |
+| 2025-12-18 | HR.6840-119 | International Affairs | ARMENIA Security Partnership Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: B001257` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

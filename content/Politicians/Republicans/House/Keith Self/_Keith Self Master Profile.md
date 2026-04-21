@@ -125,6 +125,35 @@ top-donors: "[[Club for Growth INC PAC]]"
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 63 |
+| Enacted into law | 1 |
+| Top policy areas | Armed Forces and National Security · International Affairs · Crime and Law Enforcement |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-214 | 2025-01-02 | HR.4136-118 | Further Continuing Appropriations and Disaster Relief Supplemental Appropriations Act, 202 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | HR.8353-119 | — | To establish a prohibition on fees related to religious participation, and for other purpo |
+| 2026-04-02 | HR.8187-119 | Science, Technology, Communications | To amend title 51, United States Code, to direct the Administrator of the National Aeronau |
+| 2026-03-30 | HR.8166-119 | Taxation | GUARD Act |
+| 2026-03-16 | HR.7950-119 | Armed Forces and National Security | To amend title 38, United States Code, to establish the Office of Congressional and Legisl |
+| 2026-02-23 | HR.7653-119 | International Affairs | H.R. 7653, Biodefense Diplomacy Enhancement Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S001224` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Keith Self
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

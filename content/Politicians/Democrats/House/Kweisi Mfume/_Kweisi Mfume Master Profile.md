@@ -112,25 +112,27 @@ top-donors: "[[Walmart - Walton Family]], [[Lockheed Martin]], [[Sierra Club Ind
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 116th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,650 |
-| Votes with party majority | 1,624 |
-| Party-line loyalty | 98.4% |
-| Deviations from party | 26 |
+| Roll-call votes tracked | 2,873 |
+| Substantive votes (Y/N) | 2,742 |
+| Votes with party majority | 2,705 |
+| Party-line loyalty | 98.7% |
+| Deviations from party | 37 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 116/2: 149 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 26):**
+**Most recent party-line deviations (top 10 of 37):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -147,6 +149,36 @@ top-donors: "[[Walmart - Walton Family]], [[Lockheed Martin]], [[Sierra Club Ind
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 38 |
+| Enacted into law | 2 |
+| Top policy areas | Commerce · Arts, Culture, Religion · Armed Forces and National Security |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-264 | 2025-01-04 | HR.9544-118 | A bill to designate the facility of the United States Postal Service located at 340 South  |
+| PL 118-175 | 2024-12-23 | HR.6826-118 | A bill to designate the visitor and education center at Fort McHenry National Monument and |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-12 | HR.7915-119 | Congress | Clarence Mitchell, Jr. Statue Act |
+| 2026-02-26 | HR.7740-119 | Arts, Culture, Religion | African American History Act of 2026 |
+| 2026-02-12 | HR.7549-119 | Arts, Culture, Religion | National Council on African American History and Culture Act of 2026 |
+| 2026-01-27 | HR.7265-119 | Government Operations and Politics | Make Elections Great Again Act |
+| 2025-12-04 | HR.6467-119 | Arts, Culture, Religion | National Museum of the Blind People’s Movement Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M000687` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Kweisi Mfume
 

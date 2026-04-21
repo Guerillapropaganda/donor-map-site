@@ -105,25 +105,30 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,711 |
-| Votes with party majority | 1,673 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,788 |
+| Votes with party majority | 4,682 |
 | Party-line loyalty | 97.8% |
-| Deviations from party | 38 |
+| Deviations from party | 105 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 38):**
+**Most recent party-line deviations (top 10 of 105):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -140,3 +145,34 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 193 |
+| Enacted into law | 3 |
+| Top policy areas | Finance and Financial Sector · Health · Science, Technology, Communications |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-231 | 2022-12-19 | HR.700-117 | A bill to designate the facility of the United States Postal Service located at 303 East M |
+| PL 114-193 | 2016-07-15 | HR.4960-114 | A bill to designate the facility of the United States Postal Service located at 525 North  |
+| — | 2010-05-12 | HR.5278-111 | To designate the facility of the United States Postal Service located at 405 West Second S |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-15 | HR.8299-119 | — | To amend the Internal Revenue Code of 1986 to establish a program to populate downloadable |
+| 2026-03-04 | HR.7790-119 | Health | Medical Records Access Fairness Act of 2026 |
+| 2026-02-03 | HR.7326-119 | Housing and Community Development | ABODE Act |
+| 2026-01-16 | HR.7132-119 | Finance and Financial Sector | Enhancing Financial Stability Research and Oversight Act |
+| 2025-12-16 | HR.6741-119 | Taxation | Payer State Transparency Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: F000454` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

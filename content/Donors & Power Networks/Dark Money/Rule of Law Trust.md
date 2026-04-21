@@ -38,6 +38,25 @@ politicians-funded: "[[Schwab Charitable Fund]], [[The Concord Fund]], [[Fidelit
 - **Network:** Leonard Leo-aligned judicial / legal-sector dark money vehicle
 - **Known inflows:** $153M from Marble Freedom Trust (2021)
 
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 1 |
+| Leak sources | Paradise Papers - Nevis corporate registry (1) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| Meridian Trust Company Ltd. | intermediary | — | Paradise Papers - Nevis corporate registry |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: Rule of Law Trust` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->
+
 ## Sources
 
 - [IRS Exempt Organization 990 records](https://www.irs.gov/charities-non-profits/form-990-series-downloads)

@@ -140,6 +140,29 @@ top-donors: "[[Darrell Issa]], [[Duke Energy]], [[Jim Jordan]], [[Anthem - Eleva
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 17 |
+| Enacted into law | 0 |
+| Top policy areas | Armed Forces and National Security · Crime and Law Enforcement · Transportation and Public Works |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | HR.8332-119 | — | To provide concealed carry privileges to qualified special operators. |
+| 2026-03-17 | HR.7958-119 | — | To amend the Immigration and Nationality Act to deem specified activities in support of te |
+| 2026-03-09 | HR.7873-119 | International Affairs | Taiwan Energy Security and Anti-Embargo Act of 2026 |
+| 2026-01-07 | HR.6962-119 | Housing and Community Development | Families First Housing Act of 2026 |
+| 2025-12-19 | HR.6911-119 | Crime and Law Enforcement | COPS Anti-Organized Crime and Cartel Enforcement Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: H001101` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Pat Harrigan
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

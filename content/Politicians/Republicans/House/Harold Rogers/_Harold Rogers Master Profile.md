@@ -114,25 +114,30 @@ top-policy-area: Health
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,651 |
-| Votes with party majority | 1,492 |
-| Party-line loyalty | 90.4% |
-| Deviations from party | 159 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,663 |
+| Votes with party majority | 4,374 |
+| Party-line loyalty | 93.8% |
+| Deviations from party | 289 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 159):**
+**Most recent party-line deviations (top 10 of 289):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -149,6 +154,39 @@ top-policy-area: Health
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 62 |
+| Enacted into law | 23 |
+| Top policy areas | Economics and Public Finance · Public Lands and Natural Resources · Emergency Management |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 114-100 | 2015-12-16 | HJRES.78-114 | Continuing Appropriations Act, 2016 |
+| PL 114-4 | 2015-03-04 | HR.240-114 | Department of Homeland Security Appropriations Act, 2015 |
+| PL 113-203 | 2014-12-13 | HJRES.131-113 | Making further continuing appropriations for fiscal year 2015, and for other purposes. |
+| PL 113-202 | 2014-12-12 | HJRES.130-113 | Making further continuing appropriations for fiscal year 2015, and for other purposes. |
+| PL 113-164 | 2014-09-19 | HJRES.124-113 | Providing for consideration of the joint resolution (H.J. Res. 124) making continuing appr |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2025-09-12 | HR.5342-119 | Economics and Public Finance | Commerce, Justice, Science, and Related Agencies Appropriations Act, 2026 |
+| 2024-10-18 | HR.10016-118 | Public Lands and Natural Resources | Kentucky Wildlands National Heritage Area Act |
+| 2024-07-11 | HR.9026-118 | Economics and Public Finance | Commerce, Justice, Science, and Related Agencies Appropriations Act, 2025 |
+| 2024-05-08 | HR.8324-118 | Government Operations and Politics | A bill to designate the United States courthouse annex located at 310 South Main Street in |
+| 2023-12-06 | HR.6644-118 | Labor and Employment | John White Ensuring Timely Black Lung Benefits Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: R000395` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Harold Rogers
 

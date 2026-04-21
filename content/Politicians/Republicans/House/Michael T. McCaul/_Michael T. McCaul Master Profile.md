@@ -85,25 +85,30 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,621 |
-| Votes with party majority | 1,504 |
-| Party-line loyalty | 92.8% |
-| Deviations from party | 117 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,683 |
+| Votes with party majority | 4,416 |
+| Party-line loyalty | 94.3% |
+| Deviations from party | 267 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 117):**
+**Most recent party-line deviations (top 10 of 267):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -120,3 +125,36 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 195 |
+| Enacted into law | 9 |
+| Top policy areas | International Affairs · Emergency Management · Immigration |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-214 | 2022-10-19 | HR.4693-117 | Global Malnutrition Prevention and Treatment Act of 2021 |
+| PL 116-334 | 2021-01-13 | HR.2744-116 | USAID Branding Modernization Act |
+| PL 116-332 | 2021-01-13 | HR.2444-116 | NATO Defense Financing Act |
+| PL 116-93 | 2019-12-20 | HR.1158-116 | DHS Cyber Hunt and Incident Response Teams Act of 2019 |
+| PL 115-278 | 2018-11-16 | HR.3359-115 | DHS Authorization Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-15 | HR.8284-119 | Foreign Trade and International Finance | Bureau of Industry and Security License Administration Enhancement Act |
+| 2026-04-13 | HR.8253-119 | — | To amend the Homeland Security Act of 2002 to establish in the Department of Homeland Secu |
+| 2026-02-11 | HR.7506-119 | Foreign Trade and International Finance | Decreasing Russian Oil Profits Act of 2025 |
+| 2025-02-12 | HR.1262-119 | Health | RARE Act |
+| 2025-01-22 | HR.625-119 | Law | JUDGES Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001157` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

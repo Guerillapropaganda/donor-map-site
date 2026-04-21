@@ -130,6 +130,29 @@ fec-candidate-id: H4NC14015
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 22 |
+| Enacted into law | 0 |
+| Top policy areas | Crime and Law Enforcement · Taxation · Immigration |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-02 | HR.8182-119 | Immigration | Banning Perpetrators of Religious Persecution Act of 2026 |
+| 2026-02-05 | HR.7402-119 | Taxation | Unlocking Homeownership Act |
+| 2026-01-22 | HR.7225-119 | Crime and Law Enforcement | Protecting Child Sex Trafficking Victim Witnesses Act |
+| 2026-01-15 | HR.7114-119 | Crime and Law Enforcement | No Bounties on Badges Act |
+| 2025-12-17 | HR.6805-119 | Energy | Next Generation Nuclear Deployment Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001236` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Tim Moore
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

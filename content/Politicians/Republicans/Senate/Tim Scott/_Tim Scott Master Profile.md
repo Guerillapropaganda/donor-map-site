@@ -141,11 +141,11 @@ SORT file.name ASC
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,561 |
-| Votes with party majority | 2,485 |
-| Party-line loyalty | 97.0% |
-| Deviations from party | 52 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,490 |
+| Votes with party majority | 3,338 |
+| Party-line loyalty | 95.6% |
+| Deviations from party | 127 |
 
 **Coverage:**
 
@@ -153,12 +153,14 @@ SORT file.name ASC
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 52):**
+**Most recent party-line deviations (top 10 of 127):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -175,6 +177,39 @@ SORT file.name ASC
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 245 |
+| Enacted into law | 5 |
+| Top policy areas | Finance and Financial Sector · Health · Foreign Trade and International Finance |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-10 | 2025-05-09 | SJRES.18-119 | Disapproving the rule submitted by the Bureau of Consumer Financial Protection relating to |
+| PL 117-11 | 2021-04-23 | S.578-117 | FASTER Act of 2021 |
+| PL 116-270 | 2020-12-31 | S.461-116 | HBCU PARTNERS Act |
+| PL 116-151 | 2020-08-03 | S.4209-116 | Protecting Nonprofits from Catastrophic Cash Flow Strain Act of 2020 |
+| PL 115-327 | 2018-12-18 | S.2465-115 | Sickle Cell Disease Research, Surveillance, Prevention, and Treatment Act of 2017 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-26 | S.4242-119 | Families | Supporting Pregnant and Parenting Women and Families Act |
+| 2026-03-11 | S.4047-119 | Education | Kids in Classes Act |
+| 2026-03-11 | S.4048-119 | Health | PREDICT Act |
+| 2026-02-11 | S.3848-119 | Health | Apples to Apples Comparison Act of 2025 |
+| 2026-02-10 | S.3816-119 | Health | RAMP Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S001184` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

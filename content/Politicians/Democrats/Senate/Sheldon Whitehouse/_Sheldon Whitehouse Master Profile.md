@@ -199,11 +199,11 @@ SORT file.name ASC
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,640 |
-| Votes with party majority | 2,526 |
-| Party-line loyalty | 95.7% |
-| Deviations from party | 17 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,576 |
+| Votes with party majority | 3,456 |
+| Party-line loyalty | 96.6% |
+| Deviations from party | 23 |
 
 **Coverage:**
 
@@ -211,12 +211,14 @@ SORT file.name ASC
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 17):**
+**Most recent party-line deviations (top 10 of 23):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -226,13 +228,46 @@ SORT file.name ASC
 | 2025-06-30 | s352-119.1 | Nay | Y | — |
 | 2024-04-19 | s148-118.2 | Nay | Y | — |
 | 2023-03-08 | s49-118.1 | Nay | Y | H.J.Res. 26 |
-| 2020-07-01 | s129-116.2 | Yea | N | — |
-| 2020-05-13 | s89-116.2 | Nay | Y | — |
-| 2020-03-09 | s67-116.2 | Yea | N | — |
-| 2020-01-16 | s14-116.2 | Nay | Y | H.R. 5430 |
+| 2022-03-10 | s77-117.2 | Yea | N | — |
+| 2021-12-07 | s484-117.1 | Nay | Y | — |
+| 2021-08-10 | s331-117.1 | Nay | Y | — |
+| 2021-08-10 | s337-117.1 | Nay | Y | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 397 |
+| Enacted into law | 10 |
+| Top policy areas | Taxation · Health · Crime and Law Enforcement |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-78 | 2024-07-30 | S.4548-118 | Foreign Extortion Prevention Act |
+| PL 116-250 | 2020-12-22 | S.578-116 | ALS Disability Insurance Access Act of 2019 |
+| PL 114-198 | 2016-07-22 | S.524-114 | Comprehensive Addiction and Recovery Act of 2015 |
+| PL 114-162 | 2016-05-20 | S.1523-114 | Estuary Urgent Needs Priority Program Act |
+| PL 114-142 | 2016-03-31 | S.2393-114 | Servicemember Foreclosure Protections Extension Act of 2015 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-26 | S.4248-119 | Transportation and Public Works | Enhancing Long-Term, Efficient, and Viable Alternatives to Empower Flood-Prone Communities |
+| 2026-03-26 | SJRES.155-119 | Finance and Financial Sector | A joint resolution providing for congressional disapproval under chapter 8 of title 5, Uni |
+| 2026-03-25 | S.4185-119 | Taxation | Stop Subsidizing Giant Mergers Act |
+| 2026-03-25 | SJRES.144-119 | Finance and Financial Sector | A joint resolution providing for congressional disapproval under chapter 8 of title 5, Uni |
+| 2026-03-25 | SJRES.143-119 | Finance and Financial Sector | A joint resolution providing for congressional disapproval under chapter 8 of title 5, Uni |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: W000802` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

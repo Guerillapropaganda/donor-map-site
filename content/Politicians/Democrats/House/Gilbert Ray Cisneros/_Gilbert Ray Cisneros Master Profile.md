@@ -51,22 +51,24 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 116th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 485 |
-| Substantive votes (Y/N) | 481 |
-| Votes with party majority | 470 |
-| Party-line loyalty | 97.7% |
-| Deviations from party | 11 |
+| Roll-call votes tracked | 1,439 |
+| Substantive votes (Y/N) | 1,428 |
+| Votes with party majority | 1,388 |
+| Party-line loyalty | 97.2% |
+| Deviations from party | 40 |
 
 **Coverage:**
 
+- house 116/1: 701 votes
+- house 116/2: 253 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 11):**
+**Most recent party-line deviations (top 10 of 40):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -83,3 +85,26 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 29 |
+| Enacted into law | 0 |
+| Top policy areas | Armed Forces and National Security · Commerce · Immigration |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-01-20 | HR.7154-119 | Commerce | Streamlining Small Business Contracts Act of 2026 |
+| 2026-01-08 | HR.6976-119 | Armed Forces and National Security | Duty Status Reform Act |
+| 2026-01-07 | HR.6958-119 | Immigration | PROTECT Military Families Act |
+| 2025-12-03 | HR.6384-119 | Armed Forces and National Security | Defense Health Agency Prevention Services Enhancement Act |
+| 2025-12-03 | HR.6383-119 | Armed Forces and National Security | Streamlining Procurement for Effective Execution and Delivery and National Defense Authori |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C001123` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

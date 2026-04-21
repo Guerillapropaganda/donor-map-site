@@ -115,21 +115,22 @@ top-donors: "[[Marathon Petroleum]], [[PG&E - Pacific Gas and Electric]], [[John
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,709 |
-| Votes with party majority | 1,532 |
-| Party-line loyalty | 89.6% |
-| Deviations from party | 177 |
+| Roll-call votes tracked | 2,724 |
+| Substantive votes (Y/N) | 2,668 |
+| Votes with party majority | 2,427 |
+| Party-line loyalty | 91.0% |
+| Deviations from party | 241 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 177):**
+**Most recent party-line deviations (top 10 of 241):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -146,6 +147,35 @@ top-donors: "[[Marathon Petroleum]], [[PG&E - Pacific Gas and Electric]], [[John
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 61 |
+| Enacted into law | 1 |
+| Top policy areas | Science, Technology, Communications · Public Lands and Natural Resources · Health |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-17 | 2025-06-12 | HJRES.89-119 | Providing for consideration of the joint resolution (H.J. Res. 60) providing for congressi |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | HR.8345-119 | — | To establish the Economy of the Future Commission, and for other purposes. |
+| 2026-04-15 | HR.8307-119 | — | To require the Secretary of Transportation to establish a working group to review and esta |
+| 2026-04-14 | HR.8271-119 | — | ICU Bed Act of 2026 |
+| 2026-03-17 | HR.7963-119 | Science, Technology, Communications | No Lifeline for the Dead Act |
+| 2026-03-04 | HR.7801-119 | Science, Technology, Communications | Cloud LAB Act of 2026 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: O000019` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Jay Obernolte
 

@@ -150,6 +150,29 @@ top-donors: "[[National Association of Realtors]], [[United Food and Commercial 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 36 |
+| Enacted into law | 0 |
+| Top policy areas | Health · Armed Forces and National Security · Crime and Law Enforcement |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-20 | HR.8033-119 | Energy | No Harm Data Centers Act |
+| 2026-03-09 | HR.7877-119 | Health | Shane DiGiovanna Act |
+| 2026-03-09 | HR.7876-119 | Crime and Law Enforcement | Secret Service-Local Law Enforcement Partnership Act of 2026 |
+| 2026-03-03 | HR.7768-119 | Taxation | Tax Relief for Renters Act of 2026 |
+| 2025-12-18 | HR.6868-119 | Health | ACCESS Through OTC Innovation Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: L000601` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Greg Landsman
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

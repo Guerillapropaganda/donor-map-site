@@ -103,25 +103,30 @@ top-donors: "[[American Federation of State County & Municipal Employees P E O P
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,649 |
-| Votes with party majority | 1,620 |
-| Party-line loyalty | 98.2% |
-| Deviations from party | 29 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,698 |
+| Votes with party majority | 4,624 |
+| Party-line loyalty | 98.4% |
+| Deviations from party | 73 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 29):**
+**Most recent party-line deviations (top 10 of 73):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -138,6 +143,38 @@ top-donors: "[[American Federation of State County & Municipal Employees P E O P
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 136 |
+| Enacted into law | 4 |
+| Top policy areas | Government Operations and Politics · Crime and Law Enforcement · Immigration |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-243 | 2022-12-20 | HR.263-117 | Big Cat Public Safety Act |
+| PL 117-79 | 2021-12-23 | HR.3537-117 | Accelerating Access to Critical Therapies for ALS Act |
+| PL 114-300 | 2016-12-16 | HR.5676-114 | To designate the facility of the United States Postal Service located at 6300 N. Northwest |
+| — | 2010-03-16 | HR.4861-111 | To designate the facility of the United States Postal Service located at 1343 West Irving  |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-06 | HR.8205-119 | Health | Accelerating Access to Critical Therapies for ALS Reauthorization Act of 2026 |
+| 2025-12-18 | HR.6890-119 | Immigration | PROTECT Immigration Act of 2025 |
+| 2025-12-18 | HR.6889-119 | Transportation and Public Works | BRIDGE Act |
+| 2025-06-06 | HR.3823-119 | Crime and Law Enforcement | TRACE Act |
+| 2025-05-23 | HR.3604-119 | Public Lands and Natural Resources | Reducing Waste in National Parks Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: Q000023` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Mike Quigley
 

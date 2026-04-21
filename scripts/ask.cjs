@@ -243,12 +243,20 @@ function showVotingRecord(bioguide, title) {
     try { const v = JSON.parse(line); voteMeta.set(v.vote_id, v); } catch {}
   }
   const myPositions = [];
-  for (const line of fs.readFileSync(posFile, 'utf-8').split('\n')) {
-    if (!line.trim()) continue;
-    try {
-      const p = JSON.parse(line);
-      if (p.bioguide === bioguide) myPositions.push(p);
-    } catch {}
+  // Prefer merged file if present; fall back to split directory (the
+  // committed form — data/legislator-positions/{congress}.jsonl).
+  const splitDir = posFile.replace(/\.jsonl$/, '');
+  const sources = fs.existsSync(posFile) && fs.statSync(posFile).size > 0
+    ? [posFile]
+    : (fs.existsSync(splitDir) ? fs.readdirSync(splitDir).filter((n) => n.endsWith('.jsonl')).sort().map((n) => path.join(splitDir, n)) : []);
+  for (const src of sources) {
+    for (const line of fs.readFileSync(src, 'utf-8').split('\n')) {
+      if (!line.trim()) continue;
+      try {
+        const p = JSON.parse(line);
+        if (p.bioguide === bioguide) myPositions.push(p);
+      } catch {}
+    }
   }
   let y = 0, n = 0;
   for (const p of myPositions) { if (p.position === 'Aye' || p.position === 'Yea') y++; else if (p.position === 'No' || p.position === 'Nay') n++; }

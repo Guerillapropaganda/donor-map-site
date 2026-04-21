@@ -89,25 +89,30 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,711 |
-| Votes with party majority | 1,669 |
-| Party-line loyalty | 97.5% |
-| Deviations from party | 42 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,792 |
+| Votes with party majority | 4,634 |
+| Party-line loyalty | 96.7% |
+| Deviations from party | 157 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 42):**
+**Most recent party-line deviations (top 10 of 157):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -124,3 +129,26 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 90 |
+| Enacted into law | 0 |
+| Top policy areas | Health · International Affairs · Taxation |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-19 | HR.7999-119 | Agriculture and Food | Breakfast After the Bell Act of 2026 |
+| 2026-01-22 | HR.7198-119 | Health | Ensuring Access to General Surgery Act of 2026 |
+| 2025-12-04 | HR.6428-119 | International Affairs | H.R. 6428, a bill to require the Secretary of State to submit a report on participation in |
+| 2025-11-19 | HR.6126-119 | Finance and Financial Sector | United States Foreign Service Commemorative Coin Act |
+| 2025-07-15 | HR.4391-119 | International Affairs | Minerals Security Partnership Authorization Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: B001287` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

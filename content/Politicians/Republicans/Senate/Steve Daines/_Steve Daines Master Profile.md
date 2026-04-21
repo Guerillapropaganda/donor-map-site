@@ -122,11 +122,11 @@ top-donors: "[[AT&T - WarnerMedia]], [[DoorDash]], [[Johnson & Johnson]], [[Asso
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,673 |
-| Votes with party majority | 2,541 |
-| Party-line loyalty | 95.1% |
-| Deviations from party | 100 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,569 |
+| Votes with party majority | 3,381 |
+| Party-line loyalty | 94.7% |
+| Deviations from party | 155 |
 
 **Coverage:**
 
@@ -134,12 +134,14 @@ top-donors: "[[AT&T - WarnerMedia]], [[DoorDash]], [[Johnson & Johnson]], [[Asso
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 100):**
+**Most recent party-line deviations (top 10 of 155):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -156,6 +158,39 @@ top-donors: "[[AT&T - WarnerMedia]], [[DoorDash]], [[Johnson & Johnson]], [[Asso
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 305 |
+| Enacted into law | 6 |
+| Top policy areas | Public Lands and Natural Resources · Taxation · Government Operations and Politics |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-76 | 2024-07-30 | S.3285-118 | To rename the community-based outpatient clinic of the Department of Veterans Affairs in B |
+| PL 116-262 | 2020-12-30 | S.900-116 | To designate the community-based outpatient clinic of the Department of Veterans Affairs i |
+| PL 116-167 | 2020-10-13 | S.490-116 | B–47 Ridge Designation Act |
+| PL 115-219 | 2018-07-27 | S.490-115 | To reinstate and extend the deadline for commencement of construction of a hydroelectric p |
+| PL 115-181 | 2018-06-05 | S.1282-115 | To redesignate certain clinics of the Department of Veterans Affairs located in Montana. |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | S.4314-119 | — | A bill to amend the John H. Chaffee Foster Care Program for Successful Transition to Adult |
+| 2026-03-10 | S.4041-119 | Water Resources Development | Cooperative Watershed Management Program Reauthorization Act of 2026 |
+| 2026-02-26 | S.3940-119 | Finance and Financial Sector | CDFI Fund Transparency Act |
+| 2026-02-11 | S.3834-119 | Health | Expanded Telehealth Access Act |
+| 2026-01-15 | S.3671-119 | Finance and Financial Sector | Incentivizing New Ventures and Economic Strength Through Capital Formation Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: D000618` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Steve Daines
 

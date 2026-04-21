@@ -116,25 +116,30 @@ top-donors: "[[MAJORITY PAC]], [[Anthem - Elevance Health]], [[WinRed]], [[Save 
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,709 |
-| Votes with party majority | 1,578 |
-| Party-line loyalty | 92.3% |
-| Deviations from party | 131 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,815 |
+| Votes with party majority | 4,447 |
+| Party-line loyalty | 92.4% |
+| Deviations from party | 368 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 131):**
+**Most recent party-line deviations (top 10 of 368):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -151,6 +156,36 @@ top-donors: "[[MAJORITY PAC]], [[Anthem - Elevance Health]], [[WinRed]], [[Save 
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 145 |
+| Enacted into law | 2 |
+| Top policy areas | Health · Taxation · Economics and Public Finance |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-162 | 2024-12-23 | HR.1607-118 | A bill to clarify jurisdiction with respect to certain Bureau of Reclamation pumped storag |
+| PL 117-279 | 2022-12-27 | HR.5650-117 | To designate the facility of the United States Postal Service located at 16605 East Avenue |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-14 | HR.8277-119 | — | To amend the Internal Revenue Code of 1986 to designate copper as an applicable critical m |
+| 2026-03-18 | HR.7971-119 | Taxation | TAS Act |
+| 2026-03-18 | HR.7972-119 | Taxation | Taxpayer Workforce Modernization Act |
+| 2026-02-25 | HR.7713-119 | Health | Combating Deceptive Practices in Assistance Programs Act of 2026 |
+| 2026-02-12 | HR.7558-119 | — | To direct the Secretary of Defense and the Secretary of Veterans Affairs to jointly adopt  |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S001183` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # David Schweikert
 

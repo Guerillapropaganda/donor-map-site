@@ -92,25 +92,28 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 116th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,665 |
-| Votes with party majority | 1,331 |
-| Party-line loyalty | 79.9% |
-| Deviations from party | 334 |
+| Roll-call votes tracked | 3,678 |
+| Substantive votes (Y/N) | 3,556 |
+| Votes with party majority | 3,054 |
+| Party-line loyalty | 85.9% |
+| Deviations from party | 502 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 334):**
+**Most recent party-line deviations (top 10 of 502):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -127,3 +130,26 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 76 |
+| Enacted into law | 0 |
+| Top policy areas | Commerce · Government Operations and Politics · Public Lands and Natural Resources |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-26 | HR.7735-119 | Armed Forces and National Security | Improving Mental Health Support for Servicemembers and Veterans Act |
+| 2025-08-15 | HR.4978-119 | Foreign Trade and International Finance | Secure Trade Act |
+| 2025-07-23 | HR.4665-119 | Emergency Management | Loggers Economic Assistance and Relief Act |
+| 2025-06-05 | HR.3762-119 | Health | Supporting Healthy Moms and Babies Act |
+| 2025-05-20 | HR.3509-119 | Armed Forces and National Security | Supporting Our Surviving Spouses Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: G000592` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

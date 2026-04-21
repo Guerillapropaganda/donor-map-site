@@ -129,6 +129,35 @@ top-donors: "[[Texans for a Conservative Majority]], [[Elbert Guillory's America
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 23 |
+| Enacted into law | 1 |
+| Top policy areas | Crime and Law Enforcement · Energy · Immigration |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-81 | 2024-09-20 | HR.7377-118 | H.R. 7377, Royalty Resiliency Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-09 | HR.7431-119 | Congress | Congressional Civics Act of 2026 |
+| 2026-01-30 | HJRES.146-119 | Congress | Proposing an amendment to the Constitution of the United States requiring Members of Congr |
+| 2026-01-15 | HR.7105-119 | Immigration | Guaranteeing the States Protection Against Invasion Act of 2026 |
+| 2026-01-06 | HR.6946-119 | Immigration | Temporary Protected Status Reform Act of 2026. |
+| 2025-12-18 | HR.6865-119 | Immigration | American Students First Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: H001095` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Wesley Hunt
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

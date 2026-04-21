@@ -151,25 +151,30 @@ donors: [[Lockheed Martin]] [[AIPAC - American Israel Public Affairs Committee|A
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,703 |
-| Votes with party majority | 1,676 |
-| Party-line loyalty | 98.4% |
-| Deviations from party | 27 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,707 |
+| Votes with party majority | 4,619 |
+| Party-line loyalty | 98.1% |
+| Deviations from party | 87 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 27):**
+**Most recent party-line deviations (top 10 of 87):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -186,6 +191,39 @@ donors: [[Lockheed Martin]] [[AIPAC - American Israel Public Affairs Committee|A
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 437 |
+| Enacted into law | 10 |
+| Top policy areas | Health · Labor and Employment · Agriculture and Food |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-128 | 2022-05-21 | HR.7691-117 | Providing for consideration of the bill (H.R. 903) to enhance the security operations of t |
+| PL 117-95 | 2022-03-11 | HJRES.75-117 | Providing for consideration of Senate amendment to the bill (H.R. 2471) to measure the pro |
+| PL 117-86 | 2022-02-18 | HR.6617-117 | Providing for consideration of the bill (H.R. 3076) to provide stability to and enhance th |
+| PL 117-70 | 2021-12-03 | HR.6119-117 | Providing for consideration of the bill (H.R. 6119) making further continuing appropriatio |
+| PL 117-43 | 2021-09-30 | HR.5305-117 | Providing for consideration of the bill (H.R. 3755) to protect a person's ability to deter |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-09 | HR.7867-119 | Health | Infant Formula Safety Modernization Act of 2026 |
+| 2026-03-05 | HR.7822-119 | Foreign Trade and International Finance | Tariff Relief for Consumers Act |
+| 2026-02-12 | HR.7531-119 | Labor and Employment | Healthy Families Act |
+| 2026-02-11 | HR.7481-119 | Economics and Public Finance | Further Additional Continuing Appropriations Act, 2026 |
+| 2026-02-09 | HR.7424-119 | Government Operations and Politics | American Business for American Companies Act of 2026 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: D000216` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

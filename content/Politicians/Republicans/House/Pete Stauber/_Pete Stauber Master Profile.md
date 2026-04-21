@@ -116,25 +116,28 @@ top-donors: "[[International Association of Firefighters Interested in Registrat
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 116th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,642 |
-| Votes with party majority | 1,552 |
-| Party-line loyalty | 94.5% |
-| Deviations from party | 90 |
+| Roll-call votes tracked | 3,678 |
+| Substantive votes (Y/N) | 3,532 |
+| Votes with party majority | 3,261 |
+| Party-line loyalty | 92.3% |
+| Deviations from party | 271 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 90):**
+**Most recent party-line deviations (top 10 of 271):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -151,6 +154,37 @@ top-donors: "[[International Association of Firefighters Interested in Registrat
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 80 |
+| Enacted into law | 3 |
+| Top policy areas | Commerce · Government Operations and Politics · Transportation and Public Works |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-53 | 2025-12-12 | HR.452-119 | Miracle on Ice Congressional Gold Medal Act |
+| PL 118-4 | 2023-06-03 | HR.346-118 | NOTAM Improvement Act of 2023 |
+| PL 117-276 | 2022-12-27 | HR.4899-117 | Providing for consideration of the bill (H.R. 3372) to authorize implementation grants to  |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-12 | HR.7923-119 | Families | Stop Fraud by SOMALIA Act |
+| 2026-03-09 | HR.7882-119 | Energy | To provide for the leasing of certain deposits of minerals located within the City of Carl |
+| 2026-02-20 | HR.7634-119 | Law | Judicial Loyalty Act of 2026 |
+| 2026-02-02 | HR.7320-119 | Government Operations and Politics | Minnesota Voter Integrity Act of 2026 |
+| 2026-01-12 | HJRES.140-119 | Public Lands and Natural Resources | Providing for consideration of the bill (H.R. 6945) to amend part A of title IV of the Soc |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S001212` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Pete Stauber
 

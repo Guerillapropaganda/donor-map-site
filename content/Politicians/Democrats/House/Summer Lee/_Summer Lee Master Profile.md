@@ -170,6 +170,35 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 31 |
+| Enacted into law | 1 |
+| Top policy areas | Government Operations and Politics · Housing and Community Development · Labor and Employment |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-215 | 2025-01-02 | HR.4955-118 | A bill to name the community-based outpatient clinic of the Department of Veterans Affairs |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-15 | HR.8303-119 | — | To authorize the Secretary of Education to award grants to revitalize schoolyards. |
+| 2026-02-20 | HR.7623-119 | Health | Freedom House Ambulance Service Congressional Gold Medal Act |
+| 2026-01-22 | HR.7220-119 | Government Operations and Politics | COINTELPRO Full Disclosure Act |
+| 2026-01-15 | HR.7110-119 | Civil Rights and Liberties, Minority Issues | Eliminating Bias in Algorithmic Systems Act of 2026 |
+| 2025-09-02 | HR.5088-119 | Labor and Employment | Union Participation for All Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: L000602` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 ## Who She Is
 
 Summer Lee. U.S. Representative for Pennsylvania's 12th Congressional District (Pittsburgh and surrounding Allegheny County), first elected 2022. The first Black woman elected to Congress from Pennsylvania. Before Congress, served in the Pennsylvania State House of Representatives (2019–2023), where she was part of a generation of DSA-aligned state legislators who won open-seat primaries against establishment Democrats. Democratic Socialists of America member. Aligned with the Congressional Progressive Caucus and the Squad's broader orbit.

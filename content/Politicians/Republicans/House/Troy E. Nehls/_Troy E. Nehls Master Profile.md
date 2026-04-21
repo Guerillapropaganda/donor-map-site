@@ -93,21 +93,22 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,575 |
-| Votes with party majority | 1,453 |
-| Party-line loyalty | 92.3% |
-| Deviations from party | 122 |
+| Roll-call votes tracked | 2,724 |
+| Substantive votes (Y/N) | 2,513 |
+| Votes with party majority | 2,288 |
+| Party-line loyalty | 91.0% |
+| Deviations from party | 225 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 122):**
+**Most recent party-line deviations (top 10 of 225):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -124,3 +125,33 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 81 |
+| Enacted into law | 2 |
+| Top policy areas | Transportation and Public Works · Immigration · Crime and Law Enforcement |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-43 | 2025-12-01 | HR.695-119 | MEDAL Act of 2025 |
+| PL 117-289 | 2022-12-27 | HR.6064-117 | H.R. 6064, a bill to direct the Secretary of Veterans Affairs to seek to enter into an agr |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-12 | HR.7916-119 | Crime and Law Enforcement | CODIS Access Modernization Act |
+| 2026-02-24 | HR.7662-119 | Transportation and Public Works | Railway Safety Act of 2026 |
+| 2026-02-12 | HR.7553-119 | Transportation and Public Works | Aviation Innovation and Global Competitiveness Act |
+| 2026-02-11 | HR.7510-119 | Education | Preventing Research Ownership Transfer to External Competitive Threats (PROTECT) Act of 20 |
+| 2026-02-09 | HR.7442-119 | Transportation and Public Works | National Bridge Funding Reform Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: N000026` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

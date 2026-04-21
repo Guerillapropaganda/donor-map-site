@@ -156,11 +156,11 @@ SORT title ASC
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,515 |
-| Votes with party majority | 2,364 |
-| Party-line loyalty | 94.0% |
-| Deviations from party | 22 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,451 |
+| Votes with party majority | 3,293 |
+| Party-line loyalty | 95.4% |
+| Deviations from party | 29 |
 
 **Coverage:**
 
@@ -168,12 +168,14 @@ SORT title ASC
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 22):**
+**Most recent party-line deviations (top 10 of 29):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -186,10 +188,43 @@ SORT title ASC
 | 2023-09-28 | s243-118.1 | Yea | N | S.J.Res. 24 |
 | 2023-05-11 | s123-118.1 | Yea | N | S.J.Res. 24 |
 | 2023-03-29 | s80-118.1 | Yea | N | H.J.Res. 7 |
-| 2020-07-22 | s135-116.2 | Yea | N | — |
+| 2022-11-15 | s355-117.2 | Yea | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 809 |
+| Enacted into law | 24 |
+| Top policy areas | Health · Government Operations and Politics · Commerce |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-206 | 2024-12-23 | S.4610-118 | To designate the bald eagle as the national bird. |
+| PL 118-36 | 2024-01-26 | S.3222-118 | Legislative Branch Appropriations Act, 2024 |
+| — | 2023-09-07 | S.2747-118 | To amend the Federal Election Campaign Act of 1971 to extend the Administrative Fine Progr |
+| PL 117-242 | 2022-12-20 | S.5060-117 | Paul D. Wellstone Building Act of 2022 |
+| PL 117-210 | 2022-10-17 | S.3157-117 | Bridging the Gap for New Americans Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-19 | S.4148-119 | Agriculture and Food | Homegrown Fertilizer Act |
+| 2026-03-17 | S.4107-119 | Commerce | Antitrust Accountability and Transparency Act |
+| 2026-03-11 | S.4062-119 | Science, Technology, Communications | Next Generation 9–1–1 Act |
+| 2026-03-05 | S.4020-119 | Housing and Community Development | 21st Century ROAD to Housing Act |
+| 2026-01-15 | S.3686-119 | Agriculture and Food | Hemp Planting Predictability Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: K000367` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

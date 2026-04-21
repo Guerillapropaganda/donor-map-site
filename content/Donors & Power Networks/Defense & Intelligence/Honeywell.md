@@ -372,3 +372,24 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Honeywell%20International%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Honeywell%20International)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 2 |
+| Leak sources | Paradise Papers - Appleby (1) · Bahamas Leaks (1) |
+| Top jurisdictions | Bermuda (1) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| Papillon Insurance Services Limited | entity | Bermuda | Paradise Papers - Appleby |
+| UBS TRUSTEES (BAHAMAS) LTD. | intermediary | — | Bahamas Leaks |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: Honeywell International` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

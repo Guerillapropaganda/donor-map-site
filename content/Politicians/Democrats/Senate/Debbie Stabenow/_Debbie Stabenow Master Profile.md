@@ -137,11 +137,11 @@ donors: Agribusiness Industry · Crop Insurance Lobby · [[UAW - United Auto Wor
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,009 |
-| Substantive votes (Y/N) | 1,944 |
-| Votes with party majority | 1,833 |
-| Party-line loyalty | 94.3% |
-| Deviations from party | 21 |
+| Roll-call votes tracked | 2,958 |
+| Substantive votes (Y/N) | 2,884 |
+| Votes with party majority | 2,768 |
+| Party-line loyalty | 96.0% |
+| Deviations from party | 26 |
 
 **Coverage:**
 
@@ -149,10 +149,12 @@ donors: Agribusiness Industry · Crop Insurance Lobby · [[UAW - United Auto Wor
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 
-**Most recent party-line deviations (top 10 of 21):**
+**Most recent party-line deviations (top 10 of 26):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -163,12 +165,45 @@ donors: Agribusiness Industry · Crop Insurance Lobby · [[UAW - United Auto Wor
 | 2024-02-29 | s62-118.2 | Yea | N | S.J.Res. 60 |
 | 2023-06-01 | s145-118.1 | Nay | Y | — |
 | 2023-05-03 | s109-118.1 | Yea | N | H.J.Res. 39 |
-| 2020-02-13 | s46-116.2 | Yea | N | — |
-| 2018-06-28 | s142-115.2 | Nay | Y | — |
-| 2018-03-21 | s59-115.2 | Yea | N | — |
+| 2022-12-15 | s394-117.2 | Nay | Y | — |
+| 2022-05-04 | s152-117.2 | Yea | N | — |
+| 2022-03-10 | s73-117.2 | Yea | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 344 |
+| Enacted into law | 9 |
+| Top policy areas | Health · Taxation · Environmental Protection |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-46 | 2024-03-22 | S.1278-118 | A bill to designate the Federal building located at 985 Michigan Avenue in Detroit, Michig |
+| PL 117-339 | 2023-01-05 | S.1942-117 | National Heritage Area Act of 2021 |
+| PL 117-84 | 2022-01-31 | S.452-117 | Willie O’Ree Congressional Gold Medal Act |
+| PL 115-262 | 2018-10-10 | S.2553-115 | Know the Cost Act of 2018 |
+| PL 113-179 | 2014-09-26 | S.1603-113 | Gun Lake Trust Land Reaffirmation Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2024-11-18 | S.5335-118 | Agriculture and Food | Colorado River Salinity Control Fix Act |
+| 2024-07-11 | S.4693-118 | Taxation | Revitalizing Downtowns and Main Streets Act |
+| 2024-04-18 | S.4192-118 | Social Welfare | We Can't Wait Act of 2023 |
+| 2024-03-14 | S.3948-118 | Armed Forces and National Security | Protecting Against Foreign Adversary Investments Act of 2024 |
+| 2024-02-06 | S.3738-118 | Environmental Protection | GLRI Act of 2024 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S000770` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 <!-- auto:congress-bills start -->
 | Metric | Value |

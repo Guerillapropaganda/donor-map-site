@@ -122,25 +122,28 @@ top-donors: "[[AT&T - WarnerMedia]], [[Walmart - Walton Family]], [[Comcast - NB
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,680 |
-| Votes with party majority | 1,594 |
-| Party-line loyalty | 94.9% |
-| Deviations from party | 86 |
+| Roll-call votes tracked | 3,934 |
+| Substantive votes (Y/N) | 3,725 |
+| Votes with party majority | 3,563 |
+| Party-line loyalty | 95.7% |
+| Deviations from party | 162 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 86):**
+**Most recent party-line deviations (top 10 of 162):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -157,6 +160,39 @@ top-donors: "[[AT&T - WarnerMedia]], [[Walmart - Walton Family]], [[Comcast - NB
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 289 |
+| Enacted into law | 14 |
+| Top policy areas | Government Operations and Politics · Commerce · Immigration |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-137 | 2024-12-01 | HR.1505-118 | No Stolen Trademarks Honored in America Act |
+| PL 118-11 | 2023-07-28 | HR.423-118 | Pala Band of Mission Indians Land Transfer Act of 2023 |
+| PL 115-332 | 2018-12-19 | HR.3996-115 | Protecting Access to the Courts for Taxpayers Act |
+| PL 114-166 | 2016-06-13 | HR.136-114 | To designate the facility of the United States Postal Service located at 1103 USPS Buildin |
+| PL 113-255 | 2014-12-18 | HR.4193-113 | Smart Savings Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-15 | HR.8285-119 | Foreign Trade and International Finance | Protecting American Competition Act of 2026 |
+| 2026-02-02 | HR.7311-119 | International Affairs | Lebanon Election Integrity and Diaspora Voting Protection Act of 2026 |
+| 2026-01-14 | HR.7054-119 | International Affairs | H.R. 7054, a bill to require the Secretary of State to submit to Congress a notification o |
+| 2026-01-12 | HR.7015-119 | Law | Protecting TPLF From Abuse Act |
+| 2025-12-16 | HR.6730-119 | Law | HERO Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: I000056` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Darrell Issa
 

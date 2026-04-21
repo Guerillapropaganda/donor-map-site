@@ -139,6 +139,35 @@ top-donors: "[[DMFI - Democratic Majority for Israel]], [[Pfizer Inc.]], [[Leagu
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 36 |
+| Enacted into law | 1 |
+| Top policy areas | Government Operations and Politics · Immigration · Health |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-172 | 2024-12-23 | HR.5301-118 | Kids Online Safety and Privacy Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-05 | HR.7827-119 | Armed Forces and National Security | Stop Militarizing Our Streets Act of 2026 |
+| 2025-11-18 | HR.6085-119 | Government Operations and Politics | Stop Ballroom Bribery Act |
+| 2025-11-17 | HR.6056-119 | International Affairs | International Human Rights Defense Act of 2025 |
+| 2025-10-21 | HR.5799-119 | Government Operations and Politics | FALCON Act |
+| 2025-09-26 | HR.5578-119 | Government Operations and Politics | Expanding Whistleblower Protections for Contractors Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: G000598` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Robert Garcia
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
@@ -172,3 +201,23 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 - [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
 <!-- auto:congress-bills end -->
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 1 |
+| Leak sources | Paradise Papers - Appleby (1) |
+| Top jurisdictions | Bermuda (1) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| BSG Clearing Solutions Asia Limited | entity | Bermuda | Paradise Papers - Appleby |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: Robert Garcia` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

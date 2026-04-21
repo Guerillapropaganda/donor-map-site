@@ -261,3 +261,22 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[PA Democratic Party: McCormick refuses to pull Rumble investments](https://www.padems.org/new-mccormick-refuses-to-pull-investments-from-website-that-platforms-holocaust-denial-and-anti-semitic-hate/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[GuruFocus: Christopher Pavlovski insider transactions](https://www.gurufocus.com/insider/222244/christopher-pavlovski)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[Wikipedia: Rumble (company)](https://en.wikipedia.org/wiki/Rumble_(company)~~ (URL broken, archived by Ops)) (Tier 3)
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 1 |
+| Leak sources | Panama Papers (1) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| CONSULCO INTERNATIONAL LIMITED | intermediary | — | Panama Papers |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: Rumble` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

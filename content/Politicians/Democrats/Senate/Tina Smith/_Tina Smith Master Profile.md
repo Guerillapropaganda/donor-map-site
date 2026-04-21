@@ -130,23 +130,25 @@ top-policy-area: Health
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,426 |
-| Substantive votes (Y/N) | 2,364 |
-| Votes with party majority | 2,283 |
-| Party-line loyalty | 96.6% |
-| Deviations from party | 21 |
+| Roll-call votes tracked | 3,375 |
+| Substantive votes (Y/N) | 3,302 |
+| Votes with party majority | 3,213 |
+| Party-line loyalty | 97.3% |
+| Deviations from party | 29 |
 
 **Coverage:**
 
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 21):**
+**Most recent party-line deviations (top 10 of 29):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -163,6 +165,35 @@ top-policy-area: Health
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 248 |
+| Enacted into law | 1 |
+| Top policy areas | Health · Native Americans · Agriculture and Food |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 116-255 | 2020-12-23 | S.199-116 | Leech Lake Band of Ojibwe Reservation Restoration Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-25 | S.4187-119 | Health | Momnibus Act |
+| 2026-03-24 | S.4168-119 | Agriculture and Food | Livestock Consolidation Research Act of 2026 |
+| 2026-03-09 | S.4025-119 | Education | Addressing Teacher Shortages Act of 2026 |
+| 2026-03-04 | S.3990-119 | Health | PrEP Access and Coverage Act of 2026 |
+| 2026-03-03 | S.3978-119 | Government Operations and Politics | Investments in Rural Transit Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S001203` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Tina Smith
 

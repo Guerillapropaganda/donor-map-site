@@ -140,11 +140,11 @@ top-policy-area: Health
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,709 |
-| Votes with party majority | 2,421 |
-| Party-line loyalty | 89.4% |
-| Deviations from party | 107 |
+| Roll-call votes tracked | 3,700 |
+| Substantive votes (Y/N) | 3,619 |
+| Votes with party majority | 3,314 |
+| Party-line loyalty | 91.6% |
+| Deviations from party | 124 |
 
 **Coverage:**
 
@@ -152,12 +152,14 @@ top-policy-area: Health
 - senate 115/2: 274 votes
 - senate 116/1: 428 votes
 - senate 116/2: 291 votes
+- senate 117/1: 528 votes
+- senate 117/2: 421 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 107):**
+**Most recent party-line deviations (top 10 of 124):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -174,6 +176,39 @@ top-policy-area: Health
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 519 |
+| Enacted into law | 11 |
+| Top policy areas | Health · Finance and Financial Sector · Environmental Protection |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-194 | 2024-12-23 | S.1351-118 | Stop Institutional Child Abuse Act |
+| PL 118-70 | 2024-07-12 | S.138-118 | Promoting a Resolution to the Tibet-China Dispute Act |
+| PL 117-318 | 2022-12-27 | S.1466-117 | Saline Lake Ecosystems in the Great Basin States Program Act of 2021 |
+| PL 117-261 | 2022-12-21 | S.314-117 | S. 314, Klamath Tribe Judgement Fund Repeal Act |
+| PL 116-191 | 2020-10-30 | S.3758-116 | To amend the Klamath Basin Water Supply Enhancement Act of 2000 to make certain technical  |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | S.4325-119 | — | A bill to establish a task force to address the impacts of the chemical 6PPD and its bypro |
+| 2026-04-13 | SJRES.163-119 | International Affairs | A joint resolution to direct the removal of United States Armed Forces from hostilities wi |
+| 2026-03-26 | S.4259-119 | International Affairs | Blue Skies for Taiwan Act of 2026 |
+| 2026-03-26 | S.4222-119 | Taxation | End Polluter Welfare for Enhanced Oil Recovery Act of 2026 |
+| 2026-03-26 | S.4226-119 | Finance and Financial Sector | STOP Corrupt Bets Act of 2026 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: M001176` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #jeff-merkley #democrat #oregon #senate #progressive #volcker-rule #wall-street-reform #housing #no-corporate-pac #budget #environment #class-analysis #follow-the-money
 

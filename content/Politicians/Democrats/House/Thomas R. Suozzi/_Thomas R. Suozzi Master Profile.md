@@ -88,24 +88,29 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 978 |
-| Substantive votes (Y/N) | 947 |
-| Votes with party majority | 854 |
-| Party-line loyalty | 90.2% |
-| Deviations from party | 93 |
+| Roll-call votes tracked | 4,109 |
+| Substantive votes (Y/N) | 4,003 |
+| Votes with party majority | 3,754 |
+| Party-line loyalty | 93.8% |
+| Deviations from party | 248 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/2: 462 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 93):**
+**Most recent party-line deviations (top 10 of 248):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -122,3 +127,33 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 63 |
+| Enacted into law | 2 |
+| Top policy areas | Taxation · Health · Armed Forces and National Security |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-38 | 2021-08-25 | HR.3642-117 | Providing for consideration of the bill (H.R. 256) to repeal the Authorization for Use of  |
+| PL 116-110 | 2020-01-27 | HR.263-116 | H.R. 263, a bill to rename the Oyster Bay National Wildlife Refuge as the Congressman Lest |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-14 | HR.8280-119 | — | To amend the Internal Revenue Code of 1986 to provide an exclusion from gross income for c |
+| 2026-04-14 | HR.8279-119 | — | To expand the definition of institution of higher education in the Higher Education Act of |
+| 2026-04-09 | HR.8239-119 | Crime and Law Enforcement | SACRED Act |
+| 2026-04-06 | HR.8208-119 | — | Taxpayer Advocate Continuity Act |
+| 2025-11-20 | HR.6232-119 | Health | Bipartisan Health Insurance Affordability Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S001201` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

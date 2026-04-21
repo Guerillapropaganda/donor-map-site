@@ -145,6 +145,48 @@ top-donors: "[[National Rifle Association]], [[AIPAC - American Israel Public Af
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 13 |
+| Enacted into law | 0 |
+| Top policy areas | Crime and Law Enforcement · Immigration · Education |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2025-12-15 | HR.6715-119 | Crime and Law Enforcement | Child Predators Accountability Act |
+| 2025-12-03 | HR.6392-119 | Education | Home School Graduation Recognition Act |
+| 2025-11-20 | HR.6191-119 | Immigration | No Taxpayer Funded Abortion Travel for Illegal Aliens Act |
+| 2025-11-19 | HR.6142-119 | Labor and Employment | Ask the Union Members Act |
+| 2025-11-19 | HR.6141-119 | Labor and Employment | Fair Access to Justice for Union Members Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: H001102` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Mark Harris
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 1 |
+| Leak sources | Paradise Papers - Barbados corporate registry (1) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| HARRIS MARK N | officer | — | Paradise Papers - Barbados corporate registry |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: Mark Harris` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

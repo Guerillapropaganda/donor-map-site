@@ -130,6 +130,26 @@ top-donors: "[[Raytheon (RTX)]], [[Chevron]], [[National Association of Realtors
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 2 |
+| Enacted into law | 0 |
+| Top policy areas | Finance and Financial Sector · Economics and Public Finance |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2025-06-24 | HR.4091-119 | Economics and Public Finance | LEDGER Act |
+| 2025-05-13 | HR.3343-119 | Finance and Financial Sector | Greenlighting Growth Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: H001099` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Mike Haridopolos
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

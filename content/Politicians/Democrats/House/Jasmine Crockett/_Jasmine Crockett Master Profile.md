@@ -134,6 +134,29 @@ top-donors: "[[League of Conservation Voters]], [[Emily's List]]"
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 30 |
+| Enacted into law | 0 |
+| Top policy areas | Health · Government Operations and Politics · Taxation |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-23 | HR.7646-119 | Taxation | Payback Act |
+| 2026-01-21 | HR.7172-119 | Transportation and Public Works | TRACK ICE Act |
+| 2025-10-28 | HR.5842-119 | Government Operations and Politics | No Presidential Payouts Act |
+| 2025-10-24 | HR.5816-119 | Education | HELP FEDs Act |
+| 2025-09-18 | HR.5460-119 | Science, Technology, Communications | FREE SPEECH Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C001130` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Jasmine Crockett
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

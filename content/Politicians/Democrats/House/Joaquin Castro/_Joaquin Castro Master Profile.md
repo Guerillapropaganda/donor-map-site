@@ -104,25 +104,30 @@ top-donors: "[[Sierra Club Political Committee]], [[VOTER PROTECTION PROJECT]], 
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,574 |
-| Votes with party majority | 1,533 |
-| Party-line loyalty | 97.4% |
-| Deviations from party | 41 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,641 |
+| Votes with party majority | 4,528 |
+| Party-line loyalty | 97.6% |
+| Deviations from party | 112 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 41):**
+**Most recent party-line deviations (top 10 of 112):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -139,6 +144,29 @@ top-donors: "[[Sierra Club Political Committee]], [[VOTER PROTECTION PROJECT]], 
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 141 |
+| Enacted into law | 0 |
+| Top policy areas | International Affairs · Education · Immigration |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-25 | HR.7675-119 | International Affairs | Securing Partner Supply Chains Act |
+| 2026-01-14 | HR.7059-119 | International Affairs | No Unauthorized War in Mexico Act |
+| 2025-12-19 | HR.6910-119 | International Affairs | United States International Development Corporation Chief Development Officer Act |
+| 2025-12-16 | HR.6736-119 | International Affairs | ARMAS Act of 2025 |
+| 2025-12-10 | HR.6563-119 | Crime and Law Enforcement | National Defense Authorization Act for Fiscal Year 2026 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C001091` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Joaquin Castro
 

@@ -116,25 +116,30 @@ top-donors: "[[AT&T - WarnerMedia]], [[AIPAC - American Israel Public Affairs Co
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,687 |
-| Votes with party majority | 1,537 |
-| Party-line loyalty | 91.1% |
-| Deviations from party | 150 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,721 |
+| Votes with party majority | 4,441 |
+| Party-line loyalty | 94.1% |
+| Deviations from party | 280 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 150):**
+**Most recent party-line deviations (top 10 of 280):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -151,6 +156,39 @@ top-donors: "[[AT&T - WarnerMedia]], [[AIPAC - American Israel Public Affairs Co
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 117 |
+| Enacted into law | 7 |
+| Top policy areas | Finance and Financial Sector · Crime and Law Enforcement · International Affairs |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 119-45 | 2025-12-02 | HR.1512-119 | Taiwan Assurance Implementation Act |
+| PL 118-72 | 2024-07-30 | HR.1105-118 | Debbie Smith Act of 2023 |
+| PL 115-164 | 2018-04-11 | HR.1865-115 | Stop Enabling Sex Traffickers Act of 2017 |
+| PL 114-76 | 2015-11-05 | HR.322-114 | To designate the facility of the United States Postal Service located at 16105 Swingley Ri |
+| PL 114-77 | 2015-11-05 | HR.323-114 | To designate the facility of the United States Postal Service located at 55 Grasso Plaza i |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | HR.8359-119 | — | To change the address of the postal facility designated in honor of Specialist Jeffrey L.  |
+| 2026-04-09 | HR.8245-119 | Families | GRACIE Act of 2026 |
+| 2026-03-30 | HR.8169-119 | Foreign Trade and International Finance | Export Control Enforcement and Enhancement Act |
+| 2025-08-01 | HR.4831-119 | Crime and Law Enforcement | ENFORCE Act |
+| 2025-07-16 | HR.4429-119 | Finance and Financial Sector | H.R. 4429, Developing and Empowering our Aspiring Leaders Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: W000812` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Ann Wagner
 

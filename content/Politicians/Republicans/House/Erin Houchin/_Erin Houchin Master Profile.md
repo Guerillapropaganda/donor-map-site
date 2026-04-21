@@ -146,6 +146,35 @@ top-donors: "[[Bank of America]], [[Comcast - NBCUniversal]], [[Anthem - Elevanc
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 40 |
+| Enacted into law | 1 |
+| Top policy areas | Education · Health · Finance and Financial Sector |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-145 | 2024-12-11 | HR.8932-118 | Providing for consideration of the bill (H.R. 8932) to establish an earlier application pr |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-19 | HR.8009-119 | Education | Student Protection and Success Act |
+| 2026-03-12 | HR.7890-119 | Education | Science of Reading Act of 2026 |
+| 2026-03-09 | HR.7875-119 | Health | POINTS Act of 2026 |
+| 2026-03-04 | HR.7793-119 | Immigration | The Dalilah Law |
+| 2025-12-16 | HR.6749-119 | Government Operations and Politics | Eliminating Information Silos Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: H001093` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Erin Houchin
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

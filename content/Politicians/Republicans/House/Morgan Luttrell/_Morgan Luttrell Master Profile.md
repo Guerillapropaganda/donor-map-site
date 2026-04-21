@@ -148,6 +148,35 @@ top-donors: "[[SPECIAL OPERATIONS FOR AMERICA]], [[Drain the DC Swamp PAC]], [[N
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 38 |
+| Enacted into law | 1 |
+| Top policy areas | Armed Forces and National Security · Immigration · Crime and Law Enforcement |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-130 | 2024-11-25 | HR.7777-118 | Veterans’ Compensation Cost-of-Living Adjustment Act of 2023 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2025-12-04 | HR.6456-119 | Armed Forces and National Security | National Defense Authorization Act for Fiscal Year 2026 |
+| 2025-07-25 | HR.4762-119 | International Affairs | Medical Supply Sanctions Act of 2025 |
+| 2025-07-23 | HR.4697-119 | Crime and Law Enforcement | Justice for American Victims of Illegal Aliens Act |
+| 2025-06-12 | HR.3983-119 | Armed Forces and National Security | Veterans Claims Quality Improvement Act of 2025 |
+| 2025-06-04 | HR.3723-119 | Native Americans | Tribal Gaming Regulatory Compliance Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: L000603` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Morgan Luttrell
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

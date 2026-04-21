@@ -141,6 +141,48 @@ top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[Defend Amer
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 3 |
+| Enacted into law | 0 |
+| Top policy areas | Government Operations and Politics · Armed Forces and National Security · Sports and Recreation |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2025-12-01 | HR.6330-119 | Government Operations and Politics | H.R. 6330, Federal Relocation Payment Improvement Act of 2025 |
+| 2025-07-23 | HR.4624-119 | Sports and Recreation | H.R. 4624, Muhammad Ali American Boxing Revival Act of 2026 |
+| 2025-05-01 | HR.3148-119 | Armed Forces and National Security | SALUTE Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: J000311` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 # Brian Jack
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+<!-- auto:offshore-records start -->
+
+*This entity appears in the ICIJ Offshore Leaks Database. Appearing in these files does not imply wrongdoing — records cover legitimate foreign subsidiaries, advisory relationships, and pre-existing corporate structures. Cross-reference with context.*
+
+| Metric | Value |
+|---|---:|
+| Records linked | 2 |
+| Leak sources | Paradise Papers - Appleby (2) |
+| Top jurisdictions | Cayman Islands (2) |
+
+**Example linked entities:**
+
+| Name | Kind | Jurisdiction | Leak |
+|---|---|---|---|
+| B767 Owner Limited | entity | Cayman Islands | Paradise Papers - Appleby |
+| B767 Holding Company Limited | entity | Cayman Islands | Paradise Papers - Appleby |
+
+*Full list: query Ask with* `subject: offshore_entities, linked_vault_entity: Brian Jack` *· Source: [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) · [ICIJ methodology](https://www.icij.org/about/).*
+<!-- auto:offshore-records end -->

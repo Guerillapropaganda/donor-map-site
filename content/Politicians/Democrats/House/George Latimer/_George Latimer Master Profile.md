@@ -149,6 +149,29 @@ urls-first-triaged: "2026-04-15"
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 6 |
+| Enacted into law | 0 |
+| Top policy areas | Commerce · Transportation and Public Works · Energy |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-09 | HR.8220-119 | — | NOPE Act |
+| 2026-03-02 | HR.7750-119 | Government Operations and Politics | POINT Act |
+| 2026-01-22 | HR.7217-119 | Commerce | SBIR/STTR Reauthorization Act of 2025 |
+| 2026-01-06 | HR.6948-119 | Energy | To amend title 49, United States Code, to require each new electric and hybrid vehicle to  |
+| 2025-12-09 | HR.6531-119 | Transportation and Public Works | Bridges not Bumpers Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: L000606` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
 ## Who He Is
 
 George Latimer. U.S. Representative for New York's 16th Congressional District since January 2025. Former Westchester County Executive (2018–2024). Defeated incumbent [[_Jamaal Bowman Master Profile|Jamaal Bowman]] in the June 2024 Democratic primary in the most expensive House primary in American history, a race defined by $14.9M+ in independent expenditures from AIPAC's United Democracy Project supporting Latimer and opposing Bowman.

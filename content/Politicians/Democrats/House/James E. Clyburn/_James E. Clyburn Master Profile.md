@@ -92,25 +92,30 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,705 |
-| Votes with party majority | 1,674 |
-| Party-line loyalty | 98.2% |
-| Deviations from party | 31 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,616 |
+| Votes with party majority | 4,537 |
+| Party-line loyalty | 98.3% |
+| Deviations from party | 78 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 31):**
+**Most recent party-line deviations (top 10 of 78):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -127,3 +132,36 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 77 |
+| Enacted into law | 7 |
+| Top policy areas | Public Lands and Natural Resources · Government Operations and Politics · Foreign Trade and International Finance |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-278 | 2022-12-27 | HR.5349-117 | Providing for consideration of the bill (H.R. 1948) to amend title 38, United States Code, |
+| PL 115-388 | 2018-12-21 | HR.7230-115 | Congressional Record, Volume 164 Issue 194 (Monday, December 10, 2018) |
+| PL 114-233 | 2016-10-07 | HR.3004-114 | A bill to amend the Gullah/Geechee Cultural Heritage Act to extend the authorization for t |
+| PL 114-48 | 2015-08-07 | HR.2131-114 | A bill to designate the Federal building and United States courthouse located at 83 Meetin |
+| — | 2012-09-12 | HR.6379-112 | To designate the facility of the United States Postal Service located at 6239 Savannah Hig |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-25 | HR.8078-119 | Government Operations and Politics | Voter Empowerment Act of 2026 |
+| 2025-06-10 | HR.3868-119 | Crime and Law Enforcement | Enhanced Background Checks Act of 2025 |
+| 2024-11-01 | HR.10084-118 | Civil Rights and Liberties, Minority Issues | Renewing the African American Civil Rights Network Act |
+| 2024-09-20 | HR.9727-118 | Government Operations and Politics | Disability Voting Rights Act |
+| 2024-06-04 | HR.8607-118 | Armed Forces and National Security | VA Housing Loan Forever Act of 2024 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: C000537` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

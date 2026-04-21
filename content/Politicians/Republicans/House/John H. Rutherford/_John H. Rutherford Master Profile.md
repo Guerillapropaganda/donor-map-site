@@ -89,25 +89,30 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,651 |
-| Votes with party majority | 1,575 |
-| Party-line loyalty | 95.4% |
-| Deviations from party | 76 |
+| Roll-call votes tracked | 4,888 |
+| Substantive votes (Y/N) | 4,615 |
+| Votes with party majority | 4,343 |
+| Party-line loyalty | 94.1% |
+| Deviations from party | 272 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 115/1: 710 votes
+- house 115/2: 500 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 76):**
+**Most recent party-line deviations (top 10 of 272):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -124,3 +129,26 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 45 |
+| Enacted into law | 0 |
+| Top policy areas | Crime and Law Enforcement · Armed Forces and National Security · Public Lands and Natural Resources |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2025-11-17 | HR.6068-119 | Energy | PROTECT Florida Act |
+| 2025-10-06 | HR.5699-119 | Public Lands and Natural Resources | Fisheries Data Modernization and Accuracy Act of 2025 |
+| 2025-04-01 | HR.2577-119 | Education | PLAN for School Safety Act of 2025 |
+| 2025-03-14 | HR.2094-119 | Finance and Financial Sector | HELPER Act of 2025 |
+| 2025-03-03 | HR.1773-119 | Crime and Law Enforcement | Federal Firearms Licensee Protection Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: R000609` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

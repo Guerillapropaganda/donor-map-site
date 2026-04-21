@@ -111,25 +111,28 @@ top-donors: "[[National Association of Realtors]], [[National Multifamily Housin
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 117th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 116th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,704 |
-| Votes with party majority | 1,572 |
+| Roll-call votes tracked | 3,678 |
+| Substantive votes (Y/N) | 3,567 |
+| Votes with party majority | 3,291 |
 | Party-line loyalty | 92.3% |
-| Deviations from party | 132 |
+| Deviations from party | 276 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 116/1: 701 votes
+- house 116/2: 253 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 132):**
+**Most recent party-line deviations (top 10 of 276):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -146,6 +149,29 @@ top-donors: "[[National Association of Realtors]], [[National Multifamily Housin
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 45 |
+| Enacted into law | 0 |
+| Top policy areas | Energy · Public Lands and Natural Resources · Science, Technology, Communications |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-19 | HR.8007-119 | Finance and Financial Sector | SILVER Act |
+| 2026-01-13 | HR.7031-119 | Public Lands and Natural Resources | Making National Parks Safer Act |
+| 2025-12-09 | HR.6499-119 | Commerce | Assessing Safety Tools for Parents and Minors Act |
+| 2025-12-09 | HR.6503-119 | Science, Technology, Communications | Broadband for Americans through Responsible Streamlining (BARS) Act |
+| 2025-11-25 | HR.6299-119 | Health | Health Coverage Choice Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: F000469` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Russ Fulcher
 

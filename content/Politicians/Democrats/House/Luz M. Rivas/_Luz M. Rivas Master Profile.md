@@ -80,3 +80,26 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 8 |
+| Enacted into law | 0 |
+| Top policy areas | Science, Technology, Communications · Environmental Protection · Education |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-02-13 | HR.7584-119 | Taxation | Multigenerational Family Tax Credit Act of 2026 |
+| 2026-02-04 | HR.7374-119 | Housing and Community Development | Housing Without Fear Act of 2026 |
+| 2025-12-17 | HR.6815-119 | Environmental Protection | Environmental Justice Screening Tool Act of 2025 |
+| 2025-12-10 | HR.6591-119 | Education | Computer Science for All Act of 2025 |
+| 2025-11-19 | HR.6159-119 | Science, Technology, Communications | AI for ALL Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: R000620` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

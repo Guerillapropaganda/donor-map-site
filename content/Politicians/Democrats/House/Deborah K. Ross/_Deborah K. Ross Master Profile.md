@@ -93,21 +93,22 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,699 |
-| Votes with party majority | 1,678 |
+| Roll-call votes tracked | 2,724 |
+| Substantive votes (Y/N) | 2,663 |
+| Votes with party majority | 2,632 |
 | Party-line loyalty | 98.8% |
-| Deviations from party | 21 |
+| Deviations from party | 31 |
 
 **Coverage:**
 
-- house 117/1: 31 votes
+- house 117/1: 449 votes
+- house 117/2: 549 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 21):**
+**Most recent party-line deviations (top 10 of 31):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -124,3 +125,32 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 59 |
+| Enacted into law | 1 |
+| Top policy areas | Government Operations and Politics · Energy · Education |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-266 | 2025-01-04 | HR.9580-118 | H.R. 9580, a bill to designate the facility of the United States Postal Service located at |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-04-16 | HR.8351-119 | — | To amend the Higher Education Act of 1965 to remove from a borrower's credit history the r |
+| 2026-02-25 | HR.7711-119 | Crime and Law Enforcement | No Rewards for January 6 Rioters Act |
+| 2026-02-04 | HR.7375-119 | Government Operations and Politics | End Prison Gerrymandering Act |
+| 2025-12-18 | HR.6891-119 | Finance and Financial Sector | Buy Now, Pay Later Protection Act of 2025 |
+| 2025-12-17 | HR.6816-119 | Law | Shadow Docket Sunlight Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: R000305` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
