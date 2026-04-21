@@ -1,20 +1,20 @@
 ---
 title: "Chuck Hagel"
 type: politician
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-12
 source-tier: 1
 party: "Republican"
 chamber: "Secretary of Defense (2013-2015)"
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
 source-types:
   - Congress
+  - FEC
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21
+corroboration-count: 2
 ---
 
 
@@ -38,3 +38,12 @@ last-enriched: 2026-04-21
 # Chuck Hagel
 
 Secretary of Defense (2013-2015). Profile pending enrichment.
+
+## Sources
+
+<!-- auto:harvested-edge-citations start -->
+- [FEC committee-to-candidate contributions (PAS2 bulk) — as contributor: 1 records (cycles 2006–2006)](https://www.fec.gov/data/disbursements/?committee_name=Chuck%20Hagel) (Tier 1)
+- [FEC committee-to-candidate contributions (PAS2 bulk) — as recipient: 55 records (cycles 1996–2008)](https://www.fec.gov/data/receipts/?contributor_name=Chuck%20Hagel) (Tier 1)
+
+*Auto-generated from canonical FEC/IRS edge data for this entity. URLs are parameterized searches on government primary sources — deterministic, not URL-hunted. See Vault Rules § 2 on Tier 1 source classification.*
+<!-- auto:harvested-edge-citations end -->

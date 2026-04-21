@@ -1,21 +1,21 @@
 ---
 title: Deb Haaland
 type: politician
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Democrat
 chamber: Secretary of the Interior
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
 source-types:
   - Congress
+  - FEC
 urls-first-triaged: "2026-04-15"
 top-donors: "[[America Votes]], [[Amazon]], [[Oracle]], [[Boeing]], [[Bank of America]], [[Apple]], [[ActBlue]], [[DNC - Democratic National Committee]], [[Honeywell International]], [[Walmart]], [[Center for American Progress]], [[Verizon]], [[Northrop Grumman]], [[Meta - Facebook]]"
 last-enriched: 2026-04-21
+corroboration-count: 2
 ---
 
 
@@ -54,3 +54,11 @@ last-enriched: 2026-04-21
 # Deb Haaland
 
 Secretary of the Interior. Profile pending enrichment.
+
+## Sources
+
+<!-- auto:harvested-edge-citations start -->
+- [FEC committee-to-candidate contributions (PAS2 bulk) — as recipient: 35 records (cycles 2018–2020)](https://www.fec.gov/data/receipts/?contributor_name=Deb%20Haaland) (Tier 1)
+
+*Auto-generated from canonical FEC/IRS edge data for this entity. URLs are parameterized searches on government primary sources — deterministic, not URL-hunted. See Vault Rules § 2 on Tier 1 source classification.*
+<!-- auto:harvested-edge-citations end -->

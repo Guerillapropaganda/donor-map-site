@@ -1,7 +1,7 @@
 ---
 title: Special Operations for America
 type: donor
-content-readiness: draft
+content-readiness: data-complete
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -10,7 +10,6 @@ source-tier: 1
 aliases:
   - SPECIAL OPERATIONS FOR AMERICA
 known-gaps:
-  - "No FEC contribution data"
   - "No lobbying disclosure data"
 related: "[[Michael Waltz]] · [[Brian Mast]]"
 politicians-funded: "[[Michael Waltz]], [[Brian Mast]], [[Morgan Luttrell]], [[John James]], [[Derrick van Orden]], [[Jimmy Patronis]], [[Pat Harrigan]], [[Ken Calvert]], [[Randy Fine]], [[Richard McCormick]]"
@@ -24,6 +23,8 @@ cash-on-hand: 32074
 independent-expenditures: 377988
 individual-contributions: 2806094
 last-enriched: 2026-04-21
+source-types:
+  - FEC
 ---
 
 
@@ -62,3 +63,12 @@ pending from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `SPECIAL OPERATIONS FOR AMERICA`
+
+## Sources
+
+<!-- auto:harvested-edge-citations start -->
+- [FEC committee-to-candidate contributions (PAS2 bulk) — as contributor: 46 records (cycles 2012–2026)](https://www.fec.gov/data/disbursements/?committee_name=Special%20Operations%20for%20America) (Tier 1)
+- [FEC PAC summary filings — as contributor: 9 records (cycles 2022–2026)](https://www.fec.gov/data/committees/?name=Special%20Operations%20for%20America) (Tier 1)
+
+*Auto-generated from canonical FEC/IRS edge data for this entity. URLs are parameterized searches on government primary sources — deterministic, not URL-hunted. See Vault Rules § 2 on Tier 1 source classification.*
+<!-- auto:harvested-edge-citations end -->

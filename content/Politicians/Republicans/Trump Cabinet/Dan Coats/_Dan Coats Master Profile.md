@@ -1,20 +1,20 @@
 ---
 title: "Dan Coats"
 type: politician
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-12
 source-tier: 1
 party: "Republican"
 chamber: "Director of National Intelligence (2017-2019)"
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
 source-types:
   - Congress
+  - FEC
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21
+corroboration-count: 2
 ---
 
 
@@ -38,3 +38,12 @@ last-enriched: 2026-04-21
 # Dan Coats
 
 Director of National Intelligence (2017-2019). Profile pending enrichment.
+
+## Sources
+
+<!-- auto:harvested-edge-citations start -->
+- [FEC committee-to-candidate contributions (PAS2 bulk) — as contributor: 11 records (cycles 1994–2016)](https://www.fec.gov/data/disbursements/?committee_name=Dan%20Coats) (Tier 1)
+- [FEC committee-to-candidate contributions (PAS2 bulk) — as recipient: 66 records (cycles 1980–2016)](https://www.fec.gov/data/receipts/?contributor_name=Dan%20Coats) (Tier 1)
+
+*Auto-generated from canonical FEC/IRS edge data for this entity. URLs are parameterized searches on government primary sources — deterministic, not URL-hunted. See Vault Rules § 2 on Tier 1 source classification.*
+<!-- auto:harvested-edge-citations end -->

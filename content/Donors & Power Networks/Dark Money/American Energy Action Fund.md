@@ -1,7 +1,7 @@
 ---
 title: American Energy Action Fund
 type: donor
-content-readiness: draft
+content-readiness: data-complete
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00760082
@@ -52,3 +52,10 @@ last-enriched: 2026-04-21
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+## Sources
+
+<!-- auto:harvested-edge-citations start -->
+- [FEC PAC summary filings — as contributor: 7 records (cycles 2022–2022)](https://www.fec.gov/data/committees/?name=American%20Energy%20Action%20Fund) (Tier 1)
+
+*Auto-generated from canonical FEC/IRS edge data for this entity. URLs are parameterized searches on government primary sources — deterministic, not URL-hunted. See Vault Rules § 2 on Tier 1 source classification.*
+<!-- auto:harvested-edge-citations end -->

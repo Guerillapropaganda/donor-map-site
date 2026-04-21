@@ -1,7 +1,7 @@
 ---
 title: VIEW PAC - Value in Electing Women
 type: donor
-content-readiness: draft
+content-readiness: data-complete
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -10,7 +10,6 @@ source-tier: 1
 aliases:
   - VALUE IN ELECTING WOMEN POLITICAL ACTION COMMITTEE
 known-gaps:
-  - "No FEC contribution data"
   - "No lobbying disclosure data"
   - "No mapped relationships"
 checklist-na:
@@ -24,6 +23,8 @@ individual-contributions: 52175
 contributions-to-committees: 315000
 politicians-funded: "[[Deb Fischer]], [[Marsha Blackburn]], [[Lisa Murkowski]], [[Diana Harshbarger]], [[Kat Cammack]], [[Nancy Mace]], [[Elise Stefanik]], [[Victoria Spartz]], [[Claudia Tenney]], [[Monica de la Cruz]], [[Katie Britt]], [[Maria Elvira Salazar]], [[Young Kim]], [[Michelle Fischbach]], [[Celeste Maloy]], [[Joni Ernst]], [[Cindy Hyde-Smith]], [[Shelley Moore Capito]], [[Ashley Hinson]], [[Sheri Biggs]], [[Marjorie Taylor Greene]], [[Kay Granger]], [[Erin Houchin]], [[Julie Fedorchak]], [[Nicole Malliotakis]], [[Ashley Moody]], [[Ann Wagner]], [[Virginia Foxx]], [[Susan Collins]]"
 last-enriched: 2026-04-21
+source-types:
+  - FEC
 ---
 
 
@@ -60,3 +61,11 @@ pending from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `VALUE IN ELECTING WOMEN POLITICAL ACTION COMMITTEE`
+
+## Sources
+
+<!-- auto:harvested-edge-citations start -->
+- [FEC PAC summary filings — as contributor: 54 records (cycles 2022–2026)](https://www.fec.gov/data/committees/?name=VIEW%20PAC%20-%20Value%20in%20Electing%20Women) (Tier 1)
+
+*Auto-generated from canonical FEC/IRS edge data for this entity. URLs are parameterized searches on government primary sources — deterministic, not URL-hunted. See Vault Rules § 2 on Tier 1 source classification.*
+<!-- auto:harvested-edge-citations end -->

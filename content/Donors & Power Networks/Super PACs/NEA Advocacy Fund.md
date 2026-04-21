@@ -1,7 +1,7 @@
 ---
 title: NEA Advocacy Fund
 type: donor
-content-readiness: draft
+content-readiness: data-complete
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -10,7 +10,6 @@ source-tier: 1
 aliases:
   - NEA ADVOCACY FUND
 known-gaps:
-  - "No FEC contribution data"
   - "No lobbying disclosure data"
 opposes: "[[Thom Tillis]]"
 politicians-funded: "[[Thom Tillis]], [[Jamie Raskin]], [[Raja Krishnamoorthi]], [[Joseph Morelle]]"
@@ -22,6 +21,8 @@ urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21
 total-political-spend: "$12.6M"
 spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026"
+source-types:
+  - FEC
 ---
 
 
@@ -60,3 +61,11 @@ pending from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `NEA ADVOCACY FUND`
+
+## Sources
+
+<!-- auto:harvested-edge-citations start -->
+- [FEC committee-to-candidate contributions (PAS2 bulk) — as contributor: 39 records (cycles 2010–2026)](https://www.fec.gov/data/disbursements/?committee_name=NEA%20Advocacy%20Fund) (Tier 1)
+
+*Auto-generated from canonical FEC/IRS edge data for this entity. URLs are parameterized searches on government primary sources — deterministic, not URL-hunted. See Vault Rules § 2 on Tier 1 source classification.*
+<!-- auto:harvested-edge-citations end -->

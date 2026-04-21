@@ -1,7 +1,7 @@
 ---
 title: Take Me Home WV Action
 type: donor
-content-readiness: draft
+content-readiness: data-complete
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -10,7 +10,6 @@ source-tier: 1
 aliases:
   - TAKE ME HOME WV ACTION
 known-gaps:
-  - "No FEC contribution data"
   - "No lobbying disclosure data"
 related: "[[Shelley Moore Capito]]"
 politicians-funded: "[[Shelley Moore Capito]]"
@@ -24,6 +23,8 @@ cash-on-hand: 152609
 independent-expenditures: 123135
 individual-contributions: 323054
 last-enriched: 2026-04-21
+source-types:
+  - FEC
 ---
 
 
@@ -62,3 +63,11 @@ pending from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `TAKE ME HOME WV ACTION`
+
+## Sources
+
+<!-- auto:harvested-edge-citations start -->
+- [FEC committee-to-candidate contributions (PAS2 bulk) — as contributor: 1 records (cycles 2026–2026)](https://www.fec.gov/data/disbursements/?committee_name=Take%20Me%20Home%20WV%20Action) (Tier 1)
+
+*Auto-generated from canonical FEC/IRS edge data for this entity. URLs are parameterized searches on government primary sources — deterministic, not URL-hunted. See Vault Rules § 2 on Tier 1 source classification.*
+<!-- auto:harvested-edge-citations end -->

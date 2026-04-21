@@ -1,7 +1,7 @@
 ---
 title: Peachtree PAC
 type: donor
-content-readiness: draft
+content-readiness: data-complete
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -10,7 +10,6 @@ source-tier: 1
 aliases:
   - PEACHTREE PAC
 known-gaps:
-  - "No FEC contribution data"
   - "No lobbying disclosure data"
 opposes: "[[Raphael Warnock]]"
 politicians-funded: "[[Raphael Warnock]]"
@@ -23,6 +22,8 @@ contributions-to-committees: 522
 last-enriched: 2026-04-21
 total-political-spend: "$24.8M"
 spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2020"
+source-types:
+  - FEC
 ---
 
 
@@ -61,3 +62,11 @@ pending from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `PEACHTREE PAC`
+
+## Sources
+
+<!-- auto:harvested-edge-citations start -->
+- [FEC committee-to-candidate contributions (PAS2 bulk) — as contributor: 2 records (cycles 2020–2020)](https://www.fec.gov/data/disbursements/?committee_name=Peachtree%20PAC) (Tier 1)
+
+*Auto-generated from canonical FEC/IRS edge data for this entity. URLs are parameterized searches on government primary sources — deterministic, not URL-hunted. See Vault Rules § 2 on Tier 1 source classification.*
+<!-- auto:harvested-edge-citations end -->

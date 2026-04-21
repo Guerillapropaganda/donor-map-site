@@ -1,7 +1,7 @@
 ---
 title: Worker Power PAC for Georgia
 type: donor
-content-readiness: draft
+content-readiness: data-complete
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -10,7 +10,6 @@ source-tier: 1
 aliases:
   - WORKER POWER PAC FOR GEORGIA
 known-gaps:
-  - "No FEC contribution data"
   - "No lobbying disclosure data"
 politicians-funded: "[[Raphael Warnock]]"
 related: "[[Raphael Warnock]]"
@@ -22,6 +21,8 @@ total-raised: 1030000
 total-spent: 1030000
 independent-expenditures: 1030000
 last-enriched: 2026-04-21
+source-types:
+  - FEC
 ---
 
 
@@ -60,3 +61,11 @@ pending from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `WORKER POWER PAC FOR GEORGIA`
+
+## Sources
+
+<!-- auto:harvested-edge-citations start -->
+- [FEC committee-to-candidate contributions (PAS2 bulk) — as contributor: 2 records (cycles 2022–2024)](https://www.fec.gov/data/disbursements/?committee_name=Worker%20Power%20PAC%20for%20Georgia) (Tier 1)
+
+*Auto-generated from canonical FEC/IRS edge data for this entity. URLs are parameterized searches on government primary sources — deterministic, not URL-hunted. See Vault Rules § 2 on Tier 1 source classification.*
+<!-- auto:harvested-edge-citations end -->

@@ -1,7 +1,7 @@
 ---
 title: American Patriots PAC
 type: donor
-content-readiness: draft
+content-readiness: data-complete
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -10,7 +10,6 @@ source-tier: 1
 aliases:
   - AMERICAN PATRIOTS PAC
 known-gaps:
-  - "No FEC contribution data"
   - "No lobbying disclosure data"
 related: "[[Michael Waltz]]"
 politicians-funded: "[[Michael Waltz]], [[Raphael Warnock]], [[Morgan Luttrell]]"
@@ -24,6 +23,8 @@ cash-on-hand: 691610
 independent-expenditures: 329827
 individual-contributions: 29199
 last-enriched: 2026-04-21
+source-types:
+  - FEC
 ---
 
 
@@ -62,3 +63,11 @@ pending from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `AMERICAN PATRIOTS PAC`
+
+## Sources
+
+<!-- auto:harvested-edge-citations start -->
+- [FEC PAC summary filings — as contributor: 2 records (cycles 2022–2022)](https://www.fec.gov/data/committees/?name=American%20Patriots%20PAC) (Tier 1)
+
+*Auto-generated from canonical FEC/IRS edge data for this entity. URLs are parameterized searches on government primary sources — deterministic, not URL-hunted. See Vault Rules § 2 on Tier 1 source classification.*
+<!-- auto:harvested-edge-citations end -->
