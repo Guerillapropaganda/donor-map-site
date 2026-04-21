@@ -1,20 +1,20 @@
 ---
 title: "John Kelly"
 type: politician
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-15
 source-tier: 1
 party: "Democrat"
 chamber: "Secretary of Homeland Security / Chief of Staff"
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record from Congress.gov"
   - "No voting record data"
 source-types:
   - Congress
+  - FEC
 donors: "[[CA Farm Bureau Federation]]"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21
+corroboration-count: 2
 ---
 
 
@@ -40,3 +40,11 @@ last-enriched: 2026-04-21
 # John Kelly
 
 Secretary of Homeland Security / Chief of Staff. Profile pending enrichment.
+
+## Sources
+
+<!-- auto:harvested-edge-citations start -->
+- [FEC committee-to-candidate contributions (PAS2 bulk) — as recipient: 15 records (cycles 1982–2010)](https://www.fec.gov/data/receipts/?contributor_name=John%20Kelly) (Tier 1)
+
+*Auto-generated from canonical FEC/IRS edge data for this entity. URLs are parameterized searches on government primary sources — deterministic, not URL-hunted. See Vault Rules § 2 on Tier 1 source classification.*
+<!-- auto:harvested-edge-citations end -->

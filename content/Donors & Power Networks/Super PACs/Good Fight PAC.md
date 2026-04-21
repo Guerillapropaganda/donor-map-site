@@ -1,7 +1,7 @@
 ---
 title: Good Fight PAC
 type: donor
-content-readiness: draft
+content-readiness: data-complete
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -10,7 +10,6 @@ source-tier: 1
 aliases:
   - GOOD FIGHT
 known-gaps:
-  - "No FEC contribution data"
   - "No lobbying disclosure data"
   - "No mapped relationships"
 checklist-na:
@@ -23,6 +22,8 @@ independent-expenditures: 3325728
 contributions-to-committees: 10419
 politicians-funded: "[[Nikki Haley]], [[Ron DeSantis]], [[Donald Trump]]"
 last-enriched: 2026-04-21
+source-types:
+  - FEC
 ---
 
 
@@ -59,3 +60,11 @@ pending from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `GOOD FIGHT`
+
+## Sources
+
+<!-- auto:harvested-edge-citations start -->
+- [FEC PAC summary filings — as contributor: 2 records (cycles 2024–2024)](https://www.fec.gov/data/committees/?name=Good%20Fight%20PAC) (Tier 1)
+
+*Auto-generated from canonical FEC/IRS edge data for this entity. URLs are parameterized searches on government primary sources — deterministic, not URL-hunted. See Vault Rules § 2 on Tier 1 source classification.*
+<!-- auto:harvested-edge-citations end -->

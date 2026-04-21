@@ -1,7 +1,7 @@
 ---
 title: Alabama Conservatives Fund
 type: donor
-content-readiness: draft
+content-readiness: data-complete
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00786152
@@ -52,3 +52,10 @@ spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+## Sources
+
+<!-- auto:harvested-edge-citations start -->
+- [FEC committee-to-candidate contributions (PAS2 bulk) — as contributor: 1 records (cycles 2022–2022)](https://www.fec.gov/data/disbursements/?committee_name=Alabama%20Conservatives%20Fund) (Tier 1)
+
+*Auto-generated from canonical FEC/IRS edge data for this entity. URLs are parameterized searches on government primary sources — deterministic, not URL-hunted. See Vault Rules § 2 on Tier 1 source classification.*
+<!-- auto:harvested-edge-citations end -->

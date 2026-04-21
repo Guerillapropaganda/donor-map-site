@@ -1,7 +1,7 @@
 ---
 title: Sierra Club Independent Action
 type: donor
-content-readiness: draft
+content-readiness: data-complete
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00483693
@@ -54,3 +54,11 @@ last-enriched: 2026-04-21
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+## Sources
+
+<!-- auto:harvested-edge-citations start -->
+- [FEC committee-to-candidate contributions (PAS2 bulk) — as contributor: 21 records (cycles 2010–2024)](https://www.fec.gov/data/disbursements/?committee_name=Sierra%20Club%20Independent%20Action) (Tier 1)
+- [FEC PAC summary filings — as contributor: 264 records (cycles 2022–2026)](https://www.fec.gov/data/committees/?name=Sierra%20Club%20Independent%20Action) (Tier 1)
+
+*Auto-generated from canonical FEC/IRS edge data for this entity. URLs are parameterized searches on government primary sources — deterministic, not URL-hunted. See Vault Rules § 2 on Tier 1 source classification.*
+<!-- auto:harvested-edge-citations end -->

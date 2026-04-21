@@ -1,7 +1,7 @@
 ---
 title: Clearpath Action Fund, Inc.
 type: donor
-content-readiness: draft
+content-readiness: data-complete
 sector: Dark Money
 entity-type: Super PAC
 committee-id: C00608943
@@ -72,3 +72,10 @@ last-enriched: 2026-04-21
 *Source: FEC individual contribution filings (indiv), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+## Sources
+
+<!-- auto:harvested-edge-citations start -->
+- [FEC committee-to-candidate contributions (PAS2 bulk) — as contributor: 37 records (cycles 2016–2026)](https://www.fec.gov/data/disbursements/?committee_name=Clearpath%20Action%20Fund%2C%20Inc.) (Tier 1)
+
+*Auto-generated from canonical FEC/IRS edge data for this entity. URLs are parameterized searches on government primary sources — deterministic, not URL-hunted. See Vault Rules § 2 on Tier 1 source classification.*
+<!-- auto:harvested-edge-citations end -->

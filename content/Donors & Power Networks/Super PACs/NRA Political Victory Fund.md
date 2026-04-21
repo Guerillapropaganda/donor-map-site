@@ -1,7 +1,7 @@
 ---
 title: NRA Political Victory Fund
 type: donor
-content-readiness: draft
+content-readiness: data-complete
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -10,7 +10,6 @@ source-tier: 1
 aliases:
   - NRA POLITICAL VICTORY FUND
 known-gaps:
-  - "No FEC contribution data"
   - "No lobbying disclosure data"
 opposes: "[[George W. Bush]]"
 related: "[[George W. Bush]] · [[John McCain]] · [[John Thune]] · [[Bernie Sanders]]"
@@ -22,6 +21,8 @@ urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21
 total-political-spend: "$83.5M"
 spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 1980, 1982, 1984, 1986, 1988, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026"
+source-types:
+  - FEC
 ---
 
 
@@ -60,3 +61,11 @@ pending from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `NRA POLITICAL VICTORY FUND`
+
+## Sources
+
+<!-- auto:harvested-edge-citations start -->
+- [FEC committee-to-candidate contributions (PAS2 bulk) — as contributor: 1880 records (cycles 1980–2026)](https://www.fec.gov/data/disbursements/?committee_name=NRA%20Political%20Victory%20Fund) (Tier 1)
+
+*Auto-generated from canonical FEC/IRS edge data for this entity. URLs are parameterized searches on government primary sources — deterministic, not URL-hunted. See Vault Rules § 2 on Tier 1 source classification.*
+<!-- auto:harvested-edge-citations end -->
