@@ -47,6 +47,7 @@ type Intent =
   | "votes_on_bill"            // "votes on H.R. 1" / "how did congress vote on Inflation Reduction Act"
   | "positions_by"             // "Bernie's nay votes" / "Republicans who voted Yea on X"
   | "vote_detail"              // "roll call s325-118.2" / "show vote h112-117.1"
+  | "explain_concept"          // "what are the panama papers", "what is dark money", "what is a 527"
   | "generic"
 
 interface EntityContext {
@@ -879,6 +880,137 @@ function explainEntity(name: string): EntityContext {
   return { name, gloss, blurb: blurb || undefined, profile_path: ent.profile_path || undefined }
 }
 
+// ─── Concept explainer ───────────────────────────────────────────────
+// Normalize a concept phrase ("the Panama Papers" / "Panama papers" /
+// "panama paper") to a canonical key used in KNOWN_CONCEPTS.
+function conceptKey(s: string): string {
+  return s.toLowerCase()
+    .replace(/^(the|a|an)\s+/, "")
+    .replace(/papers?$/, "papers")
+    .replace(/s$/, (m, _o, whole) => whole.endsWith("ss") ? m : "")  // plural → singular (loose)
+    .trim()
+}
+
+// Concept dictionary. Each value = { explanation, in_our_data, examples }.
+// The `in_our_data` note lets us wire the user into the right query to see
+// actual records: e.g. after reading "what are the Panama Papers", they
+// can click "offshore_entities from Panama Papers" to see the 74 linked
+// vault entities.
+const CONCEPTS: Record<string, { explanation: string; in_our_data?: string; followUps?: string[] }> = {
+  "panama papers": {
+    explanation: "The **Panama Papers** are 11.5 million leaked documents from Panamanian law firm Mossack Fonseca, published April 2016 by the International Consortium of Investigative Journalists (ICIJ). They exposed how wealthy individuals and politicians worldwide used offshore shell companies in tax havens (Panama, BVI, Cayman, etc.) to hide assets and, in some cases, evade taxes or launder money.",
+    in_our_data: "We've cross-referenced the ICIJ Panama Papers entity list against our vault. Several politically-active US entities appear in the leak including vault corporations and donor networks.",
+    followUps: ["offshore holdings of Apple", "offshore holdings of Blackstone", "panama papers Oracle"],
+  },
+  "paradise papers": {
+    explanation: "The **Paradise Papers** are 13.4 million leaked documents from Bermuda law firm Appleby + corporate registries in 19 tax jurisdictions, published November 2017 by ICIJ. They revealed the offshore dealings of major corporations (Apple, Nike, etc.), political figures, and wealthy individuals.",
+    in_our_data: "Cross-referenced against vault. Paradise Papers entities appear alongside Panama Papers in our offshore_entities dataset.",
+    followUps: ["offshore holdings of Apple", "offshore holdings of Oracle"],
+  },
+  "pandora papers": {
+    explanation: "The **Pandora Papers** are 11.9 million leaked documents from 14 offshore services firms, published October 2021 by ICIJ. The biggest offshore leak ever, exposing hidden wealth of 330+ politicians + world leaders.",
+    in_our_data: "ICIJ merged Pandora Papers into their combined Offshore Leaks Database; we've ingested that combined set.",
+    followUps: ["offshore_entities from pandora papers"],
+  },
+  "offshore leak": {
+    explanation: "**Offshore Leaks** was the first ICIJ offshore project (2013), 2.5M leaked documents exposing secret offshore dealings. Now part of ICIJ's combined Offshore Leaks Database alongside Panama/Paradise/Pandora/Bahamas.",
+    in_our_data: "Ingested.",
+    followUps: ["offshore_entities"],
+  },
+  "dark money": {
+    explanation: "**Dark money** = political spending where the ORIGINAL donor is not disclosed. In US campaign finance, this happens primarily via 501(c)(4) social welfare nonprofits and certain LLCs, which aren't legally required to reveal their donors. Classic dark-money vehicles: Marble Freedom Trust, Sixteen Thirty Fund, Crossroads GPS.",
+    in_our_data: "We tag vault entities with `sector: Dark Money` when they're classic vehicles. ~40+ vault entities carry this tag.",
+    followUps: ["tell me about Marble Freedom Trust", "top dafs", "tell me about Sixteen Thirty Fund"],
+  },
+  "527": {
+    explanation: "**527 organizations** are tax-exempt groups named after IRS Section 527, organized primarily to influence elections. Must report donors AND expenditures to the IRS, unlike 501(c)(4) dark-money nonprofits. PACs and super PACs are legally 527s too.",
+    in_our_data: "We've ingested the IRS POFD (Political Organization Filing & Disclosure) bulk; every 527 since 2000 with their filings.",
+    followUps: ["top super pacs"],
+  },
+  "501 c 4": {
+    explanation: "**501(c)(4) social welfare organization** — an IRS tax classification that can engage in political activity (as long as it's not their 'primary purpose') AND does NOT have to disclose donors. This is the legal structure most dark-money groups use.",
+    in_our_data: "Many dark-money vehicles in the vault carry this classification in their EIN frontmatter (Marble Freedom Trust, Americans for Prosperity, etc.).",
+    followUps: ["top dafs", "tell me about Americans for Prosperity"],
+  },
+  "501 c 3": {
+    explanation: "**501(c)(3) public charity** — an IRS tax classification for charitable/educational orgs. These CANNOT do most political campaign activity (or they lose the tax exemption), though they can engage in policy research + advocacy. Donations are tax-deductible.",
+    followUps: [],
+  },
+  "super pac": {
+    explanation: "**Super PAC** (technically 'independent expenditure-only committee') — a 527 that can raise UNLIMITED amounts from individuals, corporations, and unions for independent political spending, but CANNOT coordinate with candidates or donate directly to them. Created by the Citizens United decision (2010).",
+    in_our_data: "~100+ super PACs profiled in the vault. Every one has FEC committee ID + filings.",
+    followUps: ["top super pacs", "top donors to kamala harris"],
+  },
+  "pac": {
+    explanation: "**PAC (political action committee)** — any group registered with the FEC that raises money to donate to federal candidates. Subject to contribution limits (unlike super PACs). Often organized by corporations, unions, or trade associations.",
+    followUps: ["top pacs"],
+  },
+  "ein": {
+    explanation: "**EIN (Employer Identification Number)** — the IRS's 9-digit identifier for any US tax-exempt organization, nonprofit, business, or political org. Like a Social Security Number for organizations. We use EINs as the primary key when cross-referencing IRS records against our vault entities.",
+    followUps: [],
+  },
+  "bioguide": {
+    explanation: "**bioguide-id** — a unique identifier for every person who has served in the US Congress since 1789, assigned by the Biographical Directory of the US Congress. Used throughout our vault to tie votes, sponsorships, and profile pages to a single legislator.",
+    followUps: [],
+  },
+  "cycle": {
+    explanation: "**Election cycle** — the two-year period US federal elections operate on. Named by the year of the general election (so 'the 2024 cycle' = Jan 2023 through Dec 2024). FEC filings are organized by cycle. The current cycle is 2026.",
+    followUps: [],
+  },
+  "independent expenditure": {
+    explanation: "**Independent expenditure (IE)** — political spending that expressly advocates for or against a candidate but is NOT coordinated with the candidate's campaign. Super PACs do IEs. IEs have no contribution limits. Our data tags these with role=ie-support or role=ie-oppose.",
+    followUps: [],
+  },
+  "ie": { explanation: "See 'independent expenditure'.", followUps: ["what is an independent expenditure"] },
+  "donor advised fund": {
+    explanation: "**Donor-advised fund (DAF)** — a charitable giving vehicle where the donor receives an immediate tax deduction for contributing, but the money can sit in the DAF indefinitely before being granted out. Because the DAF SPONSOR is the listed donor on the grant (not the original DAF contributor), DAFs are a massive dark-money channel.",
+    in_our_data: "Fidelity Charitable, Schwab Charitable, Vanguard Charitable, and the National Christian Foundation are the largest DAFs; all profiled in the vault.",
+    followUps: ["top dafs", "where does fidelity charitable's money go"],
+  },
+  "daf": { explanation: "See 'donor advised fund'.", followUps: ["what is a donor advised fund"] },
+  "uei": {
+    explanation: "**UEI (Unique Entity Identifier)** — 12-character alphanumeric ID assigned by SAM.gov to every entity that receives federal contracts or grants. Replaced the DUNS number in 2022.",
+    followUps: [],
+  },
+  "cik": {
+    explanation: "**CIK (Central Index Key)** — SEC's 10-digit identifier for any public company or individual who has filed with the SEC. We use CIKs to cross-reference vault corporations against SEC EDGAR data.",
+    followUps: [],
+  },
+  "fec": {
+    explanation: "**FEC (Federal Election Commission)** — independent agency that administers and enforces US federal campaign finance law. Collects + publishes every federal political contribution and expenditure. The backbone of the donor map.",
+    followUps: [],
+  },
+  "form 990": {
+    explanation: "**IRS Form 990** — annual tax return every tax-exempt nonprofit (501(c)(3), (4), etc.) must file. Includes financial data, officer compensation, major donations out (Schedule I grants), and officer names (Schedule B). A major journalism source for nonprofit money flows.",
+    in_our_data: "We've ingested the IRS 990 XML bulk archive for every vault nonprofit's filings — ~1,441 filing records.",
+    followUps: [],
+  },
+  "form 8871": {
+    explanation: "**IRS Form 8871** — the initial registration form every 527 political organization files with the IRS. Contains the org's EIN, purpose, officers, and directors. Our POFD ingest uses these for EIN ↔ vault-entity matching.",
+    followUps: [],
+  },
+  "form 8872": {
+    explanation: "**IRS Form 8872** — the periodic financial disclosure form 527 political organizations must file, listing contributors (Schedule A) and expenditures (Schedule B). The 527 equivalent of FEC filings.",
+    followUps: [],
+  },
+  "citizens united": {
+    explanation: "**Citizens United v. FEC (2010)** — Supreme Court decision that ruled corporations + unions have 1st Amendment rights to make unlimited independent political expenditures. Gave birth to super PACs and the modern dark-money ecosystem.",
+    followUps: [],
+  },
+  "stock act": {
+    explanation: "**STOCK Act** — 2012 law requiring Congress members + senior execs to disclose personal stock trades within 45 days. We scrape STOCK Act Periodic Transaction Reports (PTRs) daily to track congressional trading.",
+    in_our_data: "Daily 6am scrape of Senate EFDS + House Clerk PTR filings.",
+    followUps: [],
+  },
+  "ptr": { explanation: "See 'STOCK Act'. PTR = Periodic Transaction Report.", followUps: [] },
+  "roll call": {
+    explanation: "**Roll call vote** — a vote in which each legislator's position (Yea/Nay/Present/Not Voting) is individually recorded. Contrast with voice vote (no individual record). Every roll call has a unique ID like 's325-118.2' (Senate, roll #325, 118th Congress, 2nd session).",
+    followUps: ["pelosi voting record", "bernie sanders voting record"],
+  },
+}
+
+const KNOWN_CONCEPTS = new Set(Object.keys(CONCEPTS))
+
 // ─── Bioguide lookup for voting records ──────────────────────────────
 
 function findBioguide(title: string): string | null {
@@ -1093,6 +1225,18 @@ interface ClassifiedQuestion {
 
 function classify(q: string): ClassifiedQuestion {
   const lower = q.toLowerCase().trim()
+
+  // Concept explainers — "what are the Panama Papers", "what is dark money",
+  // "what is a 527", "define EIN", "explain cycle". These are definitional
+  // questions, not entity lookups. Match early so they don't fall through
+  // to generic entity resolution.
+  const conceptMatch = lower.match(/^(?:what (?:are|is)(?: the| a| an)?|define|explain|tell me what(?: is| are)? (?:is|are)(?: the| a)?)\s+(.+?)(?:\?)?$/)
+  if (conceptMatch) {
+    const concept = conceptMatch[1].trim()
+    if (KNOWN_CONCEPTS.has(conceptKey(concept))) {
+      return { intent: "explain_concept", subjectName: concept }
+    }
+  }
 
   // Cross-party composer
   if (/cross[- ]party/.test(lower)) return { intent: "cross_party_donors" }
@@ -1608,7 +1752,7 @@ async function handleSummary(c: ClassifiedQuestion, question: string, engine: an
         : ""
       plain_english = `**In plain English:** ${name} is a dark-money vehicle — a nonprofit that can legally accept unlimited donations and is not required to publicly disclose who gave.${moneyBit} The named donors in the list below are the ones the IRS forced into the open through Schedule I grant disclosures by *other* nonprofits. The rest of the money arrived anonymously by design.`
 
-      is_this_legal = `**No, and that's the structural problem.** 501(c)(4) "social welfare" nonprofits are permitted by federal law to spend unlimited sums on political advocacy without ever disclosing their donors. ${name} is using a legal framework — the scandal is that the framework exists, not that anyone's breaking it.`
+      is_this_legal = `**Yes — and that's the structural problem.** 501(c)(4) "social welfare" nonprofits are permitted by federal law to spend unlimited sums on political advocacy without ever disclosing their donors. ${name} is using a legal framework — the scandal is that the framework exists, not that anyone's breaking it.`
 
       why_matters = `When a single vehicle concentrates ${fmtUsd(totalOut || totalIn)} of politically-directed money with no public accountability for who funded it, voters can't evaluate whose interests are actually being served by the ads, lobbying, and ${kind === "nonprofit" ? "grant programs" : "political spending"} it pays for. That opacity is the point, and the reason this class of vehicle exists.`
     } else if (kind === "individual" || kind === "person") {
@@ -1703,6 +1847,50 @@ async function handleCompare(c: ClassifiedQuestion, question: string, engine: an
   const ma = metricOf(dataA)
   const mb = metricOf(dataB)
 
+  // Per-row explainer: when a number looks surprising (0 donors, $0
+  // received, etc.) we annotate with WHY so the reader isn't left
+  // scratching their head. This directly fixes the "Marble Freedom
+  // Trust: 0 donors, $995M distributed" confusion.
+  function rowNote(metric: string, valueA: string, valueB: string, entA: any, entB: any): string | undefined {
+    const isDark = (ent: any) => {
+      const s = String(ent?.signals?.sector || "").toLowerCase()
+      return s.includes("dark money") || String(ent?.entity_type || "") === "nonprofit" && s.includes("501")
+    }
+    const zeroishA = valueA === "$0" || valueA === "0 donors" || valueA === "0 recipients" || valueA === "—"
+    const zeroishB = valueB === "$0" || valueB === "0 donors" || valueB === "0 recipients" || valueB === "—"
+
+    if (metric === "Donor count" && (zeroishA || zeroishB)) {
+      const which = zeroishA && zeroishB ? `Both ${a} and ${b}` : zeroishA ? a : b
+      const isDarkZero = zeroishA ? isDark(entA) : isDark(entB)
+      if (isDarkZero) {
+        return `${which} shows 0 donors because it's a **dark-money entity** — 501(c)(4) nonprofits are NOT legally required to disclose their donors. The $0 "total received" (and blank top donor) means the same thing: we have no records of inflows because the law doesn't require those records to exist publicly. This is the entire POINT of dark money: the public can see the money leave (grants + spending) but not where it came from.`
+      }
+      return `${which} shows 0 donors in our data. This could mean: (a) the entity's funding is pre-2016 and predates our itemized-contribution coverage, (b) donations came through a conduit we haven't traced yet, or (c) the entity is funded by a single private source we don't have an edge for.`
+    }
+
+    if (metric === "Total received" && (zeroishA || zeroishB)) {
+      const which = zeroishA && zeroishB ? `Both ${a} and ${b}` : zeroishA ? a : b
+      const isDarkZero = zeroishA ? isDark(entA) : isDark(entB)
+      if (isDarkZero) {
+        return `${which}'s "$0 received" is not what it looks like. Dark-money 501(c)(4) nonprofits don't have to report donors or total receipts publicly — what you're seeing is the ABSENCE of disclosure, not the absence of money. Check the "Total distributed" row below: if that number is large, it means money definitely came in, we just can't trace the source.`
+      }
+    }
+
+    if (metric === "Total distributed" && (zeroishA || zeroishB)) {
+      const which = zeroishA && zeroishB ? `Both ${a} and ${b}` : zeroishA ? a : b
+      return `${which} has no tracked outflows. For a DONOR or PAC this is normal if they're a recipient not a distributor. For a FOUNDATION or dark-money vehicle this may mean they're sitting on assets without granting them out this cycle.`
+    }
+
+    if (metric === "Top donor" && (zeroishA || zeroishB)) {
+      const which = zeroishA ? a : b
+      const isDarkZero = zeroishA ? isDark(entA) : isDark(entB)
+      if (isDarkZero) {
+        return `Top donor is blank for ${which} for the same reason the donor count is 0: dark-money entities don't disclose donors. The *real* top donor may be known from investigative journalism (e.g. Barre Seid gave Marble Freedom Trust $1.6B in 2021 per NYT reporting) but that doesn't show up as a structured edge in our data.`
+      }
+    }
+    return undefined
+  }
+
   // Determine structural type of each for framing
   function typeLabel(ent: any): string {
     if (!ent) return "unknown"
@@ -1721,7 +1909,7 @@ async function handleCompare(c: ClassifiedQuestion, question: string, engine: an
 
   // Rows for the rendered table — ordered so the most-human-interesting
   // lines come first.
-  const rows = [
+  const rawRows: Array<{ metric: string; a: string; b: string }> = [
     { metric: "Type", a: tA, b: tB },
     { metric: "Sector", a: String(entA?.signals?.sector || "—"), b: String(entB?.signals?.sector || "—") },
     { metric: "Total received", a: ma.total_received, b: mb.total_received },
@@ -1732,6 +1920,11 @@ async function handleCompare(c: ClassifiedQuestion, question: string, engine: an
     { metric: "Top donor", a: ma.top_donor, b: mb.top_donor },
     { metric: "Top recipient", a: ma.top_recipient, b: mb.top_recipient },
   ]
+  // Attach row-level explanatory notes for surprising zeros.
+  const rows = rawRows.map((r) => {
+    const note = rowNote(r.metric, r.a, r.b, entA, entB)
+    return note ? { ...r, note } : r
+  })
 
   // Plain-English framing — the most pedagogical part. Recognizes the
   // common "structural mirror" pattern (same type on opposing sides of
@@ -2326,6 +2519,24 @@ async function handleQuestion(question: string): Promise<AskResult> {
     }
   }
 
+  if (c.intent === "explain_concept") {
+    const concept = String(c.subjectName || "")
+    const key = conceptKey(concept)
+    const entry = CONCEPTS[key]
+    if (!entry) {
+      return finalize({ question, intent: "explain_concept", total: 0, rows: [], note: `No canned explanation for "${concept}". Try a specific entity lookup instead.` })
+    }
+    const followUps = entry.followUps || []
+    const summary = entry.explanation + (entry.in_our_data ? `\n\n**In this database:** ${entry.in_our_data}` : "")
+    return finalize({
+      question, intent: "explain_concept",
+      resolved_title: concept,
+      total: 1,
+      rows: [],
+      summary,
+      follow_ups: followUps,
+    } as AskResult)
+  }
   if (c.intent === "cross_party_donors") {
     const r = await engine.query({ subject: "cross_party_donors", filters: { days: 365 }, limit: 25 })
     return finalize({ question, intent: c.intent, total: r.total || r.rows.length, rows: r.rows, summary: `${r.total || r.rows.length} donors giving to BOTH major parties within the last 365 days.` })
