@@ -31,3 +31,4 @@ ops/data/
 content/Admin Notes/.attention-dispatcher.log
 content/Admin Notes/.attention-dispatcher.log.1
 data/derived/fec-oth-transfers.jsonl
+data/derived/govinfo-bill-status.jsonl
