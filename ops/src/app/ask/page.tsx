@@ -579,10 +579,13 @@ function ResultCard({ r, onFollowUp }: { r: AskResponse; onFollowUp: (q: string)
           </div>
         )}
 
-        {/* Is this illegal? — preempts the first question every reader asks */}
+        {/* Is this legal? — preempts the first question every reader asks.
+            Label intentionally phrased positively so a "Yes." answer in the
+            body reads as "yes it's legal" (not "yes it's illegal" — that
+            framing confused users). */}
         {r.is_this_legal && (
           <div style={styles.legalityWrap}>
-            <div style={styles.legalityLabel}>Is this illegal?</div>
+            <div style={styles.legalityLabel}>Is this legal?</div>
             <div style={styles.legality}>{renderRichText(r.is_this_legal)}</div>
           </div>
         )}
