@@ -17,12 +17,13 @@ _Regenerate: `node scripts/audit-orphan-entities.cjs` — last run 2026-04-21._
 
 | Bucket | Count | Meaning |
 |---|---:|---|
-| **promote** | 24987 | Editorially-interesting orgs (≥$1M flow or ≥5 edges). **These are the ones to review.** |
+| **promote** | 24971 | Editorially-interesting orgs (≥$1M flow or ≥5 edges). **These are the ones to review.** |
 | federal | 286 | Federal agencies as USAspending contract counterparties. Contextual, not editorial subjects. |
 | committee | 2383 | FEC committee names already tied to their politician (e.g. "X FOR CONGRESS"). Already covered via politician profile. |
-| person | 904565 | Individual donor names from FEC itemization. Not profile-worthy unless they're significant. |
+| platform | 72 | Payroll SaaS / fundraising platforms (Paychex, Gusto, ADP, WinRed, ActBlue). Conduits, not political actors. |
+| person | 904546 | Individual donor names from FEC itemization. Not profile-worthy unless they're significant. |
 | narrative | 271 | Vault story-page wikilinks that leaked into the graph as edge targets. Fix at ingest; don't promote. |
-| lowflow | 978473 | Orgs with <$1M and <5 edges — below the editorial threshold. |
+| lowflow | 978436 | Orgs with <$1M and <5 edges — below the editorial threshold. |
 
 **Total orphan names**: 1,910,965
 
@@ -57,15 +58,12 @@ _Regenerate: `node scripts/audit-orphan-entities.cjs` — last run 2026-04-21._
 | ONMESSAGE INC | 10 | $112.8M | — / $112.8M | fec-oppexp |
 | RISING TIDE INTERACTIVE | 11 | $106.4M | $99K / $106.3M | fec-indiv-by-committee, fec-oppexp |
 | LEFT HOOK | 16 | $98.4M | — / $98.4M | fec-oppexp |
-| PAYCHEX | 104 | $97.6M | — / $97.6M | fec-oppexp |
-| GUSTO | 99 | $95.1M | — / $95.1M | fec-oppexp |
 | GILES-PARSCALE | 2 | $91.9M | — / $91.9M | fec-oppexp |
 | TARGETED VICTORY LLC | 43 | $90.4M | $355K / $90.1M | fec-indiv-by-committee, fec-oppexp |
 | Sheldon G. Mr. Adelson | 22 | $88.8M | $88.8M / — | fec-indiv-by-committee |
 | CANAL PARTNERS MEDIA | 24 | $86.7M | $14K / $86.7M | fec-indiv-by-committee, fec-oppexp |
 | OLD TOWNE MEDIA INC | 1 | $83.0M | — / $83.0M | fec-oppexp |
 | Empower Parents PAC | 1 | $82.5M | $82.5M / — | irs-pofd-8872 |
-| ADP | 69 | $82.5M | $1K / $82.5M | fec-indiv-by-committee, fec-oppexp, irs-pofd-8872 |
 | Sheldon G. Adelson | 30 | $81.6M | $81.6M / — | fec-indiv-by-committee |
 | SMART MEDIA GROUP LLC | 19 | $81.6M | — / $81.6M | fec-oppexp |
 | SHORR JOHNSON MAGNUS | 15 | $78.1M | $33K / $78.1M | fec-indiv-by-committee, fec-oppexp |
@@ -75,7 +73,6 @@ _Regenerate: `node scripts/audit-orphan-entities.cjs` — last run 2026-04-21._
 | Republican Governors Association | 38 | $67.8M | $67.7M / $105K | irs-pofd-8872 |
 | AFT SOLIDARITY 527 | 24 | $64.2M | $64.2M / — | fec-indiv-by-committee, irs-pofd-8872 |
 | SMP | 8 | $63.0M | $63.0M / — | discovery-scanner, fec-indiv-by-committee |
-| INSPERITY | 23 | $61.9M | — / $61.9M | fec-oppexp |
 | AL MEDIA, LLC | 2 | $61.5M | — / $61.5M | fec-oppexp |
 | AB DATA | 9 | $61.0M | $10K / $61.0M | fec-indiv-by-committee, fec-oppexp |
 | ANNE LEWIS STRATEGIES, LLC | 21 | $60.0M | — / $60.0M | fec-oppexp |
@@ -84,13 +81,11 @@ _Regenerate: `node scripts/audit-orphan-entities.cjs` — last run 2026-04-21._
 | RWT PRODUCTION LLC | 11 | $55.6M | — / $55.6M | fec-oppexp |
 | MENTZER MEDIA SERVICES, INC. | 7 | $55.5M | — / $55.5M | fec-oppexp |
 | DEMOCRACY PAC | 15 | $55.5M | $55.5M / — | fec-indiv-by-committee |
-| ZENEFITS | 2 | $54.7M | — / $54.7M | fec-oppexp |
 | FP1 STRATEGIES | 19 | $53.9M | — / $53.9M | fec-oppexp |
 | SECURING AMERICAN GREATNESS | 1 | $52.6M | $52.6M / — | fec-indiv-by-committee |
 | MAVERICK MEDIA, INC. | 1 | $51.9M | — / $51.9M | fec-oppexp |
 | AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE | 1 | $51.5M | $51.5M / — | fec-indiv-by-committee |
 | Paul Elliott Singer | 6 | $50.2M | $50.2M / — | fec-indiv-by-committee |
-| PAYROLL DATA PROCESSING | 38 | $49.9M | $44K / $49.9M | fec-indiv-by-committee, fec-oppexp |
 | GPS IMPACT | 30 | $48.7M | $64K / $48.6M | fec-indiv-by-committee, fec-oppexp |
 | SOUTHWEST PUBLISHING | 30 | $48.0M | — / $48.0M | fec-oppexp |
 | PRIORITIES USA | 3 | $46.9M | $46.9M / — | fec-indiv-by-committee |
@@ -132,8 +127,14 @@ _Regenerate: `node scripts/audit-orphan-entities.cjs` — last run 2026-04-21._
 | ENVIRONMENTAL DEFENSE ACTION FUND | 4 | $33.1M | $33.1M / — | fec-indiv-by-committee |
 | TRUXTON CREATIVE LLC | 1 | $32.9M | — / $32.9M | fec-oppexp |
 | RED BEACON STRATEGIES, LLC | 8 | $32.8M | — / $32.8M | fec-oppexp |
+| REVOLUTION MESSAGING, LLC | 14 | $32.6M | — / $32.6M | fec-oppexp |
+| BLUE WEST MEDIA, LLC | 1 | $32.4M | — / $32.4M | fec-oppexp |
+| AUTHENTIC CAMPAIGNS, INC. | 15 | $32.2M | — / $32.2M | fec-oppexp |
+| INTERNAL REVENUE SERVICE | 136 | $32.1M | — / $32.1M | fec-oppexp |
+| STRATEGIC ADVANCE SERVICES | 8 | $31.9M | $72K / $31.9M | fec-indiv-by-committee, fec-oppexp |
+| Warren A. Mr. Stephens | 30 | $31.2M | $31.2M / — | fec-indiv-by-committee |
 
-_(24887 more below threshold; re-run with a cutoff to see more)_
+_(24871 more below threshold; re-run with a cutoff to see more)_
 
 ---
 

@@ -53,6 +53,24 @@ const COMMITTEE_NAME_PATTERNS = [
   /\b(VICTORY COMMITTEE|LEADERSHIP (PAC|FUND))$/i,
 ];
 
+// Payroll / HR / fundraising-platform vendors — NOT political actors.
+// They get paid by political committees (hence huge fec-oppexp flow)
+// but don't donate, run IEs, or sit in the political network. Filtering
+// these out of the promote bucket prevents them cluttering editorial
+// review. Currently the big offenders:
+//   Paychex $97M · Gusto $95M · ADP $82M · Insperity $62M · Zenefits
+//   $55M · Payroll Data Processing $50M — all payroll SaaS vendors.
+//   WinRed (Rep donation platform) + ActBlue (Dem donation platform)
+//   are conduits, not donors themselves — treat as platforms.
+const PAYROLL_PLATFORM_PATTERNS = [
+  /^(paychex|gusto|adp|insperity|zenefits|trinet|oasis outsourcing|bambee|rippling|justworks|paylocity|ceridian|dayforce)$/i,
+  /\bpayroll (data |services )?processing\b/i,
+  /^(winred|actblue|anedot|ngp van|numero)$/i,
+  /\b(stripe|square|paypal)( payments)?( inc)?$/i,
+  /^amazon web services$/i,
+  /^(google|meta|facebook|microsoft|apple)\b.*\b(advertising|ads|marketing)?$/i,
+];
+
 // Individual-person heuristics — "LAST, FIRST" FEC shape or bare
 // "First Last" with no business markers
 function looksLikePerson(name) {
@@ -79,6 +97,10 @@ function looksLikeFederalAgency(name) {
 
 function looksLikeCommittee(name) {
   return COMMITTEE_NAME_PATTERNS.some((rx) => rx.test(name));
+}
+
+function looksLikePayrollPlatform(name) {
+  return PAYROLL_PLATFORM_PATTERNS.some((rx) => rx.test(name));
 }
 
 function loadEntities() {
@@ -152,6 +174,7 @@ function main() {
     promote: [],       // editorial candidates — orgs with real flow
     federal: [],       // context-only
     committee: [],     // already tied to politician
+    platform: [],      // payroll / fundraising platforms — conduits, not actors
     person: [],        // individual donors
     narrative: [],     // vault story pages leaking into graph
     lowflow: [],       // <$1M and <5 edges — probably not editorial
@@ -167,6 +190,7 @@ function main() {
     };
     if (looksLikeFederalAgency(name)) { buckets.federal.push(row); continue; }
     if (looksLikeCommittee(name)) { buckets.committee.push(row); continue; }
+    if (looksLikePayrollPlatform(name)) { buckets.platform.push(row); continue; }
     if (looksLikePerson(name)) { buckets.person.push(row); continue; }
     if (looksLikeNarrative(name)) { buckets.narrative.push(row); continue; }
     if (row.total < 1_000_000 && row.edges < 5) { buckets.lowflow.push(row); continue; }
@@ -210,6 +234,7 @@ function main() {
   lines.push(`| **promote** | ${buckets.promote.length} | Editorially-interesting orgs (≥$1M flow or ≥5 edges). **These are the ones to review.** |`);
   lines.push(`| federal | ${buckets.federal.length} | Federal agencies as USAspending contract counterparties. Contextual, not editorial subjects. |`);
   lines.push(`| committee | ${buckets.committee.length} | FEC committee names already tied to their politician (e.g. "X FOR CONGRESS"). Already covered via politician profile. |`);
+  lines.push(`| platform | ${buckets.platform.length} | Payroll SaaS / fundraising platforms (Paychex, Gusto, ADP, WinRed, ActBlue). Conduits, not political actors. |`);
   lines.push(`| person | ${buckets.person.length} | Individual donor names from FEC itemization. Not profile-worthy unless they're significant. |`);
   lines.push(`| narrative | ${buckets.narrative.length} | Vault story-page wikilinks that leaked into the graph as edge targets. Fix at ingest; don't promote. |`);
   lines.push(`| lowflow | ${buckets.lowflow.length} | Orgs with <$1M and <5 edges — below the editorial threshold. |`);
@@ -248,7 +273,7 @@ function main() {
   fs.mkdirSync(path.dirname(OUT_FILE), { recursive: true });
   fs.writeFileSync(OUT_FILE, lines.join('\n') + '\n');
   console.log(`\nWrote ${OUT_FILE}`);
-  console.log(`  ${buckets.promote.length} promote candidates, ${buckets.federal.length} federal, ${buckets.narrative.length} narrative, ${buckets.person.length} persons, ${buckets.committee.length} committees, ${buckets.lowflow.length} lowflow.`);
+  console.log(`  ${buckets.promote.length} promote candidates, ${buckets.federal.length} federal, ${buckets.narrative.length} narrative, ${buckets.person.length} persons, ${buckets.committee.length} committees, ${buckets.platform.length} platforms, ${buckets.lowflow.length} lowflow.`);
 }
 
 main();
