@@ -1,7 +1,7 @@
 ---
 title: Kash Patel
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: Kash Patel is the logical endpoint of the Trump loyalty economy , a system where demonstrated willingness to use institutional power against Trump's enemies is the only qualification for advancement. Patel authored the Nunes Memo (2018), which gav...
 last-updated: 2026-04-07T00:00:00.000Z
 source-tier: 1

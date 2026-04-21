@@ -1,7 +1,7 @@
 ---
 title: Russell Vought
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: Russell Vought is not a budget director , he's a power architect. His career trajectory (Heritage Foundation → Heritage Action → Trump OMB → Center for Renewing America → Project 2025 → Trump OMB again) represents the conversion of conservative mo...
 last-updated: 2026-04-07T00:00:00.000Z
 source-tier: 1

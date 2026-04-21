@@ -2,7 +2,7 @@
 title: Kamala Harris
 type: politician
 bioguide-id: H001075
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: "Harris is the federal expression of the California donor-class Democratic model. The $2.3 billion losing campaign proved the donor class controls who runs but not who wins when the working class does not trust the candidate."
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
@@ -36,6 +36,12 @@ urls-first-triaged: "2026-04-15"
 total-raised: "$1.22B"
 career-total-source: "FEC weball summary (cycles 2020, 2022, 2024)"
 bills-sponsored: 118
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No voting record data"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Pete Hegseth Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: "Hegseth's appointment represents the transformation of the Pentagon into an ideological arm of Trump's political project rather than an independent military institution. He was selected for media presence and political loyalty, not strategic exper..."
 last-updated: 2026-04-13
 source-tier: 2
@@ -16,9 +16,7 @@ total-received: "$202,554"
 fec-candidate-id: "S2MN00258"
 known-gaps:
   - "No FEC contribution data"
-  - "No legislative record from Congress.gov"
   - "No voting record data"
-  - "No mapped relationships"
 related: "[[Veterans and Military - Donors and Backers]] · [[The VA Privatization Pipeline - Who Profits From Veteran Healthcare]] · [[Concerned Veterans for America]] · [[Defense Contractors Bloc]] · [[Fox News Pipeline to Power]]"
 total-raised: "$202,554"
 total-spent: "$202,555"
@@ -26,6 +24,8 @@ cash-on-hand: "0.00"
 fec-cycle: 2012
 last-enriched: "2026-04-10"
 urls-first-triaged: "2026-04-15"
+source-types:
+  - Congress
 ---
 
 

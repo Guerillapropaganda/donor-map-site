@@ -2,7 +2,7 @@
 title: Barack Obama
 type: politician
 bioguide-id: O000167
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: "Obama is the master of the Two-Audience Problem: one message for progressive voters, one private reassurance for donors. His 2008 campaign promised 'hope and change' and ran against the financial sector's power. His private reassurance to bankers ..."
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -53,6 +53,13 @@ related: ">- · [[UnitedHealth Group - Optum]] · [[Insurance Industry Bloc]] ·
 donors: "[[Lawrence Summers]] · [[Google - Alphabet]] · [[Gates Foundation]] · [[Insurance Industry]] · [[US Chamber of Commerce]] · [[Reed Hastings]] · [[Eric Schmidt]] · [[JPMorgan Chase]] · [[Entertainment and Hollywood Donors]] · [[General Motors]] · [[Apple]] · [[Pharmaceutical Industry]] · [[Goldman Sachs]] · [[JB Pritzker]] · [[Google]] · [[JB Pritzker - Donor Network]] · [[JB Pritzker (Donor Network)]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 122
+source-types:
+  - Congress
+  - FederalRegister
+corroboration-count: 2
+known-gaps:
+  - "No FEC contribution data"
+  - "No voting record data"
 ---
 
 

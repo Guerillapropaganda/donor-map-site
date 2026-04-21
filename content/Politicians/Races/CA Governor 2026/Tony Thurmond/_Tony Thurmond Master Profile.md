@@ -1,7 +1,7 @@
 ---
 title: Tony Thurmond
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: Tony Thurmond is the education establishment candidate , his superintendent tenure represents the interests of California Teachers Association (CTA) and public education institutional networks, in direct conflict with the charter school billionair...
 last-updated: 2026-03-23T00:00:00.000Z
 source-tier: 1
@@ -17,6 +17,7 @@ issues:
 top-donors: "[[CTA - California Teachers Association]]"
 known-gaps:
   - "No FEC contribution data"
+  - "No legislative record from Congress.gov"
   - "No voting record data"
 related: "[[CTA - California Teachers Association]] · [[Charter Schools and the Billionaire Reform Movement]] · [[_Gavin Newsom Master Profile]]"
 urls-first-triaged: "2026-04-15"

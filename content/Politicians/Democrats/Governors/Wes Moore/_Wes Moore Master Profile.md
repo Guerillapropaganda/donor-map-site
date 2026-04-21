@@ -1,7 +1,7 @@
 ---
 title: Wes Moore
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: "Wes Moore is the Democratic donor class's ideal product: a candidate manufactured at the intersection of Wall Street (Citigroup, Deutsche Bank), hedge fund philanthropy (Robin Hood Foundation), military service (82nd Airborne), and nonprofit leade..."
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -17,14 +17,14 @@ top-donors:
   - Citigroup
   - George Soros
 known-gaps:
-  - No FEC contribution data
-  - No legislative record from Congress.gov
-  - No voting record data
-  - No mapped relationships
+  - "No FEC contribution data"
+  - "No voting record data"
 related: "[[_Kamala Harris Master Profile]] · [[_Josh Shapiro Master Profile]] · [[_JB Pritzker Master Profile]] · [[_Andy Beshear Master Profile]] · [[Goldman Sachs]] · [[George Soros]]"
 donors: "[[Insurance Industry]] · [[Conservative Partnership Institute]] · [[Brady Campaign]] · [[Citigroup]] · [[George Soros]] · [[Goldman Sachs]]"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-20
+source-types:
+  - Congress
 ---
 
 

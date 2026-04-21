@@ -1,7 +1,7 @@
 ---
 title: JB Pritzker
 type: politician
-content-readiness: ready
+content-readiness: data-complete
 central-thesis: "JB Pritzker is the Democratic donor class in its purest form: the donor IS the politician. He didn't need bundlers, super PACs, or industry favors , he wrote himself $323 million in checks. The self-funding eliminates the intermediary between weal..."
 last-updated: 2026-04-16
 source-tier: 1
