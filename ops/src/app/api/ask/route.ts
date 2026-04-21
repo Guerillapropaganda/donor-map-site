@@ -1018,8 +1018,25 @@ const KNOWN_CONCEPTS = new Set(Object.keys(CONCEPTS))
 
 // ─── Bioguide lookup for voting records ──────────────────────────────
 
+// Entities store sometimes holds FEC-shaped names like "OBAMA, BARACK"
+// (LAST, FIRST). Profile frontmatter uses "Barack Obama". Generate the
+// title-cased "First Last" form so findBioguide can match both shapes.
+function normalizeToTitleCase(name: string): string[] {
+  const variants = new Set<string>([name])
+  const commaParts = name.split(",")
+  if (commaParts.length === 2) {
+    const last = commaParts[0].trim()
+    const first = commaParts[1].trim()
+    const titleCase = (s: string) =>
+      s.toLowerCase().replace(/(^|\s|-)(\w)/g, (_m, p, c) => p + c.toUpperCase())
+    variants.add(`${titleCase(first)} ${titleCase(last)}`)
+  }
+  return Array.from(variants)
+}
+
 function findBioguide(title: string): string | null {
   const root = path.join(REPO_ROOT, "content", "Politicians")
+  const candidates = normalizeToTitleCase(title)
   const stack = [root]
   while (stack.length) {
     const dir = stack.pop() as string
@@ -1038,7 +1055,9 @@ function findBioguide(title: string): string | null {
         const bm = m[1].match(/\bbioguide-id:\s*['"]?([A-Z0-9]+)['"]?/)
         if (!tm || !bm) continue
         const pt = tm[1].trim()
-        if (pt === title || pt.replace(" Master Profile", "") === title) return bm[1]
+        for (const cand of candidates) {
+          if (pt === cand || pt.replace(" Master Profile", "") === cand) return bm[1]
+        }
       }
     }
   }
