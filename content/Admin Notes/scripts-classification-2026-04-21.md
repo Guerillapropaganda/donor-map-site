@@ -49,15 +49,39 @@ scripts/create-pac-stubs.cjs           — Has TODO/FIXME in header
 scripts/profile-template-generator.cjs — Has TODO/FIXME in header
 ```
 
-## Unknown (5 scripts — header ambiguous, quick manual review)
+## Unknown — resolved 2026-04-21 (all 5 confirmed active)
 
 ```
-scripts/ops-surface-audit.cjs          — probable active-audit (Pillar 3 ops inventory)
-scripts/readiness-promotion-digest.cjs — probable active-audit (promotion digest)
-scripts/staleness-decay.cjs            — probable active-pipeline (auto-decay readiness)
-scripts/status.cjs                     — probable active-utility (system health)
-scripts/tag-conduits.cjs               — probable active-pipeline (WinRed/ActBlue tagging, ADR-0013)
+scripts/ops-surface-audit.cjs          → active-audit
+   Pillar 3 inventory of every Ops surface. Walks ops/src/app/ for
+   page routes + API routes, parses fetch() deps, records auth gates.
+
+scripts/readiness-promotion-digest.cjs → active-audit
+   Preps David's next review session — finds profiles close to passing
+   publication-readiness-check, produces prioritized digest.
+
+scripts/staleness-decay.cjs            → active-pipeline
+   Automatic tier demotion: verified → ready after 90 days stale,
+   ready → draft after 180 days. Dry-run by default.
+
+scripts/status.cjs                     → active-utility
+   One-glance system health dashboard (store counts, regression
+   status, publication progress, class-tag approvals).
+
+scripts/tag-conduits.cjs               → active-pipeline
+   Tags WinRed / ActBlue / JFCs as conduits in entities.jsonl per
+   ADR-0013. Adds signals.is_conduit + signals.conduit_type.
 ```
+
+None are archive candidates. All 5 stay in `scripts/` root.
+
+Final classification totals:
+- active-pipeline: 96 (+2)
+- active-audit: 54 (+2)
+- active-utility: 10 (+1)
+- active-sentinel: 17
+- archived (moved today): 13
+- broken-or-stale (still pending): 2
 
 ## Recommended next steps
 
