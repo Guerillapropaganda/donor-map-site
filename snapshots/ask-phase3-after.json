@@ -1,0 +1,2804 @@
+{
+  "captured_at": "2026-04-22T19:52:17.155Z",
+  "profiles": {
+    "Bernie Sanders": {
+      "tell me about Bernie Sanders": {
+        "intent": "summary",
+        "resolved_title": "Bernie Sanders",
+        "total": 10,
+        "answer": "**Bernie Sanders** — politician in Political Committee. received $568K directly from 99 donor edges · plus $5.6M in outside spending (IE) supporting them — not received by them · gave $8.5K politically · $2.6M spent against them (IE-oppose) across 16 edges",
+        "bullets": [
+          "FEC lifetime receipts: **$550M** across 20 cycles ($519M from individuals)",
+          "Recent cycles — 2020: $232M · 2022: $16M · 2024: $8.6M · 2026: $24M",
+          "Received ~$6.2M across 99 donors. Top: National Nurses United for Patient Protection $4.7M, California Nurses Association $748K, Joe Carangi $93K. (Plus $2.6M spent AGAINST them by 16 opposition edges — excluded.)",
+          "Distributed ~$465M across 997 recipients. Top: OLD TOWNE MEDIA INC $83M, ADP, LLC $45M, BLUE WEST MEDIA, LLC $32M"
+        ],
+        "breakdown": [
+          {
+            "label": "Total FEC receipts (all cycles)",
+            "value": "$550M",
+            "numeric": 550150783,
+            "citation": "fec-candidate-summary",
+            "note": "The full career raise including sub-$200 small-dollar donors. Source of truth for 'how much did they raise.'"
+          },
+          {
+            "label": "From individuals (all cycles)",
+            "value": "$519M",
+            "numeric": 518810779,
+            "citation": "fec-candidate-summary"
+          },
+          {
+            "label": "From PACs (all cycles)",
+            "value": "$2.5M",
+            "numeric": 2459689,
+            "citation": "fec-candidate-summary"
+          },
+          {
+            "label": "Major donors listed below (≥$1K aggregate)",
+            "value": "35 donors, $6.2M",
+            "numeric": 6174266,
+            "citation": "fec-indiv-by-committee",
+            "note": "Small-dollar donors (<$1K aggregate) appear in the FEC receipts line above but aren't listed individually — they make up 99% of total raised here."
+          },
+          {
+            "label": "Attack spending (IE-oppose against them)",
+            "value": "16 super-PAC edges, $2.6M",
+            "numeric": 2642740,
+            "citation": "fec-pas2",
+            "note": "Money spent by super-PACs running ads AGAINST this politician. Not part of their raise."
+          }
+        ],
+        "raise_reconciliation": {
+          "summary_total": 550150783,
+          "summary_total_label": "$550M",
+          "cycles_covered": 20,
+          "cycle_range": "1988–2026",
+          "big_cycles": [
+            {
+              "cycle": "2016",
+              "amount": 238908064.52
+            },
+            {
+              "cycle": "2020",
+              "amount": 231717448.12,
+              "label": "presidential run"
+            }
+          ],
+          "graph_tracked_direct": 567768,
+          "graph_tracked_count": 99,
+          "remaining": 549583015,
+          "remaining_pct": 100,
+          "ie_support": 5606498,
+          "ie_oppose": 2642740,
+          "narrative": "Bernie Sanders raised $550M lifetime across 20 FEC cycles (1988–2026). The biggest were 2016 ($239M), 2020 ($232M — presidential run). The graph traces $568K to 99 named donors (≥$1K aggregate); the remaining ~$550M came from sub-$1K donors rolled up in FEC summary totals (standard for small-dollar campaigns) plus joint fundraising committees and transfers. Separately: $5.6M in outside spending supporting Bernie (IE, not received by the campaign); $2.6M spent against Bernie (IE-oppose)."
+        },
+        "top_rows": [
+          {
+            "kind": "top-donor",
+            "from": "National Nurses United for Patient Protection",
+            "to": "Bernie Sanders",
+            "amount": 4709370,
+            "cycle": "2016",
+            "source": "fec-pas2"
+          },
+          {
+            "kind": "top-donor",
+            "from": "California Nurses Association",
+            "to": "Bernie Sanders",
+            "amount": 747621,
+            "cycle": "2020",
+            "source": "fec-pas2"
+          },
+          {
+            "kind": "top-donor",
+            "from": "Joe Carangi",
+            "to": "Bernie Sanders",
+            "amount": 93308,
+            "cycle": "2016",
+            "source": "fec-indiv-by-committee"
+          },
+          {
+            "kind": "top-donor",
+            "from": "Democratic Senatorial Campaign Committee",
+            "to": "Bernie Sanders",
+            "amount": 60000,
+            "cycle": "2006",
+            "source": "fec-pas2"
+          },
+          {
+            "kind": "top-donor",
+            "from": "Takeaction Mn Federal Fund",
+            "to": "Bernie Sanders",
+            "amount": 53870,
+            "cycle": "2020",
+            "source": "fec-pas2"
+          }
+        ]
+      },
+      "who funds Bernie Sanders": {
+        "intent": "donors_to",
+        "resolved_title": "Bernie Sanders",
+        "total": 129,
+        "answer": "**Bernie Sanders** received **$6.1M** in tracked support edges from **99** donors/committees. (Plus $2.6M spent AGAINST them by 16 super-PAC opposition edges — excluded from the totals above.) *(FEC candidate-summary total across all cycles: $550M; individual contributions $519M. The figure above shows only donor-level edges in the graph; small-dollar donors below the $10K aggregation floor are reflected in the summary total but not listed individually.)*",
+        "bullets": [
+          "National Nurses United for Patient Protection: $4.7M (2016) [fec-pas2]",
+          "California Nurses Association: $748K (2020) [fec-pas2]",
+          "Joe Carangi: $93K (2016) [fec-indiv-by-committee]",
+          "Democratic Senatorial Campaign Committee: $60K (2006) [fec-pas2]",
+          "Takeaction Mn Federal Fund: $54K (2020) [fec-pas2]"
+        ],
+        "breakdown": [
+          {
+            "label": "Total FEC receipts (all cycles)",
+            "value": "$550M",
+            "numeric": 550150783,
+            "citation": "fec-candidate-summary",
+            "note": "The full career raise including sub-$200 small-dollar donors. Source of truth for 'how much did they raise.'"
+          },
+          {
+            "label": "From individuals (all cycles)",
+            "value": "$519M",
+            "numeric": 518810779,
+            "citation": "fec-candidate-summary"
+          },
+          {
+            "label": "From PACs (all cycles)",
+            "value": "$2.5M",
+            "numeric": 2459689,
+            "citation": "fec-candidate-summary"
+          },
+          {
+            "label": "Major donors listed below (≥$1K aggregate)",
+            "value": "35 donors, $6.2M",
+            "numeric": 6174266,
+            "citation": "fec-indiv-by-committee",
+            "note": "Small-dollar donors (<$1K aggregate) appear in the FEC receipts line above but aren't listed individually — they make up 99% of total raised here."
+          },
+          {
+            "label": "Attack spending (IE-oppose against them)",
+            "value": "16 super-PAC edges, $2.6M",
+            "numeric": 2642740,
+            "citation": "fec-pas2",
+            "note": "Money spent by super-PACs running ads AGAINST this politician. Not part of their raise."
+          }
+        ],
+        "top_rows": [
+          {
+            "from": "National Nurses United for Patient Protection",
+            "to": "Bernie Sanders",
+            "amount": 4709370,
+            "cycle": "2016",
+            "role": "ie-support",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "California Nurses Association",
+            "to": "Bernie Sanders",
+            "amount": 747621,
+            "cycle": "2020",
+            "role": "ie-support",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "Joe Carangi",
+            "to": "Bernie Sanders",
+            "amount": 93308,
+            "cycle": "2016",
+            "role": "direct-contribution",
+            "source": "fec-indiv-by-committee"
+          },
+          {
+            "from": "Democratic Senatorial Campaign Committee",
+            "to": "Bernie Sanders",
+            "amount": 60000,
+            "cycle": "2006",
+            "role": "party-coordinated",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "Takeaction Mn Federal Fund",
+            "to": "Bernie Sanders",
+            "amount": 53870,
+            "cycle": "2020",
+            "role": "ie-support",
+            "source": "fec-pas2"
+          }
+        ]
+      },
+      "what does Bernie Sanders fund": {
+        "intent": "recipients_from",
+        "resolved_title": "Bernie Sanders",
+        "total": 996,
+        "answer": "**Bernie Sanders** moved **$8.5K** in political spending across **7** recipient edges. (Plus $465M in vendor / operating expenses — law firms, printers, travel, etc. — excluded from the political total.)",
+        "bullets": [
+          "→ Cori Bush: $2.0K (2024) [fec-pas2]",
+          "→ Ilhan Omar: $1.5K (2020) [fec-pas2]",
+          "→ Betty McCollum: $1.0K (2000) [fec-pas2]",
+          "→ Tammy Baldwin: $1.0K (2000) [fec-pas2]",
+          "→ Sherrod Brown: $1.0K (2006) [fec-pas2]"
+        ],
+        "top_rows": [
+          {
+            "from": "Bernie Sanders",
+            "to": "Cori Bush",
+            "amount": 2000,
+            "cycle": "2024",
+            "role": "direct-contribution",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "Bernie Sanders",
+            "to": "Ilhan Omar",
+            "amount": 1500,
+            "cycle": "2020",
+            "role": "direct-contribution",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "Bernie Sanders",
+            "to": "Betty McCollum",
+            "amount": 1000,
+            "cycle": "2000",
+            "role": "direct-contribution",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "Bernie Sanders",
+            "to": "Tammy Baldwin",
+            "amount": 1000,
+            "cycle": "2000",
+            "role": "direct-contribution",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "Bernie Sanders",
+            "to": "Sherrod Brown",
+            "amount": 1000,
+            "cycle": "2006",
+            "role": "direct-contribution",
+            "source": "fec-pas2"
+          }
+        ]
+      }
+    },
+    "Alexandria Ocasio-Cortez": {
+      "tell me about Alexandria Ocasio-Cortez": {
+        "intent": "summary",
+        "resolved_title": "Alexandria Ocasio-Cortez",
+        "total": 10,
+        "answer": "**Alexandria Ocasio-Cortez** — politician. received $64K directly from 22 donor edges · gave $15K politically · $817K spent against them (IE-oppose) across 7 edges",
+        "bullets": [
+          "FEC lifetime receipts: **$79M** across 5 cycles ($77M from individuals)",
+          "Recent cycles — 2020: $21M · 2022: $12M · 2024: $15M · 2026: $28M",
+          "Received ~$64K across 22 donors. Top: David G. Bunting $10K, National Education Association $8.0K, Indivisible Action $7.5K. (Plus $817K spent AGAINST them by 7 opposition edges — excluded.)",
+          "Distributed ~$57M across 155 recipients. Top: FACEBOOK $13M, VEYOND $7.9M, MIDDLE SEAT $6.7M"
+        ],
+        "breakdown": [
+          {
+            "label": "Total FEC receipts (all cycles)",
+            "value": "$79M",
+            "numeric": 78817994,
+            "citation": "fec-candidate-summary",
+            "note": "The full career raise including sub-$200 small-dollar donors. Source of truth for 'how much did they raise.'"
+          },
+          {
+            "label": "From individuals (all cycles)",
+            "value": "$77M",
+            "numeric": 76979143,
+            "citation": "fec-candidate-summary"
+          },
+          {
+            "label": "From PACs (all cycles)",
+            "value": "$255K",
+            "numeric": 255175,
+            "citation": "fec-candidate-summary"
+          },
+          {
+            "label": "Major donors listed below (≥$1K aggregate)",
+            "value": "12 donors, $64K",
+            "numeric": 64200,
+            "citation": "fec-indiv-by-committee",
+            "note": "Small-dollar donors (<$1K aggregate) appear in the FEC receipts line above but aren't listed individually — they make up 100% of total raised here."
+          },
+          {
+            "label": "Attack spending (IE-oppose against them)",
+            "value": "7 super-PAC edges, $817K",
+            "numeric": 817325,
+            "citation": "fec-pas2",
+            "note": "Money spent by super-PACs running ads AGAINST this politician. Not part of their raise."
+          }
+        ],
+        "raise_reconciliation": {
+          "summary_total": 78817994,
+          "summary_total_label": "$79M",
+          "cycles_covered": 5,
+          "cycle_range": "2018–2026",
+          "big_cycles": [
+            {
+              "cycle": "2026",
+              "amount": 27733214.94,
+              "label": "House race"
+            }
+          ],
+          "graph_tracked_direct": 64200,
+          "graph_tracked_count": 22,
+          "remaining": 78753794,
+          "remaining_pct": 100,
+          "ie_support": 0,
+          "ie_oppose": 817325,
+          "narrative": "Alexandria Ocasio-Cortez raised $79M lifetime across 5 FEC cycles (2018–2026). The biggest were 2026 ($28M — House race). The graph traces $64K to 22 named donors (≥$1K aggregate); the remaining ~$79M came from sub-$1K donors rolled up in FEC summary totals (standard for small-dollar campaigns) plus joint fundraising committees and transfers. Separately: $817K spent against Alexandria (IE-oppose)."
+        },
+        "top_rows": [
+          {
+            "kind": "top-donor",
+            "from": "David G. Bunting",
+            "to": "Alexandria Ocasio-Cortez",
+            "amount": 10000,
+            "cycle": "2022",
+            "source": "fec-indiv-by-committee"
+          },
+          {
+            "kind": "top-donor",
+            "from": "National Education Association",
+            "to": "Alexandria Ocasio-Cortez",
+            "amount": 8000,
+            "cycle": "2020",
+            "source": "fec-pas2"
+          },
+          {
+            "kind": "top-donor",
+            "from": "Indivisible Action",
+            "to": "Alexandria Ocasio-Cortez",
+            "amount": 7500,
+            "cycle": "2020",
+            "source": "fec-pas2"
+          },
+          {
+            "kind": "top-donor",
+            "from": "National Education Association",
+            "to": "Alexandria Ocasio-Cortez",
+            "amount": 5000,
+            "cycle": "2018",
+            "source": "fec-pas2"
+          },
+          {
+            "kind": "top-donor",
+            "from": "National Education Association",
+            "to": "Alexandria Ocasio-Cortez",
+            "amount": 4000,
+            "cycle": "2022",
+            "source": "fec-pas2"
+          }
+        ]
+      },
+      "who funds Alexandria Ocasio-Cortez": {
+        "intent": "donors_to",
+        "resolved_title": "Alexandria Ocasio-Cortez",
+        "total": 50,
+        "answer": "**Alexandria Ocasio-Cortez** received **$64K** in tracked support edges from **22** donors/committees. (Plus $817K spent AGAINST them by 7 super-PAC opposition edges — excluded from the totals above.) *(FEC candidate-summary total across all cycles: $79M; individual contributions $77M. The figure above shows only donor-level edges in the graph; small-dollar donors below the $10K aggregation floor are reflected in the summary total but not listed individually.)*",
+        "bullets": [
+          "David G. Bunting: $10K (2022) [fec-indiv-by-committee]",
+          "National Education Association: $8.0K (2020) [fec-pas2]",
+          "Indivisible Action: $7.5K (2020) [fec-pas2]",
+          "National Education Association: $5.0K (2018) [fec-pas2]",
+          "National Education Association: $4.0K (2022) [fec-pas2]"
+        ],
+        "breakdown": [
+          {
+            "label": "Total FEC receipts (all cycles)",
+            "value": "$79M",
+            "numeric": 78817994,
+            "citation": "fec-candidate-summary",
+            "note": "The full career raise including sub-$200 small-dollar donors. Source of truth for 'how much did they raise.'"
+          },
+          {
+            "label": "From individuals (all cycles)",
+            "value": "$77M",
+            "numeric": 76979143,
+            "citation": "fec-candidate-summary"
+          },
+          {
+            "label": "From PACs (all cycles)",
+            "value": "$255K",
+            "numeric": 255175,
+            "citation": "fec-candidate-summary"
+          },
+          {
+            "label": "Major donors listed below (≥$1K aggregate)",
+            "value": "12 donors, $64K",
+            "numeric": 64200,
+            "citation": "fec-indiv-by-committee",
+            "note": "Small-dollar donors (<$1K aggregate) appear in the FEC receipts line above but aren't listed individually — they make up 100% of total raised here."
+          },
+          {
+            "label": "Attack spending (IE-oppose against them)",
+            "value": "7 super-PAC edges, $817K",
+            "numeric": 817325,
+            "citation": "fec-pas2",
+            "note": "Money spent by super-PACs running ads AGAINST this politician. Not part of their raise."
+          }
+        ],
+        "top_rows": [
+          {
+            "from": "David G. Bunting",
+            "to": "Alexandria Ocasio-Cortez",
+            "amount": 10000,
+            "cycle": "2022",
+            "role": "direct-contribution",
+            "source": "fec-indiv-by-committee"
+          },
+          {
+            "from": "National Education Association",
+            "to": "Alexandria Ocasio-Cortez",
+            "amount": 8000,
+            "cycle": "2020",
+            "role": "direct-contribution",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "Indivisible Action",
+            "to": "Alexandria Ocasio-Cortez",
+            "amount": 7500,
+            "cycle": "2020",
+            "role": "direct-contribution",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "National Education Association",
+            "to": "Alexandria Ocasio-Cortez",
+            "amount": 5000,
+            "cycle": "2018",
+            "role": "direct-contribution",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "National Education Association",
+            "to": "Alexandria Ocasio-Cortez",
+            "amount": 4000,
+            "cycle": "2022",
+            "role": "direct-contribution",
+            "source": "fec-pas2"
+          }
+        ]
+      },
+      "what does Alexandria Ocasio-Cortez fund": {
+        "intent": "recipients_from",
+        "resolved_title": "Alexandria Ocasio-Cortez",
+        "total": 155,
+        "answer": "**Alexandria Ocasio-Cortez** moved **$15K** in political spending across **6** recipient edges. (Plus $57M in vendor / operating expenses — law firms, printers, travel, etc. — excluded from the political total.)",
+        "bullets": [
+          "→ Cori Bush: $4.0K (2024) [fec-pas2]",
+          "→ Mike Levin: $2.8K (2020) [fec-pas2]",
+          "→ Ilhan Omar: $2.0K (2020) [fec-pas2]",
+          "→ Rashida Tlaib: $2.0K (2020) [fec-pas2]",
+          "→ Patrick Ryan: $2.0K (2024) [fec-pas2]"
+        ],
+        "top_rows": [
+          {
+            "from": "Alexandria Ocasio-Cortez",
+            "to": "Cori Bush",
+            "amount": 4000,
+            "cycle": "2024",
+            "role": "direct-contribution",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "Alexandria Ocasio-Cortez",
+            "to": "Mike Levin",
+            "amount": 2800,
+            "cycle": "2020",
+            "role": "direct-contribution",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "Alexandria Ocasio-Cortez",
+            "to": "Ilhan Omar",
+            "amount": 2000,
+            "cycle": "2020",
+            "role": "direct-contribution",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "Alexandria Ocasio-Cortez",
+            "to": "Rashida Tlaib",
+            "amount": 2000,
+            "cycle": "2020",
+            "role": "direct-contribution",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "Alexandria Ocasio-Cortez",
+            "to": "Patrick Ryan",
+            "amount": 2000,
+            "cycle": "2024",
+            "role": "direct-contribution",
+            "source": "fec-pas2"
+          }
+        ]
+      }
+    },
+    "Chris Murphy": {
+      "tell me about Chris Murphy": {
+        "intent": "summary",
+        "resolved_title": "Chris Murphy",
+        "total": 10,
+        "answer": "**Chris Murphy** — politician. received $994K directly from 142 donor edges · plus $615K in outside spending (IE) supporting them — not received by them · gave $34K politically · $13K spent against them (IE-oppose) across 3 edges",
+        "bullets": [
+          "FEC lifetime receipts: **$54M** across 8 cycles ($48M from individuals)",
+          "Recent cycles — 2020: $1.7M · 2022: $861K · 2024: $13M · 2026: $13M",
+          "Received ~$1.6M across 142 donors. Top: Democratic Senatorial Campaign Committee $360K, Working for US Political Action Committee INC $314K, Environment America INC $199K. (Plus $13K spent AGAINST them by 3 opposition edges — excluded.)",
+          "Distributed ~$38M across 162 recipients. Top: AISLE 518 STRATEGIES LLC $8.9M, MESSAGE & MEDIA $4.5M, SCREEN STRATEGIES MEDIA $2.6M"
+        ],
+        "breakdown": [
+          {
+            "label": "Total FEC receipts (all cycles)",
+            "value": "$54M",
+            "numeric": 53540825,
+            "citation": "fec-candidate-summary",
+            "note": "The full career raise including sub-$200 small-dollar donors. Source of truth for 'how much did they raise.'"
+          },
+          {
+            "label": "From individuals (all cycles)",
+            "value": "$48M",
+            "numeric": 48095294,
+            "citation": "fec-candidate-summary"
+          },
+          {
+            "label": "From PACs (all cycles)",
+            "value": "$3.6M",
+            "numeric": 3555553,
+            "citation": "fec-candidate-summary"
+          },
+          {
+            "label": "Major donors listed below (≥$1K aggregate)",
+            "value": "71 donors, $1.6M",
+            "numeric": 1608848,
+            "citation": "fec-indiv-by-committee",
+            "note": "Small-dollar donors (<$1K aggregate) appear in the FEC receipts line above but aren't listed individually — they make up 97% of total raised here."
+          },
+          {
+            "label": "Attack spending (IE-oppose against them)",
+            "value": "3 super-PAC edges, $13K",
+            "numeric": 13002,
+            "citation": "fec-pas2",
+            "note": "Money spent by super-PACs running ads AGAINST this politician. Not part of their raise."
+          }
+        ],
+        "raise_reconciliation": {
+          "summary_total": 53540825,
+          "summary_total_label": "$54M",
+          "cycles_covered": 8,
+          "cycle_range": "2012–2026",
+          "big_cycles": [
+            {
+              "cycle": "2012",
+              "amount": 10543456,
+              "label": "House race"
+            }
+          ],
+          "graph_tracked_direct": 993939,
+          "graph_tracked_count": 142,
+          "remaining": 52546886,
+          "remaining_pct": 98,
+          "ie_support": 614909,
+          "ie_oppose": 13002,
+          "narrative": "Chris Murphy raised $54M lifetime across 8 FEC cycles (2012–2026). The biggest were 2012 ($11M — House race). The graph traces $994K to 142 named donors (≥$1K aggregate); the remaining ~$53M came from sub-$1K donors rolled up in FEC summary totals (standard for small-dollar campaigns) plus joint fundraising committees and transfers. Separately: $615K in outside spending supporting Chris (IE, not received by the campaign); $13K spent against Chris (IE-oppose)."
+        },
+        "top_rows": [
+          {
+            "kind": "top-donor",
+            "from": "Democratic Senatorial Campaign Committee",
+            "to": "Chris Murphy",
+            "amount": 359888,
+            "cycle": "2012",
+            "source": "fec-pas2"
+          },
+          {
+            "kind": "top-donor",
+            "from": "Working for US Political Action Committee INC",
+            "to": "Chris Murphy",
+            "amount": 313883,
+            "cycle": "2012",
+            "source": "fec-pas2"
+          },
+          {
+            "kind": "top-donor",
+            "from": "Environment America INC",
+            "to": "Chris Murphy",
+            "amount": 199170,
+            "cycle": "2012",
+            "source": "fec-pas2"
+          },
+          {
+            "kind": "top-donor",
+            "from": "AFL-CIO",
+            "to": "Chris Murphy",
+            "amount": 73597,
+            "cycle": "2012",
+            "source": "fec-pas2"
+          },
+          {
+            "kind": "top-donor",
+            "from": "Humane Society Legislative Fund",
+            "to": "Chris Murphy",
+            "amount": 42663,
+            "cycle": "2012",
+            "source": "fec-pas2"
+          }
+        ]
+      },
+      "who funds Chris Murphy": {
+        "intent": "donors_to",
+        "resolved_title": "Chris Murphy",
+        "total": 163,
+        "answer": "**Chris Murphy** received **$1.4M** in tracked support edges from **142** donors/committees. (Plus $13K spent AGAINST them by 3 super-PAC opposition edges — excluded from the totals above.) *(FEC candidate-summary total across all cycles: $54M; individual contributions $48M. The figure above shows only donor-level edges in the graph; small-dollar donors below the $10K aggregation floor are reflected in the summary total but not listed individually.)*",
+        "bullets": [
+          "Democratic Senatorial Campaign Committee: $360K (2012) [fec-pas2]",
+          "Working for US Political Action Committee INC: $314K (2012) [fec-pas2]",
+          "Environment America INC: $199K (2012) [fec-pas2]",
+          "AFL-CIO: $74K (2012) [fec-pas2]",
+          "Humane Society Legislative Fund: $43K (2012) [fec-pas2]"
+        ],
+        "breakdown": [
+          {
+            "label": "Total FEC receipts (all cycles)",
+            "value": "$54M",
+            "numeric": 53540825,
+            "citation": "fec-candidate-summary",
+            "note": "The full career raise including sub-$200 small-dollar donors. Source of truth for 'how much did they raise.'"
+          },
+          {
+            "label": "From individuals (all cycles)",
+            "value": "$48M",
+            "numeric": 48095294,
+            "citation": "fec-candidate-summary"
+          },
+          {
+            "label": "From PACs (all cycles)",
+            "value": "$3.6M",
+            "numeric": 3555553,
+            "citation": "fec-candidate-summary"
+          },
+          {
+            "label": "Major donors listed below (≥$1K aggregate)",
+            "value": "71 donors, $1.6M",
+            "numeric": 1608848,
+            "citation": "fec-indiv-by-committee",
+            "note": "Small-dollar donors (<$1K aggregate) appear in the FEC receipts line above but aren't listed individually — they make up 97% of total raised here."
+          },
+          {
+            "label": "Attack spending (IE-oppose against them)",
+            "value": "3 super-PAC edges, $13K",
+            "numeric": 13002,
+            "citation": "fec-pas2",
+            "note": "Money spent by super-PACs running ads AGAINST this politician. Not part of their raise."
+          }
+        ],
+        "top_rows": [
+          {
+            "from": "Democratic Senatorial Campaign Committee",
+            "to": "Chris Murphy",
+            "amount": 359888,
+            "cycle": "2012",
+            "role": "party-coordinated",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "Working for US Political Action Committee INC",
+            "to": "Chris Murphy",
+            "amount": 313883,
+            "cycle": "2012",
+            "role": "ie-support",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "Environment America INC",
+            "to": "Chris Murphy",
+            "amount": 199170,
+            "cycle": "2012",
+            "role": "ie-support",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "AFL-CIO",
+            "to": "Chris Murphy",
+            "amount": 73597,
+            "cycle": "2012",
+            "role": "coordinated-party-expense",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "Humane Society Legislative Fund",
+            "to": "Chris Murphy",
+            "amount": 42663,
+            "cycle": "2012",
+            "role": "ie-support",
+            "source": "fec-pas2"
+          }
+        ]
+      },
+      "what does Chris Murphy fund": {
+        "intent": "recipients_from",
+        "resolved_title": "Chris Murphy",
+        "total": 162,
+        "answer": "**Chris Murphy** moved **$34K** in political spending across **14** recipient edges. (Plus $37M in vendor / operating expenses — law firms, printers, travel, etc. — excluded from the political total.)",
+        "bullets": [
+          "→ Mark Warner: $4.0K (2020) [fec-pas2]",
+          "→ Maggie Goodlander: $4.0K (2024) [fec-pas2]",
+          "→ Ruben Gallego: $4.0K (2024) [fec-pas2]",
+          "→ Martin Heinrich: $4.0K (2024) [fec-pas2]",
+          "→ Lisa Blunt Rochester: $4.0K (2024) [fec-pas2]"
+        ],
+        "top_rows": [
+          {
+            "from": "Chris Murphy",
+            "to": "Mark Warner",
+            "amount": 4000,
+            "cycle": "2020",
+            "role": "direct-contribution",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "Chris Murphy",
+            "to": "Maggie Goodlander",
+            "amount": 4000,
+            "cycle": "2024",
+            "role": "direct-contribution",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "Chris Murphy",
+            "to": "Ruben Gallego",
+            "amount": 4000,
+            "cycle": "2024",
+            "role": "direct-contribution",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "Chris Murphy",
+            "to": "Martin Heinrich",
+            "amount": 4000,
+            "cycle": "2024",
+            "role": "direct-contribution",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "Chris Murphy",
+            "to": "Lisa Blunt Rochester",
+            "amount": 4000,
+            "cycle": "2024",
+            "role": "direct-contribution",
+            "source": "fec-pas2"
+          }
+        ]
+      }
+    },
+    "Josh Hawley": {
+      "tell me about Josh Hawley": {
+        "intent": "summary",
+        "resolved_title": "Josh Hawley",
+        "total": 130,
+        "answer": "**Josh Hawley** — politician. received $1.1M directly from 39 donor edges · plus $1.3M in outside spending (IE) supporting them — not received by them · $81M spent against them (IE-oppose) across 13 edges",
+        "bullets": [
+          "FEC lifetime receipts: **$41M** across 5 cycles ($29M from individuals)",
+          "Recent cycles — 2020: $2.2M · 2022: $11M · 2024: $14M · 2026: $1.5M",
+          "Received ~$2.5M across 39 donors. Top: National Republican Senatorial Committee $916K, NRA Political Victory Fund $702K, SLF PAC $197K. (Plus $81M spent AGAINST them by 13 opposition edges — excluded.)",
+          "Distributed ~$558K across 10 recipients. Top: CAPITAL ENHANCEMENT, INC. $159K, Republican Jewish Coalition $132K, CITI CARDS $64K",
+          "Via JOSH HAWLEY FOR SENATE: received $175K; moved $32M to allies. Support: ONMESSAGE INC. $17M, TEAM DIRECT LLC $1.2M, ONMESSAGE DIGITAL FUNDRAISING LLC $1.2M."
+        ],
+        "breakdown": [
+          {
+            "label": "Total FEC receipts (all cycles)",
+            "value": "$41M",
+            "numeric": 40933270,
+            "citation": "fec-candidate-summary",
+            "note": "The full career raise including sub-$200 small-dollar donors. Source of truth for 'how much did they raise.'"
+          },
+          {
+            "label": "From individuals (all cycles)",
+            "value": "$29M",
+            "numeric": 29445225,
+            "citation": "fec-candidate-summary"
+          },
+          {
+            "label": "From PACs (all cycles)",
+            "value": "$1.7M",
+            "numeric": 1678123,
+            "citation": "fec-candidate-summary"
+          },
+          {
+            "label": "Major donors listed below (≥$1K aggregate)",
+            "value": "32 donors, $2.5M",
+            "numeric": 2463036,
+            "citation": "fec-indiv-by-committee",
+            "note": "Small-dollar donors (<$1K aggregate) appear in the FEC receipts line above but aren't listed individually — they make up 94% of total raised here."
+          },
+          {
+            "label": "Attack spending (IE-oppose against them)",
+            "value": "13 super-PAC edges, $81M",
+            "numeric": 80520276,
+            "citation": "fec-pas2",
+            "note": "Money spent by super-PACs running ads AGAINST this politician. Not part of their raise."
+          }
+        ],
+        "raise_reconciliation": {
+          "summary_total": 40933270,
+          "summary_total_label": "$41M",
+          "cycles_covered": 5,
+          "cycle_range": "2018–2026",
+          "big_cycles": [],
+          "graph_tracked_direct": 1135441,
+          "graph_tracked_count": 39,
+          "remaining": 39797829,
+          "remaining_pct": 97,
+          "ie_support": 1327595,
+          "ie_oppose": 80520276,
+          "narrative": "Josh Hawley raised $41M lifetime across 5 FEC cycles (2018–2026). The graph traces $1.1M to 39 named donors (≥$1K aggregate); the remaining ~$40M came from sub-$1K donors rolled up in FEC summary totals (standard for small-dollar campaigns) plus joint fundraising committees and transfers. Separately: $1.3M in outside spending supporting Josh (IE, not received by the campaign); $81M spent against Josh (IE-oppose)."
+        },
+        "top_rows": [
+          {
+            "kind": "top-donor",
+            "from": "National Republican Senatorial Committee",
+            "to": "Josh Hawley",
+            "amount": 915743,
+            "cycle": "2018",
+            "source": "fec-pas2"
+          },
+          {
+            "kind": "top-donor",
+            "from": "NRA Political Victory Fund",
+            "to": "Josh Hawley",
+            "amount": 702368,
+            "cycle": "2018",
+            "source": "fec-pas2"
+          },
+          {
+            "kind": "top-donor",
+            "from": "SLF PAC",
+            "to": "Josh Hawley",
+            "amount": 196545,
+            "cycle": "2018",
+            "source": "fec-pas2"
+          },
+          {
+            "kind": "top-donor",
+            "from": "Senate Conservatives Fund",
+            "to": "Josh Hawley",
+            "amount": 126715,
+            "cycle": "2024",
+            "source": "fec-pas2"
+          },
+          {
+            "kind": "top-donor",
+            "from": "Women Speak Out Pac",
+            "to": "Josh Hawley",
+            "amount": 93365,
+            "cycle": "2018",
+            "source": "fec-pas2"
+          }
+        ]
+      },
+      "who funds Josh Hawley": {
+        "intent": "donors_to",
+        "resolved_title": "Josh Hawley",
+        "total": 143,
+        "answer": "**Josh Hawley** received **$2.6M** in tracked support edges from **54** donors/committees (pooled across 2 entities including controlled vehicles). Breakdown: $2.5M direct; $169K via **JOSH HAWLEY FOR SENATE**. (Plus $81M spent AGAINST them by 13 super-PAC opposition edges — excluded from the totals above.) *(FEC candidate-summary total across all cycles: $41M; individual contributions $29M. The figure above shows only donor-level edges in the graph; small-dollar donors below the $10K aggregation floor are reflected in the summary total but not listed individually.)*",
+        "bullets": [
+          "National Republican Senatorial Committee: $916K (2018) [fec-pas2]",
+          "NRA Political Victory Fund: $702K (2018) [fec-pas2]",
+          "SLF PAC: $197K (2018) [fec-pas2]",
+          "Senate Conservatives Fund: $127K (2024) [fec-pas2]",
+          "Women Speak Out Pac: $93K (2018) [fec-pas2]"
+        ],
+        "breakdown": [
+          {
+            "label": "Total FEC receipts (all cycles)",
+            "value": "$41M",
+            "numeric": 40933270,
+            "citation": "fec-candidate-summary",
+            "note": "The full career raise including sub-$200 small-dollar donors. Source of truth for 'how much did they raise.'"
+          },
+          {
+            "label": "From individuals (all cycles)",
+            "value": "$29M",
+            "numeric": 29445225,
+            "citation": "fec-candidate-summary"
+          },
+          {
+            "label": "From PACs (all cycles)",
+            "value": "$1.7M",
+            "numeric": 1678123,
+            "citation": "fec-candidate-summary"
+          },
+          {
+            "label": "Major donors listed below (≥$1K aggregate)",
+            "value": "47 donors, $2.6M",
+            "numeric": 2632296,
+            "citation": "fec-indiv-by-committee",
+            "note": "Small-dollar donors (<$1K aggregate) appear in the FEC receipts line above but aren't listed individually — they make up 94% of total raised here."
+          },
+          {
+            "label": "Attack spending (IE-oppose against them)",
+            "value": "13 super-PAC edges, $81M",
+            "numeric": 80520276,
+            "citation": "fec-pas2",
+            "note": "Money spent by super-PACs running ads AGAINST this politician. Not part of their raise."
+          }
+        ],
+        "top_rows": [
+          {
+            "from": "National Republican Senatorial Committee",
+            "to": "Josh Hawley",
+            "amount": 915743,
+            "cycle": "2018",
+            "role": "party-coordinated",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "NRA Political Victory Fund",
+            "to": "Josh Hawley",
+            "amount": 702368,
+            "cycle": "2018",
+            "role": "ie-support",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "SLF PAC",
+            "to": "Josh Hawley",
+            "amount": 196545,
+            "cycle": "2018",
+            "role": "ie-support",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "Senate Conservatives Fund",
+            "to": "Josh Hawley",
+            "amount": 126715,
+            "cycle": "2024",
+            "role": "ie-support",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "Women Speak Out Pac",
+            "to": "Josh Hawley",
+            "amount": 93365,
+            "cycle": "2018",
+            "role": "ie-support",
+            "source": "fec-pas2"
+          }
+        ]
+      },
+      "what does Josh Hawley fund": {
+        "intent": "recipients_from",
+        "resolved_title": "Josh Hawley",
+        "total": 113,
+        "answer": "**Josh Hawley** moved **$2.0K** in political spending across **1** recipient edges. (Plus $33M in vendor / operating expenses — law firms, printers, travel, etc. — excluded from the political total.) Vehicle breakdown: **JOSH HAWLEY FOR SENATE** ($2.0K support).",
+        "bullets": [
+          "→ JD Vance (via JOSH HAWLEY FOR SENATE): $2.0K (2022) [fec-pas2]"
+        ],
+        "top_rows": [
+          {
+            "from": "JOSH HAWLEY FOR SENATE",
+            "to": "JD Vance",
+            "amount": 2000,
+            "cycle": "2022",
+            "role": "direct-contribution",
+            "source": "fec-pas2"
+          }
+        ]
+      }
+    },
+    "Elizabeth Warren": {
+      "tell me about Elizabeth Warren": {
+        "intent": "summary",
+        "resolved_title": "Elizabeth Warren",
+        "total": 10,
+        "answer": "**Elizabeth Warren** — politician in Political Committee. received $3.3M directly from 39 donor edges · plus $736K in outside spending (IE) supporting them — not received by them · gave $329K politically · $7.8M spent against them (IE-oppose) across 11 edges",
+        "bullets": [
+          "FEC lifetime receipts: **$234M** across 8 cycles ($211M from individuals)",
+          "Recent cycles — 2020: $138M · 2022: $5.9M · 2024: $9.0M · 2026: $3.8M",
+          "Received ~$4.1M across 39 donors. Top: WARREN FOR SENATE, INC. $1.7M, Democratic Senatorial Campaign Committee $606K, WARREN FOR SENATE, INC. $426K. (Plus $7.8M spent AGAINST them by 11 opposition edges — excluded.)",
+          "Distributed ~$94M across 210 recipients. Top: COMPLETE PAYROLL SOLUTIONS $14M, SCREEN STRATEGIE MEDIA $14M, American Homes 4 Rent $8.9M"
+        ],
+        "breakdown": [
+          {
+            "label": "Total FEC receipts (all cycles)",
+            "value": "$234M",
+            "numeric": 234446407,
+            "citation": "fec-candidate-summary",
+            "note": "The full career raise including sub-$200 small-dollar donors. Source of truth for 'how much did they raise.'"
+          },
+          {
+            "label": "From individuals (all cycles)",
+            "value": "$211M",
+            "numeric": 211246155,
+            "citation": "fec-candidate-summary"
+          },
+          {
+            "label": "From PACs (all cycles)",
+            "value": "$1.2M",
+            "numeric": 1217796,
+            "citation": "fec-candidate-summary"
+          },
+          {
+            "label": "Major donors listed below (≥$1K aggregate)",
+            "value": "20 donors, $4.1M",
+            "numeric": 4082082,
+            "citation": "fec-indiv-by-committee",
+            "note": "Small-dollar donors (<$1K aggregate) appear in the FEC receipts line above but aren't listed individually — they make up 98% of total raised here."
+          },
+          {
+            "label": "Attack spending (IE-oppose against them)",
+            "value": "11 super-PAC edges, $7.8M",
+            "numeric": 7837434,
+            "citation": "fec-pas2",
+            "note": "Money spent by super-PACs running ads AGAINST this politician. Not part of their raise."
+          }
+        ],
+        "raise_reconciliation": {
+          "summary_total": 234446407,
+          "summary_total_label": "$234M",
+          "cycles_covered": 8,
+          "cycle_range": "2012–2026",
+          "big_cycles": [
+            {
+              "cycle": "2020",
+              "amount": 137993871.23,
+              "label": "presidential run"
+            },
+            {
+              "cycle": "2012",
+              "amount": 42506349
+            },
+            {
+              "cycle": "2018",
+              "amount": 25825246.34
+            }
+          ],
+          "graph_tracked_direct": 3346541,
+          "graph_tracked_count": 39,
+          "remaining": 231099866,
+          "remaining_pct": 99,
+          "ie_support": 735541,
+          "ie_oppose": 7837434,
+          "narrative": "Elizabeth Warren raised $234M lifetime across 8 FEC cycles (2012–2026). The biggest were 2020 ($138M — presidential run), 2012 ($43M), 2018 ($26M). The graph traces $3.3M to 39 named donors (≥$1K aggregate); the remaining ~$231M came from sub-$1K donors rolled up in FEC summary totals (standard for small-dollar campaigns) plus joint fundraising committees and transfers. Separately: $736K in outside spending supporting Elizabeth (IE, not received by the campaign); $7.8M spent against Elizabeth (IE-oppose)."
+        },
+        "top_rows": [
+          {
+            "kind": "top-donor",
+            "from": "WARREN FOR SENATE, INC.",
+            "to": "Elizabeth Warren",
+            "amount": 1708531,
+            "cycle": "2020",
+            "source": "fec-pas2"
+          },
+          {
+            "kind": "top-donor",
+            "from": "Democratic Senatorial Campaign Committee",
+            "to": "Elizabeth Warren",
+            "amount": 605892,
+            "cycle": "2012",
+            "source": "fec-pas2"
+          },
+          {
+            "kind": "top-donor",
+            "from": "WARREN FOR SENATE, INC.",
+            "to": "Elizabeth Warren",
+            "amount": 426344,
+            "cycle": "2022",
+            "source": "fec-pas2"
+          },
+          {
+            "kind": "top-donor",
+            "from": "Elizabeth Warren",
+            "to": "Elizabeth Warren",
+            "amount": 327037,
+            "cycle": "2020",
+            "source": "fec-pas2"
+          },
+          {
+            "kind": "top-donor",
+            "from": "WinSenate",
+            "to": "Elizabeth Warren",
+            "amount": 300000,
+            "cycle": "2012",
+            "source": "fec-pas2"
+          }
+        ]
+      },
+      "who funds Elizabeth Warren": {
+        "intent": "donors_to",
+        "resolved_title": "Elizabeth Warren",
+        "total": 58,
+        "answer": "**Elizabeth Warren** received **$3.8M** in tracked support edges from **38** donors/committees. (Plus $7.8M spent AGAINST them by 11 super-PAC opposition edges — excluded from the totals above.) *(FEC candidate-summary total across all cycles: $234M; individual contributions $211M. The figure above shows only donor-level edges in the graph; small-dollar donors below the $10K aggregation floor are reflected in the summary total but not listed individually.)*",
+        "bullets": [
+          "WARREN FOR SENATE, INC.: $1.7M (2020) [fec-pas2]",
+          "Democratic Senatorial Campaign Committee: $606K (2012) [fec-pas2]",
+          "WARREN FOR SENATE, INC.: $426K (2022) [fec-pas2]",
+          "WinSenate: $300K (2012) [fec-pas2]",
+          "Environment America INC: $163K (2012) [fec-pas2]"
+        ],
+        "breakdown": [
+          {
+            "label": "Total FEC receipts (all cycles)",
+            "value": "$234M",
+            "numeric": 234446407,
+            "citation": "fec-candidate-summary",
+            "note": "The full career raise including sub-$200 small-dollar donors. Source of truth for 'how much did they raise.'"
+          },
+          {
+            "label": "From individuals (all cycles)",
+            "value": "$211M",
+            "numeric": 211246155,
+            "citation": "fec-candidate-summary"
+          },
+          {
+            "label": "From PACs (all cycles)",
+            "value": "$1.2M",
+            "numeric": 1217796,
+            "citation": "fec-candidate-summary"
+          },
+          {
+            "label": "Major donors listed below (≥$1K aggregate)",
+            "value": "19 donors, $3.8M",
+            "numeric": 3755045,
+            "citation": "fec-indiv-by-committee",
+            "note": "Small-dollar donors (<$1K aggregate) appear in the FEC receipts line above but aren't listed individually — they make up 98% of total raised here."
+          },
+          {
+            "label": "Attack spending (IE-oppose against them)",
+            "value": "11 super-PAC edges, $7.8M",
+            "numeric": 7837434,
+            "citation": "fec-pas2",
+            "note": "Money spent by super-PACs running ads AGAINST this politician. Not part of their raise."
+          }
+        ],
+        "top_rows": [
+          {
+            "from": "WARREN FOR SENATE, INC.",
+            "to": "Elizabeth Warren",
+            "amount": 1708531,
+            "cycle": "2020",
+            "role": "direct-contribution",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "Democratic Senatorial Campaign Committee",
+            "to": "Elizabeth Warren",
+            "amount": 605892,
+            "cycle": "2012",
+            "role": "party-coordinated",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "WARREN FOR SENATE, INC.",
+            "to": "Elizabeth Warren",
+            "amount": 426344,
+            "cycle": "2022",
+            "role": "direct-contribution",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "WinSenate",
+            "to": "Elizabeth Warren",
+            "amount": 300000,
+            "cycle": "2012",
+            "role": "ie-support",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "Environment America INC",
+            "to": "Elizabeth Warren",
+            "amount": 163210,
+            "cycle": "2012",
+            "role": "ie-support",
+            "source": "fec-pas2"
+          }
+        ]
+      },
+      "what does Elizabeth Warren fund": {
+        "intent": "recipients_from",
+        "resolved_title": "Elizabeth Warren",
+        "total": 209,
+        "answer": "**Elizabeth Warren** moved **$2.0K** in political spending across **1** recipient edges. (Plus $93M in vendor / operating expenses — law firms, printers, travel, etc. — excluded from the political total.)",
+        "bullets": [
+          "→ Jeanne Shaheen: $2.0K (2020) [fec-pas2]"
+        ],
+        "top_rows": [
+          {
+            "from": "Elizabeth Warren",
+            "to": "Jeanne Shaheen",
+            "amount": 2000,
+            "cycle": "2020",
+            "role": "direct-contribution",
+            "source": "fec-pas2"
+          }
+        ]
+      }
+    },
+    "Ted Cruz": {
+      "tell me about Ted Cruz": {
+        "intent": "summary",
+        "resolved_title": "Ted Cruz",
+        "total": 322,
+        "answer": "**Ted Cruz** — politician. received $6.6M directly from 292 donor edges · plus $21M in outside spending (IE) supporting them — not received by them · $33M spent against them (IE-oppose) across 21 edges",
+        "bullets": [
+          "FEC lifetime receipts: **$176M** across 8 cycles ($149M from individuals)",
+          "Recent cycles — 2020: $14M · 2022: $19M · 2024: $74M · 2026: $8.3M",
+          "Received ~$28M across 292 donors. Top: Truth and Courage PAC $6.6M, Truth and Courage PAC $3.9M, Save Our Country $3.1M. (Plus $33M spent AGAINST them by 21 opposition edges — excluded.)",
+          "Distributed ~$89M across 229 recipients. Top: WESTROGERS LLC $20M, Campaign for Community Change $9.0M, THE LUKENS COMPANY $7.2M",
+          "Via TED CRUZ FOR SENATE: received $3.0M; moved $158M to allies. Support: AX MEDIA LLC $33M, AX MEDIA $16M, THE PROSPER GROUP $11M."
+        ],
+        "breakdown": [
+          {
+            "label": "Total FEC receipts (all cycles)",
+            "value": "$176M",
+            "numeric": 176147244,
+            "citation": "fec-candidate-summary",
+            "note": "The full career raise including sub-$200 small-dollar donors. Source of truth for 'how much did they raise.'"
+          },
+          {
+            "label": "From individuals (all cycles)",
+            "value": "$149M",
+            "numeric": 148551567,
+            "citation": "fec-candidate-summary"
+          },
+          {
+            "label": "From PACs (all cycles)",
+            "value": "$4.8M",
+            "numeric": 4844498,
+            "citation": "fec-candidate-summary"
+          },
+          {
+            "label": "Major donors listed below (≥$1K aggregate)",
+            "value": "239 donors, $28M",
+            "numeric": 27787694,
+            "citation": "fec-indiv-by-committee",
+            "note": "Small-dollar donors (<$1K aggregate) appear in the FEC receipts line above but aren't listed individually — they make up 84% of total raised here."
+          },
+          {
+            "label": "Attack spending (IE-oppose against them)",
+            "value": "21 super-PAC edges, $33M",
+            "numeric": 32559711,
+            "citation": "fec-pas2",
+            "note": "Money spent by super-PACs running ads AGAINST this politician. Not part of their raise."
+          }
+        ],
+        "raise_reconciliation": {
+          "summary_total": 176147244,
+          "summary_total_label": "$176M",
+          "cycles_covered": 8,
+          "cycle_range": "2012–2026",
+          "big_cycles": [
+            {
+              "cycle": "2024",
+              "amount": 74050030.94
+            },
+            {
+              "cycle": "2018",
+              "amount": 35409076.68
+            },
+            {
+              "cycle": "2016",
+              "amount": 6154650,
+              "label": "presidential run"
+            }
+          ],
+          "graph_tracked_direct": 6589131,
+          "graph_tracked_count": 292,
+          "remaining": 169558113,
+          "remaining_pct": 96,
+          "ie_support": 21198563,
+          "ie_oppose": 32559711,
+          "narrative": "Ted Cruz raised $176M lifetime across 8 FEC cycles (2012–2026). The biggest were 2024 ($74M), 2018 ($35M), 2016 ($6.2M — presidential run). The graph traces $6.6M to 292 named donors (≥$1K aggregate); the remaining ~$170M came from sub-$1K donors rolled up in FEC summary totals (standard for small-dollar campaigns) plus joint fundraising committees and transfers. Separately: $21M in outside spending supporting Ted (IE, not received by the campaign); $33M spent against Ted (IE-oppose)."
+        },
+        "top_rows": [
+          {
+            "kind": "top-donor",
+            "from": "Truth and Courage PAC",
+            "to": "Ted Cruz",
+            "amount": 6598631,
+            "cycle": "2030",
+            "source": "fec-api"
+          },
+          {
+            "kind": "top-donor",
+            "from": "Truth and Courage PAC",
+            "to": "Ted Cruz",
+            "amount": 3864728,
+            "cycle": "2024",
+            "source": "fec-pas2"
+          },
+          {
+            "kind": "top-donor",
+            "from": "Save Our Country",
+            "to": "Ted Cruz",
+            "amount": 3100000,
+            "cycle": "2030",
+            "source": "fec-api"
+          },
+          {
+            "kind": "top-donor",
+            "from": "National Republican Senatorial Committee",
+            "to": "Ted Cruz",
+            "amount": 2888301,
+            "cycle": "2024",
+            "source": "fec-bulk"
+          },
+          {
+            "kind": "top-donor",
+            "from": "National Republican Senatorial Committee",
+            "to": "Ted Cruz",
+            "amount": 2835501,
+            "cycle": "2024",
+            "source": "fec-pas2"
+          }
+        ]
+      },
+      "who funds Ted Cruz": {
+        "intent": "donors_to",
+        "resolved_title": "Ted Cruz",
+        "total": 691,
+        "answer": "**Ted Cruz** received **$27M** in tracked support edges from **353** donors/committees (pooled across 2 entities including controlled vehicles). Breakdown: $28M direct; $2.9M via **TED CRUZ FOR SENATE**. (Plus $33M spent AGAINST them by 21 super-PAC opposition edges — excluded from the totals above.) *(FEC candidate-summary total across all cycles: $176M; individual contributions $149M. The figure above shows only donor-level edges in the graph; small-dollar donors below the $10K aggregation floor are reflected in the summary total but not listed individually.)*",
+        "bullets": [
+          "Truth and Courage PAC: $6.6M (2030) [FEC bulk filings, 2030 cycle]",
+          "Truth and Courage PAC: $3.9M (2024) [fec-pas2]",
+          "Save Our Country: $3.1M (2030) [FEC bulk filings, 2030 cycle]",
+          "National Republican Senatorial Committee: $2.9M (2024) [FEC bulk filings, 2024 cycle]",
+          "National Republican Senatorial Committee: $2.8M (2024) [fec-pas2]"
+        ],
+        "breakdown": [
+          {
+            "label": "Total FEC receipts (all cycles)",
+            "value": "$176M",
+            "numeric": 176147244,
+            "citation": "fec-candidate-summary",
+            "note": "The full career raise including sub-$200 small-dollar donors. Source of truth for 'how much did they raise.'"
+          },
+          {
+            "label": "From individuals (all cycles)",
+            "value": "$149M",
+            "numeric": 148551567,
+            "citation": "fec-candidate-summary"
+          },
+          {
+            "label": "From PACs (all cycles)",
+            "value": "$4.8M",
+            "numeric": 4844498,
+            "citation": "fec-candidate-summary"
+          },
+          {
+            "label": "Major donors listed below (≥$1K aggregate)",
+            "value": "299 donors, $31M",
+            "numeric": 30639586,
+            "citation": "fec-indiv-by-committee",
+            "note": "Small-dollar donors (<$1K aggregate) appear in the FEC receipts line above but aren't listed individually — they make up 83% of total raised here."
+          },
+          {
+            "label": "Attack spending (IE-oppose against them)",
+            "value": "21 super-PAC edges, $33M",
+            "numeric": 32559711,
+            "citation": "fec-pas2",
+            "note": "Money spent by super-PACs running ads AGAINST this politician. Not part of their raise."
+          }
+        ],
+        "top_rows": [
+          {
+            "from": "Truth and Courage PAC",
+            "to": "Ted Cruz",
+            "amount": 6598631,
+            "cycle": "2030",
+            "role": "ie-support",
+            "source": "fec-api"
+          },
+          {
+            "from": "Truth and Courage PAC",
+            "to": "Ted Cruz",
+            "amount": 3864728,
+            "cycle": "2024",
+            "role": "ie-support",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "Save Our Country",
+            "to": "Ted Cruz",
+            "amount": 3100000,
+            "cycle": "2030",
+            "role": "ie-support",
+            "source": "fec-api"
+          },
+          {
+            "from": "National Republican Senatorial Committee",
+            "to": "Ted Cruz",
+            "amount": 2888301,
+            "cycle": "2024",
+            "role": "ie-support",
+            "source": "fec-bulk"
+          },
+          {
+            "from": "National Republican Senatorial Committee",
+            "to": "Ted Cruz",
+            "amount": 2835501,
+            "cycle": "2024",
+            "role": "party-coordinated",
+            "source": "fec-pas2"
+          }
+        ]
+      },
+      "what does Ted Cruz fund": {
+        "intent": "recipients_from",
+        "resolved_title": "Ted Cruz",
+        "total": 474,
+        "answer": "**Ted Cruz** moved **$470K** in political spending across **6** recipient edges. (Plus $246M in vendor / operating expenses — law firms, printers, travel, etc. — excluded from the political total.) Vehicle breakdown: **TED CRUZ FOR SENATE** ($470K support).",
+        "bullets": [
+          "→ Ted Cruz (via TED CRUZ FOR SENATE): $250K (2016) [fec-pas2]",
+          "→ Ted Cruz (via TED CRUZ FOR SENATE): $124K (2018) [fec-pas2]",
+          "→ Senate Conservatives Fund (via TED CRUZ FOR SENATE): $88K (2012) [fec-indiv-by-committee]",
+          "→ Donald Trump (via TED CRUZ FOR SENATE): $4.0K (2020) [fec-pas2]",
+          "→ Ron Estes (via TED CRUZ FOR SENATE): $2.0K (2018) [fec-pas2]"
+        ],
+        "top_rows": [
+          {
+            "from": "TED CRUZ FOR SENATE",
+            "to": "Ted Cruz",
+            "amount": 250012,
+            "cycle": "2016",
+            "role": "direct-contribution",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "TED CRUZ FOR SENATE",
+            "to": "Ted Cruz",
+            "amount": 124177,
+            "cycle": "2018",
+            "role": "direct-contribution",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "TED CRUZ FOR SENATE",
+            "to": "Senate Conservatives Fund",
+            "amount": 87809,
+            "cycle": "2012",
+            "role": "direct-contribution",
+            "source": "fec-indiv-by-committee"
+          },
+          {
+            "from": "TED CRUZ FOR SENATE",
+            "to": "Donald Trump",
+            "amount": 4000,
+            "cycle": "2020",
+            "role": "direct-contribution",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "TED CRUZ FOR SENATE",
+            "to": "Ron Estes",
+            "amount": 2000,
+            "cycle": "2018",
+            "role": "direct-contribution",
+            "source": "fec-pas2"
+          }
+        ]
+      }
+    },
+    "Donald Trump": {
+      "tell me about Donald Trump": {
+        "intent": "summary",
+        "resolved_title": "Donald Trump",
+        "total": 2596,
+        "answer": "**Donald Trump** — politician. received $60M directly from 390 donor edges · plus $219M in outside spending (IE) supporting them — not received by them · gave $174K politically · $376M spent against them (IE-oppose) across 83 edges",
+        "bullets": [
+          "FEC lifetime receipts: **$1.17B** across 5 cycles ($620M from individuals)",
+          "Recent cycles — 2018: $68M · 2020: $744M · 2022: $3.8M · 2024: $29K",
+          "Received ~$279M across 390 donors. Top: America PAC - Elon Musk $88M, MAGA Inc $58M, WINRED $37M. (Plus $376M spent AGAINST them by 83 opposition edges — excluded.)",
+          "Distributed ~$800M across 1782 recipients. Top: STRATEGIC MEDIA SERVICES, INC. $270M, GILES-PARSCALE $90M, RED BEACON STRATEGIES, LLC $32M",
+          "Via MAGA Inc: received $863M; moved $91M to allies; spent $236M AGAINST opponents. Support: Donald Trump $58M, Ron DeSantis $23M, Nikki Haley $9.9M. Attacks: Kamala Harris $204M, Joe Biden $6.9M, Joe Biden $6.9M.",
+          "Via Save America PAC: received $11M; moved $2.5M to allies; spent $8.9M AGAINST opponents. Support: Yassamin Ansari $425K, BLUE ACTION INC. $355K, BREAK SOMETHING $338K. Attacks: JD Vance $7.1M, Mitch McConnell $1.9M.",
+          "Via Trump Victory: received $91M; moved $68M to allies. Support: RED CURVE SOLUTIONS $7.8M, American Homes 4 Rent $4.4M, DONALD J. TRUMP REPUBLICAN NOMINEE FUND 2024 $4.2M."
+        ],
+        "breakdown": [
+          {
+            "label": "Total FEC receipts (all cycles)",
+            "value": "$1.17B",
+            "numeric": 1166419385,
+            "citation": "fec-candidate-summary",
+            "note": "The full career raise including sub-$200 small-dollar donors. Source of truth for 'how much did they raise.'"
+          },
+          {
+            "label": "From individuals (all cycles)",
+            "value": "$620M",
+            "numeric": 619690489,
+            "citation": "fec-candidate-summary"
+          },
+          {
+            "label": "From PACs (all cycles)",
+            "value": "$1.0M",
+            "numeric": 1013597,
+            "citation": "fec-candidate-summary"
+          },
+          {
+            "label": "Major donors listed below (≥$1K aggregate)",
+            "value": "367 donors, $279M",
+            "numeric": 279478179,
+            "citation": "fec-indiv-by-committee"
+          },
+          {
+            "label": "Attack spending (IE-oppose against them)",
+            "value": "83 super-PAC edges, $376M",
+            "numeric": 375998683,
+            "citation": "fec-pas2",
+            "note": "Money spent by super-PACs running ads AGAINST this politician. Not part of their raise."
+          }
+        ],
+        "raise_reconciliation": {
+          "summary_total": 1166419385,
+          "summary_total_label": "$1.17B",
+          "cycles_covered": 5,
+          "cycle_range": "2016–2024",
+          "big_cycles": [
+            {
+              "cycle": "2020",
+              "amount": 744350229.26
+            },
+            {
+              "cycle": "2016",
+              "amount": 350668435.7
+            },
+            {
+              "cycle": "2018",
+              "amount": 67548285.1
+            }
+          ],
+          "graph_tracked_direct": 60062650,
+          "graph_tracked_count": 390,
+          "remaining": 1106356735,
+          "remaining_pct": 95,
+          "ie_support": 219415529,
+          "ie_oppose": 375998683,
+          "narrative": "Donald Trump raised $1.17B lifetime across 5 FEC cycles (2016–2024). The biggest were 2020 ($744M), 2016 ($351M), 2018 ($68M). The graph traces $60M to 390 named donors (≥$1K aggregate); the remaining ~$1.11B came from sub-$1K donors rolled up in FEC summary totals (standard for small-dollar campaigns) plus joint fundraising committees and transfers. Separately: $219M in outside spending supporting Donald (IE, not received by the campaign); $376M spent against Donald (IE-oppose)."
+        },
+        "top_rows": [
+          {
+            "kind": "top-donor",
+            "from": "America PAC - Elon Musk",
+            "to": "Donald Trump",
+            "amount": 88218291,
+            "cycle": "2024",
+            "source": "fec-bulk"
+          },
+          {
+            "kind": "top-donor",
+            "from": "MAGA Inc",
+            "to": "Donald Trump",
+            "amount": 57695733,
+            "cycle": "2024",
+            "source": "fec-bulk"
+          },
+          {
+            "kind": "top-donor",
+            "from": "WINRED",
+            "to": "Donald Trump",
+            "amount": 36558030,
+            "cycle": "2020",
+            "source": "fec-indiv-by-committee"
+          },
+          {
+            "kind": "top-donor",
+            "from": "RNC - Republican National Committee",
+            "to": "Donald Trump",
+            "amount": 29255723,
+            "cycle": "2024",
+            "source": "fec-bulk"
+          },
+          {
+            "kind": "top-donor",
+            "from": "Americans for Prosperity",
+            "to": "Donald Trump",
+            "amount": 10052329,
+            "cycle": "2024",
+            "source": "fec-bulk"
+          }
+        ]
+      },
+      "who funds Donald Trump": {
+        "intent": "donors_to",
+        "resolved_title": "Donald Trump",
+        "total": 2579,
+        "answer": "**Donald Trump** received **$879M** in tracked support edges from **2477** donors/committees (pooled across 13 entities including controlled vehicles). Breakdown: $279M direct; $862M via **MAGA Inc**; $91M via **Trump Victory**; $10M via **Save America PAC**. (Plus $376M spent AGAINST them by 83 super-PAC opposition edges — excluded from the totals above.) *(FEC candidate-summary total across all cycles: $1.17B; individual contributions $620M. The figure above shows only donor-level edges in the graph; small-dollar donors below the $10K aggregation floor are reflected in the summary total but not listed individually.)*",
+        "bullets": [
+          "Timothy Mellon → MAGA Inc: $152M (2024) [fec-indiv-by-committee]",
+          "America PAC - Elon Musk: $88M (2024) [FEC bulk filings, 2024 cycle]",
+          "SAVE AMERICA → MAGA Inc: $77M (2024) [fec-indiv-by-committee]",
+          "MAGA Inc: $58M (2024) [FEC bulk filings, 2024 cycle]",
+          "SECURING AMERICAN GREATNESS → MAGA Inc: $53M (2024) [fec-indiv-by-committee]"
+        ],
+        "breakdown": [
+          {
+            "label": "Total FEC receipts (all cycles)",
+            "value": "$1.17B",
+            "numeric": 1166419385,
+            "citation": "fec-candidate-summary",
+            "note": "The full career raise including sub-$200 small-dollar donors. Source of truth for 'how much did they raise.'"
+          },
+          {
+            "label": "From individuals (all cycles)",
+            "value": "$620M",
+            "numeric": 619690489,
+            "citation": "fec-candidate-summary"
+          },
+          {
+            "label": "From PACs (all cycles)",
+            "value": "$1.0M",
+            "numeric": 1013597,
+            "citation": "fec-candidate-summary"
+          },
+          {
+            "label": "Major donors listed below (≥$1K aggregate)",
+            "value": "2,426 donors, $1.24B",
+            "numeric": 1242649814,
+            "citation": "fec-indiv-by-committee"
+          },
+          {
+            "label": "Attack spending (IE-oppose against them)",
+            "value": "83 super-PAC edges, $376M",
+            "numeric": 375998683,
+            "citation": "fec-pas2",
+            "note": "Money spent by super-PACs running ads AGAINST this politician. Not part of their raise."
+          }
+        ],
+        "top_rows": [
+          {
+            "from": "Timothy Mellon",
+            "to": "MAGA Inc",
+            "amount": 151500000,
+            "cycle": "2024",
+            "role": "direct-contribution",
+            "source": "fec-indiv-by-committee"
+          },
+          {
+            "from": "America PAC - Elon Musk",
+            "to": "Donald Trump",
+            "amount": 88218291,
+            "cycle": "2024",
+            "role": "ie-support",
+            "source": "fec-bulk"
+          },
+          {
+            "from": "SAVE AMERICA",
+            "to": "MAGA Inc",
+            "amount": 77250000,
+            "cycle": "2024",
+            "role": "direct-contribution",
+            "source": "fec-indiv-by-committee"
+          },
+          {
+            "from": "MAGA Inc",
+            "to": "Donald Trump",
+            "amount": 57695733,
+            "cycle": "2024",
+            "role": "ie-support",
+            "source": "fec-bulk"
+          },
+          {
+            "from": "SECURING AMERICAN GREATNESS",
+            "to": "MAGA Inc",
+            "amount": 52558283,
+            "cycle": "2024",
+            "role": "direct-contribution",
+            "source": "fec-indiv-by-committee"
+          }
+        ]
+      },
+      "what does Donald Trump fund": {
+        "intent": "recipients_from",
+        "resolved_title": "Donald Trump",
+        "total": 2277,
+        "answer": "**Donald Trump** moved **$337M** in political spending across **136** edges: **$92M** in donations / IE support, plus **$245M** in attack (IE-oppose) spending against 11 politicians. (Plus $870M in vendor / operating expenses — law firms, printers, travel, etc. — excluded from the political total.) Vehicle breakdown: **MAGA Inc** ($91M support, $236M attack); **Save America PAC** ($707K support, $8.9M attack); **Trump Victory** ($105K support).",
+        "bullets": [
+          "AGAINST Kamala Harris (via MAGA Inc): $204M (2024) [FEC bulk filings, 2024 cycle]",
+          "→ Donald Trump (via MAGA Inc): $58M (2024) [FEC bulk filings, 2024 cycle]",
+          "→ Ron DeSantis (via MAGA Inc): $23M (2024) [FEC bulk filings, 2024 cycle]",
+          "→ Nikki Haley (via MAGA Inc): $9.9M (2024) [FEC bulk filings, 2024 cycle]",
+          "AGAINST JD Vance (via Save America PAC): $7.1M (2022) [fec-pas2]"
+        ],
+        "top_rows": [
+          {
+            "from": "MAGA Inc",
+            "to": "Kamala Harris",
+            "amount": 203744984,
+            "cycle": "2024",
+            "role": "ie-oppose",
+            "source": "fec-api"
+          },
+          {
+            "from": "MAGA Inc",
+            "to": "Donald Trump",
+            "amount": 57695733,
+            "cycle": "2024",
+            "role": "ie-support",
+            "source": "fec-bulk"
+          },
+          {
+            "from": "MAGA Inc",
+            "to": "Ron DeSantis",
+            "amount": 23217681,
+            "cycle": "2024",
+            "role": "ie-support",
+            "source": "fec-bulk"
+          },
+          {
+            "from": "MAGA Inc",
+            "to": "Nikki Haley",
+            "amount": 9880863,
+            "cycle": "2024",
+            "role": "ie-support",
+            "source": "fec-bulk"
+          },
+          {
+            "from": "Save America PAC",
+            "to": "JD Vance",
+            "amount": 7055267,
+            "cycle": "2022",
+            "role": "ie-oppose",
+            "source": "fec-pas2"
+          }
+        ]
+      }
+    },
+    "Jamaal Bowman": {
+      "tell me about Jamaal Bowman": {
+        "intent": "summary",
+        "resolved_title": "Jamaal Bowman",
+        "total": 5,
+        "answer": "**Jamaal Bowman** — politician. received $138K directly from 72 donor edges · plus $12M in outside spending (IE) supporting them — not received by them · $9.9M spent against them (IE-oppose) across 1 edge",
+        "bullets": [
+          "FEC lifetime receipts: **$11M** across 4 cycles ($9.8M from individuals)",
+          "Recent cycles — 2020: $2.9M · 2022: $1.9M · 2024: $6.1M · 2026: $4.3K",
+          "Received ~$12M across 72 donors. Top: United Democracy Project - UDP $9.9M, Justice Democrats PAC $620K, Courage to Change PAC $469K. (Plus $9.9M spent AGAINST them by 1 opposition edge — excluded.)"
+        ],
+        "breakdown": [
+          {
+            "label": "Total FEC receipts (all cycles)",
+            "value": "$11M",
+            "numeric": 10849355,
+            "citation": "fec-candidate-summary",
+            "note": "The full career raise including sub-$200 small-dollar donors. Source of truth for 'how much did they raise.'"
+          },
+          {
+            "label": "From individuals (all cycles)",
+            "value": "$9.8M",
+            "numeric": 9840588,
+            "citation": "fec-candidate-summary"
+          },
+          {
+            "label": "From PACs (all cycles)",
+            "value": "$680K",
+            "numeric": 679569,
+            "citation": "fec-candidate-summary"
+          },
+          {
+            "label": "Major donors listed below (≥$1K aggregate)",
+            "value": "37 donors, $12M",
+            "numeric": 12237078,
+            "citation": "fec-indiv-by-committee"
+          },
+          {
+            "label": "Attack spending (IE-oppose against them)",
+            "value": "1 super-PAC edge, $9.9M",
+            "numeric": 9865000,
+            "citation": "fec-pas2",
+            "note": "Money spent by super-PACs running ads AGAINST this politician. Not part of their raise."
+          }
+        ],
+        "raise_reconciliation": {
+          "summary_total": 10849355,
+          "summary_total_label": "$11M",
+          "cycles_covered": 4,
+          "cycle_range": "2020–2026",
+          "big_cycles": [],
+          "graph_tracked_direct": 138051,
+          "graph_tracked_count": 72,
+          "remaining": 10711304,
+          "remaining_pct": 99,
+          "ie_support": 12099027,
+          "ie_oppose": 9865000,
+          "narrative": "Jamaal Bowman raised $11M lifetime across 4 FEC cycles (2020–2026). The graph traces $138K to 72 named donors (≥$1K aggregate); the remaining ~$11M came from sub-$1K donors rolled up in FEC summary totals (standard for small-dollar campaigns) plus joint fundraising committees and transfers. Separately: $12M in outside spending supporting Jamaal (IE, not received by the campaign); $9.9M spent against Jamaal (IE-oppose)."
+        },
+        "top_rows": [
+          {
+            "kind": "top-donor",
+            "from": "United Democracy Project - UDP",
+            "to": "Jamaal Bowman",
+            "amount": 9865477,
+            "cycle": "2024",
+            "source": "fec-bulk"
+          },
+          {
+            "kind": "top-donor",
+            "from": "Justice Democrats PAC",
+            "to": "Jamaal Bowman",
+            "amount": 620000,
+            "cycle": "2020",
+            "source": "fec-pas2"
+          },
+          {
+            "kind": "top-donor",
+            "from": "Courage to Change PAC",
+            "to": "Jamaal Bowman",
+            "amount": 469200,
+            "cycle": "2024",
+            "source": "fec-api"
+          },
+          {
+            "kind": "top-donor",
+            "from": "Working Families Party PAC",
+            "to": "Jamaal Bowman",
+            "amount": 342807,
+            "cycle": "2024",
+            "source": "fec-pas2"
+          },
+          {
+            "kind": "top-donor",
+            "from": "Wfp Ie Committee",
+            "to": "Jamaal Bowman",
+            "amount": 184007,
+            "cycle": "2020",
+            "source": "fec-pas2"
+          }
+        ]
+      },
+      "who funds Jamaal Bowman": {
+        "intent": "donors_to",
+        "resolved_title": "Jamaal Bowman",
+        "total": 102,
+        "answer": "**Jamaal Bowman** received **$12M** in tracked support edges from **72** donors/committees. (Plus $9.9M spent AGAINST them by 1 super-PAC opposition edge — excluded from the totals above.) *(FEC candidate-summary total across all cycles: $11M; individual contributions $9.8M. The figure above shows only donor-level edges in the graph; small-dollar donors below the $10K aggregation floor are reflected in the summary total but not listed individually.)*",
+        "bullets": [
+          "United Democracy Project - UDP: $9.9M (2024) [FEC bulk filings, 2024 cycle]",
+          "Justice Democrats PAC: $620K (2020) [fec-pas2]",
+          "Courage to Change PAC: $469K (2024) [FEC bulk filings, 2024 cycle]",
+          "Working Families Party PAC: $343K (2024) [fec-pas2]",
+          "Wfp Ie Committee: $184K (2020) [fec-pas2]"
+        ],
+        "breakdown": [
+          {
+            "label": "Total FEC receipts (all cycles)",
+            "value": "$11M",
+            "numeric": 10849355,
+            "citation": "fec-candidate-summary",
+            "note": "The full career raise including sub-$200 small-dollar donors. Source of truth for 'how much did they raise.'"
+          },
+          {
+            "label": "From individuals (all cycles)",
+            "value": "$9.8M",
+            "numeric": 9840588,
+            "citation": "fec-candidate-summary"
+          },
+          {
+            "label": "From PACs (all cycles)",
+            "value": "$680K",
+            "numeric": 679569,
+            "citation": "fec-candidate-summary"
+          },
+          {
+            "label": "Major donors listed below (≥$1K aggregate)",
+            "value": "37 donors, $12M",
+            "numeric": 12237078,
+            "citation": "fec-indiv-by-committee"
+          },
+          {
+            "label": "Attack spending (IE-oppose against them)",
+            "value": "1 super-PAC edge, $9.9M",
+            "numeric": 9865000,
+            "citation": "fec-pas2",
+            "note": "Money spent by super-PACs running ads AGAINST this politician. Not part of their raise."
+          }
+        ],
+        "top_rows": [
+          {
+            "from": "United Democracy Project - UDP",
+            "to": "Jamaal Bowman",
+            "amount": 9865477,
+            "cycle": "2024",
+            "role": "ie-support",
+            "source": "fec-bulk"
+          },
+          {
+            "from": "Justice Democrats PAC",
+            "to": "Jamaal Bowman",
+            "amount": 620000,
+            "cycle": "2020",
+            "role": "ie-support",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "Courage to Change PAC",
+            "to": "Jamaal Bowman",
+            "amount": 469200,
+            "cycle": "2024",
+            "role": "ie-support",
+            "source": "fec-api"
+          },
+          {
+            "from": "Working Families Party PAC",
+            "to": "Jamaal Bowman",
+            "amount": 342807,
+            "cycle": "2024",
+            "role": "ie-support",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "Wfp Ie Committee",
+            "to": "Jamaal Bowman",
+            "amount": 184007,
+            "cycle": "2020",
+            "role": "ie-support",
+            "source": "fec-pas2"
+          }
+        ]
+      },
+      "what does Jamaal Bowman fund": {
+        "intent": "recipients_from",
+        "resolved_title": "Jamaal Bowman",
+        "total": 0,
+        "answer": "**Jamaal Bowman** is a politician, not a grant-making organization. Politicians don't \"give\" money in this database — they receive it from donors and spend it through their campaign committee.",
+        "top_rows": []
+      }
+    },
+    "Harlan Crow": {
+      "tell me about Harlan Crow": {
+        "intent": "summary",
+        "resolved_title": "Harlan Crow",
+        "total": 63,
+        "answer": "**Harlan Crow** — donor in Mega-Donors. gave $426K politically · 2 board / affiliation seats",
+        "bullets": [
+          "Chairs/sits on: American Enterprise Institute (BD OF TRUSTEES, 2019–2024), American Enterprise Institute (BD OF TRUSTEES)",
+          "Distributed ~$426K across 7 recipients. Top: FreedomWorks for America $125K, Congressional Leadership Fund $100K, Conservative Solutions PAC $100K",
+          "Via American Enterprise Institute: received $29M; moved $13K to allies. Support: Marco Rubio $4.8K, Darren Soto $2.0K, Ron Johnson $1.5K."
+        ],
+        "breakdown": [
+          {
+            "label": "Tracked inflows",
+            "value": "0 donors, $0",
+            "numeric": 0,
+            "citation": "fec-indiv-by-committee"
+          }
+        ],
+        "raise_reconciliation": null,
+        "top_rows": [
+          {
+            "kind": "top-recipient",
+            "from": "Harlan Crow",
+            "to": "FreedomWorks for America",
+            "amount": 125000,
+            "cycle": "2020",
+            "source": "fec-indiv-by-committee"
+          },
+          {
+            "kind": "top-recipient",
+            "from": "Harlan Crow",
+            "to": "Congressional Leadership Fund",
+            "amount": 100000,
+            "cycle": "2022",
+            "source": "fec-indiv-by-committee"
+          },
+          {
+            "kind": "top-recipient",
+            "from": "Harlan Crow",
+            "to": "Conservative Solutions PAC",
+            "amount": 100000,
+            "cycle": "2016",
+            "source": "fec-indiv-by-committee"
+          },
+          {
+            "kind": "top-recipient",
+            "from": "Harlan Crow",
+            "to": "National Republican Senatorial Committee",
+            "amount": 35500,
+            "cycle": "2020",
+            "source": "fec-indiv-by-committee"
+          },
+          {
+            "kind": "top-recipient",
+            "from": "Harlan Crow",
+            "to": "Americans for Prosperity",
+            "amount": 25000,
+            "cycle": "2020",
+            "source": "fec-indiv-by-committee"
+          }
+        ]
+      },
+      "who funds Harlan Crow": {
+        "intent": "donors_to",
+        "resolved_title": "Harlan Crow",
+        "total": 0,
+        "answer": "**Harlan Crow** has no tracked donor inflows in the vault yet. This is an organization, not a politician — donor data may only appear here once someone gives it IRS 990 grants, PAC contributions, or recorded lobbying transfers.",
+        "bullets": [],
+        "breakdown": [
+          {
+            "label": "Tracked inflows",
+            "value": "0 donors, $0",
+            "numeric": 0,
+            "citation": "fec-indiv-by-committee"
+          }
+        ],
+        "top_rows": []
+      },
+      "what does Harlan Crow fund": {
+        "intent": "recipients_from",
+        "resolved_title": "Harlan Crow",
+        "total": 7,
+        "answer": "**Harlan Crow** moved **$426K** in political spending across **7** recipient edges.",
+        "bullets": [
+          "→ FreedomWorks for America: $125K (2020) [fec-indiv-by-committee]",
+          "→ Congressional Leadership Fund: $100K (2022) [fec-indiv-by-committee]",
+          "→ Conservative Solutions PAC: $100K (2016) [fec-indiv-by-committee]",
+          "→ National Republican Senatorial Committee: $36K (2020) [fec-indiv-by-committee]",
+          "→ Americans for Prosperity: $25K (2020) [fec-indiv-by-committee]"
+        ],
+        "top_rows": [
+          {
+            "from": "Harlan Crow",
+            "to": "FreedomWorks for America",
+            "amount": 125000,
+            "cycle": "2020",
+            "role": "direct-contribution",
+            "source": "fec-indiv-by-committee"
+          },
+          {
+            "from": "Harlan Crow",
+            "to": "Congressional Leadership Fund",
+            "amount": 100000,
+            "cycle": "2022",
+            "role": "direct-contribution",
+            "source": "fec-indiv-by-committee"
+          },
+          {
+            "from": "Harlan Crow",
+            "to": "Conservative Solutions PAC",
+            "amount": 100000,
+            "cycle": "2016",
+            "role": "direct-contribution",
+            "source": "fec-indiv-by-committee"
+          },
+          {
+            "from": "Harlan Crow",
+            "to": "National Republican Senatorial Committee",
+            "amount": 35500,
+            "cycle": "2020",
+            "role": "direct-contribution",
+            "source": "fec-indiv-by-committee"
+          },
+          {
+            "from": "Harlan Crow",
+            "to": "Americans for Prosperity",
+            "amount": 25000,
+            "cycle": "2020",
+            "role": "direct-contribution",
+            "source": "fec-indiv-by-committee"
+          }
+        ]
+      }
+    },
+    "Leonard Leo": {
+      "tell me about Leonard Leo": {
+        "intent": "summary",
+        "resolved_title": "Leonard Leo",
+        "total": 64,
+        "answer": "**Leonard Leo** — donor in Dark Money. gave $12K politically · 4 board / affiliation seats",
+        "plain_english": "**In plain English:** Leonard Leo is a dark-money vehicle — a nonprofit that can legally accept unlimited donations and is not required to publicly disclose who gave. On the books: received $0 from 0 donors, distributed $12K to 1 recipient. The named donors in the list below are the ones the IRS forced into the open through Schedule I grant disclosures by *other* nonprofits. The rest of the money arrived anonymously by design.",
+        "bullets": [
+          "Chairs/sits on: Rule of Law Trust (Trustee, 2020–2024), Marble Freedom Trust (Trustee and Chairman, 2021–2021), Marble Freedom Trust (Trustee and Chairman), Rule of Law Trust (Trustee)",
+          "Distributed ~$12K across 1 recipients. Top: WinRed $12K",
+          "Via Marble Freedom Trust: moved $995M to allies. Support: Schwab Charitable Fund $158M, Schwab Charitable Fund $154M, Schwab Charitable Fund $154M.",
+          "Via The 85 Fund: received $556M; moved $202M to allies. Support: Donors Trust $92M, Donors Trust $92M, Donors Trust $12M.",
+          "Via Judicial Crisis Network: received $216M; moved $14M to allies. Support: One Nation $9.0M, One Nation $3.0M, American Future Fund $1.0M.",
+          "Via Rule of Law Trust: received $153M; moved $80M to allies. Support: Schwab Charitable Fund $24M, Judicial Crisis Network $22M, Schwab Charitable Fund $14M.",
+          "Class tags: ideological_function:dark-money-networked"
+        ],
+        "breakdown": [
+          {
+            "label": "Donors (publicly disclosed)",
+            "value": "Not required — 501(c)(4) social-welfare nonprofit",
+            "legal_shield": true,
+            "note": "US tax law doesn't require 501(c)(4) organizations to disclose who funds them. When you see '0 donors' elsewhere on the site for this entity, that's the law at work, not missing data. Known gifts may be public via news reporting."
+          },
+          {
+            "label": "Tracked outflows (grants out)",
+            "value": "1 recipients, $12K",
+            "numeric": 11600,
+            "citation": "irs-990"
+          },
+          {
+            "label": "Top recipient",
+            "value": "WinRed ($12K)",
+            "numeric": 11600
+          }
+        ],
+        "raise_reconciliation": null,
+        "top_rows": [
+          {
+            "kind": "class-tag"
+          },
+          {
+            "kind": "top-recipient",
+            "from": "Leonard Leo",
+            "to": "WinRed",
+            "amount": 11600,
+            "cycle": "2022",
+            "source": "fec-indiv-by-committee"
+          },
+          {
+            "kind": "board-seat",
+            "from": "Leonard Leo",
+            "to": "Rule of Law Trust",
+            "role": "Trustee",
+            "source": "irs-990-bulk"
+          },
+          {
+            "kind": "board-seat",
+            "from": "Leonard Leo",
+            "to": "Marble Freedom Trust",
+            "role": "Trustee and Chairman",
+            "source": "irs-990-bulk"
+          },
+          {
+            "kind": "board-seat",
+            "from": "Leonard Leo",
+            "to": "Marble Freedom Trust",
+            "role": "Trustee and Chairman",
+            "source": "irs-990-officer-registry"
+          }
+        ]
+      },
+      "who funds Leonard Leo": {
+        "intent": "donors_to",
+        "resolved_title": "Leonard Leo",
+        "total": 22,
+        "answer": "**Leonard Leo** is a 501(c)(4) dark-money vehicle. By law it isn't required to publicly disclose its donors, so we can't show a tracked inflow list. What we can show: where its money goes (grants out), which is the other half of the story.",
+        "bullets": [],
+        "breakdown": [
+          {
+            "label": "Donors (publicly disclosed)",
+            "value": "Not required — 501(c)(4) social-welfare nonprofit",
+            "legal_shield": true,
+            "note": "US tax law doesn't require 501(c)(4) organizations to disclose who funds them. When you see '0 donors' elsewhere on the site for this entity, that's the law at work, not missing data. Known gifts may be public via news reporting."
+          },
+          {
+            "label": "Tracked outflows (grants out)",
+            "value": "1 recipients, $12K",
+            "numeric": 11600,
+            "citation": "irs-990"
+          },
+          {
+            "label": "Top recipient",
+            "value": "WinRed ($12K)",
+            "numeric": 11600
+          }
+        ],
+        "top_rows": []
+      },
+      "what does Leonard Leo fund": {
+        "intent": "recipients_from",
+        "resolved_title": "Leonard Leo",
+        "total": 37,
+        "answer": "**Leonard Leo** moved **$12K** in political spending across **1** recipient edges.",
+        "bullets": [
+          "→ WinRed: $12K (2022) [fec-indiv-by-committee]"
+        ],
+        "top_rows": [
+          {
+            "from": "Leonard Leo",
+            "to": "WinRed",
+            "amount": 11600,
+            "cycle": "2022",
+            "role": "direct-contribution",
+            "source": "fec-indiv-by-committee"
+          }
+        ]
+      }
+    },
+    "Koch Network - Charles Koch": {
+      "tell me about Koch Network - Charles Koch": {
+        "intent": "summary",
+        "resolved_title": "Koch Network - Charles Koch",
+        "total": 7,
+        "answer": "**Koch Network - Charles Koch** — donor in Mega-Donors. gave $21K politically",
+        "plain_english": "**In plain English:** Koch Network - Charles Koch is a dark-money vehicle — a nonprofit that can legally accept unlimited donations and is not required to publicly disclose who gave. On the books: received $0 from 0 donors, distributed $21K to 9 recipients. The named donors in the list below are the ones the IRS forced into the open through Schedule I grant disclosures by *other* nonprofits. The rest of the money arrived anonymously by design.",
+        "bullets": [
+          "Distributed ~$21K across 9 recipients. Top: Jeff Crank $6.6K, Tom Barrett $6.6K, Tom Barrett $5.8K",
+          "Class tags: ideological_function:libertarian-ideology, ideological_function:dark-money-networked"
+        ],
+        "breakdown": [
+          {
+            "label": "Tracked inflows",
+            "value": "0 donors, $0",
+            "numeric": 0,
+            "citation": "fec-indiv-by-committee"
+          }
+        ],
+        "raise_reconciliation": null,
+        "top_rows": [
+          {
+            "kind": "class-tag"
+          },
+          {
+            "kind": "class-tag"
+          },
+          {
+            "kind": "top-recipient",
+            "from": "Koch Network - Charles Koch",
+            "to": "Jeff Crank",
+            "amount": 6621,
+            "cycle": "2024",
+            "source": "fec-individual-bulk"
+          },
+          {
+            "kind": "top-recipient",
+            "from": "Koch Network - Charles Koch",
+            "to": "Tom Barrett",
+            "amount": 6600,
+            "cycle": "2024",
+            "source": "fec-individual-bulk"
+          },
+          {
+            "kind": "top-recipient",
+            "from": "Koch Network - Charles Koch",
+            "to": "Tom Barrett",
+            "amount": 5800,
+            "cycle": "2022",
+            "source": "fec-individual-bulk"
+          }
+        ]
+      },
+      "who funds Koch Network - Charles Koch": {
+        "intent": "donors_to",
+        "resolved_title": "Koch Network - Charles Koch",
+        "total": 0,
+        "answer": "**Koch Network - Charles Koch** has no tracked donor inflows in the vault yet. This is an organization, not a politician — donor data may only appear here once someone gives it IRS 990 grants, PAC contributions, or recorded lobbying transfers.",
+        "bullets": [],
+        "breakdown": [
+          {
+            "label": "Tracked inflows",
+            "value": "0 donors, $0",
+            "numeric": 0,
+            "citation": "fec-indiv-by-committee"
+          }
+        ],
+        "top_rows": []
+      },
+      "what does Koch Network - Charles Koch fund": {
+        "intent": "recipients_from",
+        "resolved_title": "Koch Network - Charles Koch",
+        "total": 9,
+        "answer": "**Koch Network - Charles Koch** has 9 outgoing edges but no dollar amounts attached.",
+        "bullets": [],
+        "top_rows": []
+      }
+    },
+    "American Crossroads": {
+      "tell me about American Crossroads": {
+        "intent": "summary",
+        "resolved_title": "American Crossroads",
+        "total": 10,
+        "answer": "**American Crossroads** — donor in Political Committees. received $331M directly from 552 donor edges · gave $347M politically (plus $27M in IE-support ads)",
+        "bullets": [
+          "Received ~$331M across 552 donors. Top: SENATE LEADERSHIP FUND $77M, SENATE LEADERSHIP FUND $69M, Harold C. Simmons $21M.",
+          "Distributed ~$403M across 228 recipients. Top: Barack Obama $85M, Raphael Warnock $78M, Sherrod Brown $58M"
+        ],
+        "breakdown": [
+          {
+            "label": "Tracked inflows",
+            "value": "546 donors, $331M",
+            "numeric": 330889892,
+            "citation": "fec-indiv-by-committee"
+          }
+        ],
+        "raise_reconciliation": null,
+        "top_rows": [
+          {
+            "kind": "top-donor",
+            "from": "SENATE LEADERSHIP FUND",
+            "to": "American Crossroads",
+            "amount": 77040040,
+            "cycle": "2020",
+            "source": "fec-indiv-by-committee"
+          },
+          {
+            "kind": "top-donor",
+            "from": "SENATE LEADERSHIP FUND",
+            "to": "American Crossroads",
+            "amount": 69095000,
+            "cycle": "2024",
+            "source": "fec-indiv-by-committee"
+          },
+          {
+            "kind": "top-donor",
+            "from": "Harold C. Simmons",
+            "to": "American Crossroads",
+            "amount": 20500000,
+            "cycle": "2012",
+            "source": "fec-indiv-by-committee"
+          },
+          {
+            "kind": "top-donor",
+            "from": "Bob J. Perry",
+            "to": "American Crossroads",
+            "amount": 15500000,
+            "cycle": "2012",
+            "source": "fec-indiv-by-committee"
+          },
+          {
+            "kind": "top-donor",
+            "from": "Miriam Adelson",
+            "to": "American Crossroads",
+            "amount": 11500000,
+            "cycle": "2012",
+            "source": "fec-indiv-by-committee"
+          }
+        ]
+      },
+      "who funds American Crossroads": {
+        "intent": "donors_to",
+        "resolved_title": "American Crossroads",
+        "total": 582,
+        "answer": "**American Crossroads** received **$286M** in tracked support edges from **552** donors/committees.",
+        "bullets": [
+          "SENATE LEADERSHIP FUND: $77M (2020) [fec-indiv-by-committee]",
+          "SENATE LEADERSHIP FUND: $69M (2024) [fec-indiv-by-committee]",
+          "Harold C. Simmons: $21M (2012) [fec-indiv-by-committee]",
+          "Bob J. Perry: $16M (2012) [fec-indiv-by-committee]",
+          "Miriam Adelson: $12M (2012) [fec-indiv-by-committee]"
+        ],
+        "breakdown": [
+          {
+            "label": "Tracked inflows",
+            "value": "546 donors, $331M",
+            "numeric": 330889892,
+            "citation": "fec-indiv-by-committee"
+          }
+        ],
+        "top_rows": [
+          {
+            "from": "SENATE LEADERSHIP FUND",
+            "to": "American Crossroads",
+            "amount": 77040040,
+            "cycle": "2020",
+            "role": "direct-contribution",
+            "source": "fec-indiv-by-committee"
+          },
+          {
+            "from": "SENATE LEADERSHIP FUND",
+            "to": "American Crossroads",
+            "amount": 69095000,
+            "cycle": "2024",
+            "role": "direct-contribution",
+            "source": "fec-indiv-by-committee"
+          },
+          {
+            "from": "Harold C. Simmons",
+            "to": "American Crossroads",
+            "amount": 20500000,
+            "cycle": "2012",
+            "role": "direct-contribution",
+            "source": "fec-indiv-by-committee"
+          },
+          {
+            "from": "Bob J. Perry",
+            "to": "American Crossroads",
+            "amount": 15500000,
+            "cycle": "2012",
+            "role": "direct-contribution",
+            "source": "fec-indiv-by-committee"
+          },
+          {
+            "from": "Miriam Adelson",
+            "to": "American Crossroads",
+            "amount": 11500000,
+            "cycle": "2012",
+            "role": "direct-contribution",
+            "source": "fec-indiv-by-committee"
+          }
+        ]
+      },
+      "what does American Crossroads fund": {
+        "intent": "recipients_from",
+        "resolved_title": "American Crossroads",
+        "total": 228,
+        "answer": "**American Crossroads** moved **$372M** in political spending across **39** edges: **$27M** in donations / IE support, plus **$345M** in attack (IE-oppose) spending against 26 politicians.",
+        "bullets": [
+          "AGAINST Barack Obama: $85M (2012) [fec-pas2]",
+          "AGAINST Raphael Warnock: $78M (2028) [FEC bulk filings, 2028 cycle]",
+          "AGAINST Sherrod Brown: $58M (2026) [FEC bulk filings, 2026 cycle]",
+          "AGAINST Raphael Warnock: $46M (2020) [fec-pas2]",
+          "AGAINST Sherrod Brown: $31M (2024) [fec-pas2]"
+        ],
+        "top_rows": [
+          {
+            "from": "American Crossroads",
+            "to": "Barack Obama",
+            "amount": 84548559,
+            "cycle": "2012",
+            "role": "ie-oppose",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "American Crossroads",
+            "to": "Raphael Warnock",
+            "amount": 77735210,
+            "cycle": "2028",
+            "role": "ie-oppose",
+            "source": "fec-api"
+          },
+          {
+            "from": "American Crossroads",
+            "to": "Sherrod Brown",
+            "amount": 58125688,
+            "cycle": "2026",
+            "role": "ie-oppose",
+            "source": "fec-api"
+          },
+          {
+            "from": "American Crossroads",
+            "to": "Raphael Warnock",
+            "amount": 46005752,
+            "cycle": "2020",
+            "role": "ie-oppose",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "American Crossroads",
+            "to": "Sherrod Brown",
+            "amount": 31103331,
+            "cycle": "2024",
+            "role": "ie-oppose",
+            "source": "fec-pas2"
+          }
+        ]
+      }
+    },
+    "Google": {
+      "tell me about Google": {
+        "intent": "summary",
+        "resolved_title": "Google - Alphabet",
+        "total": 7,
+        "answer": "**Google - Alphabet** — corporation in Tech & Crypto. received $20K directly from 1 donor edge · gave $9.3M politically",
+        "bullets": [
+          "Received ~$20K across 1 donors. Top: Hal R. Varian $20K.",
+          "Distributed ~$9.3M across 2087 recipients. Top: Jon Ossoff $862K, Mark Kelly $227K, Josh Harder $114K",
+          "Class tags: capital_type:tech-monopoly"
+        ],
+        "breakdown": [
+          {
+            "label": "Tracked inflows",
+            "value": "1 donors, $20K",
+            "numeric": 20000,
+            "citation": "fec-indiv-by-committee"
+          }
+        ],
+        "raise_reconciliation": null,
+        "top_rows": [
+          {
+            "kind": "class-tag"
+          },
+          {
+            "kind": "top-donor",
+            "from": "Hal R. Varian",
+            "to": "Google - Alphabet",
+            "amount": 20000,
+            "cycle": "2018",
+            "source": "fec-indiv-by-committee"
+          },
+          {
+            "kind": "top-recipient",
+            "from": "Google - Alphabet",
+            "to": "Jon Ossoff",
+            "amount": 862196,
+            "cycle": "2020",
+            "source": "fec-individual-bulk"
+          },
+          {
+            "kind": "top-recipient",
+            "from": "Google - Alphabet",
+            "to": "Mark Kelly",
+            "amount": 226726,
+            "cycle": "2020",
+            "source": "fec-individual-bulk"
+          },
+          {
+            "kind": "top-recipient",
+            "from": "Google - Alphabet",
+            "to": "Josh Harder",
+            "amount": 113602,
+            "cycle": "2018",
+            "source": "fec-individual-bulk"
+          }
+        ]
+      },
+      "who funds Google": {
+        "intent": "donors_to",
+        "resolved_title": "Google - Alphabet",
+        "total": 65,
+        "answer": "**Google - Alphabet** received **$20K** in tracked support edges from **1** donors/committees.",
+        "bullets": [
+          "Hal R. Varian: $20K (2018) [fec-indiv-by-committee]"
+        ],
+        "breakdown": [
+          {
+            "label": "Tracked inflows",
+            "value": "1 donors, $20K",
+            "numeric": 20000,
+            "citation": "fec-indiv-by-committee"
+          }
+        ],
+        "top_rows": [
+          {
+            "from": "Hal R. Varian",
+            "to": "Google - Alphabet",
+            "amount": 20000,
+            "cycle": "2018",
+            "role": "direct-contribution",
+            "source": "fec-indiv-by-committee"
+          }
+        ]
+      },
+      "what does Google fund": {
+        "intent": "recipients_from",
+        "resolved_title": "Google - Alphabet",
+        "total": 2000,
+        "answer": "**Google - Alphabet** moved **$5.0M** in political spending across **1392** recipient edges.",
+        "bullets": [
+          "→ Todd Young: $20K (2022) [fec-pas2]",
+          "→ Jason Smith: $20K (2026) [fec-pas2]",
+          "→ Cory Booker: $13K (2014) [fec-pas2]",
+          "→ Elise Stefanik: $13K (2020) [fec-pas2]",
+          "→ Jason Smith: $13K (2024) [fec-pas2]"
+        ],
+        "top_rows": [
+          {
+            "from": "Google - Alphabet",
+            "to": "Todd Young",
+            "amount": 20000,
+            "cycle": "2022",
+            "role": "direct-contribution",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "Google - Alphabet",
+            "to": "Jason Smith",
+            "amount": 20000,
+            "cycle": "2026",
+            "role": "direct-contribution",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "Google - Alphabet",
+            "to": "Cory Booker",
+            "amount": 12500,
+            "cycle": "2014",
+            "role": "direct-contribution",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "Google - Alphabet",
+            "to": "Elise Stefanik",
+            "amount": 12500,
+            "cycle": "2020",
+            "role": "direct-contribution",
+            "source": "fec-pas2"
+          },
+          {
+            "from": "Google - Alphabet",
+            "to": "Jason Smith",
+            "amount": 12500,
+            "cycle": "2024",
+            "role": "direct-contribution",
+            "source": "fec-pas2"
+          }
+        ]
+      }
+    },
+    "American Enterprise Institute": {
+      "tell me about American Enterprise Institute": {
+        "intent": "summary",
+        "resolved_title": "American Enterprise Institute",
+        "total": 18,
+        "answer": "**American Enterprise Institute** — donor in Dark Money. gave $13K politically · 10 tracked officers",
+        "plain_english": "**In plain English:** American Enterprise Institute is a dark-money vehicle — a nonprofit that can legally accept unlimited donations and is not required to publicly disclose who gave. On the books: received $0 from 0 donors, distributed $13K to 11 recipients. The named donors in the list below are the ones the IRS forced into the open through Schedule I grant disclosures by *other* nonprofits. The rest of the money arrived anonymously by design.",
+        "bullets": [
+          "Distributed ~$13K across 11 recipients. Top: Marco Rubio $4.8K, Darren Soto $2.0K, Ron Johnson $1.5K",
+          "Class tags: capital_type:dark-money-vehicle, ideological_function:libertarian-ideology, ideological_function:dark-money-networked"
+        ],
+        "breakdown": [
+          {
+            "label": "Donors (publicly disclosed)",
+            "value": "Not required — 501(c)(4) social-welfare nonprofit",
+            "legal_shield": true,
+            "note": "US tax law doesn't require 501(c)(4) organizations to disclose who funds them. When you see '0 donors' elsewhere on the site for this entity, that's the law at work, not missing data. Known gifts may be public via news reporting."
+          },
+          {
+            "label": "Tracked outflows (grants out)",
+            "value": "8 recipients, $13K",
+            "numeric": 12750,
+            "citation": "irs-990"
+          },
+          {
+            "label": "Top recipient",
+            "value": "Marco Rubio ($4.8K)",
+            "numeric": 4760
+          }
+        ],
+        "raise_reconciliation": null,
+        "top_rows": [
+          {
+            "kind": "class-tag"
+          },
+          {
+            "kind": "class-tag"
+          },
+          {
+            "kind": "class-tag"
+          },
+          {
+            "kind": "top-recipient",
+            "from": "American Enterprise Institute",
+            "to": "Marco Rubio",
+            "amount": 4760,
+            "cycle": "2016",
+            "source": "fec-individual-bulk"
+          },
+          {
+            "kind": "top-recipient",
+            "from": "American Enterprise Institute",
+            "to": "Darren Soto",
+            "amount": 2000,
+            "cycle": "2022",
+            "source": "fec-individual-bulk"
+          }
+        ]
+      },
+      "who funds American Enterprise Institute": {
+        "intent": "donors_to",
+        "resolved_title": "American Enterprise Institute",
+        "total": 45,
+        "answer": "**American Enterprise Institute** is a 501(c)(4) dark-money vehicle. By law it isn't required to publicly disclose its donors, so we can't show a tracked inflow list. What we can show: where its money goes (grants out), which is the other half of the story.",
+        "bullets": [],
+        "breakdown": [
+          {
+            "label": "Donors (publicly disclosed)",
+            "value": "Not required — 501(c)(4) social-welfare nonprofit",
+            "legal_shield": true,
+            "note": "US tax law doesn't require 501(c)(4) organizations to disclose who funds them. When you see '0 donors' elsewhere on the site for this entity, that's the law at work, not missing data. Known gifts may be public via news reporting."
+          },
+          {
+            "label": "Tracked outflows (grants out)",
+            "value": "8 recipients, $13K",
+            "numeric": 12750,
+            "citation": "irs-990"
+          },
+          {
+            "label": "Top recipient",
+            "value": "Marco Rubio ($4.8K)",
+            "numeric": 4760
+          }
+        ],
+        "top_rows": []
+      },
+      "what does American Enterprise Institute fund": {
+        "intent": "recipients_from",
+        "resolved_title": "American Enterprise Institute",
+        "total": 11,
+        "answer": "**American Enterprise Institute** has 11 outgoing edges but no dollar amounts attached.",
+        "bullets": [],
+        "top_rows": []
+      }
+    },
+    "Rule of Law Trust": {
+      "tell me about Rule of Law Trust": {
+        "intent": "summary",
+        "resolved_title": "Rule of Law Trust",
+        "total": 8,
+        "answer": "**Rule of Law Trust** — donor. gave $80M politically · 3 tracked officers",
+        "bullets": [
+          "Distributed ~$80M across 6 recipients. Top: Schwab Charitable Fund $24M, Judicial Crisis Network $22M, Schwab Charitable Fund $14M"
+        ],
+        "breakdown": [
+          {
+            "label": "Donors (publicly disclosed)",
+            "value": "Not required — 501(c)(4) social-welfare nonprofit",
+            "legal_shield": true,
+            "note": "US tax law doesn't require 501(c)(4) organizations to disclose who funds them. When you see '0 donors' elsewhere on the site for this entity, that's the law at work, not missing data. Known gifts may be public via news reporting."
+          },
+          {
+            "label": "Tracked outflows (grants out)",
+            "value": "4 recipients, $80M",
+            "numeric": 80043800,
+            "citation": "irs-990"
+          },
+          {
+            "label": "Top recipient",
+            "value": "Schwab Charitable Fund ($24M)",
+            "numeric": 24000000
+          }
+        ],
+        "raise_reconciliation": null,
+        "top_rows": [
+          {
+            "kind": "top-recipient",
+            "from": "Rule of Law Trust",
+            "to": "Schwab Charitable Fund",
+            "amount": 24000000,
+            "cycle": "2023",
+            "source": "irs-990-bulk"
+          },
+          {
+            "kind": "top-recipient",
+            "from": "Rule of Law Trust",
+            "to": "Judicial Crisis Network",
+            "amount": 21500000,
+            "cycle": "2020",
+            "source": "irs-990-bulk"
+          },
+          {
+            "kind": "top-recipient",
+            "from": "Rule of Law Trust",
+            "to": "Schwab Charitable Fund",
+            "amount": 13750000,
+            "cycle": "2024",
+            "source": "irs-990-bulk"
+          },
+          {
+            "kind": "top-recipient",
+            "from": "Rule of Law Trust",
+            "to": "Fidelity Investments",
+            "amount": 9000000,
+            "cycle": "2020",
+            "source": "irs-990-bulk"
+          },
+          {
+            "kind": "top-recipient",
+            "from": "Rule of Law Trust",
+            "to": "Schwab Charitable Fund",
+            "amount": 6000000,
+            "cycle": "2022",
+            "source": "irs-990-bulk"
+          }
+        ]
+      },
+      "who funds Rule of Law Trust": {
+        "intent": "donors_to",
+        "resolved_title": "Rule of Law Trust",
+        "total": 2,
+        "answer": "**Rule of Law Trust** has no tracked donor inflows in the vault yet. This is an organization, not a politician — donor data may only appear here once someone gives it IRS 990 grants, PAC contributions, or recorded lobbying transfers.",
+        "bullets": [],
+        "breakdown": [
+          {
+            "label": "Donors (publicly disclosed)",
+            "value": "Not required — 501(c)(4) social-welfare nonprofit",
+            "legal_shield": true,
+            "note": "US tax law doesn't require 501(c)(4) organizations to disclose who funds them. When you see '0 donors' elsewhere on the site for this entity, that's the law at work, not missing data. Known gifts may be public via news reporting."
+          },
+          {
+            "label": "Tracked outflows (grants out)",
+            "value": "4 recipients, $80M",
+            "numeric": 80043800,
+            "citation": "irs-990"
+          },
+          {
+            "label": "Top recipient",
+            "value": "Schwab Charitable Fund ($24M)",
+            "numeric": 24000000
+          }
+        ],
+        "top_rows": []
+      },
+      "what does Rule of Law Trust fund": {
+        "intent": "recipients_from",
+        "resolved_title": "Rule of Law Trust",
+        "total": 6,
+        "answer": "**Rule of Law Trust** has 6 outgoing edges but no dollar amounts attached.",
+        "bullets": [],
+        "top_rows": []
+      }
+    }
+  }
+}

@@ -95,6 +95,12 @@ interface AskResult {
   // Compare intent: side-by-side breakdowns, one per entity.
   breakdown_a?: BreakdownRow[]
   breakdown_b?: BreakdownRow[]
+  // Raise reconciliation: reconciles the FEC candidate-summary lifetime
+  // total with the graph-tracked named-donor figure, naming the gap
+  // (sub-$1K small-dollar donors + joint-fundraising transfers) so
+  // readers stop asking "why is $6.2M in, $465M out?". Politicians
+  // only; null for donors / 501(c)(4)s / corps.
+  raise_reconciliation?: RaiseReconciliation | null
 }
 
 interface BreakdownRow {
@@ -104,6 +110,25 @@ interface BreakdownRow {
   citation?: string               // "fec-candidate-summary", "irs-990", "news reporting"
   note?: string                   // disambiguation text shown below the row
   legal_shield?: boolean          // flag for the "by design, not missing data" rows
+}
+
+interface RaiseReconciliation {
+  summary_total: number           // fec_receipts_lifetime
+  summary_total_label: string     // "$550M"
+  cycles_covered: number
+  cycle_range: string             // "1988–2026"
+  big_cycles: Array<{             // cycles >= $50M (usually presidential)
+    cycle: string
+    amount: number
+    label?: string                // "presidential run" / "Senate race" when fec_candidate_history matches
+  }>
+  graph_tracked_direct: number    // sum of direct-contribution edges the classifier counted
+  graph_tracked_count: number
+  remaining: number               // summary_total - graph_tracked_direct
+  remaining_pct: number
+  ie_support: number              // spent FOR, not received — surfaced as separate line
+  ie_oppose: number
+  narrative: string               // full prose paragraph for display
 }
 
 const REPO_ROOT = path.resolve(process.cwd(), "..")
@@ -2255,6 +2280,20 @@ async function handleSummary(c: ClassifiedQuestion, question: string, engine: an
     ieOpposeOut: (outflows.rows || []).filter((e: any) => e.role === "ie-oppose"),
   }, breakdownDirection)
 
+  // Raise reconciliation: close the "$6.2M in / $465M out, how?"
+  // credibility gap by surfacing FEC candidate-summary lifetime total
+  // + naming the graph-tracked vs small-dollar split. Politicians only;
+  // null for non-politician entities (donors / 501(c)(4)s / PACs whose
+  // scope is different).
+  const raise_reconciliation = buildRaiseReconciliation({
+    name,
+    ent,
+    directInTotal$,
+    inflowsCount: inflows.total,
+    ieSupportInTotal$,
+    oppoTotal,
+  })
+
   return {
     question,
     intent: "summary",
@@ -2265,11 +2304,131 @@ async function handleSummary(c: ClassifiedQuestion, question: string, engine: an
     answer,
     bullets,
     breakdown,
+    raise_reconciliation,
     context,
     plain_english,
     is_this_legal,
     why_matters,
     summary: `${inflows.total} inbound, ${outflows.total} outbound, ${affiliations_from.total + affiliations_to.total} affiliations${viaOrgs.length > 0 ? ", " + viaOrgs.length + " via-org flows" : ""}.`,
+  }
+}
+
+// ─── Raise reconciliation builder ────────────────────────────────────
+// For politicians, reconciles the FEC candidate-summary lifetime total
+// (source of truth for "how much did they raise") with the graph-
+// tracked direct-contribution figure (named donors ≥$1K aggregate),
+// plus IE support/oppose as separate lines. Output is a structured
+// object + a prose paragraph. Consumers render the paragraph as its
+// own card between plain-English and breakdown.
+function buildRaiseReconciliation(opts: {
+  name: string
+  ent: any
+  directInTotal$: number
+  inflowsCount: number
+  ieSupportInTotal$: number
+  oppoTotal: number
+}): RaiseReconciliation | null {
+  const sig = opts.ent?.signals || {}
+  const lifetime = typeof sig.fec_receipts_lifetime === "number" ? sig.fec_receipts_lifetime : null
+  if (lifetime == null || lifetime <= 0) return null
+
+  const byCycle: Record<string, unknown> = sig.fec_receipts_by_cycle || {}
+  const history: Array<{ cycle?: string | number; office?: string }> = Array.isArray(sig.fec_candidate_history)
+    ? sig.fec_candidate_history : []
+
+  const cycleEntries: Array<{ cycle: string; amount: number }> = []
+  for (const [c, v] of Object.entries(byCycle)) {
+    if (typeof v === "number" && v > 0) cycleEntries.push({ cycle: c, amount: v })
+  }
+  const cycleNums = cycleEntries
+    .map((e) => parseInt(e.cycle, 10))
+    .filter((n) => !Number.isNaN(n))
+    .sort((a, b) => a - b)
+  const cycleRange =
+    cycleNums.length === 0 ? "unknown" :
+    cycleNums.length === 1 ? String(cycleNums[0]) :
+    `${cycleNums[0]}–${cycleNums[cycleNums.length - 1]}`
+
+  // Big cycles: $25M catches big Senate re-election fights + clean
+  // presidential runs. Additionally include cycles named in
+  // fec_candidate_history if their amount ≥ $5M — that surfaces
+  // presidential runs where the ingest under-reports the raise (known
+  // bug: Cruz's 2016 pres committee isn't rolled into candidate
+  // summary, shows as $6.2M; the $5M history-floor surfaces it
+  // anyway) while filtering out trivial off-year non-election cycles
+  // that happen to be in history (like Murphy's $861K 2022 when he
+  // wasn't up) so we don't label them "biggest."
+  const BIG_THRESHOLD = 25_000_000
+  const HISTORY_FLOOR = 5_000_000
+  const historyByCycle = new Map<string, string | undefined>()
+  for (const h of history) {
+    if (h.cycle != null && h.office) historyByCycle.set(String(h.cycle), h.office)
+  }
+  const bigCycles = cycleEntries
+    .filter((e) => {
+      if (e.amount >= BIG_THRESHOLD) return true
+      const office = historyByCycle.get(e.cycle)
+      return !!office && e.amount >= HISTORY_FLOOR
+    })
+    .sort((a, b) => b.amount - a.amount)
+    .map((e) => {
+      const office = historyByCycle.get(e.cycle)
+      const label =
+        office === "P" ? "presidential run" :
+        office === "S" ? "Senate race" :
+        office === "H" ? "House race" : undefined
+      return { cycle: e.cycle, amount: e.amount, label }
+    })
+
+  const remaining = Math.max(0, lifetime - opts.directInTotal$)
+  const remainingPct = lifetime > 0 ? Math.round((remaining / lifetime) * 100) : 0
+
+  // Narrative assembly — kept concise; three sentences max.
+  const firstName = opts.name.split(" ")[0]
+  const parts: string[] = []
+
+  const bigCyclesStr = bigCycles.length === 0 ? "" :
+    ` The biggest were ${bigCycles.slice(0, 3).map((b) =>
+      `${b.cycle} (${fmtUsd(b.amount)}${b.label ? " — " + b.label : ""})`
+    ).join(", ")}.`
+  parts.push(
+    `${opts.name} raised ${fmtUsd(lifetime)} lifetime across ${cycleNums.length} FEC cycle${cycleNums.length === 1 ? "" : "s"} (${cycleRange}).${bigCyclesStr}`,
+  )
+
+  if (opts.directInTotal$ > 0) {
+    parts.push(
+      `The graph traces ${fmtUsd(opts.directInTotal$)} to ${opts.inflowsCount} named donor${opts.inflowsCount === 1 ? "" : "s"} (≥$1K aggregate); the remaining ~${fmtUsd(remaining)} came from sub-$1K donors rolled up in FEC summary totals (standard for small-dollar campaigns) plus joint fundraising committees and transfers.`,
+    )
+  } else {
+    parts.push(
+      `No named donors appear in the graph at the ≥$1K aggregate threshold. The full ${fmtUsd(lifetime)} appears only as aggregated totals in FEC filings.`,
+    )
+  }
+
+  const ieSentences: string[] = []
+  if (opts.ieSupportInTotal$ > 0) {
+    ieSentences.push(`${fmtUsd(opts.ieSupportInTotal$)} in outside spending supporting ${firstName} (IE, not received by the campaign)`)
+  }
+  if (opts.oppoTotal > 0) {
+    ieSentences.push(`${fmtUsd(opts.oppoTotal)} spent against ${firstName} (IE-oppose)`)
+  }
+  if (ieSentences.length > 0) {
+    parts.push(`Separately: ${ieSentences.join("; ")}.`)
+  }
+
+  return {
+    summary_total: lifetime,
+    summary_total_label: fmtUsd(lifetime),
+    cycles_covered: cycleNums.length,
+    cycle_range: cycleRange,
+    big_cycles: bigCycles.slice(0, 4),
+    graph_tracked_direct: opts.directInTotal$,
+    graph_tracked_count: opts.inflowsCount,
+    remaining,
+    remaining_pct: remainingPct,
+    ie_support: opts.ieSupportInTotal$,
+    ie_oppose: opts.oppoTotal,
+    narrative: parts.join(" "),
   }
 }
 

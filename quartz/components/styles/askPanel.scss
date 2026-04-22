@@ -262,6 +262,67 @@
   line-height: 1.45;
 }
 
+// Raise reconciliation — reconciles the FEC candidate-summary lifetime
+// total with the graph-tracked named-donor figure. Yellow accent marks
+// it as the primary credibility-recovery block, distinct from blue
+// (informational) and green (is-this-legal).
+.ask-raise-recon {
+  margin: 14px 0;
+  padding: 14px 16px;
+  background: #fef9e7;
+  border-left: 4px solid #fbbf24;
+}
+.ask-raise-recon-label {
+  color: #92400e;
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+.ask-raise-recon-narrative {
+  font-size: 15px;
+  line-height: 1.6;
+  color: #0a0a0a;
+  margin-bottom: 12px;
+}
+.ask-raise-recon-stats {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 4px;
+  padding-top: 10px;
+  border-top: 1px dashed #d4a90f;
+}
+.ask-raise-recon-stat {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: baseline;
+  font-size: 13px;
+  padding: 2px 0;
+}
+.ask-raise-recon-key {
+  color: #555;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  font-size: 11px;
+  white-space: nowrap;
+}
+.ask-raise-recon-val {
+  font-family: "Space Mono", monospace;
+  font-weight: 600;
+  color: #0a0a0a;
+  text-align: right;
+  flex: 1;
+}
+.ask-raise-recon-cite {
+  font-size: 10px;
+  color: #999;
+  font-weight: 400;
+  margin-left: 6px;
+}
+
 .ask-bullets {
   margin: 6px 0 14px 22px;
   padding: 0;

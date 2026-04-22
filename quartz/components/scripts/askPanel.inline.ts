@@ -55,6 +55,20 @@ interface AskResponse {
     note?: string
     legal_shield?: boolean
   }>
+  raise_reconciliation?: {
+    summary_total: number
+    summary_total_label: string
+    cycles_covered: number
+    cycle_range: string
+    big_cycles: Array<{ cycle: string; amount: number; label?: string }>
+    graph_tracked_direct: number
+    graph_tracked_count: number
+    remaining: number
+    remaining_pct: number
+    ie_support: number
+    ie_oppose: number
+    narrative: string
+  } | null
   visual_flow?: string
   is_this_legal?: string
   why_matters?: string
@@ -309,6 +323,27 @@ function initAskPanel() {
     // 2. Headline answer
     if (r.answer) {
       blocks.push(`<div class="ask-answer">${renderRichText(r.answer)}</div>`)
+    }
+
+    // 2a. Raise reconciliation — closes the "$6.2M in / $465M out,
+    // how does that make sense?" credibility gap for politicians.
+    // Surfaces the FEC candidate-summary lifetime total + names the
+    // small-dollar-rollup gap + separates IE. Rendered between the
+    // headline and the breakdown so the reader sees the full shape
+    // before drilling into the table.
+    if (r.raise_reconciliation) {
+      const rr = r.raise_reconciliation
+      blocks.push(`<div class="ask-raise-recon">`)
+      blocks.push(`  <div class="ask-section-label ask-raise-recon-label">Raise reconciliation</div>`)
+      blocks.push(`  <div class="ask-raise-recon-narrative">${renderAndGloss(rr.narrative)}</div>`)
+      blocks.push(`  <div class="ask-raise-recon-stats">`)
+      blocks.push(`    <div class="ask-raise-recon-stat"><span class="ask-raise-recon-key">Lifetime raise</span><span class="ask-raise-recon-val">${esc(rr.summary_total_label)}</span><span class="ask-raise-recon-cite">[fec-candidate-summary]</span></div>`)
+      blocks.push(`    <div class="ask-raise-recon-stat"><span class="ask-raise-recon-key">Named donors traced</span><span class="ask-raise-recon-val">${esc(fmtUsd(rr.graph_tracked_direct))} from ${rr.graph_tracked_count.toLocaleString()} donor${rr.graph_tracked_count === 1 ? "" : "s"}</span></div>`)
+      blocks.push(`    <div class="ask-raise-recon-stat"><span class="ask-raise-recon-key">Small-dollar + transfers gap</span><span class="ask-raise-recon-val">~${esc(fmtUsd(rr.remaining))} (${rr.remaining_pct}% of raise)</span></div>`)
+      if (rr.ie_support > 0) blocks.push(`    <div class="ask-raise-recon-stat"><span class="ask-raise-recon-key">Outside support (IE)</span><span class="ask-raise-recon-val">${esc(fmtUsd(rr.ie_support))} — not received</span></div>`)
+      if (rr.ie_oppose > 0) blocks.push(`    <div class="ask-raise-recon-stat"><span class="ask-raise-recon-key">Spent against them (IE-oppose)</span><span class="ask-raise-recon-val">${esc(fmtUsd(rr.ie_oppose))}</span></div>`)
+      blocks.push(`  </div>`)
+      blocks.push(`</div>`)
     }
 
     // 2b. ADR-0016 labeled breakdown — structured slices instead of an

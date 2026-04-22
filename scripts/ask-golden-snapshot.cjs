@@ -85,6 +85,7 @@ function summarize(resp) {
     plain_english: resp.plain_english,
     bullets: resp.bullets,
     breakdown: resp.breakdown,
+    raise_reconciliation: resp.raise_reconciliation,
     top_rows: (resp.rows || []).slice(0, 5).map((r) => ({
       kind: r.kind,
       from: r.from,
