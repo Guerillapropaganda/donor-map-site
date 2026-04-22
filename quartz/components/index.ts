@@ -48,6 +48,7 @@ import EventTimeline from "./EventTimeline"
 import MobileProfile from "./MobileProfile"
 import AlphabetJump from "./AlphabetJump"
 import ProfileTabs from "./ProfileTabs"
+import ProfileTOC from "./ProfileTOC"
 import NetworkGraph from "./NetworkGraph"
 import AdminBar from "./AdminBar"
 import AnnotationOverlay from "./AnnotationOverlay"
@@ -106,6 +107,7 @@ export {
   MobileProfile,
   AlphabetJump,
   ProfileTabs,
+  ProfileTOC,
   NetworkGraph,
   AdminBar,
   AnnotationOverlay,
