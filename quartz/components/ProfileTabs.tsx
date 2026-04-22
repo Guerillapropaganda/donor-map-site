@@ -154,16 +154,48 @@ ProfileTabs.afterDOMLoaded = `
 
     article.dataset.profileTabsBuilt = 'true';
 
-    // Restore last active tab from sessionStorage (skip empty tabs)
+    // Pick the initial tab. Precedence:
+    //   1. sessionStorage pref from this user's previous visit (if the
+    //      saved tab still has content on this profile)
+    //   2. For data-complete donor-like profiles: if Overview is thin
+    //      (<3 cards) but Financials has more, default to Financials.
+    //      Prevents the "tiny Overview, huge Financials" UX where
+    //      readers had to manually click to find the money.
+    //   3. Overview if it has content
+    //   4. First populated tab in the tab list
     var savedTab = null;
     try { savedTab = sessionStorage.getItem('dm-profile-tab'); } catch(e) {}
     var initialTab = 'overview';
+
     if (savedTab && cardsByTab[savedTab] && cardsByTab[savedTab].length > 0) {
       initialTab = savedTab;
-    } else if ((cardsByTab['overview'] || []).length === 0) {
-      // fall through to first populated tab
+    } else {
+      var overviewCount = (cardsByTab['overview'] || []).length;
+      // Heuristic: if overview is sparse and a much richer tab exists,
+      // jump to the richest populated tab. Skip 'contradiction' and
+      // 'timeline' as default destinations (they're usually auxiliary).
+      var richest = null;
+      var richestCount = 0;
       for (var ti = 0; ti < tabs.length; ti++) {
-        if ((cardsByTab[tabs[ti].id] || []).length > 0) { initialTab = tabs[ti].id; break; }
+        var tid = tabs[ti].id;
+        if (tid === 'contradiction' || tid === 'timeline') continue;
+        var count = (cardsByTab[tid] || []).length;
+        if (count > richestCount) {
+          richestCount = count;
+          richest = tid;
+        }
+      }
+      if (overviewCount < 3 && richest && richestCount > overviewCount) {
+        initialTab = richest;
+      } else if (overviewCount > 0) {
+        initialTab = 'overview';
+      } else if (richest) {
+        initialTab = richest;
+      } else {
+        // absolutely nothing populated — pick first tab, placeholder will show
+        for (var tj = 0; tj < tabs.length; tj++) {
+          if ((cardsByTab[tabs[tj].id] || []).length > 0) { initialTab = tabs[tj].id; break; }
+        }
       }
     }
     activateTab(initialTab);
