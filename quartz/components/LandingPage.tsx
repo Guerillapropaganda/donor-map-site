@@ -84,6 +84,19 @@ const LandingPage: QuartzComponent = ({
     return slug.startsWith("lobbying-firms") || slug.startsWith("think-tanks")
   }).length
 
+  // ADR-0017: "published" = data-complete or verified profiles. When
+  // TIER_GATED_PUBLISHING flips to true these are the pages publicly
+  // reachable. Surface the count on the landing page so readers can
+  // see the database grow.
+  const publishedCount = allFiles.filter((f) => {
+    const r = String(f.frontmatter?.["content-readiness"] ?? "").toLowerCase()
+    return (r === "data-complete" || r === "verified") && isEntityProfile(f)
+  }).length
+  const verifiedCount = allFiles.filter((f) => {
+    const r = String(f.frontmatter?.["content-readiness"] ?? "").toLowerCase()
+    return r === "verified" && isEntityProfile(f)
+  }).length
+
   // Build state lookup data for client-side JS
   const stateData: Record<string, { n: string; p: string; d: string }[]> = {}
   const US_STATES = ["AL","AK","AZ","AR","CA","CO","CT","DE","FL","GA","HI","ID","IL","IN","IA","KS","KY","LA","ME","MD","MA","MI","MN","MS","MO","MT","NE","NV","NH","NJ","NM","NY","NC","ND","OH","OK","OR","PA","RI","SC","SD","TN","TX","UT","VT","VA","WA","WV","WI","WY"]
@@ -147,6 +160,16 @@ const LandingPage: QuartzComponent = ({
             <div class="construct-stat">
               <span class="construct-stat-num construct-stat-accent">{donorCount.toLocaleString()}</span>
               <span class="construct-stat-label">Donors Tracked</span>
+            </div>
+            <div class="construct-stat-divider" />
+            <div class="construct-stat">
+              <span class="construct-stat-num">{publishedCount.toLocaleString()}</span>
+              <span class="construct-stat-label">
+                Published
+                {verifiedCount > 0 && (
+                  <span class="construct-stat-sublabel"> · {verifiedCount} verified</span>
+                )}
+              </span>
             </div>
           </div>
           <div class="construct-teaser">
