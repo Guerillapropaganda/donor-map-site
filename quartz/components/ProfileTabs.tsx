@@ -53,8 +53,10 @@ ProfileTabs.afterDOMLoaded = `
     return getProfileType() !== null;
   }
 
+  var DONOR_LIKE = {donor:1, corporation:1, pac:1, 'think-tank':1, 'lobbying-firm':1};
   function getTabs() {
-    if (getProfileType() === 'donor') return DONOR_TABS;
+    var t = getProfileType();
+    if (t && DONOR_LIKE[t]) return DONOR_TABS;
     if (isPresidential()) return PRESIDENTIAL_TABS;
     return POLITICIAN_TABS;
   }

@@ -7,8 +7,19 @@ const ProfileHeader: QuartzComponent = ({
   displayClass,
 }: QuartzComponentProps) => {
   const fm = fileData.frontmatter
-  const type = String(fm?.type ?? "unknown")
-  if (type !== "politician" && type !== "donor") return null
+  const rawType = String(fm?.type ?? "unknown")
+
+  // Normalize profile sub-types to the two display buckets the rest
+  // of the component branches on. state-politician and local-politician
+  // render like "politician" (career money raised, bills sponsored, etc).
+  // corporation / pac / think-tank / lobbying-firm render like "donor"
+  // (total political spend, politicians funded, etc). The raw type is
+  // still exposed via data-profile-type on the .ph-header div so
+  // ProfileTabs + other downstream JS can detect the specific subtype.
+  const POLITICIAN_LIKE = new Set(["politician", "state-politician", "local-politician"])
+  const DONOR_LIKE = new Set(["donor", "corporation", "pac", "think-tank", "lobbying-firm"])
+  if (!POLITICIAN_LIKE.has(rawType) && !DONOR_LIKE.has(rawType)) return null
+  const type: "politician" | "donor" = POLITICIAN_LIKE.has(rawType) ? "politician" : "donor"
 
   // Build a title -> slug lookup so Top Donors ticker items can link to
   // their own profile pages when we have one. Loose match: strip
@@ -58,7 +69,7 @@ const ProfileHeader: QuartzComponent = ({
   const topDonors = Array.isArray(fm?.["top-donors"]) ? (fm["top-donors"] as string[]).slice(0, 5) : []
 
   return (
-    <div class={classNames(displayClass, "ph-header")} data-profile-type={type}>
+    <div class={classNames(displayClass, "ph-header")} data-profile-type={rawType}>
       {/* Row 1: Money raised (type is already conveyed by position line below) */}
       <div class="ph-row-top">
         <div class="ph-badges"></div>
