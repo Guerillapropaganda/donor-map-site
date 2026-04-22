@@ -530,7 +530,14 @@ function animateProfile() {
   // Only on profile pages
   if (!document.querySelector('.ph-header')) return;
 
-  // Section cards: fade in + slide up on scroll
+  // Section cards: snappy fade-in as they scroll into view. Previous
+  // values (500ms per-card transition + 50ms per-card stagger) meant a
+  // dense page like Koch Network (100+ cards) took 5+ seconds of
+  // cascading reveals — users perceived it as "loading lag" while
+  // scrolling because each card was still mid-fade when the next one
+  // tripped the observer. New values: 180ms transition, no stagger,
+  // rootMargin pre-loads cards 200px before they enter the viewport
+  // so the fade completes before the user actually sees the card.
   var cards = document.querySelectorAll('.profile-section-card');
   if (cards.length) {
     var cardObs = new IntersectionObserver(function(entries) {
@@ -538,14 +545,15 @@ function animateProfile() {
         if (e.isIntersecting) {
           e.target.style.opacity = '1';
           e.target.style.transform = 'translateY(0)';
+          cardObs.unobserve(e.target);  // one-shot; don't re-observe
         }
       });
-    }, { threshold: 0.1 });
+    }, { threshold: 0, rootMargin: '200px 0px' });
 
-    cards.forEach(function(card, i) {
+    cards.forEach(function(card) {
       card.style.opacity = '0';
-      card.style.transform = 'translateY(16px)';
-      card.style.transition = 'opacity 0.5s ease ' + (i * 0.05) + 's, transform 0.5s ease ' + (i * 0.05) + 's';
+      card.style.transform = 'translateY(8px)';
+      card.style.transition = 'opacity 0.18s ease, transform 0.18s ease';
       cardObs.observe(card);
     });
   }
