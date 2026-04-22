@@ -27,7 +27,7 @@ ProfileTabs.afterDOMLoaded = `
   var DONOR_TABS = [
     { id: 'overview', label: 'Overview' },
     { id: 'contradiction', label: 'Contradiction' },
-    { id: 'recipients', label: 'Recipients' },
+    { id: 'recipients', label: 'Financials' },
     { id: 'wins', label: 'Policy Wins' },
     { id: 'analysis', label: 'Analysis' },
     { id: 'timeline', label: 'Timeline' },

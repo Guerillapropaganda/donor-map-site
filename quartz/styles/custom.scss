@@ -2156,6 +2156,20 @@ body[data-slug*="master-profile" i] {
     padding: 28px;
     margin-bottom: 20px;
 
+    // Perf: defer layout+paint work for cards outside viewport.
+    // Dense profiles (Koch Network, etc.) have 100+ cards with
+    // large tables — without this, scrolling triggered layout recalc
+    // across the whole article. `content-visibility: auto` lets the
+    // browser skip rendering work for off-screen cards until they
+    // approach the viewport. `contain-intrinsic-size` gives a size
+    // estimate so the scrollbar doesn't jump as cards hydrate.
+    // `contain: layout style` isolates layout changes inside a card
+    // from reflowing its siblings. Supported in Chrome/Edge/Safari
+    // 18+; gracefully degrades in older browsers.
+    content-visibility: auto;
+    contain-intrinsic-size: auto 600px;
+    contain: layout style;
+
     // All text inside cards — ensure dark readable text
     p, li, span, td { color: #333 !important; }
     strong { color: #0a0a0a !important; }

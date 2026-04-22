@@ -37,7 +37,11 @@ import { QuartzTransformerPlugin } from "../types"
 // When a block type isn't listed here, it falls through to
 // data-tab="overview" which is the always-present default tab.
 const AUTO_BLOCK_TAB: Record<string, { politician: string; presidential: string; donor: string }> = {
-  "data-panel":            { politician: "overview",      presidential: "overview",      donor: "overview" },
+  // data-panel holds "Total political spend", "Class position" etc.
+  // Moved out of overview (was too prominent at the top on donor pages);
+  // routed to Financials for donors so financial headline numbers
+  // live with the other money tables.
+  "data-panel":            { politician: "donors",        presidential: "donors",        donor: "recipients" },
   "wikipedia":             { politician: "overview",      presidential: "overview",      donor: "overview" },
   "gleif-lei":             { politician: "overview",      presidential: "overview",      donor: "overview" },
 
@@ -284,13 +288,37 @@ const HEADING_TAB_MAP: Array<{ test: RegExp; bucket: BucketMap }> = [
 
   // Timeline
   { test: /\bTimeline\b/i,                                                        bucket: { politician: "timeline", presidential: "timeline", donor: "timeline" } },
+  { test: /\bDonation-to-Policy\b/i,                                              bucket: { politician: "timeline", presidential: "timeline", donor: "timeline" } },
+
+  // Network / infrastructure / architecture (money + influence hybrid — analysis tab)
+  { test: /\bNetwork\s+Spending\b/i,                                              bucket: { politician: "donors", presidential: "donors", donor: "recipients" } },
+  { test: /\bElectoral\s+Cycle\s+Spending\b/i,                                    bucket: { politician: "donors", presidential: "donors", donor: "recipients" } },
+  { test: /\bKey\s+Network\s+Donors\b/i,                                          bucket: { politician: "donors", presidential: "donors", donor: "recipients" } },
+  { test: /\bFinancial\s+(Scale|Overview|Summary)\b/i,                            bucket: { politician: "donors", presidential: "donors", donor: "recipients" } },
+  { test: /\bRevenue\s+(History|Breakdown)\b/i,                                   bucket: { politician: "donors", presidential: "donors", donor: "recipients" } },
+  { test: /\bTax\s+Filings?\b/i,                                                  bucket: { politician: "donors", presidential: "donors", donor: "recipients" } },
+  { test: /\bTop\s+Recipients?\b/i,                                               bucket: { politician: "donors", presidential: "donors", donor: "recipients" } },
+  { test: /\bMega-Donors?\b/i,                                                    bucket: { politician: "donors", presidential: "donors", donor: "recipients" } },
+
+  // Infrastructure + network + pipelines (analysis territory)
+  { test: /\b(Think\s+Tank|Dark\s+Money|Legal|Media|Academic)\s+Pipeline/i,       bucket: { politician: "analysis", presidential: "analysis", donor: "analysis" } },
+  { test: /\bInfrastructure\b/i,                                                  bucket: { politician: "analysis", presidential: "analysis", donor: "analysis" } },
+  { test: /\bDonor\s+Summit\b/i,                                                  bucket: { politician: "analysis", presidential: "analysis", donor: "analysis" } },
+  { test: /\bAnti-Labor\s+War\b/i,                                                bucket: { politician: "analysis", presidential: "analysis", donor: "analysis" } },
+  { test: /\bEnemies\s*\/?\s*Opposition\b/i,                                      bucket: { politician: "analysis", presidential: "analysis", donor: "analysis" } },
+  { test: /\b(Cross-Reference|Cross\s+Vault)\b/i,                                 bucket: { politician: "analysis", presidential: "analysis", donor: "analysis" } },
+
+  // Case / graveyard / bill-kill stories (voting/contradiction)
+  { test: /\bGraveyard\b/i,                                                       bucket: { politician: "voting", presidential: "executive", donor: "voting" } },
+  { test: /\bKilled\s+by\b/i,                                                     bucket: { politician: "voting", presidential: "executive", donor: "voting" } },
+  { test: /\bDied\s+in\b/i,                                                       bucket: { politician: "voting", presidential: "executive", donor: "voting" } },
 ]
 
-function matchHeadingTab(headingText: string, bucket: "politician" | "presidential" | "donor"): string {
+function matchHeadingTab(headingText: string, bucket: "politician" | "presidential" | "donor"): string | null {
   for (const entry of HEADING_TAB_MAP) {
     if (entry.test.test(headingText)) return entry.bucket[bucket]
   }
-  return "overview" // catch-all default
+  return null // no keyword match — caller uses positional inheritance
 }
 
 function wrapEditorialH2Sections(src: string, bucket: "politician" | "presidential" | "donor"): string {
@@ -362,12 +390,32 @@ function wrapEditorialH2Sections(src: string, bucket: "politician" | "presidenti
     return /^<!--\s*auto:[a-z0-9-]+\s+start/i.test(trimmed)
   }
 
-  // Process in reverse so inserts don't invalidate earlier positions
+  // Two-pass: forward pass computes tab for each section with
+  // positional inheritance (unmatched headings inherit the last
+  // matched tab from a preceding section). Then wrap in reverse so
+  // insertions don't shift earlier positions.
+  //
+  // Why inheritance: profiles often have sub-sections that continue
+  // their parent's topic. E.g. "Estimated costs:" after "SB 562
+  // (2017)" semantically belongs in the voting tab like SB 562.
+  // Keyword matching can't catch sub-section headings without topic
+  // vocabulary. Inheritance routes them correctly by context.
+  const tabAssignments: Array<string> = new Array(sections.length).fill("overview")
+  let lastMatched = "overview"
+  for (let i = 0; i < sections.length; i++) {
+    const matched = matchHeadingTab(sections[i].text, bucket)
+    if (matched) {
+      tabAssignments[i] = matched
+      lastMatched = matched
+    } else {
+      tabAssignments[i] = lastMatched
+    }
+  }
+
+  // Process in reverse so inserts don't invalidate earlier positions.
   let out = src
   for (let i = sections.length - 1; i >= 0; i--) {
     const s = sections[i]
-    // Recompute positions against current out (content unchanged
-    // before this index — inserts we've made are all after it).
     const headingStart = s.headingStart
     const headingEnd = s.headingEnd
     const contentEnd = s.contentEnd
@@ -383,7 +431,7 @@ function wrapEditorialH2Sections(src: string, bucket: "politician" | "presidenti
     const closeCount = (preceding.match(/<\/div>/g) || []).length
     if (openCount > closeCount) continue
 
-    const tab = matchHeadingTab(s.text, bucket)
+    const tab = tabAssignments[i]
     const sectionContent = out.slice(headingStart, contentEnd).trimEnd()
     const wrapped = [
       "",
