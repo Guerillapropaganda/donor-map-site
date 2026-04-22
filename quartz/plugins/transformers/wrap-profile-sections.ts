@@ -213,6 +213,101 @@ function wrapBlocks(src: string, bucket: "politician" | "presidential" | "donor"
   )
 }
 
+/**
+ * Wrap known editorial H2 sections in their correct tab cards.
+ *
+ * The editorial template (per content/Profile Template.md) uses named
+ * H2 sections: Who They Are, The Money, Key Votes, Politicians Funded,
+ * Contracts + Lobbying, Executive Actions, Class Analysis, The
+ * Contradictions, Timeline, Related Figures. Without this wrapping,
+ * editorial prose renders unwrapped in the body and ProfileTabs can't
+ * place it in the right tab — which was the "Who They Are appears
+ * under Recipients" bug on American Enterprise Institute.
+ *
+ * Each entry maps a heading variant (case-insensitive) to a tab id
+ * per profile bucket. Runs BEFORE wrapSourcesSection so that its
+ * own match doesn't conflict.
+ */
+const H2_TAB_MAP: Array<{ match: RegExp; bucket: { politician: string; presidential: string; donor: string } }> = [
+  { match: /^#{2,3}\s+Who\s+(They|He|She|We)\s+(Are|Is)\s*$/im, bucket: { politician: "overview", presidential: "overview", donor: "overview" } },
+  { match: /^#{2,3}\s+Bio(graphy)?\s*$/im,                      bucket: { politician: "overview", presidential: "overview", donor: "overview" } },
+  { match: /^#{2,3}\s+Background\s*$/im,                        bucket: { politician: "overview", presidential: "overview", donor: "overview" } },
+  { match: /^#{2,3}\s+About\s*$/im,                             bucket: { politician: "overview", presidential: "overview", donor: "overview" } },
+  { match: /^#{2,3}\s+Summary\s*$/im,                           bucket: { politician: "overview", presidential: "overview", donor: "overview" } },
+
+  { match: /^#{2,3}\s+Class\s+Analysis\s*$/im,                  bucket: { politician: "analysis", presidential: "analysis", donor: "analysis" } },
+  { match: /^#{2,3}\s+Analytical?\s+Patterns?\s*$/im,           bucket: { politician: "analysis", presidential: "analysis", donor: "analysis" } },
+  { match: /^#{2,3}\s+Donor\s+Class\s+Map\s*$/im,               bucket: { politician: "analysis", presidential: "analysis", donor: "analysis" } },
+  { match: /^#{2,3}\s+Central\s+Thesis\s*$/im,                  bucket: { politician: "analysis", presidential: "analysis", donor: "analysis" } },
+  { match: /^#{2,3}\s+(The\s+)?Core\s+Contradiction\s*$/im,     bucket: { politician: "contradiction", presidential: "contradiction", donor: "contradiction" } },
+  { match: /^#{2,3}\s+(The\s+)?Contradictions?\s*$/im,          bucket: { politician: "contradiction", presidential: "contradiction", donor: "contradiction" } },
+
+  { match: /^#{2,3}\s+(The\s+)?Money\s*$/im,                    bucket: { politician: "donors", presidential: "donors", donor: "recipients" } },
+  { match: /^#{2,3}\s+Funding\s*$/im,                           bucket: { politician: "donors", presidential: "donors", donor: "recipients" } },
+  { match: /^#{2,3}\s+Campaign\s+Finance\s*$/im,                bucket: { politician: "donors", presidential: "donors", donor: "recipients" } },
+  { match: /^#{2,3}\s+(The\s+)?Donors\s*$/im,                   bucket: { politician: "donors", presidential: "donors", donor: "recipients" } },
+
+  { match: /^#{2,3}\s+Key\s+Votes(\s*(\+|and)\s*Actions?)?\s*$/im, bucket: { politician: "voting", presidential: "executive", donor: "voting" } },
+  { match: /^#{2,3}\s+Voting\s+Record\s*$/im,                      bucket: { politician: "voting", presidential: "executive", donor: "voting" } },
+  { match: /^#{2,3}\s+Executive\s+(Actions?|Orders?)\s*$/im,       bucket: { politician: "voting", presidential: "executive", donor: "voting" } },
+  { match: /^#{2,3}\s+Key\s+Executive\s+Actions?\s*$/im,           bucket: { politician: "voting", presidential: "executive", donor: "voting" } },
+  { match: /^#{2,3}\s+Policy\s+Executed\s*$/im,                    bucket: { politician: "voting", presidential: "executive", donor: "voting" } },
+  { match: /^#{2,3}\s+Department\s+Actions?\s*$/im,                bucket: { politician: "voting", presidential: "executive", donor: "voting" } },
+  { match: /^#{2,3}\s+Diplomatic\s+Record\s*$/im,                  bucket: { politician: "voting", presidential: "executive", donor: "voting" } },
+
+  { match: /^#{2,3}\s+Politicians?\s+Funded\s*$/im,             bucket: { politician: "donors", presidential: "donors", donor: "recipients" } },
+  { match: /^#{2,3}\s+Allied\s+Donors?\s*(\+|and)\s*Politicians?\s+Funded\s*$/im, bucket: { politician: "donors", presidential: "donors", donor: "recipients" } },
+  { match: /^#{2,3}\s+Contracts?\s*(\+|and)\s*Lobbying\s*$/im,  bucket: { politician: "donors", presidential: "donors", donor: "wins" } },
+  { match: /^#{2,3}\s+Policy\s+Positions?\s*$/im,               bucket: { politician: "donors", presidential: "donors", donor: "wins" } },
+  { match: /^#{2,3}\s+Influence\s*$/im,                         bucket: { politician: "donors", presidential: "donors", donor: "wins" } },
+  { match: /^#{2,3}\s+Clients?\s*(\+|and)\s*Issues?\s*$/im,     bucket: { politician: "donors", presidential: "donors", donor: "wins" } },
+
+  { match: /^#{2,3}\s+Timeline\s*$/im,                          bucket: { politician: "timeline", presidential: "timeline", donor: "timeline" } },
+
+  { match: /^#{2,3}\s+Related\s+Figures?\s*$/im,                bucket: { politician: "analysis", presidential: "analysis", donor: "analysis" } },
+]
+
+function wrapEditorialH2Sections(src: string, bucket: "politician" | "presidential" | "donor"): string {
+  // For each H2 that matches a known editorial heading: find its
+  // start, find the next H2 boundary (or `## Sources` / end of doc),
+  // and wrap that range in a section-card with the mapped tab.
+  //
+  // Skip wrapping if the heading is already inside a section-card
+  // (idempotency on re-runs).
+  let out = src
+  for (const entry of H2_TAB_MAP) {
+    const m = out.match(entry.match)
+    if (!m) continue
+    const startIdx = out.indexOf(m[0])
+    // Check if already wrapped: look backwards up to 200 chars for
+    // an unclosed profile-section-card div.
+    const preceding = out.slice(Math.max(0, startIdx - 400), startIdx)
+    const openCount = (preceding.match(/<div class="profile-section-card"/g) || []).length
+    const closeCount = (preceding.match(/<\/div>/g) || []).length
+    if (openCount > closeCount) continue  // already inside a card
+
+    // Find the end: next H2 OR end of string
+    const after = out.slice(startIdx + m[0].length)
+    const nextH2 = after.match(/^#{2,3}\s+/im)
+    const endInAfter = nextH2 ? after.indexOf(nextH2[0]) : after.length
+    const sectionEnd = startIdx + m[0].length + endInAfter
+
+    const sectionContent = out.slice(startIdx, sectionEnd).trimEnd()
+    const tab = entry.bucket[bucket]
+    const wrapped = [
+      "",
+      `<div class="profile-section-card" data-tab="${tab}" data-h2-wrapped="true">`,
+      "",
+      sectionContent,
+      "",
+      "</div>",
+      "",
+    ].join("\n")
+    out = out.slice(0, startIdx) + wrapped + out.slice(sectionEnd)
+  }
+  return out
+}
+
 function wrapSourcesSection(src: string, _bucket: "politician" | "presidential" | "donor"): string {
   // Find the `Sources` heading. Template calls for H2 but many
   // profiles use H3 (### Sources). Match H2/H3/H4. Wrap everything
@@ -286,6 +381,7 @@ function transform(src: string): string {
   }
 
   let out = wrapBlocks(src, bucket)
+  out = wrapEditorialH2Sections(out, bucket)
   out = wrapSourcesSection(out, bucket)
   return out
 }

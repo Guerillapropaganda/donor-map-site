@@ -1,10 +1,20 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
-// Treat politician/donor master profiles as "profile pages" (get ProfileHeader + ProfileTabs)
+// Treat every publishable profile type as a "profile page" (gets
+// ProfileHeader + ProfileTabs). Previously only politician + donor
+// qualified, which left state-politician, local-politician, pac,
+// corporation, think-tank, and lobbying-firm profiles without a
+// ProfileHeader — and therefore without the `data-profile-type`
+// attribute ProfileTabs needs to detect the page and build the tab
+// nav. Fix: extend to the full set from ADR-0017.
+const PROFILE_TYPES = new Set([
+  "politician", "state-politician", "local-politician",
+  "donor", "corporation", "pac", "think-tank", "lobbying-firm",
+])
 const isProfilePage = (page: any): boolean => {
   const type = String(page.fileData.frontmatter?.type ?? "")
-  return type === "politician" || type === "donor"
+  return PROFILE_TYPES.has(type)
 }
 
 // components shared across all pages
