@@ -262,6 +262,67 @@
   line-height: 1.45;
 }
 
+// Current cycle — leads with "what's happening NOW" in the active FEC
+// cycle. Blue accent (matching the plain-English TL;DR style) so it
+// feels like the primary informational card; the lifetime-
+// reconciliation below uses yellow as the credibility-recovery block.
+.ask-current-cycle {
+  margin: 14px 0;
+  padding: 14px 16px;
+  background: #eef4ff;
+  border-left: 4px solid #1d4ed8;
+}
+.ask-current-cycle-label {
+  color: #1e3a8a;
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+.ask-current-cycle-narrative {
+  font-size: 15px;
+  line-height: 1.6;
+  color: #0a0a0a;
+  margin-bottom: 12px;
+}
+.ask-current-cycle-stats {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 4px;
+  padding-top: 10px;
+  border-top: 1px dashed #93b2f2;
+}
+.ask-current-cycle-stat {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: baseline;
+  font-size: 13px;
+  padding: 2px 0;
+}
+.ask-current-cycle-key {
+  color: #555;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  font-size: 11px;
+  white-space: nowrap;
+}
+.ask-current-cycle-val {
+  font-family: "Space Mono", monospace;
+  font-weight: 600;
+  color: #0a0a0a;
+  text-align: right;
+  flex: 1;
+}
+.ask-current-cycle-cite {
+  font-size: 10px;
+  color: #999;
+  font-weight: 400;
+  margin-left: 6px;
+}
+
 // Raise reconciliation — reconciles the FEC candidate-summary lifetime
 // total with the graph-tracked named-donor figure. Yellow accent marks
 // it as the primary credibility-recovery block, distinct from blue

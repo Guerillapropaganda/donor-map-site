@@ -314,6 +314,36 @@ function classifyEdge(edge) {
   }
 }
 
+// ─── Cycle scope helpers ───────────────────────────────────────────
+// FEC convention: 2-year cycles labeled by their even-year election
+// year. Cycle "2026" = Jan 1 2025 through Dec 31 2026. We use a
+// single 2-year cycle for every profile type (senators' 6-year
+// mental model would require per-politician logic; punted).
+//
+// CURRENT CYCLE is derived from the system clock — bumps forward
+// automatically every two years on January 1. Override via
+// DM_CURRENT_CYCLE env var for tests / historical snapshots.
+
+function currentCycle(nowOverride) {
+  const override = (typeof process !== "undefined" && process.env && process.env.DM_CURRENT_CYCLE) || null
+  if (override) return String(override)
+  const d = nowOverride instanceof Date ? nowOverride : new Date()
+  const y = d.getUTCFullYear()
+  // If year is odd, cycle label is next year's even number.
+  // If year is even, the current year IS the cycle label.
+  return String(y % 2 === 0 ? y : y + 1)
+}
+
+// Filter edges to a specific cycle. Returns edges whose cycle field
+// EXACTLY matches `cycle` (after stringification). Null-cycle edges
+// — e.g. fec-api lifetime-cumulative aggregates — are EXCLUDED, as
+// they represent lifetime totals that cannot be attributed to any
+// single cycle without producing false precision.
+function filterEdgesByCycle(edges, cycle) {
+  const target = String(cycle)
+  return edges.filter((e) => e && e.cycle != null && String(e.cycle) === target)
+}
+
 // ─── Dedup helper for lifetime monetary sums ───────────────────────
 // fec-api ingest writes LIFETIME-CUMULATIVE edges per (from, to,
 // role). fec-pas2 ingest writes per-TRANSACTION edges cycle-accurate.
@@ -364,6 +394,8 @@ function normalizeEntityKey(name) {
 module.exports = {
   classifyEdge,
   sumMonetaryEdgesDedup,
+  currentCycle,
+  filterEdgesByCycle,
   CATEGORIES,
   BUCKETS,
   CATEGORY_META,

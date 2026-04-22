@@ -2,7 +2,10 @@ import { NextRequest, NextResponse } from "next/server"
 import { createQueryEngine } from "@/lib/query-engine"
 import { requireTier } from "@/lib/auth"
 import { checkDailyLimit, checkPerMinuteLimit } from "@/lib/rate-limit"
-import { primeClassifier, classifyEdgeSync, sumMonetaryEdgesDedupSync, CATEGORIES } from "@/lib/edge-role-taxonomy"
+import {
+  primeClassifier, classifyEdgeSync, sumMonetaryEdgesDedupSync,
+  currentCycleSync, filterEdgesByCycleSync, CATEGORIES,
+} from "@/lib/edge-role-taxonomy"
 import fs from "node:fs"
 import path from "node:path"
 
@@ -117,18 +120,33 @@ interface RaiseReconciliation {
   summary_total_label: string     // "$550M"
   cycles_covered: number
   cycle_range: string             // "1988–2026"
-  big_cycles: Array<{             // cycles >= $50M (usually presidential)
+  big_cycles: Array<{             // cycles >= $25M (or history office-run, >=$5M)
     cycle: string
     amount: number
     label?: string                // "presidential run" / "Senate race" when fec_candidate_history matches
   }>
-  graph_tracked_direct: number    // sum of direct-contribution edges the classifier counted
+  graph_tracked_direct: number    // sum of direct-contribution edges (lifetime)
   graph_tracked_count: number
   remaining: number               // summary_total - graph_tracked_direct
   remaining_pct: number
-  ie_support: number              // spent FOR, not received — surfaced as separate line
-  ie_oppose: number
+  ie_support: number              // lifetime IE support (spent FOR, not received)
+  ie_oppose: number               // lifetime IE oppose (spent against)
   narrative: string               // full prose paragraph for display
+  // Current-cycle (ADR-pending Phase 4): same categories scoped to
+  // the current FEC 2-year cycle, so readers see what's happening
+  // NOW alongside the lifetime view. OpenSecrets-style default. Null
+  // when summary_total is null (non-politician).
+  current_cycle: {
+    cycle: string                 // "2026"
+    summary_total: number         // fec_receipts_by_cycle[cycle] — cycle's total raise per FEC summary
+    direct_received: number       // graph-tracked direct contribs IN this cycle
+    direct_received_count: number // # of donor edges contributing
+    ie_support: number            // IE support IN this cycle
+    ie_oppose: number             // IE oppose IN this cycle
+    direct_given: number          // direct political giving OUT in this cycle
+    has_activity: boolean         // false when all 5 totals are zero
+    narrative: string             // one-paragraph plain-English prose for UI
+  }
 }
 
 const REPO_ROOT = path.resolve(process.cwd(), "..")
@@ -2300,13 +2318,27 @@ async function handleSummary(c: ClassifiedQuestion, question: string, engine: an
   // + naming the graph-tracked vs small-dollar split. Politicians only;
   // null for non-politician entities (donors / 501(c)(4)s / PACs whose
   // scope is different).
+  // Phase 4: also compute current-cycle equivalents so the UI can lead
+  // with "what's happening NOW" and keep lifetime as the big-picture
+  // contextual paragraph.
+  const cycleLabel = currentCycleSync()
+  const directInCycleEdges = filterEdgesByCycleSync(directInEdges, cycleLabel)
+  const ieSupportInCycleEdges = filterEdgesByCycleSync(ieSupportInEdges, cycleLabel)
+  const oppoCycleEdges = filterEdgesByCycleSync(oppoEdges, cycleLabel)
+  const directOutCycleEdges = filterEdgesByCycleSync(directOutEdges, cycleLabel)
   const raise_reconciliation = buildRaiseReconciliation({
     name,
     ent,
+    cycle: cycleLabel,
     directInTotal$,
     inflowsCount: inflows.total,
     ieSupportInTotal$,
     oppoTotal,
+    directInCycleTotal$: sumMonetaryEdgesDedupSync(directInCycleEdges),
+    directInCycleCount: directInCycleEdges.length,
+    ieSupportInCycleTotal$: sumMonetaryEdgesDedupSync(ieSupportInCycleEdges),
+    oppoCycleTotal$: sumMonetaryEdgesDedupSync(oppoCycleEdges),
+    directOutCycleTotal$: sumMonetaryEdgesDedupSync(directOutCycleEdges),
   })
 
   return {
@@ -2338,10 +2370,16 @@ async function handleSummary(c: ClassifiedQuestion, question: string, engine: an
 function buildRaiseReconciliation(opts: {
   name: string
   ent: any
+  cycle: string
   directInTotal$: number
   inflowsCount: number
   ieSupportInTotal$: number
   oppoTotal: number
+  directInCycleTotal$: number
+  directInCycleCount: number
+  ieSupportInCycleTotal$: number
+  oppoCycleTotal$: number
+  directOutCycleTotal$: number
 }): RaiseReconciliation | null {
   const sig = opts.ent?.signals || {}
   const lifetime = typeof sig.fec_receipts_lifetime === "number" ? sig.fec_receipts_lifetime : null
@@ -2431,6 +2469,44 @@ function buildRaiseReconciliation(opts: {
     parts.push(`Separately: ${ieSentences.join("; ")}.`)
   }
 
+  const cycleSummaryTotalRaw = byCycle[opts.cycle]
+  const cycleSummaryTotal = typeof cycleSummaryTotalRaw === "number" ? cycleSummaryTotalRaw : 0
+  const cycleHasActivity =
+    cycleSummaryTotal > 0 ||
+    opts.directInCycleTotal$ > 0 ||
+    opts.ieSupportInCycleTotal$ > 0 ||
+    opts.oppoCycleTotal$ > 0 ||
+    opts.directOutCycleTotal$ > 0
+
+  // Current-cycle narrative — terse, factual, leads with FEC summary
+  // total then names the graph-tracked slice. Explicit when a cycle
+  // is empty so readers don't think the page is broken.
+  const ccParts: string[] = []
+  if (!cycleHasActivity) {
+    ccParts.push(`In the ${opts.cycle} cycle, no activity is tracked for ${opts.name} yet — FEC filings and graph data both empty. This is normal for politicians between elections or profiles that haven't been enriched for the current cycle.`)
+  } else {
+    // Lead: FEC cycle-summary total when present
+    if (cycleSummaryTotal > 0) {
+      ccParts.push(`In the ${opts.cycle} cycle (through the most recent FEC filing), ${opts.name} has raised ${fmtUsd(cycleSummaryTotal)}.`)
+    } else {
+      ccParts.push(`In the ${opts.cycle} cycle, no campaign-summary receipts are filed for ${opts.name} yet.`)
+    }
+    // Graph-tracked slice — vary the pronoun based on whether the
+    // summary line preceded it ("of that" vs "from N named donors")
+    if (opts.directInCycleTotal$ > 0) {
+      const connector = cycleSummaryTotal > 0 ? "of that to" : "from"
+      ccParts.push(`The graph traces ${fmtUsd(opts.directInCycleTotal$)} ${connector} ${opts.directInCycleCount} named donor${opts.directInCycleCount === 1 ? "" : "s"} (≥$1K aggregate).`)
+    } else if (cycleSummaryTotal > 0) {
+      ccParts.push(`No named donors appear in the graph at the ≥$1K aggregate threshold yet — the raise so far is entirely small-dollar rollups or transfers.`)
+    }
+    // IE lines
+    const ieBits: string[] = []
+    if (opts.ieSupportInCycleTotal$ > 0) ieBits.push(`${fmtUsd(opts.ieSupportInCycleTotal$)} in outside spending supporting them`)
+    if (opts.oppoCycleTotal$ > 0) ieBits.push(`${fmtUsd(opts.oppoCycleTotal$)} spent against them (IE-oppose)`)
+    if (ieBits.length > 0) ccParts.push(`Separately this cycle: ${ieBits.join("; ")}.`)
+  }
+  const cycleNarrative = ccParts.join(" ")
+
   return {
     summary_total: lifetime,
     summary_total_label: fmtUsd(lifetime),
@@ -2444,6 +2520,17 @@ function buildRaiseReconciliation(opts: {
     ie_support: opts.ieSupportInTotal$,
     ie_oppose: opts.oppoTotal,
     narrative: parts.join(" "),
+    current_cycle: {
+      cycle: opts.cycle,
+      summary_total: cycleSummaryTotal,
+      direct_received: opts.directInCycleTotal$,
+      direct_received_count: opts.directInCycleCount,
+      ie_support: opts.ieSupportInCycleTotal$,
+      ie_oppose: opts.oppoCycleTotal$,
+      direct_given: opts.directOutCycleTotal$,
+      has_activity: cycleHasActivity,
+      narrative: cycleNarrative,
+    },
   }
 }
 

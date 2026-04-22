@@ -59,16 +59,20 @@ export async function classifyEdge(edge: any): Promise<EdgeClassification> {
   return mod.classifyEdge(edge)
 }
 
-// Sync variant — safe to call only after an async priming call has
+// Sync variants — safe to call only after an async priming call has
 // happened in the same request. We prime in handleSummary before
 // calling synchronously in the fact-bits loop.
 let _syncClassify: ((e: any) => EdgeClassification) | null = null
 let _syncSumDedup: ((edges: any[]) => number) | null = null
+let _syncCurrentCycle: ((now?: Date) => string) | null = null
+let _syncFilterByCycle: ((edges: any[], cycle: string) => any[]) | null = null
 export async function primeClassifier(): Promise<void> {
-  if (_syncClassify && _syncSumDedup) return
+  if (_syncClassify && _syncSumDedup && _syncCurrentCycle && _syncFilterByCycle) return
   const mod = await loadTaxonomyModule()
   _syncClassify = mod.classifyEdge
   _syncSumDedup = mod.sumMonetaryEdgesDedup
+  _syncCurrentCycle = mod.currentCycle
+  _syncFilterByCycle = mod.filterEdgesByCycle
 }
 export function classifyEdgeSync(edge: any): EdgeClassification {
   if (!_syncClassify) {
@@ -84,6 +88,25 @@ export function sumMonetaryEdgesDedupSync(edges: any[]): number {
     throw new Error("sumMonetaryEdgesDedupSync called before primeClassifier()")
   }
   return _syncSumDedup(edges)
+}
+
+// FEC 2-year cycle label for the current system date (e.g. "2026").
+// Override via DM_CURRENT_CYCLE env var for tests / snapshots.
+export function currentCycleSync(now?: Date): string {
+  if (!_syncCurrentCycle) {
+    throw new Error("currentCycleSync called before primeClassifier()")
+  }
+  return _syncCurrentCycle(now)
+}
+
+// Filter edges by cycle. Excludes null-cycle edges (fec-api
+// lifetime-cumulative aggregates) — those must never appear in
+// cycle-scoped totals.
+export function filterEdgesByCycleSync(edges: any[], cycle: string): any[] {
+  if (!_syncFilterByCycle) {
+    throw new Error("filterEdgesByCycleSync called before primeClassifier()")
+  }
+  return _syncFilterByCycle(edges, cycle)
 }
 
 export const CATEGORIES = {

@@ -280,6 +280,54 @@ test("sumMonetaryEdgesDedup: empty input returns 0", () => {
   assert.equal(sumMonetaryEdgesDedup([]), 0)
 })
 
+// ─── Cycle scope helpers ──────────────────────────────────────────
+
+const { currentCycle, filterEdgesByCycle } = require("./lib/edge-role-taxonomy.cjs")
+
+test("currentCycle: even year returns itself", () => {
+  assert.equal(currentCycle(new Date("2026-04-22T00:00:00Z")), "2026")
+  assert.equal(currentCycle(new Date("2024-11-15T00:00:00Z")), "2024")
+})
+
+test("currentCycle: odd year returns the next even year (FEC convention)", () => {
+  assert.equal(currentCycle(new Date("2025-07-01T00:00:00Z")), "2026")
+  assert.equal(currentCycle(new Date("2023-03-10T00:00:00Z")), "2024")
+})
+
+test("currentCycle: DM_CURRENT_CYCLE env var overrides", () => {
+  const prev = process.env.DM_CURRENT_CYCLE
+  process.env.DM_CURRENT_CYCLE = "2020"
+  assert.equal(currentCycle(new Date("2026-04-22T00:00:00Z")), "2020")
+  if (prev == null) delete process.env.DM_CURRENT_CYCLE
+  else process.env.DM_CURRENT_CYCLE = prev
+})
+
+test("filterEdgesByCycle: matches exact cycle", () => {
+  const edges = [
+    { cycle: "2020", amount: 1 },
+    { cycle: "2024", amount: 2 },
+    { cycle: 2020, amount: 3 }, // numeric form — stringified on filter
+    { cycle: "2026", amount: 4 },
+  ]
+  const got = filterEdgesByCycle(edges, "2020")
+  assert.equal(got.length, 2)
+})
+
+test("filterEdgesByCycle: EXCLUDES null-cycle edges (lifetime-cumulative fec-api aggregates)", () => {
+  const edges = [
+    { cycle: "2026", amount: 1000 },
+    { cycle: null, amount: 500, metadata: { cycle_attribution: "lifetime-cumulative" } },
+    { cycle: "2026", amount: 250 },
+  ]
+  const got = filterEdgesByCycle(edges, "2026")
+  assert.equal(got.length, 2,
+    "null-cycle edges represent lifetime aggregates that can't be attributed to any cycle — must NEVER appear in cycle-scoped totals")
+})
+
+test("filterEdgesByCycle: empty list returns empty", () => {
+  assert.deepEqual(filterEdgesByCycle([], "2026"), [])
+})
+
 // ─── Sanity: every CATEGORIES entry has metadata ─────────────────
 
 test("every category has full metadata (no dangling enums)", () => {

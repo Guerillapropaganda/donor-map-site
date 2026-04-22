@@ -68,6 +68,17 @@ interface AskResponse {
     ie_support: number
     ie_oppose: number
     narrative: string
+    current_cycle: {
+      cycle: string
+      summary_total: number
+      direct_received: number
+      direct_received_count: number
+      ie_support: number
+      ie_oppose: number
+      direct_given: number
+      has_activity: boolean
+      narrative: string
+    }
   } | null
   visual_flow?: string
   is_this_legal?: string
@@ -323,6 +334,27 @@ function initAskPanel() {
     // 2. Headline answer
     if (r.answer) {
       blocks.push(`<div class="ask-answer">${renderRichText(r.answer)}</div>`)
+    }
+
+    // 2a-1. Current-cycle card — leads with "what's happening NOW"
+    // (OpenSecrets-default-style mental model). Politicians only;
+    // present only when raise_reconciliation is set. Renders above
+    // the lifetime card so readers see the active cycle first.
+    if (r.raise_reconciliation?.current_cycle) {
+      const cc = r.raise_reconciliation.current_cycle
+      blocks.push(`<div class="ask-current-cycle">`)
+      blocks.push(`  <div class="ask-section-label ask-current-cycle-label">Current cycle (${esc(cc.cycle)})</div>`)
+      blocks.push(`  <div class="ask-current-cycle-narrative">${renderAndGloss(cc.narrative)}</div>`)
+      if (cc.has_activity) {
+        blocks.push(`  <div class="ask-current-cycle-stats">`)
+        if (cc.summary_total > 0) blocks.push(`    <div class="ask-current-cycle-stat"><span class="ask-current-cycle-key">Cycle raise total</span><span class="ask-current-cycle-val">${esc(fmtUsd(cc.summary_total))}</span><span class="ask-current-cycle-cite">[fec-candidate-summary]</span></div>`)
+        if (cc.direct_received > 0) blocks.push(`    <div class="ask-current-cycle-stat"><span class="ask-current-cycle-key">Named donors traced</span><span class="ask-current-cycle-val">${esc(fmtUsd(cc.direct_received))} from ${cc.direct_received_count} donor${cc.direct_received_count === 1 ? "" : "s"}</span></div>`)
+        if (cc.ie_support > 0) blocks.push(`    <div class="ask-current-cycle-stat"><span class="ask-current-cycle-key">Outside support (IE)</span><span class="ask-current-cycle-val">${esc(fmtUsd(cc.ie_support))} — not received</span></div>`)
+        if (cc.ie_oppose > 0) blocks.push(`    <div class="ask-current-cycle-stat"><span class="ask-current-cycle-key">Spent against them (IE-oppose)</span><span class="ask-current-cycle-val">${esc(fmtUsd(cc.ie_oppose))}</span></div>`)
+        if (cc.direct_given > 0) blocks.push(`    <div class="ask-current-cycle-stat"><span class="ask-current-cycle-key">Gave politically this cycle</span><span class="ask-current-cycle-val">${esc(fmtUsd(cc.direct_given))}</span></div>`)
+        blocks.push(`  </div>`)
+      }
+      blocks.push(`</div>`)
     }
 
     // 2a. Raise reconciliation — closes the "$6.2M in / $465M out,
