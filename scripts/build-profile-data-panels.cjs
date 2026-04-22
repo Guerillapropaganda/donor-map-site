@@ -63,8 +63,21 @@ function normalizeTitle(title) {
   return String(title || "").replace(/^_/, "").replace(/\s+Master Profile.*$/i, "").trim()
 }
 // Sum monetary-detail entries per donor name and return a sorted list of
-// {name, amount} from the per-profile artifact. Excludes ie-opposition
-// spend (that lives in a separate bucket already).
+// {name, amount}. Phase 5: only entries whose role represents an actual
+// donor→recipient contribution count — excludes ie-support (super-PAC
+// outside spending the recipient never received), campaign-expenditure
+// (vendor payments, politician → vendor outflows that were being mis-
+// routed as donor entries), and ie-oppose (already isolated by the
+// artifact builder but double-filter here defensively).
+const DONOR_ROLES = new Set([
+  "direct-contribution",
+  "employee-contributions",
+  "coordinated-party-expense",
+  "party-coordinated",
+  "527-contribution",
+  "philanthropic-grant",
+  "", // legacy entries without role — err on side of including (most are pas2 direct)
+])
 function topDonorsFromArtifact(profileTitle, limit) {
   const a = loadArtifact()
   const entry = a[normalizeTitle(profileTitle)]
@@ -74,6 +87,7 @@ function topDonorsFromArtifact(profileTitle, limit) {
   for (const d of md) {
     if (!d || !d.name) continue
     if ((d.confidence || 0) < 0.7) continue
+    if (!DONOR_ROLES.has(d.role || "")) continue
     sum.set(d.name, (sum.get(d.name) || 0) + (Number(d.amount) || 0))
   }
   return [...sum.entries()]

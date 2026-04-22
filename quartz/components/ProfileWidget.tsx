@@ -251,10 +251,13 @@ const ProfileWidget: QuartzComponent = ({
 
   // ── FLOW TAB: Top donors with sector + dollar amounts ──
   // monetary-detail has per-connection amounts from the canonical edge store.
-  // As of the support/oppose split, monetary-detail contains ONLY legitimate
-  // inflows (direct contributions + IE-support). IE-opposition edges live
-  // in ie-opposition-detail and are surfaced separately as opposition.
-  type MonetaryDetail = { name: string; amount: number; cycle: string; confidence: number }
+  // Phase 5 contract: ONLY direct contributions (direct-contribution,
+  // employee-contributions, coordinated-party-expense, party-coordinated,
+  // 527-contribution, philanthropic-grant) — i.e. money the recipient
+  // actually received. IE-support moved to ie-support-detail. IE-oppose
+  // lives in ie-opposition-detail. Campaign expenditures (politician →
+  // vendor outflows) are excluded entirely.
+  type MonetaryDetail = { name: string; amount: number; cycle: string; confidence: number; role?: string }
   const monetaryDetail: MonetaryDetail[] = (rels as any)?.["monetary-detail"] ?? []
   const ieOppositionDetail: MonetaryDetail[] = (rels as any)?.["ie-opposition-detail"] ?? []
   // Aggregate: sum amounts across cycles per donor, filter by confidence >= 0.7

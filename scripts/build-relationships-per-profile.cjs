@@ -54,6 +54,7 @@
 const fs = require('fs');
 const path = require('path');
 const { loadEdges } = require('./lib/relationships-store.cjs');
+const { classifyEdge, CATEGORIES } = require('./lib/edge-role-taxonomy.cjs');
 
 const ROOT = path.join(__dirname, '..');
 const OUTPUT = path.join(ROOT, 'data', 'relationships-per-profile.json');
@@ -99,9 +100,19 @@ function main() {
         // politicians it spent against.
         'ie-opposition-targets': [],
         'ie-opposition-detail': [],
+        // IE-SUPPORT (mirrors ie-oppose shape): PACs that spent FOR this
+        // profile and the targets a PAC spent FOR. Split out from
+        // `monetary-detail` / `donors` in Phase 5 so auto-block "Top
+        // donors" tables stop surfacing super-PACs as if they were direct
+        // donors — the politician never received that money.
+        'ie-supported-by': [],
+        'ie-support-targets': [],
+        'ie-support-detail': [],
         stories: [],
         'government-contracts': [],
-        // Monetary detail: { name, amount, cycle, confidence }[] for rendering dollar amounts
+        // Monetary detail: { name, amount, cycle, confidence, role }[]
+        // Phase 5: `role` added so consumers can filter (topDonorsFromArtifact
+        // excludes ie-support and campaign-expenditure).
         'monetary-detail': [],
         'contract-detail': [],
       });
@@ -111,13 +122,16 @@ function main() {
   function addUnique(arr, value) {
     if (!arr.includes(value)) arr.push(value);
   }
-  function addMonetaryDetail(arr, name, amount, cycle, confidence) {
-    // Dedup by name+cycle, keep highest amount
-    const existing = arr.find(d => d.name === name && d.cycle === cycle)
+  function addMonetaryDetail(arr, name, amount, cycle, confidence, role) {
+    // Dedup by name+cycle+role, keep highest amount. Role added Phase 5
+    // so entries like "SEIU $5K direct-contribution 2024" and "SEIU $10K
+    // ie-support 2024" coexist as distinct rows rather than being deduped
+    // as one.
+    const existing = arr.find(d => d.name === name && d.cycle === cycle && d.role === role)
     if (existing) {
       if (amount > existing.amount) existing.amount = amount
     } else {
-      arr.push({ name, amount: amount || 0, cycle: cycle || '', confidence: confidence || 0 })
+      arr.push({ name, amount: amount || 0, cycle: cycle || '', confidence: confidence || 0, role: role || '' })
     }
   }
 
@@ -136,31 +150,64 @@ function main() {
         break;
       }
       case 'monetary': {
-        if (edge.role === 'ie-oppose') {
-          // IE spending AGAINST the target. NOT a donor relationship.
-          // Route to ie-opposed-by (on target) and ie-opposition-targets
-          // (on spender) so downstream views render these as opposition,
-          // not as financial support.
+        // Phase 5: classifier-driven routing. Before this, every monetary
+        // edge was treated as a donor relationship, which is how Bernie
+        // Sanders' profile ended up with "OLD TOWNE MEDIA $83M" (his ad-
+        // buy vendor) in his donors list. Now campaign expenditures are
+        // skipped, IE support and opposition route to their dedicated
+        // buckets, and only actual-received contributions appear in
+        // monetary-detail / donors / politicians-funded.
+        let cls;
+        try { cls = classifyEdge(edge); }
+        catch { cls = null; }
+        const category = cls?.category;
+        const role = edge.role || (cls ? cls.category : '');
+
+        // Campaign expenditures (politician → vendor). Vendor's entry
+        // could still be interesting for ops analysis but renders as
+        // noise on a donor/politician profile; skip entirely.
+        if (category === CATEGORIES.CAMPAIGN_EXPENDITURE) {
+          skippedType++;
+          break;
+        }
+
+        // IE OPPOSE — existing behavior
+        if (category === CATEGORIES.IE_OPPOSE) {
           const targetEntry = ensure(to);
           addUnique(targetEntry['ie-opposed-by'], from);
-          addMonetaryDetail(targetEntry['ie-opposition-detail'], from, edge.amount, edge.cycle, edge.confidence);
+          addMonetaryDetail(targetEntry['ie-opposition-detail'], from, edge.amount, edge.cycle, edge.confidence, role);
           const spenderEntry = ensure(from);
           addUnique(spenderEntry['ie-opposition-targets'], to);
-          addMonetaryDetail(spenderEntry['ie-opposition-detail'], to, edge.amount, edge.cycle, edge.confidence);
+          addMonetaryDetail(spenderEntry['ie-opposition-detail'], to, edge.amount, edge.cycle, edge.confidence, role);
           mapped++;
           break;
         }
-        // Direct contribution (role=null) or IE-support (role='ie-support')
-        // or employee aggregate (role='employee-contributions') — all are
-        // genuine inflows to the recipient from the donor's side.
-        //   - recipient.donors                  ← donor
-        //   - donor.politicians-funded          ← recipient (if recipient is political)
+
+        // IE SUPPORT — NEW routing (Phase 5). Previously lumped into
+        // `donors` and `monetary-detail`, producing the NNU-as-Bernie-donor
+        // bug. Now a parallel structure to ie-oppose.
+        if (category === CATEGORIES.IE_SUPPORT) {
+          const targetEntry = ensure(to);
+          addUnique(targetEntry['ie-supported-by'], from);
+          addMonetaryDetail(targetEntry['ie-support-detail'], from, edge.amount, edge.cycle, edge.confidence, role);
+          const spenderEntry = ensure(from);
+          addUnique(spenderEntry['ie-support-targets'], to);
+          addMonetaryDetail(spenderEntry['ie-support-detail'], to, edge.amount, edge.cycle, edge.confidence, role);
+          mapped++;
+          break;
+        }
+
+        // Everything else (direct-contribution, employee-contributions,
+        // coordinated-party-expense, party-coordinated, 527-contribution,
+        // philanthropic-grant) is an actual inflow. Route to monetary-
+        // detail / donors / politicians-funded as before. Role preserved
+        // on each detail entry so downstream consumers can filter.
         const donorEntry = ensure(from);
         addUnique(donorEntry['politicians-funded'], to);
-        addMonetaryDetail(donorEntry['monetary-detail'], to, edge.amount, edge.cycle, edge.confidence);
+        addMonetaryDetail(donorEntry['monetary-detail'], to, edge.amount, edge.cycle, edge.confidence, role);
         const recipientEntry = ensure(to);
         addUnique(recipientEntry.donors, from);
-        addMonetaryDetail(recipientEntry['monetary-detail'], from, edge.amount, edge.cycle, edge.confidence);
+        addMonetaryDetail(recipientEntry['monetary-detail'], from, edge.amount, edge.cycle, edge.confidence, role);
         mapped++;
         break;
       }
