@@ -147,6 +147,14 @@ export const defaultContentPageLayout: PageLayout = {
       },
     }),
     Component.DesktopOnly(Component.Search()),
+    // Profile TOC: custom tab-grouped table of contents for profile
+    // pages. Built client-side after ProfileTabs, groups
+    // .profile-section-card elements by data-tab, clicks switch
+    // tabs + scroll. Only shows when there are ≥3 cards to organize.
+    Component.ConditionalRender({
+      component: Component.DesktopOnly(Component.ProfileTOC()),
+      condition: isProfilePage,
+    }),
     Component.ConditionalRender({
       component: Component.DesktopOnly(Component.TableOfContents()),
       condition: (page) => !isProfilePage(page),
