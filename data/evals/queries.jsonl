@@ -1,0 +1,28 @@
+{"id":"edges_basic_monetary","description":"monetary edges query returns some rows","spec":{"subject":"edges","filters":{"type":"monetary","limit":100}},"expect":{"minTotal":100,"rowFieldExists":["from","to","amount"]}}
+{"id":"edges_related_count","description":"related edges are plentiful after normalizer","spec":{"subject":"edges","filters":{"type":"related","limit":50}},"expect":{"minTotal":1000,"rowFieldExists":["from","to"]}}
+{"id":"edges_political_opposition","description":"political-opposition edges exist","spec":{"subject":"edges","filters":{"type":"political-opposition","limit":20}},"expect":{"minTotal":10,"rowFieldExists":["from","to"]}}
+{"id":"edges_from_aoc","description":"edges originating from AOC","spec":{"subject":"edges","filters":{"from":"Alexandria Ocasio-Cortez","limit":50}},"expect":{"minTotal":1}}
+{"id":"edges_to_bernie","description":"edges pointing to Bernie Sanders","spec":{"subject":"edges","filters":{"to":"Bernie Sanders","limit":50}},"expect":{"minTotal":1}}
+{"id":"edges_min_amount_100k","description":"edges with amount >= 100K","spec":{"subject":"edges","filters":{"min_amount":100000,"limit":100}},"expect":{"minTotal":10,"rowFieldExists":["amount"],"rowFieldMinValue":{"amount":100000}}}
+{"id":"edges_harlan_crow_outflows","description":"Harlan Crow outbound edges (politicians funded)","spec":{"subject":"edges","filters":{"from":"Harlan Crow","limit":50}},"expect":{"minTotal":1}}
+{"id":"edges_mft_outflows","description":"Marble Freedom Trust outflows","spec":{"subject":"edges","filters":{"from":"Marble Freedom Trust","limit":50}},"expect":{"minTotal":1}}
+{"id":"edges_by_source_bidirectional","description":"bidirectional-normalizer produces symmetric edges","spec":{"subject":"edges","filters":{"source":"bidirectional-normalizer","limit":50}},"expect":{"minTotal":1000}}
+{"id":"entities_politician_count","description":"politician entities are indexed","spec":{"subject":"entities","filters":{"entity_type":"politician","limit":50}},"expect":{"minTotal":100,"rowFieldExists":["name","entity_type"]}}
+{"id":"entities_donor_count","description":"donor entities are indexed","spec":{"subject":"entities","filters":{"entity_type":"donor","limit":50}},"expect":{"minTotal":50,"rowFieldExists":["name","entity_type"]}}
+{"id":"entities_corporation_count","description":"corporation entities indexed","spec":{"subject":"entities","filters":{"entity_type":"corporation","limit":50}},"expect":{"minTotal":20}}
+{"id":"entities_nonprofit_count","description":"nonprofit entities indexed","spec":{"subject":"entities","filters":{"entity_type":"nonprofit","limit":20}},"expect":{"minTotal":1}}
+{"id":"entities_search_koch","description":"search for Koch finds entities","spec":{"subject":"entities","filters":{"search":"Koch","limit":20}},"expect":{"minTotal":1,"rowFieldExists":["name"]}}
+{"id":"entities_search_leo","description":"search for Leo finds Leonard Leo + related","spec":{"subject":"entities","filters":{"search":"Leonard Leo","limit":10}},"expect":{"minTotal":1}}
+{"id":"events_policy_housing","description":"housing policy events exist (pol_housing namespace)","spec":{"subject":"events","filters":{"policy_id":"pol_housing","limit":20}},"expect":{"minTotal":1}}
+{"id":"events_policy_healthcare","description":"healthcare policy events","spec":{"subject":"events","filters":{"policy_id":"pol_healthcare","limit":20}},"expect":{"minTotal":1}}
+{"id":"events_policy_student_debt","description":"student debt policy events","spec":{"subject":"events","filters":{"policy_id":"pol_student_debt","limit":20}},"expect":{"minTotal":1}}
+{"id":"limit_clamp_respected","description":"engine clamps excessive limits safely","spec":{"subject":"edges","filters":{"type":"monetary","limit":99999}},"expect":{"minTotal":1}}
+{"id":"cross_party_donors_basic","description":"cross_party_donors composer returns results with {name,d_spend,r_spend,total,balance}","spec":{"subject":"cross_party_donors","filters":{"days":730}},"expect":{"minTotal":1,"rowFieldExists":["name","d_spend","r_spend","total","balance"]}}
+{"id":"top_opposition_donors_housing","description":"top opposition donors on housing policy","spec":{"subject":"top_opposition_donors","filters":{"sector_affected":"housing","limit":10}},"expect":{}}
+{"id":"edges_fec_source","description":"FEC-sourced monetary edges exist","spec":{"subject":"edges","filters":{"source":"fec-bulk","limit":50}},"expect":{"minTotal":1}}
+{"id":"edges_min_confidence_0_9","description":"high-confidence edges are plentiful","spec":{"subject":"edges","filters":{"min_confidence":0.9,"limit":100}},"expect":{"minTotal":100,"rowFieldMinValue":{"confidence":0.9}}}
+{"id":"entities_class_position_upper","description":"upper-bourgeois class entities tagged","spec":{"subject":"entities","filters":{"class_position":"upper-bourgeois","limit":20}},"expect":{}}
+{"id":"entities_tags_approved","description":"entities with approved class tags","spec":{"subject":"entities","filters":{"tags_approved":true,"limit":50}},"expect":{"minTotal":10}}
+{"id":"edges_unbounded_rejected","description":"edges subject without filters throws (unbounded-query gate)","spec":{"subject":"edges"},"expect":{"shouldThrow":true}}
+{"id":"entities_unbounded_rejected","description":"entities subject without filters throws","spec":{"subject":"entities"},"expect":{"shouldThrow":true}}
+{"id":"events_unbounded_rejected","description":"events subject without filters throws","spec":{"subject":"events"},"expect":{"shouldThrow":true}}
