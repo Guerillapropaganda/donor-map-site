@@ -314,12 +314,59 @@ function classifyEdge(edge) {
   }
 }
 
+// ─── Dedup helper for lifetime monetary sums ───────────────────────
+// fec-api ingest writes LIFETIME-CUMULATIVE edges per (from, to,
+// role). fec-pas2 ingest writes per-TRANSACTION edges cycle-accurate.
+// Summing raw across both sources double-counts any (from, to, role)
+// pair where both exist, because the fec-api cumulative number
+// already includes the pas2 transactions.
+//
+// Rule: for each (from, to, role) key, use max(fec-api lifetime
+// amount, sum of pas2 amounts). This handles both the common case
+// (fec-api > pas2, use fec-api) and the stale-fec-api case (9 out
+// of 238 observed; pas2 > fec-api, use pas2 sum).
+//
+// Keys are normalized (lowercased + alphanumeric-only) to catch
+// trivial name variants like "Emily's List" vs "Emilys List". Does
+// NOT handle committee-abbreviation matching ("SMP" vs "Senate
+// Majority PAC") — that requires entity resolution and is out of
+// scope here.
+function sumMonetaryEdgesDedup(edges) {
+  const byKey = new Map()
+  for (const e of edges) {
+    if (!e || typeof e.amount !== "number" || !Number.isFinite(e.amount)) continue
+    const from = normalizeEntityKey(e.from)
+    const to = normalizeEntityKey(e.to)
+    const role = String(e.role || "")
+    const k = from + "|" + to + "|" + role
+    const isLifetime = e.metadata && e.metadata.cycle_attribution === "lifetime-cumulative"
+    if (!byKey.has(k)) byKey.set(k, { lifetimeMax: 0, perCycleSum: 0 })
+    const slot = byKey.get(k)
+    if (isLifetime) {
+      if (e.amount > slot.lifetimeMax) slot.lifetimeMax = e.amount
+    } else {
+      slot.perCycleSum += e.amount
+    }
+  }
+  let total = 0
+  for (const slot of byKey.values()) {
+    total += slot.lifetimeMax > slot.perCycleSum ? slot.lifetimeMax : slot.perCycleSum
+  }
+  return total
+}
+
+function normalizeEntityKey(name) {
+  if (!name) return ""
+  return String(name).toLowerCase().replace(/[^a-z0-9]/g, "")
+}
+
 // ─── Exports ───────────────────────────────────────────────────────
 module.exports = {
   classifyEdge,
+  sumMonetaryEdgesDedup,
   CATEGORIES,
   BUCKETS,
   CATEGORY_META,
   // Exposed for tests + introspection only; not for direct consumer use.
-  _internal: { normalizeRole, lookupCategory, applySourceUpgrade },
+  _internal: { normalizeRole, lookupCategory, applySourceUpgrade, normalizeEntityKey },
 }

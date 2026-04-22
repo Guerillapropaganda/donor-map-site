@@ -2,7 +2,7 @@ import { NextRequest, NextResponse } from "next/server"
 import { createQueryEngine } from "@/lib/query-engine"
 import { requireTier } from "@/lib/auth"
 import { checkDailyLimit, checkPerMinuteLimit } from "@/lib/rate-limit"
-import { primeClassifier, classifyEdgeSync, CATEGORIES } from "@/lib/edge-role-taxonomy"
+import { primeClassifier, classifyEdgeSync, sumMonetaryEdgesDedupSync, CATEGORIES } from "@/lib/edge-role-taxonomy"
 import fs from "node:fs"
 import path from "node:path"
 
@@ -1981,7 +1981,12 @@ async function handleSummary(c: ClassifiedQuestion, question: string, engine: an
     rows: inflowsRaw.rows.filter(isSupport),
   }
   const oppoEdges = inflowsRaw.rows.filter(isOppose)
-  const oppoTotal = oppoEdges.filter((e: any) => e.amount).reduce((a: number, e: any) => a + Number(e.amount), 0)
+  // Dedup-aware total: avoids the fec-api / fec-pas2 double-count
+  // where both sources hold the same (committee → politician) pair
+  // (fec-api = lifetime cumulative, pas2 = per-transaction). Falls
+  // back to raw sum when there's no overlap.
+  await primeClassifier()
+  const oppoTotal = sumMonetaryEdgesDedupSync(oppoEdges)
   const affiliations_from = await engine.query({ subject: "edges", filters: { from: name, type: "affiliation" }, limit: 20 })
   const affiliations_to = await engine.query({ subject: "edges", filters: { to: name, type: "affiliation" }, limit: 20 })
   // Pull additional affiliations from the 990 officer registry so the
@@ -2174,27 +2179,37 @@ async function handleSummary(c: ClassifiedQuestion, question: string, engine: an
   // ADP/OLD-TOWNE bug where payroll + media buys were rendering as
   // political recipients). OpenSecrets treats these distinctly — now
   // so do we.
-  await primeClassifier()
   function classifyForAmount(e: any) {
     try { return classifyEdgeSync(e) } catch { return null }
   }
-  let directInTotal$ = 0, ieSupportInTotal$ = 0
+  // Bucket edges by category, then sum each bucket with dedup-aware
+  // summation. The dedup collapses fec-api (lifetime-cumulative) vs
+  // fec-pas2 (per-cycle) double-counts per (from, to, role) pair.
+  const directInEdges: any[] = []
+  const ieSupportInEdges: any[] = []
   for (const e of inflows.rows || []) {
     if (!e.amount) continue
     const c = classifyForAmount(e)
     if (!c) continue
-    if (c.category === CATEGORIES.IE_SUPPORT) ieSupportInTotal$ += Number(e.amount)
-    else if (c.countsAsMoneyReceived) directInTotal$ += Number(e.amount)
+    if (c.category === CATEGORIES.IE_SUPPORT) ieSupportInEdges.push(e)
+    else if (c.countsAsMoneyReceived) directInEdges.push(e)
   }
-  let directOutTotal$ = 0, expenditureOutTotal$ = 0, ieSupportOutTotal$ = 0
+  const expenditureOutEdges: any[] = []
+  const ieSupportOutEdges: any[] = []
+  const directOutEdges: any[] = []
   for (const e of outflows.rows || []) {
     if (!e.amount) continue
     const c = classifyForAmount(e)
     if (!c) continue
-    if (c.category === CATEGORIES.CAMPAIGN_EXPENDITURE) expenditureOutTotal$ += Number(e.amount)
-    else if (c.category === CATEGORIES.IE_SUPPORT) ieSupportOutTotal$ += Number(e.amount)
-    else if (c.countsAsMoneyGiven) directOutTotal$ += Number(e.amount)
+    if (c.category === CATEGORIES.CAMPAIGN_EXPENDITURE) expenditureOutEdges.push(e)
+    else if (c.category === CATEGORIES.IE_SUPPORT) ieSupportOutEdges.push(e)
+    else if (c.countsAsMoneyGiven) directOutEdges.push(e)
   }
+  const directInTotal$ = sumMonetaryEdgesDedupSync(directInEdges)
+  const ieSupportInTotal$ = sumMonetaryEdgesDedupSync(ieSupportInEdges)
+  const directOutTotal$ = sumMonetaryEdgesDedupSync(directOutEdges)
+  const ieSupportOutTotal$ = sumMonetaryEdgesDedupSync(ieSupportOutEdges)
+  const expenditureOutTotal$ = sumMonetaryEdgesDedupSync(expenditureOutEdges)
   const parts: string[] = [`**${name}** — ${typeSector}.`]
   const factBits: string[] = []
   if (directInTotal$ > 0) factBits.push(`received ${fmtUsd(directInTotal$)} directly from ${inflows.total} donor edge${inflows.total === 1 ? "" : "s"}`)

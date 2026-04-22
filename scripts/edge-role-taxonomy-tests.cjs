@@ -216,6 +216,70 @@ test("null edge throws", () => {
   assert.throws(() => classifyEdge(null), /edge is required/)
 })
 
+// ─── Dedup helper (sumMonetaryEdgesDedup) ─────────────────────────
+
+const { sumMonetaryEdgesDedup } = require("./lib/edge-role-taxonomy.cjs")
+
+test("sumMonetaryEdgesDedup: single edge returns its amount", () => {
+  const total = sumMonetaryEdgesDedup([
+    { from: "Emily's List", to: "Josh Hawley", role: "ie-oppose", amount: 4400000 },
+  ])
+  assert.equal(total, 4400000)
+})
+
+test("sumMonetaryEdgesDedup: fec-api lifetime wins when > pas2 sum", () => {
+  const total = sumMonetaryEdgesDedup([
+    { from: "Emily's List", to: "Josh Hawley", role: "ie-oppose", amount: 4400000 }, // pas2 2018
+    { from: "Emily's List", to: "Josh Hawley", role: "ie-oppose", amount: 1000000 }, // pas2 2020
+    { from: "Emilys List", to: "Josh Hawley", role: "ie-oppose", amount: 8500000,    // fec-api cumulative; note apostrophe diff
+      metadata: { cycle_attribution: "lifetime-cumulative" } },
+  ])
+  assert.equal(total, 8500000,
+    "fec-api cumulative ($8.5M) already includes the pas2 transactions ($4.4M + $1M) — must NOT double-count")
+})
+
+test("sumMonetaryEdgesDedup: pas2 sum wins when fec-api is stale (the 9 observed cases)", () => {
+  const total = sumMonetaryEdgesDedup([
+    { from: "NRSC", to: "Cortez Masto", role: "ie-oppose", amount: 8000000 }, // pas2 cycle A
+    { from: "NRSC", to: "Cortez Masto", role: "ie-oppose", amount: 3000000 }, // pas2 cycle B
+    { from: "NRSC", to: "Cortez Masto", role: "ie-oppose", amount: 4359000,   // stale fec-api
+      metadata: { cycle_attribution: "lifetime-cumulative" } },
+  ])
+  assert.equal(total, 11000000, "When fec-api is stale (4.3M) < pas2 sum (11M), use pas2 sum — OBSERVED real pair")
+})
+
+test("sumMonetaryEdgesDedup: case-insensitive + apostrophe-normalized key", () => {
+  const total = sumMonetaryEdgesDedup([
+    { from: "EMILY'S LIST", to: "Josh Hawley", role: "ie-oppose", amount: 4000000 },
+    { from: "emily's list", to: "Josh Hawley", role: "ie-oppose", amount: 1000000,
+      metadata: { cycle_attribution: "lifetime-cumulative" } },
+  ])
+  assert.equal(total, 4000000,
+    "case/apostrophe variants normalize to same key: max(pas2 sum=4M, lifetime=1M) = 4M — no double-count across case variants")
+})
+
+test("sumMonetaryEdgesDedup: different roles NOT merged (IE-support vs IE-oppose)", () => {
+  const total = sumMonetaryEdgesDedup([
+    { from: "PAC A", to: "Politician", role: "ie-support", amount: 1000000 },
+    { from: "PAC A", to: "Politician", role: "ie-oppose", amount: 500000 },
+  ])
+  assert.equal(total, 1500000, "Different roles are distinct — support and oppose never merge")
+})
+
+test("sumMonetaryEdgesDedup: skips null / non-numeric amounts", () => {
+  const total = sumMonetaryEdgesDedup([
+    { from: "A", to: "B", role: "r", amount: 1000 },
+    { from: "A", to: "B", role: "r", amount: null },
+    { from: "A", to: "B", role: "r", amount: undefined },
+    { from: "A", to: "B", role: "r" },
+  ])
+  assert.equal(total, 1000)
+})
+
+test("sumMonetaryEdgesDedup: empty input returns 0", () => {
+  assert.equal(sumMonetaryEdgesDedup([]), 0)
+})
+
 // ─── Sanity: every CATEGORIES entry has metadata ─────────────────
 
 test("every category has full metadata (no dangling enums)", () => {

@@ -63,16 +63,27 @@ export async function classifyEdge(edge: any): Promise<EdgeClassification> {
 // happened in the same request. We prime in handleSummary before
 // calling synchronously in the fact-bits loop.
 let _syncClassify: ((e: any) => EdgeClassification) | null = null
+let _syncSumDedup: ((edges: any[]) => number) | null = null
 export async function primeClassifier(): Promise<void> {
-  if (_syncClassify) return
+  if (_syncClassify && _syncSumDedup) return
   const mod = await loadTaxonomyModule()
   _syncClassify = mod.classifyEdge
+  _syncSumDedup = mod.sumMonetaryEdgesDedup
 }
 export function classifyEdgeSync(edge: any): EdgeClassification {
   if (!_syncClassify) {
     throw new Error("classifyEdgeSync called before primeClassifier()")
   }
   return _syncClassify(edge)
+}
+// Dedupe-aware sum for monetary edges. Resolves the fec-api
+// (lifetime-cumulative) vs fec-pas2 (per-transaction) double-count
+// by using max(lifetime, sum-of-per-cycle) per (from, to, role) pair.
+export function sumMonetaryEdgesDedupSync(edges: any[]): number {
+  if (!_syncSumDedup) {
+    throw new Error("sumMonetaryEdgesDedupSync called before primeClassifier()")
+  }
+  return _syncSumDedup(edges)
 }
 
 export const CATEGORIES = {
