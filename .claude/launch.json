@@ -44,6 +44,13 @@
       "runtimeArgs": ["/c", "cd ops && set OPS_AUTH_BYPASS=1&& npx next dev -p %PORT%"],
       "port": 3334,
       "autoPort": true
+    },
+    {
+      "name": "ops-ask-3333",
+      "runtimeExecutable": "cmd",
+      "runtimeArgs": ["/c", "cd ops && set OPS_AUTH_BYPASS=1&& npx next dev -p 3333"],
+      "port": 3333,
+      "autoPort": false
     }
   ]
 }

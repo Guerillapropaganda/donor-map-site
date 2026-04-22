@@ -123,16 +123,44 @@ function renderRichText(text: string): string {
 // Wrap glossary terms in <span class="ask-gloss" data-def="..."> so CSS
 // tooltips can show their definition on hover. Run AFTER renderRichText
 // so the existing HTML doesn't get tokenized.
+//
+// Two bugs we're defending against:
+//   1. Matching a glossary term inside a previously-inserted data-def
+//      attribute (e.g. "dark money" appears inside the 501(c)(4)
+//      definition; the next pass would match it there and nest a
+//      <span> inside the attribute, whose `"` closed the outer
+//      attribute and leaked text into the page).
+//   2. Per-term sequential passes: once term A is substituted, its
+//      injected <span> contains term B's keyword inside the attr.
+//
+// Defenses: (a) tokenize into tag vs text chunks, only substitute in
+// text; (b) within a text chunk, do a SINGLE-PASS combined regex so
+// one term's replacement output is never fed to another term's regex.
+// Observed bleeding on Leonard Leo's Ask response, 2026-04-22.
 function decorateGlossary(html: string): string {
-  for (const term of Object.keys(GLOSSARY)) {
-    const def = GLOSSARY[term]
-    // Build a case-insensitive regex that matches the term as a whole
-    // word and doesn't already sit inside an HTML attribute.
-    const escaped = term.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
-    const re = new RegExp(`(?<![A-Za-z0-9\\-])(${escaped})(?![A-Za-z0-9\\-])`, "gi")
-    html = html.replace(re, (match) => `<span class="ask-gloss" data-def="${esc(def)}">${match}</span>`)
+  const terms = Object.keys(GLOSSARY).sort((a, b) => b.length - a.length)
+  if (terms.length === 0) return html
+  const escaped = terms.map((t) => t.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"))
+  const combined = new RegExp(
+    `(?<![A-Za-z0-9\\-])(${escaped.join("|")})(?![A-Za-z0-9\\-])`,
+    "gi",
+  )
+  // Case-insensitive lookup: map lowercase → original key
+  const lcIndex: Record<string, string> = {}
+  for (const t of terms) lcIndex[t.toLowerCase()] = t
+
+  const parts = html.split(/(<[^>]*>)/g)
+  for (let i = 0; i < parts.length; i++) {
+    const seg = parts[i]
+    if (!seg || seg.startsWith("<")) continue
+    parts[i] = seg.replace(combined, (match) => {
+      const term = lcIndex[match.toLowerCase()]
+      if (!term) return match
+      const def = GLOSSARY[term]
+      return `<span class="ask-gloss" data-def="${esc(def)}">${match}</span>`
+    })
   }
-  return html
+  return parts.join("")
 }
 
 function renderAndGloss(text: string): string {

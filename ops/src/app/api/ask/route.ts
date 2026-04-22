@@ -2,6 +2,7 @@ import { NextRequest, NextResponse } from "next/server"
 import { createQueryEngine } from "@/lib/query-engine"
 import { requireTier } from "@/lib/auth"
 import { checkDailyLimit, checkPerMinuteLimit } from "@/lib/rate-limit"
+import { primeClassifier, classifyEdgeSync, CATEGORIES } from "@/lib/edge-role-taxonomy"
 import fs from "node:fs"
 import path from "node:path"
 
@@ -2138,14 +2139,46 @@ async function handleSummary(c: ClassifiedQuestion, question: string, engine: an
 
   // Build a richer answer line with the headline totals so users aren't
   // staring at just "donor in Dark Money." — that read as broken.
-  // Numbers come from the same filtered inflows/outflows/boards in scope.
-  const inTotal$ = (inflows.rows || []).filter((e: any) => e.amount).reduce((a: number, e: any) => a + Number(e.amount), 0)
-  const outTotal$ = (outflows.rows || []).filter((e: any) => e.amount).reduce((a: number, e: any) => a + Number(e.amount), 0)
+  //
+  // Category split via the shared classifier (scripts/lib/edge-role-
+  // taxonomy.cjs) so "tracked inflows" no longer conflates
+  // direct-contributions with IE-support (the Bernie $6.2M bug where
+  // NNU's $4.7M super-PAC ad spending was being counted as a donation
+  // to Bernie, even though he never received that money). Same split
+  // for outflows excludes campaign-expenditure (the $465M Bernie-to-
+  // ADP/OLD-TOWNE bug where payroll + media buys were rendering as
+  // political recipients). OpenSecrets treats these distinctly — now
+  // so do we.
+  await primeClassifier()
+  function classifyForAmount(e: any) {
+    try { return classifyEdgeSync(e) } catch { return null }
+  }
+  let directInTotal$ = 0, ieSupportInTotal$ = 0
+  for (const e of inflows.rows || []) {
+    if (!e.amount) continue
+    const c = classifyForAmount(e)
+    if (!c) continue
+    if (c.category === CATEGORIES.IE_SUPPORT) ieSupportInTotal$ += Number(e.amount)
+    else if (c.countsAsMoneyReceived) directInTotal$ += Number(e.amount)
+  }
+  let directOutTotal$ = 0, expenditureOutTotal$ = 0, ieSupportOutTotal$ = 0
+  for (const e of outflows.rows || []) {
+    if (!e.amount) continue
+    const c = classifyForAmount(e)
+    if (!c) continue
+    if (c.category === CATEGORIES.CAMPAIGN_EXPENDITURE) expenditureOutTotal$ += Number(e.amount)
+    else if (c.category === CATEGORIES.IE_SUPPORT) ieSupportOutTotal$ += Number(e.amount)
+    else if (c.countsAsMoneyGiven) directOutTotal$ += Number(e.amount)
+  }
   const parts: string[] = [`**${name}** — ${typeSector}.`]
   const factBits: string[] = []
-  if (inTotal$ > 0) factBits.push(`${fmtUsd(inTotal$)} in tracked inflows from ${inflows.total} donor edge${inflows.total === 1 ? "" : "s"}`)
-  if (outTotal$ > 0) factBits.push(`${fmtUsd(outTotal$)} in outflows across ${outflows.total} recipient edge${outflows.total === 1 ? "" : "s"}`)
-  if (oppoTotal > 0) factBits.push(`${fmtUsd(oppoTotal)} in attack (IE-oppose) spending from ${oppoEdges.length} edge${oppoEdges.length === 1 ? "" : "s"}`)
+  if (directInTotal$ > 0) factBits.push(`received ${fmtUsd(directInTotal$)} directly from ${inflows.total} donor edge${inflows.total === 1 ? "" : "s"}`)
+  if (ieSupportInTotal$ > 0) factBits.push(`plus ${fmtUsd(ieSupportInTotal$)} in outside spending (IE) supporting them — not received by them`)
+  if (directOutTotal$ > 0) factBits.push(`gave ${fmtUsd(directOutTotal$)} politically${ieSupportOutTotal$ > 0 ? ` (plus ${fmtUsd(ieSupportOutTotal$)} in IE-support ads)` : ""}`)
+  // Campaign expenditures (payroll, media buys, vendors) are deliberately
+  // NOT surfaced in the snapshot — those are operational, not political
+  // giving. They live on a dedicated Expenditures tab/follow-up.
+  if (oppoTotal > 0) factBits.push(`${fmtUsd(oppoTotal)} spent against them (IE-oppose) across ${oppoEdges.length} edge${oppoEdges.length === 1 ? "" : "s"}`)
   if (boards.length > 0) factBits.push(`${boards.length} board / affiliation seat${boards.length === 1 ? "" : "s"}`)
   if (officers.length > 0) factBits.push(`${officers.length} tracked officer${officers.length === 1 ? "" : "s"}`)
   if (factBits.length) parts.push(factBits.join(" · "))
@@ -3666,6 +3699,9 @@ async function handleQuestion(question: string): Promise<AskResult> {
 const DEV_CORS_ORIGINS = new Set([
   "http://localhost:8080",
   "http://localhost:8081",
+  "http://localhost:8095",
+  "http://localhost:8097",
+  "http://localhost:8098",
   "http://localhost:3000",
   "http://127.0.0.1:8080",
 ])
