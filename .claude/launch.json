@@ -20,6 +20,12 @@
       "port": 8095
     },
     {
+      "name": "static-preview-worktree",
+      "runtimeExecutable": "node",
+      "runtimeArgs": [".claude/static-server.cjs", "8098"],
+      "port": 8098
+    },
+    {
       "name": "prototype",
       "runtimeExecutable": "node",
       "runtimeArgs": ["prototype/server.cjs", "8096"],

@@ -150,6 +150,18 @@ function wrapProfileSections() {
   var profileType = phEl.getAttribute('data-profile-type') || 'politician';
   article.dataset.profileType = profileType;
 
+  // If the server-side transformer (wrap-profile-sections.ts) already
+  // wrapped content into .profile-section-card divs, skip this client
+  // re-wrapping — running both produces nested cards and ProfileTabs
+  // hides prose because the outer card's data-tab wins over the inner.
+  // Detection: any direct-child .profile-section-card under <article>
+  // means the server pass ran. Mark sectionsWrapped so ProfileTabs and
+  // ProfileTOC downstream keep working with the server-wrapped cards.
+  if (article.querySelector(':scope > .profile-section-card')) {
+    article.dataset.sectionsWrapped = 'true';
+    return;
+  }
+
   var children = Array.from(article.children);
   // Prefer h2 as the section boundary, but fall back to h3 when a profile
   // authored in Obsidian uses h3 as its top-level section heading.
