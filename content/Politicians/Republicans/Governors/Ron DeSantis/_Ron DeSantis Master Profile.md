@@ -105,10 +105,10 @@ bills-sponsored: 37
 | Committee | Total |
 |---|---:|
 | SFA FUND, INC | $24.3M |
-| MAKE AMERICA GREAT AGAIN INC. | $23.2M |
+| MAGA Inc | $23.2M |
 | UNIDOSUS ACTION FUND, INC. | $20K |
 | DW PAC | $16K |
-| MOVEON.ORG | $16K |
+| MOVEON.ORG POLITICAL ACTION | $16K |
 
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->

@@ -112,7 +112,7 @@ career-total-source: "FEC weball summary (cycles 2020, 2022, 2024, 2026)"
 
 | Committee | Total |
 |---|---:|
-| FAIRSHAKE | $813K |
+| Fairshake PAC | $813K |
 | AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION | $573K |
 | CONGRESSIONAL LEADERSHIP FUND | $225K |
 | OPPORTUNITY MATTERS FUND, INC. | $160K |

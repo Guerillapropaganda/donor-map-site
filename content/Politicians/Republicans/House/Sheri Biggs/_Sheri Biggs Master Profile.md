@@ -81,7 +81,7 @@ corroboration-count: 3
 
 | Channel | Lifetime $ |
 |---|---:|
-| Direct PAC donors | $508K |
+| Direct PAC donors | $509K |
 | Super-PAC IE support (FOR) | $394K |
 
 **Top 10 direct PAC donors (lifetime):**

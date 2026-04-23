@@ -79,7 +79,7 @@ corroboration-count: 3
 
 | Channel | Lifetime $ |
 |---|---:|
-| Direct PAC donors | $800K |
+| Direct PAC donors | $802K |
 | Super-PAC IE support (FOR) | $819K |
 | Super-PAC IE opposition (AGAINST) | $1.2M |
 

@@ -114,7 +114,7 @@ corroboration-count: 3
 | Committee | Total |
 |---|---:|
 | CONGRESSIONAL LEADERSHIP FUND | $7.0M |
-| NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE EXPENDITURES | $2.0M |
+| NRCC | $2.0M |
 | PROTECT AND SERVE PAC | $18K |
 
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*

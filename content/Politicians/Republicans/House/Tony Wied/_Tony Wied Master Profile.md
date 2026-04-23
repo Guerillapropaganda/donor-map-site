@@ -85,7 +85,7 @@ career-total-source: "FEC weball summary (cycles 2024, 2026)"
 
 | Channel | Lifetime $ |
 |---|---:|
-| Direct PAC donors | $702K |
+| Direct PAC donors | $712K |
 | Super-PAC IE support (FOR) | $6K |
 | Super-PAC IE opposition (AGAINST) | $693K |
 
@@ -99,17 +99,17 @@ career-total-source: "FEC weball summary (cycles 2024, 2026)"
 | ON WISCONSIN PAC, INC. | $15K | 3 |
 | THE EYE OF THE TIGER POLITICAL ACTION COMMITTEE | $15K | 3 |
 | NATIONAL ASSOCIATION OF CONVENIENCE STORES POLITICAL ACTION COMMITTEE | $15K | 3 |
-| REALTORS POLITICAL ACTION COMMITTEE | $13K | 4 |
+| NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE | $13K | 4 |
 | HOME DEPOT INC BETTER GOVERNMENT COMMITTEE;THE | $13K | 3 |
+| BUCKEYE LIBERTY POLITICAL ACTION COMMITTEE | $12K | 3 |
 | MR. SOUTHERN MISSOURIAN IN THE HOUSE PAC | $10K | 2 |
-| E-PAC | $10K | 2 |
 
 **Top 5 super-PAC IE support (FOR this candidate):**
 
 | Committee | Total |
 |---|---:|
 | NATIONAL RIGHT TO LIFE VICTORY FUND | $4K |
-| NRA POLITICAL VICTORY FUND | $1K |
+| NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | $1K |
 
 **Top 5 super-PAC IE opposition (AGAINST this candidate):**
 

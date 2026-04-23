@@ -84,7 +84,7 @@ bills-sponsored: 4
 
 | Channel | Lifetime $ |
 |---|---:|
-| Direct PAC donors | $836K |
+| Direct PAC donors | $846K |
 | Super-PAC IE support (FOR) | $1.5M |
 | Super-PAC IE opposition (AGAINST) | $365K |
 

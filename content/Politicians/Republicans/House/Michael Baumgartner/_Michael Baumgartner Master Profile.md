@@ -81,14 +81,14 @@ corroboration-count: 3
 
 | Channel | Lifetime $ |
 |---|---:|
-| Direct PAC donors | $550K |
+| Direct PAC donors | $556K |
 | Super-PAC IE support (FOR) | $83K |
 
 **Top 10 direct PAC donors (lifetime):**
 
 | Committee | Total | Txns |
 |---|---:|---:|
-| REPUBLICAN GOVERNANCE GROUP/TUESDAY GROUP PAC | $18K | 9 |
+| REPUBLICAN GOVERNANCE GROUP/TUESDAY GROUP PAC | $19K | 10 |
 | AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE | $16K | 6 |
 | AMERICAN OPTOMETRIC ASSOCIATION POLITICAL ACTION COMMITTEE | $14K | 4 |
 | PREMERA BLUE CROSS POLITICAL ACTION COMMITTEE/PREMERA PAC | $13K | 3 |

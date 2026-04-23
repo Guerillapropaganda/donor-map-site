@@ -82,7 +82,7 @@ career-total-source: "FEC weball summary (cycles 2024)"
 
 | Committee | Total | Txns |
 |---|---:|---:|
-| THE REPUBLICAN PARTY OF HAWAII | $10K | 1 |
+| HAWAII REPUBLICAN PARTY | $10K | 1 |
 | VERMONT REPUBLICAN FEDERAL ELECTIONS COMMITTEE | $5K | 1 |
 | BE BETTER AMERICA PAC | $3K | 1 |
 | FRIENDS FOR KATHY BARNETTE | $2K | 1 |
@@ -104,7 +104,7 @@ career-total-source: "FEC weball summary (cycles 2024)"
 | Committee | Total |
 |---|---:|
 | DRAIN THE DC SWAMP PAC | $68K |
-| PRIORITIES USA ACTION | $3K |
+| Priorities USA Action | $3K |
 | RURALVOTE.ORG | $357 |
 
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*

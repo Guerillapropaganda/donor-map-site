@@ -72,10 +72,10 @@ say-vs-pay:
     - name: Uihlein Family
       amount: $100M+
     - name: Kenneth Griffin
-      amount: $100M+
+      amount: $100M+ (GOP ecosystem, per public reporting)
     - name: Jeffrey Yass
-      amount: $100M+
-  gap-stat: $1.45B raised in 2024 , 44% from 6 mega-donors , small-dollar share collapsed from 50% to under 30%
+      amount: $100M+ (GOP ecosystem, per public reporting)
+  gap-stat: $1.45B raised in 2024 · 44% from top 10 mega-donors (per OpenSecrets / Brennan Center) · small-dollar share collapsed from roughly 50% (2020) to under 30% (2024)
 internal-notes: |-
   [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
   [URL Check 2026-04-08] 29 URLs checked: 25 ok, 2 broken, 2 slow. BROKEN: CBO TCJA analysis, The Hill Palantir contracts. SLOW: Federal Register 2026 EOs, GovTrack.us | [URL Check 2026-04-08] 25 checked: 24 ok, 1 broken, 0 slow. | BROKEN: Preserving America's Game
@@ -229,8 +229,8 @@ The innovation is that Trump didn't just serve capital. He merged the presidency
 
 | Committee | Total |
 |---|---:|
-| AMERICA PAC | $88.2M |
-| MAKE AMERICA GREAT AGAIN INC. | $57.7M |
+| America PAC (Musk) | $88.2M |
+| MAGA Inc | $57.7M |
 | GREAT AMERICA PAC | $41.5M |
 | RBG PAC | $20.5M |
 | RIGHT FOR AMERICA | $18.5M |
@@ -239,10 +239,10 @@ The innovation is that Trump didn't just serve capital. He merged the presidency
 
 | Committee | Total |
 |---|---:|
-| PRIORITIES USA ACTION | $193.9M |
-| AB PAC | $109.9M |
-| FF PAC | $59.7M |
-| THE LINCOLN PROJECT | $38.7M |
+| Priorities USA Action | $193.9M |
+| AB PAC (American Bridge affiliate) | $109.9M |
+| Future Forward USA PAC | $59.7M |
+| The Lincoln Project | $38.7M |
 | LF PAC | $25.2M |
 
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*

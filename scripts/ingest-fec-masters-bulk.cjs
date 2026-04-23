@@ -18,7 +18,7 @@ const path = require('path');
 const fs = require('fs');
 const {
   loadCheckpoint, markComplete, streamZip, cleanupPartials,
-  listZips, DERIVED_ROOT,
+  listZips, resolveBulkSubdir, DERIVED_ROOT,
 } = require('./lib/fec-ingest-helpers.cjs');
 
 const args = (() => {
@@ -87,8 +87,11 @@ async function ingestDataset(name) {
     console.log(`    loaded ${records.size} existing records`);
   }
 
+  // Use the resolver so typo'd / case-different directories on disk
+  // (e.g. "Comittee Master" vs the canonical "Committee master") work.
+  const resolvedDir = resolveBulkSubdir(ds.subdir) || path.join('C:\\donor-map-data\\bulk', ds.subdir)
   for (const zip of pending) {
-    const zipPath = path.join('C:\\donor-map-data\\bulk', ds.subdir, zip);
+    const zipPath = path.join(resolvedDir, zip);
     process.stdout.write(`    ${zip}... `);
     let added = 0;
     for await (const line of streamZip(zipPath)) {

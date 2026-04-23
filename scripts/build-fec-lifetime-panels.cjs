@@ -63,12 +63,31 @@ async function* streamJsonl(filePath) {
 async function buildIndexes() {
   console.log('Building indexes from FEC derived stores...');
 
-  // committee name map
+  // Committee name map. Priority (highest → lowest):
+  //   1. display_name in data/fec-committee-registry.json (reader-facing
+  //      names like "Future Forward USA PAC" for committees whose FEC-
+  //      registered name is a cryptic "FF PAC")
+  //   2. fec_name in the registry (FEC's official name)
+  //   3. name from the raw FEC committee-master.jsonl bulk
+  // committee-master.jsonl may be 0-bytes (known state) in which case
+  // (1) + (2) carry the load.
   const cmteName = new Map();
-  for await (const r of streamJsonl(path.join(FEC, 'committee-master.jsonl'))) {
-    if (r.id && r.name) cmteName.set(r.id, r.name);
+  try {
+    const reg = JSON.parse(fs.readFileSync(path.join(ROOT, 'data', 'fec-committee-registry.json'), 'utf-8'));
+    for (const [id, v] of Object.entries(reg)) {
+      const name = v.display_name || v.fec_name;
+      if (name) cmteName.set(id, name);
+    }
+    console.log(`  committees from registry: ${cmteName.size}`);
+  } catch (err) {
+    console.log(`  registry unavailable (${err.message}); will rely on committee-master only`);
   }
-  console.log(`  committees: ${cmteName.size}`);
+  // Fall back to the bulk master for anything the registry missed.
+  let masterAdded = 0;
+  for await (const r of streamJsonl(path.join(FEC, 'committee-master.jsonl'))) {
+    if (r.id && r.name && !cmteName.has(r.id)) { cmteName.set(r.id, r.name); masterAdded++; }
+  }
+  console.log(`  committees total: ${cmteName.size} (+${masterAdded} from master bulk)`);
 
   // candId → [{cmte_id, total, count}] from direct donors (lifetime)
   const candDirect = new Map();

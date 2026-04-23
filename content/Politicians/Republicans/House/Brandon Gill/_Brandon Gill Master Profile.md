@@ -81,7 +81,7 @@ corroboration-count: 3
 
 | Channel | Lifetime $ |
 |---|---:|
-| Direct PAC donors | $603K |
+| Direct PAC donors | $609K |
 | Super-PAC IE support (FOR) | $952K |
 | Super-PAC IE opposition (AGAINST) | $2.1M |
 
@@ -95,10 +95,10 @@ corroboration-count: 3
 | U.S. ANESTHESIA PARTNERS, INC. PAC D/B/A/ USAP PAC | $15K | 3 |
 | CLUB FOR GROWTH PAC | $13K | 21 |
 | NATIONAL COTTON COUNCIL COMMITTEE FOR THE ADVANCEMENT OF COTTON | $13K | 7 |
+| BUCKEYE LIBERTY POLITICAL ACTION COMMITTEE | $12K | 3 |
 | FREEDOM CAUCUS FUND | $11K | 2 |
 | TEXAS FARM BUREAU FRIENDS OF AGRICULTURE FUND (AGFUND) INC (TEXAS FARM BUREAU AGFUND) | $11K | 4 |
 | MR. SOUTHERN MISSOURIAN IN THE HOUSE PAC | $10K | 2 |
-| AMERICAN REVIVAL PAC | $10K | 2 |
 
 **Top 5 super-PAC IE support (FOR this candidate):**
 

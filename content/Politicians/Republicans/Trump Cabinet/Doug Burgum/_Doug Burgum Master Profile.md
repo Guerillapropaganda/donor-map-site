@@ -76,7 +76,7 @@ corroboration-count: 2
 |---|---:|---:|
 | DAKOTA PAC | $15K | 3 |
 | NORTH DAKOTA PETROLEUM COUNCIL, INC. FEDERAL PAC | $15K | 3 |
-| THE REPUBLICAN PARTY OF HAWAII | $10K | 1 |
+| HAWAII REPUBLICAN PARTY | $10K | 1 |
 | MINN-DAK FARMERS COOPERATIVE POLITICAL ACTION COMMITTEE (MDFPAC) | $10K | 2 |
 | VERMONT REPUBLICAN FEDERAL ELECTIONS COMMITTEE | $6K | 1 |
 | BADLANDS PAC | $5K | 1 |
@@ -93,7 +93,7 @@ corroboration-count: 2
 
 | Committee | Total |
 |---|---:|
-| PRIORITIES USA ACTION | $3K |
+| Priorities USA Action | $3K |
 | RURALVOTE.ORG | $357 |
 
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*

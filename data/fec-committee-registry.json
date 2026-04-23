@@ -284,7 +284,8 @@
     "vault_slug": "rbg-pac",
     "status": "mapped",
     "added": "2026-04-15T05:19:23.637Z",
-    "updated": "2026-04-15T16:03:50.988Z"
+    "updated": "2026-04-23T16:57:12.649Z",
+    "display_name": "RBG PAC"
   },
   "C00492140": {
     "committee_id": "C00492140",
@@ -317,7 +318,8 @@
     "vault_slug": "ab-pac",
     "status": "mapped",
     "added": "2026-04-15T05:19:23.637Z",
-    "updated": "2026-04-15T16:03:50.989Z"
+    "updated": "2026-04-23T16:57:12.649Z",
+    "display_name": "AB PAC (American Bridge affiliate)"
   },
   "C00876482": {
     "committee_id": "C00876482",
@@ -11373,7 +11375,8 @@
     "vault_profile": "content/Donors & Power Networks/Super PACs/Priorities USA Action.md",
     "status": "mapped",
     "added": "2026-04-16T01:43:28.086Z",
-    "updated": "2026-04-16T01:43:28.086Z"
+    "updated": "2026-04-23T16:57:12.650Z",
+    "display_name": "Priorities USA Action"
   },
   "C00496307": {
     "committee_id": "C00496307",
@@ -14202,12 +14205,18 @@
     "connected_organization_name": null,
     "candidate_ids": [],
     "party": null,
-    "aliases": [],
+    "aliases": [
+      "FF PAC",
+      "Future Forward USA PAC"
+    ],
     "source": "fec-committee-master-bulk",
-    "vault_profile": "content/Donors & Power Networks/Tech & Crypto/Fairshake PAC.md",
-    "status": "mapped",
+    "vault_profile": null,
+    "status": "unmapped",
     "added": "2026-04-16T01:43:28.086Z",
-    "updated": "2026-04-16T01:43:28.086Z"
+    "updated": "2026-04-23T16:57:12.648Z",
+    "vault_slug": null,
+    "note": "FEC-registered as FF PAC. Per OpenSecrets + news reporting, this is Future Forward USA PAC — the Harris-aligned anti-Trump 2024 super-PAC. NO vault profile yet. Previously incorrectly mapped to Fairshake PAC (a separate crypto super-PAC at C00835959) until 2026-04-23.",
+    "display_name": "Future Forward USA PAC"
   },
   "C00671859": {
     "committee_id": "C00671859",
@@ -14849,7 +14858,8 @@
     "vault_profile": "content/Donors & Power Networks/Super PACs/The Lincoln Project.md",
     "status": "mapped",
     "added": "2026-04-16T01:43:28.086Z",
-    "updated": "2026-04-16T01:43:28.086Z"
+    "updated": "2026-04-23T16:57:12.650Z",
+    "display_name": "The Lincoln Project"
   },
   "C00726372": {
     "committee_id": "C00726372",
@@ -15909,7 +15919,8 @@
     "vault_profile": "content/Donors & Power Networks/Super PACs/MAGA Inc.md",
     "status": "mapped",
     "added": "2026-04-16T01:43:28.086Z",
-    "updated": "2026-04-16T01:43:28.086Z"
+    "updated": "2026-04-23T16:57:12.649Z",
+    "display_name": "MAGA Inc"
   },
   "C00828533": {
     "committee_id": "C00828533",
@@ -16135,7 +16146,8 @@
     "vault_profile": "content/Donors & Power Networks/Super PACs/Fairshake PAC - Crypto Super PAC.md",
     "status": "mapped",
     "added": "2026-04-16T01:43:28.086Z",
-    "updated": "2026-04-16T01:43:28.086Z"
+    "updated": "2026-04-23T16:57:12.650Z",
+    "display_name": "Fairshake PAC"
   },
   "C00836767": {
     "committee_id": "C00836767",
@@ -16807,7 +16819,8 @@
     "vault_profile": "content/Donors & Power Networks/Super PACs/America PAC - Elon Musk.md",
     "status": "mapped",
     "added": "2026-04-16T01:43:28.086Z",
-    "updated": "2026-04-16T01:43:28.086Z"
+    "updated": "2026-04-23T16:57:12.649Z",
+    "display_name": "America PAC (Musk)"
   },
   "C00884791": {
     "committee_id": "C00884791",

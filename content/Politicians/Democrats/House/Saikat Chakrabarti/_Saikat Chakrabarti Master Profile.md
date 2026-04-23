@@ -85,7 +85,7 @@ career-total-source: "FEC weball summary (cycles 2026)"
 
 | Committee | Total | Txns |
 |---|---:|---:|
-| LEAGUE OF CONSERVATION VOTERS INC POLITICAL ACTION COMMITTEE (LCV EARTH FUND) | $50 | 1 |
+| LEAGUE OF CONSERVATION VOTERS ACTION FUND | $50 | 1 |
 
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->

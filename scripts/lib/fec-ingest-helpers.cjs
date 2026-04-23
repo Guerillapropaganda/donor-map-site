@@ -153,7 +153,14 @@ const SUBDIR_ALIASES = {
   'IRS 990': [
     'Form 990 IRS',
   ],
-};
+  'Committee master': [
+    'Comittee Master',  // typo on disk — single 'm' in Comittee
+    'Committee Master',
+  ],
+  'Candidates Master': [
+    'Candidate Master',  // singular vs plural variant
+  ],
+}
 
 function resolveBulkSubdir(subdir) {
   const direct = path.join(BULK_ROOT, subdir);

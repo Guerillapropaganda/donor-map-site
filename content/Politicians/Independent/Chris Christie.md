@@ -95,9 +95,9 @@ last-enriched: 2026-04-21
 |---|---:|
 | CONSERVATIVE SOLUTIONS PAC | $3.3M |
 | RIGHT TO RISE USA | $294K |
-| MAKE AMERICA GREAT AGAIN INC. | $92K |
+| MAGA Inc | $92K |
 | NEW DAY FOR AMERICA | $31K |
-| PLANNED PARENTHOOD ACTION FUND | $17K |
+| PLANNED PARENTHOOD ACTION FUND INC | $17K |
 
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->

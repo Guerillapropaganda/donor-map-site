@@ -73,7 +73,7 @@ corroboration-count: 3
 
 | Channel | Lifetime $ |
 |---|---:|
-| Direct PAC donors | $8K |
+| Direct PAC donors | $10K |
 
 **Top 10 direct PAC donors (lifetime):**
 
@@ -81,6 +81,7 @@ corroboration-count: 3
 |---|---:|---:|
 | JIM JORDAN FOR CONGRESS | $4K | 2 |
 | DEPENDABLE CONSERVATIVE LEADERSHIP PAC | $2K | 1 |
+| SPACE COAST LEADERSHIP PAC | $2K | 1 |
 | BIG IDEAS CREATE EXCELLENCE PAC | $1K | 1 |
 | WINE AND SPIRITS WHOLESALERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE | $1K | 1 |
 

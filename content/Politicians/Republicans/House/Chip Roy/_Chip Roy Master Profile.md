@@ -125,7 +125,7 @@ top-policy-area: "International Affairs"
 | Committee | Total |
 |---|---:|
 | HMP | $2.6M |
-| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $1.4M |
+| DCCC | $1.4M |
 | WOMEN VOTE | $436K |
 | VOTEVETS | $188K |
 | END CITIZENS UNITED | $90K |

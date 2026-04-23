@@ -80,7 +80,7 @@ career-total-source: "FEC weball summary (cycles 2012, 2014, 2016, 2018, 2020, 2
 
 | Channel | Lifetime $ |
 |---|---:|
-| Direct PAC donors | $11.3M |
+| Direct PAC donors | $11.4M |
 | Party committee support | $552K |
 | Super-PAC IE support (FOR) | $385K |
 | Super-PAC IE opposition (AGAINST) | $5.6M |
@@ -108,13 +108,13 @@ career-total-source: "FEC weball summary (cycles 2012, 2014, 2016, 2018, 2020, 2
 | HERITAGE ACTION FOR AMERICA | $53K |
 | CONGRESSIONAL LEADERSHIP FUND | $41K |
 | WOMEN SPEAK OUT PAC | $37K |
-| REALTORS POLITICAL ACTION COMMITTEE | $25K |
+| NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE | $25K |
 
 **Top 5 super-PAC IE opposition (AGAINST this candidate):**
 
 | Committee | Total |
 |---|---:|
-| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $2.4M |
+| DCCC | $2.4M |
 | HMP | $2.0M |
 | WOMEN VOTE | $883K |
 | END CITIZENS UNITED | $234K |

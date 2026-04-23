@@ -114,7 +114,7 @@ career-total-source: "FEC weball summary (cycles 2020, 2022, 2024, 2026)"
 | Committee | Total |
 |---|---:|
 | HMP | $4.7M |
-| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $230K |
+| DCCC | $230K |
 | ONE COUNTRY FUND | $85K |
 | INDIVISIBLE BEMIDJI | $4K |
 

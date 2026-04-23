@@ -99,7 +99,7 @@ last-enriched: 2026-04-20
 
 | Committee | Total |
 |---|---:|
-| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $2.8M |
+| DCCC | $2.8M |
 | HMP | $1.4M |
 | WOMEN VOTE | $602K |
 | PATRIOT MAJORITY USA | $280K |

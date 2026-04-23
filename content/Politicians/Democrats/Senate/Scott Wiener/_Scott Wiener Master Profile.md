@@ -68,7 +68,7 @@ career-total-source: "FEC weball summary (cycles 2026)"
 
 | Channel | Lifetime $ |
 |---|---:|
-| Direct PAC donors | $34K |
+| Direct PAC donors | $32K |
 
 **Top 10 direct PAC donors (lifetime):**
 
@@ -82,8 +82,8 @@ career-total-source: "FEC weball summary (cycles 2026)"
 | AMERICAN CONSULTING ENGINEERS COUNCIL POLITICAL ACTION COMMITTEE | $3K | 1 |
 | UNITED TRANSPORTATION UNION (UTU) TRANSPORTATION POLITICAL EDUCATION LEAGUE | $3K | 1 |
 | VPP | $2K | 1 |
-| HNTB HOLDINGS LTD. PAC | $2K | 1 |
-| UNITED FOOD & COMMERCIAL WORKERS, ACTIVE BALLOT CLUB | $2K | 1 |
+| UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB | $2K | 1 |
+| CLEARWAY ENERGY INC PAC | $2K | 1 |
 
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->

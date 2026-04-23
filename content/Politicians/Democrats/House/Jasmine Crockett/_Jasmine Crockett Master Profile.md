@@ -80,7 +80,7 @@ career-total-source: "FEC weball summary (cycles 2026)"
 
 | Committee | Total | Txns |
 |---|---:|---:|
-| EMILY'S LIST | $5K | 18 |
+| EMILYS LIST | $5K | 18 |
 | ELECT DEMOCRATIC WOMEN | $5K | 1 |
 | PAC TO THE FUTURE | $5K | 1 |
 | SYNERGY PAC | $5K | 1 |

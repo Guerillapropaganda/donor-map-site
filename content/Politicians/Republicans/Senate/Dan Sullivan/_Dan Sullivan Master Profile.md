@@ -109,7 +109,7 @@ career-total-source: "FEC weball summary (cycles 2014, 2016, 2018, 2020, 2022, 2
 
 | Committee | Total | Txns |
 |---|---:|---:|
-| NATIONAL REPUBLICAN SENATORIAL COMMITTEE | $152K | 3 |
+| NRSC | $152K | 3 |
 | LEGACY VICTORY COMMITTEE 2014 | $70K | 2 |
 | DENALI LEADERSHIP PAC | $50K | 10 |
 | CRUISE LINES INTERNATIONAL ASSOCIATION PAC (CLIA PAC) | $42K | 12 |
@@ -118,7 +118,7 @@ career-total-source: "FEC weball summary (cycles 2014, 2016, 2018, 2020, 2022, 2
 | SAFARI CLUB INTERNATIONAL POLITICAL ACTION COMMITTEE | $32K | 12 |
 | FUND FOR AMERICA'S FUTURE | $30K | 8 |
 | HEARTLAND VALUES PAC | $30K | 6 |
-| MICROSOFT CORPORATION POLITICAL ACTION COMMITTEE | $30K | 9 |
+| MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC | $30K | 9 |
 
 **Top 5 super-PAC IE support (FOR this candidate):**
 
@@ -136,9 +136,9 @@ career-total-source: "FEC weball summary (cycles 2014, 2016, 2018, 2020, 2022, 2
 |---|---:|
 | PUT ALASKA FIRST | $9.6M |
 | NORTH STAR | $6.9M |
-| DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE | $4.5M |
+| DSCC | $4.5M |
 | 314 ACTION FUND | $2.5M |
-| THE LINCOLN PROJECT | $1.5M |
+| The Lincoln Project | $1.5M |
 
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->

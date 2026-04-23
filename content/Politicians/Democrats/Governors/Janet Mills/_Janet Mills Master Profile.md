@@ -60,10 +60,10 @@ career-total-source: "FEC weball summary (cycles 1994)"
 
 | Committee | Total | Txns |
 |---|---:|---:|
-| EMILY'S LIST | $5K | 1 |
+| EMILYS LIST | $5K | 1 |
 | NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION POLITICAL ACTION COMMITTEE (AKA NATCA PAC) | $500 | 1 |
 | UNITED TRANSPORTATION UNION (UTU) TRANSPORTATION POLITICAL EDUCATION LEAGUE | $500 | 1 |
-| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $450 | 2 |
+| DCCC | $450 | 2 |
 
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->

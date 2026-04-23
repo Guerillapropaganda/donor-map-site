@@ -79,7 +79,7 @@ corroboration-count: 3
 
 | Channel | Lifetime $ |
 |---|---:|
-| Direct PAC donors | $612K |
+| Direct PAC donors | $614K |
 | Super-PAC IE support (FOR) | $1.1M |
 | Super-PAC IE opposition (AGAINST) | $101K |
 
@@ -87,13 +87,13 @@ corroboration-count: 3
 
 | Committee | Total | Txns |
 |---|---:|---:|
+| VOTEVETS | $20K | 6 |
 | AMERICA NEEDS NEW INNOVATION AND ENERGY PAC | $20K | 4 |
 | A NEW DIRECTION PAC | $20K | 4 |
 | ASSOCIATION OF TRIAL LAWYERS OF AMERICA POLITICAL ACTION COMMITTEE | $20K | 5 |
 | GRANITE VALUES PAC | $20K | 4 |
-| VOTEVETS | $18K | 5 |
 | WITH HONOR PAC | $17K | 5 |
-| EMILY'S LIST | $16K | 18 |
+| EMILYS LIST | $16K | 18 |
 | AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE | $15K | 4 |
 | NUTMEG PAC | $15K | 3 |
 | FOLLOW THE NORTH STAR FUND | $15K | 3 |

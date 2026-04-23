@@ -119,7 +119,7 @@ career-total-source: "FEC weball summary (cycles 2020, 2022, 2024, 2026)"
 | PROGRESS PINELLAS | $4.8M |
 | STAND FOR FL | $1.5M |
 | FLORIDA FIRST VALUES PAC | $50K |
-| PRIORITIES USA ACTION | $10K |
+| Priorities USA Action | $10K |
 | AMERICAN LIBERTY FUND | $7K |
 
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*

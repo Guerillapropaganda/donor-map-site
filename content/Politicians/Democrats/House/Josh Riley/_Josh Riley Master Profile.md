@@ -112,9 +112,9 @@ corroboration-count: 3
 | Committee | Total |
 |---|---:|
 | CONGRESSIONAL LEADERSHIP FUND | $12.4M |
-| NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE EXPENDITURES | $3.3M |
+| NRCC | $3.3M |
 | NATIONAL HORIZON | $1.1M |
-| AMERICA PAC | $552K |
+| America PAC (Musk) | $552K |
 | DEFENDING MAIN STREET SUPERPAC INC. | $250K |
 
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*

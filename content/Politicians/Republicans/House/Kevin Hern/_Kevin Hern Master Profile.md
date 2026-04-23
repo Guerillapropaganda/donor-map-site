@@ -61,12 +61,13 @@ career-total-source: "FEC weball summary (cycles 2026)"
 
 | Channel | Lifetime $ |
 |---|---:|
-| Direct PAC donors | $11K |
+| Direct PAC donors | $16K |
 
 **Top 10 direct PAC donors (lifetime):**
 
 | Committee | Total | Txns |
 |---|---:|---:|
+| MVL PAC | $5K | 1 |
 | FRESENIUS MEDICAL CARE HOLDINGS, INC. POLITICAL ACTION COMMITTEE | $5K | 1 |
 | AMERICAN FIDELITY CORPORATION PAC | $4K | 1 |
 | UNITED COMMUNITY BANKERS P A C (BANKFIRST CORP P A C) | $3K | 1 |

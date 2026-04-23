@@ -62,7 +62,7 @@ career-total-source: "FEC weball summary (cycles 2026)"
 
 | Channel | Lifetime $ |
 |---|---:|
-| Direct PAC donors | $30K |
+| Direct PAC donors | $31K |
 | Super-PAC IE support (FOR) | $50 |
 
 **Top 10 direct PAC donors (lifetime):**
@@ -75,8 +75,9 @@ career-total-source: "FEC weball summary (cycles 2026)"
 | ROOTED IN COMMUNITY LEADERSHIP PAC | $5K | 1 |
 | A NEW POLICY PAC | $3K | 1 |
 | EMGAGE FEDERAL POLITICAL ACTION COMMITTEE | $1K | 1 |
+| CALIFORNIANS FOR FREEDOM | $1K | 1 |
 | CWA-COPE POLITICAL CONTRIBUTIONS COMMITTEE | $500 | 1 |
-| LEAGUE OF CONSERVATION VOTERS INC POLITICAL ACTION COMMITTEE (LCV EARTH FUND) | $50 | 1 |
+| LEAGUE OF CONSERVATION VOTERS ACTION FUND | $50 | 1 |
 
 **Top 5 super-PAC IE support (FOR this candidate):**
 

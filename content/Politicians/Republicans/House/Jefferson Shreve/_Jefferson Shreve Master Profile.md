@@ -79,7 +79,7 @@ corroboration-count: 3
 
 | Channel | Lifetime $ |
 |---|---:|
-| Direct PAC donors | $399K |
+| Direct PAC donors | $400K |
 | Party committee support | $2K |
 | Super-PAC IE support (FOR) | $91K |
 | Super-PAC IE opposition (AGAINST) | $852 |
@@ -93,10 +93,10 @@ corroboration-count: 3
 | THE EYE OF THE TIGER POLITICAL ACTION COMMITTEE | $15K | 3 |
 | CREDIT UNION LEGISLATIVE ACTION COUNCIL OF CUNA | $13K | 3 |
 | MR. SOUTHERN MISSOURIAN IN THE HOUSE PAC | $10K | 2 |
-| WELLPOINT HEALTH NETWORKS "WELLPAC" | $10K | 6 |
-| ALLIED-SIGNAL POLITICAL ACTION COMMITTEE | $10K | 7 |
+| ELEVANCE HEALTH, INC. POLITICAL ACTION COMMITTEE (ELEVANCE HEALTH PAC) | $10K | 6 |
+| HONEYWELL INTERNATIONAL POLITICAL ACTION COMMITTEE | $10K | 7 |
 | MODRN POLITICAL ACTION COMMITTEE | $9K | 5 |
-| REALTORS POLITICAL ACTION COMMITTEE | $8K | 3 |
+| NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE | $8K | 3 |
 | AMERICAN ACADEMY OF DERMATOLOGY ASSOCIATION POLITICAL ACTION COMMITTEE (SKINPAC) | $8K | 3 |
 
 **Top 5 super-PAC IE support (FOR this candidate):**
@@ -109,7 +109,7 @@ corroboration-count: 3
 
 | Committee | Total |
 |---|---:|
-| NRA POLITICAL VICTORY FUND | $852 |
+| NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | $852 |
 
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->

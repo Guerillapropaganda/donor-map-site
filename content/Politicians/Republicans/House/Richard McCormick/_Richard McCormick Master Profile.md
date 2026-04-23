@@ -118,7 +118,7 @@ career-total-source: "FEC weball summary (cycles 2020, 2022, 2024, 2026)"
 | Committee | Total |
 |---|---:|
 | HMP | $3.5M |
-| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $2.9M |
+| DCCC | $2.9M |
 | EVERYTOWN FOR GUN SAFETY VICTORY FUND (EVERYTOWN VICTORY FUND) | $604K |
 | TRAILBLAZER PAC | $389K |
 | WOMEN VOTE | $250K |

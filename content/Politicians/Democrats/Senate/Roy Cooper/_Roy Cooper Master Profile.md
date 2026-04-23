@@ -66,7 +66,7 @@ career-total-source: "FEC weball summary (cycles 2026)"
 
 | Committee | Total | Txns |
 |---|---:|---:|
-| DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE | $62K | 1 |
+| DSCC | $62K | 1 |
 | JSTREETPAC | $38K | 28 |
 | GREAT LAKES PAC | $20K | 3 |
 | END CITIZENS UNITED | $12K | 2 |

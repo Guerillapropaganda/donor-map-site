@@ -77,7 +77,7 @@ career-total-source: "FEC weball summary (cycles 2024)"
 
 | Committee | Total | Txns |
 |---|---:|---:|
-| THE REPUBLICAN PARTY OF HAWAII | $13K | 2 |
+| HAWAII REPUBLICAN PARTY | $13K | 2 |
 | NELSON, MULLINS, RILEY & SCARBOROUGH FEDERAL POLITICAL COMMITTEE | $5K | 1 |
 | VERMONT REPUBLICAN FEDERAL ELECTIONS COMMITTEE | $5K | 1 |
 | CONQUERING CANCER PAC | $5K | 1 |
@@ -102,7 +102,7 @@ career-total-source: "FEC weball summary (cycles 2024)"
 
 | Committee | Total |
 |---|---:|
-| MAKE AMERICA GREAT AGAIN INC. | $9.9M |
+| MAGA Inc | $9.9M |
 | FIGHT RIGHT INC | $9.7M |
 | NEVER BACK DOWN INC. | $5.1M |
 | GOOD FIGHT | $103K |

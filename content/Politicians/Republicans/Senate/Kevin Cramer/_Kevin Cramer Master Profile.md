@@ -115,8 +115,8 @@ career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
 | Committee | Total |
 |---|---:|
 | NORTH DAKOTA REPUBLICAN PARTY | $175K |
-| NATIONAL REPUBLICAN SENATORIAL COMMITTEE | $84K |
-| AMERICAN HOSPITAL ASSOCIATION POLITICAL ACTION COMMITTEE (AHAPAC) | $75K |
+| NRSC | $84K |
+| AMERICAN HOSPITAL ASSOCIATION PAC | $75K |
 | SLF PAC | $65K |
 | WOMEN SPEAK OUT PAC | $54K |
 
@@ -125,9 +125,9 @@ career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
 | Committee | Total |
 |---|---:|
 | SMP | $2.8M |
-| DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE | $2.1M |
+| DSCC | $2.1M |
 | MAJORITY FORWARD | $1.1M |
-| PRIORITIES USA ACTION | $813K |
+| Priorities USA Action | $813K |
 | END CITIZENS UNITED | $35K |
 
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*

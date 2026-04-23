@@ -83,7 +83,7 @@ corroboration-count: 3
 
 | Channel | Lifetime $ |
 |---|---:|
-| Direct PAC donors | $713K |
+| Direct PAC donors | $720K |
 | Super-PAC IE support (FOR) | $355K |
 | Super-PAC IE opposition (AGAINST) | $39K |
 
@@ -110,7 +110,7 @@ corroboration-count: 3
 | CONSERVATIVES FOR AMERICAN EXCELLENCE INC. | $91K |
 | CONSERVATIVE OUTSIDER PAC INC | $24K |
 | KANSAS CONSERVATIVE FUND | $17K |
-| KANSANS FOR LIFE POLITICAL ACTION COMMITTEE | $4K |
+| KANSANS FOR LIFE FEDERAL POLITICAL ACTION COMMITTEE | $4K |
 
 **Top 5 super-PAC IE opposition (AGAINST this candidate):**
 

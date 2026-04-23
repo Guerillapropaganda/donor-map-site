@@ -49,7 +49,7 @@ career-total-source: "FEC weball summary (cycles 2026)"
 
 | Channel | Lifetime $ |
 |---|---:|
-| Direct PAC donors | $118K |
+| Direct PAC donors | $129K |
 | Super-PAC IE support (FOR) | $5.7M |
 | Super-PAC IE opposition (AGAINST) | $5.3M |
 
@@ -61,12 +61,12 @@ career-total-source: "FEC weball summary (cycles 2026)"
 | MARQUIS MASTER SC, INC. PAC (MARQUIS PAC) | $10K | 2 |
 | TRI-STATE MAXED-OUT WOMEN | $10K | 4 |
 | DLGA | $10K | 2 |
-| EMILY'S LIST | $7K | 42 |
+| PEOPLE'S VOICE PAC | $10K | 2 |
+| EMILYS LIST | $7K | 42 |
 | AMERICAN ASSOCIATION OF NURSE ANESTHETISTS SEPARATE SEGREGATED FUND (CRNA-PAC) | $5K | 1 |
 | TAFT STETTINIUS & HOLLISTER LLP POLITICAL ACTION COMMITTEE | $5K | 2 |
 | WINE AND SPIRITS WHOLESALERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE | $5K | 1 |
 | END CITIZENS UNITED | $5K | 2 |
-| PEOPLE'S VOICE PAC | $5K | 1 |
 
 **Top 5 super-PAC IE support (FOR this candidate):**
 
@@ -80,7 +80,7 @@ career-total-source: "FEC weball summary (cycles 2026)"
 
 | Committee | Total |
 |---|---:|
-| FAIRSHAKE | $5.2M |
+| Fairshake PAC | $5.2M |
 | THE IMPACT FUND | $159K |
 
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*

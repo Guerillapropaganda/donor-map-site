@@ -118,7 +118,7 @@ career-total-source: "FEC weball summary (cycles 2020, 2022, 2024, 2026)"
 | Committee | Total |
 |---|---:|
 | HMP | $1.4M |
-| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $994K |
+| DCCC | $994K |
 | WOMEN VOTE | $702K |
 | LCV VICTORY FUND | $509K |
 | COLORADO UNITED PAC | $370K |

@@ -96,7 +96,7 @@ career-total-source: "FEC weball summary (cycles 2016, 2022, 2024, 2026)"
 
 | Committee | Total | Txns |
 |---|---:|---:|
-| DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE | $51K | 1 |
+| DSCC | $51K | 1 |
 | DSCC PA WI VICTORY 2022 | $41K | 1 |
 | DEFEND THE DREAM | $25K | 5 |
 | GRANITE VALUES PAC | $20K | 4 |
@@ -104,14 +104,14 @@ career-total-source: "FEC weball summary (cycles 2016, 2022, 2024, 2026)"
 | DEMOCRACY ENGINE, INC., PAC | $13K | 75 |
 | COMMITTEE ON POLITICAL ACTION OF THE AMERICAN POSTAL WORKERS UNION, AFL-CIO | $13K | 4 |
 | SENIOR CARE PHARMACY COALITION PAC | $13K | 1 |
-| NORPAC (FKA NORTH JERSEY PAC) | $11K | 1 |
-| UNITED FOOD & COMMERCIAL WORKERS, ACTIVE BALLOT CLUB | $10K | 2 |
+| NORPAC | $11K | 1 |
+| UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB | $10K | 2 |
 
 **Top 5 super-PAC IE support (FOR this candidate):**
 
 | Committee | Total |
 |---|---:|
-| PRIORITIES USA ACTION | $8.3M |
+| Priorities USA Action | $8.3M |
 | SMP | $4.0M |
 | CFFE PAC | $3.2M |
 | BLACKPAC | $2.7M |
@@ -124,8 +124,8 @@ career-total-source: "FEC weball summary (cycles 2016, 2022, 2024, 2026)"
 | SLF PAC | $47.6M |
 | AMERICAN LEADERSHIP ACTION | $14.4M |
 | AMERICAN CROSSROADS | $6.6M |
-| MAKE AMERICA GREAT AGAIN INC. | $3.4M |
-| NATIONAL REPUBLICAN SENATORIAL COMMITTEE | $2.8M |
+| MAGA Inc | $3.4M |
+| NRSC | $2.8M |
 
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->

@@ -69,15 +69,16 @@ career-total-source: "FEC weball summary (cycles 2026)"
 
 | Channel | Lifetime $ |
 |---|---:|
-| Direct PAC donors | $690K |
+| Direct PAC donors | $695K |
 | Super-PAC IE support (FOR) | $2.2M |
 
 **Top 10 direct PAC donors (lifetime):**
 
 | Committee | Total | Txns |
 |---|---:|---:|
-| NATIONAL REPUBLICAN SENATORIAL COMMITTEE | $62K | 1 |
+| NRSC | $62K | 1 |
 | REPUBLICAN JEWISH COALITION POLITICAL ACTION COMMITTEE (RJC-PAC) | $25K | 9 |
+| COMMON SENSE FOR AMERICA PAC | $10K | 2 |
 | LETS GET TO WORK PAC | $10K | 2 |
 | BIG SKY OPPORTUNITY PAC | $10K | 2 |
 | NATIONAL CHAMBER ALLIANCE FOR POLITICS OF THE CHAMBER OF COMMERCE FOR THE USA | $10K | 2 |
@@ -85,7 +86,6 @@ career-total-source: "FEC weball summary (cycles 2026)"
 | E-PAC | $10K | 2 |
 | THE EYE OF THE TIGER POLITICAL ACTION COMMITTEE | $10K | 2 |
 | CITIZENS UNITED POLITICAL VICTORY FUND | $10K | 2 |
-| HEARTLAND VALUES PAC | $10K | 2 |
 
 **Top 5 super-PAC IE support (FOR this candidate):**
 

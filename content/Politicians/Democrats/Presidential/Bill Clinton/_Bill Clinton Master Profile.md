@@ -66,8 +66,8 @@ urls-first-triaged: "2026-04-15"
 
 | Committee | Total |
 |---|---:|
-| REPUBLICAN NATIONAL COMMITTEE - RNC | $1K |
-| MICHIGAN REPUBLICAN STATE COMMITTEE | $596 |
+| REPUBLICAN NATIONAL COMMITTEE | $1K |
+| MICHIGAN REPUBLICAN PARTY | $596 |
 
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->

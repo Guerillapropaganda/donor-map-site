@@ -80,7 +80,7 @@ career-total-source: "FEC weball summary (cycles 2026)"
 
 | Channel | Lifetime $ |
 |---|---:|
-| Direct PAC donors | $456K |
+| Direct PAC donors | $457K |
 | Super-PAC IE support (FOR) | $663K |
 
 **Top 10 direct PAC donors (lifetime):**
@@ -89,7 +89,7 @@ career-total-source: "FEC weball summary (cycles 2026)"
 |---|---:|---:|
 | SMART SOLUTIONS PAC | $10K | 3 |
 | CIGNA CORPORATION POLITICAL ACTION COMMITTEE | $10K | 2 |
-| INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS COMMITTEE ON POLITICAL EDUCATION | $10K | 2 |
+| INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE | $10K | 2 |
 | AMERICAN OPTOMETRIC ASSOCIATION POLITICAL ACTION COMMITTEE | $10K | 2 |
 | AMERICAN CRYSTAL SUGAR POLITICAL ACTION COMMITTEE | $10K | 2 |
 | EQUALITY PAC | $10K | 2 |

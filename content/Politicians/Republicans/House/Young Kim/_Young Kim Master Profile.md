@@ -104,7 +104,7 @@ career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
 
 | Committee | Total |
 |---|---:|
-| FAIRSHAKE | $1.9M |
+| Fairshake PAC | $1.9M |
 | NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND | $711K |
 | CONGRESSIONAL LEADERSHIP FUND | $445K |
 | AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION | $305K |
@@ -116,9 +116,9 @@ career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
 |---|---:|
 | HMP | $5.1M |
 | CONGRESSIONAL LEADERSHIP FUND | $2.9M |
-| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $436K |
+| DCCC | $436K |
 | PROTECT OUR KIDS AND OUR HEALTHCARE PAC | $297K |
-| PRIORITIES USA ACTION | $107K |
+| Priorities USA Action | $107K |
 
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->

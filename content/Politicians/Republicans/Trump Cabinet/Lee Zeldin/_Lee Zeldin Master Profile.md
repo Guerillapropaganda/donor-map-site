@@ -103,7 +103,7 @@ donors: "[[314 Action Fund]] · [[Leonard Leo]] · [[Koch Network - Charles Koch
 | Committee | Total |
 |---|---:|
 | HMP | $3.2M |
-| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $2.8M |
+| DCCC | $2.8M |
 | 314 ACTION FUND | $2.3M |
 | AMERICANS FOR COMMON SENSE | $1.3M |
 | UNITED WE CAN | $425K |

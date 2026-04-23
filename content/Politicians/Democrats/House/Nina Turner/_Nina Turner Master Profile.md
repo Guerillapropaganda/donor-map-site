@@ -88,8 +88,8 @@ career-total-source: "FEC weball summary (cycles 2012, 2020, 2022)"
 | COURAGE TO CHANGE | $10K | 3 |
 | DEMOCRACY FOR AMERICA | $6K | 4 |
 | AMALGAMATED TRANSIT UNION-COPE | $5K | 1 |
-| POLICY IS PERSONAL PAC | $5K | 1 |
 | JUSTICE DEMOCRATS PAC | $5K | 1 |
+| POLICY IS PERSONAL PAC | $5K | 1 |
 | ROOTED IN COMMUNITY LEADERSHIP PAC | $5K | 1 |
 | THE COLLECTIVE PAC | $5K | 1 |
 
@@ -101,7 +101,7 @@ career-total-source: "FEC weball summary (cycles 2012, 2020, 2022)"
 | THE DEMOCRATIC ACTION PAC | $246K |
 | REBELLION PAC | $230K |
 | CONGRESSIONAL PROGRESSIVE CAUCUS PAC | $104K |
-| MOVEON.ORG | $36K |
+| MOVEON.ORG POLITICAL ACTION | $36K |
 
 **Top 5 super-PAC IE opposition (AGAINST this candidate):**
 

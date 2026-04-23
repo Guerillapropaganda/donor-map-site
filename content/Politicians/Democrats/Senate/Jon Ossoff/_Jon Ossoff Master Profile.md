@@ -84,7 +84,7 @@ top-policy-area: Armed Forces and National Security
 
 | Committee | Total | Txns |
 |---|---:|---:|
-| DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE | $50K | 1 |
+| DSCC | $50K | 1 |
 | GREAT LAKES PAC | $30K | 5 |
 | END CITIZENS UNITED | $27K | 6 |
 | AMERICAN FEDERATION OF TEACHERS COMMITTEE ON POLITICAL EDUCATION | $25K | 5 |
@@ -110,7 +110,7 @@ top-policy-area: Armed Forces and National Security
 | Committee | Total |
 |---|---:|
 | SLF PAC | $92.4M |
-| NATIONAL REPUBLICAN SENATORIAL COMMITTEE | $13.9M |
+| NRSC | $13.9M |
 | PEACHTREE PAC | $12.4M |
 | AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION | $5.5M |
 | GEORGIA ACTION FUND | $4.6M |
