@@ -3,12 +3,64 @@ title: Session State
 type: system
 last-updated: 2026-04-23
 ---
-<!-- last session: PUBLIC LOCKDOWN + CREDIBILITY AUDIT FIXES. Started by asking "why only 9 slugs public?" → David's call: nothing public yet, construction page only. Trimmed data/public-routes.json from 9 slugs to ["index"] (commit 50de0ad54, deploy run 24845584051 ✓). Then audit: David pointed at Trump's Contradiction card / IE tables → "are these correct?" Found 6 real issues, fixed 5, deferred 1: (1) DATA INTEGRITY — C00669259 (FF PAC / Future Forward USA) was wrongly linked to Fairshake PAC vault profile in data/fec-committee-registry.json; defamation-adjacent bug. Unmapped. (2) Committee name resolution: added display_name field to registry for 8 committees; build-fec-lifetime-panels.cjs now reads registry (display_name > fec_name) with fallback to committee-master.jsonl. (3) committee-master.jsonl was 0 bytes — ingest-fec-masters-bulk.cjs hardcoded path "Committee master" but disk had typo "Comittee Master"; added typo aliases + switched ingest to use resolveBulkSubdir. Re-ingested: 42K committees + 54K candidates. (4) Trump profile prose consistency: frontmatter said "44% from 6 mega-donors" but body said "10"; aligned to 10 per OpenSecrets/Brennan Center. (5) Griffin+Yass sidebar: annotated "(GOP ecosystem, per public reporting)" since our graph undercounts them ($13M/$0 tracked vs $100M+ real). (6) DEFERRED — 2024 FEC candidate-summary is stale (weball24.zip is Aug 2024 snapshot, shows Trump at $29K for 2024 vs real ~$375M+); needs fresh FEC bulk download, not in-session solvable. 452 profile FEC-lifetime auto-blocks regenerated with correct committee names. Also: committee-master ingest now working via path typo fix; candidate-master bonus-populated as side effect. Commits landed on v4 today: 50de0ad54 (public lockdown), a6d777780 (audit fixes). Deploy 24848306134 ✓. (2026-04-23, Code Claude). -->
+<!-- last session: REGISTRY AUDIT TOOL + 6 FIXES + CREDIBILITY DEBT HONEST ACCOUNTING. Continuation of same-day 2026-04-23 work after the public lockdown commit. Built scripts/audit-committee-registry.cjs — read-only scan of fec-committee-registry.json with 4 anomaly categories (file-missing, name-mismatch, shared-profile, frontmatter-drift). Ran it, caught 6 clear bugs: (1) C00484642 "SMP" → was mapped to Winsenate.md → correctly remapped to Senate Majority PAC.md. (2) C00868315 "CONCERNED CITIZENS AGAINST CASINOS" → was on Equality Project PAC.md → unmapped (no gambling profile). (3) C00740126 "UNITEDEMOCRATS PAC" → was on Voter Protection Project.md → unmapped. (4-6) path-not-found fixes for Goldman/Markey/Himes (formal FEC names vs vault's common names). Commit 63bec4e1a deployed. THEN David asked the hard question: "how many mistakes like this are throughout the vault?" Honest answer given: 500-2,000 individual issues estimated across the vault, ranging from ~20-30 defamation-adjacent (Fairshake-pattern) to hundreds of cosmetic/stale. Two audits today found 12 bugs; every audit has surfaced real issues so far — no clean audit yet. We've audited <1% of vault surface area. David's reaction: "this whole system isn't working" — wants to pivot to the Ops app, tab-by-tab refinement, normie-friendly surfaces so he can SEE all the problems. Next session's entire mandate. (2026-04-23 evening, Code Claude). -->
+<!-- prior session: PUBLIC LOCKDOWN + CREDIBILITY AUDIT FIXES. Started by asking "why only 9 slugs public?" → David's call: nothing public yet, construction page only. Trimmed data/public-routes.json from 9 slugs to ["index"] (commit 50de0ad54, deploy run 24845584051 ✓). Then audit: David pointed at Trump's Contradiction card / IE tables → "are these correct?" Found 6 real issues, fixed 5, deferred 1: (1) DATA INTEGRITY — C00669259 (FF PAC / Future Forward USA) was wrongly linked to Fairshake PAC vault profile in data/fec-committee-registry.json; defamation-adjacent bug. Unmapped. (2) Committee name resolution: added display_name field to registry for 8 committees; build-fec-lifetime-panels.cjs now reads registry (display_name > fec_name) with fallback to committee-master.jsonl. (3) committee-master.jsonl was 0 bytes — ingest-fec-masters-bulk.cjs hardcoded path "Committee master" but disk had typo "Comittee Master"; added typo aliases + switched ingest to use resolveBulkSubdir. Re-ingested: 42K committees + 54K candidates. (4) Trump profile prose consistency: frontmatter said "44% from 6 mega-donors" but body said "10"; aligned to 10 per OpenSecrets/Brennan Center. (5) Griffin+Yass sidebar: annotated "(GOP ecosystem, per public reporting)" since our graph undercounts them ($13M/$0 tracked vs $100M+ real). (6) DEFERRED — 2024 FEC candidate-summary is stale (weball24.zip is Aug 2024 snapshot, shows Trump at $29K for 2024 vs real ~$375M+); needs fresh FEC bulk download, not in-session solvable. 452 profile FEC-lifetime auto-blocks regenerated with correct committee names. Also: committee-master ingest now working via path typo fix; candidate-master bonus-populated as side effect. Commits landed on v4 today: 50de0ad54 (public lockdown), a6d777780 (audit fixes). Deploy 24848306134 ✓. (2026-04-23, Code Claude). -->
 <!-- prior session: CREDIBILITY SWEEP — 9 COMMITS DEPLOYED + PROFILESEARCH WIP. Phase 1-5 credibility fixes + per-profile Ask widget + top-nav search autocomplete. (1) Profile tab nesting bug fixed — clicking Analysis/Overview tabs now shows prose (was blank). (2) Edge role classifier lib: scripts/lib/edge-role-taxonomy.cjs classifies every (type, role) pair; 346,573 edges classified cleanly; 51 tests. (3) Ask engine category separation: direct vs IE-support vs IE-oppose vs campaign-expenditure split cleanly in summary headline; glossary tooltip HTML-attribute-leak bug fixed. (4) Raise reconciliation field: closes "$6.2M in / $465M out" credibility gap by surfacing FEC candidate-summary lifetime total + small-dollar-rollup gap per politician. (5) FEC ingest bug fixes: Cruz lifetime $176M→$271M via re-sync of 627 politicians (presidential committees were missing); 565 fec-api edges cycle→null + lifetime-cumulative metadata (Hawley's $81M no longer falsely labeled "2030 cycle"). (6) fec-api vs pas2 dedup via sumMonetaryEdgesDedup: max(lifetime-cumulative, per-cycle-sum) per (from,to,role) pair — American Crossroads gave $347M→$259M. (7) Phase 4 current-cycle scope: new blue card on every politician Ask summary showing 2026-cycle totals above the yellow lifetime card. (8) Phase 5 auto-block fix — THE BIG ONE: routed IE-support + campaign-expenditure away from `monetary-detail` so 22 politician profile "Top donors" tables stopped showing super-PACs that ran AGAINST them as their #1 donor. Cortez Masto: SLF PAC $25.6M→DSCC $518K. Mark Kelly: NRSC $9.9M→DSCC $2.4M. (9) Per-profile Ask widget: 3 type-aware pre-verified prompt buttons on every profile page. 8 commits pushed to v4 — GitHub Actions deploy run 24811850889 succeeded. IN PROGRESS: ProfileSearch top-nav autocomplete (scripts/build-profile-search-index.cjs, quartz/components/ProfileSearch.tsx) — David gave nav-bar placement feedback mid-session, code moved from hero to .v3-topbar but not yet browser-verified. Build completed; commit pending. (2026-04-22, Code Claude). -->
 <!-- prior session: ADR-0017 DATA-COMPLETE TIER MARATHON + 4 RENDERING PASSES + ENRICHMENT SPRINT + DOC SURFACE CLEANUP. Shipped 5-tier readiness system (raw→draft→ready→data-complete→verified→s-tier). 446 profiles classified as data-complete across Sessions A-K (11 backfill scripts). Rendering stack built: wrap-profile-sections.ts transformer + ProfileTabs refactored + ProfileHeader widened + ProfileTOC sidebar + DataCompleteBanner killed per David review. Kill-switch TIER_GATED_PUBLISHING stays false — nothing publicly exposed. Enrichment sprint (scripts/enrichment-sprint.sh, 25 steps) ran 42min; 19/25 succeeded including IRS 990 bulk (25GB refresh). Eval harness (data/evals/queries.jsonl, 28 golden queries) + 16-test regression suite shipped. Four new ADRs: 0017 accepted, 0018 rendering architecture, 0019 R2 bulk storage proposed, 0020 enrichment cadence proposed. Docs aligned across CLAUDE.md, Vault Rules, Profile Template, ops/. Final push 9f05b6262. ~34 commits. See content/Admin Notes/session-log-2026-04-21.md + content/Admin Notes/handoff-2026-04-22.md. (2026-04-21, Code Claude). -->
 <!-- prior session: ADR-0016 FINISH + STEP 5 STUBS + MAINTENANCE SCRIPTS. Evening continuation of 2026-04-21 morning. Wired computeBreakdown into compare + leaderboard Ask panels. Step 5 — 7 new org/PAC stubs + AFSCME International alias. New scripts/dedupe-donor-name-variants.cjs + refresh-edge-count-signal.cjs. Final push 4230f5f33. (2026-04-21 evening, Code Claude). -->
 <!-- prior session: ORPHAN-ENTITIES AUDIT + UX-BREAKDOWN REFACTOR. ADR-0016 labeled-breakdown. Final push 016cd986e. (2026-04-21 early, Code Claude). -->
 
+
+## HANDOFF — 2026-04-23 EVENING (Pivot to Ops app — tab-by-tab refinement for normie-friendly visibility)
+
+**The pivot.** After today's work surfaced 12 real bugs across 2 audits and David's question "how many mistakes are throughout the vault?" got an honest estimate of 500-2,000, David's call: **"this whole system isn't working"**. New mandate: make the Ops app (internal dashboard at localhost:3333, Next.js app in `ops/`) actually USEFUL for seeing vault problems. Tab-by-tab refinement. Normie-friendly. Take it slow.
+
+### Why this matters
+
+The Ops app has ~25 pages built but many are experimental / ops-engineer-facing with dense dev-style UI. David needs surfaces that SHOW him problems — "where do the bugs live, what's stale, what contradicts itself" — without requiring him to read CSV outputs. Every audit we've run has been a one-off script that writes to a report file. That's not a workflow David can sustain. He needs the ops app to be his daily read, the same way OpenSecrets' researchers have one dashboard they watch.
+
+### Ops app inventory (from CLAUDE.md)
+
+**Daily-use pages:** /profile, /sources, /attention, /signoff-queue, /signoff-launch, /operations (security + costs), /system-health
+
+**Weekly-use:** /calendar, /bugs, /pipelines, /scripts, /relationships
+
+**Experimental (kept, not promoted):** /contradictions, /connections, /money-trail, /capitol-trades, /publisher, /distribution, /class-tags, /policies
+
+### Today's commits (4 commits deployed to v4)
+
+- `50de0ad54` — Public exposure lockdown. thedonormap.org → construction splash only.
+- `a6d777780` — Credibility audit fixes. Fairshake unmapping, committee-master ingest fix (0 bytes → 42K rows), display_name aliases for 8 committees, Trump prose consistency, Griffin/Yass sourcing annotation.
+- `050e91c3b` — Session save.
+- `63bec4e1a` — Registry audit tool + 6 more bug fixes (SMP remap, Goldman/Markey/Himes paths, 2 unmappings).
+
+### Deferred items from earlier today (NOT worked on)
+
+- Fresh FEC bulk download (weball24, weball26 — current data is Aug 2024 snapshot)
+- ProfileSearch browser verification
+- `donors_to` intent row splitting (Phase 2 headline fixed, rows not)
+- ADR-0017 readiness tier sync into entities.jsonl
+
+### Next session priority (single focus)
+
+**Audit + refine the Ops app page by page, starting with the 7 daily-use ones.** For each page:
+1. Read current implementation in `ops/src/app/<page>/page.tsx`
+2. Note what it's supposed to show vs what it actually renders
+3. Identify what a non-developer would find confusing
+4. Identify dated-looking data / stale signals
+5. Propose a tightened version focused on "show me the problems"
+6. Get David's sign-off, then implement
+
+Start with `/attention` (where the attention queue lives — the most likely "show me problems" surface) OR `/signoff-queue` (where launch sign-off happens). David will pick first tab.
+
+### Open admin notes to skim next session
+
+- `content/Admin Notes/fec-candidate-summary-ingest-bugs.md` — stale FEC bulk
+- `content/Admin Notes/Attention Queue.md` — daily dispatcher output
+- `content/Admin Notes/handoff-2026-04-22.md` — previous handoff
+- `content/Admin Notes/sprint-schedule.md` — task list including cc_192-cc_194
+
+---
 
 ## HANDOFF — 2026-04-23 (Public lockdown + credibility audit fixes — 2 commits, both deployed)
 

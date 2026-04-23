@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: normal
 status: active
-last-updated: '2026-04-23-public-lockdown-plus-credibility-audit-fixes'
+last-updated: '2026-04-23-evening-registry-audit-tool-plus-ops-pivot-decision'
 sprint-id: "2026-04-sprint"
 sprint-start: '2026-04-10'
 sprint-end: '2026-04-30'
@@ -1972,6 +1972,22 @@ phase_1_tasks:
       added_adhoc: true
       notes: |
         Commit 50de0ad54; deploy run 24845584051 ✓. David's call — "I want the construction page only". Removed 3 profile slugs (Trump, Rubio, Pelosi) + 5 methodology slugs (legal, corrections, Behind-the-Map, Our-Sources, The-Receipts). thedonormap.org now shows only the v3-topbar construction splash. Every profile URL serves the under-construction placeholder. Local dev unchanged (CONSTRUCTION_MODE only set in deploy.yml). TIER_GATED_PUBLISHING=false holds separately.
+
+    - id: cc_194
+      task: "Registry audit tool + 6 committee mis-mapping fixes"
+      status: done
+      completed_date: 2026-04-23
+      added_adhoc: true
+      notes: |
+        Commit 63bec4e1a. New scripts/audit-committee-registry.cjs — read-only scan of data/fec-committee-registry.json with 4 anomaly categories (file-missing, name-mismatch, shared-profile, frontmatter-drift). Ran against 1,375 committee entries. Fixed 6 clear bugs: (1) C00484642 SMP → remapped Winsenate.md → Senate Majority PAC.md; (2) C00868315 Concerned Citizens Against Casinos → unmapped from Equality Project PAC.md (unrelated); (3) C00740126 UnitedDemocrats PAC → unmapped from Voter Protection Project.md (unrelated); (4-6) path-not-found fixes for Goldman/Markey/Himes (formal FEC names "Daniel S. Goldman"/"Edward J. Markey"/"James A. Himes" → vault's actual paths "Dan Goldman"/"Ed Markey"/"Jim Himes"). Post-fix audit: 0 critical, 58 high (all legit parent-child aggregation), 131 medium (same), 16 info. Audit tool now runnable any time via `node scripts/audit-committee-registry.cjs`.
+
+    - id: cc_195
+      task: "HONEST ACCOUNTING: how many mistakes throughout vault?"
+      status: done
+      completed_date: 2026-04-23
+      added_adhoc: true
+      notes: |
+        Meta-task. David asked "how many mistakes like Fairshake are probably throughout the vault?" Honest estimate: 500-2,000 individual issues, including ~20-30 defamation-adjacent (Fairshake-pattern registry mis-mappings), ~100-300 frontmatter-prose contradictions (like Trump's 6-vs-10 mega-donors), ~50-150 dollar-figure mismatches between prose and graph data (like Griffin/Yass undercount), ~500-1000 cryptic FEC committee name UX issues, ~20-50 duplicate profiles for same entity (Never Back Down × 2 confirmed). Every audit run today has surfaced real bugs — no clean audit yet. David's reaction: pivot — wants Ops app refined to make problems SHOW UP visibly so he can see/fix them systematically rather than via one-off audit scripts.
 
     - id: cc_193
       task: "Credibility audit: Fairshake mis-mapping + committee name resolution + Trump prose"
