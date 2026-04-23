@@ -58,9 +58,27 @@ last-updated: 2026-04-23
 5. **Running problems log:** `content/Admin Notes/ops-audit-2026-04-23.md` has 24 open findings (P-001 through P-024) awaiting triage.
 6. **McConnell + Trump canonical totals** — tolerated until 2026-05-15 (blocked on fresh FEC bulk David has paused).
 
-### Next session priority
+### Phase 1 skeleton shipped (85a80d681, same session)
 
-**Phase 1 harness skeleton.** Build `scripts/vault-audit.cjs` that invokes every existing audit script (pipeline-janitor, audit-committee-registry, reclassify-readiness, edge-role-taxonomy-dryrun, etc.) and aggregates findings into a single JSON at `content/Admin Notes/vault-audit-latest.json`. Ops pages (`/system-health`, `/attention`) then read from that single artifact. No new checks yet — just coordination. Per ADR-0021 Phase 3, new checks get added one per session AFTER the skeleton is stable.
+Delta update: `scripts/vault-audit.cjs` built + tested + committed. The harness runs 6 existing audit scripts (pipeline-janitor, audit-committee-registry, reconcile-canonical-totals, no-inline-field, publication-readiness, reconciliation-framework-tier-1) in 5.6s total and writes a unified JSON artifact to `content/Admin Notes/vault-audit-latest.json` (gitignored — derived).
+
+**First run results on current vault:**
+- 4/6 checks clean
+- 2 with findings (489 pipeline-janitor + 145 reconciliation-framework — both known pre-existing backlogs)
+- 0 errored
+
+**Also saved memory rule:** `feedback_recommend_new_chat.md` — Claude should proactively flag natural breakpoints for fresh chats instead of silently continuing into degraded context.
+
+### Next session priority (now Phase 2)
+
+**Phase 2 — wire the Ops app to the harness.** Specifically:
+1. Make `/system-health` read `content/Admin Notes/vault-audit-latest.json` and display a plain-English summary (4/6 clean, 2 with findings, etc.).
+2. Make `/attention` also read from the artifact to merge findings into the existing Attention Queue display.
+3. Add a "Re-run harness" button in `/system-health` that invokes `node scripts/vault-audit.cjs` via an ops API route.
+
+This is execution of a well-defined spec. Phase 3 (new checks) comes after Phase 2 is stable.
+
+**Fresh chat recommended for Phase 2.** Scope change (backend → UI), this session is heavy with context. Fresh /preflight picks up cleanly from this handoff block.
 
 ---
 

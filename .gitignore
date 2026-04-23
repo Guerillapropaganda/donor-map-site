@@ -45,3 +45,8 @@ data/legislator-positions/
 # Rebuilt in CI by scripts/ci-prebuild.cjs — exceeds GitHub 100MB cap
 data/relationships-per-profile.json
 quartz/static/profile-index.json
+
+# Unified audit harness artifact (ADR-0021 Phase 1) — regenerated on demand,
+# not a source of truth. Future sessions run `node scripts/vault-audit.cjs`
+# to refresh.
+content/Admin Notes/vault-audit-latest.json
