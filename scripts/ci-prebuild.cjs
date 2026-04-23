@@ -37,6 +37,12 @@ const ARTIFACTS = [
     script: 'scripts/build-relationships-per-profile.cjs',
     reason: '113MB — static import in quartz/components/{ProfileWidget,DiscoveryPanel}.tsx',
   },
+  {
+    name: 'profile-search-index',
+    output: 'quartz/static/profile-index.json',
+    script: 'scripts/build-profile-search-index.cjs',
+    reason: 'Client-fetched autocomplete source for ProfileSearch (copied to public/static/ by Plugin.Static during build)',
+  },
 ];
 
 function run(cmd) {

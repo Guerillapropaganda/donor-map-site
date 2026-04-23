@@ -41,6 +41,11 @@ export const sharedPageComponents: SharedLayout = {
     // via internal frontmatter check. Shows 3 pre-verified prompt
     // buttons tuned to the profile's type.
     Component.ProfileAsk(),
+    // ProfileSearch is a wiring-only mount: emits no JSX, just ships
+    // the init script + SCSS globally. The actual search inputs are
+    // inlined in LandingPage (hero) and DonorMapSidebar. Every
+    // [data-profile-search-root] element gets wired.
+    Component.ProfileSearch(),
   ],
   footer: Component.Footer({
     links: {

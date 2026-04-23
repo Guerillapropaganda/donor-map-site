@@ -389,6 +389,25 @@ const DonorMapSidebar: QuartzComponent = ({
         <div class="dm-subtitle">v2.0 — {allFiles.length.toLocaleString()} nodes tracked</div>
       </div>
 
+      {/* Profile search — autocomplete against profile-index.json.
+          Sidebar placement is compact (see profileSearch.scss). Wired
+          by ProfileSearch.afterDOMLoaded, registered in
+          quartz.layout.ts afterBody. */}
+      <div class="profile-search profile-search-sidebar" data-profile-search-root data-placement="sidebar">
+        <label class="profile-search-label">
+          <span class="profile-search-icon" aria-hidden="true">⌕</span>
+          <input
+            type="text"
+            class="profile-search-input"
+            placeholder="Search…"
+            autocomplete="off"
+            spellcheck={false}
+            data-profile-search-input
+          />
+        </label>
+        <div class="profile-search-dropdown" data-profile-search-dropdown hidden></div>
+      </div>
+
       {/* Expandable navigation tree */}
       <nav class="dm-nav">
         <ul class="dm-nav-list dm-nav-root">

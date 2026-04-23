@@ -1,0 +1,191 @@
+/* ProfileSearch — autocomplete dropdown, two placements
+ * .profile-search-hero: homepage hero, large + prominent
+ * .profile-search-sidebar: left sidebar, compact
+ */
+
+.profile-search {
+  position: relative;
+  font-family: "Space Mono", monospace;
+}
+
+.profile-search-label {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  background: #fff;
+  border: 2px solid #111;
+  border-radius: 0;
+  transition: border-color 0.15s linear;
+
+  &:focus-within {
+    border-color: #fbbf24;
+    box-shadow: 0 0 0 2px rgba(251, 191, 36, 0.3);
+  }
+}
+
+.profile-search-icon {
+  padding-left: 10px;
+  font-size: 18px;
+  color: #666;
+  pointer-events: none;
+}
+
+.profile-search-input {
+  flex: 1;
+  border: none;
+  outline: none;
+  background: transparent;
+  padding: 10px 12px 10px 4px;
+  font-family: "Space Mono", monospace;
+  font-size: 14px;
+  color: #111;
+
+  &::placeholder {
+    color: #999;
+    font-style: italic;
+  }
+}
+
+/* Placement variants */
+
+/* Nav placement: inside the top nav bar of the landing page, to the
+   left of the category links. Compact + unobtrusive against the dark
+   nav chrome. Flex-grows to absorb available space. */
+.profile-search-nav {
+  flex: 1 1 auto;
+  max-width: 360px;
+  margin: 0 16px;
+
+  .profile-search-label {
+    background: rgba(255, 255, 255, 0.06);
+    border-color: rgba(255, 255, 255, 0.25);
+    border-width: 1px;
+
+    &:focus-within {
+      border-color: #fbbf24;
+      background: rgba(255, 255, 255, 0.10);
+    }
+  }
+
+  .profile-search-icon {
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 14px;
+    padding-left: 8px;
+  }
+
+  .profile-search-input {
+    font-size: 12px;
+    padding: 6px 10px 6px 4px;
+    color: #eee;
+
+    &::placeholder {
+      color: rgba(255, 255, 255, 0.45);
+    }
+  }
+}
+
+.profile-search-sidebar {
+  margin: 0 0 14px 0;
+
+  .profile-search-input {
+    font-size: 13px;
+  }
+}
+
+/* Dropdown */
+.profile-search-dropdown {
+  position: absolute;
+  top: calc(100% + 4px);
+  left: 0;
+  right: 0;
+  background: #fff;
+  border: 2px solid #111;
+  max-height: 380px;
+  overflow-y: auto;
+  z-index: 100;
+  box-shadow: 4px 4px 0 rgba(17, 17, 17, 0.15);
+
+  &[hidden] {
+    display: none;
+  }
+}
+
+.profile-search-empty {
+  padding: 12px 14px;
+  color: #666;
+  font-style: italic;
+  font-size: 13px;
+}
+
+.profile-search-result {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 14px;
+  border-bottom: 1px dashed #ddd;
+  text-decoration: none;
+  color: #111;
+  cursor: pointer;
+
+  &:last-child { border-bottom: none; }
+
+  &:hover,
+  &.profile-search-result-active {
+    background: #fef3c7;
+  }
+}
+
+.profile-search-badge {
+  flex-shrink: 0;
+  display: inline-block;
+  padding: 2px 6px;
+  background: #111;
+  color: #fbbf24;
+  font-family: "Space Mono", monospace;
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  min-width: 40px;
+  text-align: center;
+}
+
+.profile-search-main {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+  flex: 1;
+}
+
+.profile-search-name {
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  color: #111;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.profile-search-ctx {
+  font-family: "Space Mono", monospace;
+  font-size: 11px;
+  color: #666;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* Mobile */
+@media (max-width: 800px) {
+  .profile-search-hero {
+    max-width: 100%;
+    margin-top: 14px;
+  }
+  .profile-search-dropdown {
+    max-height: 60vh;
+  }
+  .profile-search-name { font-size: 13px; }
+  .profile-search-ctx { font-size: 10px; }
+}

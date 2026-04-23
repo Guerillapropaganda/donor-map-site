@@ -44,3 +44,4 @@ data/legislator-positions.jsonl
 data/legislator-positions/
 # Rebuilt in CI by scripts/ci-prebuild.cjs — exceeds GitHub 100MB cap
 data/relationships-per-profile.json
+quartz/static/profile-index.json

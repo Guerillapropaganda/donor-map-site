@@ -56,6 +56,7 @@ import CapitolTrades from "./CapitolTrades"
 import TipForm from "./TipForm"
 import AskPanel from "./AskPanel"
 import ProfileAsk from "./ProfileAsk"
+import ProfileSearch from "./ProfileSearch"
 
 export {
   ArticleTitle,
@@ -116,4 +117,5 @@ export {
   TipForm,
   AskPanel,
   ProfileAsk,
+  ProfileSearch,
 }

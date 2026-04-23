@@ -199,6 +199,23 @@ const LandingPage: QuartzComponent = ({
       {/* ═══ TOP BAR ═══ */}
       <nav class="v3-topbar">
         <span class="v3-logo">The Donor Map<span class="v3-dollar">$</span></span>
+        {/* Nav search — wired by ProfileSearch.afterDOMLoaded.
+            Public site filters to readiness ∈ {ready, data-complete,
+            verified}; localhost shows everyone including drafts. */}
+        <div class="profile-search profile-search-nav" data-profile-search-root data-placement="nav">
+          <label class="profile-search-label">
+            <span class="profile-search-icon" aria-hidden="true">⌕</span>
+            <input
+              type="text"
+              class="profile-search-input"
+              placeholder="Search politicians, donors, PACs…"
+              autocomplete="off"
+              spellcheck={false}
+              data-profile-search-input
+            />
+          </label>
+          <div class="profile-search-dropdown" data-profile-search-dropdown hidden></div>
+        </div>
         <div class="v3-nav-links">
           <a href={absHref("Politicians")}>Politicians</a>
           <a href={absHref("Donors--and--Power-Networks")}>Donors</a>

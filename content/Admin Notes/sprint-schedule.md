@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: normal
 status: active
-last-updated: '2026-04-21-evening-adr-0016-finish-step-5-stubs-donor-dedup-edge-count-refresh'
+last-updated: '2026-04-22-credibility-sweep-8-commits-deployed-profilesearch-wip'
 sprint-id: "2026-04-sprint"
 sprint-start: '2026-04-10'
 sprint-end: '2026-04-30'
@@ -1893,6 +1893,78 @@ phase_1_tasks:
       notes: |
         scripts/backfill-and-prune-related-edges.cjs audited 27K related edges. Backfilled standardized provenance strings for 10,643 frontmatter-migration + bidirectional-normalizer evidence gaps. Pruned 5,800 bi-orphan edges (both endpoints not in entities.jsonl — essay-to-essay navigation masquerading as relationships). Single-orphan edges (1 endpoint real, other an essay or un-stubbed person) left alone for stub creation.
 
+    - id: cc_183
+      task: "Fix nested profile-section-cards breaking prose visibility on tabs"
+      status: done
+      completed_date: 2026-04-22
+      added_adhoc: true
+      notes: |
+        Commit 6268eb8eb. ProfileHeader.tsx client-side wrapProfileSections re-wrapped content the server-side wrap-profile-sections transformer already wrapped, producing 3-deep nesting of .profile-section-card. When ProfileTabs hid the outer voting-tab card, the inner overview/analysis prose became invisible too. Fix: 12-line early-return if any server-wrapped card already exists. Bernie whoHeAncestorCards 3→1; all 6 Analysis-tab prose cards now render (Central Thesis, Donor Class Map, Class Analysis, Four Patterns, Small-Dollar Evolution, Anti-DOGE).
+
+    - id: cc_184
+      task: "Phase 2: edge role classifier library + Ask engine category separation"
+      status: done
+      completed_date: 2026-04-22
+      added_adhoc: true
+      notes: |
+        Commit bb1198c13. New scripts/lib/edge-role-taxonomy.cjs: single source of truth mapping (edge.type, edge.role) → category + bucket + countsAsMoneyReceived/Given. 346,573 edges classified cleanly (0 unknowns). ops/src/lib/edge-role-taxonomy.ts adapter. Ask engine handleSummary now splits direct vs IE-support vs IE-oppose; campaign-expenditure excluded from donor snapshots. Glossary tooltip HTML-attribute-leak bug fixed in quartz/components/scripts/askPanel.inline.ts (nested glossary terms were breaking data-def attribute quoting on Leonard Leo's profile). Bernie answer: "$6.2M tracked inflows / $465M outflows" → "$568K direct + $5.6M IE (not received) / gave $8.5K politically / $2.6M IE-oppose against him". 32 unit tests + dry-run script.
+
+    - id: cc_185
+      task: "Phase 3: raise reconciliation field on politician Ask summaries"
+      status: done
+      completed_date: 2026-04-22
+      added_adhoc: true
+      notes: |
+        Commit 6d363cea4. Closes "$6.2M in / $465M out" credibility gap by surfacing FEC candidate-summary lifetime total + naming the graph-tracked vs small-dollar split. New raise_reconciliation field on summary response with narrative: "Bernie raised $550M lifetime across 20 FEC cycles (1988–2026). The graph traces $568K to 99 named donors (≥$1K aggregate); the remaining ~$549M came from sub-$1K donors rolled up in FEC summary totals...". Big-cycles logic: amount ≥ $25M OR in fec_candidate_history with amount ≥ $5M (catches presidential runs where ingest under-reports, like Cruz 2016 at $6M appearing due to missing presidential committee rollup). UI: dedicated yellow-accent .ask-raise-recon card between headline answer and labeled breakdown.
+
+    - id: cc_186
+      task: "FEC presidential-committee rollup staleness + fec-api cycle mis-attribution"
+      status: done
+      completed_date: 2026-04-22
+      added_adhoc: true
+      notes: |
+        Commit 11158eac3. Two separate data-quality fixes surfaced during Phase 3 work. (a) Re-ran scripts/sync-politician-summary-receipts.cjs --write; 627 politicians updated. Cruz lifetime $176M→$271M (2016: $6M→$100M — his presidential committee's receipts weren't being rolled up). Biden $2.3B, Obama $1.56B, Harris $1.24B, Romney, Kerry all corrected. Root cause: sync ran before historical-coverage-backfill populated fec_candidate_ids with non-principal committee IDs. (b) New scripts/fix-fec-api-cycle-attribution.cjs wrote null-cycle + metadata.cycle_attribution="lifetime-cumulative" to 565 fec-api edges. Previously every fec-api edge was stamped with the profile's current election cycle (Hawley's 5 fec-api edges all cycle=2030); in reality they're lifetime cumulative from the candidate-page "Top outside spenders" table. Admin note content/Admin Notes/fec-candidate-summary-ingest-bugs.md documents both.
+
+    - id: cc_187
+      task: "fec-api vs fec-pas2 lifetime double-count dedup"
+      status: done
+      completed_date: 2026-04-22
+      added_adhoc: true
+      notes: |
+        Commit adb5fc0d3. sumMonetaryEdgesDedup: groups monetary edges by (from,to,role) with case-insensitive + apostrophe-normalized key; uses max(lifetime-cumulative, sum-of-per-cycle-transactions) per pair. Handles common case (fec-api superset > pas2 sum, 203/238 observed pairs) and stale-fec-api case (pas2 sum > fec-api, 9/238 pairs — e.g. NRSC→Cortez Masto $11M pas2 vs $4.4M stale fec-api). Wired into handleSummary for all 5 sum paths. American Crossroads gave $347M→$259M ($88M duplicate caught). Hawley IE-oppose $80.5M→$75.8M (Emily's List name variants + Patriots Prevail). 7 new unit tests (39 total in taxonomy suite).
+
+    - id: cc_188
+      task: "Phase 4: current-cycle scope on politician Ask summaries"
+      status: done
+      completed_date: 2026-04-22
+      added_adhoc: true
+      notes: |
+        Commit d1bf32fa9. currentCycle() + filterEdgesByCycle() helpers in scripts/lib/edge-role-taxonomy.cjs (FEC 2-year cycle, even-year label, bumps forward from odd years). null-cycle edges explicitly excluded from cycle-scoped filters. raise_reconciliation gains current_cycle sub-object: cycle, summary_total, direct_received+count, ie_support, ie_oppose, direct_given, has_activity, narrative. Handles 4 cases gracefully (empty cycle, summary+graph, small-dollar-dominant, graph-without-summary-filed-yet). UI: new blue-accent .ask-current-cycle card above the yellow .ask-raise-recon card so readers see the active 2026 cycle first, lifetime as big-picture context. 6 new unit tests (51 total).
+
+    - id: cc_189
+      task: "Phase 5: profile auto-block fix — IE + campaign-expenditure no longer routed as donors"
+      status: done
+      completed_date: 2026-04-22
+      added_adhoc: true
+      notes: |
+        Commit 90f6dbc32. THE BIG READER-FACING FIX. scripts/build-relationships-per-profile.cjs was routing every non-IE-oppose monetary edge into recipient's donors list. 22 politician profile "Top donors" tables were showing super-PACs that ran IE-OPPOSE against them as their #1 donor (literal opposite of reality). Classifier-driven routing: CAMPAIGN_EXPENDITURE skipped; IE_SUPPORT gets new parallel structure (ie-support-detail + ie-supported-by + ie-support-targets mirroring ie-oppose); DIRECT_CONTRIBUTION + employee-contributions + party-coordinated keep going to donors/politicians-funded/monetary-detail. monetary-detail entries gain `role` field. 51,208 false-donor edges removed (210K→159K). Example reversals: Cortez Masto SLF PAC $25.6M→DSCC $518K. Mark Kelly NRSC $9.9M→DSCC $2.4M, NRA $544K. Katie Britt Alabama Christian Conservatives $10.8M→WinRed $293K, NRSC $51K. Nancy Mace SC Patriots PAC $3.3M→Koch $25K. topDonorsFromArtifact in build-profile-data-panels.cjs defensively filters role to direct-contribution family. ProfileWidget.tsx comment updated to reflect Phase 5 contract.
+
+    - id: cc_190
+      task: "Per-profile Ask widget: 3 type-aware pre-verified prompt buttons"
+      status: done
+      completed_date: 2026-04-22
+      added_adhoc: true
+      notes: |
+        Commit b5b0a3181. New quartz/components/ProfileAsk.tsx + styles/profileAsk.scss. Renders ASK ABOUT [NAME] section on every publishable profile type (politician/state-politician/local-politician/donor/corporation/pac/think-tank/lobbying-firm). 3 type-aware buttons per type, each pre-verified against live Ask engine to avoid generic-fallback (cut 5+ plausible prompts that didn't have intent coverage). politician: tell-me-about / who-funds / voting-record. donor: tell-me-about / what-does-X-fund / what-boards. corp+pac: tell-me-about / what-does-X-fund / who-is-on-board. think-tank: tell-me-about / who-funds / who-is-on-board. lobbying-firm: tell-me-about / what-does-X-fund / who-is-on-board. Click → inline fetch to /api/ask → simplified render (answer + top-5 rows + See-full-answer drill link). Graceful degradation on live site ("Ask backend not reachable — public endpoint planned for May 2026 — Open in /Ask →"). "tell me about X" is universal button #1 because it hits summary intent which surfaces the full Phase 2-4 stack (current-cycle card, raise reconciliation, category-split breakdown). data-user-tier="free" hardcoded for paid-tier wiring.
+
+    - id: cc_191
+      task: "ProfileSearch: autocomplete in top nav bar + left sidebar (WIP — not yet committed)"
+      status: in-progress
+      completed_date: null
+      added_adhoc: true
+      notes: |
+        Scripts + component written; build completed; browser-verification pending next session. New scripts/build-profile-search-index.cjs emits quartz/static/profile-index.json (1,522 entries: 707 politicians, 642 donors, 173 corps; readiness mix 858 raw / 445 ready / 219 draft). Wired into scripts/ci-prebuild.cjs so the index regenerates on every build; manual cp to public/static/ post-build required because Plugin.Static doesn't copy it automatically (TODO). New quartz/components/ProfileSearch.tsx is a wiring-only component (no JSX) that ships init script + SCSS globally. Search input HTML inlined in two places: (1) quartz/components/LandingPage.tsx .v3-topbar between "The Donor Map$" logo and POLITICIANS/DONORS/STORIES/INTERACTIVE nav links (David's mid-session screenshot-circled placement correction — rejected original hero-below-subtitle location); (2) quartz/components/DonorMapSidebar.tsx under the DM logo. Client hostname filter: localhost shows everyone; thedonormap.org filters to readiness ∈ {ready, data-complete, verified}. Known drift: entities.jsonl only has raw/draft/ready tiers, data-complete+verified not synced from frontmatter yet (separate follow-up). scripts/build-profile-search-index.cjs + quartz/components/ProfileSearch.tsx + quartz/components/styles/profileSearch.scss + quartz/components/index.ts + quartz.layout.ts + quartz/components/LandingPage.tsx + quartz/components/DonorMapSidebar.tsx + scripts/ci-prebuild.cjs + .gitignore. NEXT: browser-verify on localhost:8098/, commit, merge to v4.
+
   research_claude:
     - id: rc_01
       task: "Write ops/CLAUDE.md (frontmatter-only + URL editor-only rules)"
@@ -2563,7 +2635,9 @@ parser_guidance:
         Removed inline body dataview fields on Stratton and Miller. Fixed Mark Green central-thesis typo.
         Flag: Mark Green FEC/GovTrack auto-blocks show wrong politician data (govtrack-id 400159, 2010-2014 cycles). Pipeline correction needed.
 
-**Schedule last updated: 2026-04-21 evening (Code Claude: ADR-0016 FINISH + STEP 5 STUBS + MAINTENANCE SCRIPTS. 4 commits. ADR-0016 rollout finished: computeBreakdown wired into compare + leaderboard (ops/src/app/api/ask/route.ts + ops/src/app/ask/page.tsx + quartz askPanel.inline.ts + askPanel.scss) — side-by-side labeled breakdowns on compare, per-row + headline breakdown on leaderboards. Step 5 — 7 new org/PAC stubs (HMF, STCoC, EPP, RGA, SAG, WfWA-F, JVC2004 — 5 via registrar, 2 manually bypassing substring-dup guard) + AFSCME International alias; dedup routed 1,768 edges onto new canonicals. .husky/pre-push baked NODE_OPTIONS=--max-old-space-size=8192 so tsc no longer OOMs on the 128MB relationships-per-profile.json import. scripts/dedupe-donor-name-variants.cjs (49 routings, 137 edges — Uihlein couple / Samuel↔Sam / Lawrence↔Larry / Paul Elliott→Paul Singer). scripts/refresh-edge-count-signal.cjs (2,030 of 2,111 entities refreshed — BlackRock 0→126, Fidelity 1→555, Charles Schwab 0→236). Stale AUTO_MERGE on relationships.jsonl resolved by taking worktree version into index then unstaging (no data loss; dedup naturally rationalized worktree 70,519 → 67,786 lines matching HEAD). Final push 4230f5f33.)**
+**Schedule last updated: 2026-04-22 (Code Claude: CREDIBILITY SWEEP — 8 commits deployed to v4 [run 24811850889 ✓] + ProfileSearch WIP. cc_183 profile nesting fix (6268eb8eb), cc_184 Phase 2 classifier + Ask split (bb1198c13), cc_185 Phase 3 raise reconciliation (6d363cea4), cc_186 FEC presidential rollup + fec-api cycle fix (11158eac3), cc_187 fec-api vs pas2 dedup (adb5fc0d3), cc_188 Phase 4 current-cycle card (d1bf32fa9), cc_189 Phase 5 auto-block donors fix — 22 politician profiles corrected (90f6dbc32), cc_190 per-profile Ask widget (b5b0a3181), cc_191 ProfileSearch top-nav autocomplete [in-progress, browser-verify next session]. The reader-facing wins: Cortez Masto's #1 top donor flipped from SLF PAC $25.6M spent against her → DSCC $518K real. Mark Kelly's #1 flipped from NRSC $9.9M spent against him → DSCC $2.4M. Bernie's Ask answer: "$6.2M tracked inflows / $465M outflows" → "$568K direct + $5.6M IE (not received) / gave $8.5K politically". Cruz lifetime $176M→$271M (2016 presidential committee was missing). 126/126 tests pass.)**
+
+**Schedule prior session: 2026-04-21 evening (Code Claude: ADR-0016 FINISH + STEP 5 STUBS + MAINTENANCE SCRIPTS. 4 commits. ADR-0016 rollout finished: computeBreakdown wired into compare + leaderboard (ops/src/app/api/ask/route.ts + ops/src/app/ask/page.tsx + quartz askPanel.inline.ts + askPanel.scss) — side-by-side labeled breakdowns on compare, per-row + headline breakdown on leaderboards. Step 5 — 7 new org/PAC stubs (HMF, STCoC, EPP, RGA, SAG, WfWA-F, JVC2004 — 5 via registrar, 2 manually bypassing substring-dup guard) + AFSCME International alias; dedup routed 1,768 edges onto new canonicals. .husky/pre-push baked NODE_OPTIONS=--max-old-space-size=8192 so tsc no longer OOMs on the 128MB relationships-per-profile.json import. scripts/dedupe-donor-name-variants.cjs (49 routings, 137 edges — Uihlein couple / Samuel↔Sam / Lawrence↔Larry / Paul Elliott→Paul Singer). scripts/refresh-edge-count-signal.cjs (2,030 of 2,111 entities refreshed — BlackRock 0→126, Fidelity 1→555, Charles Schwab 0→236). Stale AUTO_MERGE on relationships.jsonl resolved by taking worktree version into index then unstaging (no data loss; dedup naturally rationalized worktree 70,519 → 67,786 lines matching HEAD). Final push 4230f5f33.)**
 **Current phase: Launch 50 sprint for April 30 public launch. Ask surface complete on both ops and public Quartz. Coverage: politicians 44.7% OK, nonprofits 100% OK, donors 48.8% OK.**
 **Next checkpoint: Work remaining backlog WITHOUT new downloads first (376-politician name-matching fix, donor EIN partial-pass via existing 990 data, corp fed-ID partial-pass via existing FEC + USASpending). Then pause for David to download IRS EO BMF CSV (~30MB) + SEC EDGAR bulk for the remainder. Production Ask backend per ADR-0015 is architecture-only, separate session.**
 **New data sources added 2026-04-11: FDA (pharma/device/food enforcement), OCC (national bank enforcement), FTC (mergers + historical enforcement). All three live in CI + Ops app.**
