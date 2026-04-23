@@ -11240,10 +11240,12 @@
     "party": null,
     "aliases": [],
     "source": "fec-committee-master-bulk",
-    "vault_profile": "content/Donors & Power Networks/Dark Money/Winsenate.md",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Senate Majority PAC.md",
     "status": "mapped",
     "added": "2026-04-16T01:43:28.086Z",
-    "updated": "2026-04-16T01:43:28.086Z"
+    "updated": "2026-04-23T18:42:51.018Z",
+    "vault_slug": "senate-majority-pac",
+    "note": "Remapped 2026-04-23: SMP (FEC C00484642) is Senate Majority PAC, not WinSenate. Previously incorrectly pointed at Winsenate.md."
   },
   "C00486845": {
     "committee_id": "C00486845",
@@ -15006,10 +15008,12 @@
     "party": null,
     "aliases": [],
     "source": "fec-committee-master-bulk",
-    "vault_profile": "content/Donors & Power Networks/Super PACs/Voter Protection Project.md",
-    "status": "mapped",
+    "vault_profile": null,
+    "status": "unmapped",
     "added": "2026-04-16T01:43:28.086Z",
-    "updated": "2026-04-16T01:43:28.086Z"
+    "updated": "2026-04-23T18:42:51.018Z",
+    "vault_slug": null,
+    "note": "Unmapped 2026-04-23: UnitedDemocrats PAC is unrelated to Voter Protection Project. No matching vault profile."
   },
   "C00741355": {
     "committee_id": "C00741355",
@@ -16650,10 +16654,12 @@
     "party": null,
     "aliases": [],
     "source": "fec-committee-master-bulk",
-    "vault_profile": "content/Donors & Power Networks/Super PACs/Equality Project PAC.md",
-    "status": "mapped",
+    "vault_profile": null,
+    "status": "unmapped",
     "added": "2026-04-16T01:43:28.086Z",
-    "updated": "2026-04-16T01:43:28.086Z"
+    "updated": "2026-04-23T18:42:51.018Z",
+    "vault_slug": null,
+    "note": "Unmapped 2026-04-23: Concerned Citizens Against Casinos is a gambling-related PAC unrelated to Equality Project PAC. No vault profile exists yet."
   },
   "C00868513": {
     "committee_id": "C00868513",
@@ -18752,9 +18758,12 @@
     "connected_organization_name": null,
     "candidate_ids": [],
     "cycles": [],
-    "vault_profile": "content/Politicians/Democrats/House/Daniel S. Goldman/_Daniel S. Goldman Master Profile.md",
+    "vault_profile": "content/Politicians/Democrats/House/Dan Goldman.md",
     "mapping_reason": "politician campaign committee — H/NY cycle 2026",
-    "mapped_at": "2026-04-20T17:34:24.012Z"
+    "mapped_at": "2026-04-20T17:34:24.012Z",
+    "vault_slug": "dan-goldman",
+    "note": "Path fix 2026-04-23: vault uses common name Dan Goldman (flat .md), not formal Daniel S. Goldman.",
+    "updated": "2026-04-23T18:42:51.018Z"
   },
   "C00609800": {
     "committee_id": "C00609800",
@@ -22757,9 +22766,12 @@
     "connected_organization_name": null,
     "candidate_ids": [],
     "cycles": [],
-    "vault_profile": "content/Politicians/Democrats/Senate/Edward J. Markey/_Edward J. Markey Master Profile.md",
+    "vault_profile": "content/Politicians/Democrats/Senate/Ed Markey/_Ed Markey Master Profile.md",
     "mapping_reason": "politician campaign committee — S/MA cycle 1984",
-    "mapped_at": "2026-04-20T20:18:52.032Z"
+    "mapped_at": "2026-04-20T20:18:52.032Z",
+    "vault_slug": "ed-markey",
+    "note": "Path fix 2026-04-23: vault uses common name Ed Markey, not formal Edward J. Markey.",
+    "updated": "2026-04-23T18:42:51.018Z"
   },
   "C00695510": {
     "committee_id": "C00695510",
@@ -24092,9 +24104,12 @@
     "connected_organization_name": null,
     "candidate_ids": [],
     "cycles": [],
-    "vault_profile": "content/Politicians/Democrats/House/James A. Himes/_James A. Himes Master Profile.md",
+    "vault_profile": "content/Politicians/Democrats/House/Jim Himes/_Jim Himes Master Profile.md",
     "mapping_reason": "politician campaign committee — H/CT cycle 2026",
-    "mapped_at": "2026-04-20T20:18:52.032Z"
+    "mapped_at": "2026-04-20T20:18:52.032Z",
+    "vault_slug": "jim-himes",
+    "note": "Path fix 2026-04-23: vault uses common name Jim Himes, not formal James A. Himes.",
+    "updated": "2026-04-23T18:42:51.018Z"
   },
   "C00578302": {
     "committee_id": "C00578302",
