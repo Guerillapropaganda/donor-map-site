@@ -205,9 +205,6 @@ Her contrast to [[_Vivek Ramaswamy Master Profile|Ramaswamy]] is particularly ef
 
 ---
 
-office:: Democratic Candidate for Governor (Ohio, 2026)
-state:: OH
-party:: Democrat
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

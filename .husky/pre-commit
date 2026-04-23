@@ -55,6 +55,15 @@ if [ $? -ne 0 ]; then
   exit 1
 fi
 
+# 2b. No-inline-field sentinel — blocks Dataview `field:: value` syntax in
+# profile body. Structured data belongs in YAML frontmatter. See ADR-0021
+# Rule 22 (no aspirational rules) and Memory #19 (promoted this session).
+echo "  -> no-inline-field-sentinel"
+node scripts/no-inline-field-sentinel.cjs
+if [ $? -ne 0 ]; then
+  exit 1
+fi
+
 # 3. Duplicate bioguide sentinel (politician ID collisions)
 echo "  -> duplicate-bioguide-sentinel"
 node scripts/duplicate-bioguide-sentinel.cjs

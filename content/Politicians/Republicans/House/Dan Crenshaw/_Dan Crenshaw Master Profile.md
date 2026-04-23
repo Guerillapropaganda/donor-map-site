@@ -410,9 +410,6 @@ Crenshaw's 2026 primary loss is the rare case where the donor class lost. Energy
 
 ---
 
-office:: Former Representative (R-TX-02, 2019–2027)
-state:: TX
-party:: Republican
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

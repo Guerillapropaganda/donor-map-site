@@ -386,9 +386,6 @@ The class function is pipeline operator. Peters does not generate progressive po
 
 ---
 
-office:: Senate
-state:: Michigan
-party:: Democrat
 
 ### Congressional Stock Trades (STOCK Act)
 <!-- auto:stock-trades start -->

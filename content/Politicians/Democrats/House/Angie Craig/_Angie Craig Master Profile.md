@@ -326,10 +326,6 @@ Craig's 2026 Senate campaign adds a second donor pipeline through her Agricultur
 
 ---
 
-office:: House
-state:: Minnesota
-district:: 2
-party:: Democrat
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

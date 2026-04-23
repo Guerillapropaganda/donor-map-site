@@ -374,9 +374,6 @@ During the global COVID vaccine crisis, Coons invoked Red Scare rhetoric and the
 
 ---
 
-office:: Senate
-state:: Delaware
-party:: Democrat
 
 ### Congressional Stock Trades (STOCK Act)
 <!-- auto:stock-trades start -->
