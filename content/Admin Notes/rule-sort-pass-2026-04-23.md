@@ -195,3 +195,32 @@ Each of these has two paths — promote to enforced (write the hook), OR delete 
 6. **Then CLAUDE.md gets rewritten** to ~50-line constitution + reference section.
 
 This is 3-5 sessions of work. Every step is incremental and reversible.
+
+---
+
+## 🟠 Orange items — verification results (2026-04-23)
+
+| Item | Status | Evidence | Recommended action |
+|---|---|---|---|
+| **Memory #10 — LDA migration** | PARTIALLY STALE | `scripts/lda-pipeline.cjs` doesn't exist in THIS repo (per memory, lives in `donor-map-engine`). BUT `scripts/extract-sources-from-vault.cjs` and `scripts/push-engine-workflows.cjs` still reference `lda.senate.gov`. | **Update memory** to note remaining local drift. Don't delete. Sub-task: fix the two scripts referencing the old domain. |
+| **Memory #16 — Contradiction Detection** | **MOSTLY COMPLETE (memory stale)** | `quartz/components/ContradictionCard.tsx` + `HeroContradiction.tsx` exist. SCSS styling in place. Memory said "Website markers TODO" — they're shipped. | **Delete memory entry.** Feature is built. |
+| **Memory #24 — Pre-launch security sprint** | ACTIVE (other session) | `content/Admin Notes/pre-launch-security-brief.md` + `attack-surface-inventory.md` exist. LICENSE files present. No gitleaks CI yet. | **KEEP memory.** Still active work in parallel session. |
+| **ADR-0004 — Policy Battles** | ACTIVE | Concept is policy-pages-as-stored-queries. `content/Policies/` directory exists. | **KEEP.** |
+| **ADR-0014 — FEC Full Ingest** | ACTIVE (blocked on data) | Ingest scripts exist per plan. Currently blocked on fresh weball26 reingest David has paused. | **KEEP.** Referenced by tolerated-regressions infrastructure. |
+| **ADR-0015 — Public Ask Backend** | ACTIVE (lockdown-paused) | Ask engine operational at ops. Public exposure planned, currently blocked by lockdown. | **KEEP.** Add note: public exposure pending lockdown lift. |
+| **ADR-0016 — Ask Labeled Breakdown** | ACTIVE | UI refinement for ADR-0015. Implementation ongoing. | **KEEP.** |
+| **ADR-0018 — Profile Rendering** | ACTIVE | Documents load-bearing `.profile-section-card` architecture from 2026-04-21 fixes. | **KEEP.** |
+| **ADR-0019 — R2 Bulk Storage** | **PARTIALLY IMPLEMENTED** | Decision was to move bulk data to R2. Only `ingest-voteview-bulk.cjs` references R2. `data/bulk/` still expected locally (60GB). Migration incomplete. | **KEEP ADR as active goal** but add migration-status note. Track completion as a future task. |
+| **ADR-0020 — Enrichment Sprint Cadence** | **PARTIALLY IMPLEMENTED** | `scripts/enrichment-sprint.sh` exists. NO scheduled GitHub workflow for it (only content-stats, deploy, frontmatter-check, link-checker, regression-tests, save-tip, stale-profiles). Sprint has not become routine. | **KEEP ADR as active goal** but flag: cadence not actually scheduled. Needs a cron workflow. |
+
+### Summary
+
+- **0 items fully stale → delete now** (clean result; orange was a useful filter)
+- **1 memory entry to delete** (#16 contradiction detection — feature done, memory obsolete)
+- **1 memory entry to update** (#10 LDA — note remaining local script drift)
+- **2 ADRs to amend with implementation-status notes** (0019, 0020 — partially implemented)
+- **6 items keep as-is** (all confirmed active)
+
+Plus 2 sub-tasks discovered:
+- Fix `scripts/extract-sources-from-vault.cjs` and `scripts/push-engine-workflows.cjs` to use `lda.gov` not `lda.senate.gov`
+- Add GitHub Actions schedule for `enrichment-sprint.sh` (per ADR-0020's intent)
