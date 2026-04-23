@@ -36,6 +36,11 @@ export const sharedPageComponents: SharedLayout = {
     Component.AnnotationOverlay(),
     Component.CapitolTrades(),
     Component.AskPanel(),
+    // Per-profile Ask widget — renders only on profile pages
+    // (politician / donor / corp / pac / think-tank / lobbying-firm)
+    // via internal frontmatter check. Shows 3 pre-verified prompt
+    // buttons tuned to the profile's type.
+    Component.ProfileAsk(),
   ],
   footer: Component.Footer({
     links: {
