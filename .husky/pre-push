@@ -43,4 +43,30 @@ if [ $TS_EXIT -ne 0 ]; then
   exit 1
 fi
 echo "  ✓ 0 TypeScript errors"
+
+# Publication-readiness gate — enforces CLAUDE.md Rule 10: architecturally
+# complete ≠ publication ready. Any profile referenced in data/public-routes.json
+# must pass all 8 publication gates (ADR-0017) before deploy. Protects against
+# promoting profiles that have (URL NEEDED), broken sources, unapproved class
+# tags, etc. Promoted from aspirational to enforced per ADR-0021 Phase 2.
+echo "  -> publication-readiness (public-routes only)"
+PUB_OUTPUT=$(node scripts/publication-readiness-check.cjs --public-only 2>&1)
+PUB_EXIT=$?
+if [ $PUB_EXIT -ne 0 ]; then
+  echo ""
+  echo "[x] pre-push blocked: publication-readiness failed for one or more"
+  echo "    profiles in data/public-routes.json"
+  echo ""
+  echo "$PUB_OUTPUT" | tail -30
+  echo ""
+  echo "  Fix: either remove the failing route from data/public-routes.json,"
+  echo "  or fix the profile to pass the gate. See"
+  echo "  content/Checklists/pre-publication.md for the full gate criteria."
+  echo ""
+  echo "  Emergency bypass: SKIP_HOOKS=1 git push ..."
+  exit 1
+fi
+ROUTES_CHECKED=$(echo "$PUB_OUTPUT" | grep -E "profiles to check" | grep -oE "[0-9]+" | head -1)
+echo "  ✓ ${ROUTES_CHECKED:-0} public route(s) pass publication gate"
+
 exit 0
