@@ -23,9 +23,9 @@ These are numbered, load-bearing, and cannot be silently violated. When a rule n
 
 ### Data architecture
 
-**1. Canonical stores are the source of truth.** All structured data lives in `data/*.jsonl` (relationships, entities, events, sources, policies, users, claims, polling, fec-committee-registry). Profiles render on top of structured facts. Never hand-edit a frontmatter field that has a canonical store behind it.
+**1. Canonical stores are source of truth, write-through.** All structured data lives in `data/*.jsonl` (relationships, entities, events, sources, policies, users, claims, polling, fec-committee-registry). Profiles render on top of these. Edits go through the canonical store first — via `scripts/lib/*-store.cjs` helpers or the Ops `/relationships`, `/sources` review pages. Frontmatter relationship fields (`related`, `donors`, `top-donors`, `politicians-funded`, `opposes`, `stories`) are read-caches rebuilt from `data/relationships.jsonl` via `rebuild-relationship-caches.cjs`. Never hand-edit a frontmatter field that has a canonical store behind it. The `canonical-store-sentinel` pre-commit hook enforces this.
 
-**2. Canonical stores are write-through.** Edits go through the canonical store first (`scripts/lib/*-store.cjs` helpers or the Ops `/relationships`, `/sources` review pages). Frontmatter relationship fields (`related`, `donors`, `top-donors`, `politicians-funded`, `opposes`, `stories`) are read-caches rebuilt from `data/relationships.jsonl` via `rebuild-relationship-caches.cjs`. The `canonical-store-sentinel` pre-commit hook enforces this.
+**2.** *(merged into Rule 1 on 2026-04-23 per ADR-0021 Phase 1. Rule numbers 3-22 unchanged to preserve external references.)*
 
 **3. CSV-first for bulk data.** Most enrichment comes from government CSV bulk downloads in `data/bulk/` processed through `scripts/ingest-*-bulk.cjs`. Three API pipelines remain active for data CSVs don't cover: Congress.gov (committee assignments, bills), GovTrack (voting records), and RSS digests (current events). STOCK Act PTRs are scraped daily via `financial-disclosures-pipeline.cjs`. Every other API pipeline has been retired. See `content/CSV Data Sources.md` for what's in `data/bulk/` and how it maps.
 
@@ -47,11 +47,11 @@ These are numbered, load-bearing, and cannot be silently violated. When a rule n
 
 **10. Architecturally complete ≠ publication ready.** Building a feature into the codebase does not make its output publishable. Every public-facing route passes `scripts/publication-readiness-check.cjs` and the `content/Checklists/pre-publication.md` gate before exposure. Per ADR-0017 both `verified` and `data-complete` are publishable tiers — data-complete renders with an auto-generated banner ("not yet editorially reviewed — sources are federal disclosures"). Under-construction gating is the default. Public exposure is currently controlled per-route via `data/public-routes.json`; the mechanism for bulk-publishing data-complete profiles is pending a separate decision.
 
-**11. Launch priority (updated ADR-0017):** April 30, 2026 ships 50 curated `verified` flagships (front-page placement, "Verified" badges) **alongside** the broader `data-complete` corpus auto-rendered with the banner. The `/signoff-launch` ops page tracks the 50 flagships through editorial sign-off. Post-launch, profiles roll from data-complete → verified as editorial capacity allows — a queue, not a gate.
+**11. Launch priority (per ADR-0017, date-decoupled per ADR-0021).** Launch ships the broader `data-complete` corpus auto-rendered with the "not yet editorially reviewed — sources are federal disclosures" banner, alongside curated `verified` flagships (front-page placement, "Verified" badges). The `/signoff-launch` ops page tracks flagships through editorial sign-off. Profiles roll from data-complete → verified as editorial capacity allows. A queue, not a gate. **No hard launch date.** Correctness and self-sustainability are the goals; calendar pressure is not. An earlier April 30 target existed but was explicitly released 2026-04-23: *"April 30 launch date isn't a huge factor. If we need to work slower we will."*
 
 ### Auth + money
 
-**12. Every `/api/*` route defaults to auth-gated** via the tier-check middleware (ADR-0009). Opting out requires `public = true` export with ADR justification. Soft-launch April 30 is free-tier only. Stripe / paid tier activation target is May 2026.
+**12. Every `/api/*` route defaults to auth-gated** via the tier-check middleware (ADR-0009). Opting out requires `public = true` export with ADR justification. Launch is free-tier only; Stripe / paid tier activation is a separate decision.
 
 ### Editorial integrity
 
@@ -163,19 +163,24 @@ Deploy workflow: `.github/workflows/deploy.yml`. Pre-commit and pre-push gates m
 
 ## Active ADRs
 
-Load-bearing decisions that affect ongoing work:
+Load-bearing decisions that affect ongoing work. **Verified active ADRs:**
 
 - **ADR-0001** — Class Tag Vocabulary (5-dimension schema)
 - **ADR-0002** — Monetization Model (facts free, tools paid)
-- **ADR-0004** — Policy Battles (policies as stored queries, not content type)
 - **ADR-0007** — Claim-Object Pattern (AOC reference implementation)
 - **ADR-0009** — Auth Architecture (Clerk + tier-check middleware)
 - **ADR-0010** — Class Tag Amendment: Surveillance State
 - **ADR-0011** — Class Tag Amendment: Reproductive Rights
 - **ADR-0012** — The Money Section: Four Required Subsections (Campaign Chest, Wealth Outside Donations, Mega-Donors, What They Bought)
 - **ADR-0013** — FEC Transaction Taxonomy + Anomaly Detection (shared classifier in `scripts/lib/fec-txn-types.cjs`; every FEC script imports from there)
+- **ADR-0017** — Data-Complete Tier (five-tier readiness flow: raw → draft → ready → data-complete → verified)
+- **ADR-0021** — Ops Stability Strategy (self-healing harness, 7 meta-rules, no one-off audit scripts)
+
+**ADRs pending verification** (see `content/Admin Notes/rule-sort-pass-2026-04-23.md`): 0004 (Policy Battles), 0014 (FEC Full Ingest), 0015 (Public Ask Backend), 0016 (Ask Labeled Breakdown), 0018 (Profile Rendering Architecture), 0019 (R2 Bulk Storage), 0020 (Enrichment Sprint Cadence). Each will be confirmed active, amended, or superseded in follow-up sessions.
 
 Historical ADRs (preserved in `content/Decisions/Archive/`, not referenced in active rules): 0003 (superseded by 0008), 0005 (Phase 6 closed), 0006 (Phase 1 closed), 0008 (closure record for 0003).
+
+**Note:** This list drifted in prior sessions (was last correct through ADR-0013 before this audit). Per Rule 22 (ADR-0021), it should eventually be generated from `content/Decisions/` contents rather than hand-maintained.
 
 ## Design system
 
