@@ -64,6 +64,16 @@ if [ $? -ne 0 ]; then
   exit 1
 fi
 
+# 2c. API-pipeline sentinel — blocks new scripts/ root .cjs files that make
+# external HTTP calls unless they match approved naming patterns or carry
+# an @api-pipeline-allowed justification. Enforces CLAUDE.md Rule 3
+# (CSV-first for bulk data). Promoted per ADR-0021 Phase 2.
+echo "  -> api-pipeline-sentinel"
+node scripts/api-pipeline-sentinel.cjs
+if [ $? -ne 0 ]; then
+  exit 1
+fi
+
 # 3. Duplicate bioguide sentinel (politician ID collisions)
 echo "  -> duplicate-bioguide-sentinel"
 node scripts/duplicate-bioguide-sentinel.cjs
