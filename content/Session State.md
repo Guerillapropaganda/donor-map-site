@@ -1,13 +1,65 @@
 ---
 title: Session State
 type: system
-last-updated: 2026-04-22
+last-updated: 2026-04-23
 ---
-<!-- last session: CREDIBILITY SWEEP — 9 COMMITS DEPLOYED + PROFILESEARCH WIP. Phase 1-5 credibility fixes + per-profile Ask widget + top-nav search autocomplete. (1) Profile tab nesting bug fixed — clicking Analysis/Overview tabs now shows prose (was blank). (2) Edge role classifier lib: scripts/lib/edge-role-taxonomy.cjs classifies every (type, role) pair; 346,573 edges classified cleanly; 51 tests. (3) Ask engine category separation: direct vs IE-support vs IE-oppose vs campaign-expenditure split cleanly in summary headline; glossary tooltip HTML-attribute-leak bug fixed. (4) Raise reconciliation field: closes "$6.2M in / $465M out" credibility gap by surfacing FEC candidate-summary lifetime total + small-dollar-rollup gap per politician. (5) FEC ingest bug fixes: Cruz lifetime $176M→$271M via re-sync of 627 politicians (presidential committees were missing); 565 fec-api edges cycle→null + lifetime-cumulative metadata (Hawley's $81M no longer falsely labeled "2030 cycle"). (6) fec-api vs pas2 dedup via sumMonetaryEdgesDedup: max(lifetime-cumulative, per-cycle-sum) per (from,to,role) pair — American Crossroads gave $347M→$259M. (7) Phase 4 current-cycle scope: new blue card on every politician Ask summary showing 2026-cycle totals above the yellow lifetime card. (8) Phase 5 auto-block fix — THE BIG ONE: routed IE-support + campaign-expenditure away from `monetary-detail` so 22 politician profile "Top donors" tables stopped showing super-PACs that ran AGAINST them as their #1 donor. Cortez Masto: SLF PAC $25.6M→DSCC $518K. Mark Kelly: NRSC $9.9M→DSCC $2.4M. (9) Per-profile Ask widget: 3 type-aware pre-verified prompt buttons on every profile page. 8 commits pushed to v4 — GitHub Actions deploy run 24811850889 succeeded. IN PROGRESS: ProfileSearch top-nav autocomplete (scripts/build-profile-search-index.cjs, quartz/components/ProfileSearch.tsx) — David gave nav-bar placement feedback mid-session, code moved from hero to .v3-topbar but not yet browser-verified. Build completed; commit pending. (2026-04-22, Code Claude). -->
+<!-- last session: PUBLIC LOCKDOWN + CREDIBILITY AUDIT FIXES. Started by asking "why only 9 slugs public?" → David's call: nothing public yet, construction page only. Trimmed data/public-routes.json from 9 slugs to ["index"] (commit 50de0ad54, deploy run 24845584051 ✓). Then audit: David pointed at Trump's Contradiction card / IE tables → "are these correct?" Found 6 real issues, fixed 5, deferred 1: (1) DATA INTEGRITY — C00669259 (FF PAC / Future Forward USA) was wrongly linked to Fairshake PAC vault profile in data/fec-committee-registry.json; defamation-adjacent bug. Unmapped. (2) Committee name resolution: added display_name field to registry for 8 committees; build-fec-lifetime-panels.cjs now reads registry (display_name > fec_name) with fallback to committee-master.jsonl. (3) committee-master.jsonl was 0 bytes — ingest-fec-masters-bulk.cjs hardcoded path "Committee master" but disk had typo "Comittee Master"; added typo aliases + switched ingest to use resolveBulkSubdir. Re-ingested: 42K committees + 54K candidates. (4) Trump profile prose consistency: frontmatter said "44% from 6 mega-donors" but body said "10"; aligned to 10 per OpenSecrets/Brennan Center. (5) Griffin+Yass sidebar: annotated "(GOP ecosystem, per public reporting)" since our graph undercounts them ($13M/$0 tracked vs $100M+ real). (6) DEFERRED — 2024 FEC candidate-summary is stale (weball24.zip is Aug 2024 snapshot, shows Trump at $29K for 2024 vs real ~$375M+); needs fresh FEC bulk download, not in-session solvable. 452 profile FEC-lifetime auto-blocks regenerated with correct committee names. Also: committee-master ingest now working via path typo fix; candidate-master bonus-populated as side effect. Commits landed on v4 today: 50de0ad54 (public lockdown), a6d777780 (audit fixes). Deploy 24848306134 ✓. (2026-04-23, Code Claude). -->
+<!-- prior session: CREDIBILITY SWEEP — 9 COMMITS DEPLOYED + PROFILESEARCH WIP. Phase 1-5 credibility fixes + per-profile Ask widget + top-nav search autocomplete. (1) Profile tab nesting bug fixed — clicking Analysis/Overview tabs now shows prose (was blank). (2) Edge role classifier lib: scripts/lib/edge-role-taxonomy.cjs classifies every (type, role) pair; 346,573 edges classified cleanly; 51 tests. (3) Ask engine category separation: direct vs IE-support vs IE-oppose vs campaign-expenditure split cleanly in summary headline; glossary tooltip HTML-attribute-leak bug fixed. (4) Raise reconciliation field: closes "$6.2M in / $465M out" credibility gap by surfacing FEC candidate-summary lifetime total + small-dollar-rollup gap per politician. (5) FEC ingest bug fixes: Cruz lifetime $176M→$271M via re-sync of 627 politicians (presidential committees were missing); 565 fec-api edges cycle→null + lifetime-cumulative metadata (Hawley's $81M no longer falsely labeled "2030 cycle"). (6) fec-api vs pas2 dedup via sumMonetaryEdgesDedup: max(lifetime-cumulative, per-cycle-sum) per (from,to,role) pair — American Crossroads gave $347M→$259M. (7) Phase 4 current-cycle scope: new blue card on every politician Ask summary showing 2026-cycle totals above the yellow lifetime card. (8) Phase 5 auto-block fix — THE BIG ONE: routed IE-support + campaign-expenditure away from `monetary-detail` so 22 politician profile "Top donors" tables stopped showing super-PACs that ran AGAINST them as their #1 donor. Cortez Masto: SLF PAC $25.6M→DSCC $518K. Mark Kelly: NRSC $9.9M→DSCC $2.4M. (9) Per-profile Ask widget: 3 type-aware pre-verified prompt buttons on every profile page. 8 commits pushed to v4 — GitHub Actions deploy run 24811850889 succeeded. IN PROGRESS: ProfileSearch top-nav autocomplete (scripts/build-profile-search-index.cjs, quartz/components/ProfileSearch.tsx) — David gave nav-bar placement feedback mid-session, code moved from hero to .v3-topbar but not yet browser-verified. Build completed; commit pending. (2026-04-22, Code Claude). -->
 <!-- prior session: ADR-0017 DATA-COMPLETE TIER MARATHON + 4 RENDERING PASSES + ENRICHMENT SPRINT + DOC SURFACE CLEANUP. Shipped 5-tier readiness system (raw→draft→ready→data-complete→verified→s-tier). 446 profiles classified as data-complete across Sessions A-K (11 backfill scripts). Rendering stack built: wrap-profile-sections.ts transformer + ProfileTabs refactored + ProfileHeader widened + ProfileTOC sidebar + DataCompleteBanner killed per David review. Kill-switch TIER_GATED_PUBLISHING stays false — nothing publicly exposed. Enrichment sprint (scripts/enrichment-sprint.sh, 25 steps) ran 42min; 19/25 succeeded including IRS 990 bulk (25GB refresh). Eval harness (data/evals/queries.jsonl, 28 golden queries) + 16-test regression suite shipped. Four new ADRs: 0017 accepted, 0018 rendering architecture, 0019 R2 bulk storage proposed, 0020 enrichment cadence proposed. Docs aligned across CLAUDE.md, Vault Rules, Profile Template, ops/. Final push 9f05b6262. ~34 commits. See content/Admin Notes/session-log-2026-04-21.md + content/Admin Notes/handoff-2026-04-22.md. (2026-04-21, Code Claude). -->
 <!-- prior session: ADR-0016 FINISH + STEP 5 STUBS + MAINTENANCE SCRIPTS. Evening continuation of 2026-04-21 morning. Wired computeBreakdown into compare + leaderboard Ask panels. Step 5 — 7 new org/PAC stubs + AFSCME International alias. New scripts/dedupe-donor-name-variants.cjs + refresh-edge-count-signal.cjs. Final push 4230f5f33. (2026-04-21 evening, Code Claude). -->
 <!-- prior session: ORPHAN-ENTITIES AUDIT + UX-BREAKDOWN REFACTOR. ADR-0016 labeled-breakdown. Final push 016cd986e. (2026-04-21 early, Code Claude). -->
 
+
+## HANDOFF — 2026-04-23 (Public lockdown + credibility audit fixes — 2 commits, both deployed)
+
+**State of thedonormap.org:** construction splash ONLY. `data/public-routes.json` trimmed to `["index"]`. TIER_GATED_PUBLISHING=false (unchanged). All profile URLs 404 or serve construction placeholder. No factual claims about specific politicians or donors publicly reachable. Local dev (localhost:8098) fully functional.
+
+**Commits landed on v4 today:**
+- `50de0ad54` — Public exposure lockdown (9 slugs → 1). Deploy 24845584051 ✓.
+- `a6d777780` — Credibility audit fixes (Fairshake registry, committee names, Trump prose). Deploy 24848306134 ✓.
+
+### What triggered the session
+
+David asked "why only 9 slugs public?" → decision: nothing public yet, construction page only. Then David shared two screenshots of Trump's Contradiction card + IE tables asking "are these correct?" — an on-the-spot audit surfaced 6 real issues.
+
+### Fixes shipped (5 of 6)
+
+1. **Fairshake mis-mapping — defamation-adjacent.** `data/fec-committee-registry.json` had C00669259 (FEC-registered as "FF PAC" but actually Future Forward USA PAC — Harris-aligned 2024 anti-Trump super-PAC) wrongly linked to the crypto Fairshake PAC vault profile. Anyone clicking Trump's "FF PAC $59.7M spent against him" IE link landed on the crypto-industry page. UNMAPPED C00669259.vault_profile → null; added aliases and a note explaining the prior incorrect mapping.
+
+2. **Committee name resolution UX.** Readers were seeing cryptic FEC-filed short names like "AB PAC", "FF PAC", "LF PAC", "RBG PAC" — these are the committees' legal names, not our abbreviations, but readers don't recognize them. Added `display_name` field to registry for 8 key committees. `scripts/build-fec-lifetime-panels.cjs` now reads registry (display_name > fec_name) with fallback to committee-master.jsonl bulk. Trump's panels now show "America PAC (Musk)", "Future Forward USA PAC", "AB PAC (American Bridge affiliate)" etc.
+
+3. **committee-master.jsonl was 0 bytes.** Root cause: `scripts/ingest-fec-masters-bulk.cjs` hardcoded path "Committee master"; on-disk directory is "Comittee Master" (single-m typo). `resolveBulkSubdir()` in `scripts/lib/fec-ingest-helpers.cjs` had alias + case-insensitive fallback but the ingest script wasn't using it. Fixed by (a) adding "Comittee Master" to SUBDIR_ALIASES, (b) switching ingest-fec-masters-bulk to use resolveBulkSubdir(). Re-ran: committee-master 27MB / 42K rows; candidate-master 15MB / 54K rows (bonus — same bug affected both).
+
+4. **Trump profile prose contradiction.** Frontmatter `gap-stat` said "44% from 6 mega-donors"; body prose said "44% from 10 megadonors". The 44% figure (OpenSecrets / Brennan Center) is about top-10 donors; 6-donor math gives 58%, not 44%. Aligned frontmatter to body: "44% from top 10 mega-donors (per OpenSecrets / Brennan Center)". The sidebar's 6 named donors stay — they're the highlighted subset.
+
+5. **Griffin + Yass sourcing annotation.** Our graph undercounts their giving severely (Griffin $13M tracked vs $100M+ real; Yass **$0 tracked** vs $100M+). Their money flows through LLCs/trusts/501(c)(4)s our entity resolver doesn't link back. Annotated their sidebar entries: "$100M+ (GOP ecosystem, per public reporting)" so readers know the number is external-sourced, not backed by our graph.
+
+### Deferred — need fresh FEC bulk download
+
+6. **2024 candidate-summary is stale.** `weball24.zip` at `C:/donor-map-data/bulk/All candidates/` is an August 2024 snapshot. Trump P80001571 shows $29K ttl_receipts for 2024 cycle — real number is ~$375M+ from his principal committee alone. Re-running the ingest with existing zips doesn't help because the bulk itself is stale. **Action**: David downloads fresh `weball24.zip` + `weball26.zip` from FEC.gov bulk data, then runs `node scripts/ingest-fec-weball-summary.cjs` + `node scripts/sync-politician-summary-receipts.cjs --write`. Will fix Trump's 2024 cycle number + likely dozens of other 2024/2026 cycle amounts currently under-reported.
+
+### Impact across the vault
+
+- 452 politician profile `fec-lifetime` auto-blocks regenerated with correct committee names
+- Committee name lookup resolves 88,316 committees (was 0 before today's ingest fix)
+- Registry display_name applies to 1,375 committees total (up from 0)
+
+### Open follow-ups (inherited from 2026-04-22)
+
+Still pending from yesterday's session — NOT worked on today:
+1. ProfileSearch nav-bar dropdown — committed (`ab7fc4524`) but not browser-verified on nav placement. Next session should confirm on localhost:8098/.
+2. `donors_to` intent row output still mixes direct + IE-support in Ask engine. Phase 2 fixed headline numbers, not row-level. ~30-min fix.
+3. Sync ADR-0017's 5-tier readiness into entities.jsonl (data-complete + verified missing there, only raw/draft/ready).
+4. Tonight's enrichment stash (stash@{1}) — derived data churn, safe to commit as a chore.
+
+### Next session priorities
+
+1. **Fresh FEC bulk download + re-ingest** to fix Trump 2024 = $0 and similar 2024/2026 stale numbers. Takes ~15-30 min total.
+2. **ProfileSearch browser verification** + commit.
+3. **donors_to intent row split** (30 min).
+4. **Decide on kill-switch flip** if David wants more public exposure.
+
+---
 
 ## HANDOFF — 2026-04-22 (Credibility sweep + ProfileSearch WIP — 9 commits, 8 deployed)
 
