@@ -293,3 +293,25 @@ Once all landed, untrack tracked derived files:
 - Retirement of `C:/donor-map-data/` hardcoded paths throughout the
   ingest scripts in favor of the fetchBulk → `data/bulk/` local
   cache pattern.
+
+---
+
+## Implementation Status (verified 2026-04-23 during ADR-0021 Phase 1 orange-item review)
+
+**PARTIALLY IMPLEMENTED.** The decision is recorded and accepted, but the migration has not completed. Current state:
+
+- Only `scripts/ingest-voteview-bulk.cjs` appears to reference R2.
+- `data/bulk/` is still expected to exist locally (60GB on David's machine).
+- Hardcoded `C:/donor-map-data/` paths still present in many ingest scripts.
+- CI still cannot regenerate derived files from bulk because bulk isn't reachable.
+
+**Remaining work for full R2 migration:**
+1. Upload `data/bulk/` contents to R2 bucket.
+2. Build `scripts/lib/fetch-bulk.cjs` helper (decision A from this ADR).
+3. Refactor all `ingest-*-bulk.cjs` scripts to use the helper.
+4. Remove `C:/donor-map-data/` hardcoded paths.
+5. Add R2 credentials to CI so pipelines can fetch bulk during Actions runs.
+6. Write dev-environment-setup.md for fresh-clone bootstrap.
+
+Tracked as future focused session. Not urgent; current local-bulk workflow
+functions but is fragile.

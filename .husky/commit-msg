@@ -1,0 +1,28 @@
+#!/usr/bin/env sh
+# Commit-msg gate for the Donor Map vault.
+#
+# Runs after pre-commit but before the commit is finalized. The commit
+# message has been written and is passed as $1 (path to .git/COMMIT_EDITMSG).
+#
+# Currently enforces:
+#   1. url-editor-sentinel — CLAUDE.md Rule 13. Blocks URL edits in
+#      content-readiness: verified or data-complete profiles unless the
+#      message carries [url-editor], [url-verified], or [pipeline].
+#
+# Emergency bypass: SKIP_HOOKS=1 git commit ...
+
+if [ "$SKIP_HOOKS" = "1" ]; then
+  echo "[hooks] SKIP_HOOKS=1 — bypassing commit-msg gate"
+  exit 0
+fi
+
+echo "--- commit-msg gate ---"
+
+echo "  -> url-editor-sentinel"
+node scripts/url-editor-sentinel.cjs "$1"
+if [ $? -ne 0 ]; then
+  exit 1
+fi
+
+echo "--- commit-msg gates passed ---"
+exit 0

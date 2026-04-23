@@ -356,9 +356,6 @@ Merkley's existence in the Senate also creates a useful illusion for the Democra
 
 ---
 
-office:: Senate
-state:: Oregon
-party:: Democrat
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

@@ -193,9 +193,6 @@ Biss's core contradiction is between his anti-AIPAC rhetoric and his integration
 
 ---
 
-office:: House
-state:: IL
-party:: Democrat
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

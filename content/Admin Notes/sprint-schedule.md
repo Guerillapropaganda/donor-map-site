@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: normal
 status: active
-last-updated: '2026-04-23-evening-registry-audit-tool-plus-ops-pivot-decision'
+last-updated: '2026-04-23-late-evening-ADR-0021-plus-6-rule-enforcements'
 sprint-id: "2026-04-sprint"
 sprint-start: '2026-04-10'
 sprint-end: '2026-04-30'
@@ -1989,6 +1989,46 @@ phase_1_tasks:
       notes: |
         Meta-task. David asked "how many mistakes like Fairshake are probably throughout the vault?" Honest estimate: 500-2,000 individual issues, including ~20-30 defamation-adjacent (Fairshake-pattern registry mis-mappings), ~100-300 frontmatter-prose contradictions (like Trump's 6-vs-10 mega-donors), ~50-150 dollar-figure mismatches between prose and graph data (like Griffin/Yass undercount), ~500-1000 cryptic FEC committee name UX issues, ~20-50 duplicate profiles for same entity (Never Back Down × 2 confirmed). Every audit run today has surfaced real bugs — no clean audit yet. David's reaction: pivot — wants Ops app refined to make problems SHOW UP visibly so he can see/fix them systematically rather than via one-off audit scripts.
 
+    - id: cc_196
+      task: "Deep trace of /signoff-queue + /launch-50 checklists — proved both lie"
+      status: done
+      completed_date: 2026-04-23
+      added_adhoc: true
+      notes: |
+        Traced sign-off queue end-to-end. Found structural lie: the A+ quality checks in scripts/pipeline-janitor.cjs only run for `type === 'politician'`. So all 125 profiles in the signoff queue are donors/corporations that skipped the real bar; 0 politicians pass. UI lies: "passed every A+ check" means completely different things for different types. Launch-50 trace found same disease, worse form: audit JSON is a frozen snapshot (Kamala Harris shown as draft/0 sources while actually data-complete/1+ sources), 3 of 4 checkboxes are manual toggles stored in a gitignored file, manual checkbox overrides audit data, readiness tier ignored in status calc, different source-count logic than signoff queue. 20 problems documented in content/Admin Notes/ops-audit-2026-04-23.md (P-001 through P-024, added 4 more findings during follow-up work).
+
+    - id: cc_197
+      task: "ADR-0021: Ops Stability Strategy — 7 meta-rules + unified harness concept"
+      status: done
+      completed_date: 2026-04-23
+      added_adhoc: true
+      notes: |
+        Commit de6ddc34c. Wrote content/Decisions/0021-ops-stability-strategy.md. Closes the "write more docs so Claude remembers" pattern. Adds 7 missing meta-rules (Single Source of Truth, Every stamp expires, Prose-data consistency, No manual override of automated verification, Script lifecycle, Rule-drift audit cadence, No aspirational rules in CLAUDE.md). Frames unified harness concept (scripts/vault-audit.cjs meta-runner coordinating existing scripts). 7-phase implementation plan. Memory rule saved (feedback_harness_not_oneoff.md): Claude extends harness rather than writing one-off scripts. Memory rule saved (feedback_bug_auto_resolve.md): Claude marks bugs resolved in same commit as fix.
+
+    - id: cc_198
+      task: "Rule-sort pass: 70 items classified into 4 buckets"
+      status: done
+      completed_date: 2026-04-23
+      added_adhoc: true
+      notes: |
+        Commit 315d20979. Wrote content/Admin Notes/rule-sort-pass-2026-04-23.md. Classified 15 CLAUDE.md rules + 31 memory entries + 17 active ADRs + 7 new ADR-0021 meta-rules into: 12 enforced (keep as-is), 14 enforceable (promote/delete per item), 22 principle (consolidate), 13 reference (not rules), 9 verify, 9 stale. David approved all classifications. Same commit: safe actions executed — 5 memory entries deleted (redundant with hooks or superseded concepts), CLAUDE.md Rules 1+2 merged, Rule 11+12 April-30 anchors removed, Active ADRs list updated to include 0014-0021 with verification-pending flag. Also first application of Rule 17 (stamps expire): scripts/_tolerated-regressions.jsonl + modified scripts/reconcile-canonical-totals.cjs to honor tolerance with recheck_after dates. Trump + McConnell tolerated until 2026-05-15 (stale FEC bulk, blocked on weball26 reingest). Replaces the SKIP_HOOKS=1 habit for documented pre-existing regressions.
+
+    - id: cc_199
+      task: "Enforcement promotions: 6 of 7 enforceable rules promoted to hooks"
+      status: done
+      completed_date: 2026-04-23
+      added_adhoc: true
+      notes: |
+        Four commits: 26223618f (#5 inline field), d30727dd8 (#3 publication readiness), 3d9b5dc95 (#1 CSV-first + #4 URL editor + #6 calendar). Promoted per ADR-0021 Phase 2. Built scripts/no-inline-field-sentinel.cjs (pre-commit 2b) + cleaned 19 profiles of 59 dataview :: trailers. Added --public-only flag to scripts/publication-readiness-check.cjs + wired into .husky/pre-push. Built scripts/api-pipeline-sentinel.cjs (pre-commit 2c) blocking new API-calling scripts without approved naming or @api-pipeline-allowed marker. Built scripts/url-editor-sentinel.cjs + new .husky/commit-msg hook (first in that lifecycle) blocking URL edits in verified/data-complete profiles without [url-editor]/[url-verified]/[pipeline] waiver. Memory #22 (session-save calendar) already baked into skill — deleted as redundant. DEFERRED Rule 9 (readiness flow) to own session because it needs pipeline-janitor refactor + ops API s-tier cleanup first.
+
+    - id: cc_200
+      task: "Orange-item verification + CLAUDE.md Constitution/Reference dividers"
+      status: done
+      completed_date: 2026-04-23
+      added_adhoc: true
+      notes: |
+        Commits 1c5b6c447 + d5f1ed1d7. Verified all 9 orange (verify-needed) items from rule-sort. Zero items were fully stale. Deleted Memory #16 (contradiction detection — feature shipped). Updated Memory #10 (LDA) to note remaining local drift. Amended ADR-0019 (R2 Bulk Storage) + ADR-0020 (Enrichment Sprint Cadence) with implementation-status notes — both are partially implemented but not fully realized. Sub-tasks discovered for future sessions: fix extract-sources-from-vault.cjs + push-engine-workflows.cjs to use lda.gov; add enrichment-sprint.yml cron workflow. Final commit: CLAUDE.md reorganized with 📜 CONSTITUTION / 📚 REFERENCE section dividers. Also caught and updated stale "Current sprint: April 30 launch" reference at top of CLAUDE.md.
+
     - id: cc_193
       task: "Credibility audit: Fairshake mis-mapping + committee name resolution + Trump prose"
       status: done
@@ -2667,7 +2707,8 @@ parser_guidance:
         Removed inline body dataview fields on Stratton and Miller. Fixed Mark Green central-thesis typo.
         Flag: Mark Green FEC/GovTrack auto-blocks show wrong politician data (govtrack-id 400159, 2010-2014 cycles). Pipeline correction needed.
 
-**Schedule last updated: 2026-04-23 (Code Claude: PUBLIC LOCKDOWN + CREDIBILITY AUDIT FIXES. 2 commits deployed to v4. cc_192 public-routes trimmed from 9 slugs to [index] — thedonormap.org now shows only the construction splash (commit 50de0ad54, deploy 24845584051 ✓). cc_193 credibility audit fixes — Fairshake/FF PAC mis-mapping unmapped (defamation-adjacent), committee-master.jsonl ingested via path-typo alias fix [42K rows], display_name field added to 8 committees in registry, Trump prose 6→10 mega-donors aligned, Griffin+Yass annotated with public-reporting caveat (commit a6d777780, deploy 24848306134 ✓). 452 profile FEC-lifetime auto-blocks regenerated with correct committee names. DEFERRED: 2024 FEC candidate-summary staleness requires fresh bulk download from FEC.gov — Trump P80001571 shows $29K for 2024 instead of real ~$375M+.)**
+**Schedule last updated: 2026-04-23 late evening (Code Claude: ADR-0021 OPS STABILITY STRATEGY + 6 RULE ENFORCEMENTS. 7 commits. Traced signoff-queue + launch-50 checklists end-to-end — proved both lie (A+ check only runs for politicians, 0 pass, 125 queue items are non-politicians with weak checks; launch-50 audit is frozen snapshot with manual override toggles and stale data). 20+ problems documented in content/Admin Notes/ops-audit-2026-04-23.md. ADR-0021 written (content/Decisions/0021-ops-stability-strategy.md) — 7 missing meta-rules, unified harness concept, 7-phase rollout. Rule-sort pass classified 70 rule-ish items into 4 buckets (content/Admin Notes/rule-sort-pass-2026-04-23.md). Safe actions: 7 memory entries deleted, CLAUDE.md Rules 1+2 merged, April-30 anchors removed from Rule 11/12, Active ADRs list corrected (was at 0013, now through 0021). First application of Rule 17 (stamps expire): scripts/_tolerated-regressions.jsonl + scripts/reconcile-canonical-totals.cjs modified — Trump + McConnell tolerated until 2026-05-15 (blocked on weball26 reingest). Enforcement promotions: new scripts/no-inline-field-sentinel.cjs (pre-commit 2b) + 19 profiles cleaned of dataview :: trailers; scripts/publication-readiness-check.cjs --public-only flag + wired to pre-push; scripts/api-pipeline-sentinel.cjs (pre-commit 2c) blocking new API-calling scripts; scripts/url-editor-sentinel.cjs + new .husky/commit-msg hook (first in that lifecycle). Orange verification: contradictions memory deleted (feature shipped), LDA memory updated, ADR-0019 + 0020 amended with implementation-status notes. CLAUDE.md now has 📜 CONSTITUTION / 📚 REFERENCE section dividers. Commits: de6ddc34c 315d20979 26223618f d30727dd8 3d9b5dc95 1c5b6c447 d5f1ed1d7. cc_196 through cc_200 added.)**
+<!-- Prior: 2026-04-23 (Code Claude: PUBLIC LOCKDOWN + CREDIBILITY AUDIT FIXES. 2 commits deployed to v4. cc_192 public-routes trimmed from 9 slugs to [index] — thedonormap.org now shows only the construction splash (commit 50de0ad54, deploy 24845584051 ✓). cc_193 credibility audit fixes — Fairshake/FF PAC mis-mapping unmapped (defamation-adjacent), committee-master.jsonl ingested via path-typo alias fix [42K rows], display_name field added to 8 committees in registry, Trump prose 6→10 mega-donors aligned, Griffin+Yass annotated with public-reporting caveat (commit a6d777780, deploy 24848306134 ✓). 452 profile FEC-lifetime auto-blocks regenerated with correct committee names. DEFERRED: 2024 FEC candidate-summary staleness requires fresh bulk download from FEC.gov — Trump P80001571 shows $29K for 2024 instead of real ~$375M+.) -->**
 
 **Schedule prior session: 2026-04-22 (Code Claude: CREDIBILITY SWEEP — 8 commits deployed to v4 [run 24811850889 ✓] + ProfileSearch WIP. cc_183 profile nesting fix (6268eb8eb), cc_184 Phase 2 classifier + Ask split (bb1198c13), cc_185 Phase 3 raise reconciliation (6d363cea4), cc_186 FEC presidential rollup + fec-api cycle fix (11158eac3), cc_187 fec-api vs pas2 dedup (adb5fc0d3), cc_188 Phase 4 current-cycle card (d1bf32fa9), cc_189 Phase 5 auto-block donors fix — 22 politician profiles corrected (90f6dbc32), cc_190 per-profile Ask widget (b5b0a3181), cc_191 ProfileSearch top-nav autocomplete [in-progress, browser-verify next session]. The reader-facing wins: Cortez Masto's #1 top donor flipped from SLF PAC $25.6M spent against her → DSCC $518K real. Mark Kelly's #1 flipped from NRSC $9.9M spent against him → DSCC $2.4M. Bernie's Ask answer: "$6.2M tracked inflows / $465M outflows" → "$568K direct + $5.6M IE (not received) / gave $8.5K politically". Cruz lifetime $176M→$271M (2016 presidential committee was missing). 126/126 tests pass.)**
 

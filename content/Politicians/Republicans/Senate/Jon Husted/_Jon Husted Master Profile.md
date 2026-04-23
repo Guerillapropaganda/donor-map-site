@@ -302,9 +302,6 @@ The Centene pipeline follows the same pattern. Centene Corporation paid Ohio $88
 
 ---
 
-office:: Senate
-state:: Ohio
-party:: Republican
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

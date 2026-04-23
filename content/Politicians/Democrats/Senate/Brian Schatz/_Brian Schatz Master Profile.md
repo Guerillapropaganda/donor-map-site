@@ -379,9 +379,6 @@ The genuine wins are real. Schatz secured $1.6 billion in Maui wildfire housing 
 
 ---
 
-office:: Senate
-state:: Hawaii
-party:: Democrat
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->

@@ -178,3 +178,27 @@ ProfileHeader / auto-blocks / query engine.
 - Retry mechanism for specific ingest failures.
 - Alerting — if 3+ steps fail in one run, is that a "something's
   structurally wrong" signal that warrants a louder notification?
+
+---
+
+## Implementation Status (verified 2026-04-23 during ADR-0021 Phase 1 orange-item review)
+
+**PARTIALLY IMPLEMENTED.** `scripts/enrichment-sprint.sh` exists. The decision
+to make this a routine operation has NOT been backed by a scheduled cadence.
+
+Current state:
+- Script exists and runs manually (`bash scripts/enrichment-sprint.sh`).
+- NO GitHub Actions schedule for it. Active workflows list (verified today):
+  content-stats, deploy, frontmatter-check, link-checker, regression-tests,
+  save-tip, stale-profiles. No enrichment-sprint.yml.
+- The 6-of-25 step failures noted in the decision context are unverified:
+  without scheduled runs, we don't know current failure rate.
+
+**Remaining work:**
+1. Add `.github/workflows/enrichment-sprint.yml` with the chosen cadence
+   (weekly? daily? per ADR's Option A vs B, pending ADR-0019 completion).
+2. Alerting when ≥3 steps fail (the ADR's "Opens" question).
+3. Retry mechanism for specific failure classes.
+
+Tracked as future focused session. Depends on ADR-0019 R2 migration if the
+schedule runs from CI rather than David's machine.

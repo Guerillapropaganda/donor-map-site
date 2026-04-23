@@ -171,9 +171,6 @@ Lawler's legislative record and rhetoric emphasize constituent service, bipartis
 
 ---
 
-office:: House
-state:: NY
-party:: Republican
 
 
 ## Archived

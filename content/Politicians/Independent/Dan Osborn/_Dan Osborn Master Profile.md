@@ -263,9 +263,6 @@ Osborn functions as a pilot program for the Democratic Party's working-class out
 
 ---
 
-office:: Senate
-state:: Nebraska
-party:: Independent
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

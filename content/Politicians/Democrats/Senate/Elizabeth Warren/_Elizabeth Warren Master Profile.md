@@ -533,9 +533,6 @@ Warren's small-dollar base has remained remarkably consistent in profile and siz
 
 ---
 
-office:: U.S. Senator
-state:: Massachusetts
-party:: Democrat
 
 ### Congressional Stock Trades (STOCK Act)
 <!-- auto:stock-trades start -->

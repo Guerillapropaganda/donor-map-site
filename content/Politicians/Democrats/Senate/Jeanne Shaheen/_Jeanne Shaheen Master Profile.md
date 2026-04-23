@@ -375,9 +375,6 @@ Every foreign policy position Shaheen takes maps onto the economic interests of 
 
 ---
 
-office:: Senate
-state:: New Hampshire
-party:: Democrat
 
 ### Congressional Stock Trades (STOCK Act)
 <!-- auto:stock-trades start -->

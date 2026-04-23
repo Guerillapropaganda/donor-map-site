@@ -325,9 +325,6 @@ Hinson's agricultural advocacy reveals the gap between brand and beneficiary. Sh
 
 ---
 
-office:: U.S. Representative (IA-02, 2021-present); Senate Candidate (2026)
-state:: IA
-party:: Republican
 
 
 ## Voting Record

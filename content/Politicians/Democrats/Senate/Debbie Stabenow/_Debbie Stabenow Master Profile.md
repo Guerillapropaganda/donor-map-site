@@ -361,9 +361,6 @@ The SNAP defense provided the progressive cover. Stabenow declared SNAP funding 
 
 ---
 
-office:: Senate
-state:: Michigan
-party:: Democrat
 
 
 ### Campaign Finance (FEC)

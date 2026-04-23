@@ -55,6 +55,25 @@ if [ $? -ne 0 ]; then
   exit 1
 fi
 
+# 2b. No-inline-field sentinel — blocks Dataview `field:: value` syntax in
+# profile body. Structured data belongs in YAML frontmatter. See ADR-0021
+# Rule 22 (no aspirational rules) and Memory #19 (promoted this session).
+echo "  -> no-inline-field-sentinel"
+node scripts/no-inline-field-sentinel.cjs
+if [ $? -ne 0 ]; then
+  exit 1
+fi
+
+# 2c. API-pipeline sentinel — blocks new scripts/ root .cjs files that make
+# external HTTP calls unless they match approved naming patterns or carry
+# an @api-pipeline-allowed justification. Enforces CLAUDE.md Rule 3
+# (CSV-first for bulk data). Promoted per ADR-0021 Phase 2.
+echo "  -> api-pipeline-sentinel"
+node scripts/api-pipeline-sentinel.cjs
+if [ $? -ne 0 ]; then
+  exit 1
+fi
+
 # 3. Duplicate bioguide sentinel (politician ID collisions)
 echo "  -> duplicate-bioguide-sentinel"
 node scripts/duplicate-bioguide-sentinel.cjs

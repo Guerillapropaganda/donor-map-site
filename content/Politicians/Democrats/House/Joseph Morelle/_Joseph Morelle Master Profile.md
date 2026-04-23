@@ -360,10 +360,6 @@ His son of a union plumber origin story is genuine, not performed. But even genu
 
 ---
 
-office:: House
-state:: New York
-district:: 25
-party:: Democrat
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

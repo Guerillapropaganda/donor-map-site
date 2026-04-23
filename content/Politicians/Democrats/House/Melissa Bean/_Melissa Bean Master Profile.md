@@ -305,9 +305,6 @@ Bean represents a new model of donor-class power projection. Rather than corrupt
 
 ---
 
-office:: House
-state:: IL
-party:: Democrat
 
 ## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->

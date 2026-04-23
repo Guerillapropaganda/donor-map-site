@@ -33,6 +33,31 @@ const { loadEntities } = require('./lib/entities-store.cjs');
 const STRICT = process.argv.includes('--strict');
 const VERBOSE = process.argv.includes('--verbose');
 
+// ─── Tolerated regressions (ADR-0021 Rule 17: every stamp expires) ──
+// Known-broken subjects can be registered in scripts/_tolerated-regressions.jsonl
+// with a recheck_after date. While tolerated, the hook reports them as
+// tolerated (not failed). After recheck_after passes, tolerance expires
+// and the hook fails again, forcing re-review.
+const TOLERATED_FILE = path.join(__dirname, '_tolerated-regressions.jsonl');
+
+function loadTolerated() {
+  if (!fs.existsSync(TOLERATED_FILE)) return new Map();
+  const today = new Date().toISOString().slice(0, 10);
+  const map = new Map();
+  for (const line of fs.readFileSync(TOLERATED_FILE, 'utf-8').split('\n')) {
+    const t = line.trim();
+    if (!t || t.startsWith('//')) continue;
+    let entry;
+    try { entry = JSON.parse(t); } catch { continue; }
+    if (entry.type !== 'canonical-total-out-of-bounds') continue;
+    if (!entry.subject) continue;
+    // Expired tolerance → do not load (forces failure)
+    if (entry.recheck_after && entry.recheck_after < today) continue;
+    map.set(entry.subject, entry);
+  }
+  return map;
+}
+
 // ─── Manual vehicle map (mirror of ops/src/app/api/ask/route.ts) ─────
 // Kept in sync with the frontend's MANUAL_VEHICLE_MAP. When a new entry
 // is added there, add it here too.
@@ -135,19 +160,34 @@ const CANONICAL_SUBJECTS = [
 
   const edges = loadEdges();
   const ents = loadEntities();
+  const tolerated = loadTolerated();
 
-  let okCount = 0, failCount = 0;
+  let okCount = 0, failCount = 0, toleratedCount = 0;
   const failed = [];
+  const toleratedFailures = [];
 
   for (const subj of CANONICAL_SUBJECTS) {
     const vehicles = vehiclesFor(subj.name, ents);
     const pool = pooledInflows(edges, subj.name, vehicles);
     const low = subj.expectedMid * (1 - subj.tolerance);
     const high = subj.expectedMid * (1 + subj.tolerance);
-    const pass = pool.total >= low && pool.total <= high;
-    if (pass) okCount++; else { failCount++; failed.push({ subj, pool }); }
+    const rawPass = pool.total >= low && pool.total <= high;
+    const toleratedEntry = !rawPass ? tolerated.get(subj.name) : null;
 
-    const marker = pass ? '✓' : '✗';
+    let marker;
+    if (rawPass) {
+      okCount++;
+      marker = '✓';
+    } else if (toleratedEntry) {
+      toleratedCount++;
+      marker = '~';
+      toleratedFailures.push({ subj, pool, entry: toleratedEntry });
+    } else {
+      failCount++;
+      failed.push({ subj, pool });
+      marker = '✗';
+    }
+
     const actualM = (pool.total / 1e6).toFixed(0);
     const midM = (subj.expectedMid / 1e6).toFixed(0);
     const lowM = (low / 1e6).toFixed(0);
@@ -155,20 +195,35 @@ const CANONICAL_SUBJECTS = [
 
     console.log(`  ${marker} ${subj.name.padEnd(20)} actual=$${actualM}M  expected=$${midM}M ±${(subj.tolerance * 100).toFixed(0)}% [$${lowM}M–$${highM}M]`);
     console.log(`      ${pool.count} edges pooled across ${vehicles.length + 1} entities`);
-    if (VERBOSE || !pass) {
+    if (VERBOSE || !rawPass) {
       const topVehicles = Object.entries(pool.perVehicle).sort((a, b) => b[1] - a[1]).slice(0, 5);
       topVehicles.forEach(([v, a]) => console.log(`        $${(a / 1e6).toFixed(0).padStart(5)}M  ${v}`));
+    }
+    if (toleratedEntry) {
+      console.log(`      TOLERATED until ${toleratedEntry.recheck_after}: ${toleratedEntry.reason}`);
     }
     console.log(`      why: ${subj.why}\n`);
   }
 
   console.log('─'.repeat(80));
   console.log(`  ✓ in bounds: ${okCount}`);
+  if (toleratedCount > 0) console.log(`  ~ tolerated (known-broken, documented): ${toleratedCount}`);
   console.log(`  ✗ out of bounds: ${failCount}`);
+
+  if (toleratedCount > 0) {
+    console.log('\nTolerated regressions (review if recheck date approaches):');
+    toleratedFailures.forEach(f => {
+      console.log(`  ~ ${f.subj.name} — recheck after ${f.entry.recheck_after}`);
+      console.log(`      ${f.entry.reason}`);
+    });
+  }
 
   if (STRICT && failCount > 0) {
     console.log('\nOut-of-bounds entries (fix before merging):');
     failed.forEach(f => console.log(`  ${f.subj.name}: actual $${(f.pool.total / 1e6).toFixed(0)}M vs expected $${(f.subj.expectedMid / 1e6).toFixed(0)}M ±${(f.subj.tolerance * 100).toFixed(0)}%`));
+    console.log('\nTo tolerate a known-broken subject temporarily, add a line to');
+    console.log('  scripts/_tolerated-regressions.jsonl with recheck_after date.');
+    console.log('(See ADR-0021 Rule 17: every stamp expires.)');
     process.exitCode = 1;
   }
 })();

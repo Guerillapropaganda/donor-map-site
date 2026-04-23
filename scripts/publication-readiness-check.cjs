@@ -60,6 +60,10 @@ const READY_ONLY = args.includes("--ready-only")
 const VERBOSE = args.includes("--verbose")
 const FOLDER_FILTER = argValue("--folder")
 const SINGLE_FILE = argValue("--file")
+// --public-only: restrict the scan to profiles referenced in
+// data/public-routes.json. Used by the pre-push gate (ADR-0021 Phase 2,
+// Rule 10 enforcement) so deploys can't ship broken public content.
+const PUBLIC_ONLY = args.includes("--public-only")
 
 // ─── Load data stores once (lazy + tolerant) ─────────────────────────
 
@@ -256,6 +260,63 @@ function checkFile(filePath) {
 function findProfiles() {
   if (SINGLE_FILE) {
     return [path.resolve(SINGLE_FILE)]
+  }
+
+  if (PUBLIC_ONLY) {
+    // Resolve slugs from data/public-routes.json to their backing markdown
+    // files. A slug is either a Quartz route path (kebab-case of the profile
+    // title) or "index" (the construction splash, which has no profile
+    // backing and is skipped).
+    const publicRoutesPath = path.join(DATA_DIR, "public-routes.json")
+    if (!fs.existsSync(publicRoutesPath)) return []
+    let routes
+    try {
+      routes = JSON.parse(fs.readFileSync(publicRoutesPath, "utf-8"))
+    } catch {
+      return []
+    }
+    if (!Array.isArray(routes)) return []
+
+    const resolved = []
+    const walk = (dir) => {
+      let entries
+      try { entries = fs.readdirSync(dir, { withFileTypes: true }) } catch { return }
+      for (const e of entries) {
+        const p = path.join(dir, e.name)
+        if (e.isDirectory()) {
+          if (e.name.startsWith(".") || e.name === "Assets" || e.name === "Excalidraw") continue
+          walk(p)
+        } else if (e.name.endsWith(".md")) {
+          resolved.push(p)
+        }
+      }
+    }
+    const startDirs = [
+      path.join(CONTENT_DIR, "Politicians"),
+      path.join(CONTENT_DIR, "Donors & Power Networks"),
+      path.join(CONTENT_DIR, "Policies"),
+      path.join(CONTENT_DIR, "Stories"),
+    ]
+    for (const d of startDirs) walk(d)
+
+    // Match slugs against profile titles (kebab-case). "index" skipped
+    // because it's the splash page, not a profile.
+    const routeSlugs = new Set(routes.filter(r => r !== "index"))
+    if (routeSlugs.size === 0) return []
+
+    const matched = []
+    for (const p of resolved) {
+      try {
+        const head = fs.readFileSync(p, "utf-8").slice(0, 500)
+        const titleMatch = head.match(/^title:\s*["']?([^"'\n]+)["']?\s*$/m)
+        if (!titleMatch) continue
+        const slug = titleMatch[1].toLowerCase().trim()
+          .replace(/[^a-z0-9]+/g, "-")
+          .replace(/^-+|-+$/g, "")
+        if (routeSlugs.has(slug)) matched.push(p)
+      } catch { /* skip */ }
+    }
+    return matched
   }
 
   const candidates = []

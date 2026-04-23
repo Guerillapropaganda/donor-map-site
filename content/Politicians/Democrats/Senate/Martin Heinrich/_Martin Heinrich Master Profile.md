@@ -371,9 +371,6 @@ Heinrich's clean energy and AI work provide the progressive credential. He co-fo
 
 ---
 
-office:: Senate
-state:: New Mexico
-party:: Democrat
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
