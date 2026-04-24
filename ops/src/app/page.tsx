@@ -113,10 +113,73 @@ export default function Dashboard() {
     } catch { /* skip */ }
   }
 
+  // Vault-audit harness — single source of truth for "Quality Signals" cards.
+  // Reads the artifact from /api/vault-audit (returns the latest run JSON with
+  // age_minutes). If the artifact is >15 min old, we auto-POST to re-run the
+  // harness so numbers are never stale-forever even if the dispatcher is dead.
+  type HarnessCheck = {
+    name: string
+    description: string
+    exit: number
+    duration_ms: number
+    timed_out: boolean
+    findings_count: number
+    notes: string
+    stdout_tail?: string
+  }
+  type HarnessArtifact = {
+    generated_at: string
+    age_minutes: number
+    duration_ms: number
+    checks: HarnessCheck[]
+    error?: string
+  }
+  const STALE_MINUTES = 15
+  const [harness, setHarness] = useState<HarnessArtifact | null>(null)
+  const [harnessRunning, setHarnessRunning] = useState(false)
+  const [harnessError, setHarnessError] = useState<string | null>(null)
+
+  const loadHarness = async (opts: { autoRerun?: boolean } = {}) => {
+    try {
+      setHarnessError(null)
+      const res = await fetch("/api/vault-audit")
+      const data = await res.json()
+      if (data.error && !data.generated_at) {
+        setHarnessError(data.error)
+        return
+      }
+      setHarness(data as HarnessArtifact)
+      if (opts.autoRerun && data.age_minutes > STALE_MINUTES && !harnessRunning) {
+        void runHarness()
+      }
+    } catch (e) {
+      setHarnessError(e instanceof Error ? e.message : "failed to load harness")
+    }
+  }
+
+  const runHarness = async () => {
+    if (harnessRunning) return
+    setHarnessRunning(true)
+    setHarnessError(null)
+    try {
+      const res = await fetch("/api/vault-audit", { method: "POST" })
+      const data = await res.json()
+      if (data.error && !data.generated_at) {
+        setHarnessError(data.error)
+      } else {
+        setHarness(data as HarnessArtifact)
+      }
+    } catch (e) {
+      setHarnessError(e instanceof Error ? e.message : "failed to re-run harness")
+    } finally {
+      setHarnessRunning(false)
+    }
+  }
+
   useEffect(() => {
     // Parallel fetch — all independent data sources at once
     loadVault()
-    Promise.all([loadActivity(), loadStatus(), loadAttention()])
+    Promise.all([loadActivity(), loadStatus(), loadAttention(), loadHarness({ autoRerun: true })])
   }, [])
 
   const timeAgo = (ts: string) => {
@@ -140,16 +203,77 @@ export default function Dashboard() {
             {lastRefresh ? `Last refreshed ${lastRefresh.toLocaleTimeString()}` : "Loading..."}
           </p>
         </div>
-        <button
-          onClick={() => loadVault(true)}
-          disabled={loading}
-          className="flex items-center gap-2 bg-[var(--color-steel)]/15 text-[var(--color-steel)] border border-[var(--color-steel)]/30 rounded-lg px-4 py-2 text-xs hover:bg-[var(--color-steel)]/25 transition-colors disabled:opacity-50"
-        >
-          <svg className={`w-3.5 h-3.5 ${loading ? "animate-spin" : ""}`} fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
-            <path strokeLinecap="round" strokeLinejoin="round" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
-          </svg>
-          Refresh from GitHub
-        </button>
+        <div className="flex items-center gap-2">
+          {/* Harness freshness chip — the single trust signal for every number
+              in the Quality Signals grid below. Green = fresh, amber = stale,
+              red = broken. Clicking re-runs the harness server-side. */}
+          {(() => {
+            const crashed = harness
+              ? harness.checks.filter((c) => c.exit !== 0 || c.timed_out).length
+              : 0
+            const stale =
+              harness && harness.age_minutes > STALE_MINUTES && !harnessRunning
+            const isError = !!harnessError || (harness && !!harness.error)
+            let color = "#22c55e"
+            let label = "Harness fresh"
+            if (harnessRunning) {
+              color = "#5b8dce"
+              label = "Running…"
+            } else if (isError) {
+              color = "#ef4444"
+              label = "Harness error"
+            } else if (crashed > 0) {
+              color = "#ef4444"
+              label = `${crashed} check${crashed === 1 ? "" : "s"} crashed`
+            } else if (stale) {
+              color = "#f59e0b"
+              label = "Harness stale"
+            } else if (harness) {
+              label = `Harness ${harness.age_minutes}m ago`
+            } else {
+              color = "#7a7a86"
+              label = "Harness loading…"
+            }
+            return (
+              <button
+                onClick={() => runHarness()}
+                disabled={harnessRunning}
+                title={
+                  isError
+                    ? `Error: ${harnessError || harness?.error}`
+                    : "Click to re-run the vault-audit harness now"
+                }
+                className="flex items-center gap-2 rounded-lg px-3 py-2 text-[10px] border transition-colors disabled:opacity-50"
+                style={{
+                  borderColor: `${color}55`,
+                  color,
+                  backgroundColor: `${color}15`,
+                }}
+              >
+                <span
+                  className={`w-2 h-2 rounded-full ${harnessRunning ? "animate-pulse" : ""}`}
+                  style={{ backgroundColor: color }}
+                />
+                {label}
+                {!harnessRunning && (
+                  <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
+                    <path strokeLinecap="round" strokeLinejoin="round" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+                  </svg>
+                )}
+              </button>
+            )
+          })()}
+          <button
+            onClick={() => loadVault(true)}
+            disabled={loading}
+            className="flex items-center gap-2 bg-[var(--color-steel)]/15 text-[var(--color-steel)] border border-[var(--color-steel)]/30 rounded-lg px-4 py-2 text-xs hover:bg-[var(--color-steel)]/25 transition-colors disabled:opacity-50"
+          >
+            <svg className={`w-3.5 h-3.5 ${loading ? "animate-spin" : ""}`} fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
+              <path strokeLinecap="round" strokeLinejoin="round" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+            </svg>
+            Refresh from GitHub
+          </button>
+        </div>
       </div>
 
       {/* Error / Setup Guide */}
@@ -310,10 +434,18 @@ export default function Dashboard() {
           <h3 className="text-[9px] uppercase tracking-wider text-[var(--color-text-dim)] mb-3">Vault Health</h3>
           {stats ? (() => {
             const total = profiles.length || 1
-            const verified = profiles.filter(p => p.contentReadiness === "verified" || p.contentReadiness === "ready" || p.contentReadiness === "s-tier").length
-            const draft = profiles.filter(p => p.contentReadiness === "draft" || p.contentReadiness === "developed").length
+            // ADR-0017 five-tier readiness flow: raw → draft → ready →
+            // data-complete → verified. Retired: s-tier, developed.
+            // Scoring weights (out of 4): verified=4, data-complete=3,
+            // ready=2, draft=1, raw/missing=0. Previously 446 data-complete
+            // profiles were invisible because the filter only matched the
+            // old three-tier vocabulary.
+            const verified = profiles.filter(p => p.contentReadiness === "verified").length
+            const dataComplete = profiles.filter(p => p.contentReadiness === "data-complete").length
+            const ready = profiles.filter(p => p.contentReadiness === "ready").length
+            const draft = profiles.filter(p => p.contentReadiness === "draft").length
             const raw = profiles.filter(p => p.contentReadiness === "raw" || !p.contentReadiness).length
-            const healthPct = Math.round(((verified * 3 + draft * 1.5) / (total * 3)) * 100)
+            const healthPct = Math.round(((verified * 4 + dataComplete * 3 + ready * 2 + draft * 1) / (total * 4)) * 100)
             const color = healthPct > 60 ? "#22c55e" : healthPct > 30 ? "#f59e0b" : "#ef4444"
             return (
               <div>
@@ -325,13 +457,21 @@ export default function Dashboard() {
                     </svg>
                     <span className="absolute inset-0 flex items-center justify-center text-[14px] font-bold" style={{ color }}>{healthPct}%</span>
                   </div>
-                  <div className="flex-1 space-y-1.5">
+                  <div className="flex-1 space-y-1">
                     <div className="flex items-center justify-between text-[8px]">
-                      <span className="text-[#22c55e]">Verified/Ready</span>
+                      <span className="text-[#16a34a]">Verified</span>
                       <span className="font-bold text-[var(--color-text)]">{verified}</span>
                     </div>
                     <div className="flex items-center justify-between text-[8px]">
-                      <span className="text-[#f59e0b]">Draft/Developed</span>
+                      <span className="text-[#22c55e]">Data-complete</span>
+                      <span className="font-bold text-[var(--color-text)]">{dataComplete}</span>
+                    </div>
+                    <div className="flex items-center justify-between text-[8px]">
+                      <span className="text-[#a3e635]">Ready</span>
+                      <span className="font-bold text-[var(--color-text)]">{ready}</span>
+                    </div>
+                    <div className="flex items-center justify-between text-[8px]">
+                      <span className="text-[#f59e0b]">Draft</span>
                       <span className="font-bold text-[var(--color-text)]">{draft}</span>
                     </div>
                     <div className="flex items-center justify-between text-[8px]">
@@ -340,7 +480,7 @@ export default function Dashboard() {
                     </div>
                   </div>
                 </div>
-                <div className="text-[8px] text-[var(--color-text-dim)]">{total} total profiles</div>
+                <div className="text-[8px] text-[var(--color-text-dim)]">{total} total profiles · ADR-0017 five-tier flow</div>
               </div>
             )
           })() : <div className="animate-pulse h-16 bg-[var(--color-bg)] rounded" />}
@@ -356,144 +496,135 @@ export default function Dashboard() {
         <TypeBreakdown stats={stats} />
       </div>
 
-      {/* ─── S-TIER INSIGHTS — added 2026-04-11 ─────────────────── */}
-      {/* These cards surface the new janitor-stamped fields
-          (audit-a-plus-passed, cross-vault-triangulation-count,
-          anomaly-flags, both-sides-flag) so David doesn't need to
-          hunt through profiles to see queue state.
-          IMPORTANT: parseProfile() in vault.ts maps hyphenated YAML
-          fields to camelCase Profile fields (audit-a-plus-passed →
-          auditAPlusPassed). Access via the camelCase names, not the
-          original YAML keys. */}
+      {/* ─── QUALITY SIGNALS — rewired 2026-04-24 ─────────────────── */}
+      {/* Every card reads live findings from the 14-check vault-audit harness
+          via /api/vault-audit. No per-profile stamps. If the harness hasn't
+          run, the freshness chip at the top turns red; if a specific check
+          crashed, its card turns red. The grid below never lies by going out
+          of sync with reality — it IS reality.
+          Replaces the old "S-Tier Insights" block (retired vocab per ADR-0017)
+          that read stale janitor-stamped frontmatter fields. */}
       {(() => {
-        type RawProfile = Profile & {
-          auditAPlusPassed?: string
-          anomalyFlags?: string[]
-          crossVaultTriangulationCount?: number
-          bothSidesFlag?: boolean
-          angle?: string
-          originalFinding?: string
-          exclusiveConnections?: string[]
-        }
-        const rp = profiles as RawProfile[]
-        const signoffQueue = rp.filter(p => !!p.auditAPlusPassed && p.lastVerifiedBy !== "editorial")
-        const anomalies = rp.filter(p => Array.isArray(p.anomalyFlags) && p.anomalyFlags.length > 0)
-        const superConnectors = rp
-          .filter(p => (p.crossVaultTriangulationCount || 0) >= 3)
-          .sort((a, b) => (b.crossVaultTriangulationCount || 0) - (a.crossVaultTriangulationCount || 0))
-          .slice(0, 10)
-        const bothSides = rp.filter(p => p.bothSidesFlag === true)
+        const byName = (n: string): HarnessCheck | undefined =>
+          harness?.checks.find((c) => c.name === n)
 
-        // Duplicate bioguide check (cheap) — Profile interface doesn't expose
-        // bioguide-id directly, so cast to any Record to read the raw key.
-        const bgCounts: Record<string, number> = {}
-        for (const p of profiles) {
-          const raw = p as unknown as Record<string, unknown>
-          const bg = raw["bioguide-id"] || raw.bioguideId
-          if (typeof bg === "string" && bg) bgCounts[bg] = (bgCounts[bg] || 0) + 1
-        }
-        const dupBioguides = Object.values(bgCounts).filter(c => c > 1).length
+        // Pull both-sides count out of pipeline-janitor's stdout_tail.
+        // The janitor prints one line per a-plus sub-check; we parse the
+        // a-plus-both-sides line specifically so this card shows the real
+        // 11 (or whatever) instead of the broken both-sides-flag stamp.
+        const bothSidesCount = (() => {
+          const pj = byName("pipeline-janitor")
+          if (!pj?.stdout_tail) return null
+          const m = pj.stdout_tail.match(/a-plus-both-sides\s+(\d+)/)
+          return m ? parseInt(m[1], 10) : null
+        })()
 
-        // Stale verified (>90 days)
-        const stale = rp.filter(p => {
-          if (p.contentReadiness !== "verified") return false
-          if (!p.lastEnriched) return false
-          const days = (Date.now() - new Date(p.lastEnriched).getTime()) / 86400000
-          return days > 90
-        })
+        // Each card: [label, harness check name OR override count, link, hint].
+        // Crashed/timed-out checks render red with an exit-code note.
+        type Card = {
+          label: string
+          checkName?: string
+          count?: number | null
+          href: string
+          hint: string
+        }
+        const cards: Card[] = [
+          {
+            label: "Schema violations",
+            checkName: "frontmatter-schema",
+            href: "/attention",
+            hint: "Frontmatter failing ADR-0023",
+          },
+          {
+            label: "A+ bar failures",
+            checkName: "type-specific-a-plus",
+            href: "/signoff-queue",
+            hint: "Per-type quality floor (ADR-0022)",
+          },
+          {
+            label: "Both-sides conflicts",
+            count: bothSidesCount,
+            href: "/attention",
+            hint: "Same entity in donors + opposes",
+          },
+          {
+            label: "URL policy issues",
+            checkName: "url-domain-policy",
+            href: "/urls",
+            hint: "LDA/OpenSecrets/FTM etc.",
+          },
+          {
+            label: "Reconciliation drift",
+            checkName: "reconciliation-framework-tier-1",
+            href: "/attention",
+            hint: "Canonical totals out of tolerance",
+          },
+          {
+            label: "Stamp expiry",
+            checkName: "stamp-expiry",
+            href: "/attention",
+            hint: "A+ stamps on profiles that drifted",
+          },
+        ]
 
         return (
           <div className="mb-6">
-            <h2 className="text-[9px] uppercase tracking-wider text-[var(--color-text-dim)] mb-3">
-              S-Tier Insights
-            </h2>
+            <div className="flex items-center justify-between mb-3">
+              <h2 className="text-[9px] uppercase tracking-wider text-[var(--color-text-dim)]">
+                Quality Signals
+              </h2>
+              <span className="text-[8px] text-[var(--color-text-dim)]">
+                Live from the 14-check harness ·{" "}
+                {harness ? `${harness.checks.length} checks, ${harness.duration_ms}ms` : "loading…"}
+              </span>
+            </div>
             <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3">
-              {/* Sign-off queue — highest priority */}
-              <Link
-                href="/signoff-queue"
-                className="bg-[var(--color-bg-card)] border border-[var(--color-amber)]/40 rounded p-3 hover:border-[var(--color-amber)] transition-colors block"
-              >
-                <div className="text-[8px] uppercase tracking-wider text-[var(--color-text-dim)]">
-                  Ready for sign-off
-                </div>
-                <div className="text-xl font-bold mt-1 text-[var(--color-amber)]">
-                  {signoffQueue.length}
-                </div>
-                <div className="text-[7px] text-[var(--color-text-dim)] mt-0.5">
-                  Click to review →
-                </div>
-              </Link>
-
-              {/* Super-connectors (triangulation) */}
-              <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded p-3">
-                <div className="text-[8px] uppercase tracking-wider text-[var(--color-text-dim)]">
-                  Super-connectors
-                </div>
-                <div className="text-xl font-bold mt-1 text-[var(--color-purple)]">
-                  {superConnectors.length}
-                </div>
-                <div className="text-[7px] text-[var(--color-text-dim)] mt-0.5">
-                  3+ triangulations
-                </div>
-              </div>
-
-              {/* Anomaly flags */}
-              <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded p-3">
-                <div className="text-[8px] uppercase tracking-wider text-[var(--color-text-dim)]">
-                  Anomaly flags
-                </div>
-                <div className="text-xl font-bold mt-1" style={{ color: anomalies.length > 0 ? "var(--color-amber)" : "var(--color-text-dim)" }}>
-                  {anomalies.length}
-                </div>
-                <div className="text-[7px] text-[var(--color-text-dim)] mt-0.5">
-                  Cohort outliers
-                </div>
-              </div>
-
-              {/* Both-sides conflicts */}
-              <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded p-3">
-                <div className="text-[8px] uppercase tracking-wider text-[var(--color-text-dim)]">
-                  Both-sides conflicts
-                </div>
-                <div className="text-xl font-bold mt-1" style={{ color: bothSides.length > 0 ? "var(--color-red)" : "var(--color-text-dim)" }}>
-                  {bothSides.length}
-                </div>
-                <div className="text-[7px] text-[var(--color-text-dim)] mt-0.5">
-                  Same entity in donors + opposes
-                </div>
-              </div>
-
-              {/* Contamination sentinel — must always be 0 */}
-              <div
-                className="bg-[var(--color-bg-card)] rounded p-3 border"
-                style={{ borderColor: dupBioguides > 0 ? "var(--color-red)" : "var(--color-border)" }}
-              >
-                <div className="text-[8px] uppercase tracking-wider text-[var(--color-text-dim)]">
-                  Duplicate bioguides
-                </div>
-                <div
-                  className="text-xl font-bold mt-1"
-                  style={{ color: dupBioguides > 0 ? "var(--color-red)" : "var(--color-green)" }}
-                >
-                  {dupBioguides === 0 ? "✓" : dupBioguides}
-                </div>
-                <div className="text-[7px] text-[var(--color-text-dim)] mt-0.5">
-                  {dupBioguides === 0 ? "Clean" : "CONTAMINATION"}
-                </div>
-              </div>
-
-              {/* Stale A+ */}
-              <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded p-3">
-                <div className="text-[8px] uppercase tracking-wider text-[var(--color-text-dim)]">
-                  Stale A+
-                </div>
-                <div className="text-xl font-bold mt-1" style={{ color: stale.length > 0 ? "var(--color-amber)" : "var(--color-text-dim)" }}>
-                  {stale.length}
-                </div>
-                <div className="text-[7px] text-[var(--color-text-dim)] mt-0.5">
-                  Enriched &gt; 90 days
-                </div>
-              </div>
+              {cards.map((card) => {
+                const check = card.checkName ? byName(card.checkName) : undefined
+                const crashed =
+                  !!check && (check.exit !== 0 || check.timed_out)
+                const count = card.checkName
+                  ? check
+                    ? check.findings_count
+                    : null
+                  : card.count
+                const display =
+                  count === null || count === undefined
+                    ? "—"
+                    : crashed
+                    ? "✗"
+                    : count.toLocaleString()
+                const color = crashed
+                  ? "var(--color-red)"
+                  : count && count > 0
+                  ? "var(--color-amber)"
+                  : count === 0
+                  ? "var(--color-green)"
+                  : "var(--color-text-dim)"
+                const borderColor = crashed ? "var(--color-red)" : "var(--color-border)"
+                const title = crashed
+                  ? `check crashed (exit=${check?.exit}${check?.timed_out ? ", timed out" : ""})`
+                  : check?.notes || card.hint
+                return (
+                  <Link
+                    key={card.label}
+                    href={card.href}
+                    title={title}
+                    className="bg-[var(--color-bg-card)] border rounded p-3 hover:border-[var(--color-text-dim)] transition-colors block"
+                    style={{ borderColor }}
+                  >
+                    <div className="text-[8px] uppercase tracking-wider text-[var(--color-text-dim)]">
+                      {card.label}
+                    </div>
+                    <div className="text-xl font-bold mt-1" style={{ color }}>
+                      {display}
+                    </div>
+                    <div className="text-[7px] text-[var(--color-text-dim)] mt-0.5">
+                      {crashed ? `exit=${check?.exit}${check?.timed_out ? " · timed out" : ""}` : card.hint}
+                    </div>
+                  </Link>
+                )
+              })}
             </div>
           </div>
         )

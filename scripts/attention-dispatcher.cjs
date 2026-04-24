@@ -7,6 +7,7 @@
  * ops app /attention page current and the dashboard card accurate.
  *
  * Schedule (all local time):
+ *   - Every 15 min  → vault-audit                 (14-check harness, powers Ops pages)
  *   - Every 30 min  → voice-drift-detector       (cheap, catches AI slop fast)
  *   - Every  1 hr   → hallucination-catcher      (claim/citation matching)
  *   - Every  1 hr   → promotion-candidate-queue  (what's cheapest to ship today)
@@ -61,6 +62,21 @@ const HEALTHCHECKS_URL = process.env.HEALTHCHECKS_PING_URL || '';
 //   args:        optional CLI args array passed after the script path
 //   timeout_ms:  optional override for the default 60_000ms timeout
 const PRODUCERS = [
+  // Vault-audit harness — the single source of truth for every ops page.
+  // Runs every 15 min so the Dashboard + other ops pages read fresh findings
+  // without the user having to hit "Re-run now". Writes its artifact to
+  // content/Admin Notes/vault-audit-latest.json (read by /api/vault-audit).
+  // The Dashboard also triggers an on-demand re-run if the artifact is
+  // > 15 min old, so a dead dispatcher never leaves numbers stale-forever.
+  // 2-minute timeout — 14-check harness runs in ~7s on current vault but
+  // some checks (reconciliation-framework-tier-1) can spike.
+  {
+    name: 'vault-audit',
+    schedule: '*/15 * * * *',
+    script: 'scripts/vault-audit.cjs',
+    args: ['--quiet'],
+    timeout_ms: 120_000,
+  },
   { name: 'voice-drift-detector',       schedule: '*/30 * * * *', script: 'scripts/voice-drift-detector.cjs' },
   { name: 'hallucination-catcher',      schedule: '0 * * * *',    script: 'scripts/hallucination-catcher.cjs' },
   { name: 'promotion-candidate-queue',  schedule: '15 * * * *',   script: 'scripts/promotion-candidate-queue.cjs' },

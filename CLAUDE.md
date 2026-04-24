@@ -242,6 +242,17 @@ Runs at `localhost:3333`. Not internet-accessible.
 
 Ops API routes default to Clerk-authenticated. `OPS_AUTH_BYPASS=true` in `.env.local` disables auth for local dev. Never set in production. Full Clerk setup + credential rotation checklist in `ops/README.md`.
 
+### Ops display rule: harness is the source of truth
+
+Ops pages display counts, statuses, and health signals from the `vault-audit` harness (`scripts/vault-audit.cjs`, artifact at `content/Admin Notes/vault-audit-latest.json`, served by `/api/vault-audit`). **Never read per-profile stamps directly for display** — fields like `audit-a-plus-passed`, `both-sides-flag`, `anomaly-flags`, etc. are write-only persistence set by background scripts that may be paused, crashed, or out of date. The harness re-computes every check from scratch on each run, so reading it is the only way to avoid drift between what the Dashboard shows and what's actually true.
+
+Every new number-box, status light, or progress meter on an ops page must:
+1. Pull its value from a harness check's `findings_count` (or an equivalent live endpoint like `/api/vault`, `/api/attention-queue`).
+2. Surface a freshness indicator — either inherit the Dashboard's global harness-freshness chip or include a per-page equivalent.
+3. Render crashed checks (`exit !== 0` or `timed_out`) as an explicit error state, never as `0 findings`.
+
+Background cadence: the `attention-dispatcher.cjs` runs the harness every 15 minutes. The Dashboard also auto-triggers a re-run if the artifact is >15 min old, so stale numbers are self-healing even if the dispatcher dies.
+
 ## Active checklists
 
 Load-bearing. Skipping produces real incidents.
