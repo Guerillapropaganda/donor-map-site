@@ -120,6 +120,14 @@ const CHECKS = [
     queue: { bucket: 'deciding', leverage: 3, cost_min: 20 },
   },
   {
+    name: 'stamp-expiry',
+    description: 'Publication-tier profiles past their last-enriched window (verified 180d, data-complete 90d)',
+    cmd: ['node', 'scripts/stamp-expiry.cjs', '--json'],
+    parse: parseStampExpiry,
+    timeout_ms: 60000,
+    queue: { bucket: 'compounding', leverage: 3, cost_min: 30 },
+  },
+  {
     name: 'reconciliation-framework-tier-1',
     description: 'Data integrity: absurd-value frontmatter, self-loop edges, duplicates, orphans',
     cmd: ['node', 'scripts/verify-all.cjs', '--tier', '1'],
@@ -193,6 +201,19 @@ function parseProseDataConsistency(stdout, _stderr, _exit) {
     return {
       findings_count: j.total_findings || 0,
       notes: `${j.scanned || 0} scanned, ${j.profiles_with_findings || 0} with contradictions, ${j.total_findings || 0} finding(s) total.`,
+    };
+  } catch {
+    return { findings_count: 0, notes: '(json parse failed)' };
+  }
+}
+
+function parseStampExpiry(stdout, _stderr, _exit) {
+  try {
+    const j = JSON.parse(stdout);
+    const byTier = Object.entries(j.by_tier || {}).map(([t, n]) => `${t}: ${n}`).join(', ') || 'none';
+    return {
+      findings_count: j.total_findings || 0,
+      notes: `${j.scanned || 0} scanned. Expired: ${byTier}.`,
     };
   } catch {
     return { findings_count: 0, notes: '(json parse failed)' };
