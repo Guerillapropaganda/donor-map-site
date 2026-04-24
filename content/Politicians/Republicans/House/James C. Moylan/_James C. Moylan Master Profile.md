@@ -1,34 +1,34 @@
 ---
-title: "James C. Moylan"
+title: James C. Moylan
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Guam"
-state-abbr: "GU"
+party: Republican
+chamber: House
+state: Guam
+state-abbr: GU
 district: "0"
-bioguide-id: "M001219"
+bioguide-id: M001219
 govtrack-id: 456896
 born: "1962-07-18"
-wikidata-id: "Q114108969"
-website: "https://moylan.house.gov"
-phone: "202-225-1188"
+wikidata-id: Q114108969
+website: https://moylan.house.gov
+phone: 202-225-1188
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 30
 bills-cosponsored: 344
 bills-enacted: 0
-top-policy-area: "Armed Forces and National Security"
-last-enriched: 2026-04-21
+top-policy-area: Armed Forces and National Security
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Early Childhood, Elementary, and Secondary Education"
+  - Early Childhood, Elementary, and Secondary Education
   - East Asia and Pacific
   - Higher Education and Workforce Development
   - House Committee on Armed Services
@@ -37,6 +37,7 @@ committees:
   - Readiness
   - Seapower and Projection Forces
   - South and Central Asia
+top-donors: "[[HOUCHIN FOR CONGRESS]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[JIM JORDAN FOR CONGRESS]], [[MIKE COLLINS FOR SENATE]], [[Tom Emmer]], [[DR. BRIAN BABIN FOR CONGRESS]], [[Mike Johnson]], [[Steve Scalise]]"
 ---
 
 

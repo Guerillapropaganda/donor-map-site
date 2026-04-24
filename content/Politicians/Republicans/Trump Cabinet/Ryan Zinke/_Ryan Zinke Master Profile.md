@@ -8,25 +8,25 @@ source-tier: 1
 party: Republican
 chamber: Secretary of the Interior (2017-2019)
 known-gaps:
-  - "No voting record data"
-  - "No mapped relationships"
+  - No voting record data
+  - No mapped relationships
 source-types:
   - Congress
   - FEC
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4MT01041
-top-donors: "[[Hmp]], [[National Association of Realtors]], [[National Rifle Association]], [[NRCC - National Republican Congressional Committee]], [[Associated General Contractors of America Political Action Committee]], [[Jim Jordan]], [[Byron Donalds]], [[Comcast - NBCUniversal]], [[WinRed]], [[AT&T - WarnerMedia]], [[Ron Estes]], [[ConocoPhillips]], [[Leidos]], [[Anthem - Elevance Health]], [[PRIORITIES USA ACTION]], [[CoreCivic - Private Prisons]], [[Vern Buchanan]], [[Walmart - Walton Family]], [[Michael Waltz]], [[Congressional Leadership Fund]], [[Austin Scott]], [[Raytheon (RTX)]], [[Halliburton]], [[Honeywell]], [[American Conservative Union]], [[Google - Alphabet]], [[Alliance Coal, LLC PAC]], [[Hunter Action Fund (haf)]], [[Campaign for Working Families]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Rick W. Allen]], [[Devon Energy]], [[Cliff Bentz]], [[Occidental Petroleum]], [[Chevron]], [[Planned Parenthood Votes]], [[Freedom's Defense Fund]], [[Ben Cline]], [[L3Harris Technologies]], [[League of Conservation Voters]], [[Jason Smith]], [[Joe Wilson]], [[David Rouzer]], [[NextEra Energy]], [[Americans for Prosperity]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Amgen Inc]], [[Kevin Kiley]], [[Brad Knott]], [[Pete Sessions]], [[HMP]], [[Priorities USA Action]], [[Honeywell International]], [[AT&T]]"
-last-enriched: 2026-04-21
+top-donors: "[[Hmp]], [[National Association of Realtors]], [[National Rifle Association]], [[NRCC - National Republican Congressional Committee]], [[Associated General Contractors of America Political Action Committee]], [[Jim Jordan]], [[Byron Donalds]], [[Comcast - NBCUniversal]], [[WinRed]], [[AT&T - WarnerMedia]], [[Ron Estes]], [[ConocoPhillips]], [[Leidos]], [[Anthem - Elevance Health]], [[PRIORITIES USA ACTION]], [[CoreCivic - Private Prisons]], [[Vern Buchanan]], [[Walmart - Walton Family]], [[Michael Waltz]], [[Congressional Leadership Fund]], [[Austin Scott]], [[Raytheon (RTX)]], [[Halliburton]], [[Honeywell]], [[American Conservative Union]], [[Google - Alphabet]], [[Alliance Coal, LLC PAC]], [[Hunter Action Fund (haf)]], [[Campaign for Working Families]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Rick W. Allen]], [[Devon Energy]], [[Cliff Bentz]], [[Occidental Petroleum]], [[Chevron]], [[Planned Parenthood Votes]], [[Freedom's Defense Fund]], [[Ben Cline]], [[L3Harris Technologies]], [[League of Conservation Voters]], [[Jason Smith]], [[Joe Wilson]], [[David Rouzer]], [[NextEra Energy]], [[Americans for Prosperity]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Amgen Inc]], [[Kevin Kiley]], [[Brad Knott]], [[Pete Sessions]], [[HMP]], [[Priorities USA Action]], [[Honeywell International]], [[AT&T]], [[Raytheon (RTX Corporation)]], [[Ryan Zinke]], [[LOUDERMILK FOR CONGRESS]], [[HOUCHIN FOR CONGRESS]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[Daniel Meuser]], [[Richard Hudson]], [[NRA Political Victory Fund]], [[PETE SESSIONS FOR CONGRESS]], [[Mike Johnson]], [[BEN CLINE FOR CONGRESS, INC.]], [[CLAUDIA TENNEY FOR CONGRESS]], [[DIANA FOR CONGRESS]], [[Earl L. Buddy Carter]], [[ROBERT ADERHOLT FOR CONGRESS]], [[Kevin McCarthy]], [[Elise Stefanik]], [[ROGER WILLIAMS FOR U S CONGRESS COMMITTEE]], [[BURCHETT FOR CONGRESS]], [[Steve Scalise]], [[DR. BRIAN BABIN FOR CONGRESS]], [[HAGEMAN FOR WYOMING]], [[Robert E. Latta]], [[Special Operations for America]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[Kevin Cramer]], [[Koch Industries]], [[JOE WILSON FOR CONGRESS]], [[Republican Jewish Coalition]], [[McDonalds Corporation]], [[American Principles Fund]], [[Robert F. Onder]], [[Mariannette Miller-Meeks]], [[Dan Newhouse]], [[Nicholas A. Langworthy]], [[FRY FOR CONGRESS]], [[Rick Crawford]], [[Brett Guthrie]], [[JIM JORDAN FOR CONGRESS]], [[JASON SMITH FOR CONGRESS]], [[BYRON DONALDS FOR CONGRESS]], [[LISA MCCLAIN FOR CONGRESS]], [[Lloyd Smucker]], [[ISSA FOR CONGRESS]], [[BLAKE MOORE FOR CONGRESS]], [[Carol D. Miller]], [[Richard McCormick]], [[Meta - Facebook]], [[David P. Joyce]], [[CoreCivic]], [[National Cattlemen's Beef Association]], [[RICK W. ALLEN FOR CONGRESS]], [[National Right to Life Victory Fund]], [[TEXANS FOR JODEY ARRINGTON]], [[COMER FOR CONGRESS]], [[DAVID ROUZER FOR CONGRESS]], [[BRAD KNOTT FOR CONGRESS]], [[Southern Company]], [[WEBER FOR CONGRESS]], [[John Boehner]], [[National Restaurant Association]], [[Williams Companies]], [[BOST, MICHAEL]], [[Cargill]], [[MICHAEL WALTZ FOR CONGRESS]], [[Tim Walberg]], [[Gregory F. Murphy]], [[VERN BUCHANAN FOR CONGRESS]], [[Frank Lucas]], [[BURGESS 4 UTAH]], [[J. French Hill]], [[RON ESTES FOR CONGRESS]], [[Jim Banks]], [[KEVIN KILEY FOR CONGRESS]], [[CLIFF BENTZ FOR CONGRESS]], [[CLOUD FOR CONGRESS]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - East Asia and Pacific
   - House Committee on Appropriations
   - House Committee on Foreign Affairs
-  - "Interior, Environment, and Related Agencies"
+  - Interior, Environment, and Related Agencies
   - Middle East and North Africa
-  - "Military Construction, Veterans Affairs, and Related Agencies"
-  - "Transportation, Housing and Urban Development, and Related Agencies"
-total-raised: "$27.3M"
-career-total-source: "FEC weball summary (cycles 2014, 2016, 2018, 2022, 2024)"
+  - Military Construction, Veterans Affairs, and Related Agencies
+  - Transportation, Housing and Urban Development, and Related Agencies
+total-raised: $27.3M
+career-total-source: FEC weball summary (cycles 2014, 2016, 2018, 2022, 2024)
 bills-sponsored: 46
 corroboration-count: 2
 ---

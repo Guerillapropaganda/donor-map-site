@@ -1,40 +1,40 @@
 ---
-title: "Barry Moore"
+title: Barry Moore
 type: politician
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Alabama"
-state-abbr: "AL"
+party: Republican
+chamber: House
+state: Alabama
+state-abbr: AL
 district: "1"
-bioguide-id: "M001212"
+bioguide-id: M001212
 govtrack-id: 456800
 born: "1966-09-26"
-wikidata-id: "Q63198048"
-website: "https://barrymoore.house.gov"
-phone: "202-225-2901"
+wikidata-id: Q63198048
+website: https://barrymoore.house.gov
+phone: 202-225-2901
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-donors: "[[Brady Campaign]]"
+  - No FEC contribution data
+  - No voting record data
+donors: "[[Brady Campaign]], [[NEHLS FOR CONGRESS]], [[Leidos]], [[Tyson Foods]], [[JIM JORDAN FOR CONGRESS]], [[TEXANS FOR JODEY ARRINGTON]], [[National Cattlemen's Beef Association]], [[DAVID ROUZER FOR CONGRESS]], [[W. Gregory Steube]], [[Senate Conservatives Fund]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[BEN CLINE FOR CONGRESS, INC.]], [[JASON SMITH FOR CONGRESS]], [[NRA Political Victory Fund]], [[JOSH BRECHEEN FOR CONGRESS]], [[James R. Baird]], [[STEVE DAINES FOR MONTANA]], [[Club for Growth INC PAC]], [[CLYDE FOR CONGRESS, INC.]], [[Club for Growth]], [[Steve Scalise]], [[ADM - Archer Daniels Midland]], [[AIPAC - American Israel Public Affairs Committee]], [[DR. BRIAN BABIN FOR CONGRESS]], [[MARK ALFORD FOR CONGRESS, INC.]], [[Russ Fulcher]], [[Defend American Jobs]], [[Koch Industries]], [[ERIC BURLISON FOR CONGRESS]], [[WEBER FOR CONGRESS]], [[Darin Lahood]], [[Associated General Contractors of America Political Action Committee]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 22
 bills-cosponsored: 414
 bills-enacted: 0
-top-policy-area: "Crime and Law Enforcement"
-last-enriched: 2026-04-21
+top-policy-area: Crime and Law Enforcement
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Crime and Federal Government Surveillance
   - Forestry and Horticulture
-  - "General Farm Commodities, Risk Management, and Credit"
+  - General Farm Commodities, Risk Management, and Credit
   - House Committee on Agriculture
   - House Committee on the Judiciary
-  - "Immigration Integrity, Security, and Enforcement"
-  - "Livestock, Dairy, and Poultry"
+  - Immigration Integrity, Security, and Enforcement
+  - Livestock, Dairy, and Poultry
   - Oversight
 ---
 

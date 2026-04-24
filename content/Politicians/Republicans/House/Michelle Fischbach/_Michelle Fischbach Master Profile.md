@@ -18,25 +18,25 @@ phone: 202-225-2165
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H0MN07091
 bills-sponsored: 24
 bills-cosponsored: 183
 bills-enacted: 0
 top-policy-area: Taxation
-top-donors: "[[National Rifle Association]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Chevron]], [[Citigroup]], [[National Multifamily Housing Council]], [[Republican Jewish Coalition]], [[Bank of America]], [[American Hospital Association PAC]], [[Amgen Inc]], [[Jim Jordan]], [[Google - Alphabet]], [[Valero Energy]], [[iHeartMedia]], [[Kansans for Life Political Action Committee]], [[CVS Health - Aetna]], [[American Chemistry Council, INC]], [[Wfw Action Fund, Inc.]], [[Occidental Petroleum]], [[AT&T - WarnerMedia]], [[National Restaurant Association]], [[American Gaming Association]], [[Honeywell]], [[Marathon Petroleum]], [[Care Action]], [[Associated General Contractors of America Political Action Committee]], [[Humana]], [[NextEra Energy]], [[FREEDOM CLUB FEDERAL PAC]], [[VIEW PAC - Value in Electing Women]], [[AIPAC - American Israel Public Affairs Committee]], [[Women Speak Out Pac]], [[Freedom's Defense Fund]], [[National Cattlemen's Beef Association]], [[PG&E - Pacific Gas and Electric]], [[David Rouzer]], [[Jason Smith]], [[ADM - Archer Daniels Midland]], [[Austin Scott]], [[Walmart - Walton Family]], [[Pfizer Inc.]], [[Comcast - NBCUniversal]], [[Raytheon (RTX)]], [[Johnson & Johnson]], [[National Right to Life Victory Fund]], [[Lockheed Martin]], [[National Association of Realtors]], [[Microsoft]], [[WinRed]], [[MAJORITY PAC]], [[Anthem - Elevance Health]], [[Ron Estes]], [[Honeywell International]], [[AT&T]], [[Freedom Club Federal PAC]], [[Majority PAC]]"
-last-enriched: 2026-04-21
+top-donors: "[[National Rifle Association]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Chevron]], [[Citigroup]], [[National Multifamily Housing Council]], [[Republican Jewish Coalition]], [[Bank of America]], [[American Hospital Association PAC]], [[Amgen Inc]], [[Jim Jordan]], [[Google - Alphabet]], [[Valero Energy]], [[iHeartMedia]], [[Kansans for Life Political Action Committee]], [[CVS Health - Aetna]], [[American Chemistry Council, INC]], [[Wfw Action Fund, Inc.]], [[Occidental Petroleum]], [[AT&T - WarnerMedia]], [[National Restaurant Association]], [[American Gaming Association]], [[Honeywell]], [[Marathon Petroleum]], [[Care Action]], [[Associated General Contractors of America Political Action Committee]], [[Humana]], [[NextEra Energy]], [[FREEDOM CLUB FEDERAL PAC]], [[VIEW PAC - Value in Electing Women]], [[AIPAC - American Israel Public Affairs Committee]], [[Women Speak Out Pac]], [[Freedom's Defense Fund]], [[National Cattlemen's Beef Association]], [[PG&E - Pacific Gas and Electric]], [[David Rouzer]], [[Jason Smith]], [[ADM - Archer Daniels Midland]], [[Austin Scott]], [[Walmart - Walton Family]], [[Pfizer Inc.]], [[Comcast - NBCUniversal]], [[Raytheon (RTX)]], [[Johnson & Johnson]], [[National Right to Life Victory Fund]], [[Lockheed Martin]], [[National Association of Realtors]], [[Microsoft]], [[WinRed]], [[MAJORITY PAC]], [[Anthem - Elevance Health]], [[Ron Estes]], [[Honeywell International]], [[AT&T]], [[Freedom Club Federal PAC]], [[Majority PAC]], [[Raytheon (RTX Corporation)]], [[John W. Rose]], [[JIM JORDAN FOR CONGRESS]], [[RON ESTES FOR CONGRESS]], [[James R. Baird]], [[NRA Political Victory Fund]], [[HAGEMAN FOR WYOMING]], [[John Ratcliffe]], [[Cargill]], [[Koch Industries]], [[FINSTAD FOR CONGRESS]], [[Randy Feenstra]], [[TEXANS FOR JODEY ARRINGTON]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[Madison Project Inc.]], [[Family Research Council Action Political Action Committee]], [[W. Gregory Steube]], [[Steve Scalise]], [[Tom Emmer]], [[American Principles Fund]], [[Mike Johnson]], [[Dan Newhouse]], [[CLYDE FOR CONGRESS, INC.]], [[Glenn Thompson]], [[JASON SMITH FOR CONGRESS]], [[DAVID ROUZER FOR CONGRESS]], [[Carol D. Miller]], [[Darin Lahood]], [[Campaign for Working Families]], [[Gregory F. Murphy]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - House Committee on Rules
   - House Committee on Ways and Means
   - Oversight
   - Rules and Organization of the House
   - Trade
-total-raised: "$7.3M"
-career-total-source: "FEC weball summary (cycles 2020, 2022, 2024, 2026)"
+total-raised: $7.3M
+career-total-source: FEC weball summary (cycles 2020, 2022, 2024, 2026)
 ---
 
 

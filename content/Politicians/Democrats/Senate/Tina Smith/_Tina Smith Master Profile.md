@@ -3,7 +3,7 @@ title: Tina Smith
 type: politician
 content-readiness: draft
 central-thesis: "Tina Smith is the Planned Parenthood executive turned senator, the clearest donor-origin story in the Minnesota delegation: Planned Parenthood organizations are her top super-PAC backers because she literally ran one. The 96.6% party loyalty reflects a safe-seat senator without swing-state donor override pressure. The STOCK Act trades in health device companies while sitting on the HELP committee are the structural conflict: $2.2-4.9M in device stocks traded across the same device-regulation jurisdiction her committee covers."
-last-updated: 2026-04-19
+last-updated: 2026-04-19T00:00:00.000Z
 editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 source-tier: 1
 party: Democrat
@@ -32,30 +32,30 @@ stock-trade-tickers:
   - ABT
   - IIN
   - ENTL
-donors: "[[ActBlue]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Teamsters - International Brotherhood of Teamsters]], [[AT&T - WarnerMedia]], [[Demand Justice]], [[National Association of Realtors]], [[Citigroup]], [[Planned Parenthood Votes]], [[CVS Health - Aetna]], [[American Federation of State County & Municipal Employees P E O P L E]], [[BAE Systems]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Planned Parenthood of Minnesota Political Action Fund]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[SEIU COPE]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[AT&T]], [[Minnesota Democratic-Farmer-Labor Party]]"
+donors: "[[ActBlue]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Teamsters - International Brotherhood of Teamsters]], [[AT&T - WarnerMedia]], [[Demand Justice]], [[National Association of Realtors]], [[Citigroup]], [[Planned Parenthood Votes]], [[CVS Health - Aetna]], [[American Federation of State County & Municipal Employees P E O P L E]], [[BAE Systems]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Planned Parenthood of Minnesota Political Action Fund]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[SEIU COPE]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[AT&T]], [[Minnesota Democratic-Farmer-Labor Party]], [[ADM - Archer Daniels Midland]], [[AFSCME Working Families Fund]], [[Environment America INC]], [[AFL-CIO]], [[Southern Company]], [[League of Conservation Voters]], [[American Iron and Steel Institute]], [[Giffords PAC]], [[National Education Association]], [[National Cattlemen's Beef Association]], [[J Street]], [[Google - Alphabet]], [[Cargill]], [[Planned Parenthood Action Fund INC]], [[Let America Vote PAC]], [[Angus S. King]], [[Blue Shield of California]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Monsanto - Bayer]], [[Democratic Senatorial Campaign Committee]], [[Meta - Facebook]], [[Akin Gump Strauss Hauer & Feld]], [[Tyson Foods]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: S8MN00578
 bills-sponsored: 70
 bills-cosponsored: 571
 bills-enacted: 0
 top-policy-area: Health
-last-enriched: 2026-04-20
+last-enriched: 2026-04-20T00:00:00.000Z
 committees:
   - Digital Assets
   - Economic Policy
   - Fiscal Responsibility and Economic Growth
-  - "Food and Nutrition, Specialty Crops, Organics, and Research"
+  - Food and Nutrition, Specialty Crops, Organics, and Research
   - Health Care
-  - "Housing, Transportation, and Community Development"
-  - "International Trade, Customs, and Global Competitiveness"
-  - "Livestock, Dairy, Poultry, and Food Safety"
-  - "Rural Development, Energy, and Credit"
-  - "Senate Committee on Agriculture, Nutrition, and Forestry"
-  - "Senate Committee on Banking, Housing, and Urban Affairs"
+  - Housing, Transportation, and Community Development
+  - International Trade, Customs, and Global Competitiveness
+  - Livestock, Dairy, Poultry, and Food Safety
+  - Rural Development, Energy, and Credit
+  - Senate Committee on Agriculture, Nutrition, and Forestry
+  - Senate Committee on Banking, Housing, and Urban Affairs
   - Senate Committee on Finance
   - Senate Committee on Indian Affairs
-total-raised: "$28.7M"
-career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
+total-raised: $28.7M
+career-total-source: FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)
 ---
 
 

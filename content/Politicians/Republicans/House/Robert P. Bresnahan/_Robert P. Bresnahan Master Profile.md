@@ -1,41 +1,42 @@
 ---
-title: "Robert P. Bresnahan"
+title: Robert P. Bresnahan
 type: politician
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Pennsylvania"
-state-abbr: "PA"
+party: Republican
+chamber: House
+state: Pennsylvania
+state-abbr: PA
 district: "8"
-bioguide-id: "B001327"
+bioguide-id: B001327
 govtrack-id: 457018
 born: "1990-04-22"
-wikidata-id: "Q130963821"
-website: "https://bresnahan.house.gov"
-phone: "202-225-5546"
+wikidata-id: Q130963821
+website: https://bresnahan.house.gov
+phone: 202-225-5546
 source-types:
   - Congress
   - GovTrack
 known-gaps:
-  - "No FEC contribution data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Aviation
-  - "Commodity Markets, Digital Assets, and Rural Development"
-  - "Conservation, Research, and Biotechnology"
-  - "Economic Development, Public Buildings, and Emergency Management"
-  - "Economic Growth, Tax, and Capital Access"
+  - Commodity Markets, Digital Assets, and Rural Development
+  - Conservation, Research, and Biotechnology
+  - Economic Development, Public Buildings, and Emergency Management
+  - Economic Growth, Tax, and Capital Access
   - Highways and Transit
   - House Committee on Agriculture
   - House Committee on Small Business
   - House Committee on Transportation and Infrastructure
-  - "Innovation, Entrepreneurship, and Workforce Development"
+  - Innovation, Entrepreneurship, and Workforce Development
 bills-sponsored: 16
 corroboration-count: 2
+top-donors: "[[Kevin McCarthy]], [[BOST, MICHAEL]], [[Williams Companies]], [[CLIFF BENTZ FOR CONGRESS]], [[BRANDON GILL FOR TEXAS]], [[RICK W. ALLEN FOR CONGRESS]], [[MCDOWELL FOR CONGRESS]], [[Neal P. Dunn]], [[PETE SESSIONS FOR CONGRESS]], [[Dale W. Strong]], [[WEBER FOR CONGRESS]], [[Michael R. Turner]], [[NRA Political Victory Fund]], [[Mark B. Messmer]], [[Rick Crawford]], [[FEDORCHAK FOR ND]], [[Mike Johnson]], [[GARY PALMER FOR CONGRESS]], [[Clay Higgins]], [[Google - Alphabet]], [[MIKE HARIDOPOLOS FOR CONGRESS]], [[ANDY HARRIS FOR CONGRESS]], [[Tim Walberg]], [[Koch Industries]], [[Guy Reschenthaler]], [[Jimmy Patronis]], [[DR JOHN JOYCE FOR CONGRESS]], [[JOE WILSON FOR CONGRESS]], [[John J. McGuire]], [[Tom Emmer]], [[NATHANIEL MORAN FOR CONGRESS]], [[MARK ALFORD FOR CONGRESS, INC.]], [[Frank Lucas]], [[Club for Growth INC PAC]], [[Freedom's Defense Fund]], [[Lloyd Smucker]], [[JAKE ELLZEY FOR CONGRESS]], [[MARK GREEN FOR CONGRESS]], [[Carol D. Miller]], [[JIM JORDAN FOR CONGRESS]], [[Mariannette Miller-Meeks]], [[SCOTT FRANKLIN FOR CONGRESS]], [[HOUCHIN FOR CONGRESS]], [[KUSTOFF FOR CONGRESS]], [[AIPAC - American Israel Public Affairs Committee]], [[BURGESS 4 UTAH]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Kevin Kiley]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[TROY DOWNING FOR CONGRESS]], [[BURCHETT FOR CONGRESS]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[Associated General Contractors of America Political Action Committee]], [[CARLOS GIMENEZ FOR CONGRESS]], [[Robert E. Latta]], [[Pat Fallon]], [[RON ESTES FOR CONGRESS]], [[Brett Guthrie]], [[Glenn Thompson]], [[COMER FOR CONGRESS]], [[Gregory F. Murphy]], [[Brandon Gill]], [[David P. Joyce]], [[Jeff Hurd]], [[ROBERT ADERHOLT FOR CONGRESS]], [[MIKE KENNEDY FOR UTAH]], [[BLAKE MOORE FOR CONGRESS]], [[Dan Newhouse]], [[Earl L. Buddy Carter]], [[H. Morgan Griffith]], [[DAVID ROUZER FOR CONGRESS]], [[CELESTE FOR CONGRESS]], [[Daniel Meuser]], [[Ashley Hinson]], [[Hunter Action Fund (haf)]], [[DAVE TAYLOR FOR CONGRESS]], [[Robert F. Onder]], [[HAGEMAN FOR WYOMING]], [[Michael Guest]], [[KEVIN KILEY FOR CONGRESS]], [[FRIENDS OF TIM MOORE]], [[Republican Jewish Coalition]], [[National Cattlemen's Beef Association]], [[LISA MCCLAIN FOR CONGRESS]], [[MIKE COLLINS FOR SENATE]], [[NEHLS FOR CONGRESS]], [[Steve Scalise]], [[MOORE FOR WEST VIRGINIA, INC.]], [[Gus M. Bilirakis]], [[Pfizer Inc.]], [[BEN CLINE FOR CONGRESS, INC.]], [[Elise Stefanik]], [[DR. BRIAN BABIN FOR CONGRESS]], [[BRAD KNOTT FOR CONGRESS]]"
 ---
 
 

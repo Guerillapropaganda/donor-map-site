@@ -11,7 +11,7 @@ last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-ie-support: $10,488,111
 fec-ie-oppose: "null"
-politicians-funded: "[[Pete Buttigieg]], [[Tammy Baldwin]], [[Michael Lawler]], [[Shri Thanedar]], [[Jake Auchincloss]], [[Kamala Harris]], [[Mark Kelly]], [[Tammy Duckworth]], [[Derrick van Orden]], [[Jimmy Panetta]], [[Sherrod Brown]], [[Mike Thompson]], [[Jacky Rosen]], [[Jack Reed]], [[Gary Peters]], [[Andy Kim]], [[Derek Tran]], [[Votevets]], [[_Chris Pappas Master Profile]], [[Chrissy Houlahan]], [[Patrick Ryan]], [[Lauren Boebert]], [[Richard Blumenthal]], [[Ruben Gallego]], [[Donald Trump]], [[ActBlue]], [[Ted Lieu]], [[Maggie Goodlander]], [[Jon Ossoff]], [[Seth Moulton]], [[Jason Crow]], [[John Fetterman]], [[Ron Johnson]], [[Bernie Moreno]], [[Tim Sheehy]], [[Raphael Warnock]], [[Elissa Slotkin]], [[Marjorie Taylor Greene]], [[Catherine Cortez Masto]], [[Chris Pappas]]"
+politicians-funded: "[[Pete Buttigieg]], [[Tammy Baldwin]], [[Michael Lawler]], [[Shri Thanedar]], [[Jake Auchincloss]], [[Kamala Harris]], [[Mark Kelly]], [[Tammy Duckworth]], [[Derrick van Orden]], [[Jimmy Panetta]], [[Sherrod Brown]], [[Mike Thompson]], [[Jacky Rosen]], [[Jack Reed]], [[Gary Peters]], [[Andy Kim]], [[Derek Tran]], [[Votevets]], [[_Chris Pappas Master Profile]], [[Chrissy Houlahan]], [[Patrick Ryan]], [[Lauren Boebert]], [[Richard Blumenthal]], [[Ruben Gallego]], [[Donald Trump]], [[ActBlue]], [[Ted Lieu]], [[Maggie Goodlander]], [[Jon Ossoff]], [[Seth Moulton]], [[Jason Crow]], [[John Fetterman]], [[Ron Johnson]], [[Bernie Moreno]], [[Tim Sheehy]], [[Raphael Warnock]], [[Elissa Slotkin]], [[Marjorie Taylor Greene]], [[Catherine Cortez Masto]], [[Chris Pappas]], [[STRAUS BAKER LLC]], [[Automatic Data Processing Inc.]], [[VoteVets.org Political Action Committee]], [[Evans & Katz]], [[Aggregate below threshold]], [[Paul Evans 2006]], [[Automatic Date Processing Inc]], [[ADP]], [[AGGREGATE BELOW THRESHOLD]]"
 related: "[[Tammy Baldwin]] · [[Pete Buttigieg]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -29,8 +29,8 @@ employee-donor-count: 16
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

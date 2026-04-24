@@ -10,7 +10,7 @@ last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-ie-support: null
 fec-ie-oppose: $795,808
-politicians-funded: "[[Ken Calvert]], [[Kristen McDonald Rivet]], [[Scott Perry]], [[Kamala Harris]], [[Lisa Murkowski]], [[John James]], [[Tim Sheehy]], [[Jacky Rosen]], [[Bernie Moreno]], [[David Schweikert]], [[Dave Min]], [[Mark Kelly]], [[Ruben Gallego]]"
+politicians-funded: "[[Ken Calvert]], [[Kristen McDonald Rivet]], [[Scott Perry]], [[Kamala Harris]], [[Lisa Murkowski]], [[John James]], [[Tim Sheehy]], [[Jacky Rosen]], [[Bernie Moreno]], [[David Schweikert]], [[Dave Min]], [[Mark Kelly]], [[Ruben Gallego]], [[MBA CONSULTING GROUP]], [[CYGNAL]], [[LCV VICTORY FUND]], [[SKDKNICKERBOCKER]], [[GBAO STRATEGIES]], [[NEW BLUE INTERACTIVE]], [[ANZALONE LISZT GROVE RESEARCH, INC.]], [[PROJECT APPLECART]], [[Future Forward USA Action]], [[OPEN LABS, LLC]], [[American Homes 4 Rent]], [[House Majority PAC]], [[MOTHERSHIP STRATEGIES]], [[HIGHGROUND, INC.]], [[CIVIS ANALYTICS, INC.]], [[MARSTON, JIM]], [[Co Impact Philanthropic Funds]], [[CLARKE & SAMPSON, INC.]], [[GLOBAL STRATEGY GROUP]], [[John Kelly]], [[Environmental Law & Policy Center]], [[Majority Forward]], [[Brian K. Fitzpatrick]], [[Joe Biden]], [[Gary Peters]], [[John R. Curtis]], [[Brian Mast]]"
 related: "[[Ken Calvert]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -23,8 +23,8 @@ individual-contributions: 3245148
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

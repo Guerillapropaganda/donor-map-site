@@ -1,37 +1,37 @@
 ---
-title: "James E. Clyburn"
+title: James E. Clyburn
 type: politician
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "South Carolina"
-state-abbr: "SC"
+party: Democrat
+chamber: House
+state: South Carolina
+state-abbr: SC
 district: "6"
-bioguide-id: "C000537"
+bioguide-id: C000537
 govtrack-id: 400075
 born: "1940-07-21"
-wikidata-id: "Q1289889"
-website: "https://clyburn.house.gov"
-phone: "202-225-3315"
+wikidata-id: Q1289889
+website: https://clyburn.house.gov
+phone: 202-225-3315
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-donors: "[[Brady Campaign]]"
+  - No FEC contribution data
+  - No voting record data
+donors: "[[Brady Campaign]], [[James E. Clyburn]], [[CVS Health - Aetna]], [[Sierra Club Political Committee]], [[Nucor Corporation]], [[National Restaurant Association]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Akin Gump Strauss Hauer & Feld]], [[National Education Association]], [[J Street]], [[Gilead Sciences]], [[AT&T]], [[Williams Companies]], [[McDonalds Corporation]], [[Meta - Facebook]], [[Bechtel Corporation]], [[National Cattlemen's Beef Association]], [[Southern Company]], [[Cargill]], [[Tyson Foods]], [[American Iron and Steel Institute]], [[American Gaming Association]], [[Humana]], [[National Association of Manufacturers]], [[Amgen Inc]], [[Google - Alphabet]], [[Pfizer Inc.]], [[AFL-CIO]], [[AbbVie]], [[Planned Parenthood Action Fund INC]], [[Giffords PAC]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Let America Vote PAC]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[Richard Neal]], [[League of Conservation Voters]], [[AIPAC - American Israel Public Affairs Committee]], [[Monsanto - Bayer]], [[Leidos]], [[American College of Radiology Association PAC]], [[Indivisible Action]], [[ADM - Archer Daniels Midland]], [[DoorDash]], [[NRA Political Victory Fund]], [[AL GREEN FOR CONGRESS]], [[Sepracor Inc. Good Governance Fund]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 8
 bills-cosponsored: 112
 bills-enacted: 0
-top-policy-area: "Crime and Law Enforcement"
-last-enriched: 2026-04-21
+top-policy-area: Crime and Law Enforcement
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Energy and Water Development and Related Agencies
   - House Committee on Appropriations
-  - "Interior, Environment, and Related Agencies"
-  - "Transportation, Housing and Urban Development, and Related Agencies"
+  - Interior, Environment, and Related Agencies
+  - Transportation, Housing and Urban Development, and Related Agencies
 ---
 
 

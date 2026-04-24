@@ -10,7 +10,7 @@ last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-ie-support: $57,125
 fec-ie-oppose: null
-politicians-funded: "[[Amy Klobuchar]], [[Joni Ernst]], [[Tammy Duckworth]]"
+politicians-funded: "[[Amy Klobuchar]], [[Joni Ernst]], [[Tammy Duckworth]], [[WIRED4DATA]], [[LAV SERVICES LLC]], [[DEADWOOD INTERACTIVE SOLUTIONS]], [[RALLYPAY]], [[STANDARD DATA SERVICES LLC]], [[CLOUD FOR CONGRESS]]"
 related: "[[Amy Klobuchar]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -23,8 +23,8 @@ individual-contributions: 1668
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

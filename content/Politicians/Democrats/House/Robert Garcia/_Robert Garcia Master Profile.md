@@ -18,24 +18,24 @@ phone: 202-225-7924
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2CA47188
 bills-sponsored: 24
 bills-cosponsored: 398
 bills-enacted: 1
 top-policy-area: Health
-top-donors: "[[DMFI - Democratic Majority for Israel]], [[Pfizer Inc.]], [[League of Conservation Voters]], [[Microsoft]], [[American Federation of State County & Municipal Employees P E O P L E]], [[EQUALITY PROJECT PAC]], [[UA Political Action Committee]], [[General Motors]], [[Let America Vote PAC]], [[Pete Aguilar]], [[Adriano Espaillat]], [[AIPAC - American Israel Public Affairs Committee]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[National Association of Realtors]], [[Planned Parenthood Action Fund INC]], [[J Street]], [[American Hospital Association PAC]], [[SEIU COPE]], [[Giffords PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[NEA Fund for Children and Public Education]], [[National Nurses United]], [[CHC BOLD PAC]], [[Sierra Club Independent Action]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[IBEW - International Brotherhood of Electrical Workers]], [[Courage California Super Pac]], [[Medicare for All - The Policy That Broke the Party]], [[Teamsters - International Brotherhood of Teamsters]], [[Unite Here Tip Campaign Committee]], [[Gilead Sciences]], [[CVS Health - Aetna]], [[Judy Chu]], [[Protect Our Future PAC]], [[Comcast - NBCUniversal]], [[Ted Lieu]], [[Anthem - Elevance Health]], [[Progressive Turnout Project]], [[AT&T - WarnerMedia]], [[Congressional Progressive Caucus PAC]], [[Everytown for Gun Safety]], [[Sierra Club Political Committee]], [[Google - Alphabet]], [[Joe Neguse]], [[Demand Justice]], [[Verizon]], [[UPS]], [[Amazon]], [[Northrop Grumman]], [[AT&T]], [[Raytheon (RTX Corporation)]], [[Kaiser Permanente]], [[UnitedHealth Group - Optum]], [[WSPA - Western States Petroleum Association]], [[Coinbase]], [[Walmart]], [[Cigna Group]], [[Wells Fargo]], [[AFGE - American Federation of Government Employees]], [[TikTok - ByteDance]], [[Ballard Partners]], [[Boeing]], [[Occidental Petroleum]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Equality Project PAC]]"
-last-enriched: 2026-04-21
+top-donors: "[[DMFI - Democratic Majority for Israel]], [[Pfizer Inc.]], [[League of Conservation Voters]], [[Microsoft]], [[American Federation of State County & Municipal Employees P E O P L E]], [[EQUALITY PROJECT PAC]], [[UA Political Action Committee]], [[General Motors]], [[Let America Vote PAC]], [[Pete Aguilar]], [[Adriano Espaillat]], [[AIPAC - American Israel Public Affairs Committee]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[National Association of Realtors]], [[Planned Parenthood Action Fund INC]], [[J Street]], [[American Hospital Association PAC]], [[SEIU COPE]], [[Giffords PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[NEA Fund for Children and Public Education]], [[National Nurses United]], [[CHC BOLD PAC]], [[Sierra Club Independent Action]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[IBEW - International Brotherhood of Electrical Workers]], [[Courage California Super Pac]], [[Medicare for All - The Policy That Broke the Party]], [[Teamsters - International Brotherhood of Teamsters]], [[Unite Here Tip Campaign Committee]], [[Gilead Sciences]], [[CVS Health - Aetna]], [[Judy Chu]], [[Protect Our Future PAC]], [[Comcast - NBCUniversal]], [[Ted Lieu]], [[Anthem - Elevance Health]], [[Progressive Turnout Project]], [[AT&T - WarnerMedia]], [[Congressional Progressive Caucus PAC]], [[Everytown for Gun Safety]], [[Sierra Club Political Committee]], [[Google - Alphabet]], [[Joe Neguse]], [[Demand Justice]], [[Verizon]], [[UPS]], [[Amazon]], [[Northrop Grumman]], [[AT&T]], [[Raytheon (RTX Corporation)]], [[Kaiser Permanente]], [[UnitedHealth Group - Optum]], [[WSPA - Western States Petroleum Association]], [[Coinbase]], [[Walmart]], [[Cigna Group]], [[Wells Fargo]], [[AFGE - American Federation of Government Employees]], [[TikTok - ByteDance]], [[Ballard Partners]], [[Boeing]], [[Occidental Petroleum]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Equality Project PAC]], [[Goldman Sachs]], [[AFL-CIO]], [[National Committee to Preserve Social Security & Medicare PAC]], [[National Education Association]], [[LOFGREN FOR CONGRESS]], [[TED LIEU FOR CONGRESS]], [[ADRIANO ESPAILLAT FOR CONGRESS]], [[JOE NEGUSE FOR CONGRESS]], [[JUDY CHU FOR CONGRESS]], [[MEDICARE FOR ALL]], [[PETE AGUILAR FOR CONGRESS]], [[BARRAGAN FOR CONGRESS]], [[Blue Shield of California]], [[Meta - Facebook]], [[Steny H. Hoyer]], [[Hakeem Jeffries]], [[Latinos for Reform]], [[UCA POLITICAL ACTION COMMITTEE]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Aviation
   - Highways and Transit
   - House Committee on Oversight and Government Reform
   - House Committee on Transportation and Infrastructure
-total-raised: "$5.0M"
-career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
+total-raised: $5.0M
+career-total-source: FEC weball summary (cycles 2022, 2024, 2026)
 ---
 
 

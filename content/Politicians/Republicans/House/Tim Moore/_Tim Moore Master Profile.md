@@ -20,21 +20,21 @@ source-types:
   - FEC
   - GovTrack
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-donors: "[[Brady Campaign]], [[Citigroup]], [[Defend American Jobs]], [[Troy Downing]], [[AIPAC - American Israel Public Affairs Committee]], [[Care Action]], [[National Multifamily Housing Council]], [[General Motors]], [[Duke Energy]], [[Bank of America]], [[Southern States Police Benevolent Assoc PAC Fund]], [[Jim Jordan]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[American Hospital Association PAC]], [[David Rouzer]], [[National Restaurant Association]], [[National Rifle Association]], [[Honeywell]], [[Nucor Corporation]], [[National Association of Realtors]], [[MAJORITY PAC]], [[Associated General Contractors of America Political Action Committee]], [[Club for Growth INC PAC]], [[Morgan Stanley]], [[Honeywell International]], [[Majority PAC]]"
+  - No FEC contribution data
+  - No voting record data
+donors: "[[Brady Campaign]], [[Citigroup]], [[Defend American Jobs]], [[Troy Downing]], [[AIPAC - American Israel Public Affairs Committee]], [[Care Action]], [[National Multifamily Housing Council]], [[General Motors]], [[Duke Energy]], [[Bank of America]], [[Southern States Police Benevolent Assoc PAC Fund]], [[Jim Jordan]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[American Hospital Association PAC]], [[David Rouzer]], [[National Restaurant Association]], [[National Rifle Association]], [[Honeywell]], [[Nucor Corporation]], [[National Association of Realtors]], [[MAJORITY PAC]], [[Associated General Contractors of America Political Action Committee]], [[Club for Growth INC PAC]], [[Morgan Stanley]], [[Honeywell International]], [[Majority PAC]], [[Koch Industries]], [[MOORE FOR WEST VIRGINIA, INC.]], [[JIM JORDAN FOR CONGRESS]], [[American Principles Fund]], [[Tom Emmer]], [[Steve Scalise]], [[NRA Political Victory Fund]], [[TROY DOWNING FOR CONGRESS]], [[Brett Guthrie]], [[TEXANS FOR JODEY ARRINGTON]], [[DR. BRIAN BABIN FOR CONGRESS]], [[David P. Joyce]], [[Guy Reschenthaler]], [[Carol D. Miller]], [[DAVID ROUZER FOR CONGRESS]], [[Mike Johnson]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4NC14015
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 corroboration-count: 3
 committees:
-  - "Digital Assets, Financial Technology, and Artificial Intelligence"
+  - Digital Assets, Financial Technology, and Artificial Intelligence
   - Financial Institutions
   - House Committee on Financial Services
   - House Committee on the Budget
   - Oversight and Investigations
-total-raised: "$3.8M"
-career-total-source: "FEC weball summary (cycles 2024, 2026)"
+total-raised: $3.8M
+career-total-source: FEC weball summary (cycles 2024, 2026)
 bills-sponsored: 22
 ---
 

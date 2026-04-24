@@ -1,35 +1,36 @@
 ---
-title: "Craig A. Goldman"
+title: Craig A. Goldman
 type: politician
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Texas"
-state-abbr: "TX"
+party: Republican
+chamber: House
+state: Texas
+state-abbr: TX
 district: "12"
-bioguide-id: "G000601"
+bioguide-id: G000601
 govtrack-id: 457021
 born: "1968-10-03"
-wikidata-id: "Q16199453"
-website: "https://craiggoldman.house.gov"
-phone: "202-225-5071"
+wikidata-id: Q16199453
+website: https://craiggoldman.house.gov
+phone: 202-225-5071
 source-types:
   - Congress
   - GovTrack
 known-gaps:
-  - "No FEC contribution data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Commerce, Manufacturing, and Trade"
+  - Commerce, Manufacturing, and Trade
   - Communications and Technology
   - Energy
   - House Committee on Energy and Commerce
 bills-sponsored: 7
 corroboration-count: 2
+top-donors: "[[National Restaurant Association]], [[Robert E. Latta]], [[Associated General Contractors of America Political Action Committee]], [[AIPAC - American Israel Public Affairs Committee]], [[Brett Guthrie]], [[Tom Emmer]], [[NRA Political Victory Fund]], [[Carol D. Miller]], [[MOORE FOR WEST VIRGINIA, INC.]], [[Steve Scalise]], [[David P. Joyce]], [[Brandon Gill]], [[DAVID ROUZER FOR CONGRESS]], [[Meta - Facebook]], [[JIM JORDAN FOR CONGRESS]], [[National Cattlemen's Beef Association]], [[Defend American Jobs]], [[WEBER FOR CONGRESS]], [[TROY DOWNING FOR CONGRESS]], [[PETE SESSIONS FOR CONGRESS]], [[BRANDON GILL FOR TEXAS]], [[MIKE HARIDOPOLOS FOR CONGRESS]], [[Koch Industries]], [[Guy Reschenthaler]], [[Republican Jewish Coalition]], [[Occidental Petroleum]], [[Google - Alphabet]], [[Southern Company]]"
 ---
 
 

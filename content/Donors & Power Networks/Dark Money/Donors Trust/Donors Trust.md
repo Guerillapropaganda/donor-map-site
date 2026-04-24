@@ -8,8 +8,8 @@ source-tier: 3
 sector: Dark Money
 entity-type: corporation
 known-gaps:
-  - "No SEC corporate filings"
-  - "No lobbying disclosure data"
+  - No SEC corporate filings
+  - No lobbying disclosure data
 source-types:
   - FEC
 related: "[[Stand Together]] · [[Judicial Crisis Network]]"
@@ -17,10 +17,10 @@ urls-first-triaged: "2026-04-15"
 employee-contributions: 40
 employee-contributions-total: 6256
 employee-donor-count: 8
-politicians-funded: "[[NRSC - National Republican Senatorial Committee]], [[WinRed]], [[_Ted Cruz Master Profile]], [[RNC - Republican National Committee]], [[Ted Cruz]], [[Bradley Impact Fund]], [[Cato Institute]], [[The 85 Fund]], [[American Enterprise Institute]], [[Alliance Defending Freedom]], [[Heritage Foundation]], [[Fidelity Investments]], [[Conservative Partnership Institute]], [[Mercatus Center]], [[TPUSA - Turning Point USA]], [[Heartland Institute]], [[America First Policy Institute]], [[State Policy Network]], [[National Philanthropic Trust]], [[American Endowment Foundation]], [[Stand Together Foundation]], [[Council for National Policy]], [[Hudson Institute]], [[Schwab Charitable Fund]]"
-last-enriched: 2026-04-21
-total-political-spend: "$141.1M"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2020, 2022, 2023, 2024"
+politicians-funded: "[[NRSC - National Republican Senatorial Committee]], [[WinRed]], [[_Ted Cruz Master Profile]], [[RNC - Republican National Committee]], [[Ted Cruz]], [[Bradley Impact Fund]], [[Cato Institute]], [[The 85 Fund]], [[American Enterprise Institute]], [[Alliance Defending Freedom]], [[Heritage Foundation]], [[Fidelity Investments]], [[Conservative Partnership Institute]], [[Mercatus Center]], [[TPUSA - Turning Point USA]], [[Heartland Institute]], [[America First Policy Institute]], [[State Policy Network]], [[National Philanthropic Trust]], [[American Endowment Foundation]], [[Stand Together Foundation]], [[Council for National Policy]], [[Hudson Institute]], [[Schwab Charitable Fund]], [[Hoover Institution]], [[Claremont Institute]], [[Manhattan Institute]]"
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $141.1M
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2020, 2022, 2023, 2024
 ---
 
 

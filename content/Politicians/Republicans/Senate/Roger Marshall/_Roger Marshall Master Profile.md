@@ -3,7 +3,7 @@ title: Roger Marshall
 type: politician
 content-readiness: data-complete
 central-thesis: Marshall's donor-class function is to serve as the agribusiness and healthcare industry's physician-legislator — using his medical credentials to lend authority to industry-friendly positions on health policy while using his committee seats to pro...
-last-updated: 2026-04-19
+last-updated: 2026-04-19T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Republican
@@ -29,19 +29,19 @@ source-types:
   - GovTrack
 corroboration-count: 2
 known-gaps:
-  - "No FEC contribution data"
+  - No FEC contribution data
 related: "[[_John Barrasso Master Profile|Barrasso]] · [[_Ron Johnson Master Profile|Ron Johnson]]"
 last-enriched: "2026-04-11"
 bioguide-id: M001198
-donors: "[[Western Growers Association]] · [[ESAFUND]] · [[KANSAS AG COMMUNITIES COALITION]] · [[Kansas Farmers Fund]] · [[House Liberty Project]] · [[Kansas Ag Communities Coalition]] · [[Really American Pac]] · [[Amgen Inc]] · [[American College of Radiology Association PAC]] · [[McDonalds Corporation]] · [[NRSC - National Republican Senatorial Committee]] · [[Associated General Contractors of America Political Action Committee]] · [[Gilead Sciences]] · [[Common Sense for America PAC]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[NORPAC]] · [[Teamsters - International Brotherhood of Teamsters]] · [[National Restaurant Association]] · [[National Cattlemen's Beef Association]] · [[Marathon Petroleum]] · [[General Motors]] · [[CoreCivic - Private Prisons]] · [[Tyson Foods]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[American Hospital Association PAC]] · [[American Chemistry Council, INC]] · [[Walmart - Walton Family]] · [[AT&T - WarnerMedia]] · [[WinRed]] · [[Pfizer Inc.]] · [[National Rifle Association]] · [[Care Action]] · [[Johnson & Johnson]] · [[Raytheon (RTX)]] · [[Microsoft]] · [[Northrop Grumman]] · [[ADM - Archer Daniels Midland]] · [[Duke Energy]] · [[AbbVie]] · [[Tzedek PAC]] · [[Chevron]] · [[AIPAC - American Israel Public Affairs Committee]] · [[National Association of Realtors]] · [[NextEra Energy]] · [[Senate Conservatives Fund]] · [[Comcast - NBCUniversal]] · [[Lockheed Martin]] · [[AT&T]]"
+donors: "[[Western Growers Association]] · [[ESAFUND]] · [[KANSAS AG COMMUNITIES COALITION]] · [[Kansas Farmers Fund]] · [[House Liberty Project]] · [[Kansas Ag Communities Coalition]] · [[Really American Pac]] · [[Amgen Inc]] · [[American College of Radiology Association PAC]] · [[McDonalds Corporation]] · [[NRSC - National Republican Senatorial Committee]] · [[Associated General Contractors of America Political Action Committee]] · [[Gilead Sciences]] · [[Common Sense for America PAC]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[NORPAC]] · [[Teamsters - International Brotherhood of Teamsters]] · [[National Restaurant Association]] · [[National Cattlemen's Beef Association]] · [[Marathon Petroleum]] · [[General Motors]] · [[CoreCivic - Private Prisons]] · [[Tyson Foods]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[American Hospital Association PAC]] · [[American Chemistry Council, INC]] · [[Walmart - Walton Family]] · [[AT&T - WarnerMedia]] · [[WinRed]] · [[Pfizer Inc.]] · [[National Rifle Association]] · [[Care Action]] · [[Johnson & Johnson]] · [[Raytheon (RTX)]] · [[Microsoft]] · [[Northrop Grumman]] · [[ADM - Archer Daniels Midland]] · [[Duke Energy]] · [[AbbVie]] · [[Tzedek PAC]] · [[Chevron]] · [[AIPAC - American Israel Public Affairs Committee]] · [[National Association of Realtors]] · [[NextEra Energy]] · [[Senate Conservatives Fund]] · [[Comcast - NBCUniversal]] · [[Lockheed Martin]] · [[AT&T]] · [[National Republican Senatorial Committee]] · [[Raytheon (RTX Corporation)]] · [[Roger Marshall]] · [[Paul Ryan]] · [[Cargill]] · [[Family Research Council Action Political Action Committee]] · [[CLAUDIA TENNEY FOR CONGRESS]] · [[GEO Group - Private Prison Industrial Complex]] · [[ADRIAN SMITH FOR CONGRESS]] · [[Google - Alphabet]] · [[Campaign for Working Families]] · [[NRA Political Victory Fund]] · [[National Association of Manufacturers]] · [[Kevin McCarthy]] · [[SLF PAC]] · [[Glenn Thompson]] · [[DAVID ROUZER FOR CONGRESS]] · [[CoreCivic]] · [[Defending Main Street Superpac INC]] · [[Kansans for Life Political Action Committee]] · [[TEXANS FOR JODEY ARRINGTON]] · [[Republican Jewish Coalition]] · [[National Right to Life PAC]] · [[Koch Industries]] · [[Gun Owners of America]] · [[Neal P. Dunn]] · [[Steve Scalise]] · [[Cooperative of American Physicians Independent Expenditure Committee]] · [[Southern Company]] · [[DR. BRIAN BABIN FOR CONGRESS]] · [[National Education Association]] · [[National Right to Life Victory Fund]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 504
 bills-cosponsored: 1776
 bills-enacted: 0
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: Health
-total-raised: "$12.3M"
-career-total-source: "FEC weball summary (cycles 2020, 2022, 2024, 2026)"
+total-raised: $12.3M
+career-total-source: FEC weball summary (cycles 2020, 2022, 2024, 2026)
 ---
 
 

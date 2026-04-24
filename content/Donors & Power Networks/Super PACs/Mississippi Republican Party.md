@@ -11,8 +11,8 @@ fec-committee-id: C00084368
 aliases:
   - MISSISSIPPI REPUBLICAN PARTY
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Roger Wicker]], [[MISSISSIPPI REPUBLICAN PARTY]], [[Mississippi Republican Party]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Roger Wicker]], [[MISSISSIPPI REPUBLICAN PARTY]], [[Mississippi Republican Party]], [[HILTON HOTEL]], [[HOMEWOOD SUITES]], [[A2Z PRINTING]], [[Direct Selling Empowers Americans]], [[SOUTHWEST PUBLISHING]], [[INTERNAL REVENUE SERVICE]], [[MISS. REPUBLICAN PARTY-FEDERAL]], [[OPN SESAME]], [[HINDS COUNTY TAX COLLECTOR]], [[THE HONORABLE AMY TUCK]], [[First Amendment Alliance]], [[Majority Forward]], [[CAMPAIGNSECRETS.COM]], [[ADAM EVANS WATERPROOFING]], [[MISS. REP. PARTY  - STATE]], [[United Democracy Project - UDP]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[WESTIN - JACKSON]], [[AMPLIFY]], [[SPENCE FLATGARD LEGAL COUNSEL, PLLC]], [[1 VISION]], [[FRONTIER STRATEGIES, LLC]], [[VISA]], [[ADVANTAGE DIRECT]], [[POLITICAP]], [[SHERATON FLOWOOD]], [[SIMS, KIRK]], [[PHELPS DUNBAR, LLP]], [[WISE CARTER CHILD & CARAWAY P.A.]], [[TRIUMPH CAMPAIGNS LLC]], [[MOORE FOR WEST VIRGINIA, INC.]], [[CROWNE PLAZA DOWNTOWN JACKSON]], [[FRESH CUT CATERING & FLORAL]], [[TARGETED CREATIVE COMMUNICATIONS INC.]], [[CANVASS AMERICA]], [[BILBO, RANCE]], [[WILEY REIN LLP]], [[Southern Company]], [[STEVE DAINES FOR MONTANA]], [[UNIVERSITY CLUB]], [[Washington Citizens for Colin Powell]], [[U. S. POSTMASTER]], [[STRATEGIC TELECOMMUNICATIONS]], [[George W. Bush]], [[John Thune]], [[Cindy Hyde-Smith]]"
 related: "[[Roger Wicker]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -27,7 +27,7 @@ employee-contributions-total: 470
 employee-donor-count: 1
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

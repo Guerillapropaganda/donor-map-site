@@ -1,37 +1,38 @@
 ---
-title: "Michael T. McCaul"
+title: Michael T. McCaul
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Texas"
-state-abbr: "TX"
+party: Republican
+chamber: House
+state: Texas
+state-abbr: TX
 district: "10"
-bioguide-id: "M001157"
+bioguide-id: M001157
 govtrack-id: 400654
 born: "1962-01-14"
-wikidata-id: "Q539509"
-website: "https://mccaul.house.gov"
-phone: "202-225-2401"
+wikidata-id: Q539509
+website: https://mccaul.house.gov
+phone: 202-225-2401
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 33
 bills-cosponsored: 232
 bills-enacted: 1
-top-policy-area: "International Affairs"
-last-enriched: 2026-04-21
+top-policy-area: International Affairs
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - East Asia and Pacific
   - Europe
   - House Committee on Foreign Affairs
   - House Committee on Homeland Security
+top-donors: "[[American Principles Fund]], [[Google - Alphabet]], [[Carol D. Miller]], [[John Boehner]], [[CoreCivic]], [[National Restaurant Association]], [[NRA Political Victory Fund]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Steve Scalise]], [[Amgen Inc]], [[Southern Company]], [[Occidental Petroleum]], [[BEN CLINE FOR CONGRESS, INC.]], [[Elise Stefanik]], [[MBNA Corporation]], [[Cargill]], [[Care Action]], [[National Cattlemen's Beef Association]], [[Akin Gump Strauss Hauer & Feld]], [[AIPAC - American Israel Public Affairs Committee]], [[Meta - Facebook]], [[Republican Jewish Coalition]], [[Koch Industries]], [[Humane Society Legislative Fund]], [[Leidos]], [[Airbnb]], [[GEO Group - Private Prison Industrial Complex]], [[DR. BRIAN BABIN FOR CONGRESS]], [[Pete Sessions]], [[John R. Carter]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[KAY GRANGER CAMPAIGN FUND]], [[Williams Companies]], [[JOHN CURTIS FOR UTAH]], [[Associated General Contractors of America Political Action Committee]], [[TEXANS FOR JODEY ARRINGTON]], [[Rick Crawford]], [[AbbVie]], [[RON ESTES FOR CONGRESS]], [[JAKE ELLZEY FOR CONGRESS]], [[CLOUD FOR CONGRESS]], [[CLAUDIA TENNEY FOR CONGRESS]], [[John Cornyn]], [[ADM - Archer Daniels Midland]], [[GARY PALMER FOR CONGRESS]], [[John W. Rose]], [[Brett Guthrie]], [[National Association of Manufacturers]], [[Scott Desjarlais]], [[Gregory F. Murphy]], [[Glenn Thompson]], [[American College of Radiology Association PAC]]"
 ---
 
 

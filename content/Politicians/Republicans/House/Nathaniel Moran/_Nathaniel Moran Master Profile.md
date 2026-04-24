@@ -18,16 +18,16 @@ phone: 202-225-3035
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-donors: "[[Western Growers Association]] · [[National Cattlemen's Beef Association]] · [[California Farm Bureau Federation]] · [[NextEra Energy]] · [[National Rifle Association]] · [[Google - Alphabet]] · [[AT&T - WarnerMedia]] · [[Amgen Inc]] · [[Honeywell]] · [[American College of Radiology Association PAC]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[Lockheed Martin]] · [[Pfizer Inc.]] · [[Johnson & Johnson]] · [[Raytheon (RTX)]] · [[American Hospital Association PAC]] · [[Morgan Stanley]] · [[Anthem - Elevance Health]] · [[Comcast - NBCUniversal]] · [[Humana]] · [[Walmart - Walton Family]] · [[Citigroup]] · [[AbbVie]] · [[National Association of Realtors]] · [[Associated General Contractors of America Political Action Committee]] · [[Bank of America]] · [[AIPAC - American Israel Public Affairs Committee]] · [[MAJORITY PAC]] · [[Valero Energy]] · [[National Multifamily Housing Council]] · [[Gilead Sciences]] · [[Tyson Foods]] · [[Jim Jordan]] · [[Adrian Smith]] · [[Marathon Petroleum]] · [[General Motors]] · [[National Restaurant Association]] · [[Duke Energy]] · [[CVS Health - Aetna]] · [[Anduril Industries]] · [[Verizon]] · [[Oracle]] · [[HBW Resources]] · [[Blackstone Group]] · [[Honeywell International]] · [[AT&T]] · [[Majority PAC]]"
+  - No FEC contribution data
+  - No voting record data
+donors: "[[Western Growers Association]] · [[National Cattlemen's Beef Association]] · [[California Farm Bureau Federation]] · [[NextEra Energy]] · [[National Rifle Association]] · [[Google - Alphabet]] · [[AT&T - WarnerMedia]] · [[Amgen Inc]] · [[Honeywell]] · [[American College of Radiology Association PAC]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[Lockheed Martin]] · [[Pfizer Inc.]] · [[Johnson & Johnson]] · [[Raytheon (RTX)]] · [[American Hospital Association PAC]] · [[Morgan Stanley]] · [[Anthem - Elevance Health]] · [[Comcast - NBCUniversal]] · [[Humana]] · [[Walmart - Walton Family]] · [[Citigroup]] · [[AbbVie]] · [[National Association of Realtors]] · [[Associated General Contractors of America Political Action Committee]] · [[Bank of America]] · [[AIPAC - American Israel Public Affairs Committee]] · [[MAJORITY PAC]] · [[Valero Energy]] · [[National Multifamily Housing Council]] · [[Gilead Sciences]] · [[Tyson Foods]] · [[Jim Jordan]] · [[Adrian Smith]] · [[Marathon Petroleum]] · [[General Motors]] · [[National Restaurant Association]] · [[Duke Energy]] · [[CVS Health - Aetna]] · [[Anduril Industries]] · [[Verizon]] · [[Oracle]] · [[HBW Resources]] · [[Blackstone Group]] · [[Honeywell International]] · [[AT&T]] · [[Majority PAC]] · [[Raytheon (RTX Corporation)]] · [[JIM JORDAN FOR CONGRESS]] · [[NRA Political Victory Fund]] · [[Steve Scalise]] · [[ADRIAN SMITH FOR CONGRESS]] · [[Richard Hudson]] · [[TEXANS FOR JODEY ARRINGTON]] · [[David P. Joyce]] · [[ROBERT ADERHOLT FOR CONGRESS]] · [[Carol D. Miller]] · [[Akin Gump Strauss Hauer & Feld]] · [[Guy Reschenthaler]] · [[HAGEMAN FOR WYOMING]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2TX01112
 bills-sponsored: 21
 bills-cosponsored: 224
 bills-enacted: 0
 top-policy-area: International Affairs
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - House Committee on Ethics
   - House Committee on Ways and Means
@@ -35,8 +35,8 @@ committees:
   - Oversight
   - Social Security
   - Work and Welfare
-total-raised: "$3.5M"
-career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
+total-raised: $3.5M
+career-total-source: FEC weball summary (cycles 2022, 2024, 2026)
 ---
 
 

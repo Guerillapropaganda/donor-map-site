@@ -1,39 +1,40 @@
 ---
-title: "Elijah Crane"
+title: Elijah Crane
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Arizona"
-state-abbr: "AZ"
+party: Republican
+chamber: House
+state: Arizona
+state-abbr: AZ
 district: "2"
-bioguide-id: "C001132"
+bioguide-id: C001132
 govtrack-id: 456879
 born: "1980-01-03"
-wikidata-id: "Q115155633"
-website: "https://crane.house.gov"
-phone: "202-225-3361"
+wikidata-id: Q115155633
+website: https://crane.house.gov
+phone: 202-225-3361
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 18
 bills-cosponsored: 783
 bills-enacted: 0
-top-policy-area: "Government Operations and Politics"
-last-enriched: 2026-04-21
+top-policy-area: Government Operations and Politics
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Border Security and Enforcement
-  - "Cybersecurity, Information Technology, and Government Innovation"
+  - Cybersecurity, Information Technology, and Government Innovation
   - House Committee on Homeland Security
   - House Committee on Oversight and Government Reform
   - Military and Foreign Affairs
   - Transportation and Maritime Security
+top-donors: "[[Campaign for Working Families]], [[Tim Walberg]], [[Mike Johnson]], [[ROBERT ADERHOLT FOR CONGRESS]], [[Morgan Luttrell]], [[Women Speak Out Pac]], [[RON ESTES FOR CONGRESS]], [[JIM JORDAN FOR CONGRESS]], [[BURCHETT FOR CONGRESS]], [[Club for Growth INC PAC]], [[CLAUDIA TENNEY FOR CONGRESS]], [[JASON SMITH FOR CONGRESS]], [[HAGEMAN FOR WYOMING]], [[Protect Freedom Political Action Committee]], [[National Right to Life Victory Fund]], [[Ben Carson]], [[Guy Reschenthaler]], [[Club for Growth]], [[Madison Project Inc.]], [[National Cattlemen's Beef Association]], [[JAKE ELLZEY FOR CONGRESS]], [[Koch Industries]], [[National Victory Action Fund]], [[ADRIAN SMITH FOR CONGRESS]], [[DR. BRIAN BABIN FOR CONGRESS]], [[JOSH BRECHEEN FOR CONGRESS]], [[NRA Political Victory Fund]], [[VERN BUCHANAN FOR CONGRESS]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[Special Operations for America]], [[ANDY HARRIS FOR CONGRESS]], [[RALPH NORMAN FOR CONGRESS]], [[Tom Emmer]], [[Elise Stefanik]], [[Steve Scalise]], [[BYRON DONALDS FOR CONGRESS]], [[Chip Roy]], [[GLENN GROTHMAN FOR CONGRESS]], [[MIKE COLLINS FOR SENATE]], [[Clay Higgins]], [[American Dream Federal Action]], [[FRIENDS OF MATT GAETZ]]"
 ---
 
 

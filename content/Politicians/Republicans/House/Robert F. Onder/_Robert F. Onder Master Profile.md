@@ -1,42 +1,43 @@
 ---
-title: "Robert F. Onder"
+title: Robert F. Onder
 type: politician
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Missouri"
-state-abbr: "MO"
+party: Republican
+chamber: House
+state: Missouri
+state-abbr: MO
 district: "3"
-bioguide-id: "O000177"
+bioguide-id: O000177
 govtrack-id: 456998
 born: "1962-01-06"
-wikidata-id: "Q27064117"
-website: "https://onder.house.gov"
-phone: "202-225-2956"
+wikidata-id: Q27064117
+website: https://onder.house.gov
+phone: 202-225-2956
 source-types:
   - Congress
   - GovTrack
 known-gaps:
-  - "No FEC contribution data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Aviation
-  - "Economic Development, Public Buildings, and Emergency Management"
-  - "Health, Employment, Labor, and Pensions"
+  - Economic Development, Public Buildings, and Emergency Management
+  - Health, Employment, Labor, and Pensions
   - Higher Education and Workforce Development
   - House Committee on Education and Workforce
   - House Committee on Transportation and Infrastructure
   - House Committee on the Judiciary
-  - "Immigration Integrity, Security, and Enforcement"
+  - Immigration Integrity, Security, and Enforcement
   - Oversight
   - The Constitution and Limited Government
   - Water Resources and Environment
 bills-sponsored: 16
 corroboration-count: 2
+top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[Carol D. Miller]], [[Club for Growth INC PAC]], [[National Cattlemen's Beef Association]], [[NRA Political Victory Fund]], [[ERIC BURLISON FOR CONGRESS]], [[Defend American Jobs]], [[BRANDON GILL FOR TEXAS]], [[JIM JORDAN FOR CONGRESS]], [[Mike Johnson]], [[American College of Radiology Association PAC]], [[Brett Guthrie]], [[Brandon Gill]], [[ANDY HARRIS FOR CONGRESS]], [[TEXANS FOR JODEY ARRINGTON]], [[TROY DOWNING FOR CONGRESS]], [[Club for Growth]], [[Leidos]], [[CVS Health - Aetna]], [[MOORE FOR WEST VIRGINIA, INC.]], [[National Restaurant Association]]"
 ---
 
 

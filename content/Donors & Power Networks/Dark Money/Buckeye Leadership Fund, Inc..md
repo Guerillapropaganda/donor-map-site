@@ -7,11 +7,11 @@ entity-type: Super PAC
 committee-type: Super PAC (Independent Expenditure-Only)
 committee-id: C00790923
 fec-url: https://www.fec.gov/data/committee/C00790923/
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-ie-support: "null"
 fec-ie-oppose: $6,577,836
-politicians-funded: "[[Bernie Moreno]]"
+politicians-funded: "[[Bernie Moreno]], [[AXIS RESEARCH INC.]], [[TAG LLC]], [[BREAKWALL GROUP]], [[PUBLIC OPINION STRATEGIES]], [[RED RIGHT MEDIA]]"
 related: "[[Bernie Moreno]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -22,10 +22,10 @@ cash-on-hand: 114109
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
-total-political-spend: "$7.5M"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 2 store(s), cycles 2024"
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $7.5M
+spend-source: aggregated from canonical FEC/IRS edge stores across 2 store(s), cycles 2024
 ---
 
 

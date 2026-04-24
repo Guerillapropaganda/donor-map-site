@@ -18,28 +18,28 @@ phone: 202-225-1880
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H0CA10149
 bills-sponsored: 40
 bills-cosponsored: 476
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[Teamsters - International Brotherhood of Teamsters]], [[National Committee to Preserve Social Security PAC]], [[Walmart - Walton Family]], [[Raytheon (RTX)]], [[National Multifamily Housing Council]], [[BAE Systems]], [[Women Speak Out Pac]], [[AT&T - WarnerMedia]], [[Progressive Turnout Project]], [[NEA Fund for Children and Public Education]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[IBEW - International Brotherhood of Electrical Workers]], [[Lockheed Martin]], [[National Association of Realtors]], [[American Federation of State County & Municipal Employees P E O P L E]], [[CTA - California Teachers Association]], [[L3Harris Technologies]], [[American Hospital Association PAC]], [[Courage California Super Pac]], [[PG&E - Pacific Gas and Electric]], [[Leidos]], [[General Dynamics]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Tyson Foods]], [[Nucor Corporation]], [[ADM - Archer Daniels Midland]], [[General Motors]], [[Medicare for All - The Policy That Broke the Party]], [[Honeywell]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[J Street]], [[Sierra Club Independent Action]], [[League of Conservation Voters]], [[SEIU COPE]], [[Associated General Contractors of America Political Action Committee]], [[AT&T]], [[Honeywell International]], [[American Federation of State County & Municipal Employees  P E O P L E]]"
-last-enriched: 2026-04-21
+top-donors: "[[Teamsters - International Brotherhood of Teamsters]], [[National Committee to Preserve Social Security PAC]], [[Walmart - Walton Family]], [[Raytheon (RTX)]], [[National Multifamily Housing Council]], [[BAE Systems]], [[Women Speak Out Pac]], [[AT&T - WarnerMedia]], [[Progressive Turnout Project]], [[NEA Fund for Children and Public Education]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[IBEW - International Brotherhood of Electrical Workers]], [[Lockheed Martin]], [[National Association of Realtors]], [[American Federation of State County & Municipal Employees P E O P L E]], [[CTA - California Teachers Association]], [[L3Harris Technologies]], [[American Hospital Association PAC]], [[Courage California Super Pac]], [[PG&E - Pacific Gas and Electric]], [[Leidos]], [[General Dynamics]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Tyson Foods]], [[Nucor Corporation]], [[ADM - Archer Daniels Midland]], [[General Motors]], [[Medicare for All - The Policy That Broke the Party]], [[Honeywell]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[J Street]], [[Sierra Club Independent Action]], [[League of Conservation Voters]], [[SEIU COPE]], [[Associated General Contractors of America Political Action Committee]], [[AT&T]], [[Honeywell International]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Raytheon (RTX Corporation)]], [[Sierra Club Political Committee]], [[Planned Parenthood Action Fund INC]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Bechtel Corporation]], [[National Nurses United]], [[AFL-CIO]], [[Google - Alphabet]], [[Jerrold Nadler]], [[Steny H. Hoyer]], [[Blue Shield of California]], [[National Education Association]], [[Frank Pallone]], [[MEDICARE FOR ALL]], [[Chellie Pingree]], [[Peter Welch]], [[John B. Larson]], [[Marcy Kaptur]], [[HUFFMAN FOR CONGRESS 2012 EXPLORATORY COMMITTEE]], [[James E. Clyburn]], [[Akin Gump Strauss Hauer & Feld]], [[BARBARA LEE FOR CONGRESS]], [[Monsanto - Bayer]], [[DEBBIE WASSERMAN SCHULTZ FOR CONGRESS]], [[Environment America INC]], [[NANCY PELOSI FOR CONGRESS]], [[LOFGREN FOR CONGRESS]], [[JUDY CHU FOR CONGRESS]], [[Jerry Nadler]], [[DOGGETT FOR U S CONGRESS COMMITTEE]], [[Henry Cuellar]], [[Edward J. Markey]], [[Richard Neal]], [[DIANA DEGETTE FOR CONGRESS]], [[Liberty Maritime Corporation PAC]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Coast Guard and Maritime Transportation
-  - "Economic Development, Public Buildings, and Emergency Management"
+  - Economic Development, Public Buildings, and Emergency Management
   - Highways and Transit
   - House Committee on Armed Services
   - House Committee on Transportation and Infrastructure
   - Readiness
   - Strategic Forces
   - Water Resources and Environment
-total-raised: "$11.4M"
-career-total-source: "FEC weball summary (cycles 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+total-raised: $11.4M
+career-total-source: FEC weball summary (cycles 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

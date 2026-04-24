@@ -19,13 +19,13 @@ source-types:
   - Congress
   - GovTrack
 known-gaps:
-  - "No FEC contribution data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-top-donors: "[[Marathon Petroleum]], [[Ford Motor Company]], [[Aramark]], [[Meta - Facebook]], [[ExxonMobil]], [[ADM - Archer Daniels Midland]], [[Microsoft]], [[Kelcy Warren - Energy Transfer Partners]], [[Lockheed Martin]], [[Eli Lilly]], [[Google - Alphabet]], [[Walmart]], [[Johnson & Johnson]], [[Tesla - Elon Musk Political Operation]], [[Chevron]], [[Apple]], [[Gilead Sciences]], [[Occidental Petroleum]], [[Halliburton]]"
-last-enriched: 2026-04-21
+top-donors: "[[Marathon Petroleum]], [[Ford Motor Company]], [[Aramark]], [[Meta - Facebook]], [[ExxonMobil]], [[ADM - Archer Daniels Midland]], [[Microsoft]], [[Kelcy Warren - Energy Transfer Partners]], [[Lockheed Martin]], [[Eli Lilly]], [[Google - Alphabet]], [[Walmart]], [[Johnson & Johnson]], [[Tesla - Elon Musk Political Operation]], [[Chevron]], [[Apple]], [[Gilead Sciences]], [[Occidental Petroleum]], [[Halliburton]], [[Protect Progress]], [[Voter Protection Project]], [[Maxwell Frost]], [[MEDICARE FOR ALL]], [[National Nurses United]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "House Committee on Science, Space, and Technology"
+  - House Committee on Science, Space, and Technology
 corroboration-count: 2
 ---
 

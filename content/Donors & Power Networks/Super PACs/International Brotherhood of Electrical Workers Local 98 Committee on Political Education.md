@@ -11,8 +11,8 @@ fec-committee-id: C00162818
 aliases:
   - INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS LOCAL 98 COMMITTEE ON POLITICAL EDUCATION
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Brendan Boyle]], [[Madeleine Dean]], [[Dwight Evans]], [[John Fetterman]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Brendan Boyle]], [[Madeleine Dean]], [[Dwight Evans]], [[John Fetterman]], [[HENRY LEWANDOWSKI III]], [[PNC BANK]], [[ELKO & ASSOCIATES]], [[SPASSO ITALIAN GRILL]], [[WACHOVIA BANK ADVANTAGE INTEREST CHECKIN]], [[ARISTOTLE INTERNATIONAL]], [[PETTY CASH - PNC BANK]], [[TRUMARK FINANCIAL CU]], [[UNITEMIZED CASH DISBURSEMENTS]], [[IVERS, WILLIAM]], [[ASHTON BUILDING CENTER ASSOCIATES, L.P.]], [[Brian K. Fitzpatrick]], [[Barack Obama]], [[Bill Clinton]], [[Hillary Clinton]], [[Joe Biden]], [[John Kerry]], [[Chrissy Houlahan]], [[Bob Casey]], [[Donald Norcross]], [[Mary Gay Scanlon]]"
 related: "[[Brendan Boyle]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -25,7 +25,7 @@ individual-contributions: 2319629
 contributions-to-committees: 35000
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

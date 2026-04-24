@@ -18,24 +18,24 @@ phone: 202-225-6356
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H0TN01118
 bills-sponsored: 25
 bills-cosponsored: 333
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[Lockheed Martin]], [[Gilead Sciences]], [[American Chemistry Council, INC]], [[WinRed]], [[National Rifle Association]], [[Chevron]], [[AIPAC - American Israel Public Affairs Committee]], [[Amgen Inc]], [[Johnson & Johnson]], [[National Victory Action Fund]], [[Pfizer Inc.]], [[VIEW PAC - Value in Electing Women]], [[Care Action]], [[American Hospital Association PAC]], [[Citigroup]], [[National Cattlemen's Beef Association]], [[General Motors]], [[American College of Radiology Association PAC]], [[National Association of Manufacturers]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Ben Cline]], [[Tenet Healthcare]], [[BAE Systems]], [[Performance Racing Inc.]], [[Walmart - Walton Family]], [[Republican Jewish Coalition]], [[Honeywell]], [[AT&T - WarnerMedia]], [[Comcast - NBCUniversal]], [[CoreCivic - Private Prisons]], [[Valero Energy]], [[National Association of Realtors]], [[Save America PAC]], [[AbbVie]], [[Ford Motor Company]], [[MAJORITY PAC]], [[Microsoft]], [[Jason Smith]], [[Duke Energy]], [[National Multifamily Housing Council]], [[Tzedek PAC]], [[Jim Jordan]], [[Honeywell International]], [[AT&T]], [[Majority PAC]]"
-last-enriched: 2026-04-21
+top-donors: "[[Lockheed Martin]], [[Gilead Sciences]], [[American Chemistry Council, INC]], [[WinRed]], [[National Rifle Association]], [[Chevron]], [[AIPAC - American Israel Public Affairs Committee]], [[Amgen Inc]], [[Johnson & Johnson]], [[National Victory Action Fund]], [[Pfizer Inc.]], [[VIEW PAC - Value in Electing Women]], [[Care Action]], [[American Hospital Association PAC]], [[Citigroup]], [[National Cattlemen's Beef Association]], [[General Motors]], [[American College of Radiology Association PAC]], [[National Association of Manufacturers]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Ben Cline]], [[Tenet Healthcare]], [[BAE Systems]], [[Performance Racing Inc.]], [[Walmart - Walton Family]], [[Republican Jewish Coalition]], [[Honeywell]], [[AT&T - WarnerMedia]], [[Comcast - NBCUniversal]], [[CoreCivic - Private Prisons]], [[Valero Energy]], [[National Association of Realtors]], [[Save America PAC]], [[AbbVie]], [[Ford Motor Company]], [[MAJORITY PAC]], [[Microsoft]], [[Jason Smith]], [[Duke Energy]], [[National Multifamily Housing Council]], [[Tzedek PAC]], [[Jim Jordan]], [[Honeywell International]], [[AT&T]], [[Majority PAC]], [[Meta - Facebook]], [[Brett Guthrie]], [[JASON SMITH FOR CONGRESS]], [[Steve Scalise]], [[Southern Company]], [[BEN CLINE FOR CONGRESS, INC.]], [[CoreCivic]], [[Koch Industries]], [[Williams Companies]], [[NRA Political Victory Fund]], [[Wfw Action Fund, Inc.]], [[Darin Lahood]], [[JIM JORDAN FOR CONGRESS]], [[Carol D. Miller]], [[Associated General Contractors of America Political Action Committee]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Energy
   - Health
   - House Committee on Energy and Commerce
   - Oversight and Investigations
-total-raised: "$7.0M"
-career-total-source: "FEC weball summary (cycles 2020, 2022, 2024, 2026)"
+total-raised: $7.0M
+career-total-source: FEC weball summary (cycles 2020, 2022, 2024, 2026)
 ---
 
 

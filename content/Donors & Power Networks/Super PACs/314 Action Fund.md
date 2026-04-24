@@ -11,8 +11,8 @@ fec-committee-id: C00633248
 aliases:
   - 314 ACTION FUND
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Nancy Mace]], [[Lee Zeldin]], [[Lauren Underwood]], [[Chrissy Houlahan]], [[Kim Schrier]], [[Martin Heinrich]], [[Shri Thanedar]], [[George Whitesides]], [[Mark Kelly]], [[Jacky Rosen]], [[Eric Sorensen]], [[Nikema Williams]], [[Kelly Morrison]], [[Young Kim]], [[Paul Tonko]], [[Daniel Biss]], [[Sean Casten]], [[Mariannette Miller-Meeks]], [[Maxine Dexter]], [[Alex Padilla]], [[Tammy Baldwin]], [[Cori Bush]], [[Emily's List]], [[John Hickenlooper]], [[Raul Ruiz]], [[David Schweikert]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Nancy Mace]], [[Lee Zeldin]], [[Lauren Underwood]], [[Chrissy Houlahan]], [[Kim Schrier]], [[Martin Heinrich]], [[Shri Thanedar]], [[George Whitesides]], [[Mark Kelly]], [[Jacky Rosen]], [[Eric Sorensen]], [[Nikema Williams]], [[Kelly Morrison]], [[Young Kim]], [[Paul Tonko]], [[Daniel Biss]], [[Sean Casten]], [[Mariannette Miller-Meeks]], [[Maxine Dexter]], [[Alex Padilla]], [[Tammy Baldwin]], [[Cori Bush]], [[Emily's List]], [[John Hickenlooper]], [[Raul Ruiz]], [[David Schweikert]], [[RWT PRODUCTION]], [[BLUE ACTION INC.]], [[WINDWARD STRATEGIES]], [[LEVERAGE]], [[314 Action Fund]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -29,7 +29,7 @@ employee-contributions-total: 5000
 employee-donor-count: 1
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

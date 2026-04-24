@@ -1,28 +1,29 @@
 ---
-title: "Kristi Noem"
+title: Kristi Noem
 type: politician
 bioguide-id: N000184
 content-readiness: ready
-central-thesis: "Noem's career traces the arc of a donor-class politician who confused personal brand-building with governance. Her COVID-era refusal to lock down was funded by libertarian donors and amplified by conservative media into a national brand. That bran..."
-last-updated: 2026-04-13
+central-thesis: Noem's career traces the arc of a donor-class politician who confused personal brand-building with governance. Her COVID-era refusal to lock down was funded by libertarian donors and amplified by conservative media into a national brand. That bran...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Cabinet"
-state: "South Dakota"
-state-abbr: "SD"
+party: Republican
+chamber: Cabinet
+state: South Dakota
+state-abbr: SD
 issues:
-  - "Dark Money & Campaign Finance"
-total-received: "$20,992"
-fec-candidate-id: "H0SD00054"
+  - Dark Money & Campaign Finance
+total-received: $20,992
+fec-candidate-id: H0SD00054
 source-types:
   - FEC
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No legislative record from Congress.gov
+  - No voting record data
+  - No mapped relationships
 related: "[[_Donald Trump Master Profile|Trump]] · [[_Markwayne Mullin Master Profile|Markwayne Mullin]] · [[Koch Network - Charles Koch|Koch Network]] · [[Heritage Foundation]]"
-last-enriched: 2026-04-20
+last-enriched: 2026-04-20T00:00:00.000Z
+top-donors: "[[Meta - Facebook]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[American College of Radiology Association PAC]], [[Family Research Council Action Political Action Committee]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[Williams Companies]], [[Kevin McCarthy]], [[Cargill]], [[Koch Industries]], [[Shelley Moore Capito]], [[Humana]], [[Amgen Inc]], [[National Right to Life PAC]], [[Associated General Contractors of America Political Action Committee]], [[National Cattlemen's Beef Association]], [[Pfizer Inc.]], [[Occidental Petroleum]], [[Steve Scalise]], [[SCOTT, TIMOTHY]], [[NRA Political Victory Fund]], [[Google - Alphabet]], [[Tyson Foods]], [[Republican Jewish Coalition]], [[AbbVie]], [[National Restaurant Association]], [[Campaign for Working Families]], [[John Boehner]], [[John Thune]], [[CVS Health - Aetna]], [[Monsanto - Bayer]], [[ADM - Archer Daniels Midland]], [[Pete Sessions]], [[PETE SESSIONS FOR CONGRESS]], [[Southern Company]], [[American Gaming Association]]"
 ---
 
 

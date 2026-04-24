@@ -25,8 +25,8 @@ known-gaps:
   - No legislative record from Congress.gov
   - No mapped relationships
 related: "[[_Donald Trump Master Profile]] · [[_Pam Bondi Master Profile]]"
-donors: "[[Senate Conservatives Fund]], [[MADISON PROJECT INC.]], [[SENATE CONSERVATIVES FUND]], [[CLUB FOR GROWTH ACTION]], [[Club for Growth]], [[Madison Project Inc.]], [[Northrop Grumman]], [[L3 Technologies]]"
-last-enriched: 2026-04-20
+donors: "[[Senate Conservatives Fund]], [[MADISON PROJECT INC.]], [[SENATE CONSERVATIVES FUND]], [[CLUB FOR GROWTH ACTION]], [[Club for Growth]], [[Madison Project Inc.]], [[Northrop Grumman]], [[L3 Technologies]], [[John Ratcliffe]], [[Club for Growth INC PAC]], [[NRA Political Victory Fund]], [[Google - Alphabet]], [[PETE SESSIONS FOR CONGRESS]], [[Meta - Facebook]], [[Koch Industries]], [[Kevin McCarthy]], [[Leidos]], [[Pete Sessions]], [[Southern Company]], [[Steve Scalise]], [[Occidental Petroleum]], [[GEO Group - Private Prison Industrial Complex]], [[Paul Ryan]]"
+last-enriched: 2026-04-20T00:00:00.000Z
 ---
 
 

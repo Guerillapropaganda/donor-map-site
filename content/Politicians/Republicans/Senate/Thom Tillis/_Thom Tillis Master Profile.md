@@ -41,7 +41,7 @@ source-types:
   - GovTrack
 corroboration-count: 2
 known-gaps:
-  - "No FEC contribution data"
+  - No FEC contribution data
 opposes: "[[SMP]] · [[DSCC]] · [[DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE]] · [[SENATE MAJORITY PAC]] · [[NEA ADVOCACY FUND]]"
 related: "[[Pharmaceutical Industry Bloc]] · [[Tech IP and Patent Lobbying]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]]"
 total-raised: $8,072,231
@@ -49,22 +49,22 @@ total-spent: $5,232,134
 cash-on-hand: "3675005.14"
 fec-cycle: 2026
 last-enriched: "2026-04-10"
-donors: "[[Insurance Industry]] · [[Tech IP and Patent Lobbying]] · [[Pharmaceutical Industry Bloc]] · [[Koch Network - Charles Koch]] · [[NEA Advocacy Fund]] · [[Google - Alphabet]] · [[NextEra Energy]] · [[Duke Energy]] · [[Citigroup]] · [[American Chemistry Council, INC]] · [[AT&T - WarnerMedia]] · [[National Multifamily Housing Council]] · [[CoreCivic - Private Prisons]] · [[Anthem - Elevance Health]] · [[Johnson & Johnson]] · [[ConocoPhillips]] · [[National Association of Realtors]] · [[WinRed]] · [[American College of Radiology Association PAC]] · [[American Hospital Association PAC]] · [[Humana]] · [[Amgen Inc]] · [[Gilead Sciences]] · [[Bank of America]] · [[Drummond Co.]] · [[Lockheed Martin]] · [[Women Speak Out Pac]] · [[General Dynamics]] · [[L3Harris Technologies]] · [[Walmart - Walton Family]] · [[Activate America]] · [[McDonalds Corporation]] · [[Raytheon (RTX)]] · [[Occidental Petroleum]] · [[Nucor Corporation]] · [[Microsoft]] · [[Planned Parenthood Votes]] · [[Pfizer Inc.]] · [[BAE Systems]] · [[Chevron]] · [[Tenet Healthcare]] · [[Valero Energy]] · [[Tyson Foods]] · [[General Motors]] · [[AbbVie]] · [[NORPAC]] · [[Morgan Stanley]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Comcast - NBCUniversal]] · [[Tzedek PAC]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[Northrop Grumman]] · [[Ford Motor Company]] · [[AT&T]]"
+donors: "[[Insurance Industry]] · [[Tech IP and Patent Lobbying]] · [[Pharmaceutical Industry Bloc]] · [[Koch Network - Charles Koch]] · [[NEA Advocacy Fund]] · [[Google - Alphabet]] · [[NextEra Energy]] · [[Duke Energy]] · [[Citigroup]] · [[American Chemistry Council, INC]] · [[AT&T - WarnerMedia]] · [[National Multifamily Housing Council]] · [[CoreCivic - Private Prisons]] · [[Anthem - Elevance Health]] · [[Johnson & Johnson]] · [[ConocoPhillips]] · [[National Association of Realtors]] · [[WinRed]] · [[American College of Radiology Association PAC]] · [[American Hospital Association PAC]] · [[Humana]] · [[Amgen Inc]] · [[Gilead Sciences]] · [[Bank of America]] · [[Drummond Co.]] · [[Lockheed Martin]] · [[Women Speak Out Pac]] · [[General Dynamics]] · [[L3Harris Technologies]] · [[Walmart - Walton Family]] · [[Activate America]] · [[McDonalds Corporation]] · [[Raytheon (RTX)]] · [[Occidental Petroleum]] · [[Nucor Corporation]] · [[Microsoft]] · [[Planned Parenthood Votes]] · [[Pfizer Inc.]] · [[BAE Systems]] · [[Chevron]] · [[Tenet Healthcare]] · [[Valero Energy]] · [[Tyson Foods]] · [[General Motors]] · [[AbbVie]] · [[NORPAC]] · [[Morgan Stanley]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Comcast - NBCUniversal]] · [[Tzedek PAC]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[Northrop Grumman]] · [[Ford Motor Company]] · [[AT&T]] · [[Raytheon (RTX Corporation)]] · [[Bacardi - Bacardi USA]] · [[Associated General Contractors of America Political Action Committee]] · [[Cargill]] · [[American Crossroads]] · [[National Right to Life Victory Fund]] · [[Southern Company]] · [[Family Research Council Action Political Action Committee]] · [[National Republican Senatorial Committee]] · [[Koch Industries]] · [[Republican Jewish Coalition]] · [[National Right to Life PAC]] · [[National Restaurant Association]] · [[National Cattlemen's Beef Association]] · [[CVS Health - Aetna]] · [[Club for Growth INC PAC]] · [[Cynthia M. Lummis]] · [[NRA Political Victory Fund]] · [[SLF PAC]] · [[Senate Majority PAC]] · [[Meta - Facebook]] · [[INVEST IN A STRONG AND SECURE AMERICA]] · [[Freedom's Defense Fund]] · [[National Association of Manufacturers]] · [[Williams Companies]] · [[Akin Gump Strauss Hauer & Feld]] · [[Ben Carson]] · [[Opportunity Matters Fund]] · [[TED BUDD FOR SENATE]] · [[Common Sense for America PAC]] · [[GEO Group - Private Prison Industrial Complex]] · [[DAVID ROUZER FOR CONGRESS]] · [[Roger Marshall]] · [[Mitt Romney]] · [[CoreCivic]] · [[Richard Hudson]] · [[ADM - Archer Daniels Midland]] · [[Leidos]] · [[Clearpath Action Fund, Inc.]] · [[Campaign for Working Families]] · [[Freedom Partners Action Fund Inc]] · [[Piedmont Triad Anesthesia, P.A. Federal PAC]] · [[North Carolina Soybean Producers Association N.C. SoyPAC]] · [[Unigroup Political Action Committee]]"
 urls-first-triaged: "2026-04-15"
 committees:
-  - "Antitrust, Competition Policy, and Consumer Rights"
+  - Antitrust, Competition Policy, and Consumer Rights
   - Border Security and Immigration
   - Commission on Security and Cooperation in Europe
   - Digital Assets
   - Economic Policy
-  - "Federal Courts, Oversight, Agency Action, and Federal Rights"
+  - Federal Courts, Oversight, Agency Action, and Federal Rights
   - Financial Institutions and Consumer Protection
   - Health Care
   - Intellectual Property
-  - "International Trade, Customs, and Global Competitiveness"
-  - "Senate Committee on Banking, Housing, and Urban Affairs"
+  - International Trade, Customs, and Global Competitiveness
+  - Senate Committee on Banking, Housing, and Urban Affairs
   - Senate Committee on Finance
-  - "Senate Committee on Veterans' Affairs"
+  - Senate Committee on Veterans' Affairs
   - Senate Committee on the Judiciary
   - Taxation and IRS Oversight
 ---

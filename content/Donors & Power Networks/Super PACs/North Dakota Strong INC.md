@@ -5,14 +5,14 @@ content-readiness: data-complete
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00826271
 aliases:
   - NORTH DAKOTA STRONG INC
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[John Hoeven]]"
+  - No lobbying disclosure data
+politicians-funded: "[[John Hoeven]], [[BAKER & HOSTETLER LLP]]"
 related: "[[John Hoeven]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -22,7 +22,7 @@ total-raised: 1259
 total-spent: 21472
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

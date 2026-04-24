@@ -5,14 +5,14 @@ content-readiness: data-complete
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00430876
 aliases:
   - WORKING FOR US POLITICAL ACTION COMMITTEE INC
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Ro Khanna]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Ro Khanna]], [[TURNOUT FOR DEMOCRACY]], [[BLUE COMPASS STRATEGIES, INC.]], [[TULCHIN RESEARCH]], [[PASQUERILLA, MARK E.]], [[WHITE HORSE STRATEGIES]], [[FIELD STRATEGIES]], [[ROSENTHAL, STEVEN]], [[GREENBERG QUINLAN ROSNER RESEARCH]], [[Organizing for Action]], [[Barack Obama]], [[Chris Murphy]]"
 related: "[[Ro Khanna]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -21,9 +21,9 @@ urls-first-triaged: "2026-04-15"
 total-spent: 341
 source-types:
   - FEC
-last-enriched: 2026-04-21
-total-political-spend: "$678K"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2010, 2012, 2014"
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $678K
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2010, 2012, 2014
 ---
 
 

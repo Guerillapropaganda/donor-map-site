@@ -27,7 +27,7 @@ stock-trades: 8
 stock-trade-tickers:
   - GDV
   - BIF
-donors: "[[Raytheon (RTX Corporation)]] · [[General Dynamics]] · [[Lockheed Martin]] · [[Northrop Grumman]] · [[MISSISSIPPI REPUBLICAN PARTY]] · [[PLANNED PARENTHOOD ACTION FUND INC]] · [[Mississippi Republican Party]] · [[National Restaurant Association]] · [[CoreCivic - Private Prisons]] · [[iHeartMedia]] · [[Raytheon (RTX)]] · [[ADM - Archer Daniels Midland]] · [[L3Harris Technologies]] · [[American Chemistry Council, INC]] · [[Leidos]] · [[Amgen Inc]] · [[Tyson Foods]] · [[Ford Motor Company]] · [[Republican Jewish Coalition]] · [[Pfizer Inc.]] · [[PG&E - Pacific Gas and Electric]] · [[American Hospital Association PAC]] · [[BAE Systems]] · [[CVS Health - Aetna]] · [[Anthem - Elevance Health]] · [[AbbVie]] · [[Airbnb]] · [[NORPAC]] · [[Duke Energy]] · [[Nucor Corporation]] · [[National Association of Manufacturers]] · [[Associated General Contractors of America Political Action Committee]] · [[Care Action]] · [[Microsoft]] · [[National Multifamily Housing Council]] · [[Valero Energy]] · [[Chevron]] · [[AIPAC - American Israel Public Affairs Committee]] · [[National Cattlemen's Beef Association]] · [[WinRed]] · [[Citigroup]] · [[AT&T - WarnerMedia]] · [[ConocoPhillips]] · [[Walmart - Walton Family]] · [[Bank of America]] · [[Marathon Petroleum]] · [[Honeywell]] · [[Common Sense for America PAC]] · [[Teamsters - International Brotherhood of Teamsters]] · [[National Association of Realtors]] · [[Humana]] · [[Gilead Sciences]] · [[Occidental Petroleum]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[General Motors]] · [[NextEra Energy]] · [[Comcast - NBCUniversal]] · [[Google - Alphabet]] · [[National Rifle Association]] · [[Palantir]] · [[Palantir Technologies]] · [[Honeywell International]] · [[AT&T]]"
+donors: "[[Raytheon (RTX Corporation)]] · [[General Dynamics]] · [[Lockheed Martin]] · [[Northrop Grumman]] · [[MISSISSIPPI REPUBLICAN PARTY]] · [[PLANNED PARENTHOOD ACTION FUND INC]] · [[Mississippi Republican Party]] · [[National Restaurant Association]] · [[CoreCivic - Private Prisons]] · [[iHeartMedia]] · [[Raytheon (RTX)]] · [[ADM - Archer Daniels Midland]] · [[L3Harris Technologies]] · [[American Chemistry Council, INC]] · [[Leidos]] · [[Amgen Inc]] · [[Tyson Foods]] · [[Ford Motor Company]] · [[Republican Jewish Coalition]] · [[Pfizer Inc.]] · [[PG&E - Pacific Gas and Electric]] · [[American Hospital Association PAC]] · [[BAE Systems]] · [[CVS Health - Aetna]] · [[Anthem - Elevance Health]] · [[AbbVie]] · [[Airbnb]] · [[NORPAC]] · [[Duke Energy]] · [[Nucor Corporation]] · [[National Association of Manufacturers]] · [[Associated General Contractors of America Political Action Committee]] · [[Care Action]] · [[Microsoft]] · [[National Multifamily Housing Council]] · [[Valero Energy]] · [[Chevron]] · [[AIPAC - American Israel Public Affairs Committee]] · [[National Cattlemen's Beef Association]] · [[WinRed]] · [[Citigroup]] · [[AT&T - WarnerMedia]] · [[ConocoPhillips]] · [[Walmart - Walton Family]] · [[Bank of America]] · [[Marathon Petroleum]] · [[Honeywell]] · [[Common Sense for America PAC]] · [[Teamsters - International Brotherhood of Teamsters]] · [[National Association of Realtors]] · [[Humana]] · [[Gilead Sciences]] · [[Occidental Petroleum]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[General Motors]] · [[NextEra Energy]] · [[Comcast - NBCUniversal]] · [[Google - Alphabet]] · [[National Rifle Association]] · [[Palantir]] · [[Palantir Technologies]] · [[Honeywell International]] · [[AT&T]] · [[Koch Industries]] · [[NRA Political Victory Fund]] · [[John Boehner]] · [[McDonalds Corporation]] · [[Monsanto - Bayer]] · [[National Republican Senatorial Committee]] · [[Akin Gump Strauss Hauer & Feld]] · [[Roger Marshall]] · [[Williams Companies]] · [[Meta - Facebook]] · [[Senate Majority PAC]] · [[CoreCivic]] · [[GEO Group - Private Prison Industrial Complex]] · [[Family Research Council Action Political Action Committee]] · [[American College of Radiology Association PAC]] · [[Campaign for Working Families]] · [[DANIEL WEBSTER PAC]] · [[Bechtel Corporation]] · [[American Iron and Steel Institute]] · [[Democratic Senatorial Campaign Committee]] · [[Sinclair Broadcast Group]] · [[Bacardi - Bacardi USA]] · [[National Right to Life PAC]] · [[Cargill]]"
 related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[The Armed Services Ranking Member and Defense Bipartisanship]] · [[Lockheed Martin]] · [[Northrop Grumman]] · [[Raytheon (RTX)|Raytheon]] · [[_Donald Trump Master Profile|Trump]] · [[Democratic Senatorial Campaign Committee]]"
 total-received: $286,732
 fec-candidate-id: S8MS00196
@@ -36,15 +36,15 @@ reenrich-reason: run congress pipeline; run pipelines
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 bills-enacted: 0
 top-policy-area: Health
-last-enriched: 2026-04-20
+last-enriched: 2026-04-20T00:00:00.000Z
 source-types:
   - Congress
   - GovTrack
 corroboration-count: 2
 known-gaps:
-  - "No FEC contribution data"
-total-raised: "$27.4M"
-career-total-source: "FEC weball summary (cycles 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+  - No FEC contribution data
+total-raised: $27.4M
+career-total-source: FEC weball summary (cycles 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

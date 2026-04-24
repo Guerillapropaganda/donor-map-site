@@ -18,16 +18,16 @@ phone: 202-225-3605
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-donors: "[[Western Growers Association]] · [[National Cattlemen's Beef Association]] · [[WinRed]] · [[National Rifle Association]] · [[Pfizer Inc.]] · [[Amgen Inc]] · [[Raytheon (RTX)]] · [[MAJORITY PAC]] · [[ConocoPhillips]] · [[National Association of Realtors]] · [[Anthem - Elevance Health]] · [[Occidental Petroleum]] · [[NextEra Energy]] · [[Johnson & Johnson]] · [[Devon Energy]] · [[Tyson Foods]] · [[General Dynamics]] · [[Halliburton]] · [[AT&T - WarnerMedia]] · [[American Hospital Association PAC]] · [[Lockheed Martin]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[Chevron]] · [[L3Harris Technologies]] · [[Freedom's Defense Fund]] · [[Comcast - NBCUniversal]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Marathon Petroleum]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[Walmart - Walton Family]] · [[Leidos]] · [[National Multifamily Housing Council]] · [[CVS Health - Aetna]] · [[Microsoft]] · [[BAE Systems]] · [[Northrop Grumman]] · [[Gilead Sciences]] · [[Drummond Co.]] · [[iHeartMedia]] · [[PG&E - Pacific Gas and Electric]] · [[McDonalds Corporation]] · [[American Chemistry Council, INC]] · [[Honeywell]] · [[Valero Energy]] · [[National Victory Action Fund]] · [[Google - Alphabet]] · [[Republican Jewish Coalition]] · [[General Motors]] · [[Associated General Contractors of America Political Action Committee]] · [[Save America PAC]] · [[AbbVie]] · [[ExxonMobil]] · [[Citadel - Kenneth Griffin]] · [[CBRE Group]] · [[Goldman Sachs]] · [[Charles Schwab]] · [[Anduril Industries]] · [[American Petroleum Institute]] · [[Enterprise Products Partners]] · [[Majority PAC]] · [[AT&T]] · [[Honeywell International]]"
+  - No FEC contribution data
+  - No voting record data
+donors: "[[Western Growers Association]] · [[National Cattlemen's Beef Association]] · [[WinRed]] · [[National Rifle Association]] · [[Pfizer Inc.]] · [[Amgen Inc]] · [[Raytheon (RTX)]] · [[MAJORITY PAC]] · [[ConocoPhillips]] · [[National Association of Realtors]] · [[Anthem - Elevance Health]] · [[Occidental Petroleum]] · [[NextEra Energy]] · [[Johnson & Johnson]] · [[Devon Energy]] · [[Tyson Foods]] · [[General Dynamics]] · [[Halliburton]] · [[AT&T - WarnerMedia]] · [[American Hospital Association PAC]] · [[Lockheed Martin]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[Chevron]] · [[L3Harris Technologies]] · [[Freedom's Defense Fund]] · [[Comcast - NBCUniversal]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Marathon Petroleum]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[Walmart - Walton Family]] · [[Leidos]] · [[National Multifamily Housing Council]] · [[CVS Health - Aetna]] · [[Microsoft]] · [[BAE Systems]] · [[Northrop Grumman]] · [[Gilead Sciences]] · [[Drummond Co.]] · [[iHeartMedia]] · [[PG&E - Pacific Gas and Electric]] · [[McDonalds Corporation]] · [[American Chemistry Council, INC]] · [[Honeywell]] · [[Valero Energy]] · [[National Victory Action Fund]] · [[Google - Alphabet]] · [[Republican Jewish Coalition]] · [[General Motors]] · [[Associated General Contractors of America Political Action Committee]] · [[Save America PAC]] · [[AbbVie]] · [[ExxonMobil]] · [[Citadel - Kenneth Griffin]] · [[CBRE Group]] · [[Goldman Sachs]] · [[Charles Schwab]] · [[Anduril Industries]] · [[American Petroleum Institute]] · [[Enterprise Products Partners]] · [[Majority PAC]] · [[AT&T]] · [[Honeywell International]] · [[Raytheon (RTX Corporation)]] · [[Frank Lucas]] · [[Koch Industries]] · [[Akin Gump Strauss Hauer & Feld]] · [[Williams Companies]] · [[NRA Political Victory Fund]] · [[TEXANS FOR JODEY ARRINGTON]] · [[With Honor Fund]] · [[Steve Scalise]] · [[Meta - Facebook]] · [[Southern Company]] · [[JASON SMITH FOR CONGRESS]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H0TX11230
 bills-sponsored: 63
 bills-cosponsored: 323
 bills-enacted: 0
 top-policy-area: Health
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Communications and Technology
   - Counterterrorism and Intelligence
@@ -35,8 +35,8 @@ committees:
   - Environment
   - House Committee on Energy and Commerce
   - House Committee on Homeland Security
-total-raised: "$11.9M"
-career-total-source: "FEC weball summary (cycles 2020, 2022, 2024, 2026)"
+total-raised: $11.9M
+career-total-source: FEC weball summary (cycles 2020, 2022, 2024, 2026)
 ---
 
 

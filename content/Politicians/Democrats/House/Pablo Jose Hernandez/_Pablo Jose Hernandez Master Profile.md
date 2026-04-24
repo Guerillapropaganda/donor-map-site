@@ -1,33 +1,33 @@
 ---
-title: "Pablo Jose Hernandez"
+title: Pablo Jose Hernandez
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Puerto Rico"
-state-abbr: "PR"
+party: Democrat
+chamber: House
+state: Puerto Rico
+state-abbr: PR
 district: "0"
-bioguide-id: "H001103"
+bioguide-id: H001103
 govtrack-id: 457019
 born: "1991-05-11"
-wikidata-id: "Q130997176"
-website: "https://hernandez.house.gov"
-phone: "202-225-2615"
+wikidata-id: Q130997176
+website: https://hernandez.house.gov
+phone: 202-225-2615
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 ofac-sdn-match: "true"
 last-enriched: "2026-04-12"
 ofac-programs:
-  - "SDNTK"
-  - "VENEZUELA"
-  - "ILLICIT-DRUGS-EO14059"
+  - SDNTK
+  - VENEZUELA
+  - ILLICIT-DRUGS-EO14059
 urls-first-triaged: "2026-04-15"
 committees:
   - Counterterrorism and Intelligence
@@ -37,6 +37,7 @@ committees:
   - Indian and Insular Affairs
   - Oversight and Investigations
 bills-sponsored: 24
+top-donors: "[[Planned Parenthood Action Fund INC]], [[DEBBIE WASSERMAN SCHULTZ FOR CONGRESS]], [[AFL-CIO]], [[Robert Menendez]], [[Amgen Inc]], [[NANCY PELOSI FOR CONGRESS]], [[National Education Association]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[HUFFMAN FOR CONGRESS 2012 EXPLORATORY COMMITTEE]], [[AbbVie]], [[Hilda Solis]], [[Pfizer Inc.]], [[John B. Larson]], [[James E. Clyburn]], [[Adam Smith]], [[JUDY CHU FOR CONGRESS]], [[LOFGREN FOR CONGRESS]], [[Sierra Club Political Committee]], [[Ben Ray Lujan]], [[Steny H. Hoyer]], [[CVS Health - Aetna]], [[CASTRO FOR CONGRESS]], [[Sylvia R. Garcia]], [[National Committee to Preserve Social Security & Medicare PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Juan Vargas]], [[BARBARA LEE FOR CONGRESS]], [[League of Conservation Voters]]"
 ---
 
 

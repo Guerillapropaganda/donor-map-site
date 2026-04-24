@@ -1,36 +1,37 @@
 ---
-title: "Carol D. Miller"
+title: Carol D. Miller
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "West Virginia"
-state-abbr: "WV"
+party: Republican
+chamber: House
+state: West Virginia
+state-abbr: WV
 district: "1"
-bioguide-id: "M001205"
+bioguide-id: M001205
 govtrack-id: 412837
 born: "1950-11-04"
-wikidata-id: "Q16145531"
-website: "https://miller.house.gov"
-phone: "202-225-3452"
+wikidata-id: Q16145531
+website: https://miller.house.gov
+phone: 202-225-3452
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 41
 bills-cosponsored: 350
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Health
   - House Committee on Ways and Means
   - Trade
+top-donors: "[[National Right to Life Victory Fund]], [[NRA Political Victory Fund]], [[Gilead Sciences]], [[AbbVie]], [[Southern Company]], [[Amgen Inc]], [[Steve Scalise]], [[Gregory F. Murphy]], [[Leidos]], [[ANNA PAULINA LUNA FOR CONGRESS]], [[JASON SMITH FOR CONGRESS]], [[Pfizer Inc.]], [[Nucor Corporation]], [[Occidental Petroleum]], [[JIM JORDAN FOR CONGRESS]], [[Associated General Contractors of America Political Action Committee]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[ADRIAN SMITH FOR CONGRESS]], [[American College of Radiology Association PAC]], [[CVS Health - Aetna]], [[National Restaurant Association]], [[AIPAC - American Israel Public Affairs Committee]], [[American Iron and Steel Institute]], [[KAY GRANGER CAMPAIGN FUND]], [[Brett Guthrie]], [[VERN BUCHANAN FOR CONGRESS]], [[Humana]], [[NICOLE FOR NEW YORK]], [[Akin Gump Strauss Hauer & Feld]], [[FRIENDS OF MATT GAETZ]], [[Steve Womack]], [[Koch Industries]], [[Tzedek PAC]], [[Google - Alphabet]], [[ANDY HARRIS FOR CONGRESS]], [[Defending Main Street Superpac INC]], [[Donald Trump]], [[TEXANS FOR JODEY ARRINGTON]], [[BLAKE MOORE FOR CONGRESS]], [[National Association of Manufacturers]], [[AUGUST PFLUGER FOR CONGRESS]], [[Campaign for Working Families]], [[Williams Companies]], [[Rick Crawford]], [[Republican Jewish Coalition]], [[JOE WILSON FOR CONGRESS]], [[National Cattlemen's Beef Association]], [[Blue Shield of California]], [[Winning for Women PAC]]"
 ---
 
 

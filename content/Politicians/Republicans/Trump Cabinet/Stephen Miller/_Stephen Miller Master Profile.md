@@ -22,11 +22,11 @@ source-types:
   - Congress
   - GovTrack
 known-gaps:
-  - "No FEC contribution data"
+  - No FEC contribution data
 related: "[[_Donald Trump Master Profile]] · [[_Steve Bannon Master Profile]] · [[_Russell Vought Master Profile]] · [[America First Legal and the Dark Money Architecture]] · [[Kash Patel]] · [[The Nunes Pipeline and the Loyalty Promotion System]]"
-donors: "[[Tim Dunn]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Bradley Impact Fund]] · [[Heritage Foundation]] · [[DonorsTrust]] · [[Republican Jewish Coalition]]"
+donors: "[[Tim Dunn]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Bradley Impact Fund]] · [[Heritage Foundation]] · [[DonorsTrust]] · [[Republican Jewish Coalition]] · [[Hillary Clinton]] · [[National Republican Senatorial Committee]] · [[H. Morgan Griffith]] · [[SUSIE LEE FOR CONGRESS]] · [[SUSIE LEE FOR NEVADA]] · [[Donald Trump]] · [[CHRIS CHRISTIE FOR PRESIDENT, INC.]] · [[Bill Cassidy]] · [[ADAM GRAY FOR CONGRESS]] · [[James Lankford]] · [[John R. Carter]] · [[MARCO RUBIO FOR PRESIDENT]] · [[PETERS FOR MICHIGAN]] · [[Adam Schiff]] · [[MARY MILLER FOR CONGRESS]] · [[SHONTEL BROWN FOR CONGRESS]] · [[MAST FOR CONGRESS]] · [[Raul Grijalva]] · [[Bernie Sanders]] · [[Vivek Ramaswamy]] · [[Marco Rubio]] · [[MARTIN HEINRICH FOR SENATE]] · [[Henry Cuellar]] · [[WARREN FOR SENATE, INC.]] · [[Democratic Senatorial Campaign Committee]] · [[Amy Klobuchar]] · [[Jefferson van Drew]] · [[HAGEMAN FOR WYOMING]] · [[John Boehner]] · [[ROGER WILLIAMS FOR U S CONGRESS COMMITTEE]] · [[Trump Victory]] · [[Mike Pompeo]] · [[Eric Swalwell]] · [[Steve Scalise]] · [[JUDY CHU FOR CONGRESS]] · [[ActBlue Non-Federal]]"
 corroboration-count: 2
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

@@ -1,39 +1,36 @@
 ---
-title: "Chuck Grassley"
+title: Chuck Grassley
 type: politician
 content-readiness: ready
-central-thesis: "Chuck Grassley is the gatekeeper of the federal judiciary and the pharmaceutical industry's most useful contradiction. He holds the single most powerful position in American judicial politics , Judiciary Committee chair , and has used it to reshap..."
-last-updated: 2026-04-13
+central-thesis: Chuck Grassley is the gatekeeper of the federal judiciary and the pharmaceutical industry's most useful contradiction. He holds the single most powerful position in American judicial politics , Judiciary Committee chair , and has used it to reshap...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Senate"
-state: "Iowa"
-state-abbr: "IA"
+party: Republican
+chamber: Senate
+state: Iowa
+state-abbr: IA
 committees:
-  - "Judiciary"
-  - "Agriculture"
+  - Judiciary
+  - Agriculture
 issues:
-  - "Agriculture"
-  - "Healthcare"
-bioguide-id: "G000386"
+  - Agriculture
+  - Healthcare
+bioguide-id: G000386
 govtrack-id: 300048
 bills-sponsored: 77
 bills-cosponsored: 324
-website: "https://www.grassley.senate.gov"
-phone: "202-224-3744"
+website: https://www.grassley.senate.gov
+phone: 202-224-3744
 related: "[[Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Donald Trump Master Profile|Trump]] · [[Federalist Society]] · [[Heritage Foundation]] · [[Mike Lee]]"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline; run congress pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run fec pipeline; run congress pipeline; run pipelines
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
 bills-enacted: 0
-top-policy-area: "Crime and Law Enforcement"
-last-enriched: 2026-04-20
+top-policy-area: Crime and Law Enforcement
+last-enriched: 2026-04-20T00:00:00.000Z
+top-donors: "[[Amgen Inc]], [[Associated General Contractors of America Political Action Committee]], [[National Right to Life PAC]], [[CVS Health - Aetna]], [[Monsanto - Bayer]], [[McDonalds Corporation]], [[American College of Radiology Association PAC]], [[Google - Alphabet]], [[MBNA Corporation]], [[Republican Jewish Coalition]], [[Dan Coats]], [[National Restaurant Association]], [[Cargill]], [[Koch Industries]], [[ADM - Archer Daniels Midland]], [[Occidental Petroleum]], [[NRA Political Victory Fund]], [[Tyson Foods]], [[Williams Companies]], [[Akin Gump Strauss Hauer & Feld]], [[English Language Political Action Committee]], [[Blue Shield of California]], [[Bechtel Corporation]], [[National Republican Senatorial Committee]], [[American Future Fund Political Action]], [[Law Enforcement for a Safer America Pac]], [[Humana]], [[Citigroup]], [[Senate Majority PAC]], [[Pfizer Inc.]], [[National Victory Action Fund]], [[John Thune]], [[National Cattlemen's Beef Association]], [[Bacardi - Bacardi USA]], [[Southern Company]], [[Meta - Facebook]], [[Roger Marshall]], [[National Committee to Preserve Social Security & Medicare PAC]], [[American Gaming Association]], [[Family Research Council Action Political Action Committee]], [[American Principles Fund]], [[DoorDash]], [[National Association of Manufacturers]], [[Goldman Sachs]], [[Gilead Sciences]], [[GEO Group - Private Prison Industrial Complex]], [[Campaign for Working Families]], [[Sinclair Broadcast Group]], [[American Iron and Steel Institute]], [[Hunter Action Fund (haf)]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Common Sense for America PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[CoreCivic]], [[Conservative Leadership PAC]], [[National Association of Realtors]], [[Mitch McConnell]], [[Honoring American Law Enforcement Pac]]"
 ---
 
 

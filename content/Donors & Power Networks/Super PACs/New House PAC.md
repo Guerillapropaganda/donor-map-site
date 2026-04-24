@@ -5,14 +5,14 @@ content-readiness: data-complete
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00383232
 aliases:
   - NEW HOUSE PAC
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Melissa Bean]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Melissa Bean]], [[BANNON RESEARCH, INC.]], [[Clear Voice Minnesota]], [[WOLFSON, HOWARD]], [[ACTION MEDIA, INC.]], [[TRULL, CHRISTOPHER]], [[HOWARD AGENCY]], [[VIACOM]], [[MANTZ, JONATHAN]], [[PRINT SYSTEMS, INC.]], [[GAFFNEY, MEGHAN]], [[BARNEGAT GROUP, LLC]], [[PERKINS COIE, LLP]], [[James A. Himes]], [[Ami Bera]], [[Martin Heinrich]], [[Suzan K. Delbene]], [[Gerry Connolly]], [[Chris Murphy]], [[Tammy Duckworth]]"
 related: "[[Melissa Bean]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -20,9 +20,9 @@ checklist-na:
 urls-first-triaged: "2026-04-15"
 source-types:
   - FEC
-last-enriched: 2026-04-21
-total-political-spend: "$52K"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2004, 2006, 2008, 2010"
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $52K
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2004, 2006, 2008, 2010
 ---
 
 

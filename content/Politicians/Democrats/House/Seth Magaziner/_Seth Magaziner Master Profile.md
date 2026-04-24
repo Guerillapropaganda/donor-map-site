@@ -18,26 +18,26 @@ phone: 202-225-2735
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2RI02184
 bills-sponsored: 20
 bills-cosponsored: 547
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[UA Political Action Committee]], [[Paul Tonko]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Hmp]], [[Leidos]], [[AFL-CIO]], [[NRCC - National Republican Congressional Committee]], [[National Association of Realtors]], [[Mark Takano]], [[SEIU COPE]], [[AT&T - WarnerMedia]], [[American College of Radiology Association PAC]], [[Raytheon (RTX)]], [[Joe Neguse]], [[Walmart - Walton Family]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Nancy Pelosi]], [[Sara Jacobs]], [[ENVIRONMENT AMERICA INC]], [[Giffords PAC]], [[DMFI - Democratic Majority for Israel]], [[Jason Crow]], [[National Association of Manufacturers]], [[Ted Lieu]], [[Teamsters - International Brotherhood of Teamsters]], [[American Hospital Association PAC]], [[Unite Here Tip Campaign Committee]], [[Let America Vote PAC]], [[National Committee to Preserve Social Security PAC]], [[Progressive Turnout Project]], [[L3Harris Technologies]], [[J Street]], [[VOTER PROTECTION PROJECT]], [[CVS Health - Aetna]], [[Comcast - NBCUniversal]], [[Jamie Raskin]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Anthem - Elevance Health]], [[Pete Aguilar]], [[League of Conservation Voters]], [[DCCC - Democratic Congressional Campaign Committee]], [[Putting People First Political Action Committee]], [[General Dynamics]], [[Planned Parenthood Action Fund INC]], [[Bank of America]], [[Care Action]], [[Amgen Inc]], [[IBEW - International Brotherhood of Electrical Workers]], [[National Education Association]], [[Lockheed Martin]], [[Sierra Club Independent Action]], [[NEA Fund for Children and Public Education]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Honeywell]], [[Everytown for Gun Safety]], [[Northrop Grumman]], [[Medicare for All - The Policy That Broke the Party]], [[BAE Systems]], [[Veronica Escobar]], [[MoveOn.org Political Action]], [[Sierra Club Political Committee]], [[Congressional Leadership Fund]], [[Robert Garcia]], [[Debbie Dingell]], [[AT&T]], [[Honeywell International]], [[Environment America INC]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Voter Protection Project]], [[HMP]]"
-last-enriched: 2026-04-21
+top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[UA Political Action Committee]], [[Paul Tonko]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Hmp]], [[Leidos]], [[AFL-CIO]], [[NRCC - National Republican Congressional Committee]], [[National Association of Realtors]], [[Mark Takano]], [[SEIU COPE]], [[AT&T - WarnerMedia]], [[American College of Radiology Association PAC]], [[Raytheon (RTX)]], [[Joe Neguse]], [[Walmart - Walton Family]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Nancy Pelosi]], [[Sara Jacobs]], [[ENVIRONMENT AMERICA INC]], [[Giffords PAC]], [[DMFI - Democratic Majority for Israel]], [[Jason Crow]], [[National Association of Manufacturers]], [[Ted Lieu]], [[Teamsters - International Brotherhood of Teamsters]], [[American Hospital Association PAC]], [[Unite Here Tip Campaign Committee]], [[Let America Vote PAC]], [[National Committee to Preserve Social Security PAC]], [[Progressive Turnout Project]], [[L3Harris Technologies]], [[J Street]], [[VOTER PROTECTION PROJECT]], [[CVS Health - Aetna]], [[Comcast - NBCUniversal]], [[Jamie Raskin]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Anthem - Elevance Health]], [[Pete Aguilar]], [[League of Conservation Voters]], [[DCCC - Democratic Congressional Campaign Committee]], [[Putting People First Political Action Committee]], [[General Dynamics]], [[Planned Parenthood Action Fund INC]], [[Bank of America]], [[Care Action]], [[Amgen Inc]], [[IBEW - International Brotherhood of Electrical Workers]], [[National Education Association]], [[Lockheed Martin]], [[Sierra Club Independent Action]], [[NEA Fund for Children and Public Education]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Honeywell]], [[Everytown for Gun Safety]], [[Northrop Grumman]], [[Medicare for All - The Policy That Broke the Party]], [[BAE Systems]], [[Veronica Escobar]], [[MoveOn.org Political Action]], [[Sierra Club Political Committee]], [[Congressional Leadership Fund]], [[Robert Garcia]], [[Debbie Dingell]], [[AT&T]], [[Honeywell International]], [[Environment America INC]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Voter Protection Project]], [[HMP]], [[Raytheon (RTX Corporation)]], [[REED COMMITTEE]], [[Steny H. Hoyer]], [[CASTOR FOR CONGRESS]], [[JASON CROW FOR CONGRESS]], [[Glenn Ivey]], [[TED LIEU FOR CONGRESS]], [[VERONICA ESCOBAR FOR CONGRESS]], [[SARA JACOBS FOR CONGRESS]], [[ROBERT GARCIA FOR CONGRESS]], [[MARK TAKANO FOR CONGRESS]], [[HIMES FOR CONGRESS]], [[Steve Cohen]], [[Adam Schiff]], [[SHERMAN FOR CONGRESS]], [[Cargill]], [[NANCY PELOSI FOR CONGRESS]], [[Donald S. Beyer]], [[James E. Clyburn]], [[Becca Balint]], [[LOFGREN FOR CONGRESS]], [[DEBBIE DINGELL FOR CONGRESS]], [[Lizzie Fletcher]], [[MEDICARE FOR ALL]], [[National Committee to Preserve Social Security & Medicare PAC]], [[JAMIE RASKIN FOR CONGRESS]], [[Richard Neal]], [[PETE AGUILAR FOR CONGRESS]], [[Hakeem Jeffries]], [[PAUL TONKO FOR CONGRESS]], [[Adam Smith]], [[Robin L. Kelly]], [[JOE NEGUSE FOR CONGRESS]], [[CITIZENS TO ELECT RICK LARSEN]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Counterterrorism and Intelligence
   - Cybersecurity and Infrastructure Protection
   - Energy and Mineral Resources
   - House Committee on Homeland Security
   - House Committee on Natural Resources
-  - "Water, Wildlife and Fisheries"
-total-raised: "$7.0M"
-career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
+  - Water, Wildlife and Fisheries
+total-raised: $7.0M
+career-total-source: FEC weball summary (cycles 2022, 2024, 2026)
 ---
 
 

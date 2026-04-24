@@ -1,39 +1,39 @@
 ---
-title: "J. Luis Correa"
+title: J. Luis Correa
 type: politician
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "California"
-state-abbr: "CA"
+party: Democrat
+chamber: House
+state: California
+state-abbr: CA
 district: "46"
-bioguide-id: "C001110"
+bioguide-id: C001110
 govtrack-id: 412688
 born: "1958-01-24"
-wikidata-id: "Q6685454"
-website: "https://correa.house.gov"
-phone: "202-225-2965"
+wikidata-id: Q6685454
+website: https://correa.house.gov
+phone: 202-225-2965
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-donors: "[[Business Roundtable]]"
+  - No FEC contribution data
+  - No voting record data
+donors: "[[Business Roundtable]], [[Meta - Facebook]], [[Amgen Inc]], [[McDonalds Corporation]], [[Pfizer Inc.]], [[National Association of Manufacturers]], [[TED LIEU FOR CONGRESS]], [[Google - Alphabet]], [[Blue Shield of California]], [[PETE AGUILAR FOR CONGRESS]], [[Cooperative of American Physicians Independent Expenditure Committee]], [[Cargill]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AbbVie]], [[National Restaurant Association]], [[Akin Gump Strauss Hauer & Feld]], [[Sierra Club Political Committee]], [[DoorDash]], [[National Education Association]], [[QUIGLEY FOR CONGRESS]], [[Gilead Sciences]], [[Juan Vargas]], [[AIPAC - American Israel Public Affairs Committee]], [[HIMES FOR CONGRESS]], [[National Association of Realtors]], [[Tyson Foods]], [[CVS Health - Aetna]], [[Richard Neal]], [[American College of Radiology Association PAC]], [[Steny H. Hoyer]], [[GALLEGO FOR ARIZONA]], [[Occidental Petroleum]], [[Williams Companies]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 26
 bills-cosponsored: 331
 bills-enacted: 1
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Border Security and Enforcement
   - Counterterrorism and Intelligence
   - House Committee on Homeland Security
   - House Committee on the Judiciary
-  - "Immigration Integrity, Security, and Enforcement"
-  - "The Administrative State, Regulatory Reform, and Antitrust"
+  - Immigration Integrity, Security, and Enforcement
+  - The Administrative State, Regulatory Reform, and Antitrust
 ---
 
 

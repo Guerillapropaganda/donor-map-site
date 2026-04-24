@@ -11,8 +11,8 @@ fec-committee-id: C00662072
 aliases:
   - DRAIN THE DC SWAMP PAC
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Pete Buttigieg]], [[Marjorie Taylor Greene]], [[Nancy Pelosi]], [[Lauren Boebert]], [[Maria Elvira Salazar]], [[Morgan Luttrell]], [[Mariannette Miller-Meeks]], [[Carlos Gimenez]], [[Alexandria Ocasio-Cortez]], [[Ilhan Omar]], [[James Lankford]], [[Lisa Murkowski]], [[Vivek Ramaswamy]], [[Marcy Kaptur]], [[Rashida Tlaib]], [[Mitt Romney]], [[Susan Collins]], [[Dusty Johnson]], [[Nancy Mace]], [[French Hill]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Pete Buttigieg]], [[Marjorie Taylor Greene]], [[Nancy Pelosi]], [[Lauren Boebert]], [[Maria Elvira Salazar]], [[Morgan Luttrell]], [[Mariannette Miller-Meeks]], [[Carlos Gimenez]], [[Alexandria Ocasio-Cortez]], [[Ilhan Omar]], [[James Lankford]], [[Lisa Murkowski]], [[Vivek Ramaswamy]], [[Marcy Kaptur]], [[Rashida Tlaib]], [[Mitt Romney]], [[Susan Collins]], [[Dusty Johnson]], [[Nancy Mace]], [[French Hill]], [[J. French Hill]], [[D-PLOY IT]], [[GO RIGHT STRATEGIES]], [[Josh Hawley]], [[John James]], [[Donald Trump]]"
 related: "[[Pete Buttigieg]] · [[Marjorie Taylor Greene]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -24,7 +24,7 @@ independent-expenditures: 67600
 individual-contributions: 467
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

@@ -2,8 +2,8 @@
 title: Adriano Espaillat
 type: politician
 content-readiness: draft
-last-updated: 2026-04-19
-central-thesis: "Adriano Espaillat is the Dominican-born NY-13 member whose $2.0M lifetime direct PAC total is overwhelmingly labor-coalition money anchored by the Transit Workers Union ($72K/21 txns), reflecting a district whose working-class residents depend on subway and bus service; the Realtors PAC ($39K/19 txns) is the access anomaly in a district with one of New York City's most active tenant-advocacy communities, and the Fanjul Family (Florida Crystals sugar billionaires, $17.6K in data panel) is the out-of-constituency billionaire agricultural access payment that requires explanation."
+last-updated: 2026-04-19T00:00:00.000Z
+central-thesis: Adriano Espaillat is the Dominican-born NY-13 member whose $2.0M lifetime direct PAC total is overwhelmingly labor-coalition money anchored by the Transit Workers Union ($72K/21 txns), reflecting a district whose working-class residents depend on subway and bus service; the Realtors PAC ($39K/19 txns) is the access anomaly in a district with one of New York City's most active tenant-advocacy communities, and the Fanjul Family (Florida Crystals sugar billionaires, $17.6K in data panel) is the out-of-constituency billionaire agricultural access payment that requires explanation.
 source-tier: 1
 party: Democrat
 chamber: House
@@ -30,14 +30,14 @@ bills-sponsored: 59
 bills-cosponsored: 555
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[Comcast - NBCUniversal]], [[UA Political Action Committee]], [[Gilead Sciences]], [[SEIU COPE]], [[Pete Aguilar]], [[General Motors]], [[Planned Parenthood Votes]], [[Microsoft]], [[DMFI - Democratic Majority for Israel]], [[AIPAC - American Israel Public Affairs Committee]], [[Medicare for All - The Policy That Broke the Party]], [[American Hospital Association PAC]], [[Anthem - Elevance Health]], [[CHC BOLD PAC]], [[American Federation of State County & Municipal Employees P E O P L E]], [[National Association of Realtors]], [[Google - Alphabet]], [[League of Conservation Voters]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[iHeartMedia]], [[IBEW - International Brotherhood of Electrical Workers]], [[Unite Here Tip Campaign Committee]], [[Ted Lieu]], [[Sierra Club Independent Action]], [[CVS Health - Aetna]], [[NEA Fund for Children and Public Education]], [[Nancy Pelosi]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Honeywell]], [[Citigroup]], [[DoorDash]], [[Progressive Turnout Project]], [[Everytown for Gun Safety]], [[Anthem - Elevance Health Political Operation]], [[Open Society Foundations]], [[JPMorgan Chase]], [[DNC - Democratic National Committee]], [[Goldman Sachs]], [[Hospital Corporation of America - HCA]], [[Morgan Stanley]], [[Fanjul Family - Florida Crystals]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Honeywell International]]"
-last-enriched: 2026-04-20
+top-donors: "[[Comcast - NBCUniversal]], [[UA Political Action Committee]], [[Gilead Sciences]], [[SEIU COPE]], [[Pete Aguilar]], [[General Motors]], [[Planned Parenthood Votes]], [[Microsoft]], [[DMFI - Democratic Majority for Israel]], [[AIPAC - American Israel Public Affairs Committee]], [[Medicare for All - The Policy That Broke the Party]], [[American Hospital Association PAC]], [[Anthem - Elevance Health]], [[CHC BOLD PAC]], [[American Federation of State County & Municipal Employees P E O P L E]], [[National Association of Realtors]], [[Google - Alphabet]], [[League of Conservation Voters]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[iHeartMedia]], [[IBEW - International Brotherhood of Electrical Workers]], [[Unite Here Tip Campaign Committee]], [[Ted Lieu]], [[Sierra Club Independent Action]], [[CVS Health - Aetna]], [[NEA Fund for Children and Public Education]], [[Nancy Pelosi]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Honeywell]], [[Citigroup]], [[DoorDash]], [[Progressive Turnout Project]], [[Everytown for Gun Safety]], [[Anthem - Elevance Health Political Operation]], [[Open Society Foundations]], [[JPMorgan Chase]], [[DNC - Democratic National Committee]], [[Goldman Sachs]], [[Hospital Corporation of America - HCA]], [[Morgan Stanley]], [[Fanjul Family - Florida Crystals]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Honeywell International]], [[Hakeem Jeffries]], [[Rosa DeLauro]], [[National Education Association]], [[NANCY PELOSI FOR CONGRESS]], [[Let America Vote PAC]], [[Richard Neal]], [[Pfizer Inc.]], [[TED LIEU FOR CONGRESS]], [[GRACE FOR NEW YORK]], [[MEDICARE FOR ALL]], [[Bobby Scott]], [[Steny H. Hoyer]], [[PETE AGUILAR FOR CONGRESS]], [[James E. Clyburn]]"
+last-enriched: 2026-04-20T00:00:00.000Z
 committees:
   - House Committee on Appropriations
   - Legislative Branch
-  - "Transportation, Housing and Urban Development, and Related Agencies"
-total-raised: "$7.9M"
-career-total-source: "FEC weball summary (cycles 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+  - Transportation, Housing and Urban Development, and Related Agencies
+total-raised: $7.9M
+career-total-source: FEC weball summary (cycles 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

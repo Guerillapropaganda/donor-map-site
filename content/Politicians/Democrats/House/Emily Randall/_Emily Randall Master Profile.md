@@ -20,11 +20,11 @@ source-types:
   - FEC
   - GovTrack
 known-gaps:
-  - "No mapped relationships"
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4WA06117
-top-donors: "[[EQUALITY PROJECT PAC]], [[Walmart - Walton Family]], [[AIPAC - American Israel Public Affairs Committee]], [[Planned Parenthood Action Fund INC]], [[Let America Vote PAC]], [[CHC BOLD PAC]], [[Medicare for All - The Policy That Broke the Party]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[IBEW - International Brotherhood of Electrical Workers]], [[National Association of Realtors]], [[NEA Fund for Children and Public Education]], [[Ted Lieu]], [[RESOLUTE COURAGE PAC]], [[CENTRAL COAST VALUES PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Emily's List]], [[Mark Takano]], [[SEIU COPE]], [[Nancy Pelosi]], [[Teamsters - International Brotherhood of Teamsters]], [[Pfizer Inc.]], [[Google - Alphabet]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Sierra Club Political Committee]], [[Protect Progress]], [[Progressive Turnout Project]], [[Pete Aguilar]], [[Microsoft]], [[League of Conservation Voters]], [[DoorDash]], [[Sierra Club Independent Action]], [[J Street]], [[Oracle]], [[Novo Nordisk]], [[Ford Motor Company]], [[UnitedHealth Group - Optum]], [[Bank of America]], [[Morgan Stanley]], [[Apple]], [[Starbucks]], [[Amazon]], [[Lockheed Martin]], [[Booz Allen Hamilton]], [[Gilead Sciences]], [[Coinbase]], [[Equality Project PAC]], [[Resolute Courage PAC]], [[Central Coast Values PAC]], [[American Federation of State County & Municipal Employees  P E O P L E]]"
-last-enriched: 2026-04-21
+top-donors: "[[EQUALITY PROJECT PAC]], [[Walmart - Walton Family]], [[AIPAC - American Israel Public Affairs Committee]], [[Planned Parenthood Action Fund INC]], [[Let America Vote PAC]], [[CHC BOLD PAC]], [[Medicare for All - The Policy That Broke the Party]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[IBEW - International Brotherhood of Electrical Workers]], [[National Association of Realtors]], [[NEA Fund for Children and Public Education]], [[Ted Lieu]], [[RESOLUTE COURAGE PAC]], [[CENTRAL COAST VALUES PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Emily's List]], [[Mark Takano]], [[SEIU COPE]], [[Nancy Pelosi]], [[Teamsters - International Brotherhood of Teamsters]], [[Pfizer Inc.]], [[Google - Alphabet]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Sierra Club Political Committee]], [[Protect Progress]], [[Progressive Turnout Project]], [[Pete Aguilar]], [[Microsoft]], [[League of Conservation Voters]], [[DoorDash]], [[Sierra Club Independent Action]], [[J Street]], [[Oracle]], [[Novo Nordisk]], [[Ford Motor Company]], [[UnitedHealth Group - Optum]], [[Bank of America]], [[Morgan Stanley]], [[Apple]], [[Starbucks]], [[Amazon]], [[Lockheed Martin]], [[Booz Allen Hamilton]], [[Gilead Sciences]], [[Coinbase]], [[Equality Project PAC]], [[Resolute Courage PAC]], [[Central Coast Values PAC]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[MARK TAKANO FOR CONGRESS]], [[National Education Association]], [[AFL-CIO]], [[NANCY PELOSI FOR CONGRESS]], [[STRICKLAND FOR WASHINGTON]], [[Robin L. Kelly]], [[LOFGREN FOR CONGRESS]], [[HUFFMAN FOR CONGRESS]], [[PETE AGUILAR FOR CONGRESS]], [[CITIZENS TO ELECT RICK LARSEN]], [[MEDICARE FOR ALL]], [[TED LIEU FOR CONGRESS]], [[Bradley Scott Schneider]], [[Becca Balint]], [[Washington Federation of State Employees SSF]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Federal Lands
   - Government Operations
@@ -32,8 +32,8 @@ committees:
   - House Committee on Natural Resources
   - House Committee on Oversight and Government Reform
   - Indian and Insular Affairs
-total-raised: "$2.9M"
-career-total-source: "FEC weball summary (cycles 2024, 2026)"
+total-raised: $2.9M
+career-total-source: FEC weball summary (cycles 2024, 2026)
 bills-sponsored: 11
 corroboration-count: 3
 ---

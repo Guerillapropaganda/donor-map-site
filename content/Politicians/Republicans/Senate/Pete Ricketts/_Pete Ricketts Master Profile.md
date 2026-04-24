@@ -2,7 +2,7 @@
 title: Pete Ricketts
 type: politician
 content-readiness: draft
-last-updated: 2026-04-19
+last-updated: 2026-04-19T00:00:00.000Z
 source-tier: 1
 party: Republican
 chamber: Senate
@@ -21,7 +21,7 @@ known-gaps:
   - Ricketts family net worth and Ameritrade/Schwab stake values not yet in vault
   - USA Super PAC ($450K) and Defending Our Values PAC ($251K) donor composition not verified
   - Alabama First PAC context (which senator's leadership PAC?) not confirmed
-central-thesis: "Pete Ricketts is the Nebraska governor who appointed himself senator when Ben Sasse vacated the seat, then won the 2024 election for the full term. His family founded TD Ameritrade (merged into Charles Schwab, which appears in his donor list), owns the Chicago Cubs, and has a net worth that dwarfs his $2.1M in direct PAC lifetime giving. Apollo Global Management and Citadel/Kenneth Griffin in his donor map are billionaire-network giving with no Nebraska constituency justification. International Affairs is his top legislative policy area (66 bills), reflecting a China-hawk positioning for a senator from an agricultural state."
+central-thesis: Pete Ricketts is the Nebraska governor who appointed himself senator when Ben Sasse vacated the seat, then won the 2024 election for the full term. His family founded TD Ameritrade (merged into Charles Schwab, which appears in his donor list), owns the Chicago Cubs, and has a net worth that dwarfs his $2.1M in direct PAC lifetime giving. Apollo Global Management and Citadel/Kenneth Griffin in his donor map are billionaire-network giving with no Nebraska constituency justification. International Affairs is his top legislative policy area (66 bills), reflecting a China-hawk positioning for a senator from an agricultural state.
 editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: S6NE00129
@@ -29,24 +29,24 @@ bills-sponsored: 30
 bills-cosponsored: 373
 bills-enacted: 0
 top-policy-area: International Affairs
-top-donors: "[[Common Sense for America PAC]], [[General Dynamics]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Google - Alphabet]], [[Morgan Stanley]], [[Walmart - Walton Family]], [[Raytheon (RTX)]], [[Chevron]], [[National Association of Realtors]], [[National Multifamily Housing Council]], [[Performance Racing Inc.]], [[Associated General Contractors of America Political Action Committee]], [[Lockheed Martin]], [[CoreCivic - Private Prisons]], [[Microsoft]], [[National Right to Life Victory Fund]], [[NextEra Energy]], [[Club for Growth INC PAC]], [[Nucor Corporation]], [[ConocoPhillips]], [[Comcast - NBCUniversal]], [[National Restaurant Association]], [[Pfizer Inc.]], [[Adrian Smith]], [[ADM - Archer Daniels Midland]], [[General Motors]], [[National Cattlemen's Beef Association]], [[National Rifle Association]], [[Devon Energy]], [[Valero Energy]], [[Occidental Petroleum]], [[NRSC - National Republican Senatorial Committee]], [[American Hospital Association PAC]], [[Don Bacon]], [[WinRed]], [[Amgen Inc]], [[Apollo Global Management]], [[American Petroleum Institute]], [[Koch Industries]], [[Charles Schwab]], [[Meta - Facebook]], [[Goldman Sachs]], [[Citadel - Kenneth Griffin]]"
-last-enriched: 2026-04-20
+top-donors: "[[Common Sense for America PAC]], [[General Dynamics]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Google - Alphabet]], [[Morgan Stanley]], [[Walmart - Walton Family]], [[Raytheon (RTX)]], [[Chevron]], [[National Association of Realtors]], [[National Multifamily Housing Council]], [[Performance Racing Inc.]], [[Associated General Contractors of America Political Action Committee]], [[Lockheed Martin]], [[CoreCivic - Private Prisons]], [[Microsoft]], [[National Right to Life Victory Fund]], [[NextEra Energy]], [[Club for Growth INC PAC]], [[Nucor Corporation]], [[ConocoPhillips]], [[Comcast - NBCUniversal]], [[National Restaurant Association]], [[Pfizer Inc.]], [[Adrian Smith]], [[ADM - Archer Daniels Midland]], [[General Motors]], [[National Cattlemen's Beef Association]], [[National Rifle Association]], [[Devon Energy]], [[Valero Energy]], [[Occidental Petroleum]], [[NRSC - National Republican Senatorial Committee]], [[American Hospital Association PAC]], [[Don Bacon]], [[WinRed]], [[Amgen Inc]], [[Apollo Global Management]], [[American Petroleum Institute]], [[Koch Industries]], [[Charles Schwab]], [[Meta - Facebook]], [[Goldman Sachs]], [[Citadel - Kenneth Griffin]], [[Raytheon (RTX Corporation)]], [[National Republican Senatorial Committee]], [[PETE RICKETTS FOR SENATE]], [[NRA Political Victory Fund]], [[Cargill]], [[Chuck Hagel]], [[DON BACON FOR CONGRESS]], [[CoreCivic]], [[DANIEL WEBSTER PAC]], [[Senate Majority PAC]], [[ADRIAN SMITH FOR CONGRESS]]"
+last-enriched: 2026-04-20T00:00:00.000Z
 committees:
-  - "Clean Air, Climate, and Nuclear Innovation and Safety"
-  - "East Asia, the Pacific, and International Cybersecurity Policy"
+  - Clean Air, Climate, and Nuclear Innovation and Safety
+  - East Asia, the Pacific, and International Cybersecurity Policy
   - Economic Policy
   - Europe and Regional Security Cooperation
   - Financial Institutions and Consumer Protection
-  - "Fisheries, Wildlife, and Water"
+  - Fisheries, Wildlife, and Water
   - National Security and International Trade and Finance
-  - "Senate Committee on Banking, Housing, and Urban Affairs"
+  - Senate Committee on Banking, Housing, and Urban Affairs
   - Senate Committee on Environment and Public Works
   - Senate Committee on Foreign Relations
   - Senate Committee on the Budget
-  - "State Department and USAID Management, International Operations, and Bilateral International Development"
+  - State Department and USAID Management, International Operations, and Bilateral International Development
   - Transportation and Infrastructure
-total-raised: "$24.1M"
-career-total-source: "FEC weball summary (cycles 2006, 2008, 2024, 2026)"
+total-raised: $24.1M
+career-total-source: FEC weball summary (cycles 2006, 2008, 2024, 2026)
 ---
 
 

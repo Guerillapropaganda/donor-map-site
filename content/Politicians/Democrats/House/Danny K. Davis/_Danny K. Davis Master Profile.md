@@ -1,32 +1,32 @@
 ---
-title: "Danny K. Davis"
+title: Danny K. Davis
 type: politician
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Illinois"
-state-abbr: "IL"
+party: Democrat
+chamber: House
+state: Illinois
+state-abbr: IL
 district: "7"
-bioguide-id: "D000096"
+bioguide-id: D000096
 govtrack-id: 400093
 born: "1941-09-06"
-wikidata-id: "Q1164657"
-website: "https://davis.house.gov"
-phone: "202-225-5006"
+wikidata-id: Q1164657
+website: https://davis.house.gov
+phone: 202-225-5006
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-donors: "[[CA Farm Bureau Federation]]"
+  - No FEC contribution data
+  - No voting record data
+donors: "[[CA Farm Bureau Federation]], [[American College of Radiology Association PAC]], [[J Street]], [[NANCY PELOSI FOR CONGRESS]], [[Pfizer Inc.]], [[McDonalds Corporation]], [[Google - Alphabet]], [[Amgen Inc]], [[National Education Association]], [[Donald S. Beyer]], [[Richard Neal]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AbbVie]], [[Bradley Scott Schneider]], [[AFL-CIO]], [[ADM - Archer Daniels Midland]], [[Planned Parenthood Action Fund INC]], [[Al Green]], [[Opportunity for All Action Fund]], [[American Gaming Association]], [[Hakeem Jeffries]], [[Humana]], [[Sierra Club Political Committee]], [[Robin L. Kelly]], [[JUDY CHU FOR CONGRESS]], [[National Restaurant Association]], [[DOGGETT FOR U S CONGRESS COMMITTEE]], [[Southern Company]], [[Alma S. Adams]], [[STEPHEN LYNCH FOR CONGRESS]], [[Akin Gump Strauss Hauer & Feld]], [[Tyson Foods]], [[MEDICARE FOR ALL]], [[GEO Group - Private Prison Industrial Complex]], [[TED LIEU FOR CONGRESS]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 40
 bills-cosponsored: 572
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Health
   - House Committee on Ways and Means

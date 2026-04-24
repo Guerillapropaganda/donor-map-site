@@ -1,20 +1,21 @@
 ---
-title: "Dan Coats"
+title: Dan Coats
 type: politician
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "Director of National Intelligence (2017-2019)"
+party: Republican
+chamber: Director of National Intelligence (2017-2019)
 known-gaps:
-  - "No voting record data"
-  - "No mapped relationships"
+  - No voting record data
+  - No mapped relationships
 source-types:
   - Congress
   - FEC
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 corroboration-count: 2
+top-donors: "[[Pfizer Inc.]], [[Nucor Corporation]], [[Senate Majority PAC]], [[Occidental Petroleum]], [[Anthem - Elevance Health Political Operation]], [[National Cattlemen's Beef Association]], [[Humana]], [[National Republican Senatorial Committee]], [[Amgen Inc]], [[National Right to Life PAC]], [[ADM - Archer Daniels Midland]], [[Associated General Contractors of America Political Action Committee]], [[Koch Industries]], [[Republican Jewish Coalition]], [[English Language Political Action Committee]], [[Cargill]], [[Meta - Facebook]], [[Google - Alphabet]], [[Leidos]], [[Monsanto - Bayer]], [[Campaign for Working Families]], [[Akin Gump Strauss Hauer & Feld]], [[McDonalds Corporation]], [[National Restaurant Association]], [[GEO Group - Private Prison Industrial Complex]], [[American Iron and Steel Institute]], [[Southern Company]], [[Citigroup]], [[NRA Political Victory Fund]]"
 ---
 
 

@@ -18,17 +18,17 @@ phone: 202-225-5031
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H8MS03125
 bills-sponsored: 16
 bills-cosponsored: 361
 bills-enacted: 1
 top-policy-area: International Affairs
-top-donors: "[[Associated General Contractors of America Political Action Committee]], [[National Rifle Association]], [[Care Action]], [[General Dynamics]], [[MAJORITY PAC]], [[CoreCivic - Private Prisons]], [[Marathon Petroleum]], [[Northrop Grumman]], [[Tyson Foods]], [[Nucor Corporation]], [[Honeywell]], [[National Association of Realtors]], [[American Hospital Association PAC]], [[PG&E - Pacific Gas and Electric]], [[Byron Donalds]], [[Chevron]], [[Lockheed Martin]], [[AT&T - WarnerMedia]], [[David Rouzer]], [[iHeartMedia]], [[Austin Scott]], [[AIPAC - American Israel Public Affairs Committee]], [[Walmart - Walton Family]], [[Leidos]], [[Raytheon (RTX)]], [[Comcast - NBCUniversal]], [[Jake Ellzey]], [[General Motors]], [[WinRed]], [[American Chemistry Council, INC]], [[Congressional Leadership Fund]], [[National Cattlemen's Beef Association]], [[Ben Cline]], [[Jason Smith]], [[Majority PAC]], [[Honeywell International]], [[AT&T]]"
-last-enriched: 2026-04-21
+top-donors: "[[Associated General Contractors of America Political Action Committee]], [[National Rifle Association]], [[Care Action]], [[General Dynamics]], [[MAJORITY PAC]], [[CoreCivic - Private Prisons]], [[Marathon Petroleum]], [[Northrop Grumman]], [[Tyson Foods]], [[Nucor Corporation]], [[Honeywell]], [[National Association of Realtors]], [[American Hospital Association PAC]], [[PG&E - Pacific Gas and Electric]], [[Byron Donalds]], [[Chevron]], [[Lockheed Martin]], [[AT&T - WarnerMedia]], [[David Rouzer]], [[iHeartMedia]], [[Austin Scott]], [[AIPAC - American Israel Public Affairs Committee]], [[Walmart - Walton Family]], [[Leidos]], [[Raytheon (RTX)]], [[Comcast - NBCUniversal]], [[Jake Ellzey]], [[General Motors]], [[WinRed]], [[American Chemistry Council, INC]], [[Congressional Leadership Fund]], [[National Cattlemen's Beef Association]], [[Ben Cline]], [[Jason Smith]], [[Majority PAC]], [[Honeywell International]], [[AT&T]], [[Raytheon (RTX Corporation)]], [[JASON SMITH FOR CONGRESS]], [[Koch Industries]], [[Steve Scalise]], [[Rick Crawford]], [[Williams Companies]], [[NRA Political Victory Fund]], [[GEO Group - Private Prison Industrial Complex]], [[JAKE ELLZEY FOR CONGRESS]], [[TEXANS FOR JODEY ARRINGTON]], [[CoreCivic]], [[DAVID ROUZER FOR CONGRESS]], [[BEN CLINE FOR CONGRESS, INC.]], [[ROBERT ADERHOLT FOR CONGRESS]], [[Darin Lahood]], [[BYRON DONALDS FOR CONGRESS]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[William R. Timmons]], [[Tom Emmer]], [[MCCAUL FOR CONGRESS, INC]], [[JOE WILSON FOR CONGRESS]], [[Guy Reschenthaler]], [[BURCHETT FOR CONGRESS]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Border Security and Enforcement
   - Energy and Water Development and Related Agencies
@@ -36,9 +36,9 @@ committees:
   - House Committee on Appropriations
   - House Committee on Ethics
   - House Committee on Homeland Security
-  - "Military Construction, Veterans Affairs, and Related Agencies"
-total-raised: "$4.8M"
-career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
+  - Military Construction, Veterans Affairs, and Related Agencies
+total-raised: $4.8M
+career-total-source: FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)
 ---
 
 

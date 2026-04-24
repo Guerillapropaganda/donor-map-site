@@ -1,38 +1,39 @@
 ---
-title: "Neal P. Dunn"
+title: Neal P. Dunn
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Florida"
-state-abbr: "FL"
+party: Republican
+chamber: House
+state: Florida
+state-abbr: FL
 district: "2"
-bioguide-id: "D000628"
+bioguide-id: D000628
 govtrack-id: 412691
 born: "1953-02-16"
-wikidata-id: "Q27733851"
-website: "https://dunn.house.gov"
-phone: "202-225-5235"
+wikidata-id: Q27733851
+website: https://dunn.house.gov
+phone: 202-225-5235
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 21
 bills-cosponsored: 370
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Commerce, Manufacturing, and Trade"
+  - Commerce, Manufacturing, and Trade
   - Communications and Technology
   - Health
   - House Committee on Energy and Commerce
   - House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party
+top-donors: "[[NRA Political Victory Fund]], [[Southern Company]], [[National Restaurant Association]], [[Pfizer Inc.]], [[Tzedek PAC]], [[Darin Lahood]], [[AbbVie]], [[National Cattlemen's Beef Association]], [[Amgen Inc]], [[Gilead Sciences]], [[Koch Industries]], [[AIPAC - American Israel Public Affairs Committee]], [[Associated General Contractors of America Political Action Committee]], [[American College of Radiology Association PAC]], [[Steve Scalise]], [[Tom Emmer]], [[Kevin McCarthy]], [[Mike Haridopolos]], [[Richard Hudson]], [[BEN CLINE FOR CONGRESS, INC.]], [[JIM JORDAN FOR CONGRESS]], [[Williams Companies]], [[Humana]], [[DAVID ROUZER FOR CONGRESS]], [[Elise Stefanik]], [[Paul Ryan]], [[Roger Marshall]], [[Brett Guthrie]], [[Tim Walberg]], [[Performance Racing Inc.]], [[Campaign for Working Families]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[Guy Reschenthaler]], [[Rick Crawford]], [[JASON SMITH FOR CONGRESS]], [[AUGUST PFLUGER FOR CONGRESS]], [[North Florida Neighbors]], [[TEXANS FOR JODEY ARRINGTON]], [[ANDY HARRIS FOR CONGRESS]], [[ESAFUND]]"
 ---
 
 

@@ -18,17 +18,17 @@ phone: 202-225-1621
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2MO02102
 bills-sponsored: 24
 bills-cosponsored: 158
 bills-enacted: 1
 top-policy-area: International Affairs
-top-donors: "[[AT&T - WarnerMedia]], [[AIPAC - American Israel Public Affairs Committee]], [[Morgan Stanley]], [[Citigroup]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[CVS Health - Aetna]], [[National Rifle Association]], [[Coinbase]], [[Pfizer Inc.]], [[WinRed]], [[National Multifamily Housing Council]], [[Microsoft]], [[Adrian Smith]], [[Bank of America]], [[Raytheon (RTX)]], [[Anthem - Elevance Health]], [[Ford Motor Company]], [[Victoria Spartz]], [[American Hospital Association PAC]], [[Chevron]], [[National Association of Realtors]], [[August Pfluger]], [[Women Speak Out Pac]], [[Johnson & Johnson]], [[Airbnb]], [[Heartland Resurgence]], [[General Motors]], [[Walmart - Walton Family]], [[Comcast - NBCUniversal]], [[Associated General Contractors of America Political Action Committee]], [[Planned Parenthood Votes]], [[AbbVie]], [[JPAC - Jewish Public Affairs Committee of California]], [[Wfw Action Fund, Inc.]], [[Honeywell]], [[Lockheed Martin]], [[Darrell Issa]], [[General Dynamics]], [[Tenet Healthcare]], [[Duke Energy]], [[National Association of Manufacturers]], [[Leidos]], [[VIEW PAC - Value in Electing Women]], [[Byron Donalds]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Boeing]], [[Blackstone Group]], [[Monsanto - Bayer]], [[US CHAMBER OF COMMERCE]], [[Centene Corporation]], [[News Corp - Fox Corporation]], [[CoreCivic]], [[UPS]], [[iHeartMedia]], [[Charles Schwab]], [[Elliott Management]], [[AT&T]], [[RNC - Republican National Committee]], [[Wells Fargo]], [[Ballard Partners]], [[Citadel - Kenneth Griffin]], [[Carlyle Group]], [[Cigna Group]], [[Apollo Global Management]], [[a16z - Andreessen Horowitz]], [[Honeywell International]], [[US Chamber of Commerce]]"
-last-enriched: 2026-04-21
+top-donors: "[[AT&T - WarnerMedia]], [[AIPAC - American Israel Public Affairs Committee]], [[Morgan Stanley]], [[Citigroup]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[CVS Health - Aetna]], [[National Rifle Association]], [[Coinbase]], [[Pfizer Inc.]], [[WinRed]], [[National Multifamily Housing Council]], [[Microsoft]], [[Adrian Smith]], [[Bank of America]], [[Raytheon (RTX)]], [[Anthem - Elevance Health]], [[Ford Motor Company]], [[Victoria Spartz]], [[American Hospital Association PAC]], [[Chevron]], [[National Association of Realtors]], [[August Pfluger]], [[Women Speak Out Pac]], [[Johnson & Johnson]], [[Airbnb]], [[Heartland Resurgence]], [[General Motors]], [[Walmart - Walton Family]], [[Comcast - NBCUniversal]], [[Associated General Contractors of America Political Action Committee]], [[Planned Parenthood Votes]], [[AbbVie]], [[JPAC - Jewish Public Affairs Committee of California]], [[Wfw Action Fund, Inc.]], [[Honeywell]], [[Lockheed Martin]], [[Darrell Issa]], [[General Dynamics]], [[Tenet Healthcare]], [[Duke Energy]], [[National Association of Manufacturers]], [[Leidos]], [[VIEW PAC - Value in Electing Women]], [[Byron Donalds]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Boeing]], [[Blackstone Group]], [[Monsanto - Bayer]], [[US CHAMBER OF COMMERCE]], [[Centene Corporation]], [[News Corp - Fox Corporation]], [[CoreCivic]], [[UPS]], [[iHeartMedia]], [[Charles Schwab]], [[Elliott Management]], [[AT&T]], [[RNC - Republican National Committee]], [[Wells Fargo]], [[Ballard Partners]], [[Citadel - Kenneth Griffin]], [[Carlyle Group]], [[Cigna Group]], [[Apollo Global Management]], [[a16z - Andreessen Horowitz]], [[Honeywell International]], [[US Chamber of Commerce]], [[Raytheon (RTX Corporation)]], [[Steve Scalise]], [[National Right to Life Victory Fund]], [[Republican Jewish Coalition]], [[GARY PALMER FOR CONGRESS]], [[Frank Lucas]], [[Southern Company]], [[ADRIAN SMITH FOR CONGRESS]], [[Roger Marshall]], [[DR. BRIAN BABIN FOR CONGRESS]], [[American College of Radiology Association PAC]], [[National Cattlemen's Beef Association]], [[National Restaurant Association]], [[ADM - Archer Daniels Midland]], [[John W. Rose]], [[DAVID ROUZER FOR CONGRESS]], [[MCCAUL FOR CONGRESS, INC]], [[TEXANS FOR JODEY ARRINGTON]], [[Koch Industries]], [[NRA Political Victory Fund]], [[American Gaming Association]], [[KAY GRANGER CAMPAIGN FUND]], [[Williams Companies]], [[Sam Graves]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[Cargill]], [[Richard Hudson]], [[BLAKE MOORE FOR CONGRESS]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[JASON SMITH FOR CONGRESS]], [[Glenn Thompson]], [[National Right to Life PAC]], [[Humana]], [[CLAUDIA TENNEY FOR CONGRESS]], [[BYRON DONALDS FOR CONGRESS]], [[Brett Guthrie]], [[Pete Sessions]], [[Paul Ryan]], [[Daniel Meuser]], [[Rick Crawford]], [[JOE WILSON FOR CONGRESS]], [[Carol D. Miller]], [[VICTORIA SPARTZ FOR CONGRESS]], [[Google - Alphabet]], [[PETE SESSIONS FOR CONGRESS]], [[AUGUST PFLUGER FOR CONGRESS]], [[Darin Lahood]], [[Campaign for Working Families]], [[John Boehner]], [[FreedomWorks for America]], [[Mariannette Miller-Meeks]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Capital Markets
   - House Committee on Financial Services
@@ -36,8 +36,8 @@ committees:
   - National Intelligence Enterprise
   - Open Source Intelligence
   - Oversight and Investigations
-total-raised: "$28.2M"
-career-total-source: "FEC weball summary (cycles 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+total-raised: $28.2M
+career-total-source: FEC weball summary (cycles 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

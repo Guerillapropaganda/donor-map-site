@@ -1,37 +1,38 @@
 ---
-title: "John W. Mannion"
+title: John W. Mannion
 type: politician
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "New York"
-state-abbr: "NY"
+party: Democrat
+chamber: House
+state: New York
+state-abbr: NY
 district: "22"
-bioguide-id: "M001231"
+bioguide-id: M001231
 govtrack-id: 457013
 born: "1968-07-08"
-wikidata-id: "Q106089566"
-website: "https://mannion.house.gov"
-phone: "202-225-3701"
+wikidata-id: Q106089566
+website: https://mannion.house.gov
+phone: 202-225-3701
 source-types:
   - Congress
   - GovTrack
 known-gaps:
-  - "No FEC contribution data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Commodity Markets, Digital Assets, and Rural Development"
-  - "Conservation, Research, and Biotechnology"
-  - "Early Childhood, Elementary, and Secondary Education"
-  - "Health, Employment, Labor, and Pensions"
+  - Commodity Markets, Digital Assets, and Rural Development
+  - Conservation, Research, and Biotechnology
+  - Early Childhood, Elementary, and Secondary Education
+  - Health, Employment, Labor, and Pensions
   - House Committee on Agriculture
   - House Committee on Education and Workforce
 bills-sponsored: 6
 corroboration-count: 2
+top-donors: "[[Leidos]], [[Bradley Scott Schneider]], [[Richard Neal]], [[J Street]], [[Let America Vote PAC]], [[PETE AGUILAR FOR CONGRESS]], [[Donald S. Beyer]], [[GRACE FOR NEW YORK]], [[NIKKI FOR CONGRESS]], [[JAKE AUCHINCLOSS FOR CONGRESS]], [[AFL-CIO]], [[National Cattlemen's Beef Association]], [[Robert Garcia]], [[Janice D. Schakowsky]], [[STRICKLAND FOR WASHINGTON]], [[BILL FOSTER FOR CONGRESS]], [[SHARICE FOR CONGRESS]], [[NANCY PELOSI FOR CONGRESS]], [[BARRAGAN FOR CONGRESS]], [[LUZ RIVAS FOR CONGRESS]], [[Working Families Party PAC]], [[DEBORAH ROSS FOR CONGRESS]], [[KATHERINE CLARK FOR CONGRESS]], [[Maxwell Frost]], [[National Education Association]], [[SHERMAN FOR CONGRESS]], [[TED LIEU FOR CONGRESS]], [[Sierra Club Political Committee]], [[JOE NEGUSE FOR CONGRESS]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Nurses United]], [[JUDY CHU FOR CONGRESS]], [[JULIA BROWNLEY FOR CONGRESS]], [[KENNEDY FOR CONGRESS]], [[Giffords PAC]], [[DIANA DEGETTE FOR CONGRESS]], [[Sarah Elfreth]], [[Planned Parenthood Action Fund INC]], [[League of Conservation Voters]], [[Activate America]], [[Nucor Corporation]], [[LANDSMAN FOR CONGRESS]], [[Kim Schrier]], [[Gregory Meeks]], [[Joseph Morelle]], [[HIMES FOR CONGRESS]], [[Suzan K. Delbene]], [[MARK KELLY FOR SENATE]], [[Yvette D. Clarke]], [[AFSCME Working Families Fund]], [[PAUL TONKO FOR CONGRESS]], [[JASON CROW FOR CONGRESS]], [[LOFGREN FOR CONGRESS]], [[Mary Gay Scanlon]], [[NEA Advocacy Fund]], [[ROBERT GARCIA FOR CONGRESS]], [[STANTON FOR CONGRESS]]"
 ---
 
 

@@ -25,18 +25,18 @@ source-types:
   - Congress
 corroboration-count: 2
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
+  - No FEC contribution data
+  - No voting record data
 related: "[[Lockheed Martin]] · [[Boeing]]"
-donors: "[[Boeing]] · [[Oil & Gas PACs]] · [[Congressional Leadership Fund]] · [[NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE]] · [[Lockheed Martin]] · [[WFW ACTION FUND, INC.]] · [[Wfw Action Fund, Inc.]] · [[Protect Freedom Political Action Committee]] · [[ConocoPhillips]] · [[Honeywell]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Anthem - Elevance Health]] · [[L3Harris Technologies]] · [[National Multifamily Housing Council]] · [[Chevron]] · [[Leidos]] · [[MAJORITY PAC]] · [[Comcast - NBCUniversal]] · [[National Association of Realtors]] · [[General Motors]] · [[iHeartMedia]] · [[AT&T - WarnerMedia]] · [[Raytheon (RTX)]] · [[Halliburton]] · [[Google - Alphabet]] · [[BAE Systems]] · [[WinRed]] · [[Northrop Grumman]] · [[McDonalds Corporation]] · [[PG&E - Pacific Gas and Electric]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[National Cattlemen's Beef Association]] · [[American College of Radiology Association PAC]] · [[Johnson & Johnson]] · [[Associated General Contractors of America Political Action Committee]] · [[Tyson Foods]] · [[National Rental Home Council]] · [[VIEW PAC - Value in Electing Women]] · [[National Restaurant Association]] · [[Bank of America]] · [[American Hospital Association PAC]] · [[Walmart - Walton Family]] · [[Marathon Petroleum]] · [[Really American Pac]] · [[National Rifle Association]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Save America PAC]] · [[Duke Energy]] · [[Microsoft]] · [[General Dynamics]] · [[Honeywell International]] · [[Majority PAC]] · [[AT&T]]"
+donors: "[[Boeing]] · [[Oil & Gas PACs]] · [[Congressional Leadership Fund]] · [[NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE]] · [[Lockheed Martin]] · [[WFW ACTION FUND, INC.]] · [[Wfw Action Fund, Inc.]] · [[Protect Freedom Political Action Committee]] · [[ConocoPhillips]] · [[Honeywell]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Anthem - Elevance Health]] · [[L3Harris Technologies]] · [[National Multifamily Housing Council]] · [[Chevron]] · [[Leidos]] · [[MAJORITY PAC]] · [[Comcast - NBCUniversal]] · [[National Association of Realtors]] · [[General Motors]] · [[iHeartMedia]] · [[AT&T - WarnerMedia]] · [[Raytheon (RTX)]] · [[Halliburton]] · [[Google - Alphabet]] · [[BAE Systems]] · [[WinRed]] · [[Northrop Grumman]] · [[McDonalds Corporation]] · [[PG&E - Pacific Gas and Electric]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[National Cattlemen's Beef Association]] · [[American College of Radiology Association PAC]] · [[Johnson & Johnson]] · [[Associated General Contractors of America Political Action Committee]] · [[Tyson Foods]] · [[National Rental Home Council]] · [[VIEW PAC - Value in Electing Women]] · [[National Restaurant Association]] · [[Bank of America]] · [[American Hospital Association PAC]] · [[Walmart - Walton Family]] · [[Marathon Petroleum]] · [[Really American Pac]] · [[National Rifle Association]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Save America PAC]] · [[Duke Energy]] · [[Microsoft]] · [[General Dynamics]] · [[Honeywell International]] · [[Majority PAC]] · [[AT&T]] · [[Raytheon (RTX Corporation)]] · [[DR JOHN JOYCE FOR CONGRESS]] · [[Daniel Meuser]] · [[Michael R. Turner]] · [[NRA Political Victory Fund]] · [[Cargill]] · [[MARIO DIAZ-BALART FOR CONGRESS]] · [[Southern Company]] · [[ADRIAN SMITH FOR CONGRESS]] · [[Care Action]] · [[Pfizer Inc.]] · [[CITIZENS FOR JOHN RUTHERFORD]] · [[Paul Ryan]] · [[Williams Companies]] · [[MBNA Corporation]] · [[Steve Scalise]] · [[TEXANS FOR JODEY ARRINGTON]] · [[Koch Industries]] · [[Bechtel Corporation]] · [[Steve Womack]] · [[Gregory F. Murphy]] · [[Occidental Petroleum]] · [[PETE SESSIONS FOR CONGRESS]] · [[Kevin McCarthy]] · [[Guy Reschenthaler]] · [[GEO Group - Private Prison Industrial Complex]] · [[Akin Gump Strauss Hauer & Feld]] · [[Dan Newhouse]] · [[COLE FOR CONGRESS]] · [[AUSTIN SCOTT FOR CONGRESS INC]] · [[CoreCivic]] · [[Amgen Inc]] · [[Rick Crawford]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 8
 bills-cosponsored: 108
 bills-enacted: 1
 top-policy-area: International Affairs
-last-enriched: 2026-04-20
-total-raised: "$21.3M"
-career-total-source: "FEC weball summary (cycles 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+last-enriched: 2026-04-20T00:00:00.000Z
+total-raised: $21.3M
+career-total-source: FEC weball summary (cycles 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

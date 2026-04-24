@@ -1,41 +1,42 @@
 ---
-title: "Troy E. Nehls"
+title: Troy E. Nehls
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Texas"
-state-abbr: "TX"
+party: Republican
+chamber: House
+state: Texas
+state-abbr: TX
 district: "22"
-bioguide-id: "N000026"
+bioguide-id: N000026
 govtrack-id: 456848
 born: "1968-04-07"
-wikidata-id: "Q96741441"
-website: "https://nehls.house.gov"
-phone: "202-225-5951"
+wikidata-id: Q96741441
+website: https://nehls.house.gov
+phone: 202-225-5951
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 33
 bills-cosponsored: 361
 bills-enacted: 0
-top-policy-area: "Crime and Law Enforcement"
-last-enriched: 2026-04-21
+top-policy-area: Crime and Law Enforcement
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Aviation
   - Crime and Federal Government Surveillance
   - Highways and Transit
   - House Committee on Transportation and Infrastructure
   - House Committee on the Judiciary
-  - "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
-  - "Immigration Integrity, Security, and Enforcement"
-  - "Railroads, Pipelines, and Hazardous Materials"
+  - House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021
+  - Immigration Integrity, Security, and Enforcement
+  - Railroads, Pipelines, and Hazardous Materials
+top-donors: "[[Tyson Foods]], [[NRA Political Victory Fund]], [[Glenn Thompson]], [[National Cattlemen's Beef Association]], [[Occidental Petroleum]], [[DAVID ROUZER FOR CONGRESS]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[Williams Companies]], [[Leidos]], [[Republican Jewish Coalition]], [[AIPAC - American Israel Public Affairs Committee]], [[DR JOHN JOYCE FOR CONGRESS]], [[GEO Group - Private Prison Industrial Complex]], [[John W. Rose]], [[ADRIAN SMITH FOR CONGRESS]], [[Kevin McCarthy]], [[Steve Scalise]], [[JIM JORDAN FOR CONGRESS]], [[John R. Carter]], [[Women Speak Out Pac]], [[Carol D. Miller]], [[Rick Crawford]], [[Guy Reschenthaler]], [[Associated General Contractors of America Political Action Committee]], [[BEN CLINE FOR CONGRESS, INC.]], [[GARY PALMER FOR CONGRESS]], [[TEXANS FOR JODEY ARRINGTON]], [[CLYDE FOR CONGRESS, INC.]], [[DR. BRIAN BABIN FOR CONGRESS]], [[RON ESTES FOR CONGRESS]], [[Freedom's Defense Fund]], [[JASON SMITH FOR CONGRESS]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Pete Sessions]]"
 ---
 
 

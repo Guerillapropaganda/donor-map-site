@@ -18,17 +18,17 @@ phone: 202-225-5665
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4WI08119
 bills-sponsored: 15
 bills-cosponsored: 5
 bills-enacted: 0
 top-policy-area: Taxation
-top-donors: "[[National Restaurant Association]], [[AT&T - WarnerMedia]], [[National Cattlemen's Beef Association]], [[Walmart - Walton Family]], [[Troy Downing]], [[General Dynamics]], [[David Rouzer]], [[Mike Haridopolos]], [[Chevron]], [[MAJORITY PAC]], [[National Association of Realtors]], [[Lockheed Martin]], [[AIPAC - American Israel Public Affairs Committee]], [[National Rifle Association]], [[Austin Scott]], [[Jim Jordan]], [[Honeywell]], [[Associated General Contractors of America Political Action Committee]], [[Leidos]], [[National Right to Life Victory Fund]], [[Bradley Foundation]], [[Blackstone Group]], [[SpaceX]], [[CVS Health - Aetna]], [[Charles Schwab]], [[AT&T]], [[Majority PAC]], [[Honeywell International]]"
-last-enriched: 2026-04-21
+top-donors: "[[National Restaurant Association]], [[AT&T - WarnerMedia]], [[National Cattlemen's Beef Association]], [[Walmart - Walton Family]], [[Troy Downing]], [[General Dynamics]], [[David Rouzer]], [[Mike Haridopolos]], [[Chevron]], [[MAJORITY PAC]], [[National Association of Realtors]], [[Lockheed Martin]], [[AIPAC - American Israel Public Affairs Committee]], [[National Rifle Association]], [[Austin Scott]], [[Jim Jordan]], [[Honeywell]], [[Associated General Contractors of America Political Action Committee]], [[Leidos]], [[National Right to Life Victory Fund]], [[Bradley Foundation]], [[Blackstone Group]], [[SpaceX]], [[CVS Health - Aetna]], [[Charles Schwab]], [[AT&T]], [[Majority PAC]], [[Honeywell International]], [[NRA Political Victory Fund]], [[Mike Johnson]], [[Guy Reschenthaler]], [[JIM JORDAN FOR CONGRESS]], [[TROY DOWNING FOR CONGRESS]], [[BLAKE MOORE FOR CONGRESS]], [[Steve Scalise]], [[DAVID ROUZER FOR CONGRESS]], [[Frank Lucas]], [[Tom Emmer]], [[Carol D. Miller]], [[David P. Joyce]], [[MIKE HARIDOPOLOS FOR CONGRESS]], [[Koch Industries]], [[Brett Guthrie]], [[LISA MCCLAIN FOR CONGRESS]], [[Williams Companies]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[BRANDON GILL FOR TEXAS]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Aviation
   - Forestry and Horticulture
@@ -36,13 +36,13 @@ committees:
   - House Committee on Agriculture
   - House Committee on Small Business
   - House Committee on Transportation and Infrastructure
-  - "Innovation, Entrepreneurship, and Workforce Development"
-  - "Livestock, Dairy, and Poultry"
+  - Innovation, Entrepreneurship, and Workforce Development
+  - Livestock, Dairy, and Poultry
   - Nutrition and Foreign Agriculture
-  - "Rural Development, Energy, and Supply Chains"
+  - Rural Development, Energy, and Supply Chains
   - Water Resources and Environment
-total-raised: "$2.4M"
-career-total-source: "FEC weball summary (cycles 2024, 2026)"
+total-raised: $2.4M
+career-total-source: FEC weball summary (cycles 2024, 2026)
 ---
 
 

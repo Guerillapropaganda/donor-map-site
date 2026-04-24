@@ -11,8 +11,8 @@ fec-committee-id: C00307777
 aliases:
   - FREEDOM CLUB FEDERAL PAC
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Tim Walz]], [[Pete Stauber]], [[Michelle Fischbach]], [[Brad Finstad]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Tim Walz]], [[Pete Stauber]], [[Michelle Fischbach]], [[Brad Finstad]], [[Tom Emmer]], [[Mitt Romney]], [[John McCain]], [[John Thune]]"
 related: "[[Tim Walz]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -23,7 +23,7 @@ total-spent: 10691
 individual-contributions: 2250
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

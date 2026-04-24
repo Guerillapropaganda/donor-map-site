@@ -1,38 +1,39 @@
 ---
-title: "Earl L. Buddy Carter"
+title: Earl L. Buddy Carter
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Georgia"
-state-abbr: "GA"
+party: Republican
+chamber: House
+state: Georgia
+state-abbr: GA
 district: "1"
-bioguide-id: "C001103"
+bioguide-id: C001103
 govtrack-id: 412622
 born: "1957-09-06"
-wikidata-id: "Q16240994"
-website: "https://buddycarter.house.gov"
-phone: "202-225-5831"
+wikidata-id: Q16240994
+website: https://buddycarter.house.gov
+phone: 202-225-5831
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 56
 bills-cosponsored: 405
 bills-enacted: 3
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Communications and Technology
   - Environment
   - Health
   - House Committee on Energy and Commerce
   - House Committee on the Budget
+top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[Tyson Foods]], [[American College of Radiology Association PAC]], [[Meta - Facebook]], [[Occidental Petroleum]], [[GEO Group - Private Prison Industrial Complex]], [[NRA Political Victory Fund]], [[Williams Companies]], [[AbbVie]], [[Associated General Contractors of America Political Action Committee]], [[National Cattlemen's Beef Association]], [[National Victory Action Fund]], [[Kevin McCarthy]], [[Gilead Sciences]], [[Steve Scalise]], [[McDonalds Corporation]], [[Pfizer Inc.]], [[Google - Alphabet]], [[Amgen Inc]], [[BEN CLINE FOR CONGRESS, INC.]], [[Brett Guthrie]], [[Tom Emmer]], [[National Restaurant Association]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[JOE WILSON FOR CONGRESS]], [[Koch Industries]], [[Carol D. Miller]], [[JOHN CURTIS FOR UTAH]], [[National Association of Manufacturers]], [[Paul Ryan]], [[Donald Trump]], [[Daniel Meuser]], [[DON BACON FOR CONGRESS]], [[Akin Gump Strauss Hauer & Feld]], [[TEXANS FOR JODEY ARRINGTON]], [[JIM JORDAN FOR CONGRESS]], [[Tzedek PAC]], [[Freedom's Defense Fund]], [[Mark E. Amodei]], [[David P. Joyce]], [[Southern States Police Benevolent Assoc PAC Fund]], [[ADRIAN SMITH FOR CONGRESS]], [[BURCHETT FOR CONGRESS]], [[Leidos]]"
 ---
 
 

@@ -1,21 +1,22 @@
 ---
-title: "Rahm Emanuel"
+title: Rahm Emanuel
 type: politician
 bioguide-id: E000287
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "Chief of Staff (2009-2010)"
+party: Democrat
+chamber: Chief of Staff (2009-2010)
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 source-types:
   - Congress
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 bills-sponsored: 58
+top-donors: "[[Google - Alphabet]], [[AFL-CIO]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[MBNA Corporation]], [[Planned Parenthood Action Fund INC]], [[National Committee to Preserve Social Security & Medicare PAC]], [[CVS Health - Aetna]], [[Blue Shield of California]], [[Sierra Club Political Committee]], [[National Education Association]], [[Bechtel Corporation]], [[American College of Radiology Association PAC]], [[ADM - Archer Daniels Midland]], [[Akin Gump Strauss Hauer & Feld]], [[LOFGREN FOR CONGRESS]], [[AT&T]]"
 ---
 
 

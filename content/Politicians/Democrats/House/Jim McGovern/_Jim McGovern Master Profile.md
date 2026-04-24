@@ -1,55 +1,51 @@
 ---
-title: "Jim McGovern"
+title: Jim McGovern
 type: politician
 content-readiness: ready
 central-thesis: "Jim McGovern is the rare committee leader whose donor profile is genuinely modest and whose policy work centers on issues with no major corporate lobby: hunger, human rights, and procedural reform. His top donors are labor unions, lawyers, and hea..."
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "House"
-state: "Massachusetts"
-state-abbr: "MA"
+party: Democrat
+chamber: House
+state: Massachusetts
+state-abbr: MA
 district: "2"
 leadership-roles:
-  - "Ranking Member"
-bioguide-id: "M000312"
+  - Ranking Member
+bioguide-id: M000312
 govtrack-id: 400263
 bills-sponsored: 434
 bills-cosponsored: 11803
 born: "1959-11-20"
-wikidata-id: "Q1337459"
+wikidata-id: Q1337459
 source-types:
-  - "Congress"
-website: "https://mcgovern.house.gov"
-phone: "202-225-6101"
-donors: "[[National Nurses United]]"
+  - Congress
+website: https://mcgovern.house.gov
+phone: 202-225-6101
+donors: "[[National Nurses United]], [[Sierra Club Political Committee]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Pfizer Inc.]], [[American College of Radiology Association PAC]], [[J Street]], [[ADM - Archer Daniels Midland]], [[Amgen Inc]], [[AFL-CIO]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Education Association]], [[Rosa DeLauro]], [[Planned Parenthood Action Fund INC]], [[Akin Gump Strauss Hauer & Feld]], [[Bechtel Corporation]], [[Let America Vote PAC]], [[REED COMMITTEE]], [[AbbVie]], [[League of Conservation Voters]], [[Cargill]], [[Google - Alphabet]], [[Richard Neal]], [[Friends of the Earth (action) INC]], [[NANCY PELOSI FOR CONGRESS]], [[MEDICARE FOR ALL]], [[Goldman Sachs]], [[MENENDEZ FOR CONGRESS]], [[Sepracor Inc. Good Governance Fund]]"
 related: "[[_Donald Trump Master Profile|Trump]]"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline; run congress pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run fec pipeline; run congress pipeline; run pipelines
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 last-enriched: "2026-04-15"
 committees:
-  - "House Committee on Agriculture"
-  - "House Committee on Rules"
+  - House Committee on Agriculture
+  - House Committee on Rules
 issues:
-  - "Agriculture and Food"
-  - "Armed Forces and National Security"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Commerce"
-  - "Congress"
-  - "Foreign Trade and International Finance"
-  - "Government Operations and Politics"
-  - "Health"
-  - "Housing and Community Development"
-  - "Immigration"
+  - Agriculture and Food
+  - Armed Forces and National Security
+  - Civil Rights and Liberties, Minority Issues
+  - Commerce
+  - Congress
+  - Foreign Trade and International Finance
+  - Government Operations and Politics
+  - Health
+  - Housing and Community Development
+  - Immigration
 bills-enacted: 1
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "International Affairs"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: International Affairs
 ---
 
 

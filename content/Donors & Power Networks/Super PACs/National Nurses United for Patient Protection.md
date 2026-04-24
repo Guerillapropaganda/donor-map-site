@@ -11,8 +11,8 @@ fec-committee-id: C00490375
 aliases:
   - NATIONAL NURSES UNITED FOR PATIENT PROTECTION
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Mark Takano]], [[Pramila Jayapal]], [[Ilhan Omar]], [[Ruben Gallego]], [[Raphael Warnock]], [[Cori Bush]], [[Kamala Harris]], [[Sherrod Brown]], [[Nina Turner]], [[Tammy Baldwin]], [[Jamaal Bowman]], [[John Fetterman]], [[Summer Lee]], [[Elissa Slotkin]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Mark Takano]], [[Pramila Jayapal]], [[Ilhan Omar]], [[Ruben Gallego]], [[Raphael Warnock]], [[Cori Bush]], [[Kamala Harris]], [[Sherrod Brown]], [[Nina Turner]], [[Tammy Baldwin]], [[Jamaal Bowman]], [[John Fetterman]], [[Summer Lee]], [[Elissa Slotkin]], [[California Nurses Association]], [[GETTHRU]], [[IOWA CCI ACTION FUND]], [[BUS BANK]], [[National Republican Senatorial Committee]], [[National Nurses United]], [[PUBLIC AFFAIRS SUPPORT SERVICES INC.]], [[VICTORIA SPARTZ FOR CONGRESS]], [[SADLER STRATEGIC MEDIA]], [[POSTAL SYSTEMS, INC.]], [[Campaign for Community Change]], [[Barack Obama]], [[Gary Peters]], [[Ami Bera]], [[Julia Brownley]], [[Katie Porter]], [[Steven Horsford]], [[Joe Biden]], [[Bernie Sanders]], [[Bob Casey]], [[Angela D. Alsobrooks]], [[Scott H. Peters]], [[Angie Craig]]"
 related: "[[Mark Takano]] · [[Pramila Jayapal]] · [[Ilhan Omar]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -28,8 +28,8 @@ ofac-programs:
   - UKRAINE-EO13661] [CYBER2] [ELECTION-EO13848
 source-types:
   - FEC
-total-political-spend: "$17.3M"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 2 store(s), cycles 2010, 2012, 2016, 2020, 2022, 2024, 2026"
+total-political-spend: $17.3M
+spend-source: aggregated from canonical FEC/IRS edge stores across 2 store(s), cycles 2010, 2012, 2016, 2020, 2022, 2024, 2026
 ---
 
 

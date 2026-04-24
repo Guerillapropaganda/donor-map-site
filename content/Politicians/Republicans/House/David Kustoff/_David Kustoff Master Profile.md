@@ -18,23 +18,23 @@ phone: 202-225-4714
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2TN07103
 bills-sponsored: 28
 bills-cosponsored: 226
 bills-enacted: 0
 top-policy-area: Taxation
-top-donors: "[[American Hospital Association PAC]], [[Associated General Contractors of America Political Action Committee]], [[Walmart - Walton Family]], [[Tyson Foods]], [[MAJORITY PAC]], [[National Association of Realtors]], [[Raytheon (RTX)]], [[Amgen Inc]], [[Valero Energy]], [[Anthem - Elevance Health]], [[Republican Jewish Coalition]], [[Bank of America]], [[American College of Radiology Association PAC]], [[AbbVie]], [[AIPAC - American Israel Public Affairs Committee]], [[American Chemistry Council, INC]], [[CoreCivic - Private Prisons]], [[Microsoft]], [[Marathon Petroleum]], [[Honeywell]], [[General Dynamics]], [[National Rifle Association]], [[Comcast - NBCUniversal]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[AT&T - WarnerMedia]], [[Johnson & Johnson]], [[Gilead Sciences]], [[Ford Motor Company]], [[Citigroup]], [[National Cattlemen's Beef Association]], [[Care Action]], [[Pfizer Inc.]], [[iHeartMedia]], [[Jason Smith]], [[Chevron]], [[General Motors]], [[National Restaurant Association]], [[Humana]], [[Duke Energy]], [[National Multifamily Housing Council]], [[National Association of Manufacturers]], [[Leidos]], [[CVS Health - Aetna]], [[Tenet Healthcare]], [[NextEra Energy]], [[Lockheed Martin]], [[Vern Buchanan]], [[WinRed]], [[Honeywell International]], [[Majority PAC]], [[AT&T]]"
-last-enriched: 2026-04-21
+top-donors: "[[American Hospital Association PAC]], [[Associated General Contractors of America Political Action Committee]], [[Walmart - Walton Family]], [[Tyson Foods]], [[MAJORITY PAC]], [[National Association of Realtors]], [[Raytheon (RTX)]], [[Amgen Inc]], [[Valero Energy]], [[Anthem - Elevance Health]], [[Republican Jewish Coalition]], [[Bank of America]], [[American College of Radiology Association PAC]], [[AbbVie]], [[AIPAC - American Israel Public Affairs Committee]], [[American Chemistry Council, INC]], [[CoreCivic - Private Prisons]], [[Microsoft]], [[Marathon Petroleum]], [[Honeywell]], [[General Dynamics]], [[National Rifle Association]], [[Comcast - NBCUniversal]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[AT&T - WarnerMedia]], [[Johnson & Johnson]], [[Gilead Sciences]], [[Ford Motor Company]], [[Citigroup]], [[National Cattlemen's Beef Association]], [[Care Action]], [[Pfizer Inc.]], [[iHeartMedia]], [[Jason Smith]], [[Chevron]], [[General Motors]], [[National Restaurant Association]], [[Humana]], [[Duke Energy]], [[National Multifamily Housing Council]], [[National Association of Manufacturers]], [[Leidos]], [[CVS Health - Aetna]], [[Tenet Healthcare]], [[NextEra Energy]], [[Lockheed Martin]], [[Vern Buchanan]], [[WinRed]], [[Honeywell International]], [[Majority PAC]], [[AT&T]], [[Raytheon (RTX Corporation)]], [[JASON SMITH FOR CONGRESS]], [[NRA Political Victory Fund]], [[BLAKE MOORE FOR CONGRESS]], [[Nucor Corporation]], [[Darin Lahood]], [[Google - Alphabet]], [[CoreCivic]], [[Southern Company]], [[Kevin McCarthy]], [[Steve Scalise]], [[Koch Industries]], [[Akin Gump Strauss Hauer & Feld]], [[Charles J. Chuck Fleischmann]], [[Paul Ryan]], [[JOE WILSON FOR CONGRESS]], [[Donald Trump]], [[American Principles Fund]], [[VERN BUCHANAN FOR CONGRESS]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Health
   - House Committee on Ways and Means
   - Tax
-total-raised: "$11.8M"
-career-total-source: "FEC weball summary (cycles 2002, 2004, 2008, 2016, 2018, 2020, 2022, 2024, 2026)"
+total-raised: $11.8M
+career-total-source: FEC weball summary (cycles 2002, 2004, 2008, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

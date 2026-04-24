@@ -18,25 +18,25 @@ phone: 202-225-6216
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H8KS04112
 bills-sponsored: 15
 bills-cosponsored: 178
 bills-enacted: 0
 top-policy-area: Taxation
-top-donors: "[[Citigroup]], [[Occidental Petroleum]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[American College of Radiology Association PAC]], [[Google - Alphabet]], [[Humana]], [[Chevron]], [[General Dynamics]], [[Comcast - NBCUniversal]], [[NextEra Energy]], [[Kansans for Life Political Action Committee]], [[Johnson & Johnson]], [[Walmart - Walton Family]], [[Care Action]], [[MAJORITY PAC]], [[WinRed]], [[National Association of Manufacturers]], [[Amgen Inc]], [[Raytheon (RTX)]], [[AT&T - WarnerMedia]], [[AIPAC - American Israel Public Affairs Committee]], [[Gilead Sciences]], [[American Chemistry Council, INC]], [[National Cattlemen's Beef Association]], [[Honeywell]], [[Bank of America]], [[National Rifle Association]], [[CVS Health - Aetna]], [[Pfizer Inc.]], [[Vern Buchanan]], [[Leidos]], [[McDonalds Corporation]], [[National Restaurant Association]], [[National Multifamily Housing Council]], [[NORPAC]], [[General Motors]], [[Valero Energy]], [[Ford Motor Company]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Marathon Petroleum]], [[Associated General Contractors of America Political Action Committee]], [[PG&E - Pacific Gas and Electric]], [[Jason Smith]], [[Lockheed Martin]], [[AbbVie]], [[Duke Energy]], [[ADM - Archer Daniels Midland]], [[Microsoft]], [[Tyson Foods]], [[American Hospital Association PAC]], [[National Association of Realtors]], [[iHeartMedia]], [[Northrop Grumman]], [[Halliburton]], [[Blackstone Group]], [[Amazon]], [[Walmart]], [[Morgan Stanley]], [[MassMutual]], [[CoreCivic]], [[Koch Industries]], [[Goldman Sachs]], [[Majority PAC]], [[Honeywell International]], [[AT&T]]"
-last-enriched: 2026-04-21
+top-donors: "[[Citigroup]], [[Occidental Petroleum]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[American College of Radiology Association PAC]], [[Google - Alphabet]], [[Humana]], [[Chevron]], [[General Dynamics]], [[Comcast - NBCUniversal]], [[NextEra Energy]], [[Kansans for Life Political Action Committee]], [[Johnson & Johnson]], [[Walmart - Walton Family]], [[Care Action]], [[MAJORITY PAC]], [[WinRed]], [[National Association of Manufacturers]], [[Amgen Inc]], [[Raytheon (RTX)]], [[AT&T - WarnerMedia]], [[AIPAC - American Israel Public Affairs Committee]], [[Gilead Sciences]], [[American Chemistry Council, INC]], [[National Cattlemen's Beef Association]], [[Honeywell]], [[Bank of America]], [[National Rifle Association]], [[CVS Health - Aetna]], [[Pfizer Inc.]], [[Vern Buchanan]], [[Leidos]], [[McDonalds Corporation]], [[National Restaurant Association]], [[National Multifamily Housing Council]], [[NORPAC]], [[General Motors]], [[Valero Energy]], [[Ford Motor Company]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Marathon Petroleum]], [[Associated General Contractors of America Political Action Committee]], [[PG&E - Pacific Gas and Electric]], [[Jason Smith]], [[Lockheed Martin]], [[AbbVie]], [[Duke Energy]], [[ADM - Archer Daniels Midland]], [[Microsoft]], [[Tyson Foods]], [[American Hospital Association PAC]], [[National Association of Realtors]], [[iHeartMedia]], [[Northrop Grumman]], [[Halliburton]], [[Blackstone Group]], [[Amazon]], [[Walmart]], [[Morgan Stanley]], [[MassMutual]], [[CoreCivic]], [[Koch Industries]], [[Goldman Sachs]], [[Majority PAC]], [[Honeywell International]], [[AT&T]], [[Raytheon (RTX Corporation)]], [[Steve Scalise]], [[JOE WILSON FOR CONGRESS]], [[VERN BUCHANAN FOR CONGRESS]], [[JASON SMITH FOR CONGRESS]], [[Airbnb]], [[TED CRUZ FOR SENATE]], [[Cargill]], [[National Right to Life Victory Fund]], [[Tom Emmer]], [[DAVID ROUZER FOR CONGRESS]], [[TEXANS FOR JODEY ARRINGTON]], [[Virginia Foxx]], [[NRA Political Victory Fund]], [[Akin Gump Strauss Hauer & Feld]], [[Meta - Facebook]], [[Roger Marshall]], [[Bacardi - Bacardi USA]], [[Kevin McCarthy]], [[Darin Lahood]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - House Committee on Ways and Means
   - House Committee on the Budget
   - Joint Economic Committee
   - Social Security
   - Tax
-total-raised: "$9.5M"
-career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
+total-raised: $9.5M
+career-total-source: FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)
 ---
 
 

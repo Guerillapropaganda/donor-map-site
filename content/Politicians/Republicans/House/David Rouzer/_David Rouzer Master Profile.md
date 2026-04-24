@@ -18,30 +18,30 @@ phone: 202-225-2731
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2NC07096
 bills-sponsored: 22
 bills-cosponsored: 339
 bills-enacted: 0
 top-policy-area: International Affairs
-top-donors: "[[National Association of Manufacturers]], [[Leidos]], [[Bank of America]], [[Associated General Contractors of America Political Action Committee]], [[Microsoft]], [[American Chemistry Council, INC]], [[Nucor Corporation]], [[Duke Energy]], [[Walmart - Walton Family]], [[National Association of Realtors]], [[McDonalds Corporation]], [[Honeywell]], [[iHeartMedia]], [[Pfizer Inc.]], [[Raytheon (RTX)]], [[General Motors]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[American Hospital Association PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[National Cattlemen's Beef Association]], [[General Dynamics]], [[Chevron]], [[Tyson Foods]], [[CVS Health - Aetna]], [[National Multifamily Housing Council]], [[Occidental Petroleum]], [[National Rifle Association]], [[Lockheed Martin]], [[Comcast - NBCUniversal]], [[WinRed]], [[Tzedek PAC]], [[National Restaurant Association]], [[AT&T - WarnerMedia]], [[MAJORITY PAC]], [[Save America PAC]], [[American College of Radiology Association PAC]], [[Performance Racing Inc.]], [[UA Political Action Committee]], [[Google - Alphabet]], [[ADM - Archer Daniels Midland]], [[Teamsters - International Brotherhood of Teamsters]], [[Novo Nordisk]], [[Wells Fargo]], [[Amazon]], [[Monsanto - Bayer]], [[Blackstone Group]], [[Business Roundtable]], [[American Farm Bureau Federation]], [[HBW Resources]], [[Morgan Stanley]], [[DoorDash]], [[Honeywell International]], [[Majority PAC]], [[AT&T]]"
-last-enriched: 2026-04-21
+top-donors: "[[National Association of Manufacturers]], [[Leidos]], [[Bank of America]], [[Associated General Contractors of America Political Action Committee]], [[Microsoft]], [[American Chemistry Council, INC]], [[Nucor Corporation]], [[Duke Energy]], [[Walmart - Walton Family]], [[National Association of Realtors]], [[McDonalds Corporation]], [[Honeywell]], [[iHeartMedia]], [[Pfizer Inc.]], [[Raytheon (RTX)]], [[General Motors]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[American Hospital Association PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[National Cattlemen's Beef Association]], [[General Dynamics]], [[Chevron]], [[Tyson Foods]], [[CVS Health - Aetna]], [[National Multifamily Housing Council]], [[Occidental Petroleum]], [[National Rifle Association]], [[Lockheed Martin]], [[Comcast - NBCUniversal]], [[WinRed]], [[Tzedek PAC]], [[National Restaurant Association]], [[AT&T - WarnerMedia]], [[MAJORITY PAC]], [[Save America PAC]], [[American College of Radiology Association PAC]], [[Performance Racing Inc.]], [[UA Political Action Committee]], [[Google - Alphabet]], [[ADM - Archer Daniels Midland]], [[Teamsters - International Brotherhood of Teamsters]], [[Novo Nordisk]], [[Wells Fargo]], [[Amazon]], [[Monsanto - Bayer]], [[Blackstone Group]], [[Business Roundtable]], [[American Farm Bureau Federation]], [[HBW Resources]], [[Morgan Stanley]], [[DoorDash]], [[Honeywell International]], [[Majority PAC]], [[AT&T]], [[Raytheon (RTX Corporation)]], [[DAVID ROUZER FOR CONGRESS]], [[The Tea Party Leadership Fund]], [[Koch Industries]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[Akin Gump Strauss Hauer & Feld]], [[Steve Scalise]], [[WEBER FOR CONGRESS]], [[TEXANS FOR JODEY ARRINGTON]], [[Williams Companies]], [[John Boehner]], [[Kevin McCarthy]], [[Richard Hudson]], [[NRA Political Victory Fund]], [[Cargill]], [[Todd Young]], [[Scott Desjarlais]], [[MCCAUL FOR CONGRESS, INC]], [[Glenn Thompson]], [[AbbVie]], [[Rick Crawford]], [[Paul Ryan]], [[Clay Higgins]], [[Frank Lucas]], [[ROGER WILLIAMS FOR U S CONGRESS COMMITTEE]], [[John R. Carter]], [[ANN WAGNER FOR CONGRESS]], [[Steve Womack]], [[ANDY HARRIS FOR CONGRESS]], [[PETE SESSIONS FOR CONGRESS]], [[COTTON, THOMAS]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Commodity Markets, Digital Assets, and Rural Development"
+  - Commodity Markets, Digital Assets, and Rural Development
   - Environment
   - Forestry and Horticulture
-  - "General Farm Commodities, Risk Management, and Credit"
+  - General Farm Commodities, Risk Management, and Credit
   - Highways and Transit
   - House Committee on Agriculture
-  - "House Committee on Science, Space, and Technology"
+  - House Committee on Science, Space, and Technology
   - House Committee on Transportation and Infrastructure
-  - "Railroads, Pipelines, and Hazardous Materials"
+  - Railroads, Pipelines, and Hazardous Materials
   - Research and Technology
-total-raised: "$12.4M"
-career-total-source: "FEC weball summary (cycles 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+total-raised: $12.4M
+career-total-source: FEC weball summary (cycles 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

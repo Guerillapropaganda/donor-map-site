@@ -1,20 +1,21 @@
 ---
-title: "Julian Castro"
+title: Julian Castro
 type: politician
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "Secretary of HUD (2014-2017)"
+party: Democrat
+chamber: Secretary of HUD (2014-2017)
 known-gaps:
-  - "No voting record data"
-  - "No mapped relationships"
+  - No voting record data
+  - No mapped relationships
 source-types:
   - Congress
   - FEC
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 corroboration-count: 2
+top-donors: "[[CASTRO FOR CONGRESS]]"
 ---
 
 

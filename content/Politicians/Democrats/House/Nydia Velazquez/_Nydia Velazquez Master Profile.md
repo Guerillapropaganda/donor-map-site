@@ -22,18 +22,18 @@ source-types:
   - Congress
 corroboration-count: 2
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 50
 bills-cosponsored: 564
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[National Association of Realtors]], [[Planned Parenthood Votes]], [[Ted Lieu]], [[Sierra Club Independent Action]], [[League of Conservation Voters]], [[National Restaurant Association]], [[Walmart - Walton Family]], [[J Street]], [[NEA Fund for Children and Public Education]], [[SEIU COPE]], [[American Hospital Association PAC]], [[National Multifamily Housing Council]], [[American Federation of State County & Municipal Employees P E O P L E]], [[UA Political Action Committee]], [[Medicare for All - The Policy That Broke the Party]], [[American Federation of State County & Municipal Employees  P E O P L E]]"
-last-enriched: 2026-04-20
-total-raised: "$11.4M"
-career-total-source: "FEC weball summary (cycles 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+top-donors: "[[National Association of Realtors]], [[Planned Parenthood Votes]], [[Ted Lieu]], [[Sierra Club Independent Action]], [[League of Conservation Voters]], [[National Restaurant Association]], [[Walmart - Walton Family]], [[J Street]], [[NEA Fund for Children and Public Education]], [[SEIU COPE]], [[American Hospital Association PAC]], [[National Multifamily Housing Council]], [[American Federation of State County & Municipal Employees P E O P L E]], [[UA Political Action Committee]], [[Medicare for All - The Policy That Broke the Party]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Pfizer Inc.]], [[MBNA Corporation]], [[Sierra Club Political Committee]], [[McDonalds Corporation]], [[MATSUI FOR CONGRESS]], [[National Education Association]], [[AFL-CIO]], [[Hakeem Jeffries]], [[AbbVie]], [[PAUL TONKO FOR CONGRESS]], [[John B. Larson]], [[Richard Neal]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Amgen Inc]], [[AL GREEN FOR CONGRESS]], [[Henry Cuellar]], [[Associated General Contractors of America Political Action Committee]], [[Frank Pallone]], [[Meta - Facebook]], [[Google - Alphabet]], [[Let America Vote PAC]], [[Planned Parenthood Action Fund INC]], [[MEDICARE FOR ALL]], [[KATHERINE CLARK FOR CONGRESS]], [[LOFGREN FOR CONGRESS]], [[NANCY PELOSI FOR CONGRESS]], [[BARBARA LEE FOR CONGRESS]], [[Rosa DeLauro]], [[Xavier Becerra]], [[TED LIEU FOR CONGRESS]]"
+last-enriched: 2026-04-20T00:00:00.000Z
+total-raised: $11.4M
+career-total-source: FEC weball summary (cycles 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

@@ -1,39 +1,40 @@
 ---
-title: "Joe Courtney"
+title: Joe Courtney
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Connecticut"
-state-abbr: "CT"
+party: Democrat
+chamber: House
+state: Connecticut
+state-abbr: CT
 district: "2"
-bioguide-id: "C001069"
+bioguide-id: C001069
 govtrack-id: 412193
 born: "1953-04-06"
-wikidata-id: "Q434470"
-website: "https://courtney.house.gov"
-phone: "202-225-2076"
+wikidata-id: Q434470
+website: https://courtney.house.gov
+phone: 202-225-2076
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 21
 bills-cosponsored: 245
 bills-enacted: 0
-top-policy-area: "Education"
-last-enriched: 2026-04-21
+top-policy-area: Education
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Health, Employment, Labor, and Pensions"
+  - Health, Employment, Labor, and Pensions
   - Higher Education and Workforce Development
   - House Committee on Armed Services
   - House Committee on Education and Workforce
   - Seapower and Projection Forces
   - Tactical Air and Land Forces
+top-donors: "[[House Majority PAC]], [[Chris van Hollen]], [[Associated General Contractors of America Political Action Committee]], [[John B. Larson]], [[James E. Clyburn]], [[Pfizer Inc.]], [[Steny H. Hoyer]], [[Leidos]], [[ADM - Archer Daniels Midland]], [[Jim McGovern]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[National Education Association]], [[Janice D. Schakowsky]], [[National Committee to Preserve Social Security & Medicare PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Bechtel Corporation]], [[CT Working Families Federal PAC D/b/a Take Back Congress CT]], [[Monsanto - Bayer]], [[CITIZENS TO ELECT RICK LARSEN]], [[J Street]], [[NANCY PELOSI FOR CONGRESS]], [[MIKE THOMPSON FOR CONGRESS]], [[Hilda Solis]], [[Amgen Inc]], [[Jerry Nadler]], [[AFL-CIO]], [[JOE NEGUSE FOR CONGRESS]], [[Xavier Becerra]], [[AIPAC - American Israel Public Affairs Committee]], [[Rahm Emanuel]], [[Sierra Club Political Committee]], [[LOFGREN FOR CONGRESS]], [[DEBBIE WASSERMAN SCHULTZ FOR CONGRESS]], [[Richard Neal]], [[Henry Cuellar]], [[American College of Radiology Association PAC]], [[Donald S. Beyer]], [[DEBORAH ROSS FOR CONGRESS]], [[Google - Alphabet]], [[Ami Bera]], [[DIANA DEGETTE FOR CONGRESS]], [[Adam Schiff]], [[Hakeem Jeffries]], [[League of Conservation Voters]], [[Gregory Meeks]], [[MAD 4 PA PAC]], [[PETE AGUILAR FOR CONGRESS]], [[Nancy Pelosi]], [[STEPHEN LYNCH FOR CONGRESS]], [[TED LIEU FOR CONGRESS]], [[Planned Parenthood Action Fund INC]], [[Giffords PAC]], [[DOGGETT FOR U S CONGRESS COMMITTEE]], [[Rosa DeLauro]], [[MCCOLLUM FOR CONGRESS]], [[Nydia Velazquez]], [[Jerrold Nadler]], [[JASON CROW FOR CONGRESS]], [[Adam Smith]], [[SARA JACOBS FOR CONGRESS]], [[SHERMAN FOR CONGRESS]], [[DoorDash]]"
 ---
 
 

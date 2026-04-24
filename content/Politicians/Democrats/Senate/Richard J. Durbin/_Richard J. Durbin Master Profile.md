@@ -1,44 +1,45 @@
 ---
-title: "Richard J. Durbin"
+title: Richard J. Durbin
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "Senate"
-state: "Illinois"
-state-abbr: "IL"
-bioguide-id: "D000563"
+party: Democrat
+chamber: Senate
+state: Illinois
+state-abbr: IL
+bioguide-id: D000563
 govtrack-id: 300038
 born: "1944-11-21"
-wikidata-id: "Q434804"
-website: "https://www.durbin.senate.gov"
-phone: "202-224-2152"
+wikidata-id: Q434804
+website: https://www.durbin.senate.gov
+phone: 202-224-2152
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 129
 bills-cosponsored: 522
 bills-enacted: 2
-top-policy-area: "Crime and Law Enforcement"
-last-enriched: 2026-04-21
+top-policy-area: Crime and Law Enforcement
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Commodities, Derivatives, Risk Management, and Trade"
+  - Commodities, Derivatives, Risk Management, and Trade
   - Crime and Counterterrorism
   - Department of Defense
-  - "Departments of Labor, Health and Human Services, and Education, and Related Agencies"
+  - Departments of Labor, Health and Human Services, and Education, and Related Agencies
   - Energy and Water Development
   - Financial Services and General Government
-  - "Livestock, Dairy, Poultry, and Food Safety"
-  - "Senate Committee on Agriculture, Nutrition, and Forestry"
+  - Livestock, Dairy, Poultry, and Food Safety
+  - Senate Committee on Agriculture, Nutrition, and Forestry
   - Senate Committee on Appropriations
   - Senate Committee on the Judiciary
-  - "State, Foreign Operations, and Related Programs"
-  - "Transportation, Housing and Urban Development, and Related Agencies"
+  - State, Foreign Operations, and Related Programs
+  - Transportation, Housing and Urban Development, and Related Agencies
+top-donors: "[[International Association of Firefighters Interested in Registration and Education PAC]], [[National Committee to Preserve Social Security & Medicare PAC]], [[National Education Association]], [[ADM - Archer Daniels Midland]], [[Monsanto - Bayer]], [[AFL-CIO]], [[Sierra Club Political Committee]], [[Goldman Sachs]], [[Cargill]], [[Associated General Contractors of America Political Action Committee]], [[Sepracor Inc. Good Governance Fund]]"
 ---
 
 

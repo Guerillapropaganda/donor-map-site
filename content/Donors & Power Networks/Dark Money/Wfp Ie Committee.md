@@ -10,7 +10,7 @@ last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-ie-support: $992,581
 fec-ie-oppose: null
-politicians-funded: "[[Nina Turner]], [[Rashida Tlaib]], [[Ilhan Omar]], [[Rosa DeLauro]], [[Raphael Warnock]]"
+politicians-funded: "[[Nina Turner]], [[Rashida Tlaib]], [[Ilhan Omar]], [[Rosa DeLauro]], [[Raphael Warnock]], [[COMMUNITY LABOR ADMINISTRATIVE SERVICES]], [[United Democracy Project - UDP]], [[DINKIN, JOE]], [[COMMUNITY LABOR ADMINISTRATIVE SERVICES, INC.]], [[MOSIAC COMMUNICATIONS]], [[MIDDLE SEAT]], [[BASE BUILDER]], [[CANTOR, DAN]], [[ONYX COMMUNICATIONS]], [[Michael Bloomberg]], [[MONACO, CHARLES]], [[KAMEN, ARI]], [[Working Families for Hawaii]], [[FEDERAL ELECTION COMMISSION]], [[Hillary Clinton]], [[Jon Ossoff]], [[Melanie A. Stansbury]], [[Joe Biden]], [[Jamaal Bowman]]"
 related: "[[Rosa DeLauro]] · [[Rashida Tlaib]] · [[Nina Turner]] · [[Ilhan Omar]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -23,8 +23,8 @@ individual-contributions: 7551
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

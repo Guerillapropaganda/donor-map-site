@@ -19,33 +19,33 @@ fec-candidate-id: S2SD00068
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
+  - No FEC contribution data
+  - No voting record data
 related: "[[_Mitch McConnell Master Profile]] · [[_Donald Trump Master Profile]] · [[_Rick Scott Master Profile]] · [[John Cornyn]] · [[League of Conservation Voters]]"
-donors: "[[NRA Political Victory Fund]] · [[Insurance Industry]] · [[CLUB FOR GROWTH INC PAC]] · [[National Right to Life Victory Fund]] · [[NextEra Energy]] · [[Goldman Sachs]] · [[Club for Growth INC PAC]] · [[League of Conservation Voters]] · [[Occidental Petroleum]] · [[Honeywell]] · [[ConocoPhillips]] · [[L3Harris Technologies]] · [[National Association of Realtors]] · [[National Rifle Association]] · [[Duke Energy]] · [[ADM - Archer Daniels Midland]] · [[iHeartMedia]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Valero Energy]] · [[Ford Motor Company]] · [[Republican Jewish Coalition]] · [[CoreCivic - Private Prisons]] · [[National Association of Manufacturers]] · [[Leidos]] · [[Raytheon (RTX)]] · [[AIPAC - American Israel Public Affairs Committee]] · [[WinRed]] · [[Humana]] · [[General Motors]] · [[Associated General Contractors of America Political Action Committee]] · [[Pfizer Inc.]] · [[McDonalds Corporation]] · [[General Dynamics]] · [[American Chemistry Council, INC]] · [[Anthem - Elevance Health]] · [[Common Sense for America PAC]] · [[Google - Alphabet]] · [[Amgen Inc]] · [[BAE Systems]] · [[American Gaming Association]] · [[Tenet Healthcare]] · [[Chevron]] · [[Citigroup]] · [[DoorDash]] · [[AbbVie]] · [[Northrop Grumman]] · [[Really American Pac]] · [[Lockheed Martin]] · [[Morgan Stanley]] · [[Gilead Sciences]] · [[National Victory Action Fund]] · [[Johnson & Johnson]] · [[Comcast - NBCUniversal]] · [[Coinbase]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[National Multifamily Housing Council]] · [[AT&T - WarnerMedia]] · [[Marathon Petroleum]] · [[American Hospital Association PAC]] · [[Tyson Foods]] · [[Airbnb]] · [[National Restaurant Association]] · [[CVS Health - Aetna]] · [[American Energy Action Fund]] · [[PG&E - Pacific Gas and Electric]] · [[Sinclair Broadcast Group]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Walmart - Walton Family]] · [[Bank of America]] · [[Halliburton]] · [[Microsoft]] · [[AT&T]] · [[Honeywell International]]"
+donors: "[[NRA Political Victory Fund]] · [[Insurance Industry]] · [[CLUB FOR GROWTH INC PAC]] · [[National Right to Life Victory Fund]] · [[NextEra Energy]] · [[Goldman Sachs]] · [[Club for Growth INC PAC]] · [[League of Conservation Voters]] · [[Occidental Petroleum]] · [[Honeywell]] · [[ConocoPhillips]] · [[L3Harris Technologies]] · [[National Association of Realtors]] · [[National Rifle Association]] · [[Duke Energy]] · [[ADM - Archer Daniels Midland]] · [[iHeartMedia]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Valero Energy]] · [[Ford Motor Company]] · [[Republican Jewish Coalition]] · [[CoreCivic - Private Prisons]] · [[National Association of Manufacturers]] · [[Leidos]] · [[Raytheon (RTX)]] · [[AIPAC - American Israel Public Affairs Committee]] · [[WinRed]] · [[Humana]] · [[General Motors]] · [[Associated General Contractors of America Political Action Committee]] · [[Pfizer Inc.]] · [[McDonalds Corporation]] · [[General Dynamics]] · [[American Chemistry Council, INC]] · [[Anthem - Elevance Health]] · [[Common Sense for America PAC]] · [[Google - Alphabet]] · [[Amgen Inc]] · [[BAE Systems]] · [[American Gaming Association]] · [[Tenet Healthcare]] · [[Chevron]] · [[Citigroup]] · [[DoorDash]] · [[AbbVie]] · [[Northrop Grumman]] · [[Really American Pac]] · [[Lockheed Martin]] · [[Morgan Stanley]] · [[Gilead Sciences]] · [[National Victory Action Fund]] · [[Johnson & Johnson]] · [[Comcast - NBCUniversal]] · [[Coinbase]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[National Multifamily Housing Council]] · [[AT&T - WarnerMedia]] · [[Marathon Petroleum]] · [[American Hospital Association PAC]] · [[Tyson Foods]] · [[Airbnb]] · [[National Restaurant Association]] · [[CVS Health - Aetna]] · [[American Energy Action Fund]] · [[PG&E - Pacific Gas and Electric]] · [[Sinclair Broadcast Group]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Walmart - Walton Family]] · [[Bank of America]] · [[Halliburton]] · [[Microsoft]] · [[AT&T]] · [[Honeywell International]] · [[Raytheon (RTX Corporation)]] · [[Senate Majority PAC]] · [[National Right to Life PAC]] · [[National Republican Senatorial Committee]] · [[Williams Companies]] · [[Meta - Facebook]] · [[Blue Shield of California]] · [[Pete Sessions]] · [[Cargill]] · [[Campaign for Working Families]] · [[Akin Gump Strauss Hauer & Feld]] · [[National Cattlemen's Beef Association]] · [[Jerry Moran]] · [[Koch Industries]] · [[Monsanto - Bayer]] · [[Kristi Noem]] · [[Ken Calvert]] · [[Republican Campaign Committee of New Mexico]] · [[Bechtel Corporation]] · [[American College of Radiology Association PAC]] · [[Mississippi Republican Party]] · [[Southern Company]] · [[PETE SESSIONS FOR CONGRESS]] · [[National Education Association]] · [[KAY GRANGER CAMPAIGN FUND]] · [[Focus on the Family Action]] · [[Jeff Sessions]] · [[MBNA Corporation]] · [[CoreCivic]] · [[John Cornyn]] · [[Family Research Council Action Political Action Committee]] · [[DANIEL WEBSTER PAC]] · [[Chuck Grassley]] · [[Mitch McConnell]] · [[Kevin Cramer]] · [[Gun Owners of America]] · [[Freedom Club Federal PAC]] · [[The National Republican Trust PAC]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 49
 bills-cosponsored: 260
 bills-enacted: 0
 top-policy-area: Health
-last-enriched: 2026-04-20
+last-enriched: 2026-04-20T00:00:00.000Z
 committees:
-  - "Aviation, Space, and Innovation"
-  - "Commodities, Derivatives, Risk Management, and Trade"
-  - "Conservation, Forestry, Natural Resources, and Biotechnology"
-  - "Consumer Protection, Technology, and Data Privacy"
+  - Aviation, Space, and Innovation
+  - Commodities, Derivatives, Risk Management, and Trade
+  - Conservation, Forestry, Natural Resources, and Biotechnology
+  - Consumer Protection, Technology, and Data Privacy
   - Health Care
-  - "International Trade, Customs, and Global Competitiveness"
-  - "Livestock, Dairy, Poultry, and Food Safety"
-  - "Senate Committee on Agriculture, Nutrition, and Forestry"
-  - "Senate Committee on Commerce, Science, and Transportation"
+  - International Trade, Customs, and Global Competitiveness
+  - Livestock, Dairy, Poultry, and Food Safety
+  - Senate Committee on Agriculture, Nutrition, and Forestry
+  - Senate Committee on Commerce, Science, and Transportation
   - Senate Committee on Finance
   - Senate Select Committee on Intelligence
-  - "Surface Transportation, Freight, Pipelines, and Safety"
+  - Surface Transportation, Freight, Pipelines, and Safety
   - Taxation and IRS Oversight
   - Telecommunications and Media
-total-raised: "$65.7M"
-career-total-source: "FEC weball summary (cycles 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+total-raised: $65.7M
+career-total-source: FEC weball summary (cycles 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

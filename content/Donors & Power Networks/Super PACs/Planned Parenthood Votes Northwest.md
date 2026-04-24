@@ -11,8 +11,8 @@ fec-committee-id: C90014119
 aliases:
   - PLANNED PARENTHOOD VOTES NORTHWEST
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Pramila Jayapal]], [[ActBlue]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Pramila Jayapal]], [[ActBlue]], [[Patty Murray]], [[Hillary Clinton]], [[Kim Schrier]], [[Suzan K. Delbene]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -23,9 +23,9 @@ employee-contributions-total: 750
 employee-donor-count: 2
 source-types:
   - FEC
-last-enriched: 2026-04-21
-total-political-spend: "$42K"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2012, 2016, 2018"
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $42K
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2012, 2016, 2018
 ---
 
 

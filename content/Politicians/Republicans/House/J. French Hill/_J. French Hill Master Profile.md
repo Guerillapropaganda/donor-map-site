@@ -1,37 +1,38 @@
 ---
-title: "J. French Hill"
+title: J. French Hill
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Arkansas"
-state-abbr: "AR"
+party: Republican
+chamber: House
+state: Arkansas
+state-abbr: AR
 district: "2"
-bioguide-id: "H001072"
+bioguide-id: H001072
 govtrack-id: 412609
 born: "1956-12-05"
-wikidata-id: "Q18631366"
-website: "https://hill.house.gov"
-phone: "202-225-2506"
+wikidata-id: Q18631366
+website: https://hill.house.gov
+phone: 202-225-2506
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 28
 bills-cosponsored: 205
 bills-enacted: 1
-top-policy-area: "Finance and Financial Sector"
-last-enriched: 2026-04-21
+top-policy-area: Finance and Financial Sector
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - House Committee on Financial Services
   - House Permanent Select Committee on Intelligence
   - National Intelligence Enterprise
   - National Security Agency and Cyber
+top-donors: "[[American Hospital Association PAC]], [[Halliburton]], [[AIPAC - American Israel Public Affairs Committee]], [[National Rifle Association]], [[L3Harris Technologies]], [[Microsoft]], [[Citigroup]], [[Coinbase]], [[Honeywell International]], [[National Cattlemen's Beef Association]], [[Lockheed Martin]], [[JPAC - Jewish Public Affairs Committee of California]], [[Anthem - Elevance Health]], [[National Multifamily Housing Council]], [[Northrop Grumman]], [[Bank of America]], [[Walmart - Walton Family]], [[General Dynamics]], [[Duke Energy]], [[AT&T]], [[Raytheon (RTX Corporation)]], [[Morgan Stanley]], [[National Association of Realtors]], [[Tyson Foods]], [[General Motors]], [[Google - Alphabet]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Ben Cline]], [[Comcast - NBCUniversal]], [[Chevron]], [[Associated General Contractors of America Political Action Committee]], [[NextEra Energy]], [[WinRed]], [[Airbnb]], [[National Rental Home Council]], [[BAE Systems]], [[Drain the DC Swamp PAC]], [[Kevin McCarthy]], [[ESAFUND]], [[Pete Sessions]], [[Akin Gump Strauss Hauer & Feld]], [[NRA Political Victory Fund]], [[Koch Industries]], [[Steve Womack]], [[Randy Feenstra]], [[Richard Hudson]], [[KAY GRANGER CAMPAIGN FUND]], [[Donald Trump]], [[Williams Companies]], [[Brett Guthrie]], [[PETE SESSIONS FOR CONGRESS]], [[National Right to Life PAC]], [[Republican Jewish Coalition]], [[Steve Scalise]], [[CLYDE FOR CONGRESS, INC.]], [[ADRIAN SMITH FOR CONGRESS]], [[Defend American Jobs]], [[Paul Ryan]], [[FRIENDS OF MATT GAETZ]], [[American College of Radiology Association PAC]], [[TEXANS FOR JODEY ARRINGTON]], [[Rick Crawford]], [[National Right to Life Victory Fund]], [[John Boehner]], [[John W. Rose]], [[Darin Lahood]], [[DR. BRIAN BABIN FOR CONGRESS]], [[Pfizer Inc.]], [[Southern Company]], [[AbbVie]], [[WESTERMAN FOR CONGRESS]], [[Meta - Facebook]], [[Glenn Thompson]], [[GARY PALMER FOR CONGRESS]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[National Restaurant Association]], [[BEN CLINE FOR CONGRESS, INC.]], [[Mike Johnson]], [[ANDY HARRIS FOR CONGRESS]], [[DAVID ROUZER FOR CONGRESS]], [[RICK W. ALLEN FOR CONGRESS]], [[BYRON DONALDS FOR CONGRESS]], [[JOE WILSON FOR CONGRESS]], [[Guy Reschenthaler]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[MarketAxess Holdings Inc. PAC]]"
 ---
 
 

@@ -10,7 +10,7 @@ last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-ie-support: $1,857
 fec-ie-oppose: null
-politicians-funded: "[[Steve Scalise]], [[John Barrasso]], [[Derrick van Orden]], [[Bruce Westerman]], [[Dan Newhouse]], [[Derek Schmidt]], [[Ryan Zinke]], [[Pete Stauber]], [[Julie Fedorchak]], [[Tim Sheehy]], [[Marsha Blackburn]], [[John James]], [[Elise Stefanik]], [[Celeste Maloy]], [[Tom Cole]], [[Donald Trump]], [[Bryan Steil]], [[Glenn Thompson]]"
+politicians-funded: "[[Steve Scalise]], [[John Barrasso]], [[Derrick van Orden]], [[Bruce Westerman]], [[Dan Newhouse]], [[Derek Schmidt]], [[Ryan Zinke]], [[Pete Stauber]], [[Julie Fedorchak]], [[Tim Sheehy]], [[Marsha Blackburn]], [[John James]], [[Elise Stefanik]], [[Celeste Maloy]], [[Tom Cole]], [[Donald Trump]], [[Bryan Steil]], [[Glenn Thompson]], [[SMS DIRECT]], [[SAFARI CLUB INTERNATIONAL]], [[Direct Selling Empowers Americans]], [[MARTINS BBQ]], [[Dan Sullivan]], [[Steve Daines]], [[Raphael Warnock]], [[Tommy Tuberville]], [[Mark E. Amodei]], [[Addison P. McDowell]], [[Andrew Ogles]], [[Chuck Grassley]], [[Tom Emmer]], [[Robert P. Bresnahan]]"
 related: "[[Steve Scalise]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -23,8 +23,8 @@ individual-contributions: 509650
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

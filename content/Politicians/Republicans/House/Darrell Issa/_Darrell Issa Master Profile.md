@@ -18,8 +18,8 @@ phone: 202-225-5672
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
+  - No FEC contribution data
+  - No voting record data
 related: "[[Fanjul Family - Florida Crystals]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H0CA48024
@@ -32,18 +32,18 @@ bills-sponsored: 45
 bills-cosponsored: 199
 bills-enacted: 1
 top-policy-area: International Affairs
-top-donors: "[[AT&T - WarnerMedia]], [[Walmart - Walton Family]], [[Comcast - NBCUniversal]], [[Chevron]], [[Jim Jordan]], [[Lockheed Martin]], [[Microsoft]], [[AIPAC - American Israel Public Affairs Committee]], [[PG&E - Pacific Gas and Electric]], [[Johnson & Johnson]], [[Ben Cline]], [[Raytheon (RTX)]], [[MAJORITY PAC]], [[National Rifle Association]], [[National Association of Realtors]], [[Google - Alphabet]], [[WinRed]], [[American Gaming Association]], [[Planned Parenthood Votes]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Associated General Contractors of America Political Action Committee]], [[Republican Jewish Coalition]], [[Darrell Issa]], [[General Dynamics]], [[Save America PAC]], [[Oracle]], [[PG&E]], [[Raytheon (RTX Corporation)]], [[Ballard Partners]], [[Apple]], [[Las Vegas Sands]], [[CTA - California Teachers Association]], [[National Restaurant Association]], [[Meta - Facebook]], [[SpaceX]], [[Amazon]], [[Majority PAC]], [[AT&T]]"
-last-enriched: 2026-04-21
+top-donors: "[[AT&T - WarnerMedia]], [[Walmart - Walton Family]], [[Comcast - NBCUniversal]], [[Chevron]], [[Jim Jordan]], [[Lockheed Martin]], [[Microsoft]], [[AIPAC - American Israel Public Affairs Committee]], [[PG&E - Pacific Gas and Electric]], [[Johnson & Johnson]], [[Ben Cline]], [[Raytheon (RTX)]], [[MAJORITY PAC]], [[National Rifle Association]], [[National Association of Realtors]], [[Google - Alphabet]], [[WinRed]], [[American Gaming Association]], [[Planned Parenthood Votes]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Associated General Contractors of America Political Action Committee]], [[Republican Jewish Coalition]], [[Darrell Issa]], [[General Dynamics]], [[Save America PAC]], [[Oracle]], [[PG&E]], [[Raytheon (RTX Corporation)]], [[Ballard Partners]], [[Apple]], [[Las Vegas Sands]], [[CTA - California Teachers Association]], [[National Restaurant Association]], [[Meta - Facebook]], [[SpaceX]], [[Amazon]], [[Majority PAC]], [[AT&T]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[ISSA FOR CONGRESS]], [[Southern Company]], [[Occidental Petroleum]], [[Richard Hudson]], [[NRA Political Victory Fund]], [[Kevin McCarthy]], [[Pfizer Inc.]], [[National Cattlemen's Beef Association]], [[American College of Radiology Association PAC]], [[Steve Scalise]], [[Leidos]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[Koch Industries]], [[Akin Gump Strauss Hauer & Feld]], [[Bechtel Corporation]], [[Gilead Sciences]], [[Blue Shield of California]], [[CVS Health - Aetna]], [[Bacardi - Bacardi USA]], [[National Right to Life PAC]], [[Pete Sessions]], [[Amgen Inc]], [[Darin Lahood]], [[Scott Desjarlais]], [[Madison Project Inc.]], [[Humana]], [[Paul Ryan]], [[KAY GRANGER CAMPAIGN FUND]], [[FRIENDS OF MATT GAETZ]], [[ADRIAN SMITH FOR CONGRESS]], [[BEN CLINE FOR CONGRESS, INC.]], [[Mike Johnson]], [[Cargill]], [[CLAUDIA TENNEY FOR CONGRESS]], [[JIM JORDAN FOR CONGRESS]], [[Brett Guthrie]], [[GEO Group - Private Prison Industrial Complex]], [[DANIEL WEBSTER FOR CONGRESS]], [[Earl L. Buddy Carter]], [[Kevin Cramer]], [[Campaign for Working Families]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Courts, Intellectual Property, Artificial Intelligence, and the Internet"
+  - Courts, Intellectual Property, Artificial Intelligence, and the Internet
   - House Committee on Foreign Affairs
-  - "House Committee on Science, Space, and Technology"
+  - House Committee on Science, Space, and Technology
   - House Committee on the Judiciary
   - Investigations and Oversight
   - Middle East and North Africa
   - Oversight and Intelligence
   - Research and Technology
-  - "The Administrative State, Regulatory Reform, and Antitrust"
+  - The Administrative State, Regulatory Reform, and Antitrust
 ---
 
 

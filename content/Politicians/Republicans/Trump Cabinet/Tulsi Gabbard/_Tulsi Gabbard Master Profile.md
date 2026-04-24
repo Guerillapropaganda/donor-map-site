@@ -11,7 +11,7 @@ party: Republican
 chamber: Cabinet
 state: Hawaii
 state-abbr: HI
-top-donors: "[[MAGA Inc]]"
+top-donors: "[[MAGA Inc]], [[League of Conservation Voters]], [[American College of Radiology Association PAC]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Google - Alphabet]], [[National Education Association]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[Powerpacplus]], [[Sierra Club Political Committee]], [[Planned Parenthood Action Fund INC]], [[Emily's List]], [[AFL-CIO]], [[Dina Titus]], [[CVS Health - Aetna]], [[McDonalds Corporation]], [[James E. Clyburn]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[DIANA DEGETTE FOR CONGRESS]], [[TITUS FOR CONGRESS]], [[John B. Larson]], [[Sierra Club Independent Action]], [[Richard Neal]]"
 total-received: $737,137
 fec-candidate-id: H2HI02508
 govtrack-id: 412532
@@ -25,7 +25,7 @@ known-gaps:
   - No legislative record from Congress.gov
   - No mapped relationships
 related: "[[_Kamala Harris Master Profile]] · [[_Donald Trump Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_JD Vance Master Profile]] · [[Securus Technologies - Aventiv]] · [[The Anti-Donor Model - Two Presidential Campaigns]]"
-last-enriched: 2026-04-20
+last-enriched: 2026-04-20T00:00:00.000Z
 ---
 
 

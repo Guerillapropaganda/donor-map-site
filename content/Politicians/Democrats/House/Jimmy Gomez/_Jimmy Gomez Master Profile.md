@@ -18,17 +18,17 @@ phone: 202-225-6235
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H8CA34266
 bills-sponsored: 21
 bills-cosponsored: 399
 bills-enacted: 1
 top-policy-area: Health
-top-donors: "[[Protect Progress]], [[Planned Parenthood Votes]], [[National Association of Realtors]], [[Teamsters - International Brotherhood of Teamsters]], [[Robert Garcia]], [[Morgan Stanley]], [[Judy Chu]], [[CVS Health - Aetna]], [[Progressive Turnout Project]], [[Demand Justice]], [[American Hospital Association PAC]], [[Johnson & Johnson]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[CHC BOLD PAC]], [[National Multifamily Housing Council]], [[Ted Lieu]], [[Lockheed Martin]], [[Adriano Espaillat]], [[AT&T - WarnerMedia]], [[IBEW - International Brotherhood of Electrical Workers]], [[American Federation of State County & Municipal Employees P E O P L E]], [[General Motors]], [[League of Conservation Voters]], [[NextEra Energy]], [[Sierra Club Independent Action]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Microsoft]], [[Anthem - Elevance Health]], [[AIPAC - American Israel Public Affairs Committee]], [[Humana]], [[SEIU COPE]], [[Pete Aguilar]], [[Let America Vote PAC]], [[Comcast - NBCUniversal]], [[DMFI - Democratic Majority for Israel]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Care Action]], [[American Gaming Association]], [[AFL-CIO]], [[United Democracy Project - UDP]], [[Sierra Club Political Committee]], [[Google - Alphabet]], [[Kevin Mullin]], [[Medicare for All - The Policy That Broke the Party]], [[Everytown for Gun Safety]], [[CTA - California Teachers Association]], [[Amgen Inc]], [[Congressional Progressive Caucus PAC]], [[Raytheon (RTX)]], [[Duke Energy]], [[Pfizer Inc.]], [[AbbVie]], [[PG&E - Pacific Gas and Electric]], [[Jamie Raskin]], [[Jim Costa]], [[Nancy Pelosi]], [[Sara Jacobs]], [[Oracle]], [[PG&E]], [[Ballard Partners]], [[AT&T]], [[Verizon]], [[News Corp - Fox Corporation]], [[Apple]], [[Walmart]], [[Meta - Facebook]], [[BlackRock]], [[Gilead Sciences]], [[US CHAMBER OF COMMERCE]], [[Amazon]], [[a16z - Andreessen Horowitz]], [[UFCW - United Food and Commercial Workers]], [[Fanjul Family - Florida Crystals]], [[DNC - Democratic National Committee]], [[Kaiser Permanente]], [[UPS]], [[Airbnb]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[US Chamber of Commerce]]"
-last-enriched: 2026-04-21
+top-donors: "[[Protect Progress]], [[Planned Parenthood Votes]], [[National Association of Realtors]], [[Teamsters - International Brotherhood of Teamsters]], [[Robert Garcia]], [[Morgan Stanley]], [[Judy Chu]], [[CVS Health - Aetna]], [[Progressive Turnout Project]], [[Demand Justice]], [[American Hospital Association PAC]], [[Johnson & Johnson]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[CHC BOLD PAC]], [[National Multifamily Housing Council]], [[Ted Lieu]], [[Lockheed Martin]], [[Adriano Espaillat]], [[AT&T - WarnerMedia]], [[IBEW - International Brotherhood of Electrical Workers]], [[American Federation of State County & Municipal Employees P E O P L E]], [[General Motors]], [[League of Conservation Voters]], [[NextEra Energy]], [[Sierra Club Independent Action]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Microsoft]], [[Anthem - Elevance Health]], [[AIPAC - American Israel Public Affairs Committee]], [[Humana]], [[SEIU COPE]], [[Pete Aguilar]], [[Let America Vote PAC]], [[Comcast - NBCUniversal]], [[DMFI - Democratic Majority for Israel]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Care Action]], [[American Gaming Association]], [[AFL-CIO]], [[United Democracy Project - UDP]], [[Sierra Club Political Committee]], [[Google - Alphabet]], [[Kevin Mullin]], [[Medicare for All - The Policy That Broke the Party]], [[Everytown for Gun Safety]], [[CTA - California Teachers Association]], [[Amgen Inc]], [[Congressional Progressive Caucus PAC]], [[Raytheon (RTX)]], [[Duke Energy]], [[Pfizer Inc.]], [[AbbVie]], [[PG&E - Pacific Gas and Electric]], [[Jamie Raskin]], [[Jim Costa]], [[Nancy Pelosi]], [[Sara Jacobs]], [[Oracle]], [[PG&E]], [[Ballard Partners]], [[AT&T]], [[Verizon]], [[News Corp - Fox Corporation]], [[Apple]], [[Walmart]], [[Meta - Facebook]], [[BlackRock]], [[Gilead Sciences]], [[US CHAMBER OF COMMERCE]], [[Amazon]], [[a16z - Andreessen Horowitz]], [[UFCW - United Food and Commercial Workers]], [[Fanjul Family - Florida Crystals]], [[DNC - Democratic National Committee]], [[Kaiser Permanente]], [[UPS]], [[Airbnb]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[US Chamber of Commerce]], [[Raytheon (RTX Corporation)]], [[Marc A. Veasey]], [[ROBERT GARCIA FOR CONGRESS]], [[Hakeem Jeffries]], [[Akin Gump Strauss Hauer & Feld]], [[CASTRO FOR CONGRESS]], [[AFSCME Working Families Fund]], [[PETE AGUILAR FOR CONGRESS]], [[CHUY GARCIA FOR CONGRESS]], [[MEDICARE FOR ALL]], [[TED LIEU FOR CONGRESS]], [[SARA JACOBS FOR CONGRESS]], [[BARRAGAN FOR CONGRESS]], [[Eric Swalwell]], [[Richard Neal]], [[NANCY PELOSI FOR CONGRESS]], [[Juan Vargas]], [[National Education Association]], [[GALLEGO FOR ARIZONA]], [[Planned Parenthood Action Fund INC]], [[Shomari Figures]], [[ADRIANO ESPAILLAT FOR CONGRESS]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Adam Schiff]], [[JIM COSTA FOR CONGRESS]], [[JUDY CHU FOR CONGRESS]], [[Bradley Scott Schneider]], [[Blue Shield of California]], [[STRICKLAND FOR WASHINGTON]], [[LOFGREN FOR CONGRESS]], [[GARAMENDI FOR CONGRESS]], [[SHERMAN FOR CONGRESS]], [[JASMINE FOR US]], [[DEBORAH ROSS FOR CONGRESS]], [[CITIZENS TO ELECT RICK LARSEN]], [[Southern Company]], [[Greg Casar]], [[ADM - Archer Daniels Midland]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[NORMA TORRES FOR CONGRESS]], [[HALEY STEVENS FOR CONGRESS]], [[JAMIE RASKIN FOR CONGRESS]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Central Intelligence Agency
   - House Committee on Ways and Means
@@ -36,8 +36,8 @@ committees:
   - National Intelligence Enterprise
   - Tax
   - Work and Welfare
-total-raised: "$8.0M"
-career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
+total-raised: $8.0M
+career-total-source: FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)
 ---
 
 

@@ -18,25 +18,25 @@ phone: 202-225-6190
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H0NM03102
 bills-sponsored: 35
 bills-cosponsored: 297
 bills-enacted: 1
 top-policy-area: Health
-top-donors: "[[J Street]], [[Progressive Turnout Project]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Walmart - Walton Family]], [[Let America Vote PAC]], [[CHC BOLD PAC]], [[NEA Fund for Children and Public Education]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Ted Lieu]], [[Pete Aguilar]], [[National Association of Realtors]], [[Planned Parenthood Votes]], [[UA Political Action Committee]], [[Planned Parenthood Action Fund INC]], [[Veronica Escobar]], [[DCCC - Democratic Congressional Campaign Committee]], [[Joe Neguse]], [[League of Conservation Voters]], [[AIPAC - American Israel Public Affairs Committee]], [[Sierra Club Independent Action]], [[VOTER PROTECTION PROJECT]], [[Sara Jacobs]], [[Sierra Club Political Committee]], [[National Education Association]], [[Jason Crow]], [[National Committee to Preserve Social Security PAC]], [[IBEW - International Brotherhood of Electrical Workers]], [[Teamsters - International Brotherhood of Teamsters]], [[Mark Takano]], [[Emily's List]], [[Medicare for All - The Policy That Broke the Party]], [[Debbie Dingell]], [[SEIU COPE]], [[AFL-CIO]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Indivisible Action]], [[Putting People First Political Action Committee]], [[Judy Chu]], [[Care Action]], [[Working Families Party PAC]], [[Congressional Progressive Caucus PAC]], [[Giffords PAC]], [[Hmp]], [[Jamie Raskin]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[HMP]], [[Voter Protection Project]]"
-last-enriched: 2026-04-21
+top-donors: "[[J Street]], [[Progressive Turnout Project]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Walmart - Walton Family]], [[Let America Vote PAC]], [[CHC BOLD PAC]], [[NEA Fund for Children and Public Education]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Ted Lieu]], [[Pete Aguilar]], [[National Association of Realtors]], [[Planned Parenthood Votes]], [[UA Political Action Committee]], [[Planned Parenthood Action Fund INC]], [[Veronica Escobar]], [[DCCC - Democratic Congressional Campaign Committee]], [[Joe Neguse]], [[League of Conservation Voters]], [[AIPAC - American Israel Public Affairs Committee]], [[Sierra Club Independent Action]], [[VOTER PROTECTION PROJECT]], [[Sara Jacobs]], [[Sierra Club Political Committee]], [[National Education Association]], [[Jason Crow]], [[National Committee to Preserve Social Security PAC]], [[IBEW - International Brotherhood of Electrical Workers]], [[Teamsters - International Brotherhood of Teamsters]], [[Mark Takano]], [[Emily's List]], [[Medicare for All - The Policy That Broke the Party]], [[Debbie Dingell]], [[SEIU COPE]], [[AFL-CIO]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Indivisible Action]], [[Putting People First Political Action Committee]], [[Judy Chu]], [[Care Action]], [[Working Families Party PAC]], [[Congressional Progressive Caucus PAC]], [[Giffords PAC]], [[Hmp]], [[Jamie Raskin]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[HMP]], [[Voter Protection Project]], [[MAD 4 PA PAC]], [[DEBORAH ROSS FOR CONGRESS]], [[DEBBIE WASSERMAN SCHULTZ FOR CONGRESS]], [[NORMA TORRES FOR CONGRESS]], [[National Nurses United]], [[SHERMAN FOR CONGRESS]], [[CHUY GARCIA FOR CONGRESS]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Environment America INC]], [[PETE AGUILAR FOR CONGRESS]], [[Henry Cuellar]], [[Nikema Williams]], [[Emanuel Cleaver]], [[James E. Clyburn]], [[Steny H. Hoyer]], [[Jerry Nadler]], [[Hakeem Jeffries]], [[DEB HAALAND FOR CONGRESS]], [[Nydia Velazquez]], [[SARA JACOBS FOR CONGRESS]], [[TED LIEU FOR CONGRESS]], [[VERONICA ESCOBAR FOR CONGRESS]], [[Gerry Connolly]], [[Akin Gump Strauss Hauer & Feld]], [[CASTRO FOR CONGRESS]], [[JOE NEGUSE FOR CONGRESS]], [[MEDICARE FOR ALL]], [[BARRAGAN FOR CONGRESS]], [[MELANIE FOR NEW MEXICO]], [[MARK TAKANO FOR CONGRESS]], [[JASON CROW FOR CONGRESS]], [[Donald S. Beyer]], [[JUDY CHU FOR CONGRESS]], [[GALLEGO FOR ARIZONA]], [[DEBBIE DINGELL FOR CONGRESS]], [[NANCY PELOSI FOR CONGRESS]], [[Ami Bera]], [[LOFGREN FOR CONGRESS]], [[JAMIE RASKIN FOR CONGRESS]], [[Robin L. Kelly]], [[CITIZENS TO ELECT RICK LARSEN]], [[Adam Schiff]], [[Bradley Scott Schneider]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Federal Lands
   - House Committee on Natural Resources
   - House Committee on Rules
   - Indian and Insular Affairs
   - Legislative and Budget Process
-total-raised: "$8.6M"
-career-total-source: "FEC weball summary (cycles 2020, 2022, 2024, 2026)"
+total-raised: $8.6M
+career-total-source: FEC weball summary (cycles 2020, 2022, 2024, 2026)
 ---
 
 

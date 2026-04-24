@@ -10,16 +10,16 @@ party: Republican
 chamber: Cabinet
 issues:
   - Wall Street & Finance
-top-donors: "[[Elon Musk]], [[Goldman Sachs]]"
+top-donors: "[[Elon Musk]], [[Goldman Sachs]], [[Palmetto State Priorities]]"
 source-types:
   - Congress
   - FEC
 known-gaps:
-  - "No voting record data"
+  - No voting record data
 related: "[[_Donald Trump Master Profile]] · [[Goldman Sachs]] · [[The Wall Street-Schumer Funding Axis]] · [[_Chuck Schumer Master Profile]] · [[Elon Musk|Elon Musk - Tesla SpaceX X]]"
 urls-first-triaged: "2026-04-15"
 corroboration-count: 2
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

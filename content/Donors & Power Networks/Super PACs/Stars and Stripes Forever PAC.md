@@ -5,14 +5,14 @@ content-readiness: data-complete
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00635243
 aliases:
   - STARS AND STRIPES FOREVER PAC
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Maxine Waters]], [[Sherrod Brown]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Maxine Waters]], [[Sherrod Brown]], [[NOVA LABEL]], [[SAVANNA COMMUNICATIONS]], [[EBERLE COMMUNICATIONS GROUP]], [[MDI IMAGING & MAIL]], [[WILLIAM J. OLSON, P.C.]], [[VALTIM]], [[RST MARKETING]], [[D & D UNLIMITED, INC.]], [[ZIP MAILING SERVICES, INC.]], [[ACTION MAILERS]], [[D&D UNLIMITED]], [[HUCKABY DAVIS LISKER]], [[SOUSA, JOHN P IV]], [[Campaign for Community Change]], [[MDI IMAGING AND MAIL]], [[ECG DATA CENTER]], [[AMH PRINT GROUP]], [[Cindy Hyde-Smith]], [[Donald Trump]]"
 related: "[[Maxine Waters]] · [[Sherrod Brown]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -24,7 +24,7 @@ independent-expenditures: 1617
 individual-contributions: 122496
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

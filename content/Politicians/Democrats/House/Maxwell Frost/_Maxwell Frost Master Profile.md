@@ -18,26 +18,26 @@ phone: 202-225-2176
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2FL10259
 bills-sponsored: 20
 bills-cosponsored: 518
 bills-enacted: 1
 top-policy-area: Health
-top-donors: "[[NEA Fund for Children and Public Education]], [[National Nurses United]], [[Sierra Club Independent Action]], [[AT&T - WarnerMedia]], [[Protect Our Future PAC]], [[League of Conservation Voters]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Pete Aguilar]], [[Sierra Club Political Committee]], [[Robert Garcia]], [[IBEW - International Brotherhood of Electrical Workers]], [[Giffords PAC]], [[National Association of Realtors]], [[SEIU COPE]], [[Let America Vote PAC]], [[Walmart - Walton Family]], [[Demand Justice]], [[Jamie Raskin]], [[Working Families Party PAC]], [[Ted Lieu]], [[MoveOn.org Political Action]], [[Unite Here Tip Campaign Committee]], [[Adriano Espaillat]], [[CHC BOLD PAC]], [[Medicare for All - The Policy That Broke the Party]], [[Everytown for Gun Safety]], [[Teamsters - International Brotherhood of Teamsters]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Planned Parenthood Action Fund INC]], [[Congressional Progressive Caucus PAC]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[AT&T]]"
-last-enriched: 2026-04-21
+top-donors: "[[NEA Fund for Children and Public Education]], [[National Nurses United]], [[Sierra Club Independent Action]], [[AT&T - WarnerMedia]], [[Protect Our Future PAC]], [[League of Conservation Voters]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Pete Aguilar]], [[Sierra Club Political Committee]], [[Robert Garcia]], [[IBEW - International Brotherhood of Electrical Workers]], [[Giffords PAC]], [[National Association of Realtors]], [[SEIU COPE]], [[Let America Vote PAC]], [[Walmart - Walton Family]], [[Demand Justice]], [[Jamie Raskin]], [[Working Families Party PAC]], [[Ted Lieu]], [[MoveOn.org Political Action]], [[Unite Here Tip Campaign Committee]], [[Adriano Espaillat]], [[CHC BOLD PAC]], [[Medicare for All - The Policy That Broke the Party]], [[Everytown for Gun Safety]], [[Teamsters - International Brotherhood of Teamsters]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Planned Parenthood Action Fund INC]], [[Congressional Progressive Caucus PAC]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[AT&T]], [[Maxwell Frost]], [[JAMIE RASKIN FOR CONGRESS]], [[ADRIANO ESPAILLAT FOR CONGRESS]], [[MEDICARE FOR ALL]], [[Donald S. Beyer]], [[CITIZENS TO ELECT RICK LARSEN]], [[BARRAGAN FOR CONGRESS]], [[UNITED WITH DELIA FOR CONGRESS]], [[National Education Association]], [[James E. Clyburn]], [[ROBERT GARCIA FOR CONGRESS]], [[Troy A. Carter]], [[TED LIEU FOR CONGRESS]], [[PETE AGUILAR FOR CONGRESS]], [[DOGGETT FOR U S CONGRESS COMMITTEE]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Economic Growth, Energy Policy, and Regulatory Affairs"
+  - Economic Growth, Energy Policy, and Regulatory Affairs
   - Government Operations
   - Highways and Transit
   - House Committee on Oversight and Government Reform
   - House Committee on Transportation and Infrastructure
-  - "Railroads, Pipelines, and Hazardous Materials"
-total-raised: "$9.9M"
-career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
+  - Railroads, Pipelines, and Hazardous Materials
+total-raised: $9.9M
+career-total-source: FEC weball summary (cycles 2022, 2024, 2026)
 ---
 
 

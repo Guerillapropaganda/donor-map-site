@@ -1,37 +1,38 @@
 ---
-title: "Eugene Simon Vindman"
+title: Eugene Simon Vindman
 type: politician
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Virginia"
-state-abbr: "VA"
+party: Democrat
+chamber: House
+state: Virginia
+state-abbr: VA
 district: "7"
-bioguide-id: "V000138"
+bioguide-id: V000138
 govtrack-id: 457027
 born: "1975-06-06"
-wikidata-id: "Q112610369"
-website: "https://vindman.house.gov"
-phone: "202-225-2815"
+wikidata-id: Q112610369
+website: https://vindman.house.gov
+phone: 202-225-2815
 source-types:
   - Congress
   - GovTrack
 known-gaps:
-  - "No FEC contribution data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Commodity Markets, Digital Assets, and Rural Development"
-  - "Conservation, Research, and Biotechnology"
-  - "Cyber, Information Technologies, and Innovation"
+  - Commodity Markets, Digital Assets, and Rural Development
+  - Conservation, Research, and Biotechnology
+  - Cyber, Information Technologies, and Innovation
   - House Committee on Agriculture
   - House Committee on Armed Services
   - Seapower and Projection Forces
 bills-sponsored: 51
 corroboration-count: 2
+top-donors: "[[Chris Coons]], [[DEBORAH ROSS FOR CONGRESS]], [[TED LIEU FOR CONGRESS]], [[Planned Parenthood Action Fund INC]], [[Donald S. Beyer]], [[STANTON FOR CONGRESS]], [[CASTRO FOR CONGRESS]], [[LORI TRAHAN FOR CONGRESS COMMITTEE]], [[GRACE FOR NEW YORK]], [[BILL FOSTER FOR CONGRESS]], [[National Education Association]], [[KATHERINE CLARK FOR CONGRESS]], [[JULIA BROWNLEY FOR CONGRESS]], [[Janice D. Schakowsky]], [[Richard Neal]], [[PETE AGUILAR FOR CONGRESS]], [[JUDY CHU FOR CONGRESS]], [[Google - Alphabet]], [[NIKKI FOR CONGRESS]], [[Kim Schrier]], [[MCCLELLAN FOR CONGRESS]], [[Let America Vote PAC]], [[NANCY PELOSI FOR CONGRESS]], [[SHARICE FOR CONGRESS]], [[BARRAGAN FOR CONGRESS]], [[Leidos]], [[League of Conservation Voters]], [[JOE NEGUSE FOR CONGRESS]], [[Lizzie Fletcher]], [[SHERMAN FOR CONGRESS]], [[LANDSMAN FOR CONGRESS]], [[Robert Garcia]], [[JAKE AUCHINCLOSS FOR CONGRESS]], [[LUZ RIVAS FOR CONGRESS]], [[MARK KELLY FOR SENATE]], [[Marc A. Veasey]], [[Maxwell Frost]], [[Protect Progress]], [[Bradley Scott Schneider]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Coinbase]], [[CHRISSY HOULAHAN FOR CONGRESS]]"
 ---
 
 

@@ -299,7 +299,7 @@ Attention Queue dispatcher daemon liveness — log freshness during expected-upt
 - **Leverage:** ★★★★★
 - **Surfaced by:** `vault-audit`
 
-### vault-audit: type-specific-a-plus — 1388 findings
+### vault-audit: type-specific-a-plus — 1322 findings
 
 Per-type A+ publication bar (ADR-0022): universal floor + type-specific checks for politician/donor/corporation/think-tank — 446 scanned, 0 pass, 446 fail. By type: donor 0/266, corporation 0/6, politician 0/164, state-politician 0/7, local-politician 0/1, think-tank 0/2.
 
@@ -782,16 +782,16 @@ Marcia Fudge has sponsored 14 bills in the "Agriculture and Food" policy area. T
 
 ### vault-audit: reconciliation-framework-tier-1 — 145 findings
 
-Data integrity: absurd-value frontmatter, self-loop edges, duplicates, orphans — 145 error, 7599 warn (7744 findings total).
+Data integrity: absurd-value frontmatter, self-loop edges, duplicates, orphans — 145 error, 7816 warn (7961 findings total).
 
 - **Where:** `/system-health`
 - **Cost:** ~45 min
 - **Leverage:** ★★★★☆
 - **Surfaced by:** `vault-audit`
 
-### vault-audit: frontmatter-schema — 3319 findings
+### vault-audit: frontmatter-schema — 232 findings
 
-Frontmatter schema violations per ADR-0023 (universal/type-required/proposed-required/retired) — 2943 scanned, 1689 with violations. 232 hard (universal/type-required/id/retired), 3087 soft (proposed-required).
+Frontmatter schema violations per ADR-0023 (universal/type-required/proposed-required/retired) — 2943 scanned, 1689 with violations. 232 error(s) (universal/type-required/id/retired/unknown-type), 3082 info (proposed-required backfill per ADR-0023 Phase C/D).
 
 - **Where:** `/system-health`
 - **Cost:** ~60 min

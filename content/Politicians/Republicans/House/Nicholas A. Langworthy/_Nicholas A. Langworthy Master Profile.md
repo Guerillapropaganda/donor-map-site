@@ -1,32 +1,32 @@
 ---
-title: "Nicholas A. Langworthy"
+title: Nicholas A. Langworthy
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "New York"
-state-abbr: "NY"
+party: Republican
+chamber: House
+state: New York
+state-abbr: NY
 district: "23"
-bioguide-id: "L000600"
+bioguide-id: L000600
 govtrack-id: 456927
 born: "1981-02-27"
-wikidata-id: "Q55356856"
-website: "https://langworthy.house.gov"
-phone: "202-225-3161"
+wikidata-id: Q55356856
+website: https://langworthy.house.gov
+phone: 202-225-3161
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 32
 bills-cosponsored: 364
 bills-enacted: 1
-top-policy-area: "Crime and Law Enforcement"
-last-enriched: 2026-04-21
+top-policy-area: Crime and Law Enforcement
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Energy
   - Environment
@@ -35,6 +35,7 @@ committees:
   - House Committee on Oversight and Government Reform
   - House Committee on Rules
   - Legislative and Budget Process
+top-donors: "[[National Restaurant Association]], [[CLAUDIA TENNEY FOR CONGRESS]], [[Nucor Corporation]], [[Associated General Contractors of America Political Action Committee]], [[Performance Racing Inc.]], [[NRA Political Victory Fund]], [[American College of Radiology Association PAC]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[Tyson Foods]], [[CLIFF BENTZ FOR CONGRESS]], [[AIPAC - American Israel Public Affairs Committee]], [[Steve Scalise]], [[Cargill]], [[National Cattlemen's Beef Association]], [[Koch Industries]], [[MAX MILLER FOR CONGRESS]], [[AFL-CIO]], [[Mike Johnson]], [[Google - Alphabet]], [[Gilead Sciences]], [[Pfizer Inc.]], [[Richard Hudson]], [[HAGEMAN FOR WYOMING]], [[Williams Companies]], [[DAVID ROUZER FOR CONGRESS]], [[Tom Emmer]], [[NEHLS FOR CONGRESS]], [[Guy Reschenthaler]], [[Humana]], [[TEXANS FOR JODEY ARRINGTON]], [[Blue Shield of California]], [[Amgen Inc]], [[Southern Company]]"
 ---
 
 

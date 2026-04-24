@@ -18,25 +18,25 @@ phone: 202-225-2161
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 108
 bills-cosponsored: 718
 bills-enacted: 9
 top-policy-area: Health
-top-donors: "[[Citigroup]], [[PG&E - Pacific Gas and Electric]], [[Kaiser Permanente]], [[UPS]], [[Google - Alphabet]], [[Microsoft]], [[Oracle]], [[Hospital Corporation of America - HCA]], [[Apple]], [[Center for American Progress]], [[Ripple]], [[Charles Schwab]], [[Goldman Sachs]], [[Amazon]], [[FTX - Sam Bankman-Fried]], [[iHeartMedia]], [[Airbnb]], [[Lockheed Martin]], [[Comcast - NBCUniversal]], [[McDonalds Corporation]]"
-last-enriched: 2026-04-21
+top-donors: "[[Citigroup]], [[PG&E - Pacific Gas and Electric]], [[Kaiser Permanente]], [[UPS]], [[Google - Alphabet]], [[Microsoft]], [[Oracle]], [[Hospital Corporation of America - HCA]], [[Apple]], [[Center for American Progress]], [[Ripple]], [[Charles Schwab]], [[Goldman Sachs]], [[Amazon]], [[FTX - Sam Bankman-Fried]], [[iHeartMedia]], [[Airbnb]], [[Lockheed Martin]], [[Comcast - NBCUniversal]], [[McDonalds Corporation]], [[J Street]], [[BONNIE WATSON COLEMAN FOR CONGRESS]], [[JAMIE RASKIN FOR CONGRESS]], [[Environment America INC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Sierra Club Political Committee]], [[AFL-CIO]], [[League of Conservation Voters]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Giffords PAC]], [[AbbVie]], [[CVS Health - Aetna]], [[Nucor Corporation]], [[American Gaming Association]], [[National Education Association]], [[Meta - Facebook]], [[Planned Parenthood Action Fund INC]], [[AIPAC - American Israel Public Affairs Committee]], [[Let America Vote PAC]], [[Jerrold Nadler]], [[PETE AGUILAR FOR CONGRESS]], [[SHERMAN FOR CONGRESS]], [[Hakeem Jeffries]], [[Amgen Inc]], [[Bennie Thompson]], [[Southern Company]], [[Akin Gump Strauss Hauer & Feld]], [[MEDICARE FOR ALL]], [[BARBARA LEE FOR CONGRESS]], [[SETH FOR MASSACHUSETTS, INC]], [[MARK TAKANO FOR CONGRESS]], [[Yvette D. Clarke]], [[KATHERINE CLARK FOR CONGRESS]], [[James E. Clyburn]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Courts, Intellectual Property, Artificial Intelligence, and the Internet"
+  - Courts, Intellectual Property, Artificial Intelligence, and the Internet
   - Federal Lands
   - House Committee on Natural Resources
   - House Committee on Rules
   - House Committee on the Judiciary
   - Legislative and Budget Process
   - The Constitution and Limited Government
-  - "Water, Wildlife and Fisheries"
+  - Water, Wildlife and Fisheries
 ---
 
 

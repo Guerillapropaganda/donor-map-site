@@ -16,7 +16,7 @@ issues:
   - Tax Policy
   - Government Reform
   - Anti-ESG
-top-donors: "[[Jeffrey Yass]], [[Peter Thiel]], [[Ross Stevens]], [[PRIORITIES USA ACTION]], [[WinRed]], [[Drain the DC Swamp PAC]], [[Ruralvote.org]], [[Trump Victory]], [[Priorities USA Action]]"
+top-donors: "[[Jeffrey Yass]], [[Peter Thiel]], [[Ross Stevens]], [[PRIORITIES USA ACTION]], [[WinRed]], [[Drain the DC Swamp PAC]], [[Ruralvote.org]], [[Trump Victory]], [[Priorities USA Action]], [[Vivek Ramaswamy]]"
 total-received: $66,197,196
 fec-candidate-id: P40011082
 source-types:
@@ -24,8 +24,8 @@ source-types:
   - SEC
 corroboration-count: 2
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
+  - No FEC contribution data
+  - No voting record data
 related: "[[_Donald Trump Master Profile]] · [[Elon Musk]] · [[Jeffrey Yass]] · [[Peter Thiel]] · [[The Roivant Fortune and the FDA Deregulation Conflict]] · [[Ross Stevens]] · [[Jeff Yass Follows TikTok Money Across Every Candidate]] · [[Amy Acton]] · [[The Labor Coalition and What Unions Expect]] · [[The Healthcare Platform and the Insurance Industry Question]]"
 needs-reenrichment: true
 reenrich-reason: re-run fec pipeline
@@ -34,9 +34,9 @@ checklist-na:
   - "voting-records: Never held elected office (candidate)"
   - "committee-assignments: Never held elected office (candidate)"
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-21
-total-raised: "$66.2M"
-career-total-source: "FEC weball summary (cycles 2024)"
+last-enriched: 2026-04-21T00:00:00.000Z
+total-raised: $66.2M
+career-total-source: FEC weball summary (cycles 2024)
 ---
 
 

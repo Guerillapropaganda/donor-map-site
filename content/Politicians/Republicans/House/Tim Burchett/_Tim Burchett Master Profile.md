@@ -18,17 +18,17 @@ phone: 202-225-5435
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H8TN02119
 bills-sponsored: 32
 bills-cosponsored: 219
 bills-enacted: 0
 top-policy-area: International Affairs
-top-donors: "[[MAJORITY PAC]], [[Lauren Boebert]], [[Raytheon (RTX)]], [[American Chemistry Council, INC]], [[UA Political Action Committee]], [[David Rouzer]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Association of Realtors]], [[WinRed]], [[National Rifle Association]], [[General Motors]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Associated General Contractors of America Political Action Committee]], [[Planned Parenthood Votes]], [[AIPAC - American Israel Public Affairs Committee]], [[CoreCivic - Private Prisons]], [[Majority PAC]]"
-last-enriched: 2026-04-21
+top-donors: "[[MAJORITY PAC]], [[Lauren Boebert]], [[Raytheon (RTX)]], [[American Chemistry Council, INC]], [[UA Political Action Committee]], [[David Rouzer]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Association of Realtors]], [[WinRed]], [[National Rifle Association]], [[General Motors]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Associated General Contractors of America Political Action Committee]], [[Planned Parenthood Votes]], [[AIPAC - American Israel Public Affairs Committee]], [[CoreCivic - Private Prisons]], [[Majority PAC]], [[Raytheon (RTX Corporation)]], [[AFL-CIO]], [[Steve Scalise]], [[Darin Lahood]], [[NRA Political Victory Fund]], [[TEXANS FOR JODEY ARRINGTON]], [[National Right to Life PAC]], [[DAVID ROUZER FOR CONGRESS]], [[William R. Timmons]], [[CoreCivic]], [[FRIENDS OF MATT GAETZ]], [[Kevin McCarthy]], [[LAUREN BOEBERT FOR CONGRESS]], [[JOE WILSON FOR CONGRESS]], [[FRIENDS OF THA]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Aviation
   - Delivering on Government Efficiency
@@ -38,10 +38,10 @@ committees:
   - House Committee on Oversight and Government Reform
   - House Committee on Transportation and Infrastructure
   - Middle East and North Africa
-  - "Railroads, Pipelines, and Hazardous Materials"
+  - Railroads, Pipelines, and Hazardous Materials
   - South and Central Asia
-total-raised: "$6.3M"
-career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
+total-raised: $6.3M
+career-total-source: FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)
 ---
 
 

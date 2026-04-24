@@ -18,9 +18,9 @@ phone: 202-225-3531
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2CA14162
 total-raised: 19928
@@ -32,10 +32,10 @@ bills-sponsored: 6
 bills-cosponsored: 593
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[United Food and Commercial Workers International Union Active Ballot Club]], [[National Association of Realtors]], [[Teamsters - International Brotherhood of Teamsters]], [[IBEW - International Brotherhood of Electrical Workers]], [[AbbVie]], [[AIPAC - American Israel Public Affairs Committee]], [[Pfizer Inc.]], [[NEA Fund for Children and Public Education]], [[American Hospital Association PAC]], [[Comcast - NBCUniversal]], [[SEIU COPE]], [[Sierra Club Political Committee]], [[League of Conservation Voters]], [[AT&T - WarnerMedia]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Lockheed Martin]], [[Amgen Inc]], [[Courage California Super Pac]], [[Johnson & Johnson]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Gilead Sciences]], [[PG&E - Pacific Gas and Electric]], [[Anthem - Elevance Health]], [[J Street]], [[DMFI - Democratic Majority for Israel]], [[CTA - California Teachers Association]], [[Sierra Club Independent Action]], [[Walmart - Walton Family]], [[Alice B. Toklas LGBTQ Democratic Club Federal PAC]], [[Google - Alphabet]], [[Progressive Turnout Project]], [[National Nurses United]], [[CVS Health - Aetna]], [[UA Political Action Committee]], [[Ted Lieu]], [[United Democracy Project - UDP]], [[Coalition to Grow San Francisco - Grow Sf PAC]], [[Medicare for All - The Policy That Broke the Party]], [[Mike Thompson]], [[Raytheon (RTX Corporation)]], [[Amazon]], [[AT&T]], [[Wells Fargo]], [[Meta - Facebook]], [[ActBlue]], [[BlackRock]], [[Morgan Stanley]], [[Apple]], [[Tesla - Elon Musk Political Operation]], [[Kaiser Permanente]], [[DoorDash]], [[American Federation of State County & Municipal Employees  P E O P L E]]"
-last-enriched: 2026-04-21
+top-donors: "[[United Food and Commercial Workers International Union Active Ballot Club]], [[National Association of Realtors]], [[Teamsters - International Brotherhood of Teamsters]], [[IBEW - International Brotherhood of Electrical Workers]], [[AbbVie]], [[AIPAC - American Israel Public Affairs Committee]], [[Pfizer Inc.]], [[NEA Fund for Children and Public Education]], [[American Hospital Association PAC]], [[Comcast - NBCUniversal]], [[SEIU COPE]], [[Sierra Club Political Committee]], [[League of Conservation Voters]], [[AT&T - WarnerMedia]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Lockheed Martin]], [[Amgen Inc]], [[Courage California Super Pac]], [[Johnson & Johnson]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Gilead Sciences]], [[PG&E - Pacific Gas and Electric]], [[Anthem - Elevance Health]], [[J Street]], [[DMFI - Democratic Majority for Israel]], [[CTA - California Teachers Association]], [[Sierra Club Independent Action]], [[Walmart - Walton Family]], [[Alice B. Toklas LGBTQ Democratic Club Federal PAC]], [[Google - Alphabet]], [[Progressive Turnout Project]], [[National Nurses United]], [[CVS Health - Aetna]], [[UA Political Action Committee]], [[Ted Lieu]], [[United Democracy Project - UDP]], [[Coalition to Grow San Francisco - Grow Sf PAC]], [[Medicare for All - The Policy That Broke the Party]], [[Mike Thompson]], [[Raytheon (RTX Corporation)]], [[Amazon]], [[AT&T]], [[Wells Fargo]], [[Meta - Facebook]], [[ActBlue]], [[BlackRock]], [[Morgan Stanley]], [[Apple]], [[Tesla - Elon Musk Political Operation]], [[Kaiser Permanente]], [[DoorDash]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Blue Shield of California]], [[TED LIEU FOR CONGRESS]], [[MIKE THOMPSON FOR CONGRESS]], [[Richard Neal]], [[MEDICARE FOR ALL]], [[National Education Association]], [[Southern Company]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Commerce, Manufacturing, and Trade"
+  - Commerce, Manufacturing, and Trade
   - Energy
   - House Committee on Energy and Commerce
   - Oversight and Investigations

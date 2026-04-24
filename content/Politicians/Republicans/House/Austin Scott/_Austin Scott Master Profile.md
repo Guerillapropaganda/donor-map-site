@@ -18,20 +18,20 @@ phone: 202-225-6531
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 8
 bills-cosponsored: 224
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[Morgan Stanley]], [[General Dynamics]], [[Ballard Partners]], [[Amazon]]"
-last-enriched: 2026-04-21
+top-donors: "[[Morgan Stanley]], [[General Dynamics]], [[Ballard Partners]], [[Amazon]], [[Koch Industries]], [[Cargill]], [[Associated General Contractors of America Political Action Committee]], [[NRA Political Victory Fund]], [[John Boehner]], [[National Cattlemen's Beef Association]], [[ADM - Archer Daniels Midland]], [[SCOTT, TIMOTHY]], [[Richard Hudson]], [[Steve Scalise]], [[JIM JORDAN FOR CONGRESS]], [[Occidental Petroleum]], [[Williams Companies]], [[John R. Carter]], [[Tyson Foods]], [[American College of Radiology Association PAC]], [[AFL-CIO]], [[TEXANS FOR JODEY ARRINGTON]], [[McDonalds Corporation]], [[Monsanto - Bayer]], [[Freedom's Defense Fund]], [[Earl L. Buddy Carter]], [[AIPAC - American Israel Public Affairs Committee]], [[Leidos]], [[Pete Sessions]], [[Humana]], [[Paul Ryan]], [[Google - Alphabet]], [[Southern States Police Benevolent Assoc PAC Fund]], [[Mike Johnson]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[Darin Lahood]], [[Georgia Health Care Assoc.- Political Action Commi]], [[Demand Progress (Non-Federal Account)]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Central Intelligence Agency
-  - "Commodity Markets, Digital Assets, and Rural Development"
-  - "General Farm Commodities, Risk Management, and Credit"
+  - Commodity Markets, Digital Assets, and Rural Development
+  - General Farm Commodities, Risk Management, and Credit
   - House Committee on Agriculture
   - House Committee on Armed Services
   - House Committee on Rules

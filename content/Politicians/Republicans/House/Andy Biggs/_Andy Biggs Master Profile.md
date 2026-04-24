@@ -18,26 +18,26 @@ phone: 202-225-2635
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H6AZ05083
 bills-sponsored: 612
 bills-cosponsored: 408
 bills-enacted: 0
 top-policy-area: Government Operations and Politics
-top-donors: "[[WinRed]], [[Really American Pac]], [[Jim Jordan]], [[National Association of Realtors]], [[Lockheed Martin]], [[iHeartMedia]], [[FAMILY RESEARCH COUNCIL ACTION POLITICAL ACTION COMMITTEE]], [[National Rifle Association]], [[AIPAC - American Israel Public Affairs Committee]], [[Family Research Council Action Political Action Committee]]"
-last-enriched: 2026-04-21
+top-donors: "[[WinRed]], [[Really American Pac]], [[Jim Jordan]], [[National Association of Realtors]], [[Lockheed Martin]], [[iHeartMedia]], [[FAMILY RESEARCH COUNCIL ACTION POLITICAL ACTION COMMITTEE]], [[National Rifle Association]], [[AIPAC - American Israel Public Affairs Committee]], [[Family Research Council Action Political Action Committee]], [[Google - Alphabet]], [[Pfizer Inc.]], [[Patriot Voices PAC]], [[JIM JORDAN FOR CONGRESS]], [[FRIENDS OF MATT GAETZ]], [[Steve Scalise]], [[GARY PALMER FOR CONGRESS]], [[Koch Industries]], [[TEXANS FOR JODEY ARRINGTON]], [[NRA Political Victory Fund]], [[Conservative Leadership PAC]], [[Richard Hudson]], [[Jim Banks]], [[National Restaurant Association]], [[Campaign for Working Families]], [[Senate Conservatives Fund]], [[American Gaming Association]], [[Tom Emmer]], [[ANDY HARRIS FOR CONGRESS]], [[Club for Growth]], [[Meta - Facebook]], [[International Association of Firefighters Interested in Registration and Education PAC]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Crime and Federal Government Surveillance
   - Federal Law Enforcement
   - House Committee on Oversight and Government Reform
   - House Committee on the Judiciary
-  - "Immigration Integrity, Security, and Enforcement"
+  - Immigration Integrity, Security, and Enforcement
   - Military and Foreign Affairs
-total-raised: "$7.0M"
-career-total-source: "FEC weball summary (cycles 2016, 2018, 2020, 2022, 2024, 2026)"
+total-raised: $7.0M
+career-total-source: FEC weball summary (cycles 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

@@ -18,17 +18,17 @@ phone: 202-225-4035
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2FL07156
 bills-sponsored: 15
 bills-cosponsored: 239
 bills-enacted: 2
 top-policy-area: International Affairs
-top-donors: "[[National Association of Realtors]], [[AT&T - WarnerMedia]], [[National Rifle Association]], [[American Hospital Association PAC]], [[Congressional Leadership Fund]], [[Jim Jordan]], [[Adrian Smith]], [[AIPAC - American Israel Public Affairs Committee]], [[Duke Energy]], [[NRCC - National Republican Congressional Committee]], [[Club for Growth INC PAC]], [[General Dynamics]], [[Darrell Issa]], [[National Right to Life Victory Fund]], [[Honeywell]], [[WinRed]], [[Lockheed Martin]], [[MAJORITY PAC]], [[Madison Project Inc.]], [[Truth and Courage PAC]], [[REPUBLICAN PARTY OF FLORIDA]], [[Comcast - NBCUniversal]], [[NextEra Energy]], [[Ron Estes]], [[Ben Cline]], [[Tzedek PAC]], [[National Cattlemen's Beef Association]], [[Jake Ellzey]], [[Chevron]], [[Gun Owners of America]], [[Leidos]], [[Byron Donalds]], [[American Conservative Union]], [[L3Harris Technologies]], [[Northrop Grumman]], [[Anduril Industries]], [[Fanjul Family - Florida Crystals]], [[Ballard Partners]], [[Heritage Foundation]], [[Walmart]], [[Honeywell International]], [[AT&T]], [[Majority PAC]], [[Republican Party of Florida]]"
-last-enriched: 2026-04-21
+top-donors: "[[National Association of Realtors]], [[AT&T - WarnerMedia]], [[National Rifle Association]], [[American Hospital Association PAC]], [[Congressional Leadership Fund]], [[Jim Jordan]], [[Adrian Smith]], [[AIPAC - American Israel Public Affairs Committee]], [[Duke Energy]], [[NRCC - National Republican Congressional Committee]], [[Club for Growth INC PAC]], [[General Dynamics]], [[Darrell Issa]], [[National Right to Life Victory Fund]], [[Honeywell]], [[WinRed]], [[Lockheed Martin]], [[MAJORITY PAC]], [[Madison Project Inc.]], [[Truth and Courage PAC]], [[REPUBLICAN PARTY OF FLORIDA]], [[Comcast - NBCUniversal]], [[NextEra Energy]], [[Ron Estes]], [[Ben Cline]], [[Tzedek PAC]], [[National Cattlemen's Beef Association]], [[Jake Ellzey]], [[Chevron]], [[Gun Owners of America]], [[Leidos]], [[Byron Donalds]], [[American Conservative Union]], [[L3Harris Technologies]], [[Northrop Grumman]], [[Anduril Industries]], [[Fanjul Family - Florida Crystals]], [[Ballard Partners]], [[Heritage Foundation]], [[Walmart]], [[Honeywell International]], [[AT&T]], [[Majority PAC]], [[Republican Party of Florida]], [[HAGEMAN FOR WYOMING]], [[Steve Scalise]], [[DR. BRIAN BABIN FOR CONGRESS]], [[ROBERT ADERHOLT FOR CONGRESS]], [[RON ESTES FOR CONGRESS]], [[JAKE ELLZEY FOR CONGRESS]], [[NRA Political Victory Fund]], [[ADRIAN SMITH FOR CONGRESS]], [[Southern Company]], [[BYRON DONALDS FOR CONGRESS]], [[JIM JORDAN FOR CONGRESS]], [[TEXANS FOR JODEY ARRINGTON]], [[Elise Stefanik]], [[BEN CLINE FOR CONGRESS, INC.]], [[Guy Reschenthaler]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - House Committee on Armed Services
   - House Committee on Foreign Affairs
@@ -37,8 +37,8 @@ committees:
   - Oversight and Intelligence
   - Readiness
   - Western Hemisphere
-total-raised: "$5.1M"
-career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
+total-raised: $5.1M
+career-total-source: FEC weball summary (cycles 2022, 2024, 2026)
 ---
 
 

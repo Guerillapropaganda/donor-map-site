@@ -11,8 +11,8 @@ fec-committee-id: C00809020
 aliases:
   - AMERICAN DREAM FEDERAL ACTION
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Katie Britt]], [[Mark Alford]], [[John Boozman]], [[Aaron Bean]], [[Erin Houchin]], [[Dusty Johnson]], [[David Schweikert]], [[Brad Finstad]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Katie Britt]], [[Mark Alford]], [[John Boozman]], [[Aaron Bean]], [[Erin Houchin]], [[Dusty Johnson]], [[David Schweikert]], [[Brad Finstad]], [[Michael K. Simpson]], [[Ted Budd]], [[Dale W. Strong]], [[Elijah Crane]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -22,9 +22,9 @@ cash-on-hand: 304257
 related: "[[Katie Britt]]"
 source-types:
   - FEC
-last-enriched: 2026-04-21
-total-political-spend: "$9.4M"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2022"
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $9.4M
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2022
 ---
 
 

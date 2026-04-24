@@ -11,8 +11,8 @@ fec-committee-id: C70005897
 aliases:
   - FRIENDS OF THE EARTH (ACTION) INC
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Rashida Tlaib]], [[Friends of the Earth (action) INC]], [[Summer Lee]], [[Cori Bush]], [[Mike Levin]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Rashida Tlaib]], [[Friends of the Earth (action) INC]], [[Summer Lee]], [[Cori Bush]], [[Mike Levin]], [[Bernie Sanders]], [[Rick Larsen]], [[Jon Ossoff]], [[Ilhan Omar]], [[Ed Markey]], [[Lloyd Doggett]], [[Pramila Jayapal]], [[Alexandria Ocasio-Cortez]], [[Jeff Merkley]], [[Raul Grijalva]], [[Chris van Hollen]], [[Jim McGovern]], [[Jeanne Shaheen]], [[Frank Pallone]]"
 related: "[[Rashida Tlaib]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -28,7 +28,7 @@ employee-contributions-total: 2500
 employee-donor-count: 1
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

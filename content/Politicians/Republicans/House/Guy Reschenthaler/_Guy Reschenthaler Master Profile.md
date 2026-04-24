@@ -18,24 +18,24 @@ phone: 202-225-2065
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H8PA18199
 bills-sponsored: 25
 bills-cosponsored: 382
 bills-enacted: 0
 top-policy-area: International Affairs
-top-donors: "[[Comcast - NBCUniversal]], [[Leidos]], [[American Gaming Association]], [[Valero Energy]], [[AIPAC - American Israel Public Affairs Committee]], [[General Motors]], [[Walmart - Walton Family]], [[National Association of Realtors]], [[American Chemistry Council, INC]], [[WinRed]], [[American Hospital Association PAC]], [[Anthem - Elevance Health]], [[Marathon Petroleum]], [[Occidental Petroleum]], [[Halliburton]], [[Bank of America]], [[Teamsters - International Brotherhood of Teamsters]], [[Pennsylvania Pro-Life Federation PAC]], [[Honeywell]], [[JPAC - Jewish Public Affairs Committee of California]], [[Raytheon (RTX)]], [[BAE Systems]], [[CVS Health - Aetna]], [[Lockheed Martin]], [[Alliance Coal, LLC PAC]], [[AbbVie]], [[Pfizer Inc.]], [[General Dynamics]], [[Chevron]], [[AT&T - WarnerMedia]], [[Nucor Corporation]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[National Rifle Association]], [[Associated General Contractors of America Political Action Committee]], [[Save America PAC]], [[Microsoft]], [[National Multifamily Housing Council]], [[Northrop Grumman]], [[National Association of Manufacturers]], [[Gilead Sciences]], [[National Cattlemen's Beef Association]], [[National Restaurant Association]], [[NORPAC]], [[L3Harris Technologies]], [[Tzedek PAC]], [[MAJORITY PAC]], [[Ben Cline]], [[McDonalds Corporation]], [[National Victory Action Fund]], [[Johnson & Johnson]], [[AT&T]], [[Honeywell International]], [[Majority PAC]]"
-last-enriched: 2026-04-21
+top-donors: "[[Comcast - NBCUniversal]], [[Leidos]], [[American Gaming Association]], [[Valero Energy]], [[AIPAC - American Israel Public Affairs Committee]], [[General Motors]], [[Walmart - Walton Family]], [[National Association of Realtors]], [[American Chemistry Council, INC]], [[WinRed]], [[American Hospital Association PAC]], [[Anthem - Elevance Health]], [[Marathon Petroleum]], [[Occidental Petroleum]], [[Halliburton]], [[Bank of America]], [[Teamsters - International Brotherhood of Teamsters]], [[Pennsylvania Pro-Life Federation PAC]], [[Honeywell]], [[JPAC - Jewish Public Affairs Committee of California]], [[Raytheon (RTX)]], [[BAE Systems]], [[CVS Health - Aetna]], [[Lockheed Martin]], [[Alliance Coal, LLC PAC]], [[AbbVie]], [[Pfizer Inc.]], [[General Dynamics]], [[Chevron]], [[AT&T - WarnerMedia]], [[Nucor Corporation]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[National Rifle Association]], [[Associated General Contractors of America Political Action Committee]], [[Save America PAC]], [[Microsoft]], [[National Multifamily Housing Council]], [[Northrop Grumman]], [[National Association of Manufacturers]], [[Gilead Sciences]], [[National Cattlemen's Beef Association]], [[National Restaurant Association]], [[NORPAC]], [[L3Harris Technologies]], [[Tzedek PAC]], [[MAJORITY PAC]], [[Ben Cline]], [[McDonalds Corporation]], [[National Victory Action Fund]], [[Johnson & Johnson]], [[AT&T]], [[Honeywell International]], [[Majority PAC]], [[Raytheon (RTX Corporation)]], [[American Iron and Steel Institute]], [[NRA Political Victory Fund]], [[Meta - Facebook]], [[Google - Alphabet]], [[Akin Gump Strauss Hauer & Feld]], [[Daniel Meuser]], [[Steve Scalise]], [[Koch Industries]], [[Southern Company]], [[JOE WILSON FOR CONGRESS]], [[BEN CLINE FOR CONGRESS, INC.]], [[MCCAUL FOR CONGRESS, INC]], [[Williams Companies]], [[Frank Lucas]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[JIM JORDAN FOR CONGRESS]], [[Glenn Thompson]], [[AFL-CIO]], [[Humane Society Legislative Fund]], [[TEXANS FOR JODEY ARRINGTON]], [[Darin Lahood]], [[American Principles Fund]], [[William R. Timmons]], [[JASON SMITH FOR CONGRESS]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Energy and Water Development and Related Agencies
   - House Committee on Appropriations
-  - "Interior, Environment, and Related Agencies"
-  - "National Security, Department of State, and Related Programs"
-total-raised: "$13.2M"
-career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
+  - Interior, Environment, and Related Agencies
+  - National Security, Department of State, and Related Programs
+total-raised: $13.2M
+career-total-source: FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)
 ---
 
 

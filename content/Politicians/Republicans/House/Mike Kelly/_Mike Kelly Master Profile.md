@@ -18,16 +18,16 @@ phone: 202-225-5406
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-donors: "[[CA Farm Bureau Federation]], [[Pennsylvania Pro-Life Federation PAC]], [[Goldman Sachs]], [[Morgan Stanley]], [[AbbVie]], [[Carlyle Group]], [[Fidelity Investments]], [[Koch Industries]], [[Blackstone Group]], [[Apple]], [[Northrop Grumman]], [[CVS Health - Aetna]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[Business Roundtable]]"
+  - No FEC contribution data
+  - No voting record data
+donors: "[[CA Farm Bureau Federation]], [[Pennsylvania Pro-Life Federation PAC]], [[Goldman Sachs]], [[Morgan Stanley]], [[AbbVie]], [[Carlyle Group]], [[Fidelity Investments]], [[Koch Industries]], [[Blackstone Group]], [[Apple]], [[Northrop Grumman]], [[CVS Health - Aetna]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[Business Roundtable]], [[American College of Radiology Association PAC]], [[Mike Johnson]], [[Associated General Contractors of America Political Action Committee]], [[National Victory Action Fund]], [[Mark E. Amodei]], [[ROGER WILLIAMS FOR U S CONGRESS COMMITTEE]], [[Amgen Inc]], [[Google - Alphabet]], [[AIPAC - American Israel Public Affairs Committee]], [[Paul Ryan]], [[Akin Gump Strauss Hauer & Feld]], [[AFL-CIO]], [[Humana]], [[JASON SMITH FOR CONGRESS]], [[MIKE KELLY FOR CONGRESS]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[Occidental Petroleum]], [[Steve Scalise]], [[National Right to Life Victory Fund]], [[NRA Political Victory Fund]], [[National Association of Manufacturers]], [[McDonalds Corporation]], [[National Restaurant Association]], [[Family Research Council Action Political Action Committee]], [[Nucor Corporation]], [[Williams Companies]], [[National Cattlemen's Beef Association]], [[Pfizer Inc.]], [[Frank Lucas]], [[Pete Sessions]], [[CoreCivic]], [[American Iron and Steel Institute]], [[Darin Lahood]], [[Glenn Thompson]], [[John Boehner]], [[JIM JORDAN FOR CONGRESS]], [[National Right to Life PAC]], [[Meta - Facebook]], [[Republican Jewish Coalition]], [[Gilead Sciences]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Daniel Meuser]], [[Tzedek PAC]], [[BEN CLINE FOR CONGRESS, INC.]], [[Kevin McCarthy]], [[TEXANS FOR JODEY ARRINGTON]], [[Brett Guthrie]], [[VERN BUCHANAN FOR CONGRESS]], [[Donald Trump]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[Gus M. Bilirakis]], [[JOE WILSON FOR CONGRESS]], [[American Gaming Association]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4PA03117
 bills-sponsored: 37
 bills-cosponsored: 315
 bills-enacted: 1
 top-policy-area: Taxation
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Health
   - House Committee on Ways and Means

@@ -2,7 +2,7 @@
 title: Brad Sherman
 type: politician
 content-readiness: draft
-last-updated: 2026-04-19
+last-updated: 2026-04-19T00:00:00.000Z
 source-tier: 1
 party: Democrat
 chamber: House
@@ -29,18 +29,18 @@ bills-sponsored: 15
 bills-cosponsored: 452
 bills-enacted: 0
 top-policy-area: International Affairs
-top-donors: "[[SEIU COPE]], [[Sierra Club Independent Action]], [[Citigroup]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[IBEW - International Brotherhood of Electrical Workers]], [[Anthem - Elevance Health]], [[National Multifamily Housing Council]], [[Bank of America]], [[Northrop Grumman]], [[Raytheon (RTX)]], [[NORPAC]], [[Lockheed Martin]], [[General Motors]], [[National Rental Home Council]], [[Courage California Super Pac]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AT&T - WarnerMedia]], [[NEA Fund for Children and Public Education]], [[Honeywell]], [[UA Political Action Committee]], [[AIPAC - American Israel Public Affairs Committee]], [[CTA - California Teachers Association]], [[DMFI - Democratic Majority for Israel]], [[Comcast - NBCUniversal]], [[National Association of Realtors]], [[Morgan Stanley]], [[American Hospital Association PAC]], [[L3Harris Technologies]], [[National Nurses United]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Planned Parenthood Votes]], [[Ted Lieu]], [[Sierra Club Political Committee]], [[Medicare for All - The Policy That Broke the Party]], [[Google - Alphabet]], [[Progressive Turnout Project]], [[Honeywell International]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[AT&T]]"
-last-enriched: 2026-04-20
+top-donors: "[[SEIU COPE]], [[Sierra Club Independent Action]], [[Citigroup]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[IBEW - International Brotherhood of Electrical Workers]], [[Anthem - Elevance Health]], [[National Multifamily Housing Council]], [[Bank of America]], [[Northrop Grumman]], [[Raytheon (RTX)]], [[NORPAC]], [[Lockheed Martin]], [[General Motors]], [[National Rental Home Council]], [[Courage California Super Pac]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AT&T - WarnerMedia]], [[NEA Fund for Children and Public Education]], [[Honeywell]], [[UA Political Action Committee]], [[AIPAC - American Israel Public Affairs Committee]], [[CTA - California Teachers Association]], [[DMFI - Democratic Majority for Israel]], [[Comcast - NBCUniversal]], [[National Association of Realtors]], [[Morgan Stanley]], [[American Hospital Association PAC]], [[L3Harris Technologies]], [[National Nurses United]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Planned Parenthood Votes]], [[Ted Lieu]], [[Sierra Club Political Committee]], [[Medicare for All - The Policy That Broke the Party]], [[Google - Alphabet]], [[Progressive Turnout Project]], [[Honeywell International]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[AT&T]], [[Raytheon (RTX Corporation)]], [[Amgen Inc]], [[National Education Association]], [[National Committee to Preserve Social Security & Medicare PAC]], [[AFL-CIO]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[LOFGREN FOR CONGRESS]], [[Akin Gump Strauss Hauer & Feld]], [[MBNA Corporation]], [[TED LIEU FOR CONGRESS]], [[NANCY PELOSI FOR CONGRESS]], [[Hakeem Jeffries]], [[Blue Shield of California]], [[Planned Parenthood Action Fund INC]], [[Rosa DeLauro]], [[Pfizer Inc.]], [[House Majority PAC]], [[Steny H. Hoyer]], [[MENENDEZ FOR CONGRESS]], [[MEDICARE FOR ALL]]"
+last-enriched: 2026-04-20T00:00:00.000Z
 committees:
   - Capital Markets
-  - "Digital Assets, Financial Technology, and Artificial Intelligence"
+  - Digital Assets, Financial Technology, and Artificial Intelligence
   - East Asia and Pacific
   - Financial Institutions
   - House Committee on Financial Services
   - House Committee on Foreign Affairs
   - Middle East and North Africa
-total-raised: "$26.4M"
-career-total-source: "FEC weball summary (cycles 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+total-raised: $26.4M
+career-total-source: FEC weball summary (cycles 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

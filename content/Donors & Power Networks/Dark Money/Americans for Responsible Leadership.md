@@ -7,11 +7,11 @@ entity-type: Super PAC
 committee-type: Super PAC (Independent Expenditure-Only)
 committee-id: C00615088
 fec-url: https://www.fec.gov/data/committee/C00615088/
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-ie-support: $19,267,130
 fec-ie-oppose: "null"
-politicians-funded: "[[Paul Ryan]], [[Mitt Romney]]"
+politicians-funded: "[[Paul Ryan]], [[Mitt Romney]], [[Barack Obama]], [[Deb Fischer]], [[Linda McMahon]]"
 related: "[[Mitt Romney]] · [[Paul Ryan]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -21,10 +21,10 @@ cash-on-hand: 510
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
-total-political-spend: "$9.0M"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2012"
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $9.0M
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2012
 ---
 
 

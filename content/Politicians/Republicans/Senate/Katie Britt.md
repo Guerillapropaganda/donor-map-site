@@ -14,38 +14,38 @@ fec-candidate-id: S2AL00145
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
+  - No FEC contribution data
+  - No voting record data
 related: "[[Business Council of Alabama]] · [[Alabama Power]] · [[Drummond Co|Drummond Co.]] · [[Defense Contractors]]"
 top-donors: "[[Alabama Conservatives Fund]] · [[Alabama Christian Conservatives]] · [[Conservative Outsider Pac Inc]] · [[AMERICAN DREAM FEDERAL ACTION]] · [[American Dream Federal Action]]"
-donors: "[[American Dream Federal Action]] · [[AMERICAN DREAM FEDERAL ACTION]] · [[Alabama Conservatives Fund]] · [[Alabama Christian Conservatives]] · [[Conservative Outsider Pac Inc]] · [[General Dynamics]] · [[Pfizer Inc.]] · [[National Rifle Association]] · [[American Hospital Association PAC]] · [[Microsoft]] · [[AT&T - WarnerMedia]] · [[Duke Energy]] · [[Amgen Inc]] · [[National Association of Realtors]] · [[Alabama Power]] · [[Chevron]] · [[National Multifamily Housing Council]] · [[Morgan Stanley]] · [[NextEra Energy]] · [[Drummond Co.]] · [[Citigroup]] · [[Northrop Grumman]] · [[Comcast - NBCUniversal]] · [[Save America PAC]] · [[Palantir]] · [[Tenet Healthcare]] · [[CoreCivic - Private Prisons]] · [[Lockheed Martin]] · [[American Chemistry Council, INC]] · [[VIEW PAC - Value in Electing Women]] · [[National Cattlemen's Beef Association]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[Raytheon (RTX)]] · [[BAE Systems]] · [[WinRed]] · [[Nucor Corporation]] · [[Gilead Sciences]] · [[Republican Jewish Coalition]] · [[Occidental Petroleum]] · [[NRSC - National Republican Senatorial Committee]] · [[Reclaim America PAC]] · [[L3Harris Technologies]] · [[National Restaurant Association]] · [[AIPAC - American Israel Public Affairs Committee]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Club for Growth]] · [[Honeywell]] · [[iHeartMedia]] · [[Opportunity Matters Fund]] · [[American Gaming Association]] · [[Anthem - Elevance Health]] · [[Walmart - Walton Family]] · [[Associated General Contractors of America Political Action Committee]] · [[National Association of Manufacturers]] · [[General Motors]] · [[AT&T]] · [[Palantir Technologies]] · [[Honeywell International]]"
+donors: "[[American Dream Federal Action]] · [[AMERICAN DREAM FEDERAL ACTION]] · [[Alabama Conservatives Fund]] · [[Alabama Christian Conservatives]] · [[Conservative Outsider Pac Inc]] · [[General Dynamics]] · [[Pfizer Inc.]] · [[National Rifle Association]] · [[American Hospital Association PAC]] · [[Microsoft]] · [[AT&T - WarnerMedia]] · [[Duke Energy]] · [[Amgen Inc]] · [[National Association of Realtors]] · [[Alabama Power]] · [[Chevron]] · [[National Multifamily Housing Council]] · [[Morgan Stanley]] · [[NextEra Energy]] · [[Drummond Co.]] · [[Citigroup]] · [[Northrop Grumman]] · [[Comcast - NBCUniversal]] · [[Save America PAC]] · [[Palantir]] · [[Tenet Healthcare]] · [[CoreCivic - Private Prisons]] · [[Lockheed Martin]] · [[American Chemistry Council, INC]] · [[VIEW PAC - Value in Electing Women]] · [[National Cattlemen's Beef Association]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[Raytheon (RTX)]] · [[BAE Systems]] · [[WinRed]] · [[Nucor Corporation]] · [[Gilead Sciences]] · [[Republican Jewish Coalition]] · [[Occidental Petroleum]] · [[NRSC - National Republican Senatorial Committee]] · [[Reclaim America PAC]] · [[L3Harris Technologies]] · [[National Restaurant Association]] · [[AIPAC - American Israel Public Affairs Committee]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Club for Growth]] · [[Honeywell]] · [[iHeartMedia]] · [[Opportunity Matters Fund]] · [[American Gaming Association]] · [[Anthem - Elevance Health]] · [[Walmart - Walton Family]] · [[Associated General Contractors of America Political Action Committee]] · [[National Association of Manufacturers]] · [[General Motors]] · [[AT&T]] · [[Palantir Technologies]] · [[Honeywell International]] · [[Raytheon (RTX Corporation)]] · [[National Republican Senatorial Committee]] · [[Koch Industries]] · [[CoreCivic]] · [[NRA Political Victory Fund]] · [[Williams Companies]] · [[COTTON, THOMAS]] · [[John Thune]] · [[GEO Group - Private Prison Industrial Complex]] · [[American Iron and Steel Institute]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 17
 bills-cosponsored: 367
 bills-enacted: 0
 top-policy-area: International Affairs
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Antitrust, Competition Policy, and Consumer Rights"
+  - Antitrust, Competition Policy, and Consumer Rights
   - Border Security and Immigration
-  - "Commerce, Justice, Science, and Related Agencies"
+  - Commerce, Justice, Science, and Related Agencies
   - Commission on Security and Cooperation in Europe
   - Crime and Counterterrorism
   - Department of Homeland Security
-  - "Departments of Labor, Health and Human Services, and Education, and Related Agencies"
+  - Departments of Labor, Health and Human Services, and Education, and Related Agencies
   - Energy and Water Development
   - Financial Institutions and Consumer Protection
-  - "Housing, Transportation, and Community Development"
+  - Housing, Transportation, and Community Development
   - Intellectual Property
-  - "Securities, Insurance, and Investment"
+  - Securities, Insurance, and Investment
   - Senate Committee on Appropriations
-  - "Senate Committee on Banking, Housing, and Urban Affairs"
+  - Senate Committee on Banking, Housing, and Urban Affairs
   - Senate Committee on Rules and Administration
   - Senate Committee on the Judiciary
-  - "State, Foreign Operations, and Related Programs"
-  - "Transportation, Housing and Urban Development, and Related Agencies"
-total-raised: "$17.7M"
-career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
+  - State, Foreign Operations, and Related Programs
+  - Transportation, Housing and Urban Development, and Related Agencies
+total-raised: $17.7M
+career-total-source: FEC weball summary (cycles 2022, 2024, 2026)
 ---
 
 

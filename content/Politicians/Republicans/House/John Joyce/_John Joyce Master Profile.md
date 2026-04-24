@@ -18,24 +18,24 @@ phone: 202-225-2431
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H8PA13125
 bills-sponsored: 19
 bills-cosponsored: 179
 bills-enacted: 1
 top-policy-area: Health
-top-donors: "[[Anthem - Elevance Health]], [[American Chemistry Council, INC]], [[Pfizer Inc.]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[National Multifamily Housing Council]], [[Johnson & Johnson]], [[iHeartMedia]], [[National Rifle Association]], [[AT&T - WarnerMedia]], [[PG&E - Pacific Gas and Electric]], [[American Hospital Association PAC]], [[American College of Radiology Association PAC]], [[Google - Alphabet]], [[Lockheed Martin]], [[Duke Energy]], [[Marathon Petroleum]], [[Raytheon (RTX)]], [[American Gaming Association]], [[Honeywell]], [[Ford Motor Company]], [[General Motors]], [[Gilead Sciences]], [[Valero Energy]], [[Amgen Inc]], [[Humana]], [[Performance Racing Inc.]], [[Chevron]], [[National Association of Realtors]], [[CVS Health - Aetna]], [[Jim Jordan]], [[Tzedek PAC]], [[AbbVie]], [[WinRed]], [[Pennsylvania Pro-Life Federation PAC]], [[Microsoft]], [[National Restaurant Association]], [[Comcast - NBCUniversal]], [[MAJORITY PAC]], [[General Dynamics]], [[Walmart - Walton Family]], [[Honeywell International]], [[AT&T]], [[Majority PAC]]"
-last-enriched: 2026-04-21
+top-donors: "[[Anthem - Elevance Health]], [[American Chemistry Council, INC]], [[Pfizer Inc.]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[National Multifamily Housing Council]], [[Johnson & Johnson]], [[iHeartMedia]], [[National Rifle Association]], [[AT&T - WarnerMedia]], [[PG&E - Pacific Gas and Electric]], [[American Hospital Association PAC]], [[American College of Radiology Association PAC]], [[Google - Alphabet]], [[Lockheed Martin]], [[Duke Energy]], [[Marathon Petroleum]], [[Raytheon (RTX)]], [[American Gaming Association]], [[Honeywell]], [[Ford Motor Company]], [[General Motors]], [[Gilead Sciences]], [[Valero Energy]], [[Amgen Inc]], [[Humana]], [[Performance Racing Inc.]], [[Chevron]], [[National Association of Realtors]], [[CVS Health - Aetna]], [[Jim Jordan]], [[Tzedek PAC]], [[AbbVie]], [[WinRed]], [[Pennsylvania Pro-Life Federation PAC]], [[Microsoft]], [[National Restaurant Association]], [[Comcast - NBCUniversal]], [[MAJORITY PAC]], [[General Dynamics]], [[Walmart - Walton Family]], [[Honeywell International]], [[AT&T]], [[Majority PAC]], [[Raytheon (RTX Corporation)]], [[NRA Political Victory Fund]], [[TEXANS FOR JODEY ARRINGTON]], [[JOE WILSON FOR CONGRESS]], [[Koch Industries]], [[Darin Lahood]], [[Williams Companies]], [[Southern Company]], [[Glenn Thompson]], [[Akin Gump Strauss Hauer & Feld]], [[Brett Guthrie]], [[Steve Scalise]], [[JIM JORDAN FOR CONGRESS]], [[Meta - Facebook]], [[DAVID ROUZER FOR CONGRESS]], [[Associated General Contractors of America Political Action Committee]], [[William R. Timmons]], [[ADRIAN SMITH FOR CONGRESS]], [[Blue Shield of California]], [[MCCAUL FOR CONGRESS, INC]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Environment
   - Health
   - House Committee on Energy and Commerce
   - Oversight and Investigations
-total-raised: "$8.5M"
-career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
+total-raised: $8.5M
+career-total-source: FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)
 ---
 
 

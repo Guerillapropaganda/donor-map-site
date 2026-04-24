@@ -22,19 +22,19 @@ source-types:
   - Congress
 corroboration-count: 2
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
+  - No FEC contribution data
+  - No voting record data
 related: "[[_Donald Trump Master Profile|Trump]]"
 top-donors: "[[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]] · [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]] · [[ASSOCIATED GENERAL CONTRACTORS OF AMERICA POLITICAL ACTION COMMITTEE]] · [[Associated General Contractors of America Political Action Committee]]"
-donors: "[[Associated General Contractors of America Political Action Committee]] · [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]] · [[ASSOCIATED GENERAL CONTRACTORS OF AMERICA POLITICAL ACTION COMMITTEE]] · [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]] · [[AT&T - WarnerMedia]] · [[Marathon Petroleum]] · [[Occidental Petroleum]] · [[General Dynamics]] · [[Honeywell]] · [[Valero Energy]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Nucor Corporation]] · [[Leidos]] · [[Northrop Grumman]] · [[Walmart - Walton Family]] · [[Ford Motor Company]] · [[American Hospital Association PAC]] · [[National Cattlemen's Beef Association]] · [[Chevron]] · [[National Multifamily Housing Council]] · [[L3Harris Technologies]] · [[Comcast - NBCUniversal]] · [[BAE Systems]] · [[Tyson Foods]] · [[National Rifle Association]] · [[Lockheed Martin]] · [[Performance Racing Inc.]] · [[WinRed]] · [[PG&E - Pacific Gas and Electric]] · [[National Association of Realtors]] · [[American Chemistry Council, INC]] · [[ConocoPhillips]] · [[Raytheon (RTX)]] · [[AIPAC - American Israel Public Affairs Committee]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[ADM - Archer Daniels Midland]] · [[General Motors]] · [[MAJORITY PAC]] · [[National Association of Manufacturers]] · [[Lyft]] · [[Honeywell International]] · [[AT&T]] · [[Majority PAC]] · [[NRCC - National Republican Congressional Committee]]"
+donors: "[[Associated General Contractors of America Political Action Committee]] · [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]] · [[ASSOCIATED GENERAL CONTRACTORS OF AMERICA POLITICAL ACTION COMMITTEE]] · [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]] · [[AT&T - WarnerMedia]] · [[Marathon Petroleum]] · [[Occidental Petroleum]] · [[General Dynamics]] · [[Honeywell]] · [[Valero Energy]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Nucor Corporation]] · [[Leidos]] · [[Northrop Grumman]] · [[Walmart - Walton Family]] · [[Ford Motor Company]] · [[American Hospital Association PAC]] · [[National Cattlemen's Beef Association]] · [[Chevron]] · [[National Multifamily Housing Council]] · [[L3Harris Technologies]] · [[Comcast - NBCUniversal]] · [[BAE Systems]] · [[Tyson Foods]] · [[National Rifle Association]] · [[Lockheed Martin]] · [[Performance Racing Inc.]] · [[WinRed]] · [[PG&E - Pacific Gas and Electric]] · [[National Association of Realtors]] · [[American Chemistry Council, INC]] · [[ConocoPhillips]] · [[Raytheon (RTX)]] · [[AIPAC - American Israel Public Affairs Committee]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[ADM - Archer Daniels Midland]] · [[General Motors]] · [[MAJORITY PAC]] · [[National Association of Manufacturers]] · [[Lyft]] · [[Honeywell International]] · [[AT&T]] · [[Majority PAC]] · [[NRCC - National Republican Congressional Committee]] · [[Raytheon (RTX Corporation)]] · [[National Restaurant Association]] · [[Koch Industries]] · [[Tom Emmer]] · [[American Iron and Steel Institute]] · [[Pete Sessions]] · [[National Education Association]] · [[Williams Companies]] · [[Steve Scalise]] · [[McDonalds Corporation]] · [[Humana]] · [[Monsanto - Bayer]] · [[TEXANS FOR JODEY ARRINGTON]] · [[Pfizer Inc.]] · [[National Right to Life PAC]] · [[NRA Political Victory Fund]] · [[Cargill]] · [[Frank Lucas]] · [[Akin Gump Strauss Hauer & Feld]] · [[JOE WILSON FOR CONGRESS]] · [[Darin Lahood]] · [[Southern Company]] · [[AFL-CIO]] · [[Google - Alphabet]] · [[DR. BRIAN BABIN FOR CONGRESS]] · [[Roger Wicker]] · [[Jerry Moran]] · [[Republican Campaign Committee of New Mexico]] · [[American Principles Fund]] · [[National Republican Senatorial Committee]] · [[Amgen Inc]] · [[John Boehner]] · [[ISSA FOR CONGRESS]] · [[Ken Calvert]] · [[Paul Ryan]] · [[COLE FOR CONGRESS]] · [[KAY GRANGER CAMPAIGN FUND]] · [[MBNA Corporation]] · [[Harold Rogers]] · [[Regional Airline Association Political Action Committee]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 21
 bills-cosponsored: 127
 bills-enacted: 3
 top-policy-area: Health
-last-enriched: 2026-04-20
-total-raised: "$23.9M"
-career-total-source: "FEC weball summary (cycles 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+last-enriched: 2026-04-20T00:00:00.000Z
+total-raised: $23.9M
+career-total-source: FEC weball summary (cycles 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

@@ -6,11 +6,11 @@ sector: Dark Money
 entity-type: Super PAC
 committee-id: C00728352
 fec-url: https://www.fec.gov/data/committee/C00728352/
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-ie-support: null
 fec-ie-oppose: $7,032
-politicians-funded: "[[Pete Buttigieg]], [[Cory Booker]]"
+politicians-funded: "[[Pete Buttigieg]], [[Cory Booker]], [[REVOLVE IMPACT]], [[Dream Defenders Fight Pac]], [[Joe Biden]], [[Bernie Sanders]]"
 related: "[[Cory Booker]] · [[Pete Buttigieg]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -23,8 +23,8 @@ individual-contributions: 296
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

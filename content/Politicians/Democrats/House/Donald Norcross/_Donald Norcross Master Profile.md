@@ -2,8 +2,8 @@
 title: Donald Norcross
 type: politician
 content-readiness: draft
-last-updated: 2026-04-19
-central-thesis: "Donald Norcross is the South Jersey union electrician-turned-congressman whose $6.6M lifetime direct PAC is the most building-trades concentrated in this vault, with ten of the top ten lifetime direct PAC donors being construction, industrial, and building trades unions (Painters $84K, IBEW $80K, UFCW $75K, Carpenters $75K, AFT $75K, Ironworkers $75K, Sheet Metal $74K, UNITE $70K, Bricklayers $70K, Teamsters $65K); his Armed Services Committee membership produces the defense data panel (Lockheed $31.3K, Northrop $30K, Raytheon $25K, L3Harris $24.5K), and his one enacted bill is a provision in the FY2024 National Defense Authorization Act."
+last-updated: 2026-04-19T00:00:00.000Z
+central-thesis: Donald Norcross is the South Jersey union electrician-turned-congressman whose $6.6M lifetime direct PAC is the most building-trades concentrated in this vault, with ten of the top ten lifetime direct PAC donors being construction, industrial, and building trades unions (Painters $84K, IBEW $80K, UFCW $75K, Carpenters $75K, AFT $75K, Ironworkers $75K, Sheet Metal $74K, UNITE $70K, Bricklayers $70K, Teamsters $65K); his Armed Services Committee membership produces the defense data panel (Lockheed $31.3K, Northrop $30K, Raytheon $25K, L3Harris $24.5K), and his one enacted bill is a provision in the FY2024 National Defense Authorization Act.
 editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 source-tier: 1
 party: Democrat
@@ -30,18 +30,18 @@ bills-sponsored: 20
 bills-cosponsored: 353
 bills-enacted: 1
 top-policy-area: Health
-top-donors: "[[L3Harris Technologies]], [[PG&E - Pacific Gas and Electric]], [[BAE Systems]], [[Morgan Stanley]], [[American Chemistry Council, INC]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[General Dynamics]], [[National Multifamily Housing Council]], [[NORPAC]], [[Unite Here Tip Campaign Committee]], [[Raytheon (RTX)]], [[Google - Alphabet]], [[Northrop Grumman]], [[Anthem - Elevance Health]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[General Motors]], [[IBEW - International Brotherhood of Electrical Workers]], [[Leidos]], [[UA Political Action Committee]], [[Ted Lieu]], [[AT&T - WarnerMedia]], [[NextEra Energy]], [[American Hospital Association PAC]], [[League of Conservation Voters]], [[Teamsters - International Brotherhood of Teamsters]], [[National Association of Realtors]], [[Lockheed Martin]], [[SEIU COPE]], [[Microsoft]], [[Associated General Contractors of America Political Action Committee]], [[NEA Fund for Children and Public Education]], [[Honeywell]], [[AIPAC - American Israel Public Affairs Committee]], [[Planned Parenthood Votes]], [[DMFI - Democratic Majority for Israel]], [[AFL-CIO]], [[Comcast - NBCUniversal]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Sierra Club Independent Action]], [[Gilead Sciences]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Citigroup]], [[Blackstone Group]], [[Palantir Technologies]], [[McDonalds Corporation]], [[Boeing]], [[Bank of America]], [[Anduril Industries]], [[Goldman Sachs]], [[Apollo Global Management]], [[UPS]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[AT&T]], [[Honeywell International]]"
-last-enriched: 2026-04-20
+top-donors: "[[L3Harris Technologies]], [[PG&E - Pacific Gas and Electric]], [[BAE Systems]], [[Morgan Stanley]], [[American Chemistry Council, INC]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[General Dynamics]], [[National Multifamily Housing Council]], [[NORPAC]], [[Unite Here Tip Campaign Committee]], [[Raytheon (RTX)]], [[Google - Alphabet]], [[Northrop Grumman]], [[Anthem - Elevance Health]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[General Motors]], [[IBEW - International Brotherhood of Electrical Workers]], [[Leidos]], [[UA Political Action Committee]], [[Ted Lieu]], [[AT&T - WarnerMedia]], [[NextEra Energy]], [[American Hospital Association PAC]], [[League of Conservation Voters]], [[Teamsters - International Brotherhood of Teamsters]], [[National Association of Realtors]], [[Lockheed Martin]], [[SEIU COPE]], [[Microsoft]], [[Associated General Contractors of America Political Action Committee]], [[NEA Fund for Children and Public Education]], [[Honeywell]], [[AIPAC - American Israel Public Affairs Committee]], [[Planned Parenthood Votes]], [[DMFI - Democratic Majority for Israel]], [[AFL-CIO]], [[Comcast - NBCUniversal]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Sierra Club Independent Action]], [[Gilead Sciences]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Citigroup]], [[Blackstone Group]], [[Palantir Technologies]], [[McDonalds Corporation]], [[Boeing]], [[Bank of America]], [[Anduril Industries]], [[Goldman Sachs]], [[Apollo Global Management]], [[UPS]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[AT&T]], [[Honeywell International]], [[Raytheon (RTX Corporation)]], [[Hakeem Jeffries]], [[Richard Neal]], [[National Education Association]], [[Amgen Inc]], [[James E. Clyburn]], [[Williams Companies]], [[AbbVie]], [[Pfizer Inc.]], [[Planned Parenthood Action Fund INC]], [[International Brotherhood of Electrical Workers Local 98 Committee on Political Education]], [[Frank Pallone]], [[MIKE THOMPSON FOR CONGRESS]], [[Donald S. Beyer]], [[Let America Vote PAC]], [[TED LIEU FOR CONGRESS]], [[Southern Company]]"
+last-enriched: 2026-04-20T00:00:00.000Z
 committees:
-  - "Health, Employment, Labor, and Pensions"
+  - Health, Employment, Labor, and Pensions
   - Higher Education and Workforce Development
   - House Committee on Armed Services
   - House Committee on Education and Workforce
   - Seapower and Projection Forces
   - Strategic Forces
   - Tactical Air and Land Forces
-total-raised: "$14.7M"
-career-total-source: "FEC weball summary (cycles 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+total-raised: $14.7M
+career-total-source: FEC weball summary (cycles 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

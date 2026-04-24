@@ -9,14 +9,14 @@ ein: "473681860"
 nonprofit-status: 501(c)(3)
 source-tier: 1
 internal-notes: Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Arabella Advisors-managed 501(c)(3) pass-through fiscal sponsor. Part of the Arabella dark-money infrastructure (New Venture Fund / Sixteen Thirty Fund / Hopewell / North Fund / The 1630 Fund). Narrative pending Research Claude editorial pass.
-politicians-funded: "[[Sixteen Thirty Fund]], [[New Venture Fund]], [[America Votes]], [[Urban Institute]], [[Future Forward USA Action]], [[ACLU Foundation]], [[Center for American Progress]], [[Proteus Fund]], [[NEO Philanthropy]], [[States Newsroom]]"
+politicians-funded: "[[Sixteen Thirty Fund]], [[New Venture Fund]], [[America Votes]], [[Urban Institute]], [[Future Forward USA Action]], [[ACLU Foundation]], [[Center for American Progress]], [[Proteus Fund]], [[NEO Philanthropy]], [[States Newsroom]], [[Hoover Institution]], [[New America]]"
 known-gaps:
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
-  - "No mapped relationships"
-last-enriched: 2026-04-21
-total-political-spend: "$37.1M"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2018, 2019, 2020, 2022, 2023"
+  - No FEC contribution data
+  - No lobbying disclosure data
+  - No mapped relationships
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $37.1M
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2018, 2019, 2020, 2022, 2023
 ---
 
 

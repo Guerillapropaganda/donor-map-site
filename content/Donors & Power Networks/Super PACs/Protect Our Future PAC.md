@@ -11,8 +11,8 @@ fec-committee-id: C00801514
 aliases:
   - PROTECT OUR FUTURE PAC
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Shontel Brown]], [[Maxwell Frost]], [[Laura Gillen]], [[Sydney Kamlager-Dove]], [[Andrea Salinas]], [[Robert Garcia]], [[Jared Moskowitz]], [[Nikki Budzinski]], [[Morgan McGarvey]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Shontel Brown]], [[Maxwell Frost]], [[Laura Gillen]], [[Sydney Kamlager-Dove]], [[Andrea Salinas]], [[Robert Garcia]], [[Jared Moskowitz]], [[Nikki Budzinski]], [[Morgan McGarvey]], [[Bob Menendez]], [[Jasmine Crockett]], [[Lucy McBath]], [[Jesus G. Chuy Garcia]], [[Valerie P. Foushee]], [[Jonathan L. Jackson]]"
 related: "[[Shontel Brown]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -22,9 +22,9 @@ total-spent: 190
 cash-on-hand: 350006
 source-types:
   - FEC
-last-enriched: 2026-04-21
-total-political-spend: "$12.5M"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 2 store(s), cycles 2022"
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $12.5M
+spend-source: aggregated from canonical FEC/IRS edge stores across 2 store(s), cycles 2022
 ---
 
 

@@ -10,7 +10,7 @@ last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-ie-support: null
 fec-ie-oppose: $5,000
-politicians-funded: "[[Ron Johnson]], [[Roger Marshall]], [[Andy Biggs]], [[John Kennedy]], [[Matt Gaetz]], [[Lauren Boebert]], [[Ted Cruz]], [[Cindy Hyde-Smith]], [[Mike Lee]], [[Donald Trump]], [[Rick Scott]], [[John Thune]], [[Thomas Massie]], [[Scott Perry]], [[Steve Daines]], [[Marjorie Taylor Greene]], [[Kevin McCarthy]], [[Chip Roy]], [[Brian Babin]], [[Josh Hawley]], [[Kay Granger]], [[Clay Higgins]], [[John Hoeven]], [[Jerry Moran]]"
+politicians-funded: "[[Ron Johnson]], [[Roger Marshall]], [[Andy Biggs]], [[John Kennedy]], [[Matt Gaetz]], [[Lauren Boebert]], [[Ted Cruz]], [[Cindy Hyde-Smith]], [[Mike Lee]], [[Donald Trump]], [[Rick Scott]], [[John Thune]], [[Thomas Massie]], [[Scott Perry]], [[Steve Daines]], [[Marjorie Taylor Greene]], [[Kevin McCarthy]], [[Chip Roy]], [[Brian Babin]], [[Josh Hawley]], [[Kay Granger]], [[Clay Higgins]], [[John Hoeven]], [[Jerry Moran]], [[Williams Companies]], [[BLUE WAVE COMMUNICATIONS LLC]], [[MOVING FORWARD FOR AMERICA STRATEGIES]], [[RAW STORY MEDIA]], [[JHCH VENTURES]], [[DIGITAL STRATEGY GROUP]], [[PADELLAN, MAJID]], [[OPT IN STRATEGIES]], [[INFINITY PLUS1 MEDIA]], [[INFINITY PLUS ONE MEDIA]], [[COMPLYBLUE LLC]], [[MOVING FORWARD FOR AMERICA STRATEGIES LLC]], [[JHCH VENTURES LLC]], [[Jon Ossoff]], [[Joe Biden]], [[Raphael Warnock]]"
 related: "[[Ron Johnson]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -23,8 +23,8 @@ individual-contributions: 76560
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

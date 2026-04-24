@@ -11,8 +11,8 @@ fec-committee-id: C90019670
 aliases:
   - COMMONWEALTH COMMUNICATIONS
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Brendan Boyle]], [[ActBlue]], [[John Fetterman]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Brendan Boyle]], [[ActBlue]], [[John Fetterman]], [[Chrissy Houlahan]], [[Dwight Evans]], [[Joe Biden]], [[Mary Gay Scanlon]], [[Madeleine Dean]]"
 related: "[[Brendan Boyle]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -23,9 +23,9 @@ employee-contributions-total: 750
 employee-donor-count: 1
 source-types:
   - FEC
-last-enriched: 2026-04-21
-total-political-spend: "$750K"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 2 store(s), cycles 2020, 2022"
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $750K
+spend-source: aggregated from canonical FEC/IRS edge stores across 2 store(s), cycles 2020, 2022
 ---
 
 

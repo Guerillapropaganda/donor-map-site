@@ -11,7 +11,7 @@ last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-ie-support: $9,787,637
 fec-ie-oppose: "null"
-politicians-funded: "[[John Cornyn]], [[Wesley Hunt]]"
+politicians-funded: "[[John Cornyn]], [[Wesley Hunt]], [[THE LAYMONT GROUP]], [[1892 LLC]], [[PEAK INSIGHTS]], [[Texas Conservatives Fund]], [[ZIMOLONG LLC]], [[ARISTELA GROUP INC]], [[DEEP ROOT ANALYTICS LLC]], [[LEX POLITICA PLLC]], [[THE SAHL COMPANY]], [[THE MAIANNE SAHL COMPANY]], [[CONVERGENCE MEDIA LLC]], [[TARGET ENTERPRISES]], [[FULL REACH MEDIA GROUP LLC]], [[CROSBY OTTENHOFF GROUP]], [[ADVANCING STRATEGIES LLC]], [[HOLTZMAN VOGEL JOSEFIAK]], [[CASCADE STRATEGIES LLC]], [[RESOLVE CAMPAIGNS LLC]], [[TAG, LLC]], [[RAGNAR RESEARCH PARTNERS]], [[THREE ARBOR INSURANCE]], [[CUBRIEL, RANDY]], [[INTERNAL REVENUE SERVICE]], [[MARK STRATEGIES]]"
 related: "[[John Cornyn]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -25,8 +25,8 @@ individual-contributions: 22563301
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

@@ -39,15 +39,15 @@ issues:
   - Government Operations and Politics
   - Health
   - Immigration
-donors: "[[Protect Freedom Political Action Committee]] · [[North Florida Neighbors]] · [[MAGA Small Dollar Base]] · [[Florida Conservative Fund]] · [[FLORIDA CONSERVATIVE FUND]] · [[Citizen Super PAC]] · [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]] · [[Florida Patriots Pac]] · [[Jim Jordan]] · [[Really American Pac]] · [[WinRed]] · [[The Lincoln Project]] · [[Mad Dog PAC]]"
+donors: "[[Protect Freedom Political Action Committee]] · [[North Florida Neighbors]] · [[MAGA Small Dollar Base]] · [[Florida Conservative Fund]] · [[FLORIDA CONSERVATIVE FUND]] · [[Citizen Super PAC]] · [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]] · [[Florida Patriots Pac]] · [[Jim Jordan]] · [[Really American Pac]] · [[WinRed]] · [[The Lincoln Project]] · [[Mad Dog PAC]] · [[Paul Ryan]] · [[NRA Political Victory Fund]] · [[Southern Company]] · [[Koch Industries]] · [[Associated General Contractors of America Political Action Committee]] · [[National Cattlemen's Beef Association]] · [[TEXANS FOR JODEY ARRINGTON]] · [[GEO Group - Private Prison Industrial Complex]] · [[Bacardi - Bacardi USA]] · [[JIM JORDAN FOR CONGRESS]] · [[Mike Haridopolos]] · [[Leidos]] · [[Steve Scalise]] · [[American Principles Fund]] · [[National Restaurant Association]] · [[JASON SMITH FOR CONGRESS]] · [[Kevin McCarthy]] · [[Google - Alphabet]] · [[American Gaming Association]] · [[Elijah Crane]] · [[Campaign for Working Families]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 96
 bills-cosponsored: 1727
 bills-enacted: 0
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: Government Operations and Politics
-total-raised: "$22.3M"
-career-total-source: "FEC weball summary (cycles 2016, 2018, 2020, 2022, 2024, 2026)"
+total-raised: $22.3M
+career-total-source: FEC weball summary (cycles 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

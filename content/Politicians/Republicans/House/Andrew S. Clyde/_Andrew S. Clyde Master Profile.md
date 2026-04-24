@@ -1,37 +1,38 @@
 ---
-title: "Andrew S. Clyde"
+title: Andrew S. Clyde
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Georgia"
-state-abbr: "GA"
+party: Republican
+chamber: House
+state: Georgia
+state-abbr: GA
 district: "9"
-bioguide-id: "C001116"
+bioguide-id: C001116
 govtrack-id: 456813
 born: "1963-11-22"
-wikidata-id: "Q102277679"
-website: "https://clyde.house.gov"
-phone: "202-225-9893"
+wikidata-id: Q102277679
+website: https://clyde.house.gov
+phone: 202-225-9893
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 17
 bills-cosponsored: 191
 bills-enacted: 0
-top-policy-area: "Crime and Law Enforcement"
-last-enriched: 2026-04-21
+top-policy-area: Crime and Law Enforcement
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Commerce, Justice, Science, and Related Agencies"
+  - Commerce, Justice, Science, and Related Agencies
   - House Committee on Appropriations
   - House Committee on the Budget
-  - "Labor, Health and Human Services, Education, and Related Agencies"
+  - Labor, Health and Human Services, Education, and Related Agencies
+top-donors: "[[National Cattlemen's Beef Association]], [[Gun Owners of America]], [[Campaign for Working Families]], [[GEO Group - Private Prison Industrial Complex]], [[NRA Political Victory Fund]], [[JIM JORDAN FOR CONGRESS]], [[JASON SMITH FOR CONGRESS]], [[Associated General Contractors of America Political Action Committee]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[Mark E. Amodei]], [[Steve Scalise]], [[Freedom's Defense Fund]], [[Guy Reschenthaler]], [[TEXANS FOR JODEY ARRINGTON]], [[Brett Guthrie]]"
 ---
 
 

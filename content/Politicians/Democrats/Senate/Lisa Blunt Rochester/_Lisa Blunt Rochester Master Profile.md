@@ -2,7 +2,7 @@
 title: Lisa Blunt Rochester
 type: politician
 content-readiness: draft
-last-updated: 2026-04-19
+last-updated: 2026-04-19T00:00:00.000Z
 source-tier: 1
 party: Democrat
 chamber: Senate
@@ -29,27 +29,27 @@ bills-sponsored: 29
 bills-cosponsored: 470
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[International Association of Firefighters Interested in Registration and Education PAC]], [[McDonalds Corporation]], [[Microsoft]], [[Pete Aguilar]], [[AT&T - WarnerMedia]], [[Care Action]], [[American Federation of State County & Municipal Employees P E O P L E]], [[National Restaurant Association]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Tzedek PAC]], [[Everytown for Gun Safety]], [[American Hospital Association PAC]], [[AbbVie]], [[Airbnb]], [[League of Conservation Voters]], [[Planned Parenthood Action Fund INC]], [[Associated General Contractors of America Political Action Committee]], [[General Motors]], [[Johnson & Johnson]], [[Paul Tonko]], [[Bank of America]], [[Lisa Blunt Rochester]], [[Ford Motor Company]], [[Honeywell]], [[EQUALITY PROJECT PAC]], [[Anthem - Elevance Health]], [[Let America Vote PAC]], [[DoorDash]], [[IBEW - International Brotherhood of Electrical Workers]], [[J Street]], [[Duke Energy]], [[Chrissy Houlahan]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Sydney Kamlager-Dove]], [[Humana]], [[NextEra Energy]], [[American Chemistry Council, INC]], [[National Association of Realtors]], [[National Multifamily Housing Council]], [[NEA Fund for Children and Public Education]], [[Comcast - NBCUniversal]], [[UA Political Action Committee]], [[SEIU COPE]], [[Pfizer Inc.]], [[Morgan Stanley]], [[Sierra Club Political Committee]], [[DNC - Democratic National Committee]], [[Ted Lieu]], [[CVS Health - Aetna]], [[Walmart - Walton Family]], [[Gilead Sciences]], [[American College of Radiology Association PAC]], [[Coinbase]], [[Citigroup]], [[Nancy Pelosi]], [[Sierra Club Independent Action]], [[Giffords PAC]], [[Walmart]], [[Google - Alphabet]], [[Oracle]], [[Fanjul Family - Florida Crystals]], [[Cargill]], [[Centene Corporation]], [[Goldman Sachs]], [[Apple]], [[News Corp - Fox Corporation]], [[New Venture Fund]], [[Lockheed Martin]], [[DCCC - Democratic Congressional Campaign Committee]], [[Verizon]], [[Boeing]], [[OpenAI]], [[Nvidia]], [[a16z - Andreessen Horowitz]], [[US CHAMBER OF COMMERCE]], [[CTA - California Teachers Association]], [[Booz Allen Hamilton]], [[American Petroleum Institute]], [[Emily's List]], [[iHeartMedia]], [[Blackstone Group]], [[Fidelity Investments]], [[American Gaming Association]], [[Apollo Global Management]], [[Starbucks]], [[Honeywell International]], [[Amazon]], [[Walt Disney Company]], [[TikTok - ByteDance]], [[BlackRock]], [[UPS]], [[Southern Company]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[Eli Lilly]], [[AT&T]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Equality Project PAC]], [[US Chamber of Commerce]]"
-last-enriched: 2026-04-20
+top-donors: "[[International Association of Firefighters Interested in Registration and Education PAC]], [[McDonalds Corporation]], [[Microsoft]], [[Pete Aguilar]], [[AT&T - WarnerMedia]], [[Care Action]], [[American Federation of State County & Municipal Employees P E O P L E]], [[National Restaurant Association]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Tzedek PAC]], [[Everytown for Gun Safety]], [[American Hospital Association PAC]], [[AbbVie]], [[Airbnb]], [[League of Conservation Voters]], [[Planned Parenthood Action Fund INC]], [[Associated General Contractors of America Political Action Committee]], [[General Motors]], [[Johnson & Johnson]], [[Paul Tonko]], [[Bank of America]], [[Lisa Blunt Rochester]], [[Ford Motor Company]], [[Honeywell]], [[EQUALITY PROJECT PAC]], [[Anthem - Elevance Health]], [[Let America Vote PAC]], [[DoorDash]], [[IBEW - International Brotherhood of Electrical Workers]], [[J Street]], [[Duke Energy]], [[Chrissy Houlahan]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Sydney Kamlager-Dove]], [[Humana]], [[NextEra Energy]], [[American Chemistry Council, INC]], [[National Association of Realtors]], [[National Multifamily Housing Council]], [[NEA Fund for Children and Public Education]], [[Comcast - NBCUniversal]], [[UA Political Action Committee]], [[SEIU COPE]], [[Pfizer Inc.]], [[Morgan Stanley]], [[Sierra Club Political Committee]], [[DNC - Democratic National Committee]], [[Ted Lieu]], [[CVS Health - Aetna]], [[Walmart - Walton Family]], [[Gilead Sciences]], [[American College of Radiology Association PAC]], [[Coinbase]], [[Citigroup]], [[Nancy Pelosi]], [[Sierra Club Independent Action]], [[Giffords PAC]], [[Walmart]], [[Google - Alphabet]], [[Oracle]], [[Fanjul Family - Florida Crystals]], [[Cargill]], [[Centene Corporation]], [[Goldman Sachs]], [[Apple]], [[News Corp - Fox Corporation]], [[New Venture Fund]], [[Lockheed Martin]], [[DCCC - Democratic Congressional Campaign Committee]], [[Verizon]], [[Boeing]], [[OpenAI]], [[Nvidia]], [[a16z - Andreessen Horowitz]], [[US CHAMBER OF COMMERCE]], [[CTA - California Teachers Association]], [[Booz Allen Hamilton]], [[American Petroleum Institute]], [[Emily's List]], [[iHeartMedia]], [[Blackstone Group]], [[Fidelity Investments]], [[American Gaming Association]], [[Apollo Global Management]], [[Starbucks]], [[Honeywell International]], [[Amazon]], [[Walt Disney Company]], [[TikTok - ByteDance]], [[BlackRock]], [[UPS]], [[Southern Company]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[Eli Lilly]], [[AT&T]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Equality Project PAC]], [[US Chamber of Commerce]], [[LISA BLUNT ROCHESTER FOR SENATE]], [[GRACE FOR NEW YORK]], [[BARBARA LEE FOR CONGRESS]], [[Williams Companies]], [[MAD 4 PA PAC]], [[Blue Shield of California]], [[JAMIE RASKIN FOR CONGRESS]], [[Donald S. Beyer]], [[Steny H. Hoyer]], [[Amgen Inc]], [[Meta - Facebook]], [[National Committee to Preserve Social Security & Medicare PAC]], [[TED LIEU FOR CONGRESS]], [[Monsanto - Bayer]], [[NANCY PELOSI FOR CONGRESS]], [[CHRISSY HOULAHAN FOR CONGRESS]], [[Tyson Foods]], [[Yvette D. Clarke]], [[ADM - Archer Daniels Midland]], [[PETE AGUILAR FOR CONGRESS]], [[LOFGREN FOR CONGRESS]], [[SYDNEY KAMLAGER-DOVE FOR CONGRESS]], [[Chris Coons]], [[Akin Gump Strauss Hauer & Feld]], [[National Education Association]], [[Alma S. Adams]], [[PAUL TONKO FOR CONGRESS]], [[Nucor Corporation]], [[Hakeem Jeffries]], [[BARRAGAN FOR CONGRESS]], [[LISA BLUNT ROCHESTER FOR CONGRESS]], [[John Fetterman]], [[James E. Clyburn]], [[Performance Racing Inc.]], [[Richard Neal]], [[CITIZENS FOR WATERS]], [[Chris Murphy]], [[National Wildlife Federation Action Fund]]"
+last-enriched: 2026-04-20T00:00:00.000Z
 committees:
-  - "Chemical Safety, Waste Management, Environmental Justice, and Regulatory Oversight"
-  - "Clean Air, Climate, and Nuclear Innovation and Safety"
-  - "Coast Guard, Maritime, and Fisheries"
-  - "Consumer Protection, Technology, and Data Privacy"
+  - Chemical Safety, Waste Management, Environmental Justice, and Regulatory Oversight
+  - Clean Air, Climate, and Nuclear Innovation and Safety
+  - Coast Guard, Maritime, and Fisheries
+  - Consumer Protection, Technology, and Data Privacy
   - Economic Policy
   - Education and the American Family
-  - "Housing, Transportation, and Community Development"
+  - Housing, Transportation, and Community Development
   - Primary Health and Retirement Security
-  - "Science, Manufacturing, and Competitiveness"
-  - "Securities, Insurance, and Investment"
-  - "Senate Committee on Banking, Housing, and Urban Affairs"
-  - "Senate Committee on Commerce, Science, and Transportation"
+  - Science, Manufacturing, and Competitiveness
+  - Securities, Insurance, and Investment
+  - Senate Committee on Banking, Housing, and Urban Affairs
+  - Senate Committee on Commerce, Science, and Transportation
   - Senate Committee on Environment and Public Works
-  - "Senate Committee on Health, Education, Labor, and Pensions"
+  - Senate Committee on Health, Education, Labor, and Pensions
   - Telecommunications and Media
   - Transportation and Infrastructure
-total-raised: "$10.8M"
-career-total-source: "FEC weball summary (cycles 2024, 2026)"
+total-raised: $10.8M
+career-total-source: FEC weball summary (cycles 2024, 2026)
 ---
 
 

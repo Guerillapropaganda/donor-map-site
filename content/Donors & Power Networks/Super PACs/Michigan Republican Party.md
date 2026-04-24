@@ -12,8 +12,8 @@ fec-committee-id: C00041160
 aliases:
   - MICHIGAN REPUBLICAN PARTY
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Bill Clinton]], [[Donald Trump]], [[Michigan Republican Party]], [[RNC - Republican National Committee]], [[_Don Bacon Master Profile]], [[_John James Master Profile]], [[WinRed]], [[Don Bacon]], [[John James]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Bill Clinton]], [[Donald Trump]], [[Michigan Republican Party]], [[RNC - Republican National Committee]], [[_Don Bacon Master Profile]], [[_John James Master Profile]], [[WinRed]], [[Don Bacon]], [[John James]], [[ACE SPECIALTIES, LLC]], [[HONIGMAN, MILLER, SCHWARTZ & COHN]], [[DETROIT MARRIOTT HOTEL]], [[ACQUIRE DIGITAL, LLC]], [[FLS CONNECT]], [[GMHI RESORT HOLDINGS LLC]], [[HOEKSTRA GLOBAL]], [[MRSC STATE ACCOUNT]], [[EMBASSY SUITES]], [[DICKINSON WRIGHT, PLLC]], [[FOSTER, WILLIAM]], [[MAX FISHER EVENTS]], [[Direct Selling Empowers Americans]], [[CARNEY, WILLIAM]], [[CAVALIER COMMUNICATIONS]], [[THOMAS MASSIE FOR CONGRESS]], [[AXIOM]], [[COMERICA]], [[MARKETING RESOURCE GROUP]], [[LASALLE BANK COMMERCIAL CARD SERVICE]], [[TRION SOLUTIONS]], [[Republican Jewish Coalition]], [[DISHAW, DAVE]], [[PANTLIND STRATEGIES]], [[BLUE WATER TECHNOLOGIES]], [[ARENA COMMUNICATIONS]], [[UNISOURCE DIRECT LLC]], [[THE STERLING CORPORATION]], [[OCO RENTALS]], [[DGM & ASSOCIATES]], [[STRATEGIC NATIONAL]], [[BLACK PINE MEDIA]], [[ELECTION SOURCE]], [[RED TAG STUDIOS]], [[PREMIER CREATIVE GROUP]], [[SCM ASSOCIATES INCORPORATED]], [[STEVE DAINES FOR MONTANA]], [[FEATHER LARSON & SYNHORST]], [[CHASE CREATIVE UNLIMITED]], [[MRP LEVIN ACCOUNT]], [[KARAMO, KRISTINA ELAINE MS.]], [[DOUBLETREE]], [[TECHNICOM GROUP]], [[INHULSEN LAW PLLC]], [[APPLAUSE BANQUETS AND CATERING]], [[PINNACLE LIST COMPANY]], [[LAUREL LEE FOR CONGRESS, INC.]], [[REACH RIGHT DIGITAL MARKETING, LLC]], [[Majority Forward]], [[STEWARD MEDIA]], [[190 PERSONELL LLC]], [[IBM CORPORATION-416]], [[STRATEGIC FUNDRAISING]], [[PINNACLE DIRECT]], [[BEATTIE, DAWN MS.]], [[MRP ADMINISTRATION]], [[CINGULAR]], [[IMGE]], [[SHEPHARD, TYSON]], [[GHMI RESORT HOLDINGS]], [[Victory for Schaumburg]], [[JAMESTOWN ASSOCIATES, LLC]], [[ACH PAYMENT]], [[ARC PRINT SOLUTIONS]], [[FORESIGHT GROUP]], [[ADP INCORPORATED]], [[SOUTHWEST PUBLISHING]], [[BARTOLOTTA, DANNY]], [[GNP SOLUTIONS LLC]], [[FOR LIBERTY LLC]], [[ELITE SHOWTIME SERVICES]], [[Right to Life of Michigan Political Action Committee]], [[ARENA]], [[VALENTE, CLAUDIA MRS.]], [[Campaign for Community Change]], [[PREMIERE SPEAKERS BUREAU, INC.]], [[FEDERAL ELECTION COMMISSION]], [[MALJAK, LOIS]], [[COMERICA CC]], [[PRECISION LIST]], [[MRSC FEDERAL ACCOUNT]], [[U.S. POSTMASTER]], [[STRATEGIC TELECOMMUNICATIONS]], [[CARLSON, KAYLEEN]], [[COMERICA BANK]], [[WEISSERT, ANDREW]], [[ACCESS POINTE]], [[BIG DOG STRATEGIES, LLC]], [[TARGETED CREATIVE COMMUNICATIONS, INC.]], [[ADVANTAGE DIRECT, INC.]], [[BOCO ENTERPISES, INC.]], [[BLUE CROSSBLUE SHIELD]], [[STORYTELLERS]], [[ALLTELL]], [[INFIELD STRATEGIES]], [[PRUES HECKER LLC]], [[AMWAY GRAND PLAZA HOTEL]], [[SCM ASSOCIATES, INCORPORATED]], [[MEADOWBROOK]], [[MAMMOTH MARKETING GROUP]], [[MRSC ADMINISTRATION]], [[MRP FEDERAL ACCOUNT]], [[BRIGHT SPARK STRATEGIES]], [[EPSTEIN, LENA]], [[Mike Rogers]], [[John McCain]], [[Rick W. Allen]], [[John R. Moolenaar]], [[Tim Walberg]], [[Tom Barrett]], [[Jack Bergman]], [[Mitt Romney]]"
 related: "[[Bill Clinton]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -28,7 +28,7 @@ employee-contributions-total: 25355
 employee-donor-count: 15
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

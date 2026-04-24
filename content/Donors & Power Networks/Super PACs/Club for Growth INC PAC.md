@@ -11,8 +11,8 @@ fec-committee-id: C00346536
 aliases:
   - CLUB FOR GROWTH INC PAC
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Patrick McHenry]], [[John Thune]], [[Raphael Warnock]], [[Ron Johnson]], [[Scott Perry]], [[Anna Paulina Luna]], [[Ralph Norman]], [[Richard McCormick]], [[Keith Self]], [[Rick Scott]], [[Lauren Boebert]], [[Ted Cruz]], [[Mark Kelly]], [[Tim Sheehy]], [[Catherine Cortez Masto]], [[Cory Mills]], [[Josh Hawley]], [[Pete Ricketts]], [[David Schweikert]], [[Tim Scott]], [[Nancy Mace]], [[Josh Brecheen]], [[Chip Roy]], [[Nikki Haley]], [[Mike Lee]], [[Eric Burlison]], [[Bernie Moreno]], [[Brian Jack]], [[Brandon Gill]], [[Tim Moore]], [[Mark Green]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Patrick McHenry]], [[John Thune]], [[Raphael Warnock]], [[Ron Johnson]], [[Scott Perry]], [[Anna Paulina Luna]], [[Ralph Norman]], [[Richard McCormick]], [[Keith Self]], [[Rick Scott]], [[Lauren Boebert]], [[Ted Cruz]], [[Mark Kelly]], [[Tim Sheehy]], [[Catherine Cortez Masto]], [[Cory Mills]], [[Josh Hawley]], [[Pete Ricketts]], [[David Schweikert]], [[Tim Scott]], [[Nancy Mace]], [[Josh Brecheen]], [[Chip Roy]], [[Nikki Haley]], [[Mike Lee]], [[Eric Burlison]], [[Bernie Moreno]], [[Brian Jack]], [[Brandon Gill]], [[Tim Moore]], [[Mark Green]], [[STRIPE]], [[WPAI]], [[SUN TRUST MERCHANT SERVICES]], [[Club for Growth]], [[SUNTRUST BANK]], [[MERCHANT SERVICES]], [[Dan Sullivan]], [[John Ratcliffe]], [[Susan Collins]], [[Thomas P. Tiffany]], [[Robert F. Onder]], [[Nicholas J. Begich]], [[Joni Ernst]], [[Andrew Ogles]], [[Jim Banks]], [[Harriet M. Hageman]], [[Ron DeSantis]], [[Tim Walberg]], [[Mike Pompeo]], [[Thomas Massie]], [[Mitch McConnell]], [[Rand Paul]], [[Tommy Tuberville]], [[Mary E. Miller]], [[Tom Barrett]], [[Russ Fulcher]], [[Elijah Crane]], [[Steve Daines]], [[Max L. Miller]], [[Marco Rubio]], [[Andy Harris]], [[Marsha Blackburn]], [[W. Gregory Steube]], [[Victoria Spartz]], [[Thom Tillis]], [[Marlin A. Stutzman]], [[John James]], [[Robert P. Bresnahan]], [[Barry Moore]], [[Ted Budd]], [[Mark Harris]], [[Matt van Epps]], [[Gary J. Palmer]], [[Cynthia M. Lummis]], [[Tom Cotton]], [[Mike Johnson]], [[Kevin Cramer]], [[Donald Trump]], [[David McCormick]], [[Warren Davidson]], [[Zachary Nunn]], [[Mike Rogers]], [[Tom McClintock]], [[Todd Young]], [[Steve Scalise]], [[Byron Donalds]], [[Michael Cloud]], [[Ronny Jackson]], [[Mark B. Messmer]], [[Barry Loudermilk]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -26,7 +26,7 @@ contributions-to-committees: 233104
 related: "[[John Thune]] · [[Patrick McHenry]]"
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

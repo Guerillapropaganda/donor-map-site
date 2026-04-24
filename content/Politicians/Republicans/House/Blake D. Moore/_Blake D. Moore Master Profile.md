@@ -1,32 +1,32 @@
 ---
-title: "Blake D. Moore"
+title: Blake D. Moore
 type: politician
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Utah"
-state-abbr: "UT"
+party: Republican
+chamber: House
+state: Utah
+state-abbr: UT
 district: "1"
-bioguide-id: "M001213"
+bioguide-id: M001213
 govtrack-id: 456851
 born: "1980-06-22"
-wikidata-id: "Q101196971"
-website: "https://blakemoore.house.gov"
-phone: "202-225-0453"
+wikidata-id: Q101196971
+website: https://blakemoore.house.gov
+phone: 202-225-0453
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-donors: "[[Brady Campaign]]"
+  - No FEC contribution data
+  - No voting record data
+donors: "[[Brady Campaign]], [[Mariannette Miller-Meeks]], [[National Restaurant Association]], [[Amgen Inc]], [[Google - Alphabet]], [[Southern Company]], [[TEXANS FOR JODEY ARRINGTON]], [[Humana]], [[CVS Health - Aetna]], [[Republican Jewish Coalition]], [[Nucor Corporation]], [[AbbVie]], [[Leidos]], [[National Association of Manufacturers]], [[JIM JORDAN FOR CONGRESS]], [[Koch Industries]], [[American College of Radiology Association PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[Steve Scalise]], [[National Cattlemen's Beef Association]], [[Performance Racing Inc.]], [[Frank Lucas]], [[Kevin McCarthy]], [[Williams Companies]], [[Coinbase]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[Gilead Sciences]], [[NRA Political Victory Fund]], [[Pfizer Inc.]], [[Darin Lahood]], [[MOORE FOR WEST VIRGINIA, INC.]], [[Associated General Contractors of America Political Action Committee]], [[Meta - Facebook]], [[Tom Emmer]], [[JASON SMITH FOR CONGRESS]], [[Dan Newhouse]], [[ADRIAN SMITH FOR CONGRESS]], [[Defending Main Street Superpac INC]], [[Tzedek PAC]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 34
 bills-cosponsored: 184
 bills-enacted: 0
-top-policy-area: "Taxation"
-last-enriched: 2026-04-21
+top-policy-area: Taxation
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Health
   - House Committee on Ways and Means

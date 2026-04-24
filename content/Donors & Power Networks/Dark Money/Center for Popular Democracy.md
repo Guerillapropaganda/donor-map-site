@@ -1,21 +1,22 @@
 ---
-title: "Center for Popular Democracy"
+title: Center for Popular Democracy
 type: donor
 content-readiness: ready
-last-updated: 2026-04-18
-sector: "Dark Money"
-entity-type: "501(c)(3)"
+last-updated: 2026-04-18T00:00:00.000Z
+sector: Dark Money
+entity-type: 501(c)(3)
 ein: "453813436"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 source-tier: 1
-internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Progressive advocacy network coordinating state-level organizing groups. Paired with CPD Action (c4). Dual EINs 453813436 (c3) and 453813416 (c4) observed in grant records. Narrative pending Research Claude editorial pass."
+internal-notes: Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Progressive advocacy network coordinating state-level organizing groups. Paired with CPD Action (c4). Dual EINs 453813436 (c3) and 453813416 (c4) observed in grant records. Narrative pending Research Claude editorial pass.
 known-gaps:
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
-  - "No mapped relationships"
-last-enriched: 2026-04-21
-total-political-spend: "$65K"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2018"
+  - No FEC contribution data
+  - No lobbying disclosure data
+  - No mapped relationships
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $65K
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2018
+politicians-funded: "[[Gwen Moore]], [[Darren Soto]], [[Tammy Baldwin]]"
 ---
 
 

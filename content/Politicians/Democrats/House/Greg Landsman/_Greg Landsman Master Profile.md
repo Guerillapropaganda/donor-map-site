@@ -18,24 +18,24 @@ phone: 202-225-2216
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2OH01194
 bills-sponsored: 20
 bills-cosponsored: 453
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[National Association of Realtors]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[NEA Fund for Children and Public Education]], [[National Multifamily Housing Council]], [[Sierra Club Independent Action]], [[UA Political Action Committee]], [[Americans for Prosperity]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Sierra Club Political Committee]], [[Planned Parenthood Votes]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Joe Neguse]], [[Julia Brownley]], [[IBEW - International Brotherhood of Electrical Workers]], [[DCCC - Democratic Congressional Campaign Committee]], [[Mark Takano]], [[Bill Foster]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[American Hospital Association PAC]], [[VOTER PROTECTION PROJECT]], [[L3Harris Technologies]], [[Planned Parenthood Action Fund INC]], [[Progressive Turnout Project]], [[Teamsters - International Brotherhood of Teamsters]], [[Walmart - Walton Family]], [[Let America Vote PAC]], [[American Chemistry Council, INC]], [[Ted Lieu]], [[Jamie Raskin]], [[National Education Association]], [[Pete Aguilar]], [[Human Rights Campaign Equality Votes]], [[Women Speak Out Pac]], [[League of Conservation Voters]], [[Mark Kelly]], [[American College of Radiology Association PAC]], [[Hmp]], [[DMFI - Democratic Majority for Israel]], [[Chrissy Houlahan]], [[Morgan McGarvey]], [[AFL-CIO]], [[SEIU COPE]], [[Nancy Pelosi]], [[AIPAC - American Israel Public Affairs Committee]], [[Congressional Leadership Fund]], [[Robert Garcia]], [[CHC BOLD PAC]], [[Sara Jacobs]], [[NRCC - National Republican Congressional Committee]], [[Shontel Brown]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Voter Protection Project]], [[HMP]]"
-last-enriched: 2026-04-21
+top-donors: "[[National Association of Realtors]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[NEA Fund for Children and Public Education]], [[National Multifamily Housing Council]], [[Sierra Club Independent Action]], [[UA Political Action Committee]], [[Americans for Prosperity]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Sierra Club Political Committee]], [[Planned Parenthood Votes]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Joe Neguse]], [[Julia Brownley]], [[IBEW - International Brotherhood of Electrical Workers]], [[DCCC - Democratic Congressional Campaign Committee]], [[Mark Takano]], [[Bill Foster]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[American Hospital Association PAC]], [[VOTER PROTECTION PROJECT]], [[L3Harris Technologies]], [[Planned Parenthood Action Fund INC]], [[Progressive Turnout Project]], [[Teamsters - International Brotherhood of Teamsters]], [[Walmart - Walton Family]], [[Let America Vote PAC]], [[American Chemistry Council, INC]], [[Ted Lieu]], [[Jamie Raskin]], [[National Education Association]], [[Pete Aguilar]], [[Human Rights Campaign Equality Votes]], [[Women Speak Out Pac]], [[League of Conservation Voters]], [[Mark Kelly]], [[American College of Radiology Association PAC]], [[Hmp]], [[DMFI - Democratic Majority for Israel]], [[Chrissy Houlahan]], [[Morgan McGarvey]], [[AFL-CIO]], [[SEIU COPE]], [[Nancy Pelosi]], [[AIPAC - American Israel Public Affairs Committee]], [[Congressional Leadership Fund]], [[Robert Garcia]], [[CHC BOLD PAC]], [[Sara Jacobs]], [[NRCC - National Republican Congressional Committee]], [[Shontel Brown]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Voter Protection Project]], [[HMP]], [[JOE NEGUSE FOR CONGRESS]], [[MORGAN MCGARVEY FOR CONGRESS]], [[Donald S. Beyer]], [[GRACE FOR NEW YORK]], [[STRICKLAND FOR WASHINGTON]], [[Robin L. Kelly]], [[SHERMAN FOR CONGRESS]], [[JULIA BROWNLEY FOR CONGRESS]], [[Kim Schrier]], [[Marc A. Veasey]], [[Brittany Pettersen]], [[PETE AGUILAR FOR CONGRESS]], [[CASTEN FOR CONGRESS]], [[DEBORAH ROSS FOR CONGRESS]], [[Maxwell Frost]], [[SHARICE FOR CONGRESS]], [[JAMIE RASKIN FOR CONGRESS]], [[Lizzie Fletcher]], [[Gerry Connolly]], [[HALEY STEVENS FOR CONGRESS]], [[ROBERT GARCIA FOR CONGRESS]], [[Janice D. Schakowsky]], [[SARA JACOBS FOR CONGRESS]], [[LORI TRAHAN FOR CONGRESS COMMITTEE]], [[Bradley Scott Schneider]], [[SHONTEL BROWN FOR CONGRESS]], [[Hakeem Jeffries]], [[NANCY PELOSI FOR CONGRESS]], [[KATHERINE CLARK FOR CONGRESS]], [[DOGGETT FOR U S CONGRESS COMMITTEE]], [[Adam Schiff]], [[MAD 4 PA PAC]], [[Nydia Velazquez]], [[Steve Cohen]], [[Glenn Ivey]], [[BARRAGAN FOR CONGRESS]], [[Steny H. Hoyer]], [[BILL FOSTER FOR CONGRESS]], [[CHRISSY HOULAHAN FOR CONGRESS]], [[MARK TAKANO FOR CONGRESS]], [[MARK KELLY FOR SENATE]], [[TED LIEU FOR CONGRESS]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Communications and Technology
   - Environment
   - Health
   - House Committee on Energy and Commerce
-total-raised: "$10.0M"
-career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
+total-raised: $10.0M
+career-total-source: FEC weball summary (cycles 2022, 2024, 2026)
 ---
 
 

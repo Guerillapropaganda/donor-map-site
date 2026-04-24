@@ -11,8 +11,8 @@ fec-committee-id: C00770511
 aliases:
   - TZEDEK PAC
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Dan Goldman]], [[John Fetterman]], [[Ted Lieu]], [[James Comer]], [[Byron Donalds]], [[Ted Cruz]], [[Cliff Bentz]], [[Deb Fischer]], [[Kim Schrier]], [[Lisa Murkowski]], [[Lisa Blunt Rochester]], [[Tim Sheehy]], [[Young Kim]], [[Victoria Spartz]], [[Claudia Tenney]], [[Richard Blumenthal]], [[Joseph Morelle]], [[Erin Houchin]], [[Aaron Bean]], [[Michael Lawler]], [[John Joyce]], [[Randy Fine]], [[Morgan Luttrell]], [[Joni Ernst]], [[Richard McCormick]], [[David Rouzer]], [[Paul Tonko]], [[Cory Mills]], [[Burgess Owens]], [[Tammy Baldwin]], [[Hakeem Jeffries]], [[Kevin Cramer]], [[Veronica Escobar]], [[Steve Daines]], [[Guy Reschenthaler]], [[Alex Padilla]], [[Roger Marshall]], [[George Latimer]], [[Jay Obernolte]], [[Thom Tillis]], [[Diana Harshbarger]], [[Cory Booker]], [[Mike Lee]], [[Cathy McMorris Rodgers]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Dan Goldman]], [[John Fetterman]], [[Ted Lieu]], [[James Comer]], [[Byron Donalds]], [[Ted Cruz]], [[Cliff Bentz]], [[Deb Fischer]], [[Kim Schrier]], [[Lisa Murkowski]], [[Lisa Blunt Rochester]], [[Tim Sheehy]], [[Young Kim]], [[Victoria Spartz]], [[Claudia Tenney]], [[Richard Blumenthal]], [[Joseph Morelle]], [[Erin Houchin]], [[Aaron Bean]], [[Michael Lawler]], [[John Joyce]], [[Randy Fine]], [[Morgan Luttrell]], [[Joni Ernst]], [[Richard McCormick]], [[David Rouzer]], [[Paul Tonko]], [[Cory Mills]], [[Burgess Owens]], [[Tammy Baldwin]], [[Hakeem Jeffries]], [[Kevin Cramer]], [[Veronica Escobar]], [[Steve Daines]], [[Guy Reschenthaler]], [[Alex Padilla]], [[Roger Marshall]], [[George Latimer]], [[Jay Obernolte]], [[Thom Tillis]], [[Diana Harshbarger]], [[Cory Booker]], [[Mike Lee]], [[Cathy McMorris Rodgers]], [[MERCHANT BANKCARD]], [[Bob Casey]], [[Rick W. Allen]], [[Rand Paul]], [[Neal P. Dunn]], [[Robert E. Latta]], [[John R. Curtis]], [[Tommy Tuberville]], [[Gus M. Bilirakis]], [[Kirsten E. Gillibrand]], [[JD Vance]], [[Ted Budd]], [[H. Morgan Griffith]], [[Zachary Nunn]], [[Carol D. Miller]], [[Mike Rogers]], [[Mike Kelly]], [[Gary J. Palmer]], [[Bill Cassidy]], [[Lucy McBath]], [[Marco Rubio]], [[Earl L. Buddy Carter]], [[Gregory F. Murphy]], [[Nick Lalota]], [[Blake D. Moore]], [[Bob Menendez]], [[Julia Letlow]]"
 related: "[[Dan Goldman]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -24,7 +24,7 @@ cash-on-hand: 579572
 contributions-to-committees: 55900
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

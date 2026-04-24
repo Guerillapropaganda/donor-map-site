@@ -18,23 +18,23 @@ phone: 202-225-4601
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-donors: "[[National Cattlemen's Beef Association]], [[Ben Cline]], [[American Gaming Association]], [[BAE Systems]], [[Leidos]], [[Walmart - Walton Family]], [[MAJORITY PAC]], [[Northrop Grumman]], [[CoreCivic - Private Prisons]], [[Tyson Foods]], [[Republican Jewish Coalition]], [[General Dynamics]], [[Lockheed Martin]], [[Microsoft]], [[L3Harris Technologies]], [[AIPAC - American Israel Public Affairs Committee]], [[Raytheon (RTX)]], [[National Association of Realtors]], [[National Multifamily Housing Council]], [[National Rifle Association]], [[Marathon Petroleum]], [[Honeywell]], [[Associated General Contractors of America Political Action Committee]], [[WinRed]], [[Jason Smith]], [[Save America PAC]], [[Majority PAC]], [[Honeywell International]]"
+  - No FEC contribution data
+  - No voting record data
+donors: "[[National Cattlemen's Beef Association]], [[Ben Cline]], [[American Gaming Association]], [[BAE Systems]], [[Leidos]], [[Walmart - Walton Family]], [[MAJORITY PAC]], [[Northrop Grumman]], [[CoreCivic - Private Prisons]], [[Tyson Foods]], [[Republican Jewish Coalition]], [[General Dynamics]], [[Lockheed Martin]], [[Microsoft]], [[L3Harris Technologies]], [[AIPAC - American Israel Public Affairs Committee]], [[Raytheon (RTX)]], [[National Association of Realtors]], [[National Multifamily Housing Council]], [[National Rifle Association]], [[Marathon Petroleum]], [[Honeywell]], [[Associated General Contractors of America Political Action Committee]], [[WinRed]], [[Jason Smith]], [[Save America PAC]], [[Majority PAC]], [[Honeywell International]], [[Raytheon (RTX Corporation)]], [[Amgen Inc]], [[GEO Group - Private Prison Industrial Complex]], [[NRA Political Victory Fund]], [[Google - Alphabet]], [[Humana]], [[Occidental Petroleum]], [[Care Action]], [[Southern Company]], [[Pfizer Inc.]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Koch Industries]], [[Bechtel Corporation]], [[National Restaurant Association]], [[National Right to Life PAC]], [[BEN CLINE FOR CONGRESS, INC.]], [[CoreCivic]], [[Steve Scalise]], [[Monsanto - Bayer]], [[Brett Guthrie]], [[Cargill]], [[JASON SMITH FOR CONGRESS]], [[Akin Gump Strauss Hauer & Feld]], [[National Education Association]], [[ANDY BARR FOR SENATE, INC.]], [[Darin Lahood]], [[MOORE FOR WEST VIRGINIA, INC.]], [[Frank Lucas]], [[TEXANS FOR JODEY ARRINGTON]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H0KY05015
 bills-sponsored: 9
 bills-cosponsored: 79
 bills-enacted: 0
 top-policy-area: Health
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Commerce, Justice, Science, and Related Agencies"
+  - Commerce, Justice, Science, and Related Agencies
   - Defense
   - House Committee on Appropriations
-  - "Transportation, Housing and Urban Development, and Related Agencies"
-total-raised: "$16.5M"
-career-total-source: "FEC weball summary (cycles 1980, 1982, 1984, 1986, 1988, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+  - Transportation, Housing and Urban Development, and Related Agencies
+total-raised: $16.5M
+career-total-source: FEC weball summary (cycles 1980, 1982, 1984, 1986, 1988, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

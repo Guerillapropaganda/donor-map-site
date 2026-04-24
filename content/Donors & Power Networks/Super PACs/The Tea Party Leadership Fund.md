@@ -5,14 +5,14 @@ content-readiness: data-complete
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00520825
 aliases:
   - THE TEA PARTY LEADERSHIP FUND
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[John Boehner]]"
+  - No lobbying disclosure data
+politicians-funded: "[[John Boehner]], [[SCM ENTERPRISES LLC]], [[DB CAPITOL STRATEGIES, PLLC]], [[DB CAPITOL STRATEGIES]], [[Washington Citizens for Colin Powell]], [[SOUTHWEST PUBLISHING]], [[PIERSON CONSULTING GROUP]], [[STRATEGIC FUNDRAISING]], [[ALLEGIANCE DIRECT LLC]], [[RAPID RESPONSE TELEVISION]], [[STRATEGIC FUNDRAISING, INC.]], [[ALLEGIANCE DIRECT, LLC]], [[KELLENPROJECTS LLC]], [[JAVELIN GROUP LLC]], [[CLIENT FIRST CONSULTING GROUP, LLC]], [[THEBLAZE INC.]], [[Campaign for Community Change]], [[MDI IMAGING & MAIL]], [[INFOCISION MANAGEMENT CORPORATION]], [[COOLIDGE REAGAN FOUNDATION]], [[American Homes 4 Rent]], [[CD INC.]], [[CD, INC.]], [[BIG EYE DIRECT]], [[KELLEN PROJECTS]], [[P-INTEL, LLC]], [[INFOCISION MANAGEMENT CORP.]], [[Nancy Mace]], [[David Rouzer]], [[Joni Ernst]], [[Jim Jordan]], [[Steve Daines]], [[Tim Scott]], [[Jeff Sessions]], [[Paul Ryan]], [[Mike Rounds]], [[Barry Loudermilk]], [[Ron DeSantis]], [[Mike Lee]], [[Richard Hudson]]"
 related: "[[John Boehner]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -24,7 +24,7 @@ individual-contributions: 1016212
 contributions-to-committees: 93316
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

@@ -8,17 +8,17 @@ source-tier: 1
 party: Democrat
 chamber: Secretary of Labor (2009-2013)
 known-gaps:
-  - "No voting record data"
-  - "No mapped relationships"
+  - No voting record data
+  - No mapped relationships
 source-types:
   - Congress
   - FEC
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H6CA38139
-top-donors: "[[IBEW - International Brotherhood of Electrical Workers]], [[UnitedHealth Group - Optum]], [[Verizon]], [[Kaiser Permanente]], [[Pfizer Inc.]], [[CBRE Group]]"
-last-enriched: 2026-04-21
-total-raised: "$741K"
-career-total-source: "FEC weball summary (cycles 2026)"
+top-donors: "[[IBEW - International Brotherhood of Electrical Workers]], [[UnitedHealth Group - Optum]], [[Verizon]], [[Kaiser Permanente]], [[Pfizer Inc.]], [[CBRE Group]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AFL-CIO]], [[TAMMY BALDWIN FOR CONGRESS]], [[National Education Association]], [[League of Conservation Voters]], [[Humana]], [[Akin Gump Strauss Hauer & Feld]], [[National Committee to Preserve Social Security & Medicare PAC]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[MIKE THOMPSON FOR CONGRESS]], [[Blue Shield of California]], [[Planned Parenthood Action Fund INC]], [[J Street]], [[Sierra Club Political Committee]], [[Raul Grijalva]], [[Amgen Inc]], [[MEDICARE FOR ALL]]"
+last-enriched: 2026-04-21T00:00:00.000Z
+total-raised: $741K
+career-total-source: FEC weball summary (cycles 2026)
 bills-sponsored: 49
 corroboration-count: 2
 ---

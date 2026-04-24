@@ -9,14 +9,14 @@ ein: "133615533"
 nonprofit-status: 501(c)(3)
 source-tier: 1
 internal-notes: Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Fiscal-sponsor / philanthropic-services intermediary. Channels institutional philanthropy and dark-money-adjacent giving through project fiscal sponsorship. Narrative pending Research Claude editorial pass.
-politicians-funded: "[[New Venture Fund]], [[Brennan Center for Justice]], [[National Philanthropic Trust]], [[Hopewell Fund]], [[Center for American Progress]], [[ACLU Foundation]], [[NEO Philanthropy]], [[Proteus Fund]], [[Natural Resources Defense Council]], [[Planned Parenthood Federation of America]], [[Fidelity Investments]], [[Sierra Club Foundation]], [[Schwab Charitable Fund]], [[Equal Justice Initiative]], [[Ocean Conservancy]], [[Bipartisan Policy Center]], [[Silicon Valley Community Foundation]], [[Bluegreen Alliance]], [[Prison Policy Initiative]]"
+politicians-funded: "[[New Venture Fund]], [[Brennan Center for Justice]], [[National Philanthropic Trust]], [[Hopewell Fund]], [[Center for American Progress]], [[ACLU Foundation]], [[NEO Philanthropy]], [[Proteus Fund]], [[Natural Resources Defense Council]], [[Planned Parenthood Federation of America]], [[Fidelity Investments]], [[Sierra Club Foundation]], [[Schwab Charitable Fund]], [[Equal Justice Initiative]], [[Ocean Conservancy]], [[Bipartisan Policy Center]], [[Silicon Valley Community Foundation]], [[Bluegreen Alliance]], [[Prison Policy Initiative]], [[Center on Budget and Policy Priorities]], [[Hoover Institution]]"
 known-gaps:
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
-  - "No mapped relationships"
-last-enriched: 2026-04-21
-total-political-spend: "$78.8M"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2018, 2019, 2020, 2021, 2022, 2023, 2024"
+  - No FEC contribution data
+  - No lobbying disclosure data
+  - No mapped relationships
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $78.8M
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2018, 2019, 2020, 2021, 2022, 2023, 2024
 ---
 
 

@@ -2,7 +2,7 @@
 title: Ashley Moody
 type: politician
 content-readiness: data-complete
-last-updated: 2026-04-19
+last-updated: 2026-04-19T00:00:00.000Z
 source-tier: 1
 party: Republican
 chamber: Senate
@@ -19,30 +19,30 @@ source-types:
   - FEC
   - GovTrack
 known-gaps:
-  - "No mapped relationships"
+  - No mapped relationships
 central-thesis: "Ashley Moody is the DeSantis appointment who replaced Rubio without a Senate election or voter mandate. Her 99.0% party loyalty in 734 votes (119th Congress only) is the brand-new senator's loyalty score before any independent deviation pattern emerges. The donor base is her AG legacy: healthcare companies she regulated as AG (Wellpoint/Anthem, Amgen, CVS/Aetna, Anesthesiologists) and defense contractors reflecting Florida's military-base economy. The AG who led ACA lawsuits is now funded by the insurers who operate under that system."
 editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: S6FL00640
-top-donors: "[[National Association of Realtors]], [[Johnson & Johnson]], [[Senate Conservatives Fund]], [[Amgen Inc]], [[Honeywell]], [[Duke Energy]], [[Nucor Corporation]], [[CVS Health - Aetna]], [[NRSC - National Republican Senatorial Committee]], [[Comcast - NBCUniversal]], [[Law Enforcement for a Safer America Pac]], [[Care Action]], [[L3Harris Technologies]], [[Microsoft]], [[Walmart - Walton Family]], [[AbbVie]], [[Associated General Contractors of America Political Action Committee]], [[Chevron]], [[Lockheed Martin]], [[American Hospital Association PAC]], [[American College of Radiology Association PAC]], [[General Dynamics]], [[Anthem - Elevance Health]], [[Humana]], [[General Motors]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Pfizer Inc.]], [[National Restaurant Association]], [[BAE Systems]], [[National Rifle Association]], [[VIEW PAC - Value in Electing Women]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Republican Jewish Coalition]], [[Northrop Grumman]], [[Citigroup]], [[Common Sense for America PAC]], [[Gilead Sciences]], [[NextEra Energy]], [[Honeywell International]]"
-last-enriched: 2026-04-20
+top-donors: "[[National Association of Realtors]], [[Johnson & Johnson]], [[Senate Conservatives Fund]], [[Amgen Inc]], [[Honeywell]], [[Duke Energy]], [[Nucor Corporation]], [[CVS Health - Aetna]], [[NRSC - National Republican Senatorial Committee]], [[Comcast - NBCUniversal]], [[Law Enforcement for a Safer America Pac]], [[Care Action]], [[L3Harris Technologies]], [[Microsoft]], [[Walmart - Walton Family]], [[AbbVie]], [[Associated General Contractors of America Political Action Committee]], [[Chevron]], [[Lockheed Martin]], [[American Hospital Association PAC]], [[American College of Radiology Association PAC]], [[General Dynamics]], [[Anthem - Elevance Health]], [[Humana]], [[General Motors]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Pfizer Inc.]], [[National Restaurant Association]], [[BAE Systems]], [[National Rifle Association]], [[VIEW PAC - Value in Electing Women]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Republican Jewish Coalition]], [[Northrop Grumman]], [[Citigroup]], [[Common Sense for America PAC]], [[Gilead Sciences]], [[NextEra Energy]], [[Honeywell International]], [[National Republican Senatorial Committee]], [[NRA Political Victory Fund]], [[Akin Gump Strauss Hauer & Feld]], [[GEO Group - Private Prison Industrial Complex]], [[Roger Marshall]], [[Meta - Facebook]], [[Koch Industries]], [[Katie Britt]], [[Bacardi - Bacardi USA]]"
+last-enriched: 2026-04-20T00:00:00.000Z
 corroboration-count: 3
 committees:
-  - "Antitrust, Competition Policy, and Consumer Rights"
-  - "Border Management, Federal Workforce, and Regulatory Affairs"
+  - Antitrust, Competition Policy, and Consumer Rights
+  - Border Management, Federal Workforce, and Regulatory Affairs
   - Border Security and Immigration
-  - "Disaster Management, District of Columbia, and Census"
+  - Disaster Management, District of Columbia, and Census
   - Education and the American Family
   - Intellectual Property
   - Joint Economic Committee
   - Primary Health and Retirement Security
-  - "Privacy, Technology, and the Law"
-  - "Senate Committee on Health, Education, Labor, and Pensions"
+  - Privacy, Technology, and the Law
+  - Senate Committee on Health, Education, Labor, and Pensions
   - Senate Committee on Homeland Security and Governmental Affairs
   - Senate Committee on the Judiciary
   - Senate Special Committee on Aging
-total-raised: "$8.4M"
-career-total-source: "FEC weball summary (cycles 2026)"
+total-raised: $8.4M
+career-total-source: FEC weball summary (cycles 2026)
 bills-sponsored: 29
 ---
 

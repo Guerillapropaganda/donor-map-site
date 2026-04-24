@@ -7,11 +7,11 @@ entity-type: Super PAC
 committee-type: Super PAC (Independent Expenditure-Only)
 committee-id: C00507525
 fec-url: https://www.fec.gov/data/committee/C00507525/
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-ie-support: $4,344,542
 fec-ie-oppose: $30,837,440
-politicians-funded: "[[Paul Ryan]], [[Mitt Romney]]"
+politicians-funded: "[[Paul Ryan]], [[Mitt Romney]], [[WILLMARK RESEARCH, INC.]], [[WOMBLE CARLYLE SANDRIDGE & RICE, LLP]], [[IOWA REPUBLICAN PARTY]], [[DESERTFOX STRATEGIC COMMUNICATIONS, LLC]], [[ROSETTA STONE COMMUNICATIONS]], [[American Homes 4 Rent]], [[WRIGHT, C. EDMUND]], [[PHILLIPS, GREGG A.]], [[VENABLE, LLP]], [[CUMMINGS, NORMAN B.]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[GRIMALDI, JOHN P.]], [[THE BARBER GROUP, INC.]], [[PIRYX INC.]], [[BURKETT, REBECCA A.]], [[TYLER, RICHARD W.]], [[MUDD LEE, LLC]], [[HANNA, FRANK JR.]], [[Republican Jewish Coalition]], [[COVERGENCE CONSULTING GROUP]], [[VHH CONSULTING, LLC]], [[FOUNDRY ROAD, LLC]], [[MOBOTORY]]"
 related: "[[Mitt Romney]] · [[Paul Ryan]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -20,10 +20,10 @@ urls-first-triaged: "2026-04-15"
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
-total-political-spend: "$4.0M"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2012"
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $4.0M
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2012
 ---
 
 

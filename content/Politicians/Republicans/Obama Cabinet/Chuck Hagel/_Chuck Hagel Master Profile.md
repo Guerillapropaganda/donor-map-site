@@ -1,20 +1,21 @@
 ---
-title: "Chuck Hagel"
+title: Chuck Hagel
 type: politician
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "Secretary of Defense (2013-2015)"
+party: Republican
+chamber: Secretary of Defense (2013-2015)
 known-gaps:
-  - "No voting record data"
-  - "No mapped relationships"
+  - No voting record data
+  - No mapped relationships
 source-types:
   - Congress
   - FEC
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 corroboration-count: 2
+top-donors: "[[ADM - Archer Daniels Midland]], [[NRA Political Victory Fund]], [[MBNA Corporation]], [[National Right to Life PAC]], [[Cargill]], [[Tyson Foods]], [[Citigroup]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Pfizer Inc.]], [[National Restaurant Association]], [[National Cattlemen's Beef Association]], [[Williams Companies]], [[Monsanto - Bayer]], [[Amgen Inc]], [[McDonalds Corporation]], [[Associated General Contractors of America Political Action Committee]], [[Akin Gump Strauss Hauer & Feld]], [[Senate Majority PAC]], [[Occidental Petroleum]], [[National Education Association]], [[Goldman Sachs]], [[Southern Company]], [[Bechtel Corporation]], [[Koch Industries]], [[Nucor Corporation]], [[National Republican Senatorial Committee]]"
 ---
 
 

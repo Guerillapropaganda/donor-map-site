@@ -20,20 +20,20 @@ source-types:
   - FEC
   - GovTrack
 known-gaps:
-  - "No mapped relationships"
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4FL08168
-top-donors: "[[Raytheon (RTX)]], [[Chevron]], [[National Association of Realtors]], [[Duke Energy]], [[L3Harris Technologies]], [[NextEra Energy]], [[Morgan Stanley]], [[Comcast - NBCUniversal]], [[General Dynamics]], [[Citigroup]], [[National Rifle Association]], [[AIPAC - American Israel Public Affairs Committee]], [[August Pfluger]], [[Troy Downing]], [[National Restaurant Association]], [[Bank of America]], [[CVS Health - Aetna]], [[Lockheed Martin]], [[Northrop Grumman]], [[MAJORITY PAC]], [[American Hospital Association PAC]], [[National Cattlemen's Beef Association]], [[BAE Systems]], [[American College of Radiology Association PAC]], [[Honeywell]], [[Walmart - Walton Family]], [[Coinbase]], [[Jim Jordan]], [[National Multifamily Housing Council]], [[Blackstone Group]], [[Amazon]], [[Goldman Sachs]], [[American Petroleum Institute]], [[Ballard Partners]], [[Fidelity Investments]], [[Johnson & Johnson]], [[Honeywell International]], [[Majority PAC]]"
-last-enriched: 2026-04-21
+top-donors: "[[Raytheon (RTX)]], [[Chevron]], [[National Association of Realtors]], [[Duke Energy]], [[L3Harris Technologies]], [[NextEra Energy]], [[Morgan Stanley]], [[Comcast - NBCUniversal]], [[General Dynamics]], [[Citigroup]], [[National Rifle Association]], [[AIPAC - American Israel Public Affairs Committee]], [[August Pfluger]], [[Troy Downing]], [[National Restaurant Association]], [[Bank of America]], [[CVS Health - Aetna]], [[Lockheed Martin]], [[Northrop Grumman]], [[MAJORITY PAC]], [[American Hospital Association PAC]], [[National Cattlemen's Beef Association]], [[BAE Systems]], [[American College of Radiology Association PAC]], [[Honeywell]], [[Walmart - Walton Family]], [[Coinbase]], [[Jim Jordan]], [[National Multifamily Housing Council]], [[Blackstone Group]], [[Amazon]], [[Goldman Sachs]], [[American Petroleum Institute]], [[Ballard Partners]], [[Fidelity Investments]], [[Johnson & Johnson]], [[Honeywell International]], [[Majority PAC]], [[Raytheon (RTX Corporation)]], [[MIKE HARIDOPOLOS FOR CONGRESS]], [[NRA Political Victory Fund]], [[GEO Group - Private Prison Industrial Complex]], [[Koch Industries]], [[AUGUST PFLUGER FOR CONGRESS]], [[Brett Guthrie]], [[Steve Scalise]], [[TEXANS FOR JODEY ARRINGTON]], [[Tom Emmer]], [[JIM JORDAN FOR CONGRESS]], [[Bacardi - Bacardi USA]], [[David P. Joyce]], [[MOORE FOR WEST VIRGINIA, INC.]], [[TROY DOWNING FOR CONGRESS]], [[Carol D. Miller]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Capital Markets
-  - "Digital Assets, Financial Technology, and Artificial Intelligence"
+  - Digital Assets, Financial Technology, and Artificial Intelligence
   - House Committee on Financial Services
-  - "House Committee on Science, Space, and Technology"
+  - House Committee on Science, Space, and Technology
   - Oversight and Investigations
   - Space and Aeronautics
-total-raised: "$3.0M"
-career-total-source: "FEC weball summary (cycles 2024, 2026)"
+total-raised: $3.0M
+career-total-source: FEC weball summary (cycles 2024, 2026)
 bills-sponsored: 2
 corroboration-count: 3
 ---

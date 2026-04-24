@@ -31,18 +31,18 @@ related: "[[Dan Crenshaw Master Profile]] · [[_Bill Cassidy Master Profile|Cass
 needs-reenrichment: true
 reenrich-reason: run congress pipeline; run pipelines
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-donors: "[[Goldman Sachs]], [[ExxonMobil]], [[Koch Industries]], [[ConocoPhillips]], [[Anthem - Elevance Health]], [[American Hospital Association PAC]], [[Northrop Grumman]], [[Save America PAC]], [[Marathon Petroleum]], [[Common Sense for America PAC]], [[Raytheon (RTX)]], [[Really American Pac]], [[Comcast - NBCUniversal]], [[Associated General Contractors of America Political Action Committee]], [[Chevron]], [[AT&T - WarnerMedia]], [[L3Harris Technologies]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[General Motors]], [[Duke Energy]], [[WinRed]], [[AIPAC - American Israel Public Affairs Committee]], [[American Chemistry Council, INC]], [[Valero Energy]], [[PG&E - Pacific Gas and Electric]], [[Lockheed Martin]], [[Honeywell]], [[National Victory Action Fund]], [[Halliburton]], [[Citigroup]], [[Ford Motor Company]], [[Pfizer Inc.]], [[Walmart - Walton Family]], [[Occidental Petroleum]], [[National Association of Realtors]], [[National Restaurant Association]], [[Clearpath Action Fund, Inc.]], [[National Rifle Association]], [[Honeywell International]], [[AT&T]]"
+donors: "[[Goldman Sachs]], [[ExxonMobil]], [[Koch Industries]], [[ConocoPhillips]], [[Anthem - Elevance Health]], [[American Hospital Association PAC]], [[Northrop Grumman]], [[Save America PAC]], [[Marathon Petroleum]], [[Common Sense for America PAC]], [[Raytheon (RTX)]], [[Really American Pac]], [[Comcast - NBCUniversal]], [[Associated General Contractors of America Political Action Committee]], [[Chevron]], [[AT&T - WarnerMedia]], [[L3Harris Technologies]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[General Motors]], [[Duke Energy]], [[WinRed]], [[AIPAC - American Israel Public Affairs Committee]], [[American Chemistry Council, INC]], [[Valero Energy]], [[PG&E - Pacific Gas and Electric]], [[Lockheed Martin]], [[Honeywell]], [[National Victory Action Fund]], [[Halliburton]], [[Citigroup]], [[Ford Motor Company]], [[Pfizer Inc.]], [[Walmart - Walton Family]], [[Occidental Petroleum]], [[National Association of Realtors]], [[National Restaurant Association]], [[Clearpath Action Fund, Inc.]], [[National Rifle Association]], [[Honeywell International]], [[AT&T]], [[Raytheon (RTX Corporation)]], [[Tyson Foods]], [[GEO Group - Private Prison Industrial Complex]], [[Steve Scalise]], [[National Republican Senatorial Committee]], [[NRA Political Victory Fund]], [[DANIEL WEBSTER PAC]], [[ESAFUND]], [[Republican Jewish Coalition]], [[Akin Gump Strauss Hauer & Feld]], [[Monsanto - Bayer]], [[Bechtel Corporation]], [[Amgen Inc]], [[National Right to Life Victory Fund]], [[Senate Majority PAC]], [[Meta - Facebook]], [[Southern Company]], [[La. Automobile Dealers Election Action Committee]], [[La Health Service & Indem Co dba Blue Cross & Blue Shield PAC]]"
 bills-enacted: 1
 top-policy-area: Finance and Financial Sector
-last-enriched: 2026-04-20
+last-enriched: 2026-04-20T00:00:00.000Z
 source-types:
   - Congress
   - GovTrack
 corroboration-count: 2
 known-gaps:
-  - "No FEC contribution data"
-total-raised: "$78.8M"
-career-total-source: "FEC weball summary (cycles 2004, 2006, 2008, 2010, 2012, 2016, 2018, 2020, 2022, 2024, 2026)"
+  - No FEC contribution data
+total-raised: $78.8M
+career-total-source: FEC weball summary (cycles 2004, 2006, 2008, 2010, 2012, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

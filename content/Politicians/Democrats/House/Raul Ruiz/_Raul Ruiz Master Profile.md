@@ -18,24 +18,24 @@ phone: 202-225-5330
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2CA36439
 bills-sponsored: 48
 bills-cosponsored: 320
 bills-enacted: 1
 top-policy-area: Health
-top-donors: "[[Teamsters - International Brotherhood of Teamsters]], [[CHC BOLD PAC]], [[Microsoft]], [[NextEra Energy]], [[Johnson & Johnson]], [[Planned Parenthood Votes]], [[American Hospital Association PAC]], [[AT&T - WarnerMedia]], [[Honeywell]], [[CVS Health - Aetna]], [[General Motors]], [[Northrop Grumman]], [[Gilead Sciences]], [[Humana]], [[McDonalds Corporation]], [[NEA Fund for Children and Public Education]], [[Performance Racing Inc.]], [[PG&E - Pacific Gas and Electric]], [[American College of Radiology Association PAC]], [[League of Conservation Voters]], [[Ford Motor Company]], [[Courage California Super Pac]], [[Pete Aguilar]], [[National Multifamily Housing Council]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Anthem - Elevance Health]], [[IBEW - International Brotherhood of Electrical Workers]], [[Raytheon (RTX)]], [[Progressive Turnout Project]], [[Walmart - Walton Family]], [[Giffords PAC]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Comcast - NBCUniversal]], [[Pfizer Inc.]], [[Amgen Inc]], [[AIPAC - American Israel Public Affairs Committee]], [[Let America Vote PAC]], [[Google - Alphabet]], [[Everytown for Gun Safety]], [[Sierra Club Independent Action]], [[PLANNED PARENTHOOD ACTION FUND OF THE PACIFIC SOUTHWEST PAC]], [[Lockheed Martin]], [[AbbVie]], [[Ted Lieu]], [[National Association of Realtors]], [[American Chemistry Council, INC]], [[American Federation of State County & Municipal Employees P E O P L E]], [[SEIU COPE]], [[Leidos]], [[J Street]], [[314 ACTION FUND]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Nancy Pelosi]], [[Care Action]], [[CTA - California Teachers Association]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[AT&T]], [[Planned Parenthood Action Fund of the Pacific Southwest PAC]], [[Honeywell International]], [[314 Action Fund]]"
-last-enriched: 2026-04-21
+top-donors: "[[Teamsters - International Brotherhood of Teamsters]], [[CHC BOLD PAC]], [[Microsoft]], [[NextEra Energy]], [[Johnson & Johnson]], [[Planned Parenthood Votes]], [[American Hospital Association PAC]], [[AT&T - WarnerMedia]], [[Honeywell]], [[CVS Health - Aetna]], [[General Motors]], [[Northrop Grumman]], [[Gilead Sciences]], [[Humana]], [[McDonalds Corporation]], [[NEA Fund for Children and Public Education]], [[Performance Racing Inc.]], [[PG&E - Pacific Gas and Electric]], [[American College of Radiology Association PAC]], [[League of Conservation Voters]], [[Ford Motor Company]], [[Courage California Super Pac]], [[Pete Aguilar]], [[National Multifamily Housing Council]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Anthem - Elevance Health]], [[IBEW - International Brotherhood of Electrical Workers]], [[Raytheon (RTX)]], [[Progressive Turnout Project]], [[Walmart - Walton Family]], [[Giffords PAC]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Comcast - NBCUniversal]], [[Pfizer Inc.]], [[Amgen Inc]], [[AIPAC - American Israel Public Affairs Committee]], [[Let America Vote PAC]], [[Google - Alphabet]], [[Everytown for Gun Safety]], [[Sierra Club Independent Action]], [[PLANNED PARENTHOOD ACTION FUND OF THE PACIFIC SOUTHWEST PAC]], [[Lockheed Martin]], [[AbbVie]], [[Ted Lieu]], [[National Association of Realtors]], [[American Chemistry Council, INC]], [[American Federation of State County & Municipal Employees P E O P L E]], [[SEIU COPE]], [[Leidos]], [[J Street]], [[314 ACTION FUND]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Nancy Pelosi]], [[Care Action]], [[CTA - California Teachers Association]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[AT&T]], [[Planned Parenthood Action Fund of the Pacific Southwest PAC]], [[Honeywell International]], [[314 Action Fund]], [[Raytheon (RTX Corporation)]], [[Planned Parenthood Action Fund INC]], [[Adam Smith]], [[MATSUI FOR CONGRESS]], [[Ben Ray Lujan]], [[Rosa DeLauro]], [[Hilda Solis]], [[National Education Association]], [[DOGGETT FOR U S CONGRESS COMMITTEE]], [[CASTOR FOR CONGRESS]], [[Akin Gump Strauss Hauer & Feld]], [[CITIZENS FOR WATERS]], [[GALLEGO FOR ARIZONA]], [[Sierra Club Political Committee]], [[Steny H. Hoyer]], [[John B. Larson]], [[NANCY PELOSI FOR CONGRESS]], [[PETE AGUILAR FOR CONGRESS]], [[Marcy Kaptur]], [[Blue Shield of California]], [[James E. Clyburn]], [[Eric Swalwell]], [[Meta - Facebook]], [[Center Forward Committee]], [[BARBARA LEE FOR CONGRESS]], [[DEBBIE WASSERMAN SCHULTZ FOR CONGRESS]], [[Juan Vargas]], [[CASTRO FOR CONGRESS]], [[Richard Neal]], [[TED LIEU FOR CONGRESS]], [[Southern Company]], [[Humane Society Legislative Fund]], [[Janice D. Schakowsky]], [[PAUL TONKO FOR CONGRESS]], [[Hakeem Jeffries]], [[Tulsi Gabbard]], [[Jerry Nadler]], [[LOFGREN FOR CONGRESS]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Jerrold Nadler]], [[DAVID SCOTT FOR CONGRESS]], [[HUFFMAN FOR CONGRESS]], [[Frank Pallone]], [[DIANA DEGETTE FOR CONGRESS]], [[JUDY CHU FOR CONGRESS]], [[STRICKLAND FOR WASHINGTON]], [[Yvette D. Clarke]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[J. Luis Correa]], [[Marc A. Veasey]], [[KATHERINE CLARK FOR CONGRESS]], [[MIKE THOMPSON FOR CONGRESS]], [[MARK TAKANO FOR CONGRESS]], [[Cooperative of American Physicians Independent Expenditure Committee]], [[AFL-CIO]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Communications and Technology
   - Environment
   - Health
   - House Committee on Energy and Commerce
-total-raised: "$20.8M"
-career-total-source: "FEC weball summary (cycles 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+total-raised: $20.8M
+career-total-source: FEC weball summary (cycles 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

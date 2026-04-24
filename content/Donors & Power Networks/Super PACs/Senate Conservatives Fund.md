@@ -11,8 +11,8 @@ fec-committee-id: C00448696
 aliases:
   - SENATE CONSERVATIVES FUND
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Bill Hagerty]], [[John Ratcliffe]], [[Ted Cruz]], [[Elissa Slotkin]], [[Ashley Moody]], [[Josh Hawley]], [[Mike Lee]], [[Tim Sheehy]], [[Mark Kelly]], [[Eric Schmitt]], [[Gary Peters]], [[Ron Johnson]], [[Jacky Rosen]], [[Bernie Moreno]], [[Scott Perry]], [[Catherine Cortez Masto]], [[Jon Ossoff]], [[Tammy Baldwin]], [[Raphael Warnock]], [[Anna Paulina Luna]], [[Rick Scott]], [[John Fetterman]], [[Roger Marshall]], [[Ruben Gallego]], [[Marsha Blackburn]], [[Chip Roy]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Bill Hagerty]], [[John Ratcliffe]], [[Ted Cruz]], [[Elissa Slotkin]], [[Ashley Moody]], [[Josh Hawley]], [[Mike Lee]], [[Tim Sheehy]], [[Mark Kelly]], [[Eric Schmitt]], [[Gary Peters]], [[Ron Johnson]], [[Jacky Rosen]], [[Bernie Moreno]], [[Scott Perry]], [[Catherine Cortez Masto]], [[Jon Ossoff]], [[Tammy Baldwin]], [[Raphael Warnock]], [[Anna Paulina Luna]], [[Rick Scott]], [[John Fetterman]], [[Roger Marshall]], [[Ruben Gallego]], [[Marsha Blackburn]], [[Chip Roy]], [[339 GROUP]], [[CYGNAL, LLC]], [[PHONE2ACTION INC]], [[WESTIN RESORT HILTON HEAD]], [[FACEBOOK ADVERTISING]], [[RAGNAR RESEARCH PARTNERS]], [[HIGH BRIDGE CONSULTING]], [[BOLD COLORS LLC]], [[REGNERY PUBLISHING]], [[American Homes 4 Rent]], [[SWT83 LLC]], [[BK STRATEGIES]], [[BURKEWOOD COMMUNICATIONS CORP.]], [[ZEALOUS LLC]], [[Campaign for Community Change]], [[VOUGHT STRATEGIES LLC]], [[ADP]], [[CONCEPT 278]], [[STRIPE]], [[Co Impact Philanthropic Funds]], [[NARTAK MEDIA GROUP]], [[Aaron Maté]], [[DESFOSSES, CELYNN]], [[RED SEA LLC]], [[QUORUM ANALYTICS]], [[CUCCINELLI, KENNETH]], [[VITALE AND ASSOCIATES]], [[CAROLINA FIRST VISA]], [[CAVES VALLEY GOLF CLUB]], [[JAMESTOWN ASSOCIATES]], [[ALLEGIANCE DIRECT]], [[RRTV MEDIA]], [[BOLD COLORS GROUP LLC]], [[Alliance Defending Freedom]], [[ENVISION MARKETING]], [[WILSON PERKINS ALLEN OPINION RESEARCH]], [[RAPID RESPONSE TELEVISION LLC]], [[U.S. TREASURY]], [[Cynthia M. Lummis]], [[Mike Johnson]], [[Joni Ernst]], [[Barry Moore]], [[Jim Banks]], [[Warren Davidson]], [[Ted Budd]], [[JD Vance]], [[Steve Daines]], [[Rand Paul]], [[Tommy Tuberville]], [[Paul A. Gosar]], [[Andy Biggs]], [[John James]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -26,7 +26,7 @@ contributions-to-committees: 1405974
 related: "[[John Ratcliffe]] · [[Bill Hagerty]]"
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

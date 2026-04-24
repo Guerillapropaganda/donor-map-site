@@ -1,20 +1,21 @@
 ---
-title: "Jeff Sessions"
+title: Jeff Sessions
 type: politician
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "Attorney General (2017-2018)"
+party: Republican
+chamber: Attorney General (2017-2018)
 known-gaps:
-  - "No voting record data"
-  - "No mapped relationships"
+  - No voting record data
+  - No mapped relationships
 source-types:
   - Congress
   - FEC
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 corroboration-count: 2
+top-donors: "[[Pete Sessions]], [[Senate Majority PAC]], [[CVS Health - Aetna]], [[American Iron and Steel Institute]], [[Amgen Inc]], [[Pfizer Inc.]], [[Tyson Foods]], [[Monsanto - Bayer]], [[Associated General Contractors of America Political Action Committee]], [[Nucor Corporation]], [[Akin Gump Strauss Hauer & Feld]], [[Williams Companies]], [[NRA Political Victory Fund]], [[MBNA Corporation]], [[Google - Alphabet]], [[Occidental Petroleum]], [[Mitch McConnell]], [[Bechtel Corporation]], [[National Republican Senatorial Committee]], [[Southern Company]], [[National Cattlemen's Beef Association]], [[National Restaurant Association]], [[Koch Industries]], [[The Tea Party Leadership Fund]], [[Citigroup]], [[National Right to Life PAC]], [[Cargill]], [[McDonalds Corporation]], [[AT&T]], [[Campaign for Working Families]], [[MIKE ROGERS FOR CONGRESS]]"
 ---
 
 

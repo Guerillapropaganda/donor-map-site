@@ -2,8 +2,8 @@
 title: Chellie Pingree
 type: politician
 content-readiness: draft
-last-updated: 2026-04-19
-central-thesis: "Chellie Pingree is the Maine organic farmer progressive whose $2.3M lifetime direct PAC combines a labor coalition (Machinists $90K, AFT $83K, NEA $78K, Laborers $73K, Trial Lawyers $68K, AFSCME $61K) with General Dynamics at $81K/40 txns, the third-highest lifetime donor by transactions, where the GD giving reflects Bath Iron Works's Navy destroyer construction in Maine rather than ideological alignment; the American Crystal Sugar PAC ($45K/9 txns) is the industrial monoculture agricultural industry giving to an Agriculture Committee member whose sustainable food and fisheries advocacy runs directly contrary to consolidated sugar production."
+last-updated: 2026-04-19T00:00:00.000Z
+central-thesis: Chellie Pingree is the Maine organic farmer progressive whose $2.3M lifetime direct PAC combines a labor coalition (Machinists $90K, AFT $83K, NEA $78K, Laborers $73K, Trial Lawyers $68K, AFSCME $61K) with General Dynamics at $81K/40 txns, the third-highest lifetime donor by transactions, where the GD giving reflects Bath Iron Works's Navy destroyer construction in Maine rather than ideological alignment; the American Crystal Sugar PAC ($45K/9 txns) is the industrial monoculture agricultural industry giving to an Agriculture Committee member whose sustainable food and fisheries advocacy runs directly contrary to consolidated sugar production.
 editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 source-tier: 1
 party: Democrat
@@ -30,15 +30,15 @@ bills-sponsored: 19
 bills-cosponsored: 616
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[Raytheon (RTX)]], [[Northrop Grumman]], [[J Street]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[NEA Fund for Children and Public Education]], [[League of Conservation Voters]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Walmart - Walton Family]], [[Sierra Club Political Committee]], [[SEIU COPE]], [[General Dynamics]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[DCCC - Democratic Congressional Campaign Committee]], [[Medicare for All - The Policy That Broke the Party]], [[Planned Parenthood Votes]], [[Lockheed Martin]], [[National Association of Realtors]], [[Google - Alphabet]], [[Progressive Turnout Project]], [[Human Rights Campaign Equality Votes]], [[Teamsters - International Brotherhood of Teamsters]], [[Sierra Club Independent Action]], [[Leidos]], [[American Federation of State County & Municipal Employees  P E O P L E]]"
-last-enriched: 2026-04-20
+top-donors: "[[Raytheon (RTX)]], [[Northrop Grumman]], [[J Street]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[NEA Fund for Children and Public Education]], [[League of Conservation Voters]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Walmart - Walton Family]], [[Sierra Club Political Committee]], [[SEIU COPE]], [[General Dynamics]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[DCCC - Democratic Congressional Campaign Committee]], [[Medicare for All - The Policy That Broke the Party]], [[Planned Parenthood Votes]], [[Lockheed Martin]], [[National Association of Realtors]], [[Google - Alphabet]], [[Progressive Turnout Project]], [[Human Rights Campaign Equality Votes]], [[Teamsters - International Brotherhood of Teamsters]], [[Sierra Club Independent Action]], [[Leidos]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Raytheon (RTX Corporation)]], [[Chellie Pingree]], [[John B. Larson]], [[National Education Association]], [[MCCOLLUM FOR CONGRESS]], [[Akin Gump Strauss Hauer & Feld]], [[NANCY PELOSI FOR CONGRESS]], [[Planned Parenthood Action Fund INC]], [[AFL-CIO]], [[National Nurses United]], [[GRACE FOR NEW YORK]], [[American College of Radiology Association PAC]], [[Emily's List]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Steny H. Hoyer]], [[CASTOR FOR CONGRESS]], [[Rosa DeLauro]], [[Henry Cuellar]], [[Bradley Scott Schneider]], [[Democratic Senatorial Campaign Committee]], [[Richard Neal]], [[JULIA BROWNLEY FOR CONGRESS]], [[Janice D. Schakowsky]], [[Chris van Hollen]], [[Marcy Kaptur]], [[Hakeem Jeffries]], [[Let America Vote PAC]], [[BARBARA LEE FOR CONGRESS]], [[MEDICARE FOR ALL]]"
+last-enriched: 2026-04-20T00:00:00.000Z
 committees:
-  - "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies"
+  - Agriculture, Rural Development, Food and Drug Administration, and Related Agencies
   - House Committee on Agriculture
   - House Committee on Appropriations
-  - "Interior, Environment, and Related Agencies"
-total-raised: "$8.5M"
-career-total-source: "FEC weball summary (cycles 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+  - Interior, Environment, and Related Agencies
+total-raised: $8.5M
+career-total-source: FEC weball summary (cycles 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

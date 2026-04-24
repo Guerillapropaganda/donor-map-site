@@ -3,7 +3,7 @@ title: Chuck Schumer
 type: politician
 content-readiness: ready
 central-thesis: Chuck Schumer is the Democratic Party's answer to Mitch McConnell , not in ideology, but in function. Where McConnell built the Republican donor class's infrastructure through judicial capture and Citizens United, Schumer built the Democratic dono...
-last-updated: 2026-04-17
+last-updated: 2026-04-17T00:00:00.000Z
 source-tier: 1
 career-total: $100M
 parent: null
@@ -45,13 +45,13 @@ committees:
 internal-notes: |-
   [MANUAL 2026-04-11] Bioguide recovered: S000148. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
   [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided.
-donors: "[[Morgan Stanley]] · [[Citigroup]] · [[Majority Forward]] · [[Blackstone Group]] · [[Google - Alphabet]] · [[Senate Majority PAC]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Democratic Small Dollar Networks]] · [[Mark Zuckerberg]] · [[DSCC - Democratic Senatorial Campaign Committee]] · [[Healthcare Sector]] · [[Goldman Sachs]]"
+donors: "[[Morgan Stanley]] · [[Citigroup]] · [[Majority Forward]] · [[Blackstone Group]] · [[Google - Alphabet]] · [[Senate Majority PAC]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Democratic Small Dollar Networks]] · [[Mark Zuckerberg]] · [[DSCC - Democratic Senatorial Campaign Committee]] · [[Healthcare Sector]] · [[Goldman Sachs]] · [[National Committee to Preserve Social Security & Medicare PAC]] · [[Koch Industries]] · [[Lyft]] · [[Planned Parenthood Action Fund INC]] · [[Coinbase]] · [[Southern Company]] · [[Amgen Inc]] · [[Demand Justice]] · [[American College of Radiology Association PAC]] · [[Pfizer Inc.]] · [[Bacardi - Bacardi USA]] · [[Akin Gump Strauss Hauer & Feld]] · [[CVS Health - Aetna]] · [[DoorDash]] · [[Humana]] · [[Williams Companies]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Giffords PAC]] · [[League of Conservation Voters]] · [[AbbVie]] · [[Nucor Corporation]] · [[American Gaming Association]] · [[AFL-CIO]] · [[Meta - Facebook]] · [[Sinclair Broadcast Group]] · [[National Restaurant Association]] · [[Sierra Club Political Committee]] · [[National Education Association]] · [[Bechtel Corporation]] · [[American Iron and Steel Institute]] · [[McDonalds Corporation]] · [[Tyson Foods]] · [[Gilead Sciences]] · [[Associated General Contractors of America Political Action Committee]] · [[Blue Shield of California]] · [[Cargill]] · [[National Nurses United]] · [[NANCY PELOSI FOR CONGRESS]] · [[MarketAxess Holdings Inc. PAC]] · [[Regional Airline Association Political Action Committee]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 2437
 bills-cosponsored: 8059
 bills-enacted: 1
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "Congress"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: Congress
 ---
 
 

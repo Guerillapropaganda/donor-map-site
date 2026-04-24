@@ -11,8 +11,8 @@ fec-committee-id: C00698936
 aliases:
   - WFW ACTION FUND, INC.
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Kay Granger]], [[Ashley Hinson]], [[Michelle Fischbach]], [[Nikki Haley]], [[Celeste Maloy]], [[Monica de la Cruz]], [[Deb Fischer]], [[Julie Fedorchak]], [[Maria Elvira Salazar]], [[Ann Wagner]], [[Patrick Ryan]], [[Patty Murray]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Kay Granger]], [[Ashley Hinson]], [[Michelle Fischbach]], [[Nikki Haley]], [[Celeste Maloy]], [[Monica de la Cruz]], [[Deb Fischer]], [[Julie Fedorchak]], [[Maria Elvira Salazar]], [[Ann Wagner]], [[Patrick Ryan]], [[Patty Murray]], [[Winning for Women PAC]], [[HOLTZMAN VOGEL JOSEFIAK TORCHINSKY PLLC]], [[THE TARRANCE GROUP]], [[1892 LLC]], [[Stephanie I. Bice]], [[Shelley Moore Capito]], [[Cathy McMorris Rodgers]], [[Jennifer A. Kiggans]], [[Elise Stefanik]], [[Joni Ernst]], [[Beth van Duyne]], [[Susan Collins]], [[Lauren Boebert]], [[Nicole Malliotakis]], [[Kat Cammack]], [[Diana Harshbarger]], [[Lisa C. McClain]], [[Mary E. Miller]], [[Victoria Spartz]], [[Cindy Hyde-Smith]]"
 related: "[[Kay Granger]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -26,7 +26,7 @@ individual-contributions: 20000
 contributions-to-committees: 110750
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

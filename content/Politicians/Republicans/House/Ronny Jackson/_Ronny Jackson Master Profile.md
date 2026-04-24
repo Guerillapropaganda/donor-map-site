@@ -18,32 +18,32 @@ phone: 202-225-3706
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-donors: "[[Western Growers Association]] · [[CA Farm Bureau Federation]] · [[Walmart - Walton Family]] · [[Occidental Petroleum]] · [[National Cattlemen's Beef Association]] · [[Freedom's Defense Fund]] · [[WinRed]] · [[BAE Systems]] · [[National Rifle Association]] · [[National Association of Realtors]] · [[Jim Jordan]] · [[American College of Radiology Association PAC]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Raytheon (RTX)]] · [[Chevron]] · [[L3Harris Technologies]] · [[Valero Energy]] · [[General Dynamics]] · [[Jason Smith]] · [[Lockheed Martin]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[Save America PAC]] · [[AT&T - WarnerMedia]] · [[Care Action]] · [[Marathon Petroleum]] · [[NORPAC]] · [[Tyson Foods]] · [[National Victory Action Fund]] · [[MAJORITY PAC]] · [[Honeywell]] · [[Comcast - NBCUniversal]] · [[David Rouzer]] · [[National Restaurant Association]] · [[AT&T]] · [[Honeywell International]] · [[Majority PAC]]"
+  - No FEC contribution data
+  - No voting record data
+donors: "[[Western Growers Association]] · [[CA Farm Bureau Federation]] · [[Walmart - Walton Family]] · [[Occidental Petroleum]] · [[National Cattlemen's Beef Association]] · [[Freedom's Defense Fund]] · [[WinRed]] · [[BAE Systems]] · [[National Rifle Association]] · [[National Association of Realtors]] · [[Jim Jordan]] · [[American College of Radiology Association PAC]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Raytheon (RTX)]] · [[Chevron]] · [[L3Harris Technologies]] · [[Valero Energy]] · [[General Dynamics]] · [[Jason Smith]] · [[Lockheed Martin]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[Save America PAC]] · [[AT&T - WarnerMedia]] · [[Care Action]] · [[Marathon Petroleum]] · [[NORPAC]] · [[Tyson Foods]] · [[National Victory Action Fund]] · [[MAJORITY PAC]] · [[Honeywell]] · [[Comcast - NBCUniversal]] · [[David Rouzer]] · [[National Restaurant Association]] · [[AT&T]] · [[Honeywell International]] · [[Majority PAC]] · [[Raytheon (RTX Corporation)]] · [[NRA Political Victory Fund]] · [[Daniel Meuser]] · [[TEXANS FOR JODEY ARRINGTON]] · [[JASON SMITH FOR CONGRESS]] · [[American Principles Fund]] · [[Steve Scalise]] · [[DR. BRIAN BABIN FOR CONGRESS]] · [[Associated General Contractors of America Political Action Committee]] · [[Club for Growth]] · [[JIM JORDAN FOR CONGRESS]] · [[INVEST IN A STRONG AND SECURE AMERICA]] · [[Koch Industries]] · [[DAVID ROUZER FOR CONGRESS]] · [[Future45]] · [[Williams Companies]] · [[DR JOHN JOYCE FOR CONGRESS]] · [[FRIENDS OF MATT GAETZ]] · [[Carol D. Miller]] · [[Kevin McCarthy]] · [[Campaign for Working Families]] · [[Gun Owners of America]] · [[Club for Growth INC PAC]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H0TX13228
 bills-sponsored: 27
 bills-cosponsored: 352
 bills-enacted: 0
 top-policy-area: International Affairs
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Africa
   - Central Intelligence Agency
-  - "Conservation, Research, and Biotechnology"
+  - Conservation, Research, and Biotechnology
   - House Committee on Agriculture
   - House Committee on Armed Services
   - House Committee on Foreign Affairs
   - House Permanent Select Committee on Intelligence
   - Intelligence and Special Operations
-  - "Livestock, Dairy, and Poultry"
+  - Livestock, Dairy, and Poultry
   - Middle East and North Africa
   - Oversight and Intelligence
   - Oversight and Investigations
   - Seapower and Projection Forces
-total-raised: "$16.7M"
-career-total-source: "FEC weball summary (cycles 2020, 2022, 2024, 2026)"
+total-raised: $16.7M
+career-total-source: FEC weball summary (cycles 2020, 2022, 2024, 2026)
 ---
 
 

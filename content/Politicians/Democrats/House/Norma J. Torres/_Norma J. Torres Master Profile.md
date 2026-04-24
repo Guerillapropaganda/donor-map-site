@@ -1,38 +1,39 @@
 ---
-title: "Norma J. Torres"
+title: Norma J. Torres
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "California"
-state-abbr: "CA"
+party: Democrat
+chamber: House
+state: California
+state-abbr: CA
 district: "35"
-bioguide-id: "T000474"
+bioguide-id: T000474
 govtrack-id: 412617
 born: "1965-04-04"
-wikidata-id: "Q3343727"
-website: "https://torres.house.gov"
-phone: "202-225-6161"
+wikidata-id: Q3343727
+website: https://torres.house.gov
+phone: 202-225-6161
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 29
 bills-cosponsored: 241
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - House Committee on Appropriations
   - House Committee on House Administration
   - Modernization and Innovation
-  - "National Security, Department of State, and Related Programs"
-  - "Transportation, Housing and Urban Development, and Related Agencies"
+  - National Security, Department of State, and Related Programs
+  - Transportation, Housing and Urban Development, and Related Agencies
+top-donors: "[[International Association of Firefighters Interested in Registration and Education PAC]], [[Google - Alphabet]], [[Donald S. Beyer]], [[AIPAC - American Israel Public Affairs Committee]], [[Amgen Inc]], [[Planned Parenthood Action Fund INC]], [[Pfizer Inc.]], [[Blue Shield of California]], [[Gilead Sciences]], [[National Education Association]], [[League of Conservation Voters]], [[Leidos]], [[Giffords PAC]], [[TED LIEU FOR CONGRESS]], [[National Restaurant Association]], [[MIKE THOMPSON FOR CONGRESS]], [[Frank Pallone]], [[American College of Radiology Association PAC]], [[Demand Justice]], [[AbbVie]], [[Let America Vote PAC]], [[Richard Neal]], [[Akin Gump Strauss Hauer & Feld]], [[Nucor Corporation]], [[AFL-CIO]], [[Harry Reid]], [[Tyson Foods]]"
 ---
 
 

@@ -26,7 +26,7 @@ top-donors:
   - Koch Network
 total-received: $3,443,146
 fec-candidate-id: H8WI01156
-donors: "[[Insurance Industry]] · [[Stand Together]] · [[National Restaurant Association]] · [[AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION]] · [[NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE]] · [[Koch Network]] · [[FAIRSHAKE]] · [[HMP]] · [[MIDWEST GROWTH PAC]] · [[Midwest Growth PAC]] · [[Koch network]] · [[Anthem - Elevance Health]] · [[Occidental Petroleum]] · [[Honeywell]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Duke Energy]] · [[Walmart - Walton Family]] · [[UA Political Action Committee]] · [[Halliburton]] · [[Microsoft]] · [[Beth van Duyne]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[National Association of Manufacturers]] · [[Americans for Prosperity]] · [[General Motors]] · [[Chevron]] · [[AT&T - WarnerMedia]] · [[Nucor Corporation]] · [[Bank of America]] · [[General Dynamics]] · [[MAJORITY PAC]] · [[National Rifle Association]] · [[Marathon Petroleum]] · [[Lockheed Martin]] · [[NRCC - National Republican Congressional Committee]] · [[Valero Energy]] · [[Amgen Inc]] · [[Associated General Contractors of America Political Action Committee]] · [[American Hospital Association PAC]] · [[DoorDash]] · [[Care Action]] · [[Fairshake PAC - Crypto Super PAC]] · [[Congressional Leadership Fund]] · [[National Multifamily Housing Council]] · [[Byron Donalds]] · [[Rick W. Allen]] · [[Google - Alphabet]] · [[Jim Jordan]] · [[David Rouzer]] · [[Coinbase]] · [[Citigroup]] · [[Pfizer Inc.]] · [[Austin Scott]] · [[National Association of Realtors]] · [[Hmp]] · [[AbbVie]] · [[Morgan Stanley]] · [[National Right to Life Victory Fund]] · [[Jason Smith]] · [[Republican Jewish Coalition]] · [[WinRed]] · [[American Chemistry Council, INC]] · [[Ben Cline]] · [[iHeartMedia]] · [[Airbnb]] · [[Comcast - NBCUniversal]] · [[Hunter Action Fund (haf)]] · [[Honeywell International]] · [[Majority PAC]] · [[Fairshake PAC]] · [[AT&T]]"
+donors: "[[Insurance Industry]] · [[Stand Together]] · [[National Restaurant Association]] · [[AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION]] · [[NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE]] · [[Koch Network]] · [[FAIRSHAKE]] · [[HMP]] · [[MIDWEST GROWTH PAC]] · [[Midwest Growth PAC]] · [[Koch network]] · [[Anthem - Elevance Health]] · [[Occidental Petroleum]] · [[Honeywell]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Duke Energy]] · [[Walmart - Walton Family]] · [[UA Political Action Committee]] · [[Halliburton]] · [[Microsoft]] · [[Beth van Duyne]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[National Association of Manufacturers]] · [[Americans for Prosperity]] · [[General Motors]] · [[Chevron]] · [[AT&T - WarnerMedia]] · [[Nucor Corporation]] · [[Bank of America]] · [[General Dynamics]] · [[MAJORITY PAC]] · [[National Rifle Association]] · [[Marathon Petroleum]] · [[Lockheed Martin]] · [[NRCC - National Republican Congressional Committee]] · [[Valero Energy]] · [[Amgen Inc]] · [[Associated General Contractors of America Political Action Committee]] · [[American Hospital Association PAC]] · [[DoorDash]] · [[Care Action]] · [[Fairshake PAC - Crypto Super PAC]] · [[Congressional Leadership Fund]] · [[National Multifamily Housing Council]] · [[Byron Donalds]] · [[Rick W. Allen]] · [[Google - Alphabet]] · [[Jim Jordan]] · [[David Rouzer]] · [[Coinbase]] · [[Citigroup]] · [[Pfizer Inc.]] · [[Austin Scott]] · [[National Association of Realtors]] · [[Hmp]] · [[AbbVie]] · [[Morgan Stanley]] · [[National Right to Life Victory Fund]] · [[Jason Smith]] · [[Republican Jewish Coalition]] · [[WinRed]] · [[American Chemistry Council, INC]] · [[Ben Cline]] · [[iHeartMedia]] · [[Airbnb]] · [[Comcast - NBCUniversal]] · [[Hunter Action Fund (haf)]] · [[Honeywell International]] · [[Majority PAC]] · [[Fairshake PAC]] · [[AT&T]] · [[Frank Lucas]] · [[Mike Johnson]] · [[Steve Scalise]] · [[NRA Political Victory Fund]] · [[Pete Sessions]] · [[Russ Fulcher]] · [[AUSTIN SCOTT FOR CONGRESS INC]] · [[BURCHETT FOR CONGRESS]] · [[WEBER FOR CONGRESS]] · [[AFL-CIO]] · [[Guy Reschenthaler]] · [[FEDORCHAK FOR ND]] · [[BYRON DONALDS FOR CONGRESS]] · [[Tim Walberg]] · [[Koch Industries]] · [[Akin Gump Strauss Hauer & Feld]] · [[J. French Hill]] · [[David P. Joyce]] · [[William R. Timmons]] · [[LOUDERMILK FOR CONGRESS]] · [[CLAUDIA TENNEY FOR CONGRESS]] · [[American College of Radiology Association PAC]] · [[Brett Guthrie]] · [[Richard McCormick]] · [[TEXANS FOR JODEY ARRINGTON]] · [[Nicholas A. Langworthy]] · [[Meta - Facebook]] · [[Randy Feenstra]] · [[Glenn Thompson]] · [[JIM JORDAN FOR CONGRESS]] · [[BOST, MICHAEL]] · [[Elise Stefanik]] · [[BEN CLINE FOR CONGRESS, INC.]] · [[Tom Emmer]] · [[Paul Ryan]] · [[Michael R. Turner]] · [[Darin Lahood]] · [[RON ESTES FOR CONGRESS]] · [[Southern Company]] · [[Mitt Romney]] · [[Williams Companies]] · [[GARY PALMER FOR CONGRESS]] · [[DAVID ROUZER FOR CONGRESS]] · [[RON JOHNSON FOR SENATE, INC.]] · [[JASON SMITH FOR CONGRESS]] · [[Rick Crawford]] · [[Steve Womack]] · [[MOORE FOR WEST VIRGINIA, INC.]] · [[DR. BRIAN BABIN FOR CONGRESS]] · [[Mark E. Amodei]] · [[BICE FOR CONGRESS]] · [[Daniel Meuser]] · [[HOUCHIN FOR CONGRESS]] · [[Kevin McCarthy]] · [[JOE WILSON FOR CONGRESS]] · [[RICK W. ALLEN FOR CONGRESS]] · [[DAN NEWHOUSE FOR CONGRESS]]"
 last-enriched: "2026-04-10"
 needs-reenrichment: true
 reenrich-reason: re-run congress pipeline
@@ -41,7 +41,7 @@ bills-data-scope: Career total synced from auto:congress-legislation (Congress.g
 top-policy-area: Finance and Financial Sector
 committees:
   - Capital Markets
-  - "Digital Assets, Financial Technology, and Artificial Intelligence"
+  - Digital Assets, Financial Technology, and Artificial Intelligence
   - House Committee on Financial Services
   - House Committee on House Administration
   - Joint Committee of Congress on the Library
@@ -49,10 +49,10 @@ committees:
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-total-raised: "$19.4M"
-career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
+  - No FEC contribution data
+  - No voting record data
+total-raised: $19.4M
+career-total-source: FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)
 ---
 
 

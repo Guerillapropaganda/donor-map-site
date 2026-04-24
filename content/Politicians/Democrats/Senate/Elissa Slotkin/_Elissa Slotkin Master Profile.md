@@ -2,8 +2,8 @@
 title: Elissa Slotkin
 type: politician
 content-readiness: draft
-central-thesis: "Elissa Slotkin is the Democratic face of the national-security state, a former CIA analyst and Pentagon appointee elected to the Senate on $24.3M in super-PAC support against $54.8M in opposition spending, and whose voting record, defense-industry donor map, and crypto-PAC (Protect Progress) backing place her at the intersection of intelligence capital, defense capital, and Silicon Valley's regulatory-self-interest donor class."
-last-updated: 2026-04-19
+central-thesis: Elissa Slotkin is the Democratic face of the national-security state, a former CIA analyst and Pentagon appointee elected to the Senate on $24.3M in super-PAC support against $54.8M in opposition spending, and whose voting record, defense-industry donor map, and crypto-PAC (Protect Progress) backing place her at the intersection of intelligence capital, defense capital, and Silicon Valley's regulatory-self-interest donor class.
+last-updated: 2026-04-19T00:00:00.000Z
 editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns, and Rhetorical Signature Moves. Promoted raw → draft."
 source-tier: 1
 party: Democrat
@@ -23,7 +23,7 @@ known-gaps:
   - No legislative record
   - No voting record
   - No mapped relationships
-donors: "[[Fairshake PAC]], [[Senate Conservatives Fund]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Sierra Club Independent Action]], [[Emily's List]], [[Indivisible Action]], [[Americans for Prosperity]], [[Demand Justice]], [[Activate America]], [[Pete Aguilar]], [[Planned Parenthood Action Fund INC]], [[United We Can]], [[SEIU - Service Employees International Union]], [[Progressive Turnout Project]], [[Unite Here Tip Campaign Committee]], [[Everytown for Gun Safety]], [[MoveOn.org Political Action]], [[Center Forward Committee]], [[League of Conservation Voters]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[NEA Fund for Children and Public Education]], [[Jon Ossoff]], [[American Federation of State County & Municipal Employees P E O P L E]], [[American Hospital Association PAC]], [[Teamsters - International Brotherhood of Teamsters]], [[SEIU COPE]], [[SLF PAC]], [[Sierra Club Political Committee]], [[National Nurses United]], [[Let America Vote PAC]], [[AFL-CIO]], [[WinSenate]], [[Protect the Vote]], [[Protect Progress]], [[Everytown for Gun Safety Victory Fund]], [[National Committee to Preserve Social Security PAC]], [[National Nurses United for Patient Protection]], [[IBEW - International Brotherhood of Electrical Workers]], [[NRSC - National Republican Senatorial Committee]], [[Votevets]], [[Giffords PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Planned Parenthood Votes]], [[Amazon]], [[Blackstone Group]], [[Uber]], [[Google - Alphabet]], [[Leidos]], [[Meta - Facebook]], [[Citigroup]], [[Anduril Industries]], [[AbbVie]], [[Apple]], [[CNA - California Nurses Association]], [[AT&T]], [[Kaiser Permanente]], [[Goldman Sachs]], [[General Motors]], [[Center for American Progress]], [[Tesla - Elon Musk Political Operation]], [[Business Roundtable]], [[American Enterprise Institute]], [[UnitedHealth Group - Optum]], [[Booz Allen Hamilton]], [[FTX - Sam Bankman-Fried]], [[Fidelity Investments]], [[BAE Systems]], [[Microsoft]], [[Bank of America]], [[Oracle]], [[Raytheon (RTX Corporation)]], [[Boeing]], [[Wells Fargo]], [[Pfizer Inc.]], [[CVS Health - Aetna]], [[Johnson & Johnson]], [[Open Society Foundations]], [[Ford Motor Company]], [[News Corp - Fox Corporation]], [[Northrop Grumman]], [[Comcast - NBCUniversal]], [[Blue Shield of California]], [[Bechtel Corporation]], [[Morgan Stanley]], [[Centene Corporation]], [[Chevron]], [[Lockheed Martin]], [[Nvidia]], [[BlackRock]], [[ExxonMobil]], [[Palantir Technologies]], [[Honeywell International]], [[Airbnb]], [[Gilead Sciences]], [[Verizon]], [[TPUSA - Turning Point USA]], [[American Federation of State County & Municipal Employees  P E O P L E]]"
+donors: "[[Fairshake PAC]], [[Senate Conservatives Fund]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Sierra Club Independent Action]], [[Emily's List]], [[Indivisible Action]], [[Americans for Prosperity]], [[Demand Justice]], [[Activate America]], [[Pete Aguilar]], [[Planned Parenthood Action Fund INC]], [[United We Can]], [[SEIU - Service Employees International Union]], [[Progressive Turnout Project]], [[Unite Here Tip Campaign Committee]], [[Everytown for Gun Safety]], [[MoveOn.org Political Action]], [[Center Forward Committee]], [[League of Conservation Voters]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[NEA Fund for Children and Public Education]], [[Jon Ossoff]], [[American Federation of State County & Municipal Employees P E O P L E]], [[American Hospital Association PAC]], [[Teamsters - International Brotherhood of Teamsters]], [[SEIU COPE]], [[SLF PAC]], [[Sierra Club Political Committee]], [[National Nurses United]], [[Let America Vote PAC]], [[AFL-CIO]], [[WinSenate]], [[Protect the Vote]], [[Protect Progress]], [[Everytown for Gun Safety Victory Fund]], [[National Committee to Preserve Social Security PAC]], [[National Nurses United for Patient Protection]], [[IBEW - International Brotherhood of Electrical Workers]], [[NRSC - National Republican Senatorial Committee]], [[Votevets]], [[Giffords PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Planned Parenthood Votes]], [[Amazon]], [[Blackstone Group]], [[Uber]], [[Google - Alphabet]], [[Leidos]], [[Meta - Facebook]], [[Citigroup]], [[Anduril Industries]], [[AbbVie]], [[Apple]], [[CNA - California Nurses Association]], [[AT&T]], [[Kaiser Permanente]], [[Goldman Sachs]], [[General Motors]], [[Center for American Progress]], [[Tesla - Elon Musk Political Operation]], [[Business Roundtable]], [[American Enterprise Institute]], [[UnitedHealth Group - Optum]], [[Booz Allen Hamilton]], [[FTX - Sam Bankman-Fried]], [[Fidelity Investments]], [[BAE Systems]], [[Microsoft]], [[Bank of America]], [[Oracle]], [[Raytheon (RTX Corporation)]], [[Boeing]], [[Wells Fargo]], [[Pfizer Inc.]], [[CVS Health - Aetna]], [[Johnson & Johnson]], [[Open Society Foundations]], [[Ford Motor Company]], [[News Corp - Fox Corporation]], [[Northrop Grumman]], [[Comcast - NBCUniversal]], [[Blue Shield of California]], [[Bechtel Corporation]], [[Morgan Stanley]], [[Centene Corporation]], [[Chevron]], [[Lockheed Martin]], [[Nvidia]], [[BlackRock]], [[ExxonMobil]], [[Palantir Technologies]], [[Honeywell International]], [[Airbnb]], [[Gilead Sciences]], [[Verizon]], [[TPUSA - Turning Point USA]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Democratic Senatorial Campaign Committee]], [[BARBARA LEE FOR CONGRESS]], [[Environment America INC]], [[Jerry Nadler]], [[Suzan K. Delbene]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Hakeem Jeffries]], [[JAMIE RASKIN FOR CONGRESS]], [[SARA JACOBS FOR CONGRESS]], [[J Street]], [[Raja Krishnamoorthi]], [[HIMES FOR CONGRESS]], [[KATHERINE CLARK FOR CONGRESS]], [[Ben Ray Lujan]], [[Ami Bera]], [[Donald S. Beyer]], [[Richard Neal]], [[PETE AGUILAR FOR CONGRESS]], [[LOFGREN FOR CONGRESS]], [[James E. Clyburn]], [[BILL FOSTER FOR CONGRESS]], [[National Education Association]], [[LORI TRAHAN FOR CONGRESS COMMITTEE]], [[ANDY KIM FOR NEW JERSEY]], [[Gerry Connolly]], [[Lizzie Fletcher]], [[PAUL TONKO FOR CONGRESS]], [[J. Luis Correa]], [[Marcy Kaptur]], [[CITIZENS TO ELECT RICK LARSEN]], [[Independence Usa Pac]], [[DEBORAH ROSS FOR CONGRESS]], [[WARREN FOR SENATE, INC.]], [[Bradley Scott Schneider]], [[JULIA BROWNLEY FOR CONGRESS]], [[Marc A. Veasey]], [[Rosa DeLauro]], [[Steny H. Hoyer]], [[GRACE FOR NEW YORK]], [[Human Rights Campaign Equality Votes]], [[JUDY CHU FOR CONGRESS]], [[DOGGETT FOR U S CONGRESS COMMITTEE]], [[ROBERT GARCIA FOR CONGRESS]], [[SHERMAN FOR CONGRESS]], [[SCOTT PETERS FOR CONGRESS]], [[GARAMENDI FOR CONGRESS]], [[JOE NEGUSE FOR CONGRESS]], [[Janice D. Schakowsky]], [[AIPAC - American Israel Public Affairs Committee]], [[TED LIEU FOR CONGRESS]], [[MARK TAKANO FOR CONGRESS]], [[VERONICA ESCOBAR FOR CONGRESS]], [[Adam Schiff]], [[Ed Case]], [[Voter Protection Project]], [[Humane Society Legislative Fund]], [[DEBBIE WASSERMAN SCHULTZ FOR CONGRESS]], [[SHRI FOR CONGRESS]], [[JIMMY PANETTA FOR CONGRESS]], [[John Fetterman]], [[Nikema Williams]], [[Bobby Scott]], [[MAD 4 PA PAC]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: S4MI00470
 bills-sponsored: 63
@@ -32,21 +32,21 @@ bills-enacted: 5
 top-policy-area: Armed Forces and National Security
 needs-reenrichment: true
 reenrich-reason: "launch-50 audit: only 4 auto-blocks (threshold: 5)"
-last-enriched: 2026-04-20
+last-enriched: 2026-04-20T00:00:00.000Z
 committees:
   - Airland
-  - "Border Management, Federal Workforce, and Regulatory Affairs"
-  - "Commodities, Derivatives, Risk Management, and Trade"
+  - Border Management, Federal Workforce, and Regulatory Affairs
+  - Commodities, Derivatives, Risk Management, and Trade
   - Cybersecurity
-  - "Disaster Management, District of Columbia, and Census"
+  - Disaster Management, District of Columbia, and Census
   - Emerging Threats and Capabilities
-  - "Livestock, Dairy, Poultry, and Food Safety"
-  - "Senate Committee on Agriculture, Nutrition, and Forestry"
+  - Livestock, Dairy, Poultry, and Food Safety
+  - Senate Committee on Agriculture, Nutrition, and Forestry
   - Senate Committee on Armed Services
   - Senate Committee on Homeland Security and Governmental Affairs
-  - "Senate Committee on Veterans' Affairs"
-total-raised: "$56.3M"
-career-total-source: "FEC weball summary (cycles 2024, 2026)"
+  - Senate Committee on Veterans' Affairs
+total-raised: $56.3M
+career-total-source: FEC weball summary (cycles 2024, 2026)
 ---
 
 

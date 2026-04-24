@@ -6,11 +6,11 @@ sector: Dark Money
 entity-type: Super PAC
 committee-id: C00846428
 fec-url: https://www.fec.gov/data/committee/C00846428/
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-ie-support: null
 fec-ie-oppose: $88,500
-politicians-funded: "[[Debbie Wasserman Schultz]]"
+politicians-funded: "[[Debbie Wasserman Schultz]], [[SHUTTS & BOWEN]], [[SUNSHINE GROUP CONSULTING]], [[Robert Mercer]]"
 related: "[[Debbie Wasserman Schultz]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -20,10 +20,10 @@ cash-on-hand: 10388
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
-total-political-spend: "$44K"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 2 store(s), cycles 2024"
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $44K
+spend-source: aggregated from canonical FEC/IRS edge stores across 2 store(s), cycles 2024
 ---
 
 

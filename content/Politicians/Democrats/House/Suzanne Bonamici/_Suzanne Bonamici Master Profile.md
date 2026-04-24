@@ -18,26 +18,26 @@ phone: 202-225-0855
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2OR01133
 bills-sponsored: 71
 bills-cosponsored: 730
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[Progressive Turnout Project]], [[Sierra Club Political Committee]], [[National Association of Realtors]], [[National Committee to Preserve Social Security PAC]], [[Associated General Contractors of America Political Action Committee]], [[NEA Fund for Children and Public Education]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Walmart - Walton Family]], [[McDonalds Corporation]], [[Teamsters - International Brotherhood of Teamsters]], [[ENVIRONMENT AMERICA INC]], [[SEIU COPE]], [[Amgen Inc]], [[Comcast - NBCUniversal]], [[Lockheed Martin]], [[Honeywell]], [[Google - Alphabet]], [[IBEW - International Brotherhood of Electrical Workers]], [[Northrop Grumman]], [[Planned Parenthood Votes]], [[Raytheon (RTX)]], [[Pfizer Inc.]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[League of Conservation Voters]], [[AIPAC - American Israel Public Affairs Committee]], [[Microsoft]], [[Leidos]], [[Sierra Club Independent Action]], [[Medicare for All - The Policy That Broke the Party]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[J Street]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[AT&T - WarnerMedia]], [[American Hospital Association PAC]], [[AT&T]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Environment America INC]], [[Honeywell International]]"
-last-enriched: 2026-04-21
+top-donors: "[[Progressive Turnout Project]], [[Sierra Club Political Committee]], [[National Association of Realtors]], [[National Committee to Preserve Social Security PAC]], [[Associated General Contractors of America Political Action Committee]], [[NEA Fund for Children and Public Education]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Walmart - Walton Family]], [[McDonalds Corporation]], [[Teamsters - International Brotherhood of Teamsters]], [[ENVIRONMENT AMERICA INC]], [[SEIU COPE]], [[Amgen Inc]], [[Comcast - NBCUniversal]], [[Lockheed Martin]], [[Honeywell]], [[Google - Alphabet]], [[IBEW - International Brotherhood of Electrical Workers]], [[Northrop Grumman]], [[Planned Parenthood Votes]], [[Raytheon (RTX)]], [[Pfizer Inc.]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[League of Conservation Voters]], [[AIPAC - American Israel Public Affairs Committee]], [[Microsoft]], [[Leidos]], [[Sierra Club Independent Action]], [[Medicare for All - The Policy That Broke the Party]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[J Street]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[AT&T - WarnerMedia]], [[American Hospital Association PAC]], [[AT&T]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Environment America INC]], [[Honeywell International]], [[Raytheon (RTX Corporation)]], [[James E. Clyburn]], [[National Committee to Preserve Social Security & Medicare PAC]], [[MEDICARE FOR ALL]], [[MIKE THOMPSON FOR CONGRESS]], [[National Education Association]], [[Planned Parenthood Action Fund INC]], [[AFL-CIO]], [[Emily's List]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[DEBBIE WASSERMAN SCHULTZ FOR CONGRESS]], [[Steny H. Hoyer]], [[American College of Radiology Association PAC]], [[LOFGREN FOR CONGRESS]], [[DIANA DEGETTE FOR CONGRESS]], [[John B. Larson]], [[Let America Vote PAC]], [[Rosa DeLauro]], [[MATSUI FOR CONGRESS]], [[Edward J. Markey]], [[NANCY PELOSI FOR CONGRESS]], [[Peter Welch]], [[GARAMENDI FOR CONGRESS]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Early Childhood, Elementary, and Secondary Education"
+  - Early Childhood, Elementary, and Secondary Education
   - Environment
   - Higher Education and Workforce Development
   - House Committee on Education and Workforce
-  - "House Committee on Science, Space, and Technology"
+  - House Committee on Science, Space, and Technology
   - Investigations and Oversight
-total-raised: "$9.0M"
-career-total-source: "FEC weball summary (cycles 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+total-raised: $9.0M
+career-total-source: FEC weball summary (cycles 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

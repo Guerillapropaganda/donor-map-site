@@ -18,27 +18,27 @@ phone: 202-225-4061
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H0IL05096
 bills-sponsored: 13
 bills-cosponsored: 455
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[American Federation of State County & Municipal Employees P E O P L E]], [[American Hospital Association PAC]], [[Honeywell]], [[Walmart - Walton Family]], [[Northrop Grumman]], [[Gilead Sciences]], [[Morgan Stanley]], [[AIPAC - American Israel Public Affairs Committee]], [[Teamsters - International Brotherhood of Teamsters]], [[J Street]], [[General Dynamics]], [[Medicare for All - The Policy That Broke the Party]], [[Comcast - NBCUniversal]], [[SEIU COPE]], [[Citigroup]], [[National Multifamily Housing Council]], [[AT&T - WarnerMedia]], [[UA Political Action Committee]], [[Leidos]], [[L3Harris Technologies]], [[Google - Alphabet]], [[Progressive Turnout Project]], [[iHeartMedia]], [[Sierra Club Independent Action]], [[NEA Fund for Children and Public Education]], [[Raytheon (RTX)]], [[Everytown for Gun Safety]], [[Bank of America]], [[National Association of Realtors]], [[McDonalds Corporation]], [[Sierra Club Political Committee]], [[Lockheed Martin]], [[AbbVie]], [[Planned Parenthood Votes]], [[American College of Radiology Association PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Nurses United]], [[General Motors]], [[AT&T]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Honeywell International]]"
-last-enriched: 2026-04-21
+top-donors: "[[American Federation of State County & Municipal Employees P E O P L E]], [[American Hospital Association PAC]], [[Honeywell]], [[Walmart - Walton Family]], [[Northrop Grumman]], [[Gilead Sciences]], [[Morgan Stanley]], [[AIPAC - American Israel Public Affairs Committee]], [[Teamsters - International Brotherhood of Teamsters]], [[J Street]], [[General Dynamics]], [[Medicare for All - The Policy That Broke the Party]], [[Comcast - NBCUniversal]], [[SEIU COPE]], [[Citigroup]], [[National Multifamily Housing Council]], [[AT&T - WarnerMedia]], [[UA Political Action Committee]], [[Leidos]], [[L3Harris Technologies]], [[Google - Alphabet]], [[Progressive Turnout Project]], [[iHeartMedia]], [[Sierra Club Independent Action]], [[NEA Fund for Children and Public Education]], [[Raytheon (RTX)]], [[Everytown for Gun Safety]], [[Bank of America]], [[National Association of Realtors]], [[McDonalds Corporation]], [[Sierra Club Political Committee]], [[Lockheed Martin]], [[AbbVie]], [[Planned Parenthood Votes]], [[American College of Radiology Association PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Nurses United]], [[General Motors]], [[AT&T]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Honeywell International]], [[Raytheon (RTX Corporation)]], [[Southern Company]], [[National Restaurant Association]], [[National Education Association]], [[Planned Parenthood Action Fund INC]], [[BARBARA LEE FOR CONGRESS]], [[Frank Pallone]], [[AFL-CIO]], [[Humana]], [[MEDICARE FOR ALL]], [[League of Conservation Voters]], [[Xavier Becerra]], [[Henry Cuellar]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Defense Intelligence and Overhead Architecture
   - House Committee on Appropriations
   - House Permanent Select Committee on Intelligence
   - Legislative Branch
-  - "National Security, Department of State, and Related Programs"
+  - National Security, Department of State, and Related Programs
   - Open Source Intelligence
-  - "Transportation, Housing and Urban Development, and Related Agencies"
-total-raised: "$9.4M"
-career-total-source: "FEC weball summary (cycles 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+  - Transportation, Housing and Urban Development, and Related Agencies
+total-raised: $9.4M
+career-total-source: FEC weball summary (cycles 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

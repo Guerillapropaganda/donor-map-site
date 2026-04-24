@@ -3,7 +3,7 @@ title: Andy Kim
 type: politician
 content-readiness: draft
 central-thesis: "Andy Kim is the reform-brand Democrat who defeated the Menendez machine in 2024 with a donor coalition that tracks his stated politics more closely than most Democratic senators: J Street rather than AIPAC, labor unions rather than defense contractors, End Citizens United rather than corporate PACs. The result is a 96.1% party-line loyalty record that operates without the donor-class override pressure that shapes his colleagues."
-last-updated: 2026-04-19
+last-updated: 2026-04-19T00:00:00.000Z
 editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 source-tier: 1
 party: Democrat
@@ -23,32 +23,32 @@ known-gaps:
   - No legislative record
   - No voting record
   - No mapped relationships
-donors: "[[California Farm Bureau Federation]], [[Sierra Club Political Committee]], [[NEA Fund for Children and Public Education]], [[Unite Here Tip Campaign Committee]], [[Pete Aguilar]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Votevets]], [[American Hospital Association PAC]], [[J Street]], [[IBEW - International Brotherhood of Electrical Workers]], [[SEIU COPE]], [[Judy Chu]], [[Teamsters - International Brotherhood of Teamsters]], [[ENVIRONMENT AMERICA INC]], [[Let America Vote PAC]], [[Giffords PAC]], [[League of Conservation Voters]], [[National Association of Realtors]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Sierra Club Independent Action]], [[Progressive Turnout Project]], [[National Multifamily Housing Council]], [[Indivisible Action]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Environment America INC]]"
+donors: "[[California Farm Bureau Federation]], [[Sierra Club Political Committee]], [[NEA Fund for Children and Public Education]], [[Unite Here Tip Campaign Committee]], [[Pete Aguilar]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Votevets]], [[American Hospital Association PAC]], [[J Street]], [[IBEW - International Brotherhood of Electrical Workers]], [[SEIU COPE]], [[Judy Chu]], [[Teamsters - International Brotherhood of Teamsters]], [[ENVIRONMENT AMERICA INC]], [[Let America Vote PAC]], [[Giffords PAC]], [[League of Conservation Voters]], [[National Association of Realtors]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Sierra Club Independent Action]], [[Progressive Turnout Project]], [[National Multifamily Housing Council]], [[Indivisible Action]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Environment America INC]], [[Hakeem Jeffries]], [[Lizzie Fletcher]], [[TED LIEU FOR CONGRESS]], [[JOE NEGUSE FOR CONGRESS]], [[PAUL TONKO FOR CONGRESS]], [[GRACE FOR NEW YORK]], [[COURTNEY, JOSEPH]], [[VERONICA ESCOBAR FOR CONGRESS]], [[LOFGREN FOR CONGRESS]], [[John Kerry]], [[Bradley Scott Schneider]], [[Richard Neal]], [[Adam Schiff]], [[James E. Clyburn]], [[DEBORAH ROSS FOR CONGRESS]], [[Planned Parenthood Action Fund INC]], [[PETE AGUILAR FOR CONGRESS]], [[LORI TRAHAN FOR CONGRESS COMMITTEE]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Donald S. Beyer]], [[Working Families Party PAC]], [[National Education Association]], [[Nikema Williams]], [[Jerry Nadler]], [[JUDY CHU FOR CONGRESS]], [[National Committee to Preserve Social Security & Medicare PAC]], [[ILHAN FOR CONGRESS]], [[JULIA BROWNLEY FOR CONGRESS]], [[Mary Gay Scanlon]], [[Humane Society Legislative Fund]], [[JAMIE RASKIN FOR CONGRESS]], [[GARAMENDI FOR CONGRESS]], [[Jerrold Nadler]], [[Janice D. Schakowsky]], [[HIMES FOR CONGRESS]], [[JASON CROW FOR CONGRESS]], [[BILL FOSTER FOR CONGRESS]], [[SCOTT PETERS FOR CONGRESS]], [[DEBBIE WASSERMAN SCHULTZ FOR CONGRESS]], [[CASTOR FOR CONGRESS]], [[VIRGIN ISLANDS FOR PLASKETT]], [[NANCY PELOSI FOR CONGRESS]], [[MARK TAKANO FOR CONGRESS]], [[John B. Larson]], [[AFL-CIO]], [[MAD 4 PA PAC]], [[Robin L. Kelly]], [[STRICKLAND FOR WASHINGTON]], [[BONNIE WATSON COLEMAN FOR CONGRESS]], [[Steny H. Hoyer]], [[J. Luis Correa]], [[Robert Garcia]], [[JIMMY PANETTA FOR CONGRESS]], [[KATHERINE CLARK FOR CONGRESS]], [[DEB HAALAND FOR CONGRESS]], [[WARREN FOR SENATE, INC.]], [[ROBERT GARCIA FOR CONGRESS]], [[DOGGETT FOR U S CONGRESS COMMITTEE]], [[Ami Bera]], [[SHERMAN FOR CONGRESS]], [[Emgage Federal Political Action Committee]], [[Suzan K. Delbene]], [[Jill N. Tokuda]], [[Raja Krishnamoorthi]], [[Robert Menendez]], [[Marcy Kaptur]], [[Ro Khanna]], [[VICENTE GONZALEZ FOR CONGRESS]], [[Ed Case]], [[Gerry Connolly]], [[Bobby Scott]], [[Suzanne Bonamici]], [[BARBARA LEE FOR CONGRESS]], [[UCA POLITICAL ACTION COMMITTEE]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: S4NJ00466
 bills-sponsored: 25
 bills-cosponsored: 567
 bills-enacted: 1
 top-policy-area: Health
-last-enriched: 2026-04-20
+last-enriched: 2026-04-20T00:00:00.000Z
 committees:
-  - "Aviation, Space, and Innovation"
-  - "Disaster Management, District of Columbia, and Census"
+  - Aviation, Space, and Innovation
+  - Disaster Management, District of Columbia, and Census
   - Education and the American Family
   - Financial Institutions and Consumer Protection
   - National Security and International Trade and Finance
   - Permanent Subcommittee on Investigations
   - Primary Health and Retirement Security
-  - "Securities, Insurance, and Investment"
-  - "Senate Committee on Banking, Housing, and Urban Affairs"
-  - "Senate Committee on Commerce, Science, and Transportation"
-  - "Senate Committee on Health, Education, Labor, and Pensions"
+  - Securities, Insurance, and Investment
+  - Senate Committee on Banking, Housing, and Urban Affairs
+  - Senate Committee on Commerce, Science, and Transportation
+  - Senate Committee on Health, Education, Labor, and Pensions
   - Senate Committee on Homeland Security and Governmental Affairs
   - Senate Special Committee on Aging
-  - "Surface Transportation, Freight, Pipelines, and Safety"
+  - Surface Transportation, Freight, Pipelines, and Safety
   - Telecommunications and Media
-total-raised: "$13.8M"
-career-total-source: "FEC weball summary (cycles 2024, 2026)"
+total-raised: $13.8M
+career-total-source: FEC weball summary (cycles 2024, 2026)
 ---
 
 

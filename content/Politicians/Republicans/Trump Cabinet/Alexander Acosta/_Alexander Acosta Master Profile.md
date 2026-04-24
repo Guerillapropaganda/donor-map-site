@@ -1,13 +1,13 @@
 ---
-title: "Alexander Acosta"
+title: Alexander Acosta
 type: politician
 content-readiness: ready
-central-thesis: "Acosta is the vault's clearest example of the Federalist Society pipeline producing consequences that extend beyond judicial philosophy. His appointment as Labor Secretary was a product of the same network , Federalist Society membership, Republic..."
-last-updated: 2026-04-13
+central-thesis: Acosta is the vault's clearest example of the Federalist Society pipeline producing consequences that extend beyond judicial philosophy. His appointment as Labor Secretary was a product of the same network , Federalist Society membership, Republic...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Cabinet"
+party: Republican
+chamber: Cabinet
 last-enriched: "2026-04-08"
 source-types:
   - Congress
@@ -15,10 +15,11 @@ source-types:
   - OSHA
 corroboration-count: 3
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 related: "[[_Donald Trump Master Profile]] · [[Jeffrey Epstein Network|Jeffrey Epstein]] · [[Leonard Leo]] · [[Federalist Society]]"
+top-donors: "[[Republican Governors Association]]"
 ---
 
 

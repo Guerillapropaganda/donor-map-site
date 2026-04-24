@@ -18,26 +18,26 @@ phone: 202-225-1252
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H0FL15104
 bills-sponsored: 22
 bills-cosponsored: 287
 bills-enacted: 0
 top-policy-area: International Affairs
-top-donors: "[[WinRed]], [[Lockheed Martin]], [[Honeywell]], [[General Dynamics]], [[Walmart - Walton Family]], [[Raytheon (RTX)]], [[Northrop Grumman]], [[Comcast - NBCUniversal]], [[Leidos]], [[BAE Systems]], [[Chevron]], [[AT&T - WarnerMedia]], [[National Association of Realtors]], [[Marathon Petroleum]], [[NextEra Energy]], [[National Cattlemen's Beef Association]], [[National Rifle Association]], [[Nucor Corporation]], [[Associated General Contractors of America Political Action Committee]], [[MAJORITY PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[L3Harris Technologies]], [[Duke Energy]], [[Jason Smith]], [[American Chemistry Council, INC]], [[Americans for Prosperity]], [[McDonalds Corporation]], [[Cigna Group]], [[Ballard Partners]], [[Anduril Industries]], [[Amazon]], [[Morgan Stanley]], [[Fanjul Family - Florida Crystals]], [[Southern Company]], [[AT&T]], [[Honeywell International]], [[Majority PAC]]"
-last-enriched: 2026-04-21
+top-donors: "[[WinRed]], [[Lockheed Martin]], [[Honeywell]], [[General Dynamics]], [[Walmart - Walton Family]], [[Raytheon (RTX)]], [[Northrop Grumman]], [[Comcast - NBCUniversal]], [[Leidos]], [[BAE Systems]], [[Chevron]], [[AT&T - WarnerMedia]], [[National Association of Realtors]], [[Marathon Petroleum]], [[NextEra Energy]], [[National Cattlemen's Beef Association]], [[National Rifle Association]], [[Nucor Corporation]], [[Associated General Contractors of America Political Action Committee]], [[MAJORITY PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[L3Harris Technologies]], [[Duke Energy]], [[Jason Smith]], [[American Chemistry Council, INC]], [[Americans for Prosperity]], [[McDonalds Corporation]], [[Cigna Group]], [[Ballard Partners]], [[Anduril Industries]], [[Amazon]], [[Morgan Stanley]], [[Fanjul Family - Florida Crystals]], [[Southern Company]], [[AT&T]], [[Honeywell International]], [[Majority PAC]], [[Raytheon (RTX Corporation)]], [[Williams Companies]], [[FRIENDS OF MATT GAETZ]], [[Steve Scalise]], [[NRA Political Victory Fund]], [[Akin Gump Strauss Hauer & Feld]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[National Right to Life Victory Fund]], [[TED BUDD FOR SENATE]], [[Kevin McCarthy]], [[Koch Industries]], [[DAVID ROUZER FOR CONGRESS]], [[Darin Lahood]], [[CLYDE FOR CONGRESS, INC.]], [[ADRIAN SMITH FOR CONGRESS]], [[JASON SMITH FOR CONGRESS]], [[With Honor Fund]], [[Guy Reschenthaler]], [[Rick Crawford]], [[GARY PALMER FOR CONGRESS]], [[ANDY HARRIS FOR CONGRESS]], [[Glenn Thompson]], [[Bacardi - Bacardi USA]], [[Carol D. Miller]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies"
+  - Agriculture, Rural Development, Food and Drug Administration, and Related Agencies
   - Energy and Water Development and Related Agencies
   - Environment
   - House Committee on Appropriations
-  - "House Committee on Science, Space, and Technology"
-  - "Military Construction, Veterans Affairs, and Related Agencies"
-total-raised: "$4.2M"
-career-total-source: "FEC weball summary (cycles 2020, 2022, 2024, 2026)"
+  - House Committee on Science, Space, and Technology
+  - Military Construction, Veterans Affairs, and Related Agencies
+total-raised: $4.2M
+career-total-source: FEC weball summary (cycles 2020, 2022, 2024, 2026)
 ---
 
 

@@ -25,23 +25,23 @@ known-gaps:
   - No mapped relationships
 related: "[[_Marjorie Taylor Greene Master Profile|MTG]] · [[National Rifle Association]] · [[Club for Growth]] · [[Freedom Caucus]] · [[American Petroleum Institute]] · [[Koch Industries]] · [[House Majority PAC]]"
 top-donors: "[[Colorado United Pac]]"
-donors: "[[Colorado United Pac]], [[August Pfluger]], [[Drain the DC Swamp PAC]], [[Jim Jordan]], [[MAJORITY PAC]], [[Gun Owners of America]], [[Really American Pac]], [[Jeff Hurd]], [[Club for Growth INC PAC]], [[American Conservative Union]], [[National Rifle Association]], [[Everytown for Gun Safety Victory Fund]], [[Let America Vote PAC]], [[Votevets]], [[Byron Donalds]], [[Pete Sessions]], [[REPUBLICAN PARTY OF FLORIDA]], [[Jason Smith]], [[Save America PAC]], [[David Rouzer]], [[Women Speak Out Pac]], [[The Lincoln Project]], [[Andy Harris]], [[Ron Estes]], [[Thomas Massie]], [[WinRed]], [[Freedom's Defense Fund]], [[Eric Burlison]], [[Anthem - Elevance Health Political Operation]], [[UPS]], [[Google - Alphabet]], [[Amazon]], [[Lockheed Martin]], [[Northrop Grumman]], [[Bank of America]], [[Boeing]], [[Tenet Healthcare]], [[ExxonMobil]], [[Verizon]], [[Ford Motor Company]], [[Cigna Group]], [[Honeywell International]], [[Oracle]], [[Leidos]], [[IBEW - International Brotherhood of Electrical Workers]], [[AT&T]], [[Walmart]], [[Merck]], [[SpaceX]], [[MasTec - Mas Canosa Family]], [[Raytheon (RTX Corporation)]], [[Wells Fargo]], [[CVS Health - Aetna]], [[Comcast - NBCUniversal]], [[Kelcy Warren - Energy Transfer Partners]], [[Walt Disney Company]], [[Chevron]], [[Microsoft]], [[Majority PAC]], [[Republican Party of Florida]]"
+donors: "[[Colorado United Pac]], [[August Pfluger]], [[Drain the DC Swamp PAC]], [[Jim Jordan]], [[MAJORITY PAC]], [[Gun Owners of America]], [[Really American Pac]], [[Jeff Hurd]], [[Club for Growth INC PAC]], [[American Conservative Union]], [[National Rifle Association]], [[Everytown for Gun Safety Victory Fund]], [[Let America Vote PAC]], [[Votevets]], [[Byron Donalds]], [[Pete Sessions]], [[REPUBLICAN PARTY OF FLORIDA]], [[Jason Smith]], [[Save America PAC]], [[David Rouzer]], [[Women Speak Out Pac]], [[The Lincoln Project]], [[Andy Harris]], [[Ron Estes]], [[Thomas Massie]], [[WinRed]], [[Freedom's Defense Fund]], [[Eric Burlison]], [[Anthem - Elevance Health Political Operation]], [[UPS]], [[Google - Alphabet]], [[Amazon]], [[Lockheed Martin]], [[Northrop Grumman]], [[Bank of America]], [[Boeing]], [[Tenet Healthcare]], [[ExxonMobil]], [[Verizon]], [[Ford Motor Company]], [[Cigna Group]], [[Honeywell International]], [[Oracle]], [[Leidos]], [[IBEW - International Brotherhood of Electrical Workers]], [[AT&T]], [[Walmart]], [[Merck]], [[SpaceX]], [[MasTec - Mas Canosa Family]], [[Raytheon (RTX Corporation)]], [[Wells Fargo]], [[CVS Health - Aetna]], [[Comcast - NBCUniversal]], [[Kelcy Warren - Energy Transfer Partners]], [[Walt Disney Company]], [[Chevron]], [[Microsoft]], [[Majority PAC]], [[Republican Party of Florida]], [[LAUREN BOEBERT FOR CONGRESS]], [[FRIENDS OF MATT GAETZ]], [[NEHLS FOR CONGRESS]], [[ANDY HARRIS FOR CONGRESS]], [[DIANA FOR CONGRESS]], [[Russ Fulcher]], [[Elise Stefanik]], [[Steve Scalise]], [[JASON SMITH FOR CONGRESS]], [[Carol D. Miller]], [[Daniel Meuser]], [[Brandon Gill]], [[NRA Political Victory Fund]], [[PETE SESSIONS FOR CONGRESS]], [[American Principles Fund]], [[TEXANS FOR JODEY ARRINGTON]], [[Tom Emmer]], [[MAST FOR CONGRESS]], [[Kevin McCarthy]], [[Wfw Action Fund, Inc.]], [[JIM JORDAN FOR CONGRESS]], [[Club for Growth]], [[DR. BRIAN BABIN FOR CONGRESS]], [[LOUDERMILK FOR CONGRESS]], [[Protect Freedom Political Action Committee]], [[DAVID ROUZER FOR CONGRESS]], [[AUGUST PFLUGER FOR CONGRESS]], [[National Right to Life Victory Fund]], [[THOMAS MASSIE FOR CONGRESS]], [[WEBER FOR CONGRESS]], [[JEFF HURD FOR CONGRESS]], [[CLOUD FOR CONGRESS]], [[RON ESTES FOR CONGRESS]], [[H. Morgan Griffith]], [[Mike Haridopolos]], [[Ronny Jackson]], [[Lloyd Smucker]], [[BOST, MICHAEL]], [[Campaign for Working Families]], [[ERIC BURLISON FOR CONGRESS]], [[Richard McCormick]], [[Guy Reschenthaler]], [[BYRON DONALDS FOR CONGRESS]], [[Glenn Thompson]], [[BURCHETT FOR CONGRESS]], [[ADRIAN SMITH FOR CONGRESS]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 26
 bills-cosponsored: 335
 bills-enacted: 0
 top-policy-area: Government Operations and Politics
-last-enriched: 2026-04-20
+last-enriched: 2026-04-20T00:00:00.000Z
 committees:
   - Delivering on Government Efficiency
-  - "Economic Growth, Energy Policy, and Regulatory Affairs"
+  - Economic Growth, Energy Policy, and Regulatory Affairs
   - Federal Law Enforcement
   - House Committee on Natural Resources
   - House Committee on Oversight and Government Reform
   - Oversight and Investigations
-  - "Water, Wildlife and Fisheries"
-total-raised: "$16.5M"
-career-total-source: "FEC weball summary (cycles 2020, 2022, 2024, 2026)"
+  - Water, Wildlife and Fisheries
+total-raised: $16.5M
+career-total-source: FEC weball summary (cycles 2020, 2022, 2024, 2026)
 ---
 
 

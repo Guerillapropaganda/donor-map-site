@@ -5,22 +5,22 @@ content-readiness: data-complete
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 aliases:
   - NEA ADVOCACY FUND
 known-gaps:
-  - "No lobbying disclosure data"
+  - No lobbying disclosure data
 opposes: "[[Thom Tillis]]"
-politicians-funded: "[[Thom Tillis]], [[Jamie Raskin]], [[Raja Krishnamoorthi]], [[Joseph Morelle]]"
+politicians-funded: "[[Thom Tillis]], [[Jamie Raskin]], [[Raja Krishnamoorthi]], [[Joseph Morelle]], [[LIVE BALLOT INC.]], [[TWO PENINSULAS RESEARCH GROUP]], [[ANZALONE LISZT GROVE RESEARCH INC.]], [[ANGLE MASTAGNI MATHEWS POLITICAL STRATEGIES LLC]], [[PNA]], [[Majority Forward]], [[Voter Protection Project]], [[PROJECT NEW AMERICA]], [[EQUIS RESEARCH INC.]], [[HUSTLE]], [[LAKE RESEARCH PARTNERS]], [[House Majority PAC]], [[Chris van Hollen]], [[Angela D. Alsobrooks]], [[April McClain Delaney]], [[Lee Zeldin]], [[Tammy Baldwin]], [[Joe Biden]], [[Steny H. Hoyer]], [[Kamala Harris]], [[Sarah Elfreth]], [[Dan Sullivan]], [[Hillary Clinton]], [[Jahana Hayes]], [[John W. Mannion]], [[Patty Murray]], [[Gary Peters]], [[Raphael Warnock]], [[Moxie Media Inc]], [[Commonsense Ten]], [[Mundy Katowitz Media Inc]], [[Envision Communications]], [[Sierra Club Independent Action]], [[Shorr Johnson Magnus]]"
 related: "[[Jamie Raskin]] · [[Raja Krishnamoorthi]] · [[Joseph Morelle]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-21
-total-political-spend: "$12.6M"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026"
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $12.6M
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026
 source-types:
   - FEC
 ---

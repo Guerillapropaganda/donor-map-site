@@ -1,21 +1,22 @@
 ---
-title: "Ray LaHood"
+title: Ray LaHood
 type: politician
 bioguide-id: L000552
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "Secretary of Transportation (2009-2013)"
+party: Republican
+chamber: Secretary of Transportation (2009-2013)
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 source-types:
   - Congress
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 bills-sponsored: 37
+top-donors: "[[International Association of Firefighters Interested in Registration and Education PAC]], [[National Cattlemen's Beef Association]], [[National Restaurant Association]], [[Cargill]], [[Pfizer Inc.]], [[McDonalds Corporation]], [[Occidental Petroleum]], [[AFL-CIO]], [[NRA Political Victory Fund]], [[Associated General Contractors of America Political Action Committee]], [[Williams Companies]], [[ADM - Archer Daniels Midland]], [[National Education Association]], [[Bechtel Corporation]]"
 ---
 
 

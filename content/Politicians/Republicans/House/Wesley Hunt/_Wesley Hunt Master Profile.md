@@ -18,26 +18,26 @@ phone: 202-225-5646
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: S6TX00511
 bills-sponsored: 11
 bills-cosponsored: 165
 bills-enacted: 2
 top-policy-area: Crime and Law Enforcement
-top-donors: "[[Texans for a Conservative Majority]], [[Elbert Guillory's America]]"
-last-enriched: 2026-04-21
+top-donors: "[[Texans for a Conservative Majority]], [[Elbert Guillory's America]], [[HUNT FOR SENATE]], [[DR. BRIAN BABIN FOR CONGRESS]], [[AIPAC - American Israel Public Affairs Committee]], [[FISCHBACH FOR CONGRESS]], [[Special Operations for America]], [[Glenn Thompson]], [[Campaign for Working Families]], [[Occidental Petroleum]], [[Women Speak Out Pac]], [[Koch Industries]], [[RON ESTES FOR CONGRESS]], [[AUGUST PFLUGER FOR CONGRESS]], [[ADRIAN SMITH FOR CONGRESS]], [[Southern Company]], [[Meta - Facebook]], [[Steve Scalise]], [[DR JOHN JOYCE FOR CONGRESS]], [[VERN BUCHANAN FOR CONGRESS]], [[Nicholas A. Langworthy]], [[TEXANS FOR JODEY ARRINGTON]], [[JASON SMITH FOR CONGRESS]], [[HAGEMAN FOR WYOMING]], [[Associated General Contractors of America Political Action Committee]], [[Patrick McHenry]], [[JIM JORDAN FOR CONGRESS]], [[Republican Jewish Coalition]], [[Mike Johnson]], [[Elise Stefanik]], [[GLENN GROTHMAN FOR CONGRESS]], [[Guy Reschenthaler]], [[BURCHETT FOR CONGRESS]], [[Williams Companies]], [[Opportunity Matters Fund]], [[NRA Political Victory Fund]], [[Google - Alphabet]], [[National Restaurant Association]], [[Sam Graves]], [[JAKE ELLZEY FOR CONGRESS]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[FreedomWorks for America]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Energy and Mineral Resources
   - Federal Lands
   - House Committee on Natural Resources
   - House Committee on the Judiciary
-  - "Immigration Integrity, Security, and Enforcement"
+  - Immigration Integrity, Security, and Enforcement
   - The Constitution and Limited Government
-total-raised: "$2.1M"
-career-total-source: "FEC weball summary (cycles 2026)"
+total-raised: $2.1M
+career-total-source: FEC weball summary (cycles 2026)
 ---
 
 

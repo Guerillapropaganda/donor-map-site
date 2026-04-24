@@ -1,32 +1,32 @@
 ---
-title: "Val T. Hoyle"
+title: Val T. Hoyle
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Oregon"
-state-abbr: "OR"
+party: Democrat
+chamber: House
+state: Oregon
+state-abbr: OR
 district: "4"
-bioguide-id: "H001094"
+bioguide-id: H001094
 govtrack-id: 456932
 born: "1964-02-14"
-wikidata-id: "Q7909103"
-website: "https://hoyle.house.gov"
-phone: "202-225-6416"
+wikidata-id: Q7909103
+website: https://hoyle.house.gov
+phone: 202-225-6416
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 11
 bills-cosponsored: 327
 bills-enacted: 2
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Aviation
   - Highways and Transit
@@ -34,7 +34,8 @@ committees:
   - House Committee on Transportation and Infrastructure
   - Indian and Insular Affairs
   - Water Resources and Environment
-  - "Water, Wildlife and Fisheries"
+  - Water, Wildlife and Fisheries
+top-donors: "[[Steny H. Hoyer]], [[Giffords PAC]], [[Donald S. Beyer]], [[MEDICARE FOR ALL]], [[SHERMAN FOR CONGRESS]], [[SHARICE FOR CONGRESS]], [[TED LIEU FOR CONGRESS]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Richard Neal]], [[Robert Menendez]], [[Gerry Connolly]], [[League of Conservation Voters]], [[Ami Bera]], [[PETE AGUILAR FOR CONGRESS]], [[MIKE THOMPSON FOR CONGRESS]], [[Planned Parenthood Action Fund INC]], [[JUDY CHU FOR CONGRESS]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[CITIZENS TO ELECT RICK LARSEN]], [[Maxwell Frost]], [[STRICKLAND FOR WASHINGTON]], [[Glenn Ivey]], [[KATHERINE CLARK FOR CONGRESS]], [[Sierra Club Political Committee]], [[Leidos]], [[Let America Vote PAC]], [[Hakeem Jeffries]], [[Kim Schrier]], [[MAD 4 PA PAC]], [[NANCY PELOSI FOR CONGRESS]], [[JASMINE FOR US]], [[JOE NEGUSE FOR CONGRESS]], [[LORI TRAHAN FOR CONGRESS COMMITTEE]], [[Bradley Scott Schneider]], [[J Street]], [[National Cattlemen's Beef Association]], [[PAUL TONKO FOR CONGRESS]], [[SYDNEY KAMLAGER-DOVE FOR CONGRESS]], [[AFL-CIO]], [[Suzanne Bonamici]], [[GARAMENDI FOR CONGRESS]], [[MAXINE FOR CONGRESS]], [[MORGAN MCGARVEY FOR CONGRESS]], [[Lizzie Fletcher]], [[DEBORAH ROSS FOR CONGRESS]], [[HALEY STEVENS FOR CONGRESS]], [[Chellie Pingree]], [[BARRAGAN FOR CONGRESS]], [[DEBBIE DINGELL FOR CONGRESS]], [[GRACE FOR NEW YORK]], [[Marc A. Veasey]], [[National Education Association]], [[Associated General Contractors of America Political Action Committee]], [[Adam Schiff]], [[HIMES FOR CONGRESS]], [[MARK TAKANO FOR CONGRESS]], [[DIANA DEGETTE FOR CONGRESS]], [[LOIS FRANKEL FOR CONGRESS]], [[ROBERT GARCIA FOR CONGRESS]], [[GABE AMO FOR CONGRESS]], [[Steve Cohen]], [[Robin L. Kelly]], [[JULIA BROWNLEY FOR CONGRESS]], [[Suzan K. Delbene]], [[JONATHAN JACKSON FOR CONGRESS]]"
 ---
 
 

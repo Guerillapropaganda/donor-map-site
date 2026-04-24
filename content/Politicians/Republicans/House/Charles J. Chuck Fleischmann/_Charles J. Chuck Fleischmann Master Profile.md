@@ -1,39 +1,40 @@
 ---
-title: "Charles J. Chuck Fleischmann"
+title: Charles J. Chuck Fleischmann
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Tennessee"
-state-abbr: "TN"
+party: Republican
+chamber: House
+state: Tennessee
+state-abbr: TN
 district: "3"
-bioguide-id: "F000459"
+bioguide-id: F000459
 govtrack-id: 412476
 born: "1962-10-11"
-wikidata-id: "Q521959"
-website: "https://fleischmann.house.gov"
-phone: "202-225-3271"
+wikidata-id: Q521959
+website: https://fleischmann.house.gov
+phone: 202-225-3271
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 10
 bills-cosponsored: 250
 bills-enacted: 0
-top-policy-area: "International Affairs"
-last-enriched: 2026-04-21
+top-policy-area: International Affairs
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Defense
   - Energy
   - Energy and Water Development and Related Agencies
   - House Committee on Appropriations
-  - "House Committee on Science, Space, and Technology"
-  - "Labor, Health and Human Services, Education, and Related Agencies"
+  - House Committee on Science, Space, and Technology
+  - Labor, Health and Human Services, Education, and Related Agencies
+top-donors: "[[CoreCivic]], [[NRA Political Victory Fund]], [[Steve Scalise]], [[WEBER FOR CONGRESS]], [[Leidos]], [[Tyson Foods]], [[Southern Company]], [[National Cattlemen's Beef Association]], [[Pete Sessions]], [[Bechtel Corporation]], [[Paul Ryan]], [[BYRON DONALDS FOR CONGRESS]], [[GEO Group - Private Prison Industrial Complex]], [[Associated General Contractors of America Political Action Committee]], [[Koch Industries]], [[AbbVie]], [[Cargill]], [[John Boehner]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[ADM - Archer Daniels Midland]], [[Williams Companies]], [[DANIEL WEBSTER FOR CONGRESS]], [[TEXANS FOR JODEY ARRINGTON]], [[American College of Radiology Association PAC]], [[Occidental Petroleum]], [[ANDY HARRIS FOR CONGRESS]], [[Gus M. Bilirakis]], [[KAY GRANGER CAMPAIGN FUND]], [[Humana]], [[Darin Lahood]], [[National Restaurant Association]], [[American Principles Fund]], [[Pfizer Inc.]], [[JIM JORDAN FOR CONGRESS]], [[MARIO DIAZ-BALART FOR CONGRESS]], [[AIPAC - American Israel Public Affairs Committee]], [[McDonalds Corporation]], [[PETE SESSIONS FOR CONGRESS]], [[Steve Womack]], [[Kevin McCarthy]], [[Donald Trump]], [[David Schweikert]], [[Gun Owners of America]], [[Amgen Inc]]"
 ---
 
 

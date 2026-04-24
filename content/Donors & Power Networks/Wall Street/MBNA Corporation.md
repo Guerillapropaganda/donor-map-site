@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Wall Street
 entity-type: Corporation
-politicians-funded: "[[Joe Biden]], [[RNC - Republican National Committee]]"
+politicians-funded: "[[Joe Biden]], [[RNC - Republican National Committee]], [[Nydia Velazquez]], [[Pete Sessions]], [[Chuck Grassley]], [[Robert Menendez]], [[Michael R. Turner]], [[Steny H. Hoyer]], [[Al Green]], [[Susan Collins]], [[Chuck Hagel]], [[Rahm Emanuel]], [[Debbie Stabenow]], [[John Boehner]], [[Jeff Sessions]], [[Michael T. McCaul]], [[Mike Crapo]], [[Shelley Moore Capito]], [[Frank Lucas]], [[Mike Rogers]], [[Kay Granger]], [[George W. Bush]], [[Dick Durbin]], [[Adam Smith]], [[Paul Ryan]], [[Brad Sherman]], [[Gregory Meeks]], [[Mitch McConnell]], [[David Scott]], [[Mark Green]], [[Lindsey Graham]], [[John Thune]], [[Harry Reid]], [[Emanuel Cleaver]], [[Ron Wyden]], [[Xavier Becerra]], [[Hillary Clinton]], [[Barack Obama]], [[Bob Menendez]], [[Lisa Murkowski]], [[Patrick McHenry]], [[Sam Graves]], [[John Cornyn]], [[John McCain]]"
 issues:
   - Wall Street & Finance
 ein: 842588790
@@ -64,7 +64,7 @@ source-types:
   - SEC
 corroboration-count: 3
 known-gaps:
-  - "No lobbying disclosure data"
+  - No lobbying disclosure data
 ---
 
 

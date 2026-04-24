@@ -10,8 +10,8 @@ source-tier: 1
 aliases:
   - NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE
 known-gaps:
-  - "No lobbying disclosure data"
-  - "No mapped relationships"
+  - No lobbying disclosure data
+  - No mapped relationships
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -20,8 +20,8 @@ total-raised: 410
 total-spent: 631
 cash-on-hand: 1813
 individual-contributions: 410
-politicians-funded: "[[Rick Crawford]], [[Mark Green]], [[Patrick McHenry]], [[James Comer]], [[Brett Guthrie]], [[Jerry Moran]], [[Bruce Westerman]], [[Glenn Thompson]]"
-last-enriched: 2026-04-21
+politicians-funded: "[[Rick Crawford]], [[Mark Green]], [[Patrick McHenry]], [[James Comer]], [[Brett Guthrie]], [[Jerry Moran]], [[Bruce Westerman]], [[Glenn Thompson]], [[JAPS-OLSON COMPANY]], [[EU SERVICES]], [[CALIBRE CPA GROUP]], [[HUCKABY DAVIS LISKER]], [[WACHOVIA BANK]], [[National Republican Senatorial Committee]], [[MDS COMMUNICATIONS]], [[MDS COMMUNICATIONS CORP]], [[INTERACTIVE MEDIA]], [[CERIDIAN EMPLOYER SERVICES]], [[FEDERAL ELECTION COMMISSION]], [[PRINTING PARTNERS]], [[INTERNAL REVENUE SERVICE]], [[Chuck Grassley]], [[Josh Hawley]], [[John Thune]], [[George W. Bush]], [[Christopher H. Smith]], [[Joni Ernst]], [[Pete Sessions]], [[Mike Rogers]], [[Tim Scott]], [[Robert B. Aderholt]], [[Todd Young]], [[Lloyd Doggett]], [[Lee Zeldin]], [[Tom Cole]], [[Robert J. Wittman]], [[John W. Rose]], [[David G. Valadao]], [[Joe Wilson]], [[Paul Ryan]], [[Chuck Hagel]], [[Bill Huizenga]], [[Ben Carson]], [[Sam Graves]], [[David Schweikert]], [[Donald Trump]], [[Ron DeSantis]], [[Dan Sullivan]], [[Andy Barr]], [[John Kerry]], [[Kevin Cramer]], [[Donald G. Davis]], [[Mario Diaz-Balart]], [[Gus M. Bilirakis]], [[Mitch McConnell]], [[Dan Coats]], [[Henry C. Hank Johnson]], [[Jim Inhofe]], [[Ken Calvert]], [[Mike Crapo]], [[Harold Rogers]], [[Steve Womack]], [[Kristi Noem]], [[Jim Jordan]], [[Thom Tillis]], [[J. French Hill]], [[Ted Cruz]], [[Brian Babin]], [[Frank Lucas]], [[Daniel Webster]], [[Darrell Issa]], [[Adam Smith]], [[Elise Stefanik]], [[Cynthia M. Lummis]], [[John McCain]], [[Tim Burchett]], [[Richard Hudson]], [[Vern Buchanan]], [[Tim Walberg]], [[H. Morgan Griffith]], [[Mike Rounds]], [[Cathy McMorris Rodgers]], [[Mike Kelly]], [[Mike Collins]], [[Michael R. Turner]], [[Marco Rubio]], [[Tom Cotton]], [[Rand Paul]], [[Mark E. Amodei]], [[Roger Marshall]], [[Jeff Sessions]], [[Tom McClintock]], [[Shelley Moore Capito]], [[Rick Perry]], [[Ann Wagner]], [[Mike Bost]], [[Lindsey Graham]], [[Steve Daines]], [[Bob Menendez]], [[Marsha Blackburn]], [[Jim Risch]], [[Robert E. Latta]], [[Mitt Romney]], [[Ron Johnson]], [[Cindy Hyde-Smith]], [[Mike Pompeo]], [[John Barrasso]], [[Andy Harris]], [[Adrian Smith]], [[John Cornyn]], [[Marlin A. Stutzman]], [[Roger Wicker]], [[John Hoeven]], [[Linda McMahon]], [[Paul A. Gosar]], [[Ralph Norman]], [[Rick W. Allen]], [[Bill Cassidy]], [[Kevin McCarthy]], [[John Boozman]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 source-types:
   - FEC
 ---

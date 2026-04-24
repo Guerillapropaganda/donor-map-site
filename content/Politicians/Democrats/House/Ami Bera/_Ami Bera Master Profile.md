@@ -1,32 +1,32 @@
 ---
-title: "Ami Bera"
+title: Ami Bera
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "California"
-state-abbr: "CA"
+party: Democrat
+chamber: House
+state: California
+state-abbr: CA
 district: "6"
-bioguide-id: "B001287"
+bioguide-id: B001287
 govtrack-id: 412512
 born: "1965-03-02"
-wikidata-id: "Q3389105"
-website: "https://bera.house.gov"
-phone: "202-225-5716"
+wikidata-id: Q3389105
+website: https://bera.house.gov
+phone: 202-225-5716
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 19
 bills-cosponsored: 300
 bills-enacted: 0
-top-policy-area: "International Affairs"
-last-enriched: 2026-04-21
+top-policy-area: International Affairs
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - East Asia and Pacific
   - House Committee on Foreign Affairs
@@ -34,6 +34,7 @@ committees:
   - National Intelligence Enterprise
   - National Security Agency and Cyber
   - South and Central Asia
+top-donors: "[[Let America Vote PAC]], [[National Restaurant Association]], [[Google - Alphabet]], [[James E. Clyburn]], [[Juan Vargas]], [[Akin Gump Strauss Hauer & Feld]], [[AFL-CIO]], [[Center Forward Committee]], [[American College of Radiology Association PAC]], [[McDonalds Corporation]], [[Humane Society Legislative Fund]], [[Rosa DeLauro]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[MARK DESAULNIER FOR CONGRESS]], [[Planned Parenthood Action Fund INC]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Jerry Nadler]], [[Yvette D. Clarke]], [[National Association of Manufacturers]], [[Voter Protection Project]], [[BILL FOSTER FOR CONGRESS]], [[Steny H. Hoyer]], [[Amgen Inc]], [[HIMES FOR CONGRESS]], [[DIANA DEGETTE FOR CONGRESS]], [[CASTOR FOR CONGRESS]], [[National Education Association]], [[Jim McGovern]], [[Humana]], [[Pfizer Inc.]], [[JULIA BROWNLEY FOR CONGRESS]], [[MATSUI FOR CONGRESS]], [[Janice D. Schakowsky]], [[GALLEGO FOR ARIZONA]], [[PETE AGUILAR FOR CONGRESS]], [[J Street]], [[Southern Company]], [[New House PAC]], [[JUDY CHU FOR CONGRESS]], [[AbbVie]], [[CVS Health - Aetna]], [[National Nurses United for Patient Protection]], [[MARK POCAN FOR CONGRESS]], [[League of Conservation Voters]], [[Hilda Solis]], [[Gilead Sciences]], [[Associated General Contractors of America Political Action Committee]], [[MIKE THOMPSON FOR CONGRESS]], [[Chris van Hollen]], [[John B. Larson]], [[LOFGREN FOR CONGRESS]], [[QUIGLEY FOR CONGRESS]], [[Sierra Club Political Committee]], [[Honoring American Law Enforcement Pac]], [[National Nurses United]], [[NANCY PELOSI FOR CONGRESS]], [[JIM COSTA FOR CONGRESS]], [[Hakeem Jeffries]], [[DEBBIE WASSERMAN SCHULTZ FOR CONGRESS]], [[Blue Shield of California]], [[Marcy Kaptur]], [[Environment America INC]], [[Jerrold Nadler]], [[Raul Ruiz]], [[Giffords PAC]], [[CASTRO FOR CONGRESS]], [[Care Action]], [[JIMMY PANETTA FOR CONGRESS]], [[HUFFMAN FOR CONGRESS]], [[SETH FOR MASSACHUSETTS, INC]], [[Henry Cuellar]], [[Eric Swalwell]], [[SCOTT PETERS FOR CONGRESS]], [[Cargill]], [[TED LIEU FOR CONGRESS]], [[Donald S. Beyer]], [[TITUS FOR CONGRESS]], [[MCCOLLUM FOR CONGRESS]], [[DOGGETT FOR U S CONGRESS COMMITTEE]], [[BARBARA LEE FOR CONGRESS]], [[AIPAC - American Israel Public Affairs Committee]], [[Dina Titus]], [[GARAMENDI FOR CONGRESS]], [[CITIZENS FOR WATERS]], [[CITIZENS TO ELECT RICK LARSEN]], [[National Cattlemen's Beef Association]], [[HUFFMAN FOR CONGRESS 2012 EXPLORATORY COMMITTEE]], [[GRACE FOR NEW YORK]], [[Law Enforcement for a Safer America Pac]], [[Frank Pallone]], [[SINEMA FOR ARIZONA]]"
 ---
 
 

@@ -12,8 +12,8 @@ fec-committee-id: C00505792
 aliases:
   - AMERICAN CONSERVATIVE UNION
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Bruce Westerman]], [[MAGA Inc]], [[John Fetterman]], [[Mike Lee]], [[Trump Victory]], [[Lauren Boebert]], [[Anna Paulina Luna]], [[Ron Johnson]], [[Mark Kelly]], [[Jimmy Patronis]], [[Scott Perry]], [[Michael Whatley]], [[Brittany Pettersen]], [[Randy Fine]], [[Ryan Zinke]], [[Brian Jack]], [[WinRed]], [[David Schweikert]], [[Catherine Cortez Masto]], [[FreedomWorks for America]], [[Bernie Moreno]], [[Cory Mills]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Bruce Westerman]], [[MAGA Inc]], [[John Fetterman]], [[Mike Lee]], [[Trump Victory]], [[Lauren Boebert]], [[Anna Paulina Luna]], [[Ron Johnson]], [[Mark Kelly]], [[Jimmy Patronis]], [[Scott Perry]], [[Michael Whatley]], [[Brittany Pettersen]], [[Randy Fine]], [[Ryan Zinke]], [[Brian Jack]], [[WinRed]], [[David Schweikert]], [[Catherine Cortez Masto]], [[FreedomWorks for America]], [[Bernie Moreno]], [[Cory Mills]], [[American Conservative Union]], [[QUANTUM COMMUNICATIONS]], [[Donald Trump]]"
 related: "[[Bruce Westerman]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -29,7 +29,7 @@ employee-contributions-total: 3000
 employee-donor-count: 5
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

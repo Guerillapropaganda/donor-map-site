@@ -1,39 +1,40 @@
 ---
-title: "Emilia Strong Sykes"
+title: Emilia Strong Sykes
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Ohio"
-state-abbr: "OH"
+party: Democrat
+chamber: House
+state: Ohio
+state-abbr: OH
 district: "13"
-bioguide-id: "S001223"
+bioguide-id: S001223
 govtrack-id: 456930
 born: "1986-01-04"
-wikidata-id: "Q18637943"
-website: "https://sykes.house.gov"
-phone: "202-225-6265"
+wikidata-id: Q18637943
+website: https://sykes.house.gov
+phone: 202-225-6265
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 25
 bills-cosponsored: 232
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Highways and Transit
-  - "House Committee on Science, Space, and Technology"
+  - House Committee on Science, Space, and Technology
   - House Committee on Transportation and Infrastructure
   - Investigations and Oversight
-  - "Railroads, Pipelines, and Hazardous Materials"
+  - Railroads, Pipelines, and Hazardous Materials
   - Water Resources and Environment
+top-donors: "[[VERONICA ESCOBAR FOR CONGRESS]], [[BARRAGAN FOR CONGRESS]], [[Donald S. Beyer]], [[CITIZENS TO ELECT RICK LARSEN]], [[MIKE THOMPSON FOR CONGRESS]], [[PAUL TONKO FOR CONGRESS]], [[Williams Companies]], [[SHONTEL BROWN FOR CONGRESS]], [[JONATHAN JACKSON FOR CONGRESS]], [[Steny H. Hoyer]], [[AIPAC - American Israel Public Affairs Committee]], [[LATEEFAH FOR CONGRESS]], [[Amgen Inc]], [[Teresa Leger Fernandez]], [[GARAMENDI FOR CONGRESS]], [[KATHERINE CLARK FOR CONGRESS]], [[League of Conservation Voters]], [[Marc A. Veasey]], [[Giffords PAC]], [[LORI TRAHAN FOR CONGRESS COMMITTEE]], [[Gerry Connolly]], [[Terri A. Sewell]], [[SARA JACOBS FOR CONGRESS]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[STANTON FOR CONGRESS]], [[MCCLELLAN FOR CONGRESS]], [[HALEY STEVENS FOR CONGRESS]], [[Planned Parenthood Action Fund INC]], [[Adam Schiff]], [[J Street]], [[Maxwell Frost]], [[John Fetterman]], [[Bradley Scott Schneider]], [[ANDY KIM FOR NEW JERSEY]], [[SHARICE FOR CONGRESS]], [[MAD 4 PA PAC]], [[NANCY PELOSI FOR CONGRESS]], [[AFL-CIO]], [[GABE AMO FOR CONGRESS]], [[Jim McGovern]], [[Let America Vote PAC]], [[National Education Association]], [[STRICKLAND FOR WASHINGTON]], [[JOE NEGUSE FOR CONGRESS]], [[PETE AGUILAR FOR CONGRESS]], [[James E. Clyburn]], [[Yvette D. Clarke]], [[Janice D. Schakowsky]], [[Nikema Williams]], [[Meta - Facebook]], [[AFSCME Working Families Fund]], [[Brittany Pettersen]], [[National Committee to Preserve Social Security & Medicare PAC]], [[LUZ RIVAS FOR CONGRESS]], [[CVS Health - Aetna]], [[DIANA DEGETTE FOR CONGRESS]], [[SYDNEY KAMLAGER-DOVE FOR CONGRESS]], [[DEBORAH ROSS FOR CONGRESS]], [[Sierra Club Political Committee]], [[KWEISI MFUME FOR CONGRESS]], [[Kim Schrier]], [[Protect the Vote]], [[Humana]], [[MORGAN MCGARVEY FOR CONGRESS]], [[LAMONICA MCIVER FOR CONGRESS]], [[Richard Neal]], [[Pfizer Inc.]], [[CASTOR FOR CONGRESS]], [[GRACE FOR NEW YORK]], [[VIRGIN ISLANDS FOR PLASKETT]], [[Glenn Ivey]], [[Lizzie Fletcher]], [[Robin L. Kelly]], [[SCOTT PETERS FOR CONGRESS]], [[JARED MOSKOWITZ FOR CONGRESS]], [[Adam Smith]], [[LOFGREN FOR CONGRESS]], [[ROBERT GARCIA FOR CONGRESS]], [[AbbVie]], [[Sarah Elfreth]], [[SHERMAN FOR CONGRESS]], [[MELANIE FOR NEW MEXICO]], [[JULIA BROWNLEY FOR CONGRESS]], [[MARK KELLY FOR SENATE]], [[Jill N. Tokuda]], [[Leidos]], [[MAGAZINER FOR CONGRESS]], [[JUDY CHU FOR CONGRESS]], [[CASTEN FOR CONGRESS]], [[Alma S. Adams]], [[Chellie Pingree]], [[Troy A. Carter]], [[Ami Bera]], [[Hakeem Jeffries]], [[HIMES FOR CONGRESS]], [[TED LIEU FOR CONGRESS]], [[JAMIE RASKIN FOR CONGRESS]], [[CHRISSY HOULAHAN FOR CONGRESS]], [[Mary Gay Scanlon]], [[JASMINE FOR US]], [[JASON CROW FOR CONGRESS]], [[DEBBIE DINGELL FOR CONGRESS]]"
 ---
 
 

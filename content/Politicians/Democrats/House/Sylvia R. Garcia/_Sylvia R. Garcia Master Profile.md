@@ -1,37 +1,38 @@
 ---
-title: "Sylvia R. Garcia"
+title: Sylvia R. Garcia
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Texas"
-state-abbr: "TX"
+party: Democrat
+chamber: House
+state: Texas
+state-abbr: TX
 district: "29"
-bioguide-id: "G000587"
+bioguide-id: G000587
 govtrack-id: 412827
 born: "1950-09-06"
-wikidata-id: "Q13562489"
-website: "https://sylviagarcia.house.gov"
-phone: "202-225-1688"
+wikidata-id: Q13562489
+website: https://sylviagarcia.house.gov
+phone: 202-225-1688
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 18
 bills-cosponsored: 492
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Digital Assets, Financial Technology, and Artificial Intelligence"
+  - Digital Assets, Financial Technology, and Artificial Intelligence
   - House Committee on Ethics
   - House Committee on Financial Services
   - Housing and Insurance
+top-donors: "[[Pfizer Inc.]], [[National Cattlemen's Beef Association]], [[Meta - Facebook]], [[Tyson Foods]], [[PETE AGUILAR FOR CONGRESS]], [[DOGGETT FOR U S CONGRESS COMMITTEE]], [[JAMIE RASKIN FOR CONGRESS]], [[DoorDash]], [[Airbnb]], [[Southern Company]], [[TED LIEU FOR CONGRESS]], [[League of Conservation Voters]], [[National Education Association]], [[AIPAC - American Israel Public Affairs Committee]], [[CASTRO FOR CONGRESS]], [[Akin Gump Strauss Hauer & Feld]], [[Hakeem Jeffries]], [[KATHERINE CLARK FOR CONGRESS]], [[MARK TAKANO FOR CONGRESS]], [[Google - Alphabet]], [[VERONICA ESCOBAR FOR CONGRESS]], [[Mary Gay Scanlon]], [[GRACE FOR NEW YORK]], [[DEBORAH ROSS FOR CONGRESS]], [[Occidental Petroleum]], [[Humana]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Lizzie Fletcher]], [[J Street]], [[Giffords PAC]], [[CHUY GARCIA FOR CONGRESS]], [[Let America Vote PAC]], [[NANCY PELOSI FOR CONGRESS]], [[James E. Clyburn]], [[BARBARA LEE FOR CONGRESS]], [[Emily's List]], [[Planned Parenthood Action Fund INC]]"
 ---
 
 

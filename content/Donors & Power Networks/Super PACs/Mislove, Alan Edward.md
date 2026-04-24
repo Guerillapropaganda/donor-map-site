@@ -5,14 +5,14 @@ content-readiness: data-complete
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C90018862
 aliases:
   - MISLOVE, ALAN EDWARD
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Michael Bennet]], [[Tom Steyer]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Michael Bennet]], [[Tom Steyer]], [[Pete Buttigieg]]"
 related: "[[Tom Steyer]] · [[Michael Bennet]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -20,9 +20,9 @@ checklist-na:
 urls-first-triaged: "2026-04-15"
 source-types:
   - FEC
-last-enriched: 2026-04-21
-total-political-spend: "$1K"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2020"
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $1K
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2020
 ---
 
 

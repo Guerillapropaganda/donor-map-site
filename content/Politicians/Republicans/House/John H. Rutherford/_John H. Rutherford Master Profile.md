@@ -1,37 +1,38 @@
 ---
-title: "John H. Rutherford"
+title: John H. Rutherford
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Florida"
-state-abbr: "FL"
+party: Republican
+chamber: House
+state: Florida
+state-abbr: FL
 district: "5"
-bioguide-id: "R000609"
+bioguide-id: R000609
 govtrack-id: 412692
 born: "1952-09-02"
-wikidata-id: "Q6256043"
-website: "https://rutherford.house.gov"
-phone: "202-225-2501"
+wikidata-id: Q6256043
+website: https://rutherford.house.gov
+phone: 202-225-2501
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 10
 bills-cosponsored: 422
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Homeland Security
   - House Committee on Appropriations
-  - "Military Construction, Veterans Affairs, and Related Agencies"
-  - "Transportation, Housing and Urban Development, and Related Agencies"
+  - Military Construction, Veterans Affairs, and Related Agencies
+  - Transportation, Housing and Urban Development, and Related Agencies
+top-donors: "[[Vivek Ramaswamy]], [[Bacardi - Bacardi USA]], [[BYRON DONALDS FOR CONGRESS]], [[Darin Lahood]], [[American Gaming Association]], [[AIPAC - American Israel Public Affairs Committee]], [[Leidos]], [[NRA Political Victory Fund]], [[Associated General Contractors of America Political Action Committee]], [[Google - Alphabet]], [[TEXANS FOR JODEY ARRINGTON]], [[GEO Group - Private Prison Industrial Complex]], [[Paul Ryan]], [[Kevin McCarthy]], [[Mike Haridopolos]], [[Steve Scalise]], [[National Restaurant Association]], [[JASON SMITH FOR CONGRESS]]"
 ---
 
 

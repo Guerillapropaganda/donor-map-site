@@ -1,40 +1,41 @@
 ---
-title: "Mark E. Amodei"
+title: Mark E. Amodei
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Nevada"
-state-abbr: "NV"
+party: Republican
+chamber: House
+state: Nevada
+state-abbr: NV
 district: "2"
-bioguide-id: "A000369"
+bioguide-id: A000369
 govtrack-id: 412500
 born: "1958-06-12"
-wikidata-id: "Q23944"
-website: "https://amodei.house.gov"
-phone: "202-225-6155"
+wikidata-id: Q23944
+website: https://amodei.house.gov
+phone: 202-225-6155
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 14
 bills-cosponsored: 195
 bills-enacted: 1
-top-policy-area: "Crime and Law Enforcement"
-last-enriched: 2026-04-21
+top-policy-area: Crime and Law Enforcement
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Federal Lands
   - Financial Services and General Government
   - Homeland Security
   - House Committee on Appropriations
   - House Committee on Natural Resources
-  - "Interior, Environment, and Related Agencies"
+  - Interior, Environment, and Related Agencies
   - Oversight and Investigations
+top-donors: "[[NRA Political Victory Fund]], [[Steve Scalise]], [[TEXANS FOR JODEY ARRINGTON]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Leidos]], [[AbbVie]], [[Darin Lahood]], [[Kevin McCarthy]], [[AIPAC - American Israel Public Affairs Committee]], [[CoreCivic]], [[Associated General Contractors of America Political Action Committee]], [[National Cattlemen's Beef Association]], [[Pfizer Inc.]], [[Williams Companies]], [[Performance Racing Inc.]], [[American College of Radiology Association PAC]], [[With Honor Fund]], [[McDonalds Corporation]], [[Donald Trump]], [[National Restaurant Association]], [[Koch Industries]], [[National Right to Life Victory Fund]], [[John Boehner]], [[Hunter Action Fund (haf)]], [[David P. Joyce]], [[American Gaming Association]], [[National Right to Life PAC]], [[American Crossroads]], [[Dan Newhouse]], [[Occidental Petroleum]], [[Humana]], [[JOE WILSON FOR CONGRESS]], [[Meta - Facebook]], [[GEO Group - Private Prison Industrial Complex]], [[Cathy McMorris Rodgers]], [[AFL-CIO]], [[Robert E. Latta]], [[Pete Sessions]]"
 ---
 
 

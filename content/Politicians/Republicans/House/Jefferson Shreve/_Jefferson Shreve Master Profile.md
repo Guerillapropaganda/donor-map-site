@@ -20,21 +20,21 @@ source-types:
   - FEC
   - GovTrack
 known-gaps:
-  - "No mapped relationships"
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4IN06185
-top-donors: "[[National Association of Realtors]], [[AT&T - WarnerMedia]], [[Microsoft]], [[Duke Energy]], [[Anthem - Elevance Health]], [[MAJORITY PAC]], [[American Hospital Association PAC]], [[Honeywell]], [[Jim Jordan]], [[Troy Downing]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Lockheed Martin]], [[National Restaurant Association]], [[Teamsters - International Brotherhood of Teamsters]], [[National Rifle Association]], [[Comcast - NBCUniversal]], [[AIPAC - American Israel Public Affairs Committee]], [[Honeywell International]], [[Majority PAC]], [[AT&T]]"
-last-enriched: 2026-04-21
+top-donors: "[[National Association of Realtors]], [[AT&T - WarnerMedia]], [[Microsoft]], [[Duke Energy]], [[Anthem - Elevance Health]], [[MAJORITY PAC]], [[American Hospital Association PAC]], [[Honeywell]], [[Jim Jordan]], [[Troy Downing]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Lockheed Martin]], [[National Restaurant Association]], [[Teamsters - International Brotherhood of Teamsters]], [[National Rifle Association]], [[Comcast - NBCUniversal]], [[AIPAC - American Israel Public Affairs Committee]], [[Honeywell International]], [[Majority PAC]], [[AT&T]], [[Koch Industries]], [[Steve Scalise]], [[MOORE FOR WEST VIRGINIA, INC.]], [[Robert E. Latta]], [[BRANDON GILL FOR TEXAS]], [[Rudy Yakym]], [[JIM JORDAN FOR CONGRESS]], [[Brett Guthrie]], [[TROY DOWNING FOR CONGRESS]], [[Tom Emmer]], [[David P. Joyce]], [[Carol D. Miller]], [[TEXANS FOR JODEY ARRINGTON]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Aviation
   - Highways and Transit
   - House Committee on Foreign Affairs
   - House Committee on Transportation and Infrastructure
-  - "Railroads, Pipelines, and Hazardous Materials"
+  - Railroads, Pipelines, and Hazardous Materials
   - South and Central Asia
   - Western Hemisphere
-total-raised: "$8.6M"
-career-total-source: "FEC weball summary (cycles 2024, 2026)"
+total-raised: $8.6M
+career-total-source: FEC weball summary (cycles 2024, 2026)
 bills-sponsored: 12
 corroboration-count: 3
 ---

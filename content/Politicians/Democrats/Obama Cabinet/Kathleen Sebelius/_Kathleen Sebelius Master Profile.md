@@ -1,20 +1,21 @@
 ---
-title: "Kathleen Sebelius"
+title: Kathleen Sebelius
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "Secretary of HHS (2009-2014)"
+party: Democrat
+chamber: Secretary of HHS (2009-2014)
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record from Congress.gov
+  - No voting record data
+  - No mapped relationships
 source-types:
   - Congress
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
+top-donors: "[[SERVICE EMPLOYEES INTERNATIONAL UNION POLITICAL ED & ACTION FUND]], [[ROOFERS POLITICAL ED AND LEGISLATIVE FD]], [[EMILYS LIST NON FEDERAL]], [[UNITED ASSOCIATION POLITICAL ACTION FUND]], [[PCI Political Account]], [[TEAMSTERS VOL IN POLITICS OF CHICAGO ILLINOIS AND VICINITY]], [[NEA Fund for Children and Public Education]], [[Carpenters District Council of Kansas City and Vic]], [[IAFF FIREPAC EDUCATIONAL-TREASURY]], [[Kansas Farm Bureau Vote FBF-State]], [[IBEW Educational Committee]], [[United Steelworkers District 11 Non-Federal Account]], [[MIDWEST REGION LABORERS POLITICAL LEAGUE ED FD]], [[AFSCME PEOPLE - NON-FEDERAL]], [[Heartland PAC]]"
 ---
 
 

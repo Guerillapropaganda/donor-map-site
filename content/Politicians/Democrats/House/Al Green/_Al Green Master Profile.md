@@ -18,23 +18,23 @@ phone: 202-225-7508
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 47
 bills-cosponsored: 432
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[Chevron]]"
-last-enriched: 2026-04-21
+top-donors: "[[Chevron]], [[Sierra Club Political Committee]], [[MBNA Corporation]], [[J Street]], [[Sanford D. Bishop]], [[National Education Association]], [[Richard Neal]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[DOGGETT FOR U S CONGRESS COMMITTEE]], [[Akin Gump Strauss Hauer & Feld]], [[Frank Pallone]], [[James E. Clyburn]], [[Planned Parenthood Action Fund INC]], [[AFL-CIO]], [[Bennie Thompson]], [[MEDICARE FOR ALL]], [[TED LIEU FOR CONGRESS]], [[National Committee to Preserve Social Security & Medicare PAC]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Border Security and Enforcement
   - Financial Institutions
   - House Committee on Financial Services
   - House Committee on Homeland Security
   - Oversight and Investigations
-  - "Oversight, Investigations, and Accountability"
+  - Oversight, Investigations, and Accountability
 ---
 
 

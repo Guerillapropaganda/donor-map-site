@@ -2,14 +2,14 @@
 title: CoreCivic
 type: corporation
 content-readiness: ready
-central-thesis: "CoreCivic is the publicly-traded beneficiary of a bipartisan detention consensus. Republicans fill its beds through enforcement, Democrats fill them through delayed reform, and the business model requires only that the beds stay occupied."
-last-updated: 2026-04-19
+central-thesis: CoreCivic is the publicly-traded beneficiary of a bipartisan detention consensus. Republicans fill its beds through enforcement, Democrats fill them through delayed reform, and the business model requires only that the beds stay occupied.
+last-updated: 2026-04-19T00:00:00.000Z
 editorial-notes: "[Research Claude 2026-04-19] Wrote Central Thesis, Core Contradiction callout, formal Class Analysis (4 paragraphs), and Analytical Patterns. Profile stays at draft pending LDA pipeline reenrichment. Editorial is ready-tier."
 source-tier: 1
 parent: null
 sector: Carceral State
 entity-type: Corporation
-politicians-funded: "[[Donald Trump]], [[Chad Bianco]], [[Gavin Newsom]], [[_Jon Ossoff Master Profile]], [[Bernie Moreno]], [[RNC - Republican National Committee]], [[NRSC - National Republican Senatorial Committee]], [[_Mark Green Master Profile]], [[_Brian Jack Master Profile]], [[_Ann Wagner Master Profile]], [[ActBlue]], [[CoreCivic - Private Prisons]], [[_Kevin Kiley Master Profile]], [[NRCC - National Republican Congressional Committee]], [[The Sentinel Action Fund]], [[WinRed]], [[Standing With Conservatives]], [[MoveOn.org Political Action]], [[_Ted Budd Master Profile]], [[Let America Vote PAC]], [[Trump Victory]], [[_Ron Estes Master Profile]], [[_Tony Gonzales Master Profile]], [[_Matt van Epps Master Profile]], [[_Tim Scott Master Profile]], [[MAGA Inc]], [[Matt van Epps]], [[Mark Green]], [[Ann Wagner]], [[Brian Jack]], [[Ted Budd]], [[Ron Estes]], [[Kevin Kiley]], [[Tony Gonzales]], [[Jon Ossoff]], [[Tim Scott]]"
+politicians-funded: "[[Donald Trump]], [[Chad Bianco]], [[Gavin Newsom]], [[_Jon Ossoff Master Profile]], [[Bernie Moreno]], [[RNC - Republican National Committee]], [[NRSC - National Republican Senatorial Committee]], [[_Mark Green Master Profile]], [[_Brian Jack Master Profile]], [[_Ann Wagner Master Profile]], [[ActBlue]], [[CoreCivic - Private Prisons]], [[_Kevin Kiley Master Profile]], [[NRCC - National Republican Congressional Committee]], [[The Sentinel Action Fund]], [[WinRed]], [[Standing With Conservatives]], [[MoveOn.org Political Action]], [[_Ted Budd Master Profile]], [[Let America Vote PAC]], [[Trump Victory]], [[_Ron Estes Master Profile]], [[_Tony Gonzales Master Profile]], [[_Matt van Epps Master Profile]], [[_Tim Scott Master Profile]], [[MAGA Inc]], [[Matt van Epps]], [[Mark Green]], [[Ann Wagner]], [[Brian Jack]], [[Ted Budd]], [[Ron Estes]], [[Kevin Kiley]], [[Tony Gonzales]], [[Jon Ossoff]], [[Tim Scott]], [[Charles J. Chuck Fleischmann]], [[Sanford D. Bishop]], [[John Cornyn]], [[Jerry Moran]], [[Steve Daines]], [[Frank Lucas]], [[Tracey Mann]], [[Martin Heinrich]], [[Jim Banks]], [[Michael T. McCaul]], [[Michael Whatley]], [[Patty Murray]], [[Cindy Hyde-Smith]], [[Greg Casar]], [[Kevin McCarthy]], [[Mitch McConnell]], [[Katie Britt]], [[Ron Wyden]], [[Marsha Blackburn]], [[Jim Risch]], [[Mark E. Amodei]], [[Nancy Pelosi]], [[John Boozman]], [[James Lankford]], [[Todd Young]], [[Robert B. Aderholt]], [[John R. Carter]], [[David Kustoff]], [[Kyrsten Sinema]], [[Mike Crapo]], [[Dan Sullivan]], [[Harold Rogers]], [[Michael Guest]], [[Dianne Feinstein]], [[John W. Rose]], [[Diana Harshbarger]], [[Lindsey Graham]], [[Bobby Scott]], [[Harry Reid]], [[Julia Letlow]], [[Bill Hagerty]], [[Roger Wicker]], [[Steve Womack]], [[Henry Cuellar]], [[Marco Rubio]], [[Mike Kelly]], [[John Hoeven]], [[Ben Ray Lujan]], [[Mike Rogers]], [[Roger Marshall]], [[George W. Bush]], [[Shelley Moore Capito]], [[Laurel M. Lee]], [[Paul A. Gosar]], [[Tommy Tuberville]], [[Susan Collins]], [[Michael K. Simpson]], [[Derek Schmidt]], [[Mike Rounds]], [[David P. Joyce]], [[Andrew R. Garbarino]], [[Ryan Zinke]], [[Sherrod Brown]], [[Ashley Hinson]], [[Tim Burchett]], [[Andrew Ogles]], [[Joni Ernst]], [[John Thune]], [[John McCain]], [[Richard Hudson]], [[Bennie Thompson]], [[Zoe Lofgren]], [[John Boehner]], [[Chuck Grassley]], [[Michael Bennet]], [[Paul Ryan]], [[Jim Inhofe]], [[David G. Valadao]], [[Robert Menendez]], [[Pete Ricketts]], [[Scott Desjarlais]], [[Pete Sessions]], [[Joe Manchin]], [[JD Vance]], [[Mike Carey]], [[Markwayne Mullin]], [[Thom Tillis]], [[Debbie Wasserman Schultz]], [[Kay Granger]], [[Tom Cole]], [[Lisa Murkowski]], [[Ted Cruz]]"
 federal-awards-total: 799059884
 federal-contracts-count: 25
 federal-grants-count: 0
@@ -84,7 +84,7 @@ source-types:
   - USASpending
 corroboration-count: 5
 known-gaps:
-  - "No lobbying disclosure data"
+  - No lobbying disclosure data
 ---
 
 

@@ -20,24 +20,24 @@ source-types:
   - FEC
   - GovTrack
 known-gaps:
-  - "No mapped relationships"
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4MP01022
-top-donors: "[[Jim Jordan]]"
-last-enriched: 2026-04-21
+top-donors: "[[Jim Jordan]], [[JIM JORDAN FOR CONGRESS]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Aviation
   - Contracting and Infrastructure
-  - "Economic Development, Public Buildings, and Emergency Management"
-  - "Economic Growth, Tax, and Capital Access"
+  - Economic Development, Public Buildings, and Emergency Management
+  - Economic Growth, Tax, and Capital Access
   - Economic Opportunity
   - Health
   - Highways and Transit
   - House Committee on Small Business
   - House Committee on Transportation and Infrastructure
-  - "House Committee on Veterans' Affairs"
-total-raised: "$134K"
-career-total-source: "FEC weball summary (cycles 2024, 2026)"
+  - House Committee on Veterans' Affairs
+total-raised: $134K
+career-total-source: FEC weball summary (cycles 2024, 2026)
 bills-sponsored: 14
 corroboration-count: 3
 ---

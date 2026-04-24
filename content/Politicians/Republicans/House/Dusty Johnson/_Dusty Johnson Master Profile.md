@@ -18,27 +18,27 @@ phone: 202-225-2801
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-donors: "[[Western Growers Association]], [[National Cattlemen's Beef Association]], [[AT&T - WarnerMedia]], [[PG&E - Pacific Gas and Electric]], [[National Multifamily Housing Council]], [[NextEra Energy]], [[Bank of America]], [[Duke Energy]], [[Comcast - NBCUniversal]], [[Northrop Grumman]], [[Citigroup]], [[American Hospital Association PAC]], [[ADM - Archer Daniels Midland]], [[Halliburton]], [[Google - Alphabet]], [[Tyson Foods]], [[AIPAC - American Israel Public Affairs Committee]], [[CVS Health - Aetna]], [[General Motors]], [[David Rouzer]], [[National Association of Realtors]], [[McDonalds Corporation]], [[Walmart - Walton Family]], [[Marathon Petroleum]], [[Associated General Contractors of America Political Action Committee]], [[BAE Systems]], [[NORPAC]], [[Coinbase]], [[Lockheed Martin]], [[Adrian Smith]], [[WinRed]], [[National Rifle Association]], [[Valero Energy]], [[Ford Motor Company]], [[Chevron]], [[American Dream Federal Action]], [[iHeartMedia]], [[Amgen Inc]], [[Raytheon (RTX)]], [[Tenet Healthcare]], [[Humana]], [[Honeywell]], [[MAJORITY PAC]], [[Anthem - Elevance Health]], [[American Chemistry Council, INC]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Morgan Stanley]], [[National Restaurant Association]], [[National Association of Manufacturers]], [[L3Harris Technologies]], [[Microsoft]], [[Defending Main Street Superpac INC]], [[Fairshake PAC - Crypto Super PAC]], [[Drain the DC Swamp PAC]], [[Jason Smith]], [[AT&T]], [[Honeywell International]], [[Fairshake PAC]], [[Majority PAC]]"
+  - No FEC contribution data
+  - No voting record data
+donors: "[[Western Growers Association]], [[National Cattlemen's Beef Association]], [[AT&T - WarnerMedia]], [[PG&E - Pacific Gas and Electric]], [[National Multifamily Housing Council]], [[NextEra Energy]], [[Bank of America]], [[Duke Energy]], [[Comcast - NBCUniversal]], [[Northrop Grumman]], [[Citigroup]], [[American Hospital Association PAC]], [[ADM - Archer Daniels Midland]], [[Halliburton]], [[Google - Alphabet]], [[Tyson Foods]], [[AIPAC - American Israel Public Affairs Committee]], [[CVS Health - Aetna]], [[General Motors]], [[David Rouzer]], [[National Association of Realtors]], [[McDonalds Corporation]], [[Walmart - Walton Family]], [[Marathon Petroleum]], [[Associated General Contractors of America Political Action Committee]], [[BAE Systems]], [[NORPAC]], [[Coinbase]], [[Lockheed Martin]], [[Adrian Smith]], [[WinRed]], [[National Rifle Association]], [[Valero Energy]], [[Ford Motor Company]], [[Chevron]], [[American Dream Federal Action]], [[iHeartMedia]], [[Amgen Inc]], [[Raytheon (RTX)]], [[Tenet Healthcare]], [[Humana]], [[Honeywell]], [[MAJORITY PAC]], [[Anthem - Elevance Health]], [[American Chemistry Council, INC]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Morgan Stanley]], [[National Restaurant Association]], [[National Association of Manufacturers]], [[L3Harris Technologies]], [[Microsoft]], [[Defending Main Street Superpac INC]], [[Fairshake PAC - Crypto Super PAC]], [[Drain the DC Swamp PAC]], [[Jason Smith]], [[AT&T]], [[Honeywell International]], [[Fairshake PAC]], [[Majority PAC]], [[Raytheon (RTX Corporation)]], [[ADRIAN SMITH FOR CONGRESS]], [[Steve Scalise]], [[KAY GRANGER CAMPAIGN FUND]], [[Donald Trump]], [[Koch Industries]], [[TEXANS FOR JODEY ARRINGTON]], [[Williams Companies]], [[Southern Company]], [[Cargill]], [[Kevin McCarthy]], [[Darin Lahood]], [[MCCAUL FOR CONGRESS, INC]], [[NRA Political Victory Fund]], [[JOE WILSON FOR CONGRESS]], [[Tom Emmer]], [[NEHLS FOR CONGRESS]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[American Principles Fund]], [[JASON SMITH FOR CONGRESS]], [[DAVID ROUZER FOR CONGRESS]], [[William R. Timmons]], [[Meta - Facebook]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H8SD01055
 bills-sponsored: 33
 bills-cosponsored: 209
 bills-enacted: 0
 top-policy-area: Agriculture and Food
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Aviation
-  - "Commodity Markets, Digital Assets, and Rural Development"
-  - "General Farm Commodities, Risk Management, and Credit"
+  - Commodity Markets, Digital Assets, and Rural Development
+  - General Farm Commodities, Risk Management, and Credit
   - Highways and Transit
   - House Committee on Agriculture
   - House Committee on Transportation and Infrastructure
   - House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party
-  - "Railroads, Pipelines, and Hazardous Materials"
-total-raised: "$12.1M"
-career-total-source: "FEC weball summary (cycles 2016, 2018, 2020, 2022, 2024, 2026)"
+  - Railroads, Pipelines, and Hazardous Materials
+total-raised: $12.1M
+career-total-source: FEC weball summary (cycles 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

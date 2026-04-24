@@ -3,7 +3,7 @@ title: Harry Reid
 type: politician
 content-readiness: ready
 central-thesis: Reid was a powerful progressive on selected issues (labor alliance, some environmental stands, healthcare reform) while serving Nevada's gaming, real estate, and development donor base with absolute fidelity. He managed this by maintaining a progr...
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Democrat
@@ -22,12 +22,12 @@ corroboration-count: 3
 known-gaps:
   - No mapped relationships
 top-donors: "[[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]] · [[First Amendment Alliance]] · [[American Crossroads]]"
-donors: "[[First Amendment Alliance]] · [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]] · [[American Crossroads]] · [[Crossroads Grassroots Policy Strategies]]"
+donors: "[[First Amendment Alliance]] · [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]] · [[American Crossroads]] · [[Crossroads Grassroots Policy Strategies]] · [[Google - Alphabet]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[AFL-CIO]] · [[Akin Gump Strauss Hauer & Feld]] · [[McDonalds Corporation]] · [[FRIENDS OF MARIA]] · [[National Committee to Preserve Social Security & Medicare PAC]] · [[National Restaurant Association]] · [[Sierra Club Political Committee]] · [[Bechtel Corporation]] · [[CVS Health - Aetna]] · [[Cargill]] · [[Senate Majority PAC]] · [[Citigroup]] · [[ADM - Archer Daniels Midland]] · [[Pfizer Inc.]] · [[League of Conservation Voters]] · [[Associated General Contractors of America Political Action Committee]] · [[Occidental Petroleum]] · [[National Education Association]] · [[Dina Titus]] · [[NANCY PELOSI FOR CONGRESS]] · [[Tyson Foods]] · [[Bacardi - Bacardi USA]] · [[Amgen Inc]] · [[AbbVie]] · [[AT&T]] · [[CoreCivic]] · [[NRA Political Victory Fund]] · [[Blue Shield of California]] · [[John B. Larson]] · [[Democratic Senatorial Campaign Committee]] · [[International Longshore and Warehouse Union -- Political Action Fund]] · [[National Cattlemen's Beef Association]] · [[Steny H. Hoyer]] · [[Anthem - Elevance Health Political Operation]] · [[American College of Radiology Association PAC]] · [[Patriot Majority Pac]] · [[MBNA Corporation]] · [[REED COMMITTEE]] · [[Bennie Thompson]] · [[Xavier Becerra]] · [[Sinclair Broadcast Group]] · [[John Kerry]] · [[Rahm Emanuel]] · [[Chris Coons]] · [[GEO Group - Private Prison Industrial Complex]] · [[Meta - Facebook]] · [[MarketAxess Holdings Inc. PAC]]"
 urls-first-triaged: "2026-04-15"
 related: "[[Crossroads Grassroots Policy Strategies]]"
-last-enriched: 2026-04-20
-total-raised: "$49.2M"
-career-total-source: "FEC weball summary (cycles 1986, 1988, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018)"
+last-enriched: 2026-04-20T00:00:00.000Z
+total-raised: $49.2M
+career-total-source: FEC weball summary (cycles 1986, 1988, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018)
 ---
 
 

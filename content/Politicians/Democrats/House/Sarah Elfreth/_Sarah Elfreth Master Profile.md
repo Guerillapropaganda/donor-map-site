@@ -20,12 +20,12 @@ source-types:
   - FEC
   - GovTrack
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-donors: "[[United Democracy Project - UDP]], [[NEA Fund for Children and Public Education]], [[NextEra Energy]], [[Northrop Grumman]], [[American Hospital Association PAC]], [[Anthem - Elevance Health]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Teamsters - International Brotherhood of Teamsters]], [[Lockheed Martin]], [[National Association of Realtors]], [[Leidos]], [[Honeywell]], [[Comcast - NBCUniversal]], [[Pete Aguilar]], [[UA Political Action Committee]], [[Ted Lieu]], [[SEIU COPE]], [[AIPAC - American Israel Public Affairs Committee]], [[IBEW - International Brotherhood of Electrical Workers]], [[General Dynamics]], [[DMFI - Democratic Majority for Israel]], [[National Education Association]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Raytheon (RTX)]], [[L3Harris Technologies]], [[Walmart - Walton Family]], [[League of Conservation Voters]], [[National Restaurant Association]], [[Emily's List]], [[Sierra Club Political Committee]], [[Honeywell International]], [[American Federation of State County & Municipal Employees  P E O P L E]]"
+  - No FEC contribution data
+  - No voting record data
+donors: "[[United Democracy Project - UDP]], [[NEA Fund for Children and Public Education]], [[NextEra Energy]], [[Northrop Grumman]], [[American Hospital Association PAC]], [[Anthem - Elevance Health]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Teamsters - International Brotherhood of Teamsters]], [[Lockheed Martin]], [[National Association of Realtors]], [[Leidos]], [[Honeywell]], [[Comcast - NBCUniversal]], [[Pete Aguilar]], [[UA Political Action Committee]], [[Ted Lieu]], [[SEIU COPE]], [[AIPAC - American Israel Public Affairs Committee]], [[IBEW - International Brotherhood of Electrical Workers]], [[General Dynamics]], [[DMFI - Democratic Majority for Israel]], [[National Education Association]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Raytheon (RTX)]], [[L3Harris Technologies]], [[Walmart - Walton Family]], [[League of Conservation Voters]], [[National Restaurant Association]], [[Emily's List]], [[Sierra Club Political Committee]], [[Honeywell International]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Raytheon (RTX Corporation)]], [[HUFFMAN FOR CONGRESS]], [[AFL-CIO]], [[NEA Advocacy Fund]], [[TED LIEU FOR CONGRESS]], [[Robin L. Kelly]], [[Bradley Scott Schneider]], [[PETE AGUILAR FOR CONGRESS]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4MD03156
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 corroboration-count: 3
 committees:
   - Energy and Mineral Resources
@@ -33,9 +33,9 @@ committees:
   - House Committee on Natural Resources
   - Readiness
   - Seapower and Projection Forces
-  - "Water, Wildlife and Fisheries"
-total-raised: "$3.2M"
-career-total-source: "FEC weball summary (cycles 2024, 2026)"
+  - Water, Wildlife and Fisheries
+total-raised: $3.2M
+career-total-source: FEC weball summary (cycles 2024, 2026)
 bills-sponsored: 15
 ---
 

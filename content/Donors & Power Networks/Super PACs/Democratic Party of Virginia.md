@@ -11,8 +11,8 @@ fec-committee-id: C00155952
 aliases:
   - DEMOCRATIC PARTY OF VIRGINIA
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Bobby Scott]], [[ActBlue]], [[Democratic Party of Virginia]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Bobby Scott]], [[ActBlue]], [[Democratic Party of Virginia]], [[DSPOLITICAL]], [[LINEMARK PRINTING]], [[WESTIN HOTEL]], [[KATCHER, JOSHUA DAVID]], [[CONNOLLY FOR CONGRESS]], [[US POSTAL SERVIVE]], [[THE BLUE DEAL  LLC]], [[RIVER CREEK CLUB]], [[ASAP PRINTING]], [[HILTON MARK CENTER]], [[ASAP]], [[BARCHIK, CHRISTINA]], [[HILTON AT CRYSTAL CITY]], [[US POST OFFICE]], [[GIBSON PRINT]], [[HILTON ARLINGTON]], [[Donald S. Beyer]], [[Gerry Connolly]], [[Barack Obama]], [[John Kerry]], [[Hillary Clinton]], [[Tim Kaine]], [[James R. Walkinshaw]], [[Mark Warner]], [[Joe Biden]]"
 related: "[[Bobby Scott]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

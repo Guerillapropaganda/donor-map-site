@@ -1,39 +1,40 @@
 ---
-title: "Haley M. Stevens"
+title: Haley M. Stevens
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Michigan"
-state-abbr: "MI"
+party: Democrat
+chamber: House
+state: Michigan
+state-abbr: MI
 district: "11"
-bioguide-id: "S001215"
+bioguide-id: S001215
 govtrack-id: 412786
 born: "1983-06-24"
-wikidata-id: "Q58322563"
-website: "https://stevens.house.gov"
-phone: "202-225-8171"
+wikidata-id: Q58322563
+website: https://stevens.house.gov
+phone: 202-225-8171
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 31
 bills-cosponsored: 446
 bills-enacted: 1
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - House Committee on Education and Workforce
-  - "House Committee on Science, Space, and Technology"
+  - House Committee on Science, Space, and Technology
   - House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party
   - Research and Technology
   - Space and Aeronautics
   - Workforce Protections
+top-donors: "[[Republican Campaign Committee of New Mexico]], [[CASSIDY, WILLIAM]], [[National Republican Senatorial Committee]], [[Right to Life of Michigan Political Action Committee]], [[NICOLE FOR NEW YORK]], [[Roger Wicker]], [[John McCain]], [[VERN BUCHANAN FOR CONGRESS]], [[Gus M. Bilirakis]], [[Cathy McMorris Rodgers]], [[JAMIE RASKIN FOR CONGRESS]], [[Let America Vote PAC]], [[JIMMY PANETTA FOR CONGRESS]], [[National Education Association]], [[PETE AGUILAR FOR CONGRESS]], [[American Gaming Association]], [[Blue Majority Project]], [[League of Conservation Voters]], [[Independence Usa Pac]], [[LOFGREN FOR CONGRESS]], [[LORI TRAHAN FOR CONGRESS COMMITTEE]], [[KEVIN MULLIN FOR CONGRESS]], [[Suzan K. Delbene]], [[United Democracy Project - UDP]], [[ROBERT GARCIA FOR CONGRESS]], [[TED LIEU FOR CONGRESS]], [[Janice D. Schakowsky]], [[Raja Krishnamoorthi]], [[Jerry Nadler]], [[Jim McGovern]], [[Steny H. Hoyer]], [[National Association of Manufacturers]], [[Environment America INC]], [[AIPAC - American Israel Public Affairs Committee]], [[Nikema Williams]], [[BARBARA LEE FOR CONGRESS]], [[PAUL TONKO FOR CONGRESS]], [[Haley M. Stevens]], [[ILHAN FOR CONGRESS]], [[Donald S. Beyer]], [[BARRAGAN FOR CONGRESS]], [[Humana]], [[KATHERINE CLARK FOR CONGRESS]], [[BILL FOSTER FOR CONGRESS]], [[Steve Cohen]], [[GRACE FOR NEW YORK]], [[National Committee to Preserve Social Security & Medicare PAC]], [[McDonalds Corporation]], [[JUDY CHU FOR CONGRESS]], [[Marc A. Veasey]], [[Robin L. Kelly]], [[Rosa DeLauro]], [[Planned Parenthood Action Fund INC]], [[FRIENDS OF MARIA]], [[Google - Alphabet]], [[JULIA BROWNLEY FOR CONGRESS]], [[Giffords PAC]], [[Kim Schrier]], [[American College of Radiology Association PAC]], [[STEPHEN LYNCH FOR CONGRESS]], [[Nucor Corporation]], [[DoorDash]], [[DEB HAALAND FOR CONGRESS]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Lizzie Fletcher]], [[Emily's List]], [[BONNIE WATSON COLEMAN FOR CONGRESS]], [[LOIS FRANKEL FOR CONGRESS]], [[STANTON FOR CONGRESS]], [[Adam Schiff]], [[CASTOR FOR CONGRESS]], [[Ro Khanna]], [[Sierra Club Political Committee]], [[Bradley Scott Schneider]], [[Hakeem Jeffries]], [[AFL-CIO]], [[James E. Clyburn]], [[DEBORAH ROSS FOR CONGRESS]], [[NIKKI FOR CONGRESS]], [[STRICKLAND FOR WASHINGTON]], [[Akin Gump Strauss Hauer & Feld]], [[ANDREA SALINAS FOR OREGON]], [[CASTRO FOR CONGRESS]], [[SHERMAN FOR CONGRESS]], [[Amgen Inc]], [[Gwen Moore]], [[VERONICA ESCOBAR FOR CONGRESS]], [[HALEY STEVENS FOR CONGRESS]], [[KENNEDY FOR CONGRESS]], [[Performance Racing Inc.]], [[SCOTT PETERS FOR CONGRESS]], [[Protecting Our Vote Pac]], [[CVS Health - Aetna]], [[Marcy Kaptur]], [[Teresa Leger Fernandez]], [[Pfizer Inc.]], [[Eric Swalwell]], [[Working Families Party PAC]], [[SARA JACOBS FOR CONGRESS]], [[J. Luis Correa]], [[NANCY PELOSI FOR CONGRESS]], [[COURTNEY, JOSEPH]], [[HIMES FOR CONGRESS]], [[50CAN Action Fund PAC]]"
 ---
 
 

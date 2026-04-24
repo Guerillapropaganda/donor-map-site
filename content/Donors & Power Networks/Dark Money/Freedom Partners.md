@@ -2,7 +2,7 @@
 title: Freedom Partners Chamber of Commerce
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Dark Money
@@ -10,12 +10,12 @@ entity-type: Individual Donor
 issues:
   - Dark Money & Campaign Finance
 court-cases: 4
-last-enriched: '2026-04-09'
+last-enriched: "2026-04-09"
 court-jurisdictions:
-  - 'District Court, D. New Jersey'
-  - 'District Court, District of Columbia'
-  - 'District Court, S.D. New York'
-  - 'United States Bankruptcy Court, E.D. Missouri'
+  - District Court, D. New Jersey
+  - District Court, District of Columbia
+  - District Court, S.D. New York
+  - United States Bankruptcy Court, E.D. Missouri
 lobbying-spend: 2076000
 lobbying-filings: 84
 related: ">- · [[State Policy Network]] · [[ALEC - American Legislative Exchange Council]]"
@@ -25,15 +25,16 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - No FEC contribution data
-total-political-spend: '$807,270'
+total-political-spend: $807,270
 cross-vault-triangulation-count: 9
-audit-a-plus-passed: '2026-04-11'
+audit-a-plus-passed: "2026-04-11"
 aliases:
-  - 'FREEDOM PARTNERS ACTION FUND, INC.'
+  - FREEDOM PARTNERS ACTION FUND, INC.
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+politicians-funded: "[[Marco Rubio]], [[Todd Young]]"
 ---
 
 

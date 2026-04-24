@@ -10,8 +10,8 @@ source-tier: 1
 aliases:
   - CONSERVATIVE LEADERSHIP POLITICAL ACTION COMMITTEE
 known-gaps:
-  - "No lobbying disclosure data"
-  - "No mapped relationships"
+  - No lobbying disclosure data
+  - No mapped relationships
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -20,8 +20,8 @@ total-raised: 169317
 total-spent: 128444
 cash-on-hand: 135573
 individual-contributions: 108817
-politicians-funded: "[[Mike Kennedy]]"
-last-enriched: 2026-04-21
+politicians-funded: "[[Mike Kennedy]], [[BLAIR, DAVID]], [[BLAIR GROUP LLC]], [[Direct Selling Empowers Americans]], [[Daniel Webster]], [[Morgan Stanley]], [[KOCH & HOOS, LLC]], [[Pete Sessions]], [[Tom McClintock]], [[Burgess Owens]], [[Chip Roy]], [[Ted Cruz]], [[John James]], [[Tom Barrett]], [[Don Bacon]], [[Andy Barr]], [[Kevin Cramer]], [[Andy Biggs]], [[Rand Paul]], [[Ben Cline]], [[William R. Timmons]], [[Marco Rubio]], [[Josh Hawley]], [[H. Morgan Griffith]], [[Chuck Grassley]], [[Mike Rogers]], [[Andy Harris]], [[Tim Walberg]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 source-types:
   - FEC
 ---

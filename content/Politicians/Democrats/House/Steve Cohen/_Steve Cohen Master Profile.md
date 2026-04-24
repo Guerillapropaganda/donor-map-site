@@ -18,27 +18,27 @@ phone: 202-225-3265
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H6TN09068
 bills-sponsored: 64
 bills-cosponsored: 770
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[Walmart - Walton Family]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[National Association of Realtors]], [[Medicare for All - The Policy That Broke the Party]], [[American Hospital Association PAC]], [[Comcast - NBCUniversal]], [[Ford Motor Company]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Raytheon (RTX)]], [[Honeywell]], [[Google - Alphabet]], [[SEIU COPE]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Microsoft]], [[Leidos]], [[General Motors]], [[Everytown for Gun Safety]], [[General Dynamics]], [[DCCC - Democratic Congressional Campaign Committee]], [[DMFI - Democratic Majority for Israel]], [[NEA Fund for Children and Public Education]], [[Lockheed Martin]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Progressive Turnout Project]], [[J Street]], [[AT&T - WarnerMedia]], [[Sierra Club Independent Action]], [[Pete Aguilar]], [[National Nurses United]], [[Nucor Corporation]], [[League of Conservation Voters]], [[ADM - Archer Daniels Midland]], [[Planned Parenthood Votes]], [[Teamsters - International Brotherhood of Teamsters]], [[Tyson Foods]], [[Honeywell International]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[AT&T]]"
-last-enriched: 2026-04-21
+top-donors: "[[Walmart - Walton Family]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[National Association of Realtors]], [[Medicare for All - The Policy That Broke the Party]], [[American Hospital Association PAC]], [[Comcast - NBCUniversal]], [[Ford Motor Company]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Raytheon (RTX)]], [[Honeywell]], [[Google - Alphabet]], [[SEIU COPE]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Microsoft]], [[Leidos]], [[General Motors]], [[Everytown for Gun Safety]], [[General Dynamics]], [[DCCC - Democratic Congressional Campaign Committee]], [[DMFI - Democratic Majority for Israel]], [[NEA Fund for Children and Public Education]], [[Lockheed Martin]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Progressive Turnout Project]], [[J Street]], [[AT&T - WarnerMedia]], [[Sierra Club Independent Action]], [[Pete Aguilar]], [[National Nurses United]], [[Nucor Corporation]], [[League of Conservation Voters]], [[ADM - Archer Daniels Midland]], [[Planned Parenthood Votes]], [[Teamsters - International Brotherhood of Teamsters]], [[Tyson Foods]], [[Honeywell International]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[AT&T]], [[Raytheon (RTX Corporation)]], [[National Committee to Preserve Social Security & Medicare PAC]], [[AFL-CIO]], [[Cargill]], [[BARBARA LEE FOR CONGRESS]], [[National Education Association]], [[American Gaming Association]], [[Planned Parenthood Action Fund INC]], [[Akin Gump Strauss Hauer & Feld]], [[CITIZENS TO ELECT RICK LARSEN]], [[Sierra Club Political Committee]], [[MIKE THOMPSON FOR CONGRESS]], [[Rosa DeLauro]], [[NANCY PELOSI FOR CONGRESS]], [[Jerry Nadler]], [[Pfizer Inc.]], [[DEBBIE WASSERMAN SCHULTZ FOR CONGRESS]], [[Hakeem Jeffries]], [[PETE AGUILAR FOR CONGRESS]], [[Frank Pallone]], [[LOFGREN FOR CONGRESS]], [[MEDICARE FOR ALL]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Crime and Federal Government Surveillance
   - House Committee on the Judiciary
   - House Permanent Select Committee on Intelligence
-  - "Immigration Integrity, Security, and Enforcement"
+  - Immigration Integrity, Security, and Enforcement
   - National Security Agency and Cyber
   - Open Source Intelligence
   - The Constitution and Limited Government
-total-raised: "$8.6M"
-career-total-source: "FEC weball summary (cycles 1996, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+total-raised: $8.6M
+career-total-source: FEC weball summary (cycles 1996, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

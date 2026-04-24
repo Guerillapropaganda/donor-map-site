@@ -1,34 +1,34 @@
 ---
-title: "Tom Emmer"
+title: Tom Emmer
 type: politician
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Minnesota"
-state-abbr: "MN"
+party: Republican
+chamber: House
+state: Minnesota
+state-abbr: MN
 district: "6"
-bioguide-id: "E000294"
+bioguide-id: E000294
 govtrack-id: 412639
 born: "1961-03-03"
-wikidata-id: "Q7815723"
-website: "https://emmer.house.gov"
-phone: "202-225-2331"
+wikidata-id: Q7815723
+website: https://emmer.house.gov
+phone: 202-225-2331
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-donors: "[[Western Growers Association]]"
+  - No FEC contribution data
+  - No voting record data
+donors: "[[Western Growers Association]], [[American College of Radiology Association PAC]], [[Freedom's Defense Fund]], [[DoorDash]], [[Occidental Petroleum]], [[Humana]], [[Meta - Facebook]], [[NRA Political Victory Fund]], [[Cargill]], [[Amgen Inc]], [[AFL-CIO]], [[Monsanto - Bayer]], [[National Cattlemen's Beef Association]], [[ADM - Archer Daniels Midland]], [[Williams Companies]], [[Pfizer Inc.]], [[GEO Group - Private Prison Industrial Complex]], [[CVS Health - Aetna]], [[McDonalds Corporation]], [[Akin Gump Strauss Hauer & Feld]], [[National Restaurant Association]], [[AbbVie]], [[Darin Lahood]], [[AIPAC - American Israel Public Affairs Committee]], [[Google - Alphabet]], [[Steve Scalise]], [[TEXANS FOR JODEY ARRINGTON]], [[Freedom Club Federal PAC]], [[Koch Industries]], [[National Association of Manufacturers]], [[Paul Ryan]], [[Randy Feenstra]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Tyson Foods]], [[Rick Crawford]], [[Scott Desjarlais]], [[Associated General Contractors of America Political Action Committee]], [[Southern Company]], [[Hunter Action Fund (haf)]], [[KAY GRANGER CAMPAIGN FUND]], [[American Principles Fund]], [[JOE WILSON FOR CONGRESS]], [[Gilead Sciences]], [[Leidos]], [[American Gaming Association]], [[Coinbase]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 12
 bills-cosponsored: 84
 bills-enacted: 0
-top-policy-area: "Finance and Financial Sector"
-last-enriched: 2026-04-21
+top-policy-area: Finance and Financial Sector
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Digital Assets, Financial Technology, and Artificial Intelligence"
+  - Digital Assets, Financial Technology, and Artificial Intelligence
   - House Committee on Financial Services
 ---
 

@@ -18,25 +18,25 @@ phone: 202-225-5076
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H8NY21203
 bills-sponsored: 30
 bills-cosponsored: 638
 bills-enacted: 1
 top-policy-area: Health
-top-donors: "[[SEIU COPE]], [[Care Action]], [[AT&T - WarnerMedia]], [[Nucor Corporation]], [[American Chemistry Council, INC]], [[American Hospital Association PAC]], [[Anthem - Elevance Health]], [[ENVIRONMENT AMERICA INC]], [[Ford Motor Company]], [[ADM - Archer Daniels Midland]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[PG&E - Pacific Gas and Electric]], [[Comcast - NBCUniversal]], [[Walmart - Walton Family]], [[NextEra Energy]], [[J Street]], [[National Multifamily Housing Council]], [[Lockheed Martin]], [[Teamsters - International Brotherhood of Teamsters]], [[CVS Health - Aetna]], [[General Motors]], [[314 ACTION FUND]], [[Medicare for All - The Policy That Broke the Party]], [[Raytheon (RTX)]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Microsoft]], [[National Association of Realtors]], [[National Nurses United]], [[League of Conservation Voters]], [[Sierra Club Political Committee]], [[Duke Energy]], [[McDonalds Corporation]], [[BAE Systems]], [[L3Harris Technologies]], [[IBEW - International Brotherhood of Electrical Workers]], [[National Committee to Preserve Social Security PAC]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Sierra Club Independent Action]], [[Leidos]], [[Google - Alphabet]], [[Honeywell]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[iHeartMedia]], [[Tzedek PAC]], [[Performance Racing Inc.]], [[NEA Fund for Children and Public Education]], [[Tyson Foods]], [[American College of Radiology Association PAC]], [[Progressive Turnout Project]], [[Planned Parenthood Votes]], [[PG&E]], [[Anthem - Elevance Health Political Operation]], [[Tesla - Elon Musk Political Operation]], [[Johnson & Johnson]], [[Morgan Stanley]], [[Pfizer Inc.]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Environment America INC]], [[Honeywell International]], [[314 Action Fund]], [[AT&T]]"
-last-enriched: 2026-04-21
+top-donors: "[[SEIU COPE]], [[Care Action]], [[AT&T - WarnerMedia]], [[Nucor Corporation]], [[American Chemistry Council, INC]], [[American Hospital Association PAC]], [[Anthem - Elevance Health]], [[ENVIRONMENT AMERICA INC]], [[Ford Motor Company]], [[ADM - Archer Daniels Midland]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[PG&E - Pacific Gas and Electric]], [[Comcast - NBCUniversal]], [[Walmart - Walton Family]], [[NextEra Energy]], [[J Street]], [[National Multifamily Housing Council]], [[Lockheed Martin]], [[Teamsters - International Brotherhood of Teamsters]], [[CVS Health - Aetna]], [[General Motors]], [[314 ACTION FUND]], [[Medicare for All - The Policy That Broke the Party]], [[Raytheon (RTX)]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Microsoft]], [[National Association of Realtors]], [[National Nurses United]], [[League of Conservation Voters]], [[Sierra Club Political Committee]], [[Duke Energy]], [[McDonalds Corporation]], [[BAE Systems]], [[L3Harris Technologies]], [[IBEW - International Brotherhood of Electrical Workers]], [[National Committee to Preserve Social Security PAC]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Sierra Club Independent Action]], [[Leidos]], [[Google - Alphabet]], [[Honeywell]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[iHeartMedia]], [[Tzedek PAC]], [[Performance Racing Inc.]], [[NEA Fund for Children and Public Education]], [[Tyson Foods]], [[American College of Radiology Association PAC]], [[Progressive Turnout Project]], [[Planned Parenthood Votes]], [[PG&E]], [[Anthem - Elevance Health Political Operation]], [[Tesla - Elon Musk Political Operation]], [[Johnson & Johnson]], [[Morgan Stanley]], [[Pfizer Inc.]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Environment America INC]], [[Honeywell International]], [[314 Action Fund]], [[AT&T]], [[Raytheon (RTX Corporation)]], [[National Education Association]], [[Williams Companies]], [[DOGGETT FOR U S CONGRESS COMMITTEE]], [[Humana]], [[AbbVie]], [[Let America Vote PAC]], [[Sinclair Broadcast Group]], [[Amgen Inc]], [[Bechtel Corporation]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Frank Pallone]], [[Jerry Nadler]], [[Cargill]], [[Edward J. Markey]], [[Richard Neal]], [[Meta - Facebook]], [[House Majority PAC]], [[AFL-CIO]], [[Associated General Contractors of America Political Action Committee]], [[Rosa DeLauro]], [[MEDICARE FOR ALL]], [[Akin Gump Strauss Hauer & Feld]], [[IBEW Educational Committee]], [[Wilson,Elser,Moskowitz,Edelman  Dicker LLP PAC]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Energy
   - Environment
   - House Committee on Energy and Commerce
   - House Committee on the Budget
   - Oversight and Investigations
-total-raised: "$11.8M"
-career-total-source: "FEC weball summary (cycles 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+total-raised: $11.8M
+career-total-source: FEC weball summary (cycles 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

@@ -18,12 +18,12 @@ source-types:
   - Treasury
 corroboration-count: 3
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
+  - No FEC contribution data
+  - No voting record data
 executive-orders: 310
 presidential-memoranda: 89
 proclamations: 761
-donors: "[[Media Matters]] · [[MICHIGAN REPUBLICAN PARTY]]"
+donors: "[[Media Matters]] · [[MICHIGAN REPUBLICAN PARTY]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[International Brotherhood of Electrical Workers Local 98 Committee on Political Education]] · [[AFL-CIO]] · [[One Nation United]] · [[NANCY PELOSI FOR CONGRESS]]"
 urls-first-triaged: "2026-04-15"
 ---
 

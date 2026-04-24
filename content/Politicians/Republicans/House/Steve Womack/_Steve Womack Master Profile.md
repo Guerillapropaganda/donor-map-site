@@ -18,24 +18,24 @@ phone: 202-225-4301
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H0AR03055
 bills-sponsored: 10
 bills-cosponsored: 149
 bills-enacted: 1
 top-policy-area: International Affairs
-top-donors: "[[L3Harris Technologies]], [[Pfizer Inc.]], [[National Cattlemen's Beef Association]], [[Comcast - NBCUniversal]], [[National Association of Realtors]], [[Planned Parenthood Votes]], [[Leidos]], [[Lockheed Martin]], [[Nucor Corporation]], [[Morgan Stanley]], [[National Multifamily Housing Council]], [[Honeywell]], [[BAE Systems]], [[Walmart - Walton Family]], [[AIPAC - American Israel Public Affairs Committee]], [[Chevron]], [[McDonalds Corporation]], [[Associated General Contractors of America Political Action Committee]], [[Tyson Foods]], [[Bank of America]], [[Google - Alphabet]], [[Anthem - Elevance Health]], [[AT&T - WarnerMedia]], [[Marathon Petroleum]], [[WinRed]], [[MAJORITY PAC]], [[Microsoft]], [[Northrop Grumman]], [[Raytheon (RTX)]], [[iHeartMedia]], [[American Hospital Association PAC]], [[American Chemistry Council, INC]], [[August Pfluger]], [[Citigroup]], [[NextEra Energy]], [[General Motors]], [[Byron Donalds]], [[General Dynamics]], [[National Rifle Association]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Honeywell International]], [[AT&T]], [[Majority PAC]]"
-last-enriched: 2026-04-21
+top-donors: "[[L3Harris Technologies]], [[Pfizer Inc.]], [[National Cattlemen's Beef Association]], [[Comcast - NBCUniversal]], [[National Association of Realtors]], [[Planned Parenthood Votes]], [[Leidos]], [[Lockheed Martin]], [[Nucor Corporation]], [[Morgan Stanley]], [[National Multifamily Housing Council]], [[Honeywell]], [[BAE Systems]], [[Walmart - Walton Family]], [[AIPAC - American Israel Public Affairs Committee]], [[Chevron]], [[McDonalds Corporation]], [[Associated General Contractors of America Political Action Committee]], [[Tyson Foods]], [[Bank of America]], [[Google - Alphabet]], [[Anthem - Elevance Health]], [[AT&T - WarnerMedia]], [[Marathon Petroleum]], [[WinRed]], [[MAJORITY PAC]], [[Microsoft]], [[Northrop Grumman]], [[Raytheon (RTX)]], [[iHeartMedia]], [[American Hospital Association PAC]], [[American Chemistry Council, INC]], [[August Pfluger]], [[Citigroup]], [[NextEra Energy]], [[General Motors]], [[Byron Donalds]], [[General Dynamics]], [[National Rifle Association]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Honeywell International]], [[AT&T]], [[Majority PAC]], [[Raytheon (RTX Corporation)]], [[Williams Companies]], [[Koch Industries]], [[David P. Joyce]], [[NRA Political Victory Fund]], [[National Right to Life PAC]], [[Kevin McCarthy]], [[Monsanto - Bayer]], [[Darin Lahood]], [[CoreCivic]], [[Steve Scalise]], [[AUGUST PFLUGER FOR CONGRESS]], [[TEXANS FOR JODEY ARRINGTON]], [[Pete Sessions]], [[Rick Crawford]], [[BYRON DONALDS FOR CONGRESS]], [[Paul Ryan]], [[Cargill]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Defense
   - Financial Services and General Government
   - House Committee on Appropriations
-  - "Transportation, Housing and Urban Development, and Related Agencies"
-total-raised: "$11.6M"
-career-total-source: "FEC weball summary (cycles 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+  - Transportation, Housing and Urban Development, and Related Agencies
+total-raised: $11.6M
+career-total-source: FEC weball summary (cycles 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

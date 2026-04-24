@@ -8,17 +8,17 @@ source-tier: 1
 party: Democrat
 chamber: Secretary of HUD (2021-2024)
 known-gaps:
-  - "No voting record data"
-  - "No mapped relationships"
+  - No voting record data
+  - No mapped relationships
 source-types:
   - Congress
   - FEC
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H8OH11141
-top-donors: "[[Planned Parenthood Votes]], [[Amazon]], [[Meta - Facebook]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[American Gaming Association]], [[US CHAMBER OF COMMERCE]], [[Cigna Group]], [[Cargill]], [[US Chamber of Commerce]]"
-last-enriched: 2026-04-21
-total-raised: "$4.8M"
-career-total-source: "FEC weball summary (cycles 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2026)"
+top-donors: "[[Planned Parenthood Votes]], [[Amazon]], [[Meta - Facebook]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[American Gaming Association]], [[US CHAMBER OF COMMERCE]], [[Cigna Group]], [[Cargill]], [[US Chamber of Commerce]], [[Planned Parenthood Action Fund INC]], [[James E. Clyburn]], [[John B. Larson]], [[AFL-CIO]], [[McDonalds Corporation]], [[Akin Gump Strauss Hauer & Feld]], [[Sierra Club Political Committee]], [[National Restaurant Association]], [[Richard Neal]], [[National Education Association]], [[Pfizer Inc.]], [[Google - Alphabet]], [[Humana]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Amgen Inc]], [[National Cattlemen's Beef Association]], [[Frank Pallone]], [[Xavier Becerra]], [[Marcy Kaptur]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Terri A. Sewell]], [[CVS Health - Aetna]], [[Monsanto - Bayer]], [[American College of Radiology Association PAC]], [[League of Conservation Voters]], [[Southern Company]], [[AbbVie]], [[Tyson Foods]]"
+last-enriched: 2026-04-21T00:00:00.000Z
+total-raised: $4.8M
+career-total-source: FEC weball summary (cycles 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2026)
 bills-sponsored: 87
 corroboration-count: 2
 ---

@@ -13,13 +13,13 @@ state-abbr: TX
 issues:
   - Immigration
   - Energy & Climate
-top-donors: "[[Timothy Mellon]], [[Koch Network - Charles Koch]], [[Kelcy Warren]], [[Kelcy Warren - Energy Transfer Partners]]"
+top-donors: "[[Timothy Mellon]], [[Koch Network - Charles Koch]], [[Kelcy Warren]], [[Kelcy Warren - Energy Transfer Partners]], [[GHA Healthcare Professional For Quality Govt]], [[Texas Beverage Alliance of the TPSA]], [[TEXAS PODIATRIC MEDICAL ASSOCIATION PAC]], [[Political Action Committee of Winstead Sechrest]], [[Tx Friends of Time Warner Cable]], [[AT and T Political Action Committee Texas]], [[TX Friends of Time Warner Cable PAC]]"
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
+  - No FEC contribution data
+  - No voting record data
 related: "[[_Donald Trump Master Profile]] · [[Timothy Mellon]] · [[_Chad Bianco Master Profile]] · [[Koch Network - Charles Koch]] · [[GEO Group]] · [[CoreCivic]] · [[Fossil Fuel Bloc]] · [[Immigration Enforcement - The Detention Economy]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[DAPL Survives Both Parties - The Bipartisan Fossil Fuel Consensus]] · [[Timothy Mellon Funds Trump and RFK Jr Simultaneously]]"
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-20
+last-enriched: 2026-04-20T00:00:00.000Z
 source-types:
   - Congress
 ---

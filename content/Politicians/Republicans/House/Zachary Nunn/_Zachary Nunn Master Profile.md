@@ -1,41 +1,42 @@
 ---
-title: "Zachary Nunn"
+title: Zachary Nunn
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Iowa"
-state-abbr: "IA"
+party: Republican
+chamber: House
+state: Iowa
+state-abbr: IA
 district: "3"
-bioguide-id: "N000193"
+bioguide-id: N000193
 govtrack-id: 456898
 born: "1979-05-04"
-wikidata-id: "Q84719792"
-website: "https://nunn.house.gov"
-phone: "202-225-5476"
+wikidata-id: Q84719792
+website: https://nunn.house.gov
+phone: 202-225-5476
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 54
 bills-cosponsored: 462
 bills-enacted: 0
-top-policy-area: "International Affairs"
-last-enriched: 2026-04-21
+top-policy-area: International Affairs
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Capital Markets
-  - "Commodity Markets, Digital Assets, and Rural Development"
-  - "Digital Assets, Financial Technology, and Artificial Intelligence"
-  - "General Farm Commodities, Risk Management, and Credit"
+  - Commodity Markets, Digital Assets, and Rural Development
+  - Digital Assets, Financial Technology, and Artificial Intelligence
+  - General Farm Commodities, Risk Management, and Credit
   - House Committee on Agriculture
   - House Committee on Financial Services
   - House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party
-  - "National Security, Illicit Finance, and International Financial Institutions"
+  - National Security, Illicit Finance, and International Financial Institutions
+top-donors: "[[Brett Guthrie]], [[Guy Reschenthaler]], [[Glenn Thompson]], [[FRIENDS OF TIM MOORE]], [[MARK GREEN FOR CONGRESS]], [[WEBER FOR CONGRESS]], [[LOUDERMILK FOR CONGRESS]], [[HOUCHIN FOR CONGRESS]], [[AIPAC - American Israel Public Affairs Committee]], [[SCOTT FRANKLIN FOR CONGRESS]], [[Daniel Meuser]], [[Google - Alphabet]], [[Nicholas A. Langworthy]], [[JASON SMITH FOR CONGRESS]], [[BURCHETT FOR CONGRESS]], [[Tim Walberg]], [[MAST FOR CONGRESS]], [[National Restaurant Association]], [[FISCHBACH FOR CONGRESS]], [[National Right to Life Victory Fund]], [[Michael Guest]], [[CARLOS GIMENEZ FOR CONGRESS]], [[CLAUDIA TENNEY FOR CONGRESS]], [[ROBERT ADERHOLT FOR CONGRESS]], [[DoorDash]], [[BURGESS 4 UTAH]], [[Steve Scalise]], [[Mike Johnson]], [[BYRON DONALDS FOR CONGRESS]], [[Robert J. Wittman]], [[Kevin McCarthy]], [[NRA Political Victory Fund]], [[ADM - Archer Daniels Midland]], [[JIM JORDAN FOR CONGRESS]], [[Richard Hudson]], [[JAKE ELLZEY FOR CONGRESS]], [[ADRIAN SMITH FOR CONGRESS]], [[Darin Lahood]], [[FEDORCHAK FOR ND]], [[Randy Feenstra]], [[Michael R. Turner]], [[Lloyd Smucker]], [[RICK W. ALLEN FOR CONGRESS]], [[John J. McGuire]], [[Clay Higgins]], [[Robert E. Latta]], [[DAVID ROUZER FOR CONGRESS]], [[Kevin Kiley]], [[MICHAEL WALTZ FOR CONGRESS]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Dan Newhouse]], [[Mariannette Miller-Meeks]], [[Associated General Contractors of America Political Action Committee]], [[BOST, MICHAEL]], [[Elise Stefanik]], [[J. French Hill]], [[LISA MCCLAIN FOR CONGRESS]], [[KAT FOR CONGRESS]], [[BRAD KNOTT FOR CONGRESS]], [[Koch Industries]], [[Dale W. Strong]], [[Freedom's Defense Fund]], [[Tzedek PAC]], [[MIKE HARIDOPOLOS FOR CONGRESS]], [[Jeff Hurd]], [[CLIFF BENTZ FOR CONGRESS]], [[Ashley Hinson]], [[DAVE TAYLOR FOR CONGRESS]], [[Cargill]], [[Performance Racing Inc.]], [[Mark E. Amodei]], [[Rick Crawford]], [[Earl L. Buddy Carter]], [[COMER FOR CONGRESS]], [[PETE SESSIONS FOR CONGRESS]], [[Coinbase]], [[Robert F. Onder]], [[Williams Companies]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[Frank Lucas]], [[MIKE COLLINS FOR SENATE]], [[Tom Emmer]], [[Humana]], [[Troy Balderson]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[Republican Jewish Coalition]], [[Carol D. Miller]], [[BLAKE MOORE FOR CONGRESS]], [[Gun Owners of America]], [[Special Operations for America]], [[ANDY HARRIS FOR CONGRESS]], [[Club for Growth INC PAC]], [[LALOTA FOR CONGRESS]], [[HAGEMAN FOR WYOMING]], [[GARY PALMER FOR CONGRESS]], [[RON ESTES FOR CONGRESS]], [[David P. Joyce]], [[AUGUST PFLUGER FOR CONGRESS]], [[National Cattlemen's Beef Association]], [[NATHANIEL MORAN FOR CONGRESS]], [[FRY FOR CONGRESS]], [[Gregory F. Murphy]], [[VERN BUCHANAN FOR CONGRESS]], [[DR. BRIAN BABIN FOR CONGRESS]], [[TEXANS FOR JODEY ARRINGTON]], [[Richard McCormick]], [[Southern Company]], [[MIKE KENNEDY FOR UTAH]], [[BEN CLINE FOR CONGRESS, INC.]], [[Campaign for Working Families]], [[CLYDE FOR CONGRESS, INC.]]"
 ---
 
 

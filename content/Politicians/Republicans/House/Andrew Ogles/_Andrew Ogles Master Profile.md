@@ -1,41 +1,42 @@
 ---
-title: "Andrew Ogles"
+title: Andrew Ogles
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Tennessee"
-state-abbr: "TN"
+party: Republican
+chamber: House
+state: Tennessee
+state-abbr: TN
 district: "5"
-bioguide-id: "O000175"
+bioguide-id: O000175
 govtrack-id: 456939
 born: "1971-06-18"
-wikidata-id: "Q111623114"
-website: "https://ogles.house.gov"
-phone: "202-225-4311"
+wikidata-id: Q111623114
+website: https://ogles.house.gov
+phone: 202-225-4311
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 80
 bills-cosponsored: 416
 bills-enacted: 0
-top-policy-area: "International Affairs"
-last-enriched: 2026-04-21
+top-policy-area: International Affairs
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Border Security and Enforcement
   - Capital Markets
   - Cybersecurity and Infrastructure Protection
   - House Committee on Financial Services
   - House Committee on Homeland Security
-  - "National Security, Illicit Finance, and International Financial Institutions"
+  - National Security, Illicit Finance, and International Financial Institutions
   - Oversight and Investigations
-  - "Oversight, Investigations, and Accountability"
+  - Oversight, Investigations, and Accountability
+top-donors: "[[Club for Growth INC PAC]], [[RALPH NORMAN FOR CONGRESS]], [[JASON SMITH FOR CONGRESS]], [[MARY MILLER FOR CONGRESS]], [[BURCHETT FOR CONGRESS]], [[Guy Reschenthaler]], [[BEN CLINE FOR CONGRESS, INC.]], [[CLOUD FOR CONGRESS]], [[Steve Scalise]], [[NEHLS FOR CONGRESS]], [[Google - Alphabet]], [[Mike Johnson]], [[JIM JORDAN FOR CONGRESS]], [[Richard Hudson]], [[William R. Timmons]], [[Hunter Action Fund (haf)]], [[Gun Owners of America]], [[HAGEMAN FOR WYOMING]], [[CoreCivic]], [[Frank Lucas]], [[AIPAC - American Israel Public Affairs Committee]], [[ROBERT ADERHOLT FOR CONGRESS]], [[John W. Rose]], [[NRA Political Victory Fund]], [[Clay Higgins]], [[FRY FOR CONGRESS]], [[JAKE ELLZEY FOR CONGRESS]], [[Russ Fulcher]], [[ANDY HARRIS FOR CONGRESS]], [[Elijah Crane]], [[ERIC BURLISON FOR CONGRESS]], [[Koch Industries]]"
 ---
 
 

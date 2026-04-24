@@ -29,7 +29,7 @@ top-donors:
   - Boeing
 stock-trades: 1
 fec-candidate-id: S6RI00163
-donors: "[[General Dynamics]] · [[NORPAC]] · [[Planned Parenthood Votes]] · [[Lockheed Martin]] · [[Boeing]] · [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]] · [[CAMPAIGN FOR WORKING FAMILIES]] · [[ENVIRONMENT AMERICA INC]] · [[Environment America INC]] · [[Patriot Voices PAC]] · [[Raytheon (RTX)]] · [[National Association of Realtors]] · [[Amgen Inc]] · [[Tyson Foods]] · [[AT&T - WarnerMedia]] · [[J Street]] · [[NEA Fund for Children and Public Education]] · [[NextEra Energy]] · [[Votevets]] · [[American Hospital Association PAC]] · [[Anthem - Elevance Health]] · [[SEIU COPE]] · [[Microsoft]] · [[Walmart - Walton Family]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Citigroup]] · [[Comcast - NBCUniversal]] · [[BAE Systems]] · [[Northrop Grumman]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Leidos]] · [[L3Harris Technologies]] · [[iHeartMedia]] · [[Honeywell]] · [[CVS Health - Aetna]] · [[Mark Kelly]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[General Motors]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[League of Conservation Voters]] · [[Teamsters - International Brotherhood of Teamsters]] · [[American Federation of State County & Municipal Employees  P E O P L E]] · [[AT&T]] · [[Honeywell International]]"
+donors: "[[General Dynamics]] · [[NORPAC]] · [[Planned Parenthood Votes]] · [[Lockheed Martin]] · [[Boeing]] · [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]] · [[CAMPAIGN FOR WORKING FAMILIES]] · [[ENVIRONMENT AMERICA INC]] · [[Environment America INC]] · [[Patriot Voices PAC]] · [[Raytheon (RTX)]] · [[National Association of Realtors]] · [[Amgen Inc]] · [[Tyson Foods]] · [[AT&T - WarnerMedia]] · [[J Street]] · [[NEA Fund for Children and Public Education]] · [[NextEra Energy]] · [[Votevets]] · [[American Hospital Association PAC]] · [[Anthem - Elevance Health]] · [[SEIU COPE]] · [[Microsoft]] · [[Walmart - Walton Family]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Citigroup]] · [[Comcast - NBCUniversal]] · [[BAE Systems]] · [[Northrop Grumman]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Leidos]] · [[L3Harris Technologies]] · [[iHeartMedia]] · [[Honeywell]] · [[CVS Health - Aetna]] · [[Mark Kelly]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[General Motors]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[League of Conservation Voters]] · [[Teamsters - International Brotherhood of Teamsters]] · [[American Federation of State County & Municipal Employees  P E O P L E]] · [[AT&T]] · [[Honeywell International]] · [[Raytheon (RTX Corporation)]] · [[AFL-CIO]] · [[National Committee to Preserve Social Security & Medicare PAC]] · [[National Education Association]] · [[ADM - Archer Daniels Midland]] · [[Akin Gump Strauss Hauer & Feld]] · [[FRIENDS OF MARIA]] · [[Planned Parenthood Action Fund INC]] · [[Sierra Club Political Committee]] · [[Pfizer Inc.]] · [[American College of Radiology Association PAC]] · [[CITIZENS FOR WATERS]] · [[Bechtel Corporation]] · [[Meta - Facebook]] · [[Goldman Sachs]] · [[Democratic Senatorial Campaign Committee]] · [[Rosa DeLauro]] · [[Google - Alphabet]] · [[MARK KELLY FOR SENATE]] · [[National Restaurant Association]] · [[Steny H. Hoyer]] · [[NANCY PELOSI FOR CONGRESS]] · [[Giffords PAC]] · [[Let America Vote PAC]]"
 related: "[[General Dynamics]] · [[_Roger Wicker Master Profile|Wicker]] · [[Lockheed Martin]] · [[Boeing]]"
 last-enriched: "2026-04-11"
 needs-reenrichment: true
@@ -51,9 +51,9 @@ source-types:
   - GovTrack
 corroboration-count: 2
 known-gaps:
-  - "No FEC contribution data"
-total-raised: "$22.9M"
-career-total-source: "FEC weball summary (cycles 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+  - No FEC contribution data
+total-raised: $22.9M
+career-total-source: FEC weball summary (cycles 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

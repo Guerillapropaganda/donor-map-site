@@ -1,26 +1,26 @@
 ---
-title: "Tom McClintock"
+title: Tom McClintock
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "California"
-state-abbr: "CA"
+party: Republican
+chamber: House
+state: California
+state-abbr: CA
 district: "5"
-bioguide-id: "M001177"
+bioguide-id: M001177
 govtrack-id: 412295
 born: "1956-07-10"
-wikidata-id: "Q535887"
-website: "https://mcclintock.house.gov"
-phone: "202-225-2511"
+wikidata-id: Q535887
+website: https://mcclintock.house.gov
+phone: 202-225-2511
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 total-raised: 7500
 total-spent: 7381
@@ -30,16 +30,17 @@ contributions-to-committees: 5500
 bills-sponsored: 20
 bills-cosponsored: 171
 bills-enacted: 0
-top-policy-area: "International Affairs"
-last-enriched: 2026-04-21
+top-policy-area: International Affairs
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Federal Lands
   - House Committee on Natural Resources
   - House Committee on the Budget
   - House Committee on the Judiciary
-  - "Immigration Integrity, Security, and Enforcement"
+  - Immigration Integrity, Security, and Enforcement
   - The Constitution and Limited Government
-  - "Water, Wildlife and Fisheries"
+  - Water, Wildlife and Fisheries
+top-donors: "[[NRA Political Victory Fund]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[National Cattlemen's Beef Association]], [[JOE WILSON FOR CONGRESS]], [[Steve Scalise]], [[Gun Owners of America]], [[Meta - Facebook]], [[Conservative Leadership PAC]], [[John R. Carter]], [[Koch Industries]], [[Darin Lahood]], [[Cynthia M. Lummis]], [[BEN CLINE FOR CONGRESS, INC.]], [[Campaign for Working Families]], [[Tyson Foods]], [[Donald Trump]], [[BURCHETT FOR CONGRESS]], [[Mike Johnson]], [[Occidental Petroleum]], [[TEXANS FOR JODEY ARRINGTON]], [[DAVID ROUZER FOR CONGRESS]], [[JAKE ELLZEY FOR CONGRESS]], [[THOMAS MASSIE FOR CONGRESS]], [[Kevin McCarthy]], [[Mike Carey]], [[Randy Feenstra]], [[John Boehner]], [[National Right to Life PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[ADRIAN SMITH FOR CONGRESS]], [[Ken Calvert]], [[DR. BRIAN BABIN FOR CONGRESS]], [[Pfizer Inc.]], [[Guy Reschenthaler]], [[Club for Growth INC PAC]], [[Associated General Contractors of America Political Action Committee]], [[Glenn Thompson]], [[American Gaming Association]], [[Google - Alphabet]]"
 ---
 
 

@@ -12,8 +12,8 @@ fec-committee-id: C30001739
 aliases:
   - BLUEGREEN ALLIANCE
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Tim Walz]], [[_Nancy Pelosi Master Profile]], [[_Jon Ossoff Master Profile]], [[ActBlue]], [[Democratic Party of Virginia]], [[The Lincoln Project]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Bob Casey]], [[DCCC - Democratic Congressional Campaign Committee]], [[314 ACTION FUND]], [[Jon Ossoff]], [[Nancy Pelosi]], [[314 Action Fund]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Tim Walz]], [[_Nancy Pelosi Master Profile]], [[_Jon Ossoff Master Profile]], [[ActBlue]], [[Democratic Party of Virginia]], [[The Lincoln Project]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Bob Casey]], [[DCCC - Democratic Congressional Campaign Committee]], [[314 ACTION FUND]], [[Jon Ossoff]], [[Nancy Pelosi]], [[314 Action Fund]], [[Joe Biden]]"
 related: "[[Tim Walz]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -24,9 +24,9 @@ employee-contributions-total: 25960
 employee-donor-count: 25
 source-types:
   - FEC
-last-enriched: 2026-04-21
-total-political-spend: "$5K"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2020"
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $5K
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2020
 ---
 
 

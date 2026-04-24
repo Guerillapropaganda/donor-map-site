@@ -11,8 +11,8 @@ fec-committee-id: C00427617
 aliases:
   - BLUE AMERICA PAC
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[John Boehner]], [[Cori Bush]]"
+  - No lobbying disclosure data
+politicians-funded: "[[John Boehner]], [[Cori Bush]], [[LAKE RESEARCH PARTNERS]], [[NCC]], [[MACON TELEGRAPH]], [[Washington Citizens for Colin Powell]], [[AMACOM CORPORATION]], [[NEPA NEWSPAPER GROUP]], [[MOBILIZE, INC.]], [[AUBURN QUAD]], [[Chris Murphy]], [[Rashida Tlaib]], [[Gary Peters]], [[Raul Grijalva]], [[James A. Himes]], [[Jeff Merkley]], [[Bernie Sanders]], [[Ted Lieu]]"
 related: "[[John Boehner]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -24,7 +24,7 @@ cash-on-hand: 63320
 individual-contributions: 8746
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

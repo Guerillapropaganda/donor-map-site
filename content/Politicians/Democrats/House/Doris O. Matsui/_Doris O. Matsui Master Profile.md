@@ -1,36 +1,37 @@
 ---
-title: "Doris O. Matsui"
+title: Doris O. Matsui
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "California"
-state-abbr: "CA"
+party: Democrat
+chamber: House
+state: California
+state-abbr: CA
 district: "7"
-bioguide-id: "M001163"
+bioguide-id: M001163
 govtrack-id: 400663
 born: "1944-09-25"
-wikidata-id: "Q399561"
-website: "https://matsui.house.gov"
-phone: "202-225-7163"
+wikidata-id: Q399561
+website: https://matsui.house.gov
+phone: 202-225-7163
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 37
 bills-cosponsored: 365
 bills-enacted: 1
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Communications and Technology
   - Energy
   - House Committee on Energy and Commerce
+top-donors: "[[Sierra Club Political Committee]], [[JULIA BROWNLEY FOR CONGRESS]], [[AbbVie]], [[PETE AGUILAR FOR CONGRESS]], [[Rosa DeLauro]], [[Amgen Inc]], [[American College of Radiology Association PAC]], [[DEBORAH ROSS FOR CONGRESS]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[League of Conservation Voters]], [[Blue Shield of California]], [[Hilda Solis]], [[Google - Alphabet]], [[BARBARA LEE FOR CONGRESS]], [[Pfizer Inc.]], [[National Committee to Preserve Social Security & Medicare PAC]], [[CVS Health - Aetna]], [[Humana]], [[AIPAC - American Israel Public Affairs Committee]], [[AFL-CIO]], [[DIANA DEGETTE FOR CONGRESS]], [[Chris van Hollen]], [[National Education Association]], [[Akin Gump Strauss Hauer & Feld]], [[JIM COSTA FOR CONGRESS]], [[Meta - Facebook]], [[GOLDEN STATE DEMOCRACY PAC]], [[Donald S. Beyer]], [[Dina Titus]], [[BARRAGAN FOR CONGRESS]], [[Bechtel Corporation]], [[JUDY CHU FOR CONGRESS]], [[LOFGREN FOR CONGRESS]], [[Xavier Becerra]], [[Airbnb]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[Sinclair Broadcast Group]], [[Planned Parenthood Action Fund INC]], [[Tyson Foods]], [[Associated General Contractors of America Political Action Committee]], [[SHERMAN FOR CONGRESS]], [[DOGGETT FOR U S CONGRESS COMMITTEE]], [[MCCOLLUM FOR CONGRESS]], [[Jim McGovern]], [[Edward J. Markey]], [[Adam Schiff]], [[DEBBIE WASSERMAN SCHULTZ FOR CONGRESS]], [[Sam T. Liccardo]]"
 ---
 
 

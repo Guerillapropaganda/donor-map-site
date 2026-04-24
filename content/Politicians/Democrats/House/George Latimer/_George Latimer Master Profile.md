@@ -17,25 +17,25 @@ issues:
   - Israel & Foreign Policy
   - Local Government
 related: "[[_Jamaal Bowman Master Profile]] · [[United Democracy Project - UDP]] · [[DMFI - Democratic Majority for Israel]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Fairshake PAC]]"
-donors: "[[Bernie Marcus]] · [[DMFI - Democratic Majority for Israel]] · [[Fairshake PAC]] · [[DMFI PAC]] · [[WORKING FAMILIES PARTY PAC]] · [[JUSTICE DEMOCRATS PAC]] · [[United Democracy Project - UDP]] · [[EMGAGE FEDERAL POLITICAL ACTION COMMITTEE]] · [[Justice Democrats PAC]] · [[Working Families Party PAC]] · [[Emgage Federal Political Action Committee]] · [[American Hospital Association PAC]] · [[NORPAC]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[AT&T - WarnerMedia]] · [[NEA Fund for Children and Public Education]] · [[National Association of Realtors]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[AIPAC - American Israel Public Affairs Committee]] · [[League of Conservation Voters]] · [[Raytheon (RTX)]] · [[Ted Lieu]] · [[Tzedek PAC]] · [[Anthem - Elevance Health]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Pfizer Inc.]] · [[UnitedHealth Group - Optum]] · [[News Corp - Fox Corporation]] · [[Apollo Global Management]] · [[CBRE Group]] · [[Comcast - NBCUniversal]] · [[Verizon]] · [[Citadel - Kenneth Griffin]] · [[BlackRock]] · [[Oracle]] · [[Wells Fargo]] · [[Lockheed Martin]] · [[Meta - Facebook]] · [[Morgan Stanley]] · [[Merck]] · [[Fidelity Investments]] · [[Bank of America]] · [[JPMorgan Chase]] · [[Palantir Technologies]] · [[Goldman Sachs]] · [[Google - Alphabet]] · [[QVT Financial]] · [[Boeing]] · [[DoorDash]] · [[General Motors]] · [[Amazon]] · [[AT&T]] · [[American Federation of State County & Municipal Employees  P E O P L E]]"
+donors: "[[Bernie Marcus]] · [[DMFI - Democratic Majority for Israel]] · [[Fairshake PAC]] · [[DMFI PAC]] · [[WORKING FAMILIES PARTY PAC]] · [[JUSTICE DEMOCRATS PAC]] · [[United Democracy Project - UDP]] · [[EMGAGE FEDERAL POLITICAL ACTION COMMITTEE]] · [[Justice Democrats PAC]] · [[Working Families Party PAC]] · [[Emgage Federal Political Action Committee]] · [[American Hospital Association PAC]] · [[NORPAC]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[AT&T - WarnerMedia]] · [[NEA Fund for Children and Public Education]] · [[National Association of Realtors]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[AIPAC - American Israel Public Affairs Committee]] · [[League of Conservation Voters]] · [[Raytheon (RTX)]] · [[Ted Lieu]] · [[Tzedek PAC]] · [[Anthem - Elevance Health]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Pfizer Inc.]] · [[UnitedHealth Group - Optum]] · [[News Corp - Fox Corporation]] · [[Apollo Global Management]] · [[CBRE Group]] · [[Comcast - NBCUniversal]] · [[Verizon]] · [[Citadel - Kenneth Griffin]] · [[BlackRock]] · [[Oracle]] · [[Wells Fargo]] · [[Lockheed Martin]] · [[Meta - Facebook]] · [[Morgan Stanley]] · [[Merck]] · [[Fidelity Investments]] · [[Bank of America]] · [[JPMorgan Chase]] · [[Palantir Technologies]] · [[Goldman Sachs]] · [[Google - Alphabet]] · [[QVT Financial]] · [[Boeing]] · [[DoorDash]] · [[General Motors]] · [[Amazon]] · [[AT&T]] · [[American Federation of State County & Municipal Employees  P E O P L E]] · [[Raytheon (RTX Corporation)]] · [[National Education Association]] · [[Robin L. Kelly]] · [[Bradley Scott Schneider]] · [[TED LIEU FOR CONGRESS]]"
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
+  - No FEC contribution data
+  - No voting record data
 last-enriched: "2026-04-10"
 total-received: $280,886
 fec-candidate-id: H4NY16087
 urls-first-triaged: "2026-04-15"
 committees:
   - Contracting and Infrastructure
-  - "Economic Growth, Tax, and Capital Access"
+  - Economic Growth, Tax, and Capital Access
   - House Committee on Foreign Affairs
   - House Committee on Small Business
   - Middle East and North Africa
   - South and Central Asia
-total-raised: "$7.1M"
-career-total-source: "FEC weball summary (cycles 2024, 2026)"
+total-raised: $7.1M
+career-total-source: FEC weball summary (cycles 2024, 2026)
 bills-sponsored: 6
 ---
 

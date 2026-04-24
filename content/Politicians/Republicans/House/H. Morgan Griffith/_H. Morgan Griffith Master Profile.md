@@ -1,32 +1,32 @@
 ---
-title: "H. Morgan Griffith"
+title: H. Morgan Griffith
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Virginia"
-state-abbr: "VA"
+party: Republican
+chamber: House
+state: Virginia
+state-abbr: VA
 district: "9"
-bioguide-id: "G000568"
+bioguide-id: G000568
 govtrack-id: 412485
 born: "1958-03-15"
-wikidata-id: "Q1684857"
-website: "https://morgangriffith.house.gov"
-phone: "202-225-3861"
+wikidata-id: Q1684857
+website: https://morgangriffith.house.gov
+phone: 202-225-3861
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 34
 bills-cosponsored: 117
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Communications and Technology
   - Environment
@@ -34,8 +34,9 @@ committees:
   - House Committee on Energy and Commerce
   - House Committee on House Administration
   - House Committee on Rules
-  - "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
+  - House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021
   - Rules and Organization of the House
+top-donors: "[[Williams Companies]], [[Gilead Sciences]], [[Mike Johnson]], [[ISSA FOR CONGRESS]], [[NRA Political Victory Fund]], [[Meta - Facebook]], [[Amgen Inc]], [[Steve Scalise]], [[Southern Company]], [[American College of Radiology Association PAC]], [[National Cattlemen's Beef Association]], [[Koch Industries]], [[JIM JORDAN FOR CONGRESS]], [[Occidental Petroleum]], [[AbbVie]], [[Freedom's Defense Fund]], [[Tyson Foods]], [[Pfizer Inc.]], [[National Right to Life PAC]], [[Tzedek PAC]], [[Associated General Contractors of America Political Action Committee]], [[John Boehner]], [[Humana]], [[BEN CLINE FOR CONGRESS, INC.]], [[Gun Owners of America]], [[SCOTT, TIMOTHY]], [[Google - Alphabet]], [[TEXANS FOR JODEY ARRINGTON]], [[Conservative Leadership PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[Paul Ryan]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[Richard Hudson]], [[Family Research Council Action Political Action Committee]], [[Brett Guthrie]], [[CVS Health - Aetna]], [[Pete Sessions]]"
 ---
 
 

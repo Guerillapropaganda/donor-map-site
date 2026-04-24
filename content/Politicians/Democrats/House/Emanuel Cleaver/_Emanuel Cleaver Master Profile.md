@@ -18,23 +18,23 @@ phone: 202-225-4535
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4MO05234
 bills-sponsored: 31
 bills-cosponsored: 557
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[Google - Alphabet]], [[Pete Aguilar]], [[IBEW - International Brotherhood of Electrical Workers]], [[AT&T - WarnerMedia]], [[National Association of Realtors]], [[Walmart - Walton Family]], [[American Hospital Association PAC]], [[League of Conservation Voters]], [[National Association of Manufacturers]], [[UA Political Action Committee]], [[Citigroup]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[J Street]], [[Medicare for All - The Policy That Broke the Party]], [[SEIU COPE]], [[Teamsters - International Brotherhood of Teamsters]], [[Comcast - NBCUniversal]], [[Ford Motor Company]], [[NEA Fund for Children and Public Education]], [[National Multifamily Housing Council]], [[Bonnie Watson Coleman]], [[Progressive Turnout Project]], [[NextEra Energy]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Planned Parenthood Votes]], [[Honeywell]], [[Sierra Club Independent Action]], [[General Motors]], [[General Dynamics]], [[AIPAC - American Israel Public Affairs Committee]], [[Morgan Stanley]], [[Ted Lieu]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Microsoft]], [[Bank of America]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[AT&T]], [[Honeywell International]]"
-last-enriched: 2026-04-21
+top-donors: "[[Google - Alphabet]], [[Pete Aguilar]], [[IBEW - International Brotherhood of Electrical Workers]], [[AT&T - WarnerMedia]], [[National Association of Realtors]], [[Walmart - Walton Family]], [[American Hospital Association PAC]], [[League of Conservation Voters]], [[National Association of Manufacturers]], [[UA Political Action Committee]], [[Citigroup]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[J Street]], [[Medicare for All - The Policy That Broke the Party]], [[SEIU COPE]], [[Teamsters - International Brotherhood of Teamsters]], [[Comcast - NBCUniversal]], [[Ford Motor Company]], [[NEA Fund for Children and Public Education]], [[National Multifamily Housing Council]], [[Bonnie Watson Coleman]], [[Progressive Turnout Project]], [[NextEra Energy]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Planned Parenthood Votes]], [[Honeywell]], [[Sierra Club Independent Action]], [[General Motors]], [[General Dynamics]], [[AIPAC - American Israel Public Affairs Committee]], [[Morgan Stanley]], [[Ted Lieu]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Microsoft]], [[Bank of America]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[AT&T]], [[Honeywell International]], [[Hakeem Jeffries]], [[CITIZENS FOR WATERS]], [[BONNIE WATSON COLEMAN FOR CONGRESS]], [[DEBBIE WASSERMAN SCHULTZ FOR CONGRESS]], [[National Committee to Preserve Social Security & Medicare PAC]], [[National Education Association]], [[McDonalds Corporation]], [[Al Green]], [[BARBARA LEE FOR CONGRESS]], [[AFL-CIO]], [[National Cattlemen's Beef Association]], [[MEDICARE FOR ALL]], [[PETE AGUILAR FOR CONGRESS]], [[House Majority PAC]], [[NANCY PELOSI FOR CONGRESS]], [[Barack Obama]], [[Nydia Velazquez]], [[Amgen Inc]], [[Monsanto - Bayer]], [[Sierra Club Political Committee]], [[Richard Neal]], [[Henry C. Hank Johnson]], [[Cargill]], [[Yvette D. Clarke]], [[Donald S. Beyer]], [[Pfizer Inc.]], [[Steny H. Hoyer]], [[Gregory Meeks]], [[Frank Pallone]], [[Sanford D. Bishop]], [[LOFGREN FOR CONGRESS]], [[Xavier Becerra]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[MBNA Corporation]], [[Planned Parenthood Action Fund INC]], [[SHERMAN FOR CONGRESS]], [[TED LIEU FOR CONGRESS]], [[DAVID SCOTT FOR CONGRESS]], [[Jerry Nadler]], [[BARRAGAN FOR CONGRESS]], [[Gwen Moore]], [[Meta - Facebook]], [[Robin L. Kelly]], [[Associated General Contractors of America Political Action Committee]], [[GEO Group - Private Prison Industrial Complex]], [[AL GREEN FOR CONGRESS]], [[James E. Clyburn]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Capital Markets
   - House Committee on Financial Services
   - Housing and Insurance
-total-raised: "$12.8M"
-career-total-source: "FEC weball summary (cycles 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+total-raised: $12.8M
+career-total-source: FEC weball summary (cycles 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

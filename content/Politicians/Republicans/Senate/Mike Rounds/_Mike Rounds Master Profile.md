@@ -2,7 +2,7 @@
 title: Mike Rounds
 type: politician
 content-readiness: data-complete
-last-updated: 2026-04-19
+last-updated: 2026-04-19T00:00:00.000Z
 source-tier: 1
 party: Republican
 chamber: Senate
@@ -18,8 +18,8 @@ source-types:
   - Congress
   - FEC
 known-gaps:
-  - "No voting record data"
-  - "No mapped relationships"
+  - No voting record data
+  - No mapped relationships
 central-thesis: "Mike Rounds is the defense appropriations senator who delivers through NDAA insertion: 5 of his 9 enacted bills are NDAA provisions, Armed Forces is his top legislative area, and the full defense contractor slate (Northrop, Lockheed, BAE, L3Harris, Leidos, Raytheon, General Dynamics) funds the Armed Services member. South Dakota adds two layers: the finance industry domiciled there to escape interest rate caps (Citigroup, Morgan Stanley, Bank of America) and the farm economy requiring agricultural subsidies. The STOCK Act trades ($5.7M-$26.4M) are the largest by estimated value in the Republican Senate cohort."
 editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 stock-trades: 9
@@ -29,30 +29,30 @@ bills-sponsored: 54
 bills-cosponsored: 339
 bills-enacted: 9
 top-policy-area: Armed Forces and National Security
-top-donors: "[[WinRed]], [[Northrop Grumman]], [[Morgan Stanley]], [[iHeartMedia]], [[BAE Systems]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Microsoft]], [[L3Harris Technologies]], [[AT&T - WarnerMedia]], [[Walmart - Walton Family]], [[NextEra Energy]], [[National Multifamily Housing Council]], [[American Hospital Association PAC]], [[Republican Jewish Coalition]], [[Common Sense for America PAC]], [[Amgen Inc]], [[Associated General Contractors of America Political Action Committee]], [[Bank of America]], [[Lockheed Martin]], [[Leidos]], [[General Dynamics]], [[Coinbase]], [[Google - Alphabet]], [[Citigroup]], [[NORPAC]], [[Raytheon (RTX)]], [[Comcast - NBCUniversal]], [[National Association of Realtors]], [[AIPAC - American Israel Public Affairs Committee]], [[Duke Energy]], [[National Rifle Association]], [[Chevron]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[American Chemistry Council, INC]], [[NRSC - National Republican Senatorial Committee]], [[AT&T]]"
-last-enriched: 2026-04-20
+top-donors: "[[WinRed]], [[Northrop Grumman]], [[Morgan Stanley]], [[iHeartMedia]], [[BAE Systems]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Microsoft]], [[L3Harris Technologies]], [[AT&T - WarnerMedia]], [[Walmart - Walton Family]], [[NextEra Energy]], [[National Multifamily Housing Council]], [[American Hospital Association PAC]], [[Republican Jewish Coalition]], [[Common Sense for America PAC]], [[Amgen Inc]], [[Associated General Contractors of America Political Action Committee]], [[Bank of America]], [[Lockheed Martin]], [[Leidos]], [[General Dynamics]], [[Coinbase]], [[Google - Alphabet]], [[Citigroup]], [[NORPAC]], [[Raytheon (RTX)]], [[Comcast - NBCUniversal]], [[National Association of Realtors]], [[AIPAC - American Israel Public Affairs Committee]], [[Duke Energy]], [[National Rifle Association]], [[Chevron]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[American Chemistry Council, INC]], [[NRSC - National Republican Senatorial Committee]], [[AT&T]], [[Raytheon (RTX Corporation)]], [[National Republican Senatorial Committee]], [[ROUNDS FOR SENATE]], [[National Association of Manufacturers]], [[National Cattlemen's Beef Association]], [[Patriot Voices PAC]], [[ADM - Archer Daniels Midland]], [[Koch Industries]], [[Cargill]], [[NRA Political Victory Fund]], [[Pfizer Inc.]], [[Southern Company]], [[Akin Gump Strauss Hauer & Feld]], [[Tyson Foods]], [[National Restaurant Association]], [[AbbVie]], [[National Right to Life PAC]], [[Roger Marshall]], [[CoreCivic]], [[American Gaming Association]], [[Meta - Facebook]], [[The Tea Party Leadership Fund]], [[GEO Group - Private Prison Industrial Complex]], [[National Right to Life Victory Fund]], [[Monsanto - Bayer]]"
+last-enriched: 2026-04-20T00:00:00.000Z
 corroboration-count: 2
 committees:
-  - "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies"
+  - Agriculture, Rural Development, Food and Drug Administration, and Related Agencies
   - Commission on Security and Cooperation in Europe
   - Cybersecurity
-  - "Department of Interior, Environment, and Related Agencies"
-  - "Departments of Labor, Health and Human Services, and Education, and Related Agencies"
+  - Department of Interior, Environment, and Related Agencies
+  - Departments of Labor, Health and Human Services, and Education, and Related Agencies
   - Economic Policy
   - Emerging Threats and Capabilities
   - Energy and Water Development
-  - "Housing, Transportation, and Community Development"
+  - Housing, Transportation, and Community Development
   - Legislative Branch
-  - "Military Construction, Veterans Affairs, and Related Agencies"
-  - "Securities, Insurance, and Investment"
+  - Military Construction, Veterans Affairs, and Related Agencies
+  - Securities, Insurance, and Investment
   - Senate Committee on Appropriations
   - Senate Committee on Armed Services
-  - "Senate Committee on Banking, Housing, and Urban Affairs"
+  - Senate Committee on Banking, Housing, and Urban Affairs
   - Senate Committee on Indian Affairs
   - Senate Select Committee on Intelligence
   - Strategic Forces
-total-raised: "$13.9M"
-career-total-source: "FEC weball summary (cycles 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+total-raised: $13.9M
+career-total-source: FEC weball summary (cycles 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

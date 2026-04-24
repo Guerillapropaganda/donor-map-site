@@ -10,7 +10,7 @@ last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-ie-support: $5,000
 fec-ie-oppose: null
-politicians-funded: "[[Tammy Baldwin]], [[Mark Kelly]], [[Raphael Warnock]], [[Catherine Cortez Masto]], [[Sharice Davids]], [[Lauren Underwood]], [[Jason Crow]], [[Marcy Kaptur]], [[Sherrod Brown]], [[Chrissy Houlahan]], [[Peter Welch]], [[Elissa Slotkin]], [[Vicente Gonzalez]], [[Patty Murray]], [[Kamala Harris]]"
+politicians-funded: "[[Tammy Baldwin]], [[Mark Kelly]], [[Raphael Warnock]], [[Catherine Cortez Masto]], [[Sharice Davids]], [[Lauren Underwood]], [[Jason Crow]], [[Marcy Kaptur]], [[Sherrod Brown]], [[Chrissy Houlahan]], [[Peter Welch]], [[Elissa Slotkin]], [[Vicente Gonzalez]], [[Patty Murray]], [[Kamala Harris]], [[THE DOVER GROUP]], [[ROSENDAHL, RAYMOND]], [[RUN THE WORLD]], [[GRAYS CONSULTING]], [[Melanie A. Stansbury]], [[Joe Biden]], [[Angie Craig]], [[Gary Peters]], [[Hillary J. Scholten]], [[Emilia Strong Sykes]], [[Michael Bennet]], [[Jon Ossoff]], [[Gabe Vasquez]], [[Margaret Wood Hassan]]"
 related: "[[Tammy Baldwin]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -22,8 +22,8 @@ cash-on-hand: 79700
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

@@ -1,37 +1,38 @@
 ---
-title: "Yvette D. Clarke"
+title: Yvette D. Clarke
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "New York"
-state-abbr: "NY"
+party: Democrat
+chamber: House
+state: New York
+state-abbr: NY
 district: "9"
-bioguide-id: "C001067"
+bioguide-id: C001067
 govtrack-id: 412221
 born: "1964-11-21"
-wikidata-id: "Q461679"
-website: "https://clarke.house.gov"
-phone: "202-225-6231"
+wikidata-id: Q461679
+website: https://clarke.house.gov
+phone: 202-225-6231
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 27
 bills-cosponsored: 684
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Commerce, Manufacturing, and Trade"
+  - Commerce, Manufacturing, and Trade
   - Communications and Technology
   - House Committee on Energy and Commerce
   - Oversight and Investigations
+top-donors: "[[Amgen Inc]], [[Nydia Velazquez]], [[Pfizer Inc.]], [[National Committee to Preserve Social Security & Medicare PAC]], [[NANCY PELOSI FOR CONGRESS]], [[Planned Parenthood Action Fund INC]], [[AbbVie]], [[National Education Association]], [[J Street]], [[Sierra Club Political Committee]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[McDonalds Corporation]], [[AFL-CIO]], [[Google - Alphabet]], [[CVS Health - Aetna]], [[League of Conservation Voters]], [[Jerry Nadler]], [[Southern Company]], [[Williams Companies]], [[Hakeem Jeffries]], [[Meta - Facebook]], [[American College of Radiology Association PAC]], [[Voter Protection Project]], [[PAUL TONKO FOR CONGRESS]], [[Marc A. Veasey]], [[Richard Neal]], [[Henry Cuellar]], [[Gilead Sciences]], [[MEDICARE FOR ALL]], [[Xavier Becerra]], [[LOFGREN FOR CONGRESS]], [[TED LIEU FOR CONGRESS]], [[BONNIE WATSON COLEMAN FOR CONGRESS]], [[James E. Clyburn]], [[Akin Gump Strauss Hauer & Feld]], [[BARBARA LEE FOR CONGRESS]], [[AIPAC - American Israel Public Affairs Committee]], [[Frank Pallone]], [[Let America Vote PAC]], [[Donald S. Beyer]], [[Sinclair Broadcast Group]], [[KATHERINE CLARK FOR CONGRESS]], [[JUDY CHU FOR CONGRESS]], [[MARCIA FUDGE FOR CONGRESS]], [[Tyson Foods]], [[National Nurses United]], [[DoorDash]]"
 ---
 
 

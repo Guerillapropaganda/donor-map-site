@@ -18,17 +18,17 @@ phone: 202-225-3236
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2TX35011
 bills-sponsored: 34
 bills-cosponsored: 290
 bills-enacted: 5
 top-policy-area: International Affairs
-top-donors: "[[Sierra Club Political Committee]], [[VOTER PROTECTION PROJECT]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Multifamily Housing Council]], [[IBEW - International Brotherhood of Electrical Workers]], [[Nancy Pelosi]], [[SEIU COPE]], [[NEA Fund for Children and Public Education]], [[Teamsters - International Brotherhood of Teamsters]], [[Everytown for Gun Safety]], [[UA Political Action Committee]], [[J Street]], [[Walmart - Walton Family]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Planned Parenthood Votes]], [[National Association of Realtors]], [[AT&T - WarnerMedia]], [[League of Conservation Voters]], [[Microsoft]], [[Google - Alphabet]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Sierra Club Independent Action]], [[Demand Justice]], [[Human Rights Campaign Equality Votes]], [[Let America Vote PAC]], [[Voter Protection Project]], [[AT&T]], [[American Federation of State County & Municipal Employees  P E O P L E]]"
-last-enriched: 2026-04-21
+top-donors: "[[Sierra Club Political Committee]], [[VOTER PROTECTION PROJECT]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Multifamily Housing Council]], [[IBEW - International Brotherhood of Electrical Workers]], [[Nancy Pelosi]], [[SEIU COPE]], [[NEA Fund for Children and Public Education]], [[Teamsters - International Brotherhood of Teamsters]], [[Everytown for Gun Safety]], [[UA Political Action Committee]], [[J Street]], [[Walmart - Walton Family]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Planned Parenthood Votes]], [[National Association of Realtors]], [[AT&T - WarnerMedia]], [[League of Conservation Voters]], [[Microsoft]], [[Google - Alphabet]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Sierra Club Independent Action]], [[Demand Justice]], [[Human Rights Campaign Equality Votes]], [[Let America Vote PAC]], [[Voter Protection Project]], [[AT&T]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Planned Parenthood Action Fund INC]], [[Pfizer Inc.]], [[Julian Castro]], [[Steny H. Hoyer]], [[National Restaurant Association]], [[Amgen Inc]], [[Marcy Kaptur]], [[Humana]], [[Tyson Foods]], [[National Education Association]], [[Southern Company]], [[Hakeem Jeffries]], [[Associated General Contractors of America Political Action Committee]], [[NANCY PELOSI FOR CONGRESS]], [[Eric Swalwell]], [[VICENTE GONZALEZ FOR CONGRESS]], [[Meta - Facebook]], [[AFL-CIO]], [[Henry Cuellar]], [[Frank Pallone]], [[Richard Neal]], [[BARRAGAN FOR CONGRESS]], [[McDonalds Corporation]], [[Akin Gump Strauss Hauer & Feld]], [[National Committee to Preserve Social Security & Medicare PAC]], [[James E. Clyburn]], [[DEBBIE WASSERMAN SCHULTZ FOR CONGRESS]], [[Indivisible Action]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Central Intelligence Agency
   - East Asia and Pacific
@@ -37,8 +37,8 @@ committees:
   - National Security Agency and Cyber
   - Oversight and Investigations
   - Western Hemisphere
-total-raised: "$7.4M"
-career-total-source: "FEC weball summary (cycles 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+total-raised: $7.4M
+career-total-source: FEC weball summary (cycles 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

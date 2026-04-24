@@ -7,11 +7,11 @@ entity-type: Super PAC
 committee-type: Super PAC (Independent Expenditure-Only)
 committee-id: C00876482
 fec-url: https://www.fec.gov/data/committee/C00876482/
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-ie-support: $15,753,725
 fec-ie-oppose: $13,725,456
-politicians-funded: "[[Deb Fischer]], [[Dan Osborn]]"
+politicians-funded: "[[Deb Fischer]], [[Dan Osborn]], [[MBA CONSULTING GROUP]], [[PAC SERVICES LLC]], [[GLOBAL STRATEGY GROUP]], [[C110 PARTNERSHIP, LLC]], [[GODFREY & KHAN]], [[Change Now]], [[THE ADRIEL HAMPTON GROUP, LTD]], [[Robert F. Kennedy Jr]]"
 related: "[[Deb Fischer]] · [[Dan Osborn]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -23,8 +23,8 @@ cash-on-hand: 279081
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

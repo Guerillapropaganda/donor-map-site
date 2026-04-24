@@ -27,25 +27,25 @@ source-types:
   - GovTrack
 corroboration-count: 2
 known-gaps:
-  - "No FEC contribution data"
+  - No FEC contribution data
 opposes: "[[SENATE LEADERSHIP FUND]] · [[AMERICAN CROSSROADS]] · [[NRSC]] · [[MAKE AMERICA GREAT AGAIN INC.]]"
 related: "[[AIPAC - American Israel Public Affairs Committee|AIPAC - American Israel Public Affairs Committee]] · [[Fossil Fuel Bloc]] · [[_Kamala Harris Master Profile]] · [[_Joe Manchin Master Profile]] · [[_Bernie Sanders Master Profile]] · [[Jewish Democratic Council of America]] · [[DMFI - Democratic Majority for Israel]] · [[Priorities USA Action]]"
-donors: "[[Devon Energy]] · [[AIPAC - American Israel Public Affairs Committee]] · [[PRIORITIES USA ACTION]] · [[AMERICAN CROSSROADS]] · [[American Crossroads]] · [[National Nurses United]] · [[Tzedek PAC]] · [[WinSenate]] · [[Fairshake PAC]] · [[Indivisible Action]] · [[SEIU COPE]] · [[National Education Association]] · [[League of Conservation Voters]] · [[Humane Society Legislative Fund]] · [[American Conservative Union]] · [[NEW PROSPERITY FOUNDATION; THE]] · [[Progressive Turnout Project]] · [[AFL-CIO]] · [[Women Speak Out Pac]] · [[Everytown for Gun Safety]] · [[Unite Here Tip Campaign Committee]] · [[MoveOn.org Political Action]] · [[MAGA Inc]] · [[Pennsylvania Pro-Life Federation PAC]] · [[DSCC - Democratic Senatorial Campaign Committee]] · [[Chrissy Houlahan]] · [[UA Political Action Committee]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[Law Enforcement for a Safer America Pac]] · [[Planned Parenthood Votes]] · [[AFSCME Working Families Fund]] · [[ENVIRONMENT AMERICA INC]] · [[Human Rights Campaign Equality Votes]] · [[Giffords PAC]] · [[J Street]] · [[SLF PAC]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[Food and Water Action]] · [[NORPAC]] · [[Votevets]] · [[NEA Fund for Children and Public Education]] · [[National Right to Life Victory Fund]] · [[Commonwealth Communications]] · [[CHC BOLD PAC]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Sierra Club Political Committee]] · [[National Nurses United for Patient Protection]] · [[Medicare for All - The Policy That Broke the Party]] · [[Activate America]] · [[DMFI - Democratic Majority for Israel]] · [[Restoration PAC]] · [[Everytown for Gun Safety Victory Fund]] · [[Americans for Prosperity]] · [[Let America Vote PAC]] · [[International Brotherhood of Electrical Workers Local 98 Committee on Political Education]] · [[Working Families Party PAC]] · [[Americas Pac]] · [[Senate Conservatives Fund]] · [[Sierra Club Independent Action]] · [[NRSC - National Republican Senatorial Committee]] · [[Planned Parenthood Action Fund INC]] · [[Priorities USA Action]] · [[New Prosperity Foundation; the]] · [[Environment America INC]] · [[American Federation of State County & Municipal Employees  P E O P L E]]"
+donors: "[[Devon Energy]] · [[AIPAC - American Israel Public Affairs Committee]] · [[PRIORITIES USA ACTION]] · [[AMERICAN CROSSROADS]] · [[American Crossroads]] · [[National Nurses United]] · [[Tzedek PAC]] · [[WinSenate]] · [[Fairshake PAC]] · [[Indivisible Action]] · [[SEIU COPE]] · [[National Education Association]] · [[League of Conservation Voters]] · [[Humane Society Legislative Fund]] · [[American Conservative Union]] · [[NEW PROSPERITY FOUNDATION; THE]] · [[Progressive Turnout Project]] · [[AFL-CIO]] · [[Women Speak Out Pac]] · [[Everytown for Gun Safety]] · [[Unite Here Tip Campaign Committee]] · [[MoveOn.org Political Action]] · [[MAGA Inc]] · [[Pennsylvania Pro-Life Federation PAC]] · [[DSCC - Democratic Senatorial Campaign Committee]] · [[Chrissy Houlahan]] · [[UA Political Action Committee]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[Law Enforcement for a Safer America Pac]] · [[Planned Parenthood Votes]] · [[AFSCME Working Families Fund]] · [[ENVIRONMENT AMERICA INC]] · [[Human Rights Campaign Equality Votes]] · [[Giffords PAC]] · [[J Street]] · [[SLF PAC]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[Food and Water Action]] · [[NORPAC]] · [[Votevets]] · [[NEA Fund for Children and Public Education]] · [[National Right to Life Victory Fund]] · [[Commonwealth Communications]] · [[CHC BOLD PAC]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Sierra Club Political Committee]] · [[National Nurses United for Patient Protection]] · [[Medicare for All - The Policy That Broke the Party]] · [[Activate America]] · [[DMFI - Democratic Majority for Israel]] · [[Restoration PAC]] · [[Everytown for Gun Safety Victory Fund]] · [[Americans for Prosperity]] · [[Let America Vote PAC]] · [[International Brotherhood of Electrical Workers Local 98 Committee on Political Education]] · [[Working Families Party PAC]] · [[Americas Pac]] · [[Senate Conservatives Fund]] · [[Sierra Club Independent Action]] · [[NRSC - National Republican Senatorial Committee]] · [[Planned Parenthood Action Fund INC]] · [[Priorities USA Action]] · [[New Prosperity Foundation; the]] · [[Environment America INC]] · [[American Federation of State County & Municipal Employees  P E O P L E]] · [[LOFGREN FOR CONGRESS]] · [[Democratic Senatorial Campaign Committee]] · [[MEDICARE FOR ALL]] · [[CHRISSY HOULAHAN FOR CONGRESS]] · [[FRIENDS OF MARIA]]"
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-20
+last-enriched: 2026-04-20T00:00:00.000Z
 committees:
-  - "Aviation, Space, and Innovation"
-  - "Border Management, Federal Workforce, and Regulatory Affairs"
+  - Aviation, Space, and Innovation
+  - Border Management, Federal Workforce, and Regulatory Affairs
   - Commission on Security and Cooperation in Europe
-  - "Commodities, Derivatives, Risk Management, and Trade"
-  - "Food and Nutrition, Specialty Crops, Organics, and Research"
+  - Commodities, Derivatives, Risk Management, and Trade
+  - Food and Nutrition, Specialty Crops, Organics, and Research
   - Permanent Subcommittee on Investigations
-  - "Senate Committee on Agriculture, Nutrition, and Forestry"
-  - "Senate Committee on Commerce, Science, and Transportation"
+  - Senate Committee on Agriculture, Nutrition, and Forestry
+  - Senate Committee on Commerce, Science, and Transportation
   - Senate Committee on Homeland Security and Governmental Affairs
   - Telecommunications and Media
-total-raised: "$86.5M"
-career-total-source: "FEC weball summary (cycles 2016, 2022, 2024, 2026)"
+total-raised: $86.5M
+career-total-source: FEC weball summary (cycles 2016, 2022, 2024, 2026)
 ---
 
 

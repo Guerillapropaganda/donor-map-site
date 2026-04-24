@@ -18,27 +18,27 @@ phone: 202-225-2715
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-donors: "[[Western Growers Association]] · [[National Cattlemen's Beef Association]] · [[Pfizer Inc.]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Chevron]] · [[Bank of America]] · [[Jason Smith]] · [[National Association of Realtors]] · [[National Multifamily Housing Council]] · [[General Dynamics]] · [[American Hospital Association PAC]] · [[Walmart - Walton Family]] · [[WinRed]] · [[Associated General Contractors of America Political Action Committee]] · [[AT&T - WarnerMedia]] · [[Tyson Foods]] · [[David Rouzer]] · [[ADM - Archer Daniels Midland]] · [[CoreCivic - Private Prisons]] · [[McDonalds Corporation]] · [[Marathon Petroleum]] · [[National Restaurant Association]] · [[National Rifle Association]] · [[General Motors]] · [[Byron Donalds]] · [[Kansans for Life Political Action Committee]] · [[Austin Scott]] · [[Jim Jordan]] · [[Honeywell]] · [[Save America PAC]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[AT&T]] · [[Honeywell International]]"
+  - No FEC contribution data
+  - No voting record data
+donors: "[[Western Growers Association]] · [[National Cattlemen's Beef Association]] · [[Pfizer Inc.]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Chevron]] · [[Bank of America]] · [[Jason Smith]] · [[National Association of Realtors]] · [[National Multifamily Housing Council]] · [[General Dynamics]] · [[American Hospital Association PAC]] · [[Walmart - Walton Family]] · [[WinRed]] · [[Associated General Contractors of America Political Action Committee]] · [[AT&T - WarnerMedia]] · [[Tyson Foods]] · [[David Rouzer]] · [[ADM - Archer Daniels Midland]] · [[CoreCivic - Private Prisons]] · [[McDonalds Corporation]] · [[Marathon Petroleum]] · [[National Restaurant Association]] · [[National Rifle Association]] · [[General Motors]] · [[Byron Donalds]] · [[Kansans for Life Political Action Committee]] · [[Austin Scott]] · [[Jim Jordan]] · [[Honeywell]] · [[Save America PAC]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[AT&T]] · [[Honeywell International]] · [[CoreCivic]] · [[AUSTIN SCOTT FOR CONGRESS INC]] · [[Koch Industries]] · [[Cargill]] · [[DAVID ROUZER FOR CONGRESS]] · [[JASON SMITH FOR CONGRESS]] · [[TEXANS FOR JODEY ARRINGTON]] · [[Darin Lahood]] · [[NRA Political Victory Fund]] · [[ROBERT ADERHOLT FOR CONGRESS]] · [[Kevin McCarthy]] · [[National Right to Life Victory Fund]] · [[Southern Company]] · [[BYRON DONALDS FOR CONGRESS]] · [[Steve Scalise]] · [[ADRIAN SMITH FOR CONGRESS]] · [[JIM JORDAN FOR CONGRESS]] · [[Roger Marshall]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H0KS01123
 bills-sponsored: 23
 bills-cosponsored: 417
 bills-enacted: 0
 top-policy-area: Health
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Aviation
-  - "Commodity Markets, Digital Assets, and Rural Development"
+  - Commodity Markets, Digital Assets, and Rural Development
   - House Committee on Agriculture
   - House Committee on Transportation and Infrastructure
-  - "Livestock, Dairy, and Poultry"
+  - Livestock, Dairy, and Poultry
   - Nutrition and Foreign Agriculture
-  - "Railroads, Pipelines, and Hazardous Materials"
+  - Railroads, Pipelines, and Hazardous Materials
   - Water Resources and Environment
-total-raised: "$6.3M"
-career-total-source: "FEC weball summary (cycles 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+total-raised: $6.3M
+career-total-source: FEC weball summary (cycles 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

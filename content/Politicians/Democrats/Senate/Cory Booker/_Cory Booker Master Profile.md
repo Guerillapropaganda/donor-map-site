@@ -47,7 +47,7 @@ bills-cosponsored: 4125
 website: https://www.booker.senate.gov
 phone: 202-224-3224
 related: "[[PhRMA Kills Drug Negotiation From Both Sides]] · [[Joe Biden Master Profile]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[PhRMA]] · [[Pfizer]] · [[Merck]] · [[Johnson & Johnson]] · [[Silicon Valley Democratic Donor Network]] · [[Mark Zuckerberg]] · [[Pharmaceutical Industry Bloc]] · [[Wall Street Finance Networks]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Elizabeth Warren Master Profile]] · [[AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else]] · [[Goldman Sachs Funds Both Sides of Financial Regulation]] · [[Dream Defenders Fight Pac]]"
-donors: "[[JB Pritzker]] · [[Mark Zuckerberg]] · [[Silicon Valley Democratic Donor Network]] · [[Johnson & Johnson]] · [[JPMorgan Chase]] · [[Goldman Sachs]] · [[Independence Usa Pac]] · [[Merck]] · [[THE MOBILIZATION PROJECT]] · [[UNITED WE WIN SUPER PAC]] · [[DREAM UNITED]] · [[POWERPACPLUS]] · [[Powerpacplus]] · [[United We Win Super PAC]] · [[Dream United]] · [[American Principles Fund]] · [[The Mobilization Project]] · [[American Commitment Action Fund]] · [[PhRMA]] · [[Pfizer]] · [[JB Pritzker - Donor Network]] · [[JB Pritzker (Donor Network)]] · [[Dream Defenders Fight Pac]] · [[NEA Fund for Children and Public Education]] · [[Sierra Club Independent Action]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Planned Parenthood Votes]] · [[League of Conservation Voters]] · [[NORPAC]] · [[AIPAC - American Israel Public Affairs Committee]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[UA Political Action Committee]] · [[SEIU COPE]] · [[Tzedek PAC]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Comcast - NBCUniversal]] · [[Nvidia]] · [[AbbVie]] · [[iHeartMedia]] · [[Walmart]] · [[Morgan Stanley]] · [[Starbucks]] · [[Gates Foundation]] · [[Microsoft]] · [[Verizon]] · [[Coinbase]] · [[BlackRock]] · [[Revere America]] · [[Raytheon (RTX Corporation)]] · [[Boeing]] · [[Kaiser Permanente]] · [[ActBlue]] · [[Novo Nordisk]] · [[Blackstone Group]] · [[UnitedHealth Group - Optum]] · [[Tyson Foods]] · [[Booz Allen Hamilton]] · [[Wells Fargo]] · [[Amgen Inc]] · [[a16z - Andreessen Horowitz]] · [[PG&E]] · [[Google - Alphabet]] · [[Oracle]] · [[AT&T]] · [[Apollo Global Management]] · [[Lockheed Martin]] · [[Pfizer Inc.]] · [[CBRE Group]] · [[Northrop Grumman]] · [[Ripple]] · [[DNC - Democratic National Committee]] · [[Centene Corporation]] · [[Cigna Group]] · [[Walt Disney Company]] · [[General Motors]] · [[Citadel - Kenneth Griffin]] · [[BAE Systems]] · [[UPS]] · [[Anthem - Elevance Health Political Operation]] · [[Citigroup]] · [[Amazon]] · [[Apple]] · [[Meta - Facebook]] · [[OpenAI]] · [[Humana]] · [[Center for American Progress]] · [[Bank of America]] · [[Elliott Management]] · [[FTX - Sam Bankman-Fried]] · [[Ford Motor Company]] · [[Fidelity Investments]] · [[ADM - Archer Daniels Midland]] · [[Lyft]] · [[American Federation of State County & Municipal Employees  P E O P L E]]"
+donors: "[[JB Pritzker]] · [[Mark Zuckerberg]] · [[Silicon Valley Democratic Donor Network]] · [[Johnson & Johnson]] · [[JPMorgan Chase]] · [[Goldman Sachs]] · [[Independence Usa Pac]] · [[Merck]] · [[THE MOBILIZATION PROJECT]] · [[UNITED WE WIN SUPER PAC]] · [[DREAM UNITED]] · [[POWERPACPLUS]] · [[Powerpacplus]] · [[United We Win Super PAC]] · [[Dream United]] · [[American Principles Fund]] · [[The Mobilization Project]] · [[American Commitment Action Fund]] · [[PhRMA]] · [[Pfizer]] · [[JB Pritzker - Donor Network]] · [[JB Pritzker (Donor Network)]] · [[Dream Defenders Fight Pac]] · [[NEA Fund for Children and Public Education]] · [[Sierra Club Independent Action]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Planned Parenthood Votes]] · [[League of Conservation Voters]] · [[NORPAC]] · [[AIPAC - American Israel Public Affairs Committee]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[UA Political Action Committee]] · [[SEIU COPE]] · [[Tzedek PAC]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Comcast - NBCUniversal]] · [[Nvidia]] · [[AbbVie]] · [[iHeartMedia]] · [[Walmart]] · [[Morgan Stanley]] · [[Starbucks]] · [[Gates Foundation]] · [[Microsoft]] · [[Verizon]] · [[Coinbase]] · [[BlackRock]] · [[Revere America]] · [[Raytheon (RTX Corporation)]] · [[Boeing]] · [[Kaiser Permanente]] · [[ActBlue]] · [[Novo Nordisk]] · [[Blackstone Group]] · [[UnitedHealth Group - Optum]] · [[Tyson Foods]] · [[Booz Allen Hamilton]] · [[Wells Fargo]] · [[Amgen Inc]] · [[a16z - Andreessen Horowitz]] · [[PG&E]] · [[Google - Alphabet]] · [[Oracle]] · [[AT&T]] · [[Apollo Global Management]] · [[Lockheed Martin]] · [[Pfizer Inc.]] · [[CBRE Group]] · [[Northrop Grumman]] · [[Ripple]] · [[DNC - Democratic National Committee]] · [[Centene Corporation]] · [[Cigna Group]] · [[Walt Disney Company]] · [[General Motors]] · [[Citadel - Kenneth Griffin]] · [[BAE Systems]] · [[UPS]] · [[Anthem - Elevance Health Political Operation]] · [[Citigroup]] · [[Amazon]] · [[Apple]] · [[Meta - Facebook]] · [[OpenAI]] · [[Humana]] · [[Center for American Progress]] · [[Bank of America]] · [[Elliott Management]] · [[FTX - Sam Bankman-Fried]] · [[Ford Motor Company]] · [[Fidelity Investments]] · [[ADM - Archer Daniels Midland]] · [[Lyft]] · [[American Federation of State County & Municipal Employees  P E O P L E]] · [[Let America Vote PAC]] · [[MENENDEZ FOR CONGRESS]] · [[Planned Parenthood Action Fund INC]] · [[Giffords PAC]] · [[WARREN FOR SENATE, INC.]] · [[National Education Association]] · [[DONALD NORCROSS FOR CONGRESS]] · [[Southern Company]] · [[Environment America INC]] · [[Sierra Club Political Committee]] · [[Care Action]] · [[Angus S. King]] · [[National Restaurant Association]] · [[Akin Gump Strauss Hauer & Feld]] · [[AFL-CIO]] · [[John Fetterman]] · [[FRIENDS OF MARIA]]"
 total-received: $30,106,071
 fec-candidate-id: S4NJ00185
 internal-notes: |-
@@ -66,24 +66,24 @@ source-types:
   - GovTrack
 corroboration-count: 2
 known-gaps:
-  - "No FEC contribution data"
+  - No FEC contribution data
 committees:
   - Africa and Global Health Policy
-  - "Antitrust, Competition Policy, and Consumer Rights"
+  - Antitrust, Competition Policy, and Consumer Rights
   - Border Security and Immigration
-  - "Commodities, Derivatives, Risk Management, and Trade"
+  - Commodities, Derivatives, Risk Management, and Trade
   - Crime and Counterterrorism
   - Europe and Regional Security Cooperation
-  - "Food and Nutrition, Specialty Crops, Organics, and Research"
-  - "Livestock, Dairy, Poultry, and Food Safety"
-  - "Near East, South Asia, Central Asia, and Counterterrorism"
-  - "Senate Committee on Agriculture, Nutrition, and Forestry"
+  - Food and Nutrition, Specialty Crops, Organics, and Research
+  - Livestock, Dairy, Poultry, and Food Safety
+  - Near East, South Asia, Central Asia, and Counterterrorism
+  - Senate Committee on Agriculture, Nutrition, and Forestry
   - Senate Committee on Foreign Relations
   - Senate Committee on Small Business and Entrepreneurship
   - Senate Committee on the Judiciary
   - the Constitution
-total-raised: "$66.4M"
-career-total-source: "FEC weball summary (cycles 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+total-raised: $66.4M
+career-total-source: FEC weball summary (cycles 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

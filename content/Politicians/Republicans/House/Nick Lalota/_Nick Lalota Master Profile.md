@@ -1,40 +1,41 @@
 ---
-title: "Nick Lalota"
+title: Nick Lalota
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "New York"
-state-abbr: "NY"
+party: Republican
+chamber: House
+state: New York
+state-abbr: NY
 district: "1"
-bioguide-id: "L000598"
+bioguide-id: L000598
 govtrack-id: 456920
 born: "1978-06-23"
-wikidata-id: "Q115168182"
-website: "https://lalota.house.gov"
-phone: "202-225-3826"
+wikidata-id: Q115168182
+website: https://lalota.house.gov
+phone: 202-225-3826
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 30
 bills-cosponsored: 364
 bills-enacted: 1
-top-policy-area: "International Affairs"
-last-enriched: 2026-04-21
+top-policy-area: International Affairs
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Contracting and Infrastructure
-  - "Economic Growth, Tax, and Capital Access"
+  - Economic Growth, Tax, and Capital Access
   - Financial Services and General Government
   - House Committee on Appropriations
   - House Committee on Small Business
   - Legislative Branch
-  - "Military Construction, Veterans Affairs, and Related Agencies"
+  - Military Construction, Veterans Affairs, and Related Agencies
+top-donors: "[[Steve Scalise]], [[DR. BRIAN BABIN FOR CONGRESS]], [[Kevin McCarthy]], [[Google - Alphabet]], [[RICK W. ALLEN FOR CONGRESS]], [[CARLOS GIMENEZ FOR CONGRESS]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Robert E. Latta]], [[FRY FOR CONGRESS]], [[J. French Hill]], [[Randy Feenstra]], [[Elise Stefanik]], [[JIM JORDAN FOR CONGRESS]], [[HOUCHIN FOR CONGRESS]], [[TEXANS FOR JODEY ARRINGTON]], [[Robert F. Onder]], [[LOUDERMILK FOR CONGRESS]], [[JOHN CURTIS FOR UTAH]], [[CLAUDIA TENNEY FOR CONGRESS]], [[BURCHETT FOR CONGRESS]], [[BYRON DONALDS FOR CONGRESS]], [[Koch Industries]], [[David P. Joyce]], [[ROBERT ADERHOLT FOR CONGRESS]], [[Richard McCormick]], [[WEBER FOR CONGRESS]], [[National Restaurant Association]], [[BRAD KNOTT FOR CONGRESS]], [[Rick Crawford]], [[BURGESS 4 UTAH]], [[PETE SESSIONS FOR CONGRESS]], [[Earl L. Buddy Carter]], [[With Honor Fund]], [[MICHAEL WALTZ FOR CONGRESS]], [[LISA MCCLAIN FOR CONGRESS]], [[Nicholas A. Langworthy]], [[AIPAC - American Israel Public Affairs Committee]], [[Richard Hudson]], [[NRA Political Victory Fund]], [[AUGUST PFLUGER FOR CONGRESS]], [[RON ESTES FOR CONGRESS]], [[Mike Johnson]], [[MAST FOR CONGRESS]], [[Associated General Contractors of America Political Action Committee]], [[Guy Reschenthaler]], [[JAKE ELLZEY FOR CONGRESS]], [[ADRIAN SMITH FOR CONGRESS]], [[Dan Newhouse]], [[ANDY HARRIS FOR CONGRESS]], [[Glenn Thompson]], [[AFL-CIO]], [[Michael R. Turner]], [[Clay Higgins]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[DAVID ROUZER FOR CONGRESS]], [[JASON SMITH FOR CONGRESS]], [[Tom Emmer]], [[CRENSHAW, DANIEL]], [[JOE WILSON FOR CONGRESS]], [[CVS Health - Aetna]], [[Leidos]], [[Ronny Jackson]], [[Special Operations for America]], [[Freedom's Defense Fund]], [[National Right to Life Victory Fund]], [[Daniel Meuser]], [[KEVIN KILEY FOR CONGRESS]], [[Gregory F. Murphy]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[Mark E. Amodei]], [[COMER FOR CONGRESS]], [[DIANA FOR CONGRESS]], [[HAGEMAN FOR WYOMING]], [[National Cattlemen's Beef Association]], [[Tzedek PAC]], [[Carol D. Miller]], [[Tim Walberg]], [[Republican Jewish Coalition]], [[BOST, MICHAEL]], [[SCOTT FRANKLIN FOR CONGRESS]], [[Lloyd Smucker]], [[Mariannette Miller-Meeks]], [[AbbVie]], [[BLAKE MOORE FOR CONGRESS]]"
 ---
 
 

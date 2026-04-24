@@ -1,41 +1,42 @@
 ---
-title: "Hillary J. Scholten"
+title: Hillary J. Scholten
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Michigan"
-state-abbr: "MI"
+party: Democrat
+chamber: House
+state: Michigan
+state-abbr: MI
 district: "3"
-bioguide-id: "S001221"
+bioguide-id: S001221
 govtrack-id: 456906
 born: "1982-02-22"
-wikidata-id: "Q115137368"
-website: "https://scholten.house.gov"
-phone: "202-225-3831"
+wikidata-id: Q115137368
+website: https://scholten.house.gov
+phone: 202-225-3831
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 10
 bills-cosponsored: 345
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Aviation
   - Coast Guard and Maritime Transportation
   - Contracting and Infrastructure
   - House Committee on Small Business
   - House Committee on Transportation and Infrastructure
-  - "Innovation, Entrepreneurship, and Workforce Development"
-  - "Rural Development, Energy, and Supply Chains"
+  - Innovation, Entrepreneurship, and Workforce Development
+  - Rural Development, Energy, and Supply Chains
   - Water Resources and Environment
+top-donors: "[[HALEY STEVENS FOR CONGRESS]], [[GRACE FOR NEW YORK]], [[JUDY CHU FOR CONGRESS]], [[Humana]], [[Richard Neal]], [[MORGAN MCGARVEY FOR CONGRESS]], [[STRICKLAND FOR WASHINGTON]], [[Maxwell Frost]], [[League of Conservation Voters]], [[Gerry Connolly]], [[J Street]], [[Hakeem Jeffries]], [[Kim Schrier]], [[Planned Parenthood Action Fund INC]], [[VERONICA ESCOBAR FOR CONGRESS]], [[TED LIEU FOR CONGRESS]], [[Rosa DeLauro]], [[MARK TAKANO FOR CONGRESS]], [[Emanuel Cleaver]], [[Lizzie Fletcher]], [[Donald S. Beyer]], [[DEBBIE DINGELL FOR CONGRESS]], [[PAUL TONKO FOR CONGRESS]], [[Glenn Ivey]], [[BILL FOSTER FOR CONGRESS]], [[JULIA BROWNLEY FOR CONGRESS]], [[JOE NEGUSE FOR CONGRESS]], [[NANCY PELOSI FOR CONGRESS]], [[SHERMAN FOR CONGRESS]], [[DEBORAH ROSS FOR CONGRESS]], [[Dina Titus]], [[Let America Vote PAC]], [[Adam Schiff]], [[National Restaurant Association]], [[American College of Radiology Association PAC]], [[PETE AGUILAR FOR CONGRESS]], [[LORI TRAHAN FOR CONGRESS COMMITTEE]], [[Sierra Club Political Committee]], [[James E. Clyburn]], [[Jill N. Tokuda]], [[MAD 4 PA PAC]], [[Emgage Federal Political Action Committee]], [[CVS Health - Aetna]], [[SCOTT PETERS FOR CONGRESS]], [[National Education Association]], [[SHRI FOR CONGRESS]], [[Chellie Pingree]], [[McDonalds Corporation]], [[DEB HAALAND FOR CONGRESS]], [[COMMITTEE TO ELECT JARED GOLDEN]], [[AIPAC - American Israel Public Affairs Committee]], [[Protect the Vote]], [[KATHERINE CLARK FOR CONGRESS]], [[HIMES FOR CONGRESS]], [[Steve Cohen]], [[Associated General Contractors of America Political Action Committee]], [[Ami Bera]], [[LOIS FRANKEL FOR CONGRESS]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Pfizer Inc.]], [[Jerry Nadler]], [[Steny H. Hoyer]], [[Teresa Leger Fernandez]], [[GALLEGO FOR ARIZONA]], [[Bradley Scott Schneider]], [[CASTOR FOR CONGRESS]], [[JASMINE FOR US]], [[Robert Garcia]], [[Bobby Scott]], [[Marc A. Veasey]], [[MCCLELLAN FOR CONGRESS]], [[JAMIE RASKIN FOR CONGRESS]], [[Marcy Kaptur]], [[ROBERT GARCIA FOR CONGRESS]], [[Janice D. Schakowsky]], [[Jim McGovern]], [[Google - Alphabet]], [[AFL-CIO]], [[JASON CROW FOR CONGRESS]], [[MAGAZINER FOR CONGRESS]], [[BARRAGAN FOR CONGRESS]], [[Nydia Velazquez]], [[CITIZENS TO ELECT RICK LARSEN]], [[Giffords PAC]], [[Yvette D. Clarke]], [[CHRISSY HOULAHAN FOR CONGRESS]], [[SHARICE FOR CONGRESS]]"
 ---
 
 

@@ -18,24 +18,24 @@ phone: 202-225-8045
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2CA50026
 bills-sponsored: 8
 bills-cosponsored: 506
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[National Multifamily Housing Council]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Lockheed Martin]], [[Courage California Super Pac]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Morgan Stanley]], [[Sierra Club Political Committee]], [[AIPAC - American Israel Public Affairs Committee]], [[General Dynamics]], [[Citigroup]], [[Google - Alphabet]], [[Honeywell]], [[Northrop Grumman]], [[IBEW - International Brotherhood of Electrical Workers]], [[National Association of Realtors]], [[UA Political Action Committee]], [[SEIU COPE]], [[Planned Parenthood Votes]], [[Raytheon (RTX)]], [[PLANNED PARENTHOOD ACTION FUND OF THE PACIFIC SOUTHWEST PAC]], [[Progressive Turnout Project]], [[Walmart - Walton Family]], [[American Hospital Association PAC]], [[AT&T - WarnerMedia]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Comcast - NBCUniversal]], [[DMFI - Democratic Majority for Israel]], [[NEA Fund for Children and Public Education]], [[Bank of America]], [[Anthem - Elevance Health]], [[PG&E - Pacific Gas and Electric]], [[BAE Systems]], [[League of Conservation Voters]], [[Sierra Club Independent Action]], [[Unite Here Tip Campaign Committee]], [[Medicare for All - The Policy That Broke the Party]], [[Honeywell International]], [[AT&T]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Planned Parenthood Action Fund of the Pacific Southwest PAC]]"
-last-enriched: 2026-04-21
+top-donors: "[[National Multifamily Housing Council]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Lockheed Martin]], [[Courage California Super Pac]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Morgan Stanley]], [[Sierra Club Political Committee]], [[AIPAC - American Israel Public Affairs Committee]], [[General Dynamics]], [[Citigroup]], [[Google - Alphabet]], [[Honeywell]], [[Northrop Grumman]], [[IBEW - International Brotherhood of Electrical Workers]], [[National Association of Realtors]], [[UA Political Action Committee]], [[SEIU COPE]], [[Planned Parenthood Votes]], [[Raytheon (RTX)]], [[PLANNED PARENTHOOD ACTION FUND OF THE PACIFIC SOUTHWEST PAC]], [[Progressive Turnout Project]], [[Walmart - Walton Family]], [[American Hospital Association PAC]], [[AT&T - WarnerMedia]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Comcast - NBCUniversal]], [[DMFI - Democratic Majority for Israel]], [[NEA Fund for Children and Public Education]], [[Bank of America]], [[Anthem - Elevance Health]], [[PG&E - Pacific Gas and Electric]], [[BAE Systems]], [[League of Conservation Voters]], [[Sierra Club Independent Action]], [[Unite Here Tip Campaign Committee]], [[Medicare for All - The Policy That Broke the Party]], [[Honeywell International]], [[AT&T]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Planned Parenthood Action Fund of the Pacific Southwest PAC]], [[Raytheon (RTX Corporation)]], [[Amgen Inc]], [[Blue Shield of California]], [[National Restaurant Association]], [[National Committee to Preserve Social Security & Medicare PAC]], [[National Education Association]], [[Pfizer Inc.]], [[Planned Parenthood Action Fund INC]], [[SCOTT PETERS FOR CONGRESS]], [[AbbVie]], [[Richard Neal]], [[Direct Selling Empowers Americans]], [[Steny H. Hoyer]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[MEDICARE FOR ALL]], [[Humana]], [[QUIGLEY FOR CONGRESS]], [[Southern Company]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Capital Markets
   - Financial Institutions
   - House Committee on Financial Services
-  - "National Security, Illicit Finance, and International Financial Institutions"
-total-raised: "$8.3M"
-career-total-source: "FEC weball summary (cycles 1992, 1996, 1998, 2000, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+  - National Security, Illicit Finance, and International Financial Institutions
+total-raised: $8.3M
+career-total-source: FEC weball summary (cycles 1992, 1996, 1998, 2000, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

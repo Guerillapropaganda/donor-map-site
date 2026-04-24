@@ -1,38 +1,38 @@
 ---
-title: "Donald G. Davis"
+title: Donald G. Davis
 type: politician
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "North Carolina"
-state-abbr: "NC"
+party: Democrat
+chamber: House
+state: North Carolina
+state-abbr: NC
 district: "1"
-bioguide-id: "D000230"
+bioguide-id: D000230
 govtrack-id: 456912
 born: "1971-08-29"
-wikidata-id: "Q5294403"
-website: "https://dondavis.house.gov"
-phone: "202-225-3101"
+wikidata-id: Q5294403
+website: https://dondavis.house.gov
+phone: 202-225-3101
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-donors: "[[CA Farm Bureau Federation]]"
+  - No FEC contribution data
+  - No voting record data
+donors: "[[CA Farm Bureau Federation]], [[DEBORAH ROSS FOR CONGRESS]], [[Kim Schrier]], [[CITIZENS TO ELECT RICK LARSEN]], [[AIPAC - American Israel Public Affairs Committee]], [[JAKE AUCHINCLOSS FOR CONGRESS]], [[Amgen Inc]], [[MAGAZINER FOR CONGRESS]], [[Troy A. Carter]], [[Janice D. Schakowsky]], [[National Education Association]], [[Yvette D. Clarke]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[GARAMENDI FOR CONGRESS]], [[Lizzie Fletcher]], [[Alma S. Adams]], [[Associated General Contractors of America Political Action Committee]], [[CHRISSY HOULAHAN FOR CONGRESS]], [[National Right to Life PAC]], [[Center Forward Committee]], [[LOFGREN FOR CONGRESS]], [[SHERMAN FOR CONGRESS]], [[AbbVie]], [[Chris Coons]], [[NANCY PELOSI FOR CONGRESS]], [[United Democracy Project - UDP]], [[FOUSHEE FOR CONGRESS]], [[Let America Vote PAC]], [[ANDY KIM FOR NEW JERSEY]], [[Salud O. Carbajal]], [[AFL-CIO]], [[PAUL TONKO FOR CONGRESS]], [[Brittany Pettersen]], [[Southern States Police Benevolent Assoc PAC Fund]], [[Donald S. Beyer]], [[MAD 4 PA PAC]], [[Nucor Corporation]], [[With Honor Fund]], [[JULIA BROWNLEY FOR CONGRESS]], [[MARK KELLY FOR SENATE]], [[Adam Schiff]], [[CASTOR FOR CONGRESS]], [[Sierra Club Political Committee]], [[Gilead Sciences]], [[Hakeem Jeffries]], [[MIKE THOMPSON FOR CONGRESS]], [[Tyson Foods]], [[GRACE FOR NEW YORK]], [[Humana]], [[Leidos]], [[STRICKLAND FOR WASHINGTON]], [[Pfizer Inc.]], [[Richard Neal]], [[DoorDash]], [[JIM COSTA FOR CONGRESS]], [[ROBERT GARCIA FOR CONGRESS]], [[Marc A. Veasey]], [[James E. Clyburn]], [[American College of Radiology Association PAC]], [[Glenn Ivey]], [[PETE AGUILAR FOR CONGRESS]], [[KATHERINE CLARK FOR CONGRESS]], [[DIANA DEGETTE FOR CONGRESS]], [[Cargill]], [[National Association of Realtors]], [[National Cattlemen's Beef Association]], [[SCOTT PETERS FOR CONGRESS]], [[STANTON FOR CONGRESS]], [[Steny H. Hoyer]], [[SYDNEY KAMLAGER-DOVE FOR CONGRESS]], [[Robert Garcia]], [[SHARICE FOR CONGRESS]], [[JAMIE RASKIN FOR CONGRESS]], [[McDonalds Corporation]], [[MCCLELLAN FOR CONGRESS]], [[Bradley Scott Schneider]], [[TED LIEU FOR CONGRESS]], [[Robin L. Kelly]], [[SARA JACOBS FOR CONGRESS]], [[Gerry Connolly]], [[JOE NEGUSE FOR CONGRESS]], [[JASMINE FOR US]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 26
 bills-cosponsored: 881
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Commodity Markets, Digital Assets, and Rural Development"
-  - "General Farm Commodities, Risk Management, and Credit"
+  - Commodity Markets, Digital Assets, and Rural Development
+  - General Farm Commodities, Risk Management, and Credit
   - House Committee on Agriculture
   - House Committee on Armed Services
-  - "Livestock, Dairy, and Poultry"
+  - Livestock, Dairy, and Poultry
   - Readiness
   - Tactical Air and Land Forces
 ---

@@ -20,23 +20,23 @@ source-types:
   - FEC
   - GovTrack
 known-gaps:
-  - "No mapped relationships"
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4WA05234
-top-donors: "[[National Rifle Association]], [[Tyson Foods]], [[Chevron]], [[National Association of Realtors]], [[Walmart - Walton Family]], [[Puget Sound Energy INC PAC for Good Government]], [[Comcast - NBCUniversal]], [[AIPAC - American Israel Public Affairs Committee]], [[Jim Jordan]], [[Associated General Contractors of America Political Action Committee]], [[Microsoft]], [[Honeywell]], [[National Cattlemen's Beef Association]], [[Troy Downing]], [[AT&T - WarnerMedia]], [[National Restaurant Association]], [[MAJORITY PAC]], [[General Dynamics]], [[American Hospital Association PAC]], [[AT&T]], [[Honeywell International]], [[Majority PAC]]"
-last-enriched: 2026-04-21
+top-donors: "[[National Rifle Association]], [[Tyson Foods]], [[Chevron]], [[National Association of Realtors]], [[Walmart - Walton Family]], [[Puget Sound Energy INC PAC for Good Government]], [[Comcast - NBCUniversal]], [[AIPAC - American Israel Public Affairs Committee]], [[Jim Jordan]], [[Associated General Contractors of America Political Action Committee]], [[Microsoft]], [[Honeywell]], [[National Cattlemen's Beef Association]], [[Troy Downing]], [[AT&T - WarnerMedia]], [[National Restaurant Association]], [[MAJORITY PAC]], [[General Dynamics]], [[American Hospital Association PAC]], [[AT&T]], [[Honeywell International]], [[Majority PAC]], [[TROY DOWNING FOR CONGRESS]], [[David P. Joyce]], [[Carol D. Miller]], [[Steve Scalise]], [[JIM JORDAN FOR CONGRESS]], [[NRA Political Victory Fund]], [[Koch Industries]], [[Tom Emmer]], [[MOORE FOR WEST VIRGINIA, INC.]], [[Brett Guthrie]], [[Mike Johnson]], [[Brandon Gill]], [[Guy Reschenthaler]], [[BRANDON GILL FOR TEXAS]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Courts, Intellectual Property, Artificial Intelligence, and the Internet"
-  - "Health, Employment, Labor, and Pensions"
+  - Courts, Intellectual Property, Artificial Intelligence, and the Internet
+  - Health, Employment, Labor, and Pensions
   - Higher Education and Workforce Development
   - House Committee on Education and Workforce
   - House Committee on Foreign Affairs
   - House Committee on the Judiciary
   - Middle East and North Africa
   - South and Central Asia
-  - "The Administrative State, Regulatory Reform, and Antitrust"
-total-raised: "$2.9M"
-career-total-source: "FEC weball summary (cycles 2024, 2026)"
+  - The Administrative State, Regulatory Reform, and Antitrust
+total-raised: $2.9M
+career-total-source: FEC weball summary (cycles 2024, 2026)
 bills-sponsored: 14
 corroboration-count: 3
 ---

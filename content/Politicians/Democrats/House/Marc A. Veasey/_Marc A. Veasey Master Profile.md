@@ -1,37 +1,38 @@
 ---
-title: "Marc A. Veasey"
+title: Marc A. Veasey
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Texas"
-state-abbr: "TX"
+party: Democrat
+chamber: House
+state: Texas
+state-abbr: TX
 district: "33"
-bioguide-id: "V000131"
+bioguide-id: V000131
 govtrack-id: 412579
 born: "1971-01-03"
-wikidata-id: "Q4068811"
-website: "https://veasey.house.gov"
-phone: "202-225-9897"
+wikidata-id: Q4068811
+website: https://veasey.house.gov
+phone: 202-225-9897
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 15
 bills-cosponsored: 403
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Commerce, Manufacturing, and Trade"
+  - Commerce, Manufacturing, and Trade
   - Energy
   - Health
   - House Committee on Energy and Commerce
+top-donors: "[[International Association of Firefighters Interested in Registration and Education PAC]], [[Leidos]], [[Amgen Inc]], [[Gilead Sciences]], [[Google - Alphabet]], [[McDonalds Corporation]], [[AIPAC - American Israel Public Affairs Committee]], [[National Education Association]], [[National Association of Manufacturers]], [[Pfizer Inc.]], [[Southern Company]], [[MEDICARE FOR ALL]], [[Direct Selling Empowers Americans]], [[DoorDash]], [[CVS Health - Aetna]], [[Akin Gump Strauss Hauer & Feld]], [[Planned Parenthood Action Fund INC]], [[Occidental Petroleum]], [[AbbVie]], [[National Association of Realtors]], [[Humana]], [[Powerpacplus]], [[Nucor Corporation]], [[National Committee to Preserve Social Security & Medicare PAC]], [[LOFGREN FOR CONGRESS]], [[DAVID SCOTT FOR CONGRESS]], [[Tyson Foods]], [[Williams Companies]], [[Meta - Facebook]], [[League of Conservation Voters]], [[Sinclair Broadcast Group]], [[Marcy Kaptur]], [[SUSIE LEE FOR CONGRESS]], [[Steny H. Hoyer]], [[Airbnb]], [[Frank Pallone]], [[ANDRE CARSON FOR CONGRESS]], [[American College of Radiology Association PAC]], [[Richard Neal]], [[Bennie Thompson]]"
 ---
 
 

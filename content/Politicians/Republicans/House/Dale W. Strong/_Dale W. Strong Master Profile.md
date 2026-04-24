@@ -1,40 +1,41 @@
 ---
-title: "Dale W. Strong"
+title: Dale W. Strong
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Alabama"
-state-abbr: "AL"
+party: Republican
+chamber: House
+state: Alabama
+state-abbr: AL
 district: "5"
-bioguide-id: "S001220"
+bioguide-id: S001220
 govtrack-id: 456878
 born: "1970-05-08"
-wikidata-id: "Q115137374"
-website: "https://strong.house.gov"
-phone: "202-225-4801"
+wikidata-id: Q115137374
+website: https://strong.house.gov
+phone: 202-225-4801
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 14
 bills-cosponsored: 120
 bills-enacted: 1
-top-policy-area: "Government Operations and Politics"
-last-enriched: 2026-04-21
+top-policy-area: Government Operations and Politics
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Commerce, Justice, Science, and Related Agencies"
+  - Commerce, Justice, Science, and Related Agencies
   - Emergency Management and Technology
   - House Committee on Appropriations
   - House Committee on Homeland Security
   - Legislative Branch
-  - "Oversight, Investigations, and Accountability"
-  - "Transportation, Housing and Urban Development, and Related Agencies"
+  - Oversight, Investigations, and Accountability
+  - Transportation, Housing and Urban Development, and Related Agencies
+top-donors: "[[National Restaurant Association]], [[ADRIAN SMITH FOR CONGRESS]], [[AIPAC - American Israel Public Affairs Committee]], [[Associated General Contractors of America Political Action Committee]], [[HAGEMAN FOR WYOMING]], [[NRA Political Victory Fund]], [[Leidos]], [[Tom Emmer]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[JASON SMITH FOR CONGRESS]], [[Google - Alphabet]], [[American Dream Federal Action]], [[Richard Hudson]], [[Nucor Corporation]], [[Steve Scalise]], [[Guy Reschenthaler]], [[MIKE ROGERS FOR CONGRESS]], [[TEXANS FOR JODEY ARRINGTON]]"
 ---
 
 

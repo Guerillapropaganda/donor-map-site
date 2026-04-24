@@ -24,15 +24,15 @@ urls-first-triaged: "2026-04-15"
 employee-contributions: 23
 employee-contributions-total: 15665953
 employee-donor-count: 6
-politicians-funded: "[[America First Action]], [[NRSC - National Republican Senatorial Committee]], [[WinRed]], [[MAGA Inc]]"
+politicians-funded: "[[America First Action]], [[NRSC - National Republican Senatorial Committee]], [[WinRed]], [[MAGA Inc]], [[Madison Project Inc.]], [[EVENT STRATEGIES, INC.]], [[BARNES & THORNBURG LLP]], [[HAYEK, ASHLEY]], [[THREE POINT ADVISORS, LLC]], [[KIMPTON HOTEL EVENTI]], [[Ken Calvert]], [[Donald Trump]], [[David McCormick]], [[Brian Babin]]"
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-  - "No mapped relationships"
-last-enriched: 2026-04-21
-total-political-spend: "$182K"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2010, 2014, 2020, 2024"
+  - No lobbying disclosure data
+  - No mapped relationships
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $182K
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2010, 2014, 2020, 2024
 ---
 
 

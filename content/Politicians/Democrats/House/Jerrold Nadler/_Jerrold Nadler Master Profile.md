@@ -18,25 +18,25 @@ phone: 202-225-5635
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-donors: "[[Brady Campaign]], [[Microsoft]], [[Pfizer Inc.]], [[EQUALITY PROJECT PAC]], [[J Street]], [[Everytown for Gun Safety]], [[SEIU COPE]], [[Comcast - NBCUniversal]], [[Giffords PAC]], [[Planned Parenthood Votes]], [[Ted Lieu]], [[National Association of Realtors]], [[General Motors]], [[AT&T - WarnerMedia]], [[American Hospital Association PAC]], [[National Multifamily Housing Council]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Teamsters - International Brotherhood of Teamsters]], [[DCCC - Democratic Congressional Campaign Committee]], [[AIPAC - American Israel Public Affairs Committee]], [[Medicare for All - The Policy That Broke the Party]], [[NEA Fund for Children and Public Education]], [[Progressive Turnout Project]], [[Nancy Pelosi]], [[Walmart - Walton Family]], [[American Federation of State County & Municipal Employees P E O P L E]], [[iHeartMedia]], [[Sierra Club Independent Action]], [[League of Conservation Voters]], [[Google - Alphabet]], [[MoveOn.org Political Action]], [[Equality Project PAC]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[AT&T]]"
+  - No FEC contribution data
+  - No voting record data
+donors: "[[Brady Campaign]], [[Microsoft]], [[Pfizer Inc.]], [[EQUALITY PROJECT PAC]], [[J Street]], [[Everytown for Gun Safety]], [[SEIU COPE]], [[Comcast - NBCUniversal]], [[Giffords PAC]], [[Planned Parenthood Votes]], [[Ted Lieu]], [[National Association of Realtors]], [[General Motors]], [[AT&T - WarnerMedia]], [[American Hospital Association PAC]], [[National Multifamily Housing Council]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Teamsters - International Brotherhood of Teamsters]], [[DCCC - Democratic Congressional Campaign Committee]], [[AIPAC - American Israel Public Affairs Committee]], [[Medicare for All - The Policy That Broke the Party]], [[NEA Fund for Children and Public Education]], [[Progressive Turnout Project]], [[Nancy Pelosi]], [[Walmart - Walton Family]], [[American Federation of State County & Municipal Employees P E O P L E]], [[iHeartMedia]], [[Sierra Club Independent Action]], [[League of Conservation Voters]], [[Google - Alphabet]], [[MoveOn.org Political Action]], [[Equality Project PAC]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[AT&T]], [[National Education Association]], [[Amgen Inc]], [[Citigroup]], [[AFL-CIO]], [[TED LIEU FOR CONGRESS]], [[MEDICARE FOR ALL]], [[Planned Parenthood Action Fund INC]], [[Let America Vote PAC]], [[NANCY PELOSI FOR CONGRESS]], [[CVS Health - Aetna]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Goldman Sachs]], [[Steny H. Hoyer]], [[Bechtel Corporation]], [[Meta - Facebook]], [[Akin Gump Strauss Hauer & Feld]], [[Williams Companies]], [[Henry Cuellar]], [[Sierra Club Political Committee]], [[National Restaurant Association]], [[Indivisible Action]], [[AbbVie]], [[Bacardi - Bacardi USA]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2NY17071
 bills-sponsored: 18
 bills-cosponsored: 598
 bills-enacted: 0
 top-policy-area: Health
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Highways and Transit
   - House Committee on Transportation and Infrastructure
   - House Committee on the Judiciary
-  - "Immigration Integrity, Security, and Enforcement"
-  - "Railroads, Pipelines, and Hazardous Materials"
-  - "The Administrative State, Regulatory Reform, and Antitrust"
-total-raised: "$19.1M"
-career-total-source: "FEC weball summary (cycles 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+  - Immigration Integrity, Security, and Enforcement
+  - Railroads, Pipelines, and Hazardous Materials
+  - The Administrative State, Regulatory Reform, and Antitrust
+total-raised: $19.1M
+career-total-source: FEC weball summary (cycles 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

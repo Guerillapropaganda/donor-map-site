@@ -5,14 +5,14 @@ content-readiness: data-complete
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00562405
 aliases:
   - INDEPENDENT LEADERSHIP FOR NEW HAMPSHIRE PAC
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Jeanne Shaheen]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Jeanne Shaheen]], [[HYNES COMMUNICATIONS LLC]], [[CLARK HILL PLC]], [[PUBLIC OPINION STRATEGIES LLC]], [[PFIRRMANN, HENRY A.]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -21,9 +21,9 @@ total-spent: 763
 related: "[[Jeanne Shaheen]]"
 source-types:
   - FEC
-last-enriched: 2026-04-21
-total-political-spend: "$841K"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2014, 2022"
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $841K
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2014, 2022
 ---
 
 

@@ -10,7 +10,7 @@ last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-ie-support: $1,564,500
 fec-ie-oppose: null
-politicians-funded: "[[Angie Craig]], [[Josh Gottheimer]], [[Ruben Gallego]], [[David Scott]], [[Elissa Slotkin]], [[Laura Gillen]], [[Adam Gray]], [[Derrick van Orden]], [[Nikki Budzinski]], [[Susie Lee]], [[Steven Horsford]]"
+politicians-funded: "[[Angie Craig]], [[Josh Gottheimer]], [[Ruben Gallego]], [[David Scott]], [[Elissa Slotkin]], [[Laura Gillen]], [[Adam Gray]], [[Derrick van Orden]], [[Nikki Budzinski]], [[Susie Lee]], [[Steven Horsford]], [[ELIAS LAW GROUP]], [[House Majority PAC]], [[SAGE MEDIA PLANNING]], [[OT WORLDWIDE]], [[4C PARTNERS, LLC]], [[LITHIA CONSULTANTS]], [[CABBAGE HILL CONSULTING]], [[WATERFRONT STRATEGIES]], [[UNIVERSAL STRATEGIES]], [[Co Impact Philanthropic Funds]], [[AD BEAT STRATEGIES]], [[Linda T. Sanchez]], [[Ami Bera]], [[Donald G. Davis]], [[Julia Brownley]], [[Raul Ruiz]], [[Kyrsten Sinema]], [[Jim Costa]], [[Scott H. Peters]], [[Jared F. Golden]], [[Sharice Davids]], [[Sanford D. Bishop]]"
 related: "[[Angie Craig]] · [[Josh Gottheimer]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -23,8 +23,8 @@ independent-expenditures: 629750
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

@@ -18,20 +18,20 @@ phone: 202-225-2823
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 18
 bills-cosponsored: 230
 bills-enacted: 1
 top-policy-area: Health
-top-donors: "[[Blackstone Group]], [[AT&T]], [[McDonalds Corporation]], [[AbbVie]], [[Comcast - NBCUniversal]], [[Morgan Stanley]]"
-last-enriched: 2026-04-21
+top-donors: "[[Blackstone Group]], [[AT&T]], [[McDonalds Corporation]], [[AbbVie]], [[Comcast - NBCUniversal]], [[Morgan Stanley]], [[LOUDERMILK FOR CONGRESS]], [[Associated General Contractors of America Political Action Committee]], [[Kevin McCarthy]], [[Rick Crawford]], [[Tzedek PAC]], [[Pete Sessions]], [[Steve Scalise]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[National Right to Life Victory Fund]], [[ANDY HARRIS FOR CONGRESS]], [[Tyson Foods]], [[Koch Industries]], [[NRA Political Victory Fund]], [[Pfizer Inc.]], [[Amgen Inc]], [[Williams Companies]], [[National Cattlemen's Beef Association]], [[Michigan Republican Party]], [[Sierra Club Political Committee]], [[Scott Desjarlais]], [[Paul Ryan]], [[DAVID ROUZER FOR CONGRESS]], [[BEN CLINE FOR CONGRESS, INC.]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[Roger Marshall]], [[Darin Lahood]], [[Gilead Sciences]], [[John Boehner]], [[American College of Radiology Association PAC]], [[Richard Hudson]], [[National Education Association]], [[AIPAC - American Israel Public Affairs Committee]], [[National Right to Life PAC]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Communications and Technology
   - Energy
-  - "Health, Employment, Labor, and Pensions"
+  - Health, Employment, Labor, and Pensions
   - House Committee on Education and Workforce
   - House Committee on Energy and Commerce
   - Oversight and Investigations

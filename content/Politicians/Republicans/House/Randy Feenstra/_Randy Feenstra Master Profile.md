@@ -1,40 +1,41 @@
 ---
-title: "Randy Feenstra"
+title: Randy Feenstra
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Iowa"
-state-abbr: "IA"
+party: Republican
+chamber: House
+state: Iowa
+state-abbr: IA
 district: "4"
-bioguide-id: "F000446"
+bioguide-id: F000446
 govtrack-id: 456818
 born: "1969-01-14"
-wikidata-id: "Q7292187"
-website: "https://feenstra.house.gov"
-phone: "202-225-4426"
+wikidata-id: Q7292187
+website: https://feenstra.house.gov
+phone: 202-225-4426
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 48
 bills-cosponsored: 310
 bills-enacted: 0
-top-policy-area: "Taxation"
-last-enriched: 2026-04-21
+top-policy-area: Taxation
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Conservation, Research, and Biotechnology"
+  - Conservation, Research, and Biotechnology
   - House Committee on Agriculture
   - House Committee on Ways and Means
-  - "Livestock, Dairy, and Poultry"
+  - Livestock, Dairy, and Poultry
   - Social Security
   - Tax
   - Work and Welfare
+top-donors: "[[ADM - Archer Daniels Midland]], [[Darin Lahood]], [[Cargill]], [[NRA Political Victory Fund]], [[JASON SMITH FOR CONGRESS]], [[Steve Scalise]], [[American Gaming Association]], [[Gilead Sciences]], [[Campaign for Working Families]], [[DAVID ROUZER FOR CONGRESS]], [[Google - Alphabet]], [[ADRIAN SMITH FOR CONGRESS]], [[Tyson Foods]], [[National Cattlemen's Beef Association]], [[AbbVie]], [[AFL-CIO]], [[Humana]], [[Republican Jewish Coalition]], [[Associated General Contractors of America Political Action Committee]], [[AIPAC - American Israel Public Affairs Committee]], [[Pfizer Inc.]], [[James R. Baird]], [[Amgen Inc]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[American College of Radiology Association PAC]], [[Koch Industries]], [[National Restaurant Association]], [[Mariannette Miller-Meeks]], [[Carol D. Miller]], [[TEXANS FOR JODEY ARRINGTON]], [[CVS Health - Aetna]], [[Coinbase]], [[BYRON DONALDS FOR CONGRESS]], [[American Future Fund Political Action]], [[National Association of Manufacturers]], [[Leidos]], [[National Right to Life Victory Fund]], [[JIM JORDAN FOR CONGRESS]], [[KAT FOR CONGRESS]]"
 ---
 
 

@@ -7,11 +7,11 @@ entity-type: Super PAC
 committee-type: Super PAC (Independent Expenditure-Only)
 committee-id: C00819664
 fec-url: https://www.fec.gov/data/committee/C00819664/
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-ie-support: "null"
 fec-ie-oppose: $8,581,846
-politicians-funded: "[[Patty Murray]]"
+politicians-funded: "[[Patty Murray]], [[HOLTZMAN VOGEL BARAN TORCHINSKY & JOSEFIAK PLLC]], [[CROSBY OTTENHOFF GROUP LLC]], [[America PAC - Elon Musk]], [[MOORE FOR WEST VIRGINIA, INC.]], [[FP1 STRATEGIES LLC]], [[THE MORNING GROUP LLC]]"
 related: "[[Patty Murray]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -20,10 +20,10 @@ urls-first-triaged: "2026-04-15"
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
-total-political-spend: "$4.4M"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2022"
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $4.4M
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2022
 ---
 
 

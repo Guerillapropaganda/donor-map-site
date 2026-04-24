@@ -1,20 +1,21 @@
 ---
-title: "Rick Perry"
+title: Rick Perry
 type: politician
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "Secretary of Energy"
+party: Republican
+chamber: Secretary of Energy
 known-gaps:
-  - "No voting record data"
-  - "No mapped relationships"
+  - No voting record data
+  - No mapped relationships
 source-types:
   - Congress
   - FEC
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 corroboration-count: 2
+top-donors: "[[National Right to Life PAC]], [[The National Republican Trust PAC]], [[TX Friends of Time Warner Cable PAC]], [[SAN ANTONIO POLICE OFFICERS ASSOCIATION INC PAC FUND]], [[Texas Beverage Alliance of the TPSA]], [[TEXAS PODIATRIC MEDICAL ASSOCIATION PAC]], [[AT and T Political Action Committee Texas]], [[Association of Texas Professional Educators Legisl]], [[TABA Home-PAC]], [[GHA Healthcare Professionals for Quality Governmen]], [[HOUCONPAC]], [[GHA Healthcare Professionals For Quality Govt]]"
 ---
 
 

@@ -18,16 +18,16 @@ phone: 202-225-2523
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 20
 bills-cosponsored: 165
 bills-enacted: 0
 top-policy-area: Government Operations and Politics
-top-donors: "[[Google - Alphabet]], [[Ripple]], [[Amazon]], [[Uber]], [[Kaiser Permanente]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[McDonalds Corporation]], [[Wells Fargo]], [[Boeing]], [[Citadel - Kenneth Griffin]], [[PG&E]], [[Verizon]], [[a16z - Andreessen Horowitz]], [[Meta - Facebook]], [[Bank of America]], [[Blackstone Group]], [[PG&E - Pacific Gas and Electric]], [[US CHAMBER OF COMMERCE]], [[Nvidia]], [[Apple]], [[Coinbase]], [[CoreCivic]], [[Lyft]], [[Northrop Grumman]], [[ADM - Archer Daniels Midland]], [[Instacart]], [[News Corp - Fox Corporation]], [[Tesla - Elon Musk Political Operation]], [[Monsanto - Bayer]], [[US Chamber of Commerce]]"
-last-enriched: 2026-04-21
+top-donors: "[[Google - Alphabet]], [[Ripple]], [[Amazon]], [[Uber]], [[Kaiser Permanente]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[McDonalds Corporation]], [[Wells Fargo]], [[Boeing]], [[Citadel - Kenneth Griffin]], [[PG&E]], [[Verizon]], [[a16z - Andreessen Horowitz]], [[Meta - Facebook]], [[Bank of America]], [[Blackstone Group]], [[PG&E - Pacific Gas and Electric]], [[US CHAMBER OF COMMERCE]], [[Nvidia]], [[Apple]], [[Coinbase]], [[CoreCivic]], [[Lyft]], [[Northrop Grumman]], [[ADM - Archer Daniels Midland]], [[Instacart]], [[News Corp - Fox Corporation]], [[Tesla - Elon Musk Political Operation]], [[Monsanto - Bayer]], [[US Chamber of Commerce]], [[AIPAC - American Israel Public Affairs Committee]], [[ADRIAN SMITH FOR CONGRESS]], [[National Cattlemen's Beef Association]], [[TEXANS FOR JODEY ARRINGTON]], [[Southern Company]], [[Associated General Contractors of America Political Action Committee]], [[Steve Scalise]], [[ERIC BURLISON FOR CONGRESS]], [[Elise Stefanik]], [[NRA Political Victory Fund]], [[Tyson Foods]], [[Pete Sessions]], [[Glenn Thompson]], [[Tom McClintock]], [[HOUCHIN FOR CONGRESS]], [[DoorDash]], [[ROBERT ADERHOLT FOR CONGRESS]], [[National Restaurant Association]], [[RON ESTES FOR CONGRESS]], [[DON BACON FOR CONGRESS]], [[DAVID ROUZER FOR CONGRESS]], [[JIM JORDAN FOR CONGRESS]], [[BEN CLINE FOR CONGRESS, INC.]], [[DR. BRIAN BABIN FOR CONGRESS]], [[National Association of Manufacturers]], [[Nicholas A. Langworthy]], [[BYRON DONALDS FOR CONGRESS]], [[FISCHBACH FOR CONGRESS]], [[GARY PALMER FOR CONGRESS]], [[HAGEMAN FOR WYOMING]], [[Amgen Inc]], [[Daniel Meuser]], [[Tom Emmer]], [[BOST, MICHAEL]], [[Mike Johnson]], [[AbbVie]], [[LOUDERMILK FOR CONGRESS]], [[WEBER FOR CONGRESS]], [[Pfizer Inc.]], [[Richard McCormick]], [[Carol D. Miller]], [[FRY FOR CONGRESS]], [[Lloyd Smucker]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

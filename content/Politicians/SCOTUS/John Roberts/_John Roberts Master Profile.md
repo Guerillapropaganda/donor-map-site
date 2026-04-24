@@ -7,20 +7,20 @@ last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
 chamber: SCOTUS
-top-donors: "[[Koch Network - Charles Koch]], [[Leonard Leo]]"
+top-donors: "[[Koch Network - Charles Koch]], [[Leonard Leo]], [[The Governor's Club]]"
 total-received: $167,173
 fec-candidate-id: H2AL05169
 source-types:
   - Congress
 corroboration-count: 2
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
+  - No FEC contribution data
+  - No voting record data
 related: "[[Leonard Leo]] · [[_Clarence Thomas Master Profile]] · [[_Samuel Alito Master Profile]] · [[Koch Network - Charles Koch]]"
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-20
-total-raised: "$167K"
-career-total-source: "FEC weball summary (cycles 2022)"
+last-enriched: 2026-04-20T00:00:00.000Z
+total-raised: $167K
+career-total-source: FEC weball summary (cycles 2022)
 ---
 
 

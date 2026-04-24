@@ -1,31 +1,31 @@
 ---
-title: "Jim Banks"
+title: Jim Banks
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "Senate"
-state: "Indiana"
-state-abbr: "IN"
-bioguide-id: "B001299"
+party: Republican
+chamber: Senate
+state: Indiana
+state-abbr: IN
+bioguide-id: B001299
 govtrack-id: 412702
 born: "1979-07-16"
-wikidata-id: "Q16146788"
-website: "https://www.banks.senate.gov"
-phone: "202-224-4814"
+wikidata-id: Q16146788
+website: https://www.banks.senate.gov
+phone: 202-224-4814
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 45
 bills-cosponsored: 228
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Economic Policy
   - Education and the American Family
@@ -34,12 +34,13 @@ committees:
   - Personnel
   - Primary Health and Retirement Security
   - Seapower
-  - "Securities, Insurance, and Investment"
+  - Securities, Insurance, and Investment
   - Senate Committee on Armed Services
-  - "Senate Committee on Banking, Housing, and Urban Affairs"
-  - "Senate Committee on Health, Education, Labor, and Pensions"
-  - "Senate Committee on Veterans' Affairs"
+  - Senate Committee on Banking, Housing, and Urban Affairs
+  - Senate Committee on Health, Education, Labor, and Pensions
+  - Senate Committee on Veterans' Affairs
   - Strategic Forces
+top-donors: "[[Club for Growth]], [[American Gaming Association]], [[CoreCivic]], [[Pfizer Inc.]], [[NRA Political Victory Fund]], [[Leidos]], [[Gilead Sciences]], [[Club for Growth INC PAC]], [[Coinbase]], [[AIPAC - American Israel Public Affairs Committee]], [[Koch Industries]], [[Nucor Corporation]], [[McDonalds Corporation]], [[Mike Haridopolos]], [[JASON SMITH FOR CONGRESS]], [[National Cattlemen's Beef Association]], [[GEO Group - Private Prison Industrial Complex]], [[TEXANS FOR JODEY ARRINGTON]], [[Campaign for Working Families]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Steve Scalise]], [[AbbVie]], [[Associated General Contractors of America Political Action Committee]], [[ADM - Archer Daniels Midland]], [[Senate Conservatives Fund]], [[GARY PALMER FOR CONGRESS]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[Rudy Yakym]], [[Humana]], [[National Restaurant Association]], [[VICTORIA SPARTZ FOR CONGRESS]], [[Kevin McCarthy]], [[JIM JORDAN FOR CONGRESS]], [[FreedomWorks for America]], [[Family Research Council Action Political Action Committee]], [[Republican Jewish Coalition]], [[Defend American Jobs]], [[Paul Ryan]], [[Amgen Inc]], [[Tom Emmer]], [[Freedom's Defense Fund]], [[Occidental Petroleum]], [[THOMAS MASSIE FOR CONGRESS]], [[Glenn Thompson]], [[Gun Owners of America]], [[Dan Coats]], [[ROGER WILLIAMS FOR U S CONGRESS COMMITTEE]], [[BYRON DONALDS FOR CONGRESS]], [[American Iron and Steel Institute]], [[Roger Marshall]], [[Madison Project Inc.]], [[Common Sense for America PAC]], [[Special Operations for America]]"
 ---
 
 

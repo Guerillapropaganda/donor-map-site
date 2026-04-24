@@ -1,39 +1,40 @@
 ---
-title: "William R. Keating"
+title: William R. Keating
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Massachusetts"
-state-abbr: "MA"
+party: Democrat
+chamber: House
+state: Massachusetts
+state-abbr: MA
 district: "9"
-bioguide-id: "K000375"
+bioguide-id: K000375
 govtrack-id: 412435
 born: "1952-09-06"
-wikidata-id: "Q775412"
-website: "https://keating.house.gov"
-phone: "202-225-3111"
+wikidata-id: Q775412
+website: https://keating.house.gov
+phone: 202-225-3111
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 25
 bills-cosponsored: 431
 bills-enacted: 0
-top-policy-area: "International Affairs"
-last-enriched: 2026-04-21
+top-policy-area: International Affairs
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Cyber, Information Technologies, and Innovation"
+  - Cyber, Information Technologies, and Innovation
   - Europe
   - House Committee on Armed Services
   - House Committee on Foreign Affairs
   - Intelligence and Special Operations
   - Middle East and North Africa
+top-donors: "[[National Committee to Preserve Social Security & Medicare PAC]], [[PAUL TONKO FOR CONGRESS]], [[CVS Health - Aetna]], [[Planned Parenthood Action Fund INC]], [[AFL-CIO]], [[Pfizer Inc.]], [[SHERMAN FOR CONGRESS]], [[John B. Larson]], [[Edward J. Markey]], [[Sierra Club Political Committee]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[STAND WITH SANCHEZ]], [[HUFFMAN FOR CONGRESS]], [[Steny H. Hoyer]], [[League of Conservation Voters]], [[Amgen Inc]], [[Richard Neal]], [[National Education Association]], [[LOFGREN FOR CONGRESS]], [[NANCY PELOSI FOR CONGRESS]], [[Henry Cuellar]], [[STRICKLAND FOR WASHINGTON]], [[Google - Alphabet]], [[GABE AMO FOR CONGRESS]], [[Frank Pallone]], [[AbbVie]], [[Peter Welch]], [[DEBBIE WASSERMAN SCHULTZ FOR CONGRESS]], [[James E. Clyburn]], [[Chris van Hollen]], [[American College of Radiology Association PAC]], [[MEDICARE FOR ALL]], [[National Nurses United]], [[AIPAC - American Israel Public Affairs Committee]], [[J Street]], [[DIANA DEGETTE FOR CONGRESS]], [[MATSUI FOR CONGRESS]], [[Eric Swalwell]]"
 ---
 
 

@@ -1,37 +1,38 @@
 ---
-title: "Suzan K. Delbene"
+title: Suzan K. Delbene
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Washington"
-state-abbr: "WA"
+party: Democrat
+chamber: House
+state: Washington
+state-abbr: WA
 district: "1"
-bioguide-id: "D000617"
+bioguide-id: D000617
 govtrack-id: 412505
 born: "1962-02-17"
-wikidata-id: "Q2091892"
-website: "https://delbene.house.gov"
-phone: "202-225-6311"
+wikidata-id: Q2091892
+website: https://delbene.house.gov
+phone: 202-225-6311
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 19
 bills-cosponsored: 523
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - House Committee on Ways and Means
   - Oversight
   - Tax
   - Trade
+top-donors: "[[McDonalds Corporation]], [[National Cattlemen's Beef Association]], [[Sierra Club Political Committee]], [[DoorDash]], [[National Education Association]], [[Planned Parenthood Action Fund INC]], [[Steny H. Hoyer]], [[Amgen Inc]], [[DIANA DEGETTE FOR CONGRESS]], [[MATSUI FOR CONGRESS]], [[Let America Vote PAC]], [[Humana]], [[Hakeem Jeffries]], [[Gilead Sciences]], [[NANCY PELOSI FOR CONGRESS]], [[AIPAC - American Israel Public Affairs Committee]], [[Rosa DeLauro]], [[Suzanne Bonamici]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[HUFFMAN FOR CONGRESS]], [[Coinbase]], [[Akin Gump Strauss Hauer & Feld]], [[Pfizer Inc.]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Meta - Facebook]], [[Google - Alphabet]], [[AFL-CIO]], [[League of Conservation Voters]], [[National Committee to Preserve Social Security & Medicare PAC]], [[CVS Health - Aetna]], [[Frank Pallone]], [[Leidos]], [[AbbVie]], [[J Street]], [[LOFGREN FOR CONGRESS]], [[American College of Radiology Association PAC]], [[MIKE THOMPSON FOR CONGRESS]], [[Bechtel Corporation]], [[Marcy Kaptur]], [[JUDY CHU FOR CONGRESS]], [[Jerry Nadler]], [[Nucor Corporation]], [[Environment America INC]], [[New House PAC]], [[Tyson Foods]], [[James E. Clyburn]], [[Planned Parenthood Votes Northwest]], [[CASTRO FOR CONGRESS]], [[Southern Company]], [[DEBBIE WASSERMAN SCHULTZ FOR CONGRESS]], [[National Association of Manufacturers]], [[Janice D. Schakowsky]], [[CITIZENS TO ELECT RICK LARSEN]], [[Giffords PAC]], [[FRIENDS OF MARIA]], [[John B. Larson]], [[BARBARA LEE FOR CONGRESS]], [[DAVID SCOTT FOR CONGRESS]]"
 ---
 
 

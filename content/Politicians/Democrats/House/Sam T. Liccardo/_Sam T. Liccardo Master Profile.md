@@ -1,35 +1,36 @@
 ---
-title: "Sam T. Liccardo"
+title: Sam T. Liccardo
 type: politician
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "California"
-state-abbr: "CA"
+party: Democrat
+chamber: House
+state: California
+state-abbr: CA
 district: "16"
-bioguide-id: "L000607"
+bioguide-id: L000607
 govtrack-id: 456976
 born: "1970-04-16"
-wikidata-id: "Q16731481"
-website: "https://liccardo.house.gov"
-phone: "202-225-8104"
+wikidata-id: Q16731481
+website: https://liccardo.house.gov
+phone: 202-225-8104
 source-types:
   - Congress
   - GovTrack
 known-gaps:
-  - "No FEC contribution data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Digital Assets, Financial Technology, and Artificial Intelligence"
+  - Digital Assets, Financial Technology, and Artificial Intelligence
   - House Committee on Financial Services
-  - "National Security, Illicit Finance, and International Financial Institutions"
+  - National Security, Illicit Finance, and International Financial Institutions
   - Oversight and Investigations
 bills-sponsored: 14
 corroboration-count: 2
+top-donors: "[[Sam T. Liccardo]], [[Google - Alphabet]], [[Amgen Inc]], [[Pfizer Inc.]], [[Coinbase]], [[Gilead Sciences]], [[NANCY PELOSI FOR CONGRESS]], [[Gilbert Ray Cisneros]], [[Akin Gump Strauss Hauer & Feld]], [[Blue Shield of California]], [[J Street]], [[League of Conservation Voters]], [[PETE AGUILAR FOR CONGRESS]], [[Bradley Scott Schneider]], [[AbbVie]], [[Meta - Facebook]], [[DoorDash]]"
 ---
 
 

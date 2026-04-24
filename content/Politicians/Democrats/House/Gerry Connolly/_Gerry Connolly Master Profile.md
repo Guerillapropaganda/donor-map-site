@@ -1,49 +1,44 @@
 ---
-title: "Gerry Connolly"
+title: Gerry Connolly
 type: politician
-bioguide-id: "C001078"
+bioguide-id: C001078
 content-readiness: ready
-central-thesis: "Gerry Connolly was the government contractor economy's congressman , funded by the industries that depend on federal spending, representing the district where those companies are headquartered, and using his Oversight Committee position to champio..."
-last-updated: 2026-04-15
+central-thesis: Gerry Connolly was the government contractor economy's congressman , funded by the industries that depend on federal spending, representing the district where those companies are headquartered, and using his Oversight Committee position to champio...
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "House"
-state: "Virginia"
-state-abbr: "VA"
+party: Democrat
+chamber: House
+state: Virginia
+state-abbr: VA
 district: "11"
 committees:
-  - "Oversight & Reform"
+  - Oversight & Reform
 leadership-roles:
-  - "Ranking Member"
-donors: "[[Tech Industry]] · [[Booz Allen Hamilton]]"
+  - Ranking Member
+donors: "[[Tech Industry]] · [[Booz Allen Hamilton]] · [[Chris van Hollen]] · [[Amgen Inc]] · [[Bechtel Corporation]] · [[National Education Association]] · [[Eugene Simon Vindman]] · [[Hilda Solis]] · [[Akin Gump Strauss Hauer & Feld]] · [[McDonalds Corporation]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[John B. Larson]] · [[Bobby Scott]] · [[AbbVie]] · [[American Gaming Association]] · [[DEBBIE WASSERMAN SCHULTZ FOR CONGRESS]] · [[Google - Alphabet]] · [[Democratic Party of Virginia]] · [[Pfizer Inc.]] · [[Sierra Club Political Committee]] · [[Steny H. Hoyer]] · [[AFL-CIO]] · [[STEPHEN LYNCH FOR CONGRESS]] · [[Southern Company]] · [[James E. Clyburn]] · [[Rosa DeLauro]] · [[LOFGREN FOR CONGRESS]] · [[Edward J. Markey]] · [[CVS Health - Aetna]] · [[Jerrold Nadler]] · [[Frank Pallone]] · [[NANCY PELOSI FOR CONGRESS]] · [[Henry Cuellar]] · [[Planned Parenthood Action Fund INC]] · [[DOGGETT FOR U S CONGRESS COMMITTEE]] · [[Jerry Nadler]] · [[Janice D. Schakowsky]] · [[Demand Justice]] · [[Leidos]] · [[J Street]] · [[Richard Neal]] · [[House Majority PAC]] · [[PETE AGUILAR FOR CONGRESS]] · [[Associated General Contractors of America Political Action Committee]] · [[National Committee to Preserve Social Security & Medicare PAC]] · [[League of Conservation Voters]] · [[Marcy Kaptur]] · [[New House PAC]] · [[BARBARA LEE FOR CONGRESS]] · [[HIMES FOR CONGRESS]] · [[Xavier Becerra]] · [[Eleanor Holmes Norton]] · [[Rahm Emanuel]] · [[National Restaurant Association]]"
 related: "[[_Donald Trump Master Profile|Trump]]"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline; run voting pipeline; run congress pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run fec pipeline; run voting pipeline; run congress pipeline; run pipelines
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 last-enriched: "2026-04-15"
 issues:
-  - "Agriculture and Food"
-  - "Animals"
-  - "Armed Forces and National Security"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Commerce"
-  - "Crime and Law Enforcement"
-  - "Environmental Protection"
-  - "Government Operations and Politics"
-  - "Health"
-  - "International Affairs"
+  - Agriculture and Food
+  - Animals
+  - Armed Forces and National Security
+  - Civil Rights and Liberties, Minority Issues
+  - Commerce
+  - Crime and Law Enforcement
+  - Environmental Protection
+  - Government Operations and Politics
+  - Health
+  - International Affairs
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 355
 bills-cosponsored: 4563
 bills-enacted: 0
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "Health"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: Health
 ---
 
 

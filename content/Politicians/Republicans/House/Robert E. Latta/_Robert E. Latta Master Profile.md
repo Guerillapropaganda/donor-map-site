@@ -1,37 +1,38 @@
 ---
-title: "Robert E. Latta"
+title: Robert E. Latta
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Ohio"
-state-abbr: "OH"
+party: Republican
+chamber: House
+state: Ohio
+state-abbr: OH
 district: "5"
-bioguide-id: "L000566"
+bioguide-id: L000566
 govtrack-id: 412256
 born: "1956-04-18"
-wikidata-id: "Q888061"
-website: "https://latta.house.gov"
-phone: "202-225-6405"
+wikidata-id: Q888061
+website: https://latta.house.gov
+phone: 202-225-6405
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 19
 bills-cosponsored: 152
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Communications and Technology
   - Energy
   - Environment
   - House Committee on Energy and Commerce
+top-donors: "[[NRA Political Victory Fund]], [[American College of Radiology Association PAC]], [[Williams Companies]], [[COLE FOR CONGRESS]], [[Google - Alphabet]], [[Koch Industries]], [[Associated General Contractors of America Political Action Committee]], [[Pfizer Inc.]], [[Southern Company]], [[Tzedek PAC]], [[Meta - Facebook]], [[Sinclair Broadcast Group]], [[Amgen Inc]], [[Humana]], [[Tyson Foods]], [[CVS Health - Aetna]], [[Airbnb]], [[Michael R. Turner]], [[AIPAC - American Israel Public Affairs Committee]], [[Steve Scalise]], [[Occidental Petroleum]], [[AbbVie]], [[National Cattlemen's Beef Association]], [[JIM JORDAN FOR CONGRESS]], [[Family Research Council Action Political Action Committee]], [[Kevin McCarthy]], [[ISSA FOR CONGRESS]], [[National Restaurant Association]], [[MARIO DIAZ-BALART FOR CONGRESS]], [[Akin Gump Strauss Hauer & Feld]], [[National Right to Life PAC]], [[National Right to Life Victory Fund]], [[McDonalds Corporation]], [[Pete Sessions]], [[Paul Ryan]], [[Leidos]], [[Roger Wicker]]"
 ---
 
 

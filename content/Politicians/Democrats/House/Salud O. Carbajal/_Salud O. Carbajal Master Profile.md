@@ -1,32 +1,32 @@
 ---
-title: "Salud O. Carbajal"
+title: Salud O. Carbajal
 type: politician
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "California"
-state-abbr: "CA"
+party: Democrat
+chamber: House
+state: California
+state-abbr: CA
 district: "24"
-bioguide-id: "C001112"
+bioguide-id: C001112
 govtrack-id: 412686
 born: "1964-11-18"
-wikidata-id: "Q27805429"
-website: "https://carbajal.house.gov"
-phone: "202-225-3601"
+wikidata-id: Q27805429
+website: https://carbajal.house.gov
+phone: 202-225-3601
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-donors: "[[Brady Campaign]]"
+  - No FEC contribution data
+  - No voting record data
+donors: "[[Brady Campaign]], [[NANCY PELOSI FOR CONGRESS]], [[Giffords PAC]], [[Amgen Inc]], [[Juan Vargas]], [[Let America Vote PAC]], [[Google - Alphabet]], [[National Education Association]], [[Ro Khanna]], [[League of Conservation Voters]], [[Sierra Club Political Committee]], [[Yvette D. Clarke]], [[COURTNEY, JOSEPH]], [[CITIZENS TO ELECT RICK LARSEN]], [[Planned Parenthood Action Fund INC]], [[PETE AGUILAR FOR CONGRESS]], [[J Street]], [[JUDY CHU FOR CONGRESS]], [[Pfizer Inc.]], [[JULIA BROWNLEY FOR CONGRESS]], [[CASTRO FOR CONGRESS]], [[JAMIE RASKIN FOR CONGRESS]], [[GRACE FOR NEW YORK]], [[AFL-CIO]], [[Tyson Foods]], [[Leidos]], [[MATSUI FOR CONGRESS]], [[Southern Company]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[With Honor Fund]], [[Rosa DeLauro]], [[National Nurses United]], [[Richard Neal]], [[Eric Swalwell]], [[Donald S. Beyer]], [[Cargill]], [[DONALD NORCROSS FOR CONGRESS]], [[Hakeem Jeffries]], [[Blue Shield of California]], [[MARK TAKANO FOR CONGRESS]], [[James E. Clyburn]], [[Steny H. Hoyer]], [[SHERMAN FOR CONGRESS]], [[Associated General Contractors of America Political Action Committee]], [[HIMES FOR CONGRESS]], [[BARBARA LEE FOR CONGRESS]], [[MIKE THOMPSON FOR CONGRESS]], [[LOFGREN FOR CONGRESS]], [[MEDICARE FOR ALL]], [[No Labels Action, Inc.]], [[Jerrold Nadler]], [[VICENTE GONZALEZ FOR CONGRESS]], [[CITIZENS FOR WATERS]], [[Steve Cohen]], [[AIPAC - American Israel Public Affairs Committee]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[ActBlue Non-Federal]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 29
 bills-cosponsored: 631
 bills-enacted: 1
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Aviation
   - Coast Guard and Maritime Transportation

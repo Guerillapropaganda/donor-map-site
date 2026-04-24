@@ -11,8 +11,8 @@ fec-committee-id: C00176214
 aliases:
   - INTERNATIONAL LONGSHORE AND WAREHOUSE UNION -- POLITICAL ACTION FUND
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Bernie Sanders]], [[Brian Schatz]], [[Marilyn Strickland]], [[Derek Tran]], [[Adam Smith]], [[Marie Gluesenkamp Perez]], [[John Garamendi]], [[Laura Friedman]], [[Pramila Jayapal]], [[Maria Cantwell]], [[Lisa Murkowski]], [[Andrea Salinas]], [[Patty Murray]], [[Robert Garcia]], [[Kim Schrier]], [[Jared Huffman]], [[Barbara Lee]], [[Ted Lieu]], [[Raphael Warnock]], [[Rick Larsen]], [[Hakeem Jeffries]], [[Emily Randall]], [[Mike Levin]], [[Judy Chu]], [[Alex Padilla]], [[Dave Min]], [[Kamala Harris]], [[Adam Schiff]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Bernie Sanders]], [[Brian Schatz]], [[Marilyn Strickland]], [[Derek Tran]], [[Adam Smith]], [[Marie Gluesenkamp Perez]], [[John Garamendi]], [[Laura Friedman]], [[Pramila Jayapal]], [[Maria Cantwell]], [[Lisa Murkowski]], [[Andrea Salinas]], [[Patty Murray]], [[Robert Garcia]], [[Kim Schrier]], [[Jared Huffman]], [[Barbara Lee]], [[Ted Lieu]], [[Raphael Warnock]], [[Rick Larsen]], [[Hakeem Jeffries]], [[Emily Randall]], [[Mike Levin]], [[Judy Chu]], [[Alex Padilla]], [[Dave Min]], [[Kamala Harris]], [[Adam Schiff]], [[SPOTLIGHT PRODUCTIONS]], [[OREGON AFL-CIO]], [[ABLEMARK]], [[IN THE BAG, INC.]], [[HAILE GIRMA & CO]], [[UNION OFFSET]], [[ILWU]], [[John R. Carter]], [[Mazie K. Hirono]], [[Nanette Diaz Barragan]], [[Sherrod Brown]], [[Eric Swalwell]], [[Jacky Rosen]], [[Julia Brownley]], [[Jeanne Shaheen]], [[Jill N. Tokuda]], [[Luz M. Rivas]], [[Gwen Moore]], [[Joe Courtney]], [[Ken Salazar]], [[Angus S. King]], [[Andre Carson]], [[Linda T. Sanchez]], [[Bennie Thompson]], [[Xavier Becerra]], [[Suzan K. Delbene]], [[Mark Pocan]], [[Hillary Clinton]], [[Brad Sherman]], [[Jeff Merkley]], [[Raul Grijalva]], [[Ron Wyden]], [[Tulsi Gabbard]], [[Jon Ossoff]], [[Mark DeSaulnier]], [[Nancy Pelosi]], [[Mark Kelly]], [[Suzanne Bonamici]], [[Mark Takano]], [[James E. Clyburn]], [[Val T. Hoyle]], [[Hilda Solis]], [[Barack Obama]], [[Joe Biden]], [[Pablo Jose Hernandez]], [[Melissa Bean]], [[Chris van Hollen]], [[Elizabeth Warren]], [[John Hickenlooper]], [[Janelle S. Bynum]], [[Harry Reid]], [[Margaret Wood Hassan]], [[Tammy Duckworth]], [[Juan Vargas]], [[Dick Durbin]], [[Mike Thompson]], [[Katie Porter]], [[Lloyd Doggett]], [[Robert Menendez]], [[Pete Aguilar]], [[Catherine Cortez Masto]], [[Tammy Baldwin]], [[Dianne Feinstein]], [[Emanuel Cleaver]], [[Doris O. Matsui]], [[Mario Diaz-Balart]], [[Jimmy Gomez]], [[Raul Ruiz]], [[John Kerry]], [[Peter Welch]], [[Scott H. Peters]], [[Salud O. Carbajal]], [[Deborah K. Ross]], [[Maxine Waters]], [[Bob Casey]]"
 related: "[[Bernie Sanders]] · [[Brian Schatz]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -25,7 +25,7 @@ individual-contributions: 77668
 contributions-to-committees: 50000
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

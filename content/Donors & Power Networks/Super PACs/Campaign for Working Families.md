@@ -11,8 +11,8 @@ fec-committee-id: C00325076
 aliases:
   - CAMPAIGN FOR WORKING FAMILIES
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Jack Reed]], [[Anna Paulina Luna]], [[Richard McCormick]], [[Monica de la Cruz]], [[Josh Hawley]], [[John James]], [[Bernie Moreno]], [[Tim Sheehy]], [[Ted Cruz]], [[Ron Johnson]], [[Ken Calvert]], [[Derrick van Orden]], [[ActBlue]], [[Ryan Zinke]], [[Mark Harris]], [[Russell Fry]], [[Ryan Mackenzie]], [[Brandon Gill]], [[David Schweikert]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Jack Reed]], [[Anna Paulina Luna]], [[Richard McCormick]], [[Monica de la Cruz]], [[Josh Hawley]], [[John James]], [[Bernie Moreno]], [[Tim Sheehy]], [[Ted Cruz]], [[Ron Johnson]], [[Ken Calvert]], [[Derrick van Orden]], [[ActBlue]], [[Ryan Zinke]], [[Mark Harris]], [[Russell Fry]], [[Ryan Mackenzie]], [[Brandon Gill]], [[David Schweikert]], [[OHIOANS FOR BLACKWELL]], [[RST MARKETING]], [[AAMP]], [[American Homes 4 Rent]], [[MODPAC CORP]], [[Capitol Counsel]], [[SOUTHWEST PUBLISHING]], [[PMC]], [[INKWELL, INC]], [[BRABENDER COX]], [[COVINGTON & BURLING]], [[INTERNAL REVENUE SERVICE]], [[NEW PARADIGM MEDIA]], [[THE LUKENS COMPANY]], [[F&M BANK]], [[BB&T]], [[INTEGRAM]], [[BAUER, GARY]], [[Daniel Webster]], [[Tommy Tuberville]], [[David McCormick]], [[Ashley Hinson]], [[Elijah Crane]], [[Dan Sullivan]], [[Victoria Spartz]], [[Jim Jordan]], [[Mike Rogers]], [[Don Bacon]], [[Mike Crapo]], [[Wesley Hunt]], [[Mike Bost]], [[Cathy McMorris Rodgers]], [[Patrick McHenry]], [[Vern Buchanan]], [[John Thune]], [[Andrew S. Clyde]], [[Gabe Evans]], [[Tim Scott]], [[Scott Perry]], [[Jim Inhofe]], [[Jim Risch]], [[Roger Marshall]], [[Randy Feenstra]], [[Randy K. Weber]], [[JD Vance]], [[Tom McClintock]], [[Russ Fulcher]], [[Gary J. Palmer]], [[Jim Banks]], [[Andy Harris]], [[Steve Daines]], [[John Barrasso]], [[Mark Green]], [[Max L. Miller]], [[Marco Rubio]], [[Virginia Foxx]], [[Tim Walberg]], [[Warren Davidson]], [[Mike Collins]], [[Mitch McConnell]], [[Lindsey Graham]], [[Robert B. Aderholt]], [[Ralph Norman]], [[James Lankford]], [[Pete Sessions]], [[Michael Cloud]], [[Dan Coats]], [[Tom Barrett]], [[Byron Donalds]], [[Paul A. Gosar]], [[Beth van Duyne]], [[Jack Bergman]], [[Andy Barr]], [[Richard Hudson]], [[Joni Ernst]], [[Kristi Noem]], [[Burgess Owens]], [[Mitt Romney]], [[Christopher H. Smith]], [[Chuck Grassley]], [[Young Kim]], [[Roger Wicker]], [[Kevin Cramer]], [[John Boozman]], [[Jeff Sessions]], [[W. Gregory Steube]], [[Kat Cammack]], [[Andy Biggs]], [[Ted Budd]], [[Chip Roy]], [[Abraham J. Hamadeh]], [[Ronny Jackson]], [[Lee Zeldin]], [[Brian Mast]], [[George W. Bush]], [[Nancy Mace]], [[Pete Stauber]], [[Paul Ryan]], [[Lauren Boebert]], [[Tom Cotton]], [[Stephanie I. Bice]], [[Matt Gaetz]], [[Tony Gonzales]], [[Neal P. Dunn]], [[Donald Trump]], [[Carol D. Miller]], [[Michelle Fischbach]], [[Brett Guthrie]], [[Harriet M. Hageman]], [[Deb Fischer]], [[Ann Wagner]], [[Zachary Nunn]], [[Addison P. McDowell]], [[Darrell Issa]], [[Thom Tillis]], [[Claudia Tenney]]"
 related: "[[Jack Reed]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -32,7 +32,7 @@ source-types:
   - FEC
   - USASpending
 corroboration-count: 2
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

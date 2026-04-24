@@ -22,12 +22,12 @@ issues:
   - International Affairs
   - Labor and Employment
 related: "[[_Cori Bush Master Profile]] · [[United Democracy Project - UDP]] · [[DMFI - Democratic Majority for Israel]] · [[AIPAC - American Israel Public Affairs Committee]]"
-donors: "[[Bernie Marcus]] · [[UNITED DEMOCRACY PROJECT ('UDP')]] · [[DMFI - Democratic Majority for Israel]] · [[DMFI PAC]] · [[Mainstream Democrats Pac]] · [[JUSTICE DEMOCRATS PAC]] · [[WORKING FAMILIES PARTY PAC]] · [[Working Families Party PAC]] · [[Justice Democrats PAC]] · [[Microsoft]] · [[Raytheon (RTX)]] · [[L3Harris Technologies]] · [[National Association of Realtors]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Pete Aguilar]] · [[General Motors]] · [[League of Conservation Voters]] · [[Northrop Grumman]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[CVS Health - Aetna]] · [[Walmart - Walton Family]] · [[United Democracy Project - UDP]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[Medicare for All - The Policy That Broke the Party]] · [[General Dynamics]] · [[NEA Fund for Children and Public Education]] · [[Nucor Corporation]] · [[AT&T - WarnerMedia]] · [[Ted Lieu]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Lockheed Martin]] · [[Planned Parenthood Votes]] · [[Honeywell]] · [[Anthem - Elevance Health]] · [[ADM - Archer Daniels Midland]] · [[Pfizer Inc.]] · [[NORPAC]] · [[Leidos]] · [[Comcast - NBCUniversal]] · [[Citigroup]] · [[American Federation of State County & Municipal Employees  P E O P L E]] · [[AT&T]] · [[Honeywell International]]"
+donors: "[[Bernie Marcus]] · [[UNITED DEMOCRACY PROJECT ('UDP')]] · [[DMFI - Democratic Majority for Israel]] · [[DMFI PAC]] · [[Mainstream Democrats Pac]] · [[JUSTICE DEMOCRATS PAC]] · [[WORKING FAMILIES PARTY PAC]] · [[Working Families Party PAC]] · [[Justice Democrats PAC]] · [[Microsoft]] · [[Raytheon (RTX)]] · [[L3Harris Technologies]] · [[National Association of Realtors]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Pete Aguilar]] · [[General Motors]] · [[League of Conservation Voters]] · [[Northrop Grumman]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[CVS Health - Aetna]] · [[Walmart - Walton Family]] · [[United Democracy Project - UDP]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[Medicare for All - The Policy That Broke the Party]] · [[General Dynamics]] · [[NEA Fund for Children and Public Education]] · [[Nucor Corporation]] · [[AT&T - WarnerMedia]] · [[Ted Lieu]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Lockheed Martin]] · [[Planned Parenthood Votes]] · [[Honeywell]] · [[Anthem - Elevance Health]] · [[ADM - Archer Daniels Midland]] · [[Pfizer Inc.]] · [[NORPAC]] · [[Leidos]] · [[Comcast - NBCUniversal]] · [[Citigroup]] · [[American Federation of State County & Municipal Employees  P E O P L E]] · [[AT&T]] · [[Honeywell International]] · [[Raytheon (RTX Corporation)]] · [[Yvette D. Clarke]] · [[Robert Garcia]] · [[PETE AGUILAR FOR CONGRESS]] · [[TED LIEU FOR CONGRESS]] · [[Robin L. Kelly]] · [[James E. Clyburn]] · [[National Education Association]] · [[Bradley Scott Schneider]] · [[MEDICARE FOR ALL]]"
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
+  - No FEC contribution data
+  - No voting record data
 last-enriched: "2026-04-10"
 total-received: $1,272,557
 fec-candidate-id: H4MO01134
@@ -43,8 +43,8 @@ committees:
   - House Committee on Oversight and Government Reform
   - Strategic Forces
   - Tactical Air and Land Forces
-total-raised: "$7.3M"
-career-total-source: "FEC weball summary (cycles 2024, 2026)"
+total-raised: $7.3M
+career-total-source: FEC weball summary (cycles 2024, 2026)
 ---
 
 

@@ -1,38 +1,39 @@
 ---
-title: "Max L. Miller"
+title: Max L. Miller
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Ohio"
-state-abbr: "OH"
+party: Republican
+chamber: House
+state: Ohio
+state-abbr: OH
 district: "7"
-bioguide-id: "M001222"
+bioguide-id: M001222
 govtrack-id: 456929
 born: "1988-11-13"
-wikidata-id: "Q106522145"
-website: "https://maxmiller.house.gov"
-phone: "202-225-3876"
+wikidata-id: Q106522145
+website: https://maxmiller.house.gov
+phone: 202-225-3876
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 17
 bills-cosponsored: 210
 bills-enacted: 0
-top-policy-area: "International Affairs"
-last-enriched: 2026-04-21
+top-policy-area: International Affairs
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Environment
-  - "House Committee on Science, Space, and Technology"
+  - House Committee on Science, Space, and Technology
   - House Committee on Ways and Means
   - Oversight
   - Work and Welfare
+top-donors: "[[National Right to Life Victory Fund]], [[Humana]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[AIPAC - American Israel Public Affairs Committee]], [[Associated General Contractors of America Political Action Committee]], [[JIM JORDAN FOR CONGRESS]], [[DR. BRIAN BABIN FOR CONGRESS]], [[Koch Industries]], [[Brandon Gill]], [[Club for Growth INC PAC]], [[Campaign for Working Families]], [[Frank Lucas]], [[GEO Group - Private Prison Industrial Complex]], [[National Cattlemen's Beef Association]], [[Steve Scalise]], [[Kevin McCarthy]], [[Coinbase]], [[NRA Political Victory Fund]], [[Club for Growth]], [[Google - Alphabet]], [[Brett Guthrie]], [[Troy Balderson]], [[Tom Emmer]], [[Elise Stefanik]], [[Guy Reschenthaler]], [[Republican Jewish Coalition]], [[Richard Hudson]], [[National Restaurant Association]], [[BEN CLINE FOR CONGRESS, INC.]], [[DAVID ROUZER FOR CONGRESS]], [[Nucor Corporation]], [[Amgen Inc]], [[HAGEMAN FOR WYOMING]], [[AFL-CIO]], [[David P. Joyce]], [[Pfizer Inc.]], [[American Principles Fund]], [[MIKE COLLINS FOR SENATE]]"
 ---
 
 

@@ -1,40 +1,41 @@
 ---
-title: "Thomas H. Kean"
+title: Thomas H. Kean
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "New Jersey"
-state-abbr: "NJ"
+party: Republican
+chamber: House
+state: New Jersey
+state-abbr: NJ
 district: "7"
-bioguide-id: "K000398"
+bioguide-id: K000398
 govtrack-id: 456917
 born: "1968-09-05"
-wikidata-id: "Q7791445"
-website: "https://kean.house.gov"
-phone: "202-225-5361"
+wikidata-id: Q7791445
+website: https://kean.house.gov
+phone: 202-225-5361
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 28
 bills-cosponsored: 405
 bills-enacted: 0
-top-policy-area: "International Affairs"
-last-enriched: 2026-04-21
+top-policy-area: International Affairs
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Commerce, Manufacturing, and Trade"
+  - Commerce, Manufacturing, and Trade
   - Communications and Technology
   - Health
   - House Committee on Energy and Commerce
   - House Committee on Foreign Affairs
   - Middle East and North Africa
   - South and Central Asia
+top-donors: "[[Jimmy Patronis]], [[Tom Emmer]], [[David P. Joyce]], [[FISCHBACH FOR CONGRESS]], [[Earl L. Buddy Carter]], [[Senate Majority PAC]], [[Williams Companies]], [[Robert E. Latta]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[MIKE HARIDOPOLOS FOR CONGRESS]], [[BEN CLINE FOR CONGRESS, INC.]], [[AIPAC - American Israel Public Affairs Committee]], [[Gregory F. Murphy]], [[TEXANS FOR JODEY ARRINGTON]], [[Mike Johnson]], [[Steve Scalise]], [[Koch Industries]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[Rick Crawford]], [[BRAD KNOTT FOR CONGRESS]], [[Guy Reschenthaler]], [[DON BACON FOR CONGRESS]], [[Amgen Inc]], [[COMER FOR CONGRESS]], [[CLAUDIA TENNEY FOR CONGRESS]], [[LISA MCCLAIN FOR CONGRESS]], [[RICK W. ALLEN FOR CONGRESS]], [[National Republican Senatorial Committee]], [[ANDY HARRIS FOR CONGRESS]], [[Daniel Meuser]], [[ROBERT ADERHOLT FOR CONGRESS]], [[Carol D. Miller]], [[HAGEMAN FOR WYOMING]], [[BOST, MICHAEL]], [[MAST FOR CONGRESS]], [[Tim Walberg]], [[Republican Jewish Coalition]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[DANIEL WEBSTER PAC]], [[American College of Radiology Association PAC]], [[MOORE FOR WEST VIRGINIA, INC.]], [[BURCHETT FOR CONGRESS]], [[MARK GREEN FOR CONGRESS]], [[MIKE KENNEDY FOR UTAH]], [[BYRON DONALDS FOR CONGRESS]], [[CARLOS GIMENEZ FOR CONGRESS]], [[Brett Guthrie]], [[Associated General Contractors of America Political Action Committee]], [[Occidental Petroleum]], [[RON ESTES FOR CONGRESS]], [[Jeff Hurd]], [[John W. Rose]], [[DAVID ROUZER FOR CONGRESS]], [[BURGESS 4 UTAH]], [[VERN BUCHANAN FOR CONGRESS]], [[Kevin McCarthy]], [[Richard Hudson]], [[Kevin Kiley]], [[DR. BRIAN BABIN FOR CONGRESS]], [[Michael Guest]], [[JAKE ELLZEY FOR CONGRESS]], [[ADRIAN SMITH FOR CONGRESS]], [[DAVE TAYLOR FOR CONGRESS]], [[JOE WILSON FOR CONGRESS]], [[FRY FOR CONGRESS]], [[Mark B. Messmer]], [[DIANA FOR CONGRESS]], [[Michael R. Turner]], [[Robert F. Onder]], [[Russ Fulcher]], [[Pfizer Inc.]], [[JIM JORDAN FOR CONGRESS]], [[Darin Lahood]], [[Dale W. Strong]], [[PETE SESSIONS FOR CONGRESS]], [[Elise Stefanik]], [[LOUDERMILK FOR CONGRESS]], [[JOHN JAMES FOR CONGRESS, INC.]], [[BLAKE MOORE FOR CONGRESS]], [[H. Morgan Griffith]], [[AbbVie]], [[Frank Lucas]], [[WEBER FOR CONGRESS]], [[Glenn Thompson]], [[AFL-CIO]], [[AUGUST PFLUGER FOR CONGRESS]], [[FEDORCHAK FOR ND]], [[Clay Higgins]], [[Richard McCormick]], [[CLYDE FOR CONGRESS, INC.]], [[FRIENDS OF TIM MOORE]], [[National Restaurant Association]], [[HOUCHIN FOR CONGRESS]], [[GARY PALMER FOR CONGRESS]], [[Southern Company]], [[Google - Alphabet]], [[Nicholas A. Langworthy]], [[Robert J. Wittman]], [[Randy Feenstra]], [[John McCain]], [[JOHN CURTIS FOR UTAH]], [[GEO Group - Private Prison Industrial Complex]], [[DR JOHN JOYCE FOR CONGRESS]], [[John J. McGuire]], [[Lloyd Smucker]]"
 ---
 
 

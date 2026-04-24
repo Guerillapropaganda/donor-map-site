@@ -10,7 +10,7 @@ last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-ie-support: $437,125
 fec-ie-oppose: null
-politicians-funded: "[[John Barrasso]], [[Cathy McMorris Rodgers]], [[John Hoeven]], [[Tim Scott]], [[Dan Crenshaw]], [[Dan Newhouse]], [[Frank Lucas]], [[David Schweikert]], [[Lisa Murkowski]], [[Ken Calvert]], [[Kevin Cramer]], [[Susan Collins]], [[Mariannette Miller-Meeks]], [[Ashley Hinson]], [[John Kennedy]]"
+politicians-funded: "[[John Barrasso]], [[Cathy McMorris Rodgers]], [[John Hoeven]], [[Tim Scott]], [[Dan Crenshaw]], [[Dan Newhouse]], [[Frank Lucas]], [[David Schweikert]], [[Lisa Murkowski]], [[Ken Calvert]], [[Kevin Cramer]], [[Susan Collins]], [[Mariannette Miller-Meeks]], [[Ashley Hinson]], [[John Kennedy]], [[RAE, LLC]], [[OPTIMUS CONSULTING, LLC]], [[BOLAR, LUKE]], [[Congressional Leadership Fund]], [[STEINER, ANDREA]], [[CYNGAL LLC]], [[Clearpath Action Fund, Inc.]], [[POOLHOUSE]], [[CYGNAL LLC]], [[ANTHRO DIGITAL]], [[THE MORNING GROUP]], [[BRACEWELL]], [[WATERMARK SERVICES, LLC]], [[BOLAR, LUCAS]], [[OLIVE TREE STRATEGIES,LLC]], [[PUSH DIGITAL]], [[FIREHOUSE STRATEGIES]], [[POLITICO, LLC]], [[Mike Crapo]], [[David G. Valadao]], [[Elise Stefanik]], [[John Cornyn]], [[John R. Curtis]], [[Steve Daines]], [[Bill Cassidy]], [[Shelley Moore Capito]], [[Brian Mast]], [[Michael K. Simpson]], [[Lindsey Graham]], [[Thom Tillis]]"
 related: "[[John Hoeven]] · [[John Barrasso]] · [[Cathy McMorris Rodgers]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -24,8 +24,8 @@ individual-contributions: 4000000
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

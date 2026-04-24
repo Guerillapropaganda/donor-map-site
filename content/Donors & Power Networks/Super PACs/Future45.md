@@ -5,14 +5,14 @@ content-readiness: data-complete
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00574533
 aliases:
   - FUTURE45
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Nancy Pelosi]], [[Elizabeth Warren]], [[Maxine Waters]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Nancy Pelosi]], [[Elizabeth Warren]], [[Maxine Waters]], [[ARENA ONLINE]], [[G2 ANALYTICS]], [[CONSTON COMMUNICATIONS]], [[WILEY REIN LLP]], [[JONES DAY]], [[Kevin McCarthy]], [[MAS CONSULTING GROUP]], [[Mercury Public Affairs]], [[WILEY REIN]], [[OUTLAW MEDIA]], [[Trinity PAC]], [[RED EAGLE MEDIA GROUP]], [[Ronny Jackson]], [[Donald Trump]]"
 related: "[[Elizabeth Warren]] · [[Nancy Pelosi]] · [[Maxine Waters]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -22,9 +22,9 @@ total-spent: 5104
 contributions-to-committees: 1817
 source-types:
   - FEC
-last-enriched: 2026-04-21
-total-political-spend: "$33.9M"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2016, 2018, 2020"
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $33.9M
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2016, 2018, 2020
 ---
 
 

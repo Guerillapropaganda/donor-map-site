@@ -18,24 +18,24 @@ phone: 202-225-3915
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2IN02295
 bills-sponsored: 19
 bills-cosponsored: 282
 bills-enacted: 0
 top-policy-area: International Affairs
-top-donors: "[[Amgen Inc]], [[CVS Health - Aetna]], [[Walmart - Walton Family]], [[AIPAC - American Israel Public Affairs Committee]], [[Raytheon (RTX)]], [[Microsoft]], [[National Association of Manufacturers]], [[Anthem - Elevance Health]], [[Comcast - NBCUniversal]], [[Lockheed Martin]], [[Chevron]], [[Byron Donalds]], [[American College of Radiology Association PAC]], [[National Multifamily Housing Council]], [[Bank of America]], [[National Association of Realtors]], [[Associated General Contractors of America Political Action Committee]], [[AT&T - WarnerMedia]], [[Sinclair Broadcast Group]], [[Gilead Sciences]], [[Johnson & Johnson]], [[Marathon Petroleum]], [[Halliburton]], [[General Motors]], [[WinRed]], [[ADM - Archer Daniels Midland]], [[DoorDash]], [[General Dynamics]], [[AbbVie]], [[National Cattlemen's Beef Association]], [[Humana]], [[Performance Racing Inc.]], [[National Rifle Association]], [[Nucor Corporation]], [[Adrian Smith]], [[Jason Smith]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[David Rouzer]], [[Pfizer Inc.]], [[Google - Alphabet]], [[Ford Motor Company]], [[National Restaurant Association]], [[Honeywell]], [[American Hospital Association PAC]], [[Morgan Stanley]], [[Duke Energy]], [[National Victory Action Fund]], [[MAJORITY PAC]], [[Citigroup]], [[Care Action]], [[Leidos]], [[American Chemistry Council, INC]], [[Honeywell International]], [[AT&T]], [[Majority PAC]]"
-last-enriched: 2026-04-21
+top-donors: "[[Amgen Inc]], [[CVS Health - Aetna]], [[Walmart - Walton Family]], [[AIPAC - American Israel Public Affairs Committee]], [[Raytheon (RTX)]], [[Microsoft]], [[National Association of Manufacturers]], [[Anthem - Elevance Health]], [[Comcast - NBCUniversal]], [[Lockheed Martin]], [[Chevron]], [[Byron Donalds]], [[American College of Radiology Association PAC]], [[National Multifamily Housing Council]], [[Bank of America]], [[National Association of Realtors]], [[Associated General Contractors of America Political Action Committee]], [[AT&T - WarnerMedia]], [[Sinclair Broadcast Group]], [[Gilead Sciences]], [[Johnson & Johnson]], [[Marathon Petroleum]], [[Halliburton]], [[General Motors]], [[WinRed]], [[ADM - Archer Daniels Midland]], [[DoorDash]], [[General Dynamics]], [[AbbVie]], [[National Cattlemen's Beef Association]], [[Humana]], [[Performance Racing Inc.]], [[National Rifle Association]], [[Nucor Corporation]], [[Adrian Smith]], [[Jason Smith]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[David Rouzer]], [[Pfizer Inc.]], [[Google - Alphabet]], [[Ford Motor Company]], [[National Restaurant Association]], [[Honeywell]], [[American Hospital Association PAC]], [[Morgan Stanley]], [[Duke Energy]], [[National Victory Action Fund]], [[MAJORITY PAC]], [[Citigroup]], [[Care Action]], [[Leidos]], [[American Chemistry Council, INC]], [[Honeywell International]], [[AT&T]], [[Majority PAC]], [[Raytheon (RTX Corporation)]], [[JASON SMITH FOR CONGRESS]], [[NRA Political Victory Fund]], [[Akin Gump Strauss Hauer & Feld]], [[Blue Shield of California]], [[Steve Scalise]], [[HAGEMAN FOR WYOMING]], [[Guy Reschenthaler]], [[DAVID ROUZER FOR CONGRESS]], [[Koch Industries]], [[Williams Companies]], [[Richard Hudson]], [[BYRON DONALDS FOR CONGRESS]], [[ADRIAN SMITH FOR CONGRESS]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - House Committee on Ways and Means
   - Oversight
   - Social Security
   - Work and Welfare
-total-raised: "$8.8M"
-career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
+total-raised: $8.8M
+career-total-source: FEC weball summary (cycles 2022, 2024, 2026)
 ---
 
 

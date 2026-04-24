@@ -1,20 +1,21 @@
 ---
-title: "Jennifer Granholm"
+title: Jennifer Granholm
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "Secretary of Energy"
+party: Democrat
+chamber: Secretary of Energy
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record from Congress.gov
+  - No voting record data
+  - No mapped relationships
 source-types:
   - Congress
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
+top-donors: "[[Michigan Regional Council of Carpenters]]"
 ---
 
 

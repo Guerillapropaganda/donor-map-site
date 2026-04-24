@@ -18,20 +18,20 @@ phone: 202-225-2452
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2SC02059
 bills-sponsored: 26
 bills-cosponsored: 354
 bills-enacted: 0
 top-policy-area: International Affairs
-top-donors: "[[Raytheon (RTX)]], [[Duke Energy]], [[National Association of Realtors]], [[General Dynamics]], [[Valero Energy]], [[MAJORITY PAC]], [[Lockheed Martin]], [[AT&T - WarnerMedia]], [[National Multifamily Housing Council]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[National Rifle Association]], [[AIPAC - American Israel Public Affairs Committee]], [[Nucor Corporation]], [[Northrop Grumman]], [[Associated General Contractors of America Political Action Committee]], [[Leidos]], [[L3Harris Technologies]], [[American Hospital Association PAC]], [[Honeywell]], [[BAE Systems]], [[Save America PAC]], [[WinRed]], [[McDonalds Corporation]], [[Blackstone Group]], [[BlackRock]], [[Wells Fargo]], [[UPS]], [[CVS Health - Aetna]], [[Bank of America]], [[Goldman Sachs]], [[CBRE Group]], [[Oracle]], [[AT&T]], [[Honeywell International]], [[Majority PAC]]"
-last-enriched: 2026-04-21
+top-donors: "[[Raytheon (RTX)]], [[Duke Energy]], [[National Association of Realtors]], [[General Dynamics]], [[Valero Energy]], [[MAJORITY PAC]], [[Lockheed Martin]], [[AT&T - WarnerMedia]], [[National Multifamily Housing Council]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[National Rifle Association]], [[AIPAC - American Israel Public Affairs Committee]], [[Nucor Corporation]], [[Northrop Grumman]], [[Associated General Contractors of America Political Action Committee]], [[Leidos]], [[L3Harris Technologies]], [[American Hospital Association PAC]], [[Honeywell]], [[BAE Systems]], [[Save America PAC]], [[WinRed]], [[McDonalds Corporation]], [[Blackstone Group]], [[BlackRock]], [[Wells Fargo]], [[UPS]], [[CVS Health - Aetna]], [[Bank of America]], [[Goldman Sachs]], [[CBRE Group]], [[Oracle]], [[AT&T]], [[Honeywell International]], [[Majority PAC]], [[Raytheon (RTX Corporation)]], [[Koch Industries]], [[Humana]], [[NRA Political Victory Fund]], [[American Iron and Steel Institute]], [[National Republican Senatorial Committee]], [[American College of Radiology Association PAC]], [[AFL-CIO]], [[National Right to Life PAC]], [[Steve Scalise]], [[William R. Timmons]], [[National Restaurant Association]], [[TEXANS FOR JODEY ARRINGTON]], [[Pfizer Inc.]], [[American Principles Fund]], [[Kevin McCarthy]], [[Bechtel Corporation]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[Southern Company]], [[Tyson Foods]], [[DR. BRIAN BABIN FOR CONGRESS]], [[DR JOHN JOYCE FOR CONGRESS]], [[Republican Jewish Coalition]], [[Gun Owners of America]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[AbbVie]], [[Lindsey Graham]], [[Paul Ryan]], [[Elise Stefanik]], [[Amgen Inc]], [[Sam Graves]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Europe
-  - "Health, Employment, Labor, and Pensions"
+  - Health, Employment, Labor, and Pensions
   - Higher Education and Workforce Development
   - House Committee on Armed Services
   - House Committee on Education and Workforce
@@ -39,8 +39,8 @@ committees:
   - Middle East and North Africa
   - Readiness
   - Strategic Forces
-total-raised: "$18.2M"
-career-total-source: "FEC weball summary (cycles 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+total-raised: $18.2M
+career-total-source: FEC weball summary (cycles 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

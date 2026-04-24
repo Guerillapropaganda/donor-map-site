@@ -20,21 +20,21 @@ source-types:
   - FEC
   - GovTrack
 known-gaps:
-  - "No mapped relationships"
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4MT02098
-top-donors: "[[Citigroup]], [[National Association of Realtors]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Darrell Issa]], [[MAJORITY PAC]], [[Honeywell]], [[National Cattlemen's Beef Association]], [[WinRed]], [[NextEra Energy]], [[Jim Jordan]], [[Northrop Grumman]], [[Morgan Stanley]], [[American Hospital Association PAC]], [[Defending Main Street Superpac INC]], [[National Rifle Association]], [[National Multifamily Housing Council]], [[CVS Health - Aetna]], [[Associated General Contractors of America Political Action Committee]], [[AIPAC - American Israel Public Affairs Committee]], [[National Restaurant Association]], [[Lockheed Martin]], [[Jake Ellzey]], [[Defend American Jobs]], [[Bank of America]], [[Chevron]], [[Charles Schwab]], [[Coinbase]], [[Blackstone Group]], [[Apple]], [[Elliott Management]], [[Apollo Global Management]], [[HBW Resources]], [[Raytheon (RTX Corporation)]], [[Majority PAC]], [[Honeywell International]]"
-last-enriched: 2026-04-21
+top-donors: "[[Citigroup]], [[National Association of Realtors]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Darrell Issa]], [[MAJORITY PAC]], [[Honeywell]], [[National Cattlemen's Beef Association]], [[WinRed]], [[NextEra Energy]], [[Jim Jordan]], [[Northrop Grumman]], [[Morgan Stanley]], [[American Hospital Association PAC]], [[Defending Main Street Superpac INC]], [[National Rifle Association]], [[National Multifamily Housing Council]], [[CVS Health - Aetna]], [[Associated General Contractors of America Political Action Committee]], [[AIPAC - American Israel Public Affairs Committee]], [[National Restaurant Association]], [[Lockheed Martin]], [[Jake Ellzey]], [[Defend American Jobs]], [[Bank of America]], [[Chevron]], [[Charles Schwab]], [[Coinbase]], [[Blackstone Group]], [[Apple]], [[Elliott Management]], [[Apollo Global Management]], [[HBW Resources]], [[Raytheon (RTX Corporation)]], [[Majority PAC]], [[Honeywell International]], [[LISA MURKOWSKI FOR US SENATE]], [[Donald Trump]], [[Carol D. Miller]], [[JAKE ELLZEY FOR CONGRESS]], [[NRA Political Victory Fund]], [[JIM JORDAN FOR CONGRESS]], [[Dan Newhouse]], [[Steve Scalise]], [[Brett Guthrie]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[MOORE FOR WEST VIRGINIA, INC.]], [[Tim Walberg]], [[David P. Joyce]], [[Tom Emmer]], [[BRANDON GILL FOR TEXAS]], [[ActBlue Non-Federal]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Capital Markets
-  - "Digital Assets, Financial Technology, and Artificial Intelligence"
+  - Digital Assets, Financial Technology, and Artificial Intelligence
   - House Committee on Financial Services
   - House Committee on Small Business
   - Housing and Insurance
-  - "Innovation, Entrepreneurship, and Workforce Development"
-  - "Oversight, Investigations, and Regulations"
-total-raised: "$4.6M"
-career-total-source: "FEC weball summary (cycles 2024, 2026)"
+  - Innovation, Entrepreneurship, and Workforce Development
+  - Oversight, Investigations, and Regulations
+total-raised: $4.6M
+career-total-source: FEC weball summary (cycles 2024, 2026)
 bills-sponsored: 22
 corroboration-count: 3
 ---

@@ -27,24 +27,24 @@ bills-sponsored: 93
 bills-cosponsored: 638
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[Teamsters - International Brotherhood of Teamsters]], [[National Association of Realtors]], [[Everytown for Gun Safety]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[DSCC - Democratic Senatorial Campaign Committee]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Mark DeSaulnier]], [[Care Action]], [[Nancy Pelosi]], [[Sierra Club Political Committee]], [[American Hospital Association PAC]], [[National Restaurant Association]], [[Duke Energy]], [[Sierra Club Independent Action]], [[NEA Fund for Children and Public Education]], [[Let America Vote PAC]], [[National Multifamily Housing Council]], [[IBEW - International Brotherhood of Electrical Workers]], [[Indivisible Action]], [[UA Political Action Committee]], [[League of Conservation Voters]], [[Protect the Vote]], [[Giffords PAC]], [[iHeartMedia]], [[Progressive Turnout Project]], [[American Federation of State County & Municipal Employees P E O P L E]], [[American Federation of State County & Municipal Employees  P E O P L E]]"
-last-enriched: 2026-04-20
+top-donors: "[[Teamsters - International Brotherhood of Teamsters]], [[National Association of Realtors]], [[Everytown for Gun Safety]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[DSCC - Democratic Senatorial Campaign Committee]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Mark DeSaulnier]], [[Care Action]], [[Nancy Pelosi]], [[Sierra Club Political Committee]], [[American Hospital Association PAC]], [[National Restaurant Association]], [[Duke Energy]], [[Sierra Club Independent Action]], [[NEA Fund for Children and Public Education]], [[Let America Vote PAC]], [[National Multifamily Housing Council]], [[IBEW - International Brotherhood of Electrical Workers]], [[Indivisible Action]], [[UA Political Action Committee]], [[League of Conservation Voters]], [[Protect the Vote]], [[Giffords PAC]], [[iHeartMedia]], [[Progressive Turnout Project]], [[American Federation of State County & Municipal Employees P E O P L E]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Democratic Senatorial Campaign Committee]], [[Akin Gump Strauss Hauer & Feld]], [[National Committee to Preserve Social Security & Medicare PAC]], [[JAMIE RASKIN FOR CONGRESS]], [[Rosa DeLauro]], [[J Street]], [[Google - Alphabet]], [[Associated General Contractors of America Political Action Committee]], [[Steny H. Hoyer]], [[NRA Political Victory Fund]], [[Planned Parenthood Action Fund INC]], [[John B. Larson]], [[National Education Association]], [[Janice D. Schakowsky]], [[Edward J. Markey]], [[Tyson Foods]], [[Hilda Solis]], [[MARK DESAULNIER FOR CONGRESS]], [[National Cattlemen's Beef Association]], [[Rahm Emanuel]], [[Xavier Becerra]], [[Jim McGovern]], [[DEBBIE WASSERMAN SCHULTZ FOR CONGRESS]], [[AFL-CIO]], [[Southern Company]], [[American College of Radiology Association PAC]], [[CVS Health - Aetna]], [[NANCY PELOSI FOR CONGRESS]], [[DOGGETT FOR U S CONGRESS COMMITTEE]], [[Meta - Facebook]], [[Donald S. Beyer]], [[SHERMAN FOR CONGRESS]], [[Robin L. Kelly]], [[HUFFMAN FOR CONGRESS]], [[Richard Neal]], [[Williams Companies]], [[TED LIEU FOR CONGRESS]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[Jerrold Nadler]], [[McDonalds Corporation]], [[MATSUI FOR CONGRESS]], [[Pfizer Inc.]], [[House Majority PAC]]"
+last-enriched: 2026-04-20T00:00:00.000Z
 committees:
-  - "Antitrust, Competition Policy, and Consumer Rights"
-  - "Conservation, Forestry, Natural Resources, and Biotechnology"
-  - "Energy, Natural Resources, and Infrastructure"
-  - "Federal Courts, Oversight, Agency Action, and Federal Rights"
+  - Antitrust, Competition Policy, and Consumer Rights
+  - Conservation, Forestry, Natural Resources, and Biotechnology
+  - Energy, Natural Resources, and Infrastructure
+  - Federal Courts, Oversight, Agency Action, and Federal Rights
   - Health Care
   - Intellectual Property
-  - "Livestock, Dairy, Poultry, and Food Safety"
-  - "Rural Development, Energy, and Credit"
-  - "Senate Committee on Agriculture, Nutrition, and Forestry"
+  - Livestock, Dairy, Poultry, and Food Safety
+  - Rural Development, Energy, and Credit
+  - Senate Committee on Agriculture, Nutrition, and Forestry
   - Senate Committee on Finance
   - Senate Committee on Rules and Administration
   - Senate Committee on the Judiciary
   - the Constitution
-total-raised: "$5.9M"
-career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
+total-raised: $5.9M
+career-total-source: FEC weball summary (cycles 2022, 2024, 2026)
 ---
 
 

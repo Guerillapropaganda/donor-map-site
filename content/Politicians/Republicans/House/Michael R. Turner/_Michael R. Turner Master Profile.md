@@ -1,38 +1,39 @@
 ---
-title: "Michael R. Turner"
+title: Michael R. Turner
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Ohio"
-state-abbr: "OH"
+party: Republican
+chamber: House
+state: Ohio
+state-abbr: OH
 district: "10"
-bioguide-id: "T000463"
+bioguide-id: T000463
 govtrack-id: 400411
 born: "1960-01-11"
-wikidata-id: "Q505722"
-website: "https://turner.house.gov"
-phone: "202-225-6465"
+wikidata-id: Q505722
+website: https://turner.house.gov
+phone: 202-225-6465
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 15
 bills-cosponsored: 151
 bills-enacted: 1
-top-policy-area: "Armed Forces and National Security"
-last-enriched: 2026-04-21
+top-policy-area: Armed Forces and National Security
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - House Committee on Armed Services
   - House Committee on Oversight and Government Reform
   - Military and Foreign Affairs
   - Strategic Forces
   - Tactical Air and Land Forces
+top-donors: "[[GARY PALMER FOR CONGRESS]], [[Bechtel Corporation]], [[Leidos]], [[National Restaurant Association]], [[MBNA Corporation]], [[Palantir Technologies]], [[Glenn Thompson]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Associated General Contractors of America Political Action Committee]], [[Pfizer Inc.]], [[National Cattlemen's Beef Association]], [[AFL-CIO]], [[Steve Scalise]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[NRA Political Victory Fund]], [[AIPAC - American Israel Public Affairs Committee]], [[Google - Alphabet]], [[National Right to Life PAC]], [[CLAUDIA TENNEY FOR CONGRESS]], [[John R. Carter]], [[Jim Banks]], [[JASON SMITH FOR CONGRESS]], [[Paul Ryan]], [[American College of Radiology Association PAC]], [[JIM JORDAN FOR CONGRESS]], [[KAY GRANGER CAMPAIGN FUND]], [[Pete Sessions]], [[National Right to Life Victory Fund]], [[National Education Association]], [[Gun Owners of America]], [[MIKE ROGERS FOR CONGRESS]], [[DR. BRIAN BABIN FOR CONGRESS]], [[Humana]], [[TEXANS FOR JODEY ARRINGTON]], [[INVEST IN A STRONG AND SECURE AMERICA]]"
 ---
 
 

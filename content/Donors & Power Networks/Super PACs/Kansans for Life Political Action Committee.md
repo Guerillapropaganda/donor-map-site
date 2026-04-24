@@ -11,8 +11,8 @@ fec-committee-id: C00175521
 aliases:
   - KANSANS FOR LIFE POLITICAL ACTION COMMITTEE
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Jerry Moran]], [[Ron Estes]], [[Michelle Fischbach]], [[Derek Schmidt]], [[Donald Trump]], [[Tracey Mann]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Jerry Moran]], [[Ron Estes]], [[Michelle Fischbach]], [[Derek Schmidt]], [[Donald Trump]], [[Tracey Mann]], [[DIALING SERVICES]], [[Mike Pompeo]], [[Roger Marshall]]"
 related: "[[Jerry Moran]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -24,7 +24,7 @@ cash-on-hand: 19618
 individual-contributions: 13825
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

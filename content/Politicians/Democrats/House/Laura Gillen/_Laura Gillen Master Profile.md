@@ -20,21 +20,21 @@ source-types:
   - FEC
   - GovTrack
 known-gaps:
-  - "No mapped relationships"
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2NY04244
-top-donors: "[[Pfizer Inc.]], [[League of Conservation Voters]], [[Joe Neguse]], [[NRCC - National Republican Congressional Committee]], [[Let America Vote PAC]], [[Sierra Club Independent Action]], [[Ted Lieu]], [[Food and Water Action]], [[SEIU COPE]], [[Everytown for Gun Safety Victory Fund]], [[Opportunity for All Action Fund]], [[Mark Kelly]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Jason Crow]], [[DMFI - Democratic Majority for Israel]], [[Protect Our Future PAC]], [[Pete Aguilar]], [[IBEW - International Brotherhood of Electrical Workers]], [[Judy Chu]], [[General Motors]], [[AT&T - WarnerMedia]], [[Congressional Leadership Fund]], [[Anthem - Elevance Health]], [[Morgan McGarvey]], [[Center Forward Committee]], [[Debbie Dingell]], [[Leadership Now]], [[Comcast - NBCUniversal]], [[Planned Parenthood Votes]], [[DCCC - Democratic Congressional Campaign Committee]], [[Lockheed Martin]], [[Coinbase]], [[Giffords PAC]], [[Planned Parenthood Action Fund INC]], [[Adriano Espaillat]], [[Jake Auchincloss]], [[Progressive Turnout Project]], [[Emily's List]], [[NEA Fund for Children and Public Education]], [[National Association of Realtors]], [[Hmp]], [[Nancy Pelosi]], [[UA Political Action Committee]], [[AT&T]], [[HMP]]"
-last-enriched: 2026-04-21
+top-donors: "[[Pfizer Inc.]], [[League of Conservation Voters]], [[Joe Neguse]], [[NRCC - National Republican Congressional Committee]], [[Let America Vote PAC]], [[Sierra Club Independent Action]], [[Ted Lieu]], [[Food and Water Action]], [[SEIU COPE]], [[Everytown for Gun Safety Victory Fund]], [[Opportunity for All Action Fund]], [[Mark Kelly]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Jason Crow]], [[DMFI - Democratic Majority for Israel]], [[Protect Our Future PAC]], [[Pete Aguilar]], [[IBEW - International Brotherhood of Electrical Workers]], [[Judy Chu]], [[General Motors]], [[AT&T - WarnerMedia]], [[Congressional Leadership Fund]], [[Anthem - Elevance Health]], [[Morgan McGarvey]], [[Center Forward Committee]], [[Debbie Dingell]], [[Leadership Now]], [[Comcast - NBCUniversal]], [[Planned Parenthood Votes]], [[DCCC - Democratic Congressional Campaign Committee]], [[Lockheed Martin]], [[Coinbase]], [[Giffords PAC]], [[Planned Parenthood Action Fund INC]], [[Adriano Espaillat]], [[Jake Auchincloss]], [[Progressive Turnout Project]], [[Emily's List]], [[NEA Fund for Children and Public Education]], [[National Association of Realtors]], [[Hmp]], [[Nancy Pelosi]], [[UA Political Action Committee]], [[AT&T]], [[HMP]], [[Yvette D. Clarke]], [[LORI TRAHAN FOR CONGRESS COMMITTEE]], [[GRACE FOR NEW YORK]], [[National Education Association]], [[SHARICE FOR CONGRESS]], [[SHERMAN FOR CONGRESS]], [[Janice D. Schakowsky]], [[Richard Neal]], [[TED LIEU FOR CONGRESS]], [[CITIZENS TO ELECT RICK LARSEN]], [[JAKE AUCHINCLOSS FOR CONGRESS]], [[NANCY PELOSI FOR CONGRESS]], [[Chellie Pingree]], [[KATHERINE CLARK FOR CONGRESS]], [[STRICKLAND FOR WASHINGTON]], [[Marc A. Veasey]], [[Donald S. Beyer]], [[PETE AGUILAR FOR CONGRESS]], [[JOE NEGUSE FOR CONGRESS]], [[JASON CROW FOR CONGRESS]], [[Bradley Scott Schneider]], [[Robert Garcia]], [[DEBBIE DINGELL FOR CONGRESS]], [[DEBORAH ROSS FOR CONGRESS]], [[Lizzie Fletcher]], [[Steny H. Hoyer]], [[JUDY CHU FOR CONGRESS]], [[MARK KELLY FOR SENATE]], [[Hakeem Jeffries]], [[JASMINE FOR US]], [[CASTOR FOR CONGRESS]], [[ADRIANO ESPAILLAT FOR CONGRESS]], [[MORGAN MCGARVEY FOR CONGRESS]], [[SCOTT PETERS FOR CONGRESS]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Aviation
   - Coast Guard and Maritime Transportation
   - Highways and Transit
-  - "House Committee on Science, Space, and Technology"
+  - House Committee on Science, Space, and Technology
   - House Committee on Transportation and Infrastructure
   - Space and Aeronautics
   - Water Resources and Environment
-total-raised: "$6.0M"
-career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
+total-raised: $6.0M
+career-total-source: FEC weball summary (cycles 2022, 2024, 2026)
 bills-sponsored: 12
 corroboration-count: 3
 ---

@@ -18,25 +18,25 @@ phone: 202-225-4731
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H8PA04116
 bills-sponsored: 27
 bills-cosponsored: 470
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[AT&T - WarnerMedia]], [[International Brotherhood of Electrical Workers Local 98 Committee on Political Education]], [[AbbVie]], [[Amgen Inc]], [[Honeywell]], [[Anthem - Elevance Health]], [[Comcast - NBCUniversal]], [[Northrop Grumman]], [[NEA Fund for Children and Public Education]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Walmart - Walton Family]], [[SEIU COPE]], [[L3Harris Technologies]], [[American Hospital Association PAC]], [[General Dynamics]], [[Sierra Club Independent Action]], [[Care Action]], [[General Motors]], [[Teamsters - International Brotherhood of Teamsters]], [[Sierra Club Political Committee]], [[Citigroup]], [[Pennsylvania Pro-Life Federation PAC]], [[American Gaming Association]], [[Ford Motor Company]], [[Lockheed Martin]], [[Leidos]], [[Gilead Sciences]], [[ENVIRONMENT AMERICA INC]], [[Human Rights Campaign Equality Votes]], [[National Multifamily Housing Council]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Progressive Turnout Project]], [[National Association of Realtors]], [[J Street]], [[Giffords PAC]], [[League of Conservation Voters]], [[UA Political Action Committee]], [[Ted Lieu]], [[McDonalds Corporation]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[iHeartMedia]], [[Google - Alphabet]], [[Pfizer Inc.]], [[Planned Parenthood Votes]], [[Raytheon (RTX)]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[BAE Systems]], [[Microsoft]], [[Nancy Pelosi]], [[Johnson & Johnson]], [[Bank of America]], [[Morgan Stanley]], [[Everytown for Gun Safety]], [[IBEW - International Brotherhood of Electrical Workers]], [[National Committee to Preserve Social Security PAC]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[AT&T]], [[Honeywell International]], [[Environment America INC]]"
-last-enriched: 2026-04-21
+top-donors: "[[AT&T - WarnerMedia]], [[International Brotherhood of Electrical Workers Local 98 Committee on Political Education]], [[AbbVie]], [[Amgen Inc]], [[Honeywell]], [[Anthem - Elevance Health]], [[Comcast - NBCUniversal]], [[Northrop Grumman]], [[NEA Fund for Children and Public Education]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Walmart - Walton Family]], [[SEIU COPE]], [[L3Harris Technologies]], [[American Hospital Association PAC]], [[General Dynamics]], [[Sierra Club Independent Action]], [[Care Action]], [[General Motors]], [[Teamsters - International Brotherhood of Teamsters]], [[Sierra Club Political Committee]], [[Citigroup]], [[Pennsylvania Pro-Life Federation PAC]], [[American Gaming Association]], [[Ford Motor Company]], [[Lockheed Martin]], [[Leidos]], [[Gilead Sciences]], [[ENVIRONMENT AMERICA INC]], [[Human Rights Campaign Equality Votes]], [[National Multifamily Housing Council]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Progressive Turnout Project]], [[National Association of Realtors]], [[J Street]], [[Giffords PAC]], [[League of Conservation Voters]], [[UA Political Action Committee]], [[Ted Lieu]], [[McDonalds Corporation]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[iHeartMedia]], [[Google - Alphabet]], [[Pfizer Inc.]], [[Planned Parenthood Votes]], [[Raytheon (RTX)]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[BAE Systems]], [[Microsoft]], [[Nancy Pelosi]], [[Johnson & Johnson]], [[Bank of America]], [[Morgan Stanley]], [[Everytown for Gun Safety]], [[IBEW - International Brotherhood of Electrical Workers]], [[National Committee to Preserve Social Security PAC]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[AT&T]], [[Honeywell International]], [[Environment America INC]], [[Raytheon (RTX Corporation)]], [[Hakeem Jeffries]], [[National Education Association]], [[AFL-CIO]], [[Planned Parenthood Action Fund INC]], [[PETE AGUILAR FOR CONGRESS]], [[CVS Health - Aetna]], [[JULIA BROWNLEY FOR CONGRESS]], [[Humana]], [[BILL FOSTER FOR CONGRESS]], [[MARK TAKANO FOR CONGRESS]], [[CASTOR FOR CONGRESS]], [[Let America Vote PAC]], [[BARBARA LEE FOR CONGRESS]], [[Emily's List]], [[CASTRO FOR CONGRESS]], [[TED LIEU FOR CONGRESS]], [[Emgage Federal Political Action Committee]], [[Meta - Facebook]], [[NANCY PELOSI FOR CONGRESS]], [[Jerrold Nadler]], [[National Committee to Preserve Social Security & Medicare PAC]], [[LOIS FRANKEL FOR CONGRESS]], [[MIKE THOMPSON FOR CONGRESS]], [[Commonwealth Communications]], [[KATHERINE CLARK FOR CONGRESS]], [[MATSUI FOR CONGRESS]], [[GRACE FOR NEW YORK]], [[LOFGREN FOR CONGRESS]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Commerce, Justice, Science, and Related Agencies"
+  - Commerce, Justice, Science, and Related Agencies
   - House Committee on Appropriations
   - House Committee on Foreign Affairs
-  - "Labor, Health and Human Services, Education, and Related Agencies"
+  - Labor, Health and Human Services, Education, and Related Agencies
   - Oversight and Intelligence
-total-raised: "$7.9M"
-career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
+total-raised: $7.9M
+career-total-source: FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)
 ---
 
 

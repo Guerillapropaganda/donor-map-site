@@ -1,40 +1,41 @@
 ---
-title: "William R. Timmons"
+title: William R. Timmons
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "South Carolina"
-state-abbr: "SC"
+party: Republican
+chamber: House
+state: South Carolina
+state-abbr: SC
 district: "4"
-bioguide-id: "T000480"
+bioguide-id: T000480
 govtrack-id: 412815
 born: "1984-04-30"
-wikidata-id: "Q28837296"
-website: "https://timmons.house.gov"
-phone: "202-225-6030"
+wikidata-id: Q28837296
+website: https://timmons.house.gov
+phone: 202-225-6030
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 13
 bills-cosponsored: 267
 bills-enacted: 0
-top-policy-area: "Finance and Financial Sector"
-last-enriched: 2026-04-21
+top-policy-area: Finance and Financial Sector
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Delivering on Government Efficiency
-  - "Digital Assets, Financial Technology, and Artificial Intelligence"
+  - Digital Assets, Financial Technology, and Artificial Intelligence
   - Financial Institutions
   - House Committee on Financial Services
   - House Committee on Oversight and Government Reform
   - Housing and Insurance
   - Military and Foreign Affairs
+top-donors: "[[National Restaurant Association]], [[JIM JORDAN FOR CONGRESS]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[Guy Reschenthaler]], [[Southern Company]], [[AUGUST PFLUGER FOR CONGRESS]], [[TEXANS FOR JODEY ARRINGTON]], [[Steve Scalise]], [[National Association of Manufacturers]], [[Koch Industries]], [[NRA Political Victory Fund]], [[MIKE COLLINS FOR SENATE]], [[JAKE ELLZEY FOR CONGRESS]], [[BEN CLINE FOR CONGRESS, INC.]], [[JASON SMITH FOR CONGRESS]], [[Frank Lucas]], [[CLAUDIA TENNEY FOR CONGRESS]], [[Glenn Thompson]], [[AIPAC - American Israel Public Affairs Committee]], [[JOE WILSON FOR CONGRESS]], [[Meta - Facebook]], [[McDonalds Corporation]], [[Tom Emmer]], [[Associated General Contractors of America Political Action Committee]], [[Kevin McCarthy]], [[FRIENDS OF DUSTY JOHNSON]], [[Conservative Leadership PAC]], [[National Rental Home Council]], [[Humana]], [[Williams Companies]], [[Darin Lahood]], [[American College of Radiology Association PAC]], [[MICHAEL WALTZ FOR CONGRESS]], [[MCCAUL FOR CONGRESS, INC]], [[Defend American Jobs]], [[Republican Jewish Coalition]], [[National Victory Action Fund]]"
 ---
 
 

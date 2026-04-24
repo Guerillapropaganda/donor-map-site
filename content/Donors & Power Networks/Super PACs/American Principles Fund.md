@@ -5,14 +5,14 @@ content-readiness: data-complete
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00527804
 aliases:
   - AMERICAN PRINCIPLES FUND
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Cory Booker]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Cory Booker]], [[CBS OUTDOOR]], [[ELECTORAL STRATEGIES INC.]], [[Ron DeSantis]], [[Michael T. McCaul]], [[Bill Cassidy]], [[Deb Fischer]], [[Lee Zeldin]], [[Byron Donalds]], [[Marco Rubio]], [[Brian Mast]], [[Marlin A. Stutzman]], [[Carlos Gimenez]], [[Mario Diaz-Balart]], [[Ron Johnson]], [[Ronny Jackson]], [[Glenn Grothman]], [[Rick Scott]], [[Nicole Malliotakis]], [[Derrick van Orden]], [[Ashley Hinson]], [[Jason Smith]], [[Michael Lawler]], [[Andy Barr]], [[Kat Cammack]], [[Bill Huizenga]], [[Joe Wilson]], [[Andy Harris]], [[Scott Perry]], [[Brian Jack]], [[Greg Casar]], [[Rand Paul]], [[Lindsey Graham]], [[Maria Elvira Salazar]], [[Mariannette Miller-Meeks]], [[Elise Stefanik]], [[Michael Whatley]], [[JD Vance]], [[Gus M. Bilirakis]], [[Claudia Tenney]], [[Mitch McConnell]], [[Dan Sullivan]], [[Jim Jordan]], [[Mary E. Miller]], [[Ryan Zinke]], [[Ted Cruz]], [[Lauren Boebert]], [[Chip Roy]], [[Tim Moore]], [[Ted Budd]], [[John Barrasso]], [[David McCormick]], [[Anna Paulina Luna]], [[Chuck Grassley]], [[Tom Cotton]], [[Mike Carey]], [[Russell Fry]], [[David G. Valadao]], [[Randy Fine]], [[Sam Graves]], [[Tim Scott]], [[Stephanie I. Bice]], [[Mike Lee]], [[W. Gregory Steube]], [[Aaron Bean]], [[John Cornyn]], [[Michelle Fischbach]], [[Bernie Moreno]], [[Bruce Westerman]], [[Paul Ryan]], [[Don Bacon]], [[Matt Gaetz]], [[Kevin Cramer]], [[Tim Sheehy]], [[Brian Babin]], [[Tony Gonzales]], [[Josh Hawley]], [[John James]], [[Charles J. Chuck Fleischmann]], [[Josh Brecheen]], [[Tommy Tuberville]], [[Joni Ernst]], [[Brian K. Fitzpatrick]], [[Todd Young]], [[Harriet M. Hageman]], [[Mike Bost]], [[Tom Emmer]], [[Guy Reschenthaler]], [[Dusty Johnson]], [[Cathy McMorris Rodgers]], [[Young Kim]], [[Gary J. Palmer]], [[Mark Green]], [[David Kustoff]], [[Steve Scalise]], [[Andrew R. Garbarino]], [[John Boehner]], [[Burgess Owens]], [[Max L. Miller]], [[Thomas P. Tiffany]], [[Jefferson van Drew]], [[Richard McCormick]]"
 related: "[[Cory Booker]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -21,9 +21,9 @@ urls-first-triaged: "2026-04-15"
 cash-on-hand: 510
 source-types:
   - FEC
-last-enriched: 2026-04-21
-total-political-spend: "$313K"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026"
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $313K
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026
 ---
 
 

@@ -1,38 +1,39 @@
 ---
-title: "Bradley Scott Schneider"
+title: Bradley Scott Schneider
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Illinois"
-state-abbr: "IL"
+party: Democrat
+chamber: House
+state: Illinois
+state-abbr: IL
 district: "10"
-bioguide-id: "S001190"
+bioguide-id: S001190
 govtrack-id: 412534
 born: "1961-08-20"
-wikidata-id: "Q2923426"
-website: "https://schneider.house.gov"
-phone: "202-225-4835"
+wikidata-id: Q2923426
+website: https://schneider.house.gov
+phone: 202-225-4835
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 34
 bills-cosponsored: 395
 bills-enacted: 1
-top-policy-area: "International Affairs"
-last-enriched: 2026-04-21
+top-policy-area: International Affairs
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - House Committee on Foreign Affairs
   - House Committee on Ways and Means
   - Oversight and Intelligence
   - Tax
   - Trade
+top-donors: "[[Hakeem Jeffries]], [[Steny H. Hoyer]], [[Coinbase]], [[JULIA BROWNLEY FOR CONGRESS]], [[GEO Group - Private Prison Industrial Complex]], [[National Education Association]], [[DOGGETT FOR U S CONGRESS COMMITTEE]], [[NANCY PELOSI FOR CONGRESS]], [[Southern Company]], [[Associated General Contractors of America Political Action Committee]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Steve Cohen]], [[American College of Radiology Association PAC]], [[Edward J. Markey]], [[AbbVie]], [[Peter Welch]], [[Google - Alphabet]], [[Giffords PAC]], [[Amgen Inc]], [[Tulsi Gabbard]], [[Let America Vote PAC]], [[HIMES FOR CONGRESS]], [[CVS Health - Aetna]], [[McDonalds Corporation]], [[Pfizer Inc.]], [[Robin L. Kelly]], [[Rosa DeLauro]], [[Adam Smith]], [[Akin Gump Strauss Hauer & Feld]], [[Humana]], [[PAUL TONKO FOR CONGRESS]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Planned Parenthood Action Fund INC]], [[League of Conservation Voters]], [[MATSUI FOR CONGRESS]], [[AFL-CIO]], [[Janice D. Schakowsky]], [[AIPAC - American Israel Public Affairs Committee]], [[LOFGREN FOR CONGRESS]], [[Richard Neal]], [[Meta - Facebook]], [[Yvette D. Clarke]], [[JUDY CHU FOR CONGRESS]], [[LOIS FRANKEL FOR CONGRESS]], [[John B. Larson]], [[Marcy Kaptur]], [[DIANA DEGETTE FOR CONGRESS]], [[MARK TAKANO FOR CONGRESS]], [[Sierra Club Political Committee]], [[Environment America INC]], [[Juan Vargas]], [[Eric Swalwell]], [[Jerry Nadler]], [[CASTRO FOR CONGRESS]], [[Gilead Sciences]], [[GALLEGO FOR ARIZONA]], [[Frank Pallone]], [[PETE AGUILAR FOR CONGRESS]], [[JIM COSTA FOR CONGRESS]], [[MIKE THOMPSON FOR CONGRESS]], [[American Gaming Association]], [[DEBBIE WASSERMAN SCHULTZ FOR CONGRESS]], [[KATHERINE CLARK FOR CONGRESS]], [[Dina Titus]], [[National Association of Manufacturers]], [[BILL FOSTER FOR CONGRESS]], [[James E. Clyburn]], [[CASTOR FOR CONGRESS]], [[Jerrold Nadler]], [[ADM - Archer Daniels Midland]], [[QUIGLEY FOR CONGRESS]], [[Danny K. Davis]], [[DAVID SCOTT FOR CONGRESS]], [[SETH FOR MASSACHUSETTS, INC]], [[TITUS FOR CONGRESS]], [[GRACE FOR NEW YORK]], [[BARBARA LEE FOR CONGRESS]], [[National Restaurant Association]], [[HUFFMAN FOR CONGRESS]]"
 ---
 
 

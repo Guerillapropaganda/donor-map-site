@@ -18,24 +18,24 @@ phone: 202-225-5355
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H8OH12180
 bills-sponsored: 18
 bills-cosponsored: 283
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[Marathon Petroleum]], [[American Hospital Association PAC]], [[David Rouzer]], [[Chevron]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Walmart - Walton Family]], [[Nucor Corporation]], [[AIPAC - American Israel Public Affairs Committee]], [[General Motors]], [[Performance Racing Inc.]], [[Valero Energy]], [[Northrop Grumman]], [[General Dynamics]], [[National Restaurant Association]], [[Austin Scott]], [[MAJORITY PAC]], [[Save America PAC]], [[Honeywell]], [[National Association of Manufacturers]], [[Amgen Inc]], [[CVS Health - Aetna]], [[Jim Jordan]], [[National Cattlemen's Beef Association]], [[Associated General Contractors of America Political Action Committee]], [[McDonalds Corporation]], [[AT&T - WarnerMedia]], [[National Right to Life Victory Fund]], [[National Rifle Association]], [[Pfizer Inc.]], [[National Multifamily Housing Council]], [[American Chemistry Council, INC]], [[iHeartMedia]], [[Care Action]], [[AbbVie]], [[National Association of Realtors]], [[Anthem - Elevance Health]], [[Microsoft]], [[American College of Radiology Association PAC]], [[Duke Energy]], [[Ford Motor Company]], [[Comcast - NBCUniversal]], [[UA Political Action Committee]], [[WinRed]], [[Gilead Sciences]], [[Halliburton]], [[Google - Alphabet]], [[AT&T]], [[Majority PAC]], [[Honeywell International]]"
-last-enriched: 2026-04-21
+top-donors: "[[Marathon Petroleum]], [[American Hospital Association PAC]], [[David Rouzer]], [[Chevron]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Walmart - Walton Family]], [[Nucor Corporation]], [[AIPAC - American Israel Public Affairs Committee]], [[General Motors]], [[Performance Racing Inc.]], [[Valero Energy]], [[Northrop Grumman]], [[General Dynamics]], [[National Restaurant Association]], [[Austin Scott]], [[MAJORITY PAC]], [[Save America PAC]], [[Honeywell]], [[National Association of Manufacturers]], [[Amgen Inc]], [[CVS Health - Aetna]], [[Jim Jordan]], [[National Cattlemen's Beef Association]], [[Associated General Contractors of America Political Action Committee]], [[McDonalds Corporation]], [[AT&T - WarnerMedia]], [[National Right to Life Victory Fund]], [[National Rifle Association]], [[Pfizer Inc.]], [[National Multifamily Housing Council]], [[American Chemistry Council, INC]], [[iHeartMedia]], [[Care Action]], [[AbbVie]], [[National Association of Realtors]], [[Anthem - Elevance Health]], [[Microsoft]], [[American College of Radiology Association PAC]], [[Duke Energy]], [[Ford Motor Company]], [[Comcast - NBCUniversal]], [[UA Political Action Committee]], [[WinRed]], [[Gilead Sciences]], [[Halliburton]], [[Google - Alphabet]], [[AT&T]], [[Majority PAC]], [[Honeywell International]], [[American Iron and Steel Institute]], [[JIM JORDAN FOR CONGRESS]], [[AFL-CIO]], [[Steve Scalise]], [[DAVID ROUZER FOR CONGRESS]], [[Defending Main Street Superpac INC]], [[NRA Political Victory Fund]], [[Donald Trump]], [[MCCAUL FOR CONGRESS, INC]], [[FRIENDS OF MATT GAETZ]], [[Koch Industries]], [[Kevin McCarthy]], [[KAY GRANGER CAMPAIGN FUND]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[Roger Marshall]], [[Pete Sessions]], [[JOE WILSON FOR CONGRESS]], [[JASON SMITH FOR CONGRESS]], [[DR. BRIAN BABIN FOR CONGRESS]], [[Meta - Facebook]], [[Rick Crawford]], [[James R. Baird]], [[Southern Company]], [[TEXANS FOR JODEY ARRINGTON]], [[Williams Companies]], [[Leidos]], [[Akin Gump Strauss Hauer & Feld]], [[DAVIDSON FOR CONGRESS]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Energy
   - Health
   - House Committee on Energy and Commerce
   - Oversight and Investigations
-total-raised: "$10.0M"
-career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
+total-raised: $10.0M
+career-total-source: FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)
 ---
 
 

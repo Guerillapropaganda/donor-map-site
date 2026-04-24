@@ -5,14 +5,14 @@ content-readiness: data-complete
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00564997
 aliases:
   - DIRECT SELLING EMPOWERS AMERICANS
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Gregory Meeks]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Gregory Meeks]], [[POTOMAC COMMUNICATIONS GROUP PCG]], [[Marsha Blackburn]], [[Marc A. Veasey]], [[Juan Vargas]], [[Henry Cuellar]], [[Tim Walberg]], [[Steven Horsford]], [[Joni Ernst]], [[Kyrsten Sinema]], [[Joyce Beatty]]"
 related: "[[Gregory Meeks]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -21,9 +21,9 @@ urls-first-triaged: "2026-04-15"
 cash-on-hand: 477
 source-types:
   - FEC
-last-enriched: 2026-04-21
-total-political-spend: "$152K"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2014, 2016, 2018"
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $152K
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2014, 2016, 2018
 ---
 
 

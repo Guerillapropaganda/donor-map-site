@@ -1,32 +1,32 @@
 ---
-title: "Christopher H. Smith"
+title: Christopher H. Smith
 type: politician
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "New Jersey"
-state-abbr: "NJ"
+party: Republican
+chamber: House
+state: New Jersey
+state-abbr: NJ
 district: "4"
-bioguide-id: "S000522"
+bioguide-id: S000522
 govtrack-id: 400380
 born: "1953-03-04"
-wikidata-id: "Q981167"
-website: "https://chrissmith.house.gov"
-phone: "202-225-3765"
+wikidata-id: Q981167
+website: https://chrissmith.house.gov
+phone: 202-225-3765
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-donors: "[[ActBlue]]"
+  - No FEC contribution data
+  - No voting record data
+donors: "[[ActBlue]], [[AFL-CIO]], [[Amgen Inc]], [[Associated General Contractors of America Political Action Committee]], [[National Right to Life PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[National Committee to Preserve Social Security & Medicare PAC]], [[NRA Political Victory Fund]], [[Mike Johnson]], [[National Education Association]], [[Family Research Council Action Political Action Committee]], [[Bechtel Corporation]], [[Giffords PAC]], [[Pfizer Inc.]], [[Women Speak Out Pac]], [[National Restaurant Association]], [[Steve Scalise]], [[TEXANS FOR JODEY ARRINGTON]], [[Humane Society Legislative Fund]], [[Darin Lahood]], [[Campaign for Working Families]], [[American College of Radiology Association PAC]], [[Williams Companies]], [[BYRON DONALDS FOR CONGRESS]], [[MARIO DIAZ-BALART FOR CONGRESS]], [[Kevin McCarthy]], [[National Right to Life Victory Fund]], [[Roger Marshall]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 54
 bills-cosponsored: 378
 bills-enacted: 2
-top-policy-area: "International Affairs"
-last-enriched: 2026-04-21
+top-policy-area: International Affairs
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Africa
   - House Committee on Foreign Affairs

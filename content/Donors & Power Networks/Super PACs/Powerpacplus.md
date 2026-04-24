@@ -11,8 +11,8 @@ fec-committee-id: C00516500
 aliases:
   - POWERPACPLUS
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Cory Booker]], [[Josh Harder]], [[Kamala Harris]], [[Ron Johnson]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Cory Booker]], [[Josh Harder]], [[Kamala Harris]], [[Ron Johnson]], [[Deborah K. Ross]], [[Tulsi Gabbard]], [[Marc A. Veasey]], [[Gilbert Ray Cisneros]], [[Bonnie Watson Coleman]], [[Mark Takano]], [[Steven Horsford]], [[Lucy McBath]], [[Katie Porter]], [[Pramila Jayapal]], [[Barbara Lee]], [[Pete Aguilar]], [[Catherine Cortez Masto]], [[Mazie K. Hirono]]"
 related: "[[Cory Booker]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -24,7 +24,7 @@ cash-on-hand: 110887
 contributions-to-committees: 1000
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

@@ -1,30 +1,30 @@
 ---
-title: "Gabe Evans"
+title: Gabe Evans
 type: politician
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Colorado"
-state-abbr: "CO"
+party: Republican
+chamber: House
+state: Colorado
+state-abbr: CO
 district: "8"
-bioguide-id: "E000300"
+bioguide-id: E000300
 govtrack-id: 456984
 born: "1986-07-28"
-wikidata-id: "Q115458993"
-website: "https://gabeevans.house.gov"
-phone: "202-225-5625"
+wikidata-id: Q115458993
+website: https://gabeevans.house.gov
+phone: 202-225-5625
 source-types:
   - Congress
   - GovTrack
 known-gaps:
-  - "No FEC contribution data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Commerce, Manufacturing, and Trade"
+  - Commerce, Manufacturing, and Trade
   - Counterterrorism and Intelligence
   - Emergency Management and Technology
   - Energy
@@ -33,6 +33,7 @@ committees:
   - House Committee on Homeland Security
 bills-sponsored: 17
 corroboration-count: 2
+top-donors: "[[CLYDE FOR CONGRESS, INC.]], [[National Cattlemen's Beef Association]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[Rick Crawford]], [[COMER FOR CONGRESS]], [[Russ Fulcher]], [[JAKE ELLZEY FOR CONGRESS]], [[FRY FOR CONGRESS]], [[H. Morgan Griffith]], [[Google - Alphabet]], [[American College of Radiology Association PAC]], [[LISA MCCLAIN FOR CONGRESS]], [[Campaign for Working Families]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[MIKE HARIDOPOLOS FOR CONGRESS]], [[Robert E. Latta]], [[Gregory F. Murphy]], [[BURGESS 4 UTAH]], [[Ashley Hinson]], [[ADRIAN SMITH FOR CONGRESS]], [[MIKE KENNEDY FOR UTAH]], [[Tyson Foods]], [[Tom Emmer]], [[DAVE TAYLOR FOR CONGRESS]], [[Frank Lucas]], [[Associated General Contractors of America Political Action Committee]], [[JEFF HURD FOR CONGRESS]], [[NRA Political Victory Fund]], [[Williams Companies]], [[Dale W. Strong]], [[Special Operations for America]], [[Steve Scalise]], [[HOUCHIN FOR CONGRESS]], [[Gus M. Bilirakis]], [[Harold Rogers]], [[Brett Guthrie]], [[NATHANIEL MORAN FOR CONGRESS]], [[ROBERT ADERHOLT FOR CONGRESS]], [[JOE WILSON FOR CONGRESS]], [[Koch Industries]], [[FRIENDS OF TIM MOORE]], [[ANDY HARRIS FOR CONGRESS]], [[BURCHETT FOR CONGRESS]], [[Lloyd Smucker]], [[RICK W. ALLEN FOR CONGRESS]], [[DR JOHN JOYCE FOR CONGRESS]], [[Mark B. Messmer]], [[Pfizer Inc.]], [[BEN CLINE FOR CONGRESS, INC.]], [[Kevin Kiley]], [[Robert F. Onder]], [[Jimmy Patronis]], [[MICHAEL WALTZ FOR CONGRESS]], [[Occidental Petroleum]], [[Michael Guest]], [[CVS Health - Aetna]], [[TROY DOWNING FOR CONGRESS]], [[CARLOS GIMENEZ FOR CONGRESS]], [[MARY MILLER FOR CONGRESS]], [[PETE SESSIONS FOR CONGRESS]], [[BOST, MICHAEL]], [[MARK HARRIS FOR CONGRESS]], [[Republican Jewish Coalition]], [[Amgen Inc]], [[MOORE FOR WEST VIRGINIA, INC.]], [[DAVID ROUZER FOR CONGRESS]], [[Mike Johnson]], [[David P. Joyce]], [[Pat Fallon]], [[Freedom's Defense Fund]], [[Jeff Hurd]], [[AUGUST PFLUGER FOR CONGRESS]], [[Clay Higgins]], [[CLIFF BENTZ FOR CONGRESS]], [[BRAD KNOTT FOR CONGRESS]], [[Elise Stefanik]], [[GARY PALMER FOR CONGRESS]], [[Tim Walberg]], [[Honoring American Law Enforcement Pac]], [[JIM JORDAN FOR CONGRESS]], [[Brandon Gill]], [[RON ESTES FOR CONGRESS]], [[NEHLS FOR CONGRESS]], [[Neal P. Dunn]], [[FEDORCHAK FOR ND]], [[Law Enforcement for a Safer America Pac]], [[Guy Reschenthaler]], [[HAGEMAN FOR WYOMING]], [[KEVIN KILEY FOR CONGRESS]], [[JOHN JAMES FOR CONGRESS, INC.]], [[Mike Ezell]], [[DON BACON FOR CONGRESS]], [[WEBER FOR CONGRESS]], [[John J. McGuire]], [[MCCAUL FOR CONGRESS, INC]]"
 ---
 
 

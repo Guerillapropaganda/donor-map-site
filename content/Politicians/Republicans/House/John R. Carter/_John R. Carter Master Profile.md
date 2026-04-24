@@ -1,37 +1,38 @@
 ---
-title: "John R. Carter"
+title: John R. Carter
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Texas"
-state-abbr: "TX"
+party: Republican
+chamber: House
+state: Texas
+state-abbr: TX
 district: "31"
-bioguide-id: "C001051"
+bioguide-id: C001051
 govtrack-id: 400068
 born: "1941-11-06"
-wikidata-id: "Q369814"
-website: "https://carter.house.gov"
-phone: "202-225-3864"
+wikidata-id: Q369814
+website: https://carter.house.gov
+phone: 202-225-3864
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 9
 bills-cosponsored: 150
 bills-enacted: 0
-top-policy-area: "International Affairs"
-last-enriched: 2026-04-21
+top-policy-area: International Affairs
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Commerce, Justice, Science, and Related Agencies"
+  - Commerce, Justice, Science, and Related Agencies
   - Defense
   - House Committee on Appropriations
-  - "Military Construction, Veterans Affairs, and Related Agencies"
+  - Military Construction, Veterans Affairs, and Related Agencies
+top-donors: "[[American College of Radiology Association PAC]], [[Southern Company]], [[Akin Gump Strauss Hauer & Feld]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[Williams Companies]], [[Leidos]], [[NRA Political Victory Fund]], [[JOHN CURTIS FOR UTAH]], [[National Education Association]], [[Glenn Thompson]], [[Paul Ryan]], [[Bechtel Corporation]], [[AFL-CIO]], [[Democratic Senatorial Campaign Committee]], [[Mark E. Amodei]], [[Occidental Petroleum]], [[Donald Trump]], [[Google - Alphabet]], [[Pfizer Inc.]], [[BEN CLINE FOR CONGRESS, INC.]], [[National Restaurant Association]], [[Richard Hudson]], [[CoreCivic]], [[CLOUD FOR CONGRESS]], [[GEO Group - Private Prison Industrial Complex]], [[TEXANS FOR JODEY ARRINGTON]], [[Gregory F. Murphy]], [[National Cattlemen's Beef Association]], [[Koch Industries]], [[John W. Rose]], [[John Cornyn]], [[Amgen Inc]], [[AIPAC - American Israel Public Affairs Committee]], [[Associated General Contractors of America Political Action Committee]], [[JASON SMITH FOR CONGRESS]], [[Brett Guthrie]], [[Darin Lahood]], [[Steve Scalise]], [[BETH VAN DUYNE FOR CONGRESS]], [[ROGER WILLIAMS FOR U S CONGRESS COMMITTEE]], [[BYRON DONALDS FOR CONGRESS]], [[DR. BRIAN BABIN FOR CONGRESS]], [[Rick Crawford]], [[Tyson Foods]], [[AUGUST PFLUGER FOR CONGRESS]], [[Scott Desjarlais]], [[W. Gregory Steube]], [[Mike Johnson]], [[MOORE FOR WEST VIRGINIA, INC.]], [[KAY GRANGER CAMPAIGN FUND]], [[Pete Sessions]], [[JAKE ELLZEY FOR CONGRESS]], [[David P. Joyce]], [[GARY PALMER FOR CONGRESS]], [[Frank Lucas]], [[WEBER FOR CONGRESS]], [[NATHANIEL MORAN FOR CONGRESS]], [[JOE WILSON FOR CONGRESS]], [[Tom Emmer]], [[McDonalds Corporation]], [[Humana]], [[ANDY HARRIS FOR CONGRESS]], [[Kevin McCarthy]], [[Ronny Jackson]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[NEHLS FOR CONGRESS]]"
 ---
 
 

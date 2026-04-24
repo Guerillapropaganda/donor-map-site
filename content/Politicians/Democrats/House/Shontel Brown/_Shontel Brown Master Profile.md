@@ -2,7 +2,7 @@
 title: Shontel Brown
 type: politician
 content-readiness: data-complete
-last-updated: 2026-04-19
+last-updated: 2026-04-19T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Democrat
@@ -13,28 +13,28 @@ district: "11"
 issues:
   - Israel & Foreign Policy
 related: "[[_Nina Turner Master Profile]] · [[DMFI - Democratic Majority for Israel]] · [[AIPAC - American Israel Public Affairs Committee]]"
-donors: "[[Lawrence Summers]] · [[Republican Jewish Coalition]] · [[DMFI PAC]] · [[DMFI - Democratic Majority for Israel]] · [[Protecting Our Vote Pac]] · [[PROTECT OUR FUTURE PAC]] · [[THE DEMOCRATIC ACTION PAC]] · [[The Democratic Action PAC]] · [[Protect Our Future PAC]] · [[National Multifamily Housing Council]] · [[Nancy Pelosi]] · [[NEA Fund for Children and Public Education]] · [[American Hospital Association PAC]] · [[DoorDash]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Google - Alphabet]] · [[Barbara Lee]] · [[UA Political Action Committee]] · [[Honeywell]] · [[American Chemistry Council, INC]] · [[Congressional Progressive Caucus PAC]] · [[Pfizer Inc.]] · [[NextEra Energy]] · [[Anthem - Elevance Health]] · [[League of Conservation Voters]] · [[AIPAC - American Israel Public Affairs Committee]] · [[General Dynamics]] · [[Pete Aguilar]] · [[Amgen Inc]] · [[Humana]] · [[ENVIRONMENT AMERICA INC]] · [[Progressive Turnout Project]] · [[AT&T - WarnerMedia]] · [[Microsoft]] · [[Comcast - NBCUniversal]] · [[Bank of America]] · [[CVS Health - Aetna]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Nucor Corporation]] · [[VOTER PROTECTION PROJECT]] · [[Ford Motor Company]] · [[American Gaming Association]] · [[United Democracy Project - UDP]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[ADM - Archer Daniels Midland]] · [[Unite Here Tip Campaign Committee]] · [[SEIU COPE]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[Lockheed Martin]] · [[Walmart - Walton Family]] · [[National Association of Realtors]] · [[General Motors]] · [[Ted Lieu]] · [[Sierra Club Independent Action]] · [[Tyson Foods]] · [[National Cattlemen's Beef Association]] · [[Bonnie Watson Coleman]] · [[NORPAC]] · [[Giffords PAC]] · [[UNITED DEMOCRACY PROJECT ('UDP')]] · [[Novo Nordisk]] · [[Morgan Stanley]] · [[Verizon]] · [[Boeing]] · [[Goldman Sachs]] · [[Wells Fargo]] · [[News Corp - Fox Corporation]] · [[Amazon]] · [[Meta - Facebook]] · [[Cigna Group]] · [[US CHAMBER OF COMMERCE]] · [[Fidelity Investments]] · [[IBEW Local 440 - Riverside]] · [[JPMorgan Chase]] · [[Monsanto - Bayer]] · [[UPS]] · [[Apple]] · [[McDonalds Corporation]] · [[Blackstone Group]] · [[Fanjul Family - Florida Crystals]] · [[Centene Corporation]] · [[Environment America INC]] · [[American Federation of State County & Municipal Employees  P E O P L E]] · [[Voter Protection Project]] · [[Honeywell International]] · [[AT&T]] · [[US Chamber of Commerce]]"
+donors: "[[Lawrence Summers]] · [[Republican Jewish Coalition]] · [[DMFI PAC]] · [[DMFI - Democratic Majority for Israel]] · [[Protecting Our Vote Pac]] · [[PROTECT OUR FUTURE PAC]] · [[THE DEMOCRATIC ACTION PAC]] · [[The Democratic Action PAC]] · [[Protect Our Future PAC]] · [[National Multifamily Housing Council]] · [[Nancy Pelosi]] · [[NEA Fund for Children and Public Education]] · [[American Hospital Association PAC]] · [[DoorDash]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Google - Alphabet]] · [[Barbara Lee]] · [[UA Political Action Committee]] · [[Honeywell]] · [[American Chemistry Council, INC]] · [[Congressional Progressive Caucus PAC]] · [[Pfizer Inc.]] · [[NextEra Energy]] · [[Anthem - Elevance Health]] · [[League of Conservation Voters]] · [[AIPAC - American Israel Public Affairs Committee]] · [[General Dynamics]] · [[Pete Aguilar]] · [[Amgen Inc]] · [[Humana]] · [[ENVIRONMENT AMERICA INC]] · [[Progressive Turnout Project]] · [[AT&T - WarnerMedia]] · [[Microsoft]] · [[Comcast - NBCUniversal]] · [[Bank of America]] · [[CVS Health - Aetna]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Nucor Corporation]] · [[VOTER PROTECTION PROJECT]] · [[Ford Motor Company]] · [[American Gaming Association]] · [[United Democracy Project - UDP]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[ADM - Archer Daniels Midland]] · [[Unite Here Tip Campaign Committee]] · [[SEIU COPE]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[Lockheed Martin]] · [[Walmart - Walton Family]] · [[National Association of Realtors]] · [[General Motors]] · [[Ted Lieu]] · [[Sierra Club Independent Action]] · [[Tyson Foods]] · [[National Cattlemen's Beef Association]] · [[Bonnie Watson Coleman]] · [[NORPAC]] · [[Giffords PAC]] · [[UNITED DEMOCRACY PROJECT ('UDP')]] · [[Novo Nordisk]] · [[Morgan Stanley]] · [[Verizon]] · [[Boeing]] · [[Goldman Sachs]] · [[Wells Fargo]] · [[News Corp - Fox Corporation]] · [[Amazon]] · [[Meta - Facebook]] · [[Cigna Group]] · [[US CHAMBER OF COMMERCE]] · [[Fidelity Investments]] · [[IBEW Local 440 - Riverside]] · [[JPMorgan Chase]] · [[Monsanto - Bayer]] · [[UPS]] · [[Apple]] · [[McDonalds Corporation]] · [[Blackstone Group]] · [[Fanjul Family - Florida Crystals]] · [[Centene Corporation]] · [[Environment America INC]] · [[American Federation of State County & Municipal Employees  P E O P L E]] · [[Voter Protection Project]] · [[Honeywell International]] · [[AT&T]] · [[US Chamber of Commerce]] · [[STRICKLAND FOR WASHINGTON]] · [[Cargill]] · [[Robin L. Kelly]] · [[Bradley Scott Schneider]] · [[Steny H. Hoyer]] · [[BONNIE WATSON COLEMAN FOR CONGRESS]] · [[BEATTY FOR CONGRESS]] · [[National Education Association]] · [[TED LIEU FOR CONGRESS]] · [[SHEILA CHERFILUS MCCORMICK FOR CONGRESS, INC]] · [[NANCY PELOSI FOR CONGRESS]] · [[Marcy Kaptur]] · [[Southern Company]] · [[James E. Clyburn]] · [[BARBARA LEE FOR CONGRESS]] · [[Alma S. Adams]] · [[Hakeem Jeffries]] · [[PETE AGUILAR FOR CONGRESS]] · [[AFL-CIO]]"
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
+  - No FEC contribution data
+  - No voting record data
 last-enriched: "2026-04-10"
-central-thesis: "Shontel Brown is the DMFI primary enforcement model's founding case. Her 2021 and 2022 victories over Nina Turner established the Israel lobby's playbook for removing pro-Palestinian progressives from safe Democratic districts. DMFI PAC spent $3.6M for her across two cycles. Protect Our Future PAC (Sam Bankman-Fried's FTX-linked vehicle; SBF was later convicted on federal charges and sentenced to 25 years) spent $3M. The 98.8% party loyalty rate is the highest in the Democrat House-Senate cohort. The AIPAC PAC direct donor relationship at 28 transactions is the most transactional single donor-candidate pair in the vault."
+central-thesis: Shontel Brown is the DMFI primary enforcement model's founding case. Her 2021 and 2022 victories over Nina Turner established the Israel lobby's playbook for removing pro-Palestinian progressives from safe Democratic districts. DMFI PAC spent $3.6M for her across two cycles. Protect Our Future PAC (Sam Bankman-Fried's FTX-linked vehicle; SBF was later convicted on federal charges and sentenced to 25 years) spent $3M. The 98.8% party loyalty rate is the highest in the Democrat House-Senate cohort. The AIPAC PAC direct donor relationship at 28 transactions is the most transactional single donor-candidate pair in the vault.
 editorial-notes: "[Research Claude 2026-04-19] Full editorial pass. Developed Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns. Prior stub had Who She Is and spending table."
 total-received: $672,085
 fec-candidate-id: H2OH11169
 bioguide-id: B001313
 urls-first-triaged: "2026-04-15"
 committees:
-  - "Cybersecurity, Information Technology, and Government Innovation"
-  - "General Farm Commodities, Risk Management, and Credit"
+  - Cybersecurity, Information Technology, and Government Innovation
+  - General Farm Commodities, Risk Management, and Credit
   - House Committee on Agriculture
   - House Committee on Oversight and Government Reform
   - House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party
   - Nutrition and Foreign Agriculture
-total-raised: "$7.1M"
-career-total-source: "FEC weball summary (cycles 2020, 2022, 2024, 2026)"
+total-raised: $7.1M
+career-total-source: FEC weball summary (cycles 2020, 2022, 2024, 2026)
 bills-sponsored: 30
 ---
 

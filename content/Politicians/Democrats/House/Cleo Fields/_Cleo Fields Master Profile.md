@@ -20,18 +20,18 @@ source-types:
   - FEC
   - GovTrack
 known-gaps:
-  - "No mapped relationships"
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4LA06211
-top-donors: "[[Robert Garcia]], [[Walmart - Walton Family]], [[National Association of Realtors]], [[AT&T - WarnerMedia]], [[SEIU COPE]], [[American Hospital Association PAC]], [[American Federation of State County & Municipal Employees P E O P L E]], [[National Multifamily Housing Council]], [[Ted Lieu]], [[NEA Fund for Children and Public Education]], [[IBEW - International Brotherhood of Electrical Workers]], [[UnitedHealth Group - Optum]], [[Chevron]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[AT&T]]"
-last-enriched: 2026-04-21
+top-donors: "[[Robert Garcia]], [[Walmart - Walton Family]], [[National Association of Realtors]], [[AT&T - WarnerMedia]], [[SEIU COPE]], [[American Hospital Association PAC]], [[American Federation of State County & Municipal Employees P E O P L E]], [[National Multifamily Housing Council]], [[Ted Lieu]], [[NEA Fund for Children and Public Education]], [[IBEW - International Brotherhood of Electrical Workers]], [[UnitedHealth Group - Optum]], [[Chevron]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[AT&T]], [[National Education Association]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Sierra Club Political Committee]], [[Hakeem Jeffries]], [[AFL-CIO]], [[Williams Companies]], [[ROBERT GARCIA FOR CONGRESS]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[TED LIEU FOR CONGRESS]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Capital Markets
   - Financial Institutions
   - House Committee on Financial Services
   - Oversight and Investigations
-total-raised: "$1.7M"
-career-total-source: "FEC weball summary (cycles 2024, 2026)"
+total-raised: $1.7M
+career-total-source: FEC weball summary (cycles 2024, 2026)
 bills-sponsored: 6
 corroboration-count: 3
 ---

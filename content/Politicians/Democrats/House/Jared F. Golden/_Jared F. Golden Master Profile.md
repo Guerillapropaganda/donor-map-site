@@ -1,32 +1,32 @@
 ---
-title: "Jared F. Golden"
+title: Jared F. Golden
 type: politician
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Maine"
-state-abbr: "ME"
+party: Democrat
+chamber: House
+state: Maine
+state-abbr: ME
 district: "2"
-bioguide-id: "G000592"
+bioguide-id: G000592
 govtrack-id: 412842
 born: "1982-07-25"
-wikidata-id: "Q41694157"
-website: "https://golden.house.gov"
-phone: "202-225-6306"
+wikidata-id: Q41694157
+website: https://golden.house.gov
+phone: 202-225-6306
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-donors: "[[California Farm Bureau Federation]]"
+  - No FEC contribution data
+  - No voting record data
+donors: "[[California Farm Bureau Federation]], [[MAGAZINER FOR CONGRESS]], [[J Street]], [[League of Conservation Voters]], [[Suzanne Bonamici]], [[ROBERT GARCIA FOR CONGRESS]], [[Let America Vote PAC]], [[SHERMAN FOR CONGRESS]], [[JULIA BROWNLEY FOR CONGRESS]], [[J. Luis Correa]], [[Robert Garcia]], [[Donald S. Beyer]], [[With Honor Fund]], [[JAMIE RASKIN FOR CONGRESS]], [[CITIZENS TO ELECT RICK LARSEN]], [[Lizzie Fletcher]], [[GRACE FOR NEW YORK]], [[Gerry Connolly]], [[John B. Larson]], [[MARK TAKANO FOR CONGRESS]], [[Ed Case]], [[KATHERINE CLARK FOR CONGRESS]], [[Steny H. Hoyer]], [[LORI TRAHAN FOR CONGRESS COMMITTEE]], [[AIPAC - American Israel Public Affairs Committee]], [[National Education Association]], [[Marcy Kaptur]], [[GARAMENDI FOR CONGRESS]], [[James E. Clyburn]], [[Bobby Scott]], [[CHRISSY HOULAHAN FOR CONGRESS]], [[Adam Schiff]], [[Bradley Scott Schneider]], [[Salud O. Carbajal]], [[WARREN FOR SENATE, INC.]], [[Planned Parenthood Action Fund INC]], [[PETE AGUILAR FOR CONGRESS]], [[STEPHEN LYNCH FOR CONGRESS]], [[Richard Neal]], [[MEDICARE FOR ALL]], [[Chellie Pingree]], [[National Nurses United]], [[JUDY CHU FOR CONGRESS]], [[TED LIEU FOR CONGRESS]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Akin Gump Strauss Hauer & Feld]], [[SHARICE FOR CONGRESS]], [[LOFGREN FOR CONGRESS]], [[BARBARA LEE FOR CONGRESS]], [[AFL-CIO]], [[National Association of Manufacturers]], [[PAUL TONKO FOR CONGRESS]], [[BILL FOSTER FOR CONGRESS]], [[MORGAN MCGARVEY FOR CONGRESS]], [[JOE NEGUSE FOR CONGRESS]], [[Progressive Turnout Project]], [[Majority PAC]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Sierra Club Political Committee]], [[JIMMY PANETTA FOR CONGRESS]], [[HIMES FOR CONGRESS]], [[MIKE THOMPSON FOR CONGRESS]], [[Kim Schrier]], [[Ami Bera]], [[DOGGETT FOR U S CONGRESS COMMITTEE]], [[Jerry Nadler]], [[SCOTT PETERS FOR CONGRESS]], [[Nydia Velazquez]], [[STANTON FOR CONGRESS]], [[SARA JACOBS FOR CONGRESS]], [[Marc A. Veasey]], [[Center Forward Committee]], [[NANCY PELOSI FOR CONGRESS]], [[JIM COSTA FOR CONGRESS]], [[JAKE AUCHINCLOSS FOR CONGRESS]], [[ANDY KIM FOR NEW JERSEY]], [[MAD 4 PA PAC]], [[Hakeem Jeffries]], [[Suzan K. Delbene]], [[Maxwell Frost]], [[Raja Krishnamoorthi]], [[CASTEN FOR CONGRESS]], [[John Kerry]], [[DEB HAALAND FOR CONGRESS]], [[STRICKLAND FOR WASHINGTON]], [[JASON CROW FOR CONGRESS]], [[DEBORAH ROSS FOR CONGRESS]], [[Angus S. King]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 23
 bills-cosponsored: 247
 bills-enacted: 0
-top-policy-area: "Armed Forces and National Security"
-last-enriched: 2026-04-21
+top-policy-area: Armed Forces and National Security
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Energy and Mineral Resources
   - Federal Lands
@@ -34,7 +34,7 @@ committees:
   - House Committee on Natural Resources
   - Intelligence and Special Operations
   - Seapower and Projection Forces
-  - "Water, Wildlife and Fisheries"
+  - Water, Wildlife and Fisheries
 ---
 
 

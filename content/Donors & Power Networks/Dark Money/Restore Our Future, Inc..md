@@ -7,11 +7,11 @@ entity-type: Super PAC
 committee-type: Super PAC (Independent Expenditure-Only)
 committee-id: C00490045
 fec-url: https://www.fec.gov/data/committee/C00490045/
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-ie-support: $47,498,530
 fec-ie-oppose: "null"
-politicians-funded: "[[Paul Ryan]], [[Mitt Romney]]"
+politicians-funded: "[[Paul Ryan]], [[Mitt Romney]], [[American Homes 4 Rent]], [[STRIPE CREDIT CARD PROCESSING]], [[NMB RESEARCH]], [[CLARK & SAMPSON, INC.]], [[TARGETPOINT CONSULTING, INC.]], [[First Amendment Alliance]], [[VINEYARD VINES]], [[ANN HAND, LLC]], [[WALDORF ASTORIA NEW YORK]], [[PODIUM CAPITAL GROUP, LLC]], [[Kevin McCarthy]], [[CLARK HILL PLC]], [[GROUNDWORK COMMUNICATIONS, LLC]], [[VISA BANKCARD CENTER]]"
 related: "[[Mitt Romney]] · [[Paul Ryan]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -22,10 +22,10 @@ contributions-to-committees: 81819
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
-total-political-spend: "$102.5M"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2012"
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $102.5M
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2012
 ---
 
 

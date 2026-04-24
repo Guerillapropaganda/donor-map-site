@@ -18,17 +18,17 @@ phone: 202-225-5501
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H8SC05158
 bills-sponsored: 24
 bills-cosponsored: 483
 bills-enacted: 0
 top-policy-area: International Affairs
-top-donors: "[[National Association of Realtors]], [[Save America PAC]], [[National Rifle Association]], [[Club for Growth INC PAC]], [[Lockheed Martin]], [[American Hospital Association PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[AT&T - WarnerMedia]], [[Planned Parenthood Votes]], [[WinRed]], [[JPAC - Jewish Public Affairs Committee of California]], [[MAJORITY PAC]], [[Duke Energy]], [[AT&T]], [[Heritage Foundation]], [[Morgan Stanley]], [[Wells Fargo]], [[McDonalds Corporation]], [[Bank of America]], [[Majority PAC]]"
-last-enriched: 2026-04-21
+top-donors: "[[National Association of Realtors]], [[Save America PAC]], [[National Rifle Association]], [[Club for Growth INC PAC]], [[Lockheed Martin]], [[American Hospital Association PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[AT&T - WarnerMedia]], [[Planned Parenthood Votes]], [[WinRed]], [[JPAC - Jewish Public Affairs Committee of California]], [[MAJORITY PAC]], [[Duke Energy]], [[AT&T]], [[Heritage Foundation]], [[Morgan Stanley]], [[Wells Fargo]], [[McDonalds Corporation]], [[Bank of America]], [[Majority PAC]], [[Patrick McHenry]], [[Paul Ryan]], [[NRA Political Victory Fund]], [[Paul A. Gosar]], [[TEXANS FOR JODEY ARRINGTON]], [[Associated General Contractors of America Political Action Committee]], [[Koch Industries]], [[Campaign for Working Families]], [[Pete Sessions]], [[Darin Lahood]], [[ISSA FOR CONGRESS]], [[Amgen Inc]], [[Nucor Corporation]], [[KAY GRANGER CAMPAIGN FUND]], [[MIKE ROGERS FOR CONGRESS]], [[Steve Scalise]], [[Gun Owners of America]], [[PETE SESSIONS FOR CONGRESS]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[FreedomWorks for America]], [[Family Research Council Action Political Action Committee]], [[Frank Lucas]], [[National Right to Life PAC]], [[JIM JORDAN FOR CONGRESS]], [[SOUTH CAROLINA BUILDERS PAC]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Financial Institutions
   - House Committee on Financial Services
@@ -36,8 +36,8 @@ committees:
   - House Committee on the Budget
   - Housing and Insurance
   - Legislative and Budget Process
-total-raised: "$5.0M"
-career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
+total-raised: $5.0M
+career-total-source: FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)
 ---
 
 

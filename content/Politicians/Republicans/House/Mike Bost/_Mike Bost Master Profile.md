@@ -1,34 +1,30 @@
 ---
-title: "Mike Bost"
+title: Mike Bost
 type: politician
-bioguide-id: "B001295"
+bioguide-id: B001295
 content-readiness: ready
-central-thesis: "Mike Bost championed the PACT Act , the landmark legislation expanding VA healthcare for veterans exposed to burn pits and toxic substances. It was his signature achievement, a genuinely important law that extended care to millions of post-9/11 ve..."
-last-updated: 2026-04-13
+central-thesis: Mike Bost championed the PACT Act , the landmark legislation expanding VA healthcare for veterans exposed to burn pits and toxic substances. It was his signature achievement, a genuinely important law that extended care to millions of post-9/11 ve...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "House"
-state: "Illinois"
-state-abbr: "IL"
+party: Republican
+chamber: House
+state: Illinois
+state-abbr: IL
 district: "12"
 committees:
-  - "Veterans' Affairs"
-donors: "[[American Iron and Steel Institute]]"
+  - Veterans' Affairs
+donors: "[[American Iron and Steel Institute]], [[Leidos]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[Koch Industries]], [[Gun Owners of America]], [[AbbVie]], [[Monsanto - Bayer]], [[Cargill]], [[National Restaurant Association]], [[DAVID ROUZER FOR CONGRESS]], [[McDonalds Corporation]], [[NRA Political Victory Fund]], [[Associated General Contractors of America Political Action Committee]], [[Campaign for Working Families]], [[National Cattlemen's Beef Association]], [[Nucor Corporation]], [[ADM - Archer Daniels Midland]], [[Gregory F. Murphy]], [[PETE SESSIONS FOR CONGRESS]], [[Steve Scalise]], [[ADRIAN SMITH FOR CONGRESS]], [[Tyson Foods]], [[Daniel Meuser]], [[Southern Company]], [[ROBERT ADERHOLT FOR CONGRESS]], [[Scott Desjarlais]], [[Steve Womack]], [[Brett Guthrie]], [[Republican Jewish Coalition]], [[AIPAC - American Israel Public Affairs Committee]], [[BYRON DONALDS FOR CONGRESS]], [[RON ESTES FOR CONGRESS]], [[Tom Emmer]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[DR. BRIAN BABIN FOR CONGRESS]], [[W. Gregory Steube]], [[Darin Lahood]], [[National Education Association]], [[Donald Trump]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[GEO Group - Private Prison Industrial Complex]], [[Paul Ryan]], [[KAY GRANGER CAMPAIGN FUND]], [[Richard Hudson]], [[Earl L. Buddy Carter]], [[John Boehner]], [[Kevin McCarthy]], [[Mike Johnson]], [[ANDY HARRIS FOR CONGRESS]], [[Pfizer Inc.]], [[AFL-CIO]], [[JASON SMITH FOR CONGRESS]], [[Defending Main Street Superpac INC]], [[Williams Companies]], [[National Right to Life PAC]], [[GARY PALMER FOR CONGRESS]], [[Rick Crawford]], [[Sam Graves]], [[Glenn Thompson]], [[Pete Sessions]], [[ISSA FOR CONGRESS]], [[AUGUST PFLUGER FOR CONGRESS]], [[RICK W. ALLEN FOR CONGRESS]], [[Google - Alphabet]], [[American Principles Fund]], [[CITIZENS FOR JOHN RUTHERFORD]], [[National Right to Life Victory Fund]], [[David P. Joyce]], [[TEXANS FOR JODEY ARRINGTON]], [[Humana]], [[Dan Newhouse]], [[ANDY BARR FOR SENATE, INC.]], [[New Prosperity Foundation; the]], [[Akin Gump Strauss Hauer & Feld]], [[Frank Lucas]], [[JOE WILSON FOR CONGRESS]], [[Carol D. Miller]]"
 related: "[[Mark Takano]] · [[_Donald Trump Master Profile|Trump]]"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline; run congress pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run fec pipeline; run congress pipeline; run pipelines
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 37
 bills-cosponsored: 354
 bills-enacted: 0
-top-policy-area: "Armed Forces and National Security"
-last-enriched: 2026-04-20
+top-policy-area: Armed Forces and National Security
+last-enriched: 2026-04-20T00:00:00.000Z
 ---
 
 

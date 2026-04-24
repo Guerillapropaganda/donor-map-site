@@ -18,26 +18,26 @@ phone: 202-225-8885
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: S6TX00552
 bills-sponsored: 22
 bills-cosponsored: 635
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[League of Conservation Voters]], [[Emily's List]]"
-last-enriched: 2026-04-21
+top-donors: "[[League of Conservation Voters]], [[Emily's List]], [[JASMINE FOR US]], [[Demand Justice]], [[Bennie Thompson]], [[ADRIANO ESPAILLAT FOR CONGRESS]], [[CVS Health - Aetna]], [[National Education Association]], [[Working Families Party PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Coinbase]], [[Gilead Sciences]], [[MEDICARE FOR ALL]], [[DoorDash]], [[TED LIEU FOR CONGRESS]], [[Hakeem Jeffries]], [[Let America Vote PAC]], [[Cargill]], [[National Cattlemen's Beef Association]], [[Giffords PAC]], [[Tyson Foods]], [[Protect Our Future PAC]], [[AbbVie]], [[MAGAZINER FOR CONGRESS]], [[CITIZENS TO ELECT RICK LARSEN]], [[Southern Company]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Delivering on Government Efficiency
   - House Committee on Oversight and Government Reform
   - House Committee on the Judiciary
-  - "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
-  - "Immigration Integrity, Security, and Enforcement"
+  - House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021
+  - Immigration Integrity, Security, and Enforcement
   - Oversight
-total-raised: "$11.1M"
-career-total-source: "FEC weball summary (cycles 2026)"
+total-raised: $11.1M
+career-total-source: FEC weball summary (cycles 2026)
 ---
 
 

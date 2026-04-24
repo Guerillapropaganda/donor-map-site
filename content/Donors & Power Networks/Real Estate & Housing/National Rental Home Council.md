@@ -65,9 +65,9 @@ urls-first-triaged: "2026-04-15"
 total-spent: 1000
 cash-on-hand: 3445
 contributions-to-committees: 1000
-politicians-funded: "[[Warren Davidson]], [[Barry Loudermilk]], [[Brad Sherman]], [[Tim Scott]], [[Kyrsten Sinema]], [[David Schweikert]], [[French Hill]], [[Kay Granger]], [[Pete Sessions]], [[Mike Flood]]"
-total-political-spend: "$60K"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 2 store(s), cycles 2020, 2022, 2024, 2026"
+politicians-funded: "[[Warren Davidson]], [[Barry Loudermilk]], [[Brad Sherman]], [[Tim Scott]], [[Kyrsten Sinema]], [[David Schweikert]], [[French Hill]], [[Kay Granger]], [[Pete Sessions]], [[Mike Flood]], [[J. French Hill]], [[Bill Huizenga]], [[Ted Budd]], [[William R. Timmons]]"
+total-political-spend: $60K
+spend-source: aggregated from canonical FEC/IRS edge stores across 2 store(s), cycles 2020, 2022, 2024, 2026
 ---
 
 

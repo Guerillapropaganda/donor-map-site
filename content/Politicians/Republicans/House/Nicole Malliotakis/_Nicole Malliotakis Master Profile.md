@@ -18,24 +18,24 @@ phone: 202-225-3371
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H0NY11078
 bills-sponsored: 43
 bills-cosponsored: 426
 bills-enacted: 0
 top-policy-area: International Affairs
-top-donors: "[[International Association of Firefighters Interested in Registration and Education PAC]], [[American College of Radiology Association PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[McDonalds Corporation]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[AT&T - WarnerMedia]], [[American Hospital Association PAC]], [[General Motors]], [[National Association of Realtors]], [[Honeywell]], [[Gilead Sciences]], [[Comcast - NBCUniversal]], [[National Multifamily Housing Council]], [[Chevron]], [[Cliff Bentz]], [[Vern Buchanan]], [[Anthem - Elevance Health]], [[Darrell Issa]], [[National Restaurant Association]], [[Citigroup]], [[UA Political Action Committee]], [[Ben Cline]], [[Associated General Contractors of America Political Action Committee]], [[NRCC - National Republican Congressional Committee]], [[Walmart - Walton Family]], [[National Association of Manufacturers]], [[Jason Smith]], [[Planned Parenthood Votes]], [[WinRed]], [[MAJORITY PAC]], [[NextEra Energy]], [[Ron Estes]], [[iHeartMedia]], [[Bank of America]], [[Republican Jewish Coalition]], [[Microsoft]], [[Pfizer Inc.]], [[AbbVie]], [[Ford Motor Company]], [[Teamsters - International Brotherhood of Teamsters]], [[Adrian Smith]], [[Jake Ellzey]], [[Morgan Stanley]], [[VIEW PAC - Value in Electing Women]], [[National Cattlemen's Beef Association]], [[Lockheed Martin]], [[Raytheon (RTX)]], [[Freedom's Defense Fund]], [[Amgen Inc]], [[Leidos]], [[David Rouzer]], [[Women Speak Out Pac]], [[Congressional Leadership Fund]], [[Humana]], [[IBEW - International Brotherhood of Electrical Workers]], [[Google - Alphabet]], [[AT&T]], [[Majority PAC]], [[Honeywell International]]"
-last-enriched: 2026-04-21
+top-donors: "[[International Association of Firefighters Interested in Registration and Education PAC]], [[American College of Radiology Association PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[McDonalds Corporation]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[AT&T - WarnerMedia]], [[American Hospital Association PAC]], [[General Motors]], [[National Association of Realtors]], [[Honeywell]], [[Gilead Sciences]], [[Comcast - NBCUniversal]], [[National Multifamily Housing Council]], [[Chevron]], [[Cliff Bentz]], [[Vern Buchanan]], [[Anthem - Elevance Health]], [[Darrell Issa]], [[National Restaurant Association]], [[Citigroup]], [[UA Political Action Committee]], [[Ben Cline]], [[Associated General Contractors of America Political Action Committee]], [[NRCC - National Republican Congressional Committee]], [[Walmart - Walton Family]], [[National Association of Manufacturers]], [[Jason Smith]], [[Planned Parenthood Votes]], [[WinRed]], [[MAJORITY PAC]], [[NextEra Energy]], [[Ron Estes]], [[iHeartMedia]], [[Bank of America]], [[Republican Jewish Coalition]], [[Microsoft]], [[Pfizer Inc.]], [[AbbVie]], [[Ford Motor Company]], [[Teamsters - International Brotherhood of Teamsters]], [[Adrian Smith]], [[Jake Ellzey]], [[Morgan Stanley]], [[VIEW PAC - Value in Electing Women]], [[National Cattlemen's Beef Association]], [[Lockheed Martin]], [[Raytheon (RTX)]], [[Freedom's Defense Fund]], [[Amgen Inc]], [[Leidos]], [[David Rouzer]], [[Women Speak Out Pac]], [[Congressional Leadership Fund]], [[Humana]], [[IBEW - International Brotherhood of Electrical Workers]], [[Google - Alphabet]], [[AT&T]], [[Majority PAC]], [[Honeywell International]], [[Raytheon (RTX Corporation)]], [[ANDY HARRIS FOR CONGRESS]], [[GEO Group - Private Prison Industrial Complex]], [[BURCHETT FOR CONGRESS]], [[Kevin McCarthy]], [[ROBERT ADERHOLT FOR CONGRESS]], [[LOUDERMILK FOR CONGRESS]], [[Glenn Thompson]], [[American Principles Fund]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[FISCHBACH FOR CONGRESS]], [[CLYDE FOR CONGRESS, INC.]], [[Koch Industries]], [[Bacardi - Bacardi USA]], [[BEN CLINE FOR CONGRESS, INC.]], [[Steve Scalise]], [[Dan Newhouse]], [[ADRIAN SMITH FOR CONGRESS]], [[JASON SMITH FOR CONGRESS]], [[JAKE ELLZEY FOR CONGRESS]], [[Mariannette Miller-Meeks]], [[Troy Balderson]], [[Mike Johnson]], [[DAVID ROUZER FOR CONGRESS]], [[CLIFF BENTZ FOR CONGRESS]], [[GARY PALMER FOR CONGRESS]], [[TEXANS FOR JODEY ARRINGTON]], [[Tom Emmer]], [[Guy Reschenthaler]], [[Richard Hudson]], [[Wfw Action Fund, Inc.]], [[Carol D. Miller]], [[VERN BUCHANAN FOR CONGRESS]], [[CLAUDIA TENNEY FOR CONGRESS]], [[RON ESTES FOR CONGRESS]], [[WEBER FOR CONGRESS]], [[DR. BRIAN BABIN FOR CONGRESS]], [[Akin Gump Strauss Hauer & Feld]], [[Williams Companies]], [[Randy Feenstra]], [[HAGEMAN FOR WYOMING]], [[Daniel Meuser]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - House Committee on Ways and Means
   - Joint Economic Committee
   - Oversight
   - Tax
-total-raised: "$13.8M"
-career-total-source: "FEC weball summary (cycles 2020, 2022, 2024, 2026)"
+total-raised: $13.8M
+career-total-source: FEC weball summary (cycles 2020, 2022, 2024, 2026)
 ---
 
 

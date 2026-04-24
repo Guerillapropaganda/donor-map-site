@@ -11,8 +11,8 @@ fec-committee-id: C00688994
 aliases:
   - TOGETHER FOR PROGRESS PAC
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Adam Smith]], [[Maria Cantwell]], [[Marie Gluesenkamp Perez]], [[Kim Schrier]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Adam Smith]], [[Maria Cantwell]], [[Marie Gluesenkamp Perez]], [[Kim Schrier]], [[FUSE WASHINGTON]]"
 related: "[[Maria Cantwell]] · [[Adam Smith]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -21,9 +21,9 @@ urls-first-triaged: "2026-04-15"
 total-spent: 11582
 source-types:
   - FEC
-last-enriched: 2026-04-21
-total-political-spend: "$189K"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 2 store(s), cycles 2018, 2022"
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $189K
+spend-source: aggregated from canonical FEC/IRS edge stores across 2 store(s), cycles 2018, 2022
 ---
 
 

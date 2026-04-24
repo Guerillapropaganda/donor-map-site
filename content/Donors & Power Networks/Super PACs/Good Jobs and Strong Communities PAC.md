@@ -5,14 +5,14 @@ content-readiness: data-complete
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00586610
 aliases:
   - GOOD JOBS AND STRONG COMMUNITIES PAC
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Sherrod Brown]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Sherrod Brown]], [[OHIO ORGANIZING COLLABORATIVE]], [[BLACK FORK STRATEGIES]], [[EAN SERVICES]], [[Airbnb]], [[RESONANCE CAMPAIGNS]], [[Stand Together]], [[RODRIGUEZ, ZULEMA]], [[JVA CAMPAIGNS]], [[Hillary Clinton]]"
 related: "[[Sherrod Brown]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -20,9 +20,9 @@ checklist-na:
 urls-first-triaged: "2026-04-15"
 source-types:
   - FEC
-last-enriched: 2026-04-21
-total-political-spend: "$387K"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2016, 2018"
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $387K
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2016, 2018
 ---
 
 

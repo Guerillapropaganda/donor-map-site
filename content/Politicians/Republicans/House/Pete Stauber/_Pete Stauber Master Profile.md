@@ -18,17 +18,17 @@ phone: 202-225-6211
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H8MN08043
 bills-sponsored: 24
 bills-cosponsored: 347
 bills-enacted: 0
 top-policy-area: Crime and Law Enforcement
-top-donors: "[[International Association of Firefighters Interested in Registration and Education PAC]], [[ConocoPhillips]], [[Microsoft]], [[AIPAC - American Israel Public Affairs Committee]], [[National Association of Realtors]], [[American Chemistry Council, INC]], [[Lockheed Martin]], [[Teamsters - International Brotherhood of Teamsters]], [[Google - Alphabet]], [[National Multifamily Housing Council]], [[FREEDOM CLUB FEDERAL PAC]], [[Associated General Contractors of America Political Action Committee]], [[National Cattlemen's Beef Association]], [[Performance Racing Inc.]], [[David Rouzer]], [[National Association of Manufacturers]], [[NextEra Energy]], [[MAJORITY PAC]], [[Chevron]], [[Valero Energy]], [[Halliburton]], [[National Rifle Association]], [[AT&T - WarnerMedia]], [[Northrop Grumman]], [[Honeywell]], [[Marathon Petroleum]], [[National Restaurant Association]], [[Pfizer Inc.]], [[Hunter Action Fund (haf)]], [[Comcast - NBCUniversal]], [[Alliance Coal, LLC PAC]], [[UA Political Action Committee]], [[WinRed]], [[Occidental Petroleum]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Nucor Corporation]], [[Byron Donalds]], [[Jason Smith]], [[Planned Parenthood Votes]], [[Republican Jewish Coalition]], [[American Hospital Association PAC]], [[Walmart - Walton Family]], [[Raytheon (RTX)]], [[General Motors]], [[Ford Motor Company]], [[Wells Fargo]], [[UPS]], [[Las Vegas Sands]], [[Honeywell International]], [[Americas Pac]], [[Charles Schwab]], [[Cargill]], [[AT&T]], [[Freedom Club Federal PAC]], [[Majority PAC]]"
-last-enriched: 2026-04-21
+top-donors: "[[International Association of Firefighters Interested in Registration and Education PAC]], [[ConocoPhillips]], [[Microsoft]], [[AIPAC - American Israel Public Affairs Committee]], [[National Association of Realtors]], [[American Chemistry Council, INC]], [[Lockheed Martin]], [[Teamsters - International Brotherhood of Teamsters]], [[Google - Alphabet]], [[National Multifamily Housing Council]], [[FREEDOM CLUB FEDERAL PAC]], [[Associated General Contractors of America Political Action Committee]], [[National Cattlemen's Beef Association]], [[Performance Racing Inc.]], [[David Rouzer]], [[National Association of Manufacturers]], [[NextEra Energy]], [[MAJORITY PAC]], [[Chevron]], [[Valero Energy]], [[Halliburton]], [[National Rifle Association]], [[AT&T - WarnerMedia]], [[Northrop Grumman]], [[Honeywell]], [[Marathon Petroleum]], [[National Restaurant Association]], [[Pfizer Inc.]], [[Hunter Action Fund (haf)]], [[Comcast - NBCUniversal]], [[Alliance Coal, LLC PAC]], [[UA Political Action Committee]], [[WinRed]], [[Occidental Petroleum]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Nucor Corporation]], [[Byron Donalds]], [[Jason Smith]], [[Planned Parenthood Votes]], [[Republican Jewish Coalition]], [[American Hospital Association PAC]], [[Walmart - Walton Family]], [[Raytheon (RTX)]], [[General Motors]], [[Ford Motor Company]], [[Wells Fargo]], [[UPS]], [[Las Vegas Sands]], [[Honeywell International]], [[Americas Pac]], [[Charles Schwab]], [[Cargill]], [[AT&T]], [[Freedom Club Federal PAC]], [[Majority PAC]], [[Raytheon (RTX Corporation)]], [[Koch Industries]], [[Brett Guthrie]], [[MCCAUL FOR CONGRESS, INC]], [[Southern Company]], [[NRA Political Victory Fund]], [[Tom Emmer]], [[AFL-CIO]], [[Dan Newhouse]], [[Jeff Hurd]], [[JOE WILSON FOR CONGRESS]], [[KAY GRANGER CAMPAIGN FUND]], [[DAVID ROUZER FOR CONGRESS]], [[TEXANS FOR JODEY ARRINGTON]], [[Pete Sessions]], [[American Iron and Steel Institute]], [[Williams Companies]], [[Randy Feenstra]], [[DAN NEWHOUSE FOR CONGRESS]], [[Meta - Facebook]], [[Akin Gump Strauss Hauer & Feld]], [[Steve Scalise]], [[Darin Lahood]], [[William R. Timmons]], [[BYRON DONALDS FOR CONGRESS]], [[FRIENDS OF MATT GAETZ]], [[Campaign for Working Families]], [[JASON SMITH FOR CONGRESS]], [[Donald Trump]], [[Steve Womack]], [[ANDY HARRIS FOR CONGRESS]], [[National Right to Life Victory Fund]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Aviation
   - Energy and Mineral Resources
@@ -37,10 +37,10 @@ committees:
   - House Committee on Natural Resources
   - House Committee on Small Business
   - House Committee on Transportation and Infrastructure
-  - "Railroads, Pipelines, and Hazardous Materials"
-  - "Rural Development, Energy, and Supply Chains"
-total-raised: "$10.6M"
-career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
+  - Railroads, Pipelines, and Hazardous Materials
+  - Rural Development, Energy, and Supply Chains
+total-raised: $10.6M
+career-total-source: FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)
 ---
 
 

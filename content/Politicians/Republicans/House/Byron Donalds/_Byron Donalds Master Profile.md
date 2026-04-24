@@ -18,26 +18,26 @@ phone: 202-225-2536
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2FL14186
 bills-sponsored: 81
 bills-cosponsored: 625
 bills-enacted: 1
 top-policy-area: Crime and Law Enforcement
-top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[Marathon Petroleum]], [[Tzedek PAC]], [[Chevron]], [[NextEra Energy]], [[Valero Energy]], [[Walmart - Walton Family]], [[AT&T - WarnerMedia]], [[National Association of Realtors]], [[Associated General Contractors of America Political Action Committee]], [[Amgen Inc]], [[General Motors]], [[Republican Jewish Coalition]], [[Google - Alphabet]], [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]], [[National Multifamily Housing Council]], [[MAJORITY PAC]], [[Save America PAC]], [[Pfizer Inc.]], [[Duke Energy]], [[Ben Cline]], [[Jason Smith]], [[WinRed]], [[National Rifle Association]], [[Elbert Guillory's America]], [[Jim Jordan]], [[Lockheed Martin]], [[Comcast - NBCUniversal]], [[General Dynamics]], [[Anthem - Elevance Health]], [[Microsoft]], [[ConocoPhillips]], [[Bank of America]], [[Craft Ventures]], [[Amazon]], [[CTA - California Teachers Association]], [[CVS Health - Aetna]], [[Goldman Sachs]], [[Oracle]], [[McDonalds Corporation]], [[Halliburton]], [[Citadel - Kenneth Griffin]], [[HBW Resources]], [[Northrop Grumman]], [[American Gaming Association]], [[Walmart]], [[Ballard Partners]], [[Wells Fargo]], [[Charles Schwab]], [[Blackstone Group]], [[Las Vegas Sands]], [[Protect Freedom Political Action Committee]], [[Majority PAC]], [[AT&T]]"
-last-enriched: 2026-04-21
+top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[Marathon Petroleum]], [[Tzedek PAC]], [[Chevron]], [[NextEra Energy]], [[Valero Energy]], [[Walmart - Walton Family]], [[AT&T - WarnerMedia]], [[National Association of Realtors]], [[Associated General Contractors of America Political Action Committee]], [[Amgen Inc]], [[General Motors]], [[Republican Jewish Coalition]], [[Google - Alphabet]], [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]], [[National Multifamily Housing Council]], [[MAJORITY PAC]], [[Save America PAC]], [[Pfizer Inc.]], [[Duke Energy]], [[Ben Cline]], [[Jason Smith]], [[WinRed]], [[National Rifle Association]], [[Elbert Guillory's America]], [[Jim Jordan]], [[Lockheed Martin]], [[Comcast - NBCUniversal]], [[General Dynamics]], [[Anthem - Elevance Health]], [[Microsoft]], [[ConocoPhillips]], [[Bank of America]], [[Craft Ventures]], [[Amazon]], [[CTA - California Teachers Association]], [[CVS Health - Aetna]], [[Goldman Sachs]], [[Oracle]], [[McDonalds Corporation]], [[Halliburton]], [[Citadel - Kenneth Griffin]], [[HBW Resources]], [[Northrop Grumman]], [[American Gaming Association]], [[Walmart]], [[Ballard Partners]], [[Wells Fargo]], [[Charles Schwab]], [[Blackstone Group]], [[Las Vegas Sands]], [[Protect Freedom Political Action Committee]], [[Majority PAC]], [[AT&T]], [[BYRON DONALDS FOR CONGRESS]], [[GEO Group - Private Prison Industrial Complex]], [[Koch Industries]], [[American Principles Fund]], [[Meta - Facebook]], [[JIM JORDAN FOR CONGRESS]], [[BEN CLINE FOR CONGRESS, INC.]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[Campaign for Working Families]], [[FRIENDS OF MATT GAETZ]], [[NRA Political Victory Fund]], [[JASON SMITH FOR CONGRESS]], [[Frank Lucas]], [[FreedomWorks for America]], [[Club for Growth]], [[Mike Haridopolos]], [[Steve Scalise]], [[Glenn Thompson]], [[Darin Lahood]], [[National Right to Life Victory Fund]], [[Club for Growth INC PAC]], [[TED BUDD FOR SENATE]], [[Florida Farm PAC]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Digital Assets, Financial Technology, and Artificial Intelligence"
-  - "Economic Growth, Energy Policy, and Regulatory Affairs"
+  - Digital Assets, Financial Technology, and Artificial Intelligence
+  - Economic Growth, Energy Policy, and Regulatory Affairs
   - Financial Institutions
   - House Committee on Financial Services
   - House Committee on Oversight and Government Reform
   - Military and Foreign Affairs
-total-raised: "$13.2M"
-career-total-source: "FEC weball summary (cycles 2012, 2022, 2024, 2026)"
+total-raised: $13.2M
+career-total-source: FEC weball summary (cycles 2012, 2022, 2024, 2026)
 ---
 
 

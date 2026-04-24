@@ -1,29 +1,25 @@
 ---
-title: "Dick Cheney"
+title: Dick Cheney
 type: politician
 content-readiness: data-complete
 central-thesis: "Cheney is the textbook revolving-door operative: CEO of defense contractor Halliburton → Vice President → oversees a $2 trillion war that directs content-readiness: draft0.8B+ in contracts to his former company → maintains financial ties (deferred compensation) through..."
-last-updated: 2026-04-08
+last-updated: 2026-04-08T00:00:00.000Z
 source-tier: 2
 parent: null
-party: "Republican"
-chamber: "Cabinet"
+party: Republican
+chamber: Cabinet
 related: "[[Condoleezza Rice]] · [[Colin Powell]]"
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
+  - No FEC contribution data
+  - No voting record data
 source-types:
   - Congress
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline; run voting pipeline; run congress pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run fec pipeline; run voting pipeline; run congress pipeline; run pipelines
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-20
+last-enriched: 2026-04-20T00:00:00.000Z
+top-donors: "[[Associated General Contractors of America Political Action Committee]], [[Akin Gump Strauss Hauer & Feld]], [[NRA Political Victory Fund]], [[National Restaurant Association]]"
 ---
 
 

@@ -18,26 +18,26 @@ phone: 202-225-6831
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H0TN04195
 bills-sponsored: 4
 bills-cosponsored: 146
 bills-enacted: 0
 top-policy-area: Armed Forces and National Security
-top-donors: "[[Lockheed Martin]], [[AIPAC - American Israel Public Affairs Committee]], [[National Rifle Association]], [[MAJORITY PAC]], [[Leidos]], [[Jim Jordan]], [[WinRed]], [[BAE Systems]], [[National Association of Realtors]], [[National Cattlemen's Beef Association]], [[Honeywell]], [[Raytheon (RTX)]], [[L3Harris Technologies]], [[General Dynamics]], [[Northrop Grumman]], [[Honeywell International]], [[Majority PAC]]"
-last-enriched: 2026-04-21
+top-donors: "[[Lockheed Martin]], [[AIPAC - American Israel Public Affairs Committee]], [[National Rifle Association]], [[MAJORITY PAC]], [[Leidos]], [[Jim Jordan]], [[WinRed]], [[BAE Systems]], [[National Association of Realtors]], [[National Cattlemen's Beef Association]], [[Honeywell]], [[Raytheon (RTX)]], [[L3Harris Technologies]], [[General Dynamics]], [[Northrop Grumman]], [[Honeywell International]], [[Majority PAC]], [[Raytheon (RTX Corporation)]], [[DR. BRIAN BABIN FOR CONGRESS]], [[McDonalds Corporation]], [[Steve Scalise]], [[NRA Political Victory Fund]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[Tyson Foods]], [[Family Research Council Action Political Action Committee]], [[John W. Rose]], [[JIM JORDAN FOR CONGRESS]], [[BIGGS FOR CONGRESS]], [[Frank Lucas]], [[Pete Sessions]], [[David Schweikert]], [[Charles J. Chuck Fleischmann]], [[SCOTT, TIMOTHY]], [[Glenn Thompson]], [[Koch Industries]], [[Shelley Moore Capito]], [[Marsha Blackburn]], [[John Boehner]], [[GARY PALMER FOR CONGRESS]], [[Pfizer Inc.]], [[PETE SESSIONS FOR CONGRESS]], [[Associated General Contractors of America Political Action Committee]], [[American College of Radiology Association PAC]], [[John R. Carter]], [[Donald Trump]], [[Tom Emmer]], [[CoreCivic]], [[Kevin McCarthy]], [[ISSA FOR CONGRESS]], [[Steve Womack]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - House Committee on Agriculture
   - House Committee on Armed Services
-  - "Livestock, Dairy, and Poultry"
+  - Livestock, Dairy, and Poultry
   - Nutrition and Foreign Agriculture
   - Seapower and Projection Forces
   - Strategic Forces
-total-raised: "$5.2M"
-career-total-source: "FEC weball summary (cycles 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+total-raised: $5.2M
+career-total-source: FEC weball summary (cycles 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

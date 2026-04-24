@@ -11,7 +11,7 @@ party: Republican
 chamber: Cabinet
 state: Kansas
 state-abbr: KS
-top-donors: "[[Koch Network - Charles Koch]]"
+top-donors: "[[Koch Network - Charles Koch]], [[Pfizer Inc.]], [[Cargill]], [[AbbVie]], [[McDonalds Corporation]], [[Humana]], [[Monsanto - Bayer]], [[Koch Industries]], [[National Cattlemen's Beef Association]], [[Richard Hudson]], [[Club for Growth INC PAC]], [[National Restaurant Association]], [[ADM - Archer Daniels Midland]], [[Southern Company]], [[Kansans for Life Political Action Committee]], [[PETE SESSIONS FOR CONGRESS]], [[Williams Companies]], [[Associated General Contractors of America Political Action Committee]], [[Google - Alphabet]], [[Leidos]], [[NRA Political Victory Fund]], [[Occidental Petroleum]], [[Meta - Facebook]], [[American College of Radiology Association PAC]], [[Akin Gump Strauss Hauer & Feld]], [[Steve Scalise]], [[CVS Health - Aetna]], [[Pete Sessions]], [[Kevin McCarthy]], [[Amgen Inc]], [[Mike Rogers]], [[National Right to Life PAC]], [[American Chemistry Council, INC]], [[Family Research Council Action Political Action Committee]]"
 govtrack-id: 412431
 bills-sponsored: 0
 bills-cosponsored: 0
@@ -23,7 +23,7 @@ known-gaps:
   - No legislative record from Congress.gov
   - No mapped relationships
 related: "[[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]]"
-last-enriched: 2026-04-20
+last-enriched: 2026-04-20T00:00:00.000Z
 ---
 
 

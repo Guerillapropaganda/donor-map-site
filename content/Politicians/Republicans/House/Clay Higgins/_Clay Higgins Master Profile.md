@@ -18,27 +18,27 @@ phone: 202-225-2031
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H6LA03148
 bills-sponsored: 47
 bills-cosponsored: 353
 bills-enacted: 1
 top-policy-area: Crime and Law Enforcement
-top-donors: "[[Chevron]], [[Ralph Norman]], [[WinRed]], [[American Chemistry Council, INC]], [[AIPAC - American Israel Public Affairs Committee]], [[AT&T - WarnerMedia]], [[National Rifle Association]], [[MAJORITY PAC]], [[Valero Energy]], [[Save America PAC]], [[National Association of Realtors]], [[Andy Harris]], [[General Dynamics]], [[Elbert Guillory's America]], [[L3Harris Technologies]], [[Jim Jordan]], [[Ben Cline]], [[Really American Pac]], [[Majority PAC]], [[AT&T]]"
-last-enriched: 2026-04-21
+top-donors: "[[Chevron]], [[Ralph Norman]], [[WinRed]], [[American Chemistry Council, INC]], [[AIPAC - American Israel Public Affairs Committee]], [[AT&T - WarnerMedia]], [[National Rifle Association]], [[MAJORITY PAC]], [[Valero Energy]], [[Save America PAC]], [[National Association of Realtors]], [[Andy Harris]], [[General Dynamics]], [[Elbert Guillory's America]], [[L3Harris Technologies]], [[Jim Jordan]], [[Ben Cline]], [[Really American Pac]], [[Majority PAC]], [[AT&T]], [[CLYDE FOR CONGRESS, INC.]], [[NRA Political Victory Fund]], [[ANDY HARRIS FOR CONGRESS]], [[GEO Group - Private Prison Industrial Complex]], [[Steve Scalise]], [[JIM JORDAN FOR CONGRESS]], [[TEXANS FOR JODEY ARRINGTON]], [[RALPH NORMAN FOR CONGRESS]], [[Associated General Contractors of America Political Action Committee]], [[Koch Industries]], [[MARY MILLER FOR CONGRESS]], [[Donald Trump]], [[BEN CLINE FOR CONGRESS, INC.]], [[DR. BRIAN BABIN FOR CONGRESS]], [[Russ Fulcher]], [[WEBER FOR CONGRESS]], [[Chip Roy]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Economic Growth, Energy Policy, and Regulatory Affairs"
+  - Economic Growth, Energy Policy, and Regulatory Affairs
   - Federal Law Enforcement
   - House Committee on Armed Services
   - House Committee on Oversight and Government Reform
-  - "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
+  - House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021
   - Readiness
   - Seapower and Projection Forces
-total-raised: "$4.8M"
-career-total-source: "FEC weball summary (cycles 2016, 2018, 2020, 2022, 2024, 2026)"
+total-raised: $4.8M
+career-total-source: FEC weball summary (cycles 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

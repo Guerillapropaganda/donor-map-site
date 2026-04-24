@@ -11,8 +11,8 @@ fec-committee-id: C00476697
 aliases:
   - NATIONAL WILDLIFE FEDERATION ACTION FUND
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[John Hoeven]], [[Martin Heinrich]], [[Catherine Cortez Masto]], [[Mariannette Miller-Meeks]], [[Nikki Budzinski]], [[Maria Cantwell]], [[Andrea Salinas]], [[Mark Kelly]], [[Kim Schrier]], [[Lisa Murkowski]], [[Raul Grijalva]], [[Maria Elvira Salazar]], [[Sharice Davids]], [[Eric Sorensen]], [[Steve Daines]], [[Raphael Warnock]], [[John Boozman]], [[Kristen McDonald Rivet]], [[Marie Gluesenkamp Perez]], [[Mike Levin]]"
+  - No lobbying disclosure data
+politicians-funded: "[[John Hoeven]], [[Martin Heinrich]], [[Catherine Cortez Masto]], [[Mariannette Miller-Meeks]], [[Nikki Budzinski]], [[Maria Cantwell]], [[Andrea Salinas]], [[Mark Kelly]], [[Kim Schrier]], [[Lisa Murkowski]], [[Raul Grijalva]], [[Maria Elvira Salazar]], [[Sharice Davids]], [[Eric Sorensen]], [[Steve Daines]], [[Raphael Warnock]], [[John Boozman]], [[Kristen McDonald Rivet]], [[Marie Gluesenkamp Perez]], [[Mike Levin]], [[Angus S. King]], [[Jeanne Shaheen]], [[Michael K. Simpson]], [[Bob Casey]], [[Brian K. Fitzpatrick]], [[Gabe Vasquez]], [[Gary Peters]], [[Susan Collins]], [[Ed Markey]], [[Debbie Dingell]], [[Melanie A. Stansbury]], [[John R. Curtis]], [[Tim Kaine]], [[Lisa Blunt Rochester]]"
 related: "[[John Hoeven]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -25,7 +25,7 @@ contributions-to-committees: 3000
 cash-on-hand: 36754
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

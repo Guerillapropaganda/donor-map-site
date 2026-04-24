@@ -1,25 +1,26 @@
 ---
-title: "John Kerry"
+title: John Kerry
 type: politician
 bioguide-id: K000148
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "Secretary of State (2013-2017)"
+party: Democrat
+chamber: Secretary of State (2013-2017)
 known-gaps:
-  - "No voting record data"
-  - "No mapped relationships"
+  - No voting record data
+  - No mapped relationships
 source-types:
   - Congress
   - FEC
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "S4MA00069"
-last-enriched: 2026-04-21
+fec-candidate-id: S4MA00069
+last-enriched: 2026-04-21T00:00:00.000Z
 corroboration-count: 2
-total-raised: "$70.7M"
-career-total-source: "FEC weball summary (cycles 1984, 1986, 1988, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016)"
+total-raised: $70.7M
+career-total-source: FEC weball summary (cycles 1984, 1986, 1988, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016)
 bills-sponsored: 383
+top-donors: "[[John Kerry]], [[AFL-CIO]], [[Meta - Facebook]], [[MIKE THOMPSON FOR CONGRESS]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Janice D. Schakowsky]], [[National Right to Life PAC]], [[CVS Health - Aetna]], [[MCCOLLUM FOR CONGRESS]], [[Southern Company]], [[Jim Costa]], [[CITIZENS TO ELECT RICK LARSEN]], [[Democratic Senatorial Campaign Committee]], [[National Education Association]], [[DIANA DEGETTE FOR CONGRESS]], [[League of Conservation Voters]], [[Democratic Party of Virginia]], [[James E. Clyburn]], [[Amgen Inc]], [[NANCY PELOSI FOR CONGRESS]], [[Rahm Emanuel]], [[Sierra Club Political Committee]], [[International Brotherhood of Electrical Workers Local 98 Committee on Political Education]], [[Google - Alphabet]], [[Edward J. Markey]], [[Sherrod Brown]], [[NRA Political Victory Fund]], [[Jim McGovern]], [[ADM - Archer Daniels Midland]], [[American College of Radiology Association PAC]], [[Steny H. Hoyer]], [[Adam Smith]], [[Planned Parenthood Action Fund INC]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[Richard Neal]], [[Akin Gump Strauss Hauer & Feld]], [[SHERMAN FOR CONGRESS]], [[Harry Reid]], [[Occidental Petroleum]]"
 ---
 
 

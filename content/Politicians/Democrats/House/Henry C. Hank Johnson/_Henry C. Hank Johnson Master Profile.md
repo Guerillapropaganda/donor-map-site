@@ -1,41 +1,41 @@
 ---
-title: "Henry C. Hank Johnson"
+title: Henry C. Hank Johnson
 type: politician
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Georgia"
-state-abbr: "GA"
+party: Democrat
+chamber: House
+state: Georgia
+state-abbr: GA
 district: "4"
-bioguide-id: "J000288"
+bioguide-id: J000288
 govtrack-id: 412199
 born: "1954-10-02"
-wikidata-id: "Q983537"
-website: "https://hankjohnson.house.gov"
-phone: "202-225-1605"
+wikidata-id: Q983537
+website: https://hankjohnson.house.gov
+phone: 202-225-1605
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-donors: "[[Western Growers Association]]"
+  - No FEC contribution data
+  - No voting record data
+donors: "[[Western Growers Association]], [[DOGGETT FOR U S CONGRESS COMMITTEE]], [[Akin Gump Strauss Hauer & Feld]], [[McDonalds Corporation]], [[Sierra Club Political Committee]], [[League of Conservation Voters]], [[NANCY PELOSI FOR CONGRESS]], [[Peter Welch]], [[National Right to Life PAC]], [[AbbVie]], [[Google - Alphabet]], [[National Education Association]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[J Street]], [[AFL-CIO]], [[Tyson Foods]], [[Steny H. Hoyer]], [[James E. Clyburn]], [[Pfizer Inc.]], [[Pete Sessions]], [[Eric Swalwell]], [[John R. Carter]], [[Richard Neal]], [[Amgen Inc]], [[Demand Justice]], [[Xavier Becerra]], [[National Restaurant Association]], [[Associated General Contractors of America Political Action Committee]], [[MEDICARE FOR ALL]], [[Frank Pallone]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[House Majority PAC]], [[CVS Health - Aetna]], [[Meta - Facebook]], [[AL GREEN FOR CONGRESS]], [[DoorDash]], [[COLE FOR CONGRESS]], [[Planned Parenthood Action Fund INC]], [[Yvette D. Clarke]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 24
 bills-cosponsored: 779
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Aviation
-  - "Courts, Intellectual Property, Artificial Intelligence, and the Internet"
+  - Courts, Intellectual Property, Artificial Intelligence, and the Internet
   - Highways and Transit
   - House Committee on Transportation and Infrastructure
   - House Committee on the Judiciary
   - Oversight
-  - "Railroads, Pipelines, and Hazardous Materials"
-  - "The Administrative State, Regulatory Reform, and Antitrust"
+  - Railroads, Pipelines, and Hazardous Materials
+  - The Administrative State, Regulatory Reform, and Antitrust
 ---
 
 

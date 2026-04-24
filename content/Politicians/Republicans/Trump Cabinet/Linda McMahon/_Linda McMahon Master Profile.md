@@ -21,14 +21,14 @@ source-types:
   - Congress
   - FEC
 known-gaps:
-  - "No voting record data"
+  - No voting record data
 last-enriched: "2026-04-09"
 opposes: "[[DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE]] · [[MAJORITY PAC]] · [[AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES P E O P L E]] · [[LEAGUE OF CONSERVATION VOTERS ACTION FUND]]"
 related: "[[_Donald Trump Master Profile]] · [[_Howard Lutnick Master Profile]] · [[US Chamber of Commerce]]"
-donors: "[[Brady Campaign]] · [[MAGA Inc]] · [[America First Policy Institute]] · [[US CHAMBER OF COMMERCE]] · [[AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E]] · [[US Chamber of Commerce]] · [[Majority PAC]] · [[American Federation of State County & Municipal Employees  P E O P L E]]"
+donors: "[[Brady Campaign]] · [[MAGA Inc]] · [[America First Policy Institute]] · [[US CHAMBER OF COMMERCE]] · [[AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E]] · [[US Chamber of Commerce]] · [[Majority PAC]] · [[American Federation of State County & Municipal Employees  P E O P L E]] · [[Linda McMahon]] · [[William R. Keating]] · [[ANDRE CARSON FOR CONGRESS]] · [[FreedomWorks for America]] · [[Revere America]] · [[Democratic Senatorial Campaign Committee]] · [[National Right to Life PAC]] · [[Americans for Responsible Leadership]] · [[Senate Majority PAC]] · [[Clay Cope for Congress]]"
 urls-first-triaged: "2026-04-15"
-total-raised: "$101.5M"
-career-total-source: "FEC weball summary (cycles 2010, 2012, 2014)"
+total-raised: $101.5M
+career-total-source: FEC weball summary (cycles 2010, 2012, 2014)
 corroboration-count: 2
 ---
 

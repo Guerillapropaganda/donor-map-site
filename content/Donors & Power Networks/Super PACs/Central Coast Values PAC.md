@@ -11,8 +11,8 @@ fec-committee-id: C00870204
 aliases:
   - CENTRAL COAST VALUES PAC
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Zoe Lofgren]], [[Emily Randall]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Zoe Lofgren]], [[Emily Randall]], [[Becca Balint]]"
 related: "[[Zoe Lofgren]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -22,7 +22,7 @@ total-raised: 90
 total-spent: 146
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

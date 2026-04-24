@@ -1,38 +1,39 @@
 ---
-title: "Randy K. Weber"
+title: Randy K. Weber
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Texas"
-state-abbr: "TX"
+party: Republican
+chamber: House
+state: Texas
+state-abbr: TX
 district: "14"
-bioguide-id: "W000814"
+bioguide-id: W000814
 govtrack-id: 412574
 born: "1953-07-02"
-wikidata-id: "Q4014569"
-website: "https://weber.house.gov"
-phone: "202-225-2831"
+wikidata-id: Q4014569
+website: https://weber.house.gov
+phone: 202-225-2831
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 22
 bills-cosponsored: 651
 bills-enacted: 0
-top-policy-area: "International Affairs"
-last-enriched: 2026-04-21
+top-policy-area: International Affairs
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Energy
   - Environment
   - House Committee on Energy and Commerce
-  - "House Committee on Science, Space, and Technology"
+  - House Committee on Science, Space, and Technology
   - Oversight and Investigations
+top-donors: "[[JIM JORDAN FOR CONGRESS]], [[ROGER WILLIAMS FOR U S CONGRESS COMMITTEE]], [[DR. BRIAN BABIN FOR CONGRESS]], [[NRA Political Victory Fund]], [[Elise Stefanik]], [[Associated General Contractors of America Political Action Committee]], [[Richard Hudson]], [[Koch Industries]], [[Campaign for Working Families]], [[Occidental Petroleum]], [[Pete Sessions]], [[TEXANS FOR JODEY ARRINGTON]], [[Southern Company]], [[Tom Emmer]], [[National Cattlemen's Beef Association]], [[AIPAC - American Israel Public Affairs Committee]], [[COTTON, THOMAS]], [[John R. Carter]], [[Markwayne Mullin]], [[John Cornyn]], [[Williams Companies]], [[Brett Guthrie]], [[Steve Scalise]], [[Gun Owners of America]], [[Google - Alphabet]], [[John Boehner]], [[ADM - Archer Daniels Midland]], [[PETE SESSIONS FOR CONGRESS]], [[National Restaurant Association]], [[Humana]], [[Cynthia M. Lummis]], [[ANDY HARRIS FOR CONGRESS]], [[INVEST IN A STRONG AND SECURE AMERICA]]"
 ---
 
 

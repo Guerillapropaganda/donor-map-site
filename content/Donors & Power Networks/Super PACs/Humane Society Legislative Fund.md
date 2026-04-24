@@ -11,8 +11,8 @@ fec-committee-id: C90009358
 aliases:
   - HUMANE SOCIETY LEGISLATIVE FUND
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Dianne Feinstein]], [[Josh Gottheimer]], [[Jahana Hayes]], [[Indivisible Action]], [[ActBlue]], [[Kim Schrier]], [[_Tammy Baldwin Master Profile]], [[John Fetterman]], [[Josh Harder]], [[Dina Titus]], [[Marcy Kaptur]], [[Nikki Budzinski]], [[Bob Casey]], [[Catherine Cortez Masto]], [[MoveOn.org Political Action]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Young Kim]], [[Sharice Davids]], [[Chrissy Houlahan]], [[Lauren Underwood]], [[Mike Levin]], [[Tammy Baldwin]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Dianne Feinstein]], [[Josh Gottheimer]], [[Jahana Hayes]], [[Indivisible Action]], [[ActBlue]], [[Kim Schrier]], [[_Tammy Baldwin Master Profile]], [[John Fetterman]], [[Josh Harder]], [[Dina Titus]], [[Marcy Kaptur]], [[Nikki Budzinski]], [[Bob Casey]], [[Catherine Cortez Masto]], [[MoveOn.org Political Action]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Young Kim]], [[Sharice Davids]], [[Chrissy Houlahan]], [[Lauren Underwood]], [[Mike Levin]], [[Tammy Baldwin]], [[Julia Brownley]], [[Lloyd Doggett]], [[Darren Soto]], [[Jon Ossoff]], [[Lucy McBath]], [[Scott H. Peters]], [[Ami Bera]], [[Brian K. Fitzpatrick]], [[Kyrsten Sinema]], [[Vern Buchanan]], [[Sanford D. Bishop]], [[Debbie Stabenow]], [[Jefferson van Drew]], [[Jeff Merkley]], [[Andy Kim]], [[Grace Meng]], [[Raul Ruiz]], [[Michael T. McCaul]], [[Christopher H. Smith]], [[Gary Peters]], [[Pete Aguilar]], [[Russ Fulcher]], [[Martin Heinrich]], [[Mark DeSaulnier]], [[Susie Lee]], [[Chris Pappas]], [[Lizzie Fletcher]], [[Steven Horsford]], [[Guy Reschenthaler]], [[Laurel M. Lee]], [[Elissa Slotkin]], [[Chris Murphy]], [[Elise Stefanik]], [[Deborah K. Ross]], [[Lance Gooden]], [[Joe Biden]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -23,9 +23,9 @@ employee-contributions-total: 8704
 employee-donor-count: 14
 source-types:
   - FEC
-last-enriched: 2026-04-21
-total-political-spend: "$3.7M"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 2 store(s), cycles 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022"
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $3.7M
+spend-source: aggregated from canonical FEC/IRS edge stores across 2 store(s), cycles 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022
 ---
 
 

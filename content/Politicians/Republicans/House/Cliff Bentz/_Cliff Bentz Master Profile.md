@@ -18,27 +18,27 @@ phone: 202-225-6730
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H0OR02127
 bills-sponsored: 7
 bills-cosponsored: 121
 bills-enacted: 1
 top-policy-area: Public Lands and Natural Resources
-top-donors: "[[Care Action]], [[Tzedek PAC]], [[Halliburton]], [[American Hospital Association PAC]], [[WinRed]], [[AT&T - WarnerMedia]], [[Associated General Contractors of America Political Action Committee]], [[Google - Alphabet]], [[Honeywell]], [[Anthem - Elevance Health]], [[Comcast - NBCUniversal]], [[National Association of Realtors]], [[Chevron]], [[Byron Donalds]], [[ConocoPhillips]], [[National Rifle Association]], [[National Cattlemen's Beef Association]], [[Ben Cline]], [[Jim Jordan]], [[Amgen Inc]], [[Jason Smith]], [[AIPAC - American Israel Public Affairs Committee]], [[Microsoft]], [[iHeartMedia]], [[Walmart - Walton Family]], [[MAJORITY PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Tyson Foods]], [[AbbVie]], [[Meta - Facebook]], [[UnitedHealth Group - Optum]], [[News Corp - Fox Corporation]], [[Morgan Stanley]], [[AT&T]], [[Majority PAC]], [[Honeywell International]]"
-last-enriched: 2026-04-21
+top-donors: "[[Care Action]], [[Tzedek PAC]], [[Halliburton]], [[American Hospital Association PAC]], [[WinRed]], [[AT&T - WarnerMedia]], [[Associated General Contractors of America Political Action Committee]], [[Google - Alphabet]], [[Honeywell]], [[Anthem - Elevance Health]], [[Comcast - NBCUniversal]], [[National Association of Realtors]], [[Chevron]], [[Byron Donalds]], [[ConocoPhillips]], [[National Rifle Association]], [[National Cattlemen's Beef Association]], [[Ben Cline]], [[Jim Jordan]], [[Amgen Inc]], [[Jason Smith]], [[AIPAC - American Israel Public Affairs Committee]], [[Microsoft]], [[iHeartMedia]], [[Walmart - Walton Family]], [[MAJORITY PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Tyson Foods]], [[AbbVie]], [[Meta - Facebook]], [[UnitedHealth Group - Optum]], [[News Corp - Fox Corporation]], [[Morgan Stanley]], [[AT&T]], [[Majority PAC]], [[Honeywell International]], [[CLIFF BENTZ FOR CONGRESS]], [[Steve Scalise]], [[Koch Industries]], [[JIM JORDAN FOR CONGRESS]], [[NRA Political Victory Fund]], [[BEN CLINE FOR CONGRESS, INC.]], [[JASON SMITH FOR CONGRESS]], [[Kevin McCarthy]], [[Williams Companies]], [[Southern Company]], [[Dan Newhouse]], [[Russ Fulcher]], [[Brett Guthrie]], [[Defending Main Street Superpac INC]], [[BYRON DONALDS FOR CONGRESS]], [[National Right to Life Victory Fund]], [[ADRIAN SMITH FOR CONGRESS]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Commerce, Manufacturing, and Trade"
+  - Commerce, Manufacturing, and Trade
   - Energy
   - Federal Lands
   - Health
   - House Committee on Energy and Commerce
   - House Committee on Natural Resources
-  - "Water, Wildlife and Fisheries"
-total-raised: "$4.5M"
-career-total-source: "FEC weball summary (cycles 2020, 2022, 2024, 2026)"
+  - Water, Wildlife and Fisheries
+total-raised: $4.5M
+career-total-source: FEC weball summary (cycles 2020, 2022, 2024, 2026)
 ---
 
 

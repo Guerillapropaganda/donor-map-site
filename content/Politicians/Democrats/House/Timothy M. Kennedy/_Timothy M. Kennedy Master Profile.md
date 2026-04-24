@@ -1,39 +1,40 @@
 ---
-title: "Timothy M. Kennedy"
+title: Timothy M. Kennedy
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "New York"
-state-abbr: "NY"
+party: Democrat
+chamber: House
+state: New York
+state-abbr: NY
 district: "26"
-bioguide-id: "K000402"
+bioguide-id: K000402
 govtrack-id: 456957
 born: "1976-10-20"
-wikidata-id: "Q7807373"
-website: "https://kennedy.house.gov"
-phone: "202-225-3306"
+wikidata-id: Q7807373
+website: https://kennedy.house.gov
+phone: 202-225-3306
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 4
 bills-cosponsored: 196
 bills-enacted: 0
-top-policy-area: "Crime and Law Enforcement"
-last-enriched: 2026-04-21
+top-policy-area: Crime and Law Enforcement
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Economic Opportunity
   - Emergency Management and Technology
   - House Committee on Homeland Security
-  - "House Committee on Veterans' Affairs"
+  - House Committee on Veterans' Affairs
   - Oversight and Investigations
   - Transportation and Maritime Security
+top-donors: "[[International Association of Firefighters Interested in Registration and Education PAC]], [[NANCY PELOSI FOR CONGRESS]], [[AFL-CIO]], [[Associated General Contractors of America Political Action Committee]], [[Robert Garcia]], [[SHERMAN FOR CONGRESS]], [[DoorDash]], [[League of Conservation Voters]], [[AbbVie]], [[Gilead Sciences]], [[Google - Alphabet]], [[Akin Gump Strauss Hauer & Feld]], [[Southern Company]], [[PAUL TONKO FOR CONGRESS]], [[GRACE FOR NEW YORK]], [[American Gaming Association]], [[AIPAC - American Israel Public Affairs Committee]], [[McDonalds Corporation]], [[Pfizer Inc.]], [[Protect Progress]], [[National Education Association]]"
 ---
 
 

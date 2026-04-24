@@ -1,32 +1,32 @@
 ---
-title: "Trent Kelly"
+title: Trent Kelly
 type: politician
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Mississippi"
-state-abbr: "MS"
+party: Republican
+chamber: House
+state: Mississippi
+state-abbr: MS
 district: "1"
-bioguide-id: "K000388"
+bioguide-id: K000388
 govtrack-id: 412673
 born: "1966-03-01"
-wikidata-id: "Q20204915"
-website: "https://trentkelly.house.gov"
-phone: "202-225-4306"
+wikidata-id: Q20204915
+website: https://trentkelly.house.gov
+phone: 202-225-4306
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-donors: "[[CA Farm Bureau Federation]]"
+  - No FEC contribution data
+  - No voting record data
+donors: "[[CA Farm Bureau Federation]], [[AIPAC - American Israel Public Affairs Committee]], [[JASON SMITH FOR CONGRESS]], [[Associated General Contractors of America Political Action Committee]], [[Steve Scalise]], [[National Cattlemen's Beef Association]], [[DAVID ROUZER FOR CONGRESS]], [[Kevin McCarthy]], [[Monsanto - Bayer]], [[NRA Political Victory Fund]], [[Leidos]], [[Freedom's Defense Fund]], [[Koch Industries]], [[Google - Alphabet]], [[Darin Lahood]], [[TEXANS FOR JODEY ARRINGTON]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[GARY PALMER FOR CONGRESS]], [[Richard Hudson]], [[Tyson Foods]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 15
 bills-cosponsored: 220
 bills-enacted: 0
-top-policy-area: "Armed Forces and National Security"
-last-enriched: 2026-04-21
+top-policy-area: Armed Forces and National Security
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Central Intelligence Agency
   - Forestry and Horticulture
@@ -34,7 +34,7 @@ committees:
   - House Committee on Armed Services
   - House Permanent Select Committee on Intelligence
   - Intelligence and Special Operations
-  - "Livestock, Dairy, and Poultry"
+  - Livestock, Dairy, and Poultry
   - National Security Agency and Cyber
   - Seapower and Projection Forces
 ---

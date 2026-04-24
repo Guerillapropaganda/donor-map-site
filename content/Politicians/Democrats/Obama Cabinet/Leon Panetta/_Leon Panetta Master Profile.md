@@ -1,20 +1,20 @@
 ---
-title: "Leon Panetta"
+title: Leon Panetta
 type: politician
 bioguide-id: P000047
 content-readiness: data-complete
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "Secretary of Defense (2011-2013)"
+party: Democrat
+chamber: Secretary of Defense (2011-2013)
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
+  - No FEC contribution data
+  - No voting record data
 source-types:
   - Congress
-donors: "[[National Cattlemen's Beef Association]] · [[California Farm Bureau Federation]]"
+donors: "[[National Cattlemen's Beef Association]] · [[California Farm Bureau Federation]] · [[National Education Association]] · [[National Committee to Preserve Social Security & Medicare PAC]] · [[Goldman Sachs]]"
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

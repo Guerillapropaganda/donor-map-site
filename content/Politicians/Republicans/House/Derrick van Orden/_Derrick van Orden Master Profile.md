@@ -18,29 +18,29 @@ phone: 202-225-5506
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H0WI03175
 bills-sponsored: 31
 bills-cosponsored: 321
 bills-enacted: 0
 top-policy-area: Armed Forces and National Security
-top-donors: "[[Activate America]], [[Hunter Action Fund (haf)]], [[Jake Ellzey]], [[Glenn Grothman]], [[Austin Scott]], [[August Pfluger]], [[National Victory Action Fund]], [[Adrian Smith]], [[WinRed]], [[Votevets]], [[MAJORITY PAC]], [[Mike Collins]], [[NRCC - National Republican Congressional Committee]], [[Save America PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[Alliance Coal, LLC PAC]], [[PRIORITIES USA ACTION]], [[Madison Project Inc.]], [[National Cattlemen's Beef Association]], [[Walmart - Walton Family]], [[AT&T - WarnerMedia]], [[Lockheed Martin]], [[National Restaurant Association]], [[Chevron]], [[Darrell Issa]], [[Hmp]], [[Joe Wilson]], [[Planned Parenthood Votes]], [[SPECIAL OPERATIONS FOR AMERICA]], [[Google - Alphabet]], [[Michael Waltz]], [[Freedom's Defense Fund]], [[League of Conservation Voters]], [[Campaign for Working Families]], [[Mike Haridopolos]], [[Republican Jewish Coalition]], [[General Dynamics]], [[Law Enforcement for a Safer America Pac]], [[Progressive Turnout Project]], [[Andy Harris]], [[David Rouzer]], [[National Education Association]], [[Comcast - NBCUniversal]], [[Scott Franklin]], [[Byron Donalds]], [[National Rifle Association]], [[National Association of Realtors]], [[Rick W. Allen]], [[Don Bacon]], [[Troy Downing]], [[Congressional Leadership Fund]], [[National Right to Life Victory Fund]], [[Center Forward Committee]], [[Jason Smith]], [[John James]], [[Kevin Kiley]], [[Raytheon (RTX)]], [[Vern Buchanan]], [[Ron Johnson]], [[Jim Jordan]], [[Ben Cline]], [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]], [[Mark Green]], [[Carlos Gimenez]], [[Valero Energy]], [[Ron Estes]], [[ADM - Archer Daniels Midland]], [[Honoring American Law Enforcement Pac]], [[Pete Sessions]], [[Cliff Bentz]], [[AT&T]], [[Majority PAC]], [[Priorities USA Action]], [[Special Operations for America]], [[HMP]], [[Protect Freedom Political Action Committee]]"
-last-enriched: 2026-04-21
+top-donors: "[[Activate America]], [[Hunter Action Fund (haf)]], [[Jake Ellzey]], [[Glenn Grothman]], [[Austin Scott]], [[August Pfluger]], [[National Victory Action Fund]], [[Adrian Smith]], [[WinRed]], [[Votevets]], [[MAJORITY PAC]], [[Mike Collins]], [[NRCC - National Republican Congressional Committee]], [[Save America PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[Alliance Coal, LLC PAC]], [[PRIORITIES USA ACTION]], [[Madison Project Inc.]], [[National Cattlemen's Beef Association]], [[Walmart - Walton Family]], [[AT&T - WarnerMedia]], [[Lockheed Martin]], [[National Restaurant Association]], [[Chevron]], [[Darrell Issa]], [[Hmp]], [[Joe Wilson]], [[Planned Parenthood Votes]], [[SPECIAL OPERATIONS FOR AMERICA]], [[Google - Alphabet]], [[Michael Waltz]], [[Freedom's Defense Fund]], [[League of Conservation Voters]], [[Campaign for Working Families]], [[Mike Haridopolos]], [[Republican Jewish Coalition]], [[General Dynamics]], [[Law Enforcement for a Safer America Pac]], [[Progressive Turnout Project]], [[Andy Harris]], [[David Rouzer]], [[National Education Association]], [[Comcast - NBCUniversal]], [[Scott Franklin]], [[Byron Donalds]], [[National Rifle Association]], [[National Association of Realtors]], [[Rick W. Allen]], [[Don Bacon]], [[Troy Downing]], [[Congressional Leadership Fund]], [[National Right to Life Victory Fund]], [[Center Forward Committee]], [[Jason Smith]], [[John James]], [[Kevin Kiley]], [[Raytheon (RTX)]], [[Vern Buchanan]], [[Ron Johnson]], [[Jim Jordan]], [[Ben Cline]], [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]], [[Mark Green]], [[Carlos Gimenez]], [[Valero Energy]], [[Ron Estes]], [[ADM - Archer Daniels Midland]], [[Honoring American Law Enforcement Pac]], [[Pete Sessions]], [[Cliff Bentz]], [[AT&T]], [[Majority PAC]], [[Priorities USA Action]], [[Special Operations for America]], [[HMP]], [[Protect Freedom Political Action Committee]], [[Raytheon (RTX Corporation)]], [[Tom Emmer]], [[Ashley Hinson]], [[Elise Stefanik]], [[HOUCHIN FOR CONGRESS]], [[JOHN JAMES FOR CONGRESS, INC.]], [[BURCHETT FOR CONGRESS]], [[DR. BRIAN BABIN FOR CONGRESS]], [[MIKE KENNEDY FOR UTAH]], [[Gregory F. Murphy]], [[DON BACON FOR CONGRESS]], [[COMER FOR CONGRESS]], [[FRY FOR CONGRESS]], [[Earl L. Buddy Carter]], [[Guy Reschenthaler]], [[Southern Company]], [[American Principles Fund]], [[Steve Scalise]], [[Mike Johnson]], [[NRA Political Victory Fund]], [[CLAUDIA TENNEY FOR CONGRESS]], [[Dan Newhouse]], [[GLENN GROTHMAN FOR CONGRESS]], [[MOORE FOR WEST VIRGINIA, INC.]], [[FEDORCHAK FOR ND]], [[Lloyd Smucker]], [[Glenn Thompson]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[PETE SESSIONS FOR CONGRESS]], [[ROBERT ADERHOLT FOR CONGRESS]], [[JOE WILSON FOR CONGRESS]], [[RON ESTES FOR CONGRESS]], [[Clay Higgins]], [[Russ Fulcher]], [[MIKE HARIDOPOLOS FOR CONGRESS]], [[CELESTE FOR CONGRESS]], [[HAGEMAN FOR WYOMING]], [[Michael R. Turner]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[FISCHBACH FOR CONGRESS]], [[BEN CLINE FOR CONGRESS, INC.]], [[SCOTT FRANKLIN FOR CONGRESS]], [[JIM JORDAN FOR CONGRESS]], [[Robert J. Wittman]], [[AUGUST PFLUGER FOR CONGRESS]], [[JASON SMITH FOR CONGRESS]], [[Jimmy Patronis]], [[VERN BUCHANAN FOR CONGRESS]], [[MAST FOR CONGRESS]], [[DAVID ROUZER FOR CONGRESS]], [[DAVE TAYLOR FOR CONGRESS]], [[Carol D. Miller]], [[WEBER FOR CONGRESS]], [[Richard Hudson]], [[CARLOS GIMENEZ FOR CONGRESS]], [[CLIFF BENTZ FOR CONGRESS]], [[Robert E. Latta]], [[Frank Lucas]], [[RICK W. ALLEN FOR CONGRESS]], [[FRIENDS OF TIM MOORE]], [[Ronny Jackson]], [[David P. Joyce]], [[KEVIN KILEY FOR CONGRESS]], [[John J. McGuire]], [[MARK GREEN FOR CONGRESS]], [[ANDY HARRIS FOR CONGRESS]], [[LISA MCCLAIN FOR CONGRESS]], [[Rick Crawford]], [[ADRIAN SMITH FOR CONGRESS]], [[JAKE ELLZEY FOR CONGRESS]], [[RON JOHNSON FOR SENATE, INC.]], [[Brett Guthrie]], [[Tim Walberg]], [[Nicholas A. Langworthy]], [[Pat Fallon]], [[Dale W. Strong]], [[Darin Lahood]], [[Koch Industries]], [[GARY PALMER FOR CONGRESS]], [[Mark B. Messmer]], [[Daniel Meuser]], [[J. French Hill]], [[Neal P. Dunn]], [[TEXANS FOR JODEY ARRINGTON]], [[Robert F. Onder]], [[Michael Guest]], [[Kevin McCarthy]], [[BURGESS 4 UTAH]], [[NEHLS FOR CONGRESS]], [[KAT FOR CONGRESS]], [[LOUDERMILK FOR CONGRESS]], [[Troy Balderson]], [[MICHAEL WALTZ FOR CONGRESS]], [[MIKE COLLINS FOR SENATE]], [[MARY MILLER FOR CONGRESS]], [[Richard McCormick]], [[BYRON DONALDS FOR CONGRESS]], [[Brandon Gill]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Economic Opportunity
   - Health
   - House Committee on Agriculture
   - House Committee on Armed Services
-  - "House Committee on Veterans' Affairs"
+  - House Committee on Veterans' Affairs
   - Intelligence and Special Operations
-  - "Livestock, Dairy, and Poultry"
+  - Livestock, Dairy, and Poultry
   - Nutrition and Foreign Agriculture
   - Strategic Forces
-total-raised: "$21.8M"
-career-total-source: "FEC weball summary (cycles 2020, 2022, 2024, 2026)"
+total-raised: $21.8M
+career-total-source: FEC weball summary (cycles 2020, 2022, 2024, 2026)
 ---
 
 

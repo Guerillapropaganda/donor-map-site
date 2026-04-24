@@ -10,7 +10,7 @@ last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-ie-support: $2,502
 fec-ie-oppose: null
-politicians-funded: "[[Mark Green]], [[John Thune]], [[Warren Davidson]], [[Scott Fitzgerald]], [[Mariannette Miller-Meeks]], [[Randy Fine]], [[Chuck Edwards]], [[Tim Sheehy]], [[Mike Lee]], [[Mike Flood]], [[Pete Ricketts]], [[Cory Mills]], [[Mike Carey]], [[Troy Balderson]], [[Adrian Smith]], [[Monica de la Cruz]], [[Michael Lawler]], [[Donald Trump]], [[John Fetterman]], [[Michelle Fischbach]], [[Derrick van Orden]], [[Anna Paulina Luna]], [[Ken Calvert]], [[Carlos Gimenez]], [[Bryan Steil]], [[Ted Cruz]], [[Glenn Grothman]], [[David Schweikert]], [[Tony Wied]], [[Scott Perry]], [[Maria Elvira Salazar]], [[Jimmy Patronis]], [[Ryan Mackenzie]], [[Ron Johnson]], [[Brad Finstad]], [[Bernie Moreno]], [[Deb Fischer]], [[Young Kim]]"
+politicians-funded: "[[Mark Green]], [[John Thune]], [[Warren Davidson]], [[Scott Fitzgerald]], [[Mariannette Miller-Meeks]], [[Randy Fine]], [[Chuck Edwards]], [[Tim Sheehy]], [[Mike Lee]], [[Mike Flood]], [[Pete Ricketts]], [[Cory Mills]], [[Mike Carey]], [[Troy Balderson]], [[Adrian Smith]], [[Monica de la Cruz]], [[Michael Lawler]], [[Donald Trump]], [[John Fetterman]], [[Michelle Fischbach]], [[Derrick van Orden]], [[Anna Paulina Luna]], [[Ken Calvert]], [[Carlos Gimenez]], [[Bryan Steil]], [[Ted Cruz]], [[Glenn Grothman]], [[David Schweikert]], [[Tony Wied]], [[Scott Perry]], [[Maria Elvira Salazar]], [[Jimmy Patronis]], [[Ryan Mackenzie]], [[Ron Johnson]], [[Brad Finstad]], [[Bernie Moreno]], [[Deb Fischer]], [[Young Kim]], [[IMAGE DIRECT]], [[JAPS-OLSON COMPANY]], [[I360]], [[BEDROCK DATA SOLUTIONS]], [[SUNTRUST BANK]], [[HUCKABY DAVIS LISKER]], [[SABAK COMPUER SERVICES]], [[INTERACTIVE MEDIA LLC]], [[ARISTOTLE]], [[National Republican Senatorial Committee]], [[MDS COMMUNICATIONS CORPORATION]], [[TIGRE-STRATEGICS, INC]], [[GOETZ PRINTING CO.]], [[STRATEGIC MEDIA PLACEMENT INC]], [[INTERACTIVE MEDIA]], [[CORPORATE COMMUNICATIONS GROUP]], [[INFOCISION]], [[Heartland Resurgence]], [[Carol D. Miller]], [[Dan Sullivan]], [[Ann Wagner]], [[Don Bacon]], [[Max L. Miller]], [[Nicholas J. Begich]], [[Josh Hawley]], [[Thom Tillis]], [[Marsha Blackburn]], [[James R. Baird]], [[Rick W. Allen]], [[Mitt Romney]], [[Kat Cammack]], [[Zachary Nunn]], [[Vern Buchanan]], [[Tommy Tuberville]], [[Jason Smith]], [[Michael A. Rulli]], [[Mike Kelly]], [[Shelley Moore Capito]], [[Richard Hudson]], [[Tim Walberg]], [[Cindy Hyde-Smith]], [[Brian Mast]], [[Tom Barrett]], [[Ron Estes]], [[Mike Rogers]], [[Rick Scott]], [[Marco Rubio]], [[Matt van Epps]], [[Claudia Tenney]], [[John James]], [[Scott Franklin]], [[Tracey Mann]], [[David J. Taylor]], [[Mark E. Amodei]], [[Elijah Crane]], [[Thomas P. Tiffany]], [[J. French Hill]], [[Andrew R. Garbarino]], [[Kevin Cramer]], [[Lauren Boebert]], [[Daniel Webster]], [[Ryan Zinke]], [[David P. Joyce]], [[Ashley Hinson]], [[David G. Valadao]], [[Greg Casar]], [[Mitch McConnell]], [[Laurel M. Lee]], [[Robert E. Latta]], [[Ted Budd]], [[John W. Rose]], [[Jennifer A. Kiggans]], [[Nick Lalota]], [[Michael R. Turner]], [[Steve Daines]], [[Mike Bost]], [[David McCormick]], [[Mike Rounds]], [[Joni Ernst]], [[Elise Stefanik]], [[Jack Bergman]], [[JD Vance]], [[John Kennedy]], [[Tom Cotton]], [[Byron Donalds]], [[Randy Feenstra]], [[Christopher H. Smith]], [[Brian K. Fitzpatrick]], [[Bill Cassidy]], [[Jim Jordan]], [[Roger Marshall]], [[Lindsey Graham]], [[Pete Stauber]], [[Cliff Bentz]], [[Todd Young]], [[Bruce Westerman]]"
 related: "[[Mark Green]] · [[John Thune]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -24,8 +24,8 @@ individual-contributions: 62477
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

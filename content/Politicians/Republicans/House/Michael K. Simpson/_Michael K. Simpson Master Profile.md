@@ -1,37 +1,38 @@
 ---
-title: "Michael K. Simpson"
+title: Michael K. Simpson
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Idaho"
-state-abbr: "ID"
+party: Republican
+chamber: House
+state: Idaho
+state-abbr: ID
 district: "2"
-bioguide-id: "S001148"
+bioguide-id: S001148
 govtrack-id: 400376
 born: "1950-09-08"
-wikidata-id: "Q549521"
-website: "https://simpson.house.gov"
-phone: "202-225-5531"
+wikidata-id: Q549521
+website: https://simpson.house.gov
+phone: 202-225-5531
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 8
 bills-cosponsored: 106
 bills-enacted: 0
-top-policy-area: "International Affairs"
-last-enriched: 2026-04-21
+top-policy-area: International Affairs
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Energy and Water Development and Related Agencies
   - House Committee on Appropriations
-  - "Interior, Environment, and Related Agencies"
-  - "Labor, Health and Human Services, Education, and Related Agencies"
+  - Interior, Environment, and Related Agencies
+  - Labor, Health and Human Services, Education, and Related Agencies
+top-donors: "[[AFL-CIO]], [[Monsanto - Bayer]], [[Darin Lahood]], [[National Education Association]], [[Leidos]], [[National Cattlemen's Beef Association]], [[Southern Company]], [[Mike Collins]], [[Koch Industries]], [[American Dream Federal Action]], [[Pfizer Inc.]], [[AbbVie]], [[Google - Alphabet]], [[Bechtel Corporation]], [[ROBERT ADERHOLT FOR CONGRESS]], [[NRA Political Victory Fund]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Defending Main Street Superpac INC]], [[Associated General Contractors of America Political Action Committee]], [[Williams Companies]], [[Steve Scalise]], [[AIPAC - American Israel Public Affairs Committee]], [[Roger Wicker]], [[Occidental Petroleum]], [[National Association of Manufacturers]], [[McDonalds Corporation]], [[Cargill]], [[American College of Radiology Association PAC]], [[Meta - Facebook]], [[BYRON DONALDS FOR CONGRESS]], [[National Association of Realtors]], [[CoreCivic]], [[National Wildlife Federation Action Fund]], [[National Restaurant Association]], [[John Thune]], [[Ray LaHood]], [[Ken Calvert]], [[John Boehner]], [[Clearpath Action Fund, Inc.]], [[Paul A. Gosar]], [[Amgen Inc]], [[ROGER WILLIAMS FOR U S CONGRESS COMMITTEE]], [[COLE FOR CONGRESS]], [[John R. Carter]], [[KAY GRANGER CAMPAIGN FUND]], [[Akin Gump Strauss Hauer & Feld]], [[Mike Crapo]], [[National Republican Senatorial Committee]]"
 ---
 
 

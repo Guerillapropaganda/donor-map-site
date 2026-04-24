@@ -5,14 +5,14 @@ content-readiness: data-complete
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00680983
 aliases:
   - NO LABELS ACTION, INC.
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Josh Gottheimer]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Josh Gottheimer]], [[SPIROS CONSULTING]], [[EIS SOLUTIONS]], [[CENTRE LAW & CONSULTING]], [[SCR STRATEGIES]], [[BULLDOG COMPLIANCE]], [[Democracy Alliance]], [[BLANK ROME LLP]], [[CLARK HILL]], [[The Lincoln Project]], [[IMGE LLC]], [[America PAC - Elon Musk]], [[ANZALONE LISZT GROVE RESEARCH]], [[GS STRATEGY GROUP]], [[WCK SOLUTIONS]], [[ASCENT MEDIA LLC]], [[WINSTON & STRAWN LLP]], [[CORDIA PARTNERS]], [[ARENT FOX LLP]], [[David P. Joyce]], [[Jim Costa]], [[Brian K. Fitzpatrick]], [[Susie Lee]], [[Vicente Gonzalez]], [[Thomas R. Suozzi]], [[Salud O. Carbajal]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -22,9 +22,9 @@ independent-expenditures: 99983
 related: "[[Josh Gottheimer]]"
 source-types:
   - FEC
-last-enriched: 2026-04-21
-total-political-spend: "$1.4M"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2018, 2020, 2022"
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $1.4M
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2018, 2020, 2022
 ---
 
 

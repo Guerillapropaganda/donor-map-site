@@ -18,26 +18,26 @@ phone: 202-225-6105
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2TX03126
 bills-sponsored: 17
 bills-cosponsored: 331
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[American Chemistry Council, INC]], [[General Motors]], [[National Multifamily Housing Council]], [[Nucor Corporation]], [[AIPAC - American Israel Public Affairs Committee]], [[L3Harris Technologies]], [[National Association of Realtors]], [[AT&T - WarnerMedia]], [[BAE Systems]], [[General Dynamics]], [[Walmart - Walton Family]], [[Lockheed Martin]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Johnson & Johnson]], [[Bank of America]], [[National Cattlemen's Beef Association]], [[Tyson Foods]], [[National Rifle Association]], [[JPAC - Jewish Public Affairs Committee of California]], [[Comcast - NBCUniversal]], [[National Rental Home Council]], [[Citigroup]], [[Associated General Contractors of America Political Action Committee]], [[Care Action]], [[Pfizer Inc.]], [[Charles Schwab]], [[Raytheon (RTX Corporation)]], [[Boeing]], [[Morgan Stanley]], [[US CHAMBER OF COMMERCE]], [[CBRE Group]], [[Southern Company]], [[ExxonMobil]], [[Tenet Healthcare]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[Novo Nordisk]], [[Walmart]], [[Kelcy Warren - Energy Transfer Partners]], [[Goldman Sachs]], [[JPMorgan Chase]], [[Amazon]], [[AT&T]], [[Eli Lilly]], [[US Chamber of Commerce]]"
-last-enriched: 2026-04-21
+top-donors: "[[American Chemistry Council, INC]], [[General Motors]], [[National Multifamily Housing Council]], [[Nucor Corporation]], [[AIPAC - American Israel Public Affairs Committee]], [[L3Harris Technologies]], [[National Association of Realtors]], [[AT&T - WarnerMedia]], [[BAE Systems]], [[General Dynamics]], [[Walmart - Walton Family]], [[Lockheed Martin]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Johnson & Johnson]], [[Bank of America]], [[National Cattlemen's Beef Association]], [[Tyson Foods]], [[National Rifle Association]], [[JPAC - Jewish Public Affairs Committee of California]], [[Comcast - NBCUniversal]], [[National Rental Home Council]], [[Citigroup]], [[Associated General Contractors of America Political Action Committee]], [[Care Action]], [[Pfizer Inc.]], [[Charles Schwab]], [[Raytheon (RTX Corporation)]], [[Boeing]], [[Morgan Stanley]], [[US CHAMBER OF COMMERCE]], [[CBRE Group]], [[Southern Company]], [[ExxonMobil]], [[Tenet Healthcare]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[Novo Nordisk]], [[Walmart]], [[Kelcy Warren - Energy Transfer Partners]], [[Goldman Sachs]], [[JPMorgan Chase]], [[Amazon]], [[AT&T]], [[Eli Lilly]], [[US Chamber of Commerce]], [[American College of Radiology Association PAC]], [[Conservative Leadership PAC]], [[MBNA Corporation]], [[Occidental Petroleum]], [[NRA Political Victory Fund]], [[National Right to Life PAC]], [[National Republican Senatorial Committee]], [[Steve Scalise]], [[Amgen Inc]], [[Paul Ryan]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[Frank Lucas]], [[Humana]], [[Williams Companies]], [[Ken Calvert]], [[Koch Industries]], [[AbbVie]], [[Google - Alphabet]], [[Mark E. Amodei]], [[McDonalds Corporation]], [[Akin Gump Strauss Hauer & Feld]], [[Ray LaHood]], [[COLE FOR CONGRESS]], [[Darin Lahood]], [[KAY GRANGER CAMPAIGN FUND]], [[National Restaurant Association]], [[Republican Jewish Coalition]], [[Roger Marshall]], [[Mike Johnson]], [[American Gaming Association]], [[Donald Trump]], [[Campaign for Working Families]], [[MARIO DIAZ-BALART FOR CONGRESS]], [[Bechtel Corporation]], [[Rick Crawford]], [[DAVID ROUZER FOR CONGRESS]], [[ANDY HARRIS FOR CONGRESS]], [[DAN NEWHOUSE FOR CONGRESS]], [[DANIEL WEBSTER PAC]], [[TEXANS FOR JODEY ARRINGTON]], [[CLAUDIA TENNEY FOR CONGRESS]], [[Leidos]], [[DR. BRIAN BABIN FOR CONGRESS]], [[John Cornyn]], [[CoreCivic]], [[ISSA FOR CONGRESS]], [[FreedomWorks for America]], [[Jerry Moran]], [[Kevin McCarthy]], [[JOE WILSON FOR CONGRESS]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Capital Markets
   - Government Operations
   - Health Care and Financial Services
   - House Committee on Financial Services
   - House Committee on Oversight and Government Reform
-  - "National Security, Illicit Finance, and International Financial Institutions"
-total-raised: "$32.2M"
-career-total-source: "FEC weball summary (cycles 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+  - National Security, Illicit Finance, and International Financial Institutions
+total-raised: $32.2M
+career-total-source: FEC weball summary (cycles 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

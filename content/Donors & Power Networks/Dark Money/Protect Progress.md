@@ -11,7 +11,7 @@ source-tier: 1
 fec-ie-support: $739,093
 fec-ie-oppose: null
 related: "[[Brian Armstrong]] · [[Ro Khanna]] · [[Ritchie Torres]] · [[Dan Goldman]]"
-politicians-funded: "[[Ritchie Torres]], [[Ro Khanna]], [[Dan Goldman]], [[Jimmy Gomez]], [[Ruben Gallego]], [[Yassamin Ansari]], [[Josh Gottheimer]], [[Suhas Subramanyam]], [[Nikki Budzinski]], [[Julie Johnson]], [[Shri Thanedar]], [[Emily Randall]], [[Elissa Slotkin]], [[Sarah McBride]], [[Shomari Figures]]"
+politicians-funded: "[[Ritchie Torres]], [[Ro Khanna]], [[Dan Goldman]], [[Jimmy Gomez]], [[Ruben Gallego]], [[Yassamin Ansari]], [[Josh Gottheimer]], [[Suhas Subramanyam]], [[Nikki Budzinski]], [[Julie Johnson]], [[Shri Thanedar]], [[Emily Randall]], [[Elissa Slotkin]], [[Sarah McBride]], [[Shomari Figures]], [[Co Impact Philanthropic Funds]], [[BISON STRATEGIES]], [[CLARITY CAMPAIGN LABS LLC]], [[DDC PUBLIC AFFAIRS]], [[BUILD THE BASE STRATEGIES]], [[SCHOEN SURVEY RESEARCH]], [[BACKSTORY STRATEGIES LLC]], [[COVINGTON & BURLING]], [[DOWNFIELD LLC]], [[GLOBAL STRATEGY GROUP]], [[PUBLIC POLICY POLLING]], [[GRAGERT RESEARCH]], [[Christian D. Menefee]], [[James R. Walkinshaw]], [[Bob Menendez]], [[Johnny Olszewski]], [[Melissa Bean]], [[Timothy M. Kennedy]], [[Eugene Simon Vindman]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -24,8 +24,8 @@ individual-contributions: 350000
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

@@ -6,11 +6,11 @@ sector: Dark Money
 entity-type: Super PAC
 committee-id: C00733402
 fec-url: https://www.fec.gov/data/committee/C00733402/
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-ie-support: $1,071,310
 fec-ie-oppose: null
-politicians-funded: "[[Carlos Gimenez]]"
+politicians-funded: "[[Carlos Gimenez]], [[ZDB, INC.]], [[ON 3 PUBLIC RELATIONS, LLC]], [[MCLAUGHLIN & ASSOCIATES]], [[CYGNAL LLC]], [[SPF CONSULTING, LLC]], [[PROFESSIONAL DATA SERVICES]]"
 related: "[[Carlos Gimenez]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -20,10 +20,10 @@ total-spent: 28048
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
-total-political-spend: "$587K"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2020"
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $587K
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2020
 ---
 
 

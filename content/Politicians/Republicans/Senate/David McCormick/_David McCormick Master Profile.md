@@ -1,43 +1,44 @@
 ---
-title: "David McCormick"
+title: David McCormick
 type: politician
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "Senate"
-state: "Pennsylvania"
-state-abbr: "PA"
-bioguide-id: "M001243"
+party: Republican
+chamber: Senate
+state: Pennsylvania
+state-abbr: PA
+bioguide-id: M001243
 govtrack-id: 456968
 born: "1965-08-17"
-wikidata-id: "Q5234544"
-website: "https://www.mccormick.senate.gov"
-phone: "202-224-6324"
+wikidata-id: Q5234544
+website: https://www.mccormick.senate.gov
+phone: 202-224-6324
 source-types:
   - Congress
   - GovTrack
 known-gaps:
-  - "No FEC contribution data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 corroboration-count: 2
 committees:
   - Digital Assets
-  - "East Asia, the Pacific, and International Cybersecurity Policy"
+  - East Asia, the Pacific, and International Cybersecurity Policy
   - Energy
-  - "Housing, Transportation, and Community Development"
+  - Housing, Transportation, and Community Development
   - Joint Economic Committee
-  - "Multilateral International Development, Multilateral Institutions, and International Economic, Energy, and Environmental Policy"
+  - Multilateral International Development, Multilateral Institutions, and International Economic, Energy, and Environmental Policy
   - National Security and International Trade and Finance
-  - "Near East, South Asia, Central Asia, and Counterterrorism"
-  - "Senate Committee on Banking, Housing, and Urban Affairs"
+  - Near East, South Asia, Central Asia, and Counterterrorism
+  - Senate Committee on Banking, Housing, and Urban Affairs
   - Senate Committee on Energy and Natural Resources
   - Senate Committee on Foreign Relations
   - Senate Special Committee on Aging
   - Water and Power
 bills-sponsored: 27
+top-donors: "[[Campaign for Working Families]], [[John Cornyn]], [[DR. BRIAN BABIN FOR CONGRESS]], [[Williams Companies]], [[NRA Political Victory Fund]], [[Women Speak Out Pac]], [[Amgen Inc]], [[National Republican Senatorial Committee]], [[Akin Gump Strauss Hauer & Feld]], [[Common Sense for America PAC]], [[GEO Group - Private Prison Industrial Complex]], [[American Principles Fund]], [[Pfizer Inc.]], [[Leidos]], [[Glenn Thompson]], [[Google - Alphabet]], [[America First Action]], [[Republican Jewish Coalition]], [[Daniel Meuser]], [[The Sentinel Action Fund]], [[Club for Growth INC PAC]], [[American Principles Project Pac]], [[National Right to Life Victory Fund]], [[DoorDash]], [[Guy Reschenthaler]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Koch Industries]]"
 ---
 
 

@@ -19,11 +19,11 @@ source-types:
   - Congress
   - GovTrack
 known-gaps:
-  - "No FEC contribution data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-top-donors: "[[Comcast - NBCUniversal]], [[AT&T]], [[Cigna Group]], [[a16z - Andreessen Horowitz]], [[Ford Motor Company]], [[CVS Health - Aetna]], [[Coinbase]], [[Meta - Facebook]], [[Novo Nordisk]], [[Pfizer Inc.]], [[Johnson & Johnson]]"
-last-enriched: 2026-04-21
+top-donors: "[[Comcast - NBCUniversal]], [[AT&T]], [[Cigna Group]], [[a16z - Andreessen Horowitz]], [[Ford Motor Company]], [[CVS Health - Aetna]], [[Coinbase]], [[Meta - Facebook]], [[Novo Nordisk]], [[Pfizer Inc.]], [[Johnson & Johnson]], [[SHARICE FOR CONGRESS]], [[PAUL TONKO FOR CONGRESS]], [[LUZ RIVAS FOR CONGRESS]], [[BARRAGAN FOR CONGRESS]], [[Teresa Leger Fernandez]], [[PETE AGUILAR FOR CONGRESS]], [[AIPAC - American Israel Public Affairs Committee]], [[STRICKLAND FOR WASHINGTON]], [[Planned Parenthood Action Fund INC]], [[NANCY PELOSI FOR CONGRESS]], [[AbbVie]], [[Demand Justice]], [[National Education Association]], [[Let America Vote PAC]], [[ROBERT GARCIA FOR CONGRESS]], [[Nydia Velazquez]], [[NIKKI FOR CONGRESS]], [[Leidos]], [[Maxwell Frost]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[DEBORAH ROSS FOR CONGRESS]], [[Donald S. Beyer]], [[JAMIE RASKIN FOR CONGRESS]], [[League of Conservation Voters]], [[Amgen Inc]], [[Sylvia R. Garcia]], [[Bradley Scott Schneider]], [[Robert Menendez]], [[Hakeem Jeffries]], [[KATHERINE CLARK FOR CONGRESS]], [[MARK KELLY FOR SENATE]], [[Richard Neal]], [[TED LIEU FOR CONGRESS]], [[ADRIANO ESPAILLAT FOR CONGRESS]], [[Robin L. Kelly]], [[Janice D. Schakowsky]], [[JUDY CHU FOR CONGRESS]], [[STANTON FOR CONGRESS]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Aviation
   - Counterterrorism and Intelligence
