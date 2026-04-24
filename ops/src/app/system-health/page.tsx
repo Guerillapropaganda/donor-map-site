@@ -26,6 +26,7 @@
  */
 
 import { useState, useEffect, useCallback, useRef } from "react"
+import HarnessChip from "@/components/HarnessChip"
 
 // ─── Vault audit harness (ADR-0021 Phase 2) ────────────────────────
 
@@ -337,13 +338,16 @@ export default function SystemHealthPage() {
             after adding new pages.
           </p>
         </div>
-        <button
-          onClick={runChecks}
-          disabled={running}
-          className="px-4 py-2 text-sm border border-amber-700 bg-amber-900/30 text-amber-200 hover:bg-amber-900/60 rounded disabled:opacity-40"
-        >
-          {running ? "Checking..." : "Re-run checks"}
-        </button>
+        <div className="flex items-center gap-2">
+          <HarnessChip />
+          <button
+            onClick={runChecks}
+            disabled={running}
+            className="px-4 py-2 text-sm border border-amber-700 bg-amber-900/30 text-amber-200 hover:bg-amber-900/60 rounded disabled:opacity-40"
+          >
+            {running ? "Checking..." : "Re-run checks"}
+          </button>
+        </div>
       </div>
 
       {/* Vault audit harness (ADR-0021 Phase 2) */}

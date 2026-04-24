@@ -3,6 +3,7 @@
 import { useEffect, useState } from "react"
 import Link from "next/link"
 import type { Profile } from "@/lib/vault"
+import HarnessChip, { type HarnessArtifact } from "@/components/HarnessChip"
 
 /**
  * Sign-Off Queue — surfaces profiles that passed every automated A+
@@ -45,8 +46,17 @@ export default function SignoffQueuePage() {
   const [loading, setLoading] = useState(true)
   const [typeFilter, setTypeFilter] = useState<string>("all")
   const [sortBy, setSortBy] = useState<"age" | "triangulation" | "title">("age")
+  const [harness, setHarness] = useState<HarnessArtifact | null>(null)
 
   useEffect(() => {
+    // KNOWN GAP (see content/Admin Notes/ops-harness-audit-2026-04-24.md):
+    // The queue below is sourced from the audit-a-plus-passed frontmatter
+    // stamp — which is exactly the anti-pattern the "Ops display rule" in
+    // CLAUDE.md warns against. Fixing it properly requires extending the
+    // harness to emit the per-profile pass list (or building a live
+    // /api/signoff-queue that recomputes on demand). The HarnessChip +
+    // aPlusFailingCount stat card below give a live trust signal in the
+    // meantime so a stale janitor doesn't silently mask a broken queue.
     fetch("/api/vault")
       .then((r) => r.json())
       .then((data: { profiles: Profile[] }) => {
@@ -85,6 +95,15 @@ export default function SignoffQueuePage() {
   // Flag S-tier-ready profiles (have angle + original-finding already)
   const sTierReady = queue.filter((q) => q.hasAngle && q.hasOriginalFinding)
 
+  // Live "A+ bar" findings from the harness. The harness type-specific-a-plus
+  // check recomputes pass/fail every run; findings_count is the number of
+  // *publication-tier profiles still failing the bar* — i.e. the pipeline
+  // upstream of this queue. Complements (does not replace) the queue.length
+  // below, which still comes from audit-a-plus-passed stamps — see the
+  // comment above the fetch in the useEffect for why that's a known gap.
+  const aPlusCheck = harness?.checks.find((c) => c.name === "type-specific-a-plus")
+  const aPlusFailingCount = aPlusCheck?.findings_count ?? null
+
   return (
     <div className="min-h-screen bg-[var(--color-bg)] text-[var(--color-text)] p-6">
       <div className="max-w-6xl mx-auto">
@@ -98,16 +117,19 @@ export default function SignoffQueuePage() {
         </div>
 
         {/* Header */}
-        <div className="mb-6">
-          <h1 className="text-2xl font-bold mb-1">Sign-off Queue</h1>
-          <p className="text-[12px] text-[var(--color-text-dim)]">
-            Profiles that passed every automated A+ check and are waiting on your manual editorial sign-off.
-            Open each, verify the narrative reads cleanly, then sign off.
-          </p>
+        <div className="mb-6 flex items-start justify-between">
+          <div>
+            <h1 className="text-2xl font-bold mb-1">Sign-off Queue</h1>
+            <p className="text-[12px] text-[var(--color-text-dim)]">
+              Profiles that passed every automated A+ check and are waiting on your manual editorial sign-off.
+              Open each, verify the narrative reads cleanly, then sign off.
+            </p>
+          </div>
+          <HarnessChip onLoad={setHarness} />
         </div>
 
         {/* Stat cards */}
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-3 mb-6">
+        <div className="grid grid-cols-1 md:grid-cols-4 gap-3 mb-6">
           <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded p-4">
             <div className="text-[9px] uppercase tracking-wider text-[var(--color-text-dim)]">Total in queue</div>
             <div className="text-2xl font-bold mt-1 text-[var(--color-amber)]">{queue.length}</div>
@@ -128,6 +150,23 @@ export default function SignoffQueuePage() {
             <div className="text-2xl font-bold mt-1 text-[var(--color-purple)]">{sTierReady.length}</div>
             <div className="text-[9px] text-[var(--color-text-dim)] mt-0.5">
               Have angle + original-finding
+            </div>
+          </div>
+          {/* Live from harness — profiles still failing the A+ bar upstream
+              of this queue. If this drops, sign-offs dry up. */}
+          <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded p-4">
+            <div className="text-[9px] uppercase tracking-wider text-[var(--color-text-dim)]">
+              Still below A+ bar
+            </div>
+            <div className="text-2xl font-bold mt-1">
+              {aPlusFailingCount === null ? (
+                <span className="text-[var(--color-text-dim)]">—</span>
+              ) : (
+                aPlusFailingCount
+              )}
+            </div>
+            <div className="text-[9px] text-[var(--color-text-dim)] mt-0.5">
+              Live · type-specific-a-plus
             </div>
           </div>
         </div>

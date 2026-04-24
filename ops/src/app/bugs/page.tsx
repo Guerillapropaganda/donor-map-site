@@ -20,6 +20,7 @@
  */
 
 import { useState, useEffect, useMemo } from "react"
+import HarnessChip from "@/components/HarnessChip"
 
 // ─── Types matching bugs-manifest.json ─────────────────────────────
 
@@ -232,19 +233,25 @@ export default function BugsPage() {
   return (
     <div className="p-6 max-w-6xl mx-auto">
       {/* Header */}
-      <div className="mb-6">
-        <h1 className="text-3xl font-bold text-white mb-1">Bugs & Deferred Items</h1>
-        <p className="text-sm text-neutral-400">
-          Unified view of <code>bug-queue.md</code> +{" "}
-          <code>phase-6/deferred-items.md</code> · Pillar 5 foundation work
-        </p>
-        <p className="text-xs text-neutral-500 mt-1">
-          Manifest generated: {new Date(manifest.generated_at).toLocaleString()} ·
-          Regenerate:{" "}
-          <code className="text-amber-400">
-            node scripts/bug-queue-parser.cjs --write
-          </code>
-        </p>
+      <div className="mb-6 flex items-start justify-between gap-4">
+        <div>
+          <h1 className="text-3xl font-bold text-white mb-1">Bugs & Deferred Items</h1>
+          <p className="text-sm text-neutral-400">
+            Unified view of <code>bug-queue.md</code> +{" "}
+            <code>phase-6/deferred-items.md</code> · Pillar 5 foundation work
+          </p>
+          <p className="text-xs text-neutral-500 mt-1">
+            Manifest generated: {new Date(manifest.generated_at).toLocaleString()} ·
+            Regenerate:{" "}
+            <code className="text-amber-400">
+              node scripts/bug-queue-parser.cjs --write
+            </code>
+          </p>
+        </div>
+        {/* Harness chip — the bugs manifest is a separate artifact from the
+            vault-audit harness, but showing harness freshness here lets David
+            tell at a glance whether the broader ops-health backdrop is alive. */}
+        <HarnessChip />
       </div>
 
       {/* Stats */}
