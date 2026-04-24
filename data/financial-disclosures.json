@@ -1,12 +1,12 @@
 {
   "stats": {
-    "lastUpdated": "2026-04-21T01:29:53.890Z",
+    "lastUpdated": "2026-04-24T04:46:22.683Z",
     "lookbackDays": 90,
-    "senateFilings": 42,
+    "senateFilings": 40,
     "houseFilings": 119,
-    "totalFilings": 161,
-    "totalTransactions": 821,
-    "runtime": "239.5s"
+    "totalFilings": 159,
+    "totalTransactions": 808,
+    "runtime": "237.4s"
   },
   "filings": [
     {
@@ -605,36 +605,6 @@
         "date": "01/26/2026",
         "type": "PTR",
         "sourceUrl": "https://efdsearch.senate.gov/search/view/ptr/d7cae837-f73c-4eb1-b9fb-e510f53d65de/",
-        "sourceSystem": "efdsearch.senate.gov"
-      },
-      "transactions": []
-    },
-    {
-      "chamber": "Senate",
-      "filer": {
-        "firstName": "Gary C",
-        "lastName": "Peters",
-        "name": "Gary C Peters"
-      },
-      "filing": {
-        "date": "01/20/2026",
-        "type": "PTR",
-        "sourceUrl": "https://efdsearch.senate.gov/search/view/ptr/5dfd6dd1-5c2f-4398-984b-79c88380fc84/",
-        "sourceSystem": "efdsearch.senate.gov"
-      },
-      "transactions": []
-    },
-    {
-      "chamber": "Senate",
-      "filer": {
-        "firstName": "RICHARD",
-        "lastName": "BLUMENTHAL",
-        "name": "RICHARD BLUMENTHAL"
-      },
-      "filing": {
-        "date": "01/20/2026",
-        "type": "PTR",
-        "sourceUrl": "https://efdsearch.senate.gov/search/view/paper/f873aeb4-adbb-4934-a188-79416a2e4c76/",
         "sourceSystem": "efdsearch.senate.gov"
       },
       "transactions": []
@@ -7598,207 +7568,6 @@
         "district": "01"
       },
       "filing": {
-        "date": "1/23/2026",
-        "type": "PTR",
-        "docId": "20033835",
-        "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033835.pdf",
-        "sourceSystem": "disclosures-clerk.house.gov"
-      },
-      "transactions": [
-        {
-          "transactionDate": "01/13/2026",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 15001,
-            "max": 50000,
-            "text": "$15,001 -\n$50,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "01/13/2026",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 15001,
-            "max": 50000,
-            "text": "$15,001 -\n$50,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "01/06/2026",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 250001,
-            "max": 500000,
-            "text": "$250,001 -\n$500,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "01/06/2026",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 250001,
-            "max": 500000,
-            "text": "$250,001 -\n$500,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "01/13/2026",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 15001,
-            "max": 50000,
-            "text": "$15,001 -\n$50,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "01/13/2026",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 15001,
-            "max": 50000,
-            "text": "$15,001 -\n$50,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "01/13/2026",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 15001,
-            "max": 50000,
-            "text": "$15,001 -\n$50,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "01/13/2026",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 50001,
-            "max": 100000,
-            "text": "$50,001 -\n$100,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "01/13/2026",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 15001,
-            "max": 50000,
-            "text": "$15,001 -\n$50,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "01/13/2026",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 15001,
-            "max": 50000,
-            "text": "$15,001 -\n$50,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "01/13/2026",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 50001,
-            "max": 100000,
-            "text": "$50,001 -\n$100,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "01/13/2026",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 50001,
-            "max": 100000,
-            "text": "$50,001 -\n$100,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "01/13/2026",
-          "owner": "Self",
-          "ticker": null,
-          "assetDescription": "Unknown Asset",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 15001,
-            "max": 50000,
-            "text": "$15,001 -\n$50,000"
-          },
-          "comment": ""
-        }
-      ]
-    },
-    {
-      "chamber": "House",
-      "filer": {
-        "firstName": "Suzan K.",
-        "lastName": "DelBene",
-        "name": "Hon. Suzan K. DelBene",
-        "state": "WA",
-        "district": "01"
-      },
-      "filing": {
         "date": "3/12/2026",
         "type": "PTR",
         "docId": "20034155",
@@ -8207,6 +7976,24 @@
     {
       "chamber": "House",
       "filer": {
+        "firstName": "Dwight",
+        "lastName": "Evans",
+        "name": "Hon. Dwight Evans",
+        "state": "PA",
+        "district": "03"
+      },
+      "filing": {
+        "date": "4/20/2026",
+        "type": "PTR",
+        "docId": "20034379",
+        "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034379.pdf",
+        "sourceSystem": "disclosures-clerk.house.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "House",
+      "filer": {
         "firstName": "Cleo",
         "lastName": "Fields",
         "name": "Cleo Fields",
@@ -8429,6 +8216,24 @@
         "type": "PTR",
         "docId": "20034295",
         "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034295.pdf",
+        "sourceSystem": "disclosures-clerk.house.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "House",
+      "filer": {
+        "firstName": "Cleo",
+        "lastName": "Fields",
+        "name": "Cleo Fields",
+        "state": "LA",
+        "district": "06"
+      },
+      "filing": {
+        "date": "4/20/2026",
+        "type": "PTR",
+        "docId": "20034357",
+        "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034357.pdf",
         "sourceSystem": "disclosures-clerk.house.gov"
       },
       "transactions": []
@@ -9175,24 +8980,6 @@
         "district": "01"
       },
       "filing": {
-        "date": "1/22/2026",
-        "type": "PTR",
-        "docId": "20033829",
-        "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033829.pdf",
-        "sourceSystem": "disclosures-clerk.house.gov"
-      },
-      "transactions": []
-    },
-    {
-      "chamber": "House",
-      "filer": {
-        "firstName": "Kevin",
-        "lastName": "Hern",
-        "name": "Hon. Kevin Hern",
-        "state": "OK",
-        "district": "01"
-      },
-      "filing": {
         "date": "2/18/2026",
         "type": "PTR",
         "docId": "20034012",
@@ -9415,67 +9202,6 @@
             "min": 15001,
             "max": 50000,
             "text": "$15,001 - $50,000"
-          },
-          "comment": ""
-        }
-      ]
-    },
-    {
-      "chamber": "House",
-      "filer": {
-        "firstName": "James French",
-        "lastName": "Hill",
-        "name": "Hon. James French Hill",
-        "state": "AR",
-        "district": "02"
-      },
-      "filing": {
-        "date": "1/23/2026",
-        "type": "PTR",
-        "docId": "20033661",
-        "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033661.pdf",
-        "sourceSystem": "disclosures-clerk.house.gov"
-      },
-      "transactions": [
-        {
-          "transactionDate": "12/31/2025",
-          "owner": "Self",
-          "ticker": "PFE",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: HILL 1998 TRUST Pfizer, Inc. Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 100001,
-            "max": 250000,
-            "text": "$100,001 -\n$250,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/31/2025",
-          "owner": "Self",
-          "ticker": "SFL",
-          "assetDescription": "D\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000: Sale of full position for tax loss purposes. SFL Corporation Ltd",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 15001,
-            "max": 50000,
-            "text": "$15,001 -\n$50,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/31/2025",
-          "owner": "Self",
-          "ticker": "SOLV",
-          "assetDescription": "Solventum Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 15001,
-            "max": 50000,
-            "text": "$15,001 -\n$50,000"
           },
           "comment": ""
         }
@@ -10605,24 +10331,6 @@
     {
       "chamber": "House",
       "filer": {
-        "firstName": "Robert E.",
-        "lastName": "Latta",
-        "name": "Hon. Robert E. Latta",
-        "state": "OH",
-        "district": "05"
-      },
-      "filing": {
-        "date": "1/23/2026",
-        "type": "PTR",
-        "docId": "20033857",
-        "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033857.pdf",
-        "sourceSystem": "disclosures-clerk.house.gov"
-      },
-      "transactions": []
-    },
-    {
-      "chamber": "House",
-      "filer": {
         "firstName": "Julia",
         "lastName": "Letlow",
         "name": "Hon. Julia Letlow",
@@ -11540,6 +11248,24 @@
     {
       "chamber": "House",
       "filer": {
+        "firstName": "Daniel",
+        "lastName": "Meuser",
+        "name": "Hon. Daniel Meuser",
+        "state": "PA",
+        "district": "09"
+      },
+      "filing": {
+        "date": "4/21/2026",
+        "type": "PTR",
+        "docId": "20034359",
+        "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034359.pdf",
+        "sourceSystem": "disclosures-clerk.house.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "House",
+      "filer": {
         "firstName": "Max",
         "lastName": "Miller",
         "name": "Hon. Max Miller",
@@ -12363,207 +12089,6 @@
     {
       "chamber": "House",
       "filer": {
-        "firstName": "Nancy",
-        "lastName": "Pelosi",
-        "name": "Hon. Nancy Pelosi",
-        "state": "CA",
-        "district": "11"
-      },
-      "filing": {
-        "date": "1/23/2026",
-        "type": "PTR",
-        "docId": "20033725",
-        "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033725.pdf",
-        "sourceSystem": "disclosures-clerk.house.gov"
-      },
-      "transactions": [
-        {
-          "transactionDate": "01/16/2026",
-          "owner": "Self",
-          "ticker": "GOOGL",
-          "assetDescription": "SPAlphabet Inc. - Class A Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 500001,
-            "max": 1000000,
-            "text": "$500,001 -\n$1,000,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/30/2025",
-          "owner": "Self",
-          "ticker": "GOOGL",
-          "assetDescription": "SPAlphabet Inc. - Class A Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 250001,
-            "max": 500000,
-            "text": "$250,001 -\n$500,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/30/2025",
-          "owner": "Self",
-          "ticker": "GOOGL",
-          "assetDescription": "SPAlphabet Inc. - Class A Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1000001,
-            "max": 5000000,
-            "text": "$1,000,001 -\n$5,000,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/30/2025",
-          "owner": "Self",
-          "ticker": "AMZN",
-          "assetDescription": "D\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000: Contribution of 7,704 shares held personally to Donor-Advised Fund. SPAmazon.com, Inc. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 100001,
-            "max": 250000,
-            "text": "$100,001 -\n$250,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/24/2025",
-          "owner": "Self",
-          "ticker": "AMZN",
-          "assetDescription": "D\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000: Purchased 20 call options with a strike price of $120 and an expiration date of 1/15/27. SPAmazon.com, Inc. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1000001,
-            "max": 5000000,
-            "text": "$1,000,001 -\n$5,000,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/24/2025",
-          "owner": "Self",
-          "ticker": "AAPL",
-          "assetDescription": "1/16/26. SPApple Inc. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 5000001,
-            "max": 25000000,
-            "text": "$5,000,001 -\n$25,000,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/30/2025",
-          "owner": "Self",
-          "ticker": "AAPL",
-          "assetDescription": "D\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000: Sold 45,000 shares. SPApple Inc. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 250001,
-            "max": 500000,
-            "text": "$250,001 -\n$500,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/30/2025",
-          "owner": "Self",
-          "ticker": "AAPL",
-          "assetDescription": "D\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000: Purchased 20 call options with a strike price of $100 and an expiration date of 1/15/27. SPApple Inc. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 5000001,
-            "max": 25000000,
-            "text": "$5,000,001 -\n$25,000,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/30/2025",
-          "owner": "Self",
-          "ticker": "NVDA",
-          "assetDescription": "D\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000: Contribution of 28,200 shares to Donor-Advised Fund. SPNVIDIA Corporation - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 100001,
-            "max": 250000,
-            "text": "$100,001 -\n$250,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/24/2025",
-          "owner": "Self",
-          "ticker": "NVDA",
-          "assetDescription": "D\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000: Purchased 20 call options with a strike price of $100 and an expiration date of 1/15/27. SPNVIDIA Corporation - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1000001,
-            "max": 5000000,
-            "text": "$1,000,001 -\n$5,000,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "01/16/2026",
-          "owner": "Self",
-          "ticker": "NVDA",
-          "assetDescription": "D\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000: Sold 20,000 shares. SPNVIDIA Corporation - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 250001,
-            "max": 500000,
-            "text": "$250,001 -\n$500,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/30/2025",
-          "owner": "Self",
-          "ticker": "PYPL",
-          "assetDescription": "SPPayPal Holdings, Inc. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 250001,
-            "max": 500000,
-            "text": "$250,001 -\n$500,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/30/2025",
-          "owner": "Self",
-          "ticker": "DIS",
-          "assetDescription": "1/16/26. SPWalt Disney Company",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1000001,
-            "max": 5000000,
-            "text": "$1,000,001 -\n$5,000,000"
-          },
-          "comment": ""
-        }
-      ]
-    },
-    {
-      "chamber": "House",
-      "filer": {
         "firstName": "Scott H.",
         "lastName": "Peters",
         "name": "Hon. Scott H. Peters",
@@ -12848,6 +12373,351 @@
     {
       "chamber": "House",
       "filer": {
+        "firstName": "Harold Dallas",
+        "lastName": "Rogers",
+        "name": "Hon. Harold Dallas Rogers",
+        "state": "KY",
+        "district": "05"
+      },
+      "filing": {
+        "date": "4/21/2026",
+        "type": "PTR",
+        "docId": "9115762",
+        "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115762.pdf",
+        "sourceSystem": "disclosures-clerk.house.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "House",
+      "filer": {
+        "firstName": "Maria Elvira",
+        "lastName": "Salazar",
+        "name": "Hon. Maria Elvira Salazar",
+        "state": "FL",
+        "district": "27"
+      },
+      "filing": {
+        "date": "4/21/2026",
+        "type": "PTR",
+        "docId": "20033993",
+        "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033993.pdf",
+        "sourceSystem": "disclosures-clerk.house.gov"
+      },
+      "transactions": [
+        {
+          "transactionDate": "03/19/2026",
+          "owner": "Self",
+          "ticker": "BA",
+          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: UBS IRA Account Boeing Company",
+          "assetType": "Stock",
+          "transactionType": "Purchase",
+          "amount": {
+            "min": 15001,
+            "max": 50000,
+            "text": "$15,001 -\n$50,000"
+          },
+          "comment": ""
+        },
+        {
+          "transactionDate": "03/19/2026",
+          "owner": "Self",
+          "ticker": "BA",
+          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: UBS Brokerage Account Boeing Company",
+          "assetType": "Stock",
+          "transactionType": "Purchase",
+          "amount": {
+            "min": 1001,
+            "max": 15000,
+            "text": "$1,001 - $15,000"
+          },
+          "comment": ""
+        },
+        {
+          "transactionDate": "03/19/2026",
+          "owner": "Self",
+          "ticker": "CSCO",
+          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: UBS IRA Account Cisco Systems, Inc. - Common Stock",
+          "assetType": "Stock",
+          "transactionType": "Purchase",
+          "amount": {
+            "min": 1001,
+            "max": 15000,
+            "text": "$1,001 - $15,000"
+          },
+          "comment": ""
+        },
+        {
+          "transactionDate": "03/19/2026",
+          "owner": "Self",
+          "ticker": "CSCO",
+          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: UBS IRA Account Cisco Systems, Inc. - Common Stock",
+          "assetType": "Stock",
+          "transactionType": "Purchase",
+          "amount": {
+            "min": 15001,
+            "max": 50000,
+            "text": "$15,001 -\n$50,000"
+          },
+          "comment": ""
+        },
+        {
+          "transactionDate": "03/19/2026",
+          "owner": "Self",
+          "ticker": "C",
+          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: UBS Brokerage Account Citigroup, Inc. Common Stock",
+          "assetType": "Stock",
+          "transactionType": "Purchase",
+          "amount": {
+            "min": 15001,
+            "max": 50000,
+            "text": "$15,001 -\n$50,000"
+          },
+          "comment": ""
+        },
+        {
+          "transactionDate": "03/19/2026",
+          "owner": "Self",
+          "ticker": "GLW",
+          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: UBS IRA Account Corning Incorporated Common Stock",
+          "assetType": "Stock",
+          "transactionType": "Purchase",
+          "amount": {
+            "min": 15001,
+            "max": 50000,
+            "text": "$15,001 -\n$50,000"
+          },
+          "comment": ""
+        },
+        {
+          "transactionDate": "03/19/2026",
+          "owner": "Self",
+          "ticker": "GLW",
+          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: UBS IRA Account Corning Incorporated Common Stock",
+          "assetType": "Stock",
+          "transactionType": "Purchase",
+          "amount": {
+            "min": 15001,
+            "max": 50000,
+            "text": "$15,001 -\n$50,000"
+          },
+          "comment": ""
+        },
+        {
+          "transactionDate": "03/19/2026",
+          "owner": "Self",
+          "ticker": "FDX",
+          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: UBS Brokerage Account FedEx Corporation Common Stock",
+          "assetType": "Stock",
+          "transactionType": "Purchase",
+          "amount": {
+            "min": 15001,
+            "max": 50000,
+            "text": "$15,001 -\n$50,000"
+          },
+          "comment": ""
+        },
+        {
+          "transactionDate": "03/25/2026",
+          "owner": "Self",
+          "ticker": "FDX",
+          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: UBS Brokerage Account FedEx Corporation Common Stock",
+          "assetType": "Stock",
+          "transactionType": "Purchase",
+          "amount": {
+            "min": 1001,
+            "max": 15000,
+            "text": "$1,001 - $15,000"
+          },
+          "comment": ""
+        },
+        {
+          "transactionDate": "03/24/2026",
+          "owner": "Self",
+          "ticker": "GE",
+          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: UBS IRA Account GE Aerospace Common Stock",
+          "assetType": "Stock",
+          "transactionType": "Purchase",
+          "amount": {
+            "min": 1001,
+            "max": 15000,
+            "text": "$1,001 - $15,000"
+          },
+          "comment": ""
+        },
+        {
+          "transactionDate": "03/19/2026",
+          "owner": "Self",
+          "ticker": "GS",
+          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: UBS IRA Account Goldman Sachs Group, Inc.",
+          "assetType": "Stock",
+          "transactionType": "Purchase",
+          "amount": {
+            "min": 15001,
+            "max": 50000,
+            "text": "$15,001 -\n$50,000"
+          },
+          "comment": ""
+        },
+        {
+          "transactionDate": "03/19/2026",
+          "owner": "Self",
+          "ticker": "GS",
+          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: UBS Brokerage Account Goldman Sachs Group, Inc.",
+          "assetType": "Stock",
+          "transactionType": "Purchase",
+          "amount": {
+            "min": 15001,
+            "max": 50000,
+            "text": "$15,001 -\n$50,000"
+          },
+          "comment": ""
+        },
+        {
+          "transactionDate": "03/24/2026",
+          "owner": "Self",
+          "ticker": "HON",
+          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: UBS IRA Account Honeywell International Inc.",
+          "assetType": "Stock",
+          "transactionType": "Purchase",
+          "amount": {
+            "min": 15001,
+            "max": 50000,
+            "text": "$15,001 -\n$50,000"
+          },
+          "comment": ""
+        },
+        {
+          "transactionDate": "03/19/2026",
+          "owner": "Self",
+          "ticker": "PTON",
+          "assetDescription": "Peloton Interactive, Inc. - Common Stock",
+          "assetType": "Stock",
+          "transactionType": "Purchase",
+          "amount": {
+            "min": 1001,
+            "max": 15000,
+            "text": "$1,001 - $15,000"
+          },
+          "comment": ""
+        },
+        {
+          "transactionDate": "03/19/2026",
+          "owner": "Self",
+          "ticker": "PTON",
+          "assetDescription": "Peloton Interactive, Inc. - Common Stock",
+          "assetType": "Stock",
+          "transactionType": "Purchase",
+          "amount": {
+            "min": 1001,
+            "max": 15000,
+            "text": "$1,001 - $15,000"
+          },
+          "comment": ""
+        },
+        {
+          "transactionDate": "03/19/2026",
+          "owner": "Self",
+          "ticker": "RH",
+          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: UBS IRA Account RH Common Stock",
+          "assetType": "Stock",
+          "transactionType": "Purchase",
+          "amount": {
+            "min": 15001,
+            "max": 50000,
+            "text": "$15,001 -\n$50,000"
+          },
+          "comment": ""
+        },
+        {
+          "transactionDate": "03/19/2026",
+          "owner": "Self",
+          "ticker": "RH",
+          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: UBS IRA Account RH Common Stock",
+          "assetType": "Stock",
+          "transactionType": "Purchase",
+          "amount": {
+            "min": 15001,
+            "max": 50000,
+            "text": "$15,001 -\n$50,000"
+          },
+          "comment": ""
+        },
+        {
+          "transactionDate": "03/19/2026",
+          "owner": "Self",
+          "ticker": "ULTA",
+          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: UBS Brokerage Account Ulta Beauty, Inc. - Common Stock",
+          "assetType": "Stock",
+          "transactionType": "Purchase",
+          "amount": {
+            "min": 15001,
+            "max": 50000,
+            "text": "$15,001 -\n$50,000"
+          },
+          "comment": ""
+        },
+        {
+          "transactionDate": "03/25/2026",
+          "owner": "Self",
+          "ticker": "URI",
+          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: UBS Brokerage Account United Rentals, Inc. Common Stock",
+          "assetType": "Stock",
+          "transactionType": "Purchase",
+          "amount": {
+            "min": 1001,
+            "max": 15000,
+            "text": "$1,001 - $15,000"
+          },
+          "comment": ""
+        },
+        {
+          "transactionDate": "03/19/2026",
+          "owner": "Self",
+          "ticker": "VG",
+          "assetDescription": "Venture Global, Inc. Class A common stock",
+          "assetType": "Stock",
+          "transactionType": "Purchase",
+          "amount": {
+            "min": 1001,
+            "max": 15000,
+            "text": "$1,001 - $15,000"
+          },
+          "comment": ""
+        },
+        {
+          "transactionDate": "03/19/2026",
+          "owner": "Self",
+          "ticker": "WHR",
+          "assetDescription": "Whirlpool Corporation Common Stock",
+          "assetType": "Stock",
+          "transactionType": "Purchase",
+          "amount": {
+            "min": 15001,
+            "max": 50000,
+            "text": "$15,001 -\n$50,000"
+          },
+          "comment": ""
+        },
+        {
+          "transactionDate": "03/19/2026",
+          "owner": "Self",
+          "ticker": null,
+          "assetDescription": "Unknown Asset",
+          "assetType": "Stock",
+          "transactionType": "Unknown",
+          "amount": {
+            "min": 1001,
+            "max": 15000,
+            "text": "$1,001 - $15,000"
+          },
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "chamber": "House",
+      "filer": {
         "firstName": "Austin",
         "lastName": "Scott",
         "name": "Hon. Austin Scott",
@@ -12895,6 +12765,39 @@
         "sourceSystem": "disclosures-clerk.house.gov"
       },
       "transactions": []
+    },
+    {
+      "chamber": "House",
+      "filer": {
+        "firstName": "Terri A.",
+        "lastName": "Sewell",
+        "name": "Hon. Terri A. Sewell",
+        "state": "AL",
+        "district": "07"
+      },
+      "filing": {
+        "date": "4/21/2026",
+        "type": "PTR",
+        "docId": "20034384",
+        "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034384.pdf",
+        "sourceSystem": "disclosures-clerk.house.gov"
+      },
+      "transactions": [
+        {
+          "transactionDate": "03/25/2026",
+          "owner": "Self",
+          "ticker": "TPR",
+          "assetDescription": "F\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New Tapestry, Inc. Common Stock",
+          "assetType": "Stock",
+          "transactionType": "Sale",
+          "amount": {
+            "min": 15001,
+            "max": 50000,
+            "text": "$15,001 -\n$50,000"
+          },
+          "comment": ""
+        }
+      ]
     },
     {
       "chamber": "House",
@@ -13088,123 +12991,6 @@
             "min": 15001,
             "max": 50000,
             "text": "$15,001 -\n$50,000"
-          },
-          "comment": ""
-        }
-      ]
-    },
-    {
-      "chamber": "House",
-      "filer": {
-        "firstName": "David J.",
-        "lastName": "Taylor",
-        "name": "Hon. David J. Taylor",
-        "state": "OH",
-        "district": "02"
-      },
-      "filing": {
-        "date": "1/21/2026",
-        "type": "PTR",
-        "docId": "20033845",
-        "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033845.pdf",
-        "sourceSystem": "disclosures-clerk.house.gov"
-      },
-      "transactions": [
-        {
-          "transactionDate": "01/08/2026",
-          "owner": "Self",
-          "ticker": "AVGO",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave Broadcom Inc. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "01/08/2026",
-          "owner": "Self",
-          "ticker": "IBM",
-          "assetDescription": "International Business Machines Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "01/08/2026",
-          "owner": "Self",
-          "ticker": "IBM",
-          "assetDescription": "International Business Machines Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 15001,
-            "max": 50000,
-            "text": "$15,001 -\n$50,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "01/08/2026",
-          "owner": "Self",
-          "ticker": "LRCX",
-          "assetDescription": "Lam Research Corporation - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 15001,
-            "max": 50000,
-            "text": "$15,001 -\n$50,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "01/08/2026",
-          "owner": "Self",
-          "ticker": "LRCX",
-          "assetDescription": "Lam Research Corporation - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 15001,
-            "max": 50000,
-            "text": "$15,001 -\n$50,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "01/08/2026",
-          "owner": "Self",
-          "ticker": "MSFT",
-          "assetDescription": "Microsoft Corporation - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "01/09/2026",
-          "owner": "Self",
-          "ticker": "PG",
-          "assetDescription": "S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave Procter & Gamble Company",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 1001,
-            "max": 15000,
-            "text": "$1,001 - $15,000"
           },
           "comment": ""
         }

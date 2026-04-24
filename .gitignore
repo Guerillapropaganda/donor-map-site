@@ -50,3 +50,11 @@ quartz/static/profile-index.json
 # not a source of truth. Future sessions run `node scripts/vault-audit.cjs`
 # to refresh.
 content/Admin Notes/vault-audit-latest.json
+
+# Dedup script backups — transient snapshots written by dedup-donor-name-variants
+# and related scripts. Can be 1.7GB+ (FEC individual data). Not reproducible
+# cheaply but not tracked either — they're throwaway safety copies.
+data/derived/*.bak
+data/derived/*.dedupd-state
+data/*.bak
+data/*.dedupd-state

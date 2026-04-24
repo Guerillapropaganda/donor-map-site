@@ -92,6 +92,21 @@ const PRODUCERS = [
     script: 'scripts/narrative-drift-detector.cjs',
     timeout_ms: 120_000,
   },
+  // Story-candidate scorer — hunts for investigative-lead patterns
+  // (suspicious timing, cross-party big donors, dark-money network
+  // opposition) via the query engine, scores them, writes top 20 to
+  // the queue. Wired up 2026-04-23 after the /attention audit found
+  // it orphaned — script existed + was queue-writing-capable but
+  // was never added to the dispatcher, so its entries went stale
+  // after a single manual run.
+  // Schedule: every 4 hours at :47 (staggered against :17 and :37).
+  {
+    name: 'story-candidate-scorer',
+    schedule: '47 */4 * * *',
+    script: 'scripts/story-candidate-scorer.cjs',
+    args: ['--write'],
+    timeout_ms: 120_000,
+  },
   // Phase 3 Part 4b: bidirectional normalizer + per-profile artifact rebuild.
   // Runs weekly on Sundays at :23 (low frequency — new asymmetries only
   // appear when Research Claude adds one-way related: links). Chains two

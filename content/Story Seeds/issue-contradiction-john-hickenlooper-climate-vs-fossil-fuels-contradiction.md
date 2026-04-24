@@ -3,14 +3,14 @@ title: "John Hickenlooper: climate vs. fossil fuels contradiction"
 type: story-seed
 seed-type: issue-contradiction
 confidence: 3
-last-updated: '2026-04-21'
+last-updated: '2026-04-24'
 auto-generated: true
 status: unclaimed
 ---
 
 # John Hickenlooper: climate vs. fossil fuels contradiction
 
-_Confidence: ★★★☆☆ · Surfaced by contradiction-miner on 2026-04-21_
+_Confidence: ★★★☆☆ · Surfaced by contradiction-miner on 2026-04-24_
 
 ## The angle
 

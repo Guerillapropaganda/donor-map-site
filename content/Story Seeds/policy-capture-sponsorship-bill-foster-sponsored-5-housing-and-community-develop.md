@@ -3,14 +3,14 @@ title: "Bill Foster sponsored 5 'Housing and Community Development' bills; top d
 type: story-seed
 seed-type: policy-capture-sponsorship
 confidence: 3
-last-updated: '2026-04-21'
+last-updated: '2026-04-24'
 auto-generated: true
 status: unclaimed
 ---
 
 # Bill Foster sponsored 5 "Housing and Community Development" bills; top donors include 1 from matching sector
 
-_Confidence: ★★★☆☆ · Surfaced by contradiction-miner on 2026-04-21_
+_Confidence: ★★★☆☆ · Surfaced by contradiction-miner on 2026-04-24_
 
 ## The angle
 

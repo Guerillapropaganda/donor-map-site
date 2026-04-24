@@ -1,0 +1,56 @@
+[Tue 04/21/2026  3:00:01.87] Starting backup... 
+--- pre-push gate ---
+  -> tsc --noEmit (quartz only, ops excluded)
+  ✓ 0 TypeScript errors
+remote: warning: See https://gh.io/lfs for more information.        
+remote: warning: File data/relationships.jsonl is 91.54 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File data/relationships.jsonl is 88.15 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File data/bills.jsonl is 72.44 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File data/relationships.jsonl is 91.84 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File data/legislator-positions/118.jsonl is 51.05 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File data/legislator-positions/114.jsonl is 52.44 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File data/legislator-positions/111.jsonl is 66.16 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File data/relationships.jsonl is 91.43 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File data/legislator-positions.jsonl is 74.82 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File data/derived/fec-indiv-by-committee.jsonl is 63.27 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File data/legislator-positions.jsonl is 87.00 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File data/legislator-positions/108.jsonl is 50.30 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File data/legislator-positions/112.jsonl is 62.50 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File data/legislator-positions/110.jsonl is 73.93 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/Guerillapropaganda/donor-map-vault.git
+   047c7c88c..0d333258d  v4 -> v4
+--- pre-push gate ---
+  -> tsc --noEmit (quartz only, ops excluded)
+  ✓ 0 TypeScript errors
+To https://github.com/Guerillapropaganda/donor-map-vault.git
+ * [new tag]             backup/2026-04-21 -> backup/2026-04-21
+[Tue 04/21/2026  3:01:08.84] Backup complete. Tag: backup/2026-04-21 
+[Wed 04/22/2026  3:00:02.02] Starting backup... 
+--- pre-push gate ---
+  -> tsc --noEmit (quartz only, ops excluded)
+  ✓ 0 TypeScript errors
+remote: warning: See https://gh.io/lfs for more information.        
+remote: warning: File data/derived/fec-indiv-by-committee.jsonl is 63.15 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File data/derived/fec-indiv-by-committee.jsonl is 63.15 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/Guerillapropaganda/donor-map-vault.git
+   0d333258d..b893cb5d4  v4 -> v4
+--- pre-push gate ---
+  -> tsc --noEmit (quartz only, ops excluded)
+  ✓ 0 TypeScript errors
+To https://github.com/Guerillapropaganda/donor-map-vault.git
+ * [new tag]             backup/2026-04-22 -> backup/2026-04-22
+[Wed 04/22/2026  3:00:35.26] Backup complete. Tag: backup/2026-04-22 
+[Thu 04/23/2026  3:00:02.22] Starting backup... 
+--- pre-push gate ---
+  -> tsc --noEmit (quartz only, ops excluded)
+  ✓ 0 TypeScript errors
+To https://github.com/Guerillapropaganda/donor-map-vault.git
+   b893cb5d4..318a2d88c  v4 -> v4
+--- pre-push gate ---
+  -> tsc --noEmit (quartz only, ops excluded)
+  ✓ 0 TypeScript errors
+To https://github.com/Guerillapropaganda/donor-map-vault.git
+ * [new tag]             backup/2026-04-23 -> backup/2026-04-23
+[Thu 04/23/2026  3:00:25.91] Backup complete. Tag: backup/2026-04-23 

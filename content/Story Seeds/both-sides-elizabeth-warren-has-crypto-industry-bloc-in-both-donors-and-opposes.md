@@ -3,14 +3,14 @@ title: "Elizabeth Warren has Crypto Industry Bloc in both donors and opposes"
 type: story-seed
 seed-type: both-sides
 confidence: 5
-last-updated: '2026-04-21'
+last-updated: '2026-04-24'
 auto-generated: true
 status: unclaimed
 ---
 
 # Elizabeth Warren has Crypto Industry Bloc in both donors and opposes
 
-_Confidence: ★★★★★ · Surfaced by contradiction-miner on 2026-04-21_
+_Confidence: ★★★★★ · Surfaced by contradiction-miner on 2026-04-24_
 
 ## The angle
 

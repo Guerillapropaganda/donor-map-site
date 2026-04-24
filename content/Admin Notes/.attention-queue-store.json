@@ -8,23 +8,9 @@
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "claimCount": 52,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "AIPAC - American Israel Public Affairs Committee: 35 unsupported claims",
-      "why": "Ready profile has \"$126.9 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Donors & Power Networks/Israel Lobby/AIPAC - American Israel Public Affairs Committee.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-21",
-      "metadata": {
-        "claimCount": 35,
         "readiness": "ready"
       }
     },
@@ -36,7 +22,7 @@
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "claimCount": 30,
         "readiness": "ready"
@@ -50,23 +36,9 @@
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "claimCount": 26,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "GEO Group - Private Prison Industrial Complex: 24 unsupported claims",
-      "why": "Ready profile has \"70% of\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Donors & Power Networks/Carceral State/GEO Group.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-21",
-      "metadata": {
-        "claimCount": 24,
         "readiness": "ready"
       }
     },
@@ -78,7 +50,7 @@
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "claimCount": 24,
         "readiness": "ready"
@@ -92,9 +64,37 @@
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "claimCount": 23,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "United Democracy Project - UDP: 21 unsupported claims",
+      "why": "Ready profile has \"$87.2 million\" in the Who They Are section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Donors & Power Networks/Super PACs/United Democracy Project - UDP.md",
+      "cost_min": 15,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-24",
+      "metadata": {
+        "claimCount": 21,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Fanjul Family - Florida Crystals: 20 unsupported claims",
+      "why": "Ready profile has \"12.7% of\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Donors & Power Networks/Agriculture/Fanjul Family - Florida Crystals.md",
+      "cost_min": 15,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-24",
+      "metadata": {
+        "claimCount": 20,
         "readiness": "ready"
       }
     },
@@ -106,7 +106,7 @@
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "claimCount": 20,
         "readiness": "ready"
@@ -120,7 +120,7 @@
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "claimCount": 20,
         "readiness": "ready"
@@ -134,7 +134,7 @@
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "claimCount": 20,
         "readiness": "ready"
@@ -148,9 +148,23 @@
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "claimCount": 19,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Democratic Small Dollar Networks: 18 unsupported claims",
+      "why": "Ready profile has \"50% of\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Donors & Power Networks/Dark Money/Democratic Small Dollar Networks.md",
+      "cost_min": 15,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-24",
+      "metadata": {
+        "claimCount": 18,
         "readiness": "ready"
       }
     },
@@ -162,7 +176,21 @@
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
+      "metadata": {
+        "claimCount": 18,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "SKDK (SKDKnickerbocker): 18 unsupported claims",
+      "why": "Ready profile has \"$113.8 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Lobbying Firms & K Street/SKDK.md",
+      "cost_min": 15,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-24",
       "metadata": {
         "claimCount": 18,
         "readiness": "ready"
@@ -176,7 +204,7 @@
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "claimCount": 17,
         "readiness": "ready"
@@ -190,7 +218,7 @@
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "claimCount": 17,
         "readiness": "ready"
@@ -204,7 +232,7 @@
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "claimCount": 17,
         "readiness": "ready"
@@ -218,9 +246,23 @@
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "claimCount": 17,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "ALEC - American Legislative Exchange Council: 16 unsupported claims",
+      "why": "Ready profile has \"1% of\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Donors & Power Networks/Dark Money/ALEC - American Legislative Exchange Council.md",
+      "cost_min": 15,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-24",
+      "metadata": {
+        "claimCount": 16,
         "readiness": "ready"
       }
     },
@@ -232,7 +274,7 @@
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "claimCount": 16,
         "readiness": "ready"
@@ -246,21 +288,7 @@
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-21",
-      "metadata": {
-        "claimCount": 16,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Anthem - Elevance Health: 16 unsupported claims",
-      "why": "Ready profile has \"$20.5 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Donors & Power Networks/Healthcare/Anthem - Elevance Health.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "claimCount": 16,
         "readiness": "ready"
@@ -274,7 +302,7 @@
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "claimCount": 16,
         "readiness": "ready"
@@ -288,7 +316,21 @@
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
+      "metadata": {
+        "claimCount": 16,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Crypto Industry Bloc: 16 unsupported claims",
+      "why": "Ready profile has \"$195 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Donors & Power Networks/Tech & Crypto/Crypto Industry Bloc.md",
+      "cost_min": 15,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-24",
       "metadata": {
         "claimCount": 16,
         "readiness": "ready"
@@ -302,56 +344,30 @@
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "claimCount": 16,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Chevron: 14 unsupported claims",
-      "why": "Ready profile has \"$90 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Donors & Power Networks/Energy & Utilities/Chevron.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-21",
-      "metadata": {
-        "claimCount": 14,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "2026 House Money Map: 14 unsupported claims",
-      "why": "Ready profile has \"$78 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Stories/Published/2026 House Races/2026 House Money Map.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-21",
-      "metadata": {
-        "claimCount": 14,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Brookings Institution: 14 unsupported claims",
-      "why": "Ready profile has \"64.5% of\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Think Tanks & Policy Infrastructure/Centrist/Brookings Institution.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-21",
-      "metadata": {
-        "claimCount": 14,
         "readiness": "ready"
       }
     }
   ],
   "voice-drift-detector": [
+    {
+      "bucket": "blocking",
+      "what": "Council for National Policy: voice rule violations",
+      "why": "Ready profile contains 1 em dash in body, low specific-number density 0.0/100 words (target ~0.7). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Donors & Power Networks/Dark Money/Council for National Policy.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-24",
+      "metadata": {
+        "hardFails": [
+          "1 em dash in body"
+        ],
+        "drift": 1
+      }
+    },
     {
       "bucket": "blocking",
       "what": "Gun Owners of America: voice rule violations",
@@ -360,7 +376,7 @@
       "cost_min": 3,
       "leverage": 5,
       "source": "voice-drift-detector",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "hardFails": [
           "1 em dash in body"
@@ -376,7 +392,23 @@
       "cost_min": 3,
       "leverage": 5,
       "source": "voice-drift-detector",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
+      "metadata": {
+        "hardFails": [
+          "1 em dash in body"
+        ],
+        "drift": 1
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "Affordable Chicago Now PAC: voice rule violations",
+      "why": "Ready profile contains 1 em dash in body, avg sentence length 42 words (target ~20). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Donors & Power Networks/Super PACs/Affordable Chicago Now PAC.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-24",
       "metadata": {
         "hardFails": [
           "1 em dash in body"
@@ -392,7 +424,7 @@
       "cost_min": 3,
       "leverage": 5,
       "source": "voice-drift-detector",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "hardFails": [
           "5 em dashes in body"
@@ -408,10 +440,26 @@
       "cost_min": 3,
       "leverage": 5,
       "source": "voice-drift-detector",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "hardFails": [
           "8 em dashes in body"
+        ],
+        "drift": 1
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "Greg Casar Master Profile: voice rule violations",
+      "why": "Ready profile contains 3 em dashes in body, low specific-number density 0.0/100 words (target ~0.7). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Politicians/Democrats/House/Greg Casar/_Greg Casar Master Profile.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-24",
+      "metadata": {
+        "hardFails": [
+          "3 em dashes in body"
         ],
         "drift": 1
       }
@@ -424,26 +472,10 @@
       "cost_min": 3,
       "leverage": 5,
       "source": "voice-drift-detector",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "hardFails": [
           "13 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Alex Padilla: voice rule violations",
-      "why": "Ready profile contains 16 em dashes in body, low specific-number density 0.0/100 words (target ~0.7). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Politicians/Democrats/Senate/Alex Padilla/_Alex Padilla Master Profile.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "hardFails": [
-          "16 em dashes in body"
         ],
         "drift": 1
       }
@@ -456,28 +488,12 @@
       "cost_min": 3,
       "leverage": 5,
       "source": "voice-drift-detector",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "hardFails": [
           "4 em dashes in body"
         ],
         "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "California Farm Bureau Federation: voice rule violations",
-      "why": "Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Agriculture/California Farm Bureau Federation.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "hardFails": [
-          "1 em dash in body"
-        ],
-        "drift": 0
       }
     },
     {
@@ -488,10 +504,26 @@
       "cost_min": 3,
       "leverage": 5,
       "source": "voice-drift-detector",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "hardFails": [
           "1 em dash in body"
+        ],
+        "drift": 0
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "Fanjul Family - Florida Crystals: voice rule violations",
+      "why": "Ready profile contains 74 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Donors & Power Networks/Agriculture/Fanjul Family - Florida Crystals.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-24",
+      "metadata": {
+        "hardFails": [
+          "74 em dashes in body"
         ],
         "drift": 0
       }
@@ -504,26 +536,10 @@
       "cost_min": 3,
       "leverage": 5,
       "source": "voice-drift-detector",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "hardFails": [
           "1 em dash in body"
-        ],
-        "drift": 0
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "National Cattlemen's Beef Association: voice rule violations",
-      "why": "Ready profile contains 4 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Agriculture/National Cattlemen's Beef Association.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "hardFails": [
-          "4 em dashes in body"
         ],
         "drift": 0
       }
@@ -536,7 +552,7 @@
       "cost_min": 3,
       "leverage": 5,
       "source": "voice-drift-detector",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "hardFails": [
           "1 em dash in body"
@@ -552,7 +568,7 @@
       "cost_min": 3,
       "leverage": 5,
       "source": "voice-drift-detector",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "hardFails": [
           "30 em dashes in body"
@@ -568,10 +584,42 @@
       "cost_min": 3,
       "leverage": 5,
       "source": "voice-drift-detector",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "hardFails": [
           "19 em dashes in body"
+        ],
+        "drift": 0
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "CoreCivic: voice rule violations",
+      "why": "Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Donors & Power Networks/Carceral State/CoreCivic.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-24",
+      "metadata": {
+        "hardFails": [
+          "1 em dash in body"
+        ],
+        "drift": 0
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "ActBlue: voice rule violations",
+      "why": "Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Donors & Power Networks/Dark Money/ActBlue.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-24",
+      "metadata": {
+        "hardFails": [
+          "1 em dash in body"
         ],
         "drift": 0
       }
@@ -584,7 +632,7 @@
       "cost_min": 3,
       "leverage": 5,
       "source": "voice-drift-detector",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "hardFails": [
           "2 em dashes in body"
@@ -600,7 +648,7 @@
       "cost_min": 3,
       "leverage": 5,
       "source": "voice-drift-detector",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "hardFails": [
           "1 em dash in body"
@@ -616,7 +664,7 @@
       "cost_min": 3,
       "leverage": 5,
       "source": "voice-drift-detector",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "hardFails": [
           "2 em dashes in body"
@@ -632,7 +680,7 @@
       "cost_min": 3,
       "leverage": 5,
       "source": "voice-drift-detector",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "hardFails": [
           "1 em dash in body"
@@ -648,10 +696,26 @@
       "cost_min": 3,
       "leverage": 5,
       "source": "voice-drift-detector",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "hardFails": [
           "1 em dash in body"
+        ],
+        "drift": 0
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "Federalist Society: voice rule violations",
+      "why": "Ready profile contains 15 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Donors & Power Networks/Dark Money/Federalist Society.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-24",
+      "metadata": {
+        "hardFails": [
+          "15 em dashes in body"
         ],
         "drift": 0
       }
@@ -664,10 +728,26 @@
       "cost_min": 3,
       "leverage": 5,
       "source": "voice-drift-detector",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "hardFails": [
           "1 em dash in body"
+        ],
+        "drift": 0
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "Small Dollar Donors - ActBlue: voice rule violations",
+      "why": "Ready profile contains 17 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Donors & Power Networks/Dark Money/Small Dollar Donors - ActBlue.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-24",
+      "metadata": {
+        "hardFails": [
+          "17 em dashes in body"
         ],
         "drift": 0
       }
@@ -680,10 +760,26 @@
       "cost_min": 3,
       "leverage": 5,
       "source": "voice-drift-detector",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "hardFails": [
           "23 em dashes in body"
+        ],
+        "drift": 0
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "Boeing Defense: voice rule violations",
+      "why": "Ready profile contains 26 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Donors & Power Networks/Defense & Intelligence/Boeing Defense.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-24",
+      "metadata": {
+        "hardFails": [
+          "26 em dashes in body"
         ],
         "drift": 0
       }
@@ -696,7 +792,7 @@
       "cost_min": 3,
       "leverage": 5,
       "source": "voice-drift-detector",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "hardFails": [
           "2 em dashes in body"
@@ -712,7 +808,7 @@
       "cost_min": 3,
       "leverage": 5,
       "source": "voice-drift-detector",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "hardFails": [
           "1 em dash in body"
@@ -728,106 +824,10 @@
       "cost_min": 3,
       "leverage": 5,
       "source": "voice-drift-detector",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "hardFails": [
           "1 em dash in body"
-        ],
-        "drift": 0
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Anthem - Elevance Health: voice rule violations",
-      "why": "Ready profile contains 13 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Healthcare/Anthem - Elevance Health.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "hardFails": [
-          "13 em dashes in body"
-        ],
-        "drift": 0
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Comcast - NBCUniversal: voice rule violations",
-      "why": "Ready profile contains 15 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Media & Entertainment/Comcast - NBCUniversal.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "hardFails": [
-          "15 em dashes in body"
-        ],
-        "drift": 0
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Jeffrey Katzenberg: voice rule violations",
-      "why": "Ready profile contains 7 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Mega-Donors/Jeffrey Katzenberg.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "hardFails": [
-          "7 em dashes in body"
-        ],
-        "drift": 0
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Narya Capital: voice rule violations",
-      "why": "Ready profile contains 19 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Mega-Donors/Narya Capital.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "hardFails": [
-          "19 em dashes in body"
-        ],
-        "drift": 0
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Timothy Mellon: voice rule violations",
-      "why": "Ready profile contains 2 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Mega-Donors/Timothy Mellon.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "hardFails": [
-          "2 em dashes in body"
-        ],
-        "drift": 0
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Meatpacking Corporations: voice rule violations",
-      "why": "Ready profile contains 29 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Pharma & Healthcare/Meatpacking Corporations.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-21",
-      "metadata": {
-        "hardFails": [
-          "29 em dashes in body"
         ],
         "drift": 0
       }
@@ -842,7 +842,7 @@
       "cost_min": 25,
       "leverage": 5,
       "source": "contradiction-miner",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "type": "both-sides",
         "confidence": 5
@@ -856,7 +856,7 @@
       "cost_min": 25,
       "leverage": 4,
       "source": "contradiction-miner",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "type": "cross-party",
         "confidence": 4
@@ -864,13 +864,13 @@
     },
     {
       "bucket": "deciding",
-      "what": "Raytheon (RTX Corporation) funds 14 Armed Services committee members",
-      "why": "Raytheon (RTX Corporation) shows up in the donor lists of 14 different Armed Services committee members: Adam Smith, Adam Smith, Adam Smith, Jack Reed, Jeanne Shaheen and 9 more. That's coordinated capture of an entire regulatory body. Pull FEC totals per member, cross-reference committee votes on bills affecting Raytheon (RTX Corporation)'s sector",
-      "where": "content/Story Seeds/committee-capture-raytheon-rtx-corporation-funds-14-armed-services-committee-mem.md",
+      "what": "Amgen Inc funds 23 Agriculture/HELP committee members",
+      "why": "Amgen Inc shows up in the donor lists of 23 different Agriculture/HELP committee members: Adam Gray, Andrea Salinas, Debbie Wasserman Schultz, Gabe Vasquez, Kristen McDonald Rivet and 18 more. That's coordinated capture of an entire regulatory body. Pull FEC totals per member, cross-reference committee votes on bills affecting Amgen Inc's sector, a",
+      "where": "content/Story Seeds/committee-capture-amgen-inc-funds-23-agriculture-help-committee-members.md",
       "cost_min": 25,
       "leverage": 4,
       "source": "contradiction-miner",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "type": "committee-capture",
         "confidence": 4
@@ -884,7 +884,7 @@
       "cost_min": 25,
       "leverage": 3,
       "source": "contradiction-miner",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "type": "issue-contradiction",
         "confidence": 3
@@ -898,7 +898,7 @@
       "cost_min": 25,
       "leverage": 3,
       "source": "contradiction-miner",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "type": "offshore-exposure",
         "confidence": 3
@@ -912,7 +912,7 @@
       "cost_min": 25,
       "leverage": 3,
       "source": "contradiction-miner",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "type": "policy-capture-sponsorship",
         "confidence": 3
@@ -926,7 +926,7 @@
       "cost_min": 25,
       "leverage": 5,
       "source": "contradiction-miner",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "type": "both-sides",
         "confidence": 5
@@ -940,7 +940,7 @@
       "cost_min": 25,
       "leverage": 4,
       "source": "contradiction-miner",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "type": "cross-party",
         "confidence": 4
@@ -948,13 +948,13 @@
     },
     {
       "bucket": "deciding",
-      "what": "National Restaurant Association funds 5 Armed Services committee members",
-      "why": "National Restaurant Association shows up in the donor lists of 5 different Armed Services committee members: Adam Smith, Deb Fischer, Markwayne Mullin, Rick Scott, Roger Wicker. That's coordinated capture of an entire regulatory body. Pull FEC totals per member, cross-reference committee votes on bills affecting National Restaurant Association's se",
-      "where": "content/Story Seeds/committee-capture-national-restaurant-association-funds-5-armed-services-committ.md",
+      "what": "Julia Brownley funds 11 Agriculture/HELP committee members",
+      "why": "Julia Brownley shows up in the donor lists of 11 different Agriculture/HELP committee members: Adam Gray, Andrea Salinas, Eric Sorensen, Jahana Hayes, Josh Riley and 6 more. That's coordinated capture of an entire regulatory body. Pull FEC totals per member, cross-reference committee votes on bills affecting Julia Brownley's sector, and write the c",
+      "where": "content/Story Seeds/committee-capture-julia-brownley-funds-11-agriculture-help-committee-members.md",
       "cost_min": 25,
       "leverage": 4,
       "source": "contradiction-miner",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "type": "committee-capture",
         "confidence": 4
@@ -968,7 +968,7 @@
       "cost_min": 25,
       "leverage": 3,
       "source": "contradiction-miner",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "type": "issue-contradiction",
         "confidence": 3
@@ -982,7 +982,7 @@
       "cost_min": 25,
       "leverage": 3,
       "source": "contradiction-miner",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "type": "offshore-exposure",
         "confidence": 3
@@ -996,7 +996,7 @@
       "cost_min": 25,
       "leverage": 3,
       "source": "contradiction-miner",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "type": "policy-capture-sponsorship",
         "confidence": 3
@@ -1010,7 +1010,7 @@
       "cost_min": 25,
       "leverage": 5,
       "source": "contradiction-miner",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "type": "both-sides",
         "confidence": 5
@@ -1024,7 +1024,7 @@
       "cost_min": 25,
       "leverage": 4,
       "source": "contradiction-miner",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "type": "cross-party",
         "confidence": 4
@@ -1032,13 +1032,13 @@
     },
     {
       "bucket": "deciding",
-      "what": "Lockheed Martin funds 10 Armed Services committee members",
-      "why": "Lockheed Martin shows up in the donor lists of 10 different Armed Services committee members: Adam Smith, Jack Reed, Jeanne Shaheen, Richard Blumenthal, Tammy Duckworth and 5 more. That's coordinated capture of an entire regulatory body. Pull FEC totals per member, cross-reference committee votes on bills affecting Lockheed Martin's sector, and wri",
-      "where": "content/Story Seeds/committee-capture-lockheed-martin-funds-10-armed-services-committee-members.md",
+      "what": "Nancy Pelosi funds 18 Agriculture/HELP committee members",
+      "why": "Nancy Pelosi shows up in the donor lists of 18 different Agriculture/HELP committee members: Adam Gray, Andrea Salinas, Angie Craig, Eric Sorensen, Jahana Hayes and 13 more. That's coordinated capture of an entire regulatory body. Pull FEC totals per member, cross-reference committee votes on bills affecting Nancy Pelosi's sector, and write the cap",
+      "where": "content/Story Seeds/committee-capture-nancy-pelosi-funds-18-agriculture-help-committee-members.md",
       "cost_min": 25,
       "leverage": 4,
       "source": "contradiction-miner",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "type": "committee-capture",
         "confidence": 4
@@ -1048,41 +1048,80 @@
   "missing-profile-detector": [
     {
       "bucket": "compounding",
-      "what": "Build stub: PhRMA",
-      "why": "Referenced by 59 other vault profiles but has no file yet. Building a stub unlocks 59 broken wikilinks and turns this entity into something other scripts can enrich. Sample: ALEC - American Legislative Exchange Council, American Action Network, Healthcare Sector.",
+      "what": "Build stub: AT&T - WarnerMedia",
+      "why": "Referenced by 268 other vault profiles but has no file yet. Building a stub unlocks 268 broken wikilinks and turns this entity into something other scripts can enrich. Sample: AT&T, News Corp - Fox Corporation, Telecom Industry.",
       "where": "content/Admin Notes/missing-profiles.md",
       "cost_min": 10,
       "leverage": 5,
       "source": "missing-profile-detector",
-      "created": "2026-04-11",
+      "created": "2026-04-24",
       "metadata": {
-        "refCount": 59
+        "refCount": 268
       }
     },
     {
       "bucket": "compounding",
       "what": "Build stub: Raytheon (RTX)",
-      "why": "Referenced by 44 other vault profiles but has no file yet. Building a stub unlocks 44 broken wikilinks and turns this entity into something other scripts can enrich. Sample: BAE Systems, Boeing Defense, Defense Contractors.",
+      "why": "Referenced by 238 other vault profiles but has no file yet. Building a stub unlocks 238 broken wikilinks and turns this entity into something other scripts can enrich. Sample: BAE Systems, Boeing Defense, Defense Contractors.",
       "where": "content/Admin Notes/missing-profiles.md",
       "cost_min": 10,
       "leverage": 5,
       "source": "missing-profile-detector",
-      "created": "2026-04-11",
+      "created": "2026-04-24",
       "metadata": {
-        "refCount": 44
+        "refCount": 238
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Build stub: Honeywell",
+      "why": "Referenced by 212 other vault profiles but has no file yet. Building a stub unlocks 212 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Honeywell International, Sherrod Brown, Adam Smith.",
+      "where": "content/Admin Notes/missing-profiles.md",
+      "cost_min": 10,
+      "leverage": 5,
+      "source": "missing-profile-detector",
+      "created": "2026-04-24",
+      "metadata": {
+        "refCount": 212
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Build stub: PhRMA",
+      "why": "Referenced by 57 other vault profiles but has no file yet. Building a stub unlocks 57 broken wikilinks and turns this entity into something other scripts can enrich. Sample: ALEC - American Legislative Exchange Council, American Action Network, Healthcare Sector.",
+      "where": "content/Admin Notes/missing-profiles.md",
+      "cost_min": 10,
+      "leverage": 5,
+      "source": "missing-profile-detector",
+      "created": "2026-04-24",
+      "metadata": {
+        "refCount": 57
       }
     },
     {
       "bucket": "compounding",
       "what": "Build stub: GEO Group",
-      "why": "Referenced by 38 other vault profiles but has no file yet. Building a stub unlocks 38 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Aramark, Bail Bond Industry, CoreCivic - Private Prisons.",
+      "why": "Referenced by 37 other vault profiles but has no file yet. Building a stub unlocks 37 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Aramark, Bail Bond Industry, CoreCivic - Private Prisons.",
       "where": "content/Admin Notes/missing-profiles.md",
       "cost_min": 10,
       "leverage": 5,
       "source": "missing-profile-detector",
-      "created": "2026-04-11",
+      "created": "2026-04-24",
       "metadata": {
-        "refCount": 38
+        "refCount": 37
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Build stub: Fairshake PAC - Crypto Super PAC",
+      "why": "Referenced by 31 other vault profiles but has no file yet. Building a stub unlocks 31 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Mark Zuckerberg, Ross Stevens, Susquehanna International Group.",
+      "where": "content/Admin Notes/missing-profiles.md",
+      "cost_min": 10,
+      "leverage": 5,
+      "source": "missing-profile-detector",
+      "created": "2026-04-24",
+      "metadata": {
+        "refCount": 31
       }
     },
     {
@@ -1093,7 +1132,7 @@
       "cost_min": 10,
       "leverage": 5,
       "source": "missing-profile-detector",
-      "created": "2026-04-11",
+      "created": "2026-04-24",
       "metadata": {
         "refCount": 26
       }
@@ -1106,85 +1145,72 @@
       "cost_min": 10,
       "leverage": 5,
       "source": "missing-profile-detector",
-      "created": "2026-04-11",
+      "created": "2026-04-24",
       "metadata": {
         "refCount": 26
       }
     },
     {
       "bucket": "compounding",
+      "what": "Build stub: Palantir",
+      "why": "Referenced by 21 other vault profiles but has no file yet. Building a stub unlocks 21 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Defense Contractors Bloc, Elon Musk, Palantir Technologies.",
+      "where": "content/Admin Notes/missing-profiles.md",
+      "cost_min": 10,
+      "leverage": 5,
+      "source": "missing-profile-detector",
+      "created": "2026-04-24",
+      "metadata": {
+        "refCount": 21
+      }
+    },
+    {
+      "bucket": "compounding",
       "what": "Build stub: Jeff Yass",
-      "why": "Referenced by 19 other vault profiles but has no file yet. Building a stub unlocks 19 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Cryptocurrency Industry Bloc — Fairshake PAC Network, Donor Registry - Master Index, American Federation for Children.",
+      "why": "Referenced by 18 other vault profiles but has no file yet. Building a stub unlocks 18 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Cryptocurrency Industry Bloc , Fairshake PAC Network, Donor Registry - Master Index, American Federation for Children.",
       "where": "content/Admin Notes/missing-profiles.md",
       "cost_min": 10,
       "leverage": 4,
       "source": "missing-profile-detector",
-      "created": "2026-04-11",
+      "created": "2026-04-24",
       "metadata": {
-        "refCount": 19
-      }
-    },
-    {
-      "bucket": "compounding",
-      "what": "Build stub: Fairshake PAC - Crypto Super PAC",
-      "why": "Referenced by 16 other vault profiles but has no file yet. Building a stub unlocks 16 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Mark Zuckerberg, Ross Stevens, Susquehanna International Group.",
-      "where": "content/Admin Notes/missing-profiles.md",
-      "cost_min": 10,
-      "leverage": 4,
-      "source": "missing-profile-detector",
-      "created": "2026-04-11",
-      "metadata": {
-        "refCount": 16
-      }
-    },
-    {
-      "bucket": "compounding",
-      "what": "Build stub: Goldman Sachs - Wall Street Titan",
-      "why": "Referenced by 11 other vault profiles but has no file yet. Building a stub unlocks 11 broken wikilinks and turns this entity into something other scripts can enrich. Sample: JPMorgan Chase, Wall Street Bloc, Wall Street Finance Networks.",
-      "where": "content/Admin Notes/missing-profiles.md",
-      "cost_min": 10,
-      "leverage": 3,
-      "source": "missing-profile-detector",
-      "created": "2026-04-11",
-      "metadata": {
-        "refCount": 11
-      }
-    },
-    {
-      "bucket": "compounding",
-      "what": "Build stub: Blackstone",
-      "why": "Referenced by 11 other vault profiles but has no file yet. Building a stub unlocks 11 broken wikilinks and turns this entity into something other scripts can enrich. Sample: The Wall Street-Schumer Funding Axis, Bill Hagerty, John Cornyn.",
-      "where": "content/Admin Notes/missing-profiles.md",
-      "cost_min": 10,
-      "leverage": 3,
-      "source": "missing-profile-detector",
-      "created": "2026-04-11",
-      "metadata": {
-        "refCount": 11
+        "refCount": 18
       }
     },
     {
       "bucket": "compounding",
       "what": "Build stub: Google",
-      "why": "Referenced by 10 other vault profiles but has no file yet. Building a stub unlocks 10 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Stand Together, Akin Gump Strauss Hauer & Feld, Raja Krishnamoorthi.",
+      "why": "Referenced by 12 other vault profiles but has no file yet. Building a stub unlocks 12 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Stand Together, Akin Gump Strauss Hauer & Feld, Nancy Pelosi.",
       "where": "content/Admin Notes/missing-profiles.md",
       "cost_min": 10,
       "leverage": 3,
       "source": "missing-profile-detector",
-      "created": "2026-04-11",
+      "created": "2026-04-24",
       "metadata": {
-        "refCount": 10
+        "refCount": 12
       }
     },
     {
       "bucket": "compounding",
-      "what": "Build stub: _Lobbying Firms Framework",
-      "why": "Referenced by 10 other vault profiles but has no file yet. Building a stub unlocks 10 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Akin Gump Strauss Hauer & Feld, Alpine Group, Ballard Partners.",
+      "what": "Build stub: Blackstone",
+      "why": "Referenced by 12 other vault profiles but has no file yet. Building a stub unlocks 12 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Shontel Brown, The Wall Street-Schumer Funding Axis, Bill Hagerty.",
       "where": "content/Admin Notes/missing-profiles.md",
       "cost_min": 10,
       "leverage": 3,
       "source": "missing-profile-detector",
-      "created": "2026-04-11",
+      "created": "2026-04-24",
+      "metadata": {
+        "refCount": 12
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Build stub: Goldman Sachs - Wall Street Titan",
+      "why": "Referenced by 10 other vault profiles but has no file yet. Building a stub unlocks 10 broken wikilinks and turns this entity into something other scripts can enrich. Sample: JPMorgan Chase, Wall Street Bloc, Wall Street Finance Networks.",
+      "where": "content/Admin Notes/missing-profiles.md",
+      "cost_min": 10,
+      "leverage": 3,
+      "source": "missing-profile-detector",
+      "created": "2026-04-24",
       "metadata": {
         "refCount": 10
       }
@@ -1197,7 +1223,7 @@
       "cost_min": 10,
       "leverage": 3,
       "source": "missing-profile-detector",
-      "created": "2026-04-11",
+      "created": "2026-04-24",
       "metadata": {
         "refCount": 10
       }
@@ -1210,35 +1236,9 @@
       "cost_min": 10,
       "leverage": 3,
       "source": "missing-profile-detector",
-      "created": "2026-04-11",
+      "created": "2026-04-24",
       "metadata": {
         "refCount": 10
-      }
-    },
-    {
-      "bucket": "compounding",
-      "what": "Build stub: EMILY's List",
-      "why": "Referenced by 9 other vault profiles but has no file yet. Building a stub unlocks 9 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Democratic Senatorial Campaign Committee, Priorities USA Action, Winning for Women PAC.",
-      "where": "content/Admin Notes/missing-profiles.md",
-      "cost_min": 10,
-      "leverage": 2,
-      "source": "missing-profile-detector",
-      "created": "2026-04-11",
-      "metadata": {
-        "refCount": 9
-      }
-    },
-    {
-      "bucket": "compounding",
-      "what": "Build stub: _Think Tank Framework",
-      "why": "Referenced by 9 other vault profiles but has no file yet. Building a stub unlocks 9 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Lobbying Firms & K Street Framework, Center for a New American Security, Mercatus Center.",
-      "where": "content/Admin Notes/missing-profiles.md",
-      "cost_min": 10,
-      "leverage": 2,
-      "source": "missing-profile-detector",
-      "created": "2026-04-11",
-      "metadata": {
-        "refCount": 9
       }
     }
   ],
@@ -1251,7 +1251,7 @@
       "cost_min": 2,
       "leverage": 5,
       "source": "promotion-candidate-queue",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "signoffOnly": true,
         "type": "corporation"
@@ -1265,7 +1265,7 @@
       "cost_min": 2,
       "leverage": 5,
       "source": "promotion-candidate-queue",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "signoffOnly": true,
         "type": "donor"
@@ -1279,21 +1279,7 @@
       "cost_min": 2,
       "leverage": 5,
       "source": "promotion-candidate-queue",
-      "created": "2026-04-21",
-      "metadata": {
-        "signoffOnly": true,
-        "type": "corporation"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "GEO Group - Private Prison Industrial Complex: ready for A+ sign-off",
-      "why": "This profile passed every automated A+ check. Only David's sign-off (janitor stamped 2026-04-11) remains. Open it, glance at the narrative, flip last-verified-by: editorial, done.",
-      "where": "content/Donors & Power Networks/Carceral State/GEO Group.md",
-      "cost_min": 2,
-      "leverage": 5,
-      "source": "promotion-candidate-queue",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "signoffOnly": true,
         "type": "corporation"
@@ -1307,7 +1293,7 @@
       "cost_min": 2,
       "leverage": 5,
       "source": "promotion-candidate-queue",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "signoffOnly": true,
         "type": "donor"
@@ -1321,21 +1307,7 @@
       "cost_min": 2,
       "leverage": 5,
       "source": "promotion-candidate-queue",
-      "created": "2026-04-21",
-      "metadata": {
-        "signoffOnly": true,
-        "type": "donor"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "American Enterprise Institute: ready for A+ sign-off",
-      "why": "This profile passed every automated A+ check. Only David's sign-off (janitor stamped 2026-04-11) remains. Open it, glance at the narrative, flip last-verified-by: editorial, done.",
-      "where": "content/Donors & Power Networks/Dark Money/American Enterprise Institute.md",
-      "cost_min": 2,
-      "leverage": 5,
-      "source": "promotion-candidate-queue",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "signoffOnly": true,
         "type": "donor"
@@ -1349,7 +1321,7 @@
       "cost_min": 2,
       "leverage": 5,
       "source": "promotion-candidate-queue",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "signoffOnly": true,
         "type": "donor"
@@ -1357,13 +1329,13 @@
     },
     {
       "bucket": "deciding",
-      "what": "Bradley Impact Fund: ready for A+ sign-off",
+      "what": "Conservative Partnership Institute: ready for A+ sign-off",
       "why": "This profile passed every automated A+ check. Only David's sign-off (janitor stamped 2026-04-11) remains. Open it, glance at the narrative, flip last-verified-by: editorial, done.",
-      "where": "content/Donors & Power Networks/Dark Money/Bradley Impact Fund.md",
+      "where": "content/Donors & Power Networks/Dark Money/Conservative Partnership Institute.md",
       "cost_min": 2,
       "leverage": 5,
       "source": "promotion-candidate-queue",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "signoffOnly": true,
         "type": "donor"
@@ -1371,543 +1343,48 @@
     },
     {
       "bucket": "deciding",
-      "what": "Business Council of Alabama: ready for A+ sign-off",
+      "what": "Demand Justice: ready for A+ sign-off",
       "why": "This profile passed every automated A+ check. Only David's sign-off (janitor stamped 2026-04-11) remains. Open it, glance at the narrative, flip last-verified-by: editorial, done.",
-      "where": "content/Donors & Power Networks/Dark Money/Business Council of Alabama.md",
+      "where": "content/Donors & Power Networks/Dark Money/Demand Justice.md",
       "cost_min": 2,
       "leverage": 5,
       "source": "promotion-candidate-queue",
-      "created": "2026-04-21",
+      "created": "2026-04-24",
       "metadata": {
         "signoffOnly": true,
         "type": "donor"
       }
-    }
-  ],
-  "story-candidate-scorer": [
+    },
     {
-      "bucket": "compounding",
-      "what": "American Action Network — dark-money-networked, $176,798,895 tracked political spend",
-      "why": "American Action Network is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $176,798,895. Investigate cross-references with other dark-money network members. [dark_money_network, score 24.29, tier high]",
-      "where": "/query?subject=entities&capital_type=dark-money-vehicle",
-      "cost_min": 90,
+      "bucket": "deciding",
+      "what": "Freedom Partners Chamber of Commerce: ready for A+ sign-off",
+      "why": "This profile passed every automated A+ check. Only David's sign-off (janitor stamped 2026-04-11) remains. Open it, glance at the narrative, flip last-verified-by: editorial, done.",
+      "where": "content/Donors & Power Networks/Dark Money/Freedom Partners.md",
+      "cost_min": 2,
       "leverage": 5,
-      "source": "story-candidate-scorer",
-      "created": "2026-04-14",
+      "source": "promotion-candidate-queue",
+      "created": "2026-04-24",
       "metadata": {
-        "strategy": "dark_money_network",
-        "score": 24.29,
-        "tier": "high",
-        "breakdown": {
-          "money": 8.25,
-          "timing": 0,
-          "cross_party": 0,
-          "contradiction": 0,
-          "press_scarcity": 3,
-          "source_tier": 2.5
-        },
-        "decay": 0.88,
-        "news_multiplier": 2
+        "signoffOnly": true,
+        "type": "donor"
       }
     },
     {
-      "bucket": "compounding",
-      "what": "America Votes — dark-money-networked, $157,372,490 tracked political spend",
-      "why": "America Votes is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $157,372,490. Investigate cross-references with other dark-money network members. [dark_money_network, score 24.2, tier high]",
-      "where": "/query?subject=entities&capital_type=dark-money-vehicle",
-      "cost_min": 90,
+      "bucket": "deciding",
+      "what": "Heritage Foundation: ready for A+ sign-off",
+      "why": "This profile passed every automated A+ check. Only David's sign-off (janitor stamped 2026-04-11) remains. Open it, glance at the narrative, flip last-verified-by: editorial, done.",
+      "where": "content/Donors & Power Networks/Dark Money/Heritage Foundation.md",
+      "cost_min": 2,
       "leverage": 5,
-      "source": "story-candidate-scorer",
-      "created": "2026-04-14",
+      "source": "promotion-candidate-queue",
+      "created": "2026-04-24",
       "metadata": {
-        "strategy": "dark_money_network",
-        "score": 24.2,
-        "tier": "high",
-        "breakdown": {
-          "money": 8.2,
-          "timing": 0,
-          "cross_party": 0,
-          "contradiction": 0,
-          "press_scarcity": 3,
-          "source_tier": 2.5
-        },
-        "decay": 0.88,
-        "news_multiplier": 2
-      }
-    },
-    {
-      "bucket": "compounding",
-      "what": "Sixteen Thirty Fund — dark-money-networked, $101,443,846 tracked political spend",
-      "why": "Sixteen Thirty Fund is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $101,443,846. Investigate cross-references with other dark-money network members. [dark_money_network, score 23.86, tier high]",
-      "where": "/query?subject=entities&capital_type=dark-money-vehicle",
-      "cost_min": 90,
-      "leverage": 5,
-      "source": "story-candidate-scorer",
-      "created": "2026-04-14",
-      "metadata": {
-        "strategy": "dark_money_network",
-        "score": 23.86,
-        "tier": "high",
-        "breakdown": {
-          "money": 8.01,
-          "timing": 0,
-          "cross_party": 0,
-          "contradiction": 0,
-          "press_scarcity": 3,
-          "source_tier": 2.5
-        },
-        "decay": 0.88,
-        "news_multiplier": 2
-      }
-    },
-    {
-      "bucket": "compounding",
-      "what": "Stand Together — dark-money-networked, $84,259,968 tracked political spend",
-      "why": "Stand Together is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $84,259,968. Investigate cross-references with other dark-money network members. [dark_money_network, score 23.72, tier high]",
-      "where": "/query?subject=entities&capital_type=dark-money-vehicle",
-      "cost_min": 90,
-      "leverage": 5,
-      "source": "story-candidate-scorer",
-      "created": "2026-04-14",
-      "metadata": {
-        "strategy": "dark_money_network",
-        "score": 23.72,
-        "tier": "high",
-        "breakdown": {
-          "money": 7.93,
-          "timing": 0,
-          "cross_party": 0,
-          "contradiction": 0,
-          "press_scarcity": 3,
-          "source_tier": 2.5
-        },
-        "decay": 0.88,
-        "news_multiplier": 2
-      }
-    },
-    {
-      "bucket": "compounding",
-      "what": "Ohio Democratic Party — dark-money-networked, $9,177,680 tracked political spend",
-      "why": "Ohio Democratic Party is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $9,177,680. Investigate cross-references with other dark-money network members. [dark_money_network, score 22.02, tier high]",
-      "where": "/query?subject=entities&capital_type=dark-money-vehicle",
-      "cost_min": 90,
-      "leverage": 5,
-      "source": "story-candidate-scorer",
-      "created": "2026-04-14",
-      "metadata": {
-        "strategy": "dark_money_network",
-        "score": 22.02,
-        "tier": "high",
-        "breakdown": {
-          "money": 6.96,
-          "timing": 0,
-          "cross_party": 0,
-          "contradiction": 0,
-          "press_scarcity": 3,
-          "source_tier": 2.5
-        },
-        "decay": 0.88,
-        "news_multiplier": 2
-      }
-    },
-    {
-      "bucket": "compounding",
-      "what": "Media Matters — dark-money-networked, $3,998,524 tracked political spend",
-      "why": "Media Matters is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $3,998,524. Investigate cross-references with other dark-money network members. [dark_money_network, score 21.38, tier high]",
-      "where": "/query?subject=entities&capital_type=dark-money-vehicle",
-      "cost_min": 90,
-      "leverage": 5,
-      "source": "story-candidate-scorer",
-      "created": "2026-04-14",
-      "metadata": {
-        "strategy": "dark_money_network",
-        "score": 21.38,
-        "tier": "high",
-        "breakdown": {
-          "money": 6.6,
-          "timing": 0,
-          "cross_party": 0,
-          "contradiction": 0,
-          "press_scarcity": 3,
-          "source_tier": 2.5
-        },
-        "decay": 0.88,
-        "news_multiplier": 2
-      }
-    },
-    {
-      "bucket": "compounding",
-      "what": "National Association of Manufacturers — dark-money-networked, $2,129,676 tracked political spend",
-      "why": "National Association of Manufacturers is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $2,129,676. Investigate cross-references with other dark-money network members. [dark_money_network, score 20.9, tier high]",
-      "where": "/query?subject=entities&capital_type=dark-money-vehicle",
-      "cost_min": 90,
-      "leverage": 5,
-      "source": "story-candidate-scorer",
-      "created": "2026-04-14",
-      "metadata": {
-        "strategy": "dark_money_network",
-        "score": 20.9,
-        "tier": "high",
-        "breakdown": {
-          "money": 6.33,
-          "timing": 0,
-          "cross_party": 0,
-          "contradiction": 0,
-          "press_scarcity": 3,
-          "source_tier": 2.5
-        },
-        "decay": 0.88,
-        "news_multiplier": 2
-      }
-    },
-    {
-      "bucket": "compounding",
-      "what": "ActBlue — dark-money-networked, $1,765,636 tracked political spend",
-      "why": "ActBlue is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $1,765,636. Investigate cross-references with other dark-money network members. [dark_money_network, score 20.75, tier high]",
-      "where": "/query?subject=entities&capital_type=dark-money-vehicle",
-      "cost_min": 90,
-      "leverage": 5,
-      "source": "story-candidate-scorer",
-      "created": "2026-04-14",
-      "metadata": {
-        "strategy": "dark_money_network",
-        "score": 20.75,
-        "tier": "high",
-        "breakdown": {
-          "money": 6.25,
-          "timing": 0,
-          "cross_party": 0,
-          "contradiction": 0,
-          "press_scarcity": 3,
-          "source_tier": 2.5
-        },
-        "decay": 0.88,
-        "news_multiplier": 2
-      }
-    },
-    {
-      "bucket": "compounding",
-      "what": "Heritage Foundation — dark-money-networked, $1,007,158 tracked political spend",
-      "why": "Heritage Foundation is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $1,007,158. Investigate cross-references with other dark-money network members. [dark_money_network, score 20.32, tier high]",
-      "where": "/query?subject=entities&capital_type=dark-money-vehicle",
-      "cost_min": 90,
-      "leverage": 5,
-      "source": "story-candidate-scorer",
-      "created": "2026-04-14",
-      "metadata": {
-        "strategy": "dark_money_network",
-        "score": 20.32,
-        "tier": "high",
-        "breakdown": {
-          "money": 6,
-          "timing": 0,
-          "cross_party": 0,
-          "contradiction": 0,
-          "press_scarcity": 3,
-          "source_tier": 2.5
-        },
-        "decay": 0.88,
-        "news_multiplier": 2
-      }
-    },
-    {
-      "bucket": "compounding",
-      "what": "Freedom Partners Chamber of Commerce — dark-money-networked, $807,270 tracked political spend",
-      "why": "Freedom Partners Chamber of Commerce is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $807,270. Investigate cross-references with other dark-money network members. [dark_money_network, score 20.15, tier high]",
-      "where": "/query?subject=entities&capital_type=dark-money-vehicle",
-      "cost_min": 90,
-      "leverage": 5,
-      "source": "story-candidate-scorer",
-      "created": "2026-04-14",
-      "metadata": {
-        "strategy": "dark_money_network",
-        "score": 20.15,
-        "tier": "high",
-        "breakdown": {
-          "money": 5.91,
-          "timing": 0,
-          "cross_party": 0,
-          "contradiction": 0,
-          "press_scarcity": 3,
-          "source_tier": 2.5
-        },
-        "decay": 0.88,
-        "news_multiplier": 2
-      }
-    },
-    {
-      "bucket": "compounding",
-      "what": "Sports Betting Alliance — dark-money-networked, $766,000 tracked political spend",
-      "why": "Sports Betting Alliance is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $766,000. Investigate cross-references with other dark-money network members. [dark_money_network, score 20.11, tier high]",
-      "where": "/query?subject=entities&capital_type=dark-money-vehicle",
-      "cost_min": 90,
-      "leverage": 5,
-      "source": "story-candidate-scorer",
-      "created": "2026-04-14",
-      "metadata": {
-        "strategy": "dark_money_network",
-        "score": 20.11,
-        "tier": "high",
-        "breakdown": {
-          "money": 5.88,
-          "timing": 0,
-          "cross_party": 0,
-          "contradiction": 0,
-          "press_scarcity": 3,
-          "source_tier": 2.5
-        },
-        "decay": 0.88,
-        "news_multiplier": 2
-      }
-    },
-    {
-      "bucket": "compounding",
-      "what": "Brady Campaign — dark-money-networked, $499,761 tracked political spend",
-      "why": "Brady Campaign is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $499,761. Investigate cross-references with other dark-money network members. [dark_money_network, score 19.78, tier high]",
-      "where": "/query?subject=entities&capital_type=dark-money-vehicle",
-      "cost_min": 90,
-      "leverage": 5,
-      "source": "story-candidate-scorer",
-      "created": "2026-04-14",
-      "metadata": {
-        "strategy": "dark_money_network",
-        "score": 19.78,
-        "tier": "high",
-        "breakdown": {
-          "money": 5.7,
-          "timing": 0,
-          "cross_party": 0,
-          "contradiction": 0,
-          "press_scarcity": 3,
-          "source_tier": 2.5
-        },
-        "decay": 0.88,
-        "news_multiplier": 2
-      }
-    },
-    {
-      "bucket": "compounding",
-      "what": "Bradley Foundation — dark-money-networked, $150,500 tracked political spend",
-      "why": "Bradley Foundation is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $150,500. Investigate cross-references with other dark-money network members. [dark_money_network, score 18.86, tier high]",
-      "where": "/query?subject=entities&capital_type=dark-money-vehicle",
-      "cost_min": 90,
-      "leverage": 5,
-      "source": "story-candidate-scorer",
-      "created": "2026-04-14",
-      "metadata": {
-        "strategy": "dark_money_network",
-        "score": 18.86,
-        "tier": "high",
-        "breakdown": {
-          "money": 5.18,
-          "timing": 0,
-          "cross_party": 0,
-          "contradiction": 0,
-          "press_scarcity": 3,
-          "source_tier": 2.5
-        },
-        "decay": 0.88,
-        "news_multiplier": 2
-      }
-    },
-    {
-      "bucket": "compounding",
-      "what": "Democracy Alliance — dark-money-networked, $116,675 tracked political spend",
-      "why": "Democracy Alliance is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $116,675. Investigate cross-references with other dark-money network members. [dark_money_network, score 18.67, tier high]",
-      "where": "/query?subject=entities&capital_type=dark-money-vehicle",
-      "cost_min": 90,
-      "leverage": 5,
-      "source": "story-candidate-scorer",
-      "created": "2026-04-14",
-      "metadata": {
-        "strategy": "dark_money_network",
-        "score": 18.67,
-        "tier": "high",
-        "breakdown": {
-          "money": 5.07,
-          "timing": 0,
-          "cross_party": 0,
-          "contradiction": 0,
-          "press_scarcity": 3,
-          "source_tier": 2.5
-        },
-        "decay": 0.88,
-        "news_multiplier": 2
-      }
-    },
-    {
-      "bucket": "compounding",
-      "what": "Business Roundtable — dark-money-networked, $110,825 tracked political spend",
-      "why": "Business Roundtable is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $110,825. Investigate cross-references with other dark-money network members. [dark_money_network, score 18.63, tier high]",
-      "where": "/query?subject=entities&capital_type=dark-money-vehicle",
-      "cost_min": 90,
-      "leverage": 5,
-      "source": "story-candidate-scorer",
-      "created": "2026-04-14",
-      "metadata": {
-        "strategy": "dark_money_network",
-        "score": 18.63,
-        "tier": "high",
-        "breakdown": {
-          "money": 5.04,
-          "timing": 0,
-          "cross_party": 0,
-          "contradiction": 0,
-          "press_scarcity": 3,
-          "source_tier": 2.5
-        },
-        "decay": 0.88,
-        "news_multiplier": 2
-      }
-    },
-    {
-      "bucket": "compounding",
-      "what": "Bradley Impact Fund — dark-money-networked, $100,000 tracked political spend",
-      "why": "Bradley Impact Fund is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $100,000. Investigate cross-references with other dark-money network members. [dark_money_network, score 18.55, tier high]",
-      "where": "/query?subject=entities&capital_type=dark-money-vehicle",
-      "cost_min": 90,
-      "leverage": 5,
-      "source": "story-candidate-scorer",
-      "created": "2026-04-14",
-      "metadata": {
-        "strategy": "dark_money_network",
-        "score": 18.55,
-        "tier": "high",
-        "breakdown": {
-          "money": 5,
-          "timing": 0,
-          "cross_party": 0,
-          "contradiction": 0,
-          "press_scarcity": 3,
-          "source_tier": 2.5
-        },
-        "decay": 0.88,
-        "news_multiplier": 2
-      }
-    },
-    {
-      "bucket": "compounding",
-      "what": "Judicial Crisis Network — dark-money-networked, $75,000 tracked political spend",
-      "why": "Judicial Crisis Network is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $75,000. Investigate cross-references with other dark-money network members. [dark_money_network, score 18.33, tier high]",
-      "where": "/query?subject=entities&capital_type=dark-money-vehicle",
-      "cost_min": 90,
-      "leverage": 5,
-      "source": "story-candidate-scorer",
-      "created": "2026-04-14",
-      "metadata": {
-        "strategy": "dark_money_network",
-        "score": 18.33,
-        "tier": "high",
-        "breakdown": {
-          "money": 4.88,
-          "timing": 0,
-          "cross_party": 0,
-          "contradiction": 0,
-          "press_scarcity": 3,
-          "source_tier": 2.5
-        },
-        "decay": 0.88,
-        "news_multiplier": 2
-      }
-    },
-    {
-      "bucket": "compounding",
-      "what": "Demand Justice — dark-money-networked, $20,000 tracked political spend",
-      "why": "Demand Justice is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $20,000. Investigate cross-references with other dark-money network members. [dark_money_network, score 17.32, tier medium]",
-      "where": "/query?subject=entities&capital_type=dark-money-vehicle",
-      "cost_min": 90,
-      "leverage": 3,
-      "source": "story-candidate-scorer",
-      "created": "2026-04-14",
-      "metadata": {
-        "strategy": "dark_money_network",
-        "score": 17.32,
-        "tier": "medium",
-        "breakdown": {
-          "money": 4.3,
-          "timing": 0,
-          "cross_party": 0,
-          "contradiction": 0,
-          "press_scarcity": 3,
-          "source_tier": 2.5
-        },
-        "decay": 0.88,
-        "news_multiplier": 2
-      }
-    },
-    {
-      "bucket": "compounding",
-      "what": "Business Council of Alabama — dark-money-networked, $11,000 tracked political spend",
-      "why": "Business Council of Alabama is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $11,000. Investigate cross-references with other dark-money network members. [dark_money_network, score 16.86, tier medium]",
-      "where": "/query?subject=entities&capital_type=dark-money-vehicle",
-      "cost_min": 90,
-      "leverage": 3,
-      "source": "story-candidate-scorer",
-      "created": "2026-04-14",
-      "metadata": {
-        "strategy": "dark_money_network",
-        "score": 16.86,
-        "tier": "medium",
-        "breakdown": {
-          "money": 4.04,
-          "timing": 0,
-          "cross_party": 0,
-          "contradiction": 0,
-          "press_scarcity": 3,
-          "source_tier": 2.5
-        },
-        "decay": 0.88,
-        "news_multiplier": 2
-      }
-    },
-    {
-      "bucket": "compounding",
-      "what": "American Enterprise Institute — dark-money-networked, $6,625 tracked political spend",
-      "why": "American Enterprise Institute is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $6,625. Investigate cross-references with other dark-money network members. [dark_money_network, score 16.47, tier medium]",
-      "where": "/query?subject=entities&capital_type=dark-money-vehicle",
-      "cost_min": 90,
-      "leverage": 3,
-      "source": "story-candidate-scorer",
-      "created": "2026-04-14",
-      "metadata": {
-        "strategy": "dark_money_network",
-        "score": 16.47,
-        "tier": "medium",
-        "breakdown": {
-          "money": 3.82,
-          "timing": 0,
-          "cross_party": 0,
-          "contradiction": 0,
-          "press_scarcity": 3,
-          "source_tier": 2.5
-        },
-        "decay": 0.88,
-        "news_multiplier": 2
+        "signoffOnly": true,
+        "type": "donor"
       }
     }
   ],
   "narrative-drift-detector": [
-    {
-      "bucket": "deciding",
-      "what": "Re-read K&L Gates › Opening",
-      "why": "New event (2026-03-19) \"S. 4157: No Bailout for Crypto Act\" mentions Richard Durbin. Profile narrative in \"Opening\" references Richard Durbin.",
-      "where": "content/Lobbying Firms & K Street/K&L Gates.md",
-      "cost_min": 3,
-      "leverage": 4,
-      "source": "narrative-drift-detector",
-      "created": "2026-04-17",
-      "metadata": {
-        "profile": "K&L Gates",
-        "events": [
-          {
-            "date": "2026-03-19",
-            "title": "S. 4157: No Bailout for Crypto Act",
-            "entity": "Richard Durbin",
-            "heading": "Opening"
-          }
-        ]
-      }
-    },
     {
       "bucket": "deciding",
       "what": "Re-read The Impeachment Vote and the Petrochemical Protection › Opening",
@@ -1916,7 +1393,7 @@
       "cost_min": 3,
       "leverage": 4,
       "source": "narrative-drift-detector",
-      "created": "2026-04-17",
+      "created": "2026-04-24",
       "metadata": {
         "profile": "The Impeachment Vote and the Petrochemical Protection",
         "events": [
@@ -1937,7 +1414,7 @@
       "cost_min": 3,
       "leverage": 4,
       "source": "narrative-drift-detector",
-      "created": "2026-04-17",
+      "created": "2026-04-24",
       "metadata": {
         "profile": "Defense-Pharma-Carceral-Labor-Wexner Cross-Reference: Five Donors, One System",
         "events": [
