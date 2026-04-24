@@ -10,25 +10,25 @@ generated-by: scripts/pipeline-janitor.cjs
 
 # Pipeline Janitor Report
 
-Generated: 2026-04-24T01:32:52.309Z
+Generated: 2026-04-24T03:12:27.039Z
 Mode: DRY RUN (report only)
 
 ## Summary
 
 - Profiles scanned: 3208
 - Profiles at ready/verified audited: 606
-- Profiles with issues: **489**
-- Total issues: 987
+- Profiles with issues: **606**
+- Total issues: 1969
 
 ### By issue kind
 
+- `a-plus-missing-story-grade`: 606
+- `a-plus-missing-thesis`: 472
 - `missing-block`: 448
-- `a-plus-missing-story-grade`: 177
 - `zombie-block`: 135
+- `a-plus-source-floor`: 125
+- `a-plus-legal-review`: 87
 - `a-plus-committee-cross-ref`: 81
-- `a-plus-source-floor`: 59
-- `a-plus-missing-thesis`: 50
-- `a-plus-legal-review`: 22
 - `a-plus-both-sides`: 11
 - `known-gap-pipeline`: 4
 
@@ -790,6 +790,886 @@ Mode: DRY RUN (report only)
   - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
   - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
 
+### ACLU Foundation
+
+- **Path:** `Donors & Power Networks/Dark Money/ACLU Foundation.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### ALEC - American Legislative Exchange Council
+
+- **Path:** `Donors & Power Networks/Dark Money/ALEC - American Legislative Exchange Council.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: - [Common Cause: ALEC Losing Clout Amid Controversy](https://www.commoncause.org → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Center for Popular Democracy
+
+- **Path:** `Donors & Power Networks/Dark Money/Center for Popular Democracy.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### ClimateWorks Foundation
+
+- **Path:** `Donors & Power Networks/Dark Money/ClimateWorks Foundation.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Crossroads Grassroots Policy Strategies
+
+- **Path:** `Donors & Power Networks/Dark Money/Crossroads Grassroots Policy Strategies.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Cryptocurrency Industry Bloc , Fairshake PAC Network
+
+- **Path:** `Donors & Power Networks/Dark Money/Cryptocurrency Industry Bloc.md`
+- **Current readiness:** `ready`
+- **Type:** `pac`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Equal Justice Initiative
+
+- **Path:** `Donors & Power Networks/Dark Money/Equal Justice Initiative.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Federalist Society
+
+- **Path:** `Donors & Power Networks/Dark Money/Federalist Society.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: - [Senator Whitehouse: The Scheme Speech 5 — The Federalist Society](https://www → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Finance and Tech Bundler Network
+
+- **Path:** `Donors & Power Networks/Dark Money/Finance and Tech Bundler Network.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 2 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### LARA Fund - Mauricio Claver-Carone
+
+- **Path:** `Donors & Power Networks/Dark Money/LARA Fund - Mauricio Claver-Carone.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Legal Sector Donors
+
+- **Path:** `Donors & Power Networks/Dark Money/Legal Sector Donors.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 2 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### National Progressive Donor Networks
+
+- **Path:** `Donors & Power Networks/Dark Money/National Progressive Donor Networks.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 2 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Natural Resources Defense Council
+
+- **Path:** `Donors & Power Networks/Dark Money/Natural Resources Defense Council.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### NEO Philanthropy
+
+- **Path:** `Donors & Power Networks/Dark Money/NEO Philanthropy.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### North Fund
+
+- **Path:** `Donors & Power Networks/Dark Money/North Fund.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Open Society Foundations
+
+- **Path:** `Donors & Power Networks/Dark Money/Open Society Foundations.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-legal-review` — 3 defamation-prone phrases outside blockquotes: #donor #donor-node #dark-money #soros #progressive #democracy-infrastructure #in | [How [[George Soros|George Soros]] changed justice system in America](https://dn → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Proteus Fund
+
+- **Path:** `Donors & Power Networks/Dark Money/Proteus Fund.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Republican Party Apparatus
+
+- **Path:** `Donors & Power Networks/Dark Money/Republican Party Apparatus.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Sierra Club Foundation
+
+- **Path:** `Donors & Power Networks/Dark Money/Sierra Club Foundation.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Stand Together Foundation
+
+- **Path:** `Donors & Power Networks/Dark Money/Stand Together Foundation.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### The Barack Obama Foundation
+
+- **Path:** `Donors & Power Networks/Dark Money/The Barack Obama Foundation.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### The Seminar Network
+
+- **Path:** `Donors & Power Networks/Dark Money/The Seminar Network.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Vital Strategies
+
+- **Path:** `Donors & Power Networks/Dark Money/Vital Strategies.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Boeing Defense
+
+- **Path:** `Donors & Power Networks/Defense & Intelligence/Boeing Defense.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (4):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: - [CNBC: Judge dismisses Boeing case for 737 Max crashes at DOJ request](https:/ → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### PG&E
+
+- **Path:** `Donors & Power Networks/Energy & Utilities/PG&E.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (4):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: #donor #utility #PGE #regulated-monopoly #wildfire #ratepayers #california #foll → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Mohammed bin Salman
+
+- **Path:** `Donors & Power Networks/Foreign/Mohammed bin Salman.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 2 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### United Arab Emirates - Influence Operation
+
+- **Path:** `Donors & Power Networks/Foreign/United Arab Emirates - Influence Operation.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 2 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Tenet Healthcare
+
+- **Path:** `Donors & Power Networks/Healthcare/Tenet Healthcare.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (4):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-legal-review` — 2 defamation-prone phrases outside blockquotes: #tenet #hospital #healthcare #for-profit #lobbying #medicaid #emergency #fraud # | - [Georgia AG: Landmark Kickback Settlement With Tenet Healthcare. Over $100 Mil → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### JCRC Bay Area
+
+- **Path:** `Donors & Power Networks/Israel Lobby/JCRC Bay Area.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 2 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### PORAC - Peace Officers Research Association of California
+
+- **Path:** `Donors & Power Networks/Law Enforcement/PORAC - Peace Officers Research Association of California.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### States Newsroom
+
+- **Path:** `Donors & Power Networks/Media & Influence/States Newsroom.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Bernie Marcus
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Bernie Marcus.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 2 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Cambridge Analytica and the Data Weaponization of Elections
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Cambridge Analytica and the Data Weaponization of Elections.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 2 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Renaissance Technologies and the 7 Billion Dollar Tax Settlement
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Renaissance Technologies and the 7 Billion Dollar Tax Settlement.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Rupert Murdoch
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Rupert Murdoch.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: - [NPR: Fox News headed for trial over Smartmatic election fraud claims](https:/ → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Wilks Brothers , Dan and Farris Wilks
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Wilks Brothers.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 2 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Anthem PAC
+
+- **Path:** `Donors & Power Networks/Pharma & Healthcare/Anthem PAC.md`
+- **Current readiness:** `ready`
+- **Type:** `pac`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Purdue Pharma - Sackler Family
+
+- **Path:** `Donors & Power Networks/Pharma & Healthcare/Purdue Pharma - Sackler Family.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (4):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-legal-review` — 2 defamation-prone phrases outside blockquotes: Purdue admitted it conspired to impede the DEA by misrepresenting its anti-diver | - [HHS OIG: Purdue Pharma pleads guilty to fraud and kickback conspiracies](http → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Cayre Family
+
+- **Path:** `Donors & Power Networks/Real Estate/Cayre Family.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Tisch Family
+
+- **Path:** `Donors & Power Networks/Real Estate/Tisch Family.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 2 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Affordable Chicago Now PAC
+
+- **Path:** `Donors & Power Networks/Super PACs/Affordable Chicago Now PAC.md`
+- **Current readiness:** `ready`
+- **Type:** `pac`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 2 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### America PAC - Elon Musk
+
+- **Path:** `Donors & Power Networks/Super PACs/America PAC - Elon Musk.md`
+- **Current readiness:** `ready`
+- **Type:** `pac`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Americans for Job Security
+
+- **Path:** `Donors & Power Networks/Super PACs/Americans for Job Security.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `zombie-block` — fec-committee-id=C30001135 but no <!-- auto:fec-donor --> block in body → **re-run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Arizonans for Affordable Electricity
+
+- **Path:** `Donors & Power Networks/Super PACs/Arizonans for Affordable Electricity.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `zombie-block` — fec-committee-id=C90018292 but no <!-- auto:fec-donor --> block in body → **re-run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Change Now
+
+- **Path:** `Donors & Power Networks/Super PACs/Change Now.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `zombie-block` — fec-committee-id=C00683599 but no <!-- auto:fec-donor --> block in body → **re-run fec pipeline**
+  - `a-plus-source-floor` — only 2 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Citizen Super PAC
+
+- **Path:** `Donors & Power Networks/Super PACs/Citizen Super PAC.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `zombie-block` — fec-committee-id=C00496927 but no <!-- auto:fec-donor --> block in body → **re-run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Committee for Defending American Values
+
+- **Path:** `Donors & Power Networks/Super PACs/Committee for Defending American Values.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `zombie-block` — fec-committee-id=C00759142 but no <!-- auto:fec-donor --> block in body → **re-run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### FF PAC
+
+- **Path:** `Donors & Power Networks/Super PACs/FF PAC.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Illinois Future PAC
+
+- **Path:** `Donors & Power Networks/Super PACs/Illinois Future PAC.md`
+- **Current readiness:** `ready`
+- **Type:** `pac`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### MAGA Inc
+
+- **Path:** `Donors & Power Networks/Super PACs/MAGA Inc.md`
+- **Current readiness:** `ready`
+- **Type:** `pac`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: - [Campaign Legal Center: Straw donor scheme involving MAGA Inc contributions](h → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Marble Freedom Trust
+
+- **Path:** `Donors & Power Networks/Super PACs/Marble Freedom Trust.md`
+- **Current readiness:** `ready`
+- **Type:** `pac`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 2 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Opportunity PAC - a Coalition of Teachers Health Care Givers Faculty Members School Employees and Public and Pr
+
+- **Path:** `Donors & Power Networks/Super PACs/Opportunity PAC - a Coalition of Teachers Health Care Givers Faculty Members School Employees and....md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `zombie-block` — fec-committee-id=C90016841 but no <!-- auto:fec-donor --> block in body → **re-run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Planned Parenthood Advocates of Kansas
+
+- **Path:** `Donors & Power Networks/Super PACs/Planned Parenthood Advocates of Kansas.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `zombie-block` — fec-committee-id=C90006719 but no <!-- auto:fec-donor --> block in body → **re-run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Planned Parenthood of KS & Mid-MO
+
+- **Path:** `Donors & Power Networks/Super PACs/Planned Parenthood of KS & Mid-MO.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `zombie-block` — fec-committee-id=C90006032 but no <!-- auto:fec-donor --> block in body → **re-run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Political Action for Lasting Security
+
+- **Path:** `Donors & Power Networks/Super PACs/Political Action for Lasting Security.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `zombie-block` — fec-committee-id=C00174748 but no <!-- auto:fec-donor --> block in body → **re-run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Sandre Swanson for Assembly 2010
+
+- **Path:** `Donors & Power Networks/Super PACs/Sandre Swanson for Assembly 2010.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `zombie-block` — fec-committee-id=C90012618 but no <!-- auto:fec-donor --> block in body → **re-run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Save America PAC
+
+- **Path:** `Donors & Power Networks/Super PACs/Save America PAC.md`
+- **Current readiness:** `ready`
+- **Type:** `pac`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-legal-review` — 2 defamation-prone phrases outside blockquotes: [Source: [NPR: January 6 Panel. Trump Campaign Misled Donors](https://www.npr.or | - [NPR: January 6 Panel. Trump Campaign Misled Donors](https://www.npr.org/2022/ → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Susan B. Anthony Pro-Life America PAC
+
+- **Path:** `Donors & Power Networks/Super PACs/Susan B. Anthony Pro-Life America PAC.md`
+- **Current readiness:** `ready`
+- **Type:** `pac`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 2 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### SV&B PAC
+
+- **Path:** `Donors & Power Networks/Super PACs/SV&B PAC.md`
+- **Current readiness:** `ready`
+- **Type:** `pac`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### The 60 Plus Association
+
+- **Path:** `Donors & Power Networks/Super PACs/The 60 Plus Association.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `zombie-block` — fec-committee-id=C30001671 but no <!-- auto:fec-donor --> block in body → **re-run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Trump Victory
+
+- **Path:** `Donors & Power Networks/Super PACs/Trump Victory.md`
+- **Current readiness:** `ready`
+- **Type:** `pac`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: ### The State Party Pass-Through Scheme → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### VIGOP
+
+- **Path:** `Donors & Power Networks/Super PACs/VIGOP.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `zombie-block` — fec-committee-id=C00553560 but no <!-- auto:fec-donor --> block in body → **re-run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Ben Horowitz
+
+- **Path:** `Donors & Power Networks/Tech & Crypto/Ben Horowitz.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Brad Garlinghouse
+
+- **Path:** `Donors & Power Networks/Tech & Crypto/Brad Garlinghouse.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Brian Armstrong
+
+- **Path:** `Donors & Power Networks/Tech & Crypto/Brian Armstrong.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### FTX - Sam Bankman-Fried
+
+- **Path:** `Donors & Power Networks/Tech & Crypto/FTX - Sam Bankman-Fried.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-legal-review` — 5 defamation-prone phrases outside blockquotes: #donor #crypto #dark-money #fraud #class-analysis #follow-the-money #both-sides- | ### Class Analysis — Fraud as Political Infrastructure → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Silicon Valley Democratic Donor Network
+
+- **Path:** `Donors & Power Networks/Tech & Crypto/Silicon Valley Democratic Donor Network.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 2 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Tech and Media Donors
+
+- **Path:** `Donors & Power Networks/Tech & Crypto/Tech and Media Donors.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 2 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Bank of America Charitable Gift Fund
+
+- **Path:** `Donors & Power Networks/Wall Street/Bank of America Charitable Gift Fund.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Bank of America
+
+- **Path:** `Donors & Power Networks/Wall Street/Bank of America.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (4):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: - [Department of Justice: Bank of America $16.65 billion settlement](https://www → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Blue Meridian Partners
+
+- **Path:** `Donors & Power Networks/Wall Street/Blue Meridian Partners.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Hedge Fund Industry Bloc
+
+- **Path:** `Donors & Power Networks/Wall Street/Hedge Fund Industry Bloc.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 2 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Private Equity Industry Bloc
+
+- **Path:** `Donors & Power Networks/Wall Street/Private Equity Industry Bloc.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 2 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### QVT Financial
+
+- **Path:** `Donors & Power Networks/Wall Street/QVT Financial.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (4):**
+  - `known-gap-pipeline` — known-gaps mentions "Auto-blocks stripped" — should be draft → **demote to draft**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Renaissance Charitable Foundation
+
+- **Path:** `Donors & Power Networks/Wall Street/Renaissance Charitable Foundation.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Robin Hood Foundation
+
+- **Path:** `Donors & Power Networks/Wall Street/Robin Hood Foundation.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Wall Street Bloc
+
+- **Path:** `Donors & Power Networks/Wall Street/Wall Street Bloc.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 2 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Wall Street Finance PACs
+
+- **Path:** `Donors & Power Networks/Wall Street/Wall Street Finance PACs.md`
+- **Current readiness:** `ready`
+- **Type:** `pac`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Wells Fargo
+
+- **Path:** `Donors & Power Networks/Wall Street/Wells Fargo.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (4):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-legal-review` — 4 defamation-prone phrases outside blockquotes: #wells-fargo #wall-street #consumer #fraud #fake-accounts #banking #charlotte | Wells Fargo is the clearest demonstration in the vault that "too big to fail" me → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Brownstein Hyatt Farber Schreck
+
+- **Path:** `Lobbying Firms & K Street/Brownstein Hyatt Farber Schreck.md`
+- **Current readiness:** `ready`
+- **Type:** `lobbying-firm`
+- **Issues (4):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: - [Common Dreams: Oil Lobbyist Turned Interior Chief Proposes Giving Contract to → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
 ### Pete Buttigieg
 
 - **Path:** `Politicians/Democrats/Biden Cabinet/Pete Buttigieg/_Pete Buttigieg Master Profile.md`
@@ -1107,6 +1987,2756 @@ Mode: DRY RUN (report only)
   - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
   - `missing-block` — no congress pipeline data (no key, no block) → **run congress pipeline**
   - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: - Hillbilly Elegy and the Class Fraud → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Agribusiness Donor Bloc
+
+- **Path:** `Donors & Power Networks/Agriculture/Agribusiness Donor Bloc.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Agricultural Labor Vulnerability Donors
+
+- **Path:** `Donors & Power Networks/Agriculture/Agricultural Labor Vulnerability Donors.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### American Farm Bureau Federation
+
+- **Path:** `Donors & Power Networks/Agriculture/American Farm Bureau Federation.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `a-plus-legal-review` — 2 defamation-prone phrases outside blockquotes: The American Farm Bureau Federation is a case study in institutional identity fr | **Issues lobbied:** Aerospace, Agriculture, Animals, Arts/Entertainment, Automot → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Fanjul Family - Florida Crystals
+
+- **Path:** `Donors & Power Networks/Agriculture/Fanjul Family - Florida Crystals.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Aramark
+
+- **Path:** `Donors & Power Networks/Carceral State/Aramark.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Bail Bond Industry
+
+- **Path:** `Donors & Power Networks/Carceral State/Bail Bond Industry.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### CCPOA - California Correctional Peace Officers Association
+
+- **Path:** `Donors & Power Networks/Carceral State/CCPOA - California Correctional Peace Officers Association.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### CoreCivic - Private Prisons
+
+- **Path:** `Donors & Power Networks/Carceral State/CoreCivic - Private Prisons.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Securus Technologies - Aventiv
+
+- **Path:** `Donors & Power Networks/Carceral State/Securus Technologies - Aventiv.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### ActBlue
+
+- **Path:** `Donors & Power Networks/Dark Money/ActBlue.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `a-plus-legal-review` — 2 defamation-prone phrases outside blockquotes: - [Texas Attorney General Ken Paxton: Investigation into ActBlue fraud and suspi | - [Washington Examiner: "Chaos and fraud: A look at the allegations facing ActBl → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### America First Policy Institute
+
+- **Path:** `Donors & Power Networks/Dark Money/America First Policy Institute.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Americans for Tax Reform - Grover Norquist
+
+- **Path:** `Donors & Power Networks/Dark Money/Americans for Tax Reform - Grover Norquist.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Arabella Advisors
+
+- **Path:** `Donors & Power Networks/Dark Money/Arabella Advisors.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Ballard Partners
+
+- **Path:** `Donors & Power Networks/Dark Money/Ballard Partners.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Bradley Foundation
+
+- **Path:** `Donors & Power Networks/Dark Money/Bradley Foundation.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: **Issues lobbied:** Budget/Appropriations, Defense, Economics/Economic Developme → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Concerned Veterans for America
+
+- **Path:** `Donors & Power Networks/Dark Money/Concerned Veterans for America.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Conservative Partnership Institute
+
+- **Path:** `Donors & Power Networks/Dark Money/Conservative Partnership Institute.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: CPI's structural function is filling the gap between the traditional conservativ → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### CREW - Citizens for Responsibility and Ethics in Washington
+
+- **Path:** `Donors & Power Networks/Dark Money/CREW - Citizens for Responsibility and Ethics in Washington.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Demand Justice
+
+- **Path:** `Donors & Power Networks/Dark Money/Demand Justice.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `a-plus-legal-review` — 2 defamation-prone phrases outside blockquotes: Here's the operative contradiction: Democratic Party rhetoric positions the Fede | **Issues lobbied:** Aerospace, Aviation/Airlines/Airports, Banking, Budget/Appro → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Democratic Donor Network
+
+- **Path:** `Donors & Power Networks/Dark Money/Democratic Donor Network.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Democratic Party Infrastructure
+
+- **Path:** `Donors & Power Networks/Dark Money/Democratic Party Infrastructure.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Democratic Small Dollar Networks
+
+- **Path:** `Donors & Power Networks/Dark Money/Democratic Small Dollar Networks.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Donors Capital Fund
+
+- **Path:** `Donors & Power Networks/Dark Money/Donors Capital Fund.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Entertainment and Hollywood Donors
+
+- **Path:** `Donors & Power Networks/Dark Money/Entertainment and Hollywood Donors.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Environmental Law & Policy Center
+
+- **Path:** `Donors & Power Networks/Dark Money/Environmental Law & Policy Center.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### House Freedom Caucus
+
+- **Path:** `Donors & Power Networks/Dark Money/Freedom Caucus.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Freedom Partners Chamber of Commerce
+
+- **Path:** `Donors & Power Networks/Dark Money/Freedom Partners.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: **Issues lobbied:** Accounting, Animals, Banking, Budget/Appropriations, Civil R → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Gun Owners of America
+
+- **Path:** `Donors & Power Networks/Dark Money/Gun Owners of America.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### HBW Resources
+
+- **Path:** `Donors & Power Networks/Dark Money/HBW Resources.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Healthcare Sector
+
+- **Path:** `Donors & Power Networks/Dark Money/Healthcare Sector.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Heritage Foundation
+
+- **Path:** `Donors & Power Networks/Dark Money/Heritage Foundation.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: **Issues lobbied:** Agriculture, Arts/Entertainment, Banking, Budget/Appropriati → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Majority Forward
+
+- **Path:** `Donors & Power Networks/Dark Money/Majority Forward.md`
+- **Current readiness:** `ready`
+- **Type:** `pac`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### New Venture Fund
+
+- **Path:** `Donors & Power Networks/Dark Money/New Venture Fund.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Ocean Conservancy
+
+- **Path:** `Donors & Power Networks/Dark Money/Ocean Conservancy.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Ohio Federation of Teachers
+
+- **Path:** `Donors & Power Networks/Dark Money/Ohio Federation of Teachers.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Organizing for Action
+
+- **Path:** `Donors & Power Networks/Dark Money/Organizing for Action.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Small Dollar Donors - ActBlue
+
+- **Path:** `Donors & Power Networks/Dark Money/Small Dollar Donors - ActBlue.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Stand Together
+
+- **Path:** `Donors & Power Networks/Dark Money/Stand Together.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `a-plus-legal-review` — 8 defamation-prone phrases outside blockquotes: **Criminal justice "reform" as libertarian state-reduction:** Stand Together's m | **Think tanks:** Heritage Foundation (model legislation factory), Cato Institute → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### The 85 Fund
+
+- **Path:** `Donors & Power Networks/Dark Money/The 85 Fund.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### TPUSA - Turning Point USA
+
+- **Path:** `Donors & Power Networks/Dark Money/TPUSA - Turning Point USA.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Trial Lawyers Fund
+
+- **Path:** `Donors & Power Networks/Dark Money/Trial Lawyers Fund.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Trump 2024 Campaign
+
+- **Path:** `Donors & Power Networks/Dark Money/Trump 2024 Campaign.md`
+- **Current readiness:** `ready`
+- **Type:** `pac`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Trump Donor Coalition
+
+- **Path:** `Donors & Power Networks/Dark Money/Trump Donor Coalition.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### US Chamber of Commerce
+
+- **Path:** `Donors & Power Networks/Dark Money/US Chamber of Commerce.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Anduril Industries
+
+- **Path:** `Donors & Power Networks/Defense & Intelligence/Anduril Industries.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: - ~~[Reuters: Anduril pre-IPO fraud charges](https://www.reuters.com/legal/gover → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Bechtel Corporation
+
+- **Path:** `Donors & Power Networks/Defense & Intelligence/Bechtel Corporation.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: | Case Types | 360 P.I.: Other, 370 Other Fraud, 380 Personal Property: Other, 4 → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Boeing
+
+- **Path:** `Donors & Power Networks/Defense & Intelligence/Boeing.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Defense Contractors Bloc
+
+- **Path:** `Donors & Power Networks/Defense & Intelligence/Defense Contractors Bloc.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Defense Contractors
+
+- **Path:** `Donors & Power Networks/Defense & Intelligence/Defense Contractors.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Defense Industry Bloc
+
+- **Path:** `Donors & Power Networks/Defense & Intelligence/Defense Industry Bloc.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Defense Industry
+
+- **Path:** `Donors & Power Networks/Defense & Intelligence/Defense Industry.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### General Dynamics
+
+- **Path:** `Donors & Power Networks/Defense & Intelligence/General Dynamics.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Honeywell International
+
+- **Path:** `Donors & Power Networks/Defense & Intelligence/Honeywell.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### L3 Technologies
+
+- **Path:** `Donors & Power Networks/Defense & Intelligence/L3 Technologies.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### L3Harris Technologies
+
+- **Path:** `Donors & Power Networks/Defense & Intelligence/L3Harris Technologies.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Lockheed Martin
+
+- **Path:** `Donors & Power Networks/Defense & Intelligence/Lockheed Martin.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Northrop Grumman
+
+- **Path:** `Donors & Power Networks/Defense & Intelligence/Northrop Grumman.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Nucor Corporation
+
+- **Path:** `Donors & Power Networks/Defense & Intelligence/Nucor Corporation.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Raytheon (RTX Corporation)
+
+- **Path:** `Donors & Power Networks/Defense & Intelligence/Raytheon (RTX).md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `a-plus-legal-review` — 6 defamation-prone phrases outside blockquotes: #donor #defense #corporation #military-industrial-complex #lobbying #revolving-d | ### The $950 Million DOJ Fraud Settlement (October 2024) → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### California Charter Schools Association
+
+- **Path:** `Donors & Power Networks/Education/California Charter Schools Association.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### DeVos Family
+
+- **Path:** `Donors & Power Networks/Education/DeVos Family.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Student Loan Servicer Industry
+
+- **Path:** `Donors & Power Networks/Education/Student Loan Servicer Industry.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Walton Family Foundation
+
+- **Path:** `Donors & Power Networks/Education/Walton Family Foundation.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Alabama Power
+
+- **Path:** `Donors & Power Networks/Energy & Utilities/Alabama Power.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### American Fuel and Petrochemical Manufacturers
+
+- **Path:** `Donors & Power Networks/Energy & Utilities/American Fuel and Petrochemical Manufacturers.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: **Issues lobbied:** Aerospace, Agriculture, Animals, Arts/Entertainment, Automot → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### ConocoPhillips
+
+- **Path:** `Donors & Power Networks/Energy & Utilities/ConocoPhillips.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: **Issues lobbied:** Clean Air and Water (quality), Energy/Nuclear, Environment/S → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Consumer Energy Alliance
+
+- **Path:** `Donors & Power Networks/Energy & Utilities/Consumer Energy Alliance.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Drummond Co.
+
+- **Path:** `Donors & Power Networks/Energy & Utilities/Drummond Co.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: | Case Types | 360 P.I.: Other, 370 Other Fraud, 410 Anti-Trust, 440 Civil Right → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Duke Energy
+
+- **Path:** `Donors & Power Networks/Energy & Utilities/Duke Energy.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Enterprise Products Partners
+
+- **Path:** `Donors & Power Networks/Energy & Utilities/Enterprise Products Partners.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `a-plus-legal-review` — 2 defamation-prone phrases outside blockquotes: | Case Types | 190 Contract: Other, 370 Other Fraud, 440 Civil Rights: Other, 44 | **Issues lobbied:** Accounting, Aerospace, Agriculture, Automotive Industry, Avi → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Ethanol Industry
+
+- **Path:** `Donors & Power Networks/Energy & Utilities/Ethanol Industry.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### ExxonMobil
+
+- **Path:** `Donors & Power Networks/Energy & Utilities/ExxonMobil.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Fossil Fuel Bloc
+
+- **Path:** `Donors & Power Networks/Energy & Utilities/Fossil Fuel Bloc.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Halliburton
+
+- **Path:** `Donors & Power Networks/Energy & Utilities/Halliburton.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Hawaiian Electric Company
+
+- **Path:** `Donors & Power Networks/Energy & Utilities/Hawaiian Electric Company.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Koch Industries
+
+- **Path:** `Donors & Power Networks/Energy & Utilities/Koch Industries.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Marathon Petroleum
+
+- **Path:** `Donors & Power Networks/Energy & Utilities/Marathon Petroleum.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### NextEra Energy
+
+- **Path:** `Donors & Power Networks/Energy & Utilities/NextEra Energy.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Occidental Petroleum
+
+- **Path:** `Donors & Power Networks/Energy & Utilities/Occidental Petroleum.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Oil & Gas PACs
+
+- **Path:** `Donors & Power Networks/Energy & Utilities/Oil & Gas PACs.md`
+- **Current readiness:** `ready`
+- **Type:** `pac`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Petrochemical Industry Bloc
+
+- **Path:** `Donors & Power Networks/Energy & Utilities/Petrochemical Industry Bloc.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### PG&E - Pacific Gas and Electric
+
+- **Path:** `Donors & Power Networks/Energy & Utilities/PG&E - Pacific Gas and Electric.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Southern Company
+
+- **Path:** `Donors & Power Networks/Energy & Utilities/Southern Company.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: **Issues lobbied:** Agriculture, Budget/Appropriations, Civil Rights/Civil Liber → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Valero Energy
+
+- **Path:** `Donors & Power Networks/Energy & Utilities/Valero Energy.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: | Case Types | 2899 Other Statutes APA/Review Agency, 470 Other Statutes: Racket → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Western States Petroleum Association
+
+- **Path:** `Donors & Power Networks/Energy & Utilities/Western States Petroleum Association.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Williams Companies
+
+- **Path:** `Donors & Power Networks/Energy & Utilities/Williams Companies.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### WSPA - Western States Petroleum Association
+
+- **Path:** `Donors & Power Networks/Energy & Utilities/WSPA - Western States Petroleum Association.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Gulf State Money - Saudi Arabia, UAE, Qatar
+
+- **Path:** `Donors & Power Networks/Foreign/Gulf State Money - Saudi Arabia, UAE, Qatar.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Israel - Government Lobbying Operation
+
+- **Path:** `Donors & Power Networks/Foreign/Israel - Government Lobbying Operation.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Saudi Arabia - Kingdom Investment
+
+- **Path:** `Donors & Power Networks/Foreign/Saudi Arabia - Kingdom Investment.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Turkey - Erdogan Lobbying Operation
+
+- **Path:** `Donors & Power Networks/Foreign/Turkey - Erdogan Lobbying Operation.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Airbnb
+
+- **Path:** `Donors & Power Networks/Gig Economy/Airbnb.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### American Gaming Association
+
+- **Path:** `Donors & Power Networks/Gig Economy/American Gaming Association.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: | ASSOCIATION OF STATE CRIMINAL INVESTIGATIVE AGENCIES | $13K | 1 | 2024 | → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### DoorDash
+
+- **Path:** `Donors & Power Networks/Gig Economy/DoorDash.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Flex Association
+
+- **Path:** `Donors & Power Networks/Gig Economy/Flex Association.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Ford Motor Company
+
+- **Path:** `Donors & Power Networks/Gig Economy/Ford Motor Company.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Instacart
+
+- **Path:** `Donors & Power Networks/Gig Economy/Instacart.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Anthem - Elevance Health Political Operation
+
+- **Path:** `Donors & Power Networks/Healthcare/Anthem - Elevance Health Political Operation.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Blue Cross Blue Shield Association
+
+- **Path:** `Donors & Power Networks/Healthcare/Blue Cross Blue Shield Association.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Blue Shield of California
+
+- **Path:** `Donors & Power Networks/Healthcare/Blue Shield of California.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: **Issues lobbied:** Aerospace, Agriculture, Alcohol and Drug Abuse, Animals, Ban → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Civica Rx
+
+- **Path:** `Donors & Power Networks/Healthcare/Civica Rx.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Hospital Corporation of America - HCA
+
+- **Path:** `Donors & Power Networks/Healthcare/Hospital Corporation of America - HCA.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Insurance Industry Bloc
+
+- **Path:** `Donors & Power Networks/Healthcare/Insurance Industry Bloc.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Insurance Industry
+
+- **Path:** `Donors & Power Networks/Healthcare/Insurance Industry.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: **Issues lobbied:** Accounting, Agriculture, Alcohol and Drug Abuse, Automotive  → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Kaiser Permanente
+
+- **Path:** `Donors & Power Networks/Healthcare/Kaiser Permanente.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts
+
+- **Path:** `Donors & Power Networks/Healthcare Industry/PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Christians United for Israel
+
+- **Path:** `Donors & Power Networks/Israel Lobby/Christians United for Israel.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### DMFI - Democratic Majority for Israel
+
+- **Path:** `Donors & Power Networks/Israel Lobby/DMFI - Democratic Majority for Israel.md`
+- **Current readiness:** `ready`
+- **Type:** `pac`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Haim Saban
+
+- **Path:** `Donors & Power Networks/Israel Lobby/Haim Saban.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: | Case Types | 320 Assault Libel & Slander, 440 Civil Rights: Other, 470 Rackete → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Mark Mellman
+
+- **Path:** `Donors & Power Networks/Israel Lobby/Mark Mellman.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `a-plus-source-floor` — only 2 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### One Israel Fund
+
+- **Path:** `Donors & Power Networks/Israel Lobby/One Israel Fund.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Jeffrey Epstein Network
+
+- **Path:** `Donors & Power Networks/Jeffrey Epstein Network.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### California Building and Construction Trades Council
+
+- **Path:** `Donors & Power Networks/Labor Unions/California Building and Construction Trades Council.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### California Labor Federation
+
+- **Path:** `Donors & Power Networks/Labor Unions/California Labor Federation.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: **The containment thesis:** The Federation's structural function in the vault's  → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### IBEW California State Association
+
+- **Path:** `Donors & Power Networks/Labor Unions/IBEW California State Association.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### IBEW Local 440 - Riverside
+
+- **Path:** `Donors & Power Networks/Labor Unions/IBEW Local 440 - Riverside.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### IBEW Local 477 - San Bernardino
+
+- **Path:** `Donors & Power Networks/Labor Unions/IBEW Local 477 - San Bernardino.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### National Nurses United
+
+- **Path:** `Donors & Power Networks/Labor Unions/National Nurses United.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: **Issues lobbied:** Advertising, Agriculture, Animals, Arts/Entertainment, Autom → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Ohio AFL-CIO
+
+- **Path:** `Donors & Power Networks/Labor Unions/Ohio AFL-CIO.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: **Issues lobbied:** Aerospace, Agriculture, Aviation/Airlines/Airports, Budget/A → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### UAW - United Auto Workers
+
+- **Path:** `Donors & Power Networks/Labor Unions/UAW - United Auto Workers.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `a-plus-legal-review` — 3 defamation-prone phrases outside blockquotes: ### The Scheme: Two Interlocking Mechanisms | The General Motors civil lawsuit (filed August 2020) alleged the scheme was even → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### UFCW - United Food and Commercial Workers
+
+- **Path:** `Donors & Power Networks/Labor Unions/UFCW - United Food and Commercial Workers.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Fraternal Order of Police
+
+- **Path:** `Donors & Power Networks/Law Enforcement/Fraternal Order of Police.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: **Issues lobbied:** Aviation/Airlines/Airports, Budget/Appropriations, Education → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### International Association of Chiefs of Police
+
+- **Path:** `Donors & Power Networks/Law Enforcement/International Association of Chiefs of Police.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Riverside Sheriffs Association
+
+- **Path:** `Donors & Power Networks/Law Enforcement/Riverside Sheriffs Association.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Leonard Leo
+
+- **Path:** `Donors & Power Networks/Leonard Leo.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### AT&T
+
+- **Path:** `Donors & Power Networks/Media & Entertainment/AT&T - WarnerMedia.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: | Case Types | 440 Civil Rights: Other, 470 Racketeer/Corrupt Organization, 751  → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Comcast - NBCUniversal
+
+- **Path:** `Donors & Power Networks/Media & Entertainment/Comcast - NBCUniversal.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Hollywood Democratic Donor Network
+
+- **Path:** `Donors & Power Networks/Media & Entertainment/Hollywood Democratic Donor Network.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### iHeartMedia
+
+- **Path:** `Donors & Power Networks/Media & Entertainment/iHeartMedia.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### News Corp - Fox Corporation
+
+- **Path:** `Donors & Power Networks/Media & Entertainment/News Corp - Fox Corporation.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `a-plus-legal-review` — 3 defamation-prone phrases outside blockquotes: **Agenda Setting Power:** Fox News does not merely report conservative politics, | **Dominion Settlement as Cost of Business:** The $787.5 million Dominion settlem → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Sinclair Broadcasting Group
+
+- **Path:** `Donors & Power Networks/Media & Entertainment/Sinclair Broadcasting Group.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Verizon
+
+- **Path:** `Donors & Power Networks/Media & Entertainment/Verizon.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Walt Disney Company
+
+- **Path:** `Donors & Power Networks/Media & Entertainment/Walt Disney Company.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Ajay Royan
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Ajay Royan.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Centene Corporation PAC
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Centene Corporation PAC.md`
+- **Current readiness:** `ready`
+- **Type:** `pac`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Dustin Moskovitz
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Dustin Moskovitz.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Gates Foundation
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Gates Foundation.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### George Soros
+
+- **Path:** `Donors & Power Networks/Mega-Donors/George Soros.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Jeffrey Yass
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Jeffrey Yass.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Kelcy Warren - Energy Transfer Partners
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Kelcy Warren - Energy Transfer Partners.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Kelcy Warren
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Kelcy Warren.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Koch Network - Charles Koch
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Koch Network - Charles Koch.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Koch network
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Koch network.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Laurene Powell Jobs
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Laurene Powell Jobs.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Les Wexner - Wexner Family Enterprises
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Les Wexner - Wexner Family Enterprises.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Michael Bloomberg
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Michael Bloomberg.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Miriam Adelson
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Miriam Adelson.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Narya Capital
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Narya Capital.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Palantir Technologies Political Operation
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Palantir Technologies Political Operation.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Palantir Technologies
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Palantir.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Paul Singer
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Paul Singer.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: **Issues lobbied:** Accounting, Aerospace, Budget/Appropriations, Civil Rights/C → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Peter Thiel
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Peter Thiel.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Richard and Elizabeth Uihlein
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Richard and Elizabeth Uihlein.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-source-floor` — only 2 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Robert Mercer
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Robert Mercer.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: | Case Types | 365 Personal Inj. Prod. Liability, 440 Civil Rights: Other, 470 R → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Ross Stevens
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Ross Stevens.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Sam Bankman-Fried
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Sam Bankman-Fried.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `a-plus-legal-review` — 3 defamation-prone phrases outside blockquotes: #sbf #ftx #crypto #fraud #democratic-donor #bipartisan #effective-altruism | The "effective altruism" packaging was the class innovation. SBF wrapped crypto  → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Sheldon & Miriam Adelson
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Sheldon Adelson.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Stephen Schwarzman
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Stephen Schwarzman.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Susquehanna International Group
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Susquehanna International Group.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Timothy Mellon
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Timothy Mellon.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### UPS
+
+- **Path:** `Donors & Power Networks/Mega-Donors/UPS.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Walmart - Walton Family
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Walmart - Walton Family.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Winklevoss Twins
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Winklevoss Twins.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### AbbVie
+
+- **Path:** `Donors & Power Networks/Pharma & Healthcare/AbbVie.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Eli Lilly
+
+- **Path:** `Donors & Power Networks/Pharma & Healthcare/Eli Lilly.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: **Issues lobbied:** Aerospace, Agriculture, Banking, Budget/Appropriations, Clea → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Gilead Sciences
+
+- **Path:** `Donors & Power Networks/Pharma & Healthcare/Gilead Sciences.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: | Case Types | 360 P.I.: Other, 470 Racketeer/Corrupt Organization, 835 Patent - → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Johnson & Johnson
+
+- **Path:** `Donors & Power Networks/Pharma & Healthcare/Johnson & Johnson.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Meatpacking Corporations
+
+- **Path:** `Donors & Power Networks/Pharma & Healthcare/Meatpacking Corporations.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Merck
+
+- **Path:** `Donors & Power Networks/Pharma & Healthcare/Merck.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Moderna
+
+- **Path:** `Donors & Power Networks/Pharma & Healthcare/Moderna.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Pharmaceutical Industry Bloc
+
+- **Path:** `Donors & Power Networks/Pharma & Healthcare/Pharmaceutical Industry Bloc.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Pharmaceutical Industry
+
+- **Path:** `Donors & Power Networks/Pharma & Healthcare/Pharmaceutical Industry.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### PhRMA - Pharmaceutical Research and Manufacturers of America
+
+- **Path:** `Donors & Power Networks/Pharma & Healthcare/PhRMA.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Blackstone Real Estate
+
+- **Path:** `Donors & Power Networks/Real Estate/Blackstone Real Estate.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: | Case Types | 190 Contract: Other, 230 Rent Lease & Ejectment, 360 P.I.: Other, → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### CBRE Group
+
+- **Path:** `Donors & Power Networks/Real Estate/CBRE Group.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Las Vegas Sands
+
+- **Path:** `Donors & Power Networks/Real Estate/Las Vegas Sands.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Lennar Corporation
+
+- **Path:** `Donors & Power Networks/Real Estate/Lennar Corporation.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `a-plus-legal-review` — 2 defamation-prone phrases outside blockquotes: Lennar and Five Point developed and sold homes while the contamination fraud was | The Hunters Point development makes the class function explicit: Lennar extracte → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### National Association of Realtors
+
+- **Path:** `Donors & Power Networks/Real Estate/National Association of Realtors.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Real Estate Board of New York
+
+- **Path:** `Donors & Power Networks/Real Estate/Real Estate Board of New York.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Real Estate Development Industry Bloc
+
+- **Path:** `Donors & Power Networks/Real Estate/Real Estate Development Industry Bloc.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Real Estate Industry Bloc
+
+- **Path:** `Donors & Power Networks/Real Estate/Real Estate Industry Bloc.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Real Estate Industry
+
+- **Path:** `Donors & Power Networks/Real Estate/Real Estate Industry.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: | Case Types | 190 Contract: Other, 360 P.I.: Other, 370 Other Fraud, 791 Labor: → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Real Estate Roundtable
+
+- **Path:** `Donors & Power Networks/Real Estate/Real Estate Roundtable.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### National Multifamily Housing Council
+
+- **Path:** `Donors & Power Networks/Real Estate & Housing/National Multifamily Housing Council.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### National Rental Home Council
+
+- **Path:** `Donors & Power Networks/Real Estate & Housing/National Rental Home Council.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### McDonalds Corporation
+
+- **Path:** `Donors & Power Networks/Restaurant & Food/McDonalds Corporation.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### National Restaurant Association
+
+- **Path:** `Donors & Power Networks/Restaurant & Food/National Restaurant Association.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: **Issues lobbied:** Advertising, Agriculture, Animals, Arts/Entertainment, Autom → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Americans for Prosperity
+
+- **Path:** `Donors & Power Networks/Super PACs/Americans for Prosperity.md`
+- **Current readiness:** `ready`
+- **Type:** `pac`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Club for Growth
+
+- **Path:** `Donors & Power Networks/Super PACs/Club for Growth.md`
+- **Current readiness:** `ready`
+- **Type:** `pac`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Congressional Leadership Fund
+
+- **Path:** `Donors & Power Networks/Super PACs/Congressional Leadership Fund.md`
+- **Current readiness:** `ready`
+- **Type:** `pac`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Democratic Governors Association
+
+- **Path:** `Donors & Power Networks/Super PACs/Democratic Governors Association.md`
+- **Current readiness:** `ready`
+- **Type:** `pac`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Democratic Senatorial Campaign Committee
+
+- **Path:** `Donors & Power Networks/Super PACs/Democratic Senatorial Campaign Committee.md`
+- **Current readiness:** `ready`
+- **Type:** `pac`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### DonorsTrust
+
+- **Path:** `Donors & Power Networks/Super PACs/DonorsTrust.md`
+- **Current readiness:** `ready`
+- **Type:** `pac`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### DSCC - Democratic Senatorial Campaign Committee
+
+- **Path:** `Donors & Power Networks/Super PACs/DSCC - Democratic Senatorial Campaign Committee.md`
+- **Current readiness:** `ready`
+- **Type:** `pac`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Elect Chicago Women PAC
+
+- **Path:** `Donors & Power Networks/Super PACs/Elect Chicago Women PAC.md`
+- **Current readiness:** `ready`
+- **Type:** `pac`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Emilys List
+
+- **Path:** `Donors & Power Networks/Super PACs/Emilys List.md`
+- **Current readiness:** `ready`
+- **Type:** `pac`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Future Forward USA Action
+
+- **Path:** `Donors & Power Networks/Super PACs/Future Forward USA Action.md`
+- **Current readiness:** `ready`
+- **Type:** `pac`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Great Lakes Conservatives Fund
+
+- **Path:** `Donors & Power Networks/Super PACs/Great Lakes Conservatives Fund.md`
+- **Current readiness:** `ready`
+- **Type:** `pac`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### House Majority PAC
+
+- **Path:** `Donors & Power Networks/Super PACs/House Majority PAC.md`
+- **Current readiness:** `ready`
+- **Type:** `pac`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### League of Conservation Voters
+
+- **Path:** `Donors & Power Networks/Super PACs/League of Conservation Voters.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### MAGA Small Dollar Base
+
+- **Path:** `Donors & Power Networks/Super PACs/MAGA Small Dollar Base.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### National Republican Senatorial Committee
+
+- **Path:** `Donors & Power Networks/Super PACs/National Republican Senatorial Committee.md`
+- **Current readiness:** `ready`
+- **Type:** `pac`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### National Rifle Association
+
+- **Path:** `Donors & Power Networks/Super PACs/National Rifle Association.md`
+- **Current readiness:** `ready`
+- **Type:** `pac`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### One Nation
+
+- **Path:** `Donors & Power Networks/Super PACs/One Nation.md`
+- **Current readiness:** `ready`
+- **Type:** `pac`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Preserve America
+
+- **Path:** `Donors & Power Networks/Super PACs/Preserve America.md`
+- **Current readiness:** `ready`
+- **Type:** `pac`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Priorities USA Action
+
+- **Path:** `Donors & Power Networks/Super PACs/Priorities USA Action.md`
+- **Current readiness:** `ready`
+- **Type:** `pac`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Reclaim America PAC
+
+- **Path:** `Donors & Power Networks/Super PACs/Reclaim America PAC.md`
+- **Current readiness:** `ready`
+- **Type:** `pac`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Senate Leadership Fund
+
+- **Path:** `Donors & Power Networks/Super PACs/Senate Leadership Fund.md`
+- **Current readiness:** `ready`
+- **Type:** `pac`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Senate Majority PAC
+
+- **Path:** `Donors & Power Networks/Super PACs/Senate Majority PAC.md`
+- **Current readiness:** `ready`
+- **Type:** `pac`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Sentinel Action Fund
+
+- **Path:** `Donors & Power Networks/Super PACs/Sentinel Action Fund.md`
+- **Current readiness:** `ready`
+- **Type:** `pac`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### United Democracy Project - UDP
+
+- **Path:** `Donors & Power Networks/Super PACs/United Democracy Project - UDP.md`
+- **Current readiness:** `ready`
+- **Type:** `pac`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Winning for Women PAC
+
+- **Path:** `Donors & Power Networks/Super PACs/Winning for Women PAC.md`
+- **Current readiness:** `ready`
+- **Type:** `pac`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### WinRed
+
+- **Path:** `Donors & Power Networks/Super PACs/WinRed.md`
+- **Current readiness:** `ready`
+- **Type:** `pac`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Anthropic
+
+- **Path:** `Donors & Power Networks/Tech & Crypto/Anthropic.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Apple
+
+- **Path:** `Donors & Power Networks/Tech & Crypto/Apple.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: **Issues lobbied:** Agriculture, Aviation/Airlines/Airports, Banking, Budget/App → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Chris Larsen
+
+- **Path:** `Donors & Power Networks/Tech & Crypto/Chris Larsen.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Coinbase
+
+- **Path:** `Donors & Power Networks/Tech & Crypto/Coinbase.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Craft Ventures
+
+- **Path:** `Donors & Power Networks/Tech & Crypto/Craft Ventures.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: **Issues lobbied:** Alcohol and Drug Abuse, Beverage Industry, Budget/Appropriat → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Cryptocurrency Industry
+
+- **Path:** `Donors & Power Networks/Tech & Crypto/Cryptocurrency Industry.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Eric Schmidt
+
+- **Path:** `Donors & Power Networks/Tech & Crypto/Eric Schmidt.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Founders Fund
+
+- **Path:** `Donors & Power Networks/Tech & Crypto/Founders Fund.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Google - Alphabet
+
+- **Path:** `Donors & Power Networks/Tech & Crypto/Google - Alphabet.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Jump Crypto
+
+- **Path:** `Donors & Power Networks/Tech & Crypto/Jump Crypto.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Marc Andreessen & Horowitz
+
+- **Path:** `Donors & Power Networks/Tech & Crypto/Marc Andreessen & Horowitz.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Microsoft
+
+- **Path:** `Donors & Power Networks/Tech & Crypto/Microsoft.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: **Issues lobbied:** Budget/Appropriations, Communications/Broadcasting/Radio/TV, → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Mithril Capital
+
+- **Path:** `Donors & Power Networks/Tech & Crypto/Mithril Capital.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: | Case Types | 13 Recovery of money/property - 548 fraudulent transfer; 14 Recov → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Nvidia
+
+- **Path:** `Donors & Power Networks/Tech & Crypto/Nvidia.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### OpenAI
+
+- **Path:** `Donors & Power Networks/Tech & Crypto/OpenAI.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Oracle
+
+- **Path:** `Donors & Power Networks/Tech & Crypto/Oracle.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: **Issues lobbied:** Budget/Appropriations, Computer Industry, Consumer Issues/Sa → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Silicon Valley Donors
+
+- **Path:** `Donors & Power Networks/Tech & Crypto/Silicon Valley Donors.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### SpaceX
+
+- **Path:** `Donors & Power Networks/Tech & Crypto/SpaceX.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Tesla - Elon Musk Political Operation
+
+- **Path:** `Donors & Power Networks/Tech & Crypto/Tesla - Elon Musk Political Operation.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Valinor Enterprises
+
+- **Path:** `Donors & Power Networks/Tech & Crypto/Valinor Enterprises.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### World Liberty Financial
+
+- **Path:** `Donors & Power Networks/Tech & Crypto/World Liberty Financial.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: **Issues lobbied:** Agriculture, Alcohol and Drug Abuse, Animals, Apparel/Clothi → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Apollo Global Management
+
+- **Path:** `Donors & Power Networks/Wall Street/Apollo Global Management.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### BlackRock
+
+- **Path:** `Donors & Power Networks/Wall Street/Blackrock.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Blackstone Group
+
+- **Path:** `Donors & Power Networks/Wall Street/Blackstone Group.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: | Case Types | 440 Civil Rights: Other, 443 Civil Rights: Accommodations, 448 Ci → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### CalPERS
+
+- **Path:** `Donors & Power Networks/Wall Street/CalPERS.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `a-plus-legal-review` — 5 defamation-prone phrases outside blockquotes: The most revealing episode in CalPERS history: the placement agent bribery schem | **The scheme:** Villalobos paid Buenrostro approximately $250,000 in cash (deliv → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### CalSTRS - California State Teachers' Retirement System
+
+- **Path:** `Donors & Power Networks/Wall Street/CalSTRS.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Carlyle Group
+
+- **Path:** `Donors & Power Networks/Wall Street/Carlyle Group.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Charles Schwab
+
+- **Path:** `Donors & Power Networks/Wall Street/Charles Schwab.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Citadel - Kenneth Griffin
+
+- **Path:** `Donors & Power Networks/Wall Street/Citadel - Kenneth Griffin.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Fidelity Investments
+
+- **Path:** `Donors & Power Networks/Wall Street/Fidelity Investments.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Financial Services Donors
+
+- **Path:** `Donors & Power Networks/Wall Street/Financial Services Donors.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Goldman Sachs
+
+- **Path:** `Donors & Power Networks/Wall Street/Goldman Sachs.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `a-plus-legal-review` — 2 defamation-prone phrases outside blockquotes: - **Steven Mnuchin** (Goldman partner 1985–2002, CEO of Goldman Sachs Mortgage C | 6. **SEC Enforcement Reduction**. Goldman has faced zero criminal prosecutions r → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### JPMorgan Chase
+
+- **Path:** `Donors & Power Networks/Wall Street/JPMorgan.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `a-plus-legal-review` — 4 defamation-prone phrases outside blockquotes: **$13 billion settlement without criminal charges (2013):** The Department of Ju | | Nov 2013 | $13B settlement | $9B fines + $4B relief | Civil immunity granted,  → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### MassMutual
+
+- **Path:** `Donors & Power Networks/Wall Street/MassMutual.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### MBNA Corporation
+
+- **Path:** `Donors & Power Networks/Wall Street/MBNA Corporation.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Morgan Stanley
+
+- **Path:** `Donors & Power Networks/Wall Street/Morgan Stanley.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Securities & Investment Industry
+
+- **Path:** `Donors & Power Networks/Wall Street/Securities & Investment Industry.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Trump Media & Technology Group
+
+- **Path:** `Donors & Power Networks/Wall Street/Trump Media & Technology Group.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Trump Organization
+
+- **Path:** `Donors & Power Networks/Wall Street/Trump Organization.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Wall Street Finance Networks
+
+- **Path:** `Donors & Power Networks/Wall Street/Wall Street Finance Networks.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Walmart
+
+- **Path:** `Donors & Power Networks/Wall Street/Walmart.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `a-plus-legal-review` — 5 defamation-prone phrases outside blockquotes: The Walton heirs. Jim C. Walton, Alice Walton, Rob Walton, and their descendants | - **California Proposition 36** (criminal sentencing): $3.5+ million from Walton → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Akin Gump Strauss Hauer & Feld
+
+- **Path:** `Lobbying Firms & K Street/Akin Gump Strauss Hauer & Feld.md`
+- **Current readiness:** `ready`
+- **Type:** `lobbying-firm`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Alpine Group
+
+- **Path:** `Lobbying Firms & K Street/Alpine Group.md`
+- **Current readiness:** `ready`
+- **Type:** `lobbying-firm`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Ballard Partners
+
+- **Path:** `Lobbying Firms & K Street/Ballard Partners.md`
+- **Current readiness:** `ready`
+- **Type:** `lobbying-firm`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### BGR Group
+
+- **Path:** `Lobbying Firms & K Street/BGR Group.md`
+- **Current readiness:** `ready`
+- **Type:** `lobbying-firm`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Capitol Counsel
+
+- **Path:** `Lobbying Firms & K Street/Capitol Counsel.md`
+- **Current readiness:** `ready`
+- **Type:** `lobbying-firm`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Cassidy & Associates
+
+- **Path:** `Lobbying Firms & K Street/Cassidy & Associates.md`
+- **Current readiness:** `ready`
+- **Type:** `lobbying-firm`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Cornerstone Government Affairs
+
+- **Path:** `Lobbying Firms & K Street/Cornerstone Government Affairs.md`
+- **Current readiness:** `ready`
+- **Type:** `lobbying-firm`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Crossroads Strategies
+
+- **Path:** `Lobbying Firms & K Street/Crossroads Strategies.md`
+- **Current readiness:** `ready`
+- **Type:** `lobbying-firm`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Fierce Government Relations
+
+- **Path:** `Lobbying Firms & K Street/Fierce Government Relations.md`
+- **Current readiness:** `ready`
+- **Type:** `lobbying-firm`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Forbes Tate Partners
+
+- **Path:** `Lobbying Firms & K Street/Forbes Tate Partners.md`
+- **Current readiness:** `ready`
+- **Type:** `lobbying-firm`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Holland & Knight
+
+- **Path:** `Lobbying Firms & K Street/Holland & Knight.md`
+- **Current readiness:** `ready`
+- **Type:** `lobbying-firm`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Invariant
+
+- **Path:** `Lobbying Firms & K Street/Invariant.md`
+- **Current readiness:** `ready`
+- **Type:** `lobbying-firm`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### K&L Gates
+
+- **Path:** `Lobbying Firms & K Street/K&L Gates.md`
+- **Current readiness:** `ready`
+- **Type:** `lobbying-firm`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Mehlman Consulting
+
+- **Path:** `Lobbying Firms & K Street/Mehlman Consulting.md`
+- **Current readiness:** `ready`
+- **Type:** `lobbying-firm`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Mercury Public Affairs
+
+- **Path:** `Lobbying Firms & K Street/Mercury Public Affairs.md`
+- **Current readiness:** `ready`
+- **Type:** `lobbying-firm`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Peck Madigan Jones (now Tiber Creek Group)
+
+- **Path:** `Lobbying Firms & K Street/Peck Madigan Jones.md`
+- **Current readiness:** `ready`
+- **Type:** `lobbying-firm`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Prime Policy Group
+
+- **Path:** `Lobbying Firms & K Street/Prime Policy Group.md`
+- **Current readiness:** `ready`
+- **Type:** `lobbying-firm`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### SKDK (SKDKnickerbocker)
+
+- **Path:** `Lobbying Firms & K Street/SKDK.md`
+- **Current readiness:** `ready`
+- **Type:** `lobbying-firm`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Squire Patton Boggs
+
+- **Path:** `Lobbying Firms & K Street/Squire Patton Boggs.md`
+- **Current readiness:** `ready`
+- **Type:** `lobbying-firm`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Subject Matter (now Avoq)
+
+- **Path:** `Lobbying Firms & K Street/Subject Matter.md`
+- **Current readiness:** `ready`
+- **Type:** `lobbying-firm`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Thorn Run Partners
+
+- **Path:** `Lobbying Firms & K Street/Thorn Run Partners.md`
+- **Current readiness:** `ready`
+- **Type:** `lobbying-firm`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
   - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
 
 ### Gerry Connolly
@@ -1549,14 +5179,673 @@ Mode: DRY RUN (report only)
   - `missing-block` — no congress pipeline data (no key, no block) → **run congress pipeline**
   - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
 
-### QVT Financial
+### State Policy Network
 
-- **Path:** `Donors & Power Networks/Wall Street/QVT Financial.md`
+- **Path:** `Think Tanks & Policy Infrastructure/Conservative/State Policy Network.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### InfluenceMap
+
+- **Path:** `Think Tanks & Policy Infrastructure/Liberal/InfluenceMap.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (3):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### ADM - Archer Daniels Midland
+
+- **Path:** `Donors & Power Networks/Agriculture/ADM - Archer Daniels Midland.md`
 - **Current readiness:** `ready`
 - **Type:** `corporation`
 - **Issues (2):**
-  - `known-gap-pipeline` — known-gaps mentions "Auto-blocks stripped" — should be draft → **demote to draft**
+  - `a-plus-legal-review` — 2 defamation-prone phrases outside blockquotes: **Price-Fixing Legacy:** ADM was convicted of lysine and citric acid price-fixin | **Issues lobbied:** Agriculture, Banking, Budget/Appropriations, Civil Rights/Ci → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### CA Farm Bureau Federation
+
+- **Path:** `Donors & Power Networks/Agriculture/CA Farm Bureau Federation.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Cargill
+
+- **Path:** `Donors & Power Networks/Agriculture/Cargill.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### John Deere
+
+- **Path:** `Donors & Power Networks/Agriculture/John Deere.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Monsanto - Bayer
+
+- **Path:** `Donors & Power Networks/Agriculture/Monsanto - Bayer.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Tyson Foods
+
+- **Path:** `Donors & Power Networks/Agriculture/Tyson Foods.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Western Growers Association
+
+- **Path:** `Donors & Power Networks/Agriculture/Western Growers Association.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### CoreCivic
+
+- **Path:** `Donors & Power Networks/Carceral State/CoreCivic.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (2):**
   - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### ViaPath Technologies - GTL
+
+- **Path:** `Donors & Power Networks/Carceral State/ViaPath Technologies - GTL.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Bacardi - Bacardi USA
+
+- **Path:** `Donors & Power Networks/Corporate/Bacardi - Bacardi USA.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Alliance Defending Freedom
+
+- **Path:** `Donors & Power Networks/Dark Money/Alliance Defending Freedom.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### America Votes
+
+- **Path:** `Donors & Power Networks/Dark Money/America Votes.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### American Action Network
+
+- **Path:** `Donors & Power Networks/Dark Money/American Action Network.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Brady Campaign
+
+- **Path:** `Donors & Power Networks/Dark Money/Brady Campaign.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Business Roundtable
+
+- **Path:** `Donors & Power Networks/Dark Money/Business Roundtable.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Council for National Policy
+
+- **Path:** `Donors & Power Networks/Dark Money/Council for National Policy.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Media Matters
+
+- **Path:** `Donors & Power Networks/Dark Money/Media Matters.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### National Association of Manufacturers
+
+- **Path:** `Donors & Power Networks/Dark Money/National Association of Manufacturers.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Sports Betting Alliance
+
+- **Path:** `Donors & Power Networks/Dark Money/Sports Betting Alliance.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### BAE Systems
+
+- **Path:** `Donors & Power Networks/Defense & Intelligence/BAE Systems.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (2):**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: | Case Types | 442 Civil Rights: Jobs, 470 Racketeer/Corrupt Organization, 830 P → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Booz Allen Hamilton
+
+- **Path:** `Donors & Power Networks/Defense & Intelligence/Booz Allen Hamilton.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Leidos
+
+- **Path:** `Donors & Power Networks/Defense & Intelligence/Leidos.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Eli Broad Foundation
+
+- **Path:** `Donors & Power Networks/Education/Eli Broad Foundation.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### National Education Association
+
+- **Path:** `Donors & Power Networks/Education/National Education Association.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### American Petroleum Institute
+
+- **Path:** `Donors & Power Networks/Energy & Utilities/American Petroleum Institute.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Chevron
+
+- **Path:** `Donors & Power Networks/Energy & Utilities/Chevron.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Devon Energy
+
+- **Path:** `Donors & Power Networks/Energy & Utilities/Devon Energy.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### General Motors
+
+- **Path:** `Donors & Power Networks/Gig Economy/General Motors.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Lyft
+
+- **Path:** `Donors & Power Networks/Gig Economy/Lyft.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Uber
+
+- **Path:** `Donors & Power Networks/Gig Economy/Uber.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Cigna Group
+
+- **Path:** `Donors & Power Networks/Healthcare/Cigna Group.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Humana
+
+- **Path:** `Donors & Power Networks/Healthcare/Humana.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### UnitedHealth Group - Optum
+
+- **Path:** `Donors & Power Networks/Healthcare/UnitedHealth Group - Optum.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### NORPAC
+
+- **Path:** `Donors & Power Networks/Israel Lobby/NORPAC.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### AFGE - American Federation of Government Employees
+
+- **Path:** `Donors & Power Networks/Labor Unions/AFGE - American Federation of Government Employees.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### AFL-CIO
+
+- **Path:** `Donors & Power Networks/Labor Unions/AFL-CIO.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### AFSCME - American Federation of State County and Municipal Employees
+
+- **Path:** `Donors & Power Networks/Labor Unions/AFSCME - American Federation of State County and Municipal Employees.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### California Nurses Association
+
+- **Path:** `Donors & Power Networks/Labor Unions/California Nurses Association.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### IBEW - International Brotherhood of Electrical Workers
+
+- **Path:** `Donors & Power Networks/Labor Unions/IBEW - International Brotherhood of Electrical Workers.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### UNITE HERE
+
+- **Path:** `Donors & Power Networks/Labor Unions/UNITE HERE.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### United Farm Workers
+
+- **Path:** `Donors & Power Networks/Labor Unions/United Farm Workers.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Sinclair Broadcast Group
+
+- **Path:** `Donors & Power Networks/Media & Entertainment/Sinclair Broadcast Group.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Telecom Industry
+
+- **Path:** `Donors & Power Networks/Media & Entertainment/Telecom Industry.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Adelson Family
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Adelson Family.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Bernard Marcus
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Bernard Marcus.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Bill Gates
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Bill Gates.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Charles Koch
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Charles Koch.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (2):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### David McIntosh
+
+- **Path:** `Donors & Power Networks/Mega-Donors/David McIntosh.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Everytown for Gun Safety
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Everytown for Gun Safety.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Harold Hamm
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Harold Hamm.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Jeff Bezos
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Jeff Bezos.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Ken Griffin
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Ken Griffin.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Kenneth Griffin
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Kenneth Griffin.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Larry Ellison
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Larry Ellison.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Mark Zuckerberg
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Mark Zuckerberg.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Reed Hastings
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Reed Hastings.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Reid Hoffman
+
+- **Path:** `Donors & Power Networks/Mega-Donors/Reid Hoffman.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (2):**
+  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Centene Corporation
+
+- **Path:** `Donors & Power Networks/Pharma & Healthcare/Centene Corporation.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Novo Nordisk
+
+- **Path:** `Donors & Power Networks/Pharma & Healthcare/Novo Nordisk.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Pfizer Inc.
+
+- **Path:** `Donors & Power Networks/Pharma & Healthcare/Pfizer.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Invitation Homes - Institutional Landlords
+
+- **Path:** `Donors & Power Networks/Real Estate/Invitation Homes - Institutional Landlords.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Moinian Group
+
+- **Path:** `Donors & Power Networks/Real Estate/Moinian Group.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### California Apartment Association
+
+- **Path:** `Donors & Power Networks/Real Estate & Housing/California Apartment Association.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### California Restaurant Association
+
+- **Path:** `Donors & Power Networks/Restaurant & Food/California Restaurant Association.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Starbucks
+
+- **Path:** `Donors & Power Networks/Restaurant & Food/Starbucks.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Amazon
+
+- **Path:** `Donors & Power Networks/Tech & Crypto/Amazon.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Crypto Industry Bloc
+
+- **Path:** `Donors & Power Networks/Tech & Crypto/Crypto Industry Bloc.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (2):**
+  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Meta - Facebook
+
+- **Path:** `Donors & Power Networks/Tech & Crypto/Meta - Facebook.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Tech Industry
+
+- **Path:** `Donors & Power Networks/Tech & Crypto/Tech Industry.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### TikTok - ByteDance
+
+- **Path:** `Donors & Power Networks/Tech & Crypto/TikTok - ByteDance.md`
+- **Current readiness:** `ready`
+- **Type:** `corporation`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Elliott Management
+
+- **Path:** `Donors & Power Networks/Wall Street/Elliott Management.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Lawrence Summers
+
+- **Path:** `Donors & Power Networks/Wall Street/Larry Summers.md`
+- **Current readiness:** `ready`
+- **Type:** `donor`
+- **Issues (2):**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
 
 ### Sherrod Brown
 
@@ -1900,2478 +6189,6 @@ Mode: DRY RUN (report only)
   - `zombie-block` — bioguide-id=Z000017 but no <!-- auto:congress --> block in body → **re-run congress pipeline**
   - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
 
-### Agribusiness Donor Bloc
-
-- **Path:** `Donors & Power Networks/Agriculture/Agribusiness Donor Bloc.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Agricultural Labor Vulnerability Donors
-
-- **Path:** `Donors & Power Networks/Agriculture/Agricultural Labor Vulnerability Donors.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Fanjul Family - Florida Crystals
-
-- **Path:** `Donors & Power Networks/Agriculture/Fanjul Family - Florida Crystals.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Aramark
-
-- **Path:** `Donors & Power Networks/Carceral State/Aramark.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Bail Bond Industry
-
-- **Path:** `Donors & Power Networks/Carceral State/Bail Bond Industry.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### CCPOA - California Correctional Peace Officers Association
-
-- **Path:** `Donors & Power Networks/Carceral State/CCPOA - California Correctional Peace Officers Association.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### CoreCivic - Private Prisons
-
-- **Path:** `Donors & Power Networks/Carceral State/CoreCivic - Private Prisons.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### CoreCivic
-
-- **Path:** `Donors & Power Networks/Carceral State/CoreCivic.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Securus Technologies - Aventiv
-
-- **Path:** `Donors & Power Networks/Carceral State/Securus Technologies - Aventiv.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### ACLU Foundation
-
-- **Path:** `Donors & Power Networks/Dark Money/ACLU Foundation.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### ALEC - American Legislative Exchange Council
-
-- **Path:** `Donors & Power Networks/Dark Money/ALEC - American Legislative Exchange Council.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### America First Policy Institute
-
-- **Path:** `Donors & Power Networks/Dark Money/America First Policy Institute.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Americans for Tax Reform - Grover Norquist
-
-- **Path:** `Donors & Power Networks/Dark Money/Americans for Tax Reform - Grover Norquist.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Arabella Advisors
-
-- **Path:** `Donors & Power Networks/Dark Money/Arabella Advisors.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Ballard Partners
-
-- **Path:** `Donors & Power Networks/Dark Money/Ballard Partners.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Center for Popular Democracy
-
-- **Path:** `Donors & Power Networks/Dark Money/Center for Popular Democracy.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### ClimateWorks Foundation
-
-- **Path:** `Donors & Power Networks/Dark Money/ClimateWorks Foundation.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Concerned Veterans for America
-
-- **Path:** `Donors & Power Networks/Dark Money/Concerned Veterans for America.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### CREW - Citizens for Responsibility and Ethics in Washington
-
-- **Path:** `Donors & Power Networks/Dark Money/CREW - Citizens for Responsibility and Ethics in Washington.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Crossroads Grassroots Policy Strategies
-
-- **Path:** `Donors & Power Networks/Dark Money/Crossroads Grassroots Policy Strategies.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Cryptocurrency Industry Bloc , Fairshake PAC Network
-
-- **Path:** `Donors & Power Networks/Dark Money/Cryptocurrency Industry Bloc.md`
-- **Current readiness:** `ready`
-- **Type:** `pac`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Democratic Donor Network
-
-- **Path:** `Donors & Power Networks/Dark Money/Democratic Donor Network.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Democratic Party Infrastructure
-
-- **Path:** `Donors & Power Networks/Dark Money/Democratic Party Infrastructure.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Democratic Small Dollar Networks
-
-- **Path:** `Donors & Power Networks/Dark Money/Democratic Small Dollar Networks.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Donors Capital Fund
-
-- **Path:** `Donors & Power Networks/Dark Money/Donors Capital Fund.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Entertainment and Hollywood Donors
-
-- **Path:** `Donors & Power Networks/Dark Money/Entertainment and Hollywood Donors.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Environmental Law & Policy Center
-
-- **Path:** `Donors & Power Networks/Dark Money/Environmental Law & Policy Center.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Equal Justice Initiative
-
-- **Path:** `Donors & Power Networks/Dark Money/Equal Justice Initiative.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Federalist Society
-
-- **Path:** `Donors & Power Networks/Dark Money/Federalist Society.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Finance and Tech Bundler Network
-
-- **Path:** `Donors & Power Networks/Dark Money/Finance and Tech Bundler Network.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### House Freedom Caucus
-
-- **Path:** `Donors & Power Networks/Dark Money/Freedom Caucus.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Gun Owners of America
-
-- **Path:** `Donors & Power Networks/Dark Money/Gun Owners of America.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### HBW Resources
-
-- **Path:** `Donors & Power Networks/Dark Money/HBW Resources.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Healthcare Sector
-
-- **Path:** `Donors & Power Networks/Dark Money/Healthcare Sector.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### LARA Fund - Mauricio Claver-Carone
-
-- **Path:** `Donors & Power Networks/Dark Money/LARA Fund - Mauricio Claver-Carone.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Legal Sector Donors
-
-- **Path:** `Donors & Power Networks/Dark Money/Legal Sector Donors.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Majority Forward
-
-- **Path:** `Donors & Power Networks/Dark Money/Majority Forward.md`
-- **Current readiness:** `ready`
-- **Type:** `pac`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### National Progressive Donor Networks
-
-- **Path:** `Donors & Power Networks/Dark Money/National Progressive Donor Networks.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Natural Resources Defense Council
-
-- **Path:** `Donors & Power Networks/Dark Money/Natural Resources Defense Council.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### NEO Philanthropy
-
-- **Path:** `Donors & Power Networks/Dark Money/NEO Philanthropy.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### New Venture Fund
-
-- **Path:** `Donors & Power Networks/Dark Money/New Venture Fund.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### North Fund
-
-- **Path:** `Donors & Power Networks/Dark Money/North Fund.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Ocean Conservancy
-
-- **Path:** `Donors & Power Networks/Dark Money/Ocean Conservancy.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Ohio Federation of Teachers
-
-- **Path:** `Donors & Power Networks/Dark Money/Ohio Federation of Teachers.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Open Society Foundations
-
-- **Path:** `Donors & Power Networks/Dark Money/Open Society Foundations.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Organizing for Action
-
-- **Path:** `Donors & Power Networks/Dark Money/Organizing for Action.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Proteus Fund
-
-- **Path:** `Donors & Power Networks/Dark Money/Proteus Fund.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Republican Party Apparatus
-
-- **Path:** `Donors & Power Networks/Dark Money/Republican Party Apparatus.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Sierra Club Foundation
-
-- **Path:** `Donors & Power Networks/Dark Money/Sierra Club Foundation.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Small Dollar Donors - ActBlue
-
-- **Path:** `Donors & Power Networks/Dark Money/Small Dollar Donors - ActBlue.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Stand Together Foundation
-
-- **Path:** `Donors & Power Networks/Dark Money/Stand Together Foundation.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### The 85 Fund
-
-- **Path:** `Donors & Power Networks/Dark Money/The 85 Fund.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### The Barack Obama Foundation
-
-- **Path:** `Donors & Power Networks/Dark Money/The Barack Obama Foundation.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### The Seminar Network
-
-- **Path:** `Donors & Power Networks/Dark Money/The Seminar Network.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### TPUSA - Turning Point USA
-
-- **Path:** `Donors & Power Networks/Dark Money/TPUSA - Turning Point USA.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Trial Lawyers Fund
-
-- **Path:** `Donors & Power Networks/Dark Money/Trial Lawyers Fund.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Trump 2024 Campaign
-
-- **Path:** `Donors & Power Networks/Dark Money/Trump 2024 Campaign.md`
-- **Current readiness:** `ready`
-- **Type:** `pac`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Trump Donor Coalition
-
-- **Path:** `Donors & Power Networks/Dark Money/Trump Donor Coalition.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### US Chamber of Commerce
-
-- **Path:** `Donors & Power Networks/Dark Money/US Chamber of Commerce.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Vital Strategies
-
-- **Path:** `Donors & Power Networks/Dark Money/Vital Strategies.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Boeing Defense
-
-- **Path:** `Donors & Power Networks/Defense & Intelligence/Boeing Defense.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Boeing
-
-- **Path:** `Donors & Power Networks/Defense & Intelligence/Boeing.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Defense Contractors Bloc
-
-- **Path:** `Donors & Power Networks/Defense & Intelligence/Defense Contractors Bloc.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Defense Contractors
-
-- **Path:** `Donors & Power Networks/Defense & Intelligence/Defense Contractors.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Defense Industry Bloc
-
-- **Path:** `Donors & Power Networks/Defense & Intelligence/Defense Industry Bloc.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Defense Industry
-
-- **Path:** `Donors & Power Networks/Defense & Intelligence/Defense Industry.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### General Dynamics
-
-- **Path:** `Donors & Power Networks/Defense & Intelligence/General Dynamics.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Honeywell International
-
-- **Path:** `Donors & Power Networks/Defense & Intelligence/Honeywell.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### L3 Technologies
-
-- **Path:** `Donors & Power Networks/Defense & Intelligence/L3 Technologies.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### L3Harris Technologies
-
-- **Path:** `Donors & Power Networks/Defense & Intelligence/L3Harris Technologies.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Lockheed Martin
-
-- **Path:** `Donors & Power Networks/Defense & Intelligence/Lockheed Martin.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Northrop Grumman
-
-- **Path:** `Donors & Power Networks/Defense & Intelligence/Northrop Grumman.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Nucor Corporation
-
-- **Path:** `Donors & Power Networks/Defense & Intelligence/Nucor Corporation.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### California Charter Schools Association
-
-- **Path:** `Donors & Power Networks/Education/California Charter Schools Association.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### DeVos Family
-
-- **Path:** `Donors & Power Networks/Education/DeVos Family.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Student Loan Servicer Industry
-
-- **Path:** `Donors & Power Networks/Education/Student Loan Servicer Industry.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Walton Family Foundation
-
-- **Path:** `Donors & Power Networks/Education/Walton Family Foundation.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Alabama Power
-
-- **Path:** `Donors & Power Networks/Energy & Utilities/Alabama Power.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Consumer Energy Alliance
-
-- **Path:** `Donors & Power Networks/Energy & Utilities/Consumer Energy Alliance.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Duke Energy
-
-- **Path:** `Donors & Power Networks/Energy & Utilities/Duke Energy.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Ethanol Industry
-
-- **Path:** `Donors & Power Networks/Energy & Utilities/Ethanol Industry.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### ExxonMobil
-
-- **Path:** `Donors & Power Networks/Energy & Utilities/ExxonMobil.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Fossil Fuel Bloc
-
-- **Path:** `Donors & Power Networks/Energy & Utilities/Fossil Fuel Bloc.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Halliburton
-
-- **Path:** `Donors & Power Networks/Energy & Utilities/Halliburton.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Hawaiian Electric Company
-
-- **Path:** `Donors & Power Networks/Energy & Utilities/Hawaiian Electric Company.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Koch Industries
-
-- **Path:** `Donors & Power Networks/Energy & Utilities/Koch Industries.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Marathon Petroleum
-
-- **Path:** `Donors & Power Networks/Energy & Utilities/Marathon Petroleum.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### NextEra Energy
-
-- **Path:** `Donors & Power Networks/Energy & Utilities/NextEra Energy.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Occidental Petroleum
-
-- **Path:** `Donors & Power Networks/Energy & Utilities/Occidental Petroleum.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Oil & Gas PACs
-
-- **Path:** `Donors & Power Networks/Energy & Utilities/Oil & Gas PACs.md`
-- **Current readiness:** `ready`
-- **Type:** `pac`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Petrochemical Industry Bloc
-
-- **Path:** `Donors & Power Networks/Energy & Utilities/Petrochemical Industry Bloc.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### PG&E - Pacific Gas and Electric
-
-- **Path:** `Donors & Power Networks/Energy & Utilities/PG&E - Pacific Gas and Electric.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### PG&E
-
-- **Path:** `Donors & Power Networks/Energy & Utilities/PG&E.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Western States Petroleum Association
-
-- **Path:** `Donors & Power Networks/Energy & Utilities/Western States Petroleum Association.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Williams Companies
-
-- **Path:** `Donors & Power Networks/Energy & Utilities/Williams Companies.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### WSPA - Western States Petroleum Association
-
-- **Path:** `Donors & Power Networks/Energy & Utilities/WSPA - Western States Petroleum Association.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Gulf State Money - Saudi Arabia, UAE, Qatar
-
-- **Path:** `Donors & Power Networks/Foreign/Gulf State Money - Saudi Arabia, UAE, Qatar.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Israel - Government Lobbying Operation
-
-- **Path:** `Donors & Power Networks/Foreign/Israel - Government Lobbying Operation.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Mohammed bin Salman
-
-- **Path:** `Donors & Power Networks/Foreign/Mohammed bin Salman.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Saudi Arabia - Kingdom Investment
-
-- **Path:** `Donors & Power Networks/Foreign/Saudi Arabia - Kingdom Investment.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Turkey - Erdogan Lobbying Operation
-
-- **Path:** `Donors & Power Networks/Foreign/Turkey - Erdogan Lobbying Operation.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### United Arab Emirates - Influence Operation
-
-- **Path:** `Donors & Power Networks/Foreign/United Arab Emirates - Influence Operation.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Airbnb
-
-- **Path:** `Donors & Power Networks/Gig Economy/Airbnb.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### DoorDash
-
-- **Path:** `Donors & Power Networks/Gig Economy/DoorDash.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Flex Association
-
-- **Path:** `Donors & Power Networks/Gig Economy/Flex Association.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Ford Motor Company
-
-- **Path:** `Donors & Power Networks/Gig Economy/Ford Motor Company.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Instacart
-
-- **Path:** `Donors & Power Networks/Gig Economy/Instacart.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Anthem - Elevance Health Political Operation
-
-- **Path:** `Donors & Power Networks/Healthcare/Anthem - Elevance Health Political Operation.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Blue Cross Blue Shield Association
-
-- **Path:** `Donors & Power Networks/Healthcare/Blue Cross Blue Shield Association.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Civica Rx
-
-- **Path:** `Donors & Power Networks/Healthcare/Civica Rx.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Hospital Corporation of America - HCA
-
-- **Path:** `Donors & Power Networks/Healthcare/Hospital Corporation of America - HCA.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Insurance Industry Bloc
-
-- **Path:** `Donors & Power Networks/Healthcare/Insurance Industry Bloc.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Kaiser Permanente
-
-- **Path:** `Donors & Power Networks/Healthcare/Kaiser Permanente.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Tenet Healthcare
-
-- **Path:** `Donors & Power Networks/Healthcare/Tenet Healthcare.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts
-
-- **Path:** `Donors & Power Networks/Healthcare Industry/PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Christians United for Israel
-
-- **Path:** `Donors & Power Networks/Israel Lobby/Christians United for Israel.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### DMFI - Democratic Majority for Israel
-
-- **Path:** `Donors & Power Networks/Israel Lobby/DMFI - Democratic Majority for Israel.md`
-- **Current readiness:** `ready`
-- **Type:** `pac`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### JCRC Bay Area
-
-- **Path:** `Donors & Power Networks/Israel Lobby/JCRC Bay Area.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### One Israel Fund
-
-- **Path:** `Donors & Power Networks/Israel Lobby/One Israel Fund.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Jeffrey Epstein Network
-
-- **Path:** `Donors & Power Networks/Jeffrey Epstein Network.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### California Building and Construction Trades Council
-
-- **Path:** `Donors & Power Networks/Labor Unions/California Building and Construction Trades Council.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### IBEW California State Association
-
-- **Path:** `Donors & Power Networks/Labor Unions/IBEW California State Association.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### IBEW Local 440 - Riverside
-
-- **Path:** `Donors & Power Networks/Labor Unions/IBEW Local 440 - Riverside.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### IBEW Local 477 - San Bernardino
-
-- **Path:** `Donors & Power Networks/Labor Unions/IBEW Local 477 - San Bernardino.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### UFCW - United Food and Commercial Workers
-
-- **Path:** `Donors & Power Networks/Labor Unions/UFCW - United Food and Commercial Workers.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### International Association of Chiefs of Police
-
-- **Path:** `Donors & Power Networks/Law Enforcement/International Association of Chiefs of Police.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### PORAC - Peace Officers Research Association of California
-
-- **Path:** `Donors & Power Networks/Law Enforcement/PORAC - Peace Officers Research Association of California.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Riverside Sheriffs Association
-
-- **Path:** `Donors & Power Networks/Law Enforcement/Riverside Sheriffs Association.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Leonard Leo
-
-- **Path:** `Donors & Power Networks/Leonard Leo.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Comcast - NBCUniversal
-
-- **Path:** `Donors & Power Networks/Media & Entertainment/Comcast - NBCUniversal.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Hollywood Democratic Donor Network
-
-- **Path:** `Donors & Power Networks/Media & Entertainment/Hollywood Democratic Donor Network.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### iHeartMedia
-
-- **Path:** `Donors & Power Networks/Media & Entertainment/iHeartMedia.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Sinclair Broadcasting Group
-
-- **Path:** `Donors & Power Networks/Media & Entertainment/Sinclair Broadcasting Group.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Verizon
-
-- **Path:** `Donors & Power Networks/Media & Entertainment/Verizon.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Walt Disney Company
-
-- **Path:** `Donors & Power Networks/Media & Entertainment/Walt Disney Company.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### States Newsroom
-
-- **Path:** `Donors & Power Networks/Media & Influence/States Newsroom.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Ajay Royan
-
-- **Path:** `Donors & Power Networks/Mega-Donors/Ajay Royan.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Bernie Marcus
-
-- **Path:** `Donors & Power Networks/Mega-Donors/Bernie Marcus.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Cambridge Analytica and the Data Weaponization of Elections
-
-- **Path:** `Donors & Power Networks/Mega-Donors/Cambridge Analytica and the Data Weaponization of Elections.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Centene Corporation PAC
-
-- **Path:** `Donors & Power Networks/Mega-Donors/Centene Corporation PAC.md`
-- **Current readiness:** `ready`
-- **Type:** `pac`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Charles Koch
-
-- **Path:** `Donors & Power Networks/Mega-Donors/Charles Koch.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Dustin Moskovitz
-
-- **Path:** `Donors & Power Networks/Mega-Donors/Dustin Moskovitz.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Gates Foundation
-
-- **Path:** `Donors & Power Networks/Mega-Donors/Gates Foundation.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### George Soros
-
-- **Path:** `Donors & Power Networks/Mega-Donors/George Soros.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Jeffrey Yass
-
-- **Path:** `Donors & Power Networks/Mega-Donors/Jeffrey Yass.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Kelcy Warren - Energy Transfer Partners
-
-- **Path:** `Donors & Power Networks/Mega-Donors/Kelcy Warren - Energy Transfer Partners.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Kelcy Warren
-
-- **Path:** `Donors & Power Networks/Mega-Donors/Kelcy Warren.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Koch Network - Charles Koch
-
-- **Path:** `Donors & Power Networks/Mega-Donors/Koch Network - Charles Koch.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Koch network
-
-- **Path:** `Donors & Power Networks/Mega-Donors/Koch network.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Laurene Powell Jobs
-
-- **Path:** `Donors & Power Networks/Mega-Donors/Laurene Powell Jobs.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Les Wexner - Wexner Family Enterprises
-
-- **Path:** `Donors & Power Networks/Mega-Donors/Les Wexner - Wexner Family Enterprises.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Michael Bloomberg
-
-- **Path:** `Donors & Power Networks/Mega-Donors/Michael Bloomberg.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Miriam Adelson
-
-- **Path:** `Donors & Power Networks/Mega-Donors/Miriam Adelson.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Narya Capital
-
-- **Path:** `Donors & Power Networks/Mega-Donors/Narya Capital.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Palantir Technologies Political Operation
-
-- **Path:** `Donors & Power Networks/Mega-Donors/Palantir Technologies Political Operation.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Palantir Technologies
-
-- **Path:** `Donors & Power Networks/Mega-Donors/Palantir.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Peter Thiel
-
-- **Path:** `Donors & Power Networks/Mega-Donors/Peter Thiel.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Reid Hoffman
-
-- **Path:** `Donors & Power Networks/Mega-Donors/Reid Hoffman.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Renaissance Technologies and the 7 Billion Dollar Tax Settlement
-
-- **Path:** `Donors & Power Networks/Mega-Donors/Renaissance Technologies and the 7 Billion Dollar Tax Settlement.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Richard and Elizabeth Uihlein
-
-- **Path:** `Donors & Power Networks/Mega-Donors/Richard and Elizabeth Uihlein.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Ross Stevens
-
-- **Path:** `Donors & Power Networks/Mega-Donors/Ross Stevens.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Rupert Murdoch
-
-- **Path:** `Donors & Power Networks/Mega-Donors/Rupert Murdoch.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Sheldon & Miriam Adelson
-
-- **Path:** `Donors & Power Networks/Mega-Donors/Sheldon Adelson.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Stephen Schwarzman
-
-- **Path:** `Donors & Power Networks/Mega-Donors/Stephen Schwarzman.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Susquehanna International Group
-
-- **Path:** `Donors & Power Networks/Mega-Donors/Susquehanna International Group.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Timothy Mellon
-
-- **Path:** `Donors & Power Networks/Mega-Donors/Timothy Mellon.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### UPS
-
-- **Path:** `Donors & Power Networks/Mega-Donors/UPS.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Walmart - Walton Family
-
-- **Path:** `Donors & Power Networks/Mega-Donors/Walmart - Walton Family.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Wilks Brothers , Dan and Farris Wilks
-
-- **Path:** `Donors & Power Networks/Mega-Donors/Wilks Brothers.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Winklevoss Twins
-
-- **Path:** `Donors & Power Networks/Mega-Donors/Winklevoss Twins.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### AbbVie
-
-- **Path:** `Donors & Power Networks/Pharma & Healthcare/AbbVie.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Anthem PAC
-
-- **Path:** `Donors & Power Networks/Pharma & Healthcare/Anthem PAC.md`
-- **Current readiness:** `ready`
-- **Type:** `pac`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Johnson & Johnson
-
-- **Path:** `Donors & Power Networks/Pharma & Healthcare/Johnson & Johnson.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Meatpacking Corporations
-
-- **Path:** `Donors & Power Networks/Pharma & Healthcare/Meatpacking Corporations.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Merck
-
-- **Path:** `Donors & Power Networks/Pharma & Healthcare/Merck.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Moderna
-
-- **Path:** `Donors & Power Networks/Pharma & Healthcare/Moderna.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Pharmaceutical Industry Bloc
-
-- **Path:** `Donors & Power Networks/Pharma & Healthcare/Pharmaceutical Industry Bloc.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Pharmaceutical Industry
-
-- **Path:** `Donors & Power Networks/Pharma & Healthcare/Pharmaceutical Industry.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### PhRMA - Pharmaceutical Research and Manufacturers of America
-
-- **Path:** `Donors & Power Networks/Pharma & Healthcare/PhRMA.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Purdue Pharma - Sackler Family
-
-- **Path:** `Donors & Power Networks/Pharma & Healthcare/Purdue Pharma - Sackler Family.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Cayre Family
-
-- **Path:** `Donors & Power Networks/Real Estate/Cayre Family.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### CBRE Group
-
-- **Path:** `Donors & Power Networks/Real Estate/CBRE Group.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Las Vegas Sands
-
-- **Path:** `Donors & Power Networks/Real Estate/Las Vegas Sands.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### National Association of Realtors
-
-- **Path:** `Donors & Power Networks/Real Estate/National Association of Realtors.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Real Estate Board of New York
-
-- **Path:** `Donors & Power Networks/Real Estate/Real Estate Board of New York.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Real Estate Development Industry Bloc
-
-- **Path:** `Donors & Power Networks/Real Estate/Real Estate Development Industry Bloc.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Real Estate Industry Bloc
-
-- **Path:** `Donors & Power Networks/Real Estate/Real Estate Industry Bloc.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Real Estate Roundtable
-
-- **Path:** `Donors & Power Networks/Real Estate/Real Estate Roundtable.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Tisch Family
-
-- **Path:** `Donors & Power Networks/Real Estate/Tisch Family.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### National Multifamily Housing Council
-
-- **Path:** `Donors & Power Networks/Real Estate & Housing/National Multifamily Housing Council.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### National Rental Home Council
-
-- **Path:** `Donors & Power Networks/Real Estate & Housing/National Rental Home Council.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### McDonalds Corporation
-
-- **Path:** `Donors & Power Networks/Restaurant & Food/McDonalds Corporation.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Affordable Chicago Now PAC
-
-- **Path:** `Donors & Power Networks/Super PACs/Affordable Chicago Now PAC.md`
-- **Current readiness:** `ready`
-- **Type:** `pac`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### America PAC - Elon Musk
-
-- **Path:** `Donors & Power Networks/Super PACs/America PAC - Elon Musk.md`
-- **Current readiness:** `ready`
-- **Type:** `pac`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Americans for Job Security
-
-- **Path:** `Donors & Power Networks/Super PACs/Americans for Job Security.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `zombie-block` — fec-committee-id=C30001135 but no <!-- auto:fec-donor --> block in body → **re-run fec pipeline**
-
-### Americans for Prosperity
-
-- **Path:** `Donors & Power Networks/Super PACs/Americans for Prosperity.md`
-- **Current readiness:** `ready`
-- **Type:** `pac`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Arizonans for Affordable Electricity
-
-- **Path:** `Donors & Power Networks/Super PACs/Arizonans for Affordable Electricity.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `zombie-block` — fec-committee-id=C90018292 but no <!-- auto:fec-donor --> block in body → **re-run fec pipeline**
-
-### Change Now
-
-- **Path:** `Donors & Power Networks/Super PACs/Change Now.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `zombie-block` — fec-committee-id=C00683599 but no <!-- auto:fec-donor --> block in body → **re-run fec pipeline**
-
-### Citizen Super PAC
-
-- **Path:** `Donors & Power Networks/Super PACs/Citizen Super PAC.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `zombie-block` — fec-committee-id=C00496927 but no <!-- auto:fec-donor --> block in body → **re-run fec pipeline**
-
-### Club for Growth
-
-- **Path:** `Donors & Power Networks/Super PACs/Club for Growth.md`
-- **Current readiness:** `ready`
-- **Type:** `pac`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Committee for Defending American Values
-
-- **Path:** `Donors & Power Networks/Super PACs/Committee for Defending American Values.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `zombie-block` — fec-committee-id=C00759142 but no <!-- auto:fec-donor --> block in body → **re-run fec pipeline**
-
-### Congressional Leadership Fund
-
-- **Path:** `Donors & Power Networks/Super PACs/Congressional Leadership Fund.md`
-- **Current readiness:** `ready`
-- **Type:** `pac`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Democratic Governors Association
-
-- **Path:** `Donors & Power Networks/Super PACs/Democratic Governors Association.md`
-- **Current readiness:** `ready`
-- **Type:** `pac`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Democratic Senatorial Campaign Committee
-
-- **Path:** `Donors & Power Networks/Super PACs/Democratic Senatorial Campaign Committee.md`
-- **Current readiness:** `ready`
-- **Type:** `pac`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### DonorsTrust
-
-- **Path:** `Donors & Power Networks/Super PACs/DonorsTrust.md`
-- **Current readiness:** `ready`
-- **Type:** `pac`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### DSCC - Democratic Senatorial Campaign Committee
-
-- **Path:** `Donors & Power Networks/Super PACs/DSCC - Democratic Senatorial Campaign Committee.md`
-- **Current readiness:** `ready`
-- **Type:** `pac`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Elect Chicago Women PAC
-
-- **Path:** `Donors & Power Networks/Super PACs/Elect Chicago Women PAC.md`
-- **Current readiness:** `ready`
-- **Type:** `pac`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Emilys List
-
-- **Path:** `Donors & Power Networks/Super PACs/Emilys List.md`
-- **Current readiness:** `ready`
-- **Type:** `pac`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### FF PAC
-
-- **Path:** `Donors & Power Networks/Super PACs/FF PAC.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Future Forward USA Action
-
-- **Path:** `Donors & Power Networks/Super PACs/Future Forward USA Action.md`
-- **Current readiness:** `ready`
-- **Type:** `pac`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Great Lakes Conservatives Fund
-
-- **Path:** `Donors & Power Networks/Super PACs/Great Lakes Conservatives Fund.md`
-- **Current readiness:** `ready`
-- **Type:** `pac`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### House Majority PAC
-
-- **Path:** `Donors & Power Networks/Super PACs/House Majority PAC.md`
-- **Current readiness:** `ready`
-- **Type:** `pac`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Illinois Future PAC
-
-- **Path:** `Donors & Power Networks/Super PACs/Illinois Future PAC.md`
-- **Current readiness:** `ready`
-- **Type:** `pac`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### League of Conservation Voters
-
-- **Path:** `Donors & Power Networks/Super PACs/League of Conservation Voters.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### MAGA Inc
-
-- **Path:** `Donors & Power Networks/Super PACs/MAGA Inc.md`
-- **Current readiness:** `ready`
-- **Type:** `pac`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### MAGA Small Dollar Base
-
-- **Path:** `Donors & Power Networks/Super PACs/MAGA Small Dollar Base.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Marble Freedom Trust
-
-- **Path:** `Donors & Power Networks/Super PACs/Marble Freedom Trust.md`
-- **Current readiness:** `ready`
-- **Type:** `pac`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### National Republican Senatorial Committee
-
-- **Path:** `Donors & Power Networks/Super PACs/National Republican Senatorial Committee.md`
-- **Current readiness:** `ready`
-- **Type:** `pac`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### National Rifle Association
-
-- **Path:** `Donors & Power Networks/Super PACs/National Rifle Association.md`
-- **Current readiness:** `ready`
-- **Type:** `pac`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### One Nation
-
-- **Path:** `Donors & Power Networks/Super PACs/One Nation.md`
-- **Current readiness:** `ready`
-- **Type:** `pac`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Opportunity PAC - a Coalition of Teachers Health Care Givers Faculty Members School Employees and Public and Pr
-
-- **Path:** `Donors & Power Networks/Super PACs/Opportunity PAC - a Coalition of Teachers Health Care Givers Faculty Members School Employees and....md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `zombie-block` — fec-committee-id=C90016841 but no <!-- auto:fec-donor --> block in body → **re-run fec pipeline**
-
-### Planned Parenthood Advocates of Kansas
-
-- **Path:** `Donors & Power Networks/Super PACs/Planned Parenthood Advocates of Kansas.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `zombie-block` — fec-committee-id=C90006719 but no <!-- auto:fec-donor --> block in body → **re-run fec pipeline**
-
-### Planned Parenthood of KS & Mid-MO
-
-- **Path:** `Donors & Power Networks/Super PACs/Planned Parenthood of KS & Mid-MO.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `zombie-block` — fec-committee-id=C90006032 but no <!-- auto:fec-donor --> block in body → **re-run fec pipeline**
-
-### Political Action for Lasting Security
-
-- **Path:** `Donors & Power Networks/Super PACs/Political Action for Lasting Security.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `zombie-block` — fec-committee-id=C00174748 but no <!-- auto:fec-donor --> block in body → **re-run fec pipeline**
-
-### Preserve America
-
-- **Path:** `Donors & Power Networks/Super PACs/Preserve America.md`
-- **Current readiness:** `ready`
-- **Type:** `pac`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Priorities USA Action
-
-- **Path:** `Donors & Power Networks/Super PACs/Priorities USA Action.md`
-- **Current readiness:** `ready`
-- **Type:** `pac`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Reclaim America PAC
-
-- **Path:** `Donors & Power Networks/Super PACs/Reclaim America PAC.md`
-- **Current readiness:** `ready`
-- **Type:** `pac`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Sandre Swanson for Assembly 2010
-
-- **Path:** `Donors & Power Networks/Super PACs/Sandre Swanson for Assembly 2010.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `zombie-block` — fec-committee-id=C90012618 but no <!-- auto:fec-donor --> block in body → **re-run fec pipeline**
-
-### Save America PAC
-
-- **Path:** `Donors & Power Networks/Super PACs/Save America PAC.md`
-- **Current readiness:** `ready`
-- **Type:** `pac`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Senate Leadership Fund
-
-- **Path:** `Donors & Power Networks/Super PACs/Senate Leadership Fund.md`
-- **Current readiness:** `ready`
-- **Type:** `pac`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Senate Majority PAC
-
-- **Path:** `Donors & Power Networks/Super PACs/Senate Majority PAC.md`
-- **Current readiness:** `ready`
-- **Type:** `pac`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Sentinel Action Fund
-
-- **Path:** `Donors & Power Networks/Super PACs/Sentinel Action Fund.md`
-- **Current readiness:** `ready`
-- **Type:** `pac`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Susan B. Anthony Pro-Life America PAC
-
-- **Path:** `Donors & Power Networks/Super PACs/Susan B. Anthony Pro-Life America PAC.md`
-- **Current readiness:** `ready`
-- **Type:** `pac`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### SV&B PAC
-
-- **Path:** `Donors & Power Networks/Super PACs/SV&B PAC.md`
-- **Current readiness:** `ready`
-- **Type:** `pac`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### The 60 Plus Association
-
-- **Path:** `Donors & Power Networks/Super PACs/The 60 Plus Association.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `zombie-block` — fec-committee-id=C30001671 but no <!-- auto:fec-donor --> block in body → **re-run fec pipeline**
-
-### Trump Victory
-
-- **Path:** `Donors & Power Networks/Super PACs/Trump Victory.md`
-- **Current readiness:** `ready`
-- **Type:** `pac`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### United Democracy Project - UDP
-
-- **Path:** `Donors & Power Networks/Super PACs/United Democracy Project - UDP.md`
-- **Current readiness:** `ready`
-- **Type:** `pac`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### VIGOP
-
-- **Path:** `Donors & Power Networks/Super PACs/VIGOP.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `zombie-block` — fec-committee-id=C00553560 but no <!-- auto:fec-donor --> block in body → **re-run fec pipeline**
-
-### Winning for Women PAC
-
-- **Path:** `Donors & Power Networks/Super PACs/Winning for Women PAC.md`
-- **Current readiness:** `ready`
-- **Type:** `pac`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### WinRed
-
-- **Path:** `Donors & Power Networks/Super PACs/WinRed.md`
-- **Current readiness:** `ready`
-- **Type:** `pac`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Anthropic
-
-- **Path:** `Donors & Power Networks/Tech & Crypto/Anthropic.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Ben Horowitz
-
-- **Path:** `Donors & Power Networks/Tech & Crypto/Ben Horowitz.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Brad Garlinghouse
-
-- **Path:** `Donors & Power Networks/Tech & Crypto/Brad Garlinghouse.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Brian Armstrong
-
-- **Path:** `Donors & Power Networks/Tech & Crypto/Brian Armstrong.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Chris Larsen
-
-- **Path:** `Donors & Power Networks/Tech & Crypto/Chris Larsen.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Coinbase
-
-- **Path:** `Donors & Power Networks/Tech & Crypto/Coinbase.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Crypto Industry Bloc
-
-- **Path:** `Donors & Power Networks/Tech & Crypto/Crypto Industry Bloc.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Cryptocurrency Industry
-
-- **Path:** `Donors & Power Networks/Tech & Crypto/Cryptocurrency Industry.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Eric Schmidt
-
-- **Path:** `Donors & Power Networks/Tech & Crypto/Eric Schmidt.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Founders Fund
-
-- **Path:** `Donors & Power Networks/Tech & Crypto/Founders Fund.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### FTX - Sam Bankman-Fried
-
-- **Path:** `Donors & Power Networks/Tech & Crypto/FTX - Sam Bankman-Fried.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Google - Alphabet
-
-- **Path:** `Donors & Power Networks/Tech & Crypto/Google - Alphabet.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Jump Crypto
-
-- **Path:** `Donors & Power Networks/Tech & Crypto/Jump Crypto.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Marc Andreessen & Horowitz
-
-- **Path:** `Donors & Power Networks/Tech & Crypto/Marc Andreessen & Horowitz.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Nvidia
-
-- **Path:** `Donors & Power Networks/Tech & Crypto/Nvidia.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### OpenAI
-
-- **Path:** `Donors & Power Networks/Tech & Crypto/OpenAI.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Silicon Valley Democratic Donor Network
-
-- **Path:** `Donors & Power Networks/Tech & Crypto/Silicon Valley Democratic Donor Network.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Silicon Valley Donors
-
-- **Path:** `Donors & Power Networks/Tech & Crypto/Silicon Valley Donors.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### SpaceX
-
-- **Path:** `Donors & Power Networks/Tech & Crypto/SpaceX.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Tech and Media Donors
-
-- **Path:** `Donors & Power Networks/Tech & Crypto/Tech and Media Donors.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Tesla - Elon Musk Political Operation
-
-- **Path:** `Donors & Power Networks/Tech & Crypto/Tesla - Elon Musk Political Operation.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Valinor Enterprises
-
-- **Path:** `Donors & Power Networks/Tech & Crypto/Valinor Enterprises.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Apollo Global Management
-
-- **Path:** `Donors & Power Networks/Wall Street/Apollo Global Management.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Bank of America Charitable Gift Fund
-
-- **Path:** `Donors & Power Networks/Wall Street/Bank of America Charitable Gift Fund.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Bank of America
-
-- **Path:** `Donors & Power Networks/Wall Street/Bank of America.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### BlackRock
-
-- **Path:** `Donors & Power Networks/Wall Street/Blackrock.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Blue Meridian Partners
-
-- **Path:** `Donors & Power Networks/Wall Street/Blue Meridian Partners.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### CalSTRS - California State Teachers' Retirement System
-
-- **Path:** `Donors & Power Networks/Wall Street/CalSTRS.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Carlyle Group
-
-- **Path:** `Donors & Power Networks/Wall Street/Carlyle Group.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Charles Schwab
-
-- **Path:** `Donors & Power Networks/Wall Street/Charles Schwab.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Citadel - Kenneth Griffin
-
-- **Path:** `Donors & Power Networks/Wall Street/Citadel - Kenneth Griffin.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Fidelity Investments
-
-- **Path:** `Donors & Power Networks/Wall Street/Fidelity Investments.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Financial Services Donors
-
-- **Path:** `Donors & Power Networks/Wall Street/Financial Services Donors.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Hedge Fund Industry Bloc
-
-- **Path:** `Donors & Power Networks/Wall Street/Hedge Fund Industry Bloc.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### MassMutual
-
-- **Path:** `Donors & Power Networks/Wall Street/MassMutual.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### MBNA Corporation
-
-- **Path:** `Donors & Power Networks/Wall Street/MBNA Corporation.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Morgan Stanley
-
-- **Path:** `Donors & Power Networks/Wall Street/Morgan Stanley.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Private Equity Industry Bloc
-
-- **Path:** `Donors & Power Networks/Wall Street/Private Equity Industry Bloc.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Renaissance Charitable Foundation
-
-- **Path:** `Donors & Power Networks/Wall Street/Renaissance Charitable Foundation.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Robin Hood Foundation
-
-- **Path:** `Donors & Power Networks/Wall Street/Robin Hood Foundation.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Securities & Investment Industry
-
-- **Path:** `Donors & Power Networks/Wall Street/Securities & Investment Industry.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Trump Media & Technology Group
-
-- **Path:** `Donors & Power Networks/Wall Street/Trump Media & Technology Group.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Trump Organization
-
-- **Path:** `Donors & Power Networks/Wall Street/Trump Organization.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Wall Street Bloc
-
-- **Path:** `Donors & Power Networks/Wall Street/Wall Street Bloc.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Wall Street Finance Networks
-
-- **Path:** `Donors & Power Networks/Wall Street/Wall Street Finance Networks.md`
-- **Current readiness:** `ready`
-- **Type:** `donor`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Wall Street Finance PACs
-
-- **Path:** `Donors & Power Networks/Wall Street/Wall Street Finance PACs.md`
-- **Current readiness:** `ready`
-- **Type:** `pac`
-- **Issues (1):**
-  - `missing-block` — no fec pipeline data (no key, no block) → **run fec pipeline**
-
-### Wells Fargo
-
-- **Path:** `Donors & Power Networks/Wall Street/Wells Fargo.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Akin Gump Strauss Hauer & Feld
-
-- **Path:** `Lobbying Firms & K Street/Akin Gump Strauss Hauer & Feld.md`
-- **Current readiness:** `ready`
-- **Type:** `lobbying-firm`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Alpine Group
-
-- **Path:** `Lobbying Firms & K Street/Alpine Group.md`
-- **Current readiness:** `ready`
-- **Type:** `lobbying-firm`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Ballard Partners
-
-- **Path:** `Lobbying Firms & K Street/Ballard Partners.md`
-- **Current readiness:** `ready`
-- **Type:** `lobbying-firm`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### BGR Group
-
-- **Path:** `Lobbying Firms & K Street/BGR Group.md`
-- **Current readiness:** `ready`
-- **Type:** `lobbying-firm`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Brownstein Hyatt Farber Schreck
-
-- **Path:** `Lobbying Firms & K Street/Brownstein Hyatt Farber Schreck.md`
-- **Current readiness:** `ready`
-- **Type:** `lobbying-firm`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Capitol Counsel
-
-- **Path:** `Lobbying Firms & K Street/Capitol Counsel.md`
-- **Current readiness:** `ready`
-- **Type:** `lobbying-firm`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Cassidy & Associates
-
-- **Path:** `Lobbying Firms & K Street/Cassidy & Associates.md`
-- **Current readiness:** `ready`
-- **Type:** `lobbying-firm`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Cornerstone Government Affairs
-
-- **Path:** `Lobbying Firms & K Street/Cornerstone Government Affairs.md`
-- **Current readiness:** `ready`
-- **Type:** `lobbying-firm`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Crossroads Strategies
-
-- **Path:** `Lobbying Firms & K Street/Crossroads Strategies.md`
-- **Current readiness:** `ready`
-- **Type:** `lobbying-firm`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Fierce Government Relations
-
-- **Path:** `Lobbying Firms & K Street/Fierce Government Relations.md`
-- **Current readiness:** `ready`
-- **Type:** `lobbying-firm`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Forbes Tate Partners
-
-- **Path:** `Lobbying Firms & K Street/Forbes Tate Partners.md`
-- **Current readiness:** `ready`
-- **Type:** `lobbying-firm`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Holland & Knight
-
-- **Path:** `Lobbying Firms & K Street/Holland & Knight.md`
-- **Current readiness:** `ready`
-- **Type:** `lobbying-firm`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Invariant
-
-- **Path:** `Lobbying Firms & K Street/Invariant.md`
-- **Current readiness:** `ready`
-- **Type:** `lobbying-firm`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### K&L Gates
-
-- **Path:** `Lobbying Firms & K Street/K&L Gates.md`
-- **Current readiness:** `ready`
-- **Type:** `lobbying-firm`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Mehlman Consulting
-
-- **Path:** `Lobbying Firms & K Street/Mehlman Consulting.md`
-- **Current readiness:** `ready`
-- **Type:** `lobbying-firm`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Mercury Public Affairs
-
-- **Path:** `Lobbying Firms & K Street/Mercury Public Affairs.md`
-- **Current readiness:** `ready`
-- **Type:** `lobbying-firm`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Peck Madigan Jones (now Tiber Creek Group)
-
-- **Path:** `Lobbying Firms & K Street/Peck Madigan Jones.md`
-- **Current readiness:** `ready`
-- **Type:** `lobbying-firm`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Prime Policy Group
-
-- **Path:** `Lobbying Firms & K Street/Prime Policy Group.md`
-- **Current readiness:** `ready`
-- **Type:** `lobbying-firm`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### SKDK (SKDKnickerbocker)
-
-- **Path:** `Lobbying Firms & K Street/SKDK.md`
-- **Current readiness:** `ready`
-- **Type:** `lobbying-firm`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Squire Patton Boggs
-
-- **Path:** `Lobbying Firms & K Street/Squire Patton Boggs.md`
-- **Current readiness:** `ready`
-- **Type:** `lobbying-firm`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Subject Matter (now Avoq)
-
-- **Path:** `Lobbying Firms & K Street/Subject Matter.md`
-- **Current readiness:** `ready`
-- **Type:** `lobbying-firm`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### Thorn Run Partners
-
-- **Path:** `Lobbying Firms & K Street/Thorn Run Partners.md`
-- **Current readiness:** `ready`
-- **Type:** `lobbying-firm`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
 ### Barbara Lee
 
 - **Path:** `Politicians/Democrats/House/Barbara Lee.md`
@@ -4427,19 +6244,3 @@ Mode: DRY RUN (report only)
 - **Type:** `politician`
 - **Issues (1):**
   - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
-
-### State Policy Network
-
-- **Path:** `Think Tanks & Policy Infrastructure/Conservative/State Policy Network.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
-
-### InfluenceMap
-
-- **Path:** `Think Tanks & Policy Infrastructure/Liberal/InfluenceMap.md`
-- **Current readiness:** `ready`
-- **Type:** `corporation`
-- **Issues (1):**
-  - `missing-block` — no lda pipeline data (no key, no block) → **run lda pipeline**
