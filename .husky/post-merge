@@ -18,6 +18,10 @@ if [ "$SKIP_HOOKS" = "1" ]; then
   exit 0
 fi
 
+# Regenerate any missing gitignored derived data artifacts
+# (e.g. data/relationships-per-profile.json). Non-blocking.
+node scripts/ensure-derived-artifacts.cjs || true
+
 # Which files were touched in this merge?
 # ORIG_HEAD is the pre-merge HEAD; HEAD is post-merge.
 CHANGED=$(git diff --name-only ORIG_HEAD HEAD 2>/dev/null || echo "")

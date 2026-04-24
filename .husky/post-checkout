@@ -23,6 +23,11 @@ if [ "$3" != "1" ]; then
   exit 0
 fi
 
+# Regenerate any missing gitignored derived data artifacts
+# (e.g. data/relationships-per-profile.json, imported by Quartz components).
+# Non-blocking: exit 0 even if it fails, it just prints a warning.
+node scripts/ensure-derived-artifacts.cjs || true
+
 PREV="$1"
 NEW="$2"
 
