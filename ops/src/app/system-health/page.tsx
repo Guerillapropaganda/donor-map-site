@@ -27,6 +27,33 @@
 
 import { useState, useEffect, useCallback, useRef } from "react"
 
+// ─── Vault audit harness (ADR-0021 Phase 2) ────────────────────────
+
+interface VaultAuditCheck {
+  name: string
+  description: string
+  exit: number | null
+  duration_ms: number
+  findings_count: number | null
+  notes: string
+  error?: string
+}
+
+interface VaultAuditArtifact {
+  generated_at: string
+  duration_ms: number
+  harness_version: string
+  age_minutes: number
+  checks: VaultAuditCheck[]
+  summary: {
+    checks_run: number
+    checks_clean: number
+    checks_with_findings: number
+    checks_errored: number
+    total_findings: number
+  }
+}
+
 interface PageSurface {
   route: string
   label: string
@@ -133,6 +160,54 @@ export default function SystemHealthPage() {
   const [expanded, setExpanded] = useState<Set<string>>(new Set())
   const [running, setRunning] = useState(false)
   const runRef = useRef(0)
+
+  // Vault audit harness state
+  const [audit, setAudit] = useState<VaultAuditArtifact | null>(null)
+  const [auditError, setAuditError] = useState<string | null>(null)
+  const [auditLoading, setAuditLoading] = useState(true)
+  const [auditRunning, setAuditRunning] = useState(false)
+
+  const loadAudit = useCallback(async () => {
+    setAuditLoading(true)
+    setAuditError(null)
+    try {
+      const r = await fetch("/api/vault-audit", { credentials: "include" })
+      if (!r.ok) {
+        const j = await r.json().catch(() => ({}))
+        throw new Error(j.error || `HTTP ${r.status}`)
+      }
+      setAudit(await r.json())
+    } catch (err: any) {
+      setAuditError(err?.message || String(err))
+    } finally {
+      setAuditLoading(false)
+    }
+  }, [])
+
+  const rerunAudit = useCallback(async () => {
+    if (auditRunning) return
+    setAuditRunning(true)
+    setAuditError(null)
+    try {
+      const r = await fetch("/api/vault-audit", {
+        method: "POST",
+        credentials: "include",
+      })
+      if (!r.ok) {
+        const j = await r.json().catch(() => ({}))
+        throw new Error(j.error || `HTTP ${r.status}`)
+      }
+      setAudit(await r.json())
+    } catch (err: any) {
+      setAuditError(err?.message || String(err))
+    } finally {
+      setAuditRunning(false)
+    }
+  }, [auditRunning])
+
+  useEffect(() => {
+    loadAudit()
+  }, [loadAudit])
 
   // Load manifest
   useEffect(() => {
@@ -270,6 +345,15 @@ export default function SystemHealthPage() {
           {running ? "Checking..." : "Re-run checks"}
         </button>
       </div>
+
+      {/* Vault audit harness (ADR-0021 Phase 2) */}
+      <VaultAuditPanel
+        audit={audit}
+        loading={auditLoading}
+        error={auditError}
+        running={auditRunning}
+        onRerun={rerunAudit}
+      />
 
       {/* Top-level stats */}
       <div className="grid grid-cols-2 md:grid-cols-4 gap-3 mb-6">
@@ -509,6 +593,158 @@ function Section({
       <div className="space-y-1">{children}</div>
     </div>
   )
+}
+
+function VaultAuditPanel({
+  audit,
+  loading,
+  error,
+  running,
+  onRerun,
+}: {
+  audit: VaultAuditArtifact | null
+  loading: boolean
+  error: string | null
+  running: boolean
+  onRerun: () => void
+}) {
+  const stale = audit && audit.age_minutes > 60 * 24
+  const headerColor =
+    !audit || error
+      ? "border-neutral-700"
+      : audit.summary.checks_errored > 0
+        ? "border-red-800"
+        : audit.summary.checks_with_findings > 0
+          ? "border-amber-800"
+          : "border-green-800"
+
+  return (
+    <div className={`mb-6 bg-neutral-900 border ${headerColor} rounded p-4`}>
+      <div className="flex items-start justify-between mb-3">
+        <div>
+          <h2 className="text-lg font-bold text-white">Vault audit harness</h2>
+          <p className="text-xs text-neutral-500 mt-1">
+            Unified findings from{" "}
+            <code className="text-amber-400">scripts/vault-audit.cjs</code> ·
+            ADR-0021 Phase 2
+          </p>
+        </div>
+        <button
+          onClick={onRerun}
+          disabled={running || loading}
+          className="px-4 py-2 text-sm border border-amber-700 bg-amber-900/30 text-amber-200 hover:bg-amber-900/60 rounded disabled:opacity-40"
+        >
+          {running ? "Running..." : "Re-run harness"}
+        </button>
+      </div>
+
+      {loading && !audit && (
+        <div className="text-neutral-400 font-mono text-sm">Loading artifact…</div>
+      )}
+
+      {error && (
+        <div className="bg-red-900/30 border border-red-700 text-red-200 p-3 font-mono text-xs rounded">
+          {error}
+          <div className="mt-2 text-neutral-400">
+            Try: <code className="text-amber-400">node scripts/vault-audit.cjs</code>
+          </div>
+        </div>
+      )}
+
+      {audit && (
+        <>
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-3 mb-4">
+            <StatCard
+              label="Clean"
+              value={`${audit.summary.checks_clean}/${audit.summary.checks_run}`}
+              sub="checks with 0 findings"
+              color={
+                audit.summary.checks_clean === audit.summary.checks_run
+                  ? "green"
+                  : "neutral"
+              }
+            />
+            <StatCard
+              label="With findings"
+              value={`${audit.summary.checks_with_findings}`}
+              sub={`${audit.summary.total_findings} total findings`}
+              color={audit.summary.checks_with_findings > 0 ? "yellow" : "green"}
+            />
+            <StatCard
+              label="Errored"
+              value={`${audit.summary.checks_errored}`}
+              sub="harness couldn't run"
+              color={audit.summary.checks_errored > 0 ? "red" : "neutral"}
+            />
+            <StatCard
+              label="Last run"
+              value={formatAge(audit.age_minutes)}
+              sub={`${(audit.duration_ms / 1000).toFixed(1)}s runtime`}
+              color={stale ? "yellow" : "neutral"}
+            />
+          </div>
+
+          <div className="space-y-1">
+            {audit.checks.map((c) => {
+              const mark =
+                c.error || c.exit === null
+                  ? "red"
+                  : (c.findings_count ?? 0) > 0
+                    ? "yellow"
+                    : "green"
+              return (
+                <div
+                  key={c.name}
+                  className="bg-neutral-950 border border-neutral-800 rounded p-3 flex items-start gap-3"
+                >
+                  <div
+                    className={`w-3 h-3 rounded-full flex-shrink-0 mt-1 ${
+                      mark === "green"
+                        ? "bg-green-500"
+                        : mark === "yellow"
+                          ? "bg-amber-500"
+                          : "bg-red-500"
+                    }`}
+                  />
+                  <div className="flex-1 min-w-0">
+                    <div className="flex items-center gap-3 flex-wrap">
+                      <code className="text-sm text-white font-mono">{c.name}</code>
+                      <span className="text-xs text-neutral-500">
+                        {c.findings_count ?? "?"} finding
+                        {c.findings_count === 1 ? "" : "s"}
+                      </span>
+                      <span className="text-xs text-neutral-600">
+                        {(c.duration_ms / 1000).toFixed(1)}s
+                      </span>
+                    </div>
+                    <div className="text-xs text-neutral-400 mt-1">
+                      {c.description}
+                    </div>
+                    <div className="text-xs text-neutral-500 mt-1 font-mono">
+                      {c.notes}
+                    </div>
+                    {c.error && (
+                      <div className="text-xs text-red-400 mt-1 font-mono">
+                        {c.error}
+                      </div>
+                    )}
+                  </div>
+                </div>
+              )
+            })}
+          </div>
+        </>
+      )}
+    </div>
+  )
+}
+
+function formatAge(minutes: number): string {
+  if (minutes < 1) return "just now"
+  if (minutes < 60) return `${minutes}m ago`
+  const hours = Math.round(minutes / 60)
+  if (hours < 48) return `${hours}h ago`
+  return `${Math.round(hours / 24)}d ago`
 }
 
 function SurfaceRow({
