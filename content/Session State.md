@@ -1,9 +1,10 @@
 ---
 title: Session State
 type: system
-last-updated: 2026-04-23
+last-updated: 2026-04-24
 ---
-<!-- last session: ADR-0023 PHASES A+B + /ATTENTION AUDIT + DISPATCHER INSTALLED + 3-PART SAFETY FIX. Evening continuation 2026-04-23. ACCEPTED ADR-0023 (frontmatter schema) with David's 4 answers: (1) retire all 16 zero-consumer fields, (2) migrate editorial-review-* to legal-review-* — THEN reversed to retire-instead on inspection (reviewer=Research Claude, results=verified-candidate/pass/stub-created = editorial-workflow data, not legal), (3) TTL 28 days not 180d with 1w info → 2w warn → 3w urgent → 4w commit-BLOCK escalation, (4) harness-check-first → sentinel-after-2-weeks-clean progression. PHASE A: scripts/retire-frontmatter-fields.cjs (line-based YAML stripper, preserves untouched formatting) removed 16 fields across 25 profiles. Phase A AMENDMENT caught 3 edge cases: Marco Rubio + Katie Porter had distinct FEC IDs for different election cycles (Rubio P60006723 Presidential + S0FL00338 Senate; Porter H8CA45130 House + S4CA00522 Senate) — NOT variants. New fec-previous-ids structured list pattern preserves history (ADR-0023 §5 rewritten). David Sacks donor-network sub-note parent-profile migrated to parent. PHASE B: scripts/retire-frontmatter-fields.cjs extended; editorial-review-* retired on 16 profiles without migration. ADR-0022 FOLLOW-UP: dropped type==='politician' gate on pipeline-janitor universal A+ checks; committee-cross-ref kept politician-specific. Surface expanded from 125 politicians to 606 ready/verified profiles — story-grade missing on ALL 606 (field uniformly unpopulated). XMLDOM BUMP 0.8.12→0.8.13 closed 4 high-severity GitHub Dependabot alerts (all transitive via pixi.js ^0.8.10). /ATTENTION AUDIT: traced end-to-end, 6 new problems logged (P-025 through P-030) in ops-audit-2026-04-23.md. Headline: dispatcher daemon had NEVER run (.attention-dispatcher.log absent), 118/122 queue entries >24h stale, oldest 13 days. DISPATCHER INSTALLED: Windows shortcut at %APPDATA%\...\Startup\Attention Dispatcher.lnk → auto-relaunch every login; started right now (PID 32592 at 10:10pm); story-candidate-scorer added to dispatcher schedule (every 4hr at :47, was orphaned — real producer never scheduled). 3-PART SAFETY FIX for the 1.7GB .bak-file-push-rejection incident: (a) scripts/large-file-sentinel.cjs pre-commit step 0 blocks any staged file >50MB, (b) scripts/leftover-artifacts-check.cjs new vault-audit harness check surfaces non-gitignored .bak/.dedupd-state/.tmp/stray-logs to /attention, (c) memory feedback_commit_scope.md rule teaches `git diff --cached --stat` before committing from main repo. `.gitignore` added patterns for data/**/*.bak + *.dedupd-state. 10 commits landed on v4. Dispatcher first run: 11/12 producers succeeded; financial-disclosures timed out (Senate EFDS endpoint unresponsive, external). Story Seeds + missing-profiles regen + 894 donor-side top-N updates deployed. (2026-04-23 evening, Code Claude). -->
+<!-- last session: ADR-0023 PHASES C+D + DISPATCHER-ALIVE + /PIPELINES ROOT-CAUSE FIX + 7 WORKFLOWS DISABLED + PIPELINE REGISTRY + DASHBOARD/SIDEBAR AUDIT. Full-day 2026-04-24 session. Started preflight confirming dispatcher still alive after overnight reboot. 10 commits merged to v4 this session. ADR-0023 PHASE C+D: wrote scripts/lib/frontmatter-schema.cjs (declarative schema, 14 content types, 5 universals, per-type required/proposed/retired) + scripts/frontmatter-schema-validator.cjs (harness-mode, --json output) + registered in vault-audit as 12th check. First run surfaced 6282 findings; fixed 2 validator bugs (null≠missing, event/story-seed exempt_universal) + ADR amendments (removed wrong last-enriched from sub-note/story) — reduced to 3319 real findings. 47% were false positives from overreaching schema. Remaining: 1604 missing story-grade, 1315 missing central-thesis, 113 politicians missing FEC/bioguide ID. Phase D = harness auto-surfaces these to /attention (no separate work needed). DISPATCHER-ALIVE (P-028): scripts/dispatcher-alive-check.cjs + vault-audit registration. Reads .attention-dispatcher.log mtime, 90min threshold, uptime-window-aware (8am-11pm local), status missing/stale/alive/sleeping. P-026 API FIX: /api/attention-queue returns perSourceLastUpdated (newest entry per source) instead of store file mtime. P-027 UI: /attention entries show timeAgo(e.created) inline; source filter buttons show per-source freshness. XMLDOM CVE STILL CLOSED FROM PRIOR SESSION. /PIPELINES AUDIT: 6 problems logged (P-031 through P-036). ROOT CAUSE DISCOVERED: donor-map-engine billing failure since 2026-04-18 — every scheduled workflow dies at pre-start with "account payments failed or spending limit needs to be increased." PRIVATE-REPO ACTIONS-MINUTES CAP HIT. David's decision: deactivate pipelines entirely, CSV-only phase, rely on local scripts/ingest-*-bulk.cjs. DISABLED 7 WORKFLOWS via gh workflow disable: API Enrichment Pipeline, Batch 1-5, OpenSecrets URL Replacement. KEPT 2 ACTIVE: RSS Intelligence Pipeline (scheduled, viable, feeds content/Events/Digests/) + Auto-Connection Engine (manual-trigger workflow_dispatch, no cost). PIPELINE REGISTRY (P-031 fix): ops/src/lib/pipeline-registry.ts — single source of truth, 30 entries with status=active/paused/retired/experimental/broken. Wired /pipelines page.tsx (banner + dimmed paused cards + "workflow disabled" text) + /api/pipeline-health route.ts (excludes paused from health% denominator). ENRICHMENT-FRESHNESS (P-034): scripts/enrichment-freshness-check.cjs + data/enrichment-state.json for pause-aware mode. Currently paused:true so check returns 0 findings (not noise). CLAUDE.md Rule 3 rewritten to "CSV-only phase." DASHBOARD/SIDEBAR AUDIT: 7 new findings (P-037 through P-043) after David screenshotted the actual ops app. P-037 EnrichmentPanel has OWN hardcoded 32-pipeline list separate from registry — next-session fix. P-038 Next.js dev-server hot-reload misses new lib files. P-039 Dashboard S-TIER INSIGHTS uses retired vocabulary. P-040 "Ready for sign-off: 124" same lie as /signoff-queue. P-041 "Both-sides conflicts: 0" contradicts harness which flagged 11. P-042 sidebar 30-entry flat list needs DAILY/WEEKLY/EXPERIMENTAL/ADMIN grouping. P-043 sidebar badge counts unaudited. David moving to new chat for continuation. (2026-04-24, Code Claude). -->
+<!-- prior session: ADR-0023 PHASES A+B + /ATTENTION AUDIT + DISPATCHER INSTALLED + 3-PART SAFETY FIX. Evening continuation 2026-04-23. ACCEPTED ADR-0023 (frontmatter schema) with David's 4 answers: (1) retire all 16 zero-consumer fields, (2) migrate editorial-review-* to legal-review-* — THEN reversed to retire-instead on inspection (reviewer=Research Claude, results=verified-candidate/pass/stub-created = editorial-workflow data, not legal), (3) TTL 28 days not 180d with 1w info → 2w warn → 3w urgent → 4w commit-BLOCK escalation, (4) harness-check-first → sentinel-after-2-weeks-clean progression. PHASE A: scripts/retire-frontmatter-fields.cjs (line-based YAML stripper, preserves untouched formatting) removed 16 fields across 25 profiles. Phase A AMENDMENT caught 3 edge cases: Marco Rubio + Katie Porter had distinct FEC IDs for different election cycles (Rubio P60006723 Presidential + S0FL00338 Senate; Porter H8CA45130 House + S4CA00522 Senate) — NOT variants. New fec-previous-ids structured list pattern preserves history (ADR-0023 §5 rewritten). David Sacks donor-network sub-note parent-profile migrated to parent. PHASE B: scripts/retire-frontmatter-fields.cjs extended; editorial-review-* retired on 16 profiles without migration. ADR-0022 FOLLOW-UP: dropped type==='politician' gate on pipeline-janitor universal A+ checks; committee-cross-ref kept politician-specific. Surface expanded from 125 politicians to 606 ready/verified profiles — story-grade missing on ALL 606 (field uniformly unpopulated). XMLDOM BUMP 0.8.12→0.8.13 closed 4 high-severity GitHub Dependabot alerts (all transitive via pixi.js ^0.8.10). /ATTENTION AUDIT: traced end-to-end, 6 new problems logged (P-025 through P-030) in ops-audit-2026-04-23.md. Headline: dispatcher daemon had NEVER run (.attention-dispatcher.log absent), 118/122 queue entries >24h stale, oldest 13 days. DISPATCHER INSTALLED: Windows shortcut at %APPDATA%\...\Startup\Attention Dispatcher.lnk → auto-relaunch every login; started right now (PID 32592 at 10:10pm); story-candidate-scorer added to dispatcher schedule (every 4hr at :47, was orphaned — real producer never scheduled). 3-PART SAFETY FIX for the 1.7GB .bak-file-push-rejection incident: (a) scripts/large-file-sentinel.cjs pre-commit step 0 blocks any staged file >50MB, (b) scripts/leftover-artifacts-check.cjs new vault-audit harness check surfaces non-gitignored .bak/.dedupd-state/.tmp/stray-logs to /attention, (c) memory feedback_commit_scope.md rule teaches `git diff --cached --stat` before committing from main repo. `.gitignore` added patterns for data/**/*.bak + *.dedupd-state. 10 commits landed on v4. Dispatcher first run: 11/12 producers succeeded; financial-disclosures timed out (Senate EFDS endpoint unresponsive, external). Story Seeds + missing-profiles regen + 894 donor-side top-N updates deployed. (2026-04-23 evening, Code Claude). -->
 <!-- prior session: ADR-0021 PHASE 3 COMPLETE (4 new harness checks) + ADR-0022 + ADR-0023 DRAFT. Shipped prose-data-consistency, stamp-expiry, type-specific-a-plus, url-domain-policy harness checks; ADR-0022 accepted (type-specific A+ bars); ADR-0023 drafted (proposed) awaiting David review. Merged 5edec0efe. See prior handoff in this file for full detail. (2026-04-23 late evening prior, Code Claude). -->
 <!-- prior session: ADR-0021 OPS STABILITY STRATEGY + 6 RULE ENFORCEMENTS. Late-evening continuation of 2026-04-23. David's concern: "AI has short-term memory. I've tried having documents written so it can remember... but now it's just getting out of control." Discussed whether to delete-and-restart (rejected — data is sacred) vs reorganize the workflow to be self-sustaining. Agreed on ADR-0021 strategy: unified audit harness + 7 missing meta-rules + enforcement over aspiration + single source of truth. WROTE ADR-0021 (content/Decisions/0021-ops-stability-strategy.md) codifying the strategy. DEEP-TRACED /signoff-queue + /launch-50 checklists end-to-end — confirmed both lie. Signoff queue: A+ check only runs for type=politician; 0 politicians pass; all 125 queue items are donors/corporations that skipped the real bar. Launch-50: audit JSON is a frozen snapshot (Kamala Harris shown as draft/0 sources while actually data-complete/1+ sources), 3 of 4 checkboxes are manual-only toggles in gitignored file, manual override trumps audit, readiness tier ignored. 20+ problems documented (content/Admin Notes/ops-audit-2026-04-23.md). RULE-SORT PASS: 70 items classified into 4 buckets (Enforced/Enforceable/Principle/Stale) in content/Admin Notes/rule-sort-pass-2026-04-23.md. David approved all classifications. SAFE ACTIONS: 7 memory entries deleted, CLAUDE.md Rules 1+2 merged, April-30 anchors removed from Rule 11+12, Active ADRs list corrected (was at 0013, now covers 0014-0021 with verification flags). TOLERATED-REGRESSIONS PATTERN (first application of ADR-0021 Rule 17): scripts/_tolerated-regressions.jsonl + scripts/reconcile-canonical-totals.cjs modified to honor tolerance with recheck_after dates. Trump + McConnell tolerated until 2026-05-15 (stale FEC bulk, blocked on weball26 reingest). This replaces the SKIP_HOOKS=1 habit. ENFORCEMENT PROMOTIONS (6 of 7 enforceable rules → hooks; Rule 9 deferred): new scripts/no-inline-field-sentinel.cjs (pre-commit 2b) blocking dataview :: in body + cleaned 19 profiles of 59 trailers; scripts/publication-readiness-check.cjs --public-only flag + wired into .husky/pre-push; scripts/api-pipeline-sentinel.cjs (pre-commit 2c) blocking new API-calling scripts without approved naming or marker; scripts/url-editor-sentinel.cjs + NEW .husky/commit-msg hook (first in that lifecycle) blocking URL edits in verified/data-complete profiles without [url-editor]/[url-verified]/[pipeline] waiver; Memory #22 deleted (calendar update already in session-save skill). ORANGE VERIFICATION: 0 items fully stale. Contradictions memory deleted (feature shipped). LDA memory updated. ADR-0019 + 0020 amended with implementation-status notes (both partially implemented). CLAUDE.md reorganized with 📜 CONSTITUTION / 📚 REFERENCE section dividers (lightweight restructure; full rewrite deferred until Rule 9 + R2 + enrichment cron all land). Memory rules saved: feedback_bug_auto_resolve.md (Claude auto-resolves bugs in same commit as fix) + feedback_harness_not_oneoff.md (extend harness, not one-off scripts). 7 commits: de6ddc34c (ADR-0021) 315d20979 (rule-sort + safe actions + tolerance infra) 26223618f (#5 inline-field sentinel + profile cleanup) d30727dd8 (#3 publication-readiness pre-push) 3d9b5dc95 (#1 + #4 + #6 sentinels) 1c5b6c447 (orange verification) d5f1ed1d7 (CLAUDE.md dividers). Every commit passed the pre-commit gate on first try after the tolerated-regressions pattern landed. (2026-04-23 late evening, Code Claude). -->
 <!-- prior session: REGISTRY AUDIT TOOL + 6 FIXES + CREDIBILITY DEBT HONEST ACCOUNTING. Continuation of same-day 2026-04-23 work after the public lockdown commit. Built scripts/audit-committee-registry.cjs — read-only scan of fec-committee-registry.json with 4 anomaly categories (file-missing, name-mismatch, shared-profile, frontmatter-drift). Ran it, caught 6 clear bugs: (1) C00484642 "SMP" → was mapped to Winsenate.md → correctly remapped to Senate Majority PAC.md. (2) C00868315 "CONCERNED CITIZENS AGAINST CASINOS" → was on Equality Project PAC.md → unmapped (no gambling profile). (3) C00740126 "UNITEDEMOCRATS PAC" → was on Voter Protection Project.md → unmapped. (4-6) path-not-found fixes for Goldman/Markey/Himes (formal FEC names vs vault's common names). Commit 63bec4e1a deployed. THEN David asked the hard question: "how many mistakes like this are throughout the vault?" Honest answer given: 500-2,000 individual issues estimated across the vault, ranging from ~20-30 defamation-adjacent (Fairshake-pattern) to hundreds of cosmetic/stale. Two audits today found 12 bugs; every audit has surfaced real issues so far — no clean audit yet. We've audited <1% of vault surface area. David's reaction: "this whole system isn't working" — wants to pivot to the Ops app, tab-by-tab refinement, normie-friendly surfaces so he can SEE all the problems. Next session's entire mandate. (2026-04-23 evening, Code Claude). -->
@@ -13,6 +14,107 @@ last-updated: 2026-04-23
 <!-- prior session: ADR-0016 FINISH + STEP 5 STUBS + MAINTENANCE SCRIPTS. Evening continuation of 2026-04-21 morning. Wired computeBreakdown into compare + leaderboard Ask panels. Step 5 — 7 new org/PAC stubs + AFSCME International alias. New scripts/dedupe-donor-name-variants.cjs + refresh-edge-count-signal.cjs. Final push 4230f5f33. (2026-04-21 evening, Code Claude). -->
 <!-- prior session: ORPHAN-ENTITIES AUDIT + UX-BREAKDOWN REFACTOR. ADR-0016 labeled-breakdown. Final push 016cd986e. (2026-04-21 early, Code Claude). -->
 
+
+## HANDOFF — 2026-04-24 full day (ADR-0023 C+D + pipelines deactivation + registry + multiple audits — continuing in new chat)
+
+**State of the repo:** 10 commits merged to v4 this session. Worktree branch `claude/determined-chandrasekhar-7a84bc`. All pre-commit + pre-push gates clean. Public lockdown unchanged. Harness now 13 checks (frontmatter-schema + dispatcher-alive + enrichment-freshness added). Pipeline registry is the new single source of truth for what pipelines exist.
+
+### Commits merged to v4 (in order)
+
+- `ff2ee7b64` — ADR-0023 schema module + validator + harness registration (12th check)
+- `2c344b8e5` — ADR-0023 amendments (null semantics + type exemptions)
+- `983697999` — Dispatcher-alive harness check + /attention age UI (P-026/P-027/P-028)
+- `6bcf29f3c` — /pipelines audit: 6 problems logged (P-031 through P-036)
+- `1f8a23096` — Enrichment-freshness harness check (P-034, 13th check)
+- `04c67de65` — Pipeline pause: registry + ops UI + CLAUDE.md Rule 3 + freshness pause-aware
+- `1fd13a82a` — Ops audit: dashboard + sidebar visual pass + 2 /pipelines follow-ups (P-037 through P-043)
+
+Merge commits on v4: e9bcf347c, 1cba92b34, f85ccd998, 09cda1a9c (+ the session-state merge last).
+
+### THE BIG EVENT: Pipelines deactivated
+
+GitHub Actions on `donor-map-engine` (David's private pipeline repo) hit the Free-tier Actions-minutes cap around 2026-04-18. Every scheduled workflow since was killed pre-start by billing. **6 days of silent enrichment drought** — vault data froze, nothing in ops app flagged it.
+
+David's call: **CSV-only phase.** Disabled 7 workflows via `gh workflow disable`:
+1. API Enrichment Pipeline
+2. Batch 1 — Bulk (no-key pipelines)
+3. Batch 2 — FECAPI (sequential, shared key)
+4. Batch 3 — Congress + free gov APIs
+5. Batch 4 — Independent gov APIs
+6. Batch 5 — Corporate + content (once daily)
+7. OpenSecrets URL Replacement
+
+**Kept active:**
+- RSS Intelligence Pipeline (scheduled ~6hr, was viable, will resume post-billing)
+- Auto-Connection Engine (manual-trigger only, zero scheduled cost)
+
+**Billing:** David may raise spending limit, but even if he doesn't, the 7 disabled workflows can't come back to life on their own. `gh workflow enable` + uncomment-cron required to resume any.
+
+### State files / key new paths
+
+- **`data/enrichment-state.json`** — declares `paused: true` + resume instructions. Flip to `paused: false` to re-enable enrichment-freshness alerts.
+- **`ops/src/lib/pipeline-registry.ts`** — single source of truth for pipeline metadata. 30 entries. Active (2): stock-watcher (local), auto-connect. Paused (12). Retired (11). Experimental (1). Broken (2).
+- **`scripts/lib/frontmatter-schema.cjs`** — ADR-0023 schema. Per-type required/proposed/retired + exempt_universal overrides.
+- **`scripts/frontmatter-schema-validator.cjs`** — validator. --json for harness.
+- **`scripts/dispatcher-alive-check.cjs`** — daemon liveness. Uptime-window-aware.
+- **`scripts/enrichment-freshness-check.cjs`** — git log freshness. Pause-aware.
+
+### Open audit findings still to address
+
+From ops-audit-2026-04-23.md (now covers Dashboard, sidebar, /attention, /pipelines, /signoff-queue, /signoff-launch):
+
+**Blocking:**
+- P-026 ✓ fixed (API lastUpdated)
+- P-027 ✓ fixed (per-entry age)
+- P-028 ✓ fixed (dispatcher-alive check)
+- P-031 ✓ fixed (pipeline registry)
+- P-034 ✓ fixed (enrichment-freshness check)
+- **P-037 open** — EnrichmentPanel has its OWN hardcoded 32-pipeline list separate from registry. Bulk Enrichment tab still offers Run buttons for disabled workflows.
+- **P-040 open** — Dashboard "Ready for sign-off: 124" probably the same lie as /signoff-queue (0 politicians actually pass A+ bar)
+- **P-041 open** — Dashboard "Both-sides conflicts: 0" contradicts pipeline-janitor harness which flagged 11
+
+**Compounding / UX:**
+- **P-038** — Next.js dev-server hot-reload misses new lib files; document restart or use --turbo
+- **P-039** — Dashboard S-TIER INSIGHTS uses retired ADR-0017 vocabulary
+- **P-042** — Sidebar 30-entry flat list needs DAILY/WEEKLY/EXPERIMENTAL/ADMIN grouping (proposal drafted)
+- **P-043** — Sidebar badges ("Notes & Queues 58", "Public Tips 1") have unaudited data sources
+
+**Still from prior audit, unresolved:**
+- P-002 — checklist verdicts drift from reality
+- P-005 — /bugs surfaces 267 stale Phase-6 items
+- P-006 — Alerts page localStorage-based "resolved" state
+- P-030 — /attention footer contradicts CLAUDE.md
+
+### Next session priorities (this work continues in a new chat for context hygiene)
+
+1. **Fix P-037** — EnrichmentPanel wired to PIPELINE_REGISTRY. Right now it still offers Run buttons for paused pipelines. Small, high-leverage fix — consolidates the last hardcoded pipeline list into the registry.
+2. **Dashboard audit** — per David's request. P-039, P-040, P-041 are visible lies on the landing page. Trace each widget's data source, fix or remove.
+3. **Sidebar reorganization (P-042)** — apply the DAILY/WEEKLY/EXPERIMENTAL/ADMIN grouping from the audit. Also audit each badge count (P-043).
+4. **CSV ingest validation** — David's original question: "are CSV bulk scripts actually inputting into the vault correctly before we schedule them?" Untraced. Should run each of `scripts/ingest-*-bulk.cjs` in dry-run mode, verify vault writes land, look for silent skip/error cases.
+5. **Continue open ops page audits** — /profile, /sources, /operations, /bugs (267 Phase-6 items), /relationships.
+
+### Open deferrals
+
+- Fresh FEC bulk download (weball24 / weball26)
+- ProfileSearch browser verification
+- `donors_to` intent row splitting
+- ADR-0017 readiness tier sync into entities.jsonl
+- Rule 9 enforcement promotion (last of 7)
+- Dashboard revamp (wire widgets to registry + harness)
+- EnrichmentPanel fix (P-037)
+- Billing decision — raise spending limit or wait for monthly reset (May 1)
+
+### Default behavior change this session
+
+**Per David's ask**, Code Claude now defaults to laymen's / plain-English explanations with technical detail available on request. Applies to session summaries, audit findings, status reports.
+
+### How changes propagate to ops app (P-038)
+
+New lib files under `ops/src/lib/` don't always hot-reload in Next.js dev. If `/pipelines` or other pages don't show changes after commit:
+- Stop the ops dev server (Ctrl+C)
+- `npm run dev` again (or `npm run dev -- --turbo` for faster hot-reload)
+
+---
 
 ## HANDOFF — 2026-04-23 evening (ADR-0023 Phases A+B + /attention audit + dispatcher installed + 3-part safety fix)
 
