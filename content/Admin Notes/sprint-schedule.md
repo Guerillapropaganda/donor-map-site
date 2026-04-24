@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: normal
 status: active
-last-updated: '2026-04-24-ADR-0021-phase-3-complete-plus-adr-0023-draft'
+last-updated: '2026-04-23-adr-0023-phases-ab-plus-dispatcher-installed-plus-safety-fix'
 sprint-id: "2026-04-sprint"
 sprint-start: '2026-04-10'
 sprint-end: '2026-04-30'
@@ -2609,6 +2609,62 @@ phase_3_tasks:
       added_adhoc: true
       notes: "New scripts/refresh-edge-count-signal.cjs streams every edge file, counts from/to occurrences per entity, rewrites signals.edge_count + adds signals.edge_count_refreshed_at timestamp. Baseline: 96% of entities drifted (2,030 of 2,111). 1,177 had stale 0 stamp despite real edges. Applied: BlackRock 0→126, Charles Schwab 0→236, Fidelity Investments 1→555, Citigroup 4→449, Leonard Leo 11→185, Jeffrey Epstein Network 3→31, Bank of America 2→560, etc. Backup at data/entities.jsonl.pre-edge-count-refresh.bak. Commit 4230f5f33."
 
+    - id: cc_p3_49
+      task: "ADR-0023 accepted + Phase A: retire 16 zero-consumer frontmatter fields"
+      status: done
+      completed_date: 2026-04-23
+      added_adhoc: true
+      notes: "ADR-0023 flipped proposed→accepted with David's 4 answers (retire all 16, editorial→legal cleaner, TTL 28d not 180d, harness-first validator). scripts/retire-frontmatter-fields.cjs — line-based YAML stripper, preserves untouched formatting, handles multi-line list values. Removed 16 fields across 25 profiles (58 instances). Commits 4775c3029, 450eac6a4."
+
+    - id: cc_p3_50
+      task: "Phase A amendment: fec-previous-ids structured pattern + 3 edge-case fixes"
+      status: done
+      completed_date: 2026-04-23
+      added_adhoc: true
+      notes: "Phase A retirement dropped 3 fields with real data that weren't true variants. Rubio had S0FL00338 (Senate 2010-2022) + P60006723 (2016 Presidential); Porter had S4CA00522 (current) + H8CA45130 (2018-2024 House). Different elections, different committees — NOT naming drift. New fec-previous-ids structured list pattern (§5 rewritten) preserves office + cycles metadata. David Sacks donor-network sub-note: parent-profile migrated to parent. Commit 9eb9d1f21."
+
+    - id: cc_p3_51
+      task: "ADR-0023 Phase B: retire editorial-review-* fields (no migration)"
+      status: done
+      completed_date: 2026-04-23
+      added_adhoc: true
+      notes: "Original plan was migrate editorial-review-* to legal-review-*. On inspection, reviewer=Research Claude + results=verified-candidate/pass/stub-created/block — editorial-workflow data, not legal-risk. Migration would poison legal-review namespace (ADR-0022 A+ gate field). Reversed to retire-outright on 16 profiles. §4 amended. retire-frontmatter-fields.cjs extended. Commit 13575847a."
+
+    - id: cc_p3_52
+      task: "ADR-0022 follow-up: drop politician gate on pipeline-janitor universal A+ checks"
+      status: done
+      completed_date: 2026-04-23
+      added_adhoc: true
+      notes: "scripts/pipeline-janitor.cjs had universal checks (source-floor, legal-review, central-thesis, story-grade, both-sides) gated on type==='politician' — leftover from politician-only A+ era. ADR-0022 introduced universal floor + per-type bars. Ungated the universal checks; kept committee-cross-ref politician-specific. A+ audit scope went from 125 politicians to 606 ready/verified profiles. story-grade missing on ALL 606. Commit 08678ef8c."
+
+    - id: cc_p3_53
+      task: "Close 4 GitHub Dependabot alerts: xmldom 0.8.12 → 0.8.13"
+      status: done
+      completed_date: 2026-04-23
+      added_adhoc: true
+      notes: "4 high-severity alerts (#3-#6) all for same package: @xmldom/xmldom < 0.8.13. Transitive via pixi.js ^0.8.10. Bumped within allowed range via `npm update @xmldom/xmldom`. npm audit: 0 vulnerabilities. Commit 55832a036."
+
+    - id: cc_p3_54
+      task: "/attention ops page audit + 6 findings logged (P-025 through P-030)"
+      status: done
+      completed_date: 2026-04-23
+      added_adhoc: true
+      notes: "End-to-end trace of ops/src/app/attention/page.tsx + /api/attention-queue + scripts/attention-dispatcher.cjs + .attention-queue-store.json. Headline: dispatcher daemon had NEVER run; .attention-dispatcher.log absent; 118/122 queue entries >24h stale (oldest 13 days). Findings appended to content/Admin Notes/ops-audit-2026-04-23.md. Commit ff75403cc."
+
+    - id: cc_p3_55
+      task: "Install attention dispatcher (Windows Startup shortcut) + add story-candidate-scorer to schedule"
+      status: done
+      completed_date: 2026-04-23
+      added_adhoc: true
+      notes: "Windows shortcut at %APPDATA%\\...\\Startup\\Attention Dispatcher.lnk relaunches dispatcher on every login. Started live (PID 32592 at 22:10 local). story-candidate-scorer.cjs was a real queue producer but orphaned from the dispatcher's PRODUCERS list — entries from one manual run 10 days ago had turned into ghosts. Deleted 20 ghost entries, added to schedule (every 4hr at :47, staggered against :17/:37). Dispatcher now runs 12 producers. First run 11/12 succeeded (financial-disclosures timed out — Senate EFDS endpoint unresponsive, external). Commits a91aae01e, 1d0653091 merge."
+
+    - id: cc_p3_56
+      task: "3-part safety fix: large-file sentinel + leftover-artifacts harness + commit-scope memory rule"
+      status: done
+      completed_date: 2026-04-23
+      added_adhoc: true
+      notes: "Response to 2026-04-23 incident: git add -A in main repo swept 1.7GB FEC dedup .bak files into a commit, push rejected by GitHub's 100MB limit. Required reset+redo. Three independent defenses: (1) scripts/large-file-sentinel.cjs pre-commit step 0 blocks any staged file >50MB with clear error. (2) scripts/leftover-artifacts-check.cjs — new vault-audit harness check walks repo for *.bak / *.dedupd-state / *.tmp / stray *.log not gitignored, surfaces to /attention compounding-bucket. (3) Memory feedback_commit_scope.md teaches future sessions to run `git diff --cached --stat` before committing from main repo. Plus: .gitignore patterns added for data/**/*.bak + *.dedupd-state. Commit ad4101413 merged as 14226fccf."
+
   david:
     - id: dc_p3_01
       task: "Legal sanity review — personally read top 20 verified profiles"
@@ -2779,7 +2835,7 @@ parser_guidance:
         Removed inline body dataview fields on Stratton and Miller. Fixed Mark Green central-thesis typo.
         Flag: Mark Green FEC/GovTrack auto-blocks show wrong politician data (govtrack-id 400159, 2010-2014 cycles). Pipeline correction needed.
 
-**Schedule last updated: 2026-04-24 evening (Code Claude: ADR-0021 PHASE 3 COMPLETE + ADR-0022 ACCEPTED + ADR-0023 FULL DRAFT PROPOSED. 5 commits on branch claude/interesting-morse-2d7e45, all pre-commit/pre-push gates clean. Harness grew 6 → 10 checks. cc_204 prose-data-consistency (18320926f) — narrow pattern matcher catches same-profile numeric drift like Trump's 6/10 mega-donors. cc_205 stamp-expiry (3fcbe902c) — tiered last-enriched windows, verified 180d / data-complete 90d. cc_206 ADR-0022 + type-specific-a-plus (07fc2c2a9) — universal floor + per-type bars for politician/donor/corporation/think-tank; first run surfaced 1,388 real findings across 446 profiles, primary driver 446/446 missing story-grade. cc_207 url-domain-policy + ADR-0023 stub (4ff3401f9) — 121 findings (105 opensecrets, 12 ftm, 4 lda). cc_208 ADR-0023 full draft (3964d71a3) — 184-field corpus survey, 16 zero-consumer retirement candidates, 5 universal required fields, 4-phase backfill plan, AWAITING DAVID REVIEW before implementation. cc_209 session-save. Next session: Option A implement ADR-0023 retirement sweep; Option B drop pipeline-janitor politician gate; Option C start Phase 4 auto-fix triage.)**
+**Schedule last updated: 2026-04-23 evening (Code Claude: ADR-0023 PHASES A+B LANDED + /ATTENTION AUDIT + DISPATCHER INSTALLED + 3-PART SAFETY FIX. 10 commits merged to v4 (a128105c8, 1f6c4db89, 1d0653091, 14226fccf merges). cc_p3_49 ADR-0023 accepted + Phase A: 16 zero-consumer fields retired across 25 profiles. cc_p3_50 Phase A amendment: fec-previous-ids structured pattern preserves historical election-cycle FEC IDs (Rubio Presidential+Senate, Porter House+Senate); David Sacks parent-profile migrated to parent. cc_p3_51 Phase B: editorial-review-* retired NOT migrated (reversed mid-session — data was editorial-workflow not legal-risk). cc_p3_52 ADR-0022 follow-up: pipeline-janitor politician gate dropped; universal A+ checks now cover all 606 ready/verified profiles; story-grade missing on ALL 606. cc_p3_53 xmldom 0.8.13 closes 4 Dependabot alerts. cc_p3_54 /attention audit P-025 through P-030 logged. cc_p3_55 DISPATCHER INSTALLED — Windows Startup shortcut + started live (PID 32592); story-candidate-scorer added to schedule. cc_p3_56 large-file sentinel + leftover-artifacts harness + commit-scope memory rule. Next session: ADR-0023 Phase C+D + schema module + validator; dispatcher-alive harness; /pipelines ops audit.)**
 
 <!-- Prior: 2026-04-24 (Code Claude: ADR-0021 PHASE 2 COMPLETE — Ops /system-health wired to vault-audit harness + findings flow into /attention automatically. 2 commits deployed to v4. cc_201 Phase 2a — new /api/vault-audit + Vault audit harness panel (5fae16e41, merged 5a93000fa). cc_202 Phase 2b — scripts/vault-audit.cjs calls addEntries, per-check queue config co-located with cmd/parse, source-scoped atomic replacement (519a91934, merged 11215daa0).) -->**
 
