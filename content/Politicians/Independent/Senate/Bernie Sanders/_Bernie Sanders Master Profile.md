@@ -26,8 +26,6 @@ issues:
   - Taxation
 committees:
   - Health, Education, Labor & Pensions (Ranking Member, 119th Congress)
-former-committees:
-  - Budget (Chair, 118th Congress 2023–2025)
 top-donors:
   - SEIU , Service Employees International Union
   - CNA , California Nurses Association / National Nurses United

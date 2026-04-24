@@ -46,15 +46,6 @@ bills-sponsored: 225
 bills-cosponsored: 991
 website: https://www.hickenlooper.senate.gov
 phone: 202-224-5941
-opensanctions-status: pep-sanctioned
-opensanctions-matches: 2
-opensanctions-datasets:
-  - ann_pep_positions
-  - wd_categories
-  - wd_peps
-  - wikidata
-  - ru_mfa_sanctions
-  - us_congress
 committees:
   - Senate Committee on Commerce, Science, and Transportation
   - Senate Committee on Energy and Natural Resources

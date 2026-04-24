@@ -45,17 +45,7 @@ corroboration-count: 3
 editorial-review-date: "2026-04-10"
 editorial-reviewer: Research Claude
 editorial-result: pass
-editorial-blockers: []
 editorial-notes: "Two-pass review on 2026-04-10: (Pass 1 — cleanup) Fixed 8 flags from Code Claude demotion aftermath: folded auto:govtrack pending-merge into main block, fixed [!contradiction-cleared] non-standard callout, fixed 3 broken wikilinks (Bowman/Justice Democrats/Pressley), structured donors/opposes as YAML lists, added issues field, restored known-gaps, updated editorial state block→pass, chamber House→Former House, added N/A note under dangling Committee Assignments section. (Pass 2 — pipeline integration) Integrated fresh pipeline data from 2026-04-10 engine fix verification: added H.Res. 786 ceasefire resolution (Oct 25, 2023) as the trigger event in Central Thesis, added H.Res. 634 (Unhoused Persons Bill of Rights), H.Con.Res. 92 (Mary Meachum Freedom Crossing), H.R. 8470 (Helping Families Heal Act) to Donation-to-Policy Timeline, built 5-cycle FEC fundraising arc table (2018 $177K → 2024 $4.17M → 2026 $534K), added full 2024 IE spending breakdown table ($13.97M opposition vs $4.4M support = 3.17x ratio), strengthened Grassroots-Only Rebrand with $0 PAC specifics, added 3 new Analytical Patterns (Multi-Pressure Vector Targeting, Fundraising Arc Inversion, Grassroots Insulation Limit). Profile now at 5 analytical patterns matching depth of Tlaib/Omar/Pressley/Khanna/Whitehouse/Warnock verified-candidates. Pipeline data all verified clean post-engine-fixes. No A000383 contamination, no DOJ false positives. Ready for David's verified sign-off decision."
-verified-blocks:
-  - voting-records
-  - fec-data
-  - source-diversity
-  - enriched
-  - connections
-  - contradiction-review
-  - orphan-claims
-  - editorial-quality
 checklist-na:
   - "committee-assignments: Lost 2024 primary, no longer in 119th Congress"
 known-gaps:

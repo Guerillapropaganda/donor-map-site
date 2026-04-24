@@ -38,18 +38,6 @@ known-gaps:
 editorial-review-date: "2026-04-08"
 editorial-reviewer: Research Claude
 editorial-result: block
-editorial-blockers:
-  - "No last-enriched date in frontmatter (Code Claude: run enrichment pipeline)"
-  - Unresolved Crowley Maritime contradiction , needs investigation
-  - "Wikipedia URL broken: points to All-In podcast instead of Carlos Gimenez"
-  - "Connections incomplete: Rubio, Diaz-Balart, Salazar, MasTec, Fanjul mentioned in body but not all in YAML"
-  - StoneColdTruth.com source is Tier 4 (Roger Stone) , claims need independent verification
-verified-blocks:
-  - voting-records
-  - committee-assignments
-  - bills
-  - fec-data
-  - source-diversity
 needs-reenrichment: true
 reenrich-reason: run congress pipeline; run pipelines
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."

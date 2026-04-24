@@ -71,10 +71,6 @@ sec-form-types:
   - SC TO-C
   - SC14D9C
   - SCHEDULE 13G/A
-opensanctions-status: sanctioned
-opensanctions-matches: 1
-opensanctions-datasets:
-  - eu_esma_saris
 federal-awards-total: 43
 federal-contracts-count: 0
 federal-grants-count: 1

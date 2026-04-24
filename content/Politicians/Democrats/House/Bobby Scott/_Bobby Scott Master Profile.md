@@ -37,15 +37,6 @@ total-received: $415,325
 fec-candidate-id: H6VA01117
 donors: "[[AFGE - American Federation of Government Employees]] · [[Blue Shield of California]] · [[Student Loan Servicer Industry]] · [[Sierra Club Independent Action]] · [[United We Can]] · [[DEMOCRATIC PARTY OF VIRGINIA]] · [[TOGETHER WE THRIVE]] · [[SOUTHERN STATES POLICE BENEVOLENT ASSOC PAC FUND]] · [[NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY PAC]] · [[National Committee to Preserve Social Security PAC]] · [[Democratic Party of Virginia]] · [[Southern States Police Benevolent Assoc PAC Fund]] · [[Together We Thrive]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[SEIU COPE]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Sierra Club Political Committee]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[NEA Fund for Children and Public Education]] · [[UA Political Action Committee]] · [[League of Conservation Voters]] · [[Unite Here Tip Campaign Committee]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Anthem - Elevance Health]] · [[General Dynamics]] · [[AFL-CIO]] · [[Walmart - Walton Family]] · [[Google - Alphabet]] · [[Lockheed Martin]] · [[Microsoft]] · [[Morgan Stanley]] · [[National Association of Realtors]] · [[AT&T - WarnerMedia]] · [[Comcast - NBCUniversal]] · [[Raytheon (RTX)]] · [[American Hospital Association PAC]] · [[Medicare for All - The Policy That Broke the Party]] · [[General Motors]] · [[Planned Parenthood Votes]] · [[AT&T]] · [[American Federation of State County & Municipal Employees  P E O P L E]]"
 related: "[[Tim Walberg]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[SEIU - Service Employees International Union|SEIU]]"
-opensanctions-status: pep
-opensanctions-matches: 1
-opensanctions-datasets:
-  - ann_pep_positions
-  - wd_categories
-  - everypolitician
-  - wd_peps
-  - wikidata
-  - us_congress
 needs-reenrichment: true
 reenrich-reason: run congress pipeline; run pipelines
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."

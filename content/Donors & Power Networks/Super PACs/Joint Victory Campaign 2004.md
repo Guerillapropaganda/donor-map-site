@@ -8,7 +8,6 @@ aliases:
   - JOINT VICTORY CAMPAIGN 2004
 sector: Super PACs
 entity-type: 527 Committee
-historical: true
 source-tier: 1
 internal-notes: Stub profile auto-created 2026-04-21 from orphan-entities-queue. Historical Democratic-aligned 527 joint-fundraising committee active in the 2004 cycle. Pooled contributions for America Coming Together (ACT) and The Media Fund, both major anti-Bush-reelection vehicles funded by George Soros, Peter Lewis, and other Democratic mega-donors. $44.5M in tracked flow across 2 edges (IRS 527 filings). Research Claude editorial pass pending.
 known-gaps:

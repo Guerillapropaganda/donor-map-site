@@ -1,7 +1,6 @@
 ---
 title: David Sacks - Donor Network
 type: sub-note
-parent-profile: "[[_David Sacks Master Profile|David Sacks]]"
 content-readiness: ready
 last-updated: 2026-04-15
 source-tier: 1

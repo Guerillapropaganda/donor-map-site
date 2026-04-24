@@ -19,30 +19,11 @@ related: ">- · [[Crypto Industry Buys Both Parties in One Cycle]] · [[Ohio 202
 editorial-review-date: "2026-04-08"
 editorial-reviewer: Research Claude
 editorial-result: block
-editorial-blockers:
-  - Bills 0/0 wrong — 18-year senator, needs re-enrichment with correct FEC ID
-  - No source-types computed
-  - No last-enriched date
-  - No committee data — chaired Senate Banking Committee (needs enrichment)
-  - OpenSecrets URL present — must move to Archived per Vault Rules
-  - "Body has duplicate related:/donors: fields outside frontmatter (cleanup needed)"
-verified-blocks:
-  - connections
 known-gaps:
   - Senate FEC data needs re-enrichment (ID fixed to S6OH00163)
   - Committee assignments missing (chaired Banking)
   - Bills sponsored/cosponsored data wrong (shows 0)
   - No source-types detected
-opensanctions-status: pep-sanctioned
-opensanctions-matches: 2
-opensanctions-datasets:
-  - wd_categories
-  - ann_pep_positions
-  - everypolitician
-  - us_congress
-  - wd_peps
-  - wikidata
-  - ru_mfa_sanctions
 needs-reenrichment: true
 reenrich-reason: demote to draft
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • The profile's own known-gaps field says it needs a fresh pipeline run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."

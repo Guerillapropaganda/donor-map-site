@@ -8,7 +8,6 @@ source-tier: 1
 parent: null
 party: "Democrat"
 chamber: "Candidate"
-running-for: "CA-11 House 2026"
 state: "California"
 state-abbr: "CA"
 district: "11"

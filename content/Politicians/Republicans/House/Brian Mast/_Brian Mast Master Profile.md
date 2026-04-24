@@ -30,16 +30,6 @@ known-gaps:
   - "No voting record data"
 donors: "[[NORPAC]] · [[NRCC]] · [[SPECIAL OPERATIONS FOR AMERICA]] · [[WITH HONOR FUND, INC.]] · [[Fanjul Family - Florida Crystals]] · [[Special Operations for America]] · [[Tenet Healthcare]] · [[BAE Systems]] · [[Raytheon (RTX)]] · [[Comcast - NBCUniversal]] · [[UA Political Action Committee]] · [[Jason Smith]] · [[NextEra Energy]] · [[Walmart - Walton Family]] · [[National Association of Realtors]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Leidos]] · [[General Motors]] · [[Republican Jewish Coalition]] · [[Planned Parenthood Votes]] · [[Chevron]] · [[Save America PAC]] · [[American Chemistry Council, INC]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Lockheed Martin]] · [[Freedom's Defense Fund]] · [[ADM - Archer Daniels Midland]] · [[WinRed]] · [[David Rouzer]] · [[National Multifamily Housing Council]] · [[Las Vegas Sands]] · [[Wells Fargo]] · [[Morgan Stanley]] · [[CBRE Group]] · [[NRCC - National Republican Congressional Committee]] · [[With Honor Fund]]"
 related: "[[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Marco Rubio Master Profile|Rubio]] · [[Fanjul Family - Florida Crystals]] · [[Operation Southern Spear and the Cuba Fuel Blockade]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]]"
-opensanctions-status: pep-sanctioned
-opensanctions-matches: 2
-opensanctions-datasets:
-  - wd_categories
-  - ann_pep_positions
-  - everypolitician
-  - wd_peps
-  - wikidata
-  - us_congress
-  - ru_mfa_sanctions
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 32
 bills-cosponsored: 212

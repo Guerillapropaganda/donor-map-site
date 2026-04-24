@@ -25,17 +25,6 @@ website: "https://mcgovern.house.gov"
 phone: "202-225-6101"
 donors: "[[National Nurses United]]"
 related: "[[_Donald Trump Master Profile|Trump]]"
-opensanctions-status: "pep-sanctioned"
-opensanctions-matches: 4
-opensanctions-datasets:
-  - "ann_pep_positions"
-  - "wd_categories"
-  - "everypolitician"
-  - "cn_sanctions"
-  - "wd_peps"
-  - "wikidata"
-  - "ru_mfa_sanctions"
-  - "us_congress"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline; run congress pipeline; run pipelines"
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:

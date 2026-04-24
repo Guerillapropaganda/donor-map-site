@@ -16,8 +16,6 @@ fec-committee-id: C00680934
 committees:
   - House Committee on Education and Workforce
   - House Committee on the Budget
-former-committees:
-  - Foreign Affairs (removed February 2, 2023 by 218-211 House vote)
 issues:
   - Agriculture and Food
   - Animals
