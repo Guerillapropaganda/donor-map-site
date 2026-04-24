@@ -1,37 +1,38 @@
 ---
-title: "Robert B. Aderholt"
+title: Robert B. Aderholt
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Alabama"
-state-abbr: "AL"
+party: Republican
+chamber: House
+state: Alabama
+state-abbr: AL
 district: "4"
-bioguide-id: "A000055"
+bioguide-id: A000055
 govtrack-id: 400004
 born: "1965-07-22"
-wikidata-id: "Q672671"
-website: "https://aderholt.house.gov"
-phone: "202-225-4876"
+wikidata-id: Q672671
+website: https://aderholt.house.gov
+phone: 202-225-4876
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 9
 bills-cosponsored: 167
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies"
+  - Agriculture, Rural Development, Food and Drug Administration, and Related Agencies
   - Defense
   - House Committee on Appropriations
-  - "Labor, Health and Human Services, Education, and Related Agencies"
+  - Labor, Health and Human Services, Education, and Related Agencies
+top-donors: "[[National Cattlemen's Beef Association]], [[NRA Political Victory Fund]], [[AbbVie]], [[American Iron and Steel Institute]], [[Tyson Foods]], [[Pfizer Inc.]], [[Koch Industries]], [[Nucor Corporation]], [[National Right to Life PAC]], [[Associated General Contractors of America Political Action Committee]], [[Leidos]], [[KAY GRANGER CAMPAIGN FUND]], [[Cargill]], [[National Restaurant Association]], [[AIPAC - American Israel Public Affairs Committee]], [[Akin Gump Strauss Hauer & Feld]], [[Steve Scalise]], [[Gilead Sciences]], [[Southern Company]], [[CoreCivic]], [[Amgen Inc]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[GEO Group - Private Prison Industrial Complex]], [[Bechtel Corporation]], [[McDonalds Corporation]], [[Scott Desjarlais]], [[Campaign for Working Families]], [[Google - Alphabet]], [[Monsanto - Bayer]], [[Christopher H. Smith]], [[TEXANS FOR JODEY ARRINGTON]], [[Kevin McCarthy]], [[Darin Lahood]], [[COLE FOR CONGRESS]], [[Family Research Council Action Political Action Committee]], [[BEN CLINE FOR CONGRESS, INC.]], [[Roger Wicker]], [[Brett Guthrie]], [[BYRON DONALDS FOR CONGRESS]], [[John Boehner]]"
 ---
 
 

@@ -13,8 +13,8 @@ aliases:
   - WFP NATIONAL PAC
   - Working Families Party
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Cori Bush]], [[Summer Lee]], [[Raul Grijalva]], [[George Latimer]], [[Wesley Bell]], [[Rashida Tlaib]], [[ActBlue]], [[Donald Trump]], [[Working Families Party PAC]], [[Wfp Ie Committee]], [[Tammy Baldwin]], [[Vicente Gonzalez]], [[Yassamin Ansari]], [[_Summer Lee Master Profile]], [[Kamala Harris]], [[Raphael Warnock]], [[Maxwell Frost]], [[Henry Cuellar]], [[Sherrod Brown]], [[Ilhan Omar]], [[Adam Gray]], [[Josh Riley]], [[Jamaal Bowman]], [[Andrea Salinas]], [[Ayanna Pressley]], [[Maxine Dexter]], [[Jahana Hayes]], [[John Fetterman]], [[Teresa Leger Fernandez]], [[Nina Turner]], [[_Rashida Tlaib Master Profile]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Cori Bush]], [[Summer Lee]], [[Raul Grijalva]], [[George Latimer]], [[Wesley Bell]], [[Rashida Tlaib]], [[ActBlue]], [[Donald Trump]], [[Working Families Party PAC]], [[Wfp Ie Committee]], [[Tammy Baldwin]], [[Vicente Gonzalez]], [[Yassamin Ansari]], [[_Summer Lee Master Profile]], [[Kamala Harris]], [[Raphael Warnock]], [[Maxwell Frost]], [[Henry Cuellar]], [[Sherrod Brown]], [[Ilhan Omar]], [[Adam Gray]], [[Josh Riley]], [[Jamaal Bowman]], [[Andrea Salinas]], [[Ayanna Pressley]], [[Maxine Dexter]], [[Jahana Hayes]], [[John Fetterman]], [[Teresa Leger Fernandez]], [[Nina Turner]], [[_Rashida Tlaib Master Profile]], [[LIRA, PEDRO]], [[MIDDLE SEAT]], [[CLIFFORD, VANESSA]], [[THE MOVEMENT COOPERATIVE]], [[LAKE RESEARCH PARTNERS]], [[LEON, AMARIS]], [[HABBO, SARA]], [[EASTERDAY, DYLAN]], [[WATKINS, TONI]], [[HILTON, DANIEL]], [[TOSKR]], [[ROGERS, THOMAS]], [[MCCLURE, FALLON]], [[PORRITT, BROOKE]], [[Michael Bloomberg]], [[KAMEN, ARI]], [[THOMAS MASSIE FOR CONGRESS]], [[NORVIG, ISABELLA]], [[HINES, VIDAL]], [[KHODABANDEH, MEHRAN]], [[WARE, CHRISTOPHER]], [[KIM, JANE]], [[ACKERMAN, SARA]], [[DUNLEA, QUINN]], [[MAYORALGO, SCARLETT]], [[NY WORKING FAMILIES PARTY]], [[ROSSO, ERIC ,]], [[PEREZ, SHANNON]], [[WISCONSIN ETHICS COMMISSION]], [[Financial Services Donors]], [[RASMAN, NORA]], [[DINKIN, JOE]], [[OREJUELA, YAEL]], [[EVANS, VANZETTA]], [[HOLLISTER ISMAN, GEORGIA]], [[COMMUNITY LABOR ADMINISTRATIVE SERVICES, INC.]], [[UPSWING RESEARCH AND STRATEGY]], [[AIDOO, MICHAEL]], [[DUFFEY, ROBERT]], [[MONACO, CHARLES]], [[SPRINGER JR, ANTHONY]], [[DINKIN, JOSEPH]], [[CONTRERAS, JORGE]], [[GOLD, ADAM]], [[BLAETTLER, CHARLIE]], [[WHALEY, BRITNEY]], [[PITT, ELIZABETH]], [[Michigan Republican Party]], [[FARRELL, LINDSAY]], [[Johnson & Johnson]], [[PERSSON, ERICKA]], [[COMMUNITY LABOR ADMINISTRATIVE SERVICES]], [[CRUMP, RYAN]], [[WOLFSUN, JOSHUA]], [[SAXTON, ANGELA]], [[LENTZ, BRAEDEN]], [[KNOX, JENNIFER]], [[MUHAMMAD, SALAAH]], [[VAPSVA, CHRISTINE]], [[MOORE FOR WEST VIRGINIA, INC.]], [[Israel - Government Lobbying Operation]], [[SNYDER, BRANDEN]], [[STAMP, NELINI]], [[VALVERDE, CARLOS]], [[CORDEIRO, MATTHEW]], [[SPENCE, JAMES]], [[MITCHELL, MAURICE]], [[CHALONER ASSOCIATES, INC.]], [[TOSCANO, KYLIE]], [[PARADIS, RENEE]], [[Bob Menendez]], [[Becca Balint]], [[Jasmine Crockett]], [[Angela D. Alsobrooks]], [[Andy Kim]], [[Melanie A. Stansbury]], [[Tim Kaine]], [[Greg Casar]], [[John W. Mannion]], [[Delia C. Ramirez]], [[Gabe Vasquez]], [[Bob Casey]], [[Haley M. Stevens]], [[Jon Ossoff]]"
 related: "[[Wesley Bell]] · [[Summer Lee]] · [[Raul Grijalva]] · [[George Latimer]] · [[Cori Bush]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -31,7 +31,7 @@ employee-contributions-total: 45354
 employee-donor-count: 51
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

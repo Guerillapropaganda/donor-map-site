@@ -18,28 +18,28 @@ phone: 202-225-2915
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-donors: "[[National Cattlemen's Beef Association]], [[Associated General Contractors of America Political Action Committee]], [[Republican Jewish Coalition]], [[Microsoft]], [[American Hospital Association PAC]], [[Northrop Grumman]], [[AT&T - WarnerMedia]], [[National Association of Realtors]], [[Comcast - NBCUniversal]], [[American Chemistry Council, INC]], [[Amgen Inc]], [[Marathon Petroleum]], [[David Rouzer]], [[AIPAC - American Israel Public Affairs Committee]], [[MAJORITY PAC]], [[Pfizer Inc.]], [[Chevron]], [[NextEra Energy]], [[Performance Racing Inc.]], [[National Rifle Association]], [[Walmart - Walton Family]], [[Citigroup]], [[Anthem - Elevance Health]], [[National Multifamily Housing Council]], [[Lockheed Martin]], [[Gilead Sciences]], [[Cooperative of American Physicians Independent Expenditure Committee]], [[Google - Alphabet]], [[Raytheon (RTX)]], [[August Pfluger]], [[Valero Energy]], [[Honeywell]], [[L3Harris Technologies]], [[Halliburton]], [[PG&E - Pacific Gas and Electric]], [[IBEW - International Brotherhood of Electrical Workers]], [[Duke Energy]], [[Tenet Healthcare]], [[AbbVie]], [[Morgan Stanley]], [[Jason Smith]], [[TikTok - ByteDance]], [[Nvidia]], [[Blackstone Group]], [[Kaiser Permanente]], [[Johnson & Johnson]], [[US CHAMBER OF COMMERCE]], [[Fidelity Investments]], [[Never Back Down Inc]], [[Majority PAC]], [[AT&T]], [[Honeywell International]], [[US Chamber of Commerce]], [[Never Back Down Inc.]]"
+  - No FEC contribution data
+  - No voting record data
+donors: "[[National Cattlemen's Beef Association]], [[Associated General Contractors of America Political Action Committee]], [[Republican Jewish Coalition]], [[Microsoft]], [[American Hospital Association PAC]], [[Northrop Grumman]], [[AT&T - WarnerMedia]], [[National Association of Realtors]], [[Comcast - NBCUniversal]], [[American Chemistry Council, INC]], [[Amgen Inc]], [[Marathon Petroleum]], [[David Rouzer]], [[AIPAC - American Israel Public Affairs Committee]], [[MAJORITY PAC]], [[Pfizer Inc.]], [[Chevron]], [[NextEra Energy]], [[Performance Racing Inc.]], [[National Rifle Association]], [[Walmart - Walton Family]], [[Citigroup]], [[Anthem - Elevance Health]], [[National Multifamily Housing Council]], [[Lockheed Martin]], [[Gilead Sciences]], [[Cooperative of American Physicians Independent Expenditure Committee]], [[Google - Alphabet]], [[Raytheon (RTX)]], [[August Pfluger]], [[Valero Energy]], [[Honeywell]], [[L3Harris Technologies]], [[Halliburton]], [[PG&E - Pacific Gas and Electric]], [[IBEW - International Brotherhood of Electrical Workers]], [[Duke Energy]], [[Tenet Healthcare]], [[AbbVie]], [[Morgan Stanley]], [[Jason Smith]], [[TikTok - ByteDance]], [[Nvidia]], [[Blackstone Group]], [[Kaiser Permanente]], [[Johnson & Johnson]], [[US CHAMBER OF COMMERCE]], [[Fidelity Investments]], [[Never Back Down Inc]], [[Majority PAC]], [[AT&T]], [[Honeywell International]], [[US Chamber of Commerce]], [[Never Back Down Inc.]], [[Raytheon (RTX Corporation)]], [[Steve Scalise]], [[Akin Gump Strauss Hauer & Feld]], [[FEDORCHAK FOR ND]], [[Kevin McCarthy]], [[BLAKE MOORE FOR CONGRESS]], [[Blue Shield of California]], [[DAVID ROUZER FOR CONGRESS]], [[Mike Johnson]], [[Koch Industries]], [[Morgan Luttrell]], [[NRA Political Victory Fund]], [[Williams Companies]], [[Tom Emmer]], [[Glenn Thompson]], [[Southern Company]], [[David P. Joyce]], [[AUGUST PFLUGER FOR CONGRESS]], [[TEXANS FOR JODEY ARRINGTON]], [[JASON SMITH FOR CONGRESS]], [[West PropanePAC]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4CA20181
 bills-sponsored: 4
 bills-cosponsored: 56
 bills-enacted: 0
 top-policy-area: Health
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Cybersecurity and Infrastructure Protection
   - Highways and Transit
   - House Committee on Homeland Security
-  - "House Committee on Science, Space, and Technology"
+  - House Committee on Science, Space, and Technology
   - House Committee on Transportation and Infrastructure
-  - "Railroads, Pipelines, and Hazardous Materials"
+  - Railroads, Pipelines, and Hazardous Materials
   - Research and Technology
   - Space and Aeronautics
   - Water Resources and Environment
-total-raised: "$3.8M"
-career-total-source: "FEC weball summary (cycles 2024, 2026)"
+total-raised: $3.8M
+career-total-source: FEC weball summary (cycles 2024, 2026)
 ---
 
 

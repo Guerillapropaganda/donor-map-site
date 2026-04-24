@@ -1,38 +1,39 @@
 ---
-title: "Mary Gay Scanlon"
+title: Mary Gay Scanlon
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Pennsylvania"
-state-abbr: "PA"
+party: Democrat
+chamber: House
+state: Pennsylvania
+state-abbr: PA
 district: "5"
-bioguide-id: "S001205"
+bioguide-id: S001205
 govtrack-id: 412750
 born: "1959-08-30"
-wikidata-id: "Q54611716"
-website: "https://scanlon.house.gov"
-phone: "202-225-2011"
+wikidata-id: Q54611716
+website: https://scanlon.house.gov
+phone: 202-225-2011
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 19
 bills-cosponsored: 493
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - House Committee on Rules
   - House Committee on the Judiciary
-  - "Immigration Integrity, Security, and Enforcement"
+  - Immigration Integrity, Security, and Enforcement
   - Rules and Organization of the House
   - The Constitution and Limited Government
+top-donors: "[[Planned Parenthood Action Fund INC]], [[Meta - Facebook]], [[National Committee to Preserve Social Security & Medicare PAC]], [[JAMIE RASKIN FOR CONGRESS]], [[Let America Vote PAC]], [[American College of Radiology Association PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AbbVie]], [[Sierra Club Political Committee]], [[National Education Association]], [[Google - Alphabet]], [[TED LIEU FOR CONGRESS]], [[MARK TAKANO FOR CONGRESS]], [[Steny H. Hoyer]], [[Giffords PAC]], [[Donald S. Beyer]], [[Environment America INC]], [[American Gaming Association]], [[Hakeem Jeffries]], [[Pfizer Inc.]], [[Jerry Nadler]], [[League of Conservation Voters]], [[Humana]], [[PETE AGUILAR FOR CONGRESS]], [[KATHERINE CLARK FOR CONGRESS]], [[National Restaurant Association]], [[AFL-CIO]], [[J Street]], [[GRACE FOR NEW YORK]], [[Commonwealth Communications]], [[LOFGREN FOR CONGRESS]], [[Raja Krishnamoorthi]], [[BARBARA LEE FOR CONGRESS]], [[MAD 4 PA PAC]], [[VICENTE GONZALEZ FOR CONGRESS]], [[PAUL TONKO FOR CONGRESS]], [[DEBORAH ROSS FOR CONGRESS]], [[Ben Ray Lujan]], [[International Brotherhood of Electrical Workers Local 98 Committee on Political Education]]"
 ---
 
 

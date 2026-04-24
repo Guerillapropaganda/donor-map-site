@@ -1,44 +1,45 @@
 ---
-title: "Kirsten E. Gillibrand"
+title: Kirsten E. Gillibrand
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "Senate"
-state: "New York"
-state-abbr: "NY"
-bioguide-id: "G000555"
+party: Democrat
+chamber: Senate
+state: New York
+state-abbr: NY
+bioguide-id: G000555
 govtrack-id: 412223
 born: "1966-12-09"
-wikidata-id: "Q22222"
-website: "https://www.gillibrand.senate.gov"
-phone: "202-224-4451"
+wikidata-id: Q22222
+website: https://www.gillibrand.senate.gov
+phone: 202-224-4451
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 71
 bills-cosponsored: 428
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies"
-  - "Commerce, Justice, Science, and Related Agencies"
+  - Agriculture, Rural Development, Food and Drug Administration, and Related Agencies
+  - Commerce, Justice, Science, and Related Agencies
   - Cybersecurity
-  - "Department of Interior, Environment, and Related Agencies"
+  - Department of Interior, Environment, and Related Agencies
   - Emerging Threats and Capabilities
-  - "Military Construction, Veterans Affairs, and Related Agencies"
+  - Military Construction, Veterans Affairs, and Related Agencies
   - Senate Committee on Appropriations
   - Senate Committee on Armed Services
   - Senate Select Committee on Intelligence
   - Senate Special Committee on Aging
   - Strategic Forces
-  - "Transportation, Housing and Urban Development, and Related Agencies"
+  - Transportation, Housing and Urban Development, and Related Agencies
+top-donors: "[[NANCY PELOSI FOR CONGRESS]], [[Planned Parenthood Action Fund INC]], [[Sierra Club Political Committee]], [[ADM - Archer Daniels Midland]], [[Amgen Inc]], [[Sanford D. Bishop]], [[AFL-CIO]], [[John B. Larson]], [[DIANA DEGETTE FOR CONGRESS]], [[AbbVie]], [[Meta - Facebook]], [[Akin Gump Strauss Hauer & Feld]], [[Google - Alphabet]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Education Association]], [[American College of Radiology Association PAC]], [[Pfizer Inc.]], [[Janice D. Schakowsky]], [[Associated General Contractors of America Political Action Committee]], [[Monsanto - Bayer]], [[Steny H. Hoyer]], [[McDonalds Corporation]], [[James E. Clyburn]], [[Democratic Senatorial Campaign Committee]], [[Tzedek PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[LOFGREN FOR CONGRESS]], [[Humana]], [[Adam Smith]], [[House Majority PAC]], [[Rahm Emanuel]], [[League of Conservation Voters]], [[Nucor Corporation]], [[Rosa DeLauro]], [[National Committee to Preserve Social Security & Medicare PAC]], [[CHRISSY HOULAHAN FOR CONGRESS]], [[MATSUI FOR CONGRESS]], [[BARBARA LEE FOR CONGRESS]], [[Xavier Becerra]], [[DEBBIE WASSERMAN SCHULTZ FOR CONGRESS]], [[CVS Health - Aetna]], [[Indivisible Action]], [[Bechtel Corporation]], [[Jerrold Nadler]], [[Let America Vote PAC]], [[Marcy Kaptur]], [[Adam Schiff]], [[CASTOR FOR CONGRESS]], [[Williams Companies]], [[Jerry Nadler]], [[Hilda Solis]], [[Chris Murphy]], [[National Restaurant Association]], [[Henry Cuellar]], [[Giffords PAC]]"
 ---
 
 

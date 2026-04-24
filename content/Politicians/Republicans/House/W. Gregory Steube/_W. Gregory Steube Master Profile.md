@@ -1,32 +1,32 @@
 ---
-title: "W. Gregory Steube"
+title: W. Gregory Steube
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Florida"
-state-abbr: "FL"
+party: Republican
+chamber: House
+state: Florida
+state-abbr: FL
 district: "17"
-bioguide-id: "S001214"
+bioguide-id: S001214
 govtrack-id: 412766
 born: "1978-05-19"
-wikidata-id: "Q5606295"
-website: "https://steube.house.gov"
-phone: "202-225-5792"
+wikidata-id: Q5606295
+website: https://steube.house.gov
+phone: 202-225-5792
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 71
 bills-cosponsored: 395
 bills-enacted: 0
-top-policy-area: "International Affairs"
-last-enriched: 2026-04-21
+top-policy-area: International Affairs
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Defense Intelligence and Overhead Architecture
   - Health
@@ -35,6 +35,7 @@ committees:
   - National Security Agency and Cyber
   - Open Source Intelligence
   - Trade
+top-donors: "[[National Restaurant Association]], [[AbbVie]], [[Darin Lahood]], [[AIPAC - American Israel Public Affairs Committee]], [[Google - Alphabet]], [[Humana]], [[Koch Industries]], [[JIM JORDAN FOR CONGRESS]], [[With Honor Fund]], [[Family Research Council Action Political Action Committee]], [[TEXANS FOR JODEY ARRINGTON]], [[Associated General Contractors of America Political Action Committee]], [[Southern Company]], [[Madison Project Inc.]], [[Amgen Inc]], [[McDonalds Corporation]], [[American Gaming Association]], [[JOE WILSON FOR CONGRESS]], [[GEO Group - Private Prison Industrial Complex]], [[William R. Timmons]], [[NRA Political Victory Fund]], [[Steve Scalise]], [[American College of Radiology Association PAC]], [[Mike Haridopolos]], [[Pfizer Inc.]], [[Club for Growth INC PAC]], [[National Cattlemen's Beef Association]], [[BEN CLINE FOR CONGRESS, INC.]], [[Neal P. Dunn]], [[Williams Companies]], [[CVS Health - Aetna]], [[JASON SMITH FOR CONGRESS]], [[KAY GRANGER CAMPAIGN FUND]], [[American Principles Fund]], [[Campaign for Working Families]], [[Richard Hudson]], [[Bacardi - Bacardi USA]], [[Club for Growth]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Nucor Corporation]], [[BURCHETT FOR CONGRESS]], [[Tyson Foods]], [[ADRIAN SMITH FOR CONGRESS]]"
 ---
 
 

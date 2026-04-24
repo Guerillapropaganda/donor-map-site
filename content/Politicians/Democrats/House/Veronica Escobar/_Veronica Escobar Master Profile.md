@@ -18,24 +18,24 @@ phone: 202-225-4831
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H8TX16109
 bills-sponsored: 16
 bills-cosponsored: 341
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[Raytheon (RTX)]], [[IBEW - International Brotherhood of Electrical Workers]], [[Demand Justice]], [[Tyson Foods]], [[CVS Health - Aetna]], [[American Federation of State County & Municipal Employees P E O P L E]], [[AT&T - WarnerMedia]], [[iHeartMedia]], [[BAE Systems]], [[Medicare for All - The Policy That Broke the Party]], [[NEA Fund for Children and Public Education]], [[L3Harris Technologies]], [[J Street]], [[Walmart - Walton Family]], [[Pfizer Inc.]], [[Planned Parenthood Action Fund INC]], [[Amgen Inc]], [[Anthem - Elevance Health]], [[Ted Lieu]], [[Let America Vote PAC]], [[MoveOn.org Political Action]], [[National Nurses United]], [[National Association of Realtors]], [[Everytown for Gun Safety]], [[VOTER PROTECTION PROJECT]], [[General Motors]], [[UA Political Action Committee]], [[American Hospital Association PAC]], [[Humana]], [[Google - Alphabet]], [[General Dynamics]], [[American Chemistry Council, INC]], [[CHC BOLD PAC]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Lockheed Martin]], [[League of Conservation Voters]], [[Tenet Healthcare]], [[Comcast - NBCUniversal]], [[Microsoft]], [[Sierra Club Independent Action]], [[Giffords PAC]], [[Honeywell]], [[Leidos]], [[SEIU COPE]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Tzedek PAC]], [[Marathon Petroleum]], [[Citigroup]], [[Planned Parenthood Votes]], [[Progressive Turnout Project]], [[DCCC - Democratic Congressional Campaign Committee]], [[Northrop Grumman]], [[Walmart]], [[Anduril Industries]], [[Morgan Stanley]], [[Raytheon (RTX Corporation)]], [[AT&T]], [[Meta - Facebook]], [[Blackstone Group]], [[CBRE Group]], [[Goldman Sachs]], [[Oracle]], [[Bank of America]], [[Wells Fargo]], [[Palantir Technologies]], [[Amazon]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Voter Protection Project]], [[Honeywell International]]"
-last-enriched: 2026-04-21
+top-donors: "[[Raytheon (RTX)]], [[IBEW - International Brotherhood of Electrical Workers]], [[Demand Justice]], [[Tyson Foods]], [[CVS Health - Aetna]], [[American Federation of State County & Municipal Employees P E O P L E]], [[AT&T - WarnerMedia]], [[iHeartMedia]], [[BAE Systems]], [[Medicare for All - The Policy That Broke the Party]], [[NEA Fund for Children and Public Education]], [[L3Harris Technologies]], [[J Street]], [[Walmart - Walton Family]], [[Pfizer Inc.]], [[Planned Parenthood Action Fund INC]], [[Amgen Inc]], [[Anthem - Elevance Health]], [[Ted Lieu]], [[Let America Vote PAC]], [[MoveOn.org Political Action]], [[National Nurses United]], [[National Association of Realtors]], [[Everytown for Gun Safety]], [[VOTER PROTECTION PROJECT]], [[General Motors]], [[UA Political Action Committee]], [[American Hospital Association PAC]], [[Humana]], [[Google - Alphabet]], [[General Dynamics]], [[American Chemistry Council, INC]], [[CHC BOLD PAC]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Lockheed Martin]], [[League of Conservation Voters]], [[Tenet Healthcare]], [[Comcast - NBCUniversal]], [[Microsoft]], [[Sierra Club Independent Action]], [[Giffords PAC]], [[Honeywell]], [[Leidos]], [[SEIU COPE]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Tzedek PAC]], [[Marathon Petroleum]], [[Citigroup]], [[Planned Parenthood Votes]], [[Progressive Turnout Project]], [[DCCC - Democratic Congressional Campaign Committee]], [[Northrop Grumman]], [[Walmart]], [[Anduril Industries]], [[Morgan Stanley]], [[Raytheon (RTX Corporation)]], [[AT&T]], [[Meta - Facebook]], [[Blackstone Group]], [[CBRE Group]], [[Goldman Sachs]], [[Oracle]], [[Bank of America]], [[Wells Fargo]], [[Palantir Technologies]], [[Amazon]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Voter Protection Project]], [[Honeywell International]], [[Steny H. Hoyer]], [[National Education Association]], [[Rosa DeLauro]], [[Emily's List]], [[James E. Clyburn]], [[TED LIEU FOR CONGRESS]], [[LOFGREN FOR CONGRESS]], [[Hakeem Jeffries]], [[GRACE FOR NEW YORK]], [[BILL FOSTER FOR CONGRESS]], [[National Committee to Preserve Social Security & Medicare PAC]], [[CASTRO FOR CONGRESS]], [[MARK TAKANO FOR CONGRESS]], [[Jerrold Nadler]], [[MEDICARE FOR ALL]], [[Bradley Scott Schneider]], [[PETE AGUILAR FOR CONGRESS]], [[NANCY PELOSI FOR CONGRESS]], [[KATHERINE CLARK FOR CONGRESS]], [[Southern Company]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Homeland Security
   - House Committee on Appropriations
   - House Committee on the Budget
-  - "Military Construction, Veterans Affairs, and Related Agencies"
-total-raised: "$6.0M"
-career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
+  - Military Construction, Veterans Affairs, and Related Agencies
+total-raised: $6.0M
+career-total-source: FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)
 ---
 
 

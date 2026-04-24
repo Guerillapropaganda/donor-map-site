@@ -1,37 +1,38 @@
 ---
-title: "Lizzie Fletcher"
+title: Lizzie Fletcher
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Texas"
-state-abbr: "TX"
+party: Democrat
+chamber: House
+state: Texas
+state-abbr: TX
 district: "7"
-bioguide-id: "F000468"
+bioguide-id: F000468
 govtrack-id: 412824
 born: "1975-02-13"
-wikidata-id: "Q58324313"
-website: "https://fletcher.house.gov"
-phone: "202-225-2571"
+wikidata-id: Q58324313
+website: https://fletcher.house.gov
+phone: 202-225-2571
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 10
 bills-cosponsored: 327
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Energy
   - Health
   - House Committee on Energy and Commerce
   - Oversight and Investigations
+top-donors: "[[NANCY PELOSI FOR CONGRESS]], [[Jerry Nadler]], [[Bradley Scott Schneider]], [[HALEY STEVENS FOR CONGRESS]], [[Hakeem Jeffries]], [[League of Conservation Voters]], [[BARBARA LEE FOR CONGRESS]], [[National Education Association]], [[Google - Alphabet]], [[Nikema Williams]], [[Adam Schiff]], [[Steny H. Hoyer]], [[National Association of Manufacturers]], [[Janice D. Schakowsky]], [[Donald S. Beyer]], [[DEB HAALAND FOR CONGRESS]], [[AIPAC - American Israel Public Affairs Committee]], [[Independence Usa Pac]], [[CVS Health - Aetna]], [[PETE AGUILAR FOR CONGRESS]], [[VERONICA ESCOBAR FOR CONGRESS]], [[Suzan K. Delbene]], [[Giffords PAC]], [[Marc A. Veasey]], [[Henry Cuellar]], [[SCOTT PETERS FOR CONGRESS]], [[Ben Ray Lujan]], [[Planned Parenthood Action Fund INC]], [[J. Luis Correa]], [[SARA JACOBS FOR CONGRESS]], [[Southern Company]], [[DOGGETT FOR U S CONGRESS COMMITTEE]], [[American College of Radiology Association PAC]], [[Occidental Petroleum]], [[JAMIE RASKIN FOR CONGRESS]], [[James E. Clyburn]], [[Let America Vote PAC]], [[Marcy Kaptur]], [[CITIZENS TO ELECT RICK LARSEN]], [[JULIA BROWNLEY FOR CONGRESS]], [[TED LIEU FOR CONGRESS]], [[PAUL TONKO FOR CONGRESS]], [[JIMMY PANETTA FOR CONGRESS]], [[Gwen Moore]], [[Williams Companies]], [[Emily's List]], [[Raja Krishnamoorthi]], [[Mary Gay Scanlon]], [[Associated General Contractors of America Political Action Committee]], [[KATHERINE CLARK FOR CONGRESS]], [[Environment America INC]], [[MARK TAKANO FOR CONGRESS]], [[Jim McGovern]], [[Bobby Scott]], [[Humana]], [[Humane Society Legislative Fund]], [[GRACE FOR NEW YORK]], [[CASTRO FOR CONGRESS]], [[Rosa DeLauro]], [[COURTNEY, JOSEPH]], [[BILL FOSTER FOR CONGRESS]], [[John B. Larson]], [[SHERMAN FOR CONGRESS]], [[Robin L. Kelly]], [[LOFGREN FOR CONGRESS]], [[HIMES FOR CONGRESS]], [[AFL-CIO]], [[JOE NEGUSE FOR CONGRESS]], [[VICENTE GONZALEZ FOR CONGRESS]], [[McDonalds Corporation]], [[JIMMY GOMEZ FOR CONGRESS]]"
 ---
 
 

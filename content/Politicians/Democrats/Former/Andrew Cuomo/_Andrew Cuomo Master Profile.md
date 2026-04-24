@@ -1,26 +1,27 @@
 ---
-title: "Andrew Cuomo"
+title: Andrew Cuomo
 type: politician
 content-readiness: data-complete
-central-thesis: "Cuomo is the real estate donor class's preferred Democrat , a moderate who delivers on their core agenda (development-friendly regulation, property tax limits, opposition to rent control) while maintaining the progressive brand necessary to win in..."
-last-updated: 2026-04-13
+central-thesis: Cuomo is the real estate donor class's preferred Democrat , a moderate who delivers on their core agenda (development-friendly regulation, property tax limits, opposition to rent control) while maintaining the progressive brand necessary to win in...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "Governor"
-state: "New York"
-state-abbr: "NY"
+party: Democrat
+chamber: Governor
+state: New York
+state-abbr: NY
 issues:
-  - "Housing"
+  - Housing
 related: "[[Real Estate Donors]] · [[Michael Bloomberg]]"
 urls-first-triaged: "2026-04-15"
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-last-enriched: 2026-04-21
+  - No FEC contribution data
+  - No legislative record from Congress.gov
+  - No voting record data
+last-enriched: 2026-04-21T00:00:00.000Z
 source-types:
   - Congress
+top-donors: "[[Wilson,Elser,Moskowitz,Edelman  Dicker LLP PAC]]"
 ---
 
 

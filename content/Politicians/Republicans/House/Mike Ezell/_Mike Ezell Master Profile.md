@@ -1,39 +1,40 @@
 ---
-title: "Mike Ezell"
+title: Mike Ezell
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Mississippi"
-state-abbr: "MS"
+party: Republican
+chamber: House
+state: Mississippi
+state-abbr: MS
 district: "4"
-bioguide-id: "E000235"
+bioguide-id: E000235
 govtrack-id: 456911
 born: "1959-04-06"
-wikidata-id: "Q115137554"
-website: "https://ezell.house.gov"
-phone: "202-225-5772"
+wikidata-id: Q115137554
+website: https://ezell.house.gov
+phone: 202-225-5772
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 14
 bills-cosponsored: 220
 bills-enacted: 1
-top-policy-area: "Crime and Law Enforcement"
-last-enriched: 2026-04-21
+top-policy-area: Crime and Law Enforcement
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Coast Guard and Maritime Transportation
-  - "Economic Development, Public Buildings, and Emergency Management"
+  - Economic Development, Public Buildings, and Emergency Management
   - Energy and Mineral Resources
   - House Committee on Natural Resources
   - House Committee on Transportation and Infrastructure
-  - "Water, Wildlife and Fisheries"
+  - Water, Wildlife and Fisheries
+top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[Steve Scalise]], [[AUGUST PFLUGER FOR CONGRESS]], [[Koch Industries]], [[CLAUDIA TENNEY FOR CONGRESS]], [[DR. BRIAN BABIN FOR CONGRESS]], [[Leidos]], [[Richard Hudson]], [[NRA Political Victory Fund]], [[PETE SESSIONS FOR CONGRESS]], [[DAVID ROUZER FOR CONGRESS]], [[Associated General Contractors of America Political Action Committee]], [[American Gaming Association]], [[JIM JORDAN FOR CONGRESS]], [[Tom Emmer]], [[Mike Johnson]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[ADRIAN SMITH FOR CONGRESS]], [[Guy Reschenthaler]], [[National Restaurant Association]], [[Elise Stefanik]], [[HAGEMAN FOR WYOMING]], [[BEN CLINE FOR CONGRESS, INC.]], [[Google - Alphabet]], [[HOUCHIN FOR CONGRESS]], [[National Cattlemen's Beef Association]], [[JASON SMITH FOR CONGRESS]], [[Dale W. Strong]]"
 ---
 
 

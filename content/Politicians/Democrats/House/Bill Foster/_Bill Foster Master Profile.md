@@ -18,22 +18,22 @@ phone: 202-225-3515
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 37
 bills-cosponsored: 251
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[Google - Alphabet]], [[Environmental Law & Policy Center]], [[UFCW - United Food and Commercial Workers]], [[Leidos]], [[CNA - California Nurses Association]], [[Morgan Stanley]], [[AT&T]], [[Amazon]], [[BlackRock]], [[Lockheed Martin]], [[Wells Fargo]], [[Blackstone Group]], [[AFGE - American Federation of Government Employees]], [[UPS]], [[Palantir Technologies]], [[Meta - Facebook]], [[CBRE Group]], [[Apple]], [[Ford Motor Company]], [[Apollo Global Management]], [[Oracle]], [[Bank of America]], [[Amgen Inc]], [[Citadel - Kenneth Griffin]], [[Ripple]], [[JPMorgan Chase]], [[Gilead Sciences]]"
-last-enriched: 2026-04-21
+top-donors: "[[Google - Alphabet]], [[Environmental Law & Policy Center]], [[UFCW - United Food and Commercial Workers]], [[Leidos]], [[CNA - California Nurses Association]], [[Morgan Stanley]], [[AT&T]], [[Amazon]], [[BlackRock]], [[Lockheed Martin]], [[Wells Fargo]], [[Blackstone Group]], [[AFGE - American Federation of Government Employees]], [[UPS]], [[Palantir Technologies]], [[Meta - Facebook]], [[CBRE Group]], [[Apple]], [[Ford Motor Company]], [[Apollo Global Management]], [[Oracle]], [[Bank of America]], [[Amgen Inc]], [[Citadel - Kenneth Griffin]], [[Ripple]], [[JPMorgan Chase]], [[Gilead Sciences]], [[Dina Titus]], [[AbbVie]], [[Planned Parenthood Action Fund INC]], [[National Committee to Preserve Social Security & Medicare PAC]], [[QUIGLEY FOR CONGRESS]], [[TED LIEU FOR CONGRESS]], [[Pfizer Inc.]], [[National Education Association]], [[STAND WITH SANCHEZ]], [[JOE NEGUSE FOR CONGRESS]], [[Lizzie Fletcher]], [[Juan Vargas]], [[Danny K. Davis]], [[DIANA DEGETTE FOR CONGRESS]], [[NANCY PELOSI FOR CONGRESS]], [[Marcy Kaptur]], [[Frank Pallone]], [[JUDY CHU FOR CONGRESS]], [[J Street]], [[Rosa DeLauro]], [[LOFGREN FOR CONGRESS]], [[Richard Neal]], [[Jerrold Nadler]], [[Donald S. Beyer]], [[McDonalds Corporation]], [[James E. Clyburn]], [[TAMMY BALDWIN FOR CONGRESS]], [[National Restaurant Association]], [[CITIZENS FOR WATERS]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[League of Conservation Voters]], [[GARAMENDI FOR CONGRESS]], [[Monsanto - Bayer]], [[AFL-CIO]], [[Adam Schiff]], [[MATSUI FOR CONGRESS]], [[DEBBIE WASSERMAN SCHULTZ FOR CONGRESS]], [[Rahm Emanuel]], [[Sierra Club Political Committee]], [[John B. Larson]], [[PETE AGUILAR FOR CONGRESS]], [[MAD 4 PA PAC]], [[SHERMAN FOR CONGRESS]], [[Akin Gump Strauss Hauer & Feld]], [[Steny H. Hoyer]], [[Janice D. Schakowsky]], [[SARA JACOBS FOR CONGRESS]], [[Jerry Nadler]], [[Ami Bera]], [[STEPHEN LYNCH FOR CONGRESS]], [[Bradley Scott Schneider]], [[DEBORAH ROSS FOR CONGRESS]], [[JAKE AUCHINCLOSS FOR CONGRESS]], [[MCCOLLUM FOR CONGRESS]], [[Chris van Hollen]], [[Gerry Connolly]], [[Xavier Becerra]], [[JASON CROW FOR CONGRESS]], [[Let America Vote PAC]], [[MarketAxess Holdings Inc. PAC]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Digital Assets, Financial Technology, and Artificial Intelligence"
+  - Digital Assets, Financial Technology, and Artificial Intelligence
   - Financial Institutions
   - House Committee on Financial Services
-  - "House Committee on Science, Space, and Technology"
-  - "National Security, Illicit Finance, and International Financial Institutions"
+  - House Committee on Science, Space, and Technology
+  - National Security, Illicit Finance, and International Financial Institutions
 ---
 
 

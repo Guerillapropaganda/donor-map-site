@@ -18,17 +18,17 @@ phone: 202-225-9740
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H0WA10034
 bills-sponsored: 16
 bills-cosponsored: 363
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[Walmart - Walton Family]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[American Hospital Association PAC]], [[Google - Alphabet]], [[General Dynamics]], [[DoorDash]], [[Humana]], [[Planned Parenthood Action Fund INC]], [[General Motors]], [[AIPAC - American Israel Public Affairs Committee]], [[NextEra Energy]], [[Nucor Corporation]], [[Pfizer Inc.]], [[Sierra Club Independent Action]], [[Giffords PAC]], [[National Association of Realtors]], [[NEA Fund for Children and Public Education]], [[Teamsters - International Brotherhood of Teamsters]], [[CVS Health - Aetna]], [[Morgan Stanley]], [[National Multifamily Housing Council]], [[Honeywell]], [[UA Political Action Committee]], [[American Federation of State County & Municipal Employees P E O P L E]], [[L3Harris Technologies]], [[Northrop Grumman]], [[Comcast - NBCUniversal]], [[Leidos]], [[League of Conservation Voters]], [[Ted Lieu]], [[IBEW - International Brotherhood of Electrical Workers]], [[AT&T - WarnerMedia]], [[Microsoft]], [[SEIU COPE]], [[Raytheon (RTX)]], [[AbbVie]], [[BAE Systems]], [[Marcia Fudge]], [[Amgen Inc]], [[Puget Sound Energy INC PAC for Good Government]], [[National Association of Manufacturers]], [[Lockheed Martin]], [[Associated General Contractors of America Political Action Committee]], [[Anthem - Elevance Health]], [[CHC BOLD PAC]], [[American Chemistry Council, INC]], [[Progressive Turnout Project]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[AT&T]], [[Honeywell International]]"
-last-enriched: 2026-04-21
+top-donors: "[[Walmart - Walton Family]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[American Hospital Association PAC]], [[Google - Alphabet]], [[General Dynamics]], [[DoorDash]], [[Humana]], [[Planned Parenthood Action Fund INC]], [[General Motors]], [[AIPAC - American Israel Public Affairs Committee]], [[NextEra Energy]], [[Nucor Corporation]], [[Pfizer Inc.]], [[Sierra Club Independent Action]], [[Giffords PAC]], [[National Association of Realtors]], [[NEA Fund for Children and Public Education]], [[Teamsters - International Brotherhood of Teamsters]], [[CVS Health - Aetna]], [[Morgan Stanley]], [[National Multifamily Housing Council]], [[Honeywell]], [[UA Political Action Committee]], [[American Federation of State County & Municipal Employees P E O P L E]], [[L3Harris Technologies]], [[Northrop Grumman]], [[Comcast - NBCUniversal]], [[Leidos]], [[League of Conservation Voters]], [[Ted Lieu]], [[IBEW - International Brotherhood of Electrical Workers]], [[AT&T - WarnerMedia]], [[Microsoft]], [[SEIU COPE]], [[Raytheon (RTX)]], [[AbbVie]], [[BAE Systems]], [[Marcia Fudge]], [[Amgen Inc]], [[Puget Sound Energy INC PAC for Good Government]], [[National Association of Manufacturers]], [[Lockheed Martin]], [[Associated General Contractors of America Political Action Committee]], [[Anthem - Elevance Health]], [[CHC BOLD PAC]], [[American Chemistry Council, INC]], [[Progressive Turnout Project]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[AT&T]], [[Honeywell International]], [[Raytheon (RTX Corporation)]], [[National Education Association]], [[Bobby Scott]], [[Bradley Scott Schneider]], [[MARCIA FUDGE FOR CONGRESS]], [[SHERMAN FOR CONGRESS]], [[Southern Company]], [[TED LIEU FOR CONGRESS]], [[NANCY PELOSI FOR CONGRESS]], [[BONNIE WATSON COLEMAN FOR CONGRESS]], [[Ami Bera]], [[FRIENDS OF MARIA]], [[James E. Clyburn]], [[Steny H. Hoyer]], [[Hakeem Jeffries]], [[JUDY CHU FOR CONGRESS]], [[Donald S. Beyer]], [[SETH FOR MASSACHUSETTS, INC]], [[Suzan K. Delbene]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Coast Guard and Maritime Transportation
   - Highways and Transit
@@ -36,8 +36,8 @@ committees:
   - House Committee on Transportation and Infrastructure
   - Military Personnel
   - Readiness
-total-raised: "$7.0M"
-career-total-source: "FEC weball summary (cycles 2020, 2022, 2024, 2026)"
+total-raised: $7.0M
+career-total-source: FEC weball summary (cycles 2020, 2022, 2024, 2026)
 ---
 
 

@@ -12,7 +12,7 @@ source-tier: 1
 fec-ie-support: $81,072,918
 fec-ie-oppose: "null"
 related: "[[Brian Armstrong]] · [[Bernie Moreno]] · [[French Hill]]"
-politicians-funded: "[[French Hill]], [[Bernie Moreno]], [[Brian Jack]], [[Tim Moore]], [[Jimmy Patronis]], [[Tom Cole]], [[Randy Fine]], [[Mike Flood]], [[Troy Downing]]"
+politicians-funded: "[[French Hill]], [[Bernie Moreno]], [[Brian Jack]], [[Tim Moore]], [[Jimmy Patronis]], [[Tom Cole]], [[Randy Fine]], [[Mike Flood]], [[Troy Downing]], [[AXIS RESEARCH INC]], [[GUIDANT POLLING AND STRATEGY LLC]], [[BELMONT STRATEGIES]], [[RBC MEDIA LLC]], [[MOORE FOR WEST VIRGINIA, INC.]], [[FABRIZIO LEE]], [[COVINGTON & BURLING LLP]], [[MCKINLEY STRATEGIES LLC]], [[DOCKSIDE STRATEGIES LLC]], [[COEFFICIENT]], [[JAMESTOWN ASSOCIATES]], [[JTKE LLC]], [[Mark B. Messmer]], [[J. French Hill]], [[Riley M. Moore]], [[Robert F. Onder]], [[James C. Justice]], [[Craig A. Goldman]], [[Andy Barr]], [[Bill Huizenga]], [[Jim Banks]], [[Barry Moore]], [[John R. Curtis]], [[William R. Timmons]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -25,8 +25,8 @@ individual-contributions: 350000
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

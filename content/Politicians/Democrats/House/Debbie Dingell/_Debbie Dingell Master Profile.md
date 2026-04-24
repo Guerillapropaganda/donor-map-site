@@ -18,27 +18,27 @@ phone: 202-225-4071
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4MI12079
 bills-sponsored: 60
 bills-cosponsored: 569
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[NextEra Energy]], [[General Motors]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Progressive Turnout Project]], [[AT&T - WarnerMedia]], [[Lockheed Martin]], [[NEA Fund for Children and Public Education]], [[American College of Radiology Association PAC]], [[ENVIRONMENT AMERICA INC]], [[Airbnb]], [[SEIU COPE]], [[National Association of Realtors]], [[Walmart - Walton Family]], [[Sierra Club Independent Action]], [[Google - Alphabet]], [[Sierra Club Political Committee]], [[Unite Here Tip Campaign Committee]], [[IBEW - International Brotherhood of Electrical Workers]], [[Teamsters - International Brotherhood of Teamsters]], [[Medicare for All - The Policy That Broke the Party]], [[American Hospital Association PAC]], [[National Multifamily Housing Council]], [[Bechtel Corporation]], [[League of Conservation Voters]], [[Let America Vote PAC]], [[Honeywell]], [[Pfizer Inc.]], [[PG&E - Pacific Gas and Electric]], [[iHeartMedia]], [[General Dynamics]], [[Giffords PAC]], [[Northrop Grumman]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[J Street]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Everytown for Gun Safety]], [[National Committee to Preserve Social Security PAC]], [[National Association of Manufacturers]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Ford Motor Company]], [[Raytheon (RTX)]], [[Performance Racing Inc.]], [[Care Action]], [[National Education Association]], [[National Nurses United]], [[Tyson Foods]], [[UA Political Action Committee]], [[McDonalds Corporation]], [[AFL-CIO]], [[CVS Health - Aetna]], [[Planned Parenthood Votes]], [[Comcast - NBCUniversal]], [[Duke Energy]], [[American Gaming Association]], [[Ted Lieu]], [[Johnson & Johnson]], [[FTX - Sam Bankman-Fried]], [[News Corp - Fox Corporation]], [[AT&T]], [[Boeing]], [[UAW - United Auto Workers]], [[Centene Corporation]], [[TikTok - ByteDance]], [[PG&E]], [[Chevron]], [[Meta - Facebook]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Environment America INC]], [[Honeywell International]]"
-last-enriched: 2026-04-21
+top-donors: "[[NextEra Energy]], [[General Motors]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Progressive Turnout Project]], [[AT&T - WarnerMedia]], [[Lockheed Martin]], [[NEA Fund for Children and Public Education]], [[American College of Radiology Association PAC]], [[ENVIRONMENT AMERICA INC]], [[Airbnb]], [[SEIU COPE]], [[National Association of Realtors]], [[Walmart - Walton Family]], [[Sierra Club Independent Action]], [[Google - Alphabet]], [[Sierra Club Political Committee]], [[Unite Here Tip Campaign Committee]], [[IBEW - International Brotherhood of Electrical Workers]], [[Teamsters - International Brotherhood of Teamsters]], [[Medicare for All - The Policy That Broke the Party]], [[American Hospital Association PAC]], [[National Multifamily Housing Council]], [[Bechtel Corporation]], [[League of Conservation Voters]], [[Let America Vote PAC]], [[Honeywell]], [[Pfizer Inc.]], [[PG&E - Pacific Gas and Electric]], [[iHeartMedia]], [[General Dynamics]], [[Giffords PAC]], [[Northrop Grumman]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[J Street]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Everytown for Gun Safety]], [[National Committee to Preserve Social Security PAC]], [[National Association of Manufacturers]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Ford Motor Company]], [[Raytheon (RTX)]], [[Performance Racing Inc.]], [[Care Action]], [[National Education Association]], [[National Nurses United]], [[Tyson Foods]], [[UA Political Action Committee]], [[McDonalds Corporation]], [[AFL-CIO]], [[CVS Health - Aetna]], [[Planned Parenthood Votes]], [[Comcast - NBCUniversal]], [[Duke Energy]], [[American Gaming Association]], [[Ted Lieu]], [[Johnson & Johnson]], [[FTX - Sam Bankman-Fried]], [[News Corp - Fox Corporation]], [[AT&T]], [[Boeing]], [[UAW - United Auto Workers]], [[Centene Corporation]], [[TikTok - ByteDance]], [[PG&E]], [[Chevron]], [[Meta - Facebook]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Environment America INC]], [[Honeywell International]], [[Raytheon (RTX Corporation)]], [[Peter Welch]], [[Southern Company]], [[TED LIEU FOR CONGRESS]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Steny H. Hoyer]], [[Planned Parenthood Action Fund INC]], [[Amgen Inc]], [[MIKE THOMPSON FOR CONGRESS]], [[AbbVie]], [[American Iron and Steel Institute]], [[James E. Clyburn]], [[MEDICARE FOR ALL]], [[Nucor Corporation]], [[National Wildlife Federation Action Fund]], [[Donald S. Beyer]], [[Monsanto - Bayer]], [[Akin Gump Strauss Hauer & Feld]], [[Frank Pallone]], [[Humana]], [[Xavier Becerra]], [[Jim McGovern]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Commerce, Manufacturing, and Trade"
+  - Commerce, Manufacturing, and Trade
   - Communications and Technology
   - Energy and Mineral Resources
   - Health
   - House Committee on Energy and Commerce
   - House Committee on Natural Resources
-  - "Water, Wildlife and Fisheries"
-total-raised: "$9.7M"
-career-total-source: "FEC weball summary (cycles 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+  - Water, Wildlife and Fisheries
+total-raised: $9.7M
+career-total-source: FEC weball summary (cycles 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

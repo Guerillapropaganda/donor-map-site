@@ -18,21 +18,21 @@ phone: 202-225-5801
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 38
 bills-cosponsored: 894
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[Google - Alphabet]], [[Citigroup]], [[American Federation of Teachers]], [[Gilead Sciences]], [[Honeywell International]], [[Johnson & Johnson]], [[ENVIRONMENT AMERICA INC]], [[News Corp - Fox Corporation]], [[Novo Nordisk]], [[DNC - Democratic National Committee]], [[Pfizer Inc.]], [[AT&T]], [[Apple]], [[AFSCME - American Federation of State County and Municipal Employees]], [[UPS]], [[UnitedHealth Group - Optum]], [[Bank of America]], [[Wells Fargo]], [[FTX - Sam Bankman-Fried]], [[Comcast - NBCUniversal]], [[Environment America INC]]"
-last-enriched: 2026-04-21
+top-donors: "[[Google - Alphabet]], [[Citigroup]], [[American Federation of Teachers]], [[Gilead Sciences]], [[Honeywell International]], [[Johnson & Johnson]], [[ENVIRONMENT AMERICA INC]], [[News Corp - Fox Corporation]], [[Novo Nordisk]], [[DNC - Democratic National Committee]], [[Pfizer Inc.]], [[AT&T]], [[Apple]], [[AFSCME - American Federation of State County and Municipal Employees]], [[UPS]], [[UnitedHealth Group - Optum]], [[Bank of America]], [[Wells Fargo]], [[FTX - Sam Bankman-Fried]], [[Comcast - NBCUniversal]], [[Environment America INC]], [[Amgen Inc]], [[Hakeem Jeffries]], [[Donald S. Beyer]], [[Bennie Thompson]], [[National Education Association]], [[CVS Health - Aetna]], [[J Street]], [[League of Conservation Voters]], [[James E. Clyburn]], [[AFL-CIO]], [[Planned Parenthood Action Fund INC]], [[AbbVie]], [[ANDRE CARSON FOR CONGRESS]], [[MEDICARE FOR ALL]], [[TED LIEU FOR CONGRESS]], [[Demand Justice]], [[PETE AGUILAR FOR CONGRESS]], [[Sierra Club Political Committee]], [[American College of Radiology Association PAC]], [[Powerpacplus]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Frank Pallone]], [[Bobby Scott]], [[Yvette D. Clarke]], [[Robin L. Kelly]], [[Steny H. Hoyer]], [[NANCY PELOSI FOR CONGRESS]], [[Gregory Meeks]], [[JASMINE FOR US]], [[Richard Neal]], [[Leidos]], [[MIKE THOMPSON FOR CONGRESS]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - House Committee on Appropriations
   - House Committee on the Budget
-  - "Labor, Health and Human Services, Education, and Related Agencies"
-  - "Transportation, Housing and Urban Development, and Related Agencies"
+  - Labor, Health and Human Services, Education, and Related Agencies
+  - Transportation, Housing and Urban Development, and Related Agencies
 ---
 
 

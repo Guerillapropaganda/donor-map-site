@@ -1445,7 +1445,7 @@
     },
     {
       "bucket": "blocking",
-      "what": "vault-audit: type-specific-a-plus — 1388 findings",
+      "what": "vault-audit: type-specific-a-plus — 1322 findings",
       "why": "Per-type A+ publication bar (ADR-0022): universal floor + type-specific checks for politician/donor/corporation/think-tank — 446 scanned, 0 pass, 446 fail. By type: donor 0/266, corporation 0/6, politician 0/164, state-politician 0/7, local-politician 0/1, think-tank 0/2.",
       "where": "/system-health",
       "cost_min": 45,
@@ -1454,7 +1454,7 @@
       "created": "2026-04-24",
       "metadata": {
         "check": "type-specific-a-plus",
-        "findings_count": 1388
+        "findings_count": 1322
       }
     },
     {
@@ -1474,7 +1474,7 @@
     {
       "bucket": "deciding",
       "what": "vault-audit: reconciliation-framework-tier-1 — 145 findings",
-      "why": "Data integrity: absurd-value frontmatter, self-loop edges, duplicates, orphans — 145 error, 7599 warn (7744 findings total).",
+      "why": "Data integrity: absurd-value frontmatter, self-loop edges, duplicates, orphans — 145 error, 7816 warn (7961 findings total).",
       "where": "/system-health",
       "cost_min": 45,
       "leverage": 4,
@@ -1501,8 +1501,8 @@
     },
     {
       "bucket": "deciding",
-      "what": "vault-audit: frontmatter-schema — 3319 findings",
-      "why": "Frontmatter schema violations per ADR-0023 (universal/type-required/proposed-required/retired) — 2943 scanned, 1689 with violations. 232 hard (universal/type-required/id/retired), 3087 soft (proposed-required).",
+      "what": "vault-audit: frontmatter-schema — 232 findings",
+      "why": "Frontmatter schema violations per ADR-0023 (universal/type-required/proposed-required/retired) — 2943 scanned, 1689 with violations. 232 error(s) (universal/type-required/id/retired/unknown-type), 3082 info (proposed-required backfill per ADR-0023 Phase C/D).",
       "where": "/system-health",
       "cost_min": 60,
       "leverage": 3,
@@ -1510,7 +1510,7 @@
       "created": "2026-04-24",
       "metadata": {
         "check": "frontmatter-schema",
-        "findings_count": 3319
+        "findings_count": 232
       }
     },
     {

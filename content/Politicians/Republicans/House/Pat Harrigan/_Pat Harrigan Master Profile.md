@@ -20,21 +20,21 @@ source-types:
   - FEC
   - GovTrack
 known-gaps:
-  - "No mapped relationships"
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2NC13243
-top-donors: "[[Darrell Issa]], [[Duke Energy]], [[Jim Jordan]], [[Anthem - Elevance Health]], [[WinRed]], [[Lockheed Martin]], [[Austin Scott]], [[Congressional Leadership Fund]], [[National Rifle Association]], [[Americans for Prosperity]], [[Honeywell]], [[National Restaurant Association]], [[Jake Ellzey]], [[Chevron]], [[BAE Systems]], [[SPECIAL OPERATIONS FOR AMERICA]], [[AIPAC - American Israel Public Affairs Committee]], [[Leidos]], [[David Rouzer]], [[Northrop Grumman]], [[Raytheon (RTX)]], [[National Cattlemen's Beef Association]], [[American Hospital Association PAC]], [[General Dynamics]], [[Microsoft]], [[General Motors]], [[Freedom's Defense Fund]], [[Nucor Corporation]], [[Associated General Contractors of America Political Action Committee]], [[MAJORITY PAC]], [[CVS Health - Aetna]], [[L3Harris Technologies]], [[National Association of Realtors]], [[Walmart - Walton Family]], [[Special Operations for America]], [[Majority PAC]], [[Honeywell International]]"
-last-enriched: 2026-04-21
+top-donors: "[[Darrell Issa]], [[Duke Energy]], [[Jim Jordan]], [[Anthem - Elevance Health]], [[WinRed]], [[Lockheed Martin]], [[Austin Scott]], [[Congressional Leadership Fund]], [[National Rifle Association]], [[Americans for Prosperity]], [[Honeywell]], [[National Restaurant Association]], [[Jake Ellzey]], [[Chevron]], [[BAE Systems]], [[SPECIAL OPERATIONS FOR AMERICA]], [[AIPAC - American Israel Public Affairs Committee]], [[Leidos]], [[David Rouzer]], [[Northrop Grumman]], [[Raytheon (RTX)]], [[National Cattlemen's Beef Association]], [[American Hospital Association PAC]], [[General Dynamics]], [[Microsoft]], [[General Motors]], [[Freedom's Defense Fund]], [[Nucor Corporation]], [[Associated General Contractors of America Political Action Committee]], [[MAJORITY PAC]], [[CVS Health - Aetna]], [[L3Harris Technologies]], [[National Association of Realtors]], [[Walmart - Walton Family]], [[Special Operations for America]], [[Majority PAC]], [[Honeywell International]], [[Raytheon (RTX Corporation)]], [[THE PAT HARRIGAN COMMITTEE]], [[Mark Harris]], [[Guy Reschenthaler]], [[Carol D. Miller]], [[DAVID ROUZER FOR CONGRESS]], [[JIM JORDAN FOR CONGRESS]], [[Steve Scalise]], [[Brandon Gill]], [[Brett Guthrie]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[MOORE FOR WEST VIRGINIA, INC.]], [[David P. Joyce]], [[NRA Political Victory Fund]], [[DR. BRIAN BABIN FOR CONGRESS]], [[Tom Emmer]], [[Mike Johnson]], [[Koch Industries]], [[JAKE ELLZEY FOR CONGRESS]], [[Richard Hudson]], [[North Carolina Soybean Producers Association N.C. SoyPAC]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Energy
   - House Committee on Armed Services
-  - "House Committee on Science, Space, and Technology"
+  - House Committee on Science, Space, and Technology
   - Intelligence and Special Operations
   - Investigations and Oversight
   - Military Personnel
   - Readiness
-total-raised: "$3.8M"
-career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
+total-raised: $3.8M
+career-total-source: FEC weball summary (cycles 2022, 2024, 2026)
 bills-sponsored: 17
 corroboration-count: 3
 ---

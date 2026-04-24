@@ -10,7 +10,7 @@ last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-ie-support: null
 fec-ie-oppose: $3,787,060
-politicians-funded: "[[Dan Osborn]], [[John Boozman]], [[Ann Wagner]]"
+politicians-funded: "[[Dan Osborn]], [[John Boozman]], [[Ann Wagner]], [[HANCOCK & PROUTY LLC]], [[American Homes 4 Rent]], [[ENDICOTT GROUP]], [[DDI MOBILE]], [[DT CLIENT SERVICES, LLC]], [[GOPOLITICAL STRATEGIES LLC]], [[LOOK AHEAD STRATEGIES]], [[RIZZO DUKES GROUP]], [[PUBLIC OPINION STRATEGIES, LLC]], [[ASCENT MEDIA LLC]], [[WINCO FUNDRAISING LLC]], [[America PAC - Elon Musk]], [[CORNHUSKER CONSULTING GROUP]], [[GUIDANT POLLING AND STRATEGY LLC]], [[CLOAKROOM ADVISORS]], [[Majority Forward]], [[ANCHOR RESEARCH LLC]], [[BIG DOG STRATEGIES]], [[HUSCH BLACKWELL LLP]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -21,10 +21,10 @@ related: "[[Dan Osborn]]"
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
-total-political-spend: "$2.6M"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2022, 2024"
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $2.6M
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2022, 2024
 ---
 
 

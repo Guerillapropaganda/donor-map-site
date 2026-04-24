@@ -1,31 +1,31 @@
 ---
-title: "John J. McGuire"
+title: John J. McGuire
 type: politician
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Virginia"
-state-abbr: "VA"
+party: Republican
+chamber: House
+state: Virginia
+state-abbr: VA
 district: "5"
-bioguide-id: "M001239"
+bioguide-id: M001239
 govtrack-id: 457026
 born: "1968-08-24"
-wikidata-id: "Q47545631"
-website: "https://mcguire.house.gov"
-phone: "202-225-4711"
+wikidata-id: Q47545631
+website: https://mcguire.house.gov
+phone: 202-225-4711
 source-types:
   - Congress
   - GovTrack
 known-gaps:
-  - "No FEC contribution data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Cyber, Information Technologies, and Innovation"
-  - "Cybersecurity, Information Technology, and Government Innovation"
+  - Cyber, Information Technologies, and Innovation
+  - Cybersecurity, Information Technology, and Government Innovation
   - Health Care and Financial Services
   - House Committee on Armed Services
   - House Committee on Oversight and Government Reform
@@ -33,6 +33,7 @@ committees:
   - Tactical Air and Land Forces
 bills-sponsored: 14
 corroboration-count: 2
+top-donors: "[[Defending Main Street Superpac INC]], [[Williams Companies]], [[Koch Industries]], [[Special Operations for America]], [[JOHN MCGUIRE FOR VIRGINIA]], [[NRA Political Victory Fund]]"
 ---
 
 

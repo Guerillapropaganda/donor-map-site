@@ -1,44 +1,45 @@
 ---
-title: "Cynthia M. Lummis"
+title: Cynthia M. Lummis
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "Senate"
-state: "Wyoming"
-state-abbr: "WY"
-bioguide-id: "L000571"
+party: Republican
+chamber: Senate
+state: Wyoming
+state-abbr: WY
+bioguide-id: L000571
 govtrack-id: 412294
 born: "1954-09-10"
-wikidata-id: "Q456064"
-website: "https://www.lummis.senate.gov"
-phone: "202-224-3424"
+wikidata-id: Q456064
+website: https://www.lummis.senate.gov
+phone: 202-224-3424
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 37
 bills-cosponsored: 406
 bills-enacted: 0
-top-policy-area: "Finance and Financial Sector"
-last-enriched: 2026-04-21
+top-policy-area: Finance and Financial Sector
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Clean Air, Climate, and Nuclear Innovation and Safety"
-  - "Consumer Protection, Technology, and Data Privacy"
+  - Clean Air, Climate, and Nuclear Innovation and Safety
+  - Consumer Protection, Technology, and Data Privacy
   - Digital Assets
   - Financial Institutions and Consumer Protection
-  - "Fisheries, Wildlife, and Water"
-  - "Science, Manufacturing, and Competitiveness"
-  - "Securities, Insurance, and Investment"
-  - "Senate Committee on Banking, Housing, and Urban Affairs"
-  - "Senate Committee on Commerce, Science, and Transportation"
+  - Fisheries, Wildlife, and Water
+  - Science, Manufacturing, and Competitiveness
+  - Securities, Insurance, and Investment
+  - Senate Committee on Banking, Housing, and Urban Affairs
+  - Senate Committee on Commerce, Science, and Transportation
   - Senate Committee on Environment and Public Works
   - Telecommunications and Media
   - Transportation and Infrastructure
+top-donors: "[[Pfizer Inc.]], [[National Restaurant Association]], [[Republican Jewish Coalition]], [[Koch Industries]], [[National Cattlemen's Beef Association]], [[NRA Political Victory Fund]], [[Senate Conservatives Fund]], [[Occidental Petroleum]], [[Gun Owners of America]], [[Senate Majority PAC]], [[Associated General Contractors of America Political Action Committee]], [[Williams Companies]], [[National Right to Life PAC]], [[American College of Radiology Association PAC]], [[Roger Marshall]], [[COTTON, THOMAS]], [[Southern Company]], [[Amgen Inc]], [[Google - Alphabet]], [[KAY GRANGER CAMPAIGN FUND]], [[ADRIAN SMITH FOR CONGRESS]], [[Tyson Foods]], [[McDonalds Corporation]], [[JASON SMITH FOR CONGRESS]], [[Club for Growth INC PAC]], [[Coinbase]], [[National Republican Senatorial Committee]], [[Common Sense for America PAC]], [[Meta - Facebook]], [[Let Freedom Ring INC]], [[John Boehner]]"
 ---
 
 

@@ -18,24 +18,24 @@ phone: 202-225-2002
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 3
 bills-cosponsored: 274
 bills-enacted: 0
 top-policy-area: International Affairs
-top-donors: "[[Bank of America]], [[Raytheon (RTX Corporation)]], [[Google - Alphabet]], [[Walmart]], [[Uber]], [[Palantir Technologies]], [[Anduril Industries]], [[Citadel - Kenneth Griffin]], [[Enterprise Products Partners]], [[General Motors]], [[CBRE Group]], [[Hawaiian Electric Company]], [[Tenet Healthcare]], [[Northrop Grumman]], [[UPS]], [[US CHAMBER OF COMMERCE]], [[Lockheed Martin]], [[Charles Schwab]], [[Chevron]], [[Citigroup]], [[US Chamber of Commerce]]"
-last-enriched: 2026-04-21
+top-donors: "[[Bank of America]], [[Raytheon (RTX Corporation)]], [[Google - Alphabet]], [[Walmart]], [[Uber]], [[Palantir Technologies]], [[Anduril Industries]], [[Citadel - Kenneth Griffin]], [[Enterprise Products Partners]], [[General Motors]], [[CBRE Group]], [[Hawaiian Electric Company]], [[Tenet Healthcare]], [[Northrop Grumman]], [[UPS]], [[US CHAMBER OF COMMERCE]], [[Lockheed Martin]], [[Charles Schwab]], [[Chevron]], [[Citigroup]], [[US Chamber of Commerce]], [[JAKE ELLZEY FOR CONGRESS]], [[Freedom's Defense Fund]], [[Koch Industries]], [[Williams Companies]], [[AIPAC - American Israel Public Affairs Committee]], [[Akin Gump Strauss Hauer & Feld]], [[National Association of Manufacturers]], [[CRENSHAW, DANIEL]], [[NRA Political Victory Fund]], [[Leidos]], [[Steve Scalise]], [[Associated General Contractors of America Political Action Committee]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Defending Main Street Superpac INC]], [[National Cattlemen's Beef Association]], [[TEXANS FOR JODEY ARRINGTON]], [[David P. Joyce]], [[JASON SMITH FOR CONGRESS]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Contracting and Infrastructure
   - Defense
   - House Committee on Appropriations
   - House Committee on Small Business
-  - "Interior, Environment, and Related Agencies"
-  - "Labor, Health and Human Services, Education, and Related Agencies"
-  - "Rural Development, Energy, and Supply Chains"
+  - Interior, Environment, and Related Agencies
+  - Labor, Health and Human Services, Education, and Related Agencies
+  - Rural Development, Energy, and Supply Chains
 ---
 
 

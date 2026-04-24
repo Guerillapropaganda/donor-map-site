@@ -1,31 +1,31 @@
 ---
-title: "Janet Mills"
+title: Janet Mills
 type: politician
 content-readiness: data-complete
 central-thesis: "Janet Mills represents the Democratic establishment's preferred profile: a career progressive prosecutor with genuine female leadership credentials and real working-class policy achievements, now positioning herself as a Senate candidate through a..."
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "Governor"
-state: "Maine"
-state-abbr: "ME"
+party: Democrat
+chamber: Governor
+state: Maine
+state-abbr: ME
 top-donors:
-  - "Democratic Senatorial Campaign Committee"
-total-received: "$126,322"
-fec-candidate-id: "H4ME02085"
+  - Democratic Senatorial Campaign Committee
+total-received: $126,322
+fec-candidate-id: H4ME02085
 source-types:
   - Congress
 corroboration-count: 2
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
+  - No FEC contribution data
+  - No voting record data
 last-enriched: "2026-04-09"
 related: "[[_Susan Collins Master Profile|Susan Collins]] · [[_Graham Platner Master Profile|Graham Platner]] · [[One Nation]] · [[Democratic Senatorial Campaign Committee]] · [[Opioid Litigation and Pharmaceutical Industry Accountability]]"
-donors: "[[Democratic Senatorial Campaign Committee]]"
+donors: "[[Democratic Senatorial Campaign Committee]], [[FRIENDS OF MARIA]]"
 urls-first-triaged: "2026-04-15"
-total-raised: "$126K"
-career-total-source: "FEC weball summary (cycles 1994)"
+total-raised: $126K
+career-total-source: FEC weball summary (cycles 1994)
 ---
 
 

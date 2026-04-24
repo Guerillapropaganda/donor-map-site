@@ -1,35 +1,35 @@
 ---
-title: "Jonathan L. Jackson"
+title: Jonathan L. Jackson
 type: politician
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Illinois"
-state-abbr: "IL"
+party: Democrat
+chamber: House
+state: Illinois
+state-abbr: IL
 district: "1"
-bioguide-id: "J000309"
+bioguide-id: J000309
 govtrack-id: 456899
 born: "1966-01-07"
-wikidata-id: "Q6273473"
-website: "https://jonathanjackson.house.gov"
-phone: "202-225-4372"
+wikidata-id: Q6273473
+website: https://jonathanjackson.house.gov
+phone: 202-225-4372
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-donors: "[[Western Growers Association]] · [[CA Farm Bureau Federation]]"
+  - No FEC contribution data
+  - No voting record data
+donors: "[[Western Growers Association]] · [[CA Farm Bureau Federation]] · [[CITIZENS TO ELECT RICK LARSEN]] · [[Cargill]] · [[Al Green]] · [[McDonalds Corporation]] · [[Troy A. Carter]] · [[Ro Khanna]] · [[ADRIANO ESPAILLAT FOR CONGRESS]] · [[National Nurses United]] · [[National Education Association]] · [[J Street]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Nucor Corporation]] · [[Gilead Sciences]] · [[AbbVie]] · [[MEDICARE FOR ALL]] · [[TED LIEU FOR CONGRESS]] · [[Giffords PAC]] · [[ADM - Archer Daniels Midland]] · [[Google - Alphabet]] · [[Protect Our Future PAC]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 6
 bills-cosponsored: 540
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Africa
-  - "Commodity Markets, Digital Assets, and Rural Development"
+  - Commodity Markets, Digital Assets, and Rural Development
   - House Committee on Agriculture
   - House Committee on Foreign Affairs
   - Nutrition and Foreign Agriculture

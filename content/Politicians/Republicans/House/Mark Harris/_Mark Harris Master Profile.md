@@ -20,24 +20,24 @@ source-types:
   - FEC
   - GovTrack
 known-gaps:
-  - "No mapped relationships"
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H6NC09200
-top-donors: "[[National Rifle Association]], [[AIPAC - American Israel Public Affairs Committee]], [[National Restaurant Association]], [[Campaign for Working Families]], [[Ralph Norman]], [[Bank of America]], [[Wells Fargo]], [[Amazon]], [[Morgan Stanley]], [[Novo Nordisk]], [[Duke Energy]], [[SpaceX]], [[Blackstone Group]], [[Goldman Sachs]], [[HBW Resources]]"
-last-enriched: 2026-04-21
+top-donors: "[[National Rifle Association]], [[AIPAC - American Israel Public Affairs Committee]], [[National Restaurant Association]], [[Campaign for Working Families]], [[Ralph Norman]], [[Bank of America]], [[Wells Fargo]], [[Amazon]], [[Morgan Stanley]], [[Novo Nordisk]], [[Duke Energy]], [[SpaceX]], [[Blackstone Group]], [[Goldman Sachs]], [[HBW Resources]], [[Darin Lahood]], [[Marlin A. Stutzman]], [[TED CRUZ FOR SENATE]], [[Roger Wicker]], [[Hillary Clinton]], [[JOSH RILEY FOR CONGRESS]], [[Richard McCormick]], [[LAUREN UNDERWOOD FOR CONGRESS]], [[Linda McMahon]], [[RALPH NORMAN FOR CONGRESS]], [[Rand Paul]], [[Democratic Senatorial Campaign Committee]], [[Jim Inhofe]], [[JOSH BRECHEEN FOR CONGRESS]], [[JIM COSTA FOR CONGRESS]], [[Daniel S. Goldman]], [[PATRICK RYAN FOR CONGRESS]], [[ANDY HARRIS FOR CONGRESS]], [[PAT RYAN FOR CONGRESS]], [[CORY BOOKER FOR SENATE]], [[Brett Guthrie]], [[MARCO RUBIO FOR PRESIDENT]], [[RAND PAUL FOR US SENATE]], [[Ted Cruz]], [[John Boozman]], [[TIM SCOTT FOR AMERICA]], [[DR. BRIAN BABIN FOR CONGRESS]], [[CRENSHAW, DANIEL]], [[Mitch McConnell]], [[Melissa Bean]], [[Barack Obama]], [[MCCAUL FOR CONGRESS, INC]], [[Railroaders for Public Safety]], [[Rick Perry]], [[WinSenate]], [[Ed Case]], [[Kamala Harris]], [[John Cornyn]], [[Paul Ryan]], [[CORI BUSH FOR CONGRESS]], [[John R. Carter]], [[Rick Crawford]], [[GEORGE WHITESIDES FOR CONGRESS]], [[MARCIA FUDGE FOR CONGRESS]], [[Donald Trump]], [[Sylvia R. Garcia]], [[LANCE GOODEN FOR CONGRESS COMMITTEE]], [[National Republican Senatorial Committee]], [[RON JOHNSON FOR SENATE, INC.]], [[Jeff Sessions]], [[Bernie Sanders]], [[Trump Victory]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[MOORE FOR WEST VIRGINIA, INC.]], [[TROY DOWNING FOR CONGRESS]], [[BRANDON GILL FOR TEXAS]], [[National Education Association]], [[Steve Womack]], [[Tyson Foods]], [[Carol D. Miller]], [[Mike Johnson]], [[Guy Reschenthaler]], [[CVS Health - Aetna]], [[FreedomWorks for America]], [[Frank Lucas]], [[Club for Growth INC PAC]], [[NRA Political Victory Fund]], [[National Cattlemen's Beef Association]], [[Steve Scalise]], [[McDonalds Corporation]], [[BLAKE MOORE FOR CONGRESS]], [[AFL-CIO]], [[Family Research Council Action Political Action Committee]], [[Tom Emmer]], [[ActBlue Non-Federal]], [[UHFG Insurance Political Action Committee]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Early Childhood, Elementary, and Secondary Education"
-  - "General Farm Commodities, Risk Management, and Credit"
+  - Early Childhood, Elementary, and Secondary Education
+  - General Farm Commodities, Risk Management, and Credit
   - Higher Education and Workforce Development
   - House Committee on Agriculture
   - House Committee on Education and Workforce
   - House Committee on the Judiciary
-  - "Livestock, Dairy, and Poultry"
+  - Livestock, Dairy, and Poultry
   - Nutrition and Foreign Agriculture
-  - "The Administrative State, Regulatory Reform, and Antitrust"
+  - The Administrative State, Regulatory Reform, and Antitrust
   - The Constitution and Limited Government
-total-raised: "$3.1M"
-career-total-source: "FEC weball summary (cycles 2016, 2018, 2020, 2026)"
+total-raised: $3.1M
+career-total-source: FEC weball summary (cycles 2016, 2018, 2020, 2026)
 bills-sponsored: 13
 corroboration-count: 3
 ---

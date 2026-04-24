@@ -11,8 +11,8 @@ fec-committee-id: C00767632
 aliases:
   - VOTER PROTECTION PROJECT
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Ritchie Torres]], [[Joaquin Castro]], [[Susie Lee]], [[Chris Pappas]], [[Greg Landsman]], [[Veronica Escobar]], [[Sharice Davids]], [[Seth Magaziner]], [[Shontel Brown]], [[Raphael Warnock]], [[Teresa Leger Fernandez]], [[Jon Ossoff]], [[Marie Gluesenkamp Perez]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Ritchie Torres]], [[Joaquin Castro]], [[Susie Lee]], [[Chris Pappas]], [[Greg Landsman]], [[Veronica Escobar]], [[Sharice Davids]], [[Seth Magaziner]], [[Shontel Brown]], [[Raphael Warnock]], [[Teresa Leger Fernandez]], [[Jon Ossoff]], [[Marie Gluesenkamp Perez]], [[MASSEY, KEVIN]], [[NGP]], [[MSL STRATEGIES LLC]], [[MOMENTUM CAMPAIGNS LLC]], [[FRAISER LLC]], [[SWITCHBOARD]], [[GREVEN GROUP LLC]], [[OPT-IN STRATEGIES]], [[ActBlue]], [[Gabe Vasquez]], [[Ami Bera]], [[Yvette D. Clarke]], [[Pete Aguilar]], [[Christian D. Menefee]], [[Elissa Slotkin]]"
 related: "[[Ritchie Torres]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -25,7 +25,7 @@ individual-contributions: 713942
 contributions-to-committees: 39500
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

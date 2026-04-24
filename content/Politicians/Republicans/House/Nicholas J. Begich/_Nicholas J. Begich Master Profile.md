@@ -1,28 +1,28 @@
 ---
-title: "Nicholas J. Begich"
+title: Nicholas J. Begich
 type: politician
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Alaska"
-state-abbr: "AK"
+party: Republican
+chamber: House
+state: Alaska
+state-abbr: AK
 district: "0"
-bioguide-id: "B001323"
+bioguide-id: B001323
 govtrack-id: 456970
 born: "1977-10-21"
-wikidata-id: "Q113676482"
-website: "https://begich.house.gov"
-phone: "202-225-5765"
+wikidata-id: Q113676482
+website: https://begich.house.gov
+phone: 202-225-5765
 source-types:
   - Congress
   - GovTrack
 known-gaps:
-  - "No FEC contribution data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Aviation
   - Coast Guard and Maritime Transportation
@@ -30,13 +30,14 @@ committees:
   - Energy and Mineral Resources
   - Environment
   - House Committee on Natural Resources
-  - "House Committee on Science, Space, and Technology"
+  - House Committee on Science, Space, and Technology
   - House Committee on Transportation and Infrastructure
   - Investigations and Oversight
   - Oversight and Investigations
-  - "Railroads, Pipelines, and Hazardous Materials"
+  - Railroads, Pipelines, and Hazardous Materials
 bills-sponsored: 26
 corroboration-count: 2
+top-donors: "[[HOUCHIN FOR CONGRESS]], [[ANDY HARRIS FOR CONGRESS]], [[National Right to Life Victory Fund]], [[Robert F. Onder]], [[Club for Growth INC PAC]], [[MARY MILLER FOR CONGRESS]], [[Brett Guthrie]], [[Dale W. Strong]], [[DAVID ROUZER FOR CONGRESS]], [[HAGEMAN FOR WYOMING]], [[Kevin Kiley]], [[Jeff Hurd]], [[Mark B. Messmer]], [[FISCHBACH FOR CONGRESS]], [[BOST, MICHAEL]], [[Republican Jewish Coalition]], [[MIKE COLLINS FOR SENATE]], [[Brandon Gill]], [[MIKE KENNEDY FOR UTAH]], [[Dan Newhouse]], [[JAKE ELLZEY FOR CONGRESS]], [[Jimmy Patronis]], [[Koch Industries]], [[Coinbase]], [[COMER FOR CONGRESS]], [[Rick Crawford]], [[Neal P. Dunn]], [[Tom Emmer]], [[BURCHETT FOR CONGRESS]], [[Gun Owners of America]], [[Clay Higgins]], [[Google - Alphabet]], [[FEDORCHAK FOR ND]], [[Mike Johnson]], [[MIKE HARIDOPOLOS FOR CONGRESS]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[NRA Political Victory Fund]], [[BRANDON GILL FOR TEXAS]], [[National Cattlemen's Beef Association]], [[Robert E. Latta]], [[CLIFF BENTZ FOR CONGRESS]], [[MARK HARRIS FOR CONGRESS]], [[TROY DOWNING FOR CONGRESS]], [[LISA MCCLAIN FOR CONGRESS]], [[Gregory F. Murphy]], [[Steve Scalise]], [[FRIENDS OF TIM MOORE]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Frank Lucas]], [[John J. McGuire]], [[JIM JORDAN FOR CONGRESS]], [[PETE SESSIONS FOR CONGRESS]], [[BYRON DONALDS FOR CONGRESS]], [[Guy Reschenthaler]], [[Williams Companies]], [[Tim Walberg]], [[WEBER FOR CONGRESS]], [[Associated General Contractors of America Political Action Committee]], [[DAVE TAYLOR FOR CONGRESS]], [[CARLOS GIMENEZ FOR CONGRESS]], [[MCDOWELL FOR CONGRESS]], [[ROBERT ADERHOLT FOR CONGRESS]], [[THOMAS MASSIE FOR CONGRESS]], [[RICK W. ALLEN FOR CONGRESS]], [[Leidos]], [[KEVIN KILEY FOR CONGRESS]], [[Mark Harris]], [[GLENN GROTHMAN FOR CONGRESS]], [[FRY FOR CONGRESS]], [[CVS Health - Aetna]], [[CLYDE FOR CONGRESS, INC.]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[Russ Fulcher]], [[Pat Fallon]], [[Southern Company]], [[JOE WILSON FOR CONGRESS]], [[BEN CLINE FOR CONGRESS, INC.]]"
 ---
 
 

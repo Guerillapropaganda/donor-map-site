@@ -1,39 +1,40 @@
 ---
-title: "Alma S. Adams"
+title: Alma S. Adams
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "North Carolina"
-state-abbr: "NC"
+party: Democrat
+chamber: House
+state: North Carolina
+state-abbr: NC
 district: "12"
-bioguide-id: "A000370"
+bioguide-id: A000370
 govtrack-id: 412607
 born: "1946-05-27"
-wikidata-id: "Q4733597"
-website: "https://adams.house.gov"
-phone: "202-225-1510"
+wikidata-id: Q4733597
+website: https://adams.house.gov
+phone: 202-225-1510
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 28
 bills-cosponsored: 524
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Conservation, Research, and Biotechnology"
-  - "Early Childhood, Elementary, and Secondary Education"
+  - Conservation, Research, and Biotechnology
+  - Early Childhood, Elementary, and Secondary Education
   - Higher Education and Workforce Development
   - House Committee on Agriculture
   - House Committee on Education and Workforce
   - Nutrition and Foreign Agriculture
+top-donors: "[[National Education Association]], [[NANCY PELOSI FOR CONGRESS]], [[John B. Larson]], [[J Street]], [[Google - Alphabet]], [[LOFGREN FOR CONGRESS]], [[Planned Parenthood Action Fund INC]], [[League of Conservation Voters]], [[Suzanne Bonamici]], [[TED LIEU FOR CONGRESS]], [[National Nurses United]], [[MIKE THOMPSON FOR CONGRESS]], [[Yvette D. Clarke]], [[Emily's List]], [[BARBARA LEE FOR CONGRESS]], [[James E. Clyburn]], [[McDonalds Corporation]], [[Bennie Thompson]], [[AIPAC - American Israel Public Affairs Committee]], [[Sierra Club Political Committee]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Tyson Foods]], [[Nucor Corporation]], [[Steny H. Hoyer]], [[Al Green]], [[AbbVie]], [[Henry C. Hank Johnson]], [[Let America Vote PAC]], [[Hakeem Jeffries]], [[American College of Radiology Association PAC]], [[MEDICARE FOR ALL]], [[Xavier Becerra]], [[BEATTY FOR CONGRESS]], [[DOGGETT FOR U S CONGRESS COMMITTEE]], [[Amgen Inc]], [[Richard Neal]], [[Donald S. Beyer]], [[DIANA DEGETTE FOR CONGRESS]], [[Frank Pallone]]"
 ---
 
 

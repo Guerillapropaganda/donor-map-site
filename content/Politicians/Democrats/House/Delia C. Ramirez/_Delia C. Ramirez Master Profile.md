@@ -1,39 +1,40 @@
 ---
-title: "Delia C. Ramirez"
+title: Delia C. Ramirez
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Illinois"
-state-abbr: "IL"
+party: Democrat
+chamber: House
+state: Illinois
+state-abbr: IL
 district: "3"
-bioguide-id: "R000617"
+bioguide-id: R000617
 govtrack-id: 456900
 born: "1983-06-02"
-wikidata-id: "Q58416610"
-website: "https://ramirez.house.gov"
-phone: "202-225-5701"
+wikidata-id: Q58416610
+website: https://ramirez.house.gov
+phone: 202-225-5701
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 14
 bills-cosponsored: 576
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Border Security and Enforcement
   - Economic Opportunity
   - House Committee on Homeland Security
-  - "House Committee on Veterans' Affairs"
+  - House Committee on Veterans' Affairs
   - Oversight and Investigations
-  - "Oversight, Investigations, and Accountability"
+  - Oversight, Investigations, and Accountability
+top-donors: "[[Nydia Velazquez]], [[PETE AGUILAR FOR CONGRESS]], [[Let America Vote PAC]], [[Emily's List]], [[DOGGETT FOR U S CONGRESS COMMITTEE]], [[Hakeem Jeffries]], [[Indivisible Action]], [[League of Conservation Voters]], [[National Nurses United]], [[BARRAGAN FOR CONGRESS]], [[GALLEGO FOR ARIZONA]], [[Demand Justice]], [[Sierra Club Political Committee]], [[MAD 4 PA PAC]], [[SARA JACOBS FOR CONGRESS]], [[Justice Democrats PAC]], [[Planned Parenthood Action Fund INC]], [[Working Families Party PAC]], [[TED LIEU FOR CONGRESS]], [[ROBERT GARCIA FOR CONGRESS]], [[Adam Schiff]], [[Giffords PAC]], [[MEDICARE FOR ALL]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[J Street]], [[JAMIE RASKIN FOR CONGRESS]], [[MARK TAKANO FOR CONGRESS]], [[Raul Grijalva]], [[National Education Association]], [[Environment America INC]], [[MARK POCAN FOR CONGRESS]], [[Maxwell Frost]], [[CITIZENS TO ELECT RICK LARSEN]]"
 ---
 
 

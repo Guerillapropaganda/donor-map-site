@@ -18,26 +18,26 @@ phone: 202-225-7084
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2CA37304
 bills-sponsored: 34
 bills-cosponsored: 470
 bills-enacted: 1
 top-policy-area: International Affairs
-top-donors: "[[Planned Parenthood Action Fund INC]], [[Teamsters - International Brotherhood of Teamsters]], [[Medicare for All - The Policy That Broke the Party]], [[MoveOn.org Political Action]], [[J Street]], [[National Association of Realtors]], [[NEA Fund for Children and Public Education]], [[Julia Brownley]], [[Microsoft]], [[Demand Justice]], [[National Nurses United]], [[Cooperative of American Physicians Independent Expenditure Committee]], [[American Federation of State County & Municipal Employees P E O P L E]], [[DCCC - Democratic Congressional Campaign Committee]], [[Ted Lieu]], [[CTA - California Teachers Association]], [[Congressional Progressive Caucus PAC]], [[Google - Alphabet]], [[AIPAC - American Israel Public Affairs Committee]], [[Lockheed Martin]], [[IBEW - International Brotherhood of Electrical Workers]], [[Comcast - NBCUniversal]], [[Sara Jacobs]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Protect Our Future PAC]], [[Sierra Club Independent Action]], [[League of Conservation Voters]], [[UA Political Action Committee]], [[SEIU COPE]], [[American Hospital Association PAC]], [[Sierra Club Political Committee]], [[Let America Vote PAC]], [[Adriano Espaillat]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AT&T - WarnerMedia]], [[Giffords PAC]], [[Gilead Sciences]], [[Courage California Super Pac]], [[Honeywell]], [[CVS Health - Aetna]], [[DMFI - Democratic Majority for Israel]], [[Meta - Facebook]], [[UPS]], [[TikTok - ByteDance]], [[Coinbase]], [[PG&E]], [[Amazon]], [[Bank of America]], [[Apple]], [[AT&T]], [[Bechtel Corporation]], [[Morgan Stanley]], [[SpaceX]], [[FTX - Sam Bankman-Fried]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Honeywell International]]"
-last-enriched: 2026-04-21
+top-donors: "[[Planned Parenthood Action Fund INC]], [[Teamsters - International Brotherhood of Teamsters]], [[Medicare for All - The Policy That Broke the Party]], [[MoveOn.org Political Action]], [[J Street]], [[National Association of Realtors]], [[NEA Fund for Children and Public Education]], [[Julia Brownley]], [[Microsoft]], [[Demand Justice]], [[National Nurses United]], [[Cooperative of American Physicians Independent Expenditure Committee]], [[American Federation of State County & Municipal Employees P E O P L E]], [[DCCC - Democratic Congressional Campaign Committee]], [[Ted Lieu]], [[CTA - California Teachers Association]], [[Congressional Progressive Caucus PAC]], [[Google - Alphabet]], [[AIPAC - American Israel Public Affairs Committee]], [[Lockheed Martin]], [[IBEW - International Brotherhood of Electrical Workers]], [[Comcast - NBCUniversal]], [[Sara Jacobs]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Protect Our Future PAC]], [[Sierra Club Independent Action]], [[League of Conservation Voters]], [[UA Political Action Committee]], [[SEIU COPE]], [[American Hospital Association PAC]], [[Sierra Club Political Committee]], [[Let America Vote PAC]], [[Adriano Espaillat]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AT&T - WarnerMedia]], [[Giffords PAC]], [[Gilead Sciences]], [[Courage California Super Pac]], [[Honeywell]], [[CVS Health - Aetna]], [[DMFI - Democratic Majority for Israel]], [[Meta - Facebook]], [[UPS]], [[TikTok - ByteDance]], [[Coinbase]], [[PG&E]], [[Amazon]], [[Bank of America]], [[Apple]], [[AT&T]], [[Bechtel Corporation]], [[Morgan Stanley]], [[SpaceX]], [[FTX - Sam Bankman-Fried]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Honeywell International]], [[JULIA BROWNLEY FOR CONGRESS]], [[ADRIANO ESPAILLAT FOR CONGRESS]], [[National Education Association]], [[TED LIEU FOR CONGRESS]], [[Gerry Connolly]], [[Hakeem Jeffries]], [[MEDICARE FOR ALL]], [[Steny H. Hoyer]], [[Blue Shield of California]], [[SARA JACOBS FOR CONGRESS]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Courts, Intellectual Property, Artificial Intelligence, and the Internet"
+  - Courts, Intellectual Property, Artificial Intelligence, and the Internet
   - House Committee on Foreign Affairs
   - House Committee on the Judiciary
   - South and Central Asia
   - The Constitution and Limited Government
   - Western Hemisphere
-total-raised: "$2.9M"
-career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
+total-raised: $2.9M
+career-total-source: FEC weball summary (cycles 2022, 2024, 2026)
 ---
 
 

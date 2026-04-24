@@ -18,28 +18,28 @@ phone: 202-225-3011
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H0UT04076
 bills-sponsored: 17
 bills-cosponsored: 291
 bills-enacted: 0
 top-policy-area: Education
-top-donors: "[[Women Speak Out Pac]], [[National Association of Realtors]], [[Walmart - Walton Family]], [[General Dynamics]], [[Tyson Foods]], [[Chevron]], [[Associated General Contractors of America Political Action Committee]], [[L3Harris Technologies]], [[American College of Radiology Association PAC]], [[WinRed]], [[Lockheed Martin]], [[National Rifle Association]], [[AIPAC - American Israel Public Affairs Committee]], [[Northrop Grumman]], [[AT&T - WarnerMedia]], [[Freedom's Defense Fund]], [[McDonalds Corporation]], [[MAJORITY PAC]], [[Elbert Guillory's America]], [[Tzedek PAC]], [[Jason Smith]], [[David Rouzer]], [[iHeartMedia]], [[National Cattlemen's Beef Association]], [[Jim Jordan]], [[Comcast - NBCUniversal]], [[AT&T]], [[Majority PAC]]"
-last-enriched: 2026-04-21
+top-donors: "[[Women Speak Out Pac]], [[National Association of Realtors]], [[Walmart - Walton Family]], [[General Dynamics]], [[Tyson Foods]], [[Chevron]], [[Associated General Contractors of America Political Action Committee]], [[L3Harris Technologies]], [[American College of Radiology Association PAC]], [[WinRed]], [[Lockheed Martin]], [[National Rifle Association]], [[AIPAC - American Israel Public Affairs Committee]], [[Northrop Grumman]], [[AT&T - WarnerMedia]], [[Freedom's Defense Fund]], [[McDonalds Corporation]], [[MAJORITY PAC]], [[Elbert Guillory's America]], [[Tzedek PAC]], [[Jason Smith]], [[David Rouzer]], [[iHeartMedia]], [[National Cattlemen's Beef Association]], [[Jim Jordan]], [[Comcast - NBCUniversal]], [[AT&T]], [[Majority PAC]], [[NRA Political Victory Fund]], [[DAVID ROUZER FOR CONGRESS]], [[JASON SMITH FOR CONGRESS]], [[Carol D. Miller]], [[Conservative Leadership PAC]], [[Steve Scalise]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[John W. Rose]], [[FRIENDS OF MATT GAETZ]], [[Williams Companies]], [[Gun Owners of America]], [[Kevin McCarthy]], [[TEXANS FOR JODEY ARRINGTON]], [[Dan Newhouse]], [[Campaign for Working Families]], [[Darin Lahood]], [[BIGGS FOR CONGRESS]], [[JIM JORDAN FOR CONGRESS]], [[FreedomWorks for America]], [[MAST FOR CONGRESS]], [[Republican Jewish Coalition]], [[CLYDE FOR CONGRESS, INC.]], [[GEO Group - Private Prison Industrial Complex]], [[RON ESTES FOR CONGRESS]], [[Koch Industries]], [[Elise Stefanik]], [[American Principles Fund]], [[ADRIAN SMITH FOR CONGRESS]], [[BLAKE MOORE FOR CONGRESS]], [[Glenn Thompson]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Aviation
-  - "Early Childhood, Elementary, and Secondary Education"
-  - "Health, Employment, Labor, and Pensions"
+  - Early Childhood, Elementary, and Secondary Education
+  - Health, Employment, Labor, and Pensions
   - Higher Education and Workforce Development
   - Highways and Transit
   - House Committee on Education and Workforce
   - House Committee on Transportation and Infrastructure
-  - "Railroads, Pipelines, and Hazardous Materials"
-total-raised: "$11.0M"
-career-total-source: "FEC weball summary (cycles 2020, 2022, 2024, 2026)"
+  - Railroads, Pipelines, and Hazardous Materials
+total-raised: $11.0M
+career-total-source: FEC weball summary (cycles 2020, 2022, 2024, 2026)
 ---
 
 

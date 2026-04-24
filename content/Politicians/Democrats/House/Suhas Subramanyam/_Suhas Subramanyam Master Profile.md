@@ -20,22 +20,22 @@ source-types:
   - FEC
   - GovTrack
 known-gaps:
-  - "No mapped relationships"
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4VA10279
-top-donors: "[[General Dynamics]], [[League of Conservation Voters]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Microsoft]], [[Lockheed Martin]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Sierra Club Political Committee]], [[SEIU COPE]], [[American Federation of State County & Municipal Employees P E O P L E]], [[L3Harris Technologies]], [[Pete Aguilar]], [[Walmart - Walton Family]], [[Robert Garcia]], [[Medicare for All - The Policy That Broke the Party]], [[Protect Progress]], [[AIPAC - American Israel Public Affairs Committee]], [[National Committee to Preserve Social Security PAC]], [[Sierra Club Independent Action]], [[National Association of Realtors]], [[Nancy Pelosi]], [[Northrop Grumman]], [[UA Political Action Committee]], [[Judy Chu]], [[NEA Fund for Children and Public Education]], [[Comcast - NBCUniversal]], [[Leidos]], [[DCCC - Democratic Congressional Campaign Committee]], [[Mark Takano]], [[Raytheon (RTX)]], [[IBEW - International Brotherhood of Electrical Workers]], [[American Hospital Association PAC]], [[American Federation of State County & Municipal Employees  P E O P L E]]"
-last-enriched: 2026-04-21
+top-donors: "[[General Dynamics]], [[League of Conservation Voters]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Microsoft]], [[Lockheed Martin]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Sierra Club Political Committee]], [[SEIU COPE]], [[American Federation of State County & Municipal Employees P E O P L E]], [[L3Harris Technologies]], [[Pete Aguilar]], [[Walmart - Walton Family]], [[Robert Garcia]], [[Medicare for All - The Policy That Broke the Party]], [[Protect Progress]], [[AIPAC - American Israel Public Affairs Committee]], [[National Committee to Preserve Social Security PAC]], [[Sierra Club Independent Action]], [[National Association of Realtors]], [[Nancy Pelosi]], [[Northrop Grumman]], [[UA Political Action Committee]], [[Judy Chu]], [[NEA Fund for Children and Public Education]], [[Comcast - NBCUniversal]], [[Leidos]], [[DCCC - Democratic Congressional Campaign Committee]], [[Mark Takano]], [[Raytheon (RTX)]], [[IBEW - International Brotherhood of Electrical Workers]], [[American Hospital Association PAC]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Raytheon (RTX Corporation)]], [[MEDICARE FOR ALL]], [[ROBERT GARCIA FOR CONGRESS]], [[NANCY PELOSI FOR CONGRESS]], [[STRICKLAND FOR WASHINGTON]], [[MARK TAKANO FOR CONGRESS]], [[Eugene Simon Vindman]], [[Robin L. Kelly]], [[PETE AGUILAR FOR CONGRESS]], [[JUDY CHU FOR CONGRESS]], [[MCCLELLAN FOR CONGRESS]], [[National Education Association]], [[Maxwell Frost]], [[Bradley Scott Schneider]], [[Hakeem Jeffries]], [[Donald S. Beyer]], [[Akin Gump Strauss Hauer & Feld]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Cybersecurity, Information Technology, and Government Innovation"
+  - Cybersecurity, Information Technology, and Government Innovation
   - Delivering on Government Efficiency
   - Energy
   - House Committee on Ethics
   - House Committee on Oversight and Government Reform
-  - "House Committee on Science, Space, and Technology"
+  - House Committee on Science, Space, and Technology
   - Military and Foreign Affairs
   - Research and Technology
-total-raised: "$3.9M"
-career-total-source: "FEC weball summary (cycles 2024, 2026)"
+total-raised: $3.9M
+career-total-source: FEC weball summary (cycles 2024, 2026)
 bills-sponsored: 25
 corroboration-count: 3
 ---

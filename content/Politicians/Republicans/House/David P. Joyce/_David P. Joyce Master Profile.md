@@ -1,37 +1,38 @@
 ---
-title: "David P. Joyce"
+title: David P. Joyce
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Ohio"
-state-abbr: "OH"
+party: Republican
+chamber: House
+state: Ohio
+state-abbr: OH
 district: "14"
-bioguide-id: "J000295"
+bioguide-id: J000295
 govtrack-id: 412566
 born: "1957-03-17"
-wikidata-id: "Q976778"
-website: "https://joyce.house.gov"
-phone: "202-225-5731"
+wikidata-id: Q976778
+website: https://joyce.house.gov
+phone: 202-225-5731
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 40
 bills-cosponsored: 200
 bills-enacted: 2
-top-policy-area: "Armed Forces and National Security"
-last-enriched: 2026-04-21
+top-policy-area: Armed Forces and National Security
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Defense
   - Financial Services and General Government
   - House Committee on Appropriations
-  - "Transportation, Housing and Urban Development, and Related Agencies"
+  - Transportation, Housing and Urban Development, and Related Agencies
+top-donors: "[[American Gaming Association]], [[MCCAUL FOR CONGRESS, INC]], [[Nucor Corporation]], [[COTTON, THOMAS]], [[JIM JORDAN FOR CONGRESS]], [[BEN CLINE FOR CONGRESS, INC.]], [[Republican Jewish Coalition]], [[Environment America INC]], [[Steve Scalise]], [[American Iron and Steel Institute]], [[AFL-CIO]], [[NRA Political Victory Fund]], [[Defending Main Street Superpac INC]], [[Associated General Contractors of America Political Action Committee]], [[Pfizer Inc.]], [[No Labels Action, Inc.]], [[Progressive Turnout Project]], [[AbbVie]], [[Leidos]], [[National Education Association]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[TEXANS FOR JODEY ARRINGTON]], [[Steve Womack]], [[JASON SMITH FOR CONGRESS]], [[Markwayne Mullin]], [[AIPAC - American Israel Public Affairs Committee]], [[National Association of Manufacturers]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[John Boehner]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[ANDY BARR FOR SENATE, INC.]], [[MOORE FOR WEST VIRGINIA, INC.]], [[JOE WILSON FOR CONGRESS]], [[Kevin McCarthy]], [[Williams Companies]], [[Pete Sessions]], [[ANN WAGNER FOR CONGRESS]], [[ANDY HARRIS FOR CONGRESS]], [[National Restaurant Association]], [[Mark E. Amodei]], [[National Association of Realtors]], [[GEO Group - Private Prison Industrial Complex]], [[McDonalds Corporation]], [[CoreCivic]], [[Koch Industries]], [[Humana]], [[Coinbase]], [[Google - Alphabet]], [[Mike Johnson]], [[Robert E. Latta]], [[National Right to Life Victory Fund]], [[Akin Gump Strauss Hauer & Feld]], [[Southern Company]], [[Frank Lucas]], [[Rick Crawford]], [[PETE SESSIONS FOR CONGRESS]], [[National Cattlemen's Beef Association]], [[Ken Calvert]], [[Donald Trump]], [[Amgen Inc]], [[BYRON DONALDS FOR CONGRESS]], [[Richard Hudson]], [[American College of Radiology Association PAC]]"
 ---
 
 

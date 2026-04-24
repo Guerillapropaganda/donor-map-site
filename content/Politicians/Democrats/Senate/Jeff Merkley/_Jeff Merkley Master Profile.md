@@ -32,19 +32,19 @@ source-types:
   - GovTrack
 corroboration-count: 2
 known-gaps:
-  - "No FEC contribution data"
+  - No FEC contribution data
 last-enriched: "2026-04-11"
 related: "[[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Chuck Schumer Master Profile|Chuck Schumer]]"
 bioguide-id: M001176
-donors: "[[California Nurses Association]] · [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]] · [[Labor Unions]] · [[League of Conservation Voters]] · [[FREEDOM PARTNERS ACTION FUND INC]] · [[SEIU COPE]] · [[American Future Fund Political Action]] · [[Freedom Partners Action Fund Inc]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Mark Kelly]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[National Association of Realtors]] · [[American Hospital Association PAC]] · [[NEA Fund for Children and Public Education]] · [[Let America Vote PAC]] · [[J Street]] · [[Planned Parenthood Votes]] · [[Teamsters - International Brotherhood of Teamsters]] · [[American Federation of State County & Municipal Employees  P E O P L E]]"
+donors: "[[California Nurses Association]] · [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]] · [[Labor Unions]] · [[League of Conservation Voters]] · [[FREEDOM PARTNERS ACTION FUND INC]] · [[SEIU COPE]] · [[American Future Fund Political Action]] · [[Freedom Partners Action Fund Inc]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Mark Kelly]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[National Association of Realtors]] · [[American Hospital Association PAC]] · [[NEA Fund for Children and Public Education]] · [[Let America Vote PAC]] · [[J Street]] · [[Planned Parenthood Votes]] · [[Teamsters - International Brotherhood of Teamsters]] · [[American Federation of State County & Municipal Employees  P E O P L E]] · [[Bechtel Corporation]] · [[Sierra Club Political Committee]] · [[National Education Association]] · [[AFL-CIO]] · [[National Committee to Preserve Social Security & Medicare PAC]] · [[MARK KELLY FOR SENATE]] · [[Google - Alphabet]] · [[International Longshore and Warehouse Union -- Political Action Fund]] · [[Democratic Senatorial Campaign Committee]] · [[Nucor Corporation]] · [[Humane Society Legislative Fund]] · [[Planned Parenthood Action Fund INC]] · [[Blue Shield of California]] · [[Care Action]] · [[Friends of the Earth (action) INC]] · [[Blue America PAC]] · [[Indivisible Action]] · [[Mark Warner]] · [[FRIENDS OF MARIA]] · [[Meta - Facebook]] · [[Environment America INC]] · [[American Iron and Steel Institute]] · [[Angus S. King]] · [[Steny H. Hoyer]] · [[Giffords PAC]] · [[Amgen Inc]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 1216
 bills-cosponsored: 4846
 bills-enacted: 3
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: Health
-total-raised: "$37.1M"
-career-total-source: "FEC weball summary (cycles 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+total-raised: $37.1M
+career-total-source: FEC weball summary (cycles 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

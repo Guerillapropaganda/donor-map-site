@@ -18,27 +18,27 @@ phone: 202-225-5861
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H0CA08135
 bills-sponsored: 21
 bills-cosponsored: 259
 bills-enacted: 1
 top-policy-area: Armed Forces and National Security
-top-donors: "[[Marathon Petroleum]], [[PG&E - Pacific Gas and Electric]], [[Johnson & Johnson]], [[Walmart - Walton Family]], [[L3Harris Technologies]], [[Valero Energy]], [[Humana]], [[National Rifle Association]], [[Microsoft]], [[Comcast - NBCUniversal]], [[American Hospital Association PAC]], [[General Dynamics]], [[August Pfluger]], [[Northrop Grumman]], [[Anthem - Elevance Health]], [[Performance Racing Inc.]], [[AIPAC - American Israel Public Affairs Committee]], [[Planned Parenthood Votes]], [[Ford Motor Company]], [[Gilead Sciences]], [[MAJORITY PAC]], [[Google - Alphabet]], [[American College of Radiology Association PAC]], [[Honeywell]], [[AbbVie]], [[Bank of America]], [[American Chemistry Council, INC]], [[Lockheed Martin]], [[Associated General Contractors of America Political Action Committee]], [[AT&T - WarnerMedia]], [[Amgen Inc]], [[Save America PAC]], [[Chevron]], [[Pfizer Inc.]], [[National Association of Realtors]], [[Byron Donalds]], [[Equality California Votes]], [[National Restaurant Association]], [[National Multifamily Housing Council]], [[Occidental Petroleum]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Duke Energy]], [[Jason Smith]], [[WinRed]], [[Tzedek PAC]], [[Tenet Healthcare]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[General Motors]], [[Tyson Foods]], [[Wells Fargo]], [[Blackstone Group]], [[Apple]], [[Meta - Facebook]], [[a16z - Andreessen Horowitz]], [[Palantir Technologies]], [[Majority PAC]], [[Honeywell International]], [[AT&T]]"
-last-enriched: 2026-04-21
+top-donors: "[[Marathon Petroleum]], [[PG&E - Pacific Gas and Electric]], [[Johnson & Johnson]], [[Walmart - Walton Family]], [[L3Harris Technologies]], [[Valero Energy]], [[Humana]], [[National Rifle Association]], [[Microsoft]], [[Comcast - NBCUniversal]], [[American Hospital Association PAC]], [[General Dynamics]], [[August Pfluger]], [[Northrop Grumman]], [[Anthem - Elevance Health]], [[Performance Racing Inc.]], [[AIPAC - American Israel Public Affairs Committee]], [[Planned Parenthood Votes]], [[Ford Motor Company]], [[Gilead Sciences]], [[MAJORITY PAC]], [[Google - Alphabet]], [[American College of Radiology Association PAC]], [[Honeywell]], [[AbbVie]], [[Bank of America]], [[American Chemistry Council, INC]], [[Lockheed Martin]], [[Associated General Contractors of America Political Action Committee]], [[AT&T - WarnerMedia]], [[Amgen Inc]], [[Save America PAC]], [[Chevron]], [[Pfizer Inc.]], [[National Association of Realtors]], [[Byron Donalds]], [[Equality California Votes]], [[National Restaurant Association]], [[National Multifamily Housing Council]], [[Occidental Petroleum]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Duke Energy]], [[Jason Smith]], [[WinRed]], [[Tzedek PAC]], [[Tenet Healthcare]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[General Motors]], [[Tyson Foods]], [[Wells Fargo]], [[Blackstone Group]], [[Apple]], [[Meta - Facebook]], [[a16z - Andreessen Horowitz]], [[Palantir Technologies]], [[Majority PAC]], [[Honeywell International]], [[AT&T]], [[Blue Shield of California]], [[Southern Company]], [[Darin Lahood]], [[NRA Political Victory Fund]], [[Akin Gump Strauss Hauer & Feld]], [[Williams Companies]], [[Steve Scalise]], [[Mike Johnson]], [[TEXANS FOR JODEY ARRINGTON]], [[GEO Group - Private Prison Industrial Complex]], [[BYRON DONALDS FOR CONGRESS]], [[Koch Industries]], [[Tom Emmer]], [[AUGUST PFLUGER FOR CONGRESS]], [[JASON SMITH FOR CONGRESS]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Commerce, Manufacturing, and Trade"
+  - Commerce, Manufacturing, and Trade
   - Communications and Technology
   - Health
   - House Committee on Energy and Commerce
-  - "House Committee on Science, Space, and Technology"
+  - House Committee on Science, Space, and Technology
   - House Committee on the Budget
   - Research and Technology
-total-raised: "$5.7M"
-career-total-source: "FEC weball summary (cycles 2020, 2022, 2024, 2026)"
+total-raised: $5.7M
+career-total-source: FEC weball summary (cycles 2020, 2022, 2024, 2026)
 ---
 
 

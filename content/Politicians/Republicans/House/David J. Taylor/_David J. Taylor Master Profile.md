@@ -1,38 +1,39 @@
 ---
-title: "David J. Taylor"
+title: David J. Taylor
 type: politician
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Ohio"
-state-abbr: "OH"
+party: Republican
+chamber: House
+state: Ohio
+state-abbr: OH
 district: "2"
-bioguide-id: "T000490"
+bioguide-id: T000490
 govtrack-id: 457014
 born: "1969-11-16"
-wikidata-id: "Q131123679"
-website: "https://taylor.house.gov"
-phone: "202-225-3164"
+wikidata-id: Q131123679
+website: https://taylor.house.gov
+phone: 202-225-3164
 source-types:
   - Congress
   - GovTrack
 known-gaps:
-  - "No FEC contribution data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Commodity Markets, Digital Assets, and Rural Development"
-  - "General Farm Commodities, Risk Management, and Credit"
+  - Commodity Markets, Digital Assets, and Rural Development
+  - General Farm Commodities, Risk Management, and Credit
   - Highways and Transit
   - House Committee on Agriculture
   - House Committee on Transportation and Infrastructure
-  - "Railroads, Pipelines, and Hazardous Materials"
+  - Railroads, Pipelines, and Hazardous Materials
   - Water Resources and Environment
 bills-sponsored: 28
 corroboration-count: 2
+top-donors: "[[National Cattlemen's Beef Association]], [[JIM JORDAN FOR CONGRESS]], [[BRANDON GILL FOR TEXAS]], [[National Restaurant Association]], [[Koch Industries]], [[Guy Reschenthaler]], [[TROY DOWNING FOR CONGRESS]], [[David P. Joyce]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[AIPAC - American Israel Public Affairs Committee]], [[National Right to Life Victory Fund]], [[Carol D. Miller]], [[Brett Guthrie]], [[Frank Lucas]], [[National Education Association]], [[Associated General Contractors of America Political Action Committee]], [[NRA Political Victory Fund]], [[MOORE FOR WEST VIRGINIA, INC.]], [[Williams Companies]], [[DAVID ROUZER FOR CONGRESS]], [[Tom Emmer]], [[Steve Scalise]]"
 ---
 
 

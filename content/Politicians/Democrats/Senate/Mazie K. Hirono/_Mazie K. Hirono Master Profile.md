@@ -1,47 +1,48 @@
 ---
-title: "Mazie K. Hirono"
+title: Mazie K. Hirono
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "Senate"
-state: "Hawaii"
-state-abbr: "HI"
-bioguide-id: "H001042"
+party: Democrat
+chamber: Senate
+state: Hawaii
+state-abbr: HI
+bioguide-id: H001042
 govtrack-id: 412200
 born: "1947-11-03"
-wikidata-id: "Q16476"
-website: "https://www.hirono.senate.gov"
-phone: "202-224-6361"
+wikidata-id: Q16476
+website: https://www.hirono.senate.gov
+phone: 202-224-6361
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 71
 bills-cosponsored: 521
 bills-enacted: 0
-top-policy-area: "Crime and Law Enforcement"
-last-enriched: 2026-04-21
+top-policy-area: Crime and Law Enforcement
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Border Security and Immigration
   - Energy
-  - "Federal Courts, Oversight, Agency Action, and Federal Rights"
+  - Federal Courts, Oversight, Agency Action, and Federal Rights
   - Intellectual Property
   - National Parks
   - Personnel
-  - "Public Lands, Forests, and Mining"
+  - Public Lands, Forests, and Mining
   - Readiness and Management Support
   - Seapower
   - Senate Committee on Armed Services
   - Senate Committee on Energy and Natural Resources
   - Senate Committee on Small Business and Entrepreneurship
-  - "Senate Committee on Veterans' Affairs"
+  - Senate Committee on Veterans' Affairs
   - Senate Committee on the Judiciary
   - the Constitution
+top-donors: "[[International Longshore and Warehouse Union -- Political Action Fund]], [[American College of Radiology Association PAC]], [[Associated General Contractors of America Political Action Committee]], [[NANCY PELOSI FOR CONGRESS]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Amy Klobuchar]], [[Sierra Club Political Committee]], [[Akin Gump Strauss Hauer & Feld]], [[Pfizer Inc.]], [[League of Conservation Voters]], [[Google - Alphabet]], [[National Restaurant Association]], [[Steny H. Hoyer]], [[JUDY CHU FOR CONGRESS]], [[National Education Association]], [[Democratic Senatorial Campaign Committee]], [[Amgen Inc]], [[AbbVie]], [[DEBBIE WASSERMAN SCHULTZ FOR CONGRESS]], [[AFL-CIO]], [[Jerry Nadler]], [[Leidos]], [[Let America Vote PAC]], [[MATSUI FOR CONGRESS]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Gilead Sciences]], [[Demand Justice]], [[Tyson Foods]], [[Working Families for Hawaii]], [[Hilda Solis]], [[Monsanto - Bayer]], [[FRIENDS OF MARIA]], [[Rahm Emanuel]], [[LOFGREN FOR CONGRESS]], [[Meta - Facebook]], [[McDonalds Corporation]], [[John B. Larson]], [[BARBARA LEE FOR CONGRESS]], [[Xavier Becerra]], [[Edward J. Markey]], [[J Street]], [[Planned Parenthood Action Fund INC]], [[CVS Health - Aetna]], [[Powerpacplus]]"
 ---
 
 

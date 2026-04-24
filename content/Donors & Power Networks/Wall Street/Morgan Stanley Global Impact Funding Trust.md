@@ -9,14 +9,14 @@ ein: "527082731"
 nonprofit-status: 501(c)(3)
 source-tier: 1
 internal-notes: Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Morgan Stanley DAF sponsor. Multiple associated EINs in 990 records (527082731 primary). Narrative pending Research Claude editorial pass.
-politicians-funded: "[[The Barack Obama Foundation]], [[Stand Together Foundation]], [[Planned Parenthood Federation of America]], [[TPUSA - Turning Point USA]], [[Cato Institute]], [[Fidelity Investments]], [[ACLU Foundation]], [[American Endowment Foundation]], [[Silicon Valley Community Foundation]], [[National Philanthropic Trust]], [[Morgan Stanley Global Impact Funding Trust]], [[Apollo Global Management]], [[Vanguard Charitable Endowment Program]], [[Schwab Charitable Fund]], [[Bank of America Charitable Gift Fund]], [[Robin Hood Foundation]], [[Greater Horizons]], [[Equal Justice Initiative]], [[New Venture Fund]], [[Goldman Sachs Philanthropy Fund]], [[Sierra Club Foundation]], [[ImpactAssets]], [[Renaissance Charitable Foundation]], [[NEO Philanthropy]], [[Natural Resources Defense Council]], [[Hopewell Fund]], [[RAND Corporation]], [[Hudson Institute]], [[America First Policy Institute]], [[Heritage Foundation]], [[American Enterprise Institute]], [[Rockefeller Philanthropy Advisors]], [[Conservative Partnership Institute]], [[Council on Foreign Relations]], [[Co Impact Philanthropic Funds]], [[Alliance Defending Freedom]], [[Brennan Center for Justice]]"
+politicians-funded: "[[The Barack Obama Foundation]], [[Stand Together Foundation]], [[Planned Parenthood Federation of America]], [[TPUSA - Turning Point USA]], [[Cato Institute]], [[Fidelity Investments]], [[ACLU Foundation]], [[American Endowment Foundation]], [[Silicon Valley Community Foundation]], [[National Philanthropic Trust]], [[Morgan Stanley Global Impact Funding Trust]], [[Apollo Global Management]], [[Vanguard Charitable Endowment Program]], [[Schwab Charitable Fund]], [[Bank of America Charitable Gift Fund]], [[Robin Hood Foundation]], [[Greater Horizons]], [[Equal Justice Initiative]], [[New Venture Fund]], [[Goldman Sachs Philanthropy Fund]], [[Sierra Club Foundation]], [[ImpactAssets]], [[Renaissance Charitable Foundation]], [[NEO Philanthropy]], [[Natural Resources Defense Council]], [[Hopewell Fund]], [[RAND Corporation]], [[Hudson Institute]], [[America First Policy Institute]], [[Heritage Foundation]], [[American Enterprise Institute]], [[Rockefeller Philanthropy Advisors]], [[Conservative Partnership Institute]], [[Council on Foreign Relations]], [[Co Impact Philanthropic Funds]], [[Alliance Defending Freedom]], [[Brennan Center for Justice]], [[Hoover Institution]]"
 known-gaps:
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
-  - "No mapped relationships"
-last-enriched: 2026-04-21
-total-political-spend: "$461.2M"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2018, 2019, 2020, 2022, 2023, 2024"
+  - No FEC contribution data
+  - No lobbying disclosure data
+  - No mapped relationships
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $461.2M
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2018, 2019, 2020, 2022, 2023, 2024
 ---
 
 

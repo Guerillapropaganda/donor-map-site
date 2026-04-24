@@ -31,35 +31,35 @@ source-types:
   - Congress
 corroboration-count: 2
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
+  - No FEC contribution data
+  - No voting record data
 related: "[[_Mitch McConnell Master Profile]] · [[The McConnell-Leo Judicial Pipeline]] · [[Blackstone]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Schwarzman and Singer Fund Every Republican Faction]] · [[Janet Mills]]"
-donors: "[[Blackstone Group]] · [[Tech Industry]] · [[1820 PAC]] · [[American Gaming Association]] · [[NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND]] · [[Blackstone]] · [[Anthem - Elevance Health]] · [[Lockheed Martin]] · [[Raytheon (RTX)]] · [[National Multifamily Housing Council]] · [[Citigroup]] · [[Johnson & Johnson]] · [[Republican Jewish Coalition]] · [[WinRed]] · [[Bank of America]] · [[Pfizer Inc.]] · [[iHeartMedia]] · [[BAE Systems]] · [[SLF PAC]] · [[General Dynamics]] · [[NRSC - National Republican Senatorial Committee]] · [[L3Harris Technologies]] · [[Amgen Inc]] · [[American College of Radiology Association PAC]] · [[AbbVie]] · [[PG&E - Pacific Gas and Electric]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[American Chemistry Council, INC]] · [[Chevron]] · [[Tyson Foods]] · [[AT&T - WarnerMedia]] · [[Planned Parenthood Votes]] · [[Associated General Contractors of America Political Action Committee]] · [[Google - Alphabet]] · [[Comcast - NBCUniversal]] · [[Humana]] · [[Gilead Sciences]] · [[Northrop Grumman]] · [[Microsoft]] · [[National Restaurant Association]] · [[General Motors]] · [[Clearpath Action Fund, Inc.]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Ford Motor Company]] · [[VIEW PAC - Value in Electing Women]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[Drain the DC Swamp PAC]] · [[Walmart - Walton Family]] · [[Common Sense for America PAC]] · [[NORPAC]] · [[National Victory Action Fund]] · [[National Association of Realtors]] · [[American Hospital Association PAC]] · [[AT&T]]"
+donors: "[[Blackstone Group]] · [[Tech Industry]] · [[1820 PAC]] · [[American Gaming Association]] · [[NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND]] · [[Blackstone]] · [[Anthem - Elevance Health]] · [[Lockheed Martin]] · [[Raytheon (RTX)]] · [[National Multifamily Housing Council]] · [[Citigroup]] · [[Johnson & Johnson]] · [[Republican Jewish Coalition]] · [[WinRed]] · [[Bank of America]] · [[Pfizer Inc.]] · [[iHeartMedia]] · [[BAE Systems]] · [[SLF PAC]] · [[General Dynamics]] · [[NRSC - National Republican Senatorial Committee]] · [[L3Harris Technologies]] · [[Amgen Inc]] · [[American College of Radiology Association PAC]] · [[AbbVie]] · [[PG&E - Pacific Gas and Electric]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[American Chemistry Council, INC]] · [[Chevron]] · [[Tyson Foods]] · [[AT&T - WarnerMedia]] · [[Planned Parenthood Votes]] · [[Associated General Contractors of America Political Action Committee]] · [[Google - Alphabet]] · [[Comcast - NBCUniversal]] · [[Humana]] · [[Gilead Sciences]] · [[Northrop Grumman]] · [[Microsoft]] · [[National Restaurant Association]] · [[General Motors]] · [[Clearpath Action Fund, Inc.]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Ford Motor Company]] · [[VIEW PAC - Value in Electing Women]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[Drain the DC Swamp PAC]] · [[Walmart - Walton Family]] · [[Common Sense for America PAC]] · [[NORPAC]] · [[National Victory Action Fund]] · [[National Association of Realtors]] · [[American Hospital Association PAC]] · [[AT&T]] · [[Raytheon (RTX Corporation)]] · [[National Republican Senatorial Committee]] · [[NRA Political Victory Fund]] · [[Dan Coats]] · [[Cargill]] · [[Meta - Facebook]] · [[Club for Growth INC PAC]] · [[MBNA Corporation]] · [[National Education Association]] · [[Freedom's Defense Fund]] · [[Planned Parenthood Action Fund INC]] · [[Akin Gump Strauss Hauer & Feld]] · [[Jeff Sessions]] · [[American Iron and Steel Institute]] · [[McDonalds Corporation]] · [[Bechtel Corporation]] · [[Koch Industries]] · [[Anthem - Elevance Health Political Operation]] · [[Wfw Action Fund, Inc.]] · [[Southern Company]] · [[Nucor Corporation]] · [[Blue Shield of California]] · [[CVS Health - Aetna]] · [[Opportunity Matters Fund]] · [[League of Conservation Voters]] · [[CoreCivic]] · [[Everytown for Gun Safety]] · [[Mitch McConnell]] · [[Goldman Sachs]] · [[Leidos]] · [[Occidental Petroleum]] · [[W. Gregory Steube]] · [[National Wildlife Federation Action Fund]] · [[LISA MURKOWSKI FOR US SENATE]] · [[Giffords PAC]] · [[National Committee to Preserve Social Security & Medicare PAC]] · [[John Thune]] · [[National Association of Manufacturers]] · [[DANIEL WEBSTER PAC]] · [[Roger Marshall]] · [[Senate Majority PAC]] · [[ADM - Archer Daniels Midland]] · [[American Jobs and Growth PAC]] · [[Cynthia M. Lummis]] · [[AMERICAN ACADEMY OF NURSE PRACTITIONERS-POLITICAL ACTION COMMITTEE]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 37
 bills-cosponsored: 475
 bills-enacted: 0
 top-policy-area: Health
-last-enriched: 2026-04-20
+last-enriched: 2026-04-20T00:00:00.000Z
 committees:
-  - "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies"
-  - "Commerce, Justice, Science, and Related Agencies"
+  - Agriculture, Rural Development, Food and Drug Administration, and Related Agencies
+  - Commerce, Justice, Science, and Related Agencies
   - Department of Defense
   - Department of Homeland Security
-  - "Department of Interior, Environment, and Related Agencies"
-  - "Departments of Labor, Health and Human Services, and Education, and Related Agencies"
+  - Department of Interior, Environment, and Related Agencies
+  - Departments of Labor, Health and Human Services, and Education, and Related Agencies
   - Energy and Water Development
   - Financial Services and General Government
   - Legislative Branch
-  - "Military Construction, Veterans Affairs, and Related Agencies"
+  - Military Construction, Veterans Affairs, and Related Agencies
   - Primary Health and Retirement Security
   - Senate Committee on Appropriations
-  - "Senate Committee on Health, Education, Labor, and Pensions"
+  - Senate Committee on Health, Education, Labor, and Pensions
   - Senate Select Committee on Intelligence
-  - "State, Foreign Operations, and Related Programs"
-  - "Transportation, Housing and Urban Development, and Related Agencies"
-total-raised: "$64.4M"
-career-total-source: "FEC weball summary (cycles 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+  - State, Foreign Operations, and Related Programs
+  - Transportation, Housing and Urban Development, and Related Agencies
+total-raised: $64.4M
+career-total-source: FEC weball summary (cycles 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

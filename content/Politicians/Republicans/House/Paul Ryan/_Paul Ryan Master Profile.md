@@ -3,7 +3,7 @@ title: Paul Ryan
 type: politician
 content-readiness: ready
 central-thesis: "Paul Ryan exemplifies the donor-class politician masked as principled conservative. His public brand is 'fiscal hawk' concerned about deficits and wasteful spending. But his legislative record contradicts this entirely: as Speaker, he authored the..."
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Republican
@@ -22,13 +22,13 @@ govtrack-id: 400351
 bills-sponsored: 0
 bills-cosponsored: 0
 related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[John Boehner]] · [[Koch Network - Charles Koch|Koch Network]] · [[Heritage Foundation]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Fox News - Murdoch Media Empire|Fox News]] · [[Rupert Murdoch]] · [[_Mitt Romney Master Profile|Mitt Romney]] · [[Donald Trump]] · [[Winning Our Future]]"
-donors: "[[Jewish Democratic Council of America]] · [[American Iron and Steel Institute]] · [[Koch network]] · [[Mark Zuckerberg]] · [[Americans for Responsible Leadership]] · [[AMERICAN CROSSROADS]] · [[Restore Our Future, Inc.]] · [[Koch Network]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[American Crossroads]] · [[Winning Our Future]]"
+donors: "[[Jewish Democratic Council of America]] · [[American Iron and Steel Institute]] · [[Koch network]] · [[Mark Zuckerberg]] · [[Americans for Responsible Leadership]] · [[AMERICAN CROSSROADS]] · [[Restore Our Future, Inc.]] · [[Koch Network]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[American Crossroads]] · [[Winning Our Future]] · [[Pfizer Inc.]] · [[Southern Company]] · [[Meta - Facebook]] · [[National Restaurant Association]] · [[Occidental Petroleum]] · [[American College of Radiology Association PAC]] · [[Humana]] · [[Akin Gump Strauss Hauer & Feld]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[CVS Health - Aetna]] · [[National Right to Life PAC]] · [[Google - Alphabet]] · [[Associated General Contractors of America Political Action Committee]] · [[Monsanto - Bayer]] · [[Koch Industries]] · [[NRA Political Victory Fund]] · [[GLENN GROTHMAN FOR CONGRESS]] · [[Amgen Inc]] · [[National Cattlemen's Beef Association]] · [[Cargill]] · [[McDonalds Corporation]] · [[Nucor Corporation]] · [[MBNA Corporation]] · [[AFL-CIO]] · [[Senate Majority PAC]] · [[Bechtel Corporation]] · [[The Tea Party Leadership Fund]] · [[American Principles Fund]] · [[John Boehner]] · [[Gilead Sciences]] · [[AbbVie]] · [[CoreCivic]] · [[Campaign for Working Families]] · [[Steve Scalise]] · [[Republican Jewish Coalition]] · [[Bacardi - Bacardi USA]]"
 total-received: $483,642,897
 fec-candidate-id: H8WI01024
 needs-reenrichment: true
 reenrich-reason: run congress pipeline; run pipelines
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-last-enriched: 2026-04-20
+last-enriched: 2026-04-20T00:00:00.000Z
 ---
 
 

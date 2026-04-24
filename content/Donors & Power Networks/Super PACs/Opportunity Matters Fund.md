@@ -10,8 +10,8 @@ source-tier: 1
 aliases:
   - OPPORTUNITY MATTERS FUND, INC.
 known-gaps:
-  - "No lobbying disclosure data"
-  - "No mapped relationships"
+  - No lobbying disclosure data
+  - No mapped relationships
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -21,8 +21,8 @@ total-spent: 13229819
 independent-expenditures: 1047774
 individual-contributions: 177867
 contributions-to-committees: 10000000
-politicians-funded: "[[Eric Schmitt]], [[Monica de la Cruz]], [[John James]], [[Raphael Warnock]], [[Young Kim]], [[Ron Johnson]], [[Katie Britt]], [[Tim Scott]], [[Mariannette Miller-Meeks]]"
-last-enriched: 2026-04-21
+politicians-funded: "[[Eric Schmitt]], [[Monica de la Cruz]], [[John James]], [[Raphael Warnock]], [[Young Kim]], [[Ron Johnson]], [[Katie Britt]], [[Tim Scott]], [[Mariannette Miller-Meeks]], [[LVH CONSULTING, LLC]], [[National Republican Senatorial Committee]], [[Majority Forward]], [[FLEXPOINT MEDIA INC]], [[DREA BYARS]], [[RESOLVE CAMPAIGNS LLC]], [[MOUNTAINTOP ADVISORS, LLC]], [[American Homes 4 Rent]], [[TAG LLC]], [[THREE ARBOR INSURANCE]], [[RED RIVER CO., LLC]], [[BUXTON BOOKS]], [[DICKINSON WRIGHT PLLC]], [[BOOKS & GREETINGS]], [[BULLDOG COMPLIANCE]], [[Opportunity Matters Fund]], [[WILEY REIN LLP]], [[THREE ARBOR INSURANCE, INC.]], [[MAVERICKS, INC.]], [[DELVE LLC]], [[FIDI MEDIA LLC]], [[ADVANCED AVIATION TEAM]], [[HIGHWOOD CAPITAL, LLC]], [[SOCKO STRATEGIES, LLC]], [[Ashley Hinson]], [[Tony Gonzales]], [[Jennifer A. Kiggans]], [[Susan Collins]], [[JD Vance]], [[John Cornyn]], [[Thom Tillis]], [[Steve Daines]], [[Ted Budd]], [[Wesley Hunt]], [[Joni Ernst]], [[Lindsey Graham]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 source-types:
   - FEC
 ---

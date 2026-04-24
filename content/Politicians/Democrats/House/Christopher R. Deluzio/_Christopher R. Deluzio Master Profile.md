@@ -1,39 +1,40 @@
 ---
-title: "Christopher R. Deluzio"
+title: Christopher R. Deluzio
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Pennsylvania"
-state-abbr: "PA"
+party: Democrat
+chamber: House
+state: Pennsylvania
+state-abbr: PA
 district: "17"
-bioguide-id: "D000530"
+bioguide-id: D000530
 govtrack-id: 456936
 born: "1984-07-13"
-wikidata-id: "Q115181700"
-website: "https://deluzio.house.gov"
-phone: "202-225-2301"
+wikidata-id: Q115181700
+website: https://deluzio.house.gov
+phone: 202-225-2301
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 23
 bills-cosponsored: 502
 bills-enacted: 2
-top-policy-area: "Armed Forces and National Security"
-last-enriched: 2026-04-21
+top-policy-area: Armed Forces and National Security
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Aviation
   - House Committee on Armed Services
   - House Committee on Transportation and Infrastructure
-  - "Railroads, Pipelines, and Hazardous Materials"
+  - Railroads, Pipelines, and Hazardous Materials
   - Readiness
   - Seapower and Projection Forces
+top-donors: "[[Bobby Scott]], [[Marc A. Veasey]], [[Let America Vote PAC]], [[PETE AGUILAR FOR CONGRESS]], [[League of Conservation Voters]], [[AIPAC - American Israel Public Affairs Committee]], [[BARRAGAN FOR CONGRESS]], [[ROBERT GARCIA FOR CONGRESS]], [[DOGGETT FOR U S CONGRESS COMMITTEE]], [[Gerry Connolly]], [[Robert Menendez]], [[JOE NEGUSE FOR CONGRESS]], [[PAUL TONKO FOR CONGRESS]], [[SHERMAN FOR CONGRESS]], [[GOLDEN STATE DEMOCRACY PAC]], [[MEDICARE FOR ALL]], [[Giffords PAC]], [[Donald S. Beyer]], [[HIMES FOR CONGRESS]], [[Troy A. Carter]], [[Richard Neal]], [[JASON CROW FOR CONGRESS]], [[JULIA BROWNLEY FOR CONGRESS]], [[MAD 4 PA PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[KATHERINE CLARK FOR CONGRESS]], [[Ami Bera]], [[Raul Grijalva]], [[J Street]], [[Lizzie Fletcher]], [[Hakeem Jeffries]], [[JAMIE RASKIN FOR CONGRESS]], [[Steny H. Hoyer]], [[DWIGHT EVANS FOR CONGRESS]], [[Janice D. Schakowsky]], [[MORGAN MCGARVEY FOR CONGRESS]], [[National Education Association]], [[Glenn Ivey]], [[JAKE AUCHINCLOSS FOR CONGRESS]], [[CITIZENS TO ELECT RICK LARSEN]], [[SHARICE FOR CONGRESS]], [[VERONICA ESCOBAR FOR CONGRESS]], [[DIANA DEGETTE FOR CONGRESS]], [[Planned Parenthood Action Fund INC]], [[TED LIEU FOR CONGRESS]], [[Dina Titus]], [[Bradley Scott Schneider]], [[Jill N. Tokuda]], [[NANCY PELOSI FOR CONGRESS]], [[MCCLELLAN FOR CONGRESS]], [[Maxwell Frost]], [[Sierra Club Political Committee]], [[GARAMENDI FOR CONGRESS]], [[James E. Clyburn]], [[Robert Garcia]], [[Kim Schrier]], [[Food and Water Action]], [[Mary Gay Scanlon]], [[Akin Gump Strauss Hauer & Feld]], [[KEVIN MULLIN FOR CONGRESS]], [[HALEY STEVENS FOR CONGRESS]], [[GRACE FOR NEW YORK]], [[Juan Vargas]], [[AFL-CIO]], [[CASTEN FOR CONGRESS]], [[Adam Schiff]], [[MARK TAKANO FOR CONGRESS]], [[Steve Cohen]], [[JUDY CHU FOR CONGRESS]]"
 ---
 
 

@@ -1,32 +1,32 @@
 ---
-title: "Stacey E. Plaskett"
+title: Stacey E. Plaskett
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "U.S. Virgin Islands"
-state-abbr: "VI"
+party: Democrat
+chamber: House
+state: U.S. Virgin Islands
+state-abbr: VI
 district: "0"
-bioguide-id: "P000610"
+bioguide-id: P000610
 govtrack-id: 412659
 born: "1966-05-13"
-wikidata-id: "Q18739104"
-website: "https://plaskett.house.gov"
-phone: "202-225-1790"
+wikidata-id: Q18739104
+website: https://plaskett.house.gov
+phone: 202-225-1790
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 30
 bills-cosponsored: 197
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Defense Intelligence and Overhead Architecture
   - House Committee on Ways and Means
@@ -35,6 +35,7 @@ committees:
   - National Intelligence Enterprise
   - Social Security
   - Tax
+top-donors: "[[Pfizer Inc.]], [[Amgen Inc]], [[Google - Alphabet]], [[Tyson Foods]], [[AbbVie]], [[National Cattlemen's Beef Association]], [[Richard Neal]], [[National Committee to Preserve Social Security & Medicare PAC]], [[CITIZENS TO ELECT RICK LARSEN]], [[Bradley Scott Schneider]], [[Bacardi - Bacardi USA]], [[PETE AGUILAR FOR CONGRESS]], [[Gilead Sciences]], [[Donald S. Beyer]], [[Hakeem Jeffries]], [[Frank Pallone]]"
 ---
 
 

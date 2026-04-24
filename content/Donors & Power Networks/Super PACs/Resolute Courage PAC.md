@@ -11,8 +11,8 @@ fec-committee-id: C00866640
 aliases:
   - RESOLUTE COURAGE PAC
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Zoe Lofgren]], [[Emily Randall]], [[Marcy Kaptur]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Zoe Lofgren]], [[Emily Randall]], [[Marcy Kaptur]], [[ROLLA GROUP LLC]]"
 related: "[[Zoe Lofgren]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -24,7 +24,7 @@ cash-on-hand: 621
 contributions-to-committees: 14000
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

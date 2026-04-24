@@ -11,8 +11,8 @@ fec-committee-id: C00607374
 aliases:
   - ELBERT GUILLORY'S AMERICA
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Maxine Waters]], [[John James]], [[Monica de la Cruz]], [[Steve Scalise]], [[Raphael Warnock]], [[Tim Scott]], [[Byron Donalds]], [[Burgess Owens]], [[Clay Higgins]], [[Wesley Hunt]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Maxine Waters]], [[John James]], [[Monica de la Cruz]], [[Steve Scalise]], [[Raphael Warnock]], [[Tim Scott]], [[Byron Donalds]], [[Burgess Owens]], [[Clay Higgins]], [[Wesley Hunt]], [[ACTION MAILERS PA]], [[FRUGE, JASON JR.]], [[ZIP MAILING SERVICE]], [[CP DIRECT]], [[COLORTREE GROUP, INC.]], [[EXCEL MAILING SERVICES]], [[PROFESSIONAL PRINTERS, INC.]], [[EDONATION.COM]], [[LONGSHOT MOTION PICTURES]], [[Campaign for Community Change]], [[BB&T CREDIT CARD]], [[TIDEWATER STRATEGIES]], [[MDI IMAGING AND MAIL]], [[Washington Citizens for Colin Powell]], [[REED, BRITTNEY]], [[LAMAR COMPANIES]], [[SISK FULFILLMENT SERVICES]], [[ARENT FOX LLP]], [[WESTLAND PRINTERS]], [[ECG DATA CENTER]], [[D & D UNLIMITED, INC.]], [[American Homes 4 Rent]], [[MDI IMAGING & MAIL]], [[MONTERO, CARLOS]], [[NOLAN, TIFFANY]], [[CHOCKLETT PRESS INC]], [[ADVANCED RESPONSE SYSTEMS]], [[OSBORNE COINAGE]], [[SAVANNA COMMUNICATIONS]], [[REACH RIGHT]], [[ACTION MAILERS]], [[RST MARKETING]], [[HUCKABY DAVIS LISKER]], [[GUILLORY, ELBERT]], [[POSTMASTER]], [[DIRECTMAIL.COM]], [[ZIP MAILING SERVICES, INC.]], [[OMEGA LIST COMPANY]], [[Atlantic Council]], [[AMH PRINT GROUP]], [[RM STRATEGIES LLC]], [[MCCOMMONS CONSULTING LLC]], [[VALTIM]], [[FACEBOOK]], [[Michael Bloomberg]], [[Bill Cassidy]], [[Donald Trump]], [[Julia Letlow]], [[Ted Cruz]]"
 related: "[[Maxine Waters]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -25,7 +25,7 @@ individual-contributions: 454087
 contributions-to-committees: 2000
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

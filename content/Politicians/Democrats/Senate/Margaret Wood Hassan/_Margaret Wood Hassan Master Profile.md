@@ -1,44 +1,45 @@
 ---
-title: "Margaret Wood Hassan"
+title: Margaret Wood Hassan
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "Senate"
-state: "New Hampshire"
-state-abbr: "NH"
-bioguide-id: "H001076"
+party: Democrat
+chamber: Senate
+state: New Hampshire
+state-abbr: NH
+bioguide-id: H001076
 govtrack-id: 412680
 born: "1958-02-27"
-wikidata-id: "Q24053"
-website: "https://www.hassan.senate.gov"
-phone: "202-224-3324"
+wikidata-id: Q24053
+website: https://www.hassan.senate.gov
+phone: 202-224-3324
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 59
 bills-cosponsored: 349
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Border Management, Federal Workforce, and Regulatory Affairs"
+  - Border Management, Federal Workforce, and Regulatory Affairs
   - Employment and Workplace Safety
-  - "Energy, Natural Resources, and Infrastructure"
+  - Energy, Natural Resources, and Infrastructure
   - Health Care
   - Joint Economic Committee
   - Permanent Subcommittee on Investigations
   - Primary Health and Retirement Security
   - Senate Committee on Finance
-  - "Senate Committee on Health, Education, Labor, and Pensions"
+  - Senate Committee on Health, Education, Labor, and Pensions
   - Senate Committee on Homeland Security and Governmental Affairs
-  - "Senate Committee on Veterans' Affairs"
+  - Senate Committee on Veterans' Affairs
   - Taxation and IRS Oversight
+top-donors: "[[ALEX PADILLA FOR SENATE]], [[Tammy Duckworth]], [[National Committee to Preserve Social Security & Medicare PAC]], [[J Street]], [[Democratic Senatorial Campaign Committee]], [[JAMIE RASKIN FOR CONGRESS]], [[America Votes]], [[Giffords PAC]], [[Akin Gump Strauss Hauer & Feld]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Gilead Sciences]], [[Pete Buttigieg]], [[Environment America INC]], [[WARNOCK FOR GEORGIA]], [[McDonalds Corporation]], [[Google - Alphabet]], [[KAMALA HARRIS FOR SENATE]], [[WARREN FOR SENATE, INC.]], [[AIPAC - American Israel Public Affairs Committee]], [[WinSenate]], [[AFL-CIO]], [[Amgen Inc]], [[Let America Vote PAC]], [[Planned Parenthood Action Fund INC]], [[American College of Radiology Association PAC]], [[League of Conservation Voters]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[CATHERINE CORTEZ MASTO FOR SENATE]], [[FRIENDS OF MARIA]], [[Sierra Club Political Committee]], [[Eric Swalwell]], [[Leidos]], [[Humana]], [[National Education Association]], [[Pfizer Inc.]], [[Steny H. Hoyer]], [[Airbnb]], [[National Association of Manufacturers]], [[AbbVie]], [[Michael Bennet]], [[MARK KELLY FOR SENATE]], [[Protect the Vote]], [[John Fetterman]], [[NANCY PELOSI FOR CONGRESS]], [[Blue Shield of California]], [[Human Rights Campaign Equality Votes]], [[National Restaurant Association]]"
 ---
 
 

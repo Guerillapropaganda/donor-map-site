@@ -1,44 +1,45 @@
 ---
-title: "Jesus G. Chuy Garcia"
+title: Jesus G. Chuy Garcia
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Illinois"
-state-abbr: "IL"
+party: Democrat
+chamber: House
+state: Illinois
+state-abbr: IL
 district: "4"
-bioguide-id: "G000586"
+bioguide-id: G000586
 govtrack-id: 412774
 born: "1956-04-12"
-wikidata-id: "Q18631698"
-website: "https://chuygarcia.house.gov"
-phone: "202-225-8203"
+wikidata-id: Q18631698
+website: https://chuygarcia.house.gov
+phone: 202-225-8203
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 ofac-sdn-match: "true"
 last-enriched: "2026-04-12"
 ofac-programs:
-  - "ILLICIT-DRUGS-EO14059"
+  - ILLICIT-DRUGS-EO14059
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 11
 bills-cosponsored: 618
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
 committees:
   - Aviation
   - Highways and Transit
   - House Committee on Transportation and Infrastructure
   - House Committee on the Judiciary
-  - "Immigration Integrity, Security, and Enforcement"
-  - "Railroads, Pipelines, and Hazardous Materials"
-  - "The Administrative State, Regulatory Reform, and Antitrust"
+  - Immigration Integrity, Security, and Enforcement
+  - Railroads, Pipelines, and Hazardous Materials
+  - The Administrative State, Regulatory Reform, and Antitrust
+top-donors: "[[National Nurses United]], [[National Education Association]], [[PETE AGUILAR FOR CONGRESS]], [[League of Conservation Voters]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[MEDICARE FOR ALL]], [[Tyson Foods]], [[National Restaurant Association]], [[Henry Cuellar]], [[Sierra Club Political Committee]], [[Bradley Scott Schneider]], [[Hakeem Jeffries]], [[TED LIEU FOR CONGRESS]], [[J Street]], [[JAMIE RASKIN FOR CONGRESS]], [[CASTRO FOR CONGRESS]], [[AbbVie]], [[Let America Vote PAC]], [[Protect Our Future PAC]], [[KATHERINE CLARK FOR CONGRESS]], [[MARK TAKANO FOR CONGRESS]], [[BARBARA LEE FOR CONGRESS]], [[Sylvia R. Garcia]], [[Demand Justice]]"
 ---
 
 

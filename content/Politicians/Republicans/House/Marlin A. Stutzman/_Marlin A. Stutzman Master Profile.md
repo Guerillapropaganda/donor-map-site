@@ -1,35 +1,36 @@
 ---
-title: "Marlin A. Stutzman"
+title: Marlin A. Stutzman
 type: politician
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Indiana"
-state-abbr: "IN"
+party: Republican
+chamber: House
+state: Indiana
+state-abbr: IN
 district: "3"
-bioguide-id: "S001188"
+bioguide-id: S001188
 govtrack-id: 412392
 born: "1976-08-31"
-wikidata-id: "Q1902106"
-website: "https://stutzman.house.gov"
-phone: "202-225-4436"
+wikidata-id: Q1902106
+website: https://stutzman.house.gov
+phone: 202-225-4436
 source-types:
   - Congress
   - GovTrack
 known-gaps:
-  - "No FEC contribution data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Capital Markets
-  - "Digital Assets, Financial Technology, and Artificial Intelligence"
+  - Digital Assets, Financial Technology, and Artificial Intelligence
   - House Committee on Financial Services
   - House Committee on the Budget
 bills-sponsored: 38
 corroboration-count: 2
+top-donors: "[[Humana]], [[Jim Banks]], [[American Principles Fund]], [[Koch Industries]], [[Monsanto - Bayer]], [[American College of Radiology Association PAC]], [[Richard Hudson]], [[Pfizer Inc.]], [[National Cattlemen's Beef Association]], [[NRA Political Victory Fund]], [[JIM JORDAN FOR CONGRESS]], [[Club for Growth INC PAC]], [[Nucor Corporation]], [[ADM - Archer Daniels Midland]], [[Family Research Council Action Political Action Committee]], [[ADRIAN SMITH FOR CONGRESS]], [[THOMAS MASSIE FOR CONGRESS]], [[Pete Sessions]], [[National Restaurant Association]], [[American Iron and Steel Institute]], [[GARY PALMER FOR CONGRESS]], [[ANDY HARRIS FOR CONGRESS]], [[Cynthia M. Lummis]], [[National Right to Life PAC]], [[Akin Gump Strauss Hauer & Feld]], [[Gun Owners of America]], [[Protect Freedom Political Action Committee]]"
 ---
 
 

@@ -7,14 +7,14 @@ source-tier: 1
 party: Democrat
 chamber: Secretary of the Interior
 known-gaps:
-  - "No voting record data"
-  - "No mapped relationships"
+  - No voting record data
+  - No mapped relationships
 source-types:
   - Congress
   - FEC
 urls-first-triaged: "2026-04-15"
-top-donors: "[[America Votes]], [[Amazon]], [[Oracle]], [[Boeing]], [[Bank of America]], [[Apple]], [[ActBlue]], [[DNC - Democratic National Committee]], [[Honeywell International]], [[Walmart]], [[Center for American Progress]], [[Verizon]], [[Northrop Grumman]], [[Meta - Facebook]]"
-last-enriched: 2026-04-21
+top-donors: "[[America Votes]], [[Amazon]], [[Oracle]], [[Boeing]], [[Bank of America]], [[Apple]], [[ActBlue]], [[DNC - Democratic National Committee]], [[Honeywell International]], [[Walmart]], [[Center for American Progress]], [[Verizon]], [[Northrop Grumman]], [[Meta - Facebook]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[BONNIE WATSON COLEMAN FOR CONGRESS]], [[Planned Parenthood Action Fund INC]], [[Giffords PAC]], [[Let America Vote PAC]], [[KATHERINE CLARK FOR CONGRESS]], [[BARBARA LEE FOR CONGRESS]], [[NANCY PELOSI FOR CONGRESS]], [[JUDY CHU FOR CONGRESS]], [[J Street]], [[DOGGETT FOR U S CONGRESS COMMITTEE]], [[PETE AGUILAR FOR CONGRESS]], [[MCCOLLUM FOR CONGRESS]], [[NORMA TORRES FOR CONGRESS]], [[Hakeem Jeffries]], [[BILL FOSTER FOR CONGRESS]], [[WARREN FOR SENATE, INC.]], [[League of Conservation Voters]], [[Steny H. Hoyer]], [[Indivisible Action]], [[James E. Clyburn]], [[National Education Association]], [[Environment America INC]], [[CHUY GARCIA FOR CONGRESS]], [[LOFGREN FOR CONGRESS]], [[National Committee to Preserve Social Security & Medicare PAC]], [[CITIZENS FOR WATERS]], [[Sierra Club Political Committee]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 corroboration-count: 2
 ---
 

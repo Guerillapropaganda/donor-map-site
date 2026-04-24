@@ -19,16 +19,16 @@ source-types:
   - Congress
   - GovTrack
 known-gaps:
-  - "No FEC contribution data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-top-donors: "[[US CHAMBER OF COMMERCE]], [[Lockheed Martin]], [[Fidelity Investments]], [[CTA - California Teachers Association]], [[Google - Alphabet]], [[US Chamber of Commerce]]"
-last-enriched: 2026-04-21
+top-donors: "[[US CHAMBER OF COMMERCE]], [[Lockheed Martin]], [[Fidelity Investments]], [[CTA - California Teachers Association]], [[Google - Alphabet]], [[US Chamber of Commerce]], [[NEA Advocacy Fund]], [[Hakeem Jeffries]], [[SHARICE FOR CONGRESS]], [[Sarah Elfreth]], [[SETH FOR MASSACHUSETTS, INC]], [[Akin Gump Strauss Hauer & Feld]], [[League of Conservation Voters]], [[PAUL TONKO FOR CONGRESS]], [[JUDY CHU FOR CONGRESS]], [[National Education Association]], [[ROBERT GARCIA FOR CONGRESS]], [[Planned Parenthood Action Fund INC]], [[Donald S. Beyer]], [[Bradley Scott Schneider]], [[DoorDash]], [[Johnny Olszewski]], [[LANDSMAN FOR CONGRESS]], [[NANCY PELOSI FOR CONGRESS]], [[AIPAC - American Israel Public Affairs Committee]], [[Gilead Sciences]], [[Lizzie Fletcher]], [[PETE AGUILAR FOR CONGRESS]], [[John B. Larson]], [[NIKKI FOR CONGRESS]], [[Sierra Club Political Committee]], [[GRACE FOR NEW YORK]], [[Kim Schrier]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Commodity Markets, Digital Assets, and Rural Development"
-  - "Conservation, Research, and Biotechnology"
+  - Commodity Markets, Digital Assets, and Rural Development
+  - Conservation, Research, and Biotechnology
   - House Committee on Agriculture
-  - "House Committee on Science, Space, and Technology"
+  - House Committee on Science, Space, and Technology
   - Research and Technology
 bills-sponsored: 25
 corroboration-count: 2

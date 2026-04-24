@@ -1,37 +1,38 @@
 ---
-title: "Steny H. Hoyer"
+title: Steny H. Hoyer
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Maryland"
-state-abbr: "MD"
+party: Democrat
+chamber: House
+state: Maryland
+state-abbr: MD
 district: "5"
-bioguide-id: "H000874"
+bioguide-id: H000874
 govtrack-id: 400189
 born: "1939-06-14"
-wikidata-id: "Q516515"
-website: "https://hoyer.house.gov"
-phone: "202-225-4131"
+wikidata-id: Q516515
+website: https://hoyer.house.gov
+phone: 202-225-4131
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 2
 bills-cosponsored: 95
 bills-enacted: 0
-top-policy-area: "Civil Rights and Liberties, Minority Issues"
-last-enriched: 2026-04-21
+top-policy-area: Civil Rights and Liberties, Minority Issues
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Financial Services and General Government
   - House Committee on Appropriations
-  - "Labor, Health and Human Services, Education, and Related Agencies"
+  - Labor, Health and Human Services, Education, and Related Agencies
   - Legislative Branch
+top-donors: "[[Bechtel Corporation]], [[AbbVie]], [[Amgen Inc]], [[Google - Alphabet]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Humana]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AT&T]], [[Sierra Club Political Committee]], [[Akin Gump Strauss Hauer & Feld]], [[MBNA Corporation]], [[Southern Company]], [[Associated General Contractors of America Political Action Committee]], [[Leidos]], [[CVS Health - Aetna]], [[American College of Radiology Association PAC]], [[American Iron and Steel Institute]], [[National Education Association]], [[ADM - Archer Daniels Midland]], [[Pfizer Inc.]], [[Occidental Petroleum]], [[Sinclair Broadcast Group]], [[Let America Vote PAC]], [[National Restaurant Association]], [[Tyson Foods]], [[Giffords PAC]], [[Planned Parenthood Action Fund INC]], [[League of Conservation Voters]], [[American Gaming Association]], [[Monsanto - Bayer]], [[Meta - Facebook]], [[McDonalds Corporation]], [[Bacardi - Bacardi USA]], [[AFL-CIO]], [[Blue Shield of California]], [[Palantir Technologies]], [[NEA Advocacy Fund]], [[Citigroup]], [[Cargill]], [[National Association of Manufacturers]], [[Goldman Sachs]], [[Gilead Sciences]], [[Williams Companies]], [[AIPAC - American Israel Public Affairs Committee]], [[Koch Industries]]"
 ---
 
 

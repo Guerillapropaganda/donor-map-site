@@ -1,25 +1,26 @@
 ---
-title: "Ken Salazar"
+title: Ken Salazar
 type: politician
 bioguide-id: S001163
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "Secretary of the Interior (2009-2013)"
+party: Democrat
+chamber: Secretary of the Interior (2009-2013)
 known-gaps:
-  - "No voting record data"
-  - "No mapped relationships"
+  - No voting record data
+  - No mapped relationships
 source-types:
   - Congress
   - FEC
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "S4CO00163"
-last-enriched: 2026-04-21
-total-raised: "$13.5M"
-career-total-source: "FEC weball summary (cycles 2004, 2006, 2008, 2010, 2012, 2014, 2016)"
+fec-candidate-id: S4CO00163
+last-enriched: 2026-04-21T00:00:00.000Z
+total-raised: $13.5M
+career-total-source: FEC weball summary (cycles 2004, 2006, 2008, 2010, 2012, 2014, 2016)
 bills-sponsored: 99
 corroboration-count: 2
+top-donors: "[[Juan Vargas]], [[MARIA ELVIRA SALAZAR FOR CONGRESS]], [[Californians for Innovation]], [[Democratic Senatorial Campaign Committee]], [[AT&T]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[Southern Company]], [[Humana]], [[League of Conservation Voters]], [[Akin Gump Strauss Hauer & Feld]], [[CVS Health - Aetna]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Education Association]], [[Amgen Inc]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Sierra Club Political Committee]], [[American College of Radiology Association PAC]], [[AFL-CIO]], [[Anthem - Elevance Health Political Operation]], [[Pfizer Inc.]], [[National Cattlemen's Beef Association]], [[ADM - Archer Daniels Midland]], [[Barack Obama]], [[Xavier Becerra]], [[McDonalds Corporation]], [[COMMITTEE ON POLITICAL ACTIVITY]]"
 ---
 
 

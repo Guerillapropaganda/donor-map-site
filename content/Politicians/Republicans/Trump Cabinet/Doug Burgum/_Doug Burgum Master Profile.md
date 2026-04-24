@@ -17,13 +17,13 @@ source-types:
   - Congress
   - FEC
 known-gaps:
-  - "No voting record data"
+  - No voting record data
 related: "[[_Donald Trump Master Profile]] · [[_Chris Wright Master Profile]] · [[_Lee Zeldin Master Profile]] · [[Koch Network - Charles Koch|Koch Network]] · [[Priorities USA Action]]"
-donors: "[[Best of America PAC]] · [[Harold Hamm]] · [[Koch Network - Charles Koch]] · [[Ruralvote.org]] · [[WinRed]] · [[Trump Victory]] · [[General Motors]] · [[ConocoPhillips]] · [[ExxonMobil]] · [[RNC - Republican National Committee]] · [[Google - Alphabet]] · [[Novo Nordisk]] · [[National Restaurant Association]] · [[Oracle]] · [[Microsoft]] · [[UnitedHealth Group - Optum]] · [[CBRE Group]] · [[Wells Fargo]] · [[Meta - Facebook]] · [[NRCC - National Republican Congressional Committee]] · [[Raytheon (RTX Corporation)]]"
+donors: "[[Best of America PAC]] · [[Harold Hamm]] · [[Koch Network - Charles Koch]] · [[Ruralvote.org]] · [[WinRed]] · [[Trump Victory]] · [[General Motors]] · [[ConocoPhillips]] · [[ExxonMobil]] · [[RNC - Republican National Committee]] · [[Google - Alphabet]] · [[Novo Nordisk]] · [[National Restaurant Association]] · [[Oracle]] · [[Microsoft]] · [[UnitedHealth Group - Optum]] · [[CBRE Group]] · [[Wells Fargo]] · [[Meta - Facebook]] · [[NRCC - National Republican Congressional Committee]] · [[Raytheon (RTX Corporation)]] · [[Republican Governors Association]]"
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-20
-total-raised: "$18.0M"
-career-total-source: "FEC weball summary (cycles 2024)"
+last-enriched: 2026-04-20T00:00:00.000Z
+total-raised: $18.0M
+career-total-source: FEC weball summary (cycles 2024)
 corroboration-count: 2
 ---
 

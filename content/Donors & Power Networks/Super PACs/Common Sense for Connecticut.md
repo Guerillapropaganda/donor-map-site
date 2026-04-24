@@ -5,14 +5,14 @@ content-readiness: data-complete
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00820084
 aliases:
   - COMMON SENSE FOR CONNECTICUT
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Jim Himes]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Jim Himes]], [[PERTIERRA, ERICKA]], [[MCLAUGHLIN & ASSOCIATES INC]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -20,9 +20,9 @@ urls-first-triaged: "2026-04-15"
 related: "[[Jim Himes]]"
 source-types:
   - FEC
-last-enriched: 2026-04-21
-total-political-spend: "$61K"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 2 store(s), cycles 2022"
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $61K
+spend-source: aggregated from canonical FEC/IRS edge stores across 2 store(s), cycles 2022
 ---
 
 

@@ -22,37 +22,37 @@ top-donors:
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
+  - No FEC contribution data
+  - No voting record data
 related: "[[_Donald Trump Master Profile|Trump]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Pete Hegseth Master Profile|Hegseth]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Brett Kavanaugh Master Profile|Kavanaugh]] · [[Leonard Leo]] · [[AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else]] · [[South Carolina 2026 Senate Race]] · [[Elliott Management]]"
-donors: "[[Patrick Soon-Shiong]] · [[Democracy Alliance]] · [[California Farm Bureau Federation]] · [[Boeing]] · [[CA Farm Bureau Federation]] · [[Lockheed Martin]] · [[Republican Jewish Coalition]] · [[AIPAC - American Israel Public Affairs Committee]] · [[AT&T - WarnerMedia]] · [[Microsoft]] · [[American Hospital Association PAC]] · [[General Dynamics]] · [[Palantir]] · [[Amgen Inc]] · [[Nucor Corporation]] · [[National Multifamily Housing Council]] · [[Citigroup]] · [[NORPAC]] · [[Associated General Contractors of America Political Action Committee]] · [[Devon Energy]] · [[Duke Energy]] · [[Planned Parenthood Votes]] · [[ConocoPhillips]] · [[WinRed]] · [[NextEra Energy]] · [[Johnson & Johnson]] · [[Northrop Grumman]] · [[Comcast - NBCUniversal]] · [[Chevron]] · [[National Association of Realtors]] · [[Common Sense for America PAC]] · [[Tyson Foods]] · [[iHeartMedia]] · [[Morgan Stanley]] · [[NRSC - National Republican Senatorial Committee]] · [[BAE Systems]] · [[AT&T]] · [[Palantir Technologies]]"
+donors: "[[Patrick Soon-Shiong]] · [[Democracy Alliance]] · [[California Farm Bureau Federation]] · [[Boeing]] · [[CA Farm Bureau Federation]] · [[Lockheed Martin]] · [[Republican Jewish Coalition]] · [[AIPAC - American Israel Public Affairs Committee]] · [[AT&T - WarnerMedia]] · [[Microsoft]] · [[American Hospital Association PAC]] · [[General Dynamics]] · [[Palantir]] · [[Amgen Inc]] · [[Nucor Corporation]] · [[National Multifamily Housing Council]] · [[Citigroup]] · [[NORPAC]] · [[Associated General Contractors of America Political Action Committee]] · [[Devon Energy]] · [[Duke Energy]] · [[Planned Parenthood Votes]] · [[ConocoPhillips]] · [[WinRed]] · [[NextEra Energy]] · [[Johnson & Johnson]] · [[Northrop Grumman]] · [[Comcast - NBCUniversal]] · [[Chevron]] · [[National Association of Realtors]] · [[Common Sense for America PAC]] · [[Tyson Foods]] · [[iHeartMedia]] · [[Morgan Stanley]] · [[NRSC - National Republican Senatorial Committee]] · [[BAE Systems]] · [[AT&T]] · [[Palantir Technologies]] · [[National Republican Senatorial Committee]] · [[CVS Health - Aetna]] · [[American Gaming Association]] · [[National Restaurant Association]] · [[Southern States Police Benevolent Assoc PAC Fund]] · [[Bechtel Corporation]] · [[Southern Company]] · [[Akin Gump Strauss Hauer & Feld]] · [[McDonalds Corporation]] · [[NRA Political Victory Fund]] · [[American College of Radiology Association PAC]] · [[Pfizer Inc.]] · [[Koch Industries]] · [[Meta - Facebook]] · [[Cargill]] · [[Williams Companies]] · [[American Principles Fund]] · [[National Association of Manufacturers]] · [[Freedom's Defense Fund]] · [[CoreCivic]] · [[Senate Majority PAC]] · [[Campaign for Working Families]] · [[Daniel Meuser]] · [[Sinclair Broadcast Group]] · [[American Iron and Steel Institute]] · [[Occidental Petroleum]] · [[Family Research Council Action Political Action Committee]] · [[Google - Alphabet]] · [[Humana]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[National Cattlemen's Beef Association]] · [[GEO Group - Private Prison Industrial Complex]] · [[MBNA Corporation]] · [[Ray LaHood]] · [[AbbVie]] · [[Women Speak Out Pac]] · [[National Right to Life PAC]] · [[Mitch McConnell]] · [[RALPH NORMAN FOR CONGRESS]] · [[John Boehner]] · [[National Victory Action Fund]] · [[Clearpath Action Fund, Inc.]] · [[Cynthia M. Lummis]] · [[Jeff Sessions]] · [[Kevin McCarthy]] · [[Opportunity Matters Fund]] · [[National Education Association]] · [[DANIEL WEBSTER PAC]] · [[National Right to Life Victory Fund]] · [[FreedomWorks for America]] · [[Lindsey Graham 2016]] · [[Friends of Zachary Fields]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: S0SC00149
 bills-sponsored: 39
 bills-cosponsored: 269
 bills-enacted: 0
 top-policy-area: International Affairs
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Border Security and Immigration
-  - "Chemical Safety, Waste Management, Environmental Justice, and Regulatory Oversight"
-  - "Clean Air, Climate, and Nuclear Innovation and Safety"
-  - "Commerce, Justice, Science, and Related Agencies"
+  - Chemical Safety, Waste Management, Environmental Justice, and Regulatory Oversight
+  - Clean Air, Climate, and Nuclear Innovation and Safety
+  - Commerce, Justice, Science, and Related Agencies
   - Crime and Counterterrorism
   - Department of Defense
-  - "Departments of Labor, Health and Human Services, and Education, and Related Agencies"
+  - Departments of Labor, Health and Human Services, and Education, and Related Agencies
   - Energy and Water Development
-  - "Federal Courts, Oversight, Agency Action, and Federal Rights"
-  - "Privacy, Technology, and the Law"
+  - Federal Courts, Oversight, Agency Action, and Federal Rights
+  - Privacy, Technology, and the Law
   - Senate Committee on Appropriations
   - Senate Committee on Environment and Public Works
   - Senate Committee on the Budget
   - Senate Committee on the Judiciary
-  - "State, Foreign Operations, and Related Programs"
+  - State, Foreign Operations, and Related Programs
   - Transportation and Infrastructure
-  - "Transportation, Housing and Urban Development, and Related Agencies"
-total-raised: "$165.1M"
-career-total-source: "FEC weball summary (cycles 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+  - Transportation, Housing and Urban Development, and Related Agencies
+total-raised: $165.1M
+career-total-source: FEC weball summary (cycles 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

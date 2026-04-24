@@ -5,14 +5,14 @@ content-readiness: data-complete
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00302711
 aliases:
   - ALHAMBRA DEMOCRATIC CLUB
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Adam Schiff]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Adam Schiff]], [[Dianne Feinstein]], [[Barack Obama]], [[Judy Chu]]"
 related: "[[Adam Schiff]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -21,9 +21,9 @@ urls-first-triaged: "2026-04-15"
 total-spent: 2383
 source-types:
   - FEC
-last-enriched: 2026-04-21
-total-political-spend: "$7K"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2002, 2012"
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $7K
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2002, 2012
 ---
 
 

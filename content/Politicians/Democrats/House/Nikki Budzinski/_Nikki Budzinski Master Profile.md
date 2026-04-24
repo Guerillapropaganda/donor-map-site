@@ -18,26 +18,26 @@ phone: 202-225-2371
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2IL13153
 bills-sponsored: 15
 bills-cosponsored: 479
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[Sierra Club Political Committee]], [[CHC BOLD PAC]], [[NextEra Energy]], [[American Chemistry Council, INC]], [[ENVIRONMENT AMERICA INC]], [[J Street]], [[Teamsters - International Brotherhood of Teamsters]], [[Mark Takano]], [[Emily's List]], [[MoveOn.org Political Action]], [[DoorDash]], [[PG&E - Pacific Gas and Electric]], [[AT&T - WarnerMedia]], [[Debbie Dingell]], [[General Dynamics]], [[AFL-CIO]], [[National Wildlife Federation Action Fund]], [[National Association of Realtors]], [[Google - Alphabet]], [[DCCC - Democratic Congressional Campaign Committee]], [[Sara Jacobs]], [[League of Conservation Voters]], [[ADM - Archer Daniels Midland]], [[Planned Parenthood Action Fund INC]], [[Pete Aguilar]], [[Let America Vote PAC]], [[UA Political Action Committee]], [[Humane Society Legislative Fund]], [[Giffords PAC]], [[SEIU COPE]], [[DMFI - Democratic Majority for Israel]], [[IBEW - International Brotherhood of Electrical Workers]], [[Joe Neguse]], [[Demand Justice]], [[Fairshake PAC - Crypto Super PAC]], [[National Association of Manufacturers]], [[Sierra Club Independent Action]], [[American Hospital Association PAC]], [[Leidos]], [[CVS Health - Aetna]], [[Protect Progress]], [[Coinbase]], [[Paul Tonko]], [[Julia Brownley]], [[Robert Garcia]], [[AIPAC - American Israel Public Affairs Committee]], [[Duke Energy]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Nancy Pelosi]], [[Progressive Turnout Project]], [[Hmp]], [[McDonalds Corporation]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Center Forward Committee]], [[Comcast - NBCUniversal]], [[Jamie Raskin]], [[National Committee to Preserve Social Security PAC]], [[General Motors]], [[Protect Our Future PAC]], [[Everytown for Gun Safety]], [[Judy Chu]], [[National Education Association]], [[Ted Lieu]], [[HMP]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Environment America INC]], [[AT&T]], [[Fairshake PAC]]"
-last-enriched: 2026-04-21
+top-donors: "[[Sierra Club Political Committee]], [[CHC BOLD PAC]], [[NextEra Energy]], [[American Chemistry Council, INC]], [[ENVIRONMENT AMERICA INC]], [[J Street]], [[Teamsters - International Brotherhood of Teamsters]], [[Mark Takano]], [[Emily's List]], [[MoveOn.org Political Action]], [[DoorDash]], [[PG&E - Pacific Gas and Electric]], [[AT&T - WarnerMedia]], [[Debbie Dingell]], [[General Dynamics]], [[AFL-CIO]], [[National Wildlife Federation Action Fund]], [[National Association of Realtors]], [[Google - Alphabet]], [[DCCC - Democratic Congressional Campaign Committee]], [[Sara Jacobs]], [[League of Conservation Voters]], [[ADM - Archer Daniels Midland]], [[Planned Parenthood Action Fund INC]], [[Pete Aguilar]], [[Let America Vote PAC]], [[UA Political Action Committee]], [[Humane Society Legislative Fund]], [[Giffords PAC]], [[SEIU COPE]], [[DMFI - Democratic Majority for Israel]], [[IBEW - International Brotherhood of Electrical Workers]], [[Joe Neguse]], [[Demand Justice]], [[Fairshake PAC - Crypto Super PAC]], [[National Association of Manufacturers]], [[Sierra Club Independent Action]], [[American Hospital Association PAC]], [[Leidos]], [[CVS Health - Aetna]], [[Protect Progress]], [[Coinbase]], [[Paul Tonko]], [[Julia Brownley]], [[Robert Garcia]], [[AIPAC - American Israel Public Affairs Committee]], [[Duke Energy]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Nancy Pelosi]], [[Progressive Turnout Project]], [[Hmp]], [[McDonalds Corporation]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Center Forward Committee]], [[Comcast - NBCUniversal]], [[Jamie Raskin]], [[National Committee to Preserve Social Security PAC]], [[General Motors]], [[Protect Our Future PAC]], [[Everytown for Gun Safety]], [[Judy Chu]], [[National Education Association]], [[Ted Lieu]], [[HMP]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Environment America INC]], [[AT&T]], [[Fairshake PAC]], [[ROBERT GARCIA FOR CONGRESS]], [[DEBORAH ROSS FOR CONGRESS]], [[SARA JACOBS FOR CONGRESS]], [[Ami Bera]], [[JULIA BROWNLEY FOR CONGRESS]], [[Gerry Connolly]], [[PAUL TONKO FOR CONGRESS]], [[SHERMAN FOR CONGRESS]], [[SHARICE FOR CONGRESS]], [[SCOTT PETERS FOR CONGRESS]], [[CITIZENS TO ELECT RICK LARSEN]], [[MAD 4 PA PAC]], [[Bradley Scott Schneider]], [[JUDY CHU FOR CONGRESS]], [[PETE AGUILAR FOR CONGRESS]], [[Chellie Pingree]], [[Cargill]], [[Robin L. Kelly]], [[JOE NEGUSE FOR CONGRESS]], [[KATHERINE CLARK FOR CONGRESS]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Kim Schrier]], [[Hakeem Jeffries]], [[Donald S. Beyer]], [[CASTEN FOR CONGRESS]], [[CHUY GARCIA FOR CONGRESS]], [[Lizzie Fletcher]], [[James E. Clyburn]], [[Marc A. Veasey]], [[TED LIEU FOR CONGRESS]], [[GRACE FOR NEW YORK]], [[BELL FOR MISSOURI]], [[JAMIE RASKIN FOR CONGRESS]], [[STRICKLAND FOR WASHINGTON]], [[Yvette D. Clarke]], [[Steny H. Hoyer]], [[Maxwell Frost]], [[Southern Company]], [[Jill N. Tokuda]], [[MARK TAKANO FOR CONGRESS]], [[Adam Schiff]], [[Janice D. Schakowsky]], [[Glenn Ivey]], [[JASMINE FOR US]], [[NANCY PELOSI FOR CONGRESS]], [[Teresa Leger Fernandez]], [[HIMES FOR CONGRESS]], [[LORI TRAHAN FOR CONGRESS COMMITTEE]], [[Jim McGovern]], [[DEBBIE DINGELL FOR CONGRESS]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Commodity Markets, Digital Assets, and Rural Development"
-  - "Conservation, Research, and Biotechnology"
-  - "General Farm Commodities, Risk Management, and Credit"
+  - Commodity Markets, Digital Assets, and Rural Development
+  - Conservation, Research, and Biotechnology
+  - General Farm Commodities, Risk Management, and Credit
   - House Committee on Agriculture
-  - "House Committee on Veterans' Affairs"
+  - House Committee on Veterans' Affairs
   - Technology Modernization
-total-raised: "$10.7M"
-career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
+total-raised: $10.7M
+career-total-source: FEC weball summary (cycles 2022, 2024, 2026)
 ---
 
 

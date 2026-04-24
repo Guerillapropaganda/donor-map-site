@@ -18,26 +18,26 @@ phone: 202-225-8020
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-donors: "[[Raytheon (RTX Corporation)]], [[Votevets]], [[IBEW - International Brotherhood of Electrical Workers]], [[Morgan Stanley]], [[Blackstone Group]], [[Carlyle Group]], [[Goldman Sachs]], [[Citigroup]], [[Coinbase]], [[Fidelity Investments]], [[News Corp - Fox Corporation]], [[JPMorgan Chase]], [[CBRE Group]], [[UnitedHealth Group - Optum]], [[Google - Alphabet]], [[Boeing]], [[Amazon]]"
+  - No FEC contribution data
+  - No voting record data
+donors: "[[Raytheon (RTX Corporation)]], [[Votevets]], [[IBEW - International Brotherhood of Electrical Workers]], [[Morgan Stanley]], [[Blackstone Group]], [[Carlyle Group]], [[Goldman Sachs]], [[Citigroup]], [[Coinbase]], [[Fidelity Investments]], [[News Corp - Fox Corporation]], [[JPMorgan Chase]], [[CBRE Group]], [[UnitedHealth Group - Optum]], [[Google - Alphabet]], [[Boeing]], [[Amazon]], [[AIPAC - American Israel Public Affairs Committee]], [[NANCY PELOSI FOR CONGRESS]], [[Richard Neal]], [[Frank Pallone]], [[League of Conservation Voters]], [[GALLEGO FOR ARIZONA]], [[Leidos]], [[Edward J. Markey]], [[AbbVie]], [[Let America Vote PAC]], [[American College of Radiology Association PAC]], [[Hakeem Jeffries]], [[BARBARA LEE FOR CONGRESS]], [[Environment America INC]], [[James E. Clyburn]], [[Williams Companies]], [[J Street]], [[JOSH FOR JERSEY]], [[Giffords PAC]], [[HIMES FOR CONGRESS]], [[Pfizer Inc.]], [[Southern Company]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Steny H. Hoyer]], [[Bechtel Corporation]], [[AFL-CIO]], [[Sierra Club Political Committee]], [[LOFGREN FOR CONGRESS]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Raul Ruiz]], [[Eric Swalwell]], [[MCCOLLUM FOR CONGRESS]], [[Palantir Technologies]], [[Rosa DeLauro]], [[CITIZENS TO ELECT RICK LARSEN]], [[PAUL TONKO FOR CONGRESS]], [[Jim McGovern]], [[BILL FOSTER FOR CONGRESS]], [[Marcy Kaptur]], [[Donald S. Beyer]], [[National Education Association]], [[Planned Parenthood Action Fund INC]], [[STEPHEN LYNCH FOR CONGRESS]], [[With Honor Fund]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: S6MA00296
 bills-sponsored: 13
 bills-cosponsored: 553
 bills-enacted: 0
 top-policy-area: Health
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Cyber, Information Technologies, and Innovation"
+  - Cyber, Information Technologies, and Innovation
   - Highways and Transit
   - House Committee on Armed Services
   - House Committee on Transportation and Infrastructure
   - House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party
-  - "Railroads, Pipelines, and Hazardous Materials"
+  - Railroads, Pipelines, and Hazardous Materials
   - Strategic Forces
-total-raised: "$4.3M"
-career-total-source: "FEC weball summary (cycles 2026)"
+total-raised: $4.3M
+career-total-source: FEC weball summary (cycles 2026)
 ---
 
 

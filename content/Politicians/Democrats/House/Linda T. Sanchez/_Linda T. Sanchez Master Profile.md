@@ -1,32 +1,32 @@
 ---
-title: "Linda T. Sanchez"
+title: Linda T. Sanchez
 type: politician
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "California"
-state-abbr: "CA"
+party: Democrat
+chamber: House
+state: California
+state-abbr: CA
 district: "38"
-bioguide-id: "S001156"
+bioguide-id: S001156
 govtrack-id: 400355
 born: "1969-01-28"
-wikidata-id: "Q291143"
-website: "https://lindasanchez.house.gov"
-phone: "202-225-6676"
+wikidata-id: Q291143
+website: https://lindasanchez.house.gov
+phone: 202-225-6676
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-donors: "[[Business Roundtable]]"
+  - No FEC contribution data
+  - No voting record data
+donors: "[[Business Roundtable]], [[AFL-CIO]], [[Center Forward Committee]], [[Akin Gump Strauss Hauer & Feld]], [[NANCY PELOSI FOR CONGRESS]], [[Pfizer Inc.]], [[Blue Shield of California]], [[Planned Parenthood Action Fund INC]], [[Humana]], [[Sierra Club Political Committee]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[CVS Health - Aetna]], [[National Education Association]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Rosa DeLauro]], [[Amgen Inc]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[Gilead Sciences]], [[Google - Alphabet]], [[McDonalds Corporation]], [[MCCOLLUM FOR CONGRESS]], [[Let America Vote PAC]], [[Marcy Kaptur]], [[AbbVie]], [[American College of Radiology Association PAC]], [[Xavier Becerra]], [[Meta - Facebook]], [[DIANA DEGETTE FOR CONGRESS]], [[J Street]], [[Tyson Foods]], [[League of Conservation Voters]], [[Nucor Corporation]], [[Southern Company]], [[TED LIEU FOR CONGRESS]], [[AIPAC - American Israel Public Affairs Committee]], [[PETE AGUILAR FOR CONGRESS]], [[American Iron and Steel Institute]], [[Richard Neal]], [[MEDICARE FOR ALL]], [[National Nurses United]], [[LOFGREN FOR CONGRESS]], [[DOGGETT FOR U S CONGRESS COMMITTEE]], [[Giffords PAC]], [[Peter Welch]], [[Hilda Solis]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 21
 bills-cosponsored: 499
 bills-enacted: 0
-top-policy-area: "Taxation"
-last-enriched: 2026-04-21
+top-policy-area: Taxation
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Health
   - House Committee on Ways and Means

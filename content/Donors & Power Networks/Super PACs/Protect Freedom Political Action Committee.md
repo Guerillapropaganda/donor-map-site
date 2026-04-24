@@ -11,8 +11,8 @@ fec-committee-id: C00657866
 aliases:
   - PROTECT FREEDOM POLITICAL ACTION COMMITTEE
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Matt Gaetz]], [[Kay Granger]], [[Mike Lee]], [[Chip Roy]], [[Mike Carey]], [[Byron Donalds]], [[Mark Kelly]], [[Thomas Massie]], [[Kamala Harris]], [[Scott Perry]], [[Derrick van Orden]], [[Victoria Spartz]], [[Julie Fedorchak]], [[Ron Johnson]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Matt Gaetz]], [[Kay Granger]], [[Mike Lee]], [[Chip Roy]], [[Mike Carey]], [[Byron Donalds]], [[Mark Kelly]], [[Thomas Massie]], [[Kamala Harris]], [[Scott Perry]], [[Derrick van Orden]], [[Victoria Spartz]], [[Julie Fedorchak]], [[Ron Johnson]], [[ENGAGEMENT STRATEGIES, INC.]], [[Victory for Schaumburg]], [[National Republican Senatorial Committee]], [[RIGHTVOTER]], [[ASCENT STRATEGIC]], [[STRATEGIC MEDIA PLACEMENT]], [[CYGNALL, LLC]], [[ADVICTORY, LLC]], [[JFT CONSULTING]], [[CONVERSION CREATIVE]], [[MAVERIX MEDIA]], [[Conservative Partnership Institute]], [[RUNSWITCH, LLC]], [[STRATEGY GROUP]], [[STAFFORD CREATIVE]], [[SABER COMMUNICATIONS, INC]], [[RUN SWITCH, LLC]], [[BORKE, BRANDON]], [[FABRIZIO, LEE & ASSOCIATES, LLC]], [[MOBILIZE THE MESSAGE]], [[HARPER POLLING, LLC]], [[PROFESSIONAL DATA SERVICES]], [[ADVANCED AVIATION]], [[KUTAK ROCK LLP]], [[MELTWATER]], [[Harriet M. Hageman]], [[Elijah Crane]], [[Tom Barrett]], [[Lauren Boebert]], [[Thomas P. Tiffany]], [[Marlin A. Stutzman]], [[Kat Cammack]]"
 related: "[[Mike Lee]] · [[Kay Granger]] · [[Matt Gaetz]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -26,7 +26,7 @@ individual-contributions: 7685889
 contributions-to-committees: 1010000
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

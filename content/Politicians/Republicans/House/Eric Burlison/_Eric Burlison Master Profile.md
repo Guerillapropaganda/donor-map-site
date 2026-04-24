@@ -18,28 +18,28 @@ phone: 202-225-6536
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2MO07143
 bills-sponsored: 22
 bills-cosponsored: 263
 bills-enacted: 0
 top-policy-area: Crime and Law Enforcement
-top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[Jim Jordan]], [[MAJORITY PAC]], [[CVS Health - Aetna]], [[AT&T - WarnerMedia]], [[Associated General Contractors of America Political Action Committee]], [[Tyson Foods]], [[National Cattlemen's Beef Association]], [[National Association of Realtors]], [[Anthem - Elevance Health]], [[Lockheed Martin]], [[WinRed]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Rifle Association]], [[Honeywell]], [[General Dynamics]], [[David Rouzer]], [[American Hospital Association PAC]], [[Jason Smith]], [[Club for Growth INC PAC]], [[McDonalds Corporation]], [[Chevron]], [[National Restaurant Association]], [[Club for Growth]], [[JPAC - Jewish Public Affairs Committee of California]], [[Comcast - NBCUniversal]], [[SpaceX]], [[US CHAMBER OF COMMERCE]], [[Alliance Defending Freedom]], [[Cigna Group]], [[Koch Network - Charles Koch]], [[Majority PAC]], [[Honeywell International]], [[AT&T]], [[US Chamber of Commerce]]"
-last-enriched: 2026-04-21
+top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[Jim Jordan]], [[MAJORITY PAC]], [[CVS Health - Aetna]], [[AT&T - WarnerMedia]], [[Associated General Contractors of America Political Action Committee]], [[Tyson Foods]], [[National Cattlemen's Beef Association]], [[National Association of Realtors]], [[Anthem - Elevance Health]], [[Lockheed Martin]], [[WinRed]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Rifle Association]], [[Honeywell]], [[General Dynamics]], [[David Rouzer]], [[American Hospital Association PAC]], [[Jason Smith]], [[Club for Growth INC PAC]], [[McDonalds Corporation]], [[Chevron]], [[National Restaurant Association]], [[Club for Growth]], [[JPAC - Jewish Public Affairs Committee of California]], [[Comcast - NBCUniversal]], [[SpaceX]], [[US CHAMBER OF COMMERCE]], [[Alliance Defending Freedom]], [[Cigna Group]], [[Koch Network - Charles Koch]], [[Majority PAC]], [[Honeywell International]], [[AT&T]], [[US Chamber of Commerce]], [[DAVID ROUZER FOR CONGRESS]], [[Richard Hudson]], [[JASON SMITH FOR CONGRESS]], [[HAGEMAN FOR WYOMING]], [[Koch Industries]], [[Steve Scalise]], [[Meta - Facebook]], [[NRA Political Victory Fund]], [[Guy Reschenthaler]], [[JIM JORDAN FOR CONGRESS]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Cybersecurity, Information Technology, and Government Innovation"
+  - Cybersecurity, Information Technology, and Government Innovation
   - Delivering on Government Efficiency
-  - "Economic Growth, Energy Policy, and Regulatory Affairs"
+  - Economic Growth, Energy Policy, and Regulatory Affairs
   - Highways and Transit
   - House Committee on Oversight and Government Reform
   - House Committee on Transportation and Infrastructure
-  - "Railroads, Pipelines, and Hazardous Materials"
+  - Railroads, Pipelines, and Hazardous Materials
   - Water Resources and Environment
-total-raised: "$3.1M"
-career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
+total-raised: $3.1M
+career-total-source: FEC weball summary (cycles 2022, 2024, 2026)
 ---
 
 

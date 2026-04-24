@@ -10,9 +10,9 @@ source-tier: 1
 aliases:
   - SPECIAL OPERATIONS FOR AMERICA
 known-gaps:
-  - "No lobbying disclosure data"
+  - No lobbying disclosure data
 related: "[[Michael Waltz]] · [[Brian Mast]]"
-politicians-funded: "[[Michael Waltz]], [[Brian Mast]], [[Morgan Luttrell]], [[John James]], [[Derrick van Orden]], [[Jimmy Patronis]], [[Pat Harrigan]], [[Ken Calvert]], [[Randy Fine]], [[Richard McCormick]]"
+politicians-funded: "[[Michael Waltz]], [[Brian Mast]], [[Morgan Luttrell]], [[John James]], [[Derrick van Orden]], [[Jimmy Patronis]], [[Pat Harrigan]], [[Ken Calvert]], [[Randy Fine]], [[Richard McCormick]], [[RED CURVE SOLUTIONS]], [[GRASS ROOTS CONSULTING]], [[D & D UNLIMITED INC.]], [[AINSLEY SHEA COMMUNICATIONS]], [[FORTHRIGHT STRATEGY, INC]], [[PLANET DIRECT, INC]], [[Direct Selling Empowers Americans]], [[BULLDOG COMPLIANCE]], [[CENTURY DATA SYSTEMS CORP]], [[BATTLE PLAN STRATEGIES]], [[VALTIM MARKETING SOLUTIONS]], [[CENTURY DATA MAILING SERVICE]], [[AINSLEY SHEA COMMUNICATION, LLC]], [[DRAGONFLY CONSULTING]], [[LEGACY LISTS, INC.]], [[BASE CONNECT, INC.]], [[AMH PRINTING GROUP LLC]], [[FORTHRIGHT STRATEGY, INC.]], [[INDIANRUNNER INC.]], [[LEGACY LISTS, INC. - BROKERAGE]], [[BATTLEPLAN STRATEGIES]], [[CPAC FOUNDATION-AMERICA CONSERVATIVE UNION FOUNDATION]], [[LIUOS THINKING]], [[Capitol Counsel]], [[FORTHRIGHT STRATEGY]], [[BATTLE PLAN STRAGEGIES]], [[D & D UNLIMITED INC]], [[IMAGE DIRECT]], [[KMAC & ASSOCIATES]], [[CONSOLIDATED MAILING SERVICES]], [[LIUOS THINKING, INC.]], [[FEHRNSTROM, ERIC]], [[FAS LANE RACING]], [[GRAYSTONE PUBLIC AFFAIRS]], [[INTEGRAM]], [[Jennifer A. Kiggans]], [[Lee Zeldin]], [[Dan Crenshaw]], [[Wesley Hunt]], [[Don Bacon]], [[Ryan Zinke]], [[Matt van Epps]], [[Gabe Evans]], [[Tom Barrett]], [[David G. Valadao]], [[Ron DeSantis]], [[Elijah Crane]], [[Nick Lalota]], [[Zachary Nunn]], [[Scott Perry]], [[John J. McGuire]], [[Joni Ernst]], [[Tom Cotton]], [[Jack Bergman]], [[Jim Banks]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -22,7 +22,7 @@ total-spent: 2798429
 cash-on-hand: 32074
 independent-expenditures: 377988
 individual-contributions: 2806094
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 source-types:
   - FEC
 ---

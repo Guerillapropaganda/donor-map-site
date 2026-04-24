@@ -1,36 +1,37 @@
 ---
-title: "John B. Larson"
+title: John B. Larson
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Connecticut"
-state-abbr: "CT"
+party: Democrat
+chamber: House
+state: Connecticut
+state-abbr: CT
 district: "1"
-bioguide-id: "L000557"
+bioguide-id: L000557
 govtrack-id: 400233
 born: "1948-07-22"
-wikidata-id: "Q357832"
-website: "https://larson.house.gov"
-phone: "202-225-2265"
+wikidata-id: Q357832
+website: https://larson.house.gov
+phone: 202-225-2265
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 4
 bills-cosponsored: 286
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - House Committee on Ways and Means
   - Social Security
   - Trade
+top-donors: "[[Donald Trump]], [[HOEVEN FOR SENATE]], [[John McCain]], [[Akin Gump Strauss Hauer & Feld]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AbbVie]], [[J Street]], [[MENENDEZ FOR CONGRESS]], [[Meta - Facebook]], [[National Education Association]], [[Amgen Inc]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Google - Alphabet]], [[AFL-CIO]], [[Gwen Moore]], [[CVS Health - Aetna]], [[National Association of Manufacturers]], [[AIPAC - American Israel Public Affairs Committee]], [[William R. Keating]], [[DONALD NORCROSS FOR CONGRESS]], [[Donald S. Beyer]], [[League of Conservation Voters]], [[Rosa DeLauro]], [[Associated General Contractors of America Political Action Committee]], [[Sierra Club Political Committee]], [[American College of Radiology Association PAC]], [[Nucor Corporation]], [[BARRAGAN FOR CONGRESS]], [[NANCY PELOSI FOR CONGRESS]], [[Pfizer Inc.]], [[JUDY CHU FOR CONGRESS]], [[Planned Parenthood Action Fund INC]], [[National Restaurant Association]], [[Hakeem Jeffries]], [[TAMMY BALDWIN FOR CONGRESS]], [[PETE AGUILAR FOR CONGRESS]], [[CT Working Families Federal PAC D/b/a Take Back Congress CT]], [[TED LIEU FOR CONGRESS]], [[BILL FOSTER FOR CONGRESS]], [[American Gaming Association]], [[American Iron and Steel Institute]], [[Koch Industries]], [[McDonalds Corporation]], [[Humana]], [[Citigroup]], [[STRICKLAND FOR WASHINGTON]], [[NRA Political Victory Fund]], [[Richard Neal]], [[ANDREA SALINAS FOR OREGON]], [[Southern Company]]"
 ---
 
 

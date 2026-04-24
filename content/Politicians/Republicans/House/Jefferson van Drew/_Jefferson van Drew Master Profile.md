@@ -1,40 +1,41 @@
 ---
-title: "Jefferson van Drew"
+title: Jefferson van Drew
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "New Jersey"
-state-abbr: "NJ"
+party: Republican
+chamber: House
+state: New Jersey
+state-abbr: NJ
 district: "2"
-bioguide-id: "V000133"
+bioguide-id: V000133
 govtrack-id: 412796
 born: "1953-02-23"
-wikidata-id: "Q6175202"
-website: "https://vandrew.house.gov"
-phone: "202-225-6572"
+wikidata-id: Q6175202
+website: https://vandrew.house.gov
+phone: 202-225-6572
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 53
 bills-cosponsored: 494
 bills-enacted: 1
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Aviation
   - Coast Guard and Maritime Transportation
   - Highways and Transit
   - House Committee on Transportation and Infrastructure
   - House Committee on the Judiciary
-  - "Immigration Integrity, Security, and Enforcement"
+  - Immigration Integrity, Security, and Enforcement
   - Oversight
+top-donors: "[[NRA Political Victory Fund]], [[Suzan K. Delbene]], [[Leidos]], [[American College of Radiology Association PAC]], [[BILL FOSTER FOR CONGRESS]], [[Marc A. Veasey]], [[MIKE THOMPSON FOR CONGRESS]], [[Steve Scalise]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[DAVID ROUZER FOR CONGRESS]], [[Associated General Contractors of America Political Action Committee]], [[Tyson Foods]], [[BEN CLINE FOR CONGRESS, INC.]], [[LOFGREN FOR CONGRESS]], [[KATHERINE CLARK FOR CONGRESS]], [[AIPAC - American Israel Public Affairs Committee]], [[Darin Lahood]], [[Adam Schiff]], [[RON ESTES FOR CONGRESS]], [[PAUL TONKO FOR CONGRESS]], [[JULIA BROWNLEY FOR CONGRESS]], [[BYRON DONALDS FOR CONGRESS]], [[Donald S. Beyer]], [[Humane Society Legislative Fund]], [[National Cattlemen's Beef Association]], [[Williams Companies]], [[AbbVie]], [[JIM JORDAN FOR CONGRESS]], [[GEO Group - Private Prison Industrial Complex]], [[PETE AGUILAR FOR CONGRESS]], [[MARK GREEN FOR CONGRESS]], [[COURTNEY, JOSEPH]], [[GRACE FOR NEW YORK]], [[ANDY HARRIS FOR CONGRESS]], [[Steny H. Hoyer]], [[Scott Desjarlais]], [[Humana]], [[JIMMY PANETTA FOR CONGRESS]], [[BARBARA LEE FOR CONGRESS]], [[Pfizer Inc.]], [[TEXANS FOR JODEY ARRINGTON]], [[Ben Ray Lujan]], [[HIMES FOR CONGRESS]], [[GARY PALMER FOR CONGRESS]], [[Glenn Thompson]], [[SETH FOR MASSACHUSETTS, INC]], [[Daniel Meuser]], [[DEB HAALAND FOR CONGRESS]], [[National Education Association]], [[JASON SMITH FOR CONGRESS]], [[Google - Alphabet]], [[MARK TAKANO FOR CONGRESS]], [[CLAUDIA TENNEY FOR CONGRESS]], [[McDonalds Corporation]], [[Bradley Scott Schneider]], [[ADRIAN SMITH FOR CONGRESS]], [[John W. Rose]], [[DR. BRIAN BABIN FOR CONGRESS]], [[SCOTT PETERS FOR CONGRESS]], [[National Association of Realtors]], [[Let America Vote PAC]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Hakeem Jeffries]], [[Republican Jewish Coalition]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[FRIENDS OF MATT GAETZ]], [[American Principles Fund]], [[Tom Emmer]], [[DONALD NORCROSS FOR CONGRESS]], [[Club for Growth]]"
 ---
 
 

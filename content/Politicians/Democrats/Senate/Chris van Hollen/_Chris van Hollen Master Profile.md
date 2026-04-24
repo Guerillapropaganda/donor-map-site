@@ -3,7 +3,7 @@ title: Chris van Hollen
 type: politician
 content-readiness: draft
 central-thesis: "Chris van Hollen is the progressive-brand senator representing Maryland's defense-intelligence industrial base: the donor map is Lockheed, Raytheon, Leidos, L3Harris, General Dynamics, Honeywell, reflecting Fort Meade and Aberdeen, while the public brand emphasizes health, environment, and selective foreign-policy dissent that costs the donor class nothing."
-last-updated: 2026-04-19
+last-updated: 2026-04-19T00:00:00.000Z
 editorial-notes: "[Research Claude 2026-04-19] First substantive narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 source-tier: 1
 party: Democrat
@@ -38,26 +38,26 @@ bills-sponsored: 51
 bills-cosponsored: 602
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[Let America Vote PAC]], [[Google - Alphabet]], [[Bank of America]], [[Morgan Stanley]], [[J Street]], [[League of Conservation Voters]], [[Lockheed Martin]], [[Leidos]], [[Progressive Turnout Project]], [[AT&T - WarnerMedia]], [[Raytheon (RTX)]], [[L3Harris Technologies]], [[American Hospital Association PAC]], [[National Committee to Preserve Social Security PAC]], [[Ford Motor Company]], [[Teamsters - International Brotherhood of Teamsters]], [[iHeartMedia]], [[NEA Fund for Children and Public Education]], [[McDonalds Corporation]], [[National Restaurant Association]], [[National Association of Realtors]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Multifamily Housing Council]], [[Microsoft]], [[IBEW - International Brotherhood of Electrical Workers]], [[General Motors]], [[Honeywell]], [[Comcast - NBCUniversal]], [[Anthem - Elevance Health]], [[Pfizer Inc.]], [[Sierra Club Independent Action]], [[Sierra Club Political Committee]], [[Citigroup]], [[Nancy Pelosi]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Giffords PAC]], [[National Education Association]], [[SEIU COPE]], [[NextEra Energy]], [[General Dynamics]], [[Everytown for Gun Safety]], [[Honeywell International]], [[AT&T]], [[American Federation of State County & Municipal Employees  P E O P L E]]"
-last-enriched: 2026-04-20
+top-donors: "[[Let America Vote PAC]], [[Google - Alphabet]], [[Bank of America]], [[Morgan Stanley]], [[J Street]], [[League of Conservation Voters]], [[Lockheed Martin]], [[Leidos]], [[Progressive Turnout Project]], [[AT&T - WarnerMedia]], [[Raytheon (RTX)]], [[L3Harris Technologies]], [[American Hospital Association PAC]], [[National Committee to Preserve Social Security PAC]], [[Ford Motor Company]], [[Teamsters - International Brotherhood of Teamsters]], [[iHeartMedia]], [[NEA Fund for Children and Public Education]], [[McDonalds Corporation]], [[National Restaurant Association]], [[National Association of Realtors]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Multifamily Housing Council]], [[Microsoft]], [[IBEW - International Brotherhood of Electrical Workers]], [[General Motors]], [[Honeywell]], [[Comcast - NBCUniversal]], [[Anthem - Elevance Health]], [[Pfizer Inc.]], [[Sierra Club Independent Action]], [[Sierra Club Political Committee]], [[Citigroup]], [[Nancy Pelosi]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Giffords PAC]], [[National Education Association]], [[SEIU COPE]], [[NextEra Energy]], [[General Dynamics]], [[Everytown for Gun Safety]], [[Honeywell International]], [[AT&T]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Raytheon (RTX Corporation)]], [[American College of Radiology Association PAC]], [[NEA Advocacy Fund]], [[Steny H. Hoyer]], [[National Committee to Preserve Social Security & Medicare PAC]], [[AFL-CIO]], [[Amgen Inc]], [[Humana]], [[Donald S. Beyer]], [[DOGGETT FOR U S CONGRESS COMMITTEE]], [[Blue Shield of California]], [[HUFFMAN FOR CONGRESS]], [[Janice D. Schakowsky]], [[Planned Parenthood Action Fund INC]], [[Sinclair Broadcast Group]], [[Chris Murphy]], [[Akin Gump Strauss Hauer & Feld]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[Bechtel Corporation]], [[CVS Health - Aetna]], [[National Nurses United]], [[NANCY PELOSI FOR CONGRESS]], [[Xavier Becerra]], [[Occidental Petroleum]], [[Friends of the Earth (action) INC]], [[Gerry Connolly]], [[Jerrold Nadler]], [[John B. Larson]]"
+last-enriched: 2026-04-20T00:00:00.000Z
 committees:
   - Africa and Global Health Policy
-  - "Commerce, Justice, Science, and Related Agencies"
+  - Commerce, Justice, Science, and Related Agencies
   - Department of Homeland Security
-  - "Department of Interior, Environment, and Related Agencies"
+  - Department of Interior, Environment, and Related Agencies
   - Digital Assets
-  - "East Asia, the Pacific, and International Cybersecurity Policy"
+  - East Asia, the Pacific, and International Cybersecurity Policy
   - Financial Services and General Government
-  - "Housing, Transportation, and Community Development"
+  - Housing, Transportation, and Community Development
   - National Security and International Trade and Finance
   - Senate Committee on Appropriations
-  - "Senate Committee on Banking, Housing, and Urban Affairs"
+  - Senate Committee on Banking, Housing, and Urban Affairs
   - Senate Committee on Foreign Relations
   - Senate Committee on the Budget
-  - "State Department and USAID Management, International Operations, and Bilateral International Development"
-  - "Transportation, Housing and Urban Development, and Related Agencies"
-total-raised: "$22.7M"
-career-total-source: "FEC weball summary (cycles 2016, 2018, 2020, 2022, 2024, 2026)"
+  - State Department and USAID Management, International Operations, and Bilateral International Development
+  - Transportation, Housing and Urban Development, and Related Agencies
+total-raised: $22.7M
+career-total-source: FEC weball summary (cycles 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

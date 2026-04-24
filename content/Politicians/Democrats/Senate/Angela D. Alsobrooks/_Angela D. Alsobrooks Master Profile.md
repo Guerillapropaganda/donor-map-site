@@ -1,41 +1,42 @@
 ---
-title: "Angela D. Alsobrooks"
+title: Angela D. Alsobrooks
 type: politician
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "Senate"
-state: "Maryland"
-state-abbr: "MD"
-bioguide-id: "A000382"
+party: Democrat
+chamber: Senate
+state: Maryland
+state-abbr: MD
+bioguide-id: A000382
 govtrack-id: 456965
 born: "1971-02-23"
-wikidata-id: "Q58755148"
-website: "https://www.alsobrooks.senate.gov"
-phone: "202-224-4524"
+wikidata-id: Q58755148
+website: https://www.alsobrooks.senate.gov
+phone: 202-224-4524
 source-types:
   - Congress
   - GovTrack
 known-gaps:
-  - "No FEC contribution data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Education and the American Family
   - Employment and Workplace Safety
   - Financial Institutions and Consumer Protection
-  - "Fisheries, Wildlife, and Water"
-  - "Housing, Transportation, and Community Development"
-  - "Securities, Insurance, and Investment"
-  - "Senate Committee on Banking, Housing, and Urban Affairs"
+  - Fisheries, Wildlife, and Water
+  - Housing, Transportation, and Community Development
+  - Securities, Insurance, and Investment
+  - Senate Committee on Banking, Housing, and Urban Affairs
   - Senate Committee on Environment and Public Works
-  - "Senate Committee on Health, Education, Labor, and Pensions"
+  - Senate Committee on Health, Education, Labor, and Pensions
   - Senate Special Committee on Aging
   - Transportation and Infrastructure
 bills-sponsored: 24
 corroboration-count: 2
+top-donors: "[[NEA Advocacy Fund]], [[Amgen Inc]], [[Giffords PAC]], [[Meta - Facebook]], [[Working Families Party PAC]], [[National Education Association]], [[WARNOCK FOR GEORGIA]], [[League of Conservation Voters]], [[Glenn Ivey]], [[AbbVie]], [[National Nurses United]], [[JASMINE FOR US]], [[WARREN FOR SENATE, INC.]], [[John Fetterman]], [[Yvette D. Clarke]], [[Protecting Our Vote Pac]], [[Let America Vote PAC]], [[Pfizer Inc.]], [[Sierra Club Political Committee]], [[Save America PAC]], [[J Street]], [[Democratic Senatorial Campaign Committee]], [[National Nurses United for Patient Protection]], [[Chris Murphy]], [[James E. Clyburn]], [[NANCY PELOSI FOR CONGRESS]], [[Steny H. Hoyer]], [[Google - Alphabet]], [[Demand Justice]], [[CHRISSY HOULAHAN FOR CONGRESS]], [[Coinbase]], [[Planned Parenthood Action Fund INC]], [[Gilead Sciences]]"
 ---
 
 

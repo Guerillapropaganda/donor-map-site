@@ -18,23 +18,23 @@ phone: 202-225-7919
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-donors: "[[Brady Campaign]], [[AFL-CIO]], [[Sierra Club Independent Action]]"
+  - No FEC contribution data
+  - No voting record data
+donors: "[[Brady Campaign]], [[AFL-CIO]], [[Sierra Club Independent Action]], [[MBNA Corporation]], [[AT&T]], [[National Education Association]], [[Bacardi - Bacardi USA]], [[National Committee to Preserve Social Security & Medicare PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Pfizer Inc.]], [[National Restaurant Association]], [[Amgen Inc]], [[Planned Parenthood Action Fund INC]], [[Akin Gump Strauss Hauer & Feld]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[Tyson Foods]], [[Sierra Club Political Committee]], [[Occidental Petroleum]], [[CoreCivic]], [[League of Conservation Voters]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2NJ13075
 bills-sponsored: 14
 bills-cosponsored: 279
 bills-enacted: 0
 top-policy-area: Health
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Communications and Technology
   - Energy
   - Environment
   - House Committee on Energy and Commerce
-total-raised: "$13.4M"
-career-total-source: "FEC weball summary (cycles 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2026)"
+total-raised: $13.4M
+career-total-source: FEC weball summary (cycles 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2026)
 ---
 
 

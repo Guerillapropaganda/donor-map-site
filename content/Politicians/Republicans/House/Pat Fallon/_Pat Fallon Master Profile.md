@@ -1,34 +1,34 @@
 ---
-title: "Pat Fallon"
+title: Pat Fallon
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Texas"
-state-abbr: "TX"
+party: Republican
+chamber: House
+state: Texas
+state-abbr: TX
 district: "4"
-bioguide-id: "F000246"
+bioguide-id: F000246
 govtrack-id: 456845
 born: "1967-12-19"
-wikidata-id: "Q16196923"
-website: "https://fallon.house.gov"
-phone: "202-225-6673"
+wikidata-id: Q16196923
+website: https://fallon.house.gov
+phone: 202-225-6673
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 21
 bills-cosponsored: 235
 bills-enacted: 1
-top-policy-area: "International Affairs"
-last-enriched: 2026-04-21
+top-policy-area: International Affairs
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Cyber, Information Technologies, and Innovation"
+  - Cyber, Information Technologies, and Innovation
   - Defense Intelligence and Overhead Architecture
   - Delivering on Government Efficiency
   - House Committee on Armed Services
@@ -36,6 +36,7 @@ committees:
   - House Permanent Select Committee on Intelligence
   - Military Personnel
   - Open Source Intelligence
+top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[Steve Scalise]], [[Leidos]], [[TEXANS FOR JODEY ARRINGTON]], [[Elise Stefanik]], [[NRA Political Victory Fund]], [[Brett Guthrie]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[JASON SMITH FOR CONGRESS]], [[Koch Industries]], [[GARBARINO FOR CONGRESS]], [[Associated General Contractors of America Political Action Committee]]"
 ---
 
 

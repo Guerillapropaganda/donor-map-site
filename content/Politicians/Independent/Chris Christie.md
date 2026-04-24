@@ -14,12 +14,12 @@ source-types:
   - DOJ
 corroboration-count: 2
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
+  - No FEC contribution data
+  - No voting record data
 related: "[[_Jared Kushner Master Profile]] · [[_Donald Trump Master Profile]] · [[Real Estate Industry]] · [[Conservative Solutions PAC]]"
 top-donors: "[[America Leads]] · [[Tell It Like It Is Pac]]"
-donors: "[[Tell It Like It Is Pac]] · [[America Leads]] · [[Conservative Solutions PAC]] · [[Pfizer Inc.]] · [[UnitedHealth Group - Optum]] · [[Apple]] · [[Honeywell International]] · [[Booz Allen Hamilton]] · [[BlackRock]] · [[Blackstone Group]] · [[Novo Nordisk]] · [[Planned Parenthood Votes]] · [[Kaiser Permanente]] · [[Microsoft]] · [[Northrop Grumman]] · [[Tenet Healthcare]] · [[Morgan Stanley]] · [[Citadel - Kenneth Griffin]] · [[Comcast - NBCUniversal]] · [[CBRE Group]] · [[MassMutual]] · [[Cargill]] · [[Fanjul Family - Florida Crystals]] · [[PRIORITIES USA ACTION]] · [[Bank of America]] · [[Amgen Inc]] · [[UPS]] · [[Verizon]] · [[Johnson & Johnson]] · [[AbbVie]] · [[Google - Alphabet]] · [[Citigroup]] · [[Meta - Facebook]] · [[NextEra Energy]] · [[WinRed]] · [[Ruralvote.org]] · [[Lockheed Martin]] · [[Nvidia]] · [[Eli Lilly]] · [[Wells Fargo]] · [[Business Roundtable]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Amazon]] · [[MAGA Inc]] · [[Aramark]] · [[Anthem - Elevance Health Political Operation]] · [[Cigna Group]] · [[Priorities USA Action]]"
-last-enriched: 2026-04-21
+donors: "[[Tell It Like It Is Pac]] · [[America Leads]] · [[Conservative Solutions PAC]] · [[Pfizer Inc.]] · [[UnitedHealth Group - Optum]] · [[Apple]] · [[Honeywell International]] · [[Booz Allen Hamilton]] · [[BlackRock]] · [[Blackstone Group]] · [[Novo Nordisk]] · [[Planned Parenthood Votes]] · [[Kaiser Permanente]] · [[Microsoft]] · [[Northrop Grumman]] · [[Tenet Healthcare]] · [[Morgan Stanley]] · [[Citadel - Kenneth Griffin]] · [[Comcast - NBCUniversal]] · [[CBRE Group]] · [[MassMutual]] · [[Cargill]] · [[Fanjul Family - Florida Crystals]] · [[PRIORITIES USA ACTION]] · [[Bank of America]] · [[Amgen Inc]] · [[UPS]] · [[Verizon]] · [[Johnson & Johnson]] · [[AbbVie]] · [[Google - Alphabet]] · [[Citigroup]] · [[Meta - Facebook]] · [[NextEra Energy]] · [[WinRed]] · [[Ruralvote.org]] · [[Lockheed Martin]] · [[Nvidia]] · [[Eli Lilly]] · [[Wells Fargo]] · [[Business Roundtable]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Amazon]] · [[MAGA Inc]] · [[Aramark]] · [[Anthem - Elevance Health Political Operation]] · [[Cigna Group]] · [[Priorities USA Action]] · [[CHRIS CHRISTIE FOR PRESIDENT, INC.]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

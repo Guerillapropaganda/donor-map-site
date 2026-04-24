@@ -5,14 +5,14 @@ content-readiness: data-complete
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00455378
 aliases:
   - THE NATIONAL REPUBLICAN TRUST PAC
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Chris Coons]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Chris Coons]], [[FOX NEWS NETWORK LLC]], [[SPECTRUM COMMUNICATIONS]], [[STRATEGIC PERCEPTION, INC.]], [[U.S. POSTAL SERVICE]], [[Andrew Klavan]], [[REGUS  HQ GLOBAL WORKPLACES LLC]], [[WYCHE, SAM]], [[CARLSON, BUCKLEY]], [[Capitol Counsel]], [[RAPTOR STRATEGIES, LLC]], [[Newsmax]], [[TOWNHALL.COM]], [[SOCIAL MEDIA SOLUTIONS]], [[KOCH & HOOS, LLC]], [[MADDEN, ANDREW M.]], [[Direct Selling Empowers Americans]], [[WMAL]], [[DIENER CONSULTANTS, INC.]], [[PREMIERE RADIO NETWORKS]], [[RADIO AMERICA]], [[TOWER MEDIA ADVERTISING, INC.]], [[First Amendment Alliance]], [[EAGLE PUBLISHING, INC.]], [[MAELSTROM TECHNOLOGIES SOLUTIONS, LLC]], [[SOUTHWEST PUBLISHING MAILING CORP]], [[CRC PUBLIC RELATIONS]], [[DAVIS, WRIGHT, TREMAINE LLP]], [[KINSTLER, MERRILL]], [[SMART MEDIA GROUP]], [[Special Operations for America]], [[INTERMARKETS, INC.]], [[LEITNER, PETER]], [[LEITNER, PETER M.]], [[CHERI JACOBUS]], [[MCDANNALD MARKETING, INC.]], [[Sinclair Broadcast Group]], [[INTERFACE MEDIA GROUP]], [[RAPID RESPONSE MEDIA, INC.]], [[NEWTON MEDIA ASSOCIATES, INC.]], [[NCC MEDIA]], [[Republican Jewish Coalition]], [[FOLEY & LARDNER, LLP]], [[DRAKE VENTURES]], [[INTREPID MEDIA]], [[LNP DESIGN LLC]], [[MARSH COPSEY & ASSOCIATES, INC.]], [[John McCain]], [[Tom Cotton]], [[Mitt Romney]], [[Jim Inhofe]], [[Rick Perry]], [[John Thune]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -20,9 +20,9 @@ urls-first-triaged: "2026-04-15"
 related: "[[Chris Coons]]"
 source-types:
   - FEC
-last-enriched: 2026-04-21
-total-political-spend: "$8.6M"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2008, 2010, 2012, 2014, 2016, 2018, 2020"
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $8.6M
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2008, 2010, 2012, 2014, 2016, 2018, 2020
 ---
 
 

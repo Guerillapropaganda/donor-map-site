@@ -11,8 +11,8 @@ fec-committee-id: C00634774
 aliases:
   - COMMON SENSE FOR AMERICA PAC
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Deb Fischer]], [[Mike Lee]], [[Joni Ernst]], [[Pete Ricketts]], [[John Kennedy]], [[Bernie Moreno]], [[Bill Hagerty]], [[John Barrasso]], [[Ron Johnson]], [[Jon Husted]], [[John Hoeven]], [[Lisa Murkowski]], [[Roger Marshall]], [[John Thune]], [[Dan Sullivan]], [[John Boozman]], [[Rick Scott]], [[Mike Rounds]], [[Tim Scott]], [[Michael Whatley]], [[Steve Daines]], [[Marsha Blackburn]], [[Markwayne Mullin]], [[Lindsey Graham]], [[Tim Sheehy]], [[James Lankford]], [[Donald Trump]], [[Roger Wicker]], [[Cindy Hyde-Smith]], [[Kevin Cramer]], [[Josh Hawley]], [[Jerry Moran]], [[John Cornyn]], [[Shelley Moore Capito]], [[Ashley Moody]], [[Susan Collins]], [[Ted Cruz]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Deb Fischer]], [[Mike Lee]], [[Joni Ernst]], [[Pete Ricketts]], [[John Kennedy]], [[Bernie Moreno]], [[Bill Hagerty]], [[John Barrasso]], [[Ron Johnson]], [[Jon Husted]], [[John Hoeven]], [[Lisa Murkowski]], [[Roger Marshall]], [[John Thune]], [[Dan Sullivan]], [[John Boozman]], [[Rick Scott]], [[Mike Rounds]], [[Tim Scott]], [[Michael Whatley]], [[Steve Daines]], [[Marsha Blackburn]], [[Markwayne Mullin]], [[Lindsey Graham]], [[Tim Sheehy]], [[James Lankford]], [[Donald Trump]], [[Roger Wicker]], [[Cindy Hyde-Smith]], [[Kevin Cramer]], [[Josh Hawley]], [[Jerry Moran]], [[John Cornyn]], [[Shelley Moore Capito]], [[Ashley Moody]], [[Susan Collins]], [[Ted Cruz]], [[TAG, LLC]], [[TORCHLIGHT STRATEGIES]], [[WHITE, ROSS]], [[HILTON WASHINGTON]], [[VANDERBROOK & CO. CPAS]], [[W STRATEGIES]], [[CMDI]], [[ONPOINT DATA STRATEGY LLC]], [[HSP DIRECT, LLC]], [[KAP PRINT LLC]], [[NOVA LIST]], [[ADVANCED RESPONSE SYSTEMS]], [[International Association of Chiefs of Police]], [[United Democracy Project - UDP]], [[MYSTICK KREWE OF LOUISIANIANS]], [[BENOIT, JAKE]], [[FULFILLMENT SOLUTIONS]], [[W STRATEGIES GROUP]], [[DISNEY DESTINATIONS]], [[RST MARKETING]], [[Direct Selling Empowers Americans]], [[National Republican Senatorial Committee]], [[GUASTELLA, COURTNEY]], [[TAG LLC]], [[PLANET DIRECT MAIL]], [[BULKBOOKS.COM]], [[MDI IMAGING & MAIL]], [[Bradley Foundation]], [[Mike Crapo]], [[Rand Paul]], [[Mitch McConnell]], [[Ted Budd]], [[Mike Rogers]], [[David McCormick]], [[Jim Risch]], [[Tom Cotton]], [[Bill Cassidy]], [[Tommy Tuberville]], [[JD Vance]], [[John R. Curtis]], [[Thom Tillis]], [[Chuck Grassley]], [[Cynthia M. Lummis]], [[James C. Justice]], [[Jim Inhofe]], [[Jim Banks]]"
 related: "[[Deb Fischer]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -25,7 +25,7 @@ individual-contributions: 6764510
 contributions-to-committees: 200000
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

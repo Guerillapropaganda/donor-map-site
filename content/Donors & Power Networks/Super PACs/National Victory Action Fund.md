@@ -11,8 +11,8 @@ fec-committee-id: C00760124
 aliases:
   - NATIONAL VICTORY ACTION FUND
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Bill Hagerty]], [[John Barrasso]], [[Elise Stefanik]], [[Victoria Spartz]], [[Monica de la Cruz]], [[Derrick van Orden]], [[Jerry Moran]], [[Diana Harshbarger]], [[Ron Johnson]], [[Jon Husted]], [[Eric Schmitt]], [[Mike Lee]], [[Steve Daines]], [[Richard Hudson]], [[Todd Young]], [[Tim Scott]], [[John Boozman]], [[Steve Scalise]], [[Young Kim]], [[Lisa Murkowski]], [[Marsha Blackburn]], [[John Thune]], [[Tim Sheehy]], [[John Hoeven]], [[Maria Elvira Salazar]], [[Bernie Moreno]], [[John Kennedy]], [[Donald Trump]], [[Ronny Jackson]], [[August Pfluger]], [[Nancy Mace]], [[Rudy Yakym]], [[Brian Jack]], [[Joni Ernst]], [[Ashley Hinson]], [[Guy Reschenthaler]], [[Susan Collins]], [[James Lankford]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Bill Hagerty]], [[John Barrasso]], [[Elise Stefanik]], [[Victoria Spartz]], [[Monica de la Cruz]], [[Derrick van Orden]], [[Jerry Moran]], [[Diana Harshbarger]], [[Ron Johnson]], [[Jon Husted]], [[Eric Schmitt]], [[Mike Lee]], [[Steve Daines]], [[Richard Hudson]], [[Todd Young]], [[Tim Scott]], [[John Boozman]], [[Steve Scalise]], [[Young Kim]], [[Lisa Murkowski]], [[Marsha Blackburn]], [[John Thune]], [[Tim Sheehy]], [[John Hoeven]], [[Maria Elvira Salazar]], [[Bernie Moreno]], [[John Kennedy]], [[Donald Trump]], [[Ronny Jackson]], [[August Pfluger]], [[Nancy Mace]], [[Rudy Yakym]], [[Brian Jack]], [[Joni Ernst]], [[Ashley Hinson]], [[Guy Reschenthaler]], [[Susan Collins]], [[James Lankford]], [[HOWARD INSURANCE]], [[WIN RED TECHNICAL SERVICES LLC]], [[TARGETED VICTORY]], [[HOLTZMAN VOGEL BARAN JOSEFIAK TORCHINSKY PLLC]], [[CROSBY OTTENHOFF GROUP]], [[DIGITAL MARKETING SOLUTIONS GROUP, LLC]], [[ON TARGET PUBLIC AFFAIRS]], [[SOCKO STRATEGIES LLC]], [[DIGITAL MARKETING SOLUTIONS GROUP LLC]], [[NINE ONE SIX LLC]], [[HOLTZMAN VOGEL JOSEFIAK TORCHINSKY PLLC]], [[John James]], [[Brian K. Fitzpatrick]], [[Mike Kelly]], [[Earl L. Buddy Carter]], [[Beth van Duyne]], [[Marco Rubio]], [[Chuck Grassley]], [[Lisa C. McClain]], [[Don Bacon]], [[Andy Barr]], [[Elijah Crane]], [[David G. Valadao]], [[Mike Crapo]], [[Stephanie I. Bice]], [[Lindsey Graham]], [[Jennifer A. Kiggans]], [[Rand Paul]], [[Greg Casar]], [[William R. Timmons]]"
 related: "[[Elise Stefanik]] · [[John Barrasso]] · [[Bill Hagerty]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -25,7 +25,7 @@ individual-contributions: 218391
 contributions-to-committees: 81325
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

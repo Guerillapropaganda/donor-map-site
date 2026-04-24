@@ -42,20 +42,20 @@ corroboration-count: 1
 needs-reenrichment: true
 reenrich-reason: "Congress + GovTrack enrichment never populated; bioguide-id W000817 just added so pipeline can now look her up. Also: source-types previously listed DOJ which was a false-positive from the engine scan , removed."
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
+  - No FEC contribution data
+  - No voting record data
 related: ">- · [[DOGE - The Billionaires Government]] · [[Katie Porter Master Profile]] · [[The Warren Pipeline - Consumer Protection to Governor]] · [[Fairshake and the Crypto Industry War]] · [[Bernie Sanders]] · [[The Anti-Donor Model - Two Presidential Campaigns]] · [[Medicare for All - The Policy That Broke the Party]] · [[Zach Wahls]] · [[Mallory McMorrow Master Profile]] · [[Jeff Merkley]] · [[Graham Platner Master Profile]] · [[Warren-Sanders Unity and the Schumer Machine]] · [[Debbie Stabenow]] · [[Chris Coons]] · [[Brian Schatz]] · [[Michigan Senate Primary and the Progressive Proxy War]] · [[Nancy Pelosi]] · [[Crossroads Grassroots Policy Strategies]]"
 opposes: "[[_Donald Trump Master Profile]] · [[Fairshake PAC]] · [[Kenneth Griffin]] · [[Crypto Industry Bloc]]"
 editorial-notes: "Depth review 2026-04-10. BODY NOT TOUCHED , the central thesis ('what happens when a politician's funding IS clean'), donor class map (96.2% individual contributions, 0.7% PAC), and the CFPB architect → CFPB destroyed arc are all excellent. Structural test case for the vault. FIXED (Research Claude): added bioguide-id W000817 (unblocks Congress pipeline , was the reason 'No legislative record from Congress.gov' was a persistent gap), removed false-positive DOJ from source-types (engine scan artifact, same class of error as Whitehouse DOJ strip), expanded issues 1→8 entries, added committees (Banking / Finance / Armed Services / HELP), restructured top-donors to lead with the small-dollar model (96.2% individual), added structured opposes (Fairshake, Griffin, corporate PACs), expanded related to include full anti-donor + squad coalition, cleaned known-gaps (removed factually-wrong 'No mapped relationships' , 12+ wikilinks exist). REMOVED: body inline dataview 'donors: [[ActBlue]] · ...' per frontmatter-only rule. REMOVED: double '---' separator artifact. STAYS draft per tightened Vault Rules: known-gaps explicitly cite missing Congress.gov + GovTrack pipeline data. Flagged needs-reenrichment: true. Once clean pipeline data lands, ready to promote to ready and flag verified-candidate."
-donors: "[[Crypto Industry Bloc]] · [[UFCW - United Food and Commercial Workers]] · [[Democratic Small Dollar Networks]] · [[Boeing]] · [[COMMONWEALTH UNITY FUND]] · [[Commonwealth Unity Fund]] · [[Emily's List]] · [[America 360 Committee]] · [[Future45]] · [[Crossroads Grassroots Policy Strategies]] · [[National Nurses United]] · [[Chrissy Houlahan]] · [[Teamsters - International Brotherhood of Teamsters]] · [[NEA Fund for Children and Public Education]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Sierra Club Independent Action]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[Unite Here Tip Campaign Committee]] · [[League of Conservation Voters]]"
+donors: "[[Crypto Industry Bloc]] · [[UFCW - United Food and Commercial Workers]] · [[Democratic Small Dollar Networks]] · [[Boeing]] · [[COMMONWEALTH UNITY FUND]] · [[Commonwealth Unity Fund]] · [[Emily's List]] · [[America 360 Committee]] · [[Future45]] · [[Crossroads Grassroots Policy Strategies]] · [[National Nurses United]] · [[Chrissy Houlahan]] · [[Teamsters - International Brotherhood of Teamsters]] · [[NEA Fund for Children and Public Education]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Sierra Club Independent Action]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[Unite Here Tip Campaign Committee]] · [[League of Conservation Voters]] · [[AFL-CIO]] · [[Sierra Club Political Committee]] · [[Elizabeth Warren]] · [[WinSenate]] · [[WARREN FOR SENATE, INC.]] · [[CHRISSY HOULAHAN FOR CONGRESS]] · [[Indivisible Action]] · [[Amgen Inc]] · [[National Education Association]] · [[Planned Parenthood Action Fund INC]] · [[International Longshore and Warehouse Union -- Political Action Fund]] · [[Environment America INC]] · [[Giffords PAC]] · [[National Committee to Preserve Social Security & Medicare PAC]] · [[Democratic Senatorial Campaign Committee]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 861
 bills-cosponsored: 4300
 bills-enacted: 1
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: Health
-total-raised: "$102.6M"
-career-total-source: "FEC weball summary (cycles 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+total-raised: $102.6M
+career-total-source: FEC weball summary (cycles 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

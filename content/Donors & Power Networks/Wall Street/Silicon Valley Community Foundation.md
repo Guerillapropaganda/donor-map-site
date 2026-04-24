@@ -9,14 +9,14 @@ ein: "205205488"
 nonprofit-status: 501(c)(3)
 source-tier: 1
 internal-notes: Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Largest community foundation in the US; operates as one of the largest donor-advised fund sponsors, channeling tech-sector wealth. Observed inflow of $843M from Fidelity Investments Charitable Gift Fund in 2022. Narrative pending Research Claude editorial pass.
-politicians-funded: "[[Rockefeller Philanthropy Advisors]], [[National Philanthropic Trust]], [[Morgan Stanley Global Impact Funding Trust]], [[Cato Institute]], [[Schwab Charitable Fund]], [[Mercatus Center]], [[Vanguard Charitable Endowment Program]], [[US Chamber of Commerce]], [[Urban Institute]], [[Bank of America Charitable Gift Fund]], [[RAND Corporation]], [[ImpactAssets]], [[ACLU Foundation]], [[Bipartisan Policy Center]], [[Center for American Progress]], [[Brennan Center for Justice]], [[Hudson Institute]], [[Council on Foreign Relations]], [[Hopewell Fund]], [[New Venture Fund]], [[American Endowment Foundation]], [[Fidelity Investments]], [[The Barack Obama Foundation]], [[Planned Parenthood Federation of America]], [[American Enterprise Institute]], [[NEO Philanthropy]], [[Ocean Conservancy]], [[Equal Justice Initiative]], [[Natural Resources Defense Council]], [[Center for Popular Democracy]], [[ClimateWorks Foundation]], [[Proteus Fund]], [[Vital Strategies]], [[Greater Horizons]], [[The Seminar Network]], [[Goldman Sachs Philanthropy Fund]], [[California Charter Schools Association]], [[Roosevelt Institute]], [[Sierra Club Foundation]], [[Economic Policy Institute]], [[OpenAI]], [[Silicon Valley Community Foundation]], [[Prison Policy Initiative]]"
+politicians-funded: "[[Rockefeller Philanthropy Advisors]], [[National Philanthropic Trust]], [[Morgan Stanley Global Impact Funding Trust]], [[Cato Institute]], [[Schwab Charitable Fund]], [[Mercatus Center]], [[Vanguard Charitable Endowment Program]], [[US Chamber of Commerce]], [[Urban Institute]], [[Bank of America Charitable Gift Fund]], [[RAND Corporation]], [[ImpactAssets]], [[ACLU Foundation]], [[Bipartisan Policy Center]], [[Center for American Progress]], [[Brennan Center for Justice]], [[Hudson Institute]], [[Council on Foreign Relations]], [[Hopewell Fund]], [[New Venture Fund]], [[American Endowment Foundation]], [[Fidelity Investments]], [[The Barack Obama Foundation]], [[Planned Parenthood Federation of America]], [[American Enterprise Institute]], [[NEO Philanthropy]], [[Ocean Conservancy]], [[Equal Justice Initiative]], [[Natural Resources Defense Council]], [[Center for Popular Democracy]], [[ClimateWorks Foundation]], [[Proteus Fund]], [[Vital Strategies]], [[Greater Horizons]], [[The Seminar Network]], [[Goldman Sachs Philanthropy Fund]], [[California Charter Schools Association]], [[Roosevelt Institute]], [[Sierra Club Foundation]], [[Economic Policy Institute]], [[OpenAI]], [[Silicon Valley Community Foundation]], [[Prison Policy Initiative]], [[Center on Budget and Policy Priorities]], [[New America]], [[Hoover Institution]], [[Center for a New American Security]]"
 known-gaps:
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
-  - "No mapped relationships"
-last-enriched: 2026-04-21
-total-political-spend: "$1.97B"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2018, 2019, 2020, 2022, 2023"
+  - No FEC contribution data
+  - No lobbying disclosure data
+  - No mapped relationships
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $1.97B
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2018, 2019, 2020, 2022, 2023
 ---
 
 

@@ -20,21 +20,21 @@ source-types:
   - FEC
   - GovTrack
 known-gaps:
-  - "No mapped relationships"
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H6FL06258
-top-donors: "[[International Association of Firefighters Interested in Registration and Education PAC]], [[Brad Knott]], [[National Restaurant Association]], [[National Association of Realtors]], [[Law Enforcement for a Safer America Pac]], [[National Right to Life Victory Fund]], [[Anthem - Elevance Health]], [[Freedom's Defense Fund]], [[Human Rights Campaign Equality Votes]], [[CVS Health - Aetna]], [[Republican Jewish Coalition]], [[Associated General Contractors of America Political Action Committee]], [[National Cattlemen's Beef Association]], [[American Conservative Union]], [[America PAC - Elon Musk]], [[Michael Waltz]], [[Tzedek PAC]], [[Defend American Jobs]], [[NRCC - National Republican Congressional Committee]], [[National Rifle Association]], [[AIPAC - American Israel Public Affairs Committee]], [[Comcast - NBCUniversal]], [[SPECIAL OPERATIONS FOR AMERICA]], [[REPUBLICAN PARTY OF FLORIDA]], [[General Dynamics]], [[Jim Jordan]], [[Duke Energy]], [[NextEra Energy]], [[L3Harris Technologies]], [[CBRE Group]], [[Chevron]], [[Ballard Partners]], [[Fanjul Family - Florida Crystals]], [[Bank of America]], [[Morgan Stanley]], [[Oracle]], [[Special Operations for America]], [[Republican Party of Florida]]"
-last-enriched: 2026-04-21
+top-donors: "[[International Association of Firefighters Interested in Registration and Education PAC]], [[Brad Knott]], [[National Restaurant Association]], [[National Association of Realtors]], [[Law Enforcement for a Safer America Pac]], [[National Right to Life Victory Fund]], [[Anthem - Elevance Health]], [[Freedom's Defense Fund]], [[Human Rights Campaign Equality Votes]], [[CVS Health - Aetna]], [[Republican Jewish Coalition]], [[Associated General Contractors of America Political Action Committee]], [[National Cattlemen's Beef Association]], [[American Conservative Union]], [[America PAC - Elon Musk]], [[Michael Waltz]], [[Tzedek PAC]], [[Defend American Jobs]], [[NRCC - National Republican Congressional Committee]], [[National Rifle Association]], [[AIPAC - American Israel Public Affairs Committee]], [[Comcast - NBCUniversal]], [[SPECIAL OPERATIONS FOR AMERICA]], [[REPUBLICAN PARTY OF FLORIDA]], [[General Dynamics]], [[Jim Jordan]], [[Duke Energy]], [[NextEra Energy]], [[L3Harris Technologies]], [[CBRE Group]], [[Chevron]], [[Ballard Partners]], [[Fanjul Family - Florida Crystals]], [[Bank of America]], [[Morgan Stanley]], [[Oracle]], [[Special Operations for America]], [[Republican Party of Florida]], [[Steve Scalise]], [[CITIZENS FOR JOHN RUTHERFORD]], [[JIM JORDAN FOR CONGRESS]], [[Gregory F. Murphy]], [[NRA Political Victory Fund]], [[GEO Group - Private Prison Industrial Complex]], [[American Principles Fund]], [[Tom Emmer]], [[DAVE TAYLOR FOR CONGRESS]], [[MICHAEL WALTZ FOR CONGRESS]], [[FEDORCHAK FOR ND]], [[MIKE KENNEDY FOR UTAH]], [[Neal P. Dunn]], [[BRAD KNOTT FOR CONGRESS]], [[Florida Farm PAC]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Europe
-  - "Health, Employment, Labor, and Pensions"
+  - Health, Employment, Labor, and Pensions
   - Higher Education and Workforce Development
   - House Committee on Education and Workforce
   - House Committee on Foreign Affairs
   - Western Hemisphere
   - Workforce Protections
-total-raised: "$3.7M"
-career-total-source: "FEC weball summary (cycles 2026)"
+total-raised: $3.7M
+career-total-source: FEC weball summary (cycles 2026)
 bills-sponsored: 24
 corroboration-count: 3
 ---

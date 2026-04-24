@@ -18,26 +18,26 @@ phone: 202-225-2931
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4GA11061
 bills-sponsored: 14
 bills-cosponsored: 184
 bills-enacted: 0
 top-policy-area: Finance and Financial Sector
-top-donors: "[[National Rental Home Council]], [[Lockheed Martin]], [[AT&T - WarnerMedia]], [[Associated General Contractors of America Political Action Committee]], [[American Hospital Association PAC]], [[Marathon Petroleum]], [[National Association of Realtors]], [[MAJORITY PAC]], [[National Multifamily Housing Council]], [[National Rifle Association]], [[Citigroup]], [[American Chemistry Council, INC]], [[Austin Scott]], [[Walmart - Walton Family]], [[Morgan Stanley]], [[Save America PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[Ben Cline]], [[JPAC - Jewish Public Affairs Committee of California]], [[Bank of America]], [[AT&T]], [[Majority PAC]]"
-last-enriched: 2026-04-21
+top-donors: "[[National Rental Home Council]], [[Lockheed Martin]], [[AT&T - WarnerMedia]], [[Associated General Contractors of America Political Action Committee]], [[American Hospital Association PAC]], [[Marathon Petroleum]], [[National Association of Realtors]], [[MAJORITY PAC]], [[National Multifamily Housing Council]], [[National Rifle Association]], [[Citigroup]], [[American Chemistry Council, INC]], [[Austin Scott]], [[Walmart - Walton Family]], [[Morgan Stanley]], [[Save America PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[Ben Cline]], [[JPAC - Jewish Public Affairs Committee of California]], [[Bank of America]], [[AT&T]], [[Majority PAC]], [[Steve Scalise]], [[Williams Companies]], [[Leidos]], [[Family Research Council Action Political Action Committee]], [[J. French Hill]], [[NRA Political Victory Fund]], [[Koch Industries]], [[Frank Lucas]], [[JIM JORDAN FOR CONGRESS]], [[BEN CLINE FOR CONGRESS, INC.]], [[FreedomWorks for America]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[ANDY HARRIS FOR CONGRESS]], [[Madison Project Inc.]], [[Google - Alphabet]], [[The Tea Party Leadership Fund]], [[Glenn Thompson]], [[Akin Gump Strauss Hauer & Feld]], [[WESTERMAN FOR CONGRESS]], [[Paul Ryan]], [[Pete Sessions]], [[Brett Guthrie]], [[Earl L. Buddy Carter]], [[Club for Growth INC PAC]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Elections
   - Financial Institutions
   - House Committee on Financial Services
   - House Committee on House Administration
-  - "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
+  - House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021
   - Oversight and Investigations
-total-raised: "$5.6M"
-career-total-source: "FEC weball summary (cycles 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+total-raised: $5.6M
+career-total-source: FEC weball summary (cycles 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

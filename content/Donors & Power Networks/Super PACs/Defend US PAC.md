@@ -10,9 +10,9 @@ source-tier: 1
 aliases:
   - DEFEND US PAC
 known-gaps:
-  - "No lobbying disclosure data"
+  - No lobbying disclosure data
 related: "[[Markwayne Mullin]]"
-politicians-funded: "[[Markwayne Mullin]], [[Mike Carey]], [[Catherine Cortez Masto]]"
+politicians-funded: "[[Markwayne Mullin]], [[Mike Carey]], [[Catherine Cortez Masto]], [[FEC COMPLIANCE GROUP, LLC]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -21,7 +21,7 @@ total-raised: 100000
 total-spent: 124462
 cash-on-hand: 48898
 individual-contributions: 100000
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 source-types:
   - FEC
 ---

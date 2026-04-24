@@ -1,47 +1,48 @@
 ---
-title: "Ben Ray Lujan"
+title: Ben Ray Lujan
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "Senate"
-state: "New Mexico"
-state-abbr: "NM"
-bioguide-id: "L000570"
+party: Democrat
+chamber: Senate
+state: New Mexico
+state-abbr: NM
+bioguide-id: L000570
 govtrack-id: 412293
 born: "1972-06-07"
-wikidata-id: "Q324256"
-website: "https://www.lujan.senate.gov"
-phone: "202-224-6621"
+wikidata-id: Q324256
+website: https://www.lujan.senate.gov
+phone: 202-224-6621
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 73
 bills-cosponsored: 450
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Conservation, Forestry, Natural Resources, and Biotechnology"
-  - "Consumer Protection, Technology, and Data Privacy"
-  - "Energy, Natural Resources, and Infrastructure"
-  - "Food and Nutrition, Specialty Crops, Organics, and Research"
+  - Conservation, Forestry, Natural Resources, and Biotechnology
+  - Consumer Protection, Technology, and Data Privacy
+  - Energy, Natural Resources, and Infrastructure
+  - Food and Nutrition, Specialty Crops, Organics, and Research
   - Health Care
-  - "Rural Development, Energy, and Credit"
-  - "Senate Committee on Agriculture, Nutrition, and Forestry"
-  - "Senate Committee on Commerce, Science, and Transportation"
+  - Rural Development, Energy, and Credit
+  - Senate Committee on Agriculture, Nutrition, and Forestry
+  - Senate Committee on Commerce, Science, and Transportation
   - Senate Committee on Finance
   - Senate Committee on Indian Affairs
   - Senate Committee on the Budget
-  - "Surface Transportation, Freight, Pipelines, and Safety"
+  - Surface Transportation, Freight, Pipelines, and Safety
   - Taxation and IRS Oversight
   - Telecommunications and Media
   - United States Senate Caucus on International Narcotics Control
+top-donors: "[[Ben Ray Lujan]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Frank Pallone]], [[Amgen Inc]], [[Humana]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Southern Company]], [[AbbVie]], [[Richard Neal]], [[CVS Health - Aetna]], [[BARRAGAN FOR CONGRESS]], [[Julian Castro]], [[American College of Radiology Association PAC]], [[Meta - Facebook]], [[Akin Gump Strauss Hauer & Feld]], [[Bechtel Corporation]], [[Sierra Club Political Committee]], [[John B. Larson]], [[AFL-CIO]], [[MARK KELLY FOR SENATE]], [[Occidental Petroleum]], [[Giffords PAC]], [[Let America Vote PAC]], [[STAND WITH SANCHEZ]], [[National Education Association]], [[McDonalds Corporation]], [[Indivisible Action]], [[Planned Parenthood Action Fund INC]], [[James E. Clyburn]], [[Google - Alphabet]], [[Rahm Emanuel]], [[Marcy Kaptur]], [[National Restaurant Association]], [[Teresa Leger Fernandez]], [[J Street]], [[Pfizer Inc.]], [[Henry Cuellar]], [[League of Conservation Voters]], [[Ro Khanna]], [[CoreCivic]], [[American Gaming Association]], [[JULIA BROWNLEY FOR CONGRESS]], [[VERONICA ESCOBAR FOR CONGRESS]], [[GEO Group - Private Prison Industrial Complex]], [[Democratic Senatorial Campaign Committee]], [[Raul Grijalva]], [[CASTRO FOR CONGRESS]], [[NRA Political Victory Fund]], [[DEBBIE WASSERMAN SCHULTZ FOR CONGRESS]], [[Williams Companies]], [[NANCY PELOSI FOR CONGRESS]], [[National Association of Realtors]], [[Gilead Sciences]], [[VICENTE GONZALEZ FOR CONGRESS]], [[Xavier Becerra]], [[Marc A. Veasey]], [[Associated General Contractors of America Political Action Committee]], [[Environment America INC]], [[PAUL TONKO FOR CONGRESS]], [[JUDY CHU FOR CONGRESS]], [[PETE AGUILAR FOR CONGRESS]], [[Bradley Scott Schneider]], [[DEB HAALAND FOR CONGRESS]], [[Steny H. Hoyer]], [[Bennie Thompson]]"
 ---
 
 

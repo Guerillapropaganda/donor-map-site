@@ -1,41 +1,42 @@
 ---
-title: "John W. Rose"
+title: John W. Rose
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Tennessee"
-state-abbr: "TN"
+party: Republican
+chamber: House
+state: Tennessee
+state-abbr: TN
 district: "6"
-bioguide-id: "R000612"
+bioguide-id: R000612
 govtrack-id: 412818
 born: "1965-02-23"
-wikidata-id: "Q33044040"
-website: "https://johnrose.house.gov"
-phone: "202-225-4231"
+wikidata-id: Q33044040
+website: https://johnrose.house.gov
+phone: 202-225-4231
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 13
 bills-cosponsored: 219
 bills-enacted: 0
-top-policy-area: "Finance and Financial Sector"
-last-enriched: 2026-04-21
+top-policy-area: Finance and Financial Sector
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Commodity Markets, Digital Assets, and Rural Development"
-  - "Conservation, Research, and Biotechnology"
-  - "Digital Assets, Financial Technology, and Artificial Intelligence"
+  - Commodity Markets, Digital Assets, and Rural Development
+  - Conservation, Research, and Biotechnology
+  - Digital Assets, Financial Technology, and Artificial Intelligence
   - Financial Institutions
-  - "General Farm Commodities, Risk Management, and Credit"
+  - General Farm Commodities, Risk Management, and Credit
   - House Committee on Agriculture
   - House Committee on Financial Services
   - Housing and Insurance
+top-donors: "[[John W. Rose]], [[NRA Political Victory Fund]], [[National Restaurant Association]], [[Associated General Contractors of America Political Action Committee]], [[Darin Lahood]], [[National Right to Life PAC]], [[TEXANS FOR JODEY ARRINGTON]], [[National Cattlemen's Beef Association]], [[Steve Scalise]], [[CoreCivic]], [[William R. Timmons]], [[Pfizer Inc.]], [[Frank Lucas]], [[National Right to Life Victory Fund]], [[Koch Industries]], [[AIPAC - American Israel Public Affairs Committee]], [[Anthem - Elevance Health Political Operation]], [[Kevin McCarthy]], [[AbbVie]], [[JOE WILSON FOR CONGRESS]]"
 ---
 
 

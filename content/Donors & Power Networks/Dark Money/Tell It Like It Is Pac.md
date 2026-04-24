@@ -14,7 +14,7 @@ ofac-sdn-match: "true"
 last-enriched: "2026-04-15"
 ofac-programs:
   - RUSSIA-EO14024
-politicians-funded: "[[Chris Christie]], [[Donald Trump]]"
+politicians-funded: "[[Chris Christie]], [[Donald Trump]], [[TARGET POINT CONSULTING, INC.]], [[VOGEL, HOLTZMAN]], [[COMELLA & CO, LLC]], [[OVERLAND MEDIA LLC]], [[MELANGE ENTERPRISES LTD.]], [[PURPURO, LAWRENCE J]], [[BRUNSWICK STRATEGIES]], [[National Republican Senatorial Committee]], [[HOLTZMAN VOGEL]], [[AM STRATEGY GROUP]], [[ILLUMINATE RESEARCH, LLC]], [[BLACK ROCK GROUP]], [[FULL HOUSE EVENTS LLC]], [[BELLWETHER RESEARCH & CONSULTING]], [[HARBOR COMPLIANCE SERVICES]], [[POLITICOIN]], [[MALLOY EVENTS]], [[TELE-TOWN HALL LLC]], [[DEEP ROOT ANALYTICS LLC]], [[1735 GROUP LLC]], [[KETCH LLC]], [[CLARKE & SAMPSON INC.]], [[CLARKE & SAMPSON, INC.]], [[RMGSGR, LLC]], [[STRATEGIC PARTNERS & MEDIA LLC]], [[CBC STRATEGIES LLC]], [[LANNON, MOLLY]], [[OPINION INSIGHT, LLC]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -27,7 +27,7 @@ related: "[[Chris Christie]]"
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
+  - No lobbying disclosure data
 ---
 
 

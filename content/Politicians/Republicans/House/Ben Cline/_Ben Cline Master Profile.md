@@ -18,27 +18,27 @@ phone: 202-225-5431
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 14
 bills-cosponsored: 333
 bills-enacted: 0
 top-policy-area: Crime and Law Enforcement
-top-donors: "[[Apple]], [[Goldman Sachs]], [[NRCC - National Republican Congressional Committee]], [[Verizon]], [[American Gaming Association]], [[iHeartMedia]], [[ADM - Archer Daniels Midland]], [[Leidos]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[Bechtel Corporation]], [[FTX - Sam Bankman-Fried]]"
-last-enriched: 2026-04-21
+top-donors: "[[Apple]], [[Goldman Sachs]], [[NRCC - National Republican Congressional Committee]], [[Verizon]], [[American Gaming Association]], [[iHeartMedia]], [[ADM - Archer Daniels Midland]], [[Leidos]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[Bechtel Corporation]], [[FTX - Sam Bankman-Fried]], [[Tyson Foods]], [[Pfizer Inc.]], [[JOE WILSON FOR CONGRESS]], [[Family Research Council Action Political Action Committee]], [[TEXANS FOR JODEY ARRINGTON]], [[MCCAUL FOR CONGRESS, INC]], [[Steve Scalise]], [[National Cattlemen's Beef Association]], [[BYRON DONALDS FOR CONGRESS]], [[Associated General Contractors of America Political Action Committee]], [[NRA Political Victory Fund]], [[Steve Womack]], [[Dan Newhouse]], [[William R. Timmons]], [[Meta - Facebook]], [[AIPAC - American Israel Public Affairs Committee]], [[Koch Industries]], [[Google - Alphabet]], [[JIM JORDAN FOR CONGRESS]], [[JASON SMITH FOR CONGRESS]], [[FRIENDS OF MATT GAETZ]], [[Conservative Leadership PAC]], [[Cargill]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[RON ESTES FOR CONGRESS]], [[Kevin McCarthy]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies"
-  - "Commerce, Justice, Science, and Related Agencies"
-  - "Courts, Intellectual Property, Artificial Intelligence, and the Internet"
+  - Agriculture, Rural Development, Food and Drug Administration, and Related Agencies
+  - Commerce, Justice, Science, and Related Agencies
+  - Courts, Intellectual Property, Artificial Intelligence, and the Internet
   - Defense Intelligence and Overhead Architecture
   - House Committee on Appropriations
   - House Committee on the Budget
   - House Committee on the Judiciary
   - House Permanent Select Committee on Intelligence
   - National Security Agency and Cyber
-  - "The Administrative State, Regulatory Reform, and Antitrust"
+  - The Administrative State, Regulatory Reform, and Antitrust
 ---
 
 

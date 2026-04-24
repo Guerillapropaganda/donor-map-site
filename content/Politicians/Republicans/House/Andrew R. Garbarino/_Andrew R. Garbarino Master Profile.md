@@ -1,32 +1,32 @@
 ---
-title: "Andrew R. Garbarino"
+title: Andrew R. Garbarino
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "New York"
-state-abbr: "NY"
+party: Republican
+chamber: House
+state: New York
+state-abbr: NY
 district: "2"
-bioguide-id: "G000597"
+bioguide-id: G000597
 govtrack-id: 456836
 born: "1984-09-27"
-wikidata-id: "Q21257859"
-website: "https://garbarino.house.gov"
-phone: "202-225-7896"
+wikidata-id: Q21257859
+website: https://garbarino.house.gov
+phone: 202-225-7896
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 38
 bills-cosponsored: 340
 bills-enacted: 1
-top-policy-area: "International Affairs"
-last-enriched: 2026-04-21
+top-policy-area: International Affairs
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Capital Markets
   - House Committee on Ethics
@@ -34,6 +34,7 @@ committees:
   - House Committee on Homeland Security
   - Housing and Insurance
   - Oversight and Investigations
+top-donors: "[[Pfizer Inc.]], [[Tom Emmer]], [[National Association of Manufacturers]], [[JAKE ELLZEY FOR CONGRESS]], [[Amgen Inc]], [[HAGEMAN FOR WYOMING]], [[CLYDE FOR CONGRESS, INC.]], [[BURCHETT FOR CONGRESS]], [[Kevin McCarthy]], [[Associated General Contractors of America Political Action Committee]], [[AIPAC - American Israel Public Affairs Committee]], [[Southern Company]], [[Leidos]], [[Elise Stefanik]], [[American Gaming Association]], [[Guy Reschenthaler]], [[Defending Main Street Superpac INC]], [[Google - Alphabet]], [[ADRIAN SMITH FOR CONGRESS]], [[FISCHBACH FOR CONGRESS]], [[GEO Group - Private Prison Industrial Complex]], [[Mariannette Miller-Meeks]], [[Williams Companies]], [[National Restaurant Association]], [[Glenn Thompson]], [[Steve Scalise]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[AFL-CIO]], [[TEXANS FOR JODEY ARRINGTON]], [[JASON SMITH FOR CONGRESS]], [[AbbVie]], [[Daniel Meuser]], [[MOORE FOR WEST VIRGINIA, INC.]], [[CVS Health - Aetna]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Right to Life Victory Fund]], [[Coinbase]], [[VICTORIA SPARTZ FOR CONGRESS]], [[ANDY HARRIS FOR CONGRESS]], [[CLAUDIA TENNEY FOR CONGRESS]], [[RON ESTES FOR CONGRESS]], [[CoreCivic]], [[Republican Jewish Coalition]], [[Brett Guthrie]], [[Carol D. Miller]], [[Koch Industries]], [[BEN CLINE FOR CONGRESS, INC.]], [[Mark E. Amodei]], [[GARY PALMER FOR CONGRESS]], [[BYRON DONALDS FOR CONGRESS]], [[Airbnb]], [[Mike Johnson]], [[VERN BUCHANAN FOR CONGRESS]], [[National Education Association]], [[LOUDERMILK FOR CONGRESS]], [[Frank Lucas]], [[CLIFF BENTZ FOR CONGRESS]], [[WEBER FOR CONGRESS]], [[William R. Timmons]], [[John W. Rose]], [[American Principles Fund]], [[Rick Crawford]], [[DAVID ROUZER FOR CONGRESS]], [[BOST, MICHAEL]], [[Meta - Facebook]], [[ROBERT ADERHOLT FOR CONGRESS]]"
 ---
 
 

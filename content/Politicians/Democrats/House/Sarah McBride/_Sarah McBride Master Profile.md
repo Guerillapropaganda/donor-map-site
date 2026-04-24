@@ -20,19 +20,19 @@ source-types:
   - FEC
   - GovTrack
 known-gaps:
-  - "No mapped relationships"
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4DE00045
-top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[SEIU COPE]], [[NEA Fund for Children and Public Education]], [[EQUALITY PROJECT PAC]], [[Sierra Club Independent Action]], [[Nancy Pelosi]], [[Medicare for All - The Policy That Broke the Party]], [[Congressional Progressive Caucus PAC]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Sierra Club Political Committee]], [[American Federation of State County & Municipal Employees P E O P L E]], [[League of Conservation Voters]], [[Teamsters - International Brotherhood of Teamsters]], [[IBEW - International Brotherhood of Electrical Workers]], [[Citigroup]], [[Northrop Grumman]], [[Emily's List]], [[American Chemistry Council, INC]], [[National Association of Realtors]], [[Comcast - NBCUniversal]], [[Bank of America]], [[American Hospital Association PAC]], [[Mark Takano]], [[Progressive Turnout Project]], [[Everytown for Gun Safety]], [[Ted Lieu]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Restaurant Association]], [[Lockheed Martin]], [[J Street]], [[Anthem - Elevance Health]], [[Google - Alphabet]], [[DMFI - Democratic Majority for Israel]], [[Walmart - Walton Family]], [[Robert Garcia]], [[Gilead Sciences]], [[Let America Vote PAC]], [[Protect Progress]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Equality Project PAC]]"
-last-enriched: 2026-04-21
+top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[SEIU COPE]], [[NEA Fund for Children and Public Education]], [[EQUALITY PROJECT PAC]], [[Sierra Club Independent Action]], [[Nancy Pelosi]], [[Medicare for All - The Policy That Broke the Party]], [[Congressional Progressive Caucus PAC]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Sierra Club Political Committee]], [[American Federation of State County & Municipal Employees P E O P L E]], [[League of Conservation Voters]], [[Teamsters - International Brotherhood of Teamsters]], [[IBEW - International Brotherhood of Electrical Workers]], [[Citigroup]], [[Northrop Grumman]], [[Emily's List]], [[American Chemistry Council, INC]], [[National Association of Realtors]], [[Comcast - NBCUniversal]], [[Bank of America]], [[American Hospital Association PAC]], [[Mark Takano]], [[Progressive Turnout Project]], [[Everytown for Gun Safety]], [[Ted Lieu]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Restaurant Association]], [[Lockheed Martin]], [[J Street]], [[Anthem - Elevance Health]], [[Google - Alphabet]], [[DMFI - Democratic Majority for Israel]], [[Walmart - Walton Family]], [[Robert Garcia]], [[Gilead Sciences]], [[Let America Vote PAC]], [[Protect Progress]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Equality Project PAC]], [[ROBERT GARCIA FOR CONGRESS]], [[Robin L. Kelly]], [[TED LIEU FOR CONGRESS]], [[National Education Association]], [[Hakeem Jeffries]], [[MARK TAKANO FOR CONGRESS]], [[MEDICARE FOR ALL]], [[Johnny Olszewski]], [[NANCY PELOSI FOR CONGRESS]], [[Bradley Scott Schneider]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Europe
   - House Committee on Foreign Affairs
-  - "House Committee on Science, Space, and Technology"
+  - House Committee on Science, Space, and Technology
   - Oversight and Intelligence
   - Research and Technology
-total-raised: "$8.0M"
-career-total-source: "FEC weball summary (cycles 2024, 2026)"
+total-raised: $8.0M
+career-total-source: FEC weball summary (cycles 2024, 2026)
 bills-sponsored: 7
 corroboration-count: 3
 ---

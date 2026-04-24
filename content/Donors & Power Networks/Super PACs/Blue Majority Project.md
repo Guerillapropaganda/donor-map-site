@@ -5,14 +5,14 @@ content-readiness: data-complete
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00897363
 aliases:
   - BLUE MAJORITY PROJECT
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Angie Craig]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Angie Craig]], [[Haley M. Stevens]]"
 related: "[[Angie Craig]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -24,7 +24,7 @@ cash-on-hand: 80098
 independent-expenditures: 100777
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

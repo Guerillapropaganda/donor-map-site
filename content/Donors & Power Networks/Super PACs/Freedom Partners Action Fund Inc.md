@@ -5,14 +5,14 @@ content-readiness: data-complete
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00564765
 aliases:
   - FREEDOM PARTNERS ACTION FUND INC
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Jeff Merkley]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Jeff Merkley]], [[POSTAGE FOR DIRECT MAIL FUNDRAISING LLC]], [[USI INSURANCES SERVICES LLC]], [[ZMD LLC]], [[JONES DAY]], [[I360]], [[APUS MEDIA INC.]], [[FP1 STRATEGIES LLC]], [[PLANET DIRECT]], [[ENGAGE]], [[Freedom Partners Chamber of Commerce]], [[INNOVATIVE ADVERTISING LLC]], [[Direct Selling Empowers Americans]], [[BIGEYE DIRECT]], [[THINKFILM INC.]], [[SANDLER-INNOCENZI INC.]], [[JAMESTOWN ASSOCIATES LLC]], [[Kevin McCarthy]], [[Wells Fargo]], [[LUNTZ GLOBAL PARTNERS LLC]], [[USI INSURANCE SERVICES NATL]], [[POOLHOUSE]], [[IN PURSUIT OF]], [[BB&T MERCHANT SERVICES]], [[MAXIMUM COMPLIANCE LLC]], [[Joni Ernst]], [[Bill Cassidy]], [[Ron Johnson]], [[Tom Cotton]], [[Dan Sullivan]], [[Thom Tillis]]"
 related: "[[Jeff Merkley]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -22,9 +22,9 @@ total-spent: 6474000
 contributions-to-committees: 6481745
 source-types:
   - FEC
-last-enriched: 2026-04-21
-total-political-spend: "$16.3M"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2014, 2016"
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $16.3M
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2014, 2016
 ---
 
 

@@ -2,7 +2,7 @@
 title: Cindy Hyde-Smith
 type: politician
 content-readiness: draft
-last-updated: 2026-04-19
+last-updated: 2026-04-19T00:00:00.000Z
 source-tier: 1
 party: Republican
 chamber: Senate
@@ -23,33 +23,33 @@ known-gaps:
   - Remember Mississippi PAC (2018 controversy opposition vehicle) not yet documented in vault
 central-thesis: "Cindy Hyde-Smith is the Mississippi agricultural senator whose direct PAC donor map is the most constituency-specific in the Republican Senate cohort: Cotton Council ($34K/13 txns), USA Rice Federation ($34K/14 txns), National Cattlemen's Beef ($45K/10 txns), Farm Credit Council ($33K/15 txns), Bank of Mississippi ($33K/7 txns), Beer Wholesalers ($35K/8 txns). The NAR Congressional Fund's $923K as the dominant FOR super-PAC spender is the one major non-constituency relationship: Realtors spending at near-Senate-record levels for a Mississippi Agriculture Committee senator."
 editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
-donors: "[[CA Farm Bureau Federation]], [[AIPAC - American Israel Public Affairs Committee]], [[Northrop Grumman]], [[National Cattlemen's Beef Association]], [[Lockheed Martin]], [[CoreCivic - Private Prisons]], [[American Gaming Association]], [[MAJORITY PAC]], [[Really American Pac]], [[Gilead Sciences]], [[National Rifle Association]], [[American Hospital Association PAC]], [[NRSC - National Republican Senatorial Committee]], [[American Chemistry Council, INC]], [[WinRed]], [[General Motors]], [[Honeywell]], [[VIEW PAC - Value in Electing Women]], [[Leidos]], [[Planned Parenthood Votes]], [[Common Sense for America PAC]], [[Raytheon (RTX)]], [[National Multifamily Housing Council]], [[Tyson Foods]], [[National Association of Realtors]], [[General Dynamics]], [[Chevron]], [[Majority PAC]], [[Honeywell International]]"
+donors: "[[CA Farm Bureau Federation]], [[AIPAC - American Israel Public Affairs Committee]], [[Northrop Grumman]], [[National Cattlemen's Beef Association]], [[Lockheed Martin]], [[CoreCivic - Private Prisons]], [[American Gaming Association]], [[MAJORITY PAC]], [[Really American Pac]], [[Gilead Sciences]], [[National Rifle Association]], [[American Hospital Association PAC]], [[NRSC - National Republican Senatorial Committee]], [[American Chemistry Council, INC]], [[WinRed]], [[General Motors]], [[Honeywell]], [[VIEW PAC - Value in Electing Women]], [[Leidos]], [[Planned Parenthood Votes]], [[Common Sense for America PAC]], [[Raytheon (RTX)]], [[National Multifamily Housing Council]], [[Tyson Foods]], [[National Association of Realtors]], [[General Dynamics]], [[Chevron]], [[Majority PAC]], [[Honeywell International]], [[National Republican Senatorial Committee]], [[Raytheon (RTX Corporation)]], [[Americas Pac]], [[Nucor Corporation]], [[CoreCivic]], [[National Restaurant Association]], [[Pfizer Inc.]], [[Stars and Stripes Forever PAC]], [[NRA Political Victory Fund]], [[National Right to Life Victory Fund]], [[Meta - Facebook]], [[Associated General Contractors of America Political Action Committee]], [[Amgen Inc]], [[Mississippi Republican Party]], [[ADM - Archer Daniels Midland]], [[Women Speak Out Pac]], [[COTTON, THOMAS]], [[Koch Industries]], [[National Right to Life PAC]], [[Republican Jewish Coalition]], [[Monsanto - Bayer]], [[Akin Gump Strauss Hauer & Feld]], [[Google - Alphabet]], [[Wfw Action Fund, Inc.]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: S8MS00261
 bills-sponsored: 30
 bills-cosponsored: 404
 bills-enacted: 0
 top-policy-area: Health
-last-enriched: 2026-04-20
+last-enriched: 2026-04-20T00:00:00.000Z
 committees:
-  - "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies"
-  - "Commodities, Derivatives, Risk Management, and Trade"
-  - "Conservation, Forestry, Natural Resources, and Biotechnology"
+  - Agriculture, Rural Development, Food and Drug Administration, and Related Agencies
+  - Commodities, Derivatives, Risk Management, and Trade
+  - Conservation, Forestry, Natural Resources, and Biotechnology
   - Department of Homeland Security
-  - "Departments of Labor, Health and Human Services, and Education, and Related Agencies"
+  - Departments of Labor, Health and Human Services, and Education, and Related Agencies
   - Energy
   - Energy and Water Development
   - Joint Committee of Congress on the Library
-  - "Livestock, Dairy, Poultry, and Food Safety"
-  - "Military Construction, Veterans Affairs, and Related Agencies"
-  - "Public Lands, Forests, and Mining"
-  - "Senate Committee on Agriculture, Nutrition, and Forestry"
+  - Livestock, Dairy, Poultry, and Food Safety
+  - Military Construction, Veterans Affairs, and Related Agencies
+  - Public Lands, Forests, and Mining
+  - Senate Committee on Agriculture, Nutrition, and Forestry
   - Senate Committee on Appropriations
   - Senate Committee on Energy and Natural Resources
   - Senate Committee on Rules and Administration
-  - "Transportation, Housing and Urban Development, and Related Agencies"
-total-raised: "$14.0M"
-career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
+  - Transportation, Housing and Urban Development, and Related Agencies
+total-raised: $14.0M
+career-total-source: FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)
 ---
 
 

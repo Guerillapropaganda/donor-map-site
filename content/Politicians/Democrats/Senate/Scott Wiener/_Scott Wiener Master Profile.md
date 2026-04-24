@@ -18,15 +18,15 @@ total-received: $2,785,989
 fec-candidate-id: H8CA11116
 related: "[[National Multifamily Housing Council]] · [[Real Estate Donors]]"
 urls-first-triaged: "2026-04-15"
-top-donors: "[[United Food and Commercial Workers International Union Active Ballot Club]], [[Meta - Facebook]], [[Microsoft]], [[Anthropic]], [[Uber]], [[Google - Alphabet]], [[Apple]], [[Verizon]], [[Founders Fund]], [[SpaceX]], [[AT&T]], [[Ripple]], [[Palantir Technologies]], [[Tesla - Elon Musk Political Operation]], [[Airbnb]], [[OpenAI]], [[PG&E - Pacific Gas and Electric]], [[Charles Schwab]], [[JPMorgan Chase]]"
+top-donors: "[[United Food and Commercial Workers International Union Active Ballot Club]], [[Meta - Facebook]], [[Microsoft]], [[Anthropic]], [[Uber]], [[Google - Alphabet]], [[Apple]], [[Verizon]], [[Founders Fund]], [[SpaceX]], [[AT&T]], [[Ripple]], [[Palantir Technologies]], [[Tesla - Elon Musk Political Operation]], [[Airbnb]], [[OpenAI]], [[PG&E - Pacific Gas and Electric]], [[Charles Schwab]], [[JPMorgan Chase]], [[Alice B Toklas LGBT Democratic Vote]]"
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-last-enriched: 2026-04-21
-total-raised: "$3.5M"
-career-total-source: "FEC weball summary (cycles 2026)"
+  - No FEC contribution data
+  - No voting record data
+last-enriched: 2026-04-21T00:00:00.000Z
+total-raised: $3.5M
+career-total-source: FEC weball summary (cycles 2026)
 ---
 
 

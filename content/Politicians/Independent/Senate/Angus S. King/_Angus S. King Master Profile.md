@@ -1,44 +1,45 @@
 ---
-title: "Angus S. King"
+title: Angus S. King
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Independent"
-chamber: "Senate"
-state: "Maine"
-state-abbr: "ME"
-bioguide-id: "K000383"
+party: Independent
+chamber: Senate
+state: Maine
+state-abbr: ME
+bioguide-id: K000383
 govtrack-id: 412545
 born: "1944-03-31"
-wikidata-id: "Q544464"
-website: "https://www.king.senate.gov"
-phone: "202-224-5344"
+wikidata-id: Q544464
+website: https://www.king.senate.gov
+phone: 202-224-5344
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 stock-trades: 8
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 54
 bills-cosponsored: 490
 bills-enacted: 1
-top-policy-area: "Armed Forces and National Security"
-last-enriched: 2026-04-20
+top-policy-area: Armed Forces and National Security
+last-enriched: 2026-04-20T00:00:00.000Z
 committees:
   - Airland
   - Energy
   - National Parks
-  - "Public Lands, Forests, and Mining"
+  - Public Lands, Forests, and Mining
   - Seapower
   - Senate Committee on Armed Services
   - Senate Committee on Energy and Natural Resources
-  - "Senate Committee on Veterans' Affairs"
+  - Senate Committee on Veterans' Affairs
   - Senate Select Committee on Intelligence
   - Strategic Forces
+top-donors: "[[Meta - Facebook]], [[National Restaurant Association]], [[Giffords PAC]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[McDonalds Corporation]], [[Sierra Club Political Committee]], [[Palantir Technologies]], [[League of Conservation Voters]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[WARREN FOR SENATE, INC.]], [[National Wildlife Federation Action Fund]], [[AbbVie]], [[Southern Company]], [[National Committee to Preserve Social Security & Medicare PAC]], [[National Education Association]], [[AIPAC - American Israel Public Affairs Committee]], [[Planned Parenthood Action Fund INC]], [[Akin Gump Strauss Hauer & Feld]], [[Leidos]], [[Sierra Club Independent Action]], [[Let America Vote PAC]], [[J Street]], [[Google - Alphabet]], [[Humana]], [[Tyson Foods]], [[American College of Radiology Association PAC]], [[DoorDash]]"
 ---
 
 

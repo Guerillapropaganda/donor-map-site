@@ -25,7 +25,7 @@ issues:
 total-received: $1,848,430
 fec-candidate-id: H4AR04048
 related: "[[Raul Grijalva]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch|Koch Network]]"
-donors: "[[American Petroleum Institute]] · [[National Cattlemen's Beef Association]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]] · [[CITIZENS FOR RESPONSIBLE ENERGY SOLUTIONS INC.]] · [[AMERICAN CONSERVATIVE UNION]] · [[THE DISABLED VETERANS COALITION PAC]] · [[The Disabled Veterans Coalition PAC]] · [[Citizens for Responsible Energy Solutions Inc.]] · [[American Conservative Union]] · [[Halliburton]] · [[Jason Smith]] · [[Associated General Contractors of America Political Action Committee]] · [[General Dynamics]] · [[Save America PAC]] · [[AT&T - WarnerMedia]] · [[L3Harris Technologies]] · [[PG&E - Pacific Gas and Electric]] · [[General Motors]] · [[Microsoft]] · [[Valero Energy]] · [[Hunter Action Fund (haf)]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Honeywell]] · [[McDonalds Corporation]] · [[National Rifle Association]] · [[Lockheed Martin]] · [[Comcast - NBCUniversal]] · [[Raytheon (RTX)]] · [[National Association of Realtors]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[NextEra Energy]] · [[Performance Racing Inc.]] · [[Nucor Corporation]] · [[Alliance Coal, LLC PAC]] · [[National Association of Manufacturers]] · [[Occidental Petroleum]] · [[Devon Energy]] · [[Tyson Foods]] · [[Google - Alphabet]] · [[David Rouzer]] · [[Leidos]] · [[Anthem - Elevance Health]] · [[Marathon Petroleum]] · [[Republican Jewish Coalition]] · [[ConocoPhillips]] · [[WinRed]] · [[Chevron]] · [[MAJORITY PAC]] · [[American Chemistry Council, INC]] · [[Walmart - Walton Family]] · [[Jim Jordan]] · [[August Pfluger]] · [[AT&T]] · [[Honeywell International]] · [[National Right to Life PAC]] · [[Majority PAC]]"
+donors: "[[American Petroleum Institute]] · [[National Cattlemen's Beef Association]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]] · [[CITIZENS FOR RESPONSIBLE ENERGY SOLUTIONS INC.]] · [[AMERICAN CONSERVATIVE UNION]] · [[THE DISABLED VETERANS COALITION PAC]] · [[The Disabled Veterans Coalition PAC]] · [[Citizens for Responsible Energy Solutions Inc.]] · [[American Conservative Union]] · [[Halliburton]] · [[Jason Smith]] · [[Associated General Contractors of America Political Action Committee]] · [[General Dynamics]] · [[Save America PAC]] · [[AT&T - WarnerMedia]] · [[L3Harris Technologies]] · [[PG&E - Pacific Gas and Electric]] · [[General Motors]] · [[Microsoft]] · [[Valero Energy]] · [[Hunter Action Fund (haf)]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Honeywell]] · [[McDonalds Corporation]] · [[National Rifle Association]] · [[Lockheed Martin]] · [[Comcast - NBCUniversal]] · [[Raytheon (RTX)]] · [[National Association of Realtors]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[NextEra Energy]] · [[Performance Racing Inc.]] · [[Nucor Corporation]] · [[Alliance Coal, LLC PAC]] · [[National Association of Manufacturers]] · [[Occidental Petroleum]] · [[Devon Energy]] · [[Tyson Foods]] · [[Google - Alphabet]] · [[David Rouzer]] · [[Leidos]] · [[Anthem - Elevance Health]] · [[Marathon Petroleum]] · [[Republican Jewish Coalition]] · [[ConocoPhillips]] · [[WinRed]] · [[Chevron]] · [[MAJORITY PAC]] · [[American Chemistry Council, INC]] · [[Walmart - Walton Family]] · [[Jim Jordan]] · [[August Pfluger]] · [[AT&T]] · [[Honeywell International]] · [[National Right to Life PAC]] · [[Majority PAC]] · [[Raytheon (RTX Corporation)]] · [[Akin Gump Strauss Hauer & Feld]] · [[Williams Companies]] · [[American College of Radiology Association PAC]] · [[AUGUST PFLUGER FOR CONGRESS]] · [[GARY PALMER FOR CONGRESS]] · [[Koch Industries]] · [[Southern Company]] · [[Russ Fulcher]] · [[NRA Political Victory Fund]] · [[Kevin McCarthy]] · [[ANDY HARRIS FOR CONGRESS]] · [[TEXANS FOR JODEY ARRINGTON]] · [[LOUDERMILK FOR CONGRESS]] · [[DAVID ROUZER FOR CONGRESS]] · [[Steve Scalise]] · [[Paul Ryan]] · [[AUSTIN SCOTT FOR CONGRESS INC]] · [[Meta - Facebook]] · [[Pete Sessions]] · [[American Principles Fund]] · [[Steve Womack]] · [[INVEST IN A STRONG AND SECURE AMERICA]] · [[Richard Hudson]] · [[JASON SMITH FOR CONGRESS]] · [[MULLIN FOR AMERICA]] · [[John Boehner]] · [[Donald Trump]] · [[JIM JORDAN FOR CONGRESS]] · [[National Restaurant Association]] · [[Family Research Council Action Political Action Committee]] · [[Darin Lahood]] · [[Rick Crawford]] · [[National Right to Life Victory Fund]]"
 last-enriched: "2026-04-10"
 needs-reenrichment: true
 reenrich-reason: re-run congress pipeline
@@ -40,17 +40,17 @@ top-policy-area: Health
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
+  - No FEC contribution data
+  - No voting record data
 committees:
   - Highways and Transit
   - House Committee on Natural Resources
   - House Committee on Transportation and Infrastructure
   - Indian and Insular Affairs
-  - "Railroads, Pipelines, and Hazardous Materials"
+  - Railroads, Pipelines, and Hazardous Materials
   - Water Resources and Environment
-total-raised: "$11.7M"
-career-total-source: "FEC weball summary (cycles 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+total-raised: $11.7M
+career-total-source: FEC weball summary (cycles 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

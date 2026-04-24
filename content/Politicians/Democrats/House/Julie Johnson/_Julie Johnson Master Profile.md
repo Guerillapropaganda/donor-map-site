@@ -20,12 +20,12 @@ source-types:
   - FEC
   - GovTrack
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-donors: "[[Western Growers Association]], [[DoorDash]], [[Honeywell]], [[National Association of Realtors]], [[SEIU COPE]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Devon Energy]], [[IBEW - International Brotherhood of Electrical Workers]], [[Gilead Sciences]], [[EQUALITY PROJECT PAC]], [[American Hospital Association PAC]], [[League of Conservation Voters]], [[Sierra Club Independent Action]], [[NEA Fund for Children and Public Education]], [[Lockheed Martin]], [[Chevron]], [[Comcast - NBCUniversal]], [[ConocoPhillips]], [[Human Rights Campaign Equality Votes]], [[Associated General Contractors of America Political Action Committee]], [[Robert Garcia]], [[General Dynamics]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Protect Progress]], [[Mark Takano]], [[American College of Radiology Association PAC]], [[Emily's List]], [[Citigroup]], [[J Street]], [[AIPAC - American Israel Public Affairs Committee]], [[DMFI - Democratic Majority for Israel]], [[Pfizer Inc.]], [[Google - Alphabet]], [[American Federation of State County & Municipal Employees P E O P L E]], [[AT&T - WarnerMedia]], [[Walmart - Walton Family]], [[General Motors]], [[Anthem - Elevance Health]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Amgen Inc]], [[AT&T]], [[Microsoft]], [[Kaiser Permanente]], [[Lyft]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[Centene Corporation]], [[Amazon]], [[CBRE Group]], [[Tenet Healthcare]], [[Oracle]], [[Coinbase]], [[ExxonMobil]], [[Cigna Group]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Equality Project PAC]], [[Honeywell International]]"
+  - No FEC contribution data
+  - No voting record data
+donors: "[[Western Growers Association]], [[DoorDash]], [[Honeywell]], [[National Association of Realtors]], [[SEIU COPE]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Devon Energy]], [[IBEW - International Brotherhood of Electrical Workers]], [[Gilead Sciences]], [[EQUALITY PROJECT PAC]], [[American Hospital Association PAC]], [[League of Conservation Voters]], [[Sierra Club Independent Action]], [[NEA Fund for Children and Public Education]], [[Lockheed Martin]], [[Chevron]], [[Comcast - NBCUniversal]], [[ConocoPhillips]], [[Human Rights Campaign Equality Votes]], [[Associated General Contractors of America Political Action Committee]], [[Robert Garcia]], [[General Dynamics]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Protect Progress]], [[Mark Takano]], [[American College of Radiology Association PAC]], [[Emily's List]], [[Citigroup]], [[J Street]], [[AIPAC - American Israel Public Affairs Committee]], [[DMFI - Democratic Majority for Israel]], [[Pfizer Inc.]], [[Google - Alphabet]], [[American Federation of State County & Municipal Employees P E O P L E]], [[AT&T - WarnerMedia]], [[Walmart - Walton Family]], [[General Motors]], [[Anthem - Elevance Health]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Amgen Inc]], [[AT&T]], [[Microsoft]], [[Kaiser Permanente]], [[Lyft]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[Centene Corporation]], [[Amazon]], [[CBRE Group]], [[Tenet Healthcare]], [[Oracle]], [[Coinbase]], [[ExxonMobil]], [[Cigna Group]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Equality Project PAC]], [[Honeywell International]], [[Bradley Scott Schneider]], [[Robin L. Kelly]], [[Becca Balint]], [[Akin Gump Strauss Hauer & Feld]], [[National Education Association]], [[BARRAGAN FOR CONGRESS]], [[ROBERT GARCIA FOR CONGRESS]], [[LOFGREN FOR CONGRESS]], [[MARK TAKANO FOR CONGRESS]], [[Sarah Elfreth]], [[Sam T. Liccardo]], [[DOGGETT FOR U S CONGRESS COMMITTEE]], [[Texas Beverage Alliance of the TPSA]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4TX32089
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 corroboration-count: 3
 committees:
   - Border Security and Enforcement
@@ -37,8 +37,8 @@ committees:
   - House Committee on House Administration
   - Joint Committee of Congress on the Library
   - South and Central Asia
-total-raised: "$4.1M"
-career-total-source: "FEC weball summary (cycles 2024, 2026)"
+total-raised: $4.1M
+career-total-source: FEC weball summary (cycles 2024, 2026)
 bills-sponsored: 18
 ---
 

@@ -18,17 +18,17 @@ phone: 202-225-6201
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H6IL18088
 bills-sponsored: 37
 bills-cosponsored: 233
 bills-enacted: 0
 top-policy-area: Taxation
-top-donors: "[[Bank of America]], [[Amgen Inc]], [[NextEra Energy]], [[American Hospital Association PAC]], [[Lockheed Martin]], [[Jim Jordan]], [[Citigroup]], [[Walmart - Walton Family]], [[National Association of Manufacturers]], [[Google - Alphabet]], [[National Multifamily Housing Council]], [[Humana]], [[Northrop Grumman]], [[American Gaming Association]], [[Pfizer Inc.]], [[Comcast - NBCUniversal]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Teamsters - International Brotherhood of Teamsters]], [[Gilead Sciences]], [[Honeywell]], [[L3Harris Technologies]], [[McDonalds Corporation]], [[AT&T - WarnerMedia]], [[Palantir]], [[National Restaurant Association]], [[Ford Motor Company]], [[General Dynamics]], [[Chevron]], [[National Cattlemen's Beef Association]], [[ADM - Archer Daniels Midland]], [[Marathon Petroleum]], [[Microsoft]], [[Anthem - Elevance Health]], [[Care Action]], [[National Association of Realtors]], [[CVS Health - Aetna]], [[Morgan Stanley]], [[Duke Energy]], [[Tyson Foods]], [[Johnson & Johnson]], [[American Chemistry Council, INC]], [[WinRed]], [[Jason Smith]], [[MAJORITY PAC]], [[RNC - Republican National Committee]], [[AIPAC - American Israel Public Affairs Committee]], [[PG&E - Pacific Gas and Electric]], [[American College of Radiology Association PAC]], [[Nucor Corporation]], [[Ben Cline]], [[AbbVie]], [[Vern Buchanan]], [[Raytheon (RTX)]], [[UA Political Action Committee]], [[National Rifle Association]], [[General Motors]], [[Associated General Contractors of America Political Action Committee]], [[Tenet Healthcare]], [[Honeywell International]], [[Majority PAC]], [[AT&T]], [[Palantir Technologies]]"
-last-enriched: 2026-04-21
+top-donors: "[[Bank of America]], [[Amgen Inc]], [[NextEra Energy]], [[American Hospital Association PAC]], [[Lockheed Martin]], [[Jim Jordan]], [[Citigroup]], [[Walmart - Walton Family]], [[National Association of Manufacturers]], [[Google - Alphabet]], [[National Multifamily Housing Council]], [[Humana]], [[Northrop Grumman]], [[American Gaming Association]], [[Pfizer Inc.]], [[Comcast - NBCUniversal]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Teamsters - International Brotherhood of Teamsters]], [[Gilead Sciences]], [[Honeywell]], [[L3Harris Technologies]], [[McDonalds Corporation]], [[AT&T - WarnerMedia]], [[Palantir]], [[National Restaurant Association]], [[Ford Motor Company]], [[General Dynamics]], [[Chevron]], [[National Cattlemen's Beef Association]], [[ADM - Archer Daniels Midland]], [[Marathon Petroleum]], [[Microsoft]], [[Anthem - Elevance Health]], [[Care Action]], [[National Association of Realtors]], [[CVS Health - Aetna]], [[Morgan Stanley]], [[Duke Energy]], [[Tyson Foods]], [[Johnson & Johnson]], [[American Chemistry Council, INC]], [[WinRed]], [[Jason Smith]], [[MAJORITY PAC]], [[RNC - Republican National Committee]], [[AIPAC - American Israel Public Affairs Committee]], [[PG&E - Pacific Gas and Electric]], [[American College of Radiology Association PAC]], [[Nucor Corporation]], [[Ben Cline]], [[AbbVie]], [[Vern Buchanan]], [[Raytheon (RTX)]], [[UA Political Action Committee]], [[National Rifle Association]], [[General Motors]], [[Associated General Contractors of America Political Action Committee]], [[Tenet Healthcare]], [[Honeywell International]], [[Majority PAC]], [[AT&T]], [[Palantir Technologies]], [[Raytheon (RTX Corporation)]], [[AFL-CIO]], [[NRA Political Victory Fund]], [[Southern Company]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[Koch Industries]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Akin Gump Strauss Hauer & Feld]], [[JASON SMITH FOR CONGRESS]], [[Williams Companies]], [[Kevin McCarthy]], [[Occidental Petroleum]], [[Meta - Facebook]], [[Steve Scalise]], [[Monsanto - Bayer]], [[VERN BUCHANAN FOR CONGRESS]], [[Paul Ryan]], [[Cargill]], [[TEXANS FOR JODEY ARRINGTON]], [[Richard Hudson]], [[Mike Johnson]], [[BEN CLINE FOR CONGRESS, INC.]], [[JIM JORDAN FOR CONGRESS]], [[Steve Womack]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Central Intelligence Agency
   - House Committee on Ways and Means
@@ -38,8 +38,8 @@ committees:
   - National Security Agency and Cyber
   - Trade
   - Work and Welfare
-total-raised: "$19.1M"
-career-total-source: "FEC weball summary (cycles 2016, 2018, 2020, 2022, 2024, 2026)"
+total-raised: $19.1M
+career-total-source: FEC weball summary (cycles 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

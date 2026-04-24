@@ -18,26 +18,26 @@ phone: 202-225-5905
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2IL17147
 bills-sponsored: 13
 bills-cosponsored: 334
 bills-enacted: 1
 top-policy-area: Health
-top-donors: "[[Pete Aguilar]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[DMFI - Democratic Majority for Israel]], [[ADM - Archer Daniels Midland]], [[CVS Health - Aetna]], [[NRCC - National Republican Congressional Committee]], [[SEIU COPE]], [[Performance Racing Inc.]], [[CHC BOLD PAC]], [[General Dynamics]], [[Progressive Turnout Project]], [[DCCC - Democratic Congressional Campaign Committee]], [[National Association of Realtors]], [[Nancy Pelosi]], [[Microsoft]], [[UA Political Action Committee]], [[Americans for Prosperity]], [[Teamsters - International Brotherhood of Teamsters]], [[Joe Neguse]], [[NEA Fund for Children and Public Education]], [[Giffords PAC]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[AT&T - WarnerMedia]], [[314 ACTION FUND]], [[Human Rights Campaign Equality Votes]], [[Hmp]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Paul Tonko]], [[AIPAC - American Israel Public Affairs Committee]], [[National Committee to Preserve Social Security PAC]], [[J Street]], [[Morgan McGarvey]], [[League of Conservation Voters]], [[Sierra Club Political Committee]], [[Walmart - Walton Family]], [[EQUALITY PROJECT PAC]], [[Sierra Club Independent Action]], [[Jamie Raskin]], [[American Hospital Association PAC]], [[Honeywell]], [[MoveOn.org Political Action]], [[Anthem - Elevance Health]], [[Mark Pocan]], [[National Wildlife Federation Action Fund]], [[Jason Crow]], [[Judy Chu]], [[Sara Jacobs]], [[Robert Garcia]], [[Raytheon (RTX)]], [[Lockheed Martin]], [[L3Harris Technologies]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Let America Vote PAC]], [[IBEW - International Brotherhood of Electrical Workers]], [[Planned Parenthood Action Fund INC]], [[Mark Takano]], [[Coinbase]], [[Julia Brownley]], [[AFL-CIO]], [[Ted Lieu]], [[ENVIRONMENT AMERICA INC]], [[McDonalds Corporation]], [[Fairshake PAC - Crypto Super PAC]], [[Chrissy Houlahan]], [[Everytown for Gun Safety]], [[Congressional Leadership Fund]], [[American Chemistry Council, INC]], [[Northrop Grumman]], [[Citigroup]], [[Tyson Foods]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[314 Action Fund]], [[HMP]], [[Honeywell International]], [[Equality Project PAC]], [[AT&T]], [[Fairshake PAC]], [[Environment America INC]]"
-last-enriched: 2026-04-21
+top-donors: "[[Pete Aguilar]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[DMFI - Democratic Majority for Israel]], [[ADM - Archer Daniels Midland]], [[CVS Health - Aetna]], [[NRCC - National Republican Congressional Committee]], [[SEIU COPE]], [[Performance Racing Inc.]], [[CHC BOLD PAC]], [[General Dynamics]], [[Progressive Turnout Project]], [[DCCC - Democratic Congressional Campaign Committee]], [[National Association of Realtors]], [[Nancy Pelosi]], [[Microsoft]], [[UA Political Action Committee]], [[Americans for Prosperity]], [[Teamsters - International Brotherhood of Teamsters]], [[Joe Neguse]], [[NEA Fund for Children and Public Education]], [[Giffords PAC]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[AT&T - WarnerMedia]], [[314 ACTION FUND]], [[Human Rights Campaign Equality Votes]], [[Hmp]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Paul Tonko]], [[AIPAC - American Israel Public Affairs Committee]], [[National Committee to Preserve Social Security PAC]], [[J Street]], [[Morgan McGarvey]], [[League of Conservation Voters]], [[Sierra Club Political Committee]], [[Walmart - Walton Family]], [[EQUALITY PROJECT PAC]], [[Sierra Club Independent Action]], [[Jamie Raskin]], [[American Hospital Association PAC]], [[Honeywell]], [[MoveOn.org Political Action]], [[Anthem - Elevance Health]], [[Mark Pocan]], [[National Wildlife Federation Action Fund]], [[Jason Crow]], [[Judy Chu]], [[Sara Jacobs]], [[Robert Garcia]], [[Raytheon (RTX)]], [[Lockheed Martin]], [[L3Harris Technologies]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Let America Vote PAC]], [[IBEW - International Brotherhood of Electrical Workers]], [[Planned Parenthood Action Fund INC]], [[Mark Takano]], [[Coinbase]], [[Julia Brownley]], [[AFL-CIO]], [[Ted Lieu]], [[ENVIRONMENT AMERICA INC]], [[McDonalds Corporation]], [[Fairshake PAC - Crypto Super PAC]], [[Chrissy Houlahan]], [[Everytown for Gun Safety]], [[Congressional Leadership Fund]], [[American Chemistry Council, INC]], [[Northrop Grumman]], [[Citigroup]], [[Tyson Foods]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[314 Action Fund]], [[HMP]], [[Honeywell International]], [[Equality Project PAC]], [[AT&T]], [[Fairshake PAC]], [[Environment America INC]], [[Raytheon (RTX Corporation)]], [[JASMINE FOR US]], [[JOE NEGUSE FOR CONGRESS]], [[PETE AGUILAR FOR CONGRESS]], [[Donald S. Beyer]], [[JAMIE RASKIN FOR CONGRESS]], [[MARK POCAN FOR CONGRESS]], [[Robin L. Kelly]], [[HIMES FOR CONGRESS]], [[Janice D. Schakowsky]], [[ROBERT GARCIA FOR CONGRESS]], [[CASTEN FOR CONGRESS]], [[Marc A. Veasey]], [[LORI TRAHAN FOR CONGRESS COMMITTEE]], [[Bradley Scott Schneider]], [[Steny H. Hoyer]], [[JUDY CHU FOR CONGRESS]], [[National Committee to Preserve Social Security & Medicare PAC]], [[CITIZENS TO ELECT RICK LARSEN]], [[James E. Clyburn]], [[National Education Association]], [[PAUL TONKO FOR CONGRESS]], [[CHRISSY HOULAHAN FOR CONGRESS]], [[Hakeem Jeffries]], [[SHERMAN FOR CONGRESS]], [[CHUY GARCIA FOR CONGRESS]], [[Adam Schiff]], [[SHARICE FOR CONGRESS]], [[Lizzie Fletcher]], [[Glenn Ivey]], [[HALEY STEVENS FOR CONGRESS]], [[MORGAN MCGARVEY FOR CONGRESS]], [[GARAMENDI FOR CONGRESS]], [[Kim Schrier]], [[KATHERINE CLARK FOR CONGRESS]], [[Tammy Duckworth]], [[TED LIEU FOR CONGRESS]], [[MARK TAKANO FOR CONGRESS]], [[STRICKLAND FOR WASHINGTON]], [[DEBORAH ROSS FOR CONGRESS]], [[Suzanne Bonamici]], [[LOFGREN FOR CONGRESS]], [[JASON CROW FOR CONGRESS]], [[Maxwell Frost]], [[NANCY PELOSI FOR CONGRESS]], [[MAD 4 PA PAC]], [[JULIA BROWNLEY FOR CONGRESS]], [[Gerry Connolly]], [[SARA JACOBS FOR CONGRESS]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Conservation, Research, and Biotechnology"
-  - "General Farm Commodities, Risk Management, and Credit"
+  - Conservation, Research, and Biotechnology
+  - General Farm Commodities, Risk Management, and Credit
   - House Committee on Agriculture
   - House Committee on Armed Services
   - Readiness
   - Tactical Air and Land Forces
-total-raised: "$10.0M"
-career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
+total-raised: $10.0M
+career-total-source: FEC weball summary (cycles 2022, 2024, 2026)
 ---
 
 

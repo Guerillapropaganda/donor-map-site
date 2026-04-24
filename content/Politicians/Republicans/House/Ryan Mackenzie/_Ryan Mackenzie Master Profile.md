@@ -20,25 +20,25 @@ source-types:
   - FEC
   - GovTrack
 known-gaps:
-  - "No mapped relationships"
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H8PA15195
-top-donors: "[[National Restaurant Association]], [[Mike Haridopolos]], [[National Rifle Association]], [[Troy Downing]], [[Andy Harris]], [[Jim Jordan]], [[NRCC - National Republican Congressional Committee]], [[Jake Ellzey]], [[McDonalds Corporation]], [[Mike Kelly]], [[American Hospital Association PAC]], [[Associated General Contractors of America Political Action Committee]], [[Performance Racing Inc.]], [[General Dynamics]], [[Ben Cline]], [[Darrell Issa]], [[Rick W. Allen]], [[Mark Green]], [[Anthem - Elevance Health]], [[Hmp]], [[Brad Knott]], [[American Chemistry Council, INC]], [[Activate America]], [[Pete Sessions]], [[AIPAC - American Israel Public Affairs Committee]], [[Pennsylvania Pro-Life Federation PAC]], [[Republican Jewish Coalition]], [[Comcast - NBCUniversal]], [[Austin Scott]], [[Congressional Leadership Fund]], [[Americans for Prosperity]], [[Kevin Kiley]], [[Campaign for Working Families]], [[Planned Parenthood Votes]], [[CVS Health - Aetna]], [[Lockheed Martin]], [[Google - Alphabet]], [[Ron Estes]], [[DCCC - Democratic Congressional Campaign Committee]], [[Walmart - Walton Family]], [[Vince Fong]], [[Joe Wilson]], [[DoorDash]], [[David Rouzer]], [[League of Conservation Voters]], [[AFSCME Working Families Fund]], [[National Association of Realtors]], [[Carlos Gimenez]], [[Honeywell]], [[National Right to Life Victory Fund]], [[Emily's List]], [[Cliff Bentz]], [[Honeywell International]], [[HMP]]"
-last-enriched: 2026-04-21
+top-donors: "[[National Restaurant Association]], [[Mike Haridopolos]], [[National Rifle Association]], [[Troy Downing]], [[Andy Harris]], [[Jim Jordan]], [[NRCC - National Republican Congressional Committee]], [[Jake Ellzey]], [[McDonalds Corporation]], [[Mike Kelly]], [[American Hospital Association PAC]], [[Associated General Contractors of America Political Action Committee]], [[Performance Racing Inc.]], [[General Dynamics]], [[Ben Cline]], [[Darrell Issa]], [[Rick W. Allen]], [[Mark Green]], [[Anthem - Elevance Health]], [[Hmp]], [[Brad Knott]], [[American Chemistry Council, INC]], [[Activate America]], [[Pete Sessions]], [[AIPAC - American Israel Public Affairs Committee]], [[Pennsylvania Pro-Life Federation PAC]], [[Republican Jewish Coalition]], [[Comcast - NBCUniversal]], [[Austin Scott]], [[Congressional Leadership Fund]], [[Americans for Prosperity]], [[Kevin Kiley]], [[Campaign for Working Families]], [[Planned Parenthood Votes]], [[CVS Health - Aetna]], [[Lockheed Martin]], [[Google - Alphabet]], [[Ron Estes]], [[DCCC - Democratic Congressional Campaign Committee]], [[Walmart - Walton Family]], [[Vince Fong]], [[Joe Wilson]], [[DoorDash]], [[David Rouzer]], [[League of Conservation Voters]], [[AFSCME Working Families Fund]], [[National Association of Realtors]], [[Carlos Gimenez]], [[Honeywell]], [[National Right to Life Victory Fund]], [[Emily's List]], [[Cliff Bentz]], [[Honeywell International]], [[HMP]], [[Steve Scalise]], [[HOUCHIN FOR CONGRESS]], [[DR. BRIAN BABIN FOR CONGRESS]], [[Dale W. Strong]], [[Koch Industries]], [[BURCHETT FOR CONGRESS]], [[MARK GREEN FOR CONGRESS]], [[DAVE TAYLOR FOR CONGRESS]], [[NRA Political Victory Fund]], [[MIKE HARIDOPOLOS FOR CONGRESS]], [[BRAD KNOTT FOR CONGRESS]], [[Akin Gump Strauss Hauer & Feld]], [[Tim Walberg]], [[Jeff Hurd]], [[Clay Higgins]], [[Brandon Gill]], [[Daniel Meuser]], [[Williams Companies]], [[DAVID ROUZER FOR CONGRESS]], [[FEDORCHAK FOR ND]], [[Mike Johnson]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[Gregory F. Murphy]], [[JAKE ELLZEY FOR CONGRESS]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[RON ESTES FOR CONGRESS]], [[MIKE KENNEDY FOR UTAH]], [[FRY FOR CONGRESS]], [[J. French Hill]], [[Guy Reschenthaler]], [[JIM JORDAN FOR CONGRESS]], [[FRIENDS OF TIM MOORE]], [[Tom Emmer]], [[TROY DOWNING FOR CONGRESS]], [[ROBERT ADERHOLT FOR CONGRESS]], [[Michael Guest]], [[BEN CLINE FOR CONGRESS, INC.]], [[ANDY HARRIS FOR CONGRESS]], [[BOST, MICHAEL]], [[JOE WILSON FOR CONGRESS]], [[Dan Newhouse]], [[PETE SESSIONS FOR CONGRESS]], [[Robert E. Latta]], [[VINCE FONG FOR CONGRESS]], [[CARLOS GIMENEZ FOR CONGRESS]], [[LISA MCCLAIN FOR CONGRESS]], [[Rick Crawford]], [[COMER FOR CONGRESS]], [[WEBER FOR CONGRESS]], [[Jimmy Patronis]], [[KEVIN KILEY FOR CONGRESS]], [[RICK W. ALLEN FOR CONGRESS]], [[Neal P. Dunn]], [[MIKE KELLY FOR CONGRESS]], [[CLIFF BENTZ FOR CONGRESS]], [[Brett Guthrie]], [[Frank Lucas]], [[Elise Stefanik]], [[Robert F. Onder]], [[BRANDON GILL FOR TEXAS]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Counterterrorism and Intelligence
   - Cybersecurity and Infrastructure Protection
-  - "Early Childhood, Elementary, and Secondary Education"
+  - Early Childhood, Elementary, and Secondary Education
   - East Asia and Pacific
   - Emergency Management and Technology
-  - "Health, Employment, Labor, and Pensions"
+  - Health, Employment, Labor, and Pensions
   - House Committee on Education and Workforce
   - House Committee on Foreign Affairs
   - House Committee on Homeland Security
   - Western Hemisphere
   - Workforce Protections
-total-raised: "$5.6M"
-career-total-source: "FEC weball summary (cycles 2018, 2024, 2026)"
+total-raised: $5.6M
+career-total-source: FEC weball summary (cycles 2018, 2024, 2026)
 bills-sponsored: 15
 corroboration-count: 3
 ---

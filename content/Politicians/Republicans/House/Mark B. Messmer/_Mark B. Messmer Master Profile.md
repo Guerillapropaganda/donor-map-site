@@ -1,41 +1,42 @@
 ---
-title: "Mark B. Messmer"
+title: Mark B. Messmer
 type: politician
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Indiana"
-state-abbr: "IN"
+party: Republican
+chamber: House
+state: Indiana
+state-abbr: IN
 district: "8"
-bioguide-id: "M001233"
+bioguide-id: M001233
 govtrack-id: 456989
 born: "1967-12-16"
-wikidata-id: "Q6768869"
-website: "https://messmer.house.gov"
-phone: "202-225-4636"
+wikidata-id: Q6768869
+website: https://messmer.house.gov
+phone: 202-225-4636
 source-types:
   - Congress
   - GovTrack
 known-gaps:
-  - "No FEC contribution data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Commodity Markets, Digital Assets, and Rural Development"
-  - "Conservation, Research, and Biotechnology"
-  - "Early Childhood, Elementary, and Secondary Education"
+  - Commodity Markets, Digital Assets, and Rural Development
+  - Conservation, Research, and Biotechnology
+  - Early Childhood, Elementary, and Secondary Education
   - House Committee on Agriculture
   - House Committee on Armed Services
   - House Committee on Education and Workforce
-  - "Livestock, Dairy, and Poultry"
+  - Livestock, Dairy, and Poultry
   - Readiness
   - Strategic Forces
   - Workforce Protections
 bills-sponsored: 13
 corroboration-count: 2
+top-donors: "[[DAVID ROUZER FOR CONGRESS]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[National Cattlemen's Beef Association]], [[Frank Lucas]], [[Defend American Jobs]], [[Brett Guthrie]], [[Associated General Contractors of America Political Action Committee]], [[Tom Emmer]], [[AIPAC - American Israel Public Affairs Committee]], [[Rudy Yakym]], [[MOORE FOR WEST VIRGINIA, INC.]], [[TROY DOWNING FOR CONGRESS]], [[BRANDON GILL FOR TEXAS]], [[JIM JORDAN FOR CONGRESS]], [[ADM - Archer Daniels Midland]], [[National Restaurant Association]], [[Steve Scalise]], [[Carol D. Miller]], [[NRA Political Victory Fund]], [[Club for Growth INC PAC]], [[David P. Joyce]]"
 ---
 
 

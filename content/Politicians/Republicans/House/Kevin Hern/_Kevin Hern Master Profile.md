@@ -1,39 +1,40 @@
 ---
-title: "Kevin Hern"
+title: Kevin Hern
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Oklahoma"
-state-abbr: "OK"
+party: Republican
+chamber: House
+state: Oklahoma
+state-abbr: OK
 district: "1"
-bioguide-id: "H001082"
+bioguide-id: H001082
 govtrack-id: 412748
 born: "1961-12-04"
-wikidata-id: "Q58333614"
-website: "https://hern.house.gov"
-phone: "202-225-2211"
+wikidata-id: Q58333614
+website: https://hern.house.gov
+phone: 202-225-2211
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-fec-candidate-id: "S6OK04247"
+fec-candidate-id: S6OK04247
 bills-sponsored: 20
 bills-cosponsored: 171
 bills-enacted: 0
-top-policy-area: "Taxation"
-last-enriched: 2026-04-21
+top-policy-area: Taxation
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Health
   - House Committee on Ways and Means
   - Tax
-total-raised: "$8.3M"
-career-total-source: "FEC weball summary (cycles 2026)"
+total-raised: $8.3M
+career-total-source: FEC weball summary (cycles 2026)
+top-donors: "[[HERN FOR CONGRESS]], [[Akin Gump Strauss Hauer & Feld]], [[Google - Alphabet]], [[CVS Health - Aetna]], [[JASON SMITH FOR CONGRESS]], [[McDonalds Corporation]], [[NRA Political Victory Fund]], [[AIPAC - American Israel Public Affairs Committee]], [[American College of Radiology Association PAC]], [[Amgen Inc]], [[AbbVie]], [[Tyson Foods]], [[National Restaurant Association]], [[Pfizer Inc.]], [[JOE WILSON FOR CONGRESS]], [[Associated General Contractors of America Political Action Committee]], [[Williams Companies]], [[National Cattlemen's Beef Association]], [[TEXANS FOR JODEY ARRINGTON]], [[William R. Timmons]], [[American Gaming Association]], [[Steve Scalise]], [[Southern Company]], [[Koch Industries]], [[Frank Lucas]], [[Occidental Petroleum]], [[Daniel Meuser]], [[Humana]], [[Steve Womack]], [[Darin Lahood]], [[Gilead Sciences]], [[VERN BUCHANAN FOR CONGRESS]], [[GARY PALMER FOR CONGRESS]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Association of Manufacturers]]"
 ---
 
 

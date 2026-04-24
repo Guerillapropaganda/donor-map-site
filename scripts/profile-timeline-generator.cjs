@@ -38,9 +38,16 @@ function loadJsonl(filePath) {
     .filter(Boolean)
 }
 
+// Uses the relationships-store library which reads data/relationships.jsonl
+// AND every .jsonl under data/derived/. Previously this only read the
+// canonical file, so FEC monetary edges (the ~162k cycle-tagged edges that
+// ARE the timeline source material for political profiles) were missing
+// from every generated timeline. Post-fix: timelines pick up FEC
+// contribution events from all derived sources.
+const { loadEdges: loadAllEdges } = require('./lib/relationships-store.cjs')
 let _allEdges = null
 function getAllEdges() {
-  if (!_allEdges) _allEdges = loadJsonl(path.join(ROOT, "data/relationships.jsonl"))
+  if (!_allEdges) _allEdges = loadAllEdges()
   return _allEdges
 }
 

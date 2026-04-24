@@ -10,7 +10,7 @@ last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-ie-support: null
 fec-ie-oppose: $2,272,673
-politicians-funded: "[[Katie Britt]], [[Derek Schmidt]], [[Mike Carey]]"
+politicians-funded: "[[Katie Britt]], [[Derek Schmidt]], [[Mike Carey]], [[HANNA & ASSOCIATES, INC.]], [[PURCELL CONSULTING, LLC]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -23,8 +23,8 @@ related: "[[Katie Britt]]"
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

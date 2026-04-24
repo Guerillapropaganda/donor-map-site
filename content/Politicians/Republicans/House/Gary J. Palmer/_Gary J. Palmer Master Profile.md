@@ -1,40 +1,41 @@
 ---
-title: "Gary J. Palmer"
+title: Gary J. Palmer
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Alabama"
-state-abbr: "AL"
+party: Republican
+chamber: House
+state: Alabama
+state-abbr: AL
 district: "6"
-bioguide-id: "P000609"
+bioguide-id: P000609
 govtrack-id: 412608
 born: "1954-05-14"
-wikidata-id: "Q17386504"
-website: "https://palmer.house.gov"
-phone: "202-225-4921"
+wikidata-id: Q17386504
+website: https://palmer.house.gov
+phone: 202-225-4921
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 51
 bills-cosponsored: 141
 bills-enacted: 0
-top-policy-area: "Government Operations and Politics"
-last-enriched: 2026-04-21
+top-policy-area: Government Operations and Politics
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Economic Growth, Energy Policy, and Regulatory Affairs"
+  - Economic Growth, Energy Policy, and Regulatory Affairs
   - Energy
   - Environment
   - Government Operations
   - House Committee on Energy and Commerce
   - House Committee on Oversight and Government Reform
   - Oversight and Investigations
+top-donors: "[[WESTERMAN FOR CONGRESS]], [[AIPAC - American Israel Public Affairs Committee]], [[Tyson Foods]], [[NRA Political Victory Fund]], [[American College of Radiology Association PAC]], [[Amgen Inc]], [[THOMAS MASSIE FOR CONGRESS]], [[JIM JORDAN FOR CONGRESS]], [[ANDY HARRIS FOR CONGRESS]], [[Campaign for Working Families]], [[Koch Industries]], [[Paul Ryan]], [[National Cattlemen's Beef Association]], [[Associated General Contractors of America Political Action Committee]], [[Glenn Thompson]], [[Richard Hudson]], [[Kevin McCarthy]], [[Family Research Council Action Political Action Committee]], [[Madison Project Inc.]], [[Steve Scalise]], [[Tzedek PAC]], [[Club for Growth INC PAC]], [[Frank Lucas]], [[Darin Lahood]], [[Williams Companies]], [[BEN CLINE FOR CONGRESS, INC.]], [[TEXANS FOR JODEY ARRINGTON]], [[Brett Guthrie]], [[American Principles Fund]], [[Patriot Voices PAC]], [[Donald Trump]], [[Google - Alphabet]]"
 ---
 
 

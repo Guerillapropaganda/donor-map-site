@@ -18,23 +18,23 @@ phone: 202-225-8699
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-donors: "[[DMFI - Democratic Majority for Israel]], [[American Federation of State County & Municipal Employees P E O P L E]], [[National Association of Realtors]], [[IBEW - International Brotherhood of Electrical Workers]], [[Lockheed Martin]], [[Wells Fargo]], [[CBRE Group]], [[UnitedHealth Group - Optum]], [[Comcast - NBCUniversal]], [[Bank of America]], [[Microsoft]], [[BlackRock]], [[AIPAC - American Israel Public Affairs Committee]], [[Citigroup]], [[Verizon]], [[McDonalds Corporation]], [[American Federation of State County & Municipal Employees  P E O P L E]]"
+  - No FEC contribution data
+  - No voting record data
+donors: "[[DMFI - Democratic Majority for Israel]], [[American Federation of State County & Municipal Employees P E O P L E]], [[National Association of Realtors]], [[IBEW - International Brotherhood of Electrical Workers]], [[Lockheed Martin]], [[Wells Fargo]], [[CBRE Group]], [[UnitedHealth Group - Optum]], [[Comcast - NBCUniversal]], [[Bank of America]], [[Microsoft]], [[BlackRock]], [[AIPAC - American Israel Public Affairs Committee]], [[Citigroup]], [[Verizon]], [[McDonalds Corporation]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[International Association of Firefighters Interested in Registration and Education PAC]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2MD04232
 bills-sponsored: 8
 bills-cosponsored: 386
 bills-enacted: 0
 top-policy-area: Crime and Law Enforcement
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Commerce, Justice, Science, and Related Agencies"
+  - Commerce, Justice, Science, and Related Agencies
   - Financial Services and General Government
   - House Committee on Appropriations
   - House Committee on Ethics
-total-raised: "$1.8M"
-career-total-source: "FEC weball summary (cycles 2012, 2016, 2026)"
+total-raised: $1.8M
+career-total-source: FEC weball summary (cycles 2012, 2016, 2026)
 ---
 
 

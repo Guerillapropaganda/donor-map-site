@@ -18,17 +18,17 @@ phone: 202-225-2476
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4WI06048
 bills-sponsored: 34
 bills-cosponsored: 383
 bills-enacted: 2
 top-policy-area: Health
-top-donors: "[[National Rifle Association]], [[McDonalds Corporation]], [[Lockheed Martin]], [[Comcast - NBCUniversal]], [[AT&T - WarnerMedia]], [[Associated General Contractors of America Political Action Committee]], [[Jim Jordan]], [[NextEra Energy]], [[American Chemistry Council, INC]], [[National Association of Realtors]], [[MAJORITY PAC]], [[National Association of Manufacturers]], [[Walmart - Walton Family]], [[WinRed]], [[National Restaurant Association]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Honeywell]], [[Tyson Foods]], [[Care Action]], [[AbbVie]], [[Northrop Grumman]], [[AIPAC - American Israel Public Affairs Committee]], [[American Hospital Association PAC]], [[National Right to Life Victory Fund]], [[Boeing]], [[Honeywell International]], [[Wells Fargo]], [[AT&T]], [[Walmart]], [[Bradley Foundation]], [[Morgan Stanley]], [[Charles Schwab]], [[Citadel - Kenneth Griffin]], [[Majority PAC]]"
-last-enriched: 2026-04-21
+top-donors: "[[National Rifle Association]], [[McDonalds Corporation]], [[Lockheed Martin]], [[Comcast - NBCUniversal]], [[AT&T - WarnerMedia]], [[Associated General Contractors of America Political Action Committee]], [[Jim Jordan]], [[NextEra Energy]], [[American Chemistry Council, INC]], [[National Association of Realtors]], [[MAJORITY PAC]], [[National Association of Manufacturers]], [[Walmart - Walton Family]], [[WinRed]], [[National Restaurant Association]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Honeywell]], [[Tyson Foods]], [[Care Action]], [[AbbVie]], [[Northrop Grumman]], [[AIPAC - American Israel Public Affairs Committee]], [[American Hospital Association PAC]], [[National Right to Life Victory Fund]], [[Boeing]], [[Honeywell International]], [[Wells Fargo]], [[AT&T]], [[Walmart]], [[Bradley Foundation]], [[Morgan Stanley]], [[Charles Schwab]], [[Citadel - Kenneth Griffin]], [[Majority PAC]], [[Tom Emmer]], [[Koch Industries]], [[Mike Johnson]], [[American Principles Fund]], [[Amgen Inc]], [[Darin Lahood]], [[NRA Political Victory Fund]], [[JIM JORDAN FOR CONGRESS]], [[JOE WILSON FOR CONGRESS]], [[Kevin McCarthy]], [[Freedom's Defense Fund]], [[Paul Ryan]], [[Patriot Voices PAC]], [[Donald Trump]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[TEXANS FOR JODEY ARRINGTON]], [[ANDY HARRIS FOR CONGRESS]], [[Steve Scalise]], [[DR. BRIAN BABIN FOR CONGRESS]], [[John Boehner]], [[FRIENDS OF MATT GAETZ]], [[Republican Jewish Coalition]], [[Glenn Thompson]], [[Richard Hudson]], [[Madison Project Inc.]], [[Pete Sessions]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Health Care and Financial Services
   - Higher Education and Workforce Development
@@ -36,11 +36,11 @@ committees:
   - House Committee on Oversight and Government Reform
   - House Committee on the Budget
   - House Committee on the Judiciary
-  - "Immigration Integrity, Security, and Enforcement"
+  - Immigration Integrity, Security, and Enforcement
   - The Constitution and Limited Government
   - Workforce Protections
-total-raised: "$9.0M"
-career-total-source: "FEC weball summary (cycles 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+total-raised: $9.0M
+career-total-source: FEC weball summary (cycles 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

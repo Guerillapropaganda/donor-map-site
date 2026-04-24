@@ -5,14 +5,14 @@ content-readiness: data-complete
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00528307
 aliases:
   - PATRIOT VOICES PAC
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Jack Reed]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Jack Reed]], [[Capitol Counsel]], [[HSP DIRECT]], [[KOCH & HOOS LLC]], [[MAENZA, NADINE]], [[Patriot Majority Pac]], [[Mike Rounds]], [[Joni Ernst]], [[Steve Daines]], [[Mitt Romney]], [[Andy Biggs]], [[Tom Cotton]], [[John R. Moolenaar]], [[Glenn Grothman]], [[Lee Zeldin]], [[Marco Rubio]], [[Gary J. Palmer]], [[Donald Trump]]"
 related: "[[Jack Reed]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -23,7 +23,7 @@ cash-on-hand: 909
 individual-contributions: 1
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

@@ -2,14 +2,14 @@
 title: Richard and Elizabeth Uihlein
 type: donor
 content-readiness: ready
-central-thesis: "The Uihleins converted a Schlitz-heiress shipping fortune into the largest single-donor funding stream for the hard-right Republican infrastructure, financing the Club for Growth primary machine, the federal abortion ban apparatus, and the January 6 rally logistics that preceded the Capitol breach."
-last-updated: 2026-04-19
+central-thesis: The Uihleins converted a Schlitz-heiress shipping fortune into the largest single-donor funding stream for the hard-right Republican infrastructure, financing the Club for Growth primary machine, the federal abortion ban apparatus, and the January 6 rally logistics that preceded the Capitol breach.
+last-updated: 2026-04-19T00:00:00.000Z
 editorial-notes: "[Research Claude 2026-04-19] Wrote Central Thesis, Core Contradiction callout, formal Class Analysis, and Analytical Patterns. Cleared stale needs-reenrichment flag (FEC auto-block shows $152.6M across 58 committees as of 2026-04-18 full-database ingest). Promoted draft → ready."
 source-tier: 1
 parent: null
 sector: Mega-Donors
 entity-type: Individual Donor
-politicians-funded: "[[Donald Trump]]"
+politicians-funded: "[[Donald Trump]], [[Americas Pac]]"
 issues:
   - Reproductive Rights
 last-enriched: "2026-04-18"

@@ -1,33 +1,33 @@
 ---
-title: "Riley M. Moore"
+title: Riley M. Moore
 type: politician
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "West Virginia"
-state-abbr: "WV"
+party: Republican
+chamber: House
+state: West Virginia
+state-abbr: WV
 district: "2"
-bioguide-id: "M001235"
+bioguide-id: M001235
 govtrack-id: 457031
 born: "1980-07-01"
-wikidata-id: "Q93769958"
-website: "https://rileymoore.house.gov"
-phone: "202-225-2711"
+wikidata-id: Q93769958
+website: https://rileymoore.house.gov
+phone: 202-225-2711
 source-types:
   - Congress
   - GovTrack
 known-gaps:
-  - "No FEC contribution data"
-donors: "[[Brady Campaign]]"
+  - No FEC contribution data
+donors: "[[Brady Campaign]], [[AFL-CIO]], [[BRANDON GILL FOR TEXAS]], [[NRA Political Victory Fund]], [[Leidos]], [[Guy Reschenthaler]], [[Robert E. Latta]], [[Koch Industries]], [[MIKE HARIDOPOLOS FOR CONGRESS]], [[Defend American Jobs]], [[Shelley Moore Capito]], [[Nucor Corporation]], [[Performance Racing Inc.]], [[Tom Emmer]], [[David P. Joyce]], [[AIPAC - American Israel Public Affairs Committee]], [[Associated General Contractors of America Political Action Committee]], [[CVS Health - Aetna]], [[Southern Company]], [[TEXANS FOR JODEY ARRINGTON]], [[National Restaurant Association]], [[JIM JORDAN FOR CONGRESS]], [[Brett Guthrie]], [[National Cattlemen's Beef Association]], [[Carol D. Miller]], [[Steve Scalise]]"
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 corroboration-count: 2
 committees:
-  - "Commerce, Justice, Science, and Related Agencies"
+  - Commerce, Justice, Science, and Related Agencies
   - House Committee on Appropriations
-  - "Labor, Health and Human Services, Education, and Related Agencies"
+  - Labor, Health and Human Services, Education, and Related Agencies
   - Legislative Branch
 bills-sponsored: 11
 ---

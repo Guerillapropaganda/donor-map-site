@@ -18,20 +18,20 @@ phone: 202-225-5311
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-donors: "[[House Freedom Caucus]], [[Sinclair Broadcasting Group]], [[Verizon]], [[Northrop Grumman]], [[FTX - Sam Bankman-Fried]], [[Bank of America]], [[Monsanto - Bayer]], [[Blackstone Group]], [[Honeywell International]]"
+  - No FEC contribution data
+  - No voting record data
+donors: "[[House Freedom Caucus]], [[Sinclair Broadcasting Group]], [[Verizon]], [[Northrop Grumman]], [[FTX - Sam Bankman-Fried]], [[Bank of America]], [[Monsanto - Bayer]], [[Blackstone Group]], [[Honeywell International]], [[National Cattlemen's Beef Association]], [[National Restaurant Association]], [[NRA Political Victory Fund]], [[Koch Industries]], [[Steve Scalise]], [[American College of Radiology Association PAC]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[Occidental Petroleum]], [[Tyson Foods]], [[McDonalds Corporation]], [[RON ESTES FOR CONGRESS]], [[Family Research Council Action Political Action Committee]], [[JIM JORDAN FOR CONGRESS]], [[Associated General Contractors of America Political Action Committee]], [[Donald Trump]], [[American Principles Fund]], [[SCOTT, TIMOTHY]], [[Campaign for Working Families]], [[Gun Owners of America]], [[GEO Group - Private Prison Industrial Complex]], [[Republican Jewish Coalition]], [[Guy Reschenthaler]], [[Club for Growth INC PAC]], [[AbbVie]], [[DR. BRIAN BABIN FOR CONGRESS]], [[Leidos]], [[TEXANS FOR JODEY ARRINGTON]], [[John Boehner]], [[Frank Lucas]], [[AIPAC - American Israel Public Affairs Committee]], [[Williams Companies]], [[Pete Sessions]], [[BEN CLINE FOR CONGRESS, INC.]], [[Paul Ryan]], [[Pfizer Inc.]], [[Southern Company]], [[Amgen Inc]], [[National Right to Life PAC]], [[Cargill]], [[Conservative Leadership PAC]], [[Gilead Sciences]]"
 related: "[[House Freedom Caucus]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 2
 bills-cosponsored: 218
 bills-enacted: 0
 top-policy-area: Health
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies"
+  - Agriculture, Rural Development, Food and Drug Administration, and Related Agencies
   - House Committee on Appropriations
-  - "Labor, Health and Human Services, Education, and Related Agencies"
+  - Labor, Health and Human Services, Education, and Related Agencies
 ---
 
 

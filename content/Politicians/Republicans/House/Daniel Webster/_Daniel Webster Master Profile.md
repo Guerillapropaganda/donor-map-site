@@ -18,9 +18,9 @@ phone: 202-225-1002
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H0FL08208
 total-spent: 4239
@@ -29,21 +29,21 @@ bills-sponsored: 5
 bills-cosponsored: 223
 bills-enacted: 0
 top-policy-area: Armed Forces and National Security
-top-donors: "[[Duke Energy]], [[Carlos Gimenez]], [[MAJORITY PAC]], [[NextEra Energy]], [[Associated General Contractors of America Political Action Committee]], [[AT&T - WarnerMedia]], [[Lockheed Martin]], [[Comcast - NBCUniversal]], [[General Dynamics]], [[Honeywell]], [[National Rifle Association]], [[Raytheon (RTX)]], [[REPUBLICAN PARTY OF FLORIDA]], [[General Motors]], [[National Association of Realtors]], [[Walmart - Walton Family]], [[WinRed]], [[Congressional Leadership Fund]], [[David Rouzer]], [[National Cattlemen's Beef Association]], [[AIPAC - American Israel Public Affairs Committee]], [[Austin Scott]], [[American Hospital Association PAC]], [[Google - Alphabet]], [[Fanjul Family - Florida Crystals]], [[Ballard Partners]], [[Bank of America]], [[Novo Nordisk]], [[Charles Schwab]], [[America First Policy Institute]], [[Majority PAC]], [[AT&T]], [[Honeywell International]], [[Republican Party of Florida]]"
-last-enriched: 2026-04-21
+top-donors: "[[Duke Energy]], [[Carlos Gimenez]], [[MAJORITY PAC]], [[NextEra Energy]], [[Associated General Contractors of America Political Action Committee]], [[AT&T - WarnerMedia]], [[Lockheed Martin]], [[Comcast - NBCUniversal]], [[General Dynamics]], [[Honeywell]], [[National Rifle Association]], [[Raytheon (RTX)]], [[REPUBLICAN PARTY OF FLORIDA]], [[General Motors]], [[National Association of Realtors]], [[Walmart - Walton Family]], [[WinRed]], [[Congressional Leadership Fund]], [[David Rouzer]], [[National Cattlemen's Beef Association]], [[AIPAC - American Israel Public Affairs Committee]], [[Austin Scott]], [[American Hospital Association PAC]], [[Google - Alphabet]], [[Fanjul Family - Florida Crystals]], [[Ballard Partners]], [[Bank of America]], [[Novo Nordisk]], [[Charles Schwab]], [[America First Policy Institute]], [[Majority PAC]], [[AT&T]], [[Honeywell International]], [[Republican Party of Florida]], [[Raytheon (RTX Corporation)]], [[Conservative Leadership PAC]], [[BLUMENTHAL FOR CONNECTICUT]], [[SETH MOULTON FOR AMERICA, INC.]], [[Campaign for Working Families]], [[Mike Haridopolos]], [[National Education Association]], [[Steve Scalise]], [[Pete Sessions]], [[McDonalds Corporation]], [[PETE SESSIONS FOR CONGRESS]], [[NRA Political Victory Fund]], [[Humana]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[National Right to Life PAC]], [[League of Conservation Voters]], [[Southern Company]], [[Kevin McCarthy]], [[AFL-CIO]], [[Family Research Council Action Political Action Committee]], [[Republican Jewish Coalition]], [[CARLOS GIMENEZ FOR CONGRESS]], [[National Committee to Preserve Social Security & Medicare PAC]], [[National Restaurant Association]], [[Darin Lahood]], [[ISSA FOR CONGRESS]], [[American College of Radiology Association PAC]], [[Gus M. Bilirakis]], [[National Right to Life Victory Fund]], [[Koch Industries]], [[John Boehner]], [[DAVID ROUZER FOR CONGRESS]], [[Daniel Webster]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[COTTON, THOMAS]], [[SCOTT, TIMOTHY]], [[Amgen Inc]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Coast Guard and Maritime Transportation
   - Energy and Mineral Resources
   - Highways and Transit
   - House Committee on Natural Resources
-  - "House Committee on Science, Space, and Technology"
+  - House Committee on Science, Space, and Technology
   - House Committee on Transportation and Infrastructure
   - Investigations and Oversight
-  - "Railroads, Pipelines, and Hazardous Materials"
+  - Railroads, Pipelines, and Hazardous Materials
   - Space and Aeronautics
-  - "Water, Wildlife and Fisheries"
-total-raised: "$8.7M"
-career-total-source: "FEC weball summary (cycles 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+  - Water, Wildlife and Fisheries
+total-raised: $8.7M
+career-total-source: FEC weball summary (cycles 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

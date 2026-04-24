@@ -22,7 +22,7 @@ issues:
   - Immigration
   - Labor and Employment
   - Social Welfare
-top-donors: "[[Defense Industry Bloc]]"
+top-donors: "[[Defense Industry Bloc]], [[Campaign for Working Families]], [[Occidental Petroleum]], [[Nucor Corporation]], [[RALPH NORMAN FOR CONGRESS]], [[Steve Scalise]], [[National Right to Life Victory Fund]], [[Pfizer Inc.]], [[Family Research Council Action Political Action Committee]], [[Club for Growth INC PAC]], [[Hunter Action Fund (haf)]], [[Tzedek PAC]], [[FRIENDS OF MATT GAETZ]], [[NRA Political Victory Fund]], [[National Republican Senatorial Committee]], [[GARY PALMER FOR CONGRESS]], [[Associated General Contractors of America Political Action Committee]], [[Gun Owners of America]], [[CoreCivic]], [[Leidos]], [[Amgen Inc]], [[Common Sense for America PAC]], [[Senate Conservatives Fund]], [[American Principles Fund]], [[Koch Industries]], [[GEO Group - Private Prison Industrial Complex]], [[Republican Jewish Coalition]], [[TED CRUZ FOR SENATE]], [[Tyson Foods]], [[American Iron and Steel Institute]], [[Club for Growth]]"
 govtrack-id: 456796
 bills-sponsored: 306
 bills-cosponsored: 644
@@ -50,8 +50,8 @@ internal-notes: |-
   [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided.
 urls-first-triaged: "2026-04-15"
 bills-enacted: 0
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "Armed Forces and National Security"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: Armed Forces and National Security
 ---
 
 

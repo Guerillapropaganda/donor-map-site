@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Defense & Intelligence
 entity-type: Individual Donor
-politicians-funded: "[[Mike Bost]], [[Ron Johnson]], [[Mike Johnson]], [[Bob Casey]], [[Donald Trump]], [[Paul Ryan]], [[Sherrod Brown]], [[ActBlue]]"
+politicians-funded: "[[Mike Bost]], [[Ron Johnson]], [[Mike Johnson]], [[Bob Casey]], [[Donald Trump]], [[Paul Ryan]], [[Sherrod Brown]], [[ActBlue]], [[Guy Reschenthaler]], [[Tim Scott]], [[Robert B. Aderholt]], [[Jeff Sessions]], [[Joe Wilson]], [[Terri A. Sewell]], [[Sam Graves]], [[Chrissy Houlahan]], [[Troy Balderson]], [[Amy Klobuchar]], [[Steny H. Hoyer]], [[Jack Bergman]], [[James E. Clyburn]], [[David P. Joyce]], [[Marcy Kaptur]], [[Tim Walberg]], [[Tina Smith]], [[Debbie Stabenow]], [[Dick Durbin]], [[Susan Collins]], [[Todd Young]], [[Rick Crawford]], [[Mitch McConnell]], [[Shelley Moore Capito]], [[Carol D. Miller]], [[Tammy Baldwin]], [[Rosa DeLauro]], [[Mike Kelly]], [[Pete Stauber]], [[Gary Peters]], [[Lindsey Graham]], [[Frank J. Mrvan]], [[Chuck Schumer]], [[Mariannette Miller-Meeks]], [[Robin L. Kelly]], [[Debbie Dingell]], [[Beth van Duyne]], [[Jason Smith]], [[Mike Carey]], [[Chuck Grassley]], [[John B. Larson]], [[Marlin A. Stutzman]], [[Jeff Merkley]], [[Ron Wyden]], [[Linda T. Sanchez]], [[Dan Coats]], [[Roger Wicker]], [[John Boehner]], [[Jim Banks]], [[Joe Manchin]], [[Jim Jordan]], [[Joyce Beatty]], [[Richard Neal]], [[Tommy Tuberville]], [[Katie Britt]]"
 total-political-spend: $542,903
 ofac-sdn-match: "true"
 last-enriched: "2026-04-09"
@@ -68,7 +68,7 @@ source-types:
   - SEC
 corroboration-count: 4
 known-gaps:
-  - "No lobbying disclosure data"
+  - No lobbying disclosure data
 ---
 
 

@@ -1,42 +1,43 @@
 ---
-title: "Aumua Amata Coleman Radewagen"
+title: Aumua Amata Coleman Radewagen
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "American Samoa"
-state-abbr: "AS"
+party: Republican
+chamber: House
+state: American Samoa
+state-abbr: AS
 district: "0"
-bioguide-id: "R000600"
+bioguide-id: R000600
 govtrack-id: 412664
 born: "1947-12-29"
-wikidata-id: "Q18684027"
-website: "https://radewagen.house.gov"
-phone: "202-225-8577"
+wikidata-id: Q18684027
+website: https://radewagen.house.gov
+phone: 202-225-8577
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 5
 bills-cosponsored: 174
 bills-enacted: 0
-top-policy-area: "International Affairs"
-last-enriched: 2026-04-21
+top-policy-area: International Affairs
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Africa
   - Disability Assistance and Memorial Affairs
   - East Asia and Pacific
   - House Committee on Foreign Affairs
   - House Committee on Natural Resources
-  - "House Committee on Veterans' Affairs"
+  - House Committee on Veterans' Affairs
   - Indian and Insular Affairs
   - Oversight and Investigations
-  - "Water, Wildlife and Fisheries"
+  - Water, Wildlife and Fisheries
+top-donors: "[[Mike Johnson]], [[Steve Scalise]], [[Kevin McCarthy]], [[Brett Guthrie]], [[CLIFF BENTZ FOR CONGRESS]], [[JASON SMITH FOR CONGRESS]], [[JIM JORDAN FOR CONGRESS]]"
 ---
 
 

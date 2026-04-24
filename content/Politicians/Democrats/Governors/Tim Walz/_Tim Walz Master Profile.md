@@ -12,7 +12,7 @@ state: Minnesota
 state-abbr: MN
 total-received: $113,151
 fec-candidate-id: H6MN01174
-donors: "[[Democracy Alliance]] · [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]] · [[SEIU COPE]] · [[BLUEGREEN ALLIANCE]] · [[Freedom Club Federal PAC]] · [[Bluegreen Alliance]] · [[DCCC - Democratic Congressional Campaign Committee]]"
+donors: "[[Democracy Alliance]] · [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]] · [[SEIU COPE]] · [[BLUEGREEN ALLIANCE]] · [[Freedom Club Federal PAC]] · [[Bluegreen Alliance]] · [[DCCC - Democratic Congressional Campaign Committee]] · [[NANCY PELOSI FOR CONGRESS]] · [[Xavier Becerra]] · [[Janice D. Schakowsky]] · [[AFL-CIO]] · [[DEBBIE WASSERMAN SCHULTZ FOR CONGRESS]] · [[Cargill]] · [[ADM - Archer Daniels Midland]] · [[Steny H. Hoyer]] · [[League of Conservation Voters]] · [[Frank Pallone]] · [[Richard Neal]] · [[STAND WITH SANCHEZ]] · [[Rahm Emanuel]] · [[Sierra Club Political Committee]] · [[DIANA DEGETTE FOR CONGRESS]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[John B. Larson]] · [[Pfizer Inc.]] · [[National Education Association]] · [[Planned Parenthood Action Fund INC]] · [[James E. Clyburn]] · [[House Majority PAC]] · [[J Street]] · [[NRA Political Victory Fund]] · [[Henry Cuellar]] · [[MCCOLLUM FOR CONGRESS]] · [[Rosa DeLauro]] · [[Monsanto - Bayer]] · [[American College of Radiology Association PAC]] · [[Edward J. Markey]] · [[Chris van Hollen]] · [[Associated General Contractors of America Political Action Committee]] · [[DOGGETT FOR U S CONGRESS COMMITTEE]] · [[CASTRO FOR CONGRESS]] · [[Adam Schiff]] · [[Akin Gump Strauss Hauer & Feld]]"
 wikidata-id: Q2434360
 last-enriched: "2026-04-18"
 needs-reenrichment: true

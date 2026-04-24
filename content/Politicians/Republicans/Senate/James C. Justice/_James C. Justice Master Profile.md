@@ -1,35 +1,35 @@
 ---
-title: "James C. Justice"
+title: James C. Justice
 type: politician
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "Senate"
-state: "West Virginia"
-state-abbr: "WV"
-bioguide-id: "J000312"
+party: Republican
+chamber: Senate
+state: West Virginia
+state-abbr: WV
+bioguide-id: J000312
 govtrack-id: 456969
 born: "1951-04-27"
-wikidata-id: "Q20684288"
-website: "https://www.justice.senate.gov"
-phone: "202-224-3954"
+wikidata-id: Q20684288
+website: https://www.justice.senate.gov
+phone: 202-224-3954
 source-types:
   - Congress
   - GovTrack
 known-gaps:
-  - "No FEC contribution data"
-donors: "[[ActBlue]]"
+  - No FEC contribution data
+donors: "[[ActBlue]], [[Associated General Contractors of America Political Action Committee]], [[Roger Marshall]], [[National Cattlemen's Beef Association]], [[Defend American Jobs]], [[Koch Industries]], [[National Restaurant Association]], [[Republican Jewish Coalition]], [[Tyson Foods]], [[Amgen Inc]], [[NRA Political Victory Fund]], [[Common Sense for America PAC]], [[Williams Companies]], [[Nucor Corporation]], [[Coinbase]]"
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 corroboration-count: 2
 committees:
-  - "Conservation, Forestry, Natural Resources, and Biotechnology"
+  - Conservation, Forestry, Natural Resources, and Biotechnology
   - Energy
-  - "Food and Nutrition, Specialty Crops, Organics, and Research"
-  - "Livestock, Dairy, Poultry, and Food Safety"
-  - "Public Lands, Forests, and Mining"
-  - "Senate Committee on Agriculture, Nutrition, and Forestry"
+  - Food and Nutrition, Specialty Crops, Organics, and Research
+  - Livestock, Dairy, Poultry, and Food Safety
+  - Public Lands, Forests, and Mining
+  - Senate Committee on Agriculture, Nutrition, and Forestry
   - Senate Committee on Energy and Natural Resources
   - Senate Committee on Small Business and Entrepreneurship
   - Senate Special Committee on Aging

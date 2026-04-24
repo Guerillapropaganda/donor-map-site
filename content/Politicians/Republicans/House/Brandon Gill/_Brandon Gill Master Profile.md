@@ -20,11 +20,11 @@ source-types:
   - FEC
   - GovTrack
 known-gaps:
-  - "No mapped relationships"
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4TX26149
-top-donors: "[[American Hospital Association PAC]], [[Comcast - NBCUniversal]], [[Jim Jordan]], [[National Restaurant Association]], [[Club for Growth]], [[National Association of Realtors]], [[National Rifle Association]], [[Anthem - Elevance Health]], [[MAJORITY PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Tyson Foods]], [[National Cattlemen's Beef Association]], [[WinRed]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Troy Downing]], [[AIPAC - American Israel Public Affairs Committee]], [[Chevron]], [[Mike Haridopolos]], [[Campaign for Working Families]], [[Club for Growth INC PAC]], [[Pete Sessions]], [[Majority PAC]]"
-last-enriched: 2026-04-21
+top-donors: "[[American Hospital Association PAC]], [[Comcast - NBCUniversal]], [[Jim Jordan]], [[National Restaurant Association]], [[Club for Growth]], [[National Association of Realtors]], [[National Rifle Association]], [[Anthem - Elevance Health]], [[MAJORITY PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Tyson Foods]], [[National Cattlemen's Beef Association]], [[WinRed]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Troy Downing]], [[AIPAC - American Israel Public Affairs Committee]], [[Chevron]], [[Mike Haridopolos]], [[Campaign for Working Families]], [[Club for Growth INC PAC]], [[Pete Sessions]], [[Majority PAC]], [[BRANDON GILL FOR TEXAS]], [[Guy Reschenthaler]], [[Tom Emmer]], [[HAGEMAN FOR WYOMING]], [[Carol D. Miller]], [[Brett Guthrie]], [[Steve Scalise]], [[PETE SESSIONS FOR CONGRESS]], [[Mike Johnson]], [[JIM JORDAN FOR CONGRESS]], [[MIKE HARIDOPOLOS FOR CONGRESS]], [[MOORE FOR WEST VIRGINIA, INC.]], [[FRIENDS OF MATT GAETZ]], [[DR. BRIAN BABIN FOR CONGRESS]], [[NRA Political Victory Fund]], [[TROY DOWNING FOR CONGRESS]], [[Ronny Jackson]], [[BICE FOR CONGRESS]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Delivering on Government Efficiency
   - Government Operations
@@ -32,11 +32,11 @@ committees:
   - House Committee on Oversight and Government Reform
   - House Committee on the Budget
   - House Committee on the Judiciary
-  - "Immigration Integrity, Security, and Enforcement"
+  - Immigration Integrity, Security, and Enforcement
   - Oversight
   - The Constitution and Limited Government
-total-raised: "$4.9M"
-career-total-source: "FEC weball summary (cycles 2024, 2026)"
+total-raised: $4.9M
+career-total-source: FEC weball summary (cycles 2024, 2026)
 bills-sponsored: 18
 corroboration-count: 3
 ---

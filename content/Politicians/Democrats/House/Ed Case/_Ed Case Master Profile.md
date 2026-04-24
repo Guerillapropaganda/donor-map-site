@@ -1,36 +1,37 @@
 ---
-title: "Ed Case"
+title: Ed Case
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Hawaii"
-state-abbr: "HI"
+party: Democrat
+chamber: House
+state: Hawaii
+state-abbr: HI
 district: "1"
-bioguide-id: "C001055"
+bioguide-id: C001055
 govtrack-id: 400069
 born: "1952-09-27"
-wikidata-id: "Q597613"
-website: "https://case.house.gov"
-phone: "202-225-2726"
+wikidata-id: Q597613
+website: https://case.house.gov
+phone: 202-225-2726
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 24
 bills-cosponsored: 426
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Defense
   - Homeland Security
   - House Committee on Appropriations
+top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[Leidos]], [[BILL FOSTER FOR CONGRESS]], [[Google - Alphabet]], [[McDonalds Corporation]], [[League of Conservation Voters]], [[American College of Radiology Association PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Associated General Contractors of America Political Action Committee]], [[National Restaurant Association]], [[TED LIEU FOR CONGRESS]], [[Hakeem Jeffries]], [[National Cattlemen's Beef Association]], [[Monsanto - Bayer]], [[National Committee to Preserve Social Security & Medicare PAC]], [[National Association of Manufacturers]], [[National Education Association]], [[Let America Vote PAC]]"
 ---
 
 

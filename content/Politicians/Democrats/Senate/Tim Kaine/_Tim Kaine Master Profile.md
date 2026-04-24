@@ -1,49 +1,50 @@
 ---
-title: "Tim Kaine"
+title: Tim Kaine
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "Senate"
-state: "Virginia"
-state-abbr: "VA"
-bioguide-id: "K000384"
+party: Democrat
+chamber: Senate
+state: Virginia
+state-abbr: VA
+bioguide-id: K000384
 govtrack-id: 412582
 born: "1958-02-26"
-wikidata-id: "Q359888"
-website: "https://www.kaine.senate.gov"
-phone: "202-224-4024"
+wikidata-id: Q359888
+website: https://www.kaine.senate.gov
+phone: 202-224-4024
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
 stock-trades: 3
 stock-trade-tickers:
-  - "GE"
-  - "KMI"
+  - GE
+  - KMI
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 70
 bills-cosponsored: 484
 bills-enacted: 0
-top-policy-area: "International Affairs"
-last-enriched: 2026-04-20
+top-policy-area: International Affairs
+last-enriched: 2026-04-20T00:00:00.000Z
 committees:
   - Education and the American Family
   - Emerging Threats and Capabilities
   - Employment and Workplace Safety
-  - "Near East, South Asia, Central Asia, and Counterterrorism"
+  - Near East, South Asia, Central Asia, and Counterterrorism
   - Readiness and Management Support
   - Seapower
   - Senate Committee on Armed Services
   - Senate Committee on Foreign Relations
-  - "Senate Committee on Health, Education, Labor, and Pensions"
+  - Senate Committee on Health, Education, Labor, and Pensions
   - Senate Committee on the Budget
-  - "State Department and USAID Management, International Operations, and Bilateral International Development"
-  - "Western Hemisphere, Transnational Crime, Civilian Security, Democracy, Human Rights, and Global Women's Issues"
+  - State Department and USAID Management, International Operations, and Bilateral International Development
+  - Western Hemisphere, Transnational Crime, Civilian Security, Democracy, Human Rights, and Global Women's Issues
+top-donors: "[[National Committee to Preserve Social Security & Medicare PAC]], [[Environment America INC]], [[McDonalds Corporation]], [[Tyson Foods]], [[Google - Alphabet]], [[Cargill]], [[Southern Company]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Akin Gump Strauss Hauer & Feld]], [[Pfizer Inc.]], [[League of Conservation Voters]], [[National Association of Manufacturers]], [[Working Families Party PAC]], [[AFL-CIO]], [[AbbVie]], [[Amgen Inc]], [[Meta - Facebook]], [[J Street]], [[Leidos]], [[Planned Parenthood Action Fund INC]], [[Democratic Party of Virginia]], [[Blue Shield of California]], [[National Education Association]], [[Bechtel Corporation]], [[Gilead Sciences]], [[Democratic Senatorial Campaign Committee]], [[AFSCME Working Families Fund]], [[Sierra Club Political Committee]], [[FreedomWorks for America]], [[WinSenate]], [[CHRISSY HOULAHAN FOR CONGRESS]], [[Let America Vote PAC]], [[Humana]], [[CVS Health - Aetna]], [[Giffords PAC]], [[Emgage Federal Political Action Committee]], [[National Restaurant Association]], [[Care Action]], [[National Wildlife Federation Action Fund]], [[American College of Radiology Association PAC]]"
 ---
 
 

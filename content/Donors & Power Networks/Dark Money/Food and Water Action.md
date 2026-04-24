@@ -11,7 +11,7 @@ last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-ie-support: $1,026,511,866
 fec-ie-oppose: "null"
-politicians-funded: "[[Kamala Harris]], [[Laura Gillen]], [[Dave Min]], [[Summer Lee]], [[Julia Brownley]], [[John Fetterman]], [[Josh Riley]], [[Laura Friedman]], [[Jamaal Bowman]]"
+politicians-funded: "[[Kamala Harris]], [[Laura Gillen]], [[Dave Min]], [[Summer Lee]], [[Julia Brownley]], [[John Fetterman]], [[Josh Riley]], [[Laura Friedman]], [[Jamaal Bowman]], [[Christopher R. Deluzio]]"
 related: "[[Kamala Harris]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -23,8 +23,8 @@ cash-on-hand: 18398
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

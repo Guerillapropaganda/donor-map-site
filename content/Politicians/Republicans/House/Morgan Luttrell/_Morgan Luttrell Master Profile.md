@@ -18,29 +18,29 @@ phone: 202-225-4901
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2TX08182
 bills-sponsored: 21
 bills-cosponsored: 148
 bills-enacted: 2
 top-policy-area: Armed Forces and National Security
-top-donors: "[[SPECIAL OPERATIONS FOR AMERICA]], [[Drain the DC Swamp PAC]], [[National Cattlemen's Beef Association]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Lockheed Martin]], [[Congressional Leadership Fund]], [[Freedom's Defense Fund]], [[Leidos]], [[General Dynamics]], [[Honeywell]], [[Raytheon (RTX)]], [[Associated General Contractors of America Political Action Committee]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Rifle Association]], [[AT&T - WarnerMedia]], [[Valero Energy]], [[National Association of Realtors]], [[Chevron]], [[Marathon Petroleum]], [[Jim Jordan]], [[AIPAC - American Israel Public Affairs Committee]], [[Comcast - NBCUniversal]], [[Jason Smith]], [[Tzedek PAC]], [[American Chemistry Council, INC]], [[Republican Jewish Coalition]], [[BAE Systems]], [[MAJORITY PAC]], [[Halliburton]], [[WinRed]], [[American Hospital Association PAC]], [[L3Harris Technologies]], [[AMERICAN PATRIOTS PAC]], [[National Restaurant Association]], [[Northrop Grumman]], [[Special Operations for America]], [[Honeywell International]], [[AT&T]], [[Majority PAC]], [[American Patriots PAC]]"
-last-enriched: 2026-04-21
+top-donors: "[[SPECIAL OPERATIONS FOR AMERICA]], [[Drain the DC Swamp PAC]], [[National Cattlemen's Beef Association]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Lockheed Martin]], [[Congressional Leadership Fund]], [[Freedom's Defense Fund]], [[Leidos]], [[General Dynamics]], [[Honeywell]], [[Raytheon (RTX)]], [[Associated General Contractors of America Political Action Committee]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Rifle Association]], [[AT&T - WarnerMedia]], [[Valero Energy]], [[National Association of Realtors]], [[Chevron]], [[Marathon Petroleum]], [[Jim Jordan]], [[AIPAC - American Israel Public Affairs Committee]], [[Comcast - NBCUniversal]], [[Jason Smith]], [[Tzedek PAC]], [[American Chemistry Council, INC]], [[Republican Jewish Coalition]], [[BAE Systems]], [[MAJORITY PAC]], [[Halliburton]], [[WinRed]], [[American Hospital Association PAC]], [[L3Harris Technologies]], [[AMERICAN PATRIOTS PAC]], [[National Restaurant Association]], [[Northrop Grumman]], [[Special Operations for America]], [[Honeywell International]], [[AT&T]], [[Majority PAC]], [[American Patriots PAC]], [[Raytheon (RTX Corporation)]], [[HAGEMAN FOR WYOMING]], [[Koch Industries]], [[ROBERT ADERHOLT FOR CONGRESS]], [[TEXANS FOR JODEY ARRINGTON]], [[JIM JORDAN FOR CONGRESS]], [[Steve Scalise]], [[NRA Political Victory Fund]], [[GEO Group - Private Prison Industrial Complex]], [[JASON SMITH FOR CONGRESS]], [[Southern Company]], [[Richard Hudson]], [[Guy Reschenthaler]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Counterterrorism and Intelligence
-  - "Cyber, Information Technologies, and Innovation"
+  - Cyber, Information Technologies, and Innovation
   - Cybersecurity and Infrastructure Protection
   - Disability Assistance and Memorial Affairs
   - House Committee on Armed Services
   - House Committee on Homeland Security
-  - "House Committee on Veterans' Affairs"
+  - House Committee on Veterans' Affairs
   - Intelligence and Special Operations
   - Technology Modernization
-total-raised: "$7.0M"
-career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
+total-raised: $7.0M
+career-total-source: FEC weball summary (cycles 2022, 2024, 2026)
 ---
 
 

@@ -6,11 +6,11 @@ sector: Dark Money
 entity-type: Super PAC
 committee-id: C00582312
 fec-url: https://www.fec.gov/data/committee/C00582312/
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-ie-support: $869,566
 fec-ie-oppose: null
-politicians-funded: "[[Matt Gaetz]]"
+politicians-funded: "[[Matt Gaetz]], [[STRATEGIC DIGITAL SERVICES, INC.]], [[SCOTT FITZGERALD FOR CONGRESS]], [[CLARK HILL PLC]], [[ON 3 PUBLIC RELATIONS, LLC]], [[K BALLARD CONSULTING]], [[David McIntosh]], [[Neal P. Dunn]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -21,10 +21,10 @@ related: "[[Matt Gaetz]]"
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
-total-political-spend: "$473K"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2016"
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $473K
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2016
 ---
 
 

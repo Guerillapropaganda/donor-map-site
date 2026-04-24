@@ -18,17 +18,17 @@ phone: 202-225-4865
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4TX10028
 bills-sponsored: 24
 bills-cosponsored: 427
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[ENVIRONMENT AMERICA INC]], [[National Association of Realtors]], [[Comcast - NBCUniversal]], [[J Street]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Unite Here Tip Campaign Committee]], [[Progressive Turnout Project]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Google - Alphabet]], [[Medicare for All - The Policy That Broke the Party]], [[Teamsters - International Brotherhood of Teamsters]], [[American College of Radiology Association PAC]], [[NEA Fund for Children and Public Education]], [[IBEW - International Brotherhood of Electrical Workers]], [[National Committee to Preserve Social Security PAC]], [[General Motors]], [[National Nurses United]], [[Sierra Club Independent Action]], [[Planned Parenthood Votes]], [[American Hospital Association PAC]], [[American Federation of State County & Municipal Employees P E O P L E]], [[SEIU COPE]], [[Sierra Club Political Committee]], [[AT&T - WarnerMedia]], [[Ted Lieu]], [[League of Conservation Voters]], [[Demand Justice]], [[AFL-CIO]], [[Raytheon (RTX)]], [[UA Political Action Committee]], [[Environment America INC]], [[AT&T]], [[American Federation of State County & Municipal Employees  P E O P L E]]"
-last-enriched: 2026-04-21
+top-donors: "[[ENVIRONMENT AMERICA INC]], [[National Association of Realtors]], [[Comcast - NBCUniversal]], [[J Street]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Unite Here Tip Campaign Committee]], [[Progressive Turnout Project]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Google - Alphabet]], [[Medicare for All - The Policy That Broke the Party]], [[Teamsters - International Brotherhood of Teamsters]], [[American College of Radiology Association PAC]], [[NEA Fund for Children and Public Education]], [[IBEW - International Brotherhood of Electrical Workers]], [[National Committee to Preserve Social Security PAC]], [[General Motors]], [[National Nurses United]], [[Sierra Club Independent Action]], [[Planned Parenthood Votes]], [[American Hospital Association PAC]], [[American Federation of State County & Municipal Employees P E O P L E]], [[SEIU COPE]], [[Sierra Club Political Committee]], [[AT&T - WarnerMedia]], [[Ted Lieu]], [[League of Conservation Voters]], [[Demand Justice]], [[AFL-CIO]], [[Raytheon (RTX)]], [[UA Political Action Committee]], [[Environment America INC]], [[AT&T]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Raytheon (RTX Corporation)]], [[Humane Society Legislative Fund]], [[National Committee to Preserve Social Security & Medicare PAC]], [[National Education Association]], [[Amgen Inc]], [[National Right to Life PAC]], [[Akin Gump Strauss Hauer & Feld]], [[TED LIEU FOR CONGRESS]], [[ADM - Archer Daniels Midland]], [[Friends of the Earth (action) INC]], [[Rosa DeLauro]], [[Indivisible Action]], [[Democratic Senatorial Campaign Committee]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[Steny H. Hoyer]], [[BARBARA LEE FOR CONGRESS]], [[Nucor Corporation]], [[Planned Parenthood Action Fund INC]], [[MEDICARE FOR ALL]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Health
   - House Committee on Ways and Means
@@ -36,8 +36,8 @@ committees:
   - Joint Committee on Taxation
   - Oversight
   - Trade
-total-raised: "$18.4M"
-career-total-source: "FEC weball summary (cycles 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+total-raised: $18.4M
+career-total-source: FEC weball summary (cycles 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

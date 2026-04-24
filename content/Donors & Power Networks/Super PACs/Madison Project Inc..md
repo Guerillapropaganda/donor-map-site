@@ -11,8 +11,8 @@ fec-committee-id: C00298000
 aliases:
   - MADISON PROJECT INC.
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[John Ratcliffe]], [[Russell Fry]], [[Derrick van Orden]], [[Cory Mills]], [[Anna Paulina Luna]]"
+  - No lobbying disclosure data
+politicians-funded: "[[John Ratcliffe]], [[Russell Fry]], [[Derrick van Orden]], [[Cory Mills]], [[Anna Paulina Luna]], [[D&D UNLIMITED]], [[FAIRWAY OUTDOOR FUNDING LLC]], [[JIM RYUN SPORTS]], [[RST MARKETING]], [[FULFILLMENT HOUSE]], [[Patriot Majority Pac]], [[ACTION MAILERS]], [[IMAGE DIRECT]], [[Madison Project Inc.]], [[TOWNHALL.COM]], [[RITE ENVELOPE & GRAPHICS INC.]], [[NOVA LIST COMPANY]], [[ALLEGIANCE DIRECT LLC]], [[ENVISION MARKETING LLC]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[POSTAGE FOR DIRECT MAIL FUNDRAISING]], [[JONES DAY]], [[FULFILLMENT SOLUTIONS INC.]], [[Vanguard Charitable Endowment Program]], [[RYUN, ANDREW]], [[TRI-STATE ENVELOPE]], [[HSP DIGITAL]], [[Campaign for Community Change]], [[Washington Citizens for Colin Powell]], [[PRODUCTION MANAGEMENT GROUP]], [[CORPORATE PRESS]], [[CORPORATE COMMUNICATIONS GROUP]], [[SARATOGA STRATEGIES LLC]], [[RYUN, JIM]], [[BIGEYE DIRECT]], [[HSP DIRECT]], [[INTERNAL REVENUE SERVICE]], [[RYUN, NED]], [[SABER COMMUNICATION]], [[CONSOLIDATED MAILING SERVICES]], [[POTENTIALS BUSINESS SERVICES]], [[MDI IMAGING & MAIL]], [[ROY MAGNO]], [[Direct Selling Empowers Americans]], [[INTEGRAM]], [[ONPOINT DATA STRATEGY LLC]], [[United Democracy Project - UDP]], [[SISK MAILING SERVICE]], [[CORPORATE MAILING SERVICES]], [[SOUTHWEST PUBLISHING & MAILING]], [[PLANET DIRECT MAIL]], [[RST MARKETING ASSOCIATES]], [[LEGACY LIST MANAGEMENT INC]], [[COLORTREE OF VIRGINIA]], [[ARMSTRONG, MATT]], [[SUNRISE DATA SERVICES]], [[PROFESSIONAL DATA SERVICES INC.]], [[RYUN, JIM MR.]], [[ADVANCED RESPONSE SYSTEMS]], [[SHORT TERM MAIL & POSTAGE ACCT]], [[COMPAK SERVICES INC.]], [[MOORERMG]], [[THE PRINTING EXPRESS LLC]], [[AMH PRINT GROUP LLC]], [[CENTURY DATA MAILING SERVICES]], [[Richard and Elizabeth Uihlein]], [[ALLEGIANCE LIST MARKETING]], [[BMW DIRECT INC]], [[PAYCHEX]], [[HAMILTON SIGNS AND GRAPHICS]], [[SURGE DATA TECHNOLOGIES]], [[Mitt Romney]], [[Tom Cotton]], [[Jennifer A. Kiggans]], [[JD Vance]], [[Marco Rubio]], [[Ted Cruz]], [[W. Gregory Steube]], [[John James]], [[Bill Huizenga]], [[Thomas P. Tiffany]], [[Harriet M. Hageman]], [[Donald Trump]], [[Darrell Issa]], [[Elijah Crane]], [[Michelle Fischbach]], [[Ron Johnson]], [[Jim Jordan]], [[Gary J. Palmer]], [[Ron DeSantis]], [[Thomas Massie]], [[David G. Valadao]], [[Barry Loudermilk]], [[Chip Roy]], [[Jim Banks]], [[Ashley Hinson]], [[Glenn Grothman]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -27,7 +27,7 @@ employee-contributions-total: 30
 employee-donor-count: 1
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

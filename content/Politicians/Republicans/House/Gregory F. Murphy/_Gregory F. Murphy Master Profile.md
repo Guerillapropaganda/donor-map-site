@@ -1,37 +1,37 @@
 ---
-title: "Gregory F. Murphy"
+title: Gregory F. Murphy
 type: politician
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "North Carolina"
-state-abbr: "NC"
+party: Republican
+chamber: House
+state: North Carolina
+state-abbr: NC
 district: "3"
-bioguide-id: "M001210"
+bioguide-id: M001210
 govtrack-id: 412845
 born: "1963-03-05"
-wikidata-id: "Q23074266"
-website: "https://murphy.house.gov"
-phone: "202-225-3415"
+wikidata-id: Q23074266
+website: https://murphy.house.gov
+phone: 202-225-3415
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-donors: "[[CA Farm Bureau Federation]]"
+  - No FEC contribution data
+  - No voting record data
+donors: "[[CA Farm Bureau Federation]], [[National Restaurant Association]], [[Southern Company]], [[Associated General Contractors of America Political Action Committee]], [[AIPAC - American Israel Public Affairs Committee]], [[JASON SMITH FOR CONGRESS]], [[NRA Political Victory Fund]], [[McDonalds Corporation]], [[Donald Trump]], [[Mariannette Miller-Meeks]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Amgen Inc]], [[AbbVie]], [[Pfizer Inc.]], [[Nucor Corporation]], [[American College of Radiology Association PAC]], [[JIM JORDAN FOR CONGRESS]], [[DAVID ROUZER FOR CONGRESS]], [[TEXANS FOR JODEY ARRINGTON]], [[Freedom's Defense Fund]], [[Carol D. Miller]], [[Family Research Council Action Political Action Committee]], [[Steve Scalise]], [[Koch Industries]], [[Richard Hudson]], [[Gilead Sciences]], [[Tzedek PAC]], [[VERN BUCHANAN FOR CONGRESS]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 33
 bills-cosponsored: 253
 bills-enacted: 1
-top-policy-area: "Armed Forces and National Security"
-last-enriched: 2026-04-21
+top-policy-area: Armed Forces and National Security
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Elections
   - Health
   - House Committee on House Administration
-  - "House Committee on Veterans' Affairs"
+  - House Committee on Veterans' Affairs
   - House Committee on Ways and Means
   - Joint Committee on Printing
   - Trade

@@ -1,39 +1,40 @@
 ---
-title: "Bill Huizenga"
+title: Bill Huizenga
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Michigan"
-state-abbr: "MI"
+party: Republican
+chamber: House
+state: Michigan
+state-abbr: MI
 district: "4"
-bioguide-id: "H001058"
+bioguide-id: H001058
 govtrack-id: 412437
 born: "1969-01-31"
-wikidata-id: "Q862199"
-website: "https://huizenga.house.gov"
-phone: "202-225-4401"
+wikidata-id: Q862199
+website: https://huizenga.house.gov
+phone: 202-225-4401
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 29
 bills-cosponsored: 208
 bills-enacted: 2
-top-policy-area: "International Affairs"
-last-enriched: 2026-04-21
+top-policy-area: International Affairs
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Africa
-  - "Digital Assets, Financial Technology, and Artificial Intelligence"
+  - Digital Assets, Financial Technology, and Artificial Intelligence
   - Financial Institutions
   - House Committee on Financial Services
   - House Committee on Foreign Affairs
   - South and Central Asia
+top-donors: "[[Google - Alphabet]], [[NRA Political Victory Fund]], [[Meta - Facebook]], [[Pfizer Inc.]], [[Koch Industries]], [[National Right to Life PAC]], [[Richard Hudson]], [[Mike Johnson]], [[Associated General Contractors of America Political Action Committee]], [[Family Research Council Action Political Action Committee]], [[National Restaurant Association]], [[Tim Walberg]], [[GEO Group - Private Prison Industrial Complex]], [[JASON SMITH FOR CONGRESS]], [[American Principles Fund]], [[Akin Gump Strauss Hauer & Feld]], [[Madison Project Inc.]], [[Steve Scalise]], [[Paul Ryan]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[CLAUDIA TENNEY FOR CONGRESS]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[National Rental Home Council]], [[LISA MCCLAIN FOR CONGRESS]], [[Pete Sessions]], [[W. Gregory Steube]], [[Darin Lahood]], [[TEXANS FOR JODEY ARRINGTON]], [[Coinbase]], [[ADRIAN SMITH FOR CONGRESS]], [[Defend American Jobs]], [[VERN BUCHANAN FOR CONGRESS]], [[AIPAC - American Israel Public Affairs Committee]], [[BYRON DONALDS FOR CONGRESS]], [[JIM JORDAN FOR CONGRESS]], [[John R. Moolenaar]], [[Southern Company]], [[Daniel Meuser]], [[JAKE ELLZEY FOR CONGRESS]], [[American Gaming Association]], [[ANDY HARRIS FOR CONGRESS]], [[National Cattlemen's Beef Association]], [[Ryan Zinke]], [[JOE WILSON FOR CONGRESS]]"
 ---
 
 

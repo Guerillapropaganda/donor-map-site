@@ -18,26 +18,26 @@ phone: 202-225-9895
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-donors: "[[CA Farm Bureau Federation]], [[AT&T - WarnerMedia]], [[American Chemistry Council, INC]], [[Duke Energy]], [[Anthem - Elevance Health]], [[AIPAC - American Israel Public Affairs Committee]], [[Google - Alphabet]], [[MAJORITY PAC]], [[Jason Smith]], [[Honeywell]], [[Ben Cline]], [[American Hospital Association PAC]], [[Madison Project Inc.]], [[Chevron]], [[Jim Jordan]], [[McDonalds Corporation]], [[National Restaurant Association]], [[Associated General Contractors of America Political Action Committee]], [[Pfizer Inc.]], [[Nucor Corporation]], [[National Association of Realtors]], [[Campaign for Working Families]], [[Comcast - NBCUniversal]], [[August Pfluger]], [[Microsoft]], [[WinRed]], [[Tyson Foods]], [[National Multifamily Housing Council]], [[Save America PAC]], [[Care Action]], [[National Rifle Association]], [[AbbVie]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Walmart - Walton Family]], [[iHeartMedia]], [[AT&T]], [[Majority PAC]], [[Honeywell International]]"
+  - No FEC contribution data
+  - No voting record data
+donors: "[[CA Farm Bureau Federation]], [[AT&T - WarnerMedia]], [[American Chemistry Council, INC]], [[Duke Energy]], [[Anthem - Elevance Health]], [[AIPAC - American Israel Public Affairs Committee]], [[Google - Alphabet]], [[MAJORITY PAC]], [[Jason Smith]], [[Honeywell]], [[Ben Cline]], [[American Hospital Association PAC]], [[Madison Project Inc.]], [[Chevron]], [[Jim Jordan]], [[McDonalds Corporation]], [[National Restaurant Association]], [[Associated General Contractors of America Political Action Committee]], [[Pfizer Inc.]], [[Nucor Corporation]], [[National Association of Realtors]], [[Campaign for Working Families]], [[Comcast - NBCUniversal]], [[August Pfluger]], [[Microsoft]], [[WinRed]], [[Tyson Foods]], [[National Multifamily Housing Council]], [[Save America PAC]], [[Care Action]], [[National Rifle Association]], [[AbbVie]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Walmart - Walton Family]], [[iHeartMedia]], [[AT&T]], [[Majority PAC]], [[Honeywell International]], [[JASON SMITH FOR CONGRESS]], [[Koch Industries]], [[NRA Political Victory Fund]], [[Meta - Facebook]], [[Guy Reschenthaler]], [[Kevin McCarthy]], [[Richard Hudson]], [[Akin Gump Strauss Hauer & Feld]], [[American Principles Fund]], [[Southern Company]], [[HAGEMAN FOR WYOMING]], [[JIM JORDAN FOR CONGRESS]], [[AUGUST PFLUGER FOR CONGRESS]], [[TEXANS FOR JODEY ARRINGTON]], [[Steve Scalise]], [[BEN CLINE FOR CONGRESS, INC.]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2SC07280
 bills-sponsored: 11
 bills-cosponsored: 229
 bills-enacted: 0
 top-policy-area: Crime and Law Enforcement
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Commerce, Manufacturing, and Trade"
+  - Commerce, Manufacturing, and Trade
   - Communications and Technology
-  - "Courts, Intellectual Property, Artificial Intelligence, and the Internet"
+  - Courts, Intellectual Property, Artificial Intelligence, and the Internet
   - Energy
   - House Committee on Energy and Commerce
   - House Committee on the Judiciary
-  - "Immigration Integrity, Security, and Enforcement"
-total-raised: "$4.4M"
-career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
+  - Immigration Integrity, Security, and Enforcement
+total-raised: $4.4M
+career-total-source: FEC weball summary (cycles 2022, 2024, 2026)
 ---
 
 

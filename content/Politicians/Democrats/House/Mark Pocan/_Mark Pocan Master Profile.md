@@ -18,23 +18,23 @@ phone: 202-225-2906
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2WI02124
 bills-sponsored: 19
 bills-cosponsored: 582
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[Sierra Club Independent Action]], [[SEIU COPE]], [[IBEW - International Brotherhood of Electrical Workers]], [[American Federation of State County & Municipal Employees P E O P L E]], [[J Street]], [[Let America Vote PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[UA Political Action Committee]], [[Demand Justice]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Unite Here Tip Campaign Committee]], [[Medicare for All - The Policy That Broke the Party]], [[MoveOn.org Political Action]], [[American Hospital Association PAC]], [[AFL-CIO]], [[NEA Fund for Children and Public Education]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[National Nurses United]], [[Care Action]], [[Everytown for Gun Safety]], [[Progressive Turnout Project]], [[National Association of Realtors]], [[Planned Parenthood Votes]], [[Sierra Club Political Committee]], [[Teamsters - International Brotherhood of Teamsters]], [[Google - Alphabet]], [[UPS]], [[AT&T]], [[SEIU - Service Employees International Union]], [[American Federation of State County & Municipal Employees  P E O P L E]]"
-last-enriched: 2026-04-21
+top-donors: "[[Sierra Club Independent Action]], [[SEIU COPE]], [[IBEW - International Brotherhood of Electrical Workers]], [[American Federation of State County & Municipal Employees P E O P L E]], [[J Street]], [[Let America Vote PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[UA Political Action Committee]], [[Demand Justice]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Unite Here Tip Campaign Committee]], [[Medicare for All - The Policy That Broke the Party]], [[MoveOn.org Political Action]], [[American Hospital Association PAC]], [[AFL-CIO]], [[NEA Fund for Children and Public Education]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[National Nurses United]], [[Care Action]], [[Everytown for Gun Safety]], [[Progressive Turnout Project]], [[National Association of Realtors]], [[Planned Parenthood Votes]], [[Sierra Club Political Committee]], [[Teamsters - International Brotherhood of Teamsters]], [[Google - Alphabet]], [[UPS]], [[AT&T]], [[SEIU - Service Employees International Union]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[National Education Association]], [[League of Conservation Voters]], [[Leidos]], [[MARK POCAN FOR CONGRESS]], [[DIANA DEGETTE FOR CONGRESS]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[Indivisible Action]], [[National Committee to Preserve Social Security & Medicare PAC]], [[MEDICARE FOR ALL]], [[AFSCME Working Families Fund]], [[James E. Clyburn]], [[Humana]], [[Marcy Kaptur]], [[Planned Parenthood Action Fund INC]], [[Steny H. Hoyer]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Financial Services and General Government
   - House Committee on Appropriations
-  - "Labor, Health and Human Services, Education, and Related Agencies"
-total-raised: "$8.5M"
-career-total-source: "FEC weball summary (cycles 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+  - Labor, Health and Human Services, Education, and Related Agencies
+total-raised: $8.5M
+career-total-source: FEC weball summary (cycles 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

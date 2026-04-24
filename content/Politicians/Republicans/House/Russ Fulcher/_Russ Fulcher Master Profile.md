@@ -18,27 +18,27 @@ phone: 202-225-6611
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H8ID01124
 bills-sponsored: 15
 bills-cosponsored: 183
 bills-enacted: 0
 top-policy-area: Energy
-top-donors: "[[National Association of Realtors]], [[National Multifamily Housing Council]], [[Jason Smith]], [[AT&T - WarnerMedia]], [[National Rifle Association]], [[American Hospital Association PAC]], [[Jim Jordan]], [[Comcast - NBCUniversal]], [[American College of Radiology Association PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[National Cattlemen's Beef Association]], [[PG&E - Pacific Gas and Electric]], [[Valero Energy]], [[Ben Cline]], [[Anthem - Elevance Health]], [[Marathon Petroleum]], [[Save America PAC]], [[WinRed]], [[MAJORITY PAC]], [[Chevron]], [[Amgen Inc]], [[AT&T]], [[Majority PAC]]"
-last-enriched: 2026-04-21
+top-donors: "[[National Association of Realtors]], [[National Multifamily Housing Council]], [[Jason Smith]], [[AT&T - WarnerMedia]], [[National Rifle Association]], [[American Hospital Association PAC]], [[Jim Jordan]], [[Comcast - NBCUniversal]], [[American College of Radiology Association PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[National Cattlemen's Beef Association]], [[PG&E - Pacific Gas and Electric]], [[Valero Energy]], [[Ben Cline]], [[Anthem - Elevance Health]], [[Marathon Petroleum]], [[Save America PAC]], [[WinRed]], [[MAJORITY PAC]], [[Chevron]], [[Amgen Inc]], [[AT&T]], [[Majority PAC]], [[Steve Scalise]], [[Koch Industries]], [[Michael K. Simpson]], [[Dan Newhouse]], [[Williams Companies]], [[NRA Political Victory Fund]], [[Southern Company]], [[Bechtel Corporation]], [[JIM JORDAN FOR CONGRESS]], [[JASON SMITH FOR CONGRESS]], [[Brett Guthrie]], [[Campaign for Working Families]], [[Club for Growth INC PAC]], [[FreedomWorks for America]], [[MCCAUL FOR CONGRESS, INC]], [[Family Research Council Action Political Action Committee]], [[William R. Timmons]], [[ADRIAN SMITH FOR CONGRESS]], [[DR. BRIAN BABIN FOR CONGRESS]], [[Darin Lahood]], [[Club for Growth]], [[BEN CLINE FOR CONGRESS, INC.]], [[Humane Society Legislative Fund]], [[Glenn Thompson]], [[Kevin McCarthy]], [[Occidental Petroleum]], [[TEXANS FOR JODEY ARRINGTON]], [[Elise Stefanik]], [[JOE WILSON FOR CONGRESS]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Commerce, Manufacturing, and Trade"
+  - Commerce, Manufacturing, and Trade
   - Communications and Technology
   - Energy and Mineral Resources
   - Federal Lands
   - House Committee on Energy and Commerce
   - House Committee on Natural Resources
   - Oversight and Investigations
-total-raised: "$3.2M"
-career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
+total-raised: $3.2M
+career-total-source: FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)
 ---
 
 

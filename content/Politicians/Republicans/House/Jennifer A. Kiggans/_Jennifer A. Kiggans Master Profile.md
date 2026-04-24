@@ -1,43 +1,44 @@
 ---
-title: "Jennifer A. Kiggans"
+title: Jennifer A. Kiggans
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Virginia"
-state-abbr: "VA"
+party: Republican
+chamber: House
+state: Virginia
+state-abbr: VA
 district: "2"
-bioguide-id: "K000399"
+bioguide-id: K000399
 govtrack-id: 456947
 born: "1971-06-18"
-wikidata-id: "Q83119566"
-website: "https://kiggans.house.gov"
-phone: "202-225-4215"
+wikidata-id: Q83119566
+website: https://kiggans.house.gov
+phone: 202-225-4215
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 22
 bills-cosponsored: 299
 bills-enacted: 1
-top-policy-area: "Armed Forces and National Security"
-last-enriched: 2026-04-21
+top-policy-area: Armed Forces and National Security
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Cyber, Information Technologies, and Innovation"
+  - Cyber, Information Technologies, and Innovation
   - Energy and Mineral Resources
   - Health
   - House Committee on Armed Services
   - House Committee on Natural Resources
-  - "House Committee on Veterans' Affairs"
+  - House Committee on Veterans' Affairs
   - Military Personnel
   - Oversight and Investigations
   - Seapower and Projection Forces
-  - "Water, Wildlife and Fisheries"
+  - Water, Wildlife and Fisheries
+top-donors: "[[Carol D. Miller]], [[Special Operations for America]], [[Leidos]], [[Madison Project Inc.]], [[Lloyd Smucker]], [[NRA Political Victory Fund]], [[Mike Johnson]], [[DR. BRIAN BABIN FOR CONGRESS]], [[FRIENDS OF TIM MOORE]], [[COMER FOR CONGRESS]], [[MARK GREEN FOR CONGRESS]], [[BURCHETT FOR CONGRESS]], [[Dale W. Strong]], [[Randy Feenstra]], [[HOUCHIN FOR CONGRESS]], [[Koch Industries]], [[Glenn Thompson]], [[Steve Scalise]], [[HAGEMAN FOR WYOMING]], [[JAKE ELLZEY FOR CONGRESS]], [[Brandon Gill]], [[Associated General Contractors of America Political Action Committee]], [[JIM JORDAN FOR CONGRESS]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[Tim Walberg]], [[LISA MCCLAIN FOR CONGRESS]], [[Pfizer Inc.]], [[RICK W. ALLEN FOR CONGRESS]], [[Dan Newhouse]], [[Wfw Action Fund, Inc.]], [[National Cattlemen's Beef Association]], [[Opportunity Matters Fund]], [[DAVE TAYLOR FOR CONGRESS]], [[Mariannette Miller-Meeks]], [[MAST FOR CONGRESS]], [[Pat Fallon]], [[David P. Joyce]], [[BRAD KNOTT FOR CONGRESS]], [[Richard McCormick]], [[National Restaurant Association]], [[Tom Emmer]], [[Daniel Meuser]], [[FEDORCHAK FOR ND]], [[H. Morgan Griffith]], [[ANDY HARRIS FOR CONGRESS]], [[Michael Guest]], [[Williams Companies]], [[DAVID ROUZER FOR CONGRESS]], [[Humana]], [[MIKE HARIDOPOLOS FOR CONGRESS]], [[ADRIAN SMITH FOR CONGRESS]], [[BYRON DONALDS FOR CONGRESS]], [[John R. Moolenaar]], [[MIKE KENNEDY FOR UTAH]], [[BLAKE MOORE FOR CONGRESS]], [[ROBERT ADERHOLT FOR CONGRESS]], [[JOHN CURTIS FOR UTAH]], [[Robert E. Latta]], [[Nicholas A. Langworthy]], [[AIPAC - American Israel Public Affairs Committee]], [[BICE FOR CONGRESS]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Freedom's Defense Fund]], [[Rick Crawford]], [[Ashley Hinson]], [[MICHAEL WALTZ FOR CONGRESS]], [[Republican Jewish Coalition]], [[RON ESTES FOR CONGRESS]], [[Gregory F. Murphy]], [[Kevin Kiley]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[Tyson Foods]], [[John J. McGuire]], [[Robert F. Onder]], [[Kevin McCarthy]], [[Guy Reschenthaler]], [[Earl L. Buddy Carter]], [[WEBER FOR CONGRESS]], [[JOE WILSON FOR CONGRESS]], [[CARLOS GIMENEZ FOR CONGRESS]], [[PETE SESSIONS FOR CONGRESS]], [[CLIFF BENTZ FOR CONGRESS]], [[Google - Alphabet]], [[Richard Hudson]], [[FRY FOR CONGRESS]], [[Law Enforcement for a Safer America Pac]], [[TEXANS FOR JODEY ARRINGTON]], [[Jeff Hurd]], [[National Victory Action Fund]], [[BEN CLINE FOR CONGRESS, INC.]], [[National Right to Life Victory Fund]], [[CLAUDIA TENNEY FOR CONGRESS]], [[GARY PALMER FOR CONGRESS]], [[Honoring American Law Enforcement Pac]], [[Michael R. Turner]], [[DIANA FOR CONGRESS]], [[AbbVie]], [[MOORE FOR WEST VIRGINIA, INC.]], [[GLENN GROTHMAN FOR CONGRESS]], [[Frank Lucas]], [[AUGUST PFLUGER FOR CONGRESS]], [[LOUDERMILK FOR CONGRESS]], [[VERN BUCHANAN FOR CONGRESS]], [[CRENSHAW, DANIEL]], [[SCOTT FRANKLIN FOR CONGRESS]], [[BURGESS 4 UTAH]], [[Elise Stefanik]], [[Neal P. Dunn]], [[MIKE COLLINS FOR SENATE]]"
 ---
 
 

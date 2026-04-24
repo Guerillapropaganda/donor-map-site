@@ -18,29 +18,29 @@ phone: 202-225-4272
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H0GA07273
 bills-sponsored: 16
 bills-cosponsored: 258
 bills-enacted: 0
 top-policy-area: International Affairs
-top-donors: "[[Anthem - Elevance Health]], [[Campaign for Working Families]], [[National Association of Realtors]], [[Club for Growth INC PAC]], [[Ben Cline]], [[Associated General Contractors of America Political Action Committee]], [[National Restaurant Association]], [[Republican Jewish Coalition]], [[American College of Radiology Association PAC]], [[General Dynamics]], [[Planned Parenthood Votes]], [[Honeywell]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Google - Alphabet]], [[American Hospital Association PAC]], [[National Rifle Association]], [[Leidos]], [[Raytheon (RTX)]], [[Lockheed Martin]], [[L3Harris Technologies]], [[MAJORITY PAC]], [[Americans for Prosperity]], [[Humana]], [[Freedom's Defense Fund]], [[Tzedek PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[Walmart - Walton Family]], [[Northrop Grumman]], [[National Cattlemen's Beef Association]], [[Tyson Foods]], [[Andy Harris]], [[WinRed]], [[SPECIAL OPERATIONS FOR AMERICA]], [[Southern States Police Benevolent Assoc PAC Fund]], [[Jason Smith]], [[Majority PAC]], [[Honeywell International]], [[Special Operations for America]]"
-last-enriched: 2026-04-21
+top-donors: "[[Anthem - Elevance Health]], [[Campaign for Working Families]], [[National Association of Realtors]], [[Club for Growth INC PAC]], [[Ben Cline]], [[Associated General Contractors of America Political Action Committee]], [[National Restaurant Association]], [[Republican Jewish Coalition]], [[American College of Radiology Association PAC]], [[General Dynamics]], [[Planned Parenthood Votes]], [[Honeywell]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Google - Alphabet]], [[American Hospital Association PAC]], [[National Rifle Association]], [[Leidos]], [[Raytheon (RTX)]], [[Lockheed Martin]], [[L3Harris Technologies]], [[MAJORITY PAC]], [[Americans for Prosperity]], [[Humana]], [[Freedom's Defense Fund]], [[Tzedek PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[Walmart - Walton Family]], [[Northrop Grumman]], [[National Cattlemen's Beef Association]], [[Tyson Foods]], [[Andy Harris]], [[WinRed]], [[SPECIAL OPERATIONS FOR AMERICA]], [[Southern States Police Benevolent Assoc PAC Fund]], [[Jason Smith]], [[Majority PAC]], [[Honeywell International]], [[Special Operations for America]], [[Raytheon (RTX Corporation)]], [[Koch Industries]], [[Kevin McCarthy]], [[DAVID ROUZER FOR CONGRESS]], [[TEXANS FOR JODEY ARRINGTON]], [[NRA Political Victory Fund]], [[ANDY HARRIS FOR CONGRESS]], [[HAGEMAN FOR WYOMING]], [[CLOUD FOR CONGRESS]], [[ADRIAN SMITH FOR CONGRESS]], [[Richard Hudson]], [[Steve Scalise]], [[Glenn Thompson]], [[JIM JORDAN FOR CONGRESS]], [[Guy Reschenthaler]], [[Club for Growth]], [[GARY PALMER FOR CONGRESS]], [[ROBERT ADERHOLT FOR CONGRESS]], [[Carol D. Miller]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[JASON SMITH FOR CONGRESS]], [[BEN CLINE FOR CONGRESS, INC.]], [[CLYDE FOR CONGRESS, INC.]], [[MARK GREEN FOR CONGRESS]], [[DR. BRIAN BABIN FOR CONGRESS]], [[American Principles Fund]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Africa
-  - "Cyber, Information Technologies, and Innovation"
+  - Cyber, Information Technologies, and Innovation
   - House Committee on Armed Services
   - House Committee on Foreign Affairs
-  - "House Committee on Science, Space, and Technology"
+  - House Committee on Science, Space, and Technology
   - Investigations and Oversight
   - Oversight and Intelligence
   - Space and Aeronautics
   - Tactical Air and Land Forces
-total-raised: "$10.9M"
-career-total-source: "FEC weball summary (cycles 2020, 2022, 2024, 2026)"
+total-raised: $10.9M
+career-total-source: FEC weball summary (cycles 2020, 2022, 2024, 2026)
 ---
 
 

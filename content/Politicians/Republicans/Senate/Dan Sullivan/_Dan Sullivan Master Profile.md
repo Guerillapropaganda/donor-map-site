@@ -2,8 +2,7 @@
 title: Dan Sullivan
 type: politician
 content-readiness: draft
-
-last-updated: 2026-04-19
+last-updated: 2026-04-19T00:00:00.000Z
 source-tier: 1
 party: Republican
 chamber: Senate
@@ -20,7 +19,7 @@ source-types:
 known-gaps:
   - No direct individual contribution totals
   - NEA Advocacy Fund $728K FOR designation anomalous (may not be National Education Association)
-central-thesis: "Dan Sullivan is the Alaska extraction senator in a Marine Corps officer's uniform. The fossil fuel donor slate (ConocoPhillips, Devon Energy, Halliburton, Chevron, Marathon) funds the senator who blocks drilling restrictions on the North Slope. The defense contractor slate (Northrop, Raytheon, L3Harris, General Dynamics, Lockheed, Bechtel) funds the Marine Reserves Colonel who sits on Armed Services. The $29.6M in opposition super-PAC spending (7:1 over his support) reflects anti-MAGA and Democratic targeting, but Alaska's partisan lean held."
+central-thesis: Dan Sullivan is the Alaska extraction senator in a Marine Corps officer's uniform. The fossil fuel donor slate (ConocoPhillips, Devon Energy, Halliburton, Chevron, Marathon) funds the senator who blocks drilling restrictions on the North Slope. The defense contractor slate (Northrop, Raytheon, L3Harris, General Dynamics, Lockheed, Bechtel) funds the Marine Reserves Colonel who sits on Armed Services. The $29.6M in opposition super-PAC spending (7:1 over his support) reflects anti-MAGA and Democratic targeting, but Alaska's partisan lean held.
 editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 stock-trades: 26
 stock-trade-tickers:
@@ -34,30 +33,30 @@ stock-trade-tickers:
   - TSCIX
   - VPMAX
   - GFAFX
-donors: "[[ConocoPhillips]], [[Devon Energy]], [[L3Harris Technologies]], [[Halliburton]], [[BAE Systems]], [[Northrop Grumman]], [[Associated General Contractors of America Political Action Committee]], [[Amgen Inc]], [[Raytheon (RTX)]], [[General Motors]], [[Performance Racing Inc.]], [[DoorDash]], [[WinRed]], [[iHeartMedia]], [[American Hospital Association PAC]], [[Google - Alphabet]], [[Common Sense for America PAC]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Duke Energy]], [[National Rifle Association]], [[National Multifamily Housing Council]], [[CoreCivic - Private Prisons]], [[Microsoft]], [[General Dynamics]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Chevron]], [[Marathon Petroleum]], [[MAJORITY PAC]], [[National Association of Realtors]], [[Lockheed Martin]], [[Bechtel Corporation]], [[Comcast - NBCUniversal]], [[NRSC - National Republican Senatorial Committee]], [[Anthem - Elevance Health]], [[Indivisible Action]], [[AbbVie]], [[Walmart - Walton Family]], [[Planned Parenthood Votes]], [[Majority PAC]]"
+donors: "[[ConocoPhillips]], [[Devon Energy]], [[L3Harris Technologies]], [[Halliburton]], [[BAE Systems]], [[Northrop Grumman]], [[Associated General Contractors of America Political Action Committee]], [[Amgen Inc]], [[Raytheon (RTX)]], [[General Motors]], [[Performance Racing Inc.]], [[DoorDash]], [[WinRed]], [[iHeartMedia]], [[American Hospital Association PAC]], [[Google - Alphabet]], [[Common Sense for America PAC]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Duke Energy]], [[National Rifle Association]], [[National Multifamily Housing Council]], [[CoreCivic - Private Prisons]], [[Microsoft]], [[General Dynamics]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Chevron]], [[Marathon Petroleum]], [[MAJORITY PAC]], [[National Association of Realtors]], [[Lockheed Martin]], [[Bechtel Corporation]], [[Comcast - NBCUniversal]], [[NRSC - National Republican Senatorial Committee]], [[Anthem - Elevance Health]], [[Indivisible Action]], [[AbbVie]], [[Walmart - Walton Family]], [[Planned Parenthood Votes]], [[Majority PAC]], [[Raytheon (RTX Corporation)]], [[National Republican Senatorial Committee]], [[Dan Sullivan]], [[Club for Growth INC PAC]], [[National Right to Life Victory Fund]], [[Hunter Action Fund (haf)]], [[Gun Owners of America]], [[Tom Cotton]], [[Campaign for Working Families]], [[Meta - Facebook]], [[National Right to Life PAC]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[AFL-CIO]], [[JIM JORDAN FOR CONGRESS]], [[Rick Crawford]], [[CoreCivic]], [[Koch Industries]], [[Republican Jewish Coalition]], [[National Association of Manufacturers]], [[Focus on the Family Action]], [[American Principles Fund]], [[Roger Marshall]], [[Akin Gump Strauss Hauer & Feld]], [[Club for Growth]], [[NRA Political Victory Fund]], [[Williams Companies]], [[COTTON, THOMAS]], [[American Crossroads]], [[GEO Group - Private Prison Industrial Complex]], [[Freedom Partners Action Fund Inc]], [[Cooperative of American Physicians Independent Expenditure Committee]], [[NEA Advocacy Fund]], [[Southern Company]], [[National Restaurant Association]], [[Leidos]], [[Cargill]], [[Family Research Council Action Political Action Committee]], [[Pfizer Inc.]], [[Liberty Maritime Corporation PAC]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: S4AK00214
 bills-sponsored: 74
 bills-cosponsored: 335
 bills-enacted: 0
 top-policy-area: International Affairs
-last-enriched: 2026-04-20
+last-enriched: 2026-04-20T00:00:00.000Z
 committees:
   - Airland
-  - "Chemical Safety, Waste Management, Environmental Justice, and Regulatory Oversight"
-  - "Coast Guard, Maritime, and Fisheries"
-  - "Fisheries, Wildlife, and Water"
+  - Chemical Safety, Waste Management, Environmental Justice, and Regulatory Oversight
+  - Coast Guard, Maritime, and Fisheries
+  - Fisheries, Wildlife, and Water
   - Readiness and Management Support
   - Seapower
   - Senate Committee on Armed Services
-  - "Senate Committee on Commerce, Science, and Transportation"
+  - Senate Committee on Commerce, Science, and Transportation
   - Senate Committee on Environment and Public Works
-  - "Senate Committee on Veterans' Affairs"
-  - "Surface Transportation, Freight, Pipelines, and Safety"
+  - Senate Committee on Veterans' Affairs
+  - Surface Transportation, Freight, Pipelines, and Safety
   - Telecommunications and Media
   - Transportation and Infrastructure
-total-raised: "$27.7M"
-career-total-source: "FEC weball summary (cycles 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+total-raised: $27.7M
+career-total-source: FEC weball summary (cycles 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

@@ -14,7 +14,7 @@ fec-ie-oppose: $8,374,056
 aliases:
   - Ending Spending Action Fund
   - ENDING SPENDING ACTION FUND
-politicians-funded: "[[Deb Fischer]], [[Roger Marshall]], [[John Hickenlooper]], [[Patty Murray]], [[Dan Osborn]], [[Ruben Gallego]], [[Jon Ossoff]], [[Raphael Warnock]]"
+politicians-funded: "[[Deb Fischer]], [[Roger Marshall]], [[John Hickenlooper]], [[Patty Murray]], [[Dan Osborn]], [[Ruben Gallego]], [[Jon Ossoff]], [[Raphael Warnock]], [[MAKE LOUISIANA PROUD PAC]], [[GIBSON, DUNN & CRUTCHER, LLP]], [[TWELVE 28 STRATEGIES]], [[CAMPAIGNHQ]], [[TAXPAYERS AGAINST EARMARKS, INC.]], [[America PAC - Elon Musk]], [[TARGETED VICTORY]], [[PATTON BOGGS, LLP]], [[CD, INC.]], [[TARGETPOINT CONSULTING, INC.]], [[CLARK HILL, PLC]], [[NAHIGIAN STRATEGIES, LLC]], [[ENDING SPENDING, INC.]], [[AXIS RESEARCH, INC.]], [[Robert Mercer]], [[FABRIZIO WARD & ASSOCIATES, LLC]], [[Kevin McCarthy]], [[WILSON PERKINS ALLEN]], [[BULLPEN STRATEGY GROUP, LLC]], [[DICKINSON WRIGHT PLLC]], [[DELOS COMMUNICATIONS, LLC]], [[NEWTON HEATH, LLC]], [[JONES DAY]], [[MENTZER MEDIA SERVICES, INC.]], [[REMINGTON RESEARCH GROUP, LLC]], [[THE TARRANCE GROUP LLC]], [[ARENA ONLINE]], [[American Homes 4 Rent]], [[1060 GROUP, INC.]], [[Victory for Schaumburg]], [[KYZLE.COM, LLC]], [[WILEY REIN, LLP]], [[WPAI]], [[NMB RESEARCH, LLC]], [[Co Impact Philanthropic Funds]], [[BDPC, LLC]], [[LOOK AHEAD STRATEGIES]], [[DDC ADVOCACY]], [[Don Bacon]], [[J. French Hill]], [[Todd Young]], [[John Kennedy]], [[Mitt Romney]], [[Ted Cruz]], [[Kevin Cramer]], [[John James]], [[Neal P. Dunn]]"
 related: "[[Roger Marshall]] · [[Deb Fischer]] · [[Dan Osborn]] · [[Patty Murray]] · [[John Hickenlooper]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -26,8 +26,8 @@ contributions-to-committees: 262500
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

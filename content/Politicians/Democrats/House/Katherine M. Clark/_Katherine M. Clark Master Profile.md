@@ -1,32 +1,32 @@
 ---
-title: "Katherine M. Clark"
+title: Katherine M. Clark
 type: politician
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Massachusetts"
-state-abbr: "MA"
+party: Democrat
+chamber: House
+state: Massachusetts
+state-abbr: MA
 district: "5"
-bioguide-id: "C001101"
+bioguide-id: C001101
 govtrack-id: 412600
 born: "1963-07-17"
-wikidata-id: "Q6376330"
-website: "https://katherineclark.house.gov"
-phone: "202-225-2836"
+wikidata-id: Q6376330
+website: https://katherineclark.house.gov
+phone: 202-225-2836
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-donors: "[[ActBlue]]"
+  - No FEC contribution data
+  - No voting record data
+donors: "[[ActBlue]], [[League of Conservation Voters]], [[Akin Gump Strauss Hauer & Feld]], [[Sierra Club Political Committee]], [[John B. Larson]], [[Leidos]], [[CVS Health - Aetna]], [[AIPAC - American Israel Public Affairs Committee]], [[Giffords PAC]], [[AbbVie]], [[American College of Radiology Association PAC]], [[Amgen Inc]], [[McDonalds Corporation]], [[LOFGREN FOR CONGRESS]], [[National Education Association]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Pfizer Inc.]], [[Yvette D. Clarke]], [[Google - Alphabet]], [[J Street]], [[LOIS FRANKEL FOR CONGRESS]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Planned Parenthood Action Fund INC]], [[Let America Vote PAC]], [[Tyson Foods]], [[Frank Pallone]], [[MEDICARE FOR ALL]], [[National Restaurant Association]], [[Humana]], [[VICENTE GONZALEZ FOR CONGRESS]], [[National Nurses United]], [[Emily's List]], [[Richard Neal]], [[Gilead Sciences]], [[MATSUI FOR CONGRESS]], [[Meta - Facebook]], [[Nucor Corporation]], [[Coinbase]], [[American Gaming Association]], [[AFL-CIO]], [[Cargill]], [[Southern Company]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 6
 bills-cosponsored: 49
 bills-enacted: 0
-top-policy-area: "Civil Rights and Liberties, Minority Issues"
-last-enriched: 2026-04-21
+top-policy-area: Civil Rights and Liberties, Minority Issues
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

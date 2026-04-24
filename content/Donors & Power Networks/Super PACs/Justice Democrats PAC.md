@@ -10,9 +10,9 @@ source-tier: 1
 aliases:
   - JUSTICE DEMOCRATS PAC
 known-gaps:
-  - "No lobbying disclosure data"
+  - No lobbying disclosure data
 related: "[[Jamaal Bowman]] · [[The FEC Complaints - PAC-to-LLC Transfer Controversy]] · [[Wesley Bell]] · [[Summer Lee]] · [[Richard Neal]] · [[George Latimer]] · [[Cori Bush]]"
-politicians-funded: "[[Cori Bush]], [[Jamaal Bowman]], [[Richard Neal]], [[George Latimer]], [[Summer Lee]], [[Wesley Bell]], [[Ilhan Omar]], [[Ayanna Pressley]], [[Rashida Tlaib]], [[Henry Cuellar]], [[Nina Turner]]"
+politicians-funded: "[[Cori Bush]], [[Jamaal Bowman]], [[Richard Neal]], [[George Latimer]], [[Summer Lee]], [[Wesley Bell]], [[Ilhan Omar]], [[Ayanna Pressley]], [[Rashida Tlaib]], [[Henry Cuellar]], [[Nina Turner]], [[United Democracy Project - UDP]], [[BRAND NEW CONGRESS, LLC]], [[ROJAS, ALEXANDRA]], [[Co Impact Philanthropic Funds]], [[GETTHRU]], [[MIDDLE SEAT CONSULTING]], [[Justice Democrats PAC]], [[RAST, REBECCA]], [[TAPPAN RESEARCH LLC]], [[LAMADRID, VASTHY]], [[AISLE 518]], [[ZOOM.US]], [[WE ALSO WALK DOGS, INC.]], [[ALLEN, TYLER]], [[Humana]], [[UPSWING RESEARCH & STRATEGY]], [[ADAMS, TYLER]], [[ActBlue]], [[First Amendment Alliance]], [[NGP VAN, INC.]], [[LAKE RESEARCH PARTNERS]], [[MIDDLE SEAT CONSULTING, LLC]], [[ORGANIZE FOR JUSTICE]], [[EVERYACTION, INC]], [[DATA FOR THE SOCIAL GOOD]], [[GQR FOCUS GROUP]], [[SHORESTART, LLC]], [[AIRTABLE.COM]], [[Airbnb]], [[SIMPSON, GEOFFREY]], [[DANELSKI, ROSEMARY]], [[TIDES ADVOCACY]], [[TAHIR, BILAL]], [[EVERYACTION, INC.]], [[GRASSROOTS ANALYTICS]], [[JIANG, KAI]], [[MELTWATER GROUP]], [[TOSKR]], [[ADP]], [[LEFT RISING LLC]], [[Greg Casar]], [[Joe Biden]], [[Delia C. Ramirez]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -28,7 +28,7 @@ employee-contributions-total: 25
 employee-donor-count: 1
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

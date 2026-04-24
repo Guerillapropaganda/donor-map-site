@@ -1,37 +1,38 @@
 ---
-title: "Johnny Olszewski"
+title: Johnny Olszewski
 type: politician
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Maryland"
-state-abbr: "MD"
+party: Democrat
+chamber: House
+state: Maryland
+state-abbr: MD
 district: "2"
-bioguide-id: "O000176"
+bioguide-id: O000176
 govtrack-id: 456991
 born: "1982-09-10"
-wikidata-id: "Q6217866"
-website: "https://olszewski.house.gov"
-phone: "202-225-3061"
+wikidata-id: Q6217866
+website: https://olszewski.house.gov
+phone: 202-225-3061
 source-types:
   - Congress
   - GovTrack
 known-gaps:
-  - "No FEC contribution data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Africa
   - East Asia and Pacific
   - House Committee on Foreign Affairs
   - House Committee on Small Business
-  - "Innovation, Entrepreneurship, and Workforce Development"
-  - "Rural Development, Energy, and Supply Chains"
+  - Innovation, Entrepreneurship, and Workforce Development
+  - Rural Development, Energy, and Supply Chains
 bills-sponsored: 10
 corroboration-count: 2
+top-donors: "[[Bradley Scott Schneider]], [[PETE AGUILAR FOR CONGRESS]], [[AFL-CIO]], [[Robin L. Kelly]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[League of Conservation Voters]], [[AIPAC - American Israel Public Affairs Committee]], [[Richard Neal]], [[National Education Association]], [[Protect Progress]], [[J Street]], [[American Gaming Association]], [[KWEISI MFUME FOR CONGRESS]]"
 ---
 
 

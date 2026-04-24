@@ -1,37 +1,38 @@
 ---
-title: "Luz M. Rivas"
+title: Luz M. Rivas
 type: politician
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "California"
-state-abbr: "CA"
+party: Democrat
+chamber: House
+state: California
+state-abbr: CA
 district: "29"
-bioguide-id: "R000620"
+bioguide-id: R000620
 govtrack-id: 456978
 born: "1974-02-06"
-wikidata-id: "Q54861699"
-website: "https://rivas.house.gov"
-phone: "202-225-6131"
+wikidata-id: Q54861699
+website: https://rivas.house.gov
+phone: 202-225-6131
 source-types:
   - Congress
   - GovTrack
 known-gaps:
-  - "No FEC contribution data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Energy and Mineral Resources
   - House Committee on Natural Resources
-  - "House Committee on Science, Space, and Technology"
+  - House Committee on Science, Space, and Technology
   - Investigations and Oversight
   - Research and Technology
-  - "Water, Wildlife and Fisheries"
+  - Water, Wildlife and Fisheries
 bills-sponsored: 8
 corroboration-count: 2
+top-donors: "[[LUZ RIVAS FOR CONGRESS]], [[National Nurses United]], [[PETE AGUILAR FOR CONGRESS]], [[Let America Vote PAC]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[Google - Alphabet]], [[Environment America INC]], [[MEDICARE FOR ALL]], [[Blue Shield of California]], [[BARRAGAN FOR CONGRESS]], [[Amgen Inc]], [[Cooperative of American Physicians Independent Expenditure Committee]], [[HUFFMAN FOR CONGRESS]], [[SHERMAN FOR CONGRESS]], [[KEVIN MULLIN FOR CONGRESS]], [[Johnny Olszewski]], [[TED LIEU FOR CONGRESS]], [[Pfizer Inc.]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[National Education Association]], [[Juan Vargas]], [[ROBERT GARCIA FOR CONGRESS]], [[League of Conservation Voters]]"
 ---
 
 

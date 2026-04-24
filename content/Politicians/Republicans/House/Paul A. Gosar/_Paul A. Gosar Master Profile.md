@@ -1,32 +1,32 @@
 ---
-title: "Paul A. Gosar"
+title: Paul A. Gosar
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Arizona"
-state-abbr: "AZ"
+party: Republican
+chamber: House
+state: Arizona
+state-abbr: AZ
 district: "9"
-bioguide-id: "G000565"
+bioguide-id: G000565
 govtrack-id: 412397
 born: "1958-11-22"
-wikidata-id: "Q2059832"
-website: "https://gosar.house.gov"
-phone: "202-225-2315"
+wikidata-id: Q2059832
+website: https://gosar.house.gov
+phone: 202-225-2315
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 21
 bills-cosponsored: 401
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Energy and Mineral Resources
   - Federal Law Enforcement
@@ -34,6 +34,7 @@ committees:
   - House Committee on Natural Resources
   - House Committee on Oversight and Government Reform
   - Oversight and Investigations
+top-donors: "[[NRA Political Victory Fund]], [[Koch Industries]], [[JIM JORDAN FOR CONGRESS]], [[Gun Owners of America]], [[American College of Radiology Association PAC]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[National Cattlemen's Beef Association]], [[Occidental Petroleum]], [[Southern Company]], [[Akin Gump Strauss Hauer & Feld]], [[John Boehner]], [[Nucor Corporation]], [[National Restaurant Association]], [[Senate Majority PAC]], [[CoreCivic]], [[Pete Sessions]], [[Campaign for Working Families]], [[Steve Scalise]], [[TEXANS FOR JODEY ARRINGTON]], [[PETE SESSIONS FOR CONGRESS]], [[ISSA FOR CONGRESS]], [[Senate Conservatives Fund]], [[Associated General Contractors of America Political Action Committee]], [[SCOTT, TIMOTHY]], [[FRIENDS OF MATT GAETZ]], [[National Right to Life PAC]]"
 ---
 
 

@@ -15,7 +15,7 @@ last-enriched: "2026-04-15"
 ofac-programs:
   - IRAN-HR] [HRIT-IR
   - IRAN-HR
-politicians-funded: "[[Rashida Tlaib]], [[Randy Fine]], [[Rick Scott]], [[Ashley Moody]], [[Ron Johnson]], [[Donald Trump]], [[Ayanna Pressley]], [[Ilhan Omar]], [[John Fetterman]], [[Derrick van Orden]], [[Tim Scott]], [[Jimmy Patronis]], [[Scott Fitzgerald]], [[Kamala Harris]], [[Lee Zeldin]], [[Alexandria Ocasio-Cortez]]"
+politicians-funded: "[[Rashida Tlaib]], [[Randy Fine]], [[Rick Scott]], [[Ashley Moody]], [[Ron Johnson]], [[Donald Trump]], [[Ayanna Pressley]], [[Ilhan Omar]], [[John Fetterman]], [[Derrick van Orden]], [[Tim Scott]], [[Jimmy Patronis]], [[Scott Fitzgerald]], [[Kamala Harris]], [[Lee Zeldin]], [[Alexandria Ocasio-Cortez]], [[AVERY SERVICES, LLC]], [[UNIFIED DATA SERVICES LLC]], [[ELLIS CROW SOLUTIONS]], [[COPILEVITZ, LAM & RANEY]], [[EPMX, INC]], [[International Association of Chiefs of Police]], [[RALLYPAY]], [[CLOUD FOR CONGRESS]], [[BRIEF CALL, INC]], [[QUICK CALL,INC]], [[QUICK CALL, INC]], [[PRO SPEAKING, LLC]], [[STANDARD DATA SERVICES LLC]], [[OPTICAL MARKETING, LLC]], [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]], [[DONOR SOLUTION, LLC]], [[THE BOWLINE GROUP LLC]], [[MARKET PROCESS GROUP]], [[EMPX, INC]], [[ADVANCE CREATIVE MEDIA, INC]], [[GSI, INC.]], [[EYP CONSULTING, LLC]], [[THE CONTACT CENTER, INC]], [[LAV SERVICES, LLC]], [[CONTACT LOGISTIC CORP]], [[ACTION COMMITTEE MARKETING, LLC]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[GSI, INC]], [[STATEWIDE PROFESSIONAL GROUP, LLC]], [[UNIQ TECHNOLOGIES, INC]], [[STATEWIDE PROFESSIONAL GROUP LLC]], [[QUICK CALL INC]], [[WIRED4DATA]], [[COMMUNITY CARES UNITED, LLC]], [[COURTESY SERVICES LLC]], [[POLITICAUSE, LLC]], [[RIDGE INNOVATIVE]], [[POLITICAUSE,LLC]], [[COMMUNITY CARES UNITED,LLC]], [[LAV SERVICES LLC]], [[United Democracy Project - UDP]], [[NEW LEVEL PRODUCTIONS, INC.]], [[COMPLIANCE CONSULTANTS LLC]], [[PATRON PLUS INC]], [[GSI INC]], [[PRO SPEAKING,LLC]], [[GSI,INC]], [[SUPPORT CALL, INC]], [[GROUP CONSULTANTS, INC]], [[GROUP CONSULTANTS,INC]], [[ACTION COMMITTIE MARKETING,LLC]], [[Campaign for Community Change]], [[American Homes 4 Rent]], [[PUBLIC SUPPORT SERVICES, INC]], [[PATRON MARKETING, INC]], [[STANDARD DATA SERVICES]], [[RARE STEAK HOUSE AND TAVERN]], [[PATRON PLUS, INC]], [[OFFICE EDGE, LLC]], [[DS3 MARKETING, LLC]], [[Don Bacon]], [[Tom Cotton]], [[Chuck Grassley]], [[Brian Mast]], [[Jennifer A. Kiggans]], [[Gabe Evans]], [[Ami Bera]]"
 related: "[[Rashida Tlaib]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -29,7 +29,7 @@ individual-contributions: 2972964
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
+  - No lobbying disclosure data
 ---
 
 

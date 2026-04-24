@@ -2,8 +2,8 @@
 title: Betty McCollum
 type: politician
 content-readiness: draft
-last-updated: 2026-04-19
-central-thesis: "Betty McCollum is the 25-year Defense Appropriations subcommittee Democrat whose $6.6M lifetime direct PAC total combines a deep labor coalition (IBEW $152K/49 txns, NATCA $105K/84 txns, Southern Minnesota Sugar Cooperative $98K/56 txns as genuine Minnesota constituency anchors) with a defense-industry data panel (L3Harris $30K, Honeywell $27.5K, Raytheon $26K, General Dynamics $25K, Northrop Grumman $25K, BAE Systems $22.5K) that contradicts her public position as Congress's most sustained critic of US military aid used on Palestinian children."
+last-updated: 2026-04-19T00:00:00.000Z
+central-thesis: Betty McCollum is the 25-year Defense Appropriations subcommittee Democrat whose $6.6M lifetime direct PAC total combines a deep labor coalition (IBEW $152K/49 txns, NATCA $105K/84 txns, Southern Minnesota Sugar Cooperative $98K/56 txns as genuine Minnesota constituency anchors) with a defense-industry data panel (L3Harris $30K, Honeywell $27.5K, Raytheon $26K, General Dynamics $25K, Northrop Grumman $25K, BAE Systems $22.5K) that contradicts her public position as Congress's most sustained critic of US military aid used on Palestinian children.
 editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 source-tier: 1
 party: Democrat
@@ -30,14 +30,14 @@ bills-sponsored: 10
 bills-cosponsored: 496
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[National Association of Realtors]], [[Google - Alphabet]], [[Planned Parenthood of Minnesota Political Action Fund]], [[L3Harris Technologies]], [[General Dynamics]], [[Raytheon (RTX)]], [[American Hospital Association PAC]], [[Teamsters - International Brotherhood of Teamsters]], [[SEIU COPE]], [[ENVIRONMENT AMERICA INC]], [[J Street]], [[Leidos]], [[League of Conservation Voters]], [[General Motors]], [[Amgen Inc]], [[National Nurses United]], [[IBEW - International Brotherhood of Electrical Workers]], [[Honeywell]], [[Ted Lieu]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[DCCC - Democratic Congressional Campaign Committee]], [[NEA Fund for Children and Public Education]], [[National Multifamily Housing Council]], [[Lockheed Martin]], [[Northrop Grumman]], [[BAE Systems]], [[Planned Parenthood Votes]], [[Sierra Club Independent Action]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Microsoft]], [[PG&E - Pacific Gas and Electric]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[Medicare for All - The Policy That Broke the Party]], [[Progressive Turnout Project]], [[American College of Radiology Association PAC]], [[NextEra Energy]], [[AFSCME Working Families Fund]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Environment America INC]], [[Minnesota Democratic-Farmer-Labor Party]], [[Honeywell International]]"
-last-enriched: 2026-04-20
+top-donors: "[[National Association of Realtors]], [[Google - Alphabet]], [[Planned Parenthood of Minnesota Political Action Fund]], [[L3Harris Technologies]], [[General Dynamics]], [[Raytheon (RTX)]], [[American Hospital Association PAC]], [[Teamsters - International Brotherhood of Teamsters]], [[SEIU COPE]], [[ENVIRONMENT AMERICA INC]], [[J Street]], [[Leidos]], [[League of Conservation Voters]], [[General Motors]], [[Amgen Inc]], [[National Nurses United]], [[IBEW - International Brotherhood of Electrical Workers]], [[Honeywell]], [[Ted Lieu]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[DCCC - Democratic Congressional Campaign Committee]], [[NEA Fund for Children and Public Education]], [[National Multifamily Housing Council]], [[Lockheed Martin]], [[Northrop Grumman]], [[BAE Systems]], [[Planned Parenthood Votes]], [[Sierra Club Independent Action]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Microsoft]], [[PG&E - Pacific Gas and Electric]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[Medicare for All - The Policy That Broke the Party]], [[Progressive Turnout Project]], [[American College of Radiology Association PAC]], [[NextEra Energy]], [[AFSCME Working Families Fund]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Environment America INC]], [[Minnesota Democratic-Farmer-Labor Party]], [[Honeywell International]], [[Raytheon (RTX Corporation)]], [[AFL-CIO]], [[James E. Clyburn]], [[National Education Association]], [[TAMMY BALDWIN FOR CONGRESS]], [[Let America Vote PAC]], [[Janice D. Schakowsky]], [[Sierra Club Political Committee]], [[National Committee to Preserve Social Security & Medicare PAC]], [[MEDICARE FOR ALL]], [[LOFGREN FOR CONGRESS]], [[Bernie Sanders]], [[Planned Parenthood Action Fund INC]], [[Xavier Becerra]], [[Donald S. Beyer]], [[Akin Gump Strauss Hauer & Feld]], [[Marcy Kaptur]], [[NANCY PELOSI FOR CONGRESS]], [[Cargill]], [[TED LIEU FOR CONGRESS]], [[Rosa DeLauro]], [[Care Action]], [[Hilda Solis]]"
+last-enriched: 2026-04-20T00:00:00.000Z
 committees:
   - Defense
   - House Committee on Appropriations
-  - "Interior, Environment, and Related Agencies"
-total-raised: "$14.5M"
-career-total-source: "FEC weball summary (cycles 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+  - Interior, Environment, and Related Agencies
+total-raised: $14.5M
+career-total-source: FEC weball summary (cycles 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

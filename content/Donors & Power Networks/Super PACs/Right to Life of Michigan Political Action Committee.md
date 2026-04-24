@@ -5,14 +5,14 @@ content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00101212
 aliases:
   - RIGHT TO LIFE OF MICHIGAN POLITICAL ACTION COMMITTEE
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Debbie Stabenow]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Debbie Stabenow]], [[Haley M. Stevens]], [[Jack Bergman]], [[Mike Rogers]], [[George W. Bush]], [[John McCain]], [[John James]], [[Tim Walberg]], [[Mitt Romney]], [[John R. Moolenaar]]"
 related: "[[Debbie Stabenow]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -22,11 +22,11 @@ cash-on-hand: 104
 ofac-sdn-match: "true"
 last-enriched: "2026-04-16"
 ofac-programs:
-  - "IRAN-TRA"
+  - IRAN-TRA
 source-types:
   - FEC
-total-political-spend: "$982K"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 1992, 2000, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018"
+total-political-spend: $982K
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 1992, 2000, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018
 ---
 
 

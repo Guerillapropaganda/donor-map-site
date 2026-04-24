@@ -1,40 +1,41 @@
 ---
-title: "Jack Bergman"
+title: Jack Bergman
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Michigan"
-state-abbr: "MI"
+party: Republican
+chamber: House
+state: Michigan
+state-abbr: MI
 district: "1"
-bioguide-id: "B001301"
+bioguide-id: B001301
 govtrack-id: 412709
 born: "1947-02-02"
-wikidata-id: "Q6262116"
-website: "https://bergman.house.gov"
-phone: "202-225-4735"
+wikidata-id: Q6262116
+website: https://bergman.house.gov
+phone: 202-225-4735
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 28
 bills-cosponsored: 277
 bills-enacted: 2
-top-policy-area: "Armed Forces and National Security"
-last-enriched: 2026-04-21
+top-policy-area: Armed Forces and National Security
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Disability Assistance and Memorial Affairs
   - Health
   - House Committee on Armed Services
-  - "House Committee on Veterans' Affairs"
+  - House Committee on Veterans' Affairs
   - House Committee on the Budget
   - Readiness
   - Seapower and Projection Forces
+top-donors: "[[Humana]], [[CLAUDIA TENNEY FOR CONGRESS]], [[Steve Scalise]], [[CITIZENS FOR JOHN RUTHERFORD]], [[Right to Life of Michigan Political Action Committee]], [[American Iron and Steel Institute]], [[Republican Jewish Coalition]], [[NRA Political Victory Fund]], [[Associated General Contractors of America Political Action Committee]], [[Tim Walberg]], [[Leidos]], [[Brett Guthrie]], [[American College of Radiology Association PAC]], [[Pfizer Inc.]], [[Earl L. Buddy Carter]], [[Freedom's Defense Fund]], [[JOE WILSON FOR CONGRESS]], [[FRIENDS OF MATT GAETZ]], [[National Restaurant Association]], [[Darin Lahood]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[Google - Alphabet]], [[Roger Marshall]], [[DR. BRIAN BABIN FOR CONGRESS]], [[John R. Moolenaar]], [[Neal P. Dunn]], [[TEXANS FOR JODEY ARRINGTON]], [[GARY PALMER FOR CONGRESS]], [[Donald Trump]], [[Campaign for Working Families]], [[Jim Banks]], [[Paul Ryan]], [[Mike Johnson]], [[BRIAN FITZPATRICK FOR ALL OF US]], [[Koch Industries]], [[GEO Group - Private Prison Industrial Complex]], [[Tom McClintock]], [[ANDY HARRIS FOR CONGRESS]], [[Carol D. Miller]], [[Michigan Republican Party]], [[Special Operations for America]], [[National Right to Life Victory Fund]], [[With Honor Fund]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[JASON SMITH FOR CONGRESS]], [[KAY GRANGER CAMPAIGN FUND]], [[AIPAC - American Israel Public Affairs Committee]], [[KUSTOFF FOR CONGRESS]]"
 ---
 
 

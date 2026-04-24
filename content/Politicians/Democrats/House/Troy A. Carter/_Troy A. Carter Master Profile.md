@@ -1,40 +1,41 @@
 ---
-title: "Troy A. Carter"
+title: Troy A. Carter
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Louisiana"
-state-abbr: "LA"
+party: Democrat
+chamber: House
+state: Louisiana
+state-abbr: LA
 district: "2"
-bioguide-id: "C001125"
+bioguide-id: C001125
 govtrack-id: 456860
 born: "1963-10-26"
-wikidata-id: "Q7846787"
-website: "https://troycarter.house.gov"
-phone: "202-225-6636"
+wikidata-id: Q7846787
+website: https://troycarter.house.gov
+phone: 202-225-6636
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 25
 bills-cosponsored: 644
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Communications and Technology
   - Environment
   - Health
   - House Committee on Energy and Commerce
   - House Committee on Homeland Security
-  - "Oversight, Investigations, and Accountability"
+  - Oversight, Investigations, and Accountability
   - Transportation and Maritime Security
+top-donors: "[[CVS Health - Aetna]], [[Nucor Corporation]], [[Southern Company]], [[AbbVie]], [[Raja Krishnamoorthi]], [[Marc A. Veasey]], [[Ro Khanna]], [[Humana]], [[Akin Gump Strauss Hauer & Feld]], [[McDonalds Corporation]], [[National Education Association]], [[Williams Companies]], [[James E. Clyburn]], [[Amgen Inc]], [[Meta - Facebook]], [[Cargill]], [[Pfizer Inc.]], [[Hakeem Jeffries]], [[Gilead Sciences]], [[Associated General Contractors of America Political Action Committee]], [[American Gaming Association]], [[NANCY PELOSI FOR CONGRESS]], [[Google - Alphabet]], [[Coinbase]], [[Tyson Foods]], [[Leidos]], [[Occidental Petroleum]], [[TED LIEU FOR CONGRESS]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[American College of Radiology Association PAC]], [[MEDICARE FOR ALL]], [[AFL-CIO]], [[Protecting Our Vote Pac]], [[Bobby Scott]], [[BONNIE WATSON COLEMAN FOR CONGRESS]], [[ADM - Archer Daniels Midland]]"
 ---
 
 

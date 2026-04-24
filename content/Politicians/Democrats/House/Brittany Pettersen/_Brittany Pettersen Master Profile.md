@@ -18,23 +18,23 @@ phone: 202-225-2645
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H8CO07045
 bills-sponsored: 25
 bills-cosponsored: 497
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[FAIR SHARE ACTION]], [[AT&T - WarnerMedia]], [[Anthem - Elevance Health]], [[National Multifamily Housing Council]], [[AIPAC - American Israel Public Affairs Committee]], [[IBEW - International Brotherhood of Electrical Workers]], [[Gilead Sciences]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Giffords PAC]], [[National Association of Realtors]], [[Google - Alphabet]], [[Human Rights Campaign Equality Votes]], [[Sierra Club Independent Action]], [[Ted Lieu]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[League of Conservation Voters]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Comcast - NBCUniversal]], [[Care Action]], [[SEIU COPE]], [[UA Political Action Committee]], [[DCCC - Democratic Congressional Campaign Committee]], [[MoveOn.org Political Action]], [[Northrop Grumman]], [[Teamsters - International Brotherhood of Teamsters]], [[DMFI - Democratic Majority for Israel]], [[Progressive Turnout Project]], [[Walmart - Walton Family]], [[Emily's List]], [[American Conservative Union]], [[Pfizer Inc.]], [[Bank of America]], [[CVS Health - Aetna]], [[General Motors]], [[Citigroup]], [[Pete Aguilar]], [[NextEra Energy]], [[American Hospital Association PAC]], [[J Street]], [[Honeywell]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Morgan Stanley]], [[NEA Fund for Children and Public Education]], [[Jason Crow]], [[National Education Association]], [[BAE Systems]], [[Lockheed Martin]], [[Associated General Contractors of America Political Action Committee]], [[Sierra Club Political Committee]], [[CHC BOLD PAC]], [[Jamie Raskin]], [[Raytheon (RTX)]], [[Let America Vote PAC]], [[American Chemistry Council, INC]], [[Humana]], [[AFL-CIO]], [[Coinbase]], [[Mike Thompson]], [[Robert Garcia]], [[Planned Parenthood Action Fund INC]], [[Airbnb]], [[Fairshake PAC - Crypto Super PAC]], [[Joe Neguse]], [[Nancy Pelosi]], [[Hmp]], [[Fair Share Action]], [[Honeywell International]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[AT&T]], [[HMP]], [[Fairshake PAC]]"
-last-enriched: 2026-04-21
+top-donors: "[[FAIR SHARE ACTION]], [[AT&T - WarnerMedia]], [[Anthem - Elevance Health]], [[National Multifamily Housing Council]], [[AIPAC - American Israel Public Affairs Committee]], [[IBEW - International Brotherhood of Electrical Workers]], [[Gilead Sciences]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Giffords PAC]], [[National Association of Realtors]], [[Google - Alphabet]], [[Human Rights Campaign Equality Votes]], [[Sierra Club Independent Action]], [[Ted Lieu]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[League of Conservation Voters]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Comcast - NBCUniversal]], [[Care Action]], [[SEIU COPE]], [[UA Political Action Committee]], [[DCCC - Democratic Congressional Campaign Committee]], [[MoveOn.org Political Action]], [[Northrop Grumman]], [[Teamsters - International Brotherhood of Teamsters]], [[DMFI - Democratic Majority for Israel]], [[Progressive Turnout Project]], [[Walmart - Walton Family]], [[Emily's List]], [[American Conservative Union]], [[Pfizer Inc.]], [[Bank of America]], [[CVS Health - Aetna]], [[General Motors]], [[Citigroup]], [[Pete Aguilar]], [[NextEra Energy]], [[American Hospital Association PAC]], [[J Street]], [[Honeywell]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Morgan Stanley]], [[NEA Fund for Children and Public Education]], [[Jason Crow]], [[National Education Association]], [[BAE Systems]], [[Lockheed Martin]], [[Associated General Contractors of America Political Action Committee]], [[Sierra Club Political Committee]], [[CHC BOLD PAC]], [[Jamie Raskin]], [[Raytheon (RTX)]], [[Let America Vote PAC]], [[American Chemistry Council, INC]], [[Humana]], [[AFL-CIO]], [[Coinbase]], [[Mike Thompson]], [[Robert Garcia]], [[Planned Parenthood Action Fund INC]], [[Airbnb]], [[Fairshake PAC - Crypto Super PAC]], [[Joe Neguse]], [[Nancy Pelosi]], [[Hmp]], [[Fair Share Action]], [[Honeywell International]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[AT&T]], [[HMP]], [[Fairshake PAC]], [[Raytheon (RTX Corporation)]], [[NANCY PELOSI FOR CONGRESS]], [[Bradley Scott Schneider]], [[DOGGETT FOR U S CONGRESS COMMITTEE]], [[JAMIE RASKIN FOR CONGRESS]], [[SHERMAN FOR CONGRESS]], [[Hakeem Jeffries]], [[ROBERT GARCIA FOR CONGRESS]], [[Eric Swalwell]], [[MIKE THOMPSON FOR CONGRESS]], [[Ami Bera]], [[Gerry Connolly]], [[Steny H. Hoyer]], [[Adam Schiff]], [[Donald S. Beyer]], [[CITIZENS TO ELECT RICK LARSEN]], [[JOE NEGUSE FOR CONGRESS]], [[TED LIEU FOR CONGRESS]], [[JASMINE FOR US]], [[JASON CROW FOR CONGRESS]], [[PETE AGUILAR FOR CONGRESS]], [[MELANIE FOR NEW MEXICO]], [[LORI TRAHAN FOR CONGRESS COMMITTEE]], [[MAD 4 PA PAC]], [[DEBORAH ROSS FOR CONGRESS]], [[SCOTT PETERS FOR CONGRESS]], [[James E. Clyburn]], [[Lizzie Fletcher]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Digital Assets, Financial Technology, and Artificial Intelligence"
+  - Digital Assets, Financial Technology, and Artificial Intelligence
   - House Committee on Financial Services
   - Housing and Insurance
-total-raised: "$7.0M"
-career-total-source: "FEC weball summary (cycles 2018, 2022, 2024, 2026)"
+total-raised: $7.0M
+career-total-source: FEC weball summary (cycles 2018, 2022, 2024, 2026)
 ---
 
 

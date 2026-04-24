@@ -18,24 +18,24 @@ phone: 202-225-4572
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-donors: "[[Brady Campaign]], [[National Association of Realtors]], [[Comcast - NBCUniversal]], [[General Motors]], [[IBEW - International Brotherhood of Electrical Workers]], [[American Federation of State County & Municipal Employees P E O P L E]], [[League of Conservation Voters]], [[AT&T - WarnerMedia]], [[AbbVie]], [[Jamie Raskin]], [[Walmart - Walton Family]], [[Citigroup]], [[Raytheon (RTX)]], [[Morgan Stanley]], [[NEA Fund for Children and Public Education]], [[Amgen Inc]], [[Lockheed Martin]], [[NextEra Energy]], [[Johnson & Johnson]], [[Progressive Turnout Project]], [[American Hospital Association PAC]], [[Sierra Club Independent Action]], [[Care Action]], [[Microsoft]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Planned Parenthood Votes]], [[Pfizer Inc.]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[UA Political Action Committee]], [[SEIU COPE]], [[National Multifamily Housing Council]], [[J Street]], [[National Committee to Preserve Social Security PAC]], [[Planned Parenthood Action Fund INC]], [[Anthem - Elevance Health]], [[Teamsters - International Brotherhood of Teamsters]], [[Mike Thompson]], [[Bank of America]], [[Google - Alphabet]], [[Honeywell]], [[Leidos]], [[AT&T]], [[Honeywell International]], [[American Federation of State County & Municipal Employees  P E O P L E]]"
+  - No FEC contribution data
+  - No voting record data
+donors: "[[Brady Campaign]], [[National Association of Realtors]], [[Comcast - NBCUniversal]], [[General Motors]], [[IBEW - International Brotherhood of Electrical Workers]], [[American Federation of State County & Municipal Employees P E O P L E]], [[League of Conservation Voters]], [[AT&T - WarnerMedia]], [[AbbVie]], [[Jamie Raskin]], [[Walmart - Walton Family]], [[Citigroup]], [[Raytheon (RTX)]], [[Morgan Stanley]], [[NEA Fund for Children and Public Education]], [[Amgen Inc]], [[Lockheed Martin]], [[NextEra Energy]], [[Johnson & Johnson]], [[Progressive Turnout Project]], [[American Hospital Association PAC]], [[Sierra Club Independent Action]], [[Care Action]], [[Microsoft]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Planned Parenthood Votes]], [[Pfizer Inc.]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[UA Political Action Committee]], [[SEIU COPE]], [[National Multifamily Housing Council]], [[J Street]], [[National Committee to Preserve Social Security PAC]], [[Planned Parenthood Action Fund INC]], [[Anthem - Elevance Health]], [[Teamsters - International Brotherhood of Teamsters]], [[Mike Thompson]], [[Bank of America]], [[Google - Alphabet]], [[Honeywell]], [[Leidos]], [[AT&T]], [[Honeywell International]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Raytheon (RTX Corporation)]], [[National Education Association]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[BARBARA LEE FOR CONGRESS]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Center for Popular Democracy]], [[Akin Gump Strauss Hauer & Feld]], [[Sierra Club Political Committee]], [[AFL-CIO]], [[DAVID SCOTT FOR CONGRESS]], [[JAMIE RASKIN FOR CONGRESS]], [[McDonalds Corporation]], [[James E. Clyburn]], [[House Majority PAC]], [[American College of Radiology Association PAC]], [[NANCY PELOSI FOR CONGRESS]], [[Steven Horsford]], [[HALEY STEVENS FOR CONGRESS]], [[Yvette D. Clarke]], [[SHERMAN FOR CONGRESS]], [[Hakeem Jeffries]], [[Humana]], [[Barack Obama]], [[Frank Pallone]], [[Richard Neal]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4WI04183
 bills-sponsored: 27
 bills-cosponsored: 589
 bills-enacted: 0
 top-policy-area: Health
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - House Committee on Ways and Means
   - Joint Economic Committee
   - Social Security
   - Tax
   - Work and Welfare
-total-raised: "$11.3M"
-career-total-source: "FEC weball summary (cycles 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+total-raised: $11.3M
+career-total-source: FEC weball summary (cycles 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

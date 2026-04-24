@@ -1,36 +1,37 @@
 ---
-title: "Thomas R. Suozzi"
+title: Thomas R. Suozzi
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "New York"
-state-abbr: "NY"
+party: Democrat
+chamber: House
+state: New York
+state-abbr: NY
 district: "3"
-bioguide-id: "S001201"
+bioguide-id: S001201
 govtrack-id: 412717
 born: "1962-08-31"
-wikidata-id: "Q7794276"
-website: "https://suozzi.house.gov"
-phone: "202-225-3335"
+wikidata-id: Q7794276
+website: https://suozzi.house.gov
+phone: 202-225-3335
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 4
 bills-cosponsored: 250
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - House Committee on Ways and Means
   - Oversight
   - Tax
+top-donors: "[[NANCY PELOSI FOR CONGRESS]], [[League of Conservation Voters]], [[GRACE FOR NEW YORK]], [[Hakeem Jeffries]], [[Janice D. Schakowsky]], [[Rosa DeLauro]], [[Akin Gump Strauss Hauer & Feld]], [[Pfizer Inc.]], [[National Education Association]], [[PETE AGUILAR FOR CONGRESS]], [[Let America Vote PAC]], [[PAUL TONKO FOR CONGRESS]], [[American College of Radiology Association PAC]], [[Richard Neal]], [[SHERMAN FOR CONGRESS]], [[James E. Clyburn]], [[DOGGETT FOR U S CONGRESS COMMITTEE]], [[Gilead Sciences]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Giffords PAC]], [[Robert Garcia]], [[Marcy Kaptur]], [[Jerrold Nadler]], [[Activate America]], [[Lizzie Fletcher]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Bradley Scott Schneider]], [[Juan Vargas]], [[DEBORAH ROSS FOR CONGRESS]], [[LOFGREN FOR CONGRESS]], [[Kim Schrier]], [[Google - Alphabet]], [[American Gaming Association]], [[Sierra Club Political Committee]], [[AFL-CIO]], [[CVS Health - Aetna]], [[Maxwell Frost]], [[HIMES FOR CONGRESS]], [[Yvette D. Clarke]], [[AFSCME Working Families Fund]], [[Jerry Nadler]], [[BARBARA LEE FOR CONGRESS]], [[No Labels Action, Inc.]], [[Suzanne Bonamici]], [[MARK TAKANO FOR CONGRESS]], [[Donald S. Beyer]], [[CASTOR FOR CONGRESS]], [[JIMMY PANETTA FOR CONGRESS]], [[GALLEGO FOR ARIZONA]], [[KATHERINE CLARK FOR CONGRESS]], [[Steve Cohen]], [[Planned Parenthood Action Fund INC]], [[SARA JACOBS FOR CONGRESS]], [[Indivisible Action]], [[Humana]], [[JUDY CHU FOR CONGRESS]], [[JULIA BROWNLEY FOR CONGRESS]], [[COURTNEY, JOSEPH]], [[AIPAC - American Israel Public Affairs Committee]], [[MCCLELLAN FOR CONGRESS]], [[MARK KELLY FOR SENATE]], [[Southern Company]], [[SHARICE FOR CONGRESS]], [[STANTON FOR CONGRESS]], [[VIRGIN ISLANDS FOR PLASKETT]], [[ADRIANO ESPAILLAT FOR CONGRESS]], [[Nydia Velazquez]], [[LORI TRAHAN FOR CONGRESS COMMITTEE]], [[Leidos]], [[VERONICA ESCOBAR FOR CONGRESS]], [[Steny H. Hoyer]], [[BARRAGAN FOR CONGRESS]], [[JOE NEGUSE FOR CONGRESS]]"
 ---
 
 

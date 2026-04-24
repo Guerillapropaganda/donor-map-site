@@ -20,21 +20,21 @@ source-types:
   - FEC
   - GovTrack
 known-gaps:
-  - "No mapped relationships"
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4NH02399
-top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[League of Conservation Voters]], [[SEIU COPE]], [[Nancy Pelosi]], [[Let America Vote PAC]], [[Teamsters - International Brotherhood of Teamsters]], [[National Association of Realtors]], [[Votevets]], [[American Hospital Association PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Pete Aguilar]], [[DCCC - Democratic Congressional Campaign Committee]], [[NEA Fund for Children and Public Education]], [[NORPAC]], [[General Dynamics]], [[IBEW - International Brotherhood of Electrical Workers]], [[Julia Brownley]], [[Emily's List]], [[Demand Justice]], [[Sierra Club Political Committee]], [[American Federation of State County & Municipal Employees P E O P L E]], [[American Federation of State County & Municipal Employees  P E O P L E]]"
-last-enriched: 2026-04-21
+top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[League of Conservation Voters]], [[SEIU COPE]], [[Nancy Pelosi]], [[Let America Vote PAC]], [[Teamsters - International Brotherhood of Teamsters]], [[National Association of Realtors]], [[Votevets]], [[American Hospital Association PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Pete Aguilar]], [[DCCC - Democratic Congressional Campaign Committee]], [[NEA Fund for Children and Public Education]], [[NORPAC]], [[General Dynamics]], [[IBEW - International Brotherhood of Electrical Workers]], [[Julia Brownley]], [[Emily's List]], [[Demand Justice]], [[Sierra Club Political Committee]], [[American Federation of State County & Municipal Employees P E O P L E]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Bradley Scott Schneider]], [[Mary Gay Scanlon]], [[Hakeem Jeffries]], [[JULIA BROWNLEY FOR CONGRESS]], [[STRICKLAND FOR WASHINGTON]], [[Robert Garcia]], [[KATHERINE CLARK FOR CONGRESS]], [[Chris Murphy]], [[PETE AGUILAR FOR CONGRESS]], [[National Education Association]], [[NANCY PELOSI FOR CONGRESS]], [[SHARICE FOR CONGRESS]], [[HIMES FOR CONGRESS]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Economic Growth, Tax, and Capital Access"
+  - Economic Growth, Tax, and Capital Access
   - House Committee on Armed Services
   - House Committee on Small Business
   - Military Personnel
-  - "Oversight, Investigations, and Regulations"
-  - "Rural Development, Energy, and Supply Chains"
+  - Oversight, Investigations, and Regulations
+  - Rural Development, Energy, and Supply Chains
   - Tactical Air and Land Forces
-total-raised: "$7.3M"
-career-total-source: "FEC weball summary (cycles 2024, 2026)"
+total-raised: $7.3M
+career-total-source: FEC weball summary (cycles 2024, 2026)
 bills-sponsored: 8
 corroboration-count: 3
 ---

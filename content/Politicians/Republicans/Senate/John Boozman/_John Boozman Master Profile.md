@@ -19,7 +19,7 @@ issues:
 stock-trades: 43
 total-received: $335,864
 fec-candidate-id: S0AR00150
-donors: "[[Walmart - Walton Family]] · [[Tyson Foods]] · [[PLANNED PARENTHOOD ACTION FUND INC]] · [[Crypto Innovation PAC]] · [[Microsoft]] · [[Amgen Inc]] · [[Citigroup]] · [[NRSC - National Republican Senatorial Committee]] · [[Coinbase]] · [[Bank of America]] · [[General Motors]] · [[American Chemistry Council, INC]] · [[Chevron]] · [[National Multifamily Housing Council]] · [[CoreCivic - Private Prisons]] · [[Ford Motor Company]] · [[Duke Energy]] · [[BAE Systems]] · [[American Hospital Association PAC]] · [[Lockheed Martin]] · [[Raytheon (RTX)]] · [[Heartland Resurgence]] · [[American Dream Federal Action]] · [[L3Harris Technologies]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[National Victory Action Fund]] · [[Common Sense for America PAC]] · [[National Restaurant Association]] · [[Associated General Contractors of America Political Action Committee]] · [[Republican Jewish Coalition]] · [[AT&T - WarnerMedia]] · [[American Gaming Association]] · [[Comcast - NBCUniversal]] · [[iHeartMedia]] · [[Google - Alphabet]] · [[Johnson & Johnson]] · [[ConocoPhillips]] · [[Honeywell]] · [[Northrop Grumman]] · [[American College of Radiology Association PAC]] · [[Marathon Petroleum]] · [[DoorDash]] · [[Morgan Stanley]] · [[Tenet Healthcare]] · [[Leidos]] · [[National Association of Realtors]] · [[National Rifle Association]] · [[WinRed]] · [[National Cattlemen's Beef Association]] · [[Nucor Corporation]] · [[National Wildlife Federation Action Fund]] · [[AbbVie]] · [[Save America PAC]] · [[Valero Energy]] · [[General Dynamics]] · [[Anthem - Elevance Health]] · [[McDonalds Corporation]] · [[Pfizer Inc.]] · [[NextEra Energy]] · [[AIPAC - American Israel Public Affairs Committee]] · [[AT&T]] · [[Honeywell International]]"
+donors: "[[Walmart - Walton Family]] · [[Tyson Foods]] · [[PLANNED PARENTHOOD ACTION FUND INC]] · [[Crypto Innovation PAC]] · [[Microsoft]] · [[Amgen Inc]] · [[Citigroup]] · [[NRSC - National Republican Senatorial Committee]] · [[Coinbase]] · [[Bank of America]] · [[General Motors]] · [[American Chemistry Council, INC]] · [[Chevron]] · [[National Multifamily Housing Council]] · [[CoreCivic - Private Prisons]] · [[Ford Motor Company]] · [[Duke Energy]] · [[BAE Systems]] · [[American Hospital Association PAC]] · [[Lockheed Martin]] · [[Raytheon (RTX)]] · [[Heartland Resurgence]] · [[American Dream Federal Action]] · [[L3Harris Technologies]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[National Victory Action Fund]] · [[Common Sense for America PAC]] · [[National Restaurant Association]] · [[Associated General Contractors of America Political Action Committee]] · [[Republican Jewish Coalition]] · [[AT&T - WarnerMedia]] · [[American Gaming Association]] · [[Comcast - NBCUniversal]] · [[iHeartMedia]] · [[Google - Alphabet]] · [[Johnson & Johnson]] · [[ConocoPhillips]] · [[Honeywell]] · [[Northrop Grumman]] · [[American College of Radiology Association PAC]] · [[Marathon Petroleum]] · [[DoorDash]] · [[Morgan Stanley]] · [[Tenet Healthcare]] · [[Leidos]] · [[National Association of Realtors]] · [[National Rifle Association]] · [[WinRed]] · [[National Cattlemen's Beef Association]] · [[Nucor Corporation]] · [[National Wildlife Federation Action Fund]] · [[AbbVie]] · [[Save America PAC]] · [[Valero Energy]] · [[General Dynamics]] · [[Anthem - Elevance Health]] · [[McDonalds Corporation]] · [[Pfizer Inc.]] · [[NextEra Energy]] · [[AIPAC - American Israel Public Affairs Committee]] · [[AT&T]] · [[Honeywell International]] · [[Raytheon (RTX Corporation)]] · [[National Republican Senatorial Committee]] · [[Monsanto - Bayer]] · [[Cargill]] · [[Family Research Council Action Political Action Committee]] · [[NRA Political Victory Fund]] · [[Koch Industries]] · [[CoreCivic]] · [[Sinclair Broadcast Group]] · [[Humana]] · [[Roger Marshall]] · [[Williams Companies]] · [[ADM - Archer Daniels Midland]] · [[Southern Company]] · [[Akin Gump Strauss Hauer & Feld]] · [[Occidental Petroleum]] · [[Senate Majority PAC]] · [[Gun Owners of America]] · [[Meta - Facebook]] · [[Campaign for Working Families]] · [[J. French Hill]] · [[Rick Crawford]] · [[Dan Coats]] · [[Mike Rogers]] · [[Steve Womack]] · [[Jim Inhofe]] · [[GEO Group - Private Prison Industrial Complex]] · [[WESTERMAN FOR CONGRESS]] · [[National Right to Life PAC]]"
 related: "[[Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides]] · [[_Glenn Thompson Master Profile|Glenn Thompson]] · [[_Donald Trump Master Profile|Trump]]"
 needs-reenrichment: true
 reenrich-reason: run congress pipeline; run pipelines
@@ -29,14 +29,14 @@ bills-sponsored: 20
 bills-cosponsored: 351
 bills-enacted: 1
 top-policy-area: Armed Forces and National Security
-last-enriched: 2026-04-20
+last-enriched: 2026-04-20T00:00:00.000Z
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-total-raised: "$17.5M"
-career-total-source: "FEC weball summary (cycles 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+  - No FEC contribution data
+  - No voting record data
+total-raised: $17.5M
+career-total-source: FEC weball summary (cycles 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

@@ -18,27 +18,27 @@ phone: 202-225-6205
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H6OH08315
 bills-sponsored: 39
 bills-cosponsored: 181
 bills-enacted: 0
 top-policy-area: Finance and Financial Sector
-top-donors: "[[Coinbase]], [[National Right to Life Victory Fund]], [[Jim Jordan]], [[Morgan Stanley]], [[National Association of Realtors]], [[National Rifle Association]], [[National Rental Home Council]], [[AT&T - WarnerMedia]], [[Citigroup]], [[JPAC - Jewish Public Affairs Committee of California]], [[WinRed]], [[Duke Energy]], [[Save America PAC]], [[General Dynamics]], [[MAJORITY PAC]], [[Chevron]], [[Bank of America]], [[National Multifamily Housing Council]], [[AT&T]], [[Majority PAC]]"
-last-enriched: 2026-04-21
+top-donors: "[[Coinbase]], [[National Right to Life Victory Fund]], [[Jim Jordan]], [[Morgan Stanley]], [[National Association of Realtors]], [[National Rifle Association]], [[National Rental Home Council]], [[AT&T - WarnerMedia]], [[Citigroup]], [[JPAC - Jewish Public Affairs Committee of California]], [[WinRed]], [[Duke Energy]], [[Save America PAC]], [[General Dynamics]], [[MAJORITY PAC]], [[Chevron]], [[Bank of America]], [[National Multifamily Housing Council]], [[AT&T]], [[Majority PAC]], [[NRA Political Victory Fund]], [[Koch Industries]], [[Campaign for Working Families]], [[Senate Conservatives Fund]], [[Steve Scalise]], [[Frank Lucas]], [[JIM JORDAN FOR CONGRESS]], [[Club for Growth]], [[Club for Growth INC PAC]], [[National Association of Manufacturers]], [[Brandon Gill]], [[TEXANS FOR JODEY ARRINGTON]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Capital Markets
-  - "Digital Assets, Financial Technology, and Artificial Intelligence"
+  - Digital Assets, Financial Technology, and Artificial Intelligence
   - Europe
   - House Committee on Financial Services
   - House Committee on Foreign Affairs
-  - "National Security, Illicit Finance, and International Financial Institutions"
+  - National Security, Illicit Finance, and International Financial Institutions
   - Oversight and Intelligence
-total-raised: "$5.4M"
-career-total-source: "FEC weball summary (cycles 2016, 2018, 2020, 2022, 2024, 2026)"
+total-raised: $5.4M
+career-total-source: FEC weball summary (cycles 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

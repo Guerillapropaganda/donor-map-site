@@ -18,24 +18,24 @@ phone: 202-225-3341
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-donors: "[[National Cattlemen's Beef Association]] · [[California Farm Bureau Federation]] · [[AT&T - WarnerMedia]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Morgan Stanley]] · [[Performance Racing Inc.]] · [[Google - Alphabet]] · [[National Association of Manufacturers]] · [[National Association of Realtors]] · [[Comcast - NBCUniversal]] · [[McDonalds Corporation]] · [[National Restaurant Association]] · [[Lockheed Martin]] · [[DoorDash]] · [[Associated General Contractors of America Political Action Committee]] · [[Pete Aguilar]] · [[ConocoPhillips]] · [[PG&E - Pacific Gas and Electric]] · [[General Motors]] · [[Honeywell]] · [[American Hospital Association PAC]] · [[Walmart - Walton Family]] · [[Marathon Petroleum]] · [[NEA Fund for Children and Public Education]] · [[Tyson Foods]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[ADM - Archer Daniels Midland]] · [[Cooperative of American Physicians Independent Expenditure Committee]] · [[National Multifamily Housing Council]] · [[Devon Energy]] · [[Valero Energy]] · [[Anthem - Elevance Health]] · [[Chevron]] · [[American Chemistry Council, INC]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[CHC BOLD PAC]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Progressive Turnout Project]] · [[Courage California Super Pac]] · [[Nancy Pelosi]] · [[Halliburton]] · [[CTA - California Teachers Association]] · [[CVS Health - Aetna]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[Planned Parenthood Votes]] · [[PG&E]] · [[Fanjul Family - Florida Crystals]] · [[Uber]] · [[FTX - Sam Bankman-Fried]] · [[AT&T]] · [[Kaiser Permanente]] · [[Goldman Sachs]] · [[Bank of America]] · [[Apple]] · [[Microsoft]] · [[American Federation of State County & Municipal Employees  P E O P L E]] · [[Honeywell International]]"
+  - No FEC contribution data
+  - No voting record data
+donors: "[[National Cattlemen's Beef Association]] · [[California Farm Bureau Federation]] · [[AT&T - WarnerMedia]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Morgan Stanley]] · [[Performance Racing Inc.]] · [[Google - Alphabet]] · [[National Association of Manufacturers]] · [[National Association of Realtors]] · [[Comcast - NBCUniversal]] · [[McDonalds Corporation]] · [[National Restaurant Association]] · [[Lockheed Martin]] · [[DoorDash]] · [[Associated General Contractors of America Political Action Committee]] · [[Pete Aguilar]] · [[ConocoPhillips]] · [[PG&E - Pacific Gas and Electric]] · [[General Motors]] · [[Honeywell]] · [[American Hospital Association PAC]] · [[Walmart - Walton Family]] · [[Marathon Petroleum]] · [[NEA Fund for Children and Public Education]] · [[Tyson Foods]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[ADM - Archer Daniels Midland]] · [[Cooperative of American Physicians Independent Expenditure Committee]] · [[National Multifamily Housing Council]] · [[Devon Energy]] · [[Valero Energy]] · [[Anthem - Elevance Health]] · [[Chevron]] · [[American Chemistry Council, INC]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[CHC BOLD PAC]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Progressive Turnout Project]] · [[Courage California Super Pac]] · [[Nancy Pelosi]] · [[Halliburton]] · [[CTA - California Teachers Association]] · [[CVS Health - Aetna]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[Planned Parenthood Votes]] · [[PG&E]] · [[Fanjul Family - Florida Crystals]] · [[Uber]] · [[FTX - Sam Bankman-Fried]] · [[AT&T]] · [[Kaiser Permanente]] · [[Goldman Sachs]] · [[Bank of America]] · [[Apple]] · [[Microsoft]] · [[American Federation of State County & Municipal Employees  P E O P L E]] · [[Honeywell International]] · [[Monsanto - Bayer]] · [[National Committee to Preserve Social Security & Medicare PAC]] · [[LOFGREN FOR CONGRESS]] · [[National Education Association]] · [[Frank Pallone]] · [[BARBARA LEE FOR CONGRESS]] · [[Hakeem Jeffries]] · [[AFL-CIO]] · [[MIKE THOMPSON FOR CONGRESS]] · [[MATSUI FOR CONGRESS]] · [[Occidental Petroleum]] · [[Williams Companies]] · [[STAND WITH SANCHEZ]] · [[Cargill]] · [[HIMES FOR CONGRESS]] · [[NANCY PELOSI FOR CONGRESS]] · [[Richard Neal]] · [[DAVID SCOTT FOR CONGRESS]] · [[Planned Parenthood Action Fund INC]] · [[Akin Gump Strauss Hauer & Feld]] · [[No Labels Action, Inc.]] · [[Steny H. Hoyer]] · [[Blue Shield of California]] · [[Xavier Becerra]] · [[Robin L. Kelly]] · [[James E. Clyburn]] · [[Adam Schiff]] · [[Southern Company]] · [[Chris van Hollen]] · [[Citigroup]] · [[Koch Industries]] · [[DEBBIE WASSERMAN SCHULTZ FOR CONGRESS]] · [[Hilda Solis]] · [[Peter Welch]] · [[DOGGETT FOR U S CONGRESS COMMITTEE]] · [[Rosa DeLauro]] · [[Center Forward Committee]] · [[PETE AGUILAR FOR CONGRESS]] · [[Giffords PAC]] · [[JIM COSTA FOR CONGRESS]] · [[Jerrold Nadler]] · [[Donald S. Beyer]] · [[JIMMY PANETTA FOR CONGRESS]] · [[Let America Vote PAC]] · [[Marcy Kaptur]] · [[SCOTT PETERS FOR CONGRESS]] · [[Henry Cuellar]] · [[SHERMAN FOR CONGRESS]] · [[AbbVie]] · [[John B. Larson]] · [[Bennie Thompson]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4CA20082
 bills-sponsored: 26
 bills-cosponsored: 587
 bills-enacted: 0
 top-policy-area: International Affairs
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Europe
   - Forestry and Horticulture
   - House Committee on Agriculture
   - House Committee on Foreign Affairs
-  - "Livestock, Dairy, and Poultry"
-total-raised: "$19.4M"
-career-total-source: "FEC weball summary (cycles 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+  - Livestock, Dairy, and Poultry
+total-raised: $19.4M
+career-total-source: FEC weball summary (cycles 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

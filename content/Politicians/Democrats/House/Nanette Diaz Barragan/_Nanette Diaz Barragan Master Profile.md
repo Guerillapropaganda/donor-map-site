@@ -1,37 +1,38 @@
 ---
-title: "Nanette Diaz Barragan"
+title: Nanette Diaz Barragan
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "California"
-state-abbr: "CA"
+party: Democrat
+chamber: House
+state: California
+state-abbr: CA
 district: "44"
-bioguide-id: "B001300"
+bioguide-id: B001300
 govtrack-id: 412687
 born: "1976-09-15"
-wikidata-id: "Q21662745"
-website: "https://barragan.house.gov"
-phone: "202-225-8220"
+wikidata-id: Q21662745
+website: https://barragan.house.gov
+phone: 202-225-8220
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 34
 bills-cosponsored: 746
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Communications and Technology
   - Environment
   - Health
   - House Committee on Energy and Commerce
+top-donors: "[[International Longshore and Warehouse Union -- Political Action Fund]], [[League of Conservation Voters]], [[Amgen Inc]], [[Airbnb]], [[Pfizer Inc.]], [[Blue Shield of California]], [[AbbVie]], [[Planned Parenthood Action Fund INC]], [[CASTRO FOR CONGRESS]], [[CVS Health - Aetna]], [[Hakeem Jeffries]], [[Leidos]], [[Google - Alphabet]], [[Sierra Club Political Committee]], [[Let America Vote PAC]], [[Meta - Facebook]], [[LOFGREN FOR CONGRESS]], [[STAND WITH SANCHEZ]], [[GALLEGO FOR ARIZONA]], [[Cargill]], [[Emily's List]], [[Marcy Kaptur]], [[American College of Radiology Association PAC]], [[Southern Company]], [[National Education Association]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Jim McGovern]], [[TED LIEU FOR CONGRESS]], [[Gilead Sciences]], [[Tyson Foods]], [[Akin Gump Strauss Hauer & Feld]], [[Humana]], [[Eric Swalwell]], [[Richard Neal]], [[NANCY PELOSI FOR CONGRESS]], [[JUDY CHU FOR CONGRESS]], [[McDonalds Corporation]], [[AIPAC - American Israel Public Affairs Committee]], [[MEDICARE FOR ALL]]"
 ---
 
 

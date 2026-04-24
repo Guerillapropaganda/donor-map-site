@@ -6,11 +6,11 @@ sector: Dark Money
 entity-type: Super PAC
 committee-id: C00532705
 fec-url: https://www.fec.gov/data/committee/C00532705/
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-ie-support: $1,465,072
 fec-ie-oppose: null
-politicians-funded: "[[Cory Booker]]"
+politicians-funded: "[[Cory Booker]], [[RADICAL MEDIA]], [[HAWKFISH LLC]], [[CATECOMM]], [[BRILLIANT CORNERS RESEARCH]], [[BULLY PULPIT INTERACTIVE, LLC]], [[SKDKNICKERBOCKER]], [[THE OUTCAST AGENCY, LLC]], [[EXPEDITION STRATEGIES, LLC]], [[GELLER & CO.]], [[SKDKNICKERBOCKER LLC]], [[Michael Bloomberg]], [[Marathon Petroleum]], [[GOTHAM ACME LLC]], [[DOUGLAS E. SCHOEN NYC LLC]], [[MARK H. GERSH]], [[DROGA5 LLC]], [[VENABLE LLP]], [[GELLER ADVISORS LLC]], [[BENDIXEN & AMANDI INTERNATIONAL]], [[House Majority PAC]], [[SCHOEN COOPERMAN RESEARCH]], [[CIVIS ANALYTICS, INC.]], [[PUTNAM PARTNERS, LLC]], [[KIVVIT]], [[BLOCK PARTY MEDIA, INC.]], [[GELLER & COMPANY]], [[76 WORDS]], [[TAKE BACK 2020]], [[SIEGEL STRATEGIES]], [[FAIRBANK, MASLIN, MAULLIN, METZ, & ASSOC., INC.]], [[BENENSON STRATEGY GROUP, LLC]], [[GLOBAL STRATEGY GROUP, LLC]], [[CONNECTIONS MEDIA LLC]], [[CANAL PARTNERS MEDIA]], [[FF PAC]], [[DCI GROUP, LLC]], [[REVOLUTION MEDIA GROUP LLC]], [[SCHOEN SURVEY RESEARCH LLC]], [[GELLER ADVISORS]], [[Haley M. Stevens]], [[Mike Levin]], [[Lizzie Fletcher]], [[Angie Craig]], [[Elissa Slotkin]], [[Robin L. Kelly]], [[Lucy McBath]], [[Steven Horsford]], [[Joe Biden]], [[Lauren Underwood]], [[Kim Schrier]], [[Sharice Davids]], [[Jason Crow]], [[Chrissy Houlahan]]"
 related: "[[Cory Booker]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -23,8 +23,8 @@ individual-contributions: 135964
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

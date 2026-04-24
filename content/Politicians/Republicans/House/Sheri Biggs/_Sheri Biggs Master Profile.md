@@ -20,23 +20,23 @@ source-types:
   - FEC
   - GovTrack
 known-gaps:
-  - "No mapped relationships"
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4SC01313
-top-donors: "[[American Hospital Association PAC]], [[Duke Energy]], [[Mike Haridopolos]], [[National Rifle Association]], [[Honeywell]], [[Austin Scott]], [[AIPAC - American Israel Public Affairs Committee]], [[National Association of Realtors]], [[Chevron]], [[National Restaurant Association]], [[Freedom's Defense Fund]], [[Care Action]], [[Troy Downing]], [[VIEW PAC - Value in Electing Women]], [[Nucor Corporation]], [[Lockheed Martin]], [[Anthem - Elevance Health]], [[Associated General Contractors of America Political Action Committee]], [[Jake Ellzey]], [[MAJORITY PAC]], [[Jim Jordan]], [[Honeywell International]], [[Majority PAC]]"
-last-enriched: 2026-04-21
+top-donors: "[[American Hospital Association PAC]], [[Duke Energy]], [[Mike Haridopolos]], [[National Rifle Association]], [[Honeywell]], [[Austin Scott]], [[AIPAC - American Israel Public Affairs Committee]], [[National Association of Realtors]], [[Chevron]], [[National Restaurant Association]], [[Freedom's Defense Fund]], [[Care Action]], [[Troy Downing]], [[VIEW PAC - Value in Electing Women]], [[Nucor Corporation]], [[Lockheed Martin]], [[Anthem - Elevance Health]], [[Associated General Contractors of America Political Action Committee]], [[Jake Ellzey]], [[MAJORITY PAC]], [[Jim Jordan]], [[Honeywell International]], [[Majority PAC]], [[Southern Company]], [[Koch Industries]], [[Brett Guthrie]], [[Mike Johnson]], [[JAKE ELLZEY FOR CONGRESS]], [[David P. Joyce]], [[Tom Emmer]], [[BRANDON GILL FOR TEXAS]], [[Williams Companies]], [[JIM JORDAN FOR CONGRESS]], [[MOORE FOR WEST VIRGINIA, INC.]], [[NRA Political Victory Fund]], [[Guy Reschenthaler]], [[MIKE HARIDOPOLOS FOR CONGRESS]], [[Steve Scalise]], [[Carol D. Miller]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[TROY DOWNING FOR CONGRESS]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Border Security and Enforcement
   - East Asia and Pacific
   - Energy
   - House Committee on Foreign Affairs
   - House Committee on Homeland Security
-  - "House Committee on Science, Space, and Technology"
+  - House Committee on Science, Space, and Technology
   - Research and Technology
   - Transportation and Maritime Security
   - Western Hemisphere
-total-raised: "$1.5M"
-career-total-source: "FEC weball summary (cycles 2024, 2026)"
+total-raised: $1.5M
+career-total-source: FEC weball summary (cycles 2024, 2026)
 bills-sponsored: 13
 corroboration-count: 3
 ---

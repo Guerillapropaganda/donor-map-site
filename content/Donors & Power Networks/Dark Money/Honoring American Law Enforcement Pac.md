@@ -15,7 +15,7 @@ last-enriched: "2026-04-15"
 ofac-programs:
   - IRAN-HR] [HRIT-IR
   - IRAN-HR
-politicians-funded: "[[Rashida Tlaib]], [[Ayanna Pressley]], [[Lee Zeldin]], [[Donald Trump]], [[Scott Fitzgerald]], [[Kamala Harris]], [[Raphael Warnock]], [[Alexandria Ocasio-Cortez]], [[Ilhan Omar]], [[Tim Scott]], [[Derrick van Orden]]"
+politicians-funded: "[[Rashida Tlaib]], [[Ayanna Pressley]], [[Lee Zeldin]], [[Donald Trump]], [[Scott Fitzgerald]], [[Kamala Harris]], [[Raphael Warnock]], [[Alexandria Ocasio-Cortez]], [[Ilhan Omar]], [[Tim Scott]], [[Derrick van Orden]], [[WIRED4DATA]], [[UNIQ TECHNOLOGIES, INC]], [[EYP CONSULTANTS LLC]], [[ONE VOICE SOLUTIONS]], [[RALLYPAY]], [[STANDARD DATA SERVICES LLC]], [[EMPX, INC]], [[CLOUD FOR CONGRESS]], [[PNC  BANK]], [[LAV SERVICES LLC]], [[ADVANCE CREATIVE MEDIA INC]], [[UNLIMITED TECH SUPPORT]], [[RIDGE INNOVATIVE]], [[ADVANCE CREATIVE MEDIA, INC]], [[International Association of Chiefs of Police]], [[American Homes 4 Rent]], [[Don Bacon]], [[Ami Bera]], [[Tom Cotton]], [[Jennifer A. Kiggans]], [[Gabe Evans]], [[Chuck Grassley]]"
 related: "[[Rashida Tlaib]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -29,7 +29,7 @@ individual-contributions: 478424
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
+  - No lobbying disclosure data
 ---
 
 

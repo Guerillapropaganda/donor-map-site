@@ -18,16 +18,16 @@ phone: 202-225-4511
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 34
 bills-cosponsored: 259
 bills-enacted: 2
 top-policy-area: International Affairs
-top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[Enterprise Products Partners]], [[HBW Resources]], [[RNC - Republican National Committee]], [[Goldman Sachs]], [[Valero Energy]], [[Morgan Stanley]], [[Hawaiian Electric Company]], [[Verizon]], [[Charles Schwab]], [[Chevron]], [[Blackstone Group]], [[ConocoPhillips]], [[Google - Alphabet]], [[Las Vegas Sands]], [[CoreCivic]], [[CBRE Group]], [[US CHAMBER OF COMMERCE]], [[Anduril Industries]], [[FTX - Sam Bankman-Fried]], [[Comcast - NBCUniversal]], [[Citadel - Kenneth Griffin]], [[Wells Fargo]], [[US Chamber of Commerce]]"
-last-enriched: 2026-04-21
+top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[Enterprise Products Partners]], [[HBW Resources]], [[RNC - Republican National Committee]], [[Goldman Sachs]], [[Valero Energy]], [[Morgan Stanley]], [[Hawaiian Electric Company]], [[Verizon]], [[Charles Schwab]], [[Chevron]], [[Blackstone Group]], [[ConocoPhillips]], [[Google - Alphabet]], [[Las Vegas Sands]], [[CoreCivic]], [[CBRE Group]], [[US CHAMBER OF COMMERCE]], [[Anduril Industries]], [[FTX - Sam Bankman-Fried]], [[Comcast - NBCUniversal]], [[Citadel - Kenneth Griffin]], [[Wells Fargo]], [[US Chamber of Commerce]], [[GEO Group - Private Prison Industrial Complex]], [[Steve Scalise]], [[Kevin McCarthy]], [[Akin Gump Strauss Hauer & Feld]], [[CLAUDIA TENNEY FOR CONGRESS]], [[Koch Industries]], [[VICTORIA SPARTZ FOR CONGRESS]], [[TEXANS FOR JODEY ARRINGTON]], [[WEBER FOR CONGRESS]], [[Pat Fallon]], [[National Cattlemen's Beef Association]], [[Tyson Foods]], [[Leidos]], [[Associated General Contractors of America Political Action Committee]], [[BEN CLINE FOR CONGRESS, INC.]], [[Opportunity Matters Fund]], [[Rick Crawford]], [[ADRIAN SMITH FOR CONGRESS]], [[NRA Political Victory Fund]], [[CRENSHAW, DANIEL]], [[Glenn Thompson]], [[Steve Womack]], [[Guy Reschenthaler]], [[DAVID ROUZER FOR CONGRESS]], [[DR. BRIAN BABIN FOR CONGRESS]], [[JAKE ELLZEY FOR CONGRESS]], [[ANDY HARRIS FOR CONGRESS]], [[Williams Companies]], [[Meta - Facebook]], [[Dan Newhouse]], [[AFSCME Working Families Fund]], [[National Restaurant Association]], [[GARY PALMER FOR CONGRESS]], [[Daniel Meuser]], [[McDonalds Corporation]], [[BICE FOR CONGRESS]], [[AUGUST PFLUGER FOR CONGRESS]], [[Nucor Corporation]], [[American College of Radiology Association PAC]], [[Occidental Petroleum]], [[Mariannette Miller-Meeks]], [[American Principles Fund]], [[With Honor Fund]], [[Republican Jewish Coalition]], [[Tom Emmer]], [[Randy Feenstra]], [[Freedom's Defense Fund]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[DR JOHN JOYCE FOR CONGRESS]], [[David P. Joyce]], [[John W. Rose]], [[JASON SMITH FOR CONGRESS]], [[Campaign for Working Families]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[Elise Stefanik]], [[BYRON DONALDS FOR CONGRESS]], [[ROBERT ADERHOLT FOR CONGRESS]], [[BURCHETT FOR CONGRESS]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

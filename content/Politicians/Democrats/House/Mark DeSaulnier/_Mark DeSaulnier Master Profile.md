@@ -18,29 +18,29 @@ phone: 202-225-2095
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H0CA10073
 bills-sponsored: 39
 bills-cosponsored: 653
 bills-enacted: 1
 top-policy-area: Health
-top-donors: "[[Medicare for All - The Policy That Broke the Party]], [[IBEW - International Brotherhood of Electrical Workers]], [[J Street]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[SEIU COPE]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Unite Here Tip Campaign Committee]], [[NEA Fund for Children and Public Education]], [[Progressive Turnout Project]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Lockheed Martin]], [[Northrop Grumman]], [[Sierra Club Independent Action]], [[UA Political Action Committee]], [[Honeywell]], [[AT&T - WarnerMedia]], [[Courage California Super Pac]], [[CTA - California Teachers Association]], [[National Association of Realtors]], [[Nancy Pelosi]], [[Comcast - NBCUniversal]], [[Teamsters - International Brotherhood of Teamsters]], [[Raytheon (RTX)]], [[American Hospital Association PAC]], [[Ford Motor Company]], [[General Motors]], [[Planned Parenthood Votes]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[AT&T]], [[Kaiser Permanente]], [[PG&E]], [[Chevron]], [[Fanjul Family - Florida Crystals]], [[Bank of America]], [[Apple]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Honeywell International]]"
-last-enriched: 2026-04-21
+top-donors: "[[Medicare for All - The Policy That Broke the Party]], [[IBEW - International Brotherhood of Electrical Workers]], [[J Street]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[SEIU COPE]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Unite Here Tip Campaign Committee]], [[NEA Fund for Children and Public Education]], [[Progressive Turnout Project]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Lockheed Martin]], [[Northrop Grumman]], [[Sierra Club Independent Action]], [[UA Political Action Committee]], [[Honeywell]], [[AT&T - WarnerMedia]], [[Courage California Super Pac]], [[CTA - California Teachers Association]], [[National Association of Realtors]], [[Nancy Pelosi]], [[Comcast - NBCUniversal]], [[Teamsters - International Brotherhood of Teamsters]], [[Raytheon (RTX)]], [[American Hospital Association PAC]], [[Ford Motor Company]], [[General Motors]], [[Planned Parenthood Votes]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[AT&T]], [[Kaiser Permanente]], [[PG&E]], [[Chevron]], [[Fanjul Family - Florida Crystals]], [[Bank of America]], [[Apple]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Honeywell International]], [[Raytheon (RTX Corporation)]], [[League of Conservation Voters]], [[Google - Alphabet]], [[AFL-CIO]], [[National Education Association]], [[Donald S. Beyer]], [[Sierra Club Political Committee]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[Frank Pallone]], [[National Committee to Preserve Social Security & Medicare PAC]], [[MEDICARE FOR ALL]], [[Blue Shield of California]], [[CITIZENS TO ELECT RICK LARSEN]], [[Humane Society Legislative Fund]], [[Let America Vote PAC]], [[MIKE THOMPSON FOR CONGRESS]], [[Hakeem Jeffries]], [[Associated General Contractors of America Political Action Committee]], [[NANCY PELOSI FOR CONGRESS]], [[Chris van Hollen]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Aviation
-  - "Health, Employment, Labor, and Pensions"
+  - Health, Employment, Labor, and Pensions
   - Higher Education and Workforce Development
   - Highways and Transit
   - House Committee on Education and Workforce
   - House Committee on Ethics
   - House Committee on Transportation and Infrastructure
-  - "Railroads, Pipelines, and Hazardous Materials"
+  - Railroads, Pipelines, and Hazardous Materials
   - Water Resources and Environment
-total-raised: "$4.7M"
-career-total-source: "FEC weball summary (cycles 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+total-raised: $4.7M
+career-total-source: FEC weball summary (cycles 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

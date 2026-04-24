@@ -18,30 +18,30 @@ phone: 202-225-2472
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-donors: "[[Western Growers Association]] · [[National Cattlemen's Beef Association]] · [[WinRed]] · [[David Rouzer]] · [[Americans for Prosperity]] · [[Walmart - Walton Family]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[Adrian Smith]] · [[Chevron]] · [[Comcast - NBCUniversal]] · [[Valero Energy]] · [[Ron Estes]] · [[Defending Main Street Superpac INC]] · [[AT&T - WarnerMedia]] · [[Leidos]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Austin Scott]] · [[Anthem - Elevance Health]] · [[Lockheed Martin]] · [[CVS Health - Aetna]] · [[General Dynamics]] · [[NRCC - National Republican Congressional Committee]] · [[Associated General Contractors of America Political Action Committee]] · [[Tyson Foods]] · [[American Hospital Association PAC]] · [[National Rifle Association]] · [[Raytheon (RTX)]] · [[MAJORITY PAC]] · [[BAE Systems]] · [[AIPAC - American Israel Public Affairs Committee]] · [[American Chemistry Council, INC]] · [[FREEDOM CLUB FEDERAL PAC]] · [[Jason Smith]] · [[American Dream Federal Action]] · [[National Association of Realtors]] · [[Honeywell]] · [[Northrop Grumman]] · [[ADM - Archer Daniels Midland]] · [[UA Political Action Committee]] · [[National Right to Life Victory Fund]] · [[Congressional Leadership Fund]] · [[Google - Alphabet]] · [[AT&T]] · [[Honeywell International]] · [[Majority PAC]] · [[Freedom Club Federal PAC]]"
+  - No FEC contribution data
+  - No voting record data
+donors: "[[Western Growers Association]] · [[National Cattlemen's Beef Association]] · [[WinRed]] · [[David Rouzer]] · [[Americans for Prosperity]] · [[Walmart - Walton Family]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[Adrian Smith]] · [[Chevron]] · [[Comcast - NBCUniversal]] · [[Valero Energy]] · [[Ron Estes]] · [[Defending Main Street Superpac INC]] · [[AT&T - WarnerMedia]] · [[Leidos]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Austin Scott]] · [[Anthem - Elevance Health]] · [[Lockheed Martin]] · [[CVS Health - Aetna]] · [[General Dynamics]] · [[NRCC - National Republican Congressional Committee]] · [[Associated General Contractors of America Political Action Committee]] · [[Tyson Foods]] · [[American Hospital Association PAC]] · [[National Rifle Association]] · [[Raytheon (RTX)]] · [[MAJORITY PAC]] · [[BAE Systems]] · [[AIPAC - American Israel Public Affairs Committee]] · [[American Chemistry Council, INC]] · [[FREEDOM CLUB FEDERAL PAC]] · [[Jason Smith]] · [[American Dream Federal Action]] · [[National Association of Realtors]] · [[Honeywell]] · [[Northrop Grumman]] · [[ADM - Archer Daniels Midland]] · [[UA Political Action Committee]] · [[National Right to Life Victory Fund]] · [[Congressional Leadership Fund]] · [[Google - Alphabet]] · [[AT&T]] · [[Honeywell International]] · [[Majority PAC]] · [[Freedom Club Federal PAC]] · [[Raytheon (RTX Corporation)]] · [[Steve Scalise]] · [[DR. BRIAN BABIN FOR CONGRESS]] · [[RON ESTES FOR CONGRESS]] · [[AFL-CIO]] · [[Darin Lahood]] · [[DAVID ROUZER FOR CONGRESS]] · [[Randy Feenstra]] · [[ADRIAN SMITH FOR CONGRESS]] · [[Glenn Thompson]] · [[Richard Hudson]] · [[NRA Political Victory Fund]] · [[Koch Industries]] · [[JASON SMITH FOR CONGRESS]] · [[TEXANS FOR JODEY ARRINGTON]] · [[FISCHBACH FOR CONGRESS]] · [[Cargill]] · [[AUSTIN SCOTT FOR CONGRESS INC]] · [[Tom Emmer]] · [[Elise Stefanik]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2MN01223
 bills-sponsored: 31
 bills-cosponsored: 362
 bills-enacted: 0
 top-policy-area: Health
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Commodity Markets, Digital Assets, and Rural Development"
-  - "Cyber, Information Technologies, and Innovation"
-  - "General Farm Commodities, Risk Management, and Credit"
+  - Commodity Markets, Digital Assets, and Rural Development
+  - Cyber, Information Technologies, and Innovation
+  - General Farm Commodities, Risk Management, and Credit
   - House Committee on Agriculture
   - House Committee on Armed Services
   - House Committee on Small Business
-  - "Livestock, Dairy, and Poultry"
+  - Livestock, Dairy, and Poultry
   - Nutrition and Foreign Agriculture
-  - "Oversight, Investigations, and Regulations"
-  - "Rural Development, Energy, and Supply Chains"
+  - Oversight, Investigations, and Regulations
+  - Rural Development, Energy, and Supply Chains
   - Tactical Air and Land Forces
-total-raised: "$4.8M"
-career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
+total-raised: $4.8M
+career-total-source: FEC weball summary (cycles 2022, 2024, 2026)
 ---
 
 

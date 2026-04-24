@@ -11,7 +11,7 @@ last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-ie-support: $35,391,631
 fec-ie-oppose: "null"
-politicians-funded: "[[Chris Christie]], [[WinRed]], [[NRSC - National Republican Senatorial Committee]], [[ActBlue]], [[_Nancy Pelosi Master Profile]], [[_Tim Scott Master Profile]], [[Nancy Pelosi]], [[Tim Scott]]"
+politicians-funded: "[[Chris Christie]], [[WinRed]], [[NRSC - National Republican Senatorial Committee]], [[ActBlue]], [[_Nancy Pelosi Master Profile]], [[_Tim Scott Master Profile]], [[Nancy Pelosi]], [[Tim Scott]], [[DATA AL LLC]], [[American Homes 4 Rent]], [[J. TUCKER MARTIN LLC]], [[JONES DAY]], [[EXECUTIVE JET MANAGEMENT, INC.]], [[1735 GROUP LLC]], [[ADDINGTON, AMY]], [[FORWARD STRATEGIES, INC.]], [[COX CONSULTING]], [[THE PROSPER GROUP CORPORATION]], [[HAHN GROUP, INC.]], [[T&L CONSULTING, LLC]], [[KOCH & HOOS, LLC]], [[ANEDOT]], [[PINPOINT MEDIA LLC]], [[DUNN, ED]], [[CHATHAM LIGHT MEDIA LLC]], [[Squire Patton Boggs]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -29,8 +29,8 @@ source-types:
   - USASpending
 corroboration-count: 2
 known-gaps:
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

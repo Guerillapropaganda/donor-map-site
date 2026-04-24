@@ -1,40 +1,41 @@
 ---
-title: "Michael A. Rulli"
+title: Michael A. Rulli
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Ohio"
-state-abbr: "OH"
+party: Republican
+chamber: House
+state: Ohio
+state-abbr: OH
 district: "6"
-bioguide-id: "R000619"
+bioguide-id: R000619
 govtrack-id: 456959
 born: "1969-03-11"
-wikidata-id: "Q63170062"
-website: "https://rulli.house.gov"
-phone: "202-225-5705"
+wikidata-id: Q63170062
+website: https://rulli.house.gov
+phone: 202-225-5705
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 11
 bills-cosponsored: 53
 bills-enacted: 0
-top-policy-area: "Crime and Law Enforcement"
-last-enriched: 2026-04-21
+top-policy-area: Crime and Law Enforcement
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Early Childhood, Elementary, and Secondary Education"
+  - Early Childhood, Elementary, and Secondary Education
   - Energy
   - Health
-  - "Health, Employment, Labor, and Pensions"
+  - Health, Employment, Labor, and Pensions
   - House Committee on Education and Workforce
   - House Committee on Energy and Commerce
   - Oversight and Investigations
+top-donors: "[[American College of Radiology Association PAC]], [[CVS Health - Aetna]], [[National Right to Life Victory Fund]], [[Southern Company]], [[VIRGINIA FOXX FOR CONGRESS]], [[Steve Scalise]], [[AFL-CIO]], [[David P. Joyce]], [[NRA Political Victory Fund]], [[Nucor Corporation]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Koch Industries]], [[National Cattlemen's Beef Association]], [[DAVE TAYLOR FOR CONGRESS]], [[Gilead Sciences]], [[JIM JORDAN FOR CONGRESS]], [[Amgen Inc]], [[AIPAC - American Israel Public Affairs Committee]], [[Defending Main Street Superpac INC]], [[Pfizer Inc.]], [[Tom Emmer]]"
 ---
 
 

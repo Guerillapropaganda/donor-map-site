@@ -11,8 +11,8 @@ fec-committee-id: C00389403
 aliases:
   - PERFORMANCE RACING INC.
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Markwayne Mullin]], [[Frank Pallone]], [[Lauren Underwood]], [[Jim Costa]], [[Henry Cuellar]], [[Martin Heinrich]], [[Eric Sorensen]], [[Tammy Duckworth]], [[Shelley Moore Capito]], [[Debbie Stabenow]], [[Rick Larsen]], [[Darren Soto]], [[John Hickenlooper]], [[Mariannette Miller-Meeks]], [[Michael Whatley]], [[Raul Ruiz]], [[Patrick McHenry]], [[Troy Balderson]], [[Mark Warner]], [[Lori Trahan]], [[Dan Sullivan]], [[Greg Stanton]], [[Chrissy Houlahan]], [[Pete Stauber]], [[Aaron Bean]], [[Jeff Crank]], [[Marie Gluesenkamp Perez]], [[John James]], [[Erin Houchin]], [[Brett Guthrie]], [[Pete Aguilar]], [[Richard Hudson]], [[Pete Ricketts]], [[Jay Obernolte]], [[Diana Harshbarger]], [[Ryan Mackenzie]], [[Steve Daines]], [[John Joyce]], [[Sam Graves]], [[Bruce Westerman]], [[Kat Cammack]], [[Dina Titus]], [[Catherine Cortez Masto]], [[Kathy Castor]], [[Gary Peters]], [[Kim Schrier]], [[Claudia Tenney]], [[Lloyd Smucker]], [[Celeste Maloy]], [[Brendan Boyle]], [[Rudy Yakym]], [[Vince Fong]], [[Brian Jack]], [[Debbie Dingell]], [[Adam Gray]], [[Mark Kelly]], [[Mike Lee]], [[Mike Thompson]], [[Cathy McMorris Rodgers]], [[John Barrasso]], [[Mike Carey]], [[Young Kim]], [[Deb Fischer]], [[Bernie Moreno]], [[Dan Crenshaw]], [[Richard Neal]], [[David Rouzer]], [[Paul Tonko]], [[Steven Horsford]], [[Mike Kennedy]], [[Jeanne Shaheen]], [[Raul Grijalva]], [[Tim Walberg]], [[Ashley Hinson]], [[Jimmy Panetta]], [[Jason Smith]], [[Todd Young]], [[Tammy Baldwin]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Markwayne Mullin]], [[Frank Pallone]], [[Lauren Underwood]], [[Jim Costa]], [[Henry Cuellar]], [[Martin Heinrich]], [[Eric Sorensen]], [[Tammy Duckworth]], [[Shelley Moore Capito]], [[Debbie Stabenow]], [[Rick Larsen]], [[Darren Soto]], [[John Hickenlooper]], [[Mariannette Miller-Meeks]], [[Michael Whatley]], [[Raul Ruiz]], [[Patrick McHenry]], [[Troy Balderson]], [[Mark Warner]], [[Lori Trahan]], [[Dan Sullivan]], [[Greg Stanton]], [[Chrissy Houlahan]], [[Pete Stauber]], [[Aaron Bean]], [[Jeff Crank]], [[Marie Gluesenkamp Perez]], [[John James]], [[Erin Houchin]], [[Brett Guthrie]], [[Pete Aguilar]], [[Richard Hudson]], [[Pete Ricketts]], [[Jay Obernolte]], [[Diana Harshbarger]], [[Ryan Mackenzie]], [[Steve Daines]], [[John Joyce]], [[Sam Graves]], [[Bruce Westerman]], [[Kat Cammack]], [[Dina Titus]], [[Catherine Cortez Masto]], [[Kathy Castor]], [[Gary Peters]], [[Kim Schrier]], [[Claudia Tenney]], [[Lloyd Smucker]], [[Celeste Maloy]], [[Brendan Boyle]], [[Rudy Yakym]], [[Vince Fong]], [[Brian Jack]], [[Debbie Dingell]], [[Adam Gray]], [[Mark Kelly]], [[Mike Lee]], [[Mike Thompson]], [[Cathy McMorris Rodgers]], [[John Barrasso]], [[Mike Carey]], [[Young Kim]], [[Deb Fischer]], [[Bernie Moreno]], [[Dan Crenshaw]], [[Richard Neal]], [[David Rouzer]], [[Paul Tonko]], [[Steven Horsford]], [[Mike Kennedy]], [[Jeanne Shaheen]], [[Raul Grijalva]], [[Tim Walberg]], [[Ashley Hinson]], [[Jimmy Panetta]], [[Jason Smith]], [[Todd Young]], [[Tammy Baldwin]], [[Nicholas A. Langworthy]], [[Mark E. Amodei]], [[Angie Craig]], [[Sanford D. Bishop]], [[Blake D. Moore]], [[Scott H. Peters]], [[Ted Budd]], [[Terri A. Sewell]], [[Bob Casey]], [[Zachary Nunn]], [[Riley M. Moore]], [[Haley M. Stevens]], [[Thomas P. Tiffany]], [[John R. Curtis]], [[Gus M. Bilirakis]], [[Lisa C. McClain]], [[Lisa Blunt Rochester]], [[David G. Valadao]], [[Neal P. Dunn]]"
 related: "[[Markwayne Mullin]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -25,7 +25,7 @@ individual-contributions: 33325
 contributions-to-committees: 108500
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

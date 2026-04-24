@@ -18,17 +18,17 @@ phone: 202-225-4741
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H6MD07020
 bills-sponsored: 15
 bills-cosponsored: 322
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[Walmart - Walton Family]], [[Lockheed Martin]], [[Sierra Club Independent Action]], [[Comcast - NBCUniversal]], [[Progressive Turnout Project]], [[AbbVie]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[UA Political Action Committee]], [[National Association of Realtors]], [[AT&T - WarnerMedia]], [[SEIU COPE]], [[American Federation of State County & Municipal Employees P E O P L E]], [[AIPAC - American Israel Public Affairs Committee]], [[Teamsters - International Brotherhood of Teamsters]], [[CVS Health - Aetna]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Sierra Club Political Committee]], [[National Education Association]], [[Medicare for All - The Policy That Broke the Party]], [[Pfizer Inc.]], [[Giffords PAC]], [[Care Action]], [[Google - Alphabet]], [[Kaiser Permanente]], [[Boeing]], [[DNC - Democratic National Committee]], [[Fanjul Family - Florida Crystals]], [[Meta - Facebook]], [[Apple]], [[Amazon]], [[McDonalds Corporation]], [[AT&T]], [[American Federation of State County & Municipal Employees  P E O P L E]]"
-last-enriched: 2026-04-21
+top-donors: "[[Walmart - Walton Family]], [[Lockheed Martin]], [[Sierra Club Independent Action]], [[Comcast - NBCUniversal]], [[Progressive Turnout Project]], [[AbbVie]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[UA Political Action Committee]], [[National Association of Realtors]], [[AT&T - WarnerMedia]], [[SEIU COPE]], [[American Federation of State County & Municipal Employees P E O P L E]], [[AIPAC - American Israel Public Affairs Committee]], [[Teamsters - International Brotherhood of Teamsters]], [[CVS Health - Aetna]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Sierra Club Political Committee]], [[National Education Association]], [[Medicare for All - The Policy That Broke the Party]], [[Pfizer Inc.]], [[Giffords PAC]], [[Care Action]], [[Google - Alphabet]], [[Kaiser Permanente]], [[Boeing]], [[DNC - Democratic National Committee]], [[Fanjul Family - Florida Crystals]], [[Meta - Facebook]], [[Apple]], [[Amazon]], [[McDonalds Corporation]], [[AT&T]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Hakeem Jeffries]], [[TED LIEU FOR CONGRESS]], [[National Committee to Preserve Social Security & Medicare PAC]], [[AFL-CIO]], [[Steny H. Hoyer]], [[BARBARA LEE FOR CONGRESS]], [[Goldman Sachs]], [[MEDICARE FOR ALL]], [[Danny K. Davis]], [[Let America Vote PAC]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Government Operations
   - House Committee on Foreign Affairs
@@ -36,8 +36,8 @@ committees:
   - Middle East and North Africa
   - Military and Foreign Affairs
   - South and Central Asia
-total-raised: "$3.6M"
-career-total-source: "FEC weball summary (cycles 1986, 1988, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2020, 2022, 2024, 2026)"
+total-raised: $3.6M
+career-total-source: FEC weball summary (cycles 1986, 1988, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2020, 2022, 2024, 2026)
 ---
 
 

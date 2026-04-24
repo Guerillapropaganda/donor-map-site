@@ -11,8 +11,8 @@ fec-committee-id: C90011701
 aliases:
   - REVERE AMERICA
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Rick Crawford]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Lauren Underwood Master Profile]], [[314 ACTION FUND]], [[Let America Vote PAC]], [[_Nancy Pelosi Master Profile]], [[WinSenate]], [[Marianne Williamson]], [[_Jon Ossoff Master Profile]], [[_Cory Booker Master Profile]], [[Indivisible Action]], [[RNC - Republican National Committee]], [[ActBlue]], [[Mark Kelly]], [[WinRed]], [[Jon Ossoff]], [[Cory Booker]], [[Nancy Pelosi]], [[Lauren Underwood]], [[314 Action Fund]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Rick Crawford]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Lauren Underwood Master Profile]], [[314 ACTION FUND]], [[Let America Vote PAC]], [[_Nancy Pelosi Master Profile]], [[WinSenate]], [[Marianne Williamson]], [[_Jon Ossoff Master Profile]], [[_Cory Booker Master Profile]], [[Indivisible Action]], [[RNC - Republican National Committee]], [[ActBlue]], [[Mark Kelly]], [[WinRed]], [[Jon Ossoff]], [[Cory Booker]], [[Nancy Pelosi]], [[Lauren Underwood]], [[314 Action Fund]], [[Linda McMahon]], [[Rand Paul]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -23,9 +23,9 @@ employee-contributions-total: 114702
 employee-donor-count: 42
 source-types:
   - FEC
-last-enriched: 2026-04-21
-total-political-spend: "$40K"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2010"
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $40K
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2010
 ---
 
 

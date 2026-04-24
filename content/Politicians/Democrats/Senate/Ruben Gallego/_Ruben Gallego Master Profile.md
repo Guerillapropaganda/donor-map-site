@@ -3,7 +3,7 @@ title: Ruben Gallego
 type: politician
 content-readiness: draft
 central-thesis: "Ruben Gallego is the security-Democrat conversion story: a progressive House member who captured the Arizona Senate seat by moving toward the defense-and-border center, with a donor coalition that tracks the conversion. Raytheon, Lockheed, L3Harris, and Honeywell fund him because Arizona is their state and because his Armed Services committee seat gives them procurement jurisdiction. The 92.5% party loyalty with 125 deviations reflects the swing-state override. The Marine who cleaned up after Fallujah is fundraising from the contractors who built the munitions systems used there."
-last-updated: 2026-04-19
+last-updated: 2026-04-19T00:00:00.000Z
 editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 source-tier: 1
 party: Democrat
@@ -21,29 +21,29 @@ source-types:
 known-gaps:
   - No FEC contribution data (direct contribution totals, individual donors)
   - No mapped relationships (edges built from frontmatter field only)
-donors: "[[Fairshake PAC]], [[Nucor Corporation]], [[Jon Ossoff]], [[Protect Progress]], [[Center Forward Committee]], [[Humana]], [[Putting People First Political Action Committee]], [[Sierra Club Independent Action]], [[Everytown for Gun Safety]], [[L3Harris Technologies]], [[National Nurses United for Patient Protection]], [[Club for Growth]], [[Jamie Raskin]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[SEIU COPE]], [[Morgan Stanley]], [[League of Conservation Voters]], [[Giffords PAC]], [[Amgen Inc]], [[ESAFUND]], [[United We Can]], [[AFSCME Working Families Fund]], [[PG&E - Pacific Gas and Electric]], [[Votevets]], [[Ted Lieu]], [[Adriano Espaillat]], [[IBEW - International Brotherhood of Electrical Workers]], [[Sierra Club Political Committee]], [[Google - Alphabet]], [[Anthem - Elevance Health]], [[Unite Here Tip Campaign Committee]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Raytheon (RTX)]], [[Pete Aguilar]], [[Lockheed Martin]], [[NextEra Energy]], [[Honeywell]], [[DMFI - Democratic Majority for Israel]], [[CHC BOLD PAC]], [[Everytown for Gun Safety Victory Fund]], [[Planned Parenthood Votes]], [[Teamsters - International Brotherhood of Teamsters]], [[AT&T - WarnerMedia]], [[Women Speak Out Pac]], [[Johnson & Johnson]], [[Pfizer Inc.]], [[WinSenate]], [[Let America Vote PAC]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Planned Parenthood Action Fund INC]], [[Duke Energy]], [[Human Rights Campaign Equality Votes]], [[National Committee to Preserve Social Security PAC]], [[NEA Fund for Children and Public Education]], [[Nancy Pelosi]], [[Senate Conservatives Fund]], [[Edf Action Votes]], [[SEIU - Service Employees International Union]], [[Activate America]], [[Progressive Turnout Project]], [[MoveOn.org Political Action]], [[Indivisible Action]], [[AT&T]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Honeywell International]]"
+donors: "[[Fairshake PAC]], [[Nucor Corporation]], [[Jon Ossoff]], [[Protect Progress]], [[Center Forward Committee]], [[Humana]], [[Putting People First Political Action Committee]], [[Sierra Club Independent Action]], [[Everytown for Gun Safety]], [[L3Harris Technologies]], [[National Nurses United for Patient Protection]], [[Club for Growth]], [[Jamie Raskin]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[SEIU COPE]], [[Morgan Stanley]], [[League of Conservation Voters]], [[Giffords PAC]], [[Amgen Inc]], [[ESAFUND]], [[United We Can]], [[AFSCME Working Families Fund]], [[PG&E - Pacific Gas and Electric]], [[Votevets]], [[Ted Lieu]], [[Adriano Espaillat]], [[IBEW - International Brotherhood of Electrical Workers]], [[Sierra Club Political Committee]], [[Google - Alphabet]], [[Anthem - Elevance Health]], [[Unite Here Tip Campaign Committee]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Raytheon (RTX)]], [[Pete Aguilar]], [[Lockheed Martin]], [[NextEra Energy]], [[Honeywell]], [[DMFI - Democratic Majority for Israel]], [[CHC BOLD PAC]], [[Everytown for Gun Safety Victory Fund]], [[Planned Parenthood Votes]], [[Teamsters - International Brotherhood of Teamsters]], [[AT&T - WarnerMedia]], [[Women Speak Out Pac]], [[Johnson & Johnson]], [[Pfizer Inc.]], [[WinSenate]], [[Let America Vote PAC]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Planned Parenthood Action Fund INC]], [[Duke Energy]], [[Human Rights Campaign Equality Votes]], [[National Committee to Preserve Social Security PAC]], [[NEA Fund for Children and Public Education]], [[Nancy Pelosi]], [[Senate Conservatives Fund]], [[Edf Action Votes]], [[SEIU - Service Employees International Union]], [[Activate America]], [[Progressive Turnout Project]], [[MoveOn.org Political Action]], [[Indivisible Action]], [[AT&T]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Honeywell International]], [[Raytheon (RTX Corporation)]], [[Democratic Senatorial Campaign Committee]], [[JAMIE RASKIN FOR CONGRESS]], [[MEDICARE FOR ALL]], [[Gilbert Ray Cisneros]], [[Jill N. Tokuda]], [[ADRIANO ESPAILLAT FOR CONGRESS]], [[WARREN FOR SENATE, INC.]], [[National Education Association]], [[Henry Cuellar]], [[American Gaming Association]], [[Eric Swalwell]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Bechtel Corporation]], [[BARRAGAN FOR CONGRESS]], [[ANDY KIM FOR NEW JERSEY]], [[John Fetterman]], [[Akin Gump Strauss Hauer & Feld]], [[Lizzie Fletcher]], [[Southern Company]], [[Donald S. Beyer]], [[CVS Health - Aetna]], [[Leidos]], [[Meta - Facebook]], [[Raul Grijalva]], [[AIPAC - American Israel Public Affairs Committee]], [[TED LIEU FOR CONGRESS]], [[PETE AGUILAR FOR CONGRESS]], [[NANCY PELOSI FOR CONGRESS]], [[Hakeem Jeffries]], [[CASTRO FOR CONGRESS]], [[AFL-CIO]], [[Frank Pallone]], [[Chris Murphy]], [[NIKKI FOR CONGRESS]], [[SHERMAN FOR CONGRESS]], [[McDonalds Corporation]], [[ADM - Archer Daniels Midland]], [[Richard Neal]], [[James E. Clyburn]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: S4AZ00139
 bills-sponsored: 42
 bills-cosponsored: 304
 bills-enacted: 1
 top-policy-area: International Affairs
-last-enriched: 2026-04-20
+last-enriched: 2026-04-20T00:00:00.000Z
 committees:
-  - "Border Management, Federal Workforce, and Regulatory Affairs"
+  - Border Management, Federal Workforce, and Regulatory Affairs
   - Commission on Security and Cooperation in Europe
   - Digital Assets
   - Energy
   - Financial Institutions and Consumer Protection
-  - "Housing, Transportation, and Community Development"
+  - Housing, Transportation, and Community Development
   - National Parks
-  - "Senate Committee on Banking, Housing, and Urban Affairs"
+  - Senate Committee on Banking, Housing, and Urban Affairs
   - Senate Committee on Energy and Natural Resources
   - Senate Committee on Homeland Security and Governmental Affairs
-  - "Senate Committee on Veterans' Affairs"
+  - Senate Committee on Veterans' Affairs
   - Water and Power
-total-raised: "$68.5M"
-career-total-source: "FEC weball summary (cycles 2024, 2026)"
+total-raised: $68.5M
+career-total-source: FEC weball summary (cycles 2024, 2026)
 ---
 
 

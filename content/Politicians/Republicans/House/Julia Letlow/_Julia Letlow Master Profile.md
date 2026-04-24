@@ -18,24 +18,24 @@ phone: 202-225-8490
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-donors: "[[National Cattlemen's Beef Association]], [[Leidos]], [[Wells Fargo]], [[Valero Energy]], [[Chevron]], [[Blackstone Group]], [[Apple]], [[Citadel - Kenneth Griffin]], [[FTX - Sam Bankman-Fried]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[Google - Alphabet]], [[Coinbase]], [[Amazon]], [[Fanjul Family - Florida Crystals]]"
+  - No FEC contribution data
+  - No voting record data
+donors: "[[National Cattlemen's Beef Association]], [[Leidos]], [[Wells Fargo]], [[Valero Energy]], [[Chevron]], [[Blackstone Group]], [[Apple]], [[Citadel - Kenneth Griffin]], [[FTX - Sam Bankman-Fried]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[Google - Alphabet]], [[Coinbase]], [[Amazon]], [[Fanjul Family - Florida Crystals]], [[Amgen Inc]], [[Kevin McCarthy]], [[American College of Radiology Association PAC]], [[NEHLS FOR CONGRESS]], [[McDonalds Corporation]], [[GEO Group - Private Prison Industrial Complex]], [[Gilead Sciences]], [[Steve Scalise]], [[Elbert Guillory's America]], [[National Association of Manufacturers]], [[BICE FOR CONGRESS]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[BYRON DONALDS FOR CONGRESS]], [[Tyson Foods]], [[CoreCivic]], [[NRA Political Victory Fund]], [[TEXANS FOR JODEY ARRINGTON]], [[Williams Companies]], [[Humana]], [[Freedom's Defense Fund]], [[VICTORIA SPARTZ FOR CONGRESS]], [[AIPAC - American Israel Public Affairs Committee]], [[Associated General Contractors of America Political Action Committee]], [[Koch Industries]], [[GARBARINO FOR CONGRESS]], [[Daniel Meuser]], [[JASON SMITH FOR CONGRESS]], [[Gregory F. Murphy]], [[James R. Baird]], [[DAVID ROUZER FOR CONGRESS]], [[BETH VAN DUYNE FOR CONGRESS]], [[MIKE ROGERS FOR CONGRESS]], [[Carol D. Miller]], [[Frank Lucas]], [[SCOTT FRANKLIN FOR CONGRESS]], [[Tzedek PAC]], [[National Restaurant Association]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: S6LA00664
 bills-sponsored: 7
 bills-cosponsored: 162
 bills-enacted: 0
 top-policy-area: Health
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies"
+  - Agriculture, Rural Development, Food and Drug Administration, and Related Agencies
   - House Committee on Appropriations
   - House Committee on Education and Workforce
-  - "Labor, Health and Human Services, Education, and Related Agencies"
-  - "National Security, Department of State, and Related Programs"
-total-raised: "$3.9M"
-career-total-source: "FEC weball summary (cycles 2026)"
+  - Labor, Health and Human Services, Education, and Related Agencies
+  - National Security, Department of State, and Related Programs
+total-raised: $3.9M
+career-total-source: FEC weball summary (cycles 2026)
 ---
 
 

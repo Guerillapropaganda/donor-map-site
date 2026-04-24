@@ -10,7 +10,7 @@ last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-ie-support: null
 fec-ie-oppose: $4,333
-politicians-funded: "[[Roger Williams]], [[Derrick van Orden]], [[Josh Harder]], [[Jon Husted]], [[Raphael Warnock]], [[Kamala Harris]], [[_Tammy Baldwin Master Profile]], [[Patrick Ryan]], [[David Schweikert]], [[Mike Levin]], [[Dave Min]], [[Dina Titus]], [[Sherrod Brown]], [[ActBlue]], [[Bob Casey]], [[Ken Calvert]], [[Adam Gray]], [[Elissa Slotkin]], [[Mariannette Miller-Meeks]], [[Scott Perry]], [[Josh Riley]], [[Michael Lawler]], [[George Whitesides]], [[Roy Cooper]], [[Ryan Mackenzie]], [[Thom Tillis]], [[Mark Kelly]], [[Ron Johnson]], [[Young Kim]], [[John Fetterman]], [[Catherine Cortez Masto]], [[Jon Ossoff]], [[Tammy Baldwin]], [[Jacky Rosen]], [[Donald Trump]], [[Derek Tran]], [[Steven Horsford]], [[Ruben Gallego]], [[_Jon Ossoff Master Profile]]"
+politicians-funded: "[[Roger Williams]], [[Derrick van Orden]], [[Josh Harder]], [[Jon Husted]], [[Raphael Warnock]], [[Kamala Harris]], [[_Tammy Baldwin Master Profile]], [[Patrick Ryan]], [[David Schweikert]], [[Mike Levin]], [[Dave Min]], [[Dina Titus]], [[Sherrod Brown]], [[ActBlue]], [[Bob Casey]], [[Ken Calvert]], [[Adam Gray]], [[Elissa Slotkin]], [[Mariannette Miller-Meeks]], [[Scott Perry]], [[Josh Riley]], [[Michael Lawler]], [[George Whitesides]], [[Roy Cooper]], [[Ryan Mackenzie]], [[Thom Tillis]], [[Mark Kelly]], [[Ron Johnson]], [[Young Kim]], [[John Fetterman]], [[Catherine Cortez Masto]], [[Jon Ossoff]], [[Tammy Baldwin]], [[Jacky Rosen]], [[Donald Trump]], [[Derek Tran]], [[Steven Horsford]], [[Ruben Gallego]], [[_Jon Ossoff Master Profile]], [[COHEN, RONNIE]], [[MI FAMILIA VOTA]], [[SANCHEZ-HALL, MAGALI]], [[GAGLERS INC. CALLHUB.IO]], [[COHEN, RONNIE ANN]], [[SCALE TO WIN]], [[STRATEGIC CONSULTING GROUP]], [[RIVERSTREAM LLC]], [[Winning for Women PAC]], [[THE NEXT GENERATION]], [[Ripple]], [[MARKOWITZ, NATHANIEL]], [[Vital Strategies]], [[S.E. OWENS & COMPANY]], [[SPAFFORD & LINCOLN, INC.]], [[MEADOWLARK STRATEGIES]], [[Charles Schwab]], [[Gilbert Ray Cisneros]], [[Thomas R. Suozzi]], [[John W. Mannion]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -27,8 +27,8 @@ employee-donor-count: 27
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

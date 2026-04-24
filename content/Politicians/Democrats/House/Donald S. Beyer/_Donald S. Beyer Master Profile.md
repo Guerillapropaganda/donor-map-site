@@ -1,37 +1,38 @@
 ---
-title: "Donald S. Beyer"
+title: Donald S. Beyer
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Virginia"
-state-abbr: "VA"
+party: Democrat
+chamber: House
+state: Virginia
+state-abbr: VA
 district: "8"
-bioguide-id: "B001292"
+bioguide-id: B001292
 govtrack-id: 412657
 born: "1950-06-20"
-wikidata-id: "Q3036086"
-website: "https://beyer.house.gov"
-phone: "202-225-4376"
+wikidata-id: Q3036086
+website: https://beyer.house.gov
+phone: 202-225-4376
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 45
 bills-cosponsored: 350
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - House Committee on Ways and Means
   - Joint Economic Committee
   - Tax
   - Trade
+top-donors: "[[League of Conservation Voters]], [[Sierra Club Political Committee]], [[National Education Association]], [[Leidos]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[McDonalds Corporation]], [[Pfizer Inc.]], [[Democratic Party of Virginia]], [[Google - Alphabet]], [[Planned Parenthood Action Fund INC]], [[Frank Pallone]], [[Akin Gump Strauss Hauer & Feld]], [[American College of Radiology Association PAC]], [[MIKE THOMPSON FOR CONGRESS]], [[Bechtel Corporation]], [[AbbVie]], [[MEDICARE FOR ALL]], [[J Street]], [[American Gaming Association]], [[Henry Cuellar]]"
 ---
 
 

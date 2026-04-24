@@ -1,39 +1,40 @@
 ---
-title: "Thomas P. Tiffany"
+title: Thomas P. Tiffany
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Wisconsin"
-state-abbr: "WI"
+party: Republican
+chamber: House
+state: Wisconsin
+state-abbr: WI
 district: "7"
-bioguide-id: "T000165"
+bioguide-id: T000165
 govtrack-id: 456791
 born: "1957-12-30"
-wikidata-id: "Q7817838"
-website: "https://tiffany.house.gov"
-phone: "202-225-3365"
+wikidata-id: Q7817838
+website: https://tiffany.house.gov
+phone: 202-225-3365
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 24
 bills-cosponsored: 294
 bills-enacted: 1
-top-policy-area: "International Affairs"
-last-enriched: 2026-04-21
+top-policy-area: International Affairs
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Crime and Federal Government Surveillance
   - Energy and Mineral Resources
   - Federal Lands
   - House Committee on Natural Resources
   - House Committee on the Judiciary
-  - "Immigration Integrity, Security, and Enforcement"
+  - Immigration Integrity, Security, and Enforcement
+top-donors: "[[National Cattlemen's Beef Association]], [[Steve Scalise]], [[Club for Growth INC PAC]], [[NRA Political Victory Fund]], [[JIM JORDAN FOR CONGRESS]], [[Associated General Contractors of America Political Action Committee]], [[DR. BRIAN BABIN FOR CONGRESS]], [[TEXANS FOR JODEY ARRINGTON]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[Paul Ryan]], [[Madison Project Inc.]], [[W. Gregory Steube]], [[TED BUDD FOR SENATE]], [[Club for Growth]], [[National Right to Life Victory Fund]], [[AIPAC - American Israel Public Affairs Committee]], [[FRIENDS OF MATT GAETZ]], [[ANDY HARRIS FOR CONGRESS]], [[JASON SMITH FOR CONGRESS]], [[Koch Industries]], [[Protect Freedom Political Action Committee]], [[Darin Lahood]], [[Performance Racing Inc.]], [[Russ Fulcher]], [[American Principles Fund]], [[Rick Crawford]]"
 ---
 
 

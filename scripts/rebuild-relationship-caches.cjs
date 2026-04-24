@@ -36,15 +36,18 @@ const VERBOSE = process.argv.includes('--verbose');
 const MONETARY_ONLY = process.argv.includes('--monetary-only');
 
 // ─── Load canonical edges ─────────────────────────────────────────────────
+// Uses the relationships-store library (see scripts/lib/relationships-store.cjs)
+// which reads BOTH data/relationships.jsonl AND every .jsonl under data/derived/.
+// Previously this script read only the canonical file, which made it blind to
+// the ~162k monetary edges the FEC/IRS ingesters write to data/derived/. That
+// was the direct cause of the 2026-04-24 backfill failure: the script ran,
+// found "0 monetary edges," and no-oped on every donor profile's
+// politicians-funded cache.
+
+const { loadEdges: loadAllEdges } = require('./lib/relationships-store.cjs');
 
 function loadEdges() {
-  const p = path.join(DATA_DIR, 'relationships.jsonl');
-  return fs.readFileSync(p, 'utf-8')
-    .split('\n')
-    .filter(Boolean)
-    .map(l => { try { return JSON.parse(l); } catch { return null; } })
-    .filter(Boolean)
-    .filter(e => !e.status || e.status === 'active');
+  return loadAllEdges().filter(e => !e.status || e.status === 'active');
 }
 
 // ─── Build profile index ──────────────────────────────────────────────────

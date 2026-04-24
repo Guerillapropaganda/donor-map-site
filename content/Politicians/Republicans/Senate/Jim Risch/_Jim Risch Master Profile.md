@@ -26,7 +26,7 @@ issues:
 top-donors:
   - AIPAC
 related: "[[Idaho 2026 Senate Race]] · [[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
-donors: "[[NORPAC]] · [[Heritage Foundation]] · [[AIPAC - American Israel Public Affairs Committee]]"
+donors: "[[NORPAC]] · [[Heritage Foundation]] · [[AIPAC - American Israel Public Affairs Committee]] · [[National Cattlemen's Beef Association]] · [[Bechtel Corporation]] · [[Roger Marshall]] · [[CoreCivic]] · [[McDonalds Corporation]] · [[Southern Company]] · [[Campaign for Working Families]] · [[DANIEL WEBSTER PAC]] · [[Williams Companies]] · [[Koch Industries]] · [[Monsanto - Bayer]] · [[NRA Political Victory Fund]] · [[Meta - Facebook]] · [[American College of Radiology Association PAC]] · [[National Restaurant Association]] · [[National Republican Senatorial Committee]] · [[Occidental Petroleum]] · [[Common Sense for America PAC]] · [[Pfizer Inc.]] · [[Amgen Inc]] · [[Senate Majority PAC]] · [[AbbVie]] · [[Republican Jewish Coalition]] · [[Google - Alphabet]] · [[Mike Crapo]] · [[National Right to Life PAC]] · [[Michael K. Simpson]] · [[Associated General Contractors of America Political Action Committee]] · [[Cargill]] · [[IDAHO BUSINESS PAC, INC.]]"
 last-enriched: "2026-04-10"
 needs-reenrichment: true
 reenrich-reason: re-run congress pipeline
@@ -36,13 +36,13 @@ urls-first-triaged: "2026-04-15"
 bills-sponsored: 632
 bills-cosponsored: 2824
 bills-enacted: 0
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "International Affairs"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: International Affairs
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
+  - No FEC contribution data
+  - No voting record data
 ---
 
 

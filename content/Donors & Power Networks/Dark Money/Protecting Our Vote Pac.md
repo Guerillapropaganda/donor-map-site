@@ -10,7 +10,7 @@ last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-ie-support: $145,280
 fec-ie-oppose: null
-politicians-funded: "[[Shontel Brown]], [[Steven Horsford]], [[Summer Lee]]"
+politicians-funded: "[[Shontel Brown]], [[Steven Horsford]], [[Summer Lee]], [[ANGERHOLZER BROZ CONSULTING, LLC]], [[KERIMAX COMMUNICATIONS]], [[LORENZETTI, MARISSA]], [[EMERALD DIGITAL SERVICES]], [[DEEP SOUTH POLITICAL CONSULTING]], [[RC COMMUNICATIONS]], [[PERKINS COIE]], [[BENNETT RIDGE LLC]], [[COCO B. PRODUCTIONS]], [[Lauren Underwood]], [[Maxine Waters]], [[Lucy McBath]], [[Debbie Wasserman Schultz]], [[Angela D. Alsobrooks]], [[Bob Menendez]], [[Haley M. Stevens]], [[Jahana Hayes]], [[Troy A. Carter]]"
 related: "[[Shontel Brown]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -21,10 +21,10 @@ cash-on-hand: 57155
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
-total-political-spend: "$698K"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 2 store(s), cycles 2012, 2016, 2018, 2020, 2022, 2024"
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $698K
+spend-source: aggregated from canonical FEC/IRS edge stores across 2 store(s), cycles 2012, 2016, 2018, 2020, 2022, 2024
 ---
 
 

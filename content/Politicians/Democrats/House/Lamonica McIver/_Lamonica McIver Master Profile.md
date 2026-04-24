@@ -18,27 +18,27 @@ phone: 202-225-3436
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4NJ10176
 bills-sponsored: 1
 bills-cosponsored: 55
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[Mark Takano]], [[American Hospital Association PAC]], [[National Association of Realtors]], [[Comcast - NBCUniversal]], [[SEIU COPE]], [[AbbVie]], [[General Motors]], [[Sierra Club Independent Action]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Johnson & Johnson]], [[Medicare for All - The Policy That Broke the Party]], [[Northrop Grumman]], [[NEA Fund for Children and Public Education]], [[National Committee to Preserve Social Security PAC]], [[Congressional Progressive Caucus PAC]], [[Anthem - Elevance Health]], [[Walmart - Walton Family]], [[League of Conservation Voters]], [[Ted Lieu]], [[Chrissy Houlahan]], [[iHeartMedia]], [[Pete Aguilar]], [[Let America Vote PAC]], [[Teamsters - International Brotherhood of Teamsters]], [[Gabe Amo]], [[Nancy Pelosi]], [[Morgan McGarvey]], [[Bonnie Watson Coleman]], [[Amgen Inc]], [[Coinbase]], [[Google - Alphabet]], [[Novo Nordisk]], [[Morgan Stanley]], [[Cigna Group]], [[AT&T]], [[American Federation of State County & Municipal Employees  P E O P L E]]"
-last-enriched: 2026-04-21
+top-donors: "[[Mark Takano]], [[American Hospital Association PAC]], [[National Association of Realtors]], [[Comcast - NBCUniversal]], [[SEIU COPE]], [[AbbVie]], [[General Motors]], [[Sierra Club Independent Action]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Johnson & Johnson]], [[Medicare for All - The Policy That Broke the Party]], [[Northrop Grumman]], [[NEA Fund for Children and Public Education]], [[National Committee to Preserve Social Security PAC]], [[Congressional Progressive Caucus PAC]], [[Anthem - Elevance Health]], [[Walmart - Walton Family]], [[League of Conservation Voters]], [[Ted Lieu]], [[Chrissy Houlahan]], [[iHeartMedia]], [[Pete Aguilar]], [[Let America Vote PAC]], [[Teamsters - International Brotherhood of Teamsters]], [[Gabe Amo]], [[Nancy Pelosi]], [[Morgan McGarvey]], [[Bonnie Watson Coleman]], [[Amgen Inc]], [[Coinbase]], [[Google - Alphabet]], [[Novo Nordisk]], [[Morgan Stanley]], [[Cigna Group]], [[AT&T]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[NANCY PELOSI FOR CONGRESS]], [[ANDY KIM FOR NEW JERSEY]], [[Teresa Leger Fernandez]], [[Suzanne Bonamici]], [[PETE AGUILAR FOR CONGRESS]], [[Eric Swalwell]], [[National Education Association]], [[CHRISSY HOULAHAN FOR CONGRESS]], [[MORGAN MCGARVEY FOR CONGRESS]], [[Yvette D. Clarke]], [[MARK TAKANO FOR CONGRESS]], [[Brittany Pettersen]], [[John B. Larson]], [[LATEEFAH FOR CONGRESS]], [[Mary Gay Scanlon]], [[MEDICARE FOR ALL]], [[BARRAGAN FOR CONGRESS]], [[John W. Mannion]], [[Nydia Velazquez]], [[JASMINE FOR US]], [[Hakeem Jeffries]], [[TED LIEU FOR CONGRESS]], [[Robin L. Kelly]], [[Frank Pallone]], [[Lizzie Fletcher]], [[CHUY GARCIA FOR CONGRESS]], [[BONNIE WATSON COLEMAN FOR CONGRESS]], [[Maxwell Frost]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Cybersecurity and Infrastructure Protection
-  - "Economic Growth, Tax, and Capital Access"
+  - Economic Growth, Tax, and Capital Access
   - House Committee on Homeland Security
   - House Committee on Small Business
-  - "Innovation, Entrepreneurship, and Workforce Development"
-  - "Oversight, Investigations, and Regulations"
+  - Innovation, Entrepreneurship, and Workforce Development
+  - Oversight, Investigations, and Regulations
   - Transportation and Maritime Security
-total-raised: "$2.2M"
-career-total-source: "FEC weball summary (cycles 2024, 2026)"
+total-raised: $2.2M
+career-total-source: FEC weball summary (cycles 2024, 2026)
 ---
 
 

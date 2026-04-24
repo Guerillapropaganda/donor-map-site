@@ -6,11 +6,11 @@ sector: Dark Money
 entity-type: Super PAC
 committee-id: C00902106
 fec-url: https://www.fec.gov/data/committee/C00902106/
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-ie-support: null
 fec-ie-oppose: $266,000
-politicians-funded: "[[Debbie Wasserman Schultz]]"
+politicians-funded: "[[Debbie Wasserman Schultz]], [[REDTURN LLC]], [[MODERN MAILBOX]], [[CERABONA, IVETTE]], [[VEN-VAMOS STRATEGIES]], [[SUNSHINE GROUP CONSULTING]]"
 related: "[[Debbie Wasserman Schultz]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -24,8 +24,8 @@ individual-contributions: 450548
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

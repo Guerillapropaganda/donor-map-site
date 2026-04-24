@@ -1,34 +1,35 @@
 ---
-title: "Janelle S. Bynum"
+title: Janelle S. Bynum
 type: politician
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Oregon"
-state-abbr: "OR"
+party: Democrat
+chamber: House
+state: Oregon
+state-abbr: OR
 district: "5"
-bioguide-id: "B001326"
+bioguide-id: B001326
 govtrack-id: 457016
 born: "1975-01-31"
-wikidata-id: "Q28507879"
-website: "https://bynum.house.gov"
-phone: "202-225-5711"
+wikidata-id: Q28507879
+website: https://bynum.house.gov
+phone: 202-225-5711
 source-types:
   - Congress
   - GovTrack
 known-gaps:
-  - "No FEC contribution data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Capital Markets
   - House Committee on Financial Services
   - Housing and Insurance
 bills-sponsored: 17
 corroboration-count: 2
+top-donors: "[[PETE AGUILAR FOR CONGRESS]], [[Troy A. Carter]], [[McDonalds Corporation]], [[ROBERT GARCIA FOR CONGRESS]], [[Suzanne Bonamici]], [[NANCY PELOSI FOR CONGRESS]], [[MAXINE FOR CONGRESS]], [[Planned Parenthood Action Fund INC]], [[DIANA DEGETTE FOR CONGRESS]], [[Bradley Scott Schneider]], [[LATEEFAH FOR CONGRESS]], [[MCCLELLAN FOR CONGRESS]], [[FREDERICA S. WILSON FOR CONGRESS]], [[Let America Vote PAC]], [[BONNIE WATSON COLEMAN FOR CONGRESS]], [[Richard Neal]], [[League of Conservation Voters]], [[Giffords PAC]], [[JASON CROW FOR CONGRESS]], [[National Education Association]], [[Robert Garcia]], [[Kim Schrier]], [[Lizzie Fletcher]], [[STANTON FOR CONGRESS]], [[STRICKLAND FOR WASHINGTON]], [[CVS Health - Aetna]], [[JUDY CHU FOR CONGRESS]], [[Pfizer Inc.]], [[Robin L. Kelly]], [[PAUL TONKO FOR CONGRESS]], [[KATHERINE CLARK FOR CONGRESS]], [[MARK KELLY FOR SENATE]], [[Donald S. Beyer]], [[LORI TRAHAN FOR CONGRESS COMMITTEE]], [[AbbVie]], [[Gilead Sciences]], [[Terri A. Sewell]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[MIKE THOMPSON FOR CONGRESS]], [[Mainstream Democrats Pac]], [[JULIA BROWNLEY FOR CONGRESS]], [[Amgen Inc]], [[MELANIE FOR NEW MEXICO]], [[SYDNEY KAMLAGER-DOVE FOR CONGRESS]], [[Coinbase]], [[BARRAGAN FOR CONGRESS]], [[MAGAZINER FOR CONGRESS]], [[NIKKI FOR CONGRESS]], [[Google - Alphabet]], [[QUIGLEY FOR CONGRESS]], [[Yvette D. Clarke]], [[Sarah Elfreth]], [[Hakeem Jeffries]], [[National Cattlemen's Beef Association]], [[Maxwell Frost]], [[DEBORAH ROSS FOR CONGRESS]], [[Janice D. Schakowsky]], [[KWEISI MFUME FOR CONGRESS]], [[SHARICE FOR CONGRESS]], [[Suzan K. Delbene]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Gwen Moore]], [[LANDSMAN FOR CONGRESS]], [[LUZ RIVAS FOR CONGRESS]], [[Sierra Club Political Committee]]"
 ---
 
 

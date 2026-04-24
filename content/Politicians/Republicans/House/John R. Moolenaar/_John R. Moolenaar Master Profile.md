@@ -1,38 +1,39 @@
 ---
-title: "John R. Moolenaar"
+title: John R. Moolenaar
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Michigan"
-state-abbr: "MI"
+party: Republican
+chamber: House
+state: Michigan
+state-abbr: MI
 district: "2"
-bioguide-id: "M001194"
+bioguide-id: M001194
 govtrack-id: 412634
 born: "1961-05-08"
-wikidata-id: "Q16194212"
-website: "https://moolenaar.house.gov"
-phone: "202-225-3561"
+wikidata-id: Q16194212
+website: https://moolenaar.house.gov
+phone: 202-225-3561
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 28
 bills-cosponsored: 437
 bills-enacted: 0
-top-policy-area: "International Affairs"
-last-enriched: 2026-04-21
+top-policy-area: International Affairs
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies"
+  - Agriculture, Rural Development, Food and Drug Administration, and Related Agencies
   - House Committee on Appropriations
   - House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party
-  - "Labor, Health and Human Services, Education, and Related Agencies"
-  - "National Security, Department of State, and Related Programs"
+  - Labor, Health and Human Services, Education, and Related Agencies
+  - National Security, Department of State, and Related Programs
+top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[Tyson Foods]], [[Associated General Contractors of America Political Action Committee]], [[Darin Lahood]], [[NRA Political Victory Fund]], [[Koch Industries]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[Brett Guthrie]], [[Southern Company]], [[Pfizer Inc.]], [[Rick Crawford]], [[Leidos]], [[Paul Ryan]], [[Steve Scalise]], [[Patriot Voices PAC]], [[BEN CLINE FOR CONGRESS, INC.]], [[National Cattlemen's Beef Association]], [[Michigan Republican Party]], [[National Restaurant Association]], [[Glenn Thompson]], [[Cargill]], [[Gilead Sciences]], [[DoorDash]], [[ANDY HARRIS FOR CONGRESS]], [[Richard Hudson]], [[Meta - Facebook]], [[GEO Group - Private Prison Industrial Complex]], [[Scott Desjarlais]], [[GARY PALMER FOR CONGRESS]], [[JASON SMITH FOR CONGRESS]], [[Monsanto - Bayer]], [[McDonalds Corporation]], [[Kevin McCarthy]], [[WESTERMAN FOR CONGRESS]], [[LOUDERMILK FOR CONGRESS]], [[American College of Radiology Association PAC]], [[Google - Alphabet]], [[ROBERT ADERHOLT FOR CONGRESS]], [[John Boehner]], [[ADM - Archer Daniels Midland]], [[ADRIAN SMITH FOR CONGRESS]], [[AbbVie]], [[Kristi Noem]], [[Pete Sessions]], [[VERN BUCHANAN FOR CONGRESS]], [[JIM JORDAN FOR CONGRESS]], [[Right to Life of Michigan Political Action Committee]], [[AUGUST PFLUGER FOR CONGRESS]]"
 ---
 
 

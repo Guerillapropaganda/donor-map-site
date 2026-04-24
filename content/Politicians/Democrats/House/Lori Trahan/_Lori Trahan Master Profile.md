@@ -18,24 +18,24 @@ phone: 202-225-3411
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H8MA03106
 bills-sponsored: 14
 bills-cosponsored: 395
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[SEIU COPE]], [[Pfizer Inc.]], [[IBEW - International Brotherhood of Electrical Workers]], [[Progressive Turnout Project]], [[AbbVie]], [[Unite Here Tip Campaign Committee]], [[League of Conservation Voters]], [[J Street]], [[Jamie Raskin]], [[CVS Health - Aetna]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[National Association of Realtors]], [[Performance Racing Inc.]], [[Let America Vote PAC]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Teamsters - International Brotherhood of Teamsters]], [[American College of Radiology Association PAC]], [[Raytheon (RTX)]], [[Anthem - Elevance Health]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Johnson & Johnson]], [[Gilead Sciences]], [[NEA Fund for Children and Public Education]], [[AIPAC - American Israel Public Affairs Committee]], [[UA Political Action Committee]], [[National Multifamily Housing Council]], [[Google - Alphabet]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Medicare for All - The Policy That Broke the Party]], [[American Chemistry Council, INC]], [[Walmart - Walton Family]], [[Amgen Inc]], [[Giffords PAC]], [[American Hospital Association PAC]], [[Lockheed Martin]], [[BAE Systems]], [[Care Action]], [[National Committee to Preserve Social Security PAC]], [[Planned Parenthood Votes]], [[American Federation of State County & Municipal Employees  P E O P L E]]"
-last-enriched: 2026-04-21
+top-donors: "[[SEIU COPE]], [[Pfizer Inc.]], [[IBEW - International Brotherhood of Electrical Workers]], [[Progressive Turnout Project]], [[AbbVie]], [[Unite Here Tip Campaign Committee]], [[League of Conservation Voters]], [[J Street]], [[Jamie Raskin]], [[CVS Health - Aetna]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[National Association of Realtors]], [[Performance Racing Inc.]], [[Let America Vote PAC]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Teamsters - International Brotherhood of Teamsters]], [[American College of Radiology Association PAC]], [[Raytheon (RTX)]], [[Anthem - Elevance Health]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Johnson & Johnson]], [[Gilead Sciences]], [[NEA Fund for Children and Public Education]], [[AIPAC - American Israel Public Affairs Committee]], [[UA Political Action Committee]], [[National Multifamily Housing Council]], [[Google - Alphabet]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Medicare for All - The Policy That Broke the Party]], [[American Chemistry Council, INC]], [[Walmart - Walton Family]], [[Amgen Inc]], [[Giffords PAC]], [[American Hospital Association PAC]], [[Lockheed Martin]], [[BAE Systems]], [[Care Action]], [[National Committee to Preserve Social Security PAC]], [[Planned Parenthood Votes]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Raytheon (RTX Corporation)]], [[JAMIE RASKIN FOR CONGRESS]], [[Donald S. Beyer]], [[GRACE FOR NEW YORK]], [[Rosa DeLauro]], [[MEDICARE FOR ALL]], [[AFL-CIO]], [[SETH FOR MASSACHUSETTS, INC]], [[National Education Association]], [[Hakeem Jeffries]], [[STEPHEN LYNCH FOR CONGRESS]], [[NANCY PELOSI FOR CONGRESS]], [[Steny H. Hoyer]], [[BILL FOSTER FOR CONGRESS]], [[PETE AGUILAR FOR CONGRESS]], [[National Committee to Preserve Social Security & Medicare PAC]], [[KATHERINE CLARK FOR CONGRESS]], [[Akin Gump Strauss Hauer & Feld]], [[WARREN FOR SENATE, INC.]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Commerce, Manufacturing, and Trade"
+  - Commerce, Manufacturing, and Trade
   - Health
   - House Committee on Energy and Commerce
   - Oversight and Investigations
-total-raised: "$9.4M"
-career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
+total-raised: $9.4M
+career-total-source: FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)
 ---
 
 

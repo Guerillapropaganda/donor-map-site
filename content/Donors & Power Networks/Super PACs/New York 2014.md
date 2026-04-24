@@ -5,14 +5,14 @@ content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00563171
 aliases:
   - NEW YORK 2014
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Elise Stefanik]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Elise Stefanik]], [[FASO, JOHN]], [[COVINGTON & BURLING LLP]]"
 related: "[[Elise Stefanik]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -23,7 +23,7 @@ total-spent: 92448
 ofac-sdn-match: "true"
 last-enriched: "2026-04-16"
 ofac-programs:
-  - "VENEZUELA-EO13850"
+  - VENEZUELA-EO13850
 source-types:
   - FEC
 ---

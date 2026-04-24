@@ -2,8 +2,8 @@
 title: Steve Daines
 type: politician
 content-readiness: draft
-central-thesis: "Steve Daines is the NRSC chair whose Montana donor map combines fossil-fuel capital (Occidental, Marathon, Valero, ConocoPhillips, Chevron, Drummond, Duke Energy), defense contractors, and the full Republican corporate PAC slate, producing a 95.1% party-loyalty record that services the donor base and a leadership role that extends that service across the Republican Senate conference."
-last-updated: 2026-04-19
+central-thesis: Steve Daines is the NRSC chair whose Montana donor map combines fossil-fuel capital (Occidental, Marathon, Valero, ConocoPhillips, Chevron, Drummond, Duke Energy), defense contractors, and the full Republican corporate PAC slate, producing a 95.1% party-loyalty record that services the donor base and a leadership role that extends that service across the Republican Senate conference.
+last-updated: 2026-04-19T00:00:00.000Z
 editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 source-tier: 1
 party: Republican
@@ -30,24 +30,24 @@ bills-sponsored: 58
 bills-cosponsored: 450
 bills-enacted: 1
 top-policy-area: Health
-top-donors: "[[AT&T - WarnerMedia]], [[DoorDash]], [[Johnson & Johnson]], [[Associated General Contractors of America Political Action Committee]], [[Northrop Grumman]], [[McDonalds Corporation]], [[Pfizer Inc.]], [[WinRed]], [[Microsoft]], [[Amgen Inc]], [[Planned Parenthood Votes]], [[AbbVie]], [[Morgan Stanley]], [[General Motors]], [[American Hospital Association PAC]], [[General Dynamics]], [[National Victory Action Fund]], [[Gilead Sciences]], [[Puget Sound Energy INC PAC for Good Government]], [[Performance Racing Inc.]], [[National Multifamily Housing Council]], [[Citigroup]], [[Humana]], [[Walmart - Walton Family]], [[iHeartMedia]], [[Occidental Petroleum]], [[Lockheed Martin]], [[Marathon Petroleum]], [[National Association of Realtors]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Wildlife Federation Action Fund]], [[Valero Energy]], [[Raytheon (RTX)]], [[NRSC - National Republican Senatorial Committee]], [[Bank of America]], [[CoreCivic - Private Prisons]], [[Common Sense for America PAC]], [[PG&E - Pacific Gas and Electric]], [[Coinbase]], [[ConocoPhillips]], [[Really American Pac]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Anthem - Elevance Health]], [[NextEra Energy]], [[CVS Health - Aetna]], [[Drummond Co.]], [[Google - Alphabet]], [[Comcast - NBCUniversal]], [[Tzedek PAC]], [[BAE Systems]], [[Care Action]], [[Duke Energy]], [[AIPAC - American Israel Public Affairs Committee]], [[Honeywell]], [[Chevron]], [[AT&T]], [[Honeywell International]]"
-last-enriched: 2026-04-20
+top-donors: "[[AT&T - WarnerMedia]], [[DoorDash]], [[Johnson & Johnson]], [[Associated General Contractors of America Political Action Committee]], [[Northrop Grumman]], [[McDonalds Corporation]], [[Pfizer Inc.]], [[WinRed]], [[Microsoft]], [[Amgen Inc]], [[Planned Parenthood Votes]], [[AbbVie]], [[Morgan Stanley]], [[General Motors]], [[American Hospital Association PAC]], [[General Dynamics]], [[National Victory Action Fund]], [[Gilead Sciences]], [[Puget Sound Energy INC PAC for Good Government]], [[Performance Racing Inc.]], [[National Multifamily Housing Council]], [[Citigroup]], [[Humana]], [[Walmart - Walton Family]], [[iHeartMedia]], [[Occidental Petroleum]], [[Lockheed Martin]], [[Marathon Petroleum]], [[National Association of Realtors]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Wildlife Federation Action Fund]], [[Valero Energy]], [[Raytheon (RTX)]], [[NRSC - National Republican Senatorial Committee]], [[Bank of America]], [[CoreCivic - Private Prisons]], [[Common Sense for America PAC]], [[PG&E - Pacific Gas and Electric]], [[Coinbase]], [[ConocoPhillips]], [[Really American Pac]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Anthem - Elevance Health]], [[NextEra Energy]], [[CVS Health - Aetna]], [[Drummond Co.]], [[Google - Alphabet]], [[Comcast - NBCUniversal]], [[Tzedek PAC]], [[BAE Systems]], [[Care Action]], [[Duke Energy]], [[AIPAC - American Israel Public Affairs Committee]], [[Honeywell]], [[Chevron]], [[AT&T]], [[Honeywell International]], [[National Republican Senatorial Committee]], [[Raytheon (RTX Corporation)]], [[STEVE DAINES FOR MONTANA]], [[NRA Political Victory Fund]], [[CoreCivic]], [[Republican Jewish Coalition]], [[National Restaurant Association]], [[John Boehner]], [[Leidos]], [[Patriot Voices PAC]], [[Hunter Action Fund (haf)]], [[Koch Industries]], [[Richard Hudson]], [[Cargill]], [[Gun Owners of America]], [[Williams Companies]], [[Southern Company]], [[Family Research Council Action Political Action Committee]], [[The Tea Party Leadership Fund]], [[Dan Sullivan]], [[Campaign for Working Families]], [[Club for Growth INC PAC]], [[AFL-CIO]], [[Meta - Facebook]], [[Americas Pac]], [[Monsanto - Bayer]], [[Clearpath Action Fund, Inc.]], [[National Cattlemen's Beef Association]], [[Senate Conservatives Fund]], [[American College of Radiology Association PAC]], [[National Association of Manufacturers]], [[Club for Growth]], [[Akin Gump Strauss Hauer & Feld]], [[National Right to Life PAC]], [[AFSCME Working Families Fund]], [[Opportunity Matters Fund]], [[National Right to Life Victory Fund]], [[Freedom's Defense Fund]], [[Women Speak Out Pac]], [[GEO Group - Private Prison Industrial Complex]], [[ANN WAGNER FOR CONGRESS]], [[FreedomWorks for America]], [[SLF PAC]]"
+last-enriched: 2026-04-20T00:00:00.000Z
 committees:
   - Africa and Global Health Policy
-  - "Energy, Natural Resources, and Infrastructure"
+  - Energy, Natural Resources, and Infrastructure
   - Europe and Regional Security Cooperation
   - Health Care
-  - "International Trade, Customs, and Global Competitiveness"
+  - International Trade, Customs, and Global Competitiveness
   - National Parks
-  - "Near East, South Asia, Central Asia, and Counterterrorism"
-  - "Public Lands, Forests, and Mining"
+  - Near East, South Asia, Central Asia, and Counterterrorism
+  - Public Lands, Forests, and Mining
   - Senate Committee on Energy and Natural Resources
   - Senate Committee on Finance
   - Senate Committee on Foreign Relations
   - Senate Committee on Indian Affairs
   - Water and Power
-total-raised: "$51.2M"
-career-total-source: "FEC weball summary (cycles 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+total-raised: $51.2M
+career-total-source: FEC weball summary (cycles 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

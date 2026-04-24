@@ -18,26 +18,26 @@ phone: 202-225-1313
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H8FL20032
 bills-sponsored: 20
 bills-cosponsored: 643
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[Raytheon (RTX)]], [[Amgen Inc]], [[NEA Fund for Children and Public Education]], [[Lockheed Martin]], [[AIPAC - American Israel Public Affairs Committee]], [[Care Action]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[National Association of Realtors]], [[NextEra Energy]], [[Comcast - NBCUniversal]], [[SEIU COPE]], [[Sierra Club Independent Action]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Ted Lieu]], [[Progressive Turnout Project]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Walmart - Walton Family]], [[American Hospital Association PAC]], [[Leidos]], [[AbbVie]], [[AT&T - WarnerMedia]], [[DMFI - Democratic Majority for Israel]], [[Pfizer Inc.]], [[AT&T]], [[American Federation of State County & Municipal Employees  P E O P L E]]"
-last-enriched: 2026-04-21
+top-donors: "[[Raytheon (RTX)]], [[Amgen Inc]], [[NEA Fund for Children and Public Education]], [[Lockheed Martin]], [[AIPAC - American Israel Public Affairs Committee]], [[Care Action]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[National Association of Realtors]], [[NextEra Energy]], [[Comcast - NBCUniversal]], [[SEIU COPE]], [[Sierra Club Independent Action]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Ted Lieu]], [[Progressive Turnout Project]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Walmart - Walton Family]], [[American Hospital Association PAC]], [[Leidos]], [[AbbVie]], [[AT&T - WarnerMedia]], [[DMFI - Democratic Majority for Israel]], [[Pfizer Inc.]], [[AT&T]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Raytheon (RTX Corporation)]], [[National Education Association]], [[TED LIEU FOR CONGRESS]], [[Bacardi - Bacardi USA]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Africa
   - Health
   - House Committee on Foreign Affairs
-  - "House Committee on Veterans' Affairs"
+  - House Committee on Veterans' Affairs
   - Middle East and North Africa
   - Technology Modernization
-total-raised: "$7.9M"
-career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
+total-raised: $7.9M
+career-total-source: FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)
 ---
 
 

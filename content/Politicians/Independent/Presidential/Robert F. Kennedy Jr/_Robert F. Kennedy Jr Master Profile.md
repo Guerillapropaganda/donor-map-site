@@ -1,24 +1,25 @@
 ---
-title: "Robert F. Kennedy Jr"
+title: Robert F. Kennedy Jr
 type: politician
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Independent"
-chamber: "Presidential"
+party: Independent
+chamber: Presidential
 known-gaps:
-  - "No voting record data"
-  - "No mapped relationships"
+  - No voting record data
+  - No mapped relationships
 source-types:
   - Congress
   - FEC
 aliases:
-  - "Robert F. Kennedy Jr."
-  - "Robert F. Kennedy Jr"
-  - "RFK Jr"
+  - Robert F. Kennedy Jr.
+  - Robert F. Kennedy Jr
+  - RFK Jr
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 corroboration-count: 2
+top-donors: "[[Retire Career Politicians]]"
 ---
 
 

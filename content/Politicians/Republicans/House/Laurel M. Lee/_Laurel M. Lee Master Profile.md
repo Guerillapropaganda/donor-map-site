@@ -1,35 +1,35 @@
 ---
-title: "Laurel M. Lee"
+title: Laurel M. Lee
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Florida"
-state-abbr: "FL"
+party: Republican
+chamber: House
+state: Florida
+state-abbr: FL
 district: "15"
-bioguide-id: "L000597"
+bioguide-id: L000597
 govtrack-id: 456892
 born: "1974-03-26"
-wikidata-id: "Q61483038"
-website: "https://laurellee.house.gov"
-phone: "202-225-5626"
+wikidata-id: Q61483038
+website: https://laurellee.house.gov
+phone: 202-225-5626
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 17
 bills-cosponsored: 204
 bills-enacted: 1
-top-policy-area: "Crime and Law Enforcement"
-last-enriched: 2026-04-21
+top-policy-area: Crime and Law Enforcement
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Commerce, Manufacturing, and Trade"
-  - "Courts, Intellectual Property, Artificial Intelligence, and the Internet"
+  - Commerce, Manufacturing, and Trade
+  - Courts, Intellectual Property, Artificial Intelligence, and the Internet
   - Crime and Federal Government Surveillance
   - Elections
   - Energy
@@ -37,6 +37,7 @@ committees:
   - House Committee on Energy and Commerce
   - House Committee on House Administration
   - House Committee on the Judiciary
+top-donors: "[[ADRIAN SMITH FOR CONGRESS]], [[Humana]], [[GEO Group - Private Prison Industrial Complex]], [[JIM JORDAN FOR CONGRESS]], [[NEHLS FOR CONGRESS]], [[DANIEL WEBSTER FOR CONGRESS]], [[Tyson Foods]], [[NRA Political Victory Fund]], [[National Restaurant Association]], [[Pfizer Inc.]], [[Women Speak Out Pac]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[RON ESTES FOR CONGRESS]], [[FRIENDS OF MATT GAETZ]], [[CRENSHAW, DANIEL]], [[AbbVie]], [[AUGUST PFLUGER FOR CONGRESS]], [[AIPAC - American Israel Public Affairs Committee]], [[BYRON DONALDS FOR CONGRESS]], [[Southern Company]], [[Kevin McCarthy]], [[CoreCivic]], [[JASON SMITH FOR CONGRESS]], [[ROBERT ADERHOLT FOR CONGRESS]], [[Amgen Inc]], [[Tom Emmer]], [[Koch Industries]], [[Leidos]], [[FISCHBACH FOR CONGRESS]], [[CVS Health - Aetna]], [[Carol D. Miller]], [[David P. Joyce]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Right to Life Victory Fund]], [[Gilead Sciences]], [[Meta - Facebook]], [[HAGEMAN FOR WYOMING]], [[Associated General Contractors of America Political Action Committee]], [[American Gaming Association]], [[Humane Society Legislative Fund]], [[Morgan Luttrell]], [[Steve Scalise]], [[Clay Higgins]], [[Guy Reschenthaler]], [[Google - Alphabet]], [[BEN CLINE FOR CONGRESS, INC.]]"
 ---
 
 

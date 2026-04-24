@@ -18,17 +18,17 @@ phone: 202-225-2040
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H8CA49074
 bills-sponsored: 27
 bills-cosponsored: 457
 bills-enacted: 1
 top-policy-area: Health
-top-donors: "[[Courage California Super Pac]], [[J Street]], [[National Association of Realtors]], [[NEA Fund for Children and Public Education]], [[PLANNED PARENTHOOD ACTION FUND OF THE PACIFIC SOUTHWEST PAC]], [[CHC BOLD PAC]], [[American Federation of State County & Municipal Employees P E O P L E]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Sierra Club Political Committee]], [[Sierra Club Independent Action]], [[IBEW - International Brotherhood of Electrical Workers]], [[Medicare for All - The Policy That Broke the Party]], [[Teamsters - International Brotherhood of Teamsters]], [[Let America Vote PAC]], [[Giffords PAC]], [[Planned Parenthood Action Fund INC]], [[American Hospital Association PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[League of Conservation Voters]], [[Progressive Turnout Project]], [[CTA - California Teachers Association]], [[Honeywell]], [[Indivisible Action]], [[SEIU COPE]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[National Nurses United]], [[Ripple]], [[Walt Disney Company]], [[Lyft]], [[Johnson & Johnson]], [[Amazon]], [[Google - Alphabet]], [[Bank of America]], [[SpaceX]], [[Citigroup]], [[Booz Allen Hamilton]], [[Goldman Sachs]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Planned Parenthood Action Fund of the Pacific Southwest PAC]], [[Honeywell International]]"
-last-enriched: 2026-04-21
+top-donors: "[[Courage California Super Pac]], [[J Street]], [[National Association of Realtors]], [[NEA Fund for Children and Public Education]], [[PLANNED PARENTHOOD ACTION FUND OF THE PACIFIC SOUTHWEST PAC]], [[CHC BOLD PAC]], [[American Federation of State County & Municipal Employees P E O P L E]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Sierra Club Political Committee]], [[Sierra Club Independent Action]], [[IBEW - International Brotherhood of Electrical Workers]], [[Medicare for All - The Policy That Broke the Party]], [[Teamsters - International Brotherhood of Teamsters]], [[Let America Vote PAC]], [[Giffords PAC]], [[Planned Parenthood Action Fund INC]], [[American Hospital Association PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[League of Conservation Voters]], [[Progressive Turnout Project]], [[CTA - California Teachers Association]], [[Honeywell]], [[Indivisible Action]], [[SEIU COPE]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[National Nurses United]], [[Ripple]], [[Walt Disney Company]], [[Lyft]], [[Johnson & Johnson]], [[Amazon]], [[Google - Alphabet]], [[Bank of America]], [[SpaceX]], [[Citigroup]], [[Booz Allen Hamilton]], [[Goldman Sachs]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Planned Parenthood Action Fund of the Pacific Southwest PAC]], [[Honeywell International]], [[SARA JACOBS FOR CONGRESS]], [[National Education Association]], [[Hakeem Jeffries]], [[LOIS FRANKEL FOR CONGRESS]], [[Emily's List]], [[MEDICARE FOR ALL]], [[NANCY PELOSI FOR CONGRESS]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Africa
   - House Committee on Armed Services
@@ -36,8 +36,8 @@ committees:
   - Intelligence and Special Operations
   - Military Personnel
   - Western Hemisphere
-total-raised: "$15.6M"
-career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
+total-raised: $15.6M
+career-total-source: FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)
 ---
 
 

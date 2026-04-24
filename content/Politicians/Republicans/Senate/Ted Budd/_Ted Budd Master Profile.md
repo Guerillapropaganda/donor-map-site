@@ -17,26 +17,26 @@ phone: 202-224-3154
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 42
 bills-cosponsored: 416
 bills-enacted: 1
 top-policy-area: Health
-top-donors: "[[Google - Alphabet]], [[Blackstone Group]], [[Duke Energy]], [[Goldman Sachs]], [[Lockheed Martin]], [[AT&T]], [[Wells Fargo]], [[Cigna Group]], [[Koch Industries]], [[MassMutual]], [[Chevron]], [[Coinbase]], [[Oracle]], [[CoreCivic]], [[Amazon]], [[Northrop Grumman]], [[Anduril Industries]], [[UnitedHealth Group - Optum]], [[US CHAMBER OF COMMERCE]], [[Morgan Stanley]], [[Walmart]], [[Meta - Facebook]], [[Bank of America]], [[Tyson Foods]], [[Apple]], [[ExxonMobil]], [[CVS Health - Aetna]], [[Charles Schwab]], [[UPS]], [[McDonalds Corporation]], [[Microsoft]], [[Merck]], [[Kaiser Permanente]], [[Humana]], [[Apollo Global Management]], [[US Chamber of Commerce]]"
-last-enriched: 2026-04-21
+top-donors: "[[Google - Alphabet]], [[Blackstone Group]], [[Duke Energy]], [[Goldman Sachs]], [[Lockheed Martin]], [[AT&T]], [[Wells Fargo]], [[Cigna Group]], [[Koch Industries]], [[MassMutual]], [[Chevron]], [[Coinbase]], [[Oracle]], [[CoreCivic]], [[Amazon]], [[Northrop Grumman]], [[Anduril Industries]], [[UnitedHealth Group - Optum]], [[US CHAMBER OF COMMERCE]], [[Morgan Stanley]], [[Walmart]], [[Meta - Facebook]], [[Bank of America]], [[Tyson Foods]], [[Apple]], [[ExxonMobil]], [[CVS Health - Aetna]], [[Charles Schwab]], [[UPS]], [[McDonalds Corporation]], [[Microsoft]], [[Merck]], [[Kaiser Permanente]], [[Humana]], [[Apollo Global Management]], [[US Chamber of Commerce]], [[Richard Hudson]], [[National Cattlemen's Beef Association]], [[Pete Sessions]], [[Southern States Police Benevolent Assoc PAC Fund]], [[NRA Political Victory Fund]], [[National Restaurant Association]], [[Darin Lahood]], [[CLAUDIA TENNEY FOR CONGRESS]], [[Clay Higgins]], [[JIM JORDAN FOR CONGRESS]], [[VIRGINIA FOXX FOR CONGRESS]], [[Club for Growth]], [[Akin Gump Strauss Hauer & Feld]], [[National Republican Senatorial Committee]], [[Steve Scalise]], [[DAVIDSON FOR CONGRESS]], [[Roger Marshall]], [[John Thune]], [[American Dream Federal Action]], [[Common Sense for America PAC]], [[JASON SMITH FOR CONGRESS]], [[DR. BRIAN BABIN FOR CONGRESS]], [[Jim Banks]], [[Amgen Inc]], [[American Principles Fund]], [[GEO Group - Private Prison Industrial Complex]], [[Performance Racing Inc.]], [[Pfizer Inc.]], [[Republican Jewish Coalition]], [[FreedomWorks for America]], [[Tzedek PAC]], [[Senate Conservatives Fund]], [[Club for Growth INC PAC]], [[Gun Owners of America]], [[TEXANS FOR JODEY ARRINGTON]], [[DANIEL WEBSTER FOR CONGRESS]], [[Women Speak Out Pac]], [[Kevin McCarthy]], [[William R. Timmons]], [[National Rental Home Council]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[CLYDE FOR CONGRESS, INC.]], [[Family Research Council Action Political Action Committee]], [[Campaign for Working Families]], [[ANDY HARRIS FOR CONGRESS]], [[Gilead Sciences]], [[National Right to Life Victory Fund]], [[FRIENDS OF MATT GAETZ]], [[COTTON, THOMAS]], [[Opportunity Matters Fund]], [[Donald Trump]], [[Nucor Corporation]], [[KAY GRANGER CAMPAIGN FUND]], [[MCCAUL FOR CONGRESS, INC]], [[Associated General Contractors of America Political Action Committee]], [[MCDOWELL FOR CONGRESS]], [[Elise Stefanik]], [[DAVID ROUZER FOR CONGRESS]], [[GARY PALMER FOR CONGRESS]], [[BIGGS FOR CONGRESS]], [[Mike Johnson]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Airland
-  - "Aviation, Space, and Innovation"
+  - Aviation, Space, and Innovation
   - Cybersecurity
   - Emerging Threats and Capabilities
   - Joint Economic Committee
   - Personnel
-  - "Science, Manufacturing, and Competitiveness"
+  - Science, Manufacturing, and Competitiveness
   - Senate Committee on Armed Services
-  - "Senate Committee on Commerce, Science, and Transportation"
+  - Senate Committee on Commerce, Science, and Transportation
   - Senate Committee on Small Business and Entrepreneurship
   - Senate Select Committee on Intelligence
   - Telecommunications and Media

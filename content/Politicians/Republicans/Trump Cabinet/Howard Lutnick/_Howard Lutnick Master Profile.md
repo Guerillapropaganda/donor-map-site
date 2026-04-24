@@ -17,13 +17,13 @@ top-donors:
 source-types:
   - FEC
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
+  - No legislative record from Congress.gov
+  - No voting record data
 related: "[[_Donald Trump Master Profile]] · [[_Scott Bessent Master Profile]] · [[Elon Musk]] · [[Rumble]]"
-donors: "[[Crypto Industry Bloc]], [[Elon Musk]]"
+donors: "[[Crypto Industry Bloc]], [[Elon Musk]], [[Keep Hope Alive Political Action Committee]]"
 urls-first-triaged: "2026-04-15"
 corroboration-count: 2
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

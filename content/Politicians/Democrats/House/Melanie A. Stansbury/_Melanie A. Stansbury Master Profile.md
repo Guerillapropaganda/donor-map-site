@@ -1,38 +1,39 @@
 ---
-title: "Melanie A. Stansbury"
+title: Melanie A. Stansbury
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "New Mexico"
-state-abbr: "NM"
+party: Democrat
+chamber: House
+state: New Mexico
+state-abbr: NM
 district: "1"
-bioguide-id: "S001218"
+bioguide-id: S001218
 govtrack-id: 456861
 born: "1979-01-31"
-wikidata-id: "Q96184996"
-website: "https://stansbury.house.gov"
-phone: "202-225-6316"
+wikidata-id: Q96184996
+website: https://stansbury.house.gov
+phone: 202-225-6316
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 19
 bills-cosponsored: 630
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Delivering on Government Efficiency
   - Federal Lands
   - House Committee on Natural Resources
   - House Committee on Oversight and Government Reform
-  - "Water, Wildlife and Fisheries"
+  - Water, Wildlife and Fisheries
+top-donors: "[[BILL FOSTER FOR CONGRESS]], [[National Education Association]], [[Ami Bera]], [[Protect the Vote]], [[MIKE THOMPSON FOR CONGRESS]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[KATHERINE CLARK FOR CONGRESS]], [[Ben Ray Lujan]], [[Donald S. Beyer]], [[League of Conservation Voters]], [[Robin L. Kelly]], [[Working Families Party PAC]], [[TED LIEU FOR CONGRESS]], [[FRIENDS OF MARIA]], [[Hakeem Jeffries]], [[JULIA BROWNLEY FOR CONGRESS]], [[Steny H. Hoyer]], [[GRACE FOR NEW YORK]], [[Suzanne Bonamici]], [[National Committee to Preserve Social Security & Medicare PAC]], [[JASON CROW FOR CONGRESS]], [[Giffords PAC]], [[SHERMAN FOR CONGRESS]], [[Wfp Ie Committee]], [[Gwen Moore]], [[J Street]], [[DEBORAH ROSS FOR CONGRESS]], [[Marc A. Veasey]], [[National Wildlife Federation Action Fund]], [[Let America Vote PAC]], [[MAD 4 PA PAC]], [[Nikema Williams]], [[PAUL TONKO FOR CONGRESS]], [[Indivisible Action]], [[ADRIANO ESPAILLAT FOR CONGRESS]], [[Planned Parenthood Action Fund INC]], [[MEDICARE FOR ALL]], [[Sierra Club Political Committee]], [[CASTRO FOR CONGRESS]], [[Teresa Leger Fernandez]], [[Raja Krishnamoorthi]], [[Environment America INC]], [[JAMIE RASKIN FOR CONGRESS]], [[Bobby Scott]], [[VERONICA ESCOBAR FOR CONGRESS]], [[National Nurses United]], [[NANCY PELOSI FOR CONGRESS]], [[PETE AGUILAR FOR CONGRESS]], [[Steve Cohen]], [[SARA JACOBS FOR CONGRESS]]"
 ---
 
 

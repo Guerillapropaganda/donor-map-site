@@ -23,11 +23,11 @@ known-gaps:
   - No voting record data
   - No mapped relationships
 related: "[[North Carolina 2026 Senate Race]] · [[Michael Whatley Oil and Gas Lobbying History]] · [[Susan B. Anthony Pro-Life America PAC]] · [[Consumer Energy Alliance]] · [[Michael Whatley RNC Authority to Senate Campaign Conversion]]"
-donors: "[[Susan B. Anthony Pro-Life America PAC]] · [[HBW Resources]] · [[Tim Dunn]] · [[Paul Singer]] · [[Consumer Energy Alliance]] · [[AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION]] · [[NORPAC]] · [[Republican Jewish Coalition]] · [[SLF PAC]] · [[Performance Racing Inc.]] · [[David Rouzer]] · [[NRSC - National Republican Senatorial Committee]] · [[Virginia Foxx]] · [[Americans for Prosperity]] · [[American Conservative Union]] · [[Common Sense for America PAC]] · [[CoreCivic - Private Prisons]] · [[Halliburton]] · [[Valero Energy]] · [[Duke Energy]] · [[Devon Energy]] · [[Marathon Petroleum]] · [[National Cattlemen's Beef Association]]"
+donors: "[[Susan B. Anthony Pro-Life America PAC]] · [[HBW Resources]] · [[Tim Dunn]] · [[Paul Singer]] · [[Consumer Energy Alliance]] · [[AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION]] · [[NORPAC]] · [[Republican Jewish Coalition]] · [[SLF PAC]] · [[Performance Racing Inc.]] · [[David Rouzer]] · [[NRSC - National Republican Senatorial Committee]] · [[Virginia Foxx]] · [[Americans for Prosperity]] · [[American Conservative Union]] · [[Common Sense for America PAC]] · [[CoreCivic - Private Prisons]] · [[Halliburton]] · [[Valero Energy]] · [[Duke Energy]] · [[Devon Energy]] · [[Marathon Petroleum]] · [[National Cattlemen's Beef Association]] · [[National Republican Senatorial Committee]] · [[Steve Scalise]] · [[CoreCivic]] · [[MCDOWELL FOR CONGRESS]] · [[Richard Hudson]] · [[American Principles Fund]] · [[DAVID ROUZER FOR CONGRESS]] · [[Koch Industries]] · [[FRIENDS OF TIM MOORE]] · [[Williams Companies]] · [[VIRGINIA FOXX FOR CONGRESS]]"
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-20
-total-raised: "$8.4M"
-career-total-source: "FEC weball summary (cycles 2026)"
+last-enriched: 2026-04-20T00:00:00.000Z
+total-raised: $8.4M
+career-total-source: FEC weball summary (cycles 2026)
 ---
 
 

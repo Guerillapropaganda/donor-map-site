@@ -18,23 +18,23 @@ phone: 202-225-9890
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2FL14053
 bills-sponsored: 14
 bills-cosponsored: 351
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[American Hospital Association PAC]], [[CHC BOLD PAC]], [[SEIU COPE]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Comcast - NBCUniversal]], [[Sierra Club Independent Action]], [[Nancy Pelosi]], [[Leidos]], [[Honeywell]], [[NEA Fund for Children and Public Education]], [[Everytown for Gun Safety]], [[Unite Here Tip Campaign Committee]], [[AIPAC - American Israel Public Affairs Committee]], [[Duke Energy]], [[UA Political Action Committee]], [[IBEW - International Brotherhood of Electrical Workers]], [[Raytheon (RTX)]], [[Ted Lieu]], [[Walmart - Walton Family]], [[Lockheed Martin]], [[Anthem - Elevance Health]], [[Debbie Dingell]], [[DMFI - Democratic Majority for Israel]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AT&T - WarnerMedia]], [[Gilead Sciences]], [[National Association of Realtors]], [[Let America Vote PAC]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Planned Parenthood Votes]], [[Tenet Healthcare]], [[League of Conservation Voters]], [[Progressive Turnout Project]], [[Julia Brownley]], [[Care Action]], [[Giffords PAC]], [[Pete Aguilar]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Teamsters - International Brotherhood of Teamsters]], [[NextEra Energy]], [[General Motors]], [[Humana]], [[Google - Alphabet]], [[Northrop Grumman]], [[Pfizer Inc.]], [[Medicare for All - The Policy That Broke the Party]], [[L3Harris Technologies]], [[General Dynamics]], [[Fanjul Family - Florida Crystals]], [[Verizon]], [[Blackstone Group]], [[Meta - Facebook]], [[CBRE Group]], [[CVS Health - Aetna]], [[FTX - Sam Bankman-Fried]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[Kaiser Permanente]], [[Boeing]], [[Goldman Sachs]], [[Morgan Stanley]], [[Uber]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[AT&T]], [[Honeywell International]]"
-last-enriched: 2026-04-21
+top-donors: "[[American Hospital Association PAC]], [[CHC BOLD PAC]], [[SEIU COPE]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Comcast - NBCUniversal]], [[Sierra Club Independent Action]], [[Nancy Pelosi]], [[Leidos]], [[Honeywell]], [[NEA Fund for Children and Public Education]], [[Everytown for Gun Safety]], [[Unite Here Tip Campaign Committee]], [[AIPAC - American Israel Public Affairs Committee]], [[Duke Energy]], [[UA Political Action Committee]], [[IBEW - International Brotherhood of Electrical Workers]], [[Raytheon (RTX)]], [[Ted Lieu]], [[Walmart - Walton Family]], [[Lockheed Martin]], [[Anthem - Elevance Health]], [[Debbie Dingell]], [[DMFI - Democratic Majority for Israel]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AT&T - WarnerMedia]], [[Gilead Sciences]], [[National Association of Realtors]], [[Let America Vote PAC]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Planned Parenthood Votes]], [[Tenet Healthcare]], [[League of Conservation Voters]], [[Progressive Turnout Project]], [[Julia Brownley]], [[Care Action]], [[Giffords PAC]], [[Pete Aguilar]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Teamsters - International Brotherhood of Teamsters]], [[NextEra Energy]], [[General Motors]], [[Humana]], [[Google - Alphabet]], [[Northrop Grumman]], [[Pfizer Inc.]], [[Medicare for All - The Policy That Broke the Party]], [[L3Harris Technologies]], [[General Dynamics]], [[Fanjul Family - Florida Crystals]], [[Verizon]], [[Blackstone Group]], [[Meta - Facebook]], [[CBRE Group]], [[CVS Health - Aetna]], [[FTX - Sam Bankman-Fried]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[Kaiser Permanente]], [[Boeing]], [[Goldman Sachs]], [[Morgan Stanley]], [[Uber]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[AT&T]], [[Honeywell International]], [[Raytheon (RTX Corporation)]], [[James E. Clyburn]], [[AFL-CIO]], [[Sierra Club Political Committee]], [[TED LIEU FOR CONGRESS]], [[Donald S. Beyer]], [[Steny H. Hoyer]], [[National Education Association]], [[HALEY STEVENS FOR CONGRESS]], [[DOGGETT FOR U S CONGRESS COMMITTEE]], [[Rosa DeLauro]], [[Hakeem Jeffries]], [[Suzanne Bonamici]], [[NANCY PELOSI FOR CONGRESS]], [[DEBBIE WASSERMAN SCHULTZ FOR CONGRESS]], [[Planned Parenthood Action Fund INC]], [[JULIA BROWNLEY FOR CONGRESS]], [[CASTOR FOR CONGRESS]], [[PAUL TONKO FOR CONGRESS]], [[BONNIE WATSON COLEMAN FOR CONGRESS]], [[MATSUI FOR CONGRESS]], [[GRACE FOR NEW YORK]], [[Bradley Scott Schneider]], [[JUDY CHU FOR CONGRESS]], [[National Committee to Preserve Social Security & Medicare PAC]], [[MEDICARE FOR ALL]], [[JAMIE RASKIN FOR CONGRESS]], [[PETE AGUILAR FOR CONGRESS]], [[HIMES FOR CONGRESS]], [[Adam Smith]], [[SHERMAN FOR CONGRESS]], [[VERONICA ESCOBAR FOR CONGRESS]], [[DEBORAH ROSS FOR CONGRESS]], [[DIANA DEGETTE FOR CONGRESS]], [[DEBBIE DINGELL FOR CONGRESS]], [[CASTRO FOR CONGRESS]], [[FREDERICA S. WILSON FOR CONGRESS]], [[Jerry Nadler]], [[John B. Larson]], [[House Majority PAC]], [[KATHERINE CLARK FOR CONGRESS]], [[American Gaming Association]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - House Committee on Appropriations
-  - "Labor, Health and Human Services, Education, and Related Agencies"
-  - "National Security, Department of State, and Related Programs"
-total-raised: "$15.0M"
-career-total-source: "FEC weball summary (cycles 1992, 1994, 1996, 1998, 2000, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+  - Labor, Health and Human Services, Education, and Related Agencies
+  - National Security, Department of State, and Related Programs
+total-raised: $15.0M
+career-total-source: FEC weball summary (cycles 1992, 1994, 1996, 1998, 2000, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

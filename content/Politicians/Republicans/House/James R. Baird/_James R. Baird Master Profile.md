@@ -1,44 +1,45 @@
 ---
-title: "James R. Baird"
+title: James R. Baird
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Indiana"
-state-abbr: "IN"
+party: Republican
+chamber: House
+state: Indiana
+state-abbr: IN
 district: "4"
-bioguide-id: "B001307"
+bioguide-id: B001307
 govtrack-id: 412777
 born: "1945-06-04"
-wikidata-id: "Q48813213"
-website: "https://baird.house.gov"
-phone: "202-225-5037"
+wikidata-id: Q48813213
+website: https://baird.house.gov
+phone: 202-225-5037
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 16
 bills-cosponsored: 352
 bills-enacted: 1
-top-policy-area: "International Affairs"
-last-enriched: 2026-04-21
+top-policy-area: International Affairs
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Africa
-  - "Conservation, Research, and Biotechnology"
+  - Conservation, Research, and Biotechnology
   - Energy
   - Forestry and Horticulture
   - House Committee on Agriculture
   - House Committee on Foreign Affairs
-  - "House Committee on Science, Space, and Technology"
-  - "Livestock, Dairy, and Poultry"
+  - House Committee on Science, Space, and Technology
+  - Livestock, Dairy, and Poultry
   - Nutrition and Foreign Agriculture
   - Oversight and Intelligence
   - Research and Technology
+top-donors: "[[James R. Baird]], [[JIM JORDAN FOR CONGRESS]], [[National Cattlemen's Beef Association]], [[National Right to Life Victory Fund]], [[Tyson Foods]], [[NRA Political Victory Fund]], [[DR. BRIAN BABIN FOR CONGRESS]], [[Nucor Corporation]], [[Steve Scalise]], [[Kevin McCarthy]], [[DAVID ROUZER FOR CONGRESS]], [[William R. Timmons]], [[JASON SMITH FOR CONGRESS]], [[AIPAC - American Israel Public Affairs Committee]], [[Koch Industries]], [[TEXANS FOR JODEY ARRINGTON]], [[JOE WILSON FOR CONGRESS]], [[MCCAUL FOR CONGRESS, INC]], [[With Honor Fund]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[ADM - Archer Daniels Midland]], [[BEN CLINE FOR CONGRESS, INC.]], [[Associated General Contractors of America Political Action Committee]], [[Cargill]], [[Jim Banks]]"
 ---
 
 

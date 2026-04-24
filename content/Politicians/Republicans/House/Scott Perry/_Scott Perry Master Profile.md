@@ -18,9 +18,9 @@ phone: 202-225-5836
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-donors: "[[House Freedom Caucus]], [[Brad Knott]], [[DCCC - Democratic Congressional Campaign Committee]], [[David Rouzer]], [[Anthem - Elevance Health]], [[MAJORITY PAC]], [[Pennsylvania Pro-Life Federation PAC]], [[Club for Growth INC PAC]], [[Jim Jordan]], [[Byron Donalds]], [[Edf Action Votes]], [[Carlos Gimenez]], [[Cliff Bentz]], [[DMFI - Democratic Majority for Israel]], [[Andy Harris]], [[NRCC - National Republican Congressional Committee]], [[National Association of Realtors]], [[Mark Green]], [[AT&T - WarnerMedia]], [[Hmp]], [[Activate America]], [[Austin Scott]], [[FAMILY RESEARCH COUNCIL ACTION POLITICAL ACTION COMMITTEE]], [[WinRed]], [[Gun Owners of America]], [[AIPAC - American Israel Public Affairs Committee]], [[American Conservative Union]], [[Glenn Grothman]], [[Mike Haridopolos]], [[Trump Victory]], [[Women Speak Out Pac]], [[Indivisible Action]], [[Freedom's Defense Fund]], [[Mainstream Democrats Pac]], [[Congressional Leadership Fund]], [[Planned Parenthood Votes]], [[Really American Pac]], [[Mark Harris]], [[National Rifle Association]], [[Jake Ellzey]], [[Senate Conservatives Fund]], [[Rick W. Allen]], [[Raytheon (RTX)]], [[Josh Brecheen]], [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]], [[Progressive Turnout Project]], [[Troy Downing]], [[General Motors]], [[Ron Estes]], [[National Right to Life Victory Fund]], [[Eric Burlison]], [[Thomas Massie]], [[Nathaniel Moran]], [[Save America PAC]], [[Ben Cline]], [[Majority PAC]], [[Family Research Council Action Political Action Committee]], [[HMP]], [[Protect Freedom Political Action Committee]], [[AT&T]]"
+  - No FEC contribution data
+  - No voting record data
+donors: "[[House Freedom Caucus]], [[Brad Knott]], [[DCCC - Democratic Congressional Campaign Committee]], [[David Rouzer]], [[Anthem - Elevance Health]], [[MAJORITY PAC]], [[Pennsylvania Pro-Life Federation PAC]], [[Club for Growth INC PAC]], [[Jim Jordan]], [[Byron Donalds]], [[Edf Action Votes]], [[Carlos Gimenez]], [[Cliff Bentz]], [[DMFI - Democratic Majority for Israel]], [[Andy Harris]], [[NRCC - National Republican Congressional Committee]], [[National Association of Realtors]], [[Mark Green]], [[AT&T - WarnerMedia]], [[Hmp]], [[Activate America]], [[Austin Scott]], [[FAMILY RESEARCH COUNCIL ACTION POLITICAL ACTION COMMITTEE]], [[WinRed]], [[Gun Owners of America]], [[AIPAC - American Israel Public Affairs Committee]], [[American Conservative Union]], [[Glenn Grothman]], [[Mike Haridopolos]], [[Trump Victory]], [[Women Speak Out Pac]], [[Indivisible Action]], [[Freedom's Defense Fund]], [[Mainstream Democrats Pac]], [[Congressional Leadership Fund]], [[Planned Parenthood Votes]], [[Really American Pac]], [[Mark Harris]], [[National Rifle Association]], [[Jake Ellzey]], [[Senate Conservatives Fund]], [[Rick W. Allen]], [[Raytheon (RTX)]], [[Josh Brecheen]], [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]], [[Progressive Turnout Project]], [[Troy Downing]], [[General Motors]], [[Ron Estes]], [[National Right to Life Victory Fund]], [[Eric Burlison]], [[Thomas Massie]], [[Nathaniel Moran]], [[Save America PAC]], [[Ben Cline]], [[Majority PAC]], [[Family Research Council Action Political Action Committee]], [[HMP]], [[Protect Freedom Political Action Committee]], [[AT&T]], [[Raytheon (RTX Corporation)]], [[Glenn Thompson]], [[MARY MILLER FOR CONGRESS]], [[Neal P. Dunn]], [[William R. Timmons]], [[Brandon Gill]], [[LOUDERMILK FOR CONGRESS]], [[FreedomWorks for America]], [[Pete Sessions]], [[CLIFF BENTZ FOR CONGRESS]], [[Richard McCormick]], [[CLOUD FOR CONGRESS]], [[MIKE HARIDOPOLOS FOR CONGRESS]], [[BURCHETT FOR CONGRESS]], [[Clay Higgins]], [[JIM JORDAN FOR CONGRESS]], [[Chip Roy]], [[Russ Fulcher]], [[W. Gregory Steube]], [[NRA Political Victory Fund]], [[Koch Industries]], [[Elise Stefanik]], [[MARK GREEN FOR CONGRESS]], [[Campaign for Working Families]], [[GLENN GROTHMAN FOR CONGRESS]], [[FRIENDS OF MATT GAETZ]], [[KAY GRANGER CAMPAIGN FUND]], [[John J. McGuire]], [[American Principles Fund]], [[LISA MCCLAIN FOR CONGRESS]], [[Tom Emmer]], [[RON ESTES FOR CONGRESS]], [[Daniel Meuser]], [[Mark B. Messmer]], [[BIGGS FOR CONGRESS]], [[NATHANIEL MORAN FOR CONGRESS]], [[JASON SMITH FOR CONGRESS]], [[THOMAS MASSIE FOR CONGRESS]], [[David P. Joyce]], [[ANDY HARRIS FOR CONGRESS]], [[Sinclair Broadcast Group]], [[Mike Johnson]], [[DAVID ROUZER FOR CONGRESS]], [[ERIC BURLISON FOR CONGRESS]], [[Williams Companies]], [[BRAD KNOTT FOR CONGRESS]], [[Steve Scalise]], [[TEXANS FOR JODEY ARRINGTON]], [[MCCAUL FOR CONGRESS, INC]], [[Rick Crawford]], [[Lloyd Smucker]], [[DR JOHN JOYCE FOR CONGRESS]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[National Restaurant Association]], [[Guy Reschenthaler]], [[Kevin McCarthy]], [[BEN CLINE FOR CONGRESS, INC.]], [[DAVE TAYLOR FOR CONGRESS]], [[JAKE ELLZEY FOR CONGRESS]], [[WEBER FOR CONGRESS]], [[HOUCHIN FOR CONGRESS]], [[GARY PALMER FOR CONGRESS]], [[DR. BRIAN BABIN FOR CONGRESS]], [[MIKE KENNEDY FOR UTAH]], [[Tim Walberg]], [[ROBERT ADERHOLT FOR CONGRESS]], [[BOST, MICHAEL]], [[John Boehner]], [[Jimmy Patronis]], [[MOORE FOR WEST VIRGINIA, INC.]], [[H. Morgan Griffith]], [[BYRON DONALDS FOR CONGRESS]], [[Special Operations for America]], [[COMER FOR CONGRESS]], [[CLYDE FOR CONGRESS, INC.]], [[Dale W. Strong]], [[TED BUDD FOR SENATE]], [[Frank Lucas]], [[Club for Growth]], [[DAVIDSON FOR CONGRESS]], [[RICK W. ALLEN FOR CONGRESS]], [[MARK HARRIS FOR CONGRESS]], [[Donald Trump]], [[Google - Alphabet]], [[FEDORCHAK FOR ND]], [[Gregory F. Murphy]], [[Republican Jewish Coalition]], [[JOSH BRECHEEN FOR CONGRESS]], [[DANIEL WEBSTER FOR CONGRESS]], [[CARLOS GIMENEZ FOR CONGRESS]], [[Carol D. Miller]], [[Mark E. Amodei]]"
 related: "[[House Freedom Caucus]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2PA04135
@@ -28,11 +28,11 @@ bills-sponsored: 41
 bills-cosponsored: 221
 bills-enacted: 0
 top-policy-area: Government Operations and Politics
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Aviation
-  - "Economic Development, Public Buildings, and Emergency Management"
-  - "Economic Growth, Energy Policy, and Regulatory Affairs"
+  - Economic Development, Public Buildings, and Emergency Management
+  - Economic Growth, Energy Policy, and Regulatory Affairs
   - Federal Law Enforcement
   - House Committee on Foreign Affairs
   - House Committee on Oversight and Government Reform
@@ -42,8 +42,8 @@ committees:
   - Open Source Intelligence
   - Oversight and Intelligence
   - South and Central Asia
-total-raised: "$18.9M"
-career-total-source: "FEC weball summary (cycles 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+total-raised: $18.9M
+career-total-source: FEC weball summary (cycles 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

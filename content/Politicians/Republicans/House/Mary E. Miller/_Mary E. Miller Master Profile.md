@@ -1,44 +1,45 @@
 ---
-title: "Mary E. Miller"
+title: Mary E. Miller
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Illinois"
-state-abbr: "IL"
+party: Republican
+chamber: House
+state: Illinois
+state-abbr: IL
 district: "15"
-bioguide-id: "M001211"
+bioguide-id: M001211
 govtrack-id: 456820
 born: "1959-08-27"
-wikidata-id: "Q101204553"
-website: "https://marymiller.house.gov"
-phone: "202-225-5271"
+wikidata-id: Q101204553
+website: https://marymiller.house.gov
+phone: 202-225-5271
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 22
 bills-cosponsored: 532
 bills-enacted: 0
-top-policy-area: "Crime and Law Enforcement"
-last-enriched: 2026-04-21
+top-policy-area: Crime and Law Enforcement
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Conservation, Research, and Biotechnology"
-  - "Early Childhood, Elementary, and Secondary Education"
+  - Conservation, Research, and Biotechnology
+  - Early Childhood, Elementary, and Secondary Education
   - Elections
-  - "General Farm Commodities, Risk Management, and Credit"
+  - General Farm Commodities, Risk Management, and Credit
   - House Committee on Agriculture
   - House Committee on Education and Workforce
   - House Committee on House Administration
   - Joint Committee on Printing
-  - "Livestock, Dairy, and Poultry"
+  - Livestock, Dairy, and Poultry
   - Nutrition and Foreign Agriculture
   - Workforce Protections
+top-donors: "[[Nucor Corporation]], [[National Cattlemen's Beef Association]], [[Club for Growth INC PAC]], [[JASON SMITH FOR CONGRESS]], [[Tyson Foods]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[JIM JORDAN FOR CONGRESS]], [[DAVID ROUZER FOR CONGRESS]], [[American Principles Fund]], [[Steve Scalise]], [[Club for Growth]], [[James R. Baird]], [[ANDY HARRIS FOR CONGRESS]], [[Brett Guthrie]], [[Koch Industries]], [[BIGGS FOR CONGRESS]], [[ADM - Archer Daniels Midland]], [[FreedomWorks for America]], [[Wfw Action Fund, Inc.]], [[NRA Political Victory Fund]], [[Family Research Council Action Political Action Committee]], [[BURCHETT FOR CONGRESS]], [[CLYDE FOR CONGRESS, INC.]]"
 ---
 
 

@@ -1,36 +1,37 @@
 ---
-title: "Jennifer L. McClellan"
+title: Jennifer L. McClellan
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Virginia"
-state-abbr: "VA"
+party: Democrat
+chamber: House
+state: Virginia
+state-abbr: VA
 district: "4"
-bioguide-id: "M001227"
+bioguide-id: M001227
 govtrack-id: 456953
 born: "1972-12-28"
-wikidata-id: "Q6178602"
-website: "https://mcclellan.house.gov"
-phone: "202-225-6365"
+wikidata-id: Q6178602
+website: https://mcclellan.house.gov
+phone: 202-225-6365
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 23
 bills-cosponsored: 448
 bills-enacted: 2
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Communications and Technology
   - Energy
   - House Committee on Energy and Commerce
+top-donors: "[[Giffords PAC]], [[Marc A. Veasey]], [[TED LIEU FOR CONGRESS]], [[AIPAC - American Israel Public Affairs Committee]], [[Nucor Corporation]], [[Meta - Facebook]], [[Emily's List]], [[Sierra Club Political Committee]], [[Humana]], [[AbbVie]], [[James E. Clyburn]], [[NANCY PELOSI FOR CONGRESS]], [[GRACE FOR NEW YORK]], [[National Education Association]], [[J Street]], [[Amgen Inc]], [[Pfizer Inc.]], [[Williams Companies]], [[Terri A. Sewell]], [[Let America Vote PAC]], [[CVS Health - Aetna]], [[Leidos]], [[Eric Swalwell]], [[Environment America INC]], [[American College of Radiology Association PAC]], [[Southern Company]], [[Yvette D. Clarke]], [[ROBERT GARCIA FOR CONGRESS]], [[JOE NEGUSE FOR CONGRESS]], [[STRICKLAND FOR WASHINGTON]], [[EMILIA SYKES FOR CONGRESS]], [[BONNIE WATSON COLEMAN FOR CONGRESS]], [[League of Conservation Voters]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Robin L. Kelly]], [[VIRGIN ISLANDS FOR PLASKETT]], [[JASMINE FOR US]], [[Hakeem Jeffries]]"
 ---
 
 

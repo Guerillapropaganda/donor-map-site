@@ -26,18 +26,18 @@ source-types:
   - Congress
 corroboration-count: 2
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-donors: "[[NORPAC]] · [[NRCC]] · [[SPECIAL OPERATIONS FOR AMERICA]] · [[WITH HONOR FUND, INC.]] · [[Fanjul Family - Florida Crystals]] · [[Special Operations for America]] · [[Tenet Healthcare]] · [[BAE Systems]] · [[Raytheon (RTX)]] · [[Comcast - NBCUniversal]] · [[UA Political Action Committee]] · [[Jason Smith]] · [[NextEra Energy]] · [[Walmart - Walton Family]] · [[National Association of Realtors]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Leidos]] · [[General Motors]] · [[Republican Jewish Coalition]] · [[Planned Parenthood Votes]] · [[Chevron]] · [[Save America PAC]] · [[American Chemistry Council, INC]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Lockheed Martin]] · [[Freedom's Defense Fund]] · [[ADM - Archer Daniels Midland]] · [[WinRed]] · [[David Rouzer]] · [[National Multifamily Housing Council]] · [[Las Vegas Sands]] · [[Wells Fargo]] · [[Morgan Stanley]] · [[CBRE Group]] · [[NRCC - National Republican Congressional Committee]] · [[With Honor Fund]]"
+  - No FEC contribution data
+  - No voting record data
+donors: "[[NORPAC]] · [[NRCC]] · [[SPECIAL OPERATIONS FOR AMERICA]] · [[WITH HONOR FUND, INC.]] · [[Fanjul Family - Florida Crystals]] · [[Special Operations for America]] · [[Tenet Healthcare]] · [[BAE Systems]] · [[Raytheon (RTX)]] · [[Comcast - NBCUniversal]] · [[UA Political Action Committee]] · [[Jason Smith]] · [[NextEra Energy]] · [[Walmart - Walton Family]] · [[National Association of Realtors]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Leidos]] · [[General Motors]] · [[Republican Jewish Coalition]] · [[Planned Parenthood Votes]] · [[Chevron]] · [[Save America PAC]] · [[American Chemistry Council, INC]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Lockheed Martin]] · [[Freedom's Defense Fund]] · [[ADM - Archer Daniels Midland]] · [[WinRed]] · [[David Rouzer]] · [[National Multifamily Housing Council]] · [[Las Vegas Sands]] · [[Wells Fargo]] · [[Morgan Stanley]] · [[CBRE Group]] · [[NRCC - National Republican Congressional Committee]] · [[With Honor Fund]] · [[Raytheon (RTX Corporation)]] · [[BRIAN MAST FOR CONGRESS]] · [[Jim Banks]] · [[CITIZENS FOR JOHN RUTHERFORD]] · [[TEXANS FOR JODEY ARRINGTON]] · [[American Principles Fund]] · [[Pfizer Inc.]] · [[Pete Sessions]] · [[Humana]] · [[Earl L. Buddy Carter]] · [[Brett Guthrie]] · [[Associated General Contractors of America Political Action Committee]] · [[Law Enforcement for a Safer America Pac]] · [[Gregory F. Murphy]] · [[AFL-CIO]] · [[DAVID ROUZER FOR CONGRESS]] · [[Bacardi - Bacardi USA]] · [[Amgen Inc]] · [[NRA Political Victory Fund]] · [[Darin Lahood]] · [[National Right to Life Victory Fund]] · [[JASON SMITH FOR CONGRESS]] · [[MCCAUL FOR CONGRESS, INC]] · [[John W. Rose]] · [[ROGER WILLIAMS FOR U S CONGRESS COMMITTEE]] · [[Steve Scalise]] · [[AUSTIN SCOTT FOR CONGRESS INC]] · [[Donald Trump]] · [[Williams Companies]] · [[GEO Group - Private Prison Industrial Complex]] · [[PETE SESSIONS FOR CONGRESS]] · [[Roger Marshall]] · [[Ron DeSantis]] · [[National Restaurant Association]] · [[Clearpath Action Fund, Inc.]] · [[Glenn Thompson]] · [[INVEST IN A STRONG AND SECURE AMERICA]] · [[KAY GRANGER CAMPAIGN FUND]] · [[KUSTOFF FOR CONGRESS]] · [[Campaign for Working Families]] · [[JOE WILSON FOR CONGRESS]] · [[BEN CLINE FOR CONGRESS, INC.]] · [[Neal P. Dunn]] · [[Edf Action Votes]] · [[National Cattlemen's Beef Association]] · [[Google - Alphabet]] · [[Paul Ryan]] · [[ANDY HARRIS FOR CONGRESS]] · [[Kevin McCarthy]] · [[FRIENDS OF MATT GAETZ]] · [[ADRIAN SMITH FOR CONGRESS]]"
 related: "[[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Marco Rubio Master Profile|Rubio]] · [[Fanjul Family - Florida Crystals]] · [[Operation Southern Spear and the Cuba Fuel Blockade]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 32
 bills-cosponsored: 212
 bills-enacted: 0
 top-policy-area: International Affairs
-last-enriched: 2026-04-21
-total-raised: "$28.7M"
-career-total-source: "FEC weball summary (cycles 2016, 2018, 2020, 2022, 2024, 2026)"
+last-enriched: 2026-04-21T00:00:00.000Z
+total-raised: $28.7M
+career-total-source: FEC weball summary (cycles 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

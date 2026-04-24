@@ -18,27 +18,27 @@ phone: 202-225-9730
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4UT02296
 bills-sponsored: 17
 bills-cosponsored: 75
 bills-enacted: 1
 top-policy-area: Public Lands and Natural Resources
-top-donors: "[[National Association of Realtors]], [[Comcast - NBCUniversal]], [[Chevron]], [[Devon Energy]], [[Associated General Contractors of America Political Action Committee]], [[L3Harris Technologies]], [[Ben Cline]], [[Walmart - Walton Family]], [[Northrop Grumman]], [[Wfw Action Fund, Inc.]], [[Freedom's Defense Fund]], [[Winning for Women PAC]], [[VIEW PAC - Value in Electing Women]], [[National Rifle Association]], [[Raytheon (RTX)]], [[Jim Jordan]], [[Nucor Corporation]], [[American Chemistry Council, INC]], [[August Pfluger]], [[Performance Racing Inc.]], [[Lockheed Martin]], [[Defending Main Street Superpac INC]], [[AT&T - WarnerMedia]], [[National Cattlemen's Beef Association]], [[Halliburton]], [[MAJORITY PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[General Dynamics]], [[BAE Systems]], [[Hunter Action Fund (haf)]], [[Republican Jewish Coalition]], [[Congressional Leadership Fund]], [[David Rouzer]], [[NRCC - National Republican Congressional Committee]], [[WinRed]], [[AT&T]], [[Majority PAC]]"
-last-enriched: 2026-04-21
+top-donors: "[[National Association of Realtors]], [[Comcast - NBCUniversal]], [[Chevron]], [[Devon Energy]], [[Associated General Contractors of America Political Action Committee]], [[L3Harris Technologies]], [[Ben Cline]], [[Walmart - Walton Family]], [[Northrop Grumman]], [[Wfw Action Fund, Inc.]], [[Freedom's Defense Fund]], [[Winning for Women PAC]], [[VIEW PAC - Value in Electing Women]], [[National Rifle Association]], [[Raytheon (RTX)]], [[Jim Jordan]], [[Nucor Corporation]], [[American Chemistry Council, INC]], [[August Pfluger]], [[Performance Racing Inc.]], [[Lockheed Martin]], [[Defending Main Street Superpac INC]], [[AT&T - WarnerMedia]], [[National Cattlemen's Beef Association]], [[Halliburton]], [[MAJORITY PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[General Dynamics]], [[BAE Systems]], [[Hunter Action Fund (haf)]], [[Republican Jewish Coalition]], [[Congressional Leadership Fund]], [[David Rouzer]], [[NRCC - National Republican Congressional Committee]], [[WinRed]], [[AT&T]], [[Majority PAC]], [[Raytheon (RTX Corporation)]], [[Steve Scalise]], [[BLAKE MOORE FOR CONGRESS]], [[NRA Political Victory Fund]], [[CLAUDIA TENNEY FOR CONGRESS]], [[FRY FOR CONGRESS]], [[Tom Emmer]], [[JIM JORDAN FOR CONGRESS]], [[Koch Industries]], [[Williams Companies]], [[DAVID ROUZER FOR CONGRESS]], [[AUGUST PFLUGER FOR CONGRESS]], [[Mitt Romney]], [[Dan Newhouse]], [[Tyson Foods]], [[Mark E. Amodei]], [[David P. Joyce]], [[BEN CLINE FOR CONGRESS, INC.]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Energy and Water Development and Related Agencies
   - Federal Lands
   - House Committee on Appropriations
   - House Committee on Natural Resources
-  - "Interior, Environment, and Related Agencies"
+  - Interior, Environment, and Related Agencies
   - Legislative Branch
-  - "Water, Wildlife and Fisheries"
-total-raised: "$2.8M"
-career-total-source: "FEC weball summary (cycles 2024, 2026)"
+  - Water, Wildlife and Fisheries
+total-raised: $2.8M
+career-total-source: FEC weball summary (cycles 2024, 2026)
 ---
 
 

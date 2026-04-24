@@ -1,34 +1,34 @@
 ---
-title: "Robin L. Kelly"
+title: Robin L. Kelly
 type: politician
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Illinois"
-state-abbr: "IL"
+party: Democrat
+chamber: House
+state: Illinois
+state-abbr: IL
 district: "2"
-bioguide-id: "K000385"
+bioguide-id: K000385
 govtrack-id: 412595
 born: "1956-04-30"
-wikidata-id: "Q3437091"
-website: "https://robinkelly.house.gov"
-phone: "202-225-0773"
+wikidata-id: Q3437091
+website: https://robinkelly.house.gov
+phone: 202-225-0773
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-donors: "[[CA Farm Bureau Federation]]"
+  - No FEC contribution data
+  - No voting record data
+donors: "[[CA Farm Bureau Federation]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[American Gaming Association]], [[National Education Association]], [[Pfizer Inc.]], [[Frank Pallone]], [[Xavier Becerra]], [[ADM - Archer Daniels Midland]], [[Google - Alphabet]], [[AbbVie]], [[CVS Health - Aetna]], [[American College of Radiology Association PAC]], [[Gilead Sciences]], [[Monsanto - Bayer]], [[Amgen Inc]], [[Nucor Corporation]], [[DAVID SCOTT FOR CONGRESS]], [[Troy A. Carter]], [[Planned Parenthood Action Fund INC]], [[Humana]], [[Everytown for Gun Safety]], [[Independence Usa Pac]], [[McDonalds Corporation]], [[Bennie Thompson]], [[Sierra Club Political Committee]], [[Hakeem Jeffries]], [[Southern Company]], [[J Street]], [[MEDICARE FOR ALL]], [[Donald S. Beyer]], [[Yvette D. Clarke]], [[American Iron and Steel Institute]], [[SHONTEL BROWN FOR CONGRESS]], [[BARBARA LEE FOR CONGRESS]], [[Sinclair Broadcast Group]], [[FOUSHEE FOR CONGRESS]], [[Meta - Facebook]], [[Richard Neal]], [[Giffords PAC]], [[Henry C. Hank Johnson]], [[League of Conservation Voters]], [[GABE AMO FOR CONGRESS]], [[ADRIANO ESPAILLAT FOR CONGRESS]], [[National Committee to Preserve Social Security & Medicare PAC]], [[VIRGIN ISLANDS FOR PLASKETT]], [[Alma S. Adams]], [[Cargill]], [[BEATTY FOR CONGRESS]], [[Terri A. Sewell]], [[DIANA DEGETTE FOR CONGRESS]], [[BONNIE WATSON COLEMAN FOR CONGRESS]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 23
 bills-cosponsored: 393
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Commerce, Manufacturing, and Trade"
+  - Commerce, Manufacturing, and Trade
   - Communications and Technology
   - Health
   - House Committee on Energy and Commerce

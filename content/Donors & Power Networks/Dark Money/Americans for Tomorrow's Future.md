@@ -7,11 +7,11 @@ entity-type: Super PAC
 committee-type: Super PAC (Independent Expenditure-Only)
 committee-id: C00741009
 fec-url: https://www.fec.gov/data/committee/C00741009/
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-ie-support: "null"
 fec-ie-oppose: $9,934,794
-politicians-funded: "[[Ilhan Omar]]"
+politicians-funded: "[[Ilhan Omar]], [[ARENT FOX LLP]], [[ANEDOT]], [[CMI MARKETING RESEARCH]], [[TARGETED INSIGHTS]], [[PRO-ISRAEL AMERICA INC]]"
 related: "[[Ilhan Omar]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -22,10 +22,10 @@ independent-expenditures: -13324
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
-total-political-spend: "$2.5M"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2020"
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $2.5M
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2020
 ---
 
 

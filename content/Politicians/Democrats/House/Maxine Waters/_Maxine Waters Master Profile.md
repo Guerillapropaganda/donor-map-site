@@ -21,7 +21,7 @@ bills-sponsored: 36
 bills-cosponsored: 275
 website: https://waters.house.gov
 phone: 202-225-2201
-donors: "[[California Nurses Association]] · [[Goldman Sachs]] · [[LOS ANGELES COUNTY DEMOCRATIC CENTRAL COMMITTEE]] · [[ELBERT GUILLORY'S AMERICA]] · [[Los Angeles County Democratic Central Committee]] · [[Elbert Guillory's America]] · [[Stars and Stripes Forever PAC]] · [[Future45]] · [[General Motors]] · [[Morgan Stanley]] · [[Teamsters - International Brotherhood of Teamsters]] · [[National Multifamily Housing Council]] · [[Sierra Club Independent Action]] · [[Google - Alphabet]] · [[League of Conservation Voters]] · [[Courage California Super Pac]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[Planned Parenthood Votes]] · [[SEIU COPE]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[NEA Fund for Children and Public Education]] · [[Sierra Club Political Committee]] · [[Ted Lieu]] · [[National Association of Realtors]] · [[Microsoft]] · [[National Restaurant Association]] · [[Walmart - Walton Family]] · [[Pfizer Inc.]] · [[Progressive Turnout Project]] · [[Medicare for All - The Policy That Broke the Party]] · [[Coinbase]] · [[American Federation of State County & Municipal Employees  P E O P L E]]"
+donors: "[[California Nurses Association]] · [[Goldman Sachs]] · [[LOS ANGELES COUNTY DEMOCRATIC CENTRAL COMMITTEE]] · [[ELBERT GUILLORY'S AMERICA]] · [[Los Angeles County Democratic Central Committee]] · [[Elbert Guillory's America]] · [[Stars and Stripes Forever PAC]] · [[Future45]] · [[General Motors]] · [[Morgan Stanley]] · [[Teamsters - International Brotherhood of Teamsters]] · [[National Multifamily Housing Council]] · [[Sierra Club Independent Action]] · [[Google - Alphabet]] · [[League of Conservation Voters]] · [[Courage California Super Pac]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[Planned Parenthood Votes]] · [[SEIU COPE]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[NEA Fund for Children and Public Education]] · [[Sierra Club Political Committee]] · [[Ted Lieu]] · [[National Association of Realtors]] · [[Microsoft]] · [[National Restaurant Association]] · [[Walmart - Walton Family]] · [[Pfizer Inc.]] · [[Progressive Turnout Project]] · [[Medicare for All - The Policy That Broke the Party]] · [[Coinbase]] · [[American Federation of State County & Municipal Employees  P E O P L E]] · [[MARCIA FUDGE FOR CONGRESS]] · [[MEDICARE FOR ALL]] · [[CITIZENS FOR WATERS]] · [[Planned Parenthood Action Fund INC]] · [[National Committee to Preserve Social Security & Medicare PAC]] · [[DEB HAALAND FOR CONGRESS]] · [[Steny H. Hoyer]] · [[National Education Association]] · [[McDonalds Corporation]] · [[BONNIE WATSON COLEMAN FOR CONGRESS]] · [[TED LIEU FOR CONGRESS]] · [[Akin Gump Strauss Hauer & Feld]] · [[Airbnb]] · [[Al Green]] · [[AFL-CIO]] · [[Marcy Kaptur]] · [[Robin L. Kelly]] · [[James E. Clyburn]] · [[CHUY GARCIA FOR CONGRESS]] · [[National Nurses United]] · [[BARBARA LEE FOR CONGRESS]] · [[Protecting Our Vote Pac]] · [[Frank Pallone]] · [[Occidental Petroleum]] · [[Terri A. Sewell]] · [[NANCY PELOSI FOR CONGRESS]] · [[John B. Larson]] · [[Amgen Inc]] · [[AL GREEN FOR CONGRESS]] · [[DAVID SCOTT FOR CONGRESS]] · [[Hakeem Jeffries]] · [[International Longshore and Warehouse Union -- Political Action Fund]] · [[Richard Neal]]"
 related: "[[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[Gregory Meeks]] · [[_Donald Trump Master Profile|Trump]] · [[Goldman Sachs]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[SEIU - Service Employees International Union|SEIU]] · [[Frank Pallone]]"
 last-enriched: "2026-04-13"
 needs-reenrichment: true
@@ -39,9 +39,9 @@ source-types:
   - GovTrack
 corroboration-count: 2
 known-gaps:
-  - "No FEC contribution data"
-total-raised: "$14.5M"
-career-total-source: "FEC weball summary (cycles 1984, 1986, 1988, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+  - No FEC contribution data
+total-raised: $14.5M
+career-total-source: FEC weball summary (cycles 1984, 1986, 1988, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

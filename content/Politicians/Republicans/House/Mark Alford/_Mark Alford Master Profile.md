@@ -18,28 +18,28 @@ phone: 202-225-2876
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2MO04207
 bills-sponsored: 25
 bills-cosponsored: 196
 bills-enacted: 1
 top-policy-area: Agriculture and Food
-top-donors: "[[Walmart - Walton Family]], [[L3Harris Technologies]], [[Jason Smith]], [[Microsoft]], [[Associated General Contractors of America Political Action Committee]], [[National Association of Realtors]], [[AT&T - WarnerMedia]], [[Jim Jordan]], [[Northrop Grumman]], [[National Restaurant Association]], [[BAE Systems]], [[General Dynamics]], [[American Dream Federal Action]], [[AIPAC - American Israel Public Affairs Committee]], [[Tyson Foods]], [[Adrian Smith]], [[WinRed]], [[MAJORITY PAC]], [[Honeywell]], [[Leidos]], [[National Cattlemen's Beef Association]], [[American Hospital Association PAC]], [[National Rifle Association]], [[Nucor Corporation]], [[Ford Motor Company]], [[Pete Sessions]], [[ADM - Archer Daniels Midland]], [[Austin Scott]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Lockheed Martin]], [[Humana]], [[David Rouzer]], [[iHeartMedia]], [[BlackRock]], [[FTX - Sam Bankman-Fried]], [[CBRE Group]], [[Blackstone Group]], [[AT&T]], [[Bank of America]], [[Majority PAC]], [[Honeywell International]]"
-last-enriched: 2026-04-21
+top-donors: "[[Walmart - Walton Family]], [[L3Harris Technologies]], [[Jason Smith]], [[Microsoft]], [[Associated General Contractors of America Political Action Committee]], [[National Association of Realtors]], [[AT&T - WarnerMedia]], [[Jim Jordan]], [[Northrop Grumman]], [[National Restaurant Association]], [[BAE Systems]], [[General Dynamics]], [[American Dream Federal Action]], [[AIPAC - American Israel Public Affairs Committee]], [[Tyson Foods]], [[Adrian Smith]], [[WinRed]], [[MAJORITY PAC]], [[Honeywell]], [[Leidos]], [[National Cattlemen's Beef Association]], [[American Hospital Association PAC]], [[National Rifle Association]], [[Nucor Corporation]], [[Ford Motor Company]], [[Pete Sessions]], [[ADM - Archer Daniels Midland]], [[Austin Scott]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Lockheed Martin]], [[Humana]], [[David Rouzer]], [[iHeartMedia]], [[BlackRock]], [[FTX - Sam Bankman-Fried]], [[CBRE Group]], [[Blackstone Group]], [[AT&T]], [[Bank of America]], [[Majority PAC]], [[Honeywell International]], [[MARK ALFORD FOR CONGRESS, INC.]], [[JASON SMITH FOR CONGRESS]], [[ROBERT ADERHOLT FOR CONGRESS]], [[NRA Political Victory Fund]], [[TEXANS FOR JODEY ARRINGTON]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[Guy Reschenthaler]], [[DAVID ROUZER FOR CONGRESS]], [[Koch Industries]], [[Steve Scalise]], [[David P. Joyce]], [[Elise Stefanik]], [[PETE SESSIONS FOR CONGRESS]], [[ADRIAN SMITH FOR CONGRESS]], [[Cargill]], [[HAGEMAN FOR WYOMING]], [[JIM JORDAN FOR CONGRESS]], [[Carol D. Miller]], [[Richard Hudson]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Commerce, Justice, Science, and Related Agencies"
+  - Commerce, Justice, Science, and Related Agencies
   - Contracting and Infrastructure
   - Financial Services and General Government
   - House Committee on Appropriations
   - House Committee on Small Business
-  - "Military Construction, Veterans Affairs, and Related Agencies"
-  - "National Security, Department of State, and Related Programs"
-  - "Oversight, Investigations, and Regulations"
-total-raised: "$3.4M"
-career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
+  - Military Construction, Veterans Affairs, and Related Agencies
+  - National Security, Department of State, and Related Programs
+  - Oversight, Investigations, and Regulations
+total-raised: $3.4M
+career-total-source: FEC weball summary (cycles 2022, 2024, 2026)
 ---
 
 

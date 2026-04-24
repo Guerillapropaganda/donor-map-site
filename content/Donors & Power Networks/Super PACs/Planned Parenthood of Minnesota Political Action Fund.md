@@ -11,8 +11,8 @@ fec-committee-id: C00684530
 aliases:
   - PLANNED PARENTHOOD OF MINNESOTA POLITICAL ACTION FUND
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Amy Klobuchar]], [[Betty McCollum]], [[Donald Trump]], [[Tina Smith]], [[Kelly Morrison]], [[Kamala Harris]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Amy Klobuchar]], [[Betty McCollum]], [[Donald Trump]], [[Tina Smith]], [[Kelly Morrison]], [[Kamala Harris]], [[LATHROP GPM, LLP]], [[Planned Parenthood Votes]], [[PROJECT LAKES AND PLAINS]], [[GRAY, PLANT, MOOTY]], [[LINE BREAK MEDIA]], [[BLUEPRINT INTERACTIVE]], [[PIVOT GROUP, INC.]], [[Joe Biden]], [[Angie Craig]]"
 related: "[[Amy Klobuchar]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -23,7 +23,7 @@ total-spent: 43306
 cash-on-hand: 14247
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

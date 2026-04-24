@@ -2,7 +2,7 @@
 title: Eric Schmitt
 type: politician
 content-readiness: draft
-last-updated: 2026-04-19
+last-updated: 2026-04-19T00:00:00.000Z
 source-tier: 1
 party: Republican
 chamber: Senate
@@ -21,7 +21,7 @@ known-gaps:
   - Save Missouri Values $3.4M super-PAC donor composition not yet verified
   - Secure Our Freedom Action Fund context (primary or general opposition?) not confirmed
   - Husch Blackwell AG-era business context not in vault
-central-thesis: "Eric Schmitt is the Missouri AG-turned-senator whose dominant donor is AFP Action ($5.2M), meaning the Koch network funded the senator who built his brand on suing the government 70+ times. Crypto Innovation PAC ($339K) is the second-largest outside spender despite Missouri having no dominant crypto constituency. The 90 deviations are concentrated on presidential nominations (blocking confirms the Republican majority accepted) and spending bills, establishing Schmitt as a hardline obstructionist to the right of Senate Republican leadership."
+central-thesis: Eric Schmitt is the Missouri AG-turned-senator whose dominant donor is AFP Action ($5.2M), meaning the Koch network funded the senator who built his brand on suing the government 70+ times. Crypto Innovation PAC ($339K) is the second-largest outside spender despite Missouri having no dominant crypto constituency. The 90 deviations are concentrated on presidential nominations (blocking confirms the Republican majority accepted) and spending bills, establishing Schmitt as a hardline obstructionist to the right of Senate Republican leadership.
 editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: S2MO00544
@@ -29,27 +29,27 @@ bills-sponsored: 30
 bills-cosponsored: 217
 bills-enacted: 0
 top-policy-area: Congress
-top-donors: "[[Associated General Contractors of America Political Action Committee]], [[AT&T - WarnerMedia]], [[Chevron]], [[iHeartMedia]], [[National Rifle Association]], [[Devon Energy]], [[Lockheed Martin]], [[Gun Owners of America]], [[ADM - Archer Daniels Midland]], [[Teamsters - International Brotherhood of Teamsters]], [[Pfizer Inc.]], [[National Victory Action Fund]], [[Anthem - Elevance Health]], [[Palantir]], [[Nucor Corporation]], [[National Association of Realtors]], [[Ford Motor Company]], [[National Cattlemen's Beef Association]], [[WinRed]], [[Gilead Sciences]], [[Opportunity Matters Fund]], [[Amgen Inc]], [[National Restaurant Association]], [[Comcast - NBCUniversal]], [[General Motors]], [[Senate Conservatives Fund]], [[NRSC - National Republican Senatorial Committee]], [[Alliance Coal, LLC PAC]], [[MAJORITY PAC]], [[Reclaim America PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Americans for Prosperity]], [[BAE Systems]], [[Microsoft]], [[Jason Smith]], [[General Dynamics]], [[American Chemistry Council, INC]], [[Republican Jewish Coalition]], [[Crypto Innovation PAC]], [[Citigroup]], [[American Hospital Association PAC]], [[Majority PAC]], [[AT&T]], [[Palantir Technologies]]"
-last-enriched: 2026-04-20
+top-donors: "[[Associated General Contractors of America Political Action Committee]], [[AT&T - WarnerMedia]], [[Chevron]], [[iHeartMedia]], [[National Rifle Association]], [[Devon Energy]], [[Lockheed Martin]], [[Gun Owners of America]], [[ADM - Archer Daniels Midland]], [[Teamsters - International Brotherhood of Teamsters]], [[Pfizer Inc.]], [[National Victory Action Fund]], [[Anthem - Elevance Health]], [[Palantir]], [[Nucor Corporation]], [[National Association of Realtors]], [[Ford Motor Company]], [[National Cattlemen's Beef Association]], [[WinRed]], [[Gilead Sciences]], [[Opportunity Matters Fund]], [[Amgen Inc]], [[National Restaurant Association]], [[Comcast - NBCUniversal]], [[General Motors]], [[Senate Conservatives Fund]], [[NRSC - National Republican Senatorial Committee]], [[Alliance Coal, LLC PAC]], [[MAJORITY PAC]], [[Reclaim America PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Americans for Prosperity]], [[BAE Systems]], [[Microsoft]], [[Jason Smith]], [[General Dynamics]], [[American Chemistry Council, INC]], [[Republican Jewish Coalition]], [[Crypto Innovation PAC]], [[Citigroup]], [[American Hospital Association PAC]], [[Majority PAC]], [[AT&T]], [[Palantir Technologies]], [[National Republican Senatorial Committee]], [[John Thune]], [[Koch Industries]], [[Meta - Facebook]], [[JASON SMITH FOR CONGRESS]], [[GEO Group - Private Prison Industrial Complex]], [[COTTON, THOMAS]], [[Roger Marshall]], [[NRA Political Victory Fund]]"
+last-enriched: 2026-04-20T00:00:00.000Z
 committees:
   - Airland
-  - "Antitrust, Competition Policy, and Consumer Rights"
-  - "Aviation, Space, and Innovation"
+  - Antitrust, Competition Policy, and Consumer Rights
+  - Aviation, Space, and Innovation
   - Cybersecurity
   - Emerging Threats and Capabilities
-  - "Federal Courts, Oversight, Agency Action, and Federal Rights"
+  - Federal Courts, Oversight, Agency Action, and Federal Rights
   - Intellectual Property
   - Joint Economic Committee
   - Readiness and Management Support
-  - "Science, Manufacturing, and Competitiveness"
+  - Science, Manufacturing, and Competitiveness
   - Senate Committee on Armed Services
-  - "Senate Committee on Commerce, Science, and Transportation"
+  - Senate Committee on Commerce, Science, and Transportation
   - Senate Committee on the Judiciary
-  - "Surface Transportation, Freight, Pipelines, and Safety"
+  - Surface Transportation, Freight, Pipelines, and Safety
   - Telecommunications and Media
   - the Constitution
-total-raised: "$11.3M"
-career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
+total-raised: $11.3M
+career-total-source: FEC weball summary (cycles 2022, 2024, 2026)
 ---
 
 

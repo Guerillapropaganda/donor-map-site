@@ -1,37 +1,38 @@
 ---
-title: "Herbert C. Conaway"
+title: Herbert C. Conaway
 type: politician
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "New Jersey"
-state-abbr: "NJ"
+party: Democrat
+chamber: House
+state: New Jersey
+state-abbr: NJ
 district: "3"
-bioguide-id: "C001136"
+bioguide-id: C001136
 govtrack-id: 457008
 born: "1963-01-30"
-wikidata-id: "Q14596151"
-website: "https://conaway.house.gov"
-phone: "202-225-4765"
+wikidata-id: Q14596151
+website: https://conaway.house.gov
+phone: 202-225-4765
 source-types:
   - Congress
   - GovTrack
 known-gaps:
-  - "No FEC contribution data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Cyber, Information Technologies, and Innovation"
+  - Cyber, Information Technologies, and Innovation
   - Health
   - House Committee on Armed Services
-  - "House Committee on Veterans' Affairs"
+  - House Committee on Veterans' Affairs
   - Oversight and Investigations
   - Tactical Air and Land Forces
 bills-sponsored: 13
 corroboration-count: 2
+top-donors: "[[TED LIEU FOR CONGRESS]], [[PAUL TONKO FOR CONGRESS]], [[Bradley Scott Schneider]], [[AIPAC - American Israel Public Affairs Committee]], [[PETE AGUILAR FOR CONGRESS]], [[Amgen Inc]], [[Frank Pallone]], [[Steny H. Hoyer]], [[Humana]], [[American College of Radiology Association PAC]], [[CVS Health - Aetna]], [[Robin L. Kelly]], [[Gilead Sciences]], [[HUFFMAN FOR CONGRESS]], [[Let America Vote PAC]], [[Pfizer Inc.]], [[Mary Gay Scanlon]], [[League of Conservation Voters]], [[Hakeem Jeffries]], [[AbbVie]]"
 ---
 
 

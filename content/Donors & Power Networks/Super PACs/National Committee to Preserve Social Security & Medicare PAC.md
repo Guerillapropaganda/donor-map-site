@@ -5,14 +5,14 @@ content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00172296
 aliases:
   - NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY & MEDICARE PAC
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Richard Blumenthal]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Richard Blumenthal]], [[MOORE FOR WEST VIRGINIA, INC.]], [[QUORUM ANALYTICS INC]], [[PLANET DIRECT]], [[RR DONNELLEY]], [[CALMARK GROUP]], [[SABA]], [[VERTIS DIRECT MARKETING SERVICES]], [[VOCUS]], [[CISION US INC]], [[NCPSSM]], [[COMMUNICATIONS CORPORATION OF AMERICA]], [[Direct Selling Empowers Americans]], [[MOUNT VERNON PRINTING COMPANY]], [[THE LUKENS COMPANY]], [[RR DONNELLEY RECEIVABLES INC]], [[PRINT MAIL COMMUNICATION]], [[PERKINS COIE]], [[PITNEY BOWES PRESORT SERVICES]], [[William R. Keating]], [[Richard Neal]], [[Diana Degette]], [[Adam Smith]], [[Peter Welch]], [[Rosa DeLauro]], [[Steve Cohen]], [[Chuck Schumer]], [[Dick Durbin]], [[Steven Horsford]], [[Jim Costa]], [[Jack Reed]], [[Mary Gay Scanlon]], [[Lloyd Doggett]], [[Elissa Slotkin]], [[Mike Thompson]], [[Adam Schiff]], [[Janice D. Schakowsky]], [[Brian Schatz]], [[Yvette D. Clarke]], [[Bob Menendez]], [[Tim Kaine]], [[Chris van Hollen]], [[Bill Foster]], [[Steny H. Hoyer]], [[Brad Sherman]], [[John Garamendi]], [[Ben Ray Lujan]], [[Jim McGovern]], [[Suzanne Bonamici]], [[Chris Murphy]], [[Emanuel Cleaver]], [[Jeff Merkley]], [[John B. Larson]], [[Harry Reid]], [[Martin Heinrich]], [[Bobby Scott]], [[Rick Larsen]], [[Patty Murray]], [[Tammy Baldwin]], [[Raul Grijalva]], [[Dianne Feinstein]], [[Jon Ossoff]], [[Mark Takano]], [[Joe Biden]], [[Jeanne Shaheen]], [[Frank Pallone]], [[Margaret Wood Hassan]], [[Ron Wyden]], [[Christopher H. Smith]], [[Richard J. Durbin]], [[Eleanor Holmes Norton]], [[Sherrod Brown]], [[Maxine Waters]], [[Chris Coons]], [[Jared Huffman]], [[Deborah K. Ross]], [[Sean Casten]], [[Debbie Dingell]], [[Ami Bera]], [[Joe Courtney]], [[Amy Klobuchar]], [[Tulsi Gabbard]], [[Linda T. Sanchez]], [[Tammy Duckworth]], [[Nancy Pelosi]], [[Jim Inhofe]], [[Susie Lee]], [[Robert Menendez]], [[Joe Neguse]], [[Edward J. Markey]], [[Michael Bennet]], [[Xavier Becerra]], [[Gwen Moore]], [[Barbara Lee]], [[Debbie Stabenow]], [[Terri A. Sewell]], [[Bennie Thompson]], [[Jerrold Nadler]], [[Joe Manchin]], [[Ed Markey]], [[Thomas R. Suozzi]], [[Zoe Lofgren]], [[Marcy Kaptur]], [[Bradley Scott Schneider]], [[Lisa Blunt Rochester]], [[Betty McCollum]], [[Ruben Gallego]], [[Debbie Wasserman Schultz]], [[Nydia Velazquez]], [[Katherine M. Clark]], [[Juan Vargas]], [[Teresa Leger Fernandez]], [[Doris O. Matsui]], [[Dina Titus]], [[Jacky Rosen]], [[Rahm Emanuel]], [[Gregory Meeks]], [[Paul Tonko]], [[James E. Clyburn]], [[Kweisi Mfume]], [[Kim Schrier]], [[Haley M. Stevens]], [[Robert Garcia]], [[Andy Kim]], [[Bob Casey]], [[Mike Levin]], [[Gus M. Bilirakis]], [[Bernie Sanders]], [[Sanford D. Bishop]], [[Pete Aguilar]], [[Melissa Bean]], [[James A. Himes]], [[Mazie K. Hirono]], [[Kathy Castor]], [[Stacey E. Plaskett]], [[Mark Pocan]], [[Hilda Solis]], [[Catherine Cortez Masto]], [[Leon Panetta]], [[Angie Craig]], [[Suzan K. Delbene]], [[Ritchie Torres]], [[Barack Obama]], [[Chuck Grassley]], [[John McCain]], [[Chellie Pingree]], [[Tina Smith]], [[Eric Swalwell]], [[Jimmy Gomez]], [[Angus S. King]], [[Mark DeSaulnier]], [[Raja Krishnamoorthi]], [[Eric Sorensen]], [[Sheldon Whitehouse]], [[Raul Ruiz]], [[Marc A. Veasey]], [[Josh Harder]], [[Daniel Webster]], [[Hakeem Jeffries]], [[Jared F. Golden]], [[Cleo Fields]], [[Gary Peters]], [[Melanie A. Stansbury]], [[Veronica Escobar]], [[Jamie Raskin]], [[Joyce Beatty]], [[Maria Cantwell]], [[Marcia Fudge]], [[Nikki Budzinski]], [[Kirsten E. Gillibrand]], [[Katie Porter]], [[Henry Cuellar]], [[Ed Case]], [[Dan Osborn]], [[John Hickenlooper]], [[Mark Kelly]], [[Lois Frankel]], [[Jason Crow]], [[Chris Pappas]], [[Raphael Warnock]], [[Seth Moulton]], [[Ken Salazar]], [[Emilia Strong Sykes]], [[Gerry Connolly]], [[Lori Trahan]], [[Seth Magaziner]], [[Kyrsten Sinema]], [[Brendan Boyle]], [[Gilbert Ray Cisneros]], [[Susan Collins]], [[Lauren Underwood]], [[Madeleine Dean]], [[Hillary Clinton]], [[David Scott]], [[Darren Soto]], [[Robin L. Kelly]], [[Al Green]], [[Joaquin Castro]], [[Andre Carson]], [[Lisa Murkowski]], [[Jefferson van Drew]], [[Deb Haaland]], [[Greg Stanton]], [[Pablo Jose Hernandez]], [[Elizabeth Warren]], [[Julia Brownley]], [[Andrea Salinas]]"
 related: "[[Richard Blumenthal]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -21,16 +21,16 @@ urls-first-triaged: "2026-04-15"
 ofac-sdn-match: "true"
 last-enriched: "2026-04-16"
 ofac-programs:
-  - "BALKANS"
-  - "IRAN-TRA"
-  - "IRAN-EO13846"
-  - "BELARUS"
-  - "RUSSIA-EO14024"
-  - "GLOMAG"
+  - BALKANS
+  - IRAN-TRA
+  - IRAN-EO13846
+  - BELARUS
+  - RUSSIA-EO14024
+  - GLOMAG
 source-types:
   - FEC
-total-political-spend: "$2.3M"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 1984, 1986, 1988, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026"
+total-political-spend: $2.3M
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 1984, 1986, 1988, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026
 ---
 
 

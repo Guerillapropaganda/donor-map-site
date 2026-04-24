@@ -18,17 +18,17 @@ phone: 202-225-2411
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H6PA16320
 bills-sponsored: 29
 bills-cosponsored: 226
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[Raytheon (RTX)]], [[Humana]], [[Johnson & Johnson]], [[Walmart - Walton Family]], [[WinRed]], [[Chevron]], [[American College of Radiology Association PAC]], [[MAJORITY PAC]], [[Gilead Sciences]], [[Pfizer Inc.]], [[Lockheed Martin]], [[Associated General Contractors of America Political Action Committee]], [[Vern Buchanan]], [[CVS Health - Aetna]], [[Amgen Inc]], [[National Association of Realtors]], [[Honeywell]], [[Jason Smith]], [[Tenet Healthcare]], [[National Association of Manufacturers]], [[McDonalds Corporation]], [[Citigroup]], [[National Multifamily Housing Council]], [[National Cattlemen's Beef Association]], [[American Hospital Association PAC]], [[AT&T - WarnerMedia]], [[Jim Jordan]], [[AIPAC - American Israel Public Affairs Committee]], [[Pennsylvania Pro-Life Federation PAC]], [[Save America PAC]], [[Ben Cline]], [[Google - Alphabet]], [[Performance Racing Inc.]], [[NextEra Energy]], [[Bank of America]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Anthem - Elevance Health]], [[Marathon Petroleum]], [[Tyson Foods]], [[AbbVie]], [[Valero Energy]], [[American Gaming Association]], [[National Rifle Association]], [[General Dynamics]], [[Comcast - NBCUniversal]], [[National Restaurant Association]], [[Microsoft]], [[Majority PAC]], [[AT&T]], [[Honeywell International]]"
-last-enriched: 2026-04-21
+top-donors: "[[Raytheon (RTX)]], [[Humana]], [[Johnson & Johnson]], [[Walmart - Walton Family]], [[WinRed]], [[Chevron]], [[American College of Radiology Association PAC]], [[MAJORITY PAC]], [[Gilead Sciences]], [[Pfizer Inc.]], [[Lockheed Martin]], [[Associated General Contractors of America Political Action Committee]], [[Vern Buchanan]], [[CVS Health - Aetna]], [[Amgen Inc]], [[National Association of Realtors]], [[Honeywell]], [[Jason Smith]], [[Tenet Healthcare]], [[National Association of Manufacturers]], [[McDonalds Corporation]], [[Citigroup]], [[National Multifamily Housing Council]], [[National Cattlemen's Beef Association]], [[American Hospital Association PAC]], [[AT&T - WarnerMedia]], [[Jim Jordan]], [[AIPAC - American Israel Public Affairs Committee]], [[Pennsylvania Pro-Life Federation PAC]], [[Save America PAC]], [[Ben Cline]], [[Google - Alphabet]], [[Performance Racing Inc.]], [[NextEra Energy]], [[Bank of America]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Anthem - Elevance Health]], [[Marathon Petroleum]], [[Tyson Foods]], [[AbbVie]], [[Valero Energy]], [[American Gaming Association]], [[National Rifle Association]], [[General Dynamics]], [[Comcast - NBCUniversal]], [[National Restaurant Association]], [[Microsoft]], [[Majority PAC]], [[AT&T]], [[Honeywell International]], [[Raytheon (RTX Corporation)]], [[TEXANS FOR JODEY ARRINGTON]], [[Steve Scalise]], [[JIM JORDAN FOR CONGRESS]], [[Koch Industries]], [[Roger Marshall]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[Williams Companies]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Pete Sessions]], [[Glenn Thompson]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[Brett Guthrie]], [[Daniel Meuser]], [[NRA Political Victory Fund]], [[BEN CLINE FOR CONGRESS, INC.]], [[Paul Ryan]], [[Virginia Foxx]], [[Steve Womack]], [[Blue Shield of California]], [[VERN BUCHANAN FOR CONGRESS]], [[JASON SMITH FOR CONGRESS]], [[JOE WILSON FOR CONGRESS]], [[Neal P. Dunn]], [[DAVID ROUZER FOR CONGRESS]], [[Darin Lahood]], [[GARY PALMER FOR CONGRESS]], [[Kevin McCarthy]], [[Mike Johnson]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - House Committee on Ways and Means
   - House Committee on the Budget
@@ -36,8 +36,8 @@ committees:
   - Social Security
   - Tax
   - Trade
-total-raised: "$9.6M"
-career-total-source: "FEC weball summary (cycles 2016, 2018, 2020, 2022, 2024, 2026)"
+total-raised: $9.6M
+career-total-source: FEC weball summary (cycles 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

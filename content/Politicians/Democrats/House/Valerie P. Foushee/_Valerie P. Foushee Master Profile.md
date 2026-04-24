@@ -1,39 +1,40 @@
 ---
-title: "Valerie P. Foushee"
+title: Valerie P. Foushee
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "North Carolina"
-state-abbr: "NC"
+party: Democrat
+chamber: House
+state: North Carolina
+state-abbr: NC
 district: "4"
-bioguide-id: "F000477"
+bioguide-id: F000477
 govtrack-id: 456913
 born: "1956-05-07"
-wikidata-id: "Q16729064"
-website: "https://foushee.house.gov"
-phone: "202-225-1784"
+wikidata-id: Q16729064
+website: https://foushee.house.gov
+phone: 202-225-1784
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 9
 bills-cosponsored: 361
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Aviation
   - Energy
-  - "House Committee on Science, Space, and Technology"
+  - House Committee on Science, Space, and Technology
   - House Committee on Transportation and Infrastructure
-  - "Railroads, Pipelines, and Hazardous Materials"
+  - Railroads, Pipelines, and Hazardous Materials
   - Space and Aeronautics
+top-donors: "[[Amgen Inc]], [[CITIZENS TO ELECT RICK LARSEN]], [[Pfizer Inc.]], [[Nucor Corporation]], [[MEDICARE FOR ALL]], [[Associated General Contractors of America Political Action Committee]], [[James E. Clyburn]], [[League of Conservation Voters]], [[STRICKLAND FOR WASHINGTON]], [[National Nurses United]], [[Meta - Facebook]], [[National Education Association]], [[DEBORAH ROSS FOR CONGRESS]], [[Hakeem Jeffries]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Giffords PAC]], [[Glenn Ivey]], [[AIPAC - American Israel Public Affairs Committee]], [[AbbVie]], [[Lizzie Fletcher]], [[Demand Justice]], [[JASMINE FOR US]], [[United Democracy Project - UDP]], [[Bradley Scott Schneider]], [[Planned Parenthood Action Fund INC]], [[Protect Our Future PAC]], [[Adam Schiff]], [[TED LIEU FOR CONGRESS]], [[Let America Vote PAC]], [[PETE AGUILAR FOR CONGRESS]], [[Google - Alphabet]]"
 ---
 
 

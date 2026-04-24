@@ -18,28 +18,28 @@ phone: 202-225-3665
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4NY22051
 bills-sponsored: 79
 bills-cosponsored: 577
 bills-enacted: 0
 top-policy-area: Taxation
-top-donors: "[[Save America PAC]], [[Jake Ellzey]], [[Microsoft]], [[Chevron]], [[Victoria Spartz]], [[Walmart - Walton Family]], [[Duke Energy]], [[American Chemistry Council, INC]], [[Comcast - NBCUniversal]], [[Coinbase]], [[Amgen Inc]], [[WinRed]], [[American Hospital Association PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Gilead Sciences]], [[National Multifamily Housing Council]], [[Honeywell]], [[AbbVie]], [[Humana]], [[Ben Cline]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[MAJORITY PAC]], [[AT&T - WarnerMedia]], [[Adrian Smith]], [[Planned Parenthood Votes]], [[AIPAC - American Israel Public Affairs Committee]], [[Morgan Stanley]], [[Citigroup]], [[Johnson & Johnson]], [[Byron Donalds]], [[National Association of Realtors]], [[David Rouzer]], [[VIEW PAC - Value in Electing Women]], [[Nucor Corporation]], [[BAE Systems]], [[Lockheed Martin]], [[Performance Racing Inc.]], [[Tzedek PAC]], [[National Rifle Association]], [[Republican Jewish Coalition]], [[General Motors]], [[Jason Smith]], [[American College of Radiology Association PAC]], [[Pfizer Inc.]], [[Anthem - Elevance Health]], [[Darrell Issa]], [[Women Speak Out Pac]], [[National Restaurant Association]], [[Cliff Bentz]], [[McDonalds Corporation]], [[Austin Scott]], [[Raytheon (RTX)]], [[General Dynamics]], [[Freedom's Defense Fund]], [[Associated General Contractors of America Political Action Committee]], [[Oracle]], [[Goldman Sachs]], [[Blackstone Group]], [[Leidos]], [[CVS Health - Aetna]], [[Bank of America]], [[Meta - Facebook]], [[IBEW Local 440 - Riverside]], [[Charles Schwab]], [[Citadel - Kenneth Griffin]], [[ExxonMobil]], [[Northrop Grumman]], [[News Corp - Fox Corporation]], [[CTA - California Teachers Association]], [[UPS]], [[Verizon]], [[MassMutual]], [[Alliance Defending Freedom]], [[Wells Fargo]], [[Honeywell International]], [[Majority PAC]], [[AT&T]]"
-last-enriched: 2026-04-21
+top-donors: "[[Save America PAC]], [[Jake Ellzey]], [[Microsoft]], [[Chevron]], [[Victoria Spartz]], [[Walmart - Walton Family]], [[Duke Energy]], [[American Chemistry Council, INC]], [[Comcast - NBCUniversal]], [[Coinbase]], [[Amgen Inc]], [[WinRed]], [[American Hospital Association PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Gilead Sciences]], [[National Multifamily Housing Council]], [[Honeywell]], [[AbbVie]], [[Humana]], [[Ben Cline]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[MAJORITY PAC]], [[AT&T - WarnerMedia]], [[Adrian Smith]], [[Planned Parenthood Votes]], [[AIPAC - American Israel Public Affairs Committee]], [[Morgan Stanley]], [[Citigroup]], [[Johnson & Johnson]], [[Byron Donalds]], [[National Association of Realtors]], [[David Rouzer]], [[VIEW PAC - Value in Electing Women]], [[Nucor Corporation]], [[BAE Systems]], [[Lockheed Martin]], [[Performance Racing Inc.]], [[Tzedek PAC]], [[National Rifle Association]], [[Republican Jewish Coalition]], [[General Motors]], [[Jason Smith]], [[American College of Radiology Association PAC]], [[Pfizer Inc.]], [[Anthem - Elevance Health]], [[Darrell Issa]], [[Women Speak Out Pac]], [[National Restaurant Association]], [[Cliff Bentz]], [[McDonalds Corporation]], [[Austin Scott]], [[Raytheon (RTX)]], [[General Dynamics]], [[Freedom's Defense Fund]], [[Associated General Contractors of America Political Action Committee]], [[Oracle]], [[Goldman Sachs]], [[Blackstone Group]], [[Leidos]], [[CVS Health - Aetna]], [[Bank of America]], [[Meta - Facebook]], [[IBEW Local 440 - Riverside]], [[Charles Schwab]], [[Citadel - Kenneth Griffin]], [[ExxonMobil]], [[Northrop Grumman]], [[News Corp - Fox Corporation]], [[CTA - California Teachers Association]], [[UPS]], [[Verizon]], [[MassMutual]], [[Alliance Defending Freedom]], [[Wells Fargo]], [[Honeywell International]], [[Majority PAC]], [[AT&T]], [[Raytheon (RTX Corporation)]], [[CLAUDIA TENNEY FOR CONGRESS]], [[Google - Alphabet]], [[Steve Scalise]], [[ADRIAN SMITH FOR CONGRESS]], [[Koch Industries]], [[DANIEL WEBSTER FOR CONGRESS]], [[Gregory F. Murphy]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[Mike Johnson]], [[John W. Rose]], [[KAY GRANGER CAMPAIGN FUND]], [[CITIZENS FOR JOHN RUTHERFORD]], [[BLAKE MOORE FOR CONGRESS]], [[NRA Political Victory Fund]], [[JOE WILSON FOR CONGRESS]], [[Mark E. Amodei]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[JASON SMITH FOR CONGRESS]], [[American Principles Fund]], [[Akin Gump Strauss Hauer & Feld]], [[Family Research Council Action Political Action Committee]], [[Brett Guthrie]], [[CLYDE FOR CONGRESS, INC.]], [[National Right to Life Victory Fund]], [[Paul Ryan]], [[DAVIDSON FOR CONGRESS]], [[ANDY HARRIS FOR CONGRESS]], [[BYRON DONALDS FOR CONGRESS]], [[Roger Marshall]], [[BEN CLINE FOR CONGRESS, INC.]], [[Glenn Thompson]], [[GEO Group - Private Prison Industrial Complex]], [[Tom Emmer]], [[TEXANS FOR JODEY ARRINGTON]], [[JAKE ELLZEY FOR CONGRESS]], [[Carol D. Miller]], [[Kevin McCarthy]], [[Earl L. Buddy Carter]], [[DR. BRIAN BABIN FOR CONGRESS]], [[RON ESTES FOR CONGRESS]], [[William R. Timmons]], [[Williams Companies]], [[BURCHETT FOR CONGRESS]], [[Southern Company]], [[FISCHBACH FOR CONGRESS]], [[CLIFF BENTZ FOR CONGRESS]], [[Pete Sessions]], [[ROBERT ADERHOLT FOR CONGRESS]], [[DAVID ROUZER FOR CONGRESS]], [[Rick Crawford]], [[Guy Reschenthaler]], [[GARY PALMER FOR CONGRESS]], [[WEBER FOR CONGRESS]], [[AFL-CIO]], [[RICK W. ALLEN FOR CONGRESS]], [[Donald Trump]], [[VICTORIA SPARTZ FOR CONGRESS]], [[Campaign for Working Families]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Defense Intelligence and Overhead Architecture
   - Energy
   - Health
-  - "House Committee on Science, Space, and Technology"
+  - House Committee on Science, Space, and Technology
   - House Committee on Ways and Means
   - House Permanent Select Committee on Intelligence
   - National Intelligence Enterprise
   - Trade
-total-raised: "$16.3M"
-career-total-source: "FEC weball summary (cycles 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+total-raised: $16.3M
+career-total-source: FEC weball summary (cycles 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

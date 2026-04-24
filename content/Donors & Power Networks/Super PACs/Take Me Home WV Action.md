@@ -10,9 +10,9 @@ source-tier: 1
 aliases:
   - TAKE ME HOME WV ACTION
 known-gaps:
-  - "No lobbying disclosure data"
+  - No lobbying disclosure data
 related: "[[Shelley Moore Capito]]"
-politicians-funded: "[[Shelley Moore Capito]]"
+politicians-funded: "[[Shelley Moore Capito]], [[MARK BLANKENSHIP ENTERPRISES LLC]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -22,7 +22,7 @@ total-spent: 170445
 cash-on-hand: 152609
 independent-expenditures: 123135
 individual-contributions: 323054
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 source-types:
   - FEC
 ---

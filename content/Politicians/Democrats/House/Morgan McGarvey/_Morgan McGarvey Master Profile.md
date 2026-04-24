@@ -18,27 +18,27 @@ phone: 202-225-5401
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2KY03206
 bills-sponsored: 28
 bills-cosponsored: 354
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[Nucor Corporation]], [[General Motors]], [[Leidos]], [[Amgen Inc]], [[NEA Fund for Children and Public Education]], [[General Dynamics]], [[Raytheon (RTX)]], [[Let America Vote PAC]], [[Jamie Raskin]], [[McDonalds Corporation]], [[American Hospital Association PAC]], [[Sierra Club Independent Action]], [[UA Political Action Committee]], [[AbbVie]], [[Everytown for Gun Safety]], [[National Association of Realtors]], [[SEIU COPE]], [[Teamsters - International Brotherhood of Teamsters]], [[Comcast - NBCUniversal]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Duke Energy]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[AFL-CIO]], [[Bank of America]], [[Humana]], [[AT&T - WarnerMedia]], [[Planned Parenthood Action Fund INC]], [[Ted Lieu]], [[IBEW - International Brotherhood of Electrical Workers]], [[National Committee to Preserve Social Security PAC]], [[Lockheed Martin]], [[League of Conservation Voters]], [[AIPAC - American Israel Public Affairs Committee]], [[American College of Radiology Association PAC]], [[Ford Motor Company]], [[CVS Health - Aetna]], [[Pfizer Inc.]], [[DMFI - Democratic Majority for Israel]], [[Congressional Progressive Caucus PAC]], [[Sierra Club Political Committee]], [[Anthem - Elevance Health]], [[Giffords PAC]], [[Medicare for All - The Policy That Broke the Party]], [[Google - Alphabet]], [[MoveOn.org Political Action]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Adriano Espaillat]], [[National Multifamily Housing Council]], [[Walmart - Walton Family]], [[BAE Systems]], [[Progressive Turnout Project]], [[Protect Our Future PAC]], [[Honeywell]], [[AT&T]], [[Verizon]], [[UnitedHealth Group - Optum]], [[Blackstone Group]], [[Amazon]], [[Wells Fargo]], [[UPS]], [[Citadel - Kenneth Griffin]], [[Raytheon (RTX Corporation)]], [[Lyft]], [[Cigna Group]], [[Anthem - Elevance Health Political Operation]], [[Morgan Stanley]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Honeywell International]]"
-last-enriched: 2026-04-21
+top-donors: "[[Nucor Corporation]], [[General Motors]], [[Leidos]], [[Amgen Inc]], [[NEA Fund for Children and Public Education]], [[General Dynamics]], [[Raytheon (RTX)]], [[Let America Vote PAC]], [[Jamie Raskin]], [[McDonalds Corporation]], [[American Hospital Association PAC]], [[Sierra Club Independent Action]], [[UA Political Action Committee]], [[AbbVie]], [[Everytown for Gun Safety]], [[National Association of Realtors]], [[SEIU COPE]], [[Teamsters - International Brotherhood of Teamsters]], [[Comcast - NBCUniversal]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Duke Energy]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[AFL-CIO]], [[Bank of America]], [[Humana]], [[AT&T - WarnerMedia]], [[Planned Parenthood Action Fund INC]], [[Ted Lieu]], [[IBEW - International Brotherhood of Electrical Workers]], [[National Committee to Preserve Social Security PAC]], [[Lockheed Martin]], [[League of Conservation Voters]], [[AIPAC - American Israel Public Affairs Committee]], [[American College of Radiology Association PAC]], [[Ford Motor Company]], [[CVS Health - Aetna]], [[Pfizer Inc.]], [[DMFI - Democratic Majority for Israel]], [[Congressional Progressive Caucus PAC]], [[Sierra Club Political Committee]], [[Anthem - Elevance Health]], [[Giffords PAC]], [[Medicare for All - The Policy That Broke the Party]], [[Google - Alphabet]], [[MoveOn.org Political Action]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Adriano Espaillat]], [[National Multifamily Housing Council]], [[Walmart - Walton Family]], [[BAE Systems]], [[Progressive Turnout Project]], [[Protect Our Future PAC]], [[Honeywell]], [[AT&T]], [[Verizon]], [[UnitedHealth Group - Optum]], [[Blackstone Group]], [[Amazon]], [[Wells Fargo]], [[UPS]], [[Citadel - Kenneth Griffin]], [[Raytheon (RTX Corporation)]], [[Lyft]], [[Cigna Group]], [[Anthem - Elevance Health Political Operation]], [[Morgan Stanley]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Honeywell International]], [[MEDICARE FOR ALL]], [[JAMIE RASKIN FOR CONGRESS]], [[Steny H. Hoyer]], [[Hakeem Jeffries]], [[Steve Cohen]], [[National Education Association]], [[Gerry Connolly]], [[Bacardi - Bacardi USA]], [[TED LIEU FOR CONGRESS]], [[BARRAGAN FOR CONGRESS]], [[Southern Company]], [[ADRIANO ESPAILLAT FOR CONGRESS]], [[James E. Clyburn]], [[Bradley Scott Schneider]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Disability Assistance and Memorial Affairs
-  - "Economic Growth, Tax, and Capital Access"
+  - Economic Growth, Tax, and Capital Access
   - Economic Opportunity
   - House Committee on Small Business
-  - "House Committee on Veterans' Affairs"
+  - House Committee on Veterans' Affairs
   - House Committee on the Budget
-  - "Innovation, Entrepreneurship, and Workforce Development"
-total-raised: "$6.6M"
-career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
+  - Innovation, Entrepreneurship, and Workforce Development
+total-raised: $6.6M
+career-total-source: FEC weball summary (cycles 2022, 2024, 2026)
 ---
 
 

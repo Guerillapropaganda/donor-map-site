@@ -11,8 +11,8 @@ fec-committee-id: C00688432
 aliases:
   - PLANNED PARENTHOOD ACTION FUND OF THE PACIFIC SOUTHWEST PAC
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Mark Takano]], [[Sara Jacobs]], [[Mike Levin]], [[Kamala Harris]], [[Juan Vargas]], [[Raul Ruiz]], [[Jon Ossoff]], [[Raphael Warnock]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Mark Takano]], [[Sara Jacobs]], [[Mike Levin]], [[Kamala Harris]], [[Juan Vargas]], [[Raul Ruiz]], [[Jon Ossoff]], [[Raphael Warnock]], [[Planned Parenthood Votes]], [[KEYS LAW CORPORATION]], [[OLSON REMCHO, LLP]], [[American Homes 4 Rent]], [[THE WILD THYME COMPANY]]"
 related: "[[Mark Takano]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -25,7 +25,7 @@ independent-expenditures: 3059
 individual-contributions: 235187
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

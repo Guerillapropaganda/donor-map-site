@@ -7,11 +7,11 @@ entity-type: Super PAC
 committee-type: Super PAC (Independent Expenditure-Only)
 committee-id: C00510941
 fec-url: https://www.fec.gov/data/committee/C00510941/
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-ie-support: "null"
 fec-ie-oppose: $11,020,000
-politicians-funded: "[[Ted Cruz]]"
+politicians-funded: "[[Ted Cruz]], [[FOLEY & LARDNER]], [[VM FOUNDRY]], [[PERCEPTION INSIGHT]], [[HYNES COMMUNICATIONS]], [[THE LAUDERBACK GROUP]], [[SAVANNA COMMUNICATIONS, LLC]], [[DENTONS US LLP]], [[PROFESSIONAL DATA SERVICES, INC.]], [[Johnson & Johnson]]"
 related: "[[Ted Cruz]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -21,10 +21,10 @@ total-spent: 1482
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
-total-political-spend: "$5.9M"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2012"
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $5.9M
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2012
 ---
 
 

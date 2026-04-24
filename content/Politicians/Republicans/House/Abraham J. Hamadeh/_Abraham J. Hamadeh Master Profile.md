@@ -1,38 +1,39 @@
 ---
-title: "Abraham J. Hamadeh"
+title: Abraham J. Hamadeh
 type: politician
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Arizona"
-state-abbr: "AZ"
+party: Republican
+chamber: House
+state: Arizona
+state-abbr: AZ
 district: "8"
-bioguide-id: "H001098"
+bioguide-id: H001098
 govtrack-id: 456973
 born: "1991-05-15"
-wikidata-id: "Q124307977"
-website: "https://hamadeh.house.gov"
-phone: "202-225-4576"
+wikidata-id: Q124307977
+website: https://hamadeh.house.gov
+phone: 202-225-4576
 source-types:
   - Congress
   - GovTrack
 known-gaps:
-  - "No FEC contribution data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Economic Opportunity
   - Health
   - House Committee on Armed Services
-  - "House Committee on Veterans' Affairs"
+  - House Committee on Veterans' Affairs
   - Intelligence and Special Operations
   - Strategic Forces
   - Tactical Air and Land Forces
 bills-sponsored: 19
 corroboration-count: 2
+top-donors: "[[ABE FOR ARIZONA]], [[Tom Emmer]], [[Southern Company]], [[JIM JORDAN FOR CONGRESS]], [[National Restaurant Association]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[MOORE FOR WEST VIRGINIA, INC.]], [[Steve Scalise]], [[Coinbase]], [[Brett Guthrie]], [[BRANDON GILL FOR TEXAS]], [[FISCHBACH FOR CONGRESS]], [[Campaign for Working Families]], [[Leidos]], [[FRIENDS OF MATT GAETZ]], [[CVS Health - Aetna]], [[NRA Political Victory Fund]], [[AIPAC - American Israel Public Affairs Committee]], [[TROY DOWNING FOR CONGRESS]], [[Carol D. Miller]], [[Richard Hudson]], [[Freedom's Defense Fund]]"
 ---
 
 

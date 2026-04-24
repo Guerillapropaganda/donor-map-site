@@ -2,7 +2,7 @@
 title: Tim Sheehy
 type: politician
 content-readiness: data-complete
-last-updated: 2026-04-19
+last-updated: 2026-04-19T00:00:00.000Z
 source-tier: 1
 party: Republican
 chamber: Senate
@@ -19,26 +19,26 @@ source-types:
   - FEC
   - GovTrack
 known-gaps:
-  - "No mapped relationships"
+  - No mapped relationships
 central-thesis: "Tim Sheehy is the Navy SEAL who unseated Jon Tester in the most expensive per-capita Senate race of 2024: $64.8M in Democratic opposition, $18.6M in Republican support, Montana won. The 99.6% loyalty with 3 deviations is the brand-new senator's default before any deviation pattern emerges. The structural story is Bridger Aerospace: Sheehy founded a firefighting air tanker company holding USFS contracts, and he now votes on the appropriations that fund those contracts. Club for Growth gave $40K across 143 transactions, the highest donor-candidate transaction count in the vault."
 editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: S4MT00183
-top-donors: "[[National Rifle Association]], [[Drummond Co.]], [[Lockheed Martin]], [[American Chemistry Council, INC]], [[AT&T - WarnerMedia]], [[NRSC - National Republican Senatorial Committee]], [[Gilead Sciences]], [[Amgen Inc]], [[Devon Energy]], [[National Right to Life Victory Fund]], [[Republican Jewish Coalition]], [[Senate Conservatives Fund]], [[Club for Growth INC PAC]], [[NORPAC]], [[Edf Action Votes]], [[Campaign for Working Families]], [[American Hospital Association PAC]], [[Tzedek PAC]], [[L3Harris Technologies]], [[SAVE OUR COUNTRY]], [[Citigroup]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[WinRed]], [[Puget Sound Energy INC PAC for Good Government]], [[The Sentinel Action Fund]], [[National Association of Realtors]], [[National Cattlemen's Beef Association]], [[Planned Parenthood Votes]], [[Hunter Action Fund (haf)]], [[National Victory Action Fund]], [[National Multifamily Housing Council]], [[Teamsters - International Brotherhood of Teamsters]], [[ConocoPhillips]], [[Common Sense for America PAC]], [[Americans for Prosperity]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Valero Energy]], [[Alliance Coal, LLC PAC]], [[MAJORITY PAC]], [[Reclaim America PAC]], [[Votevets]], [[SLF PAC]], [[League of Conservation Voters]], [[Gun Owners of America]], [[Women Speak Out Pac]], [[WinSenate]], [[Bank of America]], [[Let America Vote PAC]], [[Freedom's Defense Fund]], [[Marathon Petroleum]], [[Halliburton]], [[AT&T]], [[Save Our Country]], [[Majority PAC]]"
-last-enriched: 2026-04-20
+top-donors: "[[National Rifle Association]], [[Drummond Co.]], [[Lockheed Martin]], [[American Chemistry Council, INC]], [[AT&T - WarnerMedia]], [[NRSC - National Republican Senatorial Committee]], [[Gilead Sciences]], [[Amgen Inc]], [[Devon Energy]], [[National Right to Life Victory Fund]], [[Republican Jewish Coalition]], [[Senate Conservatives Fund]], [[Club for Growth INC PAC]], [[NORPAC]], [[Edf Action Votes]], [[Campaign for Working Families]], [[American Hospital Association PAC]], [[Tzedek PAC]], [[L3Harris Technologies]], [[SAVE OUR COUNTRY]], [[Citigroup]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[WinRed]], [[Puget Sound Energy INC PAC for Good Government]], [[The Sentinel Action Fund]], [[National Association of Realtors]], [[National Cattlemen's Beef Association]], [[Planned Parenthood Votes]], [[Hunter Action Fund (haf)]], [[National Victory Action Fund]], [[National Multifamily Housing Council]], [[Teamsters - International Brotherhood of Teamsters]], [[ConocoPhillips]], [[Common Sense for America PAC]], [[Americans for Prosperity]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Valero Energy]], [[Alliance Coal, LLC PAC]], [[MAJORITY PAC]], [[Reclaim America PAC]], [[Votevets]], [[SLF PAC]], [[League of Conservation Voters]], [[Gun Owners of America]], [[Women Speak Out Pac]], [[WinSenate]], [[Bank of America]], [[Let America Vote PAC]], [[Freedom's Defense Fund]], [[Marathon Petroleum]], [[Halliburton]], [[AT&T]], [[Save Our Country]], [[Majority PAC]], [[National Republican Senatorial Committee]], [[Glenn Thompson]], [[NRA Political Victory Fund]], [[Roger Marshall]], [[Williams Companies]], [[Akin Gump Strauss Hauer & Feld]], [[STEVE DAINES FOR MONTANA]], [[Steve Scalise]], [[GEO Group - Private Prison Industrial Complex]], [[Meta - Facebook]], [[American Principles Fund]], [[Koch Industries]], [[Jim Banks]]"
+last-enriched: 2026-04-20T00:00:00.000Z
 corroboration-count: 3
 committees:
-  - "Aviation, Space, and Innovation"
-  - "Coast Guard, Maritime, and Fisheries"
+  - Aviation, Space, and Innovation
+  - Coast Guard, Maritime, and Fisheries
   - Emerging Threats and Capabilities
   - Readiness and Management Support
   - Seapower
   - Senate Committee on Armed Services
-  - "Senate Committee on Commerce, Science, and Transportation"
-  - "Senate Committee on Veterans' Affairs"
+  - Senate Committee on Commerce, Science, and Transportation
+  - Senate Committee on Veterans' Affairs
   - Telecommunications and Media
-total-raised: "$31.4M"
-career-total-source: "FEC weball summary (cycles 2024, 2026)"
+total-raised: $31.4M
+career-total-source: FEC weball summary (cycles 2024, 2026)
 bills-sponsored: 58
 ---
 

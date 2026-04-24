@@ -20,18 +20,18 @@ source-types:
   - FEC
   - GovTrack
 known-gaps:
-  - "No mapped relationships"
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4ND00061
-top-donors: "[[Northrop Grumman]], [[National Rifle Association]], [[Winning for Women PAC]], [[CVS Health - Aetna]], [[National Association of Realtors]], [[Johnson & Johnson]], [[NextEra Energy]], [[Defending Main Street Superpac INC]], [[Marathon Petroleum]], [[ConocoPhillips]], [[Chevron]], [[Valero Energy]], [[Comcast - NBCUniversal]], [[National Multifamily Housing Council]], [[Duke Energy]], [[Google - Alphabet]], [[Troy Downing]], [[American Hospital Association PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[Amgen Inc]], [[Jim Jordan]], [[Honeywell]], [[PG&E - Pacific Gas and Electric]], [[Wfw Action Fund, Inc.]], [[Walmart - Walton Family]], [[Hunter Action Fund (haf)]], [[Reclaim America PAC]], [[Devon Energy]], [[Associated General Contractors of America Political Action Committee]], [[National Restaurant Association]], [[Morgan Stanley]], [[AT&T - WarnerMedia]], [[Anthem - Elevance Health]], [[VIEW PAC - Value in Electing Women]], [[ADM - Archer Daniels Midland]], [[AbbVie]], [[MAJORITY PAC]], [[Microsoft]], [[Raytheon (RTX)]], [[Club for Growth]], [[Citigroup]], [[Republican Jewish Coalition]], [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]], [[National Cattlemen's Beef Association]], [[American Chemistry Council, INC]], [[Honeywell International]], [[AT&T]], [[Majority PAC]], [[Protect Freedom Political Action Committee]]"
-last-enriched: 2026-04-21
+top-donors: "[[Northrop Grumman]], [[National Rifle Association]], [[Winning for Women PAC]], [[CVS Health - Aetna]], [[National Association of Realtors]], [[Johnson & Johnson]], [[NextEra Energy]], [[Defending Main Street Superpac INC]], [[Marathon Petroleum]], [[ConocoPhillips]], [[Chevron]], [[Valero Energy]], [[Comcast - NBCUniversal]], [[National Multifamily Housing Council]], [[Duke Energy]], [[Google - Alphabet]], [[Troy Downing]], [[American Hospital Association PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[Amgen Inc]], [[Jim Jordan]], [[Honeywell]], [[PG&E - Pacific Gas and Electric]], [[Wfw Action Fund, Inc.]], [[Walmart - Walton Family]], [[Hunter Action Fund (haf)]], [[Reclaim America PAC]], [[Devon Energy]], [[Associated General Contractors of America Political Action Committee]], [[National Restaurant Association]], [[Morgan Stanley]], [[AT&T - WarnerMedia]], [[Anthem - Elevance Health]], [[VIEW PAC - Value in Electing Women]], [[ADM - Archer Daniels Midland]], [[AbbVie]], [[MAJORITY PAC]], [[Microsoft]], [[Raytheon (RTX)]], [[Club for Growth]], [[Citigroup]], [[Republican Jewish Coalition]], [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]], [[National Cattlemen's Beef Association]], [[American Chemistry Council, INC]], [[Honeywell International]], [[AT&T]], [[Majority PAC]], [[Protect Freedom Political Action Committee]], [[Raytheon (RTX Corporation)]], [[TROY DOWNING FOR CONGRESS]], [[Meta - Facebook]], [[Brett Guthrie]], [[HOUCHIN FOR CONGRESS]], [[Koch Industries]], [[Williams Companies]], [[NRA Political Victory Fund]], [[Tom Emmer]], [[Richard Hudson]], [[Carol D. Miller]], [[BRANDON GILL FOR TEXAS]], [[David P. Joyce]], [[JIM JORDAN FOR CONGRESS]], [[Steve Scalise]], [[MOORE FOR WEST VIRGINIA, INC.]], [[DR. BRIAN BABIN FOR CONGRESS]], [[Guy Reschenthaler]], [[Southern Company]], [[HOEVEN FOR SENATE]], [[Mike Johnson]], [[Mariannette Miller-Meeks]], [[TEXANS FOR JODEY ARRINGTON]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Communications and Technology
   - Energy
   - Environment
   - House Committee on Energy and Commerce
-total-raised: "$3.4M"
-career-total-source: "FEC weball summary (cycles 2024, 2026)"
+total-raised: $3.4M
+career-total-source: FEC weball summary (cycles 2024, 2026)
 bills-sponsored: 12
 corroboration-count: 3
 ---

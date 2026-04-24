@@ -5,14 +5,14 @@ content-readiness: data-complete
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00687475
 aliases:
   - PLANNED PARENTHOOD NW ACTION PAC
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Maria Cantwell]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Maria Cantwell]], [[Kim Schrier]]"
 related: "[[Maria Cantwell]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -23,7 +23,7 @@ total-spent: 359
 cash-on-hand: 169
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

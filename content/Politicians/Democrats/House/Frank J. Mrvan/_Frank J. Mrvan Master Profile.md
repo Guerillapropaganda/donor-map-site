@@ -1,36 +1,37 @@
 ---
-title: "Frank J. Mrvan"
+title: Frank J. Mrvan
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Indiana"
-state-abbr: "IN"
+party: Democrat
+chamber: House
+state: Indiana
+state-abbr: IN
 district: "1"
-bioguide-id: "M001214"
+bioguide-id: M001214
 govtrack-id: 456821
 born: "1969-04-16"
-wikidata-id: "Q96077897"
-website: "https://mrvan.house.gov"
-phone: "202-225-2461"
+wikidata-id: Q96077897
+website: https://mrvan.house.gov
+phone: 202-225-2461
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 6
 bills-cosponsored: 266
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Commerce, Justice, Science, and Related Agencies"
+  - Commerce, Justice, Science, and Related Agencies
   - Energy and Water Development and Related Agencies
   - House Committee on Appropriations
+top-donors: "[[PETE AGUILAR FOR CONGRESS]], [[AIPAC - American Israel Public Affairs Committee]], [[Hakeem Jeffries]], [[Amgen Inc]], [[SHERMAN FOR CONGRESS]], [[JAMIE RASKIN FOR CONGRESS]], [[Maxwell Frost]], [[Giffords PAC]], [[J. Luis Correa]], [[James E. Clyburn]], [[Donald S. Beyer]], [[Ami Bera]], [[AFL-CIO]], [[Cargill]], [[Leidos]], [[STRICKLAND FOR WASHINGTON]], [[League of Conservation Voters]], [[Robin L. Kelly]], [[GABE AMO FOR CONGRESS]], [[Lizzie Fletcher]], [[Brittany Pettersen]], [[Mary Gay Scanlon]], [[CVS Health - Aetna]], [[Kim Schrier]], [[CITIZENS TO ELECT RICK LARSEN]], [[Pfizer Inc.]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Nucor Corporation]], [[AbbVie]], [[Marcy Kaptur]], [[National Education Association]], [[MAD 4 PA PAC]], [[DEBBIE DINGELL FOR CONGRESS]], [[TED LIEU FOR CONGRESS]], [[SHARICE FOR CONGRESS]], [[Steny H. Hoyer]], [[American Iron and Steel Institute]], [[Southern Company]], [[SARA JACOBS FOR CONGRESS]], [[Gerry Connolly]], [[LOFGREN FOR CONGRESS]], [[Let America Vote PAC]], [[Bradley Scott Schneider]], [[Planned Parenthood Action Fund INC]], [[Gilead Sciences]], [[BILL FOSTER FOR CONGRESS]], [[Janice D. Schakowsky]], [[DEBORAH ROSS FOR CONGRESS]], [[ROBERT GARCIA FOR CONGRESS]], [[Humana]], [[GRACE FOR NEW YORK]], [[JASON CROW FOR CONGRESS]], [[Jerry Nadler]], [[DoorDash]], [[Adam Schiff]], [[NANCY PELOSI FOR CONGRESS]], [[National Association of Manufacturers]], [[Robert Garcia]], [[STANTON FOR CONGRESS]], [[MARK TAKANO FOR CONGRESS]], [[Jill N. Tokuda]], [[KATHERINE CLARK FOR CONGRESS]], [[LORI TRAHAN FOR CONGRESS COMMITTEE]], [[MARK KELLY FOR SENATE]], [[JULIA BROWNLEY FOR CONGRESS]], [[American College of Radiology Association PAC]], [[Nikema Williams]], [[JOE NEGUSE FOR CONGRESS]], [[PAUL TONKO FOR CONGRESS]], [[CHUY GARCIA FOR CONGRESS]], [[Emanuel Cleaver]]"
 ---
 
 

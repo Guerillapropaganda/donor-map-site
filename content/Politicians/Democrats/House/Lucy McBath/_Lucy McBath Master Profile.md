@@ -1,38 +1,39 @@
 ---
-title: "Lucy McBath"
+title: Lucy McBath
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Georgia"
-state-abbr: "GA"
+party: Democrat
+chamber: House
+state: Georgia
+state-abbr: GA
 district: "6"
-bioguide-id: "M001208"
+bioguide-id: M001208
 govtrack-id: 412769
 born: "1960-06-01"
-wikidata-id: "Q54358424"
-website: "https://mcbath.house.gov"
-phone: "202-225-4501"
+wikidata-id: Q54358424
+website: https://mcbath.house.gov
+phone: 202-225-4501
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 18
 bills-cosponsored: 322
 bills-enacted: 1
-top-policy-area: "Crime and Law Enforcement"
-last-enriched: 2026-04-21
+top-policy-area: Crime and Law Enforcement
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Crime and Federal Government Surveillance
-  - "Health, Employment, Labor, and Pensions"
+  - Health, Employment, Labor, and Pensions
   - Higher Education and Workforce Development
   - House Committee on Education and Workforce
   - House Committee on the Judiciary
+top-donors: "[[VERONICA ESCOBAR FOR CONGRESS]], [[National Education Association]], [[LOFGREN FOR CONGRESS]], [[TED LIEU FOR CONGRESS]], [[Humane Society Legislative Fund]], [[James E. Clyburn]], [[League of Conservation Voters]], [[Google - Alphabet]], [[Giffords PAC]], [[JUDY CHU FOR CONGRESS]], [[SCOTT PETERS FOR CONGRESS]], [[Let America Vote PAC]], [[CVS Health - Aetna]], [[DEB HAALAND FOR CONGRESS]], [[Donald S. Beyer]], [[DOGGETT FOR U S CONGRESS COMMITTEE]], [[PAUL TONKO FOR CONGRESS]], [[Kim Schrier]], [[Hakeem Jeffries]], [[SHERMAN FOR CONGRESS]], [[J. Luis Correa]], [[Julian Castro]], [[Steny H. Hoyer]], [[Bobby Scott]], [[BILL FOSTER FOR CONGRESS]], [[Planned Parenthood Action Fund INC]], [[PETE AGUILAR FOR CONGRESS]], [[Environment America INC]], [[SARA JACOBS FOR CONGRESS]], [[ILHAN FOR CONGRESS]], [[JAMIE RASKIN FOR CONGRESS]], [[Indivisible Action]], [[DEBBIE WASSERMAN SCHULTZ FOR CONGRESS]], [[Adam Schiff]], [[Tyson Foods]], [[BARBARA LEE FOR CONGRESS]], [[Jerry Nadler]], [[BONNIE WATSON COLEMAN FOR CONGRESS]], [[LOIS FRANKEL FOR CONGRESS]], [[Steve Cohen]], [[Gwen Moore]], [[Marc A. Veasey]], [[Eric Swalwell]], [[Emily's List]], [[Mary Gay Scanlon]], [[Independence Usa Pac]], [[Terri A. Sewell]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[BEATTY FOR CONGRESS]], [[Bradley Scott Schneider]], [[Protecting Our Vote Pac]], [[Powerpacplus]], [[Everytown for Gun Safety]], [[Janice D. Schakowsky]], [[Sierra Club Political Committee]], [[ADRIANO ESPAILLAT FOR CONGRESS]], [[Coinbase]], [[STANTON FOR CONGRESS]], [[JIMMY PANETTA FOR CONGRESS]], [[KATHERINE CLARK FOR CONGRESS]], [[AIPAC - American Israel Public Affairs Committee]], [[JOE NEGUSE FOR CONGRESS]], [[STRICKLAND FOR WASHINGTON]], [[Al Green]], [[Protect Our Future PAC]], [[Tzedek PAC]], [[Yvette D. Clarke]], [[Nikema Williams]], [[Alma S. Adams]], [[CASTOR FOR CONGRESS]], [[NANCY PELOSI FOR CONGRESS]], [[JULIA BROWNLEY FOR CONGRESS]], [[MAD 4 PA PAC]], [[HIMES FOR CONGRESS]], [[Ami Bera]], [[Raja Krishnamoorthi]], [[Ed Case]]"
 ---
 
 

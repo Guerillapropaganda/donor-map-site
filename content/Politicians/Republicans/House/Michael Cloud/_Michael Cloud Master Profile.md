@@ -18,27 +18,27 @@ phone: 202-225-7742
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H8TX27049
 bills-sponsored: 17
 bills-cosponsored: 197
 bills-enacted: 0
 top-policy-area: Government Operations and Politics
-top-donors: "[[Josh Brecheen]], [[Anthem - Elevance Health]], [[Lockheed Martin]], [[National Cattlemen's Beef Association]], [[National Rifle Association]], [[Valero Energy]], [[AT&T - WarnerMedia]], [[MAJORITY PAC]], [[Gun Owners of America]], [[Chevron]], [[JPAC - Jewish Public Affairs Committee of California]], [[Save America PAC]], [[Northrop Grumman]], [[AIPAC - American Israel Public Affairs Committee]], [[National Association of Realtors]], [[Marathon Petroleum]], [[David Rouzer]], [[American Chemistry Council, INC]], [[Comcast - NBCUniversal]], [[Halliburton]], [[WinRed]], [[Ben Cline]], [[Austin Scott]], [[Tyson Foods]], [[Occidental Petroleum]], [[American Hospital Association PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Jim Jordan]], [[Walmart - Walton Family]], [[Majority PAC]], [[AT&T]]"
-last-enriched: 2026-04-21
+top-donors: "[[Josh Brecheen]], [[Anthem - Elevance Health]], [[Lockheed Martin]], [[National Cattlemen's Beef Association]], [[National Rifle Association]], [[Valero Energy]], [[AT&T - WarnerMedia]], [[MAJORITY PAC]], [[Gun Owners of America]], [[Chevron]], [[JPAC - Jewish Public Affairs Committee of California]], [[Save America PAC]], [[Northrop Grumman]], [[AIPAC - American Israel Public Affairs Committee]], [[National Association of Realtors]], [[Marathon Petroleum]], [[David Rouzer]], [[American Chemistry Council, INC]], [[Comcast - NBCUniversal]], [[Halliburton]], [[WinRed]], [[Ben Cline]], [[Austin Scott]], [[Tyson Foods]], [[Occidental Petroleum]], [[American Hospital Association PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Jim Jordan]], [[Walmart - Walton Family]], [[Majority PAC]], [[AT&T]], [[Club for Growth]], [[TEXANS FOR JODEY ARRINGTON]], [[Family Research Council Action Political Action Committee]], [[NRA Political Victory Fund]], [[ADM - Archer Daniels Midland]], [[JASON SMITH FOR CONGRESS]], [[Mariannette Miller-Meeks]], [[DAVID ROUZER FOR CONGRESS]], [[JOSH BRECHEEN FOR CONGRESS]], [[Koch Industries]], [[CRENSHAW, DANIEL]], [[Donald Trump]], [[Campaign for Working Families]], [[GEO Group - Private Prison Industrial Complex]], [[Steve Scalise]], [[ADRIAN SMITH FOR CONGRESS]], [[JOE WILSON FOR CONGRESS]], [[JIM JORDAN FOR CONGRESS]], [[BEN CLINE FOR CONGRESS, INC.]], [[MCCAUL FOR CONGRESS, INC]], [[GARY PALMER FOR CONGRESS]], [[William R. Timmons]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[DR. BRIAN BABIN FOR CONGRESS]], [[James R. Baird]], [[Club for Growth INC PAC]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Delivering on Government Efficiency
   - Energy and Water Development and Related Agencies
   - Financial Services and General Government
   - House Committee on Appropriations
   - House Committee on Oversight and Government Reform
-  - "Interior, Environment, and Related Agencies"
+  - Interior, Environment, and Related Agencies
   - Military and Foreign Affairs
-total-raised: "$4.5M"
-career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
+total-raised: $4.5M
+career-total-source: FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)
 ---
 
 

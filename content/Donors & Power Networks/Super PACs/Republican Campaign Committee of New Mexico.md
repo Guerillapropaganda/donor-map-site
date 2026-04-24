@@ -11,8 +11,8 @@ fec-committee-id: C00020818
 aliases:
   - REPUBLICAN CAMPAIGN COMMITTEE OF NEW MEXICO
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Martin Heinrich]], [[Donald Trump]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Martin Heinrich]], [[Donald Trump]], [[Clear Voice Minnesota]], [[PAYROLL COMPANY, LLC]], [[Haley M. Stevens]], [[HOPKINS, KIRSTIN]], [[STARBOARD COMMUNICATIONS, INC.]], [[Committee for Defending American Values]], [[FL CONSULTING, LLC]], [[FL CONSULTING]], [[US BANK]], [[US POSTMASTER]], [[OLSEN & SHUVALOV, LP]], [[Patrick Soon-Shiong]], [[CROWNE PLAZA]], [[TEAGUE, MARJORIE MRS.]], [[Direct Selling Empowers Americans]], [[EFTPS]], [[MOORE FOR WEST VIRGINIA, INC.]], [[FLS CONNECT, LLC]], [[FEATHER LARSON & SYNHORST]], [[Johnson & Johnson]], [[HOLTZMAN VOGEL, PLLC]], [[DELL MARKETING LP]], [[MCCLESKEY, JAY]], [[FULLER CONSULTING]], [[ALBUQUERQUE MARRIOTT]], [[Campaign for Community Change]], [[AVIS RENT A CAR]], [[STRATEGIC TELECOMMUNICATIONS]], [[PUBLIC OPINION STRATEGIES, LLC]], [[TARGETED CREATIVE COMMUNICATIONS, INC.]], [[ADVANTAGE DIRECT COMMUNICATIONS]], [[The Lincoln Project]], [[BARNETT LAW FIRM,  P.A.]], [[PARTIDA & ASSOCIATES]], [[RUMBLEUP, LLC]], [[PERSON 2 PERSON]], [[TELUS COMMUNICATIONS]], [[HOLIDAY INN HOTEL & SUITES]], [[SOUTHWEST AIRLINES]], [[Republican Jewish Coalition]], [[BAKER & HOSTETLER]], [[RIVAL STRATEGY GROUP LLC]], [[STRATEGIC TELECOMMUNICATIONS, INC.]], [[GLEASON, RONALD]], [[MODRALL, SPERLING ET AL, P.A.]], [[ALBUQUERQUE HILTON]], [[DARREN SOTO FOR CONGRESS]], [[FEATHER HODGES LARSON & SYNHORST]], [[ROSE MARKETING GROUP INC.]], [[GUEBERT, BRUCKNER & BOOTES, PC]], [[EMBASSY SUITES HOTEL & CONFERENCE CENTER]], [[ROGERS, PATRICK]], [[MICROAGE TECHNOLOGY, LLC]], [[First Amendment Alliance]], [[ARENA COMMUNICATIONS]], [[AIRNET GROUP, INC.]], [[Majority Forward]], [[SCOTT FITZGERALD FOR CONGRESS]], [[John Thune]], [[Sam Graves]], [[Tom Cole]], [[Mike Rogers]]"
 related: "[[Martin Heinrich]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

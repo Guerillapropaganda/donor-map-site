@@ -11,8 +11,8 @@ fec-committee-id: C00492116
 aliases:
   - COOPERATIVE OF AMERICAN PHYSICIANS INDEPENDENT EXPENDITURE COMMITTEE
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Pete Aguilar]], [[Sydney Kamlager-Dove]], [[Jim Costa]], [[Young Kim]], [[Adam Gray]], [[Vince Fong]], [[Mike Thompson]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Pete Aguilar]], [[Sydney Kamlager-Dove]], [[Jim Costa]], [[Young Kim]], [[Adam Gray]], [[Vince Fong]], [[Mike Thompson]], [[CRAIG GOLDMAN FOR CONGRESS]], [[THE GARRY SOUTH GROUP]], [[Holland & Knight]], [[GLOBAL STRATEGY GROUP LLC]], [[Californians for Innovation]], [[NMB RESEARCH, LLC]], [[P.M. RESTAURANTSCONSULTING, INC.]], [[KEZIRIAN, A. PETER]], [[ADVANCED KNOWLEDGE RESOURCES]], [[SICILIANI, TONY]], [[INTERNAL REVENUE SERVICE]], [[U.S. POSTMASTER]], [[LOGICOM LLC]], [[KUPERSMIT RESEARCH, INC.]], [[NEW MAJORITY CALIFORNIA]], [[LA VIGNE STRATEGIES LLC]], [[Cooperative of American Physicians Independent Expenditure Committee]], [[HARELINE GRAPHICS]], [[Capitol Counsel]], [[PJM CREATIVE]], [[Tom Cotton]], [[J. Luis Correa]], [[Gilbert Ray Cisneros]], [[Bill Cassidy]], [[Luz M. Rivas]], [[Dan Sullivan]], [[Roger Marshall]], [[Raul Ruiz]]"
 related: "[[Pete Aguilar]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -24,7 +24,7 @@ cash-on-hand: 200551
 individual-contributions: 397693
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

@@ -1,29 +1,30 @@
 ---
-title: "Jim Inhofe"
+title: Jim Inhofe
 type: politician
-bioguide-id: "I000024"
+bioguide-id: I000024
 content-readiness: ready
 central-thesis: "Inhofe served two donor classes simultaneously: the fossil fuel industry and the defense industry. As chair of both the Environment and Armed Services committees at different points, he was perfectly positioned to deliver for both. For oil and gas..."
-last-updated: 2026-03-25
+last-updated: 2026-03-25T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Senate"
-state: "Oklahoma"
-state-abbr: "OK"
+party: Republican
+chamber: Senate
+state: Oklahoma
+state-abbr: OK
 committees:
-  - "Armed Services"
+  - Armed Services
 issues:
-  - "Energy & Climate"
-  - "Defense & Military"
+  - Energy & Climate
+  - Defense & Military
 source-types:
   - Congress
 corroboration-count: 2
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
+  - No FEC contribution data
+  - No voting record data
 related: "[[Koch Network - Charles Koch|Koch Network]] · [[ExxonMobil]] · [[Fossil Fuel Bloc]] · [[American Petroleum Institute]] · [[_Markwayne Mullin Master Profile|Markwayne Mullin]] · [[_Donald Trump Master Profile|Trump]] · [[Lockheed Martin]] · [[Northrop Grumman]]"
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
+top-donors: "[[Jim Inhofe]], [[National Republican Senatorial Committee]], [[Tyson Foods]], [[Bechtel Corporation]], [[Leidos]], [[National Cattlemen's Beef Association]], [[Williams Companies]], [[Associated General Contractors of America Political Action Committee]], [[Koch Industries]], [[Google - Alphabet]], [[NRA Political Victory Fund]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Campaign for Working Families]], [[HERN FOR CONGRESS]], [[National Right to Life PAC]], [[Akin Gump Strauss Hauer & Feld]], [[National Restaurant Association]], [[Occidental Petroleum]], [[The National Republican Trust PAC]], [[Nucor Corporation]], [[McDonalds Corporation]], [[DANIEL WEBSTER PAC]], [[Southern Company]], [[Mitch McConnell]], [[Citigroup]], [[Pfizer Inc.]], [[Amgen Inc]], [[Jeff Sessions]], [[Dan Coats]], [[Senate Majority PAC]], [[ADM - Archer Daniels Midland]], [[CoreCivic]], [[John Boozman]], [[Common Sense for America PAC]], [[Humana]], [[AbbVie]], [[Republican Jewish Coalition]]"
 ---
 
 

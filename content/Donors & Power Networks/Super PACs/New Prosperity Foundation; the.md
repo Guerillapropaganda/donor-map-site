@@ -11,8 +11,8 @@ fec-committee-id: C00488494
 aliases:
   - NEW PROSPERITY FOUNDATION; THE
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Tammy Duckworth]], [[John Fetterman]], [[Tammy Baldwin]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Tammy Duckworth]], [[John Fetterman]], [[Tammy Baldwin]], [[MELANGE ENTERPRISES LTD.]], [[ALLIANCEWORKS GROUP LLC]], [[HOLTZMAN VOGEL JOSEFIAK, PLLC]], [[PROSPECT STRATEGIC COMMUNICATIONS]], [[TARGETED VICTORY]], [[XPS PROFESSIONAL SERVICES]], [[HOLTZMAN VOGEL, PLLC]], [[DUDLEY, CHRIS]], [[HATHAWAY STRATEGIES LLC]], [[CORPORATE FX]], [[Mike Bost]], [[Holtzman Vogel PLLC]], [[Timothy Peters]], [[Corporate f/x]], [[Chris Dudley]], [[Xpress Professional Services]], [[Xpress Professional Services ]], [[AllianceWorks Group LLC]], [[Targeted Victory]], [[National Journal Group Inc]], [[Xpress Professional Services Inc]]"
 related: "[[Tammy Duckworth]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -24,7 +24,7 @@ cash-on-hand: 10176
 individual-contributions: 10000
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

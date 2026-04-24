@@ -6,13 +6,13 @@ chamber: Senate
 party: Democrat
 content-readiness: data-complete
 central-thesis: Bennet's political career is underwritten by education reform donors. As DPS superintendent, he implemented charter school expansion (70+ new charters opened during his tenure, 48 schools closed). This positioned him as attractive to Eli Broad, Wa...
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 stock-trades: 7
 stock-trade-tickers:
-  - "RGC"
-  - "LVLT"
+  - RGC
+  - LVLT
 total-received: $7,524,650
 fec-candidate-id: P00011833
 related: "[[John Hickenlooper]] · [[Eli Broad Foundation]] · [[Walton Family Foundation]] · [[Gates Foundation]]"
@@ -21,18 +21,18 @@ needs-reenrichment: true
 reenrich-reason: run voting pipeline; run congress pipeline
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 top-donors: "[[MISLOVE, ALAN EDWARD]], [[Mislove, Alan Edward]]"
-donors: "[[Mislove, Alan Edward]], [[MISLOVE, ALAN EDWARD]]"
+donors: "[[Mislove, Alan Edward]], [[MISLOVE, ALAN EDWARD]], [[Amgen Inc]], [[Williams Companies]], [[Pfizer Inc.]], [[Democratic Senatorial Campaign Committee]], [[SCHATZ FOR SENATE]], [[Meta - Facebook]], [[AbbVie]], [[Akin Gump Strauss Hauer & Feld]], [[McDonalds Corporation]], [[Giffords PAC]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Google - Alphabet]], [[American College of Radiology Association PAC]], [[Sierra Club Political Committee]], [[League of Conservation Voters]], [[Gilead Sciences]], [[CASTRO FOR CONGRESS]], [[National Association of Realtors]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Humana]], [[AFL-CIO]], [[Planned Parenthood Action Fund INC]], [[Bechtel Corporation]], [[National Restaurant Association]], [[Environment America INC]], [[CVS Health - Aetna]], [[AIPAC - American Israel Public Affairs Committee]], [[Let America Vote PAC]], [[WinSenate]], [[Blue Shield of California]], [[Tyson Foods]], [[Protect the Vote]], [[National Cattlemen's Beef Association]], [[CoreCivic]], [[Americas Pac]], [[National Education Association]], [[FRIENDS OF MARIA]], [[Janice D. Schakowsky]], [[Cargill]], [[J Street]], [[Tammy Duckworth]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 75
 bills-cosponsored: 333
 bills-enacted: 0
-top-policy-area: "Health"
+top-policy-area: Health
 committees:
-  - "Conservation, Forestry, Natural Resources, and Biotechnology"
-  - "Energy, Natural Resources, and Infrastructure"
-  - "International Trade, Customs, and Global Competitiveness"
-  - "Rural Development, Energy, and Credit"
-  - "Senate Committee on Agriculture, Nutrition, and Forestry"
+  - Conservation, Forestry, Natural Resources, and Biotechnology
+  - Energy, Natural Resources, and Infrastructure
+  - International Trade, Customs, and Global Competitiveness
+  - Rural Development, Energy, and Credit
+  - Senate Committee on Agriculture, Nutrition, and Forestry
   - Senate Committee on Finance
   - Senate Committee on Rules and Administration
   - Senate Select Committee on Intelligence
@@ -40,10 +40,10 @@ committees:
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-total-raised: "$7.5M"
-career-total-source: "FEC weball summary (cycles 2020, 2022)"
+  - No FEC contribution data
+  - No voting record data
+total-raised: $7.5M
+career-total-source: FEC weball summary (cycles 2020, 2022)
 ---
 
 

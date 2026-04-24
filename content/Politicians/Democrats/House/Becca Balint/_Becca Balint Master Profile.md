@@ -1,37 +1,38 @@
 ---
-title: "Becca Balint"
+title: Becca Balint
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Vermont"
-state-abbr: "VT"
+party: Democrat
+chamber: House
+state: Vermont
+state-abbr: VT
 district: "0"
-bioguide-id: "B001318"
+bioguide-id: B001318
 govtrack-id: 456948
 born: "1968-05-04"
-wikidata-id: "Q28137193"
-website: "https://balint.house.gov"
-phone: "202-225-4115"
+wikidata-id: Q28137193
+website: https://balint.house.gov
+phone: 202-225-4115
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 24
 bills-cosponsored: 429
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - House Committee on the Budget
   - House Committee on the Judiciary
-  - "The Administrative State, Regulatory Reform, and Antitrust"
+  - The Administrative State, Regulatory Reform, and Antitrust
   - The Constitution and Limited Government
+top-donors: "[[Planned Parenthood Action Fund INC]], [[Working Families Party PAC]], [[Richard Neal]], [[MEDICARE FOR ALL]], [[Let America Vote PAC]], [[Sierra Club Political Committee]], [[J Street]], [[JAMIE RASKIN FOR CONGRESS]], [[CITIZENS TO ELECT RICK LARSEN]], [[National Education Association]], [[Lizzie Fletcher]], [[Demand Justice]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[League of Conservation Voters]], [[LOFGREN FOR CONGRESS]], [[PETE AGUILAR FOR CONGRESS]], [[MAD 4 PA PAC]], [[TED LIEU FOR CONGRESS]], [[ROBERT GARCIA FOR CONGRESS]], [[Indivisible Action]], [[Central Coast Values PAC]], [[ADRIANO ESPAILLAT FOR CONGRESS]], [[Meta - Facebook]]"
 ---
 
 

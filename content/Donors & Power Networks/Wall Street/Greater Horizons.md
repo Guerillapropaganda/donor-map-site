@@ -9,14 +9,14 @@ ein: "200849590"
 nonprofit-status: 501(c)(3)
 source-tier: 1
 internal-notes: Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. DAF sponsor operated by the Greater Kansas City Community Foundation. Significant pass-through volume. Narrative pending Research Claude editorial pass.
-politicians-funded: "[[Renaissance Charitable Foundation]], [[National Philanthropic Trust]], [[American Endowment Foundation]], [[Bank of America Charitable Gift Fund]], [[Heritage Foundation]], [[ACLU Foundation]], [[Stand Together Foundation]], [[Natural Resources Defense Council]], [[Fidelity Investments]], [[Sierra Club Foundation]], [[ImpactAssets]], [[America First Policy Institute]], [[Alliance Defending Freedom]], [[Schwab Charitable Fund]], [[Morgan Stanley Global Impact Funding Trust]], [[TPUSA - Turning Point USA]]"
+politicians-funded: "[[Renaissance Charitable Foundation]], [[National Philanthropic Trust]], [[American Endowment Foundation]], [[Bank of America Charitable Gift Fund]], [[Heritage Foundation]], [[ACLU Foundation]], [[Stand Together Foundation]], [[Natural Resources Defense Council]], [[Fidelity Investments]], [[Sierra Club Foundation]], [[ImpactAssets]], [[America First Policy Institute]], [[Alliance Defending Freedom]], [[Schwab Charitable Fund]], [[Morgan Stanley Global Impact Funding Trust]], [[TPUSA - Turning Point USA]], [[Hoover Institution]]"
 known-gaps:
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
-  - "No mapped relationships"
-last-enriched: 2026-04-21
-total-political-spend: "$22.2M"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2018, 2019, 2024"
+  - No FEC contribution data
+  - No lobbying disclosure data
+  - No mapped relationships
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $22.2M
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2018, 2019, 2024
 ---
 
 

@@ -1,36 +1,37 @@
 ---
-title: "Janice D. Schakowsky"
+title: Janice D. Schakowsky
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Illinois"
-state-abbr: "IL"
+party: Democrat
+chamber: House
+state: Illinois
+state-abbr: IL
 district: "9"
-bioguide-id: "S001145"
+bioguide-id: S001145
 govtrack-id: 400360
 born: "1944-05-26"
-wikidata-id: "Q440885"
-website: "https://schakowsky.house.gov"
-phone: "202-225-2111"
+wikidata-id: Q440885
+website: https://schakowsky.house.gov
+phone: 202-225-2111
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 51
 bills-cosponsored: 817
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Commerce, Manufacturing, and Trade"
+  - Commerce, Manufacturing, and Trade
   - Environment
   - House Committee on Energy and Commerce
+top-donors: "[[National Committee to Preserve Social Security & Medicare PAC]], [[National Nurses United]], [[National Education Association]], [[American College of Radiology Association PAC]], [[J Street]], [[Planned Parenthood Action Fund INC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Rosa DeLauro]], [[AFL-CIO]], [[Let America Vote PAC]], [[Google - Alphabet]], [[Sierra Club Political Committee]], [[CVS Health - Aetna]], [[Demand Justice]], [[League of Conservation Voters]], [[MEDICARE FOR ALL]], [[Bradley Scott Schneider]]"
 ---
 
 

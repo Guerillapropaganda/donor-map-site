@@ -1,32 +1,32 @@
 ---
-title: "Terri A. Sewell"
+title: Terri A. Sewell
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Alabama"
-state-abbr: "AL"
+party: Democrat
+chamber: House
+state: Alabama
+state-abbr: AL
 district: "7"
-bioguide-id: "S001185"
+bioguide-id: S001185
 govtrack-id: 412396
 born: "1965-01-01"
-wikidata-id: "Q461621"
-website: "https://sewell.house.gov"
-phone: "202-225-2665"
+wikidata-id: Q461621
+website: https://sewell.house.gov
+phone: 202-225-2665
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 17
 bills-cosponsored: 592
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Elections
   - House Committee on House Administration
@@ -35,6 +35,7 @@ committees:
   - Oversight
   - Social Security
   - Trade
+top-donors: "[[National Education Association]], [[American Iron and Steel Institute]], [[Associated General Contractors of America Political Action Committee]], [[Steny H. Hoyer]], [[DIANA DEGETTE FOR CONGRESS]], [[Meta - Facebook]], [[James E. Clyburn]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Williams Companies]], [[Amgen Inc]], [[Humana]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Pfizer Inc.]], [[Giffords PAC]], [[American College of Radiology Association PAC]], [[Planned Parenthood Action Fund INC]], [[Nucor Corporation]], [[Richard Neal]], [[Akin Gump Strauss Hauer & Feld]], [[Cargill]], [[Koch Industries]], [[Gilead Sciences]], [[Google - Alphabet]], [[CVS Health - Aetna]], [[AIPAC - American Israel Public Affairs Committee]], [[Performance Racing Inc.]], [[National Association of Manufacturers]], [[Airbnb]], [[AbbVie]], [[Leidos]], [[Marcy Kaptur]], [[Occidental Petroleum]], [[Emily's List]], [[McDonalds Corporation]], [[AFL-CIO]], [[Tyson Foods]], [[National Restaurant Association]], [[Robin L. Kelly]]"
 ---
 
 

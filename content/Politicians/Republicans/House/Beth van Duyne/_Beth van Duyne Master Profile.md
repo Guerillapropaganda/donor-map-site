@@ -18,22 +18,22 @@ phone: 202-225-6605
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 34
 bills-cosponsored: 305
 bills-enacted: 0
 top-policy-area: Taxation
-top-donors: "[[Verizon]], [[BAE Systems]], [[Invitation Homes - Institutional Landlords]], [[Elliott Management]], [[Blackstone Group]], [[Charles Schwab]], [[Google - Alphabet]], [[Microsoft]], [[AbbVie]], [[RNC - Republican National Committee]], [[Enterprise Products Partners]], [[Lockheed Martin]], [[Las Vegas Sands]], [[Amazon]], [[UPS]], [[Citadel - Kenneth Griffin]], [[Fidelity Investments]], [[US CHAMBER OF COMMERCE]], [[ConocoPhillips]], [[CBRE Group]], [[Coinbase]], [[Leidos]], [[Morgan Stanley]], [[Lennar Corporation]], [[US Chamber of Commerce]]"
-last-enriched: 2026-04-21
+top-donors: "[[Verizon]], [[BAE Systems]], [[Invitation Homes - Institutional Landlords]], [[Elliott Management]], [[Blackstone Group]], [[Charles Schwab]], [[Google - Alphabet]], [[Microsoft]], [[AbbVie]], [[RNC - Republican National Committee]], [[Enterprise Products Partners]], [[Lockheed Martin]], [[Las Vegas Sands]], [[Amazon]], [[UPS]], [[Citadel - Kenneth Griffin]], [[Fidelity Investments]], [[US CHAMBER OF COMMERCE]], [[ConocoPhillips]], [[CBRE Group]], [[Coinbase]], [[Leidos]], [[Morgan Stanley]], [[Lennar Corporation]], [[US Chamber of Commerce]], [[BETH VAN DUYNE FOR CONGRESS]], [[ROBERT ADERHOLT FOR CONGRESS]], [[TEXANS FOR JODEY ARRINGTON]], [[Humana]], [[DR. BRIAN BABIN FOR CONGRESS]], [[NRA Political Victory Fund]], [[Glenn Thompson]], [[Daniel Meuser]], [[DAVID ROUZER FOR CONGRESS]], [[AIPAC - American Israel Public Affairs Committee]], [[BURCHETT FOR CONGRESS]], [[AUGUST PFLUGER FOR CONGRESS]], [[National Victory Action Fund]], [[National Restaurant Association]], [[Koch Industries]], [[Associated General Contractors of America Political Action Committee]], [[McDonalds Corporation]], [[CLOUD FOR CONGRESS]], [[BEN CLINE FOR CONGRESS, INC.]], [[National Cattlemen's Beef Association]], [[CVS Health - Aetna]], [[Rick Crawford]], [[ADRIAN SMITH FOR CONGRESS]], [[Steve Scalise]], [[Wfw Action Fund, Inc.]], [[Occidental Petroleum]], [[RON ESTES FOR CONGRESS]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[DR JOHN JOYCE FOR CONGRESS]], [[Williams Companies]], [[Women Speak Out Pac]], [[JAKE ELLZEY FOR CONGRESS]], [[Campaign for Working Families]], [[WEBER FOR CONGRESS]], [[Gregory F. Murphy]], [[American Iron and Steel Institute]], [[Guy Reschenthaler]], [[Tyson Foods]], [[American College of Radiology Association PAC]], [[Carol D. Miller]], [[JASON SMITH FOR CONGRESS]], [[BYRON DONALDS FOR CONGRESS]], [[Meta - Facebook]], [[Pfizer Inc.]], [[Nucor Corporation]], [[Amgen Inc]], [[FISCHBACH FOR CONGRESS]], [[Republican Jewish Coalition]], [[Ben Carson]], [[Randy Feenstra]], [[Freedom's Defense Fund]], [[John W. Rose]], [[Akin Gump Strauss Hauer & Feld]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Economic Growth, Tax, and Capital Access"
+  - Economic Growth, Tax, and Capital Access
   - House Committee on Small Business
   - House Committee on Ways and Means
   - Oversight
-  - "Oversight, Investigations, and Regulations"
+  - Oversight, Investigations, and Regulations
   - Tax
   - Trade
   - Work and Welfare

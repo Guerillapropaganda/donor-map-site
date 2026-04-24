@@ -2,7 +2,7 @@
 title: Kevin Cramer
 type: politician
 content-readiness: draft
-last-updated: 2026-04-19
+last-updated: 2026-04-19T00:00:00.000Z
 source-tier: 1
 party: Republican
 chamber: Senate
@@ -21,7 +21,7 @@ known-gaps:
   - ClearPath Action Fund donor motivation (constituency vs. ideological investment) not confirmed
   - AIPAC 70-transaction cycle breakdown not yet pulled
   - RJC 81-transaction breakdown not yet pulled
-central-thesis: "Kevin Cramer is the North Dakota extraction senator whose donor map splits cleanly between ND constituency giving (Lignite Energy Council, Petroleum Marketers, National Cattlemen's Beef) and committee-tribute giving (Goldman Sachs $20K/9 txns for Banking jurisdiction, Northrop/Lockheed/BAE/GD/Raytheon/L3Harris for Armed Forces). AIPAC's 70-transaction relationship ($67K lifetime) and RJC's 81-transaction relationship ($18K) are the vault's most sustained pro-Israel micro-giving patterns for a senator from a state with almost no Jewish constituency."
+central-thesis: Kevin Cramer is the North Dakota extraction senator whose donor map splits cleanly between ND constituency giving (Lignite Energy Council, Petroleum Marketers, National Cattlemen's Beef) and committee-tribute giving (Goldman Sachs $20K/9 txns for Banking jurisdiction, Northrop/Lockheed/BAE/GD/Raytheon/L3Harris for Armed Forces). AIPAC's 70-transaction relationship ($67K lifetime) and RJC's 81-transaction relationship ($18K) are the vault's most sustained pro-Israel micro-giving patterns for a senator from a state with almost no Jewish constituency.
 editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: S8ND00120
@@ -29,25 +29,25 @@ bills-sponsored: 17
 bills-cosponsored: 548
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[Northrop Grumman]], [[Devon Energy]], [[National Association of Realtors]], [[National Multifamily Housing Council]], [[AT&T - WarnerMedia]], [[Lockheed Martin]], [[WinRed]], [[National Cattlemen's Beef Association]], [[Halliburton]], [[Morgan Stanley]], [[American Hospital Association PAC]], [[PG&E - Pacific Gas and Electric]], [[Associated General Contractors of America Political Action Committee]], [[American Chemistry Council, INC]], [[Republican Jewish Coalition]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AbbVie]], [[Microsoft]], [[Walmart - Walton Family]], [[BAE Systems]], [[General Dynamics]], [[Marathon Petroleum]], [[Honeywell]], [[Raytheon (RTX)]], [[Bank of America]], [[L3Harris Technologies]], [[AIPAC - American Israel Public Affairs Committee]], [[Occidental Petroleum]], [[ConocoPhillips]], [[National Rifle Association]], [[Chevron]], [[Clearpath Action Fund, Inc.]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[General Motors]], [[iHeartMedia]], [[McDonalds Corporation]], [[Tzedek PAC]], [[Common Sense for America PAC]], [[Comcast - NBCUniversal]], [[Valero Energy]], [[NextEra Energy]], [[Duke Energy]], [[National Restaurant Association]], [[Citigroup]], [[Care Action]], [[AT&T]], [[Honeywell International]]"
-last-enriched: 2026-04-20
+top-donors: "[[Northrop Grumman]], [[Devon Energy]], [[National Association of Realtors]], [[National Multifamily Housing Council]], [[AT&T - WarnerMedia]], [[Lockheed Martin]], [[WinRed]], [[National Cattlemen's Beef Association]], [[Halliburton]], [[Morgan Stanley]], [[American Hospital Association PAC]], [[PG&E - Pacific Gas and Electric]], [[Associated General Contractors of America Political Action Committee]], [[American Chemistry Council, INC]], [[Republican Jewish Coalition]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AbbVie]], [[Microsoft]], [[Walmart - Walton Family]], [[BAE Systems]], [[General Dynamics]], [[Marathon Petroleum]], [[Honeywell]], [[Raytheon (RTX)]], [[Bank of America]], [[L3Harris Technologies]], [[AIPAC - American Israel Public Affairs Committee]], [[Occidental Petroleum]], [[ConocoPhillips]], [[National Rifle Association]], [[Chevron]], [[Clearpath Action Fund, Inc.]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[General Motors]], [[iHeartMedia]], [[McDonalds Corporation]], [[Tzedek PAC]], [[Common Sense for America PAC]], [[Comcast - NBCUniversal]], [[Valero Energy]], [[NextEra Energy]], [[Duke Energy]], [[National Restaurant Association]], [[Citigroup]], [[Care Action]], [[AT&T]], [[Honeywell International]], [[Raytheon (RTX Corporation)]], [[Kevin Cramer]], [[Monsanto - Bayer]], [[Pfizer Inc.]], [[NRA Political Victory Fund]], [[Meta - Facebook]], [[Koch Industries]], [[Steve Scalise]], [[PETE SESSIONS FOR CONGRESS]], [[Cargill]], [[Southern Company]], [[National Right to Life PAC]], [[Roger Wicker]], [[FreedomWorks for America]], [[Williams Companies]], [[ADM - Archer Daniels Midland]], [[SLF PAC]], [[National Republican Senatorial Committee]], [[Google - Alphabet]], [[Sinclair Broadcast Group]], [[Roger Marshall]], [[Mike Collins]], [[COTTON, THOMAS]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[GEO Group - Private Prison Industrial Complex]], [[Freedom's Defense Fund]], [[John Boehner]], [[Conservative Leadership PAC]], [[National Right to Life Victory Fund]], [[Paul Ryan]], [[Campaign for Working Families]], [[Pete Sessions]], [[American Principles Fund]], [[ESAFUND]], [[Richard Hudson]], [[Club for Growth INC PAC]], [[Brett Guthrie]], [[MCCAUL FOR CONGRESS, INC]], [[Club for Growth]], [[Amgen Inc]], [[ANDY HARRIS FOR CONGRESS]], [[John Thune]], [[DR. BRIAN BABIN FOR CONGRESS]], [[Akin Gump Strauss Hauer & Feld]], [[Donald Trump]], [[Women Speak Out Pac]], [[John R. Carter]]"
+last-enriched: 2026-04-20T00:00:00.000Z
 committees:
   - Airland
-  - "Clean Air, Climate, and Nuclear Innovation and Safety"
+  - Clean Air, Climate, and Nuclear Innovation and Safety
   - Emerging Threats and Capabilities
   - Financial Institutions and Consumer Protection
-  - "Fisheries, Wildlife, and Water"
-  - "Housing, Transportation, and Community Development"
+  - Fisheries, Wildlife, and Water
+  - Housing, Transportation, and Community Development
   - Readiness and Management Support
-  - "Securities, Insurance, and Investment"
+  - Securities, Insurance, and Investment
   - Senate Committee on Armed Services
-  - "Senate Committee on Banking, Housing, and Urban Affairs"
+  - Senate Committee on Banking, Housing, and Urban Affairs
   - Senate Committee on Environment and Public Works
-  - "Senate Committee on Veterans' Affairs"
+  - Senate Committee on Veterans' Affairs
   - Strategic Forces
   - Transportation and Infrastructure
-total-raised: "$13.6M"
-career-total-source: "FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)"
+total-raised: $13.6M
+career-total-source: FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)
 ---
 
 

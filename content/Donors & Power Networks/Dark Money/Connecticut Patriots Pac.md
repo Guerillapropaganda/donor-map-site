@@ -6,11 +6,11 @@ sector: Dark Money
 entity-type: Super PAC
 committee-id: C00804773
 fec-url: https://www.fec.gov/data/committee/C00804773/
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-ie-support: null
 fec-ie-oppose: $5,702,166
-politicians-funded: "[[Richard Blumenthal]]"
+politicians-funded: "[[Richard Blumenthal]], [[THE TARRANCE GROUP, INC.]], [[GRASSROOTS TARGETING]], [[MASON STRATEGIES]], [[SALT BOX STRATEGIES]], [[STATECRAFT PLLC]]"
 related: "[[Richard Blumenthal]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -21,10 +21,10 @@ contributions-to-committees: 11669
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
-total-political-spend: "$2.9M"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2022"
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $2.9M
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2022
 ---
 
 

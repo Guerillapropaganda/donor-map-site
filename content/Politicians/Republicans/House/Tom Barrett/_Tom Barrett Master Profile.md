@@ -19,18 +19,18 @@ source-types:
   - Congress
   - GovTrack
 known-gaps:
-  - "No FEC contribution data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
-top-donors: "[[Chevron]], [[Bank of America]], [[Koch Network - Charles Koch]], [[Anduril Industries]], [[Kelcy Warren - Energy Transfer Partners]], [[CVS Health - Aetna]], [[Kaiser Permanente]], [[General Motors]], [[Ford Motor Company]], [[UPS]], [[Oracle]], [[Charles Schwab]], [[Blackstone Group]], [[CBRE Group]], [[GEO Group - Private Prison Industrial Complex]]"
-last-enriched: 2026-04-21
+top-donors: "[[Chevron]], [[Bank of America]], [[Koch Network - Charles Koch]], [[Anduril Industries]], [[Kelcy Warren - Energy Transfer Partners]], [[CVS Health - Aetna]], [[Kaiser Permanente]], [[General Motors]], [[Ford Motor Company]], [[UPS]], [[Oracle]], [[Charles Schwab]], [[Blackstone Group]], [[CBRE Group]], [[GEO Group - Private Prison Industrial Complex]], [[Tom Emmer]], [[Daniel Meuser]], [[MOORE FOR WEST VIRGINIA, INC.]], [[National Education Association]], [[Carol D. Miller]], [[RON ESTES FOR CONGRESS]], [[DR. BRIAN BABIN FOR CONGRESS]], [[Koch Industries]], [[MCDOWELL FOR CONGRESS]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[Elise Stefanik]], [[WEBER FOR CONGRESS]], [[NATHANIEL MORAN FOR CONGRESS]], [[MARY MILLER FOR CONGRESS]], [[HAGEMAN FOR WYOMING]], [[RICK W. ALLEN FOR CONGRESS]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[JAKE ELLZEY FOR CONGRESS]], [[VERN BUCHANAN FOR CONGRESS]], [[Neal P. Dunn]], [[HOUCHIN FOR CONGRESS]], [[COMER FOR CONGRESS]], [[MIKE HARIDOPOLOS FOR CONGRESS]], [[CRENSHAW, DANIEL]], [[NRA Political Victory Fund]], [[ANDY HARRIS FOR CONGRESS]], [[DR JOHN JOYCE FOR CONGRESS]], [[Harold Rogers]], [[CLIFF BENTZ FOR CONGRESS]], [[BURCHETT FOR CONGRESS]], [[FEDORCHAK FOR ND]], [[CLAUDIA TENNEY FOR CONGRESS]], [[DAVID ROUZER FOR CONGRESS]], [[Club for Growth INC PAC]], [[Guy Reschenthaler]], [[MIKE KENNEDY FOR UTAH]], [[Republican Jewish Coalition]], [[Mariannette Miller-Meeks]], [[National Right to Life Victory Fund]], [[Mark B. Messmer]], [[Tim Walberg]], [[LISA MCCLAIN FOR CONGRESS]], [[Conservative Leadership PAC]], [[Protect Freedom Political Action Committee]], [[Associated General Contractors of America Political Action Committee]], [[FRIENDS OF TIM MOORE]], [[Sierra Club Political Committee]], [[DAVE TAYLOR FOR CONGRESS]], [[National Cattlemen's Beef Association]], [[Bill Huizenga]], [[Freedom's Defense Fund]], [[JASON SMITH FOR CONGRESS]], [[Campaign for Working Families]], [[JIM JORDAN FOR CONGRESS]], [[Steve Scalise]], [[Mike Johnson]], [[Rick Crawford]], [[JOHN JAMES FOR CONGRESS, INC.]], [[ROBERT ADERHOLT FOR CONGRESS]], [[Gregory F. Murphy]], [[Robert E. Latta]], [[PETE SESSIONS FOR CONGRESS]], [[Robert F. Onder]], [[Special Operations for America]], [[Humana]], [[Gus M. Bilirakis]], [[AFL-CIO]], [[BRAD KNOTT FOR CONGRESS]], [[Williams Companies]], [[Michigan Republican Party]], [[Michael Guest]], [[Dale W. Strong]], [[MIKE COLLINS FOR SENATE]], [[KUSTOFF FOR CONGRESS]], [[Michael R. Turner]], [[GLENN GROTHMAN FOR CONGRESS]], [[Ashley Hinson]], [[Lloyd Smucker]], [[BLAKE MOORE FOR CONGRESS]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Kevin McCarthy]], [[Clay Higgins]], [[Robert P. Bresnahan]], [[BEN CLINE FOR CONGRESS, INC.]], [[John J. McGuire]], [[Google - Alphabet]], [[CLYDE FOR CONGRESS, INC.]], [[ADRIAN SMITH FOR CONGRESS]], [[MICHAEL WALTZ FOR CONGRESS]], [[CARLOS GIMENEZ FOR CONGRESS]], [[Brandon Gill]], [[Frank Lucas]], [[Earl L. Buddy Carter]], [[Gun Owners of America]], [[Brett Guthrie]], [[KEVIN KILEY FOR CONGRESS]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Aviation
-  - "Economic Development, Public Buildings, and Emergency Management"
+  - Economic Development, Public Buildings, and Emergency Management
   - Economic Opportunity
   - Highways and Transit
   - House Committee on Transportation and Infrastructure
-  - "House Committee on Veterans' Affairs"
+  - House Committee on Veterans' Affairs
   - Technology Modernization
 bills-sponsored: 32
 corroboration-count: 2

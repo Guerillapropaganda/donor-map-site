@@ -6,11 +6,11 @@ sector: Dark Money
 entity-type: Super PAC
 committee-id: C00786152
 fec-url: https://www.fec.gov/data/committee/C00786152/
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-ie-support: $6,460,099
 fec-ie-oppose: null
-politicians-funded: "[[Katie Britt]]"
+politicians-funded: "[[Katie Britt]], [[WILEY REIN LLP]], [[STRATEGY MANAGEMENT LLC]], [[CYGNAL LLC]], [[SOCKO STRATEGIES LLC]], [[CRAIG GOLDMAN FOR CONGRESS]], [[EBW DEVELOPMENT LLC]], [[America PAC - Elon Musk]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -22,10 +22,10 @@ related: "[[Katie Britt]]"
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
-total-political-spend: "$3.4M"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2022"
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $3.4M
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2022
 ---
 
 

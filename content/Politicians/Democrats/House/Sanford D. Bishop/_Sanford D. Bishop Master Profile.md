@@ -1,37 +1,38 @@
 ---
-title: "Sanford D. Bishop"
+title: Sanford D. Bishop
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Georgia"
-state-abbr: "GA"
+party: Democrat
+chamber: House
+state: Georgia
+state-abbr: GA
 district: "2"
-bioguide-id: "B000490"
+bioguide-id: B000490
 govtrack-id: 400030
 born: "1947-02-04"
-wikidata-id: "Q983428"
-website: "https://bishop.house.gov"
-phone: "202-225-3631"
+wikidata-id: Q983428
+website: https://bishop.house.gov
+phone: 202-225-3631
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 10
 bills-cosponsored: 436
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies"
+  - Agriculture, Rural Development, Food and Drug Administration, and Related Agencies
   - Financial Services and General Government
   - House Committee on Appropriations
-  - "Military Construction, Veterans Affairs, and Related Agencies"
+  - Military Construction, Veterans Affairs, and Related Agencies
+top-donors: "[[National Education Association]], [[CoreCivic]], [[Steny H. Hoyer]], [[Southern States Police Benevolent Assoc PAC Fund]], [[NRA Political Victory Fund]], [[Lizzie Fletcher]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[James E. Clyburn]], [[Henry C. Hank Johnson]], [[AFL-CIO]], [[National Restaurant Association]], [[DEBBIE WASSERMAN SCHULTZ FOR CONGRESS]], [[Pfizer Inc.]], [[Tyson Foods]], [[Hakeem Jeffries]], [[Richard Neal]], [[DEBORAH ROSS FOR CONGRESS]], [[Koch Industries]], [[SHERMAN FOR CONGRESS]], [[Cargill]], [[ADM - Archer Daniels Midland]], [[SARA JACOBS FOR CONGRESS]], [[NANCY PELOSI FOR CONGRESS]], [[BONNIE WATSON COLEMAN FOR CONGRESS]], [[Monsanto - Bayer]], [[Nucor Corporation]], [[National Cattlemen's Beef Association]], [[McDonalds Corporation]], [[J Street]], [[Bennie Thompson]], [[Chellie Pingree]], [[Google - Alphabet]], [[CITIZENS FOR WATERS]], [[Ami Bera]], [[Akin Gump Strauss Hauer & Feld]], [[Humane Society Legislative Fund]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Bradley Scott Schneider]], [[Steve Cohen]], [[Al Green]], [[MFUME FOR CONGRESS]], [[Performance Racing Inc.]], [[AL GREEN FOR CONGRESS]], [[Bechtel Corporation]], [[Gregory Meeks]], [[Southern Company]], [[MAD 4 PA PAC]], [[Frank Pallone]], [[Leidos]], [[Associated General Contractors of America Political Action Committee]], [[Chris van Hollen]], [[DAVID SCOTT FOR CONGRESS]], [[CITIZENS TO ELECT RICK LARSEN]], [[Rosa DeLauro]], [[BARBARA LEE FOR CONGRESS]], [[Adam Schiff]], [[MARCIA FUDGE FOR CONGRESS]], [[Eric Swalwell]], [[Nikema Williams]], [[Robin L. Kelly]], [[MEDICARE FOR ALL]], [[AT&T]], [[GALLEGO FOR ARIZONA]], [[BEATTY FOR CONGRESS]], [[Eleanor Holmes Norton]], [[Xavier Becerra]], [[AbbVie]], [[John B. Larson]], [[TED LIEU FOR CONGRESS]], [[Donald S. Beyer]], [[ADRIANO ESPAILLAT FOR CONGRESS]], [[Troy A. Carter]], [[PETE AGUILAR FOR CONGRESS]], [[Center Forward Committee]], [[House Majority PAC]], [[JIM COSTA FOR CONGRESS]], [[Planned Parenthood Action Fund INC]], [[VIRGIN ISLANDS FOR PLASKETT]], [[Marcy Kaptur]], [[AIPAC - American Israel Public Affairs Committee]], [[Danny K. Davis]], [[Henry Cuellar]], [[Jerrold Nadler]], [[Edward J. Markey]]"
 ---
 
 

@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Israel Lobby
 entity-type: Individual Donor
-politicians-funded: "[[Gavin Newsom]], [[Roger Williams]], [[Patrick McHenry]], [[Jodey Arrington]], [[Michael Cloud]], [[August Pfluger]], [[Guy Reschenthaler]], [[Chip Roy]], [[Nancy Mace]], [[French Hill]], [[Warren Davidson]], [[Ronny Jackson]], [[Ann Wagner]], [[ActBlue]], [[Ralph Norman]], [[Pete Sessions]], [[Ted Cruz]], [[Barry Loudermilk]], [[Dan Crenshaw]], [[Eric Burlison]]"
+politicians-funded: "[[Gavin Newsom]], [[Roger Williams]], [[Patrick McHenry]], [[Jodey Arrington]], [[Michael Cloud]], [[August Pfluger]], [[Guy Reschenthaler]], [[Chip Roy]], [[Nancy Mace]], [[French Hill]], [[Warren Davidson]], [[Ronny Jackson]], [[Ann Wagner]], [[ActBlue]], [[Ralph Norman]], [[Pete Sessions]], [[Ted Cruz]], [[Barry Loudermilk]], [[Dan Crenshaw]], [[Eric Burlison]], [[J. French Hill]]"
 issues:
   - Israel & Foreign Policy
 ofac-sdn-match: "true"
@@ -35,9 +35,9 @@ employee-donor-count: 2
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-total-political-spend: "$32K"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2022, 2024"
+  - No lobbying disclosure data
+total-political-spend: $32K
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2022, 2024
 ---
 
 

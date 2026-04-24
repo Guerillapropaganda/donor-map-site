@@ -11,8 +11,8 @@ fec-committee-id: C00449926
 aliases:
   - AMERICAN FUTURE FUND POLITICAL ACTION
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Jeff Merkley]], [[Mike Flood]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Jeff Merkley]], [[Mike Flood]], [[DMM GROUP LLC]], [[GLOBAL INTERMEDIATE LLC]], [[HOLTZMAN VOGEL JOSEFIAK TORCHINKSY PLLC]], [[HAWTHORN GROUP]], [[North Florida Neighbors]], [[American Future Fund Political Action]], [[Chuck Grassley]], [[Young Kim]], [[Mitch McConnell]], [[Mariannette Miller-Meeks]], [[Todd Young]], [[Randy Feenstra]], [[Maria Elvira Salazar]]"
 related: "[[Jeff Merkley]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -22,9 +22,9 @@ total-spent: 3075
 cash-on-hand: 1568
 source-types:
   - FEC
-last-enriched: 2026-04-21
-total-political-spend: "$1.1M"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 2 store(s), cycles 2010, 2014, 2016, 2018, 2020, 2022"
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $1.1M
+spend-source: aggregated from canonical FEC/IRS edge stores across 2 store(s), cycles 2010, 2014, 2016, 2018, 2020, 2022
 ---
 
 

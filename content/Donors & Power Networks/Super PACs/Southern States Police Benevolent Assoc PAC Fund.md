@@ -11,8 +11,8 @@ fec-committee-id: C00265546
 aliases:
   - SOUTHERN STATES POLICE BENEVOLENT ASSOC PAC FUND
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Bobby Scott]], [[Chuck Edwards]], [[Richard Hudson]], [[Brad Knott]], [[Tim Moore]], [[Brian Jack]], [[Marjorie Taylor Greene]], [[Richard McCormick]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Bobby Scott]], [[Chuck Edwards]], [[Richard Hudson]], [[Brad Knott]], [[Tim Moore]], [[Brian Jack]], [[Marjorie Taylor Greene]], [[Richard McCormick]], [[Southern States Police Benevolent Assoc PAC Fund]], [[Southern Company]], [[Sanford D. Bishop]], [[Ted Budd]], [[Lindsey Graham]], [[Donald G. Davis]], [[Mike Collins]], [[Donald Trump]], [[Austin Scott]], [[Earl L. Buddy Carter]]"
 related: "[[Bobby Scott]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -25,7 +25,7 @@ individual-contributions: 453312
 contributions-to-committees: 5000
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

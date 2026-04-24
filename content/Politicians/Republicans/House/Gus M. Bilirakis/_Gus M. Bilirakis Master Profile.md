@@ -1,38 +1,39 @@
 ---
-title: "Gus M. Bilirakis"
+title: Gus M. Bilirakis
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Florida"
-state-abbr: "FL"
+party: Republican
+chamber: House
+state: Florida
+state-abbr: FL
 district: "12"
-bioguide-id: "B001257"
+bioguide-id: B001257
 govtrack-id: 412250
 born: "1963-02-08"
-wikidata-id: "Q1555314"
-website: "https://bilirakis.house.gov"
-phone: "202-225-5755"
+wikidata-id: Q1555314
+website: https://bilirakis.house.gov
+phone: 202-225-5755
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 33
 bills-cosponsored: 422
 bills-enacted: 1
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Commerce, Manufacturing, and Trade"
+  - Commerce, Manufacturing, and Trade
   - Communications and Technology
   - Health
   - House Committee on Energy and Commerce
   - House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party
+top-donors: "[[Ken Calvert]], [[CVS Health - Aetna]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Education Association]], [[Williams Companies]], [[American College of Radiology Association PAC]], [[AbbVie]], [[Humana]], [[Citigroup]], [[Pfizer Inc.]], [[National Restaurant Association]], [[NRA Political Victory Fund]], [[Amgen Inc]], [[AIPAC - American Israel Public Affairs Committee]], [[Akin Gump Strauss Hauer & Feld]], [[Google - Alphabet]], [[Tyson Foods]], [[National Right to Life PAC]], [[Paul Ryan]], [[Mike Haridopolos]], [[PETE SESSIONS FOR CONGRESS]], [[Koch Industries]], [[JIM JORDAN FOR CONGRESS]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Tzedek PAC]], [[McDonalds Corporation]], [[American Principles Fund]], [[Leidos]], [[Kevin McCarthy]], [[Steve Scalise]], [[Southern Company]], [[Meta - Facebook]], [[Roger Wicker]], [[Associated General Contractors of America Political Action Committee]], [[GEO Group - Private Prison Industrial Complex]], [[ISSA FOR CONGRESS]], [[Darin Lahood]], [[Airbnb]], [[John R. Carter]], [[Sinclair Broadcast Group]], [[Performance Racing Inc.]], [[JASON SMITH FOR CONGRESS]], [[National Cattlemen's Beef Association]], [[Pete Sessions]]"
 ---
 
 

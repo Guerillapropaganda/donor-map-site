@@ -5,14 +5,14 @@ content-readiness: data-complete
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00546911
 aliases:
   - THE MOBILIZATION PROJECT
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Cory Booker]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Cory Booker]], [[ARDLEIGH GROUP]], [[THE PIVOT GROUP, INC.]], [[BLOCK BY BLOCK]]"
 related: "[[Cory Booker]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -21,9 +21,9 @@ urls-first-triaged: "2026-04-15"
 total-spent: 53
 source-types:
   - FEC
-last-enriched: 2026-04-21
-total-political-spend: "$532K"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2014"
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $532K
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2014
 ---
 
 

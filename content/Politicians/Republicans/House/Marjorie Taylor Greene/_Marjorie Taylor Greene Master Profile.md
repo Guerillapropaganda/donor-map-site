@@ -22,11 +22,11 @@ known-gaps:
   - No mapped relationships
 opposes: "[[GEORGIANS FOR STRONG FAMILIES, INC.]] · [[THE LINCOLN PROJECT]] · [[VALUE IN ELECTING WOMEN POLITICAL ACTION COMMITTEE]] · [[A GREAT AMERICA PAC]]"
 related: "[[_Donald Trump Master Profile]] · [[_Matt Gaetz Master Profile|Matt Gaetz]] · [[Freedom Caucus]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
-donors: "[[The Lincoln Project]] · [[THE LINCOLN PROJECT]] · [[GEORGIANS FOR STRONG FAMILIES, INC.]] · [[MAGA Small Dollar Base]] · [[A Great America PAC]] · [[DRAIN THE DC SWAMP PAC]] · [[Drain the DC Swamp PAC]] · [[Save America PAC]] · [[Let America Vote PAC]] · [[Jim Jordan]] · [[MAJORITY PAC]] · [[WinRed]] · [[VIEW PAC - Value in Electing Women]] · [[Ben Cline]] · [[Really American Pac]] · [[Everytown for Gun Safety Victory Fund]] · [[Southern States Police Benevolent Assoc PAC Fund]] · [[National Rifle Association]] · [[Votevets]] · [[Majority PAC]] · [[Georgians for Strong Families]]"
+donors: "[[The Lincoln Project]] · [[THE LINCOLN PROJECT]] · [[GEORGIANS FOR STRONG FAMILIES, INC.]] · [[MAGA Small Dollar Base]] · [[A Great America PAC]] · [[DRAIN THE DC SWAMP PAC]] · [[Drain the DC Swamp PAC]] · [[Save America PAC]] · [[Let America Vote PAC]] · [[Jim Jordan]] · [[MAJORITY PAC]] · [[WinRed]] · [[VIEW PAC - Value in Electing Women]] · [[Ben Cline]] · [[Really American Pac]] · [[Everytown for Gun Safety Victory Fund]] · [[Southern States Police Benevolent Assoc PAC Fund]] · [[National Rifle Association]] · [[Votevets]] · [[Majority PAC]] · [[Georgians for Strong Families]] · [[JIM JORDAN FOR CONGRESS]] · [[FRIENDS OF MATT GAETZ]] · [[Koch Industries]] · [[NRA Political Victory Fund]] · [[Gun Owners of America]] · [[MARY MILLER FOR CONGRESS]] · [[BEN CLINE FOR CONGRESS, INC.]] · [[AUSTIN SCOTT FOR CONGRESS INC]]"
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-20
-total-raised: "$24.2M"
-career-total-source: "FEC weball summary (cycles 2020, 2022, 2024)"
+last-enriched: 2026-04-20T00:00:00.000Z
+total-raised: $24.2M
+career-total-source: FEC weball summary (cycles 2020, 2022, 2024)
 bills-sponsored: 35
 ---
 

@@ -1,39 +1,40 @@
 ---
-title: "Lisa C. McClain"
+title: Lisa C. McClain
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Michigan"
-state-abbr: "MI"
+party: Republican
+chamber: House
+state: Michigan
+state-abbr: MI
 district: "9"
-bioguide-id: "M001136"
+bioguide-id: M001136
 govtrack-id: 456827
 born: "1966-04-07"
-wikidata-id: "Q102184540"
-website: "https://mcclain.house.gov"
-phone: "202-225-2106"
+wikidata-id: Q102184540
+website: https://mcclain.house.gov
+phone: 202-225-2106
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 32
 bills-cosponsored: 187
 bills-enacted: 1
-top-policy-area: "International Affairs"
-last-enriched: 2026-04-21
+top-policy-area: International Affairs
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Capital Markets
-  - "Health, Employment, Labor, and Pensions"
+  - Health, Employment, Labor, and Pensions
   - Higher Education and Workforce Development
   - House Committee on Education and Workforce
   - House Committee on Financial Services
-  - "National Security, Illicit Finance, and International Financial Institutions"
+  - National Security, Illicit Finance, and International Financial Institutions
+top-donors: "[[Associated General Contractors of America Political Action Committee]], [[Leidos]], [[BEN CLINE FOR CONGRESS, INC.]], [[McDonalds Corporation]], [[Amgen Inc]], [[AIPAC - American Israel Public Affairs Committee]], [[Steve Scalise]], [[Darin Lahood]], [[Occidental Petroleum]], [[Koch Industries]], [[Gilead Sciences]], [[Republican Jewish Coalition]], [[Pfizer Inc.]], [[Meta - Facebook]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[NRA Political Victory Fund]], [[J. French Hill]], [[JASON SMITH FOR CONGRESS]], [[Williams Companies]], [[National Victory Action Fund]], [[Defending Main Street Superpac INC]], [[CVS Health - Aetna]], [[Frank Lucas]], [[Google - Alphabet]], [[MOORE FOR WEST VIRGINIA, INC.]], [[National Restaurant Association]], [[BYRON DONALDS FOR CONGRESS]], [[Humana]], [[National Cattlemen's Beef Association]], [[Glenn Thompson]], [[Wfw Action Fund, Inc.]], [[Brett Guthrie]], [[Kevin McCarthy]], [[Performance Racing Inc.]], [[DoorDash]], [[JIM JORDAN FOR CONGRESS]], [[CLAUDIA TENNEY FOR CONGRESS]]"
 ---
 
 

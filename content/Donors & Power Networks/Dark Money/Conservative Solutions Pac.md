@@ -7,11 +7,11 @@ entity-type: Super PAC
 committee-type: Super PAC (Independent Expenditure-Only)
 committee-id: C00541292
 fec-url: https://www.fec.gov/data/committee/C00541292/
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-ie-support: "null"
 fec-ie-oppose: $6,643,036
-politicians-funded: "[[Chris Christie]]"
+politicians-funded: "[[Chris Christie]], [[THE GULA GRAHAM GROUP]], [[RED SEA, LLC]], [[COLD SPARK MEDIA, INC.]], [[J. WARREN TOMPKINS, INC.]], [[FOLEY & LARDNER, LLP]], [[Chris Larsen]], [[527 SERVICES CORPORATION]], [[ZDB, INC.]], [[Robert Mercer]], [[HAMMERSTONE GROUP]], [[ON THE MARK DIRECT, LLC]], [[BASSWOOD RESEARCH]], [[BASK DIGITAL MEDIA, LLC]], [[Forbes Tate Partners]], [[EDONATIONS]], [[TARGET ENTERPRISES, LLC]], [[Marco Rubio]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -22,8 +22,8 @@ related: "[[Chris Christie]]"
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

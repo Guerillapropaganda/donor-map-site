@@ -10,8 +10,8 @@ source-tier: 1
 aliases:
   - WITH HONOR FUND, INC.
 known-gaps:
-  - "No lobbying disclosure data"
-  - "No mapped relationships"
+  - No lobbying disclosure data
+  - No mapped relationships
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -23,10 +23,10 @@ contributions-to-committees: 5891512
 employee-contributions: 1
 employee-contributions-total: 10
 employee-donor-count: 1
-politicians-funded: "[[Jason Crow]], [[Chrissy Houlahan]], [[Jimmy Panetta]], [[Michael Waltz]], [[Brian Mast]], [[Patrick Ryan]]"
+politicians-funded: "[[Jason Crow]], [[Chrissy Houlahan]], [[Jimmy Panetta]], [[Michael Waltz]], [[Brian Mast]], [[Patrick Ryan]], [[SCHOEN SURVEY RESEARCH LLC]], [[Johnson & Johnson]], [[David McIntosh]], [[PUBLIC OPINION STRATEGIES, LLC]], [[ANZALONE LISZT GROVE RESEARCH, INC.]], [[GREENBERG QUINLAN ROSNER RESEARCH, INC.]], [[CAMPBELL, LORI]], [[BLACKBAUD, INC.]], [[Campaign for Community Change]], [[SOURCED STRATEGIES LLC]], [[MAHONY, JOHN]], [[NORMINGTON, PETTS & ASSOCIATES]], [[SCHOEN CONSULTING]], [[House Majority PAC]], [[ADP]], [[JAMESTOWN ASSOCIATES]], [[US TREASURY]], [[MOODY FOR FLORIDA]], [[NMB RESEARCH LLC]], [[CROWDSKOUT]], [[MININO PRODUCTIONS LLC]], [[TORMIMA LLC]], [[GBAO STRATEGIES]], [[CYGNAL LLC]], [[EMC RESEARCH INC.]], [[GLOBAL STRATEGY GROUP LLC]], [[EXPEDITION STRATEGIES]], [[CASCADE STRATEGIES, LLC]], [[CONVERGENCE MEDIA LLC]], [[PROBERT, EDWARD W. MR. JR.]], [[HARPER POLLING, LLC]], [[PUBLIC POLICY POLLING]], [[THE MORNING GROUP LLC]], [[WITH HONOR ACTION, INC.]], [[BLUE AMP STRATEGIES LLC]], [[RAGNAR RESEARCH PARTNERS, LLC]], [[ARTHUR J. GALLAGHER & CO.]], [[BH MOBILE LLC]], [[PROBERT, EDWARD W.]], [[WATERFRONT STRATEGIES]], [[HELM]], [[America PAC - Elon Musk]], [[KARP, JORDAN]], [[HART RESEARCH ASSOCIATES]], [[Squire Patton Boggs]], [[ZENG, ELLEN]], [[BARCOTT, RYE]], [[FAISON, JAY W.]], [[ALEXION FISCHER, LLC]], [[CORPS TEAM]], [[FORTIUM PARTNERS LP]], [[American Homes 4 Rent]], [[PROBERT, EDWARD]], [[PROJECT APPLECART LLC]], [[WITH HONOR ACTION, INC. C4]], [[EMC RESEARCH]], [[TARGETSMART COMMUNICATIONS]], [[CAPLIN & DRYSDALE]], [[KOCH & HOOS, LLC]], [[Jared F. Golden]], [[Jake Auchincloss]], [[Gilbert Ray Cisneros]], [[W. Gregory Steube]], [[August Pfluger]], [[Mark E. Amodei]], [[Salud O. Carbajal]], [[Donald G. Davis]], [[Nick Lalota]], [[Dan Crenshaw]], [[Tony Gonzales]], [[Scott Franklin]], [[Mariannette Miller-Meeks]], [[James R. Baird]], [[Don Bacon]], [[Jack Bergman]], [[Seth Moulton]]"
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

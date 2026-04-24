@@ -18,24 +18,24 @@ phone: 202-225-2701
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2OK02315
 bills-sponsored: 19
 bills-cosponsored: 273
 bills-enacted: 0
 top-policy-area: Government Operations and Politics
-top-donors: "[[National Rifle Association]], [[Microsoft]], [[Jake Ellzey]], [[AIPAC - American Israel Public Affairs Committee]], [[National Association of Realtors]], [[Jim Jordan]], [[Anthem - Elevance Health]], [[MAJORITY PAC]], [[Club for Growth INC PAC]], [[AT&T - WarnerMedia]], [[Alliance Coal, LLC PAC]], [[Devon Energy]], [[Tyson Foods]], [[National Restaurant Association]], [[ConocoPhillips]], [[Amgen Inc]], [[AT&T]], [[Majority PAC]]"
-last-enriched: 2026-04-21
+top-donors: "[[National Rifle Association]], [[Microsoft]], [[Jake Ellzey]], [[AIPAC - American Israel Public Affairs Committee]], [[National Association of Realtors]], [[Jim Jordan]], [[Anthem - Elevance Health]], [[MAJORITY PAC]], [[Club for Growth INC PAC]], [[AT&T - WarnerMedia]], [[Alliance Coal, LLC PAC]], [[Devon Energy]], [[Tyson Foods]], [[National Restaurant Association]], [[ConocoPhillips]], [[Amgen Inc]], [[AT&T]], [[Majority PAC]], [[Guy Reschenthaler]], [[Frank Lucas]], [[Richard Hudson]], [[Williams Companies]], [[NRA Political Victory Fund]], [[TEXANS FOR JODEY ARRINGTON]], [[Steve Scalise]], [[JAKE ELLZEY FOR CONGRESS]], [[JIM JORDAN FOR CONGRESS]], [[American Principles Fund]], [[HAGEMAN FOR WYOMING]], [[MARY MILLER FOR CONGRESS]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Emergency Management and Technology
   - House Committee on Homeland Security
   - House Committee on the Budget
-  - "Oversight, Investigations, and Accountability"
-total-raised: "$1.2M"
-career-total-source: "FEC weball summary (cycles 2022, 2024, 2026)"
+  - Oversight, Investigations, and Accountability
+total-raised: $1.2M
+career-total-source: FEC weball summary (cycles 2022, 2024, 2026)
 ---
 
 

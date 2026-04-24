@@ -19,13 +19,13 @@ top-donors:
   - Financial Services Donors
   - Pharmaceutical Industry
   - AIPAC
-donors: "[[ADM - Archer Daniels Midland]], [[Legal Sector Donors]], [[Financial Services Donors]], [[Pharmaceutical Industry]]"
+donors: "[[ADM - Archer Daniels Midland]], [[Legal Sector Donors]], [[Financial Services Donors]], [[Pharmaceutical Industry]], [[Americas Pac]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Blue Shield of California]], [[Pfizer Inc.]], [[Humana]], [[National Cattlemen's Beef Association]], [[J Street]], [[American College of Radiology Association PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Rosa DeLauro]], [[Meta - Facebook]], [[Giffords PAC]], [[AFL-CIO]], [[Democratic Senatorial Campaign Committee]], [[NANCY PELOSI FOR CONGRESS]], [[GEO Group - Private Prison Industrial Complex]], [[Akin Gump Strauss Hauer & Feld]], [[CVS Health - Aetna]], [[Monsanto - Bayer]], [[Bechtel Corporation]], [[Nucor Corporation]], [[Sierra Club Political Committee]], [[American Iron and Steel Institute]], [[AbbVie]], [[Southern Company]], [[Raja Krishnamoorthi]], [[MBNA Corporation]], [[Google - Alphabet]], [[National Restaurant Association]], [[National Education Association]], [[Planned Parenthood Action Fund INC]], [[Tyson Foods]], [[Cargill]], [[McDonalds Corporation]], [[Sinclair Broadcast Group]], [[League of Conservation Voters]], [[Rahm Emanuel]], [[Let America Vote PAC]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[Harry Reid]], [[Goldman Sachs]], [[Edward J. Markey]], [[Angus S. King]], [[Bacardi - Bacardi USA]], [[Environment America INC]], [[Leidos]], [[Williams Companies]], [[Amgen Inc]], [[Associated General Contractors of America Political Action Committee]]"
 related: "[[Tammy Duckworth]] · [[The Pritzker Machine and Illinois Democratic Power]] · [[Financial Services Donors]] · [[Legal Sector Donors]] · [[Pharmaceutical Industry]] · [[_Chuck Schumer Master Profile|Schumer]] · [[_Joe Biden Master Profile|Biden]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Patty Murray Master Profile|Murray]] · [[Juliana Stratton]]"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline; run congress pipeline; run pipelines
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-20
+last-enriched: 2026-04-20T00:00:00.000Z
 ---
 
 

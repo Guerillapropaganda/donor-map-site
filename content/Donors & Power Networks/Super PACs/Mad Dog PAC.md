@@ -11,8 +11,8 @@ fec-committee-id: C00663211
 aliases:
   - MAD DOG PAC
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Steve Scalise]], [[Mad Dog PAC]], [[Donald Trump]], [[Kevin McCarthy]], [[Josh Hawley]], [[Rick Scott]], [[Ted Cruz]], [[Matt Gaetz]], [[Kamala Harris]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Steve Scalise]], [[Mad Dog PAC]], [[Donald Trump]], [[Kevin McCarthy]], [[Josh Hawley]], [[Rick Scott]], [[Ted Cruz]], [[Matt Gaetz]], [[Kamala Harris]], [[TAYLOR, CLAUDE]], [[OUTFRONT MEDIA INC.]], [[Independent Leadership for New Hampshire PAC]], [[SRIPLAW]], [[MATRIX MEDIA SERVICES]], [[NO PRIOR RESTRAINT, LLC]], [[Direct Selling Empowers Americans]], [[OUTFRONT MEDIA ADVERTISING]], [[FII MARKETING]], [[Joe Biden]]"
 related: "[[Steve Scalise]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -27,7 +27,7 @@ employee-contributions-total: 1782
 employee-donor-count: 2
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

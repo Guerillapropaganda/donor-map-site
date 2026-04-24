@@ -5,14 +5,14 @@ content-readiness: data-complete
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00875856
 aliases:
   - COMMONWEALTH UNITY FUND
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Elizabeth Warren]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Elizabeth Warren]], [[CYGNAL]], [[NORTHEAST STRATEGIES LLC]], [[WILEY REIN LLP]], [[GEMINI TRUST COMPANY LLC]], [[CUNNINGHAM, CAROLINE]], [[18TH STREET MEDIA LLC]]"
 related: "[[Elizabeth Warren]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -24,7 +24,7 @@ independent-expenditures: 2111275
 individual-contributions: 2624000
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

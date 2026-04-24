@@ -1,45 +1,46 @@
 ---
-title: "John R. Curtis"
+title: John R. Curtis
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "Senate"
-state: "Utah"
-state-abbr: "UT"
-bioguide-id: "C001114"
+party: Republican
+chamber: Senate
+state: Utah
+state-abbr: UT
+bioguide-id: C001114
 govtrack-id: 412740
 born: "1960-05-10"
-wikidata-id: "Q6253810"
-website: "https://www.curtis.senate.gov"
-phone: "202-224-5251"
+wikidata-id: Q6253810
+website: https://www.curtis.senate.gov
+phone: 202-224-5251
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 50
 bills-cosponsored: 194
 bills-enacted: 0
-top-policy-area: "Public Lands and Natural Resources"
-last-enriched: 2026-04-21
+top-policy-area: Public Lands and Natural Resources
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Chemical Safety, Waste Management, Environmental Justice, and Regulatory Oversight"
-  - "Clean Air, Climate, and Nuclear Innovation and Safety"
-  - "Coast Guard, Maritime, and Fisheries"
-  - "Consumer Protection, Technology, and Data Privacy"
-  - "East Asia, the Pacific, and International Cybersecurity Policy"
+  - Chemical Safety, Waste Management, Environmental Justice, and Regulatory Oversight
+  - Clean Air, Climate, and Nuclear Innovation and Safety
+  - Coast Guard, Maritime, and Fisheries
+  - Consumer Protection, Technology, and Data Privacy
+  - East Asia, the Pacific, and International Cybersecurity Policy
   - Europe and Regional Security Cooperation
-  - "Senate Committee on Commerce, Science, and Transportation"
+  - Senate Committee on Commerce, Science, and Transportation
   - Senate Committee on Environment and Public Works
   - Senate Committee on Foreign Relations
   - Senate Committee on Small Business and Entrepreneurship
   - Telecommunications and Media
   - Transportation and Infrastructure
-  - "Western Hemisphere, Transnational Crime, Civilian Security, Democracy, Human Rights, and Global Women's Issues"
+  - Western Hemisphere, Transnational Crime, Civilian Security, Democracy, Human Rights, and Global Women's Issues
+top-donors: "[[Tom Emmer]], [[Occidental Petroleum]], [[Pfizer Inc.]], [[Leidos]], [[Associated General Contractors of America Political Action Committee]], [[National Restaurant Association]], [[Meta - Facebook]], [[American Gaming Association]], [[Steve Scalise]], [[CVS Health - Aetna]], [[Humana]], [[NRA Political Victory Fund]], [[Amgen Inc]], [[Tzedek PAC]], [[Clearpath Action Fund, Inc.]], [[Dan Newhouse]], [[BYRON DONALDS FOR CONGRESS]], [[McDonalds Corporation]], [[Google - Alphabet]], [[National Association of Manufacturers]], [[Williams Companies]], [[National Cattlemen's Beef Association]], [[Nucor Corporation]], [[MCCAUL FOR CONGRESS, INC]], [[Darin Lahood]], [[AIPAC - American Israel Public Affairs Committee]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Gilead Sciences]], [[Progressive Turnout Project]], [[Koch Industries]], [[Common Sense for America PAC]], [[JASON SMITH FOR CONGRESS]], [[American College of Radiology Association PAC]], [[Blue Shield of California]], [[TEXANS FOR JODEY ARRINGTON]], [[Performance Racing Inc.]], [[Kevin McCarthy]], [[Defend American Jobs]], [[AbbVie]], [[Defending Main Street Superpac INC]], [[National Wildlife Federation Action Fund]], [[Edf Action Votes]], [[JOE WILSON FOR CONGRESS]], [[Sinclair Broadcast Group]], [[Southern Company]]"
 ---
 
 

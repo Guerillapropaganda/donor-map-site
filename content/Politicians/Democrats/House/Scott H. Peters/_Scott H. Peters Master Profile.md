@@ -1,38 +1,39 @@
 ---
-title: "Scott H. Peters"
+title: Scott H. Peters
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "California"
-state-abbr: "CA"
+party: Democrat
+chamber: House
+state: California
+state-abbr: CA
 district: "50"
-bioguide-id: "P000608"
+bioguide-id: P000608
 govtrack-id: 412523
 born: "1958-06-17"
-wikidata-id: "Q3791514"
-website: "https://scottpeters.house.gov"
-phone: "202-225-0508"
+wikidata-id: Q3791514
+website: https://scottpeters.house.gov
+phone: 202-225-0508
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 26
 bills-cosponsored: 497
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Communications and Technology
   - Energy
   - Environment
   - House Committee on Energy and Commerce
   - House Committee on the Budget
+top-donors: "[[Let America Vote PAC]], [[Environment America INC]], [[MATSUI FOR CONGRESS]], [[Amgen Inc]], [[Planned Parenthood Action Fund INC]], [[AbbVie]], [[Steny H. Hoyer]], [[Humane Society Legislative Fund]], [[American College of Radiology Association PAC]], [[J Street]], [[NANCY PELOSI FOR CONGRESS]], [[HIMES FOR CONGRESS]], [[Pfizer Inc.]], [[McDonalds Corporation]], [[League of Conservation Voters]], [[AFL-CIO]], [[Google - Alphabet]], [[Gilead Sciences]], [[Frank Pallone]], [[Akin Gump Strauss Hauer & Feld]], [[AIPAC - American Israel Public Affairs Committee]], [[DIANA DEGETTE FOR CONGRESS]], [[Leidos]], [[CVS Health - Aetna]], [[HUFFMAN FOR CONGRESS 2012 EXPLORATORY COMMITTEE]], [[LOFGREN FOR CONGRESS]], [[JIM COSTA FOR CONGRESS]], [[Sierra Club Political Committee]], [[National Restaurant Association]], [[SINEMA FOR ARIZONA]], [[Adam Smith]], [[Blue Shield of California]], [[Janice D. Schakowsky]], [[Williams Companies]], [[Jerrold Nadler]], [[Eric Swalwell]], [[DEBBIE WASSERMAN SCHULTZ FOR CONGRESS]], [[Juan Vargas]], [[GALLEGO FOR ARIZONA]], [[Richard Neal]], [[Performance Racing Inc.]], [[Southern Company]], [[James E. Clyburn]], [[National Education Association]], [[Jerry Nadler]], [[Hakeem Jeffries]], [[JUDY CHU FOR CONGRESS]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Cattlemen's Beef Association]], [[Humana]], [[CASTOR FOR CONGRESS]], [[Meta - Facebook]], [[National Association of Manufacturers]], [[Tulsi Gabbard]], [[Henry Cuellar]], [[Tim Walz]], [[Rosa DeLauro]], [[COURTNEY, JOSEPH]], [[MARK TAKANO FOR CONGRESS]], [[CASTRO FOR CONGRESS]], [[Center Forward Committee]], [[Raul Ruiz]], [[Monsanto - Bayer]], [[National Nurses United]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[National Nurses United for Patient Protection]], [[HUFFMAN FOR CONGRESS]], [[DOGGETT FOR U S CONGRESS COMMITTEE]], [[BARBARA LEE FOR CONGRESS]], [[MIKE THOMPSON FOR CONGRESS]], [[Marcy Kaptur]], [[BILL FOSTER FOR CONGRESS]], [[CITIZENS FOR WATERS]], [[Associated General Contractors of America Political Action Committee]]"
 ---
 
 

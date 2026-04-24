@@ -11,8 +11,8 @@ fec-committee-id: C00452383
 aliases:
   - FAMILY RESEARCH COUNCIL ACTION POLITICAL ACTION COMMITTEE
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Frank Pallone]], [[James Lankford]], [[Scott Perry]], [[Andy Biggs]], [[Mike Lee]], [[Chip Roy]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Frank Pallone]], [[James Lankford]], [[Scott Perry]], [[Andy Biggs]], [[Mike Lee]], [[Chip Roy]], [[Tom Cotton]], [[Marsha Blackburn]], [[Kristi Noem]], [[Michael Cloud]], [[John Boozman]], [[Roger Marshall]], [[Barry Loudermilk]], [[Christopher H. Smith]], [[W. Gregory Steube]], [[Ben Cline]], [[Scott Desjarlais]], [[Andy Harris]], [[Thom Tillis]], [[Tim Walberg]], [[Bill Huizenga]], [[Tommy Tuberville]], [[Tim Scott]], [[Steve Daines]], [[Virginia Foxx]], [[John James]], [[Steve Scalise]], [[Mike Kelly]], [[Mitch McConnell]], [[Marco Rubio]], [[Josh Hawley]], [[Claudia Tenney]], [[Russ Fulcher]], [[Don Bacon]], [[David Schweikert]], [[Daniel Webster]], [[Chuck Grassley]], [[Robert E. Latta]], [[Andy Barr]], [[Cathy McMorris Rodgers]], [[Roger Wicker]], [[Marlin A. Stutzman]], [[Mike Johnson]], [[Michelle Fischbach]], [[Gregory F. Murphy]], [[Lindsey Graham]], [[Ron DeSantis]], [[Ted Cruz]], [[Gary J. Palmer]], [[Jim Banks]], [[Ted Budd]], [[Todd Young]], [[Joni Ernst]], [[Mark Green]], [[John Thune]], [[Robert B. Aderholt]], [[Rick Crawford]], [[Mary E. Miller]], [[Ralph Norman]], [[H. Morgan Griffith]], [[Bruce Westerman]], [[Jim Jordan]], [[Mike Pompeo]], [[Richard Hudson]], [[Mark Harris]], [[Dan Sullivan]], [[Deb Fischer]]"
 related: "[[Frank Pallone]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

@@ -11,8 +11,8 @@ fec-committee-id: C00540203
 aliases:
   - DEFENDING MAIN STREET SUPERPAC INC
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Shelley Moore Capito]], [[Julie Fedorchak]], [[Brad Finstad]], [[Ken Calvert]], [[Josh Riley]], [[Dan Newhouse]], [[Celeste Maloy]], [[Troy Downing]], [[Mike Levin]], [[Tom Cole]], [[Derek Tran]], [[Mariannette Miller-Meeks]], [[Dusty Johnson]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Shelley Moore Capito]], [[Julie Fedorchak]], [[Brad Finstad]], [[Ken Calvert]], [[Josh Riley]], [[Dan Newhouse]], [[Celeste Maloy]], [[Troy Downing]], [[Mike Levin]], [[Tom Cole]], [[Derek Tran]], [[Mariannette Miller-Meeks]], [[Dusty Johnson]], [[JAMR]], [[CHAMBERLAIN, SARAH]], [[GRASSROOTS TARGETING]], [[JAMES FOR MI-10]], [[CHASE CARD SERVICES]], [[MAI & ASSOCIATES LLC]], [[PETRICH, BRYAN]], [[HONOLD COMMUNICATIONS]], [[MERRILL , LLC]], [[ETHOS ADVISORS, LLC]], [[KILLBUCK STRATEGIES]], [[SGD LLC]], [[FLY COMMUNICATIONS, INC.]], [[American Homes 4 Rent]], [[LILLY & COMPANY]], [[VNF SOLUTIONS LLC]], [[FULCRUM CAMPAIGN STRATEGIES]], [[Republican Jewish Coalition]], [[THE RITZ CARLTON - AMELIA ISLAND]], [[THE TARRANCE GROUP]], [[GRAND VALLEY CONSULTING LLC]], [[GILBERT & WOLFAND, PC]], [[PUBLIC OPINION STRATEGIES]], [[Troy Balderson]], [[David P. Joyce]], [[Todd Young]], [[Michael K. Simpson]], [[Brian K. Fitzpatrick]], [[Maria Elvira Salazar]], [[David G. Valadao]], [[Andrew R. Garbarino]], [[Lee Zeldin]], [[Roger Marshall]], [[Lisa C. McClain]], [[John J. McGuire]], [[Don Bacon]], [[Mike Bost]], [[Carol D. Miller]], [[Jake Ellzey]], [[Cliff Bentz]], [[Michael A. Rulli]], [[John R. Curtis]], [[Blake D. Moore]]"
 ofac-sdn-match: "true"
 last-enriched: "2026-04-15"
 ofac-programs:

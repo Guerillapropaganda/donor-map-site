@@ -18,16 +18,16 @@ phone: 202-225-5015
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 38
 bills-cosponsored: 251
 bills-enacted: 1
 top-policy-area: Health
-top-donors: "[[CVS Health - Aetna]], [[US CHAMBER OF COMMERCE]], [[NextEra Energy]], [[Microsoft]], [[Morgan Stanley]], [[Ballard Partners]], [[Blackstone Group]], [[Fanjul Family - Florida Crystals]], [[National Multifamily Housing Council]], [[McDonalds Corporation]], [[US Chamber of Commerce]]"
-last-enriched: 2026-04-21
+top-donors: "[[CVS Health - Aetna]], [[US CHAMBER OF COMMERCE]], [[NextEra Energy]], [[Microsoft]], [[Morgan Stanley]], [[Ballard Partners]], [[Blackstone Group]], [[Fanjul Family - Florida Crystals]], [[National Multifamily Housing Council]], [[McDonalds Corporation]], [[US Chamber of Commerce]], [[Akin Gump Strauss Hauer & Feld]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[Humana]], [[American College of Radiology Association PAC]], [[GARY PALMER FOR CONGRESS]], [[Associated General Contractors of America Political Action Committee]], [[NRA Political Victory Fund]], [[COLE FOR CONGRESS]], [[Campaign for Working Families]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[KAY GRANGER CAMPAIGN FUND]], [[National Right to Life Victory Fund]], [[Koch Industries]], [[Amgen Inc]], [[DR. BRIAN BABIN FOR CONGRESS]], [[Southern Company]], [[Humane Society Legislative Fund]], [[Pfizer Inc.]], [[AbbVie]], [[National Restaurant Association]], [[Gilead Sciences]], [[GEO Group - Private Prison Industrial Complex]], [[Mike Johnson]], [[PETE SESSIONS FOR CONGRESS]], [[Roger Wicker]], [[Williams Companies]], [[Rick Crawford]], [[ROGER WILLIAMS FOR U S CONGRESS COMMITTEE]], [[ADRIAN SMITH FOR CONGRESS]], [[Google - Alphabet]], [[JASON SMITH FOR CONGRESS]], [[National Cattlemen's Beef Association]], [[National Right to Life PAC]], [[National Association of Manufacturers]], [[JOE WILSON FOR CONGRESS]], [[Bacardi - Bacardi USA]], [[Darin Lahood]], [[MARIO DIAZ-BALART FOR CONGRESS]], [[National Education Association]], [[Pete Sessions]], [[TEXANS FOR JODEY ARRINGTON]], [[Kevin McCarthy]], [[Neal P. Dunn]], [[Steve Scalise]], [[AIPAC - American Israel Public Affairs Committee]], [[FRIENDS OF MATT GAETZ]], [[BEN CLINE FOR CONGRESS, INC.]], [[Gun Owners of America]], [[Glenn Thompson]], [[Frank Lucas]], [[Donald Trump]], [[MICHAEL WALTZ FOR CONGRESS]], [[Environment America INC]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Health
   - House Committee on Ways and Means

@@ -11,7 +11,7 @@ last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-ie-support: "null"
 fec-ie-oppose: $33,935,549
-politicians-funded: "[[Donald Trump]], [[ActBlue]], [[Raphael Warnock]]"
+politicians-funded: "[[Donald Trump]], [[ActBlue]], [[Raphael Warnock]], [[LILY POND STRATEGIES]], [[AB PAC]]"
 related: "[[Donald Trump]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -27,8 +27,8 @@ employee-donor-count: 1
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

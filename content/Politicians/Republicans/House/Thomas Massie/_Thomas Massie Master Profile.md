@@ -18,27 +18,27 @@ phone: 202-225-3465
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2KY04121
 bills-sponsored: 25
 bills-cosponsored: 85
 bills-enacted: 0
 top-policy-area: Crime and Law Enforcement
-top-donors: "[[iHeartMedia]], [[MAJORITY PAC]], [[Save America PAC]], [[WinRed]], [[AbbVie]], [[Really American Pac]], [[Associated General Contractors of America Political Action Committee]], [[Jim Jordan]], [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]], [[National Association of Realtors]], [[General Motors]], [[United Democracy Project - UDP]], [[Eric Burlison]], [[David Rouzer]], [[Cargill]], [[Coinbase]], [[Meta - Facebook]], [[YouTube]], [[Google - Alphabet]], [[Apple]], [[a16z - Andreessen Horowitz]], [[Starbucks]], [[Lockheed Martin]], [[Centene Corporation]], [[Oracle]], [[Pfizer Inc.]], [[SpaceX]], [[Comcast - NBCUniversal]], [[Hospital Corporation of America - HCA]], [[Raytheon (RTX Corporation)]], [[Humana]], [[Northrop Grumman]], [[Tyson Foods]], [[UPS]], [[Airbnb]], [[Kaiser Permanente]], [[MassMutual]], [[Microsoft]], [[AT&T]], [[Walt Disney Company]], [[BAE Systems]], [[Fidelity Investments]], [[Tesla - Elon Musk Political Operation]], [[Bank of America]], [[Amazon]], [[Majority PAC]], [[Protect Freedom Political Action Committee]]"
-last-enriched: 2026-04-21
+top-donors: "[[iHeartMedia]], [[MAJORITY PAC]], [[Save America PAC]], [[WinRed]], [[AbbVie]], [[Really American Pac]], [[Associated General Contractors of America Political Action Committee]], [[Jim Jordan]], [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]], [[National Association of Realtors]], [[General Motors]], [[United Democracy Project - UDP]], [[Eric Burlison]], [[David Rouzer]], [[Cargill]], [[Coinbase]], [[Meta - Facebook]], [[YouTube]], [[Google - Alphabet]], [[Apple]], [[a16z - Andreessen Horowitz]], [[Starbucks]], [[Lockheed Martin]], [[Centene Corporation]], [[Oracle]], [[Pfizer Inc.]], [[SpaceX]], [[Comcast - NBCUniversal]], [[Hospital Corporation of America - HCA]], [[Raytheon (RTX Corporation)]], [[Humana]], [[Northrop Grumman]], [[Tyson Foods]], [[UPS]], [[Airbnb]], [[Kaiser Permanente]], [[MassMutual]], [[Microsoft]], [[AT&T]], [[Walt Disney Company]], [[BAE Systems]], [[Fidelity Investments]], [[Tesla - Elon Musk Political Operation]], [[Bank of America]], [[Amazon]], [[Majority PAC]], [[Protect Freedom Political Action Committee]], [[THOMAS MASSIE FOR CONGRESS]], [[Gun Owners of America]], [[Rand Paul]], [[Amgen Inc]], [[JIM JORDAN FOR CONGRESS]], [[Club for Growth INC PAC]], [[DAVID ROUZER FOR CONGRESS]], [[FreedomWorks for America]], [[NRA Political Victory Fund]], [[RAND PAUL FOR US SENATE]], [[Steve Scalise]], [[John Boehner]], [[National Cattlemen's Beef Association]], [[FRIENDS OF MATT GAETZ]], [[Koch Industries]], [[National Restaurant Association]], [[Nucor Corporation]], [[Brett Guthrie]], [[Madison Project Inc.]], [[ERIC BURLISON FOR CONGRESS]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Aviation
-  - "Courts, Intellectual Property, Artificial Intelligence, and the Internet"
+  - Courts, Intellectual Property, Artificial Intelligence, and the Internet
   - Highways and Transit
   - House Committee on Transportation and Infrastructure
   - House Committee on the Judiciary
   - The Constitution and Limited Government
   - Water Resources and Environment
-total-raised: "$11.5M"
-career-total-source: "FEC weball summary (cycles 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+total-raised: $11.5M
+career-total-source: FEC weball summary (cycles 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

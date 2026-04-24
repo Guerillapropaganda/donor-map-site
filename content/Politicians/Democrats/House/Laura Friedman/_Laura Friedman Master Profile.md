@@ -20,22 +20,22 @@ source-types:
   - FEC
   - GovTrack
 known-gaps:
-  - "No mapped relationships"
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4CA30149
 total-raised: 28500
 total-spent: 22500
 cash-on-hand: 6000
 contributions-to-committees: 1000
-top-donors: "[[NEA Fund for Children and Public Education]], [[Robert Garcia]], [[Unite Here Tip Campaign Committee]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[National Multifamily Housing Council]], [[J Street]], [[Kevin Mullin]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[Teamsters - International Brotherhood of Teamsters]], [[Congressional Progressive Caucus PAC]], [[Sierra Club Independent Action]], [[American Hospital Association PAC]], [[Medicare for All - The Policy That Broke the Party]], [[AT&T - WarnerMedia]], [[National Association of Realtors]], [[ENVIRONMENT AMERICA INC]], [[Let America Vote PAC]], [[DMFI - Democratic Majority for Israel]], [[Judy Chu]], [[National Nurses United]], [[Pfizer Inc.]], [[American Federation of State County & Municipal Employees P E O P L E]], [[General Dynamics]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[UA Political Action Committee]], [[Food and Water Action]], [[League of Conservation Voters]], [[Courage California Super Pac]], [[Sierra Club Political Committee]], [[SEIU COPE]], [[Kaiser Permanente]], [[SpaceX]], [[Walt Disney Company]], [[Google - Alphabet]], [[Verizon]], [[Bank of America]], [[Apple]], [[Raytheon (RTX Corporation)]], [[AT&T]], [[Comcast - NBCUniversal]], [[PG&E - Pacific Gas and Electric]], [[CBRE Group]], [[Ford Motor Company]], [[Environment America INC]], [[American Federation of State County & Municipal Employees  P E O P L E]]"
-last-enriched: 2026-04-21
+top-donors: "[[NEA Fund for Children and Public Education]], [[Robert Garcia]], [[Unite Here Tip Campaign Committee]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[National Multifamily Housing Council]], [[J Street]], [[Kevin Mullin]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[Teamsters - International Brotherhood of Teamsters]], [[Congressional Progressive Caucus PAC]], [[Sierra Club Independent Action]], [[American Hospital Association PAC]], [[Medicare for All - The Policy That Broke the Party]], [[AT&T - WarnerMedia]], [[National Association of Realtors]], [[ENVIRONMENT AMERICA INC]], [[Let America Vote PAC]], [[DMFI - Democratic Majority for Israel]], [[Judy Chu]], [[National Nurses United]], [[Pfizer Inc.]], [[American Federation of State County & Municipal Employees P E O P L E]], [[General Dynamics]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[UA Political Action Committee]], [[Food and Water Action]], [[League of Conservation Voters]], [[Courage California Super Pac]], [[Sierra Club Political Committee]], [[SEIU COPE]], [[Kaiser Permanente]], [[SpaceX]], [[Walt Disney Company]], [[Google - Alphabet]], [[Verizon]], [[Bank of America]], [[Apple]], [[Raytheon (RTX Corporation)]], [[AT&T]], [[Comcast - NBCUniversal]], [[PG&E - Pacific Gas and Electric]], [[CBRE Group]], [[Ford Motor Company]], [[Environment America INC]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[ROBERT GARCIA FOR CONGRESS]], [[JUDY CHU FOR CONGRESS]], [[SHERMAN FOR CONGRESS]], [[KEVIN MULLIN FOR CONGRESS]], [[BARRAGAN FOR CONGRESS]], [[MEDICARE FOR ALL]], [[National Education Association]], [[Blue Shield of California]], [[Robin L. Kelly]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Economic Development, Public Buildings, and Emergency Management"
+  - Economic Development, Public Buildings, and Emergency Management
   - Energy
   - Highways and Transit
-  - "House Committee on Science, Space, and Technology"
+  - House Committee on Science, Space, and Technology
   - House Committee on Transportation and Infrastructure
-  - "Railroads, Pipelines, and Hazardous Materials"
+  - Railroads, Pipelines, and Hazardous Materials
   - Water Resources and Environment
 bills-sponsored: 10
 corroboration-count: 3

@@ -1,40 +1,41 @@
 ---
-title: "Jill N. Tokuda"
+title: Jill N. Tokuda
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Hawaii"
-state-abbr: "HI"
+party: Democrat
+chamber: House
+state: Hawaii
+state-abbr: HI
 district: "2"
-bioguide-id: "T000487"
+bioguide-id: T000487
 govtrack-id: 456897
 born: "1976-03-28"
-wikidata-id: "Q13562293"
-website: "https://tokuda.house.gov"
-phone: "202-225-4906"
+wikidata-id: Q13562293
+website: https://tokuda.house.gov
+phone: 202-225-4906
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 35
 bills-cosponsored: 1052
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Conservation, Research, and Biotechnology"
+  - Conservation, Research, and Biotechnology
   - House Committee on Agriculture
   - House Committee on Armed Services
   - House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party
   - Military Personnel
   - Nutrition and Foreign Agriculture
   - Readiness
+top-donors: "[[Demand Justice]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[AIPAC - American Israel Public Affairs Committee]], [[Hakeem Jeffries]], [[MEDICARE FOR ALL]], [[Giffords PAC]], [[League of Conservation Voters]], [[Mazie K. Hirono]], [[JUDY CHU FOR CONGRESS]], [[ADRIANO ESPAILLAT FOR CONGRESS]], [[National Education Association]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[J Street]], [[Leidos]], [[Planned Parenthood Action Fund INC]], [[CITIZENS TO ELECT RICK LARSEN]], [[Let America Vote PAC]], [[National Cattlemen's Beef Association]], [[PETE AGUILAR FOR CONGRESS]]"
 ---
 
 

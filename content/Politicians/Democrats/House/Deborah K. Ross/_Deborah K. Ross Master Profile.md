@@ -1,40 +1,41 @@
 ---
-title: "Deborah K. Ross"
+title: Deborah K. Ross
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "North Carolina"
-state-abbr: "NC"
+party: Democrat
+chamber: House
+state: North Carolina
+state-abbr: NC
 district: "2"
-bioguide-id: "R000305"
+bioguide-id: R000305
 govtrack-id: 456831
 born: "1963-06-20"
-wikidata-id: "Q5248285"
-website: "https://ross.house.gov"
-phone: "202-225-3032"
+wikidata-id: Q5248285
+website: https://ross.house.gov
+phone: 202-225-3032
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 28
 bills-cosponsored: 596
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Courts, Intellectual Property, Artificial Intelligence, and the Internet"
+  - Courts, Intellectual Property, Artificial Intelligence, and the Internet
   - Energy
   - Environment
   - House Committee on Ethics
-  - "House Committee on Science, Space, and Technology"
+  - House Committee on Science, Space, and Technology
   - House Committee on the Judiciary
-  - "Immigration Integrity, Security, and Enforcement"
+  - Immigration Integrity, Security, and Enforcement
+top-donors: "[[Powerpacplus]], [[Let America Vote PAC]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Sierra Club Political Committee]], [[NANCY PELOSI FOR CONGRESS]], [[Environment America INC]], [[STANTON FOR CONGRESS]], [[Hakeem Jeffries]], [[JULIA BROWNLEY FOR CONGRESS]], [[AFL-CIO]], [[AIPAC - American Israel Public Affairs Committee]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Giffords PAC]], [[J Street]], [[League of Conservation Voters]], [[Democratic Senatorial Campaign Committee]], [[AbbVie]], [[Pfizer Inc.]], [[Jerry Nadler]], [[AFSCME Working Families Fund]], [[National Education Association]], [[Google - Alphabet]], [[Southern Company]], [[Amgen Inc]], [[DEBBIE WASSERMAN SCHULTZ FOR CONGRESS]], [[ROBERT GARCIA FOR CONGRESS]], [[James E. Clyburn]], [[BILL FOSTER FOR CONGRESS]], [[Planned Parenthood Action Fund INC]], [[CASTOR FOR CONGRESS]], [[FRIENDS OF MARIA]], [[Nucor Corporation]], [[KAMALA HARRIS FOR SENATE]], [[CVS Health - Aetna]], [[Gilead Sciences]], [[WinSenate]], [[Humane Society Legislative Fund]], [[Rosa DeLauro]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[TED LIEU FOR CONGRESS]]"
 ---
 
 

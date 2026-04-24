@@ -20,24 +20,24 @@ source-types:
   - FEC
   - GovTrack
 known-gaps:
-  - "No mapped relationships"
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4UT03260
-top-donors: "[[Microsoft]], [[Marathon Petroleum]], [[Valero Energy]], [[National Restaurant Association]], [[Google - Alphabet]], [[L3Harris Technologies]], [[Chevron]], [[AT&T - WarnerMedia]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[National Association of Realtors]], [[Nucor Corporation]], [[National Rifle Association]], [[General Dynamics]], [[AIPAC - American Israel Public Affairs Committee]], [[Anthem - Elevance Health]], [[National Cattlemen's Beef Association]], [[Jim Jordan]], [[MAJORITY PAC]], [[Lockheed Martin]], [[Troy Downing]], [[Northrop Grumman]], [[American College of Radiology Association PAC]], [[Performance Racing Inc.]], [[Mike Haridopolos]], [[Honeywell]], [[American Hospital Association PAC]], [[Conservative Leadership PAC]], [[AT&T]], [[Honeywell International]], [[Majority PAC]]"
-last-enriched: 2026-04-21
+top-donors: "[[Microsoft]], [[Marathon Petroleum]], [[Valero Energy]], [[National Restaurant Association]], [[Google - Alphabet]], [[L3Harris Technologies]], [[Chevron]], [[AT&T - WarnerMedia]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[National Association of Realtors]], [[Nucor Corporation]], [[National Rifle Association]], [[General Dynamics]], [[AIPAC - American Israel Public Affairs Committee]], [[Anthem - Elevance Health]], [[National Cattlemen's Beef Association]], [[Jim Jordan]], [[MAJORITY PAC]], [[Lockheed Martin]], [[Troy Downing]], [[Northrop Grumman]], [[American College of Radiology Association PAC]], [[Performance Racing Inc.]], [[Mike Haridopolos]], [[Honeywell]], [[American Hospital Association PAC]], [[Conservative Leadership PAC]], [[AT&T]], [[Honeywell International]], [[Majority PAC]], [[NRA Political Victory Fund]], [[Koch Industries]], [[BLAKE MOORE FOR CONGRESS]], [[BRANDON GILL FOR TEXAS]], [[Tom Emmer]], [[Steve Scalise]], [[TROY DOWNING FOR CONGRESS]], [[David P. Joyce]], [[Frank Lucas]], [[MIKE HARIDOPOLOS FOR CONGRESS]], [[Mike Johnson]], [[Carol D. Miller]], [[Brett Guthrie]], [[JIM JORDAN FOR CONGRESS]], [[MOORE FOR WEST VIRGINIA, INC.]], [[Guy Reschenthaler]], [[United Brotherhood of Carpenters Joiners of Americ]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Economic Development, Public Buildings, and Emergency Management"
+  - Economic Development, Public Buildings, and Emergency Management
   - Federal Lands
   - Highways and Transit
   - House Committee on Natural Resources
-  - "House Committee on Science, Space, and Technology"
+  - House Committee on Science, Space, and Technology
   - House Committee on Transportation and Infrastructure
   - Indian and Insular Affairs
-  - "Railroads, Pipelines, and Hazardous Materials"
+  - Railroads, Pipelines, and Hazardous Materials
   - Research and Technology
   - Space and Aeronautics
-total-raised: "$1.8M"
-career-total-source: "FEC weball summary (cycles 2024, 2026)"
+total-raised: $1.8M
+career-total-source: FEC weball summary (cycles 2024, 2026)
 bills-sponsored: 31
 corroboration-count: 3
 ---

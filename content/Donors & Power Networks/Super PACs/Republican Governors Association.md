@@ -2,7 +2,7 @@
 title: Republican Governors Association
 type: donor
 content-readiness: draft
-last-updated: 2026-04-21
+last-updated: 2026-04-21T00:00:00.000Z
 aliases:
   - RGA
   - REPUBLICAN GOVERNORS ASSOCIATION
@@ -11,9 +11,10 @@ entity-type: 527 Committee
 source-tier: 1
 internal-notes: Stub profile auto-created 2026-04-21 from orphan-entities-queue. Republican Governors Association is a 527 political organization focused on electing Republican governors. Major state-level GOP vehicle; $67.8M in tracked flow across 38 edges (IRS 527 filings). Counterpart to Democratic Governors Association. Research Claude editorial pass pending.
 known-gaps:
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No lobbying disclosure data
+  - No mapped relationships
+politicians-funded: "[[Lyft]], [[Google - Alphabet]], [[Entertainment and Hollywood Donors]], [[Change Now]], [[Squire Patton Boggs]], [[National Rifle Association]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Airbnb]], [[Verizon]], [[American Future Fund]], [[UPS]], [[Pfizer Inc.]], [[Paul Singer]], [[HOEVEN FOR SENATE]], [[Mercury Public Affairs]], [[Kenneth Griffin]], [[Doug Burgum]], [[Comcast - NBCUniversal]], [[Republican Party of Florida]], [[General Dynamics]], [[Goldman Sachs]], [[General Motors]], [[AT&T]], [[Mississippi Republican Party]], [[Eli Lilly]], [[Centene Corporation]], [[Microsoft]], [[Johnson & Johnson]], [[Apple]], [[Michigan Republican Party]], [[NextEra Energy]], [[Uber]], [[US Chamber of Commerce]], [[Alexander Acosta]], [[Elaine Chao]], [[Las Vegas Sands]], [[Citigroup]]"
 ---
 
 ## Who They Are

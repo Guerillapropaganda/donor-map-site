@@ -11,8 +11,8 @@ fec-committee-id: C00678839
 aliases:
   - INDIVISIBLE ACTION
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Richard Neal]], [[Kamala Harris]], [[Pramila Jayapal]], [[Alex Padilla]], [[John Fetterman]], [[Ted Cruz]], [[Michael Lawler]], [[Marie Gluesenkamp Perez]], [[Josh Riley]], [[Joni Ernst]], [[Elissa Slotkin]], [[Henry Cuellar]], [[Dan Osborn]], [[Kyrsten Sinema]], [[Kim Schrier]], [[Mike Levin]], [[Jacky Rosen]], [[Jon Husted]], [[Summer Lee]], [[Cori Bush]], [[Mark Kelly]], [[Scott Perry]], [[Ilhan Omar]], [[Peter Welch]], [[Tammy Baldwin]], [[George Whitesides]], [[Patrick Ryan]], [[Marcy Kaptur]], [[Lauren Underwood]], [[David Schweikert]], [[Donald Trump]], [[Sherrod Brown]], [[Ron Johnson]], [[Sara Jacobs]], [[Raphael Warnock]], [[Jon Ossoff]], [[Teresa Leger Fernandez]], [[Julia Brownley]], [[Dan Sullivan]], [[Ruben Gallego]], [[Andy Kim]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Richard Neal]], [[Kamala Harris]], [[Pramila Jayapal]], [[Alex Padilla]], [[John Fetterman]], [[Ted Cruz]], [[Michael Lawler]], [[Marie Gluesenkamp Perez]], [[Josh Riley]], [[Joni Ernst]], [[Elissa Slotkin]], [[Henry Cuellar]], [[Dan Osborn]], [[Kyrsten Sinema]], [[Kim Schrier]], [[Mike Levin]], [[Jacky Rosen]], [[Jon Husted]], [[Summer Lee]], [[Cori Bush]], [[Mark Kelly]], [[Scott Perry]], [[Ilhan Omar]], [[Peter Welch]], [[Tammy Baldwin]], [[George Whitesides]], [[Patrick Ryan]], [[Marcy Kaptur]], [[Lauren Underwood]], [[David Schweikert]], [[Donald Trump]], [[Sherrod Brown]], [[Ron Johnson]], [[Sara Jacobs]], [[Raphael Warnock]], [[Jon Ossoff]], [[Teresa Leger Fernandez]], [[Julia Brownley]], [[Dan Sullivan]], [[Ruben Gallego]], [[Andy Kim]], [[Indivisible Action]], [[Alexandria Ocasio-Cortez]], [[Adam Schiff]], [[Eleanor Holmes Norton]], [[Judy Chu]], [[Gabe Vasquez]], [[Debbie Stabenow]], [[Mark Takano]], [[Elizabeth Warren]], [[Ben Ray Lujan]], [[Ayanna Pressley]], [[Delia C. Ramirez]], [[Rashida Tlaib]], [[Gilbert Ray Cisneros]], [[Katie Porter]], [[Mark Pocan]], [[Lucy McBath]], [[Lloyd Doggett]], [[Deb Haaland]], [[Josh Harder]], [[Joe Biden]], [[Kirsten E. Gillibrand]], [[Jeff Merkley]], [[James E. Clyburn]], [[Mitch McConnell]], [[Ed Markey]], [[Gary Peters]], [[Thomas R. Suozzi]], [[Melanie A. Stansbury]], [[Jerrold Nadler]], [[Adam Smith]], [[Rosa DeLauro]], [[Greg Casar]], [[Becca Balint]], [[Bernie Sanders]], [[Zoe Lofgren]], [[Barbara Lee]], [[Joaquin Castro]]"
 related: "[[Richard Neal]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -26,7 +26,7 @@ individual-contributions: 84882
 contributions-to-committees: 12097
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

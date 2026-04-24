@@ -1,40 +1,41 @@
 ---
-title: "Harriet M. Hageman"
+title: Harriet M. Hageman
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Wyoming"
-state-abbr: "WY"
+party: Republican
+chamber: House
+state: Wyoming
+state-abbr: WY
 district: "0"
-bioguide-id: "H001096"
+bioguide-id: H001096
 govtrack-id: 456951
 born: "1962-10-18"
-wikidata-id: "Q110815967"
-website: "https://hageman.house.gov"
-phone: "202-225-2311"
+wikidata-id: Q110815967
+website: https://hageman.house.gov
+phone: 202-225-2311
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 41
 bills-cosponsored: 308
 bills-enacted: 1
-top-policy-area: "Government Operations and Politics"
-last-enriched: 2026-04-21
+top-policy-area: Government Operations and Politics
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Energy and Mineral Resources
   - House Committee on Natural Resources
   - House Committee on the Judiciary
-  - "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
-  - "The Administrative State, Regulatory Reform, and Antitrust"
+  - House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021
+  - The Administrative State, Regulatory Reform, and Antitrust
   - The Constitution and Limited Government
-  - "Water, Wildlife and Fisheries"
+  - Water, Wildlife and Fisheries
+top-donors: "[[Williams Companies]], [[Steve Scalise]], [[Koch Industries]], [[RON ESTES FOR CONGRESS]], [[Occidental Petroleum]], [[Club for Growth INC PAC]], [[JIM JORDAN FOR CONGRESS]], [[Kevin McCarthy]], [[Mark E. Amodei]], [[NRA Political Victory Fund]], [[John Barrasso]], [[Southern Company]], [[GARY PALMER FOR CONGRESS]], [[Google - Alphabet]], [[Madison Project Inc.]], [[Protect Freedom Political Action Committee]], [[Elise Stefanik]], [[Richard Hudson]], [[Meta - Facebook]], [[Daniel Meuser]], [[Jack Bergman]], [[National Restaurant Association]], [[American Principles Fund]], [[Guy Reschenthaler]], [[AIPAC - American Israel Public Affairs Committee]], [[Tom Emmer]], [[National Republican Senatorial Committee]], [[FRY FOR CONGRESS]], [[JASON SMITH FOR CONGRESS]], [[Club for Growth]], [[BEN CLINE FOR CONGRESS, INC.]], [[Campaign for Working Families]], [[Russ Fulcher]]"
 ---
 
 

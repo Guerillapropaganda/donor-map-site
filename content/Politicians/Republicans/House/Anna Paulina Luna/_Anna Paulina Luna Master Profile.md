@@ -18,19 +18,19 @@ phone: 202-225-5961
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H0FL13158
 bills-sponsored: 36
 bills-cosponsored: 300
 bills-enacted: 0
 top-policy-area: Crime and Law Enforcement
-top-donors: "[[Andy Harris]], [[Campaign for Working Families]], [[REPUBLICAN PARTY OF FLORIDA]], [[Club for Growth INC PAC]], [[Planned Parenthood Votes]], [[NRCC - National Republican Congressional Committee]], [[Ron Estes]], [[AT&T - WarnerMedia]], [[National Rifle Association]], [[Jim Jordan]], [[MAJORITY PAC]], [[Austin Scott]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[PRIORITIES USA ACTION]], [[Ralph Norman]], [[American Conservative Union]], [[Duke Energy]], [[Gun Owners of America]], [[WinRed]], [[Byron Donalds]], [[Eric Burlison]], [[Daniel Webster]], [[Darrell Issa]], [[Save America PAC]], [[Club for Growth]], [[Women Speak Out Pac]], [[National Right to Life Victory Fund]], [[Madison Project Inc.]], [[National Association of Realtors]], [[Mike Haridopolos]], [[Honeywell]], [[Senate Conservatives Fund]], [[AIPAC - American Israel Public Affairs Committee]], [[Lockheed Martin]], [[ExxonMobil]], [[Amazon]], [[Anthem - Elevance Health Political Operation]], [[Boeing]], [[Kelcy Warren - Energy Transfer Partners]], [[Oracle]], [[Apple]], [[SpaceX]], [[Bank of America]], [[BAE Systems]], [[Starbucks]], [[UPS]], [[Microsoft]], [[AT&T]], [[Walmart]], [[MasTec - Mas Canosa Family]], [[Morgan Stanley]], [[Raytheon (RTX Corporation)]], [[Honeywell International]], [[Fidelity Investments]], [[Northrop Grumman]], [[Wells Fargo]], [[CVS Health - Aetna]], [[Republican Party of Florida]], [[Majority PAC]], [[Priorities USA Action]]"
-last-enriched: 2026-04-21
+top-donors: "[[Andy Harris]], [[Campaign for Working Families]], [[REPUBLICAN PARTY OF FLORIDA]], [[Club for Growth INC PAC]], [[Planned Parenthood Votes]], [[NRCC - National Republican Congressional Committee]], [[Ron Estes]], [[AT&T - WarnerMedia]], [[National Rifle Association]], [[Jim Jordan]], [[MAJORITY PAC]], [[Austin Scott]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[PRIORITIES USA ACTION]], [[Ralph Norman]], [[American Conservative Union]], [[Duke Energy]], [[Gun Owners of America]], [[WinRed]], [[Byron Donalds]], [[Eric Burlison]], [[Daniel Webster]], [[Darrell Issa]], [[Save America PAC]], [[Club for Growth]], [[Women Speak Out Pac]], [[National Right to Life Victory Fund]], [[Madison Project Inc.]], [[National Association of Realtors]], [[Mike Haridopolos]], [[Honeywell]], [[Senate Conservatives Fund]], [[AIPAC - American Israel Public Affairs Committee]], [[Lockheed Martin]], [[ExxonMobil]], [[Amazon]], [[Anthem - Elevance Health Political Operation]], [[Boeing]], [[Kelcy Warren - Energy Transfer Partners]], [[Oracle]], [[Apple]], [[SpaceX]], [[Bank of America]], [[BAE Systems]], [[Starbucks]], [[UPS]], [[Microsoft]], [[AT&T]], [[Walmart]], [[MasTec - Mas Canosa Family]], [[Morgan Stanley]], [[Raytheon (RTX Corporation)]], [[Honeywell International]], [[Fidelity Investments]], [[Northrop Grumman]], [[Wells Fargo]], [[CVS Health - Aetna]], [[Republican Party of Florida]], [[Majority PAC]], [[Priorities USA Action]], [[FRY FOR CONGRESS]], [[TEXANS FOR JODEY ARRINGTON]], [[BYRON DONALDS FOR CONGRESS]], [[Nicholas A. Langworthy]], [[ROBERT ADERHOLT FOR CONGRESS]], [[W. Gregory Steube]], [[Russ Fulcher]], [[RALPH NORMAN FOR CONGRESS]], [[Lloyd Smucker]], [[NRA Political Victory Fund]], [[FISCHBACH FOR CONGRESS]], [[Daniel Meuser]], [[LOUDERMILK FOR CONGRESS]], [[Brandon Gill]], [[Mike Johnson]], [[Glenn Thompson]], [[Steve Scalise]], [[GARY PALMER FOR CONGRESS]], [[ERIC BURLISON FOR CONGRESS]], [[American Principles Fund]], [[ADRIAN SMITH FOR CONGRESS]], [[BOST, MICHAEL]], [[DANIEL WEBSTER FOR CONGRESS]], [[WEBER FOR CONGRESS]], [[FRIENDS OF MATT GAETZ]], [[THOMAS MASSIE FOR CONGRESS]], [[Tom Emmer]], [[HAGEMAN FOR WYOMING]], [[JIM JORDAN FOR CONGRESS]], [[ANDY HARRIS FOR CONGRESS]], [[MIKE HARIDOPOLOS FOR CONGRESS]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[GEO Group - Private Prison Industrial Complex]], [[NEHLS FOR CONGRESS]], [[RON ESTES FOR CONGRESS]], [[Guy Reschenthaler]], [[DR. BRIAN BABIN FOR CONGRESS]], [[Carol D. Miller]], [[Elise Stefanik]], [[Richard McCormick]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Cybersecurity, Information Technology, and Government Innovation"
+  - Cybersecurity, Information Technology, and Government Innovation
   - Delivering on Government Efficiency
   - Europe
   - Health Care and Financial Services
@@ -38,8 +38,8 @@ committees:
   - House Committee on Oversight and Government Reform
   - Military and Foreign Affairs
   - Oversight and Intelligence
-total-raised: "$12.7M"
-career-total-source: "FEC weball summary (cycles 2020, 2022, 2024, 2026)"
+total-raised: $12.7M
+career-total-source: FEC weball summary (cycles 2020, 2022, 2024, 2026)
 ---
 
 

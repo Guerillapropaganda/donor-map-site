@@ -1,34 +1,34 @@
 ---
-title: "David G. Valadao"
+title: David G. Valadao
 type: politician
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "California"
-state-abbr: "CA"
+party: Republican
+chamber: House
+state: California
+state-abbr: CA
 district: "22"
-bioguide-id: "V000129"
+bioguide-id: V000129
 govtrack-id: 412515
 born: "1977-04-14"
-wikidata-id: "Q3528567"
-website: "https://valadao.house.gov"
-phone: "202-225-4695"
+wikidata-id: Q3528567
+website: https://valadao.house.gov
+phone: 202-225-4695
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-donors: "[[National Cattlemen's Beef Association]]"
+  - No FEC contribution data
+  - No voting record data
+donors: "[[National Cattlemen's Beef Association]], [[American Gaming Association]], [[Southern Company]], [[Koch Industries]], [[American College of Radiology Association PAC]], [[Paul Ryan]], [[Bill Huizenga]], [[Dale W. Strong]], [[MCCAUL FOR CONGRESS, INC]], [[BURGESS 4 UTAH]], [[Sam Graves]], [[AFL-CIO]], [[AUGUST PFLUGER FOR CONGRESS]], [[CLYDE FOR CONGRESS, INC.]], [[Rick Crawford]], [[ADM - Archer Daniels Midland]], [[Darin Lahood]], [[LOUDERMILK FOR CONGRESS]], [[SCOTT FRANKLIN FOR CONGRESS]], [[Google - Alphabet]], [[Blue Shield of California]], [[Ken Calvert]], [[CLIFF BENTZ FOR CONGRESS]], [[National Right to Life PAC]], [[MIKE HARIDOPOLOS FOR CONGRESS]], [[Guy Reschenthaler]], [[NRA Political Victory Fund]], [[Clearpath Action Fund, Inc.]], [[Pete Sessions]], [[Associated General Contractors of America Political Action Committee]], [[DAVID ROUZER FOR CONGRESS]], [[JIM JORDAN FOR CONGRESS]], [[Amgen Inc]], [[Jeff Hurd]], [[ADRIAN SMITH FOR CONGRESS]], [[JULIA LETLOW FOR CONGRESS]], [[CARLOS GIMENEZ FOR CONGRESS]], [[ANDY BARR FOR SENATE, INC.]], [[Lloyd Smucker]], [[Brett Guthrie]], [[Tom McClintock]], [[ROBERT ADERHOLT FOR CONGRESS]], [[Republican Jewish Coalition]], [[NATHANIEL MORAN FOR CONGRESS]], [[TEXANS FOR JODEY ARRINGTON]], [[John W. Rose]], [[Mark E. Amodei]], [[DR JOHN JOYCE FOR CONGRESS]], [[Nicholas A. Langworthy]], [[Kevin McCarthy]], [[Steve Scalise]], [[Steve Womack]], [[Robert E. Latta]], [[ANN WAGNER FOR CONGRESS]], [[HOUCHIN FOR CONGRESS]], [[John Boehner]], [[TAKING OUR MAJORITY PAC]], [[JOE WILSON FOR CONGRESS]], [[CITIZENS FOR JOHN RUTHERFORD]], [[Randy Feenstra]], [[Troy Balderson]], [[RICK W. ALLEN FOR CONGRESS]], [[COLE FOR CONGRESS]], [[Tyson Foods]], [[BYRON DONALDS FOR CONGRESS]], [[PETE SESSIONS FOR CONGRESS]], [[Robert F. Onder]], [[JOHN CURTIS FOR UTAH]], [[National Association of Realtors]], [[Dan Newhouse]], [[Defending Main Street Superpac INC]], [[Richard Hudson]], [[Glenn Thompson]], [[Pfizer Inc.]], [[GEO Group - Private Prison Industrial Complex]], [[CLAUDIA TENNEY FOR CONGRESS]], [[National Education Association]], [[MICHAEL WALTZ FOR CONGRESS]], [[Humana]], [[Michael Guest]], [[Michael R. Turner]], [[McDonalds Corporation]], [[DANIEL WEBSTER FOR CONGRESS]], [[Elise Stefanik]], [[Occidental Petroleum]], [[ANDY HARRIS FOR CONGRESS]], [[Leidos]], [[Russ Fulcher]], [[Cargill]], [[Tom Emmer]], [[AbbVie]], [[YOUNG KIM FOR CONGRESS]], [[FISCHBACH FOR CONGRESS]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[Tim Walberg]], [[GARY PALMER FOR CONGRESS]], [[Gilead Sciences]], [[Meta - Facebook]], [[Earl L. Buddy Carter]], [[RON ESTES FOR CONGRESS]], [[Mike Johnson]], [[David P. Joyce]], [[Ronny Jackson]], [[VICTORIA SPARTZ FOR CONGRESS]], [[American Principles Fund]], [[Progressive Turnout Project]], [[MAST FOR CONGRESS]], [[LISA MCCLAIN FOR CONGRESS]], [[Williams Companies]], [[FRIENDS OF MATT GAETZ]], [[Kevin Kiley]], [[DoorDash]], [[LALOTA FOR CONGRESS]], [[DAN NEWHOUSE FOR CONGRESS]], [[BURCHETT FOR CONGRESS]], [[FEDORCHAK FOR ND]], [[John R. Carter]], [[Special Operations for America]], [[National Restaurant Association]], [[COMER FOR CONGRESS]], [[National Victory Action Fund]], [[JAKE ELLZEY FOR CONGRESS]], [[BRAD KNOTT FOR CONGRESS]], [[National Right to Life Victory Fund]], [[Monsanto - Bayer]], [[DAVE TAYLOR FOR CONGRESS]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[Madison Project Inc.]], [[Akin Gump Strauss Hauer & Feld]], [[National Association of Manufacturers]], [[MARK GREEN FOR CONGRESS]], [[John J. McGuire]], [[DR. BRIAN BABIN FOR CONGRESS]], [[Roger Marshall]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[HAGEMAN FOR WYOMING]], [[Gregory F. Murphy]], [[AIPAC - American Israel Public Affairs Committee]], [[BOST, MICHAEL]], [[CoreCivic]], [[WEBER FOR CONGRESS]], [[Frank Lucas]], [[COTTON, THOMAS]], [[Performance Racing Inc.]], [[Neal P. Dunn]], [[J. French Hill]], [[Daniel Meuser]], [[Ashley Hinson]], [[BLAKE MOORE FOR CONGRESS]], [[Carol D. Miller]], [[BEN CLINE FOR CONGRESS, INC.]], [[VERN BUCHANAN FOR CONGRESS]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 27
 bills-cosponsored: 481
 bills-enacted: 0
-top-policy-area: "Health"
-last-enriched: 2026-04-21
+top-policy-area: Health
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies"
+  - Agriculture, Rural Development, Food and Drug Administration, and Related Agencies
   - Defense
   - House Committee on Appropriations
   - Joint Committee of Congress on the Library

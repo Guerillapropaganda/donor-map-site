@@ -18,26 +18,26 @@ phone: 202-225-6511
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H8PA10147
 bills-sponsored: 29
 bills-cosponsored: 406
 bills-enacted: 0
 top-policy-area: Finance and Financial Sector
-top-donors: "[[Nucor Corporation]], [[National Rifle Association]], [[General Dynamics]], [[American College of Radiology Association PAC]], [[Comcast - NBCUniversal]], [[Bank of America]], [[National Multifamily Housing Council]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[MAJORITY PAC]], [[Associated General Contractors of America Political Action Committee]], [[Lockheed Martin]], [[AIPAC - American Israel Public Affairs Committee]], [[Marathon Petroleum]], [[Walmart - Walton Family]], [[Google - Alphabet]], [[American Hospital Association PAC]], [[Anthem - Elevance Health]], [[National Association of Realtors]], [[AT&T - WarnerMedia]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Pennsylvania Pro-Life Federation PAC]], [[Citigroup]], [[WinRed]], [[Coinbase]], [[Morgan Stanley]], [[Microsoft]], [[AT&T]], [[Majority PAC]]"
-last-enriched: 2026-04-21
+top-donors: "[[Nucor Corporation]], [[National Rifle Association]], [[General Dynamics]], [[American College of Radiology Association PAC]], [[Comcast - NBCUniversal]], [[Bank of America]], [[National Multifamily Housing Council]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[MAJORITY PAC]], [[Associated General Contractors of America Political Action Committee]], [[Lockheed Martin]], [[AIPAC - American Israel Public Affairs Committee]], [[Marathon Petroleum]], [[Walmart - Walton Family]], [[Google - Alphabet]], [[American Hospital Association PAC]], [[Anthem - Elevance Health]], [[National Association of Realtors]], [[AT&T - WarnerMedia]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Pennsylvania Pro-Life Federation PAC]], [[Citigroup]], [[WinRed]], [[Coinbase]], [[Morgan Stanley]], [[Microsoft]], [[AT&T]], [[Majority PAC]], [[Akin Gump Strauss Hauer & Feld]], [[Williams Companies]], [[TEXANS FOR JODEY ARRINGTON]], [[NRA Political Victory Fund]], [[Steve Scalise]], [[Glenn Thompson]], [[Koch Industries]], [[JASON SMITH FOR CONGRESS]], [[William R. Timmons]], [[MCCAUL FOR CONGRESS, INC]], [[JOE WILSON FOR CONGRESS]], [[Frank Lucas]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Contracting and Infrastructure
-  - "Economic Growth, Tax, and Capital Access"
+  - Economic Growth, Tax, and Capital Access
   - Financial Institutions
   - House Committee on Financial Services
   - House Committee on Small Business
   - Oversight and Investigations
-total-raised: "$10.3M"
-career-total-source: "FEC weball summary (cycles 2008, 2018, 2020, 2022, 2024, 2026)"
+total-raised: $10.3M
+career-total-source: FEC weball summary (cycles 2008, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

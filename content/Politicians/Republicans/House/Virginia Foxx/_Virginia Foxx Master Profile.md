@@ -29,7 +29,7 @@ top-donors:
   - DeVos Family
   - American Federation for Children
   - Walton Family Foundation
-donors: "[[Apollo Global Management]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Student Loan Servicer Industry]] · [[Walton Family Foundation]] · [[American Federation for Children]] · [[DeVos Family]] · [[McDonalds Corporation]] · [[Duke Energy]] · [[WinRed]] · [[DoorDash]] · [[Raytheon (RTX)]] · [[Alliance Coal, LLC PAC]] · [[Walmart - Walton Family]] · [[Nucor Corporation]] · [[Anthem - Elevance Health]] · [[MAJORITY PAC]] · [[Amgen Inc]] · [[National Association of Realtors]] · [[Chevron]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[Ron Estes]] · [[National Association of Manufacturers]] · [[Jim Jordan]] · [[Associated General Contractors of America Political Action Committee]] · [[Tyson Foods]] · [[Lockheed Martin]] · [[Gilead Sciences]] · [[National Rifle Association]] · [[Women Speak Out Pac]] · [[National Restaurant Association]] · [[AT&T - WarnerMedia]] · [[NORPAC]] · [[CVS Health - Aetna]] · [[Save America PAC]] · [[VIEW PAC - Value in Electing Women]] · [[Pfizer Inc.]] · [[Republican Jewish Coalition]] · [[Elliott Management]] · [[Charles Schwab]] · [[Instacart]] · [[Citadel - Kenneth Griffin]] · [[Wells Fargo]] · [[Verizon]] · [[US CHAMBER OF COMMERCE]] · [[Morgan Stanley]] · [[Bank of America]] · [[Lyft]] · [[American Enterprise Institute]] · [[CBRE Group]] · [[Apple]] · [[Blackstone Group]] · [[Majority PAC]] · [[AT&T]] · [[US Chamber of Commerce]]"
+donors: "[[Apollo Global Management]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Student Loan Servicer Industry]] · [[Walton Family Foundation]] · [[American Federation for Children]] · [[DeVos Family]] · [[McDonalds Corporation]] · [[Duke Energy]] · [[WinRed]] · [[DoorDash]] · [[Raytheon (RTX)]] · [[Alliance Coal, LLC PAC]] · [[Walmart - Walton Family]] · [[Nucor Corporation]] · [[Anthem - Elevance Health]] · [[MAJORITY PAC]] · [[Amgen Inc]] · [[National Association of Realtors]] · [[Chevron]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[Ron Estes]] · [[National Association of Manufacturers]] · [[Jim Jordan]] · [[Associated General Contractors of America Political Action Committee]] · [[Tyson Foods]] · [[Lockheed Martin]] · [[Gilead Sciences]] · [[National Rifle Association]] · [[Women Speak Out Pac]] · [[National Restaurant Association]] · [[AT&T - WarnerMedia]] · [[NORPAC]] · [[CVS Health - Aetna]] · [[Save America PAC]] · [[VIEW PAC - Value in Electing Women]] · [[Pfizer Inc.]] · [[Republican Jewish Coalition]] · [[Elliott Management]] · [[Charles Schwab]] · [[Instacart]] · [[Citadel - Kenneth Griffin]] · [[Wells Fargo]] · [[Verizon]] · [[US CHAMBER OF COMMERCE]] · [[Morgan Stanley]] · [[Bank of America]] · [[Lyft]] · [[American Enterprise Institute]] · [[CBRE Group]] · [[Apple]] · [[Blackstone Group]] · [[Majority PAC]] · [[AT&T]] · [[US Chamber of Commerce]] · [[Raytheon (RTX Corporation)]] · [[Koch Industries]] · [[Brett Guthrie]] · [[NRA Political Victory Fund]] · [[National Cattlemen's Beef Association]] · [[Gus M. Bilirakis]] · [[Akin Gump Strauss Hauer & Feld]] · [[Williams Companies]] · [[Mariannette Miller-Meeks]] · [[RON ESTES FOR CONGRESS]] · [[Family Research Council Action Political Action Committee]] · [[American College of Radiology Association PAC]] · [[PETE SESSIONS FOR CONGRESS]] · [[Campaign for Working Families]] · [[Gun Owners of America]] · [[Google - Alphabet]] · [[Mike Johnson]] · [[Steve Scalise]] · [[Southern Company]] · [[Pete Sessions]] · [[TEXANS FOR JODEY ARRINGTON]] · [[JIM JORDAN FOR CONGRESS]] · [[BURCHETT FOR CONGRESS]] · [[JOE WILSON FOR CONGRESS]] · [[Tom Emmer]] · [[MARIO DIAZ-BALART FOR CONGRESS]] · [[Paul Ryan]] · [[Anthem Health Plans of Virginia Political Action Committee]]"
 related: "[[The Education Committee and Labor Alignment]] · [[DeVos Family]] · [[American Federation for Children]] · [[_Donald Trump Master Profile|Trump]] · [[Walton Family Foundation]]"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline; run voting pipeline; run congress pipeline; run pipelines
@@ -41,15 +41,15 @@ bills-cosponsored: 1747
 bills-enacted: 0
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: Government Operations and Politics
-last-enriched: 2026-04-20
+last-enriched: 2026-04-20T00:00:00.000Z
 source-types:
   - Congress
   - GovTrack
 corroboration-count: 2
 known-gaps:
-  - "No FEC contribution data"
-total-raised: "$18.7M"
-career-total-source: "FEC weball summary (cycles 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+  - No FEC contribution data
+total-raised: $18.7M
+career-total-source: FEC weball summary (cycles 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 

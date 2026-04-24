@@ -6,11 +6,11 @@ sector: Dark Money
 entity-type: Super PAC
 committee-id: C00875039
 fec-url: https://www.fec.gov/data/committee/C00875039/
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-ie-support: $1,894,880
 fec-ie-oppose: null
-politicians-funded: "[[John Barrasso]]"
+politicians-funded: "[[John Barrasso]], [[LVH CONSULTING LLC]], [[OUTLAW MEDIA]], [[AMY FORD BRADLEY LLC]], [[ONMESSAGE INC.]]"
 related: "[[John Barrasso]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -23,8 +23,8 @@ individual-contributions: 1116000
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

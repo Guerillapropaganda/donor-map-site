@@ -1,32 +1,32 @@
 ---
-title: "Robert J. Wittman"
+title: Robert J. Wittman
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Virginia"
-state-abbr: "VA"
+party: Republican
+chamber: House
+state: Virginia
+state-abbr: VA
 district: "1"
-bioguide-id: "W000804"
+bioguide-id: W000804
 govtrack-id: 412255
 born: "1959-02-03"
-wikidata-id: "Q541251"
-website: "https://wittman.house.gov"
-phone: "202-225-4261"
+wikidata-id: Q541251
+website: https://wittman.house.gov
+phone: 202-225-4261
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 32
 bills-cosponsored: 294
 bills-enacted: 1
-top-policy-area: "Armed Forces and National Security"
-last-enriched: 2026-04-21
+top-policy-area: Armed Forces and National Security
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Energy and Mineral Resources
   - House Committee on Armed Services
@@ -34,7 +34,8 @@ committees:
   - House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party
   - Seapower and Projection Forces
   - Tactical Air and Land Forces
-  - "Water, Wildlife and Fisheries"
+  - Water, Wildlife and Fisheries
+top-donors: "[[Pete Sessions]], [[Pfizer Inc.]], [[Associated General Contractors of America Political Action Committee]], [[Occidental Petroleum]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[National Restaurant Association]], [[Akin Gump Strauss Hauer & Feld]], [[BEN CLINE FOR CONGRESS, INC.]], [[American College of Radiology Association PAC]], [[National Right to Life PAC]], [[National Cattlemen's Beef Association]], [[AIPAC - American Israel Public Affairs Committee]], [[Steve Scalise]], [[Leidos]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Williams Companies]], [[KAY GRANGER CAMPAIGN FUND]], [[NRA Political Victory Fund]], [[Gregory F. Murphy]], [[Elise Stefanik]], [[Brett Guthrie]], [[McDonalds Corporation]], [[Scott Desjarlais]], [[JASON SMITH FOR CONGRESS]], [[H. Morgan Griffith]], [[Tom Emmer]], [[BIGGS FOR CONGRESS]], [[Koch Industries]], [[Mike Johnson]], [[DAVID ROUZER FOR CONGRESS]], [[Palantir Technologies]], [[David P. Joyce]], [[ISSA FOR CONGRESS]], [[Glenn Thompson]], [[Google - Alphabet]], [[TEXANS FOR JODEY ARRINGTON]], [[JIM JORDAN FOR CONGRESS]], [[Bechtel Corporation]], [[ANDY HARRIS FOR CONGRESS]], [[GARY PALMER FOR CONGRESS]], [[Kevin McCarthy]], [[MARIO DIAZ-BALART FOR CONGRESS]], [[Southern Company]]"
 ---
 
 

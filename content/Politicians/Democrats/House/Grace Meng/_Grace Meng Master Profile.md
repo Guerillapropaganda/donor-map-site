@@ -18,23 +18,23 @@ phone: 202-225-2601
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2NY06116
 bills-sponsored: 38
 bills-cosponsored: 534
 bills-enacted: 1
 top-policy-area: Health
-top-donors: "[[Raytheon (RTX)]], [[Anthem - Elevance Health]], [[Google - Alphabet]], [[AT&T - WarnerMedia]], [[SEIU COPE]], [[Microsoft]], [[American Federation of State County & Municipal Employees P E O P L E]], [[NEA Fund for Children and Public Education]], [[Comcast - NBCUniversal]], [[Sierra Club Political Committee]], [[Honeywell]], [[IBEW - International Brotherhood of Electrical Workers]], [[UA Political Action Committee]], [[Everytown for Gun Safety]], [[General Motors]], [[Teamsters - International Brotherhood of Teamsters]], [[CVS Health - Aetna]], [[Leidos]], [[Lockheed Martin]], [[National Association of Realtors]], [[Progressive Turnout Project]], [[Amgen Inc]], [[League of Conservation Voters]], [[Judy Chu]], [[DMFI - Democratic Majority for Israel]], [[National Multifamily Housing Council]], [[L3Harris Technologies]], [[AIPAC - American Israel Public Affairs Committee]], [[Northrop Grumman]], [[American Gaming Association]], [[Medicare for All - The Policy That Broke the Party]], [[NORPAC]], [[American Hospital Association PAC]], [[Unite Here Tip Campaign Committee]], [[Gilead Sciences]], [[Planned Parenthood Votes]], [[BAE Systems]], [[McDonalds Corporation]], [[National Nurses United]], [[Sierra Club Independent Action]], [[Coinbase]], [[Citigroup]], [[AbbVie]], [[Pfizer Inc.]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Honeywell International]], [[AT&T]]"
-last-enriched: 2026-04-21
+top-donors: "[[Raytheon (RTX)]], [[Anthem - Elevance Health]], [[Google - Alphabet]], [[AT&T - WarnerMedia]], [[SEIU COPE]], [[Microsoft]], [[American Federation of State County & Municipal Employees P E O P L E]], [[NEA Fund for Children and Public Education]], [[Comcast - NBCUniversal]], [[Sierra Club Political Committee]], [[Honeywell]], [[IBEW - International Brotherhood of Electrical Workers]], [[UA Political Action Committee]], [[Everytown for Gun Safety]], [[General Motors]], [[Teamsters - International Brotherhood of Teamsters]], [[CVS Health - Aetna]], [[Leidos]], [[Lockheed Martin]], [[National Association of Realtors]], [[Progressive Turnout Project]], [[Amgen Inc]], [[League of Conservation Voters]], [[Judy Chu]], [[DMFI - Democratic Majority for Israel]], [[National Multifamily Housing Council]], [[L3Harris Technologies]], [[AIPAC - American Israel Public Affairs Committee]], [[Northrop Grumman]], [[American Gaming Association]], [[Medicare for All - The Policy That Broke the Party]], [[NORPAC]], [[American Hospital Association PAC]], [[Unite Here Tip Campaign Committee]], [[Gilead Sciences]], [[Planned Parenthood Votes]], [[BAE Systems]], [[McDonalds Corporation]], [[National Nurses United]], [[Sierra Club Independent Action]], [[Coinbase]], [[Citigroup]], [[AbbVie]], [[Pfizer Inc.]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Honeywell International]], [[AT&T]], [[Raytheon (RTX Corporation)]], [[National Education Association]], [[Emily's List]], [[Let America Vote PAC]], [[DIANA DEGETTE FOR CONGRESS]], [[Humane Society Legislative Fund]], [[James E. Clyburn]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Planned Parenthood Action Fund INC]], [[Xavier Becerra]], [[NANCY PELOSI FOR CONGRESS]], [[Akin Gump Strauss Hauer & Feld]], [[JULIA BROWNLEY FOR CONGRESS]], [[Robert Garcia]], [[Jerrold Nadler]], [[KATHERINE CLARK FOR CONGRESS]], [[JUDY CHU FOR CONGRESS]], [[American College of Radiology Association PAC]], [[MEDICARE FOR ALL]], [[UCA POLITICAL ACTION COMMITTEE]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
-  - "Commerce, Justice, Science, and Related Agencies"
+  - Commerce, Justice, Science, and Related Agencies
   - House Committee on Appropriations
-  - "National Security, Department of State, and Related Programs"
-total-raised: "$12.0M"
-career-total-source: "FEC weball summary (cycles 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+  - National Security, Department of State, and Related Programs
+total-raised: $12.0M
+career-total-source: FEC weball summary (cycles 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 ---
 
 
