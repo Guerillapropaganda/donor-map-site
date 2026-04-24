@@ -12,6 +12,77 @@ last-updated: 2026-04-24
 <!-- prior session: ORPHAN-ENTITIES AUDIT + UX-BREAKDOWN REFACTOR. ADR-0016 labeled-breakdown. Final push 016cd986e. (2026-04-21 early, Code Claude). -->
 
 
+## HANDOFF — 2026-04-24 evening (ADR-0021 Phase 3 complete — 4 new harness checks + ADR-0022 + ADR-0023 draft)
+
+**State of the repo:** 5 commits on branch `claude/interesting-morse-2d7e45`, not yet merged to v4 (this session). Pre-commit + pre-push gates clean on every commit. Public lockdown unchanged (`public-routes.json = ["index"]`). Harness grew from 6 → 10 checks.
+
+### Commits in order
+
+- `18320926f` — Phase 3 check #1: prose-data-consistency (scripts/prose-data-consistency.cjs)
+- `3fcbe902c` — Phase 3 check #2: stamp-expiry (scripts/stamp-expiry.cjs)
+- `07fc2c2a9` — ADR-0022 accepted + Phase 3 check #3: type-specific-a-plus-bar (scripts/type-specific-a-plus-bar.cjs)
+- `4ff3401f9` — Phase 3 check #4: url-domain-policy + ADR-0023 stub
+- `3964d71a3` — ADR-0023 Frontmatter Schema full draft (proposed)
+
+### Phase 3 checks (all registered in scripts/vault-audit.cjs CHECKS)
+
+1. **prose-data-consistency** — internal numeric contradictions in publication-tier profiles. Narrow pattern matcher (per the scoping call): detects same-profile drift like "6 mega-donors" (infobox) vs "10 megadonors" (prose). Patterns: `N mega-donors` + `top N donors`. 0 findings at scan time; the Trump case that motivated it is still `ready` (below publication tier), but pattern verified against his profile directly — catches 6/10 cleanly. Extensible: add patterns as drift surfaces. Queue bucket `deciding`.
+2. **stamp-expiry** — `last-enriched` staleness. Tiered per Phase 3 design call: verified → 180d, data-complete → 90d. 0 findings (data-complete tier only landed 2026-04-21, all fresh). Queue bucket `compounding`.
+3. **type-specific-a-plus** — implements ADR-0022. Universal floor (source ≥3 Tier 1 / legal-review / central-thesis / story-grade) + per-type bars for politician/donor/corporation/think-tank/state-politician/local-politician. 1,388 findings across 446 profiles at scan time — the real story. Top drivers: 446/446 missing `story-grade` (field basically unpopulated across corpus), 371 below 3-source-type floor, 317 missing `central-thesis`, 124 donors with <3 politicians-funded, 36 politicians missing FEC/bioguide ID. Queue bucket `blocking`, leverage 5.
+4. **url-domain-policy** — URLs to dead/demoted domains per CLAUDE.md URL rules. 121 findings: 105 opensecrets-demoted, 12 followthemoney-dead, 4 lda-senate-pre-migration. web.archive.org wrappers ignored. Queue bucket `compounding`. (New script — named url-domain-policy.cjs to avoid collision with existing url-staleness.cjs which tracks re-triage freshness, a different concern.)
+
+### ADR-0022 (accepted)
+
+Type-specific A+ bars. Universal floor + per-type:
+- politician — FEC/bioguide ID, both-sides reconciliation (committee cross-ref stays in pipeline-janitor)
+- donor — politicians-funded ≥3, traceable dollar-figure provenance, sector, entity-type
+- corporation — PAC traceability, lobbying disclosure, ≥1 regulatory-footprint pipeline
+- think-tank — EIN, 990 data, donor provenance
+- state/local politician — allow state-candidate-id as ID substitute
+- policy — deferred until corpus ≥10 (currently 5)
+
+Bars grounded in ≥50% existing field coverage per type. Opens follow-up: drop `type === 'politician'` gate on pipeline-janitor universal checks (deferred for separate commit once harness check stabilizes).
+
+### ADR-0023 (proposed, full draft)
+
+Frontmatter schema — 184 distinct fields across 3,200 profiles surveyed (artifact: `content/Admin Notes/frontmatter-schema-survey.json`). Scope: 14 content types only; system types governed by convention.
+
+Proposes:
+- 5 universal required fields (title, type, last-updated, content-readiness, source-tier) codifying ≥99% current coverage
+- Per-type required + proposed-required lists grounded in ≥90% coverage
+- 16 zero-consumer fields retired immediately (running-for, parent-profile, opensanctions-*, merge-note, leadership-role, fec-candidate-id-house, fec-senate-id, experiment, data-quality-flag, claims-slug, editorial-blockers, verified-blocks, historical, former-committees)
+- Variant consolidation (parent-profile → parent, fec-candidate-id-house → fec-candidate-id, etc.)
+- TTL convention for markdown markers (180d default; follow-up harness check)
+- Schema file format: plain .cjs at scripts/lib/frontmatter-schema.cjs (matches profile-type-rulebook pattern)
+- Validator placement: harness first; promote to pre-commit sentinel after 2 weeks clean
+- 4-phase backfill plan (retire → consolidate → auto-backfill → editorial-flag)
+
+**Awaiting David review** before implementation. Questions raised at handoff:
+1. Anything in the retire-immediately list to keep?
+2. editorial-review-date/reviewer/result proposed for migration into legal-review-*; right read?
+3. TTL default of 180 days; right threshold?
+4. Harness-check-first, sentinel-after-2-weeks-clean validator progression OK?
+
+### Next session priority
+
+**Option A — implement ADR-0023** (after David review). Phase A (zero-consumer retirement) is the lowest-risk first cut: one script, one commit per batch, all 16 retired fields go away across the corpus. Unlocks Phase 4 auto-fix triage.
+
+**Option B — drop the pipeline-janitor politician gate** (ADR-0022 follow-up). Universal checks (source-floor, legal-review, central-thesis, story-grade) currently still gated on `type === 'politician'`; the harness check duplicates them for all types. Dropping the gate makes pipeline-janitor honest and removes the duplication.
+
+**Option C — start Phase 4 (auto-fix triage)** per ADR-0021 plan. Blocked on ADR-0023 implementation.
+
+Recommend A → B → C in that order.
+
+### Open deferrals (not this session's work)
+
+- Fresh FEC bulk download (weball24, weball26 — current is Aug 2024 snapshot)
+- ProfileSearch browser verification
+- `donors_to` intent row splitting (Phase 2 headline fixed, rows not)
+- ADR-0017 readiness tier sync into entities.jsonl
+- Rule 9 enforcement promotion (last of 7)
+
+---
+
 ## HANDOFF — 2026-04-24 (ADR-0021 Phase 2 — Ops /system-health wired to vault-audit harness + /attention integration)
 
 **State of the repo:** 2 commits merged to v4 (5a93000fa, 11215daa0). Worktree branch `claude/sleepy-allen-a9be6a`. Pre-commit + pre-push gates all clean. Public lockdown unchanged (`public-routes.json = ["index"]`).

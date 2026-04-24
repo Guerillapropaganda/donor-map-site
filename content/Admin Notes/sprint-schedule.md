@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: normal
 status: active
-last-updated: '2026-04-24-ADR-0021-phase-2-complete'
+last-updated: '2026-04-24-ADR-0021-phase-3-complete-plus-adr-0023-draft'
 sprint-id: "2026-04-sprint"
 sprint-start: '2026-04-10'
 sprint-end: '2026-04-30'
@@ -2061,6 +2061,54 @@ phase_1_tasks:
       notes: |
         Session State + sprint-schedule updated. 2 commits deployed to v4 (Phase 2a: 5a93000fa; Phase 2b: 11215daa0). Phase 2 complete — /system-health reads artifact + re-runs harness; harness findings flow into /attention automatically. Phase 3 (add new check types — prose-data consistency, stamp expiry, type-specific A+ bars) deferred to fresh session.
 
+    - id: cc_204
+      task: "ADR-0021 Phase 3 check #1: prose-data-consistency"
+      status: done
+      completed_date: 2026-04-24
+      added_adhoc: true
+      notes: |
+        Commit 18320926f. New scripts/prose-data-consistency.cjs — narrow pattern matcher for internal numeric contradictions in publication-tier profiles (data-complete + verified). Motivated by 2026-04-23 Trump drift (infobox "6 mega-donors" vs prose "10 megadonors"). v1 patterns: "N mega-donors" + "top N donors". Distinct values in same profile = finding; doesn't judge which is right. Registered in vault-audit harness as "prose-data-consistency" (bucket: deciding, leverage 3, cost_min 20). 0 findings at scan time — Trump still 'ready' (below publication tier). Pattern verified against Trump directly catches 6/10 cleanly.
+
+    - id: cc_205
+      task: "ADR-0021 Phase 3 check #2: stamp-expiry"
+      status: done
+      completed_date: 2026-04-24
+      added_adhoc: true
+      notes: |
+        Commit 3fcbe902c. New scripts/stamp-expiry.cjs — flags publication-tier profiles past their last-enriched window. Tiered per design call: verified → 180 days (slower editorial cycle), data-complete → 90 days (matches ADR-0017 freshness gate). Missing/malformed stamps always flag. Registered as "stamp-expiry" (bucket: compounding, leverage 3, cost_min 30). 0 findings at scan time — data-complete tier only landed Sessions A-K (2026-04-21); fires as the tier ages.
+
+    - id: cc_206
+      task: "ADR-0022 accepted + Phase 3 check #3: type-specific A+ bars"
+      status: done
+      completed_date: 2026-04-24
+      added_adhoc: true
+      notes: |
+        Commit 07fc2c2a9. ADR-0022 (content/Decisions/0022-type-specific-a-plus-bars.md, accepted) defines A+ bar per profile type; closes the 2026-04-23 credibility hole (politician-only gate let 125 donors/corps accumulate false audit-a-plus-passed stamps). Universal floor (source ≥3 Tier 1 / legal-review / central-thesis / story-grade) + per-type bars for politician/donor/corporation/think-tank/state-politician/local-politician; grounded in ≥50% field coverage survey. scripts/type-specific-a-plus-bar.cjs implements it; registered as "type-specific-a-plus" (bucket: blocking, leverage 5, cost_min 45). CLAUDE.md Active ADR list updated. First full-corpus run: 446 scanned, 0 pass, 1388 findings — 446/446 missing story-grade (field basically unpopulated), 371 below 3-source-type floor, 317 missing central-thesis, 124 donors with <3 politicians-funded, 36 politicians missing FEC/bioguide ID, 33 failing legal-review. Policy type deferred (corpus too small). Opens follow-up: drop politician gate in pipeline-janitor universal checks.
+
+    - id: cc_207
+      task: "ADR-0021 Phase 3 check #4: url-domain-policy + ADR-0023 stub"
+      status: done
+      completed_date: 2026-04-24
+      added_adhoc: true
+      notes: |
+        Commit 4ff3401f9. scripts/url-domain-policy.cjs flags URLs to dead/demoted domains in publication-tier profiles per CLAUDE.md URL rules (followthemoney.org dead, lda.senate.gov broken until June 2026, opensecrets.org demoted Tier 1 → Tier 2). web.archive.org wrappers ignored. URL verification Editor-only per Rule 13 — script surfaces, doesn't fix. Kept distinct from existing scripts/url-staleness.cjs (which tracks per-URL re-triage freshness, different concern). Registered as "url-domain-policy" (bucket: compounding, leverage 2, cost_min 30). First run: 446 scanned, 79 profiles with hits, 121 findings (105 opensecrets-demoted, 12 followthemoney-dead, 4 lda-senate-pre-migration). Also: ADR-0023 stub reserved for frontmatter schema work, blocks ADR-0021 Phase 4 auto-fix triage.
+
+    - id: cc_208
+      task: "ADR-0023 Frontmatter Schema — full draft (proposed)"
+      status: done
+      completed_date: 2026-04-24
+      added_adhoc: true
+      notes: |
+        Commit 3964d71a3. Full ADR-0023 draft (content/Decisions/0023-frontmatter-schema.md) promoted from stub. Grounded in full-corpus field survey (content/Admin Notes/frontmatter-schema-survey.json): 184 distinct frontmatter fields across 3,200 profiles in 41 type declarations. Scope: 14 content types (~2,600 profiles); system types governed by convention. Proposes 5 universal required fields (codifying ≥99% coverage), per-type required + proposed-required lists grounded in ≥90% coverage, 16 zero-consumer fields retired outright (running-for, parent-profile, opensanctions-*, merge-note, leadership-role, fec-candidate-id-house, fec-senate-id, experiment, data-quality-flag, claims-slug, editorial-blockers, verified-blocks, historical, former-committees), variant consolidation (parent-profile → parent, etc.), TTL convention for markdown markers (180d default), schema file format: plain .cjs at scripts/lib/frontmatter-schema.cjs (matches profile-type-rulebook pattern), validator placement harness-first sentinel-after-2-weeks-clean, 4-phase backfill plan (retire → consolidate → auto-backfill → editorial-flag). Status: proposed, awaiting David review before implementation. Blocks ADR-0021 Phase 4.
+
+    - id: cc_209
+      task: "Session save for Phase 3 complete + ADR-0023 draft"
+      status: done
+      completed_date: 2026-04-24
+      added_adhoc: true
+      notes: |
+        Session State + sprint-schedule updated for 5 commits this session (18320926f, 3fcbe902c, 07fc2c2a9, 4ff3401f9, 3964d71a3). Phase 3 complete: harness grew 6 → 10 checks. ADR-0022 accepted (type-specific A+ bars); ADR-0023 proposed (frontmatter schema, awaiting David review). Next session: Option A — implement ADR-0023 Phase A (zero-consumer retirement sweep); Option B — drop pipeline-janitor politician gate; Option C — Phase 4 (auto-fix triage).
+
   research_claude:
     - id: rc_01
       task: "Write ops/CLAUDE.md (frontmatter-only + URL editor-only rules)"
@@ -2731,7 +2779,9 @@ parser_guidance:
         Removed inline body dataview fields on Stratton and Miller. Fixed Mark Green central-thesis typo.
         Flag: Mark Green FEC/GovTrack auto-blocks show wrong politician data (govtrack-id 400159, 2010-2014 cycles). Pipeline correction needed.
 
-**Schedule last updated: 2026-04-24 (Code Claude: ADR-0021 PHASE 2 COMPLETE — Ops /system-health wired to vault-audit harness + findings now flow into /attention queue automatically. 2 commits deployed to v4. cc_201 Phase 2a — new /api/vault-audit (GET reads artifact with age_minutes, POST re-runs harness, requireAdmin, maxDuration 300) + new "Vault audit harness" panel at top of /system-health with 4 stat cards and per-check rows + "Re-run harness" button (commit 5fae16e41, merged 5a93000fa). cc_202 Phase 2b — scripts/vault-audit.cjs calls addEntries('vault-audit', ...) after artifact write; per-check bucket/leverage/cost_min co-located with cmd/parse in CHECKS table; errored checks always surface as blocking; source-scoped re-runs replace atomically; --no-queue flag for tests. Verified: 2 entries land in /attention (pipeline-janitor compounding 489 findings, reconciliation-framework-tier-1 deciding 145 findings), both link to /system-health. Phase 3 [add new check types — prose-data consistency, stamp expiry, type-specific A+ bars] deferred to fresh session per ADR-0021 plan.)**
+**Schedule last updated: 2026-04-24 evening (Code Claude: ADR-0021 PHASE 3 COMPLETE + ADR-0022 ACCEPTED + ADR-0023 FULL DRAFT PROPOSED. 5 commits on branch claude/interesting-morse-2d7e45, all pre-commit/pre-push gates clean. Harness grew 6 → 10 checks. cc_204 prose-data-consistency (18320926f) — narrow pattern matcher catches same-profile numeric drift like Trump's 6/10 mega-donors. cc_205 stamp-expiry (3fcbe902c) — tiered last-enriched windows, verified 180d / data-complete 90d. cc_206 ADR-0022 + type-specific-a-plus (07fc2c2a9) — universal floor + per-type bars for politician/donor/corporation/think-tank; first run surfaced 1,388 real findings across 446 profiles, primary driver 446/446 missing story-grade. cc_207 url-domain-policy + ADR-0023 stub (4ff3401f9) — 121 findings (105 opensecrets, 12 ftm, 4 lda). cc_208 ADR-0023 full draft (3964d71a3) — 184-field corpus survey, 16 zero-consumer retirement candidates, 5 universal required fields, 4-phase backfill plan, AWAITING DAVID REVIEW before implementation. cc_209 session-save. Next session: Option A implement ADR-0023 retirement sweep; Option B drop pipeline-janitor politician gate; Option C start Phase 4 auto-fix triage.)**
+
+<!-- Prior: 2026-04-24 (Code Claude: ADR-0021 PHASE 2 COMPLETE — Ops /system-health wired to vault-audit harness + findings flow into /attention automatically. 2 commits deployed to v4. cc_201 Phase 2a — new /api/vault-audit + Vault audit harness panel (5fae16e41, merged 5a93000fa). cc_202 Phase 2b — scripts/vault-audit.cjs calls addEntries, per-check queue config co-located with cmd/parse, source-scoped atomic replacement (519a91934, merged 11215daa0).) -->**
 
 <!-- Prior: 2026-04-23 late evening (Code Claude: ADR-0021 OPS STABILITY STRATEGY + 6 RULE ENFORCEMENTS. 7 commits. Traced signoff-queue + launch-50 checklists end-to-end — proved both lie (A+ check only runs for politicians, 0 pass, 125 queue items are non-politicians with weak checks; launch-50 audit is frozen snapshot with manual override toggles and stale data). 20+ problems documented in content/Admin Notes/ops-audit-2026-04-23.md. ADR-0021 written (content/Decisions/0021-ops-stability-strategy.md) — 7 missing meta-rules, unified harness concept, 7-phase rollout. Rule-sort pass classified 70 rule-ish items into 4 buckets (content/Admin Notes/rule-sort-pass-2026-04-23.md). Safe actions: 7 memory entries deleted, CLAUDE.md Rules 1+2 merged, April-30 anchors removed from Rule 11/12, Active ADRs list corrected (was at 0013, now through 0021). First application of Rule 17 (stamps expire): scripts/_tolerated-regressions.jsonl + scripts/reconcile-canonical-totals.cjs modified — Trump + McConnell tolerated until 2026-05-15 (blocked on weball26 reingest). Enforcement promotions: new scripts/no-inline-field-sentinel.cjs (pre-commit 2b) + 19 profiles cleaned of dataview :: trailers; scripts/publication-readiness-check.cjs --public-only flag + wired to pre-push; scripts/api-pipeline-sentinel.cjs (pre-commit 2c) blocking new API-calling scripts; scripts/url-editor-sentinel.cjs + new .husky/commit-msg hook (first in that lifecycle). Orange verification: contradictions memory deleted (feature shipped), LDA memory updated, ADR-0019 + 0020 amended with implementation-status notes. CLAUDE.md now has 📜 CONSTITUTION / 📚 REFERENCE section dividers. Commits: de6ddc34c 315d20979 26223618f d30727dd8 3d9b5dc95 1c5b6c447 d5f1ed1d7. cc_196 through cc_200 added.)**
 <!-- Prior: 2026-04-23 (Code Claude: PUBLIC LOCKDOWN + CREDIBILITY AUDIT FIXES. 2 commits deployed to v4. cc_192 public-routes trimmed from 9 slugs to [index] — thedonormap.org now shows only the construction splash (commit 50de0ad54, deploy 24845584051 ✓). cc_193 credibility audit fixes — Fairshake/FF PAC mis-mapping unmapped (defamation-adjacent), committee-master.jsonl ingested via path-typo alias fix [42K rows], display_name field added to 8 committees in registry, Trump prose 6→10 mega-donors aligned, Griffin+Yass annotated with public-reporting caveat (commit a6d777780, deploy 24848306134 ✓). 452 profile FEC-lifetime auto-blocks regenerated with correct committee names. DEFERRED: 2024 FEC candidate-summary staleness requires fresh bulk download from FEC.gov — Trump P80001571 shows $29K for 2024 instead of real ~$375M+.) -->**
