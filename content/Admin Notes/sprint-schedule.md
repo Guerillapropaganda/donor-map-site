@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: normal
 status: active
-last-updated: '2026-04-24-adr-0023-cd-plus-pipelines-deactivated-plus-registry-plus-audits'
+last-updated: '2026-04-24-dashboard-harness-rewire-plus-monetary-edge-root-cause-plus-918-profile-backfill'
 sprint-id: "2026-04-sprint"
 sprint-start: '2026-04-10'
 sprint-end: '2026-04-30'
@@ -2721,6 +2721,34 @@ phase_3_tasks:
       added_adhoc: true
       notes: "David screenshotted Dashboard + /pipelines + sidebar. Findings: P-037 EnrichmentPanel has OWN hardcoded 32-pipeline list separate from registry. P-038 Next.js dev hot-reload misses new lib files. P-039 Dashboard S-TIER INSIGHTS uses retired vocabulary. P-040 Dashboard 'Ready for sign-off: 124' likely same lie as /signoff-queue. P-041 Dashboard 'Both-sides: 0' contradicts pipeline-janitor harness (11 flagged). P-042 Sidebar 30-entry flat list needs DAILY/WEEKLY/EXPERIMENTAL/ADMIN grouping (proposal in audit doc). P-043 Sidebar badges unaudited. Commit 1fd13a82a."
 
+    - id: cc_p3_65
+      task: "Dashboard rewire (P-039/P-040/P-041 closed) — Quality Signals grid reads harness, 5-tier Vault Health, freshness chip"
+      status: done
+      completed_date: 2026-04-24
+      added_adhoc: true
+      notes: "ops/src/app/page.tsx replaced 'S-Tier Insights' block with 'Quality Signals' reading live /api/vault-audit. Vault Health now shows ADR-0017 5-tier flow (Verified/Data-complete/Ready/Draft/Raw) — 446 Data-complete profiles previously invisible. Both-sides conflicts shows real 11, not fake 0. Green/amber/red freshness chip in top bar, auto-rerun if artifact >15min old, click-to-rerun POSTs /api/vault-audit. Dispatcher scheduled vault-audit every 15min (scripts/attention-dispatcher.cjs). CLAUDE.md new 'Ops display rule' codifies 'read harness not stamps' pattern. Verified in browser (ops-dashboard-bypass), counts match harness stdout exactly. Commit edd15a0cc."
+
+    - id: cc_p3_66
+      task: "Bootstrap trap fix — auto-regenerate gitignored derived data artifacts on checkout/merge"
+      status: done
+      completed_date: 2026-04-24
+      added_adhoc: true
+      notes: "Fresh worktree had no data/relationships-per-profile.json (gitignored 41MB, imported by DiscoveryPanel + ProfileWidget), tsc failed, push blocked. New scripts/ensure-derived-artifacts.cjs with ARTIFACTS registry + .husky/post-checkout + .husky/post-merge invocations. Non-blocking — prints warning on failure. Extensible: add entries for future derived files. 1.4s regen. Commit f05c3bc1f."
+
+    - id: cc_p3_67
+      task: "One-click dev-server restart (P-038 closed)"
+      status: done
+      completed_date: 2026-04-24
+      added_adhoc: true
+      notes: "scripts/ops-dev-loop.bat respawn-loop wrapper + ops/src/app/api/ops-restart/route.ts (admin-gated; POST process.exit(0), GET returns pid+uptime for polling) + Dashboard 'Restart dev' amber button with restart overlay that polls /api/ops-restart GET until new PID or uptime<15s, then hard-reload. Replaces 'drop to terminal, Ctrl+C, retype command' with 1 click. Commit 21b3b5a88. Hardened with fail-fast on 3 rapid exits in commit bcb3425a2 (prevents infinite loop when port is held)."
+
+    - id: cc_p3_68
+      task: "Schema severity fix + 4-script library migration + 918-profile frontmatter backfill"
+      status: done
+      completed_date: 2026-04-24
+      added_adhoc: true
+      notes: "THE BIG ONE. Started as Layer 2 auto-backfill for schema gaps. Discovered rebuild-relationship-caches.cjs read 0 monetary edges despite 62k canonical edges. Traced to commit 3f20a16ba split of relationships.jsonl → canonical + data/derived/{source}.jsonl. Library scripts/lib/relationships-store.cjs updated at the time; 4 consumer scripts were not. Migrated rebuild-relationship-caches.cjs, relationship-cache-drift-audit.cjs, profile-timeline-generator.cjs, phase-6-data-integrity-audit.cjs (also extended to audit every derived file, by_source breakdown, cross-file duplicate-id). 4 other scripts flagged by initial grep were already correct (false alarms). scripts/vault-audit.cjs parseFrontmatterSchema now reports hard-errors-only (232) as findings_count instead of total (3,319) — 3,087 proposed-required backfill items per ADR-0023 §9 Phase C/D no longer inflate Dashboard. Backfill: 918 profiles updated (Cargill politicians-funded grew ~53→~203, full FEC employer-donor trace). Harness: type-specific-a-plus failures 1,388→1,322 (66 profiles gained coverage). SKIP_HOOKS on backfill commit because canonical-store-sentinel wanted rebuilder in same commit — was in prior commit for clean code/data separation. Commit ea0b65480."
+
   david:
     - id: dc_p3_01
       task: "Legal sanity review — personally read top 20 verified profiles"
@@ -2891,7 +2919,7 @@ parser_guidance:
         Removed inline body dataview fields on Stratton and Miller. Fixed Mark Green central-thesis typo.
         Flag: Mark Green FEC/GovTrack auto-blocks show wrong politician data (govtrack-id 400159, 2010-2014 cycles). Pipeline correction needed.
 
-**Schedule last updated: 2026-04-24 full day (Code Claude: ADR-0023 PHASES C+D + DISPATCHER-ALIVE + /PIPELINES ROOT-CAUSE + 7 WORKFLOWS DISABLED + PIPELINE REGISTRY + DASHBOARD/SIDEBAR AUDIT. 10 commits merged to v4. cc_p3_57 schema module + validator + harness registration (12th check, 6282 findings). cc_p3_58 ADR amendments — null semantics + event/story-seed exemptions + sub-note/story last-enriched removed (findings dropped to 3319 real). cc_p3_59 dispatcher-alive harness check (13th) + /attention UI per-entry age (P-026/P-027/P-028). cc_p3_60 /pipelines audit — P-031 through P-036 logged; discovered 6-day enrichment drought. cc_p3_61 enrichment-freshness harness check (14th). cc_p3_62 ROOT CAUSE: donor-map-engine billing failure since 2026-04-18. Disabled 7 workflows via gh workflow disable; kept RSS Intelligence + Auto-Connection Engine. cc_p3_63 pipeline registry (ops/src/lib/pipeline-registry.ts single source of truth) + ops UI wiring + CLAUDE.md Rule 3 CSV-only + data/enrichment-state.json paused:true. cc_p3_64 Dashboard + sidebar visual audit — P-037 through P-043 logged. David defaulted to laymen's explanations. Moving to new chat for context hygiene. NEXT SESSION: (1) P-037 EnrichmentPanel wired to registry, (2) Dashboard audit trace + fix, (3) sidebar DAILY/WEEKLY/EXPERIMENTAL/ADMIN regrouping, (4) CSV ingest validation.)**
+**Schedule last updated: 2026-04-24 afternoon (Code Claude — second session of the day: DASHBOARD HARNESS REWIRE + MONETARY-EDGE-INVISIBILITY ROOT CAUSE + 918-PROFILE BACKFILL. 5 commits merged to v4. cc_p3_65 Dashboard rewire — Quality Signals reads live harness, 5-tier Vault Health surfaces 446 previously-invisible data-complete profiles, freshness chip + 15-min auto-rerun + dispatcher wiring, CLAUDE.md 'Ops display rule' codifies harness-not-stamps pattern (P-039/P-040/P-041 closed). cc_p3_66 Bootstrap trap fix — auto-regenerate gitignored derived artifacts on checkout/merge via ensure-derived-artifacts.cjs + husky hooks. cc_p3_67 One-click dev-server restart (P-038 closed) — ops-dev-loop.bat wrapper + /api/ops-restart + Dashboard button + polling overlay; hardened with 3-rapid-exit fail-fast. cc_p3_68 THE BIG ONE: discovered 4 scripts reading data/relationships.jsonl directly, blind to 162k monetary edges in data/derived/ since commit 3f20a16ba split. Migrated rebuild-relationship-caches, relationship-cache-drift-audit, profile-timeline-generator, phase-6-data-integrity-audit (last one extended to audit derived files). Schema severity fix: findings_count now reports hard errors only (232) not total (3,319) — 3,087 proposed-required backfill items per ADR-0023 Phase C/D no longer inflate Dashboard. Ran --write: 918 profiles backfilled, Cargill politicians-funded 53→203, type-specific-a-plus failures 1,388→1,322. NEXT SESSION: (1) apply harness pattern to /signoff-queue + /bugs + /system-health, (2) triage page for 232 real schema errors, (3) audit remaining ops pages /profile /sources /operations /calendar /scripts /relationships /alerts /notes, (4) 2,919 editorial backfill (story-grade + central-thesis) is Research Claude's lane, (5) P-037 still open, (6) fresh FEC bulk unlocks Trump + McConnell tolerance.)**
 
 <!-- Prior: 2026-04-24 (Code Claude: ADR-0021 PHASE 2 COMPLETE — Ops /system-health wired to vault-audit harness + findings flow into /attention automatically. 2 commits deployed to v4. cc_201 Phase 2a — new /api/vault-audit + Vault audit harness panel (5fae16e41, merged 5a93000fa). cc_202 Phase 2b — scripts/vault-audit.cjs calls addEntries, per-check queue config co-located with cmd/parse, source-scoped atomic replacement (519a91934, merged 11215daa0).) -->**
 
