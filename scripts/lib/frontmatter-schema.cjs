@@ -38,10 +38,16 @@ module.exports = {
     },
     event: {
       required: ['date', 'status', 'source', 'source-url', 'profiles'],
-      // no editorial gate — events are log-shaped
+      // no editorial gate — events are log-shaped. They have `date` as
+      // their authoritative timestamp and `status` for lifecycle.
+      // Editorial universals don't apply.
+      exempt_universal: ['last-updated', 'source-tier', 'content-readiness'],
     },
     'sub-note': {
-      required: ['parent', 'related', 'last-enriched'],
+      // last-enriched removed 2026-04-24 — sub-notes are editorial child
+      // notes, not pipeline-enriched. 450 of 462 sub-notes had no
+      // last-enriched field; the requirement was unfounded.
+      required: ['parent', 'related'],
       // content-readiness is inherited from parent; validator rule handles this
       inherits_content_readiness: true,
     },
@@ -51,10 +57,15 @@ module.exports = {
     },
     'story-seed': {
       required: ['seed-type', 'confidence', 'auto-generated', 'status'],
-      // no editorial gate — auto-generated
+      // no editorial gate — auto-generated. Promotion to full `story`
+      // carries its own universals.
+      exempt_universal: ['source-tier', 'content-readiness'],
     },
     story: {
-      required: ['parent', 'related', 'last-enriched'],
+      // last-enriched removed 2026-04-24 — stories are narrative content,
+      // not pipeline-enriched entities. 105/105 stories had no
+      // last-enriched field.
+      required: ['parent', 'related'],
       proposed_required: ['story-grade', 'central-thesis'],
     },
     'media-profile': {

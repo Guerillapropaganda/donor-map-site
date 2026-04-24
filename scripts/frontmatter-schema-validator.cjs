@@ -64,9 +64,11 @@ function validateProfile(file, fm) {
 
   const rules = schema.types[type] || {};
 
-  // Universal required
+  // Universal required (honor per-type exemptions)
+  const exempt = new Set(rules.exempt_universal || []);
   for (const field of schema.universal.required) {
-    if (fm[field] === undefined || fm[field] === null || fm[field] === '') {
+    if (exempt.has(field)) continue;
+    if (fm[field] === undefined || fm[field] === '') {
       // sub-notes inherit content-readiness from parent — skip that check for them
       if (field === 'content-readiness' && rules.inherits_content_readiness) continue;
       violations.push({ kind: 'missing_universal', field, file });
@@ -76,7 +78,7 @@ function validateProfile(file, fm) {
   // Type-required
   for (const field of rules.required || []) {
     const v = fm[field];
-    if (v === undefined || v === null || v === '' || (Array.isArray(v) && v.length === 0)) {
+    if (v === undefined || v === '' || (Array.isArray(v) && v.length === 0)) {
       violations.push({ kind: 'missing_type_required', field, file });
     }
   }
@@ -84,14 +86,14 @@ function validateProfile(file, fm) {
   // Type-proposed-required (soft)
   for (const field of rules.proposed_required || []) {
     const v = fm[field];
-    if (v === undefined || v === null || v === '' || (Array.isArray(v) && v.length === 0)) {
+    if (v === undefined || v === '' || (Array.isArray(v) && v.length === 0)) {
       violations.push({ kind: 'missing_type_proposed', field, file });
     }
   }
 
   // ID substitute (politician, state-politician, local-politician)
   if (rules.id_substitute) {
-    const hasAny = rules.id_substitute.some(f => fm[f] !== undefined && fm[f] !== null && fm[f] !== '');
+    const hasAny = rules.id_substitute.some(f => fm[f] !== undefined && fm[f] !== '');
     if (!hasAny) {
       violations.push({ kind: 'missing_id', field: rules.id_substitute.join('|'), file });
     }
