@@ -167,6 +167,14 @@ const CHECKS = [
     timeout_ms: 60000,
     queue: { bucket: 'deciding', leverage: 3, cost_min: 60 },
   },
+  {
+    name: 'dispatcher-alive',
+    description: 'Attention Queue dispatcher daemon liveness — log freshness during expected-uptime window',
+    cmd: ['node', 'scripts/dispatcher-alive-check.cjs', '--json'],
+    parse: parseDispatcherAlive,
+    timeout_ms: 10000,
+    queue: { bucket: 'blocking', leverage: 5, cost_min: 5 },
+  },
 ];
 
 // ─── Output parsers (one per check) ────────────────────────────────
@@ -272,6 +280,18 @@ function parseUrlDomainPolicy(stdout, _stderr, _exit) {
     return {
       findings_count: j.total_findings || 0,
       notes: `${j.scanned || 0} scanned, ${j.profiles_with_hits || 0} profiles hit. ${sev}.`,
+    };
+  } catch {
+    return { findings_count: 0, notes: '(json parse failed)' };
+  }
+}
+
+function parseDispatcherAlive(stdout, _stderr, _exit) {
+  try {
+    const j = JSON.parse(stdout);
+    return {
+      findings_count: j.findings_count || 0,
+      notes: j.message,
     };
   } catch {
     return { findings_count: 0, notes: '(json parse failed)' };

@@ -33,7 +33,13 @@ interface AttentionResponse {
   }
   ranked: AttentionEntry[]
   sources: string[]
+  // lastUpdated = newest entry across all sources (per-entry-based, P-026 fix).
+  // perSourceLastUpdated = newest entry per source; lets the UI flag
+  //   sources past their expected cadence.
+  // storeMtime = file mtime (kept for debugging).
   lastUpdated: string | null
+  perSourceLastUpdated?: Record<string, string | null>
+  storeMtime?: string
   empty: boolean
 }
 
@@ -68,6 +74,22 @@ function renderLeverage(n: number): string {
 function ratioString(leverage: number, cost: number): string {
   const r = leverage / cost
   return r.toFixed(2)
+}
+
+// Relative time — "3m ago", "2h ago", "5d ago". Falsy input returns "—".
+// Used per-entry (P-027) so David can see that a 13-day-old entry is
+// different from a 10-minute-old one.
+function timeAgo(iso: string | null | undefined): string {
+  if (!iso) return "—"
+  const ms = Date.now() - new Date(iso).getTime()
+  if (isNaN(ms) || ms < 0) return "—"
+  const min = Math.floor(ms / 60000)
+  if (min < 1) return "just now"
+  if (min < 60) return `${min}m ago`
+  const hr = Math.floor(min / 60)
+  if (hr < 24) return `${hr}h ago`
+  const d = Math.floor(hr / 24)
+  return `${d}d ago`
 }
 
 export default function AttentionPage() {
@@ -260,10 +282,12 @@ node scripts/promotion-candidate-queue.cjs`}
           </button>
           {data.sources.map((s) => {
             const count = data.ranked.filter((e) => e.source === s).length
+            const srcFreshness = data.perSourceLastUpdated?.[s]
             return (
               <button
                 key={s}
                 onClick={() => setSourceFilter(s)}
+                title={srcFreshness ? `Newest entry: ${timeAgo(srcFreshness)} (${srcFreshness})` : "No entries timestamped"}
                 className={`px-2 py-1 rounded border transition-colors ${
                   sourceFilter === s
                     ? "border-[var(--color-text)] text-[var(--color-text)]"
@@ -271,6 +295,9 @@ node scripts/promotion-candidate-queue.cjs`}
                 }`}
               >
                 {s} ({count})
+                {srcFreshness && (
+                  <span className="ml-1 text-[var(--color-steel)]">· {timeAgo(srcFreshness)}</span>
+                )}
               </button>
             )
           })}
@@ -309,6 +336,13 @@ node scripts/promotion-candidate-queue.cjs`}
                       <div className="text-[10px] text-[var(--color-text-dim)] mt-0.5">
                         {meta.emoji} {meta.label} · surfaced by{" "}
                         <code className="text-[var(--color-steel)]">{e.source}</code>
+                        {" · "}
+                        <span
+                          className="text-[var(--color-steel)]"
+                          title={`First flagged: ${e.created}`}
+                        >
+                          {timeAgo(e.created)}
+                        </span>
                       </div>
                     </div>
                     <div className="flex-shrink-0 text-right">
