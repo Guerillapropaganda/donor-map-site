@@ -26,6 +26,13 @@ const RETIRE = new Set([
   'editorial-blockers',
   'verified-blocks',
   'historical',
+  // Phase B additions (2026-04-23): editorial-workflow experiment
+  // that was never adopted. Not migrated to legal-review-* because
+  // the semantics don't match (reviewer=Research Claude, results
+  // like "verified-candidate" are editorial, not legal-risk).
+  'editorial-review-date',
+  'editorial-reviewer',
+  'editorial-result',
 ]);
 
 const DRY = process.argv.includes('--dry');

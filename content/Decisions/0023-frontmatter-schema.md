@@ -152,11 +152,15 @@ Retire immediately (zero consumers, near-zero data):
 Retire after migration (low consumers, some data):
 
 - `editorial-review-date`, `editorial-reviewer`, `editorial-result` —
-  3 politicians touched, never adopted as workflow. **Migrate to
-  `legal-review-date`, `legal-review-reviewer`, `legal-review-result`**
-  on any profile that still carries them (David, 2026-04-23: "let's do
-  it the cleaner way"). `legal-review-*` is the canonical name going
-  forward.
+  **retire immediately, do not migrate** (amended 2026-04-23).
+  Initial plan was to migrate to `legal-review-*`. On inspection the
+  16 affected profiles carry reviewer=`Research Claude` with results
+  like `pass`, `verified-candidate`, `ready-candidate`, `stub-created`
+  — this is editorial-workflow data, not legal-review data. Moving it
+  into `legal-review-*` would pollute the legal-risk namespace (the
+  ADR-0022 A+ gate field) with non-legal content. The editorial
+  workflow behind these fields ran once 2026-04-08 through 2026-04-10
+  and was never adopted. Just retire.
 - `custom-stats`, `shareable-stat`, `spotlight-reason`, `featured-date`
   — one-off feature fields that didn't scale. Audit consumers, then remove.
 - `say-vs-pay`, `caucus`, `total-received-note` — partial adoption.

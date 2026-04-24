@@ -29,9 +29,6 @@ source-types:
 corroboration-count: 3
 known-gaps:
   - FEC Brand New Congress LLC transfers under 3-3 deadlock (MUR 7592) — no final resolution
-editorial-review-date: "2026-04-09"
-editorial-reviewer: "Research Claude"
-editorial-result: pass
 related: "[[_Alexandria Ocasio-Cortez Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Scott Wiener Master Profile]] · [[Small Dollar Donors - ActBlue]]"
 needs-reenrichment: true
 reenrich-reason: "run congress pipeline; run pipelines"
