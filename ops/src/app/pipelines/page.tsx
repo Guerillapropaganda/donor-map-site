@@ -6,6 +6,7 @@ import { PipelineRunHistory } from "@/components/PipelineRunHistory"
 import { ProfileEnrich } from "@/components/ProfileEnrich"
 import { EnrichmentHistory } from "@/components/EnrichmentHistory"
 import { EnrichmentLog } from "@/components/EnrichmentLog"
+import { PIPELINE_REGISTRY, type PipelineStatus } from "@/lib/pipeline-registry"
 
 export default function PipelinesPage() {
   const [triggering, setTriggering] = useState(false)
@@ -47,34 +48,80 @@ export default function PipelinesPage() {
         )}
       </div>
 
-      {/* Pipeline Overview Grid */}
-      <div className="grid grid-cols-2 md:grid-cols-4 gap-3 mb-6">
-        {[
-          { name: "FEC", desc: "Campaign finance data", icon: "\uD83C\uDFDB", color: "#22c55e", pipeline: "fec-pipeline" },
-          { name: "Congress", desc: "Bills, votes, committees", icon: "\uD83D\uDCDC", color: "#5b8dce", pipeline: "congress-pipeline" },
-          { name: "GovTrack", desc: "Voting records", icon: "\uD83D\uDDF3", color: "#a855f7", pipeline: "govtrack-pipeline" },
-          { name: "LobbyView", desc: "Lobbying disclosures", icon: "\uD83D\uDD0D", color: "#f59e0b", pipeline: "lobbyview-pipeline" },
-          { name: "Committee", desc: "Committee assignments", icon: "\uD83D\uDC65", color: "#ec4899", pipeline: "committee-pipeline" },
-          { name: "Relationships", desc: "Connection scanner", icon: "\uD83D\uDD17", color: "#ef4444", pipeline: "relationship-discovery" },
-          { name: "Federal Register", desc: "Executive orders", icon: "\uD83D\uDCF0", color: "#7a7a86", pipeline: "exec-orders-pipeline" },
-          { name: "USASpending", desc: "Federal contracts", icon: "\uD83D\uDCB0", color: "#22c55e", pipeline: "usaspending-pipeline" },
-        ].map(p => (
-          <div key={p.name} className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-3 hover:border-[var(--color-text-dim)]/30 transition-all group">
-            <div className="flex items-center gap-2 mb-2">
-              <span className="text-sm">{p.icon}</span>
-              <span className="text-[10px] font-bold text-[var(--color-text)]">{p.name}</span>
+      {/* Paused banner — shown while API pipelines are disabled. */}
+      <div className="bg-amber-950/30 border border-amber-500/40 rounded-lg p-4 mb-6">
+        <div className="flex items-start gap-3">
+          <span className="text-lg">⏸️</span>
+          <div className="flex-1">
+            <div className="text-[12px] font-bold text-amber-300 mb-1">
+              API pipelines paused (2026-04-24)
             </div>
-            <p className="text-[8px] text-[var(--color-text-dim)] mb-3">{p.desc}</p>
-            <button
-              onClick={() => triggerPipeline(p.pipeline, 25)}
-              disabled={triggering}
-              className="w-full text-[8px] py-1.5 rounded border transition-all opacity-0 group-hover:opacity-100 disabled:opacity-50"
-              style={{ color: p.color, borderColor: `${p.color}40`, backgroundColor: `${p.color}10` }}
-            >
-              {triggering ? "Running..." : "Run"}
-            </button>
+            <div className="text-[11px] text-[var(--color-text-dim)] leading-relaxed">
+              Seven GitHub Actions workflows were disabled to stop burning
+              private-repo Actions minutes. Only <strong className="text-[var(--color-text)]">RSS Intelligence</strong> (scheduled, viable) and{" "}
+              <strong className="text-[var(--color-text)]">Auto-Connection Engine</strong> (manual-trigger, no cost) remain active.
+            </div>
+            <div className="text-[10px] text-[var(--color-text-dim)] mt-2">
+              Enrichment runs via local CSV bulk scripts:{" "}
+              <code className="text-[var(--color-steel)]">scripts/ingest-fec-bulk.cjs</code>,{" "}
+              <code className="text-[var(--color-steel)]">scripts/ingest-usaspending-bulk.cjs</code>,{" "}
+              <code className="text-[var(--color-steel)]">scripts/ingest-irs-990-bulk.cjs</code>.
+              Re-enable workflows with{" "}
+              <code className="text-[var(--color-steel)]">gh workflow enable</code> when ready.
+            </div>
           </div>
-        ))}
+        </div>
+      </div>
+
+      {/* Pipeline Overview Grid — reads from PIPELINE_REGISTRY. Single source
+          of truth. Paused/retired/broken pipelines render dimmed with no Run
+          button (clicking would just fire a workflow that's disabled or
+          failing). */}
+      <div className="grid grid-cols-2 md:grid-cols-4 gap-3 mb-6">
+        {PIPELINE_REGISTRY.filter((p) => p.status !== "retired").map((p) => {
+          const isRunnable = p.status === "active" || p.status === "experimental"
+          const statusLabel: Record<PipelineStatus, string> = {
+            active: "",
+            paused: "paused",
+            retired: "retired",
+            experimental: "experimental",
+            broken: "broken",
+          }
+          return (
+            <div
+              key={p.id}
+              className={`bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-3 transition-all group ${
+                isRunnable ? "hover:border-[var(--color-text-dim)]/30" : "opacity-60"
+              }`}
+              title={p.notes || p.description}
+            >
+              <div className="flex items-center gap-2 mb-1">
+                <span className="text-sm">{p.icon}</span>
+                <span className="text-[10px] font-bold text-[var(--color-text)]">{p.label}</span>
+              </div>
+              {statusLabel[p.status] && (
+                <div className="text-[8px] uppercase tracking-wider text-amber-400 mb-1">
+                  {statusLabel[p.status]}
+                </div>
+              )}
+              <p className="text-[8px] text-[var(--color-text-dim)] mb-3">{p.description}</p>
+              {isRunnable ? (
+                <button
+                  onClick={() => triggerPipeline(p.id, 25)}
+                  disabled={triggering}
+                  className="w-full text-[8px] py-1.5 rounded border transition-all opacity-0 group-hover:opacity-100 disabled:opacity-50"
+                  style={{ color: p.color, borderColor: `${p.color}40`, backgroundColor: `${p.color}10` }}
+                >
+                  {triggering ? "Running..." : "Run"}
+                </button>
+              ) : (
+                <div className="w-full text-[8px] py-1.5 text-center text-[var(--color-text-dim)]">
+                  {p.status === "paused" ? "workflow disabled" : p.status}
+                </div>
+              )}
+            </div>
+          )
+        })}
       </div>
 
       {/* Tabs */}
