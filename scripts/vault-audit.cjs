@@ -112,6 +112,14 @@ const CHECKS = [
     queue: { bucket: 'blocking', leverage: 5, cost_min: 20 },
   },
   {
+    name: 'prose-data-consistency',
+    description: 'Internal numeric contradictions in publication-tier profiles (e.g. infobox says 6 mega-donors, prose says 10)',
+    cmd: ['node', 'scripts/prose-data-consistency.cjs', '--json'],
+    parse: parseProseDataConsistency,
+    timeout_ms: 60000,
+    queue: { bucket: 'deciding', leverage: 3, cost_min: 20 },
+  },
+  {
     name: 'reconciliation-framework-tier-1',
     description: 'Data integrity: absurd-value frontmatter, self-loop edges, duplicates, orphans',
     cmd: ['node', 'scripts/verify-all.cjs', '--tier', '1'],
@@ -176,6 +184,18 @@ function parsePublicationReadiness(stdout, _stderr, _exit) {
     };
   } catch {
     return { findings_count: 0, notes: '(json parse failed — likely 0 public routes yet)' };
+  }
+}
+
+function parseProseDataConsistency(stdout, _stderr, _exit) {
+  try {
+    const j = JSON.parse(stdout);
+    return {
+      findings_count: j.total_findings || 0,
+      notes: `${j.scanned || 0} scanned, ${j.profiles_with_findings || 0} with contradictions, ${j.total_findings || 0} finding(s) total.`,
+    };
+  } catch {
+    return { findings_count: 0, notes: '(json parse failed)' };
   }
 }
 
