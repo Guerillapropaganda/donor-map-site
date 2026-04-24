@@ -36,6 +36,16 @@ fi
 
 echo "--- pre-commit gate ---"
 
+# 0. Large-file sentinel — blocks any staged file >50MB. GitHub rejects
+# >100MB; 50MB is the safety margin. Prevents the 2026-04-23 incident
+# class where git add -A swept 1.7GB .bak files past commit and into a
+# rejected push. Cheap — file stat only, no content scan.
+echo "  -> large-file-sentinel"
+node scripts/large-file-sentinel.cjs
+if [ $? -ne 0 ]; then
+  exit 1
+fi
+
 # 1. Self-review mirror (voice + defamation + regression)
 echo "  -> self-review-mirror"
 node scripts/self-review-mirror.cjs
