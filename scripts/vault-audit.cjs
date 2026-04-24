@@ -318,14 +318,20 @@ function parseDispatcherAlive(stdout, _stderr, _exit) {
 function parseFrontmatterSchema(stdout, _stderr, _exit) {
   try {
     const j = JSON.parse(stdout);
+    // findings_count = HARD only (real errors the Dashboard shows).
+    // Soft findings (missing_type_proposed) are ADR-0023 §9 Phase C/D
+    // backfill work — not bugs today, scheduled future work. Surfacing
+    // them as "violations" drowns real errors in noise (the 2026-04-24
+    // Dashboard audit found this: 3,319 displayed, only 232 actionable).
     const hard = (j.by_kind['missing_universal'] || 0)
       + (j.by_kind['missing_type_required'] || 0)
       + (j.by_kind['missing_id'] || 0)
-      + (j.by_kind['retired_field'] || 0);
+      + (j.by_kind['retired_field'] || 0)
+      + (j.by_kind['unknown_type'] || 0);
     const soft = j.by_kind['missing_type_proposed'] || 0;
     return {
-      findings_count: j.total_findings || 0,
-      notes: `${j.scanned} scanned, ${j.profiles_with_violations} with violations. ${hard} hard (universal/type-required/id/retired), ${soft} soft (proposed-required).`,
+      findings_count: hard,
+      notes: `${j.scanned} scanned, ${j.profiles_with_violations} with violations. ${hard} error(s) (universal/type-required/id/retired/unknown-type), ${soft} info (proposed-required backfill per ADR-0023 Phase C/D).`,
     };
   } catch {
     return { findings_count: 0, notes: '(json parse failed)' };

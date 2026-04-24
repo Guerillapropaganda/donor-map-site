@@ -33,16 +33,15 @@ const VERBOSE = process.argv.includes("--verbose")
 
 // ─── Load canonical edges ─────────────────────────────────────────────
 
+// Uses the relationships-store library which reads canonical + derived/.
+// Previously read only data/relationships.jsonl, so "drift" in the ~162k
+// monetary edges (donors / politicians-funded / top-donors frontmatter
+// caches) was silently undetectable — the audit reported "no drift" while
+// hundreds of profiles had stale FEC-derived caches.
+const { loadEdges: loadAllEdges } = require('./lib/relationships-store.cjs')
+
 function loadEdges() {
-  const edges = []
-  const p = path.join(DATA_DIR, "relationships.jsonl")
-  const lines = fs.readFileSync(p, "utf-8").split(/\r?\n/).filter(Boolean)
-  for (const line of lines) {
-    try {
-      edges.push(JSON.parse(line))
-    } catch {}
-  }
-  return edges
+  return loadAllEdges()
 }
 
 // Build from-index for fast lookup

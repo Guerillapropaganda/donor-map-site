@@ -156,49 +156,72 @@ function auditSources() {
   return summarize(results)
 }
 
-// ─── Audit: relationships.jsonl ──────────────────────────────────────
+// ─── Audit: relationships.jsonl + data/derived/*.jsonl ──────────────
+// Extended 2026-04-24 to cover derived edge files (FEC / IRS /
+// USASpending ingester outputs). Previously audited only the canonical
+// file, which left ~162k monetary edges unaudited — 72% of the real
+// graph was invisible to integrity checks. Same shape rules apply to
+// both canonical and derived.
 
 function auditRelationships() {
-  const file = path.join(DATA_DIR, "relationships.jsonl")
-  const records = loadJsonl(file)
-  const results = { total: records.length, passed: 0, failed: 0, failures: [] }
-  if (records.length === 0) return { ...summarize(results), skipped: !fs.existsSync(file) }
-
-  const idSeen = new Set()
-
-  for (const rec of records) {
-    if (rec.__parse_error) {
-      results.failed += 1
-      results.failures.push({ type: "parse-error", id: "-", message: rec.__parse_error })
-      continue
+  const files = [path.join(DATA_DIR, "relationships.jsonl")]
+  const derivedDir = path.join(DATA_DIR, "derived")
+  if (fs.existsSync(derivedDir)) {
+    for (const f of fs.readdirSync(derivedDir).sort()) {
+      if (f.endsWith(".jsonl")) files.push(path.join(derivedDir, f))
     }
-
-    if (rec.id && idSeen.has(rec.id)) {
-      results.failed += 1
-      results.failures.push({ type: "duplicate-id", id: rec.id, message: "edge id collision" })
-      continue
-    }
-    if (rec.id) idSeen.add(rec.id)
-
-    // Minimal shape check (the full validator might be too strict for
-    // legacy edges from earlier phases)
-    const missing = []
-    for (const field of ["from", "to", "type"]) {
-      if (!rec[field]) missing.push(field)
-    }
-    if (missing.length) {
-      results.failed += 1
-      results.failures.push({
-        type: "shape",
-        id: rec.id || "-",
-        message: `missing ${missing.join(", ")}`,
-      })
-      continue
-    }
-
-    results.passed += 1
   }
 
+  const results = { total: 0, passed: 0, failed: 0, failures: [], by_source: {} }
+  const idSeen = new Set()
+
+  for (const file of files) {
+    const label = path.basename(file)
+    const records = loadJsonl(file)
+    const src = { total: records.length, passed: 0, failed: 0 }
+    results.total += records.length
+
+    for (const rec of records) {
+      if (rec.__parse_error) {
+        results.failed += 1
+        src.failed += 1
+        results.failures.push({ type: "parse-error", id: "-", source: label, message: rec.__parse_error })
+        continue
+      }
+
+      // Duplicate-id check is cross-file: edge ids must be unique across
+      // canonical + derived (they're hash-stable per edge content).
+      if (rec.id && idSeen.has(rec.id)) {
+        results.failed += 1
+        src.failed += 1
+        results.failures.push({ type: "duplicate-id", id: rec.id, source: label, message: "edge id collision across files" })
+        continue
+      }
+      if (rec.id) idSeen.add(rec.id)
+
+      const missing = []
+      for (const field of ["from", "to", "type"]) {
+        if (!rec[field]) missing.push(field)
+      }
+      if (missing.length) {
+        results.failed += 1
+        src.failed += 1
+        results.failures.push({
+          type: "shape",
+          id: rec.id || "-",
+          source: label,
+          message: `missing ${missing.join(", ")}`,
+        })
+        continue
+      }
+
+      results.passed += 1
+      src.passed += 1
+    }
+    results.by_source[label] = src
+  }
+
+  if (results.total === 0) return { ...summarize(results), skipped: true }
   return summarize(results)
 }
 
