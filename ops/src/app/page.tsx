@@ -139,6 +139,52 @@ export default function Dashboard() {
   const [harnessRunning, setHarnessRunning] = useState(false)
   const [harnessError, setHarnessError] = useState<string | null>(null)
 
+  // Dev-server restart — addresses P-038 (hot-reload can't pick up
+  // state-hook additions). Clicking the button POSTs to /api/ops-restart
+  // which calls process.exit(0); scripts/ops-dev-loop.bat respawns.
+  // The overlay polls /api/ops-restart (GET) until the server is back
+  // with a new PID, then hard-reloads the page so fresh code mounts.
+  const [restarting, setRestarting] = useState(false)
+  const [restartStatus, setRestartStatus] = useState("")
+  const doRestart = async () => {
+    if (restarting) return
+    if (!confirm("Restart the ops dev server? The page will auto-reload when it's back up (~5s).")) return
+    setRestarting(true)
+    setRestartStatus("Asking server to exit…")
+    const originalPid: number | null = await (async () => {
+      try {
+        const r = await fetch("/api/ops-restart")
+        if (!r.ok) return null
+        const d = await r.json()
+        return typeof d.pid === "number" ? d.pid : null
+      } catch { return null }
+    })()
+    try {
+      await fetch("/api/ops-restart", { method: "POST" })
+    } catch { /* expected — server is dying */ }
+    setRestartStatus("Server exited. Waiting for wrapper to respawn…")
+    // Poll /api/ops-restart GET until we see a new pid OR uptime < 10s
+    // (wrapper re-launched). Give up after ~30s of no response.
+    const started = Date.now()
+    while (Date.now() - started < 30000) {
+      await new Promise((r) => setTimeout(r, 700))
+      try {
+        const r = await fetch("/api/ops-restart", { cache: "no-store" })
+        if (!r.ok) continue
+        const d = await r.json()
+        const newServer =
+          (originalPid !== null && typeof d.pid === "number" && d.pid !== originalPid) ||
+          (typeof d.uptime_sec === "number" && d.uptime_sec < 15)
+        if (newServer) {
+          setRestartStatus("Back up. Reloading page…")
+          setTimeout(() => window.location.reload(), 500)
+          return
+        }
+      } catch { /* still dead, keep polling */ }
+    }
+    setRestartStatus("Timed out after 30s. Check the wrapper terminal.")
+  }
+
   const loadHarness = async (opts: { autoRerun?: boolean } = {}) => {
     try {
       setHarnessError(null)
@@ -273,8 +319,44 @@ export default function Dashboard() {
             </svg>
             Refresh from GitHub
           </button>
+          {/* Restart dev server — needs scripts/ops-dev-loop.bat wrapper */}
+          <button
+            onClick={() => doRestart()}
+            disabled={restarting}
+            title="Kills + respawns the Next.js dev server. Requires ops-dev-loop.bat wrapper."
+            className="flex items-center gap-2 rounded-lg px-3 py-2 text-[10px] border transition-colors disabled:opacity-50"
+            style={{
+              borderColor: "#f59e0b55",
+              color: "#f59e0b",
+              backgroundColor: "#f59e0b15",
+            }}
+          >
+            <svg className={`w-3 h-3 ${restarting ? "animate-spin" : ""}`} fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
+              <path strokeLinecap="round" strokeLinejoin="round" d="M16 5l-4-4m0 0L8 5m4-4v12m5.657 4.657a8 8 0 11-11.314 0" />
+            </svg>
+            Restart dev
+          </button>
         </div>
       </div>
+
+      {/* Restart overlay */}
+      {restarting && (
+        <div className="fixed inset-0 z-50 bg-black/70 flex items-center justify-center">
+          <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-6 max-w-md">
+            <div className="flex items-center gap-3 mb-3">
+              <svg className="w-5 h-5 animate-spin text-[var(--color-amber)]" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
+                <path strokeLinecap="round" strokeLinejoin="round" d="M16 5l-4-4m0 0L8 5m4-4v12m5.657 4.657a8 8 0 11-11.314 0" />
+              </svg>
+              <h3 className="text-sm font-bold text-[var(--color-text)]">Restarting dev server</h3>
+            </div>
+            <p className="text-[11px] text-[var(--color-text-dim)] mb-2">{restartStatus || "Working…"}</p>
+            <p className="text-[9px] text-[var(--color-text-dim)]">
+              If this hangs for more than 30 seconds, check the terminal running scripts/ops-dev-loop.bat —
+              the wrapper may have caught a syntax error and is stuck trying to restart.
+            </p>
+          </div>
+        </div>
+      )}
 
       {/* Error / Setup Guide */}
       {error && (
