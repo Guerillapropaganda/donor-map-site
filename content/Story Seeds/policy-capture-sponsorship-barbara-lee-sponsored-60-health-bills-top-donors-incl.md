@@ -14,7 +14,7 @@ _Confidence: ★★★☆☆ · Surfaced by contradiction-miner on 2026-04-24_
 
 ## The angle
 
-Barbara Lee has sponsored 60 bills in the "Health" policy area. Their top donors include: Kaiser Permanente (Healthcare), Gilead Sciences (Pharma & Healthcare). This is the classic policy-capture-by-money pattern — legislator acts as a direct channel for donor industry interests. Pull the bill list (query Ask with `subject: bills, sponsor_bioguide: L000551, policy_area: Health`) and cross-reference with donor industry positions on those specific bills.
+Barbara Lee has sponsored 60 bills in the "Health" policy area. Their top donors include: Gilead Sciences (Pharma & Healthcare), Kaiser Permanente (Healthcare). This is the classic policy-capture-by-money pattern — legislator acts as a direct channel for donor industry interests. Pull the bill list (query Ask with `subject: bills, sponsor_bioguide: L000551, policy_area: Health`) and cross-reference with donor industry positions on those specific bills.
 
 ## Evidence from the vault
 

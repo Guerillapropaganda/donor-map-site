@@ -1,12 +1,12 @@
 {
   "stats": {
-    "lastUpdated": "2026-04-24T04:46:22.683Z",
+    "lastUpdated": "2026-04-24T05:15:21.589Z",
     "lookbackDays": 90,
     "senateFilings": 40,
     "houseFilings": 119,
     "totalFilings": 159,
     "totalTransactions": 808,
-    "runtime": "237.4s"
+    "runtime": "237.5s"
   },
   "filings": [
     {

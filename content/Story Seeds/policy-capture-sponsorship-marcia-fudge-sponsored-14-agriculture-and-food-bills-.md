@@ -3,14 +3,14 @@ title: "Marcia Fudge sponsored 14 'Agriculture and Food' bills; top donors inclu
 type: story-seed
 seed-type: policy-capture-sponsorship
 confidence: 3
-last-updated: '2026-04-23'
+last-updated: '2026-04-24'
 auto-generated: true
 status: unclaimed
 ---
 
 # Marcia Fudge sponsored 14 "Agriculture and Food" bills; top donors include 4 from matching sector
 
-_Confidence: ★★★☆☆ · Surfaced by contradiction-miner on 2026-04-23_
+_Confidence: ★★★☆☆ · Surfaced by contradiction-miner on 2026-04-24_
 
 ## The angle
 

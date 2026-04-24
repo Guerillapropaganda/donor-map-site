@@ -12,7 +12,7 @@ generated-by: scripts/lib/attention-queue.cjs
 
 *Auto-generated. Every script that finds something worth your time writes to this file.*
 
-**31** blocking · **53** editorial decisions · **17** background cleanup
+**31** blocking · **53** editorial decisions · **37** background cleanup
 
 ---
 
@@ -735,11 +735,11 @@ Southern Company is a politically-active vault entity that ALSO appears in the I
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `contradiction-miner`
 
-### Sherrod Brown sponsored 15 "Housing and Community Development" bills; top donors include 1 from matching sector
+### Marcia Fudge sponsored 11 "Health" bills; top donors include 2 from matching sector
 
-Sherrod Brown has sponsored 15 bills in the "Housing and Community Development" policy area. Their top donors include: National Association of Realtors (Real Estate). This is the classic policy-capture-by-money pattern — legislator acts as a direct channel for donor industry interests. Pull the bill list (query Ask with `subject: bills, sponsor_bio
+Marcia Fudge has sponsored 11 bills in the "Health" policy area. Their top donors include: Pfizer Inc. (Pharma & Healthcare), Amgen Inc (Pharma & Healthcare). This is the classic policy-capture-by-money pattern — legislator acts as a direct channel for donor industry interests. Pull the bill list (query Ask with `subject: bills, sponsor_bioguide: F
 
-- **Where:** `content/Story Seeds/policy-capture-sponsorship-sherrod-brown-sponsored-15-housing-and-community-deve.md`
+- **Where:** `content/Story Seeds/policy-capture-sponsorship-marcia-fudge-sponsored-11-health-bills-top-donors-inc.md`
 - **Cost:** ~25 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `contradiction-miner`
@@ -762,11 +762,11 @@ Apple is a politically-active vault entity that ALSO appears in the ICIJ Offshor
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `contradiction-miner`
 
-### Adam Smith sponsored 25 "Armed Forces and National Security" bills; top donors include 6 from matching sector
+### Marcia Fudge sponsored 14 "Agriculture and Food" bills; top donors include 4 from matching sector
 
-Adam Smith has sponsored 25 bills in the "Armed Forces and National Security" policy area. Their top donors include: L3Harris Technologies (Defense & Intelligence), BAE Systems (Defense & Intelligence), Northrop Grumman (Defense & Intelligence). This is the classic policy-capture-by-money pattern — legislator acts as a direct channel for donor indu
+Marcia Fudge has sponsored 14 bills in the "Agriculture and Food" policy area. Their top donors include: McDonalds Corporation (Restaurant & Food), National Restaurant Association (Restaurant & Food), Monsanto - Bayer (Agriculture). This is the classic policy-capture-by-money pattern — legislator acts as a direct channel for donor industry interest
 
-- **Where:** `content/Story Seeds/policy-capture-sponsorship-adam-smith-sponsored-25-armed-forces-and-national-sec.md`
+- **Where:** `content/Story Seeds/policy-capture-sponsorship-marcia-fudge-sponsored-14-agriculture-and-food-bills-.md`
 - **Cost:** ~25 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `contradiction-miner`
@@ -927,6 +927,186 @@ URLs to dead/demoted domains in publication-tier profiles (FollowTheMoney, pre-m
 - **Cost:** ~30 min
 - **Leverage:** ★★☆☆☆
 - **Surfaced by:** `vault-audit`
+
+### Food and Water Action — dark-money-networked, $1,026,511,866 tracked political spend
+
+Food and Water Action is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $1,026,511,866. Investigate cross-references with other dark-money network members. [dark_money_network, score 25.64, tier high]
+
+- **Where:** `/query?subject=entities&capital_type=dark-money-vehicle`
+- **Cost:** ~90 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `story-candidate-scorer`
+
+### American Action Network — dark-money-networked, $176,798,895 tracked political spend
+
+American Action Network is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $176,798,895. Investigate cross-references with other dark-money network members. [dark_money_network, score 24.29, tier high]
+
+- **Where:** `/query?subject=entities&capital_type=dark-money-vehicle`
+- **Cost:** ~90 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `story-candidate-scorer`
+
+### America Votes — dark-money-networked, $157,372,490 tracked political spend
+
+America Votes is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $157,372,490. Investigate cross-references with other dark-money network members. [dark_money_network, score 24.2, tier high]
+
+- **Where:** `/query?subject=entities&capital_type=dark-money-vehicle`
+- **Cost:** ~90 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `story-candidate-scorer`
+
+### WinSenate — dark-money-networked, $157,747,038 tracked political spend
+
+WinSenate is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $157,747,038. Investigate cross-references with other dark-money network members. [dark_money_network, score 24.2, tier high]
+
+- **Where:** `/query?subject=entities&capital_type=dark-money-vehicle`
+- **Cost:** ~90 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `story-candidate-scorer`
+
+### Sfa Fund, Inc — dark-money-networked, $112,477,317 tracked political spend
+
+Sfa Fund, Inc is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $112,477,317. Investigate cross-references with other dark-money network members. [dark_money_network, score 23.94, tier high]
+
+- **Where:** `/query?subject=entities&capital_type=dark-money-vehicle`
+- **Cost:** ~90 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `story-candidate-scorer`
+
+### Sixteen Thirty Fund — dark-money-networked, $101,443,846 tracked political spend
+
+Sixteen Thirty Fund is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $101,443,846. Investigate cross-references with other dark-money network members. [dark_money_network, score 23.86, tier high]
+
+- **Where:** `/query?subject=entities&capital_type=dark-money-vehicle`
+- **Cost:** ~90 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `story-candidate-scorer`
+
+### Stand Together — dark-money-networked, $84,259,968 tracked political spend
+
+Stand Together is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $84,259,968. Investigate cross-references with other dark-money network members. [dark_money_network, score 23.72, tier high]
+
+- **Where:** `/query?subject=entities&capital_type=dark-money-vehicle`
+- **Cost:** ~90 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `story-candidate-scorer`
+
+### Defend American Jobs — dark-money-networked, $81,072,918 tracked political spend
+
+Defend American Jobs is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $81,072,918. Investigate cross-references with other dark-money network members. [dark_money_network, score 23.69, tier high]
+
+- **Where:** `/query?subject=entities&capital_type=dark-money-vehicle`
+- **Cost:** ~90 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `story-candidate-scorer`
+
+### Restoration PAC — dark-money-networked, $47,848,182 tracked political spend
+
+Restoration PAC is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $47,848,182. Investigate cross-references with other dark-money network members. [dark_money_network, score 23.28, tier high]
+
+- **Where:** `/query?subject=entities&capital_type=dark-money-vehicle`
+- **Cost:** ~90 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `story-candidate-scorer`
+
+### Restore Our Future, Inc. — dark-money-networked, $47,498,530 tracked political spend
+
+Restore Our Future, Inc. is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $47,498,530. Investigate cross-references with other dark-money network members. [dark_money_network, score 23.28, tier high]
+
+- **Where:** `/query?subject=entities&capital_type=dark-money-vehicle`
+- **Cost:** ~90 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `story-candidate-scorer`
+
+### Best of America PAC — dark-money-networked, $37,448,046 tracked political spend
+
+Best of America PAC is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $37,448,046. Investigate cross-references with other dark-money network members. [dark_money_network, score 23.1, tier high]
+
+- **Where:** `/query?subject=entities&capital_type=dark-money-vehicle`
+- **Cost:** ~90 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `story-candidate-scorer`
+
+### America Leads — dark-money-networked, $35,391,631 tracked political spend
+
+America Leads is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $35,391,631. Investigate cross-references with other dark-money network members. [dark_money_network, score 23.05, tier high]
+
+- **Where:** `/query?subject=entities&capital_type=dark-money-vehicle`
+- **Cost:** ~90 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `story-candidate-scorer`
+
+### RBG PAC — dark-money-networked, $34,600,000 tracked political spend
+
+RBG PAC is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $34,600,000. Investigate cross-references with other dark-money network members. [dark_money_network, score 23.04, tier high]
+
+- **Where:** `/query?subject=entities&capital_type=dark-money-vehicle`
+- **Cost:** ~90 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `story-candidate-scorer`
+
+### AB PAC — dark-money-networked, $33,935,549 tracked political spend
+
+AB PAC is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $33,935,549. Investigate cross-references with other dark-money network members. [dark_money_network, score 23.02, tier high]
+
+- **Where:** `/query?subject=entities&capital_type=dark-money-vehicle`
+- **Cost:** ~90 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `story-candidate-scorer`
+
+### Winning Our Future — dark-money-networked, $30,837,440 tracked political spend
+
+Winning Our Future is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $30,837,440. Investigate cross-references with other dark-money network members. [dark_money_network, score 22.95, tier high]
+
+- **Where:** `/query?subject=entities&capital_type=dark-money-vehicle`
+- **Cost:** ~90 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `story-candidate-scorer`
+
+### Retire Career Politicians — dark-money-networked, $29,479,181 tracked political spend
+
+Retire Career Politicians is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $29,479,181. Investigate cross-references with other dark-money network members. [dark_money_network, score 22.91, tier high]
+
+- **Where:** `/query?subject=entities&capital_type=dark-money-vehicle`
+- **Cost:** ~90 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `story-candidate-scorer`
+
+### Crossroads Grassroots Policy Strategies — dark-money-networked, $24,760,798 tracked political spend
+
+Crossroads Grassroots Policy Strategies is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $24,760,798. Investigate cross-references with other dark-money network members. [dark_money_network, score 22.78, tier high]
+
+- **Where:** `/query?subject=entities&capital_type=dark-money-vehicle`
+- **Cost:** ~90 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `story-candidate-scorer`
+
+### Americans for Responsible Leadership — dark-money-networked, $19,267,130 tracked political spend
+
+Americans for Responsible Leadership is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $19,267,130. Investigate cross-references with other dark-money network members. [dark_money_network, score 22.59, tier high]
+
+- **Where:** `/query?subject=entities&capital_type=dark-money-vehicle`
+- **Cost:** ~90 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `story-candidate-scorer`
+
+### Buckeye Values PAC — dark-money-networked, $12,774,928 tracked political spend
+
+Buckeye Values PAC is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $12,774,928. Investigate cross-references with other dark-money network members. [dark_money_network, score 22.27, tier high]
+
+- **Where:** `/query?subject=entities&capital_type=dark-money-vehicle`
+- **Cost:** ~90 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `story-candidate-scorer`
+
+### HMP — dark-money-networked, $11,742,125 tracked political spend
+
+HMP is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $11,742,125. Investigate cross-references with other dark-money network members. [dark_money_network, score 22.21, tier high]
+
+- **Where:** `/query?subject=entities&capital_type=dark-money-vehicle`
+- **Cost:** ~90 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `story-candidate-scorer`
 
 ### vault-audit: pipeline-janitor — 489 findings
 

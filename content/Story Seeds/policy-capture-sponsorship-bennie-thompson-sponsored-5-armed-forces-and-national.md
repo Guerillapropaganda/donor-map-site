@@ -1,5 +1,5 @@
 ---
-title: "Bennie Thompson sponsored 5 'Armed Forces and National Security' bills; top donors include 3 from matching sector"
+title: "Bennie Thompson sponsored 5 'Armed Forces and National Security' bills; top donors include 1 from matching sector"
 type: story-seed
 seed-type: policy-capture-sponsorship
 confidence: 3
@@ -8,13 +8,13 @@ auto-generated: true
 status: unclaimed
 ---
 
-# Bennie Thompson sponsored 5 "Armed Forces and National Security" bills; top donors include 3 from matching sector
+# Bennie Thompson sponsored 5 "Armed Forces and National Security" bills; top donors include 1 from matching sector
 
 _Confidence: ★★★☆☆ · Surfaced by contradiction-miner on 2026-04-24_
 
 ## The angle
 
-Bennie Thompson has sponsored 5 bills in the "Armed Forces and National Security" policy area. Their top donors include: Honeywell International (Defense & Intelligence), Leidos (Defense & Intelligence), Northrop Grumman (Defense & Intelligence). This is the classic policy-capture-by-money pattern — legislator acts as a direct channel for donor industry interests. Pull the bill list (query Ask with `subject: bills, sponsor_bioguide: T000193, policy_area: Armed Forces and National Security`) and cross-reference with donor industry positions on those specific bills.
+Bennie Thompson has sponsored 5 bills in the "Armed Forces and National Security" policy area. Their top donors include: Leidos (Defense & Intelligence). This is the classic policy-capture-by-money pattern — legislator acts as a direct channel for donor industry interests. Pull the bill list (query Ask with `subject: bills, sponsor_bioguide: T000193, policy_area: Armed Forces and National Security`) and cross-reference with donor industry positions on those specific bills.
 
 ## Evidence from the vault
 

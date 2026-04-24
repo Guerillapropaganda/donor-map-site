@@ -1,5 +1,5 @@
 ---
-title: "Andre Carson sponsored 8 'Armed Forces and National Security' bills; top donors include 3 from matching sector"
+title: "Andre Carson sponsored 8 'Armed Forces and National Security' bills; top donors include 1 from matching sector"
 type: story-seed
 seed-type: policy-capture-sponsorship
 confidence: 3
@@ -8,13 +8,13 @@ auto-generated: true
 status: unclaimed
 ---
 
-# Andre Carson sponsored 8 "Armed Forces and National Security" bills; top donors include 3 from matching sector
+# Andre Carson sponsored 8 "Armed Forces and National Security" bills; top donors include 1 from matching sector
 
 _Confidence: ★★★☆☆ · Surfaced by contradiction-miner on 2026-04-24_
 
 ## The angle
 
-Andre Carson has sponsored 8 bills in the "Armed Forces and National Security" policy area. Their top donors include: Honeywell International (Defense & Intelligence), Northrop Grumman (Defense & Intelligence), Lockheed Martin (Defense & Intelligence). This is the classic policy-capture-by-money pattern — legislator acts as a direct channel for donor industry interests. Pull the bill list (query Ask with `subject: bills, sponsor_bioguide: C001072, policy_area: Armed Forces and National Security`) and cross-reference with donor industry positions on those specific bills.
+Andre Carson has sponsored 8 bills in the "Armed Forces and National Security" policy area. Their top donors include: Honeywell International (Defense & Intelligence). This is the classic policy-capture-by-money pattern — legislator acts as a direct channel for donor industry interests. Pull the bill list (query Ask with `subject: bills, sponsor_bioguide: C001072, policy_area: Armed Forces and National Security`) and cross-reference with donor industry positions on those specific bills.
 
 ## Evidence from the vault
 
