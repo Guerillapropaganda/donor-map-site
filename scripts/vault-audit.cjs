@@ -128,6 +128,14 @@ const CHECKS = [
     queue: { bucket: 'compounding', leverage: 3, cost_min: 30 },
   },
   {
+    name: 'type-specific-a-plus',
+    description: 'Per-type A+ publication bar (ADR-0022): universal floor + type-specific checks for politician/donor/corporation/think-tank',
+    cmd: ['node', 'scripts/type-specific-a-plus-bar.cjs', '--json'],
+    parse: parseTypeSpecificAPlus,
+    timeout_ms: 90000,
+    queue: { bucket: 'blocking', leverage: 5, cost_min: 45 },
+  },
+  {
     name: 'reconciliation-framework-tier-1',
     description: 'Data integrity: absurd-value frontmatter, self-loop edges, duplicates, orphans',
     cmd: ['node', 'scripts/verify-all.cjs', '--tier', '1'],
@@ -214,6 +222,19 @@ function parseStampExpiry(stdout, _stderr, _exit) {
     return {
       findings_count: j.total_findings || 0,
       notes: `${j.scanned || 0} scanned. Expired: ${byTier}.`,
+    };
+  } catch {
+    return { findings_count: 0, notes: '(json parse failed)' };
+  }
+}
+
+function parseTypeSpecificAPlus(stdout, _stderr, _exit) {
+  try {
+    const j = JSON.parse(stdout);
+    const byType = Object.entries(j.by_type || {}).map(([t, s]) => `${t} ${s.passed}/${s.scanned}`).join(', ') || 'none';
+    return {
+      findings_count: j.total_findings || 0,
+      notes: `${j.scanned || 0} scanned, ${j.profiles_passed || 0} pass, ${j.profiles_failed || 0} fail. By type: ${byType}.`,
     };
   } catch {
     return { findings_count: 0, notes: '(json parse failed)' };

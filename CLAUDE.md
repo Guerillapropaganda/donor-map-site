@@ -193,6 +193,7 @@ Load-bearing decisions that affect ongoing work. **Verified active ADRs:**
 - **ADR-0013** — FEC Transaction Taxonomy + Anomaly Detection (shared classifier in `scripts/lib/fec-txn-types.cjs`; every FEC script imports from there)
 - **ADR-0017** — Data-Complete Tier (five-tier readiness flow: raw → draft → ready → data-complete → verified)
 - **ADR-0021** — Ops Stability Strategy (self-healing harness, 7 meta-rules, no one-off audit scripts)
+- **ADR-0022** — Type-Specific A+ Bars (universal floor + per-type bar for politician/donor/corporation/think-tank; phases out the politician-only gate)
 
 **ADRs pending verification** (see `content/Admin Notes/rule-sort-pass-2026-04-23.md`): 0004 (Policy Battles), 0014 (FEC Full Ingest), 0015 (Public Ask Backend), 0016 (Ask Labeled Breakdown), 0018 (Profile Rendering Architecture), 0019 (R2 Bulk Storage), 0020 (Enrichment Sprint Cadence). Each will be confirmed active, amended, or superseded in follow-up sessions.
 
