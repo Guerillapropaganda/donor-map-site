@@ -165,9 +165,40 @@ Retire after migration (low consumers, some data):
 ### 5. Variant consolidation
 
 - `leadership-role` (0 populated) → retire; keep `leadership-roles` (plural).
-- `fec-candidate-id-house`, `fec-senate-id` → retire; keep
-  `fec-candidate-id` as canonical.
-- `parent-profile` → retire; keep `parent`.
+- `parent-profile` → retire; keep `parent`. Any value on `parent-profile`
+  migrates to `parent` (caught in Phase A on the David Sacks donor-network
+  sub-note — value preserved via Phase A amendment).
+- `fec-candidate-id-house`, `fec-senate-id` — **not true variants**.
+  These represent distinct FEC candidate IDs for different election
+  cycles (e.g. Rubio had `S0FL00338` for his 2010–2022 Senate career
+  and `P60006723` for his 2016 Presidential run; Porter had
+  `H8CA45130` for 2018–2024 House and `S4CA00522` for her 2024+
+  statewide run). Consolidation destroys data. New pattern:
+
+  ```yaml
+  fec-candidate-id: "S0FL00338"           # current or most-recent
+  fec-previous-ids:
+    - id: "P60006723"
+      office: "President"
+      cycles: "2016"
+    - id: "H8CA45130"
+      office: "House"
+      state: "CA"
+      cycles: "2018-2024"
+  ```
+
+  `fec-candidate-id` stays as the single canonical / current ID.
+  `fec-previous-ids` is a structured list tracking historical IDs
+  with their office + cycle context. Amendment applied 2026-04-23
+  after Phase A edge-case discovery.
+
+  Rationale: the original "retire as variant" rule assumed these were
+  naming drift. They're actually distinct election-cycle records.
+  Preserving historical IDs is necessary for lifetime-cumulative
+  reconciliation across committees and for queries like "politicians
+  who ran for House before Senate." Promoting to a canonical store
+  (`data/politician-fec-history.jsonl`) is a reasonable future step
+  if the pattern scales; for now 2 profiles, frontmatter works.
 
 ### 6. TTL convention for markdown markers
 

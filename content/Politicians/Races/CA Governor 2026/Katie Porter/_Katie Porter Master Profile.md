@@ -13,6 +13,11 @@ state-abbr: "CA"
 bioguide-id: "P000618"
 govtrack-id: 412758
 fec-candidate-id: "S4CA00522"
+fec-previous-ids:
+  - id: "H8CA45130"
+    office: "House"
+    state: "CA"
+    cycles: "2018-2024"
 bills-sponsored: 187
 bills-cosponsored: 1848
 issues:

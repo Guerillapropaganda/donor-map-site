@@ -4,7 +4,7 @@ type: sub-note
 content-readiness: ready
 last-updated: 2026-04-15
 source-tier: 1
-parent: null
+parent: "[[_David Sacks Master Profile|David Sacks]]"
 sector: Mega-Donors
 entity-type: Individual Donor
 politicians-funded: "[[Bernie Moreno]], [[Donald Trump]], [[Sherrod Brown]], [[Jon Ossoff]]"
