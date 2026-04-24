@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: normal
 status: active
-last-updated: '2026-04-23-adr-0023-phases-ab-plus-dispatcher-installed-plus-safety-fix'
+last-updated: '2026-04-24-adr-0023-cd-plus-pipelines-deactivated-plus-registry-plus-audits'
 sprint-id: "2026-04-sprint"
 sprint-start: '2026-04-10'
 sprint-end: '2026-04-30'
@@ -2665,6 +2665,62 @@ phase_3_tasks:
       added_adhoc: true
       notes: "Response to 2026-04-23 incident: git add -A in main repo swept 1.7GB FEC dedup .bak files into a commit, push rejected by GitHub's 100MB limit. Required reset+redo. Three independent defenses: (1) scripts/large-file-sentinel.cjs pre-commit step 0 blocks any staged file >50MB with clear error. (2) scripts/leftover-artifacts-check.cjs — new vault-audit harness check walks repo for *.bak / *.dedupd-state / *.tmp / stray *.log not gitignored, surfaces to /attention compounding-bucket. (3) Memory feedback_commit_scope.md teaches future sessions to run `git diff --cached --stat` before committing from main repo. Plus: .gitignore patterns added for data/**/*.bak + *.dedupd-state. Commit ad4101413 merged as 14226fccf."
 
+    - id: cc_p3_57
+      task: "ADR-0023 Phase C+D: frontmatter schema module + validator + harness registration"
+      status: done
+      completed_date: 2026-04-24
+      added_adhoc: true
+      notes: "scripts/lib/frontmatter-schema.cjs — declarative schema, 14 content types, 5 universals, per-type required/proposed/retired/exempt_universal. scripts/frontmatter-schema-validator.cjs — harness-mode validator, --json output. Registered as 12th vault-audit check. First run surfaced 6282 findings; 47% false positives from overreaching schema. Commits ff2ee7b64, 2c344b8e5."
+
+    - id: cc_p3_58
+      task: "ADR-0023 amendments: null semantics + event/story-seed exemptions + sub-note/story last-enriched removal"
+      status: done
+      completed_date: 2026-04-24
+      added_adhoc: true
+      notes: "Validator bugfix: null is a present value (e.g. parent: null on top-level profiles), not missing. Only flag undefined/empty. ADR §2 + §3 amended — event exempt from last-updated/source-tier/content-readiness (log-shape), story-seed exempt from source-tier/content-readiness (auto-generated). Removed wrong last-enriched requirement from sub-note (editorial) and story (narrative). Findings dropped 6282 → 3319 (real gaps). Commit 2c344b8e5."
+
+    - id: cc_p3_59
+      task: "Dispatcher-alive harness check (P-028) + /attention UI per-entry age (P-026/P-027)"
+      status: done
+      completed_date: 2026-04-24
+      added_adhoc: true
+      notes: "scripts/dispatcher-alive-check.cjs — reads .attention-dispatcher.log mtime, 90min threshold, uptime-window-aware (8am-11pm local). Registered as 13th harness check. /api/attention-queue route returns perSourceLastUpdated instead of store file mtime (P-026 fix). /attention page shows timeAgo(e.created) per entry + per-source freshness on filter buttons (P-027 fix). Commit 983697999."
+
+    - id: cc_p3_60
+      task: "/pipelines ops page audit — 6 problems logged (P-031 through P-036)"
+      status: done
+      completed_date: 2026-04-24
+      added_adhoc: true
+      notes: "End-to-end trace. Discovered 6-day enrichment drought (last commit 2026-04-18) with zero ops-app alert. Two hardcoded pipeline lists (8-card grid vs 29-entry label map) that drifted in opposite directions. CLAUDE.md Rule 3 out of sync with reality. Findings in content/Admin Notes/ops-audit-2026-04-23.md. Commit 6bcf29f3c."
+
+    - id: cc_p3_61
+      task: "Enrichment-freshness harness check (P-034)"
+      status: done
+      completed_date: 2026-04-24
+      added_adhoc: true
+      notes: "scripts/enrichment-freshness-check.cjs — reads most-recent `API Enrichment Bot` commit from git log. Thresholds: <1d healthy, 1-3d stale, >3d blocking (leverage 5 to /attention). Would have caught the drought on 2026-04-22 instead of 2026-04-24. Registered as 14th harness check. Commit 1f8a23096."
+
+    - id: cc_p3_62
+      task: "ROOT CAUSE: donor-map-engine billing failure — disable 7 workflows via gh workflow disable"
+      status: done
+      completed_date: 2026-04-24
+      added_adhoc: true
+      notes: "Every scheduled workflow on donor-map-engine failing pre-start since 2026-04-18 with 'account payments failed or spending limit needs to be increased.' Private-repo Actions-minutes cap hit (~4000min/month vs 2000min Free tier). David's call: CSV-only phase. Disabled: API Enrichment Pipeline + Batch 1-5 + OpenSecrets URL Replacement. Kept active: RSS Intelligence Pipeline (scheduled, viable) + Auto-Connection Engine (manual-trigger only). gh workflow disable commands executed."
+
+    - id: cc_p3_63
+      task: "Pipeline registry (P-031 fix) + ops UI wiring + CLAUDE.md Rule 3 + freshness pause-awareness"
+      status: done
+      completed_date: 2026-04-24
+      added_adhoc: true
+      notes: "ops/src/lib/pipeline-registry.ts — single source of truth, 30 entries, status=active/paused/retired/experimental/broken. /pipelines page.tsx reads registry (amber banner + dimmed paused cards). /api/pipeline-health route reads registry (health% excludes paused). data/enrichment-state.json declares paused:true + resume instructions; enrichment-freshness-check honors it. CLAUDE.md Rule 3 rewritten to 'CSV-only phase.' Commit 04c67de65."
+
+    - id: cc_p3_64
+      task: "Dashboard + sidebar visual audit — 7 more problems logged (P-037 through P-043)"
+      status: done
+      completed_date: 2026-04-24
+      added_adhoc: true
+      notes: "David screenshotted Dashboard + /pipelines + sidebar. Findings: P-037 EnrichmentPanel has OWN hardcoded 32-pipeline list separate from registry. P-038 Next.js dev hot-reload misses new lib files. P-039 Dashboard S-TIER INSIGHTS uses retired vocabulary. P-040 Dashboard 'Ready for sign-off: 124' likely same lie as /signoff-queue. P-041 Dashboard 'Both-sides: 0' contradicts pipeline-janitor harness (11 flagged). P-042 Sidebar 30-entry flat list needs DAILY/WEEKLY/EXPERIMENTAL/ADMIN grouping (proposal in audit doc). P-043 Sidebar badges unaudited. Commit 1fd13a82a."
+
   david:
     - id: dc_p3_01
       task: "Legal sanity review — personally read top 20 verified profiles"
@@ -2835,7 +2891,7 @@ parser_guidance:
         Removed inline body dataview fields on Stratton and Miller. Fixed Mark Green central-thesis typo.
         Flag: Mark Green FEC/GovTrack auto-blocks show wrong politician data (govtrack-id 400159, 2010-2014 cycles). Pipeline correction needed.
 
-**Schedule last updated: 2026-04-23 evening (Code Claude: ADR-0023 PHASES A+B LANDED + /ATTENTION AUDIT + DISPATCHER INSTALLED + 3-PART SAFETY FIX. 10 commits merged to v4 (a128105c8, 1f6c4db89, 1d0653091, 14226fccf merges). cc_p3_49 ADR-0023 accepted + Phase A: 16 zero-consumer fields retired across 25 profiles. cc_p3_50 Phase A amendment: fec-previous-ids structured pattern preserves historical election-cycle FEC IDs (Rubio Presidential+Senate, Porter House+Senate); David Sacks parent-profile migrated to parent. cc_p3_51 Phase B: editorial-review-* retired NOT migrated (reversed mid-session — data was editorial-workflow not legal-risk). cc_p3_52 ADR-0022 follow-up: pipeline-janitor politician gate dropped; universal A+ checks now cover all 606 ready/verified profiles; story-grade missing on ALL 606. cc_p3_53 xmldom 0.8.13 closes 4 Dependabot alerts. cc_p3_54 /attention audit P-025 through P-030 logged. cc_p3_55 DISPATCHER INSTALLED — Windows Startup shortcut + started live (PID 32592); story-candidate-scorer added to schedule. cc_p3_56 large-file sentinel + leftover-artifacts harness + commit-scope memory rule. Next session: ADR-0023 Phase C+D + schema module + validator; dispatcher-alive harness; /pipelines ops audit.)**
+**Schedule last updated: 2026-04-24 full day (Code Claude: ADR-0023 PHASES C+D + DISPATCHER-ALIVE + /PIPELINES ROOT-CAUSE + 7 WORKFLOWS DISABLED + PIPELINE REGISTRY + DASHBOARD/SIDEBAR AUDIT. 10 commits merged to v4. cc_p3_57 schema module + validator + harness registration (12th check, 6282 findings). cc_p3_58 ADR amendments — null semantics + event/story-seed exemptions + sub-note/story last-enriched removed (findings dropped to 3319 real). cc_p3_59 dispatcher-alive harness check (13th) + /attention UI per-entry age (P-026/P-027/P-028). cc_p3_60 /pipelines audit — P-031 through P-036 logged; discovered 6-day enrichment drought. cc_p3_61 enrichment-freshness harness check (14th). cc_p3_62 ROOT CAUSE: donor-map-engine billing failure since 2026-04-18. Disabled 7 workflows via gh workflow disable; kept RSS Intelligence + Auto-Connection Engine. cc_p3_63 pipeline registry (ops/src/lib/pipeline-registry.ts single source of truth) + ops UI wiring + CLAUDE.md Rule 3 CSV-only + data/enrichment-state.json paused:true. cc_p3_64 Dashboard + sidebar visual audit — P-037 through P-043 logged. David defaulted to laymen's explanations. Moving to new chat for context hygiene. NEXT SESSION: (1) P-037 EnrichmentPanel wired to registry, (2) Dashboard audit trace + fix, (3) sidebar DAILY/WEEKLY/EXPERIMENTAL/ADMIN regrouping, (4) CSV ingest validation.)**
 
 <!-- Prior: 2026-04-24 (Code Claude: ADR-0021 PHASE 2 COMPLETE — Ops /system-health wired to vault-audit harness + findings flow into /attention automatically. 2 commits deployed to v4. cc_201 Phase 2a — new /api/vault-audit + Vault audit harness panel (5fae16e41, merged 5a93000fa). cc_202 Phase 2b — scripts/vault-audit.cjs calls addEntries, per-check queue config co-located with cmd/parse, source-scoped atomic replacement (519a91934, merged 11215daa0).) -->**
 
