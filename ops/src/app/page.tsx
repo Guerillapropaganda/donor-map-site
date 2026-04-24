@@ -144,8 +144,24 @@ export default function Dashboard() {
   // which calls process.exit(0); scripts/ops-dev-loop.bat respawns.
   // The overlay polls /api/ops-restart (GET) until the server is back
   // with a new PID, then hard-reloads the page so fresh code mounts.
+  //
+  // wrapperDetected is read from the GET response on mount: the wrapper
+  // sets OPS_DEV_LOOP=1 before launching `next dev`, so without it
+  // process.exit(0) kills the server with nothing to bring it back. We
+  // disable the button + show a tooltip explaining how to fix it.
   const [restarting, setRestarting] = useState(false)
   const [restartStatus, setRestartStatus] = useState("")
+  const [wrapperDetected, setWrapperDetected] = useState<boolean | null>(null)
+  useEffect(() => {
+    fetch("/api/ops-restart")
+      .then((r) => (r.ok ? r.json() : null))
+      .then((d) => {
+        if (d && typeof d.wrapper_detected === "boolean") {
+          setWrapperDetected(d.wrapper_detected)
+        }
+      })
+      .catch(() => { /* leave null = unknown, button stays enabled */ })
+  }, [])
   const doRestart = async () => {
     if (restarting) return
     if (!confirm("Restart the ops dev server? The page will auto-reload when it's back up (~5s).")) return
@@ -319,22 +335,29 @@ export default function Dashboard() {
             </svg>
             Refresh from GitHub
           </button>
-          {/* Restart dev server — needs scripts/ops-dev-loop.bat wrapper */}
+          {/* Restart dev server — needs scripts/ops-dev-loop.bat wrapper.
+              When the wrapper isn't detected we grey out the button and
+              tell the user how to fix it; clicking process.exit(0) without
+              a respawn leaves the user staring at a dead tab. */}
           <button
             onClick={() => doRestart()}
-            disabled={restarting}
-            title="Kills + respawns the Next.js dev server. Requires ops-dev-loop.bat wrapper."
-            className="flex items-center gap-2 rounded-lg px-3 py-2 text-[10px] border transition-colors disabled:opacity-50"
+            disabled={restarting || wrapperDetected === false}
+            title={
+              wrapperDetected === false
+                ? "Disabled — ops was started without scripts/ops-dev-loop.bat. Stop the current server and re-launch via that wrapper to enable click-to-restart."
+                : "Kills + respawns the Next.js dev server. Requires ops-dev-loop.bat wrapper."
+            }
+            className="flex items-center gap-2 rounded-lg px-3 py-2 text-[10px] border transition-colors disabled:opacity-40 disabled:cursor-not-allowed"
             style={{
-              borderColor: "#f59e0b55",
-              color: "#f59e0b",
-              backgroundColor: "#f59e0b15",
+              borderColor: wrapperDetected === false ? "var(--color-border)" : "#f59e0b55",
+              color: wrapperDetected === false ? "var(--color-text-dim)" : "#f59e0b",
+              backgroundColor: wrapperDetected === false ? "transparent" : "#f59e0b15",
             }}
           >
             <svg className={`w-3 h-3 ${restarting ? "animate-spin" : ""}`} fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
               <path strokeLinecap="round" strokeLinejoin="round" d="M16 5l-4-4m0 0L8 5m4-4v12m5.657 4.657a8 8 0 11-11.314 0" />
             </svg>
-            Restart dev
+            {wrapperDetected === false ? "Restart (no wrapper)" : "Restart dev"}
           </button>
         </div>
       </div>

@@ -22,6 +22,12 @@ rem Assumes OPS_AUTH_BYPASS=1 (local-dev-only; see ops/README.md).
 setlocal EnableDelayedExpansion
 cd /d "%~dp0\..\ops"
 set OPS_AUTH_BYPASS=1
+rem Signal to the dev server that it's running under the respawn wrapper.
+rem /api/ops-restart exposes this so the Dashboard can disable the
+rem Restart button (and explain why) when ops was started directly via
+rem npm run dev — in that case process.exit(0) kills the server with
+rem nothing to bring it back, leaving the user staring at a dead tab.
+set OPS_DEV_LOOP=1
 set FAIL_STREAK=0
 
 :loop
