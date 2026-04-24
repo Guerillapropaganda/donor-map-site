@@ -71,6 +71,26 @@ export async function GET() {
     return bRatio - aRatio
   })
 
+  // Per-source freshness: newest entry's `created` timestamp per source.
+  // Avoids the "store file mtime lies about per-producer freshness" bug
+  // (P-026): if any producer writes, the file mtime updates, making the
+  // whole queue look fresh when individual sources may be days stale.
+  const perSourceLastUpdated: Record<string, string | null> = {}
+  for (const [src, entries] of Object.entries(store)) {
+    const newest = entries.reduce<number>((max, e) => {
+      const t = e.created ? new Date(e.created).getTime() : 0
+      return t > max ? t : max
+    }, 0)
+    perSourceLastUpdated[src] = newest > 0 ? new Date(newest).toISOString() : null
+  }
+
+  // Overall "last updated" is the newest entry across all sources (the
+  // freshest thing in the queue), NOT the file mtime.
+  const overallLastUpdated = Object.values(perSourceLastUpdated)
+    .filter((x): x is string => !!x)
+    .sort()
+    .pop() || null
+
   const stat = fs.statSync(storePath)
   return NextResponse.json({
     total: all.length,
@@ -81,7 +101,13 @@ export async function GET() {
     },
     ranked: all,
     sources: Object.keys(store),
-    lastUpdated: stat.mtime.toISOString(),
+    // `lastUpdated` is now per-entry-based, not file-mtime-based
+    lastUpdated: overallLastUpdated,
+    perSourceLastUpdated,
+    // Kept for backwards compat if anything depends on it — file mtime
+    // still means "queue was last written to" which is different from
+    // "newest entry in queue" (perSourceLastUpdated is the latter)
+    storeMtime: stat.mtime.toISOString(),
     empty: false,
   })
 }
