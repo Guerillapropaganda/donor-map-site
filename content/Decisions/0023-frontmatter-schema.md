@@ -1,16 +1,16 @@
 ---
 title: "ADR-0023: Frontmatter Schema"
 type: adr
-status: proposed
+status: accepted
 date: 2026-04-24
-accepted: null
+accepted: 2026-04-23
 ---
 
 # ADR-0023: Frontmatter Schema
 
 ## Status
 
-Proposed 2026-04-24. Grounded in a full-corpus field survey
+Accepted 2026-04-23 by David. Grounded in a full-corpus field survey
 (artifact: [frontmatter-schema-survey.json](../Admin%20Notes/frontmatter-schema-survey.json)).
 Supersedes the stub placed earlier on 2026-04-24.
 
@@ -152,8 +152,11 @@ Retire immediately (zero consumers, near-zero data):
 Retire after migration (low consumers, some data):
 
 - `editorial-review-date`, `editorial-reviewer`, `editorial-result` —
-  3 politicians touched, never adopted as workflow. Migrate intent
-  to `legal-review-*` fields (already universal via ADR-0022).
+  3 politicians touched, never adopted as workflow. **Migrate to
+  `legal-review-date`, `legal-review-reviewer`, `legal-review-result`**
+  on any profile that still carries them (David, 2026-04-23: "let's do
+  it the cleaner way"). `legal-review-*` is the canonical name going
+  forward.
 - `custom-stats`, `shareable-stat`, `spotlight-reason`, `featured-date`
   — one-off feature fields that didn't scale. Audit consumers, then remove.
 - `say-vs-pay`, `caucus`, `total-received-note` — partial adoption.
@@ -175,12 +178,25 @@ Markers in frontmatter values or body (`[JANITOR YYYY-MM-DD]`,
 - Any marker with an embedded `YYYY-MM-DD` → TTL starts from that date.
 - Any marker without a date → TTL starts from the enclosing profile's
   `last-updated`.
-- Default TTL: **180 days**. After that a harness check
-  (`stale-markers`) surfaces it.
+- **TTL: 28 days**, with escalating severity surfaced by the
+  `stale-markers` harness check:
+  - Week 1 (≥7d): info — listed in the queue, no action required.
+  - Week 2 (≥14d): warning — flagged in `/system-health`.
+  - Week 3 (≥21d): urgent — promoted to blocking severity in the queue.
+  - Week 4 (≥28d): **block** — commit-blocking sentinel. Commit
+    touching a profile with a ≥28d marker is rejected until the marker
+    is resolved (fixed or intentionally removed). The marker text stays
+    preserved as a breadcrumb; the sentinel fails until someone
+    reconciles it.
 - No field change required — all markers are string-embedded.
 
+**Rationale for 28d not 180d:** project velocity is faster than
+original ADR draft assumed (David, 2026-04-23). 6-month markers rot;
+4-week markers stay live.
+
 This TTL check is a **follow-up harness check**, not in scope for
-this ADR to implement.
+this ADR to implement. Commit-blocking sentinel lands only after
+2 weeks clean as a harness check first (per §8).
 
 ### 7. Schema file format
 
