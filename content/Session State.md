@@ -1,7 +1,7 @@
 ---
 title: Session State
 type: system
-last-updated: 2026-04-23
+last-updated: 2026-04-24
 ---
 <!-- last session: ADR-0021 OPS STABILITY STRATEGY + 6 RULE ENFORCEMENTS. Late-evening continuation of 2026-04-23. David's concern: "AI has short-term memory. I've tried having documents written so it can remember... but now it's just getting out of control." Discussed whether to delete-and-restart (rejected — data is sacred) vs reorganize the workflow to be self-sustaining. Agreed on ADR-0021 strategy: unified audit harness + 7 missing meta-rules + enforcement over aspiration + single source of truth. WROTE ADR-0021 (content/Decisions/0021-ops-stability-strategy.md) codifying the strategy. DEEP-TRACED /signoff-queue + /launch-50 checklists end-to-end — confirmed both lie. Signoff queue: A+ check only runs for type=politician; 0 politicians pass; all 125 queue items are donors/corporations that skipped the real bar. Launch-50: audit JSON is a frozen snapshot (Kamala Harris shown as draft/0 sources while actually data-complete/1+ sources), 3 of 4 checkboxes are manual-only toggles in gitignored file, manual override trumps audit, readiness tier ignored. 20+ problems documented (content/Admin Notes/ops-audit-2026-04-23.md). RULE-SORT PASS: 70 items classified into 4 buckets (Enforced/Enforceable/Principle/Stale) in content/Admin Notes/rule-sort-pass-2026-04-23.md. David approved all classifications. SAFE ACTIONS: 7 memory entries deleted, CLAUDE.md Rules 1+2 merged, April-30 anchors removed from Rule 11+12, Active ADRs list corrected (was at 0013, now covers 0014-0021 with verification flags). TOLERATED-REGRESSIONS PATTERN (first application of ADR-0021 Rule 17): scripts/_tolerated-regressions.jsonl + scripts/reconcile-canonical-totals.cjs modified to honor tolerance with recheck_after dates. Trump + McConnell tolerated until 2026-05-15 (stale FEC bulk, blocked on weball26 reingest). This replaces the SKIP_HOOKS=1 habit. ENFORCEMENT PROMOTIONS (6 of 7 enforceable rules → hooks; Rule 9 deferred): new scripts/no-inline-field-sentinel.cjs (pre-commit 2b) blocking dataview :: in body + cleaned 19 profiles of 59 trailers; scripts/publication-readiness-check.cjs --public-only flag + wired into .husky/pre-push; scripts/api-pipeline-sentinel.cjs (pre-commit 2c) blocking new API-calling scripts without approved naming or marker; scripts/url-editor-sentinel.cjs + NEW .husky/commit-msg hook (first in that lifecycle) blocking URL edits in verified/data-complete profiles without [url-editor]/[url-verified]/[pipeline] waiver; Memory #22 deleted (calendar update already in session-save skill). ORANGE VERIFICATION: 0 items fully stale. Contradictions memory deleted (feature shipped). LDA memory updated. ADR-0019 + 0020 amended with implementation-status notes (both partially implemented). CLAUDE.md reorganized with 📜 CONSTITUTION / 📚 REFERENCE section dividers (lightweight restructure; full rewrite deferred until Rule 9 + R2 + enrichment cron all land). Memory rules saved: feedback_bug_auto_resolve.md (Claude auto-resolves bugs in same commit as fix) + feedback_harness_not_oneoff.md (extend harness, not one-off scripts). 7 commits: de6ddc34c (ADR-0021) 315d20979 (rule-sort + safe actions + tolerance infra) 26223618f (#5 inline-field sentinel + profile cleanup) d30727dd8 (#3 publication-readiness pre-push) 3d9b5dc95 (#1 + #4 + #6 sentinels) 1c5b6c447 (orange verification) d5f1ed1d7 (CLAUDE.md dividers). Every commit passed the pre-commit gate on first try after the tolerated-regressions pattern landed. (2026-04-23 late evening, Code Claude). -->
 <!-- prior session: REGISTRY AUDIT TOOL + 6 FIXES + CREDIBILITY DEBT HONEST ACCOUNTING. Continuation of same-day 2026-04-23 work after the public lockdown commit. Built scripts/audit-committee-registry.cjs — read-only scan of fec-committee-registry.json with 4 anomaly categories (file-missing, name-mismatch, shared-profile, frontmatter-drift). Ran it, caught 6 clear bugs: (1) C00484642 "SMP" → was mapped to Winsenate.md → correctly remapped to Senate Majority PAC.md. (2) C00868315 "CONCERNED CITIZENS AGAINST CASINOS" → was on Equality Project PAC.md → unmapped (no gambling profile). (3) C00740126 "UNITEDEMOCRATS PAC" → was on Voter Protection Project.md → unmapped. (4-6) path-not-found fixes for Goldman/Markey/Himes (formal FEC names vs vault's common names). Commit 63bec4e1a deployed. THEN David asked the hard question: "how many mistakes like this are throughout the vault?" Honest answer given: 500-2,000 individual issues estimated across the vault, ranging from ~20-30 defamation-adjacent (Fairshake-pattern) to hundreds of cosmetic/stale. Two audits today found 12 bugs; every audit has surfaced real issues so far — no clean audit yet. We've audited <1% of vault surface area. David's reaction: "this whole system isn't working" — wants to pivot to the Ops app, tab-by-tab refinement, normie-friendly surfaces so he can SEE all the problems. Next session's entire mandate. (2026-04-23 evening, Code Claude). -->
@@ -11,6 +11,59 @@ last-updated: 2026-04-23
 <!-- prior session: ADR-0016 FINISH + STEP 5 STUBS + MAINTENANCE SCRIPTS. Evening continuation of 2026-04-21 morning. Wired computeBreakdown into compare + leaderboard Ask panels. Step 5 — 7 new org/PAC stubs + AFSCME International alias. New scripts/dedupe-donor-name-variants.cjs + refresh-edge-count-signal.cjs. Final push 4230f5f33. (2026-04-21 evening, Code Claude). -->
 <!-- prior session: ORPHAN-ENTITIES AUDIT + UX-BREAKDOWN REFACTOR. ADR-0016 labeled-breakdown. Final push 016cd986e. (2026-04-21 early, Code Claude). -->
 
+
+## HANDOFF — 2026-04-24 (ADR-0021 Phase 2 — Ops /system-health wired to vault-audit harness + /attention integration)
+
+**State of the repo:** 2 commits merged to v4 (5a93000fa, 11215daa0). Worktree branch `claude/sleepy-allen-a9be6a`. Pre-commit + pre-push gates all clean. Public lockdown unchanged (`public-routes.json = ["index"]`).
+
+### Commits in order
+
+- `5fae16e41` (merged as `5a93000fa`) — Phase 2a: wire Ops `/system-health` to vault-audit harness
+- `519a91934` (merged as `11215daa0`) — Phase 2b: vault-audit writes through to Attention Queue
+
+### What's now wired up
+
+1. **`/api/vault-audit`** — new admin-gated endpoint. GET reads `content/Admin Notes/vault-audit-latest.json` (adds `age_minutes`). POST spawns `node scripts/vault-audit.cjs` and returns the fresh artifact. `maxDuration: 300`.
+
+2. **`/system-health` Vault audit panel** — top of page, before the page/API inventory. 4 stat cards (Clean / With findings / Errored / Last run), per-check rows with name + description + findings count + runtime + plain-English notes, "Re-run harness" button.
+
+3. **`/attention` integration** — `scripts/vault-audit.cjs` calls `addEntries('vault-audit', ...)` after artifact write. Per-check bucket/leverage/cost_min co-located with cmd/parse on the CHECKS table:
+   - `pipeline-janitor` → compounding, leverage 3, cost 60min
+   - `audit-committee-registry` → blocking, leverage 5, cost 15min
+   - `reconcile-canonical-totals` → blocking, leverage 5, cost 30min
+   - `no-inline-field` → compounding, leverage 2, cost 20min
+   - `publication-readiness` → blocking, leverage 5, cost 20min
+   - `reconciliation-framework-tier-1` → deciding, leverage 4, cost 45min
+   Errored/timed-out checks always surface as blocking regardless of config. Source-scoped under `vault-audit` so re-runs replace atomically (no duplicates). `--no-queue` flag disables for tests.
+
+### Verification
+
+- `/api/vault-audit` GET: returns `{age_minutes: 0, summary: {checks_clean: 4, checks_with_findings: 2, total_findings: 634}}`.
+- POST: regenerated artifact end-to-end (new `generated_at`).
+- `/api/attention-queue`: returns 2 `source: vault-audit` entries linking to `/system-health` (pipeline-janitor 489 findings compounding, reconciliation-framework-tier-1 145 findings deciding).
+- Browser-verified live at localhost:3334 with `OPS_AUTH_BYPASS=1`.
+
+### Next session priority (Phase 3)
+
+**Add missing check types to the harness** (per ADR-0021 plan):
+1. Prose-data consistency — scan verified profiles for prose claims that contradict their own structured data (Trump 6→10 megadonors pattern).
+2. Stamp expiry — detect `content-readiness: verified` older than X days without re-verification; surface as deciding.
+3. Type-specific A+ bars — extend from politicians-only (current `/signoff-queue` check) to donors / corporations / policies.
+4. Consider: URL staleness, orphan wikilinks, internal-notes TTL.
+
+Each new check is ~30-60min: add a CHECKS entry with cmd/parse/queue config, test output parsing, commit. No page changes needed — harness findings automatically flow into `/system-health` panel + `/attention` queue.
+
+**Fresh chat recommended for Phase 3.** Each check is a self-contained design decision (what to detect, leverage/cost estimate, false-positive risk). Keep Phase 2 context out.
+
+### Open deferrals from earlier sessions (not Phase 3, but still open)
+
+- Fresh FEC bulk download (weball24, weball26 — current is Aug 2024 snapshot)
+- ProfileSearch browser verification
+- `donors_to` intent row splitting (Phase 2 headline fixed, rows not)
+- ADR-0017 readiness tier sync into entities.jsonl
+- Rule 9 enforcement promotion (last of 7 — deferred from ADR-0021 session)
+
+---
 
 ## HANDOFF — 2026-04-23 LATE EVENING (ADR-0021 Ops Stability Strategy + 6 rule enforcements)
 
