@@ -39,7 +39,7 @@ These are numbered, load-bearing, and cannot be silently violated. When a rule n
 
 **2.** *(merged into Rule 1 on 2026-04-23 per ADR-0021 Phase 1. Rule numbers 3-22 unchanged to preserve external references.)*
 
-**3. CSV-first for bulk data.** Most enrichment comes from government CSV bulk downloads in `data/bulk/` processed through `scripts/ingest-*-bulk.cjs`. Three API pipelines remain active for data CSVs don't cover: Congress.gov (committee assignments, bills), GovTrack (voting records), and RSS digests (current events). STOCK Act PTRs are scraped daily via `financial-disclosures-pipeline.cjs`. Every other API pipeline has been retired. See `content/CSV Data Sources.md` for what's in `data/bulk/` and how it maps.
+**3. CSV-only phase (2026-04-24).** All scheduled API pipelines are **paused**. Enrichment runs via local CSV bulk scripts in `data/bulk/` processed through `scripts/ingest-*-bulk.cjs` (FEC, USASpending, IRS 990, and the other gov CSVs — see `content/CSV Data Sources.md` for the full catalog). Two GitHub Actions workflows remain enabled on `donor-map-engine`: **RSS Intelligence Pipeline** (scheduled, feeds `content/Events/Digests/`) and **Auto-Connection Engine** (manual-trigger only). Seven workflows were disabled 2026-04-24 to stop the private-repo Actions-minutes bleed that blocked all API enrichment from 2026-04-18 onward (see `data/enrichment-state.json` for the list + resume instructions). STOCK Act PTRs continue to run locally via `financial-disclosures-pipeline.cjs` (dispatcher-scheduled daily; unrelated to GitHub Actions).
 
 **4. AI translates, never generates.** Every factual claim must trace to a source record. AI explains, summarizes, synthesizes. AI never asserts a new fact.
 

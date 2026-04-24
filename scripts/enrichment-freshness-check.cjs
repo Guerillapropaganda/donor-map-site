@@ -30,14 +30,44 @@
  */
 
 const { execSync } = require('child_process');
+const fs = require('fs');
+const path = require('path');
 
 const JSON_OUT = process.argv.includes('--json');
 const STALE_DAYS = 1;
 const BLOCKING_DAYS = 3;
 
+// Pause-aware. When data/enrichment-state.json declares pipelines paused,
+// silence is expected and this check returns 0 findings with an "info"
+// status. Prevents the harness from spamming /attention with findings
+// David cannot act on without first re-enabling workflows.
+const STATE_FILE = path.join('data', 'enrichment-state.json');
+
+function readState() {
+  try {
+    if (!fs.existsSync(STATE_FILE)) return null;
+    return JSON.parse(fs.readFileSync(STATE_FILE, 'utf-8'));
+  } catch {
+    return null;
+  }
+}
+
 function report(obj) {
   if (JSON_OUT) process.stdout.write(JSON.stringify(obj) + '\n');
   else console.log(JSON.stringify(obj, null, 2));
+}
+
+// Pause check first — if paused, we don't even need to look at git log.
+const state = readState();
+if (state && state.paused) {
+  report({
+    status: 'paused',
+    findings_count: 0,
+    paused_since: state.paused_since || null,
+    reason: state.reason || 'API pipelines paused',
+    message: `Enrichment paused since ${state.paused_since || '(date not set)'}. ${state.reason || ''} Silence is expected. Clear data/enrichment-state.json { paused: false } to resume monitoring.`,
+  });
+  process.exit(0);
 }
 
 let lastDate = null;

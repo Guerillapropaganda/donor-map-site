@@ -1,6 +1,7 @@
 import { NextResponse } from "next/server"
 import { execSync } from "child_process"
 import path from "path"
+import { PIPELINE_REGISTRY, PIPELINE_LABELS, type PipelineStatus as RegistryStatus } from "@/lib/pipeline-registry"
 
 export interface PipelineStatus {
   name: string
@@ -10,6 +11,8 @@ export interface PipelineStatus {
   runsLast30d: number
   totalProfilesLast30d: number
   status: "healthy" | "stale" | "dead"
+  registryStatus: RegistryStatus
+  notes?: string
 }
 
 export interface PipelineHealthResponse {
@@ -19,43 +22,11 @@ export interface PipelineHealthResponse {
     healthy: number
     stale: number
     dead: number
+    paused: number
     healthPct: number
     lastEnrichment: string | null
     totalRunsLast7d: number
   }
-}
-
-const PIPELINE_LABELS: Record<string, string> = {
-  fec: "FEC Campaign Finance",
-  "fec-summary": "FEC Candidate Summary",
-  congress: "Congress.gov",
-  committee: "Committee Assignments",
-  govtrack: "GovTrack",
-  lda: "Senate Lobbying",
-  lobbyview: "LobbyView",
-  "lobbying-contrib": "Lobbying Cross-Ref",
-  usaspending: "USASpending",
-  "usaspending-awards": "USASpending Awards",
-  sam: "SAM.gov",
-  "nonprofit-990": "IRS 990",
-  "federal-register": "Federal Register",
-  fara: "FARA",
-  "ofac-sdn": "OFAC Sanctions",
-  recall: "CPSC Recalls",
-  "nhtsa-recalls": "NHTSA Recalls",
-  courtlistener: "Court Cases",
-  "sec-edgar": "SEC Filings",
-  "sec-litigation": "SEC Enforcement",
-  "doj-press": "DOJ Press",
-  propublica: "ProPublica",
-  opensanctions: "OpenSanctions",
-  wikipedia: "Wikipedia",
-  fcc: "FCC Broadcasting",
-  gleif: "GLEIF Entities",
-  "fda-enforcement": "FDA Enforcement",
-  "occ-enforcement": "OCC Enforcement",
-  "ftc-enforcement": "FTC Enforcement",
-  "auto-connect": "Auto-Connect",
 }
 
 let cache: { data: PipelineHealthResponse; ts: number } | null = null
@@ -127,8 +98,9 @@ export async function GET() {
       if (runsLast7d > 0) status = "healthy"
       else if (runsLast30d > 0) status = "stale"
 
-      // Only include pipelines that have run at least once or are in the known set
+      // Only include pipelines that have run at least once or are in the registry
       if (runsLast30d > 0 || PIPELINE_LABELS[name]) {
+        const entry = PIPELINE_REGISTRY.find((p) => p.id === name)
         pipelines.push({
           name,
           label: PIPELINE_LABELS[name] || name,
@@ -137,6 +109,8 @@ export async function GET() {
           runsLast30d,
           totalProfilesLast30d,
           status,
+          registryStatus: entry?.status || "retired",
+          notes: entry?.notes,
         })
       }
     }
@@ -151,22 +125,29 @@ export async function GET() {
       return a.name.localeCompare(b.name)
     })
 
-    const healthy = pipelines.filter(p => p.status === "healthy").length
-    const stale = pipelines.filter(p => p.status === "stale").length
-    const dead = pipelines.filter(p => p.status === "dead").length
+    // For health percent, exclude paused/retired — those aren't SUPPOSED to
+    // be producing commits. Counting them as "dead" punishes the summary
+    // for things we intentionally turned off.
+    const expectedActive = pipelines.filter(p => p.registryStatus === "active")
+    const healthy = expectedActive.filter(p => p.status === "healthy").length
+    const stale = expectedActive.filter(p => p.status === "stale").length
+    const dead = expectedActive.filter(p => p.status === "dead").length
+    const paused = pipelines.filter(p => p.registryStatus === "paused").length
     const total = pipelines.length
-    const healthPct = total > 0 ? Math.round((healthy / total) * 100) : 0
+    const healthPct = expectedActive.length > 0
+      ? Math.round((healthy / expectedActive.length) * 100)
+      : 100
     const totalRunsLast7d = pipelines.reduce((s, p) => s + p.runsLast7d, 0)
 
     const result: PipelineHealthResponse = {
       pipelines,
-      summary: { total, healthy, stale, dead, healthPct, lastEnrichment, totalRunsLast7d },
+      summary: { total, healthy, stale, dead, paused, healthPct, lastEnrichment, totalRunsLast7d },
     }
 
     cache = { data: result, ts: Date.now() }
     return NextResponse.json(result)
   } catch (error: unknown) {
     const msg = error instanceof Error ? error.message : "Unknown error"
-    return NextResponse.json({ error: msg, pipelines: [], summary: { total: 0, healthy: 0, stale: 0, dead: 0, healthPct: 0, lastEnrichment: null, totalRunsLast7d: 0 } }, { status: 500 })
+    return NextResponse.json({ error: msg, pipelines: [], summary: { total: 0, healthy: 0, stale: 0, dead: 0, paused: 0, healthPct: 0, lastEnrichment: null, totalRunsLast7d: 0 } }, { status: 500 })
   }
 }

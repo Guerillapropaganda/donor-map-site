@@ -1,0 +1,19 @@
+{
+  "paused": true,
+  "paused_since": "2026-04-24",
+  "reason": "GitHub Actions billing cap hit 2026-04-18 on donor-map-engine (private repo, ~4000 min/month vs 2000 min free tier cap). David's call to stop the bleed + rely on local CSV bulk enrichment (scripts/ingest-*-bulk.cjs) as the foundation. 7 workflows disabled via `gh workflow disable`. Kept active: RSS Intelligence (scheduled, viable) + Auto-Connection Engine (manual-trigger, no cost).",
+  "paused_workflows": [
+    "API Enrichment Pipeline",
+    "Batch 1 — Bulk (no-key pipelines)",
+    "Batch 2 — FECAPI (sequential, shared key)",
+    "Batch 3 — Congress + free gov APIs",
+    "Batch 4 — Independent gov APIs",
+    "Batch 5 — Corporate + content (once daily)",
+    "OpenSecrets URL Replacement"
+  ],
+  "kept_active_workflows": [
+    "RSS Intelligence Pipeline",
+    "Auto-Connection Engine"
+  ],
+  "to_resume": "Set paused: false here, then: gh workflow enable <id> --repo Guerillapropaganda/donor-map-engine for each workflow you want back. Raise GitHub spending limit first if still capped."
+}
