@@ -37,9 +37,11 @@
 const { spawnSync } = require('child_process');
 const fs = require('fs');
 const path = require('path');
+const { addEntries } = require('./lib/attention-queue.cjs');
 
 const ROOT = path.resolve(__dirname, '..');
 const ARTIFACT = path.join(ROOT, 'content', 'Admin Notes', 'vault-audit-latest.json');
+const QUEUE_SOURCE = 'vault-audit';
 
 // ─── Args ──────────────────────────────────────────────────────────
 
@@ -52,6 +54,7 @@ const ONLY = argValue('--only');
 const SKIP = argValue('--skip');
 const JSON_STDOUT = args.includes('--json');
 const QUIET = args.includes('--quiet');
+const NO_QUEUE = args.includes('--no-queue');
 
 // ─── Registered checks ─────────────────────────────────────────────
 //
@@ -74,6 +77,7 @@ const CHECKS = [
     cmd: ['node', 'scripts/pipeline-janitor.cjs', '--tier=a-plus', '--cohort'],
     parse: parsePipelineJanitor,
     timeout_ms: 120000,
+    queue: { bucket: 'compounding', leverage: 3, cost_min: 60 },
   },
   {
     name: 'audit-committee-registry',
@@ -81,6 +85,7 @@ const CHECKS = [
     cmd: ['node', 'scripts/audit-committee-registry.cjs'],
     parse: parseSimpleCountFromLine,
     timeout_ms: 60000,
+    queue: { bucket: 'blocking', leverage: 5, cost_min: 15 },
   },
   {
     name: 'reconcile-canonical-totals',
@@ -88,6 +93,7 @@ const CHECKS = [
     cmd: ['node', 'scripts/reconcile-canonical-totals.cjs', '--strict'],
     parse: parseCanonicalTotals,
     timeout_ms: 120000,
+    queue: { bucket: 'blocking', leverage: 5, cost_min: 30 },
   },
   {
     name: 'no-inline-field',
@@ -95,6 +101,7 @@ const CHECKS = [
     cmd: ['node', 'scripts/no-inline-field-sentinel.cjs', '--all'],
     parse: parseInlineField,
     timeout_ms: 30000,
+    queue: { bucket: 'compounding', leverage: 2, cost_min: 20 },
   },
   {
     name: 'publication-readiness',
@@ -102,6 +109,7 @@ const CHECKS = [
     cmd: ['node', 'scripts/publication-readiness-check.cjs', '--public-only', '--json'],
     parse: parsePublicationReadiness,
     timeout_ms: 120000,
+    queue: { bucket: 'blocking', leverage: 5, cost_min: 20 },
   },
   {
     name: 'reconciliation-framework-tier-1',
@@ -109,6 +117,7 @@ const CHECKS = [
     cmd: ['node', 'scripts/verify-all.cjs', '--tier', '1'],
     parse: parseVerifyAll,
     timeout_ms: 300000,
+    queue: { bucket: 'deciding', leverage: 4, cost_min: 45 },
   },
 ];
 
@@ -178,6 +187,56 @@ function parseVerifyAll(stdout, _stderr, _exit) {
     findings_count: parseInt(m[1], 10),
     notes: `${m[1]} error, ${m[2]} warn (${m[3]} findings total).`,
   };
+}
+
+// ─── Attention Queue translation ───────────────────────────────────
+//
+// One entry per check that errored or found issues. Harness runs are
+// source-scoped under "vault-audit" — every re-run atomically replaces
+// the prior set, so the queue never accumulates stale entries.
+
+function buildQueueEntries(results, checkDefs) {
+  const byName = new Map(checkDefs.map(c => [c.name, c]));
+  const entries = [];
+  const today = new Date().toISOString().slice(0, 10);
+
+  for (const r of results) {
+    const def = byName.get(r.name);
+    if (!def || !def.queue) continue;
+
+    // Errored check — always surfaces as blocking regardless of queue config
+    if (r.error || r.exit === null || r.timed_out) {
+      entries.push({
+        bucket: 'blocking',
+        what: `vault-audit: ${r.name} failed to run`,
+        why: r.error || (r.timed_out ? 'timed out' : `exit ${r.exit}`),
+        where: '/system-health',
+        cost_min: 10,
+        leverage: 5,
+        source: QUEUE_SOURCE,
+        created: today,
+        metadata: { check: r.name, exit: r.exit, timed_out: !!r.timed_out },
+      });
+      continue;
+    }
+
+    const findings = r.findings_count || 0;
+    if (findings === 0) continue;
+
+    entries.push({
+      bucket: def.queue.bucket,
+      what: `vault-audit: ${r.name} — ${findings} finding${findings === 1 ? '' : 's'}`,
+      why: (r.description || '') + (r.notes ? ` — ${r.notes}` : ''),
+      where: '/system-health',
+      cost_min: def.queue.cost_min,
+      leverage: def.queue.leverage,
+      source: QUEUE_SOURCE,
+      created: today,
+      metadata: { check: r.name, findings_count: findings },
+    });
+  }
+
+  return entries;
 }
 
 // ─── Runner ────────────────────────────────────────────────────────
@@ -284,6 +343,19 @@ function runCheck(check) {
     process.exit(1);
   }
 
+  // Write through to the Attention Queue: one entry per check with findings
+  // or error. Re-runs replace all prior vault-audit entries (addEntries
+  // is source-scoped). --no-queue disables (e.g. for test runs).
+  let queueWritten = 0;
+  if (!NO_QUEUE && !ONLY && !SKIP) {
+    try {
+      const entries = buildQueueEntries(results, filtered);
+      queueWritten = addEntries(QUEUE_SOURCE, entries);
+    } catch (err) {
+      console.error(`[vault-audit] failed to update attention queue: ${err.message}`);
+    }
+  }
+
   if (!QUIET) {
     console.log('');
     console.log('─'.repeat(60));
@@ -294,6 +366,9 @@ function runCheck(check) {
     }
     console.log(`  ${artifact.summary.total_findings} total findings`);
     console.log(`  artifact: content/Admin Notes/vault-audit-latest.json`);
+    if (!NO_QUEUE && !ONLY && !SKIP) {
+      console.log(`  attention queue: ${queueWritten} entr${queueWritten === 1 ? 'y' : 'ies'} written`);
+    }
     console.log(`  ran in ${(artifact.duration_ms / 1000).toFixed(1)}s`);
   }
 

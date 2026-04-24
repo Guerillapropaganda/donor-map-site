@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: urgent
 status: open
-last-updated: '2026-04-21'
+last-updated: '2026-04-24'
 generated-by: scripts/lib/attention-queue.cjs
 ---
 
@@ -12,7 +12,7 @@ generated-by: scripts/lib/attention-queue.cjs
 
 *Auto-generated. Every script that finds something worth your time writes to this file.*
 
-**0** blocking · **54** editorial decisions · **35** background cleanup
+**30** blocking · **54** editorial decisions · **36** background cleanup
 
 ---
 
@@ -20,7 +20,275 @@ generated-by: scripts/lib/attention-queue.cjs
 
 *Something is broken or will break soon. These block other work — handle first.*
 
-_Nothing here right now. ✓_
+### Gun Owners of America: voice rule violations
+
+Ready profile contains 1 em dash in body, avg sentence length 30 words (target ~20). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Gun Owners of America.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Media Matters: voice rule violations
+
+Ready profile contains 1 em dash in body, avg sentence length 34 words (target ~20). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Media Matters.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Sentinel Action Fund: voice rule violations
+
+Ready profile contains 5 em dashes in body, avg sentence length 30 words (target ~20). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Sentinel Action Fund.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Tim Walz: voice rule violations
+
+Ready profile contains 8 em dashes in body, low specific-number density 0.1/100 words (target ~0.7). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Politicians/Democrats/Governors/Tim Walz/_Tim Walz Master Profile.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Zoe Lofgren: voice rule violations
+
+Ready profile contains 13 em dashes in body, low specific-number density 0.0/100 words (target ~0.7). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Politicians/Democrats/House/Zoe Lofgren/_Zoe Lofgren Master Profile.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Alex Padilla: voice rule violations
+
+Ready profile contains 16 em dashes in body, low specific-number density 0.0/100 words (target ~0.7). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Politicians/Democrats/Senate/Alex Padilla/_Alex Padilla Master Profile.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Harry Reid: voice rule violations
+
+Ready profile contains 4 em dashes in body, low specific-number density 0.1/100 words (target ~0.7). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Politicians/Democrats/Senate/Harry Reid/_Harry Reid Master Profile.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### California Farm Bureau Federation: voice rule violations
+
+Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Donors & Power Networks/Agriculture/California Farm Bureau Federation.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Cargill: voice rule violations
+
+Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Donors & Power Networks/Agriculture/Cargill.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### John Deere: voice rule violations
+
+Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Donors & Power Networks/Agriculture/John Deere.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### National Cattlemen's Beef Association: voice rule violations
+
+Ready profile contains 4 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Donors & Power Networks/Agriculture/National Cattlemen's Beef Association.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Tyson Foods: voice rule violations
+
+Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Donors & Power Networks/Agriculture/Tyson Foods.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Western Growers Association: voice rule violations
+
+Ready profile contains 30 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Donors & Power Networks/Agriculture/Western Growers Association.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### CCPOA - California Correctional Peace Officers Association: voice rule violations
+
+Ready profile contains 19 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Donors & Power Networks/Carceral State/CCPOA - California Correctional Peace Officers Association.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Ballard Partners: voice rule violations
+
+Ready profile contains 2 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Ballard Partners.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Brady Campaign: voice rule violations
+
+Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Brady Campaign.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Business Roundtable: voice rule violations
+
+Ready profile contains 2 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Business Roundtable.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Donors Capital Fund: voice rule violations
+
+Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Donors Capital Fund.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Environmental Law & Policy Center: voice rule violations
+
+Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Environmental Law & Policy Center.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Ocean Conservancy: voice rule violations
+
+Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Ocean Conservancy.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Trump Donor Coalition: voice rule violations
+
+Ready profile contains 23 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Trump Donor Coalition.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Defense Contractors: voice rule violations
+
+Ready profile contains 2 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Donors & Power Networks/Defense & Intelligence/Defense Contractors.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### L3Harris Technologies: voice rule violations
+
+Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Donors & Power Networks/Defense & Intelligence/L3Harris Technologies.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Northrop Grumman: voice rule violations
+
+Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Donors & Power Networks/Defense & Intelligence/Northrop Grumman.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Anthem - Elevance Health: voice rule violations
+
+Ready profile contains 13 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Donors & Power Networks/Healthcare/Anthem - Elevance Health.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Comcast - NBCUniversal: voice rule violations
+
+Ready profile contains 15 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Donors & Power Networks/Media & Entertainment/Comcast - NBCUniversal.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Jeffrey Katzenberg: voice rule violations
+
+Ready profile contains 7 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Jeffrey Katzenberg.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Narya Capital: voice rule violations
+
+Ready profile contains 19 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Narya Capital.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Timothy Mellon: voice rule violations
+
+Ready profile contains 2 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Timothy Mellon.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Meatpacking Corporations: voice rule violations
+
+Ready profile contains 29 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Donors & Power Networks/Pharma & Healthcare/Meatpacking Corporations.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
 
 ## 🟡 Editorial Decisions
 
@@ -143,93 +411,21 @@ New event (2026-03-26) "S. 4251: Mined in America Act of 2026" mentions Bill Cas
 - **Leverage:** ★★★★☆
 - **Surfaced by:** `narrative-drift-detector`
 
-### Colorado 2026 Senate Race: voice drift from baseline
+### PhRMA - Pharmaceutical Research and Manufacturers of America: 52 unsupported claims
 
-Profile body drifted from your baseline voice on 2 dimensions: avg sentence length 17 words (target ~29), hedging language usage 1.0/100 words (target < 0.0). Review the rewrite history and realign if appropriate.
+Ready profile has "$371.6 billion" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
 
-- **Where:** `content/Stories/Published/2026 Senate Races/Colorado 2026 Senate Race.md`
-- **Cost:** ~8 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `voice-drift-detector`
-
-### Elon Musk: 11 unsupported claims
-
-Ready profile has "$5.9 billion" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Donors & Power Networks/Mega-Donors/Elon Musk.md`
-- **Cost:** ~13 min
+- **Where:** `content/Donors & Power Networks/Pharma & Healthcare/PhRMA.md`
+- **Cost:** ~15 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
 
-### New Hampshire 2026 Senate Race: 11 unsupported claims
+### AIPAC - American Israel Public Affairs Committee: 35 unsupported claims
 
-Ready profile has "$2.3B" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+Ready profile has "$126.9 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
 
-- **Where:** `content/Stories/Published/2026 Senate Races/New Hampshire 2026 Senate Race.md`
-- **Cost:** ~13 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### Harris-Newsom Donor Class Fracture: 11 unsupported claims
-
-Ready profile has "$24M" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Stories/Published/2028 Presidential Race/Harris-Newsom Donor Class Fracture.md`
-- **Cost:** ~13 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides: 11 unsupported claims
-
-Ready profile has "10% of" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Stories/Published/Contradiction Deep Dives/Contradiction 16 - Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides.md`
-- **Cost:** ~13 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### American Farm Bureau Federation: 12 unsupported claims
-
-Ready profile has "$732 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Donors & Power Networks/Agriculture/American Farm Bureau Federation.md`
-- **Cost:** ~14 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### Kenneth Griffin: 12 unsupported claims
-
-Ready profile has "8% increase" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Donors & Power Networks/Mega-Donors/Kenneth Griffin.md`
-- **Cost:** ~14 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### 2026 House Money Map: 12 unsupported claims
-
-Ready profile has "2024 cycle, UDP spent" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Stories/Published/2026 House Races/2026 House Money Map.md`
-- **Cost:** ~14 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### Texas 2026 Senate Race: 12 unsupported claims
-
-Ready profile has "47% of" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Stories/Published/2026 Senate Races/Texas 2026 Senate Race.md`
-- **Cost:** ~14 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### Insurance Industry Writes Its Own Regulation Through Both Parties: 12 unsupported claims
-
-Ready profile has "$853 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Stories/Published/Contradiction Deep Dives/Contradiction 17 - Insurance Industry Writes Its Own Regulation Through Both Parties.md`
-- **Cost:** ~14 min
+- **Where:** `content/Donors & Power Networks/Israel Lobby/AIPAC - American Israel Public Affairs Committee.md`
+- **Cost:** ~15 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
 
@@ -242,20 +438,11 @@ Ready profile has "60% of" in the (no section) section with no source link in th
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
 
-### Raytheon (RTX Corporation): 25 unsupported claims
+### Raytheon (RTX Corporation): 26 unsupported claims
 
 Ready profile has "$88.6 billion" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
 
 - **Where:** `content/Donors & Power Networks/Defense & Intelligence/Raytheon (RTX).md`
-- **Cost:** ~15 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### AIPAC - American Israel Public Affairs Committee: 25 unsupported claims
-
-Ready profile has "$126.9 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Donors & Power Networks/Israel Lobby/AIPAC - American Israel Public Affairs Committee.md`
 - **Cost:** ~15 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
@@ -269,7 +456,7 @@ Ready profile has "70% of" in the (no section) section with no source link in th
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
 
-### The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media: 24 unsupported claims
+### The Shared Sponsor Map , Corporate Advertisers Funding Both Left and Right Political Media: 24 unsupported claims
 
 Ready profile has "$10.8 billion" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
 
@@ -283,6 +470,15 @@ Ready profile has "$10.8 billion" in the (no section) section with no source lin
 Ready profile has "$16M" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
 
 - **Where:** `content/Stories/Published/Intra-Republican Contradiction Map.md`
+- **Cost:** ~15 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### Lockheed Martin: 20 unsupported claims
+
+Ready profile has "$14B" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Donors & Power Networks/Defense & Intelligence/Lockheed Martin.md`
 - **Cost:** ~15 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
@@ -305,11 +501,47 @@ Ready profile has "58% of" in the (no section) section with no source link in th
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
 
+### Jon Ossoff: 19 unsupported claims
+
+Ready profile has "$106.8 million" in the Who He Is section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Politicians/Democrats/Senate/Jon Ossoff/_Jon Ossoff Master Profile.md`
+- **Cost:** ~15 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### Jeffrey Yass: 18 unsupported claims
+
+Ready profile has "7% of" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Jeffrey Yass.md`
+- **Cost:** ~15 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
 ### American Action Network: 17 unsupported claims
 
 Ready profile has "$170 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
 
 - **Where:** `content/Donors & Power Networks/Dark Money/American Action Network.md`
+- **Cost:** ~15 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### Koch Industries: 17 unsupported claims
+
+Ready profile has "75% of" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Donors & Power Networks/Energy & Utilities/Koch Industries.md`
+- **Cost:** ~15 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### DonorsTrust: 17 unsupported claims
+
+Ready profile has "30% of" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/DonorsTrust.md`
 - **Cost:** ~15 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
@@ -323,11 +555,47 @@ Ready profile has "$800M" in the (no section) section with no source link in the
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
 
+### Trump 2024 Campaign: 16 unsupported claims
+
+Ready profile has "$1.45 billion" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Trump 2024 Campaign.md`
+- **Cost:** ~15 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### US Chamber of Commerce: 16 unsupported claims
+
+Ready profile has "$81 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/US Chamber of Commerce.md`
+- **Cost:** ~15 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### Anthem - Elevance Health: 16 unsupported claims
+
+Ready profile has "$20.5 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Donors & Power Networks/Healthcare/Anthem - Elevance Health.md`
+- **Cost:** ~15 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
 ### Eli Lilly: 16 unsupported claims
 
 Ready profile has "90% of" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
 
 - **Where:** `content/Donors & Power Networks/Pharma & Healthcare/Eli Lilly.md`
+- **Cost:** ~15 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### Club for Growth: 16 unsupported claims
+
+Ready profile has "$163 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Club for Growth.md`
 - **Cost:** ~15 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
@@ -350,29 +618,20 @@ Ready profile has "$90 million" in the (no section) section with no source link 
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
 
-### Uber: 14 unsupported claims
+### 2026 House Money Map: 14 unsupported claims
 
-Ready profile has "2020, shortly after Prop 22 passed" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+Ready profile has "$78 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
 
-- **Where:** `content/Donors & Power Networks/Gig Economy/Uber.md`
+- **Where:** `content/Stories/Published/2026 House Races/2026 House Money Map.md`
 - **Cost:** ~15 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
 
-### Stand Together: 13 unsupported claims
+### Brookings Institution: 14 unsupported claims
 
-Ready profile has "$578 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+Ready profile has "64.5% of" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
 
-- **Where:** `content/Donors & Power Networks/Dark Money/Stand Together.md`
-- **Cost:** ~15 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### American Petroleum Institute: 13 unsupported claims
-
-Ready profile has "86.4% of" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Donors & Power Networks/Energy & Utilities/American Petroleum Institute.md`
+- **Where:** `content/Think Tanks & Policy Infrastructure/Centrist/Brookings Institution.md`
 - **Cost:** ~15 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
@@ -511,6 +770,15 @@ Adam Smith has sponsored 25 bills in the "Armed Forces and National Security" po
 - **Cost:** ~25 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `contradiction-miner`
+
+### vault-audit: reconciliation-framework-tier-1 — 145 findings
+
+Data integrity: absurd-value frontmatter, self-loop edges, duplicates, orphans — 145 error, 7598 warn (7743 findings total).
+
+- **Where:** `/system-health`
+- **Cost:** ~45 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `vault-audit`
 
 ## 🟢 Background Cleanup
 
@@ -803,6 +1071,15 @@ Judicial Crisis Network is tagged dark-money-networked with capital_type=dark-mo
 - **Cost:** ~90 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `story-candidate-scorer`
+
+### vault-audit: pipeline-janitor — 489 findings
+
+Zombie auto-blocks, stale enrichment, A+ audit checks on ready/verified profiles — Scanned 3206 profiles. 489 had issues.
+
+- **Where:** `/system-health`
+- **Cost:** ~60 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `vault-audit`
 
 ### Demand Justice — dark-money-networked, $20,000 tracked political spend
 
