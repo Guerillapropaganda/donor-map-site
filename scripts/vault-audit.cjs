@@ -159,6 +159,14 @@ const CHECKS = [
     timeout_ms: 30000,
     queue: { bucket: 'compounding', leverage: 2, cost_min: 5 },
   },
+  {
+    name: 'frontmatter-schema',
+    description: 'Frontmatter schema violations per ADR-0023 (universal/type-required/proposed-required/retired)',
+    cmd: ['node', 'scripts/frontmatter-schema-validator.cjs', '--json'],
+    parse: parseFrontmatterSchema,
+    timeout_ms: 60000,
+    queue: { bucket: 'deciding', leverage: 3, cost_min: 60 },
+  },
 ];
 
 // ─── Output parsers (one per check) ────────────────────────────────
@@ -264,6 +272,23 @@ function parseUrlDomainPolicy(stdout, _stderr, _exit) {
     return {
       findings_count: j.total_findings || 0,
       notes: `${j.scanned || 0} scanned, ${j.profiles_with_hits || 0} profiles hit. ${sev}.`,
+    };
+  } catch {
+    return { findings_count: 0, notes: '(json parse failed)' };
+  }
+}
+
+function parseFrontmatterSchema(stdout, _stderr, _exit) {
+  try {
+    const j = JSON.parse(stdout);
+    const hard = (j.by_kind['missing_universal'] || 0)
+      + (j.by_kind['missing_type_required'] || 0)
+      + (j.by_kind['missing_id'] || 0)
+      + (j.by_kind['retired_field'] || 0);
+    const soft = j.by_kind['missing_type_proposed'] || 0;
+    return {
+      findings_count: j.total_findings || 0,
+      notes: `${j.scanned} scanned, ${j.profiles_with_violations} with violations. ${hard} hard (universal/type-required/id/retired), ${soft} soft (proposed-required).`,
     };
   } catch {
     return { findings_count: 0, notes: '(json parse failed)' };
