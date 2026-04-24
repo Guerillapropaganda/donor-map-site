@@ -21,7 +21,6 @@ const PAGES: SearchResult[] = [
   { title: "Relationships", path: "/relationships", type: "page", contentReadiness: "", category: "page", subtitle: "Connection mapper" },
   { title: "Editor", path: "/editor", type: "page", contentReadiness: "", category: "page", subtitle: "Profile editor" },
   { title: "Publisher", path: "/publisher", type: "page", contentReadiness: "", category: "page", subtitle: "Create profiles" },
-  { title: "Alerts", path: "/alerts", type: "page", contentReadiness: "", category: "page", subtitle: "Stale profiles" },
   { title: "Distribution", path: "/distribution", type: "page", contentReadiness: "", category: "page", subtitle: "Social sharing" },
 ]
 

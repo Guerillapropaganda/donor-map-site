@@ -10,26 +10,25 @@ function readJSON(file: string): Record<string, unknown> {
 }
 
 // Lightweight status endpoint for sidebar badges — polls every 60s.
-// Alert counts are delegated to /api/alerts so the dashboard card matches
-// exactly what the /alerts page lists. Anything else would be a lie —
-// previously this endpoint computed a heuristic count that diverged from
-// the real alert list.
+// "alerts.critical" is now sourced from the attention-queue's blocking
+// bucket (the /alerts page was retired 2026-04-24 in favor of /attention,
+// which has the same producers writing through the unified queue). The
+// field name is preserved for backwards-compat with the Sidebar consumer.
 export async function GET() {
   try {
-    // Alert summary: delegate to /api/alerts (which caches internally for 10 min)
     let alertsCritical = 0
     let alertsWarning = 0
     try {
       const baseUrl = process.env.NEXTAUTH_URL || "http://localhost:3333"
-      const alertsRes = await fetch(`${baseUrl}/api/alerts`, { cache: "no-store" })
-      if (alertsRes.ok) {
-        const alertsData = (await alertsRes.json()) as {
-          summary?: { critical?: number; warning?: number }
+      const queueRes = await fetch(`${baseUrl}/api/attention-queue`, { cache: "no-store" })
+      if (queueRes.ok) {
+        const queueData = (await queueRes.json()) as {
+          buckets?: { blocking?: unknown[]; deciding?: unknown[] }
         }
-        alertsCritical = alertsData.summary?.critical ?? 0
-        alertsWarning = alertsData.summary?.warning ?? 0
+        alertsCritical = queueData.buckets?.blocking?.length ?? 0
+        alertsWarning = queueData.buckets?.deciding?.length ?? 0
       }
-    } catch { /* alerts endpoint unreachable — leave counts at 0 */ }
+    } catch { /* attention queue unreachable — leave counts at 0 */ }
 
     // Notes: open count
     let notesOpen = 0

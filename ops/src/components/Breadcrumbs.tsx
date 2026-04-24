@@ -18,7 +18,6 @@ const PAGE_LABELS: Record<string, string> = {
   "money-trail": "Money Trail",
   "capitol-trades": "Capitol Trades",
   calendar: "Calendar",
-  alerts: "Alerts",
   distribution: "Distribution",
   rules: "Rulebook",
   docs: "System Docs",

@@ -20,7 +20,6 @@ const NAV_ITEMS = [
   { href: "/money-trail", label: "Money Trail", icon: "dollar" },
   { href: "/capitol-trades", label: "Capitol Trades", icon: "trending" },
   { href: "/calendar", label: "Calendar", icon: "calendar" },
-  { href: "/alerts", label: "Alerts", icon: "bell" },
   { href: "/distribution", label: "Distribution", icon: "share" },
   { href: "/rules", label: "Rulebook", icon: "target" },
   { href: "/operations", label: "Operations", icon: "shield" },
@@ -155,7 +154,12 @@ export function Sidebar() {
           const active = item.href === "/" ? pathname === "/" : pathname.startsWith(item.href)
           // Badge logic
           let badge: { count?: number; dot?: boolean; color: string } | null = null
-          if (item.href === "/alerts" && badges.alerts?.critical) {
+          if (item.href === "/attention" && badges.alerts?.critical) {
+            // /attention shows blocking-bucket count (red dot for "things
+            // breaking now"). Field name stays "alerts.critical" for
+            // backwards-compat with /api/status; the /alerts page itself
+            // was retired 2026-04-24 and the count was repointed to
+            // attention-queue blocking entries.
             badge = { count: badges.alerts.critical, color: "#ef4444" }
           } else if (item.href === "/notes" && badges.notes?.open) {
             badge = { count: badges.notes.open, color: "#f59e0b" }

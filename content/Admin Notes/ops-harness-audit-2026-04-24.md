@@ -92,3 +92,20 @@ If the page needs a specific check's findings_count, it passes `onLoad` and pull
 ---
 
 **Resolution criteria:** Close this note when (a) the /signoff-queue deeper rewire above is done and (b) `/operations` either gets a chip or is documented as not needing one.
+
+---
+
+## Update — 2026-04-24 evening
+
+Second pass on /attention and /alerts (separate commit). Findings turned out larger than the audit suggested:
+
+**/alerts retired entirely.** The page was a parallel computation of signals the harness already produces (stale-enrichment, verified-decay, near-verified) plus a dead GitHub-API code path hitting a workflow that was disabled per Rule 3. Its unique signals (broken-wikilinks, both-sides donors) were already attention-queue producers via `contradiction-miner.cjs` and `missing-profile-detector.cjs`. Net delete of `/alerts/page.tsx` + `/api/alerts/route.ts`. Sidebar entry, breadcrumbs label, command palette entry, and dashboard "View Alerts" quick action all removed; the latter repointed to /attention. `/api/status` repointed: `alerts.critical` is now sourced from `attention-queue.buckets.blocking.length` (field name kept for backwards-compat with Sidebar).
+
+**/attention rewired.** Three changes:
+1. **HarnessChip wired to `dispatcher-alive`.** When the background dispatcher hasn't logged in its expected uptime window, a red banner appears above the bucket cards. This is the load-bearing trust signal for the page — without it, every count freezes silently.
+2. **Auto-refresh checkbox** (5-min interval, off by default).
+3. **Plain-English UI translation layer.** Source names (`voice-drift-detector` → "voice & quality scanner"), entry titles ("voice rule violations" → "needs polish before it can ship"), and `why` body strings ("specific-number density 0.0/100 words" → "very few specific numbers in the prose") all translated for display only. Producer scripts and the writeable digest at `content/Admin Notes/Attention Queue.md` are untouched. Translation is a small dictionary in the page file, fully reversible. Hover the source pill to see the original script name.
+
+**Bug found and fixed mid-flight.** Original regex used `dashes?` to match "dash" or "dashes" — but `?` only applies to the preceding char, so it matched "dashe" or "dashes". Changed to `dash(?:es)?`. Caught by preview verification.
+
+**Empty state updated.** Old text told the user to manually run 5 producer scripts. Per ADR-0021 the dispatcher already runs them every 15 min — empty state now says "the dispatcher should populate this within 15 minutes" + falls back to the dispatcher script itself if the user truly needs to force a populate.

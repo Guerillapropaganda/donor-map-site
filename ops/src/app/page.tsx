@@ -409,17 +409,17 @@ export default function Dashboard() {
           { label: "Check URLs", desc: "Triage broken links", icon: "M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9", color: "#5b8dce", href: "/urls" },
           { label: "Enrich Profiles", desc: "Run pipelines", icon: "M13 10V3L4 14h7v7l9-11h-7z", color: "#f59e0b", href: "/pipelines" },
           {
-            label: "View Alerts",
+            label: "Attention Queue",
             desc: (() => {
-              const c = statusData.alerts?.critical ?? 0
-              const w = statusData.alerts?.warning ?? 0
-              if (c === 0 && w === 0) return "all clear"
-              if (c === 0) return `${w} warning`
-              return `${c} critical${w > 0 ? `, ${w} warning` : ""}`
+              const blocking = statusData.alerts?.critical ?? 0
+              const deciding = statusData.alerts?.warning ?? 0
+              if (blocking === 0 && deciding === 0) return "queue is empty"
+              if (blocking === 0) return `${deciding} editorial decision${deciding === 1 ? "" : "s"}`
+              return `${blocking} blocking${deciding > 0 ? `, ${deciding} editorial` : ""}`
             })(),
             icon: "M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9",
             color: "#ef4444",
-            href: "/alerts",
+            href: "/attention",
           },
         ].map(qa => (
           <button key={qa.label} onClick={() => router.push(qa.href)}

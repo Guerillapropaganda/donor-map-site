@@ -1,7 +1,8 @@
 "use client"
 
-import { useEffect, useState } from "react"
+import { useEffect, useRef, useState } from "react"
 import Link from "next/link"
+import HarnessChip, { type HarnessArtifact } from "@/components/HarnessChip"
 
 /**
  * /attention — the master surface for everything the automation scripts
@@ -10,7 +11,92 @@ import Link from "next/link"
  *
  * The design principle: David opens this page each morning, does the
  * top 5 items, closes the app. The system handles everything else.
+ *
+ * Display rule: render entries in plain English. The producer scripts
+ * write technical strings ("voice rule violations", "specific-number
+ * density 0.0/100 words") into the canonical queue + markdown digest.
+ * That's appropriate for the writeable record. But here on screen,
+ * we humanize source names, soften jargon-y titles, and rewrite the
+ * `why` body so David doesn't have to translate every entry mentally.
+ * Translation is UI-only — the queue store and producers are untouched.
+ *
+ * The /alerts page used to surface a parallel set of signals computed
+ * independently. It was retired 2026-04-24 in favor of /attention,
+ * which has the same producers (contradiction-miner, missing-profile-
+ * detector, etc.) writing through the unified queue.
  */
+
+// ─── Plain-English translation layer ───────────────────────────────
+// All UI-only. Reversible. The raw strings live in
+// content/Admin Notes/Attention Queue.md (the writeable digest) and in
+// the false-positive log keyed off the original text — touching those
+// would break the producer feedback loop.
+
+const SOURCE_LABELS: Record<string, string> = {
+  "voice-drift-detector": "voice & quality scanner",
+  "hallucination-catcher": "unsupported-claim check",
+  "contradiction-miner": "cross-donor contradictions",
+  "missing-profile-detector": "broken wikilinks",
+  "promotion-candidate-queue": "ready to promote",
+  "relationship-discovery": "new donor relationships",
+  "audit-panel": "vault audit panel",
+  "duplicate-bioguide-sentinel": "duplicate politician IDs",
+  "stamp-expiry-check": "stale enrichment",
+  "url-domain-policy": "dead source URLs",
+}
+
+function humanizeSource(source: string): string {
+  return SOURCE_LABELS[source] || source.replace(/-/g, " ")
+}
+
+// Title rewrites: map common producer phrases to reader-friendly ones.
+// First-match-wins. Each entry is [matcher, replacement | fn].
+const TITLE_REWRITES: Array<[RegExp, string | ((m: RegExpMatchArray) => string)]> = [
+  [/^(.+?): voice rule violations?$/i, (m) => `${m[1]} — needs polish before it can ship`],
+  [/^(.+?): schema violations?$/i, (m) => `${m[1]} — frontmatter doesn't match the template`],
+  [/^(.+?): unsupported claims?$/i, (m) => `${m[1]} — claims without sources`],
+  [/^(.+?): promotion candidate$/i, (m) => `${m[1]} — ready for editorial sign-off`],
+  [/^(.+?): broken wikilinks?$/i, (m) => `${m[1]} — links to a profile that doesn't exist`],
+  [/^(.+?): duplicate bioguide-id$/i, (m) => `${m[1]} — duplicate politician ID with another profile`],
+  [/^(.+?): stale enrichment$/i, (m) => `${m[1]} — hasn't been refreshed in over 30 days`],
+]
+
+function humanizeTitle(what: string): string {
+  for (const [pattern, replacement] of TITLE_REWRITES) {
+    const m = what.match(pattern)
+    if (m) {
+      return typeof replacement === "function" ? replacement(m) : replacement
+    }
+  }
+  return what
+}
+
+// Soften technical phrases in the why body. Order matters — apply
+// longer/more specific replacements first.
+const WHY_REPLACEMENTS: Array<[RegExp, string]> = [
+  [/(?:low\s+)?specific-number density [\d.]+\/100 words(?:\s*\(target [^)]+\))?/gi, "very few specific numbers in the prose"],
+  [/(?:high\s+)?avg sentence length \d+ words(?:\s*\(target [^)]+\))?/gi, "sentences are running long"],
+  [/These hard rules block ship/gi, "These block publication"],
+  [/blocks ship/gi, "blocks publication"],
+  [/before this profile renders on the public site/gi, "before this profile can go public"],
+  [/em dash(?:es)? in body/gi, "em dashes in the prose"],
+  [/AI vocabulary/gi, "telltale AI phrasing"],
+  [/Ready profile contains/gi, "This profile contains"],
+  [/Verified profile contains/gi, "This profile contains"],
+  [/contains (\d+) em dash(?:es)?/gi, (_m: string, n: string) => `has ${n} em dash${n === "1" ? "" : "es"}`],
+]
+
+function softenWhy(why: string): string {
+  let out = why
+  for (const [pattern, replacement] of WHY_REPLACEMENTS) {
+    if (typeof replacement === "function") {
+      out = out.replace(pattern, replacement as never)
+    } else {
+      out = out.replace(pattern, replacement)
+    }
+  }
+  return out
+}
 
 interface AttentionEntry {
   bucket: "blocking" | "deciding" | "compounding"
@@ -100,6 +186,16 @@ export default function AttentionPage() {
   )
   const [sourceFilter, setSourceFilter] = useState<string>("all")
   const [rejecting, setRejecting] = useState<string | null>(null)
+  const [harness, setHarness] = useState<HarnessArtifact | null>(null)
+  const [autoRefresh, setAutoRefresh] = useState(false)
+  const refreshTimer = useRef<NodeJS.Timeout | null>(null)
+
+  // Dispatcher liveness — cribbed from harness `dispatcher-alive` check.
+  // findings_count > 0 means "the dispatcher daemon hasn't logged within
+  // the expected uptime window" → background producers may be silent →
+  // every count on this page is potentially frozen.
+  const dispatcherCheck = harness?.checks.find((c) => c.name === "dispatcher-alive")
+  const dispatcherDead = (dispatcherCheck?.findings_count ?? 0) > 0
 
   const refetch = () =>
     fetch("/api/attention-queue")
@@ -115,6 +211,20 @@ export default function AttentionPage() {
       })
       .catch(() => setLoading(false))
   }, [])
+
+  // Auto-refresh every 5 min — matches the dispatcher cadence (15 min)
+  // closely enough that David sees fresh entries appear without doing
+  // anything. Toggle off to pause polling.
+  useEffect(() => {
+    if (!autoRefresh) {
+      if (refreshTimer.current) clearInterval(refreshTimer.current)
+      return
+    }
+    refreshTimer.current = setInterval(refetch, 300_000)
+    return () => {
+      if (refreshTimer.current) clearInterval(refreshTimer.current)
+    }
+  }, [autoRefresh])
 
   async function rejectItem(e: AttentionEntry) {
     const key = `${e.source}|${e.where}|${e.what}`
@@ -160,20 +270,29 @@ export default function AttentionPage() {
     return (
       <div className="min-h-screen bg-[var(--color-bg)] text-[var(--color-text)] p-6">
         <div className="max-w-4xl mx-auto">
-          <h1 className="text-2xl font-bold mb-2">🎯 Attention Queue</h1>
+          <div className="flex items-start justify-between mb-2">
+            <h1 className="text-2xl font-bold">🎯 Attention Queue</h1>
+            <HarnessChip onLoad={setHarness} />
+          </div>
           <p className="text-[12px] text-[var(--color-text-dim)] mb-6">
-            Nothing here yet. Run the automation scripts to populate the queue.
+            Nothing in the queue right now. The dispatcher should populate this
+            within 15 minutes — if it's been longer than that, the background
+            scanner may be stuck.
           </p>
+          {dispatcherDead && (
+            <div className="bg-[var(--color-red)]/10 border border-[var(--color-red)]/30 rounded p-4 mb-4 text-[11px] text-[var(--color-red)]">
+              <strong>Dispatcher hasn't logged recently.</strong> The harness
+              check <code>dispatcher-alive</code> is flagging — that means the
+              background scanner that fills this queue is probably crashed or
+              paused. Open <Link href="/system-health" className="underline">System Health</Link> for details.
+            </div>
+          )}
           <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded p-4 text-[11px] text-[var(--color-text-dim)]">
             <p className="mb-2">
-              <strong className="text-[var(--color-text)]">First time setup:</strong>
+              <strong className="text-[var(--color-text)]">If you need to populate it manually right now:</strong>
             </p>
             <pre className="text-[10px] text-[var(--color-steel)] bg-[var(--color-bg)] p-2 rounded overflow-x-auto">
-              {`node scripts/voice-drift-detector.cjs
-node scripts/hallucination-catcher.cjs
-node scripts/contradiction-miner.cjs
-node scripts/missing-profile-detector.cjs
-node scripts/promotion-candidate-queue.cjs`}
+              {`node scripts/attention-dispatcher.cjs --run-now`}
             </pre>
           </div>
         </div>
@@ -211,7 +330,7 @@ node scripts/promotion-candidate-queue.cjs`}
         </div>
 
         {/* Header */}
-        <div className="mb-6 flex items-start justify-between">
+        <div className="mb-4 flex items-start justify-between gap-4">
           <div>
             <h1 className="text-2xl font-bold mb-1">🎯 Attention Queue</h1>
             <p className="text-[12px] text-[var(--color-text-dim)]">
@@ -219,13 +338,42 @@ node scripts/promotion-candidate-queue.cjs`}
               Work top-to-bottom, once a day.
             </p>
           </div>
-          <div className="text-right">
-            <div className="text-[9px] uppercase tracking-wider text-[var(--color-text-dim)]">
-              last updated
+          <div className="flex items-center gap-3 flex-shrink-0">
+            <label className="flex items-center gap-1.5 text-[9px] text-[var(--color-text-dim)] cursor-pointer">
+              <input
+                type="checkbox"
+                checked={autoRefresh}
+                onChange={() => setAutoRefresh((p) => !p)}
+                className="rounded accent-[var(--color-green)]"
+              />
+              Auto-refresh
+              {autoRefresh && (
+                <span className="w-1.5 h-1.5 rounded-full bg-[var(--color-green)] animate-pulse" />
+              )}
+            </label>
+            <HarnessChip onLoad={setHarness} />
+            <div className="text-right">
+              <div className="text-[9px] uppercase tracking-wider text-[var(--color-text-dim)]">
+                last updated
+              </div>
+              <div className="text-[11px] text-[var(--color-text)]">{updatedAgo}</div>
             </div>
-            <div className="text-[11px] text-[var(--color-text)]">{updatedAgo}</div>
           </div>
         </div>
+
+        {/* Dispatcher-dead banner — the load-bearing trust signal. If the
+            background dispatcher hasn't logged within its expected uptime
+            window, every count on this page is potentially frozen and the
+            user needs to know before they triage. */}
+        {dispatcherDead && (
+          <div className="mb-4 bg-[var(--color-red)]/10 border border-[var(--color-red)]/30 rounded p-3 text-[11px] text-[var(--color-red)]">
+            <strong>Dispatcher silent.</strong> The harness check{" "}
+            <code className="bg-[var(--color-red)]/20 px-1 rounded">dispatcher-alive</code>{" "}
+            says the background scanner that fills this queue hasn't logged in.
+            New entries may not be appearing.{" "}
+            <Link href="/system-health" className="underline">Open System Health</Link> to investigate.
+          </div>
+        )}
 
         {/* Bucket summary cards */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-3 mb-6">
@@ -287,14 +435,14 @@ node scripts/promotion-candidate-queue.cjs`}
               <button
                 key={s}
                 onClick={() => setSourceFilter(s)}
-                title={srcFreshness ? `Newest entry: ${timeAgo(srcFreshness)} (${srcFreshness})` : "No entries timestamped"}
+                title={`${s}${srcFreshness ? ` · newest entry ${timeAgo(srcFreshness)} (${srcFreshness})` : " · no entries timestamped"}`}
                 className={`px-2 py-1 rounded border transition-colors ${
                   sourceFilter === s
                     ? "border-[var(--color-text)] text-[var(--color-text)]"
                     : "border-[var(--color-border)] text-[var(--color-text-dim)] hover:text-[var(--color-text)]"
                 }`}
               >
-                {s} ({count})
+                {humanizeSource(s)} ({count})
                 {srcFreshness && (
                   <span className="ml-1 text-[var(--color-steel)]">· {timeAgo(srcFreshness)}</span>
                 )}
@@ -331,11 +479,13 @@ node scripts/promotion-candidate-queue.cjs`}
                         href={linkHref}
                         className="text-[13px] font-bold text-[var(--color-text)] hover:text-[var(--color-steel)] block"
                       >
-                        {e.what}
+                        {humanizeTitle(e.what)}
                       </Link>
                       <div className="text-[10px] text-[var(--color-text-dim)] mt-0.5">
                         {meta.emoji} {meta.label} · surfaced by{" "}
-                        <code className="text-[var(--color-steel)]">{e.source}</code>
+                        <span className="text-[var(--color-steel)]" title={e.source}>
+                          {humanizeSource(e.source)}
+                        </span>
                         {" · "}
                         <span
                           className="text-[var(--color-steel)]"
@@ -359,7 +509,7 @@ node scripts/promotion-candidate-queue.cjs`}
                     </div>
                   </div>
                   <p className="text-[11px] text-[var(--color-text)] leading-snug mb-2">
-                    {e.why}
+                    {softenWhy(e.why)}
                   </p>
                   <div className="flex items-center justify-between gap-3">
                     <div className="text-[9px] text-[var(--color-text-dim)] font-mono truncate">
