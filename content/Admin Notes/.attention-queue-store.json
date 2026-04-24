@@ -1955,7 +1955,7 @@
     {
       "bucket": "compounding",
       "what": "vault-audit: pipeline-janitor — 489 findings",
-      "why": "Zombie auto-blocks, stale enrichment, A+ audit checks on ready/verified profiles — Scanned 3206 profiles. 489 had issues.",
+      "why": "Zombie auto-blocks, stale enrichment, A+ audit checks on ready/verified profiles — Scanned 3208 profiles. 489 had issues.",
       "where": "/system-health",
       "cost_min": 60,
       "leverage": 3,
@@ -1964,6 +1964,34 @@
       "metadata": {
         "check": "pipeline-janitor",
         "findings_count": 489
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "vault-audit: type-specific-a-plus — 1388 findings",
+      "why": "Per-type A+ publication bar (ADR-0022): universal floor + type-specific checks for politician/donor/corporation/think-tank — 446 scanned, 0 pass, 446 fail. By type: donor 0/266, corporation 0/6, politician 0/164, state-politician 0/7, local-politician 0/1, think-tank 0/2.",
+      "where": "/system-health",
+      "cost_min": 45,
+      "leverage": 5,
+      "source": "vault-audit",
+      "created": "2026-04-24",
+      "metadata": {
+        "check": "type-specific-a-plus",
+        "findings_count": 1388
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "vault-audit: url-domain-policy — 121 findings",
+      "why": "URLs to dead/demoted domains in publication-tier profiles (FollowTheMoney, pre-migration LDA, OpenSecrets) — 446 scanned, 79 profiles hit. dead: 12, broken-until: 4, demoted: 105.",
+      "where": "/system-health",
+      "cost_min": 30,
+      "leverage": 2,
+      "source": "vault-audit",
+      "created": "2026-04-24",
+      "metadata": {
+        "check": "url-domain-policy",
+        "findings_count": 121
       }
     },
     {

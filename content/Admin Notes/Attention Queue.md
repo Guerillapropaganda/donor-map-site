@@ -12,7 +12,7 @@ generated-by: scripts/lib/attention-queue.cjs
 
 *Auto-generated. Every script that finds something worth your time writes to this file.*
 
-**30** blocking · **54** editorial decisions · **36** background cleanup
+**31** blocking · **54** editorial decisions · **37** background cleanup
 
 ---
 
@@ -289,6 +289,15 @@ Ready profile contains 29 em dashes in body. These hard rules block ship — em 
 - **Cost:** ~3 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
+
+### vault-audit: type-specific-a-plus — 1388 findings
+
+Per-type A+ publication bar (ADR-0022): universal floor + type-specific checks for politician/donor/corporation/think-tank — 446 scanned, 0 pass, 446 fail. By type: donor 0/266, corporation 0/6, politician 0/164, state-politician 0/7, local-politician 0/1, think-tank 0/2.
+
+- **Where:** `/system-health`
+- **Cost:** ~45 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `vault-audit`
 
 ## 🟡 Editorial Decisions
 
@@ -919,6 +928,15 @@ Referenced by 9 other vault profiles but has no file yet. Building a stub unlock
 - **Leverage:** ★★☆☆☆
 - **Surfaced by:** `missing-profile-detector`
 
+### vault-audit: url-domain-policy — 121 findings
+
+URLs to dead/demoted domains in publication-tier profiles (FollowTheMoney, pre-migration LDA, OpenSecrets) — 446 scanned, 79 profiles hit. dead: 12, broken-until: 4, demoted: 105.
+
+- **Where:** `/system-health`
+- **Cost:** ~30 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `vault-audit`
+
 ### American Action Network — dark-money-networked, $176,798,895 tracked political spend
 
 American Action Network is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $176,798,895. Investigate cross-references with other dark-money network members. [dark_money_network, score 24.29, tier high]
@@ -1074,7 +1092,7 @@ Judicial Crisis Network is tagged dark-money-networked with capital_type=dark-mo
 
 ### vault-audit: pipeline-janitor — 489 findings
 
-Zombie auto-blocks, stale enrichment, A+ audit checks on ready/verified profiles — Scanned 3206 profiles. 489 had issues.
+Zombie auto-blocks, stale enrichment, A+ audit checks on ready/verified profiles — Scanned 3208 profiles. 489 had issues.
 
 - **Where:** `/system-health`
 - **Cost:** ~60 min
