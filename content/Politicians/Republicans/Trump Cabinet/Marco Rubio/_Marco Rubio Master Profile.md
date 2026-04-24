@@ -18,10 +18,13 @@ top-donors:
   - MasTec - Mas Canosa Family
   - LARA Fund - Mauricio Claver-Carone
 total-received: $48,331,862
-fec-candidate-id: P60006723
+fec-candidate-id: S0FL00338
+fec-previous-ids:
+  - id: P60006723
+    office: President
+    cycles: "2016"
 bioguide-id: R000595
 govtrack-id: 412491
-fec-senate-id: S0FL00338
 say-vs-pay:
   passed:
     - Embassy to Jerusalem (2018) . Adelson deliverable

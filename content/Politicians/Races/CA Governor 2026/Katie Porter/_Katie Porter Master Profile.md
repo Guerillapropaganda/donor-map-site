@@ -8,13 +8,16 @@ source-tier: 1
 parent: null
 party: "Democrat"
 chamber: "Candidate"
-running-for: "CA Governor 2026"
 state: "California"
 state-abbr: "CA"
 bioguide-id: "P000618"
 govtrack-id: 412758
 fec-candidate-id: "S4CA00522"
-fec-candidate-id-house: "H8CA45130"
+fec-previous-ids:
+  - id: "H8CA45130"
+    office: "House"
+    state: "CA"
+    cycles: "2018-2024"
 bills-sponsored: 187
 bills-cosponsored: 1848
 issues:
@@ -55,15 +58,6 @@ last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: "re-run fec pipeline; re-run congress pipeline"
 related: "[[Crypto Industry Bloc]] · [[Marc Andreessen & Horowitz]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[SEIU - Service Employees International Union]] · [[Teamsters - International Brotherhood of Teamsters]] · [[_Gavin Newsom Master Profile]]"
-opensanctions-status: "pep"
-opensanctions-matches: 1
-opensanctions-datasets:
-  - "wd_categories"
-  - "ann_pep_positions"
-  - "everypolitician"
-  - "wd_peps"
-  - "wikidata"
-  - "us_congress"
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC-CANDIDATE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
   • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.

@@ -8,7 +8,6 @@ source-tier: 1
 parent: null
 party: Republican
 chamber: Candidate
-running-for: OH Governor 2026
 state: Ohio
 state-abbr: OH
 issues:

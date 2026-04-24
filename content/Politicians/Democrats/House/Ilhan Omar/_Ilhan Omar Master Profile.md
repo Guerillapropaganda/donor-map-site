@@ -16,8 +16,6 @@ fec-committee-id: C00680934
 committees:
   - House Committee on Education and Workforce
   - House Committee on the Budget
-former-committees:
-  - Foreign Affairs (removed February 2, 2023 by 218-211 House vote)
 issues:
   - Agriculture and Food
   - Animals
@@ -45,9 +43,6 @@ opposes:
   - United Democracy Project
   - Don Samuels
 donors: "[[National Nurses United]] · [[Wfp Ie Committee]] · [[Takeaction Mn Federal Fund]] · [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]] · [[NATIONAL NURSES UNITED FOR PATIENT PROTECTION]] · [[Minnesota Democratic-Farmer-Labor Party]] · [[National Nurses United for Patient Protection]] · [[Americans for Tomorrow's Future]] · [[Teamsters - International Brotherhood of Teamsters]] · [[SEIU COPE]] · [[JUSTICE DEMOCRATS PAC]] · [[NEA Fund for Children and Public Education]] · [[National Association of Realtors]] · [[Unite Here Tip Campaign Committee]] · [[Medicare for All - The Policy That Broke the Party]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Sierra Club Independent Action]] · [[Drain the DC Swamp PAC]] · [[Sierra Club Political Committee]] · [[Law Enforcement for a Safer America Pac]] · [[Pete Aguilar]] · [[Nancy Pelosi]] · [[Indivisible Action]] · [[MoveOn.org Political Action]] · [[Courage to Change PAC]] · [[Congressional Progressive Caucus PAC]] · [[Working Families Party PAC]] · [[Progressive Turnout Project]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[Summer Lee]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[AFSCME Working Families Fund]] · [[League of Conservation Voters]] · [[Planned Parenthood Action Fund INC]] · [[Honoring American Law Enforcement Pac]] · [[Planned Parenthood Votes]] · [[Let America Vote PAC]] · [[Justice Democrats PAC]] · [[American Federation of State County & Municipal Employees  P E O P L E]]"
-editorial-review-date: "2026-04-10"
-editorial-reviewer: Research Claude
-editorial-result: verified-candidate
 editorial-notes: "Flagged for David's verified sign-off. Qualifies on merits: 3 Tier 1 source types (Congress.gov with verified bioguide O000173, FEC candidate + committee, omar.house.gov official press releases), 4 Tier 2 journalism sources documenting the Committee removal, strong class analysis with 'grassroots immunity vs institutional vulnerability' framing, documented Foreign Affairs committee removal (Feb 2, 2023, 218-211), 2022 vs 2024 AIPAC strategy comparison with specific dollar amounts, donation-to-policy timeline. No defamation-prone claims. No (URL NEEDED) tags. No A000383 contamination. FIXED: moved OpenSecrets source from Tier 1 to Archived per Vault Rules demotion. Ready for editor review."
 related: "[[_Rashida Tlaib Master Profile|Tlaib]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Pramila Jayapal Master Profile|Jayapal]] · [[_Jamaal Bowman Master Profile|Bowman]] · [[_Cori Bush Master Profile|Cori Bush]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[United Democracy Project - UDP]] · [[DMFI - Democratic Majority for Israel]] · [[_Bernie Sanders Master Profile]] · [[Justice Democrats and Brand New Congress - The Infrastructure He Built]] · [[Americans for Tomorrow's Future]]"
 needs-reenrichment: true

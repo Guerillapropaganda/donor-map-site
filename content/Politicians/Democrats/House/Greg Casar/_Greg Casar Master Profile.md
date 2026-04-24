@@ -30,9 +30,6 @@ known-gaps:
 donors:
   - "Small Dollar / Labor (grassroots-leaning)"
 related: "[[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[Justice Democrats and Brand New Congress - The Infrastructure He Built]] · [[_Rashida Tlaib Master Profile|Tlaib]] · [[_Ilhan Omar Master Profile|Omar]]"
-editorial-review-date: '2026-04-10'
-editorial-reviewer: "Research Claude"
-editorial-result: stub-created
 editorial-notes: "Raw stub created 2026-04-10. Greg Casar (TX-35, Austin) is a Justice Democrats-backed progressive freshman (elected 2022), former Austin City Council member, and labor organizer. Key story angle: one of the most labor-aligned members of the 2022 class, endorsed by AOC and Bernie Sanders, district is Austin + San Antonio corridor. Was mentioned in AOC's Courage to Change PAC and Saikat Chakrabarti's Justice Democrats profile. Needs: full profile build including central thesis, donor class map, class analysis, sources. Priority: medium — include in next Research Claude session's stub-to-draft queue."
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 31

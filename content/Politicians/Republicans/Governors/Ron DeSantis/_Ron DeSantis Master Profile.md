@@ -28,16 +28,6 @@ executive-actions: 25
 last-enriched: "2026-04-10"
 opposes: "[[SFA FUND, INC]] · [[MAKE AMERICA GREAT AGAIN INC.]]"
 related: ">- · [[Florida 2026 Special Senate Election]] · [[Ready to Win]] · [[Ken Griffin]]"
-opensanctions-status: pep
-opensanctions-matches: 1
-opensanctions-datasets:
-  - ann_pep_positions
-  - wd_categories
-  - everypolitician
-  - wd_peps
-  - us_plural_legislators
-  - wikidata
-  - us_congress
 total-raised: $375,129
 total-spent: $375,129
 cash-on-hand: "0.00"

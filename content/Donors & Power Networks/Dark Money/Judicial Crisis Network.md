@@ -11,7 +11,6 @@ ein: "202303252"
 aliases:
   - The Concord Fund
   - JCN
-merge-note: Entity rebranded to The Concord Fund circa 2023. Both names refer to the same legal entity (EIN 20-2303252). Canonical vault title is Judicial Crisis Network; The Concord Fund registered as alias so auto-pipelines and edges route through the same profile. Merge 2026-04-18 absorbed the Concord Fund stub's inflows.
 politicians-funded: "[[Clarence Thomas]], [[Brett Kavanaugh]], [[Neil Gorsuch]], [[Sheldon Whitehouse]], [[Amy Coney Barrett]], [[_Marco Rubio Master Profile]], [[Marco Rubio]], [[American Future Fund]], [[One Nation]], [[Michigan Republican Party]]"
 issues:
   - Dark Money & Campaign Finance

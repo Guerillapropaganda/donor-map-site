@@ -44,16 +44,6 @@ known-gaps:
   - Committee assignments data needs verification (auto-block pipeline)
 opposes: "[[_Donald Trump Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]]"
 related: "[[_Hakeem Jeffries Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Kamala Harris Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Saikat Chakrabarti Master Profile|Saikat Chakrabarti]]"
-opensanctions-status: "pep-sanctioned"
-opensanctions-matches: 2
-opensanctions-datasets:
-  - "ann_pep_positions"
-  - "wd_categories"
-  - "everypolitician"
-  - "wd_peps"
-  - "wikidata"
-  - "ru_mfa_sanctions"
-  - "us_congress"
 needs-reenrichment: true
 reenrich-reason: "run pipelines"
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:

@@ -11,7 +11,6 @@ last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-ie-support: $1,026,511,866
 fec-ie-oppose: "null"
-data-quality-flag: amount suspicious — verify against FEC directly
 politicians-funded: "[[Kamala Harris]], [[Laura Gillen]], [[Dave Min]], [[Summer Lee]], [[Julia Brownley]], [[John Fetterman]], [[Josh Riley]], [[Laura Friedman]], [[Jamaal Bowman]]"
 related: "[[Kamala Harris]]"
 checklist-na:

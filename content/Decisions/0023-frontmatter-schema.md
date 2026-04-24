@@ -1,16 +1,16 @@
 ---
 title: "ADR-0023: Frontmatter Schema"
 type: adr
-status: proposed
+status: accepted
 date: 2026-04-24
-accepted: null
+accepted: 2026-04-23
 ---
 
 # ADR-0023: Frontmatter Schema
 
 ## Status
 
-Proposed 2026-04-24. Grounded in a full-corpus field survey
+Accepted 2026-04-23 by David. Grounded in a full-corpus field survey
 (artifact: [frontmatter-schema-survey.json](../Admin%20Notes/frontmatter-schema-survey.json)).
 Supersedes the stub placed earlier on 2026-04-24.
 
@@ -152,8 +152,15 @@ Retire immediately (zero consumers, near-zero data):
 Retire after migration (low consumers, some data):
 
 - `editorial-review-date`, `editorial-reviewer`, `editorial-result` —
-  3 politicians touched, never adopted as workflow. Migrate intent
-  to `legal-review-*` fields (already universal via ADR-0022).
+  **retire immediately, do not migrate** (amended 2026-04-23).
+  Initial plan was to migrate to `legal-review-*`. On inspection the
+  16 affected profiles carry reviewer=`Research Claude` with results
+  like `pass`, `verified-candidate`, `ready-candidate`, `stub-created`
+  — this is editorial-workflow data, not legal-review data. Moving it
+  into `legal-review-*` would pollute the legal-risk namespace (the
+  ADR-0022 A+ gate field) with non-legal content. The editorial
+  workflow behind these fields ran once 2026-04-08 through 2026-04-10
+  and was never adopted. Just retire.
 - `custom-stats`, `shareable-stat`, `spotlight-reason`, `featured-date`
   — one-off feature fields that didn't scale. Audit consumers, then remove.
 - `say-vs-pay`, `caucus`, `total-received-note` — partial adoption.
@@ -162,9 +169,40 @@ Retire after migration (low consumers, some data):
 ### 5. Variant consolidation
 
 - `leadership-role` (0 populated) → retire; keep `leadership-roles` (plural).
-- `fec-candidate-id-house`, `fec-senate-id` → retire; keep
-  `fec-candidate-id` as canonical.
-- `parent-profile` → retire; keep `parent`.
+- `parent-profile` → retire; keep `parent`. Any value on `parent-profile`
+  migrates to `parent` (caught in Phase A on the David Sacks donor-network
+  sub-note — value preserved via Phase A amendment).
+- `fec-candidate-id-house`, `fec-senate-id` — **not true variants**.
+  These represent distinct FEC candidate IDs for different election
+  cycles (e.g. Rubio had `S0FL00338` for his 2010–2022 Senate career
+  and `P60006723` for his 2016 Presidential run; Porter had
+  `H8CA45130` for 2018–2024 House and `S4CA00522` for her 2024+
+  statewide run). Consolidation destroys data. New pattern:
+
+  ```yaml
+  fec-candidate-id: "S0FL00338"           # current or most-recent
+  fec-previous-ids:
+    - id: "P60006723"
+      office: "President"
+      cycles: "2016"
+    - id: "H8CA45130"
+      office: "House"
+      state: "CA"
+      cycles: "2018-2024"
+  ```
+
+  `fec-candidate-id` stays as the single canonical / current ID.
+  `fec-previous-ids` is a structured list tracking historical IDs
+  with their office + cycle context. Amendment applied 2026-04-23
+  after Phase A edge-case discovery.
+
+  Rationale: the original "retire as variant" rule assumed these were
+  naming drift. They're actually distinct election-cycle records.
+  Preserving historical IDs is necessary for lifetime-cumulative
+  reconciliation across committees and for queries like "politicians
+  who ran for House before Senate." Promoting to a canonical store
+  (`data/politician-fec-history.jsonl`) is a reasonable future step
+  if the pattern scales; for now 2 profiles, frontmatter works.
 
 ### 6. TTL convention for markdown markers
 
@@ -175,12 +213,25 @@ Markers in frontmatter values or body (`[JANITOR YYYY-MM-DD]`,
 - Any marker with an embedded `YYYY-MM-DD` → TTL starts from that date.
 - Any marker without a date → TTL starts from the enclosing profile's
   `last-updated`.
-- Default TTL: **180 days**. After that a harness check
-  (`stale-markers`) surfaces it.
+- **TTL: 28 days**, with escalating severity surfaced by the
+  `stale-markers` harness check:
+  - Week 1 (≥7d): info — listed in the queue, no action required.
+  - Week 2 (≥14d): warning — flagged in `/system-health`.
+  - Week 3 (≥21d): urgent — promoted to blocking severity in the queue.
+  - Week 4 (≥28d): **block** — commit-blocking sentinel. Commit
+    touching a profile with a ≥28d marker is rejected until the marker
+    is resolved (fixed or intentionally removed). The marker text stays
+    preserved as a breadcrumb; the sentinel fails until someone
+    reconciles it.
 - No field change required — all markers are string-embedded.
 
+**Rationale for 28d not 180d:** project velocity is faster than
+original ADR draft assumed (David, 2026-04-23). 6-month markers rot;
+4-week markers stay live.
+
 This TTL check is a **follow-up harness check**, not in scope for
-this ADR to implement.
+this ADR to implement. Commit-blocking sentinel lands only after
+2 weeks clean as a harness check first (per §8).
 
 ### 7. Schema file format
 

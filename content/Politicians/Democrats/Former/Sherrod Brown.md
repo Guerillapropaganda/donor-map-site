@@ -16,33 +16,11 @@ state: Ohio
 state-abbr: OH
 donors: "[[Lawrence Summers]] · [[Ken Griffin]] · [[Buckeye Values PAC]] · [[Republican Jewish Coalition]] · [[David Sacks]] · [[Good Jobs and Strong Communities PAC]] · [[UAW - United Auto Workers]] · [[WinSenate]] · [[Conservation Ohio]] · [[Ohio Democratic Party]] · [[GOOD JOBS AND STRONG COMMUNITIES PAC]] · [[AMERICAN CROSSROADS]] · [[David Sacks (Donor Network)]] · [[Ruralvote.org]] · [[Fraternal Order of Police]] · [[California Nurses Association]] · [[American Crossroads]] · [[Stars and Stripes Forever PAC]] · [[American Iron and Steel Institute]] · [[David Sacks - Donor Network]] · [[Crossroads Grassroots Policy Strategies]] · [[Giffords PAC]] · [[Microsoft]] · [[Buckeye Values Pac]] · [[Morgan Stanley]] · [[Duke Energy]] · [[SEIU - Service Employees International Union]] · [[Americans for Prosperity]] · [[Votevets]] · [[Anthem - Elevance Health]] · [[AFSCME Working Families Fund]] · [[Activate America]] · [[Tyson Foods]] · [[National Association of Realtors]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[Shontel Brown]] · [[National Nurses United for Patient Protection]] · [[L3Harris Technologies]] · [[Planned Parenthood Action Fund INC]] · [[Honeywell]] · [[Nucor Corporation]] · [[NEA Fund for Children and Public Education]] · [[National Nurses United]] · [[Lockheed Martin]] · [[National Rifle Association]] · [[Sierra Club Political Committee]] · [[American College of Radiology Association PAC]] · [[Ford Motor Company]] · [[Leidos]] · [[General Dynamics]] · [[SLF PAC]] · [[Unite Here Tip Campaign Committee]] · [[SEIU COPE]] · [[American Gaming Association]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[League of Conservation Voters]] · [[American Hospital Association PAC]] · [[Teamsters - International Brotherhood of Teamsters]] · [[UA Political Action Committee]] · [[Progressive Turnout Project]] · [[Working Families Party PAC]] · [[J Street]] · [[ADM - Archer Daniels Midland]] · [[PG&E - Pacific Gas and Electric]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[Let America Vote PAC]] · [[Human Rights Campaign Equality Votes]] · [[Chrissy Houlahan]] · [[Women Speak Out Pac]] · [[MoveOn.org Political Action]] · [[General Motors]] · [[Protect the Vote]] · [[Nancy Pelosi]] · [[Indivisible Action]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[AT&T - WarnerMedia]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Northrop Grumman]] · [[Demand Justice]] · [[The Sentinel Action Fund]] · [[Bechtel Corporation]] · [[NextEra Energy]] · [[Everytown for Gun Safety]] · [[Airbnb]] · [[iHeartMedia]] · [[Google - Alphabet]] · [[Sierra Club Independent Action]] · [[AFL-CIO]] · [[National Multifamily Housing Council]] · [[Comcast - NBCUniversal]] · [[NRSC - National Republican Senatorial Committee]] · [[Planned Parenthood Votes]] · [[DSCC - Democratic Senatorial Campaign Committee]] · [[AT&T]] · [[American Federation of State County & Municipal Employees  P E O P L E]] · [[Honeywell International]]"
 related: ">- · [[Crypto Industry Buys Both Parties in One Cycle]] · [[Ohio 2026 Special Senate Election]] · [[Jon Husted Master Profile]] · [[Bob Casey]] · [[Crypto Industry Bloc]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Ohio Federation of Teachers]] · [[Senate Leadership Fund]]"
-editorial-review-date: "2026-04-08"
-editorial-reviewer: Research Claude
-editorial-result: block
-editorial-blockers:
-  - Bills 0/0 wrong — 18-year senator, needs re-enrichment with correct FEC ID
-  - No source-types computed
-  - No last-enriched date
-  - No committee data — chaired Senate Banking Committee (needs enrichment)
-  - OpenSecrets URL present — must move to Archived per Vault Rules
-  - "Body has duplicate related:/donors: fields outside frontmatter (cleanup needed)"
-verified-blocks:
-  - connections
 known-gaps:
   - Senate FEC data needs re-enrichment (ID fixed to S6OH00163)
   - Committee assignments missing (chaired Banking)
   - Bills sponsored/cosponsored data wrong (shows 0)
   - No source-types detected
-opensanctions-status: pep-sanctioned
-opensanctions-matches: 2
-opensanctions-datasets:
-  - wd_categories
-  - ann_pep_positions
-  - everypolitician
-  - us_congress
-  - wd_peps
-  - wikidata
-  - ru_mfa_sanctions
 needs-reenrichment: true
 reenrich-reason: demote to draft
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • The profile's own known-gaps field says it needs a fresh pipeline run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."

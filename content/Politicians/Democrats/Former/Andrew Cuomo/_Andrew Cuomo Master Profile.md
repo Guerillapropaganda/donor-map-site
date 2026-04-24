@@ -13,14 +13,6 @@ state-abbr: "NY"
 issues:
   - "Housing"
 related: "[[Real Estate Donors]] · [[Michael Bloomberg]]"
-opensanctions-status: "pep"
-opensanctions-matches: 1
-opensanctions-datasets:
-  - "ann_pep_positions"
-  - "wd_categories"
-  - "wd_peps"
-  - "us_plural_legislators"
-  - "wikidata"
 urls-first-triaged: "2026-04-15"
 known-gaps:
   - "No FEC contribution data"

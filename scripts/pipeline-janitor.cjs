@@ -281,21 +281,30 @@ function auditProfile(filePath, content) {
   // on top of the existing zombie/missing-block checks and produce
   // advisory issues (kind: "a-plus-*") that don't demote anything yet.
   // Write-mode for A+ audit stamps comes in plan Step 4.
-  if (RUN_A_PLUS_AUDIT && type === 'politician') {
-    // A+ Tier A: committee-relevant regulatory cross-ref
-    const requiredPipelines = getRequiredPipelinesForCommittees(data.committees);
-    if (requiredPipelines.length > 0) {
-      const missing = requiredPipelines.filter(p => !hasAutoBlock(body, p));
-      if (missing.length > 0) {
-        const reasons = getRequirementReasons(data.committees);
-        const reasonText = reasons.map(r => r.reason).join(' ');
-        issues.push({
-          kind: 'a-plus-committee-cross-ref',
-          detail: `missing committee-relevant pipelines: ${missing.join(', ')}. ${reasonText}`,
-          fix: `run pipelines: ${missing.join(', ')}`,
-        });
+  if (RUN_A_PLUS_AUDIT) {
+    // A+ Tier A: committee-relevant regulatory cross-ref — politician-only.
+    // Uses data.committees which is politician-specific.
+    if (type === 'politician') {
+      const requiredPipelines = getRequiredPipelinesForCommittees(data.committees);
+      if (requiredPipelines.length > 0) {
+        const missing = requiredPipelines.filter(p => !hasAutoBlock(body, p));
+        if (missing.length > 0) {
+          const reasons = getRequirementReasons(data.committees);
+          const reasonText = reasons.map(r => r.reason).join(' ');
+          issues.push({
+            kind: 'a-plus-committee-cross-ref',
+            detail: `missing committee-relevant pipelines: ${missing.join(', ')}. ${reasonText}`,
+            fix: `run pipelines: ${missing.join(', ')}`,
+          });
+        }
       }
     }
+
+    // ADR-0022 follow-up (2026-04-23): drop the politician-only gate on
+    // universal checks below. source-floor, legal-review, central-thesis,
+    // and story-grade apply to every type per ADR-0022's type-specific A+
+    // bars. The gate was a leftover from the politician-only era before
+    // ADR-0022 introduced the universal floor.
 
     // A+ Tier A: source-type floor raised from 2 to 3 for verified
     const srcCount = Math.max((data['source-types'] || []).length, countTier1InBody(body));
