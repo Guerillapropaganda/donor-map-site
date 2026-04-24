@@ -151,6 +151,14 @@ const CHECKS = [
     timeout_ms: 300000,
     queue: { bucket: 'deciding', leverage: 4, cost_min: 45 },
   },
+  {
+    name: 'leftover-artifacts',
+    description: 'Transient files (dedup .bak, temp, stray logs) not gitignored — commit-scope risk + disk cruft',
+    cmd: ['node', 'scripts/leftover-artifacts-check.cjs', '--no-queue'],
+    parse: parseLeftoverArtifacts,
+    timeout_ms: 30000,
+    queue: { bucket: 'compounding', leverage: 2, cost_min: 5 },
+  },
 ];
 
 // ─── Output parsers (one per check) ────────────────────────────────
@@ -260,6 +268,19 @@ function parseUrlDomainPolicy(stdout, _stderr, _exit) {
   } catch {
     return { findings_count: 0, notes: '(json parse failed)' };
   }
+}
+
+function parseLeftoverArtifacts(stdout, _stderr, _exit) {
+  // Format: "leftover-artifacts-check: N finding(s)"
+  const m = stdout.match(/leftover-artifacts-check:\s+(\d+)\s+finding/);
+  if (!m) return { findings_count: 0, notes: '(no header match)' };
+  const n = parseInt(m[1], 10);
+  return {
+    findings_count: n,
+    notes: n === 0
+      ? 'no cruft detected — all transient artifacts are gitignored or deleted'
+      : `${n} transient file(s) not gitignored (dedup backups, temp files, stray logs)`,
+  };
 }
 
 function parseVerifyAll(stdout, _stderr, _exit) {
