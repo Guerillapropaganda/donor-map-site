@@ -175,6 +175,14 @@ const CHECKS = [
     timeout_ms: 10000,
     queue: { bucket: 'blocking', leverage: 5, cost_min: 5 },
   },
+  {
+    name: 'enrichment-freshness',
+    description: 'Enrichment pipeline freshness — flags if API Enrichment Bot has not committed in >3 days',
+    cmd: ['node', 'scripts/enrichment-freshness-check.cjs', '--json'],
+    parse: parseEnrichmentFreshness,
+    timeout_ms: 15000,
+    queue: { bucket: 'blocking', leverage: 5, cost_min: 10 },
+  },
 ];
 
 // ─── Output parsers (one per check) ────────────────────────────────
@@ -281,6 +289,15 @@ function parseUrlDomainPolicy(stdout, _stderr, _exit) {
       findings_count: j.total_findings || 0,
       notes: `${j.scanned || 0} scanned, ${j.profiles_with_hits || 0} profiles hit. ${sev}.`,
     };
+  } catch {
+    return { findings_count: 0, notes: '(json parse failed)' };
+  }
+}
+
+function parseEnrichmentFreshness(stdout, _stderr, _exit) {
+  try {
+    const j = JSON.parse(stdout);
+    return { findings_count: j.findings_count || 0, notes: j.message };
   } catch {
     return { findings_count: 0, notes: '(json parse failed)' };
   }
