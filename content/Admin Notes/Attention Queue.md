@@ -12,7 +12,7 @@ generated-by: scripts/lib/attention-queue.cjs
 
 *Auto-generated. Every script that finds something worth your time writes to this file.*
 
-**31** blocking · **53** editorial decisions · **37** background cleanup
+**32** blocking · **54** editorial decisions · **38** background cleanup
 
 ---
 
@@ -289,6 +289,15 @@ Ready profile contains 1 em dash in body. These hard rules block ship — em das
 - **Cost:** ~3 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
+
+### vault-audit: dispatcher-alive — 1 finding
+
+Attention Queue dispatcher daemon liveness — log freshness during expected-uptime window — Dispatcher log file does not exist. Daemon has never run on this machine. Install the Windows Startup shortcut or run scripts/attention-dispatcher.bat manually.
+
+- **Where:** `/system-health`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `vault-audit`
 
 ### vault-audit: type-specific-a-plus — 1388 findings
 
@@ -773,11 +782,20 @@ Marcia Fudge has sponsored 14 bills in the "Agriculture and Food" policy area. T
 
 ### vault-audit: reconciliation-framework-tier-1 — 145 findings
 
-Data integrity: absurd-value frontmatter, self-loop edges, duplicates, orphans — 145 error, 7598 warn (7743 findings total).
+Data integrity: absurd-value frontmatter, self-loop edges, duplicates, orphans — 145 error, 7599 warn (7744 findings total).
 
 - **Where:** `/system-health`
 - **Cost:** ~45 min
 - **Leverage:** ★★★★☆
+- **Surfaced by:** `vault-audit`
+
+### vault-audit: frontmatter-schema — 3319 findings
+
+Frontmatter schema violations per ADR-0023 (universal/type-required/proposed-required/retired) — 2943 scanned, 1689 with violations. 232 hard (universal/type-required/id/retired), 3087 soft (proposed-required).
+
+- **Where:** `/system-health`
+- **Cost:** ~60 min
+- **Leverage:** ★★★☆☆
 - **Surfaced by:** `vault-audit`
 
 ## 🟢 Background Cleanup
@@ -873,6 +891,15 @@ Referenced by 18 other vault profiles but has no file yet. Building a stub unloc
 - **Cost:** ~10 min
 - **Leverage:** ★★★★☆
 - **Surfaced by:** `missing-profile-detector`
+
+### vault-audit: leftover-artifacts — 1 finding
+
+Transient files (dedup .bak, temp, stray logs) not gitignored — commit-scope risk + disk cruft — 1 transient file(s) not gitignored (dedup backups, temp files, stray logs)
+
+- **Where:** `/system-health`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `vault-audit`
 
 ### Build stub: Google
 
@@ -1108,9 +1135,9 @@ HMP is tagged dark-money-networked with capital_type=dark-money-vehicle. Total t
 - **Leverage:** ★★★★★
 - **Surfaced by:** `story-candidate-scorer`
 
-### vault-audit: pipeline-janitor — 489 findings
+### vault-audit: pipeline-janitor — 606 findings
 
-Zombie auto-blocks, stale enrichment, A+ audit checks on ready/verified profiles — Scanned 3208 profiles. 489 had issues.
+Zombie auto-blocks, stale enrichment, A+ audit checks on ready/verified profiles — Scanned 3232 profiles. 606 had issues.
 
 - **Where:** `/system-health`
 - **Cost:** ~60 min

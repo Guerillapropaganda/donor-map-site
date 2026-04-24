@@ -1431,8 +1431,8 @@
   "vault-audit": [
     {
       "bucket": "compounding",
-      "what": "vault-audit: pipeline-janitor — 489 findings",
-      "why": "Zombie auto-blocks, stale enrichment, A+ audit checks on ready/verified profiles — Scanned 3208 profiles. 489 had issues.",
+      "what": "vault-audit: pipeline-janitor — 606 findings",
+      "why": "Zombie auto-blocks, stale enrichment, A+ audit checks on ready/verified profiles — Scanned 3232 profiles. 606 had issues.",
       "where": "/system-health",
       "cost_min": 60,
       "leverage": 3,
@@ -1440,7 +1440,7 @@
       "created": "2026-04-24",
       "metadata": {
         "check": "pipeline-janitor",
-        "findings_count": 489
+        "findings_count": 606
       }
     },
     {
@@ -1474,7 +1474,7 @@
     {
       "bucket": "deciding",
       "what": "vault-audit: reconciliation-framework-tier-1 — 145 findings",
-      "why": "Data integrity: absurd-value frontmatter, self-loop edges, duplicates, orphans — 145 error, 7598 warn (7743 findings total).",
+      "why": "Data integrity: absurd-value frontmatter, self-loop edges, duplicates, orphans — 145 error, 7599 warn (7744 findings total).",
       "where": "/system-health",
       "cost_min": 45,
       "leverage": 4,
@@ -1483,6 +1483,48 @@
       "metadata": {
         "check": "reconciliation-framework-tier-1",
         "findings_count": 145
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "vault-audit: leftover-artifacts — 1 finding",
+      "why": "Transient files (dedup .bak, temp, stray logs) not gitignored — commit-scope risk + disk cruft — 1 transient file(s) not gitignored (dedup backups, temp files, stray logs)",
+      "where": "/system-health",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "vault-audit",
+      "created": "2026-04-24",
+      "metadata": {
+        "check": "leftover-artifacts",
+        "findings_count": 1
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "vault-audit: frontmatter-schema — 3319 findings",
+      "why": "Frontmatter schema violations per ADR-0023 (universal/type-required/proposed-required/retired) — 2943 scanned, 1689 with violations. 232 hard (universal/type-required/id/retired), 3087 soft (proposed-required).",
+      "where": "/system-health",
+      "cost_min": 60,
+      "leverage": 3,
+      "source": "vault-audit",
+      "created": "2026-04-24",
+      "metadata": {
+        "check": "frontmatter-schema",
+        "findings_count": 3319
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "vault-audit: dispatcher-alive — 1 finding",
+      "why": "Attention Queue dispatcher daemon liveness — log freshness during expected-uptime window — Dispatcher log file does not exist. Daemon has never run on this machine. Install the Windows Startup shortcut or run scripts/attention-dispatcher.bat manually.",
+      "where": "/system-health",
+      "cost_min": 5,
+      "leverage": 5,
+      "source": "vault-audit",
+      "created": "2026-04-24",
+      "metadata": {
+        "check": "dispatcher-alive",
+        "findings_count": 1
       }
     }
   ],
