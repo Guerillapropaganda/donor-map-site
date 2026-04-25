@@ -2,7 +2,7 @@ import { describe, it } from "node:test"
 import * as assert from "node:assert/strict"
 import { Resolver } from "../resolver"
 import { DuplicateBioguideError, FecRegistryConflictError, UnresolvableError } from "../errors"
-import type { RawEntity } from "../loader"
+import type { RawEntity, RawLegislator } from "../loader"
 import { makeStores } from "./fixtures"
 
 describe("Resolver", () => {
