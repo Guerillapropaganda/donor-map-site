@@ -254,8 +254,27 @@ export class Resolver {
     if (!key) return
     const existing = this.byName.get(key)
     if (existing && existing !== node.id) {
-      // Track the ambiguity rather than throwing. Engine starts; resolve()
-      // of this alias will return UnresolvableError with candidate hint.
+      // Disambiguation: when one claimant has a profile_path and the
+      // other doesn't, the path-having node almost certainly represents
+      // the real profile while the path-less one is a discovery-scanner
+      // stub created from a wikilink before the real profile existed.
+      // Prefer the path-having claimant silently. Caught 2026-04-25 —
+      // ent_001546 "Bob Casey" (no path) was shadowing the real bioguide
+      // node for Robert P. Casey.
+      const existingNode = this.nodes.get(existing)
+      const existingHasPath = !!existingNode?.profile_path
+      const newHasPath = !!node.profile_path
+      if (existingHasPath && !newHasPath) {
+        // Existing node wins; new node loses its claim on this alias silently.
+        return
+      }
+      if (!existingHasPath && newHasPath) {
+        // New node wins; reassign the alias and drop the existing claim.
+        this.byName.set(key, node.id)
+        if (!node.aliases.includes(alias)) node.aliases.push(alias)
+        return
+      }
+      // Both have paths (or neither do) — genuine ambiguity. Track it.
       const candidates = this.ambiguous_aliases.get(key) ?? [existing]
       if (!candidates.includes(node.id)) candidates.push(node.id)
       this.ambiguous_aliases.set(key, candidates)
@@ -277,18 +296,71 @@ export class Resolver {
     return leg.name_official ?? null
   }
 
+  /**
+   * Build the plausible name forms a wikilink might use to refer to a
+   * legislator. Returns a deduplicated, ordered list — name_official
+   * first, then common-name forms.
+   *
+   * Without this, bioguide stubs only resolve under name_official
+   * ("J. French Hill"), missing the common name ("French Hill") that
+   * vault wikilinks actually use. Caught by the shadow harness on
+   * 2026-04-25 — French Hill cache had 195 related, librarian had 0.
+   */
+  private legislatorNameForms(leg: RawLegislator): string[] {
+    const isInitialish = (s: string | undefined | null): boolean => {
+      if (!s) return false
+      const trimmed = s.trim().replace(/\.$/, "")
+      return trimmed.length <= 2 // "J", "J.", "J.R" all read as initials
+    }
+    const last = (leg.name_last ?? "").trim()
+    const first = (leg.name_first ?? "").trim()
+    const middle = ((leg as { name_middle?: string | null }).name_middle ?? "").trim()
+    const nickname = ((leg as { name_nickname?: string | null }).name_nickname ?? "").trim()
+    const official = (leg.name_official ?? "").trim()
+
+    const forms: string[] = []
+    if (official) forms.push(official)
+    if (first && last && !isInitialish(first)) forms.push(`${first} ${last}`)
+    if (middle && last && !isInitialish(middle)) forms.push(`${middle} ${last}`)
+    if (first && middle && last && !isInitialish(first) && !isInitialish(middle)) {
+      forms.push(`${first} ${middle} ${last}`)
+    }
+    if (nickname && last) forms.push(`${nickname} ${last}`)
+    // Dedupe preserving order.
+    const seen = new Set<string>()
+    return forms.filter((f) => {
+      const k = f.toLowerCase()
+      if (seen.has(k)) return false
+      seen.add(k)
+      return true
+    })
+  }
+
   private findOrCreateLegislatorNode(
     nameOrPath: string,
     bioguide: string,
     legislators: RawLegislator[],
   ): Node {
-    // Try existing entity by name first.
-    const existing = this.tryResolve({ kind: "name", value: nameOrPath })
-    if (existing) return existing
-
-    // Otherwise create a stub politician node.
     const leg = legislators.find((l) => l.bioguide === bioguide)
-    const name = leg?.name_official ?? nameOrPath
+    const forms = leg ? this.legislatorNameForms(leg) : [nameOrPath]
+
+    // Try matching an existing entity by ANY form before stubbing.
+    // Prevents creating a duplicate stub when entities.jsonl already has
+    // a record under the common name (e.g. cache name "French Hill"
+    // matches the entity even though name_official is "J. French Hill").
+    for (const form of forms) {
+      const existing = this.tryResolve({ kind: "name", value: form })
+      if (existing) {
+        // Backfill all the OTHER forms as aliases on the existing node so
+        // future resolves under any name shape land on the same node.
+        for (const f of forms) this.addAlias(existing, f)
+        return existing
+      }
+    }
+
+    // No existing entity — create a stub politician node, aliased under
+    // every plausible name form.
+    const name = forms[0] ?? nameOrPath
     const node: Node = {
       id: `bioguide:${bioguide}`,
       name,
@@ -299,6 +371,7 @@ export class Resolver {
       meta: { _source: "legislator-registry" },
     }
     this.registerNode(node)
+    for (const form of forms) this.addAlias(node, form)
     return node
   }
 
