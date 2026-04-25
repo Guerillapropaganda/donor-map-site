@@ -154,7 +154,16 @@ export class Resolver {
 
   private build(stores: RawCanonicalStores): void {
     // 1. Seed nodes from entities.jsonl. profile_path → entity for cross-ref.
+    //    Also collect entity-declared bioguides so Step 2 doesn't re-guess
+    //    by name when the entity already declared its identity. Caught
+    //    2026-04-25 — Bob Menendez Sr (M000639, name_nickname "Bob") and
+    //    Robert Menendez Jr (M001226) both have name_official "Robert
+    //    Menendez" in the registry. Without this, Step 2's findOrCreate
+    //    found Jr's entity by name "Robert Menendez" first, attached Sr's
+    //    bioguide to Jr's node, and added "Bob Menendez" as Jr's alias —
+    //    making "Bob Menendez" ambiguous and unresolvable.
     const entityByProfilePath = new Map<string, RawEntity>()
+    const entityBioguideToNodeId = new Map<string, NodeId>()
     for (const e of stores.entities) {
       if (e.profile_path) entityByProfilePath.set(e.profile_path, e)
       const node: Node = {
@@ -166,8 +175,18 @@ export class Resolver {
         aliases: [e.name],
         meta: e.signals ?? {},
       }
+      // Honor entity-declared bioguide. Source of truth — entity records
+      // know their identity; legislator-step name-form matching only fills
+      // gaps for entities that didn't declare one.
+      const declaredBio = (e.signals as { bioguide_id?: string } | undefined)?.bioguide_id
+      if (declaredBio) {
+        node.ids.bioguide = declaredBio
+        entityBioguideToNodeId.set(declaredBio, node.id)
+      }
       this.registerNode(node)
     }
+    // Stamp byBioguide for entity-declared cases so legislator step can skip them.
+    for (const [bg, nodeId] of entityBioguideToNodeId) this.byBioguide.set(bg, nodeId)
 
     // 2. Index legislators by bioguide. Reject duplicates.
     //    Legislators may or may not have a vault profile yet — when they
@@ -186,6 +205,39 @@ export class Resolver {
       const distinct = Array.from(new Set(refs))
       if (distinct.length > 1) {
         throw new DuplicateBioguideError(bioguide, distinct)
+      }
+      // If an entity already claimed this bioguide via signals.bioguide_id,
+      // attach the legislator's name forms as aliases on THAT entity and
+      // skip the stub-creation path. Honors entity-declared identity.
+      // Important: only add forms that aren't already firmly claimed by a
+      // DIFFERENT path-having entity. The Menendez Sr (M000639) ↔ Jr
+      // (M001226) collision: both legislator records share name_official
+      // "Robert Menendez", so adding Sr's "Robert Menendez" form here
+      // would collide with Jr's primary-name claim, ambiguate the alias,
+      // and break resolution for both. Skipping conflicting forms keeps
+      // each entity owning the name it actually uses (Sr=Bob, Jr=Robert).
+      const claimingNodeId = entityBioguideToNodeId.get(bioguide)
+      if (claimingNodeId) {
+        const claimingNode = this.nodes.get(claimingNodeId)
+        if (claimingNode) {
+          const leg = stores.legislators.find((l) => l.bioguide === bioguide)
+          if (leg) {
+            for (const form of this.legislatorNameForms(leg)) {
+              const key = form.toLowerCase().trim()
+              const existing = this.byName.get(key)
+              if (existing && existing !== claimingNode.id) {
+                const existingNode = this.nodes.get(existing)
+                if (existingNode?.profile_path && claimingNode.profile_path) {
+                  // Both are real entities — leave the form on whoever
+                  // already claims it rather than ambiguating.
+                  continue
+                }
+              }
+              this.addAlias(claimingNode, form)
+            }
+          }
+        }
+        continue
       }
       const node = this.findOrCreateLegislatorNode(distinct[0], bioguide, stores.legislators)
       node.ids.bioguide = bioguide
