@@ -45,3 +45,23 @@ export {
   GraphLoadError,
   UnresolvableError,
 } from "./errors"
+export {
+  CATEGORIES,
+  BUCKETS,
+  CATEGORY_META,
+  classifyEdge,
+  sumMonetaryEdgesDedup,
+  currentCycle,
+  filterEdgesByCycle,
+  normalizeRole,
+  normalizeEntityKey,
+  lookupCategory,
+  applySourceUpgrade,
+} from "./edge-taxonomy"
+export type {
+  EdgeCategory,
+  EdgeBucket,
+  CategoryMeta,
+  ClassifiableEdge,
+  ClassifyResult,
+} from "./edge-taxonomy"
