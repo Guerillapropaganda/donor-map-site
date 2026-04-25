@@ -207,6 +207,14 @@ const CHECKS = [
     timeout_ms: 15000,
     queue: { bucket: 'deciding', leverage: 4, cost_min: 30 },
   },
+  {
+    name: 'multi-bioguide-fec-id',
+    description: 'Politician entity pools FEC candidate IDs from multiple bioguide owners (Bob Casey class) — donor data from different humans merged into one record. Defamation risk if rendered.',
+    cmd: ['node', 'scripts/multi-bioguide-fec-id-check.cjs', '--json'],
+    parse: parseMultiBioguideFecId,
+    timeout_ms: 15000,
+    queue: { bucket: 'deciding', leverage: 5, cost_min: 60 },
+  },
 ];
 
 // ─── Output parsers (one per check) ────────────────────────────────
@@ -337,6 +345,15 @@ function parsePathlessStubs(stdout, _stderr, _exit) {
 }
 
 function parseDuplicatePoliticianProfiles(stdout, _stderr, _exit) {
+  try {
+    const j = JSON.parse(stdout);
+    return { findings_count: j.findings_count || 0, notes: j.message };
+  } catch {
+    return { findings_count: 0, notes: '(json parse failed)' };
+  }
+}
+
+function parseMultiBioguideFecId(stdout, _stderr, _exit) {
   try {
     const j = JSON.parse(stdout);
     return { findings_count: j.findings_count || 0, notes: j.message };
