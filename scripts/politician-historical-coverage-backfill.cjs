@@ -417,6 +417,35 @@ const nameKeys = buildNameVariants;
       continue;
     }
 
+    // BUG FIX 2026-04-25: the >15 guard above is too loose. It missed
+    // the Bob Casey case (4 distinct humans, all named Robert/Bob Casey,
+    // glommed into one entity). Added stricter check: when bioguide is
+    // known, REFUSE any record that doesn't belong to that bioguide
+    // per the legislator-registry's ids.fec list. When bioguide is NOT
+    // known, REFUSE any name-only match that lands >1 record — too
+    // dangerous to pool without disambiguation. See
+    // content/Admin Notes/ghost-politicians-audit.md for the full
+    // forensic write-up.
+    if (currentSignals.bioguide_id) {
+      const allowedArr = fecByBioguide.get(currentSignals.bioguide_id) || [];
+      if (allowedArr.length) {
+        const allowed = new Set(allowedArr);
+        const before = records.length;
+        records = records.filter((r) => allowed.has(r.id));
+        if (records.length !== before && VERBOSE) {
+          console.log(`  pruned ${before - records.length} non-canonical FEC IDs for ${p.name} (bioguide ${currentSignals.bioguide_id})`);
+        }
+      }
+    } else if (records.length > 1) {
+      if (VERBOSE) console.log(`  ⚠ ${p.name}: ${records.length} name-only matches and no bioguide — skipping, would pool different humans`);
+      continue;
+    }
+    if (records.length === 0) {
+      unmatched++;
+      unmatchedNames.push(p.name);
+      continue;
+    }
+
     const currentSignals = p.signals || {};
     const existingCandId = currentSignals.fec_candidate_id;
     const existingCandIds = currentSignals.fec_candidate_ids || (existingCandId ? [existingCandId] : []);
