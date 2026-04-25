@@ -2,303 +2,341 @@
 /**
  * build-relationships-per-profile.cjs
  *
- * Phase 3 Part 4a — build the per-profile relationship artifact.
+ * Per-profile relationship cache builder. Reads canonical edge stores
+ * via the librarian (lib/donor-map Graph.load) and writes
+ * data/relationships-per-profile.json — the artifact that Quartz
+ * components (DiscoveryPanel, ProfileWidget) consume at build time.
  *
- * Reads the canonical edge store at data/relationships.jsonl and
- * produces data/relationships-per-profile.json — a map from normalized
- * profile title to the connections that profile participates in, in
- * the LEGACY Connection shape that Quartz components (DiscoveryPanel,
- * ProfileWidget) currently expect from frontmatter.
+ * THIS IS THE PRODUCTION BUILDER as of ADR-0024 Phase 3 cutover
+ * (2026-04-25 evening). The previous name-string-based builder is
+ * preserved at build-relationships-per-profile-legacy.cjs for
+ * reference; do not invoke from automation.
  *
- * Structure:
+ * Bucket key strategy: every edge endpoint is resolved through the
+ * librarian first, then bucketed under the resolved Node's canonical
+ * name. Multiple committee-name strings ("KAMALA HARRIS FOR SENATE",
+ * "Kamala Harris") all unify onto the same bucket via
+ * fec-committee-registry alias attachment + bioguide name-form
+ * folding. This eliminates the cache-side ghost-bucket inflation the
+ * legacy builder produced.
  *
- *   {
- *     "Koch Industries": {
- *       "related":            ["Smith Family Farms", ...],
- *       "donors":             [],                         // Koch has no donors listed
- *       "politicians-funded": ["Ted Cruz", "Josh Hawley", ...],
- *       "opposes":            [],
- *       "stories":            ["Cross-Politician Contradiction Map", ...]
- *     },
- *     "Ted Cruz": {
- *       "related":            [...],
- *       "donors":             ["Koch Industries", ...],   // reverse view of monetary edges
- *       "politicians-funded": [],
- *       "opposes":            [...],
- *       "stories":            [...]
- *     },
- *     ...
- *   }
+ * Edge classification: lib/donor-map/edge-taxonomy (TS port of the
+ * CJS rulebook, parity-tested).
  *
- * Semantics — matches how the frontmatter fields were historically used:
- *   - related            : profile.related[]            (type=related, profile is `from`)
- *   - donors             : profile.donors[]             (type=monetary, profile is `to`, donor is the `from`)
- *   - politicians-funded : profile.politicians-funded[] (type=monetary, profile is `from`, recipient is the `to`)
- *   - opposes            : profile.opposes[]            (type=political-opposition, profile is `from`)
- *   - stories            : profile.stories[]            (type=story-link, profile is `from`)
+ * Edges whose endpoints don't resolve to any librarian Node are
+ * dropped. Typical case: state and local activity (state assembly
+ * races, city council, state party committees) that doesn't belong
+ * on the federal-focused vault. The librarian's `unresolved_edges`
+ * collection holds the full list for diagnostics.
  *
- * Only includes active edges (status: "active"). Deprecated/historical/disputed
- * edges are filtered out so the frontend view matches the canonical "what is
- * currently true" answer.
- *
- * This artifact is the handoff point for Phase 3 Part 4b — Quartz
- * components (DiscoveryPanel, ProfileWidget) will read from this file at
- * build time instead of from frontmatter. The shape is deliberately
- * identical to what the components already expect so the component edit
- * is minimal.
+ * Invoked from: scripts/ensure-derived-artifacts.cjs (post-checkout
+ * + post-merge), scripts/ci-prebuild.cjs, scripts/attention-dispatcher.cjs.
  *
  * Usage:
- *   node scripts/build-relationships-per-profile.cjs
- *   node scripts/build-relationships-per-profile.cjs --dry-run
+ *   node scripts/build-relationships-per-profile.cjs              # write to default path
+ *   node scripts/build-relationships-per-profile.cjs --dry-run    # don't write
+ *   node scripts/build-relationships-per-profile.cjs --out=path.json
  */
 const fs = require('fs');
 const path = require('path');
-const { loadEdges } = require('./lib/relationships-store.cjs');
-const { classifyEdge, CATEGORIES } = require('./lib/edge-role-taxonomy.cjs');
+const { spawnSync } = require('child_process');
 
 const ROOT = path.join(__dirname, '..');
-const OUTPUT = path.join(ROOT, 'data', 'relationships-per-profile.json');
+const DEFAULT_OUT = path.join(ROOT, 'data', 'relationships-per-profile.json');
 
-function main() {
-  const dryRun = process.argv.includes('--dry-run');
-  const t0 = Date.now();
-
-  console.log('Phase 3 Part 4a — per-profile relationship artifact');
-  console.log(`Mode: ${dryRun ? 'DRY RUN' : 'WRITE'}`);
-  console.log('');
-
-  const edges = loadEdges().filter((e) => e.status === 'active');
-  console.log(`Loaded ${edges.length} active edges from data/relationships.jsonl`);
-
-  const byProfile = new Map();
-
-  // Normalize "_Foo Master Profile" → "Foo" so edges using either the
-  // raw filename-style name and edges using the clean display name land
-  // under the same bucket. Without this, profiles end up split across
-  // two keys and ProfileWidget's lookup misses the majority of the data
-  // (Rubio had 114 donors under "_Marco Rubio Master Profile" and 1
-  // under "Marco Rubio" before this fix).
-  function normalizeKey(title) {
-    return String(title || '').replace(/^_/, '').replace(/\s+Master Profile.*$/i, '').trim();
-  }
-
-  function ensure(rawTitle) {
-    const title = normalizeKey(rawTitle);
-    if (!byProfile.has(title)) {
-      byProfile.set(title, {
-        related: [],
-        donors: [],
-        'politicians-funded': [],
-        opposes: [],
-        // IE-oppose monetary edges — PACs that spent AGAINST this profile
-        // (independent expenditures labelled `role: 'ie-oppose'`). These
-        // used to be lumped into `donors` which mis-labelled anti-Trump
-        // super-PAC spending as "donors of Trump." Split out here so
-        // consumers can show opposition correctly.
-        'ie-opposed-by': [],
-        // IE-oppose from the spender side — if this profile is a PAC, the
-        // politicians it spent against.
-        'ie-opposition-targets': [],
-        'ie-opposition-detail': [],
-        // IE-SUPPORT (mirrors ie-oppose shape): PACs that spent FOR this
-        // profile and the targets a PAC spent FOR. Split out from
-        // `monetary-detail` / `donors` in Phase 5 so auto-block "Top
-        // donors" tables stop surfacing super-PACs as if they were direct
-        // donors — the politician never received that money.
-        'ie-supported-by': [],
-        'ie-support-targets': [],
-        'ie-support-detail': [],
-        stories: [],
-        'government-contracts': [],
-        // Monetary detail: { name, amount, cycle, confidence, role }[]
-        // Phase 5: `role` added so consumers can filter (topDonorsFromArtifact
-        // excludes ie-support and campaign-expenditure).
-        'monetary-detail': [],
-        'contract-detail': [],
-      });
-    }
-    return byProfile.get(title);
-  }
-  function addUnique(arr, value) {
-    if (!arr.includes(value)) arr.push(value);
-  }
-  function addMonetaryDetail(arr, name, amount, cycle, confidence, role) {
-    // Dedup by name+cycle+role, keep highest amount. Role added Phase 5
-    // so entries like "SEIU $5K direct-contribution 2024" and "SEIU $10K
-    // ie-support 2024" coexist as distinct rows rather than being deduped
-    // as one.
-    const existing = arr.find(d => d.name === name && d.cycle === cycle && d.role === role)
-    if (existing) {
-      if (amount > existing.amount) existing.amount = amount
-    } else {
-      arr.push({ name, amount: amount || 0, cycle: cycle || '', confidence: confidence || 0, role: role || '' })
-    }
-  }
-
-  let mapped = 0;
-  let skippedType = 0;
-
-  for (const edge of edges) {
-    const { from, to, type } = edge;
-    if (!from || !to) continue;
-
-    switch (type) {
-      case 'related': {
-        const entry = ensure(from);
-        addUnique(entry.related, to);
-        mapped++;
-        break;
-      }
-      case 'monetary': {
-        // Phase 5: classifier-driven routing. Before this, every monetary
-        // edge was treated as a donor relationship, which is how Bernie
-        // Sanders' profile ended up with "OLD TOWNE MEDIA $83M" (his ad-
-        // buy vendor) in his donors list. Now campaign expenditures are
-        // skipped, IE support and opposition route to their dedicated
-        // buckets, and only actual-received contributions appear in
-        // monetary-detail / donors / politicians-funded.
-        let cls;
-        try { cls = classifyEdge(edge); }
-        catch { cls = null; }
-        const category = cls?.category;
-        const role = edge.role || (cls ? cls.category : '');
-
-        // Campaign expenditures (politician → vendor). Vendor's entry
-        // could still be interesting for ops analysis but renders as
-        // noise on a donor/politician profile; skip entirely.
-        if (category === CATEGORIES.CAMPAIGN_EXPENDITURE) {
-          skippedType++;
-          break;
-        }
-
-        // IE OPPOSE — existing behavior
-        if (category === CATEGORIES.IE_OPPOSE) {
-          const targetEntry = ensure(to);
-          addUnique(targetEntry['ie-opposed-by'], from);
-          addMonetaryDetail(targetEntry['ie-opposition-detail'], from, edge.amount, edge.cycle, edge.confidence, role);
-          const spenderEntry = ensure(from);
-          addUnique(spenderEntry['ie-opposition-targets'], to);
-          addMonetaryDetail(spenderEntry['ie-opposition-detail'], to, edge.amount, edge.cycle, edge.confidence, role);
-          mapped++;
-          break;
-        }
-
-        // IE SUPPORT — NEW routing (Phase 5). Previously lumped into
-        // `donors` and `monetary-detail`, producing the NNU-as-Bernie-donor
-        // bug. Now a parallel structure to ie-oppose.
-        if (category === CATEGORIES.IE_SUPPORT) {
-          const targetEntry = ensure(to);
-          addUnique(targetEntry['ie-supported-by'], from);
-          addMonetaryDetail(targetEntry['ie-support-detail'], from, edge.amount, edge.cycle, edge.confidence, role);
-          const spenderEntry = ensure(from);
-          addUnique(spenderEntry['ie-support-targets'], to);
-          addMonetaryDetail(spenderEntry['ie-support-detail'], to, edge.amount, edge.cycle, edge.confidence, role);
-          mapped++;
-          break;
-        }
-
-        // Everything else (direct-contribution, employee-contributions,
-        // coordinated-party-expense, party-coordinated, 527-contribution,
-        // philanthropic-grant) is an actual inflow. Route to monetary-
-        // detail / donors / politicians-funded as before. Role preserved
-        // on each detail entry so downstream consumers can filter.
-        const donorEntry = ensure(from);
-        addUnique(donorEntry['politicians-funded'], to);
-        addMonetaryDetail(donorEntry['monetary-detail'], to, edge.amount, edge.cycle, edge.confidence, role);
-        const recipientEntry = ensure(to);
-        addUnique(recipientEntry.donors, from);
-        addMonetaryDetail(recipientEntry['monetary-detail'], from, edge.amount, edge.cycle, edge.confidence, role);
-        mapped++;
-        break;
-      }
-      case 'government-contract': {
-        // Agency awarded contract to corporation
-        const corpEntry = ensure(to);
-        addUnique(corpEntry['government-contracts'], from);
-        addMonetaryDetail(corpEntry['contract-detail'], from, edge.amount, edge.cycle, edge.confidence);
-        mapped++;
-        break;
-      }
-      case 'political-opposition': {
-        const entry = ensure(from);
-        addUnique(entry.opposes, to);
-        mapped++;
-        break;
-      }
-      case 'story-link': {
-        const entry = ensure(from);
-        addUnique(entry.stories, to);
-        mapped++;
-        break;
-      }
-      default:
-        // Staffing, media-appearance, affiliation, legal, family — no
-        // legacy frontmatter field equivalent, skip.
-        skippedType++;
-        break;
-    }
-  }
-
-  // Sort each array for stable output
-  for (const entry of byProfile.values()) {
-    entry.related.sort();
-    entry.donors.sort();
-    entry['politicians-funded'].sort();
-    entry.opposes.sort();
-    entry.stories.sort();
-    entry['ie-opposed-by'].sort();
-    entry['ie-opposition-targets'].sort();
-  }
-
-  // Sort profile keys for stable git diff
-  const sortedEntries = Array.from(byProfile.entries()).sort(([a], [b]) =>
-    a < b ? -1 : a > b ? 1 : 0
-  );
-  const output = {};
-  for (const [title, fields] of sortedEntries) output[title] = fields;
-
-  if (!dryRun) {
-    const DATA_DIR = path.dirname(OUTPUT);
-    if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true });
-    const tmp = `${OUTPUT}.tmp-${process.pid}-${Date.now()}`;
-    fs.writeFileSync(tmp, JSON.stringify(output, null, 2) + '\n', 'utf-8');
-    fs.renameSync(tmp, OUTPUT);
-    console.log(`\n✓ Wrote ${Object.keys(output).length} profile entries → ${path.relative(ROOT, OUTPUT)}`);
-  } else {
-    console.log(`\n(dry-run) ${Object.keys(output).length} profile entries would be written`);
-  }
-
-  // Summary stats
-  let totalRelated = 0;
-  let totalDonors = 0;
-  let totalPoliticiansFunded = 0;
-  let totalOpposes = 0;
-  let totalStories = 0;
-  for (const e of byProfile.values()) {
-    totalRelated += e.related.length;
-    totalDonors += e.donors.length;
-    totalPoliticiansFunded += e['politicians-funded'].length;
-    totalOpposes += e.opposes.length;
-    totalStories += e.stories.length;
-  }
-
-  console.log('');
-  console.log('--- summary ---');
-  console.log(`active edges processed:   ${edges.length}`);
-  console.log(`edges mapped:             ${mapped}`);
-  console.log(`edges skipped (type):     ${skippedType}`);
-  console.log(`unique profiles:          ${byProfile.size}`);
-  console.log('');
-  console.log('Per-profile field totals:');
-  console.log(`  related:              ${totalRelated.toLocaleString()}`);
-  console.log(`  donors:               ${totalDonors.toLocaleString()}`);
-  console.log(`  politicians-funded:   ${totalPoliticiansFunded.toLocaleString()}`);
-  console.log(`  opposes:              ${totalOpposes.toLocaleString()}`);
-  console.log(`  stories:              ${totalStories.toLocaleString()}`);
-  console.log('');
-  console.log(`elapsed: ${((Date.now() - t0) / 1000).toFixed(2)}s`);
+function parseArg(name, def) {
+  const arg = process.argv.find((a) => a.startsWith(`--${name}=`));
+  return arg ? arg.slice(name.length + 3) : def;
 }
 
-if (require.main === module) {
-  main();
+const DRY_RUN = process.argv.includes('--dry-run');
+const OUT = parseArg('out', DEFAULT_OUT);
+
+console.log('build-relationships-per-profile (ADR-0024 Phase 3 — librarian-backed)');
+console.log(`Mode: ${DRY_RUN ? 'DRY RUN' : 'WRITE'}`);
+console.log(`Output: ${path.relative(ROOT, OUT)}`);
+console.log('');
+
+const tsScript = `
+  import { Graph, classifyEdge, CATEGORIES, type Edge, type Node } from "./lib/donor-map/index"
+  import * as fs from "node:fs"
+  import * as path from "node:path"
+
+  const t0 = Date.now()
+  const g = Graph.load()
+  const stats = g.stats()
+  process.stderr.write(\`librarian loaded: \${stats.nodes} nodes, \${stats.edges} edges (\${((Date.now()-t0)/1000).toFixed(2)}s)\\n\`)
+
+  // Same shape as the old builder. Adding _unresolved_endpoints for diagnostics.
+  type Bucket = {
+    related: string[]
+    donors: string[]
+    "politicians-funded": string[]
+    opposes: string[]
+    "ie-opposed-by": string[]
+    "ie-opposition-targets": string[]
+    "ie-opposition-detail": Detail[]
+    "ie-supported-by": string[]
+    "ie-support-targets": string[]
+    "ie-support-detail": Detail[]
+    stories: string[]
+    "government-contracts": string[]
+    "monetary-detail": Detail[]
+    "contract-detail": Detail[]
+    _unresolved_endpoints: { side: "from" | "to"; raw: string; type: string; role: string | null }[]
+  }
+  type Detail = { name: string; amount: number; cycle: string | number; confidence: number; role: string }
+
+  const buckets = new Map<string, Bucket>()
+  function ensure(key: string): Bucket {
+    let b = buckets.get(key)
+    if (!b) {
+      b = {
+        related: [],
+        donors: [],
+        "politicians-funded": [],
+        opposes: [],
+        "ie-opposed-by": [],
+        "ie-opposition-targets": [],
+        "ie-opposition-detail": [],
+        "ie-supported-by": [],
+        "ie-support-targets": [],
+        "ie-support-detail": [],
+        stories: [],
+        "government-contracts": [],
+        "monetary-detail": [],
+        "contract-detail": [],
+        _unresolved_endpoints: [],
+      }
+      buckets.set(key, b)
+    }
+    return b
+  }
+  function addUnique(arr: string[], v: string) { if (!arr.includes(v)) arr.push(v) }
+  function addDetail(arr: Detail[], name: string, amount: number | null, cycle: string | number | null, confidence: number, role: string) {
+    const c = cycle == null ? "" : cycle
+    const existing = arr.find(d => d.name === name && d.cycle === c && d.role === role)
+    if (existing) {
+      const a = amount || 0
+      if (a > existing.amount) existing.amount = a
+    } else {
+      arr.push({ name, amount: amount || 0, cycle: c, confidence: confidence || 0, role: role || "" })
+    }
+  }
+
+  // Resolve a raw endpoint string via librarian. Falls back to null if
+  // unresolvable so caller can record it as orphan.
+  function resolveOrNull(raw: string): Node | null {
+    try { return g.resolver.resolve({ kind: "name", value: raw }) } catch { return null }
+  }
+
+  // Iterate every edge once via the resolver-already-resolved adjacency
+  // by walking every node's outgoing edges. Each edge is encountered exactly
+  // once because outIdx is unique per edge.
+  let processed = 0
+  let mapped = 0
+  let skippedType = 0
+  let skippedExpenditure = 0
+  let unresolvedFrom = 0
+  let unresolvedTo = 0
+
+  // Walk edges directly (use neighbors with direction='out' on every node
+  // would visit each edge once). Easier: pull edges via Graph internals?
+  // Cleaner public path: iterate all nodes, get out-neighbors. Same edge
+  // never duplicated because indexed by from_id.
+  for (const node of g.resolver.allNodes()) {
+    for (const e of g.neighbors(node.id, { direction: "out", status: "active" })) {
+      processed++
+      if (!e.from_raw || !e.to_raw) continue
+
+      // The librarian already resolved the endpoints — use Node.name as
+      // the canonical bucket key.
+      const fromNode = g.resolver.tryResolve({ kind: "entity_id", value: e.from_id })
+      const toNode = g.resolver.tryResolve({ kind: "entity_id", value: e.to_id })
+
+      // resolver returns nodes by NodeId; if a stub-only node is the from/to
+      // we still get a node back (with name = stub raw). That's fine — bucket
+      // keys are the librarian's canonical name.
+      const fromKey = fromNode ? fromNode.name : null
+      const toKey = toNode ? toNode.name : null
+      if (!fromKey) { unresolvedFrom++; continue }
+      if (!toKey) { unresolvedTo++; continue }
+
+      const role = e.role || ""
+
+      switch (e.type) {
+        case "related": {
+          const entry = ensure(fromKey)
+          addUnique(entry.related, toKey)
+          mapped++
+          break
+        }
+        case "monetary": {
+          let cls
+          try { cls = classifyEdge({ type: e.type, role: e.role, source: e.source, amount: e.amount, from: e.from_raw, to: e.to_raw }) }
+          catch { skippedType++; break }
+          const cat = cls.category
+
+          if (cat === CATEGORIES.CAMPAIGN_EXPENDITURE) { skippedExpenditure++; break }
+
+          if (cat === CATEGORIES.IE_OPPOSE) {
+            const target = ensure(toKey)
+            addUnique(target["ie-opposed-by"], fromKey)
+            addDetail(target["ie-opposition-detail"], fromKey, e.amount, e.cycle, e.confidence, role)
+            const spender = ensure(fromKey)
+            addUnique(spender["ie-opposition-targets"], toKey)
+            addDetail(spender["ie-opposition-detail"], toKey, e.amount, e.cycle, e.confidence, role)
+            mapped++
+            break
+          }
+
+          if (cat === CATEGORIES.IE_SUPPORT) {
+            const target = ensure(toKey)
+            addUnique(target["ie-supported-by"], fromKey)
+            addDetail(target["ie-support-detail"], fromKey, e.amount, e.cycle, e.confidence, role)
+            const spender = ensure(fromKey)
+            addUnique(spender["ie-support-targets"], toKey)
+            addDetail(spender["ie-support-detail"], toKey, e.amount, e.cycle, e.confidence, role)
+            mapped++
+            break
+          }
+
+          // Direct/employee/coordinated/527-contribution/philanthropic-grant — actual inflow
+          const donor = ensure(fromKey)
+          addUnique(donor["politicians-funded"], toKey)
+          addDetail(donor["monetary-detail"], toKey, e.amount, e.cycle, e.confidence, role)
+          const recipient = ensure(toKey)
+          addUnique(recipient.donors, fromKey)
+          addDetail(recipient["monetary-detail"], fromKey, e.amount, e.cycle, e.confidence, role)
+          mapped++
+          break
+        }
+        case "government-contract": {
+          const corp = ensure(toKey)
+          addUnique(corp["government-contracts"], fromKey)
+          addDetail(corp["contract-detail"], fromKey, e.amount, e.cycle, e.confidence, role)
+          mapped++
+          break
+        }
+        case "political-opposition": {
+          addUnique(ensure(fromKey).opposes, toKey)
+          mapped++
+          break
+        }
+        case "story-link": {
+          addUnique(ensure(fromKey).stories, toKey)
+          mapped++
+          break
+        }
+        default:
+          // staffing, media-appearance, affiliation, legal, family — skip (matches old builder)
+          skippedType++
+          break
+      }
+    }
+  }
+
+  // Also record the librarian's own unresolved-edge diagnostics so we know
+  // which raw endpoints never resolved at all (orphan-stub problem).
+  for (const u of g.unresolved_edges) {
+    const target = u.missing === "from" ? u.edge.to : u.missing === "to" ? u.edge.from : u.edge.from
+    if (!target) continue
+    // Try to find a bucket the orphan would have landed in. If we can't
+    // resolve target either, skip (already lost).
+    const node = resolveOrNull(target as string)
+    if (!node) continue
+    const b = ensure(node.name)
+    const raw = (u.missing === "from" ? u.edge.from : u.edge.to) as string
+    if (!b._unresolved_endpoints.find(x => x.raw === raw && x.side === u.missing && x.type === u.edge.type)) {
+      b._unresolved_endpoints.push({ side: u.missing as "from" | "to", raw, type: u.edge.type, role: (u.edge as any).role ?? null })
+    }
+  }
+
+  // Sort arrays for stable output (mirror old builder)
+  for (const b of buckets.values()) {
+    b.related.sort()
+    b.donors.sort()
+    b["politicians-funded"].sort()
+    b.opposes.sort()
+    b.stories.sort()
+    b["ie-opposed-by"].sort()
+    b["ie-opposition-targets"].sort()
+    b["ie-supported-by"].sort()
+    b["ie-support-targets"].sort()
+    b._unresolved_endpoints.sort((x, y) => x.raw < y.raw ? -1 : x.raw > y.raw ? 1 : 0)
+  }
+
+  // Sort keys
+  const sorted = [...buckets.entries()].sort(([a],[b]) => a < b ? -1 : a > b ? 1 : 0)
+  const out: Record<string, Bucket> = {}
+  for (const [k, v] of sorted) out[k] = v
+
+  process.stderr.write(JSON.stringify({
+    elapsed_s: (Date.now() - t0) / 1000,
+    nodes: stats.nodes,
+    edges: stats.edges,
+    processed,
+    mapped,
+    skippedType,
+    skippedExpenditure,
+    unresolvedFrom,
+    unresolvedTo,
+    bucketCount: buckets.size,
+    librarianUnresolvedEdges: g.unresolved_edges.length,
+  }) + "\\n")
+
+  process.stdout.write(JSON.stringify(out))
+`;
+
+const tmpFile = path.join(ROOT, '.tmp-build-via-librarian.ts');
+fs.writeFileSync(tmpFile, tsScript);
+let outputJson;
+let summary;
+try {
+  const res = spawnSync('npx', ['tsx', tmpFile], {
+    encoding: 'utf-8',
+    maxBuffer: 1024 * 1024 * 1024, // 1GB — output is large
+    shell: true,
+  });
+  if (res.status !== 0) {
+    console.error('tsx build failed:');
+    console.error(res.stderr);
+    process.exit(1);
+  }
+  // The script writes JSON-summary to stderr (last line) and the full
+  // JSON to stdout. Extract both.
+  const stderrLines = res.stderr.trim().split('\n');
+  summary = JSON.parse(stderrLines[stderrLines.length - 1]);
+  // Earlier stderr lines (librarian load message) we just echo
+  for (const line of stderrLines.slice(0, -1)) console.log(line);
+  outputJson = res.stdout;
+} finally {
+  fs.unlinkSync(tmpFile);
+}
+
+console.log('');
+console.log('--- summary ---');
+console.log(`nodes:                        ${summary.nodes.toLocaleString()}`);
+console.log(`edges:                        ${summary.edges.toLocaleString()}`);
+console.log(`edges processed:              ${summary.processed.toLocaleString()}`);
+console.log(`edges mapped:                 ${summary.mapped.toLocaleString()}`);
+console.log(`edges skipped (unknown type): ${summary.skippedType.toLocaleString()}`);
+console.log(`edges skipped (expenditure):  ${summary.skippedExpenditure.toLocaleString()}`);
+console.log(`unresolved from-side:         ${summary.unresolvedFrom.toLocaleString()}`);
+console.log(`unresolved to-side:           ${summary.unresolvedTo.toLocaleString()}`);
+console.log(`bucket count:                 ${summary.bucketCount.toLocaleString()}`);
+console.log(`librarian unresolved edges:   ${summary.librarianUnresolvedEdges.toLocaleString()}`);
+console.log(`elapsed:                      ${summary.elapsed_s.toFixed(2)}s`);
+
+if (DRY_RUN) {
+  console.log('');
+  console.log('(dry-run) not writing output');
+} else {
+  const dataDir = path.dirname(OUT);
+  if (!fs.existsSync(dataDir)) fs.mkdirSync(dataDir, { recursive: true });
+  const tmp = `${OUT}.tmp-${process.pid}-${Date.now()}`;
+  fs.writeFileSync(tmp, outputJson + '\n', 'utf-8');
+  fs.renameSync(tmp, OUT);
+  console.log('');
+  console.log(`✓ Wrote ${path.relative(ROOT, OUT)} (${(outputJson.length / 1024 / 1024).toFixed(1)} MB)`);
 }
