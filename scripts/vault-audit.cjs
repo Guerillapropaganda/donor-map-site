@@ -215,6 +215,14 @@ const CHECKS = [
     timeout_ms: 15000,
     queue: { bucket: 'deciding', leverage: 5, cost_min: 60 },
   },
+  {
+    name: 'duplicate-entity-profiles',
+    description: 'Two distinct vault profiles representing the same non-politician entity — donor/corporation/think-tank duplicates that the librarian sees as ambiguous and refuses to resolve. Detected via shared FEC committee_id, EIN, SEC CIK, or identical normalized name. Editorial cleanup needed.',
+    cmd: ['node', 'scripts/duplicate-entity-profiles-check.cjs', '--json'],
+    parse: parseDuplicateEntityProfiles,
+    timeout_ms: 15000,
+    queue: { bucket: 'deciding', leverage: 4, cost_min: 30 },
+  },
 ];
 
 // ─── Output parsers (one per check) ────────────────────────────────
@@ -354,6 +362,15 @@ function parseDuplicatePoliticianProfiles(stdout, _stderr, _exit) {
 }
 
 function parseMultiBioguideFecId(stdout, _stderr, _exit) {
+  try {
+    const j = JSON.parse(stdout);
+    return { findings_count: j.findings_count || 0, notes: j.message };
+  } catch {
+    return { findings_count: 0, notes: '(json parse failed)' };
+  }
+}
+
+function parseDuplicateEntityProfiles(stdout, _stderr, _exit) {
   try {
     const j = JSON.parse(stdout);
     return { findings_count: j.findings_count || 0, notes: j.message };
