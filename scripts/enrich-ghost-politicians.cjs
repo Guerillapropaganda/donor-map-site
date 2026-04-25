@@ -14,11 +14,11 @@
  *   - signals.bioguide_id (when known)
  *   - signals.party / chamber / state (from legislator-registry)
  *
- * Bob Casey is INTENTIONALLY HELD OUT — his entity has FEC IDs from
- * three different Robert Caseys merged together (2026-04-19 backfill
- * bug). Setting his profile_path tonight would expose the edge
- * contamination on the public profile. Edge surgery happens in a
- * separate session.
+ * Bob Casey is included in a second pass with explicit FEC ID
+ * pruning (prune_fec_candidate_ids_to + prune_fec_committee_ids_drop)
+ * after edge analysis showed his ghost was a 4-Casey chimera but the
+ * actual edge contamination is small enough to publish safely with
+ * pruned identifiers. See ghost-politicians-audit.md for the analysis.
  *
  * Dry-run by default. --apply to write.
  */
@@ -48,7 +48,23 @@ const ENRICHMENT_PLAN = [
   { name: 'Dianne Feinstein',         path: 'content/Politicians/Democrats/Senate/Dianne Feinstein.md',         bioguide: 'F000062' },
   { name: 'Michael Bennet',           path: 'content/Politicians/Democrats/Senate/Michael Bennet.md',           bioguide: 'B001267' },
   { name: 'Chris Christie',           path: 'content/Politicians/Independent/Chris Christie.md',                bioguide: null /* never federal Congress */ },
-  // Bob Casey HELD OUT pending edge cleanup. See content/Admin Notes/ghost-politicians-audit.md.
+  // Bob Casey added 2026-04-25 evening (second pass). The ghost was a chimera of 4
+  // Robert/Bob Caseys (Sr presidential 1996, Jr PA Senator, Robert D MI House 2006,
+  // Robert J PA House 1978). Edge analysis showed 365/780 definitively Casey Jr via
+  // FEC committee provenance, 19 cycle-2006 PAS2 ambiguous (Jr's first Senate run
+  // overlap with Robert D MI House 2006), 396 wikilink-class (no provenance — vault
+  // content is contemporary so safely Jr). Surgery below: prune FEC candidate IDs to
+  // just S6PA00217 (Casey Jr) and committee IDs to the 24 owned by him per FEC CCL.
+  // Drops C00397380 (Robert D Casey MI principal cmte) and C00301762 (Casey Sr 1996
+  // presidential cmte). Residual 19-edge cycle-2006 PAS2 ambiguity documented in the
+  // ghost audit; fix needs PAS2 re-ingest with recipient_cmte_id captured.
+  {
+    name: 'Bob Casey',
+    path: 'content/Politicians/Democrats/Senate/Bob Casey.md',
+    bioguide: 'C001070',
+    prune_fec_candidate_ids_to: ['S6PA00217'],
+    prune_fec_committee_ids_drop: ['C00397380', 'C00301762'],
+  },
 ];
 
 console.log('enrich-ghost-politicians');
@@ -104,6 +120,23 @@ for (const raw of lines) {
     e.signals.chamber = t.chamber.charAt(0).toUpperCase() + t.chamber.slice(1);
   }
   if (t.state && !e.signals.state_abbr) e.signals.state_abbr = t.state;
+  // Per-ghost contamination pruning (Bob Casey case): prune FEC IDs that
+  // belong to a different same-named human, identified by FEC candidate-
+  // master cross-reference.
+  if (Array.isArray(plan.prune_fec_candidate_ids_to)) {
+    e.signals.fec_candidate_ids = plan.prune_fec_candidate_ids_to.slice();
+    e.signals.fec_candidate_id = plan.prune_fec_candidate_ids_to[0] || null;
+    if (Array.isArray(e.signals.fec_candidate_history)) {
+      e.signals.fec_candidate_history = e.signals.fec_candidate_history.filter(
+        (h) => plan.prune_fec_candidate_ids_to.includes(h.id),
+      );
+    }
+  }
+  if (Array.isArray(plan.prune_fec_committee_ids_drop) && Array.isArray(e.signals.fec_committee_ids)) {
+    const drop = new Set(plan.prune_fec_committee_ids_drop);
+    e.signals.fec_committee_ids = e.signals.fec_committee_ids.filter((c) => !drop.has(c));
+    if (drop.has(e.signals.fec_committee_id)) e.signals.fec_committee_id = e.signals.fec_committee_ids[0] || null;
+  }
   e.signals.enriched_via_ghost_promotion_at = new Date().toISOString();
   e.last_updated = new Date().toISOString();
 
@@ -141,8 +174,6 @@ console.log(`\nBacked up entities.jsonl → ${path.relative(ROOT, backup)}`);
 fs.writeFileSync(ENTITIES, out.join('\n'));
 console.log(`✓ Wrote ${ENTITIES}`);
 console.log('');
-console.log('Bob Casey was intentionally HELD OUT — his entity record carries FEC IDs');
-console.log('from three different Robert/Bob Caseys (2026-04-19 backfill bug). Setting');
-console.log('his profile_path before edge cleanup would expose contaminated donor data');
-console.log('on a profile of a real, living, recently-defeated US Senator. Defamation');
-console.log('risk too high. See content/Admin Notes/ghost-politicians-audit.md.');
+console.log('Re-run scripts/build-relationships-per-profile-via-librarian.cjs +');
+console.log('scripts/diff-relationships-cache.cjs to confirm enriched ghosts now');
+console.log('resolve in the librarian-backed cache.');
