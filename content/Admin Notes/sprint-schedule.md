@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: normal
 status: active
-last-updated: '2026-04-25-harness-pattern-rollout-plus-alerts-retire-plus-attention-rewire-plus-adr-0024-unified-graph-engine-accepted'
+last-updated: '2026-04-25-evening-adr-0024-phase-3-cutover-complete-plus-5th-prevention-check'
 sprint-id: "2026-04-sprint"
 sprint-start: '2026-04-10'
 sprint-end: '2026-04-30'
@@ -2804,6 +2804,69 @@ phase_3_tasks:
       completed_date: 2026-04-25
       added_adhoc: true
       notes: "Closes the prevention gap David asked about ('how does this not become a problem in the future?'). Three new vault-audit checks ride the existing every-15-min attention-dispatcher schedule. (1) librarian-validation — runs Graph.load(); hard-fail (exit 3) on duplicate-bioguide / FEC-mismap (engine refused to start); soft-warn (exit 2) when ambiguous_aliases > LIBRARIAN_AMBIGUOUS_ALERT (default 300). Meta-check: doesn't enumerate specific patterns, makes the librarian's verdict on the data part of vault health. Baseline: 12,963 nodes, 158,235 edges, 61 ambiguous aliases, 74,368 unresolved-edge endpoints, ~2s load. (2) pathless-stub-entities — flags entity records with no profile_path that aren't legitimate aggregation/external-reference stubs (those carry signals.ein_coverage_reason). Catches Bob Casey class. Baseline: 426 ghosts (15 politicians + 411 donors that look like FEC committee names promoted to entities). (3) duplicate-politician-profiles — cross-references entities.jsonl with legislator-registry.jsonl to find two distinct profiles mapping to one human. Catches Ed Markey + Edward J. Markey class. Baseline: 2 (Markey M000133, Himes H001047). Companion document content/Admin Notes/adr-0024-prevention-checklist.md explains the three-layer prevention story (librarian as single read path, load-time validation, harness checks) and sequences the open work. Commit 6621972d2."
+
+    - id: cc_p3_77
+      task: "ADR-0024 Phase 3 prep: TS port of edge-role-taxonomy + parity tests"
+      status: done
+      completed_date: 2026-04-25
+      added_adhoc: true
+      notes: "Ported scripts/lib/edge-role-taxonomy.cjs to lib/donor-map/edge-taxonomy.ts (CATEGORIES, BUCKETS, CATEGORY_META, classifyEdge, sumMonetaryEdgesDedup, currentCycle, filterEdgesByCycle, normalizeRole, normalizeEntityKey). Added 39 behavior tests + 38 parity tests (loads both modules, asserts CATEGORIES/BUCKETS/CATEGORY_META are identical and every known edge shape classifies to the same result). Both files coexist; parity test is the contract until CJS callers migrate through the librarian. Unblocked Phase 3 builder + shadow harness expansion. Commit 15794e6f7."
+
+    - id: cc_p3_78
+      task: "ADR-0024 Phase 3 prep: librarian-backed cache builder + diff tool + money-field shadow scan"
+      status: done
+      completed_date: 2026-04-25
+      added_adhoc: true
+      notes: "scripts/build-relationships-per-profile-via-librarian.cjs sibling builder spawns tsx, loads Graph, walks every node's outgoing edges, applies same classification as production builder, writes data/relationships-per-profile.via-librarian.json. Bucket-key strategy uses resolved Node.name eliminating cache's split buckets. scripts/diff-relationships-cache.cjs compares files at per-profile per-field level with top-N movers in each direction. scripts/donor-map-shadow-scan-money.cjs extends shadow harness from `related` to `donors` + `politicians-funded`. First diff results: donors 47.7% / 52.3%, politicians-funded 81.4% / 18.6%, related 60.4% / 39.6%; opposes + stories ≥99%. Three classes of disagreement: WIN politician unification (Pelosi +117), WIN vault meta-pages dropped, BLOCKER classes that subsequent commits closed. Commits c30ef08d2, 4392213a4."
+
+    - id: cc_p3_79
+      task: "ADR-0024 Phase 3 Blocker 1: merge 3 phantom politician entity records (Markey, Himes, Goldman)"
+      status: done
+      completed_date: 2026-04-25
+      added_adhoc: true
+      notes: "scripts/merge-phantom-entity-records.cjs walks entities.jsonl flagging records whose profile_path doesn't exist on disk, finds the unique sibling by entity_type + overlapping fec_candidate_id, deletes the phantom. 3 cases: ent_000860 'Edward J. Markey' → ent_000861 'Ed Markey'; ent_001052 'James A. Himes' → ent_001034 'Jim Himes'; ent_001104 'Daniel S. Goldman' → ent_001550 'Dan Goldman' (path SET to flat .md file). No bioguide copy needed — librarian's findOrCreateLegislatorNode auto-aliases formal names from data/legislator-registry.jsonl on next load. Verification: Ed Markey OLD=231 → librarian NEW=250, Jim Himes 249→274, Dan Goldman 237→228. Commit 0e07da83d."
+
+    - id: cc_p3_80
+      task: "ADR-0024 Phase 3 Blocker 2: enrich 13 of 14 ghost politicians (Hagerty, Mark Kelly, Britt, Cortez Masto, Ritchie Torres, Mace, Bernie Moreno, Lee, Schiff, Sherrod Brown, Feinstein, Bennet, Christie) + patch source script + 4th harness check"
+      status: done
+      completed_date: 2026-04-25
+      added_adhoc: true
+      notes: "scripts/audit-ghost-politicians.cjs diagnoses each ghost. scripts/enrich-ghost-politicians.cjs sets profile_path + bioguide + party/chamber/state from legislator-registry; all 14 ghosts already had flat .md profiles in the vault, just not pointed at by entities. Big find: ghosts created 2026-04-19 by scripts/politician-historical-coverage-backfill.cjs with name-only FEC matching. PATCHED: requires bioguide cross-reference when known; refuses to pool when name-only matching produces >1 record. NEW HARNESS CHECK: scripts/multi-bioguide-fec-id-check.cjs flags any entity whose FEC IDs span multiple bioguide owners — first run found 9 ADDITIONAL contaminated entities beyond Bob Casey (Bob Menendez Sr+Jr merged sensitive case, Mike Rogers, Mark Green, Tom Barrett, Mike Collins, Robert Menendez, Raul Grijalva, Hank Johnson, Greg Casar). Commit 99e485297."
+
+    - id: cc_p3_81
+      task: "ADR-0024 Phase 3: Bob Casey resolved (last politician ghost, contamination handled via entity-level pruning)"
+      status: done
+      completed_date: 2026-04-25
+      added_adhoc: true
+      notes: "Edge provenance analysis showed Casey's contamination is much narrower than the 4-Casey FEC ID list suggested — 365/780 definitively Casey Jr via FEC committee provenance, 396 wikilink-class default to Jr (vault content is contemporary), only 19 cycle-2006 PAS2 ambiguous (small-dollar PAC contributions). Extended scripts/enrich-ghost-politicians.cjs to support per-ghost prune_fec_candidate_ids_to + prune_fec_committee_ids_drop. Casey's pruning: fec_candidate_ids 4→1 (just S6PA00217), fec_committee_ids 26→24, fec_candidate_history 4→1, profile_path set, bioguide C001070 set. Result: pathless-stub-entities politician count 14→0; multi-bioguide-fec-id 10→9 (Casey now mono-bioguide). Commit 9cfeaf371."
+
+    - id: cc_p3_82
+      task: "ADR-0024 Phase 3: 9 multi-bioguide entities resolved + librarian honors entity-declared bioguides"
+      status: done
+      completed_date: 2026-04-25
+      added_adhoc: true
+      notes: "scripts/fix-multi-bioguide-entities.cjs prunes the 9 cases (Mike Collins, Tom Barrett, Mike Rogers, Mark Green, Bob Menendez Sr, Robert Menendez Jr, Raul Grijalva, Hank Johnson, Greg Casar). 3 had ACTIVE MISIDENTIFICATION not just stale extras: Raul Grijalva entity had Adelita's bioguide G000606, Greg Casar had Juan Ciscomani's C001133, Hank Johnson had Ron Johnson R-WI's S0WI00197. LIBRARIAN BUG SURFACED + FIXED in lib/donor-map/resolver.ts: Step 1 now reads e.signals.bioguide_id; Step 2 honors entity-claimed bioguides instead of re-guessing by name (would have attached Sr's bioguide to Jr's node via name match). Result: multi-bioguide-fec-id-check 9→0; Menendez Sr (99 rows) and Jr (109 rows) both resolve. Commit 0981131a8."
+
+    - id: cc_p3_83
+      task: "ADR-0024 Phase 3 Blocker 3: 398 of 411 donor ghost stubs cleaned + 124 bulk candidate-committee registry adds"
+      status: done
+      completed_date: 2026-04-25
+      added_adhoc: true
+      notes: "scripts/audit-donor-ghost-stubs.cjs diagnostic + scripts/fix-donor-ghost-stubs.cjs fix. 411 donor ghosts → 13 remaining (398 fixed: 237 CLEAN registry-already-mapped just-deleted, 161 REGISTRY_MISSING got registry entry added then deleted, 13 SKIP candidates without vault profiles). Plus scripts/bulk-register-candidate-committees.cjs walks FEC candidate-committees.jsonl with conservative safeguards (skip joint-fundraising J + leadership-PAC D + multi-candidate cases): added 124 entries (registry: 1530→1654). CRITICAL REFRAME: investigated AFSCME-class display loss and confirmed those 4,851 'lost' targets are STATE AND LOCAL races (Bill Quirk for CA Assembly, Phil Murphy for Governor, Indiana Senate Democratic Caucus, city council races). Vault is federal-focused. Librarian correctly drops them. Phase 3 cutover NOT BLOCKED. Commits 32411e9ba, c109551a3."
+
+    - id: cc_p3_84
+      task: "ADR-0024 Phase 3 CUTOVER: librarian-backed builder is now production"
+      status: done
+      completed_date: 2026-04-25
+      added_adhoc: true
+      notes: "Renamed scripts/build-relationships-per-profile.cjs → -legacy.cjs (kept for rollback), renamed -via-librarian.cjs → build-relationships-per-profile.cjs (production), updated DEFAULT_OUT to write data/relationships-per-profile.json. 3 callers (ensure-derived-artifacts post-checkout/merge hook, ci-prebuild.cjs, attention-dispatcher.cjs) needed no changes — they invoke the unsuffixed name. Verified end-to-end with full Quartz build: 3,066 markdown files parsed, 10,382 output files emitted, zero errors. New cache 25.8MB / 1,608 buckets vs legacy's 9,874 (8,266 gap = state/local + vault meta-pages + ghost cache keys, all correctly excluded). DiscoveryPanel + ProfileWidget consume new cache without modification (JSON shape identical). Commit ce21a7358. CLOSES ADR-0024 PHASE 3."
+
+    - id: cc_p3_85
+      task: "ADR-0024 Phase 3: 5th prevention check (duplicate-entity-profiles) + first-run found Fairshake-class FEC mismap"
+      status: done
+      completed_date: 2026-04-25
+      added_adhoc: true
+      notes: "scripts/duplicate-entity-profiles-check.cjs generalizes duplicate-politician-profiles-check to donor/corporation/think-tank entities. Detection via shared FEC committee_id, EIN, SEC CIK, or identical normalized name. First run found 14 duplicate groups. ONE IS A FAIRSHAKE-CLASS FEC MISMAP: ent_001353 'Equality Project PAC' + ent_001442 'Resolute Courage PAC' both claim FEC committee C00866640 — per FEC committee-master, that's Resolute Courage PAC (Equality Project PAC is its connected_org, NOT the primary committee). Same shape ADR-0024 was written to prevent. Other 13 are mostly editorial duplicates (Club for Growth + Club for Growth INC PAC, NEA + NEA Advocacy Fund, NCPSSM with vs without '& Medicare', Citadel + Kenneth Griffin same EIN, Reclaim America PAC + Save America PAC same EIN, etc.). Wired into vault-audit as 5th ADR-0024 prevention check. Also verified Casar/Horsford/Valadao/Bacon/Fitzpatrick donor-side losses are all committee-name strings the librarian correctly unifies (5/5 confirmed). Commits 1814ee962, 3fef4a954."
 
   david:
     - id: dc_p3_01
