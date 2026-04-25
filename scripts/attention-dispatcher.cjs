@@ -7,7 +7,7 @@
  * ops app /attention page current and the dashboard card accurate.
  *
  * Schedule (all local time):
- *   - Every 15 min  → vault-audit                 (14-check harness, powers Ops pages)
+ *   - Every 15 min  → vault-audit                 (17-check harness, powers Ops pages)
  *   - Every 30 min  → voice-drift-detector       (cheap, catches AI slop fast)
  *   - Every  1 hr   → hallucination-catcher      (claim/citation matching)
  *   - Every  1 hr   → promotion-candidate-queue  (what's cheapest to ship today)

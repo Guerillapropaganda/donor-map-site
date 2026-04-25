@@ -183,6 +183,30 @@ const CHECKS = [
     timeout_ms: 15000,
     queue: { bucket: 'blocking', leverage: 5, cost_min: 10 },
   },
+  {
+    name: 'librarian-validation',
+    description: 'Donor-map graph engine load (ADR-0024). Hard-fail on duplicate bioguide / FEC mismap; soft warn when ambiguous_aliases exceeds threshold.',
+    cmd: ['node', 'scripts/librarian-validation-check.cjs', '--json'],
+    parse: parseLibrarianValidation,
+    timeout_ms: 30000,
+    queue: { bucket: 'blocking', leverage: 5, cost_min: 15 },
+  },
+  {
+    name: 'pathless-stub-entities',
+    description: 'Ghost entity records with no profile_path (Bob Casey class) — discovery-scanner stubs shadowing real profiles.',
+    cmd: ['node', 'scripts/pathless-stub-entities-check.cjs', '--json'],
+    parse: parsePathlessStubs,
+    timeout_ms: 15000,
+    queue: { bucket: 'compounding', leverage: 3, cost_min: 30 },
+  },
+  {
+    name: 'duplicate-politician-profiles',
+    description: 'Two distinct vault profiles mapping to the same politician (Ed Markey + Edward J. Markey class) — editorial cleanup needed.',
+    cmd: ['node', 'scripts/duplicate-politician-profiles-check.cjs', '--json'],
+    parse: parseDuplicatePoliticianProfiles,
+    timeout_ms: 15000,
+    queue: { bucket: 'deciding', leverage: 4, cost_min: 30 },
+  },
 ];
 
 // ─── Output parsers (one per check) ────────────────────────────────
@@ -298,6 +322,49 @@ function parseEnrichmentFreshness(stdout, _stderr, _exit) {
   try {
     const j = JSON.parse(stdout);
     return { findings_count: j.findings_count || 0, notes: j.message };
+  } catch {
+    return { findings_count: 0, notes: '(json parse failed)' };
+  }
+}
+
+function parsePathlessStubs(stdout, _stderr, _exit) {
+  try {
+    const j = JSON.parse(stdout);
+    return { findings_count: j.findings_count || 0, notes: j.message };
+  } catch {
+    return { findings_count: 0, notes: '(json parse failed)' };
+  }
+}
+
+function parseDuplicatePoliticianProfiles(stdout, _stderr, _exit) {
+  try {
+    const j = JSON.parse(stdout);
+    return { findings_count: j.findings_count || 0, notes: j.message };
+  } catch {
+    return { findings_count: 0, notes: '(json parse failed)' };
+  }
+}
+
+function parseLibrarianValidation(stdout, _stderr, exit) {
+  try {
+    const j = JSON.parse(stdout);
+    if (!j.ok) {
+      // Hard-fail: engine refused to start. findings_count = 1 to signal
+      // a single load-blocking issue; the error name + message say what.
+      return {
+        findings_count: 1,
+        notes: `engine refused to load: ${j.error?.name || 'unknown'} — ${j.error?.message || 'no detail'}`,
+      };
+    }
+    // Soft-warn: ambiguous_aliases above threshold gets reported as the
+    // findings_count so /attention can show a churnable list. The
+    // unresolved_edges figure is informational only — it's a structural
+    // signal that improves as duplicate profiles get cleaned up.
+    const findings = exit === 2 ? (j.ambiguous_aliases || 0) : 0;
+    return {
+      findings_count: findings,
+      notes: `${j.nodes.toLocaleString()} nodes, ${j.edges.toLocaleString()} edges. ambiguous_aliases=${j.ambiguous_aliases}, unresolved_edges=${j.unresolved_edges.toLocaleString()}, load_ms=${j.load_ms}.`,
+    };
   } catch {
     return { findings_count: 0, notes: '(json parse failed)' };
   }
