@@ -25130,5 +25130,2259 @@
     "vault_profile": "content/Politicians/Democrats/House/Chellie Pingree/_Chellie Pingree Master Profile.md",
     "mapping_reason": "politician campaign committee — S/ME cycle 2002",
     "mapped_at": "2026-04-20T22:59:49.116Z"
+  },
+  "C00844159": {
+    "committee_id": "C00844159",
+    "fec_name": "SHEEHY, TIM",
+    "vault_profile": "content/Politicians/Republicans/Senate/Tim Sheehy/_Tim Sheehy Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "TIM SHEEHY FOR MONTANA",
+      "SHEEHY, TIM"
+    ],
+    "cand_id": "S4MT00183",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00829465": {
+    "committee_id": "C00829465",
+    "fec_name": "SHEEHY, TIM",
+    "vault_profile": "content/Politicians/Republicans/Senate/Tim Sheehy/_Tim Sheehy Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "SHEEHY FOR MT SENATE REPUBLICAN NOMINEE FUND 2024",
+      "SHEEHY, TIM"
+    ],
+    "cand_id": "S4MT00183",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00705715": {
+    "committee_id": "C00705715",
+    "fec_name": "DAINES, STEVE",
+    "vault_profile": "content/Politicians/Republicans/Senate/Steve Daines/_Steve Daines Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "FRIENDS OF STEVE DAINES",
+      "DAINES, STEVE"
+    ],
+    "cand_id": "S2MT00096",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00462069": {
+    "committee_id": "C00462069",
+    "fec_name": "PAUL, RAND",
+    "vault_profile": "content/Politicians/Republicans/Senate/Rand Paul/_Rand Paul Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "RAND PAUL FOR US SENATE 2010",
+      "PAUL, RAND"
+    ],
+    "cand_id": "S0KY00156",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00532465": {
+    "committee_id": "C00532465",
+    "fec_name": "ROUNDS, MIKE",
+    "vault_profile": "content/Politicians/Republicans/Senate/Mike Rounds/_Mike Rounds Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "ROUNDS FOR SENATE",
+      "ROUNDS, MIKE"
+    ],
+    "cand_id": "S4SD00049",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00705566": {
+    "committee_id": "C00705566",
+    "fec_name": "ROUNDS, MIKE",
+    "vault_profile": "content/Politicians/Republicans/Senate/Mike Rounds/_Mike Rounds Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "FRIENDS OF MIKE ROUNDS",
+      "ROUNDS, MIKE"
+    ],
+    "cand_id": "S4SD00049",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00384529": {
+    "committee_id": "C00384529",
+    "fec_name": "MURKOWSKI, LISA",
+    "vault_profile": "content/Politicians/Republicans/Senate/Lisa Murkowski/_Lisa Murkowski Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "LISA MURKOWSKI FOR US SENATE",
+      "MURKOWSKI, LISA"
+    ],
+    "cand_id": "S4AK00099",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00850545": {
+    "committee_id": "C00850545",
+    "fec_name": "CURTIS, JOHN",
+    "vault_profile": "content/Politicians/Republicans/Senate/John R. Curtis/_John R. Curtis Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "CURTIS FOR UT SENATE REPUBLICAN NOMINEE FUND 2024",
+      "CURTIS, JOHN"
+    ],
+    "cand_id": "S4UT00282",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00473371": {
+    "committee_id": "C00473371",
+    "fec_name": "HOEVEN, JOHN",
+    "vault_profile": "content/Politicians/Republicans/Senate/John Hoeven/_John Hoeven Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "HOEVEN FOR SENATE",
+      "HOEVEN, JOHN"
+    ],
+    "cand_id": "S0ND00093",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00775015": {
+    "committee_id": "C00775015",
+    "fec_name": "SCHMITT, ERIC",
+    "vault_profile": "content/Politicians/Republicans/Senate/Eric Schmitt/_Eric Schmitt Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "SCHMITT FOR SENATE",
+      "SCHMITT, ERIC"
+    ],
+    "cand_id": "S2MO00544",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00773184": {
+    "committee_id": "C00773184",
+    "fec_name": "SCHMITT, ERIC",
+    "vault_profile": "content/Politicians/Republicans/Senate/Eric Schmitt/_Eric Schmitt Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "SCHMITT FOR MO SENATE REPUBLICAN NOMINEE FUND 2022",
+      "SCHMITT, ERIC"
+    ],
+    "cand_id": "S2MO00544",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00551093": {
+    "committee_id": "C00551093",
+    "fec_name": "SULLIVAN, DAN",
+    "vault_profile": "content/Politicians/Republicans/Senate/Dan Sullivan/_Dan Sullivan Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "SULLIVAN FOR US SENATE",
+      "SULLIVAN, DAN"
+    ],
+    "cand_id": "S4AK00214",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00705954": {
+    "committee_id": "C00705954",
+    "fec_name": "SULLIVAN, DAN",
+    "vault_profile": "content/Politicians/Republicans/Senate/Dan Sullivan/_Dan Sullivan Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "ALASKA SENATE REPUBLICAN NOMINEE FUND - DAN SULLIVAN",
+      "SULLIVAN, DAN"
+    ],
+    "cand_id": "S4AK00214",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00705731": {
+    "committee_id": "C00705731",
+    "fec_name": "HYDE-SMITH, CINDY",
+    "vault_profile": "content/Politicians/Republicans/Senate/Cindy Hyde-Smith/_Cindy Hyde-Smith Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "FRIENDS OF CINDY HYDE-SMITH",
+      "HYDE-SMITH, CINDY"
+    ],
+    "cand_id": "S8MS00261",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00895763": {
+    "committee_id": "C00895763",
+    "fec_name": "MOODY, ASHLEY",
+    "vault_profile": "content/Politicians/Republicans/Senate/Ashley Moody/_Ashley Moody Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "MOODY FOR FLORIDA",
+      "MOODY, ASHLEY"
+    ],
+    "cand_id": "S6FL00640",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00310532": {
+    "committee_id": "C00310532",
+    "fec_name": "GRANGER, KAY",
+    "vault_profile": "content/Politicians/Republicans/House/_Kay Granger Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "KAY GRANGER CAMPAIGN FUND",
+      "GRANGER, KAY"
+    ],
+    "cand_id": "H6TX12060",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00702464": {
+    "committee_id": "C00702464",
+    "fec_name": "KIM, YOUNG",
+    "vault_profile": "content/Politicians/Republicans/House/Young Kim/_Young Kim Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "KIM FOR CA-39",
+      "KIM, YOUNG"
+    ],
+    "cand_id": "H8CA39240",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00702886": {
+    "committee_id": "C00702886",
+    "fec_name": "HUNT, WESLEY",
+    "vault_profile": "content/Politicians/Republicans/House/Wesley Hunt/_Wesley Hunt Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "HUNT FOR TX-07",
+      "HUNT, WESLEY"
+    ],
+    "cand_id": "H0TX07170",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00798306": {
+    "committee_id": "C00798306",
+    "fec_name": "HUNT, WESLEY",
+    "vault_profile": "content/Politicians/Republicans/House/Wesley Hunt/_Wesley Hunt Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "HUNT FOR TX-38",
+      "HUNT, WESLEY"
+    ],
+    "cand_id": "H0TX07170",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00600718": {
+    "committee_id": "C00600718",
+    "fec_name": "DAVIDSON, WARREN",
+    "vault_profile": "content/Politicians/Republicans/House/Warren Davidson/_Warren Davidson Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "DAVIDSON FOR CONGRESS",
+      "DAVIDSON, WARREN"
+    ],
+    "cand_id": "H6OH08315",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00730150": {
+    "committee_id": "C00730150",
+    "fec_name": "NEHLS, TROY",
+    "vault_profile": "content/Politicians/Republicans/House/Troy E. Nehls/_Troy E. Nehls Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "NEHLS FOR CONGRESS",
+      "NEHLS, TROY"
+    ],
+    "cand_id": "H0TX22302",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00717777": {
+    "committee_id": "C00717777",
+    "fec_name": "NEHLS, TROY",
+    "vault_profile": "content/Politicians/Republicans/House/Troy E. Nehls/_Troy E. Nehls Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "NEHLS FOR TX-22",
+      "NEHLS, TROY"
+    ],
+    "cand_id": "H0TX22302",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00652149": {
+    "committee_id": "C00652149",
+    "fec_name": "BURCHETT, TIM",
+    "vault_profile": "content/Politicians/Republicans/House/Tim Burchett/_Tim Burchett Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "BURCHETT FOR CONGRESS",
+      "BURCHETT, TIM"
+    ],
+    "cand_id": "H8TN02119",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00703843": {
+    "committee_id": "C00703843",
+    "fec_name": "BICE, STEPHANIE",
+    "vault_profile": "content/Politicians/Republicans/House/Stephanie I. Bice/_Stephanie I. Bice Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "BICE FOR CONGRESS",
+      "BICE, STEPHANIE"
+    ],
+    "cand_id": "H0OK05205",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00702829": {
+    "committee_id": "C00702829",
+    "fec_name": "BICE, STEPHANIE",
+    "vault_profile": "content/Politicians/Republicans/House/Stephanie I. Bice/_Stephanie I. Bice Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "BICE FOR OK-05",
+      "BICE, STEPHANIE"
+    ],
+    "cand_id": "H0OK05205",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00510164": {
+    "committee_id": "C00510164",
+    "fec_name": "PERRY, SCOTT",
+    "vault_profile": "content/Politicians/Republicans/House/Scott Perry/_Scott Perry Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "PATRIOTS FOR PERRY",
+      "PERRY, SCOTT"
+    ],
+    "cand_id": "H2PA04135",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00786657": {
+    "committee_id": "C00786657",
+    "fec_name": "FRY, RUSSELL",
+    "vault_profile": "content/Politicians/Republicans/House/Russell Fry/_Russell Fry Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "FRY FOR CONGRESS",
+      "FRY, RUSSELL"
+    ],
+    "cand_id": "H2SC07280",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00313247": {
+    "committee_id": "C00313247",
+    "fec_name": "ADERHOLT, ROBERT",
+    "vault_profile": "content/Politicians/Republicans/House/Robert B. Aderholt/_Robert B. Aderholt Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "ROBERT ADERHOLT FOR CONGRESS",
+      "ADERHOLT, ROBERT"
+    ],
+    "cand_id": "H6AL04098",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00502229": {
+    "committee_id": "C00502229",
+    "fec_name": "WEBER, RANDY",
+    "vault_profile": "content/Politicians/Republicans/House/Randy K. Weber/_Randy K. Weber Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "WEBER FOR CONGRESS",
+      "WEBER, RANDY"
+    ],
+    "cand_id": "H2TX14149",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00802298": {
+    "committee_id": "C00802298",
+    "fec_name": "HARRIGAN, PAT",
+    "vault_profile": "content/Politicians/Republicans/House/Pat Harrigan/_Pat Harrigan Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "THE PAT HARRIGAN COMMITTEE",
+      "HARRIGAN, PAT"
+    ],
+    "cand_id": "H2NC13243",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00694778": {
+    "committee_id": "C00694778",
+    "fec_name": "MALLIOTAKIS, NICOLE",
+    "vault_profile": "content/Politicians/Republicans/House/Nicole Malliotakis/_Nicole Malliotakis Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "NICOLE FOR NEW YORK",
+      "MALLIOTAKIS, NICOLE"
+    ],
+    "cand_id": "H0NY11078",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00702787": {
+    "committee_id": "C00702787",
+    "fec_name": "MALLIOTAKIS, NICOLE",
+    "vault_profile": "content/Politicians/Republicans/House/Nicole Malliotakis/_Nicole Malliotakis Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "MALLIOTAKIS FOR NY-11",
+      "MALLIOTAKIS, NICOLE"
+    ],
+    "cand_id": "H0NY11078",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00818930": {
+    "committee_id": "C00818930",
+    "fec_name": "NICK, LALOTA",
+    "vault_profile": "content/Politicians/Republicans/House/Nick Lalota/_Nick Lalota Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "LALOTA FOR NY-01",
+      "NICK, LALOTA"
+    ],
+    "cand_id": "H2NY01190",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00717959": {
+    "committee_id": "C00717959",
+    "fec_name": "FISCHBACH, MICHELLE",
+    "vault_profile": "content/Politicians/Republicans/House/Michelle Fischbach/_Michelle Fischbach Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "FISCHBACH FOR CONGRESS",
+      "FISCHBACH, MICHELLE"
+    ],
+    "cand_id": "H0MN07091",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00702688": {
+    "committee_id": "C00702688",
+    "fec_name": "FISCHBACH, MICHELLE",
+    "vault_profile": "content/Politicians/Republicans/House/Michelle Fischbach/_Michelle Fischbach Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "FISCHBACH FOR MN-07",
+      "FISCHBACH, MICHELLE"
+    ],
+    "cand_id": "H0MN07091",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00858415": {
+    "committee_id": "C00858415",
+    "fec_name": "RULLI, MICHAEL",
+    "vault_profile": "content/Politicians/Republicans/House/Michael A. Rulli/_Michael A. Rulli Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "RULLI FOR OHIO",
+      "RULLI, MICHAEL"
+    ],
+    "cand_id": "H4OH06165",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00770818": {
+    "committee_id": "C00770818",
+    "fec_name": "MILLER, MAX",
+    "vault_profile": "content/Politicians/Republicans/House/Max L. Miller/_Max L. Miller Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "MAX MILLER FOR CONGRESS",
+      "MILLER, MAX"
+    ],
+    "cand_id": "H2OH16051",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00612432": {
+    "committee_id": "C00612432",
+    "fec_name": "GAETZ, MATT",
+    "vault_profile": "content/Politicians/Republicans/House/Matt Gaetz/_Matt Gaetz Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "FRIENDS OF MATT GAETZ",
+      "GAETZ, MATT"
+    ],
+    "cand_id": "H6FL01119",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00726042": {
+    "committee_id": "C00726042",
+    "fec_name": "MCCLAIN, LISA",
+    "vault_profile": "content/Politicians/Republicans/House/Lisa C. McClain/_Lisa C. McClain Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "LISA MCCLAIN FOR CONGRESS",
+      "MCCLAIN, LISA"
+    ],
+    "cand_id": "H0MI10287",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00818880": {
+    "committee_id": "C00818880",
+    "fec_name": "LEE, LAUREL",
+    "vault_profile": "content/Politicians/Republicans/House/Laurel M. Lee/_Laurel M. Lee Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "LEE FOR FL-15",
+      "LEE, LAUREL"
+    ],
+    "cand_id": "H2FL15241",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00662601": {
+    "committee_id": "C00662601",
+    "fec_name": "GOODEN, LANCE",
+    "vault_profile": "content/Politicians/Republicans/House/Lance Gooden/_Lance Gooden Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "LANCE GOODEN FOR CONGRESS COMMITTEE",
+      "GOODEN, LANCE"
+    ],
+    "cand_id": "H8TX05144",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00775023": {
+    "committee_id": "C00775023",
+    "fec_name": "KILEY, KEVIN",
+    "vault_profile": "content/Politicians/Republicans/House/Kevin Kiley/_Kevin Kiley Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "KILEY FOR CA-03",
+      "KILEY, KEVIN"
+    ],
+    "cand_id": "H2CA03157",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00730895": {
+    "committee_id": "C00730895",
+    "fec_name": "CAMMACK, KAT",
+    "vault_profile": "content/Politicians/Republicans/House/Kat Cammack/_Kat Cammack Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "KAT FOR CONGRESS",
+      "CAMMACK, KAT"
+    ],
+    "cand_id": "H0FL03175",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00869370": {
+    "committee_id": "C00869370",
+    "fec_name": "FEDORCHAK, JULIE",
+    "vault_profile": "content/Politicians/Republicans/House/Julie Fedorchak/_Julie Fedorchak Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "FEDORCHAK FOR ND",
+      "FEDORCHAK, JULIE"
+    ],
+    "cand_id": "H4ND00061",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00674259": {
+    "committee_id": "C00674259",
+    "fec_name": "JOYCE, JOHN",
+    "vault_profile": "content/Politicians/Republicans/House/John Joyce/_John Joyce Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "DR JOHN JOYCE FOR CONGRESS",
+      "JOYCE, JOHN"
+    ],
+    "cand_id": "H8PA13125",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00798694": {
+    "committee_id": "C00798694",
+    "fec_name": "JAMES, JOHN",
+    "vault_profile": "content/Politicians/Republicans/House/John James/_John James Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "JAMES FOR MI-10",
+      "JAMES, JOHN"
+    ],
+    "cand_id": "H2MI10150",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00727594": {
+    "committee_id": "C00727594",
+    "fec_name": "MCGUIRE, JOHN",
+    "vault_profile": "content/Politicians/Republicans/House/John J. McGuire/_John J. McGuire Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "MCGUIRE FOR VIRGINIA",
+      "MCGUIRE, JOHN"
+    ],
+    "cand_id": "H0VA07133",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00900118": {
+    "committee_id": "C00900118",
+    "fec_name": "MCGUIRE, JOHN",
+    "vault_profile": "content/Politicians/Republicans/House/John J. McGuire/_John J. McGuire Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "MCGUIRE RECOUNT COMMITTEE",
+      "MCGUIRE, JOHN"
+    ],
+    "cand_id": "H0VA07133",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00615294": {
+    "committee_id": "C00615294",
+    "fec_name": "RUTHERFORD, JOHN",
+    "vault_profile": "content/Politicians/Republicans/House/John H. Rutherford/_John H. Rutherford Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "CITIZENS FOR JOHN RUTHERFORD",
+      "RUTHERFORD, JOHN"
+    ],
+    "cand_id": "H6FL04105",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00588657": {
+    "committee_id": "C00588657",
+    "fec_name": "ARRINGTON, JODEY",
+    "vault_profile": "content/Politicians/Republicans/House/Jodey Arrington/_Jodey Arrington Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "TEXANS FOR JODEY ARRINGTON",
+      "ARRINGTON, JODEY"
+    ],
+    "cand_id": "H6TX19099",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00775890": {
+    "committee_id": "C00775890",
+    "fec_name": "KIGGANS, JENNIFER",
+    "vault_profile": "content/Politicians/Republicans/House/Jennifer A. Kiggans/_Jennifer A. Kiggans Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "KIGGANS FOR VA-02",
+      "KIGGANS, JENNIFER"
+    ],
+    "cand_id": "H2VA02064",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00776120": {
+    "committee_id": "C00776120",
+    "fec_name": "KIGGANS, JENNIFER",
+    "vault_profile": "content/Politicians/Republicans/House/Jennifer A. Kiggans/_Jennifer A. Kiggans Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "KIGGANS FOR CONGRESS",
+      "KIGGANS, JENNIFER"
+    ],
+    "cand_id": "H2VA02064",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00870949": {
+    "committee_id": "C00870949",
+    "fec_name": "SHREVE, JEFFERSON",
+    "vault_profile": "content/Politicians/Republicans/House/Jefferson Shreve/_Jefferson Shreve Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "SHREVE FOR CONGRESS",
+      "SHREVE, JEFFERSON"
+    ],
+    "cand_id": "H4IN06185",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00421776": {
+    "committee_id": "C00421776",
+    "fec_name": "CRANK, JEFF",
+    "vault_profile": "content/Politicians/Republicans/House/Jeff Crank/_Jeff Crank Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "JEFF CRANK FOR CONGRESS",
+      "CRANK, JEFF"
+    ],
+    "cand_id": "H6CO05142",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00588764": {
+    "committee_id": "C00588764",
+    "fec_name": "COMER, JAMES",
+    "vault_profile": "content/Politicians/Republicans/House/James Comer/_James Comer Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "COMER FOR CONGRESS",
+      "COMER, JAMES"
+    ],
+    "cand_id": "H6KY01110",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00551374": {
+    "committee_id": "C00551374",
+    "fec_name": "PALMER, GARY",
+    "vault_profile": "content/Politicians/Republicans/House/Gary J. Palmer/_Gary J. Palmer Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "GARY PALMER FOR CONGRESS",
+      "PALMER, GARY"
+    ],
+    "cand_id": "H4AL06098",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00800649": {
+    "committee_id": "C00800649",
+    "fec_name": "HOUCHIN, ERIN",
+    "vault_profile": "content/Politicians/Republicans/House/Erin Houchin/_Erin Houchin Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "HOUCHIN FOR CONGRESS",
+      "HOUCHIN, ERIN"
+    ],
+    "cand_id": "H6IN09143",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00628917": {
+    "committee_id": "C00628917",
+    "fec_name": "JOHNSON, DUSTY",
+    "vault_profile": "content/Politicians/Republicans/House/Dusty Johnson/_Dusty Johnson Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "FRIENDS OF DUSTY JOHNSON",
+      "JOHNSON, DUSTY"
+    ],
+    "cand_id": "H8SD01055",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00741090": {
+    "committee_id": "C00741090",
+    "fec_name": "HARSHBARGER, DIANA",
+    "vault_profile": "content/Politicians/Republicans/House/Diana Harshbarger/_Diana Harshbarger Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "DIANA FOR CONGRESS",
+      "HARSHBARGER, DIANA"
+    ],
+    "cand_id": "H0TN01118",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00287672": {
+    "committee_id": "C00287672",
+    "fec_name": "SCHWEIKERT, DAVID",
+    "vault_profile": "content/Politicians/Republicans/House/David Schweikert/_David Schweikert Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "ARIZONANS FOR DAVID SCHWEIKERT",
+      "SCHWEIKERT, DAVID"
+    ],
+    "cand_id": "H4AZ06045",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00451187": {
+    "committee_id": "C00451187",
+    "fec_name": "SCHWEIKERT, DAVID",
+    "vault_profile": "content/Politicians/Republicans/House/David Schweikert/_David Schweikert Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "FRIENDS OF DAVID SCHWEIKERT",
+      "SCHWEIKERT, DAVID"
+    ],
+    "cand_id": "H4AZ06045",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00492413": {
+    "committee_id": "C00492413",
+    "fec_name": "SCHWEIKERT, DAVID",
+    "vault_profile": "content/Politicians/Republicans/House/David Schweikert/_David Schweikert Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "SCHWEIKERT FOR CONGRESS",
+      "SCHWEIKERT, DAVID"
+    ],
+    "cand_id": "H4AZ06045",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00773218": {
+    "committee_id": "C00773218",
+    "fec_name": "SCHWEIKERT, DAVID",
+    "vault_profile": "content/Politicians/Republicans/House/David Schweikert/_David Schweikert Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "SCHWEIKERT FOR AZ-01 REPUBLICAN NOMINEE FUND 2022",
+      "SCHWEIKERT, DAVID"
+    ],
+    "cand_id": "H4AZ06045",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00376244": {
+    "committee_id": "C00376244",
+    "fec_name": "KUSTOFF, DAVID",
+    "vault_profile": "content/Politicians/Republicans/House/David Kustoff/_David Kustoff Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "KUSTOFF FOR CONGRESS 2002",
+      "KUSTOFF, DAVID"
+    ],
+    "cand_id": "H2TN07103",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00614826": {
+    "committee_id": "C00614826",
+    "fec_name": "KUSTOFF, DAVID",
+    "vault_profile": "content/Politicians/Republicans/House/David Kustoff/_David Kustoff Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "KUSTOFF FOR CONGRESS",
+      "KUSTOFF, DAVID"
+    ],
+    "cand_id": "H2TN07103",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00499392": {
+    "committee_id": "C00499392",
+    "fec_name": "VALADAO, DAVID",
+    "vault_profile": "content/Politicians/Republicans/House/David G. Valadao/_David G. Valadao Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "VALADAO FOR CONGRESS",
+      "VALADAO, DAVID"
+    ],
+    "cand_id": "H2CA20094",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00702449": {
+    "committee_id": "C00702449",
+    "fec_name": "VALADAO, DAVID",
+    "vault_profile": "content/Politicians/Republicans/House/David G. Valadao/_David G. Valadao Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "VALADAO FOR CA-21",
+      "VALADAO, DAVID"
+    ],
+    "cand_id": "H2CA20094",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00350520": {
+    "committee_id": "C00350520",
+    "fec_name": "ISSA, DARRELL",
+    "vault_profile": "content/Politicians/Republicans/House/Darrell Issa/_Darrell Issa Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "ISSA FOR CONGRESS",
+      "ISSA, DARRELL"
+    ],
+    "cand_id": "H0CA48024",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00439448": {
+    "committee_id": "C00439448",
+    "fec_name": "MEUSER, DANIEL",
+    "vault_profile": "content/Politicians/Republicans/House/Daniel Meuser/_Daniel Meuser Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "MEUSER FOR CONGRESS",
+      "MEUSER, DANIEL"
+    ],
+    "cand_id": "H8PA10147",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00855528": {
+    "committee_id": "C00855528",
+    "fec_name": "GOLDMAN, CRAIG",
+    "vault_profile": "content/Politicians/Republicans/House/Craig A. Goldman/_Craig A. Goldman Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "CRAIG GOLDMAN FOR CONGRESS",
+      "GOLDMAN, CRAIG"
+    ],
+    "cand_id": "H4TX12065",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00775080": {
+    "committee_id": "C00775080",
+    "fec_name": "MILLS, CORY",
+    "vault_profile": "content/Politicians/Republicans/House/Cory Mills/_Cory Mills Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "MILLS FOR FL-07",
+      "MILLS, CORY"
+    ],
+    "cand_id": "H2FL07156",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00561183": {
+    "committee_id": "C00561183",
+    "fec_name": "TENNEY, CLAUDIA",
+    "vault_profile": "content/Politicians/Republicans/House/Claudia Tenney/_Claudia Tenney Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "TENNEY FOR CONGRESS",
+      "TENNEY, CLAUDIA"
+    ],
+    "cand_id": "H4NY22051",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00702811": {
+    "committee_id": "C00702811",
+    "fec_name": "TENNEY, CLAUDIA",
+    "vault_profile": "content/Politicians/Republicans/House/Claudia Tenney/_Claudia Tenney Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "TENNEY FOR NY-22",
+      "TENNEY, CLAUDIA"
+    ],
+    "cand_id": "H4NY22051",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00842765": {
+    "committee_id": "C00842765",
+    "fec_name": "MALOY, CELESTE",
+    "vault_profile": "content/Politicians/Republicans/House/Celeste Maloy/_Celeste Maloy Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "CELESTE FOR CONGRESS",
+      "MALOY, CELESTE"
+    ],
+    "cand_id": "H4UT02296",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00702530": {
+    "committee_id": "C00702530",
+    "fec_name": "GIMENEZ, CARLOS",
+    "vault_profile": "content/Politicians/Republicans/House/Carlos Gimenez/_Carlos Gimenez Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "GIMENEZ FOR FL-26",
+      "GIMENEZ, CARLOS"
+    ],
+    "cand_id": "H0FL26036",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00509877": {
+    "committee_id": "C00509877",
+    "fec_name": "DONALDS, BYRON",
+    "vault_profile": "content/Politicians/Republicans/House/Byron Donalds/_Byron Donalds Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "FRIENDS OF BYRON DONALDS",
+      "DONALDS, BYRON"
+    ],
+    "cand_id": "H2FL14186",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00702902": {
+    "committee_id": "C00702902",
+    "fec_name": "OWENS, BURGESS",
+    "vault_profile": "content/Politicians/Republicans/House/Burgess Owens/_Burgess Owens Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "OWENS FOR UT-04",
+      "OWENS, BURGESS"
+    ],
+    "cand_id": "H0UT04076",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00725853": {
+    "committee_id": "C00725853",
+    "fec_name": "OWENS, BURGESS",
+    "vault_profile": "content/Politicians/Republicans/House/Burgess Owens/_Burgess Owens Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "BURGESS 4 UTAH",
+      "OWENS, BURGESS"
+    ],
+    "cand_id": "H0UT04076",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00548180": {
+    "committee_id": "C00548180",
+    "fec_name": "WESTERMAN, BRUCE",
+    "vault_profile": "content/Politicians/Republicans/House/Bruce Westerman/_Bruce Westerman Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "WESTERMAN FOR CONGRESS",
+      "WESTERMAN, BRUCE"
+    ],
+    "cand_id": "H4AR04048",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00632257": {
+    "committee_id": "C00632257",
+    "fec_name": "MAST, BRIAN",
+    "vault_profile": "content/Politicians/Republicans/House/Brian Mast/_Brian Mast Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "MAST FOR CONGRESS",
+      "MAST, BRIAN"
+    ],
+    "cand_id": "H6FL18097",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00607416": {
+    "committee_id": "C00607416",
+    "fec_name": "FITZPATRICK, BRIAN",
+    "vault_profile": "content/Politicians/Republicans/House/Brian K. Fitzpatrick/_Brian K. Fitzpatrick Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "BRIAN FITZPATRICK FOR ALL OF US",
+      "FITZPATRICK, BRIAN"
+    ],
+    "cand_id": "H6PA08277",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00553859": {
+    "committee_id": "C00553859",
+    "fec_name": "BABIN, BRIAN",
+    "vault_profile": "content/Politicians/Republicans/House/Brian Babin/_Brian Babin Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "DR. BRIAN BABIN FOR CONGRESS",
+      "BABIN, BRIAN"
+    ],
+    "cand_id": "H6TX02079",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00857359": {
+    "committee_id": "C00857359",
+    "fec_name": "GILL, BRANDON",
+    "vault_profile": "content/Politicians/Republicans/House/Brandon Gill/_Brandon Gill Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "BRANDON GILL FOR TEXAS",
+      "GILL, BRANDON"
+    ],
+    "cand_id": "H4TX26149",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00807743": {
+    "committee_id": "C00807743",
+    "fec_name": "FINSTAD, BRAD",
+    "vault_profile": "content/Politicians/Republicans/House/Brad Finstad/_Brad Finstad Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "FINSTAD FOR CONGRESS",
+      "FINSTAD, BRAD"
+    ],
+    "cand_id": "H2MN01223",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00738872": {
+    "committee_id": "C00738872",
+    "fec_name": "MOORE, BLAKE",
+    "vault_profile": "content/Politicians/Republicans/House/Blake D. Moore/_Blake D. Moore Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "BLAKE MOORE FOR CONGRESS",
+      "MOORE, BLAKE"
+    ],
+    "cand_id": "H0UT01205",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00543892": {
+    "committee_id": "C00543892",
+    "fec_name": "LOUDERMILK, BARRY",
+    "vault_profile": "content/Politicians/Republicans/House/Barry Loudermilk/_Barry Loudermilk Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "LOUDERMILK FOR CONGRESS",
+      "LOUDERMILK, BARRY"
+    ],
+    "cand_id": "H4GA11061",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00610451": {
+    "committee_id": "C00610451",
+    "fec_name": "BIGGS, ANDY",
+    "vault_profile": "content/Politicians/Republicans/House/Andy Biggs/_Andy Biggs Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "BIGGS FOR CONGRESS",
+      "BIGGS, ANDY"
+    ],
+    "cand_id": "H6AZ05083",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00729954": {
+    "committee_id": "C00729954",
+    "fec_name": "GARBARINO, ANDREW",
+    "vault_profile": "content/Politicians/Republicans/House/Andrew R. Garbarino/_Andrew R. Garbarino Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "GARBARINO FOR CONGRESS",
+      "GARBARINO, ANDREW"
+    ],
+    "cand_id": "H0NY02234",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00860064": {
+    "committee_id": "C00860064",
+    "fec_name": "MCDOWELL, ADDISON",
+    "vault_profile": "content/Politicians/Republicans/House/Addison P. McDowell/_Addison P. McDowell Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "MCDOWELL FOR CONGRESS",
+      "MCDOWELL, ADDISON"
+    ],
+    "cand_id": "H4NC06177",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00853986": {
+    "committee_id": "C00853986",
+    "fec_name": "HAMADEH, ABRAHAM",
+    "vault_profile": "content/Politicians/Republicans/House/Abraham J. Hamadeh/_Abraham J. Hamadeh Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "ABE FOR ARIZONA",
+      "HAMADEH, ABRAHAM"
+    ],
+    "cand_id": "H4AZ08108",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00663781": {
+    "committee_id": "C00663781",
+    "fec_name": "SMITH, TINA",
+    "vault_profile": "content/Politicians/Democrats/Senate/Tina Smith/_Tina Smith Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "TINA SMITH FOR MINNESOTA",
+      "SMITH, TINA"
+    ],
+    "cand_id": "S8MN00578",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00410803": {
+    "committee_id": "C00410803",
+    "fec_name": "WHITEHOUSE, SHELDON",
+    "vault_profile": "content/Politicians/Democrats/Senate/Sheldon Whitehouse/_Sheldon Whitehouse Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "WHITEHOUSE FOR SENATE",
+      "WHITEHOUSE, SHELDON"
+    ],
+    "cand_id": "S6RI00221",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00473587": {
+    "committee_id": "C00473587",
+    "fec_name": "BLUMENTHAL, RICHARD",
+    "vault_profile": "content/Politicians/Democrats/Senate/Richard Blumenthal/_Richard Blumenthal Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "BLUMENTHAL FOR SENATE",
+      "BLUMENTHAL, RICHARD"
+    ],
+    "cand_id": "S0CT00177",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00492991": {
+    "committee_id": "C00492991",
+    "fec_name": "BLUMENTHAL, RICHARD",
+    "vault_profile": "content/Politicians/Democrats/Senate/Richard Blumenthal/_Richard Blumenthal Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "BLUMENTHAL FOR CONNECTICUT",
+      "BLUMENTHAL, RICHARD"
+    ],
+    "cand_id": "S0CT00177",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00736876": {
+    "committee_id": "C00736876",
+    "fec_name": "WARNOCK, RAPHAEL",
+    "vault_profile": "content/Politicians/Democrats/Senate/Raphael Warnock/_Raphael Warnock Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "WARNOCK FOR GEORGIA",
+      "WARNOCK, RAPHAEL"
+    ],
+    "cand_id": "S0GA00559",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00368506": {
+    "committee_id": "C00368506",
+    "fec_name": "SHAHEEN, JEANNE",
+    "vault_profile": "content/Politicians/Democrats/Senate/Jeanne Shaheen/_Jeanne Shaheen Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "SHAHEEN FOR SENATE  COMMITTEE",
+      "SHAHEEN, JEANNE"
+    ],
+    "cand_id": "S0NH00219",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00457325": {
+    "committee_id": "C00457325",
+    "fec_name": "SHAHEEN, JEANNE",
+    "vault_profile": "content/Politicians/Democrats/Senate/Jeanne Shaheen/_Jeanne Shaheen Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "SHAHEEN FOR SENATE",
+      "SHAHEEN, JEANNE"
+    ],
+    "cand_id": "S0NH00219",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00439075": {
+    "committee_id": "C00439075",
+    "fec_name": "SHAHEEN, JEANNE",
+    "vault_profile": "content/Politicians/Democrats/Senate/Jeanne Shaheen/_Jeanne Shaheen Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "JEANNE SHAHEEN FOR SENATE",
+      "SHAHEEN, JEANNE"
+    ],
+    "cand_id": "S0NH00219",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00840017": {
+    "committee_id": "C00840017",
+    "fec_name": "ALSOBROOKS, ANGELA",
+    "vault_profile": "content/Politicians/Democrats/Senate/Angela D. Alsobrooks/_Angela D. Alsobrooks Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "ALSOBROOKS FOR SENATE",
+      "ALSOBROOKS, ANGELA"
+    ],
+    "cand_id": "S4MD00327",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00410191": {
+    "committee_id": "C00410191",
+    "fec_name": "KLOBUCHAR, AMY",
+    "vault_profile": "content/Politicians/Democrats/Senate/Amy Klobuchar/_Amy Klobuchar Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "KLOBUCHAR FOR MINNESOTA",
+      "KLOBUCHAR, AMY"
+    ],
+    "cand_id": "S6MN00267",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00573949": {
+    "committee_id": "C00573949",
+    "fec_name": "GOTTHEIMER, JOSH",
+    "vault_profile": "content/Politicians/Democrats/House/_Josh Gottheimer Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "JOSH FOR JERSEY",
+      "GOTTHEIMER, JOSH"
+    ],
+    "cand_id": "H6NJ05171",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00289603": {
+    "committee_id": "C00289603",
+    "fec_name": "LOFGREN, ZOE",
+    "vault_profile": "content/Politicians/Democrats/House/Zoe Lofgren/_Zoe Lofgren Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "LOFGREN FOR CONGRESS",
+      "LOFGREN, ZOE"
+    ],
+    "cand_id": "H4CA16049",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00794727": {
+    "committee_id": "C00794727",
+    "fec_name": "FOUSHEE, VALERIE",
+    "vault_profile": "content/Politicians/Democrats/House/Valerie P. Foushee/_Valerie P. Foushee Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "FOUSHEE FOR CONGRESS",
+      "FOUSHEE, VALERIE"
+    ],
+    "cand_id": "H2NC06114",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00856526": {
+    "committee_id": "C00856526",
+    "fec_name": "KENNEDY, TIMOTHY",
+    "vault_profile": "content/Politicians/Democrats/House/Timothy M. Kennedy/_Timothy M. Kennedy Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "KENNEDY FOR CONGRESS",
+      "KENNEDY, TIMOTHY"
+    ],
+    "cand_id": "H4NY26078",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00607200": {
+    "committee_id": "C00607200",
+    "fec_name": "SUOZZI, THOMAS",
+    "vault_profile": "content/Politicians/Democrats/House/Thomas R. Suozzi/_Thomas R. Suozzi Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "SUOZZI FOR CONGRESS",
+      "SUOZZI, THOMAS"
+    ],
+    "cand_id": "H6NY03247",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00578476": {
+    "committee_id": "C00578476",
+    "fec_name": "LEE, SUSIE",
+    "vault_profile": "content/Politicians/Democrats/House/Susie Lee/_Susie Lee Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "SUSIE LEE FOR NEVADA",
+      "LEE, SUSIE"
+    ],
+    "cand_id": "H6NV04020",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00856963": {
+    "committee_id": "C00856963",
+    "fec_name": "SUBRAMANYAM, SUHAS",
+    "vault_profile": "content/Politicians/Democrats/House/Suhas Subramanyam/_Suhas Subramanyam Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "SUHAS FOR VIRGINIA",
+      "SUBRAMANYAM, SUHAS"
+    ],
+    "cand_id": "H4VA10279",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00528182": {
+    "committee_id": "C00528182",
+    "fec_name": "PLASKETT, STACEY",
+    "vault_profile": "content/Politicians/Democrats/House/Stacey E. Plaskett/_Stacey E. Plaskett Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "VIRGIN ISLANDS FOR PLASKETT",
+      "PLASKETT, STACEY"
+    ],
+    "cand_id": "H2VI00082",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00798132": {
+    "committee_id": "C00798132",
+    "fec_name": "THANEDAR, SHRI",
+    "vault_profile": "content/Politicians/Democrats/House/Shri Thanedar/_Shri Thanedar Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "SHRI FOR CONGRESS",
+      "THANEDAR, SHRI"
+    ],
+    "cand_id": "H2MI13204",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00670034": {
+    "committee_id": "C00670034",
+    "fec_name": "DAVIDS, SHARICE",
+    "vault_profile": "content/Politicians/Democrats/House/Sharice Davids/_Sharice Davids Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "SHARICE FOR CONGRESS",
+      "DAVIDS, SHARICE"
+    ],
+    "cand_id": "H8KS03155",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00802504": {
+    "committee_id": "C00802504",
+    "fec_name": "MAGAZINER, SETH",
+    "vault_profile": "content/Politicians/Democrats/House/Seth Magaziner/_Seth Magaziner Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "MAGAZINER FOR CONGRESS",
+      "MAGAZINER, SETH"
+    ],
+    "cand_id": "H2RI02184",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00648493": {
+    "committee_id": "C00648493",
+    "fec_name": "CASTEN, SEAN",
+    "vault_profile": "content/Politicians/Democrats/House/Sean Casten/_Sean Casten Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "CASTEN FOR CONGRESS",
+      "CASTEN, SEAN"
+    ],
+    "cand_id": "H8IL06139",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00503110": {
+    "committee_id": "C00503110",
+    "fec_name": "PETERS, SCOTT",
+    "vault_profile": "content/Politicians/Democrats/House/Scott H. Peters/_Scott H. Peters Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "SCOTT PETERS FOR CONGRESS",
+      "PETERS, SCOTT"
+    ],
+    "cand_id": "H2CA52089",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00345546": {
+    "committee_id": "C00345546",
+    "fec_name": "LARSEN, RICK",
+    "vault_profile": "content/Politicians/Democrats/House/Rick Larsen/_Rick Larsen Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "CITIZENS TO ELECT RICK LARSEN",
+      "LARSEN, RICK"
+    ],
+    "cand_id": "H0WA02080",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00605592": {
+    "committee_id": "C00605592",
+    "fec_name": "JAYAPAL, PRAMILA",
+    "vault_profile": "content/Politicians/Democrats/House/Pramila Jayapal/_Pramila Jayapal Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "PRAMILA FOR CONGRESS",
+      "JAYAPAL, PRAMILA"
+    ],
+    "cand_id": "H6WA07458",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00557652": {
+    "committee_id": "C00557652",
+    "fec_name": "TORRES, NORMA",
+    "vault_profile": "content/Politicians/Democrats/House/Norma J. Torres/_Norma J. Torres Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "NORMA TORRES FOR CONGRESS",
+      "TORRES, NORMA"
+    ],
+    "cand_id": "H4CA35031",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00787812": {
+    "committee_id": "C00787812",
+    "fec_name": "BUDZINSKI, NIKKI",
+    "vault_profile": "content/Politicians/Democrats/House/Nikki Budzinski/_Nikki Budzinski Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "NIKKI FOR CONGRESS",
+      "BUDZINSKI, NIKKI"
+    ],
+    "cand_id": "H2IL13153",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00457556": {
+    "committee_id": "C00457556",
+    "fec_name": "QUIGLEY, MIKE",
+    "vault_profile": "content/Politicians/Democrats/House/Mike Quigley/_Mike Quigley Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "QUIGLEY FOR CONGRESS",
+      "QUIGLEY, MIKE"
+    ],
+    "cand_id": "H0IL05096",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00765099": {
+    "committee_id": "C00765099",
+    "fec_name": "STANSBURY, MELANIE",
+    "vault_profile": "content/Politicians/Democrats/House/Melanie A. Stansbury/_Melanie A. Stansbury Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "MELANIE FOR NEW MEXICO",
+      "STANSBURY, MELANIE"
+    ],
+    "cand_id": "H2NM01144",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00167585": {
+    "committee_id": "C00167585",
+    "fec_name": "WATERS, MAXINE",
+    "vault_profile": "content/Politicians/Democrats/House/Maxine Waters/_Maxine Waters Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "CITIZENS FOR WATERS",
+      "WATERS, MAXINE"
+    ],
+    "cand_id": "H4CA23011",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00859108": {
+    "committee_id": "C00859108",
+    "fec_name": "DEXTER, MAXINE",
+    "vault_profile": "content/Politicians/Democrats/House/Maxine Dexter/_Maxine Dexter Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "MAXINE FOR CONGRESS",
+      "DEXTER, MAXINE"
+    ],
+    "cand_id": "H4OR03192",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00286666": {
+    "committee_id": "C00286666",
+    "fec_name": "TAKANO, MARK",
+    "vault_profile": "content/Politicians/Democrats/House/Mark Takano/_Mark Takano Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "FRIENDS OF MARK TAKANO",
+      "TAKANO, MARK"
+    ],
+    "cand_id": "H2CA43245",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00732826": {
+    "committee_id": "C00732826",
+    "fec_name": "STRICKLAND, MARILYN",
+    "vault_profile": "content/Politicians/Democrats/House/Marilyn Strickland/_Marilyn Strickland Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "STRICKLAND FOR WASHINGTON",
+      "STRICKLAND, MARILYN"
+    ],
+    "cand_id": "H0WA10034",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00878454": {
+    "committee_id": "C00878454",
+    "fec_name": "GOODLANDER, MAGGIE",
+    "vault_profile": "content/Politicians/Democrats/House/Maggie Goodlander/_Maggie Goodlander Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "MAGGIE FOR CONGRESS",
+      "GOODLANDER, MAGGIE"
+    ],
+    "cand_id": "H4NH02399",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00857417": {
+    "committee_id": "C00857417",
+    "fec_name": "RIVAS, LUZ",
+    "vault_profile": "content/Politicians/Democrats/House/Luz M. Rivas/_Luz M. Rivas Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "LUZ RIVAS FOR CONGRESS",
+      "RIVAS, LUZ"
+    ],
+    "cand_id": "H4CA29141",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00655647": {
+    "committee_id": "C00655647",
+    "fec_name": "TRAHAN, LORI",
+    "vault_profile": "content/Politicians/Democrats/House/Lori Trahan/_Lori Trahan Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "LORI TRAHAN FOR CONGRESS COMMITTEE",
+      "TRAHAN, LORI"
+    ],
+    "cand_id": "H8MA03106",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00369363": {
+    "committee_id": "C00369363",
+    "fec_name": "SANCHEZ, LINDA",
+    "vault_profile": "content/Politicians/Democrats/House/Linda T. Sanchez/_Linda T. Sanchez Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "COMMITTEE TO ELECT LINDA SANCHEZ",
+      "SANCHEZ, LINDA"
+    ],
+    "cand_id": "H2CA39078",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00384057": {
+    "committee_id": "C00384057",
+    "fec_name": "SANCHEZ, LINDA",
+    "vault_profile": "content/Politicians/Democrats/House/Linda T. Sanchez/_Linda T. Sanchez Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "STAND WITH SANCHEZ",
+      "SANCHEZ, LINDA"
+    ],
+    "cand_id": "H2CA39078",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00834291": {
+    "committee_id": "C00834291",
+    "fec_name": "SIMON, LATEEFAH",
+    "vault_profile": "content/Politicians/Democrats/House/Lateefah Simon/_Lateefah Simon Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "LATEEFAH FOR CONGRESS",
+      "SIMON, LATEEFAH"
+    ],
+    "cand_id": "H4CA12154",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00410761": {
+    "committee_id": "C00410761",
+    "fec_name": "CASTOR, KATHY",
+    "vault_profile": "content/Politicians/Democrats/House/Kathy Castor/_Kathy Castor Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "CASTOR FOR CONGRESS",
+      "CASTOR, KATHY"
+    ],
+    "cand_id": "H6FL11126",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00541888": {
+    "committee_id": "C00541888",
+    "fec_name": "CLARK, KATHERINE",
+    "vault_profile": "content/Politicians/Democrats/House/Katherine M. Clark/_Katherine M. Clark Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "KATHERINE CLARK FOR CONGRESS",
+      "CLARK, KATHERINE"
+    ],
+    "cand_id": "H4MA05084",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00507368": {
+    "committee_id": "C00507368",
+    "fec_name": "BEATTY, JOYCE",
+    "vault_profile": "content/Politicians/Democrats/House/Joyce Beatty/_Joyce Beatty Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "BEATTY FOR CONGRESS",
+      "BEATTY, JOYCE"
+    ],
+    "cand_id": "H2OH03125",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00462697": {
+    "committee_id": "C00462697",
+    "fec_name": "GARAMENDI, JOHN",
+    "vault_profile": "content/Politicians/Democrats/House/John Garamendi/_John Garamendi Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "GARAMENDI FOR CONGRESS",
+      "GARAMENDI, JOHN"
+    ],
+    "cand_id": "H0CA10149",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00497933": {
+    "committee_id": "C00497933",
+    "fec_name": "CASTRO, JOAQUIN",
+    "vault_profile": "content/Politicians/Democrats/House/Joaquin Castro/_Joaquin Castro Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "CASTRO FOR CONGRESS",
+      "CASTRO, JOAQUIN"
+    ],
+    "cand_id": "H2TX35011",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00661777": {
+    "committee_id": "C00661777",
+    "fec_name": "GARCIA, JESUS",
+    "vault_profile": "content/Politicians/Democrats/House/Jesus G. Chuy Garcia/_Jesus G. Chuy Garcia Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "CHUY GARCIA FOR CONGRESS",
+      "GARCIA, JESUS"
+    ],
+    "cand_id": "H8IL04134",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00829812": {
+    "committee_id": "C00829812",
+    "fec_name": "MCCLELLAN, JENNIFER",
+    "vault_profile": "content/Politicians/Democrats/House/Jennifer L. McClellan/_Jennifer L. McClellan Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "MCCLELLAN FOR CONGRESS",
+      "MCCLELLAN, JENNIFER"
+    ],
+    "cand_id": "H4VA04066",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00491746": {
+    "committee_id": "C00491746",
+    "fec_name": "HUFFMAN, JARED",
+    "vault_profile": "content/Politicians/Democrats/House/Jared Huffman/_Jared Huffman Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "HUFFMAN FOR CONGRESS 2012 EXPLORATORY COMMITTEE",
+      "HUFFMAN, JARED"
+    ],
+    "cand_id": "H2CA06259",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00653816": {
+    "committee_id": "C00653816",
+    "fec_name": "GOLDEN, JARED",
+    "vault_profile": "content/Politicians/Democrats/House/Jared F. Golden/_Jared F. Golden Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "COMMITTEE TO ELECT JARED GOLDEN",
+      "GOLDEN, JARED"
+    ],
+    "cand_id": "H8ME02185",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00843425": {
+    "committee_id": "C00843425",
+    "fec_name": "BYNUM, JANELLE",
+    "vault_profile": "content/Politicians/Democrats/House/Janelle S. Bynum/_Janelle S. Bynum Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "JANELLE BYNUM FOR CONGRESS",
+      "BYNUM, JANELLE"
+    ],
+    "cand_id": "H4OR05304",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00904367": {
+    "committee_id": "C00904367",
+    "fec_name": "WALKINSHAW, JAMES",
+    "vault_profile": "content/Politicians/Democrats/House/James R. Walkinshaw/_James R. Walkinshaw Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "WALKINSHAW FOR CONGRESS",
+      "WALKINSHAW, JAMES"
+    ],
+    "cand_id": "H6VA11066",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00709196": {
+    "committee_id": "C00709196",
+    "fec_name": "BOWMAN, JAMAAL",
+    "vault_profile": "content/Politicians/Democrats/House/Jamaal Bowman/_Jamaal Bowman Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "BOWMAN FOR CONGRESS",
+      "BOWMAN, JAMAAL"
+    ],
+    "cand_id": "H0NY16143",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00677898": {
+    "committee_id": "C00677898",
+    "fec_name": "HAYES, JAHANA",
+    "vault_profile": "content/Politicians/Democrats/House/Jahana Hayes/_Jahana Hayes Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "FRIENDS OF JAHANA HAYES",
+      "HAYES, JAHANA"
+    ],
+    "cand_id": "H8CT05245",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00680934": {
+    "committee_id": "C00680934",
+    "fec_name": "OMAR, ILHAN",
+    "vault_profile": "content/Politicians/Democrats/House/Ilhan Omar/_Ilhan Omar Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "ILHAN FOR CONGRESS",
+      "OMAR, ILHAN"
+    ],
+    "cand_id": "H8MN05239",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00711317": {
+    "committee_id": "C00711317",
+    "fec_name": "SCHOLTEN, HILLARY",
+    "vault_profile": "content/Politicians/Democrats/House/Hillary J. Scholten/_Hillary J. Scholten Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "SCHOLTEN FOR CONGRESS",
+      "SCHOLTEN, HILLARY"
+    ],
+    "cand_id": "H0MI03316",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00783480": {
+    "committee_id": "C00783480",
+    "fec_name": "SCHOLTEN, HILLARY",
+    "vault_profile": "content/Politicians/Democrats/House/Hillary J. Scholten/_Hillary J. Scholten Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "JASON MINNICOZZI FOR CONGRESS",
+      "SCHOLTEN, HILLARY"
+    ],
+    "cand_id": "H0MI03316",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00657304": {
+    "committee_id": "C00657304",
+    "fec_name": "STANTON, GREG",
+    "vault_profile": "content/Politicians/Democrats/House/Greg Stanton/_Greg Stanton Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "STANTON FOR CONGRESS",
+      "STANTON, GREG"
+    ],
+    "cand_id": "H8AZ09040",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00800276": {
+    "committee_id": "C00800276",
+    "fec_name": "LANDSMAN, GREG",
+    "vault_profile": "content/Politicians/Democrats/House/Greg Landsman/_Greg Landsman Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "LANDSMAN FOR CONGRESS",
+      "LANDSMAN, GREG"
+    ],
+    "cand_id": "H2OH01194",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00516666": {
+    "committee_id": "C00516666",
+    "fec_name": "MENG, GRACE",
+    "vault_profile": "content/Politicians/Democrats/House/Grace Meng/_Grace Meng Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "GRACE FOR NEW YORK",
+      "MENG, GRACE"
+    ],
+    "cand_id": "H2NY06116",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00650648": {
+    "committee_id": "C00650648",
+    "fec_name": "CISNEROS, GILBERT",
+    "vault_profile": "content/Politicians/Democrats/House/Gilbert Ray Cisneros/_Gilbert Ray Cisneros Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "CISNEROS FOR CONGRESS",
+      "CISNEROS, GILBERT"
+    ],
+    "cand_id": "H8CA39174",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00793935": {
+    "committee_id": "C00793935",
+    "fec_name": "SORENSEN, ERIC",
+    "vault_profile": "content/Politicians/Democrats/House/Eric Sorensen/_Eric Sorensen Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "ERIC SORENSEN FOR ILLINOIS",
+      "SORENSEN, ERIC"
+    ],
+    "cand_id": "H2IL17147",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00801274": {
+    "committee_id": "C00801274",
+    "fec_name": "SYKES, EMILIA",
+    "vault_profile": "content/Politicians/Democrats/House/Emilia Strong Sykes/_Emilia Strong Sykes Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "EMILIA SYKES FOR CONGRESS",
+      "SYKES, EMILIA"
+    ],
+    "cand_id": "H2OH13264",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00409219": {
+    "committee_id": "C00409219",
+    "fec_name": "MATSUI, DORIS",
+    "vault_profile": "content/Politicians/Democrats/House/Doris O. Matsui/_Doris O. Matsui Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "MATSUI FOR CONGRESS",
+      "MATSUI, DORIS"
+    ],
+    "cand_id": "H6CA05195",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00499467": {
+    "committee_id": "C00499467",
+    "fec_name": "TITUS, DINA",
+    "vault_profile": "content/Politicians/Democrats/House/Dina Titus/_Dina Titus Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "TITUS FOR CONGRESS",
+      "TITUS, DINA"
+    ],
+    "cand_id": "H8NV03036",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00796672": {
+    "committee_id": "C00796672",
+    "fec_name": "RAMIREZ, DELIA",
+    "vault_profile": "content/Politicians/Democrats/House/Delia C. Ramirez/_Delia C. Ramirez Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "UNITED WITH DELIA FOR CONGRESS",
+      "RAMIREZ, DELIA"
+    ],
+    "cand_id": "H2IL03162",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00787648": {
+    "committee_id": "C00787648",
+    "fec_name": "DELUZIO, CHRISTOPHER",
+    "vault_profile": "content/Politicians/Democrats/House/Christopher R. Deluzio/_Christopher R. Deluzio Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "CHRIS DELUZIO FOR CONGRESS",
+      "DELUZIO, CHRISTOPHER"
+    ],
+    "cand_id": "H2PA17103",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00308742": {
+    "committee_id": "C00308742",
+    "fec_name": "SHERMAN, BRAD",
+    "vault_profile": "content/Politicians/Democrats/House/Brad Sherman/_Brad Sherman Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "SHERMAN FOR CONGRESS",
+      "SHERMAN, BRAD"
+    ],
+    "cand_id": "H6CA24113",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00354688": {
+    "committee_id": "C00354688",
+    "fec_name": "MCCOLLUM, BETTY",
+    "vault_profile": "content/Politicians/Democrats/House/Betty McCollum/_Betty McCollum Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "MCCOLLUM FOR CONGRESS",
+      "MCCOLLUM, BETTY"
+    ],
+    "cand_id": "H0MN04049",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00793703": {
+    "committee_id": "C00793703",
+    "fec_name": "SALINAS, ANDREA",
+    "vault_profile": "content/Politicians/Democrats/House/Andrea Salinas/_Andrea Salinas Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "ANDREA SALINAS FOR OREGON",
+      "SALINAS, ANDREA"
+    ],
+    "cand_id": "H2OR06066",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00518365": {
+    "committee_id": "C00518365",
+    "fec_name": "ESPAILLAT, ADRIANO",
+    "vault_profile": "content/Politicians/Democrats/House/Adriano Espaillat/_Adriano Espaillat Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "ESPAILLAT FOR CONGRESS",
+      "ESPAILLAT, ADRIANO"
+    ],
+    "cand_id": "H2NY13096",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00593525": {
+    "committee_id": "C00593525",
+    "fec_name": "ESPAILLAT, ADRIANO",
+    "vault_profile": "content/Politicians/Democrats/House/Adriano Espaillat/_Adriano Espaillat Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "ESPAILLAT FOR CONGRESS 2016",
+      "ESPAILLAT, ADRIANO"
+    ],
+    "cand_id": "H2NY13096",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00635722": {
+    "committee_id": "C00635722",
+    "fec_name": "ESPAILLAT, ADRIANO",
+    "vault_profile": "content/Politicians/Democrats/House/Adriano Espaillat/_Adriano Espaillat Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "ESPAILLAT FOR CONGRESS 2018",
+      "ESPAILLAT, ADRIANO"
+    ],
+    "cand_id": "H2NY13096",
+    "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
+    "mapped_at": "2026-04-25T21:38:41.030Z",
+    "source": "fix-donor-ghost-stubs.cjs"
   }
 }
