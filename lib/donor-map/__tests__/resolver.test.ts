@@ -160,6 +160,150 @@ describe("Resolver", () => {
     }
   })
 
+  it("aliases bioguide stubs under common name forms (the French Hill case)", () => {
+    // legislator-registry stores name_official as "J. French Hill" but
+    // wikilinks across the vault use "French Hill". Without alias
+    // backfill the librarian misses 195 of his connections. Caught by
+    // the shadow scan 2026-04-25.
+    const stores = makeStores({
+      entities: [],
+      legislators: [
+        {
+          bioguide: "H001072",
+          name_official: "J. French Hill",
+          name_first: "J.",
+          name_last: "Hill",
+          name_middle: "French",
+          name_nickname: null,
+          ids: { bioguide: "H001072" },
+        } as RawLegislator & { name_middle: string | null; name_nickname: string | null },
+      ],
+      fec_registry: {},
+    })
+    const r = new Resolver(stores)
+    const byOfficial = r.resolve("J. French Hill")
+    const byCommon = r.resolve("French Hill")
+    assert.equal(byOfficial.id, byCommon.id, "name_official and middle+last must resolve to the same node")
+    assert.equal(byCommon.ids.bioguide, "H001072")
+  })
+
+  it("aliases by nickname + last name (the Bill Clinton case)", () => {
+    const stores = makeStores({
+      entities: [],
+      legislators: [
+        {
+          bioguide: "C000999",
+          name_official: "William Jefferson Clinton",
+          name_first: "William",
+          name_last: "Clinton",
+          name_middle: "Jefferson",
+          name_nickname: "Bill",
+          ids: { bioguide: "C000999" },
+        } as RawLegislator & { name_middle: string | null; name_nickname: string | null },
+      ],
+      fec_registry: {},
+    })
+    const r = new Resolver(stores)
+    assert.equal(r.resolve("Bill Clinton").ids.bioguide, "C000999")
+    assert.equal(r.resolve("William Clinton").ids.bioguide, "C000999")
+    assert.equal(r.resolve("William Jefferson Clinton").ids.bioguide, "C000999")
+  })
+
+  it("does not alias initial-only first names (avoids 'J. Hill' nonsense)", () => {
+    const stores = makeStores({
+      entities: [],
+      legislators: [
+        {
+          bioguide: "H001072",
+          name_official: "J. French Hill",
+          name_first: "J.",
+          name_last: "Hill",
+          name_middle: "French",
+          name_nickname: null,
+          ids: { bioguide: "H001072" },
+        } as RawLegislator & { name_middle: string | null; name_nickname: string | null },
+      ],
+      fec_registry: {},
+    })
+    const r = new Resolver(stores)
+    // "J. Hill" is too generic — would collide with anyone last-named Hill.
+    // The aliasing must skip initial-only first names.
+    assert.equal(r.tryResolve("J. Hill"), null)
+  })
+
+  it("backfills bioguide aliases onto an existing entity (no duplicate stub)", () => {
+    // If entities.jsonl already has a record for the politician under the
+    // common name, the legislator pass should attach the bioguide there
+    // rather than create a parallel stub.
+    const stores = makeStores({
+      entities: [
+        {
+          id: "ent_french",
+          name: "French Hill",
+          profile_path: "content/Politicians/Republicans/House/French Hill/_French Hill Master Profile.md",
+          entity_type: "politician",
+        },
+      ],
+      legislators: [
+        {
+          bioguide: "H001072",
+          name_official: "J. French Hill",
+          name_first: "J.",
+          name_last: "Hill",
+          name_middle: "French",
+          name_nickname: null,
+          ids: { bioguide: "H001072" },
+        } as RawLegislator & { name_middle: string | null; name_nickname: string | null },
+      ],
+      fec_registry: {},
+    })
+    const r = new Resolver(stores)
+    const a = r.resolve("French Hill")
+    const b = r.resolve("J. French Hill")
+    assert.equal(a.id, b.id, "both forms must resolve to the same single entity node")
+    assert.equal(a.id, "ent_french")
+    assert.equal(a.ids.bioguide, "H001072", "bioguide must be merged onto the entity")
+  })
+
+  it("prefers nodes with a profile_path over stubs when aliases collide", () => {
+    // Caught 2026-04-25 in production: a stub entity 'Bob Casey' (no
+    // profile_path, from discovery-scanner) was shadowing the real
+    // Senator under his formal name. When one claimant has a path and
+    // the other doesn't, the path-having node should win silently.
+    const stores = makeStores({
+      entities: [
+        {
+          id: "ent_real_casey",
+          name: "Robert P. Casey",
+          profile_path: "content/Politicians/Democrats/Senate/Robert P. Casey/_Robert P. Casey Master Profile.md",
+          entity_type: "politician",
+        },
+        {
+          id: "ent_stub_casey",
+          name: "Bob Casey",
+          profile_path: null,
+          entity_type: "politician",
+        },
+      ],
+      legislators: [
+        {
+          bioguide: "C001070",
+          name_official: "Robert P. Casey",
+          name_first: "Robert",
+          name_last: "Casey",
+          name_middle: "P.",
+          name_nickname: "Bob",
+          ids: { bioguide: "C001070" },
+        } as RawLegislator & { name_middle: string | null; name_nickname: string | null },
+      ],
+      fec_registry: {},
+    })
+    const r = new Resolver(stores)
+    const byCommon = r.resolve("Bob Casey")
+    assert.equal(byCommon.id, "ent_real_casey", "common name should resolve to the real profile, not the pathless stub")
+    assert.equal(r.ambiguous_aliases.has("bob casey"), false, "no ambiguity should be tracked when path-disambiguation cleared it")
+  })
+
   it("round-trips its own NodeIds (resolve(node.id) === node)", () => {
     // Caught in the wild: graph.neighbors(node.id, ...) failed because
     // inferKind didn't recognize bioguide:X / fec:X / path:X prefixes.
