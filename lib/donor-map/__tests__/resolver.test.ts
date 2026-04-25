@@ -160,6 +160,17 @@ describe("Resolver", () => {
     }
   })
 
+  it("round-trips its own NodeIds (resolve(node.id) === node)", () => {
+    // Caught in the wild: graph.neighbors(node.id, ...) failed because
+    // inferKind didn't recognize bioguide:X / fec:X / path:X prefixes.
+    // Engine must accept its own node ids back without ceremony.
+    const r = new Resolver(makeStores())
+    for (const node of r.allNodes()) {
+      const round = r.resolve(node.id)
+      assert.equal(round.id, node.id, `failed to round-trip ${node.id}`)
+    }
+  })
+
   it("infers input kind from bare strings", () => {
     const r = new Resolver(makeStores())
     // Smoke: each kind reaches a known node.

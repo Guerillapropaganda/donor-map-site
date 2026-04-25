@@ -102,6 +102,13 @@ export class Resolver {
 
   /** Like resolve() but returns null instead of throwing. */
   tryResolve(input: ResolveArg): Node | null {
+    // Round-trip our own NodeIds: if the caller hands back a string we
+    // already minted (entity_id, bioguide:X, fec:X, path:X, name:X), look
+    // it up directly in the canonical node table before going through the
+    // alias / kind-inference paths.
+    if (typeof input === "string" && this.nodes.has(input)) {
+      return this.nodes.get(input) ?? null
+    }
     const directive: ResolveInput = typeof input === "string" ? this.inferKind(input) : input
     let id: NodeId | undefined
     switch (directive.kind) {
