@@ -18857,18 +18857,18 @@
   },
   "C00718627": {
     "committee_id": "C00718627",
-    "fec_name": "HAGERTY, BILL",
-    "committee_type": null,
-    "committee_type_full": null,
-    "designation": null,
-    "designation_full": null,
-    "organization_type": null,
-    "connected_organization_name": null,
-    "candidate_ids": [],
-    "cycles": [],
-    "vault_profile": null,
-    "mapping_reason": "politician campaign committee — S/TN cycle 2026",
-    "mapped_at": "2026-04-20T17:34:24.012Z"
+    "fec_name": "TEAM HAGERTY",
+    "vault_profile": "content/Politicians/Republicans/Senate/Bill Hagerty.md",
+    "vault_slug": null,
+    "aliases": [
+      "TEAM HAGERTY"
+    ],
+    "cand_id": "S0TN00169",
+    "bioguide": "H000601",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
   },
   "C00549295": {
     "committee_id": "C00549295",
@@ -18917,33 +18917,33 @@
   },
   "C00916288": {
     "committee_id": "C00916288",
-    "fec_name": "BROWN, SHERROD",
-    "committee_type": null,
-    "committee_type_full": null,
-    "designation": null,
-    "designation_full": null,
-    "organization_type": null,
-    "connected_organization_name": null,
-    "candidate_ids": [],
-    "cycles": [],
-    "vault_profile": null,
-    "mapping_reason": "politician campaign committee — S/OH cycle 2026",
-    "mapped_at": "2026-04-20T17:34:24.012Z"
+    "fec_name": "FRIENDS OF SHERROD BROWN",
+    "vault_profile": "content/Politicians/Democrats/Former/Sherrod Brown.md",
+    "vault_slug": null,
+    "aliases": [
+      "FRIENDS OF SHERROD BROWN"
+    ],
+    "cand_id": "S6OH00163",
+    "bioguide": "B000944",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
   },
   "C00315176": {
     "committee_id": "C00315176",
-    "fec_name": "FEINSTEIN, DIANNE",
-    "committee_type": null,
-    "committee_type_full": null,
-    "designation": null,
-    "designation_full": null,
-    "organization_type": null,
-    "connected_organization_name": null,
-    "candidate_ids": [],
-    "cycles": [],
-    "vault_profile": null,
-    "mapping_reason": "politician campaign committee — S/CA cycle 1998",
-    "mapped_at": "2026-04-20T17:34:24.012Z"
+    "fec_name": "FEINSTEIN FOR SENATE 2000",
+    "vault_profile": "content/Politicians/Democrats/Senate/Dianne Feinstein.md",
+    "vault_slug": null,
+    "aliases": [
+      "FEINSTEIN FOR SENATE 2000"
+    ],
+    "cand_id": "S0CA00199",
+    "bioguide": "F000062",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
   },
   "C00783142": {
     "committee_id": "C00783142",
@@ -24953,33 +24953,33 @@
   },
   "C00781443": {
     "committee_id": "C00781443",
-    "fec_name": "BRITT, KATIE BOYD",
-    "committee_type": null,
-    "committee_type_full": null,
-    "designation": null,
-    "designation_full": null,
-    "organization_type": null,
-    "connected_organization_name": null,
-    "candidate_ids": [],
-    "cycles": [],
-    "vault_profile": null,
-    "mapping_reason": "politician campaign committee — S/AL cycle 2028",
-    "mapped_at": "2026-04-20T20:18:52.032Z"
+    "fec_name": "BRITT FOR ALABAMA INC",
+    "vault_profile": "content/Politicians/Republicans/Senate/Katie Britt.md",
+    "vault_slug": null,
+    "aliases": [
+      "BRITT FOR ALABAMA INC"
+    ],
+    "cand_id": "S2AL00145",
+    "bioguide": "B001319",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
   },
   "C00699744": {
     "committee_id": "C00699744",
-    "fec_name": "TORRES, RITCHIE JOHN",
-    "committee_type": null,
-    "committee_type_full": null,
-    "designation": null,
-    "designation_full": null,
-    "organization_type": null,
-    "connected_organization_name": null,
-    "candidate_ids": [],
-    "cycles": [],
-    "vault_profile": null,
-    "mapping_reason": "politician campaign committee — H/NY cycle 2026",
-    "mapped_at": "2026-04-20T20:18:52.032Z"
+    "fec_name": "TORRES FOR CONGRESS",
+    "vault_profile": "content/Politicians/Democrats/House/Ritchie Torres.md",
+    "vault_slug": null,
+    "aliases": [
+      "TORRES FOR CONGRESS"
+    ],
+    "cand_id": "H0NY15160",
+    "bioguide": "T000486",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
   },
   "C00397380": {
     "committee_id": "C00397380",
@@ -25013,18 +25013,18 @@
   },
   "C00458398": {
     "committee_id": "C00458398",
-    "fec_name": "BENNET, MICHAEL F.",
-    "committee_type": null,
-    "committee_type_full": null,
-    "designation": null,
-    "designation_full": null,
-    "organization_type": null,
-    "connected_organization_name": null,
-    "candidate_ids": [],
-    "cycles": [],
-    "vault_profile": null,
-    "mapping_reason": "politician campaign committee — S/CO cycle 2028",
-    "mapped_at": "2026-04-20T20:18:52.032Z"
+    "fec_name": "BENNET FOR COLORADO",
+    "vault_profile": "content/Politicians/Democrats/Senate/Michael Bennet.md",
+    "vault_slug": null,
+    "aliases": [
+      "BENNET FOR COLORADO"
+    ],
+    "cand_id": "S0CO00211",
+    "bioguide": "B001267",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
   },
   "C00705186": {
     "committee_id": "C00705186",
@@ -27384,5 +27384,1775 @@
     "mapping_reason": "donor-ghost-stub backfill 2026-04-25",
     "mapped_at": "2026-04-25T21:38:41.030Z",
     "source": "fix-donor-ghost-stubs.cjs"
+  },
+  "C00116632": {
+    "committee_id": "C00116632",
+    "fec_name": "HAL ROGERS FOR CONGRESS",
+    "vault_profile": "content/Politicians/Republicans/House/Harold Rogers/_Harold Rogers Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "HAL ROGERS FOR CONGRESS"
+    ],
+    "cand_id": "H0KY05015",
+    "bioguide": "R000395",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00342790": {
+    "committee_id": "C00342790",
+    "fec_name": "FRIENDS OF STEVE SCALISE FOR CONGRESS",
+    "vault_profile": "content/Politicians/Republicans/House/Steve Scalise/_Steve Scalise Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "FRIENDS OF STEVE SCALISE FOR CONGRESS"
+    ],
+    "cand_id": "H0LA01087",
+    "bioguide": "S001176",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00263616": {
+    "committee_id": "C00263616",
+    "fec_name": "MARK TAKANO FOR CONGRESS CAMPAIGN COMMITTEE",
+    "vault_profile": "content/Politicians/Democrats/House/Mark Takano/_Mark Takano Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "MARK TAKANO FOR CONGRESS CAMPAIGN COMMITTEE"
+    ],
+    "cand_id": "H2CA43245",
+    "bioguide": "T000472",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00335992": {
+    "committee_id": "C00335992",
+    "fec_name": "JIM CLYBURN CAMPAIGN COMMITTEE",
+    "vault_profile": "content/Politicians/Democrats/House/James E. Clyburn/_James E. Clyburn Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "JIM CLYBURN CAMPAIGN COMMITTEE"
+    ],
+    "cand_id": "H2SC02042",
+    "bioguide": "C000537",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00362012": {
+    "committee_id": "C00362012",
+    "fec_name": "AMATA/SAMOA 2000 CAMPAIGN COMMITTEE",
+    "vault_profile": "content/Politicians/Republicans/House/Aumua Amata Coleman Radewagen/_Aumua Amata Coleman Radewagen Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "AMATA/SAMOA 2000 CAMPAIGN COMMITTEE"
+    ],
+    "cand_id": "H4AS00036",
+    "bioguide": "R000600",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00364380": {
+    "committee_id": "C00364380",
+    "fec_name": "FRIENDS OF ROGER WICKER",
+    "vault_profile": "content/Politicians/Republicans/Senate/Roger Wicker/_Roger Wicker Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "FRIENDS OF ROGER WICKER"
+    ],
+    "cand_id": "H4MS01078",
+    "bioguide": "W000437",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00342485": {
+    "committee_id": "C00342485",
+    "fec_name": "FRIENDS OF ROGER WICKER 2000",
+    "vault_profile": "content/Politicians/Republicans/Senate/Roger Wicker/_Roger Wicker Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "FRIENDS OF ROGER WICKER 2000"
+    ],
+    "cand_id": "H4MS01078",
+    "bioguide": "W000437",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00304220": {
+    "committee_id": "C00304220",
+    "fec_name": "BRIAN BABIN FOR CONGRESS",
+    "vault_profile": "content/Politicians/Republicans/House/Brian Babin/_Brian Babin Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "BRIAN BABIN FOR CONGRESS"
+    ],
+    "cand_id": "H6TX02079",
+    "bioguide": "B001291",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00096412": {
+    "committee_id": "C00096412",
+    "fec_name": "COMMITTEE TO RE-ELECT CONGRESSMAN CHRIS SMITH",
+    "vault_profile": "content/Politicians/Republicans/House/Christopher H. Smith/_Christopher H. Smith Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "COMMITTEE TO RE-ELECT CONGRESSMAN CHRIS SMITH"
+    ],
+    "cand_id": "H8NJ04014",
+    "bioguide": "S000522",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00346148": {
+    "committee_id": "C00346148",
+    "fec_name": "MCCAIN 2000 COMPLIANCE COMMITTEE INC",
+    "vault_profile": "content/Politicians/Republicans/Senate/John McCain/_John McCain Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "MCCAIN 2000 COMPLIANCE COMMITTEE INC"
+    ],
+    "cand_id": "P80002801",
+    "bioguide": "M000303",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00279646": {
+    "committee_id": "C00279646",
+    "fec_name": "FEINSTEIN FOR SENATE '94",
+    "vault_profile": "content/Politicians/Democrats/Senate/Dianne Feinstein.md",
+    "vault_slug": null,
+    "aliases": [
+      "FEINSTEIN FOR SENATE '94"
+    ],
+    "cand_id": "S0CA00199",
+    "bioguide": "F000062",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00230482": {
+    "committee_id": "C00230482",
+    "fec_name": "GRASSLEY COMMITTEE",
+    "vault_profile": "content/Politicians/Republicans/Senate/Chuck Grassley/_Chuck Grassley Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "GRASSLEY COMMITTEE"
+    ],
+    "cand_id": "S0IA00028",
+    "bioguide": "G000386",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00346544": {
+    "committee_id": "C00346544",
+    "fec_name": "HILLARY RODHAM CLINTON FOR US SENATE COMMITTEE INC",
+    "vault_profile": "content/Politicians/Democrats/Senate/Hillary Clinton/_Hillary Clinton Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "HILLARY RODHAM CLINTON FOR US SENATE COMMITTEE INC"
+    ],
+    "cand_id": "S0NY00188",
+    "bioguide": "C001041",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00341891": {
+    "committee_id": "C00341891",
+    "fec_name": "MCCAIN FOR SENATE '04",
+    "vault_profile": "content/Politicians/Republicans/Senate/John McCain/_John McCain Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "MCCAIN FOR SENATE '04"
+    ],
+    "cand_id": "S6AZ00019",
+    "bioguide": "M000303",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00346312": {
+    "committee_id": "C00346312",
+    "fec_name": "FRIENDS OF SCHUMER",
+    "vault_profile": "content/Politicians/Democrats/Senate/Chuck Schumer/_Chuck Schumer Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "FRIENDS OF SCHUMER"
+    ],
+    "cand_id": "S8NY00082",
+    "bioguide": "S000148",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00369199": {
+    "committee_id": "C00369199",
+    "fec_name": "COURTNEY FOR CONGRESS",
+    "vault_profile": "content/Politicians/Democrats/House/Joe Courtney/_Joe Courtney Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "COURTNEY FOR CONGRESS"
+    ],
+    "cand_id": "H2CT02112",
+    "bioguide": "C001069",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00382978": {
+    "committee_id": "C00382978",
+    "fec_name": "CASE FOR CONGRESS",
+    "vault_profile": "content/Politicians/Democrats/House/Ed Case/_Ed Case Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "CASE FOR CONGRESS"
+    ],
+    "cand_id": "H2HI02128",
+    "bioguide": "C001055",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00364505": {
+    "committee_id": "C00364505",
+    "fec_name": "LINDSEY GRAHAM FOR SENATE",
+    "vault_profile": "content/Politicians/Republicans/Senate/Lindsey Graham/_Lindsey Graham Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "LINDSEY GRAHAM FOR SENATE"
+    ],
+    "cand_id": "S0SC00149",
+    "bioguide": "G000359",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00408161": {
+    "committee_id": "C00408161",
+    "fec_name": "FRIENDS OF JUAN VARGAS",
+    "vault_profile": "content/Politicians/Democrats/House/Juan Vargas/_Juan Vargas Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "FRIENDS OF JUAN VARGAS"
+    ],
+    "cand_id": "H2CA50026",
+    "bioguide": "V000130",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00393041": {
+    "committee_id": "C00393041",
+    "fec_name": "FRIENDS OF AMATA",
+    "vault_profile": "content/Politicians/Republicans/House/Aumua Amata Coleman Radewagen/_Aumua Amata Coleman Radewagen Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "FRIENDS OF AMATA"
+    ],
+    "cand_id": "H4AS00036",
+    "bioguide": "R000600",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00392100": {
+    "committee_id": "C00392100",
+    "fec_name": "KHANNA FOR CONGRESS",
+    "vault_profile": "content/Politicians/Democrats/House/Ro Khanna/_Ro Khanna Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "KHANNA FOR CONGRESS"
+    ],
+    "cand_id": "H4CA12055",
+    "bioguide": "K000389",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00399881": {
+    "committee_id": "C00399881",
+    "fec_name": "CONAWAY FOR CONGRESS",
+    "vault_profile": "content/Politicians/Democrats/House/Herbert C. Conaway/_Herbert C. Conaway Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "CONAWAY FOR CONGRESS"
+    ],
+    "cand_id": "H4NJ03080",
+    "bioguide": "C001136",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00398941": {
+    "committee_id": "C00398941",
+    "fec_name": "NEW YORKERS FOR YVETTE D CLARKE",
+    "vault_profile": "content/Politicians/Democrats/House/Yvette D. Clarke/_Yvette D. Clarke Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "NEW YORKERS FOR YVETTE D CLARKE"
+    ],
+    "cand_id": "H4NY11138",
+    "bioguide": "C001067",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00392688": {
+    "committee_id": "C00392688",
+    "fec_name": "MCCAUL FOR CONGRESS, INC",
+    "vault_profile": "content/Politicians/Republicans/House/Michael T. McCaul/_Michael T. McCaul Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "MCCAUL FOR CONGRESS, INC"
+    ],
+    "cand_id": "H4TX10093",
+    "bioguide": "M001157",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00408385": {
+    "committee_id": "C00408385",
+    "fec_name": "THE BERNIE SANDERS FUND",
+    "vault_profile": "content/Politicians/Independent/Senate/Bernie Sanders/_Bernie Sanders Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "THE BERNIE SANDERS FUND"
+    ],
+    "cand_id": "H8VT01016",
+    "bioguide": "S000033",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00395228": {
+    "committee_id": "C00395228",
+    "fec_name": "JOHN THUNE FOR US SENATE",
+    "vault_profile": "content/Politicians/Republicans/Senate/John Thune/_John Thune Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "JOHN THUNE FOR US SENATE"
+    ],
+    "cand_id": "S2SD00068",
+    "bioguide": "T000250",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00396044": {
+    "committee_id": "C00396044",
+    "fec_name": "JOHN KENNEDY FOR US SENATE INC",
+    "vault_profile": "content/Politicians/Republicans/Senate/John Kennedy/_John Kennedy Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "JOHN KENNEDY FOR US SENATE INC"
+    ],
+    "cand_id": "S4LA00065",
+    "bioguide": "K000393",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00418525": {
+    "committee_id": "C00418525",
+    "fec_name": "FRIENDS OF TAMMY DUCKWORTH",
+    "vault_profile": "content/Politicians/Democrats/Senate/Tammy Duckworth/_Tammy Duckworth Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "FRIENDS OF TAMMY DUCKWORTH"
+    ],
+    "cand_id": "H6IL06141",
+    "bioguide": "D000622",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00422980": {
+    "committee_id": "C00422980",
+    "fec_name": "COHEN FOR CONGRESS",
+    "vault_profile": "content/Politicians/Democrats/House/Steve Cohen/_Steve Cohen Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "COHEN FOR CONGRESS"
+    ],
+    "cand_id": "H6TN09068",
+    "bioguide": "C001068",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00430991": {
+    "committee_id": "C00430991",
+    "fec_name": "FRIENDS FOR GREGORY MEEKS",
+    "vault_profile": "content/Politicians/Democrats/House/Gregory Meeks/_Gregory Meeks Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "FRIENDS FOR GREGORY MEEKS"
+    ],
+    "cand_id": "H8NY06048",
+    "bioguide": "M001137",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00430470": {
+    "committee_id": "C00430470",
+    "fec_name": "JOHN MCCAIN 2008 INC.",
+    "vault_profile": "content/Politicians/Republicans/Senate/John McCain/_John McCain Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "JOHN MCCAIN 2008 INC."
+    ],
+    "cand_id": "P80002801",
+    "bioguide": "M000303",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00414375": {
+    "committee_id": "C00414375",
+    "fec_name": "NEBRASKA FAMILIES FOR PETE RICKETTS INC",
+    "vault_profile": "content/Politicians/Republicans/Senate/Pete Ricketts/_Pete Ricketts Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "NEBRASKA FAMILIES FOR PETE RICKETTS INC"
+    ],
+    "cand_id": "S6NE00129",
+    "bioguide": "R000618",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00409599": {
+    "committee_id": "C00409599",
+    "fec_name": "PALLONE FOR SENATE",
+    "vault_profile": "content/Politicians/Democrats/House/Frank Pallone/_Frank Pallone Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "PALLONE FOR SENATE"
+    ],
+    "cand_id": "S6NJ00263",
+    "bioguide": "P000034",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00410225": {
+    "committee_id": "C00410225",
+    "fec_name": "BOB CASEY FOR PENNSYLVANIA COMMITTEE",
+    "vault_profile": "content/Politicians/Democrats/Senate/Bob Casey.md",
+    "vault_slug": null,
+    "aliases": [
+      "BOB CASEY FOR PENNSYLVANIA COMMITTEE"
+    ],
+    "cand_id": "S6PA00217",
+    "bioguide": "C001070",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00446815": {
+    "committee_id": "C00446815",
+    "fec_name": "MCCLINTOCK FOR CONGRESS",
+    "vault_profile": "content/Politicians/Republicans/House/Tom McClintock/_Tom McClintock Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "MCCLINTOCK FOR CONGRESS"
+    ],
+    "cand_id": "H8CA04152",
+    "bioguide": "M001177",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00441774": {
+    "committee_id": "C00441774",
+    "fec_name": "MILLER-MEEKS FOR CONGRESS",
+    "vault_profile": "content/Politicians/Republicans/House/Mariannette Miller-Meeks/_Mariannette Miller-Meeks Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "MILLER-MEEKS FOR CONGRESS"
+    ],
+    "cand_id": "H8IA02043",
+    "bioguide": "M001215",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00446799": {
+    "committee_id": "C00446799",
+    "fec_name": "ONDER FOR CONGRESS",
+    "vault_profile": "content/Politicians/Republicans/House/Robert F. Onder/_Robert F. Onder Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "ONDER FOR CONGRESS"
+    ],
+    "cand_id": "H8MO09146",
+    "bioguide": "O000177",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00450577": {
+    "committee_id": "C00450577",
+    "fec_name": "DEMOCRATS TIME IN NEVADA",
+    "vault_profile": "content/Politicians/Democrats/House/Dina Titus/_Dina Titus Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "DEMOCRATS TIME IN NEVADA"
+    ],
+    "cand_id": "H8NV03036",
+    "bioguide": "T000468",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00438697": {
+    "committee_id": "C00438697",
+    "fec_name": "LATTA FOR CONGRESS",
+    "vault_profile": "content/Politicians/Republicans/House/Robert E. Latta/_Robert E. Latta Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "LATTA FOR CONGRESS"
+    ],
+    "cand_id": "H8OH05036",
+    "bioguide": "L000566",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00451245": {
+    "committee_id": "C00451245",
+    "fec_name": "FRIENDS OF CYNTHIA LUMMIS",
+    "vault_profile": "content/Politicians/Republicans/Senate/Cynthia M. Lummis/_Cynthia M. Lummis Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "FRIENDS OF CYNTHIA LUMMIS"
+    ],
+    "cand_id": "H8WY00148",
+    "bioguide": "L000571",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00446104": {
+    "committee_id": "C00446104",
+    "fec_name": "MCCAIN-PALIN COMPLIANCE FUND INC.",
+    "vault_profile": "content/Politicians/Republicans/Senate/John McCain/_John McCain Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "MCCAIN-PALIN COMPLIANCE FUND INC."
+    ],
+    "cand_id": "P80002801",
+    "bioguide": "M000303",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00453928": {
+    "committee_id": "C00453928",
+    "fec_name": "MCCAIN-PALIN 2008 INC",
+    "vault_profile": "content/Politicians/Republicans/Senate/John McCain/_John McCain Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "MCCAIN-PALIN 2008 INC"
+    ],
+    "cand_id": "P80002801",
+    "bioguide": "M000303",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00438713": {
+    "committee_id": "C00438713",
+    "fec_name": "FRIENDS OF MARK WARNER",
+    "vault_profile": "content/Politicians/Democrats/Senate/Mark Warner/_Mark Warner Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "FRIENDS OF MARK WARNER"
+    ],
+    "cand_id": "S6VA00093",
+    "bioguide": "W000805",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00436386": {
+    "committee_id": "C00436386",
+    "fec_name": "FRIENDS OF JOHN BARRASSO",
+    "vault_profile": "content/Politicians/Republicans/Senate/John Barrasso/_John Barrasso Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "FRIENDS OF JOHN BARRASSO"
+    ],
+    "cand_id": "S6WY00068",
+    "bioguide": "B001261",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00474569": {
+    "committee_id": "C00474569",
+    "fec_name": "CRAMER FOR CONGRESS",
+    "vault_profile": "content/Politicians/Republicans/Senate/Kevin Cramer/_Kevin Cramer Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "CRAMER FOR CONGRESS"
+    ],
+    "cand_id": "H0ND01026",
+    "bioguide": "C001096",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00472092": {
+    "committee_id": "C00472092",
+    "fec_name": "MILLER-MEEKS FOR CONGRESS",
+    "vault_profile": "content/Politicians/Republicans/House/Mariannette Miller-Meeks/_Mariannette Miller-Meeks Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "MILLER-MEEKS FOR CONGRESS"
+    ],
+    "cand_id": "H8IA02043",
+    "bioguide": "M001215",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00463190": {
+    "committee_id": "C00463190",
+    "fec_name": "HOOSIERS FOR STUTZMAN",
+    "vault_profile": "content/Politicians/Republicans/House/Marlin A. Stutzman/_Marlin A. Stutzman Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "HOOSIERS FOR STUTZMAN"
+    ],
+    "cand_id": "S0IN00095",
+    "bioguide": "S001188",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00466748": {
+    "committee_id": "C00466748",
+    "fec_name": "STEPHEN F LYNCH FOR SENATE",
+    "vault_profile": "content/Politicians/Democrats/House/Stephen F. Lynch/_Stephen F. Lynch Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "STEPHEN F LYNCH FOR SENATE"
+    ],
+    "cand_id": "S0MA00083",
+    "bioguide": "L000562",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00497321": {
+    "committee_id": "C00497321",
+    "fec_name": "VARGAS FOR CONGRESS",
+    "vault_profile": "content/Politicians/Democrats/House/Juan Vargas/_Juan Vargas Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "VARGAS FOR CONGRESS"
+    ],
+    "cand_id": "H2CA50026",
+    "bioguide": "V000130",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00504613": {
+    "committee_id": "C00504613",
+    "fec_name": "HORSFORD FOR CONGRESS",
+    "vault_profile": "content/Politicians/Democrats/House/Steven Horsford/_Steven Horsford Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "HORSFORD FOR CONGRESS"
+    ],
+    "cand_id": "H2NV04011",
+    "bioguide": "H001066",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00504746": {
+    "committee_id": "C00504746",
+    "fec_name": "BONAMICI NOMINEE FUND",
+    "vault_profile": "content/Politicians/Democrats/House/Suzanne Bonamici/_Suzanne Bonamici Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "BONAMICI NOMINEE FUND"
+    ],
+    "cand_id": "H2OR01133",
+    "bioguide": "B001278",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00539890": {
+    "committee_id": "C00539890",
+    "fec_name": "FEINSTEIN FOR SENATE 2024",
+    "vault_profile": "content/Politicians/Democrats/Senate/Dianne Feinstein.md",
+    "vault_slug": null,
+    "aliases": [
+      "FEINSTEIN FOR SENATE 2024"
+    ],
+    "cand_id": "S0CA00199",
+    "bioguide": "F000062",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00540310": {
+    "committee_id": "C00540310",
+    "fec_name": "SEDONA PAC",
+    "vault_profile": "content/Politicians/Republicans/Senate/John McCain/_John McCain Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "SEDONA PAC"
+    ],
+    "cand_id": "S6AZ00019",
+    "bioguide": "M000303",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00540617": {
+    "committee_id": "C00540617",
+    "fec_name": "FRIENDS OF DAVID SCHWEIKERT",
+    "vault_profile": "content/Politicians/Republicans/House/David Schweikert/_David Schweikert Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "FRIENDS OF DAVID SCHWEIKERT"
+    ],
+    "cand_id": "H4AZ06045",
+    "bioguide": "S001183",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00677492": {
+    "committee_id": "C00677492",
+    "fec_name": "SHEILA CHERFILUS MCCORMICK FOR CONGRESS, INC",
+    "vault_profile": "content/Politicians/Democrats/House/Sheila Cherfilus-McCormick/_Sheila Cherfilus-McCormick Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "SHEILA CHERFILUS MCCORMICK FOR CONGRESS, INC"
+    ],
+    "cand_id": "H8FL20032",
+    "bioguide": "C001127",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00670844": {
+    "committee_id": "C00670844",
+    "fec_name": "MAD 4 PA PAC",
+    "vault_profile": "content/Politicians/Democrats/House/Madeleine Dean/_Madeleine Dean Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "MAD 4 PA PAC"
+    ],
+    "cand_id": "H8PA04116",
+    "bioguide": "D000631",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00688051": {
+    "committee_id": "C00688051",
+    "fec_name": "SCANLON FOR VICTORY FUND",
+    "vault_profile": "content/Politicians/Democrats/House/Mary Gay Scanlon/_Mary Gay Scanlon Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "SCANLON FOR VICTORY FUND"
+    ],
+    "cand_id": "H8PA07200",
+    "bioguide": "S001205",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00654723": {
+    "committee_id": "C00654723",
+    "fec_name": "MEUSER FOR CONGRESS",
+    "vault_profile": "content/Politicians/Republicans/House/Daniel Meuser/_Daniel Meuser Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "MEUSER FOR CONGRESS"
+    ],
+    "cand_id": "H8PA10147",
+    "bioguide": "M001204",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00655175": {
+    "committee_id": "C00655175",
+    "fec_name": "MACKENZIE FOR CONGRESS",
+    "vault_profile": "content/Politicians/Republicans/House/Ryan Mackenzie/_Ryan Mackenzie Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "MACKENZIE FOR CONGRESS"
+    ],
+    "cand_id": "H8PA15195",
+    "bioguide": "M001230",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00662932": {
+    "committee_id": "C00662932",
+    "fec_name": "TEXANS FOR JAKE ELLZEY",
+    "vault_profile": "content/Politicians/Republicans/House/Jake Ellzey/_Jake Ellzey Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "TEXANS FOR JAKE ELLZEY"
+    ],
+    "cand_id": "H8TX06266",
+    "bioguide": "E000071",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00744045": {
+    "committee_id": "C00744045",
+    "fec_name": "WARRIOR ON THE HILL",
+    "vault_profile": "content/Politicians/Democrats/House/Eleanor Holmes Norton/_Eleanor Holmes Norton Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "WARRIOR ON THE HILL"
+    ],
+    "cand_id": "H0DC00058",
+    "bioguide": "N000147",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00702522": {
+    "committee_id": "C00702522",
+    "fec_name": "LUNA FOR FL-13",
+    "vault_profile": "content/Politicians/Republicans/House/Anna Paulina Luna/_Anna Paulina Luna Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "LUNA FOR FL-13"
+    ],
+    "cand_id": "H0FL13158",
+    "bioguide": "L000596",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00740100": {
+    "committee_id": "C00740100",
+    "fec_name": "CLYDE FOR CONGRESS, INC.",
+    "vault_profile": "content/Politicians/Republicans/House/Andrew S. Clyde/_Andrew S. Clyde Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "CLYDE FOR CONGRESS, INC."
+    ],
+    "cand_id": "H0GA09246",
+    "bioguide": "C001116",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00702738": {
+    "committee_id": "C00702738",
+    "fec_name": "KEAN FOR NJ-07",
+    "vault_profile": "content/Politicians/Republicans/House/Thomas H. Kean/_Thomas H. Kean Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "KEAN FOR NJ-07"
+    ],
+    "cand_id": "H0NJ07261",
+    "bioguide": "K000398",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00763250": {
+    "committee_id": "C00763250",
+    "fec_name": "KEAN FOR CONGRESS RECOUNT FUND",
+    "vault_profile": "content/Politicians/Republicans/House/Thomas H. Kean/_Thomas H. Kean Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "KEAN FOR CONGRESS RECOUNT FUND"
+    ],
+    "cand_id": "H0NJ07261",
+    "bioguide": "K000398",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00712521": {
+    "committee_id": "C00712521",
+    "fec_name": "SC 01-NANCY MACE NOMINEE FUND 2020",
+    "vault_profile": "content/Politicians/Republicans/House/Nancy Mace.md",
+    "vault_slug": null,
+    "aliases": [
+      "SC 01-NANCY MACE NOMINEE FUND 2020"
+    ],
+    "cand_id": "H0SC01394",
+    "bioguide": "M000194",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00702878": {
+    "committee_id": "C00702878",
+    "fec_name": "MACE FOR SC-01",
+    "vault_profile": "content/Politicians/Republicans/House/Nancy Mace.md",
+    "vault_slug": null,
+    "aliases": [
+      "MACE FOR SC-01"
+    ],
+    "cand_id": "H0SC01394",
+    "bioguide": "M000194",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00723072": {
+    "committee_id": "C00723072",
+    "fec_name": "MONICA DE LA CRUZ HERNANDEZ FOR US CONGRESS",
+    "vault_profile": "content/Politicians/Republicans/House/Monica de la Cruz/_Monica de la Cruz Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "MONICA DE LA CRUZ HERNANDEZ FOR US CONGRESS"
+    ],
+    "cand_id": "H0TX15124",
+    "bioguide": "D000594",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00718957": {
+    "committee_id": "C00718957",
+    "fec_name": "VAN DUYNE FOR TX-24",
+    "vault_profile": "content/Politicians/Republicans/House/Beth van Duyne/_Beth van Duyne Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "VAN DUYNE FOR TX-24"
+    ],
+    "cand_id": "H0TX24209",
+    "bioguide": "V000134",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00717785": {
+    "committee_id": "C00717785",
+    "fec_name": "GONZALES FOR TX-23",
+    "vault_profile": "content/Politicians/Republicans/House/Tony Gonzales/_Tony Gonzales Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "GONZALES FOR TX-23"
+    ],
+    "cand_id": "H0TX35015",
+    "bioguide": "G000594",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00702951": {
+    "committee_id": "C00702951",
+    "fec_name": "VAN ORDEN FOR WI-03",
+    "vault_profile": "content/Politicians/Republicans/House/Derrick van Orden/_Derrick van Orden Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "VAN ORDEN FOR WI-03"
+    ],
+    "cand_id": "H0WI03175",
+    "bioguide": "V000135",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00702548": {
+    "committee_id": "C00702548",
+    "fec_name": "SALAZAR FOR FL-27",
+    "vault_profile": "content/Politicians/Republicans/House/Maria Elvira Salazar/_Maria Elvira Salazar Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "SALAZAR FOR FL-27"
+    ],
+    "cand_id": "H8FL27185",
+    "bioguide": "S000168",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00765198": {
+    "committee_id": "C00765198",
+    "fec_name": "LEADING PEOPLE FORWARD PAC",
+    "vault_profile": "content/Politicians/Democrats/House/Lizzie Fletcher/_Lizzie Fletcher Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "LEADING PEOPLE FORWARD PAC"
+    ],
+    "cand_id": "H8TX07140",
+    "bioguide": "F000468",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00705962": {
+    "committee_id": "C00705962",
+    "fec_name": "ALABAMA SENATE REPUBLICAN NOMINEE FUND - TOMMY TUBERVILLE",
+    "vault_profile": "content/Politicians/Republicans/Senate/Tommy Tuberville/_Tommy Tuberville Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "ALABAMA SENATE REPUBLICAN NOMINEE FUND - TOMMY TUBERVILLE"
+    ],
+    "cand_id": "S0AL00230",
+    "bioguide": "T000278",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00705814": {
+    "committee_id": "C00705814",
+    "fec_name": "KANSAS SENATE REPUBLICAN NOMINEE FUND - ROGER MARSHALL",
+    "vault_profile": "content/Politicians/Republicans/Senate/Roger Marshall/_Roger Marshall Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "KANSAS SENATE REPUBLICAN NOMINEE FUND - ROGER MARSHALL"
+    ],
+    "cand_id": "S0KS00315",
+    "bioguide": "M001198",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00705574": {
+    "committee_id": "C00705574",
+    "fec_name": "FRIENDS OF LINDSEY GRAHAM",
+    "vault_profile": "content/Politicians/Republicans/Senate/Lindsey Graham/_Lindsey Graham Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "FRIENDS OF LINDSEY GRAHAM"
+    ],
+    "cand_id": "S0SC00149",
+    "bioguide": "G000359",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00705467": {
+    "committee_id": "C00705467",
+    "fec_name": "WYOMING SENATE REPUBLICAN NOMINEE FUND - CYNTHIA LUMMIS",
+    "vault_profile": "content/Politicians/Republicans/Senate/Cynthia M. Lummis/_Cynthia M. Lummis Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "WYOMING SENATE REPUBLICAN NOMINEE FUND - CYNTHIA LUMMIS"
+    ],
+    "cand_id": "S0WY00137",
+    "bioguide": "L000571",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00705806": {
+    "committee_id": "C00705806",
+    "fec_name": "KENTUCKY SENATE REPUBLICAN NOMINEE FUND - MITCH MCCONNELL",
+    "vault_profile": "content/Politicians/Republicans/Senate/Mitch McConnell/_Mitch McConnell Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "KENTUCKY SENATE REPUBLICAN NOMINEE FUND - MITCH MCCONNELL"
+    ],
+    "cand_id": "S2KY00012",
+    "bioguide": "M000355",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00751404": {
+    "committee_id": "C00751404",
+    "fec_name": "DAINES, STEVE",
+    "vault_profile": "content/Politicians/Republicans/Senate/Steve Daines/_Steve Daines Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "DAINES, STEVE"
+    ],
+    "cand_id": "S2MT00096",
+    "bioguide": "D000618",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00705541": {
+    "committee_id": "C00705541",
+    "fec_name": "FRIENDS OF JOHN CORNYN",
+    "vault_profile": "content/Politicians/Republicans/Senate/John Cornyn/_John Cornyn Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "FRIENDS OF JOHN CORNYN"
+    ],
+    "cand_id": "S2TX00106",
+    "bioguide": "C001056",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00705939": {
+    "committee_id": "C00705939",
+    "fec_name": "ARKANSAS SENATE REPUBLICAN NOMINEE FUND - TOM COTTON",
+    "vault_profile": "content/Politicians/Republicans/Senate/Tom Cotton/_Tom Cotton Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "ARKANSAS SENATE REPUBLICAN NOMINEE FUND - TOM COTTON"
+    ],
+    "cand_id": "S4AR00103",
+    "bioguide": "C001095",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00705822": {
+    "committee_id": "C00705822",
+    "fec_name": "JONI ERNST NOMINEE FUND",
+    "vault_profile": "content/Politicians/Republicans/Senate/Joni Ernst/_Joni Ernst Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "JONI ERNST NOMINEE FUND"
+    ],
+    "cand_id": "S4IA00129",
+    "bioguide": "E000295",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00705616": {
+    "committee_id": "C00705616",
+    "fec_name": "OKLAHOMA SENATE REPUBLICAN NOMINEE FUND - JIM INHOFE",
+    "vault_profile": "content/Politicians/Republicans/Senate/Jim Inhofe/_Jim Inhofe Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "OKLAHOMA SENATE REPUBLICAN NOMINEE FUND - JIM INHOFE"
+    ],
+    "cand_id": "S4OK00083",
+    "bioguide": "I000024",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00705780": {
+    "committee_id": "C00705780",
+    "fec_name": "MAINE SENATE REPUBLICAN NOMINEE FUND - SUSAN COLLINS",
+    "vault_profile": "content/Politicians/Republicans/Senate/Susan Collins/_Susan Collins Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "MAINE SENATE REPUBLICAN NOMINEE FUND - SUSAN COLLINS"
+    ],
+    "cand_id": "S6ME00159",
+    "bioguide": "C001035",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00705855": {
+    "committee_id": "C00705855",
+    "fec_name": "SUPPORTERS OF JIM RISCH",
+    "vault_profile": "content/Politicians/Republicans/Senate/Jim Risch/_Jim Risch Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "SUPPORTERS OF JIM RISCH"
+    ],
+    "cand_id": "S8ID00092",
+    "bioguide": "R000584",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00775098": {
+    "committee_id": "C00775098",
+    "fec_name": "LUNA FOR FL-13",
+    "vault_profile": "content/Politicians/Republicans/House/Anna Paulina Luna/_Anna Paulina Luna Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "LUNA FOR FL-13"
+    ],
+    "cand_id": "H0FL13158",
+    "bioguide": "L000596",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00775106": {
+    "committee_id": "C00775106",
+    "fec_name": "MCCORMICK FOR GA-06",
+    "vault_profile": "content/Politicians/Republicans/House/Richard McCormick/_Richard McCormick Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "MCCORMICK FOR GA-06"
+    ],
+    "cand_id": "H0GA07273",
+    "bioguide": "M001218",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00775650": {
+    "committee_id": "C00775650",
+    "fec_name": "KEAN FOR NJ-07 2022",
+    "vault_profile": "content/Politicians/Republicans/House/Thomas H. Kean/_Thomas H. Kean Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "KEAN FOR NJ-07 2022"
+    ],
+    "cand_id": "H0NJ07261",
+    "bioguide": "K000398",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00775858": {
+    "committee_id": "C00775858",
+    "fec_name": "DE LA CRUZ FOR TX-15",
+    "vault_profile": "content/Politicians/Republicans/House/Monica de la Cruz/_Monica de la Cruz Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "DE LA CRUZ FOR TX-15"
+    ],
+    "cand_id": "H0TX15124",
+    "bioguide": "D000594",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00773325": {
+    "committee_id": "C00773325",
+    "fec_name": "TX-15 REPUBLICAN NOMINEE FUND 2022",
+    "vault_profile": "content/Politicians/Republicans/House/Monica de la Cruz/_Monica de la Cruz Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "TX-15 REPUBLICAN NOMINEE FUND 2022"
+    ],
+    "cand_id": "H0TX15124",
+    "bioguide": "D000594",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00775940": {
+    "committee_id": "C00775940",
+    "fec_name": "VAN ORDEN FOR WI-03 2022",
+    "vault_profile": "content/Politicians/Republicans/House/Derrick van Orden/_Derrick van Orden Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "VAN ORDEN FOR WI-03 2022"
+    ],
+    "cand_id": "H0WI03175",
+    "bioguide": "V000135",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00773259": {
+    "committee_id": "C00773259",
+    "fec_name": "CRANE FOR AZ-02 REPUBLICAN NOMINEE FUND 2022",
+    "vault_profile": "content/Politicians/Republicans/House/Elijah Crane/_Elijah Crane Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "CRANE FOR AZ-02 REPUBLICAN NOMINEE FUND 2022"
+    ],
+    "cand_id": "H2AZ01354",
+    "bioguide": "C001132",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00775007": {
+    "committee_id": "C00775007",
+    "fec_name": "CRANE FOR AZ-02",
+    "vault_profile": "content/Politicians/Republicans/House/Elijah Crane/_Elijah Crane Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "CRANE FOR AZ-02"
+    ],
+    "cand_id": "H2AZ01354",
+    "bioguide": "C001132",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00828434": {
+    "committee_id": "C00828434",
+    "fec_name": "ADAM GRAY FOR CONGRESS RECOUNT FUND",
+    "vault_profile": "content/Politicians/Democrats/House/Adam Gray/_Adam Gray Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "ADAM GRAY FOR CONGRESS RECOUNT FUND"
+    ],
+    "cand_id": "H2CA13115",
+    "bioguide": "G000605",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00818872": {
+    "committee_id": "C00818872",
+    "fec_name": "BEAN FOR FL-04",
+    "vault_profile": "content/Politicians/Republicans/House/Aaron Bean/_Aaron Bean Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "BEAN FOR FL-04"
+    ],
+    "cand_id": "H2FL04211",
+    "bioguide": "B001314",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00815373": {
+    "committee_id": "C00815373",
+    "fec_name": "LAUREL LEE FOR CONGRESS, INC.",
+    "vault_profile": "content/Politicians/Republicans/House/Laurel M. Lee/_Laurel M. Lee Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "LAUREL LEE FOR CONGRESS, INC."
+    ],
+    "cand_id": "H2FL15241",
+    "bioguide": "L000597",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00773531": {
+    "committee_id": "C00773531",
+    "fec_name": "NUNN FOR IA-03 REPUBLICAN NOMINEE FUND 2022",
+    "vault_profile": "content/Politicians/Republicans/House/Zachary Nunn/_Zachary Nunn Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "NUNN FOR IA-03 REPUBLICAN NOMINEE FUND 2022"
+    ],
+    "cand_id": "H2IA03119",
+    "bioguide": "N000193",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00775122": {
+    "committee_id": "C00775122",
+    "fec_name": "NUNN FOR IA-03",
+    "vault_profile": "content/Politicians/Republicans/House/Zachary Nunn/_Zachary Nunn Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "NUNN FOR IA-03"
+    ],
+    "cand_id": "H2IA03119",
+    "bioguide": "N000193",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00798686": {
+    "committee_id": "C00798686",
+    "fec_name": "BARRETT FOR MI-07",
+    "vault_profile": "content/Politicians/Republicans/House/Tom Barrett/_Tom Barrett Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "BARRETT FOR MI-07"
+    ],
+    "cand_id": "H2MI07123",
+    "bioguide": "B001321",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00818955": {
+    "committee_id": "C00818955",
+    "fec_name": "LAWLER FOR NY-17",
+    "vault_profile": "content/Politicians/Republicans/House/Michael Lawler/_Michael Lawler Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "LAWLER FOR NY-17"
+    ],
+    "cand_id": "H2NY17162",
+    "bioguide": "L000599",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00779603": {
+    "committee_id": "C00779603",
+    "fec_name": "CAREY FOR CONGRESS",
+    "vault_profile": "content/Politicians/Republicans/House/Mike Carey/_Mike Carey Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "CAREY FOR CONGRESS"
+    ],
+    "cand_id": "H2OH15228",
+    "bioguide": "C001126",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00818997": {
+    "committee_id": "C00818997",
+    "fec_name": "OGLES FOR TN-05",
+    "vault_profile": "content/Politicians/Republicans/House/Andrew Ogles/_Andrew Ogles Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "OGLES FOR TN-05"
+    ],
+    "cand_id": "H2TN05446",
+    "bioguide": "O000175",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00828947": {
+    "committee_id": "C00828947",
+    "fec_name": "MOORE FOR WEST VIRGINIA, INC.",
+    "vault_profile": "content/Politicians/Republicans/House/Riley M. Moore/_Riley M. Moore Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "MOORE FOR WEST VIRGINIA, INC."
+    ],
+    "cand_id": "H4WV02205",
+    "bioguide": "M001235",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00253955": {
+    "committee_id": "C00253955",
+    "fec_name": "SYLVIA GARCIA FOR US CONGRESS COMMITTEE",
+    "vault_profile": "content/Politicians/Democrats/House/Sylvia R. Garcia/_Sylvia R. Garcia Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "SYLVIA GARCIA FOR US CONGRESS COMMITTEE"
+    ],
+    "cand_id": "H8TX29052",
+    "bioguide": "G000587",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00772954": {
+    "committee_id": "C00772954",
+    "fec_name": "BRITT FOR AL SENATE REPUBLICAN NOMINEE FUND 2022",
+    "vault_profile": "content/Politicians/Republicans/Senate/Katie Britt.md",
+    "vault_slug": null,
+    "aliases": [
+      "BRITT FOR AL SENATE REPUBLICAN NOMINEE FUND 2022"
+    ],
+    "cand_id": "S2AL00145",
+    "bioguide": "B001319",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00772889": {
+    "committee_id": "C00772889",
+    "fec_name": "BUDD FOR NC SENATE REPUBLICAN NOMINEE FUND 2022",
+    "vault_profile": "content/Politicians/Republicans/Senate/Ted Budd/_Ted Budd Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "BUDD FOR NC SENATE REPUBLICAN NOMINEE FUND 2022"
+    ],
+    "cand_id": "S2NC00505",
+    "bioguide": "B001305",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00800623": {
+    "committee_id": "C00800623",
+    "fec_name": "DAVE MCCORMICK FOR US SENATE",
+    "vault_profile": "content/Politicians/Republicans/Senate/David McCormick/_David McCormick Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "DAVE MCCORMICK FOR US SENATE"
+    ],
+    "cand_id": "S2PA00661",
+    "bioguide": "M001243",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00856617": {
+    "committee_id": "C00856617",
+    "fec_name": "BEGICH FOR AK-AL REPUBLICAN NOMINEE FUND 2024",
+    "vault_profile": "content/Politicians/Republicans/House/Nicholas J. Begich/_Nicholas J. Begich Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "BEGICH FOR AK-AL REPUBLICAN NOMINEE FUND 2024"
+    ],
+    "cand_id": "H2AK01083",
+    "bioguide": "B001323",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00857805": {
+    "committee_id": "C00857805",
+    "fec_name": "GABE EVANS-GTM NF CO08",
+    "vault_profile": "content/Politicians/Republicans/House/Gabe Evans/_Gabe Evans Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "GABE EVANS-GTM NF CO08"
+    ],
+    "cand_id": "H4CO08034",
+    "bioguide": "E000300",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00856633": {
+    "committee_id": "C00856633",
+    "fec_name": "EVANS FOR CO-08 REPUBLICAN NOMINEE FUND 2024",
+    "vault_profile": "content/Politicians/Republicans/House/Gabe Evans/_Gabe Evans Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "EVANS FOR CO-08 REPUBLICAN NOMINEE FUND 2024"
+    ],
+    "cand_id": "H4CO08034",
+    "bioguide": "E000300",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00858357": {
+    "committee_id": "C00858357",
+    "fec_name": "MACKENZIE FOR CONGRESS-GTM NF PA07",
+    "vault_profile": "content/Politicians/Republicans/House/Ryan Mackenzie/_Ryan Mackenzie Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "MACKENZIE FOR CONGRESS-GTM NF PA07"
+    ],
+    "cand_id": "H8PA15195",
+    "bioguide": "M001230",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00856690": {
+    "committee_id": "C00856690",
+    "fec_name": "MACKENZIE FOR PA-07 REPUBLICAN NOMINEE FUND 2024",
+    "vault_profile": "content/Politicians/Republicans/House/Ryan Mackenzie/_Ryan Mackenzie Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "MACKENZIE FOR PA-07 REPUBLICAN NOMINEE FUND 2024"
+    ],
+    "cand_id": "H8PA15195",
+    "bioguide": "M001230",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00829515": {
+    "committee_id": "C00829515",
+    "fec_name": "MCCORMICK FOR PA SENATE REPUBLICAN NOMINEE FUND 2024",
+    "vault_profile": "content/Politicians/Republicans/Senate/David McCormick/_David McCormick Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "MCCORMICK FOR PA SENATE REPUBLICAN NOMINEE FUND 2024"
+    ],
+    "cand_id": "S2PA00661",
+    "bioguide": "M001243",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00829416": {
+    "committee_id": "C00829416",
+    "fec_name": "BANKS FOR IN SENATE REPUBLICAN NOMINEE FUND 2024",
+    "vault_profile": "content/Politicians/Republicans/Senate/Jim Banks/_Jim Banks Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "BANKS FOR IN SENATE REPUBLICAN NOMINEE FUND 2024"
+    ],
+    "cand_id": "S4IN00196",
+    "bioguide": "B001299",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00775585": {
+    "committee_id": "C00775585",
+    "fec_name": "BERNIE MORENO FOR OHIO",
+    "vault_profile": "content/Politicians/Republicans/Senate/Bernie Moreno.md",
+    "vault_slug": null,
+    "aliases": [
+      "BERNIE MORENO FOR OHIO"
+    ],
+    "cand_id": "S4OH00192",
+    "bioguide": "M001242",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00829499": {
+    "committee_id": "C00829499",
+    "fec_name": "MORENO FOR OH SENATE REPUBLICAN NOMINEE FUND 2024",
+    "vault_profile": "content/Politicians/Republicans/Senate/Bernie Moreno.md",
+    "vault_slug": null,
+    "aliases": [
+      "MORENO FOR OH SENATE REPUBLICAN NOMINEE FUND 2024"
+    ],
+    "cand_id": "S4OH00192",
+    "bioguide": "M001242",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00780833": {
+    "committee_id": "C00780833",
+    "fec_name": "JUSTICE FOR WV SENATE REPUBLICAN NOMINEE FUND 2024",
+    "vault_profile": "content/Politicians/Republicans/Senate/James C. Justice/_James C. Justice Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "JUSTICE FOR WV SENATE REPUBLICAN NOMINEE FUND 2024"
+    ],
+    "cand_id": "S4WV00332",
+    "bioguide": "J000312",
+    "designation": "A",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
+  },
+  "C00850420": {
+    "committee_id": "C00850420",
+    "fec_name": "CISNEROS FOR CONGRESS",
+    "vault_profile": "content/Politicians/Democrats/House/Gilbert Ray Cisneros/_Gilbert Ray Cisneros Master Profile.md",
+    "vault_slug": null,
+    "aliases": [
+      "CISNEROS FOR CONGRESS"
+    ],
+    "cand_id": "H8CA39174",
+    "bioguide": "C001123",
+    "designation": "P",
+    "mapping_reason": "bulk-register-candidate-committees 2026-04-25",
+    "mapped_at": "2026-04-25T21:46:45.075Z",
+    "source": "bulk-register-candidate-committees.cjs"
   }
 }
