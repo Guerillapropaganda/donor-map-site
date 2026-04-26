@@ -65,3 +65,36 @@ export function fetchVault(opts?: { refresh?: boolean }): Promise<VaultPayload> 
 export function invalidateVault() {
   entry = null
 }
+
+// ─── Harness artifact cache ────────────────────────────────────────
+// HarnessChip is mounted in the header bar of most ops pages, so
+// /api/vault-audit GET was being hit on every navigation. Same
+// dedupe pattern: short TTL (30s) so the chip's "X min ago" stays
+// honest, but multiple components asking concurrently share one
+// fetch.
+
+const HARNESS_TTL_MS = 30_000
+let harnessEntry: { promise: Promise<unknown>; timestamp: number } | null = null
+
+export function fetchHarnessArtifact(opts?: { refresh?: boolean }): Promise<unknown> {
+  const refresh = opts?.refresh === true
+  const now = Date.now()
+
+  if (harnessEntry && !refresh && now - harnessEntry.timestamp < HARNESS_TTL_MS) {
+    return harnessEntry.promise
+  }
+
+  const promise = fetch("/api/vault-audit", { credentials: "include" })
+    .then((r) => r.json())
+    .catch((e) => {
+      if (harnessEntry?.promise === promise) harnessEntry = null
+      throw e
+    })
+
+  harnessEntry = { promise, timestamp: now }
+  return promise
+}
+
+export function invalidateHarness() {
+  harnessEntry = null
+}

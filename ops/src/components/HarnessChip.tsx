@@ -24,6 +24,7 @@
  */
 
 import { useCallback, useEffect, useState } from "react"
+import { fetchHarnessArtifact, invalidateHarness } from "@/lib/vault-cache"
 
 const STALE_MINUTES = 15
 
@@ -79,6 +80,10 @@ export default function HarnessChip({ onLoad, autoRerun = true }: Props) {
       } else {
         setArtifact(data as HarnessArtifact)
         onLoad?.(data as HarnessArtifact)
+        // Drop the shared module cache so other pages pick up the
+        // freshly-rerun artifact on their next mount instead of
+        // reading the stale cached version.
+        invalidateHarness()
       }
     } catch (e) {
       setError(e instanceof Error ? e.message : "failed to re-run harness")
@@ -92,8 +97,10 @@ export default function HarnessChip({ onLoad, autoRerun = true }: Props) {
     ;(async () => {
       try {
         setError(null)
-        const res = await fetch("/api/vault-audit", { credentials: "include" })
-        const data = await res.json()
+        // Shared module cache (vault-cache.ts) so each ops page navigation
+        // doesn't re-fetch the artifact when HarnessChip is mounted in
+        // the header bar of every page.
+        const data = (await fetchHarnessArtifact()) as HarnessArtifact
         if (cancelled) return
         if (data.error && !data.generated_at) {
           setError(data.error)
