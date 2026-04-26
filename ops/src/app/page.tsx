@@ -6,6 +6,7 @@ import Link from "next/link"
 import type { Profile, VaultStats } from "@/lib/vault"
 import { StatsBar } from "@/components/StatsBar"
 import { VaultGrid } from "@/components/VaultGrid"
+import PreviewServerToggle from "@/components/PreviewServerToggle"
 import { ProfileDetail } from "@/components/ProfileDetail"
 import { ActivityFeed } from "@/components/ActivityFeed"
 import { TypeBreakdown } from "@/components/TypeBreakdown"
@@ -325,6 +326,10 @@ export default function Dashboard() {
               </button>
             )
           })()}
+          {/* Local Quartz preview server — start once per session, leave
+              it running. The editor's Live Site tab embeds whatever this
+              points at (localhost:8080). */}
+          <PreviewServerToggle compact />
           <button
             onClick={() => loadVault(true)}
             disabled={loading}
