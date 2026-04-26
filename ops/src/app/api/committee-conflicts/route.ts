@@ -1,6 +1,7 @@
 import { NextResponse } from "next/server"
 import * as fs from "fs"
 import * as path from "path"
+import { canonicalPoliticianName } from "@/lib/donor-map-politician-resolver"
 
 const ROOT = path.join(process.cwd(), "..")
 const COMMITTEES_FILE = path.join(ROOT, "data", "committee-assignments.json")
@@ -38,7 +39,7 @@ function loadAllTrades(): SimpleTrade[] {
         for (const tx of filing.transactions || []) {
           if (!tx.ticker) continue
           trades.push({
-            politician: filing.filer?.name?.replace(/^Hon\.\s*/, "") || "Unknown",
+            politician: canonicalPoliticianName(filing.filer?.name || ""),
             ticker: tx.ticker || null,
             type: tx.transactionType || "Unknown",
             amount: tx.amount || { min: 0, max: 0, text: "Unknown" },
@@ -60,7 +61,7 @@ function loadAllTrades(): SimpleTrade[] {
           for (const tx of filing.transactions || []) {
             if (!tx.ticker) continue
             trades.push({
-              politician: filing.filer?.name?.replace(/^Hon\.\s*/, "") || "Unknown",
+              politician: canonicalPoliticianName(filing.filer?.name || ""),
               ticker: tx.ticker || null,
               type: tx.transactionType || "Unknown",
               amount: tx.amount || { min: 0, max: 0, text: "Unknown" },

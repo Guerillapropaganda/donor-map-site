@@ -1,6 +1,7 @@
 import { NextResponse } from "next/server"
 import * as fs from "fs"
 import * as path from "path"
+import { canonicalPoliticianName } from "@/lib/donor-map-politician-resolver"
 
 /**
  * /api/trade-stories — Generate plain-English narratives from trade data
@@ -77,7 +78,7 @@ function loadTrades(): any[] {
       if (raw.filings) {
         for (const f of raw.filings) {
           for (const tx of f.transactions || []) {
-            trades.push({ ...tx, politician: f.filer?.name?.replace(/^Hon\.\s*/, '') || 'Unknown', chamber: f.chamber || 'House', filingDate: f.filing?.date })
+            trades.push({ ...tx, politician: canonicalPoliticianName(f.filer?.name || ''), chamber: f.chamber || 'House', filingDate: f.filing?.date })
           }
         }
       }
@@ -85,7 +86,7 @@ function loadTrades(): any[] {
         for (const [, yd] of Object.entries(raw.years as Record<string, any>)) {
           for (const f of yd.filings || []) {
             for (const tx of f.transactions || []) {
-              trades.push({ ...tx, politician: f.filer?.name?.replace(/^Hon\.\s*/, '') || 'Unknown', chamber: f.chamber || 'House', filingDate: f.filing?.date })
+              trades.push({ ...tx, politician: canonicalPoliticianName(f.filer?.name || ''), chamber: f.chamber || 'House', filingDate: f.filing?.date })
             }
           }
         }

@@ -1,6 +1,7 @@
 import { NextResponse } from "next/server"
 import * as fs from "fs"
 import * as path from "path"
+import { canonicalPoliticianName } from "@/lib/donor-map-politician-resolver"
 
 const ROOT = path.join(process.cwd(), "..")
 const VOTES_FILE = path.join(ROOT, "data", "crypto-votes.json")
@@ -80,7 +81,7 @@ function loadAllCryptoTrades(): SimpleTrade[] {
         for (const tx of filing.transactions || []) {
           if (isCrypto(tx.ticker, tx.assetDescription || "")) {
             trades.push({
-              politician: filing.filer?.name?.replace(/^Hon\.\s*/, "") || "Unknown",
+              politician: canonicalPoliticianName(filing.filer?.name || ""),
               ticker: tx.ticker || null,
               type: tx.transactionType || "Unknown",
               amount: tx.amount || { min: 0, max: 0, text: "Unknown" },
@@ -103,7 +104,7 @@ function loadAllCryptoTrades(): SimpleTrade[] {
           for (const tx of filing.transactions || []) {
             if (isCrypto(tx.ticker, tx.assetDescription || "") || tx.isCrypto) {
               trades.push({
-                politician: filing.filer?.name?.replace(/^Hon\.\s*/, "") || "Unknown",
+                politician: canonicalPoliticianName(filing.filer?.name || ""),
                 ticker: tx.ticker || null,
                 type: tx.transactionType || "Unknown",
                 amount: tx.amount || { min: 0, max: 0, text: "Unknown" },

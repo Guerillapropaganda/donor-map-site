@@ -1,6 +1,7 @@
 import { NextResponse } from "next/server"
 import * as fs from "fs"
 import * as path from "path"
+import { canonicalPoliticianName } from "@/lib/donor-map-politician-resolver"
 
 const ROOT = path.join(process.cwd(), "..")
 const CURRENT_FILE = path.join(ROOT, "data", "financial-disclosures.json")
@@ -56,7 +57,7 @@ function loadAllTrades(): Trade[] {
         const parsed = parseDate(tx.transactionDate || "")
         if (!parsed) continue
         trades.push({
-          politician: filing.filer?.name?.replace(/^Hon\.\s*/, "") || "Unknown",
+          politician: canonicalPoliticianName(filing.filer?.name || ""),
           ticker: tx.ticker,
           type: tx.transactionType || "Unknown",
           amount: amt,
