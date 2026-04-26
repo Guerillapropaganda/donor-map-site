@@ -512,17 +512,38 @@ export default function AttentionPage() {
                     {softenWhy(e.why)}
                   </p>
                   <div className="flex items-center justify-between gap-3">
-                    <div className="text-[9px] text-[var(--color-text-dim)] font-mono truncate">
-                      {e.where}
+                    {isFilePath ? (
+                      <Link
+                        href={linkHref}
+                        title="Open in editor"
+                        className="text-[9px] text-[var(--color-text-dim)] hover:text-[var(--color-steel)] font-mono truncate transition-colors"
+                      >
+                        {e.where}
+                      </Link>
+                    ) : (
+                      <div className="text-[9px] text-[var(--color-text-dim)] font-mono truncate">
+                        {e.where}
+                      </div>
+                    )}
+                    <div className="flex-shrink-0 flex items-center gap-2">
+                      {isFilePath && (
+                        <Link
+                          href={linkHref}
+                          title="Open this profile in the editor to fix the issue"
+                          className="text-[9px] uppercase tracking-wider px-2 py-1 rounded border border-[var(--color-steel)]/40 text-[var(--color-steel)] hover:text-[var(--color-text)] hover:border-[var(--color-steel)] transition-colors"
+                        >
+                          ✎ edit
+                        </Link>
+                      )}
+                      <button
+                        onClick={() => rejectItem(e)}
+                        disabled={isRejecting}
+                        title="Mark as false positive. The script will learn to skip this pattern on future runs."
+                        className="text-[9px] uppercase tracking-wider px-2 py-1 rounded border border-[var(--color-border)] text-[var(--color-text-dim)] hover:text-[var(--color-red)] hover:border-[var(--color-red)] disabled:opacity-50 disabled:cursor-wait transition-colors"
+                      >
+                        {isRejecting ? "rejecting…" : "✕ reject"}
+                      </button>
                     </div>
-                    <button
-                      onClick={() => rejectItem(e)}
-                      disabled={isRejecting}
-                      title="Mark as false positive. The script will learn to skip this pattern on future runs."
-                      className="flex-shrink-0 text-[9px] uppercase tracking-wider px-2 py-1 rounded border border-[var(--color-border)] text-[var(--color-text-dim)] hover:text-[var(--color-red)] hover:border-[var(--color-red)] disabled:opacity-50 disabled:cursor-wait transition-colors"
-                    >
-                      {isRejecting ? "rejecting…" : "✕ reject"}
-                    </button>
                   </div>
                 </div>
               )
