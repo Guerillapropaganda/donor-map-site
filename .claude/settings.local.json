@@ -161,7 +161,10 @@
       "Bash(timeout 30 node -e ' *)",
       "Bash(node scripts/stamp-note-kinds.cjs)",
       "Bash(node scripts/stamp-note-kinds.cjs --write)",
-      "Bash(grep -n \"connections$\\\\|d3SvgRef\\\\|<svg ref\\\\|graph-view\\\\|graph-container\" /c/Users/third/donor-map-site/.claude/worktrees/optimistic-wright-2b30bd/ops/src/app/relationships/page.tsx)"
+      "Bash(grep -n \"connections$\\\\|d3SvgRef\\\\|<svg ref\\\\|graph-view\\\\|graph-container\" /c/Users/third/donor-map-site/.claude/worktrees/optimistic-wright-2b30bd/ops/src/app/relationships/page.tsx)",
+      "Bash(grep -rln 'fetch\\(\"/api/vault\"\\)\\\\|fetch\\(`/api/vault\\\\|\"/api/vault\"' /c/Users/third/donor-map-site/ops/src/app/)",
+      "Bash(git checkout *)",
+      "Bash(git restore *)"
     ]
   }
 }
