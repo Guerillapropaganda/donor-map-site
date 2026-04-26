@@ -335,11 +335,21 @@ export default function MoneyTrailPage() {
       }
     })
 
-    // Drag
+    // Drag is satellite-only. The center node stays anchored at viewport
+    // center because that's where the centering forces (forceCenter,
+    // forceX/Y) target. Allowing the user to drag the center caused
+    // the visual focal point to detach from where satellites cluster,
+    // producing the stretched-link look. To refocus on a different
+    // entity, click a satellite — that rebuilds the graph centered
+    // on that one.
     const dragBehavior = d3Drag<SVGGElement, ForceNode>()
+      .filter((event) => {
+        const d = (event.target as SVGGElement & { __data__?: ForceNode }).__data__
+        return !d || !d.isCenter
+      })
       .on("start", (event, d) => { if (!event.active) sim.alphaTarget(0.1).restart(); d.fx = d.x; d.fy = d.y })
-      .on("drag", (_, d) => { d.fx = (d3Drag as any).event?.x ?? d.x; d.fy = (d3Drag as any).event?.y ?? d.y })
-      .on("end", (event, d) => { if (!event.active) sim.alphaTarget(0); if (!d.isCenter) { d.fx = null; d.fy = null } })
+      .on("drag", (event, d) => { d.fx = event.x; d.fy = event.y })
+      .on("end", (event, d) => { if (!event.active) sim.alphaTarget(0); d.fx = null; d.fy = null })
     nodeEls.call(dragBehavior as any)
 
     // Fix drag to use event properly
