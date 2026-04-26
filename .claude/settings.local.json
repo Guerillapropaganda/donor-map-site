@@ -160,7 +160,8 @@
       "Bash(node scripts/note-auto-resolver.cjs --json)",
       "Bash(timeout 30 node -e ' *)",
       "Bash(node scripts/stamp-note-kinds.cjs)",
-      "Bash(node scripts/stamp-note-kinds.cjs --write)"
+      "Bash(node scripts/stamp-note-kinds.cjs --write)",
+      "Bash(grep -n \"connections$\\\\|d3SvgRef\\\\|<svg ref\\\\|graph-view\\\\|graph-container\" /c/Users/third/donor-map-site/.claude/worktrees/optimistic-wright-2b30bd/ops/src/app/relationships/page.tsx)"
     ]
   }
 }

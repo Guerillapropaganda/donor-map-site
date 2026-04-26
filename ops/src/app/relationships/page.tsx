@@ -269,6 +269,16 @@ export default function RelationshipsPage() {
   const [graphFilterTypes, setGraphFilterTypes] = useState<Set<string>>(new Set(["related", "donors", "opposes", "stories"]))
   const [graphEntityFilters, setGraphEntityFilters] = useState<Set<string>>(new Set(["politician", "donor", "corporation", "think-tank", "lobbying-firm", "media-profile", "story", "pac", "unknown"]))
   const [hoveredNode, setHoveredNode] = useState<string | null>(null)
+  // Hub profiles like RNC have 15K+ connections. SVG/D3 force layout
+  // chokes past ~500 nodes. Default to the top-N by connection count
+  // (most-connected entities first — they're the structural backbone
+  // of the network). Click any node to re-center; the next view shows
+  // ITS top-N. Effectively infinite browsing without ever rendering
+  // 15K nodes at once. `showAllNodes` is the escape hatch for users
+  // who genuinely want the giant blob — at their own performance risk.
+  const GRAPH_NODE_CAP = 200
+  const [showAllNodes, setShowAllNodes] = useState(false)
+  const [hiddenNodeCount, setHiddenNodeCount] = useState(0)
 
   // Attach non-passive wheel listener so we can preventDefault
   useEffect(() => {
@@ -358,7 +368,16 @@ export default function RelationshipsPage() {
     // Pass 2: only include nodes that have at least one ACTIVE type
     // Priority for coloring: opposes > donors > stories > related
     const typePriority = ["opposes", "donors", "stories", "related"] as const
-    const nodes: ForceNode[] = []
+    // Connection-count lookup so we can rank candidate nodes by how
+    // central they are to the broader graph (highly-connected nodes are
+    // the most informative neighbors when capping).
+    const connCountByNorm = new Map<string, number>()
+    for (const tp of topConnected) connCountByNorm.set(norm(tp.title), tp.connectionCount || 0)
+
+    interface ScoredNode extends ForceNode {
+      score: number
+    }
+    const candidates: ScoredNode[] = []
     for (const [normalizedName, info] of nameTypes) {
       const activeTypes = [...info.types].filter(t => graphFilterTypes.has(t))
       if (activeTypes.length === 0) continue
@@ -368,8 +387,32 @@ export default function RelationshipsPage() {
       const et = entityTypeMap.get(normalizedName) || "unknown"
       // Apply entity type filter
       if (!graphEntityFilters.has(et)) continue
-      nodes.push({ id: info.originalName, name: info.originalName, relType: primaryType, entityType: et, bothSides: bs, hasNote: !!relationNotes[noteKey]?.note })
+      // Score: own connection count + bonuses for both-sides (always
+      // surface contradictions) and for having an editorial note.
+      const score =
+        (connCountByNorm.get(normalizedName) || 0) +
+        (bs ? 10000 : 0) +
+        (relationNotes[noteKey]?.note ? 500 : 0)
+      candidates.push({
+        id: info.originalName,
+        name: info.originalName,
+        relType: primaryType,
+        entityType: et,
+        bothSides: bs,
+        hasNote: !!relationNotes[noteKey]?.note,
+        score,
+      })
     }
+
+    // Sort by score (highest first) and apply the cap unless the user
+    // has explicitly opted into showing everything.
+    candidates.sort((a, b) => b.score - a.score)
+    const totalCandidates = candidates.length
+    const capped = !showAllNodes && totalCandidates > GRAPH_NODE_CAP
+    const visible = capped ? candidates.slice(0, GRAPH_NODE_CAP) : candidates
+    setHiddenNodeCount(capped ? totalCandidates - GRAPH_NODE_CAP : 0)
+    // Strip the score field — the render code below expects ForceNode.
+    const nodes: ForceNode[] = visible.map(({ score: _s, ...n }) => n)
 
     // Center node
     const centerNode: ForceNode = { id: "__center__", name: selected.title, relType: "related", entityType: selected.type, bothSides: false, hasNote: false }
@@ -587,7 +630,7 @@ export default function RelationshipsPage() {
     })
 
     return () => { sim.stop() }
-  }, [selected, tab, graphFilterTypes, graphEntityFilters, relationNotes])
+  }, [selected, tab, graphFilterTypes, graphEntityFilters, relationNotes, showAllNodes, topConnected])
 
   useEffect(() => {
     Promise.all([
@@ -1505,8 +1548,31 @@ export default function RelationshipsPage() {
             /* ===== GRAPH VIEW — D3 force-directed ===== */
             <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-4" style={{ minHeight: "60vh" }}>
               <div className="flex items-center justify-between mb-3 flex-wrap gap-2">
-                <div className="text-[10px] text-[var(--color-text-dim)]">
-                  {selected.title} — {selected.connectionCount} connections
+                <div className="text-[10px] text-[var(--color-text-dim)] flex items-center gap-2 flex-wrap">
+                  <span>
+                    {selected.title} — {selected.connectionCount} connections
+                  </span>
+                  {hiddenNodeCount > 0 && !showAllNodes && (
+                    <span
+                      className="px-2 py-0.5 rounded border border-[var(--color-amber)]/40 text-[var(--color-amber)] bg-[var(--color-amber)]/10"
+                      title={`Showing the ${GRAPH_NODE_CAP} most-connected neighbors. Click any node to re-center on it and explore its neighborhood — you can wander the whole graph one hop at a time.`}
+                    >
+                      showing top {GRAPH_NODE_CAP} of {GRAPH_NODE_CAP + hiddenNodeCount} · click any node to dive in
+                    </span>
+                  )}
+                  {showAllNodes && (
+                    <span className="px-2 py-0.5 rounded border border-[var(--color-red)]/40 text-[var(--color-red)] bg-[var(--color-red)]/10">
+                      showing all nodes — performance may suffer
+                    </span>
+                  )}
+                  {(hiddenNodeCount > 0 || showAllNodes) && (
+                    <button
+                      onClick={() => setShowAllNodes(!showAllNodes)}
+                      className="text-[9px] text-[var(--color-steel)] hover:underline"
+                    >
+                      {showAllNodes ? `cap to top ${GRAPH_NODE_CAP}` : "show all anyway"}
+                    </button>
+                  )}
                   {hoveredNode && <span className="ml-2 text-[var(--color-text)]">| {hoveredNode}</span>}
                 </div>
                 {/* Type filter toggles */}
