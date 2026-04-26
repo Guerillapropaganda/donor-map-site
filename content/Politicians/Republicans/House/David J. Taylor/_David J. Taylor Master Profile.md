@@ -33,7 +33,7 @@ committees:
   - Water Resources and Environment
 bills-sponsored: 28
 corroboration-count: 2
-top-donors: "[[National Cattlemen's Beef Association]], [[JIM JORDAN FOR CONGRESS]], [[BRANDON GILL FOR TEXAS]], [[National Restaurant Association]], [[Koch Industries]], [[Guy Reschenthaler]], [[TROY DOWNING FOR CONGRESS]], [[David P. Joyce]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[AIPAC - American Israel Public Affairs Committee]], [[National Right to Life Victory Fund]], [[Carol D. Miller]], [[Brett Guthrie]], [[Frank Lucas]], [[National Education Association]], [[Associated General Contractors of America Political Action Committee]], [[NRA Political Victory Fund]], [[MOORE FOR WEST VIRGINIA, INC.]], [[Williams Companies]], [[DAVID ROUZER FOR CONGRESS]], [[Tom Emmer]], [[Steve Scalise]]"
+top-donors: "[[National Cattlemen's Beef Association]], [[JIM JORDAN FOR CONGRESS]], [[BRANDON GILL FOR TEXAS]], [[National Restaurant Association]], [[Koch Industries]], [[Guy Reschenthaler]], [[TROY DOWNING FOR CONGRESS]], [[David P. Joyce]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[AIPAC - American Israel Public Affairs Committee]], [[National Right to Life Victory Fund]], [[Carol D. Miller]], [[Brett Guthrie]], [[Frank Lucas]], [[National Education Association]], [[Associated General Contractors of America Political Action Committee]], [[NRA Political Victory Fund]], [[MOORE FOR WEST VIRGINIA, INC.]], [[Williams Companies]], [[DAVID ROUZER FOR CONGRESS]], [[Tom Emmer]], [[Steve Scalise]], [[David Rouzer]], [[Jim Jordan]], [[Brandon Gill]], [[Troy Downing]]"
 ---
 
 

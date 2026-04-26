@@ -33,7 +33,7 @@ committees:
   - Modernization and Innovation
   - National Security, Department of State, and Related Programs
   - Transportation, Housing and Urban Development, and Related Agencies
-top-donors: "[[International Association of Firefighters Interested in Registration and Education PAC]], [[Google - Alphabet]], [[Donald S. Beyer]], [[AIPAC - American Israel Public Affairs Committee]], [[Amgen Inc]], [[Planned Parenthood Action Fund INC]], [[Pfizer Inc.]], [[Blue Shield of California]], [[Gilead Sciences]], [[National Education Association]], [[League of Conservation Voters]], [[Leidos]], [[Giffords PAC]], [[TED LIEU FOR CONGRESS]], [[National Restaurant Association]], [[MIKE THOMPSON FOR CONGRESS]], [[Frank Pallone]], [[American College of Radiology Association PAC]], [[Demand Justice]], [[AbbVie]], [[Let America Vote PAC]], [[Richard Neal]], [[Akin Gump Strauss Hauer & Feld]], [[Nucor Corporation]], [[AFL-CIO]], [[Harry Reid]], [[Tyson Foods]]"
+top-donors: "[[International Association of Firefighters Interested in Registration and Education PAC]], [[Google - Alphabet]], [[Donald S. Beyer]], [[AIPAC - American Israel Public Affairs Committee]], [[Amgen Inc]], [[Planned Parenthood Action Fund INC]], [[Pfizer Inc.]], [[Blue Shield of California]], [[Gilead Sciences]], [[National Education Association]], [[League of Conservation Voters]], [[Leidos]], [[Giffords PAC]], [[TED LIEU FOR CONGRESS]], [[National Restaurant Association]], [[MIKE THOMPSON FOR CONGRESS]], [[Frank Pallone]], [[American College of Radiology Association PAC]], [[Demand Justice]], [[AbbVie]], [[Let America Vote PAC]], [[Richard Neal]], [[Akin Gump Strauss Hauer & Feld]], [[Nucor Corporation]], [[AFL-CIO]], [[Harry Reid]], [[Tyson Foods]], [[Ted Lieu]], [[Mike Thompson]]"
 ---
 
 

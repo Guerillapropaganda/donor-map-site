@@ -23,7 +23,7 @@ known-gaps:
 executive-orders: 310
 presidential-memoranda: 89
 proclamations: 761
-donors: "[[Media Matters]] · [[MICHIGAN REPUBLICAN PARTY]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[International Brotherhood of Electrical Workers Local 98 Committee on Political Education]] · [[AFL-CIO]] · [[One Nation United]] · [[NANCY PELOSI FOR CONGRESS]]"
+donors: "[[Media Matters]] · [[MICHIGAN REPUBLICAN PARTY]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[International Brotherhood of Electrical Workers Local 98 Committee on Political Education]] · [[AFL-CIO]] · [[One Nation United]] · [[NANCY PELOSI FOR CONGRESS]] · [[Nancy Pelosi]]"
 urls-first-triaged: "2026-04-15"
 ---
 

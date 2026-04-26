@@ -26,7 +26,7 @@ bills-sponsored: 47
 bills-cosponsored: 432
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[Chevron]], [[Sierra Club Political Committee]], [[MBNA Corporation]], [[J Street]], [[Sanford D. Bishop]], [[National Education Association]], [[Richard Neal]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[DOGGETT FOR U S CONGRESS COMMITTEE]], [[Akin Gump Strauss Hauer & Feld]], [[Frank Pallone]], [[James E. Clyburn]], [[Planned Parenthood Action Fund INC]], [[AFL-CIO]], [[Bennie Thompson]], [[MEDICARE FOR ALL]], [[TED LIEU FOR CONGRESS]], [[National Committee to Preserve Social Security & Medicare PAC]]"
+top-donors: "[[Chevron]], [[Sierra Club Political Committee]], [[MBNA Corporation]], [[J Street]], [[Sanford D. Bishop]], [[National Education Association]], [[Richard Neal]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[DOGGETT FOR U S CONGRESS COMMITTEE]], [[Akin Gump Strauss Hauer & Feld]], [[Frank Pallone]], [[James E. Clyburn]], [[Planned Parenthood Action Fund INC]], [[AFL-CIO]], [[Bennie Thompson]], [[MEDICARE FOR ALL]], [[TED LIEU FOR CONGRESS]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Ted Lieu]], [[Lloyd Doggett]]"
 last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Border Security and Enforcement

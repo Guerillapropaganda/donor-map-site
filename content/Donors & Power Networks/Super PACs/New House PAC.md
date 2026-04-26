@@ -12,7 +12,7 @@ aliases:
   - NEW HOUSE PAC
 known-gaps:
   - No lobbying disclosure data
-politicians-funded: "[[Melissa Bean]], [[BANNON RESEARCH, INC.]], [[Clear Voice Minnesota]], [[WOLFSON, HOWARD]], [[ACTION MEDIA, INC.]], [[TRULL, CHRISTOPHER]], [[HOWARD AGENCY]], [[VIACOM]], [[MANTZ, JONATHAN]], [[PRINT SYSTEMS, INC.]], [[GAFFNEY, MEGHAN]], [[BARNEGAT GROUP, LLC]], [[PERKINS COIE, LLP]], [[James A. Himes]], [[Ami Bera]], [[Martin Heinrich]], [[Suzan K. Delbene]], [[Gerry Connolly]], [[Chris Murphy]], [[Tammy Duckworth]]"
+politicians-funded: "[[Melissa Bean]], [[BANNON RESEARCH, INC.]], [[Clear Voice Minnesota]], [[WOLFSON, HOWARD]], [[ACTION MEDIA, INC.]], [[TRULL, CHRISTOPHER]], [[HOWARD AGENCY]], [[VIACOM]], [[MANTZ, JONATHAN]], [[PRINT SYSTEMS, INC.]], [[GAFFNEY, MEGHAN]], [[BARNEGAT GROUP, LLC]], [[PERKINS COIE, LLP]], [[James A. Himes]], [[Ami Bera]], [[Martin Heinrich]], [[Suzan K. Delbene]], [[Gerry Connolly]], [[Chris Murphy]], [[Tammy Duckworth]], [[Jim Himes]]"
 related: "[[Melissa Bean]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

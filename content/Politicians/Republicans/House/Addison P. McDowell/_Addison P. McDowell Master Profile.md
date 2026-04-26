@@ -34,7 +34,7 @@ committees:
   - Water, Wildlife and Fisheries
 bills-sponsored: 12
 corroboration-count: 2
-top-donors: "[[JIM JORDAN FOR CONGRESS]], [[VIRGINIA FOXX FOR CONGRESS]], [[AIPAC - American Israel Public Affairs Committee]], [[Ben Carson]], [[TEXANS FOR JODEY ARRINGTON]], [[Tom Emmer]], [[Steve Scalise]], [[TROY DOWNING FOR CONGRESS]], [[Pfizer Inc.]], [[FRIENDS OF TIM MOORE]], [[NRA Political Victory Fund]], [[Coinbase]], [[Brandon Gill]], [[Hunter Action Fund (haf)]], [[MIKE HARIDOPOLOS FOR CONGRESS]], [[Carol D. Miller]], [[BRANDON GILL FOR TEXAS]], [[Nucor Corporation]], [[Brett Guthrie]], [[Koch Industries]], [[Associated General Contractors of America Political Action Committee]], [[Gregory F. Murphy]], [[MOORE FOR WEST VIRGINIA, INC.]], [[National Restaurant Association]], [[TED BUDD FOR SENATE]], [[Campaign for Working Families]], [[David P. Joyce]]"
+top-donors: "[[JIM JORDAN FOR CONGRESS]], [[VIRGINIA FOXX FOR CONGRESS]], [[AIPAC - American Israel Public Affairs Committee]], [[Ben Carson]], [[TEXANS FOR JODEY ARRINGTON]], [[Tom Emmer]], [[Steve Scalise]], [[TROY DOWNING FOR CONGRESS]], [[Pfizer Inc.]], [[FRIENDS OF TIM MOORE]], [[NRA Political Victory Fund]], [[Coinbase]], [[Brandon Gill]], [[Hunter Action Fund (haf)]], [[MIKE HARIDOPOLOS FOR CONGRESS]], [[Carol D. Miller]], [[BRANDON GILL FOR TEXAS]], [[Nucor Corporation]], [[Brett Guthrie]], [[Koch Industries]], [[Associated General Contractors of America Political Action Committee]], [[Gregory F. Murphy]], [[MOORE FOR WEST VIRGINIA, INC.]], [[National Restaurant Association]], [[TED BUDD FOR SENATE]], [[Campaign for Working Families]], [[David P. Joyce]], [[Ted Budd]], [[Tim Moore]], [[Mike Haridopolos]], [[Virginia Foxx]], [[Jim Jordan]], [[Troy Downing]], [[Jodey Arrington]]"
 ---
 
 

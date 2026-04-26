@@ -35,7 +35,7 @@ committees:
   - National Intelligence Enterprise
   - Social Security
   - Tax
-top-donors: "[[Pfizer Inc.]], [[Amgen Inc]], [[Google - Alphabet]], [[Tyson Foods]], [[AbbVie]], [[National Cattlemen's Beef Association]], [[Richard Neal]], [[National Committee to Preserve Social Security & Medicare PAC]], [[CITIZENS TO ELECT RICK LARSEN]], [[Bradley Scott Schneider]], [[Bacardi - Bacardi USA]], [[PETE AGUILAR FOR CONGRESS]], [[Gilead Sciences]], [[Donald S. Beyer]], [[Hakeem Jeffries]], [[Frank Pallone]]"
+top-donors: "[[Pfizer Inc.]], [[Amgen Inc]], [[Google - Alphabet]], [[Tyson Foods]], [[AbbVie]], [[National Cattlemen's Beef Association]], [[Richard Neal]], [[National Committee to Preserve Social Security & Medicare PAC]], [[CITIZENS TO ELECT RICK LARSEN]], [[Bradley Scott Schneider]], [[Bacardi - Bacardi USA]], [[PETE AGUILAR FOR CONGRESS]], [[Gilead Sciences]], [[Donald S. Beyer]], [[Hakeem Jeffries]], [[Frank Pallone]], [[Ted Lieu]], [[Jerrold Nadler]], [[Pete Aguilar]], [[Rick Larsen]], [[Troy A. Carter]], [[Marcia Fudge]]"
 ---
 
 

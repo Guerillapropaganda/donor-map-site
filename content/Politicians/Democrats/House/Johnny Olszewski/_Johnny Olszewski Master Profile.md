@@ -32,7 +32,7 @@ committees:
   - Rural Development, Energy, and Supply Chains
 bills-sponsored: 10
 corroboration-count: 2
-top-donors: "[[Bradley Scott Schneider]], [[PETE AGUILAR FOR CONGRESS]], [[AFL-CIO]], [[Robin L. Kelly]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[League of Conservation Voters]], [[AIPAC - American Israel Public Affairs Committee]], [[Richard Neal]], [[National Education Association]], [[Protect Progress]], [[J Street]], [[American Gaming Association]], [[KWEISI MFUME FOR CONGRESS]]"
+top-donors: "[[Bradley Scott Schneider]], [[PETE AGUILAR FOR CONGRESS]], [[AFL-CIO]], [[Robin L. Kelly]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[League of Conservation Voters]], [[AIPAC - American Israel Public Affairs Committee]], [[Richard Neal]], [[National Education Association]], [[Protect Progress]], [[J Street]], [[American Gaming Association]], [[KWEISI MFUME FOR CONGRESS]], [[Pete Aguilar]], [[Ted Lieu]], [[Kweisi Mfume]]"
 ---
 
 

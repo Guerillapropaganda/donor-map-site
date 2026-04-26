@@ -12,7 +12,7 @@ aliases:
   - VOTER PROTECTION PROJECT
 known-gaps:
   - No lobbying disclosure data
-politicians-funded: "[[Ritchie Torres]], [[Joaquin Castro]], [[Susie Lee]], [[Chris Pappas]], [[Greg Landsman]], [[Veronica Escobar]], [[Sharice Davids]], [[Seth Magaziner]], [[Shontel Brown]], [[Raphael Warnock]], [[Teresa Leger Fernandez]], [[Jon Ossoff]], [[Marie Gluesenkamp Perez]], [[MASSEY, KEVIN]], [[NGP]], [[MSL STRATEGIES LLC]], [[MOMENTUM CAMPAIGNS LLC]], [[FRAISER LLC]], [[SWITCHBOARD]], [[GREVEN GROUP LLC]], [[OPT-IN STRATEGIES]], [[ActBlue]], [[Gabe Vasquez]], [[Ami Bera]], [[Yvette D. Clarke]], [[Pete Aguilar]], [[Christian D. Menefee]], [[Elissa Slotkin]]"
+politicians-funded: "[[Ritchie Torres]], [[Joaquin Castro]], [[Susie Lee]], [[Chris Pappas]], [[Greg Landsman]], [[Veronica Escobar]], [[Sharice Davids]], [[Seth Magaziner]], [[Shontel Brown]], [[Raphael Warnock]], [[Teresa Leger Fernandez]], [[Jon Ossoff]], [[Marie Gluesenkamp Perez]], [[MASSEY, KEVIN]], [[NGP]], [[MSL STRATEGIES LLC]], [[MOMENTUM CAMPAIGNS LLC]], [[FRAISER LLC]], [[SWITCHBOARD]], [[GREVEN GROUP LLC]], [[OPT-IN STRATEGIES]], [[ActBlue]], [[Gabe Vasquez]], [[Ami Bera]], [[Yvette D. Clarke]], [[Pete Aguilar]], [[Christian D. Menefee]], [[Elissa Slotkin]], [[Sherrod Brown]]"
 related: "[[Ritchie Torres]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

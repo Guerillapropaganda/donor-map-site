@@ -30,7 +30,7 @@ committees:
   - Oversight and Investigations
 bills-sponsored: 14
 corroboration-count: 2
-top-donors: "[[Sam T. Liccardo]], [[Google - Alphabet]], [[Amgen Inc]], [[Pfizer Inc.]], [[Coinbase]], [[Gilead Sciences]], [[NANCY PELOSI FOR CONGRESS]], [[Gilbert Ray Cisneros]], [[Akin Gump Strauss Hauer & Feld]], [[Blue Shield of California]], [[J Street]], [[League of Conservation Voters]], [[PETE AGUILAR FOR CONGRESS]], [[Bradley Scott Schneider]], [[AbbVie]], [[Meta - Facebook]], [[DoorDash]]"
+top-donors: "[[Sam T. Liccardo]], [[Google - Alphabet]], [[Amgen Inc]], [[Pfizer Inc.]], [[Coinbase]], [[Gilead Sciences]], [[NANCY PELOSI FOR CONGRESS]], [[Gilbert Ray Cisneros]], [[Akin Gump Strauss Hauer & Feld]], [[Blue Shield of California]], [[J Street]], [[League of Conservation Voters]], [[PETE AGUILAR FOR CONGRESS]], [[Bradley Scott Schneider]], [[AbbVie]], [[Meta - Facebook]], [[DoorDash]], [[Nancy Pelosi]], [[Pete Aguilar]]"
 ---
 
 

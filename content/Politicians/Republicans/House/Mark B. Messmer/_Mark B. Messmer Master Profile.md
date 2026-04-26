@@ -36,7 +36,7 @@ committees:
   - Workforce Protections
 bills-sponsored: 13
 corroboration-count: 2
-top-donors: "[[DAVID ROUZER FOR CONGRESS]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[National Cattlemen's Beef Association]], [[Frank Lucas]], [[Defend American Jobs]], [[Brett Guthrie]], [[Associated General Contractors of America Political Action Committee]], [[Tom Emmer]], [[AIPAC - American Israel Public Affairs Committee]], [[Rudy Yakym]], [[MOORE FOR WEST VIRGINIA, INC.]], [[TROY DOWNING FOR CONGRESS]], [[BRANDON GILL FOR TEXAS]], [[JIM JORDAN FOR CONGRESS]], [[ADM - Archer Daniels Midland]], [[National Restaurant Association]], [[Steve Scalise]], [[Carol D. Miller]], [[NRA Political Victory Fund]], [[Club for Growth INC PAC]], [[David P. Joyce]]"
+top-donors: "[[DAVID ROUZER FOR CONGRESS]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[National Cattlemen's Beef Association]], [[Frank Lucas]], [[Defend American Jobs]], [[Brett Guthrie]], [[Associated General Contractors of America Political Action Committee]], [[Tom Emmer]], [[AIPAC - American Israel Public Affairs Committee]], [[Rudy Yakym]], [[MOORE FOR WEST VIRGINIA, INC.]], [[TROY DOWNING FOR CONGRESS]], [[BRANDON GILL FOR TEXAS]], [[JIM JORDAN FOR CONGRESS]], [[ADM - Archer Daniels Midland]], [[National Restaurant Association]], [[Steve Scalise]], [[Carol D. Miller]], [[NRA Political Victory Fund]], [[Club for Growth INC PAC]], [[David P. Joyce]], [[David Rouzer]], [[Brandon Gill]], [[Troy Downing]], [[Jim Jordan]]"
 ---
 
 

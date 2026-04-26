@@ -37,7 +37,7 @@ committees:
   - Water Resources and Environment
 bills-sponsored: 16
 corroboration-count: 2
-top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[Carol D. Miller]], [[Club for Growth INC PAC]], [[National Cattlemen's Beef Association]], [[NRA Political Victory Fund]], [[ERIC BURLISON FOR CONGRESS]], [[Defend American Jobs]], [[BRANDON GILL FOR TEXAS]], [[JIM JORDAN FOR CONGRESS]], [[Mike Johnson]], [[American College of Radiology Association PAC]], [[Brett Guthrie]], [[Brandon Gill]], [[ANDY HARRIS FOR CONGRESS]], [[TEXANS FOR JODEY ARRINGTON]], [[TROY DOWNING FOR CONGRESS]], [[Club for Growth]], [[Leidos]], [[CVS Health - Aetna]], [[MOORE FOR WEST VIRGINIA, INC.]], [[National Restaurant Association]]"
+top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[Carol D. Miller]], [[Club for Growth INC PAC]], [[National Cattlemen's Beef Association]], [[NRA Political Victory Fund]], [[ERIC BURLISON FOR CONGRESS]], [[Defend American Jobs]], [[BRANDON GILL FOR TEXAS]], [[JIM JORDAN FOR CONGRESS]], [[Mike Johnson]], [[American College of Radiology Association PAC]], [[Brett Guthrie]], [[Brandon Gill]], [[ANDY HARRIS FOR CONGRESS]], [[TEXANS FOR JODEY ARRINGTON]], [[TROY DOWNING FOR CONGRESS]], [[Club for Growth]], [[Leidos]], [[CVS Health - Aetna]], [[MOORE FOR WEST VIRGINIA, INC.]], [[National Restaurant Association]], [[Jim Jordan]], [[Andy Harris]], [[Jodey Arrington]], [[Troy Downing]], [[Eric Burlison]]"
 ---
 
 

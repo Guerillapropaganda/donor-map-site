@@ -15,7 +15,7 @@ source-types:
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
 corroboration-count: 2
-top-donors: "[[CASTRO FOR CONGRESS]]"
+top-donors: "[[CASTRO FOR CONGRESS]], [[Joaquin Castro]]"
 ---
 
 

@@ -11,8 +11,8 @@ fec-committee-id: C00513176
 aliases:
   - CONGRESSIONAL PROGRESSIVE CAUCUS PAC
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Summer Lee]], [[Dave Min]], [[Jamaal Bowman]], [[Rashida Tlaib]], [[Steven Horsford]], [[Shontel Brown]], [[Lateefah Simon]], [[Andrea Salinas]], [[Mike Levin]], [[Sarah McBride]], [[Nina Turner]], [[Sydney Kamlager-Dove]], [[Laura Friedman]], [[Lamonica McIver]], [[Joseph Morelle]], [[Shri Thanedar]], [[ActBlue]], [[Ilhan Omar]], [[Daniel Biss]], [[Morgan McGarvey]], [[Darren Soto]], [[Jimmy Gomez]], [[Cori Bush]], [[Robert Garcia]], [[Teresa Leger Fernandez]], [[Maxwell Frost]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Summer Lee]], [[Dave Min]], [[Jamaal Bowman]], [[Rashida Tlaib]], [[Steven Horsford]], [[Shontel Brown]], [[Lateefah Simon]], [[Andrea Salinas]], [[Mike Levin]], [[Sarah McBride]], [[Nina Turner]], [[Sydney Kamlager-Dove]], [[Laura Friedman]], [[Lamonica McIver]], [[Joseph Morelle]], [[Shri Thanedar]], [[ActBlue]], [[Ilhan Omar]], [[Daniel Biss]], [[Morgan McGarvey]], [[Darren Soto]], [[Jimmy Gomez]], [[Cori Bush]], [[Robert Garcia]], [[Teresa Leger Fernandez]], [[Maxwell Frost]], [[Raul Grijalva]]"
 related: "[[Summer Lee]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -29,7 +29,7 @@ employee-contributions-total: 750
 employee-donor-count: 2
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

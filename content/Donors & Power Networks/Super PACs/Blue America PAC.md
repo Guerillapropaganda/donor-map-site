@@ -12,7 +12,7 @@ aliases:
   - BLUE AMERICA PAC
 known-gaps:
   - No lobbying disclosure data
-politicians-funded: "[[John Boehner]], [[Cori Bush]], [[LAKE RESEARCH PARTNERS]], [[NCC]], [[MACON TELEGRAPH]], [[Washington Citizens for Colin Powell]], [[AMACOM CORPORATION]], [[NEPA NEWSPAPER GROUP]], [[MOBILIZE, INC.]], [[AUBURN QUAD]], [[Chris Murphy]], [[Rashida Tlaib]], [[Gary Peters]], [[Raul Grijalva]], [[James A. Himes]], [[Jeff Merkley]], [[Bernie Sanders]], [[Ted Lieu]]"
+politicians-funded: "[[John Boehner]], [[Cori Bush]], [[LAKE RESEARCH PARTNERS]], [[NCC]], [[MACON TELEGRAPH]], [[Washington Citizens for Colin Powell]], [[AMACOM CORPORATION]], [[NEPA NEWSPAPER GROUP]], [[MOBILIZE, INC.]], [[AUBURN QUAD]], [[Chris Murphy]], [[Rashida Tlaib]], [[Gary Peters]], [[Raul Grijalva]], [[James A. Himes]], [[Jeff Merkley]], [[Bernie Sanders]], [[Ted Lieu]], [[Jim Himes]]"
 related: "[[John Boehner]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

@@ -120,13 +120,23 @@ function main() {
     const to = e.to;
     if (!from || !to) continue;
 
-    const toKey = to.toLowerCase();
-    if (!monetaryByTo.has(toKey)) monetaryByTo.set(toKey, new Set());
-    monetaryByTo.get(toKey).add(from);
+    // Type-aware caching (added 2026-04-25). Without these gates the
+    // PAS2 aggregator's recipient_cmte_id resolution started routing money
+    // to FEC committee stubs (e.g. "MCCAUL FOR CONGRESS, INC"), which
+    // then leaked into politicians-funded as raw committee names. Keep
+    // the politicians-funded cache to vault politicians, and the donors
+    // cache to actual donor/corporation entities.
+    if (e.to_type === 'politician') {
+      const toKey = to.toLowerCase();
+      if (!monetaryByTo.has(toKey)) monetaryByTo.set(toKey, new Set());
+      monetaryByTo.get(toKey).add(from);
 
-    const fromKey = from.toLowerCase();
-    if (!monetaryByFrom.has(fromKey)) monetaryByFrom.set(fromKey, new Set());
-    monetaryByFrom.get(fromKey).add(to);
+      if (e.from_type === 'donor' || e.from_type === 'corporation') {
+        const fromKey = from.toLowerCase();
+        if (!monetaryByFrom.has(fromKey)) monetaryByFrom.set(fromKey, new Set());
+        monetaryByFrom.get(fromKey).add(to);
+      }
+    }
   }
 
   console.log(`  ${monetaryByTo.size} profiles have incoming monetary edges`);

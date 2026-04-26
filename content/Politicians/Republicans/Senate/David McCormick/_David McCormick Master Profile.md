@@ -38,7 +38,7 @@ committees:
   - Senate Special Committee on Aging
   - Water and Power
 bills-sponsored: 27
-top-donors: "[[Campaign for Working Families]], [[John Cornyn]], [[DR. BRIAN BABIN FOR CONGRESS]], [[Williams Companies]], [[NRA Political Victory Fund]], [[Women Speak Out Pac]], [[Amgen Inc]], [[National Republican Senatorial Committee]], [[Akin Gump Strauss Hauer & Feld]], [[Common Sense for America PAC]], [[GEO Group - Private Prison Industrial Complex]], [[American Principles Fund]], [[Pfizer Inc.]], [[Leidos]], [[Glenn Thompson]], [[Google - Alphabet]], [[America First Action]], [[Republican Jewish Coalition]], [[Daniel Meuser]], [[The Sentinel Action Fund]], [[Club for Growth INC PAC]], [[American Principles Project Pac]], [[National Right to Life Victory Fund]], [[DoorDash]], [[Guy Reschenthaler]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Koch Industries]]"
+top-donors: "[[Campaign for Working Families]], [[John Cornyn]], [[DR. BRIAN BABIN FOR CONGRESS]], [[Williams Companies]], [[NRA Political Victory Fund]], [[Women Speak Out Pac]], [[Amgen Inc]], [[National Republican Senatorial Committee]], [[Akin Gump Strauss Hauer & Feld]], [[Common Sense for America PAC]], [[GEO Group - Private Prison Industrial Complex]], [[American Principles Fund]], [[Pfizer Inc.]], [[Leidos]], [[Glenn Thompson]], [[Google - Alphabet]], [[America First Action]], [[Republican Jewish Coalition]], [[Daniel Meuser]], [[The Sentinel Action Fund]], [[Club for Growth INC PAC]], [[American Principles Project Pac]], [[National Right to Life Victory Fund]], [[DoorDash]], [[Guy Reschenthaler]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Koch Industries]], [[Brian Babin]]"
 ---
 
 

@@ -12,7 +12,7 @@ aliases:
   - CT WORKING FAMILIES FEDERAL PAC D/B/A TAKE BACK CONGRESS CT
 known-gaps:
   - No lobbying disclosure data
-politicians-funded: "[[Rosa DeLauro]], [[Jahana Hayes]], [[Chris Murphy]], [[CLASI]], [[COMMUNITY LABOR ADMINISTRATIVE SERVICES, INC]], [[Joe Courtney]], [[John B. Larson]], [[James A. Himes]]"
+politicians-funded: "[[Rosa DeLauro]], [[Jahana Hayes]], [[Chris Murphy]], [[CLASI]], [[COMMUNITY LABOR ADMINISTRATIVE SERVICES, INC]], [[Joe Courtney]], [[John B. Larson]], [[James A. Himes]], [[Jim Himes]]"
 related: "[[Rosa DeLauro]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

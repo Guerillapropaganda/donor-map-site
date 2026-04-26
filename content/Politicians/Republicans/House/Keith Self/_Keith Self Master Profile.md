@@ -18,28 +18,28 @@ phone: 202-225-4201
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H2TX00064
 bills-sponsored: 25
 bills-cosponsored: 313
 bills-enacted: 0
 top-policy-area: International Affairs
-top-donors: "[[Club for Growth INC PAC]]"
-last-enriched: 2026-04-21
+top-donors: "[[Club for Growth INC PAC]], [[Guy Reschenthaler]], [[Freedom's Defense Fund]], [[AIPAC - American Israel Public Affairs Committee]], [[Ronny Jackson]], [[Jodey Arrington]], [[Randy K. Weber]], [[Jim Jordan]], [[NRA Political Victory Fund]], [[BEN CLINE FOR CONGRESS, INC.]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Disability Assistance and Memorial Affairs
   - Europe
   - House Committee on Foreign Affairs
-  - "House Committee on Science, Space, and Technology"
-  - "House Committee on Veterans' Affairs"
+  - House Committee on Science, Space, and Technology
+  - House Committee on Veterans' Affairs
   - Oversight and Investigations
   - South and Central Asia
   - Space and Aeronautics
-total-raised: "$572K"
-career-total-source: "FEC weball summary (cycles 2002, 2026)"
+total-raised: $572K
+career-total-source: FEC weball summary (cycles 2002, 2026)
 ---
 
 
