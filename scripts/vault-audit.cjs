@@ -80,6 +80,14 @@ const CHECKS = [
     queue: { bucket: 'compounding', leverage: 3, cost_min: 60 },
   },
   {
+    name: 'harness-self-audit',
+    description: 'Meta-audit: unscheduled builders, stalled producers, auto-block taxonomy drift between janitor and builders',
+    cmd: ['node', 'scripts/harness-self-audit.cjs', '--json'],
+    parse: parseHarnessSelfAudit,
+    timeout_ms: 30000,
+    queue: { bucket: 'blocking', leverage: 5, cost_min: 15 },
+  },
+  {
     name: 'audit-committee-registry',
     description: 'FEC committee registry mis-mappings (Fairshake-pattern)',
     cmd: ['node', 'scripts/audit-committee-registry.cjs'],
@@ -240,6 +248,26 @@ function parsePipelineJanitor(stdout, _stderr, _exit) {
     findings_count: count,
     notes: `Scanned ${scanned || '?'} profiles. ${count} had issues.`,
   };
+}
+
+function parseHarnessSelfAudit(stdout, _stderr, _exit) {
+  // --json mode emits { findings_count, findings: [{kind, detail, fix}, ...] }
+  try {
+    const parsed = JSON.parse(stdout);
+    const byKind = {};
+    for (const f of parsed.findings || []) {
+      byKind[f.kind] = (byKind[f.kind] || 0) + 1;
+    }
+    const summary = Object.entries(byKind)
+      .map(([k, n]) => `${n} ${k}`)
+      .join(', ');
+    return {
+      findings_count: parsed.findings_count || 0,
+      notes: summary || 'Harness wiring healthy.',
+    };
+  } catch {
+    return { findings_count: 0, notes: 'Self-audit parse failed.' };
+  }
 }
 
 function parseSimpleCountFromLine(stdout, _stderr, exit) {
