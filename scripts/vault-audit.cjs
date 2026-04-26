@@ -88,6 +88,14 @@ const CHECKS = [
     queue: { bucket: 'blocking', leverage: 5, cost_min: 15 },
   },
   {
+    name: 'note-auto-resolver',
+    description: 'Self-healing: notes with auto-resolve-when whose status disagrees with their body. Drift means an Admin Note still says "open" but its report shows zero findings (or vice versa).',
+    cmd: ['node', 'scripts/note-auto-resolver.cjs', '--json'],
+    parse: parseNoteAutoResolver,
+    timeout_ms: 30000,
+    queue: { bucket: 'compounding', leverage: 2, cost_min: 1 },
+  },
+  {
     name: 'audit-committee-registry',
     description: 'FEC committee registry mis-mappings (Fairshake-pattern)',
     cmd: ['node', 'scripts/audit-committee-registry.cjs'],
@@ -248,6 +256,28 @@ function parsePipelineJanitor(stdout, _stderr, _exit) {
     findings_count: count,
     notes: `Scanned ${scanned || '?'} profiles. ${count} had issues.`,
   };
+}
+
+function parseNoteAutoResolver(stdout, _stderr, _exit) {
+  // --json mode emits { findings_count, mode, flipped, drift }
+  try {
+    const parsed = JSON.parse(stdout);
+    const drift = parsed.findings_count || 0;
+    if (drift === 0) {
+      return { findings_count: 0, notes: 'All auto-resolve notes in sync.' };
+    }
+    const flipDescriptions = (parsed.drift || [])
+      .filter((d) => d.action === 'flip')
+      .map((d) => `${path.basename(d.file).replace(/\.md$/, '')} ${d.from}→${d.to}`)
+      .slice(0, 3)
+      .join(', ');
+    return {
+      findings_count: drift,
+      notes: `${drift} note(s) need status flip${flipDescriptions ? ': ' + flipDescriptions : ''}`,
+    };
+  } catch {
+    return { findings_count: 0, notes: 'Resolver parse failed.' };
+  }
 }
 
 function parseHarnessSelfAudit(stdout, _stderr, _exit) {

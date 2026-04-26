@@ -2,9 +2,11 @@
 title: "Broken Source Refs Report"
 type: admin-note
 note-type: data
-status: open
+status: done
 last-updated: 2026-04-15
 generator: scripts/broken-source-refs-report.cjs
+auto-resolve-when: 'Total broken refs:\*\* 0'
+last-auto-resolved: 2026-04-26T17:15:02.169Z
 ---
 
 # Broken Source Refs Report
