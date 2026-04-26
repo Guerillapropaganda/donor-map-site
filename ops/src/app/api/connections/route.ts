@@ -90,34 +90,36 @@ export async function GET() {
   try {
     const repoRoot = getRepoRoot()
 
-    // Escape hatch: legacy implementation, only if explicitly opted in.
-    if (process.env.DONOR_MAP_LEGACY_CONNECTIONS === "1") {
-      const legacyResult = buildConnectionsLegacy(repoRoot)
-      cache = { data: legacyResult, timestamp: Date.now() }
-
-      // Run the shadow comparator against legacy responses too — useful
-      // for confirming both code paths still agree on whatever subset
-      // of canonical state currently exists.
-      if (process.env.DONOR_MAP_SHADOW_CONNECTIONS === "1") {
-        void shadowConnectionsAndLog({
-          topConnected: legacyResult.topConnected,
-          unconnected: legacyResult.unconnected,
-          unconnectedCount: legacyResult.unconnectedCount,
-          totalProfiles: legacyResult.totalProfiles,
-          breakdown: legacyResult.breakdown,
-          connections: legacyResult.connections,
-        })
+    // ROLLBACK 2026-04-26: cutover went live but produced empty data
+    // in the running dev server (UI showed 0 connections globally even
+    // though the offline parity check produced 156,934). Reverting
+    // default to legacy until I can reproduce the in-route failure.
+    // Set DONOR_MAP_LIBRARIAN_CONNECTIONS=1 to opt back into the
+    // librarian-backed path (still useful for diagnosis).
+    if (process.env.DONOR_MAP_LIBRARIAN_CONNECTIONS === "1") {
+      const result = buildConnectionsViaLibrarian(repoRoot)
+      if (!result) {
+        return NextResponse.json({ error: "librarian unavailable" }, { status: 503 })
       }
-      return NextResponse.json(legacyResult)
+      cache = { data: result, timestamp: Date.now() }
+      return NextResponse.json(result)
     }
 
-    // ─── Primary path (ADR-0024 librarian-backed) ───────────────────
-    const result = buildConnectionsViaLibrarian(repoRoot)
-    if (!result) {
-      return NextResponse.json({ error: "librarian unavailable" }, { status: 503 })
+    // ─── Primary path (legacy, restored as default) ─────────────────
+    const legacyResult = buildConnectionsLegacy(repoRoot)
+    cache = { data: legacyResult, timestamp: Date.now() }
+
+    if (process.env.DONOR_MAP_SHADOW_CONNECTIONS === "1") {
+      void shadowConnectionsAndLog({
+        topConnected: legacyResult.topConnected,
+        unconnected: legacyResult.unconnected,
+        unconnectedCount: legacyResult.unconnectedCount,
+        totalProfiles: legacyResult.totalProfiles,
+        breakdown: legacyResult.breakdown,
+        connections: legacyResult.connections,
+      })
     }
-    cache = { data: result, timestamp: Date.now() }
-    return NextResponse.json(result)
+    return NextResponse.json(legacyResult)
   } catch (error: unknown) {
     const msg = error instanceof Error ? error.message : "Unknown error"
     return NextResponse.json({ error: msg }, { status: 500 })
