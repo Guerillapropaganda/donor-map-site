@@ -7,6 +7,7 @@ import { ProfileEnrich } from "@/components/ProfileEnrich"
 import { EnrichmentHistory } from "@/components/EnrichmentHistory"
 import { EnrichmentLog } from "@/components/EnrichmentLog"
 import { PIPELINE_REGISTRY, type PipelineStatus } from "@/lib/pipeline-registry"
+import HarnessChip from "@/components/HarnessChip"
 
 export default function PipelinesPage() {
   const [triggering, setTriggering] = useState(false)
@@ -41,11 +42,21 @@ export default function PipelinesPage() {
             Trigger enrichment pipelines and monitor runs
           </p>
         </div>
-        {lastTrigger && (
-          <div className="text-[10px] text-[var(--color-green)] bg-[var(--color-green)]/10 border border-[var(--color-green)]/20 rounded-lg px-3 py-1.5">
-            Triggered <strong>{lastTrigger.pipeline}</strong> at {lastTrigger.time.toLocaleTimeString()}
-          </div>
-        )}
+        <div className="flex items-center gap-2">
+          {lastTrigger && (
+            <div className="text-[10px] text-[var(--color-green)] bg-[var(--color-green)]/10 border border-[var(--color-green)]/20 rounded-lg px-3 py-1.5">
+              Triggered <strong>{lastTrigger.pipeline}</strong> at {lastTrigger.time.toLocaleTimeString()}
+            </div>
+          )}
+          {/* Harness freshness — per ops-harness-audit-2026-04-24
+              follow-up #3. /pipelines shows health-class signals
+              (pipeline grid, enrichment log) so the ambient harness
+              chip belongs here too. Note: the underlying data sources
+              (/api/pipeline-health via git log, /api/enrichment-log,
+              etc.) are already live — no frontmatter stamp drift. The
+              chip is for harness-state visibility only. */}
+          <HarnessChip />
+        </div>
       </div>
 
       {/* Paused banner — shown while API pipelines are disabled. */}
