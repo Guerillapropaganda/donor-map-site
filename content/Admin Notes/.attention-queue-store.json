@@ -1402,6 +1402,20 @@
     },
     {
       "bucket": "blocking",
+      "what": "vault-audit: harness-self-audit — 4 findings",
+      "why": "Meta-audit: unscheduled builders, stalled producers, auto-block taxonomy drift between janitor and builders — 4 block-name-drift",
+      "where": "/system-health",
+      "cost_min": 15,
+      "leverage": 5,
+      "source": "vault-audit",
+      "created": "2026-04-26",
+      "metadata": {
+        "check": "harness-self-audit",
+        "findings_count": 4
+      }
+    },
+    {
+      "bucket": "blocking",
       "what": "vault-audit: type-specific-a-plus — 1322 findings",
       "why": "Per-type A+ publication bar (ADR-0022): universal floor + type-specific checks for politician/donor/corporation/think-tank — 446 scanned, 0 pass, 446 fail. By type: donor 0/266, corporation 0/6, politician 0/164, state-politician 0/7, local-politician 0/1, think-tank 0/2.",
       "where": "/system-health",

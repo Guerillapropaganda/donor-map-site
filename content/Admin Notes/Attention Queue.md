@@ -12,7 +12,7 @@ generated-by: scripts/lib/attention-queue.cjs
 
 *Auto-generated. Every script that finds something worth your time writes to this file.*
 
-**31** blocking · **52** editorial decisions · **38** background cleanup
+**32** blocking · **52** editorial decisions · **38** background cleanup
 
 ---
 
@@ -289,6 +289,15 @@ Ready profile contains 4 em dashes in body, avg sentence length 21 words (target
 - **Cost:** ~3 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
+
+### vault-audit: harness-self-audit — 4 findings
+
+Meta-audit: unscheduled builders, stalled producers, auto-block taxonomy drift between janitor and builders — 4 block-name-drift
+
+- **Where:** `/system-health`
+- **Cost:** ~15 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `vault-audit`
 
 ### vault-audit: type-specific-a-plus — 1322 findings
 
