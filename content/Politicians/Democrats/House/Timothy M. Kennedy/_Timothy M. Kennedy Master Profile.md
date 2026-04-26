@@ -34,7 +34,7 @@ committees:
   - House Committee on Veterans' Affairs
   - Oversight and Investigations
   - Transportation and Maritime Security
-top-donors: "[[International Association of Firefighters Interested in Registration and Education PAC]], [[NANCY PELOSI FOR CONGRESS]], [[AFL-CIO]], [[Associated General Contractors of America Political Action Committee]], [[Robert Garcia]], [[SHERMAN FOR CONGRESS]], [[DoorDash]], [[League of Conservation Voters]], [[AbbVie]], [[Gilead Sciences]], [[Google - Alphabet]], [[Akin Gump Strauss Hauer & Feld]], [[Southern Company]], [[PAUL TONKO FOR CONGRESS]], [[GRACE FOR NEW YORK]], [[American Gaming Association]], [[AIPAC - American Israel Public Affairs Committee]], [[McDonalds Corporation]], [[Pfizer Inc.]], [[Protect Progress]], [[National Education Association]]"
+top-donors: "[[International Association of Firefighters Interested in Registration and Education PAC]], [[NANCY PELOSI FOR CONGRESS]], [[AFL-CIO]], [[Associated General Contractors of America Political Action Committee]], [[Robert Garcia]], [[SHERMAN FOR CONGRESS]], [[DoorDash]], [[League of Conservation Voters]], [[AbbVie]], [[Gilead Sciences]], [[Google - Alphabet]], [[Akin Gump Strauss Hauer & Feld]], [[Southern Company]], [[PAUL TONKO FOR CONGRESS]], [[GRACE FOR NEW YORK]], [[American Gaming Association]], [[AIPAC - American Israel Public Affairs Committee]], [[McDonalds Corporation]], [[Pfizer Inc.]], [[Protect Progress]], [[National Education Association]], [[Grace Meng]], [[Brad Sherman]], [[Paul Tonko]], [[Nancy Pelosi]], [[Ted Lieu]]"
 ---
 
 

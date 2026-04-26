@@ -31,7 +31,7 @@ committees:
   - Defense
   - Homeland Security
   - House Committee on Appropriations
-top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[Leidos]], [[BILL FOSTER FOR CONGRESS]], [[Google - Alphabet]], [[McDonalds Corporation]], [[League of Conservation Voters]], [[American College of Radiology Association PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Associated General Contractors of America Political Action Committee]], [[National Restaurant Association]], [[TED LIEU FOR CONGRESS]], [[Hakeem Jeffries]], [[National Cattlemen's Beef Association]], [[Monsanto - Bayer]], [[National Committee to Preserve Social Security & Medicare PAC]], [[National Association of Manufacturers]], [[National Education Association]], [[Let America Vote PAC]]"
+top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[Leidos]], [[BILL FOSTER FOR CONGRESS]], [[Google - Alphabet]], [[McDonalds Corporation]], [[League of Conservation Voters]], [[American College of Radiology Association PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Associated General Contractors of America Political Action Committee]], [[National Restaurant Association]], [[TED LIEU FOR CONGRESS]], [[Hakeem Jeffries]], [[National Cattlemen's Beef Association]], [[Monsanto - Bayer]], [[National Committee to Preserve Social Security & Medicare PAC]], [[National Association of Manufacturers]], [[National Education Association]], [[Let America Vote PAC]], [[Giffords PAC]], [[Ted Lieu]], [[Grace Meng]], [[Bill Foster]]"
 ---
 
 

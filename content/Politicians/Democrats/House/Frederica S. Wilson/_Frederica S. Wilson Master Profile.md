@@ -26,7 +26,7 @@ bills-sponsored: 20
 bills-cosponsored: 451
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[Ballard Partners]], [[NextEra Energy]], [[Fanjul Family - Florida Crystals]], [[Humana]], [[National Education Association]], [[MEDICARE FOR ALL]], [[League of Conservation Voters]], [[Bacardi - Bacardi USA]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[American Gaming Association]], [[McDonalds Corporation]], [[AIPAC - American Israel Public Affairs Committee]], [[Pfizer Inc.]], [[AFL-CIO]], [[Planned Parenthood Action Fund INC]], [[DIANA DEGETTE FOR CONGRESS]], [[BARBARA LEE FOR CONGRESS]], [[Frank Pallone]], [[Terri A. Sewell]], [[National Nurses United]], [[Southern Company]], [[Akin Gump Strauss Hauer & Feld]], [[Tyson Foods]], [[Amgen Inc]], [[Hakeem Jeffries]], [[Richard Neal]]"
+top-donors: "[[Ballard Partners]], [[NextEra Energy]], [[Fanjul Family - Florida Crystals]], [[Humana]], [[National Education Association]], [[MEDICARE FOR ALL]], [[League of Conservation Voters]], [[Bacardi - Bacardi USA]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[American Gaming Association]], [[McDonalds Corporation]], [[AIPAC - American Israel Public Affairs Committee]], [[Pfizer Inc.]], [[AFL-CIO]], [[Planned Parenthood Action Fund INC]], [[DIANA DEGETTE FOR CONGRESS]], [[BARBARA LEE FOR CONGRESS]], [[Frank Pallone]], [[Terri A. Sewell]], [[National Nurses United]], [[Southern Company]], [[Akin Gump Strauss Hauer & Feld]], [[Tyson Foods]], [[Amgen Inc]], [[Hakeem Jeffries]], [[Richard Neal]], [[Jerrold Nadler]], [[Barbara Lee]], [[Diana Degette]]"
 last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Aviation

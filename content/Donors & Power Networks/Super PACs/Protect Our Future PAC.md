@@ -12,7 +12,7 @@ aliases:
   - PROTECT OUR FUTURE PAC
 known-gaps:
   - No lobbying disclosure data
-politicians-funded: "[[Shontel Brown]], [[Maxwell Frost]], [[Laura Gillen]], [[Sydney Kamlager-Dove]], [[Andrea Salinas]], [[Robert Garcia]], [[Jared Moskowitz]], [[Nikki Budzinski]], [[Morgan McGarvey]], [[Bob Menendez]], [[Jasmine Crockett]], [[Lucy McBath]], [[Jesus G. Chuy Garcia]], [[Valerie P. Foushee]], [[Jonathan L. Jackson]]"
+politicians-funded: "[[Shontel Brown]], [[Maxwell Frost]], [[Laura Gillen]], [[Sydney Kamlager-Dove]], [[Andrea Salinas]], [[Robert Garcia]], [[Jared Moskowitz]], [[Nikki Budzinski]], [[Morgan McGarvey]], [[Bob Menendez]], [[Jasmine Crockett]], [[Lucy McBath]], [[Jesus G. Chuy Garcia]], [[Valerie P. Foushee]], [[Jonathan L. Jackson]], [[Robert Menendez]]"
 related: "[[Shontel Brown]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

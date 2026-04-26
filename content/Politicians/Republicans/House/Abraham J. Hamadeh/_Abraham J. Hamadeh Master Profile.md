@@ -33,7 +33,7 @@ committees:
   - Tactical Air and Land Forces
 bills-sponsored: 19
 corroboration-count: 2
-top-donors: "[[ABE FOR ARIZONA]], [[Tom Emmer]], [[Southern Company]], [[JIM JORDAN FOR CONGRESS]], [[National Restaurant Association]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[MOORE FOR WEST VIRGINIA, INC.]], [[Steve Scalise]], [[Coinbase]], [[Brett Guthrie]], [[BRANDON GILL FOR TEXAS]], [[FISCHBACH FOR CONGRESS]], [[Campaign for Working Families]], [[Leidos]], [[FRIENDS OF MATT GAETZ]], [[CVS Health - Aetna]], [[NRA Political Victory Fund]], [[AIPAC - American Israel Public Affairs Committee]], [[TROY DOWNING FOR CONGRESS]], [[Carol D. Miller]], [[Richard Hudson]], [[Freedom's Defense Fund]]"
+top-donors: "[[ABE FOR ARIZONA]], [[Tom Emmer]], [[Southern Company]], [[JIM JORDAN FOR CONGRESS]], [[National Restaurant Association]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[MOORE FOR WEST VIRGINIA, INC.]], [[Steve Scalise]], [[Coinbase]], [[Brett Guthrie]], [[BRANDON GILL FOR TEXAS]], [[FISCHBACH FOR CONGRESS]], [[Campaign for Working Families]], [[Leidos]], [[FRIENDS OF MATT GAETZ]], [[CVS Health - Aetna]], [[NRA Political Victory Fund]], [[AIPAC - American Israel Public Affairs Committee]], [[TROY DOWNING FOR CONGRESS]], [[Carol D. Miller]], [[Richard Hudson]], [[Freedom's Defense Fund]], [[Michelle Fischbach]], [[Jim Jordan]], [[Brandon Gill]], [[Matt Gaetz]], [[Troy Downing]]"
 ---
 
 

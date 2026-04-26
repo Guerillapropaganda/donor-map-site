@@ -32,7 +32,7 @@ committees:
   - Military and Foreign Affairs
 bills-sponsored: 9
 corroboration-count: 2
-top-donors: "[[Donald S. Beyer]], [[Gerry Connolly]], [[J Street]], [[Protect Progress]], [[TED LIEU FOR CONGRESS]], [[Southern Company]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AbbVie]], [[Hakeem Jeffries]], [[Leidos]], [[Democratic Party of Virginia]], [[Amgen Inc]], [[PETE AGUILAR FOR CONGRESS]], [[Google - Alphabet]]"
+top-donors: "[[Donald S. Beyer]], [[Gerry Connolly]], [[J Street]], [[Protect Progress]], [[TED LIEU FOR CONGRESS]], [[Southern Company]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AbbVie]], [[Hakeem Jeffries]], [[Leidos]], [[Democratic Party of Virginia]], [[Amgen Inc]], [[PETE AGUILAR FOR CONGRESS]], [[Google - Alphabet]], [[Pete Aguilar]], [[Ted Lieu]]"
 ---
 
 

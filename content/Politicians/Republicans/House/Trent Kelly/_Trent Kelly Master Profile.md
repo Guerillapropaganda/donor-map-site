@@ -20,7 +20,7 @@ source-types:
 known-gaps:
   - No FEC contribution data
   - No voting record data
-donors: "[[CA Farm Bureau Federation]], [[AIPAC - American Israel Public Affairs Committee]], [[JASON SMITH FOR CONGRESS]], [[Associated General Contractors of America Political Action Committee]], [[Steve Scalise]], [[National Cattlemen's Beef Association]], [[DAVID ROUZER FOR CONGRESS]], [[Kevin McCarthy]], [[Monsanto - Bayer]], [[NRA Political Victory Fund]], [[Leidos]], [[Freedom's Defense Fund]], [[Koch Industries]], [[Google - Alphabet]], [[Darin Lahood]], [[TEXANS FOR JODEY ARRINGTON]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[GARY PALMER FOR CONGRESS]], [[Richard Hudson]], [[Tyson Foods]]"
+donors: "[[CA Farm Bureau Federation]], [[AIPAC - American Israel Public Affairs Committee]], [[JASON SMITH FOR CONGRESS]], [[Associated General Contractors of America Political Action Committee]], [[Steve Scalise]], [[National Cattlemen's Beef Association]], [[DAVID ROUZER FOR CONGRESS]], [[Kevin McCarthy]], [[Monsanto - Bayer]], [[NRA Political Victory Fund]], [[Leidos]], [[Freedom's Defense Fund]], [[Koch Industries]], [[Google - Alphabet]], [[Darin Lahood]], [[TEXANS FOR JODEY ARRINGTON]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[GARY PALMER FOR CONGRESS]], [[Richard Hudson]], [[Tyson Foods]], [[David Rouzer]], [[Jason Smith]], [[John Boehner]], [[Gary J. Palmer]], [[Joe Wilson]], [[Jodey Arrington]], [[Paul Ryan]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 15
 bills-cosponsored: 220

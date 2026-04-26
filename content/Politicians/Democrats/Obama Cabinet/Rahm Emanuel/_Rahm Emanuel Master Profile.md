@@ -16,7 +16,7 @@ source-types:
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
 bills-sponsored: 58
-top-donors: "[[Google - Alphabet]], [[AFL-CIO]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[MBNA Corporation]], [[Planned Parenthood Action Fund INC]], [[National Committee to Preserve Social Security & Medicare PAC]], [[CVS Health - Aetna]], [[Blue Shield of California]], [[Sierra Club Political Committee]], [[National Education Association]], [[Bechtel Corporation]], [[American College of Radiology Association PAC]], [[ADM - Archer Daniels Midland]], [[Akin Gump Strauss Hauer & Feld]], [[LOFGREN FOR CONGRESS]], [[AT&T]]"
+top-donors: "[[Google - Alphabet]], [[AFL-CIO]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[MBNA Corporation]], [[Planned Parenthood Action Fund INC]], [[National Committee to Preserve Social Security & Medicare PAC]], [[CVS Health - Aetna]], [[Blue Shield of California]], [[Sierra Club Political Committee]], [[National Education Association]], [[Bechtel Corporation]], [[American College of Radiology Association PAC]], [[ADM - Archer Daniels Midland]], [[Akin Gump Strauss Hauer & Feld]], [[LOFGREN FOR CONGRESS]], [[AT&T]], [[Zoe Lofgren]]"
 ---
 
 

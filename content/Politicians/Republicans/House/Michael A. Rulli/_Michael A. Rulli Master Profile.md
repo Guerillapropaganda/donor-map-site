@@ -35,7 +35,7 @@ committees:
   - House Committee on Education and Workforce
   - House Committee on Energy and Commerce
   - Oversight and Investigations
-top-donors: "[[American College of Radiology Association PAC]], [[CVS Health - Aetna]], [[National Right to Life Victory Fund]], [[Southern Company]], [[VIRGINIA FOXX FOR CONGRESS]], [[Steve Scalise]], [[AFL-CIO]], [[David P. Joyce]], [[NRA Political Victory Fund]], [[Nucor Corporation]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Koch Industries]], [[National Cattlemen's Beef Association]], [[DAVE TAYLOR FOR CONGRESS]], [[Gilead Sciences]], [[JIM JORDAN FOR CONGRESS]], [[Amgen Inc]], [[AIPAC - American Israel Public Affairs Committee]], [[Defending Main Street Superpac INC]], [[Pfizer Inc.]], [[Tom Emmer]]"
+top-donors: "[[American College of Radiology Association PAC]], [[CVS Health - Aetna]], [[National Right to Life Victory Fund]], [[Southern Company]], [[VIRGINIA FOXX FOR CONGRESS]], [[Steve Scalise]], [[AFL-CIO]], [[David P. Joyce]], [[NRA Political Victory Fund]], [[Nucor Corporation]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Koch Industries]], [[National Cattlemen's Beef Association]], [[DAVE TAYLOR FOR CONGRESS]], [[Gilead Sciences]], [[JIM JORDAN FOR CONGRESS]], [[Amgen Inc]], [[AIPAC - American Israel Public Affairs Committee]], [[Defending Main Street Superpac INC]], [[Pfizer Inc.]], [[Tom Emmer]], [[Jim Jordan]], [[Virginia Foxx]], [[David J. Taylor]]"
 ---
 
 

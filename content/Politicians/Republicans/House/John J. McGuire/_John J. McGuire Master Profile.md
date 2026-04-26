@@ -33,7 +33,7 @@ committees:
   - Tactical Air and Land Forces
 bills-sponsored: 14
 corroboration-count: 2
-top-donors: "[[Defending Main Street Superpac INC]], [[Williams Companies]], [[Koch Industries]], [[Special Operations for America]], [[JOHN MCGUIRE FOR VIRGINIA]], [[NRA Political Victory Fund]]"
+top-donors: "[[Defending Main Street Superpac INC]], [[Williams Companies]], [[Koch Industries]], [[Special Operations for America]], [[JOHN MCGUIRE FOR VIRGINIA]], [[NRA Political Victory Fund]], [[Leidos]], [[Freedom's Defense Fund]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Steve Scalise]]"
 ---
 
 

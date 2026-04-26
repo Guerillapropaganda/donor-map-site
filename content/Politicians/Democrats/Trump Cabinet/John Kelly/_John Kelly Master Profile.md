@@ -11,7 +11,7 @@ known-gaps:
   - No voting record data
 source-types:
   - FEC
-donors: "[[CA Farm Bureau Federation]], [[Democratic Senatorial Campaign Committee]], [[National Republican Senatorial Committee]], [[Kirsten E. Gillibrand]], [[Mark Warner]], [[Giffords PAC]], [[Elizabeth Warren]], [[Mike Carey]], [[Edf Action Votes]], [[Paul A. Gosar]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Planned Parenthood Action Fund INC]], [[LOFGREN FOR CONGRESS]], [[NRA Political Victory Fund]], [[NANCY PELOSI FOR CONGRESS]], [[Sierra Club Political Committee]], [[National Education Association]], [[Christopher H. Smith]], [[Rosa DeLauro]], [[AFL-CIO]], [[Steny H. Hoyer]], [[Bernie Sanders]]"
+donors: "[[CA Farm Bureau Federation]], [[Democratic Senatorial Campaign Committee]], [[National Republican Senatorial Committee]], [[Kirsten E. Gillibrand]], [[Mark Warner]], [[Giffords PAC]], [[Elizabeth Warren]], [[Mike Carey]], [[Edf Action Votes]], [[Paul A. Gosar]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Planned Parenthood Action Fund INC]], [[LOFGREN FOR CONGRESS]], [[NRA Political Victory Fund]], [[NANCY PELOSI FOR CONGRESS]], [[Sierra Club Political Committee]], [[National Education Association]], [[Christopher H. Smith]], [[Rosa DeLauro]], [[AFL-CIO]], [[Steny H. Hoyer]], [[Bernie Sanders]], [[Nancy Pelosi]], [[Zoe Lofgren]]"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
 corroboration-count: 2

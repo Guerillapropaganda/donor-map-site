@@ -32,7 +32,7 @@ committees:
   - Tactical Air and Land Forces
 bills-sponsored: 13
 corroboration-count: 2
-top-donors: "[[TED LIEU FOR CONGRESS]], [[PAUL TONKO FOR CONGRESS]], [[Bradley Scott Schneider]], [[AIPAC - American Israel Public Affairs Committee]], [[PETE AGUILAR FOR CONGRESS]], [[Amgen Inc]], [[Frank Pallone]], [[Steny H. Hoyer]], [[Humana]], [[American College of Radiology Association PAC]], [[CVS Health - Aetna]], [[Robin L. Kelly]], [[Gilead Sciences]], [[HUFFMAN FOR CONGRESS]], [[Let America Vote PAC]], [[Pfizer Inc.]], [[Mary Gay Scanlon]], [[League of Conservation Voters]], [[Hakeem Jeffries]], [[AbbVie]]"
+top-donors: "[[TED LIEU FOR CONGRESS]], [[PAUL TONKO FOR CONGRESS]], [[Bradley Scott Schneider]], [[AIPAC - American Israel Public Affairs Committee]], [[PETE AGUILAR FOR CONGRESS]], [[Amgen Inc]], [[Frank Pallone]], [[Steny H. Hoyer]], [[Humana]], [[American College of Radiology Association PAC]], [[CVS Health - Aetna]], [[Robin L. Kelly]], [[Gilead Sciences]], [[HUFFMAN FOR CONGRESS]], [[Let America Vote PAC]], [[Pfizer Inc.]], [[Mary Gay Scanlon]], [[League of Conservation Voters]], [[Hakeem Jeffries]], [[AbbVie]], [[Ted Lieu]], [[Pete Aguilar]], [[Bonnie Watson Coleman]], [[Leidos]], [[Marc A. Veasey]], [[Jared Huffman]], [[Paul Tonko]]"
 ---
 
 

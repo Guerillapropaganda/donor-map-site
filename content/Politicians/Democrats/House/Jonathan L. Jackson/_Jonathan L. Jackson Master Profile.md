@@ -20,7 +20,7 @@ source-types:
 known-gaps:
   - No FEC contribution data
   - No voting record data
-donors: "[[Western Growers Association]] · [[CA Farm Bureau Federation]] · [[CITIZENS TO ELECT RICK LARSEN]] · [[Cargill]] · [[Al Green]] · [[McDonalds Corporation]] · [[Troy A. Carter]] · [[Ro Khanna]] · [[ADRIANO ESPAILLAT FOR CONGRESS]] · [[National Nurses United]] · [[National Education Association]] · [[J Street]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Nucor Corporation]] · [[Gilead Sciences]] · [[AbbVie]] · [[MEDICARE FOR ALL]] · [[TED LIEU FOR CONGRESS]] · [[Giffords PAC]] · [[ADM - Archer Daniels Midland]] · [[Google - Alphabet]] · [[Protect Our Future PAC]]"
+donors: "[[Western Growers Association]] · [[CA Farm Bureau Federation]] · [[CITIZENS TO ELECT RICK LARSEN]] · [[Cargill]] · [[Al Green]] · [[McDonalds Corporation]] · [[Troy A. Carter]] · [[Ro Khanna]] · [[ADRIANO ESPAILLAT FOR CONGRESS]] · [[National Nurses United]] · [[National Education Association]] · [[J Street]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Nucor Corporation]] · [[Gilead Sciences]] · [[AbbVie]] · [[MEDICARE FOR ALL]] · [[TED LIEU FOR CONGRESS]] · [[Giffords PAC]] · [[ADM - Archer Daniels Midland]] · [[Google - Alphabet]] · [[Protect Our Future PAC]] · [[Nancy Pelosi]] · [[Rick Larsen]] · [[Ted Lieu]] · [[Adriano Espaillat]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 6
 bills-cosponsored: 540

@@ -32,7 +32,7 @@ committees:
   - House Committee on Appropriations
   - Military Construction, Veterans Affairs, and Related Agencies
   - Transportation, Housing and Urban Development, and Related Agencies
-top-donors: "[[Vivek Ramaswamy]], [[Bacardi - Bacardi USA]], [[BYRON DONALDS FOR CONGRESS]], [[Darin Lahood]], [[American Gaming Association]], [[AIPAC - American Israel Public Affairs Committee]], [[Leidos]], [[NRA Political Victory Fund]], [[Associated General Contractors of America Political Action Committee]], [[Google - Alphabet]], [[TEXANS FOR JODEY ARRINGTON]], [[GEO Group - Private Prison Industrial Complex]], [[Paul Ryan]], [[Kevin McCarthy]], [[Mike Haridopolos]], [[Steve Scalise]], [[National Restaurant Association]], [[JASON SMITH FOR CONGRESS]]"
+top-donors: "[[Vivek Ramaswamy]], [[Bacardi - Bacardi USA]], [[BYRON DONALDS FOR CONGRESS]], [[Darin Lahood]], [[American Gaming Association]], [[AIPAC - American Israel Public Affairs Committee]], [[Leidos]], [[NRA Political Victory Fund]], [[Associated General Contractors of America Political Action Committee]], [[Google - Alphabet]], [[TEXANS FOR JODEY ARRINGTON]], [[GEO Group - Private Prison Industrial Complex]], [[Paul Ryan]], [[Kevin McCarthy]], [[Mike Haridopolos]], [[Steve Scalise]], [[National Restaurant Association]], [[JASON SMITH FOR CONGRESS]], [[Byron Donalds]], [[Jodey Arrington]], [[Jason Smith]]"
 ---
 
 
