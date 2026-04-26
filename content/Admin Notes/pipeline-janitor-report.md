@@ -7,6 +7,7 @@ status: open
 last-updated: '2026-04-26'
 generated-by: scripts/pipeline-janitor.cjs
 note-kind: rollup
+harness-check: pipeline-janitor
 ---
 
 # Pipeline Janitor Report
