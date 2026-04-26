@@ -1,11 +1,32 @@
 ---
 title: ADR-0024 Prevention Checklist
 type: admin-note
-status: open
+status: closed
+closed: 2026-04-25
+closed-reason: All listed open work shipped 2026-04-25 (cc_p3_77..85 + tonight's affiliate-id fix). Prevention story is now load-bearing — see "Final state" section below.
 lane: code
 created: 2026-04-25
 last-updated: 2026-04-25
 ---
+
+## Final state (2026-04-25 evening)
+
+All five harness checks live and passing on baseline:
+
+| Check | Baseline | Finding shape |
+|---|---|---|
+| `librarian-validation` | ✓ 0 | Engine refuses to start on dangerous patterns; soft-warns on ambiguous_aliases > threshold |
+| `pathless-stub-entities` | △ 13 | Down from 411 (donor side) + 14 (politician side, now 0). Remaining are editorial donor ghosts. |
+| `duplicate-politician-profiles` | ✓ 0 | Was 2 (Markey, Himes) — merged via merge-phantom-entity-records.cjs |
+| `multi-bioguide-fec-id` | ✓ 0 | Was 9 — resolved via fix-multi-bioguide-entities.cjs |
+| `duplicate-entity-profiles` | △ 11 | NEW (5th check, 2026-04-25 evening). Was 14 — 3 architectural fixes resolved (Equality Project / NEA / NNU). 11 remaining are editorial; queue at duplicate-entity-editorial-queue.md |
+
+Plus: production cache builder migrated to call the librarian (commit ce21a7358); affiliate-id pollution architecture bug fixed in auto-link-committee-affiliates.cjs (this evening's session).
+
+The original "what's open" section below is preserved for historical reference.
+
+---
+
 
 # ADR-0024 Prevention Checklist
 

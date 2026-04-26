@@ -269,6 +269,11 @@ function walk(dir, out) {
 
   let scanned = 0;
   const perProfile = [];
+  const passingProfiles = []; // Per ops-harness-audit-2026-04-24 follow-up #1.
+                              // /signoff-queue reads this list as the live source
+                              // of A+ pass-state instead of the per-profile
+                              // audit-a-plus-passed frontmatter stamp (which
+                              // depends on a background script that may be paused).
   const byType = {};
   const byKind = {};
   const unknownTypes = new Set();
@@ -302,15 +307,23 @@ function walk(dir, out) {
     if (!byType[type]) byType[type] = { scanned: 0, failed: 0, passed: 0 };
     byType[type].scanned++;
 
+    const relPath = path.relative(ROOT, f).replace(/\\/g, '/');
     if (failures.length === 0) {
       byType[type].passed++;
+      passingProfiles.push({
+        file: relPath,
+        title: fm.title || path.basename(f, '.md'),
+        type,
+        tier,
+      });
     } else {
       byType[type].failed++;
-      for (const f of failures) {
-        byKind[f.kind] = (byKind[f.kind] || 0) + 1;
+      for (const fail of failures) {
+        byKind[fail.kind] = (byKind[fail.kind] || 0) + 1;
       }
       perProfile.push({
-        file: path.relative(ROOT, f).replace(/\\/g, '/'),
+        file: relPath,
+        title: fm.title || path.basename(f, '.md'),
         type,
         tier,
         failures,
@@ -330,6 +343,7 @@ function walk(dir, out) {
     by_failure_kind: byKind,
     unknown_types: [...unknownTypes],
     findings: perProfile,
+    passing: passingProfiles,
   };
 
   if (JSON_OUT) {
