@@ -1432,7 +1432,7 @@
     {
       "bucket": "compounding",
       "what": "vault-audit: pipeline-janitor — 606 findings",
-      "why": "Zombie auto-blocks, stale enrichment, A+ audit checks on ready/verified profiles — Scanned 3238 profiles. 606 had issues.",
+      "why": "Zombie auto-blocks, stale enrichment, A+ audit checks on ready/verified profiles — Scanned 3240 profiles. 606 had issues.",
       "where": "/system-health",
       "cost_min": 60,
       "leverage": 3,

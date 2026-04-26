@@ -84,6 +84,28 @@ try {
 const CONTENT_DIR = process.env.CONTENT_DIR || path.join(__dirname, '..', 'content');
 const REPORT_PATH = path.join(CONTENT_DIR, 'Admin Notes', 'pipeline-janitor-report.md');
 const WRITE = process.argv.includes('--write');
+
+// Per ADR-0025 (carve-out from CLAUDE.md Rule 9 / ADR-0021):
+// pipeline-janitor `--write` is authorized to demote a profile iff
+// that profile has at least one MECHANICAL issue from this closed set.
+// Advisory `a-plus-*` issues are NOT demote-triggers — they surface
+// on /attention for editorial action; reclassify-readiness.cjs retains
+// sole authority over readiness changes driven by editorial quality.
+//
+// When adding a new mechanical-issue kind to validateProfile, add it
+// here in the same commit or it silently becomes advisory-only.
+const MECHANICAL_DEMOTE_KINDS = new Set([
+  'zombie-block',
+  'missing-block',
+  'never-enriched',
+  'stale',
+  'known-gap-pipeline',
+  'internal-notes-pipeline',
+]);
+
+function hasMechanicalIssue(issues) {
+  return issues.some((i) => MECHANICAL_DEMOTE_KINDS.has(i.kind));
+}
 const VERBOSE = process.argv.includes('--verbose');
 const ZOMBIES_ONLY = process.argv.includes('--zombies-only');
 const TYPE_FILTER = (process.argv.find(a => a.startsWith('--type=')) || '').split('=')[1] || null;
@@ -732,25 +754,37 @@ function main() {
 
     if (issues.length > 0) {
       const { data } = parseFrontmatter(content);
+      const mechanicalOnly = issues.filter((i) => MECHANICAL_DEMOTE_KINDS.has(i.kind));
+      const advisoryOnly = issues.filter((i) => !MECHANICAL_DEMOTE_KINDS.has(i.kind));
       findings.push({
         filePath,
         title: data.title || path.basename(filePath, '.md'),
         readiness: result.readiness,
         type: result.type,
         issues,
+        mechanical_count: mechanicalOnly.length,
+        advisory_count: advisoryOnly.length,
       });
 
-      if (WRITE) {
-        const { changed } = applyFix(filePath, content, issues);
+      // Per ADR-0025: only demote on mechanical issues. Advisory
+      // (a-plus-*) issues surface for editorial review but don't
+      // trigger automatic demotion.
+      if (WRITE && mechanicalOnly.length > 0) {
+        const { changed } = applyFix(filePath, content, mechanicalOnly);
         if (changed) totals.fixed++;
+      } else if (WRITE && advisoryOnly.length > 0) {
+        totals.advisorySkipped = (totals.advisorySkipped || 0) + 1;
       }
     }
   }
 
+  const mechanicalFindings = findings.filter((f) => f.mechanical_count > 0).length;
+  const advisoryFindings = findings.filter((f) => f.mechanical_count === 0 && f.advisory_count > 0).length;
   console.log(`  Scanned: ${totals.scanned} profiles`);
   console.log(`  Audited (ready/verified): ${totals.audited}`);
-  console.log(`  With issues: ${findings.length}`);
-  if (WRITE) console.log(`  Demoted: ${totals.fixed}`);
+  console.log(`  With issues: ${findings.length}  (mechanical: ${mechanicalFindings}, advisory-only: ${advisoryFindings})`);
+  if (WRITE) console.log(`  Demoted (mechanical issues): ${totals.fixed}`);
+  if (WRITE && totals.advisorySkipped) console.log(`  Skipped demote (advisory-only, per ADR-0025): ${totals.advisorySkipped}`);
   if (WRITE && totals.stamped) console.log(`  Stamped audit-a-plus-passed: ${totals.stamped}`);
   if (WRITE && totals.cohortFlagged) console.log(`  Cohort anomaly-flagged: ${totals.cohortFlagged}`);
   if (WRITE && totals.cleared) console.log(`  Self-healed (cleared reenrich flag): ${totals.cleared}`);
