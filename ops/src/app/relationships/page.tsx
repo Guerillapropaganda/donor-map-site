@@ -641,26 +641,25 @@ export default function RelationshipsPage() {
     // Drag behavior. Lower alphaTarget (0.1, was 0.3) means each
     // drag adds less new energy to the simulation — the network
     // doesn't keep drifting outward on repeated interactions.
-    // Drag is satellite-only. Dragging the center node would move it
-    // away from where the centering forces (forceCenter, forceX/Y) live
-    // at width/2, height/2 — so satellites would settle around viewport
-    // center while the visual center node sits wherever you released it,
-    // producing the disconnected "stretched lines" look. The right way
-    // to refocus on a different entity is to CLICK a satellite, which
-    // rebuilds the graph centered on that one.
+    // Drag is satellite-only at the handler level (NOT via .filter()):
+    // d3-drag's filter rejects events so they bubble up to the container's
+    // pan handler — which would mean clicking the center node pans the
+    // whole graph. Instead, attach drag to all nodes (so the event is
+    // captured) but no-op the handlers for the center. The center
+    // stays anchored at viewport center; satellites are draggable.
+    // To refocus on a different entity, click a satellite.
     const dragBehavior = d3Drag<SVGGElement, ForceNode>()
-      .filter((event) => {
-        const d = (event.target as SVGGElement & { __data__?: ForceNode }).__data__
-        return !d || d.id !== "__center__"
-      })
       .on("start", (event, d) => {
+        if (d.id === "__center__") return
         if (!event.active) sim.alphaTarget(0.1).restart()
         d.fx = d.x; d.fy = d.y
       })
       .on("drag", (event, d) => {
+        if (d.id === "__center__") return
         d.fx = event.x; d.fy = event.y
       })
       .on("end", (event, d) => {
+        if (d.id === "__center__") return
         if (!event.active) sim.alphaTarget(0)
         d.fx = null; d.fy = null
       })
