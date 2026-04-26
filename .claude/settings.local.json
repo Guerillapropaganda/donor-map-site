@@ -152,7 +152,9 @@
       "Bash(git status *)",
       "Bash(git -C C:/Users/third/donor-map-site status -u)",
       "Bash(git -C C:/Users/third/donor-map-site status)",
-      "Bash(node -e ' *)"
+      "Bash(node -e ' *)",
+      "Bash(node scripts/harness-self-audit.cjs --json)",
+      "Bash(node scripts/pipeline-janitor.cjs --json)"
     ]
   }
 }
