@@ -2,6 +2,7 @@ import { NextResponse } from "next/server"
 import * as fs from "fs"
 import * as path from "path"
 import * as yaml from "js-yaml"
+import { getGraph } from "@/lib/donor-map-singleton"
 
 /**
  * /api/lobby-trades — Cross-reference lobbying entities with stock trades
@@ -127,11 +128,53 @@ function loadLobbyingEntities(): LobbyEntity[] {
   return entities
 }
 
+/**
+ * Map: donor name (lowercase) → list of politician/entity names they fund
+ * or are otherwise linked to via 'related' edges.
+ *
+ * Librarian-backed (ADR-0024): for each node in the graph, find its
+ * outgoing monetary + related edges. Group by canonical name (alias-
+ * unified — "Pfizer Inc." and "Pfizer" fold onto one node). Falls back
+ * to a raw JSONL walk if the librarian is unavailable.
+ *
+ * Set DONOR_MAP_LEGACY_LOBBY_TRADES=1 to force the legacy walk.
+ */
 function loadDonorPoliticianEdges(): Record<string, string[]> {
-  // Map: donor name (lowercase) -> politicians they fund.
-  // Reads canonical relationships.jsonl + every data/derived/*.jsonl
-  // (2026-04 split — FEC/IRS/USASpending edges moved to per-source files
-  // to keep each under GitHub's 100 MB cap).
+  if (process.env.DONOR_MAP_LEGACY_LOBBY_TRADES !== "1") {
+    const lib = loadDonorPoliticianEdgesViaLibrarian()
+    if (lib) return lib
+    console.error("[/api/lobby-trades] librarian unavailable, falling back to legacy")
+  }
+  return loadDonorPoliticianEdgesLegacy()
+}
+
+function loadDonorPoliticianEdgesViaLibrarian(): Record<string, string[]> | null {
+  const g = getGraph()
+  if (!g) return null
+
+  const edges: Record<string, string[]> = {}
+  for (const node of g.resolver.allNodes()) {
+    const out = g.neighbors(node.id, {
+      direction: "out",
+      status: "active",
+      edge_types: ["monetary", "related"],
+    })
+    if (out.length === 0) continue
+    const key = node.name.toLowerCase()
+    const targets = edges[key] ?? (edges[key] = [])
+    for (const e of out) {
+      // Use the resolved canonical name when available (alias unification);
+      // fall back to raw if the to-side wasn't resolved (shouldn't happen
+      // since neighbors() only yields indexed edges, but defensive).
+      const toNode = g.resolver.getById(e.to_id)
+      targets.push(toNode?.name ?? e.to_raw)
+    }
+  }
+  return edges
+}
+
+function loadDonorPoliticianEdgesLegacy(): Record<string, string[]> {
+  // Pre-ADR-0024 walk: read canonical + every data/derived/*.jsonl directly.
   const edges: Record<string, string[]> = {}
   const files: string[] = []
   if (fs.existsSync(RELATIONSHIPS_FILE)) files.push(RELATIONSHIPS_FILE)
