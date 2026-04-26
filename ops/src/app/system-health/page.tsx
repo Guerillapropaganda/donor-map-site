@@ -162,53 +162,19 @@ export default function SystemHealthPage() {
   const [running, setRunning] = useState(false)
   const runRef = useRef(0)
 
-  // Vault audit harness state
+  // Vault audit harness state. Per ops-harness-audit-2026-04-24
+  // follow-up #4: HarnessChip is now the single authority for fetching
+  // and re-running the harness. The chip auto-fetches on mount, auto-
+  // POSTs if the artifact is stale, and click-to-rerun. Its onLoad
+  // callback feeds the same `audit` state the VaultAuditPanel below
+  // renders. Eliminates the prior pattern where page-level loadAudit/
+  // rerunAudit raced with the chip's internal fetch.
   const [audit, setAudit] = useState<VaultAuditArtifact | null>(null)
   const [auditError, setAuditError] = useState<string | null>(null)
   const [auditLoading, setAuditLoading] = useState(true)
-  const [auditRunning, setAuditRunning] = useState(false)
 
-  const loadAudit = useCallback(async () => {
-    setAuditLoading(true)
-    setAuditError(null)
-    try {
-      const r = await fetch("/api/vault-audit", { credentials: "include" })
-      if (!r.ok) {
-        const j = await r.json().catch(() => ({}))
-        throw new Error(j.error || `HTTP ${r.status}`)
-      }
-      setAudit(await r.json())
-    } catch (err: any) {
-      setAuditError(err?.message || String(err))
-    } finally {
-      setAuditLoading(false)
-    }
-  }, [])
-
-  const rerunAudit = useCallback(async () => {
-    if (auditRunning) return
-    setAuditRunning(true)
-    setAuditError(null)
-    try {
-      const r = await fetch("/api/vault-audit", {
-        method: "POST",
-        credentials: "include",
-      })
-      if (!r.ok) {
-        const j = await r.json().catch(() => ({}))
-        throw new Error(j.error || `HTTP ${r.status}`)
-      }
-      setAudit(await r.json())
-    } catch (err: any) {
-      setAuditError(err?.message || String(err))
-    } finally {
-      setAuditRunning(false)
-    }
-  }, [auditRunning])
-
-  useEffect(() => {
-    loadAudit()
-  }, [loadAudit])
+  // Initial load is owned by HarnessChip — its onLoad callback below
+  // populates `audit` state. No separate page-level fetch needed.
 
   // Load manifest
   useEffect(() => {
@@ -339,7 +305,13 @@ export default function SystemHealthPage() {
           </p>
         </div>
         <div className="flex items-center gap-2">
-          <HarnessChip />
+          <HarnessChip
+            onLoad={(a) => {
+              setAudit(a as unknown as VaultAuditArtifact)
+              setAuditLoading(false)
+              setAuditError(a.error || null)
+            }}
+          />
           <button
             onClick={runChecks}
             disabled={running}
@@ -350,13 +322,12 @@ export default function SystemHealthPage() {
         </div>
       </div>
 
-      {/* Vault audit harness (ADR-0021 Phase 2) */}
+      {/* Vault audit harness (ADR-0021 Phase 2). Re-run is via the
+          HarnessChip in the header — no panel-local rerun button. */}
       <VaultAuditPanel
         audit={audit}
         loading={auditLoading}
         error={auditError}
-        running={auditRunning}
-        onRerun={rerunAudit}
       />
 
       {/* Top-level stats */}
@@ -603,14 +574,10 @@ function VaultAuditPanel({
   audit,
   loading,
   error,
-  running,
-  onRerun,
 }: {
   audit: VaultAuditArtifact | null
   loading: boolean
   error: string | null
-  running: boolean
-  onRerun: () => void
 }) {
   const stale = audit && audit.age_minutes > 60 * 24
   const headerColor =
@@ -633,13 +600,9 @@ function VaultAuditPanel({
             ADR-0021 Phase 2
           </p>
         </div>
-        <button
-          onClick={onRerun}
-          disabled={running || loading}
-          className="px-4 py-2 text-sm border border-amber-700 bg-amber-900/30 text-amber-200 hover:bg-amber-900/60 rounded disabled:opacity-40"
-        >
-          {running ? "Running..." : "Re-run harness"}
-        </button>
+        <span className="text-[10px] text-neutral-500 italic self-center">
+          Use the harness chip in the header to re-run
+        </span>
       </div>
 
       {loading && !audit && (
