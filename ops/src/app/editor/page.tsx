@@ -37,6 +37,19 @@ import { useSearchParams } from "next/navigation"
 import matter from "gray-matter"
 import type { Profile } from "@/lib/vault"
 import { typeColor, readinessColor } from "@/lib/vault"
+import PreviewServerToggle from "@/components/PreviewServerToggle"
+
+const QUARTZ_PORT = 8080
+
+// Convert a vault path to the URL slug Quartz produces for it.
+// "content/Politicians/.../Bernie Sanders/_Bernie Sanders.md"
+//   → "Politicians/.../Bernie-Sanders/_Bernie-Sanders"
+function profilePathToSlug(profilePath: string): string {
+  return profilePath
+    .replace(/^content\//, "")
+    .replace(/ /g, "-")
+    .replace(/\.md$/, "")
+}
 
 export default function EditorPage() {
   const searchParams = useSearchParams()
@@ -59,6 +72,7 @@ export default function EditorPage() {
   const [dirty, setDirty] = useState(false)
   const [viewMode, setViewMode] = useState<"edit" | "preview" | "split" | "live">("edit")
   const [autoLoaded, setAutoLoaded] = useState(false)
+  const [previewServerRunning, setPreviewServerRunning] = useState(false)
 
   // Unsaved changes warning
   useEffect(() => {
@@ -68,6 +82,16 @@ export default function EditorPage() {
     window.addEventListener("beforeunload", handler)
     return () => window.removeEventListener("beforeunload", handler)
   }, [dirty])
+
+  // Initial preview server status — so the iframe loads immediately if
+  // a prior session left it running, instead of briefly showing the
+  // "Start" prompt on first switch to Live mode.
+  useEffect(() => {
+    fetch("/api/preview-server")
+      .then((r) => r.json())
+      .then((s) => setPreviewServerRunning(!!s.running))
+      .catch(() => {})
+  }, [])
 
   useEffect(() => {
     fetch("/api/vault")
@@ -211,13 +235,15 @@ export default function EditorPage() {
     }
   }
 
-  // Build the live site URL for this profile
-  function getLiveUrl(profilePath: string): string {
-    const slug = profilePath
-      .replace("content/", "")
-      .replace(/ /g, "-")
-      .replace(/\.md$/, "")
-    return `https://thedonormap.org/${slug}`
+  // Local Quartz preview URL (the dev server managed by
+  // PreviewServerToggle). Pixel-identical to what the live site would
+  // render. Public URL kept separately as a fallback link below.
+  function getLocalPreviewUrl(profilePath: string): string {
+    return `http://localhost:${QUARTZ_PORT}/${profilePathToSlug(profilePath)}`
+  }
+
+  function getPublicLiveUrl(profilePath: string): string {
+    return `https://thedonormap.org/${profilePathToSlug(profilePath)}`
   }
 
   // Simple markdown to HTML — no escaping since we control the input
@@ -430,19 +456,73 @@ export default function EditorPage() {
               </div>
 
               {viewMode === "live" ? (
-                /* Live site iframe */
+                /* Live preview iframe — local Quartz dev server, pixel-
+                   identical to what would render on thedonormap.org.
+                   Wikilinks inside the iframe navigate within it, so
+                   you can browse the whole site as a reader from here. */
                 <div className="bg-[var(--color-bg)] border border-[var(--color-border)] rounded-lg overflow-hidden" style={{ height: "70vh" }}>
                   <div className="flex items-center gap-2 px-3 py-1.5 bg-[var(--color-bg-card)] border-b border-[var(--color-border)]">
-                    <span className="w-2 h-2 rounded-full bg-[var(--color-green)]" />
-                    <span className="text-[9px] text-[var(--color-text-dim)] flex-1 truncate">{getLiveUrl(selected.path)}</span>
-                    <a href={getLiveUrl(selected.path)} target="_blank" rel="noopener noreferrer" className="text-[9px] text-[var(--color-steel)] hover:underline">Open</a>
+                    {previewServerRunning ? (
+                      <>
+                        <span className="w-2 h-2 rounded-full bg-[var(--color-green)]" />
+                        <span className="text-[9px] text-[var(--color-text-dim)] flex-1 truncate">
+                          {getLocalPreviewUrl(selected.path)}
+                        </span>
+                        <a
+                          href={getLocalPreviewUrl(selected.path)}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="text-[9px] text-[var(--color-steel)] hover:underline"
+                          title="Open in new tab — browse the whole site as a reader"
+                        >
+                          Open in new tab
+                        </a>
+                        <span className="text-[9px] text-[var(--color-text-dim)]">·</span>
+                        <a
+                          href={getPublicLiveUrl(selected.path)}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="text-[9px] text-[var(--color-text-dim)] hover:text-[var(--color-text)]"
+                          title="The public URL — currently shows construction splash for non-public routes"
+                        >
+                          public URL
+                        </a>
+                        <span className="text-[9px] text-[var(--color-text-dim)]">·</span>
+                        <PreviewServerToggle compact onStatusChange={(s) => setPreviewServerRunning(s.running)} />
+                      </>
+                    ) : (
+                      <>
+                        <span className="w-2 h-2 rounded-full bg-[var(--color-text-dim)]" />
+                        <span className="text-[9px] text-[var(--color-text-dim)] flex-1">
+                          Preview server not running. Start it to see the live-site rendering.
+                        </span>
+                      </>
+                    )}
                   </div>
-                  <iframe
-                    src={getLiveUrl(selected.path)}
-                    className="w-full border-0"
-                    style={{ height: "calc(70vh - 32px)" }}
-                    title="Live preview"
-                  />
+                  {previewServerRunning ? (
+                    <iframe
+                      src={getLocalPreviewUrl(selected.path)}
+                      className="w-full border-0"
+                      style={{ height: "calc(70vh - 32px)" }}
+                      title="Live preview"
+                    />
+                  ) : (
+                    <div
+                      className="w-full flex items-center justify-center p-6"
+                      style={{ height: "calc(70vh - 32px)" }}
+                    >
+                      <div className="max-w-md w-full">
+                        <PreviewServerToggle onStatusChange={(s) => setPreviewServerRunning(s.running)} />
+                        <p className="text-[10px] text-[var(--color-text-dim)] mt-3 leading-relaxed">
+                          The local preview server runs Quartz in dev mode on
+                          port {QUARTZ_PORT}. First start takes 30s–2min while
+                          the site builds; after that, every preview is
+                          instant. You can leave it running across editor
+                          sessions and stop it from this same toggle.
+                        </p>
+                      </div>
+                    </div>
+                  )}
                 </div>
               ) : (
                 <div className="flex gap-3">
