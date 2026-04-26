@@ -1,7 +1,7 @@
 ---
 title: US Chamber of Commerce
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -67,7 +67,11 @@ regulatory-agencies:
   - Occupational Safety and Health Administration
   - Pipeline and Hazardous Materials Safety Administration
 cross-vault-triangulation-count: 23
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 aliases:
   - US CHAMBER OF COMMERCE
 checklist-na:
@@ -77,6 +81,8 @@ employee-contributions: 399
 employee-contributions-total: 171474
 employee-donor-count: 151
 ---
+
+
 
 
 
@@ -99,7 +105,20 @@ employee-donor-count: 151
 
 **Total political spend:** —
 
-*No direct donor→politician dollar flows tracked for this entity. Money may route through controlled vehicles or 501(c)(4) shells. See narrative sections below for details.*
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Linda McMahon | $1,400,000 |
+| Jon Ossoff | $500,415 |
+| Mark Takano | $440,000 |
+| Shelley Moore Capito | $400,000 |
+| Marco Rubio | $8,275 |
+| Ann Wagner | $4,800 |
+| Vern Buchanan | $2,900 |
+| Lisa Blunt Rochester | $2,500 |
+| Tim Scott | $1,800 |
+| Pete Sessions | $1,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
@@ -556,13 +575,14 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Total assets (EOY) | $62.5M |
 | Grants paid out | $1.9M |
 
-**Lifetime grants out (2018–2024):** $24.0M across 276 recipients.
+**Lifetime grants out (2018–2024):** $24.0M across 288 recipients.
 
 **Top 20 recipients:**
 
 | Recipient | Total | Grants | Years |
 |---|---:|---:|---|
-| Chamber of Commerce of the USA | $16.1M | 4 | 2020–2024 |
+| Chamber of Commerce of the USA | $14.2M | 2 | 2020–2024 |
+| CHAMBER OF COMMERCE OF THE USA | $1.8M | 2 | 2022–2023 |
 | KHAN ACADEMY INC | $536K | 1 | 2024 |
 | George Mason Foundation | $325K | 1 | 2019 |
 | NATIONAL BLACK CHAMBER OF COMMERCE | $324K | 2 | 2020–2022 |
@@ -570,20 +590,19 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | USBC ECONOMIC DEVELOPMENT CORPORATION | $324K | 2 | 2020–2022 |
 | PRESIDENTIAL PRECINCT | $316K | 1 | 2024 |
 | BIPARTISAN POLICY CENTER INC | $250K | 2 | 2022–2023 |
-| URBAN ALLIANCE FOUNDATION | $213K | 6 | 2018–2024 |
 | GEORGE MASON UNIVERSITY FOUNDATION | $200K | 1 | 2024 |
 | ETHICS RESOURCE CENTER INC | $184K | 1 | 2024 |
-| SO OTHERS MIGHT EAT | $140K | 6 | 2018–2024 |
+| URBAN ALLIANCE FOUNDATION | $163K | 5 | 2018–2024 |
 | STATE OF LA SOUTHERN UNIVERSITY AND A&amp;M COLLEGE | $120K | 2 | 2022–2023 |
 | THE HOWARD UNIVERSITY | $120K | 2 | 2022–2023 |
+| SO OTHERS MIGHT EAT | $105K | 5 | 2018–2024 |
 | National Cryptologic Museum Foundation | $100K | 1 | 2019 |
 | BLACKSTONE VALLEY CHAMBER OF COMMERCE INC | $95K | 1 | 2018 |
 | LANCASTER CHAMBER OF COMMERCE &amp; INDUSTRY | $95K | 1 | 2018 |
 | MAINE STATE CHAMBER OF COMMERCE EDUCATION FOUNDATION | $95K | 1 | 2018 |
 | TEMPE CHAMBER OF COMMERCE FOUNDATION | $95K | 1 | 2018 |
-| WAKE FOREST CHAMBER FOUNDATION FOR COMMON PROGRESS | $95K | 1 | 2018 |
 
-**Grants received (2018–2024):** $5.8M across 7 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $6.2M across 7 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -592,7 +611,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Silicon Valley Community Foundation | $2.9M | 5 | 2018–2023 |
 | NATIONAL PHILANTHROPIC TRUST | $1.1M | 4 | 2018–2022 |
 | GOLDMAN SACHS PHILANTHROPY FUND | $1.0M | 2 | 2022–2024 |
-| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $490K | 4 | 2018–2022 |
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $840K | 5 | 2018–2022 |
 | SCHWAB CHARITABLE FUND | $200K | 3 | 2020–2024 |
 | Vanguard Charitable Endowment Program | $136K | 1 | 2021 |
 | AMERICAN PETROLEUM INSTITUTE | $30K | 2 | 2022–2023 |

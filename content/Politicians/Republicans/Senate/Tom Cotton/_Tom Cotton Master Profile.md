@@ -1,7 +1,7 @@
 ---
 title: "Tom Cotton Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: "Tom Cotton is the neoconservative donor class's most successful product. His 2014 Senate campaign was funded by Bill Kristol's Emergency Committee for Israel ($960K), Paul Singer's Elliott Management (#2 donor, content-readiness: ready65K+), Sheldon Adelson (content-readiness: ready00K+ fun..."
 last-updated: 2026-04-13
 source-tier: 1
@@ -37,6 +37,8 @@ known-gaps:
   - "No mapped relationships"
 related: "[[_Donald Trump Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]]"
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 bioguide-id: "C001095"
 urls-first-triaged: "2026-04-15"
 bills-enacted: 0
@@ -53,7 +55,12 @@ committees:
   - Senate Committee on Energy and Natural Resources
   - Senate Select Committee on Intelligence
   - Strategic Forces
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -67,14 +74,24 @@ committees:
 
 **Party:** Republican · **Chamber:** Senate · **State:** Arkansas
 **Bioguide ID:** `C001095`
+**FEC candidate ID:** `H2AR04083`
 
 **Total received:** —
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- AIPAC - American Israel Public Affairs Committee
-- Paul Singer
-- Defense Industry
+| Donor | Amount |
+|---|---:|
+| National Republican Senatorial Committee | $300,811 |
+| Dan Sullivan | $79,005 |
+| Koch Industries | $25,000 |
+| Tyson Foods | $25,000 |
+| Associated General Contractors of America Political Action Committee | $21,000 |
+| Common Sense for America PAC | $20,000 |
+| Amgen Inc | $19,000 |
+| National Restaurant Association | $16,000 |
+| AIPAC - American Israel Public Affairs Committee | $15,000 |
+| NRA Political Victory Fund | $14,900 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

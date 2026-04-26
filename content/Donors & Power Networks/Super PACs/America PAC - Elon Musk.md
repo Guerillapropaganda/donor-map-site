@@ -1,7 +1,7 @@
 ---
 title: "America PAC - Elon Musk"
 type: pac
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-17
 source-tier: 1
 parent: null
@@ -22,9 +22,16 @@ cash-on-hand: 275108
 independent-expenditures: 87134
 individual-contributions: 48209280
 last-enriched: 2026-04-20
+needs-reenrichment: true
+reenrich-reason: "no fec ID resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 source-types:
   - FEC
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -41,7 +48,20 @@ source-types:
 
 **Total political spend:** —
 
-*No direct donor→politician dollar flows tracked for this entity. Money may route through controlled vehicles or 501(c)(4) shells. See narrative sections below for details.*
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Donald Trump | $88,218,291 |
+| Kamala Harris | $54,434,171 |
+| Ken Calvert | $944,490 |
+| Michael Lawler | $937,862 |
+| Derek Tran | $553,380 |
+| Josh Riley | $551,533 |
+| Kristen McDonald Rivet | $434,311 |
+| John James | $432,757 |
+| Marcy Kaptur | $410,357 |
+| Marie Gluesenkamp Perez | $321,422 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

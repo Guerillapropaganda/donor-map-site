@@ -1,7 +1,7 @@
 ---
 title: "Graham Platner Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: "Graham Platner is the clearest establishment vs. progressive test case in 2026 Senate races. Both Bernie Sanders AND Elizabeth Warren have endorsed him — a rare unified progressive endorsement — against Maine's Democratic establishment and DSCC (D..."
 last-updated: "2026-04-05"
 source-tier: 1
@@ -20,9 +20,17 @@ known-gaps:
 related: "[[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[2026 Senate Primary Races]] · [[Warren-Sanders Unity and the Schumer Machine]]"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21
+needs-reenrichment: true
+reenrich-reason: "no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage); no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)"
 total-raised: "$12.0M"
 career-total-source: "FEC weball summary (cycles 2026)"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 

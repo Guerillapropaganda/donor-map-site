@@ -1,7 +1,7 @@
 ---
 title: "Insurance Industry Bloc"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18
 source-tier: 1
 parent: null
@@ -17,7 +17,11 @@ ofac-programs:
   - "UKRAINE-EO13662] [RUSSIA-EO14024"
 related: "[[Insurance Industry]] · [[The ACA - Insurance Industry Capture Disguised as Healthcare Reform]] · [[Barack Obama Master Profile]] · [[UnitedHealth Group - Optum]] · [[Blue Cross Blue Shield Association]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Humana]] · [[Anthem - Elevance Health]] · [[Anthem - Elevance Health Political Operation]] · [[Healthcare Sector]] · [[Centene Corporation]] · [[Anthem PAC]] · [[Centene Corporation PAC]]"
 cross-vault-triangulation-count: 13
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 checklist-na:
@@ -31,6 +35,8 @@ corroboration-count: 2
 known-gaps:
   - "No lobbying disclosure data"
 ---
+
+
 
 
 

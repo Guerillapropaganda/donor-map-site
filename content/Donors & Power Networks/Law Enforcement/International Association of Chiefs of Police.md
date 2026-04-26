@@ -1,7 +1,7 @@
 ---
 title: "International Association of Chiefs of Police"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -9,6 +9,8 @@ sector: "Law Enforcement"
 entity-type: "Individual Donor"
 federal-register-mentions: 86
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "no fec-committee-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 regulatory-agencies:
   - "Civil Rights Commission"
   - "Federal Bureau of Investigation"
@@ -41,7 +43,12 @@ federal-awards-total: 84410
 federal-grants: 5
 federal-grants-total: 4985976
 corroboration-count: 3
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -211,15 +218,16 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Total assets (EOY) | — |
 | Grants paid out | — |
 
-**Lifetime grants out (2018–2024):** $65K across 3 recipients.
+**Lifetime grants out (2018–2024):** $65K across 4 recipients.
 
 **Top 20 recipients:**
 
 | Recipient | Total | Grants | Years |
 |---|---:|---:|---|
 | THE COMMUNITY FOUNDATION OF MIDDLE TENNESSEE INC | $25K | 1 | 2023 |
-| NATIONAL LAW ENFORCEMENT OFFICERS MEMORIAL FUND INC | $20K | 2 | 2018–2023 |
 | RESEARCH FOUNDATION OF CUNY | $20K | 1 | 2019 |
+| NATIONAL LAW ENFORCEMENT OFFICERS MEMORIAL FUND INC | $10K | 1 | 2023 |
+| NATIONAL LAW ENFORCEMENT OFFICERS MEMORIAL FUND | $10K | 1 | 2018 |
 
 **Grants received (2018–2022):** $7.9M across 3 grantors (from other vault orgs' Schedule I records).
 

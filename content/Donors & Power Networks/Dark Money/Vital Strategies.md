@@ -1,20 +1,28 @@
 ---
 title: "Vital Strategies"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18
 sector: "Dark Money"
 entity-type: "501(c)(3)"
 ein: "223419667"
 nonprofit-status: "501(c)(3)"
 source-tier: 1
-internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Public-health 501(c)(3). Funded heavily by Bloomberg Philanthropies; operates global tobacco/nutrition/road-safety policy programs that shape domestic regulatory politics. Narrative pending Research Claude editorial pass."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Public-health 501(c)(3). Funded heavily by Bloomberg Philanthropies; operates global tobacco/nutrition/road-safety policy programs that shape domestic regulatory politics. Narrative pending Research Claude editorial pass."
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
   - "No mapped relationships"
 last-enriched: 2026-04-21
+needs-reenrichment: true
+reenrich-reason: "no fec-committee-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 ---
+
+
 
 
 
@@ -96,7 +104,7 @@ last-enriched: 2026-04-21
 | SOUTHEASTERN MICHIGAN HEALTH ASSOCIATION | $947K | 4 | 2019–2023 |
 | PATH | $863K | 1 | 2020 |
 
-**Grants received (2018–2024):** $259.0M across 4 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $259.7M across 5 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -106,6 +114,7 @@ last-enriched: 2026-04-21
 | SCHWAB CHARITABLE FUND | $81.4M | 7 | 2018–2024 |
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $41.0M | 3 | 2019–2021 |
 | Silicon Valley Community Foundation | $15.0M | 1 | 2022 |
+| CLIMATEWORKS FOUNDATION | $790K | 3 | 2018–2023 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

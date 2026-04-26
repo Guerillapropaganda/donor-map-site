@@ -1,7 +1,7 @@
 ---
 title: Ford Motor Company
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -48,7 +48,11 @@ federal-contracts-count: 25
 federal-grants-count: 7
 related: "[[The Agriculture Committee and Farm Bill Politics]] · [[The Auto Industry Alliance and EV Manufacturing Subsidies]] · [[Gretchen Whitmer Master Profile]] · [[Alpine Group]] · [[General Motors]] · [[UAW - United Auto Workers]] · [[_Joe Biden Master Profile|Biden]] · [[UPS]]"
 cross-vault-triangulation-count: 6
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 84
 epa-states: CA, CO, FL, GA, IL, KY, MI, MN, NJ, NY, OH, TN, TX, VA
 federal-contracts: 19489
@@ -61,6 +65,8 @@ employee-contributions: 64673
 employee-contributions-total: 4998432
 employee-donor-count: 13436
 ---
+
+
 
 
 
@@ -82,7 +88,20 @@ employee-donor-count: 13436
 
 **Total political spend:** —
 
-*No direct donor→politician dollar flows tracked for this entity. Money may route through controlled vehicles or 501(c)(4) shells. See narrative sections below for details.*
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Debbie Dingell | $39,050 |
+| Elissa Slotkin | $23,558 |
+| John James | $23,447 |
+| Tim Walberg | $22,000 |
+| Marcy Kaptur | $21,500 |
+| Sam Graves | $20,000 |
+| Morgan McGarvey | $17,000 |
+| Jason Smith | $16,500 |
+| David Kustoff | $14,000 |
+| Darin Lahood | $13,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

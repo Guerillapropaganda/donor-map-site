@@ -151,7 +151,8 @@
       "Bash(node -e \"const n=new Date\\(\\); console.log\\('System time:', n.toISOString\\(\\), '| Local:', n.toLocaleString\\('en-US',{timeZone:'America/Chicago',hour12:false}\\)\\)\")",
       "Bash(git status *)",
       "Bash(git -C C:/Users/third/donor-map-site status -u)",
-      "Bash(git -C C:/Users/third/donor-map-site status)"
+      "Bash(git -C C:/Users/third/donor-map-site status)",
+      "Bash(node -e ' *)"
     ]
   }
 }

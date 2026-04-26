@@ -1,7 +1,7 @@
 ---
 title: Stephen Miller
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -27,7 +27,14 @@ related: "[[_Donald Trump Master Profile]] · [[_Steve Bannon Master Profile]] �
 donors: "[[Tim Dunn]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Bradley Impact Fund]] · [[Heritage Foundation]] · [[DonorsTrust]] · [[Republican Jewish Coalition]] · [[Hillary Clinton]] · [[National Republican Senatorial Committee]] · [[H. Morgan Griffith]] · [[SUSIE LEE FOR CONGRESS]] · [[SUSIE LEE FOR NEVADA]] · [[Donald Trump]] · [[CHRIS CHRISTIE FOR PRESIDENT, INC.]] · [[Bill Cassidy]] · [[ADAM GRAY FOR CONGRESS]] · [[James Lankford]] · [[John R. Carter]] · [[MARCO RUBIO FOR PRESIDENT]] · [[PETERS FOR MICHIGAN]] · [[Adam Schiff]] · [[MARY MILLER FOR CONGRESS]] · [[SHONTEL BROWN FOR CONGRESS]] · [[MAST FOR CONGRESS]] · [[Raul Grijalva]] · [[Bernie Sanders]] · [[Vivek Ramaswamy]] · [[Marco Rubio]] · [[MARTIN HEINRICH FOR SENATE]] · [[Henry Cuellar]] · [[WARREN FOR SENATE, INC.]] · [[Democratic Senatorial Campaign Committee]] · [[Amy Klobuchar]] · [[Jefferson van Drew]] · [[HAGEMAN FOR WYOMING]] · [[John Boehner]] · [[ROGER WILLIAMS FOR U S CONGRESS COMMITTEE]] · [[Trump Victory]] · [[Mike Pompeo]] · [[Eric Swalwell]] · [[Steve Scalise]] · [[JUDY CHU FOR CONGRESS]] · [[ActBlue Non-Federal]]"
 corroboration-count: 2
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -44,7 +51,20 @@ last-enriched: 2026-04-21T00:00:00.000Z
 
 **Total received:** $181,912
 
-*Top donors list present but amounts not yet quantified. See narrative sections for details.*
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Donald Trump | $587,196 |
+| Bill Cassidy | $273,565 |
+| WARREN FOR SENATE, INC. | $198,333 |
+| MARCO RUBIO FOR PRESIDENT | $95,514 |
+| National Republican Senatorial Committee | $89,401 |
+| HAGEMAN FOR WYOMING | $72,362 |
+| John R. Carter | $62,569 |
+| Bernie Sanders | $61,736 |
+| CHRIS CHRISTIE FOR PRESIDENT, INC. | $60,000 |
+| JUDY CHU FOR CONGRESS | $59,256 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

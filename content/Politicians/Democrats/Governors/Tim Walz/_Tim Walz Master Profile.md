@@ -1,7 +1,7 @@
 ---
 title: Tim Walz
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: "Walz's authenticity is genuine: he taught school, coached football, served in the National Guard, and built Minnesota Democratic politics through labor union relationships rather than Wall Street finance. The question is whether this authenticity ..."
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
@@ -20,12 +20,18 @@ reenrich-reason: run voting pipeline; run congress pipeline
 wikipedia-url: https://en.wikipedia.org/wiki/Tim_Walz
 wikipedia-extract: Timothy James Walz is an American politician, former educator, and Army National Guard veteran serving since 2019 as the 41st governor of Minnesota. He was a member of the U.S.
 born: "1964-04-06"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 total-raised: $113,151
 total-spent: $155,222
 cash-on-hand: "0.00"
 fec-cycle: 2018
 ---
+
+
 
 
 
@@ -47,9 +53,16 @@ fec-cycle: 2018
 
 | Donor | Amount |
 |---|---:|
-| SEIU COPE | $516,807 |
-| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $212,147 |
-| BLUEGREEN ALLIANCE | $108,805 |
+| National Education Association | $60,000 |
+| AFL-CIO | $45,312 |
+| International Association of Firefighters Interested in Registration and Education PAC | $30,500 |
+| ADM - Archer Daniels Midland | $20,500 |
+| NRA Political Victory Fund | $18,950 |
+| Nancy Pelosi | $15,000 |
+| Steny H. Hoyer | $12,000 |
+| League of Conservation Voters | $11,500 |
+| Planned Parenthood Action Fund INC | $11,000 |
+| Xavier Becerra | $9,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

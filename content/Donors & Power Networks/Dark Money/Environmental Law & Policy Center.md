@@ -1,7 +1,7 @@
 ---
 title: Environmental Law & Policy Center
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 2
 parent: null
@@ -31,7 +31,11 @@ court-jurisdictions:
   - Court of Appeals for the Third Circuit
   - District Court, D. North Dakota
 cross-vault-triangulation-count: 4
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -41,6 +45,8 @@ employee-contributions-total: 72502
 employee-donor-count: 32
 politicians-funded: "[[ActBlue]], [[_Bill Foster Master Profile]], [[_Lauren Underwood Master Profile]], [[_Tammy Baldwin Master Profile]], [[_Melissa Bean Master Profile]], [[_Kamala Harris Master Profile]], [[Bill Foster]], [[Lauren Underwood]], [[Kamala Harris]], [[Melissa Bean]], [[Tammy Baldwin]]"
 ---
+
+
 
 
 
@@ -63,6 +69,16 @@ politicians-funded: "[[ActBlue]], [[_Bill Foster Master Profile]], [[_Lauren Und
 **Ideological function:** `dark-money-networked`
 
 **Total political spend:** —
+
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Bill Foster | $9,750 |
+| Lauren Underwood | $1,025 |
+| Kamala Harris | $500 |
+| Melissa Bean | $250 |
+| Tammy Baldwin | $250 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
@@ -295,15 +311,15 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Little Village Environmental Justice Organization | $8K | 1 | 2021 |
 | Heaven's View Community Development Corp | $7K | 1 | 2021 |
 
-**Grants received (2018–2024):** $1.0M across 7 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $1.1M across 7 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
 | IMPACTASSETSINC | $380K | 1 | 2023 |
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $301K | 7 | 2018–2023 |
 | SCHWAB CHARITABLE FUND | $268K | 7 | 2018–2024 |
-| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $260K | 6 | 2018–2023 |
 | Vanguard Charitable Endowment Program | $61K | 3 | 2021–2023 |
 | AMERICAN ENDOWMENT FOUNDATION | $37K | 2 | 2023–2024 |
 | NEW VENTURE FUND | $20K | 2 | 2022–2024 |

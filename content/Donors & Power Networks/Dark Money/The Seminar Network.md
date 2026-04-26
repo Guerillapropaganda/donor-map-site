@@ -1,20 +1,28 @@
 ---
 title: "The Seminar Network"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18
 sector: "Dark Money"
 entity-type: "501(c)(4)"
 ein: "463508366"
 nonprofit-status: "501(c)(4)"
 source-tier: 1
-internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Koch-network donor summit infrastructure. Rebranded form of Freedom Partners / Americans for Prosperity parent coordination. Part of Stand Together umbrella. Narrative pending Research Claude editorial pass."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Koch-network donor summit infrastructure. Rebranded form of Freedom Partners / Americans for Prosperity parent coordination. Part of Stand Together umbrella. Narrative pending Research Claude editorial pass."
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
   - "No mapped relationships"
 last-enriched: 2026-04-21
+needs-reenrichment: true
+reenrich-reason: "no fec-committee-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 ---
+
+
 
 
 
@@ -57,16 +65,53 @@ last-enriched: 2026-04-21
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 8 (2019–2024)
 
-**Grants received (2018–2024):** $122.3M across 7 grantors (from other vault orgs' Schedule I records).
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $152.8M |
+| Total expenses | — |
+| Total assets (EOY) | $303.8M |
+| Grants paid out | $132.0M |
+
+**Lifetime grants out (2019–2024):** $472.3M across 45 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| SEE ATTACHED | $385.8M | 3 | 2022–2024 |
+| AMERICANS FOR PROSPERITY FOUNDATION | $19.4M | 2 | 2019–2020 |
+| GREATER HORIZONS | $15.8M | 2 | 2019–2020 |
+| FIDELITY CHARITABLE | $15.0M | 1 | 2019 |
+| STAND TOGETHER FOUNDATION | $5.2M | 2 | 2019–2020 |
+| CAUSE OF ACTION INSTITUTE | $5.1M | 2 | 2019–2020 |
+| VELA EDUCATION FUND | $3.1M | 1 | 2020 |
+| BILL OF RIGHTS INSTITUTE | $3.0M | 2 | 2019–2020 |
+| SANTA CLARA UNIVERISTY | $2.1M | 2 | 2019–2020 |
+| YOUTH ENTREPRENEURS | $2.0M | 2 | 2019–2020 |
+| CENTER FOR GROWTH AND OPPORTUNITY | $1.9M | 1 | 2020 |
+| TEXAS PUBLIC POLICY FOUNDATION | $1.3M | 2 | 2019–2020 |
+| FOUNDATION FOR INDIVIDUAL RIGHTS IN EDUCATION | $1.3M | 2 | 2019–2020 |
+| CHARLES KOCH FOUNDATION | $1.3M | 2 | 2019–2020 |
+| BELLWETHER EDUCATION PARTNERS | $1.0M | 1 | 2020 |
+| EDCHOICE INC | $883K | 1 | 2019 |
+| INSTITUTE FOR HUMANE STUDIES | $705K | 1 | 2019 |
+| YOUNG AMERICANS FOR LIBERTY FOUNDATION | $692K | 2 | 2019–2020 |
+| RICE UNIVERSITY | $667K | 1 | 2020 |
+| THE UNIVERSITY OF TEXAS AT AUSTIN | $600K | 2 | 2019–2020 |
+
+**Grants received (2018–2024):** $122.6M across 7 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
 | NATIONAL PHILANTHROPIC TRUST | $101.9M | 5 | 2019–2023 |
-| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $18.4M | 6 | 2018–2023 |
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $18.7M | 7 | 2018–2023 |
 | GOLDMAN SACHS PHILANTHROPY FUND | $801K | 3 | 2022–2024 |
 | SCHWAB CHARITABLE FUND | $619K | 6 | 2018–2024 |
 | Vanguard Charitable Endowment Program | $341K | 3 | 2021–2023 |

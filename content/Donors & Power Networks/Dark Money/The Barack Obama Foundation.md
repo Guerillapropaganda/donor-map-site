@@ -1,20 +1,28 @@
 ---
 title: "The Barack Obama Foundation"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18
 sector: "Dark Money"
 entity-type: "Presidential Foundation"
 ein: "464950751"
 nonprofit-status: "501(c)(3)"
 source-tier: 1
-internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Obama Presidential Foundation. Funds the Obama Presidential Center on Chicago's South Side plus the Obama Leaders global fellowship programs. Narrative pending Research Claude editorial pass."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Obama Presidential Foundation. Funds the Obama Presidential Center on Chicago's South Side plus the Obama Leaders global fellowship programs. Narrative pending Research Claude editorial pass."
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
   - "No mapped relationships"
 last-enriched: 2026-04-21
+needs-reenrichment: true
+reenrich-reason: "no fec-committee-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 ---
+
+
 
 
 
@@ -57,15 +65,52 @@ last-enriched: 2026-04-21
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 8 (2018–2024)
 
-**Grants received (2018–2024):** $189.4M across 10 grantors (from other vault orgs' Schedule I records).
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $194.9M |
+| Total expenses | — |
+| Total assets (EOY) | $1.11B |
+| Grants paid out | $7.1M |
+
+**Lifetime grants out (2018–2024):** $37.8M across 47 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| GOFUNDMEORG | $7.8M | 6 | 2020–2024 |
+| CHICAGO PARK DISTRICT | $5.5M | 3 | 2021–2024 |
+| NATIONAL ARCHIVES TRUST FUND | $2.3M | 2 | 2023–2024 |
+| THE NATIONAL ARCHIVES ASSEMBLY | $2.2M | 3 | 2019–2020 |
+| EDUCATIONAL RESULTS PARTNERSHIP | $2.1M | 2 | 2020 |
+| TIDES CENTER | $2.0M | 2 | 2022–2023 |
+| URBAN ALLIANCE FOUNDATION INC | $1.5M | 4 | 2021–2024 |
+| EMERALD SOUTH ECONOMIC DEVELOPMENT COLLABORATIVE | $1.3M | 2 | 2021–2022 |
+| JOHN JAY COLLEGE FOUNDATION INC | $1.3M | 2 | 2023–2024 |
+| AFRICAN-AMERICAN EMPOWERMENT NETWORK | $968K | 4 | 2020–2023 |
+| THRIVE CHICAGO | $892K | 2 | 2022–2023 |
+| YOUTH GUIDANCE | $800K | 4 | 2018–2020 |
+| IMPACTTULSA INC | $800K | 1 | 2023 |
+| YONKERS CITY SCHOOL DISTRICT YONKERS PUBLIC SCHOOLS | $800K | 1 | 2023 |
+| YOUTHBUILD NEWARK INC | $800K | 1 | 2023 |
+| BLACK FAMILY DEVELOPMENT INC | $700K | 4 | 2018–2020 |
+| NEPPERHAN COMMUNITY CENTER INC | $700K | 4 | 2018–2020 |
+| NACA INSPIRED SCHOOLS NETWORK | $684K | 5 | 2018–2021 |
+| LIBERTY HILL FOUNDATION | $663K | 7 | 2018–2023 |
+| SIERRA HEALTH FOUNDATION CENTER FOR HEALTH PROGRAM MANAGEMENT | $625K | 4 | 2018–2020 |
+
+**Grants received (2018–2024):** $199.3M across 10 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
-| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $43.8M | 6 | 2018–2023 |
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $53.7M | 7 | 2018–2023 |
 | Goldman Sachs Philanthropy Fund | $38.6M | 6 | 2018–2024 |
 | NATIONAL PHILANTHROPIC TRUST | $35.4M | 6 | 2018–2023 |
 | AMERICAN ENDOWMENT FOUNDATION | $26.1M | 5 | 2019–2024 |

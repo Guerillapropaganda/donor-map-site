@@ -1,7 +1,7 @@
 ---
 title: "Abdul El-Sayed Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: "Abdul El-Sayed represents the 2026 Sanders wing's bet that a genuine progressive — small-dollar funded, corporate PAC-free, Medicare for All advocate with actual public health credentials — can win a Democratic primary against the establishment's ..."
 last-updated: 2026-04-13
 source-tier: 1
@@ -14,6 +14,8 @@ total-received: "$5,350,824"
 fec-candidate-id: "S6MI00418"
 ofac-sdn-match: "true"
 last-enriched: "2026-04-06"
+needs-reenrichment: true
+reenrich-reason: "no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage); no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)"
 ofac-programs:
   - "SDGT"
   - "SDNT"
@@ -28,7 +30,13 @@ related: "[[_Bernie Sanders Master Profile|Bernie Sanders]] · [[2026 Senate Pri
 urls-first-triaged: "2026-04-15"
 total-raised: "$7.6M"
 career-total-source: "FEC weball summary (cycles 2026)"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -49,7 +57,6 @@ career-total-source: "FEC weball summary (cycles 2026)"
 
 | Donor | Amount |
 |---|---:|
-| Medicare for All - The Policy That Broke the Party | $5,000 |
 | Emgage Federal Political Action Committee | $1,000 |
 | League of Conservation Voters | $50 |
 

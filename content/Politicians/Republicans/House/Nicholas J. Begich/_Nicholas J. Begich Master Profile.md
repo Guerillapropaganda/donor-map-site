@@ -1,7 +1,7 @@
 ---
 title: Nicholas J. Begich
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Republican
@@ -23,6 +23,8 @@ known-gaps:
   - No mapped relationships
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 committees:
   - Aviation
   - Coast Guard and Maritime Transportation
@@ -38,7 +40,12 @@ committees:
 bills-sponsored: 26
 corroboration-count: 2
 top-donors: "[[HOUCHIN FOR CONGRESS]], [[ANDY HARRIS FOR CONGRESS]], [[National Right to Life Victory Fund]], [[Robert F. Onder]], [[Club for Growth INC PAC]], [[MARY MILLER FOR CONGRESS]], [[Brett Guthrie]], [[Dale W. Strong]], [[DAVID ROUZER FOR CONGRESS]], [[HAGEMAN FOR WYOMING]], [[Kevin Kiley]], [[Jeff Hurd]], [[Mark B. Messmer]], [[FISCHBACH FOR CONGRESS]], [[BOST, MICHAEL]], [[Republican Jewish Coalition]], [[MIKE COLLINS FOR SENATE]], [[Brandon Gill]], [[MIKE KENNEDY FOR UTAH]], [[Dan Newhouse]], [[JAKE ELLZEY FOR CONGRESS]], [[Jimmy Patronis]], [[Koch Industries]], [[Coinbase]], [[COMER FOR CONGRESS]], [[Rick Crawford]], [[Neal P. Dunn]], [[Tom Emmer]], [[BURCHETT FOR CONGRESS]], [[Gun Owners of America]], [[Clay Higgins]], [[Google - Alphabet]], [[FEDORCHAK FOR ND]], [[Mike Johnson]], [[MIKE HARIDOPOLOS FOR CONGRESS]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[NRA Political Victory Fund]], [[BRANDON GILL FOR TEXAS]], [[National Cattlemen's Beef Association]], [[Robert E. Latta]], [[CLIFF BENTZ FOR CONGRESS]], [[MARK HARRIS FOR CONGRESS]], [[TROY DOWNING FOR CONGRESS]], [[LISA MCCLAIN FOR CONGRESS]], [[Gregory F. Murphy]], [[Steve Scalise]], [[FRIENDS OF TIM MOORE]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Frank Lucas]], [[John J. McGuire]], [[JIM JORDAN FOR CONGRESS]], [[PETE SESSIONS FOR CONGRESS]], [[BYRON DONALDS FOR CONGRESS]], [[Guy Reschenthaler]], [[Williams Companies]], [[Tim Walberg]], [[WEBER FOR CONGRESS]], [[Associated General Contractors of America Political Action Committee]], [[DAVE TAYLOR FOR CONGRESS]], [[CARLOS GIMENEZ FOR CONGRESS]], [[MCDOWELL FOR CONGRESS]], [[ROBERT ADERHOLT FOR CONGRESS]], [[THOMAS MASSIE FOR CONGRESS]], [[RICK W. ALLEN FOR CONGRESS]], [[Leidos]], [[KEVIN KILEY FOR CONGRESS]], [[Mark Harris]], [[GLENN GROTHMAN FOR CONGRESS]], [[FRY FOR CONGRESS]], [[CVS Health - Aetna]], [[CLYDE FOR CONGRESS, INC.]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[Russ Fulcher]], [[Pat Fallon]], [[Southern Company]], [[JOE WILSON FOR CONGRESS]], [[BEN CLINE FOR CONGRESS, INC.]], [[James Comer]], [[Glenn Grothman]], [[Thomas Massie]], [[Tim Burchett]], [[Tim Moore]], [[Julie Fedorchak]], [[Harriet M. Hageman]], [[David J. Taylor]], [[Mary E. Miller]], [[Byron Donalds]], [[Joe Wilson]], [[Erin Houchin]], [[Jim Jordan]], [[Mike Kennedy]], [[Russell Fry]], [[Cliff Bentz]], [[Andy Harris]], [[Carlos Gimenez]], [[Mike Collins]], [[Jake Ellzey]], [[Rick W. Allen]], [[Michelle Fischbach]], [[Troy Downing]], [[David Rouzer]], [[Mike Bost]], [[Lisa C. McClain]], [[Mike Haridopolos]], [[Randy K. Weber]], [[Robert B. Aderholt]], [[Addison P. McDowell]], [[Pete Sessions]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -53,8 +60,24 @@ top-donors: "[[HOUCHIN FOR CONGRESS]], [[ANDY HARRIS FOR CONGRESS]], [[National 
 
 **Party:** Republican · **Chamber:** House · **State:** Alaska
 **Bioguide ID:** `B001323`
+**FEC candidate ID:** `H2AK01083`
 
 **Total received:** —
+
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Club for Growth INC PAC | $38,900 |
+| Koch Industries | $15,000 |
+| Mark Harris | $7,300 |
+| Brandon Gill | $7,000 |
+| Williams Companies | $6,000 |
+| Jim Jordan | $6,000 |
+| Clay Higgins | $6,000 |
+| Andy Harris | $6,000 |
+| Republican Jewish Coalition | $5,000 |
+| National Cattlemen's Beef Association | $5,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

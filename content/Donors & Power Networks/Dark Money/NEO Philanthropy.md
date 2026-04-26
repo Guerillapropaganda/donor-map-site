@@ -1,20 +1,28 @@
 ---
 title: "NEO Philanthropy"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18
 sector: "Dark Money"
 entity-type: "Fiscal Sponsor"
 ein: "133191113"
 nonprofit-status: "501(c)(3)"
 source-tier: 1
-internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Fiscal-sponsor network hosting dozens of social-justice project entities. Major progressive fiscal sponsor alternative to Tides. Narrative pending Research Claude editorial pass."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Fiscal-sponsor network hosting dozens of social-justice project entities. Major progressive fiscal sponsor alternative to Tides. Narrative pending Research Claude editorial pass."
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
   - "No mapped relationships"
 last-enriched: 2026-04-21
+needs-reenrichment: true
+reenrich-reason: "no fec-committee-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 ---
+
+
 
 
 
@@ -57,29 +65,71 @@ last-enriched: 2026-04-21
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 6 (2018–2024)
 
-**Grants received (2018–2024):** $80.1M across 15 grantors (from other vault orgs' Schedule I records).
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $163.8M |
+| Total expenses | — |
+| Total assets (EOY) | $185.6M |
+| Grants paid out | $103.5M |
+
+**Lifetime grants out (2018–2024):** $376.0M across 1,314 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| Breakthrough Energy Foundation | $23.6M | 1 | 2024 |
+| State Voices | $6.5M | 6 | 2018–2024 |
+| One Arizona | $6.5M | 6 | 2018–2024 |
+| ProGeorgia State Table Inc | $6.2M | 6 | 2018–2024 |
+| Mexican American Legal Defense And Educational Fun | $5.8M | 3 | 2019–2022 |
+| Asian American Advancing Justice -AAJCInc | $5.8M | 4 | 2019–2023 |
+| Tides Foundation | $5.0M | 6 | 2018–2024 |
+| The Markup News Inc | $4.5M | 2 | 2019–2020 |
+| Pennsylvania Voice | $4.4M | 6 | 2018–2024 |
+| Tides Center | $4.0M | 6 | 2018–2024 |
+| Asian American Advancing Justice - AAJCInc | $3.7M | 1 | 2024 |
+| Blueprint North Carolina | $3.7M | 6 | 2018–2024 |
+| Common Cause Education Fund | $3.2M | 6 | 2018–2024 |
+| Alliance For Youth Organizing | $3.1M | 6 | 2018–2024 |
+| United We Dream Network | $2.8M | 5 | 2018–2023 |
+| Lawyers Committee For Civil Rights Under Law | $2.6M | 5 | 2019–2024 |
+| National Coalition On Black Civic Participation | $2.6M | 6 | 2018–2024 |
+| National Black Worker Center Inc | $2.6M | 2 | 2023–2024 |
+| New Georgia Project Inc | $2.6M | 6 | 2018–2024 |
+| Center For Civic Policy | $2.6M | 5 | 2019–2024 |
+
+**Grants received (2018–2024):** $85.1M across 20 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
-| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $28.1M | 6 | 2018–2023 |
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $29.3M | 7 | 2018–2023 |
 | NATIONAL PHILANTHROPIC TRUST | $17.5M | 6 | 2018–2023 |
-| NEW VENTURE FUND | $9.4M | 7 | 2018–2024 |
+| NEW VENTURE FUND | $10.1M | 8 | 2018–2024 |
 | ROCKEFELLER PHILANTHROPY ADVISORS INC | $8.5M | 7 | 2018–2024 |
 | Silicon Valley Community Foundation | $7.4M | 5 | 2018–2023 |
 | IMPACTASSETSINC | $4.5M | 10 | 2018–2023 |
+| BLUE MERIDIAN PARTNERS INC | $1.4M | 1 | 2023 |
 | SCHWAB CHARITABLE FUND | $1.2M | 7 | 2018–2024 |
 | Vanguard Charitable Endowment Program | $1.0M | 3 | 2021–2023 |
+| PROTEUS FUND INC | $754K | 13 | 2018–2023 |
 | AMERICAN ENDOWMENT FOUNDATION | $721K | 6 | 2018–2024 |
+| Center on Budget and Policy Priorities | $650K | 4 | 2022–2024 |
 | GS DONOR ADVISED PHILANTHROPY FUND | $528K | 2 | 2023–2024 |
 | HOPEWELL FUND | $493K | 3 | 2020–2023 |
 | MORGAN STANLEY GLOBAL IMPACT FUNDING | $263K | 3 | 2020–2024 |
 | FUTURE FORWARD USA ACTION | $250K | 1 | 2024 |
 | PLANNED PARENTHOOD FEDERATION OF AMERICA INC | $240K | 5 | 2019–2023 |
+| ROBIN HOOD FOUNDATION | $200K | 2 | 2023–2024 |
 | ECONOMIC POLICY INSTITUTE | $75K | 1 | 2022 |
+| NEW AMERICA FOUNDATION | $51K | 1 | 2023 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

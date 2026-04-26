@@ -1,7 +1,7 @@
 ---
 title: ExxonMobil
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -57,13 +57,19 @@ regulatory-agencies:
 lei: 549300QUCKLMUO3B0I31
 lei-jurisdiction: BE
 cross-vault-triangulation-count: 31
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 20
 epa-states: CA, CT, LA, MI, MN, NJ, PA, RI, TN, TX, VA
 employee-contributions: 9543
 employee-contributions-total: 1343236
 employee-donor-count: 1263
 ---
+
+
 
 
 
@@ -85,7 +91,20 @@ employee-donor-count: 1263
 
 **Total political spend:** —
 
-*No direct donor→politician dollar flows tracked for this entity. Money may route through controlled vehicles or 501(c)(4) shells. See narrative sections below for details.*
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Ted Cruz | $29,715 |
+| Ron Johnson | $8,468 |
+| Marco Rubio | $5,847 |
+| Mike Thompson | $5,500 |
+| Jon Ossoff | $4,205 |
+| Mark Kelly | $2,422 |
+| Tim Scott | $1,268 |
+| Kamala Harris | $1,000 |
+| Vicente Gonzalez | $1,000 |
+| Doug Burgum | $1,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
@@ -665,9 +684,9 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 | Metric | Amount |
 |---|---:|
-| Total revenue | — |
+| Total revenue | $4.7M |
 | Contribution revenue | — |
-| Total expenses | — |
+| Total expenses | $24.4M |
 | Total assets (EOY) | $78.4M |
 | Grants paid out | — |
 

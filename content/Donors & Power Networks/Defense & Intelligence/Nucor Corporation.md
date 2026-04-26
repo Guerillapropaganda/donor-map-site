@@ -1,7 +1,7 @@
 ---
 title: Nucor Corporation
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -27,7 +27,11 @@ court-jurisdictions:
   - District Court, S.D. Texas
   - United States Court of International Trade
 cross-vault-triangulation-count: 4
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 5
 epa-states: CA, IN, NE, WY
 total-raised: 398362
@@ -39,6 +43,8 @@ employee-contributions: 7025
 employee-contributions-total: 2546541
 employee-donor-count: 1004
 ---
+
+
 
 
 
@@ -59,7 +65,20 @@ employee-donor-count: 1004
 
 **Total political spend:** —
 
-*No direct donor→politician dollar flows tracked for this entity. Money may route through controlled vehicles or 501(c)(4) shells. See narrative sections below for details.*
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Terri A. Sewell | $74,500 |
+| James E. Clyburn | $73,500 |
+| Rick Crawford | $63,400 |
+| Richard Hudson | $53,444 |
+| Joe Wilson | $47,000 |
+| Marcy Kaptur | $43,400 |
+| Steve Cohen | $37,500 |
+| Brett Guthrie | $37,500 |
+| Robin L. Kelly | $37,500 |
+| Tim Scott | $36,192 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

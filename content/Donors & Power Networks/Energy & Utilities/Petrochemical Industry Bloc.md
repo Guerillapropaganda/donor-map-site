@@ -1,7 +1,7 @@
 ---
 title: Petrochemical Industry Bloc
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18
 source-tier: 1
 parent: null
@@ -19,7 +19,11 @@ ofac-programs:
   - "NPWMD] [IFSR"
 related: "[[American Petroleum Institute]] · [[Bill Cassidy Master Profile]] · [[The Impeachment Vote and the Petrochemical Protection]] · [[Fossil Fuel Bloc]] · [[Marathon Petroleum]] · [[ExxonMobil]] · [[Koch Network - Charles Koch|Koch Network]] · [[Western States Petroleum Association]] · [[ALEC - American Legislative Exchange Council]] · [[National Association of Manufacturers]] · [[DeVos Family]] · [[Defense Contractors Bloc]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[National Education Association]] · [[American Federation for Children]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[American Iron and Steel Institute]] · [[The 85 Fund]] · [[Stand Together]] · [[Republican Party Apparatus]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Federalist Society]] · [[Donors Capital Fund]] · [[Council for National Policy]] · [[Conservative Partnership Institute]] · [[Concerned Veterans for America]] · [[Business Roundtable]] · [[Bradley Impact Fund]] · [[Bradley Foundation]] · [[American Enterprise Institute]] · [[American Action Network]] · [[America First Policy Institute]] · [[Alliance Defending Freedom]] · [[National Cattlemen's Beef Association]] · [[Fanjul Family - Florida Crystals]] · [[American Farm Bureau Federation]]"
 cross-vault-triangulation-count: 5
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 politicians-funded: "[[Bill Cassidy]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -30,6 +34,8 @@ source-types:
   - LDA
 corroboration-count: 2
 ---
+
+
 
 
 

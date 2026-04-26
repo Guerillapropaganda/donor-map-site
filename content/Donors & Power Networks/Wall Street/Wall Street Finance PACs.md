@@ -1,7 +1,7 @@
 ---
 title: "Wall Street Finance PACs"
 type: pac
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -13,7 +13,11 @@ related: "[[Josh Gottheimer Master Profile]] · [[Financial Services Donors]] ·
 cross-vault-triangulation-count: 4
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
   • No last-enriched date is set. The pipelines have never touched this file.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
@@ -25,6 +29,8 @@ source-types:
   - FEC
 last-enriched: 2026-04-21
 ---
+
+
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: Robert F. Onder
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Republican
@@ -23,6 +23,8 @@ known-gaps:
   - No mapped relationships
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 committees:
   - Aviation
   - Economic Development, Public Buildings, and Emergency Management
@@ -38,7 +40,12 @@ committees:
 bills-sponsored: 16
 corroboration-count: 2
 top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[Carol D. Miller]], [[Club for Growth INC PAC]], [[National Cattlemen's Beef Association]], [[NRA Political Victory Fund]], [[ERIC BURLISON FOR CONGRESS]], [[Defend American Jobs]], [[BRANDON GILL FOR TEXAS]], [[JIM JORDAN FOR CONGRESS]], [[Mike Johnson]], [[American College of Radiology Association PAC]], [[Brett Guthrie]], [[Brandon Gill]], [[ANDY HARRIS FOR CONGRESS]], [[TEXANS FOR JODEY ARRINGTON]], [[TROY DOWNING FOR CONGRESS]], [[Club for Growth]], [[Leidos]], [[CVS Health - Aetna]], [[MOORE FOR WEST VIRGINIA, INC.]], [[National Restaurant Association]], [[Jim Jordan]], [[Andy Harris]], [[Jodey Arrington]], [[Troy Downing]], [[Eric Burlison]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -53,8 +60,24 @@ top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[Carol D. Mi
 
 **Party:** Republican · **Chamber:** House · **State:** Missouri
 **Bioguide ID:** `O000177`
+**FEC candidate ID:** `H4MO03221`
 
 **Total received:** —
+
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| American College of Radiology Association PAC | $9,500 |
+| Brandon Gill | $9,000 |
+| Club for Growth INC PAC | $6,300 |
+| Jim Jordan | $6,000 |
+| AIPAC - American Israel Public Affairs Committee | $5,000 |
+| National Cattlemen's Beef Association | $2,000 |
+| Greg Casar | $2,000 |
+| Nick Lalota | $2,000 |
+| David G. Valadao | $2,000 |
+| John James | $2,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

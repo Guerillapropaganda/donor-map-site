@@ -1,7 +1,7 @@
 ---
 title: Walton Family Foundation
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -18,6 +18,8 @@ known-gaps:
   - "No lobbying disclosure data"
 court-cases: 36
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "no fec-committee-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 court-jurisdictions:
   - Court of Appeals for the Eighth Circuit
   - Court of Appeals for the Ninth Circuit
@@ -43,7 +45,12 @@ source-types:
   - Courts
   - FEC
 corroboration-count: 2
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -65,7 +72,13 @@ corroboration-count: 2
 
 **Total political spend:** —
 
-*No direct donor→politician dollar flows tracked for this entity. Money may route through controlled vehicles or 501(c)(4) shells. See narrative sections below for details.*
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Ted Cruz | $500 |
+| Nancy Pelosi | $250 |
+| Catherine Cortez Masto | $190 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
@@ -259,9 +272,9 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 | Metric | Amount |
 |---|---:|
-| Total revenue | — |
+| Total revenue | $81K |
 | Contribution revenue | — |
-| Total expenses | — |
+| Total expenses | $129K |
 | Total assets (EOY) | $1.9M |
 | Grants paid out | — |
 

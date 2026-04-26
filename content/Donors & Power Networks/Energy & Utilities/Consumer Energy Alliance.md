@@ -1,7 +1,7 @@
 ---
 title: Consumer Energy Alliance
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 2
 parent: null
@@ -45,7 +45,11 @@ sec-form-types:
   - PREC14A
   - PX14A6G
 cross-vault-triangulation-count: 3
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 politicians-funded: "[[Michael Whatley]], [[WinRed]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -54,6 +58,8 @@ employee-contributions: 1
 employee-contributions-total: 520
 employee-donor-count: 1
 ---
+
+
 
 
 
@@ -260,16 +266,16 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-**Filings available:** 7 (2018–2024)
+**Filings available:** 8 (2018–2025)
 
-**Most recent filing (2024):**
+**Most recent filing (2025):**
 
 | Metric | Amount |
 |---|---:|
 | Total revenue | — |
-| Contribution revenue | $3.0M |
+| Contribution revenue | $3.5M |
 | Total expenses | — |
-| Total assets (EOY) | $1.6M |
+| Total assets (EOY) | $1.8M |
 | Grants paid out | — |
 
 **Grants received (2019–2023):** $51K across 1 grantors (from other vault orgs' Schedule I records).

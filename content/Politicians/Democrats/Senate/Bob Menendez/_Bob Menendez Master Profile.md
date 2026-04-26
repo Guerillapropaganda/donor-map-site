@@ -2,7 +2,7 @@
 title: Bob Menendez
 type: politician
 bioguide-id: M000639
-content-readiness: ready
+content-readiness: draft
 central-thesis: Menendez is the vault's most extreme case of the foreign policy-to-corruption pipeline. His SFRC chairmanship gave him unilateral power to block nominations, hold hearings, and shape every diplomatic relationship. He used that power to serve three...
 last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
@@ -21,6 +21,8 @@ known-gaps:
   - No FEC contribution data
   - No voting record data
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 related: "[[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[Fanjul Family - Florida Crystals]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 donors: "[[Brady Campaign]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Working Families Party PAC]], [[CASTRO FOR CONGRESS]], [[Meta - Facebook]], [[BONNIE WATSON COLEMAN FOR CONGRESS]], [[Amgen Inc]], [[DONALD NORCROSS FOR CONGRESS]], [[Juan Vargas]], [[Bacardi - Bacardi USA]], [[Pfizer Inc.]], [[Harry Reid]], [[Xavier Becerra]], [[AbbVie]], [[AFL-CIO]], [[National Education Association]], [[Akin Gump Strauss Hauer & Feld]], [[Sierra Club Political Committee]], [[AT&T]], [[Giffords PAC]], [[Gilead Sciences]], [[BARRAGAN FOR CONGRESS]], [[Tyson Foods]], [[Google - Alphabet]], [[Donald S. Beyer]], [[Protect Progress]], [[McDonalds Corporation]], [[ADRIANO ESPAILLAT FOR CONGRESS]], [[Frank Pallone]], [[National Restaurant Association]], [[Democratic Senatorial Campaign Committee]], [[American Gaming Association]], [[ROBERT GARCIA FOR CONGRESS]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Planned Parenthood Action Fund INC]], [[Richard Neal]], [[CVS Health - Aetna]], [[HIMES FOR CONGRESS]], [[Ben Ray Lujan]], [[AIPAC - American Israel Public Affairs Committee]], [[Amy Klobuchar]], [[Environment America INC]], [[American College of Radiology Association PAC]], [[NANCY PELOSI FOR CONGRESS]], [[National Right to Life PAC]], [[Protect Our Future PAC]], [[Protecting Our Vote Pac]], [[Gerry Connolly]], [[Ro Khanna]], [[Sylvia R. Garcia]], [[League of Conservation Voters]], [[MBNA Corporation]], [[Steny H. Hoyer]], [[Humana]], [[DARREN SOTO FOR CONGRESS]], [[MENENDEZ FOR CONGRESS]], [[WinSenate]], [[PETE AGUILAR FOR CONGRESS]], [[Hakeem Jeffries]], [[Eric Swalwell]], [[Tzedek PAC]], [[Blue Shield of California]], [[Dina Titus]], [[TED LIEU FOR CONGRESS]], [[Adriano Espaillat]], [[Jim Himes]], [[Bonnie Watson Coleman]], [[Pete Aguilar]], [[Ted Lieu]], [[Nancy Pelosi]], [[Robert Garcia]], [[Robert Menendez]], [[Nanette Diaz Barragan]]"
 urls-first-triaged: "2026-04-15"
@@ -28,7 +30,12 @@ bills-sponsored: 75
 bills-cosponsored: 263
 bills-enacted: 3
 top-policy-area: International Affairs
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -42,6 +49,7 @@ top-policy-area: International Affairs
 
 **Party:** Democrat · **Chamber:** Senate · **State:** New Jersey
 **Bioguide ID:** `M000639`
+**FEC candidate ID:** `H2NJ13075`
 
 **Total received:** —
 
@@ -49,7 +57,20 @@ top-policy-area: International Affairs
 
 - Foreign Relations
 
-*Top donors list present but amounts not yet quantified. See narrative sections for details.*
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Democratic Senatorial Campaign Committee | $2,093,961 |
+| AFL-CIO | $347,848 |
+| National Education Association | $57,500 |
+| International Association of Firefighters Interested in Registration and Education PAC | $42,500 |
+| Pfizer Inc. | $40,500 |
+| Amgen Inc | $32,500 |
+| AIPAC - American Israel Public Affairs Committee | $27,100 |
+| Akin Gump Strauss Hauer & Feld | $18,225 |
+| CVS Health - Aetna | $17,500 |
+| Planned Parenthood Action Fund INC | $15,999 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

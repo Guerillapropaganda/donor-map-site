@@ -1,7 +1,7 @@
 ---
 title: Craig A. Goldman
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Republican
@@ -23,6 +23,8 @@ known-gaps:
   - No mapped relationships
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 committees:
   - Commerce, Manufacturing, and Trade
   - Communications and Technology
@@ -31,7 +33,12 @@ committees:
 bills-sponsored: 7
 corroboration-count: 2
 top-donors: "[[National Restaurant Association]], [[Robert E. Latta]], [[Associated General Contractors of America Political Action Committee]], [[AIPAC - American Israel Public Affairs Committee]], [[Brett Guthrie]], [[Tom Emmer]], [[NRA Political Victory Fund]], [[Carol D. Miller]], [[MOORE FOR WEST VIRGINIA, INC.]], [[Steve Scalise]], [[David P. Joyce]], [[Brandon Gill]], [[DAVID ROUZER FOR CONGRESS]], [[Meta - Facebook]], [[JIM JORDAN FOR CONGRESS]], [[National Cattlemen's Beef Association]], [[Defend American Jobs]], [[WEBER FOR CONGRESS]], [[TROY DOWNING FOR CONGRESS]], [[PETE SESSIONS FOR CONGRESS]], [[BRANDON GILL FOR TEXAS]], [[MIKE HARIDOPOLOS FOR CONGRESS]], [[Koch Industries]], [[Guy Reschenthaler]], [[Republican Jewish Coalition]], [[Occidental Petroleum]], [[Google - Alphabet]], [[Southern Company]], [[Pete Sessions]], [[Mike Haridopolos]], [[David Rouzer]], [[Troy Downing]], [[Jim Jordan]], [[Randy K. Weber]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -48,6 +55,21 @@ top-donors: "[[National Restaurant Association]], [[Robert E. Latta]], [[Associa
 **Bioguide ID:** `G000601`
 
 **Total received:** —
+
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| AIPAC - American Israel Public Affairs Committee | $29,100 |
+| National Cattlemen's Beef Association | $20,000 |
+| Republican Jewish Coalition | $19,000 |
+| Brandon Gill | $7,000 |
+| Steve Scalise | $4,000 |
+| Associated General Contractors of America Political Action Committee | $3,500 |
+| NRA Political Victory Fund | $3,000 |
+| Google - Alphabet | $2,000 |
+| Brett Guthrie | $2,000 |
+| Tom Emmer | $2,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -1,20 +1,28 @@
 ---
 title: "Renaissance Charitable Foundation"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18
 sector: "Wall Street"
 entity-type: "Donor-Advised Fund"
 ein: "352129262"
 nonprofit-status: "501(c)(3)"
 source-tier: 1
-internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Independent DAF sponsor. $357M+ received in ingested period per Schedule I records. Narrative pending Research Claude editorial pass."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Independent DAF sponsor. $357M+ received in ingested period per Schedule I records. Narrative pending Research Claude editorial pass."
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
   - "No mapped relationships"
 last-enriched: 2026-04-21
+needs-reenrichment: true
+reenrich-reason: "no fec-committee-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 ---
+
+
 
 
 
@@ -78,7 +86,7 @@ last-enriched: 2026-04-21
 | View Attached Grant Report | $1.23B | 4 | 2017–2020 |
 | See Attached Grant Report | $956.0M | 2 | 2022–2023 |
 
-**Grants received (2018–2024):** $392.7M across 9 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $417.1M across 9 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -86,7 +94,7 @@ last-enriched: 2026-04-21
 |---|---:|---:|---|
 | SCHWAB CHARITABLE FUND | $184.8M | 7 | 2018–2024 |
 | NATIONAL PHILANTHROPIC TRUST | $109.4M | 6 | 2018–2023 |
-| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $63.7M | 5 | 2019–2023 |
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $88.1M | 6 | 2019–2023 |
 | AMERICAN ENDOWMENT FOUNDATION | $22.1M | 7 | 2018–2024 |
 | MORGAN STANLEY GLOBAL IMPACT FUNDING | $4.8M | 13 | 2018–2023 |
 | IMPACTASSETSINC | $3.3M | 5 | 2018–2023 |

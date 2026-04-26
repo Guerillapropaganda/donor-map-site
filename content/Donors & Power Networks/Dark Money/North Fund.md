@@ -1,20 +1,28 @@
 ---
 title: "North Fund"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18
 sector: "Dark Money"
 entity-type: "501(c)(4)"
 ein: "834011547"
 nonprofit-status: "501(c)(4)"
 source-tier: 1
-internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Arabella Advisors-managed 501(c)(4) pass-through fiscal sponsor. Paired with Hopewell Fund on the c3 side. Part of the Arabella dark-money infrastructure stack. Narrative pending Research Claude editorial pass."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Arabella Advisors-managed 501(c)(4) pass-through fiscal sponsor. Paired with Hopewell Fund on the c3 side. Part of the Arabella dark-money infrastructure stack. Narrative pending Research Claude editorial pass."
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
   - "No mapped relationships"
 last-enriched: 2026-04-21
+needs-reenrichment: true
+reenrich-reason: "no fec-committee-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 ---
+
+
 
 
 
@@ -57,7 +65,44 @@ last-enriched: 2026-04-21
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 5 (2019–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $58.3M |
+| Total expenses | — |
+| Total assets (EOY) | $62.4M |
+| Grants paid out | $25.3M |
+
+**Lifetime grants out (2019–2023):** $113.1M across 154 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| SIXTEEN THIRTY FUND | $17.5M | 4 | 2020–2023 |
+| SOMOS PAC | $8.2M | 2 | 2022 |
+| FUTURE FORWARD USA ACTION | $6.7M | 1 | 2020 |
+| NEW APPROACH MONTANA | $4.7M | 1 | 2020 |
+| COLORADO FAMILIES FIRST | $4.4M | 1 | 2020 |
+| ADVANCE AMERICAN DEMOCRACY INC | $4.2M | 3 | 2022–2023 |
+| RUN FOR SOMETHING ACTION FUND | $3.8M | 3 | 2022–2023 |
+| WORKMONEY INC | $3.4M | 3 | 2022–2023 |
+| KEEP COUNTRY FIRST POLICY ACTION | $3.0M | 3 | 2022–2023 |
+| NEW LEFT ACCELERATOR | $3.0M | 3 | 2022–2023 |
+| MISSOURIANS FOR HEALTHCARE | $2.4M | 2 | 2019–2020 |
+| AMERICA VOTES | $2.3M | 3 | 2022–2023 |
+| OHIO PROGRESSIVE COLLABORATIVE | $2.3M | 3 | 2022–2023 |
+| PLANNED PARENTHOOD ADVOCATES OF MI | $1.9M | 4 | 2020–2023 |
+| OHIOANS FOR RAISING THE WAGE | $1.7M | 1 | 2020 |
+| EMERGE AMERICA | $1.6M | 3 | 2022–2023 |
+| MICHIGAN CIVIC ACTION FUND | $1.4M | 3 | 2022–2023 |
+| A BETTER WISCONSIN TOGETHER INC | $1.4M | 3 | 2022–2023 |
+| ABORTION ACCESS FOR ALL | $1.4M | 1 | 2020 |
+| CARE IN ACTION | $1.3M | 4 | 2020–2023 |
 
 **Grants received (2019–2024):** $74.3M across 5 grantors (from other vault orgs' Schedule I records).
 

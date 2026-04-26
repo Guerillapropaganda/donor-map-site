@@ -1,7 +1,7 @@
 ---
 title: Scott Wiener
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: "Wiener is the YIMBY movement's legislative champion , a pro-housing Democrat whose landmark bills (SB 35, SB 50, SB 827) have reshaped California development policy. But his funding reveals the core tension: over $500K from real estate interests a..."
 last-updated: 2026-04-16T00:00:00.000Z
 editorial-notes: "[Research Claude 2026-04-16] Added Class Analysis section."
@@ -25,9 +25,16 @@ known-gaps:
   - No FEC contribution data
   - No voting record data
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)"
 total-raised: $3.5M
 career-total-source: FEC weball summary (cycles 2026)
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 

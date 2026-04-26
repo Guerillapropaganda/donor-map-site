@@ -1,7 +1,7 @@
 ---
 title: James C. Justice
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 party: Republican
@@ -22,6 +22,8 @@ known-gaps:
 donors: "[[ActBlue]], [[Associated General Contractors of America Political Action Committee]], [[Roger Marshall]], [[National Cattlemen's Beef Association]], [[Defend American Jobs]], [[Koch Industries]], [[National Restaurant Association]], [[Republican Jewish Coalition]], [[Tyson Foods]], [[Amgen Inc]], [[NRA Political Victory Fund]], [[Common Sense for America PAC]], [[Williams Companies]], [[Nucor Corporation]], [[Coinbase]]"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 corroboration-count: 2
 committees:
   - Conservation, Forestry, Natural Resources, and Biotechnology
@@ -35,7 +37,12 @@ committees:
   - Senate Special Committee on Aging
   - Water and Power
 bills-sponsored: 10
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -50,10 +57,24 @@ bills-sponsored: 10
 
 **Party:** Republican · **Chamber:** Senate · **State:** West Virginia
 **Bioguide ID:** `J000312`
+**FEC candidate ID:** `S4WV00332`
 
 **Total received:** —
 
-*Top donors list present but amounts not yet quantified. See narrative sections for details.*
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Roger Marshall | $10,000 |
+| Associated General Contractors of America Political Action Committee | $10,000 |
+| Republican Jewish Coalition | $8,300 |
+| National Restaurant Association | $7,500 |
+| Nucor Corporation | $6,000 |
+| Amgen Inc | $5,000 |
+| Koch Industries | $5,000 |
+| National Cattlemen's Beef Association | $5,000 |
+| Common Sense for America PAC | $5,000 |
+| NRA Political Victory Fund | $4,950 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

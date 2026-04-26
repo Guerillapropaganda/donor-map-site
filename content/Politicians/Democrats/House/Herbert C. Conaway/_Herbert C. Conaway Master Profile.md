@@ -1,7 +1,7 @@
 ---
 title: Herbert C. Conaway
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Democrat
@@ -23,6 +23,8 @@ known-gaps:
   - No mapped relationships
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 committees:
   - Cyber, Information Technologies, and Innovation
   - Health
@@ -33,7 +35,12 @@ committees:
 bills-sponsored: 13
 corroboration-count: 2
 top-donors: "[[TED LIEU FOR CONGRESS]], [[PAUL TONKO FOR CONGRESS]], [[Bradley Scott Schneider]], [[AIPAC - American Israel Public Affairs Committee]], [[PETE AGUILAR FOR CONGRESS]], [[Amgen Inc]], [[Frank Pallone]], [[Steny H. Hoyer]], [[Humana]], [[American College of Radiology Association PAC]], [[CVS Health - Aetna]], [[Robin L. Kelly]], [[Gilead Sciences]], [[HUFFMAN FOR CONGRESS]], [[Let America Vote PAC]], [[Pfizer Inc.]], [[Mary Gay Scanlon]], [[League of Conservation Voters]], [[Hakeem Jeffries]], [[AbbVie]], [[Ted Lieu]], [[Pete Aguilar]], [[Bonnie Watson Coleman]], [[Leidos]], [[Marc A. Veasey]], [[Jared Huffman]], [[Paul Tonko]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -48,8 +55,24 @@ top-donors: "[[TED LIEU FOR CONGRESS]], [[PAUL TONKO FOR CONGRESS]], [[Bradley S
 
 **Party:** Democrat · **Chamber:** House · **State:** New Jersey
 **Bioguide ID:** `C001136`
+**FEC candidate ID:** `H4NJ03080`
 
 **Total received:** —
+
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| American College of Radiology Association PAC | $17,500 |
+| AbbVie | $6,000 |
+| Pete Aguilar | $6,000 |
+| AIPAC - American Israel Public Affairs Committee | $5,000 |
+| Leidos | $5,000 |
+| Ted Lieu | $5,000 |
+| Hakeem Jeffries | $4,000 |
+| League of Conservation Voters | $3,000 |
+| Amgen Inc | $3,000 |
+| Robin L. Kelly | $3,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

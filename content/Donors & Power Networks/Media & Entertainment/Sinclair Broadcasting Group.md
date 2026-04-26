@@ -1,7 +1,7 @@
 ---
 title: Sinclair Broadcasting Group
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 2
 parent: null
@@ -10,6 +10,8 @@ entity-type: Corporation
 ein: "465691580"
 nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "no lda ID resolved for this profile — either resolve ID upstream then run `node scripts/ingest-lda-bulk.cjs`, or demote to draft (admits no LDA coverage)"
 federal-register-mentions: 4
 regulatory-agencies:
   - Federal Communications Commission
@@ -62,7 +64,12 @@ employee-contributions: 150
 employee-contributions-total: 71427
 employee-donor-count: 29
 politicians-funded: "[[National Rifle Association]], [[_Andy Harris Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[ActBlue]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Nancy Pelosi Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[Andy Harris]], [[Nancy Pelosi]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -84,6 +91,13 @@ politicians-funded: "[[National Rifle Association]], [[_Andy Harris Master Profi
 **Capital type:** `media-capital`
 
 **Total political spend:** —
+
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Andy Harris | $20,100 |
+| Nancy Pelosi | $488 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -1,7 +1,7 @@
 ---
 title: America First Policy Institute
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -22,6 +22,8 @@ known-gaps:
   - "No lobbying disclosure data"
 nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "no fec-committee-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 total-revenue: 54851367
 total-assets: 25178547
 politicians-funded: "[[Linda McMahon]], [[_Daniel Webster Master Profile]], [[WinRed]], [[_Brian Jack Master Profile]], [[MAGA Inc]], [[Wfw Action Fund, Inc.]], [[RNC - Republican National Committee]], [[Winning for Women PAC]], [[Brian Jack]], [[Daniel Webster]]"
@@ -34,7 +36,12 @@ employee-contributions-total: 10355784
 employee-donor-count: 20
 source-types:
   - FEC
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -57,7 +64,12 @@ source-types:
 
 **Total political spend:** —
 
-*No direct donor→politician dollar flows tracked for this entity. Money may route through controlled vehicles or 501(c)(4) shells. See narrative sections below for details.*
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Daniel Webster | $6,600 |
+| Brian Jack | $2,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
@@ -203,14 +215,14 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | FOUNDATION FOR GOVERNMENT ACCOUNTABILITY | $250K | 1 | 2023 |
 | NATIONAL FAITH ADVISORY BOARD | $100K | 1 | 2023 |
 
-**Grants received (2022–2024):** $13.4M across 9 grantors (from other vault orgs' Schedule I records).
+**Grants received (2022–2024):** $14.2M across 9 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
 | Donors Trust Inc | $4.7M | 8 | 2022–2024 |
-| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $3.6M | 2 | 2022–2023 |
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $4.5M | 3 | 2022–2023 |
 | GOLDMAN SACHS PHILANTHROPY FUND | $2.5M | 3 | 2022–2024 |
 | SCHWAB CHARITABLE FUND | $1.3M | 3 | 2022–2024 |
 | NATIONAL PHILANTHROPIC TRUST | $625K | 2 | 2022–2023 |

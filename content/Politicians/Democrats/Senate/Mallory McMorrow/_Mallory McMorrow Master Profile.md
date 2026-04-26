@@ -1,7 +1,7 @@
 ---
 title: "Mallory McMorrow Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: "Mallory McMorrow represents the establishment progressive model: a viral moment + exceptional fundraising charisma that translates to national donor networks, allowing a relatively junior state legislator to compete in a Senate primary against mor..."
 last-updated: 2026-04-13
 source-tier: 1
@@ -15,6 +15,8 @@ top-donors:
 total-received: "$5,595,106"
 fec-candidate-id: "S6MI00392"
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage); no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)"
 source-types:
   - DOJ
   - FEC
@@ -27,7 +29,13 @@ related: "[[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[2026 Senate
 urls-first-triaged: "2026-04-15"
 total-raised: "$8.6M"
 career-total-source: "FEC weball summary (cycles 2026)"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 

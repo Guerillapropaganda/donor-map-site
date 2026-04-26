@@ -1,7 +1,7 @@
 ---
 title: Center for Popular Democracy
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 sector: Dark Money
 entity-type: 501(c)(3)
@@ -14,10 +14,14 @@ known-gaps:
   - No lobbying disclosure data
   - No mapped relationships
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no fec-committee-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 total-political-spend: $65K
 spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2018
 politicians-funded: "[[Gwen Moore]], [[Darren Soto]], [[Tammy Baldwin]]"
 ---
+
+
 
 
 
@@ -30,6 +34,15 @@ politicians-funded: "[[Gwen Moore]], [[Darren Soto]], [[Tammy Baldwin]]"
 **EIN:** `453813436`
 
 **Total political spend:** —
+
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Rick Scott | $25,111 |
+| Tammy Baldwin | $23,581 |
+| Darren Soto | $12,483 |
+| Gwen Moore | $3,867 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
@@ -60,22 +73,63 @@ politicians-funded: "[[Gwen Moore]], [[Darren Soto]], [[Tammy Baldwin]]"
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 6 (2018–2024)
 
-**Grants received (2018–2024):** $59.0M across 12 grantors (from other vault orgs' Schedule I records).
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $38.2M |
+| Total expenses | — |
+| Total assets (EOY) | $42.4M |
+| Grants paid out | $9.2M |
+
+**Lifetime grants out (2018–2024):** $55.6M across 192 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| TIDES FOUNDATION | $3.3M | 2 | 2019–2020 |
+| CANVASS LLC | $3.1M | 2 | 2019–2020 |
+| CASA DE MARYLAND | $2.7M | 5 | 2018–2024 |
+| MAKE THE ROAD NEW YORK | $1.9M | 6 | 2018–2024 |
+| CPD ACTION CANVASS NETWORK LLC | $1.6M | 3 | 2022–2024 |
+| ONE PENNSYLVANIA INC | $1.5M | 5 | 2018–2024 |
+| WORKING WASHINGTON | $1.4M | 6 | 2018–2024 |
+| ACCE INSTITUTE | $1.4M | 4 | 2020–2024 |
+| ARIZONA CENTER FOR EMPOWERMENT | $1.4M | 4 | 2018–2024 |
+| ACTION INSTITUTE NORTH CAROLINA | $1.4M | 6 | 2018–2024 |
+| NEW YORK COMMUNITIES FOR CHANGE INC | $1.1M | 5 | 2018–2024 |
+| ORGANIZE FLORIDA | $1.1M | 3 | 2018–2020 |
+| MAKE THE ROAD STATES DBA MAKE THE ROAD NV | $1.0M | 2 | 2022–2024 |
+| MAKE THE ROAD STATES DBA MAKE THE ROAD NJ | $927K | 2 | 2022–2024 |
+| TIDES CENTER | $923K | 5 | 2018–2024 |
+| NEW VIRGINIA MAJORITY | $871K | 3 | 2018–2020 |
+| ACTION NORTH CAROLINA | $804K | 4 | 2018–2023 |
+| TEXAS ORGANIZING PROJECT EDUCATION FUND | $773K | 4 | 2019–2024 |
+| ORGANIZE FLORIDA EDUCATION FUND | $772K | 3 | 2018–2020 |
+| STEP UP LOUISIANA ORGANIZING FUND | $763K | 3 | 2022–2024 |
+
+**Grants received (2018–2024):** $67.2M across 16 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
-| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $53.4M | 6 | 2018–2023 |
-| NEW VENTURE FUND | $2.5M | 6 | 2018–2024 |
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $59.3M | 7 | 2018–2023 |
+| NEW VENTURE FUND | $3.3M | 7 | 2018–2024 |
+| NEO Philanthropy Inc | $1.2M | 6 | 2018–2024 |
 | SCHWAB CHARITABLE FUND | $760K | 7 | 2018–2024 |
 | Silicon Valley Community Foundation | $691K | 3 | 2018–2020 |
 | Vanguard Charitable Endowment Program | $446K | 3 | 2021–2023 |
 | NATIONAL PHILANTHROPIC TRUST | $411K | 6 | 2018–2023 |
 | IMPACTASSETSINC | $406K | 3 | 2019–2022 |
+| CENTER FOR POPULAR DEMOCRACY INC | $220K | 2 | 2020–2024 |
 | AMERICAN ENDOWMENT FOUNDATION | $162K | 5 | 2019–2024 |
+| ROBIN HOOD FOUNDATION | $100K | 1 | 2020 |
+| PROTEUS FUND INC | $90K | 3 | 2018–2019 |
 | CALIFORNIA NURSES ASSOCIATION | $50K | 1 | 2019 |
 | MORGAN STANLEY GLOBAL IMPACT FUNDING TRUST INC | $45K | 2 | 2019–2024 |
 | HOPEWELL FUND | $10K | 1 | 2023 |

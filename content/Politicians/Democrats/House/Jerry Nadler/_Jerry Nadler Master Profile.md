@@ -1,7 +1,7 @@
 ---
 title: Jerry Nadler
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: Nadler's donor-class function is more complex than most profiles in this vault because he genuinely served as a check on executive power (two Trump impeachments) and pursued progressive policy outcomes (marijuana legalization, LGBTQ+ rights, 9/11 ...
 last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
@@ -27,7 +27,15 @@ known-gaps:
 related: "[[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[J Street]]"
 donors: "[[Brady Campaign]], [[J Street]]"
 last-enriched: 2026-04-21
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage); no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -40,6 +48,7 @@ last-enriched: 2026-04-21
 <!-- tier: paid -->
 
 **Party:** Democrat · **Chamber:** House · **State:** New York
+**FEC candidate ID:** `H2NY17071`
 
 **Total received:** —
 
@@ -48,7 +57,20 @@ last-enriched: 2026-04-21
 - Judiciary
 - Antitrust (Judiciary)
 
-*Top donors list present but amounts not yet quantified. See narrative sections for details.*
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Kirsten E. Gillibrand | $10,000 |
+| Pramila Jayapal | $7,000 |
+| Lucy McBath | $6,500 |
+| Angie Craig | $5,000 |
+| Andy Kim | $5,000 |
+| Elissa Slotkin | $4,000 |
+| Lizzie Fletcher | $4,000 |
+| Mike Levin | $4,000 |
+| Greg Stanton | $4,000 |
+| Josh Gottheimer | $4,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

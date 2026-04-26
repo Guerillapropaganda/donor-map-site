@@ -1,7 +1,7 @@
 ---
 title: "Greg Casar Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: '2026-04-10'
 source-tier: 2
 parent: null
@@ -37,7 +37,14 @@ bills-cosponsored: 353
 bills-enacted: 1
 top-policy-area: "Armed Forces and National Security"
 last-enriched: 2026-04-21
+needs-reenrichment: true
+reenrich-reason: "re-run CSV bulk: `node scripts/ingest-fec-pas2-bulk.cjs && node scripts/build-fec-lifetime-panels.cjs`"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -50,8 +57,8 @@ last-enriched: 2026-04-21
 <!-- tier: paid -->
 
 **Party:** Democrat · **Chamber:** House · **State:** Texas
-**Bioguide ID:** `C001133`
-**FEC candidate ID:** `H2TX35108`
+**Bioguide ID:** `C001131`
+**FEC candidate ID:** `H2TX35144`
 
 **Total received:** —
 
@@ -59,6 +66,21 @@ last-enriched: 2026-04-21
 
 - Oversight & Reform
 - Natural Resources
+
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Koch Industries | $30,000 |
+| Demand Justice | $20,000 |
+| Associated General Contractors of America Political Action Committee | $20,000 |
+| Working Families Party PAC | $14,800 |
+| National Education Association | $14,000 |
+| Republican Jewish Coalition | $13,000 |
+| Claudia Tenney | $12,500 |
+| Leidos | $12,000 |
+| Steve Scalise | $12,000 |
+| Let America Vote PAC | $11,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

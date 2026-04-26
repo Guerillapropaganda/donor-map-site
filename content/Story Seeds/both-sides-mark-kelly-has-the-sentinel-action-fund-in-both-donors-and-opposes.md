@@ -3,14 +3,14 @@ title: "Mark Kelly has THE SENTINEL ACTION FUND in both donors and opposes"
 type: story-seed
 seed-type: both-sides
 confidence: 5
-last-updated: '2026-04-24'
+last-updated: '2026-04-26'
 auto-generated: true
 status: unclaimed
 ---
 
 # Mark Kelly has THE SENTINEL ACTION FUND in both donors and opposes
 
-_Confidence: ★★★★★ · Surfaced by contradiction-miner on 2026-04-24_
+_Confidence: ★★★★★ · Surfaced by contradiction-miner on 2026-04-26_
 
 ## The angle
 

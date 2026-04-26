@@ -2,7 +2,7 @@
 title: Ray LaHood
 type: politician
 bioguide-id: L000552
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Republican
@@ -15,9 +15,17 @@ source-types:
   - Congress
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage); no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage)"
 bills-sponsored: 37
 top-donors: "[[International Association of Firefighters Interested in Registration and Education PAC]], [[National Cattlemen's Beef Association]], [[National Restaurant Association]], [[Cargill]], [[Pfizer Inc.]], [[McDonalds Corporation]], [[Occidental Petroleum]], [[AFL-CIO]], [[NRA Political Victory Fund]], [[Associated General Contractors of America Political Action Committee]], [[Williams Companies]], [[ADM - Archer Daniels Midland]], [[National Education Association]], [[Bechtel Corporation]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -31,8 +39,24 @@ top-donors: "[[International Association of Firefighters Interested in Registrat
 <!-- tier: paid -->
 
 **Party:** Republican · **Chamber:** Secretary of Transportation (2009-2013)
+**FEC candidate ID:** `H4IL18059`
 
 **Total received:** —
+
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| International Association of Firefighters Interested in Registration and Education PAC | $33,500 |
+| ADM - Archer Daniels Midland | $15,500 |
+| NRA Political Victory Fund | $9,500 |
+| AFL-CIO | $8,000 |
+| National Education Association | $8,000 |
+| Cargill | $8,000 |
+| National Cattlemen's Beef Association | $8,000 |
+| Associated General Contractors of America Political Action Committee | $7,000 |
+| Occidental Petroleum | $4,000 |
+| Williams Companies | $4,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
@@ -48,3 +72,34 @@ Secretary of Transportation (2009-2013). Profile pending enrichment.
 
 *Auto-generated from canonical government identifiers in frontmatter (bioguide, FEC, IRS EIN). These URLs are deterministic — constructed from IDs, not manually curated or hunted. See content/Vault Rules.md § 2b on canonical URL construction.*
 <!-- auto:harvested-sources end -->
+
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 37 |
+| Enacted into law | 2 |
+| Top policy areas | Foreign Trade and International Finance · Commemorations · Congress |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| — | 2005-06-08 | HR.2808-109 | Abraham Lincoln Commemorative Coin Act |
+| — | 2005-05-25 | HR.2630-109 | To redesignate the facility of the United States Postal Service located at 1927 Sangamon A |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2008-02-07 | HR.5299-110 | Foreign Trade and International Finance | To suspend temporarily the duty on 7-Hydroxy. |
+| 2008-02-07 | HR.5300-110 | Foreign Trade and International Finance | To extend the temporary suspension of duty on certain cores used in remanufacture. |
+| 2007-12-18 | HR.4824-110 | Foreign Trade and International Finance | To extend the temporary suspension of duty on 3-(Ethylsulfonyl)-2-pyridinesulfonamide. |
+| 2007-12-18 | HR.4821-110 | Foreign Trade and International Finance | To extend the temporary suspension of duty on 2-amino-4-methoxy-6-methyl-1,3,5-triazine. |
+| 2007-12-18 | HR.4822-110 | Foreign Trade and International Finance | To extend and modify the temporary suspension of duty on Carfentrazone. |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: L000552` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

@@ -1,7 +1,7 @@
 ---
 title: "Sentinel Action Fund"
 type: pac
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12
 source-tier: 2
 parent: null
@@ -16,7 +16,11 @@ total-revenue: 2903054
 total-assets: 15309069
 related: "[[Marble Freedom Trust]] · [[DonorsTrust]] · [[Heritage Foundation]] · [[Barre Seid]] · [[The 85 Fund]] · [[Great Lakes Conservatives Fund]]"
 cross-vault-triangulation-count: 6
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 checklist-na:
@@ -26,6 +30,8 @@ urls-first-triaged: "2026-04-15"
 total-political-spend: "$4.3M"
 spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2018, 2019, 2020, 2021, 2022, 2023, 2024"
 ---
+
+
 
 
 
@@ -208,7 +214,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Total assets (EOY) | $15.3M |
 | Grants paid out | $4.1M |
 
-**Lifetime grants out (2018–2024):** $26.2M across 103 recipients.
+**Lifetime grants out (2018–2024):** $26.2M across 107 recipients.
 
 **Top 20 recipients:**
 
@@ -218,8 +224,8 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | ARIZONA WINS | $2.2M | 6 | 2018–2023 |
 | CENTER FOR CIVIC ACTION | $1.3M | 7 | 2018–2024 |
 | TIDES ADVOCACY | $1.0M | 5 | 2018–2023 |
-| NEO PHILANTHROPY ACTION FUND | $860K | 7 | 2018–2024 |
 | BETTER FUTURE FOR NEW MEXICO | $840K | 6 | 2018–2024 |
+| NEO PHILANTHROPY ACTION FUND | $700K | 5 | 2019–2024 |
 | ONE APIA NEVADA | $675K | 6 | 2018–2024 |
 | PROGRESSIVE LEADERSHIP ALLIANCE OF NEVADA ACTION FUND | $580K | 4 | 2019–2024 |
 | NILC IMMIGRANT JUSTICE FUND | $552K | 6 | 2019–2024 |

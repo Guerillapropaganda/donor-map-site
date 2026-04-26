@@ -1,7 +1,7 @@
 ---
 title: John W. Mannion
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Democrat
@@ -23,6 +23,8 @@ known-gaps:
   - No mapped relationships
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 committees:
   - Commodity Markets, Digital Assets, and Rural Development
   - Conservation, Research, and Biotechnology
@@ -33,7 +35,12 @@ committees:
 bills-sponsored: 6
 corroboration-count: 2
 top-donors: "[[Leidos]], [[Bradley Scott Schneider]], [[Richard Neal]], [[J Street]], [[Let America Vote PAC]], [[PETE AGUILAR FOR CONGRESS]], [[Donald S. Beyer]], [[GRACE FOR NEW YORK]], [[NIKKI FOR CONGRESS]], [[JAKE AUCHINCLOSS FOR CONGRESS]], [[AFL-CIO]], [[National Cattlemen's Beef Association]], [[Robert Garcia]], [[Janice D. Schakowsky]], [[STRICKLAND FOR WASHINGTON]], [[BILL FOSTER FOR CONGRESS]], [[SHARICE FOR CONGRESS]], [[NANCY PELOSI FOR CONGRESS]], [[BARRAGAN FOR CONGRESS]], [[LUZ RIVAS FOR CONGRESS]], [[Working Families Party PAC]], [[DEBORAH ROSS FOR CONGRESS]], [[KATHERINE CLARK FOR CONGRESS]], [[Maxwell Frost]], [[National Education Association]], [[SHERMAN FOR CONGRESS]], [[TED LIEU FOR CONGRESS]], [[Sierra Club Political Committee]], [[JOE NEGUSE FOR CONGRESS]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Nurses United]], [[JUDY CHU FOR CONGRESS]], [[JULIA BROWNLEY FOR CONGRESS]], [[KENNEDY FOR CONGRESS]], [[Giffords PAC]], [[DIANA DEGETTE FOR CONGRESS]], [[Sarah Elfreth]], [[Planned Parenthood Action Fund INC]], [[League of Conservation Voters]], [[Activate America]], [[Nucor Corporation]], [[LANDSMAN FOR CONGRESS]], [[Kim Schrier]], [[Gregory Meeks]], [[Joseph Morelle]], [[HIMES FOR CONGRESS]], [[Suzan K. Delbene]], [[MARK KELLY FOR SENATE]], [[Yvette D. Clarke]], [[AFSCME Working Families Fund]], [[PAUL TONKO FOR CONGRESS]], [[JASON CROW FOR CONGRESS]], [[LOFGREN FOR CONGRESS]], [[Mary Gay Scanlon]], [[NEA Advocacy Fund]], [[ROBERT GARCIA FOR CONGRESS]], [[STANTON FOR CONGRESS]], [[Pete Aguilar]], [[Jason Crow]], [[Nikki Budzinski]], [[Jake Auchincloss]], [[Katherine M. Clark]], [[Judy Chu]], [[Bill Foster]], [[Ted Lieu]], [[Zoe Lofgren]], [[Paul Tonko]], [[Jasmine Crockett]], [[Sharice Davids]], [[Joe Neguse]], [[Nancy Pelosi]], [[Hakeem Jeffries]], [[Grace Meng]], [[Jim Himes]], [[Marc A. Veasey]], [[Diana Degette]], [[Steve Cohen]], [[Marilyn Strickland]], [[Thomas R. Suozzi]], [[Greg Landsman]], [[Brad Sherman]], [[Timothy M. Kennedy]], [[Julia Brownley]], [[Deborah K. Ross]], [[Nanette Diaz Barragan]], [[Luz M. Rivas]], [[Greg Stanton]], [[Mark Kelly]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -48,8 +55,24 @@ top-donors: "[[Leidos]], [[Bradley Scott Schneider]], [[Richard Neal]], [[J Stre
 
 **Party:** Democrat · **Chamber:** House · **State:** New York
 **Bioguide ID:** `M001231`
+**FEC candidate ID:** `H4NY22085`
 
 **Total received:** —
+
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| J Street | $28,700 |
+| National Education Association | $12,000 |
+| International Association of Firefighters Interested in Registration and Education PAC | $11,000 |
+| Robert Garcia | $10,500 |
+| League of Conservation Voters | $9,900 |
+| Let America Vote PAC | $8,000 |
+| Planned Parenthood Action Fund INC | $7,000 |
+| Pete Aguilar | $6,000 |
+| Katherine M. Clark | $6,000 |
+| Donald S. Beyer | $6,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

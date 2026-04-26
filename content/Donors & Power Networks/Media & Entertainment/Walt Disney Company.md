@@ -1,7 +1,7 @@
 ---
 title: Walt Disney Company
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -40,7 +40,11 @@ related: "[[News Corp - Fox Corporation]] · [[Comcast - NBCUniversal]] · [[Goo
 cross-vault-triangulation-count: 7
 needs-reenrichment: true
 reenrich-reason: run lda pipeline; run pipelines
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 1
 epa-states: CA
 employee-contributions: 2502
@@ -54,6 +58,8 @@ known-gaps:
   - "No lobbying disclosure data"
 last-enriched: 2026-04-21
 ---
+
+
 
 
 
@@ -75,7 +81,20 @@ last-enriched: 2026-04-21
 
 **Total political spend:** —
 
-*No direct donor→politician dollar flows tracked for this entity. Money may route through controlled vehicles or 501(c)(4) shells. See narrative sections below for details.*
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Susie Lee | $5,900 |
+| Cory Booker | $5,000 |
+| Mark Kelly | $4,659 |
+| Jon Ossoff | $4,295 |
+| Julia Brownley | $3,420 |
+| Laura Friedman | $3,250 |
+| Mike Levin | $2,900 |
+| Sara Jacobs | $2,800 |
+| Jake Auchincloss | $2,800 |
+| George Whitesides | $1,200 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
@@ -234,7 +253,7 @@ Copyright term extension (Disney has lobbied for every major copyright extension
 |---|---:|
 | Total revenue | — |
 | Contribution revenue | — |
-| Total expenses | — |
+| Total expenses | $368K |
 | Total assets (EOY) | $324K |
 | Grants paid out | — |
 

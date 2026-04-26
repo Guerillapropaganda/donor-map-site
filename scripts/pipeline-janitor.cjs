@@ -145,14 +145,19 @@ const EXEMPT_TYPES = new Set([
 // Expected pipeline auto-blocks by profile type.
 // A profile at `ready` SHOULD have at least one from each group.
 // Missing = pipeline data is incomplete = should be draft.
+//
+// Pattern lists accept BOTH live (CSV-bulk era) and legacy (API-pipeline era)
+// block names so transition-period profiles still pass. Live names emit from
+// `scripts/build-*-panels.cjs`; legacy names were emitted by the API pipelines
+// paused 2026-04-24 (see `data/enrichment-state.json`).
 const EXPECTED_BLOCKS = {
   politician: [
-    { group: 'fec', patterns: ['auto:fec-politician', 'auto:fec-fundraising'], key: 'fec-candidate-id' },
-    { group: 'voting',  patterns: ['auto:govtrack', 'auto:voting-record'],      key: 'govtrack-id' },
-    { group: 'congress', patterns: ['auto:congress', 'auto:committee-assignments', 'auto:committee'], key: 'bioguide-id' },
+    { group: 'fec', patterns: ['auto:fec-lifetime', 'auto:fec-politician', 'auto:fec-fundraising'], key: 'fec-candidate-id' },
+    { group: 'voting', patterns: ['auto:voting-record', 'auto:govtrack'], key: 'govtrack-id' },
+    { group: 'congress', patterns: ['auto:congress-bills', 'auto:sponsored-bills', 'auto:congress', 'auto:committee-assignments', 'auto:committee'], key: 'bioguide-id' },
   ],
   donor: [
-    { group: 'fec', patterns: ['auto:fec-donor', 'auto:fec'], key: 'fec-committee-id' },
+    { group: 'fec', patterns: ['auto:fec-lifetime', 'auto:fec-donor', 'auto:fec'], key: 'fec-committee-id' },
   ],
   corporation: [
     { group: 'lda', patterns: ['auto:lda-lobbying'], key: null },
@@ -161,9 +166,101 @@ const EXPECTED_BLOCKS = {
     { group: 'lda', patterns: ['auto:lda-lobbying'], key: null },
   ],
   pac: [
-    { group: 'fec', patterns: ['auto:fec'], key: null },
+    { group: 'fec', patterns: ['auto:fec-lifetime', 'auto:fec'], key: null },
   ],
 };
+
+// ─── Pipeline-status awareness ──────────────────────────────────
+// Source of truth: data/enrichment-state.json (CLAUDE.md Rule 3).
+// During the CSV-only freeze, "run X pipeline" advice is split between
+// pipelines with a local CSV-bulk equivalent (truly fixable now) and
+// pipelines that depend on paused GitHub Actions workflows (defer or
+// resume Actions). The janitor must speak both languages.
+
+function loadPipelineStatus() {
+  try {
+    const raw = fs.readFileSync(path.join(__dirname, '..', 'data', 'enrichment-state.json'), 'utf-8');
+    const state = JSON.parse(raw);
+    return {
+      paused: !!state.paused,
+      since: state.paused_since || null,
+      pausedWorkflows: state.paused_workflows || [],
+    };
+  } catch {
+    return { paused: false, since: null, pausedWorkflows: [] };
+  }
+}
+
+const PIPELINE_STATUS = loadPipelineStatus();
+
+// Maps each pipeline name the janitor recommends to:
+//   csvBulk: shell command(s) that actually populate the missing auto-block
+//            during the CSV-only freeze (null = no local fallback)
+//   label:   human-readable name for status messages
+//   note:    optional caveat (e.g. domain broken until $date)
+const PIPELINE_FIX_MAP = {
+  fec: {
+    csvBulk: 'node scripts/ingest-fec-pas2-bulk.cjs && node scripts/build-fec-lifetime-panels.cjs',
+    label: 'FEC',
+  },
+  voting: {
+    csvBulk: 'node scripts/ingest-voteview-bulk.cjs && node scripts/build-voting-record-panels.cjs',
+    label: 'voting record',
+  },
+  congress: {
+    csvBulk: 'node scripts/ingest-congress-bills-bulk.cjs && node scripts/build-sponsored-bills-panel.cjs',
+    label: 'Congress',
+  },
+  usaspending: {
+    csvBulk: 'node scripts/ingest-usaspending-bulk.cjs',
+    label: 'USASpending',
+  },
+  // No CSV-bulk fallback — these were API pipelines paused 2026-04-24
+  occ:               { csvBulk: null, label: 'OCC' },
+  'sec-edgar':       { csvBulk: null, label: 'SEC EDGAR' },
+  fda:               { csvBulk: null, label: 'FDA' },
+  fara:              { csvBulk: null, label: 'FARA' },
+  opensanctions:     { csvBulk: null, label: 'OpenSanctions' },
+  ftc:               { csvBulk: null, label: 'FTC' },
+  'federal-register':{ csvBulk: null, label: 'Federal Register' },
+  courtlistener:     { csvBulk: null, label: 'CourtListener' },
+  'doj-press':       { csvBulk: null, label: 'DOJ Press' },
+  lda:               { csvBulk: null, label: 'LDA', note: 'lda.gov auth broken until June 2026' },
+};
+
+// Returns a fix string honest about whether the pipeline can actually be
+// run right now (CSV bulk available) or is blocked on paused Actions.
+function getFixCommand(pipelineName, verb /* 'run' | 're-run' */) {
+  const meta = PIPELINE_FIX_MAP[pipelineName];
+  const v = verb === 're-run' ? 're-run' : 'run';
+  if (!meta) return `${v} ${pipelineName} pipeline`;
+  if (meta.csvBulk) return `${v} CSV bulk: \`${meta.csvBulk}\``;
+  if (PIPELINE_STATUS.paused) {
+    const note = meta.note ? ` (${meta.note})` : '';
+    const since = PIPELINE_STATUS.since ? ` since ${PIPELINE_STATUS.since}` : '';
+    return `BLOCKED: ${meta.label} API pipeline paused${since}${note} — defer or resume GitHub Actions`;
+  }
+  return `${v} ${meta.label} pipeline`;
+}
+
+// Categorize a fix into one of three buckets for report grouping.
+function getFixCategory(pipelineName) {
+  const meta = PIPELINE_FIX_MAP[pipelineName];
+  if (meta && meta.csvBulk) return 'fixable-now';
+  if (meta && !meta.csvBulk && PIPELINE_STATUS.paused) return 'blocked-paused';
+  return 'fixable-now';
+}
+
+// Categorize an issue object after auditProfile populates it.
+function categorizeIssue(issue) {
+  if (issue.kind && issue.kind.startsWith('a-plus-')) return 'editorial-advisory';
+  if (issue.category) return issue.category;
+  // known-gap / internal-notes / stale / never-enriched: demote-only, no pipeline command
+  if (['known-gap-pipeline', 'internal-notes-pipeline', 'stale', 'never-enriched'].includes(issue.kind)) {
+    return 'fixable-now'; // demote is the fix and that's a real action
+  }
+  return 'fixable-now';
+}
 
 // Phrases in known-gaps / internal-notes that signal "still needs pipeline work"
 const NEEDS_PIPELINE_PHRASES = [
@@ -266,17 +363,28 @@ function auditProfile(filePath, content) {
         issues.push({
           kind: 'zombie-block',
           detail: `${group.key}=${data[group.key]} but no <!-- ${group.patterns[0]} --> block in body`,
-          fix: `re-run ${group.group} pipeline`,
+          fix: getFixCommand(group.group, 're-run'),
+          category: getFixCategory(group.group),
         });
       }
 
       // Ready profile missing expected block entirely (no key, no block)
       // Only flag if readiness is `ready` (not verified — those may have custom content)
+      //
+      // IMPORTANT: when there's no key, the bulk ingest can't help — the
+      // builder joins data to profiles via the ID. The real fix is either
+      // (a) resolve the ID upstream (entity-resolution work) or (b) demote.
+      // We surface that honestly rather than recommending a futile pipeline run.
       if (!hasBlock && !hasKey && readiness === 'ready') {
+        const meta = PIPELINE_FIX_MAP[group.group];
+        const label = (meta && meta.label) || group.group;
+        const idField = group.key || `${group.group} ID`;
         issues.push({
           kind: 'missing-block',
-          detail: `no ${group.group} pipeline data (no key, no block)`,
-          fix: `run ${group.group} pipeline`,
+          detail: `no ${group.group} pipeline data (no ${idField}, no block)`,
+          fix: `no ${idField} resolved for this profile — either resolve ID upstream then run \`node scripts/ingest-${group.group === 'fec' ? 'fec-pas2-bulk' : group.group}-bulk.cjs\`, or demote to draft (admits no ${label} coverage)`,
+          category: 'fixable-now', // demote IS the fix
+          subkind: 'no-key',
         });
       }
     }
@@ -313,10 +421,11 @@ function auditProfile(filePath, content) {
         if (missing.length > 0) {
           const reasons = getRequirementReasons(data.committees);
           const reasonText = reasons.map(r => r.reason).join(' ');
+          const fixParts = missing.map(p => `${p}: ${getFixCommand(p, 'run')}`);
           issues.push({
             kind: 'a-plus-committee-cross-ref',
             detail: `missing committee-relevant pipelines: ${missing.join(', ')}. ${reasonText}`,
-            fix: `run pipelines: ${missing.join(', ')}`,
+            fix: fixParts.join(' | '),
           });
         }
       }
@@ -508,6 +617,20 @@ function writeReport(findings, totals) {
   lines.push(`Generated: ${new Date().toISOString()}`);
   lines.push(`Mode: ${WRITE ? '**WRITE** (applied fixes)' : 'DRY RUN (report only)'}`);
   lines.push('');
+
+  // ─── Pipeline Status Banner ───────────────────────────────────
+  if (PIPELINE_STATUS.paused) {
+    lines.push('## Pipeline Status');
+    lines.push('');
+    lines.push(`**API pipelines paused since ${PIPELINE_STATUS.since}** (${PIPELINE_STATUS.pausedWorkflows.length} workflows disabled — see \`data/enrichment-state.json\`).`);
+    lines.push('');
+    lines.push('Findings below are split into three buckets:');
+    lines.push('- **Fixable now** — CSV-bulk fallback exists, run the listed command');
+    lines.push('- **Blocked on paused pipeline** — no local fallback; defer or resume Actions');
+    lines.push('- **Editorial / advisory** — A+ findings that require David or Research Claude (never auto-demote per ADR-0025)');
+    lines.push('');
+  }
+
   lines.push('## Summary');
   lines.push('');
   lines.push(`- Profiles scanned: ${totals.scanned}`);
@@ -515,32 +638,88 @@ function writeReport(findings, totals) {
   lines.push(`- Profiles with issues: **${findings.length}**`);
   lines.push(`- Total issues: ${findings.reduce((s, f) => s + f.issues.length, 0)}`);
   lines.push('');
-  lines.push('### By issue kind');
-  lines.push('');
-  const byKind = {};
+
+  // Tally by category and by kind-within-category
+  const byCategory = { 'fixable-now': 0, 'blocked-paused': 0, 'editorial-advisory': 0 };
+  const byKindCategory = {}; // kind -> { fixable-now, blocked-paused, editorial-advisory }
   for (const f of findings) {
     for (const i of f.issues) {
-      byKind[i.kind] = (byKind[i.kind] || 0) + 1;
+      const cat = categorizeIssue(i);
+      byCategory[cat] = (byCategory[cat] || 0) + 1;
+      if (!byKindCategory[i.kind]) byKindCategory[i.kind] = { 'fixable-now': 0, 'blocked-paused': 0, 'editorial-advisory': 0 };
+      byKindCategory[i.kind][cat]++;
     }
   }
-  for (const [kind, count] of Object.entries(byKind).sort((a, b) => b[1] - a[1])) {
-    lines.push(`- \`${kind}\`: ${count}`);
+
+  lines.push('### By category');
+  lines.push('');
+  lines.push(`- Fixable now (CSV bulk or demote): **${byCategory['fixable-now']}**`);
+  lines.push(`- Blocked on paused pipeline: **${byCategory['blocked-paused']}**`);
+  lines.push(`- Editorial / advisory (no auto-fix): **${byCategory['editorial-advisory']}**`);
+  lines.push('');
+
+  lines.push('### By issue kind');
+  lines.push('');
+  const kindTotals = Object.entries(byKindCategory)
+    .map(([k, v]) => [k, v['fixable-now'] + v['blocked-paused'] + v['editorial-advisory'], v])
+    .sort((a, b) => b[1] - a[1]);
+  for (const [kind, total, breakdown] of kindTotals) {
+    const bd = [];
+    if (breakdown['fixable-now']) bd.push(`${breakdown['fixable-now']} fixable-now`);
+    if (breakdown['blocked-paused']) bd.push(`${breakdown['blocked-paused']} blocked`);
+    if (breakdown['editorial-advisory']) bd.push(`${breakdown['editorial-advisory']} advisory`);
+    lines.push(`- \`${kind}\`: ${total} (${bd.join(', ')})`);
   }
   lines.push('');
-  lines.push('## Findings');
-  lines.push('');
-  for (const f of findings.sort((a, b) => b.issues.length - a.issues.length)) {
-    const rel = path.relative(CONTENT_DIR, f.filePath).replace(/\\/g, '/');
-    lines.push(`### ${f.title}`);
+
+  // ─── Findings, grouped by category ─────────────────────────────
+  // Profiles can have issues across multiple categories. Sort each profile
+  // into its highest-priority category: fixable-now > blocked-paused > advisory.
+  // (Higher priority = more actionable; David sees what to do first.)
+  function profileCategory(f) {
+    const cats = new Set(f.issues.map(categorizeIssue));
+    if (cats.has('fixable-now')) return 'fixable-now';
+    if (cats.has('blocked-paused')) return 'blocked-paused';
+    return 'editorial-advisory';
+  }
+
+  const groups = {
+    'fixable-now': [],
+    'blocked-paused': [],
+    'editorial-advisory': [],
+  };
+  for (const f of findings) groups[profileCategory(f)].push(f);
+
+  const groupHeaders = {
+    'fixable-now': '## Findings — Fixable Now',
+    'blocked-paused': '## Findings — Blocked on Paused Pipeline',
+    'editorial-advisory': '## Findings — Editorial / Advisory',
+  };
+  const groupBlurbs = {
+    'fixable-now': 'Each issue lists the exact command. Run them, then re-run `node scripts/pipeline-janitor.cjs` to clear.',
+    'blocked-paused': 'These can\'t be auto-fixed during the CSV-only freeze. Either resume the relevant GitHub Actions workflow, or accept a demote via `--write`.',
+    'editorial-advisory': 'A+ findings — David or Research Claude action required. Never auto-demoted (ADR-0025).',
+  };
+
+  for (const cat of ['fixable-now', 'blocked-paused', 'editorial-advisory']) {
+    if (groups[cat].length === 0) continue;
+    lines.push(groupHeaders[cat]);
     lines.push('');
-    lines.push(`- **Path:** \`${rel}\``);
-    lines.push(`- **Current readiness:** \`${f.readiness}\``);
-    lines.push(`- **Type:** \`${f.type}\``);
-    lines.push(`- **Issues (${f.issues.length}):**`);
-    for (const i of f.issues) {
-      lines.push(`  - \`${i.kind}\` — ${i.detail} → **${i.fix}**`);
+    lines.push(`_${groupBlurbs[cat]}_`);
+    lines.push('');
+    for (const f of groups[cat].sort((a, b) => b.issues.length - a.issues.length)) {
+      const rel = path.relative(CONTENT_DIR, f.filePath).replace(/\\/g, '/');
+      lines.push(`### ${f.title}`);
+      lines.push('');
+      lines.push(`- **Path:** \`${rel}\``);
+      lines.push(`- **Current readiness:** \`${f.readiness}\``);
+      lines.push(`- **Type:** \`${f.type}\``);
+      lines.push(`- **Issues (${f.issues.length}):**`);
+      for (const i of f.issues) {
+        lines.push(`  - \`${i.kind}\` — ${i.detail} → **${i.fix}**`);
+      }
+      lines.push('');
     }
-    lines.push('');
   }
 
   fs.mkdirSync(path.dirname(REPORT_PATH), { recursive: true });

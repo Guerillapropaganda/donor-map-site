@@ -1,20 +1,28 @@
 ---
 title: "Blue Meridian Partners"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18
 sector: "Wall Street"
 entity-type: "Donor-Collaborative"
 ein: "815086187"
 nonprofit-status: "501(c)(3)"
 source-tier: 1
-internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. High-dollar collaborative philanthropy vehicle aggregating large-donor commitments for poverty-and-mobility programs. Anchored at Edna McConnell Clark Foundation. Narrative pending Research Claude editorial pass."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. High-dollar collaborative philanthropy vehicle aggregating large-donor commitments for poverty-and-mobility programs. Anchored at Edna McConnell Clark Foundation. Narrative pending Research Claude editorial pass."
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
   - "No mapped relationships"
 last-enriched: 2026-04-21
+needs-reenrichment: true
+reenrich-reason: "no fec-committee-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 ---
+
+
 
 
 
@@ -57,9 +65,46 @@ last-enriched: 2026-04-21
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 9 (2018–2024)
 
-**Grants received (2018–2024):** $561.5M across 3 grantors (from other vault orgs' Schedule I records).
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | — |
+| Grants paid out | — |
+
+**Lifetime grants out (2018–2024):** $2.07B across 233 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| YOUTH VILLAGES | $103.5M | 5 | 2020–2024 |
+| TULSA COMMUNITY FOUNDATION | $99.5M | 6 | 2018–2024 |
+| ZERO TO THREE | $55.5M | 5 | 2019–2023 |
+| UPSTREAM USA | $54.7M | 3 | 2019–2023 |
+| YEAR UP | $49.4M | 7 | 2018–2024 |
+| CHIEFS FOR CHANGE INC | $47.6M | 3 | 2021–2023 |
+| NURSE FAMILY PARTNERSHIP | $47.2M | 5 | 2018–2024 |
+| UNITED NEGRO COLLEGE FUND INC | $43.9M | 3 | 2021–2023 |
+| CENTER FOR EMPLOYMENT OPPORTUNITIES | $42.6M | 3 | 2018–2024 |
+| DAVE THOMAS FOUNDATION FOR ADOPTION | $42.4M | 6 | 2019–2024 |
+| THE BAIL PROJECT | $41.3M | 7 | 2018–2024 |
+| POLICYLINK | $40.4M | 5 | 2021–2024 |
+| THE EDUCATION FINANCE INSTITUTE | $36.6M | 2 | 2021–2022 |
+| VERA INSTITUTE OF JUSTICE INC | $34.5M | 4 | 2020–2024 |
+| GRAMEEN AMERICA | $34.4M | 4 | 2021–2024 |
+| DUKE ENDOWMENT | $34.1M | 1 | 2023 |
+| THE DUKE ENDOWMENT | $32.5M | 2 | 2018–2020 |
+| RESULTS FOR AMERICA | $30.4M | 6 | 2020–2024 |
+| SPARTANBURG COUNTY FOUNDATION | $29.5M | 1 | 2023 |
+| THURGOOD MARSHALL COLLEGE FUND | $29.2M | 3 | 2022–2024 |
+
+**Grants received (2018–2024):** $571.5M across 3 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -67,7 +112,7 @@ last-enriched: 2026-04-21
 |---|---:|---:|---|
 | Goldman Sachs Philanthropy Fund | $437.1M | 6 | 2018–2024 |
 | NATIONAL PHILANTHROPIC TRUST | $96.7M | 2 | 2018–2022 |
-| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $27.6M | 3 | 2021–2023 |
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $37.6M | 4 | 2021–2023 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

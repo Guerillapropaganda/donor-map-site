@@ -1,7 +1,7 @@
 ---
 title: Koch network
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-16
 source-tier: 1
 parent: null
@@ -24,7 +24,11 @@ related: "[[Intra-Republican Contradiction Map]] · [[South Carolina 2026 Senate
 lei: 391200KFDASVUTIYEP51
 lei-jurisdiction: DE
 cross-vault-triangulation-count: 19
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 politicians-funded: "[[Mike Lee]], [[John Boehner]], [[Bryan Steil]], [[Paul Ryan]], [[Jerry Moran]], [[Shelley Moore Capito]], [[Pete Hegseth]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -35,6 +39,8 @@ known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
 ---
+
+
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: State Policy Network
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -41,13 +41,19 @@ court-jurisdictions:
   - District Court, S.D. New York
   - District Court, W.D. Texas
 cross-vault-triangulation-count: 6
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
 employee-contributions: 3
 employee-contributions-total: 1551
 employee-donor-count: 2
 politicians-funded: "[[WinRed]], [[_Marco Rubio Master Profile]], [[Marco Rubio]]"
 ---
+
+
 
 
 
@@ -60,6 +66,12 @@ politicians-funded: "[[WinRed]], [[_Marco Rubio Master Profile]], [[Marco Rubio]
 **EIN:** `570952531`
 
 **Total political spend:** —
+
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Marco Rubio | $250 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
@@ -302,7 +314,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Total assets (EOY) | $24.6M |
 | Grants paid out | $3.2M |
 
-**Lifetime grants out (2018–2024):** $26.6M across 100 recipients.
+**Lifetime grants out (2018–2024):** $26.6M across 103 recipients.
 
 **Top 20 recipients:**
 
@@ -320,7 +332,6 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | COMMONWEALTH FOUNDATION | $715K | 7 | 2019–2024 |
 | LIBERTAS INSTITUTE | $713K | 5 | 2020–2024 |
 | OKLAHOMA COUNCIL OF PUBLIC AFFAIRS | $708K | 7 | 2018–2024 |
-| EMPIRE CENTER FOR PUBLIC POLICY | $695K | 6 | 2018–2024 |
 | CALIFORNIA POLICY CENTER | $671K | 5 | 2019–2023 |
 | MACKINAC CENTER FOR PUBLIC POLICY | $655K | 7 | 2018–2024 |
 | ILLINOIS POLICY INSTITUTE | $641K | 8 | 2019–2024 |
@@ -328,15 +339,16 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | EMPOWER MISSISSIPPI FOUNDATION | $636K | 4 | 2021–2024 |
 | OPPORTUNITY ARKANSAS | $477K | 3 | 2022–2024 |
 | ALASKA POLICY FORUM | $475K | 5 | 2019–2023 |
+| PLATTE INSTITUTE FOR ECONOMIC RESEARCH | $440K | 6 | 2020–2024 |
 
-**Grants received (2018–2024):** $40.1M across 12 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $40.3M across 12 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
 | Donors Trust Inc | $37.3M | 15 | 2020–2024 |
-| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $1.1M | 6 | 2018–2023 |
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $1.2M | 7 | 2018–2023 |
 | Vanguard Charitable Endowment Program | $530K | 3 | 2021–2023 |
 | NATIONAL PHILANTHROPIC TRUST | $438K | 5 | 2019–2023 |
 | SCHWAB CHARITABLE FUND | $433K | 7 | 2018–2024 |

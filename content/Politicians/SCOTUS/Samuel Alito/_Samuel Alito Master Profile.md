@@ -1,7 +1,7 @@
 ---
 title: Samuel Alito
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: Samuel Alito is the quieter version of the Thomas model , fewer gifts, the same structural capture. His 2008 Alaska fishing trip with Paul Singer was arranged by Leonard Leo, the same architect who secured Alito's nomination after engineering Harr...
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -19,11 +19,19 @@ known-gaps:
 related: "[[Leonard Leo]] · [[_Clarence Thomas Master Profile]] · [[Koch Network - Charles Koch]] · [[Elliott Management]]"
 wikidata-id: Q11138
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage); no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)"
 wikipedia-url: https://en.wikipedia.org/wiki/Samuel_Alito
 wikipedia-extract: Samuel Anthony Alito Jr. is an American jurist who serves as an associate justice of the Supreme Court of the United States. He was nominated to the high court by President George W.
 born: "1950-01-01"
 donors: "[[Federalist Society]], [[Koch Network - Charles Koch]], [[Paul Singer]], [[Leonard Leo]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 

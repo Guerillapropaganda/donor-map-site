@@ -2,7 +2,7 @@
 title: Hilda Solis
 type: politician
 bioguide-id: S001153
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Democrat
@@ -17,11 +17,18 @@ urls-first-triaged: "2026-04-15"
 fec-candidate-id: H6CA38139
 top-donors: "[[IBEW - International Brotherhood of Electrical Workers]], [[UnitedHealth Group - Optum]], [[Verizon]], [[Kaiser Permanente]], [[Pfizer Inc.]], [[CBRE Group]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AFL-CIO]], [[TAMMY BALDWIN FOR CONGRESS]], [[National Education Association]], [[League of Conservation Voters]], [[Humana]], [[Akin Gump Strauss Hauer & Feld]], [[National Committee to Preserve Social Security & Medicare PAC]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[MIKE THOMPSON FOR CONGRESS]], [[Blue Shield of California]], [[Planned Parenthood Action Fund INC]], [[J Street]], [[Sierra Club Political Committee]], [[Raul Grijalva]], [[Amgen Inc]], [[MEDICARE FOR ALL]], [[Mike Thompson]], [[Tammy Baldwin]]"
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage)"
 total-raised: $741K
 career-total-source: FEC weball summary (cycles 2026)
 bills-sponsored: 49
 corroboration-count: 2
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -35,6 +42,7 @@ corroboration-count: 2
 <!-- tier: paid -->
 
 **Party:** Democrat · **Chamber:** Secretary of Labor (2009-2013)
+**FEC candidate ID:** `H0CA31087`
 
 **Total received:** —
 
@@ -42,12 +50,16 @@ corroboration-count: 2
 
 | Donor | Amount |
 |---|---:|
+| International Association of Firefighters Interested in Registration and Education PAC | $26,000 |
+| AFL-CIO | $25,546 |
+| National Education Association | $21,500 |
+| Sierra Club Political Committee | $11,000 |
+| Pfizer Inc. | $10,250 |
+| Blue Shield of California | $6,000 |
+| Planned Parenthood Action Fund INC | $6,000 |
+| Hillary Clinton | $4,000 |
+| Barack Obama | $4,000 |
 | IBEW - International Brotherhood of Electrical Workers | $3,500 |
-| Kaiser Permanente | $3,500 |
-| UnitedHealth Group - Optum | $1,500 |
-| Pfizer Inc. | $250 |
-| CBRE Group | $250 |
-| Verizon | $250 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
@@ -77,6 +89,39 @@ corroboration-count: 2
 
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 49 |
+| Enacted into law | 5 |
+| Top policy areas | Health · Environmental Protection · Public Lands and Natural Resources |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| — | 2007-11-14 | HR.4185-110 | To designate the facility of the United States Postal Service located at 11151 Valley Boul |
+| — | 2007-01-22 | HR.625-110 | To designate the facility of the United States Postal Service located at 4230 Maine Avenue |
+| — | 2005-10-07 | HR.4053-109 | To designate the facility of the United States Postal Service located at 545 North Rimsdal |
+| — | 2003-06-09 | HR.2396-108 | To designate the facility of the United States Postal Service located at 1210 Highland Ave |
+| — | 2003-01-31 | HR.519-108 | San Gabriel River Watershed Study Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2008-09-27 | HR.7194-110 | Environmental Protection | Climate Change Rebate Act of 2008 |
+| 2008-09-17 | HR.6934-110 | Crime and Law Enforcement | Juvenile Justice Reform Act of 2008 |
+| 2008-07-24 | HR.6621-110 | Health | Reinstatement of Enrollment for Medicaid Eligibility of Disadvantaged Youth (REMEDY) Act |
+| 2008-07-17 | HR.6551-110 | Health | Primary Care Dental Academic Workforce Development Act of 2008 |
+| 2008-07-10 | HR.6478-110 | Health | Access to America's Orthopedic Services Act of 2008 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S001153` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Hilda Solis
 

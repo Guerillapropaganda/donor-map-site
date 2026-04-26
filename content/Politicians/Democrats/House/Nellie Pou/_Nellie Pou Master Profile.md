@@ -1,7 +1,7 @@
 ---
 title: Nellie Pou
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Democrat
@@ -24,6 +24,8 @@ known-gaps:
 urls-first-triaged: "2026-04-15"
 top-donors: "[[Comcast - NBCUniversal]], [[AT&T]], [[Cigna Group]], [[a16z - Andreessen Horowitz]], [[Ford Motor Company]], [[CVS Health - Aetna]], [[Coinbase]], [[Meta - Facebook]], [[Novo Nordisk]], [[Pfizer Inc.]], [[Johnson & Johnson]], [[SHARICE FOR CONGRESS]], [[PAUL TONKO FOR CONGRESS]], [[LUZ RIVAS FOR CONGRESS]], [[BARRAGAN FOR CONGRESS]], [[Teresa Leger Fernandez]], [[PETE AGUILAR FOR CONGRESS]], [[AIPAC - American Israel Public Affairs Committee]], [[STRICKLAND FOR WASHINGTON]], [[Planned Parenthood Action Fund INC]], [[NANCY PELOSI FOR CONGRESS]], [[AbbVie]], [[Demand Justice]], [[National Education Association]], [[Let America Vote PAC]], [[ROBERT GARCIA FOR CONGRESS]], [[Nydia Velazquez]], [[NIKKI FOR CONGRESS]], [[Leidos]], [[Maxwell Frost]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[DEBORAH ROSS FOR CONGRESS]], [[Donald S. Beyer]], [[JAMIE RASKIN FOR CONGRESS]], [[League of Conservation Voters]], [[Amgen Inc]], [[Sylvia R. Garcia]], [[Bradley Scott Schneider]], [[Robert Menendez]], [[Hakeem Jeffries]], [[KATHERINE CLARK FOR CONGRESS]], [[MARK KELLY FOR SENATE]], [[Richard Neal]], [[TED LIEU FOR CONGRESS]], [[ADRIANO ESPAILLAT FOR CONGRESS]], [[Robin L. Kelly]], [[Janice D. Schakowsky]], [[JUDY CHU FOR CONGRESS]], [[STANTON FOR CONGRESS]], [[Nanette Diaz Barragan]], [[Bob Menendez]], [[Paul Tonko]], [[Judy Chu]], [[Robert Garcia]], [[Ted Lieu]], [[Deborah K. Ross]], [[Sharice Davids]], [[Pete Aguilar]], [[Mark Kelly]], [[Luz M. Rivas]], [[Greg Stanton]], [[Nikki Budzinski]], [[Nancy Pelosi]], [[Bonnie Watson Coleman]], [[Jamie Raskin]], [[Adriano Espaillat]], [[Katherine M. Clark]], [[Marilyn Strickland]]"
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 committees:
   - Aviation
   - Counterterrorism and Intelligence
@@ -33,7 +35,12 @@ committees:
   - Water Resources and Environment
 bills-sponsored: 10
 corroboration-count: 2
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -48,6 +55,7 @@ corroboration-count: 2
 
 **Party:** Democrat · **Chamber:** House · **State:** New Jersey
 **Bioguide ID:** `P000621`
+**FEC candidate ID:** `H4NJ09194`
 
 **Total received:** —
 
@@ -55,16 +63,16 @@ corroboration-count: 2
 
 | Donor | Amount |
 |---|---:|
-| Johnson & Johnson | $2,900 |
-| a16z - Andreessen Horowitz | $1,500 |
-| Coinbase | $750 |
-| AT&T | $750 |
-| Novo Nordisk | $500 |
-| Comcast - NBCUniversal | $250 |
-| CVS Health - Aetna | $250 |
-| Meta - Facebook | $250 |
-| Pfizer Inc. | $250 |
-| Ford Motor Company | $250 |
+| National Education Association | $7,000 |
+| Let America Vote PAC | $6,500 |
+| Pete Aguilar | $6,000 |
+| Hakeem Jeffries | $6,000 |
+| AIPAC - American Israel Public Affairs Committee | $5,000 |
+| Demand Justice | $5,000 |
+| International Association of Firefighters Interested in Registration and Education PAC | $5,000 |
+| AbbVie | $4,500 |
+| Ted Lieu | $4,000 |
+| Sharice Davids | $4,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

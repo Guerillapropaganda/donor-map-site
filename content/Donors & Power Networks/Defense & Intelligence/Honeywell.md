@@ -1,7 +1,7 @@
 ---
 title: Honeywell International
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 2
 parent: null
@@ -9,6 +9,8 @@ sector: Defense & Intelligence
 entity-type: Corporation
 federal-register-mentions: 720
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "no lda ID resolved for this profile — either resolve ID upstream then run `node scripts/ingest-lda-bulk.cjs`, or demote to draft (admits no LDA coverage)"
 regulatory-agencies:
   - Antitrust Division
   - Commerce Department
@@ -69,7 +71,12 @@ employee-contributions: 531005
 employee-contributions-total: 37014257
 employee-donor-count: 20720
 politicians-funded: "[[_Glenn Grothman Master Profile]], [[Giffords PAC]], [[Mark Kelly]], [[National Rifle Association]], [[Honeywell]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[_Jon Ossoff Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[NRCC - National Republican Congressional Committee]], [[_Josh Hawley Master Profile]], [[CHC BOLD PAC]], [[_Cori Bush Master Profile]], [[_Elissa Slotkin Master Profile]], [[WinRed]], [[MoveOn.org Political Action]], [[Bob Casey]], [[_Anna Paulina Luna Master Profile]], [[ActBlue]], [[Chris Christie]], [[WinSenate]], [[Emily's List]], [[Let America Vote PAC]], [[_Don Bacon Master Profile]], [[_Lauren Boebert Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[ENVIRONMENT AMERICA INC]], [[_Chris Pappas Master Profile]], [[Courage to Change PAC]], [[Climate Hawks Vote]], [[NRSC - National Republican Senatorial Committee]], [[Votevets]], [[_Marco Rubio Master Profile]], [[_Deb Haaland Master Profile]], [[Teamsters - International Brotherhood of Teamsters]], [[Hmp]], [[RNC - Republican National Committee]], [[Progressive Turnout Project]], [[_Bonnie Watson Coleman Master Profile]], [[Save America PAC]], [[_Ron Johnson Master Profile]], [[_Lisa Blunt Rochester Master Profile]], [[_Pete Stauber Master Profile]], [[American Chemistry Council, INC]], [[MAGA Inc]], [[Democratic Party of Virginia]], [[_Martin Heinrich Master Profile]], [[The Lincoln Project]], [[_Andy Harris Master Profile]], [[The National Republican Trust PAC]], [[Sierra Club Political Committee]], [[SPECIAL OPERATIONS FOR AMERICA]], [[Human Rights Campaign Equality Votes]], [[Trump Victory]], [[_Ted Cruz Master Profile]], [[Marianne Williamson]], [[Catherine Cortez Masto]], [[_Lauren Underwood Master Profile]], [[FreedomWorks for America]], [[_Tammy Baldwin Master Profile]], [[_Yassamin Ansari Master Profile]], [[314 ACTION FUND]], [[Jon Ossoff]], [[Yassamin Ansari]], [[Glenn Grothman]], [[Ted Cruz]], [[Marco Rubio]], [[Bonnie Watson Coleman]], [[Don Bacon]], [[Lauren Boebert]], [[Martin Heinrich]], [[Pete Stauber]], [[Lauren Underwood]], [[Deb Haaland]], [[Cori Bush]], [[Anna Paulina Luna]], [[Chris Pappas]], [[Tammy Baldwin]], [[Lisa Blunt Rochester]], [[Ron Johnson]], [[Josh Hawley]], [[Elissa Slotkin]], [[Andy Harris]], [[Juan Vargas]], [[Ritchie Torres]], [[Mike Flood]], [[Bennie Thompson]], [[Rick Larsen]], [[Jacky Rosen]], [[Mariannette Miller-Meeks]], [[Andre Carson]], [[Dan Crenshaw]], [[Diana Harshbarger]], [[Darin Lahood]], [[Rick Crawford]], [[Steve Cohen]], [[Mark Takano]], [[Susie Lee]], [[Deb Fischer]], [[Sarah Elfreth]], [[Minnesota Democratic-Farmer-Labor Party]], [[Morgan Luttrell]], [[David Kustoff]], [[Tom Cole]], [[Brett Guthrie]], [[Honeywell International]], [[Brian Schatz]], [[Sharice Davids]], [[Darren Soto]], [[Ann Wagner]], [[David Rouzer]], [[Todd Young]], [[Kevin McCarthy]], [[Kat Cammack]], [[Carlos Gimenez]], [[Chris van Hollen]], [[Frank Pallone]], [[Mike Thompson]], [[Michelle Fischbach]], [[Greg Stanton]], [[Dusty Johnson]], [[Kay Granger]], [[Bryan Steil]], [[Sam Graves]], [[Jason Smith]], [[Michael Guest]], [[Julie Fedorchak]], [[John Joyce]], [[Adam Smith]], [[Brittany Pettersen]], [[Kathy Castor]], [[Raja Krishnamoorthi]], [[Kristen McDonald Rivet]], [[Jefferson Shreve]], [[Michael Lawler]], [[Ron Estes]], [[Steve Scalise]], [[Joe Wilson]], [[Dan Newhouse]], [[Environment America INC]], [[Mike Carey]], [[Gregory Meeks]], [[Grace Meng]], [[Cory Mills]], [[Steve Womack]], [[Josh Gottheimer]], [[John Garamendi]], [[Kyrsten Sinema]], [[Nikema Williams]], [[Aaron Bean]], [[Sheri Biggs]], [[Pete Aguilar]], [[Julie Johnson]], [[Brian Jack]], [[Mark Warner]], [[Michael Baumgartner]], [[Jeanne Shaheen]], [[Nathaniel Moran]], [[James Comer]], [[Jimmy Panetta]], [[Tim Moore]], [[Roger Wicker]], [[HMP]], [[Guy Reschenthaler]], [[Mario Diaz-Balart]], [[Claudia Tenney]], [[Rudy Yakym]], [[Daniel Webster]], [[Ryan Mackenzie]], [[John Barrasso]], [[Marcy Kaptur]], [[Jerry Moran]], [[Patrick McHenry]], [[Derek Schmidt]], [[Seth Magaziner]], [[Jodey Arrington]], [[Sean Casten]], [[Debbie Dingell]], [[Richard Hudson]], [[Eric Burlison]], [[Bruce Westerman]], [[Chrissy Houlahan]], [[Scott Desjarlais]], [[Ken Calvert]], [[Brad Sherman]], [[Gwen Moore]], [[Tracey Mann]], [[Paul Tonko]], [[Brad Knott]], [[Ryan Zinke]], [[Shri Thanedar]], [[Madeleine Dean]], [[Ted Lieu]], [[Jared Huffman]], [[Diana Degette]], [[Jared Moskowitz]], [[Eric Sorensen]], [[Brian Babin]], [[Richard Neal]], [[David Scott]], [[Debbie Wasserman Schultz]], [[David Schweikert]], [[Brendan Boyle]], [[Dina Titus]], [[Rosa DeLauro]], [[Nancy Mace]], [[Wesley Bell]], [[Chris Coons]], [[Joseph Morelle]], [[Judy Chu]], [[Shontel Brown]], [[Suzanne Bonamici]], [[Brad Finstad]], [[Frank Lucas]], [[Troy Balderson]], [[Cindy Hyde-Smith]], [[John Boozman]], [[John Hoeven]], [[Mike Kennedy]], [[Donald Norcross]], [[Mark Alford]], [[Mike Quigley]], [[French Hill]], [[Derek Tran]], [[Jay Obernolte]], [[Raul Ruiz]], [[Lloyd Smucker]], [[Rick Scott]], [[Bill Hagerty]], [[Vince Fong]], [[Hakeem Jeffries]], [[Mike Haridopolos]], [[Ronny Jackson]], [[Adrian Smith]], [[Special Operations for America]], [[Chip Roy]], [[Marilyn Strickland]], [[Troy Downing]], [[Mike Lee]], [[Scott Franklin]], [[Shelley Moore Capito]], [[Richard Blumenthal]], [[Marsha Blackburn]], [[Katie Britt]], [[Young Kim]], [[Patty Murray]], [[Michael Waltz]], [[Veronica Escobar]], [[Jim Himes]], [[James Lankford]], [[Cathy McMorris Rodgers]], [[Steven Horsford]], [[Sydney Kamlager-Dove]], [[Jim Costa]], [[Mark DeSaulnier]], [[Steve Daines]], [[Richard McCormick]], [[Joe Manchin]], [[John Kennedy]], [[Tim Scott]], [[Lois Frankel]], [[Julia Brownley]], [[Nicole Malliotakis]], [[Eric Swalwell]], [[Shomari Figures]], [[Maria Elvira Salazar]], [[Chuck Edwards]], [[Vicente Gonzalez]], [[Lisa Murkowski]], [[Harold Rogers]], [[Morgan McGarvey]], [[Erin Houchin]], [[Cliff Bentz]], [[Alex Padilla]], [[Adriano Espaillat]], [[Tony Wied]], [[Russell Fry]], [[Gary Peters]], [[Jack Reed]], [[Ruben Gallego]], [[Nancy Pelosi]], [[Betty McCollum]], [[Victoria Spartz]], [[August Pfluger]], [[Sherrod Brown]], [[Ashley Moody]], [[John James]], [[314 Action Fund]], [[Andrea Salinas]], [[Joyce Beatty]], [[George Whitesides]], [[John Thune]], [[Sara Jacobs]], [[Pat Harrigan]], [[Ron Wyden]], [[Kevin Cramer]], [[Emanuel Cleaver]], [[J. French Hill]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -90,6 +97,21 @@ politicians-funded: "[[_Glenn Grothman Master Profile]], [[Giffords PAC]], [[Mar
 **Capital type:** `military-industrial`
 
 **Total political spend:** —
+
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Raja Krishnamoorthi | $35,000 |
+| Hakeem Jeffries | $35,000 |
+| Tom Cole | $30,000 |
+| Michael Guest | $30,000 |
+| Josh Gottheimer | $30,000 |
+| Ken Calvert | $30,000 |
+| Joseph Morelle | $30,000 |
+| Rick Larsen | $29,500 |
+| Greg Stanton | $29,500 |
+| Adam Smith | $29,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

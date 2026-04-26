@@ -1,7 +1,7 @@
 ---
 title: Carlyle Group
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -60,13 +60,19 @@ occ-charter-numbers:
   - "2212"
 occ-cmp-dollars: 3000
 cross-vault-triangulation-count: 13
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 2
 epa-states: IL, MD
 employee-contributions: 188
 employee-contributions-total: 565997
 employee-donor-count: 114
 ---
+
+
 
 
 
@@ -84,7 +90,20 @@ employee-donor-count: 114
 
 **Total political spend:** —
 
-*No direct donor→politician dollar flows tracked for this entity. Money may route through controlled vehicles or 501(c)(4) shells. See narrative sections below for details.*
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Bob Casey | $34,300 |
+| Yassamin Ansari | $7,000 |
+| Andy Barr | $2,500 |
+| Don Bacon | $1,500 |
+| Jason Smith | $1,250 |
+| Melissa Bean | $1,000 |
+| Ann Wagner | $1,000 |
+| Mike Kelly | $521 |
+| Seth Moulton | $500 |
+| Kamala Harris | $250 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

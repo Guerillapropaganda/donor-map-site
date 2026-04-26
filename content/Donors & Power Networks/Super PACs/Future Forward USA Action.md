@@ -1,7 +1,7 @@
 ---
 title: "Future Forward USA Action"
 type: pac
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-17
 source-tier: null
 parent: null
@@ -27,13 +27,19 @@ nonprofit-status: "501(c)(4)"
 total-revenue: 624582324
 total-assets: 26668352
 cross-vault-triangulation-count: 8
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 checklist-na:
   - "regulatory: auto: entity type \"pac\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"pac\" does not typically hold federal contracts (2026-04-15)"
 ---
+
+
 
 
 
@@ -223,7 +229,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Total assets (EOY) | $26.7M |
 | Grants paid out | $469.3M |
 
-**Lifetime grants out (2018–2024):** $502.0M across 111 recipients.
+**Lifetime grants out (2018–2024):** $502.0M across 116 recipients.
 
 **Top 20 recipients:**
 
@@ -241,22 +247,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | ORGANIZING EMPOWERMENT PROJECT | $5.0M | 1 | 2024 |
 | WORKING AMERICA ACTION | $5.0M | 1 | 2024 |
 | COUNTERACT FUND | $4.8M | 1 | 2024 |
-| Way to Win Action Fund | $4.4M | 3 | 2022–2024 |
-| Vote Rev Action Fund | $3.6M | 2 | 2022–2024 |
+| WAY TO WIN ACTION FUND | $3.9M | 2 | 2024 |
+| VOTE REV ACTION FUND | $3.6M | 1 | 2024 |
 | TURNOUT ACTION FUND | $3.4M | 1 | 2024 |
 | VOTO LATINO | $3.0M | 1 | 2024 |
-| The Act Now Project | $2.6M | 2 | 2023–2024 |
 | BLACK PROGRESSIVE ACTION COALITION | $2.5M | 1 | 2024 |
+| THE ACT NOW PROJECT | $2.5M | 1 | 2024 |
 | PLANNED PARENTHOOD ACTION FUND | $2.3M | 1 | 2024 |
 | Building Back Together | $2.3M | 1 | 2021 |
 
-**Grants received (2020–2023):** $21.7M across 4 grantors (from other vault orgs' Schedule I records).
+**Grants received (2020–2023):** $28.4M across 5 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
 | SIXTEEN THIRTY FUND | $15.2M | 1 | 2020 |
+| NORTH FUND | $6.7M | 1 | 2020 |
 | HOPEWELL FUND | $2.7M | 2 | 2020–2022 |
 | LEAGUE OF CONSERVATION VOTERS INC | $2.5M | 1 | 2022 |
 | AMERICA VOTES | $1.2M | 2 | 2023 |

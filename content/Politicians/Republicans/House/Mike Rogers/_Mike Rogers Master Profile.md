@@ -1,7 +1,7 @@
 ---
 title: Mike Rogers
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: Mike Rogers is the defense industry's highest-paid congressional employee. Over $2 million in career defense donations , more than any other House member in the current Congress , bought the most reliable advocate the military-industrial complex h...
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
@@ -29,10 +29,16 @@ bills-sponsored: 6
 bills-cosponsored: 153
 website: https://mikerogers.house.gov
 phone: 202-225-3261
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 bills-enacted: 0
 top-policy-area: Health
 ---
+
+
 
 
 
@@ -46,6 +52,7 @@ top-policy-area: Health
 
 **Party:** Republican · **Chamber:** House · **State:** Alabama
 **Bioguide ID:** `R000575`
+**FEC candidate ID:** `H2AL03032`
 
 **Total received:** —
 
@@ -57,16 +64,16 @@ top-policy-area: Health
 
 | Donor | Amount |
 |---|---:|
+| National Republican Senatorial Committee | $1,762,574 |
+| Leidos | $78,300 |
+| Michigan Republican Party | $77,148 |
+| Associated General Contractors of America Political Action Committee | $76,500 |
+| Koch Industries | $75,500 |
+| National Restaurant Association | $72,500 |
+| NRA Political Victory Fund | $69,250 |
+| Amgen Inc | $52,500 |
 | Lockheed Martin | $50,750 |
-| Leidos | $31,800 |
-| General Dynamics | $25,200 |
-| L3 Technologies | $13,800 |
-| Microsoft | $13,200 |
-| Southern Company | $12,700 |
-| Goldman Sachs | $8,800 |
-| Amazon | $7,000 |
-| Alabama Power | $6,500 |
-| SpaceX | $4,200 |
+| Pfizer Inc. | $46,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

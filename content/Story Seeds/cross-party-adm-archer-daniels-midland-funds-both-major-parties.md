@@ -3,14 +3,14 @@ title: "ADM - Archer Daniels Midland funds both major parties"
 type: story-seed
 seed-type: cross-party
 confidence: 4
-last-updated: '2026-04-24'
+last-updated: '2026-04-26'
 auto-generated: true
 status: unclaimed
 ---
 
 # ADM - Archer Daniels Midland funds both major parties
 
-_Confidence: ★★★★☆ · Surfaced by contradiction-miner on 2026-04-24_
+_Confidence: ★★★★☆ · Surfaced by contradiction-miner on 2026-04-26_
 
 ## The angle
 

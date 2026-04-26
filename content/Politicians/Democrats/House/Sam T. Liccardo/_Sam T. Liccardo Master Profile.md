@@ -1,7 +1,7 @@
 ---
 title: Sam T. Liccardo
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Democrat
@@ -23,6 +23,8 @@ known-gaps:
   - No mapped relationships
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 committees:
   - Digital Assets, Financial Technology, and Artificial Intelligence
   - House Committee on Financial Services
@@ -31,7 +33,12 @@ committees:
 bills-sponsored: 14
 corroboration-count: 2
 top-donors: "[[Sam T. Liccardo]], [[Google - Alphabet]], [[Amgen Inc]], [[Pfizer Inc.]], [[Coinbase]], [[Gilead Sciences]], [[NANCY PELOSI FOR CONGRESS]], [[Gilbert Ray Cisneros]], [[Akin Gump Strauss Hauer & Feld]], [[Blue Shield of California]], [[J Street]], [[League of Conservation Voters]], [[PETE AGUILAR FOR CONGRESS]], [[Bradley Scott Schneider]], [[AbbVie]], [[Meta - Facebook]], [[DoorDash]], [[Nancy Pelosi]], [[Pete Aguilar]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -46,8 +53,24 @@ top-donors: "[[Sam T. Liccardo]], [[Google - Alphabet]], [[Amgen Inc]], [[Pfizer
 
 **Party:** Democrat · **Chamber:** House · **State:** California
 **Bioguide ID:** `L000607`
+**FEC candidate ID:** `H4CA16197`
 
 **Total received:** —
+
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Blue Shield of California | $7,500 |
+| Amgen Inc | $5,000 |
+| Google - Alphabet | $3,000 |
+| AbbVie | $2,500 |
+| League of Conservation Voters | $2,000 |
+| Gilead Sciences | $2,000 |
+| Pfizer Inc. | $2,000 |
+| J Street | $2,000 |
+| Mike Thompson | $2,000 |
+| Julie Johnson | $2,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

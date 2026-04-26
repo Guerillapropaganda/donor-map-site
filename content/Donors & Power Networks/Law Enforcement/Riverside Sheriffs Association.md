@@ -1,7 +1,7 @@
 ---
 title: Riverside Sheriffs Association
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -32,7 +32,11 @@ nonprofit-status: 501(c)(5)
 total-revenue: 5926651
 total-assets: 5851488
 cross-vault-triangulation-count: 10
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -44,6 +48,8 @@ corroboration-count: 3
 known-gaps:
   - "No FEC contribution data"
 ---
+
+
 
 
 

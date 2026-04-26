@@ -1,7 +1,7 @@
 ---
 title: FF PAC
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 sector: Super PACs
 entity-type: Super PAC
@@ -15,7 +15,11 @@ known-gaps:
   - "No lobbying disclosure data"
   - "No mapped relationships"
 last-enriched: 2026-04-21
+needs-reenrichment: true
+reenrich-reason: "no fec-committee-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 ---
+
+
 
 
 
@@ -28,6 +32,14 @@ last-enriched: 2026-04-21
 **EIN:** `830791921`
 
 **Total political spend:** —
+
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Kamala Harris | $542,693,348 |
+| Donald Trump | $95,790,154 |
+| John Cornyn | $13,200,960 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

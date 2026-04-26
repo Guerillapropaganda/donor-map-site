@@ -1,7 +1,7 @@
 ---
 title: "Alan Armstrong"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12
 source-tier: 1
 party: "Republican"
@@ -22,8 +22,16 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage); re-run CSV bulk: `node scripts/ingest-congress-bills-bulk.cjs && node scripts/build-sponsored-bills-panel.cjs`"
 corroboration-count: 2
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+  • Congress.gov data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 

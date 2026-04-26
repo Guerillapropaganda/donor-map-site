@@ -1,7 +1,7 @@
 ---
 title: CalSTRS - California State Teachers' Retirement System
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -13,6 +13,8 @@ issues:
   - Education
 ofac-sdn-match: "true"
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "no lda ID resolved for this profile — either resolve ID upstream then run `node scripts/ingest-lda-bulk.cjs`, or demote to draft (admits no LDA coverage)"
 ofac-programs:
   - RUSSIA-EO14024
 known-gaps:
@@ -37,7 +39,12 @@ epa-states: CA
 employee-contributions: 135
 employee-contributions-total: 12833
 employee-donor-count: 25
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 

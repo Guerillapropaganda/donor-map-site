@@ -1,7 +1,7 @@
 ---
 title: "Tisch Family"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12
 source-tier: 2
 parent: null
@@ -36,7 +36,11 @@ annual-revenue: "$72.1M"
 net-assets: "$225.5M"
 tax-year: "2023"
 cross-vault-triangulation-count: 1
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 checklist-na:
@@ -44,6 +48,8 @@ checklist-na:
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
 ---
+
+
 
 
 
@@ -157,9 +163,9 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 | Metric | Amount |
 |---|---:|
-| Total revenue | — |
+| Total revenue | $12.1M |
 | Contribution revenue | $3.8M |
-| Total expenses | — |
+| Total expenses | $13.3M |
 | Total assets (EOY) | $227.7M |
 | Grants paid out | — |
 

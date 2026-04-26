@@ -1,7 +1,7 @@
 ---
 title: "Eric Swalwell Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: "Eric Swalwell is the media profile candidate — his visibility derives from cable news appearances (MSNBC, CNN, Fox News) and his prominent role in Trump impeachment proceedings, not from legislative accomplishment. His political brand is 'anti-Tru..."
 last-updated: 2026-04-08
 source-tier: 1
@@ -16,6 +16,8 @@ top-donors:
 total-received: "$1,707,218"
 fec-candidate-id: "H2CA15094"
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage); no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)"
 source-types:
   - Congress
   - GovTrack
@@ -23,7 +25,13 @@ corroboration-count: 2
 known-gaps:
   - "No FEC contribution data"
 related: "[[SEIU - Service Employees International Union]] · [[_Katie Porter Master Profile]] · [[_Matt Mahan Master Profile]] · [[_Tom Steyer Master Profile]] · [[_Gavin Newsom Master Profile]] · [[California Nurses Association]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -44,16 +52,16 @@ related: "[[SEIU - Service Employees International Union]] · [[_Katie Porter Ma
 
 | Donor | Amount |
 |---|---:|
+| National Education Association | $38,000 |
+| Amgen Inc | $30,000 |
+| AIPAC - American Israel Public Affairs Committee | $29,903 |
+| Pfizer Inc. | $26,500 |
+| Bechtel Corporation | $25,500 |
+| Blue Shield of California | $24,000 |
+| Google - Alphabet | $23,000 |
 | National Association of Realtors | $23,000 |
-| American Federation of State County & Municipal Employees P E O P L E | $22,500 |
-| Raytheon (RTX) | $21,000 |
-| PG&E - Pacific Gas and Electric | $20,883 |
-| IBEW - International Brotherhood of Electrical Workers | $20,000 |
-| AIPAC - American Israel Public Affairs Committee | $18,903 |
-| Teamsters - International Brotherhood of Teamsters | $15,500 |
-| Anthem - Elevance Health | $14,000 |
-| AT&T - WarnerMedia | $13,500 |
-| Google - Alphabet | $11,000 |
+| American Federation of State County & Municipal Employees  P E O P L E | $22,500 |
+| International Association of Firefighters Interested in Registration and Education PAC | $21,700 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

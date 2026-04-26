@@ -1,20 +1,28 @@
 ---
 title: "Stand Together Foundation"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18
 sector: "Dark Money"
 entity-type: "501(c)(3)"
 ein: "273197768"
 nonprofit-status: "501(c)(3)"
 source-tier: 1
-internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Koch-network 501(c)(3) foundation, distinct corporate entity from Stand Together 501(c)(4) (EIN 912166417). Funds poverty and justice-system programs branded as libertarian civil-society. Narrative pending Research Claude editorial pass."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Koch-network 501(c)(3) foundation, distinct corporate entity from Stand Together 501(c)(4) (EIN 912166417). Funds poverty and justice-system programs branded as libertarian civil-society. Narrative pending Research Claude editorial pass."
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
   - "No mapped relationships"
 last-enriched: 2026-04-21
+needs-reenrichment: true
+reenrich-reason: "no fec-committee-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 ---
+
+
 
 
 
@@ -57,16 +65,54 @@ last-enriched: 2026-04-21
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 8 (2019–2024)
 
-**Grants received (2018–2024):** $121.0M across 10 grantors (from other vault orgs' Schedule I records).
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | — |
+| Grants paid out | — |
+
+**Lifetime grants out (2019–2024):** $143.1M across 306 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| SEE ATTACHED | $36.0M | 1 | 2023 |
+| The Phoenix | $21.1M | 2 | 2020–2022 |
+| Family Independence Initiative | $15.0M | 2 | 2019–2020 |
+| Safe Families for Children Alliance | $4.6M | 3 | 2019–2022 |
+| Urban Specialist Inc | $4.0M | 2 | 2019–2020 |
+| Phoenix Multisport Inc | $3.6M | 1 | 2019 |
+| Dfree Global Foundation Inc | $3.4M | 3 | 2019–2022 |
+| Rising Tide Capital | $2.9M | 3 | 2019–2022 |
+| Momentum Advisory Collective | $2.5M | 2 | 2020–2022 |
+| Alliance for Choice in Education | $2.5M | 2 | 2019–2020 |
+| The Last Mile | $2.3M | 3 | 2019–2022 |
+| Back on My Feet | $2.3M | 2 | 2019–2020 |
+| Chrysalis Enterprises | $2.1M | 2 | 2019–2020 |
+| Love Has No Limits Inc | $2.0M | 1 | 2022 |
+| Rescue International | $2.0M | 1 | 2022 |
+| Urban Specialists Inc | $1.9M | 1 | 2022 |
+| Cafe Momentum | $1.8M | 2 | 2019–2020 |
+| Elevate USA | $1.8M | 3 | 2019–2022 |
+| Thread Inc | $1.1M | 2 | 2019–2022 |
+| The Other Side Academy | $1.1M | 2 | 2019–2020 |
+
+**Grants received (2018–2024):** $127.2M across 11 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
 | NATIONAL PHILANTHROPIC TRUST | $106.2M | 5 | 2018–2023 |
-| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $11.9M | 6 | 2018–2023 |
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $12.9M | 7 | 2018–2023 |
+| THE SEMINAR NETWORK INC | $5.2M | 2 | 2019–2020 |
 | SCHWAB CHARITABLE FUND | $1.3M | 6 | 2018–2024 |
 | Goldman Sachs Philanthropy Fund | $400K | 3 | 2020–2024 |
 | MORGAN STANLEY GLOBAL IMPACT FUNDING | $350K | 2 | 2020–2022 |

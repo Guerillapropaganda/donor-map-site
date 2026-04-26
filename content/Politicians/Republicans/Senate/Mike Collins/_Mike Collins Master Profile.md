@@ -1,7 +1,7 @@
 ---
 title: Mike Collins
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: Mike Collins is a cargo-cult populist being bankrolled by two mega-donor blocs (crypto and pro-Israel) who have nothing to do with his trucking company base or Trump movement roots. He is running as an 'America First trucker,' but his campaign is ...
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -37,7 +37,14 @@ donors: "[[Tech Industry]] · [[American Gaming Association]] · [[Fairshake PAC
 bills-enacted: 0
 top-policy-area: Government Operations and Politics
 last-enriched: 2026-04-20T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -51,6 +58,7 @@ last-enriched: 2026-04-20T00:00:00.000Z
 
 **Party:** Republican · **Chamber:** Senate · **State:** Georgia
 **Bioguide ID:** `C001129`
+**FEC candidate ID:** `H4GA10071`
 
 **Total received:** —
 
@@ -58,16 +66,16 @@ last-enriched: 2026-04-20T00:00:00.000Z
 
 | Donor | Amount |
 |---|---:|
+| NRA Political Victory Fund | $29,400 |
+| Koch Industries | $20,000 |
+| Associated General Contractors of America Political Action Committee | $15,500 |
 | SpaceX | $9,700 |
-| CBRE Group | $2,900 |
-| Derrick van Orden | $1,000 |
-| Monica de la Cruz | $1,000 |
-| Maria Elvira Salazar | $1,000 |
-| David Schweikert | $1,000 |
-| John James | $1,000 |
-| Brian Jack | $1,000 |
-| Walmart | $684 |
-| Boeing | $104 |
+| Pete Sessions | $7,000 |
+| McDonalds Corporation | $5,000 |
+| AIPAC - American Israel Public Affairs Committee | $5,000 |
+| Williams Companies | $5,000 |
+| Claudia Tenney | $5,000 |
+| Brandon Gill | $5,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

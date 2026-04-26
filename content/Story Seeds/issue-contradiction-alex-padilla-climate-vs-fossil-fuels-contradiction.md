@@ -3,24 +3,24 @@ title: "Alex Padilla: climate vs. fossil fuels contradiction"
 type: story-seed
 seed-type: issue-contradiction
 confidence: 3
-last-updated: '2026-04-24'
+last-updated: '2026-04-26'
 auto-generated: true
 status: unclaimed
 ---
 
 # Alex Padilla: climate vs. fossil fuels contradiction
 
-_Confidence: ★★★☆☆ · Surfaced by contradiction-miner on 2026-04-24_
+_Confidence: ★★★☆☆ · Surfaced by contradiction-miner on 2026-04-26_
 
 ## The angle
 
-Alex Padilla lists "Environmental Protection" as a tracked issue, but their donor list includes PG&E - Pacific Gas and Electric. Document the dollar amounts and the dates of their public stance vs. the dates of the donations. The contradiction is the story.
+Alex Padilla lists "Environmental Protection" as a tracked issue, but their donor list includes PG&E - Pacific Gas and Electric, Juan Vargas. Document the dollar amounts and the dates of their public stance vs. the dates of the donations. The contradiction is the story.
 
 ## Evidence from the vault
 
 - **Politician:** [[Alex Padilla]]
 - **Stated issue:** climate vs. fossil fuels
-- **Contradicting donors:** PG&E - Pacific Gas and Electric
+- **Contradicting donors:** PG&E - Pacific Gas and Electric, Juan Vargas
 
 ## Next steps
 

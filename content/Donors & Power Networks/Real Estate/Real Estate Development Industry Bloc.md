@@ -1,7 +1,7 @@
 ---
 title: Real Estate Development Industry Bloc
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18
 source-tier: 1
 parent: null
@@ -32,9 +32,15 @@ nhtsa-recalls: 0
 nhtsa-complaints: 0
 related: "[[Steve Witkoff]] · [[3.5 Million Units - Broken Promise]] · [[Supply-Side Framework - Who It Helps]] · [[Housing - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[_Gavin Newsom Master Profile]] · [[Lennar Corporation]]"
 cross-vault-triangulation-count: 7
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
 ---
+
+
 
 
 

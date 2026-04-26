@@ -1,7 +1,7 @@
 ---
 title: Ballard Partners
 type: lobbying-firm
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18
 source-tier: 1
 parent: null

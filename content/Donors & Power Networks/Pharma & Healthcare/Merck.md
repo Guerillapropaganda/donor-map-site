@@ -1,7 +1,7 @@
 ---
 title: Merck
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -51,7 +51,11 @@ fda-recalls-class-i: 1
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 cross-vault-triangulation-count: 12
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 politicians-funded: "[[Cory Booker]], [[_Ted Cruz Master Profile]], [[ActBlue]], [[Catherine Cortez Masto]], [[_George Latimer Master Profile]], [[NORPAC]], [[JUSTICE DEMOCRATS PAC]], [[_Jake Auchincloss Master Profile]], [[Save America PAC]], [[Hmp]], [[DNC - Democratic National Committee]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Lauren Underwood Master Profile]], [[NRCC - National Republican Congressional Committee]], [[RNC - Republican National Committee]], [[WinRed]], [[Let America Vote PAC]], [[MoveOn.org Political Action]], [[The Lincoln Project]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Emily's List]], [[Bob Casey]], [[_Jon Ossoff Master Profile]], [[Sierra Club Independent Action]], [[NRSC - National Republican Senatorial Committee]], [[Progressive Turnout Project]], [[Votevets]], [[CHC BOLD PAC]], [[_Cory Booker Master Profile]], [[_Chrissy Houlahan Master Profile]], [[_Judy Chu Master Profile]], [[_Erin Houchin Master Profile]], [[_Ron Johnson Master Profile]], [[WinSenate]], [[_Tammy Baldwin Master Profile]], [[_Lauren Boebert Master Profile]], [[_Ted Budd Master Profile]], [[_Marco Rubio Master Profile]], [[MAGA Inc]], [[314 ACTION FUND]], [[_Tim Scott Master Profile]], [[Marianne Williamson]], [[Mark Kelly]], [[Mad Dog PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[_Chris Pappas Master Profile]], [[_Adam Gray Master Profile]], [[Sierra Club Political Committee]], [[_Jason Crow Master Profile]], [[_Vicente Gonzalez Master Profile]], [[Bernie Moreno]], [[Giffords PAC]], [[_Cori Bush Master Profile]], [[National Rifle Association]], [[_Summer Lee Master Profile]], [[_Nancy Pelosi Master Profile]], [[_Josh Hawley Master Profile]], [[Trump Victory]], [[Vicente Gonzalez]], [[Chrissy Houlahan]], [[Cori Bush]], [[Nancy Pelosi]], [[Judy Chu]], [[Summer Lee]], [[Jake Auchincloss]], [[Marco Rubio]], [[Ron Johnson]], [[Chris Pappas]], [[George Latimer]], [[Jon Ossoff]], [[Lauren Underwood]], [[Jason Crow]], [[Lauren Boebert]], [[Erin Houchin]], [[Ted Cruz]], [[Tim Scott]], [[Adam Gray]], [[Tammy Baldwin]], [[Josh Hawley]], [[Ted Budd]], [[Justice Democrats PAC]], [[HMP]], [[314 Action Fund]]"
 epa-facilities: 1
 epa-states: CA
@@ -59,6 +63,8 @@ employee-contributions: 6585
 employee-contributions-total: 912811
 employee-donor-count: 1285
 ---
+
+
 
 
 
@@ -80,7 +86,20 @@ employee-donor-count: 1285
 
 **Total political spend:** —
 
-*No direct donor→politician dollar flows tracked for this entity. Money may route through controlled vehicles or 501(c)(4) shells. See narrative sections below for details.*
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Bob Casey | $16,060 |
+| Jon Ossoff | $9,117 |
+| Mark Kelly | $4,654 |
+| Catherine Cortez Masto | $3,182 |
+| Tim Scott | $3,004 |
+| Cory Booker | $2,925 |
+| Ted Cruz | $2,790 |
+| Chrissy Houlahan | $2,670 |
+| Jake Auchincloss | $2,500 |
+| George Latimer | $1,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
@@ -461,9 +480,9 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 | Metric | Amount |
 |---|---:|
-| Total revenue | — |
+| Total revenue | $17.3M |
 | Contribution revenue | — |
-| Total expenses | — |
+| Total expenses | $26.1M |
 | Total assets (EOY) | $316.2M |
 | Grants paid out | — |
 

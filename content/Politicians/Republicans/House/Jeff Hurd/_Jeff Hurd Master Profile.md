@@ -1,7 +1,7 @@
 ---
 title: Jeff Hurd
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Republican
@@ -24,6 +24,8 @@ known-gaps:
 urls-first-triaged: "2026-04-15"
 top-donors: "[[Cigna Group]], [[Meta - Facebook]], [[American Farm Bureau Federation]], [[Chevron]], [[Blackstone Group]], [[Lockheed Martin]], [[Amgen Inc]], [[Wells Fargo]], [[AT&T]], [[Charles Schwab]], [[Goldman Sachs]], [[Amazon]], [[Fidelity Investments]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[Associated General Contractors of America Political Action Committee]], [[Google - Alphabet]], [[DR. BRIAN BABIN FOR CONGRESS]], [[Clay Higgins]], [[ADRIAN SMITH FOR CONGRESS]], [[Steve Scalise]], [[ANDY HARRIS FOR CONGRESS]], [[JIM JORDAN FOR CONGRESS]], [[BLAKE MOORE FOR CONGRESS]], [[FEDORCHAK FOR ND]], [[Southern Company]], [[National Cattlemen's Beef Association]], [[MIKE HARIDOPOLOS FOR CONGRESS]], [[AIPAC - American Israel Public Affairs Committee]], [[JOE WILSON FOR CONGRESS]], [[CRENSHAW, DANIEL]], [[COMER FOR CONGRESS]], [[Mike Johnson]], [[Robert F. Onder]], [[BURCHETT FOR CONGRESS]], [[PETE SESSIONS FOR CONGRESS]], [[Tim Walberg]], [[Glenn Thompson]], [[CLIFF BENTZ FOR CONGRESS]], [[MOORE FOR WEST VIRGINIA, INC.]], [[Mark B. Messmer]], [[Dan Newhouse]], [[Lloyd Smucker]], [[David P. Joyce]], [[Kevin Kiley]], [[JAKE ELLZEY FOR CONGRESS]], [[Koch Industries]], [[Republican Jewish Coalition]], [[HAGEMAN FOR WYOMING]], [[Tom Emmer]], [[NRA Political Victory Fund]], [[National Restaurant Association]], [[Blake D. Moore]], [[Jim Jordan]], [[James Comer]], [[Adrian Smith]], [[Mike Haridopolos]], [[Joe Wilson]], [[Julie Fedorchak]], [[Andy Harris]], [[Cliff Bentz]], [[Harriet M. Hageman]], [[Brian Babin]], [[Dan Crenshaw]], [[Pete Sessions]], [[Jake Ellzey]], [[Tim Burchett]]"
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 committees:
   - Aviation
   - Energy
@@ -37,7 +39,12 @@ committees:
   - Water Resources and Environment
 bills-sponsored: 18
 corroboration-count: 2
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -52,6 +59,7 @@ corroboration-count: 2
 
 **Party:** Republican · **Chamber:** House · **State:** Colorado
 **Bioguide ID:** `H001100`
+**FEC candidate ID:** `H4CO03357`
 
 **Total received:** —
 
@@ -59,16 +67,16 @@ corroboration-count: 2
 
 | Donor | Amount |
 |---|---:|
-| AT&T | $5,300 |
-| Charles Schwab | $3,775 |
-| Blackstone Group | $3,300 |
-| Lauren Boebert | $2,000 |
-| Goldman Sachs | $2,000 |
-| Jeff Crank | $2,000 |
-| Meta - Facebook | $2,000 |
-| Fidelity Investments | $1,050 |
-| Cigna Group | $1,000 |
-| Amazon | $500 |
+| National Cattlemen's Beef Association | $15,000 |
+| Koch Industries | $13,000 |
+| Associated General Contractors of America Political Action Committee | $10,000 |
+| Steve Scalise | $8,000 |
+| Gabe Evans | $7,000 |
+| Zachary Nunn | $6,800 |
+| Jennifer A. Kiggans | $6,800 |
+| Google - Alphabet | $6,000 |
+| Jim Jordan | $6,000 |
+| Brian K. Fitzpatrick | $6,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

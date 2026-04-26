@@ -1,7 +1,7 @@
 ---
 title: Pharmaceutical Industry
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -72,7 +72,11 @@ court-jurisdictions:
 lei: 558600DGUQYRUVIRPA94
 lei-jurisdiction: SA
 cross-vault-triangulation-count: 17
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -80,6 +84,8 @@ employee-contributions: 37
 employee-contributions-total: 5561
 employee-donor-count: 10
 ---
+
+
 
 
 
@@ -101,7 +107,11 @@ employee-donor-count: 10
 
 **Total political spend:** —
 
-*No direct donor→politician dollar flows tracked for this entity. Money may route through controlled vehicles or 501(c)(4) shells. See narrative sections below for details.*
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Jon Ossoff | $416 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
@@ -408,7 +418,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Total assets (EOY) | $615K |
 | Grants paid out | $565K |
 
-**Lifetime grants out (2018–2023):** $896K across 16 recipients.
+**Lifetime grants out (2018–2023):** $896K across 19 recipients.
 
 **Top 20 recipients:**
 
@@ -417,18 +427,21 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | VoteVets Action Fund Inc | $500K | 1 | 2023 |
 | A PHILIP RANDOLPH INSTITUTE | $95K | 6 | 2018–2023 |
 | CMRAVE | $64K | 6 | 2018–2023 |
-| DIABETES RESEARCH INSTITUTE | $53K | 3 | 2021–2023 |
+| DIABETES RESEARCH INSTITUTE | $35K | 2 | 2021–2022 |
 | SMWI SCHOLARSHIP FUND | $24K | 4 | 2018–2022 |
-| NABTU CONFERENCE | $20K | 2 | 2022–2023 |
 | NABTU CONFERENCE FUND | $20K | 2 | 2018–2019 |
-| THE NATIONAL DEMOCRATIC CLUB | $20K | 2 | 2022–2023 |
 | NATIONAL DEMOCRATIC CLUB | $19K | 3 | 2018–2020 |
 | NCCMP | $18K | 2 | 2018–2021 |
+| Diabetes Research Institute | $18K | 1 | 2023 |
 | LABOR OF LOVE | $18K | 2 | 2018–2019 |
 | TRADES WOMEN BUILD NATIONS | $15K | 1 | 2020 |
+| THE NATIONAL DEMOCRATIC CLUB | $13K | 1 | 2022 |
 | PA AFL-CIO | $12K | 2 | 2020–2022 |
+| NABTU CONFERENCE | $10K | 1 | 2022 |
+| NABTU Conference | $10K | 1 | 2023 |
 | LCLAA | $8K | 1 | 2019 |
 | MARYLAND STATE AND DC AFL-CIO | $7K | 1 | 2019 |
+| The National Democratic Club | $7K | 1 | 2023 |
 | NABTU | $5K | 1 | 2020 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*

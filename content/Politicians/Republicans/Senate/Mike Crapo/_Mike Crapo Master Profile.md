@@ -1,7 +1,7 @@
 ---
 title: Mike Crapo
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: Crapo is Wall Street's tax chairman. His Finance Committee gavel gives him authorship over the entire federal tax code, and the financial services industry that benefits most from that code is his dominant donor class. Over 50% of his campaign fun...
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
@@ -24,11 +24,17 @@ website: https://www.crapo.senate.gov
 phone: 202-224-6142
 needs-reenrichment: true
 reenrich-reason: run fec pipeline; run congress pipeline; run pipelines
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 bills-enacted: 0
 top-policy-area: International Affairs
 last-enriched: 2026-04-20T00:00:00.000Z
 ---
+
+
 
 
 
@@ -42,6 +48,7 @@ last-enriched: 2026-04-20T00:00:00.000Z
 
 **Party:** Republican · **Chamber:** Senate · **State:** Idaho
 **Bioguide ID:** `C000880`
+**FEC candidate ID:** `H2ID02034`
 
 **Total received:** —
 
@@ -49,7 +56,20 @@ last-enriched: 2026-04-20T00:00:00.000Z
 
 - Finance
 
-*Top donors list present but amounts not yet quantified. See narrative sections for details.*
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| NRA Political Victory Fund | $52,650 |
+| Pfizer Inc. | $44,500 |
+| Amgen Inc | $44,500 |
+| Associated General Contractors of America Political Action Committee | $42,500 |
+| National Restaurant Association | $35,000 |
+| Occidental Petroleum | $32,500 |
+| Koch Industries | $30,000 |
+| Monsanto - Bayer | $26,250 |
+| Humana | $25,000 |
+| AbbVie | $22,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

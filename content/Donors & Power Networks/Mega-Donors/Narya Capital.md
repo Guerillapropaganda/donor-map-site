@@ -1,7 +1,7 @@
 ---
 title: Narya Capital
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -43,7 +43,11 @@ needs-reenrichment: true
 reenrich-reason: run fec pipeline
 related: "[[Mithril Capital]] · [[Ajay Royan]] · [[_JD Vance Master Profile|JD Vance]] · [[Peter Thiel]] · [[Founders Fund]] · [[_David Sacks Master Profile|David Sacks]] · [[Marc Andreessen]] · [[Eric Schmidt]] · [[Marc Andreessen & Horowitz]] · [[David Sacks (Donor Network)]] · [[David Sacks - Donor Network]]"
 cross-vault-triangulation-count: 8
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -52,6 +56,8 @@ employee-contributions: 1
 employee-contributions-total: 500
 employee-donor-count: 1
 ---
+
+
 
 
 

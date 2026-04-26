@@ -1,7 +1,7 @@
 ---
 title: IBEW Local 440 - Riverside
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -13,7 +13,11 @@ last-enriched: "2026-04-09"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
 cross-vault-triangulation-count: 8
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -26,6 +30,8 @@ employee-contributions: 499
 employee-contributions-total: 295303
 employee-donor-count: 131
 ---
+
+
 
 
 
@@ -47,7 +53,19 @@ employee-donor-count: 131
 
 **Total political spend:** —
 
-*No direct donor→politician dollar flows tracked for this entity. Money may route through controlled vehicles or 501(c)(4) shells. See narrative sections below for details.*
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Shontel Brown | $25,800 |
+| Summer Lee | $7,932 |
+| Mark Takano | $2,042 |
+| Mark Kelly | $1,150 |
+| Claudia Tenney | $1,000 |
+| Josh Hawley | $1,000 |
+| John James | $850 |
+| Tim Scott | $350 |
+| Ron Johnson | $300 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

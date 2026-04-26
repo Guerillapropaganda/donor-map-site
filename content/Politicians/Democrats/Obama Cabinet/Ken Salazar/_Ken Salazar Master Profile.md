@@ -2,7 +2,7 @@
 title: Ken Salazar
 type: politician
 bioguide-id: S001163
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Democrat
@@ -16,12 +16,19 @@ source-types:
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: S4CO00163
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage)"
 total-raised: $13.5M
 career-total-source: FEC weball summary (cycles 2004, 2006, 2008, 2010, 2012, 2014, 2016)
 bills-sponsored: 99
 corroboration-count: 2
 top-donors: "[[Juan Vargas]], [[MARIA ELVIRA SALAZAR FOR CONGRESS]], [[Californians for Innovation]], [[Democratic Senatorial Campaign Committee]], [[AT&T]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[Southern Company]], [[Humana]], [[League of Conservation Voters]], [[Akin Gump Strauss Hauer & Feld]], [[CVS Health - Aetna]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Education Association]], [[Amgen Inc]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Sierra Club Political Committee]], [[American College of Radiology Association PAC]], [[AFL-CIO]], [[Anthem - Elevance Health Political Operation]], [[Pfizer Inc.]], [[National Cattlemen's Beef Association]], [[ADM - Archer Daniels Midland]], [[Barack Obama]], [[Xavier Becerra]], [[McDonalds Corporation]], [[COMMITTEE ON POLITICAL ACTIVITY]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -35,8 +42,24 @@ top-donors: "[[Juan Vargas]], [[MARIA ELVIRA SALAZAR FOR CONGRESS]], [[Californi
 <!-- tier: paid -->
 
 **Party:** Democrat · **Chamber:** Secretary of the Interior (2009-2013)
+**FEC candidate ID:** `S4CO00163`
 
 **Total received:** —
+
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Democratic Senatorial Campaign Committee | $509,425 |
+| National Education Association | $10,000 |
+| International Association of Firefighters Interested in Registration and Education PAC | $10,000 |
+| AFL-CIO | $9,000 |
+| International Longshore and Warehouse Union -- Political Action Fund | $9,000 |
+| League of Conservation Voters | $5,000 |
+| Amgen Inc | $5,000 |
+| Sierra Club Political Committee | $4,800 |
+| AT&T | $4,500 |
+| Anthem - Elevance Health Political Operation | $4,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
@@ -86,6 +109,37 @@ top-donors: "[[Juan Vargas]], [[MARIA ELVIRA SALAZAR FOR CONGRESS]], [[Californi
 
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 99 |
+| Enacted into law | 3 |
+| Top policy areas | Public Lands and Natural Resources · Taxation · Armed Forces and National Security |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| — | 2007-01-04 | S.188-110 | To revise the short title of the Fannie Lou Hamer, Rosa Parks, and Coretta Scott King Voti |
+| — | 2005-07-21 | S.1445-109 | A bill to designate the facility of the United States Postal Service located at 520 Colora |
+| — | 2005-03-09 | S.584-109 | Betty Dick Residence Protection Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2009-01-08 | S.185-111 | Public Lands and Natural Resources | Sangre de Cristo National Heritage Area Act |
+| 2009-01-08 | S.191-111 | Public Lands and Natural Resources | To amend the Great Sand Dunes National Park and Preserve Act of 2000 to explain the purpos |
+| 2009-01-08 | S.183-111 | Public Lands and Natural Resources | Dominguez-Escalante National Conservation Area and Dominguez Canyon Wilderness Area Act |
+| 2009-01-08 | S.184-111 | Water Resources Development | Jackson Gulch Rehabilitation Act of 2009 |
+| 2009-01-08 | S.186-111 | Public Lands and Natural Resources | South Park National Heritage Area Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: S001163` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Ken Salazar
 

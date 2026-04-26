@@ -1,7 +1,7 @@
 ---
 title: "Real Estate Industry Bloc"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18
 source-tier: 1
 parent: null
@@ -28,7 +28,11 @@ lobbying-spend: 32185838
 lobbying-filings: 100
 related: "[[Blackstone Real Estate Political Operation]] · [[National Association of Realtors]] · [[Blackstone Real Estate]] · [[CBRE Group]] · [[Invitation Homes - Institutional Landlords]] · [[Lennar Corporation]] · [[Real Estate Roundtable]] · [[Real Estate Industry]]"
 cross-vault-triangulation-count: 8
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 checklist-na:
@@ -40,6 +44,8 @@ source-types:
   - LDA
 corroboration-count: 2
 ---
+
+
 
 
 

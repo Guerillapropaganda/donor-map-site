@@ -4,7 +4,7 @@ type: politician
 bioguide-id: B001320
 chamber: "Former"
 party: "Democrat"
-content-readiness: ready
+content-readiness: draft
 central-thesis: "Gavin Newsom appointed Laphonza Butler to replace Dianne Feinstein's vacant seat. The appointment was celebrated as progressive: a SEIU leader in the Senate, a historic LGBTQ figure, labor politics finally centered. Yet Butler served 14 months and..."
 last-updated: 2026-04-13
 source-tier: 1
@@ -18,10 +18,18 @@ known-gaps:
 related: "[[_Gavin Newsom Master Profile]] · [[SEIU - Service Employees International Union]] · [[EMILY's List]] · [[_Kamala Harris Master Profile]] · [[Adam Schiff]]"
 wikidata-id: "Q121337973"
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage); no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage)"
 wikipedia-url: "https://en.wikipedia.org/wiki/Laphonza_Butler"
 wikipedia-extract: "Laphonza Romanique Butler is an American labor union official and former politician who served as a United States senator from California from 2023 to 2024."
 born: "1979-05-11"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -150,3 +158,33 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[CNN Politics: Who is Laphonza Butler, California's Next Senator?](https://www.cnn.com/2023/10/02/politics/laphonza-butler-california-senator-newsom/cnn-politics)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - ~~[CBS News: Who is Laphonza Butler, the Newest Senator from California?](https://www.cbsnews.com/news/laphonza-butler-senate-california-gavin-newsom-dianne-feinstein-seat-rcna118052)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - ~~[CalMatters: Newsom Picks Laphonza Butler, Political Ally and Power Player](https://calmatters.org/category/politics/2023/10/laphonza-butler-senate-newsom/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 19 |
+| Enacted into law | 1 |
+| Top policy areas | Health · Finance and Financial Sector · Education |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 118-150 | 2024-12-12 | S.4243-118 | Shirley Chisholm Congressional Gold Medal Act |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2024-09-12 | S.5031-118 | Education | Workforce of the Future Act of 2024 |
+| 2024-07-31 | S.4900-118 | Emergency Management | Investing in Community Resilience Act of 2024 |
+| 2024-07-31 | S.4899-118 | Housing and Community Development | HEIRS Act of 2024 |
+| 2024-07-31 | S.4897-118 | Taxation | Water Conservation Rebate Tax Parity Act |
+| 2024-07-31 | S.4903-118 | Labor and Employment | Generation Now Workforce Representation Act of 2024 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: B001320` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

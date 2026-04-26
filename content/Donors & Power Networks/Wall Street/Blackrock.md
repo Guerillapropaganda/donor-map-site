@@ -1,7 +1,7 @@
 ---
 title: BlackRock
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -48,7 +48,11 @@ regulatory-agencies:
   - Treasury Department
   - Veterans Employment and Training Service
 cross-vault-triangulation-count: 6
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 3
 epa-states: CA, DE, FL
 federal-contracts: 1
@@ -57,6 +61,8 @@ employee-contributions-total: 1928025
 employee-donor-count: 649
 politicians-funded: "[[_Cory Booker Master Profile]], [[_Tim Scott Master Profile]], [[JUSTICE DEMOCRATS PAC]], [[_Kevin Mullin Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Angie Craig Master Profile]], [[_Jon Ossoff Master Profile]], [[Bob Casey]], [[WinRed]], [[_Chrissy Houlahan Master Profile]], [[_Vicente Gonzalez Master Profile]], [[_Martin Heinrich Master Profile]], [[Chris Christie]], [[_Gabe Amo Master Profile]], [[_Glenn Ivey Master Profile]], [[_George Whitesides Master Profile]], [[NRCC - National Republican Congressional Committee]], [[ActBlue]], [[_Tammy Baldwin Master Profile]], [[Catherine Cortez Masto]], [[_Bill Foster Master Profile]], [[_Adam Gray Master Profile]], [[_Elissa Slotkin Master Profile]], [[_Josh Riley Master Profile]], [[_Jimmy Gomez Master Profile]], [[_Kamala Harris Master Profile]], [[Mark Kelly]], [[NRSC - National Republican Senatorial Committee]], [[Barbara Lee]], [[AIPAC - American Israel Public Affairs Committee]], [[_Joe Wilson Master Profile]], [[RNC - Republican National Committee]], [[_Jim Jordan Master Profile]], [[Emily's List]], [[_Lisa Blunt Rochester Master Profile]], [[_Mike Levin Master Profile]], [[_Andy Barr Master Profile]], [[Americans for Tomorrow's Future]], [[_Marco Rubio Master Profile]], [[_Pete Aguilar Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[Let America Vote PAC]], [[MAGA Inc]], [[_Rashida Tlaib Master Profile]], [[Trump Victory]], [[_George Latimer Master Profile]], [[The Lincoln Project]], [[_Mark Alford Master Profile]], [[George Whitesides]], [[Gabe Amo]], [[Chrissy Houlahan]], [[Martin Heinrich]], [[Tammy Baldwin]], [[Pete Aguilar]], [[Tim Scott]], [[Bill Foster]], [[Cory Booker]], [[Adam Gray]], [[Josh Riley]], [[Joe Wilson]], [[George Latimer]], [[Kevin Mullin]], [[Vicente Gonzalez]], [[Rashida Tlaib]], [[Jon Ossoff]], [[Jimmy Gomez]], [[Mike Levin]], [[Mark Alford]], [[Glenn Ivey]], [[Marco Rubio]], [[Andy Barr]], [[Kamala Harris]], [[Angie Craig]], [[Elissa Slotkin]], [[Lisa Blunt Rochester]], [[Jim Jordan]], [[Justice Democrats PAC]]"
 ---
+
+
 
 
 
@@ -73,6 +79,21 @@ politicians-funded: "[[_Cory Booker Master Profile]], [[_Tim Scott Master Profil
 **EIN:** `882750831`
 
 **Total political spend:** —
+
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Chrissy Houlahan | $59,000 |
+| Bill Foster | $37,400 |
+| Pete Aguilar | $29,300 |
+| Jon Ossoff | $23,916 |
+| Cory Booker | $15,925 |
+| Mark Kelly | $13,974 |
+| Elissa Slotkin | $8,950 |
+| Joe Wilson | $8,400 |
+| Martin Heinrich | $7,000 |
+| Andy Barr | $6,200 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

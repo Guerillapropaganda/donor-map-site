@@ -2,7 +2,7 @@
 title: John Kerry
 type: politician
 bioguide-id: K000148
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Democrat
@@ -16,12 +16,19 @@ source-types:
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: S4MA00069
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage)"
 corroboration-count: 2
 total-raised: $70.7M
 career-total-source: FEC weball summary (cycles 1984, 1986, 1988, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016)
 bills-sponsored: 383
 top-donors: "[[John Kerry]], [[AFL-CIO]], [[Meta - Facebook]], [[MIKE THOMPSON FOR CONGRESS]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Janice D. Schakowsky]], [[National Right to Life PAC]], [[CVS Health - Aetna]], [[MCCOLLUM FOR CONGRESS]], [[Southern Company]], [[Jim Costa]], [[CITIZENS TO ELECT RICK LARSEN]], [[Democratic Senatorial Campaign Committee]], [[National Education Association]], [[DIANA DEGETTE FOR CONGRESS]], [[League of Conservation Voters]], [[Democratic Party of Virginia]], [[James E. Clyburn]], [[Amgen Inc]], [[NANCY PELOSI FOR CONGRESS]], [[Rahm Emanuel]], [[Sierra Club Political Committee]], [[International Brotherhood of Electrical Workers Local 98 Committee on Political Education]], [[Google - Alphabet]], [[Edward J. Markey]], [[Sherrod Brown]], [[NRA Political Victory Fund]], [[Jim McGovern]], [[ADM - Archer Daniels Midland]], [[American College of Radiology Association PAC]], [[Steny H. Hoyer]], [[Adam Smith]], [[Planned Parenthood Action Fund INC]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[Richard Neal]], [[Akin Gump Strauss Hauer & Feld]], [[SHERMAN FOR CONGRESS]], [[Harry Reid]], [[Occidental Petroleum]], [[Rick Larsen]], [[Nancy Pelosi]], [[Ed Markey]], [[Betty McCollum]], [[Mike Thompson]], [[Diana Degette]], [[Brad Sherman]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -35,8 +42,24 @@ top-donors: "[[John Kerry]], [[AFL-CIO]], [[Meta - Facebook]], [[MIKE THOMPSON F
 <!-- tier: paid -->
 
 **Party:** Democrat · **Chamber:** Secretary of State (2013-2017)
+**FEC candidate ID:** `S4MA00069`
 
 **Total received:** —
+
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| AFL-CIO | $8,613,424 |
+| Democratic Senatorial Campaign Committee | $1,493,686 |
+| National Education Association | $30,000 |
+| American College of Radiology Association PAC | $15,000 |
+| League of Conservation Voters | $11,535 |
+| Harry Reid | $11,000 |
+| Maria Cantwell | $11,000 |
+| International Association of Firefighters Interested in Registration and Education PAC | $10,000 |
+| CVS Health - Aetna | $9,000 |
+| Amgen Inc | $7,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
@@ -89,6 +112,39 @@ top-donors: "[[John Kerry]], [[AFL-CIO]], [[Meta - Facebook]], [[MIKE THOMPSON F
 
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 383 |
+| Enacted into law | 8 |
+| Top policy areas | Foreign Trade and International Finance · Commerce · Taxation |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| — | 2012-06-21 | S.3331-112 | Intercountry Adoption Universal Accreditation Act of 2012 |
+| — | 2012-04-19 | S.2318-112 | Department of State Rewards Program Update and Technical Corrections Act of 2012 |
+| — | 2011-07-25 | S.1412-112 | A bill to designate the facility of the United States Postal Service located at 462 Washin |
+| — | 2010-12-22 | S.4058-111 | Helping Heroes Keep Their Homes Act of 2010 |
+| — | 2010-09-27 | S.3847-111 | Defense Trade Cooperation Treaties Implementation Act of 2010 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2013-01-22 | S.48-113 | Private Legislation | A bill for the relief of Genesio Januario Oliveira. |
+| 2012-12-20 | S.3702-112 | Armed Forces and National Security | SERV Act |
+| 2012-12-19 | S.3691-112 | Science, Technology, Communications | STRONG Act |
+| 2012-12-18 | S.3689-112 | Armed Forces and National Security | K-9 Companion Corps Act |
+| 2012-12-17 | S.3686-112 | Civil Rights and Liberties, Minority Issues | Workplace Religious Freedom Act of 2013 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: K000148` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # John Kerry
 

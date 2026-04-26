@@ -1,7 +1,7 @@
 ---
 title: "Xavier Becerra Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: "Xavier Becerra is the institutional Democratic Party candidate — his entire career has been built within Democratic power structures (Congress for 24 years, AG appointed by a Democratic governor, Cabinet secretary under a Democratic president). Hi..."
 last-updated: 2026-04-09
 source-tier: 1
@@ -19,7 +19,15 @@ known-gaps:
   - "No voting record data"
 related: "[[_Kamala Harris Master Profile]] · [[_Gavin Newsom Master Profile]] · [[California Nurses Association]] · [[SEIU - Service Employees International Union]]"
 last-enriched: 2026-04-21
+needs-reenrichment: true
+reenrich-reason: "no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage); no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -35,6 +43,21 @@ last-enriched: 2026-04-21
 **FEC candidate ID:** `H2CA30143`
 
 **Total received:** $50,779
+
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| International Association of Firefighters Interested in Registration and Education PAC | $71,400 |
+| National Education Association | $69,000 |
+| American College of Radiology Association PAC | $68,000 |
+| AFL-CIO | $29,000 |
+| Humana | $28,250 |
+| Amgen Inc | $27,500 |
+| CVS Health - Aetna | $23,000 |
+| Google - Alphabet | $22,000 |
+| McDonalds Corporation | $19,500 |
+| International Longshore and Warehouse Union -- Political Action Fund | $16,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -1,7 +1,7 @@
 ---
 title: Dan Osborn
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: Osborn represents an emerging independent working-class model that is primarily funded by national Democratic infrastructure while maintaining an 'independent' brand to appeal to Nebraska moderates and right-leaning working-class voters skeptical ...
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
@@ -23,10 +23,17 @@ total-spent: $1,608,939
 cash-on-hand: "575663.35"
 fec-cycle: 2026
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)"
 fec-debt: "33492.00"
 donors: "[[Retire Career Politicians]] · [[Labor Unions]] · [[Heartland Resurgence]] · [[Railroaders for Public Safety]] · [[ActBlue]] · [[ESAFUND]] · [[Senate Majority PAC]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[NEA Fund for Children and Public Education]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[AFL-CIO]] · [[Unite Here Tip Campaign Committee]] · [[Indivisible Action]] · [[Sierra Club Independent Action]] · [[UA Political Action Committee]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[Progressive Turnout Project]] · [[SEIU COPE]] · [[National Committee to Preserve Social Security PAC]] · [[League of Conservation Voters]] · [[SLF PAC]] · [[DSCC - Democratic Senatorial Campaign Committee]] · [[National Nurses United]] · [[Let America Vote PAC]] · [[American Federation of State County & Municipal Employees  P E O P L E]] · [[National Education Association]] · [[WARREN FOR SENATE, INC.]] · [[Donald S. Beyer]] · [[National Committee to Preserve Social Security & Medicare PAC]] · [[Democratic Senatorial Campaign Committee]]"
 urls-first-triaged: "2026-04-15"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -47,16 +54,16 @@ urls-first-triaged: "2026-04-15"
 
 | Donor | Amount |
 |---|---:|
-| Retire Career Politicians | $25,097,851 |
-| SLF PAC | $3,187,409 |
-| Railroaders for Public Safety | $2,717,332 |
-| ESAFUND | $2,634,814 |
-| Heartland Resurgence | $2,140,499 |
-| DSCC - Democratic Senatorial Campaign Committee | $57,800 |
-| Let America Vote PAC | $25,260 |
-| NEA Fund for Children and Public Education | $10,000 |
+| Railroaders for Public Safety | $1,197,332 |
+| Democratic Senatorial Campaign Committee | $57,800 |
+| Let America Vote PAC | $24,500 |
+| National Education Association | $10,000 |
 | UA Political Action Committee | $10,000 |
+| NEA Fund for Children and Public Education | $10,000 |
 | United Food and Commercial Workers International Union Active Ballot Club | $10,000 |
+| IBEW - International Brotherhood of Electrical Workers | $9,000 |
+| AFL-CIO | $7,750 |
+| National Nurses United | $5,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

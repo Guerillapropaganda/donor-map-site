@@ -1,7 +1,7 @@
 ---
 title: "JD Vance Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: "Vance is not an organic politician. He is an explicitly designed artifact created by Peter Thiel to serve three objectives:"
 last-updated: 2026-04-13
 source-tier: 1
@@ -26,7 +26,15 @@ known-gaps:
 related: "[[_Donald Trump Master Profile]] · [[Peter Thiel]] · [[Elon Musk]] · [[_David Sacks Master Profile|David Sacks]] · [[Crypto Industry Bloc]] · [[Miriam Adelson]] · [[Koch Network - Charles Koch]] · [[_Jared Kushner Master Profile]] · [[_Benjamin Netanyahu Master Profile]] · [[The Palantir State - Surveillance as Policy]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 donors: "[[Hillbilly Elegy and the Class Fraud]]"
 last-enriched: 2026-04-20
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage); no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -39,15 +47,24 @@ last-enriched: 2026-04-20
 <!-- tier: paid -->
 
 **Party:** Republican · **Chamber:** Vice Presidential
+**FEC candidate ID:** `S2OH00436`
 
 **Total received:** —
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- The Thiel Pipeline - From Yale to VP
-- Narya Capital and the Venture Capital Pipeline
-- The 2024 Tech Billionaire Network
-- Hillbilly Elegy and the Class Fraud
+| Donor | Amount |
+|---|---:|
+| National Republican Senatorial Committee | $2,043,000 |
+| Common Sense for America PAC | $15,000 |
+| Amgen Inc | $7,000 |
+| National Restaurant Association | $5,000 |
+| Republican Jewish Coalition | $5,000 |
+| Koch Industries | $5,000 |
+| CoreCivic | $5,000 |
+| National Cattlemen's Beef Association | $5,000 |
+| Roger Marshall | $5,000 |
+| Associated General Contractors of America Political Action Committee | $5,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

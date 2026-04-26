@@ -1,7 +1,7 @@
 ---
 title: Marathon Petroleum
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 2
 parent: null
@@ -92,7 +92,11 @@ nonprofit-status: 501(c)(3)
 total-revenue: 2916203
 total-assets: 1240962
 cross-vault-triangulation-count: 18
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 96
 epa-states: AL, CA, IL, IN, KY, LA, MD, MI, ND, OH, OK, TN, TX, WI, WV
 total-raised: 859027
@@ -104,6 +108,8 @@ employee-contributions: 210308
 employee-contributions-total: 6669725
 employee-donor-count: 11790
 ---
+
+
 
 
 
@@ -125,7 +131,20 @@ employee-donor-count: 11790
 
 **Total political spend:** —
 
-*No direct donor→politician dollar flows tracked for this entity. Money may route through controlled vehicles or 501(c)(4) shells. See narrative sections below for details.*
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Steve Scalise | $30,000 |
+| Jason Smith | $30,000 |
+| Jodey Arrington | $27,500 |
+| Guy Reschenthaler | $27,500 |
+| Daniel Meuser | $27,500 |
+| Troy Balderson | $26,500 |
+| Tom Cole | $25,000 |
+| Richard Hudson | $25,000 |
+| August Pfluger | $25,000 |
+| Brett Guthrie | $22,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
@@ -563,9 +582,9 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 | Metric | Amount |
 |---|---:|
-| Total revenue | — |
+| Total revenue | $1K |
 | Contribution revenue | — |
-| Total expenses | — |
+| Total expenses | $1.3M |
 | Total assets (EOY) | — |
 | Grants paid out | — |
 

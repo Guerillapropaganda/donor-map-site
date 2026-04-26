@@ -2,7 +2,7 @@
 title: Ryan Zinke
 type: politician
 bioguide-id: Z000018
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Republican
@@ -17,6 +17,8 @@ urls-first-triaged: "2026-04-15"
 fec-candidate-id: H4MT01041
 top-donors: "[[Hmp]], [[National Association of Realtors]], [[National Rifle Association]], [[NRCC - National Republican Congressional Committee]], [[Associated General Contractors of America Political Action Committee]], [[Jim Jordan]], [[Byron Donalds]], [[Comcast - NBCUniversal]], [[WinRed]], [[AT&T - WarnerMedia]], [[Ron Estes]], [[ConocoPhillips]], [[Leidos]], [[Anthem - Elevance Health]], [[PRIORITIES USA ACTION]], [[CoreCivic - Private Prisons]], [[Vern Buchanan]], [[Walmart - Walton Family]], [[Michael Waltz]], [[Congressional Leadership Fund]], [[Austin Scott]], [[Raytheon (RTX)]], [[Halliburton]], [[Honeywell]], [[American Conservative Union]], [[Google - Alphabet]], [[Alliance Coal, LLC PAC]], [[Hunter Action Fund (haf)]], [[Campaign for Working Families]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Rick W. Allen]], [[Devon Energy]], [[Cliff Bentz]], [[Occidental Petroleum]], [[Chevron]], [[Planned Parenthood Votes]], [[Freedom's Defense Fund]], [[Ben Cline]], [[L3Harris Technologies]], [[League of Conservation Voters]], [[Jason Smith]], [[Joe Wilson]], [[David Rouzer]], [[NextEra Energy]], [[Americans for Prosperity]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Amgen Inc]], [[Kevin Kiley]], [[Brad Knott]], [[Pete Sessions]], [[HMP]], [[Priorities USA Action]], [[Honeywell International]], [[AT&T]], [[Raytheon (RTX Corporation)]], [[Ryan Zinke]], [[LOUDERMILK FOR CONGRESS]], [[HOUCHIN FOR CONGRESS]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[Daniel Meuser]], [[Richard Hudson]], [[NRA Political Victory Fund]], [[PETE SESSIONS FOR CONGRESS]], [[Mike Johnson]], [[BEN CLINE FOR CONGRESS, INC.]], [[CLAUDIA TENNEY FOR CONGRESS]], [[DIANA FOR CONGRESS]], [[Earl L. Buddy Carter]], [[ROBERT ADERHOLT FOR CONGRESS]], [[Kevin McCarthy]], [[Elise Stefanik]], [[ROGER WILLIAMS FOR U S CONGRESS COMMITTEE]], [[BURCHETT FOR CONGRESS]], [[Steve Scalise]], [[DR. BRIAN BABIN FOR CONGRESS]], [[HAGEMAN FOR WYOMING]], [[Robert E. Latta]], [[Special Operations for America]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[Kevin Cramer]], [[Koch Industries]], [[JOE WILSON FOR CONGRESS]], [[Republican Jewish Coalition]], [[McDonalds Corporation]], [[American Principles Fund]], [[Robert F. Onder]], [[Mariannette Miller-Meeks]], [[Dan Newhouse]], [[Nicholas A. Langworthy]], [[FRY FOR CONGRESS]], [[Rick Crawford]], [[Brett Guthrie]], [[JIM JORDAN FOR CONGRESS]], [[JASON SMITH FOR CONGRESS]], [[BYRON DONALDS FOR CONGRESS]], [[LISA MCCLAIN FOR CONGRESS]], [[Lloyd Smucker]], [[ISSA FOR CONGRESS]], [[BLAKE MOORE FOR CONGRESS]], [[Carol D. Miller]], [[Richard McCormick]], [[Meta - Facebook]], [[David P. Joyce]], [[CoreCivic]], [[National Cattlemen's Beef Association]], [[RICK W. ALLEN FOR CONGRESS]], [[National Right to Life Victory Fund]], [[TEXANS FOR JODEY ARRINGTON]], [[COMER FOR CONGRESS]], [[DAVID ROUZER FOR CONGRESS]], [[BRAD KNOTT FOR CONGRESS]], [[Southern Company]], [[WEBER FOR CONGRESS]], [[John Boehner]], [[National Restaurant Association]], [[Williams Companies]], [[BOST, MICHAEL]], [[Cargill]], [[MICHAEL WALTZ FOR CONGRESS]], [[Tim Walberg]], [[Gregory F. Murphy]], [[VERN BUCHANAN FOR CONGRESS]], [[Frank Lucas]], [[BURGESS 4 UTAH]], [[J. French Hill]], [[RON ESTES FOR CONGRESS]], [[Jim Banks]], [[KEVIN KILEY FOR CONGRESS]], [[CLIFF BENTZ FOR CONGRESS]], [[CLOUD FOR CONGRESS]], [[Blake D. Moore]], [[Erin Houchin]], [[Tim Burchett]], [[Brian Babin]], [[John R. Curtis]], [[Roger Williams]], [[Randy K. Weber]], [[Harriet M. Hageman]], [[Robert J. Wittman]], [[Daniel Webster]], [[Lisa C. McClain]], [[Barry Loudermilk]], [[Michael Cloud]], [[Darrell Issa]], [[Mike Bost]], [[Robert B. Aderholt]], [[Clay Higgins]], [[Russell Fry]], [[Mark E. Amodei]], [[William R. Timmons]], [[James Comer]], [[Jake Ellzey]], [[Tom Emmer]], [[Diana Harshbarger]], [[Michelle Fischbach]], [[August Pfluger]], [[Jodey Arrington]], [[Burgess Owens]], [[Neal P. Dunn]], [[Charles J. Chuck Fleischmann]], [[AIPAC - American Israel Public Affairs Committee]], [[Brian Mast]]"
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage)"
 committees:
   - East Asia and Pacific
   - House Committee on Appropriations
@@ -29,7 +31,12 @@ total-raised: $27.3M
 career-total-source: FEC weball summary (cycles 2014, 2016, 2018, 2022, 2024)
 bills-sponsored: 46
 corroboration-count: 2
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -43,6 +50,7 @@ corroboration-count: 2
 <!-- tier: paid -->
 
 **Party:** Republican · **Chamber:** Secretary of the Interior (2017-2019)
+**FEC candidate ID:** `H4MT01041`
 
 **Total received:** —
 
@@ -50,16 +58,16 @@ corroboration-count: 2
 
 | Donor | Amount |
 |---|---:|
-| Hmp | $3,741,580 |
-| League of Conservation Voters | $419,931 |
-| NRCC - National Republican Congressional Committee | $228,671 |
-| Americans for Prosperity | $122,750 |
-| WinRed | $87,913 |
-| Hunter Action Fund (haf) | $80,617 |
+| Freedom's Defense Fund | $21,000 |
+| Austin Scott | $18,000 |
+| Pete Sessions | $16,000 |
 | National Rifle Association | $13,161 |
 | ConocoPhillips | $12,500 |
-| Congressional Leadership Fund | $12,006 |
 | National Association of Realtors | $10,000 |
+| Comcast - NBCUniversal | $10,000 |
+| Chevron | $10,000 |
+| Koch Industries | $10,000 |
+| Steve Scalise | $10,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
@@ -112,6 +120,29 @@ corroboration-count: 2
 
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 46 |
+| Enacted into law | 0 |
+| Top policy areas | Public Lands and Natural Resources · Armed Forces and National Security · Native Americans |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2025-11-18 | HR.6120-119 | Taxation | SROS Act |
+| 2025-09-02 | HR.5102-119 | Public Lands and Natural Resources | Greater Yellowstone Recreation Enhancement And Tourism Act |
+| 2025-08-01 | HR.4871-119 | Armed Forces and National Security | COVID–19 Military Backpay Act of 2025 |
+| 2025-08-01 | HR.4870-119 | Public Lands and Natural Resources | Greater Yellowstone Recreation Enhancement And Tourism Act |
+| 2025-07-23 | HR.4753-119 | International Affairs | LEAD Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: Z000018` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Ryan Zinke
 

@@ -2,7 +2,7 @@
 title: "Bill Cassidy Master Profile"
 type: politician
 bioguide-id: "C001075"
-content-readiness: ready
+content-readiness: draft
 central-thesis: "Bill Cassidy is the vault's case study in how petrochemical and fossil fuel industry dominance in Louisiana's economy functions as a structural replacement for standard donor-class influence. Cassidy represents a state where the donor class and th..."
 last-updated: 2026-04-13
 source-tier: 1
@@ -31,6 +31,8 @@ bills-cosponsored: 436
 bills-enacted: 5
 top-policy-area: "Health"
 last-enriched: 2026-04-20
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 committees:
   - Education and the American Family
   - Employment and Workplace Safety
@@ -45,7 +47,12 @@ committees:
   - "Senate Committee on Veterans' Affairs"
   - Taxation and IRS Oversight
   - Water and Power
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -59,14 +66,24 @@ committees:
 
 **Party:** Republican · **Chamber:** Senate · **State:** Louisiana
 **Bioguide ID:** `C001075`
+**FEC candidate ID:** `H8LA00017`
 
 **Total received:** —
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Petrochemical Industry Bloc
-- Fossil Fuel Bloc
-- Koch Network - Charles Koch
+| Donor | Amount |
+|---|---:|
+| Bill Cassidy | $2,402,917 |
+| National Republican Senatorial Committee | $494,948 |
+| American College of Radiology Association PAC | $54,500 |
+| Koch Industries | $40,500 |
+| Humana | $34,900 |
+| Gilead Sciences | $30,000 |
+| Associated General Contractors of America Political Action Committee | $30,000 |
+| Pfizer Inc. | $25,500 |
+| Amgen Inc | $25,500 |
+| AbbVie | $20,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

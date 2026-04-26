@@ -1,7 +1,7 @@
 ---
 title: "One Nation"
 type: pac
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-17
 source-tier: 2
 parent: null
@@ -50,7 +50,11 @@ sec-form-types:
   - "EX-99.2"
   - "EX-99.D.1"
 cross-vault-triangulation-count: 3
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 checklist-na:
@@ -58,6 +62,8 @@ checklist-na:
   - "contracts: auto: entity type \"pac\" does not typically hold federal contracts (2026-04-15)"
 cash-on-hand: 116
 ---
+
+
 
 
 
@@ -75,6 +81,13 @@ cash-on-hand: 116
 **EIN:** `271937961`
 
 **Total political spend:** —
+
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Hillary Clinton | $12,500 |
+| Bill Cassidy | $2,250 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
@@ -215,7 +228,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-**Filings available:** 5 (2019–2024)
+**Filings available:** 6 (2019–2024)
 
 **Most recent filing (2024):**
 

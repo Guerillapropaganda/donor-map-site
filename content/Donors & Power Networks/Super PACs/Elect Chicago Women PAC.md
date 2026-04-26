@@ -1,7 +1,7 @@
 ---
 title: "Elect Chicago Women PAC"
 type: pac
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18
 source-tier: 2
 parent: null
@@ -14,7 +14,11 @@ related: "[[2026 Primary Race - IL-8 Bean vs. Ahmed]] · [[Melissa Bean Master P
 cross-vault-triangulation-count: 4
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
   • No last-enriched date is set. The pipelines have never touched this file.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
@@ -25,6 +29,8 @@ last-enriched: 2026-04-20
 known-gaps:
   - "No FEC contribution data"
 ---
+
+
 
 
 

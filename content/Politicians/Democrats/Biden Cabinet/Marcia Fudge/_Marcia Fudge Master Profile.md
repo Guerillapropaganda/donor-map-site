@@ -2,7 +2,7 @@
 title: Marcia Fudge
 type: politician
 bioguide-id: F000455
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Democrat
@@ -17,11 +17,18 @@ urls-first-triaged: "2026-04-15"
 fec-candidate-id: H8OH11141
 top-donors: "[[Planned Parenthood Votes]], [[Amazon]], [[Meta - Facebook]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[American Gaming Association]], [[US CHAMBER OF COMMERCE]], [[Cigna Group]], [[Cargill]], [[US Chamber of Commerce]], [[Planned Parenthood Action Fund INC]], [[James E. Clyburn]], [[John B. Larson]], [[AFL-CIO]], [[McDonalds Corporation]], [[Akin Gump Strauss Hauer & Feld]], [[Sierra Club Political Committee]], [[National Restaurant Association]], [[Richard Neal]], [[National Education Association]], [[Pfizer Inc.]], [[Google - Alphabet]], [[Humana]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Amgen Inc]], [[National Cattlemen's Beef Association]], [[Frank Pallone]], [[Xavier Becerra]], [[Marcy Kaptur]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Terri A. Sewell]], [[CVS Health - Aetna]], [[Monsanto - Bayer]], [[American College of Radiology Association PAC]], [[League of Conservation Voters]], [[Southern Company]], [[AbbVie]], [[Tyson Foods]], [[Jerrold Nadler]]"
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage)"
 total-raised: $4.8M
 career-total-source: FEC weball summary (cycles 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2026)
 bills-sponsored: 87
 corroboration-count: 2
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -35,6 +42,7 @@ corroboration-count: 2
 <!-- tier: paid -->
 
 **Party:** Democrat · **Chamber:** Secretary of HUD (2021-2024)
+**FEC candidate ID:** `H8OH11141`
 
 **Total received:** —
 
@@ -42,16 +50,16 @@ corroboration-count: 2
 
 | Donor | Amount |
 |---|---:|
-| Joyce Beatty | $2,000 |
-| Marilyn Strickland | $2,000 |
-| Marcy Kaptur | $2,000 |
-| Ayanna Pressley | $2,000 |
-| Nikema Williams | $2,000 |
-| Cargill | $500 |
-| US CHAMBER OF COMMERCE | $500 |
-| Cigna Group | $500 |
-| Meta - Facebook | $500 |
-| PhRMA - Pharmaceutical Research and Manufacturers of America | $250 |
+| National Education Association | $56,500 |
+| McDonalds Corporation | $35,500 |
+| Pfizer Inc. | $20,500 |
+| International Association of Firefighters Interested in Registration and Education PAC | $17,500 |
+| Amgen Inc | $13,500 |
+| Google - Alphabet | $11,000 |
+| AFL-CIO | $10,711 |
+| American College of Radiology Association PAC | $9,500 |
+| National Restaurant Association | $9,000 |
+| Monsanto - Bayer | $7,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
@@ -92,6 +100,29 @@ corroboration-count: 2
 
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 87 |
+| Enacted into law | 0 |
+| Top policy areas | Education · Agriculture and Food · Health |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2020-10-30 | HR.8709-116 | Health | Analyzing Kinetic Impact Projectiles Against Americans Act of 2020 |
+| 2020-10-27 | HR.8689-116 | Labor and Employment | Connecting Youth to Jobs Act |
+| 2020-09-22 | HR.8339-116 | Labor and Employment | Expanding Opportunity through Pre-Apprenticeships Act |
+| 2020-08-14 | HR.8039-116 | Finance and Financial Sector | Examining Educational Redlining in Lending Act |
+| 2020-08-11 | HR.8004-116 | Education | Child Care for Working Families Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: F000455` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 # Marcia Fudge
 

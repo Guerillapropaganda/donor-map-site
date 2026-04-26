@@ -1,7 +1,7 @@
 ---
 title: Trump Organization
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -49,7 +49,11 @@ sec-form-types:
 cross-vault-triangulation-count: 5
 needs-reenrichment: true
 reenrich-reason: run lda pipeline; run pipelines
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
 employee-contributions: 10
 employee-contributions-total: 4708
@@ -62,6 +66,8 @@ known-gaps:
   - "No lobbying disclosure data"
 last-enriched: 2026-04-21
 ---
+
+
 
 
 

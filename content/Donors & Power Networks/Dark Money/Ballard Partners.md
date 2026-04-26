@@ -1,7 +1,7 @@
 ---
 title: Ballard Partners
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 2
 parent: null
@@ -32,7 +32,14 @@ employee-donor-count: 244
 politicians-funded: "[[REPUBLICAN PARTY OF FLORIDA]], [[_Darren Soto Master Profile]], [[ActBlue]], [[_Randy Fine Master Profile]], [[_Gabe Vasquez Master Profile]], [[Trump Victory]], [[_Mike Haridopolos Master Profile]], [[_Debbie Wasserman Schultz Master Profile]], [[Mark Kelly]], [[_Mario Diaz-Balart Master Profile]], [[_Vern Buchanan Master Profile]], [[NRCC - National Republican Congressional Committee]], [[_John James Master Profile]], [[_Byron Donalds Master Profile]], [[_Darrell Issa Master Profile]], [[_Daniel Webster Master Profile]], [[Emily's List]], [[_Jimmy Gomez Master Profile]], [[_Marco Rubio Master Profile]], [[_Jared Moskowitz Master Profile]], [[RNC - Republican National Committee]], [[Reclaim America PAC]], [[_Tim Scott Master Profile]], [[AIPAC - American Israel Public Affairs Committee]], [[_Aaron Bean Master Profile]], [[WinRed]], [[_Ann Wagner Master Profile]], [[_Michael Waltz Master Profile]], [[_Josh Riley Master Profile]], [[_Melissa Bean Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Cory Mills Master Profile]], [[_Carlos Gimenez Master Profile]], [[Conservative Solutions PAC]], [[_Chris Pappas Master Profile]], [[_Frederica S. Wilson Master Profile]], [[_Robert Garcia Master Profile]], [[_Austin Scott Master Profile]], [[_Derek Tran Master Profile]], [[_Gabe Amo Master Profile]], [[_Scott Franklin Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[John James]], [[Aaron Bean]], [[Debbie Wasserman Schultz]], [[Darren Soto]], [[Chris Pappas]], [[Jared Moskowitz]], [[Jimmy Gomez]], [[Frederica S. Wilson]], [[Mario Diaz-Balart]], [[Marco Rubio]], [[Randy Fine]], [[Daniel Webster]], [[Scott Franklin]], [[Carlos Gimenez]], [[Tim Scott]], [[Vern Buchanan]], [[Darrell Issa]], [[Melissa Bean]], [[Derek Tran]], [[Michael Waltz]], [[Ann Wagner]], [[Josh Riley]], [[Byron Donalds]], [[Robert Garcia]], [[Mike Haridopolos]], [[Austin Scott]], [[Cory Mills]], [[Gabe Amo]], [[Gabe Vasquez]], [[Republican Party of Florida]]"
 corroboration-count: 2
 last-enriched: 2026-04-21
+needs-reenrichment: true
+reenrich-reason: "no lda ID resolved for this profile — either resolve ID upstream then run `node scripts/ingest-lda-bulk.cjs`, or demote to draft (admits no LDA coverage)"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -54,6 +61,21 @@ last-enriched: 2026-04-21
 **Ideological function:** `dark-money-networked`
 
 **Total political spend:** —
+
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Jared Moskowitz | $20,900 |
+| Aaron Bean | $14,150 |
+| Debbie Wasserman Schultz | $12,400 |
+| Mike Haridopolos | $11,557 |
+| Randy Fine | $9,600 |
+| Mario Diaz-Balart | $9,450 |
+| Vern Buchanan | $9,100 |
+| Marco Rubio | $8,200 |
+| Byron Donalds | $5,750 |
+| Cory Mills | $4,300 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

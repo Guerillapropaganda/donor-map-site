@@ -1,7 +1,7 @@
 ---
 title: Tom Barrett
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Republican
@@ -24,6 +24,8 @@ known-gaps:
 urls-first-triaged: "2026-04-15"
 top-donors: "[[Chevron]], [[Bank of America]], [[Koch Network - Charles Koch]], [[Anduril Industries]], [[Kelcy Warren - Energy Transfer Partners]], [[CVS Health - Aetna]], [[Kaiser Permanente]], [[General Motors]], [[Ford Motor Company]], [[UPS]], [[Oracle]], [[Charles Schwab]], [[Blackstone Group]], [[CBRE Group]], [[GEO Group - Private Prison Industrial Complex]], [[Tom Emmer]], [[Daniel Meuser]], [[MOORE FOR WEST VIRGINIA, INC.]], [[National Education Association]], [[Carol D. Miller]], [[RON ESTES FOR CONGRESS]], [[DR. BRIAN BABIN FOR CONGRESS]], [[Koch Industries]], [[MCDOWELL FOR CONGRESS]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[Elise Stefanik]], [[WEBER FOR CONGRESS]], [[NATHANIEL MORAN FOR CONGRESS]], [[MARY MILLER FOR CONGRESS]], [[HAGEMAN FOR WYOMING]], [[RICK W. ALLEN FOR CONGRESS]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[JAKE ELLZEY FOR CONGRESS]], [[VERN BUCHANAN FOR CONGRESS]], [[Neal P. Dunn]], [[HOUCHIN FOR CONGRESS]], [[COMER FOR CONGRESS]], [[MIKE HARIDOPOLOS FOR CONGRESS]], [[CRENSHAW, DANIEL]], [[NRA Political Victory Fund]], [[ANDY HARRIS FOR CONGRESS]], [[DR JOHN JOYCE FOR CONGRESS]], [[Harold Rogers]], [[CLIFF BENTZ FOR CONGRESS]], [[BURCHETT FOR CONGRESS]], [[FEDORCHAK FOR ND]], [[CLAUDIA TENNEY FOR CONGRESS]], [[DAVID ROUZER FOR CONGRESS]], [[Club for Growth INC PAC]], [[Guy Reschenthaler]], [[MIKE KENNEDY FOR UTAH]], [[Republican Jewish Coalition]], [[Mariannette Miller-Meeks]], [[National Right to Life Victory Fund]], [[Mark B. Messmer]], [[Tim Walberg]], [[LISA MCCLAIN FOR CONGRESS]], [[Conservative Leadership PAC]], [[Protect Freedom Political Action Committee]], [[Associated General Contractors of America Political Action Committee]], [[FRIENDS OF TIM MOORE]], [[Sierra Club Political Committee]], [[DAVE TAYLOR FOR CONGRESS]], [[National Cattlemen's Beef Association]], [[Bill Huizenga]], [[Freedom's Defense Fund]], [[JASON SMITH FOR CONGRESS]], [[Campaign for Working Families]], [[JIM JORDAN FOR CONGRESS]], [[Steve Scalise]], [[Mike Johnson]], [[Rick Crawford]], [[JOHN JAMES FOR CONGRESS, INC.]], [[ROBERT ADERHOLT FOR CONGRESS]], [[Gregory F. Murphy]], [[Robert E. Latta]], [[PETE SESSIONS FOR CONGRESS]], [[Robert F. Onder]], [[Special Operations for America]], [[Humana]], [[Gus M. Bilirakis]], [[AFL-CIO]], [[BRAD KNOTT FOR CONGRESS]], [[Williams Companies]], [[Michigan Republican Party]], [[Michael Guest]], [[Dale W. Strong]], [[MIKE COLLINS FOR SENATE]], [[KUSTOFF FOR CONGRESS]], [[Michael R. Turner]], [[GLENN GROTHMAN FOR CONGRESS]], [[Ashley Hinson]], [[Lloyd Smucker]], [[BLAKE MOORE FOR CONGRESS]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Kevin McCarthy]], [[Clay Higgins]], [[Robert P. Bresnahan]], [[BEN CLINE FOR CONGRESS, INC.]], [[John J. McGuire]], [[Google - Alphabet]], [[CLYDE FOR CONGRESS, INC.]], [[ADRIAN SMITH FOR CONGRESS]], [[MICHAEL WALTZ FOR CONGRESS]], [[CARLOS GIMENEZ FOR CONGRESS]], [[Brandon Gill]], [[Frank Lucas]], [[Earl L. Buddy Carter]], [[Gun Owners of America]], [[Brett Guthrie]], [[KEVIN KILEY FOR CONGRESS]], [[Mike Collins]], [[John Joyce]], [[Jim Jordan]], [[Mike Kennedy]], [[Jake Ellzey]], [[Addison P. McDowell]], [[Lisa C. McClain]], [[Michael Waltz]], [[Harriet M. Hageman]], [[Rick W. Allen]], [[Robert B. Aderholt]], [[Ron Estes]], [[Nathaniel Moran]], [[Glenn Grothman]], [[Brad Knott]], [[David Rouzer]], [[MARK ALFORD FOR CONGRESS, INC.]], [[Andy Harris]], [[Julie Fedorchak]], [[Blake D. Moore]], [[David J. Taylor]], [[Erin Houchin]], [[Carlos Gimenez]], [[Tim Moore]], [[Jason Smith]], [[Mike Haridopolos]], [[Mary E. Miller]], [[Vern Buchanan]], [[Pete Sessions]], [[Tim Burchett]], [[Brian Babin]], [[James Comer]], [[Kevin Kiley]], [[David Kustoff]], [[Chuck Edwards]], [[Dan Crenshaw]], [[Cliff Bentz]], [[Randy K. Weber]], [[Adrian Smith]]"
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 committees:
   - Aviation
   - Economic Development, Public Buildings, and Emergency Management
@@ -34,7 +36,12 @@ committees:
   - Technology Modernization
 bills-sponsored: 32
 corroboration-count: 2
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -49,6 +56,7 @@ corroboration-count: 2
 
 **Party:** Republican · **Chamber:** House · **State:** Michigan
 **Bioguide ID:** `B001321`
+**FEC candidate ID:** `H2MI07123`
 
 **Total received:** —
 
@@ -56,16 +64,16 @@ corroboration-count: 2
 
 | Donor | Amount |
 |---|---:|
+| Koch Industries | $20,000 |
+| National Education Association | $20,000 |
+| Associated General Contractors of America Political Action Committee | $12,500 |
 | Koch Network - Charles Koch | $12,400 |
+| Steve Scalise | $12,000 |
+| AFL-CIO | $11,934 |
+| NRA Political Victory Fund | $10,900 |
+| National Cattlemen's Beef Association | $10,000 |
 | Charles Schwab | $9,500 |
-| Blackstone Group | $7,000 |
-| Kelcy Warren - Energy Transfer Partners | $6,243 |
-| Anduril Industries | $3,300 |
-| GEO Group - Private Prison Industrial Complex | $2,943 |
-| Chevron | $1,930 |
-| General Motors | $1,348 |
-| Ford Motor Company | $1,000 |
-| CVS Health - Aetna | $520 |
+| Republican Jewish Coalition | $9,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

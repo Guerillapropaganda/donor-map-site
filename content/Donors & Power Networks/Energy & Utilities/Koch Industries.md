@@ -1,7 +1,7 @@
 ---
 title: Koch Industries
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -31,7 +31,11 @@ reenrich-reason: run lda pipeline
 total-revenue: 212200
 total-assets: 1900682
 cross-vault-triangulation-count: 35
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 politicians-funded: "[[Kevin McCarthy]], [[Cathy McMorris Rodgers]], [[John Kennedy]], [[Dan Crenshaw]], [[RNC - Republican National Committee]], [[FreedomWorks for America]], [[_Tim Scott Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[NRCC - National Republican Congressional Committee]], [[WinRed]], [[_Ron Estes Master Profile]], [[_Pete Ricketts Master Profile]], [[ActBlue]], [[Americans for Prosperity]], [[_Ted Budd Master Profile]], [[_Marco Rubio Master Profile]], [[_Mike Kelly Master Profile]], [[_Ted Cruz Master Profile]], [[Freedom Partners Action Fund Inc]], [[Campaign for Working Families]], [[MAGA Inc]], [[_Ron Johnson Master Profile]], [[Tim Scott]], [[Ted Budd]], [[Mike Kelly]], [[Marco Rubio]], [[Pete Ricketts]], [[Ted Cruz]], [[Ron Estes]], [[Ron Johnson]], [[INTRUST BANK]], [[Koch Industries]], [[Richard McCormick]], [[Roger Wicker]], [[Pete Stauber]], [[Mike Thompson]], [[Katie Britt]], [[Andy Barr]], [[Mario Diaz-Balart]], [[Henry Cuellar]], [[Austin Scott]], [[Russ Fulcher]], [[Michael Guest]], [[August Pfluger]], [[Chuck Schumer]], [[David G. Valadao]], [[Mike Bost]], [[Shelley Moore Capito]], [[Sam Graves]], [[Virginia Foxx]], [[Michael K. Simpson]], [[Mike Collins]], [[David Rouzer]], [[Joe Wilson]], [[Andy Harris]], [[Scott Fitzgerald]], [[Russell Fry]], [[Eric Schmitt]], [[Robert B. Aderholt]], [[Byron Donalds]], [[Rick Scott]], [[Mike Rogers]], [[Cynthia M. Lummis]], [[Mike Crapo]], [[Ryan Mackenzie]], [[Tim Moore]], [[John Joyce]], [[Dusty Johnson]], [[Ron DeSantis]], [[Glenn Grothman]], [[Tom Barrett]], [[Sanford D. Bishop]], [[Patrick McHenry]], [[Rand Paul]], [[Chuck Grassley]], [[Kevin Cramer]], [[Tom Cotton]], [[Richard Hudson]], [[Mike Ezell]], [[Jerry Moran]], [[Robert E. Latta]], [[Harriet M. Hageman]], [[John R. Moolenaar]], [[Jim Inhofe]], [[Bill Huizenga]], [[Thomas H. Kean]], [[Jeff Crank]], [[Paul A. Gosar]], [[Morgan Luttrell]], [[Lloyd Smucker]], [[Brian Jack]], [[Jake Ellzey]], [[Frank Lucas]], [[Marlin A. Stutzman]], [[Roger Williams]], [[Kat Cammack]], [[Adrian Smith]], [[Tony Gonzales]], [[Mike Rounds]], [[W. Gregory Steube]], [[Mike Pompeo]], [[J. French Hill]], [[Tom Cole]], [[John Boehner]], [[Brett Guthrie]], [[Nancy Mace]], [[Jennifer A. Kiggans]], [[Claudia Tenney]], [[Cliff Bentz]], [[Kristi Noem]], [[Jodey Arrington]], [[Brian Babin]], [[Glenn Thompson]], [[Steve Daines]], [[Josh Hawley]], [[Scott Perry]], [[Jim Banks]], [[Steve Womack]], [[Derek Schmidt]], [[Tracey Mann]], [[Darrell Issa]], [[Bruce Westerman]], [[Brad Knott]], [[Matt van Epps]], [[Randy K. Weber]], [[Matt Gaetz]], [[Mike Carey]], [[Bryan Steil]], [[James Lankford]], [[Jefferson Shreve]], [[John Hoeven]], [[Mitch McConnell]], [[Tom McClintock]], [[John Boozman]], [[Vern Buchanan]], [[Tim Walberg]], [[David J. Taylor]], [[Sheri Biggs]], [[Julie Fedorchak]], [[Max L. Miller]], [[David Scott]], [[Rick Crawford]], [[Beth van Duyne]], [[William R. Timmons]], [[Darin Lahood]], [[Rick W. Allen]], [[Lindsey Graham]], [[Harold Rogers]], [[Lisa C. McClain]], [[Adam Smith]], [[Mariannette Miller-Meeks]], [[Barry Loudermilk]], [[Bernie Moreno]], [[Neal P. Dunn]], [[Dan Newhouse]], [[H. Morgan Griffith]], [[Markwayne Mullin]], [[Jim Jordan]], [[Mike Haridopolos]], [[Michael Lawler]], [[David Schweikert]], [[Thom Tillis]], [[Riley M. Moore]], [[Wesley Hunt]], [[John Ratcliffe]], [[Nick Lalota]], [[John James]], [[Pete Sessions]], [[Mark Green]], [[Stephanie I. Bice]], [[Gary J. Palmer]], [[John Barrasso]], [[John Thune]], [[Gus M. Bilirakis]], [[Michael Waltz]], [[Robert P. Bresnahan]], [[Todd Young]], [[Jim Risch]], [[Paul Ryan]], [[Marsha Blackburn]], [[Dan Sullivan]], [[Mike Kennedy]], [[John R. Carter]], [[Bill Cassidy]], [[Jason Smith]], [[Nicole Malliotakis]], [[Blake D. Moore]], [[Young Kim]], [[Nicholas J. Begich]], [[Warren Davidson]], [[Marjorie Taylor Greene]], [[Michael Cloud]], [[Charles J. Chuck Fleischmann]], [[Ryan Zinke]], [[Mike Johnson]], [[Ann Wagner]], [[Ronny Jackson]], [[Diana Harshbarger]], [[Troy Balderson]], [[Susan Collins]], [[Dan Coats]], [[Terri A. Sewell]], [[Aaron Bean]], [[Mike Lee]], [[Don Bacon]], [[Trent Kelly]], [[Guy Reschenthaler]], [[Lee Zeldin]], [[Jim Costa]], [[Thomas Massie]], [[Steve Scalise]], [[David Kustoff]], [[Erin Houchin]], [[Andy Biggs]], [[Tom Emmer]], [[Jeff Sessions]], [[Michelle Fischbach]], [[JD Vance]], [[Daniel Meuser]], [[Nicholas A. Langworthy]], [[Mark E. Amodei]], [[Ralph Norman]], [[John Cornyn]], [[Lance Gooden]], [[Lisa Murkowski]], [[Monica de la Cruz]], [[Greg Casar]], [[Michael T. McCaul]], [[Michael A. Rulli]], [[Rick Larsen]], [[Vince Fong]], [[Randy Feenstra]], [[Mike Flood]], [[Kay Granger]], [[Bill Hagerty]], [[Ben Cline]], [[Deb Fischer]], [[Gabe Evans]], [[James C. Justice]], [[Scott Franklin]], [[Scott Desjarlais]], [[Zachary Nunn]], [[James R. Baird]], [[Earl L. Buddy Carter]], [[Mark Alford]], [[Elise Stefanik]], [[Laurel M. Lee]], [[Carol D. Miller]], [[Kevin Hern]], [[Ken Calvert]], [[Michael Whatley]], [[Michael Baumgartner]], [[James Comer]], [[Brad Finstad]], [[Elijah Crane]], [[Brian K. Fitzpatrick]], [[David P. Joyce]], [[Joni Ernst]], [[Clay Higgins]], [[Gregory F. Murphy]], [[Jay Obernolte]], [[Ashley Hinson]], [[Roger Marshall]], [[Daniel Webster]], [[Julia Letlow]], [[Robert J. Wittman]], [[Thomas P. Tiffany]], [[Andrew R. Garbarino]], [[John R. Curtis]], [[Eric Burlison]], [[Gregory Meeks]], [[Cindy Hyde-Smith]], [[Jack Bergman]], [[John B. Larson]], [[Rudy Yakym]], [[Tony Wied]], [[Tim Sheehy]], [[Celeste Maloy]], [[John J. McGuire]], [[Addison P. McDowell]], [[Chip Roy]], [[Derrick van Orden]], [[Jeff Hurd]], [[Mary E. Miller]], [[George W. Bush]], [[Craig A. Goldman]], [[Tommy Tuberville]], [[Jon Husted]], [[Pat Harrigan]], [[Pat Fallon]], [[Steny H. Hoyer]], [[John W. Rose]], [[Barry Moore]], [[Burgess Owens]], [[Chuck Hagel]], [[Melissa Bean]], [[Andrew Ogles]], [[Ashley Moody]], [[David McCormick]], [[Victoria Spartz]], [[Joe Manchin]]"
 epa-facilities: 4
 epa-states: GA, KS, MN, TX
@@ -40,6 +44,8 @@ employee-contributions: 253
 employee-contributions-total: 9939019
 employee-donor-count: 85
 ---
+
+
 
 
 
@@ -61,7 +67,20 @@ employee-donor-count: 85
 
 **Total political spend:** —
 
-*No direct donor→politician dollar flows tracked for this entity. Money may route through controlled vehicles or 501(c)(4) shells. See narrative sections below for details.*
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Pete Sessions | $126,500 |
+| Tim Walberg | $96,000 |
+| Paul Ryan | $90,500 |
+| Brett Guthrie | $89,500 |
+| Andy Harris | $86,000 |
+| Richard Hudson | $82,000 |
+| H. Morgan Griffith | $79,500 |
+| Mike Kelly | $79,000 |
+| Darrell Issa | $79,000 |
+| Mike Rogers | $75,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -2,7 +2,7 @@
 title: Rahm Emanuel
 type: politician
 bioguide-id: E000287
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Democrat
@@ -15,9 +15,17 @@ source-types:
   - Congress
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage); no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage)"
 bills-sponsored: 58
 top-donors: "[[Google - Alphabet]], [[AFL-CIO]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[MBNA Corporation]], [[Planned Parenthood Action Fund INC]], [[National Committee to Preserve Social Security & Medicare PAC]], [[CVS Health - Aetna]], [[Blue Shield of California]], [[Sierra Club Political Committee]], [[National Education Association]], [[Bechtel Corporation]], [[American College of Radiology Association PAC]], [[ADM - Archer Daniels Midland]], [[Akin Gump Strauss Hauer & Feld]], [[LOFGREN FOR CONGRESS]], [[AT&T]], [[Zoe Lofgren]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -31,8 +39,24 @@ top-donors: "[[Google - Alphabet]], [[AFL-CIO]], [[International Association of 
 <!-- tier: paid -->
 
 **Party:** Democrat · **Chamber:** Chief of Staff (2009-2010)
+**FEC candidate ID:** `H2IL05092`
 
 **Total received:** —
+
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| National Education Association | $29,000 |
+| AFL-CIO | $28,323 |
+| International Association of Firefighters Interested in Registration and Education PAC | $28,000 |
+| CVS Health - Aetna | $11,000 |
+| American College of Radiology Association PAC | $10,000 |
+| Tim Walz | $9,000 |
+| Melissa Bean | $9,000 |
+| Kirsten E. Gillibrand | $9,000 |
+| MBNA Corporation | $8,000 |
+| ADM - Archer Daniels Midland | $7,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
@@ -48,3 +72,27 @@ Chief of Staff (2009-2010). Profile pending enrichment.
 
 *Auto-generated from canonical government identifiers in frontmatter (bioguide, FEC, IRS EIN). These URLs are deterministic — constructed from IDs, not manually curated or hunted. See content/Vault Rules.md § 2b on canonical URL construction.*
 <!-- auto:harvested-sources end -->
+
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 58 |
+| Enacted into law | 0 |
+| Top policy areas | Taxation · Health · Finance and Financial Sector |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2008-07-22 | HR.6570-110 | Energy | New Alternative Transportation to Give Americans Solutions Act |
+| 2008-06-25 | HR.6371-110 | Taxation | Earned Income Credit Information Act of 2008 |
+| 2008-05-13 | HR.6036-110 | Taxation | Lifelong Learning Accounts Act of 2007 |
+| 2008-04-17 | HR.5845-110 | Labor and Employment | Crime Victims Employment Leave Act |
+| 2008-04-10 | HR.5764-110 | Taxation | Medicaid Levy Enhancement Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: E000287` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

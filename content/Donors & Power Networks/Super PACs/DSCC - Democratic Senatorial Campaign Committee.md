@@ -1,7 +1,7 @@
 ---
 title: DSCC - Democratic Senatorial Campaign Committee
 type: pac
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18
 source-tier: 1
 parent: null
