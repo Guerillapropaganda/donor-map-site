@@ -6,6 +6,7 @@ priority: normal
 status: open
 last-updated: '2026-04-16'
 generated-by: scripts/security/identity-audit.cjs
+auto-resolve-when: 'Total findings:\*\* 0'
 ---
 
 # Identity Audit Report

@@ -154,7 +154,11 @@
       "Bash(git -C C:/Users/third/donor-map-site status)",
       "Bash(node -e ' *)",
       "Bash(node scripts/harness-self-audit.cjs --json)",
-      "Bash(node scripts/pipeline-janitor.cjs --json)"
+      "Bash(node scripts/pipeline-janitor.cjs --json)",
+      "Bash(node scripts/note-auto-resolver.cjs)",
+      "Bash(node scripts/note-auto-resolver.cjs --write)",
+      "Bash(node scripts/note-auto-resolver.cjs --json)",
+      "Bash(timeout 30 node -e ' *)"
     ]
   }
 }

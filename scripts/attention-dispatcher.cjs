@@ -250,6 +250,20 @@ const PRODUCERS = [
     args: ['--write', '--tier=a-plus'],
     timeout_ms: 300_000,
   },
+  // Self-healing for Admin Notes: any note with `auto-resolve-when:` in
+  // its frontmatter has its status auto-flipped to match what its report
+  // body actually says. Closes the loop David flagged 2026-04-26: when
+  // the harness corrects an issue, the corresponding note disappears
+  // from the Notes & Queues page automatically. Read-only check version
+  // runs every 15 min via vault-audit.cjs; this producer is the writer.
+  // Cheap (sub-second) — every 15 min keeps the page in sync with reality.
+  {
+    name: 'note-auto-resolver-write',
+    schedule: '*/15 * * * *',
+    script: 'scripts/note-auto-resolver.cjs',
+    args: ['--write'],
+    timeout_ms: 30_000,
+  },
 ];
 
 // Serialize execution — never run two producers at once
