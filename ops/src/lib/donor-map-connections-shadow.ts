@@ -47,12 +47,26 @@ function mapToLegacyType(t: EdgeType): LegacyType | null {
 
 /** Same orientation flip as the live route: monetary edges store
  * {from: donor, to: politician}, but the legacy "donors:" field is
- * "the politician's view of its donors" — so source/target flip. */
-function flipForLegacy(edge: Edge): { source: string; target: string; sourceId: string; targetId: string } {
+ * "the politician's view of its donors" — so source/target flip.
+ *
+ * For source/target labels we return the LIBRARIAN'S CANONICAL NAME
+ * (resolved via from_id/to_id), not the raw edge string. This is what
+ * unifies aliases like "ANDY BARR FOR SENATE, INC." onto the
+ * politician node "Andy Barr" — the librarian's whole point. The raw
+ * strings would create phantom per-profile keys (one for each raw
+ * variant that resolves to the same entity), which is the cache's
+ * exact pre-librarian failure mode (KAMALA HARRIS / KAMALA HARRIS FOR
+ * SENATE as separate cache entries). */
+function flipForLegacy(
+  edge: Edge,
+  canonicalNameById: Map<string, string>,
+): { source: string; target: string; sourceId: string; targetId: string } {
+  const fromName = canonicalNameById.get(edge.from_id) ?? edge.from_raw
+  const toName = canonicalNameById.get(edge.to_id) ?? edge.to_raw
   if (edge.type === "monetary") {
-    return { source: edge.to_raw, target: edge.from_raw, sourceId: edge.to_id, targetId: edge.from_id }
+    return { source: toName, target: fromName, sourceId: edge.to_id, targetId: edge.from_id }
   }
-  return { source: edge.from_raw, target: edge.to_raw, sourceId: edge.from_id, targetId: edge.to_id }
+  return { source: fromName, target: toName, sourceId: edge.from_id, targetId: edge.to_id }
 }
 
 // ─── Shadow build ──────────────────────────────────────────────────────
@@ -114,6 +128,14 @@ function rollupFromLibrarian(): CacheRollup | null {
   const g = getGraph()
   if (!g) return null
 
+  // Build a NodeId → canonical-name lookup for ALL nodes (not just
+  // profile-having ones). flipForLegacy uses this to translate raw edge
+  // strings to the librarian's canonical entity name; we need it even
+  // for non-profile counterparties so an edge like "{to: 'KAMALA HARRIS
+  // FOR SENATE'}" surfaces the unified Kamala Harris name.
+  const canonicalNameById = new Map<string, string>()
+  for (const n of g.resolver.allNodes()) canonicalNameById.set(n.id, n.name)
+
   // Profiles = nodes with a profile_path. Initialize each at zero so
   // we report the same totalProfiles shape.
   const profileNodeIds = new Set<string>()
@@ -154,7 +176,7 @@ function rollupFromLibrarian(): CacheRollup | null {
       const legacy = mapToLegacyType(edge.type)
       if (!legacy || legacy === "contracts") continue // breakdown ignores contracts
 
-      const { source, target, sourceId } = flipForLegacy(edge)
+      const { source, target, sourceId } = flipForLegacy(edge, canonicalNameById)
 
       // Source must be a vault profile (legacy route's
       // `if (!sourceMeta) continue` skip).
@@ -181,7 +203,7 @@ function rollupFromLibrarian(): CacheRollup | null {
       // Bidirectional reflect: stories / opposes / related show on the
       // target profile too (matches legacy route lines 293-299).
       if (legacy === "stories" || legacy === "opposes" || legacy === "related") {
-        const targetTitle = titleByNodeId.get(flipForLegacy(edge).targetId)
+        const targetTitle = titleByNodeId.get(flipForLegacy(edge, canonicalNameById).targetId)
         if (targetTitle) {
           const tgtBuckets = bucketsFor(targetTitle)
           if (!tgtBuckets[legacy].has(source)) {
