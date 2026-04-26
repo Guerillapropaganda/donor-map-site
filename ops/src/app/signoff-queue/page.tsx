@@ -3,6 +3,7 @@
 import { useEffect, useState } from "react"
 import Link from "next/link"
 import type { Profile } from "@/lib/vault"
+import { fetchVault } from "@/lib/vault-cache"
 import HarnessChip, { type HarnessArtifact } from "@/components/HarnessChip"
 
 /**
@@ -54,9 +55,8 @@ export default function SignoffQueuePage() {
     // triangulation, angle, etc.) used to render the queue table.
     // We DON'T derive the pass-list from these — that comes live from
     // the harness via setHarness(). See joinedQueue below.
-    fetch("/api/vault")
-      .then((r) => r.json())
-      .then((data: { profiles: Profile[] }) => {
+    fetchVault()
+      .then((data) => {
         setVaultProfiles(data.profiles)
         setLoading(false)
       })

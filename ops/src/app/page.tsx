@@ -7,6 +7,7 @@ import type { Profile, VaultStats } from "@/lib/vault"
 import { StatsBar } from "@/components/StatsBar"
 import { VaultGrid } from "@/components/VaultGrid"
 import PreviewServerToggle from "@/components/PreviewServerToggle"
+import { fetchVault } from "@/lib/vault-cache"
 import { ProfileDetail } from "@/components/ProfileDetail"
 import { ActivityFeed } from "@/components/ActivityFeed"
 import { TypeBreakdown } from "@/components/TypeBreakdown"
@@ -42,8 +43,7 @@ export default function Dashboard() {
   const loadVault = (refresh = false) => {
     setLoading(true)
     setError(null)
-    fetch(`/api/vault${refresh ? "?refresh=true" : ""}`)
-      .then((r) => r.json())
+    fetchVault({ refresh })
       .then((data) => {
         if (data.error) {
           setError(data.error)

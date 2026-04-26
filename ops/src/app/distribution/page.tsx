@@ -3,6 +3,7 @@
 import { useState, useEffect, useRef, useCallback } from "react"
 import type { Profile } from "@/lib/vault"
 import { typeColor } from "@/lib/vault"
+import { fetchVault } from "@/lib/vault-cache"
 import { CardReceipt } from "@/components/CardReceipt"
 import { CardDossier } from "@/components/CardDossier"
 import { CardLeak } from "@/components/CardLeak"
@@ -166,8 +167,7 @@ export default function DistributionPage() {
   }, [selected, cardTemplate, cardSize])
 
   useEffect(() => {
-    fetch("/api/vault")
-      .then((r) => r.json())
+    fetchVault()
       .then((d) => { setProfiles(d.profiles || []); setLoading(false) })
       .catch(() => setLoading(false))
   }, [])

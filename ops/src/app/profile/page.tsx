@@ -4,6 +4,7 @@ import React, { useState, useEffect } from "react"
 import { useSearchParams, useRouter } from "next/navigation"
 import Link from "next/link"
 import { readinessColor, typeColor, type Profile } from "@/lib/vault"
+import { fetchVault } from "@/lib/vault-cache"
 import { VerificationChecklist, evaluateReadinessEligibility, evaluateStoryGrading } from "@/components/VerificationChecklist"
 import { PipelineDataViewer } from "@/components/PipelineDataViewer"
 import { ConnectionsExplorer } from "@/components/ConnectionsExplorer"
@@ -135,7 +136,7 @@ export default function ProfilePage() {
   useEffect(() => {
     if (allProfiles.length === 0) {
       setBrowseLoading(true)
-      fetch("/api/vault").then((r) => r.json()).then((data) => {
+      fetchVault().then((data) => {
         setAllProfiles(data.profiles || [])
         setBrowseLoading(false)
       }).catch(() => setBrowseLoading(false))

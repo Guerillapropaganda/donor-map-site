@@ -13,6 +13,7 @@ import {
 } from "@/lib/notes"
 import type { Profile } from "@/lib/vault"
 import { typeColor, readinessColor } from "@/lib/vault"
+import { fetchVault } from "@/lib/vault-cache"
 
 // Notes longer than this preview threshold collapse by default with a
 // "Show more" toggle. Long ops briefs and research dumps would
@@ -88,8 +89,7 @@ export default function NotesPage() {
 
   useEffect(() => {
     loadNotes()
-    fetch("/api/vault")
-      .then((r) => r.json())
+    fetchVault()
       .then((d) => setProfiles(d.profiles || []))
       .catch(() => {})
   }, [])
