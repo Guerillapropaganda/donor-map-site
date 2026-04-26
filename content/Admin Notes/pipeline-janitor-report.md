@@ -10,12 +10,12 @@ generated-by: scripts/pipeline-janitor.cjs
 
 # Pipeline Janitor Report
 
-Generated: 2026-04-26T02:23:12.535Z
+Generated: 2026-04-26T02:45:10.258Z
 Mode: DRY RUN (report only)
 
 ## Summary
 
-- Profiles scanned: 3238
+- Profiles scanned: 3240
 - Profiles at ready/verified audited: 606
 - Profiles with issues: **606**
 - Total issues: 1969
