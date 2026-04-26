@@ -72,11 +72,53 @@ let _cache = null;
  */
 function loadEdges() {
   if (_cache) return _cache;
-  const edges = [];
+
+  // Cross-source dedup by edge.id (added 2026-04-25 to fix phantom
+  // overcount). Same monetary edges were being emitted by multiple
+  // ingest sources (e.g. fec-bulk + fec-pas2 both cover overlapping
+  // FEC datasets) and stored in their own per-source derived file.
+  // computeEdgeId() is deterministic per (from|to|type|cycle[|role]),
+  // so they share an id but lived as separate records — money totals
+  // were silently double-counted everywhere this overlap existed
+  // (verify-all --tier 1 was reporting 7,035 such warnings).
+  //
+  // Precedence on duplicate id:
+  //   1. Canonical file (relationships.jsonl) wins — editorial /
+  //      manual-ops / migration sources are the authority.
+  //   2. Otherwise FIRST-SEEN among derived files wins. Files are
+  //      read in alphabetical order so the choice is deterministic
+  //      run-to-run.
+  //   3. The DROPPED edge's confidence is OR'd into the survivor IF
+  //      the survivor's confidence is missing/lower — so we don't
+  //      lose the higher-confidence signal just because it came in
+  //      via the alphabetically-later source. Other fields (amount,
+  //      cycle, etc.) are NOT merged — by construction, two edges
+  //      with the same computeEdgeId() already agree on those fields.
+  const byId = new Map(); // id → edge
+  const noId = []; // edges without an id (legacy/migration leftovers)
+  let dupCount = 0;
 
   // Read files in chunks to avoid V8 string length cap (~512MB).
   // fec-oth-transfers.jsonl grows past this after committee-transfer
   // aggregation, so readFileSync would throw ERR_STRING_TOO_LONG.
+  function ingest(edge) {
+    if (!edge || typeof edge !== 'object') return;
+    const id = edge.id;
+    if (!id) { noId.push(edge); return; }
+    const existing = byId.get(id);
+    if (!existing) {
+      byId.set(id, edge);
+      return;
+    }
+    dupCount++;
+    // Bubble up higher confidence onto the surviving edge so we don't
+    // lose the better signal when fec-pas2 (higher-confidence) loses
+    // alphabetical tie-break to fec-bulk.
+    const existingConf = typeof existing.confidence === 'number' ? existing.confidence : -1;
+    const incomingConf = typeof edge.confidence === 'number' ? edge.confidence : -1;
+    if (incomingConf > existingConf) existing.confidence = edge.confidence;
+  }
+
   function readFileLines(filePath) {
     const CHUNK = 64 * 1024 * 1024; // 64MB
     const fd = fs.openSync(filePath, 'r');
@@ -95,18 +137,18 @@ function loadEdges() {
         for (const line of lines) {
           const trimmed = line.trim();
           if (!trimmed) continue;
-          try { edges.push(JSON.parse(trimmed)); } catch {}
+          try { ingest(JSON.parse(trimmed)); } catch {}
         }
       }
       if (carry.trim()) {
-        try { edges.push(JSON.parse(carry.trim())); } catch {}
+        try { ingest(JSON.parse(carry.trim())); } catch {}
       }
     } finally {
       fs.closeSync(fd);
     }
   }
 
-  // 1. Canonical file (always first)
+  // 1. Canonical file (always first → wins precedence)
   if (fs.existsSync(EDGE_FILE)) readFileLines(EDGE_FILE);
 
   // 2. Every .jsonl file under data/derived/ (sorted deterministically)
@@ -117,7 +159,37 @@ function loadEdges() {
     for (const f of files) readFileLines(path.join(DERIVED_DIR, f));
   }
 
-  _cache = edges;
+  // Secondary dedup: drop legacy role=null monetary edges that are
+  // shadowed by a role-bearing edge for the same money flow. Same fix
+  // shape as the id-dedup above, but at the (from|to|amount|cycle)
+  // grain — the role field distinguishes hash IDs but doesn't change
+  // the underlying money. Without this, fec-bulk's pre-ADR-0013 role-
+  // null monetary edges are double-counted alongside fec-pas2's
+  // classified counterparts (verify-all reported 7,035 such cases).
+  // ORPHAN role-null edges (no role-bearing match in any source) are
+  // KEPT — they're real money in cycles/types fec-pas2 doesn't cover.
+  const allEdges = [...byId.values(), ...noId];
+  const flowKey = (e) => `${e.from}||${e.to}||${e.amount}||${e.cycle || ''}`;
+  const flowsWithRole = new Set();
+  for (const e of allEdges) {
+    if (e.type !== 'monetary') continue;
+    if (e.role) flowsWithRole.add(flowKey(e));
+  }
+  let shadowDrops = 0;
+  const final = [];
+  for (const e of allEdges) {
+    if (e.type === 'monetary' && !e.role && flowsWithRole.has(flowKey(e))) {
+      shadowDrops++;
+      continue;
+    }
+    final.push(e);
+  }
+
+  _cache = final;
+  if (process.env.RELATIONSHIPS_STORE_VERBOSE) {
+    if (dupCount > 0) console.error(`[relationships-store] cross-source dedup dropped ${dupCount} duplicate edge(s) by id`);
+    if (shadowDrops > 0) console.error(`[relationships-store] shadow dedup dropped ${shadowDrops} role-null monetary edge(s) shadowed by classified counterparts`);
+  }
   return _cache;
 }
 
