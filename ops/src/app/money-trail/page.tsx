@@ -179,18 +179,28 @@ export default function MoneyTrailPage() {
     }))
 
     // Force simulation — star layout, center pinned
-    // Heavier nodes get more collision space so they spread out naturally
+    // Heavier nodes get more collision space so they spread out naturally.
+    // Same anti-drift settings as the Relationships graph: distanceMax
+    // caps long-range repulsion; stronger link + faster decay keep
+    // nodes anchored across repeated drag interactions; warmup ticks
+    // give an instant first frame.
     const sim = forceSimulation<ForceNode>(nodes)
-      .force("charge", forceManyBody<ForceNode>().strength(d => d.isCenter ? -200 : -80 - getNodeRadius(d, maxAmt) * 3))
+      .force(
+        "charge",
+        forceManyBody<ForceNode>()
+          .strength(d => d.isCenter ? -200 : -80 - getNodeRadius(d, maxAmt) * 3)
+          .distanceMax(250),
+      )
       .force("center", forceCenter(width / 2, height / 2).strength(0.05))
-      .force("link", forceLink<ForceNode, ForceLink>(links).distance(d => 80 + getNodeRadius(d.target as ForceNode, maxAmt) * 2).strength(0.25))
+      .force("link", forceLink<ForceNode, ForceLink>(links).distance(d => 80 + getNodeRadius(d.target as ForceNode, maxAmt) * 2).strength(0.5))
       .force("collide", forceCollide<ForceNode>(d => getNodeRadius(d, maxAmt) + 6).iterations(3))
-      .force("x", forceX(width / 2).strength(0.02))
-      .force("y", forceY(height / 2).strength(0.02))
-      .alphaDecay(0.02)
+      .force("x", forceX(width / 2).strength(0.05))
+      .force("y", forceY(height / 2).strength(0.05))
+      .alphaDecay(0.05)
 
     centerNode.fx = width / 2
     centerNode.fy = height / 2
+    sim.tick(50)
     simRef.current = sim
 
     // SVG structure
@@ -327,7 +337,7 @@ export default function MoneyTrailPage() {
 
     // Drag
     const dragBehavior = d3Drag<SVGGElement, ForceNode>()
-      .on("start", (event, d) => { if (!event.active) sim.alphaTarget(0.3).restart(); d.fx = d.x; d.fy = d.y })
+      .on("start", (event, d) => { if (!event.active) sim.alphaTarget(0.1).restart(); d.fx = d.x; d.fy = d.y })
       .on("drag", (_, d) => { d.fx = (d3Drag as any).event?.x ?? d.x; d.fy = (d3Drag as any).event?.y ?? d.y })
       .on("end", (event, d) => { if (!event.active) sim.alphaTarget(0); if (!d.isCenter) { d.fx = null; d.fy = null } })
     nodeEls.call(dragBehavior as any)
@@ -335,7 +345,7 @@ export default function MoneyTrailPage() {
     // Fix drag to use event properly
     nodeEls.call(
       d3Drag<SVGGElement, ForceNode>()
-        .on("start", (event, d) => { if (!event.active) sim.alphaTarget(0.3).restart(); d.fx = d.x; d.fy = d.y })
+        .on("start", (event, d) => { if (!event.active) sim.alphaTarget(0.1).restart(); d.fx = d.x; d.fy = d.y })
         .on("drag", (event, d) => { d.fx = event.x; d.fy = event.y })
         .on("end", (event, d) => { if (!event.active) sim.alphaTarget(0); if (!d.isCenter) { d.fx = null; d.fy = null } }) as any
     )
