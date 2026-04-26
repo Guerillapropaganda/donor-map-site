@@ -170,6 +170,27 @@ const EXPECTED_BLOCKS = {
   ],
 };
 
+// Auto-blocks that builders emit but profiles are NOT required to have. The
+// janitor knows about them (so the harness-self-audit `block-name-drift`
+// check is satisfied) but their absence never demotes a profile.
+//
+// Why each is optional rather than required:
+//   auto:executive-actions — only presidents & governors issue exec orders.
+//     Requiring on all politicians would falsely demote every member of Congress.
+//   auto:irs-990 — only 501(c) nonprofits file 990s. think-tank is in
+//     EXEMPT_TYPES today; promoting to required would re-audit those.
+//   auto:offshore-records — ICIJ leak matches are rare. Most profiles have
+//     no offshore exposure; absence is the norm, not a defect.
+//   auto:data-panel — eligible for future promotion to required for politician
+//     + donor, but not all profiles have been re-built yet (rollout pending).
+//     Promotion needs an ADR + a sweep to confirm coverage first.
+const KNOWN_OPTIONAL_BLOCKS = new Set([
+  'auto:executive-actions',
+  'auto:irs-990',
+  'auto:offshore-records',
+  'auto:data-panel',
+]);
+
 // ─── Pipeline-status awareness ──────────────────────────────────
 // Source of truth: data/enrichment-state.json (CLAUDE.md Rule 3).
 // During the CSV-only freeze, "run X pipeline" advice is split between

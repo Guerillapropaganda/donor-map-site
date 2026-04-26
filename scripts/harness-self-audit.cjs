@@ -145,17 +145,28 @@ function extractEmittedBlockNames() {
   return out;
 }
 
-// All auto:* names listed in pipeline-janitor.cjs EXPECTED_BLOCKS.
+// All auto:* names the janitor knows about — scans both EXPECTED_BLOCKS
+// (required-or-demote) and KNOWN_OPTIONAL_BLOCKS (registered but absence
+// never demotes). A block in either registry passes the drift check.
 function extractExpectedBlockNames() {
   const src = readSafe(JANITOR);
-  const start = src.indexOf('const EXPECTED_BLOCKS');
-  if (start === -1) return new Set();
-  // Take the next 2KB — long enough for the whole map, short enough to skip past it.
-  const slice = src.slice(start, start + 4000);
   const out = new Set();
   const re = /['"](auto:[a-z][a-z0-9-]*)['"]/g;
-  let m;
-  while ((m = re.exec(slice)) !== null) out.add(m[1]);
+
+  const expectedStart = src.indexOf('const EXPECTED_BLOCKS');
+  if (expectedStart !== -1) {
+    const slice = src.slice(expectedStart, expectedStart + 4000);
+    let m;
+    while ((m = re.exec(slice)) !== null) out.add(m[1]);
+  }
+
+  const optionalStart = src.indexOf('const KNOWN_OPTIONAL_BLOCKS');
+  if (optionalStart !== -1) {
+    const slice = src.slice(optionalStart, optionalStart + 2000);
+    let m;
+    while ((m = re.exec(slice)) !== null) out.add(m[1]);
+  }
+
   return out;
 }
 
