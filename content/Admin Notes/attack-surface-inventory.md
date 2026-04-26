@@ -6,6 +6,7 @@ priority: normal
 status: open
 last-updated: '2026-04-15'
 generated-by: manual (Code Claude security sprint)
+note-kind: reference
 ---
 
 # Attack Surface Inventory

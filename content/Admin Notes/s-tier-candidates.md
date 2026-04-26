@@ -6,6 +6,7 @@ priority: normal
 status: open
 last-updated: '2026-04-11'
 generated-by: scripts/s-tier-candidate-scanner.cjs
+note-kind: ticket
 ---
 
 # S-Tier Candidate Rankings

@@ -5,6 +5,7 @@ note-type: data
 priority: normal
 status: open
 last-updated: '2026-04-15'
+note-kind: ticket
 ---
 
 # Dangling Wikilinks Triage

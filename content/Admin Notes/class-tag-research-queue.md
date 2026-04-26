@@ -6,6 +6,7 @@ priority: normal
 status: open
 last-updated: '2026-04-15'
 generated-by: scripts/tmp-list-skipped-class-tags.cjs
+note-kind: ticket
 ---
 
 # Class-tag research queue

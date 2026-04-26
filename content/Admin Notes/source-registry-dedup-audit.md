@@ -5,6 +5,7 @@ note-type: data
 status: open
 last-updated: 2026-04-15
 generator: scripts/source-registry-dedup-audit.cjs
+note-kind: report
 ---
 
 # Source Registry Dedup Audit

@@ -3,6 +3,7 @@ title: External Services Setup
 type: admin-note
 note-type: code
 status: open
+note-kind: reference
 ---
 
 # External Services Setup

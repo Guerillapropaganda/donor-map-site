@@ -5,6 +5,7 @@ note-type: code
 priority: normal
 status: open
 last-updated: 2026-04-14
+note-kind: report
 ---
 
 # Vault Audit 2026-04-14

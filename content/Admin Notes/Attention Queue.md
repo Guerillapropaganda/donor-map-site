@@ -6,6 +6,7 @@ priority: urgent
 status: open
 last-updated: '2026-04-26'
 generated-by: scripts/lib/attention-queue.cjs
+note-kind: rollup
 ---
 
 # 🎯 Attention Queue

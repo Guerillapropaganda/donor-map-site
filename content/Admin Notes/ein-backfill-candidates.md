@@ -3,6 +3,7 @@ title: "EIN Backfill Candidates"
 status: reference
 last-updated: 2026-04-19
 generated-by: scripts/discover-990-gaps.cjs
+note-kind: ticket
 ---
 
 # EIN Backfill Candidates

@@ -6,6 +6,7 @@ priority: normal
 status: active
 last-updated: '2026-04-15'
 author: Code Claude
+note-kind: log
 ---
 
 # Handoff for the next Code Claude session

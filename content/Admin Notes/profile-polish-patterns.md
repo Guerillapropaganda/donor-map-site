@@ -5,6 +5,7 @@ note-type: code
 priority: high
 status: open
 last-updated: 2026-04-17
+note-kind: reference
 ---
 
 # Profile Polish Patterns — Running Playbook

@@ -7,6 +7,7 @@ status: open
 last-updated: 2026-04-14
 authority: ADR-0002, ADR-0003
 editor-vouched: true
+note-kind: reference
 ---
 
 # Phase 2.5 Setup — Clerk + Stripe

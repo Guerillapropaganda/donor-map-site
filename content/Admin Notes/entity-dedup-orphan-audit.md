@@ -5,6 +5,7 @@ note-type: data
 status: open
 last-updated: 2026-04-15
 generator: scripts/entity-dedup-orphan-audit.cjs
+note-kind: report
 ---
 
 # Entity Dedup + Orphan Audit

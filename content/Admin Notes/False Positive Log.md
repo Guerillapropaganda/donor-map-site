@@ -6,6 +6,7 @@ priority: normal
 status: open
 last-updated: '2026-04-11'
 generated-by: ops/src/app/api/attention-queue/reject/route.ts
+note-kind: rollup
 ---
 
 # False Positive Log

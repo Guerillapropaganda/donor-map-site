@@ -6,6 +6,7 @@ lane: code
 priority: medium
 date: 2026-04-22
 discovered_during: raise-reconciliation-feature
+note-kind: ticket
 ---
 
 # FEC candidate-summary ingest bugs

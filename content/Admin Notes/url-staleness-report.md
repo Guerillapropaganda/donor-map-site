@@ -8,6 +8,7 @@ closed: 2026-04-25
 closed-reason: 0 stale profiles, 0 stale URLs at last re-run
 last-updated: '2026-04-26'
 generated-by: scripts/url-staleness.cjs
+note-kind: report
 ---
 
 # URL Staleness Report — 180+ days

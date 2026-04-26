@@ -3,6 +3,7 @@ title: "Politicians on Nonprofit Boards (IRS 990)"
 status: reference
 last-updated: 2026-04-19
 generated-by: scripts/ingest-officer-affiliation-edges.cjs
+note-kind: report
 ---
 
 # Politicians on Nonprofit Boards

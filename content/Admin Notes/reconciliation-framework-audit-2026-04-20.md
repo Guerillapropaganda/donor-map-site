@@ -6,6 +6,7 @@ lane: code
 generated: 2026-04-20
 panel: content/Admin Notes/audit-panel-20.json
 orchestrator: scripts/verify-all.cjs
+note-kind: report
 ---
 
 # Reconciliation Framework — First Audit

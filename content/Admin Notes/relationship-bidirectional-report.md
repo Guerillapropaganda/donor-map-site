@@ -6,6 +6,7 @@ priority: normal
 status: open
 last-updated: '2026-04-12'
 generated-by: scripts/relationship-bidirectional.cjs
+note-kind: report
 ---
 
 # Orphan Relationship Report

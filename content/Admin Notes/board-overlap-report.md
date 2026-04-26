@@ -3,6 +3,7 @@ title: "Board Overlap Report (IRS 990 Officers)"
 status: reference
 last-updated: 2026-04-19
 generated-by: scripts/build-officer-registry.cjs
+note-kind: report
 ---
 
 # Board Overlap Report

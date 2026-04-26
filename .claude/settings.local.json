@@ -158,7 +158,9 @@
       "Bash(node scripts/note-auto-resolver.cjs)",
       "Bash(node scripts/note-auto-resolver.cjs --write)",
       "Bash(node scripts/note-auto-resolver.cjs --json)",
-      "Bash(timeout 30 node -e ' *)"
+      "Bash(timeout 30 node -e ' *)",
+      "Bash(node scripts/stamp-note-kinds.cjs)",
+      "Bash(node scripts/stamp-note-kinds.cjs --write)"
     ]
   }
 }

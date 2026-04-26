@@ -6,6 +6,7 @@ priority: normal
 status: open
 last-updated: '2026-04-26'
 generated-by: scripts/missing-profile-detector.cjs
+note-kind: ticket
 ---
 
 # Missing Profiles

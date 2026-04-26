@@ -6,6 +6,7 @@ priority: normal
 status: open
 last-updated: 2026-04-14
 generator: scripts/sources-orphan-report.cjs
+note-kind: report
 ---
 
 # Orphan Citations Report

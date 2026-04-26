@@ -5,6 +5,7 @@ note-type: data
 status: active
 last-updated: 2026-04-15
 authority: Pillar 4 Foundation Audit
+note-kind: reference
 ---
 
 # TypeScript Errors Inventory

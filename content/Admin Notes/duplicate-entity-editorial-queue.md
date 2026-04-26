@@ -4,6 +4,7 @@ status: open
 created: 2026-04-25
 owner: David
 tags: [data, editorial, duplicate-entity]
+note-kind: ticket
 ---
 
 # Duplicate Entity Profiles — Editorial Queue

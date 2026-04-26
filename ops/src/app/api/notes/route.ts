@@ -63,6 +63,7 @@ export async function POST(request: Request) {
       profile: profile || "General",
       profilePath: profilePath || "",
       type: type || "question",
+      kind: "ticket", // hand-created notes are always tickets — auto-generated reports stamp themselves
       priority: priority || "normal",
       status: "open",
       text,

@@ -5,6 +5,7 @@ note-type: data
 status: open
 last-updated: 2026-04-15
 generator: scripts/policy-class-tag-gap-report.cjs
+note-kind: report
 ---
 
 # Policy Class-Tag Gap Report

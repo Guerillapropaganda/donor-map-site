@@ -7,6 +7,7 @@ status: open
 created: '2026-04-10'
 created-by: Research Claude
 tags: [postmortem, operating-rules, data-integrity]
+note-kind: log
 ---
 
 # Lessons Learned, 2026-04-10

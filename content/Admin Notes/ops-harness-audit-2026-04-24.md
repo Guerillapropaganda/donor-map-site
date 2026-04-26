@@ -5,6 +5,7 @@ closed-reason: Both resolution criteria satisfied. /signoff-queue rewired to rea
 tags: [ops, harness, audit, code-claude]
 date: 2026-04-24
 author: Code Claude
+note-kind: report
 ---
 
 # Ops pages vs. vault-audit harness — compliance audit

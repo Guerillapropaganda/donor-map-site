@@ -6,6 +6,7 @@ priority: normal
 status: open
 created: '2026-04-12'
 created-by: Code Claude
+note-kind: ticket
 ---
 
 # Capitol Trades Data Quality Report

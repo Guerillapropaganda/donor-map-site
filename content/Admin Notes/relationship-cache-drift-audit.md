@@ -5,6 +5,7 @@ note-type: data
 status: open
 last-updated: 2026-04-15
 generator: scripts/relationship-cache-drift-audit.cjs
+note-kind: report
 ---
 
 # Relationship Cache Drift Audit

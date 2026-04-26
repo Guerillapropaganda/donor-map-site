@@ -5,6 +5,7 @@ note-type: research
 status: active
 last-updated: 2026-04-14
 authority: CLAUDE.md Rule 13 (Perplexity-first research protocol)
+note-kind: reference
 ---
 
 # Perplexity Prompt Library

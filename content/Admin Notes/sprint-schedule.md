@@ -9,6 +9,7 @@ sprint-id: "2026-04-sprint"
 sprint-start: '2026-04-10'
 sprint-end: '2026-04-30'
 sprint-goal: "Public launch of thedonormap.org with ≥40 verified profiles, ≥100 draft→ready promotions, all pipeline bugs fixed, 528 conflicts triaged"
+note-kind: rollup
 ---
 
 # Sprint Schedule. April 10-30, 2026

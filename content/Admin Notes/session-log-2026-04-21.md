@@ -4,6 +4,7 @@ type: admin-note
 status: closed
 lane: code
 date: 2026-04-21
+note-kind: log
 ---
 
 # Session log — 2026-04-21

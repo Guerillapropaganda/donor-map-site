@@ -6,6 +6,7 @@ priority: normal
 status: open
 last-updated: '2026-04-11'
 generated-by: scripts/connection-suggester.cjs
+note-kind: ticket
 ---
 
 # Missing-connection candidates
