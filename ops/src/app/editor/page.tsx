@@ -73,6 +73,14 @@ export default function EditorPage() {
   const [viewMode, setViewMode] = useState<"edit" | "preview" | "split" | "live">("edit")
   const [autoLoaded, setAutoLoaded] = useState(false)
   const [previewServerRunning, setPreviewServerRunning] = useState(false)
+  // Sticky flag: once we've seen the server actually serve a page, keep
+  // the iframe mounted even if the next status poll times out. The
+  // status route's port-probe is a 1.5s GET; it can transiently fail
+  // when Quartz is mid-rebuild or busy serving a new page (which is
+  // exactly when you'd be navigating the iframe). Without stickiness,
+  // a single failed probe rips the iframe out from under you and the
+  // user has to re-enter Live Site mode.
+  const [iframeShouldRender, setIframeShouldRender] = useState(false)
 
   // Unsaved changes warning
   useEffect(() => {
@@ -89,9 +97,20 @@ export default function EditorPage() {
   useEffect(() => {
     fetch("/api/preview-server")
       .then((r) => r.json())
-      .then((s) => setPreviewServerRunning(!!s.running))
+      .then((s) => {
+        setPreviewServerRunning(!!s.running)
+        if (s.running) setIframeShouldRender(true)
+      })
       .catch(() => {})
   }, [])
+
+  // Promote running → iframeShouldRender. Never demote: once we've
+  // seen a healthy server, we keep showing the iframe even if a later
+  // status probe transiently fails. Explicit Stop via the toggle
+  // resets this (the toggle's onStatusChange fires after stop).
+  useEffect(() => {
+    if (previewServerRunning) setIframeShouldRender(true)
+  }, [previewServerRunning])
 
   useEffect(() => {
     fetch("/api/vault")
@@ -462,9 +481,13 @@ export default function EditorPage() {
                    you can browse the whole site as a reader from here. */
                 <div className="bg-[var(--color-bg)] border border-[var(--color-border)] rounded-lg overflow-hidden" style={{ height: "70vh" }}>
                   <div className="flex items-center gap-2 px-3 py-1.5 bg-[var(--color-bg-card)] border-b border-[var(--color-border)]">
-                    {previewServerRunning ? (
+                    {iframeShouldRender ? (
                       <>
-                        <span className="w-2 h-2 rounded-full bg-[var(--color-green)]" />
+                        <span
+                          className="w-2 h-2 rounded-full"
+                          style={{ backgroundColor: previewServerRunning ? "var(--color-green)" : "var(--color-amber)" }}
+                          title={previewServerRunning ? "Preview server responsive" : "Status probe missed — server may be busy"}
+                        />
                         <span className="text-[9px] text-[var(--color-text-dim)] flex-1 truncate">
                           {getLocalPreviewUrl(selected.path)}
                         </span>
@@ -488,7 +511,18 @@ export default function EditorPage() {
                           public URL
                         </a>
                         <span className="text-[9px] text-[var(--color-text-dim)]">·</span>
-                        <PreviewServerToggle compact onStatusChange={(s) => setPreviewServerRunning(s.running)} />
+                        <PreviewServerToggle
+                          compact
+                          onStatusChange={(s) => {
+                            setPreviewServerRunning(s.running)
+                            // Explicit stop (no PID, no port, not starting) tears
+                            // down the sticky iframe. Transient port misses while
+                            // PID is alive don't.
+                            if (!s.running && !s.starting && !s.pid) {
+                              setIframeShouldRender(false)
+                            }
+                          }}
+                        />
                       </>
                     ) : (
                       <>
@@ -499,7 +533,7 @@ export default function EditorPage() {
                       </>
                     )}
                   </div>
-                  {previewServerRunning ? (
+                  {iframeShouldRender ? (
                     <iframe
                       src={getLocalPreviewUrl(selected.path)}
                       className="w-full border-0"
@@ -512,7 +546,12 @@ export default function EditorPage() {
                       style={{ height: "calc(70vh - 32px)" }}
                     >
                       <div className="max-w-md w-full">
-                        <PreviewServerToggle onStatusChange={(s) => setPreviewServerRunning(s.running)} />
+                        <PreviewServerToggle
+                          onStatusChange={(s) => {
+                            setPreviewServerRunning(s.running)
+                            if (s.running) setIframeShouldRender(true)
+                          }}
+                        />
                         <p className="text-[10px] text-[var(--color-text-dim)] mt-3 leading-relaxed">
                           The local preview server runs Quartz in dev mode on
                           port {QUARTZ_PORT}. First start takes 30s–2min while
