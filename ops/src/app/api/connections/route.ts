@@ -43,6 +43,7 @@ import {
   type RelationshipEdge,
   type RelationshipType,
 } from "@/lib/relationships-store"
+import { shadowConnectionsAndLog } from "@/lib/donor-map-connections-shadow"
 
 // Legacy API shapes — kept identical to pre-Phase-3-Part-3 for
 // downstream compatibility.
@@ -375,6 +376,21 @@ export async function GET() {
     }
 
     cache = { data: result, timestamp: Date.now() }
+
+    // ─── ADR-0024 shadow harness ────────────────────────────────────
+    // Fire-and-forget librarian-side diff. Never blocks the response.
+    // Toggle with DONOR_MAP_SHADOW_CONNECTIONS=1.
+    if (process.env.DONOR_MAP_SHADOW_CONNECTIONS === "1") {
+      void shadowConnectionsAndLog({
+        topConnected,
+        unconnected,
+        unconnectedCount: unconnected.length,
+        totalProfiles: allProfiles.length,
+        breakdown,
+        connections,
+      })
+    }
+
     return NextResponse.json(result)
   } catch (error: unknown) {
     const msg = error instanceof Error ? error.message : "Unknown error"
