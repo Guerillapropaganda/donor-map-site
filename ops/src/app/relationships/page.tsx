@@ -3,6 +3,7 @@
 import { useState, useEffect, useRef, useCallback, useMemo } from "react"
 import type { Profile } from "@/lib/vault"
 import { typeColor } from "@/lib/vault"
+import { fetchVault } from "@/lib/vault-cache"
 import {
   forceSimulation, forceManyBody, forceCenter, forceLink, forceCollide, forceX, forceY,
   select, zoom as d3Zoom, zoomIdentity, drag as d3Drag,
@@ -673,7 +674,7 @@ export default function RelationshipsPage() {
   useEffect(() => {
     Promise.all([
       fetch("/api/connections").then((r) => r.json()),
-      fetch("/api/vault").then((r) => r.json()),
+      fetchVault(),
     ]).then(([connData, vaultData]) => {
       setConnections(connData.connections || [])
       setTopConnected(connData.topConnected || [])

@@ -37,6 +37,7 @@ import { useSearchParams } from "next/navigation"
 import matter from "gray-matter"
 import type { Profile } from "@/lib/vault"
 import { typeColor, readinessColor } from "@/lib/vault"
+import { fetchVault } from "@/lib/vault-cache"
 import PreviewServerToggle from "@/components/PreviewServerToggle"
 
 const QUARTZ_PORT = 8080
@@ -113,8 +114,7 @@ export default function EditorPage() {
   }, [previewServerRunning])
 
   useEffect(() => {
-    fetch("/api/vault")
-      .then((r) => r.json())
+    fetchVault()
       .then((d) => {
         const allProfiles = d.profiles || []
         setProfiles(allProfiles)
