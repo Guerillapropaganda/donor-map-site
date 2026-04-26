@@ -7,7 +7,7 @@ import type { Profile, VaultStats } from "@/lib/vault"
 import { StatsBar } from "@/components/StatsBar"
 import { VaultGrid } from "@/components/VaultGrid"
 import PreviewServerToggle from "@/components/PreviewServerToggle"
-import { fetchVault } from "@/lib/vault-cache"
+import { fetchVault, fetchHarnessArtifact, invalidateHarness } from "@/lib/vault-cache"
 import { ProfileDetail } from "@/components/ProfileDetail"
 import { ActivityFeed } from "@/components/ActivityFeed"
 import { TypeBreakdown } from "@/components/TypeBreakdown"
@@ -205,8 +205,10 @@ export default function Dashboard() {
   const loadHarness = async (opts: { autoRerun?: boolean } = {}) => {
     try {
       setHarnessError(null)
-      const res = await fetch("/api/vault-audit")
-      const data = await res.json()
+      // Use the shared module cache so the Dashboard and HarnessChip
+      // (mounted in headers across most ops pages) don't redundantly
+      // re-fetch the same artifact on every navigation.
+      const data = (await fetchHarnessArtifact()) as HarnessArtifact
       if (data.error && !data.generated_at) {
         setHarnessError(data.error)
         return
@@ -231,6 +233,7 @@ export default function Dashboard() {
         setHarnessError(data.error)
       } else {
         setHarness(data as HarnessArtifact)
+        invalidateHarness()
       }
     } catch (e) {
       setHarnessError(e instanceof Error ? e.message : "failed to re-run harness")
@@ -271,8 +274,17 @@ export default function Dashboard() {
               in the Quality Signals grid below. Green = fresh, amber = stale,
               red = broken. Clicking re-runs the harness server-side. */}
           {(() => {
+            // Use the harness's own classification of "errored" if
+            // present (single source of truth — vault-audit.cjs already
+            // computes summary.checks_errored). Fall back to the same
+            // predicate vault-audit uses internally. A non-zero exit
+            // alone does NOT mean crashed — many checks intentionally
+            // exit 1 to signal "found findings" (lint convention).
             const crashed = harness
-              ? harness.checks.filter((c) => c.exit !== 0 || c.timed_out).length
+              ? (harness.summary?.checks_errored ??
+                  harness.checks.filter(
+                    (c) => !!c.error || c.exit === null || c.timed_out,
+                  ).length)
               : 0
             const stale =
               harness && harness.age_minutes > STALE_MINUTES && !harnessRunning
@@ -684,7 +696,7 @@ export default function Dashboard() {
                 Quality Signals
               </h2>
               <span className="text-[8px] text-[var(--color-text-dim)]">
-                Live from the 14-check harness ·{" "}
+                Live from the vault-audit harness ·{" "}
                 {harness ? `${harness.checks.length} checks, ${harness.duration_ms}ms` : "loading…"}
               </span>
             </div>
