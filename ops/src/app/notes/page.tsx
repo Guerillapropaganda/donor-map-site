@@ -1,10 +1,43 @@
 "use client"
 
 import { useState, useEffect } from "react"
+import ReactMarkdown from "react-markdown"
+import remarkGfm from "remark-gfm"
 import type { AdminNote } from "@/lib/notes"
 import { NOTE_TYPE_COLORS, NOTE_TYPE_LABELS, STATUS_COLORS } from "@/lib/notes"
 import type { Profile } from "@/lib/vault"
 import { typeColor, readinessColor } from "@/lib/vault"
+
+// Notes longer than this preview threshold collapse by default with a
+// "Show more" toggle. Long ops briefs and research dumps would
+// otherwise blow out the list and bury everything below them.
+const NOTE_COLLAPSE_CHARS = 400
+
+interface NoteBodyProps {
+  text: string
+  expanded: boolean
+  onToggle: () => void
+}
+
+function NoteBody({ text, expanded, onToggle }: NoteBodyProps) {
+  const isLong = text.length > NOTE_COLLAPSE_CHARS
+  const visible = !isLong || expanded ? text : text.slice(0, NOTE_COLLAPSE_CHARS).trimEnd() + "…"
+  return (
+    <div className="text-[11px] text-[var(--color-text)] leading-relaxed mb-2">
+      <div className="markdown-body [&>p]:my-1.5 [&>p:first-child]:mt-0 [&>p:last-child]:mb-0 [&_ul]:my-1.5 [&_ul]:list-disc [&_ul]:pl-5 [&_ol]:my-1.5 [&_ol]:list-decimal [&_ol]:pl-5 [&_li]:my-0.5 [&_h1]:text-[13px] [&_h1]:font-bold [&_h1]:my-2 [&_h2]:text-[12px] [&_h2]:font-bold [&_h2]:my-2 [&_h3]:text-[11px] [&_h3]:font-bold [&_h3]:my-1.5 [&_strong]:font-bold [&_strong]:text-[var(--color-text)] [&_a]:text-[var(--color-steel)] [&_a]:underline [&_code]:text-[var(--color-steel)] [&_code]:bg-[var(--color-bg)] [&_code]:px-1 [&_code]:rounded [&_pre]:bg-[var(--color-bg)] [&_pre]:p-2 [&_pre]:rounded [&_pre]:my-2 [&_pre]:overflow-x-auto [&_blockquote]:border-l-2 [&_blockquote]:border-[var(--color-border)] [&_blockquote]:pl-3 [&_blockquote]:text-[var(--color-text-dim)] [&_hr]:my-3 [&_hr]:border-[var(--color-border)] [&_table]:my-2 [&_table]:border-collapse [&_th]:border [&_th]:border-[var(--color-border)] [&_th]:px-2 [&_th]:py-1 [&_th]:text-left [&_td]:border [&_td]:border-[var(--color-border)] [&_td]:px-2 [&_td]:py-1">
+        <ReactMarkdown remarkPlugins={[remarkGfm]}>{visible}</ReactMarkdown>
+      </div>
+      {isLong && (
+        <button
+          onClick={onToggle}
+          className="mt-1 text-[9px] uppercase tracking-wider text-[var(--color-steel)] hover:text-[var(--color-text)] transition-colors"
+        >
+          {expanded ? "▲ Show less" : `▼ Show more (${text.length} chars)`}
+        </button>
+      )}
+    </div>
+  )
+}
 
 export default function NotesPage() {
   const [notes, setNotes] = useState<AdminNote[]>([])
@@ -13,6 +46,15 @@ export default function NotesPage() {
   const [filter, setFilter] = useState<"all" | "open" | "in-progress" | "done">("all")
   const [typeFilter, setTypeFilter] = useState<string>("all")
   const [showCreate, setShowCreate] = useState(false)
+  const [expandedIds, setExpandedIds] = useState<Set<string>>(new Set())
+
+  const toggleExpanded = (id: string) =>
+    setExpandedIds((prev) => {
+      const next = new Set(prev)
+      if (next.has(id)) next.delete(id)
+      else next.add(id)
+      return next
+    })
 
   // New note form state
   const [newProfile, setNewProfile] = useState("")
@@ -332,7 +374,11 @@ export default function NotesPage() {
                       <span className="text-[9px] text-[var(--color-text-dim)] truncate">{note.profilePath}</span>
                     )}
                   </div>
-                  <p className="text-[11px] text-[var(--color-text)] leading-relaxed mb-2">{note.text}</p>
+                  <NoteBody
+                    text={note.text}
+                    expanded={expandedIds.has(note.id)}
+                    onToggle={() => toggleExpanded(note.id)}
+                  />
                   <div className="flex items-center gap-3 text-[9px] text-[var(--color-text-dim)]">
                     <span>{note.author}</span>
                     <span>{note.date}</span>
