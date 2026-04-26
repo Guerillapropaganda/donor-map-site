@@ -791,7 +791,7 @@ Marcia Fudge has sponsored 14 bills in the "Agriculture and Food" policy area. T
 
 ### vault-audit: reconciliation-framework-tier-1 — 145 findings
 
-Data integrity: absurd-value frontmatter, self-loop edges, duplicates, orphans — 145 error, 8079 warn (8224 findings total).
+Data integrity: absurd-value frontmatter, self-loop edges, duplicates, orphans — 145 error, 9514 warn (9659 findings total).
 
 - **Where:** `/system-health`
 - **Cost:** ~45 min
@@ -1155,7 +1155,7 @@ HMP is tagged dark-money-networked with capital_type=dark-money-vehicle. Total t
 
 ### vault-audit: pipeline-janitor — 606 findings
 
-Zombie auto-blocks, stale enrichment, A+ audit checks on ready/verified profiles — Scanned 3237 profiles. 606 had issues.
+Zombie auto-blocks, stale enrichment, A+ audit checks on ready/verified profiles — Scanned 3238 profiles. 606 had issues.
 
 - **Where:** `/system-health`
 - **Cost:** ~60 min

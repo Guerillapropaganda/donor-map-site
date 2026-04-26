@@ -20,6 +20,18 @@
  * committee-candidate-cycle tuple per file, matching the indiv
  * aggregator's granularity.
  *
+ * Recipient resolution (2026-04-25 fix): for each PAS2 row we prefer
+ * lookup by `other_id` (the recipient committee's FEC ID) over lookup
+ * by `cand_id` (the FEC candidate ID). other_id is more precise: it
+ * tells us WHICH committee received the money, not just which
+ * politician was the ultimate beneficiary. This routes leadership-PAC
+ * contributions to the leadership-PAC entity if it has its own profile,
+ * and disambiguates the multi-bioguide / multi-committee cases the
+ * librarian flagged. Falls back to cand_id when other_id is empty
+ * (e.g. IE-support / IE-oppose rows where the spending committee
+ * doesn't transfer to another committee). The recipient_cmte_id is
+ * recorded in edge metadata for downstream traceability.
+ *
  * Usage:
  *   node --max-old-space-size=8192 scripts/aggregate-pas2-to-edges.cjs          # dry-run
  *   node --max-old-space-size=8192 scripts/aggregate-pas2-to-edges.cjs --write
@@ -77,9 +89,10 @@ const FILES = [
     const filePath = path.join(FEC_ROOT, file);
     if (!fs.existsSync(filePath)) { console.log(`  (missing ${file})`); continue; }
 
-    // Aggregate by (src_cmte, cand, cycle).
+    // Aggregate by (src_cmte, dst, cycle).
     const agg = new Map();
     let scanned = 0, below = 0, unresolved = 0;
+    let resolvedViaOtherId = 0, resolvedViaCandId = 0;
     const rl = readline.createInterface({ input: fs.createReadStream(filePath) });
     for await (const line of rl) {
       if (!line.trim()) continue;
@@ -89,18 +102,36 @@ const FILES = [
       const amt = Number(r.amount) || 0;
       if (amt < MIN_AMOUNT) { below++; continue; }
       const src = cmteToEntity.get(r.src_cmte_id);
-      const dst = candIdToEntity.get(r.cand_id);
+      // Prefer other_id (recipient committee) over cand_id (candidate).
+      // other_id resolves to the actual receiving committee — more
+      // precise for politicians with multiple committees (campaign vs
+      // leadership PAC vs joint cmte) and disambiguates multi-bioguide
+      // edge cases the librarian surfaced.
+      let dst = null;
+      let resolvedVia = null;
+      if (r.other_id) {
+        dst = cmteToEntity.get(r.other_id) || null;
+        if (dst) { resolvedVia = 'other_id'; resolvedViaOtherId++; }
+      }
+      if (!dst && r.cand_id) {
+        dst = candIdToEntity.get(r.cand_id) || null;
+        if (dst) { resolvedVia = 'cand_id'; resolvedViaCandId++; }
+      }
       if (!src || !dst) { unresolved++; continue; }
       // Don't emit politician-self edges (campaign cmte → own candidate).
       if (src.name === dst.name) continue;
       const key = `${src.name}|${dst.name}|${r.cycle || ''}`;
-      const cur = agg.get(key) || { src, dst, cycle: r.cycle, amount: 0, count: 0, txnTypes: new Set() };
+      const cur = agg.get(key) || {
+        src, dst, cycle: r.cycle, amount: 0, count: 0,
+        txnTypes: new Set(), recipientCmteIds: new Set(),
+      };
       cur.amount += amt;
       cur.count += 1;
       if (r.txn_tp) cur.txnTypes.add(r.txn_tp);
+      if (r.other_id) cur.recipientCmteIds.add(r.other_id);
       agg.set(key, cur);
     }
-    console.log(`  ${file}: scanned=${scanned.toLocaleString()}, below=${below.toLocaleString()}, unresolved=${unresolved.toLocaleString()}, edges=${agg.size.toLocaleString()}`);
+    console.log(`  ${file}: scanned=${scanned.toLocaleString()}, below=${below.toLocaleString()}, unresolved=${unresolved.toLocaleString()}, edges=${agg.size.toLocaleString()} (resolved: other_id=${resolvedViaOtherId.toLocaleString()}, cand_id=${resolvedViaCandId.toLocaleString()})`);
     grandScanned += scanned;
 
     for (const a of agg.values()) {
@@ -120,6 +151,7 @@ const FILES = [
         evidence: [`FEC PAS2 ${role}, ${a.count} transactions, txn_tp=${[...a.txnTypes].join(',')}`],
         metadata: {
           src_cmte_id: a.src.signals?.fec_committee_id,
+          recipient_cmte_ids: [...a.recipientCmteIds],
           txn_count: a.count,
           txn_types: [...a.txnTypes],
         },

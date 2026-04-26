@@ -1432,7 +1432,7 @@
     {
       "bucket": "compounding",
       "what": "vault-audit: pipeline-janitor — 606 findings",
-      "why": "Zombie auto-blocks, stale enrichment, A+ audit checks on ready/verified profiles — Scanned 3237 profiles. 606 had issues.",
+      "why": "Zombie auto-blocks, stale enrichment, A+ audit checks on ready/verified profiles — Scanned 3238 profiles. 606 had issues.",
       "where": "/system-health",
       "cost_min": 60,
       "leverage": 3,
@@ -1474,7 +1474,7 @@
     {
       "bucket": "deciding",
       "what": "vault-audit: reconciliation-framework-tier-1 — 145 findings",
-      "why": "Data integrity: absurd-value frontmatter, self-loop edges, duplicates, orphans — 145 error, 8079 warn (8224 findings total).",
+      "why": "Data integrity: absurd-value frontmatter, self-loop edges, duplicates, orphans — 145 error, 9514 warn (9659 findings total).",
       "where": "/system-health",
       "cost_min": 45,
       "leverage": 4,
