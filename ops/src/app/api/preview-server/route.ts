@@ -95,6 +95,26 @@ async function isPortResponsive(): Promise<boolean> {
   }
 }
 
+// Read the last few non-blank lines of the Quartz build log so the UI
+// can show what the server is actively working on. Quartz prints
+// progress lines (e.g. "Parsed N markdown files") that are very
+// reassuring during a slow first build.
+function readLogTail(maxLines = 5): string[] {
+  try {
+    const raw = fs.readFileSync(LOG_FILE, "utf-8")
+    // ANSI codes from Quartz's progress output are noise here; strip.
+    // eslint-disable-next-line no-control-regex
+    const cleaned = raw.replace(/\[[0-9;]*[a-zA-Z]/g, "")
+    const lines = cleaned
+      .split(/\r?\n/)
+      .map((s) => s.trim())
+      .filter(Boolean)
+    return lines.slice(-maxLines)
+  } catch {
+    return []
+  }
+}
+
 async function getStatus() {
   const rec = readPidFile()
   const portUp = await isPortResponsive()
@@ -106,6 +126,7 @@ async function getStatus() {
       port: PREVIEW_PORT,
       pid: rec.pid,
       startedAt: rec.startedAt,
+      logTail: portUp ? [] : readLogTail(),
     }
   }
 
@@ -121,6 +142,7 @@ async function getStatus() {
     pid: null,
     startedAt: null,
     foreign: portUp, // running but not started by us
+    logTail: [],
   }
 }
 

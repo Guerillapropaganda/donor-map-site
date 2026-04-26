@@ -29,7 +29,14 @@ interface ServerStatus {
   pid: number | null
   startedAt: string | null
   foreign?: boolean
+  logTail?: string[]
 }
+
+// First-time Quartz builds against a 3,000+ profile vault routinely take
+// 5-10 minutes. Don't flag "stuck" until well past that — what we'd
+// rather show during the wait is log activity (see logTail), not a
+// scary "timed out" state. The threshold is for genuinely hung builds.
+const STUCK_THRESHOLD_MS = 15 * 60 * 1000 // 15 min
 
 interface Props {
   // Compact mode: smaller chip suitable for header bars. Default is the
@@ -91,7 +98,7 @@ export default function PreviewServerToggle({ compact = false, onStatusChange }:
   const stuckStarting =
     !!status?.starting &&
     !!startedAtRef.current &&
-    Date.now() - startedAtRef.current > 180_000 // 3 min
+    Date.now() - startedAtRef.current > STUCK_THRESHOLD_MS
 
   const start = async () => {
     if (busy) return
@@ -156,7 +163,11 @@ export default function PreviewServerToggle({ compact = false, onStatusChange }:
     actionLabel = "Reset"
   } else if (status.starting) {
     color = "#5b8dce"
-    label = "Starting…"
+    // Surface the latest line of Quartz output so the user can see the
+    // build is alive instead of guessing. Truncate aggressively for
+    // the compact chip.
+    const latest = status.logTail?.[status.logTail.length - 1]
+    label = latest ? `Building… ${latest.slice(0, 60)}` : "Starting…"
     action = "stop"
     actionLabel = "Cancel"
   } else if (status.running) {
@@ -200,15 +211,23 @@ export default function PreviewServerToggle({ compact = false, onStatusChange }:
 
   return (
     <div
-      className="flex items-center gap-3 rounded-lg px-4 py-2.5 border"
+      className="flex items-start gap-3 rounded-lg px-4 py-2.5 border"
       style={{ borderColor: `${color}40`, backgroundColor: `${color}10` }}
     >
-      <span className="w-2.5 h-2.5 rounded-full" style={{ backgroundColor: color }} />
-      <div className="flex-1">
+      <span className="w-2.5 h-2.5 rounded-full mt-1" style={{ backgroundColor: color }} />
+      <div className="flex-1 min-w-0">
         <div className="text-[10px] uppercase tracking-wider" style={{ color }}>
           Preview server
         </div>
         <div className="text-[11px] text-[var(--color-text)]">{label}</div>
+        {/* Live build output during startup — Quartz prints "Parsed N
+            markdown files" / "Filtered down to N slugs" / "Emitted N
+            files" lines so you can see real progress. */}
+        {status?.starting && status.logTail && status.logTail.length > 0 && (
+          <pre className="text-[9px] text-[var(--color-text-dim)] mt-1 font-mono whitespace-pre-wrap break-all max-h-20 overflow-y-auto">
+            {status.logTail.join("\n")}
+          </pre>
+        )}
         {error && <div className="text-[9px] text-[var(--color-red)] mt-0.5">{error}</div>}
       </div>
       {action === "start" && (
