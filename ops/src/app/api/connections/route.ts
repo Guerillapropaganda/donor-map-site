@@ -90,22 +90,23 @@ export async function GET() {
   try {
     const repoRoot = getRepoRoot()
 
-    // ROLLBACK 2026-04-26: cutover went live but produced empty data
-    // in the running dev server (UI showed 0 connections globally even
-    // though the offline parity check produced 156,934). Reverting
-    // default to legacy until I can reproduce the in-route failure.
-    // Set DONOR_MAP_LIBRARIAN_CONNECTIONS=1 to opt back into the
-    // librarian-backed path (still useful for diagnosis).
-    if (process.env.DONOR_MAP_LIBRARIAN_CONNECTIONS === "1") {
+    // ROLLBACK ESCAPE: if librarian misbehaves on a future canonical-
+    // store change, set DONOR_MAP_LEGACY_CONNECTIONS=1 to force the
+    // legacy walker. Default is librarian-backed.
+    if (process.env.DONOR_MAP_LEGACY_CONNECTIONS !== "1") {
       const result = buildConnectionsViaLibrarian(repoRoot)
-      if (!result) {
-        return NextResponse.json({ error: "librarian unavailable" }, { status: 503 })
+      if (result) {
+        cache = { data: result, timestamp: Date.now() }
+        return NextResponse.json(result)
       }
-      cache = { data: result, timestamp: Date.now() }
-      return NextResponse.json(result)
+      // Librarian load failed (returned null). Fall through to legacy
+      // — better to serve the old answer than a 503. This branch fires
+      // when the singleton refuses to cache an empty graph (canonical
+      // stores missing or unreadable).
+      console.error("[/api/connections] librarian builder returned null; falling back to legacy")
     }
 
-    // ─── Primary path (legacy, restored as default) ─────────────────
+    // Legacy path (fallback or explicit opt-in)
     const legacyResult = buildConnectionsLegacy(repoRoot)
     cache = { data: legacyResult, timestamp: Date.now() }
 
