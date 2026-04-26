@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: urgent
 status: open
-last-updated: '2026-04-24'
+last-updated: '2026-04-26'
 generated-by: scripts/lib/attention-queue.cjs
 ---
 
@@ -12,7 +12,7 @@ generated-by: scripts/lib/attention-queue.cjs
 
 *Auto-generated. Every script that finds something worth your time writes to this file.*
 
-**32** blocking · **54** editorial decisions · **38** background cleanup
+**32** blocking · **55** editorial decisions · **39** background cleanup
 
 ---
 
@@ -726,6 +726,15 @@ Nancy Pelosi shows up in the donor lists of 18 different Agriculture/HELP commit
 - **Leverage:** ★★★★☆
 - **Surfaced by:** `contradiction-miner`
 
+### vault-audit: duplicate-entity-profiles — 11 findings
+
+Two distinct vault profiles representing the same non-politician entity — donor/corporation/think-tank duplicates that the librarian sees as ambiguous and refuses to resolve. Detected via shared FEC committee_id, EIN, SEC CIK, or identical normalized name. Editorial cleanup needed. — 11 duplicate group(s) found. Editorial cleanup: pick canonical profile per group, archive the other(s).
+
+- **Where:** `/system-health`
+- **Cost:** ~30 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `vault-audit`
+
 ### Barbara Lee: climate vs. fossil fuels contradiction
 
 Barbara Lee lists "Environmental Protection" as a tracked issue, but their donor list includes PG&E - Pacific Gas and Electric. Document the dollar amounts and the dates of their public stance vs. the dates of the donations. The contradiction is the story.
@@ -782,7 +791,7 @@ Marcia Fudge has sponsored 14 bills in the "Agriculture and Food" policy area. T
 
 ### vault-audit: reconciliation-framework-tier-1 — 145 findings
 
-Data integrity: absurd-value frontmatter, self-loop edges, duplicates, orphans — 145 error, 7816 warn (7961 findings total).
+Data integrity: absurd-value frontmatter, self-loop edges, duplicates, orphans — 145 error, 8079 warn (8224 findings total).
 
 - **Where:** `/system-health`
 - **Cost:** ~45 min
@@ -945,6 +954,15 @@ Referenced by 10 other vault profiles but has no file yet. Building a stub unloc
 - **Cost:** ~10 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `missing-profile-detector`
+
+### vault-audit: pathless-stub-entities — 13 findings
+
+Ghost entity records with no profile_path (Bob Casey class) — discovery-scanner stubs shadowing real profiles. — 13 ghost stub(s): 0 politician(s), 13 donor(s). 31 legitimate pathless (industry blocs, PAC-only, etc.).
+
+- **Where:** `/system-health`
+- **Cost:** ~30 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `vault-audit`
 
 ### vault-audit: url-domain-policy — 121 findings
 
@@ -1137,7 +1155,7 @@ HMP is tagged dark-money-networked with capital_type=dark-money-vehicle. Total t
 
 ### vault-audit: pipeline-janitor — 606 findings
 
-Zombie auto-blocks, stale enrichment, A+ audit checks on ready/verified profiles — Scanned 3232 profiles. 606 had issues.
+Zombie auto-blocks, stale enrichment, A+ audit checks on ready/verified profiles — Scanned 3237 profiles. 606 had issues.
 
 - **Where:** `/system-health`
 - **Cost:** ~60 min

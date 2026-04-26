@@ -5,26 +5,39 @@
  * Systematic pass finding parent-affiliate committee pairs and wiring
  * them into entity signals + MANUAL_VEHICLE_MAP suggestions.
  *
+ * SEMANTIC RULE (post-2026-04-25 architecture fix):
+ *   `signals.fec_committee_ids` denotes committees that ARE the entity —
+ *   different cycle / state / building-fund accounts that share the
+ *   entity's legal identity. Money attributed to any ID in this array
+ *   counts as money to/from the entity.
+ *
+ *   It does NOT denote committees that merely declare the entity as
+ *   their `connected_org` in FEC committee-master. FEC's connected_org
+ *   field is overloaded — it's used by genuine subsidiaries AND by
+ *   committees that just share a treasurer/fundraising vendor with the
+ *   parent (Resolute Courage PAC declared Equality Project PAC as its
+ *   connected_org despite being a separate PAC). Treating connected_org
+ *   matches as identity-merge contaminated 39 entities and inflated
+ *   their money totals with funds that legally belong to other PACs.
+ *
  * Two signals used:
  *
- *   1. FEC committee-master.connected_org — the authoritative field
- *      where the committee declares its parent organization. NRA PVF
- *      has connected_org="NATIONAL RIFLE ASSOCIATION OF AMERICA";
- *      UDP has connected_org="AMERICAN ISRAEL PUBLIC AFFAIRS CMTE".
+ *   1. Name-stem match — "X Action Fund", "X Victory Fund",
+ *      "X Political Committee" are near-universal conventions for the
+ *      super-PAC or c4 arm of a parent org. STRONG identity signal —
+ *      writes to fec_committee_ids.
  *
- *   2. Name-suffix pattern matching — "X Action Fund", "X Victory
- *      Fund", "X Political Committee" are near-universal conventions
- *      for the super-PAC or c4 arm of a parent org.
+ *   2. FEC committee-master.connected_org — declares affiliation but
+ *      does NOT prove identity. WEAK signal — reported only, never
+ *      written to entity records. Surfaced in the MANUAL_VEHICLE_MAP
+ *      output for /ask vehicle-pooling at QUERY time, where the user
+ *      can opt in to "show me all money flowing through anything
+ *      affiliated with this org."
  *
- * For each vault entity that matches by fuzzy name to either:
- *   - a committee's connected_org, OR
- *   - a suffix-stripped committee name whose base matches the entity
- * add that committee to the entity's signals.fec_committee_ids array
- * and emit a recommendation row for the run summary.
- *
- * Output: two side-effects
- *   - Updates entities.jsonl (signals.fec_committee_ids)
- *   - Prints MANUAL_VEHICLE_MAP deltas to paste into route.ts
+ * Output:
+ *   - Updates entities.jsonl (signals.fec_committee_ids) — name-stem only
+ *   - Prints MANUAL_VEHICLE_MAP deltas — both signals
+ *   - Prints AFFILIATE-ONLY report — connected_org-only matches
  *
  * Usage:
  *   node scripts/auto-link-committee-affiliates.cjs             # dry-run
@@ -46,15 +59,23 @@ const REPORT = args.includes('--report');
 // Normalize a name for fuzzy matching. Strips common PAC suffixes so
 // "NRA PVF" and "National Rifle Association" collapse onto the same
 // stem. Case-folds, removes punctuation, collapses whitespace.
+// Iteratively strips trailing suffixes so "PFIZER INC. PAC" → "PFIZER"
+// (collapses both INC and PAC, not just one).
 function normalize(s) {
   if (!s) return '';
-  return s
+  let out = s
     .toUpperCase()
     .replace(/[.,'()]/g, ' ')
     .replace(/\s+POLITICAL\s+ACTION\s+COMMITTEE\b/g, '')
-    .replace(/\s+(PAC|PVF|ACTION\s+FUND|VICTORY\s+FUND|ACTION\s+COMMITTEE|ACTION|FUND|SUPER\s+PAC|C4|INC|LLC)\s*$/g, '')
     .replace(/\s+/g, ' ')
     .trim();
+  const SUFFIX = /\s+(PAC|PVF|ACTION\s+FUND|VICTORY\s+FUND|ACTION\s+COMMITTEE|ACTION|FUND|SUPER\s+PAC|C4|C5|INC|LLC|CORP|CORPORATION|CO|COMPANY|GROUP|GROUP\s+INC)\s*$/;
+  let prev;
+  do {
+    prev = out;
+    out = out.replace(SUFFIX, '').replace(/\s+/g, ' ').trim();
+  } while (out !== prev && out.length > 0);
+  return out;
 }
 
 (async function main() {
@@ -89,7 +110,8 @@ function normalize(s) {
   // Stream committee-master, look for parent matches
   console.log('  streaming committee-master...');
   const recommendations = []; // { cmte_id, cmte_name, parent_entity, via }
-  const byParent = new Map(); // entity_name → [{cmte_id, cmte_name}]
+  const byParent = new Map(); // entity_name → [{cmte_id, cmte_name}] (strong: name-stem)
+  const byParentAffiliate = new Map(); // entity_name → [{cmte_id, cmte_name}] (weak: connected_org-only)
   const rl = readline.createInterface({ input: fs.createReadStream(path.join(FEC_ROOT, 'committee-master.jsonl')) });
   for await (const line of rl) {
     if (!line.trim()) continue;
@@ -103,26 +125,44 @@ function normalize(s) {
     // committees via candidate-committee linkage.
     if (r.designation === 'P' || r.designation === 'A') continue;
 
-    let parent = null;
-    let via = null;
+    // Compute BOTH signals independently so we can distinguish strong
+    // (name-stem = identity) from weak (connected_org = affiliation).
+    let nameStemHit = null;
+    let connectedOrgHit = null;
 
-    // Path 1: connected_org match
-    if (r.connected_org) {
-      const normConn = normalize(r.connected_org);
-      const hit = entByNormName.get(normConn);
-      if (hit) { parent = hit; via = 'connected_org'; }
-    }
-
-    // Path 2: name-stem match (e.g. "Sierra Club Political Committee"
+    // Signal A: name-stem match (e.g. "Sierra Club Political Committee"
     // → "Sierra Club"). Only match if the stem is at least 6 chars
     // (avoid "NRA" matching all N-R-A-prefixed committees) and the
     // candidate committee name is LONGER than the entity name.
-    if (!parent) {
+    {
       const normCmte = normalize(r.name);
       if (normCmte.length >= 6 && normCmte !== r.name.toUpperCase().replace(/\s+/g, ' ').trim()) {
         const hit = entByNormName.get(normCmte);
-        if (hit && r.name.length > hit.name.length) { parent = hit; via = 'name-stem'; }
+        if (hit && r.name.length > hit.name.length) nameStemHit = hit;
       }
+    }
+
+    // Signal B: connected_org match
+    if (r.connected_org) {
+      const normConn = normalize(r.connected_org);
+      const hit = entByNormName.get(normConn);
+      if (hit) connectedOrgHit = hit;
+    }
+
+    // Decide via. Strong (writes to fec_committee_ids):
+    //   - name-stem match (with or without connected_org corroboration)
+    // Weak (affiliate-only — reported, NOT written to fec_committee_ids):
+    //   - connected_org match with NO name-stem match
+    let parent = null;
+    let via = null;
+    if (nameStemHit) {
+      parent = nameStemHit;
+      via = connectedOrgHit && connectedOrgHit.id === nameStemHit.id
+        ? 'name-stem+connected_org'
+        : 'name-stem';
+    } else if (connectedOrgHit) {
+      parent = connectedOrgHit;
+      via = 'connected_org-only';
     }
 
     if (!parent) continue;
@@ -137,6 +177,11 @@ function normalize(s) {
       designation: r.designation,
       via,
     });
+    if (via === 'connected_org-only') {
+      if (!byParentAffiliate.has(parent.name)) byParentAffiliate.set(parent.name, []);
+      byParentAffiliate.get(parent.name).push(r);
+      continue;
+    }
     if (!byParent.has(parent.name)) byParent.set(parent.name, []);
     byParent.get(parent.name).push(r);
   }
@@ -144,14 +189,30 @@ function normalize(s) {
   // Sort parents by number of affiliates found
   const parentsSorted = [...byParent.entries()].sort((a, b) => b[1].length - a[1].length);
 
-  console.log(`\nFound ${recommendations.length} new committee→parent mappings across ${parentsSorted.length} parent orgs\n`);
-  console.log(`Top 30 parents by affiliate count:`);
+  const affiliatesSorted = [...byParentAffiliate.entries()].sort((a, b) => b[1].length - a[1].length);
+  const strongCount = recommendations.filter((r) => r.via !== 'connected_org-only').length;
+  const weakCount = recommendations.filter((r) => r.via === 'connected_org-only').length;
+
+  console.log(`\nFound ${recommendations.length} new committee→parent mappings`);
+  console.log(`  STRONG (name-stem, will write to fec_committee_ids): ${strongCount} across ${parentsSorted.length} parents`);
+  console.log(`  WEAK   (connected_org-only, REPORT only):            ${weakCount} across ${affiliatesSorted.length} parents`);
+  console.log();
+  console.log(`Top 30 STRONG parents (writes to fec_committee_ids):`);
   for (const [parentName, cmtes] of parentsSorted.slice(0, 30)) {
     console.log(`  ${cmtes.length.toString().padStart(3)}  ${parentName}`);
     if (REPORT) {
       for (const c of cmtes.slice(0, 8)) {
         const via = recommendations.find((r) => r.cmte_id === c.id)?.via;
         console.log(`       ${c.id}  ${c.name}  [${via}]`);
+      }
+    }
+  }
+  if (affiliatesSorted.length) {
+    console.log(`\nTop 30 WEAK parents (connected_org-only — affiliate, NOT identity):`);
+    for (const [parentName, cmtes] of affiliatesSorted.slice(0, 30)) {
+      console.log(`  ${cmtes.length.toString().padStart(3)}  ${parentName}`);
+      if (REPORT) {
+        for (const c of cmtes.slice(0, 8)) console.log(`       ${c.id}  ${c.name}`);
       }
     }
   }

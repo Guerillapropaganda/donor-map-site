@@ -1432,12 +1432,12 @@
     {
       "bucket": "compounding",
       "what": "vault-audit: pipeline-janitor — 606 findings",
-      "why": "Zombie auto-blocks, stale enrichment, A+ audit checks on ready/verified profiles — Scanned 3232 profiles. 606 had issues.",
+      "why": "Zombie auto-blocks, stale enrichment, A+ audit checks on ready/verified profiles — Scanned 3237 profiles. 606 had issues.",
       "where": "/system-health",
       "cost_min": 60,
       "leverage": 3,
       "source": "vault-audit",
-      "created": "2026-04-24",
+      "created": "2026-04-26",
       "metadata": {
         "check": "pipeline-janitor",
         "findings_count": 606
@@ -1451,7 +1451,7 @@
       "cost_min": 45,
       "leverage": 5,
       "source": "vault-audit",
-      "created": "2026-04-24",
+      "created": "2026-04-26",
       "metadata": {
         "check": "type-specific-a-plus",
         "findings_count": 1322
@@ -1465,7 +1465,7 @@
       "cost_min": 30,
       "leverage": 2,
       "source": "vault-audit",
-      "created": "2026-04-24",
+      "created": "2026-04-26",
       "metadata": {
         "check": "url-domain-policy",
         "findings_count": 121
@@ -1474,12 +1474,12 @@
     {
       "bucket": "deciding",
       "what": "vault-audit: reconciliation-framework-tier-1 — 145 findings",
-      "why": "Data integrity: absurd-value frontmatter, self-loop edges, duplicates, orphans — 145 error, 7816 warn (7961 findings total).",
+      "why": "Data integrity: absurd-value frontmatter, self-loop edges, duplicates, orphans — 145 error, 8079 warn (8224 findings total).",
       "where": "/system-health",
       "cost_min": 45,
       "leverage": 4,
       "source": "vault-audit",
-      "created": "2026-04-24",
+      "created": "2026-04-26",
       "metadata": {
         "check": "reconciliation-framework-tier-1",
         "findings_count": 145
@@ -1493,7 +1493,7 @@
       "cost_min": 5,
       "leverage": 2,
       "source": "vault-audit",
-      "created": "2026-04-24",
+      "created": "2026-04-26",
       "metadata": {
         "check": "leftover-artifacts",
         "findings_count": 1
@@ -1507,7 +1507,7 @@
       "cost_min": 60,
       "leverage": 3,
       "source": "vault-audit",
-      "created": "2026-04-24",
+      "created": "2026-04-26",
       "metadata": {
         "check": "frontmatter-schema",
         "findings_count": 232
@@ -1521,10 +1521,38 @@
       "cost_min": 5,
       "leverage": 5,
       "source": "vault-audit",
-      "created": "2026-04-24",
+      "created": "2026-04-26",
       "metadata": {
         "check": "dispatcher-alive",
         "findings_count": 1
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "vault-audit: pathless-stub-entities — 13 findings",
+      "why": "Ghost entity records with no profile_path (Bob Casey class) — discovery-scanner stubs shadowing real profiles. — 13 ghost stub(s): 0 politician(s), 13 donor(s). 31 legitimate pathless (industry blocs, PAC-only, etc.).",
+      "where": "/system-health",
+      "cost_min": 30,
+      "leverage": 3,
+      "source": "vault-audit",
+      "created": "2026-04-26",
+      "metadata": {
+        "check": "pathless-stub-entities",
+        "findings_count": 13
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "vault-audit: duplicate-entity-profiles — 11 findings",
+      "why": "Two distinct vault profiles representing the same non-politician entity — donor/corporation/think-tank duplicates that the librarian sees as ambiguous and refuses to resolve. Detected via shared FEC committee_id, EIN, SEC CIK, or identical normalized name. Editorial cleanup needed. — 11 duplicate group(s) found. Editorial cleanup: pick canonical profile per group, archive the other(s).",
+      "where": "/system-health",
+      "cost_min": 30,
+      "leverage": 4,
+      "source": "vault-audit",
+      "created": "2026-04-26",
+      "metadata": {
+        "check": "duplicate-entity-profiles",
+        "findings_count": 11
       }
     }
   ],
