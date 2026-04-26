@@ -1473,34 +1473,6 @@
     },
     {
       "bucket": "deciding",
-      "what": "vault-audit: reconciliation-framework-tier-1 — 145 findings",
-      "why": "Data integrity: absurd-value frontmatter, self-loop edges, duplicates, orphans — 145 error, 9514 warn (9659 findings total).",
-      "where": "/system-health",
-      "cost_min": 45,
-      "leverage": 4,
-      "source": "vault-audit",
-      "created": "2026-04-26",
-      "metadata": {
-        "check": "reconciliation-framework-tier-1",
-        "findings_count": 145
-      }
-    },
-    {
-      "bucket": "compounding",
-      "what": "vault-audit: leftover-artifacts — 1 finding",
-      "why": "Transient files (dedup .bak, temp, stray logs) not gitignored — commit-scope risk + disk cruft — 1 transient file(s) not gitignored (dedup backups, temp files, stray logs)",
-      "where": "/system-health",
-      "cost_min": 5,
-      "leverage": 2,
-      "source": "vault-audit",
-      "created": "2026-04-26",
-      "metadata": {
-        "check": "leftover-artifacts",
-        "findings_count": 1
-      }
-    },
-    {
-      "bucket": "deciding",
       "what": "vault-audit: frontmatter-schema — 232 findings",
       "why": "Frontmatter schema violations per ADR-0023 (universal/type-required/proposed-required/retired) — 2943 scanned, 1689 with violations. 232 error(s) (universal/type-required/id/retired/unknown-type), 3082 info (proposed-required backfill per ADR-0023 Phase C/D).",
       "where": "/system-health",

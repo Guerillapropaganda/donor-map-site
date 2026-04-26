@@ -12,7 +12,7 @@ generated-by: scripts/lib/attention-queue.cjs
 
 *Auto-generated. Every script that finds something worth your time writes to this file.*
 
-**32** blocking · **55** editorial decisions · **39** background cleanup
+**32** blocking · **54** editorial decisions · **38** background cleanup
 
 ---
 
@@ -789,15 +789,6 @@ Marcia Fudge has sponsored 14 bills in the "Agriculture and Food" policy area. T
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `contradiction-miner`
 
-### vault-audit: reconciliation-framework-tier-1 — 145 findings
-
-Data integrity: absurd-value frontmatter, self-loop edges, duplicates, orphans — 145 error, 9514 warn (9659 findings total).
-
-- **Where:** `/system-health`
-- **Cost:** ~45 min
-- **Leverage:** ★★★★☆
-- **Surfaced by:** `vault-audit`
-
 ### vault-audit: frontmatter-schema — 232 findings
 
 Frontmatter schema violations per ADR-0023 (universal/type-required/proposed-required/retired) — 2943 scanned, 1689 with violations. 232 error(s) (universal/type-required/id/retired/unknown-type), 3082 info (proposed-required backfill per ADR-0023 Phase C/D).
@@ -900,15 +891,6 @@ Referenced by 18 other vault profiles but has no file yet. Building a stub unloc
 - **Cost:** ~10 min
 - **Leverage:** ★★★★☆
 - **Surfaced by:** `missing-profile-detector`
-
-### vault-audit: leftover-artifacts — 1 finding
-
-Transient files (dedup .bak, temp, stray logs) not gitignored — commit-scope risk + disk cruft — 1 transient file(s) not gitignored (dedup backups, temp files, stray logs)
-
-- **Where:** `/system-health`
-- **Cost:** ~5 min
-- **Leverage:** ★★☆☆☆
-- **Surfaced by:** `vault-audit`
 
 ### Build stub: Google
 
