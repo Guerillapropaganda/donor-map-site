@@ -1,6 +1,7 @@
 "use client"
 
 import { useState, useEffect, useCallback } from "react"
+import HarnessChip from "@/components/HarnessChip"
 
 // --- Types ---
 
@@ -264,12 +265,20 @@ export default function OperationsPage() {
             Security posture, costs, and service accounts
           </p>
         </div>
-        <button
-          onClick={() => setShowAddForm(!showAddForm)}
-          className="px-3 py-1.5 text-[10px] font-bold border border-[var(--color-border)] hover:border-[var(--color-steel)] hover:text-[var(--color-steel)] transition-colors"
-        >
-          + ADD
-        </button>
+        <div className="flex items-center gap-3">
+          {/* Ambient harness freshness chip — added per ops-harness-audit-2026-04-24
+              follow-up #2. /operations is daily-use; surfacing the harness
+              age here means a stale dispatcher won't silently mask a bad
+              vault state in the background while David is reviewing
+              security/cost/service entries. */}
+          <HarnessChip />
+          <button
+            onClick={() => setShowAddForm(!showAddForm)}
+            className="px-3 py-1.5 text-[10px] font-bold border border-[var(--color-border)] hover:border-[var(--color-steel)] hover:text-[var(--color-steel)] transition-colors"
+          >
+            + ADD
+          </button>
+        </div>
       </div>
 
       {/* Tab bar */}

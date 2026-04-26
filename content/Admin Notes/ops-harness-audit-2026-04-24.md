@@ -1,5 +1,7 @@
 ---
-status: open
+status: closed
+closed: 2026-04-25
+closed-reason: Both resolution criteria satisfied. /signoff-queue rewired to read live harness data via type-specific-a-plus.data.passing (commit 04af81432). /operations got the HarnessChip (this commit). Follow-up #1 done in same session. Follow-ups #3 (audit /pipelines for stamp drift) and #4 (consolidate /system-health controls) split out as separate work.
 tags: [ops, harness, audit, code-claude]
 date: 2026-04-24
 author: Code Claude
