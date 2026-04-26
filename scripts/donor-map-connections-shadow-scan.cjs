@@ -39,17 +39,30 @@ const tsScript = `
       default: return null
     }
   }
-  function flipForLegacy(edge: Edge): { source: string; target: string; sourceId: string; targetId: string } {
+  // NB: source/target use the librarian's CANONICAL NAME (resolved via
+  // from_id/to_id), not the raw edge string. Without this, aliased
+  // committee names like "ANDY BARR FOR SENATE, INC." get phantom
+  // perProfile keys instead of folding onto "Andy Barr". The same
+  // class of bug the librarian was built to prevent on the cache side.
+  function flipForLegacy(edge: Edge, canonicalNameById: Map<string, string>): { source: string; target: string; sourceId: string; targetId: string } {
+    const fromName = canonicalNameById.get(edge.from_id) ?? edge.from_raw
+    const toName = canonicalNameById.get(edge.to_id) ?? edge.to_raw
     if (edge.type === "monetary") {
-      return { source: edge.to_raw, target: edge.from_raw, sourceId: edge.to_id, targetId: edge.from_id }
+      return { source: toName, target: fromName, sourceId: edge.to_id, targetId: edge.from_id }
     }
-    return { source: edge.from_raw, target: edge.to_raw, sourceId: edge.from_id, targetId: edge.to_id }
+    return { source: fromName, target: toName, sourceId: edge.from_id, targetId: edge.to_id }
   }
 
   const t0 = Date.now()
   const g = Graph.load()
   const stats = g.stats()
   process.stderr.write(\`librarian loaded: \${stats.nodes} nodes, \${stats.edges} edges (\${((Date.now()-t0)/1000).toFixed(2)}s)\\n\`)
+
+  // Canonical-name lookup for ALL nodes — flipForLegacy needs it to
+  // translate raw edge strings to the librarian's canonical name even
+  // for non-profile counterparties.
+  const canonicalNameById = new Map<string, string>()
+  for (const n of g.resolver.allNodes()) canonicalNameById.set(n.id, n.name)
 
   const profileNodeIds = new Set<string>()
   const titleByNodeId = new Map<string, string>()
@@ -81,7 +94,7 @@ const tsScript = `
       seenEdgeIds.add(edge.id)
       const legacy = mapToLegacyType(edge.type)
       if (!legacy || legacy === "contracts") { skippedNonLegacyType++; continue }
-      const { source, target, sourceId, targetId } = flipForLegacy(edge)
+      const { source, target, sourceId, targetId } = flipForLegacy(edge, canonicalNameById)
       if (!profileNodeIds.has(sourceId)) { skippedSourceNotProfile++; continue }
       breakdown[legacy] += 1
       totalConnections += 1
