@@ -418,6 +418,14 @@ function validateEdge(edge, ctx = {}) {
     }
   }
 
+  // 7b. Self-loop rejection (added 2026-04-25). Inflates leaderboards
+  // and indicates an aggregation bug — a politician's PAC paid the
+  // politician's own entity, an employer's employees got attributed to
+  // the employer, etc. No edge type has a meaningful from===to case.
+  if (typeof edge.from === 'string' && typeof edge.to === 'string' && edge.from === edge.to) {
+    errors.push(`self-loop: from === to ("${edge.from}") — not a meaningful edge`);
+  }
+
   // 8. Confidence range
   if (typeof edge.confidence !== 'number' || Number.isNaN(edge.confidence)) {
     errors.push(`confidence: must be a number, got ${typeof edge.confidence}`);

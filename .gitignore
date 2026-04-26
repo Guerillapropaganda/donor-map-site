@@ -62,3 +62,7 @@ data/derived/*.dedupd-state
 data/*.bak
 data/*.bak-*
 data/*.dedupd-state
+
+# Local backup script log — written by scripts/backup/backup.* scripts;
+# noisy and machine-local, not source of truth.
+scripts/backup/backup.log
