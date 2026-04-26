@@ -354,6 +354,10 @@ export default function RelationshipsPage() {
     interface ForceNode extends SimulationNodeDatum {
       id: string; name: string; relType: "related" | "donors" | "opposes" | "stories"
       entityType: string; bothSides: boolean; hasNote: boolean
+      // Whether a real vault profile exists for this name. Stub nodes
+      // (referenced from someone else's frontmatter but no file yet) are
+      // dimmed and unclickable — clicking them did nothing silently.
+      hasProfile: boolean
     }
     const types = ["donors", "related", "opposes", "stories"] as const
     const nameTypes = new Map<string, { types: Set<string>; originalName: string }>()
@@ -373,6 +377,13 @@ export default function RelationshipsPage() {
     // the most informative neighbors when capping).
     const connCountByNorm = new Map<string, number>()
     for (const tp of topConnected) connCountByNorm.set(norm(tp.title), tp.connectionCount || 0)
+
+    // Profile-existence lookup so we can mark stub nodes (relationship
+    // edges pointing at a name with no profile in the vault) and
+    // distinguish them visually + behaviorally from real ones.
+    const profileByNorm = new Set<string>()
+    for (const p of profiles) profileByNorm.add(norm(p.title))
+    for (const tp of topConnected) profileByNorm.add(norm(tp.title))
 
     interface ScoredNode extends ForceNode {
       score: number
@@ -400,6 +411,7 @@ export default function RelationshipsPage() {
         entityType: et,
         bothSides: bs,
         hasNote: !!relationNotes[noteKey]?.note,
+        hasProfile: profileByNorm.has(normalizedName),
         score,
       })
     }
@@ -415,7 +427,7 @@ export default function RelationshipsPage() {
     const nodes: ForceNode[] = visible.map(({ score: _s, ...n }) => n)
 
     // Center node
-    const centerNode: ForceNode = { id: "__center__", name: selected.title, relType: "related", entityType: selected.type, bothSides: false, hasNote: false }
+    const centerNode: ForceNode = { id: "__center__", name: selected.title, relType: "related", entityType: selected.type, bothSides: false, hasNote: false, hasProfile: true }
     nodes.unshift(centerNode)
 
     // Links: every node connects to center
@@ -482,7 +494,11 @@ export default function RelationshipsPage() {
     const nodeEls = nodeGroup.selectAll<SVGGElement, ForceNode>("g")
       .data(nodes)
       .join("g")
-      .attr("cursor", "pointer")
+      // Stub nodes (no real profile in the vault) are visually muted
+      // and use the help cursor — they're shown for graph completeness
+      // but clicking does nothing. Real nodes get the click affordance.
+      .attr("cursor", d => d.hasProfile ? "pointer" : "help")
+      .attr("opacity", d => d.hasProfile ? 1 : 0.45)
 
     // Dual-layer nodes:
     //   Inner fill + stroke = entity type (what it IS: politician, donor, think-tank)
@@ -574,7 +590,7 @@ export default function RelationshipsPage() {
       .attr("font-size", "10px")
       .attr("font-weight", "bold")
       .attr("font-family", "ui-monospace, monospace")
-      .text(d => d.name)
+      .text(d => d.hasProfile ? d.name : `${d.name}  ·  no profile yet`)
       .each(function () {
         const bbox = (this as SVGTextElement).getBBox()
         const rect = select(this.parentNode as Element).select("rect")
@@ -603,8 +619,11 @@ export default function RelationshipsPage() {
         setHoveredNode(null)
       })
 
-    // Click to navigate
-    nodeEls.filter(d => d.id !== "__center__")
+    // Click to navigate. Only attached to nodes that have a real
+    // profile — stub nodes (relationship targets without a vault file
+    // yet) get neither the cursor affordance nor the click effect, so
+    // they don't feel broken when clicked.
+    nodeEls.filter(d => d.id !== "__center__" && d.hasProfile)
       .on("click", (event, d) => {
         const target = norm(d.name)
         const tp = topConnected.find(t => norm(t.title) === target) || profiles.find(p => norm(p.title) === target)
