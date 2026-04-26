@@ -1,7 +1,7 @@
 ---
 title: Robert P. Bresnahan
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Republican
@@ -23,6 +23,8 @@ known-gaps:
   - No mapped relationships
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 committees:
   - Aviation
   - Commodity Markets, Digital Assets, and Rural Development
@@ -37,7 +39,12 @@ committees:
 bills-sponsored: 16
 corroboration-count: 2
 top-donors: "[[Kevin McCarthy]], [[BOST, MICHAEL]], [[Williams Companies]], [[CLIFF BENTZ FOR CONGRESS]], [[BRANDON GILL FOR TEXAS]], [[RICK W. ALLEN FOR CONGRESS]], [[MCDOWELL FOR CONGRESS]], [[Neal P. Dunn]], [[PETE SESSIONS FOR CONGRESS]], [[Dale W. Strong]], [[WEBER FOR CONGRESS]], [[Michael R. Turner]], [[NRA Political Victory Fund]], [[Mark B. Messmer]], [[Rick Crawford]], [[FEDORCHAK FOR ND]], [[Mike Johnson]], [[GARY PALMER FOR CONGRESS]], [[Clay Higgins]], [[Google - Alphabet]], [[MIKE HARIDOPOLOS FOR CONGRESS]], [[ANDY HARRIS FOR CONGRESS]], [[Tim Walberg]], [[Koch Industries]], [[Guy Reschenthaler]], [[Jimmy Patronis]], [[DR JOHN JOYCE FOR CONGRESS]], [[JOE WILSON FOR CONGRESS]], [[John J. McGuire]], [[Tom Emmer]], [[NATHANIEL MORAN FOR CONGRESS]], [[MARK ALFORD FOR CONGRESS, INC.]], [[Frank Lucas]], [[Club for Growth INC PAC]], [[Freedom's Defense Fund]], [[Lloyd Smucker]], [[JAKE ELLZEY FOR CONGRESS]], [[MARK GREEN FOR CONGRESS]], [[Carol D. Miller]], [[JIM JORDAN FOR CONGRESS]], [[Mariannette Miller-Meeks]], [[SCOTT FRANKLIN FOR CONGRESS]], [[HOUCHIN FOR CONGRESS]], [[KUSTOFF FOR CONGRESS]], [[AIPAC - American Israel Public Affairs Committee]], [[BURGESS 4 UTAH]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Kevin Kiley]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[TROY DOWNING FOR CONGRESS]], [[BURCHETT FOR CONGRESS]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[Associated General Contractors of America Political Action Committee]], [[CARLOS GIMENEZ FOR CONGRESS]], [[Robert E. Latta]], [[Pat Fallon]], [[RON ESTES FOR CONGRESS]], [[Brett Guthrie]], [[Glenn Thompson]], [[COMER FOR CONGRESS]], [[Gregory F. Murphy]], [[Brandon Gill]], [[David P. Joyce]], [[Jeff Hurd]], [[ROBERT ADERHOLT FOR CONGRESS]], [[MIKE KENNEDY FOR UTAH]], [[BLAKE MOORE FOR CONGRESS]], [[Dan Newhouse]], [[Earl L. Buddy Carter]], [[H. Morgan Griffith]], [[DAVID ROUZER FOR CONGRESS]], [[CELESTE FOR CONGRESS]], [[Daniel Meuser]], [[Ashley Hinson]], [[Hunter Action Fund (haf)]], [[DAVE TAYLOR FOR CONGRESS]], [[Robert F. Onder]], [[HAGEMAN FOR WYOMING]], [[Michael Guest]], [[KEVIN KILEY FOR CONGRESS]], [[FRIENDS OF TIM MOORE]], [[Republican Jewish Coalition]], [[National Cattlemen's Beef Association]], [[LISA MCCLAIN FOR CONGRESS]], [[MIKE COLLINS FOR SENATE]], [[NEHLS FOR CONGRESS]], [[Steve Scalise]], [[MOORE FOR WEST VIRGINIA, INC.]], [[Gus M. Bilirakis]], [[Pfizer Inc.]], [[BEN CLINE FOR CONGRESS, INC.]], [[Elise Stefanik]], [[DR. BRIAN BABIN FOR CONGRESS]], [[BRAD KNOTT FOR CONGRESS]], [[Cliff Bentz]], [[John Joyce]], [[Erin Houchin]], [[Blake D. Moore]], [[Lisa C. McClain]], [[Andy Harris]], [[Mike Collins]], [[Troy Downing]], [[Nathaniel Moran]], [[Carlos Gimenez]], [[Mike Bost]], [[Tim Burchett]], [[Scott Franklin]], [[Jake Ellzey]], [[Julie Fedorchak]], [[Robert B. Aderholt]], [[Pete Sessions]], [[Joe Wilson]], [[Burgess Owens]], [[Mike Haridopolos]], [[Gary J. Palmer]], [[Troy E. Nehls]], [[Jim Jordan]], [[Tim Moore]], [[Mark Green]], [[David Kustoff]], [[Brad Knott]], [[James Comer]], [[Brian Babin]], [[David Rouzer]], [[Celeste Maloy]], [[Randy K. Weber]], [[Addison P. McDowell]], [[Harriet M. Hageman]], [[Ron Estes]], [[Rick W. Allen]], [[David J. Taylor]], [[Mike Kennedy]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -52,8 +59,24 @@ top-donors: "[[Kevin McCarthy]], [[BOST, MICHAEL]], [[Williams Companies]], [[CL
 
 **Party:** Republican · **Chamber:** House · **State:** Pennsylvania
 **Bioguide ID:** `B001327`
+**FEC candidate ID:** `H4PA08124`
 
 **Total received:** —
+
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Koch Industries | $30,000 |
+| Associated General Contractors of America Political Action Committee | $15,000 |
+| National Cattlemen's Beef Association | $10,000 |
+| Daniel Meuser | $8,500 |
+| Tim Walberg | $8,000 |
+| Steve Scalise | $8,000 |
+| Republican Jewish Coalition | $7,000 |
+| Williams Companies | $7,000 |
+| Google - Alphabet | $6,000 |
+| Tom Emmer | $6,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -1,7 +1,7 @@
 ---
 title: French Hill
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: French Hill exists to translate Wall Street's regulatory wish list into committee action. His entire professional biography , commercial banking analyst, Senate Banking Committee staffer, Treasury Department official, community bank founder and CE...
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
@@ -32,9 +32,15 @@ donors: "[[Citigroup]] · [[Bank of America]] · [[Coinbase]] · [[Goldman Sachs
 related: "[[The Wall Street Senator - Finance Industry Alignment]] · [[Goldman Sachs]] · [[Fairshake PAC]] · [[Crypto Industry Bloc]] · [[Marc Andreessen & Horowitz]] · [[FTX - Sam Bankman-Fried]] · [[The Financial Services Committee and Wall Street Oversight]] · [[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]]"
 needs-reenrichment: true
 reenrich-reason: run congress pipeline; run pipelines
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 last-enriched: 2026-04-20
 ---
+
+
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: Valinor Enterprises
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-09T00:00:00.000Z
 source-tier: 2
 parent: null
@@ -11,6 +11,8 @@ politicians-funded: "[[JD Vance]], [[ActBlue]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "no lda ID resolved for this profile — either resolve ID upstream then run `node scripts/ingest-lda-bulk.cjs`, or demote to draft (admits no LDA coverage)"
 source-types:
   - FEC
   - USASpending
@@ -25,7 +27,12 @@ employee-contributions: 2
 employee-contributions-total: 800
 employee-donor-count: 1
 corroboration-count: 2
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 

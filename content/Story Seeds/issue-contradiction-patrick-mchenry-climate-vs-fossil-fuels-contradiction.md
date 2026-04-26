@@ -3,14 +3,14 @@ title: "Patrick McHenry: climate vs. fossil fuels contradiction"
 type: story-seed
 seed-type: issue-contradiction
 confidence: 3
-last-updated: '2026-04-24'
+last-updated: '2026-04-26'
 auto-generated: true
 status: unclaimed
 ---
 
 # Patrick McHenry: climate vs. fossil fuels contradiction
 
-_Confidence: ★★★☆☆ · Surfaced by contradiction-miner on 2026-04-24_
+_Confidence: ★★★☆☆ · Surfaced by contradiction-miner on 2026-04-26_
 
 ## The angle
 

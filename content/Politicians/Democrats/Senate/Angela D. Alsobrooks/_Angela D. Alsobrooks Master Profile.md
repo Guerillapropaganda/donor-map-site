@@ -1,7 +1,7 @@
 ---
 title: Angela D. Alsobrooks
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Democrat
@@ -22,6 +22,8 @@ known-gaps:
   - No mapped relationships
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 committees:
   - Education and the American Family
   - Employment and Workplace Safety
@@ -37,7 +39,12 @@ committees:
 bills-sponsored: 24
 corroboration-count: 2
 top-donors: "[[NEA Advocacy Fund]], [[Amgen Inc]], [[Giffords PAC]], [[Meta - Facebook]], [[Working Families Party PAC]], [[National Education Association]], [[WARNOCK FOR GEORGIA]], [[League of Conservation Voters]], [[Glenn Ivey]], [[AbbVie]], [[National Nurses United]], [[JASMINE FOR US]], [[WARREN FOR SENATE, INC.]], [[John Fetterman]], [[Yvette D. Clarke]], [[Protecting Our Vote Pac]], [[Let America Vote PAC]], [[Pfizer Inc.]], [[Sierra Club Political Committee]], [[Save America PAC]], [[J Street]], [[Democratic Senatorial Campaign Committee]], [[National Nurses United for Patient Protection]], [[Chris Murphy]], [[James E. Clyburn]], [[NANCY PELOSI FOR CONGRESS]], [[Steny H. Hoyer]], [[Google - Alphabet]], [[Demand Justice]], [[CHRISSY HOULAHAN FOR CONGRESS]], [[Coinbase]], [[Planned Parenthood Action Fund INC]], [[Gilead Sciences]], [[Jasmine Crockett]], [[Raphael Warnock]], [[Hakeem Jeffries]], [[Nancy Pelosi]], [[Chrissy Houlahan]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -54,6 +61,21 @@ top-donors: "[[NEA Advocacy Fund]], [[Amgen Inc]], [[Giffords PAC]], [[Meta - Fa
 **Bioguide ID:** `A000382`
 
 **Total received:** —
+
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Democratic Senatorial Campaign Committee | $1,217,625 |
+| J Street | $57,800 |
+| League of Conservation Voters | $9,500 |
+| Pfizer Inc. | $9,000 |
+| Demand Justice | $7,500 |
+| Let America Vote PAC | $6,500 |
+| Meta - Facebook | $6,000 |
+| National Nurses United | $5,000 |
+| National Education Association | $5,000 |
+| Planned Parenthood Action Fund INC | $4,782 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -1,20 +1,28 @@
 ---
 title: "Robin Hood Foundation"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18
 sector: "Wall Street"
 entity-type: "Donor-Collaborative"
 ein: "133441066"
 nonprofit-status: "501(c)(3)"
 source-tier: 1
-internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. NYC-focused anti-poverty foundation funded heavily by Wall Street hedge fund capital. Board historically dominated by finance-industry leadership. Narrative pending Research Claude editorial pass."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. NYC-focused anti-poverty foundation funded heavily by Wall Street hedge fund capital. Board historically dominated by finance-industry leadership. Narrative pending Research Claude editorial pass."
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
   - "No mapped relationships"
 last-enriched: 2026-04-21
+needs-reenrichment: true
+reenrich-reason: "no fec-committee-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 ---
+
+
 
 
 
@@ -81,16 +89,53 @@ last-enriched: 2026-04-21
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 9 (2018–2024)
 
-**Grants received (2018–2024):** $103.5M across 10 grantors (from other vault orgs' Schedule I records).
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $183.0M |
+| Total expenses | — |
+| Total assets (EOY) | $334.5M |
+| Grants paid out | $126.3M |
+
+**Lifetime grants out (2018–2024):** $829.0M across 1,099 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| UKA Facilities Foundation Inc | $57.0M | 2 | 2018–2019 |
+| Single Stop USA Inc | $19.4M | 2 | 2018–2019 |
+| RESEARCH FOUNDATION OF CITY UNIVERSITY OF NEW YORK | $16.7M | 3 | 2022–2024 |
+| THE FUND FOR PUBLIC SCHOOLS INC | $14.8M | 4 | 2020–2024 |
+| MAYOR'S FUND TO ADVANCE NEW YORK CITY | $11.5M | 3 | 2020–2023 |
+| TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK | $10.6M | 5 | 2020–2024 |
+| CHILDREN'S AID SOCIETY | $9.9M | 4 | 2020–2024 |
+| KIPP NEW YORK | $9.3M | 4 | 2020–2024 |
+| HARLEM CHILDREN'S ZONE INC | $8.7M | 4 | 2020–2024 |
+| CENTER FOR URBAN COMMUNITY SERVICES INC | $8.0M | 4 | 2020–2024 |
+| BENEFITS DATA TRUST | $7.9M | 3 | 2020–2023 |
+| ACHIEVEMENT FIRST | $7.8M | 4 | 2020–2024 |
+| GOOD SHEPHERD SERVICES | $7.7M | 4 | 2020–2024 |
+| LEAP INC | $7.6M | 4 | 2020–2024 |
+| SUCCESS ACADEMY CHARTER NETWORK INC | $6.3M | 4 | 2020–2024 |
+| FUND FOR THE CITY OF NEW YORK | $6.3M | 4 | 2020–2024 |
+| MONTEFIORE MEDICAL CENTER | $5.7M | 4 | 2020–2024 |
+| NEW YORK CITY HEALTH AND HOSPITALS CORPORATION | $5.5M | 4 | 2020–2024 |
+| KIPP New York | $5.4M | 2 | 2018–2019 |
+| SCO FAMILY OF SERVICES | $5.3M | 4 | 2020–2024 |
+
+**Grants received (2018–2024):** $110.7M across 10 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
 | NATIONAL PHILANTHROPIC TRUST | $56.7M | 6 | 2018–2023 |
-| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $34.9M | 5 | 2019–2023 |
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $42.1M | 6 | 2019–2023 |
 | SCHWAB CHARITABLE FUND | $5.2M | 7 | 2018–2024 |
 | Goldman Sachs Philanthropy Fund | $2.2M | 5 | 2018–2024 |
 | Vanguard Charitable Endowment Program | $2.1M | 3 | 2021–2023 |

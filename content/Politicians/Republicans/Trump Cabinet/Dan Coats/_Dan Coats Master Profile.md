@@ -1,7 +1,7 @@
 ---
 title: Dan Coats
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Republican
@@ -14,9 +14,18 @@ source-types:
   - FEC
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage); no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage); no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)"
 corroboration-count: 2
 top-donors: "[[Pfizer Inc.]], [[Nucor Corporation]], [[Senate Majority PAC]], [[Occidental Petroleum]], [[Anthem - Elevance Health Political Operation]], [[National Cattlemen's Beef Association]], [[Humana]], [[National Republican Senatorial Committee]], [[Amgen Inc]], [[National Right to Life PAC]], [[ADM - Archer Daniels Midland]], [[Associated General Contractors of America Political Action Committee]], [[Koch Industries]], [[Republican Jewish Coalition]], [[English Language Political Action Committee]], [[Cargill]], [[Meta - Facebook]], [[Google - Alphabet]], [[Leidos]], [[Monsanto - Bayer]], [[Campaign for Working Families]], [[Akin Gump Strauss Hauer & Feld]], [[McDonalds Corporation]], [[National Restaurant Association]], [[GEO Group - Private Prison Industrial Complex]], [[American Iron and Steel Institute]], [[Southern Company]], [[Citigroup]], [[NRA Political Victory Fund]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -30,8 +39,24 @@ top-donors: "[[Pfizer Inc.]], [[Nucor Corporation]], [[Senate Majority PAC]], [[
 <!-- tier: paid -->
 
 **Party:** Republican · **Chamber:** Director of National Intelligence (2017-2019)
+**FEC candidate ID:** `S0IN00053`
 
 **Total received:** —
+
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| National Republican Senatorial Committee | $951,804 |
+| Todd Young | $459,255 |
+| Associated General Contractors of America Political Action Committee | $29,000 |
+| Pfizer Inc. | $20,000 |
+| NRA Political Victory Fund | $18,850 |
+| National Restaurant Association | $17,000 |
+| Amgen Inc | $16,000 |
+| ADM - Archer Daniels Midland | $16,000 |
+| Republican Jewish Coalition | $15,000 |
+| Monsanto - Bayer | $12,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -1,20 +1,28 @@
 ---
 title: "Proteus Fund"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18
 sector: "Dark Money"
 entity-type: "501(c)(3)"
 ein: "043243004"
 nonprofit-status: "501(c)(3)"
 source-tier: 1
-internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Progressive-aligned pooled donor fund; hosts collaborative funds including Funders for LGBTQ Issues, RISE Together Fund, Piper Fund. Narrative pending Research Claude editorial pass."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Progressive-aligned pooled donor fund; hosts collaborative funds including Funders for LGBTQ Issues, RISE Together Fund, Piper Fund. Narrative pending Research Claude editorial pass."
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
   - "No mapped relationships"
 last-enriched: 2026-04-21
+needs-reenrichment: true
+reenrich-reason: "no fec-committee-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 ---
+
+
 
 
 
@@ -57,24 +65,63 @@ last-enriched: 2026-04-21
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 6 (2018–2023)
 
-**Grants received (2018–2024):** $68.5M across 12 grantors (from other vault orgs' Schedule I records).
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $69.2M |
+| Total expenses | — |
+| Total assets (EOY) | $76.3M |
+| Grants paid out | $20.9M |
+
+**Lifetime grants out (2018–2023):** $130.8M across 864 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| VOTER REGISTRATION PROJECT | $27.8M | 9 | 2018–2023 |
+| THE VOTER PARTICIPATION CENTER | $8.9M | 6 | 2018–2023 |
+| RETHINK MEDIA | $4.4M | 16 | 2018–2023 |
+| PROTEUS ACTION LEAGUE | $2.0M | 11 | 2018–2020 |
+| GRASSROOTS INTERNATIONAL INC | $1.8M | 3 | 2022–2023 |
+| MOVEMENT STRATEGY CENTER | $1.6M | 5 | 2019–2023 |
+| NONPROFIT VOTE | $1.4M | 4 | 2019–2022 |
+| ALLIANCE FOR YOUTH ORGANIZING | $1.3M | 5 | 2018–2020 |
+| CENTER FOR PUBLIC INTEREST RESEARCH INC | $1.1M | 2 | 2020–2022 |
+| PANORAMA GLOBAL | $1.1M | 4 | 2019–2022 |
+| COMMON COUNSEL FOUNDATION | $1.1M | 6 | 2018–2023 |
+| SOCIAL GOOD FUND | $1.1M | 12 | 2018–2023 |
+| LEAGUE OF CONSERVATION VOTERS EDUCATION FUND | $1.0M | 1 | 2020 |
+| CENTER FOR TECHNOLOGY AND CIVIC LIFE | $1.0M | 1 | 2022 |
+| STATE INNOVATION EXCHANGE | $1.0M | 1 | 2022 |
+| PEOPLE'S SOLAR ENERGY FUND | $1.0M | 2 | 2023 |
+| UNIDOSUS | $930K | 1 | 2020 |
+| FRACTURED ATLAS | $890K | 9 | 2018–2023 |
+| TIDES CENTER | $871K | 6 | 2018–2023 |
+| SOCIAL AND ENVIRONMENTAL ENTREPRENEURS | $833K | 3 | 2022–2023 |
+
+**Grants received (2018–2024):** $90.4M across 14 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
-| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $47.6M | 5 | 2019–2023 |
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $68.9M | 6 | 2019–2023 |
 | NATIONAL PHILANTHROPIC TRUST | $10.3M | 2 | 2019–2023 |
 | ROCKEFELLER PHILANTHROPY ADVISORS INC | $3.0M | 4 | 2021–2024 |
-| NEW VENTURE FUND | $1.8M | 5 | 2019–2024 |
+| NEW VENTURE FUND | $1.9M | 6 | 2019–2024 |
 | SCHWAB CHARITABLE FUND | $1.7M | 7 | 2018–2024 |
 | Silicon Valley Community Foundation | $1.7M | 5 | 2018–2023 |
 | IMPACTASSETSINC | $1.2M | 8 | 2018–2023 |
 | AMERICAN ENDOWMENT FOUNDATION | $570K | 4 | 2020–2024 |
 | HOPEWELL FUND | $375K | 1 | 2022 |
 | Vanguard Charitable Endowment Program | $312K | 2 | 2022–2023 |
+| NEO Philanthropy Inc | $308K | 4 | 2018–2023 |
+| PROTEUS FUND INC | $115K | 5 | 2019 |
 | MORGAN STANLEY GLOBAL IMPACT FUNDING | $15K | 1 | 2019 |
 | GOLDMAN SACHS PHILANTHROPY FUND | $10K | 1 | 2022 |
 

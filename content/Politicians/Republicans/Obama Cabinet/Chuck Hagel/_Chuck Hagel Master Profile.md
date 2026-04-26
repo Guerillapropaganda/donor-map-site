@@ -1,7 +1,7 @@
 ---
 title: Chuck Hagel
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Republican
@@ -14,9 +14,18 @@ source-types:
   - FEC
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage); no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage); no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)"
 corroboration-count: 2
 top-donors: "[[ADM - Archer Daniels Midland]], [[NRA Political Victory Fund]], [[MBNA Corporation]], [[National Right to Life PAC]], [[Cargill]], [[Tyson Foods]], [[Citigroup]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Pfizer Inc.]], [[National Restaurant Association]], [[National Cattlemen's Beef Association]], [[Williams Companies]], [[Monsanto - Bayer]], [[Amgen Inc]], [[McDonalds Corporation]], [[Associated General Contractors of America Political Action Committee]], [[Akin Gump Strauss Hauer & Feld]], [[Senate Majority PAC]], [[Occidental Petroleum]], [[National Education Association]], [[Goldman Sachs]], [[Southern Company]], [[Bechtel Corporation]], [[Koch Industries]], [[Nucor Corporation]], [[National Republican Senatorial Committee]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -30,8 +39,24 @@ top-donors: "[[ADM - Archer Daniels Midland]], [[NRA Political Victory Fund]], [
 <!-- tier: paid -->
 
 **Party:** Republican · **Chamber:** Secretary of Defense (2013-2015)
+**FEC candidate ID:** `S6NE00087`
 
 **Total received:** —
+
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| MBNA Corporation | $18,000 |
+| National Republican Senatorial Committee | $17,500 |
+| NRA Political Victory Fund | $14,900 |
+| Associated General Contractors of America Political Action Committee | $13,500 |
+| Southern Company | $13,000 |
+| National Cattlemen's Beef Association | $12,489 |
+| Cargill | $12,000 |
+| McDonalds Corporation | $11,000 |
+| Pfizer Inc. | $8,000 |
+| National Restaurant Association | $6,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

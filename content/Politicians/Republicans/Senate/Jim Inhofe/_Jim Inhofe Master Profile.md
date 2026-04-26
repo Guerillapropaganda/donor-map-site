@@ -2,7 +2,7 @@
 title: Jim Inhofe
 type: politician
 bioguide-id: I000024
-content-readiness: ready
+content-readiness: draft
 central-thesis: "Inhofe served two donor classes simultaneously: the fossil fuel industry and the defense industry. As chair of both the Environment and Armed Services committees at different points, he was perfectly positioned to deliver for both. For oil and gas..."
 last-updated: 2026-03-25T00:00:00.000Z
 source-tier: 1
@@ -24,8 +24,15 @@ known-gaps:
   - No voting record data
 related: "[[Koch Network - Charles Koch|Koch Network]] · [[ExxonMobil]] · [[Fossil Fuel Bloc]] · [[American Petroleum Institute]] · [[_Markwayne Mullin Master Profile|Markwayne Mullin]] · [[_Donald Trump Master Profile|Trump]] · [[Lockheed Martin]] · [[Northrop Grumman]]"
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 top-donors: "[[Jim Inhofe]], [[National Republican Senatorial Committee]], [[Tyson Foods]], [[Bechtel Corporation]], [[Leidos]], [[National Cattlemen's Beef Association]], [[Williams Companies]], [[Associated General Contractors of America Political Action Committee]], [[Koch Industries]], [[Google - Alphabet]], [[NRA Political Victory Fund]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Campaign for Working Families]], [[HERN FOR CONGRESS]], [[National Right to Life PAC]], [[Akin Gump Strauss Hauer & Feld]], [[National Restaurant Association]], [[Occidental Petroleum]], [[The National Republican Trust PAC]], [[Nucor Corporation]], [[McDonalds Corporation]], [[DANIEL WEBSTER PAC]], [[Southern Company]], [[Mitch McConnell]], [[Citigroup]], [[Pfizer Inc.]], [[Amgen Inc]], [[Jeff Sessions]], [[Dan Coats]], [[Senate Majority PAC]], [[ADM - Archer Daniels Midland]], [[CoreCivic]], [[John Boozman]], [[Common Sense for America PAC]], [[Humana]], [[AbbVie]], [[Republican Jewish Coalition]], [[Kevin Hern]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -39,12 +46,28 @@ top-donors: "[[Jim Inhofe]], [[National Republican Senatorial Committee]], [[Tys
 
 **Party:** Republican · **Chamber:** Senate · **State:** Oklahoma
 **Bioguide ID:** `I000024`
+**FEC candidate ID:** `S4OK00083`
 
 **Total received:** —
 
 #### Committees
 
 - Armed Services
+
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| National Republican Senatorial Committee | $141,243 |
+| NRA Political Victory Fund | $79,050 |
+| Koch Industries | $56,500 |
+| Associated General Contractors of America Political Action Committee | $49,000 |
+| Occidental Petroleum | $36,500 |
+| Williams Companies | $33,000 |
+| National Restaurant Association | $27,500 |
+| National Cattlemen's Beef Association | $26,500 |
+| Senate Majority PAC | $24,999 |
+| Amgen Inc | $23,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

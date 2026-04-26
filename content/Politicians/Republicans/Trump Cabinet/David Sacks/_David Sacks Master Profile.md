@@ -1,7 +1,7 @@
 ---
 title: David Sacks
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: Sacks is the PayPal Mafia's man in government , a tech VC (Craft Ventures) who went from funding companies to funding deregulation of the industries he's invested in. His AI/Crypto Czar role puts a venture capitalist in charge of regulating the te...
 last-updated: 2026-04-17
 source-tier: 1
@@ -23,7 +23,16 @@ related: "[[_Donald Trump Master Profile]] · [[Peter Thiel]] · [[Elon Musk]] �
 donors: "[[World Liberty Financial]] · [[Silicon Valley Donors]] · [[Marc Andreessen & Horowitz]] · [[Peter Thiel]] · [[Narya Capital]] · [[Trump 2024 Campaign]] · [[Craft Ventures]] · [[Elon Musk]] · [[Crypto Industry Bloc]] · [[Founders Fund]] · [[Palantir Technologies]]"
 corroboration-count: 2
 last-enriched: 2026-04-21
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage); no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage); no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 

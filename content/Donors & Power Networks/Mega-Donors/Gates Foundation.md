@@ -1,7 +1,7 @@
 ---
 title: Gates Foundation
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -64,7 +64,11 @@ nonprofit-status: 501(c)(3)
 total-revenue: 8186448170
 total-assets: 78673465696
 cross-vault-triangulation-count: 6
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -72,6 +76,8 @@ employee-contributions: 433
 employee-contributions-total: 145521
 employee-donor-count: 146
 ---
+
+
 
 
 
@@ -89,7 +95,17 @@ employee-donor-count: 146
 
 **Total political spend:** —
 
-*No direct donor→politician dollar flows tracked for this entity. Money may route through controlled vehicles or 501(c)(4) shells. See narrative sections below for details.*
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Marco Rubio | $10,900 |
+| Susie Lee | $5,800 |
+| Mark Kelly | $2,880 |
+| Jon Ossoff | $2,250 |
+| Josh Riley | $550 |
+| Lauren Underwood | $300 |
+| Cory Booker | $250 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

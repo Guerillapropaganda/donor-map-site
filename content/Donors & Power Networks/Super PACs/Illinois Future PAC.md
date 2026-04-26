@@ -1,7 +1,7 @@
 ---
 title: "Illinois Future PAC"
 type: pac
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-15
 source-tier: 1
 parent: null
@@ -16,6 +16,8 @@ known-gaps:
 ein: "884013706"
 nonprofit-status: "527 (Super PAC)"
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "no fec ID resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 checklist-na:
   - "regulatory: auto: entity type \"pac\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"pac\" does not typically hold federal contracts (2026-04-15)"
@@ -25,7 +27,12 @@ total-spent: 6759728
 cash-on-hand: 454772
 independent-expenditures: 6330000
 individual-contributions: 6964500
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 

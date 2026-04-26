@@ -1,7 +1,7 @@
 ---
 title: Las Vegas Sands
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 2
 parent: null
@@ -62,12 +62,18 @@ regulatory-agencies:
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 cross-vault-triangulation-count: 2
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 employee-contributions: 428
 employee-contributions-total: 159266491
 employee-donor-count: 88
 politicians-funded: "[[Trump Victory]], [[_Susie Lee Master Profile]], [[_Young Kim Master Profile]], [[RNC - Republican National Committee]], [[Catherine Cortez Masto]], [[ActBlue]], [[SLF PAC]], [[Mark Kelly]], [[_Tony Gonzales Master Profile]], [[Progressive Turnout Project]], [[_Don Bacon Master Profile]], [[_Darrell Issa Master Profile]], [[WinSenate]], [[_Brian Mast Master Profile]], [[WinRed]], [[_Andy Barr Master Profile]], [[Congressional Leadership Fund]], [[Nancy Mace]], [[_Marco Rubio Master Profile]], [[_Beth van Duyne Master Profile]], [[_Victoria Spartz Master Profile]], [[Future45]], [[_Pete Stauber Master Profile]], [[ESAFUND]], [[America First Action]], [[_Byron Donalds Master Profile]], [[_Josh Hawley Master Profile]], [[_Carlos Gimenez Master Profile]], [[MAGA Inc]], [[Susie Lee]], [[Andy Barr]], [[Don Bacon]], [[Beth van Duyne]], [[Pete Stauber]], [[Young Kim]], [[Brian Mast]], [[Marco Rubio]], [[Darrell Issa]], [[Carlos Gimenez]], [[Tony Gonzales]], [[Victoria Spartz]], [[Byron Donalds]], [[Josh Hawley]]"
 ---
+
+
 
 
 
@@ -89,6 +95,21 @@ politicians-funded: "[[Trump Victory]], [[_Susie Lee Master Profile]], [[_Young 
 **Ideological function:** `zionist-aligned`
 
 **Total political spend:** —
+
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Don Bacon | $15,438 |
+| Young Kim | $11,000 |
+| Andy Barr | $11,000 |
+| Josh Hawley | $8,100 |
+| Marco Rubio | $8,000 |
+| Tony Gonzales | $5,600 |
+| Carlos Gimenez | $5,600 |
+| Victoria Spartz | $5,600 |
+| Nancy Mace | $5,600 |
+| Susie Lee | $3,650 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

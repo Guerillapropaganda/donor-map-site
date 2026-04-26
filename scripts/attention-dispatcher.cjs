@@ -167,6 +167,89 @@ const PRODUCERS = [
     timeout_ms: 300_000,
     node_opts: ['--max-old-space-size=8192'],
   },
+  // ─── Auto-block builders (daily 03:00–03:50) ────────────────────
+  // These six scripts write the `<!-- auto:NAME start --> ... end -->`
+  // blocks into profile bodies from canonical JSONL stores. Wired into
+  // the dispatcher 2026-04-26 after the harness-not-oneoff audit found
+  // they were never scheduled — Claudes had been running them by hand
+  // sporadically, and bodies drifted out of sync with the canonical
+  // store between runs. Each is idempotent (string-equality skip),
+  // dry-run-by-default, and read-only on the stores; verified by
+  // explicit safety audit before scheduling. Staggered 10 min apart to
+  // serialize cleanly behind the runQueue.
+  //
+  // Note: build-profile-data-panels.cjs is intentionally NOT scheduled
+  // here — it lacks a verified-profile carve-out (would overwrite any
+  // hand-tuned data-panel content). Add that first, then schedule.
+  {
+    name: 'build-fec-lifetime-panels',
+    schedule: '0 3 * * *',
+    script: 'scripts/build-fec-lifetime-panels.cjs',
+    args: ['--write'],
+    timeout_ms: 300_000,
+  },
+  {
+    name: 'build-voting-record-panels',
+    schedule: '10 3 * * *',
+    script: 'scripts/build-voting-record-panels.cjs',
+    args: ['--write'],
+    timeout_ms: 180_000,
+  },
+  {
+    name: 'build-sponsored-bills-panel',
+    schedule: '20 3 * * *',
+    script: 'scripts/build-sponsored-bills-panel.cjs',
+    args: ['--write'],
+    timeout_ms: 180_000,
+  },
+  {
+    name: 'build-nonprofit-990-panels',
+    schedule: '30 3 * * *',
+    script: 'scripts/build-nonprofit-990-panels.cjs',
+    args: ['--write'],
+    timeout_ms: 180_000,
+  },
+  {
+    name: 'build-executive-actions-panel',
+    schedule: '40 3 * * *',
+    script: 'scripts/build-executive-actions-panel.cjs',
+    args: ['--write'],
+    timeout_ms: 180_000,
+  },
+  {
+    name: 'build-offshore-panel',
+    schedule: '50 3 * * *',
+    script: 'scripts/build-offshore-panel.cjs',
+    args: ['--write'],
+    timeout_ms: 180_000,
+  },
+  // Data-panel builder — synthesizing summary block per entity (entity type,
+  // sector, NAICS, EIN, class tags if approved, total political spend, top
+  // politicians funded). Idempotent + bounded by `<!-- auto:data-panel -->`
+  // markers. Honors `checklist-na: data-panel` for opt-out (added 2026-04-26).
+  // 5-minute timeout because it iterates ~1.6k entity profiles.
+  {
+    name: 'build-profile-data-panels',
+    schedule: '0 4 * * *',
+    script: 'scripts/build-profile-data-panels.cjs',
+    args: ['--write'],
+    timeout_ms: 300_000,
+  },
+  // Pipeline janitor write-mode — runs daily at 04:30 AFTER the auto-block
+  // builders so it audits the freshest possible state, then demotes any
+  // profiles still showing mechanical issues (missing-block, zombie-block,
+  // known-gap-pipeline, etc. per ADR-0025). Advisory a-plus-* findings
+  // never auto-demote — they continue to surface to /attention for editorial
+  // action via the dry-run pass that vault-audit runs every 15 min.
+  // Wired into the dispatcher 2026-04-26 after ADR-0025 carve-out + the
+  // harness-not-oneoff audit found this was the missing automation step.
+  {
+    name: 'pipeline-janitor-write',
+    schedule: '30 4 * * *',
+    script: 'scripts/pipeline-janitor.cjs',
+    args: ['--write', '--tier=a-plus'],
+    timeout_ms: 300_000,
+  },
 ];
 
 // Serialize execution — never run two producers at once

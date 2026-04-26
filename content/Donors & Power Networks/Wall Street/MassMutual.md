@@ -1,7 +1,7 @@
 ---
 title: MassMutual
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 2
 parent: null
@@ -89,12 +89,18 @@ federal-awards-total: 0
 federal-contracts-count: 1
 federal-grants-count: 0
 cross-vault-triangulation-count: 0
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 politicians-funded: "[[Richard Neal]], [[_Tammy Baldwin Master Profile]], [[NRCC - National Republican Congressional Committee]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Claudia Tenney Master Profile]], [[RNC - Republican National Committee]], [[Indivisible Action]], [[_Chris Pappas Master Profile]], [[_Rashida Tlaib Master Profile]], [[J Street]], [[The Lincoln Project]], [[WinRed]], [[_Jon Ossoff Master Profile]], [[_Jake Auchincloss Master Profile]], [[_Ted Cruz Master Profile]], [[_Jason Smith Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[_Thomas Massie Master Profile]], [[MAGA Inc]], [[314 ACTION FUND]], [[Bob Casey]], [[Mark Kelly]], [[CHC BOLD PAC]], [[Trump Victory]], [[Catherine Cortez Masto]], [[_Tim Scott Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[ActBlue]], [[_Lauren Underwood Master Profile]], [[_Ted Budd Master Profile]], [[Chris Christie]], [[WinSenate]], [[AIPAC - American Israel Public Affairs Committee]], [[Hmp]], [[_Ron Estes Master Profile]], [[Save America PAC]], [[_John James Master Profile]], [[DNC - Democratic National Committee]], [[_Marco Rubio Master Profile]], [[_Ron Johnson Master Profile]], [[Emily's List]], [[WITH HONOR FUND, INC.]], [[_Nancy Pelosi Master Profile]], [[MoveOn.org Political Action]], [[_George Whitesides Master Profile]], [[Jake Auchincloss]], [[Tammy Baldwin]], [[Chris Pappas]], [[John James]], [[Ted Budd]], [[Tim Scott]], [[Lauren Underwood]], [[Nancy Pelosi]], [[Ron Estes]], [[Marco Rubio]], [[Jason Smith]], [[Ted Cruz]], [[Jon Ossoff]], [[Thomas Massie]], [[Ron Johnson]], [[Rashida Tlaib]], [[Claudia Tenney]], [[George Whitesides]], [[314 Action Fund]], [[HMP]], [[With Honor Fund]]"
 employee-contributions: 1737
 employee-contributions-total: 526341
 employee-donor-count: 453
 ---
+
+
 
 
 
@@ -113,7 +119,20 @@ employee-donor-count: 453
 
 **Total political spend:** —
 
-*No direct donor→politician dollar flows tracked for this entity. Money may route through controlled vehicles or 501(c)(4) shells. See narrative sections below for details.*
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Chris Pappas | $17,100 |
+| Tim Scott | $12,800 |
+| Claudia Tenney | $6,149 |
+| Catherine Cortez Masto | $3,300 |
+| Ted Budd | $2,900 |
+| Jake Auchincloss | $2,500 |
+| Jon Ossoff | $2,233 |
+| Ron Johnson | $1,800 |
+| Ron Estes | $1,500 |
+| Jason Smith | $1,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
@@ -294,9 +313,9 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 | Metric | Amount |
 |---|---:|
-| Total revenue | — |
+| Total revenue | $58.9M |
 | Contribution revenue | $58.9M |
-| Total expenses | — |
+| Total expenses | $48.5M |
 | Total assets (EOY) | $34.3M |
 | Grants paid out | — |
 

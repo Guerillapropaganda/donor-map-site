@@ -1,7 +1,7 @@
 ---
 title: Michael Whatley
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: "Michael Whatley's political career exemplifies the revolving door between fossil fuel lobbying and Republican Party leadership. His professional life centers on three interlocking interests: oil and gas industry advocacy (HBW Resources, Consumer E..."
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 2
@@ -26,9 +26,17 @@ related: "[[North Carolina 2026 Senate Race]] · [[Michael Whatley Oil and Gas L
 donors: "[[Susan B. Anthony Pro-Life America PAC]] · [[HBW Resources]] · [[Tim Dunn]] · [[Paul Singer]] · [[Consumer Energy Alliance]] · [[AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION]] · [[NORPAC]] · [[Republican Jewish Coalition]] · [[SLF PAC]] · [[Performance Racing Inc.]] · [[David Rouzer]] · [[NRSC - National Republican Senatorial Committee]] · [[Virginia Foxx]] · [[Americans for Prosperity]] · [[American Conservative Union]] · [[Common Sense for America PAC]] · [[CoreCivic - Private Prisons]] · [[Halliburton]] · [[Valero Energy]] · [[Duke Energy]] · [[Devon Energy]] · [[Marathon Petroleum]] · [[National Cattlemen's Beef Association]] · [[National Republican Senatorial Committee]] · [[Steve Scalise]] · [[CoreCivic]] · [[MCDOWELL FOR CONGRESS]] · [[Richard Hudson]] · [[American Principles Fund]] · [[DAVID ROUZER FOR CONGRESS]] · [[Koch Industries]] · [[FRIENDS OF TIM MOORE]] · [[Williams Companies]] · [[VIRGINIA FOXX FOR CONGRESS]]"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-20T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage); no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)"
 total-raised: $8.4M
 career-total-source: FEC weball summary (cycles 2026)
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -49,16 +57,16 @@ career-total-source: FEC weball summary (cycles 2026)
 
 | Donor | Amount |
 |---|---:|
-| AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION | $4,189,244 |
-| Americans for Prosperity | $1,873,771 |
-| SLF PAC | $293,548 |
-| NRSC - National Republican Senatorial Committee | $62,000 |
-| Republican Jewish Coalition | $25,021 |
-| American Conservative Union | $5,000 |
-| Common Sense for America PAC | $5,000 |
-| CoreCivic - Private Prisons | $5,000 |
+| National Republican Senatorial Committee | $62,000 |
+| Republican Jewish Coalition | $25,000 |
+| Common Sense for America PAC | $10,000 |
+| David Rouzer | $8,000 |
+| Koch Industries | $7,500 |
+| Devon Energy | $5,000 |
 | Halliburton | $5,000 |
+| Marathon Petroleum | $5,000 |
 | Valero Energy | $5,000 |
+| CoreCivic - Private Prisons | $5,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -1,7 +1,7 @@
 ---
 title: Johnny Olszewski
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Democrat
@@ -23,6 +23,8 @@ known-gaps:
   - No mapped relationships
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 committees:
   - Africa
   - East Asia and Pacific
@@ -33,7 +35,12 @@ committees:
 bills-sponsored: 10
 corroboration-count: 2
 top-donors: "[[Bradley Scott Schneider]], [[PETE AGUILAR FOR CONGRESS]], [[AFL-CIO]], [[Robin L. Kelly]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[League of Conservation Voters]], [[AIPAC - American Israel Public Affairs Committee]], [[Richard Neal]], [[National Education Association]], [[Protect Progress]], [[J Street]], [[American Gaming Association]], [[KWEISI MFUME FOR CONGRESS]], [[Pete Aguilar]], [[Ted Lieu]], [[Kweisi Mfume]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -48,8 +55,24 @@ top-donors: "[[Bradley Scott Schneider]], [[PETE AGUILAR FOR CONGRESS]], [[AFL-C
 
 **Party:** Democrat · **Chamber:** House · **State:** Maryland
 **Bioguide ID:** `O000176`
+**FEC candidate ID:** `H4MD02232`
 
 **Total received:** —
+
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| AIPAC - American Israel Public Affairs Committee | $15,000 |
+| National Education Association | $9,000 |
+| International Association of Firefighters Interested in Registration and Education PAC | $8,500 |
+| League of Conservation Voters | $3,500 |
+| J Street | $3,500 |
+| Ted Lieu | $2,000 |
+| Richard Neal | $2,000 |
+| Pete Aguilar | $2,000 |
+| Kweisi Mfume | $2,000 |
+| AFL-CIO | $1,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

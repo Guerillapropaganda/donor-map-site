@@ -1,20 +1,28 @@
 ---
 title: "Bank of America Charitable Gift Fund"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18
 sector: "Wall Street"
 entity-type: "Donor-Advised Fund"
 ein: "046010342"
 nonprofit-status: "501(c)(3)"
 source-tier: 1
-internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Bank of America DAF sponsor. Completes the Big Four commercial DAFs (Fidelity, Schwab, Vanguard, Morgan Stanley, BofA) that account for the majority of commercial DAF assets. Narrative pending Research Claude editorial pass."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Bank of America DAF sponsor. Completes the Big Four commercial DAFs (Fidelity, Schwab, Vanguard, Morgan Stanley, BofA) that account for the majority of commercial DAF assets. Narrative pending Research Claude editorial pass."
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
   - "No mapped relationships"
 last-enriched: 2026-04-21
+needs-reenrichment: true
+reenrich-reason: "no fec-committee-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 ---
+
+
 
 
 
@@ -57,16 +65,34 @@ last-enriched: 2026-04-21
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 9 (2021–2024)
 
-**Grants received (2018–2024):** $141.3M across 10 grantors (from other vault orgs' Schedule I records).
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $1.49B |
+| Total expenses | — |
+| Total assets (EOY) | $5.10B |
+| Grants paid out | $969.5M |
+
+**Lifetime grants out (2021–2024):** $4.82B across 1 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| SEE ATTACHED LIST OF DISTRIBUTIONS | $4.82B | 6 | 2021–2024 |
+
+**Grants received (2018–2024):** $158.0M across 10 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $64.1M | 7 | 2018–2023 |
 | SCHWAB CHARITABLE FUND | $48.6M | 7 | 2018–2024 |
-| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $47.4M | 6 | 2018–2023 |
 | NATIONAL PHILANTHROPIC TRUST | $19.8M | 6 | 2018–2023 |
 | AMERICAN ENDOWMENT FOUNDATION | $7.0M | 7 | 2018–2024 |
 | MORGAN STANLEY GLOBAL IMPACT FUNDING | $6.8M | 8 | 2018–2023 |

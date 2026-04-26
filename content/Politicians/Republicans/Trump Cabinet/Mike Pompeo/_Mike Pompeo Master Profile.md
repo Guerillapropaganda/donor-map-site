@@ -2,7 +2,7 @@
 title: Mike Pompeo
 type: politician
 bioguide-id: P000602
-content-readiness: ready
+content-readiness: draft
 central-thesis: Pompeo is the Koch brothers' direct product , Koch Industries funded his Kansas congressional campaigns, he built his pre-political business career with Koch venture capital seed money, he served their interests at CIA and State, and his post-gove...
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
@@ -24,7 +24,14 @@ known-gaps:
   - No mapped relationships
 related: "[[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]]"
 last-enriched: 2026-04-20T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -37,10 +44,24 @@ last-enriched: 2026-04-20T00:00:00.000Z
 <!-- tier: paid -->
 
 **Party:** Republican · **Chamber:** Cabinet · **State:** Kansas
+**FEC candidate ID:** `H0KS04051`
 
 **Total received:** —
 
-*Top donors list present but amounts not yet quantified. See narrative sections for details.*
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Koch Industries | $40,000 |
+| Cargill | $17,000 |
+| Williams Companies | $14,000 |
+| American College of Radiology Association PAC | $13,500 |
+| Amgen Inc | $13,000 |
+| McDonalds Corporation | $12,500 |
+| Occidental Petroleum | $12,500 |
+| NRA Political Victory Fund | $11,950 |
+| Google - Alphabet | $10,000 |
+| National Restaurant Association | $10,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
@@ -225,3 +246,33 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 - ~~[The Hill: Pompeo joins conservative think tank Hudson Institute](https://thehill.com/homenews/administration/536023-pompeo-to-join-conservative-think-tank-hudson-institute/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[SourceWatch: Mike Pompeo](https://sourcewatch.org/index.php/Mike_Pompeo)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 44 |
+| Enacted into law | 1 |
+| Top policy areas | Energy · International Affairs · Economics and Public Finance |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 113-53 | 2013-11-27 | HR.1848-113 | Small Airplane Revitalization Act of 2013 |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2016-11-17 | HR.6375-114 | Energy | Power And Security Systems (PASS) Act |
+| 2016-09-28 | HR.6214-114 | Energy | Power And Security Systems (PASS) Act |
+| 2016-09-06 | HR.5940-114 | International Affairs | No Ransom Payments Act of 2016 |
+| 2016-05-25 | HR.5333-114 | International Affairs | No Impunity for Iranian Aggression at Sea Act of 2016 |
+| 2016-05-24 | HR.5318-114 | Commerce | SHIELD Act |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: P000602` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->

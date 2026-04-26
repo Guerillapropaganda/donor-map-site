@@ -1,7 +1,7 @@
 ---
 title: David McCormick
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Republican
@@ -22,6 +22,8 @@ known-gaps:
   - No mapped relationships
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 corroboration-count: 2
 committees:
   - Digital Assets
@@ -39,7 +41,12 @@ committees:
   - Water and Power
 bills-sponsored: 27
 top-donors: "[[Campaign for Working Families]], [[John Cornyn]], [[DR. BRIAN BABIN FOR CONGRESS]], [[Williams Companies]], [[NRA Political Victory Fund]], [[Women Speak Out Pac]], [[Amgen Inc]], [[National Republican Senatorial Committee]], [[Akin Gump Strauss Hauer & Feld]], [[Common Sense for America PAC]], [[GEO Group - Private Prison Industrial Complex]], [[American Principles Fund]], [[Pfizer Inc.]], [[Leidos]], [[Glenn Thompson]], [[Google - Alphabet]], [[America First Action]], [[Republican Jewish Coalition]], [[Daniel Meuser]], [[The Sentinel Action Fund]], [[Club for Growth INC PAC]], [[American Principles Project Pac]], [[National Right to Life Victory Fund]], [[DoorDash]], [[Guy Reschenthaler]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Koch Industries]], [[Brian Babin]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -54,8 +61,24 @@ top-donors: "[[Campaign for Working Families]], [[John Cornyn]], [[DR. BRIAN BAB
 
 **Party:** Republican · **Chamber:** Senate · **State:** Pennsylvania
 **Bioguide ID:** `M001243`
+**FEC candidate ID:** `S2VA00126`
 
 **Total received:** —
+
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| National Republican Senatorial Committee | $2,511,425 |
+| Republican Jewish Coalition | $35,400 |
+| Koch Industries | $10,000 |
+| Common Sense for America PAC | $10,000 |
+| International Association of Firefighters Interested in Registration and Education PAC | $10,000 |
+| NRA Political Victory Fund | $9,950 |
+| Daniel Meuser | $7,300 |
+| Amgen Inc | $6,500 |
+| Campaign for Working Families | $5,000 |
+| Club for Growth INC PAC | $4,600 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

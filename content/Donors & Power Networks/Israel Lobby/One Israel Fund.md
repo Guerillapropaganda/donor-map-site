@@ -1,7 +1,7 @@
 ---
 title: "One Israel Fund"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-13
 source-tier: 2
 parent: null
@@ -18,7 +18,11 @@ last-enriched: "2026-04-08"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 cross-vault-triangulation-count: 2
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 checklist-na:
@@ -26,6 +30,8 @@ checklist-na:
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
 ---
+
+
 
 
 
@@ -127,7 +133,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-**Filings available:** 6 (2018–2024)
+**Filings available:** 7 (2018–2024)
 
 **Most recent filing (2024):**
 
@@ -139,22 +145,22 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Total assets (EOY) | $7.1M |
 | Grants paid out | — |
 
-**Lifetime grants out (2018–2024):** $227K across 2 recipients.
+**Lifetime grants out (2018–2024):** $286K across 2 recipients.
 
 **Top 20 recipients:**
 
 | Recipient | Total | Grants | Years |
 |---|---:|---:|---|
-| GENESIS 123 FOUNDATION | $218K | 2 | 2018–2019 |
+| GENESIS 123 FOUNDATION | $277K | 3 | 2018–2019 |
 | MAALE ADUMIM FOUNDATION | $9K | 1 | 2018 |
 
-**Grants received (2018–2024):** $2.0M across 8 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $2.2M across 8 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
-| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $1.1M | 6 | 2018–2023 |
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $1.3M | 7 | 2018–2023 |
 | SCHWAB CHARITABLE FUND | $591K | 7 | 2018–2024 |
 | BRADLEY IMPACT FUND INC | $100K | 1 | 2022 |
 | MORGAN STANLEY GLOBAL IMPACT FUNDING TRUST INC | $79K | 2 | 2023–2024 |

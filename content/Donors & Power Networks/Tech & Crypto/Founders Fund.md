@@ -1,7 +1,7 @@
 ---
 title: Founders Fund
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -54,13 +54,19 @@ sec-form-types:
   - SC 13G/A
   - SCHEDULE 13D
 cross-vault-triangulation-count: 14
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
 employee-contributions: 84
 employee-contributions-total: 1412801
 employee-donor-count: 33
 ---
+
+
 
 
 
@@ -82,7 +88,13 @@ employee-donor-count: 33
 
 **Total political spend:** —
 
-*No direct donor→politician dollar flows tracked for this entity. Money may route through controlled vehicles or 501(c)(4) shells. See narrative sections below for details.*
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Scott Wiener | $7,000 |
+| Josh Harder | $6,400 |
+| John James | $2,800 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

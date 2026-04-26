@@ -1,7 +1,7 @@
 ---
 title: Williams Companies
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -78,12 +78,18 @@ court-jurisdictions:
   - District Court, M.D. Pennsylvania
   - District Court, N.D. Ohio
 cross-vault-triangulation-count: 4
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 employee-contributions: 118
 employee-contributions-total: 26402
 employee-donor-count: 20
 politicians-funded: "[[WinSenate]], [[Emily's List]], [[WinRed]], [[FreedomWorks for America]], [[NRCC - National Republican Congressional Committee]], [[ActBlue]], [[_Marco Rubio Master Profile]], [[_Jon Ossoff Master Profile]], [[Marco Rubio]], [[Jon Ossoff]], [[Stephen F. Lynch]], [[Shelley Moore Capito]], [[Cathy McMorris Rodgers]], [[John Cornyn]], [[H. Morgan Griffith]], [[Robert E. Latta]], [[Patrick McHenry]], [[Bruce Westerman]], [[Scott Franklin]], [[James Lankford]], [[Mike Lee]], [[John Thune]], [[Rick Crawford]], [[Lisa Blunt Rochester]], [[John R. Carter]], [[Tim Scott]], [[Brian K. Fitzpatrick]], [[Steve Womack]], [[Thomas H. Kean]], [[Mark Warner]], [[Joseph Morelle]], [[Robert P. Bresnahan]], [[Gus M. Bilirakis]], [[Harriet M. Hageman]], [[Frank Lucas]], [[Ashley Hinson]], [[Barry Loudermilk]], [[Sam Graves]], [[Jason Smith]], [[Paul Tonko]], [[James E. Clyburn]], [[John Barrasso]], [[Russ Fulcher]], [[Jim Inhofe]], [[Richard Hudson]], [[Emilia Strong Sykes]], [[Adam Gray]], [[Michael Bennet]], [[Mike Johnson]], [[Tom Cole]], [[John Joyce]], [[Martin Heinrich]], [[Kristi Noem]], [[Earl L. Buddy Carter]], [[David McCormick]], [[Mike Crapo]], [[Joyce Beatty]], [[Dusty Johnson]], [[Jake Ellzey]], [[Jim Costa]], [[Chuck Grassley]], [[Markwayne Mullin]], [[John Boehner]], [[Daniel Meuser]], [[Michael Guest]], [[Tom Emmer]], [[August Pfluger]], [[Brett Guthrie]], [[Terri A. Sewell]], [[Aaron Bean]], [[David Rouzer]], [[Virginia Foxx]], [[Ken Calvert]], [[Steve Daines]], [[Michael K. Simpson]], [[Pete Sessions]], [[Mike Rogers]], [[Mario Diaz-Balart]], [[Jeff Sessions]], [[Joe Manchin]], [[Jon Husted]], [[Lloyd Smucker]], [[Steve Scalise]], [[Kevin Cramer]], [[Monica de la Cruz]], [[Yvette D. Clarke]], [[Jay Obernolte]], [[Henry Cuellar]], [[JD Vance]], [[Lisa Murkowski]], [[Jim Risch]], [[Lindsey Graham]], [[Chuck Schumer]], [[Mark E. Amodei]], [[Kevin Hern]], [[Seth Moulton]], [[Robert J. Wittman]], [[Andy Barr]], [[Troy E. Nehls]], [[Roger Wicker]], [[Frank Pallone]], [[Richard Neal]], [[Donald Norcross]], [[J. French Hill]], [[Josh Brecheen]], [[Mike Pompeo]], [[Rick Larsen]], [[Scott H. Peters]], [[Rick W. Allen]], [[Kay Granger]], [[Kevin McCarthy]], [[Ryan Mackenzie]], [[Tim Sheehy]], [[Mike Kelly]], [[Bill Cassidy]], [[Gabe Evans]], [[Andrew R. Garbarino]], [[Troy A. Carter]], [[Ted Cruz]], [[Cynthia M. Lummis]], [[Julie Fedorchak]], [[Young Kim]], [[Austin Scott]], [[Vern Buchanan]], [[Kat Cammack]], [[Vicente Gonzalez]], [[Jefferson van Drew]], [[Scott Fitzgerald]], [[Diana Harshbarger]], [[Ronny Jackson]], [[Glenn Thompson]], [[John Boozman]], [[Andre Carson]], [[Darin Lahood]], [[David P. Joyce]], [[Todd Young]], [[Lance Gooden]], [[Josh Gottheimer]], [[Charles J. Chuck Fleischmann]], [[Jennifer A. Kiggans]], [[Elise Stefanik]], [[Roger Williams]], [[Burgess Owens]], [[Nancy Mace]], [[John R. Curtis]], [[Lisa C. McClain]], [[Ann Wagner]], [[Mitch McConnell]], [[Blake D. Moore]], [[Scott Perry]], [[Julia Letlow]], [[Chuck Hagel]], [[W. Gregory Steube]], [[Pete Stauber]], [[Randy K. Weber]], [[Jennifer L. McClellan]], [[Debbie Stabenow]], [[Guy Reschenthaler]], [[Lizzie Fletcher]], [[Cliff Bentz]], [[Marc A. Veasey]], [[Mariannette Miller-Meeks]], [[Dan Sullivan]], [[Andy Harris]], [[Beth van Duyne]], [[David G. Valadao]], [[Brian Mast]], [[Thom Tillis]], [[Ray LaHood]], [[Brendan Boyle]], [[Tony Gonzales]], [[Ron Johnson]], [[Lee Zeldin]], [[Sheri Biggs]], [[Kyrsten Sinema]], [[Neal P. Dunn]], [[Jerry Moran]], [[Stephanie I. Bice]], [[Katie Britt]], [[Brian Babin]], [[Nicholas A. Langworthy]], [[Dan Newhouse]], [[Michael T. McCaul]], [[John Hickenlooper]], [[Josh Hawley]], [[Nicholas J. Begich]], [[Mike Bost]], [[Tom Barrett]], [[Ben Ray Lujan]], [[Christopher H. Smith]], [[Zachary Nunn]], [[Erin Houchin]], [[Jerrold Nadler]], [[Marsha Blackburn]], [[Gregory Meeks]], [[Chris Coons]], [[Vince Fong]], [[Patty Murray]], [[Bryan Steil]], [[John J. McGuire]], [[Pete Aguilar]], [[Mike Thompson]], [[David J. Taylor]], [[Maria Elvira Salazar]], [[Tim Walberg]], [[Claudia Tenney]], [[Celeste Maloy]], [[Bennie Thompson]], [[Steny H. Hoyer]], [[Kirsten E. Gillibrand]], [[Mike Collins]], [[John James]], [[William R. Timmons]], [[Gary J. Palmer]], [[Peter Welch]], [[Ryan Zinke]], [[Wesley Hunt]], [[Cleo Fields]], [[Dan Crenshaw]], [[Steven Horsford]], [[Nicole Malliotakis]], [[Ron Wyden]], [[Bobby Scott]], [[Carlos Gimenez]], [[James C. Justice]], [[Troy Balderson]], [[Rudy Yakym]], [[Michael Whatley]], [[Dick Durbin]], [[Brian Jack]], [[Bob Casey]], [[Michael Lawler]], [[Tony Wied]], [[Carol D. Miller]], [[J. Luis Correa]]"
 ---
+
+
 
 
 
@@ -104,6 +110,21 @@ politicians-funded: "[[WinSenate]], [[Emily's List]], [[WinRed]], [[FreedomWorks
 **Capital type:** `fossil-capital`
 
 **Total political spend:** —
+
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Tom Cole | $76,000 |
+| Frank Lucas | $69,050 |
+| Steve Scalise | $64,000 |
+| Markwayne Mullin | $59,500 |
+| Rick Larsen | $53,000 |
+| Cathy McMorris Rodgers | $47,500 |
+| Michael K. Simpson | $47,000 |
+| Kevin Hern | $41,000 |
+| Richard Hudson | $40,000 |
+| Sam Graves | $39,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
@@ -369,9 +390,9 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 | Metric | Amount |
 |---|---:|
-| Total revenue | — |
+| Total revenue | $8.9M |
 | Contribution revenue | $5.0M |
-| Total expenses | — |
+| Total expenses | $10.7M |
 | Total assets (EOY) | $63.6M |
 | Grants paid out | — |
 

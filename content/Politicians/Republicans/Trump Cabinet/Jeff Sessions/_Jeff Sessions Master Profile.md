@@ -1,7 +1,7 @@
 ---
 title: Jeff Sessions
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Republican
@@ -14,9 +14,18 @@ source-types:
   - FEC
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage); no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage); no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)"
 corroboration-count: 2
 top-donors: "[[Pete Sessions]], [[Senate Majority PAC]], [[CVS Health - Aetna]], [[American Iron and Steel Institute]], [[Amgen Inc]], [[Pfizer Inc.]], [[Tyson Foods]], [[Monsanto - Bayer]], [[Associated General Contractors of America Political Action Committee]], [[Nucor Corporation]], [[Akin Gump Strauss Hauer & Feld]], [[Williams Companies]], [[NRA Political Victory Fund]], [[MBNA Corporation]], [[Google - Alphabet]], [[Occidental Petroleum]], [[Mitch McConnell]], [[Bechtel Corporation]], [[National Republican Senatorial Committee]], [[Southern Company]], [[National Cattlemen's Beef Association]], [[National Restaurant Association]], [[Koch Industries]], [[The Tea Party Leadership Fund]], [[Citigroup]], [[National Right to Life PAC]], [[Cargill]], [[McDonalds Corporation]], [[AT&T]], [[Campaign for Working Families]], [[MIKE ROGERS FOR CONGRESS]], [[Mike Rogers]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -30,8 +39,24 @@ top-donors: "[[Pete Sessions]], [[Senate Majority PAC]], [[CVS Health - Aetna]],
 <!-- tier: paid -->
 
 **Party:** Republican · **Chamber:** Attorney General (2017-2018)
+**FEC candidate ID:** `S6AL00195`
 
 **Total received:** —
+
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| National Republican Senatorial Committee | $40,000 |
+| NRA Political Victory Fund | $27,800 |
+| Koch Industries | $27,000 |
+| Associated General Contractors of America Political Action Committee | $20,500 |
+| Senate Majority PAC | $20,000 |
+| Amgen Inc | $18,500 |
+| Nucor Corporation | $18,500 |
+| National Restaurant Association | $17,500 |
+| MBNA Corporation | $17,000 |
+| Mitch McConnell | $13,911 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

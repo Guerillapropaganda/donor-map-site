@@ -12,7 +12,7 @@ generated-by: scripts/lib/attention-queue.cjs
 
 *Auto-generated. Every script that finds something worth your time writes to this file.*
 
-**32** blocking · **54** editorial decisions · **38** background cleanup
+**31** blocking · **52** editorial decisions · **38** background cleanup
 
 ---
 
@@ -20,162 +20,27 @@ generated-by: scripts/lib/attention-queue.cjs
 
 *Something is broken or will break soon. These block other work — handle first.*
 
-### Council for National Policy: voice rule violations
-
-Ready profile contains 1 em dash in body, low specific-number density 0.0/100 words (target ~0.7). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Donors & Power Networks/Dark Money/Council for National Policy.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Gun Owners of America: voice rule violations
-
-Ready profile contains 1 em dash in body, avg sentence length 30 words (target ~20). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Donors & Power Networks/Dark Money/Gun Owners of America.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Media Matters: voice rule violations
-
-Ready profile contains 1 em dash in body, avg sentence length 34 words (target ~20). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Donors & Power Networks/Dark Money/Media Matters.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Affordable Chicago Now PAC: voice rule violations
-
-Ready profile contains 1 em dash in body, avg sentence length 42 words (target ~20). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Donors & Power Networks/Super PACs/Affordable Chicago Now PAC.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Sentinel Action Fund: voice rule violations
-
-Ready profile contains 5 em dashes in body, avg sentence length 30 words (target ~20). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Donors & Power Networks/Super PACs/Sentinel Action Fund.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Tim Walz: voice rule violations
-
-Ready profile contains 8 em dashes in body, low specific-number density 0.1/100 words (target ~0.7). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Politicians/Democrats/Governors/Tim Walz/_Tim Walz Master Profile.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Greg Casar Master Profile: voice rule violations
-
-Ready profile contains 3 em dashes in body, low specific-number density 0.0/100 words (target ~0.7). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Politicians/Democrats/House/Greg Casar/_Greg Casar Master Profile.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Zoe Lofgren: voice rule violations
-
-Ready profile contains 13 em dashes in body, low specific-number density 0.0/100 words (target ~0.7). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Politicians/Democrats/House/Zoe Lofgren/_Zoe Lofgren Master Profile.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Harry Reid: voice rule violations
-
-Ready profile contains 4 em dashes in body, low specific-number density 0.1/100 words (target ~0.7). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Politicians/Democrats/Senate/Harry Reid/_Harry Reid Master Profile.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Cargill: voice rule violations
-
-Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Donors & Power Networks/Agriculture/Cargill.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
 ### Fanjul Family - Florida Crystals: voice rule violations
 
-Ready profile contains 74 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 74 em dashes in body, avg sentence length 22 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
 - **Where:** `content/Donors & Power Networks/Agriculture/Fanjul Family - Florida Crystals.md`
 - **Cost:** ~3 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
 
-### John Deere: voice rule violations
-
-Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Donors & Power Networks/Agriculture/John Deere.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Tyson Foods: voice rule violations
-
-Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Donors & Power Networks/Agriculture/Tyson Foods.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
 ### Western Growers Association: voice rule violations
 
-Ready profile contains 30 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 30 em dashes in body, avg sentence length 20 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
 - **Where:** `content/Donors & Power Networks/Agriculture/Western Growers Association.md`
 - **Cost:** ~3 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
 
-### CCPOA - California Correctional Peace Officers Association: voice rule violations
-
-Ready profile contains 19 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Donors & Power Networks/Carceral State/CCPOA - California Correctional Peace Officers Association.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### CoreCivic: voice rule violations
-
-Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Donors & Power Networks/Carceral State/CoreCivic.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### ActBlue: voice rule violations
-
-Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Donors & Power Networks/Dark Money/ActBlue.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
 ### Ballard Partners: voice rule violations
 
-Ready profile contains 2 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 2 em dashes in body, avg sentence length 22 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
 - **Where:** `content/Donors & Power Networks/Dark Money/Ballard Partners.md`
 - **Cost:** ~3 min
@@ -184,7 +49,7 @@ Ready profile contains 2 em dashes in body. These hard rules block ship — em d
 
 ### Brady Campaign: voice rule violations
 
-Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 1 em dash in body, avg sentence length 24 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
 - **Where:** `content/Donors & Power Networks/Dark Money/Brady Campaign.md`
 - **Cost:** ~3 min
@@ -193,61 +58,61 @@ Ready profile contains 1 em dash in body. These hard rules block ship — em das
 
 ### Business Roundtable: voice rule violations
 
-Ready profile contains 2 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 2 em dashes in body, avg sentence length 23 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
 - **Where:** `content/Donors & Power Networks/Dark Money/Business Roundtable.md`
 - **Cost:** ~3 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
 
-### Donors Capital Fund: voice rule violations
+### Council for National Policy: voice rule violations
 
-Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 1 em dash in body, avg sentence length 27 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
-- **Where:** `content/Donors & Power Networks/Dark Money/Donors Capital Fund.md`
+- **Where:** `content/Donors & Power Networks/Dark Money/Council for National Policy.md`
 - **Cost:** ~3 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
 
 ### Environmental Law & Policy Center: voice rule violations
 
-Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 1 em dash in body, avg sentence length 25 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
 - **Where:** `content/Donors & Power Networks/Dark Money/Environmental Law & Policy Center.md`
 - **Cost:** ~3 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
 
-### Federalist Society: voice rule violations
+### Gun Owners of America: voice rule violations
 
-Ready profile contains 15 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 1 em dash in body, avg sentence length 30 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
-- **Where:** `content/Donors & Power Networks/Dark Money/Federalist Society.md`
+- **Where:** `content/Donors & Power Networks/Dark Money/Gun Owners of America.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Media Matters: voice rule violations
+
+Ready profile contains 1 em dash in body, avg sentence length 34 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Media Matters.md`
 - **Cost:** ~3 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
 
 ### Ocean Conservancy: voice rule violations
 
-Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 1 em dash in body, avg sentence length 21 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
 - **Where:** `content/Donors & Power Networks/Dark Money/Ocean Conservancy.md`
 - **Cost:** ~3 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
 
-### Small Dollar Donors - ActBlue: voice rule violations
-
-Ready profile contains 17 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Donors & Power Networks/Dark Money/Small Dollar Donors - ActBlue.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
 ### Trump Donor Coalition: voice rule violations
 
-Ready profile contains 23 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 23 em dashes in body, avg sentence length 21 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
 - **Where:** `content/Donors & Power Networks/Dark Money/Trump Donor Coalition.md`
 - **Cost:** ~3 min
@@ -256,7 +121,7 @@ Ready profile contains 23 em dashes in body. These hard rules block ship — em 
 
 ### Boeing Defense: voice rule violations
 
-Ready profile contains 26 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 26 em dashes in body, avg sentence length 24 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
 - **Where:** `content/Donors & Power Networks/Defense & Intelligence/Boeing Defense.md`
 - **Cost:** ~3 min
@@ -265,7 +130,7 @@ Ready profile contains 26 em dashes in body. These hard rules block ship — em 
 
 ### Defense Contractors: voice rule violations
 
-Ready profile contains 2 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 2 em dashes in body, avg sentence length 22 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
 - **Where:** `content/Donors & Power Networks/Defense & Intelligence/Defense Contractors.md`
 - **Cost:** ~3 min
@@ -274,30 +139,156 @@ Ready profile contains 2 em dashes in body. These hard rules block ship — em d
 
 ### L3Harris Technologies: voice rule violations
 
-Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 1 em dash in body, avg sentence length 21 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
 - **Where:** `content/Donors & Power Networks/Defense & Intelligence/L3Harris Technologies.md`
 - **Cost:** ~3 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
 
-### Northrop Grumman: voice rule violations
+### PG&E - Pacific Gas and Electric: voice rule violations
 
-Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 1x "testament to", avg sentence length 27 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
-- **Where:** `content/Donors & Power Networks/Defense & Intelligence/Northrop Grumman.md`
+- **Where:** `content/Donors & Power Networks/Energy & Utilities/PG&E - Pacific Gas and Electric.md`
 - **Cost:** ~3 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
 
-### vault-audit: dispatcher-alive — 1 finding
+### Meatpacking Corporations: voice rule violations
 
-Attention Queue dispatcher daemon liveness — log freshness during expected-uptime window — Dispatcher log file does not exist. Daemon has never run on this machine. Install the Windows Startup shortcut or run scripts/attention-dispatcher.bat manually.
+Ready profile contains 29 em dashes in body, avg sentence length 24 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
-- **Where:** `/system-health`
-- **Cost:** ~5 min
+- **Where:** `content/Donors & Power Networks/Pharma & Healthcare/Meatpacking Corporations.md`
+- **Cost:** ~3 min
 - **Leverage:** ★★★★★
-- **Surfaced by:** `vault-audit`
+- **Surfaced by:** `voice-drift-detector`
+
+### Affordable Chicago Now PAC: voice rule violations
+
+Ready profile contains 1 em dash in body, avg sentence length 42 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Affordable Chicago Now PAC.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Americans for Prosperity: voice rule violations
+
+Ready profile contains 19 em dashes in body, avg sentence length 23 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Americans for Prosperity.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Club for Growth: voice rule violations
+
+Ready profile contains 17 em dashes in body, avg sentence length 20 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Club for Growth.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Congressional Leadership Fund: voice rule violations
+
+Ready profile contains 22 em dashes in body, avg sentence length 20 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Congressional Leadership Fund.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Democratic Senatorial Campaign Committee: voice rule violations
+
+Ready profile contains 1 em dash in body, avg sentence length 27 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Democratic Senatorial Campaign Committee.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### National Rifle Association: voice rule violations
+
+Ready profile contains 14 em dashes in body, avg sentence length 24 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/National Rifle Association.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Senate Majority PAC: voice rule violations
+
+Ready profile contains 7 em dashes in body, avg sentence length 23 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Senate Majority PAC.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Sentinel Action Fund: voice rule violations
+
+Ready profile contains 5 em dashes in body, avg sentence length 30 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Sentinel Action Fund.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Trump Victory: voice rule violations
+
+Ready profile contains 26 em dashes in body, avg sentence length 22 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Trump Victory.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### FTX - Sam Bankman-Fried: voice rule violations
+
+Ready profile contains 18 em dashes in body, avg sentence length 25 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Donors & Power Networks/Tech & Crypto/FTX - Sam Bankman-Fried.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Morgan Stanley: voice rule violations
+
+Ready profile contains 12 em dashes in body, avg sentence length 27 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Donors & Power Networks/Wall Street/Morgan Stanley.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Hakeem Jeffries Master Profile: voice rule violations
+
+Ready profile contains 13 em dashes in body, avg sentence length 20 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Politicians/Democrats/House/Hakeem Jeffries/_Hakeem Jeffries Master Profile.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Graham Platner Master Profile: voice rule violations
+
+Ready profile contains 4 em dashes in body, avg sentence length 26 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Politicians/Democrats/Senate/Graham Platner/_Graham Platner Master Profile.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Harry Reid: voice rule violations
+
+Ready profile contains 4 em dashes in body, avg sentence length 21 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Politicians/Democrats/Senate/Harry Reid/_Harry Reid Master Profile.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
 
 ### vault-audit: type-specific-a-plus — 1322 findings
 
@@ -401,24 +392,6 @@ This profile passed every automated A+ check. Only David's sign-off (janitor sta
 - **Cost:** ~2 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `promotion-candidate-queue`
-
-### Re-read The Impeachment Vote and the Petrochemical Protection › Opening
-
-New event (2026-03-26) "S. 4251: Mined in America Act of 2026" mentions Bill Cassidy. Profile narrative in "Opening" references Bill Cassidy.
-
-- **Where:** `content/Politicians/Republicans/Senate/Bill Cassidy/The Impeachment Vote and the Petrochemical Protection.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★☆
-- **Surfaced by:** `narrative-drift-detector`
-
-### Re-read Defense-Pharma-Carceral-Labor-Wexner Cross-Reference: Five Donors, One System › Opening
-
-New event (2026-03-26) "S. 4251: Mined in America Act of 2026" mentions Bill Cassidy. Profile narrative in "Opening" references Bill Cassidy.
-
-- **Where:** `content/Stories/Published/Cross-Politician Analysis/Defense-Pharma-Carceral-Labor-Wexner Cross-Reference - Five Donors, One System.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★☆
-- **Surfaced by:** `narrative-drift-detector`
 
 ### PhRMA - Pharmaceutical Research and Manufacturers of America: 52 unsupported claims
 
@@ -681,11 +654,11 @@ ADM - Archer Daniels Midland appears in the politicians-funded / related lists o
 - **Leverage:** ★★★★☆
 - **Surfaced by:** `contradiction-miner`
 
-### Amgen Inc funds 23 Agriculture/HELP committee members
+### Amgen Inc funds 43 Agriculture/HELP committee members
 
-Amgen Inc shows up in the donor lists of 23 different Agriculture/HELP committee members: Adam Gray, Andrea Salinas, Debbie Wasserman Schultz, Gabe Vasquez, Kristen McDonald Rivet and 18 more. That's coordinated capture of an entire regulatory body. Pull FEC totals per member, cross-reference committee votes on bills affecting Amgen Inc's sector, a
+Amgen Inc shows up in the donor lists of 43 different Agriculture/HELP committee members: Adam Gray, Alma S. Adams, Andrea Salinas, David Scott, Debbie Wasserman Schultz and 38 more. That's coordinated capture of an entire regulatory body. Pull FEC totals per member, cross-reference committee votes on bills affecting Amgen Inc's sector, and write t
 
-- **Where:** `content/Story Seeds/committee-capture-amgen-inc-funds-23-agriculture-help-committee-members.md`
+- **Where:** `content/Story Seeds/committee-capture-amgen-inc-funds-43-agriculture-help-committee-members.md`
 - **Cost:** ~25 min
 - **Leverage:** ★★★★☆
 - **Surfaced by:** `contradiction-miner`
@@ -699,11 +672,11 @@ Agricultural Labor Vulnerability Donors appears in the politicians-funded / rela
 - **Leverage:** ★★★★☆
 - **Surfaced by:** `contradiction-miner`
 
-### Julia Brownley funds 11 Agriculture/HELP committee members
+### Julia Brownley funds 22 Agriculture/HELP committee members
 
-Julia Brownley shows up in the donor lists of 11 different Agriculture/HELP committee members: Adam Gray, Andrea Salinas, Eric Sorensen, Jahana Hayes, Josh Riley and 6 more. That's coordinated capture of an entire regulatory body. Pull FEC totals per member, cross-reference committee votes on bills affecting Julia Brownley's sector, and write the c
+Julia Brownley shows up in the donor lists of 22 different Agriculture/HELP committee members: Adam Gray, Andrea Salinas, Angie Craig, Chellie Pingree, Donald G. Davis and 17 more. That's coordinated capture of an entire regulatory body. Pull FEC totals per member, cross-reference committee votes on bills affecting Julia Brownley's sector, and writ
 
-- **Where:** `content/Story Seeds/committee-capture-julia-brownley-funds-11-agriculture-help-committee-members.md`
+- **Where:** `content/Story Seeds/committee-capture-julia-brownley-funds-22-agriculture-help-committee-members.md`
 - **Cost:** ~25 min
 - **Leverage:** ★★★★☆
 - **Surfaced by:** `contradiction-miner`
@@ -717,11 +690,11 @@ CA Farm Bureau Federation appears in the politicians-funded / related lists of b
 - **Leverage:** ★★★★☆
 - **Surfaced by:** `contradiction-miner`
 
-### Nancy Pelosi funds 18 Agriculture/HELP committee members
+### Nancy Pelosi funds 36 Agriculture/HELP committee members
 
-Nancy Pelosi shows up in the donor lists of 18 different Agriculture/HELP committee members: Adam Gray, Andrea Salinas, Angie Craig, Eric Sorensen, Jahana Hayes and 13 more. That's coordinated capture of an entire regulatory body. Pull FEC totals per member, cross-reference committee votes on bills affecting Nancy Pelosi's sector, and write the cap
+Nancy Pelosi shows up in the donor lists of 36 different Agriculture/HELP committee members: Adam Gray, Alma S. Adams, Andrea Salinas, Angie Craig, April McClain Delaney and 31 more. That's coordinated capture of an entire regulatory body. Pull FEC totals per member, cross-reference committee votes on bills affecting Nancy Pelosi's sector, and writ
 
-- **Where:** `content/Story Seeds/committee-capture-nancy-pelosi-funds-18-agriculture-help-committee-members.md`
+- **Where:** `content/Story Seeds/committee-capture-nancy-pelosi-funds-36-agriculture-help-committee-members.md`
 - **Cost:** ~25 min
 - **Leverage:** ★★★★☆
 - **Surfaced by:** `contradiction-miner`
@@ -791,7 +764,7 @@ Marcia Fudge has sponsored 14 bills in the "Agriculture and Food" policy area. T
 
 ### vault-audit: frontmatter-schema — 232 findings
 
-Frontmatter schema violations per ADR-0023 (universal/type-required/proposed-required/retired) — 2943 scanned, 1689 with violations. 232 error(s) (universal/type-required/id/retired/unknown-type), 3082 info (proposed-required backfill per ADR-0023 Phase C/D).
+Frontmatter schema violations per ADR-0023 (universal/type-required/proposed-required/retired) — 2955 scanned, 1689 with violations. 232 error(s) (universal/type-required/id/retired/unknown-type), 3082 info (proposed-required backfill per ADR-0023 Phase C/D).
 
 - **Where:** `/system-health`
 - **Cost:** ~60 min
@@ -829,112 +802,112 @@ Referenced by 212 other vault profiles but has no file yet. Building a stub unlo
 - **Leverage:** ★★★★★
 - **Surfaced by:** `missing-profile-detector`
 
-### Build stub: PhRMA
+### Build stub: NANCY PELOSI FOR CONGRESS
 
-Referenced by 57 other vault profiles but has no file yet. Building a stub unlocks 57 broken wikilinks and turns this entity into something other scripts can enrich. Sample: ALEC - American Legislative Exchange Council, American Action Network, Healthcare Sector.
-
-- **Where:** `content/Admin Notes/missing-profiles.md`
-- **Cost:** ~10 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `missing-profile-detector`
-
-### Build stub: GEO Group
-
-Referenced by 37 other vault profiles but has no file yet. Building a stub unlocks 37 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Aramark, Bail Bond Industry, CoreCivic - Private Prisons.
+Referenced by 184 other vault profiles but has no file yet. Building a stub unlocks 184 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Deb Haaland, Sherrod Brown, Tim Walz.
 
 - **Where:** `content/Admin Notes/missing-profiles.md`
 - **Cost:** ~10 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `missing-profile-detector`
 
-### Build stub: Fairshake PAC - Crypto Super PAC
+### Build stub: TEXANS FOR JODEY ARRINGTON
 
-Referenced by 31 other vault profiles but has no file yet. Building a stub unlocks 31 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Mark Zuckerberg, Ross Stevens, Susquehanna International Group.
-
-- **Where:** `content/Admin Notes/missing-profiles.md`
-- **Cost:** ~10 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `missing-profile-detector`
-
-### Build stub: Pfizer
-
-Referenced by 26 other vault profiles but has no file yet. Building a stub unlocks 26 broken wikilinks and turns this entity into something other scripts can enrich. Sample: AbbVie, Eli Lilly, Gilead Sciences.
+Referenced by 171 other vault profiles but has no file yet. Building a stub unlocks 171 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Sherrod Brown, Aaron Bean, Addison P. McDowell.
 
 - **Where:** `content/Admin Notes/missing-profiles.md`
 - **Cost:** ~10 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `missing-profile-detector`
 
-### Build stub: _Media Pipeline Framework
+### Build stub: JIM JORDAN FOR CONGRESS
 
-Referenced by 26 other vault profiles but has no file yet. Building a stub unlocks 26 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Lobbying Firms & K Street Framework, Bari Weiss, Breaking Points with Krystal and Saagar.
-
-- **Where:** `content/Admin Notes/missing-profiles.md`
-- **Cost:** ~10 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `missing-profile-detector`
-
-### Build stub: Palantir
-
-Referenced by 21 other vault profiles but has no file yet. Building a stub unlocks 21 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Defense Contractors Bloc, Elon Musk, Palantir Technologies.
+Referenced by 162 other vault profiles but has no file yet. Building a stub unlocks 162 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Ron DeSantis, Aaron Bean, Abraham J. Hamadeh.
 
 - **Where:** `content/Admin Notes/missing-profiles.md`
 - **Cost:** ~10 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `missing-profile-detector`
 
-### Build stub: Jeff Yass
+### Build stub: TED LIEU FOR CONGRESS
 
-Referenced by 18 other vault profiles but has no file yet. Building a stub unlocks 18 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Cryptocurrency Industry Bloc , Fairshake PAC Network, Donor Registry - Master Index, American Federation for Children.
+Referenced by 136 other vault profiles but has no file yet. Building a stub unlocks 136 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Adam Gray, Adam Smith, Adriano Espaillat.
 
 - **Where:** `content/Admin Notes/missing-profiles.md`
 - **Cost:** ~10 min
-- **Leverage:** ★★★★☆
+- **Leverage:** ★★★★★
 - **Surfaced by:** `missing-profile-detector`
 
-### Build stub: Google
+### Build stub: PETE AGUILAR FOR CONGRESS
 
-Referenced by 12 other vault profiles but has no file yet. Building a stub unlocks 12 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Stand Together, Akin Gump Strauss Hauer & Feld, Nancy Pelosi.
+Referenced by 129 other vault profiles but has no file yet. Building a stub unlocks 129 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Deb Haaland, Adam Gray, Adriano Espaillat.
 
 - **Where:** `content/Admin Notes/missing-profiles.md`
 - **Cost:** ~10 min
-- **Leverage:** ★★★☆☆
+- **Leverage:** ★★★★★
 - **Surfaced by:** `missing-profile-detector`
 
-### Build stub: Blackstone
+### Build stub: JASON SMITH FOR CONGRESS
 
-Referenced by 12 other vault profiles but has no file yet. Building a stub unlocks 12 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Shontel Brown, The Wall Street-Schumer Funding Axis, Bill Hagerty.
+Referenced by 127 other vault profiles but has no file yet. Building a stub unlocks 127 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Adrian Smith, Andrew Ogles, Andrew R. Garbarino.
 
 - **Where:** `content/Admin Notes/missing-profiles.md`
 - **Cost:** ~10 min
-- **Leverage:** ★★★☆☆
+- **Leverage:** ★★★★★
 - **Surfaced by:** `missing-profile-detector`
 
-### Build stub: Goldman Sachs - Wall Street Titan
+### Build stub: Medicare for All
 
-Referenced by 10 other vault profiles but has no file yet. Building a stub unlocks 10 broken wikilinks and turns this entity into something other scripts can enrich. Sample: JPMorgan Chase, Wall Street Bloc, Wall Street Finance Networks.
+Referenced by 117 other vault profiles but has no file yet. Building a stub unlocks 117 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Healthcare Sector, Adam Smith, Adriano Espaillat.
 
 - **Where:** `content/Admin Notes/missing-profiles.md`
 - **Cost:** ~10 min
-- **Leverage:** ★★★☆☆
+- **Leverage:** ★★★★★
 - **Surfaced by:** `missing-profile-detector`
 
-### Build stub: Fox Corp - Rupert Murdoch
+### Build stub: AUSTIN SCOTT FOR CONGRESS INC
 
-Referenced by 10 other vault profiles but has no file yet. Building a stub unlocks 10 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Jake Tapper, Joe Scarborough, Nicolle Wallace.
+Referenced by 115 other vault profiles but has no file yet. Building a stub unlocks 115 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Andrew R. Garbarino, Andrew S. Clyde, Andy Barr.
 
 - **Where:** `content/Admin Notes/missing-profiles.md`
 - **Cost:** ~10 min
-- **Leverage:** ★★★☆☆
+- **Leverage:** ★★★★★
 - **Surfaced by:** `missing-profile-detector`
 
-### Build stub: Wilks Brothers
+### Build stub: LOFGREN FOR CONGRESS
 
-Referenced by 10 other vault profiles but has no file yet. Building a stub unlocks 10 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Andrew Klavan, Ben Shapiro, Candace Owens.
+Referenced by 107 other vault profiles but has no file yet. Building a stub unlocks 107 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Deb Haaland, Adam Gray, Adam Smith.
 
 - **Where:** `content/Admin Notes/missing-profiles.md`
 - **Cost:** ~10 min
-- **Leverage:** ★★★☆☆
+- **Leverage:** ★★★★★
+- **Surfaced by:** `missing-profile-detector`
+
+### Build stub: DAVID ROUZER FOR CONGRESS
+
+Referenced by 106 other vault profiles but has no file yet. Building a stub unlocks 106 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Aaron Bean, Andrew R. Garbarino, Andy Barr.
+
+- **Where:** `content/Admin Notes/missing-profiles.md`
+- **Cost:** ~10 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `missing-profile-detector`
+
+### Build stub: JUDY CHU FOR CONGRESS
+
+Referenced by 89 other vault profiles but has no file yet. Building a stub unlocks 89 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Deb Haaland, Adam Gray, Ami Bera.
+
+- **Where:** `content/Admin Notes/missing-profiles.md`
+- **Cost:** ~10 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `missing-profile-detector`
+
+### Build stub: BEN CLINE FOR CONGRESS, INC.
+
+Referenced by 88 other vault profiles but has no file yet. Building a stub unlocks 88 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Aaron Bean, Andrew Ogles, Andrew R. Garbarino.
+
+- **Where:** `content/Admin Notes/missing-profiles.md`
+- **Cost:** ~10 min
+- **Leverage:** ★★★★★
 - **Surfaced by:** `missing-profile-detector`
 
 ### vault-audit: pathless-stub-entities — 13 findings
@@ -1135,9 +1108,9 @@ HMP is tagged dark-money-networked with capital_type=dark-money-vehicle. Total t
 - **Leverage:** ★★★★★
 - **Surfaced by:** `story-candidate-scorer`
 
-### vault-audit: pipeline-janitor — 606 findings
+### vault-audit: pipeline-janitor — 225 findings
 
-Zombie auto-blocks, stale enrichment, A+ audit checks on ready/verified profiles — Scanned 3240 profiles. 606 had issues.
+Zombie auto-blocks, stale enrichment, A+ audit checks on ready/verified profiles — Scanned 3252 profiles. 225 had issues.
 
 - **Where:** `/system-health`
 - **Cost:** ~60 min

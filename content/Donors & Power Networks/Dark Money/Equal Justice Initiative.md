@@ -1,20 +1,28 @@
 ---
 title: "Equal Justice Initiative"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18
 sector: "Dark Money"
 entity-type: "501(c)(3)"
 ein: "631135091"
 nonprofit-status: "501(c)(3)"
 source-tier: 1
-internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Bryan Stevenson-led death penalty and prison reform advocacy org. Major recipient from liberal foundations and individual donors. Narrative pending Research Claude editorial pass."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Bryan Stevenson-led death penalty and prison reform advocacy org. Major recipient from liberal foundations and individual donors. Narrative pending Research Claude editorial pass."
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
   - "No mapped relationships"
 last-enriched: 2026-04-21
+needs-reenrichment: true
+reenrich-reason: "no fec-committee-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 ---
+
+
 
 
 
@@ -57,16 +65,41 @@ last-enriched: 2026-04-21
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 8 (2018–2024)
 
-**Grants received (2018–2024):** $90.1M across 14 grantors (from other vault orgs' Schedule I records).
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $67.0M |
+| Total expenses | — |
+| Total assets (EOY) | $455.3M |
+| Grants paid out | $30.0M |
+
+**Lifetime grants out (2018–2024):** $50.4M across 8 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| THE LEGACY FOUNDATION | $50.0M | 2 | 2023–2024 |
+| WEST ALABAMA FOOD BANK | $100K | 1 | 2022 |
+| EDMUNITE MISSION | $50K | 1 | 2022 |
+| EAST ALABAMA FOOD BANK | $50K | 1 | 2022 |
+| GREATER BIRMINGHAM MINISTRIES | $50K | 1 | 2022 |
+| SOCIETY OF ST ANDREWS | $50K | 1 | 2022 |
+| MEDICAL ADVOCACY AND OUTREACH | $50K | 1 | 2022 |
+| HELPING HANDS FOOD MINISTRY | $25K | 1 | 2022 |
+
+**Grants received (2018–2024):** $94.7M across 14 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $28.7M | 7 | 2018–2023 |
 | NATIONAL PHILANTHROPIC TRUST | $26.7M | 6 | 2018–2023 |
-| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $24.1M | 6 | 2018–2023 |
 | SCHWAB CHARITABLE FUND | $14.7M | 7 | 2018–2024 |
 | Silicon Valley Community Foundation | $9.1M | 5 | 2018–2023 |
 | Vanguard Charitable Endowment Program | $5.0M | 3 | 2021–2023 |

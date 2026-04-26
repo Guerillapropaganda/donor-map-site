@@ -1,7 +1,7 @@
 ---
 title: Morgan Stanley
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -48,7 +48,11 @@ regulatory-agencies:
 lei: IGJSJL3JD5P30I6NJZ34
 lei-jurisdiction: US-DE
 cross-vault-triangulation-count: 7
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 total-raised: 448670
 total-spent: 459826
 cash-on-hand: 1434286
@@ -58,6 +62,8 @@ employee-contributions: 63106
 employee-contributions-total: 8546253
 employee-donor-count: 5934
 ---
+
+
 
 
 
@@ -75,7 +81,20 @@ employee-donor-count: 5934
 
 **Total political spend:** —
 
-*No direct donor→politician dollar flows tracked for this entity. Money may route through controlled vehicles or 501(c)(4) shells. See narrative sections below for details.*
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Marco Rubio | $57,710 |
+| Chrissy Houlahan | $29,000 |
+| Mike Thompson | $27,500 |
+| Richard Neal | $27,500 |
+| Bryan Steil | $27,500 |
+| Jim Himes | $26,500 |
+| Jimmy Panetta | $25,800 |
+| Ann Wagner | $24,500 |
+| Jon Ossoff | $24,228 |
+| J. French Hill | $24,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
@@ -356,9 +375,9 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 | Metric | Amount |
 |---|---:|
-| Total revenue | — |
+| Total revenue | $610K |
 | Contribution revenue | — |
-| Total expenses | — |
+| Total expenses | $130K |
 | Total assets (EOY) | $15.8M |
 | Grants paid out | — |
 

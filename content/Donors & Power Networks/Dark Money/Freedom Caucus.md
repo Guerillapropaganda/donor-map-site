@@ -1,7 +1,7 @@
 ---
 title: House Freedom Caucus
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18
 source-tier: 1
 parent: null
@@ -21,7 +21,11 @@ related: "[[US Chamber of Commerce]] · [[_Jim Jordan Master Profile|Jim Jordan]
 lobbying-spend: 2440844
 lobbying-filings: 100
 cross-vault-triangulation-count: 10
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 wikidata-id: Q19881038
 wikipedia-url: https://en.wikipedia.org/wiki/Freedom_Caucus
 wikipedia-extract: The Freedom Caucus, also known as the House Freedom Caucus, is a congressional caucus of conservative members of the Republican Party in the United States House of Representatives.
@@ -29,6 +33,8 @@ checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 ---
+
+
 
 
 

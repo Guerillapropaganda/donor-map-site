@@ -1,7 +1,7 @@
 ---
 title: The 60 Plus Association
 type: donor
-content-readiness: ready
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -21,7 +21,14 @@ urls-first-triaged: "2026-04-15"
 source-types:
   - FEC
 last-enriched: 2026-04-21
+needs-reenrichment: true
+reenrich-reason: "re-run CSV bulk: `node scripts/ingest-fec-pas2-bulk.cjs && node scripts/build-fec-lifetime-panels.cjs`"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -36,10 +43,15 @@ last-enriched: 2026-04-21
 
 **Entity type:** donor
 **Sector:** Political Committees
+**EIN:** `541564919`
 
 **Total political spend:** —
 
-*No direct donor→politician dollar flows tracked for this entity. Money may route through controlled vehicles or 501(c)(4) shells. See narrative sections below for details.*
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Adam Smith | $6,122 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
@@ -73,3 +85,32 @@ This profile absorbs the following FEC-format committee name(s):
 
 *Auto-generated from canonical government identifiers in frontmatter (bioguide, FEC, IRS EIN). These URLs are deterministic — constructed from IDs, not manually curated or hunted. See content/Vault Rules.md § 2b on canonical URL construction.*
 <!-- auto:harvested-sources end -->
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 10 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $6.4M |
+| Total expenses | — |
+| Total assets (EOY) | $1.1M |
+| Grants paid out | — |
+
+**Grants received (2019–2024):** $250K across 2 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| PHARMACEUTICAL RESEARCH &amp; MANUFACTURERS | $225K | 4 | 2019–2024 |
+| The Concord Fund | $25K | 1 | 2021 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

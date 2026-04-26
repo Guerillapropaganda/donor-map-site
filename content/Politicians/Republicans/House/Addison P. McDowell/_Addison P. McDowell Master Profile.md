@@ -1,7 +1,7 @@
 ---
 title: Addison P. McDowell
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Republican
@@ -23,6 +23,8 @@ known-gaps:
   - No mapped relationships
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 committees:
   - Aviation
   - Coast Guard and Maritime Transportation
@@ -35,7 +37,12 @@ committees:
 bills-sponsored: 12
 corroboration-count: 2
 top-donors: "[[JIM JORDAN FOR CONGRESS]], [[VIRGINIA FOXX FOR CONGRESS]], [[AIPAC - American Israel Public Affairs Committee]], [[Ben Carson]], [[TEXANS FOR JODEY ARRINGTON]], [[Tom Emmer]], [[Steve Scalise]], [[TROY DOWNING FOR CONGRESS]], [[Pfizer Inc.]], [[FRIENDS OF TIM MOORE]], [[NRA Political Victory Fund]], [[Coinbase]], [[Brandon Gill]], [[Hunter Action Fund (haf)]], [[MIKE HARIDOPOLOS FOR CONGRESS]], [[Carol D. Miller]], [[BRANDON GILL FOR TEXAS]], [[Nucor Corporation]], [[Brett Guthrie]], [[Koch Industries]], [[Associated General Contractors of America Political Action Committee]], [[Gregory F. Murphy]], [[MOORE FOR WEST VIRGINIA, INC.]], [[National Restaurant Association]], [[TED BUDD FOR SENATE]], [[Campaign for Working Families]], [[David P. Joyce]], [[Ted Budd]], [[Tim Moore]], [[Mike Haridopolos]], [[Virginia Foxx]], [[Jim Jordan]], [[Troy Downing]], [[Jodey Arrington]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -52,6 +59,21 @@ top-donors: "[[JIM JORDAN FOR CONGRESS]], [[VIRGINIA FOXX FOR CONGRESS]], [[AIPA
 **Bioguide ID:** `M001240`
 
 **Total received:** —
+
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| AIPAC - American Israel Public Affairs Committee | $15,000 |
+| Ben Carson | $15,000 |
+| Ted Budd | $10,000 |
+| Nucor Corporation | $7,500 |
+| Tom Emmer | $6,000 |
+| Steve Scalise | $6,000 |
+| Brandon Gill | $5,000 |
+| Jim Jordan | $4,000 |
+| Michael Whatley | $4,000 |
+| WHATLEY FOR SENATE | $4,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -1,7 +1,7 @@
 ---
 title: Gabe Evans
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Republican
@@ -23,6 +23,8 @@ known-gaps:
   - No mapped relationships
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 committees:
   - Commerce, Manufacturing, and Trade
   - Counterterrorism and Intelligence
@@ -34,7 +36,12 @@ committees:
 bills-sponsored: 17
 corroboration-count: 2
 top-donors: "[[CLYDE FOR CONGRESS, INC.]], [[National Cattlemen's Beef Association]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[Rick Crawford]], [[COMER FOR CONGRESS]], [[Russ Fulcher]], [[JAKE ELLZEY FOR CONGRESS]], [[FRY FOR CONGRESS]], [[H. Morgan Griffith]], [[Google - Alphabet]], [[American College of Radiology Association PAC]], [[LISA MCCLAIN FOR CONGRESS]], [[Campaign for Working Families]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[MIKE HARIDOPOLOS FOR CONGRESS]], [[Robert E. Latta]], [[Gregory F. Murphy]], [[BURGESS 4 UTAH]], [[Ashley Hinson]], [[ADRIAN SMITH FOR CONGRESS]], [[MIKE KENNEDY FOR UTAH]], [[Tyson Foods]], [[Tom Emmer]], [[DAVE TAYLOR FOR CONGRESS]], [[Frank Lucas]], [[Associated General Contractors of America Political Action Committee]], [[JEFF HURD FOR CONGRESS]], [[NRA Political Victory Fund]], [[Williams Companies]], [[Dale W. Strong]], [[Special Operations for America]], [[Steve Scalise]], [[HOUCHIN FOR CONGRESS]], [[Gus M. Bilirakis]], [[Harold Rogers]], [[Brett Guthrie]], [[NATHANIEL MORAN FOR CONGRESS]], [[ROBERT ADERHOLT FOR CONGRESS]], [[JOE WILSON FOR CONGRESS]], [[Koch Industries]], [[FRIENDS OF TIM MOORE]], [[ANDY HARRIS FOR CONGRESS]], [[BURCHETT FOR CONGRESS]], [[Lloyd Smucker]], [[RICK W. ALLEN FOR CONGRESS]], [[DR JOHN JOYCE FOR CONGRESS]], [[Mark B. Messmer]], [[Pfizer Inc.]], [[BEN CLINE FOR CONGRESS, INC.]], [[Kevin Kiley]], [[Robert F. Onder]], [[Jimmy Patronis]], [[MICHAEL WALTZ FOR CONGRESS]], [[Occidental Petroleum]], [[Michael Guest]], [[CVS Health - Aetna]], [[TROY DOWNING FOR CONGRESS]], [[CARLOS GIMENEZ FOR CONGRESS]], [[MARY MILLER FOR CONGRESS]], [[PETE SESSIONS FOR CONGRESS]], [[BOST, MICHAEL]], [[MARK HARRIS FOR CONGRESS]], [[Republican Jewish Coalition]], [[Amgen Inc]], [[MOORE FOR WEST VIRGINIA, INC.]], [[DAVID ROUZER FOR CONGRESS]], [[Mike Johnson]], [[David P. Joyce]], [[Pat Fallon]], [[Freedom's Defense Fund]], [[Jeff Hurd]], [[AUGUST PFLUGER FOR CONGRESS]], [[Clay Higgins]], [[CLIFF BENTZ FOR CONGRESS]], [[BRAD KNOTT FOR CONGRESS]], [[Elise Stefanik]], [[GARY PALMER FOR CONGRESS]], [[Tim Walberg]], [[Honoring American Law Enforcement Pac]], [[JIM JORDAN FOR CONGRESS]], [[Brandon Gill]], [[RON ESTES FOR CONGRESS]], [[NEHLS FOR CONGRESS]], [[Neal P. Dunn]], [[FEDORCHAK FOR ND]], [[Law Enforcement for a Safer America Pac]], [[Guy Reschenthaler]], [[HAGEMAN FOR WYOMING]], [[KEVIN KILEY FOR CONGRESS]], [[JOHN JAMES FOR CONGRESS, INC.]], [[Mike Ezell]], [[DON BACON FOR CONGRESS]], [[WEBER FOR CONGRESS]], [[John J. McGuire]], [[MCCAUL FOR CONGRESS, INC]], [[Tim Moore]], [[Brad Knott]], [[Jake Ellzey]], [[Tim Burchett]], [[James Comer]], [[Don Bacon]], [[Troy Downing]], [[Andy Harris]], [[Adrian Smith]], [[Ron Estes]], [[John Joyce]], [[August Pfluger]], [[Nathaniel Moran]], [[Robert B. Aderholt]], [[Pete Sessions]], [[Cliff Bentz]], [[Burgess Owens]], [[Julie Fedorchak]], [[Rick W. Allen]], [[Carlos Gimenez]], [[David Rouzer]], [[MARK ALFORD FOR CONGRESS, INC.]], [[Jim Jordan]], [[Gary J. Palmer]], [[Lisa C. McClain]], [[Mary E. Miller]], [[Mark Harris]], [[Mike Bost]], [[Mike Kennedy]], [[Erin Houchin]], [[Harriet M. Hageman]], [[Troy E. Nehls]], [[Mike Haridopolos]], [[Randy K. Weber]], [[David J. Taylor]], [[Michael Waltz]], [[Joe Wilson]], [[Russell Fry]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -49,8 +56,24 @@ top-donors: "[[CLYDE FOR CONGRESS, INC.]], [[National Cattlemen's Beef Associati
 
 **Party:** Republican · **Chamber:** House · **State:** Colorado
 **Bioguide ID:** `E000300`
+**FEC candidate ID:** `H4CO08034`
 
 **Total received:** —
+
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Koch Industries | $20,000 |
+| Steve Scalise | $8,000 |
+| National Cattlemen's Beef Association | $7,500 |
+| Associated General Contractors of America Political Action Committee | $7,500 |
+| Jeff Hurd | $7,000 |
+| Google - Alphabet | $6,000 |
+| Occidental Petroleum | $6,000 |
+| Williams Companies | $6,000 |
+| Jim Jordan | $6,000 |
+| Austin Scott | $6,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

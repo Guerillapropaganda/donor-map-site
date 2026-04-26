@@ -2,7 +2,7 @@
 title: "Senate Majority PAC"
 type: pac
 ein: "272896127"
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-17
 source-tier: 1
 parent: null
@@ -34,7 +34,11 @@ sec-form-types:
   - "144"
 opposes: "[[Shelley Moore Capito]] · [[Thom Tillis Master Profile]]"
 cross-vault-triangulation-count: 19
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 aliases:
@@ -43,6 +47,8 @@ checklist-na:
   - "regulatory: auto: entity type \"pac\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"pac\" does not typically hold federal contracts (2026-04-15)"
 ---
+
+
 
 
 
@@ -64,8 +70,16 @@ checklist-na:
 
 | Politician | Amount |
 |---|---:|
-| Thom Tillis | $11,990,212 |
-| Shelley Moore Capito | $468,063 |
+| Thom Tillis | $54,973,345 |
+| Susan Collins | $50,424,776 |
+| Josh Hawley | $35,399,813 |
+| John Cornyn | $17,091,337 |
+| Catherine Cortez Masto | $8,551,162 |
+| Joe Manchin | $6,953,860 |
+| John Hickenlooper | $5,256,392 |
+| Shelley Moore Capito | $470,563 |
+| John Thune | $34,500 |
+| Lindsey Graham | $30,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

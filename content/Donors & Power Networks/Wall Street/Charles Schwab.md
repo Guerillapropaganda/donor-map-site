@@ -1,7 +1,7 @@
 ---
 title: Charles Schwab
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -20,6 +20,8 @@ top-federal-agency: Department of the Treasury
 top-naics-code: "523120"
 federal-register-mentions: 298
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "no lda ID resolved for this profile — either resolve ID upstream then run `node scripts/ingest-lda-bulk.cjs`, or demote to draft (admits no LDA coverage)"
 regulatory-agencies:
   - Federal Trade Commission
   - Securities and Exchange Commission
@@ -71,7 +73,12 @@ employee-contributions: 14647
 employee-contributions-total: 35307342
 employee-donor-count: 1299
 politicians-funded: "[[_Young Kim Master Profile]], [[ESAFUND]], [[_John James Master Profile]], [[_Mike Flood Master Profile]], [[_Beth van Duyne Master Profile]], [[Giffords PAC]], [[SLF PAC]], [[_Nancy Pelosi Master Profile]], [[_Jeff Hurd Master Profile]], [[WinRed]], [[_Ted Cruz Master Profile]], [[_Jon Ossoff Master Profile]], [[Alabama Conservatives Fund]], [[MoveOn.org Political Action]], [[Charles Schwab]], [[ActBlue]], [[NRCC - National Republican Congressional Committee]], [[Hmp]], [[The Lincoln Project]], [[_Pete Sessions Master Profile]], [[_Tim Scott Master Profile]], [[_Mike Thompson Master Profile]], [[CHC BOLD PAC]], [[_Claudia Tenney Master Profile]], [[Wfw Action Fund, Inc.]], [[_George Whitesides Master Profile]], [[_Matt van Epps Master Profile]], [[Winning for Women PAC]], [[NRSC - National Republican Senatorial Committee]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Troy Downing Master Profile]], [[Catherine Cortez Masto]], [[_Ann Wagner Master Profile]], [[Emily's List]], [[_Tony Gonzales Master Profile]], [[Human Rights Campaign Equality Votes]], [[_Ron Johnson Master Profile]], [[_Maria Elvira Salazar Master Profile]], [[_August Pfluger Master Profile]], [[_Pete Stauber Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Don Bacon Master Profile]], [[_Marco Rubio Master Profile]], [[Bob Casey]], [[_Pete Ricketts Master Profile]], [[MAGA Inc]], [[_Lauren Underwood Master Profile]], [[AMERICAN PATRIOTS PAC]], [[RNC - Republican National Committee]], [[_Jake Ellzey Master Profile]], [[Opportunity Matters Fund]], [[Progressive Turnout Project]], [[_Joe Neguse Master Profile]], [[Trump Victory]], [[Congressional Leadership Fund]], [[_Byron Donalds Master Profile]], [[_Michael Waltz Master Profile]], [[_Alex Padilla Master Profile]], [[_Jason Smith Master Profile]], [[_Tony Wied Master Profile]], [[Save America PAC]], [[_Tom Barrett Master Profile]], [[Activate America]], [[_Victoria Spartz Master Profile]], [[_Carlos Gimenez Master Profile]], [[_Dan Newhouse Master Profile]], [[WinSenate]], [[Mark Kelly]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[_Josh Harder Master Profile]], [[_Scott Wiener Master Profile]], [[_Glenn Grothman Master Profile]], [[_Ted Budd Master Profile]], [[_Daniel Webster Master Profile]], [[_Adrian Smith Master Profile]], [[_Virginia Foxx Master Profile]], [[_Tammy Baldwin Master Profile]], [[_Andy Barr Master Profile]], [[National Victory Action Fund]], [[_Brian Jack Master Profile]], [[Bernie Moreno]], [[_Susie Lee Master Profile]], [[Future45]], [[Young Kim]], [[Michael Waltz]], [[Troy Downing]], [[Pete Sessions]], [[Jon Ossoff]], [[Ted Cruz]], [[Virginia Foxx]], [[Marco Rubio]], [[John James]], [[George Whitesides]], [[Andy Barr]], [[Beth van Duyne]], [[Dan Newhouse]], [[Maria Elvira Salazar]], [[Susie Lee]], [[Ann Wagner]], [[Mike Flood]], [[Ron Johnson]], [[Joe Neguse]], [[Adrian Smith]], [[Don Bacon]], [[August Pfluger]], [[Nancy Pelosi]], [[Tony Gonzales]], [[Carlos Gimenez]], [[Tim Scott]], [[Claudia Tenney]], [[Victoria Spartz]], [[Brian Jack]], [[Pete Ricketts]], [[Matt van Epps]], [[Tom Barrett]], [[Tammy Baldwin]], [[Jason Smith]], [[Glenn Grothman]], [[Josh Harder]], [[Pete Stauber]], [[Tony Wied]], [[Mike Thompson]], [[Byron Donalds]], [[Scott Wiener]], [[Jeff Hurd]], [[Daniel Webster]], [[Alex Padilla]], [[Ted Budd]], [[Lauren Underwood]], [[Jake Ellzey]], [[HMP]], [[American Patriots PAC]], [[Minnesota Democratic-Farmer-Labor Party]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -88,6 +95,21 @@ politicians-funded: "[[_Young Kim Master Profile]], [[ESAFUND]], [[_John James M
 **EIN:** `943192615`
 
 **Total political spend:** —
+
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Michael Waltz | $23,400 |
+| Jason Smith | $20,400 |
+| Young Kim | $18,200 |
+| Troy Downing | $17,100 |
+| Don Bacon | $16,600 |
+| Tony Gonzales | $14,800 |
+| John James | $14,250 |
+| Marco Rubio | $13,050 |
+| Dan Newhouse | $12,400 |
+| Virginia Foxx | $11,400 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
@@ -338,9 +360,9 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 | Metric | Amount |
 |---|---:|
-| Total revenue | — |
+| Total revenue | $19.2M |
 | Contribution revenue | $18.4M |
-| Total expenses | — |
+| Total expenses | $16.3M |
 | Total assets (EOY) | $34.9M |
 | Grants paid out | — |
 

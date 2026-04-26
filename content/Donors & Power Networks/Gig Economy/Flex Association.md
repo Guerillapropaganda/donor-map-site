@@ -1,7 +1,7 @@
 ---
 title: "Flex Association"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18
 source-tier: 1
 parent: null
@@ -25,7 +25,11 @@ ein: "394827006"
 nonprofit-status: "501(c)(3)"
 related: "[[Instacart]] · [[Uber]] · [[Lyft]] · [[DoorDash]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Airbnb]] · [[Fossil Fuel Bloc]] · [[UnitedHealth Group - Optum]] · [[PG&E]] · [[ExxonMobil]] · [[WSPA - Western States Petroleum Association]] · [[Valero Energy]] · [[Raytheon Technologies]] · [[Palantir Technologies Political Operation]] · [[Southern Company]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[NextEra Energy]] · [[Johnson & Johnson]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[Humana]] · [[Hospital Corporation of America - HCA]] · [[Civica Rx]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Blue Cross Blue Shield Association]] · [[Anthem - Elevance Health Political Operation]] · [[Marathon Petroleum]] · [[Koch Industries]] · [[Hawaiian Electric Company]] · [[Halliburton]] · [[Duke Energy]] · [[Devon Energy]] · [[ConocoPhillips]] · [[Chevron]] · [[Eli Broad Foundation]]"
 cross-vault-triangulation-count: 8
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 source-types:
@@ -38,6 +42,8 @@ known-gaps:
   - "No SEC corporate filings"
   - "No FEC contribution data"
 ---
+
+
 
 
 

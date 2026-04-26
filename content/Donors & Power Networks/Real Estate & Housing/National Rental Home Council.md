@@ -1,7 +1,7 @@
 ---
 title: National Rental Home Council
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -60,7 +60,11 @@ fara-countries:
   - ERITREA
   - IRAN
 cross-vault-triangulation-count: 3
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
 total-spent: 1000
 cash-on-hand: 3445
@@ -69,6 +73,8 @@ politicians-funded: "[[Warren Davidson]], [[Barry Loudermilk]], [[Brad Sherman]]
 total-political-spend: $60K
 spend-source: aggregated from canonical FEC/IRS edge stores across 2 store(s), cycles 2020, 2022, 2024, 2026
 ---
+
+
 
 
 
@@ -89,6 +95,21 @@ spend-source: aggregated from canonical FEC/IRS edge stores across 2 store(s), c
 **Capital type:** `rentier-capital`
 
 **Total political spend:** —
+
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Kyrsten Sinema | $5,800 |
+| Tim Scott | $5,800 |
+| Brad Sherman | $4,000 |
+| William R. Timmons | $3,500 |
+| Pete Sessions | $2,500 |
+| Bill Huizenga | $2,500 |
+| Barry Loudermilk | $2,500 |
+| J. French Hill | $2,000 |
+| Ted Budd | $2,000 |
+| Warren Davidson | $1,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

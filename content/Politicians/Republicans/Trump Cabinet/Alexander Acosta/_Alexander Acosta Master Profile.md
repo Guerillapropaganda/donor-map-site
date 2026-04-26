@@ -1,7 +1,7 @@
 ---
 title: Alexander Acosta
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: Acosta is the vault's clearest example of the Federalist Society pipeline producing consequences that extend beyond judicial philosophy. His appointment as Labor Secretary was a product of the same network , Federalist Society membership, Republic...
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
@@ -9,6 +9,8 @@ parent: null
 party: Republican
 chamber: Cabinet
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage); no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)"
 source-types:
   - Congress
   - DOJ
@@ -20,7 +22,13 @@ known-gaps:
   - No mapped relationships
 related: "[[_Donald Trump Master Profile]] · [[Jeffrey Epstein Network|Jeffrey Epstein]] · [[Leonard Leo]] · [[Federalist Society]]"
 top-donors: "[[Republican Governors Association]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -35,6 +43,12 @@ top-donors: "[[Republican Governors Association]]"
 **Party:** Republican · **Chamber:** Cabinet
 
 **Total received:** —
+
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Republican Governors Association | $175,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -1,7 +1,7 @@
 ---
 title: Dick Durbin
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: "Durbin's 44-year career demonstrates how managed opposition functions as institutional power. His donor base — lawyers ($7.1M career), securities/investment ($2.4M), health professionals (content-readiness: ready.6M), pro-Israel (content-readiness: ready.1M), insurance ($831K) — maps precis..."
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
@@ -23,10 +23,17 @@ donors: "[[ADM - Archer Daniels Midland]], [[Legal Sector Donors]], [[Financial 
 related: "[[Tammy Duckworth]] · [[The Pritzker Machine and Illinois Democratic Power]] · [[Financial Services Donors]] · [[Legal Sector Donors]] · [[Pharmaceutical Industry]] · [[_Chuck Schumer Master Profile|Schumer]] · [[_Joe Biden Master Profile|Biden]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Patty Murray Master Profile|Murray]] · [[Juliana Stratton]]"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline; run congress pipeline; run pipelines
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-20T00:00:00.000Z
 ---
+
+
 
 
 
@@ -39,6 +46,7 @@ last-enriched: 2026-04-20T00:00:00.000Z
 <!-- tier: paid -->
 
 **Party:** Democrat · **Chamber:** Senate · **State:** Illinois
+**FEC candidate ID:** `S6IL00151`
 
 **Total received:** —
 
@@ -46,7 +54,20 @@ last-enriched: 2026-04-20T00:00:00.000Z
 
 - Judiciary
 
-*Top donors list present but amounts not yet quantified. See narrative sections for details.*
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Democratic Senatorial Campaign Committee | $1,081,090 |
+| National Education Association | $90,000 |
+| ADM - Archer Daniels Midland | $81,750 |
+| AFL-CIO | $70,694 |
+| International Association of Firefighters Interested in Registration and Education PAC | $46,000 |
+| McDonalds Corporation | $28,000 |
+| Google - Alphabet | $23,500 |
+| Monsanto - Bayer | $20,000 |
+| National Restaurant Association | $17,500 |
+| J Street | $17,250 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

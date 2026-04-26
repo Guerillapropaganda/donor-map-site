@@ -1,7 +1,7 @@
 ---
 title: "National Republican Senatorial Committee"
 type: pac
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18
 source-tier: 1
 parent: null
@@ -32,13 +32,19 @@ federal-register-mentions: 22
 regulatory-agencies:
   - "Federal Election Commission"
 cross-vault-triangulation-count: 10
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 checklist-na:
   - "regulatory: auto: entity type \"pac\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"pac\" does not typically hold federal contracts (2026-04-15)"
 ---
+
+
 
 
 
@@ -59,13 +65,16 @@ checklist-na:
 
 | Politician | Amount |
 |---|---:|
-| Jeanne Shaheen | $8,296,003 |
-| Patty Murray | $7,901,065 |
-| Joe Manchin | $7,213,530 |
-| Jeff Merkley | $5,166,418 |
-| Harry Reid | $2,150,022 |
-| Sheldon Whitehouse | $716,449 |
-| Jack Reed | $75,759 |
+| Mark Kelly | $44,831,214 |
+| Raphael Warnock | $38,790,054 |
+| Joe Manchin | $25,754,265 |
+| Jeanne Shaheen | $24,308,947 |
+| John Hickenlooper | $23,747,998 |
+| Patty Murray | $20,154,490 |
+| Catherine Cortez Masto | $15,535,407 |
+| Jeff Merkley | $15,503,870 |
+| Jacky Rosen | $15,139,264 |
+| Jon Ossoff | $13,861,426 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

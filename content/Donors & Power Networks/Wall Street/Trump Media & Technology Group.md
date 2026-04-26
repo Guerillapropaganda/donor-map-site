@@ -1,7 +1,7 @@
 ---
 title: Trump Media & Technology Group
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18
 source-tier: 1
 parent: null
@@ -26,7 +26,11 @@ court-jurisdictions:
 lei: 6488S3A83U2SRQ48O215
 lei-jurisdiction: US-DE
 cross-vault-triangulation-count: 3
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 source-types:
   - Courts
   - SAM
@@ -36,6 +40,8 @@ known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
 ---
+
+
 
 
 

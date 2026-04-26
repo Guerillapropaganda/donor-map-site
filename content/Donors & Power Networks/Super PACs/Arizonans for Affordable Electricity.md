@@ -1,7 +1,7 @@
 ---
 title: Arizonans for Affordable Electricity
 type: donor
-content-readiness: ready
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -21,7 +21,14 @@ urls-first-triaged: "2026-04-15"
 source-types:
   - FEC
 last-enriched: 2026-04-21
+needs-reenrichment: true
+reenrich-reason: "re-run CSV bulk: `node scripts/ingest-fec-pas2-bulk.cjs && node scripts/build-fec-lifetime-panels.cjs`"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -39,7 +46,11 @@ last-enriched: 2026-04-21
 
 **Total political spend:** —
 
-*No direct donor→politician dollar flows tracked for this entity. Money may route through controlled vehicles or 501(c)(4) shells. See narrative sections below for details.*
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Nancy Pelosi | $241,764 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

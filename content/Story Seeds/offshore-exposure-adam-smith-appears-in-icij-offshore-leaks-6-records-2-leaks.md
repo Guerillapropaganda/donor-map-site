@@ -3,14 +3,14 @@ title: "Adam Smith appears in ICIJ Offshore Leaks (6 records, 2 leaks)"
 type: story-seed
 seed-type: offshore-exposure
 confidence: 3
-last-updated: '2026-04-24'
+last-updated: '2026-04-26'
 auto-generated: true
 status: unclaimed
 ---
 
 # Adam Smith appears in ICIJ Offshore Leaks (6 records, 2 leaks)
 
-_Confidence: ★★★☆☆ · Surfaced by contradiction-miner on 2026-04-24_
+_Confidence: ★★★☆☆ · Surfaced by contradiction-miner on 2026-04-26_
 
 ## The angle
 

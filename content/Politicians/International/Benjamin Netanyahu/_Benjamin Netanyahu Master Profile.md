@@ -1,7 +1,7 @@
 ---
 title: Benjamin Netanyahu
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: "Netanyahu's political life reveals what donor-first class analysis predicts: politicians are not puppets but agents serving a donor class that controls the material conditions of their political survival. American mega-donor money is not periphera..."
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -14,6 +14,8 @@ top-donors:
   - Haim Saban
   - AIPAC - American Israel Public Affairs Committee
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage); no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)"
 source-types:
   - DOJ
 known-gaps:
@@ -24,7 +26,13 @@ known-gaps:
 related: "[[Miriam Adelson]] · [[_Donald Trump Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Haim Saban]] · [[_Jared Kushner Master Profile]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Pro-Israel Donor Network Deep Dive]] · [[_JD Vance Master Profile]]"
 donors: "[[American Friends of the Likud]], [[AIPAC - American Israel Public Affairs Committee]], [[Haim Saban]], [[Gulf State Money - Saudi Arabia, UAE, Qatar]], [[Miriam Adelson]]"
 urls-first-triaged: "2026-04-15"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 

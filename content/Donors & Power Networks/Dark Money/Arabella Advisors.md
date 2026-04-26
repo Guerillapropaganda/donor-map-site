@@ -1,7 +1,7 @@
 ---
 title: Arabella Advisors
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -44,7 +44,14 @@ employee-contributions-total: 48379
 employee-donor-count: 64
 politicians-funded: "[[The Lincoln Project]], [[ActBlue]], [[JUSTICE DEMOCRATS PAC]], [[DNC - Democratic National Committee]], [[Emily's List]], [[_Lauren Underwood Master Profile]], [[_Gabe Amo Master Profile]], [[_Adam Gray Master Profile]], [[Lauren Underwood]], [[Gabe Amo]], [[Adam Gray]], [[Justice Democrats PAC]]"
 last-enriched: 2026-04-20
+needs-reenrichment: true
+reenrich-reason: "no fec-committee-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -65,6 +72,14 @@ last-enriched: 2026-04-20
 **Ideological function:** `dark-money-networked`
 
 **Total political spend:** —
+
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Lauren Underwood | $250 |
+| Gabe Amo | $250 |
+| Adam Gray | $250 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

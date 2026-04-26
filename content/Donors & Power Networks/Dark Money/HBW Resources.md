@@ -1,7 +1,7 @@
 ---
 title: HBW Resources
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -43,13 +43,19 @@ sec-form-types:
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 cross-vault-triangulation-count: 11
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 politicians-funded: "[[Michael Whatley]], [[ActBlue]], [[_Tony Gonzales Master Profile]], [[Trump Victory]], [[FreedomWorks for America]], [[_Ted Cruz Master Profile]], [[WinRed]], [[_Marco Rubio Master Profile]], [[MAGA Inc]], [[_Josh Hawley Master Profile]], [[_Mark Harris Master Profile]], [[Catherine Cortez Masto]], [[_Troy Downing Master Profile]], [[_Michael Waltz Master Profile]], [[_David Rouzer Master Profile]], [[_Jason Crow Master Profile]], [[RNC - Republican National Committee]], [[_Dan Newhouse Master Profile]], [[Save America PAC]], [[_Ron Johnson Master Profile]], [[_Nathaniel Moran Master Profile]], [[_Byron Donalds Master Profile]], [[Michael Waltz]], [[Marco Rubio]], [[Tony Gonzales]], [[Ted Cruz]], [[Josh Hawley]], [[Dan Newhouse]], [[Byron Donalds]], [[Ron Johnson]], [[Troy Downing]], [[Nathaniel Moran]], [[David Rouzer]], [[Jason Crow]], [[Mark Harris]]"
 urls-first-triaged: "2026-04-15"
 employee-contributions: 134
 employee-contributions-total: 127914
 employee-donor-count: 55
 ---
+
+
 
 
 
@@ -71,7 +77,20 @@ employee-donor-count: 55
 
 **Total political spend:** —
 
-*No direct donor→politician dollar flows tracked for this entity. Money may route through controlled vehicles or 501(c)(4) shells. See narrative sections below for details.*
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Marco Rubio | $5,400 |
+| Ted Cruz | $5,000 |
+| Catherine Cortez Masto | $3,500 |
+| Josh Hawley | $2,700 |
+| Ron Johnson | $2,700 |
+| Mark Harris | $2,700 |
+| Tony Gonzales | $2,503 |
+| Jason Crow | $2,000 |
+| Troy Downing | $2,000 |
+| Nathaniel Moran | $1,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

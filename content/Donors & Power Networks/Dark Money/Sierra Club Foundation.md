@@ -1,20 +1,28 @@
 ---
 title: "Sierra Club Foundation"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18
 sector: "Dark Money"
 entity-type: "501(c)(3)"
 ein: "946069890"
 nonprofit-status: "501(c)(3)"
 source-tier: 1
-internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Sierra Club 501(c)(3) foundation; distinct corporate entity from Sierra Club 501(c)(4) advocacy org. Narrative pending Research Claude editorial pass."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Sierra Club 501(c)(3) foundation; distinct corporate entity from Sierra Club 501(c)(4) advocacy org. Narrative pending Research Claude editorial pass."
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
   - "No mapped relationships"
 last-enriched: 2026-04-21
+needs-reenrichment: true
+reenrich-reason: "no fec-committee-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 ---
+
+
 
 
 
@@ -57,26 +65,65 @@ last-enriched: 2026-04-21
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 8 (2018–2024)
 
-**Grants received (2018–2024):** $71.4M across 12 grantors (from other vault orgs' Schedule I records).
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $102.5M |
+| Total expenses | — |
+| Total assets (EOY) | $210.7M |
+| Grants paid out | $86.9M |
+
+**Lifetime grants out (2018–2024):** $514.0M across 95 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| SIERRA CLUB | $505.2M | 6 | 2018–2024 |
+| POPULATION MEDIA CENTER | $939K | 1 | 2022 |
+| THE PARTNERSHIP PROJECT | $650K | 3 | 2020–2023 |
+| COMMUNITY INITIATIVES | $620K | 4 | 2020–2024 |
+| SOCIAL AND ENVIRONMENTAL ENTREPRENEURS | $510K | 3 | 2020–2023 |
+| ROCKY MOUNTAIN INSTITUTE | $388K | 2 | 2018–2019 |
+| MOVEMENT STRATEGY CENTER | $320K | 1 | 2018 |
+| TIDES FOUNDATION | $250K | 1 | 2023 |
+| MICHIGAN ENVIRONMENTAL COUNCIL | $250K | 1 | 2024 |
+| SEVENTH GENERATION FUND FOR INDIGENOUS PEOPLES | $250K | 1 | 2018 |
+| ROCKEFELLER PHILANTHROPY ADVISORS | $250K | 1 | 2018 |
+| LATINO COMMUNITY FUND OF WASHINGTON STATE | $205K | 2 | 2023–2024 |
+| THE SOLUTIONS PROJECT | $200K | 1 | 2023 |
+| RIGHT TO THE CITY ALLIANCE | $175K | 1 | 2022 |
+| GRASSROOTS INTERNATIONAL | $175K | 2 | 2018–2019 |
+| VERDE | $150K | 1 | 2023 |
+| UNIVERSITY OF CALIFORNIA BERKELEY FOUNDATION | $130K | 4 | 2020–2024 |
+| ENVIRONMENTAL HEALTH COALITION | $100K | 1 | 2020 |
+| GREEN DIVERSITY INITIATIVE DBA GREEN 20 | $100K | 1 | 2022 |
+| CITIZEN ACTION OF WISCONSIN EDUCATION FUND | $100K | 1 | 2022 |
+
+**Grants received (2018–2024):** $83.6M across 14 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
-| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $50.9M | 6 | 2018–2023 |
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $53.8M | 7 | 2018–2023 |
 | SCHWAB CHARITABLE FUND | $13.5M | 8 | 2018–2024 |
+| CLIMATEWORKS FOUNDATION | $9.1M | 4 | 2018–2024 |
 | Vanguard Charitable Endowment Program | $1.7M | 3 | 2021–2023 |
 | NATIONAL PHILANTHROPIC TRUST | $1.5M | 6 | 2018–2023 |
 | ROCKEFELLER PHILANTHROPY ADVISORS INC | $865K | 4 | 2018–2024 |
 | AMERICAN ENDOWMENT FOUNDATION | $807K | 8 | 2018–2024 |
-| NEW VENTURE FUND | $560K | 4 | 2018–2023 |
+| NEW VENTURE FUND | $765K | 5 | 2018–2023 |
 | MORGAN STANLEY GLOBAL IMPACT FUNDING | $553K | 13 | 2018–2024 |
 | IMPACTASSETSINC | $368K | 5 | 2018–2023 |
 | Silicon Valley Community Foundation | $367K | 5 | 2018–2023 |
 | Goldman Sachs Philanthropy Fund | $159K | 6 | 2018–2024 |
 | Greater Horizons | $128K | 2 | 2018–2024 |
+| Natural Resources Defense Council Inc | $24K | 1 | 2018 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

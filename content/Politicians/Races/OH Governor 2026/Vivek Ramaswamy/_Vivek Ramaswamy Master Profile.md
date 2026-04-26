@@ -1,7 +1,7 @@
 ---
 title: Vivek Ramaswamy
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: Vivek Ramaswamy's political brand , anti-regulation, anti-DEI, anti-'woke capitalism' , is funded by and serves the same billionaire class it claims to challenge. His $2.4 billion fortune was built through Roivant Sciences, a pharmaceutical compan...
 last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
@@ -29,7 +29,11 @@ known-gaps:
 related: "[[_Donald Trump Master Profile]] · [[Elon Musk]] · [[Jeffrey Yass]] · [[Peter Thiel]] · [[The Roivant Fortune and the FDA Deregulation Conflict]] · [[Ross Stevens]] · [[Jeff Yass Follows TikTok Money Across Every Candidate]] · [[Amy Acton]] · [[The Labor Coalition and What Unions Expect]] · [[The Healthcare Platform and the Insurance Industry Question]]"
 needs-reenrichment: true
 reenrich-reason: re-run fec pipeline
-internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • FEC-CANDIDATE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • FEC-CANDIDATE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 checklist-na:
   - "voting-records: Never held elected office (candidate)"
   - "committee-assignments: Never held elected office (candidate)"
@@ -38,6 +42,8 @@ last-enriched: 2026-04-21T00:00:00.000Z
 total-raised: $66.2M
 career-total-source: FEC weball summary (cycles 2024)
 ---
+
+
 
 
 
@@ -59,9 +65,9 @@ career-total-source: FEC weball summary (cycles 2024)
 | Donor | Amount |
 |---|---:|
 | WinRed | $150,444 |
-| Drain the DC Swamp PAC | $67,600 |
+| Drain the DC Swamp PAC | $135,200 |
 | Trump Victory | $10,000 |
-| PRIORITIES USA ACTION | $2,521 |
+| Priorities USA Action | $2,521 |
 | Ruralvote.org | $357 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->

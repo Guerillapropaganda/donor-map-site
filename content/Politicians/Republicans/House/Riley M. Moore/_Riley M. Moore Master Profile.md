@@ -1,7 +1,7 @@
 ---
 title: Riley M. Moore
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 party: Republican
@@ -23,6 +23,8 @@ known-gaps:
 donors: "[[Brady Campaign]], [[AFL-CIO]], [[BRANDON GILL FOR TEXAS]], [[NRA Political Victory Fund]], [[Leidos]], [[Guy Reschenthaler]], [[Robert E. Latta]], [[Koch Industries]], [[MIKE HARIDOPOLOS FOR CONGRESS]], [[Defend American Jobs]], [[Shelley Moore Capito]], [[Nucor Corporation]], [[Performance Racing Inc.]], [[Tom Emmer]], [[David P. Joyce]], [[AIPAC - American Israel Public Affairs Committee]], [[Associated General Contractors of America Political Action Committee]], [[CVS Health - Aetna]], [[Southern Company]], [[TEXANS FOR JODEY ARRINGTON]], [[National Restaurant Association]], [[JIM JORDAN FOR CONGRESS]], [[Brett Guthrie]], [[National Cattlemen's Beef Association]], [[Carol D. Miller]], [[Steve Scalise]]"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 corroboration-count: 2
 committees:
   - Commerce, Justice, Science, and Related Agencies
@@ -30,7 +32,12 @@ committees:
   - Labor, Health and Human Services, Education, and Related Agencies
   - Legislative Branch
 bills-sponsored: 11
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -48,7 +55,20 @@ bills-sponsored: 11
 
 **Total received:** —
 
-*Top donors list present but amounts not yet quantified. See narrative sections for details.*
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Koch Industries | $20,000 |
+| AIPAC - American Israel Public Affairs Committee | $10,000 |
+| Associated General Contractors of America Political Action Committee | $6,000 |
+| Steve Scalise | $4,000 |
+| David P. Joyce | $4,000 |
+| Ken Calvert | $4,000 |
+| Greg Casar | $4,000 |
+| Carol D. Miller | $4,000 |
+| Southern Company | $3,500 |
+| Nucor Corporation | $3,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

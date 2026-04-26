@@ -1,7 +1,7 @@
 ---
 title: "Congressional Leadership Fund"
 type: pac
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18
 source-tier: 1
 parent: null
@@ -26,7 +26,11 @@ total-assets: 714325
 related: "[[Senate Majority PAC]] · [[Mike Lawler Master Profile]] · [[The Revolving Door Explosion of 2025]] · [[American Action Network]] · [[Senate Leadership Fund]] · [[Club for Growth]] · [[Fossil Fuel Bloc]] · [[Elon Musk]] · [[Jeffrey Yass]] · [[Timothy Mellon]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[National Republican Senatorial Committee]] · [[MAGA Inc]] · [[Winning for Women PAC]] · [[Priorities USA Action]] · [[One Nation]] · [[WinRed]] · [[Fairshake PAC]] · [[Trump Victory]] · [[Save America PAC]] · [[Preserve America]] · [[National Rifle Association]] · [[House Majority PAC]] · [[Future Forward USA Action]] · [[Democratic Senatorial Campaign Committee]] · [[Emilys List]] · [[Americans for Prosperity]] · [[America PAC - Elon Musk]] · [[Trump 2024 Campaign]] · [[Majority Forward]] · [[DSCC - Democratic Senatorial Campaign Committee]] · [[DonorsTrust]] · [[Kay Granger]] · [[Kyrsten Sinema]] · [[Jon Ossoff]] · [[Nancy Pelosi]] · [[Joseph Morelle]] · [[Henry Cuellar]] · [[Kevin McCarthy Master Profile]] · [[DMFI - Democratic Majority for Israel]] · [[United Democracy Project - UDP]] · [[Elect Chicago Women PAC]] · [[Think Big AI PAC]] · [[Affordable Chicago Now PAC]] · [[Elliott Management]] · [[Citadel - Kenneth Griffin]] · [[Eli Lilly]] · [[Koch Industries]] · [[American Petroleum Institute]] · [[Trump Donor Coalition]] · [[Republican Party Apparatus]] · [[GEO Group - Private Prison Industrial Complex]]"
 opposes: "[[Kyrsten Sinema Master Profile]]"
 cross-vault-triangulation-count: 14
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 checklist-na:
@@ -38,6 +42,8 @@ total-spent: 19037355
 cash-on-hand: 54542329
 individual-contributions: 5000
 ---
+
+
 
 
 
@@ -59,12 +65,16 @@ individual-contributions: 5000
 
 | Politician | Amount |
 |---|---:|
+| Josh Riley | $12,418,451 |
+| Adam Gray | $12,292,042 |
+| Derek Tran | $11,363,818 |
+| George Whitesides | $9,096,557 |
+| Henry Cuellar | $8,765,456 |
+| Dina Titus | $8,634,274 |
+| Susie Lee | $7,901,725 |
+| Laura Gillen | $7,037,291 |
+| Mike Levin | $6,005,338 |
 | Jon Ossoff | $5,993,817 |
-| Henry Cuellar | $4,277,678 |
-| Kyrsten Sinema | $1,143,122 |
-| Kay Granger | $848,763 |
-| Nancy Pelosi | $75,000 |
-| Joseph Morelle | $33,050 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

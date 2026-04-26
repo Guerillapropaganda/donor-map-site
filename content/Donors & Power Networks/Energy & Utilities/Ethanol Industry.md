@@ -1,7 +1,7 @@
 ---
 title: Ethanol Industry
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -46,7 +46,11 @@ court-jurisdictions:
   - District Court, N.D. California
   - District Court, S.D. New York
 cross-vault-triangulation-count: 6
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 politicians-funded: "[[Joni Ernst]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -59,6 +63,8 @@ corroboration-count: 3
 known-gaps:
   - "No FEC contribution data"
 ---
+
+
 
 
 

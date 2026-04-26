@@ -1,7 +1,7 @@
 ---
 title: Eugene Simon Vindman
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Democrat
@@ -23,6 +23,8 @@ known-gaps:
   - No mapped relationships
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 committees:
   - Commodity Markets, Digital Assets, and Rural Development
   - Conservation, Research, and Biotechnology
@@ -33,7 +35,12 @@ committees:
 bills-sponsored: 51
 corroboration-count: 2
 top-donors: "[[Chris Coons]], [[DEBORAH ROSS FOR CONGRESS]], [[TED LIEU FOR CONGRESS]], [[Planned Parenthood Action Fund INC]], [[Donald S. Beyer]], [[STANTON FOR CONGRESS]], [[CASTRO FOR CONGRESS]], [[LORI TRAHAN FOR CONGRESS COMMITTEE]], [[GRACE FOR NEW YORK]], [[BILL FOSTER FOR CONGRESS]], [[National Education Association]], [[KATHERINE CLARK FOR CONGRESS]], [[JULIA BROWNLEY FOR CONGRESS]], [[Janice D. Schakowsky]], [[Richard Neal]], [[PETE AGUILAR FOR CONGRESS]], [[JUDY CHU FOR CONGRESS]], [[Google - Alphabet]], [[NIKKI FOR CONGRESS]], [[Kim Schrier]], [[MCCLELLAN FOR CONGRESS]], [[Let America Vote PAC]], [[NANCY PELOSI FOR CONGRESS]], [[SHARICE FOR CONGRESS]], [[BARRAGAN FOR CONGRESS]], [[Leidos]], [[League of Conservation Voters]], [[JOE NEGUSE FOR CONGRESS]], [[Lizzie Fletcher]], [[SHERMAN FOR CONGRESS]], [[LANDSMAN FOR CONGRESS]], [[Robert Garcia]], [[JAKE AUCHINCLOSS FOR CONGRESS]], [[LUZ RIVAS FOR CONGRESS]], [[MARK KELLY FOR SENATE]], [[Marc A. Veasey]], [[Maxwell Frost]], [[Protect Progress]], [[Bradley Scott Schneider]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Coinbase]], [[CHRISSY HOULAHAN FOR CONGRESS]], [[Nancy Pelosi]], [[Pete Aguilar]], [[Judy Chu]], [[Greg Landsman]], [[Nikki Budzinski]], [[Joaquin Castro]], [[Greg Stanton]], [[Grace Meng]], [[Hakeem Jeffries]], [[Jake Auchincloss]], [[Katherine M. Clark]], [[Lori Trahan]], [[Nanette Diaz Barragan]], [[Luz M. Rivas]], [[Mark Kelly]], [[Sharice Davids]], [[Chrissy Houlahan]], [[Ted Lieu]], [[Joe Neguse]], [[Brad Sherman]], [[Julia Brownley]], [[Deborah K. Ross]], [[Bill Foster]], [[Jennifer L. McClellan]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -48,8 +55,24 @@ top-donors: "[[Chris Coons]], [[DEBORAH ROSS FOR CONGRESS]], [[TED LIEU FOR CONG
 
 **Party:** Democrat · **Chamber:** House · **State:** Virginia
 **Bioguide ID:** `V000138`
+**FEC candidate ID:** `H4VA07234`
 
 **Total received:** —
+
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Let America Vote PAC | $11,500 |
+| National Education Association | $7,000 |
+| Planned Parenthood Action Fund INC | $7,000 |
+| Pete Aguilar | $6,000 |
+| Katherine M. Clark | $6,000 |
+| Donald S. Beyer | $6,000 |
+| Robert Garcia | $5,000 |
+| International Association of Firefighters Interested in Registration and Education PAC | $5,000 |
+| Ted Lieu | $4,000 |
+| Nancy Pelosi | $4,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

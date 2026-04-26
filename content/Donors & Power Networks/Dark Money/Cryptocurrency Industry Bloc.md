@@ -1,7 +1,7 @@
 ---
 title: "Cryptocurrency Industry Bloc , Fairshake PAC Network"
 type: pac
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
@@ -18,7 +18,14 @@ checklist-na:
   - "contracts: auto: entity type \"pac\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-20
+needs-reenrichment: true
+reenrich-reason: "no fec ID resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 

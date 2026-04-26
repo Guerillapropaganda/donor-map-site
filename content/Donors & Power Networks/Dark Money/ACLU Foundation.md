@@ -1,20 +1,28 @@
 ---
 title: "ACLU Foundation"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18
 sector: "Dark Money"
 entity-type: "501(c)(3)"
 ein: "136213516"
 nonprofit-status: "501(c)(3)"
 source-tier: 1
-internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. American Civil Liberties Union Foundation; the 501(c)(3) litigation arm of the ACLU (separate from the ACLU 501(c)(4) that does lobbying). $177M+ received in ingested period. Narrative pending Research Claude editorial pass."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. American Civil Liberties Union Foundation; the 501(c)(3) litigation arm of the ACLU (separate from the ACLU 501(c)(4) that does lobbying). $177M+ received in ingested period. Narrative pending Research Claude editorial pass."
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
   - "No mapped relationships"
 last-enriched: 2026-04-21
+needs-reenrichment: true
+reenrich-reason: "no fec-committee-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 ---
+
+
 
 
 
@@ -69,52 +77,55 @@ last-enriched: 2026-04-21
 | Total assets (EOY) | — |
 | Grants paid out | — |
 
-**Lifetime grants out (2019–2025):** $94.3M across 170 recipients.
+**Lifetime grants out (2019–2025):** $94.3M across 221 recipients.
 
 **Top 20 recipients:**
 
 | Recipient | Total | Grants | Years |
 |---|---:|---:|---|
-| ACLU Foundation of Florida | $5.5M | 3 | 2023–2025 |
-| ACLU Foundation of Texas | $4.1M | 3 | 2023–2025 |
-| ACLU Foundation of Alabama | $2.6M | 3 | 2023–2025 |
-| ACLU Foundation of Virginia | $2.6M | 3 | 2023–2025 |
-| ACLU Foundation of Louisiana | $2.5M | 3 | 2023–2025 |
-| ACLU Foundation of Georgia | $2.4M | 3 | 2023–2025 |
-| ACLU Foundation of West Virginia | $2.4M | 3 | 2023–2025 |
-| ACLU Foundation of South Carolina | $1.9M | 3 | 2023–2025 |
-| ACLU Foundation of Minnesota | $1.9M | 3 | 2023–2025 |
-| ACLU Foundation of Tennessee | $1.8M | 2 | 2023–2025 |
-| ACLU Foundation of Arkansas | $1.7M | 3 | 2023–2025 |
-| ACLU Foundation of Pennsylvania | $1.7M | 3 | 2023–2025 |
-| ACLU Foundation of Nebraska | $1.6M | 3 | 2023–2025 |
+| ACLU Foundation of Florida | $3.2M | 2 | 2023–2024 |
+| ACLU Foundation of Louisiana | $2.4M | 2 | 2023–2024 |
+| ACLU FOUNDATION OF TEXAS | $2.4M | 1 | 2025 |
+| ACLU FOUNDATION OF FLORIDA | $2.3M | 1 | 2025 |
+| ACLU Foundation of Alabama | $2.0M | 2 | 2023–2024 |
+| ACLU Foundation of Georgia | $2.0M | 2 | 2023–2024 |
+| ACLU FOUNDATION OF WEST VIRGINIA | $1.7M | 1 | 2025 |
+| ACLU Foundation of Texas | $1.7M | 2 | 2023–2024 |
 | CITIZENS NOT POLITICIANS | $1.6M | 1 | 2025 |
-| ACLU of North Carolina | $1.4M | 2 | 2020–2024 |
-| ACLU Foundation of New Mexico | $1.4M | 3 | 2023–2025 |
-| ACLU Foundation of Nevada | $1.4M | 3 | 2023–2025 |
-| ACLU Foundation of Southern California | $1.3M | 3 | 2023–2025 |
+| ACLU FOUNDATION OF TENNESSEE | $1.4M | 1 | 2025 |
+| ACLU FOUNDATION OF VIRGINIA | $1.3M | 1 | 2025 |
+| ACLU FOUNDATION OF ARKANSAS | $1.3M | 1 | 2025 |
+| ACLU Foundation of Virginia | $1.3M | 2 | 2023–2024 |
 | ACLUF OF NEW MEXICO | $1.2M | 3 | 2019–2021 |
+| ACLU Foundation of New Mexico | $1.2M | 2 | 2023–2024 |
+| ACLU Foundation of Pennsylvania | $1.2M | 2 | 2023–2024 |
 | MISSOURIANS FOR CONSTITUTIONAL FREEDOM | $1.1M | 1 | 2025 |
+| ACLU Foundation of Nebraska | $1.1M | 2 | 2023–2024 |
+| ARIZONA FOR ABORTION ACCESS | $1.1M | 1 | 2025 |
+| ACLU of North Carolina | $1.1M | 1 | 2024 |
 
-**Grants received (2018–2024):** $288.0M across 13 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $308.9M across 16 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
-| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $151.4M | 6 | 2018–2023 |
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $171.8M | 7 | 2018–2023 |
 | Goldman Sachs Philanthropy Fund | $68.6M | 6 | 2018–2024 |
 | SCHWAB CHARITABLE FUND | $19.9M | 8 | 2018–2024 |
 | Silicon Valley Community Foundation | $19.9M | 5 | 2018–2023 |
 | NATIONAL PHILANTHROPIC TRUST | $8.7M | 6 | 2018–2023 |
 | Vanguard Charitable Endowment Program | $6.0M | 3 | 2021–2023 |
 | ROCKEFELLER PHILANTHROPY ADVISORS INC | $3.8M | 4 | 2019–2024 |
-| MORGAN STANLEY GLOBAL IMPACT FUNDING | $3.7M | 31 | 2018–2024 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING | $3.7M | 32 | 2018–2024 |
 | AMERICAN ENDOWMENT FOUNDATION | $2.7M | 6 | 2018–2024 |
 | HOPEWELL FUND | $2.2M | 2 | 2019–2022 |
 | IMPACTASSETSINC | $612K | 6 | 2018–2023 |
+| NEO Philanthropy Inc | $460K | 4 | 2018–2024 |
 | Greater Horizons | $315K | 3 | 2018–2024 |
 | NEW VENTURE FUND | $50K | 1 | 2024 |
+| PROTEUS FUND INC | $33K | 2 | 2023 |
+| THE BOARD OF TRUSTEES OF THE LELAND STANFORD | $10K | 1 | 2020 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

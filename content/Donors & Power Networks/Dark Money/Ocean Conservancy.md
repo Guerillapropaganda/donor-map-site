@@ -1,7 +1,7 @@
 ---
 title: Ocean Conservancy
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 2
 parent: null
@@ -35,7 +35,11 @@ nonprofit-status: 501(c)(3)
 total-revenue: 56087482
 total-assets: 95267498
 cross-vault-triangulation-count: 9
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -44,6 +48,8 @@ employee-contributions-total: 23436
 employee-donor-count: 33
 politicians-funded: "[[ActBlue]], [[Catherine Cortez Masto]], [[WinSenate]], [[_Summer Lee Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[The Lincoln Project]], [[Summer Lee]], [[Rockefeller Philanthropy Advisors]]"
 ---
+
+
 
 
 
@@ -65,6 +71,13 @@ politicians-funded: "[[ActBlue]], [[Catherine Cortez Masto]], [[WinSenate]], [[_
 **Ideological function:** `dark-money-networked`
 
 **Total political spend:** —
+
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Summer Lee | $1,500 |
+| Catherine Cortez Masto | $200 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
@@ -348,46 +361,46 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-**Filings available:** 7 (2018–2024)
+**Filings available:** 8 (2018–2025)
 
-**Most recent filing (2024):**
+**Most recent filing (2025):**
 
 | Metric | Amount |
 |---|---:|
 | Total revenue | — |
-| Contribution revenue | $46.6M |
+| Contribution revenue | $46.0M |
 | Total expenses | — |
-| Total assets (EOY) | $95.3M |
-| Grants paid out | $2.3M |
+| Total assets (EOY) | $97.9M |
+| Grants paid out | $1.3M |
 
-**Lifetime grants out (2018–2024):** $9.1M across 120 recipients.
+**Lifetime grants out (2018–2025):** $10.4M across 171 recipients.
 
 **Top 20 recipients:**
 
 | Recipient | Total | Grants | Years |
 |---|---:|---:|---|
-| Inuit Circumpolar Council Alaska | $895K | 4 | 2018–2024 |
-| Arizona State University | $847K | 5 | 2018–2024 |
-| Global Resilient Cities Network | $576K | 3 | 2023–2024 |
+| INUIT CIRCUMPOLAR COUNCIL ALASKA | $931K | 2 | 2024–2025 |
+| Arizona State University | $809K | 4 | 2018–2023 |
 | Pacific Environment and Resources Center | $560K | 1 | 2022 |
-| University Of Georgia | $537K | 2 | 2020–2023 |
+| Global Resilient Cities Network | $475K | 2 | 2023 |
 | Native American Rights Fund | $458K | 5 | 2018–2023 |
 | Ocean Foundation | $358K | 5 | 2018–2022 |
+| University Of Georgia | $352K | 1 | 2020 |
 | Rockefeller Philanthropy | $350K | 1 | 2020 |
+| KAWERAK INC | $253K | 1 | 2025 |
 | University of South Florida | $238K | 1 | 2023 |
-| Yakutat Tlinglt Tribe | $178K | 2 | 2023–2024 |
-| Asociacion Interamericanca Para La Defensa Del Ambiente (AIDA) | $173K | 2 | 2023–2024 |
-| Aleut Community of St Paul Island Tribal Government of St Paul | $155K | 3 | 2022–2024 |
+| ENVIRONMENTAL DEFENSE FUND | $228K | 2 | 2024–2025 |
+| University of Georgia | $185K | 1 | 2023 |
+| GLOBAL RESILIENT CITIES NETWORK | $169K | 2 | 2024–2025 |
 | FLORIDA INTERNATIONAL UNIVERSITY FOUNDATION INC | $143K | 1 | 2024 |
-| Big Blue &amp; You Inc | $129K | 2 | 2021–2023 |
-| Dream In Green | $127K | 5 | 2019–2024 |
+| CENTRAL COUNCIL TLINGIT &amp; HAIDA INDIAN TRIBES OF ALASKA | $141K | 2 | 2024–2025 |
 | Gulf On Maine Lobster Foundation | $122K | 1 | 2021 |
-| University Of Georgia Research Foundation Inc | $122K | 2 | 2021–2022 |
+| NATIVE PEOPLES ACTION COMMUNITY FUND | $121K | 2 | 2024–2025 |
 | Debris Free Global Inc dba Debris Free Oceans | $120K | 1 | 2023 |
+| Aleut Community of St Paul Island Tribal Government of St Paul | $120K | 2 | 2022–2023 |
 | Bering Sea Fishermen's Association | $120K | 2 | 2022–2023 |
-| Alaska Conservation Foundation | $115K | 2 | 2023–2024 |
 
-**Grants received (2018–2024):** $21.7M across 9 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $23.8M across 11 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -396,12 +409,14 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | NATIONAL PHILANTHROPIC TRUST | $7.2M | 6 | 2018–2023 |
 | ROCKEFELLER PHILANTHROPY ADVISORS INC | $4.7M | 4 | 2019–2024 |
 | SCHWAB CHARITABLE FUND | $3.7M | 7 | 2018–2024 |
-| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $2.8M | 6 | 2018–2023 |
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $3.7M | 7 | 2018–2023 |
 | AMERICAN ENDOWMENT FOUNDATION | $1.5M | 6 | 2018–2024 |
 | Vanguard Charitable Endowment Program | $1.2M | 3 | 2021–2023 |
+| CLIMATEWORKS FOUNDATION | $1.2M | 2 | 2022–2024 |
 | Silicon Valley Community Foundation | $393K | 5 | 2018–2023 |
 | MORGAN STANLEY GLOBAL IMPACT FUNDING | $166K | 10 | 2018–2024 |
 | Goldman Sachs Philanthropy Fund | $51K | 4 | 2019–2024 |
+| NATURAL RESOURCES DEFENSE COUNCIL INC | $10K | 1 | 2023 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

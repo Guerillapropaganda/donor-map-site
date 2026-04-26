@@ -1,7 +1,7 @@
 ---
 title: Deb Haaland
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Democrat
@@ -15,8 +15,17 @@ source-types:
 urls-first-triaged: "2026-04-15"
 top-donors: "[[America Votes]], [[Amazon]], [[Oracle]], [[Boeing]], [[Bank of America]], [[Apple]], [[ActBlue]], [[DNC - Democratic National Committee]], [[Honeywell International]], [[Walmart]], [[Center for American Progress]], [[Verizon]], [[Northrop Grumman]], [[Meta - Facebook]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[BONNIE WATSON COLEMAN FOR CONGRESS]], [[Planned Parenthood Action Fund INC]], [[Giffords PAC]], [[Let America Vote PAC]], [[KATHERINE CLARK FOR CONGRESS]], [[BARBARA LEE FOR CONGRESS]], [[NANCY PELOSI FOR CONGRESS]], [[JUDY CHU FOR CONGRESS]], [[J Street]], [[DOGGETT FOR U S CONGRESS COMMITTEE]], [[PETE AGUILAR FOR CONGRESS]], [[MCCOLLUM FOR CONGRESS]], [[NORMA TORRES FOR CONGRESS]], [[Hakeem Jeffries]], [[BILL FOSTER FOR CONGRESS]], [[WARREN FOR SENATE, INC.]], [[League of Conservation Voters]], [[Steny H. Hoyer]], [[Indivisible Action]], [[James E. Clyburn]], [[National Education Association]], [[Environment America INC]], [[CHUY GARCIA FOR CONGRESS]], [[LOFGREN FOR CONGRESS]], [[National Committee to Preserve Social Security & Medicare PAC]], [[CITIZENS FOR WATERS]], [[Sierra Club Political Committee]], [[Bonnie Watson Coleman]], [[Barbara Lee]], [[Zoe Lofgren]], [[Ted Lieu]], [[Jesus G. Chuy Garcia]], [[Katherine M. Clark]], [[Diana Degette]], [[Nancy Pelosi]], [[Norma J. Torres]], [[Pete Aguilar]], [[Maxine Waters]], [[Judy Chu]], [[Bill Foster]], [[Betty McCollum]], [[Lloyd Doggett]]"
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage); no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage); no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)"
 corroboration-count: 2
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -30,6 +39,7 @@ corroboration-count: 2
 <!-- tier: paid -->
 
 **Party:** Democrat · **Chamber:** Secretary of the Interior
+**FEC candidate ID:** `H8NM01331`
 
 **Total received:** —
 
@@ -37,16 +47,16 @@ corroboration-count: 2
 
 | Donor | Amount |
 |---|---:|
+| Let America Vote PAC | $12,500 |
+| National Education Association | $11,500 |
+| International Association of Firefighters Interested in Registration and Education PAC | $6,000 |
+| League of Conservation Voters | $4,500 |
+| Sharice Davids | $4,000 |
+| Indivisible Action | $3,700 |
+| Planned Parenthood Action Fund INC | $3,500 |
+| Chris Pappas | $3,000 |
+| Haley M. Stevens | $3,000 |
 | Walmart | $2,250 |
-| Oracle | $2,125 |
-| Verizon | $2,000 |
-| Bank of America | $1,100 |
-| Northrop Grumman | $1,000 |
-| America Votes | $1,000 |
-| Boeing | $1,000 |
-| DNC - Democratic National Committee | $500 |
-| Amazon | $500 |
-| ActBlue | $500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

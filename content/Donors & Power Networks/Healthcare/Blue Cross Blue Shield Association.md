@@ -1,7 +1,7 @@
 ---
 title: Blue Cross Blue Shield Association
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -56,12 +56,18 @@ court-jurisdictions:
   - District Court, W.D. Pennsylvania
   - United States Bankruptcy Court, S.D. Texas
 cross-vault-triangulation-count: 19
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 politicians-funded: "[[Chris Murphy]], [[Tammy Baldwin]], [[Roy Cooper]], [[_Lauren Underwood Master Profile]], [[RNC - Republican National Committee]], [[One Nation]], [[ActBlue]], [[_Rashida Tlaib Master Profile]], [[WinRed]], [[Giffords PAC]], [[MAGA Inc]], [[NRCC - National Republican Congressional Committee]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Jon Ossoff Master Profile]], [[Progressive Turnout Project]], [[Jon Ossoff]], [[Lauren Underwood]], [[Rashida Tlaib]]"
 employee-contributions: 119
 employee-contributions-total: 58431
 employee-donor-count: 66
 ---
+
+
 
 
 
@@ -83,7 +89,13 @@ employee-donor-count: 66
 
 **Total political spend:** —
 
-*No direct donor→politician dollar flows tracked for this entity. Money may route through controlled vehicles or 501(c)(4) shells. See narrative sections below for details.*
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Lauren Underwood | $11,500 |
+| Rashida Tlaib | $500 |
+| Jon Ossoff | $250 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

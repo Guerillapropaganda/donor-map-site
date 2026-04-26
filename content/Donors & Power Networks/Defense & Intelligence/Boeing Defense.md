@@ -1,7 +1,7 @@
 ---
 title: Boeing Defense
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -17,7 +17,11 @@ last-enriched: "2026-04-09"
 needs-reenrichment: true
 reenrich-reason: run lda pipeline
 cross-vault-triangulation-count: 16
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 employee-contributions: 12
 employee-contributions-total: 1016
 employee-donor-count: 1
@@ -29,6 +33,8 @@ known-gaps:
   - "No SEC corporate filings"
   - "No lobbying disclosure data"
 ---
+
+
 
 
 

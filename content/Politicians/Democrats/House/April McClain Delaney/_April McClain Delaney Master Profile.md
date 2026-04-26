@@ -1,7 +1,7 @@
 ---
 title: April McClain Delaney
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Democrat
@@ -24,6 +24,8 @@ known-gaps:
 urls-first-triaged: "2026-04-15"
 top-donors: "[[US CHAMBER OF COMMERCE]], [[Lockheed Martin]], [[Fidelity Investments]], [[CTA - California Teachers Association]], [[Google - Alphabet]], [[US Chamber of Commerce]], [[NEA Advocacy Fund]], [[Hakeem Jeffries]], [[SHARICE FOR CONGRESS]], [[Sarah Elfreth]], [[SETH FOR MASSACHUSETTS, INC]], [[Akin Gump Strauss Hauer & Feld]], [[League of Conservation Voters]], [[PAUL TONKO FOR CONGRESS]], [[JUDY CHU FOR CONGRESS]], [[National Education Association]], [[ROBERT GARCIA FOR CONGRESS]], [[Planned Parenthood Action Fund INC]], [[Donald S. Beyer]], [[Bradley Scott Schneider]], [[DoorDash]], [[Johnny Olszewski]], [[LANDSMAN FOR CONGRESS]], [[NANCY PELOSI FOR CONGRESS]], [[AIPAC - American Israel Public Affairs Committee]], [[Gilead Sciences]], [[Lizzie Fletcher]], [[PETE AGUILAR FOR CONGRESS]], [[John B. Larson]], [[NIKKI FOR CONGRESS]], [[Sierra Club Political Committee]], [[GRACE FOR NEW YORK]], [[Kim Schrier]], [[Jasmine Crockett]], [[Pete Aguilar]], [[Nancy Pelosi]], [[Paul Tonko]], [[Judy Chu]], [[Grace Meng]], [[Sharice Davids]], [[Brad Sherman]], [[Nikki Budzinski]], [[Marc A. Veasey]], [[Robert Garcia]], [[Greg Landsman]]"
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 committees:
   - Commodity Markets, Digital Assets, and Rural Development
   - Conservation, Research, and Biotechnology
@@ -32,7 +34,12 @@ committees:
   - Research and Technology
 bills-sponsored: 25
 corroboration-count: 2
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -47,6 +54,7 @@ corroboration-count: 2
 
 **Party:** Democrat · **Chamber:** House · **State:** Maryland
 **Bioguide ID:** `M001232`
+**FEC candidate ID:** `H4MD06340`
 
 **Total received:** —
 
@@ -54,11 +62,16 @@ corroboration-count: 2
 
 | Donor | Amount |
 |---|---:|
-| Google - Alphabet | $1,300 |
-| US CHAMBER OF COMMERCE | $1,000 |
-| CTA - California Teachers Association | $1,000 |
-| Lockheed Martin | $1,000 |
-| Fidelity Investments | $250 |
+| AIPAC - American Israel Public Affairs Committee | $10,000 |
+| National Education Association | $7,000 |
+| Pete Aguilar | $6,000 |
+| Hakeem Jeffries | $6,000 |
+| Gilead Sciences | $5,000 |
+| Planned Parenthood Action Fund INC | $5,000 |
+| League of Conservation Voters | $4,000 |
+| Nancy Pelosi | $4,000 |
+| Donald S. Beyer | $4,000 |
+| Kim Schrier | $2,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -3,14 +3,14 @@ title: "Richard Neal: healthcare reform vs. health industry contradiction"
 type: story-seed
 seed-type: issue-contradiction
 confidence: 3
-last-updated: '2026-04-24'
+last-updated: '2026-04-26'
 auto-generated: true
 status: unclaimed
 ---
 
 # Richard Neal: healthcare reform vs. health industry contradiction
 
-_Confidence: ★★★☆☆ · Surfaced by contradiction-miner on 2026-04-24_
+_Confidence: ★★★☆☆ · Surfaced by contradiction-miner on 2026-04-26_
 
 ## The angle
 

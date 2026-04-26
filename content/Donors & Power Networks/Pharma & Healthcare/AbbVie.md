@@ -1,7 +1,7 @@
 ---
 title: AbbVie
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -51,7 +51,11 @@ court-jurisdictions:
   - District Court, W.D. Washington
   - United States Bankruptcy Court, E.D. Virginia
 cross-vault-triangulation-count: 12
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 politicians-funded: "[[Brett Guthrie]], [[Mitt Romney]], [[Adrian Smith]], [[John Cornyn]], [[Frank Pallone]], [[CHC BOLD PAC]], [[MoveOn.org Political Action]], [[_Tammy Baldwin Master Profile]], [[Madeleine Dean]], [[Lori Trahan]], [[Martin Heinrich]], [[_Ted Cruz Master Profile]], [[Mike Thompson]], [[Joni Ernst]], [[RNC - Republican National Committee]], [[DCCC - Democratic Congressional Campaign Committee]], [[Emily's List]], [[Kevin Mullin]], [[_Lauren Underwood Master Profile]], [[Steven Horsford]], [[Hmp]], [[Richard Hudson]], [[_Jon Ossoff Master Profile]], [[Pete Aguilar]], [[Let America Vote PAC]], [[Gwen Moore]], [[Jon Husted]], [[AbbVie]], [[Chris Coons]], [[Jason Smith]], [[Todd Young]], [[Bill Hagerty]], [[Kevin McCarthy]], [[Andre Carson]], [[Kathy Castor]], [[Steve Daines]], [[ActBlue]], [[Patrick McHenry]], [[Gregory Meeks]], [[Mark Warner]], [[Mariannette Miller-Meeks]], [[Nancy Mace]], [[Morgan McGarvey]], [[Darren Soto]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Tim Scott Master Profile]], [[Kweisi Mfume]], [[James Lankford]], [[_Chris Pappas Master Profile]], [[Progressive Turnout Project]], [[Julia Brownley]], [[Claudia Tenney]], [[Andrea Salinas]], [[Joseph Morelle]], [[Joyce Beatty]], [[Jimmy Panetta]], [[National Rifle Association]], [[Richard Neal]], [[Vicente Gonzalez]], [[MAGA Inc]], [[Cathy McMorris Rodgers]], [[Human Rights Campaign Equality Votes]], [[Mitch McConnell]], [[WinRed]], [[David Kustoff]], [[Giffords PAC]], [[_Mike Kelly Master Profile]], [[Susan Collins]], [[Catherine Cortez Masto]], [[314 ACTION FUND]], [[Lamonica McIver]], [[Dan Crenshaw]], [[Everytown for Gun Safety Victory Fund]], [[Raja Krishnamoorthi]], [[Lisa Blunt Rochester]], [[Kevin Cramer]], [[Jacky Rosen]], [[Roger Wicker]], [[Barbara Lee]], [[_Thomas Massie Master Profile]], [[Tammy Baldwin]], [[Mike Lee]], [[Chrissy Houlahan]], [[Kyrsten Sinema]], [[Shelley Moore Capito]], [[Shri Thanedar]], [[Law Enforcement for a Safer America Pac]], [[Nikema Williams]], [[Marsha Blackburn]], [[FreedomWorks for America]], [[Jake Auchincloss]], [[Ashley Moody]], [[Tammy Duckworth]], [[Guy Reschenthaler]], [[Gary Peters]], [[_Marco Rubio Master Profile]], [[Jay Obernolte]], [[Nathaniel Moran]], [[Young Kim]], [[Lateefah Simon]], [[Votevets]], [[_Rashida Tlaib Master Profile]], [[_Nancy Pelosi Master Profile]], [[Patty Murray]], [[Marilyn Strickland]], [[Michael Lawler]], [[Rudy Yakym]], [[Jodey Arrington]], [[_Dave Min Master Profile]], [[The Lincoln Project]], [[John James]], [[NRSC - National Republican Senatorial Committee]], [[Tom Cole]], [[Deb Fischer]], [[Troy Balderson]], [[John Thune]], [[Nicole Malliotakis]], [[Sean Casten]], [[Brendan Boyle]], [[Ann Wagner]], [[Trump Victory]], [[Raul Ruiz]], [[Darin Lahood]], [[_Angie Craig Master Profile]], [[Thomas Massie]], [[Jerry Moran]], [[Sheila Cherfilus-McCormick]], [[Congressional Progressive Caucus PAC]], [[John Joyce]], [[_Beth van Duyne Master Profile]], [[Ron Estes]], [[_Rick W. Allen Master Profile]], [[Diana Harshbarger]], [[NRCC - National Republican Congressional Committee]], [[Joe Manchin]], [[WinSenate]], [[Jamie Raskin]], [[Chris Christie]], [[Bryan Steil]], [[Lloyd Smucker]], [[Glenn Grothman]], [[Mike Carey]], [[_Ron Johnson Master Profile]], [[Ted Lieu]], [[James Comer]], [[Dan Newhouse]], [[_Andre Carson Master Profile]], [[Roger Marshall]], [[Diana Degette]], [[Julie Fedorchak]], [[_Josh Riley Master Profile]], [[Russell Fry]], [[John Barrasso]], [[Josh Gottheimer]], [[Jimmy Gomez]], [[John Boozman]], [[Markwayne Mullin]], [[Thom Tillis]], [[Dwight Evans]], [[Kat Cammack]], [[_Michael Waltz Master Profile]], [[Steve Scalise]], [[_Elissa Slotkin Master Profile]], [[Bob Casey]], [[Sierra Club Political Committee]], [[Mark Kelly]], [[Mike Quigley]], [[Hakeem Jeffries]], [[_Ann Wagner Master Profile]], [[Bennie Thompson]], [[_John James Master Profile]], [[Tim Scott]], [[Adam Gray]], [[_Cory Booker Master Profile]], [[Dan Sullivan]], [[Susie Lee]], [[National Victory Action Fund]], [[Vince Fong]], [[Kim Schrier]], [[Grace Meng]], [[Aaron Bean]], [[Cliff Bentz]], [[_Donna Miller Master Profile]], [[Maria Elvira Salazar]], [[George Whitesides]], [[August Pfluger]], [[Jeanne Shaheen]], [[Cory Booker]], [[Ted Cruz]], [[Mike Kelly]], [[Elissa Slotkin]], [[Ron Johnson]], [[Angie Craig]], [[Chris Pappas]], [[Lauren Underwood]], [[Jon Ossoff]], [[Michael Waltz]], [[Beth van Duyne]], [[Donna Miller]], [[Marco Rubio]], [[Josh Riley]], [[Rick W. Allen]], [[Nancy Pelosi]], [[Rashida Tlaib]], [[Dave Min]], [[HMP]], [[314 Action Fund]], [[Bill Foster]], [[Mike Pompeo]], [[Steny H. Hoyer]], [[W. Gregory Steube]], [[Robert B. Aderholt]], [[Mike Bost]], [[John B. Larson]], [[Yvette D. Clarke]], [[Scott H. Peters]], [[Michael K. Simpson]], [[Ron Wyden]], [[Doris O. Matsui]], [[John Hoeven]], [[Ben Ray Lujan]], [[Gus M. Bilirakis]], [[Stephen F. Lynch]], [[Carol D. Miller]], [[James A. Himes]], [[Seth Moulton]], [[Rand Paul]], [[Kirsten E. Gillibrand]], [[Andy Barr]], [[Lee Zeldin]], [[Stacey E. Plaskett]], [[Troy A. Carter]], [[Earl L. Buddy Carter]], [[Mark E. Amodei]], [[Kevin Hern]], [[Xavier Becerra]], [[Paul Tonko]], [[Bradley Scott Schneider]], [[Michael Bennet]], [[Nydia Velazquez]], [[Nanette Diaz Barragan]], [[Brian K. Fitzpatrick]], [[Eric Swalwell]], [[Mary Gay Scanlon]], [[Katherine M. Clark]], [[Neal P. Dunn]], [[Robin L. Kelly]], [[Bob Menendez]], [[David P. Joyce]], [[Gerry Connolly]], [[James E. Clyburn]], [[Joe Neguse]], [[Mike Crapo]], [[Mazie K. Hirono]], [[Donald G. Davis]], [[Vern Buchanan]], [[Eleanor Holmes Norton]], [[Dick Durbin]], [[Danny K. Davis]], [[Henry C. Hank Johnson]], [[Jennifer L. McClellan]], [[Blake D. Moore]], [[Pete Sessions]], [[Linda T. Sanchez]], [[Tom Emmer]], [[Randy Feenstra]], [[Harry Reid]], [[Nellie Pou]], [[J. Luis Correa]], [[Gregory F. Murphy]], [[Bonnie Watson Coleman]], [[Tim Walberg]], [[Tim Kaine]], [[Robert E. Latta]], [[Juan Vargas]], [[Deborah K. Ross]], [[Chuck Schumer]], [[Angus S. King]], [[Donald Norcross]], [[Charles J. Chuck Fleischmann]], [[Ami Bera]], [[Tom Cotton]], [[Laurel M. Lee]], [[Jim Banks]], [[Marc A. Veasey]], [[Andy Harris]], [[Jefferson van Drew]], [[Suzan K. Delbene]], [[David Rouzer]], [[H. Morgan Griffith]], [[Frank J. Mrvan]], [[David G. Valadao]], [[Mike Rounds]], [[Bill Cassidy]], [[Angela D. Alsobrooks]], [[Zoe Lofgren]], [[Edward J. Markey]], [[Ashley Hinson]], [[John Boehner]], [[Jim McGovern]], [[Debbie Dingell]], [[Janelle S. Bynum]], [[Alma S. Adams]], [[Rick Larsen]], [[Andrew R. Garbarino]], [[Pablo Jose Hernandez]], [[Timothy M. Kennedy]], [[Mike Johnson]], [[Kristi Noem]], [[Terri A. Sewell]], [[Donald S. Beyer]], [[William R. Keating]], [[Valerie P. Foushee]], [[Jonathan L. Jackson]], [[Jim Risch]], [[James R. Walkinshaw]], [[Norma J. Torres]], [[J. French Hill]], [[Lindsey Graham]], [[Elise Stefanik]], [[Jesus G. Chuy Garcia]], [[Michael T. McCaul]], [[Henry Cuellar]], [[Thomas H. Kean]], [[Paul Ryan]], [[Ed Markey]], [[Sanford D. Bishop]], [[Dianne Feinstein]], [[Jasmine Crockett]], [[Gabe Amo]], [[Brian Schatz]], [[Margaret Wood Hassan]], [[Joe Wilson]], [[Jennifer A. Kiggans]], [[Kevin Kiley]], [[Marcia Fudge]], [[Jerrold Nadler]], [[John R. Moolenaar]], [[Emilia Strong Sykes]], [[John R. Curtis]], [[Sam T. Liccardo]], [[Jim Costa]], [[Herbert C. Conaway]], [[Don Bacon]], [[Jim Inhofe]], [[Nick Lalota]], [[John W. Rose]], [[Robert Menendez]], [[Jim Himes]]"
 epa-facilities: 8
 epa-states: CA, IL, MI, PR
@@ -65,6 +69,8 @@ employee-contributions: 114709
 employee-contributions-total: 7115027
 employee-donor-count: 6372
 ---
+
+
 
 
 
@@ -86,7 +92,20 @@ employee-donor-count: 6372
 
 **Total political spend:** —
 
-*No direct donor→politician dollar flows tracked for this entity. Money may route through controlled vehicles or 501(c)(4) shells. See narrative sections below for details.*
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Bradley Scott Schneider | $55,000 |
+| Scott H. Peters | $54,000 |
+| Kevin McCarthy | $53,500 |
+| Lisa Blunt Rochester | $47,500 |
+| Darin Lahood | $47,000 |
+| Richard Hudson | $46,500 |
+| Brett Guthrie | $44,500 |
+| Robin L. Kelly | $44,000 |
+| Cathy McMorris Rodgers | $43,500 |
+| Mike Bost | $41,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
@@ -401,9 +420,9 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 | Metric | Amount |
 |---|---:|
-| Total revenue | — |
+| Total revenue | $41.1M |
 | Contribution revenue | $35.0M |
-| Total expenses | — |
+| Total expenses | $39.9M |
 | Total assets (EOY) | $47.4M |
 | Grants paid out | — |
 

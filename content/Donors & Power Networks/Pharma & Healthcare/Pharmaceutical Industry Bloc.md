@@ -1,7 +1,7 @@
 ---
 title: Pharmaceutical Industry Bloc
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -15,7 +15,11 @@ related: "[[New Hampshire 2026 Senate Race]] · [[Thom Tillis Master Profile]] �
 cross-vault-triangulation-count: 17
 needs-reenrichment: true
 reenrich-reason: run fec pipeline; run pipelines
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 politicians-funded: "[[Patty Murray]], [[Thom Tillis]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -28,6 +32,8 @@ known-gaps:
   - "No lobbying disclosure data"
 last-enriched: 2026-04-21
 ---
+
+
 
 
 

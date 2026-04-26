@@ -3,14 +3,14 @@ title: "Brad Sherman sponsored 7 'Housing and Community Development' bills; top 
 type: story-seed
 seed-type: policy-capture-sponsorship
 confidence: 3
-last-updated: '2026-04-24'
+last-updated: '2026-04-26'
 auto-generated: true
 status: unclaimed
 ---
 
 # Brad Sherman sponsored 7 "Housing and Community Development" bills; top donors include 2 from matching sector
 
-_Confidence: ★★★☆☆ · Surfaced by contradiction-miner on 2026-04-24_
+_Confidence: ★★★☆☆ · Surfaced by contradiction-miner on 2026-04-26_
 
 ## The angle
 

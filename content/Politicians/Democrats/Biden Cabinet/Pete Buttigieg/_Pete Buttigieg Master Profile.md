@@ -1,7 +1,7 @@
 ---
 title: Pete Buttigieg
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: Buttigieg is the McKinsey candidate , a donor-class product designed in a lab. His 2020 campaign was funded by bundlers from finance, tech, and consulting; his Transportation tenure delivered bipartisan infrastructure money that flowed disproporti...
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
@@ -22,7 +22,15 @@ known-gaps:
 related: ">- · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Women Speak Out Pac]] · [[Dream Defenders Fight Pac]]"
 donors: "[[DoorDash]] · [[Votevets]] · [[Equality California Votes]] · [[Finance and Tech Bundler Network]] · [[DRAIN THE DC SWAMP PAC]] · [[Women Speak Out Pac]] · [[Dream Defenders Fight Pac]] · [[Mislove, Alan Edward]] · [[UAW Region 3 CAP]]"
 last-enriched: 2026-04-20T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage); no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -43,8 +51,8 @@ last-enriched: 2026-04-20T00:00:00.000Z
 
 | Donor | Amount |
 |---|---:|
-| Votevets | $9,939,935 |
-| Equality California Votes | $43,609 |
+| Margaret Wood Hassan | $1,000 |
+| Chris Pappas | $1,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

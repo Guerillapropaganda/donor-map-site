@@ -1,7 +1,7 @@
 ---
 title: Christian D. Menefee
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Democrat
@@ -24,10 +24,18 @@ known-gaps:
 urls-first-triaged: "2026-04-15"
 top-donors: "[[Marathon Petroleum]], [[Ford Motor Company]], [[Aramark]], [[Meta - Facebook]], [[ExxonMobil]], [[ADM - Archer Daniels Midland]], [[Microsoft]], [[Kelcy Warren - Energy Transfer Partners]], [[Lockheed Martin]], [[Eli Lilly]], [[Google - Alphabet]], [[Walmart]], [[Johnson & Johnson]], [[Tesla - Elon Musk Political Operation]], [[Chevron]], [[Apple]], [[Gilead Sciences]], [[Occidental Petroleum]], [[Halliburton]], [[Protect Progress]], [[Voter Protection Project]], [[Maxwell Frost]], [[MEDICARE FOR ALL]], [[National Nurses United]]"
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage); re-run CSV bulk: `node scripts/ingest-congress-bills-bulk.cjs && node scripts/build-sponsored-bills-panel.cjs`"
 committees:
   - House Committee on Science, Space, and Technology
 corroboration-count: 2
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+  • Congress.gov data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -51,14 +59,14 @@ corroboration-count: 2
 |---|---:|
 | Chevron | $9,000 |
 | Kelcy Warren - Energy Transfer Partners | $3,500 |
+| National Nurses United | $3,000 |
 | Aramark | $2,000 |
+| Voter Protection Project | $2,000 |
 | Johnson & Johnson | $1,750 |
 | Occidental Petroleum | $1,252 |
 | Walmart | $1,000 |
 | Meta - Facebook | $1,000 |
-| Eli Lilly | $787 |
-| Google - Alphabet | $750 |
-| ExxonMobil | $750 |
+| Maxwell Frost | $1,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

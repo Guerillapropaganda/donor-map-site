@@ -1,7 +1,7 @@
 ---
 title: The 85 Fund
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -23,12 +23,18 @@ lei: 549300JZ9WCXZDH10988
 lei-jurisdiction: US-DE
 related: "[[Federalist Society]] · [[Barre Seid]] · [[Leonard Leo]] · [[Marble Freedom Trust]] · [[Sentinel Action Fund]] · [[Judicial Crisis Network]] · [[DeVos Family]] · [[Heritage Foundation]] · [[American Federation for Children]] · [[Walton Family Foundation]] · [[Insurance Industry]] · [[National Education Association]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[DonorsTrust]] · [[Demand Justice]] · [[Bradley Foundation]]"
 cross-vault-triangulation-count: 8
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 politicians-funded: "[[TPUSA - Turning Point USA]], [[Heritage Foundation]], [[Mercatus Center]], [[Vanguard Charitable Endowment Program]], [[Donors Trust]], [[Manhattan Institute]]"
 ---
+
+
 
 
 
@@ -207,7 +213,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Total assets (EOY) | $3.9M |
 | Grants paid out | $101.4M |
 
-**Lifetime grants out (2020–2023):** $239.7M across 85 recipients.
+**Lifetime grants out (2020–2023):** $239.7M across 86 recipients.
 
 **Top 20 recipients:**
 
@@ -215,8 +221,8 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 |---|---:|---:|---|
 | Donors Trust | $196.5M | 3 | 2020–2023 |
 | Federalist Society | $8.7M | 3 | 2020–2023 |
-| Turning Point USA Inc | $3.3M | 2 | 2020–2023 |
 | Ethics and Public Policy Center | $3.1M | 3 | 2020–2023 |
+| Turning Point USA Inc | $2.8M | 1 | 2020 |
 | Foundation for Individual Rights in Expression Inc | $2.1M | 1 | 2022 |
 | Foundation for Government Accountability | $2.0M | 1 | 2020 |
 | Club for Growth Foundation | $1.5M | 1 | 2023 |

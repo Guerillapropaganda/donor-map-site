@@ -1,7 +1,7 @@
 ---
 title: Mark B. Messmer
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Republican
@@ -23,6 +23,8 @@ known-gaps:
   - No mapped relationships
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 committees:
   - Commodity Markets, Digital Assets, and Rural Development
   - Conservation, Research, and Biotechnology
@@ -37,7 +39,12 @@ committees:
 bills-sponsored: 13
 corroboration-count: 2
 top-donors: "[[DAVID ROUZER FOR CONGRESS]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[National Cattlemen's Beef Association]], [[Frank Lucas]], [[Defend American Jobs]], [[Brett Guthrie]], [[Associated General Contractors of America Political Action Committee]], [[Tom Emmer]], [[AIPAC - American Israel Public Affairs Committee]], [[Rudy Yakym]], [[MOORE FOR WEST VIRGINIA, INC.]], [[TROY DOWNING FOR CONGRESS]], [[BRANDON GILL FOR TEXAS]], [[JIM JORDAN FOR CONGRESS]], [[ADM - Archer Daniels Midland]], [[National Restaurant Association]], [[Steve Scalise]], [[Carol D. Miller]], [[NRA Political Victory Fund]], [[Club for Growth INC PAC]], [[David P. Joyce]], [[David Rouzer]], [[Brandon Gill]], [[Troy Downing]], [[Jim Jordan]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -52,8 +59,24 @@ top-donors: "[[DAVID ROUZER FOR CONGRESS]], [[AUSTIN SCOTT FOR CONGRESS INC]], [
 
 **Party:** Republican · **Chamber:** House · **State:** Indiana
 **Bioguide ID:** `M001233`
+**FEC candidate ID:** `H4IN08249`
 
 **Total received:** —
+
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| AIPAC - American Israel Public Affairs Committee | $267,582 |
+| National Cattlemen's Beef Association | $5,000 |
+| Associated General Contractors of America Political Action Committee | $4,500 |
+| Nicholas J. Begich | $4,000 |
+| Tom Barrett | $4,000 |
+| Gabe Evans | $4,000 |
+| Brandon Gill | $4,000 |
+| National Restaurant Association | $3,500 |
+| Matt van Epps | $3,500 |
+| Club for Growth INC PAC | $3,300 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

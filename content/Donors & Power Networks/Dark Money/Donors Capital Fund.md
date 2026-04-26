@@ -1,7 +1,7 @@
 ---
 title: Donors Capital Fund
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -59,7 +59,11 @@ sec-form-types:
   - SCHEDULE 13G
   - SCHEDULE 13G/A
 cross-vault-triangulation-count: 10
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 wikidata-id: Q17011069
 wikipedia-url: https://en.wikipedia.org/wiki/DonorsTrust
 wikipedia-extract: DonorsTrust is an American nonprofit donor-advised fund that was founded in 1999 with the goal of "safeguarding the intent of libertarian and conservative donors".
@@ -68,6 +72,8 @@ checklist-na:
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 politicians-funded: "[[Cato Institute]], [[Mercatus Center]], [[Vanguard Charitable Endowment Program]], [[Donors Trust]]"
 ---
+
+
 
 
 

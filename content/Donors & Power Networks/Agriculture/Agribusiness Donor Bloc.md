@@ -1,7 +1,7 @@
 ---
 title: Agribusiness Donor Bloc
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -14,7 +14,11 @@ last-enriched: "2026-04-08"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
 cross-vault-triangulation-count: 9
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 lobbying-spend: 480000
 lobbying-filings: 17
 politicians-funded: "[[Joni Ernst]]"
@@ -27,6 +31,8 @@ source-types:
   - LDA
 corroboration-count: 2
 ---
+
+
 
 
 

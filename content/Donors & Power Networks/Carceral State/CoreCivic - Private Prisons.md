@@ -1,7 +1,7 @@
 ---
 title: CoreCivic - Private Prisons
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -16,7 +16,11 @@ nhtsa-recalls: 0
 nhtsa-complaints: 0
 related: "[[Immigration Enforcement - The Detention Economy]] · [[Immigration - Donors and Backers]] · [[GEO Group - Private Prisons]] · [[Criminal Justice - Donors and Backers]] · [[GEO Group]] · [[Prison Policy Initiative]] · [[Fraternal Order of Police]] · [[CoreCivic]] · [[ViaPath Technologies - GTL]] · [[Securus Technologies - Aventiv]] · [[GEO Group - Private Prison Industrial Complex]] · [[Uber]] · [[CCPOA - California Correctional Peace Officers Association]] · [[Aramark]]"
 cross-vault-triangulation-count: 9
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ein: "474543845"
 nonprofit-status: 501(c)(3)
 total-revenue: 143756
@@ -29,6 +33,8 @@ individual-contributions: 167062
 contributions-to-committees: 121000
 politicians-funded: "[[John Hoeven]], [[Derek Schmidt]], [[Roger Wicker]], [[Michael Guest]], [[Cindy Hyde-Smith]], [[John Boozman]], [[John Thune]], [[Thom Tillis]], [[Harold Rogers]], [[Jerry Moran]], [[Ryan Zinke]], [[Henry Cuellar]], [[Pete Ricketts]], [[Kyrsten Sinema]], [[Katie Britt]], [[Tim Scott]], [[David Kustoff]], [[Tracey Mann]], [[Roger Marshall]], [[Diana Harshbarger]], [[Dan Sullivan]], [[Steve Daines]], [[Bill Hagerty]], [[Shelley Moore Capito]], [[Kevin McCarthy]], [[Marsha Blackburn]], [[Michael Whatley]], [[Todd Young]], [[Tom Cole]], [[Tim Burchett]], [[Mike Carey]], [[Mark Green]], [[Markwayne Mullin]]"
 ---
+
+
 
 
 
@@ -50,6 +56,21 @@ politicians-funded: "[[John Hoeven]], [[Derek Schmidt]], [[Roger Wicker]], [[Mic
 **Ideological function:** `carceral-expansion`
 
 **Total political spend:** —
+
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| David Kustoff | $16,500 |
+| John Thune | $10,000 |
+| Harold Rogers | $10,000 |
+| Jerry Moran | $10,000 |
+| Kyrsten Sinema | $10,000 |
+| Katie Britt | $10,000 |
+| Roger Marshall | $10,000 |
+| Bill Hagerty | $10,000 |
+| Kevin McCarthy | $10,000 |
+| Marsha Blackburn | $10,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

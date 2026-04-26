@@ -1,7 +1,7 @@
 ---
 title: Jim Jordan
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: Jim Jordan's career is the institutional architecture of performative aggression in service of donor-class protection. The Freedom Caucus exists to block legislation that threatens the Koch/Club for Growth deregulation agenda. The Judiciary Commit...
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -30,7 +30,14 @@ donors: "[[House Freedom Caucus]], [[Koch Network - Charles Koch]], [[Club for G
 bills-enacted: 0
 top-policy-area: Government Operations and Politics
 last-enriched: 2026-04-20T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -44,6 +51,7 @@ last-enriched: 2026-04-20T00:00:00.000Z
 
 **Party:** Republican · **Chamber:** House
 **Bioguide ID:** `J000289`
+**FEC candidate ID:** `H6OH04082`
 
 **Total received:** —
 
@@ -55,16 +63,16 @@ last-enriched: 2026-04-20T00:00:00.000Z
 
 | Donor | Amount |
 |---|---:|
-| Apple | $13,350 |
-| Goldman Sachs | $12,600 |
-| Scott Fitzgerald | $12,000 |
-| Lauren Boebert | $10,000 |
-| Mariannette Miller-Meeks | $10,000 |
-| Russ Fulcher | $10,000 |
-| Thomas Massie | $10,000 |
-| Michael Lawler | $8,000 |
-| Scott Perry | $8,000 |
-| Michelle Fischbach | $8,000 |
+| Koch Industries | $73,500 |
+| NRA Political Victory Fund | $46,250 |
+| Google - Alphabet | $44,500 |
+| Jim Jordan | $30,000 |
+| Pfizer Inc. | $24,480 |
+| AIPAC - American Israel Public Affairs Committee | $23,900 |
+| Nucor Corporation | $21,000 |
+| Scott Perry | $14,000 |
+| Chip Roy | $14,000 |
+| Ben Cline | $14,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

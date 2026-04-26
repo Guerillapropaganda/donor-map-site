@@ -1,7 +1,7 @@
 ---
 title: Gilbert Ray Cisneros
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Democrat
@@ -23,6 +23,8 @@ known-gaps:
   - No mapped relationships
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 committees:
   - Contracting and Infrastructure
   - House Committee on Armed Services
@@ -33,7 +35,12 @@ committees:
 bills-sponsored: 29
 corroboration-count: 2
 top-donors: "[[J. Luis Correa]], [[NANCY PELOSI FOR CONGRESS]], [[Sierra Club Political Committee]], [[J Street]], [[JULIA BROWNLEY FOR CONGRESS]], [[League of Conservation Voters]], [[COURTNEY, JOSEPH]], [[With Honor Fund]], [[Henry Cuellar]], [[Let America Vote PAC]], [[Marcy Kaptur]], [[HIMES FOR CONGRESS]], [[BARBARA LEE FOR CONGRESS]], [[National Education Association]], [[SCOTT PETERS FOR CONGRESS]], [[MARK TAKANO FOR CONGRESS]], [[PAUL TONKO FOR CONGRESS]], [[Activate America]], [[Hakeem Jeffries]], [[KATHERINE CLARK FOR CONGRESS]], [[DoorDash]], [[Cooperative of American Physicians Independent Expenditure Committee]], [[Raul Ruiz]], [[James E. Clyburn]], [[Suzan K. Delbene]], [[Indivisible Action]], [[Marc A. Veasey]], [[BARRAGAN FOR CONGRESS]], [[Equality California Votes]], [[CASTRO FOR CONGRESS]], [[Salud O. Carbajal]], [[Powerpacplus]], [[AIPAC - American Israel Public Affairs Committee]], [[LOFGREN FOR CONGRESS]], [[Planned Parenthood Action Fund INC]], [[Adam Schiff]], [[KAMALA HARRIS FOR SENATE]], [[STAND WITH SANCHEZ]], [[Giffords PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[CASTOR FOR CONGRESS]], [[Steny H. Hoyer]], [[COMMITTEE TO ELECT JARED GOLDEN]], [[JIMMY PANETTA FOR CONGRESS]], [[Sylvia R. Garcia]], [[Robin L. Kelly]], [[STEPHEN LYNCH FOR CONGRESS]], [[VERONICA ESCOBAR FOR CONGRESS]], [[Raja Krishnamoorthi]], [[ADRIANO ESPAILLAT FOR CONGRESS]], [[SHERMAN FOR CONGRESS]], [[STANTON FOR CONGRESS]], [[MARK POCAN FOR CONGRESS]], [[Blue Shield of California]], [[JUDY CHU FOR CONGRESS]], [[Bradley Scott Schneider]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Jerrold Nadler]], [[PETE AGUILAR FOR CONGRESS]], [[JOE NEGUSE FOR CONGRESS]], [[BILL FOSTER FOR CONGRESS]], [[Rosa DeLauro]], [[GARAMENDI FOR CONGRESS]], [[National Association of Realtors]], [[CITIZENS TO ELECT RICK LARSEN]], [[VICENTE GONZALEZ FOR CONGRESS]], [[Donald S. Beyer]], [[MARK DESAULNIER FOR CONGRESS]], [[GRACE FOR NEW YORK]], [[ILHAN FOR CONGRESS]], [[MIKE LEVIN FOR CONGRESS]], [[Nanette Diaz Barragan]], [[Joe Neguse]], [[Stephen F. Lynch]], [[Judy Chu]], [[Pete Aguilar]], [[Mark DeSaulnier]], [[Julia Brownley]], [[Grace Meng]], [[Kamala Harris]], [[Adriano Espaillat]], [[Mark Takano]], [[Rick Larsen]], [[Vicente Gonzalez]], [[Juan Vargas]], [[Jimmy Panetta]], [[Hilda Solis]], [[Kathy Castor]], [[Bill Foster]], [[Ilhan Omar]], [[Veronica Escobar]], [[Mike Levin]], [[Robert Garcia]], [[Katherine M. Clark]], [[Linda T. Sanchez]], [[Barbara Lee]], [[John Garamendi]], [[Jim Himes]], [[Mark Pocan]], [[Zoe Lofgren]], [[Ted Lieu]], [[Scott H. Peters]], [[Greg Stanton]], [[Akin Gump Strauss Hauer & Feld]], [[Joe Courtney]], [[Jared F. Golden]], [[Brad Sherman]], [[Leidos]], [[Nancy Pelosi]], [[Paul Tonko]], [[Joaquin Castro]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -50,6 +57,21 @@ top-donors: "[[J. Luis Correa]], [[NANCY PELOSI FOR CONGRESS]], [[Sierra Club Po
 **Bioguide ID:** `C001123`
 
 **Total received:** —
+
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Let America Vote PAC | $20,000 |
+| International Association of Firefighters Interested in Registration and Education PAC | $18,500 |
+| National Education Association | $15,000 |
+| AIPAC - American Israel Public Affairs Committee | $10,000 |
+| Pete Aguilar | $10,000 |
+| Nancy Pelosi | $10,000 |
+| Planned Parenthood Action Fund INC | $9,000 |
+| League of Conservation Voters | $8,000 |
+| Judy Chu | $8,000 |
+| Nanette Diaz Barragan | $7,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -1,7 +1,7 @@
 ---
 title: "Ayanna Pressley Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: "Pressley is the Squad member who chose institutional integration over institutional confrontation — building power within committee structures rather than through media insurgency. Her Financial Services Committee seat gives her formal jurisdictio..."
 last-updated: 2026-04-18
 source-tier: 1
@@ -55,7 +55,11 @@ donors:
   - "Machinists/Aerospace Workers Union"
 editorial-notes: "Flagged for David's verified sign-off. Qualifies on merits: 4 Tier 1 source types (Congress.gov with verified bioguide P000617, FEC, GovTrack, Pressley official House.gov press releases), H.Res.702 and H.R.3412 with direct Congress.gov citations, nuanced class analysis distinguishing PAC capture from ambient committee-membership pressure, documented Capuano replacement logic, donor architecture broken down by industry with career totals. FIXED: stripped auto:doj-press block (false positive — 264,413 mentions from DOJ API index-size bug that main's engine fix now caps at 10K). FIXED: moved OpenSecrets career industries from Tier 1 to Archived per Vault Rules. FIXED: removed inline content-readiness/profile-status markers per frontmatter-only rule. Zero A000383 contamination. Zero (URL NEEDED) tags. Ready for editor review."
 related: "[[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Ilhan Omar Master Profile|Omar]] · [[_Rashida Tlaib Master Profile|Tlaib]] · [[_Maxine Waters Master Profile|Waters]] · [[_Elizabeth Warren Master Profile|Warren]] · [[_Cory Booker Master Profile|Booker]] · [[_Jamaal Bowman Master Profile|Bowman]] · [[_Cori Bush Master Profile|Cori Bush]]"
-internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • The profile's own known-gaps field says it needs a fresh pipeline run.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
   • The profile's own known-gaps field says it needs a fresh pipeline run.
   • FEC-CANDIDATE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
   • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
@@ -72,6 +76,8 @@ bills-enacted: 0
 bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Health"
 ---
+
+
 
 
 
@@ -98,16 +104,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| Honoring American Law Enforcement Pac | $63,750 |
-| Law Enforcement for a Safer America Pac | $63,750 |
+| National Education Association | $20,000 |
 | Teamsters - International Brotherhood of Teamsters | $16,000 |
 | SEIU COPE | $15,000 |
 | NEA Fund for Children and Public Education | $14,000 |
-| American Federation of State County & Municipal Employees P E O P L E | $12,500 |
-| JUSTICE DEMOCRATS PAC | $10,000 |
-| Unite Here Tip Campaign Committee | $10,000 |
+| American Federation of State County & Municipal Employees  P E O P L E | $12,500 |
+| Let America Vote PAC | $12,000 |
+| Indivisible Action | $10,200 |
+| Justice Democrats PAC | $10,000 |
 | Progressive Turnout Project | $10,000 |
-| International Association of Firefighters Interested in Registration and Education PAC | $7,500 |
+| Unite Here Tip Campaign Committee | $10,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

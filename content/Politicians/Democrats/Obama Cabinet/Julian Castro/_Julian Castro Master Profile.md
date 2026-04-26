@@ -1,7 +1,7 @@
 ---
 title: Julian Castro
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Democrat
@@ -14,9 +14,18 @@ source-types:
   - FEC
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage); no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage); no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)"
 corroboration-count: 2
 top-donors: "[[CASTRO FOR CONGRESS]], [[Joaquin Castro]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -30,8 +39,22 @@ top-donors: "[[CASTRO FOR CONGRESS]], [[Joaquin Castro]]"
 <!-- tier: paid -->
 
 **Party:** Democrat · **Chamber:** Secretary of HUD (2014-2017)
+**FEC candidate ID:** `P00009092`
 
 **Total received:** —
+
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Joaquin Castro | $5,996 |
+| Jon Ossoff | $5,000 |
+| Raphael Warnock | $5,000 |
+| Alex Padilla | $1,500 |
+| Ben Ray Lujan | $1,000 |
+| Lucy McBath | $1,000 |
+| Lauren Underwood | $1,000 |
+| Nikema Williams | $1,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

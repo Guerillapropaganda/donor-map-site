@@ -1,20 +1,28 @@
 ---
 title: "Natural Resources Defense Council"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18
 sector: "Dark Money"
 entity-type: "501(c)(3)"
 ein: "132654926"
 nonprofit-status: "501(c)(3)"
 source-tier: 1
-internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Major environmental advocacy 501(c)(3). Paired with NRDC Action Fund (c4) for lobbying. Narrative pending Research Claude editorial pass."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Major environmental advocacy 501(c)(3). Paired with NRDC Action Fund (c4) for lobbying. Narrative pending Research Claude editorial pass."
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
   - "No mapped relationships"
 last-enriched: 2026-04-21
+needs-reenrichment: true
+reenrich-reason: "no fec-committee-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 ---
+
+
 
 
 
@@ -57,16 +65,54 @@ last-enriched: 2026-04-21
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 9 (2018–2023)
 
-**Grants received (2018–2024):** $98.9M across 13 grantors (from other vault orgs' Schedule I records).
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $179.3M |
+| Total expenses | — |
+| Total assets (EOY) | $576.9M |
+| Grants paid out | $10.6M |
+
+**Lifetime grants out (2018–2023):** $63.8M across 629 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| MOVEMENT STRATEGY CENTER | $11.7M | 1 | 2022 |
+| Nrdc Action Fund | $3.8M | 2 | 2019–2020 |
+| PARTNERSHIP PROJECT INC | $3.1M | 3 | 2021–2023 |
+| SOCIAL AND ENVIRONMENTAL ENTREPRENEURS | $2.9M | 3 | 2021–2023 |
+| Partnership Project Inc | $2.7M | 3 | 2018–2020 |
+| ROSE FOUNDATION | $2.4M | 1 | 2022 |
+| NRDC ACTION FUND INC | $2.0M | 3 | 2021–2023 |
+| National Assoc of City Transp Off | $1.7M | 1 | 2019 |
+| COMING CLEAN INC | $1.5M | 3 | 2021–2023 |
+| NATIONAL ASSOCIATION OF CITY TRANSPORTATION OFFICIALS | $1.0M | 2 | 2021–2022 |
+| Low Income Investment Fund | $666K | 3 | 2018–2020 |
+| Blue Green Alliance Foundation | $583K | 3 | 2018–2020 |
+| Elevate Energy | $569K | 3 | 2019–2020 |
+| PEORIA COUNTY HEALTH DEPT | $529K | 1 | 2021 |
+| PARTNERSHIP FOR SOUTHERN EQUITY | $500K | 1 | 2022 |
+| SOLUTIONS PROJECT INC | $500K | 1 | 2023 |
+| BOE CITY OF PEORIAPEORIA PUB SCHOOL DIST | $469K | 1 | 2020 |
+| GREATER PEORIA MASS TRANSIT DISTRICT | $410K | 1 | 2022 |
+| ELEVATE ENERGY | $304K | 2 | 2021–2023 |
+| Institute For Market Transformation | $294K | 2 | 2019–2020 |
+
+**Grants received (2018–2024):** $119.4M across 14 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
-| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $41.6M | 6 | 2018–2023 |
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $47.9M | 7 | 2018–2023 |
 | SCHWAB CHARITABLE FUND | $25.8M | 9 | 2018–2024 |
+| CLIMATEWORKS FOUNDATION | $14.1M | 5 | 2019–2024 |
 | Goldman Sachs Philanthropy Fund | $8.1M | 6 | 2018–2024 |
 | NATIONAL PHILANTHROPIC TRUST | $7.6M | 6 | 2018–2023 |
 | Vanguard Charitable Endowment Program | $4.6M | 3 | 2021–2023 |

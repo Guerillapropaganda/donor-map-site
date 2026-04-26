@@ -1,7 +1,7 @@
 ---
 title: "Great Lakes Conservatives Fund"
 type: pac
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18
 source-tier: 1
 parent: null
@@ -19,7 +19,11 @@ ofac-programs:
   - "DRCONGO"
 related: "[[Michigan 2026 Senate Race]] · [[The National Security-to-Senate Pipeline]] · [[_Mike Rogers Master Profile]] · [[Tim Dunn]] · [[Paul Singer]] · [[Stephen Schwarzman]] · [[Sentinel Action Fund]]"
 cross-vault-triangulation-count: 7
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 checklist-na:
@@ -27,6 +31,8 @@ checklist-na:
   - "contracts: auto: entity type \"pac\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
 ---
+
+
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: Betty Yee
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: Betty Yee is the fiscal technocrat candidate , her entire political identity is built around the Controller role, which gives her unique visibility into California's state finances, pension obligations, corporate tax compliance, and fiscal policy ...
 last-updated: 2026-04-09T00:00:00.000Z
 source-tier: 1
@@ -17,8 +17,16 @@ known-gaps:
   - "No FEC contribution data"
   - "No voting record data"
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage); no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)"
 related: "[[_Gavin Newsom Master Profile]] · [[CalPERS]] · [[CalSTRS]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: Marlin A. Stutzman
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Republican
@@ -23,6 +23,8 @@ known-gaps:
   - No mapped relationships
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 committees:
   - Capital Markets
   - Digital Assets, Financial Technology, and Artificial Intelligence
@@ -31,7 +33,12 @@ committees:
 bills-sponsored: 38
 corroboration-count: 2
 top-donors: "[[Humana]], [[Jim Banks]], [[American Principles Fund]], [[Koch Industries]], [[Monsanto - Bayer]], [[American College of Radiology Association PAC]], [[Richard Hudson]], [[Pfizer Inc.]], [[National Cattlemen's Beef Association]], [[NRA Political Victory Fund]], [[JIM JORDAN FOR CONGRESS]], [[Club for Growth INC PAC]], [[Nucor Corporation]], [[ADM - Archer Daniels Midland]], [[Family Research Council Action Political Action Committee]], [[ADRIAN SMITH FOR CONGRESS]], [[THOMAS MASSIE FOR CONGRESS]], [[Pete Sessions]], [[National Restaurant Association]], [[American Iron and Steel Institute]], [[GARY PALMER FOR CONGRESS]], [[ANDY HARRIS FOR CONGRESS]], [[Cynthia M. Lummis]], [[National Right to Life PAC]], [[Akin Gump Strauss Hauer & Feld]], [[Gun Owners of America]], [[Protect Freedom Political Action Committee]], [[Jodey Arrington]], [[Paul A. Gosar]], [[Jim Jordan]], [[Gary J. Palmer]], [[Andy Harris]], [[Thomas Massie]], [[Steve Scalise]], [[Adrian Smith]], [[AIPAC - American Israel Public Affairs Committee]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -46,8 +53,24 @@ top-donors: "[[Humana]], [[Jim Banks]], [[American Principles Fund]], [[Koch Ind
 
 **Party:** Republican · **Chamber:** House · **State:** Indiana
 **Bioguide ID:** `S001188`
+**FEC candidate ID:** `H0IN03198`
 
 **Total received:** —
+
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Koch Industries | $23,500 |
+| Nucor Corporation | $18,500 |
+| Monsanto - Bayer | $13,500 |
+| NRA Political Victory Fund | $6,500 |
+| AIPAC - American Israel Public Affairs Committee | $5,000 |
+| Jim Jordan | $5,000 |
+| Gun Owners of America | $4,950 |
+| Steve Scalise | $4,000 |
+| National Restaurant Association | $3,500 |
+| Richard Hudson | $3,309 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

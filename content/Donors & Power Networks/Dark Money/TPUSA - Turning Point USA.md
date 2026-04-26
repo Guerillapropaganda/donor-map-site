@@ -1,7 +1,7 @@
 ---
 title: TPUSA - Turning Point USA
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 2
 parent: null
@@ -17,6 +17,8 @@ known-gaps:
 ein: "800835023"
 nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "no fec-committee-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 total-revenue: 86911918
 total-assets: 26269868
 checklist-na:
@@ -29,7 +31,12 @@ employee-contributions: 159
 employee-contributions-total: 42998
 employee-donor-count: 59
 politicians-funded: "[[NRSC - National Republican Senatorial Committee]], [[Emily's List]], [[ActBlue]], [[WinRed]], [[_Jon Ossoff Master Profile]], [[Hmp]], [[NRCC - National Republican Congressional Committee]], [[DCCC - Democratic Congressional Campaign Committee]], [[FreedomWorks for America]], [[MoveOn.org Political Action]], [[_Elissa Slotkin Master Profile]], [[Progressive Turnout Project]], [[RNC - Republican National Committee]], [[Trump Victory]], [[MAGA Inc]], [[Human Rights Campaign Equality Votes]], [[Catherine Cortez Masto]], [[_Marco Rubio Master Profile]], [[Jon Ossoff]], [[Marco Rubio]], [[Elissa Slotkin]], [[HMP]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -52,6 +59,15 @@ politicians-funded: "[[NRSC - National Republican Senatorial Committee]], [[Emil
 **Ideological function:** `dark-money-networked`
 
 **Total political spend:** —
+
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Elissa Slotkin | $300 |
+| Marco Rubio | $270 |
+| Jon Ossoff | $250 |
+| Catherine Cortez Masto | $204 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
@@ -215,7 +231,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | DAILY CALLER NEWS FOUNDATION | $8K | 1 | 2022 |
 | VINDEX MEDIA | $8K | 1 | 2023 |
 
-**Grants received (2018–2024):** $58.0M across 12 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $58.3M across 12 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -223,7 +239,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 |---|---:|---:|---|
 | BRADLEY IMPACT FUND INC | $26.6M | 5 | 2018–2024 |
 | SCHWAB CHARITABLE FUND | $10.9M | 7 | 2018–2024 |
-| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $5.1M | 6 | 2018–2023 |
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $5.4M | 7 | 2018–2023 |
 | Donors Trust Inc | $4.2M | 9 | 2020–2024 |
 | The 85 Fund | $3.3M | 2 | 2020–2023 |
 | NATIONAL PHILANTHROPIC TRUST | $2.8M | 5 | 2019–2023 |

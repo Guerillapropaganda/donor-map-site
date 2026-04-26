@@ -1,7 +1,7 @@
 ---
 title: Aramark
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -13,6 +13,8 @@ net-assets: $1.2M
 tax-year: "2023"
 court-cases: 12414
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "no lda ID resolved for this profile — either resolve ID upstream then run `node scripts/ingest-lda-bulk.cjs`, or demote to draft (admits no LDA coverage)"
 court-jurisdictions:
   - Court of Appeals for the Tenth Circuit
   - District Court, D. New Jersey
@@ -104,7 +106,12 @@ employee-contributions: 3078
 employee-contributions-total: 143169
 employee-donor-count: 379
 politicians-funded: "[[National Rifle Association]], [[DCCC - Democratic Congressional Campaign Committee]], [[RNC - Republican National Committee]], [[ActBlue]], [[MoveOn.org Political Action]], [[JUSTICE DEMOCRATS PAC]], [[_Nancy Pelosi Master Profile]], [[NRCC - National Republican Congressional Committee]], [[DSCC - Democratic Senatorial Campaign Committee]], [[CHC BOLD PAC]], [[NRSC - National Republican Senatorial Committee]], [[Progressive Turnout Project]], [[MAGA Inc]], [[_Ted Cruz Master Profile]], [[Human Rights Campaign Equality Votes]], [[_Jon Ossoff Master Profile]], [[Mark Kelly]], [[_Christian D. Menefee Master Profile]], [[National Restaurant Association]], [[The Lincoln Project]], [[WinRed]], [[Hmp]], [[Emily's List]], [[Bob Casey]], [[WinSenate]], [[_Josh Hawley Master Profile]], [[National Victory Action Fund]], [[DNC - Democratic National Committee]], [[Chris Christie]], [[Jon Ossoff]], [[Christian D. Menefee]], [[Ted Cruz]], [[Nancy Pelosi]], [[Josh Hawley]], [[Justice Democrats PAC]], [[HMP]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -126,6 +133,19 @@ politicians-funded: "[[National Rifle Association]], [[DCCC - Democratic Congres
 **Ideological function:** `carceral-expansion`
 
 **Total political spend:** —
+
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Bob Casey | $6,300 |
+| Ted Cruz | $3,490 |
+| Nancy Pelosi | $2,867 |
+| Chris Christie | $2,700 |
+| Christian D. Menefee | $2,000 |
+| Jon Ossoff | $1,450 |
+| Josh Hawley | $331 |
+| Mark Kelly | $115 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

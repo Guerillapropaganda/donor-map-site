@@ -1,7 +1,7 @@
 ---
 title: Mike Johnson
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: Mike Johnson's speakership demonstrates how the donor class captures institutions through the least-expected candidates. A constitutional lawyer with 9 years at Alliance Defending Freedom (anti-LGBTQ litigation), a 0/100 Human Rights Campaign scor...
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -26,6 +26,8 @@ bills-cosponsored: 126
 website: https://mikejohnson.house.gov
 phone: 202-225-2777
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 source-types:
   - Congress
   - DOJ
@@ -38,7 +40,12 @@ related: "[[_Donald Trump Master Profile]] · [[Leonard Leo]] · [[Peter Thiel]]
 donors: "[[National Restaurant Association]] · [[Patrick Soon-Shiong]] · [[Western Growers Association]] · [[American Petroleum Institute]] · [[Fossil Fuel Bloc]] · [[American Iron and Steel Institute]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Peter Thiel]] · [[Raytheon (RTX Corporation)]] · [[National Cattlemen's Beef Association]] · [[Meta - Facebook]] · [[Williams Companies]] · [[Associated General Contractors of America Political Action Committee]] · [[FreedomWorks for America]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[GEO Group - Private Prison Industrial Complex]] · [[JIM JORDAN FOR CONGRESS]] · [[Tyson Foods]] · [[Senate Conservatives Fund]] · [[NRA Political Victory Fund]] · [[TEXANS FOR JODEY ARRINGTON]] · [[Koch Industries]] · [[American College of Radiology Association PAC]] · [[National Association of Manufacturers]] · [[Cargill]] · [[American Gaming Association]] · [[Gilead Sciences]] · [[Humana]] · [[AbbVie]] · [[Family Research Council Action Political Action Committee]] · [[Paul Ryan]] · [[Google - Alphabet]] · [[Jim Banks]] · [[Leidos]] · [[Club for Growth INC PAC]] · [[CVS Health - Aetna]] · [[Akin Gump Strauss Hauer & Feld]] · [[Steve Scalise]] · [[ADM - Archer Daniels Midland]] · [[McDonalds Corporation]] · [[Pfizer Inc.]] · [[American Dental PAC Education Fund]] · [[Jodey Arrington]] · [[Jim Jordan]]"
 bills-enacted: 0
 top-policy-area: Health
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -52,10 +59,24 @@ top-policy-area: Health
 
 **Party:** Republican · **Chamber:** House · **State:** Louisiana
 **Bioguide ID:** `J000299`
+**FEC candidate ID:** `H4FL07152`
 
 **Total received:** —
 
-*Top donors list present but amounts not yet quantified. See narrative sections for details.*
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Koch Industries | $50,500 |
+| National Cattlemen's Beef Association | $45,000 |
+| NRA Political Victory Fund | $31,750 |
+| AIPAC - American Israel Public Affairs Committee | $28,000 |
+| Associated General Contractors of America Political Action Committee | $24,000 |
+| Humana | $22,500 |
+| Google - Alphabet | $22,000 |
+| McDonalds Corporation | $18,500 |
+| CVS Health - Aetna | $18,500 |
+| American College of Radiology Association PAC | $15,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

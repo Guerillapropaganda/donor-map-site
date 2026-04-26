@@ -1,7 +1,7 @@
 ---
 title: Kaiser Permanente
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 2
 parent: null
@@ -37,7 +37,11 @@ sec-form-types:
   - N-MFP2
   - N-MFP3
 cross-vault-triangulation-count: 21
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
 epa-facilities: 113
 epa-states: CA, CO, NY, OH, VA, WA
@@ -45,6 +49,8 @@ employee-contributions: 55620
 employee-contributions-total: 4764316
 employee-donor-count: 6869
 ---
+
+
 
 
 
@@ -66,7 +72,20 @@ employee-donor-count: 6869
 
 **Total political spend:** —
 
-*No direct donor→politician dollar flows tracked for this entity. Money may route through controlled vehicles or 501(c)(4) shells. See narrative sections below for details.*
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Jon Ossoff | $68,607 |
+| Barbara Lee | $46,306 |
+| Mark Kelly | $34,686 |
+| Mike Levin | $27,655 |
+| Nancy Pelosi | $27,404 |
+| Alex Padilla | $25,195 |
+| Kamala Harris | $20,327 |
+| Tammy Baldwin | $16,052 |
+| Catherine Cortez Masto | $15,417 |
+| Dave Min | $14,350 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

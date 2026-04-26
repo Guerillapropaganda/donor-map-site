@@ -3,14 +3,14 @@ title: "DCCC - Democratic Congressional Campaign Committee funds 14 Agriculture/
 type: story-seed
 seed-type: committee-capture
 confidence: 4
-last-updated: '2026-04-24'
+last-updated: '2026-04-26'
 auto-generated: true
 status: unclaimed
 ---
 
 # DCCC - Democratic Congressional Campaign Committee funds 14 Agriculture/HELP committee members
 
-_Confidence: ★★★★☆ · Surfaced by contradiction-miner on 2026-04-24_
+_Confidence: ★★★★☆ · Surfaced by contradiction-miner on 2026-04-26_
 
 ## The angle
 

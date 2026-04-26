@@ -2,7 +2,7 @@
 title: Marjorie Taylor Greene
 type: politician
 bioguide-id: G000596
-content-readiness: ready
+content-readiness: draft
 central-thesis: MTG monetizes outrage , her donor model is built on small-dollar fundraising triggered by controversy, making her the right-wing mirror of the progressive fundraising model. But unlike AOC, whose controversies emerge from substantive policy challe...
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -25,10 +25,17 @@ related: "[[_Donald Trump Master Profile]] · [[_Matt Gaetz Master Profile|Matt 
 donors: "[[The Lincoln Project]] · [[THE LINCOLN PROJECT]] · [[GEORGIANS FOR STRONG FAMILIES, INC.]] · [[MAGA Small Dollar Base]] · [[A Great America PAC]] · [[DRAIN THE DC SWAMP PAC]] · [[Drain the DC Swamp PAC]] · [[Save America PAC]] · [[Let America Vote PAC]] · [[Jim Jordan]] · [[MAJORITY PAC]] · [[WinRed]] · [[VIEW PAC - Value in Electing Women]] · [[Ben Cline]] · [[Really American Pac]] · [[Everytown for Gun Safety Victory Fund]] · [[Southern States Police Benevolent Assoc PAC Fund]] · [[National Rifle Association]] · [[Votevets]] · [[Majority PAC]] · [[Georgians for Strong Families]] · [[JIM JORDAN FOR CONGRESS]] · [[FRIENDS OF MATT GAETZ]] · [[Koch Industries]] · [[NRA Political Victory Fund]] · [[Gun Owners of America]] · [[MARY MILLER FOR CONGRESS]] · [[BEN CLINE FOR CONGRESS, INC.]] · [[AUSTIN SCOTT FOR CONGRESS INC]] · [[Mary E. Miller]] · [[Matt Gaetz]]"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-20T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage)"
 total-raised: $24.2M
 career-total-source: FEC weball summary (cycles 2020, 2022, 2024)
 bills-sponsored: 35
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -49,16 +56,16 @@ bills-sponsored: 35
 
 | Donor | Amount |
 |---|---:|
-| Drain the DC Swamp PAC | $79,999 |
-| GEORGIANS FOR STRONG FAMILIES, INC. | $75,000 |
-| The Lincoln Project | $67,774 |
 | VIEW PAC - Value in Electing Women | $60,784 |
-| Really American Pac | $32,000 |
-| WinRed | $26,429 |
-| Votevets | $24,768 |
-| MAJORITY PAC | $20,000 |
-| Save America PAC | $5,000 |
-| Jim Jordan | $4,000 |
+| Jim Jordan | $6,000 |
+| Koch Industries | $5,000 |
+| Gun Owners of America | $5,000 |
+| National Rifle Association | $3,955 |
+| Matt Gaetz | $2,000 |
+| Mary E. Miller | $2,000 |
+| Ben Cline | $2,000 |
+| Austin Scott | $2,000 |
+| Southern States Police Benevolent Assoc PAC Fund | $2,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
@@ -110,6 +117,29 @@ bills-sponsored: 35
 
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 35 |
+| Enacted into law | 0 |
+| Top policy areas | Crime and Law Enforcement · Health · Government Operations and Politics |
+
+**Recent sponsored bills:**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-01-02 | HR.6937-119 | Immigration | End H-1B Now Act |
+| 2026-01-02 | HR.6936-119 | Government Operations and Politics | Making American Elections Great Again Act |
+| 2025-07-29 | HR.4798-119 | Government Operations and Politics | ___ Act |
+| 2025-07-15 | HR.4403-119 | Environmental Protection | Air Quality Act |
+| 2025-07-10 | HR.4327-119 | Taxation | To amend the Internal Revenue Code of 1986 to eliminate the dollar limitations on the excl |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: G000596` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
 
 #mtg #marjorie-taylor-greene #house #georgia #qanon #small-dollar #outrage-fundraising #conspiracy #trump-ally #doge #class-analysis #maga
 

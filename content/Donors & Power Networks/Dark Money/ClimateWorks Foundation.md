@@ -1,20 +1,28 @@
 ---
 title: "ClimateWorks Foundation"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18
 sector: "Dark Money"
 entity-type: "501(c)(3)"
 ein: "262303250"
 nonprofit-status: "501(c)(3)"
 source-tier: 1
-internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Climate-philanthropy pooled fund; regrants donor capital into climate policy advocacy and mitigation. Major recipient from Hewlett, Packard, Bloomberg philanthropies. Narrative pending Research Claude editorial pass."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Climate-philanthropy pooled fund; regrants donor capital into climate policy advocacy and mitigation. Major recipient from Hewlett, Packard, Bloomberg philanthropies. Narrative pending Research Claude editorial pass."
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
   - "No mapped relationships"
 last-enriched: 2026-04-21
+needs-reenrichment: true
+reenrich-reason: "no fec-committee-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 ---
+
+
 
 
 
@@ -57,9 +65,46 @@ last-enriched: 2026-04-21
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 7 (2018–2024)
 
-**Grants received (2018–2024):** $251.4M across 6 grantors (from other vault orgs' Schedule I records).
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $334.8M |
+| Total expenses | — |
+| Total assets (EOY) | $533.1M |
+| Grants paid out | $96.3M |
+
+**Lifetime grants out (2018–2024):** $422.5M across 377 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| UNITED STATES ENERGY FOUNDATION | $28.8M | 4 | 2020–2024 |
+| THE ENERGY FOUNDATION | $22.3M | 2 | 2023–2024 |
+| INTERNATIONAL SUSTAINABLE ENERGY FOUNDATION | $19.1M | 3 | 2022–2024 |
+| INTERNATIONAL COUNCIL ON CLEAN TRANSPORTATION | $17.8M | 6 | 2018–2024 |
+| NATURAL RESOURCES DEFENSE COUNCIL | $15.7M | 6 | 2018–2024 |
+| ENERGY FOUNDATION | $14.5M | 3 | 2018–2022 |
+| ROCKEFELLER PHILANTHROPY ADVISORS INC | $13.4M | 5 | 2019–2024 |
+| ROCKY MOUNTAIN INSTITUTE | $12.0M | 6 | 2018–2024 |
+| CERES INC | $9.1M | 6 | 2018–2024 |
+| ROCKEFELLER BROTHERS FUND INC | $8.7M | 4 | 2018–2023 |
+| THOUSAND CURRENTS | $8.5M | 2 | 2022–2024 |
+| WORLD RESOURCES INSTITUTE (WRI) | $8.5M | 2 | 2022–2023 |
+| SIERRA CLUB FOUNDATION | $8.4M | 4 | 2018–2024 |
+| CLIMATE ADVISERS INC | $7.4M | 3 | 2022–2024 |
+| ENVIRONMENTAL DEFENSE FUND INC | $7.0M | 6 | 2018–2024 |
+| THE NATURE CONSERVANCY INC | $6.4M | 5 | 2018–2024 |
+| RESOURCES LEGACY FUND | $6.0M | 1 | 2022 |
+| COAL SWARM DBA GLOBAL ENERGY MONITOR | $6.0M | 3 | 2022–2024 |
+| PARTNERSHIP PROJECT INC | $5.6M | 5 | 2019–2024 |
+| THE WORLD BANK | $5.4M | 3 | 2018–2020 |
+
+**Grants received (2018–2024):** $254.5M across 6 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -68,7 +113,7 @@ last-enriched: 2026-04-21
 | GOLDMAN SACHS PHILANTHROPY FUND | $163.0M | 3 | 2022–2024 |
 | NATIONAL PHILANTHROPIC TRUST | $32.3M | 4 | 2020–2023 |
 | SCHWAB CHARITABLE FUND | $28.0M | 7 | 2018–2024 |
-| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $17.2M | 6 | 2018–2023 |
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $20.2M | 7 | 2018–2023 |
 | Silicon Valley Community Foundation | $11.0M | 2 | 2022–2023 |
 | IMPACTASSETSINC | $10K | 1 | 2022 |
 

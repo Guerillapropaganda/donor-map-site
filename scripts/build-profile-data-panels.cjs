@@ -434,7 +434,10 @@ function main() {
     }
 
     // Parse frontmatter to pick up profile-specific overrides
-    // (total-received-note and custom-stats for outlier profiles like Trump).
+    // (total-received-note and custom-stats for outlier profiles like Trump)
+    // and to honor the `checklist-na` opt-out convention (same as
+    // pipeline-janitor.cjs + reclassify-readiness.cjs).
+    let skipReason = null
     try {
       const fmMatch = text.match(/^---\n([\s\S]*?)\n---\n/)
       if (fmMatch) {
@@ -442,9 +445,24 @@ function main() {
         const fm = yaml.load(fmMatch[1]) || {}
         entity.fm_total_received_note = fm["total-received-note"] || fm["career-total-note"] || null
         entity.fm_custom_stats = Array.isArray(fm["custom-stats"]) ? fm["custom-stats"] : null
+        // Opt-out: editor flagged this profile's data-panel as N/A. Common
+        // reasons: hand-tuned panel, profile is a story/essay rather than an
+        // entity profile, or the canonical store data is known to be wrong
+        // and shouldn't render until upstream fixes land.
+        const checklistNa = Array.isArray(fm["checklist-na"]) ? fm["checklist-na"] : []
+        const naSet = new Set(checklistNa.map(s => String(s).split(":")[0].trim()))
+        if (naSet.has("data-panel") || naSet.has("auto-data-panel")) {
+          skipReason = "checklist-na: data-panel"
+        }
       }
     } catch {
       // Silent fallback — panel still renders, just without frontmatter overrides
+    }
+
+    if (skipReason) {
+      stats.unchanged += 1
+      if (VERBOSE) console.log(`  · skip ${entity.id}  (${skipReason})`)
+      continue
     }
 
     const hadBlock = text.includes(BLOCK_START)

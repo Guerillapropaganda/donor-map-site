@@ -1,7 +1,7 @@
 ---
 title: Susquehanna International Group
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -46,7 +46,11 @@ fara-records: 2
 fara-countries:
   - DOMINICAN REPUBLIC
 cross-vault-triangulation-count: 7
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -56,6 +60,8 @@ employee-contributions: 474
 employee-contributions-total: 235984
 employee-donor-count: 92
 ---
+
+
 
 
 
@@ -76,7 +82,18 @@ employee-donor-count: 92
 
 **Total political spend:** $500
 
-*No direct donor→politician dollar flows tracked for this entity. Money may route through controlled vehicles or 501(c)(4) shells. See narrative sections below for details.*
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Jon Ossoff | $14,527 |
+| Chrissy Houlahan | $11,650 |
+| Victoria Spartz | $5,600 |
+| Bob Casey | $2,700 |
+| Ted Cruz | $1,180 |
+| Chris Pappas | $1,000 |
+| Josh Harder | $1,000 |
+| Mark Kelly | $800 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

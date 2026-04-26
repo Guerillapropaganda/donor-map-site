@@ -1,7 +1,7 @@
 ---
 title: "Fierce Government Relations"
 type: lobbying-firm
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-13
 source-tier: 1
 parent: null
@@ -25,7 +25,11 @@ fara-countries:
   - "QATAR"
   - "ROMANIA"
 cross-vault-triangulation-count: 19
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 checklist-na:
@@ -33,6 +37,8 @@ checklist-na:
   - "contracts: auto: entity type \"lobbying-firm\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
 ---
+
+
 
 
 

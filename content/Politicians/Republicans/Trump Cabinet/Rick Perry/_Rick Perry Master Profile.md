@@ -1,7 +1,7 @@
 ---
 title: Rick Perry
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Republican
@@ -14,9 +14,18 @@ source-types:
   - FEC
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage); no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage); no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)"
 corroboration-count: 2
 top-donors: "[[National Right to Life PAC]], [[The National Republican Trust PAC]], [[TX Friends of Time Warner Cable PAC]], [[SAN ANTONIO POLICE OFFICERS ASSOCIATION INC PAC FUND]], [[Texas Beverage Alliance of the TPSA]], [[TEXAS PODIATRIC MEDICAL ASSOCIATION PAC]], [[AT and T Political Action Committee Texas]], [[Association of Texas Professional Educators Legisl]], [[TABA Home-PAC]], [[GHA Healthcare Professionals for Quality Governmen]], [[HOUCONPAC]], [[GHA Healthcare Professionals For Quality Govt]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -30,8 +39,16 @@ top-donors: "[[National Right to Life PAC]], [[The National Republican Trust PAC
 <!-- tier: paid -->
 
 **Party:** Republican · **Chamber:** Secretary of Energy
+**FEC candidate ID:** `P20003281`
 
 **Total received:** —
+
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| The National Republican Trust PAC | $3,000 |
+| National Right to Life PAC | $1,010 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

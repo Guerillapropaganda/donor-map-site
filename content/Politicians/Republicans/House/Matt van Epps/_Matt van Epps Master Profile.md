@@ -1,7 +1,7 @@
 ---
 title: Matt van Epps
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Republican
@@ -24,6 +24,8 @@ known-gaps:
 urls-first-triaged: "2026-04-15"
 top-donors: "[[CoreCivic]], [[Amazon]], [[Koch Network - Charles Koch]], [[Tyson Foods]], [[CBRE Group]], [[Charles Schwab]], [[Walmart]], [[Humana]], [[Hospital Corporation of America - HCA]], [[MIKE KENNEDY FOR UTAH]], [[VINCE FONG FOR CONGRESS]], [[Freedom's Defense Fund]], [[Jimmy Patronis]], [[Steve Scalise]], [[Koch Industries]], [[Mark B. Messmer]], [[TEXANS FOR JODEY ARRINGTON]], [[BURCHETT FOR CONGRESS]], [[Brandon Gill]], [[DAVID ROUZER FOR CONGRESS]], [[Special Operations for America]], [[Tom Emmer]], [[Club for Growth]], [[BRIAN JACK FOR CONGRESS]], [[National Right to Life Victory Fund]], [[NATHANIEL MORAN FOR CONGRESS]], [[Brett Guthrie]], [[FEDORCHAK FOR ND]], [[DAVE TAYLOR FOR CONGRESS]], [[Club for Growth INC PAC]], [[CLIFF BENTZ FOR CONGRESS]], [[Mike Johnson]], [[MOORE FOR WEST VIRGINIA, INC.]], [[ROBERT ADERHOLT FOR CONGRESS]], [[AIPAC - American Israel Public Affairs Committee]], [[NRA Political Victory Fund]], [[David P. Joyce]], [[JIM JORDAN FOR CONGRESS]], [[Tracey Mann]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[Associated General Contractors of America Political Action Committee]], [[Scott Desjarlais]], [[Robert B. Aderholt]], [[David J. Taylor]], [[Vince Fong]], [[Tim Burchett]], [[Julie Fedorchak]], [[David Rouzer]], [[Jim Jordan]], [[Brian Jack]], [[Mike Kennedy]], [[Jodey Arrington]], [[Cliff Bentz]], [[Nathaniel Moran]]"
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 committees:
   - Counterterrorism and Intelligence
   - House Committee on Homeland Security
@@ -32,7 +34,12 @@ committees:
   - Transportation and Maritime Security
 bills-sponsored: 3
 corroboration-count: 2
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -47,6 +54,7 @@ corroboration-count: 2
 
 **Party:** Republican · **Chamber:** House · **State:** Tennessee
 **Bioguide ID:** `V000139`
+**FEC candidate ID:** `H6TN07161`
 
 **Total received:** —
 
@@ -54,15 +62,16 @@ corroboration-count: 2
 
 | Donor | Amount |
 |---|---:|
-| CoreCivic | $13,000 |
+| CoreCivic | $18,000 |
 | Charles Schwab | $10,500 |
-| Tyson Foods | $1,000 |
-| Hospital Corporation of America - HCA | $620 |
-| Koch Network - Charles Koch | $500 |
-| Amazon | $500 |
-| Humana | $500 |
-| CBRE Group | $250 |
-| Walmart | $219 |
+| Freedom's Defense Fund | $10,000 |
+| AIPAC - American Israel Public Affairs Committee | $8,500 |
+| Brandon Gill | $5,000 |
+| Tom Emmer | $4,000 |
+| Steve Scalise | $4,000 |
+| Robert B. Aderholt | $4,000 |
+| Mike Johnson | $4,000 |
+| Koch Industries | $3,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -1,7 +1,7 @@
 ---
 title: "Christians United for Israel"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-16
 source-tier: 1
 parent: null
@@ -22,7 +22,11 @@ sec-form-types:
   - "PRE 14A"
 related: "[[Israel - Government Lobbying Operation]] · [[AIPAC - American Israel Public Affairs Committee]] · [[DMFI - Democratic Majority for Israel]] · [[Haim Saban]] · [[JCRC Bay Area]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[J Street]] · [[American Friends of the Likud]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[United Arab Emirates - Influence Operation]] · [[Turkey - Erdogan Lobbying Operation]] · [[Saudi Arabia - Kingdom Investment]] · [[Mohammed bin Salman]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[California Charter Schools Association]] · [[Trump Donor Coalition]] · [[Entertainment and Hollywood Donors]] · [[Western Growers Association]] · [[California Farm Bureau Federation]] · [[Agricultural Labor Vulnerability Donors]]"
 cross-vault-triangulation-count: 5
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 checklist-na:
@@ -35,6 +39,8 @@ corroboration-count: 2
 known-gaps:
   - "No FEC contribution data"
 ---
+
+
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: Nina Turner
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: null
 parent: null
@@ -25,6 +25,8 @@ known-gaps:
   - No FEC candidate ID verified
   - No pipeline enrichment
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage); no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)"
 total-received: $7,693,038
 fec-candidate-id: H2OH11151
 top-donors: "[[Wfp Ie Committee]] · [[THE DEMOCRATIC ACTION PAC]] · [[The Democratic Action PAC]]"
@@ -32,7 +34,13 @@ donors: "[[The Democratic Action PAC]] · [[Wfp Ie Committee]] · [[THE DEMOCRAT
 urls-first-triaged: "2026-04-15"
 total-raised: $7.7M
 career-total-source: FEC weball summary (cycles 2012, 2020, 2022)
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -54,16 +62,16 @@ career-total-source: FEC weball summary (cycles 2012, 2020, 2022)
 
 | Donor | Amount |
 |---|---:|
-| DMFI - Democratic Majority for Israel | $1,525,261 |
-| THE DEMOCRATIC ACTION PAC | $710,500 |
-| Wfp Ie Committee | $257,830 |
-| United Democracy Project - UDP | $198,877 |
-| Congressional Progressive Caucus PAC | $109,000 |
-| MoveOn.org Political Action | $40,973 |
-| National Nurses United for Patient Protection | $25,000 |
 | Courage to Change PAC | $10,000 |
-| Medicare for All - The Policy That Broke the Party | $5,000 |
-| JUSTICE DEMOCRATS PAC | $5,000 |
+| Justice Democrats PAC | $5,000 |
+| SEIU COPE | $5,000 |
+| Tulsi Gabbard | $2,800 |
+| National Nurses United | $2,500 |
+| Ro Khanna | $2,000 |
+| Rashida Tlaib | $2,000 |
+| Alexandria Ocasio-Cortez | $1,994 |
+| Working Families Party PAC | $1,957 |
+| Jamie Raskin | $1,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

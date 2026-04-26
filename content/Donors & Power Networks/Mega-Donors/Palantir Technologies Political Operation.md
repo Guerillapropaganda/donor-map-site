@@ -1,7 +1,7 @@
 ---
 title: Palantir Technologies Political Operation
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18
 source-tier: 1
 parent: null
@@ -18,9 +18,15 @@ needs-reenrichment: true
 reenrich-reason: run lda pipeline
 related: "[[Palantir Technologies]] · [[Raytheon (RTX Corporation)]] · [[Northrop Grumman]] · [[Leidos]] · [[L3Harris Technologies]] · [[Boeing Defense]] · [[General Dynamics]] · [[Raytheon Technologies]] · [[Booz Allen Hamilton]] · [[Peter Thiel]] · [[Founders Fund]] · [[_Donald Trump Master Profile|Trump]] · [[Defense Industry Bloc]] · [[Koch Network - Charles Koch|Koch Network]] · [[Lockheed Martin]] · [[BAE Systems]] · [[Anduril Industries]] · [[Valero Energy]] · [[Occidental Petroleum]] · [[WSPA - Western States Petroleum Association]] · [[Southern Company]] · [[Instacart]] · [[Flex Association]] · [[Airbnb]] · [[Lyft]] · [[Uber]] · [[UnitedHealth Group - Optum]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Johnson & Johnson]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[Humana]] · [[Hospital Corporation of America - HCA]] · [[Civica Rx]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Blue Cross Blue Shield Association]] · [[Anthem - Elevance Health Political Operation]] · [[DoorDash]] · [[PG&E]] · [[PG&E - Pacific Gas and Electric]] · [[NextEra Energy]] · [[Marathon Petroleum]] · [[Koch Industries]] · [[Hawaiian Electric Company]] · [[Halliburton]] · [[Fossil Fuel Bloc]]"
 cross-vault-triangulation-count: 17
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
 ---
+
+
 
 
 

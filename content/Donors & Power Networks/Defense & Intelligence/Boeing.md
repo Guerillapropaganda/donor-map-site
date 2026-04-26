@@ -1,7 +1,7 @@
 ---
 title: Boeing
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -97,7 +97,11 @@ wikipedia-url: https://en.wikipedia.org/wiki/Boeing
 wikipedia-extract: The Boeing Company is an American multinational corporation that designs and manufactures airplanes, rotorcraft, rockets, satellites, and missiles worldwide.
 founded: "1916-07-15"
 cross-vault-triangulation-count: 22
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ftc-enforcement-actions: 3
 ftc-hsr-notices: 16
 federal-awards-total: 21646660464
@@ -111,6 +115,8 @@ employee-contributions: 54529
 employee-contributions-total: 4114523
 employee-donor-count: 6120
 ---
+
+
 
 
 
@@ -132,7 +138,20 @@ employee-donor-count: 6120
 
 **Total political spend:** —
 
-*No direct donor→politician dollar flows tracked for this entity. Money may route through controlled vehicles or 501(c)(4) shells. See narrative sections below for details.*
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Ted Cruz | $35,383 |
+| Jon Ossoff | $32,932 |
+| Mark Kelly | $26,257 |
+| Marco Rubio | $24,594 |
+| Tim Scott | $14,505 |
+| Elissa Slotkin | $13,600 |
+| Bob Casey | $12,790 |
+| Pete Sessions | $11,450 |
+| Tammy Baldwin | $10,783 |
+| Ann Wagner | $10,395 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

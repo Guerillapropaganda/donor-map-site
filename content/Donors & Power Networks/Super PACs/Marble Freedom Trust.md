@@ -1,7 +1,7 @@
 ---
 title: "Marble Freedom Trust"
 type: pac
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -16,7 +16,11 @@ needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 related: "[[Sentinel Action Fund]] · [[Judicial - Donors and Backers]] · [[The SCOTUS Capture - From Bork to Barrett]] · [[Leonard Leo]] · [[Federalist Society]] · [[Barre Seid]] · [[The 85 Fund]] · [[DonorsTrust]] · [[Dark Money Networks - The Shadow System]]"
 cross-vault-triangulation-count: 9
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 checklist-na:
@@ -28,6 +32,8 @@ known-gaps:
 total-political-spend: "$994.5M"
 spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2021, 2022, 2023, 2024, 2025"
 ---
+
+
 
 
 
@@ -173,29 +179,32 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-**Filings available:** 4 (2021–2024)
+**Filings available:** 7 (2021–2025)
 
-**Most recent filing (2024):**
+**Most recent filing (2025):**
 
 | Metric | Amount |
 |---|---:|
 | Total revenue | — |
-| Contribution revenue | $27.9M |
+| Contribution revenue | — |
 | Total expenses | — |
-| Total assets (EOY) | $992.1M |
-| Grants paid out | $189.2M |
+| Total assets (EOY) | $877.6M |
+| Grants paid out | $206.8M |
 
-**Lifetime grants out (2021–2024):** $817.3M across 5 recipients.
+**Lifetime grants out (2021–2025):** $1.39B across 8 recipients.
 
 **Top 20 recipients:**
 
 | Recipient | Total | Grants | Years |
 |---|---:|---:|---|
-| Schwab Charitable Fund | $447.6M | 4 | 2021–2024 |
-| The Concord Fund | $161.3M | 4 | 2021–2024 |
-| Rule of Law Trust | $153.0M | 1 | 2021 |
+| SCHWAB CHARITABLE FUND | $461.4M | 3 | 2022 |
+| Schwab Charitable Fund | $451.4M | 4 | 2021–2025 |
+| The Concord Fund | $165.9M | 4 | 2021–2025 |
+| Rule of Law Trust | $153.4M | 2 | 2021–2025 |
+| THE CONCORD FUND | $86.7M | 3 | 2022 |
 | Donors Trust Inc | $41.1M | 1 | 2021 |
-| Knights of Columbus Charitable Fund | $14.3M | 2 | 2023–2024 |
+| Knights of Columbus Charitable Fund | $14.8M | 3 | 2023–2025 |
+| Lexington Fund | $14.8M | 1 | 2025 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

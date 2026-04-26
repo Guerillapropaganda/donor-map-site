@@ -1,7 +1,7 @@
 ---
 title: Coinbase
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -38,7 +38,11 @@ federal-awards-total: 6978347
 federal-contracts-count: 3
 federal-grants-count: 0
 cross-vault-triangulation-count: 12
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 federal-contracts: 1
 total-raised: 124754
 total-spent: 167013
@@ -49,6 +53,8 @@ employee-contributions: 2148
 employee-contributions-total: 3479704
 employee-donor-count: 398
 ---
+
+
 
 
 
@@ -69,7 +75,20 @@ employee-donor-count: 398
 
 **Total political spend:** —
 
-*No direct donor→politician dollar flows tracked for this entity. Money may route through controlled vehicles or 501(c)(4) shells. See narrative sections below for details.*
+#### Top politicians funded
+
+| Politician | Amount |
+|---|---:|
+| Tim Scott | $79,070 |
+| Andy Barr | $28,000 |
+| Alex Padilla | $16,350 |
+| Angie Craig | $16,300 |
+| Darren Soto | $14,500 |
+| Bernie Moreno | $10,454 |
+| Claudia Tenney | $9,750 |
+| Steven Horsford | $7,500 |
+| Jason Smith | $7,000 |
+| Bill Hagerty | $7,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

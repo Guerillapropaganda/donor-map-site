@@ -1,7 +1,7 @@
 ---
 title: Luz M. Rivas
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 party: Democrat
@@ -23,6 +23,8 @@ known-gaps:
   - No mapped relationships
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
 committees:
   - Energy and Mineral Resources
   - House Committee on Natural Resources
@@ -33,7 +35,12 @@ committees:
 bills-sponsored: 8
 corroboration-count: 2
 top-donors: "[[LUZ RIVAS FOR CONGRESS]], [[National Nurses United]], [[PETE AGUILAR FOR CONGRESS]], [[Let America Vote PAC]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[Google - Alphabet]], [[Environment America INC]], [[MEDICARE FOR ALL]], [[Blue Shield of California]], [[BARRAGAN FOR CONGRESS]], [[Amgen Inc]], [[Cooperative of American Physicians Independent Expenditure Committee]], [[HUFFMAN FOR CONGRESS]], [[SHERMAN FOR CONGRESS]], [[KEVIN MULLIN FOR CONGRESS]], [[Johnny Olszewski]], [[TED LIEU FOR CONGRESS]], [[Pfizer Inc.]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[National Education Association]], [[Juan Vargas]], [[ROBERT GARCIA FOR CONGRESS]], [[League of Conservation Voters]], [[Brad Sherman]], [[Ted Lieu]], [[Kevin Mullin]], [[Jared Huffman]], [[Robert Garcia]], [[Hakeem Jeffries]], [[Nanette Diaz Barragan]], [[Pete Aguilar]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
 
 
 
@@ -50,6 +57,21 @@ top-donors: "[[LUZ RIVAS FOR CONGRESS]], [[National Nurses United]], [[PETE AGUI
 **Bioguide ID:** `R000620`
 
 **Total received:** —
+
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| International Association of Firefighters Interested in Registration and Education PAC | $12,500 |
+| AIPAC - American Israel Public Affairs Committee | $10,000 |
+| Blue Shield of California | $7,500 |
+| National Education Association | $6,000 |
+| League of Conservation Voters | $4,500 |
+| Google - Alphabet | $4,000 |
+| Ted Lieu | $4,000 |
+| Pete Aguilar | $4,000 |
+| Derek Tran | $4,000 |
+| George Whitesides | $4,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
