@@ -1,37 +1,40 @@
 /**
  * /api/connections — GET the current relationship graph
  *
- * As of Phase 3 Part 3 (2026-04-11), this route reads from the canonical
- * edge store at data/relationships.jsonl via ops/src/lib/relationships-store.ts
- * instead of walking content/ and parsing frontmatter. This unlocks the
- * ~7000 edges discovered by scripts/relationship-discovery.cjs that never
- * made it into profile frontmatter (most notably the 1,940 story-link edges
- * the scanner's wikilink-proximity strategies find — up from 17 in the
- * frontmatter-only migration).
+ * As of ADR-0024 cutover (2026-04-26): the GET handler is now backed
+ * by the librarian (lib/donor-map). Computed via
+ * ops/src/lib/donor-map-connections-build.ts → buildConnectionsViaLibrarian.
+ * The response shape is unchanged; what changed is the source of truth:
  *
- * The response shape is UNCHANGED. Downstream consumers — the 1,477-line
- * /relationships page, Quartz components, any ops dashboard widgets —
- * continue to receive Connection[] / ConnectedProfile[] / breakdown /
- * etc. with the legacy relationshipType enum ("related" | "donors" |
- * "opposes" | "stories"). This is done by:
+ *   - Profiles: only entities with `profile_path` in entities.jsonl
+ *     count as profiles (was: every md file walked from content/).
+ *     Drops index pages, story drafts, interactive pages, etc. — they
+ *     no longer appear as connection-graph nodes.
+ *   - Aliases: FEC committee names ("ANDY BARR FOR SENATE, INC.")
+ *     fold onto their candidate node ("Andy Barr") so duplicate
+ *     cache keys (KAMALA HARRIS / KAMALA HARRIS FOR SENATE) collapse.
+ *   - Edges: both endpoints must resolve to a librarian node, else
+ *     the edge is dropped. Story-link edges to Events/Drafts files
+ *     without entity records get filtered.
  *
- *   1. Loading edges via relationships-store.ts loadEdges()
- *   2. Mapping the Phase 3 type enum back to the legacy 4-value enum
- *      (monetary → donors, political-opposition → opposes, story-link
- *      → stories, related → related)
- *   3. Flipping monetary edge direction: JSONL stores
- *      {from: donor, to: politician, type: monetary}, but the legacy
- *      Connection shape has {source: politician, target: donor,
- *      relationshipType: "donors"} — it's "politician's view of its
- *      own donors" field. The flip preserves backward compatibility.
- *   4. Loading a quick profile metadata map (title → {path, type}) so
- *      sourcePath and sourceType can be populated from the endpoints.
- *      This is cheap — a single pass over content/.
+ * The headline impact on flagship profiles' connection counts (computed
+ * via the offline A/B diff scanner against the same canonical state):
+ *   Trump 878 → 615   AIPAC 334 → 157   Bernie 301 → 201
+ *   Riley M. Moore 41 → 99 (FEC committee folds in)
  *
- * Phase 3 Part 3b (future) will retarget POST/DELETE to upsert JSONL
- * directly. Until then, those handlers still write frontmatter, and the
- * attention-dispatcher's 4-hour relationship-discovery run syncs new
- * frontmatter into the JSONL store.
+ * Verification artifacts:
+ *   - ops/src/lib/donor-map-connections-shadow.ts — runtime diff harness
+ *   - scripts/donor-map-connections-shadow-scan.cjs --diff — offline A/B
+ *   - Trump ground-truth raw-edge count: cache=878=raw 878,
+ *     librarian=615=neighbors+rollup 615 (both mirrors verified faithful
+ *     before cutover).
+ *
+ * Escape hatch: DONOR_MAP_LEGACY_CONNECTIONS=1 reverts to the previous
+ * loadEdges()+content/-walk implementation. Kept for one session in case
+ * of unexpected downstream regressions; safe to remove next session.
+ *
+ * POST/DELETE handlers are unchanged — they still write through
+ * relationships-store.ts. See /api/relationships/route.ts.
  */
 import { NextResponse } from "next/server"
 import fs from "fs"
@@ -44,30 +47,16 @@ import {
   type RelationshipType,
 } from "@/lib/relationships-store"
 import { shadowConnectionsAndLog } from "@/lib/donor-map-connections-shadow"
+import {
+  buildConnectionsViaLibrarian,
+  type Connection as LibConnection,
+  type ConnectedProfile as LibConnectedProfile,
+} from "@/lib/donor-map-connections-build"
 
-// Legacy API shapes — kept identical to pre-Phase-3-Part-3 for
-// downstream compatibility.
-export interface Connection {
-  source: string
-  sourcePath: string
-  sourceType: string
-  target: string
-  relationshipType: "related" | "donors" | "opposes" | "stories"
-}
-
-export interface ConnectedProfile {
-  title: string
-  path: string
-  type: string
-  connectionCount: number
-  totalAmount: number
-  related: string[]
-  donors: string[]
-  opposes: string[]
-  stories: string[]
-  contracts: string[]
-  monetaryDetail: { name: string; amount: number; cycle: string }[]
-}
+// Re-export the legacy types under their original names so any external
+// consumer importing them from this route still resolves.
+export type Connection = LibConnection
+export type ConnectedProfile = LibConnectedProfile
 
 type LegacyType = "related" | "donors" | "opposes" | "stories" | "contracts"
 
@@ -76,6 +65,78 @@ function getRepoRoot(): string {
   if (fs.existsSync(path.join(fromOps, "content"))) return fromOps
   if (fs.existsSync(path.join(process.cwd(), "content"))) return process.cwd()
   throw new Error("Cannot find repo root")
+}
+
+// Cache for 2 minutes; cleared on invalidation from the relationships
+// POST/DELETE route.
+let cache: { data: unknown; timestamp: number } | null = null
+const CACHE_TTL = 120_000
+let lastInvalidation = 0
+
+export async function GET() {
+  // Check global invalidation flag set by /api/relationships POST/DELETE.
+  const inv =
+    ((globalThis as Record<string, unknown>).__connectionsInvalidated as number) || 0
+  if (inv > lastInvalidation) {
+    lastInvalidation = inv
+    cache = null
+    clearEdgesCache()
+  }
+
+  if (cache && Date.now() - cache.timestamp < CACHE_TTL) {
+    return NextResponse.json(cache.data)
+  }
+
+  try {
+    const repoRoot = getRepoRoot()
+
+    // Escape hatch: legacy implementation, only if explicitly opted in.
+    if (process.env.DONOR_MAP_LEGACY_CONNECTIONS === "1") {
+      const legacyResult = buildConnectionsLegacy(repoRoot)
+      cache = { data: legacyResult, timestamp: Date.now() }
+
+      // Run the shadow comparator against legacy responses too — useful
+      // for confirming both code paths still agree on whatever subset
+      // of canonical state currently exists.
+      if (process.env.DONOR_MAP_SHADOW_CONNECTIONS === "1") {
+        void shadowConnectionsAndLog({
+          topConnected: legacyResult.topConnected,
+          unconnected: legacyResult.unconnected,
+          unconnectedCount: legacyResult.unconnectedCount,
+          totalProfiles: legacyResult.totalProfiles,
+          breakdown: legacyResult.breakdown,
+          connections: legacyResult.connections,
+        })
+      }
+      return NextResponse.json(legacyResult)
+    }
+
+    // ─── Primary path (ADR-0024 librarian-backed) ───────────────────
+    const result = buildConnectionsViaLibrarian(repoRoot)
+    if (!result) {
+      return NextResponse.json({ error: "librarian unavailable" }, { status: 503 })
+    }
+    cache = { data: result, timestamp: Date.now() }
+    return NextResponse.json(result)
+  } catch (error: unknown) {
+    const msg = error instanceof Error ? error.message : "Unknown error"
+    return NextResponse.json({ error: msg }, { status: 500 })
+  }
+}
+
+// ─── Legacy implementation (escape hatch) ──────────────────────────────
+// Preserved verbatim from the pre-cutover route so a single env var
+// flips back. Will be removed next session if no regressions surface.
+
+interface LegacyResponse {
+  connections: LibConnection[]
+  topConnected: LibConnectedProfile[]
+  unconnected: LibConnectedProfile[]
+  unconnectedCount: number
+  recentConnections: LibConnection[]
+  breakdown: { related: number; donors: number; opposes: number; stories: number; total: number }
+  totalProfiles: number
+  source: string
 }
 
 function typeFromFolder(folder: string): string {
@@ -105,25 +166,27 @@ function findMdFiles(dir: string): string[] {
   return results
 }
 
-interface ProfileMetadata {
-  title: string
-  path: string
-  type: string
-  mtime: number
+function mapToLegacyType(t: RelationshipType | string): LegacyType | null {
+  switch (t as string) {
+    case "related": return "related"
+    case "monetary": return "donors"
+    case "political-opposition": return "opposes"
+    case "story-link": return "stories"
+    case "government-contract": return "contracts"
+    default: return null
+  }
 }
 
-/**
- * Build a title → ProfileMetadata map by walking content/. This is the
- * expensive part (~1,800 files parsed) but js-yaml is fast and the walk
- * takes under 2 seconds. We don't parse the body — just the frontmatter.
- */
-function buildProfileMetadataMap(repoRoot: string): {
-  byTitle: Map<string, ProfileMetadata>
-  files: { file: string; mtime: number }[]
-} {
+function flipForLegacy(edge: RelationshipEdge): { source: string; target: string } {
+  if ((edge.type as string) === "monetary") return { source: edge.to, target: edge.from }
+  return { source: edge.from, target: edge.to }
+}
+
+function buildConnectionsLegacy(repoRoot: string): LegacyResponse {
+  // Profile metadata walk
   const contentDir = path.join(repoRoot, "content")
   const files = findMdFiles(contentDir)
-  const byTitle = new Map<string, ProfileMetadata>()
+  const profileMeta = new Map<string, { title: string; path: string; type: string; mtime: number }>()
   const fileStats: { file: string; mtime: number }[] = []
 
   for (const file of files) {
@@ -132,268 +195,118 @@ function buildProfileMetadataMap(repoRoot: string): {
       const { data: fm } = matter(content)
       const relPath = path.relative(repoRoot, file).replace(/\\/g, "/")
       const folder = relPath.replace("content/", "").split("/")[0]
-      const rawTitle =
-        (typeof fm.title === "string" && fm.title) ||
-        path.basename(file, ".md")
-      // Normalize title: strip leading "_" and trailing " Master Profile"
-      const title = rawTitle
-        .replace(/^_/, "")
-        .replace(/\s+Master Profile\s*$/i, "")
-        .trim()
-      const type =
-        (typeof fm.type === "string" && fm.type) || typeFromFolder(folder)
+      const rawTitle = (typeof fm.title === "string" && fm.title) || path.basename(file, ".md")
+      const title = rawTitle.replace(/^_/, "").replace(/\s+Master Profile\s*$/i, "").trim()
+      const type = (typeof fm.type === "string" && fm.type) || typeFromFolder(folder)
       const mtime = fs.statSync(file).mtimeMs
-      byTitle.set(title, { title, path: relPath, type, mtime })
+      profileMeta.set(title, { title, path: relPath, type, mtime })
       fileStats.push({ file, mtime })
     } catch {
-      /* skip bad files */
+      /* skip */
     }
   }
 
-  return { byTitle, files: fileStats }
-}
-
-/**
- * Map a Phase 3 relationship type to the legacy Connection enum.
- * Returns null for types that have no legacy equivalent
- * (staffing, media-appearance, affiliation, legal, family) — these
- * are dropped from the legacy API response.
- */
-function mapToLegacyType(t: RelationshipType): LegacyType | null {
-  switch (t) {
-    case "related":
-      return "related"
-    case "monetary":
-      return "donors"
-    case "political-opposition":
-      return "opposes"
-    case "story-link":
-      return "stories"
-    case "government-contract":
-      return "contracts"
-    default:
-      return null
-  }
-}
-
-/**
- * Flip the edge's endpoints if the legacy enum expects the reverse
- * direction. In the canonical JSONL, a monetary edge is:
- *
- *   {from: "Koch Industries" (donor), to: "Ted Cruz" (politician),
- *    type: "monetary"}
- *
- * But the legacy Connection shape expresses the same relationship as:
- *
- *   {source: "Ted Cruz", target: "Koch Industries",
- *    relationshipType: "donors"}
- *
- * because the old API model was "politician's view of its donors: field".
- * Monetary is the only type that needs flipping — related, opposes, and
- * story-link are all profile → target in both JSONL and legacy views.
- */
-function flipForLegacy(edge: RelationshipEdge): { source: string; target: string } {
-  if (edge.type === "monetary") {
-    return { source: edge.to, target: edge.from }
-  }
-  return { source: edge.from, target: edge.to }
-}
-
-// Cache for 2 minutes; cleared on invalidation from the relationships
-// POST/DELETE route.
-let cache: { data: unknown; timestamp: number } | null = null
-const CACHE_TTL = 120_000
-let lastInvalidation = 0
-
-export async function GET() {
-  // Check global invalidation flag set by /api/relationships POST/DELETE.
-  const inv =
-    ((globalThis as Record<string, unknown>).__connectionsInvalidated as number) || 0
-  if (inv > lastInvalidation) {
-    lastInvalidation = inv
-    cache = null
-    clearEdgesCache()
+  const edges = loadEdges().filter((e) => e.status === "active")
+  const connections: LibConnection[] = []
+  const profileMap = new Map<string, LibConnectedProfile>()
+  for (const [title, meta] of profileMeta) {
+    profileMap.set(title, {
+      title, path: meta.path, type: meta.type,
+      connectionCount: 0, totalAmount: 0,
+      related: [], donors: [], opposes: [], stories: [], contracts: [],
+      monetaryDetail: [],
+    })
   }
 
-  if (cache && Date.now() - cache.timestamp < CACHE_TTL) {
-    return NextResponse.json(cache.data)
+  for (const edge of edges) {
+    const legacyType = mapToLegacyType(edge.type)
+    if (!legacyType) continue
+    const { source, target } = flipForLegacy(edge)
+    const sourceMeta = profileMeta.get(source)
+    if (!sourceMeta) continue
+
+    if (legacyType !== "contracts") {
+      connections.push({ source, sourcePath: sourceMeta.path, sourceType: sourceMeta.type, target, relationshipType: legacyType })
+    }
+    const profile = profileMap.get(source)
+    if (profile && !profile[legacyType].includes(target)) {
+      profile[legacyType].push(target)
+      profile.connectionCount++
+    }
+
+    const amt = typeof edge.amount === "number" ? edge.amount : 0
+    if (amt > 0 && ((edge.type as string) === "monetary" || (edge.type as string) === "government-contract")) {
+      const srcProfile = profileMap.get(source)
+      if (srcProfile) {
+        srcProfile.totalAmount += amt
+        srcProfile.monetaryDetail.push({ name: target, amount: amt, cycle: edge.cycle ?? "" })
+      }
+      const tgtProfile = profileMap.get(target)
+      if (tgtProfile) {
+        tgtProfile.totalAmount += amt
+        tgtProfile.monetaryDetail.push({ name: source, amount: amt, cycle: edge.cycle ?? "" })
+      }
+    }
+
+    if (legacyType === "stories" || legacyType === "opposes" || legacyType === "related") {
+      const targetProfile = profileMap.get(target)
+      if (targetProfile && !targetProfile[legacyType].includes(source)) {
+        targetProfile[legacyType].push(source)
+        targetProfile.connectionCount++
+      }
+    }
   }
 
-  try {
-    const repoRoot = getRepoRoot()
-    const { byTitle: profileMeta, files: fileStats } = buildProfileMetadataMap(repoRoot)
+  const allProfiles = Array.from(profileMap.values())
+  const connected = allProfiles.filter((p) => p.connectionCount > 0)
+  const unconnected = allProfiles.filter((p) => p.connectionCount === 0)
+  const topConnected = [...connected].sort((a, b) => b.connectionCount - a.connectionCount)
 
-    // Load all active edges from the canonical store.
-    const edges = loadEdges().filter((e) => e.status === "active")
-
-    // Build Connection[] and ConnectedProfile[]
-    const connections: Connection[] = []
-    const profileMap = new Map<string, ConnectedProfile>()
-
-    // Initialize profileMap with every profile so unconnected profiles
-    // get a zero-count entry.
-    for (const [title, meta] of profileMeta) {
-      profileMap.set(title, {
-        title,
-        path: meta.path,
-        type: meta.type,
-        connectionCount: 0,
-        totalAmount: 0,
-        related: [],
-        donors: [],
-        opposes: [],
-        stories: [],
-        contracts: [],
-        monetaryDetail: [],
-      })
-    }
-
-    for (const edge of edges) {
-      const legacyType = mapToLegacyType(edge.type)
-      if (!legacyType) continue // Skip types with no legacy equivalent
-
-      const { source, target } = flipForLegacy(edge)
-      const sourceMeta = profileMeta.get(source)
-      if (!sourceMeta) continue // Edge endpoint not in vault — skip
-
-      connections.push({
-        source,
-        sourcePath: sourceMeta.path,
-        sourceType: sourceMeta.type,
-        target,
-        relationshipType: legacyType,
-      })
-
-      // Aggregate into the source profile's bucket (dedup to prevent double-counting bidirectional edges)
-      const profile = profileMap.get(source)
-      if (profile && !profile[legacyType].includes(target)) {
-        profile[legacyType].push(target)
-        profile.connectionCount++
-      }
-
-      // Track monetary amounts
-      const amt = typeof edge.amount === "number" ? edge.amount : 0
-      if (amt > 0 && (edge.type === "monetary" || edge.type === "government-contract")) {
-        const srcProfile = profileMap.get(source)
-        if (srcProfile) {
-          srcProfile.totalAmount += amt
-          srcProfile.monetaryDetail.push({ name: target, amount: amt, cycle: edge.cycle ?? "" })
-        }
-        const tgtProfile = profileMap.get(target)
-        if (tgtProfile) {
-          tgtProfile.totalAmount += amt
-          tgtProfile.monetaryDetail.push({ name: source, amount: amt, cycle: edge.cycle ?? "" })
-        }
-      }
-
-      // Bidirectional edges: if A→B exists, B should also see A.
-      // - stories: target profile shows story that references it
-      // - opposes: if Trump opposes Newsom, Newsom also opposes Trump
-      // - related: symmetric by definition
-      // - donors: NOT symmetric (monetary direction matters, handled by flipForLegacy)
-      if (legacyType === "stories" || legacyType === "opposes" || legacyType === "related") {
-        const targetProfile = profileMap.get(target)
-        if (targetProfile && !targetProfile[legacyType].includes(source)) {
-          targetProfile[legacyType].push(source)
-          targetProfile.connectionCount++
-        }
+  const recentFiles = [...fileStats].sort((a, b) => b.mtime - a.mtime).slice(0, 30)
+  const recentConnections: LibConnection[] = []
+  const seenRecent = new Set<string>()
+  for (const { file } of recentFiles) {
+    const relPath = path.relative(repoRoot, file).replace(/\\/g, "/")
+    let matchedTitle: string | null = null
+    for (const [t, m] of profileMeta) { if (m.path === relPath) { matchedTitle = t; break } }
+    if (!matchedTitle) continue
+    const profile = profileMap.get(matchedTitle)
+    if (!profile || profile.connectionCount === 0) continue
+    const emitFor = (targets: string[], relType: LegacyType) => {
+      for (const t of targets) {
+        const key = `${matchedTitle}||${t}||${relType}`
+        if (seenRecent.has(key)) continue
+        seenRecent.add(key)
+        if (relType === "contracts") continue
+        recentConnections.push({
+          source: matchedTitle!, sourcePath: profile.path, sourceType: profile.type,
+          target: t, relationshipType: relType,
+        })
+        if (recentConnections.length >= 40) return
       }
     }
+    emitFor(profile.related, "related")
+    if (recentConnections.length >= 40) break
+    emitFor(profile.donors, "donors")
+    if (recentConnections.length >= 40) break
+    emitFor(profile.opposes, "opposes")
+    if (recentConnections.length >= 40) break
+  }
 
-    // Stats
-    const allProfiles = Array.from(profileMap.values())
-    const connected = allProfiles.filter((p) => p.connectionCount > 0)
-    const unconnected = allProfiles.filter((p) => p.connectionCount === 0)
-    const topConnected = [...connected].sort(
-      (a, b) => b.connectionCount - a.connectionCount,
-    )
+  const breakdown = {
+    related: connections.filter((c) => c.relationshipType === "related").length,
+    donors: connections.filter((c) => c.relationshipType === "donors").length,
+    opposes: connections.filter((c) => c.relationshipType === "opposes").length,
+    stories: connections.filter((c) => c.relationshipType === "stories").length,
+    total: connections.length,
+  }
 
-    // Recent connections: sort files by mtime, grab the top 30 most-
-    // recently-modified profiles, emit each of their Connection rows
-    // until we hit 40 connections.
-    const recentFiles = [...fileStats].sort((a, b) => b.mtime - a.mtime).slice(0, 30)
-    const recentConnections: Connection[] = []
-    const seenRecent = new Set<string>()
-
-    for (const { file } of recentFiles) {
-      // Reverse-lookup: find the profile whose path matches this file
-      const relPath = path.relative(repoRoot, file).replace(/\\/g, "/")
-      let matchedTitle: string | null = null
-      for (const [t, m] of profileMeta) {
-        if (m.path === relPath) {
-          matchedTitle = t
-          break
-        }
-      }
-      if (!matchedTitle) continue
-
-      const profile = profileMap.get(matchedTitle)
-      if (!profile || profile.connectionCount === 0) continue
-
-      // Emit connections for this profile (related + donors + opposes)
-      const emitFor = (targets: string[], relType: LegacyType) => {
-        for (const t of targets) {
-          const key = `${matchedTitle}||${t}||${relType}`
-          if (seenRecent.has(key)) continue
-          seenRecent.add(key)
-          recentConnections.push({
-            source: matchedTitle!,
-            sourcePath: profile.path,
-            sourceType: profile.type,
-            target: t,
-            relationshipType: relType,
-          })
-          if (recentConnections.length >= 40) return
-        }
-      }
-      emitFor(profile.related, "related")
-      if (recentConnections.length >= 40) break
-      emitFor(profile.donors, "donors")
-      if (recentConnections.length >= 40) break
-      emitFor(profile.opposes, "opposes")
-      if (recentConnections.length >= 40) break
-    }
-
-    const breakdown = {
-      related: connections.filter((c) => c.relationshipType === "related").length,
-      donors: connections.filter((c) => c.relationshipType === "donors").length,
-      opposes: connections.filter((c) => c.relationshipType === "opposes").length,
-      stories: connections.filter((c) => c.relationshipType === "stories").length,
-      total: connections.length,
-    }
-
-    const result = {
-      connections,
-      topConnected,
-      unconnected: unconnected.slice(0, 100),
-      unconnectedCount: unconnected.length,
-      recentConnections,
-      breakdown,
-      totalProfiles: allProfiles.length,
-      // Phase 3 Part 3 signature so consumers can tell which route
-      // version produced the response.
-      source: "phase3-part3-jsonl",
-    }
-
-    cache = { data: result, timestamp: Date.now() }
-
-    // ─── ADR-0024 shadow harness ────────────────────────────────────
-    // Fire-and-forget librarian-side diff. Never blocks the response.
-    // Toggle with DONOR_MAP_SHADOW_CONNECTIONS=1.
-    if (process.env.DONOR_MAP_SHADOW_CONNECTIONS === "1") {
-      void shadowConnectionsAndLog({
-        topConnected,
-        unconnected,
-        unconnectedCount: unconnected.length,
-        totalProfiles: allProfiles.length,
-        breakdown,
-        connections,
-      })
-    }
-
-    return NextResponse.json(result)
-  } catch (error: unknown) {
-    const msg = error instanceof Error ? error.message : "Unknown error"
-    return NextResponse.json({ error: msg }, { status: 500 })
+  return {
+    connections, topConnected,
+    unconnected: unconnected.slice(0, 100),
+    unconnectedCount: unconnected.length,
+    recentConnections, breakdown,
+    totalProfiles: allProfiles.length,
+    source: "phase3-part3-jsonl-legacy-fallback",
   }
 }
