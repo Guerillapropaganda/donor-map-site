@@ -47,39 +47,83 @@ export default function SignoffQueuePage() {
   const [typeFilter, setTypeFilter] = useState<string>("all")
   const [sortBy, setSortBy] = useState<"age" | "triangulation" | "title">("age")
   const [harness, setHarness] = useState<HarnessArtifact | null>(null)
+  const [vaultProfiles, setVaultProfiles] = useState<Profile[] | null>(null)
 
   useEffect(() => {
-    // KNOWN GAP (see content/Admin Notes/ops-harness-audit-2026-04-24.md):
-    // The queue below is sourced from the audit-a-plus-passed frontmatter
-    // stamp — which is exactly the anti-pattern the "Ops display rule" in
-    // CLAUDE.md warns against. Fixing it properly requires extending the
-    // harness to emit the per-profile pass list (or building a live
-    // /api/signoff-queue that recomputes on demand). The HarnessChip +
-    // aPlusFailingCount stat card below give a live trust signal in the
-    // meantime so a stale janitor doesn't silently mask a broken queue.
+    // Vault profiles supply per-profile metadata (chamber, state,
+    // triangulation, angle, etc.) used to render the queue table.
+    // We DON'T derive the pass-list from these — that comes live from
+    // the harness via setHarness(). See joinedQueue below.
     fetch("/api/vault")
       .then((r) => r.json())
       .then((data: { profiles: Profile[] }) => {
-        const items: QueueItem[] = data.profiles
-          .filter((p) => !!p.auditAPlusPassed && p.lastVerifiedBy !== "editorial")
-          .map((p) => ({
-            path: p.path,
-            title: p.title,
-            type: p.type,
-            chamber: p.chamber,
-            state: p.state,
-            stampedAt: p.auditAPlusPassed || "",
-            daysOld: daysSince(p.auditAPlusPassed),
-            triangulation: p.crossVaultTriangulationCount || 0,
-            hasAngle: !!p.angle && p.angle.trim().length > 10,
-            hasOriginalFinding: !!p.originalFinding,
-            lastUpdated: p.lastUpdated,
-          }))
-        setQueue(items)
+        setVaultProfiles(data.profiles)
         setLoading(false)
       })
       .catch(() => setLoading(false))
   }, [])
+
+  // Per ops-harness-audit follow-up #1: the queue's pass-list now comes
+  // LIVE from the harness's type-specific-a-plus check (data.passing),
+  // not from the audit-a-plus-passed frontmatter stamp. The stamp is
+  // written by a background script that may be paused; the harness
+  // re-computes from scratch every run and is the authoritative signal.
+  useEffect(() => {
+    if (!vaultProfiles || !harness) return
+    const aPlus = harness.checks.find((c) => c.name === "type-specific-a-plus") as
+      | (HarnessArtifact["checks"][number] & { data?: { passing?: { file: string; title: string; type: string }[] } })
+      | undefined
+    const passing = aPlus?.data?.passing
+    if (!Array.isArray(passing)) {
+      // Backwards-compat: if running against an older harness artifact
+      // that doesn't carry data.passing, fall back to the old stamp-based
+      // filter so the page is never empty mid-deploy.
+      const items: QueueItem[] = vaultProfiles
+        .filter((p) => !!p.auditAPlusPassed && p.lastVerifiedBy !== "editorial")
+        .map((p) => ({
+          path: p.path,
+          title: p.title,
+          type: p.type,
+          chamber: p.chamber,
+          state: p.state,
+          stampedAt: p.auditAPlusPassed || "",
+          daysOld: daysSince(p.auditAPlusPassed),
+          triangulation: p.crossVaultTriangulationCount || 0,
+          hasAngle: !!p.angle && p.angle.trim().length > 10,
+          hasOriginalFinding: !!p.originalFinding,
+          lastUpdated: p.lastUpdated,
+        }))
+      setQueue(items)
+      return
+    }
+
+    // Index harness pass-list by path for O(1) lookup.
+    const passingPaths = new Set<string>()
+    for (const p of passing) {
+      if (p.file) passingPaths.add(p.file.replace(/\\/g, "/"))
+    }
+
+    const items: QueueItem[] = vaultProfiles
+      .filter((p) => passingPaths.has((p.path || "").replace(/\\/g, "/")) && p.lastVerifiedBy !== "editorial")
+      .map((p) => ({
+        path: p.path,
+        title: p.title,
+        type: p.type,
+        chamber: p.chamber,
+        state: p.state,
+        // stampedAt now means "first passed in current harness run" —
+        // we don't have an authoritative first-pass timestamp without a
+        // separate ledger, so fall back to the stamp if present, else
+        // last-updated, so age sort still surfaces the oldest profiles.
+        stampedAt: p.auditAPlusPassed || p.lastUpdated || "",
+        daysOld: daysSince(p.auditAPlusPassed || p.lastUpdated),
+        triangulation: p.crossVaultTriangulationCount || 0,
+        hasAngle: !!p.angle && p.angle.trim().length > 10,
+        hasOriginalFinding: !!p.originalFinding,
+        lastUpdated: p.lastUpdated,
+      }))
+    setQueue(items)
+  }, [vaultProfiles, harness])
 
   const filtered = queue
     .filter((q) => typeFilter === "all" || q.type === typeFilter)

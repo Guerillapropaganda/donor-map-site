@@ -315,6 +315,11 @@ function parseTypeSpecificAPlus(stdout, _stderr, _exit) {
     return {
       findings_count: j.total_findings || 0,
       notes: `${j.scanned || 0} scanned, ${j.profiles_passed || 0} pass, ${j.profiles_failed || 0} fail. By type: ${byType}.`,
+      // Per ops-harness-audit-2026-04-24 follow-up #1. /signoff-queue
+      // reads `passing` to populate its per-profile table from the
+      // live harness instead of the audit-a-plus-passed frontmatter
+      // stamp (which lags or stops if the janitor is paused).
+      data: { passing: Array.isArray(j.passing) ? j.passing : [] },
     };
   } catch {
     return { findings_count: 0, notes: '(json parse failed)' };
@@ -546,7 +551,7 @@ function runCheck(check) {
     }
   })();
 
-  return {
+  const out = {
     name: check.name,
     description: check.description,
     cmd: check.cmd,
@@ -558,6 +563,11 @@ function runCheck(check) {
     stdout_tail: (result.stdout || '').split('\n').slice(-10).join('\n'),
     stderr_tail: (result.stderr || '').split('\n').slice(-5).join('\n'),
   };
+  // Per-check structured payload — parsers may return `data` to surface
+  // arrays/objects too large for stdout_tail. Used by /signoff-queue
+  // to read type-specific-a-plus's `passing` list (audit follow-up #1).
+  if (parsed.data && typeof parsed.data === 'object') out.data = parsed.data;
+  return out;
 }
 
 // ─── Main ──────────────────────────────────────────────────────────
