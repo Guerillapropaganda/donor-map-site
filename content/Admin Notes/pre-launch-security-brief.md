@@ -8,6 +8,7 @@ date-received: 2026-04-15
 disposition: filed-for-reference
 implementation-timeline: near-future
 do-not-act: "David handed this to current Claude as reference material. Current Claude should NOT implement any of these tasks. Another Claude session is implementing them. This file is for situational awareness only."
+note-kind: reference
 ---
 
 # Pre-Launch Security Brief

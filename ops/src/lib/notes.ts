@@ -1,11 +1,37 @@
 import matter from "gray-matter"
 
+// Kind classifies the SHAPE of a note (orthogonal to `type`, the domain).
+// UI behavior differs per kind:
+//   ticket    — hand-managed work, full open/in-progress/done buttons
+//   report    — auto-generated, status auto-flips via auto-resolve-when
+//   rollup    — auto-generated dashboard, read-only
+//   reference — static knowledge, no status workflow
+//   log       — dated snapshot, archived appearance
+export type NoteKind = "ticket" | "report" | "rollup" | "reference" | "log"
+
+export const NOTE_KIND_LABELS: Record<NoteKind, string> = {
+  ticket: "Tickets",
+  report: "Reports",
+  rollup: "Rollups",
+  reference: "Reference",
+  log: "Logs",
+}
+
+export const NOTE_KIND_DESCRIPTIONS: Record<NoteKind, string> = {
+  ticket: "Hand-managed work items. Click Working On It / Resolved to track.",
+  report: "Auto-generated reports. Status flips automatically when findings drop to zero.",
+  rollup: "Auto-generated dashboards. Read-only snapshots of underlying data.",
+  reference: "Static knowledge — playbooks, briefs, specs. No status workflow.",
+  log: "Dated snapshots — handoffs, briefings, session logs. Archive.",
+}
+
 export interface AdminNote {
   id: string
   title: string
   profile: string       // which profile this note is about
   profilePath: string   // vault path of the profile
   type: "code" | "research" | "data" | "style" | "question"
+  kind: NoteKind
   priority: "normal" | "urgent"
   status: "open" | "in-progress" | "done"
   text: string
@@ -13,6 +39,8 @@ export interface AdminNote {
   date: string
   resolvedDate?: string
   resolvedBy?: string
+  autoResolveWhen?: string
+  lastAutoResolved?: string
 }
 
 // Serialize a note to markdown with frontmatter
@@ -21,6 +49,7 @@ export function noteToMarkdown(note: AdminNote): string {
     title: note.title,
     type: "admin-note",
     "note-type": note.type,
+    "note-kind": note.kind || "ticket",
     priority: note.priority,
     status: note.status,
     profile: note.profile,
@@ -47,6 +76,7 @@ export function parseNote(path: string, content: string): AdminNote {
     profile: data.profile || "",
     profilePath: data["profile-path"] || "",
     type: data["note-type"] || "question",
+    kind: (data["note-kind"] as NoteKind) || "ticket",
     priority: data.priority || "normal",
     status: data.status || "open",
     text: body.trim(),
@@ -54,6 +84,8 @@ export function parseNote(path: string, content: string): AdminNote {
     date: data.date || "",
     resolvedDate: data["resolved-date"],
     resolvedBy: data["resolved-by"],
+    autoResolveWhen: data["auto-resolve-when"],
+    lastAutoResolved: data["last-auto-resolved"],
   }
 }
 

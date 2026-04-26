@@ -7,6 +7,7 @@ prompt-template: C
 source: Perplexity (via David)
 disposition: filed-for-reference
 applies-to: content/Policies/aipac_bds.md, ADR-0004 (Phase 2.75 AIPAC editorial firewall)
+note-kind: log
 ---
 
 # AIPAC Page — Defamation Precedent Research

@@ -6,6 +6,7 @@ priority: normal
 status: open
 editor-vouched: true
 last-updated: 2026-04-14
+note-kind: reference
 ---
 
 # AIPAC factual brief

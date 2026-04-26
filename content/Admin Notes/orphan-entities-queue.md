@@ -5,6 +5,7 @@ note-type: data
 status: open
 priority: normal
 last-updated: '2026-04-21'
+note-kind: ticket
 ---
 
 # Orphan Entities Queue

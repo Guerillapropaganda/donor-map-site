@@ -7,6 +7,7 @@ status: open
 lane: code
 last-updated: '2026-04-18'
 generated-by: hand
+note-kind: reference
 ---
 
 # Annual Financial Disclosures — Extending the Disclosures Pipeline

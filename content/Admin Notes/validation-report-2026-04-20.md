@@ -6,6 +6,7 @@ lane: code
 generated: 2026-04-20
 source-script: scripts/verify-committee-receipts.cjs
 tolerance: 10%
+note-kind: report
 ---
 
 # Validation Report — 2026-04-20

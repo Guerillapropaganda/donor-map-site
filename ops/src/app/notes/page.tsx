@@ -3,8 +3,14 @@
 import { useState, useEffect } from "react"
 import ReactMarkdown from "react-markdown"
 import remarkGfm from "remark-gfm"
-import type { AdminNote } from "@/lib/notes"
-import { NOTE_TYPE_COLORS, NOTE_TYPE_LABELS, STATUS_COLORS } from "@/lib/notes"
+import type { AdminNote, NoteKind } from "@/lib/notes"
+import {
+  NOTE_TYPE_COLORS,
+  NOTE_TYPE_LABELS,
+  STATUS_COLORS,
+  NOTE_KIND_LABELS,
+  NOTE_KIND_DESCRIPTIONS,
+} from "@/lib/notes"
 import type { Profile } from "@/lib/vault"
 import { typeColor, readinessColor } from "@/lib/vault"
 
@@ -45,6 +51,10 @@ export default function NotesPage() {
   const [loading, setLoading] = useState(true)
   const [filter, setFilter] = useState<"all" | "open" | "in-progress" | "done">("all")
   const [typeFilter, setTypeFilter] = useState<string>("all")
+  // Default to tickets — the actionable surface. Reports / rollups / references
+  // / logs each have their own tab so reference docs and dated snapshots
+  // don't dominate the day-to-day triage view.
+  const [kindFilter, setKindFilter] = useState<NoteKind>("ticket")
   const [showCreate, setShowCreate] = useState(false)
   const [expandedIds, setExpandedIds] = useState<Set<string>>(new Set())
 
@@ -84,11 +94,32 @@ export default function NotesPage() {
       .catch(() => {})
   }, [])
 
+  // Tickets default to "open only" so done items don't clutter the active
+  // worklist — flip via the status filter pills. Other kinds (reports,
+  // references, etc.) ignore status because their workflow doesn't apply.
   const filtered = notes.filter((n) => {
-    if (filter !== "all" && n.status !== filter) return false
-    if (typeFilter !== "all" && n.type !== typeFilter) return false
+    if (n.kind !== kindFilter) return false
+    if (kindFilter === "ticket") {
+      if (filter !== "all" && n.status !== filter) return false
+      if (typeFilter !== "all" && n.type !== typeFilter) return false
+    }
     return true
   })
+
+  const kindCounts: Record<NoteKind, number> = {
+    ticket: 0,
+    report: 0,
+    rollup: 0,
+    reference: 0,
+    log: 0,
+  }
+  for (const n of notes) kindCounts[n.kind] = (kindCounts[n.kind] || 0) + 1
+
+  // For the report kind, show how many are "live" (open/in-progress) vs
+  // auto-resolved-to-done. The healing signal David asked for: the
+  // count of open reports should drop as the harness fixes things.
+  const reportLive = notes.filter((n) => n.kind === "report" && n.status !== "done").length
+  const reportResolved = notes.filter((n) => n.kind === "report" && n.status === "done").length
 
   const searchResults = profileSearch.length >= 2
     ? profiles.filter((p) => p.title.toLowerCase().includes(profileSearch.toLowerCase())).slice(0, 8)
@@ -140,6 +171,20 @@ export default function NotesPage() {
           <h1 className="text-lg font-bold text-[var(--color-text)]">Notes & Queues</h1>
           <p className="text-[10px] text-[var(--color-text-dim)]">
             {counts.open} open / {counts["in-progress"]} in progress / {counts.done} done
+            {reportResolved > 0 && (
+              <>
+                {" · "}
+                <span className="text-[var(--color-green)]">
+                  {reportResolved} report{reportResolved === 1 ? "" : "s"} auto-healed
+                </span>
+                {reportLive > 0 && (
+                  <span className="text-[var(--color-text-dim)]">
+                    {" "}
+                    · {reportLive} still showing findings
+                  </span>
+                )}
+              </>
+            )}
           </p>
         </div>
         <div className="flex gap-2">
@@ -278,45 +323,81 @@ export default function NotesPage() {
         </div>
       )}
 
-      {/* Filters */}
-      <div className="flex flex-wrap gap-2 mb-4">
-        {(["all", "open", "in-progress", "done"] as const).map((s) => (
-          <button
-            key={s}
-            onClick={() => setFilter(s)}
-            className={`text-[9px] uppercase tracking-wider px-3 py-1.5 rounded-full border transition-all ${
-              filter === s
-                ? "border-[var(--color-steel)] text-[var(--color-steel)] bg-[var(--color-steel)]/10"
-                : "border-[var(--color-border)] text-[var(--color-text-dim)]"
-            }`}
-          >
-            {s === "all" ? `All (${notes.length})` : `${s} (${counts[s] || 0})`}
-          </button>
-        ))}
-
-        <div className="w-px bg-[var(--color-border)] mx-1" />
-
-        <button
-          onClick={() => setTypeFilter("all")}
-          className={`text-[9px] px-2.5 py-1.5 rounded-full border transition-all ${
-            typeFilter === "all" ? "border-[var(--color-steel)] text-[var(--color-steel)]" : "border-[var(--color-border)] text-[var(--color-text-dim)]"
-          }`}
-        >
-          All Types
-        </button>
-        {Object.entries(NOTE_TYPE_LABELS).map(([key, label]) => (
-          <button
-            key={key}
-            onClick={() => setTypeFilter(key)}
-            className={`text-[9px] px-2.5 py-1.5 rounded-full border transition-all ${
-              typeFilter === key ? "border-current bg-current/10" : "border-[var(--color-border)] text-[var(--color-text-dim)]"
-            }`}
-            style={{ color: typeFilter === key ? NOTE_TYPE_COLORS[key] : undefined }}
-          >
-            {label}
-          </button>
-        ))}
+      {/* Primary kind tabs — separates actionable tickets from auto-generated
+          reports/rollups, static reference docs, and dated logs. Each tab
+          has its own UI behavior (see per-note rendering below). */}
+      <div className="flex flex-wrap gap-1 mb-2 border-b border-[var(--color-border)]">
+        {(["ticket", "report", "rollup", "reference", "log"] as const).map((k) => {
+          const active = kindFilter === k
+          return (
+            <button
+              key={k}
+              onClick={() => setKindFilter(k)}
+              title={NOTE_KIND_DESCRIPTIONS[k]}
+              className={`text-[10px] uppercase tracking-wider px-3 py-2 border-b-2 -mb-px transition-all ${
+                active
+                  ? "border-[var(--color-steel)] text-[var(--color-steel)]"
+                  : "border-transparent text-[var(--color-text-dim)] hover:text-[var(--color-text)]"
+              }`}
+            >
+              {NOTE_KIND_LABELS[k]} ({kindCounts[k]})
+            </button>
+          )
+        })}
       </div>
+
+      <p className="text-[10px] text-[var(--color-text-dim)] mb-4 italic">
+        {NOTE_KIND_DESCRIPTIONS[kindFilter]}
+      </p>
+
+      {/* Secondary filters — only relevant for tickets (the only kind with a
+          status workflow + per-domain typing). Reports/rollups have their
+          status auto-managed; references/logs don't track status at all. */}
+      {kindFilter === "ticket" && (
+        <div className="flex flex-wrap gap-2 mb-4">
+          {(["all", "open", "in-progress", "done"] as const).map((s) => {
+            const inKind = notes.filter(
+              (n) => n.kind === "ticket" && (s === "all" || n.status === s),
+            ).length
+            return (
+              <button
+                key={s}
+                onClick={() => setFilter(s)}
+                className={`text-[9px] uppercase tracking-wider px-3 py-1.5 rounded-full border transition-all ${
+                  filter === s
+                    ? "border-[var(--color-steel)] text-[var(--color-steel)] bg-[var(--color-steel)]/10"
+                    : "border-[var(--color-border)] text-[var(--color-text-dim)]"
+                }`}
+              >
+                {s === "all" ? `All (${inKind})` : `${s} (${inKind})`}
+              </button>
+            )
+          })}
+
+          <div className="w-px bg-[var(--color-border)] mx-1" />
+
+          <button
+            onClick={() => setTypeFilter("all")}
+            className={`text-[9px] px-2.5 py-1.5 rounded-full border transition-all ${
+              typeFilter === "all" ? "border-[var(--color-steel)] text-[var(--color-steel)]" : "border-[var(--color-border)] text-[var(--color-text-dim)]"
+            }`}
+          >
+            All Types
+          </button>
+          {Object.entries(NOTE_TYPE_LABELS).map(([key, label]) => (
+            <button
+              key={key}
+              onClick={() => setTypeFilter(key)}
+              className={`text-[9px] px-2.5 py-1.5 rounded-full border transition-all ${
+                typeFilter === key ? "border-current bg-current/10" : "border-[var(--color-border)] text-[var(--color-text-dim)]"
+              }`}
+              style={{ color: typeFilter === key ? NOTE_TYPE_COLORS[key] : undefined }}
+            >
+              {label}
+            </button>
+          ))}
+        </div>
+      )}
 
       {/* Notes list */}
       {loading ? (
@@ -336,35 +417,43 @@ export default function NotesPage() {
                 note.priority === "urgent" && note.status === "open"
                   ? "border-[var(--color-red)]/40"
                   : "border-[var(--color-border)]"
-              }`}
+              } ${note.kind === "log" ? "opacity-70" : ""}`}
             >
               <div className="flex items-start gap-3">
-                {/* Status + type badges */}
-                <div className="flex flex-col gap-1 flex-shrink-0 pt-0.5">
-                  <span
-                    className="text-[7px] uppercase tracking-wider px-1.5 py-0.5 rounded text-center"
-                    style={{
-                      color: STATUS_COLORS[note.status],
-                      backgroundColor: `${STATUS_COLORS[note.status]}15`,
-                    }}
-                  >
-                    {note.status}
-                  </span>
-                  <span
-                    className="text-[7px] uppercase tracking-wider px-1.5 py-0.5 rounded text-center"
-                    style={{
-                      color: NOTE_TYPE_COLORS[note.type],
-                      backgroundColor: `${NOTE_TYPE_COLORS[note.type]}15`,
-                    }}
-                  >
-                    {note.type}
-                  </span>
-                  {note.priority === "urgent" && (
-                    <span className="text-[7px] uppercase tracking-wider px-1.5 py-0.5 rounded text-center bg-[var(--color-red)]/15 text-[var(--color-red)]">
-                      urgent
+                {/* Status + type badges. Reference and log notes don't have a
+                    status workflow so the badge column is hidden for them. */}
+                {note.kind !== "reference" && note.kind !== "log" && (
+                  <div className="flex flex-col gap-1 flex-shrink-0 pt-0.5">
+                    <span
+                      className="text-[7px] uppercase tracking-wider px-1.5 py-0.5 rounded text-center"
+                      style={{
+                        color: STATUS_COLORS[note.status],
+                        backgroundColor: `${STATUS_COLORS[note.status]}15`,
+                      }}
+                      title={
+                        note.kind === "report" || note.kind === "rollup"
+                          ? "Status auto-managed by the harness"
+                          : undefined
+                      }
+                    >
+                      {note.status}
                     </span>
-                  )}
-                </div>
+                    <span
+                      className="text-[7px] uppercase tracking-wider px-1.5 py-0.5 rounded text-center"
+                      style={{
+                        color: NOTE_TYPE_COLORS[note.type],
+                        backgroundColor: `${NOTE_TYPE_COLORS[note.type]}15`,
+                      }}
+                    >
+                      {note.type}
+                    </span>
+                    {note.priority === "urgent" && (
+                      <span className="text-[7px] uppercase tracking-wider px-1.5 py-0.5 rounded text-center bg-[var(--color-red)]/15 text-[var(--color-red)]">
+                        urgent
+                      </span>
+                    )}
+                  </div>
+                )}
 
                 {/* Content */}
                 <div className="flex-1 min-w-0">
@@ -388,34 +477,57 @@ export default function NotesPage() {
                   </div>
                 </div>
 
-                {/* Actions */}
-                <div className="flex gap-1 flex-shrink-0">
-                  {note.status === "open" && (
-                    <button
-                      onClick={() => updateStatus(note.id, "in-progress")}
-                      className="text-[8px] px-2 py-1 rounded border border-[var(--color-amber)]/30 text-[var(--color-amber)] hover:bg-[var(--color-amber)]/10 transition-colors"
-                      title="Mark as being worked on by Claude"
-                    >
-                      Working On It
-                    </button>
+                {/* Actions — only tickets get manual status controls. Reports
+                    and rollups are auto-managed by the harness; references
+                    and logs don't track status. */}
+                <div className="flex flex-col items-end gap-1 flex-shrink-0">
+                  {note.kind === "ticket" && (
+                    <div className="flex gap-1">
+                      {note.status === "open" && (
+                        <button
+                          onClick={() => updateStatus(note.id, "in-progress")}
+                          className="text-[8px] px-2 py-1 rounded border border-[var(--color-amber)]/30 text-[var(--color-amber)] hover:bg-[var(--color-amber)]/10 transition-colors"
+                          title="Mark as being worked on by Claude"
+                        >
+                          Working On It
+                        </button>
+                      )}
+                      {(note.status === "open" || note.status === "in-progress") && (
+                        <button
+                          onClick={() => updateStatus(note.id, "done")}
+                          className="text-[8px] px-2 py-1 rounded border border-[var(--color-green)]/30 text-[var(--color-green)] hover:bg-[var(--color-green)]/10 transition-colors"
+                          title="Mark as resolved — issue is fixed"
+                        >
+                          Resolved
+                        </button>
+                      )}
+                      {note.status === "done" && (
+                        <button
+                          onClick={() => updateStatus(note.id, "open")}
+                          className="text-[8px] px-2 py-1 rounded border border-[var(--color-border)] text-[var(--color-text-dim)] hover:bg-[var(--color-bg-hover)] transition-colors"
+                          title="Reopen — issue not actually fixed"
+                        >
+                          Reopen
+                        </button>
+                      )}
+                    </div>
                   )}
-                  {(note.status === "open" || note.status === "in-progress") && (
-                    <button
-                      onClick={() => updateStatus(note.id, "done")}
-                      className="text-[8px] px-2 py-1 rounded border border-[var(--color-green)]/30 text-[var(--color-green)] hover:bg-[var(--color-green)]/10 transition-colors"
-                      title="Mark as resolved — issue is fixed"
+                  {(note.kind === "report" || note.kind === "rollup") && (
+                    <span
+                      className="text-[8px] uppercase tracking-wider px-2 py-1 rounded border border-[var(--color-steel)]/30 text-[var(--color-steel)]"
+                      title={
+                        note.autoResolveWhen
+                          ? `Auto-resolves when body matches: ${note.autoResolveWhen}`
+                          : "Auto-managed by the harness"
+                      }
                     >
-                      Resolved
-                    </button>
+                      ⚙ auto-managed
+                    </span>
                   )}
-                  {note.status === "done" && (
-                    <button
-                      onClick={() => updateStatus(note.id, "open")}
-                      className="text-[8px] px-2 py-1 rounded border border-[var(--color-border)] text-[var(--color-text-dim)] hover:bg-[var(--color-bg-hover)] transition-colors"
-                      title="Reopen — issue not actually fixed"
-                    >
-                      Reopen
-                    </button>
+                  {note.lastAutoResolved && (
+                    <span className="text-[8px] text-[var(--color-text-dim)]" title={note.lastAutoResolved}>
+                      auto-flipped {note.lastAutoResolved.slice(0, 10)}
+                    </span>
                   )}
                 </div>
               </div>

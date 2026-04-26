@@ -6,6 +6,7 @@ status: open
 priority: high
 lane: code
 created: 2026-04-25
+note-kind: log
 ---
 
 # Data Quality Follow-Ups

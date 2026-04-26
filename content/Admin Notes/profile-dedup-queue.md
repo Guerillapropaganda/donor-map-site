@@ -6,6 +6,7 @@ priority: normal
 status: open
 last-updated: '2026-04-15'
 progress: "4 of 6 groups drained (GEO Group, Raytheon, Meta, Blackstone). Remaining 2 need new profiles (Research Claude lane): Fox Corp - Rupert Murdoch, EMILY's List."
+note-kind: ticket
 ---
 
 # Profile Dedup Queue

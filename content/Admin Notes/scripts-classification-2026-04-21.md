@@ -4,6 +4,7 @@ type: admin-note
 status: open
 lane: code
 date: 2026-04-21
+note-kind: log
 ---
 
 # Scripts classification — 192 files surveyed

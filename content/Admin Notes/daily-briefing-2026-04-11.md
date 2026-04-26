@@ -6,6 +6,7 @@ priority: normal
 status: open
 last-updated: '2026-04-11'
 generated-by: scripts/morning-briefing.cjs
+note-kind: log
 ---
 
 # Morning Briefing, 2026-04-11

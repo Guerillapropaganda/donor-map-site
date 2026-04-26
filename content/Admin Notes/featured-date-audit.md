@@ -4,6 +4,7 @@ type: admin-note
 note-type: data
 last-updated: '2026-04-11'
 generated-by: scripts/featured-date-enforcer.cjs
+note-kind: report
 ---
 
 # Featured-date audit

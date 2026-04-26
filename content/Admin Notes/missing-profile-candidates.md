@@ -3,6 +3,7 @@ title: "Missing Profile Candidates (IRS 990 Top Recipients)"
 status: reference
 last-updated: 2026-04-19
 generated-by: scripts/discover-990-gaps.cjs
+note-kind: ticket
 ---
 
 # Missing Profile Candidates

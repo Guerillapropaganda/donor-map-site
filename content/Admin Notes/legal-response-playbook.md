@@ -5,6 +5,7 @@ note-type: code
 priority: normal
 status: open
 last-updated: '2026-04-15'
+note-kind: reference
 ---
 
 # Legal Response Playbook

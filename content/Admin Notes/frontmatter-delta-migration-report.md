@@ -5,6 +5,7 @@ note-type: data
 status: open
 last-updated: 2026-04-15
 generator: scripts/migrate-frontmatter-delta.cjs
+note-kind: report
 ---
 
 # Frontmatter Delta Migration Report

@@ -6,6 +6,7 @@ priority: urgent
 status: open
 last-updated: '2026-04-11'
 generated-by: scripts/sign-off-reminder.cjs
+note-kind: log
 ---
 
 # 🚨 Sign-off queue needs attention

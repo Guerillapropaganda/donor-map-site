@@ -8,6 +8,7 @@ resolved-by: Code Claude
 resolved-date: 2026-04-12
 created: '2026-04-09'
 created-by: Research Claude
+note-kind: ticket
 ---
 
 # Readiness State Conflicts

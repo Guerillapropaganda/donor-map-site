@@ -6,6 +6,7 @@ priority: normal
 status: open
 last-updated: '2026-04-16'
 generated-by: scripts/security/source-corroboration-audit.cjs
+note-kind: report
 ---
 
 # Source Corroboration Audit

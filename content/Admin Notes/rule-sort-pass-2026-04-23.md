@@ -16,6 +16,7 @@ context: |
   For each rule: I propose a bucket + action. David reviews, approves/amends, then we execute per bucket.
 
   Sources of enforcement truth: `.husky/pre-commit` (the 13 listed sentinels), Phase 6 regression tests, query-engine contract, auth-smoke tests, build transformers.
+note-kind: log
 ---
 
 # Rule-Sort Pass — 2026-04-23

@@ -7,6 +7,7 @@ closed-reason: All listed open work shipped 2026-04-25 (cc_p3_77..85 + tonight's
 lane: code
 created: 2026-04-25
 last-updated: 2026-04-25
+note-kind: reference
 ---
 
 ## Final state (2026-04-25 evening)

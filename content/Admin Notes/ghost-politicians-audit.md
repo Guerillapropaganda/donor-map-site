@@ -2,6 +2,7 @@
 title: Ghost Politicians Audit
 generated: 2026-04-25T21:19:35.895Z
 source-script: scripts/audit-ghost-politicians.cjs
+note-kind: report
 ---
 
 # Ghost Politicians Audit — 2026-04-25

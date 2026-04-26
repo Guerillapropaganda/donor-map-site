@@ -5,6 +5,7 @@ note-type: data
 status: open
 last-updated: 2026-04-15
 generator: scripts/class-tag-priority-queue.cjs
+note-kind: ticket
 ---
 
 # Class Tag Priority Queue

@@ -2,6 +2,7 @@
 title: Donor Ghost Stubs Audit
 generated: 2026-04-25T21:37:23.263Z
 source-script: scripts/audit-donor-ghost-stubs.cjs
+note-kind: report
 ---
 
 # Donor Ghost Stubs Audit — 2026-04-25

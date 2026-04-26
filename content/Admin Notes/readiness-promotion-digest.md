@@ -5,6 +5,7 @@ note-type: code
 status: open
 last-updated: 2026-04-15
 generator: scripts/readiness-promotion-digest.cjs
+note-kind: rollup
 ---
 
 # Readiness Promotion Digest

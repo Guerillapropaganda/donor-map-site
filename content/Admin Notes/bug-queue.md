@@ -4,6 +4,7 @@ type: admin-note
 note-type: bug
 status: active
 last-updated: 2026-04-15
+note-kind: ticket
 ---
 
 # Bug Queue

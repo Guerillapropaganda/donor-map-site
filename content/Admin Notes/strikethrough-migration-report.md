@@ -5,6 +5,7 @@ note-type: data
 status: open
 last-updated: 2026-04-15
 generator: scripts/migrate-strikethrough-sources-to-archived.cjs
+note-kind: report
 ---
 
 # Strikethrough Source Migration Report

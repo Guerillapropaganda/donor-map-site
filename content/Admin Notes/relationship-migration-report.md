@@ -5,6 +5,7 @@ note-type: data
 priority: normal
 status: open
 last-updated: 2026-04-11
+note-kind: report
 ---
 
 # Relationship Migration Report

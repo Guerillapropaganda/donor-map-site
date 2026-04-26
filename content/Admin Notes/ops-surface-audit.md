@@ -5,6 +5,7 @@ note-type: data
 status: active
 last-updated: 2026-04-15
 generator: scripts/ops-surface-audit.cjs
+note-kind: report
 ---
 
 # Ops Surface Audit

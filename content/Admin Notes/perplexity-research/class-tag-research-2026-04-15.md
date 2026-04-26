@@ -6,6 +6,7 @@ priority: normal
 status: open
 last-updated: '2026-04-15'
 generated-by: scripts/tmp-export-class-tag-research-batch.cjs
+note-kind: log
 ---
 
 # Class-tag research batch — 2026-04-15

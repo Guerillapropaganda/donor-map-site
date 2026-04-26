@@ -8,6 +8,7 @@ last-updated: '2026-04-10'
 spec-owner: research-claude
 build-owner: code-claude
 target-completion: 2026-04-10 # Phase 1 Day 1
+note-kind: reference
 ---
 
 # Ops Calendar Tab. Build Spec
