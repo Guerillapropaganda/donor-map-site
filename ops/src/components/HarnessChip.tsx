@@ -116,8 +116,17 @@ export default function HarnessChip({ onLoad, autoRerun = true }: Props) {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
 
+  // "Crashed" means the check couldn't run at all (process error, hung,
+  // never returned an exit code). A non-zero exit code is NOT a crash —
+  // many checks intentionally exit 1 to signal "found findings" (lint
+  // convention). Defer to the harness's own classification when present
+  // so this chip and `summary.checks_errored` always agree; fall back to
+  // the same predicate vault-audit.cjs uses internally.
   const crashed = artifact
-    ? artifact.checks.filter((c) => c.exit !== 0 || c.timed_out).length
+    ? artifact.summary?.checks_errored ??
+      artifact.checks.filter(
+        (c) => !!c.error || c.exit === null || c.timed_out,
+      ).length
     : 0
   const stale = artifact && artifact.age_minutes > STALE_MINUTES && !running
   const isError = !!error || (artifact && !!artifact.error)
