@@ -1,6 +1,7 @@
 "use client"
 
 import { useState, useEffect, useMemo, useCallback, useRef } from "react"
+import { PageHeader } from "@/components/PageHeader"
 
 type CryptoTier = 'direct' | 'etf' | 'company' | 'adjacent'
 
@@ -277,15 +278,20 @@ export default function CapitolTradesPage() {
 
   return (
     <div className="max-w-[1400px]">
-      {/* Header */}
-      <div className="flex items-center justify-between mb-6">
-        <div>
-          <h1 className="text-lg font-bold text-[var(--color-text)] font-mono">Capitol Trades</h1>
-          <p className="text-[10px] text-[var(--color-text-dim)] font-mono mt-1">
-            Congressional stock trades from STOCK Act disclosures
-          </p>
-        </div>
-      </div>
+      <PageHeader
+        title="Capitol Trades"
+        whatThisDoes="Politicians' stock-trade disclosures from STOCK Act PTRs (Periodic Transaction Reports). Cross-references trades with committee jurisdiction (committee-conflicts), crypto holdings (crypto-conflicts), unusual activity, and lobby spend (lobby-trades). Politician names normalized via the librarian's canonical resolver."
+        rightNow={stats ? (
+          <>
+            <strong>{stats.totalTrades.toLocaleString()}</strong> trades indexed
+            {" · "}
+            <strong>{stats.uniquePoliticians.toLocaleString()}</strong> politicians
+            {" · "}
+            <strong>${(stats.totalVolume / 1_000_000).toFixed(1)}M</strong> total volume
+          </>
+        ) : "loading…"}
+        action="Filter chips below pivot the table by chamber / party / late-disclosure / whale trade. Click a politician name to drill into their trade history; click a ticker to see all politicians who traded it."
+      />
 
       {/* Stats cards */}
       {stats && (

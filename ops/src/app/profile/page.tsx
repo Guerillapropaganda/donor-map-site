@@ -1,6 +1,7 @@
 "use client"
 
 import React, { useState, useEffect } from "react"
+import { PageHeader } from "@/components/PageHeader"
 import { useSearchParams, useRouter } from "next/navigation"
 import Link from "next/link"
 import { readinessColor, typeColor, type Profile } from "@/lib/vault"
@@ -412,8 +413,12 @@ export default function ProfilePage() {
 
     return (
       <div>
-        <h1 className="text-lg font-bold text-[var(--color-text)] mb-1">Profile View</h1>
-        <p className="text-[10px] text-[var(--color-text-dim)] mb-4">Click a profile to view full details. Use filters below to narrow down.</p>
+        <PageHeader
+          title="Profile View"
+          whatThisDoes="Browse every vault profile (politicians, donors, corporations, think tanks, etc.) with search, type filters, and sort by completeness or nearest-to-A+. Click a profile to drill in to its detail view + verification checklist."
+          rightNow={`${allProfiles.length.toLocaleString()} profiles indexed across ${types.length} types.`}
+          action="Search box up top, type/readiness filters below, then click a card to open. Detail view exposes per-pipeline data and the editorial verification checklist."
+        />
 
         {/* Search + Filters */}
         <div className="flex flex-wrap gap-3 mb-3">

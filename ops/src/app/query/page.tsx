@@ -234,6 +234,37 @@ export default function QueryPage() {
         <p style={{ margin: "0.25rem 0 0", color: "#9ca3af", fontSize: "0.9rem" }}>
           Phase 2 MVP · in-memory query over relationships + entities + events + sources. Auth gating lands in Phase 2.5.
         </p>
+        {/* Sibling-page tab — Query and Ask share a sidebar slot.
+            Renders inline so the user can see both modes without
+            digging through nav. */}
+        <div style={{ display: "flex", gap: "0.25rem", marginTop: "0.75rem", borderBottom: "1px solid #1f2937" }}>
+          <span
+            style={{
+              padding: "0.5rem 0.875rem",
+              background: "#1f2937",
+              color: "#fbbf24",
+              borderTopLeftRadius: "0.375rem",
+              borderTopRightRadius: "0.375rem",
+              borderBottom: "2px solid #fbbf24",
+              fontSize: "0.85rem",
+              fontWeight: 600,
+            }}
+          >
+            ▼ Raw query (filters + table)
+          </span>
+          <a
+            href="/ask"
+            style={{
+              padding: "0.5rem 0.875rem",
+              color: "#9ca3af",
+              fontSize: "0.85rem",
+              textDecoration: "none",
+              borderBottom: "2px solid transparent",
+            }}
+          >
+            Natural-language ask →
+          </a>
+        </div>
       </header>
 
       {/* Subject picker */}

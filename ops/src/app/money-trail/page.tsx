@@ -1,6 +1,7 @@
 "use client"
 
 import { useState, useEffect, useRef, useCallback } from "react"
+import { PageHeader } from "@/components/PageHeader"
 import {
   forceSimulation, forceManyBody, forceCenter, forceLink, forceCollide, forceX, forceY,
   select, zoom as d3Zoom, zoomIdentity, drag as d3Drag,
@@ -383,13 +384,17 @@ export default function MoneyTrailPage() {
 
   return (
     <div className="h-full flex flex-col">
-      {/* Header */}
-      <div className="flex items-center gap-3 p-4 border-b border-[var(--color-border)] flex-wrap">
-        <h1 className="text-sm font-bold tracking-wider text-[#f59e0b]">MONEY TRAIL</h1>
-        <span className="text-[9px] text-[var(--color-text-dim)]">
-          {profiles.length} profiles with monetary data
-        </span>
-        {hovered && <span className="text-[10px] text-[var(--color-text)] ml-2 font-mono">{hovered}</span>}
+      <div className="px-4 pt-4">
+        <PageHeader
+          title="Money Trail"
+          whatThisDoes="Star-graph visualization of one profile's monetary connections — donors, recipients, contracts, oppositions. Pick a profile from the left rail; the graph centers on them with their funded counterparties radiating out."
+          rightNow={`${profiles.length.toLocaleString()} profiles in the index with monetary data. ${selected ? `Showing ${selected.title} (${selected.connections.length} connections)` : "No profile selected — pick one from the left rail."}`}
+          action="Click a profile in the left rail to render. Filter pill above the graph switches between money / contracts / opposition. Search box up top for fuzzy name match."
+        />
+      </div>
+      {/* Lightweight summary strip retained for the hover read-out */}
+      <div className="flex items-center gap-3 px-4 pb-2 flex-wrap min-h-[1.25rem]">
+        {hovered && <span className="text-[10px] text-[var(--color-text)] font-mono">↳ {hovered}</span>}
       </div>
 
       <div className="flex flex-1 min-h-0">

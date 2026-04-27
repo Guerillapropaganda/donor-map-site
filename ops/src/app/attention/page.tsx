@@ -3,6 +3,7 @@
 import { useEffect, useRef, useState } from "react"
 import Link from "next/link"
 import HarnessChip, { type HarnessArtifact } from "@/components/HarnessChip"
+import { PageHeader } from "@/components/PageHeader"
 
 /**
  * /attention — the master surface for everything the automation scripts
@@ -330,14 +331,18 @@ export default function AttentionPage() {
         </div>
 
         {/* Header */}
-        <div className="mb-4 flex items-start justify-between gap-4">
-          <div>
-            <h1 className="text-2xl font-bold mb-1">🎯 Attention Queue</h1>
-            <p className="text-[12px] text-[var(--color-text-dim)]">
-              Every script-surfaced item you should know about, ranked by leverage per minute.
-              Work top-to-bottom, once a day.
-            </p>
-          </div>
+        <PageHeader
+          title="Attention Queue"
+          whatThisDoes="The master surface for everything the harness + automation surfaced. Every contradiction, hallucination, voice drift, missing profile, class-tag staleness, librarian-validation alert — all of it lands here, ranked by leverage per minute."
+          rightNow={harness ? (
+            <>
+              <strong>{(harness.summary?.findings_total ?? 0).toLocaleString()}</strong> total findings across{" "}
+              <strong>{(harness.summary?.checks_with_findings ?? 0)}</strong> checks
+            </>
+          ) : "loading harness summary…"}
+          action="Open this each morning. Do the top 5 items. Close the app. The harness handles everything else; auto-refresh keeps it live."
+        />
+        <div className="mb-4 flex items-start justify-end gap-4">
           <div className="flex items-center gap-3 flex-shrink-0">
             <label className="flex items-center gap-1.5 text-[9px] text-[var(--color-text-dim)] cursor-pointer">
               <input

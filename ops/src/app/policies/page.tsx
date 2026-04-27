@@ -32,6 +32,7 @@
 import { useState, useEffect, useCallback, useRef } from "react"
 import ReactMarkdown from "react-markdown"
 import remarkGfm from "remark-gfm"
+import { PageHeader } from "@/components/PageHeader"
 
 // ─── Types ──────────────────────────────────────────────────────────
 
@@ -376,19 +377,30 @@ export default function PoliciesPage() {
 
   return (
     <div className="p-8 max-w-5xl mx-auto">
-      {/* Header */}
+      <PageHeader
+        title="Policies"
+        whatThisDoes="Dashboard for the v1 Policy Battles (ADR-0004) — review each policy's draft, promote drafts to verified once their gate is green, then publish to the public site by adding to data/public-routes.json. Per-policy preview is inline."
+        rightNow={
+          <>
+            <strong>{verifiedCount}</strong> / {policies.length} verified ·
+            {" "}
+            <strong>{policies.filter((p) => p.is_public).length}</strong> currently live
+            {policies.filter((p) => p.gate.ready && p.content_readiness !== "verified").length > 0
+              ? ` · ${policies.filter((p) => p.gate.ready && p.content_readiness !== "verified").length} drafts ready to promote`
+              : ""}
+          </>
+        }
+        action={
+          'Click a row to expand its preview inline. "Ship it → Promote to verified" promotes a passing draft. "Publish to public" stages data/public-routes.json (you commit + push manually). Press ? for keyboard shortcuts.'
+        }
+      />
       <div className="mb-6">
-        <h1 className="text-3xl font-bold text-white mb-1">Policies</h1>
-        <p className="text-sm text-neutral-400">
-          v1 Policy Battles from ADR-0004 · {verifiedCount}/{policies.length} verified
-          {" · "}
-          <button
-            onClick={() => setShowHelp((p) => !p)}
-            className="underline hover:text-white"
-          >
-            keyboard help (?)
-          </button>
-        </p>
+        <button
+          onClick={() => setShowHelp((p) => !p)}
+          className="text-xs underline text-neutral-400 hover:text-white"
+        >
+          keyboard help (?)
+        </button>
       </div>
 
       {/* Help overlay */}

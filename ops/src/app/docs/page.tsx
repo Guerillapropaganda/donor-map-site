@@ -99,19 +99,42 @@ export default function DocsPage() {
 
   return (
     <div className="p-6 max-w-6xl mx-auto">
-      <div className="flex items-center justify-between mb-6">
+      <div className="flex items-center justify-between mb-4">
         <div>
           <h1
             className="text-lg font-bold tracking-wider"
             style={{ color: "var(--color-steel)" }}
           >
-            System Docs
+            Reference
           </h1>
           <p className="text-[10px] text-[var(--color-text-dim)] mt-1">
-            Read-only view of the documents both Claudes follow every session.
-            Changes are tracked by timestamp.
+            System docs + scripts reference. Read-only view of the documents
+            both Claudes follow every session, plus plain-English explanations
+            of every automation script.
           </p>
         </div>
+      </div>
+
+      {/* Sibling-page tab — Reference covers both system docs (this page)
+          and the scripts catalog (/scripts). Linked here so they share
+          a sidebar slot. */}
+      <div className="flex gap-1 mb-6 border-b border-[var(--color-border)]">
+        <span
+          className="px-3 py-2 text-xs font-semibold"
+          style={{
+            color: "var(--color-steel)",
+            borderBottom: "2px solid var(--color-steel)",
+          }}
+        >
+          ▼ System Docs (Vault Rules / Phase plan / etc.)
+        </span>
+        <a
+          href="/scripts"
+          className="px-3 py-2 text-xs text-[var(--color-text-dim)] hover:text-[var(--color-text)]"
+          style={{ borderBottom: "2px solid transparent", textDecoration: "none" }}
+        >
+          Scripts catalog →
+        </a>
       </div>
 
       {loading ? (

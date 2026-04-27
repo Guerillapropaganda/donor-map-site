@@ -5,6 +5,7 @@ import Link from "next/link"
 import type { Profile } from "@/lib/vault"
 import { fetchVault } from "@/lib/vault-cache"
 import HarnessChip, { type HarnessArtifact } from "@/components/HarnessChip"
+import { PageHeader } from "@/components/PageHeader"
 
 /**
  * Sign-Off Queue — surfaces profiles that passed every automated A+
@@ -161,14 +162,19 @@ export default function SignoffQueuePage() {
         </div>
 
         {/* Header */}
-        <div className="mb-6 flex items-start justify-between">
-          <div>
-            <h1 className="text-2xl font-bold mb-1">Sign-off Queue</h1>
-            <p className="text-[12px] text-[var(--color-text-dim)]">
-              Profiles that passed every automated A+ check and are waiting on your manual editorial sign-off.
-              Open each, verify the narrative reads cleanly, then sign off.
-            </p>
-          </div>
+        <PageHeader
+          title="Sign-off Queue"
+          whatThisDoes="Profiles that passed every automated A+ check (audit-a-plus-passed stamp from the janitor) and are waiting only on your manual editorial sign-off. The most important page in the ops app — these are one click from publishable."
+          rightNow={
+            <>
+              <strong>{queue.length.toLocaleString()}</strong> in queue · oldest waiting{" "}
+              <strong>{queue.length > 0 ? Math.max(...queue.map((q) => q.daysOld)) : 0}d</strong>
+            </>
+          }
+          action="Open each, verify the narrative reads cleanly, then sign off. Curated launch-list workflow lives at /signoff-launch (linked from the legacy Launch 50 tracker)."
+          href={{ label: "Launch 50 tracker", url: "/signoff-launch" }}
+        />
+        <div className="mb-6 flex justify-end">
           <HarnessChip onLoad={setHarness} />
         </div>
 
