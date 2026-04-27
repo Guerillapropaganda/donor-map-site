@@ -361,8 +361,8 @@ export default function Dashboard() {
             disabled={restarting || wrapperDetected === false}
             title={
               wrapperDetected === false
-                ? "Disabled — ops was started without scripts/ops-dev-loop.bat. Stop the current server and re-launch via that wrapper to enable click-to-restart."
-                : "Kills + respawns the Next.js dev server. Requires ops-dev-loop.bat wrapper."
+                ? "Disabled — to enable click-to-restart, stop ops and re-launch via the 'ops-dev-wrapper-3333' entry in .claude/launch.json (uses scripts/ops-dev-loop.bat). The plain 'ops-ask-3333' / 'ops-dashboard-prod' entries don't have a respawn loop."
+                : "Kills + respawns the Next.js dev server. Auto-reloads page when it's back up (~5s)."
             }
             className="flex items-center gap-2 rounded-lg px-3 py-2 text-[10px] border transition-colors disabled:opacity-40 disabled:cursor-not-allowed"
             style={{

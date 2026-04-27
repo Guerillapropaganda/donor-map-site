@@ -235,6 +235,48 @@ const PRODUCERS = [
     args: ['--write'],
     timeout_ms: 300_000,
   },
+  // Policy pages builder — regenerates content/Policies/*.md from canonical
+  // stores (data/policies.jsonl + polling.jsonl + events.jsonl + relationships
+  // librarian-backed query engine). Cheap (~1s for 5 policies; scales linearly
+  // to 30+). Runs daily at 04:15 UTC AFTER data-panel and BEFORE janitor so
+  // janitor audits the freshest computed support_pct and bill counts. Wired
+  // 2026-04-27 with the headline-gap computation rollout.
+  {
+    name: 'build-policy-pages',
+    schedule: '15 4 * * *',
+    script: 'scripts/build-policy-pages.cjs',
+    args: ['--write'],
+    timeout_ms: 60_000,
+  },
+  // Deferred-items auto-verifier — walks every content/Phases/phase-*\/exit-criteria.md
+  // (and handoff/retro docs) and checks each unchecked `- [ ]` criterion against
+  // repo reality. If a criterion can be verified deterministically (file exists,
+  // script exports expected symbols, API route exists, ops page renders), flips
+  // the checkbox and annotates with `(auto-verified YYYY-MM-DD)`. Closes the
+  // "manifest says open, source says done" silent-fix gap from the deferred-items
+  // backlog. Scheduled 04:20 so it runs BEFORE bug-queue-parser at 04:25.
+  // Established 2026-04-27 as part of the /bugs live-truth-board refactor.
+  {
+    name: 'triage-deferred-items',
+    schedule: '20 4 * * *',
+    script: 'scripts/triage-deferred-items.cjs',
+    args: ['--write'],
+    timeout_ms: 60_000,
+  },
+  // Bug-queue parser — regenerates ops/src/data/bugs-manifest.json from
+  // bug-queue.md + content/Phases/phase-6/deferred-items.md. Filters out
+  // already-checked `marker` rows and prose `in-section` rows; re-verifies
+  // each `unchecked-exit-criterion` against current source state and drops
+  // entries where the source line is now `[x]` or has line-drifted. Result:
+  // /bugs page is a live truth board, not a stale 2026-04-15 snapshot.
+  // Established 2026-04-27 as part of the /bugs live-truth-board refactor.
+  {
+    name: 'bug-queue-parser',
+    schedule: '25 4 * * *',
+    script: 'scripts/bug-queue-parser.cjs',
+    args: ['--write'],
+    timeout_ms: 60_000,
+  },
   // Pipeline janitor write-mode — runs daily at 04:30 AFTER the auto-block
   // builders so it audits the freshest possible state, then demotes any
   // profiles still showing mechanical issues (missing-block, zombie-block,

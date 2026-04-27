@@ -45,7 +45,198 @@ function formatUsd(n) {
   return "$" + n.toLocaleString()
 }
 
-function buildPolicyPage(policy, engine) {
+// ─── Headline gap computation (2026-04-27) ───────────────────────────
+//
+// Per the /policies UX riff: every policy page leads with a normie-friendly
+// "punch line + stat line" computed from the canonical stores. Voice arc is
+// normie at top → data in the middle → journalistic close at the bottom.
+// Auto-computed for scale (designed for 30+ policies); editor can override
+// the punch line via policy.editorial_headline.
+//
+// Lead line is selected by legislative_status. Stat line composes whichever
+// data points have meaningful values (we skip "0 polls" rather than printing
+// awkward zeroes).
+
+// Lead lines selected by legislative_status. The `passed` and `signed` cases
+// branch on support level: laws can pass against majority public opinion
+// (e.g. anti-BDS laws have plurality not majority support — calling that
+// "public will translated into law" would be dishonest).
+const LEAD_LINES = {
+  stalled: "**The public wants this. Congress doesn't.**",
+  blocked_in_committee: "**Bottled up before a vote.**",
+  partial: "**The public wants this. Congress half-did it.**",
+  passed_majority: "**Public will, eventually translated into law.**",
+  passed_minority: "**Passed despite weak public support.**",
+  vetoed: "**Public support. Vetoed anyway.**",
+  never_introduced: "**Public support. Never even debated.**",
+  unknown: "**Public support meets legislative silence.**",
+}
+
+function computeGapHeadline(policy, polls, relatedEvents) {
+  // ── Polling aggregate ────────────────────────────────────────────
+  // Sample-size-weighted mean across all polls with a numeric support_pct.
+  // Polls without a sample size are treated as n=1000 (median-ish poll size)
+  // so they aren't excluded outright but don't dominate either.
+  const validPolls = polls.filter(
+    (p) => typeof p.support_pct === "number" && p.support_pct >= 0 && p.support_pct <= 100,
+  )
+  let supportPct = null
+  let supportRange = null
+  let pollOrgs = []
+  let lastPolled = null
+  if (validPolls.length > 0) {
+    const totalWeight = validPolls.reduce((s, p) => s + (p.sample_size || 1000), 0)
+    const weightedSum = validPolls.reduce(
+      (s, p) => s + p.support_pct * (p.sample_size || 1000),
+      0,
+    )
+    supportPct = Math.round(weightedSum / totalWeight)
+    const sorted = [...validPolls].sort((a, b) => a.support_pct - b.support_pct)
+    supportRange = [sorted[0].support_pct, sorted[sorted.length - 1].support_pct]
+    pollOrgs = [...new Set(validPolls.map((p) => p.org).filter(Boolean))]
+    const dated = validPolls.filter((p) => p.fielded).sort((a, b) => b.fielded.localeCompare(a.fielded))
+    if (dated.length) lastPolled = dated[0].fielded
+  }
+
+  // ── Bill / event aggregate ──────────────────────────────────────
+  // We treat any related event with a bill-shaped title (H.R., S., AB, etc.)
+  // OR type === "bill_introduction" / "floor_vote" as a "bill" for headline
+  // counting. Imperfect but auto-scales to whatever events.jsonl tags.
+  const billLike = relatedEvents.filter(
+    (e) =>
+      e.type === "bill_introduction" ||
+      e.type === "floor_vote" ||
+      /^(h\.?r\.?|s\.?|ab|sb|hb)\s*\d/i.test(e.title || ""),
+  )
+  const billsIntroduced = billLike.length
+  const billsPassed = billLike.filter(
+    (e) => e.outcome === "passed" || e.outcome === "signed",
+  ).length
+
+  // Earliest dated event → "stalled since YYYY"
+  const datedEvents = relatedEvents
+    .filter((e) => e.date)
+    .sort((a, b) => a.date.localeCompare(b.date))
+  const earliestYear = datedEvents.length ? datedEvents[0].date.slice(0, 4) : null
+
+  // ── Compose lead + stat line ────────────────────────────────────
+  // Resolve lead line. `passed` / `signed` branch on majority vs minority
+  // public support — passing a law that 47% support is not "public will."
+  let leadKey = policy.legislative_status
+  if (leadKey === "passed" || leadKey === "signed") {
+    leadKey = supportPct !== null && supportPct < 50 ? "passed_minority" : "passed_majority"
+  }
+  const lead = policy.editorial_headline || LEAD_LINES[leadKey] || LEAD_LINES.unknown
+
+  const statParts = []
+  if (supportPct !== null) {
+    const pollWord = validPolls.length === 1 ? "poll" : "polls"
+    statParts.push(`${supportPct}% support across ${validPolls.length} ${pollWord}`)
+  }
+  if (billsIntroduced > 0) {
+    const billWord = billsIntroduced === 1 ? "federal bill" : "federal bills"
+    statParts.push(`${billsIntroduced} ${billWord} introduced`)
+    // Suppress the "Y passed" stat when the policy is stalled but a tangentially
+    // related bill happened to pass (e.g. housing has a supply-side LIHTC
+    // expansion in events.jsonl — passing that next to "stalled since YYYY"
+    // confuses the reader). The legislative_summary explains the nuance.
+    const suppressPassedCount =
+      policy.legislative_status === "stalled" && billsPassed > 0
+    if (!suppressPassedCount) {
+      statParts.push(`${billsPassed} passed`)
+    }
+  }
+  if (earliestYear && policy.legislative_status === "stalled") {
+    // Capitalize since this becomes a sentence after a period
+    statParts.push(`Stalled since ${earliestYear}`)
+  }
+
+  return {
+    lead,
+    statLine: statParts.length ? statParts.join(". ") + "." : null,
+    supportPct,
+    supportRange,
+    pollOrgs,
+    lastPolled,
+    billsIntroduced,
+    billsPassed,
+    earliestYear,
+  }
+}
+
+// ─── Helpers for opposition-donor markdown (2026-04-27 sidebar work) ──
+
+// Convert "content/Donors & Power Networks/Tech & Crypto/a16z - Andreessen Horowitz.md"
+// into a [[wikilink]] that Quartz resolves. Falls back to plain text when the
+// entity has no profile_path (orphan / pathless stubs per ADR-0024).
+function profileWikilink(name, profilePath) {
+  if (!profilePath || typeof profilePath !== "string") return name
+  const m = profilePath.match(/([^/\\]+)\.md$/)
+  if (!m) return name
+  const fileName = m[1]
+  // [[wikilink|display]] — wikilink resolves to the file's slug
+  return `[[${fileName}|${name}]]`
+}
+
+// Pretty-print a USD amount. "$159,266,473" for non-zero, "—" otherwise.
+function formatUsdShort(n) {
+  if (typeof n !== "number" || !n) return "—"
+  if (n >= 1e9) return `$${(n / 1e9).toFixed(1)}B`
+  if (n >= 1e6) return `$${(n / 1e6).toFixed(1)}M`
+  if (n >= 1e3) return `$${(n / 1e3).toFixed(0)}K`
+  return `$${n.toLocaleString()}`
+}
+
+// ─── Helpers for narrative timeline (2026-04-27 timeline work) ────────
+
+// Heuristic federal-vs-state classifier for an event title. Federal bills
+// shape: "S. NNN", "H.R. NNN", "S.NNN/H.R.NNN", or contain federal-only
+// markers like "Inflation Reduction Act", "CMS", "DOJ", "Federal".
+// State markers: state name prefix ("California ", "Washington "), or
+// state-bill abbreviations (AB / SB / RCW / HB / "House Bill" prefixed
+// with state name).
+const STATE_NAMES = [
+  "Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut",
+  "Delaware", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa",
+  "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan",
+  "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire",
+  "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio",
+  "Oklahoma", "Oregon", "Pennsylvania", "Rhode Island", "South Carolina", "South Dakota",
+  "Tennessee", "Texas", "Utah", "Vermont", "Virginia", "Washington", "West Virginia",
+  "Wisconsin", "Wyoming",
+]
+function eventScope(ev) {
+  const t = (ev.title || "").trim()
+  if (STATE_NAMES.some((s) => t.startsWith(s + " ") || t.startsWith(s + ":"))) return "state"
+  if (/^(?:H\.?R\.?|S\.?)\s*\d/i.test(t)) return "federal"
+  if (/Inflation Reduction Act|CMS|Federal\b|United States/.test(t)) return "federal"
+  if (/\bAB\s*\d|\bSB\s*\d|\bHB\s*\d|RCW\s*\d/.test(t)) return "state"
+  return "federal" // default: federal
+}
+
+// Outcome-aligned icon. Reads honestly: ✓ for the policy advancing, ✗ for
+// stalling, ⚠ for partial, 🚫 for vetoed/blocked.
+function outcomeIcon(outcome) {
+  switch (outcome) {
+    case "passed":
+    case "signed":
+      return "✓"
+    case "vetoed":
+      return "🚫"
+    case "stalled":
+    case "blocked_in_committee":
+    case "withdrawn":
+      return "✗"
+    case "partial":
+      return "⚠"
+    default:
+      return "·"
+  }
+}
+
+// ─── Page builder ─────────────────────────────────────────────────────
+
+function buildPolicyPage(policy, engine, ctx = {}) {
   const polls = polling.getPollsForPolicy(policy.id)
 
   // Query events.jsonl for every event whose policy_id matches this
@@ -71,18 +262,21 @@ function buildPolicyPage(policy, engine) {
       return b.date.localeCompare(a.date)
     })
 
-  // Compute top opposition donors for this policy by filtering events
-  // through the query engine with the policy's sector mapping
-  let oppositionDonors = []
-  try {
-    const result = engine.query({
-      subject: "top_opposition_donors",
-      filters: {
-        limit: 10,
-      },
-    })
-    oppositionDonors = result.rows
-  } catch (_) {}
+  // Per-policy opposition donors: ctx.policyDonors[policy.id] is precomputed
+  // by main() so we can also build the cross-policy recurrence map (a donor
+  // who blocks 4 of 5 policies gets a badge). Falls back to the legacy
+  // cross-policy aggregate if ctx wasn't provided (CLI smoke tests).
+  const oppositionDonors =
+    (ctx.policyDonors && ctx.policyDonors[policy.id]) ||
+    (() => {
+      try {
+        return engine.topPolicyOppositionDonors(policy, { limit: 10 })
+      } catch (_) {
+        return []
+      }
+    })()
+  const crossPolicyMap = ctx.crossPolicyMap || new Map()
+  const totalPolicyCount = ctx.totalPolicyCount || 1
 
   const lines = []
 
@@ -132,21 +326,47 @@ function buildPolicyPage(policy, engine) {
   lines.push(`# ${policy.title}`)
   lines.push("")
 
+  // Headline gap — computed punch line + stat line. Sets the normie-voice
+  // hook above the fold. Editor can override the punch line via
+  // policy.editorial_headline. Per /policies UX riff 2026-04-27.
+  const headline = computeGapHeadline(policy, polls, relatedEvents)
+  lines.push(headline.lead)
+  lines.push("")
+  if (headline.statLine) {
+    lines.push(headline.statLine)
+    lines.push("")
+  }
+
   // Plain English blurb
   lines.push("## What it would do")
   lines.push("")
   lines.push(policy.plain_english || "_(editor writes one paragraph here — plain English, no spin)_")
   lines.push("")
 
-  // The gap
+  // The gap — detail layer. Manual policy.public_support_pct overrides the
+  // computed weighted mean if set; otherwise we show the computed values
+  // honestly (mean + range + N + last-polled date).
   lines.push("## The gap")
   lines.push("")
   if (policy.public_support_pct !== null) {
-    lines.push(`- **Public support:** ${policy.public_support_pct}%`)
+    lines.push(`- **Public support:** ${policy.public_support_pct}% _(editor-set)_`)
+  } else if (headline.supportPct !== null) {
+    const rangeStr = headline.supportRange
+      ? ` _(weighted across ${headline.pollOrgs.length} pollster${headline.pollOrgs.length === 1 ? "" : "s"}; range ${headline.supportRange[0]}–${headline.supportRange[1]}%)_`
+      : ""
+    lines.push(`- **Public support:** ${headline.supportPct}%${rangeStr}`)
+    if (headline.lastPolled) {
+      lines.push(`- **Last polled:** ${headline.lastPolled}`)
+    }
   } else {
-    lines.push(`- **Public support:** _(polling data pending)_`)
+    lines.push(`- **Public support:** _(no polling records yet)_`)
   }
   lines.push(`- **Legislative status:** ${policy.legislative_status}`)
+  if (headline.billsIntroduced > 0) {
+    lines.push(
+      `- **Federal bills:** ${headline.billsIntroduced} introduced, ${headline.billsPassed} signed into law`,
+    )
+  }
   if (policy.legislative_summary) {
     lines.push("")
     lines.push(`> ${policy.legislative_summary}`)
@@ -167,7 +387,11 @@ function buildPolicyPage(policy, engine) {
     lines.push("")
   }
 
-  // Who's blocking
+  // Who's blocking — per-policy opposition donors, ranked by total political
+  // spend. Each donor row is wikilinked to its profile when available, shows
+  // its capital_type tag, and gets a "blocks N of M policies" badge when it
+  // appears in the opposition list of multiple policies (cross-policy
+  // recurrence — the recurring villain pattern).
   lines.push("## Who's blocking it")
   lines.push("")
   if (policy.opposition_capital_types && policy.opposition_capital_types.length) {
@@ -177,40 +401,207 @@ function buildPolicyPage(policy, engine) {
     lines.push("")
   }
   if (oppositionDonors.length) {
-    lines.push("### Top opposition donors (cross-policy aggregate)")
+    lines.push("### Top opposition donors")
     lines.push("")
-    lines.push("| Donor | Total spend | Politicians funded |")
-    lines.push("|---|---|---|")
+    lines.push("| Donor | Capital type | Total spend | Politicians funded | Cross-policy |")
+    lines.push("|---|---|---|---|---|")
     for (const d of oppositionDonors) {
-      lines.push(`| ${d.name} | ${formatUsd(d.total_spend)} | ${d.politicians_count ?? "—"} |`)
+      const linked = profileWikilink(d.name, d.profile_path)
+      const blocks = crossPolicyMap.get(d.name) || 1
+      const badge =
+        blocks > 1 ? `**${blocks} of ${totalPolicyCount}**` : "—"
+      lines.push(
+        `| ${linked} | ${d.capital_type} | ${formatUsdShort(d.total_spend)} | ${d.politicians_count ?? "—"} | ${badge} |`,
+      )
     }
     lines.push("")
+    // Public-facing line: short, useful, points to the cross-policy view.
     lines.push(
-      `_This list is computed from the full relationships.jsonl edge store and may shift as Phase 1 pipeline migrations populate more amount data. See [/who-blocks-us](/policies/who-blocks-us) for the cross-policy view._`,
+      `_See [[who-blocks-us|Who Blocks Us]] for the cross-policy enemy list. Donor coverage is partial today; expanding._`,
     )
     lines.push("")
+    // Ops-only methodology — invisible on the public site (HTML comments),
+    // shown as a "🔒 ops-only" block in the ops preview via the page's
+    // revealOpsOnly preprocessor. Convention: <!-- ops-only --> ... <!-- /ops-only -->.
+    // Wrap as a SINGLE HTML comment so the content is fully inert in
+    // public render (CommonMark type-2 HTML block — content between
+    // <!-- and --> is literal, markdown is NOT processed). Ops preview's
+    // revealOpsOnly() extracts the inner text and renders it as a
+    // visible blockquote.
+    lines.push("<!-- ops-only")
+    lines.push("")
+    lines.push(
+      `**Methodology:** Donors with a \`capital_type\` tag matching this policy's \`opposition_capital_types\` are pulled from \`data/entities.jsonl\`; political spend is aggregated from the full relationships edge store via the librarian (ADR-0024). The "Cross-policy" column counts how many of the ${totalPolicyCount} tracked policies each donor's capital_type matches. Coverage is partial and expanding: ~17% of entities tagged as of 2026-04-27 (296 of 1,710). \`finance-capital\` was bulk-tagged on 25 institutional banks / IBs / asset managers / PE / hedge funds the same day, which populated the previously-empty student_debt donor table.`,
+    )
+    lines.push("")
+    lines.push("-->")
+    lines.push("")
   } else {
-    lines.push("_(opposition donor list computed at build time — pending more complete amount data in the relationships edge store)_")
+    // Honest disclosure: when no entities match, say *why*. For
+    // student_debt this means finance-capital is not yet a tagged value;
+    // the page tells the reader rather than silently showing nothing.
+    lines.push(
+      `_No entities in \`data/entities.jsonl\` are currently tagged with the capital types ${policy.opposition_capital_types?.map((t) => `\`${t}\``).join(", ") || "for this policy"}. Tagging coverage is expanding (currently 271 of 1,710 entities, 16%). This list will populate as tags are added._`,
+    )
     lines.push("")
   }
 
-  // Related events
-  if (relatedEvents.length) {
-    lines.push("## Legislative history")
+  // Who's pushing for it — symmetric counterpart to "Who's blocking it".
+  // Surfaces the politicians introducing/championing each policy via bill
+  // sponsorship. Honest about empty states: when a policy moves through
+  // exec actions / court rulings rather than congressional bills (student
+  // debt, AIPAC), the section says so. Established 2026-04-27.
+  //
+  // Aggregation: collect each event's sponsors[] across this policy's
+  // events; group by sponsor and list their bills + outcomes. Policies
+  // without ANY bill sponsors get an empty-state disclosure.
+  const billLikeEvents = relatedEvents.filter(
+    (e) => e.type === "bill_introduction" || e.type === "signing" || (e.sponsors && e.sponsors.length > 0),
+  )
+  const sponsoredEvents = billLikeEvents.filter((e) => e.sponsors && e.sponsors.length > 0)
+  if (sponsoredEvents.length > 0) {
+    lines.push("## Who's pushing for it")
     lines.push("")
-    for (const ev of relatedEvents) {
-      lines.push(`- **${ev.title}** (${ev.date || "—"}) — ${ev.outcome}${ev.obstruction_type !== "n/a" ? ` via ${ev.obstruction_type}` : ""}`)
+    // Group bills by sponsor. A bill with multiple sponsors lists each separately
+    // (so they each appear in the table once with co-sponsorship implied).
+    const bySponsor = new Map() // sponsorName -> [{title, date, outcome, obstruction}]
+    for (const ev of sponsoredEvents) {
+      for (const sp of ev.sponsors || []) {
+        if (!bySponsor.has(sp)) bySponsor.set(sp, [])
+        bySponsor.get(sp).push({
+          title: ev.title,
+          date: ev.date,
+          outcome: ev.outcome,
+          obstruction: ev.obstruction_type,
+        })
+      }
+    }
+    // Editorial framing — describe sponsor count in plain English
+    const sponsorCount = bySponsor.size
+    const billCount = sponsoredEvents.length
+    const earliestBill = sponsoredEvents.reduce(
+      (e, b) => (b.date && (!e.date || b.date.localeCompare(e.date) < 0) ? b : e),
+      sponsoredEvents[0],
+    )
+    const latestBill = sponsoredEvents.reduce(
+      (e, b) => (b.date && (!e.date || b.date.localeCompare(e.date) > 0) ? b : e),
+      sponsoredEvents[0],
+    )
+    const earliestYear = earliestBill.date ? earliestBill.date.slice(0, 4) : null
+    const latestYear = latestBill.date ? latestBill.date.slice(0, 4) : null
+    const yearRange =
+      earliestYear && latestYear && earliestYear !== latestYear
+        ? `${earliestYear}–${latestYear}`
+        : earliestYear || "?"
+    lines.push(
+      `**${billCount} bill${billCount === 1 ? "" : "s"} from ${sponsorCount} sponsor${sponsorCount === 1 ? "" : "s"}, ${yearRange}.**`,
+    )
+    lines.push("")
+    lines.push("| Sponsor | Bill | Date | Outcome |")
+    lines.push("|---|---|---|---|")
+    for (const [sponsor, bills] of bySponsor) {
+      for (const bill of bills) {
+        const sponsorWiki = `[[${sponsor}]]` // librarian resolves wikilinks
+        const outcomeIcon =
+          bill.outcome === "passed" || bill.outcome === "signed"
+            ? "✓"
+            : bill.outcome === "stalled"
+            ? "✗"
+            : bill.outcome === "vetoed"
+            ? "🚫"
+            : "·"
+        const outcomeText = `${outcomeIcon} ${bill.outcome}${bill.obstruction && bill.obstruction !== "n/a" ? ` _via ${bill.obstruction}_` : ""}`
+        lines.push(
+          `| ${sponsorWiki} | ${bill.title} | ${bill.date ? bill.date.slice(0, 10) : "—"} | ${outcomeText} |`,
+        )
+      }
     }
     lines.push("")
+    // Ops-only methodology footnote — consistent with the convention
+    // established for "Who's blocking it" methodology.
+    lines.push("<!-- ops-only")
+    lines.push("")
+    lines.push(
+      `**Methodology:** Sponsors pulled from events.jsonl rows where event.policy_id matches this policy AND event.sponsors[] is populated. One row per (sponsor, bill) pair — bills with multiple sponsors list each separately. Cosponsor counts are not yet wired (data not in events.jsonl); when added, will appear as a column. Empty-state disclosure when no bill sponsors are tracked (e.g. policies that moved through executive actions or court rulings rather than legislative bills).`,
+    )
+    lines.push("")
+    lines.push("-->")
+    lines.push("")
+  } else {
+    // Honest empty state — symmetric to the donor-table empty case.
+    // Don't render an empty section header; just a one-line note inside
+    // a smaller scope. Skip if there are no events at all (the section
+    // is irrelevant).
+    if (relatedEvents.length > 0) {
+      lines.push("## Who's pushing for it")
+      lines.push("")
+      lines.push(
+        `_No federal bill sponsors tracked for this policy. Action on this policy has come through executive actions, court rulings, or external events rather than congressional bills._`,
+      )
+      lines.push("")
+    }
   }
 
-  // Class analysis
+  // Legislative timeline — year-grouped, scope-tagged (federal vs state),
+  // outcome-iconified. Replaces the flat bullet list per /policies UX riff
+  // 2026-04-27. Reads as a story: by-year sections, federal/state context
+  // visible at a glance, ✓/✗/⚠/🚫 icons signal advance/stall/partial/veto.
+  if (relatedEvents.length) {
+    lines.push("## Legislative timeline")
+    lines.push("")
+
+    // Group events by year (date ?? "undated")
+    const byYear = new Map()
+    for (const ev of relatedEvents) {
+      const yr = ev.date ? ev.date.slice(0, 4) : "undated"
+      if (!byYear.has(yr)) byYear.set(yr, [])
+      byYear.get(yr).push(ev)
+    }
+    const sortedYears = [...byYear.keys()].sort((a, b) => {
+      if (a === "undated") return 1
+      if (b === "undated") return -1
+      return b.localeCompare(a) // newest first
+    })
+
+    for (const yr of sortedYears) {
+      lines.push(`### ${yr}`)
+      lines.push("")
+      for (const ev of byYear.get(yr)) {
+        const icon = outcomeIcon(ev.outcome)
+        const scope = eventScope(ev)
+        const scopeBadge = scope === "federal" ? "🇺🇸 federal" : "🏛️ state"
+        const dateSuffix = ev.date ? ` (${ev.date.slice(0, 10)})` : ""
+        const obstructionNote =
+          ev.obstruction_type && ev.obstruction_type !== "n/a"
+            ? ` _via ${ev.obstruction_type}_`
+            : ""
+        // Bold the title; outcome appears after dash; emoji icons lead.
+        lines.push(
+          `- ${icon} ${scopeBadge} · **${ev.title}**${dateSuffix} — ${ev.outcome}${obstructionNote}`,
+        )
+      }
+      lines.push("")
+    }
+  }
+
+  // Class analysis — public sees the tag list + a wikilink to the
+  // vocabulary; the methodology framing is wrapped in <!-- ops-only -->
+  // markers so it's hidden on the public site (HTML comments — invisible
+  // in render) but shown as a "🔒 ops-only" block in the ops preview.
   if (policy.class_analysis_tags && policy.class_analysis_tags.length) {
     lines.push("## Class analysis")
     lines.push("")
     lines.push(
-      `The opposition to this policy is structurally aligned with: **${policy.class_analysis_tags.join(", ")}**. These are ideological function tags from the locked Class Tag Vocabulary ([[Class Tag Vocabulary]]) — each tag is a claim about a pattern in the underlying donor data, not an editorial assertion. Donors with these tags fund politicians who oppose the policy.`,
+      `The opposition to this policy is structurally aligned with: **${policy.class_analysis_tags.join(", ")}**. _See [[Class Tag Vocabulary]] for definitions._`,
     )
+    lines.push("")
+    lines.push("<!-- ops-only")
+    lines.push("")
+    lines.push(
+      `**Methodology:** These are ideological function tags from the locked Class Tag Vocabulary. Each tag is a claim about a pattern in the underlying donor data, not an editorial assertion. Donors with these tags fund politicians who oppose the policy.`,
+    )
+    lines.push("")
+    lines.push("-->")
     lines.push("")
   }
 
@@ -224,12 +615,18 @@ function buildPolicyPage(policy, engine) {
     lines.push("")
   }
 
-  // Sources footer
+  // Build provenance footer — purely ops/dev-facing context. Wrapped
+  // in <!-- ops-only --> so the public site doesn't show readers our
+  // build-script invocation details.
   lines.push("---")
+  lines.push("")
+  lines.push("<!-- ops-only")
   lines.push("")
   lines.push(
     `*Policy page generated from canonical data stores. Policy record: \`${policy.id}\`. To edit the prose, update \`data/policies.jsonl\` via the policies store and re-run \`scripts/build-policy-pages.cjs --write\`. See [[Build Phases]] for the full Phase 2.75 plan.*`,
   )
+  lines.push("")
+  lines.push("-->")
   lines.push("")
 
   return lines.join("\n")
@@ -376,10 +773,36 @@ function main() {
     fs.mkdirSync(OUT_DIR, { recursive: true })
   }
 
+  // Precompute per-policy donor lists + cross-policy recurrence map.
+  // We run topPolicyOppositionDonors once per policy (limit=100 so the
+  // recurrence map sees the long tail too), then count how many distinct
+  // policies each donor appears in. The badge "blocks N of M policies"
+  // is built from this map at render time.
+  console.log("  precomputing per-policy opposition donors...")
+  const policyDonors = {} // policy.id -> top-10 donor rows (for table render)
+  const crossPolicyMap = new Map() // donor name -> count of policies they oppose
+  for (const policy of all) {
+    let rows = []
+    try {
+      rows = engine.topPolicyOppositionDonors(policy, { limit: 100 })
+    } catch (e) {
+      console.log(`    warn: ${policy.slug}: ${e.message}`)
+    }
+    policyDonors[policy.id] = rows.slice(0, 10) // keep top 10 for the table
+    for (const d of rows) {
+      crossPolicyMap.set(d.name, (crossPolicyMap.get(d.name) || 0) + 1)
+    }
+  }
+  const ctx = { policyDonors, crossPolicyMap, totalPolicyCount: all.length }
+  console.log(
+    `    ${policyDonors ? Object.values(policyDonors).reduce((s, r) => s + r.length, 0) : 0} donor-rows across ${all.length} policies; ${[...crossPolicyMap.values()].filter((n) => n > 1).length} donors oppose >1 policy`,
+  )
+  console.log("")
+
   let written = 0
 
   for (const policy of all) {
-    const content = buildPolicyPage(policy, engine)
+    const content = buildPolicyPage(policy, engine, ctx)
     const file = path.join(OUT_DIR, `${policy.slug}.md`)
     if (WRITE) {
       fs.writeFileSync(file, content, "utf-8")

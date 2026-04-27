@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: normal
 status: active
-last-updated: '2026-04-26-ops-ui-polish-marathon-cc_p3_100-105'
+last-updated: '2026-04-27-evening-bugs-zero-money-trail-orphan-cc_p3_117-126'
 sprint-id: "2026-04-sprint"
 sprint-start: '2026-04-10'
 sprint-end: '2026-04-30'
@@ -3015,6 +3015,174 @@ phase_3_tasks:
       commit: "b18b4d5e4, 6512b9299, fe3032cf8"
       notes: "David: 'sidebar nav feels very slow.' Audit: 7 ops pages independently fetched /api/vault on mount + HarnessChip mounted across many pages re-fetched /api/vault-audit. SHARED CACHES (b18b4d5e4 + 6512b9299): new ops/src/lib/vault-cache.ts with module-level promise cache, 60s TTL for vault, 30s TTL for harness. fetchVault() / fetchHarnessArtifact() / invalidateVault() / invalidateHarness(). All 7 page consumers migrated (page.tsx, notes, profile, relationships, distribution, editor, signoff-queue) + HarnessChip + Dashboard's loadHarness path. PRODUCTION-MODE LAUNCH ENTRY (fe3032cf8): Next.js dev mode compiles routes on-demand on first visit (1-3s pause regardless of caching); for daily ops use that's the dominant slowness. New launch.json entry 'ops-dashboard-prod' runs npx next build && npx next start with OPS_AUTH_BYPASS=1. David's workflow: prod mode for daily use, dev mode for when Code Claude is editing ops source. Note: package.json edit (npm run prod script) was REVERTED at commit time because deps-staging-sentinel hook correctly caught script-only change without lockfile bump; launch entry alone is sufficient. KNOWN ISSUE: David reports nav still feels slow even after these fixes. May be unrelated cause; Dashboard fires 5+ independent fetches on mount (/api/vault now cached, but /api/activity, /api/status, /api/attention-queue, /api/ops-restart still per-mount). /api/connections is 11-call-site biggest other repeat offender — could be next cache target."
 
+    - id: cc_p3_106
+      task: "Pre-push gate diagnostic logging + OOM detection"
+      status: done
+      completed_date: 2026-04-27
+      added_adhoc: true
+      commit: "cba86ba2a"
+      notes: ".husky/pre-push now dumps node version / NODE_OPTIONS / PATH / branch / commit / full tsc output to /tmp/pre-push-debug-*.log on any failure, AND detects V8 heap-exhaustion signatures (JavaScript heap out of memory / Ineffective mark-compacts / FATAL ERROR.*heap) to surface OOM as OOM rather than as a code regression. Suggests larger heap (12288). No behavior change on success. Past 3× SKIP_HOOKS=1 flakes were unreproducible at write time — leading hypothesis is OOM crash when NODE_OPTIONS doesn't propagate through git's hook env."
+
+    - id: cc_p3_107
+      task: "Rotate Session State.md (5,194 → 398 lines, 11 oldest HANDOFFs archived)"
+      status: done
+      completed_date: 2026-04-27
+      added_adhoc: true
+      commit: "503073c25"
+      notes: "Ran scripts/rotate-session-state.cjs --keep=5. Live file 559KB → 104KB. Moved 11 oldest HANDOFFs to content/Admin Notes/Session State Archive/2026-04.md (455KB). Idempotent — re-running with same --keep is a no-op. Closed yesterday's known issue #2."
+
+    - id: cc_p3_108
+      task: "/policies UX phase 1: gap headline + computed polling aggregate"
+      status: done
+      completed_date: 2026-04-27
+      added_adhoc: true
+      commit: "03f2d48ca"
+      notes: "Voice arc normie→data→journalist. New computeGapHeadline() in scripts/build-policy-pages.cjs maps legislative_status → punch line (stalled = 'The public wants this. Congress doesn't.', partial = 'Congress half-did it.', passed branches on majority vs minority support so AIPAC at 47% reads 'Passed despite weak public support'). Stat line composes weighted-mean support + bill counts + 'Stalled since YYYY'. Suppresses contradictory '1 passed' on stalled policies. Editorial override via policy.editorial_headline. '## The gap' upgraded to honest range disclosure. Scheduled build-policy-pages.cjs as dispatcher producer @ 04:15 UTC."
+
+    - id: cc_p3_109
+      task: "/policies UX phase 2: per-policy donors + cross-policy badges + timeline"
+      status: done
+      completed_date: 2026-04-27
+      added_adhoc: true
+      commit: "e4d847703"
+      notes: "Three pieces. (1) Per-policy donors: new topPolicyOppositionDonors() in scripts/lib/query-engine.cjs joins entities whose capital_type matches policy.opposition_capital_types, aggregates spend from librarian. Housing now shows Las Vegas Sands $159M / Realtors $62M / etc. instead of identical cross-policy aggregate on every page. (2) Cross-policy badges: 'blocks N of M policies' precomputed in main(). (3) Timeline: year-grouped, 🇺🇸/🏛️ federal/state badges via title heuristics, ✓/✗/⚠/🚫 outcome icons, italic obstruction notes. Each donor wikilinked + capital type shown inline. Coverage caveat for student_debt (finance-capital not tagged → honest empty state)."
+
+    - id: cc_p3_110
+      task: "ops-only marker convention + revealOpsOnly preprocessor"
+      status: done
+      completed_date: 2026-04-27
+      added_adhoc: true
+      commit: "7874f0427"
+      notes: "First HTML-comment-based 'show in ops, hide on public' pattern. Convention: single <!-- ops-only ... --> comment (NOT two markers — the two-comment form leaked methodology to public; caught mid-session via reader-text extraction + rebuilt with single-comment fix per CommonMark type-2 HTML block rules). Three sections wrapped in build-policy-pages.cjs: donor-table coverage methodology, class-analysis methodology, build-provenance footer. revealOpsOnly() in ops/src/app/policies/page.tsx converts to '🔒 ops-only context' blockquote. Verified end-to-end via micromark + grep on rendered housing.html + reader-text extraction. Documented at content/Admin Notes/ops-only-marker-convention.md."
+
+    - id: cc_p3_111
+      task: "class-tags: supersede 4 orphan proposals + defensive API auto-supersede"
+      status: done
+      completed_date: 2026-04-27
+      added_adhoc: true
+      commit: "c0db04842"
+      notes: "David hit silent approval failures. Diagnosis: 4 proposals pointed at entities merged/deleted during ADR-0024 librarian cleanup. Server marked proposal approved but couldn't write tags onto missing entity — returned 500, half-applied state. Cleanup: ent_000059 (Meta-Facebook redirect), ent_000168 (David Sacks), ent_000178 (JB Pritzker), ent_000088 (DSCC) marked superseded with reject_reason. Pending 160→156. Defensive API: PATCH /api/class-tags now auto-flips orphan proposals to superseded with `warning: orphan_proposal_auto_superseded` and returns 200 instead of 500."
+
+    - id: cc_p3_112
+      task: "Harness: policy-pages-integrity check (paired with build-policy-pages producer)"
+      status: done
+      completed_date: 2026-04-27
+      added_adhoc: true
+      commit: "1a594e161"
+      notes: "scripts/policy-pages-integrity-check.cjs verifies each content/Policies/{slug}.md: file exists, rebuilt within 7 days, has bold lead line under H1 (handles aipac_bds firewall comment), has stat line when polls/events exist, has either donor table OR honest empty-state, build-provenance footer wrapped in ops-only markers. 45ms over 5 policies. Wired into vault-audit.cjs as compounding-bucket check (leverage 2, cost_min 10). Findings surface to /attention every 15 min."
+
+    - id: cc_p3_113
+      task: "Audit #14 closed: harness JSON output smoke test (manual diagnostic)"
+      status: done
+      completed_date: 2026-04-27
+      added_adhoc: true
+      commit: "343dc9c70"
+      notes: "scripts/harness-json-smoke-test.cjs runs every CHECKS entry from vault-audit.cjs that exposes --json and asserts stdout parses as JSON. Catches the failure mode where vault-audit.cjs's parser swallows JSON parse errors and reports findings_count=0 with notes='(json parse failed)'. Standalone — NOT wired as harness check (recursive expansion) or pre-commit gate (~30s friction for rare regression). First run 17 of 17 pass. Closes deferred audit item #14."
+
+    - id: cc_p3_114
+      task: "Audit #5 closed-as-obsolete: tagged_by audit trail backfill"
+      status: done
+      completed_date: 2026-04-27
+      added_adhoc: true
+      commit: "b839dfbd5"
+      notes: "Verified the gap doesn't exist — class-tag reconciler that ran 2026-04-26 (commit 8f28800db) retroactively created proposal records for all 341 previously-untracked tagged entities. Audit trail complete via tags_approved + tags_approved_by + tags_approved_at + tags_proposed_by. The `tagged_by` field doesn't exist as a schema field — would have been cosmetic consolidation. Resolution doc at content/Admin Notes/audit-item-5-resolution-2026-04-27.md."
+
+    - id: cc_p3_115
+      task: "Audit #10 closed: savable views on /capitol-trades and /money-trail"
+      status: done
+      completed_date: 2026-04-27
+      added_adhoc: true
+      commit: "14da128dd"
+      notes: "Three files. ops/src/lib/saved-views.ts (storage helper, localStorage, per-page namespacing). ops/src/components/SavedViewsBar.tsx (generic dropdown + save/rename/delete). Wired into /money-trail (selectedTitle re-resolved on load) and /capitol-trades (12-field filter set: tab, search, chamber, tradeType, owner, flowTicker, year, amount, flag, activeTiers, sortField, sortDir). Verified live in both pages via screenshot post-restart."
+
+    - id: cc_p3_116
+      task: "Audit #3 option A closed: ticker-sector map lifted to data/ + #9 design note for fresh chat"
+      status: done
+      completed_date: 2026-04-27
+      added_adhoc: true
+      commit: "7ccdeed3f"
+      notes: "data/ticker-sector-map.json (157 tickers across 21 sectors, _doc + _last_updated + _count metadata). scripts/committee-assignments-fetch.cjs reads JSON via existing path import; forgiving loader falls back to empty map on missing/malformed. Verified PFE→pharma, LMT→defense, MSFT→tech, XOM→energy match pre-migration. Companion: content/Admin Notes/stories-as-data-design-thinking-2026-04-27.md captures David's vision for deferred audit #9 (stories as first-class data with detection-source-driven candidate generation, /stories ops review surface mirroring /policies pattern, editorial readiness flow, public render with selective publication based on importance + editorial weight + how damning) for fresh-chat scoping conversation. Other 3 inline keyword→tag heuristics (contradiction-miner, editorial-queue, relationship-discovery) NOT scoped — different shapes."
+
+    - id: cc_p3_117
+      task: "/bugs becomes a live truth board — filter noise + re-verify source + schedule"
+      status: done
+      completed_date: 2026-04-27
+      added_adhoc: true
+      commit: "62da4d583"
+      notes: "scripts/bug-queue-parser.cjs filters out noisy `kind=marker` (already-checked items kept for Phase 6 reference, never bugs) + `kind=in-section` (handoff prose / retrospective section headers, never bugs). Re-verifies each `unchecked-exit-criterion` against current source state at parse time — drops entries where the source line is now `[x]` (silently fixed) or has line-drifted. by_category recomputed from live entries (not stale .md frontmatter totals). Wired bug-queue-parser + triage-deferred-items as daily dispatcher producers (04:25 + 04:20 UTC). Initial impact: 436 → 82 actionable items."
+
+    - id: cc_p3_118
+      task: "Systematic /bugs triage to zero — 82 items walked + verdicted"
+      status: done
+      completed_date: 2026-04-27
+      added_adhoc: true
+      commit: "e7bea4ac5"
+      notes: "Walked all 82 actionable items in /bugs (phase-2: 13, phase-2.75: 31, phase-6: 38) and applied honest verdict. auto-verified items get `<!-- auto-verified 2026-04-27: <evidence> -->` annotations (file paths, commit hashes). accepted items get `<!-- accepted 2026-04-27: <reason> -->` (post-launch maintenance, deferred features, editorial-pending, owned by parallel pre-launch security session). Manifest impact: TOTAL OPEN 436 → 0, HIGH SEVERITY 69 → 0, BUG QUEUE 0/3 unchanged."
+
+    - id: cc_p3_119
+      task: "Capitol Trades dates fix — full year display + PDF/OCR-broken date filter"
+      status: done
+      completed_date: 2026-04-27
+      added_adhoc: true
+      commit: "20f6b7ac6"
+      notes: "ops/src/app/capitol-trades/page.tsx fmtDate() was chopping year to 2 digits via parts[2].slice(-2), making garbage dates like '04/30/3031' look like '04/30/31' (legitimate-looking). Fixed to render full 4-digit year. ops/src/app/api/capitol-trades/route.ts new isValidTxDate() drops trades with year outside [2010, currentYear+1] at API time. 13 source records eliminated initially (later tightened to currentYear in cc_p3_126)."
+
+    - id: cc_p3_120
+      task: "Editor browse panel — type / readiness / A-Z filters parity with /profile"
+      status: done
+      completed_date: 2026-04-27
+      added_adhoc: true
+      commit: "0cbc22afa"
+      notes: "ops/src/app/editor/page.tsx +189 lines. Added type filter dropdown / sort dropdown / 5-pill readiness selector (verified / ready / data-complete / draft / raw with live counts) / A-Z letter bar (greys unavailable letters) / 100-card grid. Renders when no profile selected and search empty; click a card → loadProfile() (existing path). Reuses readinessColor / typeColor from @/lib/vault. David said 'Editor just requires me to search. Would be handy to have filters here like profile view to search and browse' — direct feedback addressed."
+
+    - id: cc_p3_121
+      task: "/policies 'Who's pushing for it' section + finance-capital bulk tag (25 entities)"
+      status: done
+      completed_date: 2026-04-27
+      added_adhoc: true
+      commit: "f9657f143"
+      notes: "Two pieces. (1) New section in scripts/build-policy-pages.cjs symmetric to 'Who's blocking it' — aggregates events.jsonl rows where event.policy_id matches AND event.sponsors[] non-empty; renders Sponsor / Bill / Date / Outcome table. Honest empty-state for student_debt + aipac_bds (action via exec actions / court rulings, not bills). Methodology footnote ops-only-wrapped per the convention. (2) Bulk-tagged 25 untagged Wall Street entities (Apollo, BoA, BlackRock, Blackstone, CalPERS, CalSTRS, Carlyle, Charles Schwab, Citadel, Citigroup, Fidelity, Financial Services Donors, Goldman alumni network, Hedge Fund Industry Bloc, JPMorgan, MassMutual, MBNA, Morgan Stanley, PE Industry Bloc, QVT Financial, Securities & Investment Industry, Wall Street Bloc, Wall Street Finance Networks, Wall Street Finance PACs, Wells Fargo) with capital_type=finance-capital — schema already supported the value, nothing was tagged. Result: student_debt empty donor table → 10 finance-capital donors (Fidelity $6.5B, Blackstone $99.9M, Charles Schwab $33.9M, Citadel, Apollo, Goldman, Morgan Stanley, Wells Fargo, BoA). Healthcare table also enriched (mixed pharma+finance). Cross-policy 'blocks 4 of 5' badges populate. NOT tagged (David's call — edge cases for hand-tagging via /class-tags later): Walmart, Trump Media, Trump Organization, Lawrence Summers."
+
+    - id: cc_p3_122
+      task: "Restart button — wrapper-mode launch entry + clearer disabled tooltip"
+      status: done
+      completed_date: 2026-04-27
+      added_adhoc: true
+      commit: "6a863b6a4"
+      notes: "David's screenshot showed 'Restart (no wrapper)' greyed out. Yesterday's commit gated the button on OPS_DEV_LOOP=1 env var that scripts/ops-dev-loop.bat sets, but his existing launch entries (ops-ask-3333, ops-dashboard-prod, etc.) bypass the wrapper so the env var stays unset. Added new launch entry 'ops-dev-wrapper-3333' that runs the wrapper. Updated Dashboard tooltip to name the specific entry to switch to ('to enable click-to-restart, stop ops and re-launch via the ops-dev-wrapper-3333 entry in .claude/launch.json'). Existing entries kept for plain dev mode."
+
+    - id: cc_p3_123
+      task: "/relationships orphan-candidates diagnostic (Light scope)"
+      status: done
+      completed_date: 2026-04-27
+      added_adhoc: true
+      commit: "e09ea8fa7"
+      notes: "David noticed all 100 'No Connections' panel entries have profiles already — the bug is the librarian can't resolve their political spend to these profiles. New API GET /api/relationships/orphan-candidates?title=... runs token-based scan over the 236K-edge librarian store; returns up to 50 candidate edges where either endpoint contains meaningful tokens from the title. Tokenizer drops generic stopwords (family, fund, foundation, industry, association, bloc, donor, network, group). Threshold: 1-2 tokens require all matched, 3+ tokens require at least 2. UI panel renders inside /relationships list view when selected.connectionCount === 0 — surfaces alias gaps (data exists, wrong name form like Wilks Brothers em-dash vs comma) vs ingest gaps (data genuinely missing, like Tisch Family with 0 candidates). Medium scope (one-click alias-merge) + Full scope (/data-gaps page) deferred — see next-session priorities."
+
+    - id: cc_p3_124
+      task: "Money Trail fix #1 — duplicate drag handler + initial-render layout (drag physics + viewBox + sim ticks)"
+      status: done
+      completed_date: 2026-04-27
+      added_adhoc: true
+      commit: "f100d252e"
+      notes: "Three bugs in one commit. (1) DUPLICATE DRAG HANDLER — page attached two drag behaviors back-to-back; the second overrode the first and had no isCenter guard; combined with centerNode.fx/fy anchor it caused oscillation that David described as 'satellites get heavier and heavier as you drag the main node.' Removed duplicate. (2) GRAPH NOT CENTERED — was: clientWidth/clientHeight returned 0 on first mount; fell back to hardcoded 900x600. Fixed: getBoundingClientRect + viewBox + preserveAspectRatio. (3) SATELLITES STUCK AT ORIGIN — sim.tick(50) ran BEFORE sim.on('tick') was registered. Per d3 docs tick() does NOT dispatch events, so 50 ticks happened silently. Removed sim.tick(50); pre-place satellites on a circle around center; call tickHandler() synchronously after listener attaches; sim.alpha(1).restart()."
+
+    - id: cc_p3_125
+      task: "Money Trail fix #2 — viewport cap + animation-loop cancellation"
+      status: done
+      completed_date: 2026-04-27
+      added_adhoc: true
+      commit: "53294e561"
+      notes: "Two follow-ups David caught immediately after #1. (a) Graph still rendered off-screen at bottom-right because parent flex chain didn't propagate height bound; SVG grew to ~4313px tall; centering at SVG-middle put the graph at y=2156 below viewport. Fix: container max-height: calc(100vh - 220px) + min-height: 500px on both the wrapper div and the SVG. (b) Flickering / browser stall — flow-dot animation used recursive requestAnimationFrame with no cancellation; every Fast Refresh / profile change spawned a new loop while old ones kept running, multiple loops competing for the same DOM elements caused flicker + eventual stall. Fix: animationFrameRef tracks latest ID, cancel on every buildGraph entry + on effect unmount. Single live loop at all times."
+
+    - id: cc_p3_126
+      task: "Capitol Trades dates fix #2 — tighten year bound to drop OCR-misread 2027 dates"
+      status: done
+      completed_date: 2026-04-27
+      added_adhoc: true
+      commit: "6b660c530"
+      notes: "Found 3 PDF/OCR-misread records dated 2027 in financial-disclosures-historical.json (DelBene 01/01/2027, Maloney 01/01/2027, Maloney 08/01/2027) — all attached to 2016 filings (impossible per STOCK Act ~30-day rule; PDFs clearly say 2017). My earlier filter allowed currentYear+1 = 2027; tightened MAX_VALID_TX_YEAR to currentYear (2026). David: 'Capitol trades shows trade in 2027 and n/a for Carolyn b maleoney. Also shows Suzan K. as a whale with N/A. Carolyn's pdf clearly says 2017. Susans says 2016 but they both go to 2027.' The 'Suzan as whale with N/A' likely correlated with one of the now-filtered 2027 records pulling unparseable amounts into the whale aggregation."
+
   david:
     - id: dc_p3_01
       task: "Legal sanity review — personally read top 20 verified profiles"
@@ -3185,6 +3353,8 @@ parser_guidance:
         Removed inline body dataview fields on Stratton and Miller. Fixed Mark Green central-thesis typo.
         Flag: Mark Green FEC/GovTrack auto-blocks show wrong politician data (govtrack-id 400159, 2010-2014 cycles). Pipeline correction needed.
 
+**Schedule last updated: 2026-04-27 evening (Code Claude — LIVE /BUGS BOARD + CAPITOL TRADES DATES + EDITOR BROWSE + SPONSORSHIP SIGNALS + FINANCE-CAPITAL + ORPHAN DIAGNOSTIC + MONEY TRAIL FIXES. 10 commits merged to v4 across the afternoon (25 total for the day across both sessions). cc_p3_117 /bugs live truth board (62da4d583) — bug-queue-parser filters noisy kinds + re-verifies source state at parse time + scheduled as daily dispatcher producer; 436 → 82 actionable items. cc_p3_118 systematic /bugs triage to zero (e7bea4ac5) — walked all 82 items in phase-2 / phase-2.75 / phase-6 exit-criteria, applied honest verdict (auto-verified vs accepted-with-reason); TOTAL OPEN 436 → 0. cc_p3_119 Capitol Trades dates fix #1 (20f6b7ac6) — fmtDate full 4-digit year + isValidTxDate filter at API. cc_p3_120 Editor browse panel (0cbc22afa) — type/readiness/A-Z/grid parity with /profile, +189 lines. cc_p3_121 /policies sponsorship signals + finance-capital bulk tag (f9657f143) — 'Who's pushing for it' section symmetric to blocking; 25 institutional Wall Street entities tagged finance-capital; student_debt empty table → 10 finance donors (Fidelity $6.5B). cc_p3_122 Restart button wrapper launch entry + clearer tooltip (6a863b6a4) — new ops-dev-wrapper-3333 entry runs scripts/ops-dev-loop.bat. cc_p3_123 /relationships orphan-candidates Light diagnostic (e09ea8fa7) — token-based scan over 236K edges; surfaces alias gaps vs ingest gaps. cc_p3_124 Money Trail fix #1 (f100d252e) — duplicate drag handler removed (was the 'satellites heavier and heavier' cause), viewBox + preserveAspectRatio for centering, sim.tick(50) removed in favor of pre-place + sim.alpha(1).restart(). cc_p3_125 Money Trail fix #2 (53294e561) — container max-height calc(100vh - 220px) caps the SVG so centering works in viewport; animationFrameRef cancels stale animation loops. cc_p3_126 Capitol Trades dates fix #2 (6b660c530) — 3 PDF/OCR-misread 2027 records dropped (Maloney 01/01/2027 + 08/01/2027 + DelBene 01/01/2027 — all in 2016 filings, structurally impossible). NEXT SESSION PRIORITIES: (1) STORIES IMPLEMENTATION (#9) — RECOMMENDED FRESH CHAT; design seed at content/Admin Notes/stories-as-data-design-thinking-2026-04-27.md; ~4 sessions. (2) Relationships orphan-merge Medium (~3-4hr) — one-click alias-merge action. (3) Capital_type Path B heuristic batch-tagger (~3-4hr) — covers 1,400 untagged entities; pushes coverage 17% → 60-80%. (4) /bugs auto-resolver Layer A (~1hr) — predicate-based; items declare auto-resolve-when or harness-check linkage. (5-9) Yesterday's known-issues backlog: capitol-trades freshness check (~1hr), calendar/sprint-schedule auto-wiring (~2hr), rulebook audit vs ADRs (~1-2hr), /api/connections cache (~1hr), Money Trail 'actually about money' rebuild (its own session). EDITORIAL LANE: 156 pending class-tag proposals (slightly smaller after today's finance-capital bulk), 13 reconciled rows pending review. POLLING REFRESH (#7) — David said 'not yet'; deferred until API enrichment unfreezes. CRITICAL CONTEXT: David asked to explain everything in laymens terms (memory feedback_laymens_terms.md). Worktree's ops/node_modules is a Windows junction → main repo's. Pre-push gate now flake-resilient with debug log + OOM detection. /bugs at 0 is delicate; daily dispatcher keeps it honest, anyone flipping a [x] back to [ ] in any phase exit-criteria will show up at /bugs within 24 hours.)**
+**Schedule last updated: 2026-04-27 (Code Claude — /POLICIES UX OVERHAUL + OPS-ONLY CONVENTION + 4 DEFERRED AUDIT ITEMS RESOLVED. 11 commits merged to v4 across one long arc. cc_p3_106 pre-push diagnostic logging + OOM detection (cba86ba2a) — past 3× SKIP_HOOKS=1 flakes were unreproducible at write; hook now dumps env + tsc output to /tmp/pre-push-debug-*.log on failure and detects V8 heap-exhaustion to surface OOM clearly. cc_p3_107 Session State rotation (503073c25) — 5,194 → 398 lines; 11 oldest HANDOFFs to monthly archive; closed yesterday's known issue #2. cc_p3_108 /policies UX phase 1 (03f2d48ca) — voice-calibrated headline gap + computed polling aggregate; passed-with-minority-support split (AIPAC at 47% reads 'Passed despite weak public support' not 'public will'); editorial_headline override; daily dispatcher producer @ 04:15 UTC. cc_p3_109 /policies UX phase 2 (e4d847703) — per-policy donors via topPolicyOppositionDonors() (housing now Las Vegas Sands $159M / Realtors $62M not generic WinSenate / SLF PAC); cross-policy 'blocks N of M' badges; year-grouped timeline with 🇺🇸/🏛️ federal/state badges + ✓/✗/⚠/🚫 outcome icons. cc_p3_110 ops-only marker convention (7874f0427) — single <!-- ops-only ... --> HTML comment hides content from public Quartz (CommonMark inert) but reveals as 🔒 callout in ops via revealOpsOnly preprocessor; caught + fixed two-comment leak mid-session via reader-text extraction. cc_p3_111 class-tags orphan fix (c0db04842) — 4 proposals pointing at merged/deleted entities silently failed to approve; cleaned up + defensive API auto-supersede instead of HTTP 500. cc_p3_112 policy-pages-integrity harness check (1a594e161) — paired with build-policy-pages producer; verifies headline + stat line + donor section + ops-only footer wrap; 45ms over 5 policies; surfaces to /attention. cc_p3_113 audit #14 closed (343dc9c70) — harness-json-smoke-test.cjs catches the 'parser swallows JSON parse error and reports findings_count=0' silent-fail; 17/17 pass; standalone diagnostic. cc_p3_114 audit #5 closed-as-obsolete (b839dfbd5) — gap closed by 2026-04-26 reconciler; all 341 tagged entities have full audit trail via existing fields. cc_p3_115 audit #10 closed (14da128dd) — savable views on /capitol-trades + /money-trail via SavedViewsBar component + saved-views.ts localStorage helper. cc_p3_116 audit #3 option A closed + #9 design note (7ccdeed3f) — ticker-sector map lifted to data/ticker-sector-map.json (157 tickers / 21 sectors); other 3 inline keyword→tag heuristics out of scope; companion stories-as-data design seed for fresh-chat scoping. NEXT SESSION OPTIONS: (1) Stories implementation #9 (RECOMMENDED FRESH CHAT — design note is the seed; ~4 sessions: schema + first producer / ops review / public render / harness). (2) /policies sponsorship signals (symmetric to who's blocking — bill sponsors, cosponsors, momentum). (3) Expand capital_type tagging (currently 16% — biggest leverage for cross-policy badges). (4) David's 'other things he wants to implement' conversation. (5-9) Yesterday's known-issues backlog: Money Trail drift physics verify on prod-mode build; capitol-trades freshness harness; calendar/sprint-schedule auto-wiring; rulebook audit; /api/connections cache. KNOWN DEFERRED EXPLICITLY: #7 polling refresh pipeline (David said 'not yet'); 156 pending class-tag proposals + 13 reconciled rows (David's editorial lane). VERIFICATION DONE BEFORE SAVE: both servers up (quartz-dev + ops-ask-3333; junction created at worktree's ops/node_modules → main repo's so worktree can run ops without duplicate install); /policies/housing on static-preview-worktree showed new headline + stat line + year-timeline + real-$ donors + methodology hidden + provenance-footer hidden + Class Tag Vocabulary wikilink visible; /money-trail and /capitol-trades both showed SavedViewsBar in screenshot. 15 commits total to v4 (11 above + commit on first session-save attempt + this one).)**
 **Schedule last updated: 2026-04-26 afternoon (Code Claude — OPS UI POLISH MARATHON. Continuation of harness-not-oneoff session into a long ops-pages tour. 19 commits merged to v4. David walked the running ops dashboard surface-by-surface; we addressed 6 original feedback items + every follow-on. cc_p3_100 block-name-drift taxonomy (727d69882) — KNOWN_OPTIONAL_BLOCKS in pipeline-janitor.cjs closes the 4 findings cc_p3_99 surfaced; harness self-audit 4→0. cc_p3_101 ops UI polish trio (877911830 + a850d186b + 6512b9299) — HarnessChip false-crash count fix (lint-convention exit 1 ≠ crashed; both shared component AND Dashboard's duplicated logic), Attention Queue ✎ edit button + clickable file path, '14-check harness' label fix. cc_p3_102 notes self-healing three-phase arc (fa81dc72b + 695f32d02 + b76f9660f + e649dced3) — react-markdown rendering on Notes & Queues; auto-resolve-when frontmatter regex; note-kind taxonomy migration (78 notes classified into ticket/report/rollup/reference/log) with kind-routed UI; harness-check links pulling findings_count from vault-audit-latest.json. cc_p3_103 editor live preview via local Quartz (124c3b987 + a70d5ef17 + 9fdaa8e7f) — managed dev server with toggle (start/stop, PID-tracked, log-tail visible during build, 15-min stuck threshold), iframe sticky once seen running, wikilinks navigate inside iframe (browse the site as a reader). cc_p3_104 Relationships + Money Trail (564c23c91 + 51f4c92d5 + 55fd64f51 + ea4472bab + aa09bd1e8 + 6d8e61100) — cap to 200 nodes by relevance score with click-to-recenter pattern, stub-node distinction (opacity 0.45 + cursor: help + 'no profile yet' tooltip), anti-drift physics (distanceMax 250 + faster decay + warmup ticks), center-node drag block via handler-level no-op (filter approach broke things — let mousedown bubble to pan handler). cc_p3_105 shared API caches + production-mode launch (b18b4d5e4 + 6512b9299 + fe3032cf8) — ops/src/lib/vault-cache.ts with 60s/30s TTLs for /api/vault and /api/vault-audit; all 7 page consumers migrated; new launch.json entry 'ops-dashboard-prod' for daily-use mode (build-once compile-ahead-of-time vs dev's on-demand compile pause). KNOWN ISSUES AT SESSION END: (a) Money Trail still visually drifts even after physics fix — may be rebuild gap (production build started before commit ea4472bab landed) or real bug specific to dynamic node radii. (b) Sidebar nav still feels slow per David — Dashboard fires 5+ independent fetches on mount; /api/connections is 11-call-site biggest other repeat offender. (c) The 'Money Trail = Relationships filtered' shallow-data critique — David noted Money Trail doesn't add dollar amounts/time slices/directionality vs Relationships; deeper rebuild deserves its own session. (d) Original 4-item harness coverage gaps NEVER STARTED: capitol-trades freshness check, calendar/sprint-schedule auto-wiring, rulebook audit. NEXT SESSION PRIORITIES (ordered): (1) verify Money Trail physics on a fresh prod-mode build; deeper investigation if still drifting. (2) capitol-trades freshness harness check + visible last-scraped timestamp. (3) calendar / sprint-schedule auto-wiring (currently 0 producers touch it). (4) rulebook audit vs current ADRs (especially 0017/0022/0024). (5) /api/connections cache. (6) Money Trail 'actually about money' rebuild as its own session. CRITICAL CONTEXT FOR INCOMING CHAT: David explicitly asked at the start of this session for everything to be explained in laymens form. Memory feedback_laymens_terms.md is in MEMORY.md — read it. Lead every change with plain-English 'what was wrong / what I did' before the technical detail.)**
 **Schedule last updated: 2026-04-26 (Code Claude — HARNESS-NOT-ONEOFF FIX. Late-evening session 2026-04-25 → 2026-04-26 UTC. 2 commits merged to v4 across ~30 turns. cc_p3_95 modernize pipeline-janitor EXPECTED_BLOCKS + enrichment-state awareness + 3-bucket categorized report (part of 1117ffdb2) — taxonomy was from API-pipeline era; live builders emit different block names; 448 missing-block findings were largely false positives. cc_p3_96 bootstrap rebuild 1,746 missing auto-blocks via builders (part of 1117ffdb2) — 59 fec-lifetime + 21 sponsored-bills + 1666 data-panel + 7 politician-only; bodies had drifted from canonical store because builders were never scheduled. cc_p3_97 schedule 8 new dispatcher producers (part of 1117ffdb2) — 6 builders + data-panel + janitor-write daily 03:00–04:30 in scripts/attention-dispatcher.cjs; --run-now end-to-end test of all 17 producers passed (16/17 ✓; 1 external Senate timeout). cc_p3_98 add checklist-na: data-panel opt-out (part of 1117ffdb2) — editor-controlled escape hatch following existing convention. cc_p3_99 harness self-audit meta-check (cb999e6a0) — scripts/harness-self-audit.cjs with 3 checks: unscheduled-builder, stalled-producer, block-name-drift. Wired into vault-audit.cjs (now 20 checks). First run surfaced 4 real block-name-drift findings (auto:executive-actions, auto:irs-990, auto:offshore-records, auto:data-panel — all emitted but absent from EXPECTED_BLOCKS; taxonomy deferred). 381 PROFILES DEMOTED ready→draft via accidental-but-correct daemon firing of pipeline-janitor.cjs --write (5:14 UTC; commit 1117ffdb2 captured the demotes); harness now 0 mechanical / 225 editorial-advisory. NEW MEMORY feedback_authority_implies_automation.md saved: when an ADR grants new write-authority, wire the dispatcher producer first, don't run the tool by hand. NEXT SESSION OPTIONS: (a) per-type EXPECTED_BLOCKS for the 4 surfaced block-name-drift cases (taxonomy decision per block — e.g. only nonprofit donors should require auto:irs-990); (b) build-voting-record-panels bioguide-join bug (24K votes load, 0 inject — likely ICPSC vs bioguide-id mapping); (c) financial-disclosures Senate timeout investigation (transient or scraper broken); (d) UNTESTED OPS FEATURES — /capitol-trades, /relationships, /money-trail, /editor, /ask, /signoff-queue, /signoff-launch, /system-health, /pipelines, /scripts; (e) extend harness-self-audit with check #4 (stale pipeline advice in non-enrichment-state-aware scripts) and check #5 (orphan ops page — page imports a non-existent API route). KNOWN DEFERRED: 225 editorial-advisory findings (story-grade missing 225, thesis missing 145, source-floor 14, legal-review 64, committee-cross-ref 36, both-sides 8 — Research Claude + David lanes). Final harness: 13/20 clean.)**
 

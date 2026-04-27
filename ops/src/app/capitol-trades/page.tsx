@@ -2,8 +2,28 @@
 
 import { useState, useEffect, useMemo, useCallback, useRef } from "react"
 import { PageHeader } from "@/components/PageHeader"
+import { SavedViewsBar } from "@/components/SavedViewsBar"
 
 type CryptoTier = 'direct' | 'etf' | 'company' | 'adjacent'
+
+// Filter snapshot stored + restored by SavedViewsBar (deferred audit
+// item #10). Includes everything that affects what David is looking at:
+// active tab, all search/filter inputs, table sort + active crypto tiers.
+// Excludes data state (trades, stats, ...) and ephemeral UI state (loading).
+interface CapitolTradesViewSnapshot {
+  tab: string
+  search: string
+  chamber: string
+  tradeType: string
+  owner: string
+  flowTicker: string
+  yearFilter: string
+  amountFilter: string
+  flagFilter: string
+  activeTiers: CryptoTier[]
+  sortField: string
+  sortDir: number
+}
 
 interface Trade {
   politician: string
@@ -82,7 +102,16 @@ function fmtK(n: number): string {
 function fmtDate(d: string): string {
   if (!d) return ""
   const parts = d.split("/")
-  if (parts.length === 3) return `${parts[0]}/${parts[1]}/${parts[2].slice(-2)}`
+  if (parts.length === 3) {
+    // Render full 4-digit year. Earlier version used parts[2].slice(-2) for
+    // compactness, but that hid PDF/OCR parse errors in the source — dates
+    // like "04/30/3031" or "09/19/2202" rendered as "04/30/31" and looked
+    // legitimate. Showing the real 4-digit year makes garbage dates visible
+    // as garbage. Pair with the year-sanity filter in the API route which
+    // flags out-of-range transactions.
+    const yearPad = parts[2].length === 4 ? parts[2] : parts[2].padStart(4, "0")
+    return `${parts[0]}/${parts[1]}/${yearPad}`
+  }
   return d
 }
 
@@ -302,6 +331,43 @@ export default function CapitolTradesPage() {
           warnWithinDays: 3,
         }}
       />
+
+      {/* Saved-views bar (deferred audit item #10). Snapshot covers tab,
+          all filters, table sort, and active crypto tiers. */}
+      <div className="mb-4">
+        <SavedViewsBar<CapitolTradesViewSnapshot>
+          pageKey="capitol-trades"
+          currentView={{
+            tab,
+            search,
+            chamber,
+            tradeType,
+            owner,
+            flowTicker,
+            yearFilter,
+            amountFilter,
+            flagFilter,
+            activeTiers: Array.from(activeTiers),
+            sortField,
+            sortDir,
+          }}
+          onLoadView={(v) => {
+            setTab(v.tab as typeof tab)
+            setSearch(v.search)
+            setChamber(v.chamber)
+            setTradeType(v.tradeType)
+            setOwner(v.owner)
+            setFlowTicker(v.flowTicker)
+            setYearFilter(v.yearFilter)
+            setAmountFilter(v.amountFilter)
+            setFlagFilter(v.flagFilter)
+            setActiveTiers(new Set(v.activeTiers))
+            setSortField(v.sortField)
+            setSortDir(v.sortDir)
+            setPage(0) // any filter change resets pagination
+          }}
+        />
+      </div>
 
       {/* Stats cards */}
       {stats && (

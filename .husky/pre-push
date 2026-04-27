@@ -22,6 +22,30 @@ if [ "$SKIP_HOOKS" = "1" ]; then
 fi
 
 echo "--- pre-push gate ---"
+
+# Diagnostic log — captures evidence when a gate flakes. Path is per-run.
+# Investigation handoff 2026-04-27: past flakes (3× SKIP_HOOKS=1 in main repo)
+# were unreproducible by 2026-04-27. Leading hypothesis: tsc OOM crash when
+# NODE_OPTIONS doesn't propagate from interactive shell to git's hook env.
+# Next time a gate fires, this log captures full tsc output + node version +
+# NODE_OPTIONS so we can confirm or rule out the hypothesis.
+PREPUSH_DEBUG_DIR="${TMPDIR:-/tmp}"
+PREPUSH_DEBUG_LOG="$PREPUSH_DEBUG_DIR/pre-push-debug-$(date +%Y%m%d-%H%M%S).log"
+prepush_dump_env() {
+  {
+    echo "=== pre-push debug dump ==="
+    echo "timestamp: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+    echo "pwd: $(pwd)"
+    echo "node: $(node --version 2>&1)"
+    echo "npx: $(npx --version 2>&1)"
+    echo "NODE_OPTIONS: ${NODE_OPTIONS:-<unset>}"
+    echo "PATH: $PATH"
+    echo "git branch: $(git rev-parse --abbrev-ref HEAD 2>&1)"
+    echo "git commit: $(git rev-parse HEAD 2>&1)"
+    echo "=== end env dump ==="
+  } >> "$PREPUSH_DEBUG_LOG"
+}
+
 echo "  -> tsc --noEmit (quartz only, ops excluded)"
 # Raise Node heap so tsc doesn't OOM when it resolves the 128MB
 # data/relationships-per-profile.json import (rebuilt by ci-prebuild
@@ -32,11 +56,25 @@ export NODE_OPTIONS="${NODE_OPTIONS:---max-old-space-size=8192}"
 TS_OUTPUT=$(npx tsc --noEmit 2>&1)
 TS_EXIT=$?
 if [ $TS_EXIT -ne 0 ]; then
+  prepush_dump_env
+  {
+    echo "=== quartz tsc failed (exit $TS_EXIT) ==="
+    echo "$TS_OUTPUT"
+    echo "=== end quartz tsc output ==="
+  } >> "$PREPUSH_DEBUG_LOG"
   echo ""
   echo "[x] pre-push blocked: TypeScript errors in quartz/"
   echo ""
   echo "$TS_OUTPUT" | tail -30
   echo ""
+  # OOM detection — if we see the V8 heap-exhaustion signature, surface it
+  # explicitly so the user knows it's a memory crash, not a code regression.
+  if printf "%s\n" "$TS_OUTPUT" | grep -qiE "(JavaScript heap out of memory|Ineffective mark-compacts|FATAL ERROR.*heap)"; then
+    echo "  [!] DETECTED: tsc crashed from out-of-memory, not from a real TS error."
+    echo "      This usually means NODE_OPTIONS didn't propagate. Try:"
+    echo "        NODE_OPTIONS='--max-old-space-size=12288' git push ..."
+  fi
+  echo "  Full debug log: $PREPUSH_DEBUG_LOG"
   echo "  Fix the errors above, or set SKIP_HOOKS=1 for an emergency bypass."
   echo "  NOTE: this gate became strict on 2026-04-15 (Pillar 4). The"
   echo "  baseline was 0 errors at that time. Any new error is a regression."
@@ -61,11 +99,27 @@ OPS_STRUCTURAL=$(printf "%s\n" "$OPS_TS_OUTPUT" | grep -E "error TS1[0-9]{3}([^0
 GREP_EXIT=$?
 set -e
 if [ -n "$OPS_STRUCTURAL" ] && [ "$GREP_EXIT" = "0" ]; then
+  prepush_dump_env
+  {
+    echo "=== ops JSX gate fired ==="
+    echo "matched lines (what triggered the block):"
+    printf "%s\n" "$OPS_STRUCTURAL"
+    echo ""
+    echo "full tsc output:"
+    printf "%s\n" "$OPS_TS_OUTPUT"
+    echo "=== end ops tsc output ==="
+  } >> "$PREPUSH_DEBUG_LOG"
   echo ""
   echo "[x] pre-push blocked: structural JSX errors in ops/"
   echo ""
   printf "%s\n" "$OPS_STRUCTURAL" | head -20
   echo ""
+  if printf "%s\n" "$OPS_TS_OUTPUT" | grep -qiE "(JavaScript heap out of memory|Ineffective mark-compacts|FATAL ERROR.*heap)"; then
+    echo "  [!] DETECTED: ops tsc crashed from out-of-memory, not from a real JSX error."
+    echo "      This usually means NODE_OPTIONS didn't propagate. Try:"
+    echo "        NODE_OPTIONS='--max-old-space-size=12288' git push ..."
+  fi
+  echo "  Full debug log: $PREPUSH_DEBUG_LOG"
   echo "  These are unbalanced tags / parse errors. Fix before pushing."
   echo "  Emergency bypass: SKIP_HOOKS=1 git push ..."
   exit 1

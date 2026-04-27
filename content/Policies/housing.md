@@ -13,13 +13,16 @@ class-analysis-tags:
   - privatization
   - anti-trust-defender
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-27
 generated-by: scripts/build-policy-pages.cjs
 editor-vouched: true
-urls-first-triaged: "2026-04-15"
 ---
 
 # Housing affordability and rent control
+
+**The public wants this. Congress doesn't.**
+
+64% support across 5 polls. 2 federal bills introduced. Stalled since 2019.
 
 ## What it would do
 
@@ -27,8 +30,10 @@ The United States currently has no federal rent control law. Several legislative
 
 ## The gap
 
-- **Public support:** _(polling data pending)_
+- **Public support:** 64% _(weighted across 4 pollsters; range 26–78%)_
+- **Last polled:** 2025-08-15
 - **Legislative status:** stalled
+- **Federal bills:** 2 introduced, 1 signed into law
 
 > No federal rent control law has been enacted in the last decade; the primary federal legislative vehicles have been supply-side and investment bills. Sen. Elizabeth Warren (D-MA) introduced the American Housing and Economic Mobility Act (S.1368 / H.R.2768) on April 23, 2021, which proposed $445 billion in Housing Trust Fund investment over ten years; the bill died in committee without a floor vote. At the state level, Oregon (2019), California (AB 1482, 2019), and Washington state (RCW 59.18.700, effective May 2025) enacted statewide rent stabilization laws, while Colorado passed just-cause eviction protections (H.B.1098) in 2024; federal anti-rent-control preemption efforts in Florida and Texas (2023) and Kentucky, Idaho, and Missouri (2024) moved in the opposite direction. The Affordable Housing Credit Improvement Act (H.R.2725/S.1515), sponsored by Rep. Darin LaHood (R-IL) and Sen. Todd Young (R-IN), ultimately had key provisions—a 12% Low-Income Housing Tax Credit allocation increase and a reduction of the bond financing threshold from 50% to 25%—signed into law as part of President Trump's budget reconciliation bill on July 4, 2025.
 
@@ -46,33 +51,69 @@ The United States currently has no federal rent control law. Several legislative
 
 Opposition comes from **rentier-capital, finance-capital** — the capital fractions with a direct material stake in the current policy.
 
-### Top opposition donors (cross-policy aggregate)
+### Top opposition donors
 
-| Donor | Total spend | Politicians funded |
-|---|---|---|
-| Goldman Sachs | — | 6 |
-| Western Growers Association | — | 3 |
-| Marc Andreessen & Horowitz | — | 2 |
-| Majority Forward | — | 1 |
-| California Farm Bureau Federation | — | 4 |
-| Bank of America | — | 2 |
-| National Republican Senatorial Committee | — | 1 |
-| Boeing | — | 4 |
-| Crypto Industry Bloc | — | 5 |
-| Google - Alphabet | — | 3 |
+| Donor | Capital type | Total spend | Politicians funded | Cross-policy |
+|---|---|---|---|---|
+| [[Fidelity Investments|Fidelity Investments]] | finance-capital | $6.5B | 137 | **4 of 5** |
+| [[Las Vegas Sands|Las Vegas Sands]] | rentier-capital | $159.3M | 29 | **2 of 5** |
+| [[Blackstone Group|Blackstone Group]] | finance-capital | $99.9M | 109 | **4 of 5** |
+| [[National Association of Realtors|National Association of Realtors]] | rentier-capital | $62.8M | 369 | **2 of 5** |
+| [[Elliott Management|Elliott Management]] | finance-capital | $38.3M | 39 | **4 of 5** |
+| [[Charles Schwab|Charles Schwab]] | finance-capital | $33.9M | 82 | **4 of 5** |
+| [[Citadel - Kenneth Griffin|Citadel - Kenneth Griffin]] | finance-capital | $22.7M | 61 | **4 of 5** |
+| [[Apollo Global Management|Apollo Global Management]] | finance-capital | $7.4M | 54 | **4 of 5** |
+| [[Goldman Sachs|Goldman Sachs]] | finance-capital | $6.1M | 133 | **4 of 5** |
+| [[Morgan Stanley|Morgan Stanley]] | finance-capital | $5.5M | 237 | **4 of 5** |
 
-_This list is computed from the full relationships.jsonl edge store and may shift as Phase 1 pipeline migrations populate more amount data. See [/who-blocks-us](/policies/who-blocks-us) for the cross-policy view._
+_See [[who-blocks-us|Who Blocks Us]] for the cross-policy enemy list. Donor coverage is partial today; expanding._
 
-## Legislative history
+<!-- ops-only
 
-- **H.R.2725 / S.1515: Affordable Housing Credit Improvement Act (LIHTC)** (2025-07-04) — passed
-- **Washington RCW 59.18.700: Statewide rent stabilization** (2025-05-01) — passed
-- **S.1368 / H.R.2768: American Housing and Economic Mobility Act** (2021-04-23) — stalled via chair_bottled_up
-- **California AB 1482: Statewide rent increase cap** (2019-10-08) — passed
+**Methodology:** Donors with a `capital_type` tag matching this policy's `opposition_capital_types` are pulled from `data/entities.jsonl`; political spend is aggregated from the full relationships edge store via the librarian (ADR-0024). The "Cross-policy" column counts how many of the 5 tracked policies each donor's capital_type matches. Coverage is partial and expanding: ~17% of entities tagged as of 2026-04-27 (296 of 1,710). `finance-capital` was bulk-tagged on 25 institutional banks / IBs / asset managers / PE / hedge funds the same day, which populated the previously-empty student_debt donor table.
+
+-->
+
+## Who's pushing for it
+
+**2 bills from 3 sponsors, 2021–2025.**
+
+| Sponsor | Bill | Date | Outcome |
+|---|---|---|---|
+| [[Darin LaHood]] | H.R.2725 / S.1515: Affordable Housing Credit Improvement Act (LIHTC) | 2025-07-04 | ✓ passed |
+| [[Todd Young]] | H.R.2725 / S.1515: Affordable Housing Credit Improvement Act (LIHTC) | 2025-07-04 | ✓ passed |
+| [[Elizabeth Warren]] | S.1368 / H.R.2768: American Housing and Economic Mobility Act | 2021-04-23 | ✗ stalled _via chair_bottled_up_ |
+
+<!-- ops-only
+
+**Methodology:** Sponsors pulled from events.jsonl rows where event.policy_id matches this policy AND event.sponsors[] is populated. One row per (sponsor, bill) pair — bills with multiple sponsors list each separately. Cosponsor counts are not yet wired (data not in events.jsonl); when added, will appear as a column. Empty-state disclosure when no bill sponsors are tracked (e.g. policies that moved through executive actions or court rulings rather than legislative bills).
+
+-->
+
+## Legislative timeline
+
+### 2025
+
+- ✓ 🇺🇸 federal · **H.R.2725 / S.1515: Affordable Housing Credit Improvement Act (LIHTC)** (2025-07-04) — passed
+- ✓ 🏛️ state · **Washington RCW 59.18.700: Statewide rent stabilization** (2025-05-01) — passed
+
+### 2021
+
+- ✗ 🇺🇸 federal · **S.1368 / H.R.2768: American Housing and Economic Mobility Act** (2021-04-23) — stalled _via chair_bottled_up_
+
+### 2019
+
+- ✓ 🏛️ state · **California AB 1482: Statewide rent increase cap** (2019-10-08) — passed
 
 ## Class analysis
 
-The opposition to this policy is structurally aligned with: **tax-avoidance-lobby, privatization, anti-trust-defender**. These are ideological function tags from the locked Class Tag Vocabulary ([[Class Tag Vocabulary]]) — each tag is a claim about a pattern in the underlying donor data, not an editorial assertion. Donors with these tags fund politicians who oppose the policy.
+The opposition to this policy is structurally aligned with: **tax-avoidance-lobby, privatization, anti-trust-defender**. _See [[Class Tag Vocabulary]] for definitions._
+
+<!-- ops-only
+
+**Methodology:** These are ideological function tags from the locked Class Tag Vocabulary. Each tag is a claim about a pattern in the underlying donor data, not an editorial assertion. Donors with these tags fund politicians who oppose the policy.
+
+-->
 
 ## Related
 
@@ -80,4 +121,8 @@ Relevant profiles in the Donor Map: _(placeholder — next Phase 2.75 sprint wil
 
 ---
 
+<!-- ops-only
+
 *Policy page generated from canonical data stores. Policy record: `pol_housing`. To edit the prose, update `data/policies.jsonl` via the policies store and re-run `scripts/build-policy-pages.cjs --write`. See [[Build Phases]] for the full Phase 2.75 plan.*
+
+-->

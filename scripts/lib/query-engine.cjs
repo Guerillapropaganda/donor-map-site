@@ -640,6 +640,78 @@ function createInMemoryEngine() {
       .slice(0, limit)
   }
 
+  /**
+   * topPolicyOppositionDonors — donors whose own capital_type tag matches
+   * one of policy.opposition_capital_types, ranked by total political spend.
+   *
+   * This is the per-policy version of topOppositionDonors. The cross-policy
+   * version aggregates donors funding politicians who took stances on bills;
+   * this version aggregates donors WHOSE OWN STRUCTURAL POSITION puts them
+   * in opposition to the policy. Direct, not derived through legislators.
+   *
+   * Coverage caveat: only entities with explicit capital_type are included
+   * (currently 271 of 1,710 = 16% coverage; finance-capital is not yet a
+   * tagged value). Policies whose opposition is entirely finance-capital
+   * (e.g. student_debt) will return empty until tagging expands. Callers
+   * should disclose coverage honestly.
+   */
+  function topPolicyOppositionDonors(policy, { limit = 10 } = {}) {
+    ensureLoaded()
+    const oppTypes = new Set(policy?.opposition_capital_types || [])
+    if (oppTypes.size === 0) return []
+
+    // Build set of canonical donor names whose entity has matching capital_type
+    const taggedDonors = new Map() // canonicalName -> { ent_id, name, capital_type, profile_path }
+    const allEntities = entitiesStore.loadEntities()
+    for (const ent of allEntities) {
+      const ct = ent.capital_type
+      if (!ct) continue
+      const types = Array.isArray(ct) ? ct : [ct]
+      const match = types.find((t) => oppTypes.has(t))
+      if (!match) continue
+      taggedDonors.set(canonical(ent.name), {
+        ent_id: ent.id,
+        name: ent.name,
+        capital_type: match,
+        profile_path: ent.profile_path,
+      })
+    }
+    if (taggedDonors.size === 0) return []
+
+    // Aggregate political spend across all monetary edges
+    const byDonor = new Map()
+    const edges = edgesStore.loadEdges().filter((e) => e.type === "monetary")
+    for (const edge of edges) {
+      const donorCanonical = canonical(edge.from)
+      if (!taggedDonors.has(donorCanonical)) continue
+      if (!byDonor.has(donorCanonical)) {
+        byDonor.set(donorCanonical, {
+          ...taggedDonors.get(donorCanonical),
+          total_spend: 0,
+          edge_count: 0,
+          politicians: new Set(),
+        })
+      }
+      const r = byDonor.get(donorCanonical)
+      r.total_spend += edge.amount || 0
+      r.edge_count += 1
+      r.politicians.add(canonical(edge.to))
+    }
+
+    return [...byDonor.values()]
+      .map((r) => ({
+        ent_id: r.ent_id,
+        name: r.name,
+        capital_type: r.capital_type,
+        profile_path: r.profile_path,
+        total_spend: r.total_spend,
+        edge_count: r.edge_count,
+        politicians_count: r.politicians.size,
+      }))
+      .sort((a, b) => b.total_spend - a.total_spend)
+      .slice(0, limit)
+  }
+
   // ─── Cost limits (security hardening) ──────────────────────────
   //
   // Prevents abuse of the query engine via unbounded scans.
@@ -825,6 +897,7 @@ function createInMemoryEngine() {
     count,
     describe,
     topOppositionDonors,
+    topPolicyOppositionDonors,
     crossPartyDonors,
     timingProximity,
     clear: clearAll,

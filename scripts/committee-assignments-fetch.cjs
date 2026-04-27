@@ -90,72 +90,22 @@ const COMMITTEE_SECTOR_MAP = {
 };
 
 // ─── Ticker-to-Sector mapping ────────────────────────────────
-// Major tickers mapped to sectors for conflict matching
+// Loaded from data/ticker-sector-map.json — lifted from inline JS map
+// on 2026-04-27 (deferred audit item #3 option A). Edit the JSON file
+// to add/change tickers; no code change needed. Loader is forgiving:
+// if the JSON is missing or malformed, falls back to an empty map and
+// the script proceeds (committee→sector matching just won't have ticker
+// data, which is the same as having an empty inline map).
 
-const TICKER_SECTORS = {
-  // Defense & Aerospace
-  LMT: 'defense', RTX: 'defense', NOC: 'defense', GD: 'defense', BA: 'defense',
-  HII: 'defense', LHX: 'defense', LDOS: 'defense', BAH: 'defense',
-  PLTR: 'defense', PANW: 'cybersecurity', CRWD: 'cybersecurity',
-
-  // Energy & Oil
-  XOM: 'energy', CVX: 'energy', COP: 'energy', EOG: 'energy', SLB: 'energy',
-  MPC: 'energy', VLO: 'energy', PSX: 'energy', HES: 'energy', OXY: 'energy',
-  HAL: 'energy', DVN: 'energy', FANG: 'energy', APA: 'energy',
-  NEE: 'utilities', DUK: 'utilities', SO: 'utilities', D: 'utilities',
-  AEP: 'utilities', EXC: 'utilities', SRE: 'utilities', PCG: 'utilities',
-
-  // Banking & Finance
-  JPM: 'banking', BAC: 'banking', WFC: 'banking', C: 'banking', GS: 'banking',
-  MS: 'banking', USB: 'banking', PNC: 'banking', TFC: 'banking', COF: 'banking',
-  SCHW: 'finance', BLK: 'finance', BX: 'finance', KKR: 'finance', APO: 'finance',
-  ICE: 'finance', CME: 'finance', NDAQ: 'finance', SPGI: 'finance',
-  V: 'fintech', MA: 'fintech', AXP: 'fintech', PYPL: 'fintech', SQ: 'fintech',
-
-  // Insurance
-  BRK: 'insurance', 'BRK.B': 'insurance', 'BRK.A': 'insurance',
-  UNH: 'insurance', CI: 'insurance', ELV: 'insurance', HUM: 'insurance',
-  MET: 'insurance', PRU: 'insurance', AIG: 'insurance', ALL: 'insurance',
-
-  // Healthcare & Pharma
-  JNJ: 'healthcare', PFE: 'pharma', MRK: 'pharma', ABBV: 'pharma',
-  LLY: 'pharma', BMY: 'pharma', AMGN: 'pharma', GILD: 'pharma',
-  BIIB: 'biotech', MRNA: 'biotech', REGN: 'biotech', VRTX: 'biotech',
-  TMO: 'healthcare', ABT: 'healthcare', DHR: 'healthcare', MDT: 'healthcare',
-  HCA: 'healthcare', CVS: 'healthcare', MCK: 'healthcare', CAH: 'healthcare',
-  NVO: 'pharma',
-
-  // Tech
-  AAPL: 'tech', MSFT: 'tech', GOOGL: 'tech', GOOG: 'tech', META: 'tech',
-  AMZN: 'tech', NVDA: 'tech', TSLA: 'tech', AMD: 'tech', INTC: 'tech',
-  CRM: 'tech', ORCL: 'tech', ADBE: 'tech', NFLX: 'tech', SNOW: 'tech',
-  NOW: 'tech', SHOP: 'tech', UBER: 'tech', LYFT: 'tech', ABNB: 'tech',
-  COIN: 'crypto', MARA: 'crypto', RIOT: 'crypto', MSTR: 'crypto',
-
-  // Telecom & Media
-  T: 'telecom', VZ: 'telecom', TMUS: 'telecom', CMCSA: 'telecom',
-  DIS: 'media', WBD: 'media', PARA: 'media', NWSA: 'media', FOX: 'media',
-
-  // Transport
-  UNP: 'transport', CSX: 'transport', NSC: 'transport', UAL: 'transport',
-  DAL: 'transport', LUV: 'transport', AAL: 'transport', FDX: 'transport',
-  UPS: 'transport',
-
-  // Agriculture & Food
-  ADM: 'agriculture', BG: 'agriculture', DE: 'agriculture', CAT: 'agriculture',
-  TSN: 'food', KO: 'food', PEP: 'food', GIS: 'food', K: 'food',
-  MCD: 'food', SBUX: 'food', YUM: 'food',
-
-  // Real Estate
-  AMT: 'real-estate', PLD: 'real-estate', CCI: 'real-estate', SPG: 'real-estate',
-  O: 'real-estate', WELL: 'real-estate', DLR: 'real-estate',
-
-  // Mining
-  NEM: 'mining', FCX: 'mining', ALB: 'mining',
-
-  // Construction & Infrastructure
-  VMC: 'construction', MLM: 'construction', SHW: 'construction',
-};
+let TICKER_SECTORS = {};
+try {
+  // path was already required at top of file — reuse it
+  const tickerMapPath = path.join(__dirname, '..', 'data', 'ticker-sector-map.json');
+  const raw = require(tickerMapPath);
+  TICKER_SECTORS = (raw && raw.tickers) ? raw.tickers : raw;
+} catch (e) {
+  console.warn('[committee-assignments-fetch] could not load data/ticker-sector-map.json: ' + e.message + ' — proceeding with empty ticker map');
+}
 
 // ─── Fetch logic ─────────────────────────────────────────────
 

@@ -144,16 +144,27 @@ export async function PATCH(req: NextRequest) {
       return NextResponse.json({ error: `proposal ${entityId} not found` }, { status: 404 })
     }
 
-    // If approved or edited, write the approved tags onto the entity record
+    // If approved or edited, write the approved tags onto the entity record.
+    // Entity-not-found case: this happens when an entity got merged or deleted
+    // (typically during a librarian dedup pass) but the proposal record still
+    // points at the old id. Rather than leaving the proposal in a confusing
+    // half-applied state (status=approved, but no entity got tagged), we
+    // auto-flip it to `superseded` with a clear reason. The heuristic will
+    // re-propose against the surviving entity on its next run.
     if (status === "approved" || status === "edited") {
       const ok = applyApprovedTagsToEntity(entityId, updated.tags)
       if (!ok) {
+        const superseded = updateProposal(entityId, {
+          status: "superseded",
+          reject_reason: `Entity ${entityId} not found in entities.jsonl (likely merged/deleted in a recent librarian cleanup). Auto-superseded — the heuristic will re-propose against the surviving entity on its next run.`,
+        })
         return NextResponse.json(
           {
-            error: `proposal updated but entity ${entityId} not found in entities.jsonl`,
-            proposal: updated,
+            warning: "orphan_proposal_auto_superseded",
+            message: `Proposal pointed at entity ${entityId}, which is no longer in entities.jsonl. Marked as superseded so it stops appearing in your pending queue.`,
+            proposal: superseded,
           },
-          { status: 500 },
+          { status: 200 },
         )
       }
     }
