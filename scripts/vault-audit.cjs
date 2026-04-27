@@ -184,6 +184,14 @@ const CHECKS = [
     queue: { bucket: 'compounding', leverage: 2, cost_min: 10 },
   },
   {
+    name: 'story-pages-integrity',
+    description: 'Auto-detected story candidates (data/stories.jsonl): broken wikilinks, stale both-sides patterns (counterparty no longer in donors+opposes after edit), duplicate subject+counterparty pairs. Writes integrity_status flags so /stories surfaces warnings.',
+    cmd: ['node', 'scripts/story-pages-integrity-check.cjs', '--json', '--write'],
+    parse: parseStoryPagesIntegrity,
+    timeout_ms: 60000,  // walks content/ to build profile index
+    queue: { bucket: 'compounding', leverage: 2, cost_min: 5 },
+  },
+  {
     name: 'frontmatter-schema',
     description: 'Frontmatter schema violations per ADR-0023 (universal/type-required/proposed-required/retired)',
     cmd: ['node', 'scripts/frontmatter-schema-validator.cjs', '--json'],
@@ -533,6 +541,18 @@ function parsePolicyPagesIntegrity(stdout, _stderr, _exit) {
     return {
       findings_count: j.findings_count || 0,
       notes: j.notes || `${j.policies_scanned || 0} policies scanned`,
+    };
+  } catch {
+    return { findings_count: 0, notes: '(json parse failed)' };
+  }
+}
+
+function parseStoryPagesIntegrity(stdout, _stderr, _exit) {
+  try {
+    const j = JSON.parse(stdout);
+    return {
+      findings_count: j.findings_count || 0,
+      notes: j.notes || `${j.stories_scanned || 0} stories scanned`,
     };
   } catch {
     return { findings_count: 0, notes: '(json parse failed)' };
