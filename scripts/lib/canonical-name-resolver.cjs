@@ -145,14 +145,26 @@ function buildResolver() {
   // 3. Backfill from fec-committee-registry: each committee aliases to its
   //    vault-profile entity (or the candidate's entity, if vault_profile
   //    is null but the committee links to a candidate via candidate_ids).
+  //
+  // Resolution preference (matches TS librarian's "path-having wins"):
+  //   a) entity whose profile_path matches entry.vault_profile (the
+  //      candidate's politician entity — preferred, has profile)
+  //   b) entity matched by fec_committee_id in step 1 (might be a
+  //      committee-shaped donor entity with profile_path:null)
+  //   c) skip — no entity to alias to
+  //
+  // Without preference (a), aliases like "JOHN JAMES FOR CONGRESS, INC."
+  // would resolve to the committee stub instead of the candidate.
+  const entitiesByProfilePath = new Map()
+  for (const e of entities) {
+    if (e.profile_path) entitiesByProfilePath.set(e.profile_path, e)
+  }
   for (const [committeeId, entry] of Object.entries(fecRegistry)) {
-    let entity = byFecCommittee.get(committeeId) || null
-    if (!entity && entry.vault_profile) {
-      // Match an entity by profile_path
-      for (const e of entities) {
-        if (e.profile_path === entry.vault_profile) { entity = e; break }
-      }
+    let entity = null
+    if (entry.vault_profile) {
+      entity = entitiesByProfilePath.get(entry.vault_profile) || null
     }
+    if (!entity) entity = byFecCommittee.get(committeeId) || null
     if (!entity) continue
     if (entry.fec_name) register(entry.fec_name, entity)
     if (Array.isArray(entry.aliases)) for (const a of entry.aliases) register(a, entity)
