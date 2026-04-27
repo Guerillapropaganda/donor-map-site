@@ -1,6 +1,7 @@
 "use client"
 
 import { useEffect, useState } from "react"
+import { PageHeader } from "@/components/PageHeader"
 
 interface RuleDoc {
   name: string
@@ -99,21 +100,11 @@ export default function DocsPage() {
 
   return (
     <div className="p-6 max-w-6xl mx-auto">
-      <div className="flex items-center justify-between mb-4">
-        <div>
-          <h1
-            className="text-lg font-bold tracking-wider"
-            style={{ color: "var(--color-steel)" }}
-          >
-            Reference
-          </h1>
-          <p className="text-[10px] text-[var(--color-text-dim)] mt-1">
-            System docs + scripts reference. Read-only view of the documents
-            both Claudes follow every session, plus plain-English explanations
-            of every automation script.
-          </p>
-        </div>
-      </div>
+      <PageHeader
+        title="Reference"
+        whatThisDoes="Read-only view of the documents both Claudes follow every session — Vault Rules, ADRs, build phases, profile template. Paired with the Scripts catalog (linked below) covering every automation script in the repo, explained in plain English."
+        action="Click a doc tab below to load it. For automation script reference, jump to the Scripts catalog tab. Both Claudes read these every session — they're the source of truth for project conventions."
+      />
 
       {/* Sibling-page tab — Reference covers both system docs (this page)
           and the scripts catalog (/scripts). Linked here so they share

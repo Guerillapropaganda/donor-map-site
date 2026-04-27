@@ -3,6 +3,7 @@
 import { useState } from "react"
 import { TEMPLATES, generateFilePath, generateContent } from "@/lib/templates"
 import type { ProfileTemplate } from "@/lib/templates"
+import { PageHeader } from "@/components/PageHeader"
 
 export default function PublisherPage() {
   const [selectedTemplate, setSelectedTemplate] = useState<ProfileTemplate | null>(null)
@@ -57,13 +58,11 @@ export default function PublisherPage() {
 
   return (
     <div>
-      {/* Header */}
-      <div className="mb-6">
-        <h1 className="text-lg font-bold text-[var(--color-text)]">Content Publisher</h1>
-        <p className="text-[10px] text-[var(--color-text-dim)]">
-          Create new profiles from templates — correct folder, naming, and frontmatter automatically
-        </p>
-      </div>
+      <PageHeader
+        title="Content Publisher"
+        whatThisDoes="Create new vault profiles from templates — politicians, donors, corporations, think tanks, etc. Templates auto-generate the correct folder path, file naming convention, and required frontmatter so the new profile lands in the right place with valid schema from minute one."
+        action="Pick a template card → fill the basics (name, slug, type-specific fields) → preview → save. Saves to content/<correct-folder>/<correct-name>.md and applies template-specified content_readiness."
+      />
 
       {/* Template picker */}
       {!selectedTemplate ? (

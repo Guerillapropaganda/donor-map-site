@@ -5,6 +5,7 @@ import { EnrichmentPanel } from "@/components/EnrichmentPanel"
 import { PipelineRunHistory } from "@/components/PipelineRunHistory"
 import { ProfileEnrich } from "@/components/ProfileEnrich"
 import { EnrichmentHistory } from "@/components/EnrichmentHistory"
+import { PageHeader } from "@/components/PageHeader"
 import { EnrichmentLog } from "@/components/EnrichmentLog"
 import { PIPELINE_REGISTRY, type PipelineStatus } from "@/lib/pipeline-registry"
 import HarnessChip from "@/components/HarnessChip"
@@ -34,29 +35,17 @@ export default function PipelinesPage() {
 
   return (
     <div>
-      {/* Header */}
-      <div className="flex items-center justify-between mb-6">
-        <div>
-          <h1 className="text-lg font-bold text-[var(--color-text)]">Pipeline Control</h1>
-          <p className="text-[10px] text-[var(--color-text-dim)]">
-            Trigger enrichment pipelines and monitor runs
-          </p>
-        </div>
-        <div className="flex items-center gap-2">
-          {lastTrigger && (
-            <div className="text-[10px] text-[var(--color-green)] bg-[var(--color-green)]/10 border border-[var(--color-green)]/20 rounded-lg px-3 py-1.5">
-              Triggered <strong>{lastTrigger.pipeline}</strong> at {lastTrigger.time.toLocaleTimeString()}
-            </div>
-          )}
-          {/* Harness freshness — per ops-harness-audit-2026-04-24
-              follow-up #3. /pipelines shows health-class signals
-              (pipeline grid, enrichment log) so the ambient harness
-              chip belongs here too. Note: the underlying data sources
-              (/api/pipeline-health via git log, /api/enrichment-log,
-              etc.) are already live — no frontmatter stamp drift. The
-              chip is for harness-state visibility only. */}
-          <HarnessChip />
-        </div>
+      <PageHeader
+        title="Pipeline Control"
+        whatThisDoes="Trigger enrichment pipelines (FEC, IRS 990, USASpending, etc.) and monitor recent runs. Shows per-pipeline health derived from git log signals — last successful run, error frequency, drift signals."
+        rightNow={lastTrigger ? `Last triggered ${lastTrigger.pipeline} at ${lastTrigger.time.toLocaleTimeString()}.` : "API pipelines are PAUSED in CSV-only phase (per Rule 3). RSS Intelligence + Auto-Connection Engine remain enabled."}
+        action="Click a pipeline card to trigger it manually. Enrichment Log shows recent activity. Pipeline Run History expands to per-run detail with error tail."
+      />
+      <div className="flex items-center justify-end mb-6 gap-2">
+        {/* Harness freshness chip — per ops-harness-audit-2026-04-24
+            follow-up #3. /pipelines shows health-class signals (pipeline
+            grid, enrichment log) so the ambient chip belongs here too. */}
+        <HarnessChip />
       </div>
 
       {/* Paused banner — shown while API pipelines are disabled. */}

@@ -2,6 +2,7 @@
 
 import Link from "next/link"
 import { useState } from "react"
+import { PageHeader } from "@/components/PageHeader"
 
 /**
  * Scripts documentation page — plain-English explanations of every
@@ -910,14 +911,11 @@ export default function ScriptsPage() {
           <span className="text-[var(--color-text)]">Scripts</span>
         </div>
 
-        {/* Header */}
-        <div className="mb-4">
-          <h1 className="text-2xl font-bold mb-2">Scripts Reference</h1>
-          <p className="text-[12px] text-[var(--color-text-dim)]">
-            Every automation script in the vault, explained in plain English.
-            Less relying on &quot;asking Claude what does X do&quot; — reference this page instead.
-          </p>
-        </div>
+        <PageHeader
+          title="Scripts Catalog"
+          whatThisDoes={`Every automation script in the vault, explained in plain English. ${SCRIPTS.length} scripts documented. Less "ask Claude what does X do" — reference this page instead.`}
+          action="Filter by purpose group at top. Click a script for usage examples + run frequency + side effects. Switch to System Docs tab below for vault rules and ADRs."
+        />
 
         {/* Sibling-page tab — paired with /docs under the Reference
             sidebar slot. */}
