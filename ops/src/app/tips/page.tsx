@@ -1,6 +1,7 @@
 "use client"
 
 import { useState, useEffect } from "react"
+import { PageHeader } from "@/components/PageHeader"
 
 interface Tip {
   id: string
@@ -89,16 +90,17 @@ export default function TipsPage() {
 
   return (
     <div className="max-w-4xl mx-auto">
-      {/* Header */}
-      <div className="flex items-center justify-between mb-6">
-        <div>
-          <h1 className="text-lg font-bold tracking-wider text-[var(--color-text)]">
-            PUBLIC TIPS
-          </h1>
-          <p className="text-[11px] text-[var(--color-text-dim)] mt-1">
-            Tips submitted by site visitors on profile pages
-          </p>
-        </div>
+      <PageHeader
+        title="Public Tips"
+        whatThisDoes="Tips submitted by site visitors on profile pages — corrections, anonymous leads, links, suggested investigations. New tips arrive via the public Tip form (Cloudflare Turnstile gated)."
+        rightNow={
+          <>
+            <strong>{counts.new}</strong> new · <strong>{counts.reviewed}</strong> reviewed · <strong>{counts.actioned}</strong> actioned · <strong>{counts.dismissed}</strong> dismissed
+          </>
+        }
+        action="Read each tip, decide: actioned (turned into vault edit) / reviewed (noted, no action) / dismissed (spam or off-topic). New tips sit at the top in amber until reviewed."
+      />
+      <div className="flex items-center justify-end mb-6">
         <div className="flex items-center gap-2">
           <span
             className="text-[10px] font-bold px-2 py-1 rounded"

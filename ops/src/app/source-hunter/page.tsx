@@ -1,6 +1,7 @@
 "use client"
 
 import { useState } from "react"
+import { PageHeader } from "@/components/PageHeader"
 
 interface SourceResult {
   source: string
@@ -97,13 +98,11 @@ export default function SourceHunterPage() {
 
   return (
     <div>
-      {/* Header */}
-      <div className="mb-6">
-        <h1 className="text-lg font-bold text-[var(--color-text)]">Source Hunter</h1>
-        <p className="text-[10px] text-[var(--color-text-dim)]">
-          Search government databases for Tier 1 sources on any entity
-        </p>
-      </div>
+      <PageHeader
+        title="Source Hunter"
+        whatThisDoes="Search government databases (FEC, IRS 990, USASpending, SEC EDGAR, ProPublica Nonprofit Explorer) for Tier 1 sources on any entity. Returns hits grouped by source type so you can pick the cleanest cite to add to a profile."
+        action="Type an entity name and submit. Each hit shows source name + URL + tier. Add to entities.jsonl manually after verifying — don't auto-add."
+      />
 
       {/* Search bar */}
       <div className="flex gap-3 mb-6">

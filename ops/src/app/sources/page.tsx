@@ -16,6 +16,7 @@
  */
 
 import { useState, useEffect, useMemo, useCallback } from "react"
+import { PageHeader } from "@/components/PageHeader"
 
 type SourceStatus =
   | "unverified"
@@ -204,12 +205,12 @@ export default function SourcesPage() {
 
   return (
     <div style={{ padding: "1.5rem", fontFamily: "system-ui, sans-serif", color: "#e5e7eb", maxWidth: "1400px", margin: "0 auto" }}>
-      <header style={{ marginBottom: "1.5rem" }}>
-        <h1 style={{ margin: 0, fontSize: "1.75rem", color: "#f3f4f6" }}>Source Registry</h1>
-        <p style={{ margin: "0.25rem 0 0", color: "#9ca3af", fontSize: "0.9rem" }}>
-          Phase 1 source review — triage flagged citations from the fingerprint pass.
-        </p>
-      </header>
+      <PageHeader
+        title="Source Registry"
+        whatThisDoes="Triage every flagged source citation in the vault — dead links, broken redirects, low-tier domains, deprecated providers. URL editing is Editor-only (per Vault Rules § URL Policy); this page is your manual triage workflow."
+        rightNow={data ? `${data.total.toLocaleString()} sources indexed · ${data.filtered.toLocaleString()} match current filters.` : "loading…"}
+        action="Filter by status / tier / source-type / host. Click a row to inspect or update its status. Don't auto-fix URLs — flag dead ones for manual review."
+      />
 
       {/* Status summary */}
       {data && (
