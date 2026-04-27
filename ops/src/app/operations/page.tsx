@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useCallback } from "react"
 import HarnessChip from "@/components/HarnessChip"
+import { PageHeader } from "@/components/PageHeader"
 
 // --- Types ---
 
@@ -257,14 +258,12 @@ export default function OperationsPage() {
 
   return (
     <div className="max-w-4xl mx-auto">
-      {/* Header */}
-      <div className="flex items-center justify-between mb-6">
-        <div>
-          <h1 className="text-lg font-bold">OPERATIONS</h1>
-          <p className="text-[11px] text-[var(--color-text-dim)]">
-            Security posture, costs, and service accounts
-          </p>
-        </div>
+      <PageHeader
+        title="Operations"
+        whatThisDoes="Security posture, infrastructure costs, and service accounts. The single page where you check whether anything's leaking budget, whether keys are expiring, and which third-party services are auth'd against your stack."
+        action="Each section card has its own status. Re-run any audit via the chip in its top-right. The harness freshness indicator at the top of this page tells you whether the broader vault state is alive (so a stale dispatcher doesn't mask issues here)."
+      />
+      <div className="flex items-center justify-end mb-6">
         <div className="flex items-center gap-3">
           {/* Ambient harness freshness chip — added per ops-harness-audit-2026-04-24
               follow-up #2. /operations is daily-use; surfacing the harness

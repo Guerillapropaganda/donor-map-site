@@ -22,6 +22,7 @@
  */
 
 import { useState, useEffect, useMemo, useCallback } from "react"
+import { PageHeader } from "@/components/PageHeader"
 
 interface VaultUrl {
   id: string
@@ -406,14 +407,13 @@ export default function UrlManagerPage() {
         </div>
       )}
 
-      {/* Header */}
-      <div className="flex items-center justify-between mb-4">
-        <div>
-          <h1 className="text-lg font-bold text-[var(--color-text)]">URL Manager</h1>
-          <p className="text-[10px] text-[var(--color-text-dim)]">
-            {urls.length} active / {completed.length} completed / {urls.length + completed.length} total
-          </p>
-        </div>
+      <PageHeader
+        title="URL Manager"
+        whatThisDoes="Manual triage workflow for vault URLs — verify, archive (strikethrough for dead links), or replace. Per Vault Rules § URL Policy: URL fixing is Editor-only — neither Claude touches URLs. This is your surface."
+        rightNow={`${urls.length.toLocaleString()} active · ${completed.length.toLocaleString()} completed · ${(urls.length + completed.length).toLocaleString()} total`}
+        action="Pick an entry, mark its status (verified / archived / replaced). Save Changes button at top-right batches your overrides. Strikethrough archives dead links per Vault Rules."
+      />
+      <div className="flex items-center justify-end mb-4">
         <div className="flex gap-2">
           {hasChanges && (
             <button onClick={() => setShowConfirm(true)}

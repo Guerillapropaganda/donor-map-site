@@ -27,6 +27,7 @@
 
 import { useState, useEffect, useCallback, useRef } from "react"
 import HarnessChip from "@/components/HarnessChip"
+import { PageHeader } from "@/components/PageHeader"
 
 // ─── Vault audit harness (ADR-0021 Phase 2) ────────────────────────
 
@@ -288,13 +289,14 @@ export default function SystemHealthPage() {
 
   return (
     <div className="p-6 max-w-6xl mx-auto">
-      {/* Header */}
+      <PageHeader
+        title="System Health"
+        whatThisDoes="Visual inventory of every ops page + API route with live health status. Runs the ops-surface-audit + harness once per refresh and shows what's broken vs working at a glance. Open this once per session before diving into work."
+        rightNow={`Manifest generated ${new Date(manifest.generated_at).toLocaleString()}.`}
+        action="Each row is a surface or pipeline. Green = healthy, red = error. Click a row to expand its details. Re-run the audit with `node scripts/ops-surface-audit.cjs --write`."
+      />
       <div className="mb-6 flex items-start justify-between">
         <div>
-          <h1 className="text-3xl font-bold text-white mb-1">System Health</h1>
-          <p className="text-sm text-neutral-400">
-            Ops surface audit · Pillar 3 foundation work · ADR-0009
-          </p>
           <p className="text-xs text-neutral-500 mt-1">
             Manifest generated:{" "}
             {new Date(manifest.generated_at).toLocaleString()} · Run{" "}

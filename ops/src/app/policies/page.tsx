@@ -95,6 +95,149 @@ function readinessBadgeClass(readiness: string): string {
   }
 }
 
+// ─── 2026-04-26 redesign helpers ────────────────────────────────────
+
+function relativeDays(iso: string | null | undefined): string {
+  if (!iso) return "—"
+  const ms = Date.now() - new Date(iso).getTime()
+  if (Number.isNaN(ms) || ms < 0) return "—"
+  const days = Math.floor(ms / 86400000)
+  if (days === 0) return "today"
+  if (days === 1) return "yesterday"
+  if (days < 7) return `${days}d ago`
+  if (days < 30) return `${Math.floor(days / 7)}w ago`
+  if (days < 365) return `${Math.floor(days / 30)}mo ago`
+  return `${Math.floor(days / 365)}y ago`
+}
+
+function applyFilterSort(
+  policies: PolicyRow[],
+  filter: "all" | "verified" | "ready" | "live" | "legal",
+  sort: "default" | "last_updated" | "title" | "gate",
+): PolicyRow[] {
+  let out = policies
+  if (filter === "verified") out = out.filter((p) => p.content_readiness === "verified")
+  else if (filter === "ready") out = out.filter((p) => p.gate.ready && p.content_readiness !== "verified")
+  else if (filter === "live") out = out.filter((p) => p.is_public)
+  else if (filter === "legal") out = out.filter((p) => p.high_risk_editorial)
+  if (sort === "default") return out
+  const sorted = [...out]
+  if (sort === "last_updated") sorted.sort((a, b) => (b.last_updated || "").localeCompare(a.last_updated || ""))
+  else if (sort === "title") sorted.sort((a, b) => (a.title || "").localeCompare(b.title || ""))
+  else if (sort === "gate") sorted.sort((a, b) => Number(b.gate.ready) - Number(a.gate.ready))
+  return sorted
+}
+
+function FilterChip({
+  label,
+  count,
+  active,
+  onClick,
+  color,
+}: {
+  label: string
+  count: number
+  active: boolean
+  onClick: () => void
+  color?: "green" | "amber" | "red"
+}) {
+  const base = "px-3 py-1.5 text-xs rounded border transition-colors flex items-center gap-1.5"
+  const palette =
+    color === "green"
+      ? active
+        ? "bg-green-900/60 border-green-600 text-green-100"
+        : "bg-neutral-900 border-neutral-700 text-neutral-300 hover:border-green-700/60 hover:text-green-300"
+      : color === "amber"
+      ? active
+        ? "bg-amber-900/60 border-amber-600 text-amber-100"
+        : "bg-neutral-900 border-neutral-700 text-neutral-300 hover:border-amber-700/60 hover:text-amber-300"
+      : color === "red"
+      ? active
+        ? "bg-red-900/60 border-red-600 text-red-100"
+        : "bg-neutral-900 border-neutral-700 text-neutral-300 hover:border-red-700/60 hover:text-red-300"
+      : active
+      ? "bg-neutral-700 border-neutral-500 text-neutral-100"
+      : "bg-neutral-900 border-neutral-700 text-neutral-300 hover:border-neutral-500"
+  return (
+    <button onClick={onClick} className={`${base} ${palette}`}>
+      <span>{label}</span>
+      <span className="font-mono font-bold">{count}</span>
+    </button>
+  )
+}
+
+function PolicySteps({
+  contentReadiness,
+  gateReady,
+  isPublic,
+}: {
+  contentReadiness: string
+  gateReady: boolean
+  isPublic: boolean
+}) {
+  // Step 0: Draft (always reached if record exists)
+  // Step 1: Ready — content_readiness === "ready" OR "verified" OR gate.ready
+  // Step 2: Verified — content_readiness === "verified"
+  // Step 3: Live — is_public
+  const verified = contentReadiness === "verified"
+  const ready = verified || contentReadiness === "ready" || gateReady
+  const steps: { label: string; done: boolean; current: boolean }[] = [
+    { label: "Draft", done: true, current: !ready },
+    { label: "Ready", done: ready, current: ready && !verified },
+    { label: "Verified", done: verified, current: verified && !isPublic },
+    { label: "Live", done: isPublic, current: isPublic },
+  ]
+  return (
+    <div className="flex items-center gap-1">
+      {steps.map((s, i) => (
+        <div key={s.label} className="flex items-center gap-1">
+          <div
+            className={`flex items-center gap-1.5 px-2 py-0.5 rounded text-[10px] font-mono ${
+              s.current
+                ? "bg-amber-500 text-black font-bold"
+                : s.done
+                ? "bg-green-900/60 text-green-200"
+                : "bg-neutral-800 text-neutral-500"
+            }`}
+          >
+            <span
+              className={`w-1.5 h-1.5 rounded-full ${
+                s.current ? "bg-black" : s.done ? "bg-green-400" : "bg-neutral-600"
+              }`}
+            />
+            {s.label}
+          </div>
+          {i < steps.length - 1 && (
+            <span className={`text-[10px] ${steps[i + 1].done ? "text-green-700" : "text-neutral-700"}`}>
+              →
+            </span>
+          )}
+        </div>
+      ))}
+    </div>
+  )
+}
+
+function StatCell({
+  value,
+  label,
+  hint,
+}: {
+  value: number | string
+  label: string
+  hint?: string
+}) {
+  return (
+    <div
+      className="bg-neutral-800/40 border border-neutral-800 rounded px-3 py-2"
+      title={hint}
+    >
+      <div className="text-lg font-mono font-bold text-white leading-tight">{value}</div>
+      <div className="text-[10px] uppercase tracking-wider text-neutral-500 mt-0.5">{label}</div>
+    </div>
+  )
+}
+
 // ─── Component ──────────────────────────────────────────────────────
 
 export default function PoliciesPage() {
@@ -111,6 +254,12 @@ export default function PoliciesPage() {
   // clicked once (needs a second click within 5s to actually fire)
   const [publishConfirming, setPublishConfirming] = useState<string | null>(null)
   const publishConfirmTimer = useRef<ReturnType<typeof setTimeout> | null>(null)
+
+  // ─── Filter + sort (2026-04-26 redesign) ─────────────────────────
+  // Filter chips at the top funnel down to one slice; sort dropdown
+  // changes the ordering within that slice.
+  const [filter, setFilter] = useState<"all" | "verified" | "ready" | "live" | "legal">("all")
+  const [sort, setSort] = useState<"default" | "last_updated" | "title" | "gate">("default")
 
   // Keyboard navigation — which card is "focused" for ↑/↓
   const [focusIdx, setFocusIdx] = useState(0)
@@ -394,13 +543,34 @@ export default function PoliciesPage() {
           'Click a row to expand its preview inline. "Ship it → Promote to verified" promotes a passing draft. "Publish to public" stages data/public-routes.json (you commit + push manually). Press ? for keyboard shortcuts.'
         }
       />
-      <div className="mb-6">
-        <button
-          onClick={() => setShowHelp((p) => !p)}
-          className="text-xs underline text-neutral-400 hover:text-white"
-        >
-          keyboard help (?)
-        </button>
+      {/* ─── Stat strip + filter chips ─────────────────────────────────
+          Click a chip to filter the list to that bucket. Each chip's
+          count is computed from the loaded policies array. */}
+      <div className="mb-4 flex flex-wrap gap-2 items-center">
+        <FilterChip label="all" count={policies.length} active={filter === "all"} onClick={() => setFilter("all")} />
+        <FilterChip label="verified" count={policies.filter((p) => p.content_readiness === "verified").length} active={filter === "verified"} onClick={() => setFilter("verified")} color="green" />
+        <FilterChip label="ready to promote" count={policies.filter((p) => p.gate.ready && p.content_readiness !== "verified").length} active={filter === "ready"} onClick={() => setFilter("ready")} color="amber" />
+        <FilterChip label="live" count={policies.filter((p) => p.is_public).length} active={filter === "live"} onClick={() => setFilter("live")} color="green" />
+        <FilterChip label="legal review" count={policies.filter((p) => p.high_risk_editorial).length} active={filter === "legal"} onClick={() => setFilter("legal")} color="red" />
+        <div className="ml-auto flex gap-2 items-center text-xs text-neutral-500">
+          <span>sort:</span>
+          <select
+            value={sort}
+            onChange={(e) => setSort(e.target.value as typeof sort)}
+            className="bg-neutral-900 border border-neutral-700 rounded px-2 py-1 text-xs text-neutral-300"
+          >
+            <option value="default">status order (drafts first)</option>
+            <option value="last_updated">last updated</option>
+            <option value="title">title A-Z</option>
+            <option value="gate">gate readiness</option>
+          </select>
+          <button
+            onClick={() => setShowHelp((p) => !p)}
+            className="underline text-neutral-400 hover:text-white ml-2"
+          >
+            keyboard help (?)
+          </button>
+        </div>
       </div>
 
       {/* Help overlay */}
@@ -420,7 +590,7 @@ export default function PoliciesPage() {
 
       {/* Policy list */}
       <div className="space-y-3">
-        {policies.map((p, idx) => {
+        {applyFilterSort(policies, filter, sort).map((p, idx) => {
           const isExpanded = expandedSlug === p.slug
           const isFocused = idx === focusIdx
           const canPromote = p.content_readiness !== "verified" && p.gate.ready
@@ -441,60 +611,79 @@ export default function PoliciesPage() {
             >
               {/* Summary row */}
               <div className="p-4">
-                <div className="flex items-start justify-between gap-4">
-                  <div className="flex-1 min-w-0">
-                    <div className="flex items-center gap-3 mb-1">
+                {/* Header: badges + slug + Preview button */}
+                <div className="flex items-start justify-between gap-4 mb-3">
+                  <div className="flex flex-wrap items-center gap-2">
+                    <span className="text-xs text-neutral-400 font-mono px-2 py-0.5 bg-neutral-800/60 rounded">
+                      {p.slug}
+                    </span>
+                    {p.category && (
+                      <span className="text-[10px] text-neutral-500 uppercase tracking-wider">
+                        {p.category}
+                      </span>
+                    )}
+                    {p.high_risk_editorial && (
+                      <span className="inline-block px-2 py-0.5 text-xs border border-red-700 bg-red-900/30 text-red-200 rounded">
+                        ⚠ legal review
+                      </span>
+                    )}
+                    {p.is_public && (
                       <span
-                        className={`inline-block px-2 py-0.5 text-xs border rounded ${readinessBadgeClass(p.content_readiness)}`}
+                        className="inline-block px-2 py-0.5 text-xs border border-green-700 bg-green-900/40 text-green-200 rounded"
+                        title="Currently in data/public-routes.json — live on thedonormap.org after the next deploy"
                       >
-                        {p.content_readiness}
+                        ● live
                       </span>
-                      <span className="text-xs text-neutral-500 font-mono">
-                        {p.slug}
-                      </span>
-                      {p.high_risk_editorial && (
-                        <span className="inline-block px-2 py-0.5 text-xs border border-red-700 bg-red-900/30 text-red-200 rounded">
-                          ⚠ legal review
-                        </span>
-                      )}
-                      {p.is_public && (
-                        <span
-                          className="inline-block px-2 py-0.5 text-xs border border-green-700 bg-green-900/40 text-green-200 rounded"
-                          title="Currently in data/public-routes.json — live on thedonormap.org after the next deploy"
-                        >
-                          ● live
-                        </span>
-                      )}
-                    </div>
-                    <div className="text-lg text-white font-semibold">
-                      {p.title}
-                    </div>
-                    <div className="text-xs text-neutral-400 mt-1 flex gap-4">
-                      <span>
-                        gate:{" "}
-                        {p.gate.ready ? (
-                          <span className="text-green-400">✓ ready</span>
-                        ) : (
-                          <span className="text-red-400">
-                            ✗ {p.gate.failures.length} blocker{p.gate.failures.length === 1 ? "" : "s"}
-                          </span>
-                        )}
-                      </span>
-                      <span>polls: {p.counts.polls}</span>
-                      <span>events: {p.counts.events}</span>
-                      <span>opp types: {p.counts.opposition_capital_types}</span>
-                    </div>
+                    )}
                   </div>
-                  <div className="flex gap-2 flex-shrink-0">
-                    <button
-                      onClick={(e) => {
-                        e.stopPropagation()
-                        togglePreview(p.slug)
-                      }}
-                      className="px-3 py-1.5 text-xs border border-neutral-700 text-neutral-200 hover:border-amber-500 hover:text-amber-400 rounded"
-                    >
-                      {isExpanded ? "Collapse ▴" : "Preview ▾"}
-                    </button>
+                  <button
+                    onClick={(e) => {
+                      e.stopPropagation()
+                      togglePreview(p.slug)
+                    }}
+                    className="px-3 py-1.5 text-xs border border-neutral-700 text-neutral-200 hover:border-amber-500 hover:text-amber-400 rounded flex-shrink-0"
+                  >
+                    {isExpanded ? "Collapse ▴" : "Preview ▾"}
+                  </button>
+                </div>
+
+                {/* Step indicator: Draft → Ready → Verified → Live */}
+                <PolicySteps
+                  contentReadiness={p.content_readiness}
+                  gateReady={p.gate.ready}
+                  isPublic={!!p.is_public}
+                />
+
+                {/* Title */}
+                <div className="text-base text-white font-semibold mt-3 mb-3">
+                  {p.title}
+                </div>
+
+                {/* 4-up stats grid */}
+                <div className="grid grid-cols-2 md:grid-cols-4 gap-2 mb-3">
+                  <StatCell value={p.counts.polls} label="polls" />
+                  <StatCell value={p.counts.events} label="events" />
+                  <StatCell value={p.counts.opposition_capital_types} label="opp types" hint="opposition capital types tagged" />
+                  <StatCell value={relativeDays(p.last_updated)} label="last updated" hint={p.last_updated} />
+                </div>
+
+                {/* Gate status — collapsed prose, prominent if blocking */}
+                {p.gate.ready ? (
+                  <div className="text-xs text-green-400 mb-2">✓ Publication gate ready</div>
+                ) : (
+                  <div className="bg-red-900/20 border border-red-900/60 rounded p-2 font-mono text-xs mb-2">
+                    <div className="text-red-300 font-bold mb-1">
+                      ✗ {p.gate.failures.length} publication gate blocker{p.gate.failures.length === 1 ? "" : "s"}
+                    </div>
+                    {p.gate.failures.map((f, i) => (
+                      <div key={i} className="text-red-200">· {f}</div>
+                    ))}
+                  </div>
+                )}
+
+                {/* Action row: promote / demote / publish */}
+                {(canPromote || canPublish || p.content_readiness === "verified") && (
+                  <div className="flex gap-2 mt-3 pt-3 border-t border-neutral-800">
                     {canPromote && (
                       <button
                         onClick={(e) => {
@@ -504,7 +693,7 @@ export default function PoliciesPage() {
                         className="px-3 py-1.5 text-xs border border-amber-700 bg-amber-900/30 text-amber-200 hover:bg-amber-900/60 rounded"
                         title="Press P when focused"
                       >
-                        Promote to verified
+                        Promote to verified →
                       </button>
                     )}
                     {p.content_readiness === "verified" && (
@@ -516,7 +705,7 @@ export default function PoliciesPage() {
                         className="px-3 py-1.5 text-xs border border-neutral-700 text-neutral-300 hover:border-neutral-500 rounded"
                         title="Roll back to draft"
                       >
-                        Demote
+                        ← Demote
                       </button>
                     )}
                     {canPublish && (
@@ -532,19 +721,9 @@ export default function PoliciesPage() {
                         }`}
                         title="Press U (twice) when focused"
                       >
-                        {isConfirmingPublish ? "Click again to confirm" : "Publish"}
+                        {isConfirmingPublish ? "Click again to confirm" : "Publish to public →"}
                       </button>
                     )}
-                  </div>
-                </div>
-
-                {/* Failure list if gate is blocked */}
-                {!p.gate.ready && p.gate.failures.length > 0 && (
-                  <div className="mt-3 bg-red-900/20 border border-red-900 rounded p-2 font-mono text-xs">
-                    <div className="text-red-300 font-bold mb-1">Publication gate blockers:</div>
-                    {p.gate.failures.map((f, i) => (
-                      <div key={i} className="text-red-200">· {f}</div>
-                    ))}
                   </div>
                 )}
               </div>

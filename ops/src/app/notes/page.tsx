@@ -3,6 +3,7 @@
 import { useState, useEffect } from "react"
 import ReactMarkdown from "react-markdown"
 import remarkGfm from "remark-gfm"
+import { PageHeader } from "@/components/PageHeader"
 import type { AdminNote, NoteKind } from "@/lib/notes"
 import {
   NOTE_TYPE_COLORS,
@@ -165,28 +166,22 @@ export default function NotesPage() {
 
   return (
     <div>
-      {/* Header */}
-      <div className="flex items-center justify-between mb-6">
-        <div>
-          <h1 className="text-lg font-bold text-[var(--color-text)]">Notes & Queues</h1>
-          <p className="text-[10px] text-[var(--color-text-dim)]">
-            {counts.open} open / {counts["in-progress"]} in progress / {counts.done} done
+      <PageHeader
+        title="Notes & Queues"
+        whatThisDoes="Editorial work-in-progress — admin notes, audit reports, and ongoing investigations. Notes are work orders for both Claudes; auto-healing reports get marked done as the underlying issues resolve."
+        rightNow={
+          <>
+            <strong>{counts.open}</strong> open · <strong>{counts["in-progress"]}</strong> in progress · <strong>{counts.done}</strong> done
             {reportResolved > 0 && (
-              <>
-                {" · "}
-                <span className="text-[var(--color-green)]">
-                  {reportResolved} report{reportResolved === 1 ? "" : "s"} auto-healed
-                </span>
-                {reportLive > 0 && (
-                  <span className="text-[var(--color-text-dim)]">
-                    {" "}
-                    · {reportLive} still showing findings
-                  </span>
-                )}
-              </>
+              <span style={{ color: "#22c55e" }}>
+                {" · "}{reportResolved} report{reportResolved === 1 ? "" : "s"} auto-healed
+              </span>
             )}
-          </p>
-        </div>
+          </>
+        }
+        action="Open a note to expand its body. Status pill (open / in-progress / done) controls the queue. Filter by kind / lane / status above."
+      />
+      <div className="flex items-center justify-end mb-6">
         <div className="flex gap-2">
           <button
             onClick={loadNotes}
