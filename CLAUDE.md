@@ -41,7 +41,7 @@ These are numbered, load-bearing, and cannot be silently violated. When a rule n
 
 **3. CSV-only phase (2026-04-24).** All scheduled API pipelines are **paused**. Enrichment runs via local CSV bulk scripts in `data/bulk/` processed through `scripts/ingest-*-bulk.cjs` (FEC, USASpending, IRS 990, and the other gov CSVs — see `content/CSV Data Sources.md` for the full catalog). Two GitHub Actions workflows remain enabled on `donor-map-engine`: **RSS Intelligence Pipeline** (scheduled, feeds `content/Events/Digests/`) and **Auto-Connection Engine** (manual-trigger only). Seven workflows were disabled 2026-04-24 to stop the private-repo Actions-minutes bleed that blocked all API enrichment from 2026-04-18 onward (see `data/enrichment-state.json` for the list + resume instructions). STOCK Act PTRs continue to run locally via `financial-disclosures-pipeline.cjs` (dispatcher-scheduled daily; unrelated to GitHub Actions).
 
-**4. AI translates, never generates.** Every factual claim must trace to a source record. AI explains, summarizes, synthesizes. AI never asserts a new fact.
+**4. AI translates, never generates.** Every factual claim must trace to a source record. AI explains, summarizes, synthesizes. AI never asserts a new fact. Stories (`data/stories.jsonl`) are narrative interpretations of relationship-graph patterns; they editorialize but do not assert facts. Every claim in a story traces back to a relationship edge or a `data/sources.jsonl` record. See "Stories vs Relationships" in the Reference section.
 
 ### Profile structure
 
@@ -166,6 +166,20 @@ git push origin v4        # triggers GitHub Pages deploy
 
 Deploy workflow: `.github/workflows/deploy.yml`. Pre-commit and pre-push gates must pass first.
 
+## Stories vs Relationships — what's the difference
+
+**Relationships** (`data/relationships.jsonl`, ~236K edges) are atomic facts: "A funded B," "A is married to B," "A opposed B." Each edge is one true thing. They answer **"what exists."** The librarian (ADR-0024) is the source of truth. The relationship graph is owned by the canonical store; profile frontmatter `donors:` / `opposes:` / `politicians-funded:` fields are read-caches derived from this graph (Rule 1).
+
+**Stories** (`data/stories.jsonl`) are narrative interpretations of *patterns* across multiple relationship edges. Example: "Fairshake PAC funds Cori Bush AND her opponents — that's a both-sides play." A story record consumes relationships as input, points at them via `linked_entities[]`, and adds editorial framing (severity, summary, state). They answer **"what's worth telling."**
+
+Stories never assert a new fact. Every claim in a story traces back to the relationship graph or a sources.jsonl record. The `contradiction-miner` reads pattern-shaped findings and writes story candidates; David triages them through `candidate → draft → ready → published` (or → archived as false-positive, which writes to `false-positive-log.jsonl` so the detector won't re-surface).
+
+Integrity checks differ in kind:
+- **Relationships** verify graph correctness (orphan edges, broken bidirectionality, alias collisions). Owned by the relationship-edge-sentinel and the `relationships-store`.
+- **Stories** verify narrative coherence (stale patterns where the underlying edges were edited away, duplicate subject+counterparty pairs, broken wikilinks). `story-pages-integrity-check.cjs` runs every 15 min via the harness dispatcher and writes flags onto each story record.
+
+Detectors that graduate to story-candidate producers SHOULD read the librarian, not profile frontmatter. The contradiction-miner currently reads frontmatter as a shortcut (legacy from before ADR-0024); rewriting it to read the librarian is tracked under ADR-0026.
+
 ## Content location
 
 - Politicians: `content/Politicians/{Party}/{Chamber}/{Name}/_Name Master Profile.md` + sub-notes in same folder
@@ -197,6 +211,7 @@ Load-bearing decisions that affect ongoing work. **Verified active ADRs:**
 - **ADR-0023** — Frontmatter Schema (stub; blocks ADR-0021 Phase 4 auto-fix triage)
 - **ADR-0024** — Unified Graph Engine (in-memory graph library at `lib/donor-map/`; one librarian for every read path. Accepted 2026-04-25, implementation deferred to subsequent sessions. Targets the structural class of bugs behind Fairshake-style mismappings, FEC-number drift, and bioguide collisions; also delivers thesis queries — `influenceMap`, `policyAlignment`, `donorContradictions` — as first-class operations for both normie narrative and journalist query modes.)
 - **ADR-0025** — Pipeline Janitor Mechanical-Demote Authority (carve-out from Rule 9: `pipeline-janitor.cjs --write` may demote on a closed set of mechanical issue kinds; advisory A+ findings still defer to editorial / `reclassify-readiness.cjs`)
+- **ADR-0026** — Stories as Narrative Layer (`data/stories.jsonl` editorializes relationship-graph patterns; never asserts facts; detectors should read the librarian, not frontmatter — rewrite tracked here. Schema, store, contradiction-miner graduation, ops UI, integrity harness check, Verify panel shipped 2026-04-27.)
 
 **ADRs pending verification** (see `content/Admin Notes/rule-sort-pass-2026-04-23.md`): 0004 (Policy Battles), 0014 (FEC Full Ingest), 0015 (Public Ask Backend), 0016 (Ask Labeled Breakdown), 0018 (Profile Rendering Architecture), 0019 (R2 Bulk Storage), 0020 (Enrichment Sprint Cadence). Each will be confirmed active, amended, or superseded in follow-up sessions.
 
