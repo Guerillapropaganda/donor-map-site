@@ -176,6 +176,14 @@ const CHECKS = [
     queue: { bucket: 'compounding', leverage: 2, cost_min: 5 },
   },
   {
+    name: 'policy-pages-integrity',
+    description: 'Auto-generated policy pages (build-policy-pages.cjs output): freshness, headline lead, stat line, donor section, ops-only footer wrap',
+    cmd: ['node', 'scripts/policy-pages-integrity-check.cjs', '--json'],
+    parse: parsePolicyPagesIntegrity,
+    timeout_ms: 30000,
+    queue: { bucket: 'compounding', leverage: 2, cost_min: 10 },
+  },
+  {
     name: 'frontmatter-schema',
     description: 'Frontmatter schema violations per ADR-0023 (universal/type-required/proposed-required/retired)',
     cmd: ['node', 'scripts/frontmatter-schema-validator.cjs', '--json'],
@@ -513,6 +521,18 @@ function parseFrontmatterSchema(stdout, _stderr, _exit) {
     return {
       findings_count: hard,
       notes: `${j.scanned} scanned, ${j.profiles_with_violations} with violations. ${hard} error(s) (universal/type-required/id/retired/unknown-type), ${soft} info (proposed-required backfill per ADR-0023 Phase C/D).`,
+    };
+  } catch {
+    return { findings_count: 0, notes: '(json parse failed)' };
+  }
+}
+
+function parsePolicyPagesIntegrity(stdout, _stderr, _exit) {
+  try {
+    const j = JSON.parse(stdout);
+    return {
+      findings_count: j.findings_count || 0,
+      notes: j.notes || `${j.policies_scanned || 0} policies scanned`,
     };
   } catch {
     return { findings_count: 0, notes: '(json parse failed)' };
