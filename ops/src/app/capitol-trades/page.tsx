@@ -102,7 +102,16 @@ function fmtK(n: number): string {
 function fmtDate(d: string): string {
   if (!d) return ""
   const parts = d.split("/")
-  if (parts.length === 3) return `${parts[0]}/${parts[1]}/${parts[2].slice(-2)}`
+  if (parts.length === 3) {
+    // Render full 4-digit year. Earlier version used parts[2].slice(-2) for
+    // compactness, but that hid PDF/OCR parse errors in the source — dates
+    // like "04/30/3031" or "09/19/2202" rendered as "04/30/31" and looked
+    // legitimate. Showing the real 4-digit year makes garbage dates visible
+    // as garbage. Pair with the year-sanity filter in the API route which
+    // flags out-of-range transactions.
+    const yearPad = parts[2].length === 4 ? parts[2] : parts[2].padStart(4, "0")
+    return `${parts[0]}/${parts[1]}/${yearPad}`
+  }
   return d
 }
 

@@ -143,6 +143,28 @@ interface Trade {
   isLateDisclosure: boolean
 }
 
+// Year sanity bounds for transactionDate. STOCK Act started 2012; the
+// first reasonable PTRs predate that by a year or two. Future-dated
+// trades shouldn't appear at all (you can't disclose a trade you
+// haven't made). Bounds 2010 to currentYear+1 catch the PDF/OCR
+// parse-error tail (e.g. 04/30/3031, 09/19/2202, 06/01/2067 — all
+// observed in financial-disclosures-historical.json on 2026-04-27).
+// Out-of-range trades get dropped at API time so they don't pollute
+// the table or the stats. If we ever want to surface them for
+// data-quality review, surface as a separate "PDF parse errors"
+// queue rather than mixing them into real trades.
+const MIN_VALID_TX_YEAR = 2010
+const MAX_VALID_TX_YEAR = new Date().getFullYear() + 1
+
+function isValidTxDate(dateStr: string): boolean {
+  if (!dateStr) return true // empty is allowed; just unknown
+  const parts = dateStr.split("/")
+  if (parts.length !== 3) return false
+  const y = parseInt(parts[2], 10)
+  if (isNaN(y)) return false
+  return y >= MIN_VALID_TX_YEAR && y <= MAX_VALID_TX_YEAR
+}
+
 function enrichTrade(trade: Trade): Trade {
   const crypto = trade.isCrypto || isCryptoTrade(trade.ticker, trade.asset)
   const info = crypto ? getCryptoInfo(trade.ticker, trade.asset) : null
@@ -190,7 +212,7 @@ function loadCurrentTrades(): Trade[] {
         }))
       }
     }
-    return trades
+    return trades.filter((t) => isValidTxDate(t.transactionDate))
   } catch {
     return []
   }
@@ -230,7 +252,7 @@ function loadHistoricalTrades(): Trade[] {
         }
       }
     }
-    return trades
+    return trades.filter((t) => isValidTxDate(t.transactionDate))
   } catch {
     return []
   }
@@ -270,7 +292,7 @@ function loadSenateTrades(): Trade[] {
         }
       }
     }
-    return trades
+    return trades.filter((t) => isValidTxDate(t.transactionDate))
   } catch {
     return []
   }
