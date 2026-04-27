@@ -2,6 +2,18 @@
 
 import { useState, useEffect, useRef, useCallback } from "react"
 import { PageHeader } from "@/components/PageHeader"
+import { SavedViewsBar } from "@/components/SavedViewsBar"
+
+// Filter snapshot saved + restored by SavedViewsBar. Keep this small — only
+// fields a user would meaningfully want to recall later. We deliberately
+// don't save `selected` as the full ProfileSummary (large, derivable);
+// instead we save the title and re-resolve from `profiles` on load.
+interface MoneyTrailViewSnapshot {
+  selectedTitle: string | null
+  search: string
+  connFilter: "all" | "money" | "contract" | "opposition"
+  maxNodes: number
+}
 import {
   forceSimulation, forceManyBody, forceCenter, forceLink, forceCollide, forceX, forceY,
   select, zoom as d3Zoom, zoomIdentity, drag as d3Drag,
@@ -395,6 +407,33 @@ export default function MoneyTrailPage() {
             label: "money graph",
             freshWithinDays: 1,
             warnWithinDays: 7,
+          }}
+        />
+      </div>
+      {/* Saved-views bar (deferred audit item #10). LocalStorage-backed; per machine. */}
+      <div className="px-4 pb-2">
+        <SavedViewsBar<MoneyTrailViewSnapshot>
+          pageKey="money-trail"
+          currentView={{
+            selectedTitle: selected?.title ?? null,
+            search,
+            connFilter,
+            maxNodes,
+          }}
+          onLoadView={(v) => {
+            setSearch(v.search)
+            setConnFilter(v.connFilter)
+            setMaxNodes(v.maxNodes)
+            // Resolve the selected profile by title (the snapshot stored
+            // just the title, not the full ProfileSummary). Profiles array
+            // may not be loaded yet on first render — the find() returns
+            // undefined and selected stays null, which is a fine null state.
+            if (v.selectedTitle) {
+              const target = profiles.find((p) => p.title === v.selectedTitle)
+              if (target) setSelected(target)
+            } else {
+              setSelected(null)
+            }
           }}
         />
       </div>
