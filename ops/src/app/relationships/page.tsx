@@ -54,6 +54,23 @@ export default function RelationshipsPage() {
   const [tab, setTab] = useState<"list" | "explorer" | "graph" | "suggestions">("list")
   const [search, setSearch] = useState("")
   const [selected, setSelected] = useState<ConnectedProfile | null>(null)
+
+  // Orphan-candidates diagnostic — when a selected profile has zero
+  // librarian connections, fetch candidate edges from relationships.jsonl
+  // that look LIKE they could be about this profile (matching tokens in
+  // either endpoint). Surfaces alias gaps (same entity, different name
+  // form) vs ingest gaps (data genuinely missing). Established 2026-04-27.
+  type OrphanCandidate = {
+    from: string; from_type: string; to: string; to_type: string;
+    type: string; amount: number | null; cycle: string | null;
+    source: string; matched_endpoint: "from" | "to"; relevance: number
+  }
+  type OrphanResponse = {
+    query: string; tokens: string[]; scanned: number; matched: number;
+    candidates: OrphanCandidate[]; note?: string
+  }
+  const [orphanCandidates, setOrphanCandidates] = useState<OrphanResponse | null>(null)
+  const [orphanLoading, setOrphanLoading] = useState(false)
   const [explorerPath, setExplorerPath] = useState<string[]>([])
   const [showDropdown, setShowDropdown] = useState(false)
 
@@ -330,6 +347,31 @@ export default function RelationshipsPage() {
   }, [])
 
   // D3 force simulation — runs when selected profile or filter changes
+  // Fetch orphan-candidates diagnostic when a connection-count=0 profile
+  // is selected. Light-version (read-only): surfaces edges from
+  // relationships.jsonl that LOOK like they should belong to this profile
+  // (matching tokens in either endpoint). Server-side scan over 236K+
+  // edges; ~1-2s cold. Cached per (selected.title) — re-fires on profile
+  // change. Empty result = ingest gap (data genuinely missing); non-empty
+  // = alias gap (data exists under different canonical name).
+  useEffect(() => {
+    if (!selected || selected.connectionCount > 0) {
+      setOrphanCandidates(null)
+      return
+    }
+    let cancelled = false
+    setOrphanLoading(true)
+    setOrphanCandidates(null)
+    fetch(`/api/relationships/orphan-candidates?title=${encodeURIComponent(selected.title)}`)
+      .then((r) => r.json())
+      .then((data: OrphanResponse) => {
+        if (!cancelled) setOrphanCandidates(data)
+      })
+      .catch(() => { /* fail silently — diagnostic is non-essential */ })
+      .finally(() => { if (!cancelled) setOrphanLoading(false) })
+    return () => { cancelled = true }
+  }, [selected])
+
   useEffect(() => {
     if (!selected || tab !== "graph" || !d3SvgRef.current) return
 
@@ -1496,6 +1538,80 @@ export default function RelationshipsPage() {
                 </div>
                 <button onClick={clearSelection} className="ml-auto text-[var(--color-text-dim)] hover:text-[var(--color-text)] text-xs px-2 py-1 rounded hover:bg-[var(--color-bg-hover)]">Clear</button>
               </div>
+
+              {/* Orphan-candidates diagnostic — only renders when this profile
+                  has zero librarian connections. Surfaces edges from
+                  relationships.jsonl that look like they could be about
+                  this profile (matching tokens in either endpoint). */}
+              {selected.connectionCount === 0 && (
+                <div className="mb-4 bg-[var(--color-bg)] border border-[var(--color-border)] rounded-lg p-4">
+                  <div className="flex items-center gap-2 mb-2">
+                    <span className="text-[10px] uppercase tracking-wider text-[var(--color-amber)] font-bold">
+                      🔍 Why no connections?
+                    </span>
+                    {orphanLoading && (
+                      <span className="text-[9px] text-[var(--color-text-dim)] animate-pulse">scanning 236K edges…</span>
+                    )}
+                  </div>
+                  <p className="text-[10px] text-[var(--color-text-dim)] mb-3">
+                    The librarian found 0 edges for this profile. This panel scans the full edge store
+                    for candidates whose endpoint names contain meaningful tokens from the profile title —
+                    surfaces alias gaps (data exists, wrong name form) vs ingest gaps (data missing).
+                  </p>
+                  {orphanCandidates && (
+                    <>
+                      <div className="text-[9px] text-[var(--color-text-dim)] mb-2 flex flex-wrap items-center gap-1">
+                        <span>Tokens used:</span>
+                        {orphanCandidates.tokens.map((t) => (
+                          <code key={t} className="px-1.5 py-0.5 bg-[var(--color-bg-card)] rounded">{t}</code>
+                        ))}
+                        <span>· Scanned {orphanCandidates.scanned.toLocaleString()} edges · Matched <strong>{orphanCandidates.matched}</strong></span>
+                      </div>
+                      {orphanCandidates.candidates.length === 0 ? (
+                        <div className="text-[10px] text-[var(--color-text-dim)] italic py-2">
+                          No candidate edges found. This is an <strong>ingest gap</strong> — the relationship data
+                          for this entity isn&apos;t in <code>relationships.jsonl</code> yet. Likely needs an
+                          FEC/USASpending/etc. ingest run, or the entity name itself doesn&apos;t appear in
+                          any source data.
+                        </div>
+                      ) : (
+                        <>
+                          <div className="text-[10px] text-[var(--color-text)] mb-2">
+                            Found {orphanCandidates.matched} candidates. If many of these look like they ARE
+                            about this profile but use a different name (e.g. comma vs em-dash, suffix
+                            differences), that&apos;s an <strong>alias gap</strong> — the librarian needs an
+                            alias added. (Future Medium scope: one-click alias-merge.)
+                          </div>
+                          <div className="space-y-1 max-h-64 overflow-y-auto pr-1">
+                            {orphanCandidates.candidates.map((c, i) => (
+                              <div key={i} className="flex items-center gap-2 text-[10px] py-1 border-b border-[var(--color-border)]/30 last:border-0">
+                                <span className="text-[8px] text-[var(--color-text-dim)] w-6 text-right tabular-nums">
+                                  ×{c.relevance}
+                                </span>
+                                <span className={`truncate ${c.matched_endpoint === "from" ? "font-bold text-[var(--color-amber)]" : "text-[var(--color-text)]"}`}>
+                                  {c.from}
+                                </span>
+                                <span className="text-[var(--color-text-dim)]">→</span>
+                                <span className={`truncate ${c.matched_endpoint === "to" ? "font-bold text-[var(--color-amber)]" : "text-[var(--color-text)]"}`}>
+                                  {c.to}
+                                </span>
+                                {c.amount ? (
+                                  <span className="text-[var(--color-green)] font-mono ml-auto whitespace-nowrap">
+                                    ${c.amount.toLocaleString()}
+                                  </span>
+                                ) : (
+                                  <span className="ml-auto text-[var(--color-text-dim)] text-[8px]">no $</span>
+                                )}
+                                <span className="text-[8px] text-[var(--color-text-dim)] whitespace-nowrap">{c.source}</span>
+                              </div>
+                            ))}
+                          </div>
+                        </>
+                      )}
+                    </>
+                  )}
+                </div>
+              )}
 
               {(["related", "donors", "opposes", "stories"] as const).map((rt) => {
                 const items = selected[rt]
