@@ -542,6 +542,26 @@ export default function PoliciesPage() {
         action={
           'Click a row to expand its preview inline. "Ship it → Promote to verified" promotes a passing draft. "Publish to public" stages data/public-routes.json (you commit + push manually). Press ? for keyboard shortcuts.'
         }
+        freshness={[
+          {
+            paths: ["data/policies.jsonl"],
+            label: "policy records",
+            freshWithinDays: 7,
+            warnWithinDays: 30,
+          },
+          {
+            paths: ["data/polling.jsonl"],
+            label: "polling data",
+            freshWithinDays: 14,
+            warnWithinDays: 60,
+          },
+          {
+            paths: ["data/events.jsonl"],
+            label: "events",
+            freshWithinDays: 1,
+            warnWithinDays: 7,
+          },
+        ]}
       />
       {/* ─── Stat strip + filter chips ─────────────────────────────────
           Click a chip to filter the list to that bucket. Each chip's

@@ -103,6 +103,14 @@ function _persist() {
   const tmp = ENTITIES_FILE + ".tmp"
   fs.writeFileSync(tmp, lines.join("\n") + (lines.length ? "\n" : ""), "utf-8")
   fs.renameSync(tmp, ENTITIES_FILE)
+  // ADR-0024 cache-correctness: bump the canonical mutation stamp so
+  // long-running readers (ops librarian singleton, /api/connections
+  // cache) refresh on next call.
+  try {
+    require("./mutation-stamp.cjs").markMutated("entities-store._persist")
+  } catch {
+    /* skip — best-effort */
+  }
 }
 
 function _mintId() {

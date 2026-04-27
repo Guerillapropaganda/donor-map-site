@@ -406,6 +406,12 @@ export default function ClassTagsReviewPage() {
         action={
           "Press A approve · R reject · E edit · ←/→ navigate · Esc clear. Filter to status=conflict for the highest-priority disagreements."
         }
+        freshness={{
+          paths: ["data/entity-class-tags-proposed.jsonl", "data/entities.jsonl"],
+          label: "proposals",
+          freshWithinDays: 7,
+          warnWithinDays: 30,
+        }}
       />
       {/* Hidden kbd legend retained for keyboard-shortcut tooltips */}
       <div style={{ display: "none" }}>

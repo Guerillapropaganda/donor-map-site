@@ -52,6 +52,7 @@ import {
   type Connection as LibConnection,
   type ConnectedProfile as LibConnectedProfile,
 } from "@/lib/donor-map-connections-build"
+import { isStaleSince } from "@/lib/mutation-stamp"
 
 // Re-export the legacy types under their original names so any external
 // consumer importing them from this route still resolves.
@@ -79,6 +80,15 @@ export async function GET() {
     ((globalThis as Record<string, unknown>).__connectionsInvalidated as number) || 0
   if (inv > lastInvalidation) {
     lastInvalidation = inv
+    cache = null
+    clearEdgesCache()
+  }
+
+  // ADR-0024 cache-correctness: if any pipeline / mutation route has
+  // touched the canonical stores since we built our cached payload,
+  // drop the cache. Catches background pipeline writes that don't
+  // come through /api/relationships POST/DELETE.
+  if (cache && isStaleSince(cache.timestamp)) {
     cache = null
     clearEdgesCache()
   }

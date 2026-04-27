@@ -210,6 +210,12 @@ export default function SourcesPage() {
         whatThisDoes="Triage every flagged source citation in the vault — dead links, broken redirects, low-tier domains, deprecated providers. URL editing is Editor-only (per Vault Rules § URL Policy); this page is your manual triage workflow."
         rightNow={data ? `${data.total.toLocaleString()} sources indexed · ${data.filtered.toLocaleString()} match current filters.` : "loading…"}
         action="Filter by status / tier / source-type / host. Click a row to inspect or update its status. Don't auto-fix URLs — flag dead ones for manual review."
+        freshness={{
+          paths: ["data/sources.jsonl"],
+          label: "source registry",
+          freshWithinDays: 7,
+          warnWithinDays: 30,
+        }}
       />
 
       {/* Status summary */}

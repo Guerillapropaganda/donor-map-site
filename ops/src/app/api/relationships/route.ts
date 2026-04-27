@@ -37,6 +37,8 @@
 import { NextResponse } from "next/server"
 import matter from "gray-matter"
 import { readFile, writeAndPush } from "@/lib/local-write"
+import * as fs from "fs"
+import * as path from "path"
 import {
   buildEdge,
   upsertEdge,
@@ -301,5 +303,30 @@ function invalidateCache() {
     ;(globalThis as Record<string, unknown>).__connectionsInvalidated = Date.now()
   } catch {
     /* skip */
+  }
+  // ADR-0024 cache-correctness: bump the on-disk mutation stamp so the
+  // librarian singleton + any other route's in-memory cache also drops.
+  // The globalThis flag above only invalidates within THIS process; the
+  // stamp file is the cross-process signal pipelines also use.
+  try {
+    let dir = process.cwd()
+    for (let i = 0; i < 6; i++) {
+      const candidate = path.join(dir, "data")
+      if (fs.existsSync(path.join(candidate, "relationships.jsonl"))) {
+        const stamp = path.join(candidate, ".last-mutation")
+        const ts = Date.now()
+        fs.writeFileSync(
+          stamp,
+          JSON.stringify({ ts, iso: new Date(ts).toISOString(), reason: "/api/relationships POST/DELETE", pid: process.pid }) + "\n",
+          "utf-8",
+        )
+        return
+      }
+      const parent = path.dirname(dir)
+      if (parent === dir) break
+      dir = parent
+    }
+  } catch {
+    /* skip — best-effort */
   }
 }

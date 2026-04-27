@@ -291,6 +291,16 @@ export default function CapitolTradesPage() {
           </>
         ) : "loading…"}
         action="Filter chips below pivot the table by chamber / party / late-disclosure / whale trade. Click a politician name to drill into their trade history; click a ticker to see all politicians who traded it."
+        freshness={{
+          paths: [
+            "data/financial-disclosures.json",
+            "data/financial-disclosures-historical.json",
+            "data/senate-disclosures-historical.json",
+          ],
+          label: "STOCK Act PTRs",
+          freshWithinDays: 1,
+          warnWithinDays: 3,
+        }}
       />
 
       {/* Stats cards */}

@@ -1,6 +1,7 @@
 "use client"
 
 import React from "react"
+import { FreshnessChip, type FreshnessChipProps } from "./FreshnessChip"
 
 /**
  * PageHeader — uniform "what this does / right now / action" banner
@@ -27,9 +28,18 @@ export interface PageHeaderProps {
   rightNow?: React.ReactNode | null
   action: string
   href?: { label: string; url: string }
+  /**
+   * Optional data-freshness chip(s). Pass as either a single
+   * FreshnessChipProps or an array of them. Each renders one chip in
+   * the header's right-edge stack so a page can surface "polling: 12d
+   * ago", "edges: 1h ago", "STOCK Act PTRs: 6h ago" all at once.
+   */
+  freshness?: FreshnessChipProps | FreshnessChipProps[]
 }
 
-export function PageHeader({ title, whatThisDoes, rightNow, action, href }: PageHeaderProps) {
+export function PageHeader({ title, whatThisDoes, rightNow, action, href, freshness }: PageHeaderProps) {
+  const freshnessList = freshness == null ? [] : Array.isArray(freshness) ? freshness : [freshness]
+  const hasRightSlot = !!href || freshnessList.length > 0
   return (
     <div
       style={{
@@ -39,7 +49,7 @@ export function PageHeader({ title, whatThisDoes, rightNow, action, href }: Page
         border: "1px solid #1f2937",
         borderRadius: "0.5rem",
         display: "grid",
-        gridTemplateColumns: href ? "1fr auto" : "1fr",
+        gridTemplateColumns: hasRightSlot ? "1fr auto" : "1fr",
         gap: "1rem",
         alignItems: "start",
       }}
@@ -87,21 +97,36 @@ export function PageHeader({ title, whatThisDoes, rightNow, action, href }: Page
         </div>
       </div>
 
-      {href && (
-        <a
-          href={href.url}
-          style={{
-            color: "#9ca3af",
-            fontSize: "0.75rem",
-            textDecoration: "none",
-            whiteSpace: "nowrap",
-            padding: "0.35rem 0.65rem",
-            border: "1px solid #374151",
-            borderRadius: "0.25rem",
-          }}
-        >
-          {href.label} ↗
-        </a>
+      {hasRightSlot && (
+        <div style={{ display: "flex", flexDirection: "column", gap: "0.5rem", alignItems: "flex-end" }}>
+          {freshnessList.map((f, i) => (
+            <div key={i}>
+              <FreshnessChip
+                paths={f.paths}
+                label={f.label}
+                freshWithinDays={f.freshWithinDays}
+                warnWithinDays={f.warnWithinDays}
+                style={f.style}
+              />
+            </div>
+          ))}
+          {href && (
+            <a
+              href={href.url}
+              style={{
+                color: "#9ca3af",
+                fontSize: "0.75rem",
+                textDecoration: "none",
+                whiteSpace: "nowrap",
+                padding: "0.35rem 0.65rem",
+                border: "1px solid #374151",
+                borderRadius: "0.25rem",
+              }}
+            >
+              {href.label} ↗
+            </a>
+          )}
+        </div>
       )}
     </div>
   )

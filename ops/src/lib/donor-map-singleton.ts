@@ -19,6 +19,7 @@
 import * as fs from "node:fs"
 import * as path from "node:path"
 import { Graph } from "../../../lib/donor-map"
+import { isStaleSince } from "./mutation-stamp"
 
 /** Walk up from cwd until we find a directory containing data/relationships.jsonl,
  * or fall back to two levels up (the repo root when cwd is ops/). */
@@ -49,6 +50,16 @@ declare global {
  * treat that as "skip the diff this time" rather than crashing.
  */
 export function getGraph(): Graph | null {
+  // ADR-0024 cache-correctness: if the canonical stores have been
+  // mutated since we cached this Graph, drop the cache so the next
+  // call rebuilds. Cheap (one fs.readFileSync of ~70 bytes) and only
+  // fires when something actually wrote to a canonical store.
+  if (
+    globalThis.__donor_map_graph &&
+    isStaleSince(globalThis.__donor_map_load_started_at ?? 0)
+  ) {
+    globalThis.__donor_map_graph = undefined
+  }
   if (globalThis.__donor_map_graph) return globalThis.__donor_map_graph
   try {
     globalThis.__donor_map_load_started_at = Date.now()
