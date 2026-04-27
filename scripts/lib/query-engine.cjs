@@ -73,6 +73,7 @@ const entitiesStore = require("./entities-store.cjs")
 const eventsStore = require("./events-store.cjs")
 const sourcesStore = require("./sources-store.cjs")
 const txnTypes = require("./fec-txn-types.cjs")
+const { createCanonicalNameResolver } = require("./canonical-name-resolver.cjs")
 const fs = require("fs")
 const path = require("path")
 
@@ -148,6 +149,17 @@ function loadPositions() {
 function createInMemoryEngine() {
   // Lazy-load all stores on first use, cache in closure
   let _loaded = false
+  // ADR-0024: canonical-name resolver for alias unification in
+  // aggregators (topOppositionDonors, crossPartyDonors). Lazy.
+  let _canonicalResolver = null
+  function getCanonicalResolver() {
+    if (!_canonicalResolver) _canonicalResolver = createCanonicalNameResolver()
+    return _canonicalResolver
+  }
+  function canonical(name) {
+    return getCanonicalResolver().resolve(name)
+  }
+
   function ensureLoaded() {
     if (_loaded) return
     edgesStore.loadEdges()
@@ -162,6 +174,8 @@ function createInMemoryEngine() {
     entitiesStore.clearEntitiesCache()
     eventsStore.clearEventsCache()
     sourcesStore.clearSourcesCache()
+    if (_canonicalResolver) _canonicalResolver.clear()
+    _canonicalResolver = null
     _billsCache = null
     _eaCache = null
     _offshoreCache = null
@@ -448,7 +462,10 @@ function createInMemoryEngine() {
 
     for (const e of all) {
       if (cutoff && e.date && e.date < cutoff) continue
-      const donor = e.from
+      // ADR-0024: bucket by canonical donor name so aliases like
+      // "AIPAC" / "AIPAC PAC" / "DSCC" / "Democratic Senatorial Campaign
+      // Committee" collapse onto one row.
+      const donor = canonical(e.from)
       if (!byDonor.has(donor)) byDonor.set(donor, { D: 0, R: 0, total: 0 })
       const recipientParty = getPartyFor(e.to)
       // ie-oppose attribution: opposing a Republican is effectively
@@ -486,7 +503,9 @@ function createInMemoryEngine() {
       .sort((a, b) => b.total - a.total)
   }
 
-  // Helper: best-effort party lookup from entity record
+  // Helper: best-effort party lookup from entity record. ADR-0024:
+  // also try canonical resolution so an edge with `to: "BERNARD SANDERS"`
+  // (FEC bulk casing) finds Bernie Sanders's party via alias unification.
   let _partyCache = null
   function getPartyFor(politicianName) {
     if (!_partyCache) {
@@ -502,7 +521,16 @@ function createInMemoryEngine() {
         }
       }
     }
-    return _partyCache.get(politicianName) || null
+    const direct = _partyCache.get(politicianName)
+    if (direct) return direct
+    // Fallback: resolve through canonical-name map and retry. Catches
+    // FEC casing variants and committee names that unify onto a candidate.
+    const c = canonical(politicianName)
+    if (c && c !== politicianName) {
+      const viaCanonical = _partyCache.get(c)
+      if (viaCanonical) return viaCanonical
+    }
+    return null
   }
 
   /**
@@ -560,17 +588,26 @@ function createInMemoryEngine() {
       events = events.filter((e) => (e.sector_affected || []).includes(sector_affected))
     }
 
+    // ADR-0024: canonicalize event stakeholders so an edge whose `to`
+    // is "BERNARD SANDERS" matches an event listing "Bernie Sanders" as
+    // stakeholder (and vice versa).
     const politiciansInEvents = new Set()
     for (const ev of events) {
-      for (const s of ev.stakeholders || []) politiciansInEvents.add(s)
+      for (const s of ev.stakeholders || []) {
+        politiciansInEvents.add(canonical(s))
+      }
     }
 
     const byDonor = new Map()
     const edges = edgesStore.loadEdges().filter((e) => e.type === "monetary")
     for (const edge of edges) {
-      if (!politiciansInEvents.has(edge.to)) continue
-      if (!byDonor.has(edge.from)) {
-        byDonor.set(edge.from, {
+      const recipientCanonical = canonical(edge.to)
+      if (!politiciansInEvents.has(recipientCanonical)) continue
+      // Bucket by canonical donor name (alias unification — AIPAC variants
+      // collapse, KAMALA HARRIS FOR SENATE folds into Kamala Harris, etc.)
+      const donorCanonical = canonical(edge.from)
+      if (!byDonor.has(donorCanonical)) {
+        byDonor.set(donorCanonical, {
           amount: 0,
           count: 0,
           politicians: new Set(),
@@ -579,11 +616,11 @@ function createInMemoryEngine() {
           donation_amount: 0,
         })
       }
-      const r = byDonor.get(edge.from)
+      const r = byDonor.get(donorCanonical)
       const amt = edge.amount || 0
       r.amount += amt
       r.count += 1
-      r.politicians.add(edge.to)
+      r.politicians.add(recipientCanonical)
       if (edge.role === "ie-oppose") r.oppose_amount += amt
       else if (edge.role === "ie-support") r.support_amount += amt
       else r.donation_amount += amt
