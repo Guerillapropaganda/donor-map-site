@@ -160,8 +160,20 @@ export default function MoneyTrailPage() {
     const svg = select(svgEl)
     svg.selectAll("*").remove()
 
-    const width = svgEl.clientWidth || 900
-    const height = svgEl.clientHeight || 600
+    // Centering fix 2026-04-27: David reported "graph doesn't load center
+    // to my screen." Cause: clientWidth/clientHeight returned 0 on first
+    // mount before parent layout settled, so we computed width=900 /
+    // height=600 hardcoded fallback and centered the graph at (450,300)
+    // — but if the parent rendered wider/taller, that center landed
+    // off-axis. Fix: read getBoundingClientRect (more reliable post-mount)
+    // and set viewBox so the SVG scales to whatever the container is at
+    // render time. preserveAspectRatio "xMidYMid meet" centers any
+    // overflow in the viewport.
+    const rect = svgEl.getBoundingClientRect()
+    const width = Math.max(400, Math.round(rect.width || svgEl.clientWidth || 900))
+    const height = Math.max(300, Math.round(rect.height || svgEl.clientHeight || 600))
+    svg.attr("viewBox", `0 0 ${width} ${height}`)
+    svg.attr("preserveAspectRatio", "xMidYMid meet")
 
     // Filter connections
     let conns = selected.connections
@@ -213,7 +225,20 @@ export default function MoneyTrailPage() {
 
     centerNode.fx = width / 2
     centerNode.fy = height / 2
-    sim.tick(50)
+    // Pre-place satellites on a circle around the center so the initial
+    // tick has something to work with. d3's default phyllotaxis init
+    // packs nodes near (0,0) which combined with our forceCenter strength
+    // 0.05 + alphaDecay 0.05 means satellites take many ticks to drift
+    // to the rim. Pre-placing on a radius of min(width,height)*0.35 puts
+    // them in the right neighborhood from frame 1; the simulation then
+    // refines by relevance scoring and collision dynamics.
+    const initRadius = Math.min(width, height) * 0.35
+    nodes.forEach((n, i) => {
+      if (n.isCenter) return
+      const angle = (i / Math.max(1, nodes.length - 1)) * 2 * Math.PI
+      n.x = width / 2 + Math.cos(angle) * initRadius
+      n.y = height / 2 + Math.sin(angle) * initRadius
+    })
     simRef.current = sim
 
     // SVG structure
@@ -354,6 +379,14 @@ export default function MoneyTrailPage() {
     // Instead, attach drag to all nodes (event captured) but no-op the
     // handlers for the center. Center stays anchored at viewport
     // center; satellites draggable. Click a satellite to refocus.
+    //
+    // 2026-04-27: removed the duplicate `nodeEls.call(d3Drag(...))` block
+    // that was here previously. It overrode this handler with one that
+    // had NO isCenter guard, which let the center node drag freely while
+    // its anchor (centerNode.fx = width/2; .fy = height/2) tried to pull
+    // it back. The conflict spun the simulation into the "satellites get
+    // heavier and heavier as you drag the main node" failure mode David
+    // observed in the prior session. Single drag handler now.
     const dragBehavior = d3Drag<SVGGElement, ForceNode>()
       .on("start", (event, d) => {
         if (d.isCenter) return
@@ -371,20 +404,24 @@ export default function MoneyTrailPage() {
       })
     nodeEls.call(dragBehavior as any)
 
-    // Fix drag to use event properly
-    nodeEls.call(
-      d3Drag<SVGGElement, ForceNode>()
-        .on("start", (event, d) => { if (!event.active) sim.alphaTarget(0.1).restart(); d.fx = d.x; d.fy = d.y })
-        .on("drag", (event, d) => { d.fx = event.x; d.fy = event.y })
-        .on("end", (event, d) => { if (!event.active) sim.alphaTarget(0); if (!d.isCenter) { d.fx = null; d.fy = null } }) as any
-    )
-
-    // Tick
-    sim.on("tick", () => {
+    // Tick handler — runs every animation frame the simulation is alive.
+    // Updates link endpoints + node-group positions to current x/y state.
+    const tickHandler = () => {
       linkEls.attr("x1", (d: any) => d.source.x).attr("y1", (d: any) => d.source.y)
             .attr("x2", (d: any) => d.target.x).attr("y2", (d: any) => d.target.y)
       nodeEls.attr("transform", d => `translate(${d.x},${d.y})`)
-    })
+    }
+    sim.on("tick", tickHandler)
+
+    // Force initial layout: call the tick handler synchronously so frame
+    // 1 has the right positions (from our pre-place circle), then kick
+    // the simulation back to alpha=1 so it actively converges from there
+    // rather than starting from already-decayed alpha. Without this,
+    // satellites empirically render at (0,0) — sim.on("tick") fires
+    // but only after the initial render frame, leaving a flash of
+    // unconverged layout. (Confirmed via DOM inspection 2026-04-27.)
+    tickHandler()
+    sim.alpha(1).restart()
   }, [selected, connFilter, maxNodes, profiles])
 
   useEffect(() => { if (selected) { const t = setTimeout(buildGraph, 50); return () => clearTimeout(t) } }, [selected, buildGraph])
