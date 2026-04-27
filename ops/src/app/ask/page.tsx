@@ -281,6 +281,36 @@ export default function AskPage() {
         Plain-English donor-map queries. Pattern-matched to the relationship edge store and IRS 990 data. Not fuzzy AI — matches specific question shapes.
       </p>
 
+      {/* Sibling-page tab — Query and Ask share a sidebar slot. */}
+      <div style={{ display: "flex", gap: "0.25rem", marginTop: "0.25rem", marginBottom: "1rem", borderBottom: "1px solid #1f2937" }}>
+        <a
+          href="/query"
+          style={{
+            padding: "0.5rem 0.875rem",
+            color: "#9ca3af",
+            fontSize: "0.85rem",
+            textDecoration: "none",
+            borderBottom: "2px solid transparent",
+          }}
+        >
+          ← Raw query (filters + table)
+        </a>
+        <span
+          style={{
+            padding: "0.5rem 0.875rem",
+            background: "#1f2937",
+            color: "#fbbf24",
+            borderTopLeftRadius: "0.375rem",
+            borderTopRightRadius: "0.375rem",
+            borderBottom: "2px solid #fbbf24",
+            fontSize: "0.85rem",
+            fontWeight: 600,
+          }}
+        >
+          ▼ Natural-language ask
+        </span>
+      </div>
+
       <details style={styles.howtoDetails}>
         <summary style={styles.howtoSummary}>How to use this — click to expand</summary>
         <div style={styles.howtoBody}>

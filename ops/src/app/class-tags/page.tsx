@@ -25,6 +25,7 @@
  */
 
 import { useState, useEffect, useMemo, useCallback, useRef } from "react"
+import { PageHeader } from "@/components/PageHeader"
 
 type CapitalType =
   | "fossil-capital"
@@ -390,15 +391,26 @@ export default function ClassTagsReviewPage() {
         margin: "0 auto",
       }}
     >
-      <header style={{ marginBottom: "1.5rem" }}>
-        <h1 style={{ margin: 0, fontSize: "1.75rem", color: "#f3f4f6" }}>Class Tag Review</h1>
-        <p style={{ margin: "0.25rem 0 0", color: "#9ca3af", fontSize: "0.9rem" }}>
-          Phase 2 class tag triage — approve / reject / edit heuristic proposals. Keyboard:{" "}
-          <kbd style={kbdStyle}>A</kbd> approve · <kbd style={kbdStyle}>R</kbd> reject ·{" "}
-          <kbd style={kbdStyle}>E</kbd> edit · <kbd style={kbdStyle}>←</kbd>/<kbd style={kbdStyle}>→</kbd> navigate ·{" "}
-          <kbd style={kbdStyle}>Esc</kbd> clear
-        </p>
-      </header>
+      <PageHeader
+        title="Class Tag Review"
+        whatThisDoes="Approve, reject, or edit heuristic proposals that assign capital_type / class_position / ideological_function tags to entity records. Approved tags get written onto entities.jsonl; the harness flags conflict + augmentation rows that need your eye."
+        rightNow={data ? (
+          <>
+            <strong>{(data.counts.conflict ?? 0).toLocaleString()}</strong> conflict
+            {" · "}
+            <strong>{(data.counts.augmentation ?? 0).toLocaleString()}</strong> augmentation
+            {" · "}
+            <strong>{(data.counts.pending ?? 0).toLocaleString()}</strong> real backlog (sorted high-impact first)
+          </>
+        ) : "loading…"}
+        action={
+          "Press A approve · R reject · E edit · ←/→ navigate · Esc clear. Filter to status=conflict for the highest-priority disagreements."
+        }
+      />
+      {/* Hidden kbd legend retained for keyboard-shortcut tooltips */}
+      <div style={{ display: "none" }}>
+        <kbd style={kbdStyle}>A</kbd>
+      </div>
 
       {/* Status summary */}
       {data && (

@@ -911,12 +911,33 @@ export default function ScriptsPage() {
         </div>
 
         {/* Header */}
-        <div className="mb-8">
+        <div className="mb-4">
           <h1 className="text-2xl font-bold mb-2">Scripts Reference</h1>
           <p className="text-[12px] text-[var(--color-text-dim)]">
             Every automation script in the vault, explained in plain English.
-            Less relying on "asking Claude what does X do" — reference this page instead.
+            Less relying on &quot;asking Claude what does X do&quot; — reference this page instead.
           </p>
+        </div>
+
+        {/* Sibling-page tab — paired with /docs under the Reference
+            sidebar slot. */}
+        <div className="flex gap-1 mb-8 border-b border-[var(--color-border)]">
+          <a
+            href="/docs"
+            className="px-3 py-2 text-xs text-[var(--color-text-dim)] hover:text-[var(--color-text)]"
+            style={{ borderBottom: "2px solid transparent", textDecoration: "none" }}
+          >
+            ← System Docs
+          </a>
+          <span
+            className="px-3 py-2 text-xs font-semibold"
+            style={{
+              color: "var(--color-steel)",
+              borderBottom: "2px solid var(--color-steel)",
+            }}
+          >
+            ▼ Scripts catalog
+          </span>
         </div>
 
         {/* Summary */}

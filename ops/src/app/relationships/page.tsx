@@ -1,6 +1,7 @@
 "use client"
 
 import { useState, useEffect, useRef, useCallback, useMemo } from "react"
+import { PageHeader } from "@/components/PageHeader"
 import type { Profile } from "@/lib/vault"
 import { typeColor } from "@/lib/vault"
 import { fetchVault } from "@/lib/vault-cache"
@@ -1051,11 +1052,16 @@ export default function RelationshipsPage() {
         </div>
       )}
 
-      <div className="flex items-center justify-between mb-4">
-        <div>
-          <h1 className="text-lg font-bold text-[var(--color-text)]">Relationship Mapper</h1>
-          <p className="text-[10px] text-[var(--color-text-dim)]">{loading ? "Loading..." : `${breakdown.total} connections across the vault`}</p>
-        </div>
+      <PageHeader
+        title="Relationship Mapper"
+        whatThisDoes="The connection graph for the entire vault. Search a profile to see its donors, fundees, oppositions, and stories radiating out. Backed by the librarian (ADR-0024) — alias variants like 'KAMALA HARRIS FOR SENATE' fold onto the candidate, so Trump's '878 raw' connections become the canonical 615."
+        rightNow={loading
+          ? "loading…"
+          : `${breakdown.total.toLocaleString()} active connections across the vault. ${breakdown.related.toLocaleString()} related · ${breakdown.donors.toLocaleString()} donor · ${breakdown.opposes.toLocaleString()} opposes · ${breakdown.stories.toLocaleString()} stories.`}
+        action="Search up top to focus a profile. List view / Explorer / Graph / Suggestions tabs each present the same data differently. Right rail shows most-connected + recent + no-connections rosters."
+      />
+      <div className="flex items-center justify-end mb-4">
+        <div className="hidden">{/* spacing ghost */}</div>
         <button
           onClick={async () => {
             setSaving(true)

@@ -4,38 +4,94 @@ import { useState, useEffect } from "react"
 import Link from "next/link"
 import { usePathname, useRouter } from "next/navigation"
 
-const NAV_ITEMS = [
-  { href: "/", label: "Dashboard", icon: "grid" },
-  { href: "/attention", label: "Attention Queue", icon: "target" },
-  { href: "/pipelines", label: "Pipelines", icon: "zap" },
-  { href: "/signoff-queue", label: "Sign-off Queue", icon: "check" },
-  { href: "/notes", label: "Notes & Queues", icon: "clipboard" },
-  { href: "/tips", label: "Public Tips", icon: "mail" },
-  { href: "/urls", label: "URL Manager", icon: "globe" },
-  { href: "/source-hunter", label: "Source Hunter", icon: "search" },
-  { href: "/relationships", label: "Relationships", icon: "link" },
-  { href: "/editor", label: "Editor", icon: "edit" },
-  { href: "/publisher", label: "Publisher", icon: "plus" },
-  { href: "/profile", label: "Profile View", icon: "user" },
-  { href: "/money-trail", label: "Money Trail", icon: "dollar" },
-  { href: "/capitol-trades", label: "Capitol Trades", icon: "trending" },
-  { href: "/calendar", label: "Calendar", icon: "calendar" },
-  { href: "/distribution", label: "Distribution", icon: "share" },
-  { href: "/rules", label: "Rulebook", icon: "target" },
-  { href: "/operations", label: "Operations", icon: "shield" },
-  { href: "/docs", label: "System Docs", icon: "book" },
-  { href: "/scripts", label: "Scripts", icon: "terminal" },
-  // Phase 2+ query engine + auth surfaces (added 2026-04-14)
-  { href: "/sources", label: "Source Registry", icon: "globe" },
-  { href: "/class-tags", label: "Class Tags", icon: "target" },
-  { href: "/policies", label: "Policies", icon: "book" },
-  { href: "/query", label: "Query Engine", icon: "search" },
-  { href: "/ask", label: "Ask", icon: "search" },
-  // Foundation stabilization (Pillars 3+5, added 2026-04-15)
-  { href: "/system-health", label: "System Health", icon: "shield" },
-  { href: "/bugs", label: "Bugs & Deferred", icon: "bell" },
-  { href: "/account", label: "Account", icon: "user" },
-  { href: "/pricing", label: "Pricing", icon: "dollar" },
+// ─── Sidebar grouping (2026-04-26 redesign) ────────────────────────────
+//
+// 29 flat nav items consolidated into 5 collapsible groups. DAILY is
+// always expanded — those are the surfaces David opens every morning.
+// The other groups collapse to keep the rail short. Group state persists
+// in localStorage so collapsed/expanded preferences survive reloads.
+//
+// Merges shipped alongside this redesign:
+//   /ask → /query?mode=ask  (single page, two tabs)
+//   /docs + /scripts → /docs (Reference page with both inside)
+//   /signoff-launch → archived (kept at URL but removed from sidebar;
+//     /signoff-queue header carries a one-line link to the Launch 50
+//     tracker)
+
+interface NavItem {
+  href: string
+  label: string
+  icon: string
+  badgeKey?: "alerts" | "notes" | "suggestions" | "tips" | "harness"
+}
+
+interface NavGroup {
+  id: string
+  label: string
+  items: NavItem[]
+  /** if true, group cannot be collapsed (always shown expanded) */
+  pinned?: boolean
+}
+
+const NAV_GROUPS: NavGroup[] = [
+  {
+    id: "daily",
+    label: "Daily",
+    pinned: true,
+    items: [
+      { href: "/", label: "Dashboard", icon: "grid", badgeKey: "harness" },
+      { href: "/attention", label: "Attention", icon: "target", badgeKey: "alerts" },
+      { href: "/signoff-queue", label: "Sign-off Queue", icon: "check" },
+      { href: "/profile", label: "Profile View", icon: "user" },
+      { href: "/editor", label: "Editor", icon: "edit" },
+    ],
+  },
+  {
+    id: "analyze",
+    label: "Analyze",
+    items: [
+      { href: "/relationships", label: "Relationships", icon: "link", badgeKey: "suggestions" },
+      { href: "/money-trail", label: "Money Trail", icon: "dollar" },
+      { href: "/capitol-trades", label: "Capitol Trades", icon: "trending" },
+      { href: "/class-tags", label: "Class Tags", icon: "target" },
+      { href: "/policies", label: "Policies", icon: "book" },
+      { href: "/query", label: "Query / Ask", icon: "search" },
+    ],
+  },
+  {
+    id: "build",
+    label: "Build",
+    items: [
+      { href: "/system-health", label: "System Health", icon: "shield" },
+      { href: "/pipelines", label: "Pipelines", icon: "zap" },
+      { href: "/source-hunter", label: "Source Hunter", icon: "search" },
+      { href: "/operations", label: "Operations", icon: "shield" },
+      { href: "/bugs", label: "Bugs & Deferred", icon: "bell" },
+      { href: "/docs", label: "Reference", icon: "book" },
+    ],
+  },
+  {
+    id: "content",
+    label: "Content",
+    items: [
+      { href: "/sources", label: "Source Registry", icon: "globe" },
+      { href: "/urls", label: "URL Manager", icon: "globe" },
+      { href: "/tips", label: "Public Tips", icon: "mail", badgeKey: "tips" },
+      { href: "/notes", label: "Notes & Queues", icon: "clipboard", badgeKey: "notes" },
+      { href: "/calendar", label: "Calendar", icon: "calendar" },
+      { href: "/publisher", label: "Publisher", icon: "plus" },
+      { href: "/distribution", label: "Distribution", icon: "share" },
+    ],
+  },
+  {
+    id: "reference",
+    label: "Reference",
+    items: [
+      { href: "/rules", label: "Rulebook", icon: "target" },
+      { href: "/account", label: "Account", icon: "user" },
+      { href: "/pricing", label: "Pricing", icon: "dollar" },
+    ],
+  },
 ]
 
 const ICONS: Record<string, string> = {
@@ -59,6 +115,7 @@ const ICONS: Record<string, string> = {
   trending: "M13 7h8m0 0v8m0-8l-8 8-4-4-6 6",
   shield: "M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z",
   mail: "M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z",
+  chevron: "M9 5l7 7-7 7",
 }
 
 interface StatusBadges {
@@ -66,13 +123,51 @@ interface StatusBadges {
   notes?: { open: number }
   suggestions?: { highPending: number }
   tips?: { new: number }
+  harness?: { findings: number }
 }
+
+const COLLAPSED_STORAGE_KEY = "donor-map-sidebar-collapsed-groups-v1"
 
 export function Sidebar() {
   const pathname = usePathname()
   const router = useRouter()
   const [mobileOpen, setMobileOpen] = useState(false)
   const [badges, setBadges] = useState<StatusBadges>({})
+  const [collapsed, setCollapsed] = useState<Record<string, boolean>>(() => {
+    // Default-collapse all but Daily so first-load is short
+    return { analyze: true, build: true, content: true, reference: true }
+  })
+
+  // Load persisted collapse state once on mount
+  useEffect(() => {
+    try {
+      const raw = localStorage.getItem(COLLAPSED_STORAGE_KEY)
+      if (raw) setCollapsed(JSON.parse(raw))
+    } catch {
+      /* ignore */
+    }
+  }, [])
+
+  // Persist on change
+  useEffect(() => {
+    try {
+      localStorage.setItem(COLLAPSED_STORAGE_KEY, JSON.stringify(collapsed))
+    } catch {
+      /* ignore */
+    }
+  }, [collapsed])
+
+  // Auto-expand the group containing the active page so navigation
+  // never lands on a hidden item.
+  useEffect(() => {
+    const activeGroup = NAV_GROUPS.find((g) =>
+      g.items.some((i) => (i.href === "/" ? pathname === "/" : pathname.startsWith(i.href))),
+    )
+    if (activeGroup && collapsed[activeGroup.id]) {
+      setCollapsed((c: Record<string, boolean>) => ({ ...c, [activeGroup.id]: false }))
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [pathname])
 
   // Close mobile sidebar on navigation
   useEffect(() => { setMobileOpen(false) }, [pathname])
@@ -92,10 +187,27 @@ export function Sidebar() {
     return () => { clearInterval(interval); window.removeEventListener("focus", onFocus) }
   }, [])
 
+  function badgeFor(item: NavItem): { count?: number; dot?: boolean; color: string } | null {
+    if (!item.badgeKey) return null
+    if (item.badgeKey === "alerts" && badges.alerts?.critical) {
+      return { count: badges.alerts.critical, color: "#ef4444" }
+    }
+    if (item.badgeKey === "notes" && badges.notes?.open) {
+      return { count: badges.notes.open, color: "#f59e0b" }
+    }
+    if (item.badgeKey === "suggestions" && badges.suggestions?.highPending) {
+      return { count: badges.suggestions.highPending, color: "#22c55e" }
+    }
+    if (item.badgeKey === "tips" && badges.tips?.new) {
+      return { count: badges.tips.new, color: "#fbbf24" }
+    }
+    return null
+  }
+
   return (
     <>
       {/* Mobile hamburger button */}
-      <button onClick={() => setMobileOpen((o) => !o)}
+      <button onClick={() => setMobileOpen((o: boolean) => !o)}
         aria-label={mobileOpen ? "Close navigation menu" : "Open navigation menu"}
         className="fixed top-3 left-3 z-[60] md:hidden w-10 h-10 rounded-lg bg-[var(--color-bg-card)] border border-[var(--color-border)] flex items-center justify-center text-[var(--color-text-dim)] hover:text-[var(--color-text)]">
         <svg width={18} height={18} fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
@@ -148,50 +260,80 @@ export function Sidebar() {
         </button>
       </div>
 
-      {/* Nav */}
-      <nav className="flex-1 p-3 space-y-1">
-        {NAV_ITEMS.map((item) => {
-          const active = item.href === "/" ? pathname === "/" : pathname.startsWith(item.href)
-          // Badge logic
-          let badge: { count?: number; dot?: boolean; color: string } | null = null
-          if (item.href === "/attention" && badges.alerts?.critical) {
-            // /attention shows blocking-bucket count (red dot for "things
-            // breaking now"). Field name stays "alerts.critical" for
-            // backwards-compat with /api/status; the /alerts page itself
-            // was retired 2026-04-24 and the count was repointed to
-            // attention-queue blocking entries.
-            badge = { count: badges.alerts.critical, color: "#ef4444" }
-          } else if (item.href === "/notes" && badges.notes?.open) {
-            badge = { count: badges.notes.open, color: "#f59e0b" }
-          } else if (item.href === "/relationships" && badges.suggestions?.highPending) {
-            badge = { count: badges.suggestions.highPending, color: "#22c55e" }
-          } else if (item.href === "/tips" && badges.tips?.new) {
-            badge = { count: badges.tips.new, color: "#fbbf24" }
-          }
+      {/* Nav — grouped + collapsible */}
+      <nav className="flex-1 overflow-y-auto p-3 space-y-3">
+        {NAV_GROUPS.map((group) => {
+          const isCollapsed = !group.pinned && collapsed[group.id]
+          const groupHasActive = group.items.some((i) =>
+            i.href === "/" ? pathname === "/" : pathname.startsWith(i.href),
+          )
           return (
-            <Link
-              key={item.href}
-              href={item.href}
-              className={`flex items-center gap-3 px-3 py-2.5 rounded-lg text-xs transition-all ${
-                active
-                  ? "bg-[var(--color-steel)]/15 text-[var(--color-steel)]"
-                  : "text-[var(--color-text-dim)] hover:text-[var(--color-text)] hover:bg-[var(--color-bg-hover)]"
-              }`}
-            >
-              <svg width={16} height={16} className="flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={1.5} style={{ minWidth: 16, minHeight: 16 }} aria-hidden="true">
-                <path strokeLinecap="round" strokeLinejoin="round" d={ICONS[item.icon]} />
-              </svg>
-              <span className="flex-1">{item.label}</span>
-              {badge && (
-                badge.count ? (
-                  <span className="min-w-[18px] h-[18px] flex items-center justify-center rounded-full text-[8px] font-bold text-white px-1" style={{ backgroundColor: badge.color }}>
-                    {badge.count > 99 ? "99+" : badge.count}
+            <div key={group.id}>
+              {/* Group header */}
+              {!group.pinned ? (
+                <button
+                  onClick={() => setCollapsed((c: Record<string, boolean>) => ({ ...c, [group.id]: !c[group.id] }))}
+                  className="w-full flex items-center justify-between px-2 py-1 text-[9px] tracking-[0.2em] uppercase text-[var(--color-text-dim)] hover:text-[var(--color-text)] transition-colors"
+                  aria-expanded={!isCollapsed}
+                  aria-controls={`nav-group-${group.id}`}
+                >
+                  <span className={groupHasActive ? "text-[var(--color-steel)]" : ""}>
+                    {group.label}
                   </span>
-                ) : (
-                  <span className="w-2 h-2 rounded-full" style={{ backgroundColor: badge.color }} />
-                )
+                  <svg
+                    width={10}
+                    height={10}
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="currentColor"
+                    strokeWidth={2}
+                    style={{ transform: isCollapsed ? "rotate(0deg)" : "rotate(90deg)", transition: "transform 0.15s" }}
+                    aria-hidden="true"
+                  >
+                    <path strokeLinecap="round" strokeLinejoin="round" d={ICONS.chevron} />
+                  </svg>
+                </button>
+              ) : (
+                <div className="px-2 py-1 text-[9px] tracking-[0.2em] uppercase text-[var(--color-text-dim)]">
+                  {group.label}
+                </div>
               )}
-            </Link>
+
+              {/* Items */}
+              {!isCollapsed && (
+                <div id={`nav-group-${group.id}`} className="space-y-0.5 mt-1">
+                  {group.items.map((item) => {
+                    const active = item.href === "/" ? pathname === "/" : pathname.startsWith(item.href)
+                    const badge = badgeFor(item)
+                    return (
+                      <Link
+                        key={item.href}
+                        href={item.href}
+                        className={`flex items-center gap-3 px-3 py-2 rounded-lg text-xs transition-all ${
+                          active
+                            ? "bg-[var(--color-steel)]/15 text-[var(--color-steel)]"
+                            : "text-[var(--color-text-dim)] hover:text-[var(--color-text)] hover:bg-[var(--color-bg-hover)]"
+                        }`}
+                      >
+                        <svg width={16} height={16} className="flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={1.5} style={{ minWidth: 16, minHeight: 16 }} aria-hidden="true">
+                          <path strokeLinecap="round" strokeLinejoin="round" d={ICONS[item.icon]} />
+                        </svg>
+                        <span className="flex-1">{item.label}</span>
+                        {badge && (
+                          badge.count ? (
+                            <span className="min-w-[18px] h-[18px] flex items-center justify-center rounded-full text-[8px] font-bold text-white px-1" style={{ backgroundColor: badge.color }}>
+                              {badge.count > 99 ? "99+" : badge.count}
+                            </span>
+                          ) : (
+                            <span className="w-2 h-2 rounded-full" style={{ backgroundColor: badge.color }} />
+                          )
+                        )}
+                      </Link>
+                    )
+                  })}
+                </div>
+              )}
+            </div>
           )
         })}
       </nav>
@@ -199,7 +341,7 @@ export function Sidebar() {
       {/* Footer */}
       <div className="p-4 border-t border-[var(--color-border)]">
         <p className="text-[9px] text-[var(--color-text-dim)] tracking-wider">
-          v1.1
+          v1.2
         </p>
       </div>
     </aside>
