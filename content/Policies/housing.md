@@ -55,22 +55,38 @@ Opposition comes from **rentier-capital, finance-capital** — the capital fract
 
 | Donor | Capital type | Total spend | Politicians funded | Cross-policy |
 |---|---|---|---|---|
+| [[Fidelity Investments|Fidelity Investments]] | finance-capital | $6.5B | 137 | **4 of 5** |
 | [[Las Vegas Sands|Las Vegas Sands]] | rentier-capital | $159.3M | 29 | **2 of 5** |
+| [[Blackstone Group|Blackstone Group]] | finance-capital | $99.9M | 109 | **4 of 5** |
 | [[National Association of Realtors|National Association of Realtors]] | rentier-capital | $62.8M | 369 | **2 of 5** |
-| [[National Multifamily Housing Council|National Multifamily Housing Council]] | rentier-capital | $2.6M | 205 | **2 of 5** |
-| [[CBRE Group|CBRE Group]] | rentier-capital | $2.4M | 101 | **2 of 5** |
-| [[Lennar Corporation|Lennar Corporation]] | rentier-capital | $296K | 22 | **2 of 5** |
-| [[MasTec - Mas Canosa Family|MasTec - Mas Canosa Family]] | rentier-capital | $172K | 21 | **2 of 5** |
-| [[Invitation Homes - Institutional Landlords|Invitation Homes - Institutional Landlords]] | rentier-capital | $47K | 7 | **2 of 5** |
-| [[National Rental Home Council|National Rental Home Council]] | rentier-capital | $35K | 13 | **2 of 5** |
-| [[American Homes 4 Rent|American Homes 4 Rent]] | rentier-capital | $31K | 5 | **2 of 5** |
-| [[Blackstone Real Estate|Blackstone Real Estate]] | rentier-capital | $6K | 1 | **2 of 5** |
+| [[Elliott Management|Elliott Management]] | finance-capital | $38.3M | 39 | **4 of 5** |
+| [[Charles Schwab|Charles Schwab]] | finance-capital | $33.9M | 82 | **4 of 5** |
+| [[Citadel - Kenneth Griffin|Citadel - Kenneth Griffin]] | finance-capital | $22.7M | 61 | **4 of 5** |
+| [[Apollo Global Management|Apollo Global Management]] | finance-capital | $7.4M | 54 | **4 of 5** |
+| [[Goldman Sachs|Goldman Sachs]] | finance-capital | $6.1M | 133 | **4 of 5** |
+| [[Morgan Stanley|Morgan Stanley]] | finance-capital | $5.5M | 237 | **4 of 5** |
 
 _See [[who-blocks-us|Who Blocks Us]] for the cross-policy enemy list. Donor coverage is partial today; expanding._
 
 <!-- ops-only
 
-**Methodology:** Donors with a `capital_type` tag matching this policy's `opposition_capital_types` are pulled from `data/entities.jsonl`; political spend is aggregated from the full relationships edge store via the librarian (ADR-0024). The "Cross-policy" column counts how many of the 5 tracked policies each donor's capital_type matches. Coverage is partial: 271 of 1,710 entities tagged (~16%); `finance-capital` is not yet a tagged value, which is why some policies show empty here.
+**Methodology:** Donors with a `capital_type` tag matching this policy's `opposition_capital_types` are pulled from `data/entities.jsonl`; political spend is aggregated from the full relationships edge store via the librarian (ADR-0024). The "Cross-policy" column counts how many of the 5 tracked policies each donor's capital_type matches. Coverage is partial and expanding: ~17% of entities tagged as of 2026-04-27 (296 of 1,710). `finance-capital` was bulk-tagged on 25 institutional banks / IBs / asset managers / PE / hedge funds the same day, which populated the previously-empty student_debt donor table.
+
+-->
+
+## Who's pushing for it
+
+**2 bills from 3 sponsors, 2021–2025.**
+
+| Sponsor | Bill | Date | Outcome |
+|---|---|---|---|
+| [[Darin LaHood]] | H.R.2725 / S.1515: Affordable Housing Credit Improvement Act (LIHTC) | 2025-07-04 | ✓ passed |
+| [[Todd Young]] | H.R.2725 / S.1515: Affordable Housing Credit Improvement Act (LIHTC) | 2025-07-04 | ✓ passed |
+| [[Elizabeth Warren]] | S.1368 / H.R.2768: American Housing and Economic Mobility Act | 2021-04-23 | ✗ stalled _via chair_bottled_up_ |
+
+<!-- ops-only
+
+**Methodology:** Sponsors pulled from events.jsonl rows where event.policy_id matches this policy AND event.sponsors[] is populated. One row per (sponsor, bill) pair — bills with multiple sponsors list each separately. Cosponsor counts are not yet wired (data not in events.jsonl); when added, will appear as a column. Empty-state disclosure when no bill sponsors are tracked (e.g. policies that moved through executive actions or court rulings rather than legislative bills).
 
 -->
 

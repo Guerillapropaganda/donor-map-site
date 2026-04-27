@@ -48,7 +48,32 @@ Total outstanding federal student loan debt stands at approximately $1.6 trillio
 
 Opposition comes from **finance-capital** — the capital fractions with a direct material stake in the current policy.
 
-_No entities in `data/entities.jsonl` are currently tagged with the capital types `finance-capital`. Tagging coverage is expanding (currently 271 of 1,710 entities, 16%). This list will populate as tags are added._
+### Top opposition donors
+
+| Donor | Capital type | Total spend | Politicians funded | Cross-policy |
+|---|---|---|---|---|
+| [[Fidelity Investments|Fidelity Investments]] | finance-capital | $6.5B | 137 | **4 of 5** |
+| [[Blackstone Group|Blackstone Group]] | finance-capital | $99.9M | 109 | **4 of 5** |
+| [[Elliott Management|Elliott Management]] | finance-capital | $38.3M | 39 | **4 of 5** |
+| [[Charles Schwab|Charles Schwab]] | finance-capital | $33.9M | 82 | **4 of 5** |
+| [[Citadel - Kenneth Griffin|Citadel - Kenneth Griffin]] | finance-capital | $22.7M | 61 | **4 of 5** |
+| [[Apollo Global Management|Apollo Global Management]] | finance-capital | $7.4M | 54 | **4 of 5** |
+| [[Goldman Sachs|Goldman Sachs]] | finance-capital | $6.1M | 133 | **4 of 5** |
+| [[Morgan Stanley|Morgan Stanley]] | finance-capital | $5.5M | 237 | **4 of 5** |
+| [[Wells Fargo|Wells Fargo]] | finance-capital | $4.2M | 142 | **4 of 5** |
+| [[Bank of America|Bank of America]] | finance-capital | $3.5M | 214 | **4 of 5** |
+
+_See [[who-blocks-us|Who Blocks Us]] for the cross-policy enemy list. Donor coverage is partial today; expanding._
+
+<!-- ops-only
+
+**Methodology:** Donors with a `capital_type` tag matching this policy's `opposition_capital_types` are pulled from `data/entities.jsonl`; political spend is aggregated from the full relationships edge store via the librarian (ADR-0024). The "Cross-policy" column counts how many of the 5 tracked policies each donor's capital_type matches. Coverage is partial and expanding: ~17% of entities tagged as of 2026-04-27 (296 of 1,710). `finance-capital` was bulk-tagged on 25 institutional banks / IBs / asset managers / PE / hedge funds the same day, which populated the previously-empty student_debt donor table.
+
+-->
+
+## Who's pushing for it
+
+_No federal bill sponsors tracked for this policy. Action on this policy has come through executive actions, court rulings, or external events rather than congressional bills._
 
 ## Legislative timeline
 

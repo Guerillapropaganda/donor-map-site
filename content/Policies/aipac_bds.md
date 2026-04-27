@@ -66,24 +66,28 @@ Opposition comes from **finance-capital, tech-monopoly, rentier-capital** — th
 
 | Donor | Capital type | Total spend | Politicians funded | Cross-policy |
 |---|---|---|---|---|
+| [[Fidelity Investments|Fidelity Investments]] | finance-capital | $6.5B | 137 | **4 of 5** |
 | [[Fairshake PAC|Fairshake PAC]] | tech-monopoly | $349.3M | 22 | **2 of 5** |
 | [[Las Vegas Sands|Las Vegas Sands]] | rentier-capital | $159.3M | 29 | **2 of 5** |
+| [[Blackstone Group|Blackstone Group]] | finance-capital | $99.9M | 109 | **4 of 5** |
 | [[National Association of Realtors|National Association of Realtors]] | rentier-capital | $62.8M | 369 | **2 of 5** |
 | [[Google - Alphabet|Google - Alphabet]] | tech-monopoly | $50.0M | 501 | **2 of 5** |
 | [[Oracle|Oracle]] | tech-monopoly | $47.8M | 134 | **2 of 5** |
 | [[FTX - Sam Bankman-Fried|FTX - Sam Bankman-Fried]] | tech-monopoly | $45.8M | 46 | **2 of 5** |
-| [[a16z - Andreessen Horowitz|a16z - Andreessen Horowitz]] | tech-monopoly | $33.4M | 45 | **2 of 5** |
-| [[OpenAI|OpenAI]] | tech-monopoly | $26.7M | 21 | **2 of 5** |
-| [[Microsoft|Microsoft]] | tech-monopoly | $18.1M | 282 | **2 of 5** |
-| [[Ripple|Ripple]] | tech-monopoly | $16.2M | 35 | **2 of 5** |
+| [[Elliott Management|Elliott Management]] | finance-capital | $38.3M | 39 | **4 of 5** |
+| [[Charles Schwab|Charles Schwab]] | finance-capital | $33.9M | 82 | **4 of 5** |
 
 _See [[who-blocks-us|Who Blocks Us]] for the cross-policy enemy list. Donor coverage is partial today; expanding._
 
 <!-- ops-only
 
-**Methodology:** Donors with a `capital_type` tag matching this policy's `opposition_capital_types` are pulled from `data/entities.jsonl`; political spend is aggregated from the full relationships edge store via the librarian (ADR-0024). The "Cross-policy" column counts how many of the 5 tracked policies each donor's capital_type matches. Coverage is partial: 271 of 1,710 entities tagged (~16%); `finance-capital` is not yet a tagged value, which is why some policies show empty here.
+**Methodology:** Donors with a `capital_type` tag matching this policy's `opposition_capital_types` are pulled from `data/entities.jsonl`; political spend is aggregated from the full relationships edge store via the librarian (ADR-0024). The "Cross-policy" column counts how many of the 5 tracked policies each donor's capital_type matches. Coverage is partial and expanding: ~17% of entities tagged as of 2026-04-27 (296 of 1,710). `finance-capital` was bulk-tagged on 25 institutional banks / IBs / asset managers / PE / hedge funds the same day, which populated the previously-empty student_debt donor table.
 
 -->
+
+## Who's pushing for it
+
+_No federal bill sponsors tracked for this policy. Action on this policy has come through executive actions, court rulings, or external events rather than congressional bills._
 
 ## Legislative timeline
 

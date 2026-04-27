@@ -71,7 +71,22 @@ _See [[who-blocks-us|Who Blocks Us]] for the cross-policy enemy list. Donor cove
 
 <!-- ops-only
 
-**Methodology:** Donors with a `capital_type` tag matching this policy's `opposition_capital_types` are pulled from `data/entities.jsonl`; political spend is aggregated from the full relationships edge store via the librarian (ADR-0024). The "Cross-policy" column counts how many of the 5 tracked policies each donor's capital_type matches. Coverage is partial: 271 of 1,710 entities tagged (~16%); `finance-capital` is not yet a tagged value, which is why some policies show empty here.
+**Methodology:** Donors with a `capital_type` tag matching this policy's `opposition_capital_types` are pulled from `data/entities.jsonl`; political spend is aggregated from the full relationships edge store via the librarian (ADR-0024). The "Cross-policy" column counts how many of the 5 tracked policies each donor's capital_type matches. Coverage is partial and expanding: ~17% of entities tagged as of 2026-04-27 (296 of 1,710). `finance-capital` was bulk-tagged on 25 institutional banks / IBs / asset managers / PE / hedge funds the same day, which populated the previously-empty student_debt donor table.
+
+-->
+
+## Who's pushing for it
+
+**2 bills from 1 sponsor, 2021–2023.**
+
+| Sponsor | Bill | Date | Outcome |
+|---|---|---|---|
+| [[Bobby Scott]] | H.R.4889: Raise the Wage Act of 2023 | 2023-07-25 | ✗ stalled _via chair_bottled_up_ |
+| [[Bobby Scott]] | H.R.603: Raise the Wage Act of 2021 | 2021-01-26 | ✗ stalled _via chair_bottled_up_ |
+
+<!-- ops-only
+
+**Methodology:** Sponsors pulled from events.jsonl rows where event.policy_id matches this policy AND event.sponsors[] is populated. One row per (sponsor, bill) pair — bills with multiple sponsors list each separately. Cosponsor counts are not yet wired (data not in events.jsonl); when added, will appear as a column. Empty-state disclosure when no bill sponsors are tracked (e.g. policies that moved through executive actions or court rulings rather than legislative bills).
 
 -->
 

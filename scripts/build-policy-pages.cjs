@@ -431,7 +431,7 @@ function buildPolicyPage(policy, engine, ctx = {}) {
     lines.push("<!-- ops-only")
     lines.push("")
     lines.push(
-      `**Methodology:** Donors with a \`capital_type\` tag matching this policy's \`opposition_capital_types\` are pulled from \`data/entities.jsonl\`; political spend is aggregated from the full relationships edge store via the librarian (ADR-0024). The "Cross-policy" column counts how many of the ${totalPolicyCount} tracked policies each donor's capital_type matches. Coverage is partial: 271 of 1,710 entities tagged (~16%); \`finance-capital\` is not yet a tagged value, which is why some policies show empty here.`,
+      `**Methodology:** Donors with a \`capital_type\` tag matching this policy's \`opposition_capital_types\` are pulled from \`data/entities.jsonl\`; political spend is aggregated from the full relationships edge store via the librarian (ADR-0024). The "Cross-policy" column counts how many of the ${totalPolicyCount} tracked policies each donor's capital_type matches. Coverage is partial and expanding: ~17% of entities tagged as of 2026-04-27 (296 of 1,710). \`finance-capital\` was bulk-tagged on 25 institutional banks / IBs / asset managers / PE / hedge funds the same day, which populated the previously-empty student_debt donor table.`,
     )
     lines.push("")
     lines.push("-->")
@@ -444,6 +444,102 @@ function buildPolicyPage(policy, engine, ctx = {}) {
       `_No entities in \`data/entities.jsonl\` are currently tagged with the capital types ${policy.opposition_capital_types?.map((t) => `\`${t}\``).join(", ") || "for this policy"}. Tagging coverage is expanding (currently 271 of 1,710 entities, 16%). This list will populate as tags are added._`,
     )
     lines.push("")
+  }
+
+  // Who's pushing for it — symmetric counterpart to "Who's blocking it".
+  // Surfaces the politicians introducing/championing each policy via bill
+  // sponsorship. Honest about empty states: when a policy moves through
+  // exec actions / court rulings rather than congressional bills (student
+  // debt, AIPAC), the section says so. Established 2026-04-27.
+  //
+  // Aggregation: collect each event's sponsors[] across this policy's
+  // events; group by sponsor and list their bills + outcomes. Policies
+  // without ANY bill sponsors get an empty-state disclosure.
+  const billLikeEvents = relatedEvents.filter(
+    (e) => e.type === "bill_introduction" || e.type === "signing" || (e.sponsors && e.sponsors.length > 0),
+  )
+  const sponsoredEvents = billLikeEvents.filter((e) => e.sponsors && e.sponsors.length > 0)
+  if (sponsoredEvents.length > 0) {
+    lines.push("## Who's pushing for it")
+    lines.push("")
+    // Group bills by sponsor. A bill with multiple sponsors lists each separately
+    // (so they each appear in the table once with co-sponsorship implied).
+    const bySponsor = new Map() // sponsorName -> [{title, date, outcome, obstruction}]
+    for (const ev of sponsoredEvents) {
+      for (const sp of ev.sponsors || []) {
+        if (!bySponsor.has(sp)) bySponsor.set(sp, [])
+        bySponsor.get(sp).push({
+          title: ev.title,
+          date: ev.date,
+          outcome: ev.outcome,
+          obstruction: ev.obstruction_type,
+        })
+      }
+    }
+    // Editorial framing — describe sponsor count in plain English
+    const sponsorCount = bySponsor.size
+    const billCount = sponsoredEvents.length
+    const earliestBill = sponsoredEvents.reduce(
+      (e, b) => (b.date && (!e.date || b.date.localeCompare(e.date) < 0) ? b : e),
+      sponsoredEvents[0],
+    )
+    const latestBill = sponsoredEvents.reduce(
+      (e, b) => (b.date && (!e.date || b.date.localeCompare(e.date) > 0) ? b : e),
+      sponsoredEvents[0],
+    )
+    const earliestYear = earliestBill.date ? earliestBill.date.slice(0, 4) : null
+    const latestYear = latestBill.date ? latestBill.date.slice(0, 4) : null
+    const yearRange =
+      earliestYear && latestYear && earliestYear !== latestYear
+        ? `${earliestYear}–${latestYear}`
+        : earliestYear || "?"
+    lines.push(
+      `**${billCount} bill${billCount === 1 ? "" : "s"} from ${sponsorCount} sponsor${sponsorCount === 1 ? "" : "s"}, ${yearRange}.**`,
+    )
+    lines.push("")
+    lines.push("| Sponsor | Bill | Date | Outcome |")
+    lines.push("|---|---|---|---|")
+    for (const [sponsor, bills] of bySponsor) {
+      for (const bill of bills) {
+        const sponsorWiki = `[[${sponsor}]]` // librarian resolves wikilinks
+        const outcomeIcon =
+          bill.outcome === "passed" || bill.outcome === "signed"
+            ? "✓"
+            : bill.outcome === "stalled"
+            ? "✗"
+            : bill.outcome === "vetoed"
+            ? "🚫"
+            : "·"
+        const outcomeText = `${outcomeIcon} ${bill.outcome}${bill.obstruction && bill.obstruction !== "n/a" ? ` _via ${bill.obstruction}_` : ""}`
+        lines.push(
+          `| ${sponsorWiki} | ${bill.title} | ${bill.date ? bill.date.slice(0, 10) : "—"} | ${outcomeText} |`,
+        )
+      }
+    }
+    lines.push("")
+    // Ops-only methodology footnote — consistent with the convention
+    // established for "Who's blocking it" methodology.
+    lines.push("<!-- ops-only")
+    lines.push("")
+    lines.push(
+      `**Methodology:** Sponsors pulled from events.jsonl rows where event.policy_id matches this policy AND event.sponsors[] is populated. One row per (sponsor, bill) pair — bills with multiple sponsors list each separately. Cosponsor counts are not yet wired (data not in events.jsonl); when added, will appear as a column. Empty-state disclosure when no bill sponsors are tracked (e.g. policies that moved through executive actions or court rulings rather than legislative bills).`,
+    )
+    lines.push("")
+    lines.push("-->")
+    lines.push("")
+  } else {
+    // Honest empty state — symmetric to the donor-table empty case.
+    // Don't render an empty section header; just a one-line note inside
+    // a smaller scope. Skip if there are no events at all (the section
+    // is irrelevant).
+    if (relatedEvents.length > 0) {
+      lines.push("## Who's pushing for it")
+      lines.push("")
+      lines.push(
+        `_No federal bill sponsors tracked for this policy. Action on this policy has come through executive actions, court rulings, or external events rather than congressional bills._`,
+      )
+      lines.push("")
+    }
   }
 
   // Legislative timeline — year-grouped, scope-tagged (federal vs state),

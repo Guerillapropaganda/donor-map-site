@@ -55,22 +55,38 @@ Opposition comes from **pharma-capital, finance-capital** — the capital fracti
 
 | Donor | Capital type | Total spend | Politicians funded | Cross-policy |
 |---|---|---|---|---|
+| [[Fidelity Investments|Fidelity Investments]] | finance-capital | $6.5B | 137 | **4 of 5** |
+| [[Blackstone Group|Blackstone Group]] | finance-capital | $99.9M | 109 | **4 of 5** |
+| [[Elliott Management|Elliott Management]] | finance-capital | $38.3M | 39 | **4 of 5** |
+| [[Charles Schwab|Charles Schwab]] | finance-capital | $33.9M | 82 | **4 of 5** |
+| [[PhRMA|PhRMA - Pharmaceutical Research and Manufacturers of America]] | pharma-capital | $30.9M | 45 | — |
+| [[Citadel - Kenneth Griffin|Citadel - Kenneth Griffin]] | finance-capital | $22.7M | 61 | **4 of 5** |
 | [[Pfizer|Pfizer Inc.]] | pharma-capital | $7.5M | 432 | — |
+| [[Apollo Global Management|Apollo Global Management]] | finance-capital | $7.4M | 54 | **4 of 5** |
 | [[Amgen Inc|Amgen Inc]] | pharma-capital | $6.6M | 375 | — |
-| [[Kaiser Permanente|Kaiser Permanente]] | pharma-capital | $4.8M | 131 | — |
-| [[AbbVie|AbbVie]] | pharma-capital | $4.0M | 321 | — |
-| [[Humana|Humana]] | pharma-capital | $3.9M | 277 | — |
-| [[CVS Health - Aetna|CVS Health - Aetna]] | pharma-capital | $3.7M | 323 | — |
-| [[Blue Shield of California|Blue Shield of California]] | pharma-capital | $2.2M | 131 | — |
-| [[Anthem - Elevance Health|Anthem - Elevance Health]] | pharma-capital | $2.0M | 228 | — |
-| [[Gilead Sciences|Gilead Sciences]] | pharma-capital | $1.9M | 230 | — |
-| [[Centene Corporation|Centene Corporation]] | pharma-capital | $1.6M | 55 | — |
+| [[Goldman Sachs|Goldman Sachs]] | finance-capital | $6.1M | 133 | **4 of 5** |
 
 _See [[who-blocks-us|Who Blocks Us]] for the cross-policy enemy list. Donor coverage is partial today; expanding._
 
 <!-- ops-only
 
-**Methodology:** Donors with a `capital_type` tag matching this policy's `opposition_capital_types` are pulled from `data/entities.jsonl`; political spend is aggregated from the full relationships edge store via the librarian (ADR-0024). The "Cross-policy" column counts how many of the 5 tracked policies each donor's capital_type matches. Coverage is partial: 271 of 1,710 entities tagged (~16%); `finance-capital` is not yet a tagged value, which is why some policies show empty here.
+**Methodology:** Donors with a `capital_type` tag matching this policy's `opposition_capital_types` are pulled from `data/entities.jsonl`; political spend is aggregated from the full relationships edge store via the librarian (ADR-0024). The "Cross-policy" column counts how many of the 5 tracked policies each donor's capital_type matches. Coverage is partial and expanding: ~17% of entities tagged as of 2026-04-27 (296 of 1,710). `finance-capital` was bulk-tagged on 25 institutional banks / IBs / asset managers / PE / hedge funds the same day, which populated the previously-empty student_debt donor table.
+
+-->
+
+## Who's pushing for it
+
+**3 bills from 3 sponsors, 2019–2022.**
+
+| Sponsor | Bill | Date | Outcome |
+|---|---|---|---|
+| [[Chuck Schumer]] | Inflation Reduction Act: Medicare drug negotiation provisions | 2022-08-16 | ✓ passed |
+| [[Pramila Jayapal]] | H.R.1976: Medicare for All Act (Jayapal) | 2021-03-17 | ✗ stalled _via chair_bottled_up_ |
+| [[Bernie Sanders]] | S.1129: Medicare for All Act (Sanders) | 2019-04-10 | ✗ stalled _via chair_bottled_up_ |
+
+<!-- ops-only
+
+**Methodology:** Sponsors pulled from events.jsonl rows where event.policy_id matches this policy AND event.sponsors[] is populated. One row per (sponsor, bill) pair — bills with multiple sponsors list each separately. Cosponsor counts are not yet wired (data not in events.jsonl); when added, will appear as a column. Empty-state disclosure when no bill sponsors are tracked (e.g. policies that moved through executive actions or court rulings rather than legislative bills).
 
 -->
 
