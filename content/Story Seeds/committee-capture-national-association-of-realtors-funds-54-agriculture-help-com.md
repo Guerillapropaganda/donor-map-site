@@ -3,14 +3,14 @@ title: "National Association of Realtors funds 54 Agriculture/HELP committee mem
 type: story-seed
 seed-type: committee-capture
 confidence: 4
-last-updated: '2026-04-26'
+last-updated: '2026-04-27'
 auto-generated: true
 status: unclaimed
 ---
 
 # National Association of Realtors funds 54 Agriculture/HELP committee members
 
-_Confidence: ★★★★☆ · Surfaced by contradiction-miner on 2026-04-26_
+_Confidence: ★★★★☆ · Surfaced by contradiction-miner on 2026-04-27_
 
 ## The angle
 

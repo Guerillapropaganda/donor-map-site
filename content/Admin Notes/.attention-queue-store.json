@@ -2,27 +2,13 @@
   "hallucination-catcher": [
     {
       "bucket": "deciding",
-      "what": "PhRMA - Pharmaceutical Research and Manufacturers of America: 52 unsupported claims",
-      "why": "Ready profile has \"$371.6 billion\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Donors & Power Networks/Pharma & Healthcare/PhRMA.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-26",
-      "metadata": {
-        "claimCount": 52,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
       "what": "Heritage Foundation: 30 unsupported claims",
       "why": "Ready profile has \"60% of\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
       "where": "content/Think Tanks & Policy Infrastructure/Conservative/Heritage Foundation.md",
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "claimCount": 30,
         "readiness": "ready"
@@ -36,7 +22,7 @@
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "claimCount": 26,
         "readiness": "ready"
@@ -50,7 +36,7 @@
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "claimCount": 24,
         "readiness": "ready"
@@ -64,7 +50,7 @@
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "claimCount": 23,
         "readiness": "ready"
@@ -78,37 +64,9 @@
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "claimCount": 21,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Fanjul Family - Florida Crystals: 20 unsupported claims",
-      "why": "Ready profile has \"12.7% of\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Donors & Power Networks/Agriculture/Fanjul Family - Florida Crystals.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-26",
-      "metadata": {
-        "claimCount": 20,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Lockheed Martin: 20 unsupported claims",
-      "why": "Ready profile has \"$14B\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Donors & Power Networks/Defense & Intelligence/Lockheed Martin.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-26",
-      "metadata": {
-        "claimCount": 20,
         "readiness": "ready"
       }
     },
@@ -120,7 +78,7 @@
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "claimCount": 20,
         "readiness": "ready"
@@ -134,7 +92,7 @@
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "claimCount": 20,
         "readiness": "ready"
@@ -148,23 +106,9 @@
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "claimCount": 19,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Democratic Small Dollar Networks: 18 unsupported claims",
-      "why": "Ready profile has \"50% of\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Donors & Power Networks/Dark Money/Democratic Small Dollar Networks.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-26",
-      "metadata": {
-        "claimCount": 18,
         "readiness": "ready"
       }
     },
@@ -176,21 +120,7 @@
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-26",
-      "metadata": {
-        "claimCount": 18,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "SKDK (SKDKnickerbocker): 18 unsupported claims",
-      "why": "Ready profile has \"$113.8 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Lobbying Firms & K Street/SKDK.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "claimCount": 18,
         "readiness": "ready"
@@ -204,35 +134,7 @@
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-26",
-      "metadata": {
-        "claimCount": 17,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Koch Industries: 17 unsupported claims",
-      "why": "Ready profile has \"75% of\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Donors & Power Networks/Energy & Utilities/Koch Industries.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-26",
-      "metadata": {
-        "claimCount": 17,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "DonorsTrust: 17 unsupported claims",
-      "why": "Ready profile has \"30% of\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Donors & Power Networks/Super PACs/DonorsTrust.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "claimCount": 17,
         "readiness": "ready"
@@ -246,51 +148,9 @@
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "claimCount": 17,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "ALEC - American Legislative Exchange Council: 16 unsupported claims",
-      "why": "Ready profile has \"1% of\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Donors & Power Networks/Dark Money/ALEC - American Legislative Exchange Council.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-26",
-      "metadata": {
-        "claimCount": 16,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Trump 2024 Campaign: 16 unsupported claims",
-      "why": "Ready profile has \"$1.45 billion\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Donors & Power Networks/Dark Money/Trump 2024 Campaign.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-26",
-      "metadata": {
-        "claimCount": 16,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "US Chamber of Commerce: 16 unsupported claims",
-      "why": "Ready profile has \"$81 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Donors & Power Networks/Dark Money/US Chamber of Commerce.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-26",
-      "metadata": {
-        "claimCount": 16,
         "readiness": "ready"
       }
     },
@@ -302,35 +162,7 @@
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-26",
-      "metadata": {
-        "claimCount": 16,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Club for Growth: 16 unsupported claims",
-      "why": "Ready profile has \"$163 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Donors & Power Networks/Super PACs/Club for Growth.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-26",
-      "metadata": {
-        "claimCount": 16,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Crypto Industry Bloc: 16 unsupported claims",
-      "why": "Ready profile has \"$195 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Donors & Power Networks/Tech & Crypto/Crypto Industry Bloc.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "claimCount": 16,
         "readiness": "ready"
@@ -344,30 +176,182 @@
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "claimCount": 16,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Chevron: 14 unsupported claims",
+      "why": "Ready profile has \"$90 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Donors & Power Networks/Energy & Utilities/Chevron.md",
+      "cost_min": 15,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-27",
+      "metadata": {
+        "claimCount": 14,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "2026 House Money Map: 14 unsupported claims",
+      "why": "Ready profile has \"$78 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Stories/Published/2026 House Races/2026 House Money Map.md",
+      "cost_min": 15,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-27",
+      "metadata": {
+        "claimCount": 14,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Brookings Institution: 14 unsupported claims",
+      "why": "Ready profile has \"64.5% of\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Think Tanks & Policy Infrastructure/Centrist/Brookings Institution.md",
+      "cost_min": 15,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-27",
+      "metadata": {
+        "claimCount": 14,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Stand Together: 13 unsupported claims",
+      "why": "Ready profile has \"$578 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Donors & Power Networks/Dark Money/Stand Together.md",
+      "cost_min": 15,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-27",
+      "metadata": {
+        "claimCount": 13,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "American Petroleum Institute: 13 unsupported claims",
+      "why": "Ready profile has \"86.4% of\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Donors & Power Networks/Energy & Utilities/American Petroleum Institute.md",
+      "cost_min": 15,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-27",
+      "metadata": {
+        "claimCount": 13,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Uber: 13 unsupported claims",
+      "why": "Ready profile has \"2020, shortly after Prop 22 passed\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Donors & Power Networks/Gig Economy/Uber.md",
+      "cost_min": 15,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-27",
+      "metadata": {
+        "claimCount": 13,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Sheldon Whitehouse: 13 unsupported claims",
+      "why": "Ready profile has \"$21.2M\" in the Who They Are section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Politicians/Democrats/Senate/Sheldon Whitehouse/_Sheldon Whitehouse Master Profile.md",
+      "cost_min": 15,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-27",
+      "metadata": {
+        "claimCount": 13,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Rick Scott: 13 unsupported claims",
+      "why": "Ready profile has \"$1.7 billion\" in the Who He Is section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Politicians/Republicans/Senate/Rick Scott/_Rick Scott Master Profile.md",
+      "cost_min": 15,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-27",
+      "metadata": {
+        "claimCount": 13,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "American Farm Bureau Federation: 12 unsupported claims",
+      "why": "Ready profile has \"$732 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Donors & Power Networks/Agriculture/American Farm Bureau Federation.md",
+      "cost_min": 14,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-27",
+      "metadata": {
+        "claimCount": 12,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Leonard Leo: 12 unsupported claims",
+      "why": "Ready profile has \"95% of\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Donors & Power Networks/Leonard Leo.md",
+      "cost_min": 14,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-27",
+      "metadata": {
+        "claimCount": 12,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Kenneth Griffin: 12 unsupported claims",
+      "why": "Ready profile has \"8% increase\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Donors & Power Networks/Mega-Donors/Kenneth Griffin.md",
+      "cost_min": 14,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-27",
+      "metadata": {
+        "claimCount": 12,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Texas 2026 Senate Race: 12 unsupported claims",
+      "why": "Ready profile has \"47% of\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Stories/Published/2026 Senate Races/Texas 2026 Senate Race.md",
+      "cost_min": 14,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-27",
+      "metadata": {
+        "claimCount": 12,
         "readiness": "ready"
       }
     }
   ],
   "voice-drift-detector": [
-    {
-      "bucket": "blocking",
-      "what": "Fanjul Family - Florida Crystals: voice rule violations",
-      "why": "Ready profile contains 74 em dashes in body, avg sentence length 22 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Agriculture/Fanjul Family - Florida Crystals.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-26",
-      "metadata": {
-        "hardFails": [
-          "74 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
     {
       "bucket": "blocking",
       "what": "Western Growers Association: voice rule violations",
@@ -376,26 +360,10 @@
       "cost_min": 3,
       "leverage": 5,
       "source": "voice-drift-detector",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "hardFails": [
           "30 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Ballard Partners: voice rule violations",
-      "why": "Ready profile contains 2 em dashes in body, avg sentence length 22 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Dark Money/Ballard Partners.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-26",
-      "metadata": {
-        "hardFails": [
-          "2 em dashes in body"
         ],
         "drift": 1
       }
@@ -408,7 +376,7 @@
       "cost_min": 3,
       "leverage": 5,
       "source": "voice-drift-detector",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "hardFails": [
           "1 em dash in body"
@@ -424,7 +392,7 @@
       "cost_min": 3,
       "leverage": 5,
       "source": "voice-drift-detector",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "hardFails": [
           "2 em dashes in body"
@@ -440,39 +408,7 @@
       "cost_min": 3,
       "leverage": 5,
       "source": "voice-drift-detector",
-      "created": "2026-04-26",
-      "metadata": {
-        "hardFails": [
-          "1 em dash in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Environmental Law & Policy Center: voice rule violations",
-      "why": "Ready profile contains 1 em dash in body, avg sentence length 25 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Dark Money/Environmental Law & Policy Center.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-26",
-      "metadata": {
-        "hardFails": [
-          "1 em dash in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Gun Owners of America: voice rule violations",
-      "why": "Ready profile contains 1 em dash in body, avg sentence length 30 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Dark Money/Gun Owners of America.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "hardFails": [
           "1 em dash in body"
@@ -488,298 +424,10 @@
       "cost_min": 3,
       "leverage": 5,
       "source": "voice-drift-detector",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "hardFails": [
           "1 em dash in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Ocean Conservancy: voice rule violations",
-      "why": "Ready profile contains 1 em dash in body, avg sentence length 21 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Dark Money/Ocean Conservancy.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-26",
-      "metadata": {
-        "hardFails": [
-          "1 em dash in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Trump Donor Coalition: voice rule violations",
-      "why": "Ready profile contains 23 em dashes in body, avg sentence length 21 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Dark Money/Trump Donor Coalition.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-26",
-      "metadata": {
-        "hardFails": [
-          "23 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Boeing Defense: voice rule violations",
-      "why": "Ready profile contains 26 em dashes in body, avg sentence length 24 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Defense & Intelligence/Boeing Defense.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-26",
-      "metadata": {
-        "hardFails": [
-          "26 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Defense Contractors: voice rule violations",
-      "why": "Ready profile contains 2 em dashes in body, avg sentence length 22 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Defense & Intelligence/Defense Contractors.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-26",
-      "metadata": {
-        "hardFails": [
-          "2 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "L3Harris Technologies: voice rule violations",
-      "why": "Ready profile contains 1 em dash in body, avg sentence length 21 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Defense & Intelligence/L3Harris Technologies.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-26",
-      "metadata": {
-        "hardFails": [
-          "1 em dash in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "PG&E - Pacific Gas and Electric: voice rule violations",
-      "why": "Ready profile contains 1x \"testament to\", avg sentence length 27 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Energy & Utilities/PG&E - Pacific Gas and Electric.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-26",
-      "metadata": {
-        "hardFails": [
-          "1x \"testament to\""
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Meatpacking Corporations: voice rule violations",
-      "why": "Ready profile contains 29 em dashes in body, avg sentence length 24 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Pharma & Healthcare/Meatpacking Corporations.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-26",
-      "metadata": {
-        "hardFails": [
-          "29 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Affordable Chicago Now PAC: voice rule violations",
-      "why": "Ready profile contains 1 em dash in body, avg sentence length 42 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Super PACs/Affordable Chicago Now PAC.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-26",
-      "metadata": {
-        "hardFails": [
-          "1 em dash in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Americans for Prosperity: voice rule violations",
-      "why": "Ready profile contains 19 em dashes in body, avg sentence length 23 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Super PACs/Americans for Prosperity.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-26",
-      "metadata": {
-        "hardFails": [
-          "19 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Club for Growth: voice rule violations",
-      "why": "Ready profile contains 17 em dashes in body, avg sentence length 20 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Super PACs/Club for Growth.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-26",
-      "metadata": {
-        "hardFails": [
-          "17 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Congressional Leadership Fund: voice rule violations",
-      "why": "Ready profile contains 22 em dashes in body, avg sentence length 20 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Super PACs/Congressional Leadership Fund.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-26",
-      "metadata": {
-        "hardFails": [
-          "22 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Democratic Senatorial Campaign Committee: voice rule violations",
-      "why": "Ready profile contains 1 em dash in body, avg sentence length 27 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Super PACs/Democratic Senatorial Campaign Committee.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-26",
-      "metadata": {
-        "hardFails": [
-          "1 em dash in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "National Rifle Association: voice rule violations",
-      "why": "Ready profile contains 14 em dashes in body, avg sentence length 24 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Super PACs/National Rifle Association.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-26",
-      "metadata": {
-        "hardFails": [
-          "14 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Senate Majority PAC: voice rule violations",
-      "why": "Ready profile contains 7 em dashes in body, avg sentence length 23 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Super PACs/Senate Majority PAC.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-26",
-      "metadata": {
-        "hardFails": [
-          "7 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Sentinel Action Fund: voice rule violations",
-      "why": "Ready profile contains 5 em dashes in body, avg sentence length 30 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Super PACs/Sentinel Action Fund.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-26",
-      "metadata": {
-        "hardFails": [
-          "5 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Trump Victory: voice rule violations",
-      "why": "Ready profile contains 26 em dashes in body, avg sentence length 22 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Super PACs/Trump Victory.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-26",
-      "metadata": {
-        "hardFails": [
-          "26 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "FTX - Sam Bankman-Fried: voice rule violations",
-      "why": "Ready profile contains 18 em dashes in body, avg sentence length 25 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Tech & Crypto/FTX - Sam Bankman-Fried.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-26",
-      "metadata": {
-        "hardFails": [
-          "18 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Morgan Stanley: voice rule violations",
-      "why": "Ready profile contains 12 em dashes in body, avg sentence length 27 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Wall Street/Morgan Stanley.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-26",
-      "metadata": {
-        "hardFails": [
-          "12 em dashes in body"
         ],
         "drift": 1
       }
@@ -792,26 +440,10 @@
       "cost_min": 3,
       "leverage": 5,
       "source": "voice-drift-detector",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "hardFails": [
           "13 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Graham Platner Master Profile: voice rule violations",
-      "why": "Ready profile contains 4 em dashes in body, avg sentence length 26 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Politicians/Democrats/Senate/Graham Platner/_Graham Platner Master Profile.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-26",
-      "metadata": {
-        "hardFails": [
-          "4 em dashes in body"
         ],
         "drift": 1
       }
@@ -824,12 +456,364 @@
       "cost_min": 3,
       "leverage": 5,
       "source": "voice-drift-detector",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "hardFails": [
           "4 em dashes in body"
         ],
         "drift": 1
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "Chip Roy Master Profile: voice rule violations",
+      "why": "Ready profile contains 18 em dashes in body, avg sentence length 21 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Politicians/Republicans/House/Chip Roy/_Chip Roy Master Profile.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-27",
+      "metadata": {
+        "hardFails": [
+          "18 em dashes in body"
+        ],
+        "drift": 1
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "John Boehner: voice rule violations",
+      "why": "Ready profile contains 5 em dashes in body, avg sentence length 21 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Politicians/Republicans/House/John Boehner/_John Boehner Master Profile.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-27",
+      "metadata": {
+        "hardFails": [
+          "5 em dashes in body"
+        ],
+        "drift": 1
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "Paul Ryan: voice rule violations",
+      "why": "Ready profile contains 5 em dashes in body, avg sentence length 21 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Politicians/Republicans/House/Paul Ryan/_Paul Ryan Master Profile.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-27",
+      "metadata": {
+        "hardFails": [
+          "5 em dashes in body"
+        ],
+        "drift": 1
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "Ashley Hinson Master Profile: voice rule violations",
+      "why": "Ready profile contains 8 em dashes in body, avg sentence length 26 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Politicians/Republicans/Senate/Ashley Hinson/_Ashley Hinson Master Profile.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-27",
+      "metadata": {
+        "hardFails": [
+          "8 em dashes in body"
+        ],
+        "drift": 1
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "John Hoeven: voice rule violations",
+      "why": "Ready profile contains 16 em dashes in body, avg sentence length 24 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Politicians/Republicans/Senate/John Hoeven/_John Hoeven Master Profile.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-27",
+      "metadata": {
+        "hardFails": [
+          "16 em dashes in body"
+        ],
+        "drift": 1
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "Cargill: voice rule violations",
+      "why": "Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Donors & Power Networks/Agriculture/Cargill.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-27",
+      "metadata": {
+        "hardFails": [
+          "1 em dash in body"
+        ],
+        "drift": 0
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "John Deere: voice rule violations",
+      "why": "Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Donors & Power Networks/Agriculture/John Deere.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-27",
+      "metadata": {
+        "hardFails": [
+          "1 em dash in body"
+        ],
+        "drift": 0
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "Tyson Foods: voice rule violations",
+      "why": "Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Donors & Power Networks/Agriculture/Tyson Foods.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-27",
+      "metadata": {
+        "hardFails": [
+          "1 em dash in body"
+        ],
+        "drift": 0
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "ActBlue: voice rule violations",
+      "why": "Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Donors & Power Networks/Dark Money/ActBlue.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-27",
+      "metadata": {
+        "hardFails": [
+          "1 em dash in body"
+        ],
+        "drift": 0
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "Timothy Mellon: voice rule violations",
+      "why": "Ready profile contains 2 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Donors & Power Networks/Mega-Donors/Timothy Mellon.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-27",
+      "metadata": {
+        "hardFails": [
+          "2 em dashes in body"
+        ],
+        "drift": 0
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "Pfizer Inc.: voice rule violations",
+      "why": "Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Donors & Power Networks/Pharma & Healthcare/Pfizer.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-27",
+      "metadata": {
+        "hardFails": [
+          "1 em dash in body"
+        ],
+        "drift": 0
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "Alexandria Ocasio-Cortez Master Profile: voice rule violations",
+      "why": "Ready profile contains 24 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Politicians/Democrats/House/Alexandria Ocasio-Cortez/_Alexandria Ocasio-Cortez Master Profile.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-27",
+      "metadata": {
+        "hardFails": [
+          "24 em dashes in body"
+        ],
+        "drift": 0
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "Cori Bush: voice rule violations",
+      "why": "Ready profile contains 13 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Politicians/Democrats/House/Cori Bush/_Cori Bush Master Profile.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-27",
+      "metadata": {
+        "hardFails": [
+          "13 em dashes in body"
+        ],
+        "drift": 0
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "Frank Pallone: voice rule violations",
+      "why": "Ready profile contains 19 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Politicians/Democrats/House/Frank Pallone/_Frank Pallone Master Profile.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-27",
+      "metadata": {
+        "hardFails": [
+          "19 em dashes in body"
+        ],
+        "drift": 0
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "Jim Himes: voice rule violations",
+      "why": "Ready profile contains 17 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Politicians/Democrats/House/Jim Himes/_Jim Himes Master Profile.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-27",
+      "metadata": {
+        "hardFails": [
+          "17 em dashes in body"
+        ],
+        "drift": 0
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "Nancy Pelosi: voice rule violations",
+      "why": "Ready profile contains 12 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Politicians/Democrats/House/Nancy Pelosi/_Nancy Pelosi Master Profile.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-27",
+      "metadata": {
+        "hardFails": [
+          "12 em dashes in body"
+        ],
+        "drift": 0
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "Zoe Lofgren: voice rule violations",
+      "why": "Ready profile contains 13 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Politicians/Democrats/House/Zoe Lofgren/_Zoe Lofgren Master Profile.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-27",
+      "metadata": {
+        "hardFails": [
+          "13 em dashes in body"
+        ],
+        "drift": 0
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "Ed Markey: voice rule violations",
+      "why": "Ready profile contains 17 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Politicians/Democrats/Senate/Ed Markey/_Ed Markey Master Profile.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-27",
+      "metadata": {
+        "hardFails": [
+          "17 em dashes in body"
+        ],
+        "drift": 0
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "Sheldon Whitehouse: voice rule violations",
+      "why": "Ready profile contains 33 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Politicians/Democrats/Senate/Sheldon Whitehouse/_Sheldon Whitehouse Master Profile.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-27",
+      "metadata": {
+        "hardFails": [
+          "33 em dashes in body"
+        ],
+        "drift": 0
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "Tammy Duckworth: voice rule violations",
+      "why": "Ready profile contains 16 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Politicians/Democrats/Senate/Tammy Duckworth/_Tammy Duckworth Master Profile.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-27",
+      "metadata": {
+        "hardFails": [
+          "16 em dashes in body"
+        ],
+        "drift": 0
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "Katie Porter Master Profile: voice rule violations",
+      "why": "Ready profile contains 20 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Politicians/Races/CA Governor 2026/Katie Porter/_Katie Porter Master Profile.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-27",
+      "metadata": {
+        "hardFails": [
+          "20 em dashes in body"
+        ],
+        "drift": 0
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "James Comer: voice rule violations",
+      "why": "Ready profile contains 11 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Politicians/Republicans/House/James Comer/_James Comer Master Profile.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-27",
+      "metadata": {
+        "hardFails": [
+          "11 em dashes in body"
+        ],
+        "drift": 0
       }
     }
   ],
@@ -842,7 +826,7 @@
       "cost_min": 25,
       "leverage": 5,
       "source": "contradiction-miner",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "type": "both-sides",
         "confidence": 5
@@ -856,7 +840,7 @@
       "cost_min": 25,
       "leverage": 4,
       "source": "contradiction-miner",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "type": "cross-party",
         "confidence": 4
@@ -870,7 +854,7 @@
       "cost_min": 25,
       "leverage": 4,
       "source": "contradiction-miner",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "type": "committee-capture",
         "confidence": 4
@@ -884,7 +868,7 @@
       "cost_min": 25,
       "leverage": 3,
       "source": "contradiction-miner",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "type": "issue-contradiction",
         "confidence": 3
@@ -898,7 +882,7 @@
       "cost_min": 25,
       "leverage": 3,
       "source": "contradiction-miner",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "type": "offshore-exposure",
         "confidence": 3
@@ -912,7 +896,7 @@
       "cost_min": 25,
       "leverage": 3,
       "source": "contradiction-miner",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "type": "policy-capture-sponsorship",
         "confidence": 3
@@ -926,7 +910,7 @@
       "cost_min": 25,
       "leverage": 5,
       "source": "contradiction-miner",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "type": "both-sides",
         "confidence": 5
@@ -940,7 +924,7 @@
       "cost_min": 25,
       "leverage": 4,
       "source": "contradiction-miner",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "type": "cross-party",
         "confidence": 4
@@ -954,7 +938,7 @@
       "cost_min": 25,
       "leverage": 4,
       "source": "contradiction-miner",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "type": "committee-capture",
         "confidence": 4
@@ -968,7 +952,7 @@
       "cost_min": 25,
       "leverage": 3,
       "source": "contradiction-miner",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "type": "issue-contradiction",
         "confidence": 3
@@ -982,7 +966,7 @@
       "cost_min": 25,
       "leverage": 3,
       "source": "contradiction-miner",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "type": "offshore-exposure",
         "confidence": 3
@@ -990,13 +974,13 @@
     },
     {
       "bucket": "deciding",
-      "what": "Marcia Fudge sponsored 14 \"Agriculture and Food\" bills; top donors include 4 from matching sector",
+      "what": "Marcia Fudge sponsored 14 \"Agriculture and Food\" bills; top donors include 3 from matching sector",
       "why": "Marcia Fudge has sponsored 14 bills in the \"Agriculture and Food\" policy area. Their top donors include: McDonalds Corporation (Restaurant & Food), National Restaurant Association (Restaurant & Food), Monsanto - Bayer (Agriculture). This is the classic policy-capture-by-money pattern — legislator acts as a direct channel for donor industry interest",
       "where": "content/Story Seeds/policy-capture-sponsorship-marcia-fudge-sponsored-14-agriculture-and-food-bills-.md",
       "cost_min": 25,
       "leverage": 3,
       "source": "contradiction-miner",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "type": "policy-capture-sponsorship",
         "confidence": 3
@@ -1010,7 +994,7 @@
       "cost_min": 25,
       "leverage": 5,
       "source": "contradiction-miner",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "type": "both-sides",
         "confidence": 5
@@ -1024,7 +1008,7 @@
       "cost_min": 25,
       "leverage": 4,
       "source": "contradiction-miner",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "type": "cross-party",
         "confidence": 4
@@ -1038,7 +1022,7 @@
       "cost_min": 25,
       "leverage": 4,
       "source": "contradiction-miner",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "type": "committee-capture",
         "confidence": 4
@@ -1054,7 +1038,7 @@
       "cost_min": 10,
       "leverage": 5,
       "source": "missing-profile-detector",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "refCount": 268
       }
@@ -1067,7 +1051,7 @@
       "cost_min": 10,
       "leverage": 5,
       "source": "missing-profile-detector",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "refCount": 238
       }
@@ -1080,7 +1064,7 @@
       "cost_min": 10,
       "leverage": 5,
       "source": "missing-profile-detector",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "refCount": 212
       }
@@ -1093,7 +1077,7 @@
       "cost_min": 10,
       "leverage": 5,
       "source": "missing-profile-detector",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "refCount": 184
       }
@@ -1106,7 +1090,7 @@
       "cost_min": 10,
       "leverage": 5,
       "source": "missing-profile-detector",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "refCount": 171
       }
@@ -1114,14 +1098,14 @@
     {
       "bucket": "compounding",
       "what": "Build stub: JIM JORDAN FOR CONGRESS",
-      "why": "Referenced by 162 other vault profiles but has no file yet. Building a stub unlocks 162 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Ron DeSantis, Aaron Bean, Abraham J. Hamadeh.",
+      "why": "Referenced by 161 other vault profiles but has no file yet. Building a stub unlocks 161 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Ron DeSantis, Aaron Bean, Abraham J. Hamadeh.",
       "where": "content/Admin Notes/missing-profiles.md",
       "cost_min": 10,
       "leverage": 5,
       "source": "missing-profile-detector",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
-        "refCount": 162
+        "refCount": 161
       }
     },
     {
@@ -1132,7 +1116,7 @@
       "cost_min": 10,
       "leverage": 5,
       "source": "missing-profile-detector",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "refCount": 136
       }
@@ -1145,7 +1129,7 @@
       "cost_min": 10,
       "leverage": 5,
       "source": "missing-profile-detector",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "refCount": 129
       }
@@ -1153,14 +1137,14 @@
     {
       "bucket": "compounding",
       "what": "Build stub: JASON SMITH FOR CONGRESS",
-      "why": "Referenced by 127 other vault profiles but has no file yet. Building a stub unlocks 127 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Adrian Smith, Andrew Ogles, Andrew R. Garbarino.",
+      "why": "Referenced by 126 other vault profiles but has no file yet. Building a stub unlocks 126 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Adrian Smith, Andrew Ogles, Andrew R. Garbarino.",
       "where": "content/Admin Notes/missing-profiles.md",
       "cost_min": 10,
       "leverage": 5,
       "source": "missing-profile-detector",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
-        "refCount": 127
+        "refCount": 126
       }
     },
     {
@@ -1171,7 +1155,7 @@
       "cost_min": 10,
       "leverage": 5,
       "source": "missing-profile-detector",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "refCount": 117
       }
@@ -1179,14 +1163,14 @@
     {
       "bucket": "compounding",
       "what": "Build stub: AUSTIN SCOTT FOR CONGRESS INC",
-      "why": "Referenced by 115 other vault profiles but has no file yet. Building a stub unlocks 115 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Andrew R. Garbarino, Andrew S. Clyde, Andy Barr.",
+      "why": "Referenced by 114 other vault profiles but has no file yet. Building a stub unlocks 114 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Andrew R. Garbarino, Andrew S. Clyde, Andy Barr.",
       "where": "content/Admin Notes/missing-profiles.md",
       "cost_min": 10,
       "leverage": 5,
       "source": "missing-profile-detector",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
-        "refCount": 115
+        "refCount": 114
       }
     },
     {
@@ -1197,7 +1181,7 @@
       "cost_min": 10,
       "leverage": 5,
       "source": "missing-profile-detector",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "refCount": 107
       }
@@ -1210,7 +1194,7 @@
       "cost_min": 10,
       "leverage": 5,
       "source": "missing-profile-detector",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "refCount": 106
       }
@@ -1223,7 +1207,7 @@
       "cost_min": 10,
       "leverage": 5,
       "source": "missing-profile-detector",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "refCount": 89
       }
@@ -1236,7 +1220,7 @@
       "cost_min": 10,
       "leverage": 5,
       "source": "missing-profile-detector",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "refCount": 88
       }
@@ -1251,7 +1235,7 @@
       "cost_min": 2,
       "leverage": 5,
       "source": "promotion-candidate-queue",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "signoffOnly": true,
         "type": "corporation"
@@ -1265,7 +1249,7 @@
       "cost_min": 2,
       "leverage": 5,
       "source": "promotion-candidate-queue",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "signoffOnly": true,
         "type": "donor"
@@ -1279,7 +1263,7 @@
       "cost_min": 2,
       "leverage": 5,
       "source": "promotion-candidate-queue",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "signoffOnly": true,
         "type": "corporation"
@@ -1293,7 +1277,7 @@
       "cost_min": 2,
       "leverage": 5,
       "source": "promotion-candidate-queue",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "signoffOnly": true,
         "type": "donor"
@@ -1307,7 +1291,7 @@
       "cost_min": 2,
       "leverage": 5,
       "source": "promotion-candidate-queue",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "signoffOnly": true,
         "type": "donor"
@@ -1321,7 +1305,7 @@
       "cost_min": 2,
       "leverage": 5,
       "source": "promotion-candidate-queue",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "signoffOnly": true,
         "type": "donor"
@@ -1335,7 +1319,7 @@
       "cost_min": 2,
       "leverage": 5,
       "source": "promotion-candidate-queue",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "signoffOnly": true,
         "type": "donor"
@@ -1349,7 +1333,7 @@
       "cost_min": 2,
       "leverage": 5,
       "source": "promotion-candidate-queue",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "signoffOnly": true,
         "type": "donor"
@@ -1363,7 +1347,7 @@
       "cost_min": 2,
       "leverage": 5,
       "source": "promotion-candidate-queue",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "signoffOnly": true,
         "type": "donor"
@@ -1377,7 +1361,7 @@
       "cost_min": 2,
       "leverage": 5,
       "source": "promotion-candidate-queue",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "signoffOnly": true,
         "type": "donor"
@@ -1389,7 +1373,7 @@
     {
       "bucket": "compounding",
       "what": "vault-audit: pipeline-janitor — 225 findings",
-      "why": "Zombie auto-blocks, stale enrichment, A+ audit checks on ready/verified profiles — Scanned 3252 profiles. 225 had issues.",
+      "why": "Zombie auto-blocks, stale enrichment, A+ audit checks on ready/verified profiles — Scanned 3268 profiles. 225 had issues.",
       "where": "/system-health",
       "cost_min": 60,
       "leverage": 3,
@@ -1398,6 +1382,20 @@
       "metadata": {
         "check": "pipeline-janitor",
         "findings_count": 225
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "vault-audit: harness-self-audit — 10 findings",
+      "why": "Meta-audit: unscheduled builders, stalled producers, auto-block taxonomy drift between janitor and builders — 10 stalled-producer",
+      "where": "/system-health",
+      "cost_min": 15,
+      "leverage": 5,
+      "source": "vault-audit",
+      "created": "2026-04-27",
+      "metadata": {
+        "check": "harness-self-audit",
+        "findings_count": 10
       }
     },
     {
@@ -1430,8 +1428,36 @@
     },
     {
       "bucket": "deciding",
+      "what": "vault-audit: reconciliation-framework-tier-1 — 60 findings",
+      "why": "Data integrity: absurd-value frontmatter, self-loop edges, duplicates, orphans — 60 error, 5180 warn (5240 findings total).",
+      "where": "/system-health",
+      "cost_min": 45,
+      "leverage": 4,
+      "source": "vault-audit",
+      "created": "2026-04-27",
+      "metadata": {
+        "check": "reconciliation-framework-tier-1",
+        "findings_count": 60
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "vault-audit: leftover-artifacts — 66 findings",
+      "why": "Transient files (dedup .bak, temp, stray logs) not gitignored — commit-scope risk + disk cruft — 66 transient file(s) not gitignored (dedup backups, temp files, stray logs)",
+      "where": "/system-health",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "vault-audit",
+      "created": "2026-04-27",
+      "metadata": {
+        "check": "leftover-artifacts",
+        "findings_count": 66
+      }
+    },
+    {
+      "bucket": "deciding",
       "what": "vault-audit: frontmatter-schema — 232 findings",
-      "why": "Frontmatter schema violations per ADR-0023 (universal/type-required/proposed-required/retired) — 2955 scanned, 1689 with violations. 232 error(s) (universal/type-required/id/retired/unknown-type), 3082 info (proposed-required backfill per ADR-0023 Phase C/D).",
+      "why": "Frontmatter schema violations per ADR-0023 (universal/type-required/proposed-required/retired) — 2958 scanned, 1689 with violations. 232 error(s) (universal/type-required/id/retired/unknown-type), 3082 info (proposed-required backfill per ADR-0023 Phase C/D).",
       "where": "/system-health",
       "cost_min": 60,
       "leverage": 3,
@@ -1440,20 +1466,6 @@
       "metadata": {
         "check": "frontmatter-schema",
         "findings_count": 232
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "vault-audit: dispatcher-alive — 1 finding",
-      "why": "Attention Queue dispatcher daemon liveness — log freshness during expected-uptime window — Dispatcher log file does not exist. Daemon has never run on this machine. Install the Windows Startup shortcut or run scripts/attention-dispatcher.bat manually.",
-      "where": "/system-health",
-      "cost_min": 5,
-      "leverage": 5,
-      "source": "vault-audit",
-      "created": "2026-04-27",
-      "metadata": {
-        "check": "dispatcher-alive",
-        "findings_count": 1
       }
     },
     {
@@ -1486,8 +1498,8 @@
     },
     {
       "bucket": "compounding",
-      "what": "vault-audit: class-tag-staleness — 13 findings",
-      "why": "Reconciled class-tag proposals (augmentation + conflict) that need human review. Augmentation = proposal would add fields to a partially-tagged entity. Conflict = proposal disagrees with persisted single-value field. See ops /class-tags page filtered to status=conflict or status=augmentation. — 13 reconciled proposals need human eye (2 conflict + 11 augmentation), oldest 11d. See ops /class-tags p",
+      "what": "vault-audit: class-tag-staleness — 8 findings",
+      "why": "Reconciled class-tag proposals (augmentation + conflict) that need human review. Augmentation = proposal would add fields to a partially-tagged entity. Conflict = proposal disagrees with persisted single-value field. See ops /class-tags page filtered to status=conflict or status=augmentation. — 8 reconciled proposals need human eye (2 conflict + 6 augmentation), oldest 11d. See ops /class-tags pag",
       "where": "/system-health",
       "cost_min": 5,
       "leverage": 2,
@@ -1495,7 +1507,7 @@
       "created": "2026-04-27",
       "metadata": {
         "check": "class-tag-staleness",
-        "findings_count": 13
+        "findings_count": 8
       }
     }
   ],
@@ -1508,7 +1520,7 @@
       "cost_min": 90,
       "leverage": 5,
       "source": "story-candidate-scorer",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "strategy": "dark_money_network",
         "score": 25.64,
@@ -1533,7 +1545,7 @@
       "cost_min": 90,
       "leverage": 5,
       "source": "story-candidate-scorer",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "strategy": "dark_money_network",
         "score": 24.29,
@@ -1558,7 +1570,7 @@
       "cost_min": 90,
       "leverage": 5,
       "source": "story-candidate-scorer",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "strategy": "dark_money_network",
         "score": 24.2,
@@ -1583,7 +1595,7 @@
       "cost_min": 90,
       "leverage": 5,
       "source": "story-candidate-scorer",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "strategy": "dark_money_network",
         "score": 24.2,
@@ -1608,7 +1620,7 @@
       "cost_min": 90,
       "leverage": 5,
       "source": "story-candidate-scorer",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "strategy": "dark_money_network",
         "score": 23.94,
@@ -1633,7 +1645,7 @@
       "cost_min": 90,
       "leverage": 5,
       "source": "story-candidate-scorer",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "strategy": "dark_money_network",
         "score": 23.86,
@@ -1658,7 +1670,7 @@
       "cost_min": 90,
       "leverage": 5,
       "source": "story-candidate-scorer",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "strategy": "dark_money_network",
         "score": 23.72,
@@ -1683,7 +1695,7 @@
       "cost_min": 90,
       "leverage": 5,
       "source": "story-candidate-scorer",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "strategy": "dark_money_network",
         "score": 23.69,
@@ -1708,7 +1720,7 @@
       "cost_min": 90,
       "leverage": 5,
       "source": "story-candidate-scorer",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "strategy": "dark_money_network",
         "score": 23.28,
@@ -1733,7 +1745,7 @@
       "cost_min": 90,
       "leverage": 5,
       "source": "story-candidate-scorer",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "strategy": "dark_money_network",
         "score": 23.28,
@@ -1758,7 +1770,7 @@
       "cost_min": 90,
       "leverage": 5,
       "source": "story-candidate-scorer",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "strategy": "dark_money_network",
         "score": 23.1,
@@ -1783,7 +1795,7 @@
       "cost_min": 90,
       "leverage": 5,
       "source": "story-candidate-scorer",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "strategy": "dark_money_network",
         "score": 23.05,
@@ -1808,7 +1820,7 @@
       "cost_min": 90,
       "leverage": 5,
       "source": "story-candidate-scorer",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "strategy": "dark_money_network",
         "score": 23.04,
@@ -1833,7 +1845,7 @@
       "cost_min": 90,
       "leverage": 5,
       "source": "story-candidate-scorer",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "strategy": "dark_money_network",
         "score": 23.02,
@@ -1858,7 +1870,7 @@
       "cost_min": 90,
       "leverage": 5,
       "source": "story-candidate-scorer",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "strategy": "dark_money_network",
         "score": 22.95,
@@ -1883,7 +1895,7 @@
       "cost_min": 90,
       "leverage": 5,
       "source": "story-candidate-scorer",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "strategy": "dark_money_network",
         "score": 22.91,
@@ -1908,7 +1920,7 @@
       "cost_min": 90,
       "leverage": 5,
       "source": "story-candidate-scorer",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "strategy": "dark_money_network",
         "score": 22.78,
@@ -1933,7 +1945,7 @@
       "cost_min": 90,
       "leverage": 5,
       "source": "story-candidate-scorer",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "strategy": "dark_money_network",
         "score": 22.59,
@@ -1958,7 +1970,7 @@
       "cost_min": 90,
       "leverage": 5,
       "source": "story-candidate-scorer",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "strategy": "dark_money_network",
         "score": 22.27,
@@ -1983,7 +1995,7 @@
       "cost_min": 90,
       "leverage": 5,
       "source": "story-candidate-scorer",
-      "created": "2026-04-26",
+      "created": "2026-04-27",
       "metadata": {
         "strategy": "dark_money_network",
         "score": 22.21,

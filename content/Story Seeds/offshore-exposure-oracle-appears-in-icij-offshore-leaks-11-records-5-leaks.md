@@ -3,14 +3,14 @@ title: "Oracle appears in ICIJ Offshore Leaks (11 records, 5 leaks)"
 type: story-seed
 seed-type: offshore-exposure
 confidence: 3
-last-updated: '2026-04-26'
+last-updated: '2026-04-27'
 auto-generated: true
 status: unclaimed
 ---
 
 # Oracle appears in ICIJ Offshore Leaks (11 records, 5 leaks)
 
-_Confidence: ★★★☆☆ · Surfaced by contradiction-miner on 2026-04-26_
+_Confidence: ★★★☆☆ · Surfaced by contradiction-miner on 2026-04-27_
 
 ## The angle
 

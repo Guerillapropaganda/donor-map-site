@@ -1,12 +1,12 @@
 {
   "stats": {
-    "lastUpdated": "2026-04-24T05:15:21.589Z",
+    "lastUpdated": "2026-04-26T13:04:08.475Z",
     "lookbackDays": 90,
     "senateFilings": 40,
-    "houseFilings": 119,
-    "totalFilings": 159,
-    "totalTransactions": 808,
-    "runtime": "237.5s"
+    "houseFilings": 118,
+    "totalFilings": 158,
+    "totalTransactions": 804,
+    "runtime": "236.2s"
   },
   "filings": [
     {
@@ -6328,39 +6328,6 @@
         "district": "09"
       },
       "filing": {
-        "date": "1/26/2026",
-        "type": "PTR",
-        "docId": "20033813",
-        "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033813.pdf",
-        "sourceSystem": "disclosures-clerk.house.gov"
-      },
-      "transactions": [
-        {
-          "transactionDate": "12/29/2025",
-          "owner": "Self",
-          "ticker": "NOC",
-          "assetDescription": "Northrop Grumman Corporation Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 15001,
-            "max": 50000,
-            "text": "$15,001 -\n$50,000"
-          },
-          "comment": ""
-        }
-      ]
-    },
-    {
-      "chamber": "House",
-      "filer": {
-        "firstName": "Steve",
-        "lastName": "Cohen",
-        "name": "Hon. Steve Cohen",
-        "state": "TN",
-        "district": "09"
-      },
-      "filing": {
         "date": "2/9/2026",
         "type": "PTR",
         "docId": "20033889",
@@ -10331,6 +10298,24 @@
     {
       "chamber": "House",
       "filer": {
+        "firstName": "Robert E.",
+        "lastName": "Latta",
+        "name": "Hon. Robert E. Latta",
+        "state": "OH",
+        "district": "05"
+      },
+      "filing": {
+        "date": "4/24/2026",
+        "type": "PTR",
+        "docId": "20034401",
+        "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034401.pdf",
+        "sourceSystem": "disclosures-clerk.house.gov"
+      },
+      "transactions": []
+    },
+    {
+      "chamber": "House",
+      "filer": {
         "firstName": "Julia",
         "lastName": "Letlow",
         "name": "Hon. Julia Letlow",
@@ -11338,67 +11323,6 @@
             "min": 1001,
             "max": 15000,
             "text": "$1,001 - $15,000"
-          },
-          "comment": ""
-        }
-      ]
-    },
-    {
-      "chamber": "House",
-      "filer": {
-        "firstName": "Tim",
-        "lastName": "Moore",
-        "name": "Hon. Tim Moore",
-        "state": "NC",
-        "district": "14"
-      },
-      "filing": {
-        "date": "1/24/2026",
-        "type": "PTR",
-        "docId": "20033856",
-        "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033856.pdf",
-        "sourceSystem": "disclosures-clerk.house.gov"
-      },
-      "transactions": [
-        {
-          "transactionDate": "01/05/2026",
-          "owner": "Self",
-          "ticker": "CBRL",
-          "assetDescription": "Cracker Barrel Old Country Store, Inc. - Common Stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 50001,
-            "max": 100000,
-            "text": "$50,001 -\n$100,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "12/31/2025",
-          "owner": "Self",
-          "ticker": "HY",
-          "assetDescription": "Hyster-Yale, Inc. Class A common stock",
-          "assetType": "Stock",
-          "transactionType": "Purchase",
-          "amount": {
-            "min": 15001,
-            "max": 50000,
-            "text": "$15,001 -\n$50,000"
-          },
-          "comment": ""
-        },
-        {
-          "transactionDate": "01/05/2026",
-          "owner": "Self",
-          "ticker": "HY",
-          "assetDescription": "Hyster-Yale, Inc. Class A common stock",
-          "assetType": "Stock",
-          "transactionType": "Sale",
-          "amount": {
-            "min": 15001,
-            "max": 50000,
-            "text": "$15,001 -\n$50,000"
           },
           "comment": ""
         }

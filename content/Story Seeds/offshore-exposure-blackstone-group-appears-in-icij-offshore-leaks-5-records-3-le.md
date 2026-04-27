@@ -3,14 +3,14 @@ title: "Blackstone Group appears in ICIJ Offshore Leaks (5 records, 3 leaks)"
 type: story-seed
 seed-type: offshore-exposure
 confidence: 3
-last-updated: '2026-04-26'
+last-updated: '2026-04-27'
 auto-generated: true
 status: unclaimed
 ---
 
 # Blackstone Group appears in ICIJ Offshore Leaks (5 records, 3 leaks)
 
-_Confidence: ★★★☆☆ · Surfaced by contradiction-miner on 2026-04-26_
+_Confidence: ★★★☆☆ · Surfaced by contradiction-miner on 2026-04-27_
 
 ## The angle
 

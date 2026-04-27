@@ -1,20 +1,20 @@
 ---
-title: "Andre Carson sponsored 7 'Health' bills; top donors include 3 from matching sector"
+title: "Andre Carson sponsored 7 'Health' bills; top donors include 2 from matching sector"
 type: story-seed
 seed-type: policy-capture-sponsorship
 confidence: 3
-last-updated: '2026-04-26'
+last-updated: '2026-04-27'
 auto-generated: true
 status: unclaimed
 ---
 
-# Andre Carson sponsored 7 "Health" bills; top donors include 3 from matching sector
+# Andre Carson sponsored 7 "Health" bills; top donors include 2 from matching sector
 
-_Confidence: ★★★☆☆ · Surfaced by contradiction-miner on 2026-04-26_
+_Confidence: ★★★☆☆ · Surfaced by contradiction-miner on 2026-04-27_
 
 ## The angle
 
-Andre Carson has sponsored 7 bills in the "Health" policy area. Their top donors include: Amgen Inc (Pharma & Healthcare), AbbVie (Pharma & Healthcare), Anthem - Elevance Health (Healthcare). This is the classic policy-capture-by-money pattern — legislator acts as a direct channel for donor industry interests. Pull the bill list (query Ask with `subject: bills, sponsor_bioguide: C001072, policy_area: Health`) and cross-reference with donor industry positions on those specific bills.
+Andre Carson has sponsored 7 bills in the "Health" policy area. Their top donors include: Anthem - Elevance Health (Healthcare), Amgen Inc (Pharma & Healthcare). This is the classic policy-capture-by-money pattern — legislator acts as a direct channel for donor industry interests. Pull the bill list (query Ask with `subject: bills, sponsor_bioguide: C001072, policy_area: Health`) and cross-reference with donor industry positions on those specific bills.
 
 ## Evidence from the vault
 

@@ -3,14 +3,14 @@ title: "Sheldon Whitehouse has Judicial Crisis Network in both donors and oppose
 type: story-seed
 seed-type: both-sides
 confidence: 5
-last-updated: '2026-04-26'
+last-updated: '2026-04-27'
 auto-generated: true
 status: unclaimed
 ---
 
 # Sheldon Whitehouse has Judicial Crisis Network in both donors and opposes
 
-_Confidence: ★★★★★ · Surfaced by contradiction-miner on 2026-04-26_
+_Confidence: ★★★★★ · Surfaced by contradiction-miner on 2026-04-27_
 
 ## The angle
 

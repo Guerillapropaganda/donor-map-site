@@ -3,14 +3,14 @@ title: "Adam Smith sponsored 25 'Health' bills; top donors include 1 from matchi
 type: story-seed
 seed-type: policy-capture-sponsorship
 confidence: 3
-last-updated: '2026-04-26'
+last-updated: '2026-04-27'
 auto-generated: true
 status: unclaimed
 ---
 
 # Adam Smith sponsored 25 "Health" bills; top donors include 1 from matching sector
 
-_Confidence: ★★★☆☆ · Surfaced by contradiction-miner on 2026-04-26_
+_Confidence: ★★★☆☆ · Surfaced by contradiction-miner on 2026-04-27_
 
 ## The angle
 
