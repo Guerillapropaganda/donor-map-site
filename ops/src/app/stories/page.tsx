@@ -172,6 +172,11 @@ export default function StoriesPage() {
   const [notesText, setNotesText] = useState("")
   const [saving, setSaving] = useState<string | null>(null)
 
+  // Bulk-action state: tracks which stories are selected via checkbox.
+  // The bulk-action bar appears whenever this set is non-empty.
+  const [selected, setSelected] = useState<Set<string>>(new Set())
+  const [bulkSaving, setBulkSaving] = useState(false)
+
   const fetchStories = useCallback(async () => {
     setLoading(true)
     setError(null)
@@ -225,6 +230,54 @@ export default function StoriesPage() {
   const demoteState = (story: Story) => {
     const idx = STATE_ORDER.indexOf(story.state)
     if (idx > 0) patch(story.id, { state: STATE_ORDER[idx - 1] })
+  }
+
+  const toggleSelect = (id: string) => {
+    setSelected(prev => {
+      const next = new Set(prev)
+      if (next.has(id)) next.delete(id)
+      else next.add(id)
+      return next
+    })
+  }
+
+  const selectAllInView = () => {
+    setSelected(new Set(filtered.map(s => s.id)))
+  }
+
+  const clearSelection = () => setSelected(new Set())
+
+  /** Bulk PATCH — sends an `ids: []` payload, refreshes from API result. */
+  const bulkPatch = useCallback(async (update: Record<string, unknown>) => {
+    if (selected.size === 0) return
+    setBulkSaving(true)
+    try {
+      const res = await fetch("/api/stories", {
+        method: "PATCH",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ ids: [...selected], ...update }),
+      })
+      if (!res.ok) throw new Error(await res.text())
+      const data = await res.json()
+      const updatedById = new Map<string, Story>(
+        (data.stories as Story[]).map((s) => [s.id, s]),
+      )
+      setStories(prev => prev.map(s => updatedById.get(s.id) ?? s))
+      // Don't auto-clear selection — user may want to chain actions
+    } catch (e: unknown) {
+      alert(`Bulk save failed: ${e instanceof Error ? e.message : String(e)}`)
+    } finally {
+      setBulkSaving(false)
+    }
+  }, [selected])
+
+  const bulkArchive = () => {
+    const reason = prompt(
+      `Archive ${selected.size} stor${selected.size === 1 ? "y" : "ies"}?\n\nReason (recorded to false-positive log so the detector won't re-surface these patterns):`,
+      "false-positive: bulk-rejected",
+    )
+    if (reason === null) return
+    bulkPatch({ state: "archived", archive_reason: reason || null })
   }
 
   const archiveStory = (story: Story) => {
@@ -367,6 +420,81 @@ export default function StoriesPage() {
           </span>
         </div>
 
+        {/* Bulk action bar — appears when 1+ rows are selected */}
+        {selected.size > 0 && (
+          <div className="bg-blue-950/40 border border-blue-800 rounded p-3 flex flex-wrap gap-2 items-center text-sm">
+            <span className="text-blue-300 font-medium">
+              {selected.size} selected
+            </span>
+            <span className="text-gray-500">·</span>
+            <button
+              className="text-xs px-2 py-1 bg-gray-700 hover:bg-gray-600 rounded text-gray-300"
+              onClick={selectAllInView}
+              disabled={bulkSaving}
+              title="Add all currently-visible (filtered) rows to the selection"
+            >
+              + select all in view ({filtered.length})
+            </button>
+            <button
+              className="text-xs px-2 py-1 bg-gray-700 hover:bg-gray-600 rounded text-gray-300"
+              onClick={clearSelection}
+              disabled={bulkSaving}
+            >
+              clear
+            </button>
+
+            <span className="text-gray-500 ml-2">·</span>
+
+            <button
+              className="text-xs px-2 py-1 bg-red-950 text-red-400 hover:bg-red-900 hover:text-red-300 rounded disabled:opacity-50"
+              onClick={bulkArchive}
+              disabled={bulkSaving}
+              title="Archive all selected. Each gets a false-positive-log entry so detectors won't re-surface them."
+            >
+              🗑 archive {selected.size}
+            </button>
+
+            <select
+              className="text-xs bg-gray-800 border border-gray-700 rounded px-2 py-1 focus:outline-none"
+              value=""
+              disabled={bulkSaving}
+              onChange={e => {
+                const v = e.target.value
+                if (!v) return
+                if (!confirm(`Set state to "${v}" on ${selected.size} stor${selected.size === 1 ? "y" : "ies"}?`)) return
+                bulkPatch({ state: v })
+              }}
+              title="Bulk-set the state on all selected"
+            >
+              <option value="">set state…</option>
+              {STATE_ORDER.map(s => (
+                <option key={s} value={s}>→ {s}</option>
+              ))}
+            </select>
+
+            <select
+              className="text-xs bg-gray-800 border border-gray-700 rounded px-2 py-1 focus:outline-none"
+              value=""
+              disabled={bulkSaving}
+              onChange={e => {
+                const v = e.target.value
+                if (!v) return
+                bulkPatch({ severity: v })
+              }}
+              title="Bulk-set the severity on all selected"
+            >
+              <option value="">set severity…</option>
+              {SEVERITY_LEVELS.map(s => (
+                <option key={s} value={s}>→ {s}</option>
+              ))}
+            </select>
+
+            {bulkSaving && (
+              <span className="text-blue-400 text-xs ml-2">saving…</span>
+            )}
+          </div>
+        )}
+
         {/* Error */}
         {error && (
           <div className="bg-red-900/40 border border-red-700 rounded p-3 text-red-300 text-sm">
@@ -399,9 +527,21 @@ export default function StoriesPage() {
                 >
                   {/* Row */}
                   <div
-                    className="flex items-center gap-3 px-4 py-2.5 cursor-pointer hover:bg-gray-800/50"
+                    className={`flex items-center gap-3 px-4 py-2.5 cursor-pointer hover:bg-gray-800/50 ${
+                      selected.has(story.id) ? "bg-blue-950/30" : ""
+                    }`}
                     onClick={() => setExpanded(isExpanded ? null : story.id)}
                   >
+                    {/* Selection checkbox */}
+                    <input
+                      type="checkbox"
+                      className="flex-shrink-0 cursor-pointer accent-blue-600"
+                      checked={selected.has(story.id)}
+                      onChange={e => { e.stopPropagation(); toggleSelect(story.id) }}
+                      onClick={e => e.stopPropagation()}
+                      title="Select for bulk action"
+                    />
+
                     {/* Severity dot */}
                     <span
                       className={`inline-block w-2 h-2 rounded-full flex-shrink-0 ${

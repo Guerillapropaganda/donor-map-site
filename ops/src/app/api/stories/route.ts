@@ -96,9 +96,16 @@ export async function PATCH(req: NextRequest) {
     return NextResponse.json({ error: "invalid JSON body" }, { status: 400 })
   }
 
-  const { id, ...patch } = body
-  if (typeof id !== "string") {
-    return NextResponse.json({ error: "id is required" }, { status: 400 })
+  // Accept either { id: string, ...patch } for single or
+  // { ids: string[], ...patch } for bulk. Normalize to array.
+  const { id, ids, ...patch } = body
+  let targetIds: string[]
+  if (Array.isArray(ids) && ids.length > 0 && ids.every((x) => typeof x === "string")) {
+    targetIds = ids as string[]
+  } else if (typeof id === "string") {
+    targetIds = [id]
+  } else {
+    return NextResponse.json({ error: "id (string) or ids (string[]) is required" }, { status: 400 })
   }
 
   const allowed = [
@@ -118,29 +125,53 @@ export async function PATCH(req: NextRequest) {
     safePatch.archived_at = new Date().toISOString()
   }
 
-  const stories = loadStories()
-  const idx = stories.findIndex((s) => s.id === id)
-  if (idx === -1) {
-    return NextResponse.json({ error: `story ${id} not found` }, { status: 404 })
-  }
-
-  const updated = { ...stories[idx], ...safePatch, last_updated: new Date().toISOString() }
-  stories[idx] = updated
-  persistStories(stories)
-
-  // If archiving, also log to the false-positive store so the detector
-  // doesn't re-surface this exact pattern next run.
-  if (safePatch.state === "archived" && updated.detector && updated.slug) {
+  // Lazy-require false-positive log (we may need it for archive flow)
+  let fpLog: any = null
+  if (safePatch.state === "archived") {
     try {
       // eslint-disable-next-line @typescript-eslint/no-var-requires
-      const fpLog = eval("require")(path.join(REPO_ROOT, "scripts", "lib", "false-positive-log.cjs"))
-      const reason = (safePatch.archive_reason as string) || "archived from /stories"
-      fpLog.recordRejection(updated.detector, updated.slug, `story ${updated.detector_type}`, reason)
+      fpLog = eval("require")(path.join(REPO_ROOT, "scripts", "lib", "false-positive-log.cjs"))
     } catch (e: unknown) {
-      // non-fatal: archive succeeds even if false-positive log fails
-      console.error("[stories] false-positive log write failed:", e)
+      console.error("[stories] false-positive log require failed:", e)
     }
   }
 
-  return NextResponse.json({ story: updated })
+  const stories = loadStories()
+  const updated: any[] = []
+  const notFound: string[] = []
+  const now = new Date().toISOString()
+
+  for (const targetId of targetIds) {
+    const idx = stories.findIndex((s) => s.id === targetId)
+    if (idx === -1) { notFound.push(targetId); continue }
+    const merged = { ...stories[idx], ...safePatch, last_updated: now }
+    stories[idx] = merged
+    updated.push(merged)
+
+    // Bulk archive → write false-positive log entries for each
+    if (safePatch.state === "archived" && fpLog && merged.detector && merged.slug) {
+      try {
+        const reason = (safePatch.archive_reason as string) || "archived from /stories"
+        fpLog.recordRejection(merged.detector, merged.slug, `story ${merged.detector_type}`, reason)
+      } catch (e: unknown) {
+        console.error("[stories] false-positive log write failed for", merged.id, e)
+      }
+    }
+  }
+
+  if (updated.length > 0) persistStories(stories)
+
+  // Single-id callers expect { story }; bulk callers expect { stories }
+  if (typeof id === "string" && !ids) {
+    if (updated.length === 0) {
+      return NextResponse.json({ error: `story ${id} not found` }, { status: 404 })
+    }
+    return NextResponse.json({ story: updated[0] })
+  }
+
+  return NextResponse.json({
+    stories: updated,
+    updated_count: updated.length,
+    not_found: notFound,
+  })
 }
