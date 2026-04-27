@@ -45,6 +45,125 @@ function formatUsd(n) {
   return "$" + n.toLocaleString()
 }
 
+// ─── Headline gap computation (2026-04-27) ───────────────────────────
+//
+// Per the /policies UX riff: every policy page leads with a normie-friendly
+// "punch line + stat line" computed from the canonical stores. Voice arc is
+// normie at top → data in the middle → journalistic close at the bottom.
+// Auto-computed for scale (designed for 30+ policies); editor can override
+// the punch line via policy.editorial_headline.
+//
+// Lead line is selected by legislative_status. Stat line composes whichever
+// data points have meaningful values (we skip "0 polls" rather than printing
+// awkward zeroes).
+
+// Lead lines selected by legislative_status. The `passed` and `signed` cases
+// branch on support level: laws can pass against majority public opinion
+// (e.g. anti-BDS laws have plurality not majority support — calling that
+// "public will translated into law" would be dishonest).
+const LEAD_LINES = {
+  stalled: "**The public wants this. Congress doesn't.**",
+  blocked_in_committee: "**Bottled up before a vote.**",
+  partial: "**The public wants this. Congress half-did it.**",
+  passed_majority: "**Public will, eventually translated into law.**",
+  passed_minority: "**Passed despite weak public support.**",
+  vetoed: "**Public support. Vetoed anyway.**",
+  never_introduced: "**Public support. Never even debated.**",
+  unknown: "**Public support meets legislative silence.**",
+}
+
+function computeGapHeadline(policy, polls, relatedEvents) {
+  // ── Polling aggregate ────────────────────────────────────────────
+  // Sample-size-weighted mean across all polls with a numeric support_pct.
+  // Polls without a sample size are treated as n=1000 (median-ish poll size)
+  // so they aren't excluded outright but don't dominate either.
+  const validPolls = polls.filter(
+    (p) => typeof p.support_pct === "number" && p.support_pct >= 0 && p.support_pct <= 100,
+  )
+  let supportPct = null
+  let supportRange = null
+  let pollOrgs = []
+  let lastPolled = null
+  if (validPolls.length > 0) {
+    const totalWeight = validPolls.reduce((s, p) => s + (p.sample_size || 1000), 0)
+    const weightedSum = validPolls.reduce(
+      (s, p) => s + p.support_pct * (p.sample_size || 1000),
+      0,
+    )
+    supportPct = Math.round(weightedSum / totalWeight)
+    const sorted = [...validPolls].sort((a, b) => a.support_pct - b.support_pct)
+    supportRange = [sorted[0].support_pct, sorted[sorted.length - 1].support_pct]
+    pollOrgs = [...new Set(validPolls.map((p) => p.org).filter(Boolean))]
+    const dated = validPolls.filter((p) => p.fielded).sort((a, b) => b.fielded.localeCompare(a.fielded))
+    if (dated.length) lastPolled = dated[0].fielded
+  }
+
+  // ── Bill / event aggregate ──────────────────────────────────────
+  // We treat any related event with a bill-shaped title (H.R., S., AB, etc.)
+  // OR type === "bill_introduction" / "floor_vote" as a "bill" for headline
+  // counting. Imperfect but auto-scales to whatever events.jsonl tags.
+  const billLike = relatedEvents.filter(
+    (e) =>
+      e.type === "bill_introduction" ||
+      e.type === "floor_vote" ||
+      /^(h\.?r\.?|s\.?|ab|sb|hb)\s*\d/i.test(e.title || ""),
+  )
+  const billsIntroduced = billLike.length
+  const billsPassed = billLike.filter(
+    (e) => e.outcome === "passed" || e.outcome === "signed",
+  ).length
+
+  // Earliest dated event → "stalled since YYYY"
+  const datedEvents = relatedEvents
+    .filter((e) => e.date)
+    .sort((a, b) => a.date.localeCompare(b.date))
+  const earliestYear = datedEvents.length ? datedEvents[0].date.slice(0, 4) : null
+
+  // ── Compose lead + stat line ────────────────────────────────────
+  // Resolve lead line. `passed` / `signed` branch on majority vs minority
+  // public support — passing a law that 47% support is not "public will."
+  let leadKey = policy.legislative_status
+  if (leadKey === "passed" || leadKey === "signed") {
+    leadKey = supportPct !== null && supportPct < 50 ? "passed_minority" : "passed_majority"
+  }
+  const lead = policy.editorial_headline || LEAD_LINES[leadKey] || LEAD_LINES.unknown
+
+  const statParts = []
+  if (supportPct !== null) {
+    const pollWord = validPolls.length === 1 ? "poll" : "polls"
+    statParts.push(`${supportPct}% support across ${validPolls.length} ${pollWord}`)
+  }
+  if (billsIntroduced > 0) {
+    const billWord = billsIntroduced === 1 ? "federal bill" : "federal bills"
+    statParts.push(`${billsIntroduced} ${billWord} introduced`)
+    // Suppress the "Y passed" stat when the policy is stalled but a tangentially
+    // related bill happened to pass (e.g. housing has a supply-side LIHTC
+    // expansion in events.jsonl — passing that next to "stalled since YYYY"
+    // confuses the reader). The legislative_summary explains the nuance.
+    const suppressPassedCount =
+      policy.legislative_status === "stalled" && billsPassed > 0
+    if (!suppressPassedCount) {
+      statParts.push(`${billsPassed} passed`)
+    }
+  }
+  if (earliestYear && policy.legislative_status === "stalled") {
+    // Capitalize since this becomes a sentence after a period
+    statParts.push(`Stalled since ${earliestYear}`)
+  }
+
+  return {
+    lead,
+    statLine: statParts.length ? statParts.join(". ") + "." : null,
+    supportPct,
+    supportRange,
+    pollOrgs,
+    lastPolled,
+    billsIntroduced,
+    billsPassed,
+    earliestYear,
+  }
+}
+
 function buildPolicyPage(policy, engine) {
   const polls = polling.getPollsForPolicy(policy.id)
 
@@ -132,21 +251,47 @@ function buildPolicyPage(policy, engine) {
   lines.push(`# ${policy.title}`)
   lines.push("")
 
+  // Headline gap — computed punch line + stat line. Sets the normie-voice
+  // hook above the fold. Editor can override the punch line via
+  // policy.editorial_headline. Per /policies UX riff 2026-04-27.
+  const headline = computeGapHeadline(policy, polls, relatedEvents)
+  lines.push(headline.lead)
+  lines.push("")
+  if (headline.statLine) {
+    lines.push(headline.statLine)
+    lines.push("")
+  }
+
   // Plain English blurb
   lines.push("## What it would do")
   lines.push("")
   lines.push(policy.plain_english || "_(editor writes one paragraph here — plain English, no spin)_")
   lines.push("")
 
-  // The gap
+  // The gap — detail layer. Manual policy.public_support_pct overrides the
+  // computed weighted mean if set; otherwise we show the computed values
+  // honestly (mean + range + N + last-polled date).
   lines.push("## The gap")
   lines.push("")
   if (policy.public_support_pct !== null) {
-    lines.push(`- **Public support:** ${policy.public_support_pct}%`)
+    lines.push(`- **Public support:** ${policy.public_support_pct}% _(editor-set)_`)
+  } else if (headline.supportPct !== null) {
+    const rangeStr = headline.supportRange
+      ? ` _(weighted across ${headline.pollOrgs.length} pollster${headline.pollOrgs.length === 1 ? "" : "s"}; range ${headline.supportRange[0]}–${headline.supportRange[1]}%)_`
+      : ""
+    lines.push(`- **Public support:** ${headline.supportPct}%${rangeStr}`)
+    if (headline.lastPolled) {
+      lines.push(`- **Last polled:** ${headline.lastPolled}`)
+    }
   } else {
-    lines.push(`- **Public support:** _(polling data pending)_`)
+    lines.push(`- **Public support:** _(no polling records yet)_`)
   }
   lines.push(`- **Legislative status:** ${policy.legislative_status}`)
+  if (headline.billsIntroduced > 0) {
+    lines.push(
+      `- **Federal bills:** ${headline.billsIntroduced} introduced, ${headline.billsPassed} signed into law`,
+    )
+  }
   if (policy.legislative_summary) {
     lines.push("")
     lines.push(`> ${policy.legislative_summary}`)

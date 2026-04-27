@@ -235,6 +235,19 @@ const PRODUCERS = [
     args: ['--write'],
     timeout_ms: 300_000,
   },
+  // Policy pages builder — regenerates content/Policies/*.md from canonical
+  // stores (data/policies.jsonl + polling.jsonl + events.jsonl + relationships
+  // librarian-backed query engine). Cheap (~1s for 5 policies; scales linearly
+  // to 30+). Runs daily at 04:15 UTC AFTER data-panel and BEFORE janitor so
+  // janitor audits the freshest computed support_pct and bill counts. Wired
+  // 2026-04-27 with the headline-gap computation rollout.
+  {
+    name: 'build-policy-pages',
+    schedule: '15 4 * * *',
+    script: 'scripts/build-policy-pages.cjs',
+    args: ['--write'],
+    timeout_ms: 60_000,
+  },
   // Pipeline janitor write-mode — runs daily at 04:30 AFTER the auto-block
   // builders so it audits the freshest possible state, then demotes any
   // profiles still showing mechanical issues (missing-block, zombie-block,

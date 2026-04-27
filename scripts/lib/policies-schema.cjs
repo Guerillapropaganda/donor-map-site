@@ -70,6 +70,13 @@ function newRecord(partial = {}) {
     // Editorial prose (the ONE paragraph the editor hand-writes)
     plain_english: partial.plain_english || "",
 
+    // Optional editorial override for the auto-computed headline lead line.
+    // When null, the build script generates one based on legislative_status
+    // (e.g. "The public wants this. Congress doesn't." for stalled). When
+    // set, the editor's string is used verbatim. Lets the editor sharpen the
+    // voice for a specific policy without losing scale.
+    editorial_headline: partial.editorial_headline || null,
+
     // Public support tracker (references to polling.jsonl records)
     public_support_pct: partial.public_support_pct ?? null,
     public_support_source: partial.public_support_source || null, // src_NNNNNN ref

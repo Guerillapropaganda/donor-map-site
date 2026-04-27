@@ -13,13 +13,16 @@ class-analysis-tags:
   - privatization
   - anti-trust-defender
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-27
 generated-by: scripts/build-policy-pages.cjs
 editor-vouched: true
-urls-first-triaged: "2026-04-15"
 ---
 
 # Housing affordability and rent control
+
+**The public wants this. Congress doesn't.**
+
+64% support across 5 polls. 2 federal bills introduced. Stalled since 2019.
 
 ## What it would do
 
@@ -27,8 +30,10 @@ The United States currently has no federal rent control law. Several legislative
 
 ## The gap
 
-- **Public support:** _(polling data pending)_
+- **Public support:** 64% _(weighted across 4 pollsters; range 26–78%)_
+- **Last polled:** 2025-08-15
 - **Legislative status:** stalled
+- **Federal bills:** 2 introduced, 1 signed into law
 
 > No federal rent control law has been enacted in the last decade; the primary federal legislative vehicles have been supply-side and investment bills. Sen. Elizabeth Warren (D-MA) introduced the American Housing and Economic Mobility Act (S.1368 / H.R.2768) on April 23, 2021, which proposed $445 billion in Housing Trust Fund investment over ten years; the bill died in committee without a floor vote. At the state level, Oregon (2019), California (AB 1482, 2019), and Washington state (RCW 59.18.700, effective May 2025) enacted statewide rent stabilization laws, while Colorado passed just-cause eviction protections (H.B.1098) in 2024; federal anti-rent-control preemption efforts in Florida and Texas (2023) and Kentucky, Idaho, and Missouri (2024) moved in the opposite direction. The Affordable Housing Credit Improvement Act (H.R.2725/S.1515), sponsored by Rep. Darin LaHood (R-IL) and Sen. Todd Young (R-IN), ultimately had key provisions—a 12% Low-Income Housing Tax Credit allocation increase and a reduction of the bond financing threshold from 50% to 25%—signed into law as part of President Trump's budget reconciliation bill on July 4, 2025.
 
@@ -50,16 +55,16 @@ Opposition comes from **rentier-capital, finance-capital** — the capital fract
 
 | Donor | Total spend | Politicians funded |
 |---|---|---|
-| Goldman Sachs | — | 6 |
-| Western Growers Association | — | 3 |
-| Marc Andreessen & Horowitz | — | 2 |
-| Majority Forward | — | 1 |
-| California Farm Bureau Federation | — | 4 |
-| Bank of America | — | 2 |
-| National Republican Senatorial Committee | — | 1 |
-| Boeing | — | 4 |
-| Crypto Industry Bloc | — | 5 |
-| Google - Alphabet | — | 3 |
+| WinSenate | $336,666,829 | 14 |
+| SLF PAC | $143,954,700 | 8 |
+| Democratic Senatorial Campaign Committee | $136,115,776 | 19 |
+| Defend American Jobs | $126,769,806 | 5 |
+| National Republican Senatorial Committee | $103,991,909 | 28 |
+| Preserve America | $102,990,134 | 1 |
+| Senate Majority PAC | $62,013,705 | 12 |
+| Club for Growth | $61,281,778 | 20 |
+| Independence Usa Pac | $58,469,373 | 3 |
+| Lindsey Graham | $42,489,371 | 2 |
 
 _This list is computed from the full relationships.jsonl edge store and may shift as Phase 1 pipeline migrations populate more amount data. See [/who-blocks-us](/policies/who-blocks-us) for the cross-policy view._
 

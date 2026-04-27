@@ -13,13 +13,16 @@ class-analysis-tags:
   - anti-trust-defender
   - deregulatory
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-27
 generated-by: scripts/build-policy-pages.cjs
 editor-vouched: true
-urls-first-triaged: "2026-04-15"
 ---
 
 # Universal healthcare / Medicare expansion
+
+**The public wants this. Congress half-did it.**
+
+67% support across 4 polls. 2 federal bills introduced. 0 passed.
 
 ## What it would do
 
@@ -27,8 +30,10 @@ The Affordable Care Act (2010) expanded health insurance coverage through market
 
 ## The gap
 
-- **Public support:** _(polling data pending)_
+- **Public support:** 67% _(weighted across 4 pollsters; range 62–82%)_
+- **Last polled:** 2025-11-17
 - **Legislative status:** partial
+- **Federal bills:** 2 introduced, 0 signed into law
 
 > Rep. Pramila Jayapal (D-WA) introduced the Medicare for All Act of 2019 (H.R.1384) on February 27, 2019, with 117 co-sponsors; it received the first-ever congressional hearing on Medicare for All before the House Rules Committee on April 30, 2019, but was never marked up or brought to a floor vote. Sen. Bernie Sanders (I-VT) introduced companion Senate bills in each Congress—S.1129 (2019), S.4204 (2022), and S.1655 (2023)—each dying in committee without a vote; House versions were reintroduced as H.R.1976 (2021) and H.R.3421 (2023), also without floor votes. The closest a public option or Medicaid expansion came to passage federally was the Build Back Better Act (H.R.5376), which passed the House in November 2021 with provisions to extend ACA subsidies and close the Medicaid coverage gap, but Sen. Joe Manchin (D-WV) blocked it in the Senate; the Inflation Reduction Act (2022) extended ACA premium subsidies but included no public option, while the 2025 reconciliation bill (H.R.1) imposed new Medicaid restrictions that deterred further state expansion.
 
@@ -50,16 +55,16 @@ Opposition comes from **pharma-capital, finance-capital** — the capital fracti
 
 | Donor | Total spend | Politicians funded |
 |---|---|---|
-| Goldman Sachs | — | 6 |
-| Western Growers Association | — | 3 |
-| Marc Andreessen & Horowitz | — | 2 |
-| Majority Forward | — | 1 |
-| California Farm Bureau Federation | — | 4 |
-| Bank of America | — | 2 |
-| National Republican Senatorial Committee | — | 1 |
-| Boeing | — | 4 |
-| Crypto Industry Bloc | — | 5 |
-| Google - Alphabet | — | 3 |
+| WinSenate | $336,666,829 | 14 |
+| SLF PAC | $143,954,700 | 8 |
+| Democratic Senatorial Campaign Committee | $136,115,776 | 19 |
+| Defend American Jobs | $126,769,806 | 5 |
+| National Republican Senatorial Committee | $103,991,909 | 28 |
+| Preserve America | $102,990,134 | 1 |
+| Senate Majority PAC | $62,013,705 | 12 |
+| Club for Growth | $61,281,778 | 20 |
+| Independence Usa Pac | $58,469,373 | 3 |
+| Lindsey Graham | $42,489,371 | 2 |
 
 _This list is computed from the full relationships.jsonl edge store and may shift as Phase 1 pipeline migrations populate more amount data. See [/who-blocks-us](/policies/who-blocks-us) for the cross-policy view._
 

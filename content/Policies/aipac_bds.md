@@ -16,10 +16,9 @@ class-analysis-tags:
 high-risk-editorial: true
 requires-legal-review: true
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-27
 generated-by: scripts/build-policy-pages.cjs
 editor-vouched: true
-urls-first-triaged: "2026-04-15"
 ---
 
 <!--
@@ -32,13 +31,18 @@ urls-first-triaged: "2026-04-15"
 
 # AIPAC influence on Israel-Palestine policy (BDS laws)
 
+**Passed despite weak public support.**
+
+47% support across 6 polls.
+
 ## What it would do
 
 AIPAC (American Israel Public Affairs Committee) is a U.S.-based 501(c)(4) lobbying organization that advocates for pro-Israel policies in U.S. legislation. The Boycott, Divestment, and Sanctions (BDS) movement is an international campaign pressuring Israel over its treatment of Palestinians. As of 2024, 38 U.S. states have enacted anti-BDS laws or executive orders that restrict state governments from contracting with businesses or individuals that boycott Israel. Legal challenges, including Koontz v. Watson (8th Circuit, 2023), have produced conflicting federal court rulings on whether these laws violate First Amendment protections of political speech. AIPAC's affiliated super PAC, United Democracy Project, spent $100 million in the 2024 election cycle, making it the highest-spending outside group in several congressional primaries.
 
 ## The gap
 
-- **Public support:** _(polling data pending)_
+- **Public support:** 47% _(weighted across 4 pollsters; range 25–76%)_
+- **Last polled:** 2026-02-02
 - **Legislative status:** passed
 
 > At the federal level, the Israel Anti-Boycott Act (H.R.1697 / S.720), introduced March 23, 2017, by Rep. Peter Roskam (R-IL) and Sen. Ben Cardin (D-MD) with 292 House and 58 Senate co-sponsors, would have criminalized participation in BDS-related boycotts with penalties up to $1 million and 20 years imprisonment, but died in committee; the House passed a non-binding resolution condemning the BDS movement on July 23, 2019, by a vote of 398–17. Sen. Marco Rubio (R-FL) made anti-BDS legislation the first Senate bill of the 116th Congress (S.1), which included the Combating BDS Act; the full package passed the Senate on February 5, 2019, by a 77–23 vote but was held at the desk in the House and died. As of 2024, 38 states have enacted anti-BDS laws or executive orders, while federal courts in Arizona, Kansas, and Texas initially struck down state laws on First Amendment grounds; the Eighth Circuit, reversing itself, upheld Arkansas's Act 710 en banc in June 2022, and the Supreme Court declined to hear a challenge, effectively leaving most contractor-focused state anti-BDS laws intact.
@@ -62,16 +66,16 @@ Opposition comes from **finance-capital, tech-monopoly, rentier-capital** — th
 
 | Donor | Total spend | Politicians funded |
 |---|---|---|
-| Goldman Sachs | — | 6 |
-| Western Growers Association | — | 3 |
-| Marc Andreessen & Horowitz | — | 2 |
-| Majority Forward | — | 1 |
-| California Farm Bureau Federation | — | 4 |
-| Bank of America | — | 2 |
-| National Republican Senatorial Committee | — | 1 |
-| Boeing | — | 4 |
-| Crypto Industry Bloc | — | 5 |
-| Google - Alphabet | — | 3 |
+| WinSenate | $336,666,829 | 14 |
+| SLF PAC | $143,954,700 | 8 |
+| Democratic Senatorial Campaign Committee | $136,115,776 | 19 |
+| Defend American Jobs | $126,769,806 | 5 |
+| National Republican Senatorial Committee | $103,991,909 | 28 |
+| Preserve America | $102,990,134 | 1 |
+| Senate Majority PAC | $62,013,705 | 12 |
+| Club for Growth | $61,281,778 | 20 |
+| Independence Usa Pac | $58,469,373 | 3 |
+| Lindsey Graham | $42,489,371 | 2 |
 
 _This list is computed from the full relationships.jsonl edge store and may shift as Phase 1 pipeline migrations populate more amount data. See [/who-blocks-us](/policies/who-blocks-us) for the cross-policy view._
 

@@ -14,13 +14,16 @@ class-analysis-tags:
   - anti-trust-defender
   - tax-avoidance-lobby
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-27
 generated-by: scripts/build-policy-pages.cjs
 editor-vouched: true
-urls-first-triaged: "2026-04-15"
 ---
 
 # Federal minimum wage increase to $15+
+
+**The public wants this. Congress doesn't.**
+
+66% support across 4 polls. 2 federal bills introduced. 0 passed. Stalled since 2021.
 
 ## What it would do
 
@@ -28,8 +31,10 @@ The federal minimum wage has been $7.25 per hour since July 2009, the longest pe
 
 ## The gap
 
-- **Public support:** _(polling data pending)_
+- **Public support:** 66% _(weighted across 4 pollsters; range 62–76%)_
+- **Last polled:** 2026-03-17
 - **Legislative status:** stalled
+- **Federal bills:** 2 introduced, 0 signed into law
 
 > The Raise the Wage Act has been introduced in every Congress since 2017: H.R.582 / S.150 (116th Congress, introduced January 16, 2019, by Rep. Bobby Scott (D-VA) and Sen. Bernie Sanders (I-VT)) passed the House on July 18, 2019, by a vote of 231–199 but died in the Republican-controlled Senate; H.R.603 / S.53 (117th Congress, introduced January 26–28, 2021) passed the House as part of the American Rescue Plan framework, but the Senate Parliamentarian ruled on February 25, 2021, that the $15 minimum wage provision did not comply with budget reconciliation rules, blocking it from Senate passage; a subsequent floor amendment forced by Sanders on March 5, 2021, failed 42–58, with eight Democrats joining all Republicans in opposition. The 118th Congress version (H.R.4889 / S.2488, introduced July 25, 2023) and the 119th Congress version (H.R.2743 / S.1332, introduced April 8, 2025, both sponsored again by Scott and Sanders) were referred to committee with no further action at the federal level. At the state level, California (2016), New York (2016), Massachusetts (2018), New Jersey, Connecticut, Illinois, and Maryland (2019), Virginia and Florida (2020) all enacted $15 minimum wage legislation through state legislatures or ballot initiatives, with at least 30 states now above the $7.25 federal floor.
 
@@ -51,16 +56,16 @@ Opposition comes from **retail-monopoly, agribusiness-capital, tech-monopoly** �
 
 | Donor | Total spend | Politicians funded |
 |---|---|---|
-| Goldman Sachs | — | 6 |
-| Western Growers Association | — | 3 |
-| Marc Andreessen & Horowitz | — | 2 |
-| Majority Forward | — | 1 |
-| California Farm Bureau Federation | — | 4 |
-| Bank of America | — | 2 |
-| National Republican Senatorial Committee | — | 1 |
-| Boeing | — | 4 |
-| Crypto Industry Bloc | — | 5 |
-| Google - Alphabet | — | 3 |
+| WinSenate | $336,666,829 | 14 |
+| SLF PAC | $143,954,700 | 8 |
+| Democratic Senatorial Campaign Committee | $136,115,776 | 19 |
+| Defend American Jobs | $126,769,806 | 5 |
+| National Republican Senatorial Committee | $103,991,909 | 28 |
+| Preserve America | $102,990,134 | 1 |
+| Senate Majority PAC | $62,013,705 | 12 |
+| Club for Growth | $61,281,778 | 20 |
+| Independence Usa Pac | $58,469,373 | 3 |
+| Lindsey Graham | $42,489,371 | 2 |
 
 _This list is computed from the full relationships.jsonl edge store and may shift as Phase 1 pipeline migrations populate more amount data. See [/who-blocks-us](/policies/who-blocks-us) for the cross-policy view._
 
