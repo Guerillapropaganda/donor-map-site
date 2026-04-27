@@ -152,9 +152,21 @@ export default function MoneyTrailPage() {
   }, [])
 
   // Build star graph when selected profile changes
+  // requestAnimationFrame ID for the flow-dot animation loop. Stored
+  // in a ref so each buildGraph call can cancel the previous loop
+  // before starting a new one. Without cancellation, Fast Refresh +
+  // dep changes spawn multiple loops competing for the same DOM
+  // elements, which David reported as graph flicker + browser stall.
+  const animationFrameRef = useRef<number | null>(null)
+
   const buildGraph = useCallback(() => {
     if (!selected || !svgRef.current) return
     if (simRef.current) simRef.current.stop()
+    // Cancel any in-flight flow-dot animation loop from a prior build
+    if (animationFrameRef.current !== null) {
+      cancelAnimationFrame(animationFrameRef.current)
+      animationFrameRef.current = null
+    }
 
     const svgEl = svgRef.current
     const svg = select(svgEl)
@@ -309,9 +321,9 @@ export default function MoneyTrailPage() {
           .attr("cx", fromX + (toX - fromX) * phase)
           .attr("cy", fromY + (toY - fromY) * phase)
       })
-      requestAnimationFrame(animateFlow)
+      animationFrameRef.current = requestAnimationFrame(animateFlow)
     }
-    requestAnimationFrame(animateFlow)
+    animationFrameRef.current = requestAnimationFrame(animateFlow)
 
     // Nodes
     const nodeEls = g.append("g").selectAll<SVGGElement, ForceNode>("g")
@@ -424,7 +436,22 @@ export default function MoneyTrailPage() {
     sim.alpha(1).restart()
   }, [selected, connFilter, maxNodes, profiles])
 
-  useEffect(() => { if (selected) { const t = setTimeout(buildGraph, 50); return () => clearTimeout(t) } }, [selected, buildGraph])
+  useEffect(() => {
+    if (selected) {
+      const t = setTimeout(buildGraph, 50)
+      return () => {
+        clearTimeout(t)
+        // Stop the simulation + cancel the flow-dot animation loop on
+        // every effect cleanup. Prevents leaked loops from accumulating
+        // across re-builds (Fast Refresh, profile change, filter change).
+        if (simRef.current) simRef.current.stop()
+        if (animationFrameRef.current !== null) {
+          cancelAnimationFrame(animationFrameRef.current)
+          animationFrameRef.current = null
+        }
+      }
+    }
+  }, [selected, buildGraph])
 
   // Search filter
   const filteredProfiles = profiles.filter(p =>
@@ -523,14 +550,19 @@ export default function MoneyTrailPage() {
             </span>
           </div>
 
-          {/* Graph */}
-          <div className="flex-1 bg-[#0c0c0f] relative">
+          {/* Graph — capped to viewport-bounded height. Without the
+              max-height the parent flex-1 chain (page → main → flex-row
+              → flex-col → graph) doesn't propagate a height bound from
+              the body/html, so the SVG with height="100%" ended up
+              ~4000px tall and the center landed far below the viewport.
+              Cap to a typical viewport-minus-headers value. */}
+          <div className="flex-1 bg-[#0c0c0f] relative" style={{ maxHeight: "calc(100vh - 220px)", minHeight: "500px" }}>
             {loading ? (
               <div className="absolute inset-0 flex items-center justify-center text-[var(--color-text-dim)] text-sm animate-pulse">Loading...</div>
             ) : !selected ? (
               <div className="absolute inset-0 flex items-center justify-center text-[var(--color-text-dim)] text-sm">Select a profile from the sidebar</div>
             ) : (
-              <svg ref={svgRef} width="100%" height="100%" style={{ display: "block" }} />
+              <svg ref={svgRef} width="100%" height="100%" style={{ display: "block", maxHeight: "calc(100vh - 220px)" }} />
             )}
           </div>
         </div>
