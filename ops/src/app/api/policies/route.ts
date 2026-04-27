@@ -83,6 +83,17 @@ function loadEvents(): any[] {
     .filter(Boolean)
 }
 
+function loadPublicAllowlist(): Set<string> {
+  const p = path.join(REPO_ROOT, "data", "public-routes.json")
+  if (!fs.existsSync(p)) return new Set(["index"])
+  try {
+    const parsed = JSON.parse(fs.readFileSync(p, "utf-8"))
+    return new Set(Array.isArray(parsed) ? parsed.filter((s) => typeof s === "string") : ["index"])
+  } catch {
+    return new Set(["index"])
+  }
+}
+
 // Run publication-readiness-check on a single file, return pass/fail + blockers
 function runReadinessCheck(slug: string): { ready: boolean; failures: string[] } {
   const fileRel = `content/Policies/${slug}.md`
@@ -129,6 +140,7 @@ export async function GET(req: NextRequest) {
   const policies = loadPolicies()
   const polling = loadPolling()
   const events = loadEvents()
+  const allowlist = loadPublicAllowlist()
 
   // Only return the v1 policies (everything with a category)
   const v1 = policies.filter((p) => p.category)
@@ -141,8 +153,18 @@ export async function GET(req: NextRequest) {
     // Readiness gate check (runs the publication-readiness-check.cjs script)
     const gate = runReadinessCheck(p.slug)
 
-    // Opposition donors count (for the UI — actual data comes from query engine)
-    const oppositionDonors = (p.opposition_capital_types || []).length
+    // Class-analysis capital_types count. The legacy field name on this
+    // route was `oppositionDonors`, which was misleading — it's the
+    // count of capital-type categories on the policy record (3 max),
+    // not actual donors. Renamed for honesty; UI label "opp types"
+    // already matches.
+    const oppositionCapitalTypes = (p.opposition_capital_types || []).length
+
+    // ADR-0024 audit fix: was previously promised in docstring but
+    // never wired. The /policies page can now show a "live" badge for
+    // policies in data/public-routes.json. data/public-routes.json
+    // entries are stored as "policies/<slug>" (see /api/policies/publish).
+    const isPublic = allowlist.has(`policies/${p.slug}`)
 
     return {
       id: p.id,
@@ -157,10 +179,11 @@ export async function GET(req: NextRequest) {
       class_analysis_tags: p.class_analysis_tags || [],
       last_updated: p.last_updated,
       published_at: p.published_at,
+      is_public: isPublic,
       counts: {
         polls,
         events: relatedEvents,
-        opposition_capital_types: oppositionDonors,
+        opposition_capital_types: oppositionCapitalTypes,
       },
       gate: {
         ready: gate.ready,

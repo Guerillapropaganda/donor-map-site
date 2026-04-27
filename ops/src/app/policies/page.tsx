@@ -48,6 +48,7 @@ interface PolicyRow {
   class_analysis_tags: string[]
   last_updated: string
   published_at: string | null
+  is_public?: boolean
   counts: {
     polls: number
     events: number
@@ -411,7 +412,9 @@ export default function PoliciesPage() {
           const isExpanded = expandedSlug === p.slug
           const isFocused = idx === focusIdx
           const canPromote = p.content_readiness !== "verified" && p.gate.ready
-          const canPublish = p.content_readiness === "verified"
+          // Hide the publish button when already public (idempotent on the
+          // server side, but the UI shouldn't pretend an action is needed).
+          const canPublish = p.content_readiness === "verified" && !p.is_public
           const isConfirmingPublish = publishConfirming === p.slug
 
           return (
@@ -440,6 +443,14 @@ export default function PoliciesPage() {
                       {p.high_risk_editorial && (
                         <span className="inline-block px-2 py-0.5 text-xs border border-red-700 bg-red-900/30 text-red-200 rounded">
                           ⚠ legal review
+                        </span>
+                      )}
+                      {p.is_public && (
+                        <span
+                          className="inline-block px-2 py-0.5 text-xs border border-green-700 bg-green-900/40 text-green-200 rounded"
+                          title="Currently in data/public-routes.json — live on thedonormap.org after the next deploy"
+                        >
+                          ● live
                         </span>
                       )}
                     </div>
