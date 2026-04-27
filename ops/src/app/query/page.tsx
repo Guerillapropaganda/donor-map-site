@@ -25,6 +25,7 @@
  */
 
 import { useState, useEffect, useMemo, useCallback } from "react"
+import { PageHeader } from "@/components/PageHeader"
 
 type Subject =
   | "entities"
@@ -229,11 +230,12 @@ export default function QueryPage() {
         margin: "0 auto",
       }}
     >
+      <PageHeader
+        title="Query Engine"
+        whatThisDoes="Structured query over relationships + entities + events + sources. Pick a subject, layer on filters, get back rows. Aggregators (top opposition donors, cross-party donors, timing proximity) are now librarian-aware — alias variants like 'AIPAC PAC' fold onto the canonical entity."
+        action="Subject picker up top, then add filters in the middle pane. Results render as a raw table — copy-paste ready. For natural-language phrasings instead, switch to the Ask tab below."
+      />
       <header style={{ marginBottom: "1.5rem" }}>
-        <h1 style={{ margin: 0, fontSize: "1.75rem", color: "#f3f4f6" }}>Query Engine</h1>
-        <p style={{ margin: "0.25rem 0 0", color: "#9ca3af", fontSize: "0.9rem" }}>
-          Phase 2 MVP · in-memory query over relationships + entities + events + sources. Auth gating lands in Phase 2.5.
-        </p>
         {/* Sibling-page tab — Query and Ask share a sidebar slot.
             Renders inline so the user can see both modes without
             digging through nav. */}

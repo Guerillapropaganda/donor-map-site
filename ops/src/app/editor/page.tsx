@@ -35,6 +35,7 @@
 import { useState, useEffect } from "react"
 import { useSearchParams } from "next/navigation"
 import matter from "gray-matter"
+import { PageHeader } from "@/components/PageHeader"
 import type { Profile } from "@/lib/vault"
 import { typeColor, readinessColor } from "@/lib/vault"
 import { fetchVault } from "@/lib/vault-cache"
@@ -326,13 +327,11 @@ export default function EditorPage() {
 
   return (
     <div>
-      {/* Header */}
-      <div className="mb-6">
-        <h1 className="text-lg font-bold text-[var(--color-text)]">Profile Editor</h1>
-        <p className="text-[10px] text-[var(--color-text-dim)]">
-          Edit any profile&apos;s frontmatter and content — saves directly to v4
-        </p>
-      </div>
+      <PageHeader
+        title="Profile Editor"
+        whatThisDoes="Edit any vault profile's frontmatter and body content directly. Saves go straight to v4 (with the pre-commit gates running). Frontmatter pane on the left for structured fields; markdown body on the right with live preview."
+        action='Search for a profile, click to load. Frontmatter is the source of truth for structured fields — never edit those inline as body text. Save button commits + pushes (you confirm before push). For URL changes, use /urls instead (Editor-only policy).'
+      />
 
       {/* Search */}
       <div className="relative mb-6">

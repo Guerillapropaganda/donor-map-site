@@ -1,6 +1,7 @@
 "use client"
 
 import { useEffect, useMemo, useState } from "react"
+import { PageHeader } from "@/components/PageHeader"
 
 // ─── Types (loose copies of profile-type-rulebook.ts shapes) ───────────
 
@@ -319,21 +320,13 @@ export default function RulesPage() {
 
   return (
     <div className="p-6 max-w-7xl mx-auto">
-      {/* Header */}
-      <div className="flex items-center justify-between mb-6">
-        <div>
-          <h1
-            className="text-lg font-bold tracking-wider"
-            style={{ color: "var(--color-steel)" }}
-          >
-            Profile Type Rulebook
-          </h1>
-          <p className="text-[10px] text-[var(--color-text-dim)] mt-1">
-            Authoritative config for what each profile type requires at each readiness tier.
-            Consumed by all 5 Attention Queue producers, hallucination-catcher, voice-drift-detector,
-            promotion-candidate-queue, and the pre-commit self-review-mirror.
-          </p>
-        </div>
+      <PageHeader
+        title="Profile Type Rulebook"
+        whatThisDoes="Authoritative config for what each profile type requires at each readiness tier. Consumed by all 5 Attention Queue producers, hallucination-catcher, voice-drift-detector, promotion-candidate-queue, and the pre-commit self-review-mirror — change the rules here and the harness obeys on next tick."
+        rightNow={dirty ? "● unsaved changes — save before navigating away" : "all changes saved"}
+        action="Pick a profile type from the left rail. Each tier (raw → draft → ready → verified → s-tier) has its own required fields, sources, and minimum prose length. Edit the JSON inline; Save commits to the canonical rulebook."
+      />
+      <div className="flex items-center justify-end mb-6">
         <div className="flex items-center gap-2">
           {dirty && (
             <span className="text-[10px] font-mono text-[var(--color-amber)]">● unsaved</span>

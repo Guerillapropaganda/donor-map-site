@@ -18,6 +18,7 @@
  */
 
 import { useState, useEffect } from "react"
+import { PageHeader } from "@/components/PageHeader"
 
 type Row = Record<string, unknown>
 
@@ -276,10 +277,11 @@ export default function AskPage() {
 
   return (
     <div style={styles.wrap}>
-      <h1 style={styles.h1}>Ask</h1>
-      <p style={styles.hint}>
-        Plain-English donor-map queries. Pattern-matched to the relationship edge store and IRS 990 data. Not fuzzy AI — matches specific question shapes.
-      </p>
+      <PageHeader
+        title="Ask"
+        whatThisDoes='Plain-English donor-map queries. Pattern-matched to specific question shapes (e.g., "who funds X", "where does X money go", "X voting record") — NOT fuzzy AI. Every answer cites specific edge records from the canonical store.'
+        action='Type a question, hit submit. Use the patterns shown in the help panel below ("who is X" / "who funds X" / "compare X vs Y" / "top donors" / etc.). Switch to Raw query tab for filter-driven structured queries.'
+      />
 
       {/* Sibling-page tab — Query and Ask share a sidebar slot. */}
       <div style={{ display: "flex", gap: "0.25rem", marginTop: "0.25rem", marginBottom: "1rem", borderBottom: "1px solid #1f2937" }}>
