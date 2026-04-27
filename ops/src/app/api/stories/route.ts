@@ -104,6 +104,7 @@ export async function PATCH(req: NextRequest) {
   const allowed = [
     "state", "severity", "editorial_notes", "requires_legal_review",
     "legal_review_by", "legal_review_at", "published_at",
+    "archive_reason",
   ]
   const safePatch: Record<string, unknown> = {}
   for (const key of allowed) {
@@ -112,6 +113,9 @@ export async function PATCH(req: NextRequest) {
 
   if (safePatch.state === "published" && !safePatch.published_at) {
     safePatch.published_at = new Date().toISOString()
+  }
+  if (safePatch.state === "archived") {
+    safePatch.archived_at = new Date().toISOString()
   }
 
   const stories = loadStories()
@@ -123,6 +127,20 @@ export async function PATCH(req: NextRequest) {
   const updated = { ...stories[idx], ...safePatch, last_updated: new Date().toISOString() }
   stories[idx] = updated
   persistStories(stories)
+
+  // If archiving, also log to the false-positive store so the detector
+  // doesn't re-surface this exact pattern next run.
+  if (safePatch.state === "archived" && updated.detector && updated.slug) {
+    try {
+      // eslint-disable-next-line @typescript-eslint/no-var-requires
+      const fpLog = eval("require")(path.join(REPO_ROOT, "scripts", "lib", "false-positive-log.cjs"))
+      const reason = (safePatch.archive_reason as string) || "archived from /stories"
+      fpLog.recordRejection(updated.detector, updated.slug, `story ${updated.detector_type}`, reason)
+    } catch (e: unknown) {
+      // non-fatal: archive succeeds even if false-positive log fails
+      console.error("[stories] false-positive log write failed:", e)
+    }
+  }
 
   return NextResponse.json({ story: updated })
 }

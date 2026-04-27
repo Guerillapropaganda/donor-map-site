@@ -35,6 +35,7 @@ const STORY_STATES = Object.freeze([
   "draft",      // David is actively developing this
   "ready",      // editorial complete, ready to publish
   "published",  // live on public site
+  "archived",   // rejected as false-positive or no longer relevant; preserved for audit trail
 ])
 
 const SEVERITY_LEVELS = Object.freeze([
@@ -108,6 +109,13 @@ function newRecord(partial = {}) {
     legal_review_by: partial.legal_review_by || null,
     legal_review_at: partial.legal_review_at || null,
     published_at: partial.published_at || null,
+    archived_at: partial.archived_at || null,
+    archive_reason: partial.archive_reason || null,  // free-text reason when archived as false-positive
+
+    // ── Integrity flags (set by harness check, never by user) ─────
+    integrity_status: partial.integrity_status || "ok",  // ok | stale | broken-ref | duplicate
+    integrity_note: partial.integrity_note || null,
+    integrity_checked_at: partial.integrity_checked_at || null,
 
     // ── Timestamps ────────────────────────────────────────────────
     first_detected: partial.first_detected || now,
