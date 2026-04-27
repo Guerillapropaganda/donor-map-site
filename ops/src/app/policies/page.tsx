@@ -82,6 +82,47 @@ interface Toast {
 
 // ─── Helpers ────────────────────────────────────────────────────────
 
+/**
+ * revealOpsOnly — preprocess markdown so single-block ops-only HTML comments
+ * render as visible "🔒 ops-only context" callouts in this preview.
+ *
+ * Convention (write this in build scripts):
+ *
+ *   <!-- ops-only
+ *
+ *   This text is invisible on thedonormap.org but shown as a styled
+ *   block here in the ops preview.
+ *
+ *   -->
+ *
+ * The wrapper is ONE HTML comment from `<!-- ops-only` through `-->`.
+ * CommonMark treats this as a type-2 HTML block — markdown inside is
+ * literal, so the public Quartz build renders nothing for it. This
+ * preview pane is the only surface where the inner content is shown.
+ *
+ * Used for build provenance, methodology footnotes, coverage caveats —
+ * anything that a reader doesn't need but David should see while reviewing
+ * a draft. Established 2026-04-27 alongside the /policies UX redesign.
+ *
+ * NOTE: an earlier two-comment version (<!-- ops-only --> ... <!-- /ops-only -->)
+ * did NOT hide content publicly — Quartz stripped the comments themselves
+ * but the markdown content between them rendered normally. The single-comment
+ * form is the correct fix.
+ */
+function revealOpsOnly(md: string): string {
+  return md.replace(
+    /<!--\s*ops-only\s*([\s\S]*?)\s*-->/g,
+    (_m, content) => {
+      const inner = content
+        .trim()
+        .split("\n")
+        .map((line: string) => `> ${line}`)
+        .join("\n")
+      return `> **🔒 ops-only context** _(hidden on the public site)_\n>\n${inner}`
+    },
+  )
+}
+
 function readinessBadgeClass(readiness: string): string {
   switch (readiness) {
     case "verified":

@@ -77,7 +77,13 @@ Opposition comes from **finance-capital, tech-monopoly, rentier-capital** — th
 | [[Microsoft|Microsoft]] | tech-monopoly | $18.1M | 282 | **2 of 5** |
 | [[Ripple|Ripple]] | tech-monopoly | $16.2M | 35 | **2 of 5** |
 
-_Donors with a `capital_type` tag matching this policy's opposition are pulled from `data/entities.jsonl`; political spend is aggregated from the full relationships edge store. The "Cross-policy" column shows donors whose tag matches the opposition for more than one policy in the registry. Coverage is partial today (16% of entities tagged); the long-tail will fill in as tagging expands. See [[who-blocks-us|Who Blocks Us]] for the cross-policy enemy list._
+_See [[who-blocks-us|Who Blocks Us]] for the cross-policy enemy list. Donor coverage is partial today; expanding._
+
+<!-- ops-only
+
+**Methodology:** Donors with a `capital_type` tag matching this policy's `opposition_capital_types` are pulled from `data/entities.jsonl`; political spend is aggregated from the full relationships edge store via the librarian (ADR-0024). The "Cross-policy" column counts how many of the 5 tracked policies each donor's capital_type matches. Coverage is partial: 271 of 1,710 entities tagged (~16%); `finance-capital` is not yet a tagged value, which is why some policies show empty here.
+
+-->
 
 ## Legislative timeline
 
@@ -92,7 +98,13 @@ _Donors with a `capital_type` tag matching this policy's opposition are pulled f
 
 ## Class analysis
 
-The opposition to this policy is structurally aligned with: **imperialist-aligned, zionist-aligned, dark-money-networked**. These are ideological function tags from the locked Class Tag Vocabulary ([[Class Tag Vocabulary]]) — each tag is a claim about a pattern in the underlying donor data, not an editorial assertion. Donors with these tags fund politicians who oppose the policy.
+The opposition to this policy is structurally aligned with: **imperialist-aligned, zionist-aligned, dark-money-networked**. _See [[Class Tag Vocabulary]] for definitions._
+
+<!-- ops-only
+
+**Methodology:** These are ideological function tags from the locked Class Tag Vocabulary. Each tag is a claim about a pattern in the underlying donor data, not an editorial assertion. Donors with these tags fund politicians who oppose the policy.
+
+-->
 
 ## Related
 
@@ -100,4 +112,8 @@ Relevant profiles in the Donor Map: _(placeholder — next Phase 2.75 sprint wil
 
 ---
 
+<!-- ops-only
+
 *Policy page generated from canonical data stores. Policy record: `pol_aipac_bds`. To edit the prose, update `data/policies.jsonl` via the policies store and re-run `scripts/build-policy-pages.cjs --write`. See [[Build Phases]] for the full Phase 2.75 plan.*
+
+-->

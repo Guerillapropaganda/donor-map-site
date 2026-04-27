@@ -64,7 +64,13 @@ _No entities in `data/entities.jsonl` are currently tagged with the capital type
 
 ## Class analysis
 
-The opposition to this policy is structurally aligned with: **tax-avoidance-lobby, austerity**. These are ideological function tags from the locked Class Tag Vocabulary ([[Class Tag Vocabulary]]) — each tag is a claim about a pattern in the underlying donor data, not an editorial assertion. Donors with these tags fund politicians who oppose the policy.
+The opposition to this policy is structurally aligned with: **tax-avoidance-lobby, austerity**. _See [[Class Tag Vocabulary]] for definitions._
+
+<!-- ops-only
+
+**Methodology:** These are ideological function tags from the locked Class Tag Vocabulary. Each tag is a claim about a pattern in the underlying donor data, not an editorial assertion. Donors with these tags fund politicians who oppose the policy.
+
+-->
 
 ## Related
 
@@ -72,4 +78,8 @@ Relevant profiles in the Donor Map: _(placeholder — next Phase 2.75 sprint wil
 
 ---
 
+<!-- ops-only
+
 *Policy page generated from canonical data stores. Policy record: `pol_student_debt`. To edit the prose, update `data/policies.jsonl` via the policies store and re-run `scripts/build-policy-pages.cjs --write`. See [[Build Phases]] for the full Phase 2.75 plan.*
+
+-->

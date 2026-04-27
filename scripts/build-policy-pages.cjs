@@ -415,9 +415,26 @@ function buildPolicyPage(policy, engine, ctx = {}) {
       )
     }
     lines.push("")
+    // Public-facing line: short, useful, points to the cross-policy view.
     lines.push(
-      `_Donors with a \`capital_type\` tag matching this policy's opposition are pulled from \`data/entities.jsonl\`; political spend is aggregated from the full relationships edge store. The "Cross-policy" column shows donors whose tag matches the opposition for more than one policy in the registry. Coverage is partial today (16% of entities tagged); the long-tail will fill in as tagging expands. See [[who-blocks-us|Who Blocks Us]] for the cross-policy enemy list._`,
+      `_See [[who-blocks-us|Who Blocks Us]] for the cross-policy enemy list. Donor coverage is partial today; expanding._`,
     )
+    lines.push("")
+    // Ops-only methodology — invisible on the public site (HTML comments),
+    // shown as a "🔒 ops-only" block in the ops preview via the page's
+    // revealOpsOnly preprocessor. Convention: <!-- ops-only --> ... <!-- /ops-only -->.
+    // Wrap as a SINGLE HTML comment so the content is fully inert in
+    // public render (CommonMark type-2 HTML block — content between
+    // <!-- and --> is literal, markdown is NOT processed). Ops preview's
+    // revealOpsOnly() extracts the inner text and renders it as a
+    // visible blockquote.
+    lines.push("<!-- ops-only")
+    lines.push("")
+    lines.push(
+      `**Methodology:** Donors with a \`capital_type\` tag matching this policy's \`opposition_capital_types\` are pulled from \`data/entities.jsonl\`; political spend is aggregated from the full relationships edge store via the librarian (ADR-0024). The "Cross-policy" column counts how many of the ${totalPolicyCount} tracked policies each donor's capital_type matches. Coverage is partial: 271 of 1,710 entities tagged (~16%); \`finance-capital\` is not yet a tagged value, which is why some policies show empty here.`,
+    )
+    lines.push("")
+    lines.push("-->")
     lines.push("")
   } else {
     // Honest disclosure: when no entities match, say *why*. For
@@ -471,13 +488,24 @@ function buildPolicyPage(policy, engine, ctx = {}) {
     }
   }
 
-  // Class analysis
+  // Class analysis — public sees the tag list + a wikilink to the
+  // vocabulary; the methodology framing is wrapped in <!-- ops-only -->
+  // markers so it's hidden on the public site (HTML comments — invisible
+  // in render) but shown as a "🔒 ops-only" block in the ops preview.
   if (policy.class_analysis_tags && policy.class_analysis_tags.length) {
     lines.push("## Class analysis")
     lines.push("")
     lines.push(
-      `The opposition to this policy is structurally aligned with: **${policy.class_analysis_tags.join(", ")}**. These are ideological function tags from the locked Class Tag Vocabulary ([[Class Tag Vocabulary]]) — each tag is a claim about a pattern in the underlying donor data, not an editorial assertion. Donors with these tags fund politicians who oppose the policy.`,
+      `The opposition to this policy is structurally aligned with: **${policy.class_analysis_tags.join(", ")}**. _See [[Class Tag Vocabulary]] for definitions._`,
     )
+    lines.push("")
+    lines.push("<!-- ops-only")
+    lines.push("")
+    lines.push(
+      `**Methodology:** These are ideological function tags from the locked Class Tag Vocabulary. Each tag is a claim about a pattern in the underlying donor data, not an editorial assertion. Donors with these tags fund politicians who oppose the policy.`,
+    )
+    lines.push("")
+    lines.push("-->")
     lines.push("")
   }
 
@@ -491,12 +519,18 @@ function buildPolicyPage(policy, engine, ctx = {}) {
     lines.push("")
   }
 
-  // Sources footer
+  // Build provenance footer — purely ops/dev-facing context. Wrapped
+  // in <!-- ops-only --> so the public site doesn't show readers our
+  // build-script invocation details.
   lines.push("---")
+  lines.push("")
+  lines.push("<!-- ops-only")
   lines.push("")
   lines.push(
     `*Policy page generated from canonical data stores. Policy record: \`${policy.id}\`. To edit the prose, update \`data/policies.jsonl\` via the policies store and re-run \`scripts/build-policy-pages.cjs --write\`. See [[Build Phases]] for the full Phase 2.75 plan.*`,
   )
+  lines.push("")
+  lines.push("-->")
   lines.push("")
 
   return lines.join("\n")
