@@ -49,14 +49,22 @@ echo "  ✓ 0 TypeScript errors"
 # worktree's missing-node_modules noise (Cannot find namespace 'React'
 # etc.) doesn't generate false positives. The ops-build CI job in main
 # repo runs the full ops tsc and catches semantic errors there.
+#
+# Both tsc and grep can return non-zero in normal flow (tsc when there
+# are any errors; grep when no match). We tolerate both via `set +e` +
+# explicit exit-code capture so the gate fails ONLY when STRUCTURAL
+# errors are actually present.
 echo "  -> ops JSX structure (TS1xxx codes only)"
+set +e
 OPS_TS_OUTPUT=$(npx tsc --project ops/tsconfig.json --noEmit 2>&1)
-OPS_STRUCTURAL=$(echo "$OPS_TS_OUTPUT" | grep -E "error TS1[0-9]{3}([^0-9]|$)" || true)
-if [ -n "$OPS_STRUCTURAL" ]; then
+OPS_STRUCTURAL=$(printf "%s\n" "$OPS_TS_OUTPUT" | grep -E "error TS1[0-9]{3}([^0-9]|$)")
+GREP_EXIT=$?
+set -e
+if [ -n "$OPS_STRUCTURAL" ] && [ "$GREP_EXIT" = "0" ]; then
   echo ""
   echo "[x] pre-push blocked: structural JSX errors in ops/"
   echo ""
-  echo "$OPS_STRUCTURAL" | head -20
+  printf "%s\n" "$OPS_STRUCTURAL" | head -20
   echo ""
   echo "  These are unbalanced tags / parse errors. Fix before pushing."
   echo "  Emergency bypass: SKIP_HOOKS=1 git push ..."
