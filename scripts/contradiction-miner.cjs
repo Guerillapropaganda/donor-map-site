@@ -48,6 +48,7 @@ const { walkDir, parseFrontmatter } = require('./lib/shared.cjs');
 const { addEntries, clearSource } = require('./lib/attention-queue.cjs');
 const { getRejectedPatterns } = require('./lib/false-positive-log.cjs');
 const { detectBothSidesEntities, normalizeEntityList, normalizeEntityName } = require('./lib/checklist-helpers.cjs');
+const { addOrFindStory } = require('./lib/stories-store.cjs');
 
 const CONTENT_DIR = process.env.CONTENT_DIR || path.join(__dirname, '..', 'content');
 const SOURCE_NAME = 'contradiction-miner';
@@ -271,6 +272,36 @@ Auto-generated story ideas surfaced by \`scripts/contradiction-miner.cjs\` and r
 `;
     fs.writeFileSync(readmePath, readme, 'utf-8');
   }
+}
+
+/**
+ * Build the linked_entities array from a raw finding object.
+ * Each finding type has different fields carrying the subject/counterparty.
+ */
+function buildLinkedEntities(f) {
+  const entities = [];
+  const profileTitle = f.profile && f.profile.data && f.profile.data.title;
+  if (f.type === 'both-sides') {
+    if (profileTitle) entities.push({ ref: `[[${profileTitle}]]`, role: 'subject' });
+    if (f.entity) entities.push({ ref: f.entity, role: 'counterparty' });
+  } else if (f.type === 'cross-party') {
+    if (profileTitle) entities.push({ ref: `[[${profileTitle}]]`, role: 'subject' });
+  } else if (f.type === 'issue-contradiction') {
+    if (profileTitle) entities.push({ ref: `[[${profileTitle}]]`, role: 'subject' });
+    for (const d of (f.opposingDonors || []).slice(0, 3)) {
+      entities.push({ ref: d, role: 'counterparty' });
+    }
+  } else if (f.type === 'committee-capture') {
+    if (f.donor) entities.push({ ref: f.donor, role: 'subject' });
+    for (const m of (f.members || []).slice(0, 5)) {
+      entities.push({ ref: `[[${m}]]`, role: 'mentioned' });
+    }
+  } else if (f.type === 'offshore-exposure') {
+    if (f.vaultName) entities.push({ ref: `[[${f.vaultName}]]`, role: 'subject' });
+  } else if (f.type === 'policy-capture-sponsorship') {
+    if (profileTitle) entities.push({ ref: `[[${profileTitle}]]`, role: 'subject' });
+  }
+  return entities;
 }
 
 function writeSeedFile(finding) {
@@ -543,33 +574,47 @@ function main() {
     round++;
   }
 
-  // Write seed files for balanced findings
+  // Write to the canonical stories store (data/stories.jsonl).
+  // Idempotent: addOrFindStory skips records whose slug already exists.
   const written = [];
   for (const f of balanced) {
-    const seedPath = writeSeedFile(f);
-    written.push({ ...f, seedPath });
+    try {
+      const rec = addOrFindStory({
+        headline: f.headline,
+        detector: SOURCE_NAME,
+        detector_type: f.type,
+        confidence: f.confidence,
+        state: 'candidate',
+        linked_entities: buildLinkedEntities(f),
+        summary: f.angle || '',
+        first_detected: new Date().toISOString(),
+      });
+      written.push({ ...f, storyId: rec.id });
+    } catch (e) {
+      console.error(`  stories-store write failed for "${f.headline}": ${e.message}`);
+    }
   }
 
   // Contribute to attention queue — top 15 (we don't want to flood)
   const entries = written.slice(0, 15).map(f => ({
     bucket: 'deciding',
     what: f.headline,
-    why: f.angle.slice(0, 350),
-    where: `content/Story Seeds/${path.basename(f.seedPath)}`,
-    cost_min: 25, // rough estimate for a human reviewing + deciding
+    why: (f.angle || '').slice(0, 350),
+    where: `ops/stories`,
+    cost_min: 25,
     leverage: f.confidence,
-    metadata: { type: f.type, confidence: f.confidence },
+    metadata: { type: f.type, confidence: f.confidence, story_id: f.storyId },
   }));
 
   if (entries.length === 0) {
     clearSource(SOURCE_NAME);
-    console.log('Contradiction Miner: no new seeds surfaced.');
+    console.log('Contradiction Miner: no new stories surfaced.');
     console.log(`  (${allFindings.length} total findings, ${allFindings.length - filtered.length} filtered out)`);
     return;
   }
 
   const count = addEntries(SOURCE_NAME, entries);
-  console.log(`Contradiction Miner wrote ${written.length} story seed file${written.length === 1 ? '' : 's'}.`);
+  console.log(`Contradiction Miner wrote ${written.length} story candidate${written.length === 1 ? '' : 's'} to data/stories.jsonl.`);
   console.log(`  Attention Queue: ${count} top findings added to the deciding bucket.`);
   console.log(`  Category breakdown:`);
   const byTypeReport = {};
@@ -577,7 +622,7 @@ function main() {
   for (const [type, n] of Object.entries(byTypeReport)) {
     console.log(`    ${type.padEnd(25)} ${n}`);
   }
-  console.log(`  Output: ${path.relative(process.cwd(), SEEDS_DIR)}/`);
+  console.log(`  Store: data/stories.jsonl`);
 }
 
 main();
