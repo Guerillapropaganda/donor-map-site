@@ -66,3 +66,8 @@ data/*.dedupd-state
 # Local backup script log — written by scripts/backup/backup.* scripts;
 # noisy and machine-local, not source of truth.
 scripts/backup/backup.log
+
+# ADR-0024 cache-correctness: canonical-store mutation stamp. Bumped on every
+# write. Read by long-running consumers (ops librarian singleton, /api/connections
+# cache) to drop stale snapshots. Machine-local; never commit.
+data/.last-mutation

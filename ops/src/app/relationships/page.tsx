@@ -1059,6 +1059,12 @@ export default function RelationshipsPage() {
           ? "loading…"
           : `${breakdown.total.toLocaleString()} active connections across the vault. ${breakdown.related.toLocaleString()} related · ${breakdown.donors.toLocaleString()} donor · ${breakdown.opposes.toLocaleString()} opposes · ${breakdown.stories.toLocaleString()} stories.`}
         action="Search up top to focus a profile. List view / Explorer / Graph / Suggestions tabs each present the same data differently. Right rail shows most-connected + recent + no-connections rosters."
+        freshness={{
+          paths: ["data/relationships.jsonl", "data/entities.jsonl"],
+          label: "graph",
+          freshWithinDays: 1,
+          warnWithinDays: 7,
+        }}
       />
       <div className="flex items-center justify-end mb-4">
         <div className="hidden">{/* spacing ghost */}</div>

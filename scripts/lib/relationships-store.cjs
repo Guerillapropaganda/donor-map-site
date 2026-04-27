@@ -483,6 +483,15 @@ function writeEdgesPartitioned(sortedEdges) {
       }
     }
   }
+
+  // ADR-0024 cache-correctness: bump the canonical mutation stamp so
+  // long-running readers (the ops librarian singleton, /api/connections
+  // cache, etc.) refresh their snapshots on next call.
+  try {
+    require('./mutation-stamp.cjs').markMutated('relationships-store.writeEdgesPartitioned');
+  } catch {
+    /* skip — best-effort */
+  }
 }
 
 /**

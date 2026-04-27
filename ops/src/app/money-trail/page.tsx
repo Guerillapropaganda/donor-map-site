@@ -390,6 +390,12 @@ export default function MoneyTrailPage() {
           whatThisDoes="Star-graph visualization of one profile's monetary connections — donors, recipients, contracts, oppositions. Pick a profile from the left rail; the graph centers on them with their funded counterparties radiating out."
           rightNow={`${profiles.length.toLocaleString()} profiles in the index with monetary data. ${selected ? `Showing ${selected.title} (${selected.connections.length} connections)` : "No profile selected — pick one from the left rail."}`}
           action="Click a profile in the left rail to render. Filter pill above the graph switches between money / contracts / opposition. Search box up top for fuzzy name match."
+          freshness={{
+            paths: ["data/relationships-per-profile.json", "data/relationships.jsonl"],
+            label: "money graph",
+            freshWithinDays: 1,
+            warnWithinDays: 7,
+          }}
         />
       </div>
       {/* Lightweight summary strip retained for the hover read-out */}
