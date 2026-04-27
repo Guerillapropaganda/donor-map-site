@@ -158,6 +158,24 @@ if [ $? -ne 0 ]; then
   exit 1
 fi
 
+# 7c. Librarian parity test — keeps lib/donor-map/resolver.ts (TS) and
+# scripts/lib/canonical-name-resolver.cjs (CJS twin) in lockstep.
+# Catches the "you updated one resolver and not the other" failure mode
+# where queries silently diverge in production. Cost: ~3s (one Graph.load
+# via tsx subprocess + 30 sample lookups).
+echo "  -> librarian-parity-test"
+PARITY_OUT=$(node scripts/librarian-parity-test.cjs 2>&1)
+if [ $? -ne 0 ]; then
+  echo ""
+  echo "[x] librarian parity test failed — TS librarian and CJS twin disagree."
+  echo "$PARITY_OUT" | tail -20
+  echo ""
+  echo "  These resolvers MUST stay in lockstep. Update both files together,"
+  echo "  or add the case to EXPECTED_DIVERGENCE in scripts/librarian-parity-test.cjs"
+  echo "  with a reason comment."
+  exit 1
+fi
+
 # 7b. Canonical totals reconciliation — regression catch for silent-
 # truncation bugs. Runs the /ask-style pooling logic on a handful of
 # hand-curated subjects (Trump, Harris, Leo, McConnell) and asserts

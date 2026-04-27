@@ -44,6 +44,26 @@ if [ $TS_EXIT -ne 0 ]; then
 fi
 echo "  ✓ 0 TypeScript errors"
 
+# Ops JSX-structure gate — catches unbalanced tags + parse errors in
+# ops/src/. Only checks for syntax-class errors (TS1xxx codes) so the
+# worktree's missing-node_modules noise (Cannot find namespace 'React'
+# etc.) doesn't generate false positives. The ops-build CI job in main
+# repo runs the full ops tsc and catches semantic errors there.
+echo "  -> ops JSX structure (TS1xxx codes only)"
+OPS_TS_OUTPUT=$(npx tsc --project ops/tsconfig.json --noEmit 2>&1)
+OPS_STRUCTURAL=$(echo "$OPS_TS_OUTPUT" | grep -E "error TS1[0-9]{3}([^0-9]|$)" || true)
+if [ -n "$OPS_STRUCTURAL" ]; then
+  echo ""
+  echo "[x] pre-push blocked: structural JSX errors in ops/"
+  echo ""
+  echo "$OPS_STRUCTURAL" | head -20
+  echo ""
+  echo "  These are unbalanced tags / parse errors. Fix before pushing."
+  echo "  Emergency bypass: SKIP_HOOKS=1 git push ..."
+  exit 1
+fi
+echo "  ✓ ops JSX structure clean"
+
 # Publication-readiness gate — enforces CLAUDE.md Rule 10: architecturally
 # complete ≠ publication ready. Any profile referenced in data/public-routes.json
 # must pass all 8 publication gates (ADR-0017) before deploy. Protects against
