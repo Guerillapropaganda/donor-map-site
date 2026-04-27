@@ -200,12 +200,56 @@ function parseDeferredItems() {
         .map((c) => c.trim())
       if (cells.length < 5) continue
       const [phase, source, lineNum, kind, text] = cells
+
+      // Skip noisy kinds — these aren't bug-shaped and were polluting
+      // the count from 91 real-checkbox items to 436. Established 2026-04-27
+      // alongside the source-state re-verification below.
+      //   · `marker`     = already-completed [x] items, retained in the
+      //                    deferred-items.md scan as "Phase 6 hardening
+      //                    reference" — never bugs, hide them.
+      //   · `in-section` = prose paragraphs / section headers from
+      //                    handoff.md / retrospective.md — never bugs.
+      // Keep `unchecked-exit-criterion` + ADR `unchecked-issue` (real open
+      // checkboxes / open ADR questions).
+      if (kind === "marker" || kind === "in-section") continue
+
+      // Re-verify against current source state. If the source file's line
+      // now reads `[x]` (silently fixed since the manifest was generated)
+      // or the line drifted (renumbered / file truncated), drop the entry
+      // so the page becomes a live truth board. Anyone who flips a `[ ]`
+      // to `[x]` in a phase doc auto-resolves the deferred item on next run.
+      const sourceLineNum = parseInt(lineNum, 10) || null
+      if (sourceLineNum) {
+        // source_ref is markdown-link shaped: "[file.md:NN](/content/Phases/phase-1/exit-criteria.md#LNN)"
+        const pathMatch = source.match(/\(\/?([^)]+)#L\d+\)/) || source.match(/\(\/?([^)]+)\)/)
+        const sourcePath = pathMatch ? pathMatch[1] : null
+        if (sourcePath) {
+          try {
+            const fullPath = path.join(ROOT, sourcePath)
+            const srcLines = fs.readFileSync(fullPath, "utf-8").split(/\r?\n/)
+            const sourceLine = srcLines[sourceLineNum - 1] || ""
+            // If now [x] in source → silently fixed, drop
+            if (/^\s*-\s*\[x\]/i.test(sourceLine)) continue
+            // For unchecked-exit-criterion: if the source line is no
+            // longer a checkbox at all (line shifted), drop it. Line drift
+            // means the manifest is pointing at the wrong line; the
+            // collector that generates deferred-items.md needs to re-run.
+            if (kind === "unchecked-exit-criterion" && !/^\s*-\s*\[\s\]/.test(sourceLine)) continue
+          } catch {
+            // File missing entirely — drop. The deferred-items.md still
+            // pointing at a non-existent file is itself a stale-extraction
+            // signal that the collector needs re-running.
+            continue
+          }
+        }
+      }
+
       entries.push({
         source: "deferred-items",
         category,
         phase,
         source_ref: source,
-        line_number: parseInt(lineNum, 10) || null,
+        line_number: sourceLineNum,
         kind,
         text: text.replace(/\\\|/g, "|"),
         // Synthetic fields to match bug-queue shape
@@ -217,12 +261,23 @@ function parseDeferredItems() {
     }
   }
 
+  // Recompute by_category from the LIVE entries array (after kind filter
+  // and source-state re-verification). The frontmatter byCategory totals
+  // are stale and reflect the original collector run; real per-category
+  // counts derive from what survived parsing. Per the 2026-04-27 cleanup.
+  const byCategoryLive = {}
+  for (const e of entries) {
+    byCategoryLive[e.category] = (byCategoryLive[e.category] || 0) + 1
+  }
+
   return {
     source: "deferred-items.md",
     source_path: "content/Phases/phase-6/deferred-items.md",
     exists: true,
-    total_reported: total,
-    by_category: byCategory,
+    total_reported: total, // legacy: from .md frontmatter
+    total_actionable: entries.length, // post-filter, post-reverify
+    by_category: byCategoryLive,
+    by_category_reported: byCategory, // legacy, kept for debugging
     entries,
   }
 }
