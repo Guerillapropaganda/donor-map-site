@@ -62,6 +62,14 @@ export default function EditorPage() {
   const [selected, setSelected] = useState<Profile | null>(null)
   const [loading, setLoading] = useState(true)
 
+  // Browse-mode filters (parity with /profile page) — established 2026-04-27.
+  // When no profile is selected AND search is empty, render a filtered card
+  // grid so David can browse instead of having to know the exact profile name.
+  const [browseTypeFilter, setBrowseTypeFilter] = useState("all")
+  const [browseReadinessFilter, setBrowseReadinessFilter] = useState("all")
+  const [browseLetterFilter, setBrowseLetterFilter] = useState("all")
+  const [browseSortBy, setBrowseSortBy] = useState<"name" | "type" | "readiness">("name")
+
   // Editor state
   const [rawContent, setRawContent] = useState("")
   const [frontmatter, setFrontmatter] = useState<Record<string, string>>({})
@@ -135,6 +143,38 @@ export default function EditorPage() {
   const searchResults = search.length >= 2
     ? profiles.filter((p) => p.title.toLowerCase().includes(search.toLowerCase())).slice(0, 12)
     : []
+
+  // Browse view — applied when no profile selected and search is empty.
+  // Mirrors /profile page filter pattern: type + readiness + A-Z + sort.
+  const browseFiltered = (() => {
+    let filtered = profiles
+    if (browseTypeFilter !== "all") filtered = filtered.filter((p) => p.type === browseTypeFilter)
+    if (browseReadinessFilter !== "all") filtered = filtered.filter((p) => p.contentReadiness === browseReadinessFilter)
+    if (browseLetterFilter !== "all") {
+      if (browseLetterFilter === "#") filtered = filtered.filter((p) => /^[0-9]/.test(p.title))
+      else filtered = filtered.filter((p) => p.title.charAt(0).toUpperCase() === browseLetterFilter)
+    }
+    if (browseSortBy === "type") {
+      filtered = [...filtered].sort((a, b) => (a.type || "").localeCompare(b.type || "") || a.title.localeCompare(b.title))
+    } else if (browseSortBy === "readiness") {
+      const order: Record<string, number> = { verified: 0, ready: 1, "data-complete": 2, draft: 3, raw: 4 }
+      filtered = [...filtered].sort((a, b) => (order[a.contentReadiness] ?? 9) - (order[b.contentReadiness] ?? 9) || a.title.localeCompare(b.title))
+    } else {
+      filtered = [...filtered].sort((a, b) => a.title.localeCompare(b.title))
+    }
+    return filtered
+  })()
+
+  const browseTypes = Array.from(new Set(profiles.map((p) => p.type).filter(Boolean))).sort()
+  const browseAvailableLetters = (() => {
+    const set = new Set<string>()
+    for (const p of profiles) {
+      const first = p.title.charAt(0).toUpperCase()
+      if (/[A-Z]/.test(first)) set.add(first)
+      else if (/[0-9]/.test(first)) set.add("#")
+    }
+    return set
+  })()
 
   const loadProfile = async (profile: Profile) => {
     setSelected(profile)
@@ -362,6 +402,155 @@ export default function EditorPage() {
           </div>
         )}
       </div>
+
+      {/* Browse panel — shown when no profile loaded and no active search.
+          Parity with /profile page: type filter + readiness pills + A-Z bar
+          + grid of cards. Clicking a card calls loadProfile() (same path
+          as the search dropdown). Established 2026-04-27 per David's ask. */}
+      {!selected && search.length < 2 && profiles.length > 0 && (
+        <div className="mb-6">
+          {/* Filters row */}
+          <div className="flex flex-wrap gap-3 mb-3">
+            <select
+              value={browseTypeFilter}
+              onChange={(e) => setBrowseTypeFilter(e.target.value)}
+              className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg px-3 py-2 text-xs text-[var(--color-text)] focus:outline-none focus:border-[var(--color-steel)]"
+            >
+              <option value="all">All Types</option>
+              {browseTypes.map((t) => (
+                <option key={t} value={t}>{t}</option>
+              ))}
+            </select>
+            <select
+              value={browseSortBy}
+              onChange={(e) => setBrowseSortBy(e.target.value as "name" | "type" | "readiness")}
+              className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg px-3 py-2 text-xs text-[var(--color-text)] focus:outline-none focus:border-[var(--color-steel)]"
+            >
+              <option value="name">Sort: Name A-Z</option>
+              <option value="type">Sort: Type</option>
+              <option value="readiness">Sort: Readiness (verified first)</option>
+            </select>
+            <span className="ml-auto text-[10px] text-[var(--color-text-dim)] uppercase tracking-wider self-center">
+              {browseFiltered.length.toLocaleString()} of {profiles.length.toLocaleString()} profiles
+            </span>
+          </div>
+
+          {/* Readiness pills */}
+          <div className="flex items-center gap-2 mb-3 overflow-x-auto pb-1">
+            <span className="text-[9px] text-[var(--color-text-dim)] uppercase tracking-wider flex-shrink-0">
+              Grade:
+            </span>
+            {[
+              { value: "all", label: "All", grade: "", color: "var(--color-text-dim)" },
+              { value: "verified", label: "Verified", grade: "A+", color: "#fbbf24" },
+              { value: "ready", label: "Ready", grade: "B", color: "#10b981" },
+              { value: "data-complete", label: "Data-complete", grade: "B-", color: "#5b8dce" },
+              { value: "draft", label: "Draft", grade: "C", color: "#f59e0b" },
+              { value: "raw", label: "Raw", grade: "D-F", color: "#6b7280" },
+            ].map((r) => {
+              const count =
+                r.value === "all"
+                  ? profiles.length
+                  : profiles.filter((p) => p.contentReadiness === r.value).length
+              const isActive = browseReadinessFilter === r.value
+              return (
+                <button
+                  key={r.value}
+                  onClick={() => setBrowseReadinessFilter(r.value)}
+                  className={`flex items-center gap-1.5 px-3 py-1.5 rounded-full text-[10px] font-bold transition-all flex-shrink-0 ${
+                    isActive ? "ring-1" : "opacity-70 hover:opacity-100"
+                  }`}
+                  style={{
+                    color: r.color,
+                    backgroundColor: isActive ? `${r.color}20` : `${r.color}08`,
+                    border: `1px solid ${isActive ? `${r.color}50` : "transparent"}`,
+                  }}
+                >
+                  {r.grade && <span className="text-[8px]">{r.grade}</span>}
+                  <span>{r.label}</span>
+                  <span className="text-[8px] opacity-60">{count}</span>
+                </button>
+              )
+            })}
+          </div>
+
+          {/* A-Z bar */}
+          <div className="flex flex-wrap items-center gap-0.5 mb-3">
+            <button
+              onClick={() => setBrowseLetterFilter("all")}
+              className={`px-2 py-1 text-[10px] font-bold rounded transition-colors ${
+                browseLetterFilter === "all"
+                  ? "bg-[var(--color-steel)] text-white"
+                  : "text-[var(--color-text-dim)] hover:bg-[var(--color-bg-hover)]"
+              }`}
+            >
+              ALL
+            </button>
+            <button
+              onClick={() => setBrowseLetterFilter("#")}
+              disabled={!browseAvailableLetters.has("#")}
+              className={`px-1.5 py-1 text-[10px] font-bold rounded transition-colors ${
+                browseLetterFilter === "#"
+                  ? "bg-[var(--color-steel)] text-white"
+                  : browseAvailableLetters.has("#")
+                  ? "text-[var(--color-text-dim)] hover:bg-[var(--color-bg-hover)]"
+                  : "text-[var(--color-text-dim)]/30 cursor-default"
+              }`}
+            >
+              #
+            </button>
+            {"ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("").map((letter) => (
+              <button
+                key={letter}
+                onClick={() => setBrowseLetterFilter(letter)}
+                disabled={!browseAvailableLetters.has(letter)}
+                className={`px-1.5 py-1 text-[10px] font-bold rounded transition-colors ${
+                  browseLetterFilter === letter
+                    ? "bg-[var(--color-steel)] text-white"
+                    : browseAvailableLetters.has(letter)
+                    ? "text-[var(--color-text-dim)] hover:bg-[var(--color-bg-hover)]"
+                    : "text-[var(--color-text-dim)]/30 cursor-default"
+                }`}
+              >
+                {letter}
+              </button>
+            ))}
+          </div>
+
+          {/* Grid of cards (capped at 100 to keep render cheap) */}
+          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-2">
+            {browseFiltered.slice(0, 100).map((p) => (
+              <button
+                key={p.path}
+                onClick={() => loadProfile(p)}
+                className="group relative bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-3 text-left hover:border-[var(--color-steel)]/50 transition-colors"
+              >
+                <div className="absolute top-2 right-2 flex items-center gap-1">
+                  <span
+                    className="w-1.5 h-1.5 rounded-full"
+                    style={{ backgroundColor: readinessColor(p.contentReadiness) }}
+                    title={p.contentReadiness}
+                  />
+                </div>
+                <div
+                  className="text-[8px] uppercase tracking-wider mb-1"
+                  style={{ color: typeColor(p.type) }}
+                >
+                  {p.type}
+                </div>
+                <div className="text-[11px] text-[var(--color-text)] leading-tight pr-4">
+                  {p.title}
+                </div>
+              </button>
+            ))}
+          </div>
+          {browseFiltered.length > 100 && (
+            <p className="text-[10px] text-[var(--color-text-dim)] mt-3 text-center">
+              Showing first 100 of {browseFiltered.length.toLocaleString()} — narrow with filters above or use search.
+            </p>
+          )}
+        </div>
+      )}
 
       {/* Editor */}
       {selected && !loadingFile ? (
