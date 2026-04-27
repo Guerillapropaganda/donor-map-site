@@ -140,32 +140,39 @@ export default function Dashboard() {
   const [harnessRunning, setHarnessRunning] = useState(false)
   const [harnessError, setHarnessError] = useState<string | null>(null)
 
-  // Dev-server restart — addresses P-038 (hot-reload can't pick up
-  // state-hook additions). Clicking the button POSTs to /api/ops-restart
-  // which calls process.exit(0); scripts/ops-dev-loop.bat respawns.
-  // The overlay polls /api/ops-restart (GET) until the server is back
-  // with a new PID, then hard-reloads the page so fresh code mounts.
-  //
-  // wrapperDetected is read from the GET response on mount: the wrapper
-  // sets OPS_DEV_LOOP=1 before launching `next dev`, so without it
-  // process.exit(0) kills the server with nothing to bring it back. We
-  // disable the button + show a tooltip explaining how to fix it.
+  // Server restart — works in two modes:
+  //   - Wrapper mode (OPS_DEV_LOOP=1): server exits, ops-dev-loop.bat
+  //     respawns it (~3s).
+  //   - Detached mode (everything else): server spawns
+  //     scripts/ops-restart-detached.cjs as a fully detached helper
+  //     before exiting; the helper survives the death, waits for the
+  //     port to free, rebuilds for prod (~30s) or just relaunches for
+  //     dev (~5s), then spawns a fresh server.
+  // Either way the button works; the label + estimate change by mode.
   const [restarting, setRestarting] = useState(false)
   const [restartStatus, setRestartStatus] = useState("")
-  const [wrapperDetected, setWrapperDetected] = useState<boolean | null>(null)
+  const [restartStrategy, setRestartStrategy] = useState<"wrapper" | "detached" | null>(null)
+  const [restartMode, setRestartMode] = useState<"dev" | "prod" | null>(null)
   useEffect(() => {
     fetch("/api/ops-restart")
       .then((r) => (r.ok ? r.json() : null))
       .then((d) => {
-        if (d && typeof d.wrapper_detected === "boolean") {
-          setWrapperDetected(d.wrapper_detected)
+        if (!d) return
+        if (d.restart_strategy === "wrapper" || d.restart_strategy === "detached") {
+          setRestartStrategy(d.restart_strategy)
         }
+        if (d.mode === "dev" || d.mode === "prod") setRestartMode(d.mode)
       })
-      .catch(() => { /* leave null = unknown, button stays enabled */ })
+      .catch(() => {})
   }, [])
   const doRestart = async () => {
     if (restarting) return
-    if (!confirm("Restart the ops dev server? The page will auto-reload when it's back up (~5s).")) return
+    const isProdRebuild = restartStrategy === "detached" && restartMode === "prod"
+    const expectedSecs = restartStrategy === "wrapper" ? 5 : (isProdRebuild ? 35 : 8)
+    const confirmMsg = isProdRebuild
+      ? "Restart ops? Production mode will rebuild the bundle — takes about 30 seconds. Page will auto-reload when it's back up."
+      : `Restart the ops server? The page will auto-reload when it's back up (~${expectedSecs}s).`
+    if (!confirm(confirmMsg)) return
     setRestarting(true)
     setRestartStatus("Asking server to exit…")
     const originalPid: number | null = await (async () => {
@@ -179,11 +186,16 @@ export default function Dashboard() {
     try {
       await fetch("/api/ops-restart", { method: "POST" })
     } catch { /* expected — server is dying */ }
-    setRestartStatus("Server exited. Waiting for wrapper to respawn…")
-    // Poll /api/ops-restart GET until we see a new pid OR uptime < 10s
-    // (wrapper re-launched). Give up after ~30s of no response.
+    setRestartStatus(
+      isProdRebuild
+        ? "Server exited. Rebuilding bundle (~30s)…"
+        : "Server exited. Waiting for relauncher…",
+    )
+    // Poll until we see a new pid OR uptime < 15s. Give prod-rebuild
+    // mode a longer timeout since `next build` takes time.
+    const timeoutMs = isProdRebuild ? 90000 : 30000
     const started = Date.now()
-    while (Date.now() - started < 30000) {
+    while (Date.now() - started < timeoutMs) {
       await new Promise((r) => setTimeout(r, 700))
       try {
         const r = await fetch("/api/ops-restart", { cache: "no-store" })
@@ -199,7 +211,9 @@ export default function Dashboard() {
         }
       } catch { /* still dead, keep polling */ }
     }
-    setRestartStatus("Timed out after 30s. Check the wrapper terminal.")
+    setRestartStatus(
+      `Timed out after ${Math.round(timeoutMs / 1000)}s. Check .ops-restart.log in the repo root.`,
+    )
   }
 
   const loadHarness = async (opts: { autoRerun?: boolean } = {}) => {
@@ -352,29 +366,37 @@ export default function Dashboard() {
             </svg>
             Refresh from GitHub
           </button>
-          {/* Restart dev server — needs scripts/ops-dev-loop.bat wrapper.
-              When the wrapper isn't detected we grey out the button and
-              tell the user how to fix it; clicking process.exit(0) without
-              a respawn leaves the user staring at a dead tab. */}
+          {/* Restart server — always enabled.
+              Wrapper mode: ops exits, scripts/ops-dev-loop.bat respawns (~3s).
+              Detached mode: ops spawns scripts/ops-restart-detached.cjs as a
+              fully detached helper before exiting; the helper survives, waits
+              for the port to free, rebuilds for prod (~30s) or relaunches for
+              dev (~5s). */}
           <button
             onClick={() => doRestart()}
-            disabled={restarting || wrapperDetected === false}
+            disabled={restarting}
             title={
-              wrapperDetected === false
-                ? "Disabled — to enable click-to-restart, stop ops and re-launch via the 'ops-dev-wrapper-3333' entry in .claude/launch.json (uses scripts/ops-dev-loop.bat). The plain 'ops-ask-3333' / 'ops-dashboard-prod' entries don't have a respawn loop."
-                : "Kills + respawns the Next.js dev server. Auto-reloads page when it's back up (~5s)."
+              restartStrategy === "wrapper"
+                ? "Wrapper mode (ops-dev-loop.bat). Kills + respawns the dev server. Auto-reloads page when it's back up (~5s)."
+                : restartMode === "prod"
+                  ? "Detached mode + prod rebuild. Spawns a relauncher script, exits, then it rebuilds the bundle and starts a fresh server. Auto-reloads page when it's back up (~30s)."
+                  : "Detached mode. Spawns a relauncher script that survives this server's death, then starts a fresh dev server. Auto-reloads page when it's back up (~5s)."
             }
             className="flex items-center gap-2 rounded-lg px-3 py-2 text-[10px] border transition-colors disabled:opacity-40 disabled:cursor-not-allowed"
             style={{
-              borderColor: wrapperDetected === false ? "var(--color-border)" : "#f59e0b55",
-              color: wrapperDetected === false ? "var(--color-text-dim)" : "#f59e0b",
-              backgroundColor: wrapperDetected === false ? "transparent" : "#f59e0b15",
+              borderColor: "#f59e0b55",
+              color: "#f59e0b",
+              backgroundColor: "#f59e0b15",
             }}
           >
             <svg className={`w-3 h-3 ${restarting ? "animate-spin" : ""}`} fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
               <path strokeLinecap="round" strokeLinejoin="round" d="M16 5l-4-4m0 0L8 5m4-4v12m5.657 4.657a8 8 0 11-11.314 0" />
             </svg>
-            {wrapperDetected === false ? "Restart (no wrapper)" : "Restart dev"}
+            {restartStrategy === "wrapper"
+              ? "Restart"
+              : restartMode === "prod"
+                ? "Rebuild + restart"
+                : "Restart"}
           </button>
         </div>
       </div>
