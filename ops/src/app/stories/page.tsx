@@ -143,6 +143,11 @@ function prettyHeadline(s: Story): string {
   return h
 }
 
+/** Lowercase + collapse whitespace, for matching counterparty names */
+function normalize(s: string): string {
+  return String(s).toLowerCase().trim().replace(/\s+/g, " ")
+}
+
 /**
  * Extract the wikilink target from a linked-entity ref so we can build
  * an "open profile" link. Falls back to a search query if the ref isn't
@@ -176,6 +181,26 @@ export default function StoriesPage() {
   // The bulk-action bar appears whenever this set is non-empty.
   const [selected, setSelected] = useState<Set<string>>(new Set())
   const [bulkSaving, setBulkSaving] = useState(false)
+
+  // Per-story verification result: cached after a /api/stories/verify call.
+  // Cleared when the user clicks Verify again on the same story (re-fetches).
+  interface VerifyResult {
+    verdict: "confirmed" | "stale" | "alias-mismatch" | "profile-not-found" | "no-counterparty"
+    subject_profile?: string | null
+    subject_ref?: string
+    counterparty_ref?: string
+    counterparty_in_donors?: boolean
+    counterparty_in_opposes?: boolean
+    donors_count?: number
+    opposes_count?: number
+    donors_sample?: string[]
+    opposes_sample?: string[]
+    alias_candidates?: Array<{ source: string; value: string; distance: number }>
+    checked_at?: string
+    message?: string
+  }
+  const [verifyResults, setVerifyResults] = useState<Record<string, VerifyResult>>({})
+  const [verifyingId, setVerifyingId] = useState<string | null>(null)
 
   const fetchStories = useCallback(async () => {
     setLoading(true)
@@ -278,6 +303,20 @@ export default function StoriesPage() {
     )
     if (reason === null) return
     bulkPatch({ state: "archived", archive_reason: reason || null })
+  }
+
+  const verifyStory = async (story: Story) => {
+    setVerifyingId(story.id)
+    try {
+      const res = await fetch(`/api/stories/verify?id=${encodeURIComponent(story.id)}`)
+      if (!res.ok) throw new Error(await res.text())
+      const data = await res.json() as VerifyResult
+      setVerifyResults(prev => ({ ...prev, [story.id]: data }))
+    } catch (e: unknown) {
+      alert(`Verify failed: ${e instanceof Error ? e.message : String(e)}`)
+    } finally {
+      setVerifyingId(null)
+    }
   }
 
   const archiveStory = (story: Story) => {
@@ -732,6 +771,16 @@ export default function StoriesPage() {
                           ))}
                         </select>
 
+                        {/* Verify against live source profile */}
+                        <button
+                          className="text-xs px-2 py-1 bg-purple-900 hover:bg-purple-800 text-purple-200 rounded disabled:opacity-50"
+                          disabled={verifyingId === story.id}
+                          onClick={() => verifyStory(story)}
+                          title="Re-read the source profile right now and check whether the counterparty actually appears in both donors and opposes. Read-only."
+                        >
+                          {verifyingId === story.id ? "🔍 verifying…" : "🔍 verify"}
+                        </button>
+
                         {/* State controls (hidden when archived; restore button in row header handles that) */}
                         {story.state !== "archived" && (
                           <>
@@ -780,6 +829,96 @@ export default function StoriesPage() {
                           {story.requires_legal_review ? "⚠ legal review ON" : "flag legal review"}
                         </button>
                       </div>
+
+                      {/* Verify result panel — only shown after a Verify click */}
+                      {verifyResults[story.id] && (() => {
+                        const v = verifyResults[story.id]
+                        const verdictColor =
+                          v.verdict === "confirmed"        ? "border-green-700 bg-green-950/40 text-green-300" :
+                          v.verdict === "stale"            ? "border-yellow-700 bg-yellow-950/40 text-yellow-300" :
+                          v.verdict === "alias-mismatch"   ? "border-orange-700 bg-orange-950/40 text-orange-300" :
+                          v.verdict === "profile-not-found"? "border-red-700 bg-red-950/40 text-red-300" :
+                                                             "border-gray-700 bg-gray-900 text-gray-300"
+                        const verdictLabel: Record<string, string> = {
+                          "confirmed":         "✓ Confirmed — pattern still holds in current data",
+                          "stale":             "⚠ Stale — appears in only one of the two lists now",
+                          "alias-mismatch":    "⚠ Alias mismatch — counterparty not found exactly; check suggestions",
+                          "profile-not-found": "✗ Profile not found",
+                          "no-counterparty":   "—  No counterparty entity to verify",
+                        }
+                        return (
+                          <div className={`border rounded p-3 text-xs space-y-2 ${verdictColor}`}>
+                            <div className="font-semibold flex items-center justify-between">
+                              <span>{verdictLabel[v.verdict] ?? v.verdict}</span>
+                              <span className="text-gray-500 font-normal text-[10px]">
+                                checked {v.checked_at ? new Date(v.checked_at).toLocaleTimeString() : ""}
+                              </span>
+                            </div>
+
+                            {v.message && (
+                              <p className="text-gray-300">{v.message}</p>
+                            )}
+
+                            {v.subject_profile && (
+                              <p className="text-gray-400">
+                                Source: <code className="bg-black/30 px-1 rounded">{v.subject_profile}</code>
+                              </p>
+                            )}
+
+                            {(v.donors_count !== undefined || v.opposes_count !== undefined) && (
+                              <div className="grid grid-cols-2 gap-3">
+                                <div>
+                                  <div className="text-gray-400 mb-1">
+                                    Donors ({v.donors_count}) {v.counterparty_in_donors ? <span className="text-green-400">✓ contains "{v.counterparty_ref}"</span> : <span className="text-gray-500">— NOT in donors</span>}
+                                  </div>
+                                  <div className="bg-black/30 rounded p-2 text-gray-300 text-[11px] max-h-32 overflow-y-auto">
+                                    {(v.donors_sample || []).slice(0, 12).map((d, i) => (
+                                      <div key={i} className={normalize(d) === normalize(v.counterparty_ref || "") ? "text-green-400 font-semibold" : ""}>
+                                        {d}
+                                      </div>
+                                    ))}
+                                    {(v.donors_count || 0) > (v.donors_sample?.length || 0) && (
+                                      <div className="text-gray-600 italic">… +{(v.donors_count || 0) - (v.donors_sample?.length || 0)} more</div>
+                                    )}
+                                  </div>
+                                </div>
+                                <div>
+                                  <div className="text-gray-400 mb-1">
+                                    Opposes ({v.opposes_count}) {v.counterparty_in_opposes ? <span className="text-green-400">✓ contains "{v.counterparty_ref}"</span> : <span className="text-gray-500">— NOT in opposes</span>}
+                                  </div>
+                                  <div className="bg-black/30 rounded p-2 text-gray-300 text-[11px] max-h-32 overflow-y-auto">
+                                    {(v.opposes_sample || []).map((o, i) => (
+                                      <div key={i} className={normalize(o) === normalize(v.counterparty_ref || "") ? "text-green-400 font-semibold" : ""}>
+                                        {o}
+                                      </div>
+                                    ))}
+                                  </div>
+                                </div>
+                              </div>
+                            )}
+
+                            {v.alias_candidates && v.alias_candidates.length > 0 && (
+                              <div>
+                                <div className="text-gray-400 mb-1">
+                                  Close matches (possible aliases):
+                                </div>
+                                <div className="space-y-1">
+                                  {v.alias_candidates.map((a, i) => (
+                                    <div key={i} className="text-gray-300 text-[11px]">
+                                      <span className="text-gray-500">[{a.source}]</span>{" "}
+                                      <span className="font-mono">"{a.value}"</span>
+                                      <span className="text-gray-600 ml-2">distance {a.distance}</span>
+                                    </div>
+                                  ))}
+                                </div>
+                                <p className="text-gray-500 text-[10px] mt-1 italic">
+                                  If one of these is the same entity, the canonical name in the profile and the counterparty name in this story don't match. Editorial decision: rename in profile, archive this candidate, or both.
+                                </p>
+                              </div>
+                            )}
+                          </div>
+                        )
+                      })()}
                     </div>
                   )}
                 </div>

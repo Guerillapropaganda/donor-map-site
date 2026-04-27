@@ -144,20 +144,47 @@ function bothSidesStillHolds(story) {
   const data = parseFrontmatter(text)
   if (!data) return null
 
-  // Normalize: lowercase + trim. Same approach the miner uses (loose).
-  const normalize = (s) => String(s).toLowerCase().trim()
+  // Normalize: lowercase + trim + collapse whitespace
+  const normalize = (s) => String(s).toLowerCase().trim().replace(/\s+/g, " ")
   const target = normalize(counterpartyEntry.ref)
 
   const donors = new Set([
-    ...(Array.isArray(data.donors) ? data.donors : []),
-    ...(Array.isArray(data["top-donors"]) ? data["top-donors"] : []),
-  ].filter((x) => typeof x === "string").map(normalize))
-  const opposes = new Set(
-    (Array.isArray(data.opposes) ? data.opposes : [])
-      .filter((x) => typeof x === "string").map(normalize),
-  )
+    ...extractEntityList(data.donors),
+    ...extractEntityList(data["top-donors"]),
+  ].map(normalize))
+  const opposes = new Set(extractEntityList(data.opposes).map(normalize))
 
   return donors.has(target) && opposes.has(target)
+}
+
+/**
+ * Pull entity names out of a frontmatter field that may be either a
+ * YAML array OR a single delimited string. Vault schema inconsistency:
+ *   - Some profiles: donors: ["Name A", "Name B"]
+ *   - Some profiles: donors: "[[Name A]] · [[Name B]]"
+ * Strips wikilink brackets.
+ */
+function extractEntityList(field) {
+  if (!field) return []
+  if (Array.isArray(field)) {
+    return field
+      .filter((x) => typeof x === "string")
+      .map(stripWikilink)
+      .filter((s) => s.trim().length > 0)
+  }
+  if (typeof field === "string") {
+    return field
+      .split(/\s+[·,;|]\s+/g)
+      .map((s) => s.trim())
+      .filter((s) => s.length > 0)
+      .map(stripWikilink)
+  }
+  return []
+}
+
+function stripWikilink(s) {
+  const m = s.match(/^\[\[(.+?)\]\]$/)
+  return m ? m[1].trim() : s.trim()
 }
 
 function dedupKey(story) {
