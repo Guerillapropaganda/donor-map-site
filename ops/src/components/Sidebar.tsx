@@ -55,6 +55,7 @@ const NAV_GROUPS: NavGroup[] = [
       { href: "/capitol-trades", label: "Capitol Trades", icon: "trending" },
       { href: "/class-tags", label: "Class Tags", icon: "target" },
       { href: "/policies", label: "Policies", icon: "book" },
+      { href: "/stories", label: "Stories", icon: "file-text" },
       { href: "/query", label: "Query / Ask", icon: "search" },
     ],
   },
