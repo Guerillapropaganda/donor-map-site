@@ -142,7 +142,14 @@ const WORKER_RELATIONSHIPS: WorkerRelationship[] = [
   "worker-owned",
 ]
 
-type ProposalStatus = "pending" | "approved" | "rejected" | "edited"
+type ProposalStatus =
+  | "pending"
+  | "approved"
+  | "rejected"
+  | "edited"
+  | "superseded"      // auto-closed: entity already has all proposed tags
+  | "augmentation"    // entity has some tags; proposal would add more
+  | "conflict"        // proposal disagrees with persisted tag
 
 interface ProposedTags {
   capital_type: CapitalType | null
@@ -167,6 +174,11 @@ interface EntitySnapshot {
   }
 }
 
+interface ReconciliationDiff {
+  adds: Record<string, unknown>
+  conflicts: Record<string, { proposed: unknown; persisted: unknown }>
+}
+
 interface Proposal {
   entity_id: string
   entity_name: string
@@ -177,6 +189,7 @@ interface Proposal {
   tags: ProposedTags
   status: ProposalStatus
   entity?: EntitySnapshot | null
+  reconciliation_diff?: ReconciliationDiff
 }
 
 interface QueryResponse {
@@ -200,6 +213,10 @@ export default function ClassTagsReviewPage() {
   const [proposedBy, setProposedBy] = useState<string>("")
   const [search, setSearch] = useState("")
   const [offset, setOffset] = useState(0)
+  // Sort: edge_count_desc surfaces high-impact entities first
+  // (Apollo / BlackRock / Bank of America bubble up on the pending queue).
+  // Default to edge_count_desc for triage usefulness.
+  const [sort, setSort] = useState<"edge_count_desc" | "proposed_at_desc" | "proposed_at_asc">("edge_count_desc")
   const [activeIdx, setActiveIdx] = useState(0)
   const [editMode, setEditMode] = useState(false)
   const [editedTags, setEditedTags] = useState<ProposedTags | null>(null)
@@ -220,10 +237,11 @@ export default function ClassTagsReviewPage() {
     if (capitalType) p.set("capital_type", capitalType)
     if (proposedBy) p.set("proposed_by", proposedBy)
     if (search) p.set("search", search)
+    if (sort) p.set("sort", sort)
     p.set("limit", String(PAGE_SIZE))
     p.set("offset", String(offset))
     return p.toString()
-  }, [status, confidence, capitalType, proposedBy, search, offset])
+  }, [status, confidence, capitalType, proposedBy, search, sort, offset])
 
   const fetchProposals = useCallback(async () => {
     setLoading(true)
@@ -403,7 +421,7 @@ export default function ClassTagsReviewPage() {
           >
             <strong>{data.total.toLocaleString()}</strong> total proposals
           </div>
-          {(["pending", "approved", "rejected", "edited"] as ProposalStatus[]).map((s) => (
+          {(["pending", "conflict", "augmentation", "approved", "rejected", "edited", "superseded"] as ProposalStatus[]).map((s) => (
             <button
               key={s}
               onClick={() => {
@@ -455,7 +473,7 @@ export default function ClassTagsReviewPage() {
       <div
         style={{
           display: "grid",
-          gridTemplateColumns: "1fr 1fr 2fr",
+          gridTemplateColumns: "1fr 1fr 1fr 1fr",
           gap: "0.5rem",
           marginBottom: "1rem",
           padding: "0.75rem",
@@ -478,6 +496,19 @@ export default function ClassTagsReviewPage() {
               {t}
             </option>
           ))}
+        </select>
+        <select
+          value={sort}
+          onChange={(e) => {
+            setOffset(0)
+            setSort(e.target.value as typeof sort)
+          }}
+          style={inputStyle}
+          title="Sort order — edge_count_desc surfaces high-impact entities first"
+        >
+          <option value="edge_count_desc">priority: edge_count desc</option>
+          <option value="proposed_at_desc">newest first</option>
+          <option value="proposed_at_asc">oldest first</option>
         </select>
         <select
           value={proposedBy}
@@ -594,6 +625,50 @@ export default function ClassTagsReviewPage() {
           >
             {activeProposal.reasoning || "(no heuristics matched)"}
           </div>
+
+          {/* Reconciliation diff (augmentation / conflict statuses).
+              Tells the reviewer EXACTLY what changed between the proposal
+              and the persisted entity record so the eyeball pass is fast. */}
+          {activeProposal.reconciliation_diff && (activeProposal.status === "augmentation" || activeProposal.status === "conflict") && (
+            <div
+              style={{
+                fontSize: "0.85rem",
+                marginBottom: "0.75rem",
+                padding: "0.5rem 0.75rem",
+                borderRadius: "0.25rem",
+                background: activeProposal.status === "conflict" ? "#7c2d12" : "#581c87",
+                color: "#fde68a",
+                border: `1px solid ${activeProposal.status === "conflict" ? "#f97316" : "#a855f7"}`,
+              }}
+            >
+              <div style={{ fontWeight: 600, marginBottom: "0.25rem", textTransform: "uppercase", fontSize: "0.7rem", letterSpacing: "0.05em" }}>
+                {activeProposal.status === "conflict" ? "⚠ conflict — proposal disagrees with persisted tags" : "+ augmentation — proposal would add fields"}
+              </div>
+              {Object.keys(activeProposal.reconciliation_diff.conflicts).length > 0 && (
+                <div style={{ marginBottom: "0.25rem" }}>
+                  <strong>Conflicts:</strong>
+                  {Object.entries(activeProposal.reconciliation_diff.conflicts).map(([f, v]) => {
+                    const cv = v as { proposed: unknown; persisted: unknown }
+                    return (
+                      <div key={f} style={{ marginLeft: "1rem", fontFamily: "monospace", fontSize: "0.8rem" }}>
+                        <code>{f}</code>: persisted=<code>{String(cv.persisted)}</code> → proposed=<code>{String(cv.proposed)}</code>
+                      </div>
+                    )
+                  })}
+                </div>
+              )}
+              {Object.keys(activeProposal.reconciliation_diff.adds).length > 0 && (
+                <div>
+                  <strong>Adds:</strong>
+                  {Object.entries(activeProposal.reconciliation_diff.adds).map(([f, v]) => (
+                    <div key={f} style={{ marginLeft: "1rem", fontFamily: "monospace", fontSize: "0.8rem" }}>
+                      <code>{f}</code>: <code>{Array.isArray(v) ? JSON.stringify(v) : String(v)}</code>
+                    </div>
+                  ))}
+                </div>
+              )}
+            </div>
+          )}
 
           {/* Body snippet */}
           {activeProposal.entity?.signals.body_snippet && (
@@ -936,6 +1011,12 @@ function statusColor(s: ProposalStatus): string {
       return "#ef4444"
     case "edited":
       return "#3b82f6"
+    case "conflict":
+      return "#f97316" // orange — highest priority for review
+    case "augmentation":
+      return "#a855f7" // purple — adds new info
+    case "superseded":
+      return "#6b7280" // gray — auto-closed, no action needed
   }
 }
 

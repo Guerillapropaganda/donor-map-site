@@ -4,16 +4,15 @@ type: admin-note
 note-type: data
 priority: urgent
 status: open
-last-updated: '2026-04-26'
+last-updated: '2026-04-27'
 generated-by: scripts/lib/attention-queue.cjs
-note-kind: rollup
 ---
 
 # 🎯 Attention Queue
 
 *Auto-generated. Every script that finds something worth your time writes to this file.*
 
-**32** blocking · **52** editorial decisions · **38** background cleanup
+**32** blocking · **52** editorial decisions · **39** background cleanup
 
 ---
 
@@ -291,12 +290,12 @@ Ready profile contains 4 em dashes in body, avg sentence length 21 words (target
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
 
-### vault-audit: harness-self-audit — 4 findings
+### vault-audit: dispatcher-alive — 1 finding
 
-Meta-audit: unscheduled builders, stalled producers, auto-block taxonomy drift between janitor and builders — 4 block-name-drift
+Attention Queue dispatcher daemon liveness — log freshness during expected-uptime window — Dispatcher log file does not exist. Daemon has never run on this machine. Install the Windows Startup shortcut or run scripts/attention-dispatcher.bat manually.
 
 - **Where:** `/system-health`
-- **Cost:** ~15 min
+- **Cost:** ~5 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `vault-audit`
 
@@ -919,6 +918,15 @@ Referenced by 88 other vault profiles but has no file yet. Building a stub unloc
 - **Cost:** ~10 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `missing-profile-detector`
+
+### vault-audit: class-tag-staleness — 13 findings
+
+Reconciled class-tag proposals (augmentation + conflict) that need human review. Augmentation = proposal would add fields to a partially-tagged entity. Conflict = proposal disagrees with persisted single-value field. See ops /class-tags page filtered to status=conflict or status=augmentation. — 13 reconciled proposals need human eye (2 conflict + 11 augmentation), oldest 11d. See ops /class-tags p
+
+- **Where:** `/system-health`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `vault-audit`
 
 ### vault-audit: pathless-stub-entities — 13 findings
 

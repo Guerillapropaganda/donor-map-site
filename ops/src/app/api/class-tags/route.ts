@@ -38,7 +38,16 @@ import { requireAdmin } from "@/lib/auth"
 // proposal runs should skip re-proposing from the rejection log — that's
 // a Phase 2 follow-up, not wired yet).
 
-const ALLOWED_STATUSES: ProposalStatus[] = ["pending", "approved", "rejected", "edited"]
+const ALLOWED_STATUSES: ProposalStatus[] = [
+  "pending",
+  "approved",
+  "rejected",
+  "edited",
+  // Reconciliation states added by scripts/class-tag-reconcile.cjs
+  "superseded",
+  "augmentation",
+  "conflict",
+]
 
 export async function GET(req: NextRequest) {
   // Admin-only: class tag triage is David's editorial workflow
@@ -68,6 +77,12 @@ export async function GET(req: NextRequest) {
     const proposed_by = searchParams.get("proposed_by") || undefined
     const search = searchParams.get("search") || undefined
 
+    const sortParam = searchParams.get("sort")
+    const sort: "edge_count_desc" | "proposed_at_desc" | "proposed_at_asc" | undefined =
+      sortParam === "edge_count_desc" || sortParam === "proposed_at_desc" || sortParam === "proposed_at_asc"
+        ? sortParam
+        : undefined
+
     const limitRaw = parseInt(searchParams.get("limit") || "50", 10)
     const limit = Math.min(Math.max(1, isNaN(limitRaw) ? 50 : limitRaw), 200)
     const offsetRaw = parseInt(searchParams.get("offset") || "0", 10)
@@ -79,6 +94,7 @@ export async function GET(req: NextRequest) {
       capital_type,
       proposed_by,
       search,
+      sort,
       limit,
       offset,
     })

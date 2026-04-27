@@ -239,6 +239,14 @@ const CHECKS = [
     timeout_ms: 15000,
     queue: { bucket: 'deciding', leverage: 4, cost_min: 30 },
   },
+  {
+    name: 'class-tag-staleness',
+    description: 'Reconciled class-tag proposals (augmentation + conflict) that need human review. Augmentation = proposal would add fields to a partially-tagged entity. Conflict = proposal disagrees with persisted single-value field. See ops /class-tags page filtered to status=conflict or status=augmentation.',
+    cmd: ['node', 'scripts/class-tag-staleness-check.cjs', '--json'],
+    parse: parseClassTagStaleness,
+    timeout_ms: 10000,
+    queue: { bucket: 'compounding', leverage: 2, cost_min: 5 },
+  },
 ];
 
 // ─── Output parsers (one per check) ────────────────────────────────
@@ -437,6 +445,15 @@ function parseDuplicateEntityProfiles(stdout, _stderr, _exit) {
   try {
     const j = JSON.parse(stdout);
     return { findings_count: j.findings_count || 0, notes: j.message };
+  } catch {
+    return { findings_count: 0, notes: '(json parse failed)' };
+  }
+}
+
+function parseClassTagStaleness(stdout, _stderr, _exit) {
+  try {
+    const j = JSON.parse(stdout);
+    return { findings_count: j.findings_count || 0, notes: j.notes };
   } catch {
     return { findings_count: 0, notes: '(json parse failed)' };
   }
