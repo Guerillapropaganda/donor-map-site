@@ -164,7 +164,79 @@ function computeGapHeadline(policy, polls, relatedEvents) {
   }
 }
 
-function buildPolicyPage(policy, engine) {
+// ─── Helpers for opposition-donor markdown (2026-04-27 sidebar work) ──
+
+// Convert "content/Donors & Power Networks/Tech & Crypto/a16z - Andreessen Horowitz.md"
+// into a [[wikilink]] that Quartz resolves. Falls back to plain text when the
+// entity has no profile_path (orphan / pathless stubs per ADR-0024).
+function profileWikilink(name, profilePath) {
+  if (!profilePath || typeof profilePath !== "string") return name
+  const m = profilePath.match(/([^/\\]+)\.md$/)
+  if (!m) return name
+  const fileName = m[1]
+  // [[wikilink|display]] — wikilink resolves to the file's slug
+  return `[[${fileName}|${name}]]`
+}
+
+// Pretty-print a USD amount. "$159,266,473" for non-zero, "—" otherwise.
+function formatUsdShort(n) {
+  if (typeof n !== "number" || !n) return "—"
+  if (n >= 1e9) return `$${(n / 1e9).toFixed(1)}B`
+  if (n >= 1e6) return `$${(n / 1e6).toFixed(1)}M`
+  if (n >= 1e3) return `$${(n / 1e3).toFixed(0)}K`
+  return `$${n.toLocaleString()}`
+}
+
+// ─── Helpers for narrative timeline (2026-04-27 timeline work) ────────
+
+// Heuristic federal-vs-state classifier for an event title. Federal bills
+// shape: "S. NNN", "H.R. NNN", "S.NNN/H.R.NNN", or contain federal-only
+// markers like "Inflation Reduction Act", "CMS", "DOJ", "Federal".
+// State markers: state name prefix ("California ", "Washington "), or
+// state-bill abbreviations (AB / SB / RCW / HB / "House Bill" prefixed
+// with state name).
+const STATE_NAMES = [
+  "Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut",
+  "Delaware", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa",
+  "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan",
+  "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire",
+  "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio",
+  "Oklahoma", "Oregon", "Pennsylvania", "Rhode Island", "South Carolina", "South Dakota",
+  "Tennessee", "Texas", "Utah", "Vermont", "Virginia", "Washington", "West Virginia",
+  "Wisconsin", "Wyoming",
+]
+function eventScope(ev) {
+  const t = (ev.title || "").trim()
+  if (STATE_NAMES.some((s) => t.startsWith(s + " ") || t.startsWith(s + ":"))) return "state"
+  if (/^(?:H\.?R\.?|S\.?)\s*\d/i.test(t)) return "federal"
+  if (/Inflation Reduction Act|CMS|Federal\b|United States/.test(t)) return "federal"
+  if (/\bAB\s*\d|\bSB\s*\d|\bHB\s*\d|RCW\s*\d/.test(t)) return "state"
+  return "federal" // default: federal
+}
+
+// Outcome-aligned icon. Reads honestly: ✓ for the policy advancing, ✗ for
+// stalling, ⚠ for partial, 🚫 for vetoed/blocked.
+function outcomeIcon(outcome) {
+  switch (outcome) {
+    case "passed":
+    case "signed":
+      return "✓"
+    case "vetoed":
+      return "🚫"
+    case "stalled":
+    case "blocked_in_committee":
+    case "withdrawn":
+      return "✗"
+    case "partial":
+      return "⚠"
+    default:
+      return "·"
+  }
+}
+
+// ─── Page builder ─────────────────────────────────────────────────────
+
+function buildPolicyPage(policy, engine, ctx = {}) {
   const polls = polling.getPollsForPolicy(policy.id)
 
   // Query events.jsonl for every event whose policy_id matches this
@@ -190,18 +262,21 @@ function buildPolicyPage(policy, engine) {
       return b.date.localeCompare(a.date)
     })
 
-  // Compute top opposition donors for this policy by filtering events
-  // through the query engine with the policy's sector mapping
-  let oppositionDonors = []
-  try {
-    const result = engine.query({
-      subject: "top_opposition_donors",
-      filters: {
-        limit: 10,
-      },
-    })
-    oppositionDonors = result.rows
-  } catch (_) {}
+  // Per-policy opposition donors: ctx.policyDonors[policy.id] is precomputed
+  // by main() so we can also build the cross-policy recurrence map (a donor
+  // who blocks 4 of 5 policies gets a badge). Falls back to the legacy
+  // cross-policy aggregate if ctx wasn't provided (CLI smoke tests).
+  const oppositionDonors =
+    (ctx.policyDonors && ctx.policyDonors[policy.id]) ||
+    (() => {
+      try {
+        return engine.topPolicyOppositionDonors(policy, { limit: 10 })
+      } catch (_) {
+        return []
+      }
+    })()
+  const crossPolicyMap = ctx.crossPolicyMap || new Map()
+  const totalPolicyCount = ctx.totalPolicyCount || 1
 
   const lines = []
 
@@ -312,7 +387,11 @@ function buildPolicyPage(policy, engine) {
     lines.push("")
   }
 
-  // Who's blocking
+  // Who's blocking — per-policy opposition donors, ranked by total political
+  // spend. Each donor row is wikilinked to its profile when available, shows
+  // its capital_type tag, and gets a "blocks N of M policies" badge when it
+  // appears in the opposition list of multiple policies (cross-policy
+  // recurrence — the recurring villain pattern).
   lines.push("## Who's blocking it")
   lines.push("")
   if (policy.opposition_capital_types && policy.opposition_capital_types.length) {
@@ -322,31 +401,74 @@ function buildPolicyPage(policy, engine) {
     lines.push("")
   }
   if (oppositionDonors.length) {
-    lines.push("### Top opposition donors (cross-policy aggregate)")
+    lines.push("### Top opposition donors")
     lines.push("")
-    lines.push("| Donor | Total spend | Politicians funded |")
-    lines.push("|---|---|---|")
+    lines.push("| Donor | Capital type | Total spend | Politicians funded | Cross-policy |")
+    lines.push("|---|---|---|---|---|")
     for (const d of oppositionDonors) {
-      lines.push(`| ${d.name} | ${formatUsd(d.total_spend)} | ${d.politicians_count ?? "—"} |`)
+      const linked = profileWikilink(d.name, d.profile_path)
+      const blocks = crossPolicyMap.get(d.name) || 1
+      const badge =
+        blocks > 1 ? `**${blocks} of ${totalPolicyCount}**` : "—"
+      lines.push(
+        `| ${linked} | ${d.capital_type} | ${formatUsdShort(d.total_spend)} | ${d.politicians_count ?? "—"} | ${badge} |`,
+      )
     }
     lines.push("")
     lines.push(
-      `_This list is computed from the full relationships.jsonl edge store and may shift as Phase 1 pipeline migrations populate more amount data. See [/who-blocks-us](/policies/who-blocks-us) for the cross-policy view._`,
+      `_Donors with a \`capital_type\` tag matching this policy's opposition are pulled from \`data/entities.jsonl\`; political spend is aggregated from the full relationships edge store. The "Cross-policy" column shows donors whose tag matches the opposition for more than one policy in the registry. Coverage is partial today (16% of entities tagged); the long-tail will fill in as tagging expands. See [[who-blocks-us|Who Blocks Us]] for the cross-policy enemy list._`,
     )
     lines.push("")
   } else {
-    lines.push("_(opposition donor list computed at build time — pending more complete amount data in the relationships edge store)_")
+    // Honest disclosure: when no entities match, say *why*. For
+    // student_debt this means finance-capital is not yet a tagged value;
+    // the page tells the reader rather than silently showing nothing.
+    lines.push(
+      `_No entities in \`data/entities.jsonl\` are currently tagged with the capital types ${policy.opposition_capital_types?.map((t) => `\`${t}\``).join(", ") || "for this policy"}. Tagging coverage is expanding (currently 271 of 1,710 entities, 16%). This list will populate as tags are added._`,
+    )
     lines.push("")
   }
 
-  // Related events
+  // Legislative timeline — year-grouped, scope-tagged (federal vs state),
+  // outcome-iconified. Replaces the flat bullet list per /policies UX riff
+  // 2026-04-27. Reads as a story: by-year sections, federal/state context
+  // visible at a glance, ✓/✗/⚠/🚫 icons signal advance/stall/partial/veto.
   if (relatedEvents.length) {
-    lines.push("## Legislative history")
+    lines.push("## Legislative timeline")
     lines.push("")
+
+    // Group events by year (date ?? "undated")
+    const byYear = new Map()
     for (const ev of relatedEvents) {
-      lines.push(`- **${ev.title}** (${ev.date || "—"}) — ${ev.outcome}${ev.obstruction_type !== "n/a" ? ` via ${ev.obstruction_type}` : ""}`)
+      const yr = ev.date ? ev.date.slice(0, 4) : "undated"
+      if (!byYear.has(yr)) byYear.set(yr, [])
+      byYear.get(yr).push(ev)
     }
-    lines.push("")
+    const sortedYears = [...byYear.keys()].sort((a, b) => {
+      if (a === "undated") return 1
+      if (b === "undated") return -1
+      return b.localeCompare(a) // newest first
+    })
+
+    for (const yr of sortedYears) {
+      lines.push(`### ${yr}`)
+      lines.push("")
+      for (const ev of byYear.get(yr)) {
+        const icon = outcomeIcon(ev.outcome)
+        const scope = eventScope(ev)
+        const scopeBadge = scope === "federal" ? "🇺🇸 federal" : "🏛️ state"
+        const dateSuffix = ev.date ? ` (${ev.date.slice(0, 10)})` : ""
+        const obstructionNote =
+          ev.obstruction_type && ev.obstruction_type !== "n/a"
+            ? ` _via ${ev.obstruction_type}_`
+            : ""
+        // Bold the title; outcome appears after dash; emoji icons lead.
+        lines.push(
+          `- ${icon} ${scopeBadge} · **${ev.title}**${dateSuffix} — ${ev.outcome}${obstructionNote}`,
+        )
+      }
+      lines.push("")
+    }
   }
 
   // Class analysis
@@ -521,10 +643,36 @@ function main() {
     fs.mkdirSync(OUT_DIR, { recursive: true })
   }
 
+  // Precompute per-policy donor lists + cross-policy recurrence map.
+  // We run topPolicyOppositionDonors once per policy (limit=100 so the
+  // recurrence map sees the long tail too), then count how many distinct
+  // policies each donor appears in. The badge "blocks N of M policies"
+  // is built from this map at render time.
+  console.log("  precomputing per-policy opposition donors...")
+  const policyDonors = {} // policy.id -> top-10 donor rows (for table render)
+  const crossPolicyMap = new Map() // donor name -> count of policies they oppose
+  for (const policy of all) {
+    let rows = []
+    try {
+      rows = engine.topPolicyOppositionDonors(policy, { limit: 100 })
+    } catch (e) {
+      console.log(`    warn: ${policy.slug}: ${e.message}`)
+    }
+    policyDonors[policy.id] = rows.slice(0, 10) // keep top 10 for the table
+    for (const d of rows) {
+      crossPolicyMap.set(d.name, (crossPolicyMap.get(d.name) || 0) + 1)
+    }
+  }
+  const ctx = { policyDonors, crossPolicyMap, totalPolicyCount: all.length }
+  console.log(
+    `    ${policyDonors ? Object.values(policyDonors).reduce((s, r) => s + r.length, 0) : 0} donor-rows across ${all.length} policies; ${[...crossPolicyMap.values()].filter((n) => n > 1).length} donors oppose >1 policy`,
+  )
+  console.log("")
+
   let written = 0
 
   for (const policy of all) {
-    const content = buildPolicyPage(policy, engine)
+    const content = buildPolicyPage(policy, engine, ctx)
     const file = path.join(OUT_DIR, `${policy.slug}.md`)
     if (WRITE) {
       fs.writeFileSync(file, content, "utf-8")

@@ -48,29 +48,19 @@ Total outstanding federal student loan debt stands at approximately $1.6 trillio
 
 Opposition comes from **finance-capital** — the capital fractions with a direct material stake in the current policy.
 
-### Top opposition donors (cross-policy aggregate)
+_No entities in `data/entities.jsonl` are currently tagged with the capital types `finance-capital`. Tagging coverage is expanding (currently 271 of 1,710 entities, 16%). This list will populate as tags are added._
 
-| Donor | Total spend | Politicians funded |
-|---|---|---|
-| WinSenate | $336,666,829 | 14 |
-| SLF PAC | $143,954,700 | 8 |
-| Democratic Senatorial Campaign Committee | $136,115,776 | 19 |
-| Defend American Jobs | $126,769,806 | 5 |
-| National Republican Senatorial Committee | $103,991,909 | 28 |
-| Preserve America | $102,990,134 | 1 |
-| Senate Majority PAC | $62,013,705 | 12 |
-| Club for Growth | $61,281,778 | 20 |
-| Independence Usa Pac | $58,469,373 | 3 |
-| Lindsey Graham | $42,489,371 | 2 |
+## Legislative timeline
 
-_This list is computed from the full relationships.jsonl edge store and may shift as Phase 1 pipeline migrations populate more amount data. See [/who-blocks-us](/policies/who-blocks-us) for the cross-policy view._
+### 2023
 
-## Legislative history
+- ✓ 🇺🇸 federal · **SAVE income-driven repayment plan** (2023-08-22) — passed
+- ✓ 🇺🇸 federal · **Biden v. Nebraska: SCOTUS strikes down broad student debt forgiveness** (2023-06-30) — passed
 
-- **SAVE income-driven repayment plan** (2023-08-22) — passed
-- **Biden v. Nebraska: SCOTUS strikes down broad student debt forgiveness** (2023-06-30) — passed
-- **PSLF waiver + overhaul: 715,000+ borrowers discharged** (2022-10-31) — passed
-- **Biden one-time student debt forgiveness plan (≤$20k Pell, ≤$10k non-Pell)** (2022-08-24) — failed
+### 2022
+
+- ✓ 🇺🇸 federal · **PSLF waiver + overhaul: 715,000+ borrowers discharged** (2022-10-31) — passed
+- · 🇺🇸 federal · **Biden one-time student debt forgiveness plan (≤$20k Pell, ≤$10k non-Pell)** (2022-08-24) — failed
 
 ## Class analysis
 

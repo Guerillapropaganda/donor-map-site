@@ -51,29 +51,40 @@ The Affordable Care Act (2010) expanded health insurance coverage through market
 
 Opposition comes from **pharma-capital, finance-capital** — the capital fractions with a direct material stake in the current policy.
 
-### Top opposition donors (cross-policy aggregate)
+### Top opposition donors
 
-| Donor | Total spend | Politicians funded |
-|---|---|---|
-| WinSenate | $336,666,829 | 14 |
-| SLF PAC | $143,954,700 | 8 |
-| Democratic Senatorial Campaign Committee | $136,115,776 | 19 |
-| Defend American Jobs | $126,769,806 | 5 |
-| National Republican Senatorial Committee | $103,991,909 | 28 |
-| Preserve America | $102,990,134 | 1 |
-| Senate Majority PAC | $62,013,705 | 12 |
-| Club for Growth | $61,281,778 | 20 |
-| Independence Usa Pac | $58,469,373 | 3 |
-| Lindsey Graham | $42,489,371 | 2 |
+| Donor | Capital type | Total spend | Politicians funded | Cross-policy |
+|---|---|---|---|---|
+| [[Pfizer|Pfizer Inc.]] | pharma-capital | $7.5M | 432 | — |
+| [[Amgen Inc|Amgen Inc]] | pharma-capital | $6.6M | 375 | — |
+| [[Kaiser Permanente|Kaiser Permanente]] | pharma-capital | $4.8M | 131 | — |
+| [[AbbVie|AbbVie]] | pharma-capital | $4.0M | 321 | — |
+| [[Humana|Humana]] | pharma-capital | $3.9M | 277 | — |
+| [[CVS Health - Aetna|CVS Health - Aetna]] | pharma-capital | $3.7M | 323 | — |
+| [[Blue Shield of California|Blue Shield of California]] | pharma-capital | $2.2M | 131 | — |
+| [[Anthem - Elevance Health|Anthem - Elevance Health]] | pharma-capital | $2.0M | 228 | — |
+| [[Gilead Sciences|Gilead Sciences]] | pharma-capital | $1.9M | 230 | — |
+| [[Centene Corporation|Centene Corporation]] | pharma-capital | $1.6M | 55 | — |
 
-_This list is computed from the full relationships.jsonl edge store and may shift as Phase 1 pipeline migrations populate more amount data. See [/who-blocks-us](/policies/who-blocks-us) for the cross-policy view._
+_Donors with a `capital_type` tag matching this policy's opposition are pulled from `data/entities.jsonl`; political spend is aggregated from the full relationships edge store. The "Cross-policy" column shows donors whose tag matches the opposition for more than one policy in the registry. Coverage is partial today (16% of entities tagged); the long-tail will fill in as tagging expands. See [[who-blocks-us|Who Blocks Us]] for the cross-policy enemy list._
 
-## Legislative history
+## Legislative timeline
 
-- **CMS Medicare drug negotiation round 1: 10 drugs (Eliquis, Jardiance, Xarelto, etc.)** (2024-08-15) — passed
-- **Inflation Reduction Act: Medicare drug negotiation provisions** (2022-08-16) — passed
-- **H.R.1976: Medicare for All Act (Jayapal)** (2021-03-17) — stalled via chair_bottled_up
-- **S.1129: Medicare for All Act (Sanders)** (2019-04-10) — stalled via chair_bottled_up
+### 2024
+
+- ✓ 🇺🇸 federal · **CMS Medicare drug negotiation round 1: 10 drugs (Eliquis, Jardiance, Xarelto, etc.)** (2024-08-15) — passed
+
+### 2022
+
+- ✓ 🇺🇸 federal · **Inflation Reduction Act: Medicare drug negotiation provisions** (2022-08-16) — passed
+
+### 2021
+
+- ✗ 🇺🇸 federal · **H.R.1976: Medicare for All Act (Jayapal)** (2021-03-17) — stalled _via chair_bottled_up_
+
+### 2019
+
+- ✗ 🇺🇸 federal · **S.1129: Medicare for All Act (Sanders)** (2019-04-10) — stalled _via chair_bottled_up_
 
 ## Class analysis
 

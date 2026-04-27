@@ -52,28 +52,33 @@ The federal minimum wage has been $7.25 per hour since July 2009, the longest pe
 
 Opposition comes from **retail-monopoly, agribusiness-capital, tech-monopoly** — the capital fractions with a direct material stake in the current policy.
 
-### Top opposition donors (cross-policy aggregate)
+### Top opposition donors
 
-| Donor | Total spend | Politicians funded |
-|---|---|---|
-| WinSenate | $336,666,829 | 14 |
-| SLF PAC | $143,954,700 | 8 |
-| Democratic Senatorial Campaign Committee | $136,115,776 | 19 |
-| Defend American Jobs | $126,769,806 | 5 |
-| National Republican Senatorial Committee | $103,991,909 | 28 |
-| Preserve America | $102,990,134 | 1 |
-| Senate Majority PAC | $62,013,705 | 12 |
-| Club for Growth | $61,281,778 | 20 |
-| Independence Usa Pac | $58,469,373 | 3 |
-| Lindsey Graham | $42,489,371 | 2 |
+| Donor | Capital type | Total spend | Politicians funded | Cross-policy |
+|---|---|---|---|---|
+| [[Fairshake PAC|Fairshake PAC]] | tech-monopoly | $349.3M | 22 | **2 of 5** |
+| [[Google - Alphabet|Google - Alphabet]] | tech-monopoly | $50.0M | 501 | **2 of 5** |
+| [[Oracle|Oracle]] | tech-monopoly | $47.8M | 134 | **2 of 5** |
+| [[FTX - Sam Bankman-Fried|FTX - Sam Bankman-Fried]] | tech-monopoly | $45.8M | 46 | **2 of 5** |
+| [[a16z - Andreessen Horowitz|a16z - Andreessen Horowitz]] | tech-monopoly | $33.4M | 45 | **2 of 5** |
+| [[OpenAI|OpenAI]] | tech-monopoly | $26.7M | 21 | **2 of 5** |
+| [[Microsoft|Microsoft]] | tech-monopoly | $18.1M | 282 | **2 of 5** |
+| [[Ripple|Ripple]] | tech-monopoly | $16.2M | 35 | **2 of 5** |
+| [[Apple|Apple]] | tech-monopoly | $13.2M | 140 | **2 of 5** |
+| [[Meta - Facebook|Meta - Facebook]] | tech-monopoly | $12.1M | 317 | **2 of 5** |
 
-_This list is computed from the full relationships.jsonl edge store and may shift as Phase 1 pipeline migrations populate more amount data. See [/who-blocks-us](/policies/who-blocks-us) for the cross-policy view._
+_Donors with a `capital_type` tag matching this policy's opposition are pulled from `data/entities.jsonl`; political spend is aggregated from the full relationships edge store. The "Cross-policy" column shows donors whose tag matches the opposition for more than one policy in the registry. Coverage is partial today (16% of entities tagged); the long-tail will fill in as tagging expands. See [[who-blocks-us|Who Blocks Us]] for the cross-policy enemy list._
 
-## Legislative history
+## Legislative timeline
 
-- **H.R.4889: Raise the Wage Act of 2023** (2023-07-25) — stalled via chair_bottled_up
-- **Parliamentarian ruling: $15 minimum wage ineligible for reconciliation** (2021-02-25) — failed via procedural_kill
-- **H.R.603: Raise the Wage Act of 2021** (2021-01-26) — stalled via chair_bottled_up
+### 2023
+
+- ✗ 🇺🇸 federal · **H.R.4889: Raise the Wage Act of 2023** (2023-07-25) — stalled _via chair_bottled_up_
+
+### 2021
+
+- · 🇺🇸 federal · **Parliamentarian ruling: $15 minimum wage ineligible for reconciliation** (2021-02-25) — failed _via procedural_kill_
+- ✗ 🇺🇸 federal · **H.R.603: Raise the Wage Act of 2021** (2021-01-26) — stalled _via chair_bottled_up_
 
 ## Class analysis
 

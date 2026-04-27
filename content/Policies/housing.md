@@ -51,29 +51,37 @@ The United States currently has no federal rent control law. Several legislative
 
 Opposition comes from **rentier-capital, finance-capital** — the capital fractions with a direct material stake in the current policy.
 
-### Top opposition donors (cross-policy aggregate)
+### Top opposition donors
 
-| Donor | Total spend | Politicians funded |
-|---|---|---|
-| WinSenate | $336,666,829 | 14 |
-| SLF PAC | $143,954,700 | 8 |
-| Democratic Senatorial Campaign Committee | $136,115,776 | 19 |
-| Defend American Jobs | $126,769,806 | 5 |
-| National Republican Senatorial Committee | $103,991,909 | 28 |
-| Preserve America | $102,990,134 | 1 |
-| Senate Majority PAC | $62,013,705 | 12 |
-| Club for Growth | $61,281,778 | 20 |
-| Independence Usa Pac | $58,469,373 | 3 |
-| Lindsey Graham | $42,489,371 | 2 |
+| Donor | Capital type | Total spend | Politicians funded | Cross-policy |
+|---|---|---|---|---|
+| [[Las Vegas Sands|Las Vegas Sands]] | rentier-capital | $159.3M | 29 | **2 of 5** |
+| [[National Association of Realtors|National Association of Realtors]] | rentier-capital | $62.8M | 369 | **2 of 5** |
+| [[National Multifamily Housing Council|National Multifamily Housing Council]] | rentier-capital | $2.6M | 205 | **2 of 5** |
+| [[CBRE Group|CBRE Group]] | rentier-capital | $2.4M | 101 | **2 of 5** |
+| [[Lennar Corporation|Lennar Corporation]] | rentier-capital | $296K | 22 | **2 of 5** |
+| [[MasTec - Mas Canosa Family|MasTec - Mas Canosa Family]] | rentier-capital | $172K | 21 | **2 of 5** |
+| [[Invitation Homes - Institutional Landlords|Invitation Homes - Institutional Landlords]] | rentier-capital | $47K | 7 | **2 of 5** |
+| [[National Rental Home Council|National Rental Home Council]] | rentier-capital | $35K | 13 | **2 of 5** |
+| [[American Homes 4 Rent|American Homes 4 Rent]] | rentier-capital | $31K | 5 | **2 of 5** |
+| [[Blackstone Real Estate|Blackstone Real Estate]] | rentier-capital | $6K | 1 | **2 of 5** |
 
-_This list is computed from the full relationships.jsonl edge store and may shift as Phase 1 pipeline migrations populate more amount data. See [/who-blocks-us](/policies/who-blocks-us) for the cross-policy view._
+_Donors with a `capital_type` tag matching this policy's opposition are pulled from `data/entities.jsonl`; political spend is aggregated from the full relationships edge store. The "Cross-policy" column shows donors whose tag matches the opposition for more than one policy in the registry. Coverage is partial today (16% of entities tagged); the long-tail will fill in as tagging expands. See [[who-blocks-us|Who Blocks Us]] for the cross-policy enemy list._
 
-## Legislative history
+## Legislative timeline
 
-- **H.R.2725 / S.1515: Affordable Housing Credit Improvement Act (LIHTC)** (2025-07-04) — passed
-- **Washington RCW 59.18.700: Statewide rent stabilization** (2025-05-01) — passed
-- **S.1368 / H.R.2768: American Housing and Economic Mobility Act** (2021-04-23) — stalled via chair_bottled_up
-- **California AB 1482: Statewide rent increase cap** (2019-10-08) — passed
+### 2025
+
+- ✓ 🇺🇸 federal · **H.R.2725 / S.1515: Affordable Housing Credit Improvement Act (LIHTC)** (2025-07-04) — passed
+- ✓ 🏛️ state · **Washington RCW 59.18.700: Statewide rent stabilization** (2025-05-01) — passed
+
+### 2021
+
+- ✗ 🇺🇸 federal · **S.1368 / H.R.2768: American Housing and Economic Mobility Act** (2021-04-23) — stalled _via chair_bottled_up_
+
+### 2019
+
+- ✓ 🏛️ state · **California AB 1482: Statewide rent increase cap** (2019-10-08) — passed
 
 ## Class analysis
 
