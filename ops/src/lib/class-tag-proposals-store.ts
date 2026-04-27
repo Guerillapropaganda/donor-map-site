@@ -140,7 +140,29 @@ export const WORKER_RELATIONSHIPS: WorkerRelationship[] = [
 
 // ─── Proposal schema ──────────────────────────────────────────────────
 
-export type ProposalStatus = "pending" | "approved" | "rejected" | "edited"
+/**
+ * ProposalStatus: original four states + three reconciliation states
+ * added by scripts/class-tag-reconcile.cjs.
+ *
+ *   pending       — needs human review (entity has no tags yet, real backlog)
+ *   approved      — David accepted; tags applied to the entity record
+ *   rejected      — David declined; entity stays untagged
+ *   edited        — David accepted with modifications (rare in practice)
+ *   superseded    — entity already has all proposed tags via another
+ *                   pathway; auto-closed by the reconciler. No action needed.
+ *   augmentation  — entity has SOME tags; proposal would ADD missing fields.
+ *                   Needs review of just the additions (see reconciliation_diff).
+ *   conflict      — proposal disagrees with persisted single-value field.
+ *                   Highest review priority (see reconciliation_diff).
+ */
+export type ProposalStatus =
+  | "pending"
+  | "approved"
+  | "rejected"
+  | "edited"
+  | "superseded"
+  | "augmentation"
+  | "conflict"
 
 export interface ProposedTags {
   capital_type: CapitalType | null
@@ -149,6 +171,19 @@ export interface ProposedTags {
   ideological_function: IdeologicalFunction[]
   worker_relationship: WorkerRelationship | null
   policy_stakes: string[]
+}
+
+/**
+ * reconciliation_diff: present on superseded / augmentation / conflict
+ * proposals. Tells the review surface exactly what changed between the
+ * proposal and the persisted entity record.
+ *   adds:      fields the proposal would set that the entity is missing
+ *              (single-value fields → value; array fields → array of new entries)
+ *   conflicts: single-value fields where proposed and persisted disagree
+ */
+export interface ReconciliationDiff {
+  adds: Record<string, unknown>
+  conflicts: Record<string, { proposed: unknown; persisted: unknown }>
 }
 
 export interface Proposal {
@@ -163,6 +198,7 @@ export interface Proposal {
   reviewed_at?: string | null
   reviewed_by?: string | null
   reject_reason?: string | null
+  reconciliation_diff?: ReconciliationDiff
 }
 
 // ─── Entity snapshot (pass-through for review context) ───────────────
@@ -286,6 +322,14 @@ export interface QueryOpts {
   search?: string
   limit?: number
   offset?: number
+  /**
+   * Sort order for the result list.
+   *   "edge_count_desc" — highest-impact entities first (default for triage:
+   *     Apollo, BlackRock, Bank of America bubble up over Acme Local LLC)
+   *   "proposed_at_desc" — newest first
+   *   "proposed_at_asc"  — oldest first (default, original behavior)
+   */
+  sort?: "edge_count_desc" | "proposed_at_desc" | "proposed_at_asc"
 }
 
 export interface QueryResult {
@@ -306,6 +350,9 @@ export function queryProposals(opts: QueryOpts = {}): QueryResult {
     approved: 0,
     rejected: 0,
     edited: 0,
+    superseded: 0,
+    augmentation: 0,
+    conflict: 0,
   }
   const confidenceCounts: Record<"high" | "medium" | "low", number> = {
     high: 0,
@@ -327,6 +374,24 @@ export function queryProposals(opts: QueryOpts = {}): QueryResult {
   if (opts.search) {
     const q = opts.search.toLowerCase()
     filtered = filtered.filter((p) => p.entity_name.toLowerCase().includes(q))
+  }
+
+  // Sort. Default behavior is unchanged (proposed_at_asc), but
+  // edge_count_desc surfaces high-impact untagged entities first
+  // (Apollo, BlackRock, Bank of America bubble up over Acme Local LLC).
+  const sortMode = opts.sort ?? "proposed_at_asc"
+  if (sortMode !== "proposed_at_asc") {
+    const entityIndex = loadEntityIndex()
+    const edgeCountFor = (id: string): number => {
+      const e = entityIndex.get(id)
+      const c = e?.signals?.edge_count
+      return typeof c === "number" ? c : 0
+    }
+    if (sortMode === "edge_count_desc") {
+      filtered = [...filtered].sort((a, b) => edgeCountFor(b.entity_id) - edgeCountFor(a.entity_id))
+    } else if (sortMode === "proposed_at_desc") {
+      filtered = [...filtered].sort((a, b) => (b.proposed_at || "").localeCompare(a.proposed_at || ""))
+    }
   }
 
   const filteredCount = filtered.length
