@@ -1,16 +1,60 @@
 ---
 title: FEC committee stub → canonical entity resolution (follow-up)
 type: report
-status: open
+status: resolved
 kind: ticket
 last-updated: '2026-04-28'
+resolved-date: '2026-04-28'
 auto-generated: false
 owner: Code Claude
 ---
 
 # FEC committee stub → canonical entity resolution
 
-## Why this exists
+> **RESOLVED 2026-04-28 PM (third-session sweep). Original ~10hr scope
+> turned out to be ~30 minutes once an actual audit ran.**
+>
+> What I expected (per the original framing below): a multi-session
+> project building a resolver library, an ingest-time integration, plus
+> editorial calls per committee.
+>
+> What actually happened:
+> 1. Wrote `scripts/fec-committee-stub-audit.cjs` — walks every
+>    FEC-derived edge file, finds committee_ids referenced on edges
+>    that aren't mapped in `data/fec-committee-registry.json`.
+> 2. First scan: **371 unregistered committee_ids in FEC edges,
+>    accounting for 13,818 edges total.**
+> 3. **368 of 371 (99.2%) exact-matched an existing vault entity by
+>    `fec_name`.** Koch Industries → Koch Industries entity, AFL-CIO
+>    → AFL-CIO entity, etc. The data was already aligned; the registry
+>    just hadn't been told.
+> 4. Auto-resolved all 368 via the audit's `--apply` flag.
+> 5. Manually mapped the remaining 3 (Edward J. Markey → Ed Markey,
+>    CLAUDIA TENNEY FOR CONGRESS → Claudia Tenney).
+> 6. Re-ran audit: **0 stubs remaining.**
+> 7. Audit registered in `vault-audit.cjs` so future FEC ingests that
+>    introduce new stubs surface automatically.
+>
+> **Why the original scope was off:** the existing Admin Note assumed
+> resolution would be hard (committee stubs vs canonical names mostly
+> diverging). The actual data shows FEC committee `fec_name` fields
+> were already canonical entity names because Research Claude had
+> normalized them during entity creation. Only 3 cases had FEC's
+> formal-name form ("Edward J. Markey" / "CLAUDIA TENNEY FOR CONGRESS")
+> diverging from the vault's canonical form. The wall this scope was
+> built around didn't exist.
+>
+> **Impact:** the librarian (which reads `fec-committee-registry.json`)
+> now correctly attributes 13,818 edges to canonical entities. Story-
+> evidence queries, money-trail aggregation, and any consumer going
+> through the librarian benefit. The cjs harness checks
+> (librarian-gap-audit, frontmatter-orphan-check) don't read the registry
+> directly, so their counts are unchanged — that's a separate refactor
+> tracked under "audits should use the librarian per ADR-0024."
+
+---
+
+## Why this exists (original framing — preserved for history)
 
 Surfaced during the Phase A canonical-gap audit (ADR-0026 follow-up).
 Initially framed as a missing-rebuild-handler problem; turned out to
