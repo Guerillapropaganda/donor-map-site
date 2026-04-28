@@ -15,6 +15,7 @@ interface RuleDoc {
 export async function GET() {
   try {
     const docs = [
+      { name: "Operator Commands", file: "content/Operator Commands.md" },
       { name: "Vault Rules", file: "content/Vault Rules.md" },
       { name: "CLAUDE.md", file: "CLAUDE.md" },
       { name: "Pipeline Guide", file: "content/Pipeline Guide.md" },
