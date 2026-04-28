@@ -139,6 +139,39 @@ function main() {
     }
   }
 
+  // ─── ADR-0027: orphan-candidates store guard ─────────────────────
+  //
+  // data/frontmatter-orphan-candidates.jsonl is itself a canonical store
+  // (Rule 1 applies). It MUST be edited only via:
+  //   - scripts/rebuild-relationship-caches.cjs (--report-orphans / --apply-approved)
+  //   - scripts/lib/frontmatter-orphan-candidates-store.cjs (the helper)
+  //   - ops/src/app/api/relationships/orphans/* (P2 ops API, not yet built)
+  // Any other commit touching this file is blocked.
+  const ORPHAN_STORE = "data/frontmatter-orphan-candidates.jsonl"
+  const ORPHAN_AUTHORITY_PATHS = [
+    /^scripts\/rebuild-relationship-caches\.cjs$/,
+    /^scripts\/lib\/frontmatter-orphan-candidates-store\.cjs$/,
+    /^scripts\/frontmatter-orphan-check\.cjs$/,
+    /^ops\/src\/app\/api\/relationships\/orphans\//,
+  ]
+  if (staged.includes(ORPHAN_STORE)) {
+    const hasAuthority = staged.some((f) => ORPHAN_AUTHORITY_PATHS.some((re) => re.test(f)))
+    if (!hasAuthority) {
+      console.log("")
+      console.log("[x] canonical-store-sentinel blocked the commit")
+      console.log("")
+      console.log(`  You edited ${ORPHAN_STORE} but did not stage an authorized writer.`)
+      console.log("  Authorized writers (per ADR-0027):")
+      console.log("    scripts/rebuild-relationship-caches.cjs (--report-orphans / --apply-approved)")
+      console.log("    scripts/lib/frontmatter-orphan-candidates-store.cjs")
+      console.log("    ops/src/app/api/relationships/orphans/* (P2)")
+      console.log("")
+      console.log("  Emergency bypass: SKIP_HOOKS=1 git commit ...")
+      console.log("")
+      process.exit(1)
+    }
+  }
+
   if (offenders.length === 0) {
     process.exit(0)
   }

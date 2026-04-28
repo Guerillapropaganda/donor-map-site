@@ -72,6 +72,15 @@ const NO_QUEUE = args.includes('--no-queue');
 
 const CHECKS = [
   {
+    name: 'frontmatter-orphan-candidates',
+    description:
+      "ADR-0027 P1: profiles where a name in `politicians-funded` has no librarian backing. Editor-in-the-loop review queue. Findings count = state=candidate (not yet triaged). Approved-prune entries get stripped on next rebuilder --apply-approved run; kept/blocked-by-librarian-gap stay visible.",
+    cmd: ['node', 'scripts/frontmatter-orphan-check.cjs', '--json'],
+    parse: parseFrontmatterOrphan,
+    timeout_ms: 30000,
+    queue: { bucket: 'deciding', leverage: 3, cost_min: 5 },
+  },
+  {
     name: 'relationship-overlap',
     description:
       "Profiles where the same name appears in BOTH a funding frontmatter field (politicians-funded / donors / top-donors) AND `opposes` on the same profile. Splits via librarian: monetary-backed = real both-sides (leave); frontmatter-only = editorial typo or librarian gap (David reviews). Findings count = frontmatter-only only.",
@@ -322,6 +331,25 @@ function parseNoteAutoResolver(stdout, _stderr, _exit) {
     };
   } catch {
     return { findings_count: 0, notes: 'Resolver parse failed.' };
+  }
+}
+
+function parseFrontmatterOrphan(stdout, _stderr, _exit) {
+  try {
+    const j = JSON.parse(stdout);
+    const strong = j.strong_signal_count || j.findings_count || 0;
+    const total = j.candidate_total || 0;
+    const states = j.by_state || {};
+    return {
+      findings_count: strong,
+      notes:
+        `${strong} strong-signal candidate(s); ${total} total in store; ` +
+        `pruned: ${states['approved-prune'] || 0}; kept: ${states['kept'] || 0}; ` +
+        `librarian-gap: ${states['blocked-by-librarian-gap'] || 0}; ` +
+        `resolved: ${states['resolved'] || 0}.`,
+    };
+  } catch {
+    return { findings_count: 0, notes: 'orphan-check parse failed' };
   }
 }
 
