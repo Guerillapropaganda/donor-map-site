@@ -281,14 +281,32 @@ function classify(name, idx) {
   const matchingEntities = idx.entityNames.get(k);
   const inEntities = !!matchingEntities;
 
-  // When the wikilink resolves to one or more entity records, the edges
-  // are keyed under the entity's canonical `name` (e.g. "Donald Trump"),
-  // not the alias the editor typed (e.g. "_Donald Trump Master Profile").
-  // Probe edge counts under every candidate canonical name and the input.
+  // When the wikilink resolves to entity record(s), the edges are keyed
+  // by various forms in canonical / derived stores: the entity's canonical
+  // `name` (e.g. "Bank of America"), profile-path-derived stems
+  // ("AT&T - WarnerMedia"), AND any explicitly declared aliases on the
+  // entity record (e.g. "BANK OF AMERICA,NA" — FEC bulk endpoint form).
+  //
+  // Per ADR-0024: the librarian unifies all of these into one node. The
+  // gap-audit must follow that unification when probing edge counts —
+  // otherwise FEC-form aliases added on entities don't reflect in counts
+  // (the blind spot that surfaced 2026-04-28 with the Bank of America /
+  // BANK OF AMERICA,NA case). Probing every form the entity answers to
+  // is the alias-aware lookup ADR-0024 calls for.
   const namesToProbe = new Set([k]);
   if (matchingEntities) {
     for (const e of matchingEntities) {
       if (e.name) namesToProbe.add(normalize(e.name));
+      // Profile-path-derived wikilink alias forms.
+      for (const a of profilePathToWikilinkAlias(e.profile_path)) {
+        namesToProbe.add(normalize(a));
+      }
+      // Explicit aliases declared on the entity record (entities.jsonl
+      // `aliases` field). This is the FEC-edge-form union — closes the
+      // 2026-04-28 blind spot.
+      if (Array.isArray(e.aliases)) {
+        for (const a of e.aliases) namesToProbe.add(normalize(a));
+      }
     }
   }
   let outCount = 0;

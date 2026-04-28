@@ -292,11 +292,76 @@ function main() {
 //
 // No frontmatter writes. The actual prune happens later via --apply-approved.
 
+/**
+ * Build a name → entity-forms index. For each entity, the set of every
+ * lowercase form that should resolve to that entity: canonical name,
+ * declared aliases, profile-path-derived stem variants. Used by the
+ * orphan check to probe edges in an alias-aware way per ADR-0024.
+ */
+function buildEntityFormsIndex() {
+  const ENTITIES_FILE = path.join(DATA_DIR, 'entities.jsonl');
+  if (!fs.existsSync(ENTITIES_FILE)) return new Map();
+  const lines = fs.readFileSync(ENTITIES_FILE, 'utf-8').split(/\r?\n/).filter(Boolean);
+  const index = new Map(); // lowercase form → array of {entity, all_forms}
+  for (const line of lines) {
+    let r;
+    try { r = JSON.parse(line); } catch { continue; }
+    if (!r || !r.name) continue;
+    const forms = new Set([String(r.name).toLowerCase()]);
+    if (Array.isArray(r.aliases)) {
+      for (const a of r.aliases) forms.add(String(a).toLowerCase());
+    }
+    // Profile-path-derived stem alias (mirrors lib/donor-map/resolver.ts
+    // → profilePathToWikilinkAlias). Inlined here to avoid pulling the
+    // canonical-name-resolver's full registry load — orphan-check just
+    // needs the form set, not the resolver.
+    if (r.profile_path) {
+      const slash = String(r.profile_path).lastIndexOf('/');
+      const stem = (slash === -1 ? r.profile_path : r.profile_path.slice(slash + 1)).replace(/\.md$/i, '');
+      if (stem) {
+        forms.add(stem.toLowerCase());
+        if (/^_?.+ Master Profile$/.test(stem)) {
+          if (stem.startsWith('_')) forms.add(stem.replace(/^_/, '').toLowerCase());
+          else forms.add(('_' + stem).toLowerCase());
+        }
+      }
+    }
+    const formArr = [...forms];
+    const slot = { entity: r, all_forms: formArr };
+    for (const f of formArr) {
+      if (!index.has(f)) index.set(f, []);
+      index.get(f).push(slot);
+    }
+  }
+  return index;
+}
+
+/**
+ * Given a wikilink/title name, return the set of every lowercase form
+ * that should be probed when looking up edges. If the name resolves to
+ * one or more entities, expand to all their forms. Otherwise just the
+ * input lowercased.
+ */
+function entityForms(name, entityIndex) {
+  if (!name) return new Set();
+  const k = String(name).toLowerCase();
+  const slots = entityIndex.get(k);
+  if (!slots || slots.length === 0) return new Set([k]);
+  const out = new Set();
+  for (const slot of slots) {
+    for (const f of slot.all_forms) out.add(f);
+  }
+  return out;
+}
+
 function reportOrphans() {
   const store = require('./lib/frontmatter-orphan-candidates-store.cjs');
   console.log('═══ rebuild-relationship-caches --report-orphans ═══');
   console.log('  Scope: politicians-funded only (P1 per ADR-0027)');
   console.log();
+
+  const entityIndex = buildEntityFormsIndex();
+  console.log(`  ${entityIndex.size} entity name forms indexed (canonical + aliases + path-stems)`);
 
   const edges = loadEdges();
   console.log(`  ${edges.length} active canonical edges loaded`);
@@ -342,7 +407,6 @@ function reportOrphans() {
     if (profileType !== 'donor' && profileType !== 'corporation') continue;
 
     const subject = fm.title || path.basename(filePath, '.md');
-    const subjectKey = subject.toLowerCase();
     const profileRel = path.relative(ROOT, filePath).replace(/\\/g, '/');
 
     const fundedNames = extractWikilinks(fm['politicians-funded']);
@@ -352,18 +416,46 @@ function reportOrphans() {
     const opposesNames = extractWikilinks(fm.opposes);
     const opposesLower = new Set([...opposesNames].map((n) => n.toLowerCase()));
 
-    const monOut = monetaryOut.get(subjectKey);
-    const oppOut = oppositionOut.get(subjectKey);
-    const oppIn = oppositionInRev.get(subjectKey);
+    // Alias-aware probe per ADR-0024: edges may be keyed by the subject's
+    // canonical name OR any of its declared aliases (entities.jsonl
+    // `aliases` field) OR a profile-path-derived stem. Walk every form
+    // so an alias-form edge isn't silently treated as missing.
+    const subjectForms = entityForms(subject, entityIndex);
+    function probeSubjectMap(map, name) {
+      const k = name.toLowerCase();
+      let total = 0;
+      for (const form of subjectForms) {
+        const inner = map.get(form);
+        if (inner) total += (inner.get(k) || 0);
+      }
+      return total;
+    }
 
     for (const name of fundedNames) {
-      const nameKey = name.toLowerCase();
-      const monEdges = (monOut?.get(nameKey) || 0);
+      // Same alias-aware probe on the politician side.
+      const targetForms = entityForms(name, entityIndex);
+      function sumByTarget(map) {
+        let total = 0;
+        for (const form of subjectForms) {
+          const inner = map.get(form);
+          if (!inner) continue;
+          for (const tf of targetForms) total += (inner.get(tf) || 0);
+        }
+        return total;
+      }
+      const monEdges = sumByTarget(monetaryOut);
       // Opposition edges in EITHER direction count as "real relationship,
       // even though no $ flowed for-side." That's the librarian-gap signal:
       // we know they're connected, just not monetarily.
-      const oppEdgesOut = (oppOut?.get(nameKey) || 0);
-      const oppEdgesIn = (oppIn?.get(nameKey) || 0);
+      const oppEdgesOut = sumByTarget(oppositionOut);
+      // Opposition-In: the politician's name is the from, subject is the to.
+      // Build the symmetric probe by swapping roles.
+      let oppEdgesIn = 0;
+      for (const tf of targetForms) {
+        const inner = oppositionInRev.get(tf);
+        if (!inner) continue;
+        for (const sf of subjectForms) oppEdgesIn += (inner.get(sf) || 0);
+      }
       const oppEdges = oppEdgesOut + oppEdgesIn;
 
       if (monEdges > 0) continue; // backed — not an orphan
@@ -373,7 +465,7 @@ function reportOrphans() {
         subject,
         field: 'politicians-funded',
         name,
-        in_opposes: opposesLower.has(nameKey),
+        in_opposes: opposesLower.has(name.toLowerCase()),
         librarian_monetary_edges: 0,
         librarian_opposition_edges: oppEdges,
       });
