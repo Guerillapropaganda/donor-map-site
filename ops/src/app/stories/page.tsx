@@ -148,6 +148,16 @@ function normalize(s: string): string {
   return String(s).toLowerCase().trim().replace(/\s+/g, " ")
 }
 
+/** Compact dollar format: $2.4M / $890k / $1,500 */
+function fmtMoney(n: number | null | undefined): string {
+  if (typeof n !== "number" || !Number.isFinite(n) || n === 0) return "$0"
+  const abs = Math.abs(n)
+  if (abs >= 1_000_000) return "$" + (n / 1_000_000).toFixed(2).replace(/\.?0+$/, "") + "M"
+  if (abs >= 10_000) return "$" + (n / 1_000).toFixed(0) + "k"
+  if (abs >= 1_000) return "$" + (n / 1_000).toFixed(1).replace(/\.?0+$/, "") + "k"
+  return "$" + n.toFixed(0)
+}
+
 /**
  * Extract the wikilink target from a linked-entity ref so we can build
  * an "open profile" link. Falls back to a search query if the ref isn't
@@ -201,6 +211,56 @@ export default function StoriesPage() {
   }
   const [verifyResults, setVerifyResults] = useState<Record<string, VerifyResult>>({})
   const [verifyingId, setVerifyingId] = useState<string | null>(null)
+
+  // Per-story money/evidence panels. Money is shallow (subject↔counterparty
+  // edges only). Evidence is deep (adds shared donors + cross-targets).
+  // Both keyed by story.id; setting an entry shows the panel.
+  interface MoneyEdgeView {
+    from: string
+    to: string
+    amount: number | null
+    cycle: string | number | null
+    source: string
+    source_url: string | null
+    category: string
+    label: string
+    evidence: string[]
+  }
+  interface MoneyBucketView {
+    total_amount: number
+    edge_count: number
+    top_edges: MoneyEdgeView[]
+  }
+  interface PairView {
+    subject_ref: string
+    counterparty_ref: string
+    resolved: { subject: { name: string; type: string; profile_path: string | null } | null; counterparty: { name: string; type: string; profile_path: string | null } | null }
+    unresolved_reason: string | null
+    money_for: MoneyBucketView
+    money_against: MoneyBucketView
+    other_money: MoneyBucketView
+    non_money_edges: { category: string; label: string; count: number }[]
+  }
+  interface MoneyResult {
+    supported: boolean
+    reason?: string | null
+    pair?: PairView
+    checked_at?: string
+  }
+  interface EvidenceResult {
+    evidence: {
+      pair: PairView
+      shared_donors: { name: string; to_subject_amount: number; to_counterparty_amount: number; combined_amount: number }[]
+      cross_targets: { subject_name: string; subject_profile_path: string | null; money_for_amount: number; money_against_amount: number; has_political_opposition_edge: boolean }[]
+      notes: string[]
+    }
+    checked_at: string
+  }
+  const [moneyResults, setMoneyResults] = useState<Record<string, MoneyResult>>({})
+  const [evidenceResults, setEvidenceResults] = useState<Record<string, EvidenceResult>>({})
+  const [moneyLoadingId, setMoneyLoadingId] = useState<string | null>(null)
+  const [evidenceLoadingId, setEvidenceLoadingId] = useState<string | null>(null)
+  const [draftLoadingId, setDraftLoadingId] = useState<string | null>(null)
 
   const fetchStories = useCallback(async () => {
     setLoading(true)
@@ -303,6 +363,72 @@ export default function StoriesPage() {
     )
     if (reason === null) return
     bulkPatch({ state: "archived", archive_reason: reason || null })
+  }
+
+  const showMoney = async (story: Story) => {
+    setMoneyLoadingId(story.id)
+    try {
+      const res = await fetch(`/api/stories/money?id=${encodeURIComponent(story.id)}`)
+      if (!res.ok) throw new Error(await res.text())
+      const data = await res.json() as MoneyResult
+      setMoneyResults(prev => ({ ...prev, [story.id]: data }))
+    } catch (e: unknown) {
+      alert(`Money trail failed: ${e instanceof Error ? e.message : String(e)}`)
+    } finally {
+      setMoneyLoadingId(null)
+    }
+  }
+
+  const showEvidence = async (story: Story) => {
+    setEvidenceLoadingId(story.id)
+    try {
+      const res = await fetch(`/api/stories/evidence?id=${encodeURIComponent(story.id)}`)
+      if (!res.ok) throw new Error(await res.text())
+      const data = await res.json() as EvidenceResult
+      setEvidenceResults(prev => ({ ...prev, [story.id]: data }))
+    } catch (e: unknown) {
+      alert(`Evidence failed: ${e instanceof Error ? e.message : String(e)}`)
+    } finally {
+      setEvidenceLoadingId(null)
+    }
+  }
+
+  const draftFromEvidence = async (story: Story) => {
+    const hasNotes = !!(story.editorial_notes && story.editorial_notes.trim())
+    const willReplace = hasNotes && story.editorial_notes!.includes("## Evidence brief")
+      ? confirm("This story already has an auto-generated evidence brief. Re-generate? (Old brief replaced; any framing notes you wrote outside the brief are preserved.)")
+      : true
+    if (!willReplace) return
+    if (hasNotes && !story.editorial_notes!.includes("## Evidence brief")) {
+      if (!confirm("This story has hand-written editorial notes. Append the auto-brief beneath them?")) return
+    }
+    setDraftLoadingId(story.id)
+    try {
+      const res = await fetch("/api/stories/draft-from-evidence", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ id: story.id, replace: false }),
+      })
+      if (!res.ok) throw new Error(await res.text())
+      const data = await res.json()
+      setStories(prev => prev.map(s => s.id === story.id ? data.story : s))
+      const sum = data.evidence_summary
+      const lines = [
+        `Evidence brief written. State: ${data.previous_state} → ${data.story.state}.`,
+        "",
+        sum.unresolved_reason
+          ? `⚠ ${sum.unresolved_reason}`
+          : `Money for: $${sum.money_for_total.toLocaleString()} (${sum.money_for_edges} edges)\n` +
+            `Money against: $${sum.money_against_total.toLocaleString()} (${sum.money_against_edges} edges)\n` +
+            `Shared donors: ${sum.shared_donors_count}\n` +
+            `Cross-targets: ${sum.cross_targets_count}`,
+      ]
+      alert(lines.join("\n"))
+    } catch (e: unknown) {
+      alert(`Draft from evidence failed: ${e instanceof Error ? e.message : String(e)}`)
+    } finally {
+      setDraftLoadingId(null)
+    }
   }
 
   const verifyStory = async (story: Story) => {
@@ -864,6 +990,36 @@ export default function StoriesPage() {
                           {verifyingId === story.id ? "🔍 verifying…" : "🔍 verify"}
                         </button>
 
+                        {/* Money trail — subject↔counterparty $ flows from the librarian */}
+                        <button
+                          className="text-xs px-2 py-1 bg-emerald-900 hover:bg-emerald-800 text-emerald-200 rounded disabled:opacity-50"
+                          disabled={moneyLoadingId === story.id}
+                          onClick={() => showMoney(story)}
+                          title="Pull every monetary edge between subject and counterparty from the librarian: direct contributions, IE-support, IE-oppose. Read-only."
+                        >
+                          {moneyLoadingId === story.id ? "💰 loading…" : "💰 money"}
+                        </button>
+
+                        {/* Show evidence — money + shared donors + cross-targets */}
+                        <button
+                          className="text-xs px-2 py-1 bg-cyan-900 hover:bg-cyan-800 text-cyan-200 rounded disabled:opacity-50"
+                          disabled={evidenceLoadingId === story.id}
+                          onClick={() => showEvidence(story)}
+                          title="Money trail PLUS: top shared donors (fund both subject and counterparty), and other politicians where the counterparty plays both sides. Read-only."
+                        >
+                          {evidenceLoadingId === story.id ? "🔗 loading…" : "🔗 evidence"}
+                        </button>
+
+                        {/* Draft from evidence — assemble brief into editorial_notes, flip state */}
+                        <button
+                          className="text-xs px-2 py-1 bg-amber-900 hover:bg-amber-800 text-amber-200 rounded disabled:opacity-50"
+                          disabled={draftLoadingId === story.id}
+                          onClick={() => draftFromEvidence(story)}
+                          title="Assemble the evidence brief (receipts only — no editorial framing) into editorial_notes and flip state to draft. Editorial framing placeholders are left blank for you to write. Per Rule 4."
+                        >
+                          {draftLoadingId === story.id ? "✍️ drafting…" : "✍️ draft from evidence"}
+                        </button>
+
                         {/* State controls (hidden when archived; restore button in row header handles that) */}
                         {story.state !== "archived" && (
                           <>
@@ -999,6 +1155,149 @@ export default function StoriesPage() {
                                 </p>
                               </div>
                             )}
+                          </div>
+                        )
+                      })()}
+
+                      {/* Money trail panel — shown after a 💰 click */}
+                      {moneyResults[story.id] && (() => {
+                        const m = moneyResults[story.id]
+                        if (!m.supported) {
+                          return (
+                            <div className="border border-gray-700 bg-gray-900 rounded p-3 text-xs space-y-1">
+                              <div className="font-semibold text-gray-300">💰 Money trail — not applicable</div>
+                              <p className="text-gray-400">{m.reason}</p>
+                            </div>
+                          )
+                        }
+                        const p = m.pair!
+                        return (
+                          <div className="border border-emerald-900 bg-emerald-950/30 rounded p-3 text-xs space-y-3">
+                            <div className="font-semibold text-emerald-300 flex items-center justify-between">
+                              <span>💰 Money trail · {p.resolved.subject?.name ?? p.subject_ref} ↔ {p.resolved.counterparty?.name ?? p.counterparty_ref}</span>
+                              <span className="text-gray-500 font-normal text-[10px]">checked {m.checked_at ? new Date(m.checked_at).toLocaleTimeString() : ""}</span>
+                            </div>
+                            {p.unresolved_reason && (
+                              <p className="text-amber-300">⚠ {p.unresolved_reason}</p>
+                            )}
+                            <div className="grid grid-cols-2 gap-3">
+                              <div>
+                                <div className="text-gray-400 mb-1">For subject</div>
+                                <div className="text-emerald-300 font-mono text-base">{fmtMoney(p.money_for.total_amount)}</div>
+                                <div className="text-gray-500">{p.money_for.edge_count} edge{p.money_for.edge_count === 1 ? "" : "s"}</div>
+                              </div>
+                              <div>
+                                <div className="text-gray-400 mb-1">Against subject</div>
+                                <div className="text-red-300 font-mono text-base">{fmtMoney(p.money_against.total_amount)}</div>
+                                <div className="text-gray-500">{p.money_against.edge_count} edge{p.money_against.edge_count === 1 ? "" : "s"}</div>
+                              </div>
+                            </div>
+                            {(p.money_for.top_edges.length > 0 || p.money_against.top_edges.length > 0) && (
+                              <div className="bg-black/30 rounded p-2 max-h-48 overflow-y-auto space-y-1">
+                                {[...p.money_for.top_edges, ...p.money_against.top_edges].slice(0, 16).map((e, i) => (
+                                  <div key={i} className="text-[11px] flex items-center gap-2">
+                                    <span className={`font-mono w-16 text-right ${p.money_against.top_edges.some(x => x === e) ? "text-red-300" : "text-emerald-300"}`}>{fmtMoney(e.amount)}</span>
+                                    <span className="text-gray-400">{e.label}</span>
+                                    <span className="text-gray-600">{e.cycle ?? "?"}</span>
+                                    <a href={e.source_url ?? "#"} target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline truncate flex-1">{e.source}</a>
+                                  </div>
+                                ))}
+                              </div>
+                            )}
+                            {p.other_money.edge_count > 0 && (
+                              <div className="text-gray-400 text-[11px]">
+                                Other money flows: {fmtMoney(p.other_money.total_amount)} · {p.other_money.edge_count} edge(s) (contracts / grants / operating)
+                              </div>
+                            )}
+                            {p.non_money_edges.length > 0 && (
+                              <div className="text-gray-500 text-[11px]">
+                                Non-monetary edges: {p.non_money_edges.map(n => `${n.label} ×${n.count}`).join(" · ")}
+                              </div>
+                            )}
+                            {p.money_for.edge_count === 0 && p.money_against.edge_count === 0 && !p.unresolved_reason && (
+                              <p className="text-gray-400 italic">No monetary edges found between this pair in the librarian. The relationship may be inferred (shared-donors, related, etc.) without a direct $ trail. Try 🔗 evidence for the broader picture.</p>
+                            )}
+                          </div>
+                        )
+                      })()}
+
+                      {/* Evidence panel — shown after a 🔗 click */}
+                      {evidenceResults[story.id] && (() => {
+                        const ev = evidenceResults[story.id].evidence
+                        const p = ev.pair
+                        return (
+                          <div className="border border-cyan-900 bg-cyan-950/30 rounded p-3 text-xs space-y-3">
+                            <div className="font-semibold text-cyan-300 flex items-center justify-between">
+                              <span>🔗 Evidence · {p.resolved.subject?.name ?? p.subject_ref} ↔ {p.resolved.counterparty?.name ?? p.counterparty_ref}</span>
+                              <span className="text-gray-500 font-normal text-[10px]">checked {evidenceResults[story.id].checked_at ? new Date(evidenceResults[story.id].checked_at).toLocaleTimeString() : ""}</span>
+                            </div>
+                            {p.unresolved_reason && (
+                              <p className="text-amber-300">⚠ {p.unresolved_reason}</p>
+                            )}
+                            {ev.notes.length > 0 && (
+                              <div className="text-gray-400 space-y-1">
+                                {ev.notes.map((n, i) => <p key={i}>{n}</p>)}
+                              </div>
+                            )}
+
+                            {/* Money snapshot */}
+                            <div className="grid grid-cols-2 gap-3">
+                              <div>
+                                <div className="text-gray-400 mb-1">For subject</div>
+                                <div className="text-emerald-300 font-mono">{fmtMoney(p.money_for.total_amount)} · {p.money_for.edge_count}</div>
+                              </div>
+                              <div>
+                                <div className="text-gray-400 mb-1">Against subject</div>
+                                <div className="text-red-300 font-mono">{fmtMoney(p.money_against.total_amount)} · {p.money_against.edge_count}</div>
+                              </div>
+                            </div>
+
+                            {/* Shared donors */}
+                            <div>
+                              <div className="text-gray-300 font-semibold mb-1">Shared donors (fund both)</div>
+                              {ev.shared_donors.length === 0 ? (
+                                <p className="text-gray-500 italic text-[11px]">No shared donors in the librarian for this pair.</p>
+                              ) : (
+                                <div className="bg-black/30 rounded p-2 max-h-40 overflow-y-auto space-y-1">
+                                  {ev.shared_donors.map((d, i) => (
+                                    <div key={i} className="text-[11px] flex items-center gap-2">
+                                      <span className="text-gray-200 flex-1 truncate" title={d.name}>{d.name}</span>
+                                      <span className="text-emerald-300 font-mono">{fmtMoney(d.to_subject_amount)}</span>
+                                      <span className="text-gray-600">→ subj</span>
+                                      <span className="text-emerald-300 font-mono">{fmtMoney(d.to_counterparty_amount)}</span>
+                                      <span className="text-gray-600">→ cp</span>
+                                    </div>
+                                  ))}
+                                </div>
+                              )}
+                            </div>
+
+                            {/* Cross-targets */}
+                            <div>
+                              <div className="text-gray-300 font-semibold mb-1">Counterparty plays both sides on</div>
+                              {ev.cross_targets.length === 0 ? (
+                                <p className="text-gray-500 italic text-[11px]">No other targets where this counterparty plays both donor + opponent. The pattern may be subject-specific.</p>
+                              ) : (
+                                <div className="bg-black/30 rounded p-2 max-h-48 overflow-y-auto space-y-1">
+                                  {ev.cross_targets.map((t, i) => (
+                                    <div key={i} className="text-[11px] flex items-center gap-2">
+                                      <span className="text-gray-200 flex-1 truncate" title={t.subject_name}>{t.subject_name}</span>
+                                      <span className="text-emerald-300 font-mono">{fmtMoney(t.money_for_amount)}</span>
+                                      <span className="text-gray-600">for</span>
+                                      <span className="text-red-300 font-mono">{fmtMoney(t.money_against_amount)}</span>
+                                      <span className="text-gray-600">against</span>
+                                      {t.has_political_opposition_edge && (
+                                        <span className="text-orange-300" title="Has explicit political-opposition edge">⚔</span>
+                                      )}
+                                    </div>
+                                  ))}
+                                </div>
+                              )}
+                            </div>
+
+                            <p className="text-gray-500 text-[10px] italic">
+                              Receipts only — no editorial framing applied. Click ✍️ draft from evidence to write this brief into editorial_notes (Rule 4: AI translates, never generates).
+                            </p>
                           </div>
                         )
                       })()}
