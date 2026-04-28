@@ -219,6 +219,16 @@ export class Resolver {
         entityBioguideToNodeId.set(declaredBio, node.id)
       }
       this.registerNode(node)
+      // Honor editor-declared aliases on the entity record. Without this
+      // an entry like `aliases: ['George W Bush']` on the canonical
+      // 'George W. Bush' record is silently ignored — the array sits in
+      // entities.jsonl forever doing nothing. Surfaced 2026-04-29 when
+      // 2 Bush story candidates flagged stale despite the alias being
+      // present. CJS twin (canonical-name-resolver.cjs) keeps this in
+      // lockstep.
+      if (Array.isArray(e.aliases)) {
+        for (const a of e.aliases) this.addAlias(node, a)
+      }
     }
     // Stamp byBioguide for entity-declared cases so legislator step can skip them.
     for (const [bg, nodeId] of entityBioguideToNodeId) this.byBioguide.set(bg, nodeId)

@@ -130,6 +130,15 @@ function buildResolver() {
   // 1. Seed from entities.jsonl
   for (const e of entities) {
     register(e.name, e)
+    // Honor editor-declared aliases on the entity record. Without this
+    // an entry like `aliases: ['George W Bush']` on the canonical
+    // 'George W. Bush' record is silently ignored — surfaced 2026-04-29
+    // when 2 Bush story candidates flagged stale despite the alias
+    // being present. TS twin (lib/donor-map/resolver.ts) keeps this in
+    // lockstep.
+    if (Array.isArray(e.aliases)) {
+      for (const a of e.aliases) register(a, e)
+    }
     // Auto-alias the editorial wikilink forms (`_Foo Master Profile` and
     // `Foo Master Profile`) per lib/donor-map/resolver.ts. Closes ~5,500
     // unresolvable wikilinks across both conventions.
