@@ -3,6 +3,7 @@
 import { useState, useEffect, useMemo, useCallback, useRef } from "react"
 import { PageHeader } from "@/components/PageHeader"
 import { SavedViewsBar } from "@/components/SavedViewsBar"
+import { fetchConnections } from "@/lib/vault-cache"
 
 type CryptoTier = 'direct' | 'etf' | 'company' | 'adjacent'
 
@@ -215,8 +216,7 @@ export default function CapitolTradesPage() {
       .then(data => setLobbyData(data))
       .catch(() => {})
     // Load per-profile edge data for donor cross-referencing
-    fetch("/api/connections")
-      .then(r => r.json())
+    ;(fetchConnections() as Promise<{ topConnected?: any[] }>)
       .then(data => {
         const map = new Map<string, Set<string>>()
         for (const conn of (data.topConnected || [])) {

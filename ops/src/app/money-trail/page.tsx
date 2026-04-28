@@ -3,6 +3,7 @@
 import { useState, useEffect, useRef, useCallback } from "react"
 import { PageHeader } from "@/components/PageHeader"
 import { SavedViewsBar } from "@/components/SavedViewsBar"
+import { fetchConnections } from "@/lib/vault-cache"
 
 // Filter snapshot saved + restored by SavedViewsBar. Keep this small — only
 // fields a user would meaningfully want to recall later. We deliberately
@@ -131,7 +132,7 @@ export default function MoneyTrailPage() {
       })
       .catch(() => {
         // Fallback: load from connections API
-        fetch("/api/connections").then(r => r.json()).then(data => {
+        (fetchConnections() as Promise<{ topConnected?: any[] }>).then(data => {
           const summaries: ProfileSummary[] = (data.topConnected || [])
             .filter((p: any) => (p.monetaryDetail?.length || 0) > 0 || (p.contracts?.length || 0) > 0)
             .map((p: any) => {

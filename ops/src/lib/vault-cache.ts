@@ -98,3 +98,39 @@ export function fetchHarnessArtifact(opts?: { refresh?: boolean }): Promise<unkn
 export function invalidateHarness() {
   harnessEntry = null
 }
+
+// ─── Connections graph cache ──────────────────────────────────────
+// /api/connections returns the relationship graph (edges + nodes) and
+// is fetched from 11 places across the ops UI: capitol-trades, money-
+// trail, profile (5 fetches), relationships (4 fetches). The server
+// already has a 120s in-memory cache, but each call still pays the
+// full HTTP round-trip + JSON parse on the client. Same module-level
+// promise pattern as vault: first caller fetches, concurrent callers
+// share the promise, subsequent callers within TTL get the cached
+// payload.
+
+const CONNECTIONS_TTL_MS = 60_000
+let connectionsEntry: { promise: Promise<unknown>; timestamp: number } | null = null
+
+export function fetchConnections(opts?: { refresh?: boolean }): Promise<unknown> {
+  const refresh = opts?.refresh === true
+  const now = Date.now()
+
+  if (connectionsEntry && !refresh && now - connectionsEntry.timestamp < CONNECTIONS_TTL_MS) {
+    return connectionsEntry.promise
+  }
+
+  const promise = fetch("/api/connections")
+    .then((r) => r.json())
+    .catch((e) => {
+      if (connectionsEntry?.promise === promise) connectionsEntry = null
+      throw e
+    })
+
+  connectionsEntry = { promise, timestamp: now }
+  return promise
+}
+
+export function invalidateConnections() {
+  connectionsEntry = null
+}

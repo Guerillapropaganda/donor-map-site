@@ -5,7 +5,7 @@ import { PageHeader } from "@/components/PageHeader"
 import { useSearchParams, useRouter } from "next/navigation"
 import Link from "next/link"
 import { readinessColor, typeColor, type Profile } from "@/lib/vault"
-import { fetchVault } from "@/lib/vault-cache"
+import { fetchVault, fetchConnections } from "@/lib/vault-cache"
 import { VerificationChecklist, evaluateReadinessEligibility, evaluateStoryGrading } from "@/components/VerificationChecklist"
 import { PipelineDataViewer } from "@/components/PipelineDataViewer"
 import { ConnectionsExplorer } from "@/components/ConnectionsExplorer"
@@ -100,7 +100,7 @@ export default function ProfilePage() {
 
     Promise.all([
       fetch(`/api/profile?path=${encodeURIComponent(profilePath)}`).then((r) => r.json()),
-      fetch("/api/connections").then((r) => r.json()),
+      fetchConnections(),
     ])
       .then(([profileData, connData]) => {
         if (profileData.profile) {
@@ -315,7 +315,7 @@ export default function ProfilePage() {
       // Refresh profile + connections
       const refreshed = await fetch(`/api/profile?path=${encodeURIComponent(profilePath)}`).then(r => r.json())
       if (refreshed.profile) setProfile(refreshed.profile)
-      const connData = await fetch("/api/connections").then(r => r.json())
+      const connData = await fetchConnections()
       setConnections((connData.connections || []).filter(
         (c: Connection) => c.source === profile.title || c.target === profile.title
       ))
@@ -335,7 +335,7 @@ export default function ProfilePage() {
       setConnMsg(data.message || "Removed")
       const refreshed = await fetch(`/api/profile?path=${encodeURIComponent(profilePath)}`).then(r => r.json())
       if (refreshed.profile) setProfile(refreshed.profile)
-      const connData = await fetch("/api/connections").then(r => r.json())
+      const connData = await fetchConnections()
       setConnections((connData.connections || []).filter(
         (c: Connection) => c.source === profile.title || c.target === profile.title
       ))
@@ -636,7 +636,7 @@ export default function ProfilePage() {
                 try {
                   const [profileData, connData] = await Promise.all([
                     fetch(`/api/profile?path=${encodeURIComponent(profilePath!)}`).then(r => r.json()),
-                    fetch("/api/connections").then(r => r.json()),
+                    fetchConnections(),
                   ])
                   if (profileData.profile) {
                     setProfile(profileData.profile)
@@ -1037,7 +1037,7 @@ export default function ProfilePage() {
                           // Refresh
                           const refreshed = await fetch(`/api/profile?path=${encodeURIComponent(profilePath!)}`).then(r => r.json())
                           if (refreshed.profile) setProfile(refreshed.profile)
-                          const connData = await fetch("/api/connections").then(r => r.json())
+                          const connData = await fetchConnections()
                           setConnections((connData.connections || []).filter(
                             (c: Connection) => c.source === profile!.title || c.target === profile!.title
                           ))
