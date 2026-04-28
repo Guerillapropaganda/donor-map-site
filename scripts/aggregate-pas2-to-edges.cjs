@@ -64,7 +64,10 @@ const FILES = [
   // Build cmte_id → entity for both politicians and non-politicians.
   const cmteToEntity = new Map();
   const candIdToEntity = new Map();
+  // Index entities by profile_path so registry → entity lookup works.
+  const entByProfilePath = new Map();
   for (const e of ents) {
+    if (e.profile_path) entByProfilePath.set(e.profile_path, e);
     if (!e.signals) continue;
     if (e.signals.fec_committee_id) cmteToEntity.set(e.signals.fec_committee_id, e);
     if (Array.isArray(e.signals.fec_committee_ids)) {
@@ -79,7 +82,29 @@ const FILES = [
       }
     }
   }
-  console.log(`  cmte index: ${cmteToEntity.size}, cand index: ${candIdToEntity.size}`);
+  const cmteIndexFromSignals = cmteToEntity.size;
+
+  // Per ADR-0024: fec-committee-registry.json is the canonical mapping
+  // of FEC committee IDs to vault profiles. Consult it as a fallback
+  // when entity signals don't have the committee_id set. This closes
+  // the Fairshake-shape gap surfaced 2026-04-28: today's 371 stub-
+  // resolution mappings landed in the registry but the entity records
+  // were not backfilled with signals.fec_committee_id. Without this,
+  // the aggregator was blind to those mappings on first run.
+  const REGISTRY_FILE = path.join(ROOT, 'data', 'fec-committee-registry.json');
+  let registryMappingsAdded = 0;
+  if (fs.existsSync(REGISTRY_FILE)) {
+    const reg = JSON.parse(fs.readFileSync(REGISTRY_FILE, 'utf-8'));
+    for (const [cid, entry] of Object.entries(reg)) {
+      if (!entry || !entry.vault_profile) continue;
+      if (cmteToEntity.has(cid)) continue; // entity signals win
+      const ent = entByProfilePath.get(entry.vault_profile);
+      if (!ent) continue; // registry points at a profile we don't have an entity record for
+      cmteToEntity.set(cid, ent);
+      registryMappingsAdded++;
+    }
+  }
+  console.log(`  cmte index: ${cmteToEntity.size} (${cmteIndexFromSignals} from entity signals + ${registryMappingsAdded} from registry fallback), cand index: ${candIdToEntity.size}`);
 
   const nowIso = new Date().toISOString();
   const allEdges = [];
