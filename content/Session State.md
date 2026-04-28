@@ -4,6 +4,75 @@ type: system
 last-updated: 2026-04-28
 ---
 
+## HANDOFF — 2026-04-28 PM (Story-card buttons + ADR-0027 frontmatter cache prune mode + librarian gap audit + alias rules — 8 commits)
+
+**Context:** Code Claude. Worktree `claude/sleepy-snyder-346eee`, Opus 4.7 (1M context). Continuation from earlier 2026-04-28 session — fresh chat opened to riff on Stories triage UX. Single user question ("why is the card so spartan?") opened an arc that found a load-bearing architectural asymmetry, shipped P1 of a new ADR, and produced the librarian-gap priority queue with the first two items closed.
+
+### THE ARC (5 phases)
+
+**(1) Story-card receipt buttons (commit `fc9ded696`).** /stories cards gained 💰 money / 🔗 evidence / ✍️ draft from evidence per card. Powered by new `ops/src/lib/story-evidence.ts` shared library (~640 LOC) that classifies edges via `lib/donor-map/edge-taxonomy` and the librarian. Three thin endpoints (`/api/stories/money`, `/evidence`, `/draft-from-evidence`). Verified live: Alex Padilla / PG&E pulled $2,250 across 2 FEC individual-bulk edges + shared donor PG&E ($358k → counterparty). Test mutation reverted before commit. Per Rule 4 the brief writer assembles receipts only — editorial framing slots are explicit placeholders.
+
+**(2) Crypto Industry Bloc / Warren ghost (commit `ca2330046`).** First triage of the new buttons immediately surfaced a 5/5-confidence very-high story candidate that turned out to be a frontmatter-only ghost — Warren in the Bloc's `politicians-funded` (incorrect; central thesis says bloc OPPOSES Warren) was mirrored into Warren's `donors`. Hand-fixed both halves. New harness check `relationship-overlap-check.cjs` registered, classifies overlaps via librarian: 4 frontmatter-only ghosts found, 61 monetary-backed real both-sides plays correctly distinguished. Story auto-archives stale on next dispatcher tick.
+
+**(3) ADR-0027 (commits `11e5841c7` proposed → `15be5255f` P1 shipped).** The Bloc finding revealed `rebuild-relationship-caches.cjs` is **additive-only** — it adds names matching canonical edges but never removes orphan names without librarian backing. So Rule 1's "frontmatter is a read-cache" is true in letter but not in spirit. Aggressive auto-prune rejected because Bowman / Fairshake matches every "fake" rule but is actually a librarian gap (FEC committee-stub). Decision: editor-in-the-loop diff-report mode. P1 shipped same day: `--report-orphans` flag on rebuilder, new canonical store `data/frontmatter-orphan-candidates.jsonl` (8,848 records), helper `scripts/lib/frontmatter-orphan-candidates-store.cjs`, harness check `scripts/frontmatter-orphan-check.cjs`, sentinel guard extension. **No frontmatter writes happen yet** — P2 ops UI + P3 `--apply-approved` deferred to subsequent sessions.
+
+**(4) Librarian gap audit (commit `1b4a57984`).** David asked "how do we make sure the librarian doesn't have gaps?" — answer was a diagnostic harness check (`scripts/librarian-gap-audit.cjs`) that classifies every guarded-field wikilink into one of 5 gap classes (unresolvable / node-isolated / fec-committee-suspect / alias-candidate / ok). First scan: 11,244 unique wikilinks across guarded fields. 7,463 ok, 655 unresolvable, 18 node-isolated, 18 fec-committee-suspect, 3,090 alias-candidate. Priority queue lives in `content/Admin Notes/librarian-gap-audit.md`. `findings_count` scoped to high-leverage (≥10 appearances) so it doesn't dominate the queue.
+
+**(5) Alias rules: priority-queue items #1 + partial #5 (commits `a39a04cea`, `3c1fe872f`, `4d2a216f1`).** Item #1 closed by adding `profilePathToWikilinkAlias()` to the librarian's resolver — both `_Foo Master Profile` and `Foo Master Profile` wikilink forms now auto-alias to canonical entity. Then extended to register the bare profile-path stem unconditionally, which closed AT&T - WarnerMedia (267), Raytheon (RTX) (222), Honeywell (212), iHeartMedia (120). Then 12 editorial-approved FEC-edge aliases added directly to entities.jsonl (Bank of America ← BANK OF AMERICA,NA; Emily's List ← Emilys List; etc.). False positives explicitly skipped (Pelosi/Mace, Blackstone/BlackRock, NRSC/NRCC). **Cumulative gap-audit drop: unresolvable appearances 7,128 → 436 (-94%).** TS resolver, CJS canonical-name-resolver, and gap-audit kept in lockstep — `librarian-parity-test` passes.
+
+### Commits merged to v4 today (this session)
+
+- `fc9ded696` — /stories: 💰/🔗/✍️ buttons per card (story-evidence.ts shared lib)
+- `ca2330046` — relationship-overlap harness check + Crypto Industry Bloc / Warren fix
+- `11e5841c7` — ADR-0027 proposed
+- `15be5255f` — ADR-0027 P1 shipped: orphan-candidates store + harness check
+- `1b4a57984` — librarian-gap-audit diagnostic harness check
+- `a39a04cea` — Resolver: auto-alias `_Foo Master Profile` (+ no-underscore variant)
+- `3c1fe872f` — Resolver: register bare profile-path stem as alias (universal)
+- `4d2a216f1` — Entities: 12 FEC-edge alias entries (Bank of America, Emily's List, etc.)
+
+### State of the repo
+
+**New harness checks registered:** `relationship-overlap`, `frontmatter-orphan-candidates`, `librarian-gap-audit`. All three fire successfully through `vault-audit.cjs` (verified 03:36 UTC). All show in `content/Admin Notes/Attention Queue.md` and `vault-audit-latest.json` (the artifact the ops Dashboard reads). Dispatcher will pick them up every 15 min.
+
+**Librarian gap classes (current):**
+- ok: 7,943 names / 104,077 appearances (was 7,463 / 97,400)
+- unresolvable: 171 names / 436 appearances (was 655 / 7,128 — **−94%**)
+- alias-candidate: 3,090 names / ~9,800 appearances
+- node-isolated: 19 / 634 (mostly media figures, coverage gap)
+- fec-committee-suspect: 18 / 77 (FEC committee-stub-resolution territory)
+
+**Frontmatter-orphan-candidates store: 8,848 records** in `data/frontmatter-orphan-candidates.jsonl`. State distribution: all `candidate` (none triaged yet — P2 ops UI ships next session). 16 strong-signal (in_opposes + opposition edges) → these are the prune candidates ranked by editorial-typo risk.
+
+**ADR-0027 status:** Accepted. P1 shipped. P2 (ops UI ~2hr) and P3 (--apply-approved ~1hr) deferred. P4 (tiered auto-prune for librarian-comprehensive fields) gated on FEC committee-stub-resolution.
+
+### Known issues / NEXT-SESSION PRIORITIES
+
+**Architectural follow-ups from this session:**
+1. **Refactor gap-audit + orphan-check to go through the librarian's resolver** (per ADR-0024). Currently they key edge counts by raw `edge.from`/`to` strings — alias additions to `entities.jsonl` don't reflect in their counts. Until refactored, the "didn't move the gap-audit number" feedback masks real wins. ~2hr.
+2. **ADR-0027 P2 (ops UI for orphan triage).** `/relationships/orphans` view with three actions (✂ prune / 🔒 keep / 🚧 librarian-gap). ~2hr.
+3. **ADR-0027 P3 (--apply-approved mode).** Rebuilder gains write authority over approved-prune entries. ~1hr.
+
+**Priority queue from librarian-gap-audit** (in `content/Admin Notes/librarian-gap-audit.md`):
+4. Sweep `_VAULT_INDEX` and similar system noise from `related:` (~30min, ~10 appearances).
+5. More alias-candidate review — top remaining unresolvable (The Daily Wire 57, Breaking Points 50, David Sacks (Donor Network) 25, Fairshake PAC - Crypto Super PAC 22 likely a duplicate profile, JB Pritzker (Donor Network) 12, Fox Corp - Rupert Murdoch 8). Mix of alias work + entity-record creation + duplicate-profile merges.
+6. **FEC committee-stub-resolution** — the multi-session ~10hr project documented in `content/Admin Notes/fec-committee-stub-resolution.md`. Closes Bowman ↔ Fairshake-shape stories AND ~80 fec-committee-suspect orphans.
+
+**Carried from earlier session (still open):**
+7. AtStartup trigger on dispatcher task (needs elevated PowerShell).
+8. Capital_type Path B batch-tagger (~3-4hr).
+9. Calendar / sprint-schedule auto-wiring (~2hr).
+10. Rulebook audit (~1-2hr).
+11. Money Trail "actually about money" rebuild (own session).
+
+### Critical context for incoming chat
+
+- **Pipeline state unchanged from earlier session**: ALL pipelines paused except RSS Intelligence + Auto-Connection Engine (both manual GitHub Actions). Dispatcher daemon PID still 40280 from earlier session — **DO NOT Ctrl+C**.
+- **Story candidate cleanup:** the Bloc/Warren story is now flagged stale; auto-archive flow on /stories will clear it on next tick (or click "auto-archive stale" to do it now).
+- **Editorial review queue items 22 frontmatter-only opposes + Pressley concept-level entries from earlier session** still open — David's lane.
+
+---
+
 ## HANDOFF — 2026-04-28 (Stories complete + librarian gap closed + deferred-items sweep + pipeline pause + dispatcher fix — 22 commits)
 
 **Context:** Code Claude. Worktree `claude/frosty-nash-adddd2`, Opus 4.7 (1M context). Continuation from 2026-04-27 evening — fresh chat opened for Stories implementation (deferred audit item #9), then went down the deferred-items list. Major architectural work: Stories canonical layer, librarian-gap audit + fix, pipeline pause + dispatcher recovery.
